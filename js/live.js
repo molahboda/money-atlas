@@ -1,86 +1,86 @@
 /* 자동 생성 파일 — update_live.py 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-21T19:42:22+00:00",
-  "quotesAt": "2026-07-21T19:42:22+00:00",
-  "newsAt": "2026-07-21T17:29:23+00:00",
+  "fetchedAt": "2026-07-21T21:18:37+00:00",
+  "quotesAt": "2026-07-21T21:18:37+00:00",
+  "newsAt": "2026-07-21T21:18:37+00:00",
   "quotes": {
     "kospi": 6747.95,
-    "spx": 7509.48,
+    "spx": 7509.2,
     "nikkei": 66232.19,
-    "vix": 17.0,
-    "krw": 1481.7,
-    "gold": 4088.6,
-    "wti": 84.63
+    "vix": 17.05,
+    "krw": 1482.5,
+    "gold": 4076.4,
+    "wti": 84.34
   },
   "daily": {
     "kospi": 3.56,
     "spx": 0.89,
     "nikkei": 3.26,
-    "vix": -8.85,
-    "krw": 0.22,
-    "gold": 1.81,
-    "wti": 2.61
+    "vix": -8.58,
+    "krw": 0.27,
+    "gold": 1.51,
+    "wti": 2.26
   },
   "news": [
     {
-      "t": "미국, 캐나다산 유제품∙주류∙자동차 등에 50% 신규 관세 부과",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jLTk4QlpvRTFnSnVyZGpmM3hPR1hxb1lLbGZYSjRGVEdoV1NrVk53bEtzbHBLNS1vU3NKbUVfQkFmcGxoX1Y5TUZQZHMyV21tVEduVkNYM0FSenJpQlVWLUpqRDhtdDJFcTdYeHFRUkxBN3pSS1HSAXhBVV95cUxOcDFHX0I0RkJ0TnhyRXBERmJ3VFJ0NjFSZk5NZVJWYjloRXdKVnkzMDZsQ2xHVkVXSGduSERNaEh1TWFZTjd6LVVsSHBiU1ljUGNzRmQwMVZTYXNSRFJQSlRZclVJZFpuNlZfMmJiUmdGaDZsUjVMRkY?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-07-21T17:10:31+00:00"
+      "t": "상승 멈춘 생산자물가…유가 재급등에 다시 켜진 '물가 경고등'",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUUp0SktSQURqeVMyNTRnMERsTTVWX3RfcFBxVHBkRl81VjhyS2FadVpva25id3BVT3J3ektwNVlJdnVWeGwzRDF2aVEwMm45RE94b0pGTnRVcGJadWp6NS1tMlk?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-07-21T21:08:01+00:00"
     },
     {
-      "t": "유럽증시, 유가 오름세에도 기술주 강세에 힘입어 일제히 상승… 기업 실적도 소화",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iQnhaYnV2ZWdjVnVQS29xSjRudkZpNmxBanVrWmRRVlRKU0tTRmxCWGVHeEowZjk0eVZ1aDBPVUFTajd2bW5jdUlCaUppeHhndTJxY0xHbThRYURq?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-21T16:53:00+00:00"
+      "t": "신현송이 지목한 ‘가장 중요한 지표’…반도체 가격 상승폭, 더 커졌다",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDNRLUVaZ1l1TEsyVmgtMERUNG1IRUdfSU1wdDIxc3NaTGxfQVJQUFU4VFhkNWZ3N29JRlNsaUhsMmFvVmFNRlY4WnlxU0Z1d0lRUUlDZDF1dktITmFnWFgza2cyeEFmUkhtVDJETldLd08wNFRwVUw5R015WkRVOWMweS1KUlpNaV9CNkl3?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-21T21:06:19+00:00"
     },
     {
-      "t": "뱅크오브아메리카, 관세 우려 속 CAD/JPY 숏 포지션 진입",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRQk0wY0hPODNQaE05UHRxWWpDOFEwb0o0SFlQTFIwaXlaX0FINWpwQjRqNUwtdzlhVEgzbGluaG1iV1FPZXlua2ozWnpGcnZfT0tMWHJtaTJiY3c0WFlSTHRxZkRmcG9DMFlGUVNR?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-21T16:36:00+00:00"
+      "t": "[코스피·코스닥 전 거래일(21일) 주요공시]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHeklZTjlFR01oYmNfb21SYXd4N2JSVXJ5cEFjVU5XNG9uS0ZuQnRCNHhwQjJlR0VwTDd1NWpMenNXMUdOb1A1cUJnSkdBZU5UOEpqbENaQnBuUGPSAWBBVV95cUxNNkdhdEFwYXZjZUZBaVpldzlEcFpMRGxhQmZVQmNxUGVsYVRqb2ROeUVQMTI3TkNGT0MtNUk4NWtEUE1INjJhaFBkSXc4cURWWWxDLTluYjdaczNKTk42Rzg?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-21T21:05:01+00:00"
     },
     {
-      "t": "SK하이닉스 ADR 하루만에 급반등…반도체株 저가매수에 10%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85czlWMEFOZm1VRFlRLXk0WVVLakgwYkxpeHROVTU0QzB1YmZtVUxLa2NRVXNPREdDMWtTdFJhcC1XT2lwNVRpOUNJQzVqYmQ4MVRGQndMSGo3M0ZZVVFBeGlpU3JGazFpbHlXTDdsU2U?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-21T16:33:38+00:00"
+      "t": "[뉴욕증시] 실적 호조·반도체주 반등에 상승",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRm94eTFKNVhjb05OVG5SaXd6NjNnMGpya2lrT0VkVThCdGpPejcxS0JNLUVwODhJd3lCTUdCX0g5MDVUc2RUejRXQ2J2RUlYQ3VsUG01QldGUHZ0cEw5OA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-21T21:04:22+00:00"
     },
     {
-      "t": "캐나다 총리, '50% 관세'에 \"트럼프와 통화…협상 강화 합의\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pWlVNSTROTnZGYTBNZE9JT05HbnlhaUswVmdnQzhUaWNocXJoMmlueXlrOW8xajE2Z3M5VEluSG9fQWh6R2pCY0RESFd5NG8?oc=5",
+      "t": "유가 또 90달러 위협…다시 고개 든 '3고', 한국 경제 압박",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SMUQySFpFYzBjeFFLeF9SLTRIdnpuU0lnMExkY1VGZEMwRUpKQTVpSE9jT0llbEVLcTdOVmtZOVhNTFpiai1JSDVubFk0WGc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-21T16:18:54+00:00"
+      "d": "2026-07-21T21:02:25+00:00"
     },
     {
-      "t": "AI칩 소부장 강국된 獨 \"K반도체와 파트너십 강화\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcDV6UTU1aXZPanYxUkJRUThodkl4cnN5TG1WVXduTEtVWC1ZU3dYZ2VDWVdIZWw2YW1QaHJOLTJoTHFKZ3NGYldfNF8zZGxJanc1UVBaQktTdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-21T16:17:00+00:00"
+      "t": "6월 생산자물가, 오름세 멈췄다 … 기업 원가부담 한숨 돌려",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hTGFTMm03ZDhBZTJkNFFBMERlaTJlMy1EUDFlZFJmVTVObl9yb3VQRXF0Z0MtUXRPcElhcWNaYkJIekxuVXBETEk5OUlXcXRkNGNETnlrS0VtUGxvZ3ltdkJobmJJNUJ0d3lFeUwyOXpTakF6LV9oa29UQdIBgAFBVV95cUxNRzdpNllxa01QdjZySGZ3UDNXSEhUdzhrc0FGZ3RTNVVWbWN1M0VMRnQ2Z0FhMzB5QVBLWURqbGV2dTNCT2c5eWVlM1lUV2VmTWpuZDBkUl9uVVVaMVAwOTM1Z0xOMmo5RW9HSzdLU1AxdnI1UEIyNWFRZnZneVlUQw?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-07-21T21:02:00+00:00"
     },
     {
-      "t": "[단독] SK하이닉스의 승부수…인텔 美오하이오 공장 산다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ISUhIZkw2RnNTRVp5bzhoNHBUaU1uNVVmTFE1b01EYmM2b2tWczdfZVN5dkVCRVRGQXg5ZDFxdzQ3Y0ZqNWtlSmU0VWRVaXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-21T16:01:37+00:00"
+      "t": "6월 생산자물가지수 보합…농림수산품 오르고 공산품 하락",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XRkRucEZtRGw3WjNxNkk0ck1IZ19WUDZEYXV3NzQwVUoyaE1Tc09jYzI5WnphQXhSSWhOX0w5eGZUX0NQM0JBSGNsenhLazZQZmtUbGlwUWtVejQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-21T21:01:00+00:00"
     },
     {
-      "t": "트럼프 10% 임시관세 만료 임박… USTR “곧 조치 있을 것”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJUjczbVlpWWVBbjNJb0otTl9rVXRKUUhHakhPbWxld3VhZWU0U1dhVUhXLXVPc283Vk1oOXNjOUptY2tGTjRnNlREUEgtak9tZFdtZkxtWndLMnk4bmQ1MXZWWWtUelB2SEE?oc=5",
-      "s": "천지일보",
-      "d": "2026-07-21T16:00:00+00:00"
+      "t": "6월 생산자물가 전월比 보합…한은 \"2차 파급효과 지속 중\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YN1ROeERmTEZENFUyX3RPVGlMQTMzMUJzRF9sdFdXSzdtbnFpVUFPZmRobjBwVzhYanJRbjdqZFZCYndmeXdpYlpQZWtVX096WGZONVBjazE1c1NYWDNhRkU2WnBRWTdTREdhOEJsVy1Vdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-21T21:00:09+00:00"
     },
     {
-      "t": "트럼프 ‘글로벌 관세 10%’ 만료 새로운 관세 부과 준비",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50Q1Z4T1lYbXhCNTZpLXhkVUlvMWhCLS03ODNJY19qTDNXenZuSmNQbXAtaHZ5cVVlTGRjV3RrLUZqVF9kcmU5U0ZRTkUyZUlWTnJVbUNnTUxqSHU5YVh2bjZGRmRsZkNNdnhJ?oc=5",
-      "s": "미디어데일",
-      "d": "2026-07-21T15:49:39+00:00"
+      "t": "유가 하락에 6월 생산자물가 10개월 만에 보합",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rV0RhSTJ4dG12bXFKMlZWSnpSTTFUeURuMmlZMmdLRTNDNUFnN3RIdC0tQkNSTEQzR1pheGJRbFdkTzBuTG1FMXo3ek9FMjI5azNnSGRyYktiemvSAWBBVV95cUxOemlzTHBWZENMQml4dmVDQzZTQS1vX04zYm1QajV5T2ZQblBLNkpmMndWU3BmbkRTT21aMUhmMXhhakpGUzFvV0d4aDFIX2RtNVY4MFRhYU9pb3FLcll6MFg?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-21T21:00:04+00:00"
     },
     {
-      "t": "미국-멕시코 무역 협상, 트럼프 캐나다에 추가 관세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ldnVRdm1OUFB2dkVpa1ZmeE0xNm8yVnIxbi1XMWVKSUNZdW8taHRST2ltdWZ4Qi1WckxCM3BfR1FJSFZmY3dTZGF5Nl9HNGtFa1BQclVLTl9VV3ppMnYtRTNiWFJnQk13VEJFazExVEM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-21T15:43:00+00:00"
+      "t": "‘포모’에서 ‘조모’로 돌아선 개미들···증시 하락에 “안 사길 다행”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRU9kM1hRWjZzNnZtMVVGY3FyRTU1bTB0YU5XN1BQNG9Wa1NxTGhpVWlGZjRxNFpNR3ZSRmFUaTJYRUlGcUFwSURyeUszblotVnc5QS00VlZFUdIBX0FVX3lxTFA4Yk8wUXNDd0E4VEU1OTdwT2twd0RMUkg0LW5jSS16SUlLOVlFMENUYUUxTjNIUGRHWE5FaDNoVzZ5ZDQ3ZllITllyM08wbEItem83OGQzWUE0UEFZZ2Jn?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-21T21:00:00+00:00"
     }
   ],
   "asof": {},
