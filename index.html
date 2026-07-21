@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>머니 아틀라스 — 돈을 움직이는 모든 것의 지도</title>
+  <meta name="description" content="금리·주가지수·환율·원자재·채권 — 1970년부터 56년의 데이터로 시장의 패턴과 사이클, 상승과 하락의 이유를 추적하는 한국어 매크로 지도. 실시간 뉴스 브리핑과 현 국면 진단(나침반) 제공.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <meta property="og:title" content="머니 아틀라스 — 돈을 움직이는 모든 것의 지도">
+  <meta property="og:description" content="56년의 금리·주가·환율·원자재 데이터로 읽는 시장의 패턴과 사이클. 지금 우리는 역사의 어디에 있나 — 나침반 진단과 실시간 뉴스 브리핑.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="머니 아틀라스 — 돈을 움직이는 모든 것의 지도">
+  <meta name="twitter:description" content="56년 데이터로 읽는 시장의 패턴과 사이클, 그리고 지금의 위치.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧭</text></svg>">
+  <link rel="stylesheet" href="css/style.css?v=4">
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="brand">MONEY <em>ATLAS</em><span>머니 아틀라스</span></div>
+    <nav class="topnav">
+      <a href="#news">뉴스</a>
+      <a href="#overview">개요</a>
+      <a href="#compass">나침반</a>
+      <a href="#dashboard">대시보드</a>
+      <a href="#correlation">상관관계</a>
+      <a href="#cycles">사이클</a>
+      <a href="#patterns">패턴</a>
+      <a href="#history">역사</a>
+      <a href="#mechanism">머니 플로우</a>
+    </nav>
+  </header>
+
+  <!-- 실시간 시세 티커 -->
+  <div class="ticker-bar" id="tickerBar"><div class="ticker-track" id="tickerTrack"></div></div>
+
+  <main>
+
+    <!-- ==================== 실시간 뉴스 브리핑 ==================== -->
+    <section id="news" class="news-sec">
+      <div class="sec-head">
+        <h2>실시간 머니 뉴스 브리핑</h2>
+        <p class="sec-sub" id="newsAsof"></p>
+      </div>
+      <div class="news-list" id="newsList"></div>
+      <p class="method-note">
+        헤드라인 출처: 구글 뉴스 RSS(국내 주요 언론사) · 분류와 "작용 경로" 해설은 키워드 기반 자동 매칭(교육용)으로,
+        개별 뉴스의 실제 영향과 다를 수 있습니다. "역사에선 실제로"는 이 사이트의 역사 데이터·사례에서 가져옵니다.
+      </p>
+    </section>
+
+    <div class="ad-slot" id="adSlot1"></div>
+
+    <!-- ==================== 개요 ==================== -->
+    <section id="overview" class="hero">
+      <h1>돈을 움직이는 모든 원인을<br>한 장의 <em>지도</em>로</h1>
+      <p class="lede">
+        금리 · 국가 주가지수 · 환율 · 원자재(석유·금) · 채권 · 버핏지수 · VIX —
+        <b>1970년부터 2025년까지 56년</b>의 데이터를 겹쳐 놓고,
+        자산 가격이 <b>왜 올랐고 왜 떨어졌는지</b>, 어떤 <b>패턴과 사이클</b>이 반복되는지 추적합니다.
+      </p>
+      <div class="hero-chips">
+        <span>미국·한국 기준금리</span><span>국채 10Y·2Y</span><span>S&amp;P 500</span>
+        <span>KOSPI</span><span>니케이 225</span><span>원/달러</span><span>달러인덱스</span>
+        <span>금</span><span>WTI 유가</span><span>CPI</span><span>VIX</span><span>버핏지수</span>
+      </div>
+
+      <div class="snap-caption">
+        <h3>지금 우리는 어디에 있나</h3>
+        <span id="snapCaption">2025년 말 기준 근사치 · 막대는 1970년 이후 역사 범위 내 위치</span>
+      </div>
+      <div class="snapshot-grid" id="snapshotGrid"></div>
+    </section>
+
+    <!-- ==================== 나침반 (현 위치 진단) ==================== -->
+    <section id="compass">
+      <div class="sec-head">
+        <h2>나침반 — 역사 속에서 현 위치 읽기</h2>
+        <p class="sec-sub" id="compassAsof"></p>
+      </div>
+
+      <div class="dial-grid" id="compassDials"></div>
+
+      <div class="panel compass-summary" id="compassSummary"></div>
+
+      <div class="sub-head">
+        <h3>지금과 가장 닮은 해 — 데이터 유사도 분석</h3>
+        <p>물가·금리·금리차·밸류에이션·주가/달러 추세 8개 특징을 표준화해, 1977년 이후 어떤 해가 지금과 가장 비슷한지 계산합니다. "그 뒤 1년"은 참고용 역사이지 예언이 아닙니다.</p>
+      </div>
+      <div class="analog-grid" id="analogGrid"></div>
+
+      <div class="sub-head">
+        <h3>이 국면의 자산별 역사 성적표</h3>
+        <p id="playbookIntro"></p>
+      </div>
+      <div class="pb-grid" id="playbookGrid"></div>
+
+      <div class="sub-head">
+        <h3>앞으로의 세 갈래 길 — 시나리오와 감시 신호</h3>
+        <p>미래는 단수가 아닙니다. 역사에서 유추한 세 경로와, 어느 길로 들어섰는지 알려줄 신호들입니다.</p>
+      </div>
+      <div class="sc-grid" id="scenarioGrid"></div>
+
+      <div class="advice-note">
+        <b>중요 고지</b> 이 섹션은 특정 종목·상품의 매수·매도 추천이 아니라, 과거 유사 국면에서 자산군이 어떻게
+        움직였는지에 대한 <b>역사 요약(교육 콘텐츠)</b>입니다. 이 사이트와 제작 AI는 투자 자문 자격이 없으며,
+        과거 패턴은 미래 수익을 보장하지 않습니다. 실제 투자 판단은 본인의 상황에 맞게, 필요시 자격 있는
+        전문가와 상의해 내리시기 바랍니다.
+      </div>
+    </section>
+
+    <!-- ==================== 대시보드 ==================== -->
+    <section id="dashboard">
+      <div class="sec-head">
+        <h2>매크로 대시보드</h2>
+        <p class="sec-sub">
+          56년의 지표를 한 화면에 겹쳐 보세요. 회색 음영은 미국 경기침체(NBER), 상단 ◆는 주요 사건입니다.
+          가격 지표는 시작 시점 = 100으로 지수화되어 서로 다른 단위를 공정하게 비교합니다. %지표(금리·CPI 등)는 오른쪽 축입니다.
+        </p>
+      </div>
+      <div class="toolbar">
+        <div class="toolbar-row"><span class="label">관점</span><div class="chip-row" id="presetChips"></div></div>
+        <div class="toolbar-row">
+          <span class="label">기간</span><div class="chip-row" id="rangeChips"></div>
+          <button class="tgl" id="tglNorm">지수화 (=100)</button>
+          <button class="tgl" id="tglLog">로그 스케일</button>
+          <span id="rangeLabel"></span>
+        </div>
+      </div>
+      <div class="legend" id="legendChips"></div>
+      <div class="chart-wrap">
+        <canvas id="mainChart"></canvas>
+        <div class="tooltip" id="mainTip"></div>
+      </div>
+      <p class="hint">차트 위에서 드래그하면 구간 확대 · 더블클릭하면 전체 보기 · 상단 ◆ 마커에 마우스를 올리면 사건 설명</p>
+      <p class="footnote">연말 기준 연간 데이터 · 공개 통계를 바탕으로 재구성한 교육용 근사치 · 2025년은 잠정치</p>
+    </section>
+
+    <!-- ==================== 상관관계 ==================== -->
+    <section id="correlation">
+      <div class="sec-head">
+        <h2>상관관계 매트릭스 — 무엇이 함께 움직이나</h2>
+        <p class="sec-sub">
+          내장된 실제 데이터의 연간 변화로 계산한 피어슨 상관계수입니다. <b style="color:#f0616d">빨강 = 같이 움직임(+)</b>,
+          <b style="color:#5b8def">파랑 = 반대로 움직임(−)</b>. 셀을 클릭하면 그 관계의 해석과 <b>시대별 변화</b>가 표시됩니다.
+          기간 버튼을 바꿔보세요 — 상관관계는 상수가 아니라 시대의 산물임을 보게 됩니다.
+        </p>
+      </div>
+      <div class="chip-row" id="corrRangeChips"></div>
+      <div class="corr-layout">
+        <div class="corr-matrix-wrap"><table id="corrMatrix"></table></div>
+        <div class="corr-detail" id="corrDetail"></div>
+      </div>
+      <div class="cards-3" id="corrInsights"></div>
+      <p class="method-note">
+        방법: 가격 지표는 연간 로그수익률, 금리·CPI 등 %지표는 연간 변화폭(％p) 기준. 연간 데이터라 표본이 작아(기간당 6~55개)
+        참고용이며, 상관은 인과가 아닙니다. 표본 6개 미만은 "–"로 표시.
+      </p>
+    </section>
+
+    <!-- ==================== 사이클 ==================== -->
+    <section id="cycles">
+      <div class="sec-head">
+        <h2>사이클 — 반복되는 계절</h2>
+        <p class="sec-sub">
+          시장은 예측할 수 없지만, 국면은 순환합니다. 성장과 물가의 조합(투자시계), 금리 사이클의 4국면,
+          그리고 침체를 예고해온 장단기 금리차와 7~10년 주기의 달러 사이클.
+        </p>
+      </div>
+
+      <div class="cycle-grid">
+        <div class="panel">
+          <h3>투자시계 — 성장 × 물가의 4계절</h3>
+          <p class="panel-sub">사분면을 클릭하면 그 국면의 승자 자산과 역사적 사례가 표시됩니다</p>
+          <div class="clock-flex">
+            <svg id="clockSvg" width="340" height="340" viewBox="0 0 340 340"></svg>
+            <div id="clockInfo"></div>
+          </div>
+        </div>
+        <div class="panel">
+          <h3>금리 사이클의 4국면</h3>
+          <p class="panel-sub">"금리가 오른다/내린다"보다 중요한 것은 지금이 사이클의 어디인가</p>
+          <div id="rateCycle"></div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-bottom:16px">
+        <h3>장단기 금리차 (10년 − 2년) — 가장 유명한 침체 예보관</h3>
+        <p class="panel-sub">
+          파란 영역 = 정상(장기 &gt; 단기), 붉은 영역 = 역전. 역전 뒤 회색 침체 음영이 따라오는 패턴을 보세요.
+        </p>
+        <div class="chart-wrap">
+          <canvas id="spreadChart"></canvas>
+          <div class="tooltip" id="spreadTip"></div>
+        </div>
+        <table class="inv-table" id="invTable"></table>
+      </div>
+
+      <div class="panel">
+        <h3>달러 사이클 — 7~10년의 밀물과 썰물</h3>
+        <p class="panel-sub">
+          붉은 구간 = 강달러기(신흥국 수난), 파란 구간 = 약달러기(원자재·신흥국 강세).
+          강달러 후반부마다 위기가 왔습니다 — 1982 중남미, 1997 아시아, 2015 원자재국.
+        </p>
+        <div class="chart-wrap">
+          <canvas id="dollarChart"></canvas>
+          <div class="tooltip" id="dollarTip"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== 패턴 ==================== -->
+    <section id="patterns">
+      <div class="sec-head">
+        <h2>패턴 플레이북 — 역사가 반복해온 9가지 규칙</h2>
+        <p class="sec-sub">
+          "역사는 그대로 반복되지 않지만 운율은 맞는다." 56년 데이터에서 반복적으로 관찰된 인과 패턴과,
+          각 패턴이 언제 맞았고 언제 어긋났는지 정리했습니다.
+        </p>
+      </div>
+      <div class="cards-2" id="patternGrid"></div>
+    </section>
+
+    <!-- ==================== 역사 ==================== -->
+    <section id="history">
+      <div class="sec-head">
+        <h2>역사 — 왜 올랐고, 왜 떨어졌나</h2>
+        <p class="sec-sub">
+          1970년 이후 14개의 국면. 카드를 클릭하면 그 시대에 무슨 일이 있었는지, 무엇이 왜 오르고 내렸는지,
+          그리고 남긴 교훈을 볼 수 있습니다. 수익률 수치는 내장 데이터에서 자동 계산됩니다.
+        </p>
+      </div>
+      <div class="era-grid" id="eraGrid"></div>
+    </section>
+
+    <!-- ==================== 머니 플로우 ==================== -->
+    <section id="mechanism">
+      <div class="sec-head">
+        <h2>머니 플로우 지도 — 원인에서 자산까지</h2>
+        <p class="sec-sub">
+          돈이 흐르는 인과의 배선도입니다. 노드를 클릭하면 그 변수가 주고받는 영향과 전달 경로,
+          역사적 사례가 표시됩니다. 화살표에 마우스를 올리면 설명이 나타납니다.
+        </p>
+      </div>
+      <div class="mech-layout">
+        <div class="mech-svg-wrap">
+          <svg id="mechSvg" viewBox="0 0 960 560"></svg>
+        </div>
+        <div class="mech-panel" id="mechPanel"></div>
+      </div>
+    </section>
+
+    <div class="ad-slot" id="adSlot2"></div>
+
+  </main>
+
+  <div class="monetize-area" id="monetizeArea"></div>
+
+  <footer>
+    <b>MONEY ATLAS</b> — 돈을 움직이는 원인과 패턴의 역사 지도<br>
+    모든 수치는 공개 통계를 바탕으로 재구성한 <b>연말 기준 연간 근사치</b>(교육용)이며, 2025년은 잠정치입니다.
+    과거의 패턴은 미래의 수익을 보장하지 않으며, 이 사이트는 투자 자문이 아닙니다.
+  </footer>
+
+  <!-- 시대 상세 모달 -->
+  <div class="modal" id="modal">
+    <div class="modal-box">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="js/config.js?v=1"></script>
+  <script src="js/data.js?v=3"></script>
+  <script>
+    /* live.js 는 수시로 갱신되므로 항상 최신본을 재요청 (캐시 우회) */
+    document.write('<script src="js/live.js?ts=' + Date.now() + '"><\/script>');
+  </script>
+  <script src="js/charts.js?v=3"></script>
+  <script src="js/app.js?v=4"></script>
+</body>
+</html>
