@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — update_live.py 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-21T21:18:37+00:00",
-  "quotesAt": "2026-07-21T21:18:37+00:00",
-  "newsAt": "2026-07-21T21:18:37+00:00",
+  "fetchedAt": "2026-07-21T23:04:17+00:00",
+  "quotesAt": "2026-07-21T23:04:17+00:00",
+  "newsAt": "2026-07-21T23:04:17+00:00",
   "quotes": {
     "kospi": 6747.95,
     "spx": 7509.2,
     "nikkei": 66232.19,
     "vix": 17.05,
     "krw": 1482.5,
-    "gold": 4076.4,
-    "wti": 84.34
+    "gold": 4083.6,
+    "wti": 84.71
   },
   "daily": {
     "kospi": 3.56,
@@ -18,69 +18,69 @@ window.LIVE_DATA = {
     "nikkei": 3.26,
     "vix": -8.58,
     "krw": 0.27,
-    "gold": 1.51,
-    "wti": 2.26
+    "gold": 0.18,
+    "wti": 0.44
   },
   "news": [
     {
-      "t": "상승 멈춘 생산자물가…유가 재급등에 다시 켜진 '물가 경고등'",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUUp0SktSQURqeVMyNTRnMERsTTVWX3RfcFBxVHBkRl81VjhyS2FadVpva25id3BVT3J3ektwNVlJdnVWeGwzRDF2aVEwMm45RE94b0pGTnRVcGJadWp6NS1tMlk?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-07-21T21:08:01+00:00"
+      "t": "[시황] 미국증시, 반도체주 반등에 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xbUQ0cGxtOVZhX1JHSEhrbG5XdWVvMHFjOWVnaUc5VDVzOU0xcUx6ZThVQWpDT1Nhb2dqQWtIUGt6eGxGVHB3SWRWSDQ2bW5EaHJjRVA4Wlpwb3FlVHlsaEhn?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-07-21T23:02:41+00:00"
     },
     {
-      "t": "신현송이 지목한 ‘가장 중요한 지표’…반도체 가격 상승폭, 더 커졌다",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDNRLUVaZ1l1TEsyVmgtMERUNG1IRUdfSU1wdDIxc3NaTGxfQVJQUFU4VFhkNWZ3N29JRlNsaUhsMmFvVmFNRlY4WnlxU0Z1d0lRUUlDZDF1dktITmFnWFgza2cyeEFmUkhtVDJETldLd08wNFRwVUw5R015WkRVOWMweS1KUlpNaV9CNkl3?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-21T21:06:19+00:00"
-    },
-    {
-      "t": "[코스피·코스닥 전 거래일(21일) 주요공시]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHeklZTjlFR01oYmNfb21SYXd4N2JSVXJ5cEFjVU5XNG9uS0ZuQnRCNHhwQjJlR0VwTDd1NWpMenNXMUdOb1A1cUJnSkdBZU5UOEpqbENaQnBuUGPSAWBBVV95cUxNNkdhdEFwYXZjZUZBaVpldzlEcFpMRGxhQmZVQmNxUGVsYVRqb2ROeUVQMTI3TkNGT0MtNUk4NWtEUE1INjJhaFBkSXc4cURWWWxDLTluYjdaczNKTk42Rzg?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-21T21:05:01+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 실적 호조·반도체주 반등에 상승",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXRm94eTFKNVhjb05OVG5SaXd6NjNnMGpya2lrT0VkVThCdGpPejcxS0JNLUVwODhJd3lCTUdCX0g5MDVUc2RUejRXQ2J2RUlYQ3VsUG01QldGUHZ0cEw5OA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-21T21:04:22+00:00"
-    },
-    {
-      "t": "유가 또 90달러 위협…다시 고개 든 '3고', 한국 경제 압박",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SMUQySFpFYzBjeFFLeF9SLTRIdnpuU0lnMExkY1VGZEMwRUpKQTVpSE9jT0llbEVLcTdOVmtZOVhNTFpiai1JSDVubFk0WGc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-21T21:02:25+00:00"
-    },
-    {
-      "t": "6월 생산자물가, 오름세 멈췄다 … 기업 원가부담 한숨 돌려",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hTGFTMm03ZDhBZTJkNFFBMERlaTJlMy1EUDFlZFJmVTVObl9yb3VQRXF0Z0MtUXRPcElhcWNaYkJIekxuVXBETEk5OUlXcXRkNGNETnlrS0VtUGxvZ3ltdkJobmJJNUJ0d3lFeUwyOXpTakF6LV9oa29UQdIBgAFBVV95cUxNRzdpNllxa01QdjZySGZ3UDNXSEhUdzhrc0FGZ3RTNVVWbWN1M0VMRnQ2Z0FhMzB5QVBLWURqbGV2dTNCT2c5eWVlM1lUV2VmTWpuZDBkUl9uVVVaMVAwOTM1Z0xOMmo5RW9HSzdLU1AxdnI1UEIyNWFRZnZneVlUQw?oc=5",
-      "s": "뉴데일리",
-      "d": "2026-07-21T21:02:00+00:00"
-    },
-    {
-      "t": "6월 생산자물가지수 보합…농림수산품 오르고 공산품 하락",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XRkRucEZtRGw3WjNxNkk0ck1IZ19WUDZEYXV3NzQwVUoyaE1Tc09jYzI5WnphQXhSSWhOX0w5eGZUX0NQM0JBSGNsenhLazZQZmtUbGlwUWtVejQ?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-21T21:01:00+00:00"
-    },
-    {
-      "t": "6월 생산자물가 전월比 보합…한은 \"2차 파급효과 지속 중\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YN1ROeERmTEZENFUyX3RPVGlMQTMzMUJzRF9sdFdXSzdtbnFpVUFPZmRobjBwVzhYanJRbjdqZFZCYndmeXdpYlpQZWtVX096WGZONVBjazE1c1NYWDNhRkU2WnBRWTdTREdhOEJsVy1Vdw?oc=5",
+      "t": "[노현우의 채권분석] 채권시장 대체 왜 그래…체면 구긴 족집게",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSMGdlaXhzQ05LZWpVeko1RDhiUk03OVBkNXZxTUZSRzdhY3lsSEpzUW1PbVBEdk9wWWRBSVFMeFgwWThfc2xYN2RXX1FSdWQxaXRvUUtlcTFGb3Z4R3FyT0xMSDU0RGxjUUJVUHl3MERRUQ?oc=5",
       "s": "KB Think",
-      "d": "2026-07-21T21:00:09+00:00"
+      "d": "2026-07-21T22:58:10+00:00"
     },
     {
-      "t": "유가 하락에 6월 생산자물가 10개월 만에 보합",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rV0RhSTJ4dG12bXFKMlZWSnpSTTFUeURuMmlZMmdLRTNDNUFnN3RIdC0tQkNSTEQzR1pheGJRbFdkTzBuTG1FMXo3ek9FMjI5azNnSGRyYktiemvSAWBBVV95cUxOemlzTHBWZENMQml4dmVDQzZTQS1vX04zYm1QajV5T2ZQblBLNkpmMndWU3BmbkRTT21aMUhmMXhhakpGUzFvV0d4aDFIX2RtNVY4MFRhYU9pb3FLcll6MFg?oc=5",
+      "t": "전재수 부산시장, AI 대전환·전력반도체 등 국비 지원 건의",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYM09naFlDYkM0OWlHLTBTLTkwUWpTbGwtdk9PR0ZKZkNUM3N2VFExQ0dxUkJCN2s3Z2FIYkE5blgtSHNmaUM0RkhkdVdCbDg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-21T22:57:38+00:00"
+    },
+    {
+      "t": "[신윤우의 외환분석] 풀리는 달러와 곳곳의 암초들",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE01SDdWR2dBczdBM0ZEeGl0bWpQcGl5YWZtSEFFalRfdmRpWjFBeVREeW1NU0JReFpSV0JfdWtTZV9OOGdIZFA2VFVBLUhTcHM5U3hXQWxHcEpocGc0NVZ5MjN6M053bER5OV8xaG1rZmx5Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-21T22:57:24+00:00"
+    },
+    {
+      "t": "뉴욕증시, 반도체주 매수세에 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44S0dTV1E1ZE5XOWVTNXBuNXhSMVprMTlZRkhLUWY4RExDYjgwdmIyRW9ERTRIempCbVR3TnB3MUsxOGZDYXBTdWo5UWIwNWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-21T22:52:14+00:00"
+    },
+    {
+      "t": "[3분증시] 뉴욕증시, 반도체주 반등에 일제 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hM2tVdmlGclViejR0TDlGM2tpQm5XNGFkc2xOZ3hhNFZUc1Bjc3VPMmk0dXp4Z1hPd3Y1cEh5cWwxajhmRkl0OTBZYi11UlE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-21T22:51:53+00:00"
+    },
+    {
+      "t": "[0722개장체크] 美 증시, 반도체주 급반등 및 AI 투자 사이클 지속 기대감",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52OWRGTnZiYlBQYkhfODN0NHg1VTdTelVsS09VdjA5OXMtWVJqSDhFejVzVW5Cb3RWeUtnNTNOSGswdVVQOUEtLU1PaWE1ZEJPUFRzbVN6WGhMWjhSdnZCUWtaWEJIRWhwdlEtYi1aWEUzSlVjNnc?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-07-21T22:47:31+00:00"
+    },
+    {
+      "t": "모건스탠리 \"코스피 바닥 근접\"…목표치 9,000 유지",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LTUlGLXNjZTRPZ1BIZ2lYdjVtSU1nWUo0cmJvSnBYZ0txdXBObzBQX1JxN0hQdjYwVWswLWNmSFdwalN6MzFDUHVDVlk1REE1aUlHWUtpOXZ4Y0XSAWBBVV95cUxONm5mN2NHbGEyNFJyYlk1eWhBOXlHUEpLeGJzSWM3OWFYVkpieXZqNEgxQW5pZVFIczBtRzJscmNXa1M1Y1NhZFF4OExyWl9weWdxellKa09JSGpYaGdxdlA?oc=5",
       "s": "연합뉴스",
-      "d": "2026-07-21T21:00:04+00:00"
+      "d": "2026-07-21T22:43:54+00:00"
     },
     {
-      "t": "‘포모’에서 ‘조모’로 돌아선 개미들···증시 하락에 “안 사길 다행”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRU9kM1hRWjZzNnZtMVVGY3FyRTU1bTB0YU5XN1BQNG9Wa1NxTGhpVWlGZjRxNFpNR3ZSRmFUaTJYRUlGcUFwSURyeUszblotVnc5QS00VlZFUdIBX0FVX3lxTFA4Yk8wUXNDd0E4VEU1OTdwT2twd0RMUkg0LW5jSS16SUlLOVlFMENUYUUxTjNIUGRHWE5FaDNoVzZ5ZDQ3ZllITllyM08wbEItem83OGQzWUE0UEFZZ2Jn?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-21T21:00:00+00:00"
+      "t": "코스피가 미국 증시 뒤흔드는 이유",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44R3RrMDZPd3J0NFJSU280d0xqN0w0Y2FLZkVhVHRsbVFHQUZNSndNdnh2NXlqb2lIRGFNbTdkSFNCblR5cXV4WDh1Mk9EZHByWmRhVURSQUtNQ0VRTmxEcHdmcHFZTmtUZm9DTmxfYmE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-21T22:40:37+00:00"
+    },
+    {
+      "t": "[마켓뷰] 韓반등에 뉴욕증시도 화답…'7천피' 회복 시도하나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNHRIV1I4ZVpnMVh0SWNPOVo5ZHNUR0pDUzJXNHZwWk1NSW9iODJUNDVTV253cV9ZYUJVdlItdTV1N0lyNm01OHFESHpOU28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-21T22:39:39+00:00"
     }
   ],
   "asof": {},
