@@ -7,7 +7,7 @@ window.SITE_CONFIG = {
 
   /* 배포된 최종 주소 (예: 'https://아이디.github.io/money-atlas/')
      — SEO 태그와 사이트맵에 사용 */
-  siteUrl: '',
+  siteUrl: 'https://molahboda.github.io/money-atlas/',
 
   /* 후원 링크 — Buy Me a Coffee, 토스 후원 링크 등
      예: 'https://buymeacoffee.com/아이디' */
