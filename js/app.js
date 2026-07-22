@@ -413,7 +413,7 @@
       loadTossSdk(function () {
         try {
           var tp = window.TossPayments(c.tossClientKey);
-          var widgets = tp.widgets({ customerKey: window.TossPayments.ANONYMOUS });
+          var widgets = tp.widgets({ customerKey: window.TossPayments.ANONYMOUS || 'ANONYMOUS' });
           var orderId = 'MA' + Date.now().toString(36).toUpperCase() +
             Math.random().toString(36).slice(2, 8).toUpperCase();
           widgets.setAmount({ currency: 'KRW', value: price }).then(function () {
