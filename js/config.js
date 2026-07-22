@@ -15,7 +15,7 @@ window.SITE_CONFIG = {
 
   /* 프리미엄 출시 알림(대기명단) — 스티비 구독폼 or 구글폼 URL
      예: 'https://page.stibee.com/subscriptions/XXXXX' */
-  premiumWaitlistUrl: '',
+  premiumWaitlistUrl: 'https://page.stibee.com/subscriptions/506118',
 
   /* 구글 애드센스 승인 후 발급되는 클라이언트 ID
      예: 'ca-pub-1234567890123456' */
