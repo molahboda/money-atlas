@@ -1,88 +1,87 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-22T08:30:57+00:00",
-  "quotesAt": "2026-07-22T08:30:57+00:00",
-  "newsAt": "2026-07-22T08:21:40+00:00",
+  "fetchedAt": "2026-07-22T08:37:29+00:00",
+  "quotesAt": "2026-07-22T08:37:29+00:00",
+  "newsAt": "2026-07-22T08:37:29+00:00",
   "quotes": {
-    "kospi": 6797.7,
+    "kospi": 6803.48,
     "spx": 7509.2,
-    "nikkei": 66115.6,
-    "vix": 17.54,
-    "krw": 1479.9,
-    "gold": 4119.7,
-    "wti": 87.25,
-    "dxy": 101.15
+    "nikkei": 66195.22,
+    "vix": 17.05,
+    "krw": 1479.7,
+    "gold": 4135.9,
+    "wti": 85.24,
+    "dxy": 98.0
   },
   "daily": {
-    "spx": 0.69,
-    "kospi": 4.32,
-    "nikkei": -0.18,
-    "vix": 2.87,
-    "krw": 0.33,
-    "gold": 1.19,
-    "wti": 2.76,
-    "dxy": -0.03
+    "spx": 0.89,
+    "kospi": 0.82,
+    "nikkei": -0.06,
+    "vix": -8.58,
+    "krw": -0.19,
+    "gold": 1.46,
+    "wti": 1.07
   },
   "news": [
     {
-      "t": "ê¸ë¦¬ ë ì¤ë¥¸ë¤ëë°â¦ì¹´ëì¬ ìë¦ ê°ìë¡ ì»¤ì§ë¤",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4bGtwS2x0OFd2d2JCWGJwSjdxVGJTaFZId2x1ZDlEMG5ybWlhcEFuckVoN3JBeW8wdkdxRDQwMU9iY2N5blRhM0xEcEs1aERSdF9EaG00NWhLM2F0SWlwOUttdUh3eWZBZ1E?oc=5",
-      "s": "ë¹ì¦ìì¹",
-      "d": "2026-07-22T08:10:03+00:00"
+      "t": "엔화 환율 달러당 163엔 대…40년 만에 최저 가치",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNTdGQnlIY0ducmU3eHRDOHNGbVdUSXVkMXBheFJ0ZFRwazFZVWhnVUVyX3plUnU3ZlhGaVExb0tSWEw0bzlROEQzbTZ4TmFkaVJxUHhfMnRYU1U?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-22T08:32:00+00:00"
     },
     {
-      "t": "ì ê° ë±ì êµ­ê³ ì± ê¸ë¦¬ ì¼ì í ìì¹â¦10ëë¬¼ ì°ê³ ì  ê²½ì (ì¢í©)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1czdlZDAwN2xiM2ZsU3lDM2hra1ZaNE9PRVYzcjhUSEUzaVkzS1B3RXlyS1lQSEhpZGNUMzBZMzRYRVRzMVFWTmY2bEs0RUk?oc=5",
+      "t": "엔/달러 환율 163엔대…엔화 가치 39년 7개월 만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKTFNzOEVvVUdyTXdJWklNanRrd3p3Ujd6akdlV0VrTzk1TFYxc0JUVGNWVGZicUpUNHZmZGsyZHRfWVhYbkxsSGhUZm1IMGM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-22T08:09:39+00:00"
+      "d": "2026-07-22T08:30:55+00:00"
     },
     {
-      "t": "ìì ê³µê¸ íê²© ì°ë ¤ìâ¦íì¨ ì¥ì¤ 1480ìë ì¤ë°ì¼ë¡",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SVW51c3pWZzlmNmV1dmxSU2FvNFp1WXBUZVdRZjZtSjZEQVRhZ3I3MjY3X2I3MGMzQjJQQXQ2S3c0emRHcjhJalR2azQ2azQ?oc=5",
+      "t": "카드 많이 쓰면 대출금리 할인 확대…체크카드·할부 이용도 실적 인정",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veUl3V1BOY2lFTWVDTTY4RGhQVzFlZGVWTngxT29ZRVhGYzV3QTdiTWRZcWpNZ1AxY1c3dVRwbm9YQkZJcTN3cEhiWFNDOW9vX0MxSnlB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-22T08:30:00+00:00"
+    },
+    {
+      "t": "반도체클러스터 지정 '평가기준 공개' 추진…고동진 의원, 특별법 개정안 발의",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pX1lwYXk3NmFuQUJsMjVrUm9oc0Z6NXV0TVkwYXBVRk1pSlc2NndreXVmTWIzdmdOMUhtZE1ZaHJPSEl4UThhMjA0VE1TUEh4LTRVMnpVZTd1LXZBb2VmNFk3ekJfV25YQXViSmdJMWRRQQ?oc=5",
+      "s": "에너지데일리",
+      "d": "2026-07-22T08:28:33+00:00"
+    },
+    {
+      "t": "외국인 2조6000억원 '사자'에도 롤러코스터 탄 코스피…장중 7100선·마감 6700선",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzUTFVV1FLWkJvMXpVOWVlWG53Ry1YX1BDTnpEZ3BpZ2ZCRUZ0d1VUQlM3LUk2SmJmWnhGUUpmcnBLUWZiNnpZV0JhRFhPRjNlQ0pHOEdQdWNISHFyOUtPclBGV3U1NnhhdHU5NTc4SFZWZw?oc=5",
+      "s": "인더스트리뉴스",
+      "d": "2026-07-22T08:25:24+00:00"
+    },
+    {
+      "t": "[속보] 청와대 “미, 슈퍼 301조 등으로 추가 관세 부과 가능성”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WlVtQXZDSE12dlRuRHpZekxId0s1TXB1WlV3ZlB0WkZ4SlcwN1hzUWZIYnF0MU1HTlRCWWFtVXFxazZjYkNhMzM4WVRDVGs?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-22T08:09:07+00:00"
+      "d": "2026-07-22T08:22:10+00:00"
     },
     {
-      "t": "'ê¸ë±ë½' ì½ì¤í¼, 'ë¹í¬ ê°ì ì²ë¶' ì´í ì°ì 500ìµ ìë",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hWE9GU2lfUWRjY2l5STdSNzlzVTF4U0JGS2pzQ2gwQmJaTmVySUQwcTNxWHRubWU0c2k3SGdNM2w1NlZqVVg0d2xOakFBV2NnbXBMejFwNHo4bUFVVDU4dg?oc=5",
-      "s": "KBCê´ì£¼ë°©ì¡",
-      "d": "2026-07-22T08:02:20+00:00"
+      "t": "대출 우대금리 받기 쉬워진다…은행 카드실적 인정기준 전면 개편",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zdTMtOEhQZ01PZ002X18wSnlyT1otTlVlaVJ4UXlNelAyVDlTMy13d1dLbXpET045WDZScDRUMkFUaUVZek0zZ25tVF9IbUk0WU9iTDhDRW1VZmtQaExVQUV4MU5zVDhs?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-07-22T08:21:27+00:00"
     },
     {
-      "t": "[ê³µê³µê¸°ê´ì¥ì´ ë§íë¤] ë°ëì²´ ëìí¨ê³¼, ì ëµê¸°ì  ë§ì¤ë¬¼ë¡",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52XzhnTHB6VWloeGUxVHo5THdkVkljTzRpUVlnYWlHSjZGeUFKcUZaN05rREUxZmM1TDFlckxLeHdDRWFwUUVhZ2xCUFMzQ00?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T08:02:09+00:00"
+      "t": "[마감] 코스피, 장중 7100선 돌파했지만 결국 상승분 반납…6790선 강보합 마감 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nVDNucnBYUUQ1dFZLbUZ3SXFUUmJTMDJtdUNVWWRraFVzeTlpNlNxSlJWVTlkZ0hOYkM0eWRJZW12S01YemZwYThUQlB2czF4dlJYZG5tZHpxTjFIc1RiakVDMUVQdEVmcDU5UGRHb0g?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-22T08:19:00+00:00"
     },
     {
-      "t": "ìì§ ë¶ìí ë°ëì²´ í¬ì¬â¦ì¼ì ëì¤ 6~9% ê¸ë±íë¤ 'ë°ë©'(ì¢í©)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vNm1lRElIYjNhMVFmUGd6ZjhqSEtiQlp1am9URGV5UlMxcG0tZjZjX3pCZHVkX05SUGZEVWN6eUdOQ0p3N2ZlM0QzNFZTQkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T07:52:54+00:00"
+      "t": "환율 1400원대로 내려왔지만···정부, 수출기업에 “외화 더 들여와 달라”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mbjY3MWRCZFV6R01XNXZfWWJ0bDQ2b2pQdV95ZDllQmdKeXlHNHB2ajRZUDhhaF9SZEoxZDk0eTBZR2gwZXdjVmhjVTlubG45cVhlRWxLandyZ9IBX0FVX3lxTE5qYUdPaDZPQy01LUxsdHlUaTZIbVI1U0tGcmVHcDZkbEdXb05taVZKMXpCQ0JRVVExbUpKbThXMlBVQlE2UTkzZlVOZUpoOS1sb3JpMzBnVi1jOEdheDQ0?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-22T08:16:00+00:00"
     },
     {
-      "t": "ìíë²³ ì¤ì  ë°í ì£¼ëª©, ì ê° ìì¹ - ìì¥ ëí¥",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NN1hiZTdGWmhHeldreW0tYkJwbEt4M3R2UklFMVU0U1ZXMmVsTC10Ry1rQ2FkU0hKZUljMm5UUTNBQlBaa3Z1eHpfUWtKVE4tSjNHM1R2bUFvamNZMGJjdHBpNTJYX003RGc?oc=5",
-      "s": "Investing.com íêµ­ì´",
-      "d": "2026-07-22T07:52:00+00:00"
-    },
-    {
-      "t": "ëìì¤ë ì¸êµ­ì¸â¦1560ì ì°ë íì¨ 1480ìëë¡ 'ë' - ë¨¸ëí¬ë°ì´",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTTXZrUWV4N2F2bUZFRS1reUtya0VUUGNGUHV1TFgxSHl5MEVxX25XMjhoYkdqd3RNbUlUa3Exa05pd3htYm1BTEJMZnYxamJVaE51c3MtWEpCSWdsRW1JRlFaNEdESGNJ0gFuQVVfeXFMUDF3MDRta0Rma3pZX0FwOHNRSWR4OW9FbFBlMEpoX1RHSFpIZERWcmU0UTN5Nm9yWE5BTUFqVWdsaG9pY1pOOG1RVmliY2xlVFUzNmkwdEp3LWRfcl80VXN5cjRQS2ljdXlXMzFKUHc?oc=5",
-      "s": "ë¨¸ëí¬ë°ì´",
-      "d": "2026-07-22T07:50:47+00:00"
-    },
-    {
-      "t": "\"ì§ìê° ìëë¼ ê¸ë¦¬ ë°ë¼ê°ë¤\"â¦ì¤ì ìì¦ ìëê³  ë¹ëë ìíì£¼",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwSXgzU0RCVU5wNUJ5S2RndWY1YzlCaVV2ek4tNFJhSXB0LUlRUlBScGhDWHF6a2pncFhOWnlrdjJvWENGbFZ0RC1DOTNJTWJNNUxlQWx4VlR6Zw?oc=5",
-      "s": "íêµ­ê²½ì ",
-      "d": "2026-07-22T07:47:49+00:00"
-    },
-    {
-      "t": "[ìë³´] é, âìí¼ 301ì¡°â ê´ë ¨ âì¶ê°ê´ì¸ ê°ë¥ì±â",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EalhFOG9MbGNtbDlBTzZ5ZXkxRUN0S1hKREluRTlfcHpNdHpNTHl5ZjF6RFRYcjczelY1MVF2LTI1OC1iSldydzY3M1VkR1NjcXVLdjNWWWxRazJwOC05QkdqQkZqbnc?oc=5",
-      "s": "ì°í©ë´ì¤TV",
-      "d": "2026-07-22T07:46:00+00:00"
+      "t": "환율 하락하니 다시 美 증시로···서학개미 순매수 증가세 By 투데이코리아",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFMWV6czFtWVU2aDRCeTByS21pSXlZM1c3TGtRS0RNbHBwblRadFZBdFhSRTBTQmJoa2U3YWdRMjQ2cjUydHA5QjRod0gwS1Y2Rk1YUnpJWmpaZUlvTkF6d0ZpT05qUXBSd1FXbEk3RDE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-22T08:13:00+00:00"
     }
   ],
   "asof": {},
