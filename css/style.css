@@ -646,3 +646,30 @@ footer b { color: #cbd5e1; }
 }
 .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 .wait-sub { text-align: center; font-size: 11.5px; color: var(--muted); margin-top: 7px; }
+
+/* ---------- 결제 모달 ---------- */
+.pay-price { display: flex; align-items: baseline; gap: 10px; margin: 4px 0 14px; }
+.pay-price s { color: var(--muted); font-size: 15px; }
+.pay-price b { font-size: 30px; font-weight: 900; color: #fcd34d; letter-spacing: -0.5px; }
+.pay-price span { font-size: 12.5px; color: var(--muted); font-weight: 700; }
+#payMethods { min-height: 0; border-radius: 12px; overflow: hidden; margin-bottom: 4px; }
+#payAgreement { margin-bottom: 10px; }
+.wait-cta.buy { margin-bottom: 10px; border-color: rgba(96,165,250,0.55); background: rgba(96,165,250,0.13); color: #93c5fd; }
+.wait-cta.buy:hover { background: rgba(96,165,250,0.22); }
+.wait-cta.buy em { font-style: normal; font-size: 11.5px; opacity: 0.85; display: block; font-weight: 600; }
+.wait-cta:disabled { opacity: 0.6; cursor: wait; }
+button.wait-cta { width: 100%; cursor: pointer; font-family: inherit; }
+.pay-keyrow { display: flex; align-items: center; gap: 8px; margin-top: 16px; padding-top: 14px; border-top: 1px dashed var(--border); font-size: 12px; color: var(--muted); flex-wrap: wrap; }
+.pay-keyrow input {
+  flex: 1; min-width: 170px; background: var(--panel2); border: 1px solid var(--border);
+  border-radius: 8px; color: var(--text); font-family: ui-monospace, monospace;
+  font-size: 13px; padding: 8px 10px; letter-spacing: 1px;
+}
+.pay-keyrow input:focus { outline: none; border-color: rgba(251,191,36,0.5); }
+.license-show { display: flex; align-items: center; gap: 10px; background: var(--panel2); border: 1px solid rgba(251,191,36,0.4); border-radius: 12px; padding: 14px 16px; margin: 14px 0; }
+.license-show code { flex: 1; font-family: ui-monospace, monospace; font-size: 17px; font-weight: 800; letter-spacing: 2px; color: #fcd34d; }
+.premium-badge {
+  margin-left: auto; font-size: 11px; font-weight: 900; letter-spacing: 1px;
+  color: #fcd34d; border: 1px solid rgba(251,191,36,0.55); border-radius: 99px;
+  padding: 3px 11px; background: rgba(251,191,36,0.1); white-space: nowrap;
+}

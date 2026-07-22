@@ -204,6 +204,7 @@
   }
 
   function lockify(cardEl, label, id) {
+    if (premiumActive) return cardEl; /* 프리미엄 이용자: 잠금 없음 */
     if (id && unlockedIds.indexOf(id) >= 0) return cardEl; /* 이미 열람권으로 연 카드 */
     cardEl.classList.add('locked');
     var ov = el('div', 'lock-overlay',
@@ -236,6 +237,10 @@
     var body = $('waitModalBody');
     if (!body) return;
     var exhausted = credits <= 0 && !bonusUsed;
+    var buyBtn = payEnabled()
+      ? '<button class="wait-cta buy" onclick="closeWaitModal();openPayModal()">💳 프리미엄 1년 이용권 — ' +
+        ((cfg.paymentPrice || 39000).toLocaleString('ko-KR')) + '원 <em>(카드·카카오페이·토스페이)</em></button>'
+      : '';
     var cta;
     if (cfg.premiumWaitlistUrl && exhausted) {
       cta = '<a class="wait-cta" id="waitBonusCta" target="_blank" rel="noopener noreferrer" href="' + cfg.premiumWaitlistUrl + '">📧 이메일 등록하고 열람권 +' + CREDIT_BONUS + '장 바로 받기</a>' +
@@ -257,7 +262,7 @@
       '<li><b>전체 위기 시나리오 스트레스 테스트</b> — 1997 IMF · 2000 닷컴 · 2022 인플레 · 1973 스태그에서 내 배분 검증</li>' +
       '<li><b>뉴스 전체의 작용 경로 분석</b> — 모든 헤드라인에 ①경로 ②역사 ③시장반응</li>' +
       '<li><b>패턴 발동 알림</b> — 금리차 역전·해소, 국면 전환을 텔레그램으로</li>' +
-      '</ul>' + cta +
+      '</ul>' + buyBtn + cta +
       (cfg.supportLink ? '<a class="wait-support" target="_blank" rel="noopener noreferrer" href="' + cfg.supportLink + '">지금 프로젝트를 응원하고 싶다면 ☕ 후원하기</a>' : '') +
       '<p class="wait-note">스팸 없음 · 원클릭 수신거부 · 등록자에겐 출시 특가를 약속합니다</p>';
     var bonusCta = $('waitBonusCta');
@@ -280,6 +285,192 @@
     $('waitModal').classList.remove('open');
     document.body.style.overflow = '';
   };
+
+  /* ==================== 0.8 프리미엄 결제 (토스페이먼츠 결제위젯) ==================== */
+  var premiumActive = false;
+
+  function payEnabled() {
+    var c = window.SITE_CONFIG || {};
+    return !!(c.tossClientKey && c.premiumApiBase);
+  }
+
+  function activatePremium() {
+    premiumActive = true;
+    document.querySelectorAll('.locked').forEach(unlockCard);
+    var bar = document.querySelector('.topbar');
+    if (bar && !$('premiumBadge')) {
+      var b = el('span', 'premium-badge', 'PREMIUM ✓');
+      b.id = 'premiumBadge';
+      bar.appendChild(b);
+    }
+  }
+
+  function premiumInit() {
+    /* 캐시된 검증 결과로 즉시 해금 (오프라인·서버 장애 시 72시간 유예) */
+    var lic = lsGet('ma_license', null);
+    var okUntil = lsGet('ma_license_ok', 0);
+    if (lic && okUntil > Date.now()) activatePremium();
+    if (lic && payEnabled()) {
+      fetch(window.SITE_CONFIG.premiumApiBase + '/validate', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ licenseKey: lic })
+      }).then(function (r) { return r.json(); }).then(function (d) {
+        if (d.valid) {
+          lsSet('ma_license_ok', Date.now() + 72 * 3600 * 1000);
+          if (!premiumActive) activatePremium();
+        } else {
+          lsSet('ma_license_ok', 0);
+        }
+      }).catch(function () { /* 네트워크 오류: 유예 유지 */ });
+    }
+  }
+
+  function saveLicense(key, expiresAt) {
+    lsSet('ma_license', key);
+    lsSet('ma_license_ok', Date.now() + 72 * 3600 * 1000);
+    activatePremium();
+    gaEvent('purchase_complete', {});
+    var body = $('payModalBody');
+    if (body) {
+      body.innerHTML =
+        '<div class="wait-badge">결제 완료 · 프리미엄 활성화</div>' +
+        '<h2>환영합니다! 모든 잠금이 해제됐습니다</h2>' +
+        '<p class="wait-lede">아래 이용권 키를 꼭 보관하세요 — 다른 기기·브라우저에서 이 키로 다시 해금할 수 있습니다.' +
+        (expiresAt ? ' 유효기간: ' + String(expiresAt).slice(0, 10) : '') + '</p>' +
+        '<div class="license-show"><code id="licShow">' + esc(key) + '</code>' +
+        '<button class="lock-btn" id="licCopy">복사</button></div>' +
+        '<p class="wait-note">키 분실 시 결제 내역(카드 승인 문자·카카오페이 내역)과 함께 문의하시면 재발급됩니다.</p>';
+      var cp = $('licCopy');
+      if (cp) cp.onclick = function () {
+        try { navigator.clipboard.writeText(key); showToast('이용권 키가 복사되었습니다'); } catch (e) { }
+      };
+      openPayModal(true);
+    }
+  }
+
+  function loadTossSdk(cb) {
+    if (window.TossPayments) return cb();
+    var s = document.createElement('script');
+    s.src = 'https://js.tosspayments.com/v2/standard';
+    s.onload = cb;
+    s.onerror = function () { showToast('결제 모듈을 불러오지 못했습니다 — 잠시 후 다시 시도해주세요'); };
+    document.head.appendChild(s);
+  }
+
+  function openPayModal(keepBody) {
+    var m = $('payModal');
+    if (!m) return;
+    if (!keepBody) renderPayIntro();
+    m.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  window.closePayModal = function () {
+    var m = $('payModal');
+    if (m) m.classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
+  function renderPayIntro() {
+    var c = window.SITE_CONFIG;
+    var body = $('payModalBody');
+    var price = c.paymentPrice || 39000;
+    var orig = c.paymentPriceOriginal || 0;
+    body.innerHTML =
+      '<div class="wait-badge">PREMIUM · 1년 이용권</div>' +
+      '<h2>모든 잠금을 1년간 해제합니다</h2>' +
+      '<ul class="wait-list">' +
+      '<li><b>위기 시나리오 전체</b> — 1997 IMF · 2000 닷컴 · 2022 인플레 · 1973 스태그</li>' +
+      '<li><b>뉴스 전체의 작용 경로 분석</b> + 유사 국면 전체</li>' +
+      '<li>앞으로 추가되는 프리미엄 기능 포함 (알림·실시간)</li>' +
+      '</ul>' +
+      '<div class="pay-price">' +
+      (orig > price ? '<s>' + orig.toLocaleString('ko-KR') + '원</s>' : '') +
+      '<b>' + price.toLocaleString('ko-KR') + '원</b><span>/ 1년 · 런칭 특가</span></div>' +
+      '<div id="payMethods"></div><div id="payAgreement"></div>' +
+      '<button class="wait-cta" id="payGo">결제하기</button>' +
+      '<div class="wait-sub">카드 · 카카오페이 · 토스페이 · 네이버페이 지원 (토스페이먼츠)</div>' +
+      '<div class="pay-keyrow"><span>이미 이용권 키가 있나요?</span>' +
+      '<input id="licInput" placeholder="MA-XXXX-XXXX-XXXX" spellcheck="false">' +
+      '<button class="lock-btn" id="licApply">등록</button></div>';
+
+    var applyBtn = $('licApply');
+    applyBtn.onclick = function () {
+      var k = ($('licInput').value || '').trim().toUpperCase();
+      if (!k) return;
+      applyBtn.textContent = '확인 중…';
+      fetch(c.premiumApiBase + '/validate', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ licenseKey: k })
+      }).then(function (r) { return r.json(); }).then(function (d) {
+        if (d.valid) { window.closePayModal(); saveLicense(k, d.expiresAt); }
+        else { applyBtn.textContent = '등록'; showToast('유효하지 않은 키입니다'); }
+      }).catch(function () { applyBtn.textContent = '등록'; showToast('확인 실패 — 잠시 후 다시 시도해주세요'); });
+    };
+
+    var goBtn = $('payGo');
+    goBtn.onclick = function () {
+      goBtn.disabled = true; goBtn.textContent = '결제창 준비 중…';
+      loadTossSdk(function () {
+        try {
+          var tp = window.TossPayments(c.tossClientKey);
+          var widgets = tp.widgets({ customerKey: window.TossPayments.ANONYMOUS });
+          var orderId = 'MA' + Date.now().toString(36).toUpperCase() +
+            Math.random().toString(36).slice(2, 8).toUpperCase();
+          widgets.setAmount({ currency: 'KRW', value: price }).then(function () {
+            return Promise.all([
+              widgets.renderPaymentMethods({ selector: '#payMethods' }),
+              widgets.renderAgreement({ selector: '#payAgreement' })
+            ]);
+          }).then(function () {
+            goBtn.disabled = false; goBtn.textContent = '위 수단으로 결제하기';
+            goBtn.onclick = function () {
+              gaEvent('purchase_start', {});
+              widgets.requestPayment({
+                orderId: orderId,
+                orderName: c.paymentName || '머니 아틀라스 프리미엄',
+                successUrl: location.origin + location.pathname + '?pay=ok',
+                failUrl: location.origin + location.pathname + '?pay=fail'
+              });
+            };
+          }).catch(function (e) {
+            goBtn.disabled = false; goBtn.textContent = '결제하기';
+            showToast('결제창 오류: ' + (e && e.message ? e.message : '다시 시도해주세요'));
+          });
+        } catch (e) {
+          goBtn.disabled = false; goBtn.textContent = '결제하기';
+          showToast('결제 설정 오류 — 관리자에게 문의해주세요');
+        }
+      });
+    };
+  }
+  window.openPayModal = openPayModal;
+
+  function handlePayRedirect() {
+    var q = new URLSearchParams(location.search);
+    if (!q.get('pay')) return;
+    var clean = function () { history.replaceState(null, '', location.pathname); };
+    if (q.get('pay') === 'fail') {
+      showToast('결제가 취소되었거나 실패했습니다' + (q.get('message') ? ' — ' + q.get('message') : ''));
+      clean(); return;
+    }
+    if (q.get('pay') === 'ok' && q.get('paymentKey') && payEnabled()) {
+      showToast('결제 승인 중…');
+      fetch(window.SITE_CONFIG.premiumApiBase + '/confirm', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          paymentKey: q.get('paymentKey'),
+          orderId: q.get('orderId'),
+          amount: q.get('amount')
+        })
+      }).then(function (r) { return r.json(); }).then(function (d) {
+        clean();
+        if (d.licenseKey) saveLicense(d.licenseKey, d.expiresAt);
+        else showToast('승인 실패: ' + (d.error || '고객센터에 문의해주세요'));
+      }).catch(function () { clean(); showToast('승인 통신 오류 — 결제 내역과 함께 문의해주세요'); });
+    } else {
+      clean();
+    }
+  }
 
   function buildNews() {
     var list = $('newsList');
@@ -1230,8 +1421,12 @@
   $('waitModal').addEventListener('click', function (e) {
     if (e.target === this) window.closeWaitModal();
   });
+  var pm = $('payModal');
+  if (pm) pm.addEventListener('click', function (e) {
+    if (e.target === this) window.closePayModal();
+  });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') { closeModal(); window.closeWaitModal(); }
+    if (e.key === 'Escape') { closeModal(); window.closeWaitModal(); window.closePayModal(); }
   });
 
   /* ==================== 7. 머니 플로우 지도 ==================== */
@@ -1417,8 +1612,12 @@
 
     /* 푸터 위 후원·프리미엄 영역 */
     var area = $('monetizeArea');
-    if (area && (cfg.supportLink || cfg.premiumWaitlistUrl)) {
+    if (area && (cfg.supportLink || cfg.premiumWaitlistUrl || payEnabled())) {
       var btns = '';
+      if (payEnabled()) {
+        btns += '<button class="mz-btn primary" onclick="openPayModal()">💳 프리미엄 1년 이용권 — ' +
+          ((cfg.paymentPrice || 39000).toLocaleString('ko-KR')) + '원</button>';
+      }
       if (cfg.premiumWaitlistUrl) {
         btns += '<a class="mz-btn primary" target="_blank" rel="noopener noreferrer" href="' +
           cfg.premiumWaitlistUrl + '">🔔 프리미엄 출시 알림 받기</a>';
@@ -1495,4 +1694,6 @@
   buildMech();
   buildNav();
   applyConfig();
+  premiumInit();
+  handlePayRedirect();
 })();

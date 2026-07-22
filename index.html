@@ -13,7 +13,7 @@
   <meta name="twitter:title" content="머니 아틀라스 — 돈을 움직이는 모든 것의 지도">
   <meta name="twitter:description" content="56년 데이터로 읽는 시장의 패턴과 사이클, 그리고 지금의 위치.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧭</text></svg>">
-  <link rel="stylesheet" href="css/style.css?v=6">
+  <link rel="stylesheet" href="css/style.css?v=7">
 </head>
 <body>
 
@@ -305,13 +305,21 @@
     </div>
   </div>
 
-  <script src="js/config.js?v=4"></script>
+  <!-- 프리미엄 결제 모달 -->
+  <div class="modal" id="payModal">
+    <div class="modal-box wait-box">
+      <button class="modal-close" onclick="closePayModal()">✕</button>
+      <div id="payModalBody"></div>
+    </div>
+  </div>
+
+  <script src="js/config.js?v=5"></script>
   <script src="js/data.js?v=4"></script>
   <script>
     /* live.js 는 수시로 갱신되므로 항상 최신본을 재요청 (캐시 우회) */
     document.write('<script src="js/live.js?ts=' + Date.now() + '"><\/script>');
   </script>
   <script src="js/charts.js?v=3"></script>
-  <script src="js/app.js?v=7"></script>
+  <script src="js/app.js?v=8"></script>
 </body>
 </html>
