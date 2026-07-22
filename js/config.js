@@ -17,6 +17,10 @@ window.SITE_CONFIG = {
      예: 'https://page.stibee.com/subscriptions/XXXXX' */
   premiumWaitlistUrl: 'https://page.stibee.com/subscriptions/506118',
 
+  /* 구글 애널리틱스(GA4) 측정 ID — analytics.google.com 에서 발급
+     예: 'G-XXXXXXXXXX' — 넣으면 방문자 통계 수집 시작 */
+  gaId: '',
+
   /* 구글 애드센스 승인 후 발급되는 클라이언트 ID
      예: 'ca-pub-1234567890123456' */
   adsenseClient: '',

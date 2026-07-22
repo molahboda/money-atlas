@@ -1353,6 +1353,24 @@
         '<div class="mz-btns">' + btns + '</div>';
     }
 
+    /* 방문자 통계 (GA4) */
+    if (cfg.gaId) {
+      var ga = document.createElement('script');
+      ga.async = true;
+      ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(cfg.gaId);
+      document.head.appendChild(ga);
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', cfg.gaId);
+      /* 잠금 클릭 = 핵심 전환 신호로 기록 */
+      document.addEventListener('click', function (e) {
+        if (e.target.closest && e.target.closest('.lock-overlay')) {
+          gtag('event', 'lock_click', { event_category: 'premium' });
+        }
+      }, true);
+    }
+
     /* 광고: 애드센스 우선, 없으면 쿠팡파트너스 배너 */
     if (cfg.adsenseClient) {
       var s = document.createElement('script');
