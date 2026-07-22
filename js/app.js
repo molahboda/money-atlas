@@ -483,12 +483,14 @@
     var asof = $('newsAsof');
     if (!list) return;
     if (!LIVE_NEWS.length) {
-      asof.textContent = '실시간 뉴스는 사이트 실행 시 자동 수집됩니다 (serve.py / 프리뷰 시작 시 갱신)';
-      list.innerHTML = '<div class="panel muted" style="font-size:13.5px">아직 수집된 뉴스가 없습니다. ' +
-        '<code>python3 money-atlas/update_live.py</code> 를 실행하거나 서버를 재시작하면 최신 헤드라인이 표시됩니다.</div>';
+      asof.textContent = '뉴스를 불러오는 중입니다 · 약 15분 주기로 자동 갱신됩니다';
+      list.innerHTML = '<div class="panel muted" style="font-size:13.5px">잠시 후 최신 헤드라인이 표시됩니다. ' +
+        '계속 비어 있으면 새로고침(Cmd/Ctrl+Shift+R) 해보세요.</div>';
       return;
     }
-    asof.textContent = '수집: ' + fmtAsof(LIVE_NEWS_AT) + ' · 구글 뉴스(주요 언론사) · 항목을 누르면 작용 경로와 실제 반응이 열립니다';
+    var rel = relTime(LIVE_NEWS_AT);
+    asof.textContent = '마지막 갱신 ' + (rel ? rel + ' (' + fmtAsof(LIVE_NEWS_AT) + ')' : fmtAsof(LIVE_NEWS_AT)) +
+      ' · 약 15분 주기 자동 수집 · 구글 뉴스(주요 언론사) · 항목을 누르면 작용 경로와 실제 반응이 열립니다';
     list.innerHTML = '';
     LIVE_NEWS.forEach(function (n, idx) {
       var rules = classifyNews(n.t);

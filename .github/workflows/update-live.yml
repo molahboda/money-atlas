@@ -1,11 +1,12 @@
 name: 실시간 데이터 갱신
 
 # GitHub Pages(정적 호스팅)에서도 시세·뉴스가 자동 갱신되도록
-# 매시간 update_live.py 를 실행해 js/live.js 를 커밋합니다.
+# 15분마다 update_live.py 를 실행해 js/live.js 를 커밋합니다.
+# (GitHub 크론은 부하에 따라 수 분~수십 분 밀릴 수 있음 — 실제 지연은 보통 15~30분)
 on:
   schedule:
-    - cron: '7 * * * *'   # 매시 7분 (UTC)
-  workflow_dispatch:       # 수동 실행 버튼
+    - cron: '*/15 * * * *'   # 15분마다 (UTC)
+  workflow_dispatch:          # 수동 실행 버튼
 
 permissions:
   contents: write
