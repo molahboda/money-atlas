@@ -587,6 +587,8 @@
       sb.auth.signInWithOAuth({
         provider: provider,
         options: { redirectTo: location.origin + location.pathname }
+      }).then(function (res) {
+        if (res && res.error) showToast('로그인 오류: ' + res.error.message);
       });
     };
     $('kakaoLogin').onclick = function () { go('kakao'); };

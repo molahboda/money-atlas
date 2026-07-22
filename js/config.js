@@ -42,6 +42,6 @@ window.SITE_CONFIG = {
      두 값을 채우면 상단바에 로그인 버튼이 자동으로 켜집니다.
      supabase/README.md 의 설정 가이드를 따라 채우세요.
      (anon key는 공개용 키라 코드에 넣어도 안전합니다) */
-  supabaseUrl: '',                        /* https://XXXX.supabase.co */
-  supabaseAnonKey: ''
+  supabaseUrl: 'https://emblunkphlkyeawdbxvi.supabase.co',
+  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtYmx1bmtwaGxreWVhd2RieHZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ2NzMxNzUsImV4cCI6MjEwMDI0OTE3NX0.b28OElB8AaEwgfC8AqaElQAAgI97_kNan8LJjPHm0YA'
 };
