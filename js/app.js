@@ -752,8 +752,13 @@
     btn.disabled = true; btn.textContent = '처리 중…';
     var until = isOn ? null : new Date(Date.now() + PREMIUM_YEARS_MS).toISOString();
     sb.from('profiles').update({ premium_until: until }).eq('id', id).then(function (res) {
-      if (res.error) { showToast('실패: ' + res.error.message); btn.disabled = false; }
-      else { showToast(isOn ? '프리미엄 해제됨' : '프리미엄 지급 완료'); loadAdminUsers(); }
+      if (res.error) { showToast('실패: ' + res.error.message); btn.disabled = false; return; }
+      var self = sbUser && id === sbUser.id;
+      if (self && !isOn) { activatePremium(); } /* 본인 지급 → 즉시 반영 */
+      showToast(isOn
+        ? '프리미엄 해제됨' + (self ? ' (새로고침 시 잠금 복원)' : '')
+        : '프리미엄 지급 완료' + (self ? '' : ' — 해당 회원이 새로고침하면 적용됩니다'));
+      loadAdminUsers();
     });
   }
 
