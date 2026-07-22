@@ -158,6 +158,50 @@
     return '<table class="react-table"><tr><th>지표</th><th>현재</th><th>오늘</th><th>전년말比</th></tr>' + rows + '</table>';
   }
 
+  /* ==================== 0.7 프리미엄 잠금 시스템 ==================== */
+  function lockify(cardEl, label) {
+    cardEl.classList.add('locked');
+    var ov = el('div', 'lock-overlay',
+      '<div class="lock-ic">🔒</div>' +
+      '<div class="lock-label">' + (label || '프리미엄') + '</div>' +
+      '<button class="lock-btn">미리보기 신청 →</button>');
+    ov.onclick = function (e) { e.stopPropagation(); openWaitModal(); };
+    cardEl.appendChild(ov);
+    return cardEl;
+  }
+
+  function openWaitModal() {
+    var cfg = window.SITE_CONFIG || {};
+    var body = $('waitModalBody');
+    if (!body) return;
+    var cta;
+    if (cfg.premiumWaitlistUrl) {
+      cta = '<a class="wait-cta" target="_blank" rel="noopener noreferrer" href="' + cfg.premiumWaitlistUrl + '">🔔 출시 알림 받기 (이메일)</a>';
+    } else {
+      cta = '<div class="wait-soon">이메일 알림 등록이 곧 열립니다 — 준비 중입니다.</div>';
+    }
+    body.innerHTML =
+      '<div class="wait-badge">PREMIUM · 준비 중</div>' +
+      '<h2>더 깊은 판단 도구를 준비하고 있습니다</h2>' +
+      '<p class="wait-lede">무료 기능은 계속 무료입니다. 잠긴 것들은 프리미엄으로 열립니다:</p>' +
+      '<ul class="wait-list">' +
+      '<li><b>전체 위기 시나리오 스트레스 테스트</b> — 1997 IMF · 2000 닷컴 · 2022 인플레 · 1973 스태그플레이션에서 내 배분 검증</li>' +
+      '<li><b>뉴스 전체의 작용 경로 분석</b> — 모든 헤드라인에 ①경로 ②역사 ③시장반응</li>' +
+      '<li><b>유사 국면 상세 리포트</b> — 지금과 닮은 해 Top3의 전개와 그 뒤 1년</li>' +
+      '<li><b>패턴 발동 알림</b> — 금리차 역전·해소, 나침반 국면 전환을 텔레그램으로</li>' +
+      '<li><b>장중 실시간 갱신</b> · 데이터 다운로드</li>' +
+      '</ul>' + cta +
+      (cfg.supportLink ? '<a class="wait-support" target="_blank" rel="noopener noreferrer" href="' + cfg.supportLink + '">지금 프로젝트를 응원하고 싶다면 ☕ 후원하기</a>' : '') +
+      '<p class="wait-note">알림을 남겨주신 분들께 가장 먼저, 가장 좋은 조건으로 열립니다.</p>';
+    $('waitModal').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  window.openWaitModal = openWaitModal;
+  window.closeWaitModal = function () {
+    $('waitModal').classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
   function buildNews() {
     var list = $('newsList');
     var asof = $('newsAsof');
@@ -184,13 +228,15 @@
       item.appendChild(row);
 
       var detail = el('div', 'news-detail');
-      detail.innerHTML =
+      var analysis = el('div', 'nd-analysis',
         '<div class="nd-grid">' +
         '<div class="nd-block"><h5>① 이렇게 작용할 수 있다</h5><p>' + main.chain + '</p></div>' +
         '<div class="nd-block"><h5>② 역사에선 실제로</h5><ul>' + main.hist.map(function (h) { return '<li>' + h + '</li>'; }).join('') + '</ul></div>' +
         '<div class="nd-block"><h5>③ 오늘 시장의 실제 반응</h5>' + reactionTable(main.watch) + '</div>' +
         '</div>' +
-        '<div class="nd-caveat"><b>주의</b> ' + main.caveat + '</div>';
+        '<div class="nd-caveat"><b>주의</b> ' + main.caveat + '</div>');
+      if (idx > 0) lockify(analysis, '뉴스 작용 분석 — 프리미엄');
+      detail.appendChild(analysis);
       if (n.u && /^https?:\/\//.test(n.u)) {
         var a = document.createElement('a');
         a.className = 'news-link';
@@ -441,16 +487,18 @@
     var analogs = analogYears(d);
     var ag = $('analogGrid');
     ag.innerHTML = '';
-    analogs.forEach(function (a) {
+    analogs.forEach(function (a, ai) {
       var outcomes = [];
       if (a.nextSpx !== null) outcomes.push('S&P ' + pctTxt(a.nextSpx));
       if (a.nextKospi !== null) outcomes.push('KOSPI ' + pctTxt(a.nextKospi));
       if (a.nextGold !== null) outcomes.push('금 ' + pctTxt(a.nextGold));
       if (a.nextY10 !== null) outcomes.push('10년물 ' + (a.nextY10 >= 0 ? '+' : '') + a.nextY10.toFixed(1) + '%p');
-      ag.appendChild(el('div', 'analog-card',
+      var card = el('div', 'analog-card',
         '<div class="analog-year">' + a.year + '<span class="analog-sim">유사도 ' + a.sim + '%</span></div>' +
         '<div class="analog-era">' + (a.era || '—') + '</div>' +
-        '<div class="analog-next"><b>그 뒤 1년</b> ' + outcomes.join(' · ') + '</div>'));
+        '<div class="analog-next"><b>그 뒤 1년</b> ' + outcomes.join(' · ') + '</div>');
+      if (ai > 0) lockify(card, '유사 국면 ' + (ai + 1) + '위 — 프리미엄');
+      ag.appendChild(card);
     });
 
     /* --- 종합 판정 --- */
@@ -474,15 +522,17 @@
       quad.intro + ' <span class="muted">(국면 판정이 바뀌면 이 표도 자동으로 바뀝니다)</span>';
     var pg = $('playbookGrid');
     pg.innerHTML = '';
-    quad.assets.forEach(function (a) {
+    quad.assets.forEach(function (a, pi) {
       var stars = a.grade === 3 ? '★★★' : a.grade === 2 ? '★★' : a.grade === 1 ? '★' : '—';
       var cls = a.grade >= 3 ? 'g3' : a.grade === 2 ? 'g2' : a.grade === 1 ? 'g1' : 'g0';
-      pg.appendChild(el('div', 'pb-card',
+      var card = el('div', 'pb-card',
         '<div class="pb-head"><h4>' + a.name + '</h4><span class="pb-grade ' + cls + '">' + stars + '</span></div>' +
         '<div class="pb-hist">' + (a.hist !== '—' ? '사례: ' + a.hist : '') + '</div>' +
         '<p class="pb-why">' + a.why + '</p>' +
         (a.sector ? '<div class="pb-sector">' + a.sector + '</div>' : '') +
-        '<div class="pb-risk"><b>유의</b> ' + a.risk + '</div>'));
+        '<div class="pb-risk"><b>유의</b> ' + a.risk + '</div>');
+      if (pi >= 2) lockify(card, '자산 성적표 — 프리미엄');
+      pg.appendChild(card);
     });
 
     /* --- 시나리오 --- */
@@ -498,6 +548,160 @@
         '<div class="sc-watch"><b>감시 신호</b><ul>' + s.watch.map(function (w) { return '<li>' + w + '</li>'; }).join('') + '</ul></div>' +
         '<div class="sc-caveat">' + s.caveat + '</div>'));
     });
+  }
+
+  /* ==================== 1.7 스트레스 테스트 시뮬레이터 ==================== */
+  var SIM_ASSETS = [
+    { key: 'us', name: '미국 주식', color: '#60a5fa' },
+    { key: 'kr', name: '한국 주식', color: '#4ade80' },
+    { key: 'bond', name: '미국 국채 10Y', color: '#fdba74' },
+    { key: 'gold', name: '금', color: '#fde047' },
+    { key: 'cash', name: '현금(원화)', color: '#cbd5e1' }
+  ];
+  var SIM_PRESETS = [
+    { name: '기본 배분', w: { us: 40, kr: 20, bond: 25, gold: 10, cash: 5 } },
+    { name: '60/40 정석', w: { us: 60, kr: 0, bond: 40, gold: 0, cash: 0 } },
+    { name: '국내 개미형', w: { us: 20, kr: 70, bond: 0, gold: 0, cash: 10 } },
+    { name: '영구 포트폴리오', w: { us: 25, kr: 0, bond: 25, gold: 25, cash: 25 } },
+    { name: 'KOSPI 몰빵', w: { us: 0, kr: 100, bond: 0, gold: 0, cash: 0 } }
+  ];
+  var simW = { us: 40, kr: 20, bond: 25, gold: 10, cash: 5 };
+
+  function simFx(y) {
+    var a = seriesVal('krw', y - 1), b = seriesVal('krw', y);
+    return (a && b) ? b / a : 1;
+  }
+  function simAssetReturn(key, y) {
+    var a, b;
+    switch (key) {
+      case 'us':
+        a = seriesVal('spx', y - 1); b = seriesVal('spx', y);
+        if (a === null || b === null) return null;
+        return b / a * simFx(y) - 1;
+      case 'kr':
+        a = seriesVal('kospi', y - 1); b = seriesVal('kospi', y);
+        if (a === null || b === null) return simAssetReturn('us', y); /* 1980년 이전: 미국 주식으로 대체 */
+        return b / a - 1;
+      case 'gold':
+        a = seriesVal('gold', y - 1); b = seriesVal('gold', y);
+        if (a === null || b === null) return null;
+        return b / a * simFx(y) - 1;
+      case 'bond':
+        a = seriesVal('us10y', y - 1); b = seriesVal('us10y', y);
+        if (a === null || b === null) return null;
+        /* 근사 총수익: 이자(전년 금리) − 듀레이션 8 × 금리 변화, 원화 환산 */
+        return (1 + a / 100 - 8 * (b - a) / 100) * simFx(y) - 1;
+      case 'cash':
+        b = seriesVal('bok', y); if (b === null) b = seriesVal('fed', y);
+        return b === null ? 0 : b / 100;
+    }
+    return null;
+  }
+
+  function runScenario(sc, weights) {
+    var total = 0, k;
+    for (k in weights) total += weights[k];
+    if (total <= 0) return null;
+    var w = {};
+    for (k in weights) w[k] = weights[k] / total;
+    var value = 1, worst = null, worstYear = null, bench = 1;
+    var contrib = {};
+    SIM_ASSETS.forEach(function (a) { contrib[a.key] = 0; });
+    for (var y = sc.y0 + 1; y <= sc.y1; y++) {
+      var r = 0;
+      SIM_ASSETS.forEach(function (a) {
+        if (!w[a.key]) return;
+        var ar = simAssetReturn(a.key, y);
+        if (ar === null) ar = 0;
+        r += w[a.key] * ar;
+        contrib[a.key] += w[a.key] * ar * 100;
+      });
+      value *= (1 + r);
+      if (worst === null || r < worst) { worst = r; worstYear = y; }
+      var kr = simAssetReturn('kr', y); if (kr === null) kr = 0;
+      bench *= (1 + kr);
+    }
+    return {
+      total: (value - 1) * 100, worst: worst * 100, worstYear: worstYear,
+      bench: (bench - 1) * 100, contrib: contrib
+    };
+  }
+
+  function simCardHtml(sc, res) {
+    var up = res.total >= 0;
+    var bars = SIM_ASSETS.filter(function (a) { return simW[a.key] > 0; }).map(function (a) {
+      var c = res.contrib[a.key];
+      var wpx = Math.min(60, Math.abs(c) * 2.2);
+      return '<div class="sim-bar-row"><span class="sb-name"><i style="background:' + a.color + '"></i>' + a.name + '</span>' +
+        '<span class="sb-track"><i class="' + (c >= 0 ? 'pos' : 'neg') + '" style="width:' + wpx + 'px"></i></span>' +
+        '<span class="sb-val ' + (c >= 0 ? 'up' : 'down') + '">' + (c >= 0 ? '+' : '−') + Math.abs(c).toFixed(1) + '%p</span></div>';
+    }).join('');
+    return '<div class="sim-head"><h4>' + sc.name + '</h4><span>' + sc.period + '</span></div>' +
+      '<div class="sim-q">' + sc.q + '</div>' +
+      '<div class="sim-big ' + (up ? 'up' : 'down') + '">' + (up ? '+' : '−') + Math.abs(res.total).toFixed(1) + '%</div>' +
+      '<div class="sim-sub">최악 연도 ' + res.worstYear + ' <b class="' + (res.worst >= 0 ? 'up' : 'down') + '">' +
+      (res.worst >= 0 ? '+' : '−') + Math.abs(res.worst).toFixed(1) + '%</b>' +
+      ' · KOSPI 100%였다면 <b class="' + (res.bench >= 0 ? 'up' : 'down') + '">' + (res.bench >= 0 ? '+' : '−') + Math.abs(res.bench).toFixed(1) + '%</b></div>' +
+      '<div class="sim-bars">' + bars + '<div class="sb-cap">자산별 기여 (연간 합산 근사)</div></div>' +
+      '<p class="sim-comment">' + sc.comment + '</p>';
+  }
+
+  function renderSimResults() {
+    var box = $('simResults');
+    if (!box) return;
+    box.innerHTML = '';
+    SIM_SCENARIOS.forEach(function (sc) {
+      var res = runScenario(sc, simW);
+      if (!res) return;
+      var card = el('div', 'sim-card');
+      card.innerHTML = simCardHtml(sc, res);
+      if (!sc.free) lockify(card, '위기 시나리오 — 프리미엄');
+      box.appendChild(card);
+    });
+  }
+
+  function buildSimulator() {
+    var wrap = $('simAlloc');
+    if (!wrap) return;
+    var totalEl;
+    function refreshTotal() {
+      var t = 0;
+      for (var k in simW) t += simW[k];
+      totalEl.textContent = '합계 ' + t + '%' + (t === 100 ? '' : ' → 100% 기준으로 환산해 계산');
+      totalEl.className = 'sim-total' + (t === 100 ? ' ok' : '');
+    }
+    SIM_ASSETS.forEach(function (a) {
+      var row = el('div', 'sim-row');
+      row.innerHTML = '<span class="sim-name"><i style="background:' + a.color + '"></i>' + a.name + '</span>';
+      var input = document.createElement('input');
+      input.type = 'range'; input.min = 0; input.max = 100; input.step = 5;
+      input.value = simW[a.key];
+      var num = el('span', 'sim-pct', simW[a.key] + '%');
+      input.oninput = function () {
+        simW[a.key] = +input.value;
+        num.textContent = input.value + '%';
+        refreshTotal();
+        renderSimResults();
+      };
+      row.appendChild(input);
+      row.appendChild(num);
+      wrap.appendChild(row);
+    });
+    totalEl = el('div', 'sim-total');
+    wrap.appendChild(totalEl);
+
+    var pc = $('simPresets');
+    SIM_PRESETS.forEach(function (p) {
+      var c = el('button', 'chip preset', p.name);
+      c.onclick = function () {
+        simW = Object.assign({}, p.w);
+        wrap.innerHTML = ''; pc.innerHTML = '';
+        buildSimulator();
+      };
+      pc.appendChild(c);
+    });
+    refreshTotal();
+    renderSimResults();
   }
 
   /* ==================== 2. 매크로 대시보드 ==================== */
@@ -944,8 +1148,11 @@
   $('modal').addEventListener('click', function (e) {
     if (e.target === this) closeModal();
   });
+  $('waitModal').addEventListener('click', function (e) {
+    if (e.target === this) window.closeWaitModal();
+  });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') closeModal();
+    if (e.key === 'Escape') { closeModal(); window.closeWaitModal(); }
   });
 
   /* ==================== 7. 머니 플로우 지도 ==================== */
@@ -1175,6 +1382,7 @@
   buildNews();
   buildSnapshot();
   buildCompass();
+  buildSimulator();
   buildDashboard();
   if (DATA_ASOF) {
     var fn = document.querySelector('#dashboard .footnote');

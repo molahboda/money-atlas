@@ -13,7 +13,7 @@
   <meta name="twitter:title" content="머니 아틀라스 — 돈을 움직이는 모든 것의 지도">
   <meta name="twitter:description" content="56년 데이터로 읽는 시장의 패턴과 사이클, 그리고 지금의 위치.">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧭</text></svg>">
-  <link rel="stylesheet" href="css/style.css?v=4">
+  <link rel="stylesheet" href="css/style.css?v=5">
 </head>
 <body>
 
@@ -23,6 +23,7 @@
       <a href="#news">뉴스</a>
       <a href="#overview">개요</a>
       <a href="#compass">나침반</a>
+      <a href="#simulator">시뮬레이터</a>
       <a href="#dashboard">대시보드</a>
       <a href="#correlation">상관관계</a>
       <a href="#cycles">사이클</a>
@@ -108,6 +109,28 @@
         과거 패턴은 미래 수익을 보장하지 않습니다. 실제 투자 판단은 본인의 상황에 맞게, 필요시 자격 있는
         전문가와 상의해 내리시기 바랍니다.
       </div>
+    </section>
+
+    <!-- ==================== 스트레스 테스트 시뮬레이터 ==================== -->
+    <section id="simulator">
+      <div class="sec-head">
+        <h2>스트레스 테스트 — 내 배분으로 역사를 다시 살아보기</h2>
+        <p class="sec-sub">
+          자산배분을 움직여보세요. <b>1997 IMF · 2000 닷컴 · 2008 금융위기 · 2022 인플레이션 · 1973 스태그플레이션</b>이
+          다시 온다면 내 포트폴리오가 어떻게 되는지, 내장된 56년 실데이터로 즉시 계산합니다.
+          "시장 이야기"가 "내 돈 이야기"가 되는 곳입니다.
+        </p>
+      </div>
+      <div class="panel sim-panel">
+        <div class="sim-alloc" id="simAlloc"></div>
+        <div class="chip-row" id="simPresets"></div>
+      </div>
+      <div class="sim-results" id="simResults"></div>
+      <p class="method-note">
+        방법: 연말 기준 연간 데이터 · 매년 목표 비중으로 리밸런싱 가정 · 미국 주식·국채·금은 원/달러 환율 반영(원화 기준,
+        1980년 이후) · 채권은 미 10년물 근사 총수익(이자 − 듀레이션 8 × 금리변화) · 현금은 한국(없으면 미국) 기준금리 이자 ·
+        세금·수수료·배당 미반영 · 연말 데이터라 장중 최대 낙폭은 미반영 — 교육용 근사치이며 미래 성과와 무관합니다.
+      </p>
     </section>
 
     <!-- ==================== 대시보드 ==================== -->
@@ -271,13 +294,21 @@
     </div>
   </div>
 
+  <!-- 프리미엄 대기명단 모달 -->
+  <div class="modal" id="waitModal">
+    <div class="modal-box wait-box">
+      <button class="modal-close" onclick="closeWaitModal()">✕</button>
+      <div id="waitModalBody"></div>
+    </div>
+  </div>
+
   <script src="js/config.js?v=1"></script>
-  <script src="js/data.js?v=3"></script>
+  <script src="js/data.js?v=4"></script>
   <script>
     /* live.js 는 수시로 갱신되므로 항상 최신본을 재요청 (캐시 우회) */
     document.write('<script src="js/live.js?ts=' + Date.now() + '"><\/script>');
   </script>
   <script src="js/charts.js?v=3"></script>
-  <script src="js/app.js?v=4"></script>
+  <script src="js/app.js?v=5"></script>
 </body>
 </html>
