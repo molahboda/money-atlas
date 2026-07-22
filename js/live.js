@@ -1,86 +1,86 @@
 /* 자동 생성 파일 — update_live.py 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-22T03:26:32+00:00",
-  "quotesAt": "2026-07-22T03:26:32+00:00",
-  "newsAt": "2026-07-22T03:26:32+00:00",
+  "fetchedAt": "2026-07-22T06:24:26+00:00",
+  "quotesAt": "2026-07-22T06:24:26+00:00",
+  "newsAt": "2026-07-22T06:24:26+00:00",
   "quotes": {
-    "kospi": 7066.21,
+    "kospi": 6803.48,
     "spx": 7509.2,
-    "nikkei": 67511.12,
+    "nikkei": 66195.22,
     "vix": 17.05,
-    "krw": 1482.3,
-    "gold": 4142.1,
-    "wti": 85.2
+    "krw": 1479.7,
+    "gold": 4135.9,
+    "wti": 85.24
   },
   "daily": {
     "spx": 0.89,
-    "kospi": 4.72,
-    "nikkei": 1.93,
+    "kospi": 0.82,
+    "nikkei": -0.06,
     "vix": -8.58,
-    "krw": -0.01,
-    "gold": 1.61,
-    "wti": 1.02
+    "krw": -0.19,
+    "gold": 1.46,
+    "wti": 1.07
   },
   "news": [
     {
-      "t": "코스피 다시 7천선‥반도체주 강세",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGb3NMN1NnYVJQRlFsUGo1MGJoQnhfbGVTOTlMUGtRV29DZHlNb3Z6eTNET3k1NkxBTVpXd3VfRVZKRTh4ekVaYWt2ZDB5LVhZZWdvYzEwXzgzTHo2aDFHSjFwZGRFSXlfb3RpejZEYXlhdEJfdjZOcA?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-22T03:17:01+00:00"
+      "t": "증시에 지친 돈, 다시 뜨는 예금…은행 금리 3%대 복귀 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjY0FDNHJya1NQU3RHQVBpNW9Za19zZ0FuU3lWbk5qSy0tc012Z1Q1T0tDWXB3dnB5c1JXZEU3RFgta09TOG1UX1JxLXVpX2Nhb3Mtb3RQMWxIdGxsNFB2Q3FMbExJemd0UDgwSzdkRFE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-22T06:12:00+00:00"
     },
     {
-      "t": "\"카드 실적 못 채워 대출금리 감면 놓쳤다\" 줄어든다··· 실적 제외 항목 대폭 줄이고, 체크카드도 인정",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclBPMHpNdDdyVGdpby1RN29VNmpCSjdxb0pweXp5WEdDTTBYSWZNd1NYZFVnMjJDcUItRnRvcDhYVHV6RVhNMUc3aDJmNXdjckxiNVRxNmJBSTBNWVQtY3VQZUJVZ2JCRlUyRzdXMXNCNHdIa0ZtNVVTY2JUUkRnRGp2ZXE1cW9WSUZzdDZB?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-22T03:07:59+00:00"
+      "t": "반도체 몰빵 끝났나…ETF 자금 미국 지수로 이동 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydktILWZTelp6VkttWHhlSjVJUzBqeXlWOU96M190NEZ6ZlB2V2tzRnMzNkE5UURzVU9LOFJYM1JDbEE4Vl9oNlpkTzJhX2lrWDYzTVlHX3Z5VWZ5SG9JR0lhcnNoZkI0ajlGZ1ViaEE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-22T06:12:00+00:00"
     },
     {
-      "t": "S&P500 선물, 실적 발표 대기 속 약보합…美 국채금리↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iN21oc0YtUnhQRmxYRGJ1Rmg2TU9RR3laSHNjeWNuYXh1bHJUdUNVcHhjY2h2QkJGYnRDY0g5Vm5sQ0VaN0FCWkVvSm9Ud0Ria0g4RjdRaFh4QjZYMEc5aHVCaVQ0cU1MU1ZCaUdSQXo?oc=5",
+      "t": "‘반도체 투자 원조’ ACE ETF…종목 넘어 밸류체인 투자로 승부",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vV1Q1WGFNVHRTU2I0djhsM3o0QW9OVElTXy1tYll2d2o0dlBmQ1E2MVhIdWk5TVgtdk9VSE9EUHdVSDlZQTNVaTljLUpyQTkydHl4Z3IwajZnbXlvb0k0T3VBQQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-07-22T06:07:20+00:00"
+    },
+    {
+      "t": "기준금리 인상에 은행권 예금금리 ‘꿈틀’···수신금리 경쟁 본격화 By 투데이코리아",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4SVV5anVHVjBtQUhtQ3Q0WGU4VHJHUGxOYWZ2V1BKZ0FIZzlmQjJwSE5fWlR2OFpSWENVeVVKeVRDdTE0b09pOGFSeF9tQTJCTW40MGMxUHRLa29DOVRYSGhOSWVFeHBOdUhDY2dkdW8?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-22T06:01:00+00:00"
+    },
+    {
+      "t": "“끝도 없이 오르네”…日 엔화 환율, 163엔도 뚫었다 [머니+]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwQlN5ZDI3Z2NVLVZkM21yV0gwQXVYaDEybF92blpURTN3QU1BSTlucjZndXB2aGc0VkdDc0d3bDFDZzkzM0dyNnRRWk5NOFdEZzZOa1pxeGNuX3M1bHBxNk9JWQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-07-22T05:55:20+00:00"
+    },
+    {
+      "t": "반도체 위에 바이오 더하다…최원용 평택시장의 ‘첨단산업도시’ 승부수 [협치로 여는 미래]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44LUFiUkw4eG84bVZ1X0NKN3cyR3FQT3lSRExBTGxSVmxZSElxVkFrWFdPVndYR2tGUExWazhBWkpSbnR0NnRGLUxnelV0UDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-22T05:53:16+00:00"
+    },
+    {
+      "t": "'환율 1500원 밑' 하이닉스 ADR 40조 효과…중동 불안은 '변수'",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZTh3cExYNDdzSEYwVTFTS0d5MUFScFZXWDVJWks4dnJVU09jMU1WRS1iNUlnOVJiUEpmaXY4VXJHUXliZVlIVXdDSHZySmJhM09sMGM5c3NVZVU?oc=5",
+      "s": "뉴스1",
+      "d": "2026-07-22T05:50:40+00:00"
+    },
+    {
+      "t": "前 골드만 분석가 \"BOJ 매입 없다면 日 장기금리 두자릿수\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03S1R4dDZnQWxCbXZNWk1yZjZiZFNjdWF0T3A2MzNfX3JXY3JFaVRjdmF6YUZKeVlBbk9PV3cxYTJwa2MwNEwwQ2pYTi1KMFNwOUFRUVRrd0JrcTNnV215VE9UVHh6dXlJcTRwWFpoeVI?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-07-22T03:05:19+00:00"
+      "d": "2026-07-22T05:50:03+00:00"
     },
     {
-      "t": "6월 생산자물가 전년비 8.6% 급등… 4년만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ObWVoYTZRTXJyZk9UcGZjX19FYzdNbmdpUVF6NjdKRHUxdUhVeEszNmFRcy14R21sQ0tlZ0hOaHZ1QVRkSTRCVGlrY2k3NkFO?oc=5",
-      "s": "문화일보",
-      "d": "2026-07-22T03:04:09+00:00"
+      "t": "은행 ‘대출금리 감면’ 쉬워진다…카드 이용실적 범위 확장",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TMWZaS2ZDOTQzZm5adkh5VmRPQUxWWGFsX3oyMlNkTXJWOGp0RE5yLU1DLTNKRElCS2UzQms0S0R6VWhZcGQ4Ui1NWkN2Zm9Nb0dRNkJkc05uRlF4VHlSM284MA?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-07-22T05:45:33+00:00"
     },
     {
-      "t": "증시 호황의 역설... 기업 순자산 1005兆 줄었다 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQclU5aktZVUtOV0JmdE5ZV3g3bG1oYnVGb2VMSmhPSnEwWU1jMXFjY2ItQ0VKcUkxVDVFQ3dPTzFBZng1TmZqUE0xTUY0bUhPOE9BXzBLZExNb2J2bnQ0RTlNdEktUktPek1VV2wxUGZKc09IT1BNb2d6R3BMeks4QW9TUm1MUdIBmgFBVV95cUxPclRTTlotbC12U0d4NkdKVFVSMTgzbnIzcGNteVVtUDdSWnVsZWc1SHJkTU9hTjFESEZQeGl4LXpuOUd3T2lKSEFWUHAzYlA2ejZkMkxHZ3pwbDFRcXFCbFEtU2hyN3NWdlNIZlZrZUxibFdnUmloYlpqYnR2VGR1TDdCVEpGY3AzTXNkODVJTE5BOWpkVFV4MmR3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-22T03:03:08+00:00"
-    },
-    {
-      "t": "카드론· 할부금도 카드 실적에 반영…은행 대출금리 감면 폭 커진다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jSWd6ZF9nb2w4LWFSakIxZXhPbjdRZjdxMEJKOHNVdU5QZ0gxTXAyWC1wTmNzRElNMmVpRXJwbnF6ZGw5V0lOQ0JxTHVfUF9kMVluM3RrRWY3NERWaTdMVGlHZm9Gb29PNUxlcF93WWI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-22T03:00:19+00:00"
-    },
-    {
-      "t": "반도체 급등에 ’7천피’ 탈환…매수 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMUx1UHdBVjJVdF9vSTg2Qm1qY1VOOEFQdnBTVmpNMEZrSktvWEFFYmZKT19GaXltMW1INTlleHBXNUdqUU90N1VtVWxmTnFLdWRiX0MzeDRrQ1VuWXBpNUlVZ3lydUE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-22T02:59:00+00:00"
-    },
-    {
-      "t": "유가 내리자 생산자물가 10개월 만에 상승세 멈춰",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3N3dCVHQ2TUozQlc5SnJUR2RVUElpakE1eGJwZ0FlV2s4MzVVZE5UeTdDSENObGZ3RW94UnR6MlV2VkVHZ1VxX2hxVjc3aGx5ZlExRTdpdGlXdjZGVGJWSVJiWWw1Qjg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-22T02:55:00+00:00"
-    },
-    {
-      "t": "트럼프, 수십개국에 '관세 폭탄'?…\"곧 발표\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wU2dZSUpNam1FQzY3ekxUNllJb1VDYzZ2RllhVVBCTGg4cUdxcVo5NjEzNUUtUWlTQm83dXl1X2kxMFlJRFJZOFc1V2h6b3otcXpDVkhGaWxINmZLbWZwbXN3VmVWblM1blVYOElBREZvQTJ3?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-07-22T02:52:40+00:00"
-    },
-    {
-      "t": "트럼프, 수십개국에 ’관세 폭탄’?…“곧 발표“",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVS0xQ04tWWQ1OVVEQ0U4ZUh2eTlkQmVHZ0ZxY2lsNXpfcElpVHIyWmZ3dUhfdUFGN2lSZ1ZmQTdjbkhFMFVUekNkTnVkYVU5UzYyc25FaVMtTl9pRTJkb0F4TFcxcDA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-22T02:52:00+00:00"
+      "t": "트럼프, 복제약 관세 2년 뒤 200%…약품 생산시설 미국 유도",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBScWQ4b1JCVXlSdkdlTE9mVXlIVUZHWHV0TE5BTW51WUR2TXgxUjdpN2x0LWN2YVpBODR2SnpfWjNyUUJ1YW5DV2E3ZXo4ZUk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-22T05:45:01+00:00"
     }
   ],
   "asof": {},
