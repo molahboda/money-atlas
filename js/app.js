@@ -207,6 +207,7 @@
     if (premiumActive) return cardEl; /* 프리미엄 이용자: 잠금 없음 */
     if (id && unlockedIds.indexOf(id) >= 0) return cardEl; /* 이미 열람권으로 연 카드 */
     cardEl.classList.add('locked');
+    if (id) cardEl.dataset.lockId = id;
     var ov = el('div', 'lock-overlay',
       '<div class="lock-ic">🔒</div>' +
       '<div class="lock-label">' + (label || '프리미엄') + '</div>' +
@@ -222,6 +223,7 @@
           ? '🎟 열람권 1장 사용 — ' + credits + '장 남았습니다'
           : '🎟 마지막 열람권을 사용했습니다');
         gaEvent('credit_use', { remaining: credits });
+        if (window.__persistProfile) window.__persistProfile();
       } else {
         gaEvent('credit_exhausted_click', {});
         openWaitModal();
@@ -237,6 +239,9 @@
     var body = $('waitModalBody');
     if (!body) return;
     var exhausted = credits <= 0 && !bonusUsed;
+    var loginBtn = (authEnabled() && !sbUser)
+      ? '<button class="wait-cta login" onclick="closeWaitModal();openLoginModal()">⚡ 카카오·구글 3초 로그인 — 열람권 +5 <em>계정에 영구 저장</em></button>'
+      : '';
     var buyBtn = payEnabled()
       ? '<button class="wait-cta buy" onclick="closeWaitModal();openPayModal()">💳 프리미엄 1년 이용권 — ' +
         ((cfg.paymentPrice || 39000).toLocaleString('ko-KR')) + '원 <em>(카드·카카오페이·토스페이)</em></button>'
@@ -262,7 +267,7 @@
       '<li><b>전체 위기 시나리오 스트레스 테스트</b> — 1997 IMF · 2000 닷컴 · 2022 인플레 · 1973 스태그에서 내 배분 검증</li>' +
       '<li><b>뉴스 전체의 작용 경로 분석</b> — 모든 헤드라인에 ①경로 ②역사 ③시장반응</li>' +
       '<li><b>패턴 발동 알림</b> — 금리차 역전·해소, 국면 전환을 텔레그램으로</li>' +
-      '</ul>' + buyBtn + cta +
+      '</ul>' + loginBtn + buyBtn + cta +
       (cfg.supportLink ? '<a class="wait-support" target="_blank" rel="noopener noreferrer" href="' + cfg.supportLink + '">지금 프로젝트를 응원하고 싶다면 ☕ 후원하기</a>' : '') +
       '<p class="wait-note">스팸 없음 · 원클릭 수신거부 · 등록자에겐 출시 특가를 약속합니다</p>';
     var bonusCta = $('waitBonusCta');
@@ -273,6 +278,7 @@
         refreshLockButtons();
         showToast('🎁 열람권 +' + CREDIT_BONUS + '장 지급! 등록 완료 후 이어서 보세요');
         gaEvent('email_bonus_granted', {});
+        if (window.__persistProfile) window.__persistProfile();
         setTimeout(window.closeWaitModal, 600);
       });
     }
@@ -518,6 +524,148 @@
       }
       item.appendChild(detail);
       list.appendChild(item);
+    });
+  }
+
+  /* ==================== 0.9 계정 시스템 (Supabase — 카카오·구글 로그인) ==================== */
+  var sb = null;          /* Supabase 클라이언트 */
+  var sbUser = null;      /* 현재 로그인 유저 */
+  var LOGIN_BONUS = 5;
+
+  function authEnabled() {
+    var c = window.SITE_CONFIG || {};
+    return !!(c.supabaseUrl && c.supabaseAnonKey);
+  }
+
+  function loadSupabaseSdk(cb) {
+    if (window.supabase && window.supabase.createClient) return cb();
+    var s = document.createElement('script');
+    s.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js';
+    s.onload = cb;
+    s.onerror = function () { console.warn('[auth] Supabase SDK 로드 실패'); };
+    document.head.appendChild(s);
+  }
+
+  function displayName(user) {
+    var m = (user && user.user_metadata) || {};
+    return m.name || m.full_name || m.nickname || m.preferred_username ||
+      (user && user.email ? user.email.split('@')[0] : '사용자');
+  }
+
+  function renderAuthUI() {
+    var bar = document.querySelector('.topbar');
+    if (!bar) return;
+    var old = $('authBox');
+    if (old) old.remove();
+    var box = el('div', 'auth-box');
+    box.id = 'authBox';
+    if (sbUser) {
+      box.innerHTML = '<span class="auth-name">' + esc(displayName(sbUser)) + '님</span>' +
+        '<button class="auth-btn" id="logoutBtn">로그아웃</button>';
+      box.querySelector('#logoutBtn').onclick = function () {
+        sb.auth.signOut().then(function () { location.reload(); });
+      };
+    } else {
+      box.innerHTML = '<button class="auth-btn primary" id="loginBtn">로그인 <em>열람권 +' + LOGIN_BONUS + '</em></button>';
+      box.querySelector('#loginBtn').onclick = openLoginModal;
+    }
+    bar.appendChild(box);
+  }
+
+  function openLoginModal() {
+    var m = $('loginModal');
+    if (!m) return;
+    $('loginModalBody').innerHTML =
+      '<div class="wait-badge">간편 로그인</div>' +
+      '<h2>3초 로그인하고 열람권 +' + LOGIN_BONUS + '장</h2>' +
+      '<p class="wait-lede">열람권과 열어본 카드가 <b>계정에 저장</b>되어, 휴대폰·PC 어디서든 이어집니다.</p>' +
+      '<button class="sns-btn kakao" id="kakaoLogin"><b>카카오</b>로 3초만에 시작</button>' +
+      '<button class="sns-btn google" id="googleLogin"><b>Google</b>로 시작</button>' +
+      '<p class="wait-note">이메일 주소 외의 정보는 수집하지 않습니다 · 스팸 없음</p>';
+    var go = function (provider) {
+      gaEvent('login_start', { provider: provider });
+      sb.auth.signInWithOAuth({
+        provider: provider,
+        options: { redirectTo: location.origin + location.pathname }
+      });
+    };
+    $('kakaoLogin').onclick = function () { go('kakao'); };
+    $('googleLogin').onclick = function () { go('google'); };
+    m.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  window.openLoginModal = openLoginModal;
+  window.closeLoginModal = function () {
+    var m = $('loginModal');
+    if (m) m.classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
+  /* 로그인 상태에서 열람권·해금을 계정에 저장 */
+  function persistProfile() {
+    if (!sb || !sbUser) return;
+    sb.from('profiles').upsert({
+      id: sbUser.id, credits: credits, unlocked: unlockedIds
+    }).then(function () { }, function () { });
+  }
+  window.__persistProfile = persistProfile;
+
+  function applyProfileToPage() {
+    refreshLockButtons();
+    document.querySelectorAll('.locked').forEach(function (c) {
+      if (c.dataset.lockId && unlockedIds.indexOf(c.dataset.lockId) >= 0) unlockCard(c);
+    });
+  }
+
+  function syncProfile() {
+    if (!sb || !sbUser) return;
+    sb.from('profiles').select('*').eq('id', sbUser.id).maybeSingle().then(function (res) {
+      var row = res.data;
+      if (!row) {
+        /* 첫 로그인: 로컬 상태 + 보너스로 프로필 생성 */
+        credits += LOGIN_BONUS;
+        lsSet('ma_credits', credits);
+        sb.from('profiles').insert({
+          id: sbUser.id, credits: credits, unlocked: unlockedIds
+        }).then(function () { }, function () { });
+        showToast('🎁 로그인 보너스 열람권 +' + LOGIN_BONUS + '장! (' + credits + '장 보유)');
+        gaEvent('login_bonus', {});
+        applyProfileToPage();
+      } else {
+        /* 재로그인: 계정 값을 신뢰 (더 큰 열람권/합집합 해금은 계정 기준) */
+        credits = typeof row.credits === 'number' ? row.credits : credits;
+        var merged = unlockedIds.slice();
+        (row.unlocked || []).forEach(function (id) { if (merged.indexOf(id) < 0) merged.push(id); });
+        unlockedIds = merged;
+        lsSet('ma_credits', credits);
+        lsSet('ma_unlocked', unlockedIds);
+        if (row.premium_until && new Date(row.premium_until).getTime() > Date.now()) activatePremium();
+        applyProfileToPage();
+        persistProfile();
+      }
+    }, function () { });
+  }
+
+  function authInit() {
+    if (!authEnabled()) return;
+    loadSupabaseSdk(function () {
+      var c = window.SITE_CONFIG;
+      sb = window.supabase.createClient(c.supabaseUrl, c.supabaseAnonKey);
+      sb.auth.getSession().then(function (res) {
+        sbUser = res.data && res.data.session ? res.data.session.user : null;
+        renderAuthUI();
+        if (sbUser) syncProfile();
+      });
+      sb.auth.onAuthStateChange(function (event, session) {
+        var was = !!sbUser;
+        sbUser = session ? session.user : null;
+        renderAuthUI();
+        if (sbUser && !was && event === 'SIGNED_IN') {
+          window.closeLoginModal();
+          gaEvent('login_complete', {});
+          syncProfile();
+        }
+      });
     });
   }
 
@@ -1425,8 +1573,12 @@
   if (pm) pm.addEventListener('click', function (e) {
     if (e.target === this) window.closePayModal();
   });
+  var lm = $('loginModal');
+  if (lm) lm.addEventListener('click', function (e) {
+    if (e.target === this) window.closeLoginModal();
+  });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') { closeModal(); window.closeWaitModal(); window.closePayModal(); }
+    if (e.key === 'Escape') { closeModal(); window.closeWaitModal(); window.closePayModal(); window.closeLoginModal(); }
   });
 
   /* ==================== 7. 머니 플로우 지도 ==================== */
@@ -1696,4 +1848,5 @@
   applyConfig();
   premiumInit();
   handlePayRedirect();
+  authInit();
 })();

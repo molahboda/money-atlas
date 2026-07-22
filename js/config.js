@@ -36,5 +36,12 @@ window.SITE_CONFIG = {
   premiumApiBase: '',                     /* 결제 서버 주소 (https://money-atlas-pay.XXX.workers.dev) */
   paymentPrice: 39000,                    /* 결제 금액(원) — workers/wrangler.toml PRICE와 일치해야 함 */
   paymentPriceOriginal: 59000,            /* 정가 표시용 */
-  paymentName: '머니 아틀라스 프리미엄 1년 이용권'
+  paymentName: '머니 아틀라스 프리미엄 1년 이용권',
+
+  /* ===== 계정 로그인 (Supabase — 카카오·구글) =====
+     두 값을 채우면 상단바에 로그인 버튼이 자동으로 켜집니다.
+     supabase/README.md 의 설정 가이드를 따라 채우세요.
+     (anon key는 공개용 키라 코드에 넣어도 안전합니다) */
+  supabaseUrl: '',                        /* https://XXXX.supabase.co */
+  supabaseAnonKey: ''
 };
