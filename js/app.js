@@ -158,15 +158,76 @@
     return '<table class="react-table"><tr><th>지표</th><th>현재</th><th>오늘</th><th>전년말比</th></tr>' + rows + '</table>';
   }
 
-  /* ==================== 0.7 프리미엄 잠금 시스템 ==================== */
-  function lockify(cardEl, label) {
+  /* ==================== 0.7 프리미엄 잠금 — 무료 열람권 시스템 ====================
+     첫 방문 3장 지급 → 잠긴 카드를 열람권으로 직접 열어봄(가치 먼저) →
+     소진 시점에만 이메일 등록 요청 → 등록하면 +5장 즉시 보상 */
+  var CREDIT_START = 3, CREDIT_BONUS = 5;
+
+  function lsGet(k, d) {
+    try { var v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch (e) { return d; }
+  }
+  function lsSet(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { } }
+
+  var credits = lsGet('ma_credits', null);
+  if (credits === null) { credits = CREDIT_START; lsSet('ma_credits', credits); }
+  var unlockedIds = lsGet('ma_unlocked', []);
+  var bonusUsed = lsGet('ma_bonus', 0);
+
+  function gaEvent(name, params) {
+    if (typeof window.gtag === 'function') window.gtag('event', name, params || {});
+  }
+
+  function showToast(msg) {
+    var t = $('toast');
+    if (!t) {
+      t = el('div', 'toast'); t.id = 'toast';
+      document.body.appendChild(t);
+    }
+    t.textContent = msg;
+    t.classList.add('show');
+    clearTimeout(t._tm);
+    t._tm = setTimeout(function () { t.classList.remove('show'); }, 2600);
+  }
+
+  function refreshLockButtons() {
+    document.querySelectorAll('.lock-overlay .lock-btn').forEach(function (b) {
+      b.innerHTML = credits > 0
+        ? '🎟 무료 열람권으로 열기 <em>' + credits + '장 남음</em>'
+        : (bonusUsed ? '프리미엄 출시 알림 받기' : '열람권 소진 — 이메일 등록하고 +' + CREDIT_BONUS + '장');
+    });
+  }
+
+  function unlockCard(cardEl) {
+    cardEl.classList.remove('locked');
+    var ov = cardEl.querySelector('.lock-overlay');
+    if (ov) ov.remove();
+  }
+
+  function lockify(cardEl, label, id) {
+    if (id && unlockedIds.indexOf(id) >= 0) return cardEl; /* 이미 열람권으로 연 카드 */
     cardEl.classList.add('locked');
     var ov = el('div', 'lock-overlay',
       '<div class="lock-ic">🔒</div>' +
       '<div class="lock-label">' + (label || '프리미엄') + '</div>' +
-      '<button class="lock-btn">미리보기 신청 →</button>');
-    ov.onclick = function (e) { e.stopPropagation(); openWaitModal(); };
+      '<button class="lock-btn"></button>');
+    ov.onclick = function (e) {
+      e.stopPropagation();
+      if (credits > 0) {
+        credits--; lsSet('ma_credits', credits);
+        if (id) { unlockedIds.push(id); lsSet('ma_unlocked', unlockedIds); }
+        unlockCard(cardEl);
+        refreshLockButtons();
+        showToast(credits > 0
+          ? '🎟 열람권 1장 사용 — ' + credits + '장 남았습니다'
+          : '🎟 마지막 열람권을 사용했습니다');
+        gaEvent('credit_use', { remaining: credits });
+      } else {
+        gaEvent('credit_exhausted_click', {});
+        openWaitModal();
+      }
+    };
     cardEl.appendChild(ov);
+    refreshLockButtons();
     return cardEl;
   }
 
@@ -174,27 +235,45 @@
     var cfg = window.SITE_CONFIG || {};
     var body = $('waitModalBody');
     if (!body) return;
+    var exhausted = credits <= 0 && !bonusUsed;
     var cta;
-    if (cfg.premiumWaitlistUrl) {
-      cta = '<a class="wait-cta" target="_blank" rel="noopener noreferrer" href="' + cfg.premiumWaitlistUrl + '">🔔 출시 알림 받기 (이메일)</a>';
+    if (cfg.premiumWaitlistUrl && exhausted) {
+      cta = '<a class="wait-cta" id="waitBonusCta" target="_blank" rel="noopener noreferrer" href="' + cfg.premiumWaitlistUrl + '">📧 이메일 등록하고 열람권 +' + CREDIT_BONUS + '장 바로 받기</a>' +
+        '<div class="wait-sub">등록 페이지가 열리며, 열람권은 즉시 지급됩니다</div>';
+    } else if (cfg.premiumWaitlistUrl) {
+      cta = '<a class="wait-cta" target="_blank" rel="noopener noreferrer" href="' + cfg.premiumWaitlistUrl + '">🔔 프리미엄 출시 알림 받기</a>';
     } else {
       cta = '<div class="wait-soon">이메일 알림 등록이 곧 열립니다 — 준비 중입니다.</div>';
     }
     body.innerHTML =
-      '<div class="wait-badge">PREMIUM · 준비 중</div>' +
-      '<h2>더 깊은 판단 도구를 준비하고 있습니다</h2>' +
-      '<p class="wait-lede">무료 기능은 계속 무료입니다. 잠긴 것들은 프리미엄으로 열립니다:</p>' +
+      (exhausted
+        ? '<div class="wait-badge">무료 열람권을 다 쓰셨습니다</div>' +
+          '<h2>재밌게 보셨다면, 계속 보세요</h2>' +
+          '<p class="wait-lede">이메일을 남기면 <b>열람권 ' + CREDIT_BONUS + '장을 즉시</b> 더 드리고, 프리미엄이 열릴 때 가장 좋은 조건으로 초대합니다.</p>'
+        : '<div class="wait-badge">PREMIUM · 준비 중</div>' +
+          '<h2>더 깊은 판단 도구를 준비하고 있습니다</h2>' +
+          '<p class="wait-lede">무료 기능은 계속 무료입니다. 프리미엄에는 이런 것들이 들어옵니다:</p>') +
       '<ul class="wait-list">' +
-      '<li><b>전체 위기 시나리오 스트레스 테스트</b> — 1997 IMF · 2000 닷컴 · 2022 인플레 · 1973 스태그플레이션에서 내 배분 검증</li>' +
+      '<li><b>전체 위기 시나리오 스트레스 테스트</b> — 1997 IMF · 2000 닷컴 · 2022 인플레 · 1973 스태그에서 내 배분 검증</li>' +
       '<li><b>뉴스 전체의 작용 경로 분석</b> — 모든 헤드라인에 ①경로 ②역사 ③시장반응</li>' +
-      '<li><b>유사 국면 상세 리포트</b> — 지금과 닮은 해 Top3의 전개와 그 뒤 1년</li>' +
-      '<li><b>패턴 발동 알림</b> — 금리차 역전·해소, 나침반 국면 전환을 텔레그램으로</li>' +
-      '<li><b>장중 실시간 갱신</b> · 데이터 다운로드</li>' +
+      '<li><b>패턴 발동 알림</b> — 금리차 역전·해소, 국면 전환을 텔레그램으로</li>' +
       '</ul>' + cta +
       (cfg.supportLink ? '<a class="wait-support" target="_blank" rel="noopener noreferrer" href="' + cfg.supportLink + '">지금 프로젝트를 응원하고 싶다면 ☕ 후원하기</a>' : '') +
-      '<p class="wait-note">알림을 남겨주신 분들께 가장 먼저, 가장 좋은 조건으로 열립니다.</p>';
+      '<p class="wait-note">스팸 없음 · 원클릭 수신거부 · 등록자에겐 출시 특가를 약속합니다</p>';
+    var bonusCta = $('waitBonusCta');
+    if (bonusCta) {
+      bonusCta.addEventListener('click', function () {
+        credits += CREDIT_BONUS; lsSet('ma_credits', credits);
+        bonusUsed = 1; lsSet('ma_bonus', 1);
+        refreshLockButtons();
+        showToast('🎁 열람권 +' + CREDIT_BONUS + '장 지급! 등록 완료 후 이어서 보세요');
+        gaEvent('email_bonus_granted', {});
+        setTimeout(window.closeWaitModal, 600);
+      });
+    }
     $('waitModal').classList.add('open');
     document.body.style.overflow = 'hidden';
+    gaEvent('wait_modal_open', { exhausted: exhausted ? 1 : 0 });
   }
   window.openWaitModal = openWaitModal;
   window.closeWaitModal = function () {
@@ -235,7 +314,7 @@
         '<div class="nd-block"><h5>③ 오늘 시장의 실제 반응</h5>' + reactionTable(main.watch) + '</div>' +
         '</div>' +
         '<div class="nd-caveat"><b>주의</b> ' + main.caveat + '</div>');
-      if (idx > 0) lockify(analysis, '뉴스 작용 분석 — 프리미엄');
+      if (idx > 0) lockify(analysis, '이 뉴스의 작용 경로·역사·시장 반응', 'n:' + n.t.slice(0, 24));
       detail.appendChild(analysis);
       if (n.u && /^https?:\/\//.test(n.u)) {
         var a = document.createElement('a');
@@ -497,7 +576,7 @@
         '<div class="analog-year">' + a.year + '<span class="analog-sim">유사도 ' + a.sim + '%</span></div>' +
         '<div class="analog-era">' + (a.era || '—') + '</div>' +
         '<div class="analog-next"><b>그 뒤 1년</b> ' + outcomes.join(' · ') + '</div>');
-      if (ai > 0) lockify(card, '유사 국면 ' + (ai + 1) + '위 — 프리미엄');
+      if (ai > 0) lockify(card, '지금과 닮은 해 ' + (ai + 1) + '위', 'an:' + a.year);
       ag.appendChild(card);
     });
 
@@ -531,7 +610,7 @@
         '<p class="pb-why">' + a.why + '</p>' +
         (a.sector ? '<div class="pb-sector">' + a.sector + '</div>' : '') +
         '<div class="pb-risk"><b>유의</b> ' + a.risk + '</div>');
-      if (pi >= 2) lockify(card, '자산 성적표 — 프리미엄');
+      if (pi >= 2) lockify(card, a.name + ' — 이 국면의 역사 성적', 'pb:' + quad.name + ':' + a.name);
       pg.appendChild(card);
     });
 
@@ -655,7 +734,7 @@
       if (!res) return;
       var card = el('div', 'sim-card');
       card.innerHTML = simCardHtml(sc, res);
-      if (!sc.free) lockify(card, '위기 시나리오 — 프리미엄');
+      if (!sc.free) lockify(card, sc.q, 'sim:' + sc.id);
       box.appendChild(card);
     });
   }

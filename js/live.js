@@ -1,27 +1,39 @@
 /* 자동 생성 파일 — update_live.py 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-22T03:22:37+00:00",
-  "quotesAt": "2026-07-22T03:22:37+00:00",
-  "newsAt": "2026-07-22T03:22:37+00:00",
+  "fetchedAt": "2026-07-22T03:26:32+00:00",
+  "quotesAt": "2026-07-22T03:26:32+00:00",
+  "newsAt": "2026-07-22T03:26:32+00:00",
   "quotes": {
-    "kospi": 7035.67,
+    "kospi": 7066.21,
     "spx": 7509.2,
     "nikkei": 67511.12,
     "vix": 17.05,
-    "krw": 1482.8,
-    "gold": 4141.8,
-    "wti": 85.16
+    "krw": 1482.3,
+    "gold": 4142.1,
+    "wti": 85.2
   },
   "daily": {
     "spx": 0.89,
-    "kospi": 4.26,
+    "kospi": 4.72,
     "nikkei": 1.93,
     "vix": -8.58,
-    "krw": 0.02,
-    "gold": 1.6,
-    "wti": 0.97
+    "krw": -0.01,
+    "gold": 1.61,
+    "wti": 1.02
   },
   "news": [
+    {
+      "t": "코스피 다시 7천선‥반도체주 강세",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGb3NMN1NnYVJQRlFsUGo1MGJoQnhfbGVTOTlMUGtRV29DZHlNb3Z6eTNET3k1NkxBTVpXd3VfRVZKRTh4ekVaYWt2ZDB5LVhZZWdvYzEwXzgzTHo2aDFHSjFwZGRFSXlfb3RpejZEYXlhdEJfdjZOcA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-22T03:17:01+00:00"
+    },
+    {
+      "t": "\"카드 실적 못 채워 대출금리 감면 놓쳤다\" 줄어든다··· 실적 제외 항목 대폭 줄이고, 체크카드도 인정",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclBPMHpNdDdyVGdpby1RN29VNmpCSjdxb0pweXp5WEdDTTBYSWZNd1NYZFVnMjJDcUItRnRvcDhYVHV6RVhNMUc3aDJmNXdjckxiNVRxNmJBSTBNWVQtY3VQZUJVZ2JCRlUyRzdXMXNCNHdIa0ZtNVVTY2JUUkRnRGp2ZXE1cW9WSUZzdDZB?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-22T03:07:59+00:00"
+    },
     {
       "t": "S&P500 선물, 실적 발표 대기 속 약보합…美 국채금리↑",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iN21oc0YtUnhQRmxYRGJ1Rmg2TU9RR3laSHNjeWNuYXh1bHJUdUNVcHhjY2h2QkJGYnRDY0g5Vm5sQ0VaN0FCWkVvSm9Ud0Ria0g4RjdRaFh4QjZYMEc5aHVCaVQ0cU1MU1ZCaUdSQXo?oc=5",
@@ -47,6 +59,12 @@ window.LIVE_DATA = {
       "d": "2026-07-22T03:00:19+00:00"
     },
     {
+      "t": "반도체 급등에 ’7천피’ 탈환…매수 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMUx1UHdBVjJVdF9vSTg2Qm1qY1VOOEFQdnBTVmpNMEZrSktvWEFFYmZKT19GaXltMW1INTlleHBXNUdqUU90N1VtVWxmTnFLdWRiX0MzeDRrQ1VuWXBpNUlVZ3lydUE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-22T02:59:00+00:00"
+    },
+    {
       "t": "유가 내리자 생산자물가 10개월 만에 상승세 멈춰",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3N3dCVHQ2TUozQlc5SnJUR2RVUElpakE1eGJwZ0FlV2s4MzVVZE5UeTdDSENObGZ3RW94UnR6MlV2VkVHZ1VxX2hxVjc3aGx5ZlExRTdpdGlXdjZGVGJWSVJiWWw1Qjg?oc=5",
       "s": "연합뉴스TV",
@@ -63,24 +81,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVS0xQ04tWWQ1OVVEQ0U4ZUh2eTlkQmVHZ0ZxY2lsNXpfcElpVHIyWmZ3dUhfdUFGN2lSZ1ZmQTdjbkhFMFVUekNkTnVkYVU5UzYyc25FaVMtTl9pRTJkb0F4TFcxcDA?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-07-22T02:52:00+00:00"
-    },
-    {
-      "t": "‘美 반도체 훈풍’ 외인 1.9조 순매수…코스피 5%대 상승 [장중시황]",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lT0lwcVA2SFhLTGVJYU9Rc2JPSUFmNWNvZ2N3YUQ4TEExTEdqQW1sU3ZPajdCVDRJMjZNUWJEU1ZOSUh3RDcxZ0lUMjRJQlVGRjhIRE5CekdBRjhENmJJ?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-22T02:51:49+00:00"
-    },
-    {
-      "t": "2주째 코스피 '사자' 행보…외국인, 본격 귀환하나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83SjNwN1pDZ1I2ZzZvNDdYdE1aTXVfV21OSVFnOWItc0hxenFQaWNXTmNwQjFHQVltdGRzZTA0eVhRZ2JKXzVqR0VuRTJIZGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T02:47:05+00:00"
-    },
-    {
-      "t": "'삼전·닉스' 강세에 코스피 4일 만에 7천선 탈환",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4RF9lYnlfRFNOSHlKeEU5TjBDWWE5VjBMc3hSZ3VEb2d5eDA1ckt3Zm9xRnpKY0oyZk11bXVVM202TXNCM3ZTOWw2eVpoNkZaNzQtbzZEUVNDN2JrMlNXWVBRQUJqMHA3OUVyN0VPdw?oc=5",
-      "s": "YTN",
-      "d": "2026-07-22T02:45:00+00:00"
     }
   ],
   "asof": {},
