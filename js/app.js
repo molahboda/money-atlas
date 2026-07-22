@@ -562,11 +562,13 @@
     var box = el('div', 'auth-box');
     box.id = 'authBox';
     if (sbUser) {
-      box.innerHTML = '<span class="auth-name">' + esc(displayName(sbUser)) + '님</span>' +
+      box.innerHTML = (isAdmin() ? '<button class="auth-btn admin" id="adminBtn">🛠 관리자</button>' : '') +
+        '<span class="auth-name">' + esc(displayName(sbUser)) + '님</span>' +
         '<button class="auth-btn" id="logoutBtn">로그아웃</button>';
       box.querySelector('#logoutBtn').onclick = function () {
         sb.auth.signOut().then(function () { location.reload(); });
       };
+      if (isAdmin()) box.querySelector('#adminBtn').onclick = openAdminPanel;
     } else {
       box.innerHTML = '<button class="auth-btn primary" id="loginBtn">로그인 <em>열람권 +' + LOGIN_BONUS + '</em></button>';
       box.querySelector('#loginBtn').onclick = openLoginModal;
@@ -605,14 +607,22 @@
     document.body.style.overflow = '';
   };
 
-  /* 로그인 상태에서 열람권·해금을 계정에 저장 */
+  /* 로그인 상태에서 열람권·해금을 계정에 저장 (이메일·이름도 함께 — 관리자 조회용) */
   function persistProfile() {
     if (!sb || !sbUser) return;
     sb.from('profiles').upsert({
-      id: sbUser.id, credits: credits, unlocked: unlockedIds
+      id: sbUser.id, credits: credits, unlocked: unlockedIds,
+      email: sbUser.email || null, display_name: displayName(sbUser),
+      updated_at: new Date().toISOString()
     }).then(function () { }, function () { });
   }
   window.__persistProfile = persistProfile;
+
+  function isAdmin() {
+    var c = window.SITE_CONFIG || {};
+    return !!(sbUser && c.adminEmail && sbUser.email &&
+      sbUser.email.toLowerCase() === c.adminEmail.toLowerCase());
+  }
 
   function applyProfileToPage() {
     refreshLockButtons();
@@ -630,7 +640,8 @@
         credits += LOGIN_BONUS;
         lsSet('ma_credits', credits);
         sb.from('profiles').insert({
-          id: sbUser.id, credits: credits, unlocked: unlockedIds
+          id: sbUser.id, credits: credits, unlocked: unlockedIds,
+          email: sbUser.email || null, display_name: displayName(sbUser)
         }).then(function () { }, function () { });
         showToast('🎁 로그인 보너스 열람권 +' + LOGIN_BONUS + '장! (' + credits + '장 보유)');
         gaEvent('login_bonus', {});
@@ -672,6 +683,146 @@
       });
     });
   }
+
+  /* ==================== 0.95 관리자 패널 ==================== */
+  var PREMIUM_YEARS_MS = 10 * 365 * 24 * 3600 * 1000; /* "무제한" = 10년 */
+
+  function fmtDateShort(iso) {
+    if (!iso) return '—';
+    var d = new Date(iso);
+    if (isNaN(d)) return '—';
+    function p(n) { return (n < 10 ? '0' : '') + n; }
+    return (d.getFullYear() % 100) + '.' + p(d.getMonth() + 1) + '.' + p(d.getDate());
+  }
+
+  function openAdminPanel() {
+    var m = $('adminModal');
+    if (!m) return;
+    m.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    renderAdminTab('users');
+  }
+  window.closeAdminModal = function () {
+    var m = $('adminModal');
+    if (m) m.classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
+  function renderAdminTab(tab) {
+    var body = $('adminModalBody');
+    if (!body) return;
+    var tabs = '<div class="admin-tabs">' +
+      '<button class="admin-tab' + (tab === 'users' ? ' on' : '') + '" data-t="users">회원</button>' +
+      '<button class="admin-tab' + (tab === 'inq' ? ' on' : '') + '" data-t="inq">문의</button></div>';
+    body.innerHTML = '<h2>🛠 관리자</h2>' + tabs + '<div id="adminContent" class="admin-content">불러오는 중…</div>';
+    body.querySelectorAll('.admin-tab').forEach(function (b) {
+      b.onclick = function () { renderAdminTab(b.dataset.t); };
+    });
+    if (tab === 'users') loadAdminUsers();
+    else loadAdminInquiries();
+  }
+
+  function loadAdminUsers() {
+    var box = $('adminContent');
+    sb.from('profiles').select('*').order('updated_at', { ascending: false }).then(function (res) {
+      if (res.error) { box.innerHTML = '<p class="muted">조회 실패: ' + esc(res.error.message) + '</p>'; return; }
+      var rows = res.data || [];
+      if (!rows.length) { box.innerHTML = '<p class="muted">아직 가입한 회원이 없습니다.</p>'; return; }
+      var html = '<div class="admin-count">회원 ' + rows.length + '명</div>' +
+        '<table class="admin-table"><tr><th>이메일</th><th>이름</th><th>열람권</th><th>프리미엄</th><th></th></tr>';
+      rows.forEach(function (r) {
+        var prem = r.premium_until && new Date(r.premium_until).getTime() > Date.now();
+        html += '<tr data-id="' + r.id + '">' +
+          '<td class="ad-email">' + esc(r.email || '—') + '</td>' +
+          '<td>' + esc(r.display_name || '—') + '</td>' +
+          '<td>' + (r.credits != null ? r.credits : '—') + '</td>' +
+          '<td>' + (prem ? '<span class="ad-prem-on">✓ ~' + fmtDateShort(r.premium_until) + '</span>' : '<span class="muted">일반</span>') + '</td>' +
+          '<td><button class="ad-btn ' + (prem ? 'revoke' : 'grant') + '" data-id="' + r.id + '" data-on="' + (prem ? 1 : 0) + '">' +
+          (prem ? '해제' : '프리미엄 지급') + '</button></td></tr>';
+      });
+      html += '</table>';
+      box.innerHTML = html;
+      box.querySelectorAll('.ad-btn').forEach(function (b) {
+        b.onclick = function () { togglePremium(b.dataset.id, b.dataset.on === '1', b); };
+      });
+    });
+  }
+
+  function togglePremium(id, isOn, btn) {
+    btn.disabled = true; btn.textContent = '처리 중…';
+    var until = isOn ? null : new Date(Date.now() + PREMIUM_YEARS_MS).toISOString();
+    sb.from('profiles').update({ premium_until: until }).eq('id', id).then(function (res) {
+      if (res.error) { showToast('실패: ' + res.error.message); btn.disabled = false; }
+      else { showToast(isOn ? '프리미엄 해제됨' : '프리미엄 지급 완료'); loadAdminUsers(); }
+    });
+  }
+
+  function loadAdminInquiries() {
+    var box = $('adminContent');
+    sb.from('inquiries').select('*').order('created_at', { ascending: false }).then(function (res) {
+      if (res.error) { box.innerHTML = '<p class="muted">조회 실패: ' + esc(res.error.message) + '</p>'; return; }
+      var rows = res.data || [];
+      if (!rows.length) { box.innerHTML = '<p class="muted">아직 문의가 없습니다.</p>'; return; }
+      var html = '<div class="admin-count">문의 ' + rows.length + '건</div><div class="inq-list">';
+      rows.forEach(function (r) {
+        html += '<div class="inq-item' + (r.handled ? ' done' : '') + '">' +
+          '<div class="inq-top"><span class="inq-meta">' + fmtDateShort(r.created_at) + ' · ' + esc(r.email || '익명') + '</span>' +
+          '<button class="ad-btn small" data-id="' + r.id + '" data-h="' + (r.handled ? 1 : 0) + '">' +
+          (r.handled ? '↩ 미처리로' : '✓ 처리완료') + '</button></div>' +
+          '<div class="inq-msg">' + esc(r.message || '') + '</div></div>';
+      });
+      html += '</div>';
+      box.innerHTML = html;
+      box.querySelectorAll('.ad-btn').forEach(function (b) {
+        b.onclick = function () {
+          b.disabled = true;
+          sb.from('inquiries').update({ handled: b.dataset.h !== '1' }).eq('id', b.dataset.id).then(function (res) {
+            if (res.error) { showToast('실패: ' + res.error.message); b.disabled = false; }
+            else loadAdminInquiries();
+          });
+        };
+      });
+    });
+  }
+
+  /* ==================== 0.96 문의하기 (누구나) ==================== */
+  function openInquiryModal() {
+    var m = $('inquiryModal');
+    if (!m) return;
+    $('inquiryModalBody').innerHTML =
+      '<div class="wait-badge">문의하기</div>' +
+      '<h2>무엇을 도와드릴까요?</h2>' +
+      '<p class="wait-lede">버그 제보·기능 제안·데이터 오류 등 무엇이든 남겨주세요.</p>' +
+      '<input id="inqEmail" class="inq-email-in" placeholder="답장받을 이메일 (선택)" value="' +
+      (sbUser && sbUser.email ? esc(sbUser.email) : '') + '">' +
+      '<textarea id="inqMsg" class="inq-textarea" placeholder="내용을 입력하세요"></textarea>' +
+      '<button class="wait-cta" id="inqSend">보내기</button>' +
+      '<p class="wait-note">로그인 없이도 보낼 수 있습니다.</p>';
+    $('inqSend').onclick = function () {
+      var msg = ($('inqMsg').value || '').trim();
+      if (msg.length < 5) { showToast('내용을 조금 더 자세히 적어주세요'); return; }
+      var btn = $('inqSend'); btn.disabled = true; btn.textContent = '보내는 중…';
+      var payload = { message: msg, email: ($('inqEmail').value || '').trim() || null };
+      if (sbUser) payload.user_id = sbUser.id;
+      var done = function (ok, err) {
+        window.closeInquiryModal();
+        showToast(ok ? '문의가 접수되었습니다. 감사합니다!' : '전송 실패: ' + (err || '잠시 후 다시'));
+        gaEvent('inquiry_sent', {});
+      };
+      if (!sb) { done(false, '로그인 시스템 준비 중'); return; }
+      sb.from('inquiries').insert(payload).then(function (res) {
+        done(!res.error, res.error && res.error.message);
+      }, function (e) { done(false, e && e.message); });
+    };
+    m.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+  window.openInquiryModal = openInquiryModal;
+  window.closeInquiryModal = function () {
+    var m = $('inquiryModal');
+    if (m) m.classList.remove('open');
+    document.body.style.overflow = '';
+  };
 
   /* ==================== 1. 현재 스냅샷 ==================== */
   var SNAPSHOT_KEYS = ['fed', 'bok', 'us10y', 'spread', 'cpi', 'spx', 'kospi', 'nikkei', 'krw', 'dxy', 'gold', 'wti', 'vix', 'buffett'];
@@ -1581,8 +1732,20 @@
   if (lm) lm.addEventListener('click', function (e) {
     if (e.target === this) window.closeLoginModal();
   });
+  var am = $('adminModal');
+  if (am) am.addEventListener('click', function (e) {
+    if (e.target === this) window.closeAdminModal();
+  });
+  var im = $('inquiryModal');
+  if (im) im.addEventListener('click', function (e) {
+    if (e.target === this) window.closeInquiryModal();
+  });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') { closeModal(); window.closeWaitModal(); window.closePayModal(); window.closeLoginModal(); }
+    if (e.key === 'Escape') {
+      closeModal(); window.closeWaitModal(); window.closePayModal();
+      window.closeLoginModal(); window.closeAdminModal && window.closeAdminModal();
+      window.closeInquiryModal && window.closeInquiryModal();
+    }
   });
 
   /* ==================== 7. 머니 플로우 지도 ==================== */

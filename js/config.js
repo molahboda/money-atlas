@@ -43,5 +43,9 @@ window.SITE_CONFIG = {
      supabase/README.md 의 설정 가이드를 따라 채우세요.
      (anon key는 공개용 키라 코드에 넣어도 안전합니다) */
   supabaseUrl: 'https://emblunkphlkyeawdbxvi.supabase.co',
-  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtYmx1bmtwaGxreWVhd2RieHZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ2NzMxNzUsImV4cCI6MjEwMDI0OTE3NX0.b28OElB8AaEwgfC8AqaElQAAgI97_kNan8LJjPHm0YA'
+  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVtYmx1bmtwaGxreWVhd2RieHZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ2NzMxNzUsImV4cCI6MjEwMDI0OTE3NX0.b28OElB8AaEwgfC8AqaElQAAgI97_kNan8LJjPHm0YA',
+
+  /* 관리자 이메일 — 이 계정으로 로그인하면 관리자 패널(회원·문의 조회, 프리미엄 지급)이 열립니다.
+     실제 권한은 Supabase RLS로 서버에서 강제되므로, 이 값 변조로는 데이터에 접근할 수 없습니다. */
+  adminEmail: 'hansikgu.app@gmail.com'
 };
