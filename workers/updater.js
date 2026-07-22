@@ -197,6 +197,11 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (url.pathname === '/run') {
+      // 수동 실행은 토큰 필수 (자동 갱신은 scheduled 핸들러가 담당하므로 영향 없음)
+      // 활성화하려면:  npx wrangler secret put RUN_TOKEN --config wrangler-updater.toml
+      if (!env.RUN_TOKEN || url.searchParams.get('key') !== env.RUN_TOKEN) {
+        return new Response('forbidden', { status: 403 });
+      }
       try {
         const res = await runUpdate(env);
         return new Response(JSON.stringify(res, null, 2), { headers: { 'Content-Type': 'application/json' } });
@@ -204,6 +209,6 @@ export default {
         return new Response('error: ' + e.message, { status: 500 });
       }
     }
-    return new Response('money-atlas updater — /run 으로 수동 실행', { status: 200 });
+    return new Response('money-atlas updater', { status: 200 });
   },
 };

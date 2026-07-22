@@ -1,0 +1,11 @@
+# GitHub Pages(Jekyll) — 서버 코드·설정 문서를 웹에 게시하지 않도록 제외.
+# 사이트는 index.html + css/ + js/ 만 서빙됩니다.
+exclude:
+  - workers/          # Cloudflare Worker 소스 (갱신·결제)
+  - supabase/         # 로그인 설정 가이드
+  - update_live.py    # 로컬 수집 스크립트
+  - serve.py
+  - LAUNCH.md
+  - __pycache__/
+  - "*.toml"
+  - README.md
