@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-22T08:46:01+00:00",
-  "quotesAt": "2026-07-22T08:46:01+00:00",
-  "newsAt": "2026-07-22T08:40:50+00:00",
+  "fetchedAt": "2026-07-22T09:00:52+00:00",
+  "quotesAt": "2026-07-22T09:00:52+00:00",
+  "newsAt": "2026-07-22T09:00:52+00:00",
   "quotes": {
     "kospi": 6797.7,
     "spx": 7509.2,
     "nikkei": 66115.6,
-    "vix": 17.41,
+    "vix": 17.46,
     "krw": 1479.7,
-    "gold": 4122.5,
-    "wti": 87.23,
-    "dxy": 101.11
+    "gold": 4119.2,
+    "wti": 87.71,
+    "dxy": 101.12
   },
   "daily": {
     "spx": 0.69,
     "kospi": 4.32,
     "nikkei": -0.18,
-    "vix": 2.11,
+    "vix": 2.4,
     "krw": 0.32,
-    "gold": 1.26,
-    "wti": 2.73,
-    "dxy": -0.07
+    "gold": 1.18,
+    "wti": 3.3,
+    "dxy": -0.06
   },
   "news": [
+    {
+      "t": "트럼프, 복제약 관세 매겨 美 현지생산 압박…\"2028년부터 100% 부과\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVbV81QUhTbXZ0b2dDZ2pERWd6OFFVb05TM1JXeFI5TkpIN1dEcUx5WENtOUxaaXpZazYwVzd0VVJYTkZFX0F1R0t6TlJIeTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-22T08:54:20+00:00"
+    },
+    {
+      "t": "“TK, ‘설계부터 생산까지’ 반도체 생태계 구축 최적의 지역”…국내 최고 반도체 전문가들의 한결같은 평가",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtTW9vRkhhaEM2SWdKV2VzVzVHZVdhc0RzREhnTkNiZUFyVU9zbnRNTXB4aVkzdmJrOVA4NDBOS3lRSlRfUDRxaWZjaWlqaG8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-22T08:40:46+00:00"
+    },
     {
       "t": "카드 많이 쓰면 대출금리 할인 확대…체크카드·할부 이용도 실적 인정",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ILV9LMXBFWlVoQy1ubzJxMU1RTndpX3BsUTVKOHZ1R0lyZHFIR2Nkekhwd0hKSHp1UmVpOEdEVGU5b3BCWUJYLWZOTHpsT00?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndDRlclpBSUFQZ01DdVowTjBTbG9ieTUwYUVabFdlS0lPMmwxbTNVOE5nNGQwQzZ1SjNtWW04dU5xeDY0ZnJKMUxHbUxpQmM?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-22T08:24:50+00:00"
-    },
-    {
-      "t": "[속보] 청와대 “미, 슈퍼 301조 등으로 추가 관세 부과 가능성”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WlVtQXZDSE12dlRuRHpZekxId0s1TXB1WlV3ZlB0WkZ4SlcwN1hzUWZIYnF0MU1HTlRCWWFtVXFxazZjYkNhMzM4WVRDVGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T08:22:10+00:00"
-    },
-    {
-      "t": "대출 우대금리 받기 쉬워진다…은행 카드실적 인정기준 전면 개편",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zdTMtOEhQZ01PZ002X18wSnlyT1otTlVlaVJ4UXlNelAyVDlTMy13d1dLbXpET045WDZScDRUMkFUaUVZek0zZ25tVF9IbUk0WU9iTDhDRW1VZmtQaExVQUV4MU5zVDhs?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-07-22T08:21:27+00:00"
     }
   ],
   "asof": {},
