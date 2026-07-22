@@ -103,7 +103,11 @@ async function ghGet(env) {
   });
   if (!r.ok) throw new Error('GitHub GET ' + r.status);
   const j = await r.json();
-  return { sha: j.sha, content: atob(j.content.replace(/\n/g, '')) };
+  // base64 → 바이트 → UTF-8 로 정확히 디코딩 (atob 만 쓰면 한글이 Latin1 로 깨져 누적 corruption)
+  const bin = atob(j.content.replace(/\n/g, ''));
+  const bytes = Uint8Array.from(bin, function (c) { return c.charCodeAt(0); });
+  const content = new TextDecoder('utf-8').decode(bytes);
+  return { sha: j.sha, content: content };
 }
 
 function b64utf8(str) {
