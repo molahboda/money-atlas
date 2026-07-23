@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T10:15:52+00:00",
-  "quotesAt": "2026-07-23T10:15:52+00:00",
-  "newsAt": "2026-07-23T10:15:52+00:00",
+  "fetchedAt": "2026-07-23T10:30:52+00:00",
+  "quotesAt": "2026-07-23T10:30:52+00:00",
+  "newsAt": "2026-07-23T10:30:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 17.68,
-    "krw": 1469.21,
-    "gold": 4093.6,
-    "wti": 89.95,
-    "dxy": 101.15
+    "vix": 17.77,
+    "krw": 1468.58,
+    "gold": 4091.7,
+    "wti": 90.42,
+    "dxy": 101.18
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.71,
-    "dxy": 0.01,
-    "gold": -1.29,
-    "wti": 3.59,
-    "vix": 6.25
+    "krw": -0.75,
+    "dxy": 0.04,
+    "gold": -1.33,
+    "wti": 4.13,
+    "vix": 6.79
   },
   "news": [
     {
-      "t": "중동악재 넘은 반도체 호황… 2분기 GDP 0.6% 깜짝 성장",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Uk1SSl9WblIwMm1FQWp5OUZDQldfRWhndmdMRmNma1UxVFJ2NVo3MlUxVWdnMk82S3BZYlA4QnFyUll0UXJoSE96OUFkUFE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-23T09:59:14+00:00"
+      "t": "반도체 학과 개설…인재 양성 요람 된 구마모토",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92VFZXNWF2QmVlUUJhRU1SMk1VVGtseGlvNmtLMWtuZHhSc2RsTVFfSmxmMDVEMVFlTG9aYXh5VlhCWW14bTZOelJfaS1DQUh5ZkpLX1VpNFI2MHg2RTlicnhGU2JMVjd1elow?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-23T10:09:00+00:00"
     },
     {
       "t": "[채권-마감] '백투백을 어떻게 봐야 할까'…국고채 금리 보합권 혼조",
@@ -61,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-07-23T09:35:59+00:00"
     },
     {
-      "t": "[시사플랫폼] “일본 구마모토 반도체 공장 속도전 성공…정부·지자체·주민 합작”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11dlMtd0h2SldYdU1vZWZ0MmNjZTE5dDlVSGpVTGtEQUJEMzJXSkZPY0N1WmNLS3hOQThoN0tNLWJNbEl0cmpMM1VqU3lQc2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-23T09:31:36+00:00"
-    },
-    {
       "t": "반도체 호황이 만든 2분기 0.6% ‘깜짝 성장’… 年 3%대 가시화",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Sd1dIWFY3LUJlTlFSN0xqRWs2MmZVMEtJSzVWZ3FGUHlvSi14QWtOUE1nOEZ1RUlMUEVEczc0WjNKSW40TTVteTVNM21GU2s?oc=5",
       "s": "v.daum.net",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4U09BZ0E0ajc5bEQ0OEYtQXRQejVITVlsQzVCcTJVUUJraVRFT2hveVdQLXFEbXpkNjR3bzhJTjhrdUlJNXlCOVdGRUVmRENybmNJeEdyYmpZSTA?oc=5",
       "s": "중앙일보",
       "d": "2026-07-23T09:25:22+00:00"
+    },
+    {
+      "t": "증시 랠리에 금융지주 또 최대 실적…KB, 리딩금융 수성",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBocTlYNGEwQTdJcFBvRnFRZk5MSmpmM3NjbVAtdDJJeklSOWJ4V1RtQ3dub1lrcHBaRVZ0RllfcTlic1FHMUJHYzJnenk0bTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-23T09:24:06+00:00"
     }
   ],
   "asof": {},
