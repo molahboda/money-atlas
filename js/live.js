@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T11:30:52+00:00",
-  "quotesAt": "2026-07-23T11:30:52+00:00",
-  "newsAt": "2026-07-23T11:30:52+00:00",
+  "fetchedAt": "2026-07-23T11:45:52+00:00",
+  "quotesAt": "2026-07-23T11:45:52+00:00",
+  "newsAt": "2026-07-23T11:45:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 17.7,
-    "krw": 1469.99,
-    "gold": 4087.3,
-    "wti": 90.84,
-    "dxy": 101.22
+    "vix": 17.92,
+    "krw": 1470.98,
+    "gold": 4082.9,
+    "wti": 90.96,
+    "dxy": 101.33
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.66,
-    "dxy": 0.08,
-    "gold": -1.44,
-    "wti": 4.62,
-    "vix": 6.37
+    "krw": -0.59,
+    "dxy": 0.18,
+    "gold": -1.54,
+    "wti": 4.76,
+    "vix": 7.69
   },
   "news": [
+    {
+      "t": "서남권 반도체 성패 가를 ‘광물’…“자원외교 절실”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOWNzN0tJUG1kSVc1cDdna3hTM0dRYXZIajBkM0pFWEJKWmpRY2FWMFRiSjlWOEdlempIV243R3Y3cHRaSk16MGR4bV9peGw2MFBKY0wtN1B3d9IBX0FVX3lxTE5MMndXMEZjOVp0Zl9qc0pDclZQQmYzME40WS05V1BjUUJFRVA1YWZ0SkhpTFpwVUJNeVR4LXVnQXgzSGlfb3NiMVg1VUVfSTBFRzVqRVRKcDdHN0xKUHFr?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-23T11:33:00+00:00"
+    },
+    {
+      "t": "‘롤러코스피’, 24년간 ‘사이드카’ 100회 중 올해만 40회…“투자 장벽”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jNlJ3ZFN2VTU5YkFrRHVTb0lsSmNPUTJ2dkItcjNxTU9rT3B1YjUzUzNOMXNZbWlUMHI2YWI0czFNYW1sMnlpYlBKWFdoaHBPWFl4M1hWZUdrWGFZNl8yMGZlSUYwTFE?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-23T11:21:00+00:00"
+    },
     {
       "t": "구글 \"AI 투자 더 늘린다\"...반도체 정점론 '제동'",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Nb29FRmhlTktTRm51SGwyakxtZXpBY1BPVU9wSHQ1V1BmQlhySldyNTJBenlCWjdMd3YxVUZ1NHNoeXJXVE4xTmFYSm44aGdjUkZ6N1c1RklRZkFENEE?oc=5",
       "s": "YTN",
       "d": "2026-07-23T11:15:00+00:00"
+    },
+    {
+      "t": "튀르키예 중앙은행, 기준금리 37%로 동결",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0waTNVV1dRal95bUo2ZU1sS0Nja3lzdnlWc3R3SmYwTnZHSU1uWXhMZ2dSRHA5QnhlSlk5RWVPNEtKcXZtTGpYNWNDT2huc2x0QURfYWRkTjBKZ0k3NnAxeWVVenBaR25LZ0JBUkh5dEg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-23T11:05:00+00:00"
     },
     {
       "t": "\"국민연금은 증시 부양·주가 방어용 아냐\"…김성주 작심발언",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tQ0stLTRvOXMxSmd0V09PNC1rekR0dThFVnFIeHB6VTVkcC1rYUF0SFZMUDhjTkxxOEEtNXRJcE0xdnkzYXd0NUJ3ekJvb1U?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-23T10:28:13+00:00"
-    },
-    {
-      "t": "9거래일 연속 사이드카가 울리는 증시 속, 그나마 마음 놓은 하루",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KMTFicTN3UzZUV29Nb1RDdnVUdEhRQTRJTmFsYmFMRlRfV0czY0Y0QjNpN00wUEtvX1BLXzhHRXUybjl2X3pzdVhEQU1WWndkMl81dkQ5R0c3Ny1LMkFiZQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-23T10:28:00+00:00"
-    },
-    {
-      "t": "‘롤러코스피’, 24년간 ‘사이드카’ 100회 중 올해만 40회…“투자 장벽”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jNlJ3ZFN2VTU5YkFrRHVTb0lsSmNPUTJ2dkItcjNxTU9rT3B1YjUzUzNOMXNZbWlUMHI2YWI0czFNYW1sMnlpYlBKWFdoaHBPWFl4M1hWZUdrWGFZNl8yMGZlSUYwTFE?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-23T10:10:00+00:00"
-    },
-    {
-      "t": "반도체 학과 개설…인재 양성 요람 된 구마모토",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50STJYaERsNTN3TllteTlXMjNuUGpEZzJlTDBrREVJbmFBTlZPZDd6c2ZQVUNiWHNfVU9BcEJtaGFuaG5WdTIxWERVWm1aOEZESmJpYjJXSDR6VDNSTHZacEdBMHJIZw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-23T10:09:00+00:00"
     }
   ],
   "asof": {},
