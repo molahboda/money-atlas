@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T11:45:52+00:00",
-  "quotesAt": "2026-07-23T11:45:52+00:00",
-  "newsAt": "2026-07-23T11:45:52+00:00",
+  "fetchedAt": "2026-07-23T12:00:52+00:00",
+  "quotesAt": "2026-07-23T12:00:52+00:00",
+  "newsAt": "2026-07-23T12:00:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 17.92,
-    "krw": 1470.98,
-    "gold": 4082.9,
-    "wti": 90.96,
-    "dxy": 101.33
+    "vix": 18.23,
+    "krw": 1471.88,
+    "gold": 4085.8,
+    "wti": 90.43,
+    "dxy": 101.3
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.59,
-    "dxy": 0.18,
-    "gold": -1.54,
-    "wti": 4.76,
-    "vix": 7.69
+    "krw": -0.53,
+    "dxy": 0.16,
+    "gold": -1.47,
+    "wti": 4.15,
+    "vix": 9.56
   },
   "news": [
+    {
+      "t": "원·엔 환율, 1년8개월 만에 ‘800원대’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVW00Q3Btd2M5UlNhb242YVR1YmFCTzNncXRrTUJVdjNUWi1kSFNkZjNIc0NHbFlsTDF2dXVieDRkbmtMaTNRdU1DalEyaFMwZ1BxZFVrOTdHUdIBX0FVX3lxTE9Ec1psSWd2dURrSVdPNHNkOTlSNGNUYXRuSHlXY0M2aW9SZjJfajgtZGJwUWdiSW1PaWtsWVotOUh1Z3B3MGduX29pUV9SUHlXVlM1bkJPR2NJdUl1aUFJ?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-23T11:44:00+00:00"
+    },
     {
       "t": "서남권 반도체 성패 가를 ‘광물’…“자원외교 절실”",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zOWNzN0tJUG1kSVc1cDdna3hTM0dRYXZIajBkM0pFWEJKWmpRY2FWMFRiSjlWOEdlempIV243R3Y3cHRaSk16MGR4bV9peGw2MFBKY0wtN1B3d9IBX0FVX3lxTE5MMndXMEZjOVp0Zl9qc0pDclZQQmYzME40WS05V1BjUUJFRVA1YWZ0SkhpTFpwVUJNeVR4LXVnQXgzSGlfb3NiMVg1VUVfSTBFRzVqRVRKcDdHN0xKUHFr?oc=5",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-23T10:32:10+00:00"
     },
     {
-      "t": "반도체 산단 속도전…전남광주와 비슷한 대만 남부를 가다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3LWtvVjhrTEIzcXdwU3FtVmtXRTZzeW02clloZE4tWmRFbmNRLVFuaDdTX3ByMVFQRF9nek9FVU1zRGcxQ05WTlJBdnBFSms?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-23T10:28:15+00:00"
-    },
-    {
-      "t": "22개월 만에 들어선 반도체 공장…배경·현재는?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tQ0stLTRvOXMxSmd0V09PNC1rekR0dThFVnFIeHB6VTVkcC1rYUF0SFZMUDhjTkxxOEEtNXRJcE0xdnkzYXd0NUJ3ekJvb1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-23T10:28:13+00:00"
+      "t": "[亞증시-종합] 알파벳 투자 확대 호조에 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QU2FTLVdTX1NqVk9fM0NCMVdCQ0daUHBLUEZPUGlfa3pJOWNIdUFQVDVtLW1YRGpCQWdlNmJGUWQ5S0dGQmJUMWFIYXc3MERVcl93ZXczZGRVYW5NVzJ5NndJR0FFVlJIZ0RielhjLWE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-23T10:29:21+00:00"
     }
   ],
   "asof": {},
