@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T10:45:52+00:00",
-  "quotesAt": "2026-07-23T10:45:52+00:00",
-  "newsAt": "2026-07-23T10:45:52+00:00",
+  "fetchedAt": "2026-07-23T11:00:52+00:00",
+  "quotesAt": "2026-07-23T11:00:52+00:00",
+  "newsAt": "2026-07-23T11:00:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 17.62,
-    "krw": 1469.81,
-    "gold": 4090.5,
-    "wti": 90.47,
-    "dxy": 101.18
+    "vix": 17.57,
+    "krw": 1469.29,
+    "gold": 4096.6,
+    "wti": 90.31,
+    "dxy": 101.2
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.67,
-    "dxy": 0.04,
-    "gold": -1.36,
-    "wti": 4.19,
-    "vix": 5.89
+    "krw": -0.7,
+    "dxy": 0.06,
+    "gold": -1.21,
+    "wti": 4.01,
+    "vix": 5.59
   },
   "news": [
+    {
+      "t": "EU, 대러 제재 강화안 합의…유가 상한선 동결",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZVpzcERmV3BBNG91TmFsZHhqMmtrNC1xcEI5NXc4SzRPNUE2akE4MDl0MzVXYnFpTWdoRG51RGZJMkpwbW5EcU5aaHVtSGQyamFta3ROMHJ5OUE?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-23T10:53:00+00:00"
+    },
     {
       "t": "반도체 산단 속도전…전남광주와 비슷한 대만 남부를 가다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3LWtvVjhrTEIzcXdwU3FtVmtXRTZzeW02clloZE4tWmRFbmNRLVFuaDdTX3ByMVFQRF9nek9FVU1zRGcxQ05WTlJBdnBFSms?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRHZZUVlfeS1XaG1HMHJuWnRoUXdjVEJHN1RlN2w5Vi1qMUY2Y1hXX0EwVE0xa2ZsWC1qSHlENk02NFBBNzhsOVBIeTc?oc=5",
       "s": "무등일보",
       "d": "2026-07-23T09:38:00+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 알파벳 실적發 亞 강세 동참해 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVERWMFExY3Y2RzlPU2h5ZS02QnRIRU9TOEJsSVoxRnhoa2xHWkpIVUJ4QUZXZTNoeHppenBNNXprTUNXcjJWdVM5M3ptYWszd3U1MzlRU3ZkNzVELVdZV3NUdlZWVVA2czY3S0plXzI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-23T09:35:59+00:00"
     }
   ],
   "asof": {},
