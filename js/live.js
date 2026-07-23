@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T12:45:52+00:00",
-  "quotesAt": "2026-07-23T12:45:52+00:00",
-  "newsAt": "2026-07-23T12:45:52+00:00",
+  "fetchedAt": "2026-07-23T13:00:52+00:00",
+  "quotesAt": "2026-07-23T13:00:52+00:00",
+  "newsAt": "2026-07-23T13:00:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 18.58,
-    "krw": 1474.18,
-    "gold": 4075.6,
-    "wti": 90.56,
-    "dxy": 101.36
+    "vix": 18.9,
+    "krw": 1473.93,
+    "gold": 4067.7,
+    "wti": 90.9,
+    "dxy": 101.41
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.37,
-    "dxy": 0.21,
-    "gold": -1.72,
-    "wti": 4.3,
-    "vix": 11.66
+    "krw": -0.39,
+    "dxy": 0.26,
+    "gold": -1.91,
+    "wti": 4.69,
+    "vix": 13.58
   },
   "news": [
     {
-      "t": "[2보] ECB, 금리 동결…예금금리 2.25％",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96WmNQcjJ3clczeWNKZ1NBSVR5SG5DNVdNWkg2N09VZEN1SGQyYzFtXzlMcllxYXpkNFRnbkJmdTAtVEZ6YVkwN2lVTEVkOWhpUzF0dThPYlRPZmfSAWBBVV95cUxNVVhzRE96RG9yOTlEVTBiUVJfd3pMTkJpNVZPcE0taVdYNWZhTi1oUGNjNDlCLWpDYmJIRHQtZmI2WG5NX2hBWWZZbm1BMWx1aU8ycGhGY2liTE44RDJCMnU?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-23T12:31:05+00:00"
+      "t": "금리 오르자 다시 뜨는 ‘예테크’…4%대 예금상품 속속 등장",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhOEFfN281dnRGdjN3Yi1FV3JJUVU4OFJTa1ozQ042UHJIY3RNNU1zcFlTS3M4T2ZHR0Jjb0xTRGFZeEFuMVdfY0RQNUdXckdBZXJIRE1FRldEVDhPSjVBVmY0WV9QSy1XaXVBVjB4SQ?oc=5",
+      "s": "조세일보",
+      "d": "2026-07-23T12:56:17+00:00"
+    },
+    {
+      "t": "ECB, 3대 정책금리 모두 동결…금리인상 영향 주시(상보)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrRFh4QWZiRlEtQWk2TE1VSy1LSXZ2UllhQU84UGFudGxOb0t6aGJfeTczckd1TkhGYllibnN5V2FrMkZ6Tnd1Qm16TkJ4MFktUkYyUDh6M3ExYmdTclhTQV9GM053ZFFTdWdIS1Nqd2JrUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-23T12:37:18+00:00"
     },
     {
       "t": "[외환] 원·달러 환율 1466.8원 마감…두 달 만에 최저 종가",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ReF92b2h2TFh3NUVieWFiUHRxMkxkQUhhNldYaDlrOVBoNFBfc0VLX2VyLWh3M2ZTaWVZMlIzVFJvSmRQUkVmSXJNQ2RQVjBTVFdLYkhfeDM5UQ?oc=5",
       "s": "한국경제",
       "d": "2026-07-23T12:27:33+00:00"
+    },
+    {
+      "t": "뉴욕증시 프리뷰, AI 투자 부담에 유가 급등 속 미 주가지수 선물 '일제 하락'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMXc3UVQ4al9hM0d0enVQN1ZET3VCemdEalF5akV0dTZDUS16MVlsTHQtbFc0dWtYVFlrcDFPU01iWFZQUEUwN3NLeG96U3lpWW93cXJFUTBZMXdR?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-23T12:25:00+00:00"
     },
     {
       "t": "유럽중앙은행, 이란 관련 에너지 충격 주시하며 금리 동결",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUFJDblRpeF96WU9EUlI2eFFkc2J2S21WVUhPaS01dkNBTG1nZ09MeEVDOWFqV0dDZVBsd2JNVGdyX2psUXAxZ21YY0FuUlo0RDAtbkxJQjZRREhWUnRvTm5ScTlmVHM?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-07-23T11:53:00+00:00"
-    },
-    {
-      "t": "원·엔 환율, 1년8개월 만에 ‘800원대’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVW00Q3Btd2M5UlNhb242YVR1YmFCTzNncXRrTUJVdjNUWi1kSFNkZjNIc0NHbFlsTDF2dXVieDRkbmtMaTNRdU1DalEyaFMwZ1BxZFVrOTdHUdIBX0FVX3lxTE9Ec1psSWd2dURrSVdPNHNkOTlSNGNUYXRuSHlXY0M2aW9SZjJfajgtZGJwUWdiSW1PaWtsWVotOUh1Z3B3MGduX29pUV9SUHlXVlM1bkJPR2NJdUl1aUFJ?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-23T11:44:00+00:00"
-    },
-    {
-      "t": "2분기도 '깜짝' 성장 희소식…코스피 '7천' 회복",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IbWFmQWNiRXJVbHFMTUhLdzBEbTd2Wi1vUFR0T2xXT3B4OEpmeVpJd0RuOUQ2RDZvMUprbVVWeUtSTDVyRjBrYS1lN3FhNTQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-23T11:33:25+00:00"
     }
   ],
   "asof": {},
