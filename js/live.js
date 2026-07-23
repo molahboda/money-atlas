@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T11:00:52+00:00",
-  "quotesAt": "2026-07-23T11:00:52+00:00",
-  "newsAt": "2026-07-23T11:00:52+00:00",
+  "fetchedAt": "2026-07-23T11:15:52+00:00",
+  "quotesAt": "2026-07-23T11:15:52+00:00",
+  "newsAt": "2026-07-23T11:15:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 17.57,
-    "krw": 1469.29,
-    "gold": 4096.6,
-    "wti": 90.31,
+    "vix": 17.58,
+    "krw": 1469.13,
+    "gold": 4093.9,
+    "wti": 90.37,
     "dxy": 101.2
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.7,
+    "krw": -0.72,
     "dxy": 0.06,
-    "gold": -1.21,
-    "wti": 4.01,
-    "vix": 5.59
+    "gold": -1.28,
+    "wti": 4.08,
+    "vix": 5.65
   },
   "news": [
     {
-      "t": "EU, 대러 제재 강화안 합의…유가 상한선 동결",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZVpzcERmV3BBNG91TmFsZHhqMmtrNC1xcEI5NXc4SzRPNUE2akE4MDl0MzVXYnFpTWdoRG51RGZJMkpwbW5EcU5aaHVtSGQyamFta3ROMHJ5OUE?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-23T10:53:00+00:00"
+      "t": "2분기 GDP도 깜짝 성장…기준금리 추가 인상 힘받나",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEaTNVYWlyM2VZbmszT0NsTDN0YUJaZ2pOeHZNd05UYm9mU1pxRTVNSC1NS2p6SnRCT25HMmUxTk9lRkNJXzJJOHRCQUEtM1R3RS1CbjVkUEZoSWFTWnBhdFY1RlZkTUxNU2hEaEE2ME0yQQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-23T10:54:00+00:00"
+    },
+    {
+      "t": "여행 가방서 나온 10억…국세도 관세도 체납한 16명 수색",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BeW0zVU9VWWRDRWlFdGstT3lzd0tleGZFRlA4VER1Q2k2VDgwOUxha3FLV0U2eXR2b2VYYWVxZWVtdUtOUGNYV19FTW5Gd0E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-23T10:32:10+00:00"
+    },
+    {
+      "t": "[亞증시-종합] 알파벳 투자 확대 호조에 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QU2FTLVdTX1NqVk9fM0NCMVdCQ0daUHBLUEZPUGlfa3pJOWNIdUFQVDVtLW1YRGpCQWdlNmJGUWQ5S0dGQmJUMWFIYXc3MERVcl93ZXczZGRVYW5NVzJ5NndJR0FFVlJIZ0RielhjLWE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-23T10:29:21+00:00"
     },
     {
       "t": "반도체 산단 속도전…전남광주와 비슷한 대만 남부를 가다",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WckQxWDhBT01VVG5GRkZNMS1jZThQaVJiYi1Ja19sRl83STNNODJYQjZER0VNTVQzNnBNLV9jS0FiMk96QUN4XzJoV1BlRXNhWFE5emJabGpZemdRekFseXpSbnZnWkU?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-07-23T09:52:00+00:00"
-    },
-    {
-      "t": "IRS 금리 전 구간 소폭 상승…GDP 소화하며 단기물 위주 강보합",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNy1xdGZuam9ObTFuYlNkZHhOSHNhTkpfTWt0QWxnU3lNb3BpSWV2bFZzdDZLMUlvLTVtLXlFT284RklzMlVELUQyUUIwV1dlM0wyZGFLRWoxY1BacGRaVnYxZWZCVGZwNXhQQVBTNW_SAXRBVV95cUxNWUFXZUhidHpkS3hXSVJITmJsUmNZNFg1R0R3UWM5RUMzVTk1MGNycE1lVXlOYlZyS2FlN19vcmxsY3QzTXRBQ2c4SDdmNmc0QkRpa2NlLTk2QzI5WTV5LU8ySVVaUnJmNm1RSjBFanh2MjM4bw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-23T09:50:32+00:00"
-    },
-    {
-      "t": "‘반도체 호재’전남광주 아파트 상승세···광주도 전환",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRHZZUVlfeS1XaG1HMHJuWnRoUXdjVEJHN1RlN2w5Vi1qMUY2Y1hXX0EwVE0xa2ZsWC1qSHlENk02NFBBNzhsOVBIeTc?oc=5",
-      "s": "무등일보",
-      "d": "2026-07-23T09:38:00+00:00"
     }
   ],
   "asof": {},
