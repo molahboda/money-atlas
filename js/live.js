@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T10:00:58+00:00",
-  "quotesAt": "2026-07-23T10:00:58+00:00",
-  "newsAt": "2026-07-23T10:00:58+00:00",
+  "fetchedAt": "2026-07-23T10:15:52+00:00",
+  "quotesAt": "2026-07-23T10:15:52+00:00",
+  "newsAt": "2026-07-23T10:15:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 17.61,
-    "krw": 1468.68,
-    "gold": 4095.2,
-    "wti": 89.96,
-    "dxy": 101.14
+    "vix": 17.68,
+    "krw": 1469.21,
+    "gold": 4093.6,
+    "wti": 89.95,
+    "dxy": 101.15
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.75,
-    "dxy": 0,
-    "gold": -1.25,
-    "wti": 3.6,
-    "vix": 5.83
+    "krw": -0.71,
+    "dxy": 0.01,
+    "gold": -1.29,
+    "wti": 3.59,
+    "vix": 6.25
   },
   "news": [
     {
-      "t": "트럼프, 복제약 관세 매겨 美 현지생산 압박…\"2028년부터 100% 부과\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVbV81QUhTbXZ0b2dDZ2pERWd6OFFVb05TM1JXeFI5TkpIN1dEcUx5WENtOUxaaXpZazYwVzd0VVJYTkZFX0F1R0t6TlJIeTg?oc=5",
+      "t": "중동악재 넘은 반도체 호황… 2분기 GDP 0.6% 깜짝 성장",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85Uk1SSl9WblIwMm1FQWp5OUZDQldfRWhndmdMRmNma1UxVFJ2NVo3MlUxVWdnMk82S3BZYlA4QnFyUll0UXJoSE96OUFkUFE?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-22T08:54:20+00:00"
+      "d": "2026-07-23T09:59:14+00:00"
     },
     {
-      "t": "“TK, ‘설계부터 생산까지’ 반도체 생태계 구축 최적의 지역”…국내 최고 반도체 전문가들의 한결같은 평가",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtTW9vRkhhaEM2SWdKV2VzVzVHZVdhc0RzREhnTkNiZUFyVU9zbnRNTXB4aVkzdmJrOVA4NDBOS3lRSlRfUDRxaWZjaWlqaG8?oc=5",
+      "t": "[채권-마감] '백투백을 어떻게 봐야 할까'…국고채 금리 보합권 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNkVNQ3h1ZzhGNDF3dEZUcTRMRURFTHdwT3MtSnFLQkM2d1BFOXlfelV3WF92c25YN1AxQUZ5UzhSUW5XaXNSaVgxcU9KT3NYbXV3MUhfQXMxRGoxWk9jZkdxZWdNT2E2QVV2V190ZmI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-23T09:53:26+00:00"
+    },
+    {
+      "t": "中美, 무역위원회 구성 협의…300억달러 상품 관세 인하 추진",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WckQxWDhBT01VVG5GRkZNMS1jZThQaVJiYi1Ja19sRl83STNNODJYQjZER0VNTVQzNnBNLV9jS0FiMk96QUN4XzJoV1BlRXNhWFE5emJabGpZemdRekFseXpSbnZnWkU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-23T09:52:00+00:00"
+    },
+    {
+      "t": "IRS 금리 전 구간 소폭 상승…GDP 소화하며 단기물 위주 강보합",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNy1xdGZuam9ObTFuYlNkZHhOSHNhTkpfTWt0QWxnU3lNb3BpSWV2bFZzdDZLMUlvLTVtLXlFT284RklzMlVELUQyUUIwV1dlM0wyZGFLRWoxY1BacGRaVnYxZWZCVGZwNXhQQVBTNW_SAXRBVV95cUxNWUFXZUhidHpkS3hXSVJITmJsUmNZNFg1R0R3UWM5RUMzVTk1MGNycE1lVXlOYlZyS2FlN19vcmxsY3QzTXRBQ2c4SDdmNmc0QkRpa2NlLTk2QzI5WTV5LU8ySVVaUnJmNm1RSjBFanh2MjM4bw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-23T09:50:32+00:00"
+    },
+    {
+      "t": "‘반도체 호재’전남광주 아파트 상승세···광주도 전환",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRHZZUVlfeS1XaG1HMHJuWnRoUXdjVEJHN1RlN2w5Vi1qMUY2Y1hXX0EwVE0xa2ZsWC1qSHlENk02NFBBNzhsOVBIeTc?oc=5",
+      "s": "무등일보",
+      "d": "2026-07-23T09:38:00+00:00"
+    },
+    {
+      "t": "[중국증시-마감] 알파벳 실적發 亞 강세 동참해 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVERWMFExY3Y2RzlPU2h5ZS02QnRIRU9TOEJsSVoxRnhoa2xHWkpIVUJ4QUZXZTNoeHppenBNNXprTUNXcjJWdVM5M3ptYWszd3U1MzlRU3ZkNzVELVdZV3NUdlZWVVA2czY3S0plXzI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-23T09:35:59+00:00"
+    },
+    {
+      "t": "[시사플랫폼] “일본 구마모토 반도체 공장 속도전 성공…정부·지자체·주민 합작”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11dlMtd0h2SldYdU1vZWZ0MmNjZTE5dDlVSGpVTGtEQUJEMzJXSkZPY0N1WmNLS3hOQThoN0tNLWJNbEl0cmpMM1VqU3lQc2c?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-22T08:40:46+00:00"
+      "d": "2026-07-23T09:31:36+00:00"
     },
     {
-      "t": "카드 많이 쓰면 대출금리 할인 확대…체크카드·할부 이용도 실적 인정",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ILV9LMXBFWlVoQy1ubzJxMU1RTndpX3BsUTVKOHZ1R0lyZHFIR2Nkekhwd0hKSHp1UmVpOEdEVGU5b3BCWUJYLWZOTHpsT00?oc=5",
+      "t": "반도체 호황이 만든 2분기 0.6% ‘깜짝 성장’… 年 3%대 가시화",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Sd1dIWFY3LUJlTlFSN0xqRWs2MmZVMEtJSzVWZ3FGUHlvSi14QWtOUE1nOEZ1RUlMUEVEczc0WjNKSW40TTVteTVNM21GU2s?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-22T08:32:52+00:00"
+      "d": "2026-07-23T09:30:51+00:00"
     },
     {
-      "t": "엔화 환율 달러당 163엔 대…40년 만에 최저 가치",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNTdGQnlIY0ducmU3eHRDOHNGbVdUSXVkMXBheFJ0ZFRwazFZVWhnVUVyX3plUnU3ZlhGaVExb0tSWEw0bzlROEQzbTZ4TmFkaVJxUHhfMnRYU1U?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-22T08:32:00+00:00"
+      "t": "“달러 살까 말까 고민했다면”...환율 두 달 만에 가장 낮았다",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iaHB6YXVaZk9kWWJVNjVETEl6ZWxZVHJZa0tNMG03NVVpQ3otRDZtWmFHeFpxSS04WUY5elJ0UUJFRzZQUFhib3djNEpwUkVyZEV1SmxBWmVfRHBOdVlrSWlQZw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-07-23T09:29:22+00:00"
     },
     {
-      "t": "엔/달러 환율 163엔대…엔화 가치 39년 7개월 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKTFNzOEVvVUdyTXdJWklNanRrd3p3Ujd6akdlV0VrTzk1TFYxc0JUVGNWVGZicUpUNHZmZGsyZHRfWVhYbkxsSGhUZm1IMGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T08:30:55+00:00"
-    },
-    {
-      "t": "[채권마감] 10년금리도 4.4% 육박 3년9개월만 최고 '중동 우려+외인 선물매도'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WeFJ1YWNzVjhKMnpCaTRnX0EwQXg3RExLM1VSak5IckNRM01uLU9rNXdTMzVfc1RMSUpGWm1jeHRJQVNLWnd3VFFWakhyR2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T08:29:07+00:00"
-    },
-    {
-      "t": "반도체클러스터 지정 '평가기준 공개' 추진…고동진 의원, 특별법 개정안 발의",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pX1lwYXk3NmFuQUJsMjVrUm9oc0Z6NXV0TVkwYXBVRk1pSlc2NndreXVmTWIzdmdOMUhtZE1ZaHJPSEl4UThhMjA0VE1TUEh4LTRVMnpVZTd1LXZBb2VmNFk3ekJfV25YQXViSmdJMWRRQQ?oc=5",
-      "s": "에너지데일리",
-      "d": "2026-07-22T08:28:33+00:00"
-    },
-    {
-      "t": "[속보] 靑 “미, 수퍼 301조 등으로 추가 관세 부과 가능성”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVkl1OWZ0M3d4LVc0b2JIbkRxN09YLXBjbDhDNEJaUkJLMUxDanBJQ1kxcXZlQzZSU3pjb050Q2lDQXBWdVJjZ2dfelRlcE5yT2FlNWpB?oc=5",
+      "t": "알파벳이 더 썼다…코스피가 웃었다 [7/23 G프터눈]│Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4U09BZ0E0ajc5bEQ0OEYtQXRQejVITVlsQzVCcTJVUUJraVRFT2hveVdQLXFEbXpkNjR3bzhJTjhrdUlJNXlCOVdGRUVmRENybmNJeEdyYmpZSTA?oc=5",
       "s": "중앙일보",
-      "d": "2026-07-22T08:27:07+00:00"
-    },
-    {
-      "t": "외국인 2조6000억원 '사자'에도 롤러코스터 탄 코스피…장중 7100선·마감 6700선",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzUTFVV1FLWkJvMXpVOWVlWG53Ry1YX1BDTnpEZ3BpZ2ZCRUZ0d1VUQlM3LUk2SmJmWnhGUUpmcnBLUWZiNnpZV0JhRFhPRjNlQ0pHOEdQdWNISHFyOUtPclBGV3U1NnhhdHU5NTc4SFZWZw?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-07-22T08:25:24+00:00"
-    },
-    {
-      "t": "국고채 금리 일제히 상승…10년물 4년만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndDRlclpBSUFQZ01DdVowTjBTbG9ieTUwYUVabFdlS0lPMmwxbTNVOE5nNGQwQzZ1SjNtWW04dU5xeDY0ZnJKMUxHbUxpQmM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-22T08:24:50+00:00"
+      "d": "2026-07-23T09:25:22+00:00"
     }
   ],
   "asof": {},
