@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-23T12:16:01+00:00",
-  "quotesAt": "2026-07-23T12:16:01+00:00",
-  "newsAt": "2026-07-23T12:16:01+00:00",
+  "fetchedAt": "2026-07-23T12:30:52+00:00",
+  "quotesAt": "2026-07-23T12:30:52+00:00",
+  "newsAt": "2026-07-23T12:30:52+00:00",
   "quotes": {
     "kospi": 7096.89,
     "spx": 7498.96,
     "nikkei": 66422.6,
-    "vix": 18.18,
-    "krw": 1472.18,
-    "gold": 4088,
-    "wti": 90.63,
-    "dxy": 101.3
+    "vix": 18.2,
+    "krw": 1473.42,
+    "gold": 4076.7,
+    "wti": 90.82,
+    "dxy": 101.34
   },
   "daily": {
     "spx": 0.75,
     "kospi": 5.17,
     "nikkei": 0.46,
-    "krw": -0.51,
-    "dxy": 0.16,
-    "gold": -1.42,
-    "wti": 4.38,
-    "vix": 9.25
+    "krw": -0.43,
+    "dxy": 0.2,
+    "gold": -1.69,
+    "wti": 4.6,
+    "vix": 9.38
   },
   "news": [
+    {
+      "t": "뉴욕증시 프리뷰, AI 투자 부담에 유가 급등 속 미 주가지수 선물 '일제 하락'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMXc3UVQ4al9hM0d0enVQN1ZET3VCemdEalF5akV0dTZDUS16MVlsTHQtbFc0dWtYVFlrcDFPU01iWFZQUEUwN3NLeG96U3lpWW93cXJFUTBZMXdR?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-23T12:25:00+00:00"
+    },
+    {
+      "t": "[1보] ECB 금리 동결…예금금리 2.25％",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02aTFJNnoyZUYxZU9ndU4yMzV3dDhoaUstRW9reFMtZi1rMkMxb29RRDl5V0Y5dk1vUEx3a01DZEoxdDZzcjFaVERKc1FvOUZSNTZEa2F5NWVHWWfSAWBBVV95cUxQaVNhalE1a19lQmdvZWxHSFVWLW0zV2kzTDh6VlNSbHhEY2M5UGhjbXZ5QkJ5YXJ2bW1KSFJnb0dicFJVYzg4aHljODFqa0xBN2liMEFvZ2xqU1JxcWdvVUc?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-23T12:18:43+00:00"
+    },
+    {
+      "t": "달러-원, 뉴욕장서 1,470원 초반대 거래",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jeXpzR3Y3SFk5dDdIbkhvQkVvNHNZTFF4TU0wWkJZMjBzdnlkaW1zRDV4UV8xRDBlX3lmLUpDWWpzbjE3OHZOeGpQb2FzMC1wT0hQVzZZaDdJUkl6Wms3RW5PbVJZYlc5Tzl1OGJCWi1aUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-23T12:18:40+00:00"
+    },
+    {
+      "t": "ETF 수익률 높지만…반도체·레버리지 ‘몰빵’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QTnJodFRkN2JFLXZmOVNqRGw5SzJJYS1uSHNfRGE2U09SZlpqbHVpWHdwTDZGd1owMVBvamUxcnFkU1B2MnIwX2NERzc1Y00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-23T12:03:02+00:00"
+    },
+    {
+      "t": "알파벳 훈풍에 반도체 강세…코스피 7,000선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUFJDblRpeF96WU9EUlI2eFFkc2J2S21WVUhPaS01dkNBTG1nZ09MeEVDOWFqV0dDZVBsd2JNVGdyX2psUXAxZ21YY0FuUlo0RDAtbkxJQjZRREhWUnRvTm5ScTlmVHM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-23T11:53:00+00:00"
+    },
     {
       "t": "원·엔 환율, 1년8개월 만에 ‘800원대’",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVW00Q3Btd2M5UlNhb242YVR1YmFCTzNncXRrTUJVdjNUWi1kSFNkZjNIc0NHbFlsTDF2dXVieDRkbmtMaTNRdU1DalEyaFMwZ1BxZFVrOTdHUdIBX0FVX3lxTE9Ec1psSWd2dURrSVdPNHNkOTlSNGNUYXRuSHlXY0M2aW9SZjJfajgtZGJwUWdiSW1PaWtsWVotOUh1Z3B3MGduX29pUV9SUHlXVlM1bkJPR2NJdUl1aUFJ?oc=5",
       "s": "경향신문",
       "d": "2026-07-23T11:44:00+00:00"
+    },
+    {
+      "t": "2분기도 '깜짝' 성장 희소식…코스피 '7천' 회복",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IbWFmQWNiRXJVbHFMTUhLdzBEbTd2Wi1vUFR0T2xXT3B4OEpmeVpJd0RuOUQ2RDZvMUprbVVWeUtSTDVyRjBrYS1lN3FhNTQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-23T11:33:25+00:00"
     },
     {
       "t": "서남권 반도체 성패 가를 ‘광물’…“자원외교 절실”",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Nb29FRmhlTktTRm51SGwyakxtZXpBY1BPVU9wSHQ1V1BmQlhySldyNTJBenlCWjdMd3YxVUZ1NHNoeXJXVE4xTmFYSm44aGdjUkZ6N1c1RklRZkFENEE?oc=5",
       "s": "YTN",
       "d": "2026-07-23T11:15:00+00:00"
-    },
-    {
-      "t": "튀르키예 중앙은행, 기준금리 37%로 동결",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0waTNVV1dRal95bUo2ZU1sS0Nja3lzdnlWc3R3SmYwTnZHSU1uWXhMZ2dSRHA5QnhlSlk5RWVPNEtKcXZtTGpYNWNDT2huc2x0QURfYWRkTjBKZ0k3NnAxeWVVenBaR25LZ0JBUkh5dEg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-23T11:05:00+00:00"
-    },
-    {
-      "t": "\"국민연금은 증시 부양·주가 방어용 아냐\"…김성주 작심발언",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PV2l6SjZoNE42a0hfZ09ZNmdfMkZXakdlSVoySl9vcnlaQlFqWTR3NjlvakdXZkdmWnpiRGlIVlY4MUZscHhjbS1rZjZuVDRnQ1VuRmZmc3VCdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-23T11:00:04+00:00"
-    },
-    {
-      "t": "2분기 GDP도 깜짝 성장…기준금리 추가 인상 힘받나",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEaTNVYWlyM2VZbmszT0NsTDN0YUJaZ2pOeHZNd05UYm9mU1pxRTVNSC1NS2p6SnRCT25HMmUxTk9lRkNJXzJJOHRCQUEtM1R3RS1CbjVkUEZoSWFTWnBhdFY1RlZkTUxNU2hEaEE2ME0yQQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-23T10:54:00+00:00"
-    },
-    {
-      "t": "반도체 첫 1조 달러는 50년 걸렸지만, 추가 1조 달러는 5년?",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Z2hmLUtzZUM3V1JvVnotVUl1QzZiZlJiUXRURVg5Wk53ZWVzTUxYbHNyeXduX3dObzlPZl91SkZJS2tKbGF1UnBuQ2RmNTZiSHdrTlVBVFlmTjJrVHpUZUp2M1dWSF9oREVYT1lB?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-07-23T10:38:28+00:00"
-    },
-    {
-      "t": "여행 가방서 나온 10억…국세도 관세도 체납한 16명 수색",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BeW0zVU9VWWRDRWlFdGstT3lzd0tleGZFRlA4VER1Q2k2VDgwOUxha3FLV0U2eXR2b2VYYWVxZWVtdUtOUGNYV19FTW5Gd0E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-23T10:32:10+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 알파벳 투자 확대 호조에 일제히 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QU2FTLVdTX1NqVk9fM0NCMVdCQ0daUHBLUEZPUGlfa3pJOWNIdUFQVDVtLW1YRGpCQWdlNmJGUWQ5S0dGQmJUMWFIYXc3MERVcl93ZXczZGRVYW5NVzJ5NndJR0FFVlJIZ0RielhjLWE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-23T10:29:21+00:00"
     }
   ],
   "asof": {},
