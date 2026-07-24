@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-24T14:45:52+00:00",
-  "quotesAt": "2026-07-24T14:45:52+00:00",
-  "newsAt": "2026-07-24T14:45:52+00:00",
+  "fetchedAt": "2026-07-24T15:00:53+00:00",
+  "quotesAt": "2026-07-24T15:00:53+00:00",
+  "newsAt": "2026-07-24T15:00:53+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.02,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": -0.32
   },
   "news": [
-    {
-      "t": "들썩이는 국제유가에 석유 최고가격 ‘동결’…유류세 인하 연장",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ldi1TYzRkMFF0dmpORVhkcFY2UUdKRnZDZTdOSWhBNERObGhLMGxBQWJuWXZXZWsxY1JMcUhJYkRsNTBtMVBSOHd0OGZpR2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-24T14:34:00+00:00"
-    },
     {
       "t": "유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1odUM3a19fOWZSTXp6N0RQaF9mejdrc0lfYXBRekNteUljVWJ4VTQyZkhwdzA5Tzg5ZXlyb1RXX25DdXNIRFpiZF94MWI2Q0ZoSUVnZnZGM1lvaXNOV0E?oc=5",
@@ -55,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-07-24T14:15:29+00:00"
     },
     {
+      "t": "미국, ‘강제노동 관세’ 60개국에 부과…한국도 12.5% 적용",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UaXRoVEtzV1I2eElncURJT1JwenFtTWdXOThzc0g5dDBnbVllNWI1dE10MFViRXZzZV8zVVB4TTAtN2tXSWZzWTVCWC12Wnp20gFTQVVfeXFMUHktdldmdVVaYnlDczEtTzg4OWJobXlfY3ZYUFRXbGd4LTR6bkRlQWtCZXZCQ3RxTkdsSk5PSkxmS1lONzVrWlZ2MGJzREFhaUdPbkE?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-07-24T14:07:50+00:00"
+    },
+    {
       "t": "러 중앙은행, 기준금리 14%로 인하…경기 둔화 조짐 반영(종합)",
       "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feWNXZUJvd1ZwNHhyQnhkcXZqQTdLNG5wbUZ1MXkxOGd5WmtmUUNsLVJJb1dCUFItMGZHTVZrWjBrM2lkc2VxSGY1THE1ZjY1dlpn?oc=5",
       "s": "뉴스1",
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-07-24T13:48:35+00:00"
     },
     {
+      "t": "[속보] 유가 상승세 주춤…뉴욕증시 보합권 출발",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jQ1doQ3U5VVdabnF3ZEdkNkNGS0QtTFMzUTIxVVVPbkprZzFURmJ1Y2xmSW5WYldxRVVNSHI0c0tfeFE1NUNHNGJub3BsT2VibmxKU180WDZLVkVLYzV6TTZYby0?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-07-24T13:46:43+00:00"
+    },
+    {
       "t": "유가 100달러·관세 부활·AI 투자 폭증…중앙은행 덮친 ‘물가 3중고’│Global Money Club",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiOGt1VlVkb05ZRENfV3pUZDJyc2gtOExPa0NZT3o3WjYzb3k0c1k3OENYS2Q4ejg2S0FhanAzS0pNaC1lanh5RVBxUVg4Nmp2T1RVLVBNblFISG8?oc=5",
       "s": "중앙일보",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRy1aR0NfaXN0eEhVYzBpeWcyQmsyalpuZXd5amZNeFZvNjZDX0gwZHk2ay1IejQ3QWdhdDhYeDc5U2tlRWlTUGExZnlaS0tMaHVPcFVGLTBlRkVWYnItY2NKZmEzeG1hRVdwbG80MkR6cUlTUmFYekFfOUR1eGlqc2NCeUhGaHJhZVlESlBNRGNWdXEwSUFGV0NYeU9Ld9IBsgFBVV95cUxQVVo5aXBpNGNhdUl1d01lbEFsV25VX2w1R3NqblpINzZjOWVoTjQxV2FwN0FGRUF4YkJLZjdWaG5Pb3NOT2dPcUdWSFZjWjFaYnNzT3Z3U3VXaFJhYy1Zd2NBZ2ppTF9ocFJlUDZQUnNwOU9wT3RCa3UxMEpOemh2NkdoMUozV0t0TWNCbF9WU1N3cTNWQk9seERhbHNwV2RhbGMycmJZMzdlU0NldVBtRkF3?oc=5",
       "s": "Chosunbiz",
       "d": "2026-07-24T13:42:00+00:00"
-    },
-    {
-      "t": "ECB 정책위원 \"금리, 오를 가능성이 더 커…인플레 위험 상방\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43c3BFWkVWWXJ6TC1vUGVmbjFoWHo3ejVtaGNhM3F2T2VtaGhUY3J2R3lxSGZuT3RIM1B5NUl6NXNWdGIxajJGUXI1ZVgwakloY3ZkbzNKSVMxSUZ3UUVNWnhMZ0pzcWFVc3FuR2pETmc?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-24T13:28:26+00:00"
     }
   ],
   "asof": {},
