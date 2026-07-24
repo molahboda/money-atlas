@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-24T15:30:52+00:00",
-  "quotesAt": "2026-07-24T15:30:52+00:00",
-  "newsAt": "2026-07-24T15:30:52+00:00",
+  "fetchedAt": "2026-07-24T15:45:52+00:00",
+  "quotesAt": "2026-07-24T15:45:52+00:00",
+  "newsAt": "2026-07-24T15:45:52+00:00",
   "quotes": {
     "kospi": 6690.62,
-    "spx": 7448.55,
+    "spx": 7448.62,
     "nikkei": 64611.15,
-    "vix": 17.52,
-    "krw": 1460.17,
-    "gold": 4085,
-    "wti": 88.28,
-    "dxy": 101.33
+    "vix": 17.61,
+    "krw": 1461.08,
+    "gold": 4077.2,
+    "wti": 88.4,
+    "dxy": 101.35
   },
   "daily": {
     "spx": -0.67,
     "kospi": -1.58,
     "nikkei": -2.73,
-    "krw": -1.05,
-    "dxy": -0.1,
-    "gold": 0.95,
-    "wti": -4.24,
-    "vix": -6.31
+    "krw": -0.99,
+    "dxy": -0.08,
+    "gold": 0.76,
+    "wti": -4.11,
+    "vix": -5.83
   },
   "news": [
     {
-      "t": "들썩이는 국제유가에 석유 최고가격 ‘동결’…유류세 인하 연장",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ldi1TYzRkMFF0dmpORVhkcFY2UUdKRnZDZTdOSWhBNERObGhLMGxBQWJuWXZXZWsxY1JMcUhJYkRsNTBtMVBSOHd0OGZpR2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-24T14:34:00+00:00"
+      "t": "한-미 관세당국, 마약 등 신종 무역범죄까지 공조 확대",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTTVBYkRILU9JUTdNeV81UVRqakE0X1JfT1c5XzFvWEprLTBDQlM5R0p3VGNRWEIzcV95Y19uMU1wYUlWQ1o5YjdfRWxPYVF1TlhPWW1MMWgyaXdU?oc=5",
+      "s": "한국방송뉴스",
+      "d": "2026-07-24T15:40:44+00:00"
+    },
+    {
+      "t": "美, 中 문샷AI ‘정조준’…미·중 AI 패권 경쟁, 반도체 제재전으로",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUWlmUDhJMGNFLTlyWkpXbUVDNnhVOUNBbkFUVjM1cFBoNndNM0lic1g0bDFvQmFOR2E1cmxHQkl5RXc5MjlDa0NLOGVrNWZtZlVFUDhqWmNaT05uVHhnOF9fb1liZUtmQktiSw?oc=5",
+      "s": "재외동포신문",
+      "d": "2026-07-24T15:36:28+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (19) 미스트랄…이재용 삼성전자 무서운 투자",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlliWFZ1WEV2RTJ1NWpPVUJKakMxNkxzQ0NkTjFBSlZ6Qno3UTRZVk02cTJybk85MWhlMFlkaG9HWHN0dWstMXBwd3Nzc29vWHh0b0wwd3hFUDRsTmYtTmZ4WGJzUW9nT29FNVhuSkJHWU5ScG1tQXlIWWtJT09qMk1xV0Q?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-24T15:00:00+00:00"
     },
     {
       "t": "[사설]美 강제노동 관세 12.5% 부과… ‘15% 상한’ 반드시 지켜내야",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UaXRoVEtzV1I2eElncURJT1JwenFtTWdXOThzc0g5dDBnbVllNWI1dE10MFViRXZzZV8zVVB4TTAtN2tXSWZzWTVCWC12Wnp20gFTQVVfeXFMUHktdldmdVVaYnlDczEtTzg4OWJobXlfY3ZYUFRXbGd4LTR6bkRlQWtCZXZCQ3RxTkdsSk5PSkxmS1lONzVrWlZ2MGJzREFhaUdPbkE?oc=5",
       "s": "VOA 한국어 홈페이지",
       "d": "2026-07-24T14:07:50+00:00"
-    },
-    {
-      "t": "러 중앙은행, 기준금리 14%로 인하…경기 둔화 조짐 반영(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feWNXZUJvd1ZwNHhyQnhkcXZqQTdLNG5wbUZ1MXkxOGd5WmtmUUNsLVJJb1dCUFItMGZHTVZrWjBrM2lkc2VxSGY1THE1ZjY1dlpn?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-24T13:58:33+00:00"
-    },
-    {
-      "t": "뉴욕증시, 인텔 실적·중동 갈등 소화하며 혼조 출발",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zN2gzd1pIc2I2OHUtRGJYRVhSRmo4WC04MmRNLXJhSEtsbU41Rm5qTU8zbV9VUnhZRjNUWTBYWnExajFVUVFSTkpDTzR1cjNkc2tiem5NOE92V0pWMVNPRW4zYUlHRDJ5N0VURUZOWDQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-24T13:48:35+00:00"
     }
   ],
   "asof": {},
