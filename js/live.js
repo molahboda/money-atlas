@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-24T15:15:52+00:00",
-  "quotesAt": "2026-07-24T15:15:52+00:00",
-  "newsAt": "2026-07-24T15:15:52+00:00",
+  "fetchedAt": "2026-07-24T15:30:52+00:00",
+  "quotesAt": "2026-07-24T15:30:52+00:00",
+  "newsAt": "2026-07-24T15:30:52+00:00",
   "quotes": {
     "kospi": 6690.62,
-    "spx": 7411.02,
+    "spx": 7448.55,
     "nikkei": 64611.15,
-    "vix": 18.64,
-    "krw": 1461.6,
-    "gold": 4063,
-    "wti": 89.77,
-    "dxy": 101.45
+    "vix": 17.52,
+    "krw": 1460.17,
+    "gold": 4085,
+    "wti": 88.28,
+    "dxy": 101.33
   },
   "daily": {
-    "spx": -1.17,
+    "spx": -0.67,
     "kospi": -1.58,
     "nikkei": -2.73,
-    "krw": -0.95,
-    "dxy": 0.02,
-    "gold": 0.41,
-    "wti": -2.63,
-    "vix": -0.32
+    "krw": -1.05,
+    "dxy": -0.1,
+    "gold": 0.95,
+    "wti": -4.24,
+    "vix": -6.31
   },
   "news": [
+    {
+      "t": "들썩이는 국제유가에 석유 최고가격 ‘동결’…유류세 인하 연장",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ldi1TYzRkMFF0dmpORVhkcFY2UUdKRnZDZTdOSWhBNERObGhLMGxBQWJuWXZXZWsxY1JMcUhJYkRsNTBtMVBSOHd0OGZpR2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-24T14:34:00+00:00"
+    },
+    {
+      "t": "[사설]美 강제노동 관세 12.5% 부과… ‘15% 상한’ 반드시 지켜내야",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WMkdoLTE4ak0xNzBzbk9FTDZQSUU2aXBPLUV5SFA4VFpCTGZoR0Y3bUhUMHk1RnBZTFRqQkhGTVJmYmRrUnZIX2hEaEt5RkU5WC03YlV0YTJpdTNuQldZdHBlRHhrZG5ZMzJ0OEtoT2VtRTFEbHc?oc=5",
+      "s": "동아일보",
+      "d": "2026-07-24T14:30:00+00:00"
+    },
     {
       "t": "유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1odUM3a19fOWZSTXp6N0RQaF9mejdrc0lfYXBRekNteUljVWJ4VTQyZkhwdzA5Tzg5ZXlyb1RXX25DdXNIRFpiZF94MWI2Q0ZoSUVnZnZGM1lvaXNOV0E?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zN2gzd1pIc2I2OHUtRGJYRVhSRmo4WC04MmRNLXJhSEtsbU41Rm5qTU8zbV9VUnhZRjNUWTBYWnExajFVUVFSTkpDTzR1cjNkc2tiem5NOE92V0pWMVNPRW4zYUlHRDJ5N0VURUZOWDQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-24T13:48:35+00:00"
-    },
-    {
-      "t": "[속보] 유가 상승세 주춤…뉴욕증시 보합권 출발",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jQ1doQ3U5VVdabnF3ZEdkNkNGS0QtTFMzUTIxVVVPbkprZzFURmJ1Y2xmSW5WYldxRVVNSHI0c0tfeFE1NUNHNGJub3BsT2VibmxKU180WDZLVkVLYzV6TTZYby0?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-07-24T13:46:43+00:00"
-    },
-    {
-      "t": "유가 100달러·관세 부활·AI 투자 폭증…중앙은행 덮친 ‘물가 3중고’│Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiOGt1VlVkb05ZRENfV3pUZDJyc2gtOExPa0NZT3o3WjYzb3k0c1k3OENYS2Q4ejg2S0FhanAzS0pNaC1lanh5RVBxUVg4Nmp2T1RVLVBNblFISG8?oc=5",
-      "s": "중앙일보",
-      "d": "2026-07-24T13:42:19+00:00"
     }
   ],
   "asof": {},
