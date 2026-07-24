@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-24T15:00:53+00:00",
-  "quotesAt": "2026-07-24T15:00:53+00:00",
-  "newsAt": "2026-07-24T15:00:53+00:00",
+  "fetchedAt": "2026-07-24T15:15:52+00:00",
+  "quotesAt": "2026-07-24T15:15:52+00:00",
+  "newsAt": "2026-07-24T15:15:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.02,
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1odUM3a19fOWZSTXp6N0RQaF9mejdrc0lfYXBRekNteUljVWJ4VTQyZkhwdzA5Tzg5ZXlyb1RXX25DdXNIRFpiZF94MWI2Q0ZoSUVnZnZGM1lvaXNOV0E?oc=5",
       "s": "YTN",
       "d": "2026-07-24T14:20:00+00:00"
+    },
+    {
+      "t": "미국 신규 주택 판매, 높은 모기지 금리에도 6월 1.6% 증가",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ROExpV0tKU0JKSDJobkdObVp0TzByLW1sU1FkeFZqLV91VTd0WFBTY0toRWF1emF4QWZaZ251amVzbXlKNTBPY3EtVVg3Tl84QXAxTnoyeVYyU2lsTUt4dERONkZaSVY5cXBNQWJrZWg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-24T14:19:00+00:00"
     },
     {
       "t": "미 과잉생산 관세가 관건...\"합산 15% 상한 지켜야\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiOGt1VlVkb05ZRENfV3pUZDJyc2gtOExPa0NZT3o3WjYzb3k0c1k3OENYS2Q4ejg2S0FhanAzS0pNaC1lanh5RVBxUVg4Nmp2T1RVLVBNblFISG8?oc=5",
       "s": "중앙일보",
       "d": "2026-07-24T13:42:19+00:00"
-    },
-    {
-      "t": "중동 불안 속 美 뉴욕증시 ‘눈치보기’ 장세 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRy1aR0NfaXN0eEhVYzBpeWcyQmsyalpuZXd5amZNeFZvNjZDX0gwZHk2ay1IejQ3QWdhdDhYeDc5U2tlRWlTUGExZnlaS0tMaHVPcFVGLTBlRkVWYnItY2NKZmEzeG1hRVdwbG80MkR6cUlTUmFYekFfOUR1eGlqc2NCeUhGaHJhZVlESlBNRGNWdXEwSUFGV0NYeU9Ld9IBsgFBVV95cUxQVVo5aXBpNGNhdUl1d01lbEFsV25VX2w1R3NqblpINzZjOWVoTjQxV2FwN0FGRUF4YkJLZjdWaG5Pb3NOT2dPcUdWSFZjWjFaYnNzT3Z3U3VXaFJhYy1Zd2NBZ2ppTF9ocFJlUDZQUnNwOU9wT3RCa3UxMEpOemh2NkdoMUozV0t0TWNCbF9WU1N3cTNWQk9seERhbHNwV2RhbGMycmJZMzdlU0NldVBtRkF3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-24T13:42:00+00:00"
     }
   ],
   "asof": {},
