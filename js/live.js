@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-24T15:45:52+00:00",
-  "quotesAt": "2026-07-24T15:45:52+00:00",
-  "newsAt": "2026-07-24T15:45:52+00:00",
+  "fetchedAt": "2026-07-24T16:00:53+00:00",
+  "quotesAt": "2026-07-24T16:00:53+00:00",
+  "newsAt": "2026-07-24T16:00:53+00:00",
   "quotes": {
     "kospi": 6690.62,
-    "spx": 7448.62,
+    "spx": 7452.14,
     "nikkei": 64611.15,
-    "vix": 17.61,
-    "krw": 1461.08,
-    "gold": 4077.2,
-    "wti": 88.4,
-    "dxy": 101.35
+    "vix": 17.54,
+    "krw": 1461.05,
+    "gold": 4077,
+    "wti": 88.59,
+    "dxy": 101.34
   },
   "daily": {
-    "spx": -0.67,
+    "spx": -0.62,
     "kospi": -1.58,
     "nikkei": -2.73,
     "krw": -0.99,
-    "dxy": -0.08,
-    "gold": 0.76,
-    "wti": -4.11,
-    "vix": -5.83
+    "dxy": -0.09,
+    "gold": 0.75,
+    "wti": -3.9,
+    "vix": -6.2
   },
   "news": [
     {
+      "t": "10일 내내 사이드카… 도박판 뺨친 코스피",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnpJc200OVNtUF8yTFFORm5zSDBSa0Y3dU1JdFdac09jMzViQTRHa2FYdEowSXNFcHpLZFVfLTViWFNpcnBhWmpWYVZvSXdEV3lJVEhtV2pRcXdpZTROY3BOMFNxZXlWQ29hazlrOTNOTXZJUmE5V2JVWGJOVzBLanNxS2NvajdSbk9IVDlB?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-24T15:55:00+00:00"
+    },
+    {
+      "t": "중동 긴장에 유가 100달러 재돌파… 아시아 증시 휘청",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalFOeHpqaEJ4eGhhTzVzY2lqT3MtSUI0V2xNbkJoLTFJZmNpbl9uWFZXaTBzLXB5cUllM2NodzdiWEdwTGVhcF9NMWRoQjd0UWVjS0NnUWFNTG1aMUtpZUdEZWJKZ2ZaVlJKOEN5WTkzLUN6LU1UUWVCQW00ZEVZaQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-24T15:53:00+00:00"
+    },
+    {
       "t": "한-미 관세당국, 마약 등 신종 무역범죄까지 공조 확대",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hTTVBYkRILU9JUTdNeV81UVRqakE0X1JfT1c5XzFvWEprLTBDQlM5R0p3VGNRWEIzcV95Y19uMU1wYUlWQ1o5YjdfRWxPYVF1TlhPWW1MMWgyaXdU?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1abGs5UjdMRnR5Q3pZU2t2d000eWFWWVlzakpMWEV2RjhDUmxGbjJnVVpSb2RrM3ZySmU3OFpPT2hFejZ4MEFuTzIya2JpZUJuWjFYSWJGSnlSVlZxeVE?oc=5",
       "s": "한국방송뉴스",
       "d": "2026-07-24T15:40:44+00:00"
+    },
+    {
+      "t": "美 국채가, 유가 조정에 소폭 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUd1FUVHZUOUp6VWg2MU15VFV6cmp1ajNIMXFuRUdXemhZM3VKamloVmQ2ZVBVcTJDUjZXbTFWNmtUdWpUVzlXREZGQmdyVWswY0VFaER1R2pRR19DMDE0OG1RWXFublJXTmp3b2hDTUs?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-24T15:36:41+00:00"
     },
     {
       "t": "美, 中 문샷AI ‘정조준’…미·중 AI 패권 경쟁, 반도체 제재전으로",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pUUdUeERXdGhmUTFhaFNxNzA5NE1xZUVVcUl0MlAya213ajFOaDZjUTZUWU1RWFdoRkZ3TDJYUTFnNDNnSkVPakFxMnRFaXZHX3ZJNmVpZUlLeTNKblE?oc=5",
       "s": "YTN",
       "d": "2026-07-24T14:18:00+00:00"
-    },
-    {
-      "t": "대법원 막히자 '꼼수 관세'...한국 '15% 사수' 비상",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qTVJNaVVHTnk0NVRueFdPUklvd3hPcTFrVlVGYXVrR1otUmlCVW9PX0ZNZ2dvRTNDV2U2VU9saTNKSXp6YzhPODlIaFhqR2hsa2dfeFJkbEk0Tm9pTnc?oc=5",
-      "s": "YTN",
-      "d": "2026-07-24T14:17:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 혼조 출발… 인텔, 호실적 불구 2% 넘게 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hTDFZck9tNV9raHNlRVp6Mm1fcEdXWS1kMTFjTkhkRmpsZW52NjBSV1VmX21lRHVBcUtIX3BHYlljM1NRT0FYaGtlNkJ4ak0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-24T14:15:29+00:00"
-    },
-    {
-      "t": "미국, ‘강제노동 관세’ 60개국에 부과…한국도 12.5% 적용",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UaXRoVEtzV1I2eElncURJT1JwenFtTWdXOThzc0g5dDBnbVllNWI1dE10MFViRXZzZV8zVVB4TTAtN2tXSWZzWTVCWC12Wnp20gFTQVVfeXFMUHktdldmdVVaYnlDczEtTzg4OWJobXlfY3ZYUFRXbGd4LTR6bkRlQWtCZXZCQ3RxTkdsSk5PSkxmS1lONzVrWlZ2MGJzREFhaUdPbkE?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-07-24T14:07:50+00:00"
     }
   ],
   "asof": {},
