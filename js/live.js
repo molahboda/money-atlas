@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-24T16:00:53+00:00",
-  "quotesAt": "2026-07-24T16:00:53+00:00",
-  "newsAt": "2026-07-24T16:00:53+00:00",
+  "fetchedAt": "2026-07-24T16:15:52+00:00",
+  "quotesAt": "2026-07-24T16:15:52+00:00",
+  "newsAt": "2026-07-24T16:15:52+00:00",
   "quotes": {
     "kospi": 6690.62,
-    "spx": 7452.14,
+    "spx": 7454.16,
     "nikkei": 64611.15,
-    "vix": 17.54,
-    "krw": 1461.05,
-    "gold": 4077,
-    "wti": 88.59,
-    "dxy": 101.34
+    "vix": 17.52,
+    "krw": 1460.84,
+    "gold": 4078.2,
+    "wti": 88.44,
+    "dxy": 101.36
   },
   "daily": {
-    "spx": -0.62,
+    "spx": -0.6,
     "kospi": -1.58,
     "nikkei": -2.73,
-    "krw": -0.99,
-    "dxy": -0.09,
-    "gold": 0.75,
-    "wti": -3.9,
-    "vix": -6.2
+    "krw": -1,
+    "dxy": -0.07,
+    "gold": 0.78,
+    "wti": -4.07,
+    "vix": -6.31
   },
   "news": [
+    {
+      "t": "'증시호황' 탄 5대 금융, 순이익 7조 육박",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VEpBUDc5Nk5jV1BRa0NJbTF3UVdzd3ZSWEJqaVpIc3dtSGs3YTdqZ01PY0xZNWJXQzNwOVBuWW92aEdCNXJvM3BaQ01QcWMyNVVuczdHUXRwUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-24T15:57:00+00:00"
+    },
+    {
+      "t": "美, 이번엔 301조 관세… 한국은 일단 12.5%",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkVnbllpTXpzbU5tSFdvQUltZVB6d3hHQXZkZ3h0ZWVqOGo5d1dnZjFzcGcyeXBOUXFyVDJZN193Vng5QlhpT3ZvWW04ZmlEaWVhRFNXTTQwNjhKSDRnMXl1b24yNFN6SU1kMXZlMmJwUjZMaDJ2VGJIeHVqZHc3UkxzeUg?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-24T15:55:00+00:00"
+    },
     {
       "t": "10일 내내 사이드카… 도박판 뺨친 코스피",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnpJc200OVNtUF8yTFFORm5zSDBSa0Y3dU1JdFdac09jMzViQTRHa2FYdEowSXNFcHpLZFVfLTViWFNpcnBhWmpWYVZvSXdEV3lJVEhtV2pRcXdpZTROY3BOMFNxZXlWQ29hazlrOTNOTXZJUmE5V2JVWGJOVzBLanNxS2NvajdSbk9IVDlB?oc=5",
@@ -55,10 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-07-24T15:36:28+00:00"
     },
     {
-      "t": "[김대호 진단] 반도체 열전 (19) 미스트랄…이재용 삼성전자 무서운 투자",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlliWFZ1WEV2RTJ1NWpPVUJKakMxNkxzQ0NkTjFBSlZ6Qno3UTRZVk02cTJybk85MWhlMFlkaG9HWHN0dWstMXBwd3Nzc29vWHh0b0wwd3hFUDRsTmYtTmZ4WGJzUW9nT29FNVhuSkJHWU5ScG1tQXlIWWtJT09qMk1xV0Q?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-24T15:00:00+00:00"
+      "t": "\"롤러코스피 주범 왜 도입했나\"…13조 쓸어담은 개미들 달라졌다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QT0hGc2lwOTBiOEIzOEJQaFRoUDBnUVl1Vl9XNWxvMHRQMDFIUTBVcjV2aFl2YlJTQ3FteDJFblhOZHl2TXI5dVV6VEVKMFk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-24T14:58:00+00:00"
     },
     {
       "t": "[사설]美 강제노동 관세 12.5% 부과… ‘15% 상한’ 반드시 지켜내야",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1odUM3a19fOWZSTXp6N0RQaF9mejdrc0lfYXBRekNteUljVWJ4VTQyZkhwdzA5Tzg5ZXlyb1RXX25DdXNIRFpiZF94MWI2Q0ZoSUVnZnZGM1lvaXNOV0E?oc=5",
       "s": "YTN",
       "d": "2026-07-24T14:20:00+00:00"
-    },
-    {
-      "t": "미국 신규 주택 판매, 높은 모기지 금리에도 6월 1.6% 증가",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ROExpV0tKU0JKSDJobkdObVp0TzByLW1sU1FkeFZqLV91VTd0WFBTY0toRWF1emF4QWZaZ251amVzbXlKNTBPY3EtVVg3Tl84QXAxTnoyeVYyU2lsTUt4dERONkZaSVY5cXBNQWJrZWg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-24T14:19:00+00:00"
-    },
-    {
-      "t": "미 과잉생산 관세가 관건...\"합산 15% 상한 지켜야\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pUUdUeERXdGhmUTFhaFNxNzA5NE1xZUVVcUl0MlAya213ajFOaDZjUTZUWU1RWFdoRkZ3TDJYUTFnNDNnSkVPakFxMnRFaXZHX3ZJNmVpZUlLeTNKblE?oc=5",
-      "s": "YTN",
-      "d": "2026-07-24T14:18:00+00:00"
     }
   ],
   "asof": {},
