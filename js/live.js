@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T20:15:52+00:00",
-  "quotesAt": "2026-07-25T20:15:52+00:00",
-  "newsAt": "2026-07-25T20:15:52+00:00",
+  "fetchedAt": "2026-07-25T20:30:52+00:00",
+  "quotesAt": "2026-07-25T20:30:52+00:00",
+  "newsAt": "2026-07-25T20:30:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -28,7 +28,7 @@ window.LIVE_DATA = {
       "t": "원화 가치 17년 만에 최저…“운 좋게 내린 환율, 대응체계 만들어야”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HV2U4c1Qza2ZsZ0c0Y0hzX1FJeXNUdDJnd09wbldmSFp4UnhJYjFoNWJTbW5YWjdKQ2tkazZtZjhJTXowWnpTcEg3WkltZGc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-25T20:03:07+00:00"
+      "d": "2026-07-25T20:03:00+00:00"
     },
     {
       "t": "기준금리 인상 이후... 은행 예금이자 상단 3% 중반, 저축은행은 4% 중반",
