@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T22:30:15+00:00",
-  "quotesAt": "2026-07-25T22:30:15+00:00",
-  "newsAt": "2026-07-25T22:30:15+00:00",
+  "fetchedAt": "2026-07-25T22:45:15+00:00",
+  "quotesAt": "2026-07-25T22:45:15+00:00",
+  "newsAt": "2026-07-25T22:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "유가 급등에 美 FOMC 금리인상 확률 급등",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hJZU9hSHVmVGFPVkRKR2t0Q0NtYWFBTllpeTcxYTJYT1BoVnYtUjVBTHhVeVF4TGFhMzE4X254ZU0xZmREZDBlN05RRmtKT2VLa1JTX3ZWSmpEZFhqSDUxLW1KVUxUajJDdUhReVd3UjBFdHV4WVNSdHFxTHY2d01XWUpoT1ot?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T22:35:30+00:00"
+    },
     {
       "t": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4VUJCWm9GY1pKUnRJUDRpeDNYSXUxdWs3YjRPQWIxcDlfZV9nZ0h5WVFzVjVuLU9TZ3haSWZRVlRDNTBjOFhkTUJ5T1U4VUVTUHk1aTdoZnlWcFJWZUxvRWdnbHAtV05qemMtUHhVU1jSAXRBVV95cUxOdHpfRlhDQklRNzVPNlF0NWxfVXV0WEZHNVVPTno3RlgzZkJIT3AyNGl0aUtweHFfNkJmNDdnRlFqYnY0V0dvX0gtTW93Zkh6VWpSR2FVNHZKSWxLNl9zV0dkX2dzeDlVdTRjUFFOWWlIaGxiOQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lck9YOHo3eHA0b2t1UVY4d2Nvd3VMb1dKN1djdEpHakktc3NnTGt1Qi1WS3BLaHRMRzZ6VVUwWVF5YjBCaUJwTXAwb0dZRTlBUmZsbEZPNUQzaDZxNTR1N9IBeEFVX3lxTE9Ic05lYnRmMVZPTW5BckpxWmtnYjQtekh6NGo1R01yaDNyUHU2b1BsM2NMelp2S3FfM3BTckJ5LTIxVmxyWFJES2JZdkhTWm5mR3dpMDhweXVVd0FWR1J1UktiY0V0UkdVOXc0bER3QXVKZWVZZWF2Tg?oc=5",
       "s": "뉴시스",
       "d": "2026-07-25T22:00:00+00:00"
-    },
-    {
-      "t": "하루 6.23% 널뛴 코스피… 31일 ‘레버리지 빗장’ 효과 주목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDSTNqVERXT2plTVVQb3VILVdiMkFCSkVJdE1zSDUyNGQ4Uk1QUzE2ckV5LUxBck5sZFk1ZWpBSXNXS0xrYzQ2NE16ejFJNFgzZllGdjFlRmxuUQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-07-25T21:57:00+00:00"
     }
   ],
   "asof": {},
