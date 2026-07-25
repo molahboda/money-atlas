@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T20:30:52+00:00",
-  "quotesAt": "2026-07-25T20:30:52+00:00",
-  "newsAt": "2026-07-25T20:30:52+00:00",
+  "fetchedAt": "2026-07-25T20:45:52+00:00",
+  "quotesAt": "2026-07-25T20:45:52+00:00",
+  "newsAt": "2026-07-25T20:45:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "‘코스피 회복’ 전망 젠슨황, 삼전닉스 띄운 李…메뉴는 ‘버맥’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MMnR1MnNxcGdPbUpuY0ozMUZiaUdSYktQVktwWVZZMG9nSXAwZzNxTTJLQjJNanBZdjE2RGxYZENVbFh3b21mM3JwQ3pMSGQyYlp1WFNR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-25T20:42:16+00:00"
+    },
+    {
+      "t": "美 무역법 301조 겨냥한 강도 높은 관세폭탄… 서학개미 대책 비상",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUFLcGgxZ2RNdndtYWw1VTdhcHdUMDdocWFmRkFFTFpIZVg0VnNfc1pIQkJjbTVlNGJJTW5uYURuRFlRZ29LMktOOUZiamtBdEluSUdicFI1MXVfU0VpTG1LV1gwR2hfenJzRzRiS3VJNzZfQjNLSjhZUll5YXdYTnFFNFIyN1dO?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T20:38:40+00:00"
+    },
     {
       "t": "원화 가치 17년 만에 최저…“운 좋게 내린 환율, 대응체계 만들어야”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HV2U4c1Qza2ZsZ0c0Y0hzX1FJeXNUdDJnd09wbldmSFp4UnhJYjFoNWJTbW5YWjdKQ2tkazZtZjhJTXowWnpTcEg3WkltZGc?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamJGQXJidXlUbjVYdURmaVgtS1RpX2Ntb3pRVjYyMkpuenlrbFdDSkR0NFhZdXctM1BWOGxjekxIRjh5ODZyenMwa3pYYk9kYmd1ME00UUwzWHVRNGpCOEs5Q2JidGRLbXd2YlczZDlYQWoyQVRPSnp2MGI5UFN1bzNISkZYQVZW?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-25T18:05:00+00:00"
-    },
-    {
-      "t": "애플·마이크론 中반도체 로비전에 트럼프 난처…'물가 잡기' vs '반도체 자립'",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUndlRkd0bWZMZ2YyZVplNDlpdTI4MnlTWi1nY2hyQTdQcXNRWExyVnNkcXg3UnRtZTBkcVRlUVh5QjRZb0xUQXRiUGlFU0o2OTNSU2hOSmo?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-25T17:23:06+00:00"
-    },
-    {
-      "t": "[주간 월가 레이더] 美 빅테크·연준, 사흘간 동시출격⋯올해 최고 '슈퍼위크' 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FZTgwQ3U4ejM5Qlo3b3UteXdzcEVzVzRIMjBaNk9zZFBjZDhyTDF6Yy1LRHJaSE1JckRUejlJaHIwak1WV0l0aUx0ZzIxQjhtUUlNR0s4OTE1T252WWc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-07-25T17:05:28+00:00"
     }
   ],
   "asof": {},
