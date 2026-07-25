@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T17:15:57+00:00",
-  "quotesAt": "2026-07-25T17:15:57+00:00",
-  "newsAt": "2026-07-25T17:15:57+00:00",
+  "fetchedAt": "2026-07-25T17:30:52+00:00",
+  "quotesAt": "2026-07-25T17:30:52+00:00",
+  "newsAt": "2026-07-25T17:30:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "'증시호황' 탄 5대 금융, 순이익 7조 육박",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55VEpBUDc5Nk5jV1BRa0NJbTF3UVdzd3ZSWEJqaVpIc3dtSGs3YTdqZ01PY0xZNWJXQzNwOVBuWW92aEdCNXJvM3BaQ01QcWMyNVVuczdHUXRwUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-24T15:57:00+00:00"
+      "t": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVXZUSVBjZjNZUEdjd1ZKRDhKNlVhSTdjXzN0SlFHa3JGT3plNUtETUw3bEJiVjNFV2s1MXdkdGRvcjVyQjlySVJGWmQ4eFA5X2YySV9yekNCWjFqS3dzcUgwQ2Q5OVIyczE0VlRZUXM?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-25T15:46:00+00:00"
     },
     {
-      "t": "美, 이번엔 301조 관세… 한국은 일단 12.5%",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkVnbllpTXpzbU5tSFdvQUltZVB6d3hHQXZkZ3h0ZWVqOGo5d1dnZjFzcGcyeXBOUXFyVDJZN193Vng5QlhpT3ZvWW04ZmlEaWVhRFNXTTQwNjhKSDRnMXl1b24yNFN6SU1kMXZlMmJwUjZMaDJ2VGJIeHVqZHc3UkxzeUg?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-24T15:55:00+00:00"
+      "t": "“미 대체관세 10년 세수, 무효된 기존 관세보다 1천207조원 적어”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZWJwc1dFOVBOZURIVEJ4b1ljQndvNVJ2WjR4T2FlMGxtXy16Wmg0b0tPNjZGZW9rZjhXTUtIZzNxclhrQms5WlFhUTBERElKS2JVYWZKWTNLTkk?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-25T15:26:00+00:00"
     },
     {
-      "t": "10일 내내 사이드카… 도박판 뺨친 코스피",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnpJc200OVNtUF8yTFFORm5zSDBSa0Y3dU1JdFdac09jMzViQTRHa2FYdEowSXNFcHpLZFVfLTViWFNpcnBhWmpWYVZvSXdEV3lJVEhtV2pRcXdpZTROY3BOMFNxZXlWQ29hazlrOTNOTXZJUmE5V2JVWGJOVzBLanNxS2NvajdSbk9IVDlB?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-24T15:55:00+00:00"
+      "t": "[김대호 진단] 반도체 열전 (20) 딥시크(DeepSeek)... 공짜 AI \"놀라운 시진핑 가성비\"",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGw5OTA3WEZKTVRZY09lSTJrcTR6WE82RF8zRmdya2RTR2c1X1FTcS0tWUFKSEJMOUhWQ2pVb1hyRW5Ranc0Q0lndFotZWRQYmlJMGFfQmJvSWVtQjdTR1FLOWRJcFVYbk9FaEx6RkRvMDliaGNXck9jNHN1cHF4WUhpSVY?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T15:00:00+00:00"
     },
     {
-      "t": "중동 긴장에 유가 100달러 재돌파… 아시아 증시 휘청",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQalFOeHpqaEJ4eGhhTzVzY2lqT3MtSUI0V2xNbkJoLTFJZmNpbl9uWFZXaTBzLXB5cUllM2NodzdiWEdwTGVhcF9NMWRoQjd0UWVjS0NnUWFNTG1aMUtpZUdEZWJKZ2ZaVlJKOEN5WTkzLUN6LU1UUWVCQW00ZEVZaQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-24T15:53:00+00:00"
-    },
-    {
-      "t": "한-미 관세당국, 마약 등 신종 무역범죄까지 공조 확대",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1abGs5UjdMRnR5Q3pZU2t2d000eWFWWVlzakpMWEV2RjhDUmxGbjJnVVpSb2RrM3ZySmU3OFpPT2hFejZ4MEFuTzIya2JpZUJuWjFYSWJGSnlSVlZxeVE?oc=5",
-      "s": "한국방송뉴스",
-      "d": "2026-07-24T15:40:44+00:00"
-    },
-    {
-      "t": "美 국채가, 유가 조정에 소폭 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUd1FUVHZUOUp6VWg2MU15VFV6cmp1ajNIMXFuRUdXemhZM3VKamloVmQ2ZVBVcTJDUjZXbTFWNmtUdWpUVzlXREZGQmdyVWswY0VFaER1R2pRR19DMDE0OG1RWXFublJXTmp3b2hDTUs?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-24T15:36:41+00:00"
-    },
-    {
-      "t": "美, 中 문샷AI ‘정조준’…미·중 AI 패권 경쟁, 반도체 제재전으로",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUWlmUDhJMGNFLTlyWkpXbUVDNnhVOUNBbkFUVjM1cFBoNndNM0lic1g0bDFvQmFOR2E1cmxHQkl5RXc5MjlDa0NLOGVrNWZtZlVFUDhqWmNaT05uVHhnOF9fb1liZUtmQktiSw?oc=5",
-      "s": "재외동포신문",
-      "d": "2026-07-24T15:36:28+00:00"
-    },
-    {
-      "t": "\"롤러코스피 주범 왜 도입했나\"…13조 쓸어담은 개미들 달라졌다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QT0hGc2lwOTBiOEIzOEJQaFRoUDBnUVl1Vl9XNWxvMHRQMDFIUTBVcjV2aFl2YlJTQ3FteDJFblhOZHl2TXI5dVV6VEVKMFk?oc=5",
+      "t": "\"美 대체관세 10년 세수, 무효된 기존관세보다 1천207조원 적어\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pLXRNdGhkVVFGVkNmWUZIUUNqX0ltV1BmUjlDaXdfTERxNWRVZ0I3eDY3M3lMSGlkSW1HMzkzV3FlQTZ0OWJiU3E3dng0NEU?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-24T14:58:00+00:00"
+      "d": "2026-07-25T14:58:52+00:00"
     },
     {
-      "t": "[사설]美 강제노동 관세 12.5% 부과… ‘15% 상한’ 반드시 지켜내야",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WMkdoLTE4ak0xNzBzbk9FTDZQSUU2aXBPLUV5SFA4VFpCTGZoR0Y3bUhUMHk1RnBZTFRqQkhGTVJmYmRrUnZIX2hEaEt5RkU5WC03YlV0YTJpdTNuQldZdHBlRHhrZG5ZMzJ0OEtoT2VtRTFEbHc?oc=5",
-      "s": "동아일보",
-      "d": "2026-07-24T14:30:00+00:00"
+      "t": "\"한국 증시는 카지노, 투자자들은 도박꾼?\"…외신의 뼈아픈 경고 |",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSk8xUzZGbEVDQlU2aEdISldFMWp1LU1lTU84SWhxNjMzZnhLTVB3RDFfVkU5ellXRjJkMkxicU82Q1F5QkhBQzFnR3JNWTVueWVSZi0wdGg2X0hMNzZndWY4cDFCY0tnMlA1OVBR?oc=5",
+      "s": "주간조선",
+      "d": "2026-07-25T14:13:55+00:00"
     },
     {
-      "t": "유가 100달러 충격에 검은 금요일...코스피 다시 6천선으로",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1odUM3a19fOWZSTXp6N0RQaF9mejdrc0lfYXBRekNteUljVWJ4VTQyZkhwdzA5Tzg5ZXlyb1RXX25DdXNIRFpiZF94MWI2Q0ZoSUVnZnZGM1lvaXNOV0E?oc=5",
-      "s": "YTN",
-      "d": "2026-07-24T14:20:00+00:00"
+      "t": "[탐사보도 뉴스프리즘] 반도체 호황의 역설 / 금리 인상에 곳곳 아우성",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dUY2VnBRWGlkbnJycVRYNHQ2M2dtYXptcGxfcEdwUEZ4dTF1UlZxMDBKNTg0emlFaW9lR09WbVVsVlNaWTh4Qlhpc19OMjllbC12M2J0UmFjQQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-25T13:57:59+00:00"
+    },
+    {
+      "t": "인도, 강제노동 관세 10% 부과에도 미국과 무역협정 추진 지속",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbDNOdXFZdHVtX2Jyc3AtNnlnYWRMOUFYX29zd2RMbDczdHozVnhwSDBoYVB2M3R3SDZQblg3alk0RVVCb1VGLVFhQWZsWktxejk3aVZyc1l0ejFOMGJ1SUo3cGx5R0tZUEE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-25T13:16:00+00:00"
+    },
+    {
+      "t": "한국 기업, 빅테크와 1400조원 ‘반도체 동맹’ 맺었다",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZE0tc0FOQmozNk1lOGd2RTNfcWctSlpUM1VwZ0FwREhwNWtNRHduSFdkSXRFZjdVQTEwblA4ellmVVVQN0hiNzFHWkFPSnhHYThPSE5vSG9seXN2LU1aR2pLRWtWZ3AzSl84?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-25T13:04:00+00:00"
+    },
+    {
+      "t": "\"코스피 6700~7600선\"…다음주 반도체 실적이 방향 가른다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GVjBMRUdVYml2R1Ewd3V6Q1d5T0tZNFFLc05KS3JqUUlucDN6VW1GTUtySjBDZWkxSFJoR3hySWxVWXJSbERHYldIY2tTdnM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-25T13:01:51+00:00"
+    },
+    {
+      "t": "트럼프, EU에 보복 관세…‘강제 노동 관세’ 소송전",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKXy1EelNWa1VBaV9xMUw2YllxTnBYUUFUb2Voa2VfMWg3NHg1SmJ6MFROWldRRkluVEVuRTNveVY5bXZKaThfa0xEZnRNRlFIZ280WFpnNDh4T3c?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-25T12:20:00+00:00"
     }
   ],
   "asof": {},
