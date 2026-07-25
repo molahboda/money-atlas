@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T19:45:52+00:00",
-  "quotesAt": "2026-07-25T19:45:52+00:00",
-  "newsAt": "2026-07-25T19:45:52+00:00",
+  "fetchedAt": "2026-07-25T20:00:53+00:00",
+  "quotesAt": "2026-07-25T20:00:53+00:00",
+  "newsAt": "2026-07-25T20:00:53+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-07-25T17:05:28+00:00"
     },
     {
+      "t": "이 대통령, '샌프란시스코 AI 선언' 발표...\"공급망 핵심 국가로 도약\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KVjNEa2JfSDBUQ2JqVmp0UE9aeTlDdG9RSUFhYTVYX0dkYlh5eFhfeV9IaVVjYlduRzUxa3ZZbUxqUHB4UHdHNVR6c1dORHZiRGh3S01jeVFhQ0hxckE?oc=5",
+      "s": "YTN",
+      "d": "2026-07-25T16:54:00+00:00"
+    },
+    {
       "t": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVXZUSVBjZjNZUEdjd1ZKRDhKNlVhSTdjXzN0SlFHa3JGT3plNUtETUw3bEJiVjNFV2s1MXdkdGRvcjVyQjlySVJGWmQ4eFA5X2YySV9yekNCWjFqS3dzcUgwQ2Q5OVIyczE0VlRZUXM?oc=5",
       "s": "Investing.com 한국어",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZWJwc1dFOVBOZURIVEJ4b1ljQndvNVJ2WjR4T2FlMGxtXy16Wmg0b0tPNjZGZW9rZjhXTUtIZzNxclhrQms5WlFhUTBERElKS2JVYWZKWTNLTkk?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-07-25T15:26:00+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (20) 딥시크(DeepSeek)... 공짜 AI \"놀라운 시진핑 가성비\"",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGw5OTA3WEZKTVRZY09lSTJrcTR6WE82RF8zRmdya2RTR2c1X1FTcS0tWUFKSEJMOUhWQ2pVb1hyRW5Ranc0Q0lndFotZWRQYmlJMGFfQmJvSWVtQjdTR1FLOWRJcFVYbk9FaEx6RkRvMDliaGNXck9jNHN1cHF4WUhpSVY?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-25T15:00:00+00:00"
     }
   ],
   "asof": {},
