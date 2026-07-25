@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T21:45:15+00:00",
-  "quotesAt": "2026-07-25T21:45:15+00:00",
-  "newsAt": "2026-07-25T21:45:15+00:00",
+  "fetchedAt": "2026-07-25T22:00:15+00:00",
+  "quotesAt": "2026-07-25T22:00:15+00:00",
+  "newsAt": "2026-07-25T22:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,22 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "뛰는 유가에 물가 불안 우려…금리·관세·환율도 '경고등'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vUFdnS2xpNldXOVFjb083RG1JUVBINEJsQm1SdGhVMlBPU2FpaHJQenhfcjEyeklqaWdxYVhES1ZHZDNyTVBxaEVJMTlvV0E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-25T21:31:39+00:00"
+    },
+    {
       "t": "중동 긴장고조에 국내유가 반등 조짐…최고가격제로 '시간벌기'",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50aTM1U0tfMXE3S0FGU1YxelZhaFZGdWpybFIxbFY2OXRNOXpaVWZ4S0xUeEFsVEZkd3I3QXE5YS1lZWJ6TnZ5WnVITkNmQ1YyOTN4Yk41UWlieWVHSVhhUmdudzBsRWVCX1VqQjNOTDdTZ0xt?oc=5",
       "s": "연합뉴스 한민족센터",
       "d": "2026-07-25T21:30:10+00:00"
     },
     {
-      "t": "뛰는 유가에 물가 불안 우려…금리·관세·환율도 '경고등'",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zU1QtZTVoQlpqd0E2X0NtTWFfTjVLTkFLUlY0SU9yNkpNRHNmdTdkNllKMVdlUHJDLVV2U3dIeG1EV2poWi1RMlZqdGpuRS1DQmtnelRsMTlvMmRaUE5HcXh0YWh0UXNVOHBsd0JWckNxNUtI?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-07-25T21:30:01+00:00"
+      "t": "한국선 191만원, 미국에서는 290만원…똑같은 하이닉스인데 가격 차이 왜?",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ILWljcnJCZjVmUlNVY2xXOUdWZWV3bHZVbTJNdDdCdV9lOVJrclJIUDRFbHFnNkZ6aUZGcmVRNVBfdEVWOWJhS1ZVTmtmdXZBdUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-25T21:12:05+00:00"
     },
     {
       "t": "\"美 대체관세 연간 세수 153조원 전망, 세수 손실 60% 메울 듯\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5d0diLWpvSHZfcnVJc0lOdjNNN2VFYjZ6LWwyZ1paM2pzR2dqTHRmMjZfVWNEQ2l1cTA3TGZYV2NPYVl3b0w0dUs0Q1lwLUk?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-25T21:12:00+00:00"
+    },
+    {
+      "t": "빅테크 실적 릴레이… FOMC도 변수 [주간증시전망]",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1T1EtdE56c3NUUElTdnhORjNfRVo0TGZfdnBaci16d295Y1FNY1VYSUMzV1NzWGlTR2VIQXB0bW9zMmxUbk1ySmtjUkZvekp1M2Y1WHhMRE1RNTZMdGc5c0ZoS29BVk1kQjRVUW93NzDSAXRBVV95cUxPdDc1aVFqckJsYmItdzBfUWhSaHhRc3g3QlZMTlIyTXZVZWVnT2NOTGwzTXpuTHFQdXNTVzFkTF9UdUhqTGJzcFJtWVVuclU5dUc1cW02T01LSE1nS0k2Nl9iejF5Y01TaVhjOGpuQ2VIUm9mSw?oc=5",
+      "s": "IT조선",
+      "d": "2026-07-25T21:10:00+00:00"
     },
     {
       "t": "[세종 인사이드아웃] 복지부 “국민 건강 위해 담뱃값 올려야” VS 재경부 “물가 부담이 있어서…” - 조선비즈",
@@ -70,18 +82,6 @@ window.LIVE_DATA = {
       "t": "제이알·중앙 사태에 유가 급등까지…회사채 금리 2년8개월만에 최고 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uazl3ZkdNaklubEc0U21QdkVZUV9SOGdleWlBNXdEWEpySWRmLVhjLU5pVzh0NDlnTkpxdFJoX1pZWHBPMVRRWWRxUzBtaUd0bVFwaXlDSmhyYWZ3Q1JTUTBsN0FRM29k0gFuQVVfeXFMTzk0aGZXVVhyZmdXZFZOMG4weUxWY0pTQlZxMmR0NW5GcHRXSEdNSFA2NzJTTDczYS1YQ1dwLU5EZ3MtbFJEVkhuYjVPczdCd1VaMUE0R3NpdU4xVm52TFNhamtyWFZMb2lLdWZhOWc?oc=5",
       "s": "머니투데이",
-      "d": "2026-07-25T21:00:00+00:00"
-    },
-    {
-      "t": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFfdzM4RVI4d2ZmeUZkNENxZEl4dHVOY2NBNFNCRDJ2ak9KaEVwUHJ5dm16a21CcWdMWDVTS0tiZHNjQTVydzRmUGNQVzFBNUNJMG0xSHdxblRMRlZGaG5hdkQyYnhOendjd3NUMDhsazF1YTd1ZGd5S0FFOVpEMktEZ2p1WEl5?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-25T21:00:00+00:00"
-    },
-    {
-      "t": "코스피, 칠천피 재탈환 '시도'…트럼프 타코·FOMC·빅테크 실적 '주목'",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iRnZjYU92QWFjT2drQUZVcUJxRW04VmxwVmdoR0lXbWRDSmhraGhIdl9ENy1Eb25uR1EzbzVVUTNWc2FnTVhEZXpMSzB5dHNrUDNIS2owUURUWmxPYnMw?oc=5",
-      "s": "뉴스1",
       "d": "2026-07-25T21:00:00+00:00"
     }
   ],
