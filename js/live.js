@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T20:00:53+00:00",
-  "quotesAt": "2026-07-25T20:00:53+00:00",
-  "newsAt": "2026-07-25T20:00:53+00:00",
+  "fetchedAt": "2026-07-25T20:15:52+00:00",
+  "quotesAt": "2026-07-25T20:15:52+00:00",
+  "newsAt": "2026-07-25T20:15:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "원화 가치 17년 만에 최저…“운 좋게 내린 환율, 대응체계 만들어야”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HV2U4c1Qza2ZsZ0c0Y0hzX1FJeXNUdDJnd09wbldmSFp4UnhJYjFoNWJTbW5YWjdKQ2tkazZtZjhJTXowWnpTcEg3WkltZGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-25T20:03:07+00:00"
+    },
+    {
+      "t": "기준금리 인상 이후... 은행 예금이자 상단 3% 중반, 저축은행은 4% 중반",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1dKaHJ2U2tHZzRIb1VNSl80a0o1UWFaeFRTTGpaMzd6OS1VeDExRzdXOXctem5jY09tUjlZSGlUTjMyYkNIMFRvN3ZKam56VE9IdGE1MC1TWTQ1RVlYLVNsZU5CZmc3UTQ2aHZ1RTBfWVVfQ3FlRDYzVHViaG5xN0U3YWI?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T20:00:00+00:00"
+    },
+    {
+      "t": "美 월가 강세론, '4중 악재'에 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlhtQlVJd2MyRUZRNnZmR1J2N1Y2Q3Z1UnJBNHJTVE9XUmJPc2dQZ1RNRV9rWE9ORTdQVXRpXzVKelFHQ2lKbjU4XzRKSDd6ZHU3bTdhbU9NSk1nX29HYVI2NjF6clRFWFVpb0owTUhTcGFTNjc1VW9KcWFZR3ZWYVM5ajBEUHMt?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T20:00:00+00:00"
+    },
     {
       "t": "美 장기금리 뛰자 주담대 6.6%…가계 부담 가중",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc016TlhuWk02RGJXc3d6TUt4TDBuZ3duTEY1ejlkNlZwQ2NGZVZXYWw2bkJUZWtHZHItelh5MG9XcXlxZHd0THNaaWFvT0NBMGJqM2Q2Uk5iT3JfTHB2OTZhUGJ2WHpBS1pkZTBPQ2ozVUtlQ01kLTJwbjJSMTJXRW8tbDRWV010?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FZTgwQ3U4ejM5Qlo3b3UteXdzcEVzVzRIMjBaNk9zZFBjZDhyTDF6Yy1LRHJaSE1JckRUejlJaHIwak1WV0l0aUx0ZzIxQjhtUUlNR0s4OTE1T252WWc?oc=5",
       "s": "포커스온경제",
       "d": "2026-07-25T17:05:28+00:00"
-    },
-    {
-      "t": "이 대통령, '샌프란시스코 AI 선언' 발표...\"공급망 핵심 국가로 도약\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KVjNEa2JfSDBUQ2JqVmp0UE9aeTlDdG9RSUFhYTVYX0dkYlh5eFhfeV9IaVVjYlduRzUxa3ZZbUxqUHB4UHdHNVR6c1dORHZiRGh3S01jeVFhQ0hxckE?oc=5",
-      "s": "YTN",
-      "d": "2026-07-25T16:54:00+00:00"
-    },
-    {
-      "t": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVXZUSVBjZjNZUEdjd1ZKRDhKNlVhSTdjXzN0SlFHa3JGT3plNUtETUw3bEJiVjNFV2s1MXdkdGRvcjVyQjlySVJGWmQ4eFA5X2YySV9yekNCWjFqS3dzcUgwQ2Q5OVIyczE0VlRZUXM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-25T15:46:00+00:00"
-    },
-    {
-      "t": "“미 대체관세 10년 세수, 무효된 기존 관세보다 1천207조원 적어”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZWJwc1dFOVBOZURIVEJ4b1ljQndvNVJ2WjR4T2FlMGxtXy16Wmg0b0tPNjZGZW9rZjhXTUtIZzNxclhrQms5WlFhUTBERElKS2JVYWZKWTNLTkk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-25T15:26:00+00:00"
     }
   ],
   "asof": {},
