@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T21:15:15+00:00",
-  "quotesAt": "2026-07-25T21:15:15+00:00",
-  "newsAt": "2026-07-25T21:15:15+00:00",
+  "fetchedAt": "2026-07-25T21:30:15+00:00",
+  "quotesAt": "2026-07-25T21:30:15+00:00",
+  "newsAt": "2026-07-25T21:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,21 +25,27 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFfdzM4RVI4d2ZmeUZkNENxZEl4dHVOY2NBNFNCRDJ2ak9KaEVwUHJ5dm16a21CcWdMWDVTS0tiZHNjQTVydzRmUGNQVzFBNUNJMG0xSHdxblRMRlZGaG5hdkQyYnhOendjd3NUMDhsazF1YTd1ZGd5S0FFOVpEMktEZ2p1WEl50gGcAUFVX3lxTE5BODcyNkhEaHM3MWkwSE9ZU3RrRDlGOVY1ZmRyVmJBQ3dwdVQzeVlDbUdmOWszR21rVHZmTGFFa0k4Q2ZMRlE1QWp4WHhUNXFKZHcxTXU0TEs5T0tHdzNZaDJuWWpTVk14dm5xUmpDSjBHdThCQ3BwdFRhdmVYaDd1RW9yZ05UM2F1RHFsY0VfdEpOR1cyMTljcUJWcQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-25T21:07:19+00:00"
+    },
+    {
       "t": "[세종 인사이드아웃] 복지부 “국민 건강 위해 담뱃값 올려야” VS 재경부 “물가 부담이 있어서…” - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalhuS2NxN21GQVg1LTNHMUNyY0lYaUxZcWpvVE5icjk0N1ZGcE5JamNTd3BqLTV6UUc5VHplbFBBdE5DdWNjZExGYkM3dWt5THU4aFE2ZlBMcklWb1JjNjhyR05LNDJYa1NEZkd1WHp2Q1hlMHNTdnN0bS13UEZDZGQwRDNOZ9IBmgFBVV95cUxQcVRiUzkwenRSUnVzRUIwdzdtNDcwZndWZEFiY2dpTFIwQXRRZlVOTFBZUFNUUDQwLUw3bFpZdWdKemNERV9uc3JuQWkwVUphNGFlRGFjd0JDRmJ1czFnUmJfSUZQLWcyT3ZmY2tFNTdkZkZfRlY1ckNkSXM0c2kxNGZjSWlIWlN2LVVMYVdlRVR1eVJQeU5IdEtB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-07-25T21:05:59+00:00"
     },
     {
+      "t": "이 대통령 “한국 반도체공장 없인 세계 산업 안 돌아가”…‘대체불가 대한민국’ 자랑스러운 조국 돼야",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZRzN5ZWFmQTJrdUpLR3lFdG5MXzFSRG9jYU9DNUM1MUVVZFdjdlR3NzlrNklnMjRCUi1jWW9tQmV2UEY4eVo3ZHA4MG0zMkc1TGdwalhYbkprRFU?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-25T21:05:00+00:00"
+    },
+    {
       "t": "제이알·중앙 사태에 유가 급등까지…회사채 금리 2년8개월만에 최고 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uazl3ZkdNaklubEc0U21QdkVZUV9SOGdleWlBNXdEWEpySWRmLVhjLU5pVzh0NDlnTkpxdFJoX1pZWHBPMVRRWWRxUzBtaUd0bVFwaXlDSmhyYWZ3Q1JTUTBsN0FRM29k0gFuQVVfeXFMTzk0aGZXVVhyZmdXZFZOMG4weUxWY0pTQlZxMmR0NW5GcHRXSEdNSFA2NzJTTDczYS1YQ1dwLU5EZ3MtbFJEVkhuYjVPczdCd1VaMUE0R3NpdU4xVm52TFNhamtyWFZMb2lLdWZhOWc?oc=5",
       "s": "머니투데이",
-      "d": "2026-07-25T21:00:00+00:00"
-    },
-    {
-      "t": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFfdzM4RVI4d2ZmeUZkNENxZEl4dHVOY2NBNFNCRDJ2ak9KaEVwUHJ5dm16a21CcWdMWDVTS0tiZHNjQTVydzRmUGNQVzFBNUNJMG0xSHdxblRMRlZGaG5hdkQyYnhOendjd3NUMDhsazF1YTd1ZGd5S0FFOVpEMktEZ2p1WEl50gGcAUFVX3lxTE5BODcyNkhEaHM3MWkwSE9ZU3RrRDlGOVY1ZmRyVmJBQ3dwdVQzeVlDbUdmOWszR21rVHZmTGFFa0k4Q2ZMRlE1QWp4WHhUNXFKZHcxTXU0TEs5T0tHdzNZaDJuWWpTVk14dm5xUmpDSjBHdThCQ3BwdFRhdmVYaDd1RW9yZ05UM2F1RHFsY0VfdEpOR1cyMTljcUJWcQ?oc=5",
-      "s": "Chosunbiz",
       "d": "2026-07-25T21:00:00+00:00"
     },
     {
@@ -49,15 +55,15 @@ window.LIVE_DATA = {
       "d": "2026-07-25T21:00:00+00:00"
     },
     {
-      "t": "(주간증시전망)AI 투자 확대 기조 확인 구간…미 빅테크·삼전·하닉 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03Z0lfdHNPM3dDNk5QMWxwVGRxX2RNRDg0NFk5T0l2eTVFMmlKZEIzM3FrNkt3dVJPcGxqMVB6XzZUUGtnSmtfT0doOFFSVG5wemZrVUJmaFA5bkE5V2dMaw?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-07-25T21:00:00+00:00"
-    },
-    {
       "t": "연간 성장률 전망치 3% 후반 잇달아… 8월 기준금리 인상론 '유가가 변수'",
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUk2WV9RaHp5bXJ6TmlXaUUxS2JiLUZScmlBUmU1S0dJNVpPeFQtVGJhUURpSDdxa2RxNmdsdTJOTHg2VDVnbDVLRWdZc2lQQmNQdDdmRUpMcDBvejNPUG56MWdacHFnS2tCS2I1bHNUamVIQ3dCdlU2UXBucVVKS3p1V1o?oc=5",
       "s": "글로벌이코노믹",
+      "d": "2026-07-25T21:00:00+00:00"
+    },
+    {
+      "t": "(주간증시전망)AI 투자 확대 기조 확인 구간…미 빅테크·삼전·하닉 실적 주목",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03Z0lfdHNPM3dDNk5QMWxwVGRxX2RNRDg0NFk5T0l2eTVFMmlKZEIzM3FrNkt3dVJPcGxqMVB6XzZUUGtnSmtfT0doOFFSVG5wemZrVUJmaFA5bkE5V2dMaw?oc=5",
+      "s": "뉴스토마토",
       "d": "2026-07-25T21:00:00+00:00"
     },
     {
@@ -76,12 +82,6 @@ window.LIVE_DATA = {
       "t": "증시 훈풍에 금융지주 웃었다…상반기 순익 13.1조 '역대 최대'",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zMTQxSEN2NE5Wdzg0SGRiek9SSlNpVU9reUpCZGdUNnlqblB6bXBud19SNzF0TDZ4Mzc3eE84TkpoaVltdENXOFQyR3pLMHdOY1pQVTExM3dJcnN6QlVMM1Bn?oc=5",
       "s": "뉴스1",
-      "d": "2026-07-25T21:00:00+00:00"
-    },
-    {
-      "t": "4755조 투자 승부처는… 3대 메가 프로젝트 성공 조건 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZVZfTW9LOXVueVdoQmp6akdrVjQ0OWdBMW1xeVBpUnphYW1uY2hmYV9BTlhibW1TWG5iMnNNbnVIYnUwU3I4VmF4WkZiYnhKRTBId2ZUaDIwaDhjUWdBd2NoSGRYVWJ4ZVhRSEZjN2pVaUxZekVHTW1ib2Y3S09ORVBR0gGWAUFVX3lxTE51NzRJeVdGaUdkMVo2ajljN083aW51cUQ4SlRWRU1NYVlLQTdmUUc5VjVfOTJxZUxxQjNxY1RMa2gwNWl1Vy00TWJXa1VrOGw5OGMyWm1wNTBlVUc2LTQ0ZWdmU24wWVduRGhsM1ZNOFJVaVpVSlM2R0RoT0pxSFJNd2V5c1RiQ3AyeTQtTHB4V212alFHZw?oc=5",
-      "s": "Chosunbiz",
       "d": "2026-07-25T21:00:00+00:00"
     }
   ],
