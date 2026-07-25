@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T20:45:52+00:00",
-  "quotesAt": "2026-07-25T20:45:52+00:00",
-  "newsAt": "2026-07-25T20:45:52+00:00",
+  "fetchedAt": "2026-07-25T21:00:52+00:00",
+  "quotesAt": "2026-07-25T21:00:52+00:00",
+  "newsAt": "2026-07-25T21:00:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "고금리에 2분기 은행 가계대출 연체율 10년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FMHEtU3RMTjJ5SENjMHJ1NUNyMS1oajltMkR3N0lhOHFqbDhlR056VWFDdTd4ZmlZcmY2M3podTVQbWgyckN5T0ZxakdyeG4tUUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-25T20:51:00+00:00"
+    },
     {
       "t": "‘코스피 회복’ 전망 젠슨황, 삼전닉스 띄운 李…메뉴는 ‘버맥’",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MMnR1MnNxcGdPbUpuY0ozMUZiaUdSYktQVktwWVZZMG9nSXAwZzNxTTJLQjJNanBZdjE2RGxYZENVbFh3b21mM3JwQ3pMSGQyYlp1WFNR?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUIzXzd6TzRWWEc0SVF4Nzc0SGlrMzhpMWRIT2VfZWp2SExyZkVaZmUtZnk1aEZ6TVJVRVR5Z1FDWEQwOFg1WkRUb29Rb0pxcGFGc09nOTNqMVZVVW13azVTdmI0V1V6SnJndzJIMEtSWlctOTF1eDB0U0UyUFk2cEJoWmEzSUdh?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-25T18:25:00+00:00"
-    },
-    {
-      "t": "글로벌 반도체 시장, 2026년 1조 5000억 달러 시대… 변동성 넘어 회복 기대",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamJGQXJidXlUbjVYdURmaVgtS1RpX2Ntb3pRVjYyMkpuenlrbFdDSkR0NFhZdXctM1BWOGxjekxIRjh5ODZyenMwa3pYYk9kYmd1ME00UUwzWHVRNGpCOEs5Q2JidGRLbXd2YlczZDlYQWoyQVRPSnp2MGI5UFN1bzNISkZYQVZW?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-25T18:05:00+00:00"
     }
   ],
   "asof": {},
