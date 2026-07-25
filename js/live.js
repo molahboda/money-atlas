@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T22:45:15+00:00",
-  "quotesAt": "2026-07-25T22:45:15+00:00",
-  "newsAt": "2026-07-25T22:45:15+00:00",
+  "fetchedAt": "2026-07-25T23:00:15+00:00",
+  "quotesAt": "2026-07-25T23:00:15+00:00",
+  "newsAt": "2026-07-25T23:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "유가 급등에 원유 ETN ＇불기둥＇…수익률 싹쓸이",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ocl84REEwTlRNTzhac1dpYzkyV01UQ2VXNVU2NGx3UGRjRV9odGxtWi1qZkxnUEJoNFF0NTJZNy1jS3NYVlh4aFlWOVhvaHY5bV80Vk9tYVF6YVllaUhUblRPMnpoMFAzenZiQlZRaXlqdGVWdHNB?oc=5",
+      "s": "한국경제TV",
+      "d": "2026-07-25T22:46:00+00:00"
+    },
     {
       "t": "유가 급등에 美 FOMC 금리인상 확률 급등",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hJZU9hSHVmVGFPVkRKR2t0Q0NtYWFBTllpeTcxYTJYT1BoVnYtUjVBTHhVeVF4TGFhMzE4X254ZU0xZmREZDBlN05RRmtKT2VLa1JTX3ZWSmpEZFhqSDUxLW1KVUxUajJDdUhReVd3UjBFdHV4WVNSdHFxTHY2d01XWUpoT1ot?oc=5",
@@ -76,12 +82,6 @@ window.LIVE_DATA = {
       "t": "[천지일보 이슈종합] 韓-빅테크 반도체 협력 1375조·뜨거운 복날 풍경·與 당권주자들 첫 주말 총력전·중동 덮친 ‘확전 도미노’·美 새 관세의 두 얼굴·‘한국의 갯벌’ 유네스코 세계유산 확대 등재",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yUUhmOVhMWkdJYVVuVXlPZXM3Q3ZVSVFEcjBCelhBZTRZcGs2TGhLSG15SGhGR0ZuX3FXeFZqLUpLRi12M2tFa2dMbTdnYzFEVmhPallYeXBsa3dVYUU0YzJHRGFUVXZBM0E?oc=5",
       "s": "천지일보",
-      "d": "2026-07-25T22:00:00+00:00"
-    },
-    {
-      "t": "반도체 호황에 성장률 껑충…청년 고용엔 온기 안 닿아[세쓸통]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lck9YOHo3eHA0b2t1UVY4d2Nvd3VMb1dKN1djdEpHakktc3NnTGt1Qi1WS3BLaHRMRzZ6VVUwWVF5YjBCaUJwTXAwb0dZRTlBUmZsbEZPNUQzaDZxNTR1N9IBeEFVX3lxTE9Ic05lYnRmMVZPTW5BckpxWmtnYjQtekh6NGo1R01yaDNyUHU2b1BsM2NMelp2S3FfM3BTckJ5LTIxVmxyWFJES2JZdkhTWm5mR3dpMDhweXVVd0FWR1J1UktiY0V0UkdVOXc0bER3QXVKZWVZZWF2Tg?oc=5",
-      "s": "뉴시스",
       "d": "2026-07-25T22:00:00+00:00"
     }
   ],
