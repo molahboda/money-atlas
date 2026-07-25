@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T18:45:52+00:00",
-  "quotesAt": "2026-07-25T18:45:52+00:00",
-  "newsAt": "2026-07-25T18:45:52+00:00",
+  "fetchedAt": "2026-07-25T19:00:52+00:00",
+  "quotesAt": "2026-07-25T19:00:52+00:00",
+  "newsAt": "2026-07-25T19:00:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "뱅크오브아메리카, 유가 변동성이 중앙은행의 ’관망’ 정책 포기 강요할 수 있다 경고",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZE5HdFRHSGZlRUNlSno0d3p3RDMxX2YwZXh4Z1NvOGJVR3VDLWdlLUh6WW1pdmxBVnN5YnpXMFNsZS1zZXZPa2x2Z0hMV21IUDVfNnotYi1QbDctbVBvRk9rRHo0eUxmWGc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-25T18:48:00+00:00"
+    },
     {
       "t": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 금융시장 요동",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUIzXzd6TzRWWEc0SVF4Nzc0SGlrMzhpMWRIT2VfZWp2SExyZkVaZmUtZnk1aEZ6TVJVRVR5Z1FDWEQwOFg1WkRUb29Rb0pxcGFGc09nOTNqMVZVVW13azVTdmI0V1V6SnJndzJIMEtSWlctOTF1eDB0U0UyUFk2cEJoWmEzSUdh?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSk8xUzZGbEVDQlU2aEdISldFMWp1LU1lTU84SWhxNjMzZnhLTVB3RDFfVkU5ellXRjJkMkxicU82Q1F5QkhBQzFnR3JNWTVueWVSZi0wdGg2X0hMNzZndWY4cDFCY0tnMlA1OVBR?oc=5",
       "s": "주간조선",
       "d": "2026-07-25T14:13:55+00:00"
-    },
-    {
-      "t": "[탐사보도 뉴스프리즘] 반도체 호황의 역설 / 금리 인상에 곳곳 아우성",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dUY2VnBRWGlkbnJycVRYNHQ2M2dtYXptcGxfcEdwUEZ4dTF1UlZxMDBKNTg0emlFaW9lR09WbVVsVlNaWTh4Qlhpc19OMjllbC12M2J0UmFjQQ?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-25T13:57:59+00:00"
     }
   ],
   "asof": {},
