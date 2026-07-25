@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T19:00:52+00:00",
-  "quotesAt": "2026-07-25T19:00:52+00:00",
-  "newsAt": "2026-07-25T19:00:52+00:00",
+  "fetchedAt": "2026-07-25T19:15:52+00:00",
+  "quotesAt": "2026-07-25T19:15:52+00:00",
+  "newsAt": "2026-07-25T19:15:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "美 장기금리 뛰자 주담대 6.6%…가계 부담 가중",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc016TlhuWk02RGJXc3d6TUt4TDBuZ3duTEY1ejlkNlZwQ2NGZVZXYWw2bkJUZWtHZHItelh5MG9XcXlxZHd0THNaaWFvT0NBMGJqM2Q2Uk5iT3JfTHB2OTZhUGJ2WHpBS1pkZTBPQ2ozVUtlQ01kLTJwbjJSMTJXRW8tbDRWV010?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T19:00:00+00:00"
+    },
+    {
+      "t": "워시 연준, 美 국채금리 급등에 최대 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjcxbmFhVzNkNnFsUXdsbW91aEZCSm5ZNVlsTmN1MEpZcDRsOVQ1bHdJRjRIcUpRaWZpQzYtOXRZZlY2aGp6T0tBUkpqa2JxTDFnVnRHUHMzdlMxbUhmdHdtdlMtUEZDc1A5aEhDelVTb2pxNnZ5SlJpTTBpdzFvczBaWU13MmJG?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T19:00:00+00:00"
+    },
     {
       "t": "뱅크오브아메리카, 유가 변동성이 중앙은행의 ’관망’ 정책 포기 강요할 수 있다 경고",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZE5HdFRHSGZlRUNlSno0d3p3RDMxX2YwZXh4Z1NvOGJVR3VDLWdlLUh6WW1pdmxBVnN5YnpXMFNsZS1zZXZPa2x2Z0hMV21IUDVfNnotYi1QbDctbVBvRk9rRHo0eUxmWGc?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGw5OTA3WEZKTVRZY09lSTJrcTR6WE82RF8zRmdya2RTR2c1X1FTcS0tWUFKSEJMOUhWQ2pVb1hyRW5Ranc0Q0lndFotZWRQYmlJMGFfQmJvSWVtQjdTR1FLOWRJcFVYbk9FaEx6RkRvMDliaGNXck9jNHN1cHF4WUhpSVY?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-25T15:00:00+00:00"
-    },
-    {
-      "t": "\"美 대체관세 10년 세수, 무효된 기존관세보다 1천207조원 적어\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pLXRNdGhkVVFGVkNmWUZIUUNqX0ltV1BmUjlDaXdfTERxNWRVZ0I3eDY3M3lMSGlkSW1HMzkzV3FlQTZ0OWJiU3E3dng0NEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-25T14:58:52+00:00"
-    },
-    {
-      "t": "\"한국 증시는 카지노, 투자자들은 도박꾼?\"…외신의 뼈아픈 경고 |",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSk8xUzZGbEVDQlU2aEdISldFMWp1LU1lTU84SWhxNjMzZnhLTVB3RDFfVkU5ellXRjJkMkxicU82Q1F5QkhBQzFnR3JNWTVueWVSZi0wdGg2X0hMNzZndWY4cDFCY0tnMlA1OVBR?oc=5",
-      "s": "주간조선",
-      "d": "2026-07-25T14:13:55+00:00"
     }
   ],
   "asof": {},
