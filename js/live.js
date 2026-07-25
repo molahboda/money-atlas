@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T18:00:53+00:00",
-  "quotesAt": "2026-07-25T18:00:53+00:00",
-  "newsAt": "2026-07-25T18:00:53+00:00",
+  "fetchedAt": "2026-07-25T18:15:52+00:00",
+  "quotesAt": "2026-07-25T18:15:52+00:00",
+  "newsAt": "2026-07-25T18:15:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "글로벌 반도체 시장, 2026년 1조 5000억 달러 시대… 변동성 넘어 회복 기대",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamJGQXJidXlUbjVYdURmaVgtS1RpX2Ntb3pRVjYyMkpuenlrbFdDSkR0NFhZdXctM1BWOGxjekxIRjh5ODZyenMwa3pYYk9kYmd1ME00UUwzWHVRNGpCOEs5Q2JidGRLbXd2YlczZDlYQWoyQVRPSnp2MGI5UFN1bzNISkZYQVZW?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T18:05:00+00:00"
+    },
+    {
       "t": "애플·마이크론 中반도체 로비전에 트럼프 난처…'물가 잡기' vs '반도체 자립'",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUndlRkd0bWZMZ2YyZVplNDlpdTI4MnlTWi1nY2hyQTdQcXNRWExyVnNkcXg3UnRtZTBkcVRlUVh5QjRZb0xUQXRiUGlFU0o2OTNSU2hOSmo?oc=5",
       "s": "뉴스1",
       "d": "2026-07-25T17:23:06+00:00"
+    },
+    {
+      "t": "[주간 월가 레이더] 美 빅테크·연준, 사흘간 동시출격⋯올해 최고 '슈퍼위크' 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FZTgwQ3U4ejM5Qlo3b3UteXdzcEVzVzRIMjBaNk9zZFBjZDhyTDF6Yy1LRHJaSE1JckRUejlJaHIwak1WV0l0aUx0ZzIxQjhtUUlNR0s4OTE1T252WWc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-07-25T17:05:28+00:00"
     },
     {
       "t": "BCA: 중국으로 선회하라…한국 증시서 3개월 되돌림 거래 권고",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbDNOdXFZdHVtX2Jyc3AtNnlnYWRMOUFYX29zd2RMbDczdHozVnhwSDBoYVB2M3R3SDZQblg3alk0RVVCb1VGLVFhQWZsWktxejk3aVZyc1l0ejFOMGJ1SUo3cGx5R0tZUEE?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-25T13:16:00+00:00"
-    },
-    {
-      "t": "한국 기업, 빅테크와 1400조원 ‘반도체 동맹’ 맺었다",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZE0tc0FOQmozNk1lOGd2RTNfcWctSlpUM1VwZ0FwREhwNWtNRHduSFdkSXRFZjdVQTEwblA4ellmVVVQN0hiNzFHWkFPSnhHYThPSE5vSG9seXN2LU1aR2pLRWtWZ3AzSl84?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-25T13:04:00+00:00"
-    },
-    {
-      "t": "\"코스피 6700~7600선\"…다음주 반도체 실적이 방향 가른다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GVjBMRUdVYml2R1Ewd3V6Q1d5T0tZNFFLc05KS3JqUUlucDN6VW1GTUtySjBDZWkxSFJoR3hySWxVWXJSbERHYldIY2tTdnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-25T13:01:51+00:00"
     }
   ],
   "asof": {},
