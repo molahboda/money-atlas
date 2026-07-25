@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T23:30:15+00:00",
-  "quotesAt": "2026-07-25T23:30:15+00:00",
-  "newsAt": "2026-07-25T23:30:15+00:00",
+  "fetchedAt": "2026-07-25T23:45:15+00:00",
+  "quotesAt": "2026-07-25T23:45:15+00:00",
+  "newsAt": "2026-07-25T23:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,46 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "아산시, AI 반도체 호조에 상반기 수출 772억 달러…전국 기초지자체 1위",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mbWF1eWk2V1RQSGNFUGlXemNqRGRsa01uMFF3cHgwaDFMZ1RiRXRSd0hXeXl5M2wzbm9weGJZeTdfQ1l0TnUxRnNQbUFXQzFBcldZWDctamZqZ1VJYnpRTVl2WlF3M3ZLM1kxSXJB?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-07-25T23:39:28+00:00"
+    },
+    {
+      "t": "트럼프 '관세 시즌2'...\"미 경제는 버텼지만 물가만 올랐다\"",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSjRJbU13YWRmRGRQTVV2X3FKSTZDWDhzWWl1Y1VaOFBWZENOdUxfelNhaThWTzBqeG5TaDR5M0FxXzNpdFctUG80YmlPT1RMcjM1TFp5eEhjWGZ0d3AtX3I1NHpYMEh0?oc=5",
+      "s": "ebn.co.kr",
+      "d": "2026-07-25T23:39:19+00:00"
+    },
+    {
+      "t": "7000 깨진 코스피...빅테크·SK하닉 실적 ‘주목’ [주간증시전망]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Hd0dyelVnelMyMGIzcHVKTDBXZ1ZER1dRRUc4TU14SXBSYlFPZmNGZlJYcTNCbGRESTRXTHl4NzlMT182ZnJYZE9UVU1kT0U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-25T23:33:28+00:00"
+    },
+    {
+      "t": "보험계약대출 4%대 '껑충'…그래도 은행보다 싸다",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qTTl4RXdxNFJLZUVXV2lJenc2Q3NqU1NUX3VKWnphMXhBUmNDaEstSnhiUDhrT3JQajFXQ25IYkFIQWtaNEtpRnNVVDN5Qlh1N0JXNlFvaVVUbjlUdHhIczNRazFOLXl6eHNTZVZTZlcwUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-25T23:30:03+00:00"
+    },
+    {
+      "t": "AI심장부 동포 만난 李 “韓 반도체공장 없으면 세계 안 돌아가”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GeUdTb1BveG5fN0FoMGlBWS1aTnNDMlJlSzR2bno2MWRfM01Bemd0aG5GTjJJY1BoUUlTaVB1UkJaSDRoR0dwVEt5X3FQbXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-25T23:28:09+00:00"
+    },
+    {
       "t": "주담대 8% 시대 '영끌족 비상'…금리인상 후 벌어질 일",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XbzVmNjhMWkpuTmI2VXJLTENpcE1mQ2lQeGZSUDhHYWVxZ3Itc2pXZ2xOeER6TjdfVWtyX3UyUkxma2kzWGtWNkMzTkM3bDVrUXJBbVJDZW8zUDM4S3ZNanZheXY3RHVoZFY2eEJfdGLSAXRBVV95cUxNVlNPVGp5ZTZUM2JiWklGRmd3YklRd0swZjNaREtxd0lLRi0weGlDOHl6SDNTMVVpcUw0Wk1kSm55cV9ZVVZvMjVrS2NMVWpmQXdvN0hXcW9BNVJUY1dVZk1jZWM2dHlrZTRJeWQtbHB6YzJxcg?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-25T23:25:10+00:00"
+    },
+    {
+      "t": "에이피알, 반도체 국책과제 참여…뷰티 디바이스 기술 고도화",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOZXF1cE5tVG5GbGRsY2EyOFRQQnZ1UEItdVM2bHhjTEhBVnRnV05jZWhacW4teTBxNXR2MGRtZi1NbmJxYThENnJxNDZheG92b3JPU2VoMnBvWFhfaVZpZnRiZmR2aXlLaFY1NjVsZ1RvNEt0a0NOcktwXzc?oc=5",
+      "s": "비욘드포스트",
+      "d": "2026-07-25T23:22:24+00:00"
     },
     {
       "t": "중동 긴장에 국제 유가 들썩…국내 기름값 ’우려’",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvYUJhSktzTEFlYXA1NXlaeUdsX2s1VDFzczZJSWhrcWhFa3RDTUMycXdCcG85dGRudWFQT2JyNXlFQWpHX3FKSWU4UDNnRFpwRlZKQk10Q3RVUGg4aFptX04yVld3eTJ0RXhybERhc1o?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-25T23:10:05+00:00"
-    },
-    {
-      "t": "반도체 수출 급증에 ‘깜짝 성장’…2분기 성장률 3.7%",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtLTFEVE5jY2ZaTm4wV0h0eEN3TlhHdDRRZDBWcFR2bGFXcC1OTjRPeTNWb0lyVXM4YVl4RDVBb2FsbjBQZFR3a0RDWWtWbWJScmhfQ1YtSnpnSlZyZTAtWE1uaS0?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-07-25T23:00:11+00:00"
-    },
-    {
-      "t": "中 전기차, 유럽 유휴공장 품는다…관세 넘는 현지화 전략",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NRW1yTlV6SHF1eVphVVdJMjF5TjZWcEFXNWttc3ZvRmV3VFhfZU94UjZCaXVhVTk0QldmSTJvOU9MRTI5djlTcDdGS3NCeVkyV2tzVmNlWVlFV0dWSW5YTXN3alc?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-07-25T23:00:04+00:00"
-    },
-    {
-      "t": "李대통령 “韓 반도체공장 없인 세계산업 안 돌아가”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ZldweEJ1TFdwTGExcjYwbWlDUHV0c1lKLWJPWDJPcm43WUZxdnN5b0p2bFF5WXVrQ2lxVk5KSlVNZXJQZFhOX1IzcFdzcE91Zkw3dl9sejZmUQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-07-25T22:58:00+00:00"
-    },
-    {
-      "t": "[증시전망] 투심 떠나는 코스피...FOMC·빅테크 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DaWZuSzBwRWdqaEtoaTZJeUZNWlRHNGZEVmRaNHV6R3NWQ2JJNWxYZzlrM1Zfd3ljYzVSUnRMX0ZqSDRZamJtXzFWNVFzUFM5d21NOHVxeF9hdFVFMm9nN1ZOclJYWEs0cTZ4UXh3MjZMckE?oc=5",
-      "s": "디지털투데이",
-      "d": "2026-07-25T22:57:00+00:00"
-    },
-    {
-      "t": "유가 급등에 원유 ETN ＇불기둥＇…수익률 싹쓸이",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ocl84REEwTlRNTzhac1dpYzkyV01UQ2VXNVU2NGx3UGRjRV9odGxtWi1qZkxnUEJoNFF0NTJZNy1jS3NYVlh4aFlWOVhvaHY5bV80Vk9tYVF6YVllaUhUblRPMnpoMFAzenZiQlZRaXlqdGVWdHNB?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-07-25T22:46:00+00:00"
-    },
-    {
-      "t": "유가 급등에 美 FOMC 금리인상 확률 급등",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hJZU9hSHVmVGFPVkRKR2t0Q0NtYWFBTllpeTcxYTJYT1BoVnYtUjVBTHhVeVF4TGFhMzE4X254ZU0xZmREZDBlN05RRmtKT2VLa1JTX3ZWSmpEZFhqSDUxLW1KVUxUajJDdUhReVd3UjBFdHV4WVNSdHFxTHY2d01XWUpoT1ot?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-25T22:35:30+00:00"
     }
   ],
   "asof": {},
