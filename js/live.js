@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T18:15:52+00:00",
-  "quotesAt": "2026-07-25T18:15:52+00:00",
-  "newsAt": "2026-07-25T18:15:52+00:00",
+  "fetchedAt": "2026-07-25T18:30:52+00:00",
+  "quotesAt": "2026-07-25T18:30:52+00:00",
+  "newsAt": "2026-07-25T18:30:52+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "유가 폭등에 트럼프 2기 美 국채 금리 최고치…이란 전쟁 재발에 세계 금융시장 요동",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUIzXzd6TzRWWEc0SVF4Nzc0SGlrMzhpMWRIT2VfZWp2SExyZkVaZmUtZnk1aEZ6TVJVRVR5Z1FDWEQwOFg1WkRUb29Rb0pxcGFGc09nOTNqMVZVVW13azVTdmI0V1V6SnJndzJIMEtSWlctOTF1eDB0U0UyUFk2cEJoWmEzSUdh?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-25T18:25:00+00:00"
+    },
     {
       "t": "글로벌 반도체 시장, 2026년 1조 5000억 달러 시대… 변동성 넘어 회복 기대",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamJGQXJidXlUbjVYdURmaVgtS1RpX2Ntb3pRVjYyMkpuenlrbFdDSkR0NFhZdXctM1BWOGxjekxIRjh5ODZyenMwa3pYYk9kYmd1ME00UUwzWHVRNGpCOEs5Q2JidGRLbXd2YlczZDlYQWoyQVRPSnp2MGI5UFN1bzNISkZYQVZW?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dUY2VnBRWGlkbnJycVRYNHQ2M2dtYXptcGxfcEdwUEZ4dTF1UlZxMDBKNTg0emlFaW9lR09WbVVsVlNaWTh4Qlhpc19OMjllbC12M2J0UmFjQQ?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-07-25T13:57:59+00:00"
-    },
-    {
-      "t": "인도, 강제노동 관세 10% 부과에도 미국과 무역협정 추진 지속",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbDNOdXFZdHVtX2Jyc3AtNnlnYWRMOUFYX29zd2RMbDczdHozVnhwSDBoYVB2M3R3SDZQblg3alk0RVVCb1VGLVFhQWZsWktxejk3aVZyc1l0ejFOMGJ1SUo3cGx5R0tZUEE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-25T13:16:00+00:00"
     }
   ],
   "asof": {},
