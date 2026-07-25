@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T23:00:15+00:00",
-  "quotesAt": "2026-07-25T23:00:15+00:00",
-  "newsAt": "2026-07-25T23:00:15+00:00",
+  "fetchedAt": "2026-07-25T23:15:15+00:00",
+  "quotesAt": "2026-07-25T23:15:15+00:00",
+  "newsAt": "2026-07-25T23:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "반도체 수출 급증에 ‘깜짝 성장’…2분기 성장률 3.7%",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtLTFEVE5jY2ZaTm4wV0h0eEN3TlhHdDRRZDBWcFR2bGFXcC1OTjRPeTNWb0lyVXM4YVl4RDVBb2FsbjBQZFR3a0RDWWtWbWJScmhfQ1YtSnpnSlZyZTAtWE1uaS0?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-07-25T23:00:11+00:00"
+    },
+    {
+      "t": "中 전기차, 유럽 유휴공장 품는다…관세 넘는 현지화 전략",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NRW1yTlV6SHF1eVphVVdJMjF5TjZWcEFXNWttc3ZvRmV3VFhfZU94UjZCaXVhVTk0QldmSTJvOU9MRTI5djlTcDdGS3NCeVkyV2tzVmNlWVlFV0dWSW5YTXN3alc?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-07-25T23:00:04+00:00"
+    },
+    {
+      "t": "[증시전망] 투심 떠나는 코스피...FOMC·빅테크 실적 주목",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DaWZuSzBwRWdqaEtoaTZJeUZNWlRHNGZEVmRaNHV6R3NWQ2JJNWxYZzlrM1Zfd3ljYzVSUnRMX0ZqSDRZamJtXzFWNVFzUFM5d21NOHVxeF9hdFVFMm9nN1ZOclJYWEs0cTZ4UXh3MjZMckE?oc=5",
+      "s": "디지털투데이",
+      "d": "2026-07-25T22:57:00+00:00"
+    },
+    {
       "t": "유가 급등에 원유 ETN ＇불기둥＇…수익률 싹쓸이",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ocl84REEwTlRNTzhac1dpYzkyV01UQ2VXNVU2NGx3UGRjRV9odGxtWi1qZkxnUEJoNFF0NTJZNy1jS3NYVlh4aFlWOVhvaHY5bV80Vk9tYVF6YVllaUhUblRPMnpoMFAzenZiQlZRaXlqdGVWdHNB?oc=5",
       "s": "한국경제TV",
@@ -35,6 +53,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hJZU9hSHVmVGFPVkRKR2t0Q0NtYWFBTllpeTcxYTJYT1BoVnYtUjVBTHhVeVF4TGFhMzE4X254ZU0xZmREZDBlN05RRmtKT2VLa1JTX3ZWSmpEZFhqSDUxLW1KVUxUajJDdUhReVd3UjBFdHV4WVNSdHFxTHY2d01XWUpoT1ot?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-25T22:35:30+00:00"
+    },
+    {
+      "t": "[AI프리즘] 샌프란 AI 선언, 한국 AI 위상 확인했다",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00OUpNY2l6WWk5RU9CWHNqNWl0SjZuQnl1d0tDcDlhcVRwNWdxbVk4eDdMVWJTWGJWb3JaM1FmbW5HNjRaemQ2WEhxY2N2RFI2dUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-25T22:33:00+00:00"
+    },
+    {
+      "t": "[코스피·코스닥지수] FOMC·빅테크 실적·반도체 기업 성적표…코스피, 변동성 장세 이어질까",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoU21hMGZtekJGeU5xWUphNWg4Znl2M0RSTDlCaGpDbGZLQVpiWFczb2RoR19wYUdIUGdQb3l4Q3hBajJaWnBVWXlMRlNod182RHJYQ1ZjZjFjMzNSTzlXYml0ZjVpX2ExS3FLS3c3WVk?oc=5",
+      "s": "한국강사신문",
+      "d": "2026-07-25T22:29:21+00:00"
     },
     {
       "t": "다음주 SK하이닉스·삼성전자 실적 발표…코스피 향방은",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oTWt0RXFKa2JheWY4VFVONTlHd19iZXJEWnpDWTlxZDljWnNFMmI4aUlkMW81Zk9DMUJrTE52cUlMcGVBMEZrb2RLZjhPY1M0NFMzTA?oc=5",
       "s": "뉴스1",
       "d": "2026-07-25T22:10:00+00:00"
-    },
-    {
-      "t": "트럼프, EU에 보복 관세…‘강제 노동 관세’ 소송전",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54MkQ3Qm9Vd19rRFp4RjNPQndFazhMYV9EVmJhTV9TTFpHOG1ZR291VjNHeXdweEpXQkpoLUJ2dnlVNEZyeWxwLVFkUjhkVXQ4Z3FocVEzYzREYlk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-25T22:05:00+00:00"
-    },
-    {
-      "t": "[글로벌 경제지표] 美연준 FOMC 결과 주목…MS·메타·아마존·애플 실적 발표",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXb3VLeUdFbXY4Q21ObzlkT2ZMaVNOWTgyZ3hjMFEtQlA2YlJMaC1WRUw5bWFscFpmWC1iRllldnhCR3gyUjVnYTNTcWdhVlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-25T22:03:00+00:00"
-    },
-    {
-      "t": "반도체·AI·정비사업…집값 가르는 '개발 호재'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yS0dPekFzZE5LRzhYV3RRTklYSEYtX3VLTjVUYk5UdmpBR0VsR1liUUc4QjNwSjY3VGhPa2RQeEVRQ3FWVUZpcXotOThyMnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-25T22:01:06+00:00"
-    },
-    {
-      "t": "[뉴욕증시-주간전망] FOMC와 빅테크 실적의 원투펀치…K.O. 뜰까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OMDB4SmJFREJRWWMwNkZwOHhSU2w2QjVIcVNfbi05Wkp4aE80X3NsV29ZcVZ2OTl4VmdWVWVzbDQzelJqMjQzX0Nrd2Uyb2F4anhYdUtRaldaRDRqWVV5NzdrbERGQ3R5WHFOeEY5czQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-25T22:00:16+00:00"
-    },
-    {
-      "t": "[천지일보 이슈종합] 韓-빅테크 반도체 협력 1375조·뜨거운 복날 풍경·與 당권주자들 첫 주말 총력전·중동 덮친 ‘확전 도미노’·美 새 관세의 두 얼굴·‘한국의 갯벌’ 유네스코 세계유산 확대 등재",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yUUhmOVhMWkdJYVVuVXlPZXM3Q3ZVSVFEcjBCelhBZTRZcGs2TGhLSG15SGhGR0ZuX3FXeFZqLUpLRi12M2tFa2dMbTdnYzFEVmhPallYeXBsa3dVYUU0YzJHRGFUVXZBM0E?oc=5",
-      "s": "천지일보",
-      "d": "2026-07-25T22:00:00+00:00"
     }
   ],
   "asof": {},
