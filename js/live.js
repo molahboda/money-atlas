@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T20:45:15+00:00",
-  "quotesAt": "2026-07-26T20:45:15+00:00",
-  "newsAt": "2026-07-26T20:45:15+00:00",
+  "fetchedAt": "2026-07-26T21:00:15+00:00",
+  "quotesAt": "2026-07-26T21:00:15+00:00",
+  "newsAt": "2026-07-26T21:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,16 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "블랙록·메타 데이터센터 조달금리, 9개월 만에 7%대 거론",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtYWR5SmhJZjZ2S3Y0WndDSHJJYzh2WWdURHVtbG5URzdBbTM0d19KeU85MFo0a1dvSk8yVEhiSEtFWEREVUtQdEdBbTk1bFhDbnM4eUNnSWxiMzF0MjVHVGNqbWJCdmJKWW03a2Jraw?oc=5",
+      "s": "뉴스톱",
+      "d": "2026-07-26T20:45:22+00:00"
+    },
+    {
       "t": "개봉박두 ‘삼전닉스’ 실적…변동성 딛고 코스피 반등 이끌까",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncFRMVHJBbHQ5b0ZwcDctYzEtbWxqdFE0bVNKYnhpU2hqM3FZb05tZjROVkdqU2hvZ2Q2djNWbmZtZW13SEhxUjZYNmdhaG8?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T20:31:29+00:00"
-    },
-    {
-      "t": "주식으로 돈 잃는 사람들이 흔히 하는 결정적 실수",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1VfdTFKSWtSVDI2ZnJrYV8xVDNva1BkeEFpdlhrcE9pVjdDUGNYVm1kTGZ5eFdsSHU3TDRka0pqNWlwYnZLdnlVbF9UdF9Cd1NxUm5jRVVSbTJXYm9FUmNEWDBnY3c1UkRjMHV3c1h5X2ZRV0dHeXNEVE1FSFhCdg?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-26T20:30:00+00:00"
     },
     {
       "t": "2026.07.27.(월) Signal Digest \"반도체\"",
