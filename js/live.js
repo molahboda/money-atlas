@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T04:45:15+00:00",
-  "quotesAt": "2026-07-26T04:45:15+00:00",
-  "newsAt": "2026-07-26T04:45:15+00:00",
+  "fetchedAt": "2026-07-26T05:00:15+00:00",
+  "quotesAt": "2026-07-26T05:00:15+00:00",
+  "newsAt": "2026-07-26T05:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "이재용, 오픈AI 본사서 샘 올트먼 회동…AI·반도체 협력",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HVmJNM1VZVU9kTVBFWFd6LWJ3T2l2cTI4ZFY1VmJYMEFaN0JuMkxVcmxrektXOFc2ZGxzcENKUUFwVkx1SmsyMmRuZGN1UjA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T04:50:11+00:00"
+    },
+    {
+      "t": "美, 강제노동 관세 60개국 확정…한국 12.5% 확정",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWNRc191Q1ZOWFdvc2lEb2lyZ1NadnZOczVfVzZVNjJ3Q1RpYXVmcm9fNEtmVzdiNlp6N1pTcFg5Ul9hdXN5OWlpUkwxRC0tSWNkTi1fQUpZYlN2Y1d6THBmM2I4UDZibUF6TXZ2Q1Q4UFBBMjNPTURIcVYzRVM4X0d0Z3N5dUE?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T04:43:59+00:00"
+    },
+    {
       "t": "이재용-올트먼, 오픈AI 본사서 회동… AI 반도체 협력 논의 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVF91d3Q0eFN5dXUxU0YyOXNXRkpxVXFzR3NmVG5BMFdTbFBpSXhHOG5zUUtwNHc3dmM4dTUzZjJQeGY1Mlc2dGJBMUxDYW94cDBsOW1WeFNoTXdBczBfMVNROTVuTGNuSWJSeGVHSm9ZNmlBS085UmVXRTFqQjFSMmxn0gGWAUFVX3lxTFBfd2pTMHhTOW42T1NLaWJ4bHBYVzlIeWE3VXBKYXZkZ2FBYkoyRTMxRzdZWFBfZEZySzZGQnBWNnlGMElnRXpIclZ5RzRjRGJSZ2NxYjY4UENQSktfTjdmeW9TSmdJTTdvdFVGemtpYmtsRkRkR01SU19nZ09RcXFvYzdwRWlEOFhSN2EzSjJSd3lBVkp5Zw?oc=5",
       "s": "Chosunbiz",
@@ -37,15 +49,15 @@ window.LIVE_DATA = {
       "d": "2026-07-26T04:15:57+00:00"
     },
     {
-      "t": "CXMT, 98억 달러 IPO로 상하이 증시 역사적 데뷔 앞둬",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hYmN3ZUlPYTRzSjhwVS1vRER0RFFPQ2Z5cFo1aGV3MENlcncwcl8wdkZBbWVzTTNjMll4S01sZzhQYm15aFk2TlpWenZnQmdHYWhnYm1XSTRpWXh1aTdfb3ZhZnB1aU8yRXhvWWVhS2Y?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T04:06:00+00:00"
-    },
-    {
       "t": "[박근종 칼럼] 미국 12.5% ‘강제노동’ 관세 부과, 총 상한 ‘15% 마지노선’ 반드시 지켜내야",
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWdtM1lNN0FsYlQtR0NCZERUdklyc1RHTG5yc3AtZG4xTFFzdTlGS3o1WFdmUU1SN2EzUnJ0M3pwMHZZOG1ackpZY0I?oc=5",
       "s": "시사일보",
+      "d": "2026-07-26T04:06:00+00:00"
+    },
+    {
+      "t": "CXMT, 98억 달러 IPO 후 상하이 증시 역사적 데뷔 예상",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hYmN3ZUlPYTRzSjhwVS1vRER0RFFPQ2Z5cFo1aGV3MENlcncwcl8wdkZBbWVzTTNjMll4S01sZzhQYm15aFk2TlpWenZnQmdHYWhnYm1XSTRpWXh1aTdfb3ZhZnB1aU8yRXhvWWVhS2Y?oc=5",
+      "s": "Investing.com 한국어",
       "d": "2026-07-26T04:06:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41LTltdXhPSGthLVBDUjhDZ2pVMkxjYzFCR0RGYmR3c09raG0wWGhQaWNrcDIzOFZzTC1BdXBMZkR2SVZpVjJMVVRjalQxdjh4dWFzY1VjUzZwLXVBbEVUTw?oc=5",
       "s": "뉴스토마토",
       "d": "2026-07-26T03:58:23+00:00"
-    },
-    {
-      "t": "'한국국방반도체 협회' 출범 … 초대 협회장에 석재왕 대표 선출",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45VWdpMFVGZWVXN2t2YkxHaUhwd1k2MTF5MFNEM3pNbnFKam5FQzJYT0hKS0dBOWVqMEk3d0hjdzhMYzBjSXdzWmFfdXIwMEhhbG1jaHRsX1JST2pCcTZ4ck1B?oc=5",
-      "s": "충청비즈",
-      "d": "2026-07-26T03:57:28+00:00"
-    },
-    {
-      "t": "레버리지 규제 강화에도 코스피 변동성 '안갯속'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTnI2Y083cmRteUtYR2gwODRoRkJQN2MtSDdBMnZwNTcxNFMtTTd6cXJvNjB2TEZzZnZMRDU1a3NBczdMbXJMT3NlY2lHMjlMTHprMGhKaDJfd0Noc2xWYkE3SW5YWl8wdV9BRGRwdlQ?oc=5",
-      "s": "신아일보",
-      "d": "2026-07-26T03:56:31+00:00"
     }
   ],
   "asof": {},
