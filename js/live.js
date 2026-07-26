@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T21:15:15+00:00",
-  "quotesAt": "2026-07-26T21:15:15+00:00",
-  "newsAt": "2026-07-26T21:15:15+00:00",
+  "fetchedAt": "2026-07-26T21:30:15+00:00",
+  "quotesAt": "2026-07-26T21:30:15+00:00",
+  "newsAt": "2026-07-26T21:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,36 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "美 반도체 보조금 재검토 논란 확산",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0Z1ZlZEZkhKN3FtTU5razZ0bTJ5SUoyLTA3cXpQUUwyWXJmWVV5MG1fYkQwVGdWYmlmbW9OREUwM1ZYTU1Fa3Nvclh4YUd0UVZxTkxDOFNDNVQ3TExsQlFCZUROMzVWbGc4dzlyenp2S1FySGFVaTRoYVVnODhhWXZ6dGlLTmh2?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T21:23:18+00:00"
+    },
+    {
+      "t": "삼성전자와 SK하이닉스 2분기 실적 발표, 증시 변동성 해소할까",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSkh1Szk3aG9XOWExeXZLOXZEaFdqMHZOQWdDZTBXSWtnVFZKM1VqeFhEM3d4SHdMSTBHWlpndzRFSnp1Q3FoaXhpWm9uYTV6R2p5SGZScUQwNDVZcVdUUGRmbGFlSlBa?oc=5",
+      "s": "2news.co.kr",
+      "d": "2026-07-26T21:13:00+00:00"
+    },
+    {
+      "t": "반도체 흔들리자 건설·통신·에너지로…급락장서 '주도주' 바뀐다",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CeDdRYkVSVEpFSjRwMURFeloxZEV3Zl9XdVViNFlLTkFUSFhfaW81NTQ1c21xSUxzeER3NUdROG9IMzVKd0lUTVV3VHJiRzdYeFdLUw?oc=5",
+      "s": "이투데이",
+      "d": "2026-07-26T21:10:00+00:00"
+    },
+    {
+      "t": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2ZE1NU2cxTmlPTWpnQXJOYTYwbmFXWks2M2tUWWxwWEM3N1ViQkx6eTJ3RDllYXhCZnFyM3hiSkV4alUxNVc4em04M25rODhZMW1rR3c4ZmN5Y2M?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-26T21:09:00+00:00"
+    },
+    {
+      "t": "12.5% 관세 말고 “또 남았다”···줄줄이 기다리는 ‘트럼프식 관세법’에 한국 경기 ‘캄캄’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCMDFheldtZXpVOXZHZVM4VDl3emtoT2dSci16ODZUT2ppbDRZMWFPVW1lckp0SGljMFJsajFRT0lkSTBzWUpSUjZraENPV28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T21:08:43+00:00"
+    },
+    {
       "t": "트럼프 '강제노동 관세'에 미 소상공인 위법 소송 제기",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVZjM3hpY3k2NXlmdkNKTHB5NUVURkQ3UE14Q1B4M3FncDRnNlhkdUMtbjl6eWlnZ0dGMUNVN0VDcVBUVmd4aEREX1FrUjhXS3k1Tjhwdl9Sa19VNHpXZ2pQTDlhWjFMMWlJc3hfNlAzb2MtbV9KQzJpQk1ObkY3T0xfSWd1Ry1p?oc=5",
       "s": "글로벌이코노믹",
@@ -38,8 +68,8 @@ window.LIVE_DATA = {
     },
     {
       "t": "[코스피·코스닥 전 거래일(24일) 주요공시]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wRDdBdDFXR1czeS1YVlM3QmNLQVdQbEU0NjFDTHUtN0dkdHUyQlh2cGJnbTdZZy0wYzhCY1ZQWWc1QTJ4RUsyVW5aa3ZMVlZDdmc?oc=5",
-      "s": "매일경제 마켓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EQzNjZ3AyWmVFNTBCTFdGMjdRNWdtTjdONFFtU25HVWZXYThiVWF5dFVJZFdmSlRuRncwNzdWV3lZRWM3VjBFQk1XalVGOVdfajdfbmVCWHlnNjDSAWBBVV95cUxPVW9QSFBqZUlyNnRuZlBhcEp6X2RVR3Y1SHo2YndhRjczYThlaXNYWExhOGNja3gtTy1CMlh3SVVic09veUpCeDNDbmVIVHVOMEhpdF80Nm5ZaFRIOFVfOVk?oc=5",
+      "s": "연합뉴스",
       "d": "2026-07-26T21:05:00+00:00"
     },
     {
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jYzlYN01UaWZsbVVEeW1UTy04SThCUTRhTWNpS0xaTXgtR1k5bDdYdWVjWDZiUWI0QkZEUXFUbE13MjMyREFjWEpZUkxvUUEwY2dTdGNORFJqNFdZ?oc=5",
       "s": "뉴스핌",
       "d": "2026-07-26T21:00:00+00:00"
-    },
-    {
-      "t": "12.5% 관세 말고 “또 남았다”···줄줄이 기다리는 ‘트럼프식 관세법’에 한국 경기 ‘캄캄’",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3c0OXN1QUp6amdLcDR4VWhuanhtbVhRX2YtU2V1RUNWMWliNEp4U2FMQzIxeFpQNkdfTHhEa1RCYW9BOHdTV3FQU2Z2V0pUXzBKRWQ5d0ZXZU80V1VsMkRGWFYyay1CTldEQTB0WVJBLU9VOHBYbnZwaUthSUF6ZEZUVW9rUGJEZHM0cFJGd3lmNW1YOXJoaUxWSGRYM1I3ckZYUExXQUgwUdIBX0FVX3lxTE5vYkpIZlVPeTBRN3AyZkFfaGZHY0FBRXMtOHI5dFloeWpCYkpZMDY0NzM0QUx5dTRhQjA3WWlxSllwU2xsVlFmOGhoTm0wRThwLXN6b3FkLTZQVDBaRDJF?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T21:00:00+00:00"
-    },
-    {
-      "t": "“환율하락 반갑다”… 환헤지 해외 ETF 모처럼 ‘방긋’",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsMVFaaG5wbkhFck1XNEpqdWF2Q3YxZG9UbWtxZV90NGpSYWN1NndscTFTc0ExTUtsZXVlUnl5OXJfUTdKcTgzc1pwZ1VkbG9DcnNoaDdOZVJ0NmpZTnY3OHZ6TEJBQ0NYazNldGtiNmbSAXRBVV95cUxOTXRpeGFvemFMYlE4SmZIZWthS0dnRnVvNGltYUt1Y0s2Nm9WZHo3cWtrREJEYmg3TUFTWEZsZGpzT092REZfNWtUTFYzcFYyQzdHdXU1SGV6TGhvaFRVYnVZdW11S0dmRE85Yk5ySzVZSVgtZQ?oc=5",
-      "s": "IT조선",
-      "d": "2026-07-26T21:00:00+00:00"
-    },
-    {
-      "t": "요동치는 증시 '안전망'…VI·사이드카·서킷브레이커 차이는[금알못]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEdkU0VDZiVXVtMEk2S2hvUDhtcXM2RHJJMUtrcjNGbGh4VVJhSFBiS2ttVEh3RzN3Tl8zVkxJM21JTFJuSG5Ccmo3cHYxdW9NX3hVSVRYTVhYcnFjVXVwcNIBeEFVX3lxTE11YkZNdmFBSTM3enp4Sm5MdFpkZUpwY2s2VFVrY3h6Y1V3YTc5TVZ5UDFoNUY5eHVZTGswRkpwZlVrUlktQ083YU9yREw2dzBqeUxkcHpwZFgzR2RGWFBmdzFzTnVNbVFocWVJc2l6YWtkc1l6aThPdA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-07-26T21:00:00+00:00"
-    },
-    {
-      "t": "블랙록·메타 데이터센터 조달금리, 9개월 만에 7%대 거론",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtYWR5SmhJZjZ2S3Y0WndDSHJJYzh2WWdURHVtbG5URzdBbTM0d19KeU85MFo0a1dvSk8yVEhiSEtFWEREVUtQdEdBbTk1bFhDbnM4eUNnSWxiMzF0MjVHVGNqbWJCdmJKWW03a2Jraw?oc=5",
-      "s": "뉴스톱",
-      "d": "2026-07-26T20:45:22+00:00"
-    },
-    {
-      "t": "개봉박두 ‘삼전닉스’ 실적…변동성 딛고 코스피 반등 이끌까",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncFRMVHJBbHQ5b0ZwcDctYzEtbWxqdFE0bVNKYnhpU2hqM3FZb05tZjROVkdqU2hvZ2Q2djNWbmZtZW13SEhxUjZYNmdhaG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T20:31:29+00:00"
     }
   ],
   "asof": {},
