@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T00:30:15+00:00",
-  "quotesAt": "2026-07-26T00:30:15+00:00",
-  "newsAt": "2026-07-26T00:30:15+00:00",
+  "fetchedAt": "2026-07-26T00:45:15+00:00",
+  "quotesAt": "2026-07-26T00:45:15+00:00",
+  "newsAt": "2026-07-26T00:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T00:19:00+00:00"
     },
     {
+      "t": "금리 고점에 커진 채권 매력…우량 크레딧물로 자금 몰린다",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dVBfdlF6R1FMQXUzbmhGU0RPekR1UlFlUWxRc0djNGhyZUNoSnRXalctQ0lDa0dXTDFPNVd2SWRERDF4aU9DWkhzWjBkaElKMnU3dDhrdkFkTEZvWllVWVNNbmJBNDdNQlB0YkwzSznSAXRBVV95cUxNUXZiQjA5eHZCN0N2MzRiWm9pY3hwMlVzWEtuRkRHNHNGOHU5dE5KTDVXM2RrSjBxLXlGdjkwb1hGckFKUmp0d29FWlpZclBGOHBfeXJvSTRZR0cxbzR4dGdYZzlWZndwZVU4dEtISWZDRk9vZw?oc=5",
+      "s": "산경투데이",
+      "d": "2026-07-26T00:17:29+00:00"
+    },
+    {
       "t": "기준금리 인상에 증권사 CMA·발행어음 금리 인상",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UkxVUFAtc2J0Q2ZPUWRibUhyQzdhT0VKY3Z5Wm9BYk1KaVJRenJ5eWRwVndyS1ktZnJFa1ljTDJMdC1EUERybFZNdlctenp4RTM1a3loaUZkUFZtcXo5c1duT3dRRkVf?oc=5",
       "s": "2news.co.kr",
@@ -55,16 +61,10 @@ window.LIVE_DATA = {
       "d": "2026-07-26T00:10:28+00:00"
     },
     {
-      "t": "'롤러코스피' 멈출까…미 하이퍼스케일러 실적 발표에 쏠린 눈 [주간전망]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOb2UyeS10Xzh0SlhiQ3RmVFhxNXpuY3hBdmE0SURXaTIyanNpTmlxWXRDd3pwbkRmSFZKcnZOdzAxTldzbkJ0UmJzRlNpVjRK?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-07-26T00:07:26+00:00"
-    },
-    {
       "t": "금리 상승에 영끌족 비명…서울 주담대 연체율도 ‘꿈틀’",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnRuekNZTzZPRm51VDBCeXpPaENaVzhlN3ZfbzlLWmpaMEtJbHBWc0VTUmdUWGhrZHpUeTU4NVdzd09FZS10dXRzQ0swVVA4aXEtelNMcVdIRF9rRW5VYS1CZFhxbFVaaHBKMmV2QnNDem43ZGI4RF9zWm8tdFVTOTV2OVlYUdIBbEFVX3lxTE4xcE1TY3dwZnoyOUN3TFBCNTRqTVJScnRmVUpSN1pBRlJyaHB6QWNLMHRCd3o5d2JHamRna2dMcGU0Ti15X3BnekEyS0FkaXdfNV9sRUp3cmw5RXE1cFR6M3ByaHM5RWlVdkl4UQ?oc=5",
-      "s": "국민일보",
-      "d": "2026-07-26T00:05:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlYUFvT0piNmFzVVdNOHE1UzYyUjRwY0pBSlpXMkpZMlBNQnU4MGx2VDV1d01NeXRRVHo1NUFDeUJ0QU9IaWU0czRVNmhVYm8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T00:06:48+00:00"
     },
     {
       "t": "유럽 PHEV 3대 중 1대 중국차…'관세폭탄' 전 맹공",
