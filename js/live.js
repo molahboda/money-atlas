@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T19:15:15+00:00",
-  "quotesAt": "2026-07-26T19:15:15+00:00",
-  "newsAt": "2026-07-26T19:15:15+00:00",
+  "fetchedAt": "2026-07-26T19:30:15+00:00",
+  "quotesAt": "2026-07-26T19:30:15+00:00",
+  "newsAt": "2026-07-26T19:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "7,000선 내준 코스피…'AI 빅테크 성적표'에 반등 달렸다",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HYlMtSmh3cF9yaE8zY2owRE5ocTJZZlFTQTI5NEtobjRORTduQXM2b0tTQ01EN0pxYnpqanloaVhoRXplRkZrTExkQXk3Z2tWY2VkTnVRSjhlb2ZGY1E?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-07-26T19:23:33+00:00"
+    },
     {
       "t": "'삼전닉스' 도전...창신메모리, 오늘 中 증시 데뷔",
       "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMDc1cGluSmZ6RFFCZk5MMTJiUWpaU3lRZFAzSVJtVkJLaFVFYVgxMldNUjZYLU40alhGcHNJbVM4NFU5VmlnNC1XS2xraEZmRzVj0gFYQVVfeXFMTldRVFl4UlpnNWFCZDNNRHRGWjB0MFBpTGw1MlFuczNOcHl4LUFZM1RsbU02Z1E4RXRkMktGa3UwR01BNC1BYklrc1hoTGhSaEdfdkZGM3p3cw?oc=5",
@@ -55,10 +61,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T17:57:00+00:00"
     },
     {
+      "t": "원전 멈춘 대만, 해상풍력 8배 확대…반도체 전력망 지킨다",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVNIBbEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVA?oc=5",
+      "s": "임팩트온",
+      "d": "2026-07-26T17:43:25+00:00"
+    },
+    {
       "t": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kWkpYQk44RjgtSDliT0hlcEF2UThJMVQ2azcxenlhRUZ2aC1wd2owNHczb2doVTNfUXRUNk1tdFFqTlNhQWc0M25YUlh4eUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T17:36:09+00:00"
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTTJ0MzlOY0VKUDVmSXJ5YnRhaUs5RkZVbUpRSG5KQXAySjgtZDcyT3JuemVQZ1o1RnYyLTd5UnNXWEZFUEZNV1pFQUc2eXZ0dVNfdC01Q3pIVFJJbDdFNWFGRVZlcHJEd0NTN9IBbEFVX3lxTE9NTTJ0MzlOY0VKUDVmSXJ5YnRhaUs5RkZVbUpRSG5KQXAySjgtZDcyT3JuemVQZ1o1RnYyLTd5UnNXWEZFUEZNV1pFQUc2eXZ0dVNfdC01Q3pIVFJJbDdFNWFGRVZlcHJEd0NTNw?oc=5",
+      "s": "국민일보",
+      "d": "2026-07-26T17:34:00+00:00"
     },
     {
       "t": "FOMC 프리뷰: 유가 급등에도 Fed 동결 전망, 씨티는 비둘기파적 결과 예상",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHFqRFY0bktpTTUzVHdfNVViU1EyS0lmc2pyck0tWTFQTWtXQnB1ZnJYN1FtcWJoOG9LTkZnT1VBU242RThobVJzUzlMZlZtTXVFRXpKal9ScGhDVjgtT05NMEZkQkFxRHo2OTJkSWpzS3ljVEc0dzQxNG1VZmcwRXJxM2FHM3ZVSTVzZ0I5aw?oc=5",
       "s": "조선일보",
       "d": "2026-07-26T15:51:00+00:00"
-    },
-    {
-      "t": "K반도체 ‘1400조원 글로벌 AI동맹’ 뜬다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94U0k3S2kyT25vN0dMdTVfUjdRMWNLZ3RHT3BOOUFlcnhBMVhxOGp4Si1aanI5WUgxc2lzS2JDODdmTzVDSWVzdXFNYzY2eXpwQWVsSVhPSlpkbW5FRGc4WnR1REZITUo0eENDWGdJNFI?oc=5",
-      "s": "서울신문",
-      "d": "2026-07-26T15:39:32+00:00"
-    },
-    {
-      "t": "견제? 활용?… 중국 AI·반도체 규제 놓고 갈라진 美 빅테크",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGVmOXBLcVZIekhpMVp1T25wYXBiaV83ZVE4MlB0NU9pTnFpUzJmc1pYd050QWNMTUpKcXB2VjhEbWZmTHlOTWc1RTVhNTJNbFN4aWZPbUhEcFBMcVk5bkc0dzVBNnBDcDJ0SDJEYXZiZmRzTGFLOF81OUh3Zy04czk1TQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-26T15:36:00+00:00"
     }
   ],
   "asof": {},
