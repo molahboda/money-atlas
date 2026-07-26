@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T00:45:15+00:00",
-  "quotesAt": "2026-07-26T00:45:15+00:00",
-  "newsAt": "2026-07-26T00:45:15+00:00",
+  "fetchedAt": "2026-07-26T01:00:15+00:00",
+  "quotesAt": "2026-07-26T01:00:15+00:00",
+  "newsAt": "2026-07-26T01:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,36 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "이재명 대통령 “한국 반도체 공장 없이는 전 세계 산업 안 돌아가”",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjJCTmc5WkdsQWxzMlpFR213YS1vb1pQWmtuTlNsMnFBT1VBZUFKbVhnSjR0UC02NFRFNzhZSGE2b1FacmRSdjNuSVNnYU9GM0NQaWctTDBVUGdJWnV0QVJwOGlsMHFDY3FNb3BQZGFjSUwtcmxyQTBONmtzdTlYQW9CSTBScDAyaWc?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T00:52:22+00:00"
+    },
+    {
+      "t": "에이피알, 뷰티 디바이스 핵심기술 내재화…반도체 R&D 본격화",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92dEJnbnBNRVdTaTdSMllzME80aFRQeURPODNBQjc5VGx0WGpjLXJGUHFHZ1JZLUkzMXV3dnRsTGw0RUctX3ZnYXZHa0J1MGdJbVdiQllCYnhZQXZWMWRpVmV6aVQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-07-26T00:43:40+00:00"
+    },
+    {
+      "t": "레버리지 규제 초읽기…증시 변동성 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03QkJUalpNWWl6d1hIVk9vWEpxY2R3TEVfNWRkdmE5bnZtUk5JUEJiSlUyUnQteFpUekw5NFlQQUhsOWEzb0NFWTV1NU5QTXpmZHJ6aw?oc=5",
+      "s": "이투데이",
+      "d": "2026-07-26T00:40:00+00:00"
+    },
+    {
+      "t": "에이피알, 반도체 국책과제 주관기관 선정…뷰티 디바이스 핵심부품ㆍ시스템반도체 내재화 나선다",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xcnJqcmI0OTZ0ZHl5SFpJZnFPa0VxRG1VMUVSZ1cxQkhNWlJ0bWJEWUdGRFEwUVV2dElqaFZXWm5INDVRdFVUQUR4cXRMdk5fUzJoUUN6NklIdzgybFlKZmlGdllfb0V1UElwVTVkMzl1b21k?oc=5",
+      "s": "대한경제",
+      "d": "2026-07-26T00:33:23+00:00"
+    },
+    {
+      "t": "뚝 떨어진 원화 실질가치…17년 만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QaWZzQTRpRjNiM0R3akxsWUhvZlpJUzlYMnpwUUhhLXQxQUVaYTUtc2ptLThLTkJoWHZEd2JsUkI4anlOQUhZbWt2VGNndjA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T00:27:00+00:00"
+    },
+    {
       "t": "\"AI 시대, 쿠데타 이긴 경험 자산…韓 반도체 선도자로\" 李 대통령, 국정 비전 밝혀",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rSVpZZUhwUkJJV0ZOSjI2ekdNaS1iYmp3enVpWUhFY0gyY1RSVlUtMnFETldxcEFNOVhjY2ppd0RfVnltUHhxVzNVT2Z2RWpsYk5HTmpZMkpHV21zNzNsN0Rn?oc=5",
       "s": "이코노미스트",
@@ -37,9 +67,9 @@ window.LIVE_DATA = {
       "d": "2026-07-26T00:20:52+00:00"
     },
     {
-      "t": "국장 급락하자 미장으로…서학개미 순매수 4배 늘었다",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHZMSlFxTkFCa2Y5WnBrWUM1NWNRVHlVNGRMQS1acEtTYzRENzBKbmJRUUFweE9sWjQ2Z3hPaEVadS1LWUdaSXozdjdXZjgzeU5fU2RJSGRaclIwMGJvV3FISTZvNVZBTDhGLUFFZFdFbWZ1YWFPc1g1dVVrMGZQbXFzUkRmNnJhZGo4?oc=5",
-      "s": "조선일보",
+      "t": "국장 급락하자 미장으로…서학개미 순매수 4배 늘었다 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFlUOTNZLWw5ZXJ4TmxmSVNQVUc2UmRVbmFkb0g2Qy1sNkxLaFVYNTQwZEJDWVlqVkFYS3ZwZXhIN0NPNHNDeG1qenVTUEtPR0ZTZnR5RWRpOXl2U2hXVm5sRmt3OERfVFdsdXNocl9ydGlNUkxST1VxX1dyeTlLUGdzaUo3a2gx0gGcAUFVX3lxTE9SWE9sRlBKRWRfTkhsMG1HY2pGdU41dkM1MVlFYkJtN1JzNVI5YzVmOWIxbmtTUWVRb2JqUnJhazg0VmFRMm5PZlU1QnBGdDBqcXlvbGttd0d5YWtjWFR2SFRiRlhHbFJ3dHRfS2NDNmVlYkRlNHJZX1Q0MDcyb0NEekJ5X0pQdy0td2tXSi1YVV9DYlFiR3FhUU5JUw?oc=5",
+      "s": "Chosunbiz",
       "d": "2026-07-26T00:19:00+00:00"
     },
     {
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UkxVUFAtc2J0Q2ZPUWRibUhyQzdhT0VKY3Z5Wm9BYk1KaVJRenJ5eWRwVndyS1ktZnJFa1ljTDJMdC1EUERybFZNdlctenp4RTM1a3loaUZkUFZtcXo5c1duT3dRRkVf?oc=5",
       "s": "2news.co.kr",
       "d": "2026-07-26T00:15:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 중동 리스크·연준 결정·빅테크 실적에 변동성 커지나",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lbk51cFlGS3JQN2FnNXBXaGhXdjBINUF2Yy11bTJKMWI0elItZzhtbF9WR1E0NGUxSUtldm4teEZNZUVLNEVidnNLaFVTRGRVZXI0VFU0VjlORkxibjhYZURkSXJCOTJ0N004NzFDLUbSAXRBVV95cUxNSmFEbTVYaWhPcTlPTVFPZzZpOGctOUlZX2lqekQzTVJoLXpaSGpZQS1tU2dxUk5pczUycV9uT0hkWXhaVTNTcXc1MmwtN0xZNlp2RFJpU1dtSjFOa2s5cy1QMGQ5MVRMT0RNcEwyaHlrN0cyNA?oc=5",
-      "s": "산경투데이",
-      "d": "2026-07-26T00:10:28+00:00"
-    },
-    {
-      "t": "금리 상승에 영끌족 비명…서울 주담대 연체율도 ‘꿈틀’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlYUFvT0piNmFzVVdNOHE1UzYyUjRwY0pBSlpXMkpZMlBNQnU4MGx2VDV1d01NeXRRVHo1NUFDeUJ0QU9IaWU0czRVNmhVYm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T00:06:48+00:00"
-    },
-    {
-      "t": "유럽 PHEV 3대 중 1대 중국차…'관세폭탄' 전 맹공",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4am5VeEhYSG1YNXo1b0JQbDhrZlY1UjltSWNYSEd6bHBPb3BfcWxfNkxIY0dzSnRKbVpyYXhlUzV4Smo2aF9GRTBFOGs0cnFGekpZM2hXbU5rR1NvdjVQUVpDUQ?oc=5",
-      "s": "더구루",
-      "d": "2026-07-26T00:03:14+00:00"
-    },
-    {
-      "t": "코스피, 미·이란 충격에 6600선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mRVBPX2RabXZ5ZGVrRDdmMHFNOVlOYWJ1eXo0QWZtTHRQTVV6anlib0JwZU8ydTJqWG5JUXBPMmJ4UENkY3ktNXdNUWlHQ0RXQmZPajZoTGVGRHM0M2F5ZFBibFE0bVNZ?oc=5",
-      "s": "2news.co.kr",
-      "d": "2026-07-26T00:02:00+00:00"
-    },
-    {
-      "t": "1년 반만에 은행 예금 연 3%대 복귀…금리 상승 빨라진다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkUUNsRVU0Umx6dFJMcjZJWXNmOXNEWnk3LXZ2QmFPVE1DS0w3SHBmcmJhWlp2allkSGlEN2JPcnBNYXBJdG1DT0gySXJzUDhrZmJ2ZklGWEVXRHRTei1sOFNENTBxZDZCeUNVSzdXWEw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-26T00:00:27+00:00"
     }
   ],
   "asof": {},
