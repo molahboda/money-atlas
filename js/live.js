@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T04:00:15+00:00",
-  "quotesAt": "2026-07-26T04:00:15+00:00",
-  "newsAt": "2026-07-26T04:00:15+00:00",
+  "fetchedAt": "2026-07-26T04:15:15+00:00",
+  "quotesAt": "2026-07-26T04:15:15+00:00",
+  "newsAt": "2026-07-26T04:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,52 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[박근종 칼럼] 미국 12.5% ‘강제노동’ 관세 부과, 총 상한 ‘15% 마지노선’ 반드시 지켜내야",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWdtM1lNN0FsYlQtR0NCZERUdklyc1RHTG5yc3AtZG4xTFFzdTlGS3o1WFdmUU1SN2EzUnJ0M3pwMHZZOG1ackpZY0I?oc=5",
+      "s": "시사일보",
+      "d": "2026-07-26T04:06:00+00:00"
+    },
+    {
+      "t": "CXMT, 98억 달러 IPO로 상하이 증시 역사적 데뷔 앞둬",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hYmN3ZUlPYTRzSjhwVS1vRER0RFFPQ2Z5cFo1aGV3MENlcncwcl8wdkZBbWVzTTNjMll4S01sZzhQYm15aFk2TlpWenZnQmdHYWhnYm1XSTRpWXh1aTdfb3ZhZnB1aU8yRXhvWWVhS2Y?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T04:06:00+00:00"
+    },
+    {
+      "t": "[기획]다시 불거진 관세리스크…수출기업 부담 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EMmJ5VTVYQkdlWXV1Nld6SkpPU0ZENDBuejVBcXp3ZVBESHBOdUszWF9qdlg5Ym5DTWY5SlEwdm5qSnVhcks5UTljN3o5R0pzR2FPdTJFMnBtXzU1RzRtNThRQUg?oc=5",
+      "s": "매일일보",
+      "d": "2026-07-26T04:00:00+00:00"
+    },
+    {
+      "t": "한미 빅테크 1400조 AI동맹…반도체·AI ‘대체불가’ 공급망 구축",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41LTltdXhPSGthLVBDUjhDZ2pVMkxjYzFCR0RGYmR3c09raG0wWGhQaWNrcDIzOFZzTC1BdXBMZkR2SVZpVjJMVVRjalQxdjh4dWFzY1VjUzZwLXVBbEVUTw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-07-26T03:58:23+00:00"
+    },
+    {
+      "t": "'한국국방반도체 협회' 출범 … 초대 협회장에 석재왕 대표 선출",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45VWdpMFVGZWVXN2t2YkxHaUhwd1k2MTF5MFNEM3pNbnFKam5FQzJYT0hKS0dBOWVqMEk3d0hjdzhMYzBjSXdzWmFfdXIwMEhhbG1jaHRsX1JST2pCcTZ4ck1B?oc=5",
+      "s": "충청비즈",
+      "d": "2026-07-26T03:57:28+00:00"
+    },
+    {
+      "t": "레버리지 규제 강화에도 코스피 변동성 '안갯속'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTnI2Y083cmRteUtYR2gwODRoRkJQN2MtSDdBMnZwNTcxNFMtTTd6cXJvNjB2TEZzZnZMRDU1a3NBczdMbXJMT3NlY2lHMjlMTHprMGhKaDJfd0Noc2xWYkE3SW5YWl8wdV9BRGRwdlQ?oc=5",
+      "s": "신아일보",
+      "d": "2026-07-26T03:56:31+00:00"
+    },
+    {
       "t": "수원시, AI 반도체 첨단과학 연구도시 기반 강화…국비 100억 원 확보",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DVXhOMjNSLUh1djZJcFVwUzJMUjVxM28yMGk0eE1scGtndkV2akduMy00ZFNVaHpZOGV6YW54SFdkc1RhNjJ6dHhGNEliaXk0YlhzQ1pXaWdOSUgt?oc=5",
       "s": "뉴스핌",
       "d": "2026-07-26T03:44:00+00:00"
+    },
+    {
+      "t": "트럼프, 무역법 301조 적용해 60개국에 최대 12.5% 새 관세 부과",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2dMYTYzeVRwNjRFX1BlSWRmMnI1Qk5XSlZhOGpmN2JOTTFkVHhpNTBDeWxHLUxHem9tRTR2YmJ2Y1RQVkUtajZ6M3dITk83S2VlMmp3aWF2QnhWbE90TUpvZy1fSEFGb05hR2h6WVM1bzNVMEZHeVhnLW1OcDVCMzZZOEVJdzRO?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T03:40:41+00:00"
     },
     {
       "t": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSEc3SnMxZmkyODJQTVVwbHBmeGJWaUdVZzBwOVhjWWdQOHRzLXFyR3hBc3ZlUl9qeVlvQWtZejJjM0ZBV25UN240TzhnRDRqbkFRQW5pNE02NEJSdlNXSkY3VjFTUTlRaDJQRFF3?oc=5",
       "s": "아시아투데이",
       "d": "2026-07-26T03:37:48+00:00"
-    },
-    {
-      "t": "UNIST, AI 반도체 성능 높이는 설계자동화 기술 개발…동작 횟수 평균 19.6% 감소",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HSGNzZ3ZCY1I5Y1lsUkpxWENaT2N4UHRlZkRhVERuRUNaZDVqaUgtZy1RMnJSaURBbWFfdnhKTDhjZ1o3bkt0eGprLWFfWGVOVlFvQmo2ell5MENUSjBj?oc=5",
-      "s": "헬로티",
-      "d": "2026-07-26T03:23:55+00:00"
-    },
-    {
-      "t": "[사이언스게시판] 샌프란시스코 AI 서밋 개최…韓美 9500억달러 반도체 협력 外",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fLWNmbl84U2Jobm55dzczd0dkTFoxLVBFc2Z1Y2JlX09TYkZXQ2lCTnlNUUpScE11a3BydDZkLUNtS1NtTldVSEc1UDVMTjQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T03:20:09+00:00"
-    },
-    {
-      "t": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15R0RhY205Qy14REtZUm1sTXFoOXBhcGVUc0o5Mk4xYWhQV1c1TnhPbm5saGpzdDlWTTVKQWpZOHVyTHduWGtMODh4MVY3ZmM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T03:09:39+00:00"
-    },
-    {
-      "t": "중동발 인플레…원가 상승에 '외식물가 비상' [뉴시스Pic]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRV2x4ZDZHcDJ6VTlYbGVjc1JiYXYwaHV2ZFJHVUxudzlSZHhYRVFpbEZEdTBHNDRQdHJrTXBSTWx4RElyeDlLSk9lS0pKRWRxalk1VFduZlRBOVIwQTAxYdIBeEFVX3lxTE5mNGdVMml5bHAtVE8yVWlPa2p6QTdaLUV6LVpJREVibUgtSXNHSUJzeWxfNkR2LWVlMklPMHBQMWpZbl9jR21TMG1OZERHZWNjaXpSTmVmWW53cFRZclk3anljbERaa3NMYkM1Z2JhR0RaY0syR0RFbA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-07-26T03:02:43+00:00"
-    },
-    {
-      "t": "엔·달러, 40년 만에 최고…엇갈린 원·엔 동조화할까",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnVktvMDRlMERpOWJoZm5hdHNYZllLVld3VFBRLUgzU0RhMWtLai02OXN2YlF0NzlEMVh2OXBXaUhxUVVKOGo4cF9lc0M3OUpnVG9TQk9vWkVmaDcwaktpTXQwUUM2QUFPSFZUSS1LYk56OFkx?oc=5",
-      "s": "대한경제",
-      "d": "2026-07-26T03:00:19+00:00"
-    },
-    {
-      "t": "달러보험, “환차익 기대하는 불완전 판매 유의해야”",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDUDFRR01yeHJYZktiNTE4SVFXd3BQbFJBYWJKZXc0UkVjLXNZelZ6VHpYa05La3BDWlhabmVTNUJtdlVtV1R0UmhCMzQyNndUX2w4Y3gtOTJBbDRKdHNNdmxSa1lXY0F3TVZYUnJLZFZtOWlW?oc=5",
-      "s": "대한경제",
-      "d": "2026-07-26T03:00:16+00:00"
-    },
-    {
-      "t": "[주간증시전망] 줄잇는 빅테크 실적 발표…7000피 안착 시험대",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWg3Q1ZnaFlkY3FGcUYxa2NGel82U0hxZnlGNEhvazVNTzZyR0dnWE5URXFiN1B6bmNFdHU1a0VFbXBGN1R3NkJKakV0VlRKRDhrZ1pPbjl0SldTZ1dWN25GbWllTzF3SE00UlhqZmduY2hRaTFyVFdsYXNVbjFsN3RQUWhMZVk?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T03:00:00+00:00"
     }
   ],
   "asof": {},
