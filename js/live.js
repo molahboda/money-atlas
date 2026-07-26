@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T20:30:15+00:00",
-  "quotesAt": "2026-07-26T20:30:15+00:00",
-  "newsAt": "2026-07-26T20:30:15+00:00",
+  "fetchedAt": "2026-07-26T20:45:15+00:00",
+  "quotesAt": "2026-07-26T20:45:15+00:00",
+  "newsAt": "2026-07-26T20:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,15 +25,51 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "개봉박두 ‘삼전닉스’ 실적…변동성 딛고 코스피 반등 이끌까",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncFRMVHJBbHQ5b0ZwcDctYzEtbWxqdFE0bVNKYnhpU2hqM3FZb05tZjROVkdqU2hvZ2Q2djNWbmZtZW13SEhxUjZYNmdhaG8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T20:31:29+00:00"
+    },
+    {
+      "t": "주식으로 돈 잃는 사람들이 흔히 하는 결정적 실수",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1VfdTFKSWtSVDI2ZnJrYV8xVDNva1BkeEFpdlhrcE9pVjdDUGNYVm1kTGZ5eFdsSHU3TDRka0pqNWlwYnZLdnlVbF9UdF9Cd1NxUm5jRVVSbTJXYm9FUmNEWDBnY3c1UkRjMHV3c1h5X2ZRV0dHeXNEVE1FSFhCdg?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-26T20:30:00+00:00"
+    },
+    {
       "t": "2026.07.27.(월) Signal Digest \"반도체\"",
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNDc3ZmhKdFFnRWZ2bkdoRnl5cEZJbGQtNmh6SXY3VW9vTEpKOGhNX3lnZmVsU3FpYmdSTnJfb2tMY2JaT3FDNU94cXlnNVpJVC1xRm5pblhteWhIQnhBN293dWdxNEEwMUVMLU1SQTFBYUNNSFZEdHdfSDZqLXM1ZnhR?oc=5",
       "s": "네이버 프리미엄콘텐츠",
       "d": "2026-07-26T20:08:05+00:00"
     },
     {
+      "t": "[韓·美 빅테크 1375조 빅딜] “K-반도체는 대체불가”…장기 공급망·차세대 AI칩 개발 주도",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUEU5SmFZZFl3ZXFZTW1ZVFUwUC1STmpvUzl3ZlhfUGtVemVIcHg0T3VzdFV4UmVVZU1xdUhSRy14aE1TdDhHSDlpekxBN2p6YTItU09iQ2pqLTdpbEp5Z1Jjc1QyUEJrdFNLbmlyZWJYZjJ5?oc=5",
+      "s": "대한경제",
+      "d": "2026-07-26T20:00:25+00:00"
+    },
+    {
+      "t": "반도체 협력만 1375조 ‘빅딜’… 韓‘3대 AI 메가프로젝트’ 글로벌 확장",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Pb3FrY3MyZVhEeGxaaWZhZ3JVTnRsSS1meGdsdXgzUWRnRVNzc05tREZQdUxzN3V3YVF2cE5CQ2s1V3hnV0F3alhvSjBZajRSWVhDMXJaQUE5WUpJUi1DMUpuV0IwdzRQQVN6QzV6d2F1R0Ja?oc=5",
+      "s": "대한경제",
+      "d": "2026-07-26T20:00:22+00:00"
+    },
+    {
+      "t": "물가 잡으려다 5년…유류세 인하, 출구가 안 보인다 [네버엔딩 유류세 인하]",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTS1owTUs2aWlBQjFuTGJMOUw3LUJ6a21KVE1KQ2l2RngzR0V5R2xsYkxXc0VGdDN1Mnk2WUs1WnowZGVjakRrb3locXcwcE9UWG5tVg?oc=5",
+      "s": "이투데이",
+      "d": "2026-07-26T20:00:00+00:00"
+    },
+    {
       "t": "“삼성-SK, 美빅테크와 9500억달러 반도체 협력”",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4RXpmZWN3Y3hlVzZScUlhMndLRWhZTVVrZ1BmZFBBQWlYZFUyRC0xQkVJV2VqaTlpckJVcEx1YW9iT3k5SnIwXzBuaDZXQktyRjQ4N0FCOUZ3UTFJNUNVRzA4eXRNT2tKZktDY09uRmtjQVQ3dzBz0gFmQVVfeXFMTTRxZE10TzJ3cVh6VWNHQ0ZDTndXbnVoaGVkcXhNMmNQRm54M1hiUXVMNHc5Tld4Sks0WU9FaWZIbmc2ZDVKMGs4UUZHQmZRc1RpRW8yeWdQWVhGUkd0dEgwQUpDcHRR?oc=5",
       "s": "동아일보",
+      "d": "2026-07-26T19:30:00+00:00"
+    },
+    {
+      "t": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra0VmNkRHMG4wOHFjWWI5aFJYVWY4R3RXQVZMeUxENjh3clpXRnF3SlpjZ3NDNmJMX1hPRzJDWWM4STFCQVhfMzBCSW5feHJVV2V3c3NmMnNMZw?oc=5",
+      "s": "파이낸셜뉴스",
       "d": "2026-07-26T19:30:00+00:00"
     },
     {
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9naW03bDMzYV9sdnVtX2ZGcFN3bVZyQ0lTa3hoSGQxTTBPS0g2bHg0MHEzRkdrbDJzb3NMaFl5VWZEbUtyM0Y4UjcyQzBRU0NHM1VFb1ZNbnBWZkNxTERoNEpzYjJfX0xoWk1qZFNEWTVTbHZGSXfSAWZBVV95cUxPZGdGcnBCeHlmT2FTWWhMb2o1c3lsVGR6YkdESEVRUnZZbnB0bFlpd0wzWXY1U2NnUXljdEtzMUk2dlAyZUdWejczU3g5QnBUTUNza0pVb2Z2Y2lwYjQ4X1pySVhRREE?oc=5",
       "s": "동아일보",
       "d": "2026-07-26T19:30:00+00:00"
-    },
-    {
-      "t": "7,000선 내준 코스피…'AI 빅테크 성적표'에 반등 달렸다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HYlMtSmh3cF9yaE8zY2owRE5ocTJZZlFTQTI5NEtobjRORTduQXM2b0tTQ01EN0pxYnpqanloaVhoRXplRkZrTExkQXk3Z2tWY2VkTnVRSjhlb2ZGY1E?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-07-26T19:23:33+00:00"
-    },
-    {
-      "t": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeklZNmstYU90Xzd3TDJqaXBNdTEtSFBaaWVRaE9vU2hPSWFUZEZrYVREQVMxbkI1ajZzcW0xTWNNTFN0UUJ4QUlFRS1BVl93QmNqcUxXWHB4R1lYYklxWWFFZWRib2EwWDR2bDZRb0o3Vm9McFdkTkpUUjRxa3BCblBWODJ6T0Zy?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T19:15:00+00:00"
-    },
-    {
-      "t": "삼성, 메모리·파운드리 '두 날개'… 원스톱 턴키 경쟁력 본궤도 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZOUVPYzlEVmdGeFYtcl9wQnBpT1RENDJpY2FmX0lqNlJkdzI0TkpnNm5ydDdRVklFeTBZd295eUFGTnE3ZE5PRkNnbUVHbGhFUF9FRDVzc2xEdktnb0xjOG5vZEpKd0JWaTNFadIBckFVX3lxTE5mcXpMN19oQlljZjVKam9kOF9sV2FQWHRNUWhDci1hXzFaLVN4SFJuS3BHRjcxRVZpREZhLUFISWgwb0Ntak9Yb3YxUUliSXJlbndzVnByT2xWZVF1RTJPLWUwQUxzV2FMWnI4LUpOR0xzQQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-26T19:05:00+00:00"
-    },
-    {
-      "t": "엔화·코스피·영국 국채 흔들…글로벌 차입 비용 급등 경고",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUdYaE11a0xNRF9sdmQ3MDJiRWtyVHI1Zkg3ZGVDRnJ6RWw3Z0FNZ1UweG1xUEhTdVF4WnVGRnZyb1ZzM2V5TlRtY295NFRuZ2NCUy1FQ09KRDJLYjhQdWZHUjd6MThobk1PLUtjZDlRczV4VW9KbWhGR0NiTE10cnVHeEpRemtP?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T18:55:00+00:00"
-    },
-    {
-      "t": "AI 온오프가 뉴욕증시 흔든다…S&P500 종목 분산 52일로 급증",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHBSbHB3Y3dWZmRPVUFGNWlJUGFRRlMzZnRNZUdDajhmVjk0cHdMWGJnYlk3MHZtM2JSd2xIYkZyM2ppQWs0RW1vNW9kT1cwRGd0NmozdGVtQ2NHMDByemc3RDhXMWVJTWswTDdja2pGTGJhb0ZrV0lVaGxhT1BiZWlhbVVESkxT?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T18:15:00+00:00"
-    },
-    {
-      "t": "야르데니, 워시 연준 의장의 인플레이션 타깃은 무엇인가?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T17:57:00+00:00"
     }
   ],
   "asof": {},
