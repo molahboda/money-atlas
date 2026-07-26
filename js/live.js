@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T06:15:15+00:00",
-  "quotesAt": "2026-07-26T06:15:15+00:00",
-  "newsAt": "2026-07-26T06:15:15+00:00",
+  "fetchedAt": "2026-07-26T06:30:15+00:00",
+  "quotesAt": "2026-07-26T06:30:15+00:00",
+  "newsAt": "2026-07-26T06:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "미 ‘강제노동’ 관세 부과에 석화·가전 긴장…결국 ‘과잉생산’ 협상에 달렸다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wbHAxSHVKRnpSaXBoU1Rlb1YzMjI3MkpkY1YwSm5MOVYxOHZHYlpkTkRPdHlCZWcwa0dNSmJ1NDFPMGtOY29hSzE1cjhGVmJzTmFGb2FsdXF1d9IBX0FVX3lxTE9yTDZlZVg3VklsY3owTndVWThfQ3BEc3pvd2M0QmJYNHdJeU9RVnNRTVZhSUxjdEJ4Nm9LeDRwVzBkSGg3U05GbW92V3lUUHNTLXpRZmQyNFJmOHl6ZnVN?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-26T06:16:00+00:00"
+    },
     {
       "t": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxeXgtaXZqWS0zb1FlUmFyblllY2drc2FlRUd5U3h3Z2RoTTF4SUFGWmotMGdOMTNxbmM3aS1mamJZSzFJWlJzdzYzMndJcmtoX3VoRDMzTEZ6U1Zfbm8yUmM3V0JqRGduR05sODJEUmE?oc=5",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T05:36:11+00:00"
     },
     {
+      "t": "[이번주 증시] 국내외 기업 실적에 주목...FOMC도 관건",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGaWFDR08wX1huR3FnODZsQy0tdm9MNFNheHZKUk15T3lHQzN6Z08zQ2VXeXZnRS1kSWlFcXFUNXEzRXV3bHQ4dkZYMGNfbzJxLXNlQTNpZjA0d2l4RlZBeWkwSUVvUmJJaF9IRUhzbE0?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-07-26T05:35:30+00:00"
+    },
+    {
       "t": "[이번주 환율] 일주일새 22원 급락...달러 강세에 추가 하락 제한 될듯",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qaTh1ZkwzM0N5T1hhWTZvNlozZ1V6NWhzMFlXOEFIU3RCc2lfTzdhRGp2NTFKdnpaMEc0RjkxY04xbzFoNGJFQm5LUVJxTFo0NTRWT1EyNGdLeXhWbUN5RWhWM1l4elhfZkszX0NEQkE?oc=5",
       "s": "오피니언뉴스",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZjFUZkVjQXdPWG1ybGZBZWNyRDk4TVppbE9ILVJNdHRFNHNjbTltSGJJN2MzWllBaXh6RGZoTzJZSXpBRUhlSmRZRThGUHZCQ3hUc1RoNDQ4dURRREIyMjRLNF91NDBUS3c?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-26T05:32:00+00:00"
-    },
-    {
-      "t": "中 반도체 규제 두고 애플-마이크론 갈등...트럼프 선택은",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFJZNmxtanQyb0dOdjRvV3ZpWDJGTU15a0ZONjBlMjlqcFpnRHMxOGRrRXMyZmVVdE1ETWRUVGo1VkRlTktFNzlYTUg0cC1mNlhXZzBuR2dFckpFZkNMSmdST25FR0JKMkgtMDN6cFZUTmhIZDRNeElrTkIyTi1MdTVxcw?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-26T05:31:00+00:00"
-    },
-    {
-      "t": "이재용, 오픈AI 본사서 샘 올트먼 만났다…AI·반도체 협력",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ya3RZaFlYdmxmUktpWW9YaWNJQ2R6Q2hqY0RZOElod0dqT2N4NHN3U0E4NGxDYTZPdFBieUh0WTU1TXJVdnk5bVgwMG5hU1FndVJSNEtn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-07-26T05:20:43+00:00"
     }
   ],
   "asof": {},
