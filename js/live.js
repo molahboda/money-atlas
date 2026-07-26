@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T03:45:15+00:00",
-  "quotesAt": "2026-07-26T03:45:15+00:00",
-  "newsAt": "2026-07-26T03:45:15+00:00",
+  "fetchedAt": "2026-07-26T04:00:15+00:00",
+  "quotesAt": "2026-07-26T04:00:15+00:00",
+  "newsAt": "2026-07-26T04:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -18,17 +18,29 @@ window.LIVE_DATA = {
     "kospi": -1.58,
     "nikkei": -2.73,
     "krw": -0.92,
-    "dxy": 0.03,
-    "gold": 0.6,
-    "wti": -3.12,
+    "dxy": 0,
+    "gold": 0.08,
+    "wti": 0,
     "vix": -0.64
   },
   "news": [
     {
-      "t": "에이피알, 뷰티 디바이스 반도체 R&D 박차…\"핵심기술 내재화\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PS3BadEFkamdsYzdyZnM2X2t2Z04wWGltdFp6UVNpLTlMcE04YkVyTElkRU5EcVM5S0FUbDlkcklSR2VyaVpucjdISnpoaUtTR0R6dHNJVUhXblhmaXNvajNOOC1ITEJ6eGfSAW9BVV95cUxORjdTaTMyTERvd2JwbnhhaTRnY2NNTmNCMm9QQkxLeDVYRFFlTFhCMFNZdEMta0Z3VVFESUVrZjRPZUxYMmZNb0w0X1hRS1d4QU9EbnZXY29VUmJtUzhIc2p1LVlmS2VnOUh4YUIyLTg?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-26T03:40:18+00:00"
+      "t": "수원시, AI 반도체 첨단과학 연구도시 기반 강화…국비 100억 원 확보",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DVXhOMjNSLUh1djZJcFVwUzJMUjVxM28yMGk0eE1scGtndkV2akduMy00ZFNVaHpZOGV6YW54SFdkc1RhNjJ6dHhGNEliaXk0YlhzQ1pXaWdOSUgt?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-26T03:44:00+00:00"
+    },
+    {
+      "t": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T03:40:41+00:00"
+    },
+    {
+      "t": "트럼프, 60개 경제권에 관세벽 재건…한국 실효세율 상승·세계 물가 이중 압박",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSEc3SnMxZmkyODJQTVVwbHBmeGJWaUdVZzBwOVhjWWdQOHRzLXFyR3hBc3ZlUl9qeVlvQWtZejJjM0ZBV25UN240TzhnRDRqbkFRQW5pNE02NEJSdlNXSkY3VjFTUTlRaDJQRFF3?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-07-26T03:37:48+00:00"
     },
     {
       "t": "UNIST, AI 반도체 성능 높이는 설계자동화 기술 개발…동작 횟수 평균 19.6% 감소",
@@ -43,26 +55,26 @@ window.LIVE_DATA = {
       "d": "2026-07-26T03:20:09+00:00"
     },
     {
+      "t": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15R0RhY205Qy14REtZUm1sTXFoOXBhcGVUc0o5Mk4xYWhQV1c1TnhPbm5saGpzdDlWTTVKQWpZOHVyTHduWGtMODh4MVY3ZmM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T03:09:39+00:00"
+    },
+    {
       "t": "중동발 인플레…원가 상승에 '외식물가 비상' [뉴시스Pic]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRV2x4ZDZHcDJ6VTlYbGVjc1JiYXYwaHV2ZFJHVUxudzlSZHhYRVFpbEZEdTBHNDRQdHJrTXBSTWx4RElyeDlLSk9lS0pKRWRxalk1VFduZlRBOVIwQTAxYdIBeEFVX3lxTE5mNGdVMml5bHAtVE8yVWlPa2p6QTdaLUV6LVpJREVibUgtSXNHSUJzeWxfNkR2LWVlMklPMHBQMWpZbl9jR21TMG1OZERHZWNjaXpSTmVmWW53cFRZclk3anljbERaa3NMYkM1Z2JhR0RaY0syR0RFbA?oc=5",
       "s": "뉴시스",
       "d": "2026-07-26T03:02:43+00:00"
     },
     {
-      "t": "트럼프, 애플-마이크론 '중국산 메모리' 갈등에 샌드위치 신세",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NTUVxTGVxWGEtNnlOd3pXUTZHMThzVVctWWFBMFRCX1dlV3IyTmpWV2c3eTNvbm82anpRcHlUQXB4YVo4eGs0b2RYY29HcEVHTl81a2x0RXJZZ0YtZVRYcGJkN3VLNFJYTHc?oc=5",
-      "s": "AI타임스",
-      "d": "2026-07-26T03:02:36+00:00"
-    },
-    {
-      "t": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zQy0yb1ctX3hkQ0FJaXR3MFU5Y1FBS2E3N1dLUW51UmRBdG53MWt6UzVpNWhJT09SbnB3QVJPaWlJQUtQcUxVS1VDTEVHZ0tYSWlXZUpFdzdxRU0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-26T03:02:00+00:00"
+      "t": "엔·달러, 40년 만에 최고…엇갈린 원·엔 동조화할까",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnVktvMDRlMERpOWJoZm5hdHNYZllLVld3VFBRLUgzU0RhMWtLai02OXN2YlF0NzlEMVh2OXBXaUhxUVVKOGo4cF9lc0M3OUpnVG9TQk9vWkVmaDcwaktpTXQwUUM2QUFPSFZUSS1LYk56OFkx?oc=5",
+      "s": "대한경제",
+      "d": "2026-07-26T03:00:19+00:00"
     },
     {
       "t": "달러보험, “환차익 기대하는 불완전 판매 유의해야”",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczUtclpqZU5Vc25EdWhSalZTQjBzY3ZFRlRuWmxVb3pXWGVRYmFkNXFEZTNmM3ljTmxCV1AySkFOWURNSFdscEs1QnhocGYwc2NRdnBSb3VVOGZCbW5QT0J5aHd6c2JrVTM4ZHBnaXNxLVU0ZFUwOFRMMkI3V0RvRUpvVFNadw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDUDFRR01yeHJYZktiNTE4SVFXd3BQbFJBYWJKZXc0UkVjLXNZelZ6VHpYa05La3BDWlhabmVTNUJtdlVtV1R0UmhCMzQyNndUX2w4Y3gtOTJBbDRKdHNNdmxSa1lXY0F3TVZYUnJLZFZtOWlW?oc=5",
       "s": "대한경제",
       "d": "2026-07-26T03:00:16+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWg3Q1ZnaFlkY3FGcUYxa2NGel82U0hxZnlGNEhvazVNTzZyR0dnWE5URXFiN1B6bmNFdHU1a0VFbXBGN1R3NkJKakV0VlRKRDhrZ1pPbjl0SldTZ1dWN25GbWllTzF3SE00UlhqZmduY2hRaTFyVFdsYXNVbjFsN3RQUWhMZVk?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T03:00:00+00:00"
-    },
-    {
-      "t": "[국제] 美 기업, 60개국 강제노동 관세에 소송...\"정부 권한 넘어서\"",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNnNHT2ROS1VWSnhNeHVfMUwyT0pvd29rb3dHai1FS2dNeFJYajJoVFJPWlk2V2JWM1BLQzJfek43NC1Mc01GV1g0Qk5NU0tjTUhiaUJaY3o2cThGTnltZjNUVVpmLXpUNEc4?oc=5",
-      "s": "서울뉴스통신",
-      "d": "2026-07-26T02:56:46+00:00"
-    },
-    {
-      "t": "트럼프 ‘강제노동 관세’에 신문들 “편법 쥐어짜” “피하기 쉽지 않아”",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvRmRKVFF3Um80dUdaM254a3Raa1NNOFRZWGJlamVDemZfNnc2WVpGVU03TFBURFV0SmI0cG5zcmFCajBGeGJKWW5sWEQxMWJ1OUpDLThYdEJORXoxZFFZMXAtakJhVzlaZ0xDZTktTkk?oc=5",
-      "s": "미디어오늘",
-      "d": "2026-07-26T02:43:05+00:00"
     }
   ],
   "asof": {},
