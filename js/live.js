@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T02:00:15+00:00",
-  "quotesAt": "2026-07-26T02:00:15+00:00",
-  "newsAt": "2026-07-26T02:00:15+00:00",
+  "fetchedAt": "2026-07-26T02:15:15+00:00",
+  "quotesAt": "2026-07-26T02:15:15+00:00",
+  "newsAt": "2026-07-26T02:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,16 +25,52 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "회사채 금리 2년8개월 만에 최고…증권가 \"투자매력 높아져\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcDZoUm5MQU9JVGNoTGVXb0EwQzhGa3VDQ1UxQWtOVEU0RFg3cl9FbGRDZjJ1QXU4U1B2MUZVSFkweTFoWHhFVnk2clp6a3dPWHZaOUhMTEhGR0FZdF9qVtIBeEFVX3lxTE05MFNQZVJVSDVTWkV5MEdaSnVMT2M2UWhyVXBFT0lpZXlZOGxFUExFNFJaVVlGVFFRM2gtRG9DVGpHcXRaTVVjOUwxQ0MyRTViUlB6Z2NFWm56TkJ1Mm9lLU50WDExVUMyWFI0SWFobjlBTEJBd09oZQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-07-26T01:53:29+00:00"
+      "t": "수원시, 산·학·연 협력으로 첨단 반도체 연구기반 구축…국비 100억 원 확보",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PbnlrNmtMSGx5d3lKcHA5VUlzRGJ6VGRIUzFlMXNMSDNBeW5Gc3R0bExyc1A2LTVuWWs5dXBPOUpMU2t1dzNkYUdmZW5MUktvRnliZVJCMFNheENwNU0waXhn?oc=5",
+      "s": "경기신문",
+      "d": "2026-07-26T02:10:26+00:00"
+    },
+    {
+      "t": "4일 연속 순매수하다 변심한 외국인…“투자자도 이제 한계”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByNHpCVUJZeVpkOHhmY3BuWjJ2dUh3VHhVQ2R0QlpwUkNCbnd4ME85bEwxamU1aDVSemllb0tMV0dGeGZHS1FuWW1mdjE0X2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T02:04:38+00:00"
+    },
+    {
+      "t": "미 301조 관세에도…올해 수출 1조달러·5강 진입 이상무 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50WktfOUR6eExyemlCVE9hOHlRbzJ0eHA3WVZiMk5kQ1doN0FQR2plNEgzQjdWUGtEWlhYbmVJcjh4d1ZYWi1vUjhhNm5qS3gzWHk2QmNYTkRGamlya3djR1Y0Y0Q1UEVKOC1j0gFwQVVfeXFMTXFHWWxnSmJVVjFuVzlNMUlycWlJS3NLeEo2Z1NzRUZZWGFIaHpoQ1pMeGVkREFyTXRGcDJCUEdnaV9KajlWVjhEc3VxcFh2X1p4aUNLNnFFRU9DcURGY2pfdUYwdVhDeXhrZzd0b1JDVg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-26T02:03:51+00:00"
+    },
+    {
+      "t": "긴축 시작한 한국, 미·일 기준금리 향방은?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41TE5qS3pGMDZHSnVuU1JvaE91dFZySFZ3MUNhRXBXaWs1YWEtd2tZZ1VOaTk3ZlJnc0c1UHVGSDFHZlFzRXFPZWE5ZlBpMlRJeHVVUnoteTk3UkFqdFBfajM3YnFDRlZNTWc?oc=5",
+      "s": "비즈워치",
+      "d": "2026-07-26T02:00:02+00:00"
+    },
+    {
+      "t": "1,500원 벗어났다고 안도했는데… 원화값은 17년 만에 바닥",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GeXVsVVlvMnRveGhHTExya19jVmEySldTdFlOYVVTRE5TYmpoQUFjanI1VVhnSlhyeWN2WHd5QnVnUnJJMlRJeGMzSGQ1RWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T02:00:02+00:00"
+    },
+    {
+      "t": "유가·관세·환율 ‘삼중 변수’… 한은 연속 인상 가능성 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMU1UNUdLQWdubldhY1V3YVl0OXhxS0ZXelRZQzJ4bTlRX1dqZHlWZVZZa0VDMUlfOWhBTS1VUTB5eVRxWU9sMFQ4R3UtOEFWYXdCNDdsUkxfRGVGY0dhSVJJNzFjNHlYb2c?oc=5",
+      "s": "천지일보",
+      "d": "2026-07-26T02:00:00+00:00"
     },
     {
       "t": "배고픈 전북에 ‘반도체 떡’을 달라",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWIzc3BfWTNUM2NWY2tYcEVrVGFHbEV4bmcxNzNWOWZGdmc2Z21vT1NsYWN6Mmg5ajJTWXVBR2VFQ3FuTUlmRVEzbllWdm4wbE5ONnBJUXlPN2lrRnFIUEQtdzNad2Q3SFJ2WGdPSGJEV0gzVkNucGF1WThvaVB2dU9ZTkh3bzA?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQ3lybDN0bVR3WmI4N0FDeGdzaUxRSWFQc3dIUjVmNHoxcklBUVVTT1h4OUo2bHF4S2xBajJJY1YxeEpKN3kybXVNX3FLMExTWTNhN1JYcjQxdUs2ak9GNnM5VzVVYTJuQzdF?oc=5",
       "s": "전북도민일보",
       "d": "2026-07-26T01:47:16+00:00"
+    },
+    {
+      "t": "[주간증시전망] 빅테크 실적·FOMC ‘슈퍼위크’…반등 모멘텀 찾을까",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPVTV5VXVxczFCUHFIZ1ZoVEJRSFdmbHNrTXJ6Y1JjNzl3Skh0alQtaWdNaGVKejV5TURyY3drUlZxZ2ZpbEJybXg5TDBlRjhMOXNGVWVOQUpkUQ?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-07-26T01:41:00+00:00"
     },
     {
       "t": "개미들, 코스피 110조 살 때 ETF도 70조 순매수했다 - 조선비즈",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VUF90aDBvUG1oQS1jd0hJcVNTNnY3THdaT043T3U1YjVUNC1wcnhqSkhwcFFrY0NiRXA1clBhZ1Frc0pnLVMza1FZclpPZUpXLTNkYkdHMDZGV0lpUngyU0ZrMlBxREJ1WWhJNDRPSFNHejVUSDRGVG1oa9IBgAFBVV95cUxPa1NZQ1N0bU93TXBVaWp6dGhSUFUyNzdhMWJlRG40WlFLdEZHVFdvbUVmcVZuRE9ieVZ1NFRzZlNYWkptbG1SZUhmRGYybWRWVGhReExkd0Vhc1N4UWZuY0Y5VEctelZpZWR3Y0p1Ni1nSnFyamZKekJENmlncG94RQ?oc=5",
       "s": "뉴데일리",
       "d": "2026-07-26T01:36:26+00:00"
-    },
-    {
-      "t": "샌프란시스코서 글로벌 AI 투자 이니셔티브…9500억 달러 반도체 협력",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WMHlUQ0dUMUtxc3lvZUxETkJtMjZ3V0JIT3ZTUmhTYVdtYkpHWVdwSElYNzJiSm96VFRrS29Hc19ldE1CcjNyeDF3Z2JvR2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T01:34:00+00:00"
-    },
-    {
-      "t": "에티포스, 국방 통신반도체 개발 착수…한화에어로·TTA 참여",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIU1NLaUZfcTVVY0lxNUNreEtiazVkam1jcExOYnI0ZktaSXY4VW13WHFHS2dQQlJEOUFFZ2VfbWpIdzR4cG5nbDJVVmJNQQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-07-26T01:32:39+00:00"
-    },
-    {
-      "t": "2분기 성장세 확인…기준금리 ’연속 인상’ 힘 받나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWLWFmTG1IMkxacU5ndkFxSFhGRDVxbzdySWpQQ0U5NWU5U25RRGpqa3NiV0psVmVBNmg0NlQ5SE9SRHAwTFE3NzBSWENwaDh6MkRqS0dRVEh1ZlVDaFBzdzFjdTZqRUE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-26T01:26:00+00:00"
-    },
-    {
-      "t": "[김이코의 시장분석] 금리 변수에 주식시장 '긴장'… 미국도 흔들린다",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fWThYSG56ME00bi0yUklLdnUzM3BmU2pQZGJTNjNBakw3Zkt1WUNsQVhQZGx6VXdoZHVPTlRzbzdva09wclhLSm9maUJRVUx0aXRweg?oc=5",
-      "s": "미디어펜",
-      "d": "2026-07-26T01:10:25+00:00"
-    },
-    {
-      "t": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFfdzM4RVI4d2ZmeUZkNENxZEl4dHVOY2NBNFNCRDJ2ak9KaEVwUHJ5dm16a21CcWdMWDVTS0tiZHNjQTVydzRmUGNQVzFBNUNJMG0xSHdxblRMRlZGaG5hdkQyYnhOendjd3NUMDhsazF1YTd1ZGd5S0FFOVpEMktEZ2p1WEl50gGcAUFVX3lxTE5BODcyNkhEaHM3MWkwSE9ZU3RrRDlGOVY1ZmRyVmJBQ3dwdVQzeVlDbUdmOWszR21rVHZmTGFFa0k4Q2ZMRlE1QWp4WHhUNXFKZHcxTXU0TEs5T0tHdzNZaDJuWWpTVk14dm5xUmpDSjBHdThCQ3BwdFRhdmVYaDd1RW9yZ05UM2F1RHFsY0VfdEpOR1cyMTljcUJWcQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-26T01:10:00+00:00"
-    },
-    {
-      "t": "“실명 환자눈에 반도체 칩 심었더니 소설책 읽었다”…유럽서 인공망막 상용화",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XOF9xZFJ2RGpfX1QzQzV5QU0wR2JvblFDN0tISVpERU03bmJBaGRfWTVZa2dURTlWWW9Kc3lqczVOc2plUXZ1X0JNY2I2dw?oc=5",
-      "s": "전자신문",
-      "d": "2026-07-26T01:10:00+00:00"
     }
   ],
   "asof": {},
