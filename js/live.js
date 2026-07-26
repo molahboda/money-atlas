@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T15:00:15+00:00",
-  "quotesAt": "2026-07-26T15:00:15+00:00",
-  "newsAt": "2026-07-26T15:00:15+00:00",
+  "fetchedAt": "2026-07-26T15:15:15+00:00",
+  "quotesAt": "2026-07-26T15:15:15+00:00",
+  "newsAt": "2026-07-26T15:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "[중국증시 주간 포인트] 각국 기준금리 발표, 7월 중앙정치국회의, CXMT∙중제욱창 상장, 삼성∙SK하이닉스∙ MAG7 실적, 산화지르코늄 등 제품가격 인상, 고체 리튬배터리 표준, 차이나조이 개막",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VcU1waU9XWmMycWY2SDZPaUZsY3lkNEE2T2owdVpWYzdqOC1YZVkzVHFldmhWRU03d0MtdGRHSGwxT3pjLVJUcDByT0ptX0xNemhOSlhnNDFFUzNJ?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-26T15:04:00+00:00"
+    },
+    {
+      "t": "국제유가 ‘홍해 쇼크’…하반기 ‘물가 3% 사수’ 비상",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11RWluOGY5VzhYRnBmblg4RU9FSmx1OXdKLUl6QVliaUhEYkN4M0dCUlRNTVRRRDZ4OFlPS3VsY2x0TkpNdi1ra2lzaWF3WWFaMVVsck5R?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-26T15:02:00+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (21) AMD... 엔비디아 \"게 섰거라\" 실리콘밸리 불사조",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbEUwNHAxdUNDUGFYVFR3WWVSMGJNUUl6U0o5RnJwdHdDRGthM25Sc2Z6QV9ReHJyZ2tvVkdveTB3V3JwS0FfMWVuV09VVFR4b1ltWE9fQjBIOVlzMVFDNmtNVlBQLTFCaFJvM1Bmd1EwbG0wUmhla0F6QnVSb3ZieHhFMHI?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T15:00:00+00:00"
+    },
+    {
+      "t": "美 WSJ \"SK하이닉스 ADR 프리미엄, AI 거래 과열 신호\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qb09lNUlpT1ZLVFl1ZFFyRUJqNzZWV3VIbEJBUDB4X0dRMEpIUGFIejhoOHpNaGF5VUxENTRqSTBjT2VOQURCQ1JHVTFZdFZEOGc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-26T14:55:47+00:00"
+    },
     {
       "t": "[전규열 칼럼] 중동·관세·환율 '퍼펙트 스톰'…'공급망 투자'가 경쟁력",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtVTVhb2h5S2dKVnNhOU05TXRSMUFiVHd5eVdjeDkwbmF4V0trSTJmWmxQMDBWNTFZQ1lJQk5MeUV3ekJfSVJrNF9vLTJ2T0VzTjJuNXpPOV9aUjJuelM1Q0pLdmpCWUhPX1VELWFB0gFyQVVfeXFMTlh6RV9BMjBVOUtwMjBJSWN5elhpVFFRbGpVZmlXdkczeWhuQUZRNFEzXzJVS2JTSTROTGwzbHpEN1R2bGJFU29QYXpOVUdlWS1Td2E1ZGp3YW83b3N4Y2VuOFItVWtfbm5yU0pPMzVBMFJB?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRTl4b0o1YU1sTVAzYUppalBvN1NTMEx3aWdOU09COTRVVzNubS1NaXc0Q0lJTTk2UmROalRHczQ4dVc5U1F2M2FrRERNbjA4eXRvaWJuSGl5Q216Rk1RZA?oc=5",
       "s": "KBC광주방송",
       "d": "2026-07-26T11:52:58+00:00"
-    },
-    {
-      "t": "7월 코스피, 국민연금은 담고 개미는 탈출",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRTRxdDRqUVZkNS1acVRHV2ozRWoxWjdnN0k0OFFKNUpEWElOUWt6aHBicnRaeDBYMlRnOURNUm56c3ZHcVlmNWpycTNpMy05dzQ2LVd3Z0Vmd9IBX0FVX3lxTE15blhKR0tKSXphSnRRRHdxQnNmZU85RGtQSWV1cmhBTFowMVZ1S1paWUVNT2hldGhEWmhvc2hyb3RzNmQwQm9zdElONjE0SjJiVWwtU1k3bnhqejJmUWhR?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T11:45:00+00:00"
-    },
-    {
-      "t": "국립목포대 화합물반도체센터-동신대, 반도체 우수 인재 양성 '맞손'",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90MVl5NVVXemRKMnBnVXBmbkdYX2V5TlNOM2ZlakphdkFTX0tsdGIxR1BlenFFODI2YWd0SFdpcEJ1RF9TN3ViNTFYTTdQZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-07-26T11:43:45+00:00"
-    },
-    {
-      "t": "[헬로즈업] 휴머노이드 로봇 1대에 반도체 칩 1,000~2,000개 탑재",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSjRaWXJaZFNLN3g5TFloc0tmLU1qNnhjRFNBUEd4Y25zQnhGd3VxS2pLNE5zbENrbU9GNzJUbVUyWlQ5VndHa0xBb043ZGdtT0QyOWdqSDlRNENzaDAw?oc=5",
-      "s": "헬로티",
-      "d": "2026-07-26T11:19:46+00:00"
-    },
-    {
-      "t": "이재용·샘 올트먼 샌프란시스코 회동…AI·반도체 동맹 강화",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5Q0xmU1RHNmZRNGdDX01jTDlWLTJlVmgyLXZZd2U2cWNBMV9XbWtaN1NsVDZreG5wbHFyaXBXVXBmWUdCQ0JpeFJNWjBlOUQxZXlUd3ZOZFVKQS1qeUhXXzlFZFQ?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-07-26T11:17:55+00:00"
     }
   ],
   "asof": {},
