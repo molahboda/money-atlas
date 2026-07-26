@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T05:30:15+00:00",
-  "quotesAt": "2026-07-26T05:30:15+00:00",
-  "newsAt": "2026-07-26T05:30:15+00:00",
+  "fetchedAt": "2026-07-26T05:45:15+00:00",
+  "quotesAt": "2026-07-26T05:45:15+00:00",
+  "newsAt": "2026-07-26T05:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[이번주 환율] 일주일새 22원 급락...달러 강세에 추가 하락 제한 될듯",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qaTh1ZkwzM0N5T1hhWTZvNlozZ1V6NWhzMFlXOEFIU3RCc2lfTzdhRGp2NTFKdnpaMEc0RjkxY04xbzFoNGJFQm5LUVJxTFo0NTRWT1EyNGdLeXhWbUN5RWhWM1l4elhfZkszX0NEQkE?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-07-26T05:35:29+00:00"
+    },
+    {
+      "t": "기름값 하락세 끝나나 ‘중동 긴장에 국제유가 상승’",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQV9nbHJ4Ym1xR21FVF91SlA2cTNoeTN3b0hNRWxUdDYzSlFFYXR1QThnVFF4YXUyN0tCSmFuZ1Z2RU14VTZrR0d6ZEJyM1lGeHV4OGUxSXVoWEVKRlJXMnpvSVhBdS1ndTZBd091YVNVZ3YtaWVjdmdQSWlPLWJHNXY3d2lpeHpHdnVnbHM1Q3FiVk1HWEHSAWxBVV95cUxQclNRZ3ZlWXd4eVJQVGItNWdnVm9zRmRUVTJ0NlJvbDhhODZ4OGtaclpTZWVjaWctSGxuNlJVN0VZbjlTVkU3Ny12WDNuenplZW5sX2ZXeVc5X3l4T1ZFbE5zMW4xMWd6bHB3S1M?oc=5",
+      "s": "국민일보",
+      "d": "2026-07-26T05:32:00+00:00"
+    },
+    {
       "t": "이재용, 오픈AI 본사서 샘 올트먼 만났다…AI·반도체 협력",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ya3RZaFlYdmxmUktpWW9YaWNJQ2R6Q2hqY0RZOElod0dqT2N4NHN3U0E4NGxDYTZPdFBieUh0WTU1TXJVdnk5bVgwMG5hU1FndVJSNEtn?oc=5",
       "s": "중앙일보",
@@ -38,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "해외 반도체 시장 탐구 ② 일본, 왜 반도체를 포기하지 않았나",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa01veXMxaDVDc3VSSktIdDhmZmRtVDVLcDV1bW5yZFpHdFVOLWhhUWN3UVJ6ZWtLNXp1WTdJVWQzOUFIUWdNTjdIWUYzMGl4ZzlMbUxQM0UyUVlBTlFKbUNJeTlIU1p2T2FweVRmM3VZa2x4MURaOUlnMkszSm9xZWdtSU9RaTQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QVkU3SmgzcHVyV085c1dhTTIydENOdWl2VEdUVmlIVTFyZUJHYkhnTUZzbk9fd3pCNWhOYnF4eWtmOGdkNjdMZ3FNUEs3UGNER0U3cEpWNmhxWGxlVjlJLWFSRE5aX0ZxYXc?oc=5",
       "s": "전북도민일보",
       "d": "2026-07-26T05:08:44+00:00"
     },
@@ -47,6 +59,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PM0YwcWNuY1FoY0Fqamc2NmExclZ4VGIzRG1RU1pmY1c1VnRsLTlaNUkwTFRUTmJFMFdOU2cwRmRvR2pGS0p6LTM0akZtZ193WTQxZmVjUHRQZE9ManBXM0dmcnJYVHBFdDUzSVl6TWI?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-26T05:07:18+00:00"
+    },
+    {
+      "t": "[주간환율전망] 중동 긴장 누른 달러 공급우위···FOMC 주목",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTDY0enQzdVBuT2hXak14Q1ZZZ3pHZFVqTThyOXhKTlQ2cW8tYml1NUFQUFZCdGZLdjJtZW1PQ3JlZ19nTG9hdDhqMkpxaldmNmNNbnR4NTJ4TjBEaThzTmY2Rk5qYXhjemc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-07-26T05:05:21+00:00"
     },
     {
       "t": "젠슨 황 \"코스피, 다시 오를 것\"…'맥주 회동' 반도체 업황 호조 언급도",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yV0k1bXp6bm1QRXoyRG53eEJfWGxxOGxqeEZmN3k2UWlwWnlEeWtua2xEaUI1bnd6QjJBc05tSHE5c2pmWENmMnhaVnNVTWlVMEdmM05ZNWE5Mm1LS1N6SDU4Y096Z0tJRmlKTFNCONIBc0FVX3lxTFA3Z3ZjVWxWTF9oZU1PSkd0MHBaNDBhSnlZRVh2cEp0eXRGdEZscGlVaTktNm5hUHBqQmZjUzV4SXdBQTB5RDdXNHJBbC1ibFYtc2paVGt5RURDOVVBZGtOQTc5ZTAzNWVNaE5ydkV0LTYzNVk?oc=5",
       "s": "뉴스웍스",
       "d": "2026-07-26T05:00:00+00:00"
-    },
-    {
-      "t": "李, '샌프란 AI 선언'… 韓美, 'AI·반도체 초격차' 굳히기",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xT1VSWHNnelg5dlJBYVRWYVpsOEZpVXRJM3ZJUzY3UG1pUUFpSFVZT1lwczE0bzZZaEdlWlE1NVJIVlp3XzVmSXgtQWpnUQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-07-26T04:58:27+00:00"
-    },
-    {
-      "t": "靑 “국내 기업-글로벌 빅테크 기업, 9,500억불 반도체 협력”",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uTzBybkRoYnBFcnMzZEVMVTN1dERoakVaNWtvaHlXMEFqQTdla3E2OVV4U0tDY01wSTlyZlZ3enVWamVuTWFiTHJ6ZHNUdHlFTXJWbzhkd0k?oc=5",
-      "s": "강원일보",
-      "d": "2026-07-26T04:55:09+00:00"
-    },
-    {
-      "t": "이재용, 오픈AI 본사서 샘 올트먼 회동…AI·반도체 협력",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HVmJNM1VZVU9kTVBFWFd6LWJ3T2l2cTI4ZFY1VmJYMEFaN0JuMkxVcmxrektXOFc2ZGxzcENKUUFwVkx1SmsyMmRuZGN1UjA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T04:50:11+00:00"
     }
   ],
   "asof": {},
