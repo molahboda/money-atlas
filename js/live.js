@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T06:00:15+00:00",
-  "quotesAt": "2026-07-26T06:00:15+00:00",
-  "newsAt": "2026-07-26T06:00:15+00:00",
+  "fetchedAt": "2026-07-26T06:15:15+00:00",
+  "quotesAt": "2026-07-26T06:15:15+00:00",
+  "newsAt": "2026-07-26T06:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxeXgtaXZqWS0zb1FlUmFyblllY2drc2FlRUd5U3h3Z2RoTTF4SUFGWmotMGdOMTNxbmM3aS1mamJZSzFJWlJzdzYzMndJcmtoX3VoRDMzTEZ6U1Zfbm8yUmM3V0JqRGduR05sODJEUmE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-26T06:00:01+00:00"
+    },
+    {
+      "t": "美 301조 관세, 집행·유예 ‘반반’… 협상이 관건",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yaUFHOVAtWldRSXNVWVVOaWdyUGFOWFkxUUNjVENIUVdrZkJPUGtDWG80WnRlUkRiZXl1WTVxRW5uNUNETkwzUjZwc3l3cG9Cd3Z5SnpseUdvSVdHT2RhUTFXVXJhNEU5TWc?oc=5",
+      "s": "천지일보",
+      "d": "2026-07-26T05:53:20+00:00"
+    },
+    {
       "t": "대구 휘발유값 11주 연속 하락…국제유가 급등에 상승 전환 가능성",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdFF3RjZEbnJFVkxrd3I1VkZPTGVxNWJBOUhoaDBFWkRSWkhGRVlzNDNmUGZta3dHQWJqekx4bmExcG5CdWdXSlhSVll1QTA?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T05:50:03+00:00"
+    },
+    {
+      "t": "'AI·반도체 외교' 마친 李대통령, 브라질로…핵심광물·공급망 보폭 넓힌다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yRjhRdEJtZ3hyWld5RkY4NDJzR1NpWXhYSm1zS2VHbnZpT2YxakZidFFvS2xjYk1NTmxYNWE2WmlUMi1YdEJaNllUYVQ5UQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-07-26T05:43:49+00:00"
     },
     {
       "t": "지난달 원화 가치 17년 만에 최저…7월엔 ‘SK하이닉스 효과’에 나홀로 강세",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ya3RZaFlYdmxmUktpWW9YaWNJQ2R6Q2hqY0RZOElod0dqT2N4NHN3U0E4NGxDYTZPdFBieUh0WTU1TXJVdnk5bVgwMG5hU1FndVJSNEtn?oc=5",
       "s": "중앙일보",
       "d": "2026-07-26T05:20:43+00:00"
-    },
-    {
-      "t": "“신안염전탓?” 美, 한국에 강제노동 관세 12.5%…대만보다 많아",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTVVHWlJkVnJ3RDZTR194cHloRUMwazFjV3FZTGh1ZEtGMkdEZW9tVlFmWXZERUhiN21zZ2psa09YTjZJZDFmX3BWQzhhZVlLMU9Mc2VpdGFQd0FDaHA4ZUVkaXNuUl9RMG9lSmpyeHVJRGFsQ1p3?oc=5",
-      "s": "서울신문",
-      "d": "2026-07-26T05:18:12+00:00"
-    },
-    {
-      "t": "SK하이닉스 실적·한미 반도체 협력에 'AI 투심' 살아날까 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcEcxX0xqZ0pXdDVGbXQ5Z3FnbmZLSmNBbU1ncmJCLThsZjdTTF9vY2g0MGU2Y3IxNDNqd3ItZXU1MFVxSHBfcTdpYUZYZDJpVHlPa1RsbmNDZjdrWmp6NXRyRWM0V05o0gFuQVVfeXFMTUhKb2x0OE0xSW8zdVM3eG92a09hcG5MNDFGcU9QM0dlQ08tVmJaRHlLa1N3bWd0c1hRXzBHekZzY1gyUEIzQV83cFBfLVBWR1E5QWpLVDl6ME1BT1RTNXM5SURuWENuNzFMT1lvY3c?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-26T05:13:34+00:00"
-    },
-    {
-      "t": "해외 반도체 시장 탐구 ② 일본, 왜 반도체를 포기하지 않았나",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QVkU3SmgzcHVyV085c1dhTTIydENOdWl2VEdUVmlIVTFyZUJHYkhnTUZzbk9fd3pCNWhOYnF4eWtmOGdkNjdMZ3FNUEs3UGNER0U3cEpWNmhxWGxlVjlJLWFSRE5aX0ZxYXc?oc=5",
-      "s": "전북도민일보",
-      "d": "2026-07-26T05:08:44+00:00"
     }
   ],
   "asof": {},
