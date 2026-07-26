@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T11:00:15+00:00",
-  "quotesAt": "2026-07-26T11:00:15+00:00",
-  "newsAt": "2026-07-26T11:00:15+00:00",
+  "fetchedAt": "2026-07-26T11:15:15+00:00",
+  "quotesAt": "2026-07-26T11:15:15+00:00",
+  "newsAt": "2026-07-26T11:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "‘미 추가 관세 2.5% 밑으로’ 초당적 총력전…“3500억달러 대미투자, 카드로 써야”",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WHlnUlZpTU9vTnJ2ZG1uLUREdmp1bEJMakV1VGJQLUoxRTdQQ2NrZ0ZiellsVDVlNzhVeWNlSHpOM2dkbGQtZ3JWX3hNdlpuc2daMDBfa2hPNzZqa1FrSHFpa3VfMUFGenc?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-26T11:02:00+00:00"
+    },
+    {
+      "t": "[한주정리] AI 투자비 청구서와 국제유가 100달러, 미국증시·코스피가 동시에 흔들린 이유",
+      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0k5MC1MSDhobXlGSmdhajZRclQtWUkxSDJNN2pVeXp5bGt4UlAyOWJUQWFQTGVTa0g3R0Y3ZEF5aTZDaWgyWGRIZ3BIRTJrbk1JTmlvLVZPNjVWZDl0bzlNUFVnUl9IQ2YwWmoyZV9wMGRhdWRpWlBqanZ1QmZHMExUNWV1czZIRXBiQzNaZTVydw?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-07-26T10:55:00+00:00"
+    },
+    {
       "t": "[초점] 정부, 8차 석유 최고가격 동결…휘발유 1,784원·경유 1,773원 유지",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UalRNUjJNaDlaM2JFS1lxM1pKcWFjdEQ4c1FIUWFHdWtwQjloZ1VQN2l0YTRqcXl5dGdESHdHR1RQM0JyeEFLQkdpd0R6aUlaM21QMG5GRURENFE4ZHVkSjhocmNETmJocEd6UWxrZnQ1UQ?oc=5",
       "s": "에너지데일리",
@@ -37,16 +49,22 @@ window.LIVE_DATA = {
       "d": "2026-07-26T10:27:00+00:00"
     },
     {
+      "t": "[사설]사우디 농축 허용·관세 부과, 신경 거슬리게 하는 미국",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TeEhrY0xzREEtZEQwaVgwbERGY1VtZHNNc3BCZnB5N1g1WjB4OWEybmpCa3dUbXdEdHdpT2huWi1vMVpsUzNqZmMyTU03czB6U212RFcyODg0QdIBX0FVX3lxTFBrNjRWbXJqMlE2NUVXT0dUZ0dNUEYzYmdJVFVKdVdWMzAtSUlxdHRhV3A0SlQzeWUzaThaVWFIeWtYRDhTa1MtSmtnX3ZHdDNSZEpYTS1TNEtxaVhnY093?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-26T10:08:00+00:00"
+    },
+    {
       "t": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcWRScHNOeU5uMDBpQy1xXzZzSy0yY1NlN3JybG1sX2FQYnV5NnZfMlp0MFpSMzFKejRFMDM2ZW5BNTBuV0hIZHFkdlJ2bjQ5Rno4b0dwc25MQQ?oc=5",
       "s": "한국경제",
       "d": "2026-07-26T10:07:00+00:00"
     },
     {
-      "t": "영호남 반도체 相生은 ‘TK 긴급현안’이다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc0p6YmgtSGZ4QmlaSzM3M1oxWmpPVV9naDJnSURXUkNIT1VDT2xPQjZNMWNqRy0xUENHM0dHb1I2cEZaUGhud0steTB2RDllR25EMnpPNy1iQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-07-26T10:06:00+00:00"
+      "t": "[주간 증시전망] 레버리지 자금 쏠림 현상 완화 기대",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Si1tblBVQkUxRG9wNmRLLVRaQzZlU0dkWE1TSklyandwMEx1bkRRZ3NKelVURTVFd3pBc0UyQlBZLS1xYnlCNnJqcmFNRUlwaFQ2MWpFeVnSAVhBVV95cUxPeEotbW5QVUJFMURvcDZkSy1UWkM2ZVNHZFhNU0pJcmp3cDBMdW5EUWdzSnpVVEU1RXd6QXNFMkJQWS0tcWJ5QjZyanJhTUVJcGhUNjFqRXlZ?oc=5",
+      "s": "전북일보 인터넷신문",
+      "d": "2026-07-26T10:06:47+00:00"
     },
     {
       "t": "CXMT, 내일 중국 증시 데뷔…올해 아시아 증시 최대 IPO",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T10:04:00+00:00"
     },
     {
+      "t": "국제유가 불안 다시 고조…’물가·환율·금리’ 경고등",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kX0dWWkZOZnZCYlhpbEVnU3doaUtrOWVIWlFPRzVLN1ZGSmNCbnZ3cnVKVVl3YlFuZUZfYU9Ga0N1amJmZ0tKcGRGTk5QZXR3Nm15bzRzcmhLR2JqcVFNUnBzUkJ4WTA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-26T09:41:00+00:00"
+    },
+    {
       "t": "[기획] 젠슨황부터 올트먼까지… 삼전닉스, 반도체 초격차 굳힌다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52WFVaU3gxUFZMUFBJaElBQXdQR1hVM0dvZ3gwc1Jxc0JvS194ODR1M0M0NjZQQUppa0Jwdnlad2k5d0lZX0ZnMkNZaFV4NTQ?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T09:38:10+00:00"
-    },
-    {
-      "t": "“美 관세 15% 아닌 일본·EU보다 불리하지 않게 협상해야”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzVGhMb0s3eEpQRUNqb0Q4V1p4eGhmblY5SEFZSEdTUzVIcEtTbVYyLVNXTjFnTno4azJRS2d4YWlqU0VzdzhBbXJaeU8tSmU2QVlvLVlIMDlRMXY2Zlg4dWtZM2QwOTNKRVBETGp4Yw?oc=5",
-      "s": "서울신문",
-      "d": "2026-07-26T09:18:56+00:00"
-    },
-    {
-      "t": "[이번주 증시] 'AI 랠리' 이어질까…코스피 향방 가를 '슈퍼위크'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRmhaX3ZkNkhjSGVCSEVlbGxXNXlkS2pJc09fRTNKWEN5TzIyNFB1bnVWX1NVOHc4bkhWSEYxWS1GUDFOSkVvNVJXZHZjRUN3TzRtbjlxN0ZUMDB1a25YMjZMazhoSmZhZWfSAW5BVV95cUxNNHdnUzZEd0tZOVU1UDQxZzk1Yjc5NDF4eWRMbnFYSExGd3RoR0tSdkNjMElieVF6NUZDVWtwZmdoT0FSbDUxbGRSVmY0cGx3dUF2MUVmQUhiSVFBT1h4NHhnelpWWnU0bzRXbDhkQQ?oc=5",
-      "s": "뉴시안",
-      "d": "2026-07-26T09:18:43+00:00"
-    },
-    {
-      "t": "트럼프, 美빅테크 보호용 새 관세 예고… 인플레 비판에도 마이웨이",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5eEJUQ01IVHRtSFRic3F1VHRJVF9Fb0wyd0x3anpuX0gxVTF6MHNTNnlLbFdCUXJzTTVPTDY4Y05VcEYxaW5pMzZFNVVyNGkyOERxd05rWFViNGZoYU9vbi1aWTVPR2FsSFJBeUlCMThjSFnSAXNBVV95cUxQeXhCVENNSFR0bUhUYnNxdVR0SVRfRW9MMndMd2p6bl9IMVUxejBzUzZ5S2xXQlFyc001T0w2OGNOVXBGMWluaTM2RTVVcjRpMjhEcXdOa1hVYjRmaGFPb24tWlk1T0dhbEhSQXlJQjE4Y0hZ?oc=5",
-      "s": "한국일보",
-      "d": "2026-07-26T09:10:00+00:00"
-    },
-    {
-      "t": "“AI패권 핵심 K-반도체”… 피크아웃 불식시켰다",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lQ0dkZ2N4TFlwalNFaTdoZjhFVkhrWnhsNlNTei11emdtY3h0U21HUFhkejlSOW1XLXFvQ19VVGNWak0wNFV0Sm5YcHA0SzhPMW80eWxqbFVtbTZHVzZOWE1YM0RwLTB2b1hfRGNn?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-07-26T08:59:31+00:00"
     }
   ],
   "asof": {},
