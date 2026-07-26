@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T18:45:15+00:00",
-  "quotesAt": "2026-07-26T18:45:15+00:00",
-  "newsAt": "2026-07-26T18:45:15+00:00",
+  "fetchedAt": "2026-07-26T19:00:15+00:00",
+  "quotesAt": "2026-07-26T19:00:15+00:00",
+  "newsAt": "2026-07-26T19:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "엔화·코스피·영국 국채 흔들…글로벌 차입 비용 급등 경고",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUdYaE11a0xNRF9sdmQ3MDJiRWtyVHI1Zkg3ZGVDRnJ6RWw3Z0FNZ1UweG1xUEhTdVF4WnVGRnZyb1ZzM2V5TlRtY295NFRuZ2NCUy1FQ09KRDJLYjhQdWZHUjd6MThobk1PLUtjZDlRczV4VW9KbWhGR0NiTE10cnVHeEpRemtP?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T18:55:00+00:00"
+    },
+    {
       "t": "AI 온오프가 뉴욕증시 흔든다…S&P500 종목 분산 52일로 급증",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHBSbHB3Y3dWZmRPVUFGNWlJUGFRRlMzZnRNZUdDajhmVjk0cHdMWGJnYlk3MHZtM2JSd2xIYkZyM2ppQWs0RW1vNW9kT1cwRGd0NmozdGVtQ2NHMDByemc3RDhXMWVJTWswTDdja2pGTGJhb0ZrV0lVaGxhT1BiZWlhbVVESkxT?oc=5",
       "s": "글로벌이코노믹",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-26T17:57:00+00:00"
+    },
+    {
+      "t": "원전 멈춘 대만, 해상풍력 8배 확대…반도체 전력망 지킨다",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVNIBbEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVA?oc=5",
+      "s": "임팩트온",
+      "d": "2026-07-26T17:43:25+00:00"
     },
     {
       "t": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGVmOXBLcVZIekhpMVp1T25wYXBiaV83ZVE4MlB0NU9pTnFpUzJmc1pYd050QWNMTUpKcXB2VjhEbWZmTHlOTWc1RTVhNTJNbFN4aWZPbUhEcFBMcVk5bkc0dzVBNnBDcDJ0SDJEYXZiZmRzTGFLOF81OUh3Zy04czk1TQ?oc=5",
       "s": "조선일보",
       "d": "2026-07-26T15:36:00+00:00"
-    },
-    {
-      "t": "삼성전기(009150)",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2FDaXJ6VHdSUUFhY2FWV1FnbUwtaTF3LUtxbU5wRHYwcW9Rb1FWZlMyb2x1NjZnWE5SSHA1Q0pQODh4LU9ieV9RYWxXR1FScWxpQjFtSFF2Zi1iblpHcGJialZlRWVNaXJvTlpvWXE4ZXRLdElBV1ZLb1NaTHQ1Rlpua0xWZ0Zici1pNElXSElKQ05FSG5V?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-07-26T15:35:08+00:00"
-    },
-    {
-      "t": "\"수급 꼬이며 하락한 증시, 단기 저점은 6300선 안팎\"",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1ZjX0ZJV1FpaXVpaUhCQ0tDWXNWNmFCd1BCc2p6X3hQT0h6VG9wVEwydnZqTHZPakxiRFpmYVVWNzRDVkhMVnRWYnRUNXBQSHlKamIzcG9SdWpzRlZFTzNaSTVwM3JmWWgxMnVObVVPckxkcER5WFVmUFRrZVpQXw?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-26T15:35:00+00:00"
     }
   ],
   "asof": {},
