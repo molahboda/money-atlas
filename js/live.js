@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T21:30:15+00:00",
-  "quotesAt": "2026-07-26T21:30:15+00:00",
-  "newsAt": "2026-07-26T21:30:15+00:00",
+  "fetchedAt": "2026-07-26T21:45:15+00:00",
+  "quotesAt": "2026-07-26T21:45:15+00:00",
+  "newsAt": "2026-07-26T21:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,7 +25,31 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美 반도체 보조금 재검토 논란 확산",
+      "t": "美 기업 실적낙관 15년 만에 최고, 증시는 제자리",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1NfZVg0dTBuRUJ0Q2l2Tml2VllYTmhOZXF0NWNrMlNYYl9VNEwwR2ZYOGpyZS1Ec3loTVF1Zk5QYW5HRi0tRDhuZkNuSXkyc3RBUUJFT0ZDSFhyZzZQaDRxRHhXVlg1bDFQT0dQc0V6VmcyeXJQcW9zUGdUQmZxS1hDNGQ5ckls?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T21:36:59+00:00"
+    },
+    {
+      "t": "[뉴욕 주간전망] FOMC 및 빅테크 실적에 주목",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oSktyZ3Jub1NwMUgzOHYwMk5VakJEZTA4bl9fX3p0eXRJc2ZNUkdBdGdUWGczWk9tRlE4b29MeVBlWXQxcHlxZGJpSkxoZG9XTERnNTQ2MHpiVVZTVWtSNEgtWWZPNHFYUE82TEQ4anc?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-07-26T21:35:00+00:00"
+    },
+    {
+      "t": "AI 돈잔치가 공포로 바뀌었다…코스피 운명 가를 ‘실적 슈퍼위크’",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mcjRaaFIyVVJ6V3FZMS1xcVVucm9uNmhqSjh6OWp0NjU2UW1XRWl3dzJDN0JWMnhDQnhpWUpwZVh1S2hKWDdLV3ZGZ3hHaDMyMGNUQw?oc=5",
+      "s": "이투데이",
+      "d": "2026-07-26T21:30:00+00:00"
+    },
+    {
+      "t": "중간선거는 증시에 부담이 될까?",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR09sOFZIZklVMS13M0NmaGNEdzZheGtKQTJiWFNtUjJvMm9rWkhJckd1SUJnTENQVjA3UVN3RmZzUlBLNURLQURVb2V3VFBVektYei13QVJQQ05hdXVxRzQ2UzN3T3pYYXBjZXQwZXI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T21:24:00+00:00"
+    },
+    {
+      "t": "美, 반도체 보조금 정책 재검토 논란 확산",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0Z1ZlZEZkhKN3FtTU5razZ0bTJ5SUoyLTA3cXpQUUwyWXJmWVV5MG1fYkQwVGdWYmlmbW9OREUwM1ZYTU1Fa3Nvclh4YUd0UVZxTkxDOFNDNVQ3TExsQlFCZUROMzVWbGc4dzlyenp2S1FySGFVaTRoYVVnODhhWXZ6dGlLTmh2?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T21:23:18+00:00"
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVZjM3hpY3k2NXlmdkNKTHB5NUVURkQ3UE14Q1B4M3FncDRnNlhkdUMtbjl6eWlnZ0dGMUNVN0VDcVBUVmd4aEREX1FrUjhXS3k1Tjhwdl9Sa19VNHpXZ2pQTDlhWjFMMWlJc3hfNlAzb2MtbV9KQzJpQk1ObkY3T0xfSWd1Ry1p?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T21:06:44+00:00"
-    },
-    {
-      "t": "SK하닉, 개인은 미국서 사고 국민연금은 한국서 담았다…‘매도 폭탄설’ 무색",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ILTVlTVRnQzJlUFNhQXZvNGc2SGM2MVA5N21yV2VSNFJQNFVlM1NPTll6ZFJiYk90aTNzam9JeURZMWdNd2pJUnI4X28waUltMnA0bEdJNTRLWk52WG1PM2NIRmdjWUNsVDl3VGNR?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-07-26T21:06:04+00:00"
-    },
-    {
-      "t": "[코스피·코스닥 전 거래일(24일) 주요공시]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EQzNjZ3AyWmVFNTBCTFdGMjdRNWdtTjdONFFtU25HVWZXYThiVWF5dFVJZFdmSlRuRncwNzdWV3lZRWM3VjBFQk1XalVGOVdfajdfbmVCWHlnNjDSAWBBVV95cUxPVW9QSFBqZUlyNnRuZlBhcEp6X2RVR3Y1SHo2YndhRjczYThlaXNYWExhOGNja3gtTy1CMlh3SVVic09veUpCeDNDbmVIVHVOMEhpdF80Nm5ZaFRIOFVfOVk?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-26T21:05:00+00:00"
-    },
-    {
-      "t": "안형준 데이터처장 \"AI가 매일 라면·계란값 감시…물가 조기경보 구축\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSZGlxRVBDNGNCSU9VbEsta3d4OGdFZ1VMekhIaE9HMEN3SG9teE5PQkNuc1hIRC0ybnZiRGFyeHpDNUlKMURsX1hENWxBNXc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T21:02:30+00:00"
-    },
-    {
-      "t": "[미리보는 증시재료] 삼성전자·SK하이닉스 실적 주목, 美 FOMC도 변수",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jYzlYN01UaWZsbVVEeW1UTy04SThCUTRhTWNpS0xaTXgtR1k5bDdYdWVjWDZiUWI0QkZEUXFUbE13MjMyREFjWEpZUkxvUUEwY2dTdGNORFJqNFdZ?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-26T21:00:00+00:00"
     }
   ],
   "asof": {},
