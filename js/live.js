@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T03:30:15+00:00",
-  "quotesAt": "2026-07-26T03:30:15+00:00",
-  "newsAt": "2026-07-26T03:30:15+00:00",
+  "fetchedAt": "2026-07-26T03:45:15+00:00",
+  "quotesAt": "2026-07-26T03:45:15+00:00",
+  "newsAt": "2026-07-26T03:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "에이피알, 뷰티 디바이스 반도체 R&D 박차…\"핵심기술 내재화\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PS3BadEFkamdsYzdyZnM2X2t2Z04wWGltdFp6UVNpLTlMcE04YkVyTElkRU5EcVM5S0FUbDlkcklSR2VyaVpucjdISnpoaUtTR0R6dHNJVUhXblhmaXNvajNOOC1ITEJ6eGfSAW9BVV95cUxORjdTaTMyTERvd2JwbnhhaTRnY2NNTmNCMm9QQkxLeDVYRFFlTFhCMFNZdEMta0Z3VVFESUVrZjRPZUxYMmZNb0w0X1hRS1d4QU9EbnZXY29VUmJtUzhIc2p1LVlmS2VnOUh4YUIyLTg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-26T03:40:18+00:00"
+    },
+    {
       "t": "UNIST, AI 반도체 성능 높이는 설계자동화 기술 개발…동작 횟수 평균 19.6% 감소",
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HSGNzZ3ZCY1I5Y1lsUkpxWENaT2N4UHRlZkRhVERuRUNaZDVqaUgtZy1RMnJSaURBbWFfdnhKTDhjZ1o3bkt0eGprLWFfWGVOVlFvQmo2ell5MENUSjBj?oc=5",
       "s": "헬로티",
@@ -32,9 +38,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "[사이언스게시판] 샌프란시스코 AI 서밋 개최…韓美 9500억달러 반도체 협력 外",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sN2l4bXlLNWtpNWNwcHFnejloQ2RsX3ZVSlNuYXFTY18weDZqMHJuMWpsbU1TelhHaXNqTzNrSURrTnljWTRhdWtpNzJqXzdMZUpGZw?oc=5",
-      "s": "동아사이언스",
-      "d": "2026-07-26T03:16:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fLWNmbl84U2Jobm55dzczd0dkTFoxLVBFc2Z1Y2JlX09TYkZXQ2lCTnlNUUpScE11a3BydDZkLUNtS1NtTldVSEc1UDVMTjQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T03:20:09+00:00"
     },
     {
       "t": "중동발 인플레…원가 상승에 '외식물가 비상' [뉴시스Pic]",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T03:02:00+00:00"
     },
     {
+      "t": "달러보험, “환차익 기대하는 불완전 판매 유의해야”",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczUtclpqZU5Vc25EdWhSalZTQjBzY3ZFRlRuWmxVb3pXWGVRYmFkNXFEZTNmM3ljTmxCV1AySkFOWURNSFdscEs1QnhocGYwc2NRdnBSb3VVOGZCbW5QT0J5aHd6c2JrVTM4ZHBnaXNxLVU0ZFUwOFRMMkI3V0RvRUpvVFNadw?oc=5",
+      "s": "대한경제",
+      "d": "2026-07-26T03:00:16+00:00"
+    },
+    {
       "t": "[주간증시전망] 줄잇는 빅테크 실적 발표…7000피 안착 시험대",
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWg3Q1ZnaFlkY3FGcUYxa2NGel82U0hxZnlGNEhvazVNTzZyR0dnWE5URXFiN1B6bmNFdHU1a0VFbXBGN1R3NkJKakV0VlRKRDhrZ1pPbjl0SldTZ1dWN25GbWllTzF3SE00UlhqZmduY2hRaTFyVFdsYXNVbjFsN3RQUWhMZVk?oc=5",
       "s": "글로벌이코노믹",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvRmRKVFF3Um80dUdaM254a3Raa1NNOFRZWGJlamVDemZfNnc2WVpGVU03TFBURFV0SmI0cG5zcmFCajBGeGJKWW5sWEQxMWJ1OUpDLThYdEJORXoxZFFZMXAtakJhVzlaZ0xDZTktTkk?oc=5",
       "s": "미디어오늘",
       "d": "2026-07-26T02:43:05+00:00"
-    },
-    {
-      "t": "수원특례시, 대한민국 미래 반도체 산업 경쟁력 높인다",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXA2a2FUUU1rUWxTNnltc2txQlc0VW4wRlpTekFVcjB2Z3lBdVRCU3REdWZwS3MtRTZwU3B0ZENmZzhIUkdkVEc1WnBfOWQzWllNWW85eDhCVVNvS1hTeGNfUXNzZVFpSHdnX244RndCb0ZIblpocmNsSGpKZGc4STVjS0J3d9IBbEFVX3lxTE82cHpQQnQ0TGtVX2k5X2dkNTJuWW82VVM3dUpJMllUdXllT1hzZDlNd1o0eXNUS1FaREhiWU1FRXFZVDRPLWlFZFh5TTdwc1BFWjBDUjZQTFcwbXpMY1UwQlF5aEljMURUNk05bw?oc=5",
-      "s": "국민일보",
-      "d": "2026-07-26T02:43:00+00:00"
-    },
-    {
-      "t": "‘마치 이 사진 같아’ 한 치 앞도 모를 코스피…예측이 6천피부터 1만피라니 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydWs1d0Q3aC1JSnZkc2VDNXRlenFZNVNFaHFkTnR0Zk5RRTkwbXRyUEx1OTlHN25Mb1hkaFgwNVhyRkh5bTU5TnZyU29sbEI0YmE4Nm5xbw?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-07-26T02:40:00+00:00"
     }
   ],
   "asof": {},
