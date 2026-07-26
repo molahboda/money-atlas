@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T02:30:15+00:00",
-  "quotesAt": "2026-07-26T02:30:15+00:00",
-  "newsAt": "2026-07-26T02:30:15+00:00",
+  "fetchedAt": "2026-07-26T02:45:15+00:00",
+  "quotesAt": "2026-07-26T02:45:15+00:00",
+  "newsAt": "2026-07-26T02:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "‘마치 이 사진 같아’ 한 치 앞도 모를 코스피…예측이 6천피부터 1만피라니 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydWs1d0Q3aC1JSnZkc2VDNXRlenFZNVNFaHFkTnR0Zk5RRTkwbXRyUEx1OTlHN25Mb1hkaFgwNVhyRkh5bTU5TnZyU29sbEI0YmE4Nm5xbw?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-07-26T02:40:00+00:00"
+    },
+    {
+      "t": "메모리 병목 뚫었다… UNIST, AI 반도체 20% 더 빠른 '자동 설계법' 세계 최초 개발",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aQkR6N2ZhR1kzVlRMTTNVT1poUEpQZWNvWDZvVFc3a3J1U3VmcVVaX21LakVJV2dtRjBJU3MwRFBDODFidWlYeGVZRHM0ZjlER0t4bXlyaHVDZlVYUE5BdA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-26T02:35:33+00:00"
+    },
     {
       "t": "호주, 트럼프의 새 12.5% 관세에 맞서 도전 나선다",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWmhYNG91Tm1Sb2N3ZU5sMi1Kc1ByazJraW9SbU9XbkNOaTloWWgtXy1SRzF2cl95Vml5SE5zU00zUVNkYUlqZnRzYklyRXViSlZtZlVRclV0VGIyRHVmLVJiTF85NHBXS1E?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GeXVsVVlvMnRveGhHTExya19jVmEySldTdFlOYVVTRE5TYmpoQUFjanI1VVhnSlhyeWN2WHd5QnVnUnJJMlRJeGMzSGQ1RWs?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T02:00:02+00:00"
-    },
-    {
-      "t": "유가·관세·환율 ‘삼중 변수’… 한은 연속 인상 가능성 커진다",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMU1UNUdLQWdubldhY1V3YVl0OXhxS0ZXelRZQzJ4bTlRX1dqZHlWZVZZa0VDMUlfOWhBTS1VUTB5eVRxWU9sMFQ4R3UtOEFWYXdCNDdsUkxfRGVGY0dhSVJJNzFjNHlYb2c?oc=5",
-      "s": "천지일보",
-      "d": "2026-07-26T02:00:00+00:00"
-    },
-    {
-      "t": "배고픈 전북에 ‘반도체 떡’을 달라",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQ3lybDN0bVR3WmI4N0FDeGdzaUxRSWFQc3dIUjVmNHoxcklBUVVTT1h4OUo2bHF4S2xBajJJY1YxeEpKN3kybXVNX3FLMExTWTNhN1JYcjQxdUs2ak9GNnM5VzVVYTJuQzdF?oc=5",
-      "s": "전북도민일보",
-      "d": "2026-07-26T01:47:16+00:00"
     }
   ],
   "asof": {},
