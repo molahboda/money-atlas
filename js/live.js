@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T10:00:15+00:00",
-  "quotesAt": "2026-07-26T10:00:15+00:00",
-  "newsAt": "2026-07-26T10:00:15+00:00",
+  "fetchedAt": "2026-07-26T10:15:15+00:00",
+  "quotesAt": "2026-07-26T10:15:15+00:00",
+  "newsAt": "2026-07-26T10:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "CXMT, 내일 중국 증시 데뷔…올해 아시아 증시 최대 IPO",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNzFIY1dsNEF5WFh1WFFicTV2dG1TeDFnNDZPT3pZQW9GUXUzbUxuQzQ2Y1kzRVBzUmI1T2ZWU2JVNFo1cXl6VkpQM0pYSXpTd1NDa2JTcjFTMk0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-26T10:04:00+00:00"
+    },
+    {
       "t": "[기획] 젠슨황부터 올트먼까지… 삼전닉스, 반도체 초격차 굳힌다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52WFVaU3gxUFZMUFBJaElBQXdQR1hVM0dvZ3gwc1Jxc0JvS194ODR1M0M0NjZQQUppa0Jwdnlad2k5d0lZX0ZnMkNZaFV4NTQ?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-26T09:38:00+00:00"
+      "d": "2026-07-26T09:38:10+00:00"
     },
     {
       "t": "반도체 빼고는 먹구름 낀 8월 한국 제조업…3개월 만에 기준치 하회",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRXhWbEwtWkUyUWZHYVVCUmtCV2RvR09RUjBUc2FRaDhqM1BDeklaMVJia2xNTGpVVGV6UnQyZmpSUVpwZkZRa2tGZ18tYlhzMmZVOVhPMW1YOGR6cWlZdmFrNVZvdzBDUVE?oc=5",
       "s": "전북도민일보",
       "d": "2026-07-26T08:39:00+00:00"
-    },
-    {
-      "t": "미 빅테크 기업들, 삼전·닉스에 1375조원 반도체 선주문",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bk5nZXJRcUx0bENVX29zcXdXWm1jSmh4c3ZRQi1yQWI3WV84cjFJdFhZcEtjYjBsd2RkNTNVSGtCNU12cVZ4bUk3UkhOWDg4aXZRQ1psMzA0UE5qbzRUQThVM1ZRTVRYaHZn?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-26T08:38:00+00:00"
     }
   ],
   "asof": {},
