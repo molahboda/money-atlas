@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T07:00:15+00:00",
-  "quotesAt": "2026-07-26T07:00:15+00:00",
-  "newsAt": "2026-07-26T07:00:15+00:00",
+  "fetchedAt": "2026-07-26T07:15:15+00:00",
+  "quotesAt": "2026-07-26T07:15:15+00:00",
+  "newsAt": "2026-07-26T07:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "중동 위기 속 맞이하는 美·英·日 '금리 위크'…\"매파적 동결 예상\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jbzh5NVBxdHVDU0NnS3h6clc5RGhDN3FKaHFJRGdtVXY1cXhkQTRZaTl3emd2V3RzZ3EyQkJqcmlPVUpweHhXaE4yRWxWTm5GSVdKckNhWWx1MHJ1NHp6cmxGUnFKbmdU0gFuQVVfeXFMTmhSZ2g2MEtfZ3dKU2IxeUYtZXJJUDZidzd0MnZfTGtITkVsZFg2c2FxWHhxcnJzdFI2NFRCbUJHWlVUc2o4bFBKa2F6YklNQjNzbnJtU0N3bjc0U010U2FveENzYXRtRW9adlFBSGc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-26T06:56:25+00:00"
+      "t": "유가ㆍ금리ㆍ입법 ‘삼중악재’에 코인 반등 주춤…국내는 거래절벽",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HOTNrQk5nUzZ3aWd6VzVpdXBIM2MwUy00dnlQMkgxQjRoeVQxLTVEelluM1lhblh1eDB0VXZiM1Z6dlR1RHlrbW5ReHAyUk5DMlVKS01n?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-26T07:08:50+00:00"
+    },
+    {
+      "t": "[7월 4주 화장품 주가] 글로벌 변동성 따라 코스피·코스닥 급락... 아모레퍼시픽 30일 실적 발표 공시",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnRkpyVHI5MW51ZExydU03M280cUNDN290d1dadUhpb0E0VGNZVlYwa1gzdzc2Z1NQTWhLbWIwRi14Vll5aUpxSVo0dm9zTXg4SzY3eENUZ3paWDBxZTJ3TW9rUQ?oc=5",
+      "s": "코스인코리아닷컴",
+      "d": "2026-07-26T07:08:19+00:00"
     },
     {
       "t": "코스피 7000선 이탈…“정부 개입에 시장 불안”",
@@ -41,6 +47,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95V05iNFdwZVhRcGRJU0pJVFktUHl1dDFyZ25lZXJTMzVDVm5KRlpmcVU3eDl3bWxZUGJyWTJJUHl1bGpkaUhMaXFLVGh2TGc?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T06:44:53+00:00"
+    },
+    {
+      "t": "삼성 이재용, 오픈AI 샘 올트먼과 AI·반도체 협력 논의",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqWmNza25IWnF3RjdMaE0wOTR2ZlZvZUNTMDNjUkNWSXdFNHF6Zl8xRVFfNEVpNHlvTlpsa1RXbm1MdGtkQlE2X09SQzdyam8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T06:44:49+00:00"
+    },
+    {
+      "t": "유가 150달러 돌파 가능성에…정유업계, 중동산 낮추기 ‘안간힘’",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JXzlpeGN2Q1VoYXIwNS1xcEtHRjVvc2VvVEpNNDk0NHZyUC13WnZyV1hHTWRGWVV0V0RmNjFpbnR1MXdkN0JjRkxlMXhNZw?oc=5",
+      "s": "dt.co.kr",
+      "d": "2026-07-26T06:40:11+00:00"
     },
     {
       "t": "미국 추가 관세 2.5% 밑으로 ‘초당적 총력전’…“3500억달러 대미투자 협상 카드”",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZOUxNNEFiejZNWDVwUTJLVnY2dXhhQ2lrc0R3UUNaeHZLMlE4NkJTV2FHb09vQm9VUURTYXg1N1ExRnpRa1VCQnJSOHhDUy1nSWdEM3Jqd3E5dE9NU1ZPME92VTR2MlRjdVNQQ0JR?oc=5",
       "s": "아시아투데이",
       "d": "2026-07-26T06:30:58+00:00"
-    },
-    {
-      "t": "대전 중소기업 대출 연체율 1% 넘었다... 기준금리 상승기조에 상환 더 어려워지나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XSDBWT2Y2UWdFd1ljQ25vU19ZXzB5eHRVWWkwOVhibWc3UWJXR0FUODJhdktwOFdSUUhlRjhNczB1d2ZiSnlSMFVXc05JOG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T06:29:10+00:00"
-    },
-    {
-      "t": "원화·엔화 엇갈린 흐름…엔화 가치 40년 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uLTlSV20ya1F0NklLYS1DZkhLRXNEQU96ZkZUQlJTOV9PX2VpeGlhbVlyQnozeVQzZkYycDBIRXdnM1kwT2NKaHlWWFpLaEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T06:29:04+00:00"
-    },
-    {
-      "t": "국제유가 급등에도 대전·세종·충남 기름값 안정세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSZ2hzRk5CR0EwaEpXbEpXN0JuZFhKTzRnTGJvNGtRS0NVa2F0Uy1xMjJBV1Jnd0djTWtkRVZaYnF3MkEwb2dRUmJjV1pCdTA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T06:28:51+00:00"
     }
   ],
   "asof": {},
