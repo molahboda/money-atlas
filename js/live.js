@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T10:30:15+00:00",
-  "quotesAt": "2026-07-26T10:30:15+00:00",
-  "newsAt": "2026-07-26T10:30:15+00:00",
+  "fetchedAt": "2026-07-26T10:45:15+00:00",
+  "quotesAt": "2026-07-26T10:45:15+00:00",
+  "newsAt": "2026-07-26T10:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "인도, 미국 수출의 45%가 트럼프 신규 관세 면제 대상",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96XzBKRGd1a1J6alRSUGZIRENtVXdKRHF6OXF1TDBDdEtJMWVScEdBV3FHMFdmaDdLYVRYQW1fZzA3d2VRYjRWd205ZUJRY1pMdEtKR3N6bXNKOHBQb011d0dYbnhlMTZtU0E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T10:27:00+00:00"
+    },
+    {
+      "t": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcWRScHNOeU5uMDBpQy1xXzZzSy0yY1NlN3JybG1sX2FQYnV5NnZfMlp0MFpSMzFKejRFMDM2ZW5BNTBuV0hIZHFkdlJ2bjQ5Rno4b0dwc25MQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-26T10:07:00+00:00"
+    },
     {
       "t": "CXMT, 내일 중국 증시 데뷔…올해 아시아 증시 최대 IPO",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNzFIY1dsNEF5WFh1WFFicTV2dG1TeDFnNDZPT3pZQW9GUXUzbUxuQzQ2Y1kzRVBzUmI1T2ZWU2JVNFo1cXl6VkpQM0pYSXpTd1NDa2JTcjFTMk0?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tS0htNG81Xzd6SFZrN0hNMk5YdmVPekxvdE92aFNNcWN6NUw5ckF6U2QzRnhsLU9pZEtWdFFLM1BYSFBUMU84SkZ0WlAxc1BWZTAtWjd3?oc=5",
       "s": "중앙일보",
       "d": "2026-07-26T08:46:13+00:00"
-    },
-    {
-      "t": "유가 상승에 가을 해외여행 최대 20만원 더 내나",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYkZyZTNtSlNIZ0ZFNUxET0xsb0N3VGJHUElkQkN5Qm9oQ21vTS13VmhWbUZhUjFSd0NfV2RSbWtyYVhtSWxMdnVxZVJZd1NMRlB5YVB6ZVo1SXhlVW85cVR6clo2UXRuOWctUFdMOTJHcG410gF0QVVfeXFMTmliRnJlM21KU0hnRkU1TERPTGxvQ3dUYkdQSWRCQ3lCb2hDbW9NLXdWaFZtRmFSMVJ3Q19XZFJta3JhWG1JbEx2dXFlUll3U0xGUHlhUHplWjVJeGVVbzlxVHpyWjZRdG45Zy1QV0w5MkdwbjU?oc=5",
-      "s": "IT조선",
-      "d": "2026-07-26T08:44:41+00:00"
-    },
-    {
-      "t": "1년 전으로 무너진 코스닥…코스피와 성과 격차 ‘극과 극’",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fdGRlNWpBUDVHeWtKMWlVdTdNV0RYNlcyZmRLOE9vT3VsYUtGdFhkOExwZkRwSlkwU1VfdDFaZUpfamhtR0gtd3lQLWxfQQ?oc=5",
-      "s": "dt.co.kr",
-      "d": "2026-07-26T08:41:39+00:00"
     }
   ],
   "asof": {},
