@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T01:15:15+00:00",
-  "quotesAt": "2026-07-26T01:15:15+00:00",
-  "newsAt": "2026-07-26T01:15:15+00:00",
+  "fetchedAt": "2026-07-26T01:30:15+00:00",
+  "quotesAt": "2026-07-26T01:30:15+00:00",
+  "newsAt": "2026-07-26T01:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "기준금리 3년 6개월만 인상…’긴축시계’ 스타트",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdl83M0pPQXhCNjgzanhjQmFleDFKQ1BQLWZLbFl0UGNjaEVsOVVYQnpUVks2RnQ5S3Z1NFFmUGtFNnFYRkZOQjhZaXh6Vl9OREtrV2tfb1Yxa09rQl9uRGUwRElqV1E?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-26T01:24:00+00:00"
+    },
+    {
+      "t": "미국은 속도 조절?…이달 말 전세계 시선 연준으로",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qVmpNa3lyNjBQV0ZfMHcydkdqYTZoMHc1QnB2eG5qZnY3UVljZ0JqenBmTzVWamxWX2poeWFyT0ctSUVmQ1Nma1dFUS1NY1h5VG5sY3d4azVtMDktSlQ5UHBQMVJwNmM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-26T01:23:00+00:00"
+    },
+    {
+      "t": "[김이코의 시장분석] 금리 변수에 주식시장 '긴장'… 미국도 흔들린다",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fWThYSG56ME00bi0yUklLdnUzM3BmU2pQZGJTNjNBakw3Zkt1WUNsQVhQZGx6VXdoZHVPTlRzbzdva09wclhLSm9maUJRVUx0aXRweg?oc=5",
+      "s": "미디어펜",
+      "d": "2026-07-26T01:10:25+00:00"
+    },
+    {
+      "t": "“실명 환자눈에 반도체 칩 심었더니 소설책 읽었다”…유럽서 인공망막 상용화",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XOF9xZFJ2RGpfX1QzQzV5QU0wR2JvblFDN0tISVpERU03bmJBaGRfWTVZa2dURTlWWW9Kc3lqczVOc2plUXZ1X0JNY2I2dw?oc=5",
+      "s": "전자신문",
+      "d": "2026-07-26T01:10:00+00:00"
+    },
     {
       "t": "수원시, '미래 반도체 첨단 패키징 검증 플랫폼' 구축… 국비 100억 확보 > 뉴스",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15WlFsQzFpRHBUQjZEb0NnWFZwUlROS2xiQmtLd3U3c3BmdHFWb0VDNXFCdC1lOW1STWtxay0tQWpSVnAxZ040VWpFZTR2bm5HbjFNOTlfVjR3Sld4NTRMOUJTMkh0a3VsSF9KT2pPTDI?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFBDQUpvWjJ0MmR4enYwOGhydmxmcDhUQlZvYXNJbDVGS2lGcWNrcWFFMlJzX0tPZ2F0VkJoVXB5YmJydVJXby03NUhNRXNuRzFTbENSM1VBZ3ZPZW1jbVpXaXd4SXEySTNsdC1adzloZ3k4MG9kWnVLaGp3MGJzZUFGMG5JSmV2?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T00:48:20+00:00"
-    },
-    {
-      "t": "에이피알, 뷰티 디바이스 핵심기술 내재화…반도체 R&D 본격화",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92dEJnbnBNRVdTaTdSMllzME80aFRQeURPODNBQjc5VGx0WGpjLXJGUHFHZ1JZLUkzMXV3dnRsTGw0RUctX3ZnYXZHa0J1MGdJbVdiQllCYnhZQXZWMWRpVmV6aVQ?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-26T00:43:40+00:00"
-    },
-    {
-      "t": "레버리지 규제 초읽기…증시 변동성 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03QkJUalpNWWl6d1hIVk9vWEpxY2R3TEVfNWRkdmE5bnZtUk5JUEJiSlUyUnQteFpUekw5NFlQQUhsOWEzb0NFWTV1NU5QTXpmZHJ6aw?oc=5",
-      "s": "이투데이",
-      "d": "2026-07-26T00:40:00+00:00"
-    },
-    {
-      "t": "중동발 유가 충격 국내로 번지나…국내 주유소 기름값 반등 우려",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1cjhoRTF3OHp6UWJ6VzRQZzV4WHphR3c1WlkwVkV2S0lubl9SUFNueDlTaWZWQW9KNEt5UjNXak1mRWd6LWtuUjBnWWtOUkhJemdoUVRISHR5dl8yRVFtM0lnTHJJcndVVlkyVDV3UjDSAXRBVV95cUxNcmUyTDA3RGF0enk0bnZyRTNCUVFweGZmcnZKb1FXWnBDMUtPMWJ3bm53WGc4alg3QlhHUXJJZncxeVVVRF9fZElIQThmMnRsYzRyQ004MHhKeGRiZEI5Q0trOU9vbFZocktfWjlRUkU5MXhhQQ?oc=5",
-      "s": "산경투데이",
-      "d": "2026-07-26T00:38:42+00:00"
-    },
-    {
-      "t": "에이피알, 반도체 국책과제 주관기관 선정…뷰티 디바이스 핵심부품ㆍ시스템반도체 내재화 나선다",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xcnJqcmI0OTZ0ZHl5SFpJZnFPa0VxRG1VMUVSZ1cxQkhNWlJ0bWJEWUdGRFEwUVV2dElqaFZXWm5INDVRdFVUQUR4cXRMdk5fUzJoUUN6NklIdzgybFlKZmlGdllfb0V1UElwVTVkMzl1b21k?oc=5",
-      "s": "대한경제",
-      "d": "2026-07-26T00:33:23+00:00"
     }
   ],
   "asof": {},
