@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T10:45:15+00:00",
-  "quotesAt": "2026-07-26T10:45:15+00:00",
-  "newsAt": "2026-07-26T10:45:15+00:00",
+  "fetchedAt": "2026-07-26T11:00:15+00:00",
+  "quotesAt": "2026-07-26T11:00:15+00:00",
+  "newsAt": "2026-07-26T11:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[초점] 정부, 8차 석유 최고가격 동결…휘발유 1,784원·경유 1,773원 유지",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UalRNUjJNaDlaM2JFS1lxM1pKcWFjdEQ4c1FIUWFHdWtwQjloZ1VQN2l0YTRqcXl5dGdESHdHR1RQM0JyeEFLQkdpd0R6aUlaM21QMG5GRURENFE4ZHVkSjhocmNETmJocEd6UWxrZnQ1UQ?oc=5",
+      "s": "에너지데일리",
+      "d": "2026-07-26T10:47:45+00:00"
+    },
+    {
       "t": "인도, 미국 수출의 45%가 트럼프 신규 관세 면제 대상",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96XzBKRGd1a1J6alRSUGZIRENtVXdKRHF6OXF1TDBDdEtJMWVScEdBV3FHMFdmaDdLYVRYQW1fZzA3d2VRYjRWd205ZUJRY1pMdEtKR3N6bXNKOHBQb011d0dYbnhlMTZtU0E?oc=5",
       "s": "Investing.com 한국어",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcWRScHNOeU5uMDBpQy1xXzZzSy0yY1NlN3JybG1sX2FQYnV5NnZfMlp0MFpSMzFKejRFMDM2ZW5BNTBuV0hIZHFkdlJ2bjQ5Rno4b0dwc25MQQ?oc=5",
       "s": "한국경제",
       "d": "2026-07-26T10:07:00+00:00"
+    },
+    {
+      "t": "영호남 반도체 相生은 ‘TK 긴급현안’이다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc0p6YmgtSGZ4QmlaSzM3M1oxWmpPVV9naDJnSURXUkNIT1VDT2xPQjZNMWNqRy0xUENHM0dHb1I2cEZaUGhud0steTB2RDllR25EMnpPNy1iQQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-07-26T10:06:00+00:00"
     },
     {
       "t": "CXMT, 내일 중국 증시 데뷔…올해 아시아 증시 최대 IPO",
@@ -49,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-07-26T09:38:10+00:00"
     },
     {
-      "t": "반도체 빼고는 먹구름 낀 8월 한국 제조업…3개월 만에 기준치 하회",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZeTV5NWxWT0htdUFESFJWV1FpdE0zblFTanRzMjZudHYzVzlNc3JIVHl1ZW5xSXZzMmZ1ZEdYR3QyYXBmVjR1QkhFVzR1NW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T09:23:00+00:00"
-    },
-    {
       "t": "“美 관세 15% 아닌 일본·EU보다 불리하지 않게 협상해야”",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzVGhMb0s3eEpQRUNqb0Q4V1p4eGhmblY5SEFZSEdTUzVIcEtTbVYyLVNXTjFnTno4azJRS2d4YWlqU0VzdzhBbXJaeU8tSmU2QVlvLVlIMDlRMXY2Zlg4dWtZM2QwOTNKRVBETGp4Yw?oc=5",
       "s": "서울신문",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T09:18:43+00:00"
     },
     {
-      "t": "삼성전자, 美 브로드컴과 292조원 규모 AI 반도체 동맹… ‘종합반도체’ 역량 전면 배치",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xam0wTHhVTmxCRTRuUk9aM2JmTUdhNWJ5WFlqS1FZOVljVjNzeEdOZzZVNEV5RGpENWdlb2t2OW00RjNlU2wyWE93TDIxWmlUMG4xaTQtYlVsQmdGZzNxSDJ1NXpmdTRXWTlN?oc=5",
-      "s": "서울뉴스통신",
-      "d": "2026-07-26T08:56:34+00:00"
+      "t": "트럼프, 美빅테크 보호용 새 관세 예고… 인플레 비판에도 마이웨이",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5eEJUQ01IVHRtSFRic3F1VHRJVF9Fb0wyd0x3anpuX0gxVTF6MHNTNnlLbFdCUXJzTTVPTDY4Y05VcEYxaW5pMzZFNVVyNGkyOERxd05rWFViNGZoYU9vbi1aWTVPR2FsSFJBeUlCMThjSFnSAXNBVV95cUxQeXhCVENNSFR0bUhUYnNxdVR0SVRfRW9MMndMd2p6bl9IMVUxejBzUzZ5S2xXQlFyc001T0w2OGNOVXBGMWluaTM2RTVVcjRpMjhEcXdOa1hVYjRmaGFPb24tWlk1T0dhbEhSQXlJQjE4Y0hZ?oc=5",
+      "s": "한국일보",
+      "d": "2026-07-26T09:10:00+00:00"
     },
     {
-      "t": "비트코인, $64,000 위 유지…연준 결정 앞두고 투자자 대기",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fOHN1R1dWNWFCV21JVDBmemw1a0JuQ2lneDJPeGJlVC1MR1VOWHBCUzlGY1d2ZVM2YkhTTFVJMXloeDU1VmlzaEg1NVhfQlRUZDh2Vk5uNHJQR1ZKX1BnNy1HVnhLbE9XS2ZwUGdob0JFRzQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T08:55:00+00:00"
-    },
-    {
-      "t": "홍해까지 막히자 국제유가 다시 들썩…하반기 물가 비상",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tS0htNG81Xzd6SFZrN0hNMk5YdmVPekxvdE92aFNNcWN6NUw5ckF6U2QzRnhsLU9pZEtWdFFLM1BYSFBUMU84SkZ0WlAxc1BWZTAtWjd3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-07-26T08:46:13+00:00"
+      "t": "“AI패권 핵심 K-반도체”… 피크아웃 불식시켰다",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lQ0dkZ2N4TFlwalNFaTdoZjhFVkhrWnhsNlNTei11emdtY3h0U21HUFhkejlSOW1XLXFvQ19VVGNWak0wNFV0Sm5YcHA0SzhPMW80eWxqbFVtbTZHVzZOWE1YM0RwLTB2b1hfRGNn?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-07-26T08:59:31+00:00"
     }
   ],
   "asof": {},
