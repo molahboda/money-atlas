@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T13:00:15+00:00",
-  "quotesAt": "2026-07-26T13:00:15+00:00",
-  "newsAt": "2026-07-26T13:00:15+00:00",
+  "fetchedAt": "2026-07-26T13:15:15+00:00",
+  "quotesAt": "2026-07-26T13:15:15+00:00",
+  "newsAt": "2026-07-26T13:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "[코스피 시대, 미국서 TK경제의 길을 묻다 ①] 9,000 넘은 증시, TK는 왜 비켜갔나",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42Nk5ucVhRNDBDRnZGRUxZbmFFWEcwZHJsQXlsOWVob2tkQlNzM2xlVkFUMlpUdGRHWHpPNDhpeVdoenozYS04Q3hnei1DekFwVEs5SXdMU2dsTFRDakFVNHRObzVRZXpPOVE?oc=5",
+      "s": "영남일보",
+      "d": "2026-07-26T12:43:04+00:00"
+    },
     {
       "t": "[증시 예보] “떨리다 못해 무서울 지경” 드디어 ‘삼전닉스’ 실적 나온다…‘이번 주’가 분수령",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BR3NmSnBMLXVJdTQ2YXdnOW55cmV1b1VYVGdYVU1xNHV2czN5aG9NLTN3YzdnRk8wLTVxdV9GTV9KRENrcEh3R1BLTlJHR05SNzRsY25R?oc=5",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-26T11:19:46+00:00"
     },
     {
-      "t": "골드만삭스, 워시 연준 의장의 통화정책 태스크포스 전망 분석",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xbmQtTzdPZHRmbjBLeE5IMVdJU0RtX3VlUF9RU2lMYU9kdUhKVFBld0wtVl9samxFRjh4ZU55T1FDZmtqU1RuRHlFa0hBaW10RDE2d2Q1djc2OC04N2RuLW9NdmdMRmxPMEE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T11:13:00+00:00"
-    },
-    {
-      "t": "일본도 한국산 도금강판 43% 반덤핑 관세 부과",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bVJ5MVd1eUtGUlhVd3g2SDVaZ2tvR2NzZmdReVlaaFBPZ29XSUJISlVsMkFEQnhTQ196M1hPM2pPVnpfTHFyaUNoYUhZWjlzU0M3SlJOcHBvbkJNWFA2Skk4em5mQU0zR0E?oc=5",
-      "s": "hidomin.com",
-      "d": "2026-07-26T11:10:25+00:00"
+      "t": "이재용·샘 올트먼 샌프란시스코 회동…AI·반도체 동맹 강화",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5Q0xmU1RHNmZRNGdDX01jTDlWLTJlVmgyLXZZd2U2cWNBMV9XbWtaN1NsVDZreG5wbHFyaXBXVXBmWUdCQ0JpeFJNWjBlOUQxZXlUd3ZOZFVKQS1qeUhXXzlFZFQ?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-07-26T11:17:55+00:00"
     }
   ],
   "asof": {},
