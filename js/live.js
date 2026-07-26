@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T23:00:15+00:00",
-  "quotesAt": "2026-07-26T23:00:15+00:00",
-  "newsAt": "2026-07-26T23:00:15+00:00",
+  "fetchedAt": "2026-07-26T23:15:15+00:00",
+  "quotesAt": "2026-07-26T23:15:15+00:00",
+  "newsAt": "2026-07-26T23:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
     "nikkei": 64611.15,
     "vix": 18.58,
     "krw": 1459.42,
-    "gold": 4093.3,
-    "wti": 84.65,
+    "gold": 4090.1,
+    "wti": 84.92,
     "dxy": 101.31
   },
   "daily": {
@@ -19,70 +19,70 @@ window.LIVE_DATA = {
     "nikkei": -2.73,
     "krw": -0.99,
     "dxy": -0.16,
-    "gold": 0.63,
-    "wti": -5.22,
+    "gold": 0.55,
+    "wti": -4.92,
     "vix": -0.64
   },
   "news": [
     {
-      "t": "日 증시, 美 빅테크 AI 과잉 투자에 '싸늘'… 잉여현금흐름 적자에 경고음",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXZRcHZ4VGJaQTJ5d01jN1ozWG1YNUtOZDM5NXJsRDV1UGF6QXdBbFQzclVFMG9sbjNSVmZFQ3lUemhSLWsxaTZYSTVySnBLVEY0eE5Zak8wamVRYXpYNmF1UW12ZGpGRzdRY1F0am1yX0ZKMGF6VHdYb2NKR1BoQ0FKSUhtbUty?oc=5",
+      "t": "美·이란 공격 중단에 국제유가 6%대 급락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkNuR3BwSzlZRHM4VENfa04wcG1FczlEeHJBR0Vwd3VCdWdmM1czNi1EeVo4TlZlaHIyMDlGYUdlSEdJMERCMXpuM3NUWk5CbDR1OUhvdEYzN213X3ZlNTh6LXl5R3BRN3l1cHl5VWMxNDZlblo0MHJvRzNSVEZmNEpndWI5Vmhj?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-07-26T22:52:36+00:00"
+      "d": "2026-07-26T23:10:24+00:00"
     },
     {
-      "t": "‘반도체 초호황’ SK실트론 결국 파나… 7개월 끈 매각, 이번주 운명 갈린다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41R2FNWHRPc3VFZjd6cjNUTXUxaTJoeHlhcWc0ZzVVbjlZLUVmLUJpZFJDT25BMnNvamlQNW1hZ01UVk9KRVFhVk45VVZYdjFfZWpfb20yTXBrUQ?oc=5",
+      "t": "에스에프씨, 코스피 상장예비심사 신청서 제출",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VWJBVS1Mb3VLTzFtZlVGSDVYOVdzV29tN3F0VkJ6U2d4R01EOGFRdElUNFRFNjVmNW1vbWxhRHhKRWFRN3JjcEVGSzZ6S0JRbXlXbC13TEE5SVpxb1BRblFn?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-26T23:07:00+00:00"
+    },
+    {
+      "t": "[시황] 미국증시, 유가 하락에도 반도체 약세에 혼조 마감",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uRUNqVWpJZTNZdVZ4MVc2dVlNNWZUazJWSWdKUHJJQ0lZcTF2Mk56YlpXN0g4dmE5RmV1aHRYSXNFZjE4YWRZc1M3U0I0cWhqRlBaT2lxUGRJdHJ6UnNodmxB?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-07-26T23:03:23+00:00"
+    },
+    {
+      "t": "“AI 동맹 1390조 통했다?”… 급락한 코스피, 6700선 반등 기대감 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQklrcmYyczIxZFpNU1l3VU1HcWFoeTdaMDY0SkM3Sm1HNER1TEZuUk9iMmd6WjlaMHF5Z0JtbGlTOEpINjAwWE83bVM1Q0xZdWsyYW9OOUUtZw?oc=5",
       "s": "경북매일",
-      "d": "2026-07-26T22:46:00+00:00"
+      "d": "2026-07-26T23:01:00+00:00"
     },
     {
-      "t": "'버리의 시계' 이번엔 맞을까…이번 주 관전 포인트는 메타, 그리고 [마켓무버의 국장 힌트]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tbUNxeFFrUmp1anVDN1FjbUNKekFMLUk5QTc0MGthNmd5MmZfcFg4aEZQN2ZXejQ3VHAxanQ2U1lYWXpkSFZ0eFRyZ1RPWVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T22:42:53+00:00"
+      "t": "[FOMC 폴] 7월 '매파적 동결' 관측",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MWVE4emFKeFJsYUxKYXBQbXhoYnl1a09DeTZhUnlGUmtsbGIxeGItaHlDUXFidEVkamgwWnJJZVBYWDF5NHhKa1EwbjdfUWFOTlh0NENfYWNxWW10YlJ1YUhKdXh1N0FPZUxZMlF3M1QxUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-26T23:00:02+00:00"
     },
     {
-      "t": "[오늘의 증시]美 반도체 급락에 코스피 초긴장…또 파랗게 질리나",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11M0pFUE4zc3k0LW5nSkN3WTFCYU9UNlRQNTl0ZHIxSnp4aGtfUmZ5NDVSUkpOUW1NQXo0U1RDZWZoblR4MWZrVHpBM3RLYkRNTTlsVGVkQ1JrcTZXTjhBRtIBeEFVX3lxTFBDRDg5TjhyYjZfWjJwbzE3eXA5TUY0blotYXhmcTMtUE01MzNQRGpaOVlSMXJ1QV9TZFlYNVdrem1ocUwwZmFISEFMSGVGSjV5LVpLYk9TRzVsUUJoTEZBYlZvYjI1VnNjcS1nNzZqNjZWLU9DUkhUUg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-07-26T22:41:04+00:00"
+      "t": "[환율] 원-달러 1,462.50원 … 0.95%↓",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VS3ZtQWhZODNzUnVPakFWbmJuODBQZzRwQVNQU1owRWRTb2tJSjh4MDlnS3BHQVRTaGNPUVRESlNJc1dtdXU5SW1IWWJvRUJJRWdOOUNCWGRHWVVyYmJJUDBR?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-07-26T23:00:02+00:00"
     },
     {
-      "t": "유가·관세·AI 겹친 물가 압력…Fed 금리 인상론 고개",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQXR0Y0dfV0dDcmhvN2xzcjJoc1hYOU8ycThaWF9OMVl5aHFoQ2RfWnZscUtBa2k4UE9YUHlNaEo4TTB4TDJLOFU3bF8ydURNaVNmdjVHc0JPTVozdmRuM2k2Sjg3MGto?oc=5",
-      "s": "ebn.co.kr",
-      "d": "2026-07-26T22:38:59+00:00"
+      "t": "[환율] 위안-달러 6.7723위안 … 0.00%",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dFpqYnhXbVB2Y3E4TVVxSnUzaGViTmpyeWtiZng2d1VNbk5zc25WTTh6djNYNDQ1WmlxR0h2QlJHdkI5Wjh6TWF5VTlXSjZzMzVPVWVqZEJjTUVibUQtQWVR?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-07-26T23:00:02+00:00"
     },
     {
-      "t": "이란전 출구 못 찾는 트럼프…美, '강제노동 관세' 띄우기",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZYWRfX09ySlpEVTdzTGJWUmN0dUd5TlM1M1p0WHRJbjZEQ2I1TkhoUFBxNlhOVHdlRnFfY3M1QlZqbnFKWFg5ek1jQTV5Zm9iMUJoOGJ5a2M4U2d0X2c0UnBsMjNTUjc2Vm1yYWhGU2c4Z3dK?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-07-26T22:37:19+00:00"
+      "t": "[환율] 유로-달러 0.8790유로 … 0.02%↑",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xWXRkQ0dyU2tFS1lvWk9aNWh0bFdFUFRIUTRPNVVvYVBVMmZKWl9VVXZqc0pkY2tXYndhYVNGRmVTbjU3NklySjFabGlueHB3bDBMb3NqQTdaazd5U3Z5V3FR?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-07-26T23:00:02+00:00"
     },
     {
-      "t": "\"삼성중공업, 에너지 넘어 반도체 설비 관련 수주 가시성 높아\"-하나",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zR3RyZGFHU0w2N1NTSV9Yd0dVYm9PNmphbzREVHdCR0tXVGRjUzR0Z3R4WVItMWp2MDc5RzFCc0Y2N1BJU3VuSjF5elFCNmR5UENoWG1qTnlPZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-26T22:35:09+00:00"
+      "t": "美 '강제노동 관세' 60개국에 부과…한국은 12.5% [1분 브리프]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lUjBxYkt2b2FFcURpU3lzRDdNYm5xZmkyR2wxem9zbFlQeDI2cGp0ajNkaWlPTjU5cE0wUVZNRUdYRndzN3A4SDhiS19IM3JVOG51X0tsdVpvRnJoOG1XeQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-26T23:00:00+00:00"
     },
     {
-      "t": "국제유가, 미-이란 교전 중단에 약 6% 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZLWlYOEZpMDlfTHpKUTZmOEVjSmNOeWpXYXhrQW42SzZmdWJDR2pBSl8xWF9zOUhDZnF6TEZqYVRWaFp3LVNRTXYyWGhzaTNNbElINHBWQWZHSzEt?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-26T22:31:00+00:00"
-    },
-    {
-      "t": "[마켓 브리핑] 지난주 국제유가 하락…인텔 호실적에도 반도체 급락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yRUUwQW1KVWtZaC1sRzQ3NGZ2VXc1LXlsY3phOXc5UFFVWU1wY29ROVlITlZEVGktVGJqemd6VV9GSlhlcXN6YlNxOXZBbFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T22:28:18+00:00"
-    },
-    {
-      "t": "[서학개미 브리핑] 투자자 예탁금 100조원선 유지…美증시 순매수액 4배↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CSzFmX05WeEx1VWZJX3VLSThRQ2wxWmZ6R19Rdlk2Yk5fWVFCOXFwS29ZRUlRUmVQRnNsV2JxN0NVUFk2em10aUw2TWFPZzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T22:27:12+00:00"
+      "t": "[주간증시전망] FOMC·빅테크 실적···코스피 '검증 주간'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FeWN3N3RYdGpDYkZ0THB3QXpVa25EdzFIRnVkX3otU1hhRGVndDE0bXFjWWw0YmxxLVdxelNScDdBb1VpVFhBVnhMV2g1VzJOSGc5ZFp1VmZnQzlsZVktRjhTdm14N05SYUE?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-07-26T23:00:00+00:00"
     }
   ],
   "asof": {},
