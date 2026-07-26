@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T00:00:15+00:00",
-  "quotesAt": "2026-07-26T00:00:15+00:00",
-  "newsAt": "2026-07-26T00:00:15+00:00",
+  "fetchedAt": "2026-07-26T00:15:15+00:00",
+  "quotesAt": "2026-07-26T00:15:15+00:00",
+  "newsAt": "2026-07-26T00:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,48 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "뉴욕증시, 중동 리스크·연준 결정·빅테크 실적에 변동성 커지나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lbk51cFlGS3JQN2FnNXBXaGhXdjBINUF2Yy11bTJKMWI0elItZzhtbF9WR1E0NGUxSUtldm4teEZNZUVLNEVidnNLaFVTRGRVZXI0VFU0VjlORkxibjhYZURkSXJCOTJ0N004NzFDLUbSAXRBVV95cUxNSmFEbTVYaWhPcTlPTVFPZzZpOGctOUlZX2lqekQzTVJoLXpaSGpZQS1tU2dxUk5pczUycV9uT0hkWXhaVTNTcXc1MmwtN0xZNlp2RFJpU1dtSjFOa2s5cy1QMGQ5MVRMT0RNcEwyaHlrN0cyNA?oc=5",
+      "s": "산경투데이",
+      "d": "2026-07-26T00:10:28+00:00"
+    },
+    {
+      "t": "유럽 PHEV 3대 중 1대 중국차…'관세폭탄' 전 맹공",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4am5VeEhYSG1YNXo1b0JQbDhrZlY1UjltSWNYSEd6bHBPb3BfcWxfNkxIY0dzSnRKbVpyYXhlUzV4Smo2aF9GRTBFOGs0cnFGekpZM2hXbU5rR1NvdjVQUVpDUQ?oc=5",
+      "s": "더구루",
+      "d": "2026-07-26T00:03:14+00:00"
+    },
+    {
+      "t": "1년 반만에 은행 예금 연 3%대 복귀…금리 상승 빨라진다",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkUUNsRVU0Umx6dFJMcjZJWXNmOXNEWnk3LXZ2QmFPVE1DS0w3SHBmcmJhWlp2allkSGlEN2JPcnBNYXBJdG1DT0gySXJzUDhrZmJ2ZklGWEVXRHRTei1sOFNENTBxZDZCeUNVSzdXWEw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-26T00:00:27+00:00"
+    },
+    {
+      "t": "급락 뒤 맞는 실적의 시간…중동·FOMC 넘어 반도체가 증시 방향 가른다 [주간증시]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVERIb1FUWlNRVEVFRWh0WDl1NnpGNmZhSjJUb1dLQzVMZXU0MXdzRGpXeDdtWUVnaklGdWtCTlJrSmdRTkxiYk9BZ1o5X1dDdzM2dkhmQUdKaG5ZaDRyX0Nvbw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-07-26T00:00:00+00:00"
+    },
+    {
+      "t": "코스피, '검은 금요일' 딛고 반등할까…AI서밋 훈풍 속 빅테크 실적·FOMC 주목[주간증시전망]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMTVo3aDVodWxTVE9hckxXeEVKR0hGaVRrbms4V0dmNU5HUW1PWk1CeFd1cjllSU4yNS1tZnVmZFVzOUlWMTJmZzdzeGdmcWd3bTBWV0tFbmxGUld4MV9uU9IBeEFVX3lxTFBsVDBSYzV4SU5QeXJvM0Z2QkVyZm8wdEdwNWNfNXFlejlOTTZtY1lETVZpMjhadHI0SVRvUFFLbTNpSWc2SzI4amhFaHhQaDRlWHM5UDIwTVFFUHJra3BxQTJSYW9uZmtfSUw3YndrWUs5TGJHZ044Sw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-07-26T00:00:00+00:00"
+    },
+    {
+      "t": "美 무역법 301조 10건 중 절반만 관세 부과…“외교·협상력 필요”",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wWi12aldoNFQyWEk3WGg1VXZkeUNpcHZIbFhuR3NISW0zQVUzWGJEbWpJTEFnU1piczdBaXQwVUN1VG9zQzhDdlhMNk1JQWdEbnFWSGJOUW81Y29SNWNLbkZPTk5tR25FWjlhRVo2OHF4VUXSAWZBVV95cUxPbUMtTWJsWGtKQkRTTmJyRFR6RGR5NWgwcEcyMlUyQ2h1Z1lkV19iS3RqeUpDVklvVW1rODdQT2phYVd3YU1pWHdORU5PejZRWG1WSHlzSzc4UVI5b0dfd0JjRGNuTXc?oc=5",
+      "s": "동아일보",
+      "d": "2026-07-25T23:59:00+00:00"
+    },
+    {
+      "t": "한 달간 코스피 하락률 25%, 증권가 “이제 바닥권”…근거는? [증시레이더]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zdmpEY2N5NmxWbENMWi1xS0Itc2tjS0xaTlFwSDg2WXU5SXl1anEwb2pRaW1iaHZlakxobmxsRmxrLVFqRFczTGN2bENKMTBWN0tlZzIwV0c3bEljb3NZSE42M1Q?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-07-25T23:56:43+00:00"
+    },
+    {
       "t": "\"9500억달러 AI 협력\"…외신도 놀란 한국 반도체·데이터센터 연합",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fZzRldDNGTDhHV1M1TTBsSGVRbUcwVEktWXhtaVN3b3pwYWtiTWczMGR0MmRaOWZSdEpBYndxc250NW04TjFNblNzRnFFdElzaHJmU0Y4SkNGYUx6eEFkVUJZazlsaFJ0?oc=5",
       "s": "녹색경제신문",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSjRJbU13YWRmRGRQTVV2X3FKSTZDWDhzWWl1Y1VaOFBWZENOdUxfelNhaThWTzBqeG5TaDR5M0FxXzNpdFctUG80YmlPT1RMcjM1TFp5eEhjWGZ0d3AtX3I1NHpYMEh0?oc=5",
       "s": "ebn.co.kr",
       "d": "2026-07-25T23:39:19+00:00"
-    },
-    {
-      "t": "7000 깨진 코스피...빅테크·SK하닉 실적 ‘주목’ [주간증시전망]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Hd0dyelVnelMyMGIzcHVKTDBXZ1ZER1dRRUc4TU14SXBSYlFPZmNGZlJYcTNCbGRESTRXTHl4NzlMT182ZnJYZE9UVU1kT0U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-25T23:33:28+00:00"
-    },
-    {
-      "t": "에이피알, 반도체 기술 내재화 나선다…뷰티 디바이스 R&D 고도화",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UdExkalhpaHlNODBsR2JFekFrM3F0d0ZMSWVfbkVoQ004SzB0aTdfQTh1QkRDQmdLUE1STnQza2lDWnV4eGo3MFZHNGQ3YnhPbGxORQ?oc=5",
-      "s": "이투데이",
-      "d": "2026-07-25T23:33:00+00:00"
-    },
-    {
-      "t": "보험계약대출 4%대 '껑충'…그래도 은행보다 싸다",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qTTl4RXdxNFJLZUVXV2lJenc2Q3NqU1NUX3VKWnphMXhBUmNDaEstSnhiUDhrT3JQajFXQ25IYkFIQWtaNEtpRnNVVDN5Qlh1N0JXNlFvaVVUbjlUdHhIczNRazFOLXl6eHNTZVZTZlcwUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-25T23:30:03+00:00"
-    },
-    {
-      "t": "AI심장부 동포 만난 李 “韓 반도체공장 없으면 세계 안 돌아가”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GeUdTb1BveG5fN0FoMGlBWS1aTnNDMlJlSzR2bno2MWRfM01Bemd0aG5GTjJJY1BoUUlTaVB1UkJaSDRoR0dwVEt5X3FQbXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-25T23:28:09+00:00"
-    },
-    {
-      "t": "주담대 8% 시대 '영끌족 비상'…금리인상 후 벌어질 일",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XbzVmNjhMWkpuTmI2VXJLTENpcE1mQ2lQeGZSUDhHYWVxZ3Itc2pXZ2xOeER6TjdfVWtyX3UyUkxma2kzWGtWNkMzTkM3bDVrUXJBbVJDZW8zUDM4S3ZNanZheXY3RHVoZFY2eEJfdGLSAXRBVV95cUxNVlNPVGp5ZTZUM2JiWklGRmd3YklRd0swZjNaREtxd0lLRi0weGlDOHl6SDNTMVVpcUw0Wk1kSm55cV9ZVVZvMjVrS2NMVWpmQXdvN0hXcW9BNVJUY1dVZk1jZWM2dHlrZTRJeWQtbHB6YzJxcg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-25T23:25:10+00:00"
-    },
-    {
-      "t": "에이피알, 반도체 국책과제 참여…뷰티 디바이스 기술 고도화",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOZXF1cE5tVG5GbGRsY2EyOFRQQnZ1UEItdVM2bHhjTEhBVnRnV05jZWhacW4teTBxNXR2MGRtZi1NbmJxYThENnJxNDZheG92b3JPU2VoMnBvWFhfaVZpZnRiZmR2aXlLaFY1NjVsZ1RvNEt0a0NOcktwXzc?oc=5",
-      "s": "비욘드포스트",
-      "d": "2026-07-25T23:22:24+00:00"
-    },
-    {
-      "t": "중동 긴장에 국제 유가 들썩…국내 기름값 ’우려’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDT3RjZUZEamNlMGdkcHMyZFVEcjdjSV9ONW5jdGJ5UkRZckZ0N25fWE82S0ljNmtQR2l5ZXY4T2dFblczX21LZ3RtNHdjMVN3Q1JsZWpYUFdPNUxOOGlqc2VOOTJYUkE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-25T23:22:00+00:00"
     }
   ],
   "asof": {},
