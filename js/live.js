@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T05:15:15+00:00",
-  "quotesAt": "2026-07-26T05:15:15+00:00",
-  "newsAt": "2026-07-26T05:15:15+00:00",
+  "fetchedAt": "2026-07-26T05:30:15+00:00",
+  "quotesAt": "2026-07-26T05:30:15+00:00",
+  "newsAt": "2026-07-26T05:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "이재용, 오픈AI 본사서 샘 올트먼 만났다…AI·반도체 협력",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ya3RZaFlYdmxmUktpWW9YaWNJQ2R6Q2hqY0RZOElod0dqT2N4NHN3U0E4NGxDYTZPdFBieUh0WTU1TXJVdnk5bVgwMG5hU1FndVJSNEtn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-26T05:20:43+00:00"
+    },
+    {
+      "t": "“신안염전탓?” 美, 한국에 강제노동 관세 12.5%…대만보다 많아",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hTVVHWlJkVnJ3RDZTR194cHloRUMwazFjV3FZTGh1ZEtGMkdEZW9tVlFmWXZERUhiN21zZ2psa09YTjZJZDFmX3BWQzhhZVlLMU9Mc2VpdGFQd0FDaHA4ZUVkaXNuUl9RMG9lSmpyeHVJRGFsQ1p3?oc=5",
+      "s": "서울신문",
+      "d": "2026-07-26T05:18:12+00:00"
+    },
+    {
       "t": "해외 반도체 시장 탐구 ② 일본, 왜 반도체를 포기하지 않았나",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa3VaYTQzRHlZaTBGeHZRN3pCNVlUd2xpS25KeVd4X2t5bDk5TUNZVG5FSDNIWlNOeGNlQ3E0VWxxdzM1QmZGOVI0MDZsWC1ud3dCOVVuc3JWMlZ0TGthNTVrcVlweDNNcmF0V3V6X1pLNE1CMjVGTkxhcnFuOFFhN0Fldzdsdw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa01veXMxaDVDc3VSSktIdDhmZmRtVDVLcDV1bW5yZFpHdFVOLWhhUWN3UVJ6ZWtLNXp1WTdJVWQzOUFIUWdNTjdIWUYzMGl4ZzlMbUxQM0UyUVlBTlFKbUNJeTlIU1p2T2FweVRmM3VZa2x4MURaOUlnMkszSm9xZWdtSU9RaTQ?oc=5",
       "s": "전북도민일보",
       "d": "2026-07-26T05:08:44+00:00"
+    },
+    {
+      "t": "\"2분기 성장 강했지만 광범위한 내수·물가 파급 확인 안 돼\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PM0YwcWNuY1FoY0Fqamc2NmExclZ4VGIzRG1RU1pmY1c1VnRsLTlaNUkwTFRUTmJFMFdOU2cwRmRvR2pGS0p6LTM0akZtZ193WTQxZmVjUHRQZE9ManBXM0dmcnJYVHBFdDUzSVl6TWI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-26T05:07:18+00:00"
+    },
+    {
+      "t": "젠슨 황 \"코스피, 다시 오를 것\"…'맥주 회동' 반도체 업황 호조 언급도",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFa3JsaVdlbGpFdG9nTFM0cmFLRDNBdlZTNHpfVDZTZ3JYdTl5a004dG9UNGVEU004TUt1TjQ2OTlsYnhUTHVHOWtmNEpUZE05TmZtZzNyMWRCTTZNeWRqUU5B?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-07-26T05:03:05+00:00"
     },
     {
       "t": "[C리즈] 나래나노텍 김추호 대표 \"반도체 장비 수출 호조\"",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HVmJNM1VZVU9kTVBFWFd6LWJ3T2l2cTI4ZFY1VmJYMEFaN0JuMkxVcmxrektXOFc2ZGxzcENKUUFwVkx1SmsyMmRuZGN1UjA?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T04:50:11+00:00"
-    },
-    {
-      "t": "美, 강제노동 관세 60개국 확정…한국 12.5% 확정",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWNRc191Q1ZOWFdvc2lEb2lyZ1NadnZOczVfVzZVNjJ3Q1RpYXVmcm9fNEtmVzdiNlp6N1pTcFg5Ul9hdXN5OWlpUkwxRC0tSWNkTi1fQUpZYlN2Y1d6THBmM2I4UDZibUF6TXZ2Q1Q4UFBBMjNPTURIcVYzRVM4X0d0Z3N5dUE?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T04:43:59+00:00"
-    },
-    {
-      "t": "이재용-올트먼, 오픈AI 본사서 회동… AI 반도체 협력 논의 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVF91d3Q0eFN5dXUxU0YyOXNXRkpxVXFzR3NmVG5BMFdTbFBpSXhHOG5zUUtwNHc3dmM4dTUzZjJQeGY1Mlc2dGJBMUxDYW94cDBsOW1WeFNoTXdBczBfMVNROTVuTGNuSWJSeGVHSm9ZNmlBS085UmVXRTFqQjFSMmxn0gGWAUFVX3lxTFBfd2pTMHhTOW42T1NLaWJ4bHBYVzlIeWE3VXBKYXZkZ2FBYkoyRTMxRzdZWFBfZEZySzZGQnBWNnlGMElnRXpIclZ5RzRjRGJSZ2NxYjY4UENQSktfTjdmeW9TSmdJTTdvdFVGemtpYmtsRkRkR01SU19nZ09RcXFvYzdwRWlEOFhSN2EzSjJSd3lBVkp5Zw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-26T04:29:00+00:00"
-    },
-    {
-      "t": "‘호남 반도체’ 띄울 메가 특구…첨단기업 절반 “주52시간 예외 필요”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83V25IS0VGa243b0pldFVJWHRrVkJHVkh1aWEzdFZqNm5SbUlUNmFpVU5LcnR6NzUydXFVa0Fja2ZnMHFtdzVGTXRhdWdzbEdwS2F4ZlRn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-07-26T04:15:57+00:00"
-    },
-    {
-      "t": "[박근종 칼럼] 미국 12.5% ‘강제노동’ 관세 부과, 총 상한 ‘15% 마지노선’ 반드시 지켜내야",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWdtM1lNN0FsYlQtR0NCZERUdklyc1RHTG5yc3AtZG4xTFFzdTlGS3o1WFdmUU1SN2EzUnJ0M3pwMHZZOG1ackpZY0I?oc=5",
-      "s": "시사일보",
-      "d": "2026-07-26T04:06:00+00:00"
     }
   ],
   "asof": {},
