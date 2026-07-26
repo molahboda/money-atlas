@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T11:30:15+00:00",
-  "quotesAt": "2026-07-26T11:30:15+00:00",
-  "newsAt": "2026-07-26T11:30:15+00:00",
+  "fetchedAt": "2026-07-26T11:45:15+00:00",
+  "quotesAt": "2026-07-26T11:45:15+00:00",
+  "newsAt": "2026-07-26T11:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -49,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T11:02:00+00:00"
     },
     {
+      "t": "[조현철의 나락 한 알]‘3대 메가’가 쏘아 올린 지역균형발전",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1naWJGaERPZFVXQ1pHMVJSTGlZM3Bhc0RIOTlZYzREdllsLUhKN2FKRUctR1RoQUJtNzRwVkV3SGdBajRhZmt2d09vUnZmRGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T10:59:00+00:00"
+    },
+    {
       "t": "[한주정리] AI 투자비 청구서와 국제유가 100달러, 미국증시·코스피가 동시에 흔들린 이유",
       "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0k5MC1MSDhobXlGSmdhajZRclQtWUkxSDJNN2pVeXp5bGt4UlAyOWJUQWFQTGVTa0g3R0Y3ZEF5aTZDaWgyWGRIZ3BIRTJrbk1JTmlvLVZPNjVWZDl0bzlNUFVnUl9IQ2YwWmoyZV9wMGRhdWRpWlBqanZ1QmZHMExUNWV1czZIRXBiQzNaZTVydw?oc=5",
       "s": "네이버 프리미엄콘텐츠",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T10:27:00+00:00"
     },
     {
-      "t": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcWRScHNOeU5uMDBpQy1xXzZzSy0yY1NlN3JybG1sX2FQYnV5NnZfMlp0MFpSMzFKejRFMDM2ZW5BNTBuV0hIZHFkdlJ2bjQ5Rno4b0dwc25MQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-26T10:07:00+00:00"
-    },
-    {
       "t": "[주간 증시전망] 레버리지 자금 쏠림 현상 완화 기대",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Si1tblBVQkUxRG9wNmRLLVRaQzZlU0dkWE1TSklyandwMEx1bkRRZ3NKelVURTVFd3pBc0UyQlBZLS1xYnlCNnJqcmFNRUlwaFQ2MWpFeVnSAVhBVV95cUxPeEotbW5QVUJFMURvcDZkSy1UWkM2ZVNHZFhNU0pJcmp3cDBMdW5EUWdzSnpVVEU1RXd6QXNFMkJQWS0tcWJ5QjZyanJhTUVJcGhUNjFqRXlZ?oc=5",
       "s": "전북일보 인터넷신문",
       "d": "2026-07-26T10:06:47+00:00"
     },
     {
-      "t": "CXMT, 내일 중국 증시 데뷔…올해 아시아 증시 최대 IPO",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNzFIY1dsNEF5WFh1WFFicTV2dG1TeDFnNDZPT3pZQW9GUXUzbUxuQzQ2Y1kzRVBzUmI1T2ZWU2JVNFo1cXl6VkpQM0pYSXpTd1NDa2JTcjFTMk0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-26T10:04:00+00:00"
+      "t": "영호남 반도체 相生은 ‘TK 긴급현안’이다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc0p6YmgtSGZ4QmlaSzM3M1oxWmpPVV9naDJnSURXUkNIT1VDT2xPQjZNMWNqRy0xUENHM0dHb1I2cEZaUGhud0steTB2RDllR25EMnpPNy1iQQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-07-26T10:06:00+00:00"
     }
   ],
   "asof": {},
