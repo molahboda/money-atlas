@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T01:45:15+00:00",
-  "quotesAt": "2026-07-26T01:45:15+00:00",
-  "newsAt": "2026-07-26T01:45:15+00:00",
+  "fetchedAt": "2026-07-26T02:00:15+00:00",
+  "quotesAt": "2026-07-26T02:00:15+00:00",
+  "newsAt": "2026-07-26T02:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "회사채 금리 2년8개월 만에 최고…증권가 \"투자매력 높아져\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcDZoUm5MQU9JVGNoTGVXb0EwQzhGa3VDQ1UxQWtOVEU0RFg3cl9FbGRDZjJ1QXU4U1B2MUZVSFkweTFoWHhFVnk2clp6a3dPWHZaOUhMTEhGR0FZdF9qVtIBeEFVX3lxTE05MFNQZVJVSDVTWkV5MEdaSnVMT2M2UWhyVXBFT0lpZXlZOGxFUExFNFJaVVlGVFFRM2gtRG9DVGpHcXRaTVVjOUwxQ0MyRTViUlB6Z2NFWm56TkJ1Mm9lLU50WDExVUMyWFI0SWFobjlBTEJBd09oZQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-07-26T01:53:29+00:00"
+    },
+    {
+      "t": "배고픈 전북에 ‘반도체 떡’을 달라",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWIzc3BfWTNUM2NWY2tYcEVrVGFHbEV4bmcxNzNWOWZGdmc2Z21vT1NsYWN6Mmg5ajJTWXVBR2VFQ3FuTUlmRVEzbllWdm4wbE5ONnBJUXlPN2lrRnFIUEQtdzNad2Q3SFJ2WGdPSGJEV0gzVkNucGF1WThvaVB2dU9ZTkh3bzA?oc=5",
+      "s": "전북도민일보",
+      "d": "2026-07-26T01:47:16+00:00"
+    },
+    {
+      "t": "개미들, 코스피 110조 살 때 ETF도 70조 순매수했다 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2N6WWYwZms3SllEb3RxRm1Tb2FsNE5ydjlqa1ZodDE5WTJhbU9xZ01sQ1R3SjZPTFllYlh3bmFkNHVlamlLcG1nVEJOaHAyQjYzcGZ6Xy05VFdndXhCTzBwUnlBRU5iU2x6djZVSlllUHJuMjRIMnRTNmJudE84S1VYVnQ5bGdH0gGcAUFVX3lxTFBBeF81NmJFRGpkZWZuMXNwMXRrOFBLQ01VX3ljUHFfVzVFRnR5ODU3WTczTzhzaFF0Q25halR3anM5Y0l6SDdXTDVQV0RsdzZ3Z2c5WVdNdW44QkhmUUdxemFMNjJueEk4anU3YWpPb19yR2c1LTJzSVczVW05VFFxV1ZOTmJlUXcwZ2tRRlRMYllTRFJCbkFzRDFHRw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-26T01:37:00+00:00"
+    },
+    {
+      "t": "美 301조 조사 절반은 관세 유예 … 韓 15% 관세 상한 지켜낼까",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VUF90aDBvUG1oQS1jd0hJcVNTNnY3THdaT043T3U1YjVUNC1wcnhqSkhwcFFrY0NiRXA1clBhZ1Frc0pnLVMza1FZclpPZUpXLTNkYkdHMDZGV0lpUngyU0ZrMlBxREJ1WWhJNDRPSFNHejVUSDRGVG1oa9IBgAFBVV95cUxPa1NZQ1N0bU93TXBVaWp6dGhSUFUyNzdhMWJlRG40WlFLdEZHVFdvbUVmcVZuRE9ieVZ1NFRzZlNYWkptbG1SZUhmRGYybWRWVGhReExkd0Vhc1N4UWZuY0Y5VEctelZpZWR3Y0p1Ni1nSnFyamZKekJENmlncG94RQ?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-07-26T01:36:26+00:00"
+    },
     {
       "t": "샌프란시스코서 글로벌 AI 투자 이니셔티브…9500억 달러 반도체 협력",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WMHlUQ0dUMUtxc3lvZUxETkJtMjZ3V0JIT3ZTUmhTYVdtYkpHWVdwSElYNzJiSm96VFRrS29Hc19ldE1CcjNyeDF3Z2JvR2c?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XOF9xZFJ2RGpfX1QzQzV5QU0wR2JvblFDN0tISVpERU03bmJBaGRfWTVZa2dURTlWWW9Kc3lqczVOc2plUXZ1X0JNY2I2dw?oc=5",
       "s": "전자신문",
       "d": "2026-07-26T01:10:00+00:00"
-    },
-    {
-      "t": "수원시, '미래 반도체 첨단 패키징 검증 플랫폼' 구축… 국비 100억 확보 > 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15WlFsQzFpRHBUQjZEb0NnWFZwUlROS2xiQmtLd3U3c3BmdHFWb0VDNXFCdC1lOW1STWtxay0tQWpSVnAxZ040VWpFZTR2bm5HbjFNOTlfVjR3Sld4NTRMOUJTMkh0a3VsSF9KT2pPTDI?oc=5",
-      "s": "더코리아",
-      "d": "2026-07-26T01:02:00+00:00"
-    },
-    {
-      "t": "100달러 돌파한 국제유가…중소기업 우려 커져",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WnhJaDE2bFQyMW9ZRFkzdDVES0RJN2xVOXNuZE1Kb0dGVjhSTVVINkpzX2pLM1doUERwNkZvcXQ1UG11RjRFSDlReVpLaF9LTGFwbzdUWEpxWmpsYl9fYjBNcw?oc=5",
-      "s": "매일일보",
-      "d": "2026-07-26T01:00:00+00:00"
-    },
-    {
-      "t": "[게시판] 에이피알, '반도체 첨단산업 기술개발 사업' 착수 회의",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkRDTkJTbzQ0eFlrM1RCOWtuUHlKQW1BUWMwZGxtcUtRaU5ZVFkxd1VNNEJWYml4blNkR181dTlESmhPcU5oZ1Naa0pDZXZaSmlUOEwycHdSMEN5bmVFU9IBYEFVX3lxTFAyVkRDTkJTbzQ0eFlrM1RCOWtuUHlKQW1BUWMwZGxtcUtRaU5ZVFkxd1VNNEJWYml4blNkR181dTlESmhPcU5oZ1Naa0pDZXZaSmlUOEwycHdSMEN5bmVFUw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-26T00:59:43+00:00"
-    },
-    {
-      "t": "이재명 대통령 “한국 반도체 공장 없이는 전 세계 산업 안 돌아가”",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjJCTmc5WkdsQWxzMlpFR213YS1vb1pQWmtuTlNsMnFBT1VBZUFKbVhnSjR0UC02NFRFNzhZSGE2b1FacmRSdjNuSVNnYU9GM0NQaWctTDBVUGdJWnV0QVJwOGlsMHFDY3FNb3BQZGFjSUwtcmxyQTBONmtzdTlYQW9CSTBScDAyaWc?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T00:52:22+00:00"
     }
   ],
   "asof": {},
