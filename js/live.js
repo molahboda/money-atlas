@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T12:30:15+00:00",
-  "quotesAt": "2026-07-26T12:30:15+00:00",
-  "newsAt": "2026-07-26T12:30:15+00:00",
+  "fetchedAt": "2026-07-26T12:45:15+00:00",
+  "quotesAt": "2026-07-26T12:45:15+00:00",
+  "newsAt": "2026-07-26T12:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MGJuYUQ2X1J4RklWQ0VMZVpyOXZmN21mbFVyV1RMUzdzdnRDUnJDMG1kb0V4RWhzSDRvUmdkeFQzOV9YUHpuVXZkS2dwSlA2?oc=5",
+      "s": "문화일보",
+      "d": "2026-07-26T12:35:38+00:00"
+    },
     {
       "t": "미 12.5% ‘강제노동 관세’에 숨죽인 산업계…관건은 ‘+2.5%’",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZUk5cS0tOUdLbTNtWEhUa3pKQnVzb3J2TFlOSWFKSFV2UllUZHpnY2JhOXhNblNMVGN1UlhiSWFtZE9EaWJQVWtzN2ZfTHhDUE9Qd1VmZ3hJZ9IBX0FVX3lxTE05NFRZdDQzcnJaeThpVlRTMlFkOTBoclVNQVA3Z0FBclVsQmVVeWJnVFRZSGhmVnlNanNHOHR2eTU4Q2REeFNSekdzNU1VbGFiX2YxeUJNRWkzVmZrd3hj?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bk5nZXJRcUx0bENVX29zcXdXWm1jSmh4c3ZRQi1yQWI3WV84cjFJdFhZcEtjYjBsd2RkNTNVSGtCNU12cVZ4bUk3UkhOWDg4aXZRQ1psMzA0UE5qbzRUQThVM1ZRTVRYaHZn?oc=5",
       "s": "한겨레",
       "d": "2026-07-26T11:07:00+00:00"
-    },
-    {
-      "t": "‘미 추가 관세 2.5% 밑으로’ 초당적 총력전…“3500억달러 대미투자, 카드로 써야”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WHlnUlZpTU9vTnJ2ZG1uLUREdmp1bEJMakV1VGJQLUoxRTdQQ2NrZ0ZiellsVDVlNzhVeWNlSHpOM2dkbGQtZ3JWX3hNdlpuc2daMDBfa2hPNzZqa1FrSHFpa3VfMUFGenc?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-26T11:02:00+00:00"
     }
   ],
   "asof": {},
