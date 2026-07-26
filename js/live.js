@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T19:30:15+00:00",
-  "quotesAt": "2026-07-26T19:30:15+00:00",
-  "newsAt": "2026-07-26T19:30:15+00:00",
+  "fetchedAt": "2026-07-26T19:45:15+00:00",
+  "quotesAt": "2026-07-26T19:45:15+00:00",
+  "newsAt": "2026-07-26T19:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "“트럼프 301조 관세 위법”… 美 기업 2곳, 무효화 소송",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DNk1VYWx3bmlKamlyWVFfY1R4TmI5cllFd1kzOU81dXNxVjJONlhiOWEzTVlVOW5RWWNxU2ZUcUNYMzFkcHlHVTJCUWZUdHlvaFZjTWdrbWZnOUVCdWhkQ0RUUVhjVVBpOEZtZHNkbGlVenfSAWZBVV95cUxPeW9MdVZ4UGJidWZnUGxmXzZ0akxZZTMtd3VIaGNBRmVWR2t2MEplMmxyUDVoRWtQOFRXaGpnMGI2YlJiNmhFd2ROa0t6N0EwbFZQQ044ckxuRjV2dk01cHU0bzRnY3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-07-26T19:30:00+00:00"
+    },
+    {
+      "t": "“삼성-SK, 美빅테크와 9500억달러 반도체 협력”",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4RXpmZWN3Y3hlVzZScUlhMndLRWhZTVVrZ1BmZFBBQWlYZFUyRC0xQkVJV2VqaTlpckJVcEx1YW9iT3k5SnIwXzBuaDZXQktyRjQ4N0FCOUZ3UTFJNUNVRzA4eXRNT2tKZktDY09uRmtjQVQ3dzBz0gFmQVVfeXFMTTRxZE10TzJ3cVh6VWNHQ0ZDTndXbnVoaGVkcXhNMmNQRm54M1hiUXVMNHc5Tld4Sks0WU9FaWZIbmc2ZDVKMGs4UUZHQmZRc1RpRW8yeWdQWVhGUkd0dEgwQUpDcHRR?oc=5",
+      "s": "동아일보",
+      "d": "2026-07-26T19:30:00+00:00"
+    },
+    {
+      "t": "미·중 핵심광물 갈등 격화... 반도체·배터리 소재 공급선 재편 가속",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXBKOGVGNnhteEpTMmsxRGlubXVORHFLVVVRdXpQOHNsYm95TklETWw5Znh2VFhWb0p2VEY4N1JqNTk0X0xUN05GTkF5SFdaVEpFcEl5VEI1QmdQUjZnNXpLMnZCeUpZbG05OEtCSFprajFaN1VmOENSYjlzT2JadFpteTNCbnM?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T19:30:00+00:00"
+    },
+    {
+      "t": "美빅테크에 K반도체 장기공급 계약…“피크아웃 우려 완화 기대”",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9naW03bDMzYV9sdnVtX2ZGcFN3bVZyQ0lTa3hoSGQxTTBPS0g2bHg0MHEzRkdrbDJzb3NMaFl5VWZEbUtyM0Y4UjcyQzBRU0NHM1VFb1ZNbnBWZkNxTERoNEpzYjJfX0xoWk1qZFNEWTVTbHZGSXfSAWZBVV95cUxPZGdGcnBCeHlmT2FTWWhMb2o1c3lsVGR6YkdESEVRUnZZbnB0bFlpd0wzWXY1U2NnUXljdEtzMUk2dlAyZUdWejczU3g5QnBUTUNza0pVb2Z2Y2lwYjQ4X1pySVhRREE?oc=5",
+      "s": "동아일보",
+      "d": "2026-07-26T19:30:00+00:00"
+    },
     {
       "t": "7,000선 내준 코스피…'AI 빅테크 성적표'에 반등 달렸다",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HYlMtSmh3cF9yaE8zY2owRE5ocTJZZlFTQTI5NEtobjRORTduQXM2b0tTQ01EN0pxYnpqanloaVhoRXplRkZrTExkQXk3Z2tWY2VkTnVRSjhlb2ZGY1E?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-26T17:57:00+00:00"
-    },
-    {
-      "t": "원전 멈춘 대만, 해상풍력 8배 확대…반도체 전력망 지킨다",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVNIBbEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVA?oc=5",
-      "s": "임팩트온",
-      "d": "2026-07-26T17:43:25+00:00"
-    },
-    {
-      "t": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NTTJ0MzlOY0VKUDVmSXJ5YnRhaUs5RkZVbUpRSG5KQXAySjgtZDcyT3JuemVQZ1o1RnYyLTd5UnNXWEZFUEZNV1pFQUc2eXZ0dVNfdC01Q3pIVFJJbDdFNWFGRVZlcHJEd0NTN9IBbEFVX3lxTE9NTTJ0MzlOY0VKUDVmSXJ5YnRhaUs5RkZVbUpRSG5KQXAySjgtZDcyT3JuemVQZ1o1RnYyLTd5UnNXWEZFUEZNV1pFQUc2eXZ0dVNfdC01Q3pIVFJJbDdFNWFGRVZlcHJEd0NTNw?oc=5",
-      "s": "국민일보",
-      "d": "2026-07-26T17:34:00+00:00"
-    },
-    {
-      "t": "FOMC 프리뷰: 유가 급등에도 Fed 동결 전망, 씨티는 비둘기파적 결과 예상",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOcUwwdVpWaXF1WW0zTE9EZ2pMNHI3eHpvWmNzSUp5VDNkZ1hlTENhVDhFbWw1R1FMb21FY0M0aHVNQmI3RFFWaHp0R1BGSUZsZ1daV1F1dnNLMGJtQk8wRTZ1Qk1IejhOaHpPUElfR3g?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T17:06:00+00:00"
-    },
-    {
-      "t": "한자리 모인 한미 빅샷들… 반도체·데이터센터·로봇 ‘AI 동맹’",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHFqRFY0bktpTTUzVHdfNVViU1EyS0lmc2pyck0tWTFQTWtXQnB1ZnJYN1FtcWJoOG9LTkZnT1VBU242RThobVJzUzlMZlZtTXVFRXpKal9ScGhDVjgtT05NMEZkQkFxRHo2OTJkSWpzS3ljVEc0dzQxNG1VZmcwRXJxM2FHM3ZVSTVzZ0I5aw?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-26T15:51:00+00:00"
     }
   ],
   "asof": {},
