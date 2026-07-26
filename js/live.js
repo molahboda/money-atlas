@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T08:30:15+00:00",
-  "quotesAt": "2026-07-26T08:30:15+00:00",
-  "newsAt": "2026-07-26T08:30:15+00:00",
+  "fetchedAt": "2026-07-26T08:45:15+00:00",
+  "quotesAt": "2026-07-26T08:45:15+00:00",
+  "newsAt": "2026-07-26T08:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,14 +25,44 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "다시 직면한 고유가-고금리 위험",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdC1GNjVmZk5aZ0x6RlhGREVoT3ZoWGpnR093NEZwdXFPMWZ5aHpGMGdZTnVCQmQ2RGYzRkY5TVIwWksxaWU1VDdJM2t3d19pQmxQTHJvV1BsZlppbk50YWtMbjhqbEk?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-26T08:27:00+00:00"
+      "t": "케빈 워시式 '깜깜이' FOMC…월가 '동결 vs 인상' 팽팽",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95WVZMOGFmbjlhb2NCZXg3aEcyNG82b1lBbnVpMkpaMkQ2V3RLY05WX29LaElJVkVvRzNkTUxoa2xqckZmX3lSdDR4RWZtUm5BNm1yS192ZTVNdnpVYUNwU2dVajdHZVA0Y3Q2SmhWTUtseUE?oc=5",
+      "s": "마켓인",
+      "d": "2026-07-26T08:40:11+00:00"
     },
     {
-      "t": "삼전·닉스, 미 빅테크 기업 ‘1375조원 반도체 선주문’ 받았다",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bk5nZXJRcUx0bENVX29zcXdXWm1jSmh4c3ZRQi1yQWI3WV84cjFJdFhZcEtjYjBsd2RkNTNVSGtCNU12cVZ4bUk3UkhOWDg4aXZRQ1psMzA0UE5qbzRUQThVM1ZRTVRYaHZn?oc=5",
+      "t": "전북 800조 반도체 협력도시 제안과 옛 김제공항 예정부지",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUM4ZGhLOHRFWW9NWFZKUzE4RllKRDRxVFItNXNkeWhzNlliNUVoNDJzRGxzbUdKdWlYa21CRFFpR2xrTUJMeFhEQlpELUR2SGVYNERDck85ZjNTd2pZX0hvY1NZbGdGclgwYURfMGVmOHNqUTg3REJFZnFybnNvYkR6MHlDVlE?oc=5",
+      "s": "전북도민일보",
+      "d": "2026-07-26T08:39:19+00:00"
+    },
+    {
+      "t": "환율·채권시장, 유가·FOMC 촉각…원·달러 1400원대 중후반 전망",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jN3JZeWp6MlRuY0h3U1ZiV3d1UFcyTlJBTEJSRFhtbU01THoxb3hjSXBMUC10ZmdXNV91Z2NvM3VZamtnZW5JNXdNVFdlT29q?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-07-26T08:35:11+00:00"
+    },
+    {
+      "t": "국제유가 고공행진에…원유·신재생에너지 '들썩'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Z21KQzdZaWNqVlZsTTVlV3ViWEpvSFBFdlljYUo4dU1qcUM5Z19ZOU4wMHMtLTF0MTlIVkFlLUtHUXBYbm1QRVY4ZkhjTEhhODZIQjF3cFVUZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-26T08:31:21+00:00"
+    },
+    {
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBULUVkSW9OOWJYUjhObFVpVWQ4YU9pRmdjQzdKYmY3aU1fcG5xS0xpQndpNnNzSGJ3LXZ6dHN0UEVaemtQaFBDUE9SQkFpVEpMb2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-26T08:29:40+00:00"
+    },
+    {
+      "t": "[비즈니스 인사이트] 반도체 호황기, 유능한 CEO가 해야 할 일",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DbWNJX3RRLTVoZGxNakR6bzF3eHJTMzZNZzg2VWtGRFRwY05fWl9rOUtaN2JtQ3Boc1pLZGMxaUtPRUtUMjVaVXBaQWU5YU1maGNmaWdXZUM4dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-26T08:27:01+00:00"
+    },
+    {
+      "t": "다시 직면한 고유가-고금리 위험",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdC1GNjVmZk5aZ0x6RlhGREVoT3ZoWGpnR093NEZwdXFPMWZ5aHpGMGdZTnVCQmQ2RGYzRkY5TVIwWksxaWU1VDdJM2t3d19pQmxQTHJvV1BsZlppbk50YWtMbjhqbEk?oc=5",
       "s": "한겨레",
       "d": "2026-07-26T08:27:00+00:00"
     },
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JdXBuQTliTGIwRUdkTmdKb1cwS3RrNkZ0WGV3a3JSc1FLa05jbHhjNGhNSGF3Nm5ybXNZSm1DMlhzZndndjVlOFdsUEZuWm84SjhjRGRR?oc=5",
       "s": "중앙일보",
       "d": "2026-07-26T08:17:41+00:00"
-    },
-    {
-      "t": "[뉴욕환시-주간] '40년來 최저' 엔화…연준이 매파적이면 더 꼬이는 BOJ",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhY1FnNzYwVVFRSEl3U0RmYmlpZ3lmYnNrcGE2RHduQmRkU3JKVU1oNlc0Y3QwZTJqOU4ySVVGeXZUNGF1NjZ3V3ZPYjJiRnhxLWtWa18tLW1EZ3EwSS1wRHVUbnNlemFtWFlxcU5xMi0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-26T08:16:17+00:00"
-    },
-    {
-      "t": "반도체 생산 얼마나 늘었나…하이닉스 실적 발표도",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qNTZUZTBNZWRqOFZGUEFaOENFekhydjd2ZkVadTJuX21OUVRLeTZXWUlsNWpJVnVNbWVwS0hEUGgyNnI2dWNvdW5ZYmVfSHotMlNwdmpKTFk3dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-26T08:15:09+00:00"
-    },
-    {
-      "t": "케빈 워시의 두 번째 FOMC…기준금리 올릴까 [한상춘의 국제경제 읽기]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic0ZsVDNVdmFCNnNCcV8wc2JUd2psWnVPRUp3U3VodVFuWXFfYkMwMDE3cGpOWldsNHhrajczZFAzMEYyeE1ZYVc3QS1NQUo1NGRJQTZsaG9idw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-26T08:11:27+00:00"
-    },
-    {
-      "t": "\"하루도 안 빼고 사이드카\"…롤러코스터 증시에 일주일 내내 경보음",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04OVBNbWx3cDZrd1U1WVNJcUgzOUk0LVgyRHZpWE9DMjBHeW5yMFVoRVdTVzBBcEdfRGNNOGZQa244cWJ1NUpYVV82YmRlNkE2dUxqLXFELUVQQ0pnNHgwdNIBeEFVX3lxTFA4Q0U2UVpieThSZVFvT0dQbHBIZ0FqNzNzWnFQZ3FKZ3U5RHNjdWdWc2ZZQXZod0gwQ1BIc2dsXzNyRkZpR3NWcS1SelIyRHM2Q0hMYndRbzdRUFpMeHQ3VTBRTlVGRzRJOEFGNTJEMWVUUzkzeWVLMg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-07-26T07:46:41+00:00"
-    },
-    {
-      "t": "관세부터 핵도미노까지…트럼프발 '4각 파고'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KVFRabnlKcGtmbmZ2UF9BX0RHMUdSZVlrQU9ONFpjeGVnNDZlNktxUWlIQkU0YjhqeDBjc203ZVQ1VDVSRWQ1MjY2TlJOb1lFbjFYRDFIYldQWVZuVmFMag?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-07-26T07:40:29+00:00"
     }
   ],
   "asof": {},
