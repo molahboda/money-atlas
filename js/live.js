@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T11:15:15+00:00",
-  "quotesAt": "2026-07-26T11:15:15+00:00",
-  "newsAt": "2026-07-26T11:15:15+00:00",
+  "fetchedAt": "2026-07-26T11:30:15+00:00",
+  "quotesAt": "2026-07-26T11:30:15+00:00",
+  "newsAt": "2026-07-26T11:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "[헬로즈업] 휴머노이드 로봇 1대에 반도체 칩 1,000~2,000개 탑재",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSjRaWXJaZFNLN3g5TFloc0tmLU1qNnhjRFNBUEd4Y25zQnhGd3VxS2pLNE5zbENrbU9GNzJUbVUyWlQ5VndHa0xBb043ZGdtT0QyOWdqSDlRNENzaDAw?oc=5",
+      "s": "헬로티",
+      "d": "2026-07-26T11:19:46+00:00"
+    },
+    {
+      "t": "골드만삭스, 워시 연준 의장의 통화정책 태스크포스 전망 분석",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xbmQtTzdPZHRmbjBLeE5IMVdJU0RtX3VlUF9RU2lMYU9kdUhKVFBld0wtVl9samxFRjh4ZU55T1FDZmtqU1RuRHlFa0hBaW10RDE2d2Q1djc2OC04N2RuLW9NdmdMRmxPMEE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T11:13:00+00:00"
+    },
+    {
+      "t": "미 빅테크 기업들, 삼전·닉스와 반도체 등 1390조원 규모 협력 추진",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bk5nZXJRcUx0bENVX29zcXdXWm1jSmh4c3ZRQi1yQWI3WV84cjFJdFhZcEtjYjBsd2RkNTNVSGtCNU12cVZ4bUk3UkhOWDg4aXZRQ1psMzA0UE5qbzRUQThVM1ZRTVRYaHZn?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-26T11:07:00+00:00"
+    },
     {
       "t": "‘미 추가 관세 2.5% 밑으로’ 초당적 총력전…“3500억달러 대미투자, 카드로 써야”",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WHlnUlZpTU9vTnJ2ZG1uLUREdmp1bEJMakV1VGJQLUoxRTdQQ2NrZ0ZiellsVDVlNzhVeWNlSHpOM2dkbGQtZ3JWX3hNdlpuc2daMDBfa2hPNzZqa1FrSHFpa3VfMUFGenc?oc=5",
@@ -49,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-07-26T10:27:00+00:00"
     },
     {
-      "t": "[사설]사우디 농축 허용·관세 부과, 신경 거슬리게 하는 미국",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TeEhrY0xzREEtZEQwaVgwbERGY1VtZHNNc3BCZnB5N1g1WjB4OWEybmpCa3dUbXdEdHdpT2huWi1vMVpsUzNqZmMyTU03czB6U212RFcyODg0QdIBX0FVX3lxTFBrNjRWbXJqMlE2NUVXT0dUZ0dNUEYzYmdJVFVKdVdWMzAtSUlxdHRhV3A0SlQzeWUzaThaVWFIeWtYRDhTa1MtSmtnX3ZHdDNSZEpYTS1TNEtxaVhnY093?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T10:08:00+00:00"
-    },
-    {
       "t": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcWRScHNOeU5uMDBpQy1xXzZzSy0yY1NlN3JybG1sX2FQYnV5NnZfMlp0MFpSMzFKejRFMDM2ZW5BNTBuV0hIZHFkdlJ2bjQ5Rno4b0dwc25MQQ?oc=5",
       "s": "한국경제",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNzFIY1dsNEF5WFh1WFFicTV2dG1TeDFnNDZPT3pZQW9GUXUzbUxuQzQ2Y1kzRVBzUmI1T2ZWU2JVNFo1cXl6VkpQM0pYSXpTd1NDa2JTcjFTMk0?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-07-26T10:04:00+00:00"
-    },
-    {
-      "t": "국제유가 불안 다시 고조…’물가·환율·금리’ 경고등",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kX0dWWkZOZnZCYlhpbEVnU3doaUtrOWVIWlFPRzVLN1ZGSmNCbnZ3cnVKVVl3YlFuZUZfYU9Ga0N1amJmZ0tKcGRGTk5QZXR3Nm15bzRzcmhLR2JqcVFNUnBzUkJ4WTA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-26T09:41:00+00:00"
-    },
-    {
-      "t": "[기획] 젠슨황부터 올트먼까지… 삼전닉스, 반도체 초격차 굳힌다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52WFVaU3gxUFZMUFBJaElBQXdQR1hVM0dvZ3gwc1Jxc0JvS194ODR1M0M0NjZQQUppa0Jwdnlad2k5d0lZX0ZnMkNZaFV4NTQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T09:38:10+00:00"
     }
   ],
   "asof": {},
