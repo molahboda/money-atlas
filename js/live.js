@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T17:30:15+00:00",
-  "quotesAt": "2026-07-26T17:30:15+00:00",
-  "newsAt": "2026-07-26T17:30:15+00:00",
+  "fetchedAt": "2026-07-26T17:45:15+00:00",
+  "quotesAt": "2026-07-26T17:45:15+00:00",
+  "newsAt": "2026-07-26T17:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -44,7 +44,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "“美 관세 15% 아닌 경쟁국보다 불리하지 않게 협상해야”",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EWm9nakVEZERoY3c5R3BORk0xZ1N3cUFDVkZYRmFrNW14VWpoTkF4X3hsRkhBQUV3ZXhTQ01yZlNiU2NXbUhGOEhIVkU0NEswcGoxb19YNnRQU3RURkRkOWd3?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpRGx5TlRKSzBKUHY1TU5ETzlMYVpxbjJ4VmVHOURtX3lEbnJtRHFrSXdqOFU1bFNFZWRiMjdXRlIxd0o5WkZxQjZNQk5OSUhQRG9JWlpyQkw4Z2lnZTNyVFJUcy1fZGx0NEdGeldybw?oc=5",
       "s": "서울신문",
       "d": "2026-07-26T15:39:20+00:00"
     },
@@ -53,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGVmOXBLcVZIekhpMVp1T25wYXBiaV83ZVE4MlB0NU9pTnFpUzJmc1pYd050QWNMTUpKcXB2VjhEbWZmTHlOTWc1RTVhNTJNbFN4aWZPbUhEcFBMcVk5bkc0dzVBNnBDcDJ0SDJEYXZiZmRzTGFLOF81OUh3Zy04czk1TQ?oc=5",
       "s": "조선일보",
       "d": "2026-07-26T15:36:00+00:00"
+    },
+    {
+      "t": "삼성전기(009150)",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2FDaXJ6VHdSUUFhY2FWV1FnbUwtaTF3LUtxbU5wRHYwcW9Rb1FWZlMyb2x1NjZnWE5SSHA1Q0pQODh4LU9ieV9RYWxXR1FScWxpQjFtSFF2Zi1iblpHcGJialZlRWVNaXJvTlpvWXE4ZXRLdElBV1ZLb1NaTHQ1Rlpua0xWZ0Zici1pNElXSElKQ05FSG5V?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-26T15:35:08+00:00"
     },
     {
       "t": "\"수급 꼬이며 하락한 증시, 단기 저점은 6300선 안팎\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iREcyZkI0QWJJUjhTRWlYUVJ2aXN3b3ZGWHZBd21heFlzNzBTeVkwRVhXUlp0NjVzZklQemJnNFJWTFVrU3BtVGJPVFBTaG5UTkNfd2VpUHUxVmRqcVpFTzk5OEc4cE1zTVgwWXN2NXZGTTNNRUHSAWZBVV95cUxOTFlQSHZLQTgtWlo2Y3dKS2lKR0VDZTBmWXpZZWhTS2dIaWNaZXBzS1N2dnBFcWptejhjZzlVcXJzRFlNRHhNX0xqVkVfRE5PRVJURHBGdk5wRzNYZE5WNnkxb09felE?oc=5",
       "s": "동아일보",
       "d": "2026-07-26T15:30:00+00:00"
-    },
-    {
-      "t": "“반도체 호황 2~3년은 더 간다… 단 中 추격 두렵다”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYZ0JJb1FuSTFDMWJVbGJzVzhlU0dkWEhGY2lRdXRZTlRvX2ZRRW90d1hkUHRmVkFqekJKOURXU004QWpuci1mbVJJaFBsbjg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T15:09:38+00:00"
     }
   ],
   "asof": {},
