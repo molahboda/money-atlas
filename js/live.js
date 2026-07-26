@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T17:00:15+00:00",
-  "quotesAt": "2026-07-26T17:00:15+00:00",
-  "newsAt": "2026-07-26T17:00:15+00:00",
+  "fetchedAt": "2026-07-26T17:15:15+00:00",
+  "quotesAt": "2026-07-26T17:15:15+00:00",
+  "newsAt": "2026-07-26T17:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "FOMC 프리뷰: 유가 급등에도 Fed 동결 전망, 씨티는 비둘기파적 결과 예상",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOcUwwdVpWaXF1WW0zTE9EZ2pMNHI3eHpvWmNzSUp5VDNkZ1hlTENhVDhFbWw1R1FMb21FY0M0aHVNQmI3RFFWaHp0R1BGSUZsZ1daV1F1dnNLMGJtQk8wRTZ1Qk1IejhOaHpPUElfR3g?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T17:06:00+00:00"
+    },
     {
       "t": "한자리 모인 한미 빅샷들… 반도체·데이터센터·로봇 ‘AI 동맹’",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHFqRFY0bktpTTUzVHdfNVViU1EyS0lmc2pyck0tWTFQTWtXQnB1ZnJYN1FtcWJoOG9LTkZnT1VBU242RThobVJzUzlMZlZtTXVFRXpKal9ScGhDVjgtT05NMEZkQkFxRHo2OTJkSWpzS3ljVEc0dzQxNG1VZmcwRXJxM2FHM3ZVSTVzZ0I5aw?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYZ0JJb1FuSTFDMWJVbGJzVzhlU0dkWEhGY2lRdXRZTlRvX2ZRRW90d1hkUHRmVkFqekJKOURXU004QWpuci1mbVJJaFBsbjg?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T15:09:38+00:00"
-    },
-    {
-      "t": "[중국증시 주간 포인트] 각국 기준금리 발표, 7월 중앙정치국회의, CXMT∙중제욱창 상장, 삼성∙SK하이닉스∙ MAG7 실적, 산화지르코늄 등 제품가격 인상, 고체 리튬배터리 표준, 차이나조이 개막",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VcU1waU9XWmMycWY2SDZPaUZsY3lkNEE2T2owdVpWYzdqOC1YZVkzVHFldmhWRU03d0MtdGRHSGwxT3pjLVJUcDByT0ptX0xNemhOSlhnNDFFUzNJ?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-26T15:04:00+00:00"
     }
   ],
   "asof": {},
