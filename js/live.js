@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T07:45:15+00:00",
-  "quotesAt": "2026-07-26T07:45:15+00:00",
-  "newsAt": "2026-07-26T07:45:15+00:00",
+  "fetchedAt": "2026-07-26T08:00:15+00:00",
+  "quotesAt": "2026-07-26T08:00:15+00:00",
+  "newsAt": "2026-07-26T08:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,14 +25,32 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"하루도 안 빼고 사이드카\"…롤러코스터 증시에 일주일 내내 경보음",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04OVBNbWx3cDZrd1U1WVNJcUgzOUk0LVgyRHZpWE9DMjBHeW5yMFVoRVdTVzBBcEdfRGNNOGZQa244cWJ1NUpYVV82YmRlNkE2dUxqLXFELUVQQ0pnNHgwdNIBeEFVX3lxTFA4Q0U2UVpieThSZVFvT0dQbHBIZ0FqNzNzWnFQZ3FKZ3U5RHNjdWdWc2ZZQXZod0gwQ1BIc2dsXzNyRkZpR3NWcS1SelIyRHM2Q0hMYndRbzdRUFpMeHQ3VTBRTlVGRzRJOEFGNTJEMWVUUzkzeWVLMg?oc=5",
+      "s": "뉴시스",
+      "d": "2026-07-26T07:46:41+00:00"
+    },
+    {
+      "t": "관세부터 핵도미노까지…트럼프발 '4각 파고'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KVFRabnlKcGtmbmZ2UF9BX0RHMUdSZVlrQU9ONFpjeGVnNDZlNktxUWlIQkU0YjhqeDBjc203ZVQ1VDVSRWQ1MjY2TlJOb1lFbjFYRDFIYldQWVZuVmFMag?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-07-26T07:40:29+00:00"
+    },
+    {
       "t": "고유가에 물가·금리 상승 우려…관세·환율도 변수",
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtUnJOZ0lyaGtLZXlWYURsQzNySnVjUGF6ckU3YUZUZGZXckUwa2E2OW4wMHFaZGhIbGEzdjRUU1hWYzlFZWV3TWJpdw?oc=5",
       "s": "아이뉴스24",
       "d": "2026-07-26T07:40:25+00:00"
     },
     {
+      "t": "금리 인상·1200%룰 겹쳤다… 생보사, 연금·저축성보험 판매 확대 기류",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oQ015cmEzZTZoUU5LWmZTRHBZLUpTay1feTVWcEkyUGlTWW8yWG41MGN6VTdwTjBrc0wzemVFY1AxNy1NUjJWOHYxY2lHU3NqNURtU1ZKbnV5eGx5Z29nYXJTUlVVSkZsQmw1c29IWQ?oc=5",
+      "s": "보험저널",
+      "d": "2026-07-26T07:33:14+00:00"
+    },
+    {
       "t": "[기고] 광주 반도체 메가클러스터 조기 조성을 위한 군공항부지 대책",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxMlB6Qm42LUU4Znk0aFNONmVWMWJsZTJHVHpQRFhpMlJUWmhrTmZVRG1LdTdCRWJmYjNGM0pIcXd4azd2bzdacXlUT01FZEtLRnc4?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RMlJvYzVvajY3cWJwR0hSVXJ1ZGZfdlh2VDdmWEZHXzRlNENpZlBUenhmUnRwNmw1ZjRYaU15U0s3Q3A5WFlPR0pWQTVJdnpPUXpsNEp3?oc=5",
       "s": "무등일보",
       "d": "2026-07-26T07:32:00+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
       "s": "경향신문",
       "d": "2026-07-26T07:07:00+00:00"
-    },
-    {
-      "t": "삼성전자 이재용 회장, 오픈AI 본사서 샘 올트먼과 만나 반도체 협력키로",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4RkhxS1c1M1J3RnlHMjBTTThsTzJtLUYwVmF3dHN3R0RWaXotZ2ZzaDNsWnFNRDhLVm1DeTdkRWtOWDJ6X0p1NHlTSklkTWF4b3VpQTJMN29yYWYxbGwxc3RwNnBjSmRmQ2JZakpHMENCaFB30gF0QVVfeXFMT2FEdmFRUE1YLUtUQWxqX1pIbHdoRElOVHFlRF9hRlo4NC00aWtzckVhV1l4UWk3VXJFT191VGNLRlg3dnRaYld5ZFh1emhmTndiX3VyM3F4X1pIeDNCSE1veWJxTlNtSldtci1DNU0xT2NqelI?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-26T07:00:09+00:00"
-    },
-    {
-      "t": "중동 위기 속 맞이하는 美·英·日 '금리 위크'…\"매파적 동결 예상\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oUmdoNjBLX2d3SlNiMXlGLWVySVA2Ync3dDJ2X0xrSE5FbGRYNnNhcVh4cXJyc3RSNjRUQm1CR1pVVHNqOGxQSmthemJJTUIzc25ybVNDd243NFNNdFNhb3hDc2F0bUVvWnZRQUhn0gFuQVVfeXFMTmhSZ2g2MEtfZ3dKU2IxeUYtZXJJUDZidzd0MnZfTGtITkVsZFg2c2FxWHhxcnJzdFI2NFRCbUJHWlVUc2o4bFBKa2F6YklNQjNzbnJtU0N3bjc0U010U2FveENzYXRtRW9adlFBSGc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-26T06:56:25+00:00"
-    },
-    {
-      "t": "코스피 7000선 이탈…“정부 개입에 시장 불안”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhVDBCbkJsOUhxYkttN0dxLXZpWUlMZi1LYi1Ockw3bS1NX1Q0b2lPS2VnZ09nVy1XeHBjRlR3Z2pmMlVBWHhDU1RpSm1YeUZiQkF3X2VQM042ZzRGZWdyaDV2QXhFZkJ0ZHc?oc=5",
-      "s": "인천일보",
-      "d": "2026-07-26T06:45:00+00:00"
     }
   ],
   "asof": {},
