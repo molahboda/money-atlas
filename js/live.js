@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T16:45:15+00:00",
-  "quotesAt": "2026-07-26T16:45:15+00:00",
-  "newsAt": "2026-07-26T16:45:15+00:00",
+  "fetchedAt": "2026-07-26T17:00:15+00:00",
+  "quotesAt": "2026-07-26T17:00:15+00:00",
+  "newsAt": "2026-07-26T17:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -55,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T15:35:00+00:00"
     },
     {
+      "t": "고금리에… 금융사 순익 13조 최대, 가계 연체율은 10년새 최악",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tWmdvU2JRcjVGWXRPZGwyX1l5cHV1OE1CVFRjRUl6Sk9mRzVfT21FMlFmV2VDblcySzZ4Zlh4bXVYbGxGM2dxcWR6LUltYm8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T15:32:07+00:00"
+    },
+    {
       "t": "코스피 급락에… 서학 개미, 다시 美 증시로",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWU4yeS1aMzRvWVp1b2hfVHE4TUdveHl5YUhCbThoNzlnb1hPV0VsU1p4cDZlTzV2d2VYcUpjWHFMaDVyTktvbGJ0Y3daZXFnb2lpbFlFRDhLTjFsS1ByQUkwam5aVHhUVzRUM0tOTm10dGM3XzI1amsyMWtsdVNubTBpTlNaNWNxUTVJ?oc=5",
       "s": "조선일보",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VcU1waU9XWmMycWY2SDZPaUZsY3lkNEE2T2owdVpWYzdqOC1YZVkzVHFldmhWRU03d0MtdGRHSGwxT3pjLVJUcDByT0ptX0xNemhOSlhnNDFFUzNJ?oc=5",
       "s": "뉴스핌",
       "d": "2026-07-26T15:04:00+00:00"
-    },
-    {
-      "t": "국제유가 ‘홍해 쇼크’…하반기 ‘물가 3% 사수’ 비상",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11RWluOGY5VzhYRnBmblg4RU9FSmx1OXdKLUl6QVliaUhEYkN4M0dCUlRNTVRRRDZ4OFlPS3VsY2x0TkpNdi1ra2lzaWF3WWFaMVVsck5R?oc=5",
-      "s": "중앙일보",
-      "d": "2026-07-26T15:02:00+00:00"
     }
   ],
   "asof": {},
