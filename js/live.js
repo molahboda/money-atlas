@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T12:00:15+00:00",
-  "quotesAt": "2026-07-26T12:00:15+00:00",
-  "newsAt": "2026-07-26T12:00:15+00:00",
+  "fetchedAt": "2026-07-26T12:15:15+00:00",
+  "quotesAt": "2026-07-26T12:15:15+00:00",
+  "newsAt": "2026-07-26T12:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "유가, 하반기 증시 핵심 변수로…물가 계속 오르면 8월 또 금리인상 가능성",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRHUxOWlhNklMTjFpLXl4bXhaTmVId192d0NxbnpHUFdCOUZ4enQ1Q1c0NnFQNGJyTWRGSzVKMDNiWEplM0dmQXc1RDJhbTFEWWl1Qm1DVlFJSVFvdmE0VmwzV0hLcUpFY0IyaHJVT1Y5UzhMTHfSAWZBVV95cUxPdkxKY0JHZE14ajc1enFMQTlXeGFiNTdpazIxRHhUeGRqTnFYRHhScWE1dFJNdWVXOGNITUJmX3hDMzRoRzBhdzNhaS0zYk1waTRyQk9uUDhsMEZaUEY1dkN2WXRscEE?oc=5",
+      "s": "동아일보",
+      "d": "2026-07-26T12:02:15+00:00"
+    },
     {
       "t": "[단독 대담] 김민석 \"서남권 반도체 클러스터 반드시 성공...지역 문제가 곧 국가 문제\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZUtPZ25XbURGcVNPNnB2NEhmSUhKVE1uM3JMNHZmLVB2Qmltb0ZWNTJvNGFsQzFsMV8xeWJ1Q2hGbHlVNmFqcmdaTWJGRlhjS2xiRHNwaVdiUUotX1RkN2xnMlBmb1k?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1naWJGaERPZFVXQ1pHMVJSTGlZM3Bhc0RIOTlZYzREdllsLUhKN2FKRUctR1RoQUJtNzRwVkV3SGdBajRhZmt2d09vUnZmRGc?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T10:59:00+00:00"
-    },
-    {
-      "t": "[초점] 정부, 8차 석유 최고가격 동결…휘발유 1,784원·경유 1,773원 유지",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UalRNUjJNaDlaM2JFS1lxM1pKcWFjdEQ4c1FIUWFHdWtwQjloZ1VQN2l0YTRqcXl5dGdESHdHR1RQM0JyeEFLQkdpd0R6aUlaM21QMG5GRURENFE4ZHVkSjhocmNETmJocEd6UWxrZnQ1UQ?oc=5",
-      "s": "에너지데일리",
-      "d": "2026-07-26T10:47:45+00:00"
     }
   ],
   "asof": {},
