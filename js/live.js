@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T15:30:15+00:00",
-  "quotesAt": "2026-07-26T15:30:15+00:00",
-  "newsAt": "2026-07-26T15:30:15+00:00",
+  "fetchedAt": "2026-07-26T15:45:15+00:00",
+  "quotesAt": "2026-07-26T15:45:15+00:00",
+  "newsAt": "2026-07-26T15:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "견제? 활용?… 중국 AI·반도체 규제 놓고 갈라진 美 빅테크",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGVmOXBLcVZIekhpMVp1T25wYXBiaV83ZVE4MlB0NU9pTnFpUzJmc1pYd050QWNMTUpKcXB2VjhEbWZmTHlOTWc1RTVhNTJNbFN4aWZPbUhEcFBMcVk5bkc0dzVBNnBDcDJ0SDJEYXZiZmRzTGFLOF81OUh3Zy04czk1TQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-26T15:36:00+00:00"
+    },
+    {
+      "t": "코스피 급락에… 서학 개미, 다시 美 증시로",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWU4yeS1aMzRvWVp1b2hfVHE4TUdveHl5YUhCbThoNzlnb1hPV0VsU1p4cDZlTzV2d2VYcUpjWHFMaDVyTktvbGJ0Y3daZXFnb2lpbFlFRDhLTjFsS1ByQUkwam5aVHhUVzRUM0tOTm10dGM3XzI1amsyMWtsdVNubTBpTlNaNWNxUTVJ?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-26T15:32:00+00:00"
+    },
+    {
+      "t": "유가 급등에 물가관리 비상… 한은, 내달 또 금리 올릴수도",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iREcyZkI0QWJJUjhTRWlYUVJ2aXN3b3ZGWHZBd21heFlzNzBTeVkwRVhXUlp0NjVzZklQemJnNFJWTFVrU3BtVGJPVFBTaG5UTkNfd2VpUHUxVmRqcVpFTzk5OEc4cE1zTVgwWXN2NXZGTTNNRUHSAWZBVV95cUxOTFlQSHZLQTgtWlo2Y3dKS2lKR0VDZTBmWXpZZWhTS2dIaWNaZXBzS1N2dnBFcWptejhjZzlVcXJzRFlNRHhNX0xqVkVfRE5PRVJURHBGdk5wRzNYZE5WNnkxb09felE?oc=5",
+      "s": "donga.com",
+      "d": "2026-07-26T15:30:00+00:00"
+    },
+    {
+      "t": "“반도체 호황 2~3년은 더 간다… 단 中 추격 두렵다”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FQW5iWGw2YlUyZ29aRzF3ZzhIZUQxUFJNUVhMejdydXpSOGpKc0RSRUc0dGNGSnh4THgtNWFiazFqRU93bXN6QTFkVUEwXzlCMUMteS1sRWtRcXNZaEhWTEk4TUxpTTDSAWxBVV95cUxNa2lRUlhvVEVGUGlrQnhmeTY5VWtXUUdySFI1ZUhIdWJIVkFEWlJLZkdrQS1EbjNaTG5yS1dESzU2eU9aWnFWQ2F4ZVhsM1JLTktjTC1MSzlITHI2S2VZNndmajVRNl9nSWVTMFg?oc=5",
+      "s": "국민일보",
+      "d": "2026-07-26T15:07:00+00:00"
+    },
     {
       "t": "[중국증시 주간 포인트] 각국 기준금리 발표, 7월 중앙정치국회의, CXMT∙중제욱창 상장, 삼성∙SK하이닉스∙ MAG7 실적, 산화지르코늄 등 제품가격 인상, 고체 리튬배터리 표준, 차이나조이 개막",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VcU1waU9XWmMycWY2SDZPaUZsY3lkNEE2T2owdVpWYzdqOC1YZVkzVHFldmhWRU03d0MtdGRHSGwxT3pjLVJUcDByT0ptX0xNemhOSlhnNDFFUzNJ?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42Nk5ucVhRNDBDRnZGRUxZbmFFWEcwZHJsQXlsOWVob2tkQlNzM2xlVkFUMlpUdGRHWHpPNDhpeVdoenozYS04Q3hnei1DekFwVEs5SXdMU2dsTFRDakFVNHRObzVRZXpPOVE?oc=5",
       "s": "영남일보",
       "d": "2026-07-26T12:43:04+00:00"
-    },
-    {
-      "t": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MGJuYUQ2X1J4RklWQ0VMZVpyOXZmN21mbFVyV1RMUzdzdnRDUnJDMG1kb0V4RWhzSDRvUmdkeFQzOV9YUHpuVXZkS2dwSlA2?oc=5",
-      "s": "문화일보",
-      "d": "2026-07-26T12:35:38+00:00"
-    },
-    {
-      "t": "미 12.5% ‘강제노동 관세’에 숨죽인 산업계…관건은 ‘+2.5%’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZUk5cS0tOUdLbTNtWEhUa3pKQnVzb3J2TFlOSWFKSFV2UllUZHpnY2JhOXhNblNMVGN1UlhiSWFtZE9EaWJQVWtzN2ZfTHhDUE9Qd1VmZ3hJZ9IBX0FVX3lxTE05NFRZdDQzcnJaeThpVlRTMlFkOTBoclVNQVA3Z0FBclVsQmVVeWJnVFRZSGhmVnlNanNHOHR2eTU4Q2REeFNSekdzNU1VbGFiX2YxeUJNRWkzVmZrd3hj?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T12:21:00+00:00"
-    },
-    {
-      "t": "유가, 하반기 증시 핵심 변수로…물가 계속 오르면 8월 또 금리인상 가능성",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRHUxOWlhNklMTjFpLXl4bXhaTmVId192d0NxbnpHUFdCOUZ4enQ1Q1c0NnFQNGJyTWRGSzVKMDNiWEplM0dmQXc1RDJhbTFEWWl1Qm1DVlFJSVFvdmE0VmwzV0hLcUpFY0IyaHJVT1Y5UzhMTHfSAWZBVV95cUxPdkxKY0JHZE14ajc1enFMQTlXeGFiNTdpazIxRHhUeGRqTnFYRHhScWE1dFJNdWVXOGNITUJmX3hDMzRoRzBhdzNhaS0zYk1waTRyQk9uUDhsMEZaUEY1dkN2WXRscEE?oc=5",
-      "s": "donga.com",
-      "d": "2026-07-26T12:02:15+00:00"
-    },
-    {
-      "t": "[단독 대담] 김민석 \"서남권 반도체 클러스터 반드시 성공...지역 문제가 곧 국가 문제\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRTl4b0o1YU1sTVAzYUppalBvN1NTMEx3aWdOU09COTRVVzNubS1NaXc0Q0lJTTk2UmROalRHczQ4dVc5U1F2M2FrRERNbjA4eXRvaWJuSGl5Q216Rk1RZA?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-07-26T11:52:58+00:00"
     }
   ],
   "asof": {},
