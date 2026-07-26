@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T08:00:15+00:00",
-  "quotesAt": "2026-07-26T08:00:15+00:00",
-  "newsAt": "2026-07-26T08:00:15+00:00",
+  "fetchedAt": "2026-07-26T08:15:15+00:00",
+  "quotesAt": "2026-07-26T08:15:15+00:00",
+  "newsAt": "2026-07-26T08:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "케빈 워시의 두 번째 FOMC…기준금리 올릴까 [한상춘의 국제경제 읽기]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic0ZsVDNVdmFCNnNCcV8wc2JUd2psWnVPRUp3U3VodVFuWXFfYkMwMDE3cGpOWldsNHhrajczZFAzMEYyeE1ZYVc3QS1NQUo1NGRJQTZsaG9idw?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-26T08:11:27+00:00"
+    },
     {
       "t": "\"하루도 안 빼고 사이드카\"…롤러코스터 증시에 일주일 내내 경보음",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04OVBNbWx3cDZrd1U1WVNJcUgzOUk0LVgyRHZpWE9DMjBHeW5yMFVoRVdTVzBBcEdfRGNNOGZQa244cWJ1NUpYVV82YmRlNkE2dUxqLXFELUVQQ0pnNHgwdNIBeEFVX3lxTFA4Q0U2UVpieThSZVFvT0dQbHBIZ0FqNzNzWnFQZ3FKZ3U5RHNjdWdWc2ZZQXZod0gwQ1BIc2dsXzNyRkZpR3NWcS1SelIyRHM2Q0hMYndRbzdRUFpMeHQ3VTBRTlVGRzRJOEFGNTJEMWVUUzkzeWVLMg?oc=5",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T07:21:00+00:00"
     },
     {
+      "t": "[주末머니]호르무즈에 이어 이곳도 막혔다...유가 어쩌나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0TTdMZWxoeXhCMTFhWE9tSm5DRVpFV2FhX2NSTDB4OGxta1NGRGVySWdSd2lRMkREQzB4d3VKNWlrUUc3NDM4dVhQSWFNLXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T07:16:51+00:00"
+    },
+    {
       "t": "유가ㆍ금리ㆍ입법 ‘삼중악재’에 코인 반등 주춤…국내는 거래절벽",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HOTNrQk5nUzZ3aWd6VzVpdXBIM2MwUy00dnlQMkgxQjRoeVQxLTVEelluM1lhblh1eDB0VXZiM1Z6dlR1RHlrbW5ReHAyUk5DMlVKS01n?oc=5",
       "s": "중앙일보",
       "d": "2026-07-26T07:08:50+00:00"
-    },
-    {
-      "t": "[7월 4주 화장품 주가] 글로벌 변동성 따라 코스피·코스닥 급락... 아모레퍼시픽 30일 실적 발표 공시",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnRkpyVHI5MW51ZExydU03M280cUNDN290d1dadUhpb0E0VGNZVlYwa1gzdzc2Z1NQTWhLbWIwRi14Vll5aUpxSVo0dm9zTXg4SzY3eENUZ3paWDBxZTJ3TW9rUQ?oc=5",
-      "s": "코스인코리아닷컴",
-      "d": "2026-07-26T07:08:19+00:00"
-    },
-    {
-      "t": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T07:07:00+00:00"
     }
   ],
   "asof": {},
