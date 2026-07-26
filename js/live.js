@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T04:30:15+00:00",
-  "quotesAt": "2026-07-26T04:30:15+00:00",
-  "newsAt": "2026-07-26T04:30:15+00:00",
+  "fetchedAt": "2026-07-26T04:45:15+00:00",
+  "quotesAt": "2026-07-26T04:45:15+00:00",
+  "newsAt": "2026-07-26T04:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "이재용-올트먼, 오픈AI 본사서 회동… AI 반도체 협력 논의 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVF91d3Q0eFN5dXUxU0YyOXNXRkpxVXFzR3NmVG5BMFdTbFBpSXhHOG5zUUtwNHc3dmM4dTUzZjJQeGY1Mlc2dGJBMUxDYW94cDBsOW1WeFNoTXdBczBfMVNROTVuTGNuSWJSeGVHSm9ZNmlBS085UmVXRTFqQjFSMmxn0gGWAUFVX3lxTFBfd2pTMHhTOW42T1NLaWJ4bHBYVzlIeWE3VXBKYXZkZ2FBYkoyRTMxRzdZWFBfZEZySzZGQnBWNnlGMElnRXpIclZ5RzRjRGJSZ2NxYjY4UENQSktfTjdmeW9TSmdJTTdvdFVGemtpYmtsRkRkR01SU19nZ09RcXFvYzdwRWlEOFhSN2EzSjJSd3lBVkp5Zw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-26T04:29:00+00:00"
+    },
+    {
       "t": "‘호남 반도체’ 띄울 메가 특구…첨단기업 절반 “주52시간 예외 필요”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83V25IS0VGa243b0pldFVJWHRrVkJHVkh1aWEzdFZqNm5SbUlUNmFpVU5LcnR6NzUydXFVa0Fja2ZnMHFtdzVGTXRhdWdzbEdwS2F4ZlRn?oc=5",
       "s": "중앙일보",
@@ -41,6 +47,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWdtM1lNN0FsYlQtR0NCZERUdklyc1RHTG5yc3AtZG4xTFFzdTlGS3o1WFdmUU1SN2EzUnJ0M3pwMHZZOG1ackpZY0I?oc=5",
       "s": "시사일보",
       "d": "2026-07-26T04:06:00+00:00"
+    },
+    {
+      "t": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGbWpCWjVicS1QbS1MbHdwSXpIMjUtbEVwOUdzUVBYYnlTSHlSaWdvZTlqbVNZdXJQTXBkWmtwbmp3UWlzOFVpWURKS1FDR1JEcGhaSW84NDN3RG5uZ1dmbGtNdnplWjR0bDAtaXhTeGhyQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-26T04:00:00+00:00"
+    },
+    {
+      "t": "[기획]강제노동에 과잉생산 관세까지…K-산업 '초비상'",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IOW1jRWd0ZnNZOWtqSzk1M0JnNzhtRUZISlg2RWZINjFfd1pNRjJjdXFvQU1LcWk5d19uTFpNcmlBVjFFNk9qajNyN0dmd0s4WGRyU21Pd1oyRk5PMGxZRXduRFg?oc=5",
+      "s": "매일일보",
+      "d": "2026-07-26T04:00:00+00:00"
     },
     {
       "t": "[기획]다시 불거진 관세리스크…수출기업 부담 커진다",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTnI2Y083cmRteUtYR2gwODRoRkJQN2MtSDdBMnZwNTcxNFMtTTd6cXJvNjB2TEZzZnZMRDU1a3NBczdMbXJMT3NlY2lHMjlMTHprMGhKaDJfd0Noc2xWYkE3SW5YWl8wdV9BRGRwdlQ?oc=5",
       "s": "신아일보",
       "d": "2026-07-26T03:56:31+00:00"
-    },
-    {
-      "t": "수원시, AI 반도체 첨단과학 연구도시 기반 강화…국비 100억 원 확보",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DVXhOMjNSLUh1djZJcFVwUzJMUjVxM28yMGk0eE1scGtndkV2akduMy00ZFNVaHpZOGV6YW54SFdkc1RhNjJ6dHhGNEliaXk0YlhzQ1pXaWdOSUgt?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-26T03:44:00+00:00"
-    },
-    {
-      "t": "트럼프, 무역법 301조 적용해 60개국에 최대 12.5% 새 관세 부과",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2dMYTYzeVRwNjRFX1BlSWRmMnI1Qk5XSlZhOGpmN2JOTTFkVHhpNTBDeWxHLUxHem9tRTR2YmJ2Y1RQVkUtajZ6M3dITk83S2VlMmp3aWF2QnhWbE90TUpvZy1fSEFGb05hR2h6WVM1bzNVMEZHeVhnLW1OcDVCMzZZOEVJdzRO?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T03:40:41+00:00"
-    },
-    {
-      "t": "엔비디아·AMD·인텔 상반기 AI 반도체 승자는 누구일까?",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T03:40:41+00:00"
     }
   ],
   "asof": {},
