@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T11:45:15+00:00",
-  "quotesAt": "2026-07-26T11:45:15+00:00",
-  "newsAt": "2026-07-26T11:45:15+00:00",
+  "fetchedAt": "2026-07-26T12:00:15+00:00",
+  "quotesAt": "2026-07-26T12:00:15+00:00",
+  "newsAt": "2026-07-26T12:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[단독 대담] 김민석 \"서남권 반도체 클러스터 반드시 성공...지역 문제가 곧 국가 문제\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZUtPZ25XbURGcVNPNnB2NEhmSUhKVE1uM3JMNHZmLVB2Qmltb0ZWNTJvNGFsQzFsMV8xeWJ1Q2hGbHlVNmFqcmdaTWJGRlhjS2xiRHNwaVdiUUotX1RkN2xnMlBmb1k?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-07-26T11:52:58+00:00"
+    },
+    {
+      "t": "7월 코스피, 국민연금은 담고 개미는 탈출",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoRTRxdDRqUVZkNS1acVRHV2ozRWoxWjdnN0k0OFFKNUpEWElOUWt6aHBicnRaeDBYMlRnOURNUm56c3ZHcVlmNWpycTNpMy05dzQ2LVd3Z0Vmd9IBX0FVX3lxTE15blhKR0tKSXphSnRRRHdxQnNmZU85RGtQSWV1cmhBTFowMVZ1S1paWUVNT2hldGhEWmhvc2hyb3RzNmQwQm9zdElONjE0SjJiVWwtU1k3bnhqejJmUWhR?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-26T11:45:00+00:00"
+    },
+    {
+      "t": "국립목포대 화합물반도체센터-동신대, 반도체 우수 인재 양성 '맞손'",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90MVl5NVVXemRKMnBnVXBmbkdYX2V5TlNOM2ZlakphdkFTX0tsdGIxR1BlenFFODI2YWd0SFdpcEJ1RF9TN3ViNTFYTTdQZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-07-26T11:43:45+00:00"
+    },
+    {
       "t": "[헬로즈업] 휴머노이드 로봇 1대에 반도체 칩 1,000~2,000개 탑재",
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSjRaWXJaZFNLN3g5TFloc0tmLU1qNnhjRFNBUEd4Y25zQnhGd3VxS2pLNE5zbENrbU9GNzJUbVUyWlQ5VndHa0xBb043ZGdtT0QyOWdqSDlRNENzaDAw?oc=5",
       "s": "헬로티",
@@ -35,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xbmQtTzdPZHRmbjBLeE5IMVdJU0RtX3VlUF9RU2lMYU9kdUhKVFBld0wtVl9samxFRjh4ZU55T1FDZmtqU1RuRHlFa0hBaW10RDE2d2Q1djc2OC04N2RuLW9NdmdMRmxPMEE?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-26T11:13:00+00:00"
+    },
+    {
+      "t": "일본도 한국산 도금강판 43% 반덤핑 관세 부과",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bVJ5MVd1eUtGUlhVd3g2SDVaZ2tvR2NzZmdReVlaaFBPZ29XSUJISlVsMkFEQnhTQ196M1hPM2pPVnpfTHFyaUNoYUhZWjlzU0M3SlJOcHBvbkJNWFA2Skk4em5mQU0zR0E?oc=5",
+      "s": "hidomin.com",
+      "d": "2026-07-26T11:10:25+00:00"
     },
     {
       "t": "미 빅테크 기업들, 삼전·닉스와 반도체 등 1390조원 규모 협력 추진",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-26T10:59:00+00:00"
     },
     {
-      "t": "[한주정리] AI 투자비 청구서와 국제유가 100달러, 미국증시·코스피가 동시에 흔들린 이유",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0k5MC1MSDhobXlGSmdhajZRclQtWUkxSDJNN2pVeXp5bGt4UlAyOWJUQWFQTGVTa0g3R0Y3ZEF5aTZDaWgyWGRIZ3BIRTJrbk1JTmlvLVZPNjVWZDl0bzlNUFVnUl9IQ2YwWmoyZV9wMGRhdWRpWlBqanZ1QmZHMExUNWV1czZIRXBiQzNaZTVydw?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-07-26T10:55:00+00:00"
-    },
-    {
       "t": "[초점] 정부, 8차 석유 최고가격 동결…휘발유 1,784원·경유 1,773원 유지",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UalRNUjJNaDlaM2JFS1lxM1pKcWFjdEQ4c1FIUWFHdWtwQjloZ1VQN2l0YTRqcXl5dGdESHdHR1RQM0JyeEFLQkdpd0R6aUlaM21QMG5GRURENFE4ZHVkSjhocmNETmJocEd6UWxrZnQ1UQ?oc=5",
       "s": "에너지데일리",
       "d": "2026-07-26T10:47:45+00:00"
-    },
-    {
-      "t": "인도, 미국 수출의 45%가 트럼프 신규 관세 면제 대상",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96XzBKRGd1a1J6alRSUGZIRENtVXdKRHF6OXF1TDBDdEtJMWVScEdBV3FHMFdmaDdLYVRYQW1fZzA3d2VRYjRWd205ZUJRY1pMdEtKR3N6bXNKOHBQb011d0dYbnhlMTZtU0E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T10:27:00+00:00"
-    },
-    {
-      "t": "[주간 증시전망] 레버리지 자금 쏠림 현상 완화 기대",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Si1tblBVQkUxRG9wNmRLLVRaQzZlU0dkWE1TSklyandwMEx1bkRRZ3NKelVURTVFd3pBc0UyQlBZLS1xYnlCNnJqcmFNRUlwaFQ2MWpFeVnSAVhBVV95cUxPeEotbW5QVUJFMURvcDZkSy1UWkM2ZVNHZFhNU0pJcmp3cDBMdW5EUWdzSnpVVEU1RXd6QXNFMkJQWS0tcWJ5QjZyanJhTUVJcGhUNjFqRXlZ?oc=5",
-      "s": "전북일보 인터넷신문",
-      "d": "2026-07-26T10:06:47+00:00"
-    },
-    {
-      "t": "영호남 반도체 相生은 ‘TK 긴급현안’이다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc0p6YmgtSGZ4QmlaSzM3M1oxWmpPVV9naDJnSURXUkNIT1VDT2xPQjZNMWNqRy0xUENHM0dHb1I2cEZaUGhud0steTB2RDllR25EMnpPNy1iQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-07-26T10:06:00+00:00"
     }
   ],
   "asof": {},
