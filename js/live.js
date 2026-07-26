@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T22:00:15+00:00",
-  "quotesAt": "2026-07-26T22:00:15+00:00",
-  "newsAt": "2026-07-26T22:00:15+00:00",
+  "fetchedAt": "2026-07-26T22:15:15+00:00",
+  "quotesAt": "2026-07-26T22:15:15+00:00",
+  "newsAt": "2026-07-26T22:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -11,78 +11,78 @@ window.LIVE_DATA = {
     "krw": 1459.42,
     "gold": 4070.8,
     "wti": 89.31,
-    "dxy": 101.47
+    "dxy": 101.24
   },
   "daily": {
     "spx": -1.16,
     "kospi": -1.58,
     "nikkei": -2.73,
     "krw": -1.1,
-    "dxy": 0,
+    "dxy": -0.22,
     "gold": 0.08,
     "wti": 0,
     "vix": -0.64
   },
   "news": [
     {
+      "t": "[증시전략] 빅테크 실적·FOMC 회의·중동까지…역대급 변동성 예고",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EVXBsaEVTWUdWMXNKUFlnaXVxNU8zaEhEVXpyZ09yTVEzODhpMWtOU0JfUFlYVXBrOG0wdlhsRGdMR0l2NzJWdWdsZFFOQ2JxQkFB0gFYQVVfeXFMUGctZjVrYjhxUWxjNTlxbm5nVUZQLVRsOWNLNGtTTmNqNndyV2xWcGF3dHlIVzJranhpd0xCUGZ4clJSamNCbHQzY3JFTUMtSkhuZWNmWk9DYQ?oc=5",
+      "s": "SBS Biz",
+      "d": "2026-07-26T22:07:00+00:00"
+    },
+    {
+      "t": "[주간뉴욕증시] M7 가운데 4곳 실적 발표…美연준 금리결정도",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ua1JOczU1QzZFamw1TTBTSXN4NERqLVNwZTEyaU95OUNQUmhiVGx0eVZmd29CZjdTUUdRVW00RzQwLXFtX21kR2k1dVRFR0x0a05qVjNvSks3WVBKdncyUtIBeEFVX3lxTE8xVzUyOGwwRXd3QzM4ZHBKeWg5bnZFWmZXb3Z4cnpYaGNXX2d5ZEtrV3d5ajVYVXFYQ3ZCdExFRGduV1k0S2ZDSjB2aVdQNk5MLTB0dk5tQVFhZlFmMkZISnQ4TkFiV2Q3RE43UVFqWWxlZVdQNHFyLQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-07-26T22:04:42+00:00"
+    },
+    {
+      "t": "800조 반도체 프로젝트…부처별 특별법 속도전",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BenNGTnZScHljamMtWGo2Q1Y4X29HN2YwRTB2V0NxRUVwMmw2WkJ1MVdZUEk3MFl3di1ZdTZxekZCeGZJdk1VQkR2TGZteU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T22:02:43+00:00"
+    },
+    {
+      "t": "사이언스타임즈/사용자메뉴/과학기술/기초·응용과학",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2Z1cm1YYUd4SmxVa0lmdUJWaDVBM0Zhek1xdEN0QTRNdjBLcEo3MXVDc0ZHY2xiZzlRUjlDN2Jpd2pqZzJZMV8tVUVuVFJ1SGZQTzRtVlN1aW1rcGg4akhqM2pwTWJGZ1BjVW5NYmJTZEFFdVFIT0I2Vk50UzRIdUpEZ2VGT1VydVBpc1NDdw?oc=5",
+      "s": "사이언스타임즈",
+      "d": "2026-07-26T22:02:34+00:00"
+    },
+    {
+      "t": "FOMC·MS·메타·아마존 실적…뉴욕증시 '운명의 한 주'[월가프리뷰]",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01TV9wMmRoSXlHTU9UUzZJd1I1c0RvUGVxME1EY0pHSmJpLXA0RU8xbHNBcGlaaEEtRkphUVoyenBUbFhrWlNpZFR1MmNLLWRFYlg2OUd6VFVLT3R5bUJPLWprMDcyVGM?oc=5",
+      "s": "뉴스1",
+      "d": "2026-07-26T22:00:00+00:00"
+    },
+    {
+      "t": "업계 1분기 이자비용 줄었지만 우리·삼성카드는 증가, 하반기 전망은",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tTFBZMnM1VmxhZ3VKeU92NkdtWVdlN2Z5a3lDRnJheDVvVG9xWktRUWFHdExLaGJNdHgzRXhHLVk3dnJ3WXdiLTI3Wnp0b1pMRDMxRU55cFFRenAzNEU1SXk3YzhCYWVu?oc=5",
+      "s": "CEO스코어데일리",
+      "d": "2026-07-26T22:00:00+00:00"
+    },
+    {
+      "t": "한은, 8월 또 금리 인상하나…'깜짝 성장'에 갈리는 전망",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hOFA3eS1McTNyN1ptbzFWVnJEOTFBVzR1VDNxX3VjOTl5d2xVV2hSX0VrRXpDa3g1eGR2TXQ1UEtLQTA5MEEwMF9kZXlOeUphcnZpX3pVeGdYYzdRdlV6dNIBeEFVX3lxTE5HeVpTRmRIU3U1bTRRQjhkWmd0TlA4dUNfemUzbzF2bmlsZkt1dzdvSDViX29TTW4zUGU5MGIxcXROY00zejBoOTRpOWdienRjdHZKMU4zYklKbkF4eG1RelY2dFRxejNvbnNWWlc0Um5hSHF6dG84MQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-07-26T22:00:00+00:00"
+    },
+    {
+      "t": "쉽지 않은 '쿠팡 오해 불식'…'미국 차별' 추가 관세 리스크",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uOUN4RWNNcm16eGVGVU5jc3I1QVNwNTJveldKRmNGM1RVMzB1YVVtczRnZmZoTXhFVUN6aDFBd1JyUzlla1duY3UtZTVYNkNLM19EODNKQnZBRkM4dGtN?oc=5",
+      "s": "뉴스1",
+      "d": "2026-07-26T22:00:00+00:00"
+    },
+    {
+      "t": "매경이 전하는 세상의 지식 (매-세-지, 7월 27일)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pZGdlYUxHZkFJdnFFUEhEeHE3THRYamYwbHhmdVczbktSdTE5TWU5NWhSS2pKa3QxTXlsM0x2V2NJcGhhdE1JRWQ5MlkyOTJBNHc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-26T22:00:00+00:00"
+    },
+    {
       "t": "한-미 증시, 빅테크 4개사 이번 주 실적 발표로 변동성 불가피...29일(현지시간) MS 메타, 30일 애플 아마존 실적 발표",
       "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41UUlSNHV0ZFJNUk10NVh2bEdEdjFNQjAweFJVLVB1bUNTQ2RtMWZtOHl5U2hUVlQxdGN2WW05eFY5V3VaaU1yRmtlamNkYmpVY2RraWhfV0RBdXJjZGgwRzctNmZTS2taSE9pMXdmeDYxQlBOcmZUdTFqZTM?oc=5",
       "s": "비욘드포스트",
       "d": "2026-07-26T21:50:53+00:00"
-    },
-    {
-      "t": "美 기업 실적낙관 15년 만에 최고, 증시는 제자리",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1NfZVg0dTBuRUJ0Q2l2Tml2VllYTmhOZXF0NWNrMlNYYl9VNEwwR2ZYOGpyZS1Ec3loTVF1Zk5QYW5HRi0tRDhuZkNuSXkyc3RBUUJFT0ZDSFhyZzZQaDRxRHhXVlg1bDFQT0dQc0V6VmcyeXJQcW9zUGdUQmZxS1hDNGQ5ckls?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T21:36:59+00:00"
-    },
-    {
-      "t": "[뉴욕 주간전망] FOMC 및 빅테크 실적에 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oSktyZ3Jub1NwMUgzOHYwMk5VakJEZTA4bl9fX3p0eXRJc2ZNUkdBdGdUWGczWk9tRlE4b29MeVBlWXQxcHlxZGJpSkxoZG9XTERnNTQ2MHpiVVZTVWtSNEgtWWZPNHFYUE82TEQ4anc?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-07-26T21:35:00+00:00"
-    },
-    {
-      "t": "[외신 헤드라인] 창신메모리, 오늘 中 본토 증시 상장",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Z05iWVZaSVpHNURFdmo0SjRHMkRNZWxfN3M1OVQ2SkY2TXV0R04wZ0dBWHFqWGdxY0R0NzE3TjFfQmwzYktybTZLb1pJNm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T21:30:10+00:00"
-    },
-    {
-      "t": "AI 돈잔치가 공포로 바뀌었다…코스피 운명 가를 ‘실적 슈퍼위크’",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mcjRaaFIyVVJ6V3FZMS1xcVVucm9uNmhqSjh6OWp0NjU2UW1XRWl3dzJDN0JWMnhDQnhpWUpwZVh1S2hKWDdLV3ZGZ3hHaDMyMGNUQw?oc=5",
-      "s": "이투데이",
-      "d": "2026-07-26T21:30:00+00:00"
-    },
-    {
-      "t": "중간선거는 증시에 부담이 될까?",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR09sOFZIZklVMS13M0NmaGNEdzZheGtKQTJiWFNtUjJvMm9rWkhJckd1SUJnTENQVjA3UVN3RmZzUlBLNURLQURVb2V3VFBVektYei13QVJQQ05hdXVxRzQ2UzN3T3pYYXBjZXQwZXI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-26T21:24:00+00:00"
-    },
-    {
-      "t": "美, 반도체 보조금 정책 재검토 논란 확산",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0Z1ZlZEZkhKN3FtTU5razZ0bTJ5SUoyLTA3cXpQUUwyWXJmWVV5MG1fYkQwVGdWYmlmbW9OREUwM1ZYTU1Fa3Nvclh4YUd0UVZxTkxDOFNDNVQ3TExsQlFCZUROMzVWbGc4dzlyenp2S1FySGFVaTRoYVVnODhhWXZ6dGlLTmh2?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T21:23:18+00:00"
-    },
-    {
-      "t": "삼성전자와 SK하이닉스 2분기 실적 발표, 증시 변동성 해소할까",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSkh1Szk3aG9XOWExeXZLOXZEaFdqMHZOQWdDZTBXSWtnVFZKM1VqeFhEM3d4SHdMSTBHWlpndzRFSnp1Q3FoaXhpWm9uYTV6R2p5SGZScUQwNDVZcVdUUGRmbGFlSlBa?oc=5",
-      "s": "2news.co.kr",
-      "d": "2026-07-26T21:13:00+00:00"
-    },
-    {
-      "t": "반도체 흔들리자 건설·통신·에너지로…급락장서 '주도주' 바뀐다",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CeDdRYkVSVEpFSjRwMURFeloxZEV3Zl9XdVViNFlLTkFUSFhfaW81NTQ1c21xSUxzeER3NUdROG9IMzVKd0lUTVV3VHJiRzdYeFdLUw?oc=5",
-      "s": "이투데이",
-      "d": "2026-07-26T21:10:00+00:00"
-    },
-    {
-      "t": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2ZE1NU2cxTmlPTWpnQXJOYTYwbmFXWks2M2tUWWxwWEM3N1ViQkx6eTJ3RDllYXhCZnFyM3hiSkV4alUxNVc4em04M25rODhZMW1rR3c4ZmN5Y2M?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-26T21:09:00+00:00"
     }
   ],
   "asof": {},
