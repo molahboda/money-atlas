@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T13:15:15+00:00",
-  "quotesAt": "2026-07-26T13:15:15+00:00",
-  "newsAt": "2026-07-26T13:15:15+00:00",
+  "fetchedAt": "2026-07-26T13:30:15+00:00",
+  "quotesAt": "2026-07-26T13:30:15+00:00",
+  "newsAt": "2026-07-26T13:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -26,7 +26,7 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "[코스피 시대, 미국서 TK경제의 길을 묻다 ①] 9,000 넘은 증시, TK는 왜 비켜갔나",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42Nk5ucVhRNDBDRnZGRUxZbmFFWEcwZHJsQXlsOWVob2tkQlNzM2xlVkFUMlpUdGRHWHpPNDhpeVdoenozYS04Q3hnei1DekFwVEs5SXdMU2dsTFRDakFVNHRObzVRZXpPOVE?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PLVdKNkhSb0JXQkU2YWN3ckdYNjFURFUtMFdTa1pidE1UcmdpbXp4c1YwWjZXa1FySzlQWXdLa3ZWbUxmYlpmVWc3cFlpUUdjNk9LSmtZaEwtMkExNmduVXJSMTJ5Tkh6Y3NJ?oc=5",
       "s": "영남일보",
       "d": "2026-07-26T12:43:04+00:00"
     },
