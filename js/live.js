@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T04:15:15+00:00",
-  "quotesAt": "2026-07-26T04:15:15+00:00",
-  "newsAt": "2026-07-26T04:15:15+00:00",
+  "fetchedAt": "2026-07-26T04:30:15+00:00",
+  "quotesAt": "2026-07-26T04:30:15+00:00",
+  "newsAt": "2026-07-26T04:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,15 +25,21 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[박근종 칼럼] 미국 12.5% ‘강제노동’ 관세 부과, 총 상한 ‘15% 마지노선’ 반드시 지켜내야",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWdtM1lNN0FsYlQtR0NCZERUdklyc1RHTG5yc3AtZG4xTFFzdTlGS3o1WFdmUU1SN2EzUnJ0M3pwMHZZOG1ackpZY0I?oc=5",
-      "s": "시사일보",
-      "d": "2026-07-26T04:06:00+00:00"
+      "t": "‘호남 반도체’ 띄울 메가 특구…첨단기업 절반 “주52시간 예외 필요”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83V25IS0VGa243b0pldFVJWHRrVkJHVkh1aWEzdFZqNm5SbUlUNmFpVU5LcnR6NzUydXFVa0Fja2ZnMHFtdzVGTXRhdWdzbEdwS2F4ZlRn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-26T04:15:57+00:00"
     },
     {
       "t": "CXMT, 98억 달러 IPO로 상하이 증시 역사적 데뷔 앞둬",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hYmN3ZUlPYTRzSjhwVS1vRER0RFFPQ2Z5cFo1aGV3MENlcncwcl8wdkZBbWVzTTNjMll4S01sZzhQYm15aFk2TlpWenZnQmdHYWhnYm1XSTRpWXh1aTdfb3ZhZnB1aU8yRXhvWWVhS2Y?oc=5",
       "s": "Investing.com 한국어",
+      "d": "2026-07-26T04:06:00+00:00"
+    },
+    {
+      "t": "[박근종 칼럼] 미국 12.5% ‘강제노동’ 관세 부과, 총 상한 ‘15% 마지노선’ 반드시 지켜내야",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWdtM1lNN0FsYlQtR0NCZERUdklyc1RHTG5yc3AtZG4xTFFzdTlGS3o1WFdmUU1SN2EzUnJ0M3pwMHZZOG1ackpZY0I?oc=5",
+      "s": "시사일보",
       "d": "2026-07-26T04:06:00+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBCTjh3Y2xSc1dpS0RycVhJVXdPYnB5aUtOTlBRb0RQS2xvV1RmZW9QTkMxU2lnb3RMZUN0NFZLOUM5M1NHM0tXaF9idE5KVzlCa3FhTEo0ZlZZalhyRnFRdU83aHQ0VTJiLWY1R1VVZC10VUhISVdKdk5lWUs0X2NPbGJpRXo0?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T03:40:41+00:00"
-    },
-    {
-      "t": "트럼프, 60개 경제권에 관세벽 재건…한국 실효세율 상승·세계 물가 이중 압박",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSEc3SnMxZmkyODJQTVVwbHBmeGJWaUdVZzBwOVhjWWdQOHRzLXFyR3hBc3ZlUl9qeVlvQWtZejJjM0ZBV25UN240TzhnRDRqbkFRQW5pNE02NEJSdlNXSkY3VjFTUTlRaDJQRFF3?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-07-26T03:37:48+00:00"
     }
   ],
   "asof": {},
