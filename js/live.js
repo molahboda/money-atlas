@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T03:15:15+00:00",
-  "quotesAt": "2026-07-26T03:15:15+00:00",
-  "newsAt": "2026-07-26T03:15:15+00:00",
+  "fetchedAt": "2026-07-26T03:30:15+00:00",
+  "quotesAt": "2026-07-26T03:30:15+00:00",
+  "newsAt": "2026-07-26T03:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "UNIST, AI 반도체 성능 높이는 설계자동화 기술 개발…동작 횟수 평균 19.6% 감소",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HSGNzZ3ZCY1I5Y1lsUkpxWENaT2N4UHRlZkRhVERuRUNaZDVqaUgtZy1RMnJSaURBbWFfdnhKTDhjZ1o3bkt0eGprLWFfWGVOVlFvQmo2ell5MENUSjBj?oc=5",
+      "s": "헬로티",
+      "d": "2026-07-26T03:23:55+00:00"
+    },
+    {
+      "t": "[사이언스게시판] 샌프란시스코 AI 서밋 개최…韓美 9500억달러 반도체 협력 外",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sN2l4bXlLNWtpNWNwcHFnejloQ2RsX3ZVSlNuYXFTY18weDZqMHJuMWpsbU1TelhHaXNqTzNrSURrTnljWTRhdWtpNzJqXzdMZUpGZw?oc=5",
+      "s": "동아사이언스",
+      "d": "2026-07-26T03:16:00+00:00"
+    },
+    {
       "t": "중동발 인플레…원가 상승에 '외식물가 비상' [뉴시스Pic]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRV2x4ZDZHcDJ6VTlYbGVjc1JiYXYwaHV2ZFJHVUxudzlSZHhYRVFpbEZEdTBHNDRQdHJrTXBSTWx4RElyeDlLSk9lS0pKRWRxalk1VFduZlRBOVIwQTAxYdIBeEFVX3lxTE5mNGdVMml5bHAtVE8yVWlPa2p6QTdaLUV6LVpJREVibUgtSXNHSUJzeWxfNkR2LWVlMklPMHBQMWpZbl9jR21TMG1OZERHZWNjaXpSTmVmWW53cFRZclk3anljbERaa3NMYkM1Z2JhR0RaY0syR0RFbA?oc=5",
       "s": "뉴시스",
@@ -38,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "이 대통령 “한국 반도체 공장 없인 세계 산업 안 돌아가”…실리콘밸리 투자 밋업",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rSEViTkRNMTRPZmh5U213OEJHdUpyR2xmRndVRmxzM3hOMDlzQWtseVRDMkJ2NjZtRFZxWDJJa2FwbnhfRmtRWm43ZmNSMVBfMG9XZE1YU05DbUZPSHpLSVl3bm9KUQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zQy0yb1ctX3hkQ0FJaXR3MFU5Y1FBS2E3N1dLUW51UmRBdG53MWt6UzVpNWhJT09SbnB3QVJPaWlJQUtQcUxVS1VDTEVHZ0tYSWlXZUpFdzdxRU0?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-07-26T03:02:00+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAydWs1d0Q3aC1JSnZkc2VDNXRlenFZNVNFaHFkTnR0Zk5RRTkwbXRyUEx1OTlHN25Mb1hkaFgwNVhyRkh5bTU5TnZyU29sbEI0YmE4Nm5xbw?oc=5",
       "s": "헤럴드경제",
       "d": "2026-07-26T02:40:00+00:00"
-    },
-    {
-      "t": "메모리 병목 뚫었다… UNIST, AI 반도체 20% 더 빠른 '자동 설계법' 세계 최초 개발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aQkR6N2ZhR1kzVlRMTTNVT1poUEpQZWNvWDZvVFc3a3J1U3VmcVVaX21LakVJV2dtRjBJU3MwRFBDODFidWlYeGVZRHM0ZjlER0t4bXlyaHVDZlVYUE5BdA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-26T02:35:33+00:00"
-    },
-    {
-      "t": "윤준병 의원, \"삼성전자 첨단물류센터-광주 반도체공장 연계…고창 미래성장축 만들겠다\"",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mbDVUeFJnYm05ZzN5WXE3M2RucUNCRjZCcXA2Y1pHWkRuSW1ITmtjNnd5RnJCcXhrRkFxQW5SdEVqTVF0d2FsUkw0Wm9aYjRUYWhWU21Zb0VVZEM5QVlFY1d6cG54Zw?oc=5",
-      "s": "이로운넷",
-      "d": "2026-07-26T02:34:28+00:00"
     }
   ],
   "asof": {},
