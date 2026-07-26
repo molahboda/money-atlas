@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T07:15:15+00:00",
-  "quotesAt": "2026-07-26T07:15:15+00:00",
-  "newsAt": "2026-07-26T07:15:15+00:00",
+  "fetchedAt": "2026-07-26T07:30:15+00:00",
+  "quotesAt": "2026-07-26T07:30:15+00:00",
+  "newsAt": "2026-07-26T07:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -37,6 +37,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T07:08:19+00:00"
     },
     {
+      "t": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-26T07:07:00+00:00"
+    },
+    {
       "t": "코스피 7000선 이탈…“정부 개입에 시장 불안”",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhVDBCbkJsOUhxYkttN0dxLXZpWUlMZi1LYi1Ockw3bS1NX1Q0b2lPS2VnZ09nVy1XeHBjRlR3Z2pmMlVBWHhDU1RpSm1YeUZiQkF3X2VQM042ZzRGZWdyaDV2QXhFZkJ0ZHc?oc=5",
       "s": "인천일보",
@@ -61,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T06:40:11+00:00"
     },
     {
+      "t": "이재용, 오픈AI 본사서 샘 올트먼 만나…AI·반도체 협력 주목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DQV9oWFNqR0wyYVMxcllmWms0cWV0aVBXVWpQVTRkaW1CS0dudDVoaGpmVXhaSGlDRHlTTmc2ZlVTNjcyUEJmSk0zbmtFTDlRWlp1OVZaLVNlUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-26T06:39:18+00:00"
+    },
+    {
       "t": "미국 추가 관세 2.5% 밑으로 ‘초당적 총력전’…“3500억달러 대미투자 협상 카드”",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WHlnUlZpTU9vTnJ2ZG1uLUREdmp1bEJMakV1VGJQLUoxRTdQQ2NrZ0ZiellsVDVlNzhVeWNlSHpOM2dkbGQtZ3JWX3hNdlpuc2daMDBfa2hPNzZqa1FrSHFpa3VfMUFGenc?oc=5",
       "s": "한겨레",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGlIbVVfa1FkLVk4YUxHX3Vyem9UUlZXV2ZBMzVVRnNIc2ZoQTRXclIyX2I3MnRpWGRLM0d2Y3JpY1d5ZGgzVmlUNjlBNkV3QzBVNTVjbnd1M2gxbnJjY3YzQjF6bENycXY0bXFfWWdtSWR1clo3cFRXLTBuV3kxTG9uREc?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T06:32:49+00:00"
-    },
-    {
-      "t": "코스피 7000선 회복할까? 다음주 빅테크·삼전닉스 실적에 쏠린 눈",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Zc3FURW1EV3pWWkhDVDdESGRnT3FOVVFZREtSdUttcUthaGRhQWFhT0lneWJDZnFyUWx2RGRHVWJnQlFhaDRpZk5HVkhVVTlEUTY5UnF4OE0wQdIBX0FVX3lxTFBOYzdjR0tRS3hpS2ZRNUhzREZ4dGE2M1E1M2hXY1JLeDgyZUg3ODdtcktBcm9OOG5TZTI3c2xkNGp6YVRfa2JJTmQ2WTNPVC1oSDRjbXJiakZGbzJZTWo4?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T06:32:00+00:00"
-    },
-    {
-      "t": "美 301조 관세 가동…3500억달러 투자로 만든 ‘15%’ 시험대",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZOUxNNEFiejZNWDVwUTJLVnY2dXhhQ2lrc0R3UUNaeHZLMlE4NkJTV2FHb09vQm9VUURTYXg1N1ExRnpRa1VCQnJSOHhDUy1nSWdEM3Jqd3E5dE9NU1ZPME92VTR2MlRjdVNQQ0JR?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-07-26T06:30:58+00:00"
     }
   ],
   "asof": {},
