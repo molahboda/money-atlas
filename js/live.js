@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T01:30:15+00:00",
-  "quotesAt": "2026-07-26T01:30:15+00:00",
-  "newsAt": "2026-07-26T01:30:15+00:00",
+  "fetchedAt": "2026-07-26T01:45:15+00:00",
+  "quotesAt": "2026-07-26T01:45:15+00:00",
+  "newsAt": "2026-07-26T01:45:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,22 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "기준금리 3년 6개월만 인상…’긴축시계’ 스타트",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxdl83M0pPQXhCNjgzanhjQmFleDFKQ1BQLWZLbFl0UGNjaEVsOVVYQnpUVks2RnQ5S3Z1NFFmUGtFNnFYRkZOQjhZaXh6Vl9OREtrV2tfb1Yxa09rQl9uRGUwRElqV1E?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-26T01:24:00+00:00"
+      "t": "샌프란시스코서 글로벌 AI 투자 이니셔티브…9500억 달러 반도체 협력",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WMHlUQ0dUMUtxc3lvZUxETkJtMjZ3V0JIT3ZTUmhTYVdtYkpHWVdwSElYNzJiSm96VFRrS29Hc19ldE1CcjNyeDF3Z2JvR2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T01:34:00+00:00"
     },
     {
-      "t": "미국은 속도 조절?…이달 말 전세계 시선 연준으로",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qVmpNa3lyNjBQV0ZfMHcydkdqYTZoMHc1QnB2eG5qZnY3UVljZ0JqenBmTzVWamxWX2poeWFyT0ctSUVmQ1Nma1dFUS1NY1h5VG5sY3d4azVtMDktSlQ5UHBQMVJwNmM?oc=5",
+      "t": "에티포스, 국방 통신반도체 개발 착수…한화에어로·TTA 참여",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIU1NLaUZfcTVVY0lxNUNreEtiazVkam1jcExOYnI0ZktaSXY4VW13WHFHS2dQQlJEOUFFZ2VfbWpIdzR4cG5nbDJVVmJNQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-07-26T01:32:39+00:00"
+    },
+    {
+      "t": "2분기 성장세 확인…기준금리 ’연속 인상’ 힘 받나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWLWFmTG1IMkxacU5ndkFxSFhGRDVxbzdySWpQQ0U5NWU5U25RRGpqa3NiV0psVmVBNmg0NlQ5SE9SRHAwTFE3NzBSWENwaDh6MkRqS0dRVEh1ZlVDaFBzdzFjdTZqRUE?oc=5",
       "s": "연합뉴스TV",
-      "d": "2026-07-26T01:23:00+00:00"
+      "d": "2026-07-26T01:26:00+00:00"
     },
     {
       "t": "[김이코의 시장분석] 금리 변수에 주식시장 '긴장'… 미국도 흔들린다",
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fWThYSG56ME00bi0yUklLdnUzM3BmU2pQZGJTNjNBakw3Zkt1WUNsQVhQZGx6VXdoZHVPTlRzbzdva09wclhLSm9maUJRVUx0aXRweg?oc=5",
       "s": "미디어펜",
       "d": "2026-07-26T01:10:25+00:00"
+    },
+    {
+      "t": "[주간증시전망] 美 빅테크 이어 SK하이닉스도 실적 발표… FOMC 개최 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFfdzM4RVI4d2ZmeUZkNENxZEl4dHVOY2NBNFNCRDJ2ak9KaEVwUHJ5dm16a21CcWdMWDVTS0tiZHNjQTVydzRmUGNQVzFBNUNJMG0xSHdxblRMRlZGaG5hdkQyYnhOendjd3NUMDhsazF1YTd1ZGd5S0FFOVpEMktEZ2p1WEl50gGcAUFVX3lxTE5BODcyNkhEaHM3MWkwSE9ZU3RrRDlGOVY1ZmRyVmJBQ3dwdVQzeVlDbUdmOWszR21rVHZmTGFFa0k4Q2ZMRlE1QWp4WHhUNXFKZHcxTXU0TEs5T0tHdzNZaDJuWWpTVk14dm5xUmpDSjBHdThCQ3BwdFRhdmVYaDd1RW9yZ05UM2F1RHFsY0VfdEpOR1cyMTljcUJWcQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-26T01:10:00+00:00"
     },
     {
       "t": "“실명 환자눈에 반도체 칩 심었더니 소설책 읽었다”…유럽서 인공망막 상용화",
@@ -62,8 +74,8 @@ window.LIVE_DATA = {
     },
     {
       "t": "[게시판] 에이피알, '반도체 첨단산업 기술개발 사업' 착수 회의",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOXBrWkRzUE4zalM0bUJqenJ5QXVyMnI4MGxZVDRDWTFoSjZtdk1mdTBlVTlVemhkTFFQNW5sbXFVMkRjdlFSUmxqaFViRS1PNDRpeUFoLWZqZmNoXzFmZUhDbFo5XzlJbzQzX2RpUkU3aFJs?oc=5",
-      "s": "연합뉴스 한민족센터",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkRDTkJTbzQ0eFlrM1RCOWtuUHlKQW1BUWMwZGxtcUtRaU5ZVFkxd1VNNEJWYml4blNkR181dTlESmhPcU5oZ1Naa0pDZXZaSmlUOEwycHdSMEN5bmVFU9IBYEFVX3lxTFAyVkRDTkJTbzQ0eFlrM1RCOWtuUHlKQW1BUWMwZGxtcUtRaU5ZVFkxd1VNNEJWYml4blNkR181dTlESmhPcU5oZ1Naa0pDZXZaSmlUOEwycHdSMEN5bmVFUw?oc=5",
+      "s": "연합뉴스",
       "d": "2026-07-26T00:59:43+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjJCTmc5WkdsQWxzMlpFR213YS1vb1pQWmtuTlNsMnFBT1VBZUFKbVhnSjR0UC02NFRFNzhZSGE2b1FacmRSdjNuSVNnYU9GM0NQaWctTDBVUGdJWnV0QVJwOGlsMHFDY3FNb3BQZGFjSUwtcmxyQTBONmtzdTlYQW9CSTBScDAyaWc?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T00:52:22+00:00"
-    },
-    {
-      "t": "고유가·관세·환율 ‘삼중 부담’…하반기 한국 경제 불확실성 확대",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85d1VzNzFKczdfRF9zMDNBSWtqMTVUdHlTc0xqc1pkVS1rYUV0ekRlN1Z2d0ZtNGx1amMtRWVNc2xydDU0S2h4d3hHbU14OTR0UE1VdXdQSkFxSS1aQ2lwNHZRZmlZYXpjM3lSWXdiVVbSAXRBVV95cUxQVUVaY2xNeERtTlJicFJxMTlHZGxnNjQ1UDVDYWFTdnpmZ0RaSEdhSVJpVEwxczNzaUNlNU1xOWVxbGNXNnZfUGNwQ1IyWDBjYnU2TVlxZnFPSHhIOHA2UlFka0JWMldJbDI2TzFVd0NKUHFseg?oc=5",
-      "s": "산경투데이",
-      "d": "2026-07-26T00:50:23+00:00"
-    },
-    {
-      "t": "중국, 고강도 중이온 가속기 시운전… 반도체 검증 주도권 노린다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFBDQUpvWjJ0MmR4enYwOGhydmxmcDhUQlZvYXNJbDVGS2lGcWNrcWFFMlJzX0tPZ2F0VkJoVXB5YmJydVJXby03NUhNRXNuRzFTbENSM1VBZ3ZPZW1jbVpXaXd4SXEySTNsdC1adzloZ3k4MG9kWnVLaGp3MGJzZUFGMG5JSmV2?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-26T00:48:20+00:00"
     }
   ],
   "asof": {},
