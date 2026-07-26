@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T06:45:15+00:00",
-  "quotesAt": "2026-07-26T06:45:15+00:00",
-  "newsAt": "2026-07-26T06:45:15+00:00",
+  "fetchedAt": "2026-07-26T07:00:15+00:00",
+  "quotesAt": "2026-07-26T07:00:15+00:00",
+  "newsAt": "2026-07-26T07:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "중동 위기 속 맞이하는 美·英·日 '금리 위크'…\"매파적 동결 예상\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jbzh5NVBxdHVDU0NnS3h6clc5RGhDN3FKaHFJRGdtVXY1cXhkQTRZaTl3emd2V3RzZ3EyQkJqcmlPVUpweHhXaE4yRWxWTm5GSVdKckNhWWx1MHJ1NHp6cmxGUnFKbmdU0gFuQVVfeXFMTmhSZ2g2MEtfZ3dKU2IxeUYtZXJJUDZidzd0MnZfTGtITkVsZFg2c2FxWHhxcnJzdFI2NFRCbUJHWlVUc2o4bFBKa2F6YklNQjNzbnJtU0N3bjc0U010U2FveENzYXRtRW9adlFBSGc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-26T06:56:25+00:00"
+    },
+    {
+      "t": "코스피 7000선 이탈…“정부 개입에 시장 불안”",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhVDBCbkJsOUhxYkttN0dxLXZpWUlMZi1LYi1Ockw3bS1NX1Q0b2lPS2VnZ09nVy1XeHBjRlR3Z2pmMlVBWHhDU1RpSm1YeUZiQkF3X2VQM042ZzRGZWdyaDV2QXhFZkJ0ZHc?oc=5",
+      "s": "인천일보",
+      "d": "2026-07-26T06:45:00+00:00"
+    },
+    {
+      "t": "8월 제조업 전망 3개월만에 다시 ‘부정적’...반도체 빼고 체감경기 부진",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95V05iNFdwZVhRcGRJU0pJVFktUHl1dDFyZ25lZXJTMzVDVm5KRlpmcVU3eDl3bWxZUGJyWTJJUHl1bGpkaUhMaXFLVGh2TGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T06:44:53+00:00"
+    },
+    {
       "t": "미국 추가 관세 2.5% 밑으로 ‘초당적 총력전’…“3500억달러 대미투자 협상 카드”",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85WHlnUlZpTU9vTnJ2ZG1uLUREdmp1bEJMakV1VGJQLUoxRTdQQ2NrZ0ZiellsVDVlNzhVeWNlSHpOM2dkbGQtZ3JWX3hNdlpuc2daMDBfa2hPNzZqa1FrSHFpa3VfMUFGenc?oc=5",
       "s": "한겨레",
@@ -43,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T06:32:00+00:00"
     },
     {
+      "t": "美 301조 관세 가동…3500억달러 투자로 만든 ‘15%’ 시험대",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZOUxNNEFiejZNWDVwUTJLVnY2dXhhQ2lrc0R3UUNaeHZLMlE4NkJTV2FHb09vQm9VUURTYXg1N1ExRnpRa1VCQnJSOHhDUy1nSWdEM3Jqd3E5dE9NU1ZPME92VTR2MlRjdVNQQ0JR?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-07-26T06:30:58+00:00"
+    },
+    {
       "t": "대전 중소기업 대출 연체율 1% 넘었다... 기준금리 상승기조에 상환 더 어려워지나",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XSDBWT2Y2UWdFd1ljQ25vU19ZXzB5eHRVWWkwOVhibWc3UWJXR0FUODJhdktwOFdSUUhlRjhNczB1d2ZiSnlSMFVXc05JOG8?oc=5",
       "s": "v.daum.net",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSZ2hzRk5CR0EwaEpXbEpXN0JuZFhKTzRnTGJvNGtRS0NVa2F0Uy1xMjJBV1Jnd0djTWtkRVZaYnF3MkEwb2dRUmJjV1pCdTA?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T06:28:51+00:00"
-    },
-    {
-      "t": "수원시, 산·학·연 협력으로 첨단 반도체 연구기반 구축…국비 100억 원 확보",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PbnlrNmtMSGx5d3lKcHA5VUlzRGJ6VGRIUzFlMXNMSDNBeW5Gc3R0bExyc1A2LTVuWWs5dXBPOUpMU2t1dzNkYUdmZW5MUktvRnliZVJCMFNheENwNU0waXhn?oc=5",
-      "s": "경기신문",
-      "d": "2026-07-26T06:17:26+00:00"
-    },
-    {
-      "t": "[뉴욕환시-주간] '40년來 최저' 엔화…연준이 매파적이면 더 꼬이는 BOJ",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XOWpranoxU1ItNEhHRDM3NFpjZkZFaDZFM3o1TDVsOHZGTkJtQUxYbFplMFJGaG9CRHVRSlYycjNvZ0oxLTk5eDRpZTdpRmsxWm1DUzZ6TnJzbVRZUm92WTU2SUFnQ1ZQV1RudHNBODB6dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-26T06:16:16+00:00"
-    },
-    {
-      "t": "미 ‘강제노동’ 관세 부과에 석화·가전 긴장…결국 ‘과잉생산’ 협상에 달렸다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wbHAxSHVKRnpSaXBoU1Rlb1YzMjI3MkpkY1YwSm5MOVYxOHZHYlpkTkRPdHlCZWcwa0dNSmJ1NDFPMGtOY29hSzE1cjhGVmJzTmFGb2FsdXF1d9IBX0FVX3lxTE9yTDZlZVg3VklsY3owTndVWThfQ3BEc3pvd2M0QmJYNHdJeU9RVnNRTVZhSUxjdEJ4Nm9LeDRwVzBkSGg3U05GbW92V3lUUHNTLXpRZmQyNFJmOHl6ZnVN?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-26T06:16:00+00:00"
-    },
-    {
-      "t": "[뉴욕채권-주간] 선제안내 없는 FOMC…놓을 수 없는 '깜짝 인상' 불안감",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZVXlqVS1RNzNBS3JGSzZrOXZfQkRzVUVyalJDcXNWSkhia24wVXJRbTVSLUNBV2xzcE5haFBrSExuWkRIV2FHRjdUQXh1MnF0aEpFQ1VkR3lES0stcVp3TW1uLWpWY3NLOU0zUm1jYkVkdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-26T06:14:50+00:00"
     }
   ],
   "asof": {},
