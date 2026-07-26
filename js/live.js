@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-25T23:45:15+00:00",
-  "quotesAt": "2026-07-25T23:45:15+00:00",
-  "newsAt": "2026-07-25T23:45:15+00:00",
+  "fetchedAt": "2026-07-26T00:00:15+00:00",
+  "quotesAt": "2026-07-26T00:00:15+00:00",
+  "newsAt": "2026-07-26T00:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"9500억달러 AI 협력\"…외신도 놀란 한국 반도체·데이터센터 연합",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fZzRldDNGTDhHV1M1TTBsSGVRbUcwVEktWXhtaVN3b3pwYWtiTWczMGR0MmRaOWZSdEpBYndxc250NW04TjFNblNzRnFFdElzaHJmU0Y4SkNGYUx6eEFkVUJZazlsaFJ0?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-07-25T23:46:37+00:00"
+    },
+    {
       "t": "아산시, AI 반도체 호조에 상반기 수출 772억 달러…전국 기초지자체 1위",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mbWF1eWk2V1RQSGNFUGlXemNqRGRsa01uMFF3cHgwaDFMZ1RiRXRSd0hXeXl5M2wzbm9weGJZeTdfQ1l0TnUxRnNQbUFXQzFBcldZWDctamZqZ1VJYnpRTVl2WlF3M3ZLM1kxSXJB?oc=5",
       "s": "아시아투데이",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Hd0dyelVnelMyMGIzcHVKTDBXZ1ZER1dRRUc4TU14SXBSYlFPZmNGZlJYcTNCbGRESTRXTHl4NzlMT182ZnJYZE9UVU1kT0U?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-25T23:33:28+00:00"
+    },
+    {
+      "t": "에이피알, 반도체 기술 내재화 나선다…뷰티 디바이스 R&D 고도화",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UdExkalhpaHlNODBsR2JFekFrM3F0d0ZMSWVfbkVoQ004SzB0aTdfQTh1QkRDQmdLUE1STnQza2lDWnV4eGo3MFZHNGQ3YnhPbGxORQ?oc=5",
+      "s": "이투데이",
+      "d": "2026-07-25T23:33:00+00:00"
     },
     {
       "t": "보험계약대출 4%대 '껑충'…그래도 은행보다 싸다",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDT3RjZUZEamNlMGdkcHMyZFVEcjdjSV9ONW5jdGJ5UkRZckZ0N25fWE82S0ljNmtQR2l5ZXY4T2dFblczX21LZ3RtNHdjMVN3Q1JsZWpYUFdPNUxOOGlqc2VOOTJYUkE?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-07-25T23:22:00+00:00"
-    },
-    {
-      "t": "美 301조 관세 가동…남은 건 2.5%p, 韓 '15% 상한' 뚫리면 타격 불가피",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83NjkzZHM5QUtueHJDMVBVOUQ0MDVLeGFuNGh5cW5IRFVoenhPb05mRjZDNmc0cUFxcG5qaVBjSGY4dk9acUhrZ2NxSXVibTJFdlpDRw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-25T23:15:00+00:00"
-    },
-    {
-      "t": "BIS \"재정적자 크면 환율의 물가 전이도 커진다\"…첫 실증",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvYUJhSktzTEFlYXA1NXlaeUdsX2s1VDFzczZJSWhrcWhFa3RDTUMycXdCcG85dGRudWFQT2JyNXlFQWpHX3FKSWU4UDNnRFpwRlZKQk10Q3RVUGg4aFptX04yVld3eTJ0RXhybERhc1o?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-25T23:10:05+00:00"
     }
   ],
   "asof": {},
