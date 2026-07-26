@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T12:45:15+00:00",
-  "quotesAt": "2026-07-26T12:45:15+00:00",
-  "newsAt": "2026-07-26T12:45:15+00:00",
+  "fetchedAt": "2026-07-26T13:00:15+00:00",
+  "quotesAt": "2026-07-26T13:00:15+00:00",
+  "newsAt": "2026-07-26T13:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "[증시 예보] “떨리다 못해 무서울 지경” 드디어 ‘삼전닉스’ 실적 나온다…‘이번 주’가 분수령",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BR3NmSnBMLXVJdTQ2YXdnOW55cmV1b1VYVGdYVU1xNHV2czN5aG9NLTN3YzdnRk8wLTVxdV9GTV9KRENrcEh3R1BLTlJHR05SNzRsY25R?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-07-26T12:40:00+00:00"
+    },
     {
       "t": "“하루도 안 빼고…”롤러코스터 증시에 지난주 1주일 내내 사이드카 경보음",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43MGJuYUQ2X1J4RklWQ0VMZVpyOXZmN21mbFVyV1RMUzdzdnRDUnJDMG1kb0V4RWhzSDRvUmdkeFQzOV9YUHpuVXZkS2dwSlA2?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93bVJ5MVd1eUtGUlhVd3g2SDVaZ2tvR2NzZmdReVlaaFBPZ29XSUJISlVsMkFEQnhTQ196M1hPM2pPVnpfTHFyaUNoYUhZWjlzU0M3SlJOcHBvbkJNWFA2Skk4em5mQU0zR0E?oc=5",
       "s": "hidomin.com",
       "d": "2026-07-26T11:10:25+00:00"
-    },
-    {
-      "t": "미 빅테크 기업들, 삼전·닉스와 반도체 등 1390조원 규모 협력 추진",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bk5nZXJRcUx0bENVX29zcXdXWm1jSmh4c3ZRQi1yQWI3WV84cjFJdFhZcEtjYjBsd2RkNTNVSGtCNU12cVZ4bUk3UkhOWDg4aXZRQ1psMzA0UE5qbzRUQThVM1ZRTVRYaHZn?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-26T11:07:00+00:00"
     }
   ],
   "asof": {},
