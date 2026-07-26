@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T20:15:15+00:00",
-  "quotesAt": "2026-07-26T20:15:15+00:00",
-  "newsAt": "2026-07-26T20:15:15+00:00",
+  "fetchedAt": "2026-07-26T20:30:15+00:00",
+  "quotesAt": "2026-07-26T20:30:15+00:00",
+  "newsAt": "2026-07-26T20:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "2026.07.27.(월) Signal Digest \"반도체\"",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNDc3ZmhKdFFnRWZ2bkdoRnl5cEZJbGQtNmh6SXY3VW9vTEpKOGhNX3lnZmVsU3FpYmdSTnJfb2tMY2JaT3FDNU94cXlnNVpJVC1xRm5pblhteWhIQnhBN293dWdxNEEwMUVMLU1SQTFBYUNNSFZEdHdfSDZqLXM1ZnhR?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-07-26T20:08:05+00:00"
+    },
     {
       "t": "“삼성-SK, 美빅테크와 9500억달러 반도체 협력”",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4RXpmZWN3Y3hlVzZScUlhMndLRWhZTVVrZ1BmZFBBQWlYZFUyRC0xQkVJV2VqaTlpckJVcEx1YW9iT3k5SnIwXzBuaDZXQktyRjQ4N0FCOUZ3UTFJNUNVRzA4eXRNT2tKZktDY09uRmtjQVQ3dzBz0gFmQVVfeXFMTTRxZE10TzJ3cVh6VWNHQ0ZDTndXbnVoaGVkcXhNMmNQRm54M1hiUXVMNHc5Tld4Sks0WU9FaWZIbmc2ZDVKMGs4UUZHQmZRc1RpRW8yeWdQWVhGUkd0dEgwQUpDcHRR?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-26T17:57:00+00:00"
-    },
-    {
-      "t": "원전 멈춘 대만, 해상풍력 8배 확대…반도체 전력망 지킨다",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVNIBbEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVA?oc=5",
-      "s": "임팩트온",
-      "d": "2026-07-26T17:43:25+00:00"
     }
   ],
   "asof": {},
