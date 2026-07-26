@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T17:45:15+00:00",
-  "quotesAt": "2026-07-26T17:45:15+00:00",
-  "newsAt": "2026-07-26T17:45:15+00:00",
+  "fetchedAt": "2026-07-26T18:00:15+00:00",
+  "quotesAt": "2026-07-26T18:00:15+00:00",
+  "newsAt": "2026-07-26T18:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kWkpYQk44RjgtSDliT0hlcEF2UThJMVQ2azcxenlhRUZ2aC1wd2owNHczb2doVTNfUXRUNk1tdFFqTlNhQWc0M25YUlh4eUk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T17:36:09+00:00"
+    },
     {
       "t": "FOMC 프리뷰: 유가 급등에도 Fed 동결 전망, 씨티는 비둘기파적 결과 예상",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOcUwwdVpWaXF1WW0zTE9EZ2pMNHI3eHpvWmNzSUp5VDNkZ1hlTENhVDhFbWw1R1FMb21FY0M0aHVNQmI3RFFWaHp0R1BGSUZsZ1daV1F1dnNLMGJtQk8wRTZ1Qk1IejhOaHpPUElfR3g?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWU4yeS1aMzRvWVp1b2hfVHE4TUdveHl5YUhCbThoNzlnb1hPV0VsU1p4cDZlTzV2d2VYcUpjWHFMaDVyTktvbGJ0Y3daZXFnb2lpbFlFRDhLTjFsS1ByQUkwam5aVHhUVzRUM0tOTm10dGM3XzI1amsyMWtsdVNubTBpTlNaNWNxUTVJ?oc=5",
       "s": "조선일보",
       "d": "2026-07-26T15:32:00+00:00"
-    },
-    {
-      "t": "유가 급등에 물가관리 비상… 한은, 내달 또 금리 올릴수도",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iREcyZkI0QWJJUjhTRWlYUVJ2aXN3b3ZGWHZBd21heFlzNzBTeVkwRVhXUlp0NjVzZklQemJnNFJWTFVrU3BtVGJPVFBTaG5UTkNfd2VpUHUxVmRqcVpFTzk5OEc4cE1zTVgwWXN2NXZGTTNNRUHSAWZBVV95cUxOTFlQSHZLQTgtWlo2Y3dKS2lKR0VDZTBmWXpZZWhTS2dIaWNaZXBzS1N2dnBFcWptejhjZzlVcXJzRFlNRHhNX0xqVkVfRE5PRVJURHBGdk5wRzNYZE5WNnkxb09felE?oc=5",
-      "s": "동아일보",
-      "d": "2026-07-26T15:30:00+00:00"
     }
   ],
   "asof": {},
