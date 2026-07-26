@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T00:15:15+00:00",
-  "quotesAt": "2026-07-26T00:15:15+00:00",
-  "newsAt": "2026-07-26T00:15:15+00:00",
+  "fetchedAt": "2026-07-26T00:30:15+00:00",
+  "quotesAt": "2026-07-26T00:30:15+00:00",
+  "newsAt": "2026-07-26T00:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,46 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"AI 시대, 쿠데타 이긴 경험 자산…韓 반도체 선도자로\" 李 대통령, 국정 비전 밝혀",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rSVpZZUhwUkJJV0ZOSjI2ekdNaS1iYmp3enVpWUhFY0gyY1RSVlUtMnFETldxcEFNOVhjY2ppd0RfVnltUHhxVzNVT2Z2RWpsYk5HTmpZMkpHV21zNzNsN0Rn?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-07-26T00:22:00+00:00"
+    },
+    {
+      "t": "박홍근 \"반도체 호황, 과거 사이클과 달라…장기·구조적 변화\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kS2xCV3pFZDZXN0poWHNSWVJGS29KTDBWeEluTWh4c1huLWpJbFU2UzViSk1hX1B0S3k2N09SbVVxTTk1WGNQSUgxa0dnWjh3bElTa2pRUVRvNjRRUEVhb0U2dE12dGhjcVRTR1J6YUI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-26T00:20:52+00:00"
+    },
+    {
+      "t": "국장 급락하자 미장으로…서학개미 순매수 4배 늘었다",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHZMSlFxTkFCa2Y5WnBrWUM1NWNRVHlVNGRMQS1acEtTYzRENzBKbmJRUUFweE9sWjQ2Z3hPaEVadS1LWUdaSXozdjdXZjgzeU5fU2RJSGRaclIwMGJvV3FISTZvNVZBTDhGLUFFZFdFbWZ1YWFPc1g1dVVrMGZQbXFzUkRmNnJhZGo4?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-26T00:19:00+00:00"
+    },
+    {
+      "t": "기준금리 인상에 증권사 CMA·발행어음 금리 인상",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UkxVUFAtc2J0Q2ZPUWRibUhyQzdhT0VKY3Z5Wm9BYk1KaVJRenJ5eWRwVndyS1ktZnJFa1ljTDJMdC1EUERybFZNdlctenp4RTM1a3loaUZkUFZtcXo5c1duT3dRRkVf?oc=5",
+      "s": "2news.co.kr",
+      "d": "2026-07-26T00:15:00+00:00"
+    },
+    {
       "t": "뉴욕증시, 중동 리스크·연준 결정·빅테크 실적에 변동성 커지나",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lbk51cFlGS3JQN2FnNXBXaGhXdjBINUF2Yy11bTJKMWI0elItZzhtbF9WR1E0NGUxSUtldm4teEZNZUVLNEVidnNLaFVTRGRVZXI0VFU0VjlORkxibjhYZURkSXJCOTJ0N004NzFDLUbSAXRBVV95cUxNSmFEbTVYaWhPcTlPTVFPZzZpOGctOUlZX2lqekQzTVJoLXpaSGpZQS1tU2dxUk5pczUycV9uT0hkWXhaVTNTcXc1MmwtN0xZNlp2RFJpU1dtSjFOa2s5cy1QMGQ5MVRMT0RNcEwyaHlrN0cyNA?oc=5",
       "s": "산경투데이",
       "d": "2026-07-26T00:10:28+00:00"
+    },
+    {
+      "t": "'롤러코스피' 멈출까…미 하이퍼스케일러 실적 발표에 쏠린 눈 [주간전망]",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOb2UyeS10Xzh0SlhiQ3RmVFhxNXpuY3hBdmE0SURXaTIyanNpTmlxWXRDd3pwbkRmSFZKcnZOdzAxTldzbkJ0UmJzRlNpVjRK?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-07-26T00:07:26+00:00"
+    },
+    {
+      "t": "금리 상승에 영끌족 비명…서울 주담대 연체율도 ‘꿈틀’",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnRuekNZTzZPRm51VDBCeXpPaENaVzhlN3ZfbzlLWmpaMEtJbHBWc0VTUmdUWGhrZHpUeTU4NVdzd09FZS10dXRzQ0swVVA4aXEtelNMcVdIRF9rRW5VYS1CZFhxbFVaaHBKMmV2QnNDem43ZGI4RF9zWm8tdFVTOTV2OVlYUdIBbEFVX3lxTE4xcE1TY3dwZnoyOUN3TFBCNTRqTVJScnRmVUpSN1pBRlJyaHB6QWNLMHRCd3o5d2JHamRna2dMcGU0Ti15X3BnekEyS0FkaXdfNV9sRUp3cmw5RXE1cFR6M3ByaHM5RWlVdkl4UQ?oc=5",
+      "s": "국민일보",
+      "d": "2026-07-26T00:05:00+00:00"
     },
     {
       "t": "유럽 PHEV 3대 중 1대 중국차…'관세폭탄' 전 맹공",
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T00:03:14+00:00"
     },
     {
+      "t": "코스피, 미·이란 충격에 6600선 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mRVBPX2RabXZ5ZGVrRDdmMHFNOVlOYWJ1eXo0QWZtTHRQTVV6anlib0JwZU8ydTJqWG5JUXBPMmJ4UENkY3ktNXdNUWlHQ0RXQmZPajZoTGVGRHM0M2F5ZFBibFE0bVNZ?oc=5",
+      "s": "2news.co.kr",
+      "d": "2026-07-26T00:02:00+00:00"
+    },
+    {
       "t": "1년 반만에 은행 예금 연 3%대 복귀…금리 상승 빨라진다",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkUUNsRVU0Umx6dFJMcjZJWXNmOXNEWnk3LXZ2QmFPVE1DS0w3SHBmcmJhWlp2allkSGlEN2JPcnBNYXBJdG1DT0gySXJzUDhrZmJ2ZklGWEVXRHRTei1sOFNENTBxZDZCeUNVSzdXWEw?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-26T00:00:27+00:00"
-    },
-    {
-      "t": "급락 뒤 맞는 실적의 시간…중동·FOMC 넘어 반도체가 증시 방향 가른다 [주간증시]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVERIb1FUWlNRVEVFRWh0WDl1NnpGNmZhSjJUb1dLQzVMZXU0MXdzRGpXeDdtWUVnaklGdWtCTlJrSmdRTkxiYk9BZ1o5X1dDdzM2dkhmQUdKaG5ZaDRyX0Nvbw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-07-26T00:00:00+00:00"
-    },
-    {
-      "t": "코스피, '검은 금요일' 딛고 반등할까…AI서밋 훈풍 속 빅테크 실적·FOMC 주목[주간증시전망]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMTVo3aDVodWxTVE9hckxXeEVKR0hGaVRrbms4V0dmNU5HUW1PWk1CeFd1cjllSU4yNS1tZnVmZFVzOUlWMTJmZzdzeGdmcWd3bTBWV0tFbmxGUld4MV9uU9IBeEFVX3lxTFBsVDBSYzV4SU5QeXJvM0Z2QkVyZm8wdEdwNWNfNXFlejlOTTZtY1lETVZpMjhadHI0SVRvUFFLbTNpSWc2SzI4amhFaHhQaDRlWHM5UDIwTVFFUHJra3BxQTJSYW9uZmtfSUw3YndrWUs5TGJHZ044Sw?oc=5",
-      "s": "뉴시스",
-      "d": "2026-07-26T00:00:00+00:00"
-    },
-    {
-      "t": "美 무역법 301조 10건 중 절반만 관세 부과…“외교·협상력 필요”",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wWi12aldoNFQyWEk3WGg1VXZkeUNpcHZIbFhuR3NISW0zQVUzWGJEbWpJTEFnU1piczdBaXQwVUN1VG9zQzhDdlhMNk1JQWdEbnFWSGJOUW81Y29SNWNLbkZPTk5tR25FWjlhRVo2OHF4VUXSAWZBVV95cUxPbUMtTWJsWGtKQkRTTmJyRFR6RGR5NWgwcEcyMlUyQ2h1Z1lkV19iS3RqeUpDVklvVW1rODdQT2phYVd3YU1pWHdORU5PejZRWG1WSHlzSzc4UVI5b0dfd0JjRGNuTXc?oc=5",
-      "s": "동아일보",
-      "d": "2026-07-25T23:59:00+00:00"
-    },
-    {
-      "t": "한 달간 코스피 하락률 25%, 증권가 “이제 바닥권”…근거는? [증시레이더]",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zdmpEY2N5NmxWbENMWi1xS0Itc2tjS0xaTlFwSDg2WXU5SXl1anEwb2pRaW1iaHZlakxobmxsRmxrLVFqRFczTGN2bENKMTBWN0tlZzIwV0c3bEljb3NZSE42M1Q?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-07-25T23:56:43+00:00"
-    },
-    {
-      "t": "\"9500억달러 AI 협력\"…외신도 놀란 한국 반도체·데이터센터 연합",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fZzRldDNGTDhHV1M1TTBsSGVRbUcwVEktWXhtaVN3b3pwYWtiTWczMGR0MmRaOWZSdEpBYndxc250NW04TjFNblNzRnFFdElzaHJmU0Y4SkNGYUx6eEFkVUJZazlsaFJ0?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-07-25T23:46:37+00:00"
-    },
-    {
-      "t": "아산시, AI 반도체 호조에 상반기 수출 772억 달러…전국 기초지자체 1위",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mbWF1eWk2V1RQSGNFUGlXemNqRGRsa01uMFF3cHgwaDFMZ1RiRXRSd0hXeXl5M2wzbm9weGJZeTdfQ1l0TnUxRnNQbUFXQzFBcldZWDctamZqZ1VJYnpRTVl2WlF3M3ZLM1kxSXJB?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-07-25T23:39:28+00:00"
-    },
-    {
-      "t": "트럼프 '관세 시즌2'...\"미 경제는 버텼지만 물가만 올랐다\"",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wSjRJbU13YWRmRGRQTVV2X3FKSTZDWDhzWWl1Y1VaOFBWZENOdUxfelNhaThWTzBqeG5TaDR5M0FxXzNpdFctUG80YmlPT1RMcjM1TFp5eEhjWGZ0d3AtX3I1NHpYMEh0?oc=5",
-      "s": "ebn.co.kr",
-      "d": "2026-07-25T23:39:19+00:00"
     }
   ],
   "asof": {},
