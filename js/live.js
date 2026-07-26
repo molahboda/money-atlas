@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T05:45:15+00:00",
-  "quotesAt": "2026-07-26T05:45:15+00:00",
-  "newsAt": "2026-07-26T05:45:15+00:00",
+  "fetchedAt": "2026-07-26T06:00:15+00:00",
+  "quotesAt": "2026-07-26T06:00:15+00:00",
+  "newsAt": "2026-07-26T06:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "대구 휘발유값 11주 연속 하락…국제유가 급등에 상승 전환 가능성",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zdFF3RjZEbnJFVkxrd3I1VkZPTGVxNWJBOUhoaDBFWkRSWkhGRVlzNDNmUGZta3dHQWJqekx4bmExcG5CdWdXSlhSVll1QTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T05:50:03+00:00"
+    },
+    {
+      "t": "지난달 원화 가치 17년 만에 최저…7월엔 ‘SK하이닉스 효과’에 나홀로 강세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tSjZac2VqeERWdElIa3l4N3p0dTA5SmdBNTdJNUZObl9jdHUxemoxbDN5QkpXTVhnQjBEQ0ExTzN6SnM5Zk44ZEhBUThNTk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-26T05:36:11+00:00"
+    },
+    {
       "t": "[이번주 환율] 일주일새 22원 급락...달러 강세에 추가 하락 제한 될듯",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qaTh1ZkwzM0N5T1hhWTZvNlozZ1V6NWhzMFlXOEFIU3RCc2lfTzdhRGp2NTFKdnpaMEc0RjkxY04xbzFoNGJFQm5LUVJxTFo0NTRWT1EyNGdLeXhWbUN5RWhWM1l4elhfZkszX0NEQkE?oc=5",
       "s": "오피니언뉴스",
@@ -32,9 +44,21 @@ window.LIVE_DATA = {
     },
     {
       "t": "기름값 하락세 끝나나 ‘중동 긴장에 국제유가 상승’",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQV9nbHJ4Ym1xR21FVF91SlA2cTNoeTN3b0hNRWxUdDYzSlFFYXR1QThnVFF4YXUyN0tCSmFuZ1Z2RU14VTZrR0d6ZEJyM1lGeHV4OGUxSXVoWEVKRlJXMnpvSVhBdS1ndTZBd091YVNVZ3YtaWVjdmdQSWlPLWJHNXY3d2lpeHpHdnVnbHM1Q3FiVk1HWEHSAWxBVV95cUxQclNRZ3ZlWXd4eVJQVGItNWdnVm9zRmRUVTJ0NlJvbDhhODZ4OGtaclpTZWVjaWctSGxuNlJVN0VZbjlTVkU3Ny12WDNuenplZW5sX2ZXeVc5X3l4T1ZFbE5zMW4xMWd6bHB3S1M?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVhHZjgtTHJDTnYyX3F0M3pmOG54cXpwSXNocnZwcnktd2xSeTd1bDdWUF96eFJ6Z09nMjBCMFIwX3VDWTE0b0pKQk56bDBpN1l6am5sY2NrdEYzYjVsYVNJS1VucUx6RlAzLVBNRElUcXBnOGNFb2szMVU0LUcxRHgxV29Md9IBbEFVX3lxTFByU1FndmVZd3h5UlBUYi01Z2dWb3NGZFRVMnQ2Um9sOGE4Nng4a1pyWlNlZWNpZy1IbG42UlU3RVluOVNWRTc3LXZYM256emVlbmxfZld5VzlfeXhPVkVsTnMxbjExZ3pscHdLUw?oc=5",
       "s": "국민일보",
       "d": "2026-07-26T05:32:00+00:00"
+    },
+    {
+      "t": "중국의 원유 수요, 유가 지지에 충분할까?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZjFUZkVjQXdPWG1ybGZBZWNyRDk4TVppbE9ILVJNdHRFNHNjbTltSGJJN2MzWllBaXh6RGZoTzJZSXpBRUhlSmRZRThGUHZCQ3hUc1RoNDQ4dURRREIyMjRLNF91NDBUS3c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T05:32:00+00:00"
+    },
+    {
+      "t": "中 반도체 규제 두고 애플-마이크론 갈등...트럼프 선택은",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFJZNmxtanQyb0dOdjRvV3ZpWDJGTU15a0ZONjBlMjlqcFpnRHMxOGRrRXMyZmVVdE1ETWRUVGo1VkRlTktFNzlYTUg0cC1mNlhXZzBuR2dFckpFZkNMSmdST25FR0JKMkgtMDN6cFZUTmhIZDRNeElrTkIyTi1MdTVxcw?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-26T05:31:00+00:00"
     },
     {
       "t": "이재용, 오픈AI 본사서 샘 올트먼 만났다…AI·반도체 협력",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T05:18:12+00:00"
     },
     {
+      "t": "SK하이닉스 실적·한미 반도체 협력에 'AI 투심' 살아날까 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcEcxX0xqZ0pXdDVGbXQ5Z3FnbmZLSmNBbU1ncmJCLThsZjdTTF9vY2g0MGU2Y3IxNDNqd3ItZXU1MFVxSHBfcTdpYUZYZDJpVHlPa1RsbmNDZjdrWmp6NXRyRWM0V05o0gFuQVVfeXFMTUhKb2x0OE0xSW8zdVM3eG92a09hcG5MNDFGcU9QM0dlQ08tVmJaRHlLa1N3bWd0c1hRXzBHekZzY1gyUEIzQV83cFBfLVBWR1E5QWpLVDl6ME1BT1RTNXM5SURuWENuNzFMT1lvY3c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-26T05:13:34+00:00"
+    },
+    {
       "t": "해외 반도체 시장 탐구 ② 일본, 왜 반도체를 포기하지 않았나",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QVkU3SmgzcHVyV085c1dhTTIydENOdWl2VEdUVmlIVTFyZUJHYkhnTUZzbk9fd3pCNWhOYnF4eWtmOGdkNjdMZ3FNUEs3UGNER0U3cEpWNmhxWGxlVjlJLWFSRE5aX0ZxYXc?oc=5",
       "s": "전북도민일보",
       "d": "2026-07-26T05:08:44+00:00"
-    },
-    {
-      "t": "\"2분기 성장 강했지만 광범위한 내수·물가 파급 확인 안 돼\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PM0YwcWNuY1FoY0Fqamc2NmExclZ4VGIzRG1RU1pmY1c1VnRsLTlaNUkwTFRUTmJFMFdOU2cwRmRvR2pGS0p6LTM0akZtZ193WTQxZmVjUHRQZE9ManBXM0dmcnJYVHBFdDUzSVl6TWI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-26T05:07:18+00:00"
-    },
-    {
-      "t": "[주간환율전망] 중동 긴장 누른 달러 공급우위···FOMC 주목",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTDY0enQzdVBuT2hXak14Q1ZZZ3pHZFVqTThyOXhKTlQ2cW8tYml1NUFQUFZCdGZLdjJtZW1PQ3JlZ19nTG9hdDhqMkpxaldmNmNNbnR4NTJ4TjBEaThzTmY2Rk5qYXhjemc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-07-26T05:05:21+00:00"
-    },
-    {
-      "t": "젠슨 황 \"코스피, 다시 오를 것\"…'맥주 회동' 반도체 업황 호조 언급도",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFa3JsaVdlbGpFdG9nTFM0cmFLRDNBdlZTNHpfVDZTZ3JYdTl5a004dG9UNGVEU004TUt1TjQ2OTlsYnhUTHVHOWtmNEpUZE05TmZtZzNyMWRCTTZNeWRqUU5B?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-07-26T05:03:05+00:00"
-    },
-    {
-      "t": "[C리즈] 나래나노텍 김추호 대표 \"반도체 장비 수출 호조\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yWnZiTkRVbVZxOE9VZEZ3dm93TzlqWDVpMXkzZ2VxMnRFalVieXo0MGpsQl9BLTJna1RvcXBXUVc4NjN4Ukd3RXU2b0N0aVU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T05:02:09+00:00"
-    },
-    {
-      "t": "[주간 증시 전망] 7000선 무너진 코스피…AI 투자 확대가 반도체 반등 열쇠",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yV0k1bXp6bm1QRXoyRG53eEJfWGxxOGxqeEZmN3k2UWlwWnlEeWtua2xEaUI1bnd6QjJBc05tSHE5c2pmWENmMnhaVnNVTWlVMEdmM05ZNWE5Mm1LS1N6SDU4Y096Z0tJRmlKTFNCONIBc0FVX3lxTFA3Z3ZjVWxWTF9oZU1PSkd0MHBaNDBhSnlZRVh2cEp0eXRGdEZscGlVaTktNm5hUHBqQmZjUzV4SXdBQTB5RDdXNHJBbC1ibFYtc2paVGt5RURDOVVBZGtOQTc5ZTAzNWVNaE5ydkV0LTYzNVk?oc=5",
-      "s": "뉴스웍스",
-      "d": "2026-07-26T05:00:00+00:00"
     }
   ],
   "asof": {},
