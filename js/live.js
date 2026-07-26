@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T10:15:15+00:00",
-  "quotesAt": "2026-07-26T10:15:15+00:00",
-  "newsAt": "2026-07-26T10:15:15+00:00",
+  "fetchedAt": "2026-07-26T10:30:15+00:00",
+  "quotesAt": "2026-07-26T10:30:15+00:00",
+  "newsAt": "2026-07-26T10:30:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-07-26T09:23:00+00:00"
     },
     {
+      "t": "“美 관세 15% 아닌 일본·EU보다 불리하지 않게 협상해야”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzVGhMb0s3eEpQRUNqb0Q4V1p4eGhmblY5SEFZSEdTUzVIcEtTbVYyLVNXTjFnTno4azJRS2d4YWlqU0VzdzhBbXJaeU8tSmU2QVlvLVlIMDlRMXY2Zlg4dWtZM2QwOTNKRVBETGp4Yw?oc=5",
+      "s": "서울신문",
+      "d": "2026-07-26T09:18:56+00:00"
+    },
+    {
       "t": "[이번주 증시] 'AI 랠리' 이어질까…코스피 향방 가를 '슈퍼위크'",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRmhaX3ZkNkhjSGVCSEVlbGxXNXlkS2pJc09fRTNKWEN5TzIyNFB1bnVWX1NVOHc4bkhWSEYxWS1GUDFOSkVvNVJXZHZjRUN3TzRtbjlxN0ZUMDB1a25YMjZMazhoSmZhZWfSAW5BVV95cUxNNHdnUzZEd0tZOVU1UDQxZzk1Yjc5NDF4eWRMbnFYSExGd3RoR0tSdkNjMElieVF6NUZDVWtwZmdoT0FSbDUxbGRSVmY0cGx3dUF2MUVmQUhiSVFBT1h4NHhnelpWWnU0bzRXbDhkQQ?oc=5",
       "s": "뉴시안",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T08:46:13+00:00"
     },
     {
+      "t": "유가 상승에 가을 해외여행 최대 20만원 더 내나",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pYkZyZTNtSlNIZ0ZFNUxET0xsb0N3VGJHUElkQkN5Qm9oQ21vTS13VmhWbUZhUjFSd0NfV2RSbWtyYVhtSWxMdnVxZVJZd1NMRlB5YVB6ZVo1SXhlVW85cVR6clo2UXRuOWctUFdMOTJHcG410gF0QVVfeXFMTmliRnJlM21KU0hnRkU1TERPTGxvQ3dUYkdQSWRCQ3lCb2hDbW9NLXdWaFZtRmFSMVJ3Q19XZFJta3JhWG1JbEx2dXFlUll3U0xGUHlhUHplWjVJeGVVbzlxVHpyWjZRdG45Zy1QV0w5MkdwbjU?oc=5",
+      "s": "IT조선",
+      "d": "2026-07-26T08:44:41+00:00"
+    },
+    {
       "t": "1년 전으로 무너진 코스닥…코스피와 성과 격차 ‘극과 극’",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fdGRlNWpBUDVHeWtKMWlVdTdNV0RYNlcyZmRLOE9vT3VsYUtGdFhkOExwZkRwSlkwU1VfdDFaZUpfamhtR0gtd3lQLWxfQQ?oc=5",
       "s": "dt.co.kr",
       "d": "2026-07-26T08:41:39+00:00"
-    },
-    {
-      "t": "케빈 워시式 '깜깜이' FOMC…월가 '동결 vs 인상' 팽팽",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzUUVoN1B2NjZSdVQ3X3dUSFdjNFAtMkR2eEY3MzBvUThqUThiU2xfTzQ2OVlpay1McW5lSlZPczlVNUNGWVZxME5Ob29Xb3NJVDVKd1BJNS16NTM5Y3ltUFpxY1o3N09yYno0dGxfOGNGMm1BSzhVOHlaQQ?oc=5",
-      "s": "이데일리TV",
-      "d": "2026-07-26T08:40:00+00:00"
-    },
-    {
-      "t": "전북 800조 반도체 협력도시 제안과 옛 김제공항 예정부지",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRXhWbEwtWkUyUWZHYVVCUmtCV2RvR09RUjBUc2FRaDhqM1BDeklaMVJia2xNTGpVVGV6UnQyZmpSUVpwZkZRa2tGZ18tYlhzMmZVOVhPMW1YOGR6cWlZdmFrNVZvdzBDUVE?oc=5",
-      "s": "전북도민일보",
-      "d": "2026-07-26T08:39:00+00:00"
     }
   ],
   "asof": {},
