@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T09:00:15+00:00",
-  "quotesAt": "2026-07-26T09:00:15+00:00",
-  "newsAt": "2026-07-26T09:00:15+00:00",
+  "fetchedAt": "2026-07-26T09:15:15+00:00",
+  "quotesAt": "2026-07-26T09:15:15+00:00",
+  "newsAt": "2026-07-26T09:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "비트코인, $64,000 위 유지…연준 결정 앞두고 투자자 대기",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fOHN1R1dWNWFCV21JVDBmemw1a0JuQ2lneDJPeGJlVC1MR1VOWHBCUzlGY1d2ZVM2YkhTTFVJMXloeDU1VmlzaEg1NVhfQlRUZDh2Vk5uNHJQR1ZKX1BnNy1HVnhLbE9XS2ZwUGdob0JFRzQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T08:55:00+00:00"
+    },
     {
       "t": "홍해까지 막히자 국제유가 다시 들썩…하반기 물가 비상",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tS0htNG81Xzd6SFZrN0hNMk5YdmVPekxvdE92aFNNcWN6NUw5ckF6U2QzRnhsLU9pZEtWdFFLM1BYSFBUMU84SkZ0WlAxc1BWZTAtWjd3?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44bk5nZXJRcUx0bENVX29zcXdXWm1jSmh4c3ZRQi1yQWI3WV84cjFJdFhZcEtjYjBsd2RkNTNVSGtCNU12cVZ4bUk3UkhOWDg4aXZRQ1psMzA0UE5qbzRUQThVM1ZRTVRYaHZn?oc=5",
       "s": "한겨레",
       "d": "2026-07-26T08:27:00+00:00"
-    },
-    {
-      "t": "\"코스피 6000이 지지선 … 바닥 다지고 9000 넘볼것\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EQndWbk9vYkxHTGNtQ3JFRkw0dV8xWUNzUTZFeXlsaWNIY3BjMjctNmNqY3A0NUpsaFVKSU5wTzBmVnIyXzByWlNOXzVyQmxoSkE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-07-26T08:23:10+00:00"
     }
   ],
   "asof": {},
