@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T19:45:15+00:00",
-  "quotesAt": "2026-07-26T19:45:15+00:00",
-  "newsAt": "2026-07-26T19:45:15+00:00",
+  "fetchedAt": "2026-07-26T20:00:15+00:00",
+  "quotesAt": "2026-07-26T20:00:15+00:00",
+  "newsAt": "2026-07-26T20:00:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
-    {
-      "t": "“트럼프 301조 관세 위법”… 美 기업 2곳, 무효화 소송",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DNk1VYWx3bmlKamlyWVFfY1R4TmI5cllFd1kzOU81dXNxVjJONlhiOWEzTVlVOW5RWWNxU2ZUcUNYMzFkcHlHVTJCUWZUdHlvaFZjTWdrbWZnOUVCdWhkQ0RUUVhjVVBpOEZtZHNkbGlVenfSAWZBVV95cUxPeW9MdVZ4UGJidWZnUGxmXzZ0akxZZTMtd3VIaGNBRmVWR2t2MEplMmxyUDVoRWtQOFRXaGpnMGI2YlJiNmhFd2ROa0t6N0EwbFZQQ044ckxuRjV2dk01cHU0bzRnY3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-07-26T19:30:00+00:00"
-    },
     {
       "t": "“삼성-SK, 美빅테크와 9500억달러 반도체 협력”",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4RXpmZWN3Y3hlVzZScUlhMndLRWhZTVVrZ1BmZFBBQWlYZFUyRC0xQkVJV2VqaTlpckJVcEx1YW9iT3k5SnIwXzBuaDZXQktyRjQ4N0FCOUZ3UTFJNUNVRzA4eXRNT2tKZktDY09uRmtjQVQ3dzBz0gFmQVVfeXFMTTRxZE10TzJ3cVh6VWNHQ0ZDTndXbnVoaGVkcXhNMmNQRm54M1hiUXVMNHc5Tld4Sks0WU9FaWZIbmc2ZDVKMGs4UUZHQmZRc1RpRW8yeWdQWVhGUkd0dEgwQUpDcHRR?oc=5",
@@ -55,10 +49,10 @@ window.LIVE_DATA = {
       "d": "2026-07-26T19:23:33+00:00"
     },
     {
-      "t": "'삼전닉스' 도전...창신메모리, 오늘 中 증시 데뷔",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMDc1cGluSmZ6RFFCZk5MMTJiUWpaU3lRZFAzSVJtVkJLaFVFYVgxMldNUjZYLU40alhGcHNJbVM4NFU5VmlnNC1XS2xraEZmRzVj0gFYQVVfeXFMTldRVFl4UlpnNWFCZDNNRHRGWjB0MFBpTGw1MlFuczNOcHl4LUFZM1RsbU02Z1E4RXRkMktGa3UwR01BNC1BYklrc1hoTGhSaEdfdkZGM3p3cw?oc=5",
-      "s": "SBS Biz",
-      "d": "2026-07-26T19:11:00+00:00"
+      "t": "트럼프 2기 관세 재편과 실효세율 유지… 한국 경제 파장 촉각",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeklZNmstYU90Xzd3TDJqaXBNdTEtSFBaaWVRaE9vU2hPSWFUZEZrYVREQVMxbkI1ajZzcW0xTWNNTFN0UUJ4QUlFRS1BVl93QmNqcUxXWHB4R1lYYklxWWFFZWRib2EwWDR2bDZRb0o3Vm9McFdkTkpUUjRxa3BCblBWODJ6T0Zy?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T19:15:00+00:00"
     },
     {
       "t": "삼성, 메모리·파운드리 '두 날개'… 원스톱 턴키 경쟁력 본궤도 - 머니투데이",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-26T17:57:00+00:00"
+    },
+    {
+      "t": "원전 멈춘 대만, 해상풍력 8배 확대…반도체 전력망 지킨다",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVNIBbEFVX3lxTFBNcV9uUUQyckVuME96dlFfRlhUZkdyTmdXMGRlUzFGcG43VWpMbG5TSy05VzNoaWJZcDR0a3IzVVU2by1vaVFrYjdZa1MydV9TQjJzMUJMTzdYdUkxZjFscWxPSE5wOGhCUjZXVA?oc=5",
+      "s": "임팩트온",
+      "d": "2026-07-26T17:43:25+00:00"
     }
   ],
   "asof": {},
