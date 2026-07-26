@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T01:00:15+00:00",
-  "quotesAt": "2026-07-26T01:00:15+00:00",
-  "newsAt": "2026-07-26T01:00:15+00:00",
+  "fetchedAt": "2026-07-26T01:15:15+00:00",
+  "quotesAt": "2026-07-26T01:15:15+00:00",
+  "newsAt": "2026-07-26T01:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -25,10 +25,40 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "수원시, '미래 반도체 첨단 패키징 검증 플랫폼' 구축… 국비 100억 확보 > 뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15WlFsQzFpRHBUQjZEb0NnWFZwUlROS2xiQmtLd3U3c3BmdHFWb0VDNXFCdC1lOW1STWtxay0tQWpSVnAxZ040VWpFZTR2bm5HbjFNOTlfVjR3Sld4NTRMOUJTMkh0a3VsSF9KT2pPTDI?oc=5",
+      "s": "더코리아",
+      "d": "2026-07-26T01:02:00+00:00"
+    },
+    {
+      "t": "100달러 돌파한 국제유가…중소기업 우려 커져",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01WnhJaDE2bFQyMW9ZRFkzdDVES0RJN2xVOXNuZE1Kb0dGVjhSTVVINkpzX2pLM1doUERwNkZvcXQ1UG11RjRFSDlReVpLaF9LTGFwbzdUWEpxWmpsYl9fYjBNcw?oc=5",
+      "s": "매일일보",
+      "d": "2026-07-26T01:00:00+00:00"
+    },
+    {
+      "t": "[게시판] 에이피알, '반도체 첨단산업 기술개발 사업' 착수 회의",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOXBrWkRzUE4zalM0bUJqenJ5QXVyMnI4MGxZVDRDWTFoSjZtdk1mdTBlVTlVemhkTFFQNW5sbXFVMkRjdlFSUmxqaFViRS1PNDRpeUFoLWZqZmNoXzFmZUhDbFo5XzlJbzQzX2RpUkU3aFJs?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-07-26T00:59:43+00:00"
+    },
+    {
       "t": "이재명 대통령 “한국 반도체 공장 없이는 전 세계 산업 안 돌아가”",
       "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjJCTmc5WkdsQWxzMlpFR213YS1vb1pQWmtuTlNsMnFBT1VBZUFKbVhnSjR0UC02NFRFNzhZSGE2b1FacmRSdjNuSVNnYU9GM0NQaWctTDBVUGdJWnV0QVJwOGlsMHFDY3FNb3BQZGFjSUwtcmxyQTBONmtzdTlYQW9CSTBScDAyaWc?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-07-26T00:52:22+00:00"
+    },
+    {
+      "t": "고유가·관세·환율 ‘삼중 부담’…하반기 한국 경제 불확실성 확대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85d1VzNzFKczdfRF9zMDNBSWtqMTVUdHlTc0xqc1pkVS1rYUV0ekRlN1Z2d0ZtNGx1amMtRWVNc2xydDU0S2h4d3hHbU14OTR0UE1VdXdQSkFxSS1aQ2lwNHZRZmlZYXpjM3lSWXdiVVbSAXRBVV95cUxQVUVaY2xNeERtTlJicFJxMTlHZGxnNjQ1UDVDYWFTdnpmZ0RaSEdhSVJpVEwxczNzaUNlNU1xOWVxbGNXNnZfUGNwQ1IyWDBjYnU2TVlxZnFPSHhIOHA2UlFka0JWMldJbDI2TzFVd0NKUHFseg?oc=5",
+      "s": "산경투데이",
+      "d": "2026-07-26T00:50:23+00:00"
+    },
+    {
+      "t": "중국, 고강도 중이온 가속기 시운전… 반도체 검증 주도권 노린다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFBDQUpvWjJ0MmR4enYwOGhydmxmcDhUQlZvYXNJbDVGS2lGcWNrcWFFMlJzX0tPZ2F0VkJoVXB5YmJydVJXby03NUhNRXNuRzFTbENSM1VBZ3ZPZW1jbVpXaXd4SXEySTNsdC1adzloZ3k4MG9kWnVLaGp3MGJzZUFGMG5JSmV2?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-26T00:48:20+00:00"
     },
     {
       "t": "에이피알, 뷰티 디바이스 핵심기술 내재화…반도체 R&D 본격화",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-26T00:40:00+00:00"
     },
     {
+      "t": "중동발 유가 충격 국내로 번지나…국내 주유소 기름값 반등 우려",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1cjhoRTF3OHp6UWJ6VzRQZzV4WHphR3c1WlkwVkV2S0lubl9SUFNueDlTaWZWQW9KNEt5UjNXak1mRWd6LWtuUjBnWWtOUkhJemdoUVRISHR5dl8yRVFtM0lnTHJJcndVVlkyVDV3UjDSAXRBVV95cUxNcmUyTDA3RGF0enk0bnZyRTNCUVFweGZmcnZKb1FXWnBDMUtPMWJ3bm53WGc4alg3QlhHUXJJZncxeVVVRF9fZElIQThmMnRsYzRyQ004MHhKeGRiZEI5Q0trOU9vbFZocktfWjlRUkU5MXhhQQ?oc=5",
+      "s": "산경투데이",
+      "d": "2026-07-26T00:38:42+00:00"
+    },
+    {
       "t": "에이피알, 반도체 국책과제 주관기관 선정…뷰티 디바이스 핵심부품ㆍ시스템반도체 내재화 나선다",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xcnJqcmI0OTZ0ZHl5SFpJZnFPa0VxRG1VMUVSZ1cxQkhNWlJ0bWJEWUdGRFEwUVV2dElqaFZXWm5INDVRdFVUQUR4cXRMdk5fUzJoUUN6NklIdzgybFlKZmlGdllfb0V1UElwVTVkMzl1b21k?oc=5",
       "s": "대한경제",
       "d": "2026-07-26T00:33:23+00:00"
-    },
-    {
-      "t": "뚝 떨어진 원화 실질가치…17년 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QaWZzQTRpRjNiM0R3akxsWUhvZlpJUzlYMnpwUUhhLXQxQUVaYTUtc2ptLThLTkJoWHZEd2JsUkI4anlOQUhZbWt2VGNndjA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-26T00:27:00+00:00"
-    },
-    {
-      "t": "\"AI 시대, 쿠데타 이긴 경험 자산…韓 반도체 선도자로\" 李 대통령, 국정 비전 밝혀",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rSVpZZUhwUkJJV0ZOSjI2ekdNaS1iYmp3enVpWUhFY0gyY1RSVlUtMnFETldxcEFNOVhjY2ppd0RfVnltUHhxVzNVT2Z2RWpsYk5HTmpZMkpHV21zNzNsN0Rn?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-07-26T00:22:00+00:00"
-    },
-    {
-      "t": "박홍근 \"반도체 호황, 과거 사이클과 달라…장기·구조적 변화\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kS2xCV3pFZDZXN0poWHNSWVJGS29KTDBWeEluTWh4c1huLWpJbFU2UzViSk1hX1B0S3k2N09SbVVxTTk1WGNQSUgxa0dnWjh3bElTa2pRUVRvNjRRUEVhb0U2dE12dGhjcVRTR1J6YUI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-26T00:20:52+00:00"
-    },
-    {
-      "t": "국장 급락하자 미장으로…서학개미 순매수 4배 늘었다 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFlUOTNZLWw5ZXJ4TmxmSVNQVUc2UmRVbmFkb0g2Qy1sNkxLaFVYNTQwZEJDWVlqVkFYS3ZwZXhIN0NPNHNDeG1qenVTUEtPR0ZTZnR5RWRpOXl2U2hXVm5sRmt3OERfVFdsdXNocl9ydGlNUkxST1VxX1dyeTlLUGdzaUo3a2gx0gGcAUFVX3lxTE9SWE9sRlBKRWRfTkhsMG1HY2pGdU41dkM1MVlFYkJtN1JzNVI5YzVmOWIxbmtTUWVRb2JqUnJhazg0VmFRMm5PZlU1QnBGdDBqcXlvbGttd0d5YWtjWFR2SFRiRlhHbFJ3dHRfS2NDNmVlYkRlNHJZX1Q0MDcyb0NEekJ5X0pQdy0td2tXSi1YVV9DYlFiR3FhUU5JUw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-26T00:19:00+00:00"
-    },
-    {
-      "t": "금리 고점에 커진 채권 매력…우량 크레딧물로 자금 몰린다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81dVBfdlF6R1FMQXUzbmhGU0RPekR1UlFlUWxRc0djNGhyZUNoSnRXalctQ0lDa0dXTDFPNVd2SWRERDF4aU9DWkhzWjBkaElKMnU3dDhrdkFkTEZvWllVWVNNbmJBNDdNQlB0YkwzSznSAXRBVV95cUxNUXZiQjA5eHZCN0N2MzRiWm9pY3hwMlVzWEtuRkRHNHNGOHU5dE5KTDVXM2RrSjBxLXlGdjkwb1hGckFKUmp0d29FWlpZclBGOHBfeXJvSTRZR0cxbzR4dGdYZzlWZndwZVU4dEtISWZDRk9vZw?oc=5",
-      "s": "산경투데이",
-      "d": "2026-07-26T00:17:29+00:00"
-    },
-    {
-      "t": "기준금리 인상에 증권사 CMA·발행어음 금리 인상",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UkxVUFAtc2J0Q2ZPUWRibUhyQzdhT0VKY3Z5Wm9BYk1KaVJRenJ5eWRwVndyS1ktZnJFa1ljTDJMdC1EUERybFZNdlctenp4RTM1a3loaUZkUFZtcXo5c1duT3dRRkVf?oc=5",
-      "s": "2news.co.kr",
-      "d": "2026-07-26T00:15:00+00:00"
     }
   ],
   "asof": {},
