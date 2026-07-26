@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-26T18:00:15+00:00",
-  "quotesAt": "2026-07-26T18:00:15+00:00",
-  "newsAt": "2026-07-26T18:00:15+00:00",
+  "fetchedAt": "2026-07-26T18:15:15+00:00",
+  "quotesAt": "2026-07-26T18:15:15+00:00",
+  "newsAt": "2026-07-26T18:15:15+00:00",
   "quotes": {
     "kospi": 6690.62,
     "spx": 7411.98,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "야르데니, 워시 연준 의장의 인플레이션 타깃은 무엇인가?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-26T17:57:00+00:00"
+    },
     {
       "t": "환율 떨어졌지만 안심 못한다?… “ADR 환전 일시적 효과”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kWkpYQk44RjgtSDliT0hlcEF2UThJMVQ2azcxenlhRUZ2aC1wd2owNHczb2doVTNfUXRUNk1tdFFqTlNhQWc0M25YUlh4eUk?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tWmdvU2JRcjVGWXRPZGwyX1l5cHV1OE1CVFRjRUl6Sk9mRzVfT21FMlFmV2VDblcySzZ4Zlh4bXVYbGxGM2dxcWR6LUltYm8?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-26T15:32:07+00:00"
-    },
-    {
-      "t": "코스피 급락에… 서학 개미, 다시 美 증시로",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWU4yeS1aMzRvWVp1b2hfVHE4TUdveHl5YUhCbThoNzlnb1hPV0VsU1p4cDZlTzV2d2VYcUpjWHFMaDVyTktvbGJ0Y3daZXFnb2lpbFlFRDhLTjFsS1ByQUkwam5aVHhUVzRUM0tOTm10dGM3XzI1amsyMWtsdVNubTBpTlNaNWNxUTVJ?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-26T15:32:00+00:00"
     }
   ],
   "asof": {},
