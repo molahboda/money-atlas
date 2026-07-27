@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T03:00:15+00:00",
-  "quotesAt": "2026-07-27T03:00:15+00:00",
-  "newsAt": "2026-07-27T03:00:15+00:00",
+  "fetchedAt": "2026-07-27T03:15:15+00:00",
+  "quotesAt": "2026-07-27T03:15:15+00:00",
+  "newsAt": "2026-07-27T03:15:15+00:00",
   "quotes": {
-    "kospi": 6650.54,
+    "kospi": 6615.18,
     "spx": 7411.98,
     "nikkei": 64764.01,
     "vix": 18.58,
-    "krw": 1464.36,
-    "gold": 4097.4,
-    "wti": 85.54,
-    "dxy": 101.17
+    "krw": 1466.09,
+    "gold": 4094,
+    "wti": 85.43,
+    "dxy": 101.2
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.29,
+    "kospi": -6.79,
     "nikkei": 0.24,
-    "krw": -0.66,
-    "dxy": -0.29,
-    "gold": 0.73,
-    "wti": -4.22,
+    "krw": -0.54,
+    "dxy": -0.27,
+    "gold": 0.65,
+    "wti": -4.34,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "반도체 생산-수출 비중 10년새 2배로 증가...고용 ‘찔끔’ 늘고 수도권 집중 심화 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkxvc2dEU1ZYZWtrR1Qxc1ZBdnhzaWdXcmc0UzhrWmZpQV8yVkw1QW1nUzVpYlZBNjBSRUw4bGVkbzJIWnI3TXFmQXFlRkt3d19fLW5aazhSTVRlWDVtN1h4RWRZc0lrZUxnek9DM2xMUE9ZalJZX253aEdPd3N5SlBqV0lyUdIBmgFBVV95cUxPWFd0ZldjQUtnZzJydHg4Rmsxd09JVVMySHFFU29EN19tcFhLM0lWcV96b3dKRXE1OXNuV2hTVlhtSXdCSTJzTHYwcHlOajRqNE4zLW1NcWhWT2IybzVkTGFaU3BkMlhUOVJxem9ZQUtZWi00MzNHYUluQmJUT3NidUhhRmc4U2RyRDBQQl9jRmhmLWowUl92NDZ3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T03:02:57+00:00"
+    },
+    {
+      "t": "반도체 수도권 생산 3년새 80.7%→82.3%…한은 '제조업 지도' 개정판",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdERrb25VZWlqcFMyNGhrNUJEQ3VqSjN2OUg0YkQ5QnJCVHdfamE5cFhuQTNZM3pEQnllUlFQaU1UTTdLZjY0X0tyVE1wWGVZUW5sNnVOS3cyUWV5THBpNHV1NzhLakV5OWl6RmN3c2Q?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-27T03:01:04+00:00"
+    },
+    {
+      "t": "韓 반도체 공급망 지도 변동폭 커졌다⋯'반도체 동맹' 대만, 수출 2위국 등극",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjei16ZjlIYV9OVU00Qi1oaWNvWXRsaFlPeTRoeXlMLWxzejM5WU9uSTd2ZVg1OFFibDJOWWZndUlybXJMUG1VMklHZ0pVU2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T03:00:14+00:00"
+    },
+    {
+      "t": "AI가 바꾼 韓반도체 지도…중국 의존 낮추고 대만 수출 늘렸다 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeTBaUGhydUpBSWk3akx0VWxlMHg0TTJoaU1wbHY1VjFCZHYycGlRUVdHdk9rUTZVN21xc08yejh6M05zQVRZXzZVN1VOV21DbWQxT0dtb0JHdjJ0TFZXLW01N2hZZ2VCMzBF0gFwQVVfeXFMTXpzN1hDTjhvMnhOM0pIdjF4WmdTZG16VkFETTgzWDBxWi15RE1wMThkcTBGcXVVU2Q3OFFFQVRVS19hdFVaeUdZRXAyNE1qWlRhRVFBNjM1MWpRODdOWG9BWmJBVUEwVmZxNzR6N0hFaQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-27T03:00:00+00:00"
+    },
     {
       "t": "亞 증시 혼조세 속 중국 창신 메모리 주가 470% 폭등[Asia오전] - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12eUs0ZmhjM1hTU2JRRDNPeEVtZWxNYnMtc0NFaVk5dDFUMUdHclNsQ1hRZlJTNkxiRDMybENnQVVoRVJZVVlEMXlrN2wxLTJocGFJbHZFVVJyYmdDVk8xLWpheGY4cURH0gFuQVVfeXFMTkR1TGhwMXVjdTh3OUZlV0UzcDN2aFRoRXNaeVJzSUNqZUpocG5QV291eVhfbGR3aFdROHBQRkZTckRxQllkMWpBUUJEaE5WdThwRFpaVGk0ZmZ5a1BadWZtdjVWbF9qelFsVGpmWWc?oc=5",
       "s": "머니투데이",
       "d": "2026-07-27T02:56:06+00:00"
+    },
+    {
+      "t": "日 미쓰이부동산, 구마모토에 피지컬 AI 반도체 국제거점 구축",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TMTJPQzBGQ09fYllzZW1tcHFOeUdMNjhXOFZscXdHc2xCN3RBczFNTC1kVTVVUGRtQV9HbWhOVGVEc1NwdWZJaTJHcllreERLb0dyZjA1MFJXRTjSAWBBVV95cUxPX1lWUHlVSUJOem9TYmpBMWswUXd0aThReGZXbWV3d1JCMGJIZVUwQjB0U0JRZEhaaXRkZTlvSWNNR0gtemVoT2JUb2Z5YVRsWklsYzZGM0VVSmotRmx3UkI?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-27T02:52:18+00:00"
     },
     {
       "t": "유가 쇼크에 긴축 공포까지… 한·미 국채 금리 동반 급등",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-27T02:33:00+00:00"
     },
     {
-      "t": "은행들 예금금리 인상엔 '기준금리', 대출금리 인상엔 '가계부채 관리' 내세워",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWdDYxbWpqRExvR3dyVm5hS0xZcHdiV1RZeG52N2l3WUdCeVhZc2NicG54ckY0cG1WZEY3bVp6OTE1c0MwUUhTWFc4UVdJbG1od3VYQzB3eXFCZWdTLVVyc2hlSTlKQjlV?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-07-27T02:26:36+00:00"
-    },
-    {
-      "t": "日 증시, 중동 긴장 완화에 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdEJWbjFIZEtPeU5HaklPMlZHZEt6MnNOQ0RKWnhhUVIzbzZOQzJ1Z0YxNmtOQ080YTZsNjQ0SW1Edk1KV1I3QldCSFdDOWJsTlllSGxTdk82RG5FRzRCX1RFS1o2Ml9yNEcwYjJnVS0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T02:25:09+00:00"
-    },
-    {
-      "t": "외국인 1.6조 ‘팔자’에…코스피, 하락 전환해 6600선 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQllPRVBrdWhlUFJfQWNST1JfZU16eURYNXU0TW1lTmRFZEJhck54U19LcTU4dVBRLVd4dnJMbkNEeTZ3TmJPWm42dkxQWGo4Wkp6a0diTmZJRUE4Y01hVW5wdHZjZmI4SDVXWG5odVlpR1FFUmcyWEFqRlIzektwS3FLR0VSSy020gGcAUFVX3lxTE1hakpTdjVMZVVUTml3a2FmTmdkTm85RDcySUV2TzRiZG9GRjhpc1dDVENfYWtudzFGVWNRLWgwM0k5eTdUTjVGZ05tNFJ6REdqVXZzZHFtYnozU1ZSN2F4R0xMaUw1bTN2cGNKOE05TEF3MF9ZNWdDQk5nR0ltVFR3Wndsc3ZrdHRIb2RMa1R0blNBbE9NOGE3QTh5WA?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-27T02:23:00+00:00"
-    },
-    {
-      "t": "원-달러 환율, 54거래일 만에 1450원대에서 거래 시작",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQW50UTY0WEJPLWh2N1E4SUxOVDBTUkZBZzg1REZlcG41Q1FYOUEteWFkaElsdWxDLU9UNXd4aXNWVjdfbVUyMXVCMzFqRWFKaUN5NGI5ekIya1QxZTlnd0NhY2M0X1hmYWhMQV9tMWFHN3VDWWfSAWZBVV95cUxPVFBGeXBRSmVqTmlzblVaR0xVRHRQQ1pwODkzVzJnUlBLWnB2RlR0SHZISEJwSHVORjZ6WktKQlZMbmd4ZnZrRDRmd2I3aUdvU2twam0xekVELWpLTnp5NkFOREs4TEE?oc=5",
-      "s": "동아일보",
-      "d": "2026-07-27T02:19:00+00:00"
-    },
-    {
-      "t": "美기업 실적 15년래 가장 낙관에도 증시는 왜 '침묵'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LWmJMUGhOZDZUVnlKLTl1RXVzVFB5Z2tnSmIwRmdqWEJhbldiaEdHNDdLMjdWOGJmdG90OXZscjJ5aXFXWDE3Qld0RmxTcDNZX1ZWM2JUNEYtWVFHbjR4eURDRWpLQVZPSWMyb2RkNU0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T02:14:55+00:00"
-    },
-    {
-      "t": "[외환] 중동 소강상태에 유가 급락…6.40원↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pUWx4MHhVdnJqeFpuSHBKMFVBS0FzdXd6RTBiSHNxbjBQcVhpYldQenBLSG9ybmgtOThFTkgzVGVIWGxoM09JYmRrWUkwQ1ZjOWpSQ2ZLZUptS3hoNHA3bkJ6QjBWTjJaZkZYY2g4Vms?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T02:13:34+00:00"
+      "t": "코스피, 장중 하락전환해 6,600대…삼전·닉스도 약세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zVHo0WTBoV0FiM2RjVTE1SmdHVk1NNHBfR2VZTUt4MWZ3RDFHaUpsYkhqd0dMb0djbGVmVjFfTHFOS3V6NWk4REd4RDNGaGM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T02:32:50+00:00"
     }
   ],
   "asof": {},
