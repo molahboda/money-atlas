@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T10:30:15+00:00",
-  "quotesAt": "2026-07-27T10:30:15+00:00",
-  "newsAt": "2026-07-27T10:30:15+00:00",
+  "fetchedAt": "2026-07-27T10:45:15+00:00",
+  "quotesAt": "2026-07-27T10:45:15+00:00",
+  "newsAt": "2026-07-27T10:45:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
     "vix": 17.59,
-    "krw": 1468.7,
-    "gold": 4093.5,
-    "wti": 82.99,
+    "krw": 1468.51,
+    "gold": 4097.4,
+    "wti": 83.09,
     "dxy": 101.27
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.36,
-    "dxy": -0.2,
-    "gold": 0.56,
-    "wti": -7.08,
+    "krw": -0.38,
+    "dxy": -0.19,
+    "gold": 0.65,
+    "wti": -6.96,
     "vix": -5.33
   },
   "news": [
+    {
+      "t": "당분간 유가 변동성 불가피…정부 “수급 상황 점검”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KTFNWM1pfcHcwZHk0S0NvbWN2V2lFWXoweUtJLTBFQ010NHBiQ0FpWmhLMjJaRUxEN3E4XzZtZHVDa3daOFIzckM2Uko5ajFLaTlsa3ZXYjhfdHc?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-27T10:22:00+00:00"
+    },
+    {
+      "t": "‘상장 첫날 시총 712조 1위’ 중국 CXMT, 한국 반도체 업계도 덩달아 ‘긴장’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERG1WMS1fWEw2eXpwSldJZE9hTlY0Q2E4UFhqOUgxUUlUX2lrUzY0XzRSbWhtcElIejFkdExUd1N1cUsxSjc2VEpsRS0tUV9BSTYyanR4bDJiUdIBX0FVX3lxTFBjSDNaTVFFamJPQXJUa2U2X21KemhpRzdkX3FwMHlHZG5iZUZab2JGbU4tNDZkQll6RmlXOGI0a0JMQURPbVdRbVFpbmtfSi1NRzdpT2dQSURaZmxqWjBn?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-27T10:17:00+00:00"
+    },
     {
       "t": "AI가 바꾼 반도체 지형…국내 생산액 82% 수도권 몰렸다",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWt5dVYzNnJvdWlTT19ibTkzNy15dnJKT1RPU3o3eXotYWU3bjJ2ZmQ2VWVUdVVNRnIwZ3RzcjBGamJLTjZyM3dSUnFQd1lCc3FwU2djQ1JlbGhYTGZudm1OUTI0TndfTnFKanBmUFRFQk1TRzNFRjFuZlV4VHZNNENEd3dkbjBZbjRRN1Fn?oc=5",
@@ -55,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-07-27T09:43:02+00:00"
     },
     {
-      "t": "[증시 이야기] 상처는 눈을 가릴 뿐, 가치를 바꾸지 않는다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQnpkM3V3T0xVRFdRY2NoNUxRd1RLQXNDdGN1aGF6Z2VpV1o3T0IwczJSVHBJSFdUV01oN2ZBR3o5MUZRb3VjV1hOQ2tHY1E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T09:40:08+00:00"
-    },
-    {
       "t": "'中 반도체첨병' CXMT 첫날 466% 급등…시총 712조, 美인텔 넘어(종합2보)",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xdGs5RjFxX3NTTDA4QkgzbENrUVpIZUF4YkM0bmVEN1BLYUtkcU1TUFBVWmVBd1ZTNXdzZnMtUlJmU2hUcDd1LTVweVpVMFU?oc=5",
       "s": "v.daum.net",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NS1MTWdCZmRsWVR4WERPT29WOGhJaWZ5a2Rpb3NmTmFZX0s2YkR2U09MVnJROHdudmw2SFRsanU5T0VfT1dVTnhmRlFIX0hHM2ticjhR?oc=5",
       "s": "중앙일보",
       "d": "2026-07-27T09:14:36+00:00"
-    },
-    {
-      "t": "[마감] 코스피, 장중 하락 딛고 0.97% 상승 마감…6750선 회복 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WaVM2YkI1QWVmemU2T2NUTE91NGR0MVF6ZXROMXk2ZHFIWV9SWnc2b21zeG0zREJyWGR2RHR5V1FxclQxTXMzX3dtN1VYODAtQnJ3d1c5eXctenFGMlU4MkhMTGhpZ0lMZjNMMEUwTmw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T09:14:00+00:00"
     }
   ],
   "asof": {},
