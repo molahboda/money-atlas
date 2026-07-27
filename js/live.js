@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T03:45:15+00:00",
-  "quotesAt": "2026-07-27T03:45:15+00:00",
-  "newsAt": "2026-07-27T03:45:15+00:00",
+  "fetchedAt": "2026-07-27T04:00:15+00:00",
+  "quotesAt": "2026-07-27T04:00:15+00:00",
+  "newsAt": "2026-07-27T04:00:15+00:00",
   "quotes": {
-    "kospi": 6677.58,
+    "kospi": 6625.42,
     "spx": 7411.98,
-    "nikkei": 64800.98,
+    "nikkei": 64769.23,
     "vix": 18.58,
-    "krw": 1465.19,
-    "gold": 4092,
-    "wti": 85.14,
-    "dxy": 101.22
+    "krw": 1465.88,
+    "gold": 4091.4,
+    "wti": 85.29,
+    "dxy": 101.21
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -5.91,
-    "nikkei": 0.29,
-    "krw": -0.6,
-    "dxy": -0.24,
-    "gold": 0.6,
-    "wti": -4.67,
+    "kospi": -6.64,
+    "nikkei": 0.24,
+    "krw": -0.55,
+    "dxy": -0.26,
+    "gold": 0.51,
+    "wti": -4.5,
     "vix": -0.64
   },
   "news": [
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-07-27T03:16:00+00:00"
     },
     {
+      "t": "코스피, 외국인 1.5조 ‘팔자’에 하락 전환…6,600선 거래",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVY2hXRy1qRlNOMmxuMGpCWFFnYUNQRnVFQmMwOElWQ3VzdE9jbTI3Z2pCaVUzQjRlTE1pUFNNcHlRRkVHOC16SG5mZnYzeUw0bTNVdmJ5cjEwdEU?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-27T03:15:00+00:00"
+    },
+    {
       "t": "이 대통령 \"유가불안 해소까지 석유 최고가격제 지속\"",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UUU95QXFlSng3QVRLRXhFWGxpSVZTSVpyaGtQQTE2WW5keDRlM1RUWmFDeVNWOFkwVTBrdDAyWVFiblFpMmN1bnZfMUZLS0NGNXNLSlFMVXJfZVVNeVVQeGZWdXdod2lNZGdHYV9CTUVQQ2NzWXpnWA?oc=5",
       "s": "MBC 뉴스",
@@ -53,6 +59,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jci0zN2plel95UF90bE55T3RoS1AzcXpZREhHaU1QQ0wwYUFlVVIxS3pUenV0Y2w1Nk8taUlUSzRadDljS3lXQUZBOFZ1SzVuWXl3RDE4VkY0Um5nUVdGNVBzUzI5aEg0U1d6d0NBRkV2QQ?oc=5",
       "s": "한겨레",
       "d": "2026-07-27T03:09:00+00:00"
+    },
+    {
+      "t": "‘中 반도체 굴기’ 창신메모리 상장… 본토 시총 1위 등극 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkFFZmhaY2R4U1FyTUtUM3dQazl3bTlQZHBvTTJzdmVKUHFYbTlSVFBFUm1vSWc1dlZlRW04c05jNWpGRUxvUFVRaWlhWnV2UDlRZ2tKTm1ESzMzZ1ZkY1BNbGtzZkRSSmwwM2JGS0Y3OTFNLVBUdlM2Mm9RVXUyRGMyOWxmNzBkVE44SVZBSFhqLXQyZ3VudElVMWtBUdIBsgFBVV95cUxOLWl3VHd2WkhIRXZqbjV0a1AyakYtRjhsRUgzVUhSaVRPeXdLOFI0SEtvM3RmWVhSa21Rc0RTWGhaQWtHWHJGaE41TldVZHM0X1VGRUVMMDhPVmdxOFlLVEJ1emtYTjhRWVl2c1cyYnk1T3c3SEI1M0p5NWRpY3h3MXFfV0YwN2JtaURIdWNKRzFTOEhMZVlJNnhqcEJxZzY2S3VMVUt4d2V1RnlBbzlxUUp3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T03:04:54+00:00"
     },
     {
       "t": "반도체 수도권 생산 3년새 80.7%→82.3%…한은 '제조업 지도' 개정판",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQ2hvQjlzaWU4Qno4OGJCdl9mZEIzWkdzRDdvSEF5YTA3d29mOG1FY3ZmVy1yNUtHWkJBSTlab3ZFQ0xXOFU3Rm5KeU16aUtCQ0I5QzFyYzQ5ZTlLVVYzamZzTWFMUTQ0Y19NMmJ6N2s?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-27T03:00:28+00:00"
-    },
-    {
-      "t": "韓 반도체 공급망 지도 변동폭 커졌다⋯'반도체 동맹' 대만, 수출 2위국 등극",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjei16ZjlIYV9OVU00Qi1oaWNvWXRsaFlPeTRoeXlMLWxzejM5WU9uSTd2ZVg1OFFibDJOWWZndUlybXJMUG1VMklHZ0pVU2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T03:00:14+00:00"
-    },
-    {
-      "t": "AI가 바꾼 韓반도체 지도…중국 의존 낮추고 대만 수출 늘렸다 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeTBaUGhydUpBSWk3akx0VWxlMHg0TTJoaU1wbHY1VjFCZHYycGlRUVdHdk9rUTZVN21xc08yejh6M05zQVRZXzZVN1VOV21DbWQxT0dtb0JHdjJ0TFZXLW01N2hZZ2VCMzBF0gFwQVVfeXFMTXpzN1hDTjhvMnhOM0pIdjF4WmdTZG16VkFETTgzWDBxWi15RE1wMThkcTBGcXVVU2Q3OFFFQVRVS19hdFVaeUdZRXAyNE1qWlRhRVFBNjM1MWpRODdOWG9BWmJBVUEwVmZxNzR6N0hFaQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T03:00:00+00:00"
     }
   ],
   "asof": {},
