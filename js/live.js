@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T04:45:15+00:00",
-  "quotesAt": "2026-07-27T04:45:15+00:00",
-  "newsAt": "2026-07-27T04:45:15+00:00",
+  "fetchedAt": "2026-07-27T05:00:15+00:00",
+  "quotesAt": "2026-07-27T05:00:15+00:00",
+  "newsAt": "2026-07-27T05:00:15+00:00",
   "quotes": {
-    "kospi": 6663.83,
+    "kospi": 6656.82,
     "spx": 7411.98,
-    "nikkei": 64631.87,
+    "nikkei": 64813.56,
     "vix": 18.58,
-    "krw": 1466.71,
-    "gold": 4092.6,
-    "wti": 84.79,
+    "krw": 1467.06,
+    "gold": 4091.9,
+    "wti": 84.68,
     "dxy": 101.21
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.1,
-    "nikkei": 0.03,
-    "krw": -0.5,
+    "kospi": -6.2,
+    "nikkei": 0.31,
+    "krw": -0.47,
     "dxy": -0.25,
-    "gold": 0.54,
-    "wti": -5.06,
+    "gold": 0.52,
+    "wti": -5.18,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "반도체 무너진 한 달…마진 좋은 정유, 변동성 버틴 금융만 살았다",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzUktQajZfWVJnS0MxQnJvbmtXQmFqUTUxUENmMzhBaXZHdWtCVFFDbFFHYmQ0eVVaQjVwT2pJVFp5eXFCVHRjR25UY3hxZlZ2MjlTUnVZVVM3T3drdmtv?oc=5",
+      "s": "뉴스1",
+      "d": "2026-07-27T04:46:15+00:00"
+    },
+    {
+      "t": "“반도체·바이오 경쟁력 높인다” ‘꿈의 현미경’ 4세대 방사광가속기 착공",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92MnRvcjRyQWhCS3hiWUNld3ZnV2xZZEFzaUhOMk5HM2E4REk5THFhbWo2bzdFWkxiZVBkeGo5dTJhX05OcGVkV1Q5S2ltQWhjSmtjU29n?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-27T04:45:12+00:00"
+    },
     {
       "t": "반도체서 철강까지 번진 ‘N% 성과급’ 논란…정부 가이드라인 ‘속도전’ 필요 [기자24시]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVUNyd01takpmUk5JZXZkeWNrclZQT0RQVFBDTmUzNkdPaG1TbHBXWl95UmhLanU2dHlLU3FxNUF4RkE4VzRYRnktTnhWRU0?oc=5",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HcUhESjh6LXpOMFRUbVRGcERjUVQwT0RFTjRsaFd3dmZvNTNFeDBRUnk4NWk5VExKWTNVbGVDV1JtcVFYck14OWRxWGR6X0k4YVFlZ0VLOVlLYUFXc1JWYW42NHJBTzJHMUF3?oc=5",
       "s": "한겨레",
       "d": "2026-07-27T04:26:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 이번 주 4대 복합 변수 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakRhbDZITTdNSGQtQzVHd3hiZDV0cVNxQVhwTE1OSjlfVV95MlI4aWJ1MGRnU2Nmend0b0pXZHJ3dVIwbGJxRGYxNFIyN1cwRUI5RS1aY2t5SmxBblZKSHBkVXBhcGk0VkdULTZRWG9PS0szMTNkaEJrclJ0LXFiTmt2aE5ORm05?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-07-27T04:21:50+00:00"
     },
     {
       "t": "달러-루피아 환율 상승…인도네시아 중앙은행 사임 발표",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMTkREX0RoSFFxUVNZb0JUYlo1VFhmSFV0NFE4aDhtc2J6SkFBYUh6WW9SWHU5SlpPUnFPOGhteUNGeFlzakNMZ0M0TjVzZ1BzSTJRVWNHMTc3NDFVOFA4eg?oc=5",
       "s": "KB Think",
       "d": "2026-07-27T03:55:29+00:00"
-    },
-    {
-      "t": "\"韓 증시는 카지노\"…10거래일 내내 사이드카 터졌다 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZkZxQkxSM2gzSmY3eWh0UV83eWlQeDlDbTMwcC1WUzN2SlFUbUp3WFVMbmM3NXZtNWhyX0xHUGZCREl5S2gySHFlaUxqaUxqeUpmTkhQVWNyM1pDZUFSb01qSDFkeUNlaXRUdlcyQUQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T03:44:19+00:00"
-    },
-    {
-      "t": "'삼전닉스 던지고 中 갔나'…6배 폭등 쇼크에 코스피 비명 [분석+]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XTGF6REtGWXRNbXBPbUtheTRIb05RUmV0eDdFWFlFTFE2Sm9PV1JGUDFQMjdza1lCOGZBTDlBSWlvakpQaU41YW4zbmZWTHF6QVhMR1RzQ2V0Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T03:34:43+00:00"
-    },
-    {
-      "t": "李 \"유가 안정시까지 최고가격제…여론 왜곡, 단호히 대응\"(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5McUxjbUtzeXNjNzR5MFFGMFZsSDJWZldENXB5NmtnNVg2OXZDSVZRM3lSdGJkWVpwZnQtSW4yQXk3eDFGaFZELWlPZHJyTE0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T03:24:12+00:00"
     }
   ],
   "asof": {},
