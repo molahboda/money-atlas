@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T09:00:15+00:00",
-  "quotesAt": "2026-07-27T09:00:15+00:00",
-  "newsAt": "2026-07-27T09:00:15+00:00",
+  "fetchedAt": "2026-07-27T09:15:15+00:00",
+  "quotesAt": "2026-07-27T09:15:15+00:00",
+  "newsAt": "2026-07-27T09:15:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.61,
-    "krw": 1469.28,
-    "gold": 4094.8,
-    "wti": 83.39,
-    "dxy": 101.27
+    "vix": 17.59,
+    "krw": 1468.95,
+    "gold": 4098,
+    "wti": 83.18,
+    "dxy": 101.23
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.32,
-    "dxy": -0.19,
-    "gold": 0.59,
-    "wti": -6.63,
-    "vix": -5.22
+    "krw": -0.35,
+    "dxy": -0.24,
+    "gold": 0.67,
+    "wti": -6.86,
+    "vix": -5.33
   },
   "news": [
+    {
+      "t": "[르포] 강풍 맞고 웨이퍼에 회로 '쓱쓱'...어린이 반도체 연구원이 된 30분",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xRzQxd0VKMTV4OWVzV2NIYUg5bkcxYlNvTTNLVm05UGgxNUVWeGJZeU5vd1dlSmFfeFVrVkcwOUlDd05YVjd6aWkxUWJWaFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T09:03:09+00:00"
+    },
+    {
+      "t": "규제하면 더 빠진다?… 中증시 폭락이 남긴 레버리지 경고",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLQ19HUGJsYkszcDFNdmZsQWduX1hFT3ltdGJhNlBOT1FRNDZZRDJhbnpLREhSdWZBUFlqelZnVDhEaElBZExseFBZRGNVSGxxMjVmNmlwYlppQWFvOXptZ0FiNnVkS096TElFbGotNG5HUmRPQXotMjRsb2NBdw?oc=5",
+      "s": "서울신문",
+      "d": "2026-07-27T09:00:40+00:00"
+    },
     {
       "t": "중국 반도체 선두 창신, 상장 첫날 465% 급등‥단숨에 시가총액 1위",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYZzFfbDBEa2czdXhzcENLNkt0c2p1V05UMEx0WGk4Q0hqZ3ZmYzNldjRUdVZZMklZYUVZQ2VSZWJaazZKRmhvRVhPMDhMb1d1OEI5UFYwczVvNm5Hbkd0TDBMeXREbHdXVTU3RnYwMGxrdkEy0gF0QVVfeXFMTWlpLWtUY0tTWFpEU2ZKemJBWG55UTdSTmI2eDh4elM0RmVwaDRqeTdDVHNESDZRRnFnQmlMN3ZBbC1SU3RzOHdqQVE3ZmFTMjdFS1V4aHplbVV3UjlzR2dLaVVNV1VNYkdLSHVYLTVzQ3BweW8?oc=5",
@@ -43,12 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-07-27T08:44:11+00:00"
     },
     {
-      "t": "[과기원NOW] KAIST, 저온서 차세대 반도체용 텔루륨 박막 성장 기술 개발 外",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjdU5uT1VlYTNFYUtrYXhuNTQtS0FnSW4ySG1mOHBsMTlkVWt5UWhXeElEOENrd0tmREQtTFhkMUNIS1Y1a0hPVk1IaUthRDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T08:44:09+00:00"
-    },
-    {
       "t": "개인·기관 쌍끌이에 코스피 급락공포 탈출…6700대로 반등 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GY1JSX1dQMkgyLXpucTJUNGhKeklsTk82M19yWXlmbHJWRU91XzlpRU5YX3BJS3VmS1hEUmdPZXhSNVVycEV4Tm5vbVRPc1RwSktVajdIS3pGbm9Gb0NiVF84RWJvYlh40gFuQVVfeXFMTzNSc05Hdm9xSE5uZFpQNVVNaGd2dzc5VmdzQzlja0RhaS1YTU1adW9CR3JfUlN6aUJCZjlhTXVOR1hqQmVlUURtMFZGUWdIWWRpd1BoeXZVVWR5aWxvMlQ4RVgzMHhuTVNscWY0RFE?oc=5",
       "s": "머니투데이",
@@ -61,28 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-07-27T08:41:09+00:00"
     },
     {
-      "t": "\"트럼프 새 관세, '새 포장지' 불과…미국에 실패 안길 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4ZFJ6LVo3ZVdCTFRSOWhIOHU1ckVnMlh3SG1Ibjk1Z1hTUjgtaE95MUtyaFF6TzRDNWlmM3MwOHRNQ25mZm1YTzRLWWJ5c19jMG9uRXhMZGROZHlldk9pYXA0UmlkWU1rYUthQTkzZHI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T08:35:52+00:00"
+      "t": "[과기원NOW] KAIST, 저온서 차세대 반도체용 텔루륨 박막 성장 기술 개발 外",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GaThyWlVYQ3RReFZrMEkxYkNsVVdfOVd4T3Q0c2xyQWJTRWVlODZsYzNzRjV5bXNEUUpzNURha0xYVnBYeXpZS2VQNWNmLW9ka3lpaQ?oc=5",
+      "s": "동아사이언스",
+      "d": "2026-07-27T08:41:00+00:00"
     },
     {
-      "t": "SK하이닉스 ADR 덕에 한숨 돌린 환율…'달러 공급' 끝나면 어쩌나",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55SWNtWWNrRUdVRVlYMGFDSjFmanFVVWJ6dGxDYnBBTWR4UzlNOFI4Qk5yVHNYZXdaRi1vMTl4M3hUR3NncjNZNm9pV2xoZEdGUU9mR0lCNXVRdlc3?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-27T08:34:00+00:00"
+      "t": "AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jci0zN2plel95UF90bE55T3RoS1AzcXpZREhHaU1QQ0wwYUFlVVIxS3pUenV0Y2w1Nk8taUlUSzRadDljS3lXQUZBOFZ1SzVuWXl3RDE4VkY0Um5nUVdGNVBzUzI5aEg0U1d6d0NBRkV2QQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-27T08:41:00+00:00"
     },
     {
-      "t": "'살얼음' 코스피 반등 마감…개미 1.9조원 순매수로 6700선 지켜",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92YUxYeWFyWU5mX3lkQTRLbkhyWXB4eE9KVE5ZY0VieFpsSlZCRWlUMWFNV29xRlFmQVFYYUV2ZUNzZlJaWWxzenhPcjNza1QzR0JDeVBHZ044NHkzZmV6SnN3?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-07-27T08:34:00+00:00"
-    },
-    {
-      "t": "복날에 지갑 열자 '정부 30% 할인'으로 삼계탕 물가 방어하는 법",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR216aTVvdEFBU3ctc3hlYTBBNDVYeWVRZ202Wkozb241NG5RRjFKZVZCRzNVdWp2aGhhME1ESXRCYzFfekI4ZnlxNkhRU1hGbnNhd0J4cU95NGdHWUZqVHJ5MVJEY3VWMzVFX3B6M2ozQk8wSXpEVGhrUHc1N0ZndEllTFhVNmM?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-07-27T08:28:25+00:00"
+      "t": "100달러 넘나드는 국제유가에 하반기 물가 관리 비상등",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OG45OGNzeEszRFl2Ukx3cnIwQ0FYbTY4ck9CY0VPZng5S2JsbmE3blk2ekdycTJSYjNoTl9yMW9iTkY2WWlyZEVjZWxZZ1c1QV9tR1FKbFpqTFVhaktVZk9NcDVMaC0yVDczcnVwWW95Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-27T08:40:00+00:00"
     }
   ],
   "asof": {},
