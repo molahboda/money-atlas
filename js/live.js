@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T01:30:15+00:00",
-  "quotesAt": "2026-07-27T01:30:15+00:00",
-  "newsAt": "2026-07-27T01:30:15+00:00",
+  "fetchedAt": "2026-07-27T01:45:15+00:00",
+  "quotesAt": "2026-07-27T01:45:15+00:00",
+  "newsAt": "2026-07-27T01:45:15+00:00",
   "quotes": {
-    "kospi": 6705.1,
+    "kospi": 6587.92,
     "spx": 7411.98,
-    "nikkei": 64155.6,
+    "nikkei": 64281.5,
     "vix": 18.58,
-    "krw": 1464.58,
-    "gold": 4103.8,
-    "wti": 85.29,
-    "dxy": 101.18
+    "krw": 1465.81,
+    "gold": 4102,
+    "wti": 85.1,
+    "dxy": 101.19
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -5.52,
-    "nikkei": -0.71,
-    "krw": -0.64,
-    "dxy": -0.28,
-    "gold": 0.89,
-    "wti": -4.5,
+    "kospi": -7.17,
+    "nikkei": -0.51,
+    "krw": -0.56,
+    "dxy": -0.27,
+    "gold": 0.85,
+    "wti": -4.71,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "미국 반도체가 올라도 급락 뭘 믿고 투자해야 할까",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aVhHTG1CMlVxUjZsSWFZU3ZIUElPdC1YZnJzdHQwNmhBNk0wTElZX011UUJmUXJDYktMT1FpaHVGcG9uOHY2OTJoNWV3dHFud1hZcy13TU1QZ016Qnl2RWltQXQ3LTJXS1doUFFYLTXSAXRBVV95cUxOU0FJaFFkZmpuZFcwcEIwMUtKQ3J4Y2VMdnZuMDNLUFl0dXdjck5helJ6OFdKM2h1Rkh4MWZrX0I5ZHRlZUhMLUU2M2dtaTMwMFZ0OGhKbW5xMV9EdmVYN1k3X0FVVkFjX09qTDRUNlFoc1pkMw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-27T01:28:24+00:00"
+    },
     {
       "t": "[속보] 코스피 6600 반납…장중 하락 전환 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVDdYZlVrRF9XWUxoWnJSWkItaHZiV3piWDlWblBOMGNoSmpPOHluN0tMWU5EMlZUVk9KVEhYQlFCbk84NmVnUG5RT1RXbjhwVWFTZ2dST0ZSbmhNeGtxb2Nsb3dUVXdI0gFuQVVfeXFMT2FHNGZCd1U0RC1hLVFoaGtjYVdhRkNKN3VkRjQtYzR2S19EbTNNLUR5VFpQSUFQeVVXaGt4TnM0T0pINTVqRTNmeG0wcnIzVzhzd0JOOW41bkI4UnN0WHRIbXlQWHc2UWZuSlZLcnc?oc=5",
@@ -31,16 +37,22 @@ window.LIVE_DATA = {
       "d": "2026-07-27T01:25:26+00:00"
     },
     {
+      "t": "원·달러 환율 1600원 ‘공포’ 걷혔지만…추세적 강세는 ‘글쎄’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoWEFkQ0FGMFFxM1YybXoyVnJVdTBXZmVwWjhjdmpBeWV0cWlxLVNhMUtVRHp0ZklQZDl4cW8yY0tWWGRaNTBUbzRQMWZ6WGU3Rzc5TlZaN1ZtdGR5cy1KV3FsUmtvSmFjZWFXMVJyaw?oc=5",
+      "s": "조세일보",
+      "d": "2026-07-27T01:23:47+00:00"
+    },
+    {
+      "t": "李, 브라질서도 '경제' 강조…\"유가 안정시까지 최고가격제\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Gd2hhMmtFVWo0ZG9uVlJNNnFrZVhoUy1zXzh3b3RNT0VSck5WRnZseWFITE5KeldROEUwaHZMd21YajZyQ29iWTJLb3Fxemc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T01:18:00+00:00"
+    },
+    {
       "t": "트럼프, 이란전 두고 ’갈팡질팡’…美, ’강제노동 관세’ 띄우기",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtMlA5bXBBODlNQ3dCRGpXSnBNRmNZQVh1eG9iX3BLRDNLcFdVZDhVSmY5alJOdTl4T1ZJTVV6dFZETXVXSHVwbHBac1htTkpYbGVtVXdrOGpmLVVLXzR6TmFZN3JyazA?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-07-27T01:16:00+00:00"
-    },
-    {
-      "t": "미·이란 공격 중단에 국제유가 5%↓",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VOG1sUmtLR0FVRlRDUnhPUDBYVjVYM0FMa1U3S0JyQWlocHFqck95VzFXUFloMzhtdFRyUFc0RXE2OXJBUUw5bUQxcDdpeUVzSUhzZGJMNnV5UV96ZHBnX05qOXR2UWlFaFMwbVZlUV8tU241?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-07-27T01:13:58+00:00"
     },
     {
       "t": "코스피, AI 협력 기대에 반등…코스닥 3%대 강세",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56RnQ1d3hwYUdzd0lZaDNhUWJTaUNkTHZZNDFiX2NnNGpMbHNCeVdxQUxpcm9rd0VFa1ZCLU1Tc3Z4bmNRQlI0Wm5ZVUFVQUFYb1ROdnJSUklBNUpocTY2SHBLNEh6WkRRZzJQZjRfaFM?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-27T01:00:03+00:00"
-    },
-    {
-      "t": "‘美강제노동 관세 12.5%’ 베트남 “정부 노력 반영못해…긴밀 협의 지속”",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PS2F1Qm10LUc1UEFPWndXRTRUaHZuTlJka1BfM3JEakJQX2kyX2tKcFpfS2NmeXVMMEJpb2Nqbm11c3UydjBlbmRlaVJmUDdHS2dJYVN0T3d4Rk9LNVpJRE0yUXBPMHlOWk5tZw?oc=5",
-      "s": "인사이드비나",
-      "d": "2026-07-27T01:00:00+00:00"
-    },
-    {
-      "t": "코스피 강보합·코스닥 강세…반도체주 혼조세[개장시황]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdXVYemxTcVNfdE9ZTjdaTDV4VHlnV2oxT0piX2FGajVNLWdCTWJTQjl3X2VnQi0tNG1qaG4ya2RjNjVjdXBQcmk2cGxyYThVaFdzUGtqenAxcEU?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-07-27T00:59:59+00:00"
     }
   ],
   "asof": {},
