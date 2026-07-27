@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T11:30:15+00:00",
-  "quotesAt": "2026-07-27T11:30:15+00:00",
-  "newsAt": "2026-07-27T11:30:15+00:00",
+  "fetchedAt": "2026-07-27T11:45:15+00:00",
+  "quotesAt": "2026-07-27T11:45:15+00:00",
+  "newsAt": "2026-07-27T11:45:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.66,
-    "krw": 1468.68,
-    "gold": 4102.2,
-    "wti": 83.41,
+    "vix": 17.8,
+    "krw": 1469.78,
+    "gold": 4100.1,
+    "wti": 83.11,
     "dxy": 101.32
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.36,
+    "krw": -0.29,
     "dxy": -0.15,
-    "gold": 0.77,
-    "wti": -6.61,
-    "vix": -4.95
+    "gold": 0.72,
+    "wti": -6.94,
+    "vix": -4.2
   },
   "news": [
+    {
+      "t": "미 ‘강제노동 관세’는 무엇인가?...12.5% 부과 한국 영향은?",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0xsMjZ4WEFOYWFUa2VWVWdGMnNvbEQzMF9INE5iQlNrNjR5aEp2LVg1NUtEWm5Ja19fYjN6cFVFRzRLd1RmaGE0UkV5em5wUGpneFdnazI0N1hJRmJEdEdXck44bFZ6NW96akVYTk1jeEZOclBJSEdaSmRURGV2TUp3eWfSAYcBQVVfeXFMTWFyUVRiNldhVDQzT0dFYWFobzdIWmR1SGkzQnJQaEl1OWl0NGNaLWhZalVoZGtqUF96YnBzbC1wZG5aMnJDcXJxUkFKemNFRjJaWFVhVnZxRVBIRkFiRU5GWlRhdDdha1ZzNFJkVDRDR2ZfXzV3ekdWWklPdkpNempIY3hQa1Rj?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-07-27T11:31:19+00:00"
+    },
     {
       "t": "中, 美 '강제노동' 추가 관세에 \"단호히 반대\" 반발",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NXBTVWJfMEw3N0hyc0hmQ0NOY041VHFnbVNmRFZ0S185N0dJUkJHZ1Z3RF84VDF1bXNrLWdCRFBGY3hJZ1RIbk9IdzRjbTh3Z0lFZTBTZ0xqVFNzOUoySg?oc=5",
@@ -65,12 +71,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hS1JUbmtLdlBUY0k3SmxZU0MtWjVZRWZhWFU5dU45bWt5cUpfdW1RU0hWV2lZLXVHbjhTX0RJMmdPR19DRmJ3WHFOWVFKUlkzaThwZlkyMlhET1HSAWBBVV95cUxOVW80OHdlU19NYVpMdkFSdEhxMjl2Z2M2by1URmdlY09FOEtzZjlHdWJ3elE0U1MzU245TFBXUEZCRXN1bllvNDFNRmVPTW0yZ0ZqMkI2d1g1cy1rUjgxejE?oc=5",
       "s": "연합뉴스",
       "d": "2026-07-27T10:26:26+00:00"
-    },
-    {
-      "t": "미국 301조 관세 시행…대구·경북 대미 수출 영향은 ‘제한적’",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hZk5JWThzdVF1VFd6N25xaEhQRGt6SEZockRGUG5nNXZiYXcwZXRudjlpOUlVRU9LQTV5a0xoZWdVclhndW4zeWllZUhJRjg1SFpOcWR6aldVU2F5cWRmbkpWcUtwcVJyVXd0bHVmWQ?oc=5",
-      "s": "kyongbuk.co.kr",
-      "d": "2026-07-27T10:23:48+00:00"
     },
     {
       "t": "[집중진단] 레버리지 열기 꺾였나?…과열 진정에 코스피 변동성 잦아들까",
