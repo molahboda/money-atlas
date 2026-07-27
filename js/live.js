@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T02:45:15+00:00",
-  "quotesAt": "2026-07-27T02:45:15+00:00",
-  "newsAt": "2026-07-27T02:45:15+00:00",
+  "fetchedAt": "2026-07-27T03:00:15+00:00",
+  "quotesAt": "2026-07-27T03:00:15+00:00",
+  "newsAt": "2026-07-27T03:00:15+00:00",
   "quotes": {
-    "kospi": 6623.53,
+    "kospi": 6650.54,
     "spx": 7411.98,
     "nikkei": 64764.01,
     "vix": 18.58,
-    "krw": 1465.68,
-    "gold": 4101.9,
-    "wti": 85.59,
-    "dxy": 101.16
+    "krw": 1464.36,
+    "gold": 4097.4,
+    "wti": 85.54,
+    "dxy": 101.17
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.67,
+    "kospi": -6.29,
     "nikkei": 0.24,
-    "krw": -0.57,
-    "dxy": -0.31,
-    "gold": 0.84,
-    "wti": -4.17,
+    "krw": -0.66,
+    "dxy": -0.29,
+    "gold": 0.73,
+    "wti": -4.22,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "亞 증시 혼조세 속 중국 창신 메모리 주가 470% 폭등[Asia오전] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12eUs0ZmhjM1hTU2JRRDNPeEVtZWxNYnMtc0NFaVk5dDFUMUdHclNsQ1hRZlJTNkxiRDMybENnQVVoRVJZVVlEMXlrN2wxLTJocGFJbHZFVVJyYmdDVk8xLWpheGY4cURH0gFuQVVfeXFMTkR1TGhwMXVjdTh3OUZlV0UzcDN2aFRoRXNaeVJzSUNqZUpocG5QV291eVhfbGR3aFdROHBQRkZTckRxQllkMWpBUUJEaE5WdThwRFpaVGk0ZmZ5a1BadWZtdjVWbF9qelFsVGpmWWc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-27T02:56:06+00:00"
+    },
     {
       "t": "유가 쇼크에 긴축 공포까지… 한·미 국채 금리 동반 급등",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aYUxvc3NYemZ1MDAxY1ZXdW4zd0c2eEtlTkFkcFBpR1NGaUxwdVJoWmp3WjNNOXhUVmZJa0lSQ2Fac1lSV1AtMFU0SnlGR0Q3?oc=5",
       "s": "문화일보",
       "d": "2026-07-27T02:43:35+00:00"
+    },
+    {
+      "t": "미래에셋생명 “반도체·전력 투자범위 확대”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81b25FOEJPMk52Q0NDVWpTWVk3MkxlQlVVYlJnUjNMbkI4QzVVRFlkVnFSTzlWRFc4UXU3d25nbkprZWZCVFYyN0RuU3RmNHRl?oc=5",
+      "s": "문화일보",
+      "d": "2026-07-27T02:43:30+00:00"
+    },
+    {
+      "t": "1조1천억 '새빛가속기' 첫 삽…반도체·신약 연구 새 전기(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWai1uYl9TNnZ1VFFaZzNDc0JwMThCSm9wVG9Sd2FKMmRrOWJLZl95bG9PM1E5b1BoVE9BSDlRQWVYQkpBczBHT2JiZGhmUHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T02:33:00+00:00"
     },
     {
       "t": "은행들 예금금리 인상엔 '기준금리', 대출금리 인상엔 '가계부채 관리' 내세워",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-27T02:14:55+00:00"
     },
     {
-      "t": "[외환] 저가 결제에 상승 전환…1,460원대 중반",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0Vktpa2M5RDFZODhrcHk2YUl3T0w0MjRmR3o5VnVUQ01vWmU0VVVTLTIwOTRTeThKX2ZSVG84VDhEa1piNWxRajJZNHVRVjBMNWRSSHFPcGRFdjlmNHZqVl9udGh1VW5mVzk0LTE1NkprUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-27T02:13:43+00:00"
-    },
-    {
       "t": "[외환] 중동 소강상태에 유가 급락…6.40원↓",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pUWx4MHhVdnJqeFpuSHBKMFVBS0FzdXd6RTBiSHNxbjBQcVhpYldQenBLSG9ybmgtOThFTkgzVGVIWGxoM09JYmRrWUkwQ1ZjOWpSQ2ZLZUptS3hoNHA3bkJ6QjBWTjJaZkZYY2g4Vms?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-27T02:13:34+00:00"
-    },
-    {
-      "t": "상반기 美증시 상장한 中기업 2곳뿐…50곳 이상 '승인 대기'",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBaHY4MXJGRENHVkN4SkVTRGJqd1gtcWlGRUN3cnkteFE4RGVZQW1jZW92aHA1alVrVERuSW9RbFMyaTREZjhzVjhaa0E0US1fV3B2MDk0dC1OWHfSAWBBVV95cUxPNmxRWUo4VU5oUUJUeFBZZTJZcGd1YjNaUmFOZFpxTV9KbDlqdHZ5V2t1dE4weHhkVmdqeVRndEhxM0gxMVVhTUFBS2Z5S0Z6eDNGY2dqUzhCY3UzTjc3UXI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-27T02:12:15+00:00"
-    },
-    {
-      "t": "JP모건 \"중동 긴장에도 유가 더 안 오르는 이유는 수요 붕괴탓\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HeHM2VGRySHY3dF9aNThWbUF2MHEwb0RRSEF6NkVqTUx1TllXLXBZWnBiejlZYkNnclJXRHVDWmtNOVpWaENFMTNoTENrQUl0QThOazlKYk5lV1RSaG5xWTdfOWZwZ2VhRHhrQmljRTA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T02:11:21+00:00"
     }
   ],
   "asof": {},
