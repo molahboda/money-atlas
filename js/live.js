@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T06:00:15+00:00",
-  "quotesAt": "2026-07-27T06:00:15+00:00",
-  "newsAt": "2026-07-27T06:00:15+00:00",
+  "fetchedAt": "2026-07-27T06:15:15+00:00",
+  "quotesAt": "2026-07-27T06:15:15+00:00",
+  "newsAt": "2026-07-27T06:15:15+00:00",
   "quotes": {
-    "kospi": 6755.3,
+    "kospi": 6728.28,
     "spx": 7411.98,
-    "nikkei": 64824.26,
+    "nikkei": 64813.43,
     "vix": 18.58,
-    "krw": 1466.18,
-    "gold": 4088.2,
-    "wti": 84.49,
-    "dxy": 101.2
+    "krw": 1466.3,
+    "gold": 4094.9,
+    "wti": 84.2,
+    "dxy": 101.17
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -4.81,
-    "nikkei": 0.33,
+    "kospi": -5.19,
+    "nikkei": 0.31,
     "krw": -0.53,
-    "dxy": -0.26,
-    "gold": 0.43,
-    "wti": -5.4,
+    "dxy": -0.3,
+    "gold": 0.59,
+    "wti": -5.72,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "삼성 파운드리, HBM5에 '2나노 GAA' 전격 도입…AI 반도체 패권 쥔다",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xY0dCQzFXUE11UGUwbGVKWGZCZE85N1VnQmgyRUVFZEtNOHUwYVRSN3ExX3FNUms0bGVGSDVTSHM5N2N1eXFiNTZOS3ZSdFNMeFBPN2w5Nno1d3Z2elRSQQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-27T06:02:38+00:00"
+    },
+    {
+      "t": "한국, 반도체 넘어 글로벌 AI 생산기지로",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xM2ZGbFRLdTJEdHFmWG5rZmlfSFpYQXVMVXVwSFlHZ0k4TDFPak5RTllJbURBUUl4bm1OQlpTMmM5Si1nc2VlWmJ4MEF5RVNzSnFOY0dxRlo4dGtUaXYyTzAzVXpFMjRB?oc=5",
+      "s": "환경일보",
+      "d": "2026-07-27T05:57:34+00:00"
+    },
+    {
+      "t": "“단순 납품은 끝났다”⋯ K-반도체·빅테크 ‘1000조 AI 동맹’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiRzExNWtkTGgyNXlfRXVnSXFianhwTnVuM3UxeHhhejV4RGp1NlVMU095NkZzSmE5clI4M1IzbXZUTzlqNDJOU1JXSmswUEZ1UmlwUDVVcmthdw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-07-27T05:56:00+00:00"
+    },
     {
       "t": "AI가 바꾼 반도체 지도…韓 반도체 수출도 중국서 대만으로 이동",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ad2NYd2sxcUVneVBSTy0zR3FXdkpGVjFWeG9JXy1LN2ZNbl91cjVhS3AwVjM2UzR6TU1McXR0YWdzbTBDWUE0STN5OXhIZW8?oc=5",
@@ -35,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95aTVheGZXTDNfZDZZcnNDVVFwWU9TWS03Mm16dFkydkxMd3BIWkNmTmhMREtLLXA4Q25YQ2dTbFAtak1vakNTUENGX0otYjRYZW1oVEU0aXlKUQ?oc=5",
       "s": "한국경제",
       "d": "2026-07-27T05:50:49+00:00"
+    },
+    {
+      "t": "美 관세 12.5%→10% 낮아졌지만…지역 수출기업 불확실성 여전",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6ZjEybUh4S0VSVzMwallNTDdQTWcwT3pnQ1MtVFQ5Z2xPNU5CYlVKNmYyaVhaSElQOUY3WElJazhldW5DaE9mYy0wWk1vQ1RDenphWFJZUFlwcm9fVHFMYWJn?oc=5",
+      "s": "매일신문",
+      "d": "2026-07-27T05:45:38+00:00"
     },
     {
       "t": "김추호 나래나노텍 대표 “AI 반도체 패키징·태양광 장비로 고속 성장”",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kalV1X3AtbTZZc1BNNzlGMjYza1J1MUptWHRyNDJpd21aekU1aFJoelFmakVmNlF1aHBUMC1SZ2NTcEQ4QUwtMEhzcks1VVB1R3pENW1IbFhoVWRBYXc?oc=5",
       "s": "YTN",
       "d": "2026-07-27T05:30:00+00:00"
-    },
-    {
-      "t": "고동진 의원, “반도체, AI 등 원전PPA 정부 지원”",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyU0RZZU5qcU5wR1gtcWhaYXc1OTB6alVyX1prNUdCOUpGUXg1aHoyRHBBMVpGRjF4S0YzQXJTSTI2aGpfVnNBSXZ6NU9OaVl4UHlJMHB2U3pVZjZTVU96aGdKQzgyTWNuNWhiU9IBcEFVX3lxTE1mNkdOcGVnNDcxLXJzYXVxVTRFTl9XTjZUbXRqQkYybUlNaEhidFdnNDcybXVBa1FoU0tiTGNBRm9CNmVSQjRGUDJyVVNXdVpmbGdUcHNPcTJjUXNxdzlZM013R05NUG5hYk1CRnZwM2o?oc=5",
-      "s": "전기신문",
-      "d": "2026-07-27T05:28:08+00:00"
-    },
-    {
-      "t": "규제 강화에 사라진 대환대출...\"치솟는 금리·연체율 대안이 없다\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KbDF6MTR2RHlRMDduY0tsLXV4dHZVVW4wRUN6My1OeWxRT0x0NkNkaUdyRUZmVGxoM2tIX0poQ1ZQWjlZSmRHdHc0VzNjSnJudzNEMkZvdHBfWVZf?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-27T05:26:00+00:00"
-    },
-    {
-      "t": "[오후장 체크포인트] 금리인상 가리키는 매크로 환경…한국증시는 어디로?\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYWtGR3JQQk1nU3NtLWE0UlphSHdPeTRIY2l4dWVtdHlQUkM5YUpUSEk4TGhuWGlZNlJMcENZVFV5R3J1VUNkdlk4ZnNia0U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T05:25:39+00:00"
-    },
-    {
-      "t": "엔저·고유가 이중고에 빠진 日… 추가 금리 인상 앞당기나 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVlaOUR3N0wzWTlQMnNDVXdacUFSTjRZQnRYdGNWdVVNbmdCdzJCTlpTUG40WDhfcWV1aGpDcHpwQkhLQjRESmQzNndWTUdzZS1EOEZlTG1WWmhhanVkcjB5NTB5aUtQNTRCYWMtbGZhY2tvbHp1Q1NaaWtlTVJXWEhTZXlJM2dHSUtUbnNhUFZMY1BNM3R0U1h3SlFvd9IBsgFBVV95cUxOOHhKY2pBdzRldlg5NWQ4cVhiQTVRQ1ZEZlRVWEZYS0NraVVjVFlNc2w0NWpqME1aT0JMbzlHUGFqa2lJU0Zua2FnZnFOaTB2Wkd3U2w5aDdwTm1Fd2lFQnVXbE1xazJyUlI2dDlLS0x4NDJOcGtLcEY0SFBqVnF6dElqcldVVjBtWWFVeDJYM1NHWVBjTnk3c1ROYmdCMnZvRHZRZzAxWnBSN202QmtuUV9B?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-27T05:25:00+00:00"
     }
   ],
   "asof": {},
