@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T08:15:15+00:00",
-  "quotesAt": "2026-07-27T08:15:15+00:00",
-  "newsAt": "2026-07-27T08:15:15+00:00",
+  "fetchedAt": "2026-07-27T08:30:15+00:00",
+  "quotesAt": "2026-07-27T08:30:15+00:00",
+  "newsAt": "2026-07-27T08:30:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.84,
-    "krw": 1471.81,
-    "gold": 4089,
-    "wti": 84.77,
-    "dxy": 101.27
+    "vix": 17.72,
+    "krw": 1470.89,
+    "gold": 4092.6,
+    "wti": 84.03,
+    "dxy": 101.28
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.15,
-    "dxy": -0.2,
-    "gold": 0.45,
-    "wti": -5.08,
-    "vix": -3.98
+    "krw": -0.21,
+    "dxy": -0.19,
+    "gold": 0.54,
+    "wti": -5.91,
+    "vix": -4.63
   },
   "news": [
+    {
+      "t": "AI·반도체 성장에도…청년 비껴간 일자리",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ZUhiTTNKMmtmb2hCOVg3c2RscDNfUUstb1RBR1lWN0FZMWFBSGlTYjVlWVowMU05WUFNbFU1aFNkZzBqX2o1SXVRNUE2LXJtSGYwNGFCUjdfT0xrUDk4eHh3RUJlMnc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-27T08:13:00+00:00"
+    },
+    {
+      "t": "폭락장에 갈린 투자 성적표…개인·외국인은 반도체로 울고, 기관·연기금은 금융·에너지로 웃었다",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ETVd0eVdXal9RVkFlZjJ1UGJrOUhKbXN6Z3h6bF80QkU0NHMwWUl5cU40WkRibVJRRkFtZm5Nb0xTeEFUNExHblVPLVRoQnV1Z2syM2xUQ3ZVTzR5TFVqRmp6WXg0Mklp?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-07-27T08:10:11+00:00"
+    },
+    {
+      "t": "'中반도체첨병' CXMT 첫날 466% 급등…시총 712조원, 美인텔 넘어(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QT0I4QXJUME9JdkNaUjVCYm1UVWRxZTY3c2VXTVdMWDNhY01JdGFBQmpCeW91OVJXRzNNUWplQ0tkQ0lXRk5OVU5ab1Z6VGVvRGc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T08:06:20+00:00"
+    },
+    {
+      "t": "티로보틱스, '이중 평행링크 진공로봇암' 기술로 반도체·유리기판 시장 공략",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUWxVUWxnLXFJREZzMzdzdER6VE5UTHJQUzg4VUw4ZE14aUQzc3d2VWNKMWRXVnlHTW9nUkpvYTRSQXZRNmtuVW9oZ2RBS0J0elBsRXB0UGh2Z3FWMktNak5pSThNaGFVdlQzYw?oc=5",
+      "s": "로봇신문",
+      "d": "2026-07-27T08:04:02+00:00"
+    },
     {
       "t": "‘슈퍼 엘니뇨’에 세계 물가 비상…신흥국 성장·아프리카 경제 흔든다",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZHNzSENrZ0ZmN25zSXZhMzh4NHF6RGdDMlVPZWQtclAzczNId2dZR3F1M2JMNnMzTk1RUFM5dUNXY0l1dVdPRXZfdmtNQVZCdmc?oc=5",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-27T07:51:24+00:00"
     },
     {
-      "t": "기업은행 상반기 당기순이익 4.4%↓…환율 급등 여파",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43WXppckxWRTQ1VG5Ram1oNVdTYWlDclc2LUdCY1dzNUNMSS1pbUxINnRlU2o1Q3RHNXh2clY1UkJuZFVzN2ktNFpjcHgzY2d5SVZJcklnWE9OVU9CM0VrY08waGE?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-07-27T07:46:01+00:00"
-    },
-    {
-      "t": "국고채 금리 일제히 하락…3년물 연 3.865%",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfM2FZMFZvbjhYcGFmOE5xSjlmb1QyNV9uY1J4SjJUaFdaYTMzV2FfNTBDWHFqUnZoalJTU3FLODdreHFROXhMWHlBQnE3M200MWc?oc=5",
+      "t": "[집중취재] K-반도체, 1,400조 글로벌 'AI 동맹'…\"피크아웃 우려 완화 기대\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55Uk1aM1dvSjUtejJYamowdE1SNjl4UUFmQ2toeTVxYjl1cUZMODE5UHc0Y2xjOS1PNjZ3V0RPTC0xT2tEZEFKeGZnU1hUTnBXVVE?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-07-27T07:45:33+00:00"
+      "d": "2026-07-27T07:46:39+00:00"
     },
     {
-      "t": "김민석 \"李정부 임기내 호남 반도체 가시적 성과 만들겠다\" [KBC 특별대담]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11U1VyUThlRVZIUUFweXhibnBHcFZ1REtfVk9sTmJpd3ZoUTFEU2c1dC1sNW14TXdNRE14RGwxLTFWQ0ZLd2VPVFU4VTFjeVVQaVVETmZyVDVndFFpSWlkUg?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-07-27T07:45:07+00:00"
-    },
-    {
-      "t": "코스피 1%·코스닥 2% 상승...'한미 AI 협력주' 강세",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NNk50d1B1VDM0T1FrN0ZVUmd3V1Qza3VKY1F4Wkw0VVI0WVpjZDFpRUUxVW9lZTlOZVZHeDBva1BFUU1Uc2ZEdFo0aVVzSkl1cGlqV3JaZWxoWDNxdEE?oc=5",
-      "s": "YTN",
-      "d": "2026-07-27T07:39:00+00:00"
-    },
-    {
-      "t": "코스피, 등락 끝 강보합…코스닥 2.22%↑ [MTN 마감시황]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50RDRBSUhoXzBCaU9xRDVkWnc5Sk5xZXBma3d6ZmpXVkNrWFZoSWVqazBOY0ZkZjBIZXoyeENaVVZUSm1lZFJ1clQtZlJ0ZDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T07:38:00+00:00"
-    },
-    {
-      "t": "원·달러 환율 1.9원 오른 1468.5원…외인 주식 매도세 영향(상보)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaaTBoWHJ6X2ZzYV93bmp2ZTQ1SzM5dlE3LWo0RkdEZUdlVldSa0ZXQkl6ZTFGVElJaTBNbXl0N2dGUHNlWWFmMXgwYTZodGNLekRaOFZGcTZYOFRZcHlRaA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-27T07:37:15+00:00"
+      "t": "중국 최대 D램 업체 CXMT 상하이 증시 상장…한국 반도체 업계 영향은?",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SQVFYOE5iZ0RnclFPRWpWV0RMZXg2T0xYeUp4TWprUFg3SDhzdU9KbXFEWHZQUHdteC1OcXN6TDlGdmM4dnVCS01aZ2xDY1JIamc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T07:46:38+00:00"
     }
   ],
   "asof": {},
