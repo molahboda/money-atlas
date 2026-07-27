@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T04:30:15+00:00",
-  "quotesAt": "2026-07-27T04:30:15+00:00",
-  "newsAt": "2026-07-27T04:30:15+00:00",
+  "fetchedAt": "2026-07-27T04:45:15+00:00",
+  "quotesAt": "2026-07-27T04:45:15+00:00",
+  "newsAt": "2026-07-27T04:45:15+00:00",
   "quotes": {
-    "kospi": 6624.51,
+    "kospi": 6663.83,
     "spx": 7411.98,
-    "nikkei": 64551.9,
+    "nikkei": 64631.87,
     "vix": 18.58,
     "krw": 1466.71,
-    "gold": 4090,
-    "wti": 84.99,
-    "dxy": 101.2
+    "gold": 4092.6,
+    "wti": 84.79,
+    "dxy": 101.21
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.66,
-    "nikkei": -0.09,
+    "kospi": -6.1,
+    "nikkei": 0.03,
     "krw": -0.5,
-    "dxy": -0.27,
-    "gold": 0.47,
-    "wti": -4.84,
+    "dxy": -0.25,
+    "gold": 0.54,
+    "wti": -5.06,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "반도체서 철강까지 번진 ‘N% 성과급’ 논란…정부 가이드라인 ‘속도전’ 필요 [기자24시]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVUNyd01takpmUk5JZXZkeWNrclZQT0RQVFBDTmUzNkdPaG1TbHBXWl95UmhLanU2dHlLU3FxNUF4RkE4VzRYRnktTnhWRU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T04:30:05+00:00"
+    },
+    {
+      "t": "이 대통령 “유가 불안 해소될 때까지 석유 최고가격제 지속”",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HcUhESjh6LXpOMFRUbVRGcERjUVQwT0RFTjRsaFd3dmZvNTNFeDBRUnk4NWk5VExKWTNVbGVDV1JtcVFYck14OWRxWGR6X0k4YVFlZ0VLOVlLYUFXc1JWYW42NHJBTzJHMUF3?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-27T04:26:00+00:00"
+    },
     {
       "t": "달러-루피아 환율 상승…인도네시아 중앙은행 사임 발표",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zOC1DLURJN0JsS1ZIN2JWMzNmUkZiRVNzNUs3X2drVVJMbUF3aVpkREFBQll2bUd0NnQtb0t1dHF0Ty0zeS1WNnFQWm0tbzU3YUxGNmdQaUtvYXliR29rLWMyYWxPNE5HbnlaX3d4d18?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-27T03:44:19+00:00"
     },
     {
+      "t": "'삼전닉스 던지고 中 갔나'…6배 폭등 쇼크에 코스피 비명 [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XTGF6REtGWXRNbXBPbUtheTRIb05RUmV0eDdFWFlFTFE2Sm9PV1JGUDFQMjdza1lCOGZBTDlBSWlvakpQaU41YW4zbmZWTHF6QVhMR1RzQ2V0Zw?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-27T03:34:43+00:00"
+    },
+    {
       "t": "李 \"유가 안정시까지 최고가격제…여론 왜곡, 단호히 대응\"(종합)",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5McUxjbUtzeXNjNzR5MFFGMFZsSDJWZldENXB5NmtnNVg2OXZDSVZRM3lSdGJkWVpwZnQtSW4yQXk3eDFGaFZELWlPZHJyTE0?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-27T03:24:12+00:00"
-    },
-    {
-      "t": "트럼프, 관세 공세 재점화…캐나다·브라질·EU까지 전방위 압박 By The Guru",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ZGcwWmZUbEJCSUNWdDlYQWZRdW9YN3VoVVY1TzRjM3h0eDVJNUZlZ2ZLSTRoczJ1ZjdyNVZQQUxEUGNiUEJsUVFhZHQxSDFkV1dKY3V3YlNOVHp0WFZyeDlyRXNwTkNwVVZoZVZSbnA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T03:23:00+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EZ1VTemRVUkRSeG1TZVYwN3hTZEJPSVVhSUdFdExRREFZV0oyNTJpR3IxT0c5b0hralFQa1g5blpFb2FDejFBWFpxdmVHZUV4MnRFalVaekpYUDNNREVaWGVteDNFaXk5SlptbFRMeXNMc1h4S3EwXw?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-27T03:22:48+00:00"
-    },
-    {
-      "t": "코스피, ’AI 서밋’에도 하락…6,700선 하회",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZE5ydUc4ZURZcDA4b2x2TmkyZnZhN25fYy1pZ0ZmbkhnN3lnSlVlSGp6U1RqbWgwc3psQ3lTbjJNZE55aUVBekJHRVdjY05HQ28zaUpPc1FiS0dPamVGUTBsNzBmYmM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-27T03:16:00+00:00"
     }
   ],
   "asof": {},
