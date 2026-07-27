@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T03:30:15+00:00",
-  "quotesAt": "2026-07-27T03:30:15+00:00",
-  "newsAt": "2026-07-27T03:30:15+00:00",
+  "fetchedAt": "2026-07-27T03:45:15+00:00",
+  "quotesAt": "2026-07-27T03:45:15+00:00",
+  "newsAt": "2026-07-27T03:45:15+00:00",
   "quotes": {
-    "kospi": 6610.43,
+    "kospi": 6677.58,
     "spx": 7411.98,
-    "nikkei": 64764.01,
+    "nikkei": 64800.98,
     "vix": 18.58,
-    "krw": 1465.3,
-    "gold": 4094.1,
-    "wti": 85.27,
-    "dxy": 101.2
+    "krw": 1465.19,
+    "gold": 4092,
+    "wti": 85.14,
+    "dxy": 101.22
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.85,
-    "nikkei": 0.24,
-    "krw": -0.59,
-    "dxy": -0.26,
-    "gold": 0.65,
-    "wti": -4.52,
+    "kospi": -5.91,
+    "nikkei": 0.29,
+    "krw": -0.6,
+    "dxy": -0.24,
+    "gold": 0.6,
+    "wti": -4.67,
     "vix": -0.64
   },
   "news": [
@@ -29,6 +29,24 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5McUxjbUtzeXNjNzR5MFFGMFZsSDJWZldENXB5NmtnNVg2OXZDSVZRM3lSdGJkWVpwZnQtSW4yQXk3eDFGaFZELWlPZHJyTE0?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-27T03:24:12+00:00"
+    },
+    {
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EZ1VTemRVUkRSeG1TZVYwN3hTZEJPSVVhSUdFdExRREFZV0oyNTJpR3IxT0c5b0hralFQa1g5blpFb2FDejFBWFpxdmVHZUV4MnRFalVaekpYUDNNREVaWGVteDNFaXk5SlptbFRMeXNMc1h4S3EwXw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-27T03:22:48+00:00"
+    },
+    {
+      "t": "코스피, ’AI 서밋’에도 하락…6,700선 하회",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IZE5ydUc4ZURZcDA4b2x2TmkyZnZhN25fYy1pZ0ZmbkhnN3lnSlVlSGp6U1RqbWgwc3psQ3lTbjJNZE55aUVBekJHRVdjY05HQ28zaUpPc1FiS0dPamVGUTBsNzBmYmM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-27T03:16:00+00:00"
+    },
+    {
+      "t": "이 대통령 \"유가불안 해소까지 석유 최고가격제 지속\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UUU95QXFlSng3QVRLRXhFWGxpSVZTSVpyaGtQQTE2WW5keDRlM1RUWmFDeVNWOFkwVTBrdDAyWVFiblFpMmN1bnZfMUZLS0NGNXNLSlFMVXJfZVVNeVVQeGZWdXdod2lNZGdHYV9CTUVQQ2NzWXpnWA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-27T03:10:00+00:00"
     },
     {
       "t": "AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeTBaUGhydUpBSWk3akx0VWxlMHg0TTJoaU1wbHY1VjFCZHYycGlRUVdHdk9rUTZVN21xc08yejh6M05zQVRZXzZVN1VOV21DbWQxT0dtb0JHdjJ0TFZXLW01N2hZZ2VCMzBF0gFwQVVfeXFMTXpzN1hDTjhvMnhOM0pIdjF4WmdTZG16VkFETTgzWDBxWi15RE1wMThkcTBGcXVVU2Q3OFFFQVRVS19hdFVaeUdZRXAyNE1qWlRhRVFBNjM1MWpRODdOWG9BWmJBVUEwVmZxNzR6N0hFaQ?oc=5",
       "s": "머니투데이",
       "d": "2026-07-27T03:00:00+00:00"
-    },
-    {
-      "t": "\"美증시에 키옥시아 레버리지 ETF 9개 대기중\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93TWRXOTFVcmIybEpFWVo0X29nMm5yVDVndmFPbkVRalZqNk13a0h3cGo0MUk4ZXl0aU45WlQ3UVZkYkdFY21JRWpERlBUUmRkUUxTZkJ2Y2pHeVlqeVBhU9IBYEFVX3lxTE93TWRXOTFVcmIybEpFWVo0X29nMm5yVDVndmFPbkVRalZqNk13a0h3cGo0MUk4ZXl0aU45WlQ3UVZkYkdFY21JRWpERlBUUmRkUUxTZkJ2Y2pHeVlqeVBhUw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-27T02:57:12+00:00"
-    },
-    {
-      "t": "亞 증시 혼조세 속 중국 창신 메모리 주가 470% 폭등[Asia오전] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12eUs0ZmhjM1hTU2JRRDNPeEVtZWxNYnMtc0NFaVk5dDFUMUdHclNsQ1hRZlJTNkxiRDMybENnQVVoRVJZVVlEMXlrN2wxLTJocGFJbHZFVVJyYmdDVk8xLWpheGY4cURH0gFuQVVfeXFMTkR1TGhwMXVjdTh3OUZlV0UzcDN2aFRoRXNaeVJzSUNqZUpocG5QV291eVhfbGR3aFdROHBQRkZTckRxQllkMWpBUUJEaE5WdThwRFpaVGk0ZmZ5a1BadWZtdjVWbF9qelFsVGpmWWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T02:56:06+00:00"
-    },
-    {
-      "t": "코스피 하락·코스닥지수 상승...네이버는 '급등'",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MMFpFd2JBbVlLUGFEWjFhWl8tMVplb3BKRmN5RDRseEt6bkMxYklJa1NNMnZGYjR6TUdjSVBrTk5FSWxpendyRm9SOGl5YVdydzZ2UjRlVnhjWjQ4bkE?oc=5",
-      "s": "YTN",
-      "d": "2026-07-27T02:53:00+00:00"
     }
   ],
   "asof": {},
