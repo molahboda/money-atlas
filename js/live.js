@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T00:45:15+00:00",
-  "quotesAt": "2026-07-27T00:45:15+00:00",
-  "newsAt": "2026-07-27T00:45:15+00:00",
+  "fetchedAt": "2026-07-27T01:00:15+00:00",
+  "quotesAt": "2026-07-27T01:00:15+00:00",
+  "newsAt": "2026-07-27T01:00:15+00:00",
   "quotes": {
-    "kospi": 6750.28,
+    "kospi": 6729.97,
     "spx": 7411.98,
-    "nikkei": 64686.19,
+    "nikkei": 64578.1,
     "vix": 18.58,
-    "krw": 1464.48,
-    "gold": 4103.2,
-    "wti": 84.59,
-    "dxy": 101.14
+    "krw": 1464.58,
+    "gold": 4109.1,
+    "wti": 84.76,
+    "dxy": 101.2
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -4.88,
-    "nikkei": 0.12,
-    "krw": -0.65,
-    "dxy": -0.32,
-    "gold": 0.88,
-    "wti": -5.28,
+    "kospi": -5.17,
+    "nikkei": -0.05,
+    "krw": -0.64,
+    "dxy": -0.26,
+    "gold": 1.02,
+    "wti": -5.09,
     "vix": -0.64
   },
   "news": [
     {
-      "t": "유가 100달러 재돌파…금값은 금리 공포에 눌렸다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcDQxNEFYdkFNZ1ZCeXpya3IyNTBYbUNWZE9hc1BVUVVCV1g5dDVTOGgtNjJyRFJRekZHeHRBaERQTUVWWWVKMkEtcGFXblZkWlBkbjRB?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-07-27T00:40:13+00:00"
+      "t": "미국-이란 교전 중단에 유가 급락…월가 선물 상승, 실적·연준 주목",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzAzSXpTbkMtTjFiSGhLUGhadjVKR2VPWXlhcFFnQkx5bjBla3VHcWdtUkpnNWIwdEFSUTlkU3FiWWNUaVk2eURtcC1tLWNVSDlpZ2lxczBLYW5XcG1QMXFONXJhWTZuS3ZqWXZPaEd0LTFRVk45VDBUM2x4SC12MnRVRG5rZUNrcnU3bjExdXRPcmtaMVNGLTM4SnlMbFpuc0JWeXZKeEdMYm9TQVdkbFZOVmlTeEJwekt5dW1pWXFrV1BrVjFWY242X0hnNGJM?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-27T00:50:00+00:00"
     },
     {
-      "t": "[이 시각 시황] 코스피 상승폭 축소…로봇·AI株 강세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ybk50al9semU0MWoyZWRlVWJzaW5aZENGYkwxUXNXTm15TThEYVQ3VGNaMW1HX2xDZjJaQ2FaanhOZDhUTXhycVNTWW9HYWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T00:37:18+00:00"
+      "t": "특징주, 코아시아-시스템반도체 테마 상승세에 7.14% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRaFN2dms4SFZkSi05czZrYWpISnlVUXd4SFNKaVJCaktCSWlBdS1iR21uaWx6SFRoQ2hfMTVIWFpzcUc0TmRXdW95TEJUdTNUWlE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:48:29+00:00"
     },
     {
-      "t": "코스피 6700 공방…2Q실적 기대·금리 경계 '교차' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYbVc5N2ZZS1N5SjJQeEZFVFRrX1NrZjdHWV94d0c2RXhIR25tRFJaekc0S0dubXZNZVdOSnBVNnpfcVNlMlllRGhlNGI0bEFOdUtTQThDREFuTnRSVWZveDdNemx2cEpM0gFuQVVfeXFMTnpUY0dyeHEwSXFwMndlUmxfRGdfVDFGRDduSGkwSG1OVXJucEliYkVNaHZvTUI5ekZnMDR5WnhPQjFDZlJBU3R1T0FZRmdKcklCeHM5cHBsMGRXUEp0dUE5NmUwTmUwa0Z6b0VJUHc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T00:36:13+00:00"
+      "t": "특징주, 한양이엔지-반도체 장비 테마 상승세에 1.12% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GdEFGazdEMzRZMTZZekRTclZMY3R3ZFhuWm5XUENqOTUyRk95VE9Zb0gycjRHMU1fTHNoNE5CR3JwNVZxcmVqSndWdXJFTWVUckE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:48:25+00:00"
     },
     {
-      "t": "심상치 않은 日·대만 반도체 동맹, ‘피지컬AI’로 확장 [도쿄나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTFRaVzZ0S1RMWVczOC1EVjVaRUhxeHFvTWxDN0dLMUEwbFRyTW5pNDhKMnQ3STRfMDkzQWthc1dlLWNUaW5nVG5hcmMyZXNaN0tPcWllay1vZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T00:34:01+00:00"
+      "t": "특징주, 에스티아이-반도체 장비 테마 상승세에 5.62% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOU80UE5qQmZ0VE9WeGJQMC00MFRibm1EOGZoSE5YT3lFUUhNMlRvbndjUG54ODV6ekpLUm1CNEJXRWVNdkRtNDByWm54X3pPMHc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:48:10+00:00"
     },
     {
-      "t": "코스피 6800선 회복 시도…엔비디아발 훈풍 네이버 11% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZejVucWRXdmgxMVZVb0hLb2RIMkk5ZFdZa3hMUlphcUg2bUNQUERaenFxcWs3QkhtR28yYUVFWVVPMmYzX1AyUjdqLXlKeHpjWng5amRoZm1rZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T00:34:01+00:00"
+      "t": "특징주, 주성엔지니어링-반도체 장비 테마 상승세에 7.8% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBalRsekZURzNaaUdjY1Z5V3lBcXlMS3RfcFVmSF9IdnVJTDNoaGliUU04SEk2c3ZCN0FSSXI5RFVackhkM0Q5TGo3WFMyaUE5a1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:47:58+00:00"
     },
     {
-      "t": "AI 실적 발표 `슈퍼 위크`…방향성 시험대 오른 코스피, 어디로 움직일까",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IVEVQOEpfckVObTM5WF9pdjZZVU5BWVpkdFZLODNhSzdlR2NHRnB5YnprazhYVnNBdHFzc2tRNEU1UWdac2ZJREh4VDkwR29WbG94c0lhaTNFangwckVoYkF3?oc=5",
-      "s": "매일신문",
-      "d": "2026-07-27T00:33:35+00:00"
+      "t": "특징주, 에프에스티-반도체 재료/부품 테마 상승세에 5.67% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6TXZxSDVuRHBaemgzRGo5a296N0hyWEVYWjBtRlVIZGJWLVdGbk1TZUdJM1E3cFAwcF9nUHRJUHVGYVNXSFR1cS1SVGdjZ201VWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:47:53+00:00"
     },
     {
-      "t": "네이버 12% 급등에도 코스피 혼조…삼성전자 3%대 강세 [개장시황]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wX1hvM3lwYXZSWWdGZS0xLS1sdmNkUWFxSFU1ZnZmMEY4NllpdkdWVDAxM1RDaXVaOFhXdUx0blZvaGpoaTlJaFBYaGdxYnYtaTh4ZS1KcmhYNUE?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-27T00:32:57+00:00"
+      "t": "특징주, 피에스케이홀딩스-반도체 장비 테마 상승세에 5.38% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSlNJTDkwcWx1WHdXakxKLUtBbnh1OUl3bmwyYUo4SFhIWG1xZkp4NkZ1YnJwaC1uV3UzM3JUX1JNZnBXdnVoS2Vtb0ZBSDg4NVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:47:45+00:00"
     },
     {
-      "t": "코스피 - 코스닥 상승 개장",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ORUtqZzEyRXZraEZZMFlCVkRoT3huclhOcGxOeWFVSWZycGhOMlBjSWUwZU11dm54Q0pTWjVxOEtUbElHQmdodnNENUlxZlRLTTdTbUFnSXg1R2V3?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-27T00:32:00+00:00"
+      "t": "특징주, 시노펙스-반도체 재료/부품 테마 상승세에 5.22% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00WkJhc2NHek5seDgyUHU1elBmMl9JdE8xRG16TGU4Ym5lbkhPRUVEMVdDMVAwYzRGOUNZMXNyUGVIazYyUTZOajFsRlNWTzJSWGc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T00:47:37+00:00"
     },
     {
-      "t": "코스피, 1.73% 오른 6800선 출발…장 초반 방향성 탐색",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUMzZTlEV1ZkY05IV1ZYempyZHIzel9EQ0tBdDFEVXJzaThMR1FtNC02LUJyVWRzQUFoc1FOU1Brc3pqbWhMenk3UXVWbUVhV3daWC11ZWVHMHRSMm1qa2NkOXZYNTNIUlduaHJQd0dnRmNYejNuaDlRaWVXQ3FPQ0JRQ2h0dHFl?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-07-27T00:30:36+00:00"
+      "t": "이 대통령 \"샌프란 AI 선언, 국가적 출사표…유가 불안 해소까지 최고가격제 유지\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKNlN5ajZlblhfQzd2Wng4dFRMeU5HMVVmTkdpb0xONmdUNFYwbFBPdi1VQ0NfdFJabzQ5UHZuRjltMi1MaDRIWlJiLVh3bnNJNVctU2ZLbTdmVm5wTDRkRVhMdlBfME0?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-27T00:43:00+00:00"
     },
     {
-      "t": "에이피알, 뷰티 디바이스 반도체 기술 내재화",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLaHFITjNZUjdxTU9GYU9WVUkzWDRDOUtQZEk4Q0JvSm9Wc1IxZlI4WnVSd1paT3l4OEpJWTlvc3FlQ3NfcUlQUFcxV090azJHaEs4ZVhuTVVoWGVJOUs3YjBickpmSzlKdGF5aVlWbUVKWm1BaW1zNFV3?oc=5",
-      "s": "약업신문",
-      "d": "2026-07-27T00:28:00+00:00"
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zaC1yWlpWaUFuV3Z4a2I2b203X2hzMk9ZMHA5N3o0QkNuWGltWkxubm1XVGpKSFR1WUY1eUk2ajljTFZ1UVRpbHRUZUNHby1FQUxQdnVRT3NkRFpYMDlGLWNHSDRhMnY1QU51N2VHRXI3ajlkbTk0?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-27T00:41:16+00:00"
     }
   ],
   "asof": {},
