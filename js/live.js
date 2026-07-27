@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T06:30:15+00:00",
-  "quotesAt": "2026-07-27T06:30:15+00:00",
-  "newsAt": "2026-07-27T06:30:15+00:00",
+  "fetchedAt": "2026-07-27T06:45:15+00:00",
+  "quotesAt": "2026-07-27T06:45:15+00:00",
+  "newsAt": "2026-07-27T06:45:15+00:00",
   "quotes": {
-    "kospi": 6748.45,
+    "kospi": 6767.62,
     "spx": 7411.98,
-    "nikkei": 64946.15,
+    "nikkei": 64931.19,
     "vix": 18.58,
-    "krw": 1467.98,
-    "gold": 4094.7,
-    "wti": 83.51,
-    "dxy": 101.19
+    "krw": 1469.48,
+    "gold": 4097.7,
+    "wti": 83.86,
+    "dxy": 101.17
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -4.91,
-    "nikkei": 0.52,
-    "krw": -0.41,
-    "dxy": -0.27,
-    "gold": 0.59,
-    "wti": -6.49,
+    "kospi": -4.64,
+    "nikkei": 0.5,
+    "krw": -0.31,
+    "dxy": -0.29,
+    "gold": 0.66,
+    "wti": -6.1,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "코스피, 0.97% 오른 6,755.75 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13STR3bnZnT2R6OTlTd1Bla2F0eUJ6RTZabmFsZEtURERnLTREVkNyTGpHWGRPbEtTNXllSFpNbnQ3TWh1d2hGbWJza2lncW9ZbUZxX2tuaGgzWS1OOHEwZGlZejlDV0o1ODBoX0U0bDHSAXRBVV95cUxQT3BZNjVZcVlTVEVScTlEUG1CWDFGa2JIQWxEaDlnMlNVdmZNeXVYb3F6dVR1UkF5bXl3TlR5ankxOF9BVng1OUdHOVgtT3I1VFhjNTRqdWI3M0loYXlZOXVOS21MbmFyZUFabnpDeGc1U2EwNA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-27T06:39:06+00:00"
+    },
+    {
+      "t": "골드만삭스, 일본 반도체 장비 최고 종목 선정",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51WXBtdzZNQnpaSzFxM1A0TmRWdDdZcW0zdTFWOTc5bUV5U2FJNzFIMXZ3aUZ1LTh6ZXJ3N0hveF85QmQyOVFhXy1jRUlvSmRfUFpfbk83NjdBb3pORUFFcVJtMDA2aVdGQTFNM1BBSFF2SVV1RG5n?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-27T06:38:00+00:00"
+    },
+    {
+      "t": "[단독]반도체·AI 전력공급 핵심인데…345kV 송전망 70% 아직 미착공 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiaWE4aE1ya1BBLVhjM1BqVHpBWkh1T0dKNXVWUUN6UHZXU20xU1l0aEhvUVJ5SWJBQUpHemJjdTRSTFVwYkJOYl84dUR5aER1WlpFbzlkQTlpZ21Qd3RzNnZtVWpSRFhUMHJv0gFwQVVfeXFMUGFlRWhCSnhlOW9WUHF6VXd0dXZHbk1ESVFYc3Z2ZURKenJkRU16cTZxOXZ4bGsxMDFlLU56am9RV1kyelhGWEF4emFOTlNDdHdzbHF3ak9LM29fRVZMZ1BrZUFQRXBFSDhlMW9aNjhrVw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-27T06:37:33+00:00"
+    },
+    {
+      "t": "“150℃에서 반도체를 쌓았다”... KAIST, AI 반도체 판 바꿀 ‘저온 적층’ 원천기술 세계 최초 구현",
+      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZTRyV1VqLWN1RUlaVUE0ZVQ1cUtHQXczWWF6WXh5SDdfSEdGZkw2NFg3YlQ1Q0Q5QXUwSzVrMXZmUWU1Uk9ZNA?oc=5",
+      "s": "특허뉴스",
+      "d": "2026-07-27T06:35:00+00:00"
+    },
+    {
+      "t": "과기정통부·AMD, 국산 AI반도체 키운다…공동 연구·인프라 구축",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qT0U3WnlQNUp4X1dXVFNzVlU1SG1IazNTT3RHbm1rVkFvS2N0Wl9ZVUpGOEVkRmJNc3NXTXc3TksxRjdVVUhJbHgzSGhKelpFRHNDa2pfNWFTS3dxcF8tMUsydW0?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-07-27T06:32:50+00:00"
+    },
+    {
+      "t": "반도체 실적보다 중요한 건 AI 투자 지속성… 고점론 가를 ‘돈줄’ 본다 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZU1WUmU5bzRreThFcG1ValFjeUVVb0prRV9YbnVBT1lVUllfWmJUS3JRVnhNRVVvckxGNlVqbThZOGttTmpmTVhGbXBtMHNLMGdURUVNUVFrQzdZajNXeHJlMmF2WHhpd2Fvb3VwTHV2bzlESm5YblZzQXZPckxPeGVBOUl0aGpI0gGcAUFVX3lxTFBaSW1QS0piTGFjNktzNUotdDlyUEducC12eFk3Zmtld0FtemN6TTUzeVZZekFRWG5BWkVmbmlRS0hacTJLSHNMUnhjTzYzUVFjNldVMWVFYUtVZWlFVEFIb3NBSWNRaG1DZ3g4bWFiOVFHV0ZoZWMxbEpfZERMYUlkSTJuemYxejBmb1lOX2E0RkNmc1ZRelp5cDZkZA?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T06:15:00+00:00"
+    },
     {
       "t": "AI는 숨 고르고, 정책은 전면으로…글로벌 증시 셈법 바뀌나 [글로벌 레이더]",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PdVZzRG16T2djUHdrOHR3bmQ0YmJ1bDhIRUJrazhnY0VrVTBkR1pRUFpTYl9rTjRwajVFNVdHbnVNTVNkbk85LU5DeWR6QnczUlBvbGw5eGdISXV1aE0zVUhjZw?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xY0dCQzFXUE11UGUwbGVKWGZCZE85N1VnQmgyRUVFZEtNOHUwYVRSN3ExX3FNUms0bGVGSDVTSHM5N2N1eXFiNTZOS3ZSdFNMeFBPN2w5Nno1d3Z2elRSQQ?oc=5",
       "s": "아시아경제",
       "d": "2026-07-27T06:02:38+00:00"
-    },
-    {
-      "t": "이 대통령 \"유가불안 해소까지 석유 최고가격제 지속\"",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WNDMyam1qWi0tSl8wVmNoOHktaDFqTXVnaGNPbm5pR3FfTk5zbjJUdFl2M0hYOUljVjh1MlBLb0tSU3dBVG5HOUZDNFQ0RnV4andUZ2pVMXlreEo1Rmo4ZjYwbVRWTHJVNkhpQVVxd2FwaVZ5eXZTcA?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-27T06:01:38+00:00"
-    },
-    {
-      "t": "매출 반영해 대출 한도 늘리고 금리 낮춰준다…‘소상공인 신용평가’ 8월말 시행",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pVzJWdk9LemgzMVJKZmJnV0d0dWw3U3c1YVlDSS1kSGc3N3VHMFg2S20tNjdUUlJJbzEwaDIwUVpOUmEyb1M1MEtIN1BWMzFHZjlTbS1pRnFXWHVjaDMtWW5sQ3hUZVk?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-27T05:57:00+00:00"
-    },
-    {
-      "t": "“단순 납품은 끝났다”⋯ K-반도체·빅테크 ‘1000조 AI 동맹’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiRzExNWtkTGgyNXlfRXVnSXFianhwTnVuM3UxeHhhejV4RGp1NlVMU095NkZzSmE5clI4M1IzbXZUTzlqNDJOU1JXSmswUEZ1UmlwUDVVcmthdw?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-07-27T05:56:00+00:00"
-    },
-    {
-      "t": "AI가 바꾼 반도체 지도…韓 반도체 수출도 중국서 대만으로 이동",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ad2NYd2sxcUVneVBSTy0zR3FXdkpGVjFWeG9JXy1LN2ZNbl91cjVhS3AwVjM2UzR6TU1McXR0YWdzbTBDWUE0STN5OXhIZW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T05:51:07+00:00"
-    },
-    {
-      "t": "\"H 붙으면 선방\"...뚝 떨어진 환율에 환헤지 웃었다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95aTVheGZXTDNfZDZZcnNDVVFwWU9TWS03Mm16dFkydkxMd3BIWkNmTmhMREtLLXA4Q25YQ2dTbFAtak1vakNTUENGX0otYjRYZW1oVEU0aXlKUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T05:50:49+00:00"
-    },
-    {
-      "t": "'오락가락' 코스피, 다시 상승전환…삼전·하이닉스 1~2%대↑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Gd0VMbmQtclpfQkRQWnpJeU9DZmVhVWJvc0tTZjIwbE9ZMlNPSHpOZWNuMnQzeWE2VWZvNFlsM2dGVjZOYS15WXZhdFdCWi1Gb2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-07-27T05:48:08+00:00"
     }
   ],
   "asof": {},
