@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T09:30:15+00:00",
-  "quotesAt": "2026-07-27T09:30:15+00:00",
-  "newsAt": "2026-07-27T09:30:15+00:00",
+  "fetchedAt": "2026-07-27T09:45:15+00:00",
+  "quotesAt": "2026-07-27T09:45:15+00:00",
+  "newsAt": "2026-07-27T09:45:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.65,
-    "krw": 1468.68,
-    "gold": 4095.3,
-    "wti": 83.24,
-    "dxy": 101.27
+    "vix": 17.66,
+    "krw": 1468.88,
+    "gold": 4093.9,
+    "wti": 82.8,
+    "dxy": 101.28
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.36,
+    "krw": -0.35,
     "dxy": -0.19,
-    "gold": 0.6,
-    "wti": -6.8,
-    "vix": -5.01
+    "gold": 0.57,
+    "wti": -7.29,
+    "vix": -4.95
   },
   "news": [
     {
@@ -35,6 +35,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WaVM2YkI1QWVmemU2T2NUTE91NGR0MVF6ZXROMXk2ZHFIWV9SWnc2b21zeG0zREJyWGR2RHR5V1FxclQxTXMzX3dtN1VYODAtQnJ3d1c5eXctenFGMlU4MkhMTGhpZ0lMZjNMMEUwTmw?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-27T09:14:00+00:00"
+    },
+    {
+      "t": "최고가격제·유류세 인하·금리인상…어느 것 하나 쉽지 않다",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JNHhFbFpwVmFFNERTZkU5R182Zi03SDBuME5RQklIOW9PRmxfclhCV09jNW5qd3gzc1FILXhfLVdxSlJyRmljQXVpeElwbThCX1BmVVVKY0FYcEZyVm16NE1qVXo3MFE2V0FiWkZsQQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-07-27T09:12:47+00:00"
     },
     {
       "t": "전남광주 시민단체 \"호남 반도체, 환경·상생 대책 병행해야\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pUTFnUXFpY241Uy1MR0stMmlCeTNiSkt0NmRMZ3p3Q0F1ekFSdFl2NElRVm5ZNW16WHM2Y0kzcnRYN29mSEdVS19maXlCM1ZpSGZsbjhUZWoxd9IBX0FVX3lxTE1DV2lpZ0tMbmIzUmJ0alloU1I4RHEzbzdyRDFCM3pEczFvd0JBSHROSFBRVlo5YmZlTW9LNVRnbEQ0X0JOSDY1cFNwRE8yenVFenRWZzVvTVJOdmktUGtV?oc=5",
       "s": "경향신문",
       "d": "2026-07-27T08:48:00+00:00"
-    },
-    {
-      "t": "[도쿄증시-마감] 중동 긴장 완화에 상승…반도체주는 약세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EOTVqT2ttaWhpdU9hQ1ZVR2J5Qm42b3V2bnMtVEJUUWIyM0RhRmJuY2ZNbjN0dzVUQ0ZpZGVHYzdNcWZKb2NlMjdidXNza2R1VVdrQW1fSWR3N0JFdXliQXlLTHdlWXcxd2wwVjNLdDQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T08:44:11+00:00"
     }
   ],
   "asof": {},
