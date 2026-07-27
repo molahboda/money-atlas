@@ -1,40 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T02:30:15+00:00",
-  "quotesAt": "2026-07-27T02:30:15+00:00",
-  "newsAt": "2026-07-27T02:30:15+00:00",
+  "fetchedAt": "2026-07-27T02:45:15+00:00",
+  "quotesAt": "2026-07-27T02:45:15+00:00",
+  "newsAt": "2026-07-27T02:45:15+00:00",
   "quotes": {
-    "kospi": 6611.63,
+    "kospi": 6623.53,
     "spx": 7411.98,
-    "nikkei": 64708.79,
+    "nikkei": 64764.01,
     "vix": 18.58,
-    "krw": 1466.48,
-    "gold": 4105.9,
-    "wti": 85.42,
-    "dxy": 101.17
+    "krw": 1465.68,
+    "gold": 4101.9,
+    "wti": 85.59,
+    "dxy": 101.16
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.84,
-    "nikkei": 0.15,
-    "krw": -0.51,
-    "dxy": -0.29,
-    "gold": 0.94,
-    "wti": -4.36,
+    "kospi": -6.67,
+    "nikkei": 0.24,
+    "krw": -0.57,
+    "dxy": -0.31,
+    "gold": 0.84,
+    "wti": -4.17,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "유가 쇼크에 긴축 공포까지… 한·미 국채 금리 동반 급등",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aYUxvc3NYemZ1MDAxY1ZXdW4zd0c2eEtlTkFkcFBpR1NGaUxwdVJoWmp3WjNNOXhUVmZJa0lSQ2Fac1lSV1AtMFU0SnlGR0Q3?oc=5",
+      "s": "문화일보",
+      "d": "2026-07-27T02:43:35+00:00"
+    },
+    {
+      "t": "은행들 예금금리 인상엔 '기준금리', 대출금리 인상엔 '가계부채 관리' 내세워",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWdDYxbWpqRExvR3dyVm5hS0xZcHdiV1RZeG52N2l3WUdCeVhZc2NicG54ckY0cG1WZEY3bVp6OTE1c0MwUUhTWFc4UVdJbG1od3VYQzB3eXFCZWdTLVVyc2hlSTlKQjlV?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-07-27T02:26:36+00:00"
+    },
+    {
+      "t": "日 증시, 중동 긴장 완화에 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdEJWbjFIZEtPeU5HaklPMlZHZEt6MnNOQ0RKWnhhUVIzbzZOQzJ1Z0YxNmtOQ080YTZsNjQ0SW1Edk1KV1I3QldCSFdDOWJsTlllSGxTdk82RG5FRzRCX1RFS1o2Ml9yNEcwYjJnVS0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-27T02:25:09+00:00"
+    },
+    {
+      "t": "외국인 1.6조 ‘팔자’에…코스피, 하락 전환해 6600선 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQllPRVBrdWhlUFJfQWNST1JfZU16eURYNXU0TW1lTmRFZEJhck54U19LcTU4dVBRLVd4dnJMbkNEeTZ3TmJPWm42dkxQWGo4Wkp6a0diTmZJRUE4Y01hVW5wdHZjZmI4SDVXWG5odVlpR1FFUmcyWEFqRlIzektwS3FLR0VSSy020gGcAUFVX3lxTE1hakpTdjVMZVVUTml3a2FmTmdkTm85RDcySUV2TzRiZG9GRjhpc1dDVENfYWtudzFGVWNRLWgwM0k5eTdUTjVGZ05tNFJ6REdqVXZzZHFtYnozU1ZSN2F4R0xMaUw1bTN2cGNKOE05TEF3MF9ZNWdDQk5nR0ltVFR3Wndsc3ZrdHRIb2RMa1R0blNBbE9NOGE3QTh5WA?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T02:23:00+00:00"
+    },
     {
       "t": "원-달러 환율, 54거래일 만에 1450원대에서 거래 시작",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQW50UTY0WEJPLWh2N1E4SUxOVDBTUkZBZzg1REZlcG41Q1FYOUEteWFkaElsdWxDLU9UNXd4aXNWVjdfbVUyMXVCMzFqRWFKaUN5NGI5ekIya1QxZTlnd0NhY2M0X1hmYWhMQV9tMWFHN3VDWWfSAWZBVV95cUxPVFBGeXBRSmVqTmlzblVaR0xVRHRQQ1pwODkzVzJnUlBLWnB2RlR0SHZISEJwSHVORjZ6WktKQlZMbmd4ZnZrRDRmd2I3aUdvU2twam0xekVELWpLTnp5NkFOREs4TEE?oc=5",
       "s": "동아일보",
       "d": "2026-07-27T02:19:00+00:00"
-    },
-    {
-      "t": "[미국 특징주] AI 투자 열기 안 식었다…메모리·반도체株 다시 주목",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pd3JwS0JRWW1jbWNITjJUXzc0SUNObjNHVEtFbnV2bXhaZHZIMUZmQmpKNTFpOWtpdHRFdm4yRFdOcF9nYjZKNm93a2hTSGJKd2tTN1BWUXRZUUxR?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-27T02:15:00+00:00"
     },
     {
       "t": "美기업 실적 15년래 가장 낙관에도 증시는 왜 '침묵'",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-27T02:13:34+00:00"
     },
     {
+      "t": "상반기 美증시 상장한 中기업 2곳뿐…50곳 이상 '승인 대기'",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBaHY4MXJGRENHVkN4SkVTRGJqd1gtcWlGRUN3cnkteFE4RGVZQW1jZW92aHA1alVrVERuSW9RbFMyaTREZjhzVjhaa0E0US1fV3B2MDk0dC1OWHfSAWBBVV95cUxPNmxRWUo4VU5oUUJUeFBZZTJZcGd1YjNaUmFOZFpxTV9KbDlqdHZ5V2t1dE4weHhkVmdqeVRndEhxM0gxMVVhTUFBS2Z5S0Z6eDNGY2dqUzhCY3UzTjc3UXI?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-27T02:12:15+00:00"
+    },
+    {
       "t": "JP모건 \"중동 긴장에도 유가 더 안 오르는 이유는 수요 붕괴탓\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HeHM2VGRySHY3dF9aNThWbUF2MHEwb0RRSEF6NkVqTUx1TllXLXBZWnBiejlZYkNnclJXRHVDWmtNOVpWaENFMTNoTENrQUl0QThOazlKYk5lV1RSaG5xWTdfOWZwZ2VhRHhrQmljRTA?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-27T02:11:21+00:00"
-    },
-    {
-      "t": "코스피 7000선만 넘으면 외국인 ’팔자’…진짜 순환매는 아직 요원 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2V1VsTV9GNkNXc0ZDSm50MGtvUlRXUGxpZXFhYkdUUlR5UFpEQzBscXltQ250R2RFaTlzcGVaS2k4SHVrbGdfb21PZmxBb214cnZrbmNSdXUwZzB2Q3NBb1A3S3MwcUFIMVRrOV9mYnI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T02:11:00+00:00"
-    },
-    {
-      "t": "유가 100달러 재돌파…금값은 금리 공포에 눌렸다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HcDQxNEFYdkFNZ1ZCeXpya3IyNTBYbUNWZE9hc1BVUVVCV1g5dDVTOGgtNjJyRFJRekZHeHRBaERQTUVWWWVKMkEtcGFXblZkWlBkbjRB?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-07-27T02:07:50+00:00"
-    },
-    {
-      "t": "‘中반도체 첨병’ CXMT 상하이증시 상장…단숨에 中본토 시총 1위",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14SW1RaUd6TFpNNTBYOFhGM25SVVRURy0tZzlyWDNQanJmeERxV0FPcTBjSy1vcF80OHd0R3ZzTjAyOEdITElqaUhEeF8ySEdGZVRMWXJCRWVlVzQ?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-27T02:05:00+00:00"
-    },
-    {
-      "t": "\"엔저·중동발 인플레 우려에 BOJ 조기 금리 인상 기대 확산\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrdnhOQVZTYS1SNG5LbmJVTjVqMnlyX3EycS1qNExTRjBDV1k3SHdTTDAzbWNWdGRxWkdBai1ZZkNFZHJoWGROTFBfcTB2dDNQeGFZdVZ6SVpCdjlXZi12ZkNWWUxYS0RmTndXbWVUSm93QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-27T02:02:53+00:00"
     }
   ],
   "asof": {},
