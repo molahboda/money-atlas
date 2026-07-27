@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T11:15:15+00:00",
-  "quotesAt": "2026-07-27T11:15:15+00:00",
-  "newsAt": "2026-07-27T11:15:15+00:00",
+  "fetchedAt": "2026-07-27T11:30:15+00:00",
+  "quotesAt": "2026-07-27T11:30:15+00:00",
+  "newsAt": "2026-07-27T11:30:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.6,
-    "krw": 1469.46,
-    "gold": 4099.4,
-    "wti": 83.3,
+    "vix": 17.66,
+    "krw": 1468.68,
+    "gold": 4102.2,
+    "wti": 83.41,
     "dxy": 101.32
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.31,
+    "krw": -0.36,
     "dxy": -0.15,
-    "gold": 0.7,
-    "wti": -6.73,
-    "vix": -5.27
+    "gold": 0.77,
+    "wti": -6.61,
+    "vix": -4.95
   },
   "news": [
+    {
+      "t": "中, 美 '강제노동' 추가 관세에 \"단호히 반대\" 반발",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NXBTVWJfMEw3N0hyc0hmQ0NOY041VHFnbVNmRFZ0S185N0dJUkJHZ1Z3RF84VDF1bXNrLWdCRFBGY3hJZ1RIbk9IdzRjbTh3Z0lFZTBTZ0xqVFNzOUoySg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-27T11:18:22+00:00"
+    },
+    {
+      "t": "[인도증시] 유가 하락에 투심 개선, 6거래일 만 상승...IT지수 ↑",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52TkFhU1B1cy1aRlF2eWQ3aDdOdEFpUVZiR2pSanRUVDFnVGFXbmc0NEZmd0xNSDJ0WDdldEpmMHBsNE85dzdORmlSVVRrQTZSaUpPa3dOTi00OWJf?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-27T11:04:00+00:00"
+    },
     {
       "t": "中, 美 '강제노동 관세'에 \"전형적인 일방주의 단호히 반대\"",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4V1hrMEx5UFcwX2tFWjhZYnlkN1hkX0d0MkdReUxJN29DaWVHOTF0eS10U0F4NXVUcjZsLTNFRHN4djk3MVh6UmI1aWVfa2pOaXI2UHJhc0ZqcV9namc?oc=5",
@@ -49,6 +61,18 @@ window.LIVE_DATA = {
       "d": "2026-07-27T10:32:24+00:00"
     },
     {
+      "t": "日 구마모토에 피지컬AI 반도체 국제거점…대만 기업에 '러브콜'(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hS1JUbmtLdlBUY0k3SmxZU0MtWjVZRWZhWFU5dU45bWt5cUpfdW1RU0hWV2lZLXVHbjhTX0RJMmdPR19DRmJ3WHFOWVFKUlkzaThwZlkyMlhET1HSAWBBVV95cUxOVW80OHdlU19NYVpMdkFSdEhxMjl2Z2M2by1URmdlY09FOEtzZjlHdWJ3elE0U1MzU245TFBXUEZCRXN1bllvNDFNRmVPTW0yZ0ZqMkI2d1g1cy1rUjgxejE?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-27T10:26:26+00:00"
+    },
+    {
+      "t": "미국 301조 관세 시행…대구·경북 대미 수출 영향은 ‘제한적’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hZk5JWThzdVF1VFd6N25xaEhQRGt6SEZockRGUG5nNXZiYXcwZXRudjlpOUlVRU9LQTV5a0xoZWdVclhndW4zeWllZUhJRjg1SFpOcWR6aldVU2F5cWRmbkpWcUtwcVJyVXd0bHVmWQ?oc=5",
+      "s": "kyongbuk.co.kr",
+      "d": "2026-07-27T10:23:48+00:00"
+    },
+    {
       "t": "[집중진단] 레버리지 열기 꺾였나?…과열 진정에 코스피 변동성 잦아들까",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WelhmSWJpSndEdjlSWTVlOS1NN1JnYVZYT01wa1RzVV84QkZ0VE1MUHduZ3gyV0JFNUtFVVFUY2R4eUQ3RWF1Qm84b2Z4WXM?oc=5",
       "s": "v.daum.net",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aMmN5d1ZZZzJGMExyU3ZmTzR6blBibmdOLVZlUklwWVp5ZU1GN21oTnE5NkQzUzZpeUVWNlBxR0pCVnZRTmdvZ2NxTkJGcGxaSWFUb3U2clRoQUd0dFlPMndTN3djUUt6dUY5RXQxN3E?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-27T10:18:00+00:00"
-    },
-    {
-      "t": "‘상장 첫날 시총 712조 1위’ 중국 CXMT, 한국 반도체 업계도 덩달아 ‘긴장’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ERG1WMS1fWEw2eXpwSldJZE9hTlY0Q2E4UFhqOUgxUUlUX2lrUzY0XzRSbWhtcElIejFkdExUd1N1cUsxSjc2VEpsRS0tUV9BSTYyanR4bDJiUdIBX0FVX3lxTFBjSDNaTVFFamJPQXJUa2U2X21KemhpRzdkX3FwMHlHZG5iZUZab2JGbU4tNDZkQll6RmlXOGI0a0JMQURPbVdRbVFpbmtfSi1NRzdpT2dQSURaZmxqWjBn?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-27T10:17:00+00:00"
-    },
-    {
-      "t": "AI가 바꾼 반도체 지형…국내 생산액 82% 수도권 몰렸다",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWt5dVYzNnJvdWlTT19ibTkzNy15dnJKT1RPU3o3eXotYWU3bjJ2ZmQ2VWVUdVVNRnIwZ3RzcjBGamJLTjZyM3dSUnFQd1lCc3FwU2djQ1JlbGhYTGZudm1OUTI0TndfTnFKanBmUFRFQk1TRzNFRjFuZlV4VHZNNENEd3dkbjBZbjRRN1Fn?oc=5",
-      "s": "국제신문",
-      "d": "2026-07-27T10:15:00+00:00"
-    },
-    {
-      "t": "100달러 넘나드는 국제유가에 물가 관리 비상…환율도 반등 여지",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OG45OGNzeEszRFl2Ukx3cnIwQ0FYbTY4ck9CY0VPZng5S2JsbmE3blk2ekdycTJSYjNoTl9yMW9iTkY2WWlyZEVjZWxZZ1c1QV9tR1FKbFpqTFVhaktVZk9NcDVMaC0yVDczcnVwWW95Zw?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-27T09:59:00+00:00"
-    },
-    {
-      "t": "AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jci0zN2plel95UF90bE55T3RoS1AzcXpZREhHaU1QQ0wwYUFlVVIxS3pUenV0Y2w1Nk8taUlUSzRadDljS3lXQUZBOFZ1SzVuWXl3RDE4VkY0Um5nUVdGNVBzUzI5aEg0U1d6d0NBRkV2QQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-27T09:59:00+00:00"
     }
   ],
   "asof": {},
