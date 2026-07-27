@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T07:45:15+00:00",
-  "quotesAt": "2026-07-27T07:45:15+00:00",
-  "newsAt": "2026-07-27T07:45:15+00:00",
+  "fetchedAt": "2026-07-27T08:00:15+00:00",
+  "quotesAt": "2026-07-27T08:00:15+00:00",
+  "newsAt": "2026-07-27T08:00:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.69,
-    "krw": 1469.07,
-    "gold": 4104.9,
-    "wti": 84.19,
-    "dxy": 101.2
+    "vix": 17.72,
+    "krw": 1469.14,
+    "gold": 4099.4,
+    "wti": 84.27,
+    "dxy": 101.23
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.34,
-    "dxy": -0.27,
-    "gold": 0.84,
-    "wti": -5.73,
-    "vix": -4.79
+    "krw": -0.33,
+    "dxy": -0.23,
+    "gold": 0.7,
+    "wti": -5.64,
+    "vix": -4.63
   },
   "news": [
+    {
+      "t": "'국제유가' 다시 증시 변수로…변동성에 단기 매매 확대",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DdFB1aGN4dUtQTThNSVZiZGEwNGpXOUFGLWlsT1pTb1NkM3FENTFCSjBjaDh2aXN6QUpLMmphU05hYXdHeFplX0l5V0tNbF95WXJQc3poYktrUGJK?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-27T07:56:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시 전략] 국제유가 하락에도 반도체주 '흔들'…뉴욕증시 혼조 마감",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mVlZUOXBHV0lnMU9kUl9wLUVZRTZrMGVZcTRFX3hXNmhXQ3FSOG1YV1M2NHpvdDM5MUlzdFRGQjlHU1ZLMnpYaVp3V3FaRDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T07:51:24+00:00"
+    },
+    {
+      "t": "김민석 \"李정부 임기내 호남 반도체 가시적 성과 만들겠다\" [KBC 특별대담]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11U1VyUThlRVZIUUFweXhibnBHcFZ1REtfVk9sTmJpd3ZoUTFEU2c1dC1sNW14TXdNRE14RGwxLTFWQ0ZLd2VPVFU4VTFjeVVQaVVETmZyVDVndFFpSWlkUg?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-07-27T07:45:07+00:00"
+    },
     {
       "t": "원·달러 환율 1.9원 오른 1468.5원…외인 주식 매도세 영향(상보)",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaaTBoWHJ6X2ZzYV93bmp2ZTQ1SzM5dlE3LWo0RkdEZUdlVldSa0ZXQkl6ZTFGVElJaTBNbXl0N2dGUHNlWWFmMXgwYTZodGNLekRaOFZGcTZYOFRZcHlRaA?oc=5",
@@ -37,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-07-27T07:36:00+00:00"
     },
     {
-      "t": "외인 ‘팔자’ 불구 코스피, 강보합… 6700선 회복",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNmlHcWVrME5HSUUxdHZlZmQ0YnBGZlZYZkNHdkhqb0FVZ1ppQTJzdXZGWDJjRFh4ODVSZVhLcjB5VW1wcy1FTmxYWHZtdW5CdlUtMUhJTW9iamFRU2F1ZEx0SjB0TVVTMjEwZzNLN2_SAXRBVV95cUxOUTliZEpaTkx2T1N3bkxfWXlWRFBRWVV3dkxQN0tDS1pKT0NuVXRHVFozaWRFZzZBZzhYa2RzQVNweDdhTF83YTVwcDNJdzBvdnVSTEV4ZjdseDlEc0RLZHlhOWNqNF9Tdk1XTVRTb0FRQTliUw?oc=5",
-      "s": "IT조선",
-      "d": "2026-07-27T07:30:15+00:00"
+      "t": "원·달러 환율, 1.9원 오른 1468.5원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVBqRk83c3pCck13WlQtN0YwT0dWRldLWmZ1ekxGSjJsMTFHdVVDdXAzT0E4WVZxSUtZY3VZaXRRaGp0TzJNLVAzTXRlSXJyVkhNazNCRnlxMDZ6WWNpYlNjd2t5cHZiY01xMXAyeWt0RDhhbmFSSC1TdlRmUU1BUmU3MjBIZ9IBmgFBVV95cUxNTUlZVmlaWHZ3eU0wWGRhZ3BvUjMtYS13d2ZGLVpPaTFzTWd2TFJDSFB0Mk5CYUFMY1lTc2N5Y2xSUVR1UkZGY25mVzIyVE5kTFo0TkJtenZuZWRhQU92SnlFYWtIRGRQNEk0aGNWbEdJSXRyS0FmenpRa2ZtUW5yTzVRWWpOSlQ4R19rOHhINXJURGE2N0dYTHJR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T07:27:00+00:00"
     },
     {
       "t": "中 CXMT 상장이 악재?…'한미 AI 동맹'에도 코스피 상승 제한(종합)",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-27T07:21:38+00:00"
     },
     {
+      "t": "중동 소강 국면에도…환율 1.9원 오른 1,468.5원",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jU3NaUEZleFFqOVFyb0d6V0MxLWpwTkZNWmFfcTdMeGFMVDBHd05yaXE3U2dEcmxJQWE3WjBUVEMwS3BuRTNsRWNOREs1VUJNaTliVjgtZC1ycDDSAWBBVV95cUxNYUJYQ2d5YmtEanB2QXdWZHBBNHhnN3VnZGJqRkxsVVVDa3dvXzFkSG1UajNTTzNWeG0ycmN6amxtSWt1bEtteEZPZGJfbGljU3NkaTlqUTJNbExwbTFFdVQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-27T07:21:07+00:00"
+    },
+    {
       "t": "[ETF 특징주] 연준 이번주 금리 인상 전망 33%로 '껑충' TLT 울상",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aDBWQkdZMFdnUzdpdjlXekNVZFdLeV9hZXdJbTFCeFk3Rk5jemtDakFTdFJxaUU1SlBZZDk4TzFlRnFENmNRT1MyT1VkWTJCMXFEVjNQZ3pTZkFl?oc=5",
       "s": "뉴스핌",
       "d": "2026-07-27T07:21:00+00:00"
-    },
-    {
-      "t": "에어부산 2분기 영업손실 355억원…\"고유가 부담·환율 영향\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYlpEeVpWdXlsLXBPWVREVE92bFJXVU9VbjJva3VIVmZvTGt6c2VUWDI4aGU5N1owT1NwdmlDMjgwb2gtZ3I3VHRub003bjVGTXhIcWUzSkg0NTVMcjlkTGRfMm90YnNZWXhRU9IBckFVX3lxTE4tdmVrYVJhYjZzOUx2SGNoZlJEVFZVaEcyMTBfQS1uSXBaeWZCT2twblFKMWVLSy0wTzdOaTBkWTNGTmVjUzB2aXU1c1VuemZQVkpFbUxOaUQ0VkxiSnk4Ym9sWHJ3dTBZcm4xYVp1VjRyQQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T07:19:43+00:00"
-    },
-    {
-      "t": "\"美 국채금리 5%, 일시적 현상 아니라 '뉴 노멀' 될 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12elNCZ1hEb1N3MDNUUHBQRWlZYlQ4WGJRR0I1RFlKbG1YS0huajFOT255TkRIVFZFTjJhRGVZREp2VzNfYnREemFGXzNqRjI3T1Y1YVpSOTBXbUNEOW1FVUEtVGZPeDR5M3doT2J6Rmk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T07:17:00+00:00"
-    },
-    {
-      "t": "반도체 수출호조 속 외인 주식 매도 진정…골드만 \"원화 펀더멘털 튼튼\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdzVsNWVUZWFzUnhBMmdNa3lVTDJRZEFRcklKUXZKb3JGUlBsdTFhci11ZEVmSVZHTmxnSTVEZ3ZWbW5DYVRZLXdUVzZoejBMOW5iUGNQX2hOX2FQWFpiUHU5Tkg0VF9EWlJRUXB5dzA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T07:16:04+00:00"
-    },
-    {
-      "t": "[마감시황]코스피, 장중 급락 딛고 6755.75 마감…반도체 강세에 0.97% 상승",
-      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sRF9CWF9seTAtaHQyRDM1dHBXbWttTERVSFF1b3V2a1Y4NGtFNW1hRFV5aDd4UEgzcEI2OFlDRmkwMUxJTUtzQ3lMS3pKR243dU50R2lGM2otN0pkSzA3c1d5VF9wWXB5RXdyZEl6S05zeGl3VVVrMjJpZUhyQQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-07-27T07:12:00+00:00"
     }
   ],
   "asof": {},
