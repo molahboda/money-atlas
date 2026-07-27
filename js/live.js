@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T10:15:15+00:00",
-  "quotesAt": "2026-07-27T10:15:15+00:00",
-  "newsAt": "2026-07-27T10:15:15+00:00",
+  "fetchedAt": "2026-07-27T10:30:15+00:00",
+  "quotesAt": "2026-07-27T10:30:15+00:00",
+  "newsAt": "2026-07-27T10:30:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.58,
-    "krw": 1466.78,
-    "gold": 4097.5,
-    "wti": 82.49,
-    "dxy": 101.25
+    "vix": 17.59,
+    "krw": 1468.7,
+    "gold": 4093.5,
+    "wti": 82.99,
+    "dxy": 101.27
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.49,
-    "dxy": -0.22,
-    "gold": 0.66,
-    "wti": -7.64,
-    "vix": -5.38
+    "krw": -0.36,
+    "dxy": -0.2,
+    "gold": 0.56,
+    "wti": -7.08,
+    "vix": -5.33
   },
   "news": [
+    {
+      "t": "AI가 바꾼 반도체 지형…국내 생산액 82% 수도권 몰렸다",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWt5dVYzNnJvdWlTT19ibTkzNy15dnJKT1RPU3o3eXotYWU3bjJ2ZmQ2VWVUdVVNRnIwZ3RzcjBGamJLTjZyM3dSUnFQd1lCc3FwU2djQ1JlbGhYTGZudm1OUTI0TndfTnFKanBmUFRFQk1TRzNFRjFuZlV4VHZNNENEd3dkbjBZbjRRN1Fn?oc=5",
+      "s": "국제신문",
+      "d": "2026-07-27T10:15:00+00:00"
+    },
     {
       "t": "100달러 넘나드는 국제유가에 물가 관리 비상…환율도 반등 여지",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OG45OGNzeEszRFl2Ukx3cnIwQ0FYbTY4ck9CY0VPZng5S2JsbmE3blk2ekdycTJSYjNoTl9yMW9iTkY2WWlyZEVjZWxZZ1c1QV9tR1FKbFpqTFVhaktVZk9NcDVMaC0yVDczcnVwWW95Zw?oc=5",
       "s": "한겨레",
       "d": "2026-07-27T09:59:00+00:00"
+    },
+    {
+      "t": "AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jci0zN2plel95UF90bE55T3RoS1AzcXpZREhHaU1QQ0wwYUFlVVIxS3pUenV0Y2w1Nk8taUlUSzRadDljS3lXQUZBOFZ1SzVuWXl3RDE4VkY0Um5nUVdGNVBzUzI5aEg0U1d6d0NBRkV2QQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-27T09:59:00+00:00"
+    },
+    {
+      "t": "한국, '반도체 강국'에서 'AI 허브'로…글로벌 빅테크의 실험무대 된다",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cG5TVXN5S0xnSTNTajBoQWY4SnAwalpaXzZxbXVVcEZOaWZGM09qaWZacXVNWW82Y0piR0p0bVZDeDJTaHF1MkNPVWNWbEhhSHBuR1k3X3lROWdLOGN5OElsR05GNi1DNUhXYg?oc=5",
+      "s": "재외동포신문",
+      "d": "2026-07-27T09:44:47+00:00"
     },
     {
       "t": "IRS 금리 중동 휴전 기대에 급락…현물보다 가파른 강세",
@@ -44,9 +62,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "'中 반도체첨병' CXMT 첫날 466% 급등…시총 712조, 美인텔 넘어(종합2보)",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ekwwa2p3ZjEwZ2habGhYa0pyTnU2cnZCTmp1M2lhcHFKMHR6ckpTNmtESXBJaDMzakpOamZ0ZUR3UHY1MmtUTkJMV2RySXFRNGc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-07-27T09:26:53+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xdGs5RjFxX3NTTDA4QkgzbENrUVpIZUF4YkM0bmVEN1BLYUtkcU1TUFBVWmVBd1ZTNXdzZnMtUlJmU2hUcDd1LTVweVpVMFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T09:28:51+00:00"
     },
     {
       "t": "구미, AI 반도체 핵심소재 육성 박차…전자유리·그래핀 산업 생태계 강화",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WaVM2YkI1QWVmemU2T2NUTE91NGR0MVF6ZXROMXk2ZHFIWV9SWnc2b21zeG0zREJyWGR2RHR5V1FxclQxTXMzX3dtN1VYODAtQnJ3d1c5eXctenFGMlU4MkhMTGhpZ0lMZjNMMEUwTmw?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-27T09:14:00+00:00"
-    },
-    {
-      "t": "[오늘의증시] AI 동맹에 반도체·코스닥 ‘활짝’…코스피 6755선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbXJiak1BMlA4NXJCaGkySVRJT1o5Z3J2MEt2NFhvS1FyRnNqTFg0aVFuRGRkSWJYclh1TFBGNGFCZVh5UVNaTTdCWVY0WklHN2llZGlGcVh2Y0tiZ3M5RHJXOUbSAWhBVV95cUxNTWIybnhGRDRQRjVmbFFrYWhMQ1ZQRkVwRjNIbzJxVFdoY1ZfYXg2YzlZYklDckMwSzBQcGtHVE1KV2h3RzAyb0dqdlE2LXQyYTFhdXpQTDlwNUcyLWRKaGtTaVVacjlvSQ?oc=5",
-      "s": "경인방송 뉴스",
-      "d": "2026-07-27T09:09:15+00:00"
-    },
-    {
-      "t": "전남광주 시민단체 \"호남 반도체, 환경·상생 대책 병행해야\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NVVBnZzdoVk1BRENZaE41T0RWYlRKTnl2U0NjZm4tQTZfc2xaTXNQeXNLUUpReDhqbUgyMDFtSF9OZ3RzRVFKR2RUX3BhYkpUcFpBWHBXbkRsTHPSAWBBVV95cUxOTHNQMDlYOFZSOEpvY2lVZDZ3TWdTYjEzTThueEp1aWNERVlqME15TG5Cdjcwc3lZM3p1UXcyOFBMSWZXdE5LYnRrZlN1NHpwUWRGVkNnc2xOQ3VFY3p2a0w?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-27T09:08:34+00:00"
-    },
-    {
-      "t": "[르포] 강풍 맞고 웨이퍼에 회로 '쓱쓱'...어린이 반도체 연구원이 된 30분",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xRzQxd0VKMTV4OWVzV2NIYUg5bkcxYlNvTTNLVm05UGgxNUVWeGJZeU5vd1dlSmFfeFVrVkcwOUlDd05YVjd6aWkxUWJWaFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T09:03:09+00:00"
     }
   ],
   "asof": {},
