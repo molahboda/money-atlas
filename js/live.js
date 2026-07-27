@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T00:15:15+00:00",
-  "quotesAt": "2026-07-27T00:15:15+00:00",
-  "newsAt": "2026-07-27T00:15:15+00:00",
+  "fetchedAt": "2026-07-27T00:30:15+00:00",
+  "quotesAt": "2026-07-27T00:30:15+00:00",
+  "newsAt": "2026-07-27T00:30:15+00:00",
   "quotes": {
-    "kospi": 6690.62,
+    "kospi": 6693.73,
     "spx": 7411.98,
-    "nikkei": 65188.49,
+    "nikkei": 64846.59,
     "vix": 18.58,
-    "krw": 1458.98,
-    "gold": 4104.5,
-    "wti": 84.73,
-    "dxy": 101.24
+    "krw": 1460.58,
+    "gold": 4109.1,
+    "wti": 84.19,
+    "dxy": 101.19
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -5.72,
-    "nikkei": 0.89,
-    "krw": -1.02,
-    "dxy": -0.22,
-    "gold": 0.91,
-    "wti": -5.13,
+    "kospi": -5.68,
+    "nikkei": 0.36,
+    "krw": -0.91,
+    "dxy": -0.27,
+    "gold": 1.02,
+    "wti": -5.73,
     "vix": -0.64
   },
   "news": [
     {
-      "t": "삼성 파운드리, HBM5에 '2나노 GAA' 전격 도입…AI 반도체 패권 쥔다",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xY0dCQzFXUE11UGUwbGVKWGZCZE85N1VnQmgyRUVFZEtNOHUwYVRSN3ExX3FNUms0bGVGSDVTSHM5N2N1eXFiNTZOS3ZSdFNMeFBPN2w5Nno1d3Z2elRSQQ?oc=5",
+      "t": "원·달러 환율, 7.6원 내린 1459원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHBoNDBHNEpkNUllTDlXQ3NwN0d6T01ZTHZPYktGdm1PZUd3TC1lMm9POXpwZVpjTTB3dExFNmxVc2xxOTlCeFRMVHdLeHhTNnBGaFBNOWNTUjNsakFJdC1Ka3ExaGF6YlBST09IaXdaZUFmTnhRYURrRFRKVHEzZzh3a21PUdIBmgFBVV95cUxPMTdGeG1pVGxkMHkxTmdPWGZRLXRjRmY3dWc2ZlpGNE5XX2RmaHVaVUNEUzE5SlJEYlRCTl8zclpjbndJN2E4eDlHNThaLXNBYmF5TG96Uk1yVmF5a0xsOTQ4SVA0eVZfd1ptNEhOeEpVZXNoalNVYVJGTUFKc1NYRzRQTXcwMURqbElGeUtERURsTDA4T29DN3pR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T00:24:00+00:00"
+    },
+    {
+      "t": "[속보] 이 대통령 \"유가불안 해소까지 석유 최고 가격제 지속\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VblJjaGZ0QlhOSEhsSVZrY3hMNllUMUR2aEM3YnRBWlB5U0hnZGxzdjM3TG5xazdnS3ZZVDVZQW9Mc0FremdDLVUxQ2pxN3VPWGNUN0JIMWZZU2xweGVRSVpxZlg5bFk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-27T00:21:00+00:00"
+    },
+    {
+      "t": "[속보] 李대통령 \"중동 정세에 유가 불안 지속, 석유 최고 가격제 지속\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GeW4taU11RjFlX0UxSzRSOUhhZzNJcm4yZUgtZFo3SUh3UTFVN1VWbk9hMTNQbjZCZVdyUWQwTEtRSGE1U3ctUlhLZ29ib1c3cVBzOFRhcnZXMzVsVFdPSQ?oc=5",
       "s": "아시아경제",
-      "d": "2026-07-27T00:12:19+00:00"
+      "d": "2026-07-27T00:20:55+00:00"
     },
     {
-      "t": "흔들리는 반도체 투심, 반등의 3대 열쇠는…'빅테크·금리 하락·AI 수요 증명'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wNU9iTzhrS0FVdHVsckNmSGNNcmlZbHBIdnh3Sm96d1N0UHVKSGlZdkJXWVFfMzdPdzlaUGVrRjVCNG5UQTNMRDB5TEZWY01feHgtSUp2eU13QQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T00:09:29+00:00"
+      "t": "키움운용, 미국CPU반도체TOP4+ 신규 상장",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VTlUzYkQtX3dFTjJCMS13T3BiU1p2ZlZ3MXAxWnJ1eHZaVGctM1RYZ0JlNDJsd3lPUjRZQlk3MUJuT0syX1FiR28wd05wVGRzcElZX01OZm1URkFTQkdEdkNYWHg?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-07-27T00:20:11+00:00"
     },
     {
-      "t": "티로보틱스, '이중 평행링크 진공로봇암' 기술로 AI 반도체·유리기판 시장 공략 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vN1lZaWRFQ3pHOFIyX2JCQ2Zab2pITm5hSjBPcWF6SFEtTXAzQ0R1MmtnbUU1V3pSVDM5clZFVFFuemVvTjRFSHJha25UMW9sSlVFazg0d1ZFSHlhNGYzU2tnMTZKQ3Jk0gFuQVVfeXFMUEdyTEZjSndQLW5WaHMtcXowckhYV0cwamNPa3lVLUpfd0czOUtjZnlxQVNaTmMxSTVoMm83azRKQVAyei0xZ3czU3ktY3Q4STRvNmZZUnVRVllHYTdPeEwwZG9YaUNraFZVUmFBNXc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T00:07:18+00:00"
+      "t": "[개장시황] 삼성전자 강세에 코스피 상승 출발",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LWGpwbE11RER1aGJEdlBJSlhyV0VBTGFIeU5KVmdUVGVHcVF0T1RKQmgwZ3FDdjR5cjZrZ195QUYzb0RuT2djM3M4eUtYZk5iUEN2RDhkdjFrSkha?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-27T00:19:00+00:00"
     },
     {
-      "t": "코스피, 0.74% 오른 6764.53…코스닥은756.28",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96WmZibFRBa3IwS1g1UU1sd2RRMkVndlYxS1NHSmJCMVdZUk0wS2FHME5uM1BXRG9VdFpyZ3JXdlVLWDdJN0ZZYnU0WC1pV0o5dzJ4dE1ZNkhnZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T00:06:06+00:00"
+      "t": "유가 상승에 흔들렸던 코스피… 급락 딛고 상승출발",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yY2xxRXBEX3VkaENVVUJJeUZYaXI1dW9KbGM2R0FIMTVFM1ctd2kwb1JpQlZORnJsYjl4WDZWek1oeE8tQV9xcDBGaFFuN3h2S05QR09QQ1lmR2FCdFBXbV9BWldTTlZyaGc?oc=5",
+      "s": "천지일보",
+      "d": "2026-07-27T00:18:40+00:00"
     },
     {
-      "t": "\"반도체 주가 조정, 심리적 변동성 영향…공급 타이트 국면에 성장 추세 지속 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IMXhGdlEyTGFBc2pVeDdLcjRDU2dOWVhHNC1ETWx2TW91TXFmZmVwclJ4bDJNNDNEM19jZnhndjBSSGhfWWd4UklVeWd2NGZUc0ZnYks4NllIQzllbUgwY1ZKUmg4bDlLOUJvLU1Kd2lXdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-27T00:05:12+00:00"
+      "t": "중동 긴장 완화에 국제유가 5% 가까이 급락",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZm8yYnJ3TndfSk53M2ZVeXFvelBsVEdDYmRpSk5YODhUVVEtZmNoLVdOVWphV3dITEJQUGZCekk3MUhMbWdMVUJ5RVZ4UEZJaXJzelpVNmFQRFpicEJ0QVg0Z2hSckZJOExucWxXRUxKWElK?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-07-27T00:17:36+00:00"
     },
     {
-      "t": "코스피, 1.73% 상승한 6,806.27 출발",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WG1UVVJSSGZ2d2Fubl9Jb3h0bUg2cUQxM2hzOThmcTRIeXE2UFNMa0NTR2lSYzZCREdrVjVkYUJHemc5MmdZV0o0Z3dqYlRubFFYZTZOYkZZOFJxRlJlczJjR3BESHVqeEY3d0RORmjSAXRBVV95cUxOQ3VlUVdEbVVCVUQ3SGJ5UTRHc0FDdFYyQTZrN3ZVbjUtT05Qd1FuR0d1TkJKMjhmWjRHa0dJMWpyMDJOWFpWRXNLTi0wZ0o1YW5ZZVF6dnZxSGtBZTNXV1pkOE9vOUZrM01sRTBtbkUwcHZ0Yg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-27T00:03:52+00:00"
+      "t": "‘샌프란 AI 훈풍’에…코스피 1% 상승 출발 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEtaR0kzUWtaNkMyYmdoYWJDNFo2ZjE2dDhLRUhnRGxSV0NMbVZXQldqSmx2S3RtdDRHeTdMMkhYR3ZyS2dxQkZDalUwYW5ZLXFxSmtlREtMcXVxc201OEhjbjJYR2xPNUFWdlJpOEQtYXlSTlIzSmFhRUVqRGsyVFkzSmVFcFo00gGcAUFVX3lxTE1sblJFU053Z09qTldJVlRLM3RpRE1MTGNqN1Y5MXlTY0Nld21HazRMSDdXaVNyeE1xOUxYZGZMcWZzbXZZNlZIemF5a1BjV2pLNVFtby1pY0JOUzFJQWhRQ0t2d09TcVNvTkFicnVScUxYWV9kdDdEUE5Ia1JLRzd4RWRnN1BOQUMxVFUwS2lpMUVURjhrYm9jV0Ytdw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-27T00:17:00+00:00"
     },
     {
-      "t": "[코스피] 115.65p(1.73%) 오른 6806.27 출발",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0NzZMSUNzbkk5ZWc4aWVUYjJhNy1PYk1RV25yVGk2VVFfNl8xa1BGbTFpSjRNUHZFdzViTHJOd2gxdXFyY2dDYlBFNDF4THkybzdXYms0YWdOR1k?oc=5",
-      "s": "뉴스1",
-      "d": "2026-07-27T00:01:46+00:00"
+      "t": "[0727개장체크] 美증시, 반도체 업종 매도세 집중되며 혼조세",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JY3JiTnlCNzhNZGt5bjdYMklaRGVOUVhHOGhKTmhQU0g5LS1hMGtBN0t3eEg1V21qTGtfZjZpVHNmN0NJZk1JRXN4S3h4RGlJOXppQmlIcHhiNjZURjdiWW4tQUtGbm5vajJxM0RlYURMOFFNaEE?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-07-27T00:16:52+00:00"
     },
     {
-      "t": "코스피, 1.73% 오른 6806.27 시작…코스닥은 760.54",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EMmYzcjZhaXpsLTVLcVpPOHc3MVd0Q1NWRlJiVkpjY1FCYWg3RFJFVUhLdlBSR2h2cGpBbTZFRHRyUHNZYU1SQTdGMHRsaVg3U1JSdEd6aGRQaTM0YUw5VlZHYjV1TTJlTTNBWjl3a1RGbVE?oc=5",
-      "s": "마켓인",
-      "d": "2026-07-27T00:01:08+00:00"
-    },
-    {
-      "t": "코스피 115.65P 오른 6806.27 출발(1.73%↑)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5RWlob3F0TXh3VGw4ZllKY3F6WldLNzVzbTVoT0M5U3IyUm1tMmN4YmF6bEtJbDJZaDdSekp5ZHVqRHM1RW9DZTdVaEtoY2k4by1rTkkweXNpLWNzc1ZqYg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-27T00:00:58+00:00"
-    },
-    {
-      "t": "[스팟] 코스피 115.65포인트(1.73%) 오른 6806.27 출발 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QOUpCU2cya010NFpMaHgwMko0c3RxWEFNUmRtYnZYZkxCWUJOU0hUaVF2cTJYZ095bHh6Unc3M2dIclZQdUlsdFNjZTNKSURndWZEeWltcHl5SHYtTktUeF9nSVBISjBY0gFuQVVfeXFMT2NfdFBPR1YzWnJadFlscl9BTHBTemJwMkZaV3JQeHRvTjBYelVRdzZyWjYtVjl0akU2YlhBWUV0dzVJXzdZeWdKbVowVzJ0OERralNYckdsaDBNMXhoWmdsWjNEc3NiMm5MbUczWUE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T00:00:55+00:00"
+      "t": "[표] LME 비철금속 및 환율 동향(7월 24일)",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ldno1d0llclNkc1FJSmRNYTZpRW8zN0RMUmNvTVN1N21CbmZEZFhNbGNLYUtaTm52YWtUaE1wOVI4RC1QUE5lTGpBVk1yVkJIamZXUXpnWW5reFgtVmstbGtQSktvV3o3?oc=5",
+      "s": "철강금속신문",
+      "d": "2026-07-27T00:15:13+00:00"
     }
   ],
   "asof": {},
