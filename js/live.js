@@ -1,40 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T03:15:15+00:00",
-  "quotesAt": "2026-07-27T03:15:15+00:00",
-  "newsAt": "2026-07-27T03:15:15+00:00",
+  "fetchedAt": "2026-07-27T03:30:15+00:00",
+  "quotesAt": "2026-07-27T03:30:15+00:00",
+  "newsAt": "2026-07-27T03:30:15+00:00",
   "quotes": {
-    "kospi": 6615.18,
+    "kospi": 6610.43,
     "spx": 7411.98,
     "nikkei": 64764.01,
     "vix": 18.58,
-    "krw": 1466.09,
-    "gold": 4094,
-    "wti": 85.43,
+    "krw": 1465.3,
+    "gold": 4094.1,
+    "wti": 85.27,
     "dxy": 101.2
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -6.79,
+    "kospi": -6.85,
     "nikkei": 0.24,
-    "krw": -0.54,
-    "dxy": -0.27,
+    "krw": -0.59,
+    "dxy": -0.26,
     "gold": 0.65,
-    "wti": -4.34,
+    "wti": -4.52,
     "vix": -0.64
   },
   "news": [
     {
-      "t": "반도체 생산-수출 비중 10년새 2배로 증가...고용 ‘찔끔’ 늘고 수도권 집중 심화 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkxvc2dEU1ZYZWtrR1Qxc1ZBdnhzaWdXcmc0UzhrWmZpQV8yVkw1QW1nUzVpYlZBNjBSRUw4bGVkbzJIWnI3TXFmQXFlRkt3d19fLW5aazhSTVRlWDVtN1h4RWRZc0lrZUxnek9DM2xMUE9ZalJZX253aEdPd3N5SlBqV0lyUdIBmgFBVV95cUxPWFd0ZldjQUtnZzJydHg4Rmsxd09JVVMySHFFU29EN19tcFhLM0lWcV96b3dKRXE1OXNuV2hTVlhtSXdCSTJzTHYwcHlOajRqNE4zLW1NcWhWT2IybzVkTGFaU3BkMlhUOVJxem9ZQUtZWi00MzNHYUluQmJUT3NidUhhRmc4U2RyRDBQQl9jRmhmLWowUl92NDZ3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-27T03:02:57+00:00"
+      "t": "李 \"유가 안정시까지 최고가격제…여론 왜곡, 단호히 대응\"(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5McUxjbUtzeXNjNzR5MFFGMFZsSDJWZldENXB5NmtnNVg2OXZDSVZRM3lSdGJkWVpwZnQtSW4yQXk3eDFGaFZELWlPZHJyTE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-27T03:24:12+00:00"
+    },
+    {
+      "t": "AI로 제조업 지도 변화...한국 반도체 수출서 대만 비중 급증",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jci0zN2plel95UF90bE55T3RoS1AzcXpZREhHaU1QQ0wwYUFlVVIxS3pUenV0Y2w1Nk8taUlUSzRadDljS3lXQUZBOFZ1SzVuWXl3RDE4VkY0Um5nUVdGNVBzUzI5aEg0U1d6d0NBRkV2QQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-27T03:09:00+00:00"
     },
     {
       "t": "반도체 수도권 생산 3년새 80.7%→82.3%…한은 '제조업 지도' 개정판",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdERrb25VZWlqcFMyNGhrNUJEQ3VqSjN2OUg0YkQ5QnJCVHdfamE5cFhuQTNZM3pEQnllUlFQaU1UTTdLZjY0X0tyVE1wWGVZUW5sNnVOS3cyUWV5THBpNHV1NzhLakV5OWl6RmN3c2Q?oc=5",
       "s": "연합인포맥스",
       "d": "2026-07-27T03:01:04+00:00"
+    },
+    {
+      "t": "한은 \"AI로 반도체 공급망 재편…중국 수출 줄고 대만↑\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXbHFOV3VseFhKUW52eVNPYWVkLU04dm9IczBJVkFNRUhWbU8wdzJpRFZvZF9iTXlfQlppNHVkWFZQbUhNZzdKWS05ZDRRZE1ZcXc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T03:00:41+00:00"
+    },
+    {
+      "t": "S&P500 선물, 美·이란 공격 중단에 상승…美 국채금리↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQ2hvQjlzaWU4Qno4OGJCdl9mZEIzWkdzRDdvSEF5YTA3d29mOG1FY3ZmVy1yNUtHWkJBSTlab3ZFQ0xXOFU3Rm5KeU16aUtCQ0I5QzFyYzQ5ZTlLVVYzamZzTWFMUTQ0Y19NMmJ6N2s?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-27T03:00:28+00:00"
     },
     {
       "t": "韓 반도체 공급망 지도 변동폭 커졌다⋯'반도체 동맹' 대만, 수출 2위국 등극",
@@ -49,40 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-07-27T03:00:00+00:00"
     },
     {
+      "t": "\"美증시에 키옥시아 레버리지 ETF 9개 대기중\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93TWRXOTFVcmIybEpFWVo0X29nMm5yVDVndmFPbkVRalZqNk13a0h3cGo0MUk4ZXl0aU45WlQ3UVZkYkdFY21JRWpERlBUUmRkUUxTZkJ2Y2pHeVlqeVBhU9IBYEFVX3lxTE93TWRXOTFVcmIybEpFWVo0X29nMm5yVDVndmFPbkVRalZqNk13a0h3cGo0MUk4ZXl0aU45WlQ3UVZkYkdFY21JRWpERlBUUmRkUUxTZkJ2Y2pHeVlqeVBhUw?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-27T02:57:12+00:00"
+    },
+    {
       "t": "亞 증시 혼조세 속 중국 창신 메모리 주가 470% 폭등[Asia오전] - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12eUs0ZmhjM1hTU2JRRDNPeEVtZWxNYnMtc0NFaVk5dDFUMUdHclNsQ1hRZlJTNkxiRDMybENnQVVoRVJZVVlEMXlrN2wxLTJocGFJbHZFVVJyYmdDVk8xLWpheGY4cURH0gFuQVVfeXFMTkR1TGhwMXVjdTh3OUZlV0UzcDN2aFRoRXNaeVJzSUNqZUpocG5QV291eVhfbGR3aFdROHBQRkZTckRxQllkMWpBUUJEaE5WdThwRFpaVGk0ZmZ5a1BadWZtdjVWbF9qelFsVGpmWWc?oc=5",
       "s": "머니투데이",
       "d": "2026-07-27T02:56:06+00:00"
     },
     {
-      "t": "日 미쓰이부동산, 구마모토에 피지컬 AI 반도체 국제거점 구축",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TMTJPQzBGQ09fYllzZW1tcHFOeUdMNjhXOFZscXdHc2xCN3RBczFNTC1kVTVVUGRtQV9HbWhOVGVEc1NwdWZJaTJHcllreERLb0dyZjA1MFJXRTjSAWBBVV95cUxPX1lWUHlVSUJOem9TYmpBMWswUXd0aThReGZXbWV3d1JCMGJIZVUwQjB0U0JRZEhaaXRkZTlvSWNNR0gtemVoT2JUb2Z5YVRsWklsYzZGM0VVSmotRmx3UkI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-27T02:52:18+00:00"
-    },
-    {
-      "t": "유가 쇼크에 긴축 공포까지… 한·미 국채 금리 동반 급등",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aYUxvc3NYemZ1MDAxY1ZXdW4zd0c2eEtlTkFkcFBpR1NGaUxwdVJoWmp3WjNNOXhUVmZJa0lSQ2Fac1lSV1AtMFU0SnlGR0Q3?oc=5",
-      "s": "문화일보",
-      "d": "2026-07-27T02:43:35+00:00"
-    },
-    {
-      "t": "미래에셋생명 “반도체·전력 투자범위 확대”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81b25FOEJPMk52Q0NDVWpTWVk3MkxlQlVVYlJnUjNMbkI4QzVVRFlkVnFSTzlWRFc4UXU3d25nbkprZWZCVFYyN0RuU3RmNHRl?oc=5",
-      "s": "문화일보",
-      "d": "2026-07-27T02:43:30+00:00"
-    },
-    {
-      "t": "1조1천억 '새빛가속기' 첫 삽…반도체·신약 연구 새 전기(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWai1uYl9TNnZ1VFFaZzNDc0JwMThCSm9wVG9Sd2FKMmRrOWJLZl95bG9PM1E5b1BoVE9BSDlRQWVYQkpBczBHT2JiZGhmUHM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T02:33:00+00:00"
-    },
-    {
-      "t": "코스피, 장중 하락전환해 6,600대…삼전·닉스도 약세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zVHo0WTBoV0FiM2RjVTE1SmdHVk1NNHBfR2VZTUt4MWZ3RDFHaUpsYkhqd0dMb0djbGVmVjFfTHFOS3V6NWk4REd4RDNGaGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T02:32:50+00:00"
+      "t": "코스피 하락·코스닥지수 상승...네이버는 '급등'",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MMFpFd2JBbVlLUGFEWjFhWl8tMVplb3BKRmN5RDRseEt6bkMxYklJa1NNMnZGYjR6TUdjSVBrTk5FSWxpendyRm9SOGl5YVdydzZ2UjRlVnhjWjQ4bkE?oc=5",
+      "s": "YTN",
+      "d": "2026-07-27T02:53:00+00:00"
     }
   ],
   "asof": {},
