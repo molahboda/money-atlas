@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T10:00:15+00:00",
-  "quotesAt": "2026-07-27T10:00:15+00:00",
-  "newsAt": "2026-07-27T10:00:15+00:00",
+  "fetchedAt": "2026-07-27T10:15:15+00:00",
+  "quotesAt": "2026-07-27T10:15:15+00:00",
+  "newsAt": "2026-07-27T10:15:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
     "vix": 17.58,
-    "krw": 1468.88,
-    "gold": 4099.6,
-    "wti": 82.56,
-    "dxy": 101.28
+    "krw": 1466.78,
+    "gold": 4097.5,
+    "wti": 82.49,
+    "dxy": 101.25
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.35,
-    "dxy": -0.19,
-    "gold": 0.71,
-    "wti": -7.56,
+    "krw": -0.49,
+    "dxy": -0.22,
+    "gold": 0.66,
+    "wti": -7.64,
     "vix": -5.38
   },
   "news": [
+    {
+      "t": "100달러 넘나드는 국제유가에 물가 관리 비상…환율도 반등 여지",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OG45OGNzeEszRFl2Ukx3cnIwQ0FYbTY4ck9CY0VPZng5S2JsbmE3blk2ekdycTJSYjNoTl9yMW9iTkY2WWlyZEVjZWxZZ1c1QV9tR1FKbFpqTFVhaktVZk9NcDVMaC0yVDczcnVwWW95Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-27T09:59:00+00:00"
+    },
     {
       "t": "IRS 금리 중동 휴전 기대에 급락…현물보다 가파른 강세",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXbzZSZ2dvYWRqZkNEM09BR214SWFQNDQ5a0M2NlB5VjVlZ1BfdUFmNkNFcW5rOHkxYjZjOHVRN2kzOWdWcV9remU2cTRJdzVoOHFGT3JGZWpqNkdkb1diR0dhT29rTGFFUlBZYUVIcWTSAXRBVV95cUxObjFRTElOaGl4Z295V2E1dG5jcDF2UUZ0djJKUFpQdWJ2Wk9QMk5OazV5cUpxYUpUZm9uRVBvS0dMcUtmdmlQQ1ZlTVFNLUhONS1tcF9BdTNtWFRqeXo0bXMxYmIzOF9EMGVoNWY1TURpVWlsQQ?oc=5",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SQnpkM3V3T0xVRFdRY2NoNUxRd1RLQXNDdGN1aGF6Z2VpV1o3T0IwczJSVHBJSFdUV01oN2ZBR3o5MUZRb3VjV1hOQ2tHY1E?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-27T09:40:08+00:00"
+    },
+    {
+      "t": "'中 반도체첨병' CXMT 첫날 466% 급등…시총 712조, 美인텔 넘어(종합2보)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ekwwa2p3ZjEwZ2habGhYa0pyTnU2cnZCTmp1M2lhcHFKMHR6ckpTNmtESXBJaDMzakpOamZ0ZUR3UHY1MmtUTkJMV2RySXFRNGc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-07-27T09:26:53+00:00"
     },
     {
       "t": "구미, AI 반도체 핵심소재 육성 박차…전자유리·그래핀 산업 생태계 강화",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xRzQxd0VKMTV4OWVzV2NIYUg5bkcxYlNvTTNLVm05UGgxNUVWeGJZeU5vd1dlSmFfeFVrVkcwOUlDd05YVjd6aWkxUWJWaFU?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-27T09:03:09+00:00"
-    },
-    {
-      "t": "중국 반도체 상장에 코스피 오락가락...강보합 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aZGxVbXNfY2FEOHViUHNneGZ1T0gzcTF6b3N4NUc5MUY4Y0U3TVlOY0lId3c2VkVva2VPenI1YVFUT09MZC1WdU5QNlMzSnV4UkRuM1IxWk83WWZ4QVE?oc=5",
-      "s": "YTN",
-      "d": "2026-07-27T09:03:00+00:00"
-    },
-    {
-      "t": "'中반도체기업' CXMT, 상장 첫 날 시총 1위 등극…美인텔 넘어",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOODhlT2YySWtQYzYwUHRUenU3NFZELW9HaDZHRGhyb292ZnhsMjRUU3czY25ncUlBejVpaU9KS2V0bHctbHM2YjEycFFHVU50V2lQc2hYZHdEZHBacmxYWA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-27T08:55:20+00:00"
     }
   ],
   "asof": {},
