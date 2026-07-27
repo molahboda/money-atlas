@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T07:30:15+00:00",
-  "quotesAt": "2026-07-27T07:30:15+00:00",
-  "newsAt": "2026-07-27T07:30:15+00:00",
+  "fetchedAt": "2026-07-27T07:45:15+00:00",
+  "quotesAt": "2026-07-27T07:45:15+00:00",
+  "newsAt": "2026-07-27T07:45:15+00:00",
   "quotes": {
     "kospi": 6755.75,
     "spx": 7411.98,
     "nikkei": 64931.19,
-    "vix": 17.62,
-    "krw": 1466.78,
-    "gold": 4106,
-    "wti": 83.7,
+    "vix": 17.69,
+    "krw": 1469.07,
+    "gold": 4104.9,
+    "wti": 84.19,
     "dxy": 101.2
   },
   "daily": {
     "spx": -1.16,
     "kospi": -4.81,
     "nikkei": 0.5,
-    "krw": -0.49,
+    "krw": -0.34,
     "dxy": -0.27,
-    "gold": 0.86,
-    "wti": -6.28,
-    "vix": -5.17
+    "gold": 0.84,
+    "wti": -5.73,
+    "vix": -4.79
   },
   "news": [
+    {
+      "t": "원·달러 환율 1.9원 오른 1468.5원…외인 주식 매도세 영향(상보)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaaTBoWHJ6X2ZzYV93bmp2ZTQ1SzM5dlE3LWo0RkdEZUdlVldSa0ZXQkl6ZTFGVElJaTBNbXl0N2dGUHNlWWFmMXgwYTZodGNLekRaOFZGcTZYOFRZcHlRaA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-07-27T07:37:15+00:00"
+    },
+    {
+      "t": "증권사, 발행어음 금리 '들썩'···은행과 수신 경쟁 '심화'",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OVV95M3lEM0FoVmxwNnctWDNobDZlcUI0eHNsRGZHajhLLVI1R254SkptQ0dIREpzcFZtY1dpREd5VGRieXhlczJCcHI5dG9a?oc=5",
+      "s": "톱데일리",
+      "d": "2026-07-27T07:36:00+00:00"
+    },
+    {
+      "t": "외인 ‘팔자’ 불구 코스피, 강보합… 6700선 회복",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNmlHcWVrME5HSUUxdHZlZmQ0YnBGZlZYZkNHdkhqb0FVZ1ppQTJzdXZGWDJjRFh4ODVSZVhLcjB5VW1wcy1FTmxYWHZtdW5CdlUtMUhJTW9iamFRU2F1ZEx0SjB0TVVTMjEwZzNLN2_SAXRBVV95cUxOUTliZEpaTkx2T1N3bkxfWXlWRFBRWVV3dkxQN0tDS1pKT0NuVXRHVFozaWRFZzZBZzhYa2RzQVNweDdhTF83YTVwcDNJdzBvdnVSTEV4ZjdseDlEc0RLZHlhOWNqNF9Tdk1XTVRTb0FRQTliUw?oc=5",
+      "s": "IT조선",
+      "d": "2026-07-27T07:30:15+00:00"
+    },
+    {
+      "t": "中 CXMT 상장이 악재?…'한미 AI 동맹'에도 코스피 상승 제한(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPRUdBeGVlVDBGUGlZc2NFWFI1b1p3dU5UdnlYelc4eUhBNmZ6V2RwUEZtdnNFZFlSa2JkVkN2RzFEMzBjUGgzTzA4MndXaDI1OXo3LW0wc3hBRzTSAWBBVV95cUxQR3BQLTBOVWdNajQ4c1Y0QU5CeVF0TS1aRzV4Wk9QV0RpM0F2ZXVxTUVqMk15YTZLY0hBZU1rVkVVSUxHeHF0TnVZMjFXYmJfdUFtYlZMRXIzSkxiU1RBT0w?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-27T07:21:53+00:00"
+    },
     {
       "t": "‘강달러’ 베트남, 기준환율 달러당 2만5,300동 육박…역대 최고치 근접",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NY2YyTEJKWWZWVlZYMW9WMHIxSnBlanJ3LTFacVBRdVI4Z2ZyWDROdm1uSmQtN0xORmZyaVlYRkNRXzJ4Y2NKRE5icVg4T0IzZDdIMXpnNlZOSzdBb01yeUNnVlYxLXRCX2pKcA?oc=5",
@@ -35,6 +59,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10aDBWQkdZMFdnUzdpdjlXekNVZFdLeV9hZXdJbTFCeFk3Rk5jemtDakFTdFJxaUU1SlBZZDk4TzFlRnFENmNRT1MyT1VkWTJCMXFEVjNQZ3pTZkFl?oc=5",
       "s": "뉴스핌",
       "d": "2026-07-27T07:21:00+00:00"
+    },
+    {
+      "t": "에어부산 2분기 영업손실 355억원…\"고유가 부담·환율 영향\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYlpEeVpWdXlsLXBPWVREVE92bFJXVU9VbjJva3VIVmZvTGt6c2VUWDI4aGU5N1owT1NwdmlDMjgwb2gtZ3I3VHRub003bjVGTXhIcWUzSkg0NTVMcjlkTGRfMm90YnNZWXhRU9IBckFVX3lxTE4tdmVrYVJhYjZzOUx2SGNoZlJEVFZVaEcyMTBfQS1uSXBaeWZCT2twblFKMWVLSy0wTzdOaTBkWTNGTmVjUzB2aXU1c1VuemZQVkpFbUxOaUQ0VkxiSnk4Ym9sWHJ3dTBZcm4xYVp1VjRyQQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-27T07:19:43+00:00"
     },
     {
       "t": "\"美 국채금리 5%, 일시적 현상 아니라 '뉴 노멀' 될 수도\"",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-27T07:16:04+00:00"
     },
     {
-      "t": "AI 호재 vs CXMT 변수…코스피, 내내 강보합하다 상승 마감 [종합]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzVFFqdnlsY3l2OGs4MkFpaUlQa2VlWEhzdVIwV3k4YTZ2SFNtc25vNTc2bGtNbnFFWUtPQWhfNUZoQTNpcm1QbExibTFiVHQ4WGwxYmM0UTN4UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-27T07:09:28+00:00"
-    },
-    {
-      "t": "유럽 증시 급등…미·이란 긴장 완화에 유가 급락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aGxvYTlubUVtQy1QbE9IQzBSaTZqakFhOFBMeV9JaW5HZGNxajE3UkRRNVV6ZWM1WWdoRW1QZmlVSVR6dG81TDhic014b1haV01FSDFKOVYtbWhObnlxdnRwV1drQjNfLU5UU19jRXY?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T07:09:00+00:00"
-    },
-    {
-      "t": "코스피 6755.75 반등 마감…개인·기관 '쌍끌이 매수' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hUWR5R1JObXA2bXBXWFMtRWtYd1lQV3NFQk82Mkh5UkgwZDlRd2FUd2JsT3cyZDExS191ZkN6MFpHQk9rc0Jybm0tZWJ2SW5FR2JPZVpoSHAzMHVOaGlGeXdWSGZmVTlk0gFuQVVfeXFMTkJnclZON3B1MXR4OHY3XzVoc0pqQjNwQnNWbzJrZkJfdWZZdEhTckgydUpFZ1RxT2xHZkJjWVF3b0lRSlNHSC16eDREcnZxRHZsX1A5MjVjSjB6QjNnRG5oYTJCRVVfcUtmYjBzOHc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T07:08:45+00:00"
-    },
-    {
-      "t": "美연준, 유가 급등에도 7월 기준금리 동결 전망…골드만 \"소폭 인상, 효과 제한적\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5TmpLeU9QeXpZbU5ONG1pemFOZUxxRU53LVgwYUh4S3JwUlhYRFZidjZGbG1nT2FpdFlNcHJWQS01RGE3NG44aVl1R0dlNzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-27T07:05:28+00:00"
-    },
-    {
-      "t": "[속보] 코스피 0.97% 오른 6,755.75 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Kc0NqcEhnQTNmTHZKeFZIZjhHbXJjQmJfdWRLNGd4NUZaYVlyQmkxclRRaVoybzhfQ2w4U2hKa09SOVNmNVNkNENWVXFlQXR5QVZHU19VU0VBd0xGb2FONHNGV0t1b00?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-07-27T07:05:00+00:00"
-    },
-    {
-      "t": "AI·반도체 수요 타고 수익성 개선…두산 2분기 영업익 38% 증가",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdExzd0c2X3dMRVloZnItM01yNnpWNWd5b1Z0WC1jTTg5dWl1VklDTGc4VXFhWlBPS3U3NTl3elEtVWtxbGduWVM0STdNRUZtWkZRcWhKcjIzOVNZbGJ0MVhtMzNtYV9Vb19FdFNDR1lESFAwbENnS0E3TEVESmctOHpYVGR5dzZyeG1pMENNVQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-27T07:05:00+00:00"
+      "t": "[마감시황]코스피, 장중 급락 딛고 6755.75 마감…반도체 강세에 0.97% 상승",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sRF9CWF9seTAtaHQyRDM1dHBXbWttTERVSFF1b3V2a1Y4NGtFNW1hRFV5aDd4UEgzcEI2OFlDRmkwMUxJTUtzQ3lMS3pKR243dU50R2lGM2otN0pkSzA3c1d5VF9wWXB5RXdyZEl6S05zeGl3VVVrMjJpZUhyQQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-07-27T07:12:00+00:00"
     }
   ],
   "asof": {},
