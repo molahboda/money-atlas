@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-27T01:15:15+00:00",
-  "quotesAt": "2026-07-27T01:15:15+00:00",
-  "newsAt": "2026-07-27T01:15:15+00:00",
+  "fetchedAt": "2026-07-27T01:30:15+00:00",
+  "quotesAt": "2026-07-27T01:30:15+00:00",
+  "newsAt": "2026-07-27T01:30:15+00:00",
   "quotes": {
-    "kospi": 6780.76,
+    "kospi": 6705.1,
     "spx": 7411.98,
-    "nikkei": 64518.92,
+    "nikkei": 64155.6,
     "vix": 18.58,
-    "krw": 1463.58,
-    "gold": 4112,
-    "wti": 85.17,
-    "dxy": 101.2
+    "krw": 1464.58,
+    "gold": 4103.8,
+    "wti": 85.29,
+    "dxy": 101.18
   },
   "daily": {
     "spx": -1.16,
-    "kospi": -4.45,
-    "nikkei": -0.14,
-    "krw": -0.71,
-    "dxy": -0.26,
-    "gold": 1.09,
-    "wti": -4.64,
+    "kospi": -5.52,
+    "nikkei": -0.71,
+    "krw": -0.64,
+    "dxy": -0.28,
+    "gold": 0.89,
+    "wti": -4.5,
     "vix": -0.64
   },
   "news": [
+    {
+      "t": "[속보] 코스피 6600 반납…장중 하락 전환 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tVDdYZlVrRF9XWUxoWnJSWkItaHZiV3piWDlWblBOMGNoSmpPOHluN0tMWU5EMlZUVk9KVEhYQlFCbk84NmVnUG5RT1RXbjhwVWFTZ2dST0ZSbmhNeGtxb2Nsb3dUVXdI0gFuQVVfeXFMT2FHNGZCd1U0RC1hLVFoaGtjYVdhRkNKN3VkRjQtYzR2S19EbTNNLUR5VFpQSUFQeVVXaGt4TnM0T0pINTVqRTNmeG0wcnIzVzhzd0JOOW41bkI4UnN0WHRIbXlQWHc2UWZuSlZLcnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-07-27T01:25:26+00:00"
+    },
+    {
+      "t": "트럼프, 이란전 두고 ’갈팡질팡’…美, ’강제노동 관세’ 띄우기",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtMlA5bXBBODlNQ3dCRGpXSnBNRmNZQVh1eG9iX3BLRDNLcFdVZDhVSmY5alJOdTl4T1ZJTVV6dFZETXVXSHVwbHBac1htTkpYbGVtVXdrOGpmLVVLXzR6TmFZN3JyazA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-27T01:16:00+00:00"
+    },
+    {
+      "t": "미·이란 공격 중단에 국제유가 5%↓",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VOG1sUmtLR0FVRlRDUnhPUDBYVjVYM0FMa1U3S0JyQWlocHFqck95VzFXUFloMzhtdFRyUFc0RXE2OXJBUUw5bUQxcDdpeUVzSUhzZGJMNnV5UV96ZHBnX05qOXR2UWlFaFMwbVZlUV8tU241?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-07-27T01:13:58+00:00"
+    },
+    {
+      "t": "코스피, AI 협력 기대에 반등…코스닥 3%대 강세",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQTBfM0lGYXZGUkhiQjEyWjNlMFBITXYybzNweVd0RjJ0a2poSUFIMXgySjVfNDd1NGM2UDJDbWRFRFl6Mld0Y0lEcDRkZGIyYWxFUUpvOFYtb1FFU21fZ1lvcU52ZlE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-07-27T01:13:00+00:00"
+    },
     {
       "t": "개인 9000억원 ‘사자’에 코스피 6710선 안착…엔비디아 품는 네이버 9% 급등",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85RkNhZWFQeFNrNWJjX29SaHRpZkVCVlM4dDhIMjdzbS1CTDVrb19aUFdyV1hxVG9CRjlIclBTa2VpZ2NvSFBTaWVxTFpzU3c?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdXVYemxTcVNfdE9ZTjdaTDV4VHlnV2oxT0piX2FGajVNLWdCTWJTQjl3X2VnQi0tNG1qaG4ya2RjNjVjdXBQcmk2cGxyYThVaFdzUGtqenAxcEU?oc=5",
       "s": "에너지경제신문",
       "d": "2026-07-27T00:59:59+00:00"
-    },
-    {
-      "t": "[포토] 코스피, '강보합권 등락 이어가'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYNEF4TWtPdXl6NlllOTBWelNySGlnN2M1NjlfZE9NcFpreV9tRHU0bFhWeGdCM0NmZUNMOTIzNGdTU1NfMU0zN3VFbl9VNVZvVnlLTkowMExqUXRWV28zcg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-27T00:59:13+00:00"
-    },
-    {
-      "t": "미·이란 군사 충돌 일시 중단에 유가 5% 이상 급락",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KS0dneEU3MXdtbnFnOXRNUXFib01tbXpZZ2dwU2JiVzlFOEVHTVdRcjNYTUJiNjhoZ2xiMlpIWVlFT2h5UjhBYTBwN2NZdktXUW5lTzhnU1dvbW9BN1hvX1FhcS1ZaS1hNHpWbGNPWQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T00:59:00+00:00"
-    },
-    {
-      "t": "골드만 \"美중간선거 앞두고 증시 변동성 확대 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nQ2Q5UTlraFdhRGtaUENsMktUMS1jMUY1Vk5WYUZ0NWZzV2hTbFhMbDM1ekZKcFk4YkpxY1NYLXV4SjBIcFA0T2NUX2hfdkhFX0tENjZzSTM2eVRFNmxDRTl3OXRDSVJ3cEJsZHJ2a3JMUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-27T00:57:44+00:00"
-    },
-    {
-      "t": "李대통령 “유가 불안 해소될 때까지 최고가격제 지속”",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zZjNCUW9wcjF4dDJmeUlIV1lVclN5d2pDdGl1QWpVc3RQTXllUUwtbnVmaFZfTTJ0dk1vdVpMUlZQM1Q1YjFPV0FxTnB5SW11NWtMQXNuNXc1YmRybmV3TEE5NzVVUHViSExEaERYSmhobDBkN01V0gFmQVVfeXFMT2xoZmdORm1CT3JtanYyTEdjZ1dnSTYxbUVTV2t3cjJVbUFpdnRIVFNkVU9fVkRGZHNIeXEtTUYzYkFLbTRzclN1bUNSdkdrOVJESEdmOUN6RkxGVFprMXZmeFFaVUVn?oc=5",
-      "s": "동아일보",
-      "d": "2026-07-27T00:57:00+00:00"
     }
   ],
   "asof": {},
