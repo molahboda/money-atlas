@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-28T10:15:21+00:00",
-  "quotesAt": "2026-07-28T10:15:21+00:00",
-  "newsAt": "2026-07-28T10:15:21+00:00",
+  "fetchedAt": "2026-07-28T10:30:21+00:00",
+  "quotesAt": "2026-07-28T10:30:21+00:00",
+  "newsAt": "2026-07-28T10:30:21+00:00",
   "quotes": {
     "kospi": 6023.66,
     "spx": 7413.18,
     "nikkei": 62364.92,
-    "vix": 18.96,
-    "krw": 1460.68,
-    "gold": 4024.9,
-    "wti": 80.8,
-    "dxy": 101.62
+    "vix": 18.95,
+    "krw": 1460.18,
+    "gold": 4019.9,
+    "wti": 81.03,
+    "dxy": 101.63
   },
   "daily": {
     "spx": 0.07,
     "kospi": -9.97,
     "nikkei": -3.95,
-    "krw": 0.18,
-    "dxy": 0.08,
-    "gold": -1.22,
-    "wti": -2.19,
-    "vix": 1.55
+    "krw": 0.15,
+    "dxy": 0.09,
+    "gold": -1.34,
+    "wti": -1.91,
+    "vix": 1.5
   },
   "news": [
+    {
+      "t": "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZl9WYmROdUtzcTB4UFRLU0gtVzZuSjFLOXkweUlOSWFBS2dqUHNScnZLS3dHd09hT3VDbXBJanNqeEdfUnRfM2xEcElmeU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-28T10:23:07+00:00"
+    },
+    {
+      "t": "코스피 10.8% 폭락... \"AI투자 사이클 의구심 커져\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HeXpibTdhUEF4RzRzbVpqY1V1U2dzMjFNVVpZYng1UERucko4alhISi1NVGVlbU8yalJpajlBLWJzTDJWUlNHMGt6Wlc1RnZOcGRMUnk1REU0QU5Zd0h6bWZOM1B2cGxUZ0UzQlNseVhOc1VuQ1VpOA?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-28T10:21:00+00:00"
+    },
     {
       "t": "[집중진단] 공포에 무너진 코스피 ‘-10% 대폭락’…정부, 레버리지 칼뺐다 “투자 20% 제한 검토”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZXJETVd1TjJ0ZzZfTXZsaUtFQUJKOHlJZXo2cm5jdUpCdXNRTUtsd1VqdGN4NG1EblphdGFlTVl4TUwwV1U2bkR1aWI4bzg?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CeEdtZ0tLNnlRRVQ2SUUwd3VuZ0wtMU90VDhKT01nTEJGRW5yVXIxYWpNalVHak93QkhLY3R1OGYwMWt6MTZ0TFRBQ3E1OWc?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-28T09:24:50+00:00"
-    },
-    {
-      "t": "유럽 증시, 장 초반 상승 출발…유로스톡스 0.43%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Y29DbDdVUjNPM3ZyTkNBNnRBZ3MyNnJVVkJrRk9sMy1aODRsMmg0VWRhRkZWZHdDcGNvTXVYNG1SQjBwRngxRFJYb0xJUEwtNFVvZjJHZVpEOHctNEdEMFpUNWV4NzJDVkUwVDFrVE3SAXRBVV95cUxPX0lLSE90RHB1dTB6ZnB0Nm5vMjFidW43TVNTT3dTT2Q4b0NiZ21EVFVadWRqejlsREh0Q0xpYnl5am5iZUhwcTVTZnFRVlBpRXFWT2gxTENDUHlhbTUyM0ZFUUtlaG95T1FzMjNCanpHQzE2aQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-28T09:20:58+00:00"
-    },
-    {
-      "t": "반도체주 급락에 ‘검은 화요일’…코스피·코스닥에 서킷브레이커까지",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2YU5tUWRFMFdsMmF1aUdWVzV3RVVndzlMS0ZJMWcxSnR6V0Q1THYtaFQ5bUpqazFVTUtrdVdtZ3ctbWJMcXhick5aVjhUNXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-28T09:13:08+00:00"
     }
   ],
   "asof": {},
