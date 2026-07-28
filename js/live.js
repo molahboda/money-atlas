@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-28T10:00:28+00:00",
-  "quotesAt": "2026-07-28T10:00:28+00:00",
-  "newsAt": "2026-07-27T12:15:15+00:00",
+  "fetchedAt": "2026-07-28T10:15:21+00:00",
+  "quotesAt": "2026-07-28T10:15:21+00:00",
+  "newsAt": "2026-07-28T10:15:21+00:00",
   "quotes": {
     "kospi": 6023.66,
     "spx": 7413.18,
     "nikkei": 62364.92,
-    "vix": 18.88,
-    "krw": 1460.66,
-    "gold": 4031.2,
-    "wti": 80.71,
-    "dxy": 101.58
+    "vix": 18.96,
+    "krw": 1460.68,
+    "gold": 4024.9,
+    "wti": 80.8,
+    "dxy": 101.62
   },
   "daily": {
     "spx": 0.07,
     "kospi": -9.97,
     "nikkei": -3.95,
     "krw": 0.18,
-    "dxy": 0.04,
-    "gold": -1.06,
-    "wti": -2.3,
-    "vix": 1.12
+    "dxy": 0.08,
+    "gold": -1.22,
+    "wti": -2.19,
+    "vix": 1.55
   },
   "news": [
     {
-      "t": "잘 벌어도 '폭락'…빅테크·반도체 운명 가를 ‘AI 투자 청구서’[이번주 美 증시는]",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5POGEycmJpYXU3STU4QzNLT2o1MnlmenMzUUxxWjF6SWJENXdvREhFVUdFQkw0TnVRMG1nd1NnZDkyOTBOU1dQRy1odVJ1aFg0N040?oc=5",
-      "s": "머니투데이",
-      "d": "2026-07-27T12:05:07+00:00"
-    },
-    {
-      "t": "중국, 미 AI 제재·강제노동 관세에 “전형적 일방주의···필요한 조치 취할 것”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjLXZucU9QREtyT050d1U3MXJiSXlGOHNrNnIxang5S25SdUhGZlQ3Z2JHV0dWNEVMN05WTDVYNVBMeGhBa056aGlLY2JVZUNBMGdrSHg1Ul9QZ9IBX0FVX3lxTE5vd1p1c1FRVmlQZkNuVk5ncHpGMEJnRW1icjJLUFJTODUtOTNEcFRDSUdTWUV0RWszTXRwSFVNRGNfSmxzeTlpbm9KUkN0NGdJbVQzeW1uZjRjcDQ0RzBB?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-27T11:57:00+00:00"
-    },
-    {
-      "t": "반도체, 호남만 챙긴다고 ?… 97%가 수도권·충청권 생산",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kNUszX2ZWVlIyMnhFZlR2VFhaTUVtLVRrb2REVkFoZVl1TTJ0RWJlVGpsd1hEUmRfUWJ3RllQU2ZNbVdYbG5hT1ZXamdMSTA?oc=5",
+      "t": "[집중진단] 공포에 무너진 코스피 ‘-10% 대폭락’…정부, 레버리지 칼뺐다 “투자 20% 제한 검토”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZXJETVd1TjJ0ZzZfTXZsaUtFQUJKOHlJZXo2cm5jdUpCdXNRTUtsd1VqdGN4NG1EblphdGFlTVl4TUwwV1U2bkR1aWI4bzg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-27T11:56:03+00:00"
+      "d": "2026-07-28T10:04:20+00:00"
     },
     {
-      "t": "中, 美 ‘강제노동’ 관세에 “전형적 보호주의…단호히 반대”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlTVpVejVJRy1ydTVYSS1jSVJzNnJJVHFmLU92dW80RnJkQjlmc3J0UEpEYUV5QzYxY0V3UXNibERKTzJaSnVqNEJsSEp4b1Q5NUdWTHJR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-07-27T11:54:21+00:00"
+      "t": "[시사플랫폼] “코스피 두 자릿수 폭락 ‘검은 화요일’…중국 반도체 위협”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNXBJYWo0UEFwN2tfaHhxNFpmMGVJMmVDNHNQLXFtNWticHl1Rm5zdl9VUXZ6clpkQlVnOXBoTmRwd2M0TjJiX2l0NmM4REE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-28T09:47:37+00:00"
     },
     {
-      "t": "이번 주 연준 결정 \"이례적으로 불확실,\" 골드만삭스 언급",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ta1JXMFpBeEJwYjhvYnlaeVNvUmpVQnF2Q2lydndUanZSdE1CYUhkMS1jaDkxNXdrdU9sOVVGTk01UHBxYXcwb0ZrQTdOVVZncHgxRU80RzJPVDJieGdnckd5VlBqTkVRQlE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T11:54:00+00:00"
+      "t": "출렁이는 코스피, 앞으로도 계속된다?…구조적 변화 결과로 분석",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhbDZySGhNYnptaVZsazJZcFZHc2gteVlJRXFvSUpkUDA1ZUppWXRTaGlYRUZqMVR5dXp3NjV3b1RaUnB2UTlRNXBjX2piLXU3N1JDNzViMkJVN2MzbTMzMEk2WFdqLXM?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-28T09:44:00+00:00"
     },
     {
-      "t": "달러-원, 뉴욕장서 1,470원 초반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wZ1pGRERsbXVhbGhFVy1YeTN2N2tRRVU3MThBVDN0RDU4NHZaWUx6NHZ2c1FPVi1tbmtQZUc0VnNsb3k1a0tBYVdKN1dxNjg1X3FJY01QelJURFRMSVpTLUJDaHhzUkR2NTUzZXBNQmNldw?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-27T11:53:29+00:00"
+      "t": "미 연준 ‘포워드 가이던스’ 폐지…“자산가격 변동성 커질 것”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MN284RkctdkxSWFBIdDFKZHdxNHRSUDJtLUswVDdqWm4zRHMzc2J1R1NFQWpMTUJaNl9oYVd6eHZUdlNwcC11S1poZXR3czFRVlN5Zy1QWkFCeGM0NlJxSmlnYmJFTnc?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-28T09:44:00+00:00"
     },
     {
-      "t": "파운드화, 연준·영란은행 회의 앞두고 달러 대비 소폭 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtYVpUOWcxNVZlNk8yM3dyeHlPMm56bk5IOXhrQ3BYdUlTZ05JSW9QVHVSa3UzZll6N3JvYUM3NUF4bFYxamJPZkd1cWpPQWZIa3hOVkU2ejBjbXN6SFliQU9lb19zdEE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-27T11:47:00+00:00"
+      "t": "드림텍, 반도체 사업부 수장으로 삼성전자 부사장 영입",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZT00teklxQU9GQUdGRkEyMkZTblFpVjUzQmljNmMtYnZidTVjOTcwcWRRcGlzcnJMdURmNmJua1Q0R3JuSkhwQ283allpUFVvZmdLYkpnQ2w0YzdGLUFfYkd0YjV1QQ?oc=5",
+      "s": "디일렉",
+      "d": "2026-07-28T09:38:22+00:00"
     },
     {
-      "t": "회사채 금리 2년 8개월 만에 최고…우량채만 ‘뭉칫돈’",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fLUJYNGxtV2JsMndJcFBVYzJyTWRYaHZDQ0JZN1pDTEVaNXFnWWRxQkZ2aEtxUF9Sd3U1eTdadTVWd0Vrb2JzRmZHcnJGOVd3eG1xLWtjaVVKRTlkT1oxT0RjZUo2MEJKT2VKa3B1WGI3dw?oc=5",
-      "s": "마켓인",
-      "d": "2026-07-27T11:44:22+00:00"
+      "t": "IRS 금리 하락…선물 대비 비교적 약세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94ZDZKVWhGeFJSQzRKX0FoZzFyYXl5dFZEZTFocXlYQVRLU3FaWkFUX09sUDhxRkEwQVJLZmhkNzBRWjUwNUVudUtDZDd1emhpN3AzcjNtai1RVUdkOGNLQ1FmYzNNSEZkNzZxeFQ5MWjSAXRBVV95cUxNbGkyRHpQSW5vTzdQbElPMXc0M2FkLUF4c3l2NVFkZzV4ZWM3clk3VlBZUnUtRUxuUm5NanMzMXVhWGdBeHppc2ZSTkVTbHItNXZ6em5fdkxpMW11bHQtd2VQWE5SNXNIY09jZ1VNRkwteDVrQw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-28T09:34:55+00:00"
     },
     {
-      "t": "미 ‘강제노동 관세’는 무엇인가?...12.5% 부과 한국 영향은?",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0xsMjZ4WEFOYWFUa2VWVWdGMnNvbEQzMF9INE5iQlNrNjR5aEp2LVg1NUtEWm5Ja19fYjN6cFVFRzRLd1RmaGE0UkV5em5wUGpneFdnazI0N1hJRmJEdEdXck44bFZ6NW96akVYTk1jeEZOclBJSEdaSmRURGV2TUp3eWfSAYcBQVVfeXFMTWFyUVRiNldhVDQzT0dFYWFobzdIWmR1SGkzQnJQaEl1OWl0NGNaLWhZalVoZGtqUF96YnBzbC1wZG5aMnJDcXJxUkFKemNFRjJaWFVhVnZxRVBIRkFiRU5GWlRhdDdha1ZzNFJkVDRDR2ZfXzV3ekdWWklPdkpNempIY3hQa1Rj?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-07-27T11:31:19+00:00"
+      "t": "AI가 바꾼 반도체 판도…“구미 중심 남부권 공급망 구축 서둘러야”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xM0stTzVTZTVFU043X2VraVRkX3lncEc5OGtLa1BqUHRTVXc3ZFc2cmc0SXVtVXV4bnN3VGZwNHdLV3NxbDhBUjd0REY4UnVuRnNqb0Q4bFZsN0diRGhWRjJmVVE2eHFXWE13TDRnYw?oc=5",
+      "s": "kyongbuk.co.kr",
+      "d": "2026-07-28T09:25:13+00:00"
     },
     {
-      "t": "中, 美 '강제노동' 추가 관세에 \"단호히 반대\" 반발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NXBTVWJfMEw3N0hyc0hmQ0NOY041VHFnbVNmRFZ0S185N0dJUkJHZ1Z3RF84VDF1bXNrLWdCRFBGY3hJZ1RIbk9IdzRjbTh3Z0lFZTBTZ0xqVFNzOUoySg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-07-27T11:18:22+00:00"
+      "t": "증시 불안에 금리 인상까지… 마통 끌어쓴 빚투족 '이중고'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CeEdtZ0tLNnlRRVQ2SUUwd3VuZ0wtMU90VDhKT01nTEJGRW5yVXIxYWpNalVHak93QkhLY3R1OGYwMWt6MTZ0TFRBQ3E1OWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-28T09:24:50+00:00"
+    },
+    {
+      "t": "유럽 증시, 장 초반 상승 출발…유로스톡스 0.43%↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Y29DbDdVUjNPM3ZyTkNBNnRBZ3MyNnJVVkJrRk9sMy1aODRsMmg0VWRhRkZWZHdDcGNvTXVYNG1SQjBwRngxRFJYb0xJUEwtNFVvZjJHZVpEOHctNEdEMFpUNWV4NzJDVkUwVDFrVE3SAXRBVV95cUxPX0lLSE90RHB1dTB6ZnB0Nm5vMjFidW43TVNTT3dTT2Q4b0NiZ21EVFVadWRqejlsREh0Q0xpYnl5am5iZUhwcTVTZnFRVlBpRXFWT2gxTENDUHlhbTUyM0ZFUUtlaG95T1FzMjNCanpHQzE2aQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-28T09:20:58+00:00"
+    },
+    {
+      "t": "반도체주 급락에 ‘검은 화요일’…코스피·코스닥에 서킷브레이커까지",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2YU5tUWRFMFdsMmF1aUdWVzV3RVVndzlMS0ZJMWcxSnR6V0Q1THYtaFQ5bUpqazFVTUtrdVdtZ3ctbWJMcXhick5aVjhUNXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-28T09:13:08+00:00"
     }
   ],
   "asof": {},
