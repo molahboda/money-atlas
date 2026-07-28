@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-28T10:30:21+00:00",
-  "quotesAt": "2026-07-28T10:30:21+00:00",
-  "newsAt": "2026-07-28T10:30:21+00:00",
+  "fetchedAt": "2026-07-28T10:45:21+00:00",
+  "quotesAt": "2026-07-28T10:45:21+00:00",
+  "newsAt": "2026-07-28T10:45:21+00:00",
   "quotes": {
     "kospi": 6023.66,
     "spx": 7413.18,
     "nikkei": 62364.92,
-    "vix": 18.95,
-    "krw": 1460.18,
-    "gold": 4019.9,
-    "wti": 81.03,
-    "dxy": 101.63
+    "vix": 18.88,
+    "krw": 1459.91,
+    "gold": 4020.5,
+    "wti": 81.39,
+    "dxy": 101.6
   },
   "daily": {
     "spx": 0.07,
     "kospi": -9.97,
     "nikkei": -3.95,
-    "krw": 0.15,
-    "dxy": 0.09,
-    "gold": -1.34,
-    "wti": -1.91,
-    "vix": 1.5
+    "krw": 0.13,
+    "dxy": 0.07,
+    "gold": -1.33,
+    "wti": -1.48,
+    "vix": 1.12
   },
   "news": [
+    {
+      "t": "연준 결정 앞두고 달러 강세…파운드화 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRFdVYVoyRHYzWlNDOGpNbHdrbkxycEJtTE9CVVJCUzhfQ3IyaUlQX0dNOWRGcGlKTHJEQjg4c1ppQ01qSjR0b1BKaV9ELTlmMVVOb2ZfRmpONmxDZnRqX1ZSX2JXZWM?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-28T10:29:00+00:00"
+    },
     {
       "t": "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZl9WYmROdUtzcTB4UFRLU0gtVzZuSjFLOXkweUlOSWFBS2dqUHNScnZLS3dHd09hT3VDbXBJanNqeEdfUnRfM2xEcElmeU0?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-28T10:23:07+00:00"
+    },
+    {
+      "t": "[베트남 증시] 유가 하락에 투심 개선, 소폭 상승...外人도 매수세 우위",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5peThuU01QTm1aRGM2dXFLMExnaExtdkhpSllWZ1phV0Izd0l5MVZxdENNVFhOcm02czlLT1JwTG11VDhPLVYxTllRTnVoVTNZbGZqN3Y1UzRwdVYx?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-28T10:23:00+00:00"
     },
     {
       "t": "코스피 10.8% 폭락... \"AI투자 사이클 의구심 커져\"",
@@ -37,10 +49,22 @@ window.LIVE_DATA = {
       "d": "2026-07-28T10:21:00+00:00"
     },
     {
+      "t": "[숏폼] 샌프란 AI서밋 '반도체 성장 동력 기대'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1URXVNY1plQ2RkR0lnUDZ4emx0YjJJcU5kM0lpcFp1ZExoWjBtcGI0TUZKaGtUcFVGTGJvQUpWZ191UFZmczRrbHQ3SlZlNnM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-28T10:04:22+00:00"
+    },
+    {
       "t": "[집중진단] 공포에 무너진 코스피 ‘-10% 대폭락’…정부, 레버리지 칼뺐다 “투자 20% 제한 검토”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZXJETVd1TjJ0ZzZfTXZsaUtFQUJKOHlJZXo2cm5jdUpCdXNRTUtsd1VqdGN4NG1EblphdGFlTVl4TUwwV1U2bkR1aWI4bzg?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-28T10:04:20+00:00"
+    },
+    {
+      "t": "심상찮은 中 반도체 굴기, 美 규제까지 무력화 [코스피 검은 화요일]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SSHdMT3dncGJWZEtVWnhUZlZnMUM4TTZXS1NmSWNZb2R0SEVmTXlKem94dV9VMklOMUhGY1ZhQkRXXzBYVGRUR0N5OHpTVEE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-28T09:56:45+00:00"
     },
     {
       "t": "[시사플랫폼] “코스피 두 자릿수 폭락 ‘검은 화요일’…중국 반도체 위협”",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MN284RkctdkxSWFBIdDFKZHdxNHRSUDJtLUswVDdqWm4zRHMzc2J1R1NFQWpMTUJaNl9oYVd6eHZUdlNwcC11S1poZXR3czFRVlN5Zy1QWkFCeGM0NlJxSmlnYmJFTnc?oc=5",
       "s": "한겨레",
       "d": "2026-07-28T09:44:00+00:00"
-    },
-    {
-      "t": "드림텍, 반도체 사업부 수장으로 삼성전자 부사장 영입",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZT00teklxQU9GQUdGRkEyMkZTblFpVjUzQmljNmMtYnZidTVjOTcwcWRRcGlzcnJMdURmNmJua1Q0R3JuSkhwQ283allpUFVvZmdLYkpnQ2w0YzdGLUFfYkd0YjV1QQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-07-28T09:38:22+00:00"
-    },
-    {
-      "t": "IRS 금리 하락…선물 대비 비교적 약세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94ZDZKVWhGeFJSQzRKX0FoZzFyYXl5dFZEZTFocXlYQVRLU3FaWkFUX09sUDhxRkEwQVJLZmhkNzBRWjUwNUVudUtDZDd1emhpN3AzcjNtai1RVUdkOGNLQ1FmYzNNSEZkNzZxeFQ5MWjSAXRBVV95cUxNbGkyRHpQSW5vTzdQbElPMXc0M2FkLUF4c3l2NVFkZzV4ZWM3clk3VlBZUnUtRUxuUm5NanMzMXVhWGdBeHppc2ZSTkVTbHItNXZ6em5fdkxpMW11bHQtd2VQWE5SNXNIY09jZ1VNRkwteDVrQw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-28T09:34:55+00:00"
-    },
-    {
-      "t": "AI가 바꾼 반도체 판도…“구미 중심 남부권 공급망 구축 서둘러야”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xM0stTzVTZTVFU043X2VraVRkX3lncEc5OGtLa1BqUHRTVXc3ZFc2cmc0SXVtVXV4bnN3VGZwNHdLV3NxbDhBUjd0REY4UnVuRnNqb0Q4bFZsN0diRGhWRjJmVVE2eHFXWE13TDRnYw?oc=5",
-      "s": "kyongbuk.co.kr",
-      "d": "2026-07-28T09:25:13+00:00"
-    },
-    {
-      "t": "증시 불안에 금리 인상까지… 마통 끌어쓴 빚투족 '이중고'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CeEdtZ0tLNnlRRVQ2SUUwd3VuZ0wtMU90VDhKT01nTEJGRW5yVXIxYWpNalVHak93QkhLY3R1OGYwMWt6MTZ0TFRBQ3E1OWc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-28T09:24:50+00:00"
     }
   ],
   "asof": {},
