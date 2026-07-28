@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-28T10:45:21+00:00",
-  "quotesAt": "2026-07-28T10:45:21+00:00",
-  "newsAt": "2026-07-28T10:45:21+00:00",
+  "fetchedAt": "2026-07-28T11:00:21+00:00",
+  "quotesAt": "2026-07-28T11:00:21+00:00",
+  "newsAt": "2026-07-28T11:00:21+00:00",
   "quotes": {
     "kospi": 6023.66,
     "spx": 7413.18,
     "nikkei": 62364.92,
-    "vix": 18.88,
-    "krw": 1459.91,
-    "gold": 4020.5,
-    "wti": 81.39,
-    "dxy": 101.6
+    "vix": 19,
+    "krw": 1459.44,
+    "gold": 4023.5,
+    "wti": 81.02,
+    "dxy": 101.61
   },
   "daily": {
     "spx": 0.07,
     "kospi": -9.97,
     "nikkei": -3.95,
-    "krw": 0.13,
+    "krw": 0.1,
     "dxy": 0.07,
-    "gold": -1.33,
-    "wti": -1.48,
-    "vix": 1.12
+    "gold": -1.25,
+    "wti": -1.92,
+    "vix": 1.77
   },
   "news": [
     {
@@ -49,6 +49,18 @@ window.LIVE_DATA = {
       "d": "2026-07-28T10:21:00+00:00"
     },
     {
+      "t": "[亞증시-종합] 반도체 쇼크에 中·日·臺 하락…홍콩↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NYUJvZlBtUHdIckhpUUxORXlKMXctUVVtRGhpWWFSYkZldVo1SC01T1BIZTBweDVSVFJsZHhFRUhGTjgwMVFFME9jdlVLUGN4NDZYQ2JvQ3VUdi1zRUNSbU9FM2I0YkotRmFEdm9FQVQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-07-28T10:16:36+00:00"
+    },
+    {
+      "t": "트럼프 “금리 내리면 미국 GDP 12% 성장”",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSU15WDJoeVRieXVUZThPOVI2T0hiem9FZi12dWg1UEtPWU1EX1Z3RFYzZUlVX3ljc01ia09TbjdQY04xS05hZTh1MGl3alhxdHJXQWVXbkEtTUt0LWoyT0x6VDU5Yy1LTGNuQXIwMVRWYkl2Z0lMcXdVUkpGN0lRTXpWTWdid9IBbEFVX3lxTE5ZWG02NURLZ00wOWZLc1ZkZUp4NTdFMHlJdjdPVUwxYjRuUk1kMTRtaVVPN2FxaFYxNVFuSjZRYmVpbkdLV0lMQ3p2WjFiXzJIYjNDc3hZTHZ3cF9obVJ5TjhNdHM2U0c0MU1XMg?oc=5",
+      "s": "국민일보",
+      "d": "2026-07-28T10:12:00+00:00"
+    },
+    {
       "t": "[숏폼] 샌프란 AI서밋 '반도체 성장 동력 기대'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1URXVNY1plQ2RkR0lnUDZ4emx0YjJJcU5kM0lpcFp1ZExoWjBtcGI0TUZKaGtUcFVGTGJvQUpWZ191UFZmczRrbHQ3SlZlNnM?oc=5",
       "s": "v.daum.net",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNXBJYWo0UEFwN2tfaHhxNFpmMGVJMmVDNHNQLXFtNWticHl1Rm5zdl9VUXZ6clpkQlVnOXBoTmRwd2M0TjJiX2l0NmM4REE?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-28T09:47:37+00:00"
-    },
-    {
-      "t": "출렁이는 코스피, 앞으로도 계속된다?…구조적 변화 결과로 분석",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhbDZySGhNYnptaVZsazJZcFZHc2gteVlJRXFvSUpkUDA1ZUppWXRTaGlYRUZqMVR5dXp3NjV3b1RaUnB2UTlRNXBjX2piLXU3N1JDNzViMkJVN2MzbTMzMEk2WFdqLXM?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-28T09:44:00+00:00"
-    },
-    {
-      "t": "미 연준 ‘포워드 가이던스’ 폐지…“자산가격 변동성 커질 것”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MN284RkctdkxSWFBIdDFKZHdxNHRSUDJtLUswVDdqWm4zRHMzc2J1R1NFQWpMTUJaNl9oYVd6eHZUdlNwcC11S1poZXR3czFRVlN5Zy1QWkFCeGM0NlJxSmlnYmJFTnc?oc=5",
-      "s": "한겨레",
-      "d": "2026-07-28T09:44:00+00:00"
     }
   ],
   "asof": {},
