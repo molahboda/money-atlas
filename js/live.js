@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T12:45:22+00:00",
-  "quotesAt": "2026-07-29T12:45:22+00:00",
-  "newsAt": "2026-07-29T12:45:22+00:00",
+  "fetchedAt": "2026-07-29T13:00:21+00:00",
+  "quotesAt": "2026-07-29T13:00:21+00:00",
+  "newsAt": "2026-07-29T13:00:21+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
-    "vix": 18.84,
-    "krw": 1452.88,
-    "gold": 4076.2,
-    "wti": 84.35,
+    "vix": 18.66,
+    "krw": 1452.68,
+    "gold": 4079.6,
+    "wti": 84.3,
     "dxy": 101.46
   },
   "daily": {
     "spx": 0.23,
     "kospi": -16.17,
     "nikkei": -1.49,
-    "krw": -0.79,
-    "dxy": 0.08,
-    "gold": 0.99,
-    "wti": 6.42,
-    "vix": 3.46
+    "krw": -0.8,
+    "dxy": 0.07,
+    "gold": 1.07,
+    "wti": 6.36,
+    "vix": 2.47
   },
   "news": [
+    {
+      "t": "JP모건, 연준 결정 시나리오 제시...월스트리트 예상 밖 금리 인상 대비",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0temNUZHZDZzV4UmR3YXVxbEFlVEtHNDgzdDl1T0FoVlplazY4SVloSzJxNXM5bFpLQzg3MmZkMGFQMk9YOVZ3NHo0SlY0dmdwcWxjRjU5SFZEU1lQOXBlUFhsYTVnMEk4Y1FuUXBQSUY?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-07-29T12:44:00+00:00"
+    },
     {
       "t": "광주 군공항 부지, 호남권 반도체 국가산단 후보지 최종 낙점",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZN3BwRkRxSzlhbGZseFVsTU80eFBZUlpNc0QwQ0pRVy1BMTBiUnltWWR5Z08yczlPWjhNVlZiSXQ1aEFLaGZ0MDhzMkZ3Q00?oc=5",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-07-29T12:11:00+00:00"
     },
     {
+      "t": "뉴욕증시 프리뷰, FOMC 결과·빅테크 실적 앞두고 주가 선물 혼조세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jb2NpX3k4ZGU2b3ZadjUxZkNCLTQxczNKMFBEanFaMXctbmg2aWlnSTdZR2x3Wnk4M2FlcHZjUlRtbFA5azNkTFhpRlhtejdVRHZ6alBFeXd0RWJ2?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-07-29T11:58:00+00:00"
+    },
+    {
       "t": "[시사플랫폼] “증시 패닉에 정치권 가세…일본 반도체 도시에서 강진 피해 커져”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iMW00bHdrZkJRQnFfUlMwQTljLUREWlhzZ243MVl3OG5aWnh0bjNpMkVqS2EyT1RiTEl3a3NlaUJiQ3RzR3B2TmNJNk9OWnM?oc=5",
       "s": "v.daum.net",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHelRMdERNRzl4a3RaWmptRTdUT0pHTUN2bUtMcWNRNUJmU09jZEd1M0FtenlpZkhuVFl3OXR0cjBhLWRQTURtNXZMRW5JbVZfdkNvOWJGenFzUQ?oc=5",
       "s": "한국경제",
       "d": "2026-07-29T11:43:00+00:00"
-    },
-    {
-      "t": "‘하이닉스 470만원 간다’던 노무라증권 “코스피 급락은 수급불균형 때문”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pb3ZZRGM5b3QxZHNXdXlJQ1dFdTRJVUFXT214c29KeVp1RjhJbFJxYXM0TF85aVVaRVZNc2ZtNGNZMEQ3WUhTT1lYR2p3ZGUw?oc=5",
-      "s": "문화일보",
-      "d": "2026-07-29T11:38:31+00:00"
-    },
-    {
-      "t": "한은 “반도체 호황에 수도권 경기 개선…건설업 대부분 부진”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Y1lVb3BMVkVGU3NMMXpaZnV0YWdBMVNSbGFqekxUNWxXWmhHak5zeFBLODFfZldUY2VKQTQ3aDRHeS1WUm1uZlpSUHM2RTNxOHNlQ3BVS2x0UjA?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-29T11:28:00+00:00"
     }
   ],
   "asof": {},
