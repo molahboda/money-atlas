@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T13:00:21+00:00",
-  "quotesAt": "2026-07-29T13:00:21+00:00",
-  "newsAt": "2026-07-29T13:00:21+00:00",
+  "fetchedAt": "2026-07-29T13:15:21+00:00",
+  "quotesAt": "2026-07-29T13:15:21+00:00",
+  "newsAt": "2026-07-29T13:15:21+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
-    "vix": 18.66,
+    "vix": 18.71,
     "krw": 1452.68,
-    "gold": 4079.6,
-    "wti": 84.3,
+    "gold": 4077.1,
+    "wti": 84.64,
     "dxy": 101.46
   },
   "daily": {
@@ -18,10 +18,10 @@ window.LIVE_DATA = {
     "kospi": -16.17,
     "nikkei": -1.49,
     "krw": -0.8,
-    "dxy": 0.07,
-    "gold": 1.07,
-    "wti": 6.36,
-    "vix": 2.47
+    "dxy": 0.08,
+    "gold": 1.01,
+    "wti": 6.79,
+    "vix": 2.75
   },
   "news": [
     {
@@ -55,6 +55,18 @@ window.LIVE_DATA = {
       "d": "2026-07-29T12:11:00+00:00"
     },
     {
+      "t": "“SK하이닉스 470만원 간다”던 노무라…“코스피 급락, 진짜 이유는 따로 있다”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kaG15OHJPQ1lvMkZCSEtrLXJnM3RxUjk2UXAxcXkteUFGU2RGY3Bhc3RCQ2FySWY2NGVsSUhiQ2V6N0lieWNJd25ISW5rNHN5eEHSAVNBVV95cUxQVGFZM1NvWmVHX0RWLWdTVXRqbnJ0ZjlxS2ZDVjdEMG9ocXh0X01DR3RGdXRjamtVOHM1X3JCa2pwNE9sbDZMQWtUYXFZam9EbXd3UQ?oc=5",
+      "s": "서울경제",
+      "d": "2026-07-29T12:08:26+00:00"
+    },
+    {
+      "t": "Fed 금리 결정 \"20년 만에 가장 불확실\"…사상 최대 헤지",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaDFId3NITXFpSm1UbXhvSHV0NW5yZm5reEZmaFJhaVY4X3QtZjU0YUw1bEtGQkppOVFOMDhxX1BSbW9ramxucnRrRVo0ZHoxSFM0WkNPMl9BUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-29T12:06:47+00:00"
+    },
+    {
       "t": "뉴욕증시 프리뷰, FOMC 결과·빅테크 실적 앞두고 주가 선물 혼조세",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jb2NpX3k4ZGU2b3ZadjUxZkNCLTQxczNKMFBEanFaMXctbmg2aWlnSTdZR2x3Wnk4M2FlcHZjUlRtbFA5azNkTFhpRlhtejdVRHZ6alBFeXd0RWJ2?oc=5",
       "s": "뉴스핌",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OdzlaQnFBcHFncmpaRms1MzR1d0xhdDlOcjlFaFpfalI3NGxNcGxUUkdLbDNmX3phU0ZzOEpkdmxuOVpYU0l2X2x2Zzkya3l2clhwT0VONTJoTDDSAWBBVV95cUxOV2dRcVJLbnMzdllRVkhOa18tR1lyLVI4bnB4VjFrSV9OQ3pMby1LZXl5NXM3MllCSmNJdTNraWhIV0RmeE1CMEpndEJTVGZDNkg0RW9zUnd6dl96SDI0R2Q?oc=5",
       "s": "연합뉴스",
       "d": "2026-07-29T11:50:25+00:00"
-    },
-    {
-      "t": "한은 총재 \"금리 인상 기조 이어갈 필요 있어\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbGRzVE9fSk5qaDVnSkNTOEl3QnU4dHM0RTNqaHRTOGZrMmNkWTFvX3pteGVLbTQ4c1ZObUhkLUtZVFJxcG43a2c0a1gyWGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-29T11:50:11+00:00"
-    },
-    {
-      "t": "반도체 날개 단 中 커촹반, 월가도 \"비중 확대\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHelRMdERNRzl4a3RaWmptRTdUT0pHTUN2bUtMcWNRNUJmU09jZEd1M0FtenlpZkhuVFl3OXR0cjBhLWRQTURtNXZMRW5JbVZfdkNvOWJGenFzUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-29T11:43:00+00:00"
     }
   ],
   "asof": {},
