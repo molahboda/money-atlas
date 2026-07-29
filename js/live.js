@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T12:30:21+00:00",
-  "quotesAt": "2026-07-29T12:30:21+00:00",
-  "newsAt": "2026-07-29T12:30:21+00:00",
+  "fetchedAt": "2026-07-29T12:45:22+00:00",
+  "quotesAt": "2026-07-29T12:45:22+00:00",
+  "newsAt": "2026-07-29T12:45:22+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
-    "vix": 18.53,
+    "vix": 18.84,
     "krw": 1452.88,
-    "gold": 4075.8,
-    "wti": 84.23,
-    "dxy": 101.48
+    "gold": 4076.2,
+    "wti": 84.35,
+    "dxy": 101.46
   },
   "daily": {
     "spx": 0.23,
     "kospi": -16.17,
     "nikkei": -1.49,
     "krw": -0.79,
-    "dxy": 0.09,
-    "gold": 0.98,
-    "wti": 6.27,
-    "vix": 1.76
+    "dxy": 0.08,
+    "gold": 0.99,
+    "wti": 6.42,
+    "vix": 3.46
   },
   "news": [
+    {
+      "t": "광주 군공항 부지, 호남권 반도체 국가산단 후보지 최종 낙점",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZN3BwRkRxSzlhbGZseFVsTU80eFBZUlpNc0QwQ0pRVy1BMTBiUnltWWR5Z08yczlPWjhNVlZiSXQ1aEFLaGZ0MDhzMkZ3Q00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-29T12:33:00+00:00"
+    },
+    {
+      "t": "미 압박·중 추격에 마냥 못 웃는 K반도체…“초격차 유지를”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTEJHSHZvWFA1c3JKdEJjQW9DNlgxQXNNVy1QOHZYMldoaTItRkV1V0RGN2M1bU9zVEJBaDU3dXBmazExUDhHemxwM2dvaEZMY0Y1RjVfVmR2UdIBX0FVX3lxTFBmV2Vrc1NKRHVzN05qLXJhQ2EwckNuUFM5cTZlWDh4bUFtQkJXdHQyX0lYY1g4Q0dpeWxpSm9RQ0lpVkprVURFOXlMdFNWZHUwa05zYVlMSjU1V0dVcW5N?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-29T12:27:00+00:00"
+    },
     {
       "t": "얼어붙은 반도체 투자 심리…연이틀 주가 폭락",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYXZoM1phOW5ucVBrVTRfSS1XZVdnNFQyNGQ4VzQ0LTZ0SWZZUHVTOGVvMTgyUERuWFh4QVZSMk1pUkg4dmlBSmxhalJpZUJVLXpWUmpFTmxDNW8?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-29T11:43:00+00:00"
     },
     {
+      "t": "‘하이닉스 470만원 간다’던 노무라증권 “코스피 급락은 수급불균형 때문”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pb3ZZRGM5b3QxZHNXdXlJQ1dFdTRJVUFXT214c29KeVp1RjhJbFJxYXM0TF85aVVaRVZNc2ZtNGNZMEQ3WUhTT1lYR2p3ZGUw?oc=5",
+      "s": "문화일보",
+      "d": "2026-07-29T11:38:31+00:00"
+    },
+    {
       "t": "한은 “반도체 호황에 수도권 경기 개선…건설업 대부분 부진”",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Y1lVb3BMVkVGU3NMMXpaZnV0YWdBMVNSbGFqekxUNWxXWmhHak5zeFBLODFfZldUY2VKQTQ3aDRHeS1WUm1uZlpSUHM2RTNxOHNlQ3BVS2x0UjA?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-07-29T11:28:00+00:00"
-    },
-    {
-      "t": "미, 한국산 화학제품 최고 155% 반덤핑 관세 확정…강제노동 관세도 발효",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4NHY2OUEtNkpEeWx6X0NDZ2NNN2dkT0NRLTkwajhUNE10azR2cFpfcDk0MldLYS1TaXRoMDFZMzJyU2tFRF9abzlxVEhSb2I0dUU0VDNlVWxVcDg2Tkl2VVBpWWhRNDhnTnJORnVjd9IBckFVX3lxTE4zeFRrTkVVSldHUkV5NjNYeXpkSjU3cFdHMEJKbUI0RXQxbkUwYk5KQVk5V3VUUExiTHNOc1c1bkJudS15ZzZ2d0FvY2lLRzFTalNfZk9DMjNTdjI1T0hzcmI0Nm40MW5TNjgxc3hvc0l3UQ?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-07-29T11:27:24+00:00"
-    },
-    {
-      "t": "'실리콘 아일랜드' 덮친 강진‥반도체·자동차 공장도 멈췄다",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrXzlmYXI0Y0xJUkwwM3RiN1kwREViZ2Nva3BZaTVaT2lidFdhMXMzR1NnM0Jobm9waGpDdjQwYUZwS3pzODRyckdZRVJrM2VyZkZ3MUtGeTFhZW1XdUc5ZVFCZFdSQUxEbklOa0Q3ZDJoSXJtU21kdg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-29T11:04:37+00:00"
-    },
-    {
-      "t": "\"1년 연봉이 날아갔어요\"‥커진 반도체 의구심, 코스피 바닥은 어디?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1U1NQaXpuUE9LcFdxWGdvcU9aMGlDVC1LN2xDZ3FWNS05aUYzUXpPWFlJb3MtVlFONm1nVXlTYlUyNXlZWUJvelZJOGpmd1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-29T10:55:20+00:00"
     }
   ],
   "asof": {},
