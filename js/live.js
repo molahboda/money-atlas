@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T13:15:21+00:00",
-  "quotesAt": "2026-07-29T13:15:21+00:00",
-  "newsAt": "2026-07-29T13:15:21+00:00",
+  "fetchedAt": "2026-07-29T13:30:21+00:00",
+  "quotesAt": "2026-07-29T13:30:21+00:00",
+  "newsAt": "2026-07-29T13:30:21+00:00",
   "quotes": {
     "kospi": 5663.24,
-    "spx": 7428.78,
+    "spx": 7416.34,
     "nikkei": 61434.19,
-    "vix": 18.71,
-    "krw": 1452.68,
-    "gold": 4077.1,
-    "wti": 84.64,
-    "dxy": 101.46
+    "vix": 18.92,
+    "krw": 1452.28,
+    "gold": 4076.1,
+    "wti": 84.52,
+    "dxy": 101.44
   },
   "daily": {
-    "spx": 0.23,
+    "spx": 0.04,
     "kospi": -16.17,
     "nikkei": -1.49,
-    "krw": -0.8,
-    "dxy": 0.08,
-    "gold": 1.01,
-    "wti": 6.79,
-    "vix": 2.75
+    "krw": -0.83,
+    "dxy": 0.06,
+    "gold": 0.99,
+    "wti": 6.64,
+    "vix": 3.9
   },
   "news": [
+    {
+      "t": "공포에 악재만 보이는 ‘메모리’…‘만스피’ 꿈꾼 코스피의 폭락",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRndLekdseUxpb2k2MGJ3Q3IyQWpSVVMwZ1pzUERhLW52dDFLYWJhdkVpTkNQWkRaMlQzeEhwR2xkM01FTURLNHZGenplSU9CYlBTSHZJdjlpUdIBX0FVX3lxTFBIOExiTHNDWmxEU2NrNG9aX3ZTR2laUmlSMFEwdFpBcHdVYnN1eFlFdHVhcmQ2OXkxYklOa0NoNHhzTU1QaHZXNVpKUm45bDNZZUdwekFiSHR5QUFKRDBZ?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-29T13:17:00+00:00"
+    },
+    {
+      "t": "한은 “반도체 호조가 주가 하방 압력 제한할 것”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WX0RnNVNFR2MzaW5NbFdVdkR4WUs1aFZfVG9RTlM3c0FpNEZYcEVLdVdNemFZTGZiWWxZc2FrNmNZUDQ0WlhIRXgzS3VHVDJwX2VYV2lSUFBYQdIBX0FVX3lxTE1ZQ3J3Z3FlcUJxaGE1WThDNm1YUnhPRng3T1Z2Q2JPbWRXVDZVVDZoSUNQOHk2X0ZDWWQwVm1rSUJ2dVhyc0xxa2VFWTlYSDVkTFN0TnNGU2QzVnZlZFln?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-29T13:14:00+00:00"
+    },
+    {
+      "t": "금융당국, 단일종목 레버리지 투자한도 도입…증시 급락 대응",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yUVZkUEdyWnFRZ0JoaVhXQTRHWTNxS2RaYlhld0NZRTVvZ3ZveG50dk5kR3czajRRWjAxYXhhcURDUWd0SHE0cVVvSUdCQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-07-29T12:56:52+00:00"
+    },
     {
       "t": "JP모건, 연준 결정 시나리오 제시...월스트리트 예상 밖 금리 인상 대비",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0temNUZHZDZzV4UmR3YXVxbEFlVEtHNDgzdDl1T0FoVlplazY4SVloSzJxNXM5bFpLQzg3MmZkMGFQMk9YOVZ3NHo0SlY0dmdwcWxjRjU5SFZEU1lQOXBlUFhsYTVnMEk4Y1FuUXBQSUY?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-07-29T12:44:00+00:00"
+    },
+    {
+      "t": "미 정부, 자국 반도체기업 글로벌파운드리스에 3억 달러 지원",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11Y2NhcWJiVW90dGxQZml6YmY4LUtzZXNjV2hCRWtfLVBqc3BaQm1hMnJaa2VqSDF2WjA4WnRkNU91ZlJXaXZCbG1wSjkxRUlJYmRYQmZyM1NneXRtNWVjTUQxSjB1OS1FczRya1RHNFE2bW900gF0QVVfeXFMT1JZcjlOYnZrdDRYUjNUcVdERmp5c0tRWURMOWFrenEwdUhTQTVPdTF0X2xKOE9HZnE3UFNQMmhOSnBGSEFxeEY1RVh1MVpUODhzblcyLWdraklMNEhBdVV4dVRrYThzLXJyZ3czM2lFbnBXSEw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-29T12:38:24+00:00"
+    },
+    {
+      "t": "국제유가, 미·이란 충돌 재개에 반등│Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xSUE1VURyWTVmRnY4SEtDMVBpa3JMcWR3VTBmLXB1ejh4Y0F2dWdYcDRWdFpyUW1zaWJSdGw3cWpiamZhTXd6aVFwTjZMYVJhZWVsakdadlh6ZGM?oc=5",
+      "s": "중앙일보",
+      "d": "2026-07-29T12:35:48+00:00"
     },
     {
       "t": "광주 군공항 부지, 호남권 반도체 국가산단 후보지 최종 낙점",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2U5QThtaUtndl80UkIwUE55Q3F0dHp3RTRmbEhXcGw3MGw3c1BZZzNUbzZ2Z1IxX0pva2lxY0VzZXJFdFR5VzhJQVFZQ0NHVldGWlNCQlhrRkp3NmNTczZ6cjd6ZkNlZ0xHTVh2eUFMcm16Wjh5NjJmb0V1MzFVN1hZXzVnSkU?oc=5",
       "s": "조선일보",
       "d": "2026-07-29T12:11:00+00:00"
-    },
-    {
-      "t": "“SK하이닉스 470만원 간다”던 노무라…“코스피 급락, 진짜 이유는 따로 있다”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kaG15OHJPQ1lvMkZCSEtrLXJnM3RxUjk2UXAxcXkteUFGU2RGY3Bhc3RCQ2FySWY2NGVsSUhiQ2V6N0lieWNJd25ISW5rNHN5eEHSAVNBVV95cUxQVGFZM1NvWmVHX0RWLWdTVXRqbnJ0ZjlxS2ZDVjdEMG9ocXh0X01DR3RGdXRjamtVOHM1X3JCa2pwNE9sbDZMQWtUYXFZam9EbXd3UQ?oc=5",
-      "s": "서울경제",
-      "d": "2026-07-29T12:08:26+00:00"
-    },
-    {
-      "t": "Fed 금리 결정 \"20년 만에 가장 불확실\"…사상 최대 헤지",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaDFId3NITXFpSm1UbXhvSHV0NW5yZm5reEZmaFJhaVY4X3QtZjU0YUw1bEtGQkppOVFOMDhxX1BSbW9ramxucnRrRVo0ZHoxSFM0WkNPMl9BUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-07-29T12:06:47+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, FOMC 결과·빅테크 실적 앞두고 주가 선물 혼조세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jb2NpX3k4ZGU2b3ZadjUxZkNCLTQxczNKMFBEanFaMXctbmg2aWlnSTdZR2x3Wnk4M2FlcHZjUlRtbFA5azNkTFhpRlhtejdVRHZ6alBFeXd0RWJ2?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-29T11:58:00+00:00"
-    },
-    {
-      "t": "[시사플랫폼] “증시 패닉에 정치권 가세…일본 반도체 도시에서 강진 피해 커져”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iMW00bHdrZkJRQnFfUlMwQTljLUREWlhzZ243MVl3OG5aWnh0bjNpMkVqS2EyT1RiTEl3a3NlaUJiQ3RzR3B2TmNJNk9OWnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-29T11:50:52+00:00"
-    },
-    {
-      "t": "美 정부, 자국 반도체기업 글로벌파운드리스에 3억달러 지원",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OdzlaQnFBcHFncmpaRms1MzR1d0xhdDlOcjlFaFpfalI3NGxNcGxUUkdLbDNmX3phU0ZzOEpkdmxuOVpYU0l2X2x2Zzkya3l2clhwT0VONTJoTDDSAWBBVV95cUxOV2dRcVJLbnMzdllRVkhOa18tR1lyLVI4bnB4VjFrSV9OQ3pMby1LZXl5NXM3MllCSmNJdTNraWhIV0RmeE1CMEpndEJTVGZDNkg0RW9zUnd6dl96SDI0R2Q?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-07-29T11:50:25+00:00"
     }
   ],
   "asof": {},
