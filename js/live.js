@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T14:00:22+00:00",
-  "quotesAt": "2026-07-29T14:00:22+00:00",
-  "newsAt": "2026-07-29T14:00:22+00:00",
+  "fetchedAt": "2026-07-29T14:15:23+00:00",
+  "quotesAt": "2026-07-29T14:15:23+00:00",
+  "newsAt": "2026-07-29T14:15:23+00:00",
   "quotes": {
     "kospi": 5663.24,
-    "spx": 7399.34,
+    "spx": 7379.74,
     "nikkei": 61434.19,
-    "vix": 18.68,
-    "krw": 1451.8,
-    "gold": 4071.8,
-    "wti": 84.7,
-    "dxy": 101.38
+    "vix": 19.21,
+    "krw": 1451.68,
+    "gold": 4064.3,
+    "wti": 84.53,
+    "dxy": 101.36
   },
   "daily": {
-    "spx": -0.19,
+    "spx": -0.45,
     "kospi": -16.17,
     "nikkei": -1.49,
-    "krw": -0.86,
-    "dxy": 0,
-    "gold": 0.88,
-    "wti": 6.86,
-    "vix": 2.58
+    "krw": -0.87,
+    "dxy": -0.02,
+    "gold": 0.69,
+    "wti": 6.65,
+    "vix": 5.49
   },
   "news": [
     {
@@ -61,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-07-29T12:56:52+00:00"
     },
     {
+      "t": "전남광주특별시 \"반도체 국가산단 후보지 지정 적극 환영\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KUThiR3JEZWNNMm5pc1NyeGxxdEVBTjBvdXJxM0l3eG1PMVhFbWU0RG9RQnI5ajZVaERfbFF1Z0p2UmlNcEljRjRDdE5HVVFhZS01c0U2MHB0SU9JSHRLRg?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-07-29T12:53:07+00:00"
+    },
+    {
       "t": "JP모건, 연준 결정 시나리오 제시...월스트리트 예상 밖 금리 인상 대비",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0temNUZHZDZzV4UmR3YXVxbEFlVEtHNDgzdDl1T0FoVlplazY4SVloSzJxNXM5bFpLQzg3MmZkMGFQMk9YOVZ3NHo0SlY0dmdwcWxjRjU5SFZEU1lQOXBlUFhsYTVnMEk4Y1FuUXBQSUY?oc=5",
       "s": "Investing.com 한국어",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xSUE1VURyWTVmRnY4SEtDMVBpa3JMcWR3VTBmLXB1ejh4Y0F2dWdYcDRWdFpyUW1zaWJSdGw3cWpiamZhTXd6aVFwTjZMYVJhZWVsakdadlh6ZGM?oc=5",
       "s": "중앙일보",
       "d": "2026-07-29T12:35:48+00:00"
-    },
-    {
-      "t": "광주 군공항 부지, 호남권 반도체 국가산단 후보지 최종 낙점",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZN3BwRkRxSzlhbGZseFVsTU80eFBZUlpNc0QwQ0pRVy1BMTBiUnltWWR5Z08yczlPWjhNVlZiSXQ1aEFLaGZ0MDhzMkZ3Q00?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-29T12:33:00+00:00"
     }
   ],
   "asof": {},
