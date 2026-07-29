@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T12:15:21+00:00",
-  "quotesAt": "2026-07-29T12:15:21+00:00",
-  "newsAt": "2026-07-29T12:15:21+00:00",
+  "fetchedAt": "2026-07-29T12:30:21+00:00",
+  "quotesAt": "2026-07-29T12:30:21+00:00",
+  "newsAt": "2026-07-29T12:30:21+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
-    "vix": 18.33,
-    "krw": 1452.44,
-    "gold": 4089.9,
-    "wti": 82.9,
-    "dxy": 101.43
+    "vix": 18.53,
+    "krw": 1452.88,
+    "gold": 4075.8,
+    "wti": 84.23,
+    "dxy": 101.48
   },
   "daily": {
     "spx": 0.23,
     "kospi": -16.17,
     "nikkei": -1.49,
-    "krw": -0.82,
-    "dxy": 0.05,
-    "gold": 1.33,
-    "wti": 4.59,
-    "vix": 0.66
+    "krw": -0.79,
+    "dxy": 0.09,
+    "gold": 0.98,
+    "wti": 6.27,
+    "vix": 1.76
   },
   "news": [
+    {
+      "t": "얼어붙은 반도체 투자 심리…연이틀 주가 폭락",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYXZoM1phOW5ucVBrVTRfSS1XZVdnNFQyNGQ4VzQ0LTZ0SWZZUHVTOGVvMTgyUERuWFh4QVZSMk1pUkg4dmlBSmxhalJpZUJVLXpWUmpFTmxDNW8?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-29T12:15:00+00:00"
+    },
+    {
+      "t": "[만물상] 지진 위의 반도체 공장",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2U5QThtaUtndl80UkIwUE55Q3F0dHp3RTRmbEhXcGw3MGw3c1BZZzNUbzZ2Z1IxX0pva2lxY0VzZXJFdFR5VzhJQVFZQ0NHVldGWlNCQlhrRkp3NmNTczZ6cjd6ZkNlZ0xHTVh2eUFMcm16Wjh5NjJmb0V1MzFVN1hZXzVnSkU?oc=5",
+      "s": "조선일보",
+      "d": "2026-07-29T12:11:00+00:00"
+    },
     {
       "t": "[시사플랫폼] “증시 패닉에 정치권 가세…일본 반도체 도시에서 강진 피해 커져”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iMW00bHdrZkJRQnFfUlMwQTljLUREWlhzZ243MVl3OG5aWnh0bjNpMkVqS2EyT1RiTEl3a3NlaUJiQ3RzR3B2TmNJNk9OWnM?oc=5",
@@ -43,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-07-29T11:50:11+00:00"
     },
     {
-      "t": "‘하이닉스 470만원 간다’던 노무라증권 “코스피 급락은 수급불균형 때문”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pb3ZZRGM5b3QxZHNXdXlJQ1dFdTRJVUFXT214c29KeVp1RjhJbFJxYXM0TF85aVVaRVZNc2ZtNGNZMEQ3WUhTT1lYR2p3ZGUw?oc=5",
-      "s": "문화일보",
-      "d": "2026-07-29T11:38:31+00:00"
+      "t": "반도체 날개 단 中 커촹반, 월가도 \"비중 확대\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHelRMdERNRzl4a3RaWmptRTdUT0pHTUN2bUtMcWNRNUJmU09jZEd1M0FtenlpZkhuVFl3OXR0cjBhLWRQTURtNXZMRW5JbVZfdkNvOWJGenFzUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-07-29T11:43:00+00:00"
     },
     {
       "t": "한은 “반도체 호황에 수도권 경기 개선…건설업 대부분 부진”",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-07-29T11:04:37+00:00"
     },
     {
-      "t": "환율 15.8원 내린 1,440원대‥중동 전쟁 이후 최저",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvTmRSTjNGWWctY1AzSWxuQTdPT19SbFM4eUFvTzRrNXpPU2pzQ0dFOXFwS3BkMjhSS2haM0pseWJtZUNnWXd0ZFRxNjVxS0w5cldWR19GQnBtZDVYclNFR2t0S1VvcFR5QkJuTHpNUng1UXBwSEU4Nw?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-29T10:50:56+00:00"
-    },
-    {
       "t": "\"1년 연봉이 날아갔어요\"‥커진 반도체 의구심, 코스피 바닥은 어디?",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84T3NWXzJDaU5xY3M5LWlaYjFwa1I0djNoeEVwcW85OHhhNFAwN2VJaEJUYmJTVjRMNmpaNGZaaVRBMTh5SXZIOGUxSjNFb282OUY5REp3ZnpybGl0Z2xfeGVONUdzRUlwVEw3cktvZXNMSFk5THdneQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-29T10:47:56+00:00"
-    },
-    {
-      "t": "[사설]사이드카가 일상이 된 증시, 정책 실패는 아닌가",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRTlQdTA5bEljMzY5SlVhS0hQWFpSQUFEcmVISXo3OFdqSEowWFVGWGh0Y19URUZrWGtZMk42QV9WV1pjdFRHZHY5THhEWjU2WTc1VXlrVEU1d9IBX0FVX3lxTFBFLU0xMklGVnpXcUZFRFRicUp6bUU5c3pxTl82X21EUVhlZXFucHZtMkJQUU1ZSFBnb0hDa1FjQzNXUnVRSk1acDdfaVFxZXY2eG92aTEwT2luVXlPWjdr?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-29T10:46:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1U1NQaXpuUE9LcFdxWGdvcU9aMGlDVC1LN2xDZ3FWNS05aUYzUXpPWFlJb3MtVlFONm1nVXlTYlUyNXlZWUJvelZJOGpmd1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-29T10:55:20+00:00"
     }
   ],
   "asof": {},
