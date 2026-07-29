@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T11:30:21+00:00",
-  "quotesAt": "2026-07-29T11:30:21+00:00",
-  "newsAt": "2026-07-29T11:30:21+00:00",
+  "fetchedAt": "2026-07-29T11:46:46+00:00",
+  "quotesAt": "2026-07-29T11:46:46+00:00",
+  "newsAt": "2026-07-29T11:46:46+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
     "vix": 18.29,
     "krw": 1452.17,
-    "gold": 4091.4,
-    "wti": 83.06,
+    "gold": 4089.6,
+    "wti": 82.88,
     "dxy": 101.4
   },
   "daily": {
@@ -18,12 +18,18 @@ window.LIVE_DATA = {
     "kospi": -16.17,
     "nikkei": -1.49,
     "krw": -0.84,
-    "dxy": 0.01,
-    "gold": 1.37,
-    "wti": 4.79,
+    "dxy": 0.02,
+    "gold": 1.32,
+    "wti": 4.57,
     "vix": 0.44
   },
   "news": [
+    {
+      "t": "미, 한국산 화학제품 최고 155% 반덤핑 관세 확정…강제노동 관세도 발효",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4NHY2OUEtNkpEeWx6X0NDZ2NNN2dkT0NRLTkwajhUNE10azR2cFpfcDk0MldLYS1TaXRoMDFZMzJyU2tFRF9abzlxVEhSb2I0dUU0VDNlVWxVcDg2Tkl2VVBpWWhRNDhnTnJORnVjd9IBckFVX3lxTE4zeFRrTkVVSldHUkV5NjNYeXpkSjU3cFdHMEJKbUI0RXQxbkUwYk5KQVk5V3VUUExiTHNOc1c1bkJudS15ZzZ2d0FvY2lLRzFTalNfZk9DMjNTdjI1T0hzcmI0Nm40MW5TNjgxc3hvc0l3UQ?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-07-29T11:27:24+00:00"
+    },
     {
       "t": "'실리콘 아일랜드' 덮친 강진‥반도체·자동차 공장도 멈췄다",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrXzlmYXI0Y0xJUkwwM3RiN1kwREViZ2Nva3BZaTVaT2lidFdhMXMzR1NnM0Jobm9waGpDdjQwYUZwS3pzODRyckdZRVJrM2VyZkZ3MUtGeTFhZW1XdUc5ZVFCZFdSQUxEbklOa0Q3ZDJoSXJtU21kdg?oc=5",
@@ -44,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "\"1년 연봉이 날아갔어요\"‥커진 반도체 의구심, 코스피 바닥은 어디?",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoRGhWWDM5N0lYd0c2c3lYNnB6OUtaX3hMY09HUmhmT1IyUmRBNDBzTlZwNWV5M3BSVnBjU3NOMmxXcjFYdjcyQlpPTGxXZDFRQndiUlZDVnJrWlJMRm1md2Y3ay13RWQxS3NUZl9MWlRReXdSajFDNw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84T3NWXzJDaU5xY3M5LWlaYjFwa1I0djNoeEVwcW85OHhhNFAwN2VJaEJUYmJTVjRMNmpaNGZaaVRBMTh5SXZIOGUxSjNFb282OUY5REp3ZnpybGl0Z2xfeGVONUdzRUlwVEw3cktvZXNMSFk5THdneQ?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-07-29T10:47:56+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMHFzbEpXc3ExQVNHVlVDMTBSSi1rSWlZcWtKUHUtcjFZX29DNHR3MmlneENBQWh4Y0tjSTg1NkM5SDdUeEJBYS1Qd2RWekxrVVFfd3gyaXZqamM?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-07-29T10:10:00+00:00"
-    },
-    {
-      "t": "사상 첫 연이틀 양시장 서킷브레이커…코스피 시총 이달 2116조 증발",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMmMzZGhMc2YyVFh6SEtoV0d1MkF2SXk4R01PbzUtc2Exa1QxYXZpRmU3WktfUmp6VUk2UXFhb0VCdVB5VndoOU1CblZVbnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-29T10:01:09+00:00"
     }
   ],
   "asof": {},
