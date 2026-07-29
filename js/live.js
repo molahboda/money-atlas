@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T11:15:27+00:00",
-  "quotesAt": "2026-07-29T11:15:27+00:00",
-  "newsAt": "2026-07-29T11:15:27+00:00",
+  "fetchedAt": "2026-07-29T11:30:21+00:00",
+  "quotesAt": "2026-07-29T11:30:21+00:00",
+  "newsAt": "2026-07-29T11:30:21+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
-    "vix": 18.36,
-    "krw": 1452.08,
-    "gold": 4087,
-    "wti": 83.19,
+    "vix": 18.29,
+    "krw": 1452.17,
+    "gold": 4091.4,
+    "wti": 83.06,
     "dxy": 101.4
   },
   "daily": {
@@ -18,71 +18,71 @@ window.LIVE_DATA = {
     "kospi": -16.17,
     "nikkei": -1.49,
     "krw": -0.84,
-    "dxy": 0.02,
-    "gold": 1.26,
-    "wti": 4.96,
-    "vix": 0.82
+    "dxy": 0.01,
+    "gold": 1.37,
+    "wti": 4.79,
+    "vix": 0.44
   },
   "news": [
     {
-      "t": "연준 결정 앞두고 달러 강세…파운드화 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRFdVYVoyRHYzWlNDOGpNbHdrbkxycEJtTE9CVVJCUzhfQ3IyaUlQX0dNOWRGcGlKTHJEQjg4c1ppQ01qSjR0b1BKaV9ELTlmMVVOb2ZfRmpONmxDZnRqX1ZSX2JXZWM?oc=5",
+      "t": "'실리콘 아일랜드' 덮친 강진‥반도체·자동차 공장도 멈췄다",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrXzlmYXI0Y0xJUkwwM3RiN1kwREViZ2Nva3BZaTVaT2lidFdhMXMzR1NnM0Jobm9waGpDdjQwYUZwS3pzODRyckdZRVJrM2VyZkZ3MUtGeTFhZW1XdUc5ZVFCZFdSQUxEbklOa0Q3ZDJoSXJtU21kdg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-29T11:04:37+00:00"
+    },
+    {
+      "t": "파운드화 보합세, 연준 금리 결정 앞두고 관망세 지속",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBZnRvbGl0LWMwbGZBT19zdF9KcWx5QW9LQVZXaHNINm5qOXNlRlQ0NkV4cUZEenhyejUteGdGS3dzelFvQU5NOXRoSlU0UU8wZGVKTkpLMnVubDctMm02dnlEcWdveGs?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-07-28T10:29:00+00:00"
+      "d": "2026-07-29T10:51:00+00:00"
     },
     {
-      "t": "코스피 10.8% 폭락... “AI투자 사이클 의구심 커져”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZl9WYmROdUtzcTB4UFRLU0gtVzZuSjFLOXkweUlOSWFBS2dqUHNScnZLS3dHd09hT3VDbXBJanNqeEdfUnRfM2xEcElmeU0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-28T10:23:07+00:00"
+      "t": "환율 15.8원 내린 1,440원대‥중동 전쟁 이후 최저",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvTmRSTjNGWWctY1AzSWxuQTdPT19SbFM4eUFvTzRrNXpPU2pzQ0dFOXFwS3BkMjhSS2haM0pseWJtZUNnWXd0ZFRxNjVxS0w5cldWR19GQnBtZDVYclNFR2t0S1VvcFR5QkJuTHpNUng1UXBwSEU4Nw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-29T10:50:56+00:00"
     },
     {
-      "t": "[베트남 증시] 유가 하락에 투심 개선, 소폭 상승...外人도 매수세 우위",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5peThuU01QTm1aRGM2dXFLMExnaExtdkhpSllWZ1phV0Izd0l5MVZxdENNVFhOcm02czlLT1JwTG11VDhPLVYxTllRTnVoVTNZbGZqN3Y1UzRwdVYx?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-07-28T10:23:00+00:00"
+      "t": "\"1년 연봉이 날아갔어요\"‥커진 반도체 의구심, 코스피 바닥은 어디?",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoRGhWWDM5N0lYd0c2c3lYNnB6OUtaX3hMY09HUmhmT1IyUmRBNDBzTlZwNWV5M3BSVnBjU3NOMmxXcjFYdjcyQlpPTGxXZDFRQndiUlZDVnJrWlJMRm1md2Y3ay13RWQxS3NUZl9MWlRReXdSajFDNw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-29T10:47:56+00:00"
     },
     {
-      "t": "코스피 10.8% 폭락... \"AI투자 사이클 의구심 커져\"",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HeXpibTdhUEF4RzRzbVpqY1V1U2dzMjFNVVpZYng1UERucko4alhISi1NVGVlbU8yalJpajlBLWJzTDJWUlNHMGt6Wlc1RnZOcGRMUnk1REU0QU5Zd0h6bWZOM1B2cGxUZ0UzQlNseVhOc1VuQ1VpOA?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-28T10:21:00+00:00"
+      "t": "[사설]사이드카가 일상이 된 증시, 정책 실패는 아닌가",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRTlQdTA5bEljMzY5SlVhS0hQWFpSQUFEcmVISXo3OFdqSEowWFVGWGh0Y19URUZrWGtZMk42QV9WV1pjdFRHZHY5THhEWjU2WTc1VXlrVEU1d9IBX0FVX3lxTFBFLU0xMklGVnpXcUZFRFRicUp6bUU5c3pxTl82X21EUVhlZXFucHZtMkJQUU1ZSFBnb0hDa1FjQzNXUnVRSk1acDdfaVFxZXY2eG92aTEwT2luVXlPWjdr?oc=5",
+      "s": "경향신문",
+      "d": "2026-07-29T10:46:00+00:00"
     },
     {
-      "t": "[亞증시-종합] 반도체 쇼크에 中·日·臺 하락…홍콩↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NYUJvZlBtUHdIckhpUUxORXlKMXctUVVtRGhpWWFSYkZldVo1SC01T1BIZTBweDVSVFJsZHhFRUhGTjgwMVFFME9jdlVLUGN4NDZYQ2JvQ3VUdi1zRUNSbU9FM2I0YkotRmFEdm9FQVQ?oc=5",
+      "t": "[亞증시-종합] 반도체 급락에 日·臺 하락…中·홍콩은 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iQkxNendwMGtwR3JjckowQ0g0b2R3THlVdml0Qll1V1VkQmhfcWlpbkk1c2xTM0FMRW5QVjBUd2Vua2V1RkJmTTQ5QUY4cnRuUGtRczJDcDkzM1BLNUFJVjdlamFydlpuSWtBQVV5cFQ?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-07-28T10:16:36+00:00"
+      "d": "2026-07-29T10:25:39+00:00"
     },
     {
-      "t": "트럼프 “금리 내리면 미국 GDP 12% 성장”",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSU15WDJoeVRieXVUZThPOVI2T0hiem9FZi12dWg1UEtPWU1EX1Z3RFYzZUlVX3ljc01ia09TbjdQY04xS05hZTh1MGl3alhxdHJXQWVXbkEtTUt0LWoyT0x6VDU5Yy1LTGNuQXIwMVRWYkl2Z0lMcXdVUkpGN0lRTXpWTWdid9IBbEFVX3lxTE5ZWG02NURLZ00wOWZLc1ZkZUp4NTdFMHlJdjdPVUwxYjRuUk1kMTRtaVVPN2FxaFYxNVFuSjZRYmVpbkdLV0lMQ3p2WjFiXzJIYjNDc3hZTHZ3cF9obVJ5TjhNdHM2U0c0MU1XMg?oc=5",
-      "s": "국민일보",
-      "d": "2026-07-28T10:12:00+00:00"
+      "t": "코스피·코스닥 8%대 ‘급락’…이틀 연속 동반 서킷브레이커",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZm9xTXh2LThUSG1EaUV4cEdUNVUzNzJwQmhzYzFqX2g1NGdobVZMYnlWVkh6MW9XUXp6dkxoM2FQa1RMWHVvMEdZV1lBOUdidGF0S243REdtQ1lpRzMyVWRqWDZyX2htSkI3NjNtNWFIZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-07-29T10:23:00+00:00"
     },
     {
-      "t": "[숏폼] 샌프란 AI서밋 '반도체 성장 동력 기대'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1URXVNY1plQ2RkR0lnUDZ4emx0YjJJcU5kM0lpcFp1ZExoWjBtcGI0TUZKaGtUcFVGTGJvQUpWZ191UFZmczRrbHQ3SlZlNnM?oc=5",
+      "t": "정부, 광주 군공항 일원 250만 평 반도체 국가산단 후보지 지정",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yS3plZGtaV1M3VVFBQmlIbnFRNVl0NENEZ2xrZUhDdUZsVUlnRmRHREZKYlFWOFdpTWZwVC03ZWxyVU9lWkxxaFVSZmVkWmc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-28T10:04:22+00:00"
+      "d": "2026-07-29T10:18:00+00:00"
     },
     {
-      "t": "[집중진단] 공포에 무너진 코스피 ‘-10% 대폭락’…정부, 레버리지 칼뺐다 “투자 20% 제한 검토”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZXJETVd1TjJ0ZzZfTXZsaUtFQUJKOHlJZXo2cm5jdUpCdXNRTUtsd1VqdGN4NG1EblphdGFlTVl4TUwwV1U2bkR1aWI4bzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-28T10:04:20+00:00"
+      "t": "코스피, 이틀 연속 급락에 ‘6천피’ 내줘…‘20만전자·140만닉스’ 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hMHFzbEpXc3ExQVNHVlVDMTBSSi1rSWlZcWtKUHUtcjFZX29DNHR3MmlneENBQWh4Y0tjSTg1NkM5SDdUeEJBYS1Qd2RWekxrVVFfd3gyaXZqamM?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-07-29T10:10:00+00:00"
     },
     {
-      "t": "심상찮은 中 반도체 굴기, 美 규제까지 무력화 [코스피 검은 화요일]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SSHdMT3dncGJWZEtVWnhUZlZnMUM4TTZXS1NmSWNZb2R0SEVmTXlKem94dV9VMklOMUhGY1ZhQkRXXzBYVGRUR0N5OHpTVEE?oc=5",
+      "t": "사상 첫 연이틀 양시장 서킷브레이커…코스피 시총 이달 2116조 증발",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMmMzZGhMc2YyVFh6SEtoV0d1MkF2SXk4R01PbzUtc2Exa1QxYXZpRmU3WktfUmp6VUk2UXFhb0VCdVB5VndoOU1CblZVbnM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-28T09:56:45+00:00"
-    },
-    {
-      "t": "[시사플랫폼] “코스피 두 자릿수 폭락 ‘검은 화요일’…중국 반도체 위협”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNXBJYWo0UEFwN2tfaHhxNFpmMGVJMmVDNHNQLXFtNWticHl1Rm5zdl9VUXZ6clpkQlVnOXBoTmRwd2M0TjJiX2l0NmM4REE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-28T09:47:37+00:00"
+      "d": "2026-07-29T10:01:09+00:00"
     }
   ],
   "asof": {},
