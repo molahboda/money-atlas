@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T12:00:21+00:00",
-  "quotesAt": "2026-07-29T12:00:21+00:00",
-  "newsAt": "2026-07-29T12:00:21+00:00",
+  "fetchedAt": "2026-07-29T12:15:21+00:00",
+  "quotesAt": "2026-07-29T12:15:21+00:00",
+  "newsAt": "2026-07-29T12:15:21+00:00",
   "quotes": {
     "kospi": 5663.24,
     "spx": 7428.78,
     "nikkei": 61434.19,
-    "vix": 18.35,
-    "krw": 1452.18,
-    "gold": 4093.3,
-    "wti": 82.62,
-    "dxy": 101.41
+    "vix": 18.33,
+    "krw": 1452.44,
+    "gold": 4089.9,
+    "wti": 82.9,
+    "dxy": 101.43
   },
   "daily": {
     "spx": 0.23,
     "kospi": -16.17,
     "nikkei": -1.49,
-    "krw": -0.84,
-    "dxy": 0.03,
-    "gold": 1.41,
-    "wti": 4.24,
-    "vix": 0.77
+    "krw": -0.82,
+    "dxy": 0.05,
+    "gold": 1.33,
+    "wti": 4.59,
+    "vix": 0.66
   },
   "news": [
     {
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-07-29T11:50:11+00:00"
     },
     {
+      "t": "‘하이닉스 470만원 간다’던 노무라증권 “코스피 급락은 수급불균형 때문”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pb3ZZRGM5b3QxZHNXdXlJQ1dFdTRJVUFXT214c29KeVp1RjhJbFJxYXM0TF85aVVaRVZNc2ZtNGNZMEQ3WUhTT1lYR2p3ZGUw?oc=5",
+      "s": "문화일보",
+      "d": "2026-07-29T11:38:31+00:00"
+    },
+    {
       "t": "한은 “반도체 호황에 수도권 경기 개선…건설업 대부분 부진”",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40Y1lVb3BMVkVGU3NMMXpaZnV0YWdBMVNSbGFqekxUNWxXWmhHak5zeFBLODFfZldUY2VKQTQ3aDRHeS1WUm1uZlpSUHM2RTNxOHNlQ3BVS2x0UjA?oc=5",
       "s": "KBS 뉴스",
@@ -59,12 +65,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrXzlmYXI0Y0xJUkwwM3RiN1kwREViZ2Nva3BZaTVaT2lidFdhMXMzR1NnM0Jobm9waGpDdjQwYUZwS3pzODRyckdZRVJrM2VyZkZ3MUtGeTFhZW1XdUc5ZVFCZFdSQUxEbklOa0Q3ZDJoSXJtU21kdg?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-07-29T11:04:37+00:00"
-    },
-    {
-      "t": "파운드화 보합세, 연준 금리 결정 앞두고 관망세 지속",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBZnRvbGl0LWMwbGZBT19zdF9KcWx5QW9LQVZXaHNINm5qOXNlRlQ0NkV4cUZEenhyejUteGdGS3dzelFvQU5NOXRoSlU0UU8wZGVKTkpLMnVubDctMm02dnlEcWdveGs?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-07-29T10:51:00+00:00"
     },
     {
       "t": "환율 15.8원 내린 1,440원대‥중동 전쟁 이후 최저",
