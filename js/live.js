@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-29T13:45:22+00:00",
-  "quotesAt": "2026-07-29T13:45:22+00:00",
-  "newsAt": "2026-07-29T13:45:22+00:00",
+  "fetchedAt": "2026-07-29T14:00:22+00:00",
+  "quotesAt": "2026-07-29T14:00:22+00:00",
+  "newsAt": "2026-07-29T14:00:22+00:00",
   "quotes": {
     "kospi": 5663.24,
-    "spx": 7423.62,
+    "spx": 7399.34,
     "nikkei": 61434.19,
-    "vix": 18.74,
-    "krw": 1452.02,
-    "gold": 4074.2,
-    "wti": 84.53,
-    "dxy": 101.43
+    "vix": 18.68,
+    "krw": 1451.8,
+    "gold": 4071.8,
+    "wti": 84.7,
+    "dxy": 101.38
   },
   "daily": {
-    "spx": 0.14,
+    "spx": -0.19,
     "kospi": -16.17,
     "nikkei": -1.49,
-    "krw": -0.85,
-    "dxy": 0.05,
-    "gold": 0.94,
-    "wti": 6.65,
-    "vix": 2.91
+    "krw": -0.86,
+    "dxy": 0,
+    "gold": 0.88,
+    "wti": 6.86,
+    "vix": 2.58
   },
   "news": [
+    {
+      "t": "뉴욕증시 하락 출발… FOMC 경계감·유가 급등에 투자심리 위축 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcW5wR2s4a3JaeksxTk1ac3F1THpPY0VFczRnLVpXemNfQ3ZmYml0b3FfaHY3bmh1MVUyMFhNUS0zVmxGZWhoSnQtcGplc2lxcHczWVUwbTVwbHJnazNzMDIwQ0tweXRoQWxMS2loTkhoN3IxX3p6U04wNEVibTQ1VkM3Z1dtQjRubTN0TlctSHFwd1dNNkZMbWZEbHdQd9IBsgFBVV95cUxQcGJHc2tUOW9lRDc3aUxkM3lLQmtWUTBfdE9Ub3huTnRjYng2ZERFRG84S0JzckRzN29kNllDUGRGVGh6eTJHRUxEYXFHb1U5WUxSNlhhV1ZCV3pfcl9PSWd5WFdXQUtrb2drUURmT1hFZnp3X3l1MGpoZEFucjlsMzlDUDRPcmFiOEFuWHJEd2QtRi1vWlNrREg0N1Y3UnZQSG55R3I3M3EzZ3hKb1lIcDZn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-07-29T13:52:00+00:00"
+    },
+    {
+      "t": "정규재 “정부 개입 실책, 빚투 개미 자업자득”… 증시 폭락장에 쓴소리",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kUS1sUE9wLXY2ZzRLRUtnUHo4VVJRc0FWb20yVldiUzNROHp4YnRoQmYxNFh0WjhkN0dfWk90ZU55X1VYazVGLUhSM2xNTFdYY0ZyTUQ5bnRxNk5Pc0syaXE4dVJSb3ZxUGc?oc=5",
+      "s": "hidomin.com",
+      "d": "2026-07-29T13:45:42+00:00"
+    },
+    {
+      "t": "뉴욕증시, FOMC 경계감·유가상승 여파에 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyT0l5ZHREQ0ZENzE5UXJXS2hackF6ZVI2SzlNaHktZ3NrRDY4ZmF3LUpPRll2RWlUR243TDRLNzFfeFBLcXRrdUtfTUxyeFdKaVlWRnQwTGdwLTTSAWBBVV95cUxQay1CUmtUU3JmX1pCRkxqa0VEWXg0YmNNNW9ocUgwYmVsclY3M2FDY2otejlUblZfVlVYSHhSMXF0R1lZOHBTRzlINXpqMUFrWmlNSjVzMVd5SkxHNnhfdks?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-07-29T13:41:14+00:00"
+    },
     {
       "t": "공포에 악재만 보이는 ‘메모리’…‘만스피’ 꿈꾼 코스피의 폭락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRndLekdseUxpb2k2MGJ3Q3IyQWpSVVMwZ1pzUERhLW52dDFLYWJhdkVpTkNQWkRaMlQzeEhwR2xkM01FTURLNHZGenplSU9CYlBTSHZJdjlpUdIBX0FVX3lxTFBIOExiTHNDWmxEU2NrNG9aX3ZTR2laUmlSMFEwdFpBcHdVYnN1eFlFdHVhcmQ2OXkxYklOa0NoNHhzTU1QaHZXNVpKUm45bDNZZUdwekFiSHR5QUFKRDBZ?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZN3BwRkRxSzlhbGZseFVsTU80eFBZUlpNc0QwQ0pRVy1BMTBiUnltWWR5Z08yczlPWjhNVlZiSXQ1aEFLaGZ0MDhzMkZ3Q00?oc=5",
       "s": "v.daum.net",
       "d": "2026-07-29T12:33:00+00:00"
-    },
-    {
-      "t": "미 압박·중 추격에 마냥 못 웃는 K반도체…“초격차 유지를”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwTEJHSHZvWFA1c3JKdEJjQW9DNlgxQXNNVy1QOHZYMldoaTItRkV1V0RGN2M1bU9zVEJBaDU3dXBmazExUDhHemxwM2dvaEZMY0Y1RjVfVmR2UdIBX0FVX3lxTFBmV2Vrc1NKRHVzN05qLXJhQ2EwckNuUFM5cTZlWDh4bUFtQkJXdHQyX0lYY1g4Q0dpeWxpSm9RQ0lpVkprVURFOXlMdFNWZHUwa05zYVlMSjU1V0dVcW5N?oc=5",
-      "s": "경향신문",
-      "d": "2026-07-29T12:27:00+00:00"
-    },
-    {
-      "t": "얼어붙은 반도체 투자 심리…연이틀 주가 폭락",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYXZoM1phOW5ucVBrVTRfSS1XZVdnNFQyNGQ4VzQ0LTZ0SWZZUHVTOGVvMTgyUERuWFh4QVZSMk1pUkg4dmlBSmxhalJpZUJVLXpWUmpFTmxDNW8?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-07-29T12:15:00+00:00"
-    },
-    {
-      "t": "[만물상] 지진 위의 반도체 공장",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2U5QThtaUtndl80UkIwUE55Q3F0dHp3RTRmbEhXcGw3MGw3c1BZZzNUbzZ2Z1IxX0pva2lxY0VzZXJFdFR5VzhJQVFZQ0NHVldGWlNCQlhrRkp3NmNTczZ6cjd6ZkNlZ0xHTVh2eUFMcm16Wjh5NjJmb0V1MzFVN1hZXzVnSkU?oc=5",
-      "s": "조선일보",
-      "d": "2026-07-29T12:11:00+00:00"
     }
   ],
   "asof": {},
