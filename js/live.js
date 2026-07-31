@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-31T22:15:51+00:00",
-  "quotesAt": "2026-07-31T22:15:51+00:00",
-  "newsAt": "2026-07-31T22:15:51+00:00",
+  "fetchedAt": "2026-07-31T22:30:53+00:00",
+  "quotesAt": "2026-07-31T22:30:53+00:00",
+  "newsAt": "2026-07-31T22:30:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "[오늘의 글로벌마켓] 뉴욕증시, 아마존 호실적에 3대지수 강세",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZnltYXJKTFN1UDB0VE1NV0hrMXRQN1RNUVVVZG10SWMxT2dMWlpRX3U1dDJoaFNKWnZoZUJGc19uUmJxUEUtV1NHRVpRcURNcWNxcTFhNjI2TVRjQUFRR3Y2UDFXY1cxMXpzQ0NPOWFydw?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-07-31T22:22:34+00:00"
+    },
+    {
+      "t": "美 연준위원 3명, '기준금리 인상 필요' 공개 성명…금리 동결 이틀만에 이례적 입장 발표",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95VW05bVNDdFlQdEhhVXRXVkh2bXNHX0RZT3RfYUQ4aFp4Q2EtMF81WGhzZ1pGa2dBQmE0aW9CVGxHUXZPZEQtc21MbnJhYlNWR21kaWtTdW5oT3djU3NzXzd0RXRRUGtpcjBDaEF0RVFZclhPc2pYVW5PeV9kcjg?oc=5",
+      "s": "프레시안",
+      "d": "2026-07-31T22:21:16+00:00"
+    },
+    {
+      "t": "전세계 ‘강제노동 관세’ 때린 미국…중국 관련 수입품 단속은 급감",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWWlCN0FDMGVRZlRYRkg5cm55REdXYlROcy11b0F4VHBUakxYdEVwdjdmR0Jwc2dPaFlKNVJIdTU1SW9WSE5TWjk5S2pEanM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-31T22:13:39+00:00"
+    },
+    {
+      "t": "[외환] 주말 이란 폭격 예고 속 1,430원 중반대로 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JNGxPUzNPODNUc3NyQmxjcHlfMDFBbDA0UXZZNVlaNVNobjcxOVV5VS1Qc19WRzBwM21QaFlVdE14aU96TUc1blB1THRNMWpjdGpRZTh0WXgwSXFwVFlIMGdSMEFUTi1salhZeUNsU0RaUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-07-31T22:10:28+00:00"
+    },
     {
       "t": "\"동결론 안 된다\"…연준 위원 3인, 금리 인상 촉구",
       "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFZSRC1jam9zczhxcjREVnlhUUNJeEh4aGRmeWIxTEhpQV92QzRxSUJEelQzaFRjb2xmMTd5Q2VZWFBvZmhfRXFQczZLVEFfUWd2aTRzcnhpcmtMUTNQaEhqSXFHRnNVZ2JEaGNfaXlzSU1QMkpjYnE2WGRwNHRGVzhCY2oxbV95UlB4eXBaQXppbDg?oc=5",
@@ -51,38 +75,14 @@ window.LIVE_DATA = {
     {
       "t": "\"대출 없어도 돼\" 주식 팔아 강남 집 샀는데…증시 '휘청', 부동산 향방은 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95b3ZRb0NnanNBOTFPcG1seW1mUExvVkJmZkM0c1BXTXo5U1VYOXlRaDRMNllzamNpY1VFUDdyT2pMdlZJLW51bWg0T3FnV2V2aVJGVEhDbDdQUDRENEZwOHNXYmhYRjJRdUHSAW9BVV95cUxQVHc4VEJ1Zlp1MlM5QTVBRDQwWDgwcW9DanFnTXdsQzNwS3VBRHczdHBudkpodjVPaHQxRFNDRU9qZnd1OTQ2Q3BSdnk4N1Y1SnNndV9kTmdUUnNIcWpwcFpiaWZyQkRzYVVrU05xS2M?oc=5",
-      "s": "머니투데이",
+      "s": "mt.co.kr",
       "d": "2026-07-31T22:00:00+00:00"
     },
     {
       "t": "숨 고르는 원·달러 환율…추세적 안정 여부는 불투명",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdmZvZnZ3Y3A5amVHNVpRczBxNjFCS0JCWHV1NXJnbk01TnBnN2JRX1Rpem1tZzdJU2E3d291NEotdWlMN1BuZHpzN3pkTWdpU1R1QXNwOVI4UFdLa1lxa9IBeEFVX3lxTFBUQmxQUTY0cEpUNmZyTDdxZl9YWmRNSENnRy15eHlfaFc3a3gzY1ZMR1FVWVQ4MWwySmdmX2p5TzNUc3dkNTc0cUg2M0Z2b2pGYzlaeE1lYjdlZlNxNkJxelJuamxEWHlGazdmNnhPN0xhZVJucWtfNA?oc=5",
-      "s": "뉴시스",
+      "s": "newsis.com",
       "d": "2026-07-31T22:00:00+00:00"
-    },
-    {
-      "t": "증권사 실적 의존도 높아진 4대 금융…하반기 수익성 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tWVVYaXVFUjVFaUEwa2IwbjVIVEcxXzRPaWxRaGROeFloYm1uc3JQY1BseDg3bVlLVGdUWHhyN0Q5bndkbDI1OXpPWHY2NG16NkZpLU44NGVqRFRWT3VjMUlRT042Vzln?oc=5",
-      "s": "CEO스코어데일리",
-      "d": "2026-07-31T22:00:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 상승 마감…아마존 호실적에 AI 우려 완화 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanFlNEdVRnhmUEYtR3ppRkFSU19uUWllSWVBZ0JCQW5NWWpPbTRjOThfSDdKVlNiYlY3b3ZNZ19sNmUydEIxZUF3Zm9wNzJ3NTVESm8ydFVqSHF4d1FORTZOaEZwMzJYeGlCWVlHeTNIbjhNV0JCVUVQdGgyUXUtc29QZThEbGVPeFVrU24ySTQtS3ZpWWd6Qmg0S1RTZ9IBsgFBVV95cUxQTHN1ZTNmM2xyZzlHQkt0T3c4cHVqSXl3ZDNJZjZlY0VfcWdmOEthYmlaZnJOY3c5N0dOVnpZSXI5RmV3eXhsS2c2Wm85QXpQcG52QUNwV0s2LUkza2h4eEJOeXAxRjQ0UWtMWFVWSlJtQkp2N05DUjlGcTZ2Y0pSakxzQk9QcWN2UW5ZcWxzTFEzWkRTTlJLVGdSay1ibU9MbTF0Z2Q0LUt1T2ZjUEgxdm13?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-07-31T21:59:00+00:00"
-    },
-    {
-      "t": "코스피 18% 급등 ‘역대 최대’…SK하이닉스 상한가",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTUp4bzNUX2lCYURhZUVzUmhITWlQYTl5SURrcnIxQUpycktPUmkzSmRZV21RVE91a2tyMW5qdW9IQnlNTjNqUFRKM3A0ZWswQmRWT1dpUkE?oc=5",
-      "s": "경북신문",
-      "d": "2026-07-31T21:50:39+00:00"
-    },
-    {
-      "t": "[뉴욕채권] 베어 스팁…'금리 인상' 3인방 의견 표명 속 유가 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WEFFZ0tvZTNZZ285cmZsd3hMdmN6NTdUQXU5b09nUXZPdDF5eUM0STFveXh2d2dHSzk5cHB3bVVmQUpQdTVWRnVIdWFiaEQ3VFBtMF9Bcl9zckJvVk5meHhfRHZ2bDcyZzUzeUhEVEU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-31T21:49:08+00:00"
     }
   ],
   "asof": {},
