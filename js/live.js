@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-07-31T22:30:53+00:00",
-  "quotesAt": "2026-07-31T22:30:53+00:00",
-  "newsAt": "2026-07-31T22:30:53+00:00",
+  "fetchedAt": "2026-07-31T22:45:53+00:00",
+  "quotesAt": "2026-07-31T22:45:53+00:00",
+  "newsAt": "2026-07-31T22:45:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -32,9 +32,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "美 연준위원 3명, '기준금리 인상 필요' 공개 성명…금리 동결 이틀만에 이례적 입장 발표",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95VW05bVNDdFlQdEhhVXRXVkh2bXNHX0RZT3RfYUQ4aFp4Q2EtMF81WGhzZ1pGa2dBQmE0aW9CVGxHUXZPZEQtc21MbnJhYlNWR21kaWtTdW5oT3djU3NzXzd0RXRRUGtpcjBDaEF0RVFZclhPc2pYVW5PeV9kcjg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pVmJWNjlic2Z4TGdad2VXU1NYTDJyQjFmaXFCNHVSQ3BtNzRZTmdkQjk4X2I0QXRPd0ZaRjduWWZUSjZ3aU9Ya1ZMdFIzU01lQUtYaVFKM1lXLUxQUndveGVwOTczUFJMUGZfdURDOEUxX2VFSXpkUU9kbw?oc=5",
       "s": "프레시안",
       "d": "2026-07-31T22:21:16+00:00"
+    },
+    {
+      "t": "국제유가, 운송 불안 속 1% 상승…브렌트유 90달러대 [상보]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GS3JmSWtJQlFRU2JZM2Z4UWdwUTA0ZS1OYlEwTXc3TDVPVXNNUzluN0dOaV94RVluVEt0VUt0WDc3Y1p4anNGS1FiNEFTOXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-31T22:21:03+00:00"
     },
     {
       "t": "전세계 ‘강제노동 관세’ 때린 미국…중국 관련 수입품 단속은 급감",
@@ -50,9 +56,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "\"동결론 안 된다\"…연준 위원 3인, 금리 인상 촉구",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFZSRC1jam9zczhxcjREVnlhUUNJeEh4aGRmeWIxTEhpQV92QzRxSUJEelQzaFRjb2xmMTd5Q2VZWFBvZmhfRXFQczZLVEFfUWd2aTRzcnhpcmtMUTNQaEhqSXFHRnNVZ2JEaGNfaXlzSU1QMkpjYnE2WGRwNHRGVzhCY2oxbV95UlB4eXBaQXppbDg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yLVAyR0xjeURwU3ZrSERIY2IyWlVucHJHNTV3UFhidi1IQnJlWkdYem5id3FpYVUyVEh5N0tJVExfbDJhUnA2SjhyQUFtSFhUUzhfZjlqc0hYbmZPZHI1SVc3em5sdw?oc=5",
       "s": "news.sbs.co.kr",
       "d": "2026-07-31T22:09:00+00:00"
+    },
+    {
+      "t": "증시 급락 때 멈추는 '프로그램매매'의 정체[주린이 투자지침서]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93bFQ2Yld6T01FejN2RUNmdUNaa3U1alNTMXNVMWx2a09Kd1I0T01wdlRaZ2xncGlqV3RHSWVfMGFCRWVCVFhmN3U4QnBXeFE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-31T22:05:04+00:00"
     },
     {
       "t": "[뉴욕유가] 출구 없는 중동 분쟁 장기화…WTI 1.3%↑",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-07-31T22:04:46+00:00"
     },
     {
-      "t": "국제유가, 이란 유조선 공격소식에 1%대 반등",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YT2ZILV85TVJtWmczcUthaDZpeVFQOHFTSi1IcW02OEw4d0NRdHJBVnc2aW5hTGZzNkNNbmhvQXd6SEh5TVU5R0Y3dmFrc3A3ZzVvMkJuZ0tNUFZ0ZWc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-07-31T22:00:31+00:00"
+      "t": "7월 내 눌렸던 코스피‥1천 포인트 '세찬' 반등",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lUmdpOG00VXIyZGJQOW9zaWZlVEpadDZQeEZmM3h4TUtISXJsOVRWQnNlTVBYbWRDcVQxNEdTZTRMREVWU29NSUxCOWxtcUg2UUhzNnhmYlpBU004NXpDN1Y3WXQyc0YxZ2IxWGNYMFM3MngzZFZfcVpn?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-07-31T22:03:54+00:00"
     },
     {
-      "t": "[기획] 中 CXMT 공습에 흔들린 K-반도체...핵심은 추격 '속도'와 미래 '수요'",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15RDNXV3M4OTlra1VTdmVuT0hPYjZjUGJaQmxRT1JJWnh5YllRVHVGU1NaOGhuZWVjQmVFZDFrQmFXaERKY1VIWGcxVWU3S2pnV2RfcFZrTTNjM3ktMHk2eVB0R1Y?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-07-31T22:00:04+00:00"
-    },
-    {
-      "t": "\"대출 없어도 돼\" 주식 팔아 강남 집 샀는데…증시 '휘청', 부동산 향방은 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95b3ZRb0NnanNBOTFPcG1seW1mUExvVkJmZkM0c1BXTXo5U1VYOXlRaDRMNllzamNpY1VFUDdyT2pMdlZJLW51bWg0T3FnV2V2aVJGVEhDbDdQUDRENEZwOHNXYmhYRjJRdUHSAW9BVV95cUxQVHc4VEJ1Zlp1MlM5QTVBRDQwWDgwcW9DanFnTXdsQzNwS3VBRHczdHBudkpodjVPaHQxRFNDRU9qZnd1OTQ2Q3BSdnk4N1Y1SnNndV9kTmdUUnNIcWpwcFpiaWZyQkRzYVVrU05xS2M?oc=5",
-      "s": "mt.co.kr",
-      "d": "2026-07-31T22:00:00+00:00"
-    },
-    {
-      "t": "숨 고르는 원·달러 환율…추세적 안정 여부는 불투명",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdmZvZnZ3Y3A5amVHNVpRczBxNjFCS0JCWHV1NXJnbk01TnBnN2JRX1Rpem1tZzdJU2E3d291NEotdWlMN1BuZHpzN3pkTWdpU1R1QXNwOVI4UFdLa1lxa9IBeEFVX3lxTFBUQmxQUTY0cEpUNmZyTDdxZl9YWmRNSENnRy15eHlfaFc3a3gzY1ZMR1FVWVQ4MWwySmdmX2p5TzNUc3dkNTc0cUg2M0Z2b2pGYzlaeE1lYjdlZlNxNkJxelJuamxEWHlGazdmNnhPN0xhZVJucWtfNA?oc=5",
-      "s": "newsis.com",
-      "d": "2026-07-31T22:00:00+00:00"
+      "t": "[베스트&워스트] 2분기 실적에 엇갈린 코스피⋯LG생건 15%↑ㆍGS건설 22%↓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DOFFaWDJ2ZnFCNVBsSnpiM04xVnE3cEVLMEVaY0xMNDdjbThCZGE0SVFrVGhMYko1RkJGc1g1Y0VKSGp4VTYxRlF0VXdWWm8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-07-31T22:01:17+00:00"
     }
   ],
   "asof": {},
