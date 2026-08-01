@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T05:45:51+00:00",
-  "quotesAt": "2026-08-01T05:45:51+00:00",
-  "newsAt": "2026-08-01T05:45:51+00:00",
+  "fetchedAt": "2026-08-01T06:00:51+00:00",
+  "quotesAt": "2026-08-01T06:00:51+00:00",
+  "newsAt": "2026-08-01T06:00:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -25,16 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "아마존, AI 반도체 기업인가?....인공지능 칩 사업 연매출 36조원 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51dk1KMmdLNGhqWWNpLXY0bVprVGlfUUxWWkxXRW5DOUtabDAwcTRpYnJDMVplVVVEdmVEYVo1RHFFb1NSZFJXZ0wtMElOT0ZaemhNNUZlLTZUYm1YNm1KZWFYaW1ENlE?oc=5",
-      "s": "인공지능신문",
-      "d": "2026-08-01T05:19:40+00:00"
-    },
-    {
       "t": "다시 뛰는 유가에 금리·환율·관세 ‘빨간불’… 불안한 하반기 물가",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaUd2TWxhNDhHVHI3azZGSnZHaXgzelA0NHZfeWFEQ3NiR3BfT2NiX0ozNlJqNkM5bElnT0xuMTBiaFktaW9OeWwyZ2VaNzRDMlNHc2dTamZlY2lGUGd2cGhrdXEyQllwS0N5QnZB?oc=5",
       "s": "더스쿠프",
       "d": "2026-08-01T05:16:38+00:00"
+    },
+    {
+      "t": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+      "s": "경기신문",
+      "d": "2026-08-01T05:12:55+00:00"
     },
     {
       "t": "반도체 수출, 정점 도달했나",
