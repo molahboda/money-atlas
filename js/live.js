@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T05:15:53+00:00",
-  "quotesAt": "2026-08-01T05:15:53+00:00",
-  "newsAt": "2026-08-01T05:15:53+00:00",
+  "fetchedAt": "2026-08-01T05:30:51+00:00",
+  "quotesAt": "2026-08-01T05:30:51+00:00",
+  "newsAt": "2026-08-01T05:30:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "다시 뛰는 유가에 금리·환율·관세 ‘빨간불’… 불안한 하반기 물가",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaUd2TWxhNDhHVHI3azZGSnZHaXgzelA0NHZfeWFEQ3NiR3BfT2NiX0ozNlJqNkM5bElnT0xuMTBiaFktaW9OeWwyZ2VaNzRDMlNHc2dTamZlY2lGUGd2cGhrdXEyQllwS0N5QnZB?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-01T05:16:38+00:00"
+    },
+    {
+      "t": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
+      "s": "경기신문",
+      "d": "2026-08-01T05:12:55+00:00"
+    },
     {
       "t": "반도체 수출, 정점 도달했나",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MGpXY3RRUV9mRnRlNUJWc1BCeFpEZlBESTJPTW9WQ3M2eVRqSmZHZkQxU2R2bThoX3hXQ3FZcDFSSVJ0Z2V5VUtCLU1DdUk2WVEwWXRaNFdWcnpCLWRCSm1Ja0ZTel95Rk9PUw?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-01T05:01:49+00:00"
     },
     {
+      "t": "전남광주시, 반도체지원단 시작으로 업무공유회 순차 개최 > 뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lc3ZKTGFwV3dsZGp6SWo5aHZvV3lHVUVubmEtM0dqYUd1cWF1Nkl1di16VHFrRy1LaVFodkZvbkJGOFJyWjRTRnQ3TnY4TVlNeGQ2SV93YVVuS0hnYUdmUlZPLWRGV3pyZE55c2Zfcmo?oc=5",
+      "s": "더코리아",
+      "d": "2026-08-01T04:59:00+00:00"
+    },
+    {
       "t": "롤러코스피에 '안전자산' 대피령…연4% 예·적금까지 나왔다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcUVqdk84ZVlmaExTM3pOLXBsbHBNT05BQVpYSnR3WThtRXJlSXB4bWNTQ2tfcU1CcTNyLWN3ZE0ta1BNaDBYYjVaR1A0Um8?oc=5",
       "s": "v.daum.net",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRllya084bEZQeEhmTkVneHdFMkNMc1J5WlUxeVFKdjJQMzlOZVRCTDVTczdmc29JRXA0ajhPYzloek5RVVlIUXJ4NUZOQkFzTmVSUy1UMmRjcW9FTUt1Qm40b0xYdXM?oc=5",
       "s": "자본시장뉴스",
       "d": "2026-08-01T04:00:00+00:00"
-    },
-    {
-      "t": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbDlKZy11aEZxamRGMGJmMjQ0U2FCYzRLTy1CUjZDazVuZHV5dUQtNHQ1T1FhLUxqQVYyZVF5UF9TaU5Ia25jYUpEbEZ1TlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-01T03:53:43+00:00"
-    },
-    {
-      "t": "7월 수출 $989억...반도체 2달 연속 $400억 초과",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
-      "s": "ytn.co.kr",
-      "d": "2026-08-01T03:47:00+00:00"
-    },
-    {
-      "t": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-01T03:17:23+00:00"
     }
   ],
   "asof": {},
