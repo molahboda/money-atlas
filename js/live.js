@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T03:45:53+00:00",
-  "quotesAt": "2026-08-01T03:45:53+00:00",
-  "newsAt": "2026-08-01T03:45:53+00:00",
+  "fetchedAt": "2026-08-01T04:00:51+00:00",
+  "quotesAt": "2026-08-01T04:00:51+00:00",
+  "newsAt": "2026-08-01T04:00:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
+      "s": "기호일보",
+      "d": "2026-08-01T03:53:42+00:00"
+    },
+    {
+      "t": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-01T03:17:23+00:00"
+    },
+    {
       "t": "7월 수출 988.9억 달러 역대 2위…반도체 두 달 연속 400억 달러 넘어",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtS1RzVUtuelJiaGVUQzh0cm11UUVVX0FOeVZXQTNPZ2F3OWhLX2VxamN1QXBlVFk0MGE5OS1GN3BwSUxkLWZrcFc0dmQ5dUk?oc=5",
       "s": "v.daum.net",
@@ -33,7 +45,7 @@ window.LIVE_DATA = {
     {
       "t": "7월 수출 989억 달러‥반도체 4백억 달러 돌파",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VDROWElOaG5fYk9ZdDFrVnFNN1RqVVkxQW5sNmVhNFA5bXJ4ZkZnaF94cnVIcE1wbmdkYndoc01YMW9rM0JidmxsVzE0a1VocE1SWFZFYjJHYTRTdmppN2MwQi05a3JldFVmaXphdlc3Mjg4ODY3dA?oc=5",
-      "s": "imnews.imbc.com",
+      "s": "MBC 뉴스",
       "d": "2026-08-01T03:06:01+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KQ18tY2Fva29fQnV0NnhNei1tS2pwTHNDVUgyWmZRYTVOeE1INGtlUURzQV9qa2pRTkY1S3czbWxJSktITFh1Y1JObGFySWZS?oc=5",
       "s": "문화일보",
       "d": "2026-08-01T02:36:56+00:00"
-    },
-    {
-      "t": "한국 7월 수출, AI 반도체 수요에 힘입어 예상치 상회",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVDBrdWMxbHl2ZnAwTGJ4VTNNcXluNEFIMk9uZEptTWtuRDZQRnhhd3VsOVM3a094ZWRiM2VuY28xWlRycG1vblhCV0xJbGl0NmVpN0psekVSOVVNYjNxTGptTVFjc0xMd0E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-01T02:31:00+00:00"
-    },
-    {
-      "t": "[주末머니]24시간 거래되는 SK하이닉스 주식, 국내 증시 영향은",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRk40TG0xUEM0X05CM3JPZTVMdi1oSkJ3emdTUm9kU3BEOW1FLU1Va0RiSVZvbFJ0WjZJcEpMRG9fbElhc2YzLXpSR3B6YXRLbHJYVTBNNUVESUlWc2JtcQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-01T02:30:00+00:00"
     }
   ],
   "asof": {},
