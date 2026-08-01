@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T04:15:53+00:00",
-  "quotesAt": "2026-08-01T04:15:53+00:00",
-  "newsAt": "2026-08-01T04:15:53+00:00",
+  "fetchedAt": "2026-08-01T04:30:53+00:00",
+  "quotesAt": "2026-08-01T04:30:53+00:00",
+  "newsAt": "2026-08-01T04:30:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
     "nikkei": 64362.02,
     "vix": 15.99,
     "krw": 1436.6,
-    "gold": 4098.6,
-    "wti": 86.8,
+    "gold": 4107,
+    "wti": 84.67,
     "dxy": 99.8
   },
   "daily": {
@@ -19,16 +19,16 @@ window.LIVE_DATA = {
     "nikkei": 4.03,
     "krw": -0.39,
     "dxy": -0.21,
-    "gold": -0.04,
-    "wti": 3.84,
+    "gold": 0.17,
+    "wti": 1.29,
     "vix": -6.44
   },
   "news": [
     {
       "t": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
-      "s": "기호일보",
-      "d": "2026-08-01T03:53:42+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbDlKZy11aEZxamRGMGJmMjQ0U2FCYzRLTy1CUjZDazVuZHV5dUQtNHQ1T1FhLUxqQVYyZVF5UF9TaU5Ia25jYUpEbEZ1TlU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-01T03:53:43+00:00"
     },
     {
       "t": "7월 수출 $989억...반도체 2달 연속 $400억 초과",
@@ -39,7 +39,7 @@ window.LIVE_DATA = {
     {
       "t": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-      "s": "shinailbo.co.kr",
+      "s": "신아일보",
       "d": "2026-08-01T03:17:23+00:00"
     },
     {
