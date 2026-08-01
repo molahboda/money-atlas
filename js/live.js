@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T09:30:51+00:00",
-  "quotesAt": "2026-08-01T09:30:51+00:00",
-  "newsAt": "2026-08-01T09:30:51+00:00",
+  "fetchedAt": "2026-08-01T09:45:51+00:00",
+  "quotesAt": "2026-08-01T09:45:51+00:00",
+  "newsAt": "2026-08-01T09:45:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-08-01T08:03:05+00:00"
     },
     {
+      "t": "주유소 기름값 내렸지만…국제유가 다시 들썩 '물가 불안' 확대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NGhCS3hlU2NvSXNZQlhHZWRURUJhTmpJR3BxenVrbVhuSDZiUkk2dEQ5NmdJOWdSMEJscjBHY0l1VG1oQ1Zxczh0VUN4eUpUZGdWd1ZUZ1dFOXhxMlRHZUlseEd1WHIxUlhhc2NCRVo?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-01T08:00:00+00:00"
+    },
+    {
       "t": "급등락 반복하는 국내 증시…“8월 반등 가능성도”",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTkoxOUs2UGd6ck9vLW9teTI2MmplSU1aU2didHFGRHNxSm12aVZ1SHBrQ09YOTl3YlAtZE0zMVc1NnhSWVg2dEdwWG8xWGRjSHZJS0VNbEtrM1AwVXpfLVZjSFE?oc=5",
       "s": "서울경제TV",
@@ -56,9 +62,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "반도체만 웃은 게 아니다···AI가 넓힌 한국 수출 지형",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80WnpGNExreWJVRnZ4X1hjeXN6Vjh3b1VMWlVhbFp0YXpXNUthU1NoUmZMODhxbjFyQWJ2QkE2Ung1T1YzSDM1ZGtYV0Y0dHpuTGZycE9Wb2xuR0lxeHdsWkRROVQ4LXZVdEhLWjZEekNXZ0x3QWfSAXZBVV95cUxPNFp6RjRMa3liVUZ2eF9YY3lzelY4d29VTFpVYWxadGF6VzVLYVNTaFJmTDg4cW4xckFidkJBNlJ4NU9WM0gzNWRrWFdGNHR6bkxmcnBPVm9sbkdJcXh3bFpEUTlUOC12VXRIS1o2RHpDV2dMd0Fn?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vSDVHMThtZGxoMDE3VlRwQ3VxLXRUMXBrUFdUUW1ISzdWdHdnb3M0M2MzVTdlcXNMTC1Ecms4b0xHUkljLVhFakZwcnBxYzhpaGN0RnhubVNlT29CWnhudnhsaC1pNzhTX19vTWdPSFo3Z9IBdkFVX3lxTE80WnpGNExreWJVRnZ4X1hjeXN6Vjh3b1VMWlVhbFp0YXpXNUthU1NoUmZMODhxbjFyQWJ2QkE2Ung1T1YzSDM1ZGtYV0Y0dHpuTGZycE9Wb2xuR0lxeHdsWkRROVQ4LXZVdEhLWjZEekNXZ0x3QWc?oc=5",
       "s": "시사저널e",
-      "d": "2026-08-01T07:39:40+00:00"
+      "d": "2026-08-01T07:24:12+00:00"
     },
     {
       "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5UjA4ZmZaMGt3OWxnUm1XOUQzUm14VEtwcUNuakdzVGE4OU4wRmYzRlRFbVg4dXQxaHU5enVzZ0NURzdZVjVyZ2FBVDFwMjZ0WnZmSXRJT1FURFZJVjBsSEhLNlF2UQ?oc=5",
       "s": "mfgkr.com",
       "d": "2026-08-01T06:49:11+00:00"
-    },
-    {
-      "t": "7월 반도체 수출 400억 달러...총수출 무역흑자 일등공신",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RemNnVWxfMmhVdkcwd0I2Z1RmNGQzRHR6ZHVNUS1FYll3Zkg3S1ZDcTBCTFU0eU1rZUE3RmZZbWpjOVdKaUZ3RUtiWDNYUUw3MmZtODZsMVJDN0lISlJPalJJUFpuRHpNVG9ZMlNqTFc2bmxfalJJ?oc=5",
-      "s": "thecommoditiesnews.com",
-      "d": "2026-08-01T06:43:37+00:00"
     }
   ],
   "asof": {},
