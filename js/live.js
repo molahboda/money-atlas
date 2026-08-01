@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T07:45:51+00:00",
-  "quotesAt": "2026-08-01T07:45:51+00:00",
-  "newsAt": "2026-08-01T07:45:51+00:00",
+  "fetchedAt": "2026-08-01T08:00:53+00:00",
+  "quotesAt": "2026-08-01T08:00:53+00:00",
+  "newsAt": "2026-08-01T08:00:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-01T06:10:21+00:00"
     },
     {
-      "t": "“내 계좌만 왜 이래” 코스피 20% 급락에도...‘이곳’ 투자한 개미들은 웃었다",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TMHNFaFpMdmJDQU1xV191ME51NjAxY3lZbUhPNVUtV3FOanIxWURZa1gwcVdteFdLZXBMV2pQaXZGS1RTVUhKWmpmN2F4RURhRFHSAVNBVV95cUxPM1d0WktMVl9FbS1PRzF0MmlxZEh2MnFNVmx3ak8wd0VHWmRvRGRFUWFEc1hwRmlTZy1tbHdvT3AyWnJpN1oyMWhFc0NZQ0pKamNoTQ?oc=5",
-      "s": "서울경제",
-      "d": "2026-08-01T06:03:52+00:00"
-    },
-    {
       "t": "반도체 생산에 쓴 물, 농촌에 환원",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RlpUMkRQNDJOSG8tVFMwX1NJV1Y3elR5MU14N0paQkx6QXZxT3YyTW1TTEQ4cWpvN1NsdkZwbWt0aTI4ZEFsRElKclJ3TXNRXzk1WXZhaXRvOFpSY0JMVmRvYlNZZWVC?oc=5",
       "s": "환경일보",
       "d": "2026-08-01T05:50:28+00:00"
+    },
+    {
+      "t": "\"보물 찾기 딱 좋은 시기\"…고수들이 요즘 눈독 들이는 종목 [투자톡]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UzFhVzRNQ1dNc3B1elZDYTNEYldTT05ob0EtVmUxdzFrU2UzMTIwQlJqQUNfVVJJa3VnYmNQTVA1TVlZOU90VHUyRS1LVHVWd3FLcVNQV1FOdw?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-08-01T05:47:53+00:00"
     }
   ],
   "asof": {},
