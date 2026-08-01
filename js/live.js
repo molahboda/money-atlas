@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T04:00:51+00:00",
-  "quotesAt": "2026-08-01T04:00:51+00:00",
-  "newsAt": "2026-08-01T04:00:51+00:00",
+  "fetchedAt": "2026-08-01T04:15:53+00:00",
+  "quotesAt": "2026-08-01T04:15:53+00:00",
+  "newsAt": "2026-08-01T04:15:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -31,9 +31,15 @@ window.LIVE_DATA = {
       "d": "2026-08-01T03:53:42+00:00"
     },
     {
+      "t": "7월 수출 $989억...반도체 2달 연속 $400억 초과",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
+      "s": "ytn.co.kr",
+      "d": "2026-08-01T03:47:00+00:00"
+    },
+    {
       "t": "7월 수출 1000억달러 육박, 역대 2위…반도체 호조",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
-      "s": "신아일보",
+      "s": "shinailbo.co.kr",
       "d": "2026-08-01T03:17:23+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZVRnTmt5dXczSW4taGZqbHlUd3MtNGxZenBwQ2dfU2I0NmFUNTBTSEtINHgwdE10TE9HZU5sWDJ0ZGJjY2FfbzA4N3VvQQ?oc=5",
       "s": "전자신문",
       "d": "2026-08-01T02:39:27+00:00"
-    },
-    {
-      "t": "[속보] 이란, 호르무즈해협 유조선 공격…국제 유가 다시 올랐다",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KQ18tY2Fva29fQnV0NnhNei1tS2pwTHNDVUgyWmZRYTVOeE1INGtlUURzQV9qa2pRTkY1S3czbWxJSktITFh1Y1JObGFySWZS?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-01T02:36:56+00:00"
     }
   ],
   "asof": {},
