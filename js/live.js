@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T08:00:53+00:00",
-  "quotesAt": "2026-08-01T08:00:53+00:00",
-  "newsAt": "2026-08-01T08:00:53+00:00",
+  "fetchedAt": "2026-08-01T08:15:51+00:00",
+  "quotesAt": "2026-08-01T08:15:51+00:00",
+  "newsAt": "2026-08-01T08:15:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "급등락 반복하는 국내 증시…“8월 반등 가능성도”",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTkoxOUs2UGd6ck9vLW9teTI2MmplSU1aU2didHFGRHNxSm12aVZ1SHBrQ09YOTl3YlAtZE0zMVc1NnhSWVg2dEdwWG8xWGRjSHZJS0VNbEtrM1AwVXpfLVZjSFE?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-01T07:59:35+00:00"
+    },
+    {
       "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uLXRoTWRiV0pscWkyWEhtb21LSV9tc1RvT2FDZlE0YVRYZk0xQlZIa003NjN3WDFRZVFENXF1MnBIeGpEMHV5Q1o0elRFbFNjT1ZPUW5nRXV3bWs3cmVTckN3?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TXJNaWlWYW1RZ09fQS1UWUR1aE1CY25rNjlmRG1McnJlVTZUZWVDZkxBR2tKR0lPZHVkT2dKZHM0eTVwdlVPNU5Gcm03S0RIczVBNmxBMlFDV0FFNS1GbA?oc=5",
       "s": "아시아경제",
       "d": "2026-08-01T07:19:00+00:00"
+    },
+    {
+      "t": "7월 수출액 989억달러 ‘역대 2위’…반도체 호황에 전년 대비 62.8%↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE54cEd6Y2l2OEcxeGJldzExUzhEQ2NiUVhIaHpEUjRFeUVWVURXcXh0TG5NVmtfT0JYdFRxTjVYRXctcjVYMV9abjh3UFU2b0ExRUlnaVd5ZWZUcnR2ZWlNajh1MnNJZDItYlNtSDktU2RfZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-01T06:52:00+00:00"
     },
     {
       "t": "반도체 제조를 위한 JIMTOF 2026 - AI 반도체 시대, 정밀가공 기술의 미래를 만나다",
@@ -47,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10dmtIaW5HYmlHVUtOWGc4c0M3dURRR2xCOW5oalVOXy1RaGZNR1ktdERUX0h3Q2puOFl5ZmVJaEZGTlBOTnFoQ0pmUXhnbGJFY1hLbld1WGZ3MnVTUXI3N0dLQThKckZTa0FF?oc=5",
       "s": "numbers.co.kr",
       "d": "2026-08-01T06:39:43+00:00"
-    },
-    {
-      "t": "“삼전·하닉 흔들릴 때 조용히 살아남았다”...반도체 폭락에도 살아남은 의외의 종목",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzM2ViVTdjU3NGWi1pQ2dtZGJBa0JnMDdXZ2tiWGRJZ2tQUjNiejJDWTFVaThSWi1hVEVMdWplZ1RlMk9heVVPXzJkZWFFYzh0YmfSAVNBVV95cUxNdTRWNldpdGdOUlQyTndZckt2VHRTaFZRdXV2QlIwRWlMRVZHd2JpaTRPRENaVlVZcTZZTzhMRXBVYk15UU02M0xGWDVLNEE2cnJWSQ?oc=5",
-      "s": "서울경제",
-      "d": "2026-08-01T06:35:33+00:00"
     },
     {
       "t": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RlpUMkRQNDJOSG8tVFMwX1NJV1Y3elR5MU14N0paQkx6QXZxT3YyTW1TTEQ4cWpvN1NsdkZwbWt0aTI4ZEFsRElKclJ3TXNRXzk1WXZhaXRvOFpSY0JMVmRvYlNZZWVC?oc=5",
       "s": "환경일보",
       "d": "2026-08-01T05:50:28+00:00"
-    },
-    {
-      "t": "\"보물 찾기 딱 좋은 시기\"…고수들이 요즘 눈독 들이는 종목 [투자톡]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UzFhVzRNQ1dNc3B1elZDYTNEYldTT05ob0EtVmUxdzFrU2UzMTIwQlJqQUNfVVJJa3VnYmNQTVA1TVlZOU90VHUyRS1LVHVWd3FLcVNQV1FOdw?oc=5",
-      "s": "hankyung.com",
-      "d": "2026-08-01T05:47:53+00:00"
     }
   ],
   "asof": {},
