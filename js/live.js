@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T07:00:51+00:00",
-  "quotesAt": "2026-08-01T07:00:51+00:00",
-  "newsAt": "2026-08-01T07:00:51+00:00",
+  "fetchedAt": "2026-08-01T07:15:51+00:00",
+  "quotesAt": "2026-08-01T07:15:51+00:00",
+  "newsAt": "2026-08-01T07:15:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -49,12 +49,6 @@ window.LIVE_DATA = {
       "d": "2026-08-01T06:35:33+00:00"
     },
     {
-      "t": "반도체 제조장비 시장도 호황…글로벌 기업들 실적 눈높이 상향",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQ2lWbkl5bF84cGU4RXl5eGp1UlktMXFWeVJydkJROXZwTG10WERLQW1xQ01DN2pZd1FyZ0sta3JFdFlfMWNOSk5STmxKc3hISkVtRmx3?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-01T06:20:46+00:00"
-    },
-    {
       "t": "“‘레버리지 ETF’ 국정조사 … 김용범 경질” … ‘롤러코스피’ 공세 수위 높이는 국민의힘",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
       "s": "문화일보",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RlpUMkRQNDJOSG8tVFMwX1NJV1Y3elR5MU14N0paQkx6QXZxT3YyTW1TTEQ4cWpvN1NsdkZwbWt0aTI4ZEFsRElKclJ3TXNRXzk1WXZhaXRvOFpSY0JMVmRvYlNZZWVC?oc=5",
       "s": "환경일보",
       "d": "2026-08-01T05:50:28+00:00"
+    },
+    {
+      "t": "다시 뛰는 유가에 금리·환율·관세 ‘빨간불’… 불안한 하반기 물가",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaUd2TWxhNDhHVHI3azZGSnZHaXgzelA0NHZfeWFEQ3NiR3BfT2NiX0ozNlJqNkM5bElnT0xuMTBiaFktaW9OeWwyZ2VaNzRDMlNHc2dTamZlY2lGUGd2cGhrdXEyQllwS0N5QnZB?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-01T05:16:38+00:00"
     }
   ],
   "asof": {},
