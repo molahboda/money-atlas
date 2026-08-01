@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T08:45:52+00:00",
-  "quotesAt": "2026-08-01T08:45:52+00:00",
-  "newsAt": "2026-08-01T08:45:52+00:00",
+  "fetchedAt": "2026-08-01T09:00:51+00:00",
+  "quotesAt": "2026-08-01T09:00:51+00:00",
+  "newsAt": "2026-08-01T09:00:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -33,13 +33,19 @@ window.LIVE_DATA = {
     {
       "t": "급등락 반복하는 국내 증시…“8월 반등 가능성도”",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTkoxOUs2UGd6ck9vLW9teTI2MmplSU1aU2didHFGRHNxSm12aVZ1SHBrQ09YOTl3YlAtZE0zMVc1NnhSWVg2dEdwWG8xWGRjSHZJS0VNbEtrM1AwVXpfLVZjSFE?oc=5",
-      "s": "sentv.co.kr",
+      "s": "서울경제TV",
       "d": "2026-08-01T07:59:35+00:00"
+    },
+    {
+      "t": "7월 수출, 989억弗 전년比 63% 급증… 반도체 410억弗 효자",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yNEZLemNGTl90ZGl3QTVJNXQxMmpfQy1lM3BVbkV1Mk1ib2NsQXlFWS1ZWXlVTF9sYW9GSGNFaWRrblZjTVlGS25SZzFqMGhUS2N3YnN1d2tjZEZTS1QyQV9yVENPNkhId1dHaTlzcHRVSExf0gF0QVVfeXFMTzI0Rkt6Y0ZOX3RkaXdBNUk1dDEyal9DLWUzcFVuRXUyTWJvY2xBeUVZLVlZeVVMX2xhb0ZIY0VpZGtuVmNNWUZLblJnMWowaFRLY3dic3V3a2NkRlNLVDJBX3JUQ082SEh3V0dpOXNwdFVITF8?oc=5",
+      "s": "IT조선",
+      "d": "2026-08-01T07:56:36+00:00"
     },
     {
       "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TXJNaWlWYW1RZ09fQS1UWUR1aE1CY25rNjlmRG1McnJlVTZUZWVDZkxBR2tKR0lPZHVkT2dKZHM0eTVwdlVPNU5Gcm03S0RIczVBNmxBMlFDV0FFNS1GbA?oc=5",
-      "s": "asiae.co.kr",
+      "s": "아시아경제",
       "d": "2026-08-01T07:19:00+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41UTNpQjBFN0x0cTdXV1h4WHBWQmE0N1FhSk5ZLTgtcjk3Ui1pRDZwb3JEX3RUcURmUDlvdGlTSE1KbmgtUGx0WnZoNW5kdTFxNUg1allLcHhteng2Umc?oc=5",
       "s": "YTN",
       "d": "2026-08-01T06:13:00+00:00"
-    },
-    {
-      "t": "[이호연의 D톡스] “美·日·英 모두 금리 묶었지만”…한은 추가 인상 압박 커졌다",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRF8tQ1RlWF9hMVFOdWdJOGF5S0R2dDk3VGp6c0dJYUxLVkVFVHVrSDBIZ2J3X211VmhFeE1paFlxZDhtMmZFcWd3dkZ0Zm5tLXdXNzRHYUJMZWZUNGpQN0hybE4?oc=5",
-      "s": "ddaily.co.kr",
-      "d": "2026-08-01T06:10:21+00:00"
     }
   ],
   "asof": {},
