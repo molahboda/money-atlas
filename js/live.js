@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T03:15:51+00:00",
-  "quotesAt": "2026-08-01T03:15:51+00:00",
-  "newsAt": "2026-08-01T03:15:51+00:00",
+  "fetchedAt": "2026-08-01T03:30:51+00:00",
+  "quotesAt": "2026-08-01T03:30:51+00:00",
+  "newsAt": "2026-08-01T03:30:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -26,9 +26,9 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "7월 수출 988.9억 달러 역대 2위…반도체 두 달 연속 400억 달러 넘어",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkcWlXUHBEbTFUUEZFN1MxNE02OVZDeFVaZDdDMkZ4cEprUjA1S1hhOGRxT0tOTDhRc3pLLUZEclk2Zk5zT2xCSUx1Z25LRmM0MEYxdFplN2RtSk0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-01T03:07:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtS1RzVUtuelJiaGVUQzh0cm11UUVVX0FOeVZXQTNPZ2F3OWhLX2VxamN1QXBlVFk0MGE5OS1GN3BwSUxkLWZrcFc0dmQ5dUk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-01T03:13:08+00:00"
     },
     {
       "t": "‘한미일 환율 공조’ 157엔 만들었다…추가 개입 촉각 [이슈+]",
