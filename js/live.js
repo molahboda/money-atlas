@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T05:00:53+00:00",
-  "quotesAt": "2026-08-01T05:00:53+00:00",
-  "newsAt": "2026-08-01T05:00:53+00:00",
+  "fetchedAt": "2026-08-01T05:15:53+00:00",
+  "quotesAt": "2026-08-01T05:15:53+00:00",
+  "newsAt": "2026-08-01T05:15:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "반도체 수출, 정점 도달했나",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11MGpXY3RRUV9mRnRlNUJWc1BCeFpEZlBESTJPTW9WQ3M2eVRqSmZHZkQxU2R2bThoX3hXQ3FZcDFSSVJ0Z2V5VUtCLU1DdUk2WVEwWXRaNFdWcnpCLWRCSm1Ja0ZTel95Rk9PUw?oc=5",
+      "s": "아틀라스뉴스",
+      "d": "2026-08-01T05:07:19+00:00"
+    },
+    {
+      "t": "‘코스피 18% 반등’ 이유 있었네 … “빅테크 호실적·AI 투자 확대 기대가 반도체 고점론 이겼다”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wSjVrUXRKRzdjbXc2SnZmaExvS3UxRm1xeUlES3pRazBFNWcyRU9SUHN0Mm5LcWVDazh5ZldSY0NxRFhQdWROSkFxVmR5ZkZj?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-01T05:03:19+00:00"
+    },
+    {
+      "t": "“반도체의 힘” 韓 7월 수출 1000억달러 육박 ‘역대 2위’",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54LXRWWllTZDV5SEtiYlNyQmVZcGtjNHdxS0I1endGOWpCNlBOVUh6bndSSE9QYkpJd2lucnBuVDl1T3pMSmpEcXhXeUF4SEU0SDNMMUtrVFNfQ2N6bjNRVWNHaw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-01T05:02:05+00:00"
+    },
+    {
+      "t": "[AI 이슈트렌드] 반도체 '역대급 실적'에도 요동친 코스피...빅테크 협력속 재난·정치 이슈 부각",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SVTJPalZldGJKYy16bUJHWlBGdEJKNWVKa3ZaNldEb2NwYUVFdUI5VjR5cFJmbmdjYUQyMzBPNUwyb2RkRGF2cGZpZTlCTDhxSk5RRkJlWkdrT0lRal9yOHQwemRFNUtVVWc?oc=5",
+      "s": "AI타임스",
+      "d": "2026-08-01T05:01:49+00:00"
+    },
     {
       "t": "롤러코스피에 '안전자산' 대피령…연4% 예·적금까지 나왔다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcUVqdk84ZVlmaExTM3pOLXBsbHBNT05BQVpYSnR3WThtRXJlSXB4bWNTQ2tfcU1CcTNyLWN3ZE0ta1BNaDBYYjVaR1A0Um8?oc=5",
@@ -51,7 +75,7 @@ window.LIVE_DATA = {
     {
       "t": "7월 수출 $989억...반도체 2달 연속 $400억 초과",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
-      "s": "YTN",
+      "s": "ytn.co.kr",
       "d": "2026-08-01T03:47:00+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42c3c3enBwRUJlRXNqajAyNnJIVnh4YWVPVEwyOEUxWl96QWNKd3JPYm1VdU1NbGxwZ3V1TUtabEp5emt3dHpmS3UzamNlcV9XSEpweGNrYkVoV25ZT05pQlBLeHg5YjRqVkp1X3l0ajE?oc=5",
       "s": "신아일보",
       "d": "2026-08-01T03:17:23+00:00"
-    },
-    {
-      "t": "7월 수출 988.9억 달러 역대 2위…반도체 두 달 연속 400억 달러 넘어",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtS1RzVUtuelJiaGVUQzh0cm11UUVVX0FOeVZXQTNPZ2F3OWhLX2VxamN1QXBlVFk0MGE5OS1GN3BwSUxkLWZrcFc0dmQ5dUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-01T03:13:08+00:00"
-    },
-    {
-      "t": "7월 수출 989억 달러‥반도체 4백억 달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VDROWElOaG5fYk9ZdDFrVnFNN1RqVVkxQW5sNmVhNFA5bXJ4ZkZnaF94cnVIcE1wbmdkYndoc01YMW9rM0JidmxsVzE0a1VocE1SWFZFYjJHYTRTdmppN2MwQi05a3JldFVmaXphdlc3Mjg4ODY3dA?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-01T03:06:01+00:00"
-    },
-    {
-      "t": "7월 수출 989억 달러 역대 2위…반도체, 두달 연속 4백억 달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNbXc4Y0RsUFMyVlNCZmJZTmVybVB1QS15a2RoRUI3ZzVzcEJNbDJaQ29EcElyQjZwQ1hsSTBYZ0h1RVIzM0piLWJQbTE4ZzdkRHJDTEFRV2dmWmFYYThoSktlYkZvdVFUTUNWM3cxN2LSAXBBVV95cUxQTW13OGNEbFBTMlZTQmZiWU5lcm1QdUEteWtkaEVCN2c1c3BCTWwyWkNvRHBJckI2cENYbEkwWGdIdUVSMzNKYi1iUG0xOGc3ZERyQ0xBUVdnZlphWGE4aEpLZWJGb3VRVE1DVjN3MTdi?oc=5",
-      "s": "전기신문",
-      "d": "2026-08-01T03:01:57+00:00"
-    },
-    {
-      "t": "‘한미일 환율 공조’ 157엔 만들었다…추가 개입 촉각 [이슈+]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tcG1ZSDhaUmhnZmd3R0FVWXEtN2lRd0pDTS0tbTM0Z1hiOTBhWjJOZ2NidWtheVZqQ2trQ3JBLVFIZUc5YWR0VjJLQlNxcjNGUS1qUk9FekVmb19jMkppWTBCSQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-01T03:01:29+00:00"
     }
   ],
   "asof": {},
