@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T04:45:53+00:00",
-  "quotesAt": "2026-08-01T04:45:53+00:00",
-  "newsAt": "2026-08-01T04:45:53+00:00",
+  "fetchedAt": "2026-08-01T05:00:53+00:00",
+  "quotesAt": "2026-08-01T05:00:53+00:00",
+  "newsAt": "2026-08-01T05:00:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
-    {
-      "t": "7월 수출 역대 2위…반도체 두 달째 400억달러대",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFMFJCU0ZQRVdIVTlkNEZDOEx2b1ZidlgwZnFqZGJNcTRpMmg3Q2xmOEMwOEhYTTJremZOeVprYVE2MVdvMHlUR1lwWnUxX1NiZHJLbGpVRVh5MThTTTBJUlZEbVlHbFE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-01T04:38:00+00:00"
-    },
     {
       "t": "롤러코스피에 '안전자산' 대피령…연4% 예·적금까지 나왔다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcUVqdk84ZVlmaExTM3pOLXBsbHBNT05BQVpYSnR3WThtRXJlSXB4bWNTQ2tfcU1CcTNyLWN3ZE0ta1BNaDBYYjVaR1A0Um8?oc=5",
@@ -57,7 +51,7 @@ window.LIVE_DATA = {
     {
       "t": "7월 수출 $989억...반도체 2달 연속 $400억 초과",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRHVESWZhSWFKa1lzR1BkRFh3dHlEWUtEeHBYb0VoV05yQkZmSW5DSTRlcVBKR3FiTmpkNmVyaVZ5c1hlYUpPVEZFbTZLbjRsNlViTkN1VWp4bDZiTFE?oc=5",
-      "s": "ytn.co.kr",
+      "s": "YTN",
       "d": "2026-08-01T03:47:00+00:00"
     },
     {
@@ -77,6 +71,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VDROWElOaG5fYk9ZdDFrVnFNN1RqVVkxQW5sNmVhNFA5bXJ4ZkZnaF94cnVIcE1wbmdkYndoc01YMW9rM0JidmxsVzE0a1VocE1SWFZFYjJHYTRTdmppN2MwQi05a3JldFVmaXphdlc3Mjg4ODY3dA?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-08-01T03:06:01+00:00"
+    },
+    {
+      "t": "7월 수출 989억 달러 역대 2위…반도체, 두달 연속 4백억 달러 돌파",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNbXc4Y0RsUFMyVlNCZmJZTmVybVB1QS15a2RoRUI3ZzVzcEJNbDJaQ29EcElyQjZwQ1hsSTBYZ0h1RVIzM0piLWJQbTE4ZzdkRHJDTEFRV2dmWmFYYThoSktlYkZvdVFUTUNWM3cxN2LSAXBBVV95cUxQTW13OGNEbFBTMlZTQmZiWU5lcm1QdUEteWtkaEVCN2c1c3BCTWwyWkNvRHBJckI2cENYbEkwWGdIdUVSMzNKYi1iUG0xOGc3ZERyQ0xBUVdnZlphWGE4aEpLZWJGb3VRVE1DVjN3MTdi?oc=5",
+      "s": "전기신문",
+      "d": "2026-08-01T03:01:57+00:00"
     },
     {
       "t": "‘한미일 환율 공조’ 157엔 만들었다…추가 개입 촉각 [이슈+]",
