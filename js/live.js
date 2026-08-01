@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T05:30:51+00:00",
-  "quotesAt": "2026-08-01T05:30:51+00:00",
-  "newsAt": "2026-08-01T05:30:51+00:00",
+  "fetchedAt": "2026-08-01T05:45:51+00:00",
+  "quotesAt": "2026-08-01T05:45:51+00:00",
+  "newsAt": "2026-08-01T05:45:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -25,16 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "아마존, AI 반도체 기업인가?....인공지능 칩 사업 연매출 36조원 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51dk1KMmdLNGhqWWNpLXY0bVprVGlfUUxWWkxXRW5DOUtabDAwcTRpYnJDMVplVVVEdmVEYVo1RHFFb1NSZFJXZ0wtMElOT0ZaemhNNUZlLTZUYm1YNm1KZWFYaW1ENlE?oc=5",
+      "s": "인공지능신문",
+      "d": "2026-08-01T05:19:40+00:00"
+    },
+    {
       "t": "다시 뛰는 유가에 금리·환율·관세 ‘빨간불’… 불안한 하반기 물가",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaUd2TWxhNDhHVHI3azZGSnZHaXgzelA0NHZfeWFEQ3NiR3BfT2NiX0ozNlJqNkM5bElnT0xuMTBiaFktaW9OeWwyZ2VaNzRDMlNHc2dTamZlY2lGUGd2cGhrdXEyQllwS0N5QnZB?oc=5",
       "s": "더스쿠프",
       "d": "2026-08-01T05:16:38+00:00"
-    },
-    {
-      "t": "7월 수출 9889억 달러 '역대 2위'…반도체 호조에 14개월 연속 최고치",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40bG5jV3lCRnNJMkk4MkZvMXNMcTFqc0tpUExnYktRclBRRHU5eEwwSmhjeUJPRjB4bllLWl9wTWc5VHR2eF9kbHVvaHZjR2dLWk1QeWRTNi10U3ByamRJUA?oc=5",
-      "s": "경기신문",
-      "d": "2026-08-01T05:12:55+00:00"
     },
     {
       "t": "반도체 수출, 정점 도달했나",
@@ -61,28 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-08-01T05:01:49+00:00"
     },
     {
+      "t": "반도체 제조장비 시장도 호황…글로벌 기업들 실적 눈높이 상향",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQ2lWbkl5bF84cGU4RXl5eGp1UlktMXFWeVJydkJROXZwTG10WERLQW1xQ01DN2pZd1FyZ0sta3JFdFlfMWNOSk5STmxKc3hISkVtRmx3?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-08-01T05:00:02+00:00"
+    },
+    {
       "t": "전남광주시, 반도체지원단 시작으로 업무공유회 순차 개최 > 뉴스",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lc3ZKTGFwV3dsZGp6SWo5aHZvV3lHVUVubmEtM0dqYUd1cWF1Nkl1di16VHFrRy1LaVFodkZvbkJGOFJyWjRTRnQ3TnY4TVlNeGQ2SV93YVVuS0hnYUdmUlZPLWRGV3pyZE55c2Zfcmo?oc=5",
       "s": "더코리아",
       "d": "2026-08-01T04:59:00+00:00"
     },
     {
-      "t": "롤러코스피에 '안전자산' 대피령…연4% 예·적금까지 나왔다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcUVqdk84ZVlmaExTM3pOLXBsbHBNT05BQVpYSnR3WThtRXJlSXB4bWNTQ2tfcU1CcTNyLWN3ZE0ta1BNaDBYYjVaR1A0Um8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-01T04:13:02+00:00"
+      "t": "롤러코스피에 '안전자산' 대피령···연4% 예·적금까지 나왔다",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fSEtrLUUtNzdjQmREUVpJelVtN2xnbGtnMDQzQ2tpZ0VodWhMS1QxeGFrUzA2S1Y5WFJGVmwtcWVIUktrRXVLRWVHZjhZVTRHZ3VzNzNjdkd1OGJNY0lSWTNpdE8xRWFhZ0E?oc=5",
+      "s": "뉴스웨이",
+      "d": "2026-08-01T04:13:00+00:00"
     },
     {
       "t": "국채 매도세, 연준의 인플레이션 신뢰성 강화 필요성 시사",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTVNBTU16YXpFejFxMFdXblhXYUJYOWZRcHpMVWlvNWEtNWRqVDVZS21LaW9LX0paVnp6RVozYTRGME11Nk9qR0FPMWRuME9PSWlpYmV0aG5jS0lNUEJhU2x0ZWF0Zzd1dFE?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-01T04:05:00+00:00"
-    },
-    {
-      "t": "코스피 7월 22.19% 하락…선행 주가수익비율 4.85배로 내려",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTRllya084bEZQeEhmTkVneHdFMkNMc1J5WlUxeVFKdjJQMzlOZVRCTDVTczdmc29JRXA0ajhPYzloek5RVVlIUXJ4NUZOQkFzTmVSUy1UMmRjcW9FTUt1Qm40b0xYdXM?oc=5",
-      "s": "자본시장뉴스",
-      "d": "2026-08-01T04:00:00+00:00"
     }
   ],
   "asof": {},
