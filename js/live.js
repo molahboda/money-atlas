@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T08:15:51+00:00",
-  "quotesAt": "2026-08-01T08:15:51+00:00",
-  "newsAt": "2026-08-01T08:15:51+00:00",
+  "fetchedAt": "2026-08-01T08:30:52+00:00",
+  "quotesAt": "2026-08-01T08:30:52+00:00",
+  "newsAt": "2026-08-01T08:30:52+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -27,13 +27,13 @@ window.LIVE_DATA = {
     {
       "t": "급등락 반복하는 국내 증시…“8월 반등 가능성도”",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTkoxOUs2UGd6ck9vLW9teTI2MmplSU1aU2didHFGRHNxSm12aVZ1SHBrQ09YOTl3YlAtZE0zMVc1NnhSWVg2dEdwWG8xWGRjSHZJS0VNbEtrM1AwVXpfLVZjSFE?oc=5",
-      "s": "서울경제TV",
+      "s": "sentv.co.kr",
       "d": "2026-08-01T07:59:35+00:00"
     },
     {
       "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TXJNaWlWYW1RZ09fQS1UWUR1aE1CY25rNjlmRG1McnJlVTZUZWVDZkxBR2tKR0lPZHVkT2dKZHM0eTVwdlVPNU5Gcm03S0RIczVBNmxBMlFDV0FFNS1GbA?oc=5",
-      "s": "아시아경제",
+      "s": "asiae.co.kr",
       "d": "2026-08-01T07:19:00+00:00"
     },
     {
@@ -61,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-01T06:39:43+00:00"
     },
     {
+      "t": "“삼전·하닉 흔들릴 때 조용히 살아남았다”...반도체 폭락에도 살아남은 의외의 종목",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzM2ViVTdjU3NGWi1pQ2dtZGJBa0JnMDdXZ2tiWGRJZ2tQUjNiejJDWTFVaThSWi1hVEVMdWplZ1RlMk9heVVPXzJkZWFFYzh0YmfSAVNBVV95cUxNdTRWNldpdGdOUlQyTndZckt2VHRTaFZRdXV2QlIwRWlMRVZHd2JpaTRPRENaVlVZcTZZTzhMRXBVYk15UU02M0xGWDVLNEE2cnJWSQ?oc=5",
+      "s": "서울경제",
+      "d": "2026-08-01T06:35:33+00:00"
+    },
+    {
       "t": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
       "s": "문화일보",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRF8tQ1RlWF9hMVFOdWdJOGF5S0R2dDk3VGp6c0dJYUxLVkVFVHVrSDBIZ2J3X211VmhFeE1paFlxZDhtMmZFcWd3dkZ0Zm5tLXdXNzRHYUJMZWZUNGpQN0hybE4?oc=5",
       "s": "디지털데일리",
       "d": "2026-08-01T06:10:21+00:00"
-    },
-    {
-      "t": "반도체 생산에 쓴 물, 농촌에 환원",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RlpUMkRQNDJOSG8tVFMwX1NJV1Y3elR5MU14N0paQkx6QXZxT3YyTW1TTEQ4cWpvN1NsdkZwbWt0aTI4ZEFsRElKclJ3TXNRXzk1WXZhaXRvOFpSY0JMVmRvYlNZZWVC?oc=5",
-      "s": "환경일보",
-      "d": "2026-08-01T05:50:28+00:00"
     }
   ],
   "asof": {},
