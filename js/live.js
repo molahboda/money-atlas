@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T09:00:51+00:00",
-  "quotesAt": "2026-08-01T09:00:51+00:00",
-  "newsAt": "2026-08-01T09:00:51+00:00",
+  "fetchedAt": "2026-08-01T09:15:51+00:00",
+  "quotesAt": "2026-08-01T09:15:51+00:00",
+  "newsAt": "2026-08-01T09:15:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"코스피, 비트코인보다 변동 심해\"…'롤러코스피'에 외신도 비판",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Mc0xaY000bC11amFmS3ZZTFNBZVNqSVVXVnZ6NVFETFFTa09wdDU2cmNnZEJNbkhLaklEeU5uQXJtTjVjaGQtQTI0WGloOXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-01T08:37:28+00:00"
+    },
+    {
+      "t": "\"일본 정부, 엔화 환율 개입에 최대 64조원 추정\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fYlBuQTBXVnRiOHNwOGxFQkx1TTZEWXNpVExoWFo1S1FOT1RSSUE5MG5tVE1VR0pVcW9TR0V6bkp4MnZ1Q3B6dVByWVNyYWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-01T08:33:01+00:00"
+    },
+    {
+      "t": "지금이 증시 바닥일까...여의도서 꼽은 유망 종목 보니",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3amhnQUR0akZOY29IUnMtZkhjc3YyelhZRjk2NU9JWmMxX3R0Q2kyU0hnYzFkSTV6ZDhzTDVYYWxIaWNXeFFfMVBJVzVxVVU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-01T08:03:05+00:00"
+    },
+    {
       "t": "주유소 기름값 내렸지만…국제유가 다시 들썩 '물가 불안' 확대",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NGhCS3hlU2NvSXNZQlhHZWRURUJhTmpJR3BxenVrbVhuSDZiUkk2dEQ5NmdJOWdSMEJscjBHY0l1VG1oQ1Zxczh0VUN4eUpUZGdWd1ZUZ1dFOXhxMlRHZUlseEd1WHIxUlhhc2NCRVo?oc=5",
       "s": "신아일보",
@@ -35,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zTkoxOUs2UGd6ck9vLW9teTI2MmplSU1aU2didHFGRHNxSm12aVZ1SHBrQ09YOTl3YlAtZE0zMVc1NnhSWVg2dEdwWG8xWGRjSHZJS0VNbEtrM1AwVXpfLVZjSFE?oc=5",
       "s": "서울경제TV",
       "d": "2026-08-01T07:59:35+00:00"
-    },
-    {
-      "t": "7월 수출, 989억弗 전년比 63% 급증… 반도체 410억弗 효자",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yNEZLemNGTl90ZGl3QTVJNXQxMmpfQy1lM3BVbkV1Mk1ib2NsQXlFWS1ZWXlVTF9sYW9GSGNFaWRrblZjTVlGS25SZzFqMGhUS2N3YnN1d2tjZEZTS1QyQV9yVENPNkhId1dHaTlzcHRVSExf0gF0QVVfeXFMTzI0Rkt6Y0ZOX3RkaXdBNUk1dDEyal9DLWUzcFVuRXUyTWJvY2xBeUVZLVlZeVVMX2xhb0ZIY0VpZGtuVmNNWUZLblJnMWowaFRLY3dic3V3a2NkRlNLVDJBX3JUQ082SEh3V0dpOXNwdFVITF8?oc=5",
-      "s": "IT조선",
-      "d": "2026-08-01T07:56:36+00:00"
     },
     {
       "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10dmtIaW5HYmlHVUtOWGc4c0M3dURRR2xCOW5oalVOXy1RaGZNR1ktdERUX0h3Q2puOFl5ZmVJaEZGTlBOTnFoQ0pmUXhnbGJFY1hLbld1WGZ3MnVTUXI3N0dLQThKckZTa0FF?oc=5",
       "s": "numbers.co.kr",
       "d": "2026-08-01T06:39:43+00:00"
-    },
-    {
-      "t": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-01T06:14:25+00:00"
-    },
-    {
-      "t": "7월 반도체 수출 $410억...2달 연속 $400억 초과",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41UTNpQjBFN0x0cTdXV1h4WHBWQmE0N1FhSk5ZLTgtcjk3Ui1pRDZwb3JEX3RUcURmUDlvdGlTSE1KbmgtUGx0WnZoNW5kdTFxNUg1allLcHhteng2Umc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-01T06:13:00+00:00"
     }
   ],
   "asof": {},
