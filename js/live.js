@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T02:45:56+00:00",
-  "quotesAt": "2026-08-01T02:45:56+00:00",
-  "newsAt": "2026-08-01T02:45:56+00:00",
+  "fetchedAt": "2026-08-01T03:00:53+00:00",
+  "quotesAt": "2026-08-01T03:00:53+00:00",
+  "newsAt": "2026-08-01T03:00:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[오늘의 글로벌마켓] 뉴욕증시, 아마존 호실적에 3대지수 강세",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rZnltYXJKTFN1UDB0VE1NV0hrMXRQN1RNUVVVZG10SWMxT2dMWlpRX3U1dDJoaFNKWnZoZUJGc19uUmJxUEUtV1NHRVpRcURNcWNxcTFhNjI2TVRjQUFRR3Y2UDFXY1cxMXpzQ0NPOWFydw?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-07-31T22:22:34+00:00"
+      "t": "7월 수출 역대 2위, 988.9억 달러…반도체 4백억 달러 돌파, 2달 연속",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MMHdaVFBrdURyT2hENm5QT2ZSUFdWeV92WTVNd0UySm9fTzF0UlZTeEUwbUtCYmVvRTBZNEo1a0pBNll0eVlaRG1JOC0?oc=5",
+      "s": "대구MBC",
+      "d": "2026-08-01T02:41:21+00:00"
     },
     {
-      "t": "美 연준위원 3명, '기준금리 인상 필요' 공개 성명…금리 동결 이틀만에 이례적 입장 발표",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pVmJWNjlic2Z4TGdad2VXU1NYTDJyQjFmaXFCNHVSQ3BtNzRZTmdkQjk4X2I0QXRPd0ZaRjduWWZUSjZ3aU9Ya1ZMdFIzU01lQUtYaVFKM1lXLUxQUndveGVwOTczUFJMUGZfdURDOEUxX2VFSXpkUU9kbw?oc=5",
-      "s": "프레시안",
-      "d": "2026-07-31T22:21:16+00:00"
+      "t": "7월 수출 989억달러 '역대 2위'…반도체가 견인",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2YmpXbmVXSHZZV01BTzlNMVQzZVZRU1RLYnFWSHVnSmdxb3pwU0pyOGp0SEpYX2hLclpWQ1otN2NuM2R3LXg5ejJuTzJHMF91Y0hrMEttUU9nMXRRVnZnMEpvUkNVYURoYTA1bXBqNFd6cEVs?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-01T02:41:00+00:00"
     },
     {
-      "t": "국제유가, 운송 불안 속 1% 상승…브렌트유 90달러대 [상보]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GS3JmSWtJQlFRU2JZM2Z4UWdwUTA0ZS1OYlEwTXc3TDVPVXNNUzluN0dOaV94RVluVEt0VUt0WDc3Y1p4anNGS1FiNEFTOXc?oc=5",
+      "t": "반도체 품은 용인시, 난개발 막을 성장관리계획 새 판 짜기",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZVRnTmt5dXczSW4taGZqbHlUd3MtNGxZenBwQ2dfU2I0NmFUNTBTSEtINHgwdE10TE9HZU5sWDJ0ZGJjY2FfbzA4N3VvQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-01T02:39:27+00:00"
+    },
+    {
+      "t": "[속보] 이란, 호르무즈해협 유조선 공격…국제 유가 다시 올랐다",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KQ18tY2Fva29fQnV0NnhNei1tS2pwTHNDVUgyWmZRYTVOeE1INGtlUURzQV9qa2pRTkY1S3czbWxJSktITFh1Y1JObGFySWZS?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-01T02:36:56+00:00"
+    },
+    {
+      "t": "한국 7월 수출, AI 반도체 수요에 힘입어 예상치 상회",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVDBrdWMxbHl2ZnAwTGJ4VTNNcXluNEFIMk9uZEptTWtuRDZQRnhhd3VsOVM3a094ZWRiM2VuY28xWlRycG1vblhCV0xJbGl0NmVpN0psekVSOVVNYjNxTGptTVFjc0xMd0E?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-08-01T02:31:00+00:00"
+    },
+    {
+      "t": "7월 수출 988억9000만달러 ‘역대 2위’…반도체 410억달러 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMmlVdnNxaFJ5aHBzdGl6V2RGNGFPRHVELW16Wlo4QzQ1cWJyQWNSSWhfLXpnY2kySU1ET2R2djNMTHVMY3hKZWR3VEtUM2M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-31T22:21:03+00:00"
+      "d": "2026-08-01T02:28:54+00:00"
     },
     {
-      "t": "전세계 ‘강제노동 관세’ 때린 미국…중국 관련 수입품 단속은 급감",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWWlCN0FDMGVRZlRYRkg5cm55REdXYlROcy11b0F4VHBUakxYdEVwdjdmR0Jwc2dPaFlKNVJIdTU1SW9WSE5TWjk5S2pEanM?oc=5",
+      "t": "일본은행, 기준금리 1%로 동결-Xinhua",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13dVVjak5tRGdFczZlN3lyMUM3N3d0bXVEaTcxLTdxeGFoZTdIb3ZrTE5HeFBwdVhlckNwRE5yZ3NaeDcyVUFOMWtiTXNVR1J3TVp5UmlYclo3ZTdYdzNpWldFSlVJb2ltQUZYTXNUOVVxdHgw?oc=5",
+      "s": "신화망",
+      "d": "2026-08-01T02:19:11+00:00"
+    },
+    {
+      "t": "‘반도체의 힘’ 7월 수출 989억 달러… 역대 2위로 높아",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JSERLS0wtYWdsTUg2ZkVIM3VfbmVaQ1BDaW44Z1NFQkpCRmNzalZXVTFyZExFMko1V1pSOG9hTlBTeGNQSzNyRjBPNlotcUZ1ZWhNeC1IZkZCVkF5Nm5uZTlkMTlIMUlLemc?oc=5",
+      "s": "천지일보",
+      "d": "2026-08-01T02:00:00+00:00"
+    },
+    {
+      "t": "7월 수출 988.9억 달러, 62.8%↑…반도체·AI 특수에 '역대 2위'(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMDZNZGRYblFTM0pIM0p1TUVLZnM1a0pVT1R5eWpnUWxEb2VjLXVxRUoxeTFnQXVDTzMtdzRjd01TbVptaFhmS05mSG92Mnc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-31T22:13:39+00:00"
+      "d": "2026-08-01T01:58:41+00:00"
     },
     {
-      "t": "[외환] 주말 이란 폭격 예고 속 1,430원 중반대로 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JNGxPUzNPODNUc3NyQmxjcHlfMDFBbDA0UXZZNVlaNVNobjcxOVV5VS1Qc19WRzBwM21QaFlVdE14aU96TUc1blB1THRNMWpjdGpRZTh0WXgwSXFwVFlIMGdSMEFUTi1salhZeUNsU0RaUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-07-31T22:10:28+00:00"
-    },
-    {
-      "t": "\"동결론 안 된다\"…연준 위원 3인, 금리 인상 촉구",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yLVAyR0xjeURwU3ZrSERIY2IyWlVucHJHNTV3UFhidi1IQnJlWkdYem5id3FpYVUyVEh5N0tJVExfbDJhUnA2SjhyQUFtSFhUUzhfZjlqc0hYbmZPZHI1SVc3em5sdw?oc=5",
-      "s": "news.sbs.co.kr",
-      "d": "2026-07-31T22:09:00+00:00"
-    },
-    {
-      "t": "증시 급락 때 멈추는 '프로그램매매'의 정체[주린이 투자지침서]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93bFQ2Yld6T01FejN2RUNmdUNaa3U1alNTMXNVMWx2a09Kd1I0T01wdlRaZ2xncGlqV3RHSWVfMGFCRWVCVFhmN3U4QnBXeFE?oc=5",
+      "t": "반도체 호황에 수출 질주…7월 989억달러 '역대 7월 최대' (종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3bFdSZ0E5RGI2eXZIRFc0SUxrR3k3RDIyVUJkbTdxcHFINjJ6dEF3OEg0QnV4Q0VUUlFwTjRyOWFMclRHck1NRW8zc2lrS3c?oc=5",
       "s": "v.daum.net",
-      "d": "2026-07-31T22:05:04+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 출구 없는 중동 분쟁 장기화…WTI 1.3%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NkI4cVpEbXhNWkF1NnZNWVBfTnJjMmtnaExWZGctdndCN0RVbGpJMzlFOUFOcEFGN1hneHMwQWVhRkRNOXltcXhNUk1KYXNSZkxQQlQwMThtQWhEUlIzeUozVzF0WU1nWUFxaFZTNTE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-07-31T22:04:46+00:00"
-    },
-    {
-      "t": "7월 내 눌렸던 코스피‥1천 포인트 '세찬' 반등",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lUmdpOG00VXIyZGJQOW9zaWZlVEpadDZQeEZmM3h4TUtISXJsOVRWQnNlTVBYbWRDcVQxNEdTZTRMREVWU29NSUxCOWxtcUg2UUhzNnhmYlpBU004NXpDN1Y3WXQyc0YxZ2IxWGNYMFM3MngzZFZfcVpn?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-07-31T22:03:54+00:00"
-    },
-    {
-      "t": "[베스트&워스트] 2분기 실적에 엇갈린 코스피⋯LG생건 15%↑ㆍGS건설 22%↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DOFFaWDJ2ZnFCNVBsSnpiM04xVnE3cEVLMEVaY0xMNDdjbThCZGE0SVFrVGhMYko1RkJGc1g1Y0VKSGp4VTYxRlF0VXdWWm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-07-31T22:01:17+00:00"
+      "d": "2026-08-01T01:54:49+00:00"
     }
   ],
   "asof": {},
