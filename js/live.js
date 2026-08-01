@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T07:15:51+00:00",
-  "quotesAt": "2026-08-01T07:15:51+00:00",
-  "newsAt": "2026-08-01T07:15:51+00:00",
+  "fetchedAt": "2026-08-01T07:30:53+00:00",
+  "quotesAt": "2026-08-01T07:30:53+00:00",
+  "newsAt": "2026-08-01T07:30:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uLXRoTWRiV0pscWkyWEhtb21LSV9tc1RvT2FDZlE0YVRYZk0xQlZIa003NjN3WDFRZVFENXF1MnBIeGpEMHV5Q1o0elRFbFNjT1ZPUW5nRXV3bWs3cmVTckN3?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-01T07:19:00+00:00"
+    },
     {
       "t": "반도체 제조를 위한 JIMTOF 2026 - AI 반도체 시대, 정밀가공 기술의 미래를 만나다",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5UjA4ZmZaMGt3OWxnUm1XOUQzUm14VEtwcUNuakdzVGE4OU4wRmYzRlRFbVg4dXQxaHU5enVzZ0NURzdZVjVyZ2FBVDFwMjZ0WnZmSXRJT1FURFZJVjBsSEhLNlF2UQ?oc=5",
@@ -63,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "[이호연의 D톡스] “美·日·英 모두 금리 묶었지만”…한은 추가 인상 압박 커졌다",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRF8tQ1RlWF9hMVFOdWdJOGF5S0R2dDk3VGp6c0dJYUxLVkVFVHVrSDBIZ2J3X211VmhFeE1paFlxZDhtMmZFcWd3dkZ0Zm5tLXdXNzRHYUJMZWZUNGpQN0hybE4?oc=5",
-      "s": "디지털데일리",
+      "s": "ddaily.co.kr",
       "d": "2026-08-01T06:10:21+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RlpUMkRQNDJOSG8tVFMwX1NJV1Y3elR5MU14N0paQkx6QXZxT3YyTW1TTEQ4cWpvN1NsdkZwbWt0aTI4ZEFsRElKclJ3TXNRXzk1WXZhaXRvOFpSY0JMVmRvYlNZZWVC?oc=5",
       "s": "환경일보",
       "d": "2026-08-01T05:50:28+00:00"
-    },
-    {
-      "t": "다시 뛰는 유가에 금리·환율·관세 ‘빨간불’… 불안한 하반기 물가",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaUd2TWxhNDhHVHI3azZGSnZHaXgzelA0NHZfeWFEQ3NiR3BfT2NiX0ozNlJqNkM5bElnT0xuMTBiaFktaW9OeWwyZ2VaNzRDMlNHc2dTamZlY2lGUGd2cGhrdXEyQllwS0N5QnZB?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-08-01T05:16:38+00:00"
     }
   ],
   "asof": {},
