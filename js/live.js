@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T06:15:51+00:00",
-  "quotesAt": "2026-08-01T06:15:51+00:00",
-  "newsAt": "2026-08-01T06:15:51+00:00",
+  "fetchedAt": "2026-08-01T06:30:51+00:00",
+  "quotesAt": "2026-08-01T06:30:51+00:00",
+  "newsAt": "2026-08-01T06:30:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "“‘레버리지 ETF’ 국정조사 … 김용범 경질” … ‘롤러코스피’ 공세 수위 높이는 국민의힘",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-01T06:14:25+00:00"
+    },
     {
       "t": "[이호연의 D톡스] “美·日·英 모두 금리 묶었지만”…한은 추가 인상 압박 커졌다",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRF8tQ1RlWF9hMVFOdWdJOGF5S0R2dDk3VGp6c0dJYUxLVkVFVHVrSDBIZ2J3X211VmhFeE1paFlxZDhtMmZFcWd3dkZ0Zm5tLXdXNzRHYUJMZWZUNGpQN0hybE4?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KQ2lWbkl5bF84cGU4RXl5eGp1UlktMXFWeVJydkJROXZwTG10WERLQW1xQ01DN2pZd1FyZ0sta3JFdFlfMWNOSk5STmxKc3hISkVtRmx3?oc=5",
       "s": "지디넷코리아",
       "d": "2026-08-01T05:00:02+00:00"
-    },
-    {
-      "t": "전남광주시, 반도체지원단 시작으로 업무공유회 순차 개최 > 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lc3ZKTGFwV3dsZGp6SWo5aHZvV3lHVUVubmEtM0dqYUd1cWF1Nkl1di16VHFrRy1LaVFodkZvbkJGOFJyWjRTRnQ3TnY4TVlNeGQ2SV93YVVuS0hnYUdmUlZPLWRGV3pyZE55c2Zfcmo?oc=5",
-      "s": "더코리아",
-      "d": "2026-08-01T04:59:00+00:00"
     }
   ],
   "asof": {},
