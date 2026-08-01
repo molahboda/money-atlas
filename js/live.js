@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T03:30:51+00:00",
-  "quotesAt": "2026-08-01T03:30:51+00:00",
-  "newsAt": "2026-08-01T03:30:51+00:00",
+  "fetchedAt": "2026-08-01T03:45:53+00:00",
+  "quotesAt": "2026-08-01T03:45:53+00:00",
+  "newsAt": "2026-08-01T03:45:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
     "nikkei": 64362.02,
     "vix": 15.99,
-    "krw": 1442.07,
+    "krw": 1436.6,
     "gold": 4098.6,
     "wti": 86.8,
     "dxy": 99.8
@@ -17,7 +17,7 @@ window.LIVE_DATA = {
     "spx": 2.37,
     "kospi": 16.46,
     "nikkei": 4.03,
-    "krw": -0.01,
+    "krw": -0.39,
     "dxy": -0.21,
     "gold": -0.04,
     "wti": 3.84,
@@ -29,6 +29,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtS1RzVUtuelJiaGVUQzh0cm11UUVVX0FOeVZXQTNPZ2F3OWhLX2VxamN1QXBlVFk0MGE5OS1GN3BwSUxkLWZrcFc0dmQ5dUk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-01T03:13:08+00:00"
+    },
+    {
+      "t": "7월 수출 989억 달러‥반도체 4백억 달러 돌파",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3VDROWElOaG5fYk9ZdDFrVnFNN1RqVVkxQW5sNmVhNFA5bXJ4ZkZnaF94cnVIcE1wbmdkYndoc01YMW9rM0JidmxsVzE0a1VocE1SWFZFYjJHYTRTdmppN2MwQi05a3JldFVmaXphdlc3Mjg4ODY3dA?oc=5",
+      "s": "imnews.imbc.com",
+      "d": "2026-08-01T03:06:01+00:00"
+    },
+    {
+      "t": "7월 수출 989억 달러 역대 2위…반도체, 두달 연속 4백억 달러 돌파",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNbXc4Y0RsUFMyVlNCZmJZTmVybVB1QS15a2RoRUI3ZzVzcEJNbDJaQ29EcElyQjZwQ1hsSTBYZ0h1RVIzM0piLWJQbTE4ZzdkRHJDTEFRV2dmWmFYYThoSktlYkZvdVFUTUNWM3cxN2LSAXBBVV95cUxQTW13OGNEbFBTMlZTQmZiWU5lcm1QdUEteWtkaEVCN2c1c3BCTWwyWkNvRHBJckI2cENYbEkwWGdIdUVSMzNKYi1iUG0xOGc3ZERyQ0xBUVdnZlphWGE4aEpLZWJGb3VRVE1DVjN3MTdi?oc=5",
+      "s": "전기신문",
+      "d": "2026-08-01T03:01:57+00:00"
     },
     {
       "t": "‘한미일 환율 공조’ 157엔 만들었다…추가 개입 촉각 [이슈+]",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRk40TG0xUEM0X05CM3JPZTVMdi1oSkJ3emdTUm9kU3BEOW1FLU1Va0RiSVZvbFJ0WjZJcEpMRG9fbElhc2YzLXpSR3B6YXRLbHJYVTBNNUVESUlWc2JtcQ?oc=5",
       "s": "아시아경제",
       "d": "2026-08-01T02:30:00+00:00"
-    },
-    {
-      "t": "7월 수출 988억9000만달러 ‘역대 2위’…반도체 410억달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMmlVdnNxaFJ5aHBzdGl6V2RGNGFPRHVELW16Wlo4QzQ1cWJyQWNSSWhfLXpnY2kySU1ET2R2djNMTHVMY3hKZWR3VEtUM2M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-01T02:28:54+00:00"
-    },
-    {
-      "t": "일본은행, 기준금리 1%로 동결-Xinhua",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13dVVjak5tRGdFczZlN3lyMUM3N3d0bXVEaTcxLTdxeGFoZTdIb3ZrTE5HeFBwdVhlckNwRE5yZ3NaeDcyVUFOMWtiTXNVR1J3TVp5UmlYclo3ZTdYdzNpWldFSlVJb2ltQUZYTXNUOVVxdHgw?oc=5",
-      "s": "신화망",
-      "d": "2026-08-01T02:19:11+00:00"
     }
   ],
   "asof": {},
