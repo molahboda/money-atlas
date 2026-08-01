@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T03:00:53+00:00",
-  "quotesAt": "2026-08-01T03:00:53+00:00",
-  "newsAt": "2026-08-01T03:00:53+00:00",
+  "fetchedAt": "2026-08-01T03:15:51+00:00",
+  "quotesAt": "2026-08-01T03:15:51+00:00",
+  "newsAt": "2026-08-01T03:15:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "7월 수출 988.9억 달러 역대 2위…반도체 두 달 연속 400억 달러 넘어",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkcWlXUHBEbTFUUEZFN1MxNE02OVZDeFVaZDdDMkZ4cEprUjA1S1hhOGRxT0tOTDhRc3pLLUZEclk2Zk5zT2xCSUx1Z25LRmM0MEYxdFplN2RtSk0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-01T03:07:00+00:00"
+    },
+    {
+      "t": "‘한미일 환율 공조’ 157엔 만들었다…추가 개입 촉각 [이슈+]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tcG1ZSDhaUmhnZmd3R0FVWXEtN2lRd0pDTS0tbTM0Z1hiOTBhWjJOZ2NidWtheVZqQ2trQ3JBLVFIZUc5YWR0VjJLQlNxcjNGUS1qUk9FekVmb19jMkppWTBCSQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-01T03:01:29+00:00"
+    },
     {
       "t": "7월 수출 역대 2위, 988.9억 달러…반도체 4백억 달러 돌파, 2달 연속",
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MMHdaVFBrdURyT2hENm5QT2ZSUFdWeV92WTVNd0UySm9fTzF0UlZTeEUwbUtCYmVvRTBZNEo1a0pBNll0eVlaRG1JOC0?oc=5",
@@ -51,8 +63,14 @@ window.LIVE_DATA = {
     {
       "t": "한국 7월 수출, AI 반도체 수요에 힘입어 예상치 상회",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVDBrdWMxbHl2ZnAwTGJ4VTNNcXluNEFIMk9uZEptTWtuRDZQRnhhd3VsOVM3a094ZWRiM2VuY28xWlRycG1vblhCV0xJbGl0NmVpN0psekVSOVVNYjNxTGptTVFjc0xMd0E?oc=5",
-      "s": "kr.investing.com",
+      "s": "Investing.com 한국어",
       "d": "2026-08-01T02:31:00+00:00"
+    },
+    {
+      "t": "[주末머니]24시간 거래되는 SK하이닉스 주식, 국내 증시 영향은",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRk40TG0xUEM0X05CM3JPZTVMdi1oSkJ3emdTUm9kU3BEOW1FLU1Va0RiSVZvbFJ0WjZJcEpMRG9fbElhc2YzLXpSR3B6YXRLbHJYVTBNNUVESUlWc2JtcQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-01T02:30:00+00:00"
     },
     {
       "t": "7월 수출 988억9000만달러 ‘역대 2위’…반도체 410억달러 돌파",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13dVVjak5tRGdFczZlN3lyMUM3N3d0bXVEaTcxLTdxeGFoZTdIb3ZrTE5HeFBwdVhlckNwRE5yZ3NaeDcyVUFOMWtiTXNVR1J3TVp5UmlYclo3ZTdYdzNpWldFSlVJb2ltQUZYTXNUOVVxdHgw?oc=5",
       "s": "신화망",
       "d": "2026-08-01T02:19:11+00:00"
-    },
-    {
-      "t": "‘반도체의 힘’ 7월 수출 989억 달러… 역대 2위로 높아",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JSERLS0wtYWdsTUg2ZkVIM3VfbmVaQ1BDaW44Z1NFQkpCRmNzalZXVTFyZExFMko1V1pSOG9hTlBTeGNQSzNyRjBPNlotcUZ1ZWhNeC1IZkZCVkF5Nm5uZTlkMTlIMUlLemc?oc=5",
-      "s": "천지일보",
-      "d": "2026-08-01T02:00:00+00:00"
-    },
-    {
-      "t": "7월 수출 988.9억 달러, 62.8%↑…반도체·AI 특수에 '역대 2위'(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMDZNZGRYblFTM0pIM0p1TUVLZnM1a0pVT1R5eWpnUWxEb2VjLXVxRUoxeTFnQXVDTzMtdzRjd01TbVptaFhmS05mSG92Mnc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-01T01:58:41+00:00"
-    },
-    {
-      "t": "반도체 호황에 수출 질주…7월 989억달러 '역대 7월 최대' (종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3bFdSZ0E5RGI2eXZIRFc0SUxrR3k3RDIyVUJkbTdxcHFINjJ6dEF3OEg0QnV4Q0VUUlFwTjRyOWFMclRHck1NRW8zc2lrS3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-01T01:54:49+00:00"
     }
   ],
   "asof": {},
