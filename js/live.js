@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T09:45:51+00:00",
-  "quotesAt": "2026-08-01T09:45:51+00:00",
-  "newsAt": "2026-08-01T09:45:51+00:00",
+  "fetchedAt": "2026-08-01T10:00:52+00:00",
+  "quotesAt": "2026-08-01T10:00:52+00:00",
+  "newsAt": "2026-08-01T10:00:52+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "반도체 수출 호조 지속…7월 수출액 ’역대 2위’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SnJJWGJ5X2x6elpydDI3eVNPandJZllBM3Z3emJEVld5MWYwR1padnVKUkFGUGd0TnFwY2wxVFFLNUx6b1ZLU1FYcTRqcVJGMDViLThiZVRzNm1JNkpCalJVbGViaUk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-01T09:10:00+00:00"
+    },
     {
       "t": "\"코스피, 비트코인보다 변동 심해\"…'롤러코스피'에 외신도 비판",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Mc0xaY000bC11amFmS3ZZTFNBZVNqSVVXVnZ6NVFETFFTa09wdDU2cmNnZEJNbkhLaklEeU5uQXJtTjVjaGQtQTI0WGloOXc?oc=5",
@@ -55,16 +61,10 @@ window.LIVE_DATA = {
       "d": "2026-08-01T07:59:35+00:00"
     },
     {
-      "t": "7월 수출, 989억弗 전년比 63% 급증… 반도체 410억弗 효자",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yNEZLemNGTl90ZGl3QTVJNXQxMmpfQy1lM3BVbkV1Mk1ib2NsQXlFWS1ZWXlVTF9sYW9GSGNFaWRrblZjTVlGS25SZzFqMGhUS2N3YnN1d2tjZEZTS1QyQV9yVENPNkhId1dHaTlzcHRVSExf0gF0QVVfeXFMTzI0Rkt6Y0ZOX3RkaXdBNUk1dDEyal9DLWUzcFVuRXUyTWJvY2xBeUVZLVlZeVVMX2xhb0ZIY0VpZGtuVmNNWUZLblJnMWowaFRLY3dic3V3a2NkRlNLVDJBX3JUQ082SEh3V0dpOXNwdFVITF8?oc=5",
-      "s": "IT조선",
-      "d": "2026-08-01T07:56:36+00:00"
-    },
-    {
       "t": "반도체만 웃은 게 아니다···AI가 넓힌 한국 수출 지형",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vSDVHMThtZGxoMDE3VlRwQ3VxLXRUMXBrUFdUUW1ISzdWdHdnb3M0M2MzVTdlcXNMTC1Ecms4b0xHUkljLVhFakZwcnBxYzhpaGN0RnhubVNlT29CWnhudnhsaC1pNzhTX19vTWdPSFo3Z9IBdkFVX3lxTE80WnpGNExreWJVRnZ4X1hjeXN6Vjh3b1VMWlVhbFp0YXpXNUthU1NoUmZMODhxbjFyQWJ2QkE2Ung1T1YzSDM1ZGtYV0Y0dHpuTGZycE9Wb2xuR0lxeHdsWkRROVQ4LXZVdEhLWjZEekNXZ0x3QWc?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80WnpGNExreWJVRnZ4X1hjeXN6Vjh3b1VMWlVhbFp0YXpXNUthU1NoUmZMODhxbjFyQWJ2QkE2Ung1T1YzSDM1ZGtYV0Y0dHpuTGZycE9Wb2xuR0lxeHdsWkRROVQ4LXZVdEhLWjZEekNXZ0x3QWfSAXZBVV95cUxPNFp6RjRMa3liVUZ2eF9YY3lzelY4d29VTFpVYWxadGF6VzVLYVNTaFJmTDg4cW4xckFidkJBNlJ4NU9WM0gzNWRrWFdGNHR6bkxmcnBPVm9sbkdJcXh3bFpEUTlUOC12VXRIS1o2RHpDV2dMd0Fn?oc=5",
       "s": "시사저널e",
-      "d": "2026-08-01T07:24:12+00:00"
+      "d": "2026-08-01T07:39:40+00:00"
     },
     {
       "t": "\"어정쩡한 美연준 보다 유가·이란이 금융시장에 더 영향\" [주末머니]",
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-01T07:19:00+00:00"
     },
     {
+      "t": "열돔 속 메마르는 한반도…호남 반도체 용수 공급은 괜찮나",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiV2NNLUdSQ0dNdURjbEwxbDRIaU12N1FzX3lpRTg3R2xmU3Y5RnFMS0ltZVFZZFFGQnNBd0NEMWxtVjBBZnZkN2VBaDNKRTJU?oc=5",
+      "s": "cpbc News",
+      "d": "2026-08-01T06:56:00+00:00"
+    },
+    {
       "t": "7월 수출액 989억달러 ‘역대 2위’…반도체 호황에 전년 대비 62.8%↑",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE54cEd6Y2l2OEcxeGJldzExUzhEQ2NiUVhIaHpEUjRFeUVWVURXcXh0TG5NVmtfT0JYdFRxTjVYRXctcjVYMV9abjh3UFU2b0ExRUlnaVd5ZWZUcnR2ZWlNajh1MnNJZDItYlNtSDktU2RfZw?oc=5",
       "s": "한겨레",
       "d": "2026-08-01T06:52:00+00:00"
-    },
-    {
-      "t": "반도체 제조를 위한 JIMTOF 2026 - AI 반도체 시대, 정밀가공 기술의 미래를 만나다",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5UjA4ZmZaMGt3OWxnUm1XOUQzUm14VEtwcUNuakdzVGE4OU4wRmYzRlRFbVg4dXQxaHU5enVzZ0NURzdZVjVyZ2FBVDFwMjZ0WnZmSXRJT1FURFZJVjBsSEhLNlF2UQ?oc=5",
-      "s": "mfgkr.com",
-      "d": "2026-08-01T06:49:11+00:00"
     }
   ],
   "asof": {},
