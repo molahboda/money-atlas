@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-01T06:00:51+00:00",
-  "quotesAt": "2026-08-01T06:00:51+00:00",
-  "newsAt": "2026-08-01T06:00:51+00:00",
+  "fetchedAt": "2026-08-01T06:15:51+00:00",
+  "quotesAt": "2026-08-01T06:15:51+00:00",
+  "newsAt": "2026-08-01T06:15:51+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "[이호연의 D톡스] “美·日·英 모두 금리 묶었지만”…한은 추가 인상 압박 커졌다",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRF8tQ1RlWF9hMVFOdWdJOGF5S0R2dDk3VGp6c0dJYUxLVkVFVHVrSDBIZ2J3X211VmhFeE1paFlxZDhtMmZFcWd3dkZ0Zm5tLXdXNzRHYUJMZWZUNGpQN0hybE4?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-08-01T06:10:21+00:00"
+    },
+    {
+      "t": "반도체 생산에 쓴 물, 농촌에 환원",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RlpUMkRQNDJOSG8tVFMwX1NJV1Y3elR5MU14N0paQkx6QXZxT3YyTW1TTEQ4cWpvN1NsdkZwbWt0aTI4ZEFsRElKclJ3TXNRXzk1WXZhaXRvOFpSY0JMVmRvYlNZZWVC?oc=5",
+      "s": "환경일보",
+      "d": "2026-08-01T05:50:28+00:00"
+    },
     {
       "t": "다시 뛰는 유가에 금리·환율·관세 ‘빨간불’… 불안한 하반기 물가",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaUd2TWxhNDhHVHI3azZGSnZHaXgzelA0NHZfeWFEQ3NiR3BfT2NiX0ozNlJqNkM5bElnT0xuMTBiaFktaW9OeWwyZ2VaNzRDMlNHc2dTamZlY2lGUGd2cGhrdXEyQllwS0N5QnZB?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lc3ZKTGFwV3dsZGp6SWo5aHZvV3lHVUVubmEtM0dqYUd1cWF1Nkl1di16VHFrRy1LaVFodkZvbkJGOFJyWjRTRnQ3TnY4TVlNeGQ2SV93YVVuS0hnYUdmUlZPLWRGV3pyZE55c2Zfcmo?oc=5",
       "s": "더코리아",
       "d": "2026-08-01T04:59:00+00:00"
-    },
-    {
-      "t": "롤러코스피에 '안전자산' 대피령···연4% 예·적금까지 나왔다",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fSEtrLUUtNzdjQmREUVpJelVtN2xnbGtnMDQzQ2tpZ0VodWhMS1QxeGFrUzA2S1Y5WFJGVmwtcWVIUktrRXVLRWVHZjhZVTRHZ3VzNzNjdkd1OGJNY0lSWTNpdE8xRWFhZ0E?oc=5",
-      "s": "뉴스웨이",
-      "d": "2026-08-01T04:13:00+00:00"
-    },
-    {
-      "t": "국채 매도세, 연준의 인플레이션 신뢰성 강화 필요성 시사",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTVNBTU16YXpFejFxMFdXblhXYUJYOWZRcHpMVWlvNWEtNWRqVDVZS21LaW9LX0paVnp6RVozYTRGME11Nk9qR0FPMWRuME9PSWlpYmV0aG5jS0lNUEJhU2x0ZWF0Zzd1dFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-01T04:05:00+00:00"
     }
   ],
   "asof": {},
