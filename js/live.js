@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-02T11:45:52+00:00",
-  "quotesAt": "2026-08-02T11:45:52+00:00",
-  "newsAt": "2026-08-02T11:45:52+00:00",
+  "fetchedAt": "2026-08-02T12:00:53+00:00",
+  "quotesAt": "2026-08-02T12:00:53+00:00",
+  "newsAt": "2026-08-02T12:00:53+00:00",
   "quotes": {
     "kospi": 6595.45,
     "spx": 7489.72,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -6.44
   },
   "news": [
+    {
+      "t": "화성시, 중고생 40명 대상 반도체 공유학교 마무리",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxeU1sUGpuUUthWTQwVENfYzVYWGtNa2tHclVGVFlmbmk4OFhxUkVNRHI1cWFKVGhyT1NPRzBSX0hJYWk5ZW5hcW5BTVU2Zw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-02T11:54:57+00:00"
+    },
     {
       "t": "코스피 급락에 ‘마통’ 1.8조 급증…‘빚투’로 “분할매수 노려”",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5",
@@ -61,28 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-02T10:23:00+00:00"
     },
     {
-      "t": "[깐팩] 美 중간선거 앞두면 증시 흔들린다?···정치보다 '거시 충격' 큰 원인",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pbEpVRDFlcnRNWjJWdjNxU1BSWk1yTmxXT295LU5JN0RueVRmZzRUQ0g4ejktQ3pxaUFPMi1DdnZWblRQM0pNclp1Zl9odFJGbWV4M005aGR5ZEZsVS1TTHlUUFAzTG42d2ZXSWJvRllPajBOVEJF0gF3QVVfeXFMT2lsSlVEMWVydE1aMlZ2M3FTUFJaTXJObFdPb3ktTkk3RG55VGZnNFRDSDh6OS1DenFpQU8yLUN2dlZuVFAzSk1yWnVmX2h0UkZtZXgzTTloZHlkRmxVLVNMeVRQUDNMbjZ3ZldJYm9GWU9qME5UQkU?oc=5",
-      "s": "여성경제신문",
-      "d": "2026-08-02T10:13:54+00:00"
-    },
-    {
       "t": "\"앞으로 몇 달간 급등락 각오해라\" 외신, 코스피 등 돌린 개미들 조명",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NVlvNkxSV1JyR09SaDd2WWlIOVQ5OHI5dWFfZWZzV1liYW5wWlFydjhSSGtleGtMZ29qY1BUWjNBUEZJei00R0wwRDdBSllSZllwczNnSWdPYVR1NDM4cA?oc=5",
       "s": "아시아경제",
       "d": "2026-08-02T10:13:25+00:00"
     },
     {
-      "t": "[동십자각] 겸손이 필요한 반도체 호황",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05UnBvZXZ6S3I3QUo0S1R4aHRYcVp0bHB3VXFrXzVfSmxyOWZ6T3EwN0lhUTBoX0dWVDFWb2FQcTJCWk54QUM1YlU0bExFTDRFWUHSAVNBVV95cUxQeFF2ZGN5RFRxR09sbXFCVWJDMGotMWZXaDRTaW9GRGp3THc1Tk1zUUdwVGZWbDZfWVVLQ01lNGVoYXRjWDd4U0wzUDVJeXZhWTdadw?oc=5",
-      "s": "sedaily.com",
-      "d": "2026-08-02T10:08:07+00:00"
-    },
-    {
       "t": "[사설]극한의 증시 변동, 부양보다 체질개선에 총력을",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tam5RT2E3bzFqejlJRmRqT1dFXzJvYTJ6N0NQV3JYbDQ0aVc5X1pmbDlQanM4RWpxbFBxYWhpVjRZamlNc3FIbzkzY2NvcEk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-02T10:06:45+00:00"
+    },
+    {
+      "t": "[사건사고] 폭염·휴가철 물가 찾았다가…수난사고 잇따라",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNX2VIRmUyTTFpa2hEZEVtam5Vb1dqWHJlSjhqNDNlT0lUREtLQkZfMExxYmtubGdaWWl5MWpCdks4WWliSUw1ZnQyS3Z1WkNQUklyQVZuYUtWNE1iNXJjajUzajd0YUk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-02T10:04:00+00:00"
     }
   ],
   "asof": {},
