@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-03T13:45:51+00:00",
-  "quotesAt": "2026-08-03T13:45:51+00:00",
-  "newsAt": "2026-08-03T13:45:51+00:00",
+  "fetchedAt": "2026-08-03T14:00:53+00:00",
+  "quotesAt": "2026-08-03T14:00:53+00:00",
+  "newsAt": "2026-08-03T14:00:53+00:00",
   "quotes": {
     "kospi": 6257.45,
-    "spx": 7540.27,
+    "spx": 7557.5,
     "nikkei": 63754.9,
-    "vix": 16.02,
-    "krw": 1426.48,
-    "gold": 4083.7,
-    "wti": 78.68,
-    "dxy": 99.75
+    "vix": 16.25,
+    "krw": 1427.18,
+    "gold": 4087.1,
+    "wti": 78.63,
+    "dxy": 99.78
   },
   "daily": {
-    "spx": 1.38,
+    "spx": 1.61,
     "kospi": 11.87,
     "nikkei": -0.94,
-    "krw": 0.41,
-    "dxy": -0.16,
-    "gold": -0.57,
-    "wti": -7.07,
-    "vix": 0.19
+    "krw": 0.46,
+    "dxy": -0.13,
+    "gold": -0.48,
+    "wti": -7.13,
+    "vix": 1.63
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xejZkSGJLMTBBTUZ6dmtOTXNZNWxUUDZ5ajBERzJ4X1gxTl9rY0lrcXN0bEtuSGdLblVRRi1jODN1RmlNSkVreFdWc0RObEJPTmFtQ3lB?oc=5",
       "s": "중앙일보",
       "d": "2026-08-03T13:33:45+00:00"
+    },
+    {
+      "t": "트럼프 \"이란 공습 철회\"...유가 6% 급락",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ2s1cGlkZmdnVGNvV3Nzblo5eG5SeHhJQmd0NTB1U2s2UWF2Z2VtSktpMVY2SEJWemRFTW5EQkZZVHlMWXdldC1KaUlfQnhCWlMxaGdoek03Zw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-03T13:28:33+00:00"
     },
     {
       "t": "\"AI 불확실성에 26% 급락\"…홍콩 증시 오히려 웃었다",
@@ -50,9 +56,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "‘역대급 폭등’했던 코스피, 오늘은 ‘5.12% 급락’",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40b3BtQXZhTWtfNXlzQ2FteE9jSkVtcDVzODBKX252VUtHNnhiVF8zWHhEa0ZTVkdWR1ltTHA0eGZ6cU1pQkhyMzRQMTlWNHlCSGdPdWkyMHRBckk?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ETHpLeG80b044XzZab1dGdlg4YmxLWEVDNUFQeFB2U3I2UGdXT1Bnd2ZYUWpDbGFCQWVTbGZ6TWZzNzlGbjljN3BGVkVnWks2cV9Ddlg4d0tVVGhJNG00dUN6RFpvZw?oc=5",
       "s": "KBS 뉴스",
-      "d": "2026-08-03T12:45:00+00:00"
+      "d": "2026-08-03T12:26:15+00:00"
     },
     {
       "t": "환율 1,300원대 초읽기?…한 달 새 125원 급락",
@@ -75,14 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "폭염·가뭄 '밥상물가 비상'",
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkVVlaOHhkLUtHcWdCVEt3d0JJcjh4SWkySnp0SkI1Z3BSYVpXbDY3cFBtVnY2WUZ1a1NhT3VtbF9IS2l2Sl9xRUpabl8wX0pQVTVHcw?oc=5",
-      "s": "knn.co.kr",
+      "s": "news.knn.co.kr",
       "d": "2026-08-03T11:45:00+00:00"
-    },
-    {
-      "t": "“탈출하면 다신 국장 안 해” 코스피 급등하자 국내 ETF 내던졌다 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wTGdBb1lzNUR3eDZEZ3hVUzZPWDlfS1pNSmhRN1FZSExTNnJMeHI5cGVzQXBmMXBPckpYa1lGdndsYVJ3N1NiR1lfZkZ1QWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-03T11:41:39+00:00"
     }
   ],
   "asof": {},
