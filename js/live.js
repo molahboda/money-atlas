@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-03T14:45:51+00:00",
-  "quotesAt": "2026-08-03T14:45:51+00:00",
-  "newsAt": "2026-08-03T14:45:51+00:00",
+  "fetchedAt": "2026-08-03T15:00:53+00:00",
+  "quotesAt": "2026-08-03T15:00:53+00:00",
+  "newsAt": "2026-08-03T15:00:53+00:00",
   "quotes": {
     "kospi": 6257.45,
-    "spx": 7573.48,
+    "spx": 7578.47,
     "nikkei": 63754.9,
-    "vix": 15.78,
-    "krw": 1428.49,
-    "gold": 4091.1,
-    "wti": 79.38,
-    "dxy": 99.83
+    "vix": 15.75,
+    "krw": 1428.98,
+    "gold": 4092.1,
+    "wti": 79.44,
+    "dxy": 99.85
   },
   "daily": {
-    "spx": 1.83,
+    "spx": 1.89,
     "kospi": 11.87,
     "nikkei": -0.94,
-    "krw": 0.56,
-    "dxy": -0.08,
-    "gold": -0.39,
-    "wti": -6.25,
-    "vix": -1.31
+    "krw": 0.59,
+    "dxy": -0.07,
+    "gold": -0.36,
+    "wti": -6.18,
+    "vix": -1.5
   },
   "news": [
     {
@@ -55,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-03T13:46:40+00:00"
     },
     {
+      "t": "코스피 6,200선 '털썩'...코스닥은 '매수 사이드카'",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVkg1LXRfenBKbENBUHktbFpQSHFXWjBTNzk0V0NnUnR1cU16NkpUMkUxOEdrcWNESTVwaWhOeHZFLU83RTY1MUg1d2lsdDc4eXprUFRWTEJZLUROMzV3TXZwN2p0Ri16MDR6LU5VajVTUmQ5NHc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-03T13:44:00+00:00"
+    },
+    {
       "t": "귀국 직후 내각 소집한 李, 도시락 먹으며 부동산·증시 끝장토론",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xejZkSGJLMTBBTUZ6dmtOTXNZNWxUUDZ5ajBERzJ4X1gxTl9rY0lrcXN0bEtuSGdLblVRRi1jODN1RmlNSkVreFdWc0RObEJPTmFtQ3lB?oc=5",
       "s": "중앙일보",
@@ -63,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "트럼프 \"이란 공습 철회\"...유가 6% 급락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ2s1cGlkZmdnVGNvV3Nzblo5eG5SeHhJQmd0NTB1U2s2UWF2Z2VtSktpMVY2SEJWemRFTW5EQkZZVHlMWXdldC1KaUlfQnhCWlMxaGdoek03Zw?oc=5",
-      "s": "파이낸셜뉴스",
+      "s": "fnnews.com",
       "d": "2026-08-03T13:28:33+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWGNnSmJ3U1puTkhBdm1faGlVcW5hczY0bGI0dzRUbXBRVTg3QVdwbnVyUXlnX2VwRVJ6WmJ6QTVhVkNuT3pIZlhhdElSWGMwN0FqOFJ1aHluZw?oc=5",
       "s": "한국경제",
       "d": "2026-08-03T13:02:57+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 트럼프 '이란 공습 철회'에 주가선물 반등...유가·국채금리 '동반 하락'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54STBOT29WY0RHYW9SY295dUdhcU56R05sSHFWM2lhTTY3aXJfaG9yeW04MEdRS0VlN0t5cThuT0FuMVdYLTkxdjI1eTcyT2NDeU9QMzQzOXZRYU0t?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-03T13:00:00+00:00"
     }
   ],
   "asof": {},
