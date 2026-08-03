@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-03T15:00:53+00:00",
-  "quotesAt": "2026-08-03T15:00:53+00:00",
-  "newsAt": "2026-08-03T15:00:53+00:00",
+  "fetchedAt": "2026-08-03T15:15:51+00:00",
+  "quotesAt": "2026-08-03T15:15:51+00:00",
+  "newsAt": "2026-08-03T15:15:51+00:00",
   "quotes": {
     "kospi": 6257.45,
-    "spx": 7578.47,
+    "spx": 7577.23,
     "nikkei": 63754.9,
-    "vix": 15.75,
-    "krw": 1428.98,
-    "gold": 4092.1,
-    "wti": 79.44,
-    "dxy": 99.85
+    "vix": 15.71,
+    "krw": 1432.18,
+    "gold": 4086.7,
+    "wti": 79.78,
+    "dxy": 99.91
   },
   "daily": {
-    "spx": 1.89,
+    "spx": 1.88,
     "kospi": 11.87,
     "nikkei": -0.94,
-    "krw": 0.59,
-    "dxy": -0.07,
-    "gold": -0.36,
-    "wti": -6.18,
-    "vix": -1.5
+    "krw": 0.82,
+    "dxy": 0,
+    "gold": -0.49,
+    "wti": -5.78,
+    "vix": -1.75
   },
   "news": [
+    {
+      "t": "[이병훈의 마켓 나우] 방어보다 선점, 대체불가 반도체를 향하여",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmVWw4VzlTY1BlWlA2cllkbHZZY3hqMXBzZXduem0yS29XNkg4c0djUDctakJFNEVJSk1JdVZUTEpaX1hhUjJLM2gtbUNyWmR3Z3lQMGZR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-03T15:04:00+00:00"
+    },
+    {
+      "t": "코스피 5% 이상 급락",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nZFEwY281WmJpQ1RZWU1lUVBaS3MyS0pqU0s1cm1NdjktWVY1N3R4bXVjdWtiaS05ZmItTzlYX1d4WXRuVEYtVnJTWS1nVktlV2FDdzFGQjVTR1duR0o0MzQ1alUtRkdBdnVqaQ?oc=5",
+      "s": "경상일보",
+      "d": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (28) 팔란티어... 서학개미 Top Pick \"반지의 제왕\"",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDhudEYwVHNpVUxzajJud28tNzllQm4yWmh2LVlZT1QzV2htSGU5MGlVQ2s2UUtaaFNCSjRGc3VqN2V1SGZ1b0ZYemZWNktwZTlqS1Q5MlZvQ3dNb0dtekR0M1drSVJtbkdrYkhtYlRpdm5FZDN1WlR2TVdUZkpqZV9YbzA?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-03T15:00:00+00:00"
+    },
     {
       "t": "“코스피 극단적 저평가, 매수 기회”…대신증권, 목표주가는 하향",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZVF4SkttRUdsWmFvMDFpWHVkYWNCbXBtRFEtQ1QyS2ZHTkN0LTFkR1E3czA5UzlTLWdWNXpEZE5qaXp0S24yRXpLZEhQV3I3?oc=5",
@@ -49,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-08-03T14:11:50+00:00"
     },
     {
-      "t": "반도체·2차전지 등 ‘생산’ 세액공제, 이자·배당 전액 비과세 ISA 신설 [2026년 세제개편안]",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTUFXTTlvTlpIcjl5d2ExNy0xUGFuSkFWQ2hqVkw2Z3MyMmZSN0cxVV9kUWZ2YldQUHFuRThoZ0QydThXU1IzRk11SHM2aUQwYjdvcGxB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-03T13:46:40+00:00"
-    },
-    {
       "t": "코스피 6,200선 '털썩'...코스닥은 '매수 사이드카'",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVkg1LXRfenBKbENBUHktbFpQSHFXWjBTNzk0V0NnUnR1cU16NkpUMkUxOEdrcWNESTVwaWhOeHZFLU83RTY1MUg1d2lsdDc4eXprUFRWTEJZLUROMzV3TXZwN2p0Ri16MDR6LU5VajVTUmQ5NHc?oc=5",
       "s": "YTN",
@@ -69,20 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "트럼프 \"이란 공습 철회\"...유가 6% 급락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ2s1cGlkZmdnVGNvV3Nzblo5eG5SeHhJQmd0NTB1U2s2UWF2Z2VtSktpMVY2SEJWemRFTW5EQkZZVHlMWXdldC1KaUlfQnhCWlMxaGdoek03Zw?oc=5",
-      "s": "fnnews.com",
+      "s": "파이낸셜뉴스",
       "d": "2026-08-03T13:28:33+00:00"
-    },
-    {
-      "t": "\"AI 불확실성에 26% 급락\"…홍콩 증시 오히려 웃었다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91X01XYUZubFQ5T002QU5ZT0c4UTZRNTA1ckZiNFlpQ0xXWW5YVzJ2SUxFYllTXzZqVzg0ZFljdFBtVFRfTExoQThFay1HY2M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-03T13:21:52+00:00"
-    },
-    {
-      "t": "트럼프, 이란 공격 취소에 유가 6% 급락…美 국채금리도 내려",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWGNnSmJ3U1puTkhBdm1faGlVcW5hczY0bGI0dzRUbXBRVTg3QVdwbnVyUXlnX2VwRVJ6WmJ6QTVhVkNuT3pIZlhhdElSWGMwN0FqOFJ1aHluZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-03T13:02:57+00:00"
     }
   ],
   "asof": {},
