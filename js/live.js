@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-03T14:00:53+00:00",
-  "quotesAt": "2026-08-03T14:00:53+00:00",
-  "newsAt": "2026-08-03T14:00:53+00:00",
+  "fetchedAt": "2026-08-03T14:15:53+00:00",
+  "quotesAt": "2026-08-03T14:15:53+00:00",
+  "newsAt": "2026-08-03T14:15:53+00:00",
   "quotes": {
     "kospi": 6257.45,
-    "spx": 7557.5,
+    "spx": 7564.3,
     "nikkei": 63754.9,
-    "vix": 16.25,
-    "krw": 1427.18,
-    "gold": 4087.1,
-    "wti": 78.63,
-    "dxy": 99.78
+    "vix": 16.07,
+    "krw": 1428.47,
+    "gold": 4085.9,
+    "wti": 79.23,
+    "dxy": 99.81
   },
   "daily": {
-    "spx": 1.61,
+    "spx": 1.7,
     "kospi": 11.87,
     "nikkei": -0.94,
-    "krw": 0.46,
-    "dxy": -0.13,
-    "gold": -0.48,
-    "wti": -7.13,
-    "vix": 1.63
+    "krw": 0.55,
+    "dxy": -0.1,
+    "gold": -0.51,
+    "wti": -6.42,
+    "vix": 0.5
   },
   "news": [
+    {
+      "t": "[뉴욕증시]美-이란 대화 재개…일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wVER2T3B1MTFYX1VsVXVCMTF6b2VXWmw2emRfWjVTQUpic0FCNzlYYVQzWFpRSEpxQWJPV2ZUQXo5Z2FjTm1hb0phMHJYYWpzTVNwVGpSY0RHMUxPa2ktTA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-03T14:10:15+00:00"
+    },
+    {
+      "t": "반도체·2차전지 등 ‘생산’ 세액공제, 이자·배당 전액 비과세 ISA 신설 [2026년 세제개편안]",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jTUFXTTlvTlpIcjl5d2ExNy0xUGFuSkFWQ2hqVkw2Z3MyMmZSN0cxVV9kUWZ2YldQUHFuRThoZ0QydThXU1IzRk11SHM2aUQwYjdvcGxB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-03T13:46:40+00:00"
+    },
     {
       "t": "귀국 직후 내각 소집한 李, 도시락 먹으며 부동산·증시 끝장토론",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xejZkSGJLMTBBTUZ6dmtOTXNZNWxUUDZ5ajBERzJ4X1gxTl9rY0lrcXN0bEtuSGdLblVRRi1jODN1RmlNSkVreFdWc0RObEJPTmFtQ3lB?oc=5",
@@ -33,7 +45,7 @@ window.LIVE_DATA = {
     {
       "t": "트럼프 \"이란 공습 철회\"...유가 6% 급락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ2s1cGlkZmdnVGNvV3Nzblo5eG5SeHhJQmd0NTB1U2s2UWF2Z2VtSktpMVY2SEJWemRFTW5EQkZZVHlMWXdldC1KaUlfQnhCWlMxaGdoek03Zw?oc=5",
-      "s": "파이낸셜뉴스",
+      "s": "fnnews.com",
       "d": "2026-08-03T13:28:33+00:00"
     },
     {
@@ -55,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-08-03T13:00:00+00:00"
     },
     {
-      "t": "‘역대급 폭등’했던 코스피, 오늘은 ‘5.12% 급락’",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ETHpLeG80b044XzZab1dGdlg4YmxLWEVDNUFQeFB2U3I2UGdXT1Bnd2ZYUWpDbGFCQWVTbGZ6TWZzNzlGbjljN3BGVkVnWks2cV9Ddlg4d0tVVGhJNG00dUN6RFpvZw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-03T12:26:15+00:00"
-    },
-    {
       "t": "환율 1,300원대 초읽기?…한 달 새 125원 급락",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oZDkzT2I4MUxMWDBUdDBuYU9vUHFJRTdFaGNFZ1F4aldzOGhpRk9vZzRIazZKSTBUQ0YwdFY4WS1wNHdoamRKajZqdG5zeGV1a2VoTVlmYWdJQU80N1VqTFNCU3A4M2s?oc=5",
       "s": "연합뉴스TV",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSThQYUQtT1Iwd0hocjV5VTdrS09WYzNmYVROYml3RHBOdHJjNTlnSGlSMHV1aTBGdnBiM2Y2dkNBbUYtREpEa0JKdmhadw?oc=5",
       "s": "전자신문",
       "d": "2026-08-03T11:51:48+00:00"
-    },
-    {
-      "t": "폭염·가뭄 '밥상물가 비상'",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkVVlaOHhkLUtHcWdCVEt3d0JJcjh4SWkySnp0SkI1Z3BSYVpXbDY3cFBtVnY2WUZ1a1NhT3VtbF9IS2l2Sl9xRUpabl8wX0pQVTVHcw?oc=5",
-      "s": "news.knn.co.kr",
-      "d": "2026-08-03T11:45:00+00:00"
     }
   ],
   "asof": {},
