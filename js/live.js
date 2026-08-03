@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-03T14:15:53+00:00",
-  "quotesAt": "2026-08-03T14:15:53+00:00",
-  "newsAt": "2026-08-03T14:15:53+00:00",
+  "fetchedAt": "2026-08-03T14:30:51+00:00",
+  "quotesAt": "2026-08-03T14:30:51+00:00",
+  "newsAt": "2026-08-03T14:30:51+00:00",
   "quotes": {
     "kospi": 6257.45,
-    "spx": 7564.3,
+    "spx": 7568.89,
     "nikkei": 63754.9,
-    "vix": 16.07,
-    "krw": 1428.47,
-    "gold": 4085.9,
-    "wti": 79.23,
-    "dxy": 99.81
+    "vix": 15.88,
+    "krw": 1427.64,
+    "gold": 4087.1,
+    "wti": 79.28,
+    "dxy": 99.83
   },
   "daily": {
-    "spx": 1.7,
+    "spx": 1.76,
     "kospi": 11.87,
     "nikkei": -0.94,
-    "krw": 0.55,
-    "dxy": -0.1,
-    "gold": -0.51,
-    "wti": -6.42,
-    "vix": 0.5
+    "krw": 0.5,
+    "dxy": -0.08,
+    "gold": -0.48,
+    "wti": -6.37,
+    "vix": -0.69
   },
   "news": [
+    {
+      "t": "뉴욕증시, 중동 갈등 완화 기대감에 상승 출발… 국제 유가는 하락 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa21rS2htTkx6YkJrcmZHakJ3em5UQUVxYlRyckQ1djBya2x5U0I0OGdGdXhoYjZNR01VN3o0TzdzNWo5R0ZtWlVSSUV6WFJPTlZ5T0FiNlgwWEJVeW0yV3U2ZUIzbk5hcWpwaDdTeE9SU0txYWQ1RFBoMGVLQmhCX2c2WUNZNU9wLWhrTDlkLVN4aEZnb1dqb05nN2lDZ9IBsgFBVV95cUxQaHFxcUY1RGREZ1NNc3dfWkNwQkhkQ3BGWUl2dkR0RWpfNE16ZWlXbXBLbmlrcU5pSDZ4TDZxRXJLTVlSNXdkeXRYT3o4Ulo0aUlnVXZiLXVZSDhGUVlCVHliRUNDdy1xMzhpaWhaSGxSSGlFN0RWSGM4aU51RGRWOExTR1lpQ1lIaWlNTTdnc0tnRXVDblpGMW52c1RXcXM5R2N6V0pSN2JqSzdJU3I3WFlB?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-03T14:19:00+00:00"
+    },
     {
       "t": "[뉴욕증시]美-이란 대화 재개…일제히 상승",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wVER2T3B1MTFYX1VsVXVCMTF6b2VXWmw2emRfWjVTQUpic0FCNzlYYVQzWFpRSEpxQWJPV2ZUQXo5Z2FjTm1hb0phMHJYYWpzTVNwVGpSY0RHMUxPa2ktTA?oc=5",
@@ -37,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-08-03T13:46:40+00:00"
     },
     {
+      "t": "[속보] 뉴욕 증시, 美 공격 취소에 상승 출발···다우 1.16%↑ 나스닥 0.33%↑",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16Ym1RY0FCNnZveE5lcF9IbVJGeEdiZjRsb253cE9YRUwxakxBeDVJaHBqYi1sZWxCaUhOOVVndEl6WDVkV2tXS2taMElHYjdET3dPMTBpTUphQlM2bndTM9IBeEFVX3lxTE9vako2N0ItZmlHbF9IYkZZU05CRk5vYkxQSTJMUTVBMTVLY3gzTlZXVWJ5VFkwSmVlNnRDVERtS1RwbHpEUFAwVnJFZGJQTjFPQURTdk94dk1tdkpEUENWVmItU1F1bVMzUzBIVlRfSWczeFdEbmdibQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-03T13:40:44+00:00"
+    },
+    {
       "t": "귀국 직후 내각 소집한 李, 도시락 먹으며 부동산·증시 끝장토론",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xejZkSGJLMTBBTUZ6dmtOTXNZNWxUUDZ5ajBERzJ4X1gxTl9rY0lrcXN0bEtuSGdLblVRRi1jODN1RmlNSkVreFdWc0RObEJPTmFtQ3lB?oc=5",
       "s": "중앙일보",
@@ -45,7 +57,7 @@ window.LIVE_DATA = {
     {
       "t": "트럼프 \"이란 공습 철회\"...유가 6% 급락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PZ2s1cGlkZmdnVGNvV3Nzblo5eG5SeHhJQmd0NTB1U2s2UWF2Z2VtSktpMVY2SEJWemRFTW5EQkZZVHlMWXdldC1KaUlfQnhCWlMxaGdoek03Zw?oc=5",
-      "s": "fnnews.com",
+      "s": "파이낸셜뉴스",
       "d": "2026-08-03T13:28:33+00:00"
     },
     {
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-03T13:00:00+00:00"
     },
     {
-      "t": "환율 1,300원대 초읽기?…한 달 새 125원 급락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oZDkzT2I4MUxMWDBUdDBuYU9vUHFJRTdFaGNFZ1F4aldzOGhpRk9vZzRIazZKSTBUQ0YwdFY4WS1wNHdoamRKajZqdG5zeGV1a2VoTVlmYWdJQU80N1VqTFNCU3A4M2s?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-03T12:11:00+00:00"
-    },
-    {
-      "t": "뉴욕 연은총재 \"인플레완화 낙관,현재 금리기조 적합\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IN3JLM2U0bU85THdodFhOZlNfNWVwR05Da0ZLbmJLQ2pheFJla3d0Zm1YUnJrZVdsaXVmQWxucXgtaTl4ZlljMWxac255aUNhMTlRUWxMcllXdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-03T12:09:46+00:00"
-    },
-    {
-      "t": "코스피 떨어지는데…“다시 9000 간다, 사라” 모건스탠리 '비중 확대' 권한 이유",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSThQYUQtT1Iwd0hocjV5VTdrS09WYzNmYVROYml3RHBOdHJjNTlnSGlSMHV1aTBGdnBiM2Y2dkNBbUYtREpEa0JKdmhadw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-03T11:51:48+00:00"
+      "t": "‘역대급 폭등’했던 코스피, 오늘은 ‘5.12% 급락’",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ETHpLeG80b044XzZab1dGdlg4YmxLWEVDNUFQeFB2U3I2UGdXT1Bnd2ZYUWpDbGFCQWVTbGZ6TWZzNzlGbjljN3BGVkVnWks2cV9Ddlg4d0tVVGhJNG00dUN6RFpvZw?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-03T12:26:15+00:00"
     }
   ],
   "asof": {},
