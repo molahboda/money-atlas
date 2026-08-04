@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-04T04:45:56+00:00",
-  "quotesAt": "2026-08-04T04:45:56+00:00",
-  "newsAt": "2026-08-04T02:45:59+00:00",
+  "fetchedAt": "2026-08-04T05:00:51+00:00",
+  "quotesAt": "2026-08-04T05:00:51+00:00",
+  "newsAt": "2026-08-04T05:00:51+00:00",
   "quotes": {
-    "kospi": 6189.67,
+    "kospi": 6172.02,
     "spx": 7600.5,
-    "nikkei": 63603.53,
+    "nikkei": 63533.29,
     "vix": 15.86,
-    "krw": 1429.58,
-    "gold": 4118.4,
-    "wti": 81.16,
-    "dxy": 100.01
+    "krw": 1429.72,
+    "gold": 4120.9,
+    "wti": 81.2,
+    "dxy": 100
   },
   "daily": {
     "spx": 2.19,
-    "kospi": -6.15,
-    "nikkei": -0.24,
-    "krw": -0.43,
-    "dxy": 0.11,
-    "gold": 0.68,
-    "wti": 1.02,
+    "kospi": -6.42,
+    "nikkei": -0.35,
+    "krw": -0.42,
+    "dxy": 0.1,
+    "gold": 0.74,
+    "wti": 1.07,
     "vix": -0.81
   },
   "news": [
     {
-      "t": "뉴욕증시, 중동 갈등 완화에 상승 출발…다우 1.07%↑ 나스닥 0.88%↑",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZcmVqTEJHbDBDZ2owS0xyM2QxRUU5RlYtV0x2Nmt3b2JQclNucXdTeHhjdHQ4bkV2Mm5sSl9BWXI4S0RTM0l1LXRmamVfazdQ?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-03T15:26:23+00:00"
+      "t": "\"세금 내고 말지\"...코스피 약세에 RIA 출시 이후 첫 월간 순유출",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzd6MGpqZ0xpcFNMSm9QLUNMQWdFSjJZUXlNVUM0RUJDVndRNkg4bm1CRkcwaF9BenpjUXhnMVBxc2VqTFYxMkVKY1Q1VzgxTDNmd0V0VUdRYWVLZWtlZTk5dHlJdU1xOE1MM1dfYjQ1YklvNUFKUGVIYWMxZFJlSQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-04T04:31:00+00:00"
     },
     {
-      "t": "이 대통령, 7시간 반 부동산·증시 점검회의…\"공급 속도 중요\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSXJnazZxUWFoeVEyYTI4RnpybURON0JzX0RWQWJpT0F3blkwWndpNHV6Qk9POG5iSC1HaTNXblhZMVc2em1Majd6Q1c2S2dENDgyUTIzdXR1QXBTTm9KcnFfZHV1T2M?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-03T15:22:00+00:00"
+      "t": "대통령이 직접 반도체 정책 챙긴다…반도체특별법 시행령 국무회의 의결",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1NZZ082dkNYa0htZ3pKaDNoc2R4QmN2LVRQQlZRYXpCNi1aamFreVZuaFVrcDdNWVpvc2Z4c0E2MDFFcG91emtmTXVwNjN3QzZGSXpQM3psVUhSd2Fva1BLVEZpRGZ4bEdkT2VhQTh0Uk1Lb1VqYy1XT3pHMjVxN1BYVmNSXzA3Mlhoa3ZFd1kxRHdaMWRFNDJZeDFOS0Z1NG05czBMVjAyZ9IBX0FVX3lxTE55a2RGRGpRY0xIZHJXLUlsZFFZY2NHQU53QndkRWVkT3dPMzNuUUNiTHRrbkpqT0N4MzNkTHZJdkljLURkMloyR3JmakVoakhsTU83aUtTNnpmVHRjdmhN?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-04T04:19:00+00:00"
     },
     {
-      "t": "엔비디아 2.8%·SOXL 1.2% 반등…삼성전자·SK하이닉스, 외국인 수급 주목",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WRmZFNnpUTmlydGVtNnFrN1hUWTQ3YlFrYkxJYWJnaFlfTENvTG1YZ1ppZl93MXNSMFhZR3NuVEFGZ0xEUS1HRDhrTW5jSEtOUFlWMms3UmU1ZGFQLWJxUVNHMEFuVmJm?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-08-03T15:14:51+00:00"
+      "t": "\"SOXL로는 부족해\"…美서 또 다른 '반도체 3배' 떴다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZanZTTVozUDR6TmJ1YkY1MmJrbmp4MWNqeUFkVFhoMjJPeVB1aTB6NGhXbVFtekIwRTd6RGVoVUJJN21FbzV6Mm9Hank1dUlRREpOOEpjQkZkdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-04T04:12:00+00:00"
     },
     {
-      "t": "미 하원 대표단, 한국 등 아시아 순방…조선·반도체 업계와 미한 투자 협력 논의",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZTNyUEtXOFJGZVdZbHNuZ1FFOTJHSVFkODFlTmwtdzl6S2lHQ1g2RFRVMzhoMGJ1UzcyNlgyLWl5eHdUZlBjWFdQMkg1bWJRQ2JQVjhnYmFiSFRMMVZVY0l3TDM0UlRxaHNod9IBb0FVX3lxTE9uS0Y3a2N3RXQzNTBCVlZmRE9vRGR5c2pGeWVmYVp1NDVUdzhYVkpXa3RGNk5RWGx2cjhWeC0yLWM2ak0ybEE1T2dNSy1kTllDakw3V0FXenRMRjgza2FKOElVNS1IZnJFUC1fTXN5dw?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-08-03T15:06:44+00:00"
+      "t": "금리 불안에 회사채 개점휴업…증시 불장에 단기사채·CP 사상 최대 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41ekVDaTRObmFUWVJHcDhlQi03cERIdVJLUHNSY21KQ2NXU2lDZE04dTFaN3UwZDQxYWRCTWEyLXBXYW1HQ0FqS3BfV3V2aG55VU4xaEswU20waDlwU1gyWHhsUUNXNWtl0gFuQVVfeXFMT2VLXzJwUUVPSDFNeXZyVV9NVVd5RVNUbmFfTXRNRmNHcnRPdTZielYtdjNOUlhGV0IwZGhqZWVoRTBpUVBOVWJJcGU3YWxZa1BkQUJUSWw1QlN4WVBqb1h5bkVhLXNFVm9nZTQ0SlE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-04T04:11:07+00:00"
     },
     {
-      "t": "[이병훈의 마켓 나우] 방어보다 선점, 대체불가 반도체를 향하여",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmVWw4VzlTY1BlWlA2cllkbHZZY3hqMXBzZXduem0yS29XNkg4c0djUDctakJFNEVJSk1JdVZUTEpaX1hhUjJLM2gtbUNyWmR3Z3lQMGZR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-03T15:04:00+00:00"
+      "t": "증시 급락에, 프리·애프터마켓도 '반토막'",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xVi0xczhUVUlZQlhobExWYzBoNWt0YmhfX0NPRlF5akl1NzFWTUlOSGJKWlJzek9EODRYVmsyUTJJOHhPZ0REWWZ1eWJsQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-04T04:00:00+00:00"
     },
     {
-      "t": "[김대호 진단] 반도체 열전 (28) 팔란티어... 서학개미 Top Pick \"반지의 제왕\"",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDhudEYwVHNpVUxzajJud28tNzllQm4yWmh2LVlZT1QzV2htSGU5MGlVQ2s2UUtaaFNCSjRGc3VqN2V1SGZ1b0ZYemZWNktwZTlqS1Q5MlZvQ3dNb0dtekR0M1drSVJtbkdrYkhtYlRpdm5FZDN1WlR2TVdUZkpqZV9YbzA?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-03T15:00:00+00:00"
+      "t": "엔고에 발목 잡힌 日 닛케이 0.66%↓…亞 증시 혼조세[Asia오전] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wanRMVWFNYlM1akY5dnhERTdlaFNLQ3Q2UHMyYjNvZ2JOWFhpSjZZa0JHcTRReXI5c1BKQ3lseFM1NE5QQ2RpQUVnRWdXTTNpeFJYVU1RRE12ZUs0b0ZxMDB0RkJ5WVNZ0gFuQVVfeXFMTUUxakxlNVpRM08tVmhQNHZLVV93S1VBdi16VlZuX3VvQXltbE5NUHBVQ0xCd0xJMGVyM3pqSWF6S3VYYW80VmUwN0xMQlVxenpKbEFlejRoNG41Njd6YTR1N0xTRHVJa1prR09EX2c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-04T03:57:28+00:00"
     },
     {
-      "t": "코스피 5% 이상 급락",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nZFEwY281WmJpQ1RZWU1lUVBaS3MyS0pqU0s1cm1NdjktWVY1N3R4bXVjdWtiaS05ZmItTzlYX1d4WXRuVEYtVnJTWS1nVktlV2FDdzFGQjVTR1duR0o0MzQ1alUtRkdBdnVqaQ?oc=5",
-      "s": "경상일보",
-      "d": "2026-08-03T15:00:00+00:00"
+      "t": "'반도체산업 특별법' 시행령 제정안, 국무회의 의결",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR3oxSG91RzNTMzFZc2VaMEx0X0YzdzF2WEtFNGtxMjBkMWhxRmNlNFlSLWdlQkZtY2x6SnhvcmNZUFEza21mRmppWTN3QUlaV1Y5ZUJvWkMwRF82WV9FcXZFbWFZcWVwdlEw?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-08-04T03:48:43+00:00"
     },
     {
-      "t": "“코스피 극단적 저평가, 매수 기회”…대신증권, 목표주가는 하향",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZVF4SkttRUdsWmFvMDFpWHVkYWNCbXBtRFEtQ1QyS2ZHTkN0LTFkR1E3czA5UzlTLWdWNXpEZE5qaXp0S24yRXpLZEhQV3I3?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-03T14:39:44+00:00"
-    },
-    {
-      "t": "뉴욕 증시, 美 공격 취소에 상승세···다우 1.34%↑ 사상 최고치 경신",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FVGdZLXhidDFiTUQwMEoxWi14R3hMUHBfV2EtdkNtZmdMVUZlMmJodFRfUmlNT1N3VW83NFF6OHQzclFKQUtwMFpjdDJWczhRdk11UmRiTDk0LXNyNHJnUdIBeEFVX3lxTE5UekViMmw1bXdqckRCRVB1WU9fTkdaRUh4UXgyRmdzYzN5RWVHQk9CNHc2SHNPa1MwQ3c5YWFuNnhlZnRCVVZhUUJONXZLdk94cXhQVllHRDF2dE82TUN4dDRscFhqbklmOERLUjF0allfdGRqUDZGMg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-03T14:33:45+00:00"
-    },
-    {
-      "t": "李대통령, 7시간 반 부동산·증시 점검회의…\"공급 속도 중요\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNFk2V19GdGwxZFJYZzFJWFFWN3RlQWx0NmJYR2dOQV9hZ2VlX1ktc2xpc3g1c1FUamdwMTV1NkFlSVBpUHNaRVJHSFNWazNYb05VN1lvdXdTd2vSAWBBVV95cUxPSGVWVTBTamdqcnJfOXRsdWVnblFXVFZWdTAyOGRkNmVtamVidHZHaDJtS0l1WTVybjVQcVJoV3A0WVdjNVhkdFJlb3g4Vl8xVk5RZGZoV3RKWFNtVFZLSHc?oc=5",
+      "t": "반도체클러스터 '비수도권 우선' 고려…기반 구축 최대 100% 지원",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nRW15U1NLaTViZDUtX1lnVUhrTWJxcjlHcmpHZ1BPeU4ycjhDZ0dFQWRtSUlSX1BwZThZMTlwZGZ6d0NMU0U2YUVCNi13Q0VHUnBfbHdfcXFibC1nRk9YSNIBYEFVX3lxTE9nRW15U1NLaTViZDUtX1lnVUhrTWJxcjlHcmpHZ1BPeU4ycjhDZ0dFQWRtSUlSX1BwZThZMTlwZGZ6d0NMU0U2YUVCNi13Q0VHUnBfbHdfcXFibC1nRk9YSA?oc=5",
       "s": "연합뉴스",
-      "d": "2026-08-03T14:32:58+00:00"
+      "d": "2026-08-04T03:39:36+00:00"
+    },
+    {
+      "t": "스테이트스트리트 \"8월 금리인상 여전히 가능…유가 흐름 중요\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uUUtuYlAwLUhTOFRuWFRwZXR3Ymk0OXYycnVGU3I1Ym1GSWRqRjdSSXpDYTNVUHAyVkNydF9aLTJSejh6d3BOaE5rYi1STXVZZWNmQ2MtWU5uZmZnVVNpTWh6OUdPUG5UUVEzbVd4Mkw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-04T03:39:22+00:00"
+    },
+    {
+      "t": "S&P500 선물, 기술주 강세 이후 강보합…美 국채금리 혼조 |",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yYU16NEo2UnpOSGtpUDI0NGhUMGpkRXFCSWZUN3o5djZNNUU2RHhQNzNkQTkyUXpaOGJRYjVYbWNhaXV5WkYxa2xTUHJ0N2h5cG1DRE1Xb3VGbnpfSEFkRWNZa2lkelNIUGlmUWoxRGVEXzFN?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-04T03:37:07+00:00"
     }
   ],
   "asof": {},
