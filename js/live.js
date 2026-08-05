@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-05T07:01:02+00:00",
-  "quotesAt": "2026-08-05T07:01:02+00:00",
-  "newsAt": "2026-08-05T07:01:02+00:00",
+  "fetchedAt": "2026-08-05T07:15:59+00:00",
+  "quotesAt": "2026-08-05T07:15:59+00:00",
+  "newsAt": "2026-08-05T07:15:59+00:00",
   "quotes": {
     "kospi": 6598.26,
     "spx": 7736.52,
     "nikkei": 66300.44,
     "vix": 16.5,
-    "krw": 1424.48,
-    "gold": 4233.8,
-    "wti": 75.25,
-    "dxy": 99.78
+    "krw": 1425.48,
+    "gold": 4229.1,
+    "wti": 75.31,
+    "dxy": 99.79
   },
   "daily": {
     "spx": 3.3,
     "kospi": 5.45,
     "nikkei": 3.66,
-    "krw": -0.28,
-    "dxy": -0.11,
-    "gold": 3.38,
-    "wti": -0.69,
+    "krw": -0.21,
+    "dxy": -0.1,
+    "gold": 3.26,
+    "wti": -0.61,
     "vix": 0
   },
   "news": [
+    {
+      "t": "이종욱 \"금리 0.25%p 오르면 기업 금융비용 3.2조원 늘어\"",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ub29kY04tZHZqNnVrdzFoUHJ1X0l1dVNraEs5QjhLMmtpRUxlTXNwdTE0UmFNaGJ1MVdjWHM1MExjSVZnNEVWcVAweVEyQWtpM3ZxQ3ZWMG9VTC1LdG9TTGMyQ2g?oc=5",
+      "s": "sentv.co.kr",
+      "d": "2026-08-05T07:08:02+00:00"
+    },
+    {
+      "t": "반도체 랠리에 코스피 급등…코스닥, 나흘째 상승",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GekstMk1xZWlkWEtLT092dExGVDNfTkxCdHhKeDgtWHJwQ3JtbmFEN1Q4c1JweUFyaFNJOVhnSnpOUm5HNFFYeGxJUDAzNzAtaGlhZ08xdXVGSkFLR044RWFuVkdta1E?oc=5",
+      "s": "yonhapnewstv.co.kr",
+      "d": "2026-08-05T07:07:00+00:00"
+    },
+    {
+      "t": "롤러코스피, 美반도체 훈풍에 다시 '꿈틀'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83WWFTZW9Xc1JfLXVJMnRYX2p3TVp0eVNxOGRIVFhoTmU5TElKRFdFWXYwRkRNN1prQVo0TEZpOTRPQWwzbU9NLTREWk9uYzNUTy1DS3JUY1NnWmVMTks0U0piY0Nyd1ZlTTdrUEtPQXU?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-05T07:05:27+00:00"
+    },
+    {
+      "t": "원·달러 환율, 8원 내린 1424.5원(오후 3시30분)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QXNrOVhWUlkwYl91ZXN6dWRfb3lsaG5IX0lNRDFzZmE5RDZ2ek1uSFhMbmpmODZIYmxyakhHcWtBX3hLQi1Eb3R6VmZLRVFzX0VHT3cyZGMzUmF5M01lUg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-05T06:58:58+00:00"
+    },
+    {
+      "t": "다시 돌아온 외국인 매수세…코스피, 이틀째 상승하며 6500선 마감",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GV2VibzBnNEp2SmlyZ0dKOWIyM09OYjVQdkZOX0Jtc0Nqd2ljUnlkTEhGSFdqYktmNEY2TUVCNHU3SVJJRi0tTExSNm9rZnBua3c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-05T06:56:46+00:00"
+    },
     {
       "t": "[일렉 스타] 디에스, 반도체 패키징 AI 검사에서 로보틱스까지 확장",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yQ1hiOTZUMnBwTVUtRjVMNFdVWjBnTElSdW50cDZZSFRTbHpYYzc5d0hKZDA1dVVLdTZ6UERvSF9iQWZGaTR3aG5nX1A4Ym1uNXVXZmN3VTZCQzlVQmo3TzRscU41dw?oc=5",
       "s": "디일렉",
       "d": "2026-08-05T06:55:25+00:00"
+    },
+    {
+      "t": "[3대 메가 프로젝트] ‘반도체 날개’ 달고 경제 대도약",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52bm43SVMwaWlYU0ZHcHJrRXp0NlBtTmNxdy13LWgwNWswejdvaTAyN2VNLUREVzNaWjgwZWQwNjVaYVR6T0JkR2RYMXBCQnVJTXZrOUhlUlpqV2FNYVVFZjFZa0NvaE9WRjI1VlJn?oc=5",
+      "s": "yonhapmidas.com",
+      "d": "2026-08-05T06:52:49+00:00"
     },
     {
       "t": "외국인 1.4조원 순매수…코스피 6600선 눈앞 마감",
@@ -45,44 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "[기획] 기준금리 인상, 역머니무브 부추길까?",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14Qk9OYThTd2Y5WURLYmJlZnk5dlVkM3hQZG8xWVBuOTFNMzNuR21TS0l2M0FPMjF3MTJ4bE92R1hpcm11VENsT1FaY2xiR21JMFhlamFqd2JKMVh1YmFOdEF3Nng?oc=5",
-      "s": "매일일보",
+      "s": "m-i.kr",
       "d": "2026-08-05T06:49:40+00:00"
-    },
-    {
-      "t": "[증시 레이더] 코스피 3.76% 급등⋯반도체·AI 랠리에 6,600선 턱밑 회복",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Vd3NJRk5FZ2VrT3Z2NDJFd290NmtJYlNEeUtiVFB5QnhFZ2E0eW13M0pybTJNQ0NoNEx2ZXhmQWZhak5IOGprcW5Gajhsd0xROGJiS21sWDY1N21Hamc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-05T06:48:09+00:00"
-    },
-    {
-      "t": "[환율 전망] 개미는 달러를 좋아해",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9heThFUGtzbHg3alZXSm9GWHhzdE9XLTJmc0dlQ0UzWHVoZlhNTDNndkttMVJTVkpQdnl2T1doY3pFRmN5UDN0Y0hQMTdXWUFRUzItUW56ci03WDBZMFFfQw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-05T06:47:27+00:00"
-    },
-    {
-      "t": "속보 코스피, 3.76% 오른 6,598.26에 장 마감",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tYm1sLVBxc2tYek9ZMi1LdldTOE54dkFrY1lrZExTR2JGOXEtTmhsX3gybE5yT29ZSmdJeHBaaGNJMGlXU25tRjE5RVZ4cEtzdFk1dFY2ZmlYOXNwaW5hN1cxc0NDdW5nV25KYkh3NDUtSUJHYmc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-05T06:41:00+00:00"
-    },
-    {
-      "t": "코스피, 3.76% 상승 마감…코스닥, 2.42%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMlYyTl9ZcXdyNVhQZXdtMmtkM3MzQ2RYaHllTXkzVjNNMU1jLTEtWGItbVhHenhkMFF6RkM0QUNNLXpNRkZwWkhSckQ5RHdlTVM2Z254LTRtUVBOZHFJa2VJRkJ1OGc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-05T06:37:00+00:00"
-    },
-    {
-      "t": "코스피, 3.8% 상승해 6,600 턱밑 마감…코스닥도 2.4% 올라",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FaDJRQjF0eFM4UUdkTTRJU3dqRXFvTVB5LTdmS1hleDBKVnN3N0ROQ01CbGgyRXJVbnJ5UmJoTUVkVnpCSnJSSGF2T0U2WVAwVl8yYUR3WUhhWlRNRV9ZZzAxV1RSNUJxLV9VbW9PbDfSAXRBVV95cUxPQ3VJa0R6RllzMXh0d0lyUzRtLS1zUTR4OTgtcFVPZ0RYOFRIeENfd0dadHB2cVU1TE9QaWV0cDVnVlZTS3BSeFE4NV9DdGFKWWxZR1p4emF3ekoxeC05VUR6a0pUUnJVZzdyNHVOS2RrRmpiVA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-05T06:34:27+00:00"
-    },
-    {
-      "t": "美, '해방의 날' 관세 140조원 환급…대법원 제동 후 60% 반환",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BRV9zTW16WnRYcWhGUl92NnVScnFLUlpNTWVQMVZxRjQ4NF9BNDc2QTJ6Y1l5Zkhka0J0TE5id2FER2lVLWtIZFBsTWVWODQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-05T06:21:00+00:00"
     }
   ],
   "asof": {},
