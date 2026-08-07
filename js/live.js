@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-07T07:00:39+00:00",
-  "quotesAt": "2026-08-07T07:00:39+00:00",
-  "newsAt": "2026-08-07T07:00:39+00:00",
+  "fetchedAt": "2026-08-07T07:15:39+00:00",
+  "quotesAt": "2026-08-07T07:15:39+00:00",
+  "newsAt": "2026-08-07T07:15:39+00:00",
   "quotes": {
     "kospi": 6258.77,
     "spx": 7709.96,
     "nikkei": 65606.71,
     "vix": 15.15,
-    "krw": 1415.48,
-    "gold": 4348.8,
-    "wti": 78.02,
-    "dxy": 99.95
+    "krw": 1416.84,
+    "gold": 4350.8,
+    "wti": 77.88,
+    "dxy": 99.97
   },
   "daily": {
     "spx": -0.34,
     "kospi": -5.15,
     "nikkei": -0.12,
-    "krw": -0.4,
-    "dxy": -0.02,
-    "gold": 2.52,
-    "wti": 0.94,
+    "krw": -0.3,
+    "dxy": 0,
+    "gold": 2.56,
+    "wti": 0.76,
     "vix": 0
   },
   "news": [
     {
-      "t": "코스피·코스닥, 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVVFhPVVl3ZmNzcGl6RURYdXd4S0t4ck5ySzk0TTZZZHhORXhsRWpRRFRic2QxNldELWVoWVFjemE0bm5qVmdCTlE1eUo4UXlIaE9USURESVJjT21a?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-07T06:53:00+00:00"
+      "t": "'팔자' 외인 vs '사자' 개인·기관 공방… 코스피, 0.6% 하락 마감 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kX1kzSUFEOHV0bzFxNVVtZVpzdVpURDZHc2wxbnNaRFhSWlZTOTJ4YjMtc3BQcTNkTHdoUy1oZGtfYmN1bkZKOGd0MER0TkVWQmRPdld6ZXhINGxBY1gtdTNCWFhKVmdP0gFuQVVfeXFMUGpBMVNGQ0VaQURpbzgtUGo4UklzT2loM2hxSXlHOTd0LTJueUp5MktpY19ITXpPZVZFNGxYaTBvMldHS0JtLWl0YjFIaDNMVHJPYVMyQ0RPS3FrMXFMdWctZGZaUDB0dkx1a2dpUlE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-07T07:09:59+00:00"
     },
     {
-      "t": "7주째 밀린 코스피, 반등 열쇠는 美 고용·외국인 귀환",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CanlLaGhmTjRGWGhyMi1qa1V3a3hFd2xFalI3VEM4MGJLa01hNWtNTnQwT3VwQ3BuNDBJZUpHRWN5SXlfMEZFM2tSRWxrQXkyMWpOdElVbUVna0l1alpvdVFCOFJNQmctWGJPcEt0WTM?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-07T06:52:45+00:00"
+      "t": "국내 증시 반짝 상승 뒤 하락 반전…6200대 마감",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNHVnTGJRTzRDVlRSRFIwbnlyeG93eGJDb1NwNFR1MmptZHcxb2NZTjVybHZLdzg5UVhjRzRpMy1pY3pPY0pyYnZfMjFYWHBQdjBxOWFfUEdaSWRTVkxSUWUtczdqbDNlZmxGRkNnMFRfZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-07T07:06:00+00:00"
     },
     {
-      "t": "워시, 시장 혼란에도 ‘조용한 연준’ 고수…계속 상승하는 美 국채 금리",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVRvYjlKSXMwSC1GU2paV2FfQW00TXNmRXA1NXNUQlZLcXdYajNkX1E5WjRDaXFEcmUxMHVSR3BQaGY3R3EycFBjdXhlQlhBbmhIcTNpdFdxMl9YVDB2NXhuVWtNVjdwTERUYXpwNDIyNGg4UFpzU3J4ajRTb25xZ1dxaVhqOVBGdENhRjdn?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-07T06:50:00+00:00"
+      "t": "美 금리 인상? 인하론 대두되는 이유…오늘 밤 고용지표 주목[오미주] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94WHU5cnBTT25KUmlmMC1mYWlNX0FJR1Z0SFFOT1FUWDU3b25LbWJPVUZjcHB3d1FVWUtJeWdPQV9jbzZuNmItY0ktMEt3d3U3UXdiQTFka25XZlZaaUx2aU5BNmZvZjUt0gFuQVVfeXFMUFJsaFhNZjlQbkk0UUV3aGYxLU8zMTdGWWhnbW5TM05jUkJ1Uy1ETXZ0NC1LOFlveU9VaUxaWmJXMmxmY09xS0JJLTRTTU5QZU9yMGxlVlZGV1M5OEhZTV9JUk5rd0x4NEJfSVZ1NEE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-07T07:05:00+00:00"
     },
     {
-      "t": "[증시 레이더] 코스피, 장중 반등 실패⋯외국인 매도에 6,200선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZXVSaTNpV25EaUk4NklYZUZpQ2FMUlQ3ZnpTVkJGdnp6SVZzdUtjVW03U2dWZzFCVjdiSVcxRktmQ0dObDdRNDBqWVlXV1pPRnprQVlxRVhjUU5RbWc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-07T06:49:20+00:00"
+      "t": "코스피, 6400 회복했다 6200대로 '뚝'…외국인 매도에 이틀째 하락",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMzVpc1ZpclRRbHNwdmpDM3RGTFBIclZnQnFNWHdtWWlMVU90Z2ZjTGs1TjF2SXl2R1JoTHJtM0E4bTRWOS1qTzY0aGluZWhva3hpZzBZR2pCYXFoV18yclZXWWl1MFQyaXc?oc=5",
+      "s": "hidomin.com",
+      "d": "2026-08-07T07:02:54+00:00"
     },
     {
-      "t": "[속보] 이번에는 중동 여파?···코스피 0.6%·코스닥 0.36% 하락으로 장 마감",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuRV95RWQ2SFZuajRMVGgxT1hraWNSeGtQTlg3czc4MTBfdnlKd0l0YTJyY0N0T0pTVmlvX29TUmNDTjdhUk1wclZYblI?oc=5",
-      "s": "대구MBC",
-      "d": "2026-08-07T06:46:17+00:00"
+      "t": "코스피, 외인 매도에 이틀째 약세…SK하이닉스 5% 급락",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMc21MV0N3Y01TRDVyTFdvUU15dS1pbU5EN3BsVGFRdFhzaWRoRGczWHQ5cXNGV1RKSVV5eXQ2cTRoemh1X3RadTNRUjdLSkxDaVYtS21GOWUzWkJYZ0Y1S094a3Q?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-07T07:02:50+00:00"
     },
     {
-      "t": "롤러코스터 코스피, 반등 시도했지만 소폭 하락... 6250선 마감",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jYkx5NzhfeEFUbHdDbkRmM3M5RU43T25zc083OHF4TXVFYWdsTVBUZjdZTWhaQVlSOTgzMDNGMkgxcEk5cG5FcVU1RldINTUwdnd3VFQ2bFg5bjNaVElHdnJDdXFUVDlXSDZJa0JNeHdrTnN4?oc=5",
-      "s": "joseilbo.com",
-      "d": "2026-08-07T06:45:00+00:00"
-    },
-    {
-      "t": "코스피, 반등 하루 만에 다시 하락…6200선까지 밀려",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2aV9fZ2k5V3cza3BwV3hHRFhCQzNVQlI2Z1Y3N1BHNnMtVm9NV2ZxNTlmeFZ6bTBuQ04ydzR6VGFWN0hYcW9zOHpVOWpEbnFnSTVmR0FDV3hYOWw3LWxzbDltVGZKT1U?oc=5",
-      "s": "강원도민일보",
-      "d": "2026-08-07T06:42:12+00:00"
-    },
-    {
-      "t": "[특징주] 中겨냥? 美 폴리실리콘 규제에 태양광 관련주 11%↑(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fREZuNXA4MXhPWU1YdlB6d1o5MlVvZmk3YW91UE56aEZybWVyNlJ0SlBGelhJQ1pQaWFqamlPaFlRUDd3MlI5OGZXWjVFRDhtcnlfZ1Fwb3hoV1HSAWBBVV95cUxPSGpxUnlaVXZXWEhERG03Q2dMMzdtTzFhN01ob0xxYmRQVVNBbVNmMDB0Q0VHYVhoNTdWVjg5S3lfeWl5Y2dUVmdkblU4MDRnd0tsMV9LMVpqVkdZcGpobGM?oc=5",
+      "t": "'전강후약' 코스피, 이틀째 내려 6,200대…코스닥 엿새만에 반락(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdWVQdlppblhHWXE0VG43SXpJSnR0UFpwZFNOUXBWTkRjNkJndWVwcUxvSlFWRDhyRW02X2kxdFh1aFlERERwZm1WZjJPQ0ZKS3YyQ1RHOG1ycEXSAWBBVV95cUxQeThLdVhOX3RFUE5OY1VxdHFWQ0kzRXlOSGdPZ01rZWh4MGRaUG8wYkZ3S1NrZllrZC1qUzk0WmtlMjAwMnpVVkhPRnp5Y3Z3eFp1M2dKMmdkX0x3M1JfUzQ?oc=5",
       "s": "연합뉴스",
-      "d": "2026-08-07T06:39:25+00:00"
+      "d": "2026-08-07T07:02:37+00:00"
     },
     {
-      "t": "코스피, 6200선 약보합…0.60% 내린 6258.77에 마감",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PaFRDMlFuaDAwZzBncVUyRm9JaU0zREhuM2Q3bHJYanlXUXNQMzlCS2FidmszZGpjSTdwZWxxaWJsVWs0WXE5V3pxbWRBaHBRWW9RSFhBbHYzQQ?oc=5",
+      "t": "코스피, 반등 실패 0.6%↓…6200선 간신히 방어",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEk2VmlRdW5sQldGQUZLd19ub2YxM21paTJ6X1NneDE1SjR3T2o3OWpTbmNVWThienByamJQM2pxN21nY1lOdUNCVTVtUkx3bWl4VWw4RDJDMkF3dFN6UDRqNDVqZHU1VFNkQl9VZFN1Unh6a3VpRXFnN19mYzc4bFh3UVMzWHZL?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-07T07:01:57+00:00"
+    },
+    {
+      "t": "코스피·코스닥 동반 하락 마감…엇갈린 반도체 투톱",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQkxJcWJRcHhRcEV2aXN0ZXNjbjRkRndNTWFxQUdJZy1HUW8xOHJrZWhxRlBxZURoa2pKOHpGVHZpY1lnTVJJaWpyUENfZ3RDNVg0Q2V3RVZjdw?oc=5",
       "s": "한국경제",
-      "d": "2026-08-07T06:38:20+00:00"
+      "d": "2026-08-07T06:59:29+00:00"
     },
     {
-      "t": "태양광·반도체·이차전지 '국내생산 세액공제' 첫 도입",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OZnI3bDd4VWJ1U1hvM3Q1OW5jOWRUZ0ZqSlkxRjVCMkpCQlVJbG5KU2NYdl9uREdWTW1KNS1NMHJSYy1xUGZTYWhjYnJwTENDU1AzQjFQVnBvM2w4?oc=5",
-      "s": "뉴스;트리",
-      "d": "2026-08-07T06:38:00+00:00"
+      "t": "원·달러 환율 7.7원 내린 1416.1원 마감…유가 상승에 변동성 경계",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQzdDOUVmckJ5QmN2V0tlZXFUakF3UnE4MGJ2SmlNYklyenh2R1NFeXltZjVoZWxjX1hPMUk4aDJoWm1aRElTUlMybU5USzUzaW9YQXR4OC02NG9FUU1aazJfQmxSLXBPb0o0aTNKYVk?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-07T06:58:36+00:00"
+    },
+    {
+      "t": "5대 은행 전세대출 올해 2조 감소…금리도 연 6% 넘어서",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QVDNzUkYtWURUUGt4UloxQVVhLUxJQ2ZDcWZId0JwMElKbk1sMENRX2E1NXdKanJobktPTENIODFnYjU5STVRUnVWeGRsSVc5SHd0V1dR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-07T06:57:29+00:00"
     }
   ],
   "asof": {},
