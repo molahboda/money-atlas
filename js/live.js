@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-07T06:45:39+00:00",
-  "quotesAt": "2026-08-07T06:45:39+00:00",
-  "newsAt": "2026-08-07T06:45:39+00:00",
+  "fetchedAt": "2026-08-07T07:00:39+00:00",
+  "quotesAt": "2026-08-07T07:00:39+00:00",
+  "newsAt": "2026-08-07T07:00:39+00:00",
   "quotes": {
-    "kospi": 6259.14,
+    "kospi": 6258.77,
     "spx": 7709.96,
     "nikkei": 65606.71,
     "vix": 15.15,
-    "krw": 1416.28,
-    "gold": 4345.4,
-    "wti": 77.83,
-    "dxy": 99.94
+    "krw": 1415.48,
+    "gold": 4348.8,
+    "wti": 78.02,
+    "dxy": 99.95
   },
   "daily": {
     "spx": -0.34,
-    "kospi": -5.14,
+    "kospi": -5.15,
     "nikkei": -0.12,
-    "krw": -0.34,
-    "dxy": -0.03,
-    "gold": 2.44,
-    "wti": 0.7,
-    "vix": -4.17
+    "krw": -0.4,
+    "dxy": -0.02,
+    "gold": 2.52,
+    "wti": 0.94,
+    "vix": 0
   },
   "news": [
     {
-      "t": "외인 매도에 코스피 6200선 후퇴…삼전 버티고 하닉 급락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LN1lYaWIxaVpLRDVDb3JhdDB0a29QUGdVRWZpb2tmUGFLb2RLeWpQS2dqZEV5UE54M280ejBfQ2U4bExWV0JqM2pOaWRXQ3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-07T06:32:48+00:00"
-    },
-    {
-      "t": "정부, 美 폴리실리콘 관세 대응…업계 영향 점검",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhcjFXS0ptVUNwLVEyby1KbUU5UHRkNFhQWWV5WGpfY1dValFjaDBGS2UwZ3VrZXpZY0lvRzV2OEZpNVlqZUlzVUlBRjBlclVHdVRTRUQ5M0JwSGc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-07T06:27:00+00:00"
-    },
-    {
-      "t": "중앙은행, \"적응형 물가안정목표제 도입해 녹색투자 지속성 지원해야\"",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pU0JIT2VUa1A0ZWtDZVdVZjdtRWpaX2FxMU1qSDl3STIxMkxVLUhEV0ZrX1UyYnhZSnBXRXNoVzAzd2dLaktzRTd1SWJ3ZHU1ZFktZUxqc1pWQ2VTZm5WT1ZHYmF1X2U4dGk1bA?oc=5",
-      "s": "ESG경제",
-      "d": "2026-08-07T06:26:21+00:00"
-    },
-    {
-      "t": "코스피, 장중 6300선 보합권 등락···외국인·기관 동반 매수",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wanB4WG9RM1pUS3lNdE1HWThxLUw1d01DQVhuTnRmckFvQ2U3T2toV3ZCQ1ZjaW5SMTlRQVVQcGhsNDFWMGIzZldROGNHNENtZ3otSEl6VWxjWGxzUVQxeXUwS0hqNnlraXc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-08-07T06:25:17+00:00"
-    },
-    {
-      "t": "KAIST, 데이터 속도 맞춰 반응 스스로 조절하는 '카멜레온 AI 반도체' 개발",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYUFzY0lYVjFrVnliUnA3bC1CenZ1M2xjem9UY0RnTFRFTEt3X1NNcG14YWRMaTZGV2xnTnZxVXBpb2NjZ0Z0bjgyUkZBbUVoT2ZnOWJyeFV2OVlyX2dj?oc=5",
-      "s": "헬로티",
-      "d": "2026-08-07T06:15:40+00:00"
-    },
-    {
-      "t": "1410원대 내려간 환율, \"당분간 1400원 초반대 등락\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tVjBMREpoQ09FSVJOdXItalBCVWxRdVdyZjlHc3MzbU9lSjUzUmh5V3RjV2pUNE1DVWsyTjRLeG1KMXJ0UVNNX0VZTjBqYTBlc3VOWXB0cHVST05P?oc=5",
+      "t": "코스피·코스닥, 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVVFhPVVl3ZmNzcGl6RURYdXd4S0t4ck5ySzk0TTZZZHhORXhsRWpRRFRic2QxNldELWVoWVFjemE0bm5qVmdCTlE1eUo4UXlIaE9USURESVJjT21a?oc=5",
       "s": "뉴스핌",
-      "d": "2026-08-07T06:12:00+00:00"
+      "d": "2026-08-07T06:53:00+00:00"
     },
     {
-      "t": "반도체·태양광발전…국내 생산 시 2036년까지 세액공제",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmprYlJzWE1OWmpXNUFXYWpNOFpjSWJCc1NlQ2J5S3l4c3ZvQ2wteU5rWXBXanJKM0ExalF6cUlzLVp4amZqY2MyTTJhVEdFeWZRNFJMcE1pcWNQTlhNUXBLZkdXcDBGVmNKMlRlQzFzZ1lmZEVGLU1YVEJnbXNGU2RJNjN1NDZsWExHWVlaNTVPbHBkYTU3bE51R2xMWUlEQkdwenlTREVOQdIBX0FVX3lxTE16RWU4OXo2QVdSRzAwYXNBMWpkMVJQWTdTVm9YWFlYTWxINEJkUjFoZmR2dlVQd3R0M0xPRU8zbF94X0FiaWVZT0dQSVBDbXYxSUZuQVFwVFZMeVJ0bXBz?oc=5",
-      "s": "khan.co.kr",
-      "d": "2026-08-07T06:12:00+00:00"
+      "t": "7주째 밀린 코스피, 반등 열쇠는 美 고용·외국인 귀환",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CanlLaGhmTjRGWGhyMi1qa1V3a3hFd2xFalI3VEM4MGJLa01hNWtNTnQwT3VwQ3BuNDBJZUpHRWN5SXlfMEZFM2tSRWxrQXkyMWpOdElVbUVna0l1alpvdVFCOFJNQmctWGJPcEt0WTM?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-07T06:52:45+00:00"
     },
     {
-      "t": "[CEO풍향계] ’반도체 밸류체인’ 박정원…’보안 승부수’ 홍범식",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95NERDWTk3YVZuWWdlVTdEOTExdDZzR2VEUVIzLXNwUVBzMHhmbjFHRkFkaTdvZlo4M3NqSDRaOGFrcWFYSHkwU2FaRTlKTUtKNEhsUFVPdVNRVkE4MDVXcUVnMFV6TzA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-07T06:00:00+00:00"
+      "t": "워시, 시장 혼란에도 ‘조용한 연준’ 고수…계속 상승하는 美 국채 금리",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVRvYjlKSXMwSC1GU2paV2FfQW00TXNmRXA1NXNUQlZLcXdYajNkX1E5WjRDaXFEcmUxMHVSR3BQaGY3R3EycFBjdXhlQlhBbmhIcTNpdFdxMl9YVDB2NXhuVWtNVjdwTERUYXpwNDIyNGg4UFpzU3J4ajRTb25xZ1dxaVhqOVBGdENhRjdn?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-07T06:50:00+00:00"
     },
     {
-      "t": "\"불확실성 제거, 큰 수혜\"…트럼프 '중국산 태양광 관세' 효과 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41dVJsMnhteFBudEZhcEJDeTF5ZGRzaEgzM2ZpTndKeS1CRnEteWlzWXp2cFFlQWU0SDJ5NWR5cEc4di1ZdnMzWUlfSllieHgxdEx2QTJaRmtLNmJhSWJSOXpYYlBsU0ZxQnNBadIBckFVX3lxTFBENGptemRMRi14ejc0TlZPLWVlWWd3bDFSdU1nQUJkOUdFNUo3QnYtUTczamk2ODNmSEhpbzU3SlZidGdoaEpHUFJybXZyY1FkM09fclM2MTNiT3N4ckd1Y19zSURmNGJzU1hsX0JHdGswQQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-07T05:51:30+00:00"
+      "t": "[증시 레이더] 코스피, 장중 반등 실패⋯외국인 매도에 6,200선 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZXVSaTNpV25EaUk4NklYZUZpQ2FMUlQ3ZnpTVkJGdnp6SVZzdUtjVW03U2dWZzFCVjdiSVcxRktmQ0dObDdRNDBqWVlXV1pPRnprQVlxRVhjUU5RbWc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-07T06:49:20+00:00"
     },
     {
-      "t": "[기고]반도체산업, '남방한계선'은 유효한가?",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QdWJueVQ1ZGJhWmZHT2ZHNUE1VVRHTno1ZHRFWVZPd0g0NURIc0VoQ0R6Y053OHpWTFhFTjlpVUgtM1VXS2xaT1R0SjRKTEg3a2Y3bXRTMWdqR2c1TXdrTQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-07T05:51:13+00:00"
+      "t": "[속보] 이번에는 중동 여파?···코스피 0.6%·코스닥 0.36% 하락으로 장 마감",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuRV95RWQ2SFZuajRMVGgxT1hraWNSeGtQTlg3czc4MTBfdnlKd0l0YTJyY0N0T0pTVmlvX29TUmNDTjdhUk1wclZYblI?oc=5",
+      "s": "대구MBC",
+      "d": "2026-08-07T06:46:17+00:00"
+    },
+    {
+      "t": "롤러코스터 코스피, 반등 시도했지만 소폭 하락... 6250선 마감",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jYkx5NzhfeEFUbHdDbkRmM3M5RU43T25zc083OHF4TXVFYWdsTVBUZjdZTWhaQVlSOTgzMDNGMkgxcEk5cG5FcVU1RldINTUwdnd3VFQ2bFg5bjNaVElHdnJDdXFUVDlXSDZJa0JNeHdrTnN4?oc=5",
+      "s": "joseilbo.com",
+      "d": "2026-08-07T06:45:00+00:00"
+    },
+    {
+      "t": "코스피, 반등 하루 만에 다시 하락…6200선까지 밀려",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2aV9fZ2k5V3cza3BwV3hHRFhCQzNVQlI2Z1Y3N1BHNnMtVm9NV2ZxNTlmeFZ6bTBuQ04ydzR6VGFWN0hYcW9zOHpVOWpEbnFnSTVmR0FDV3hYOWw3LWxzbDltVGZKT1U?oc=5",
+      "s": "강원도민일보",
+      "d": "2026-08-07T06:42:12+00:00"
+    },
+    {
+      "t": "[특징주] 中겨냥? 美 폴리실리콘 규제에 태양광 관련주 11%↑(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fREZuNXA4MXhPWU1YdlB6d1o5MlVvZmk3YW91UE56aEZybWVyNlJ0SlBGelhJQ1pQaWFqamlPaFlRUDd3MlI5OGZXWjVFRDhtcnlfZ1Fwb3hoV1HSAWBBVV95cUxPSGpxUnlaVXZXWEhERG03Q2dMMzdtTzFhN01ob0xxYmRQVVNBbVNmMDB0Q0VHYVhoNTdWVjg5S3lfeWl5Y2dUVmdkblU4MDRnd0tsMV9LMVpqVkdZcGpobGM?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-07T06:39:25+00:00"
+    },
+    {
+      "t": "코스피, 6200선 약보합…0.60% 내린 6258.77에 마감",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PaFRDMlFuaDAwZzBncVUyRm9JaU0zREhuM2Q3bHJYanlXUXNQMzlCS2FidmszZGpjSTdwZWxxaWJsVWs0WXE5V3pxbWRBaHBRWW9RSFhBbHYzQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-07T06:38:20+00:00"
+    },
+    {
+      "t": "태양광·반도체·이차전지 '국내생산 세액공제' 첫 도입",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OZnI3bDd4VWJ1U1hvM3Q1OW5jOWRUZ0ZqSlkxRjVCMkpCQlVJbG5KU2NYdl9uREdWTW1KNS1NMHJSYy1xUGZTYWhjYnJwTENDU1AzQjFQVnBvM2w4?oc=5",
+      "s": "뉴스;트리",
+      "d": "2026-08-07T06:38:00+00:00"
     }
   ],
   "asof": {},
