@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-08T09:30:06+00:00",
-  "quotesAt": "2026-08-08T09:30:06+00:00",
-  "newsAt": "2026-08-08T09:30:06+00:00",
+  "fetchedAt": "2026-08-08T09:45:06+00:00",
+  "quotesAt": "2026-08-08T09:45:06+00:00",
+  "newsAt": "2026-08-08T09:45:06+00:00",
   "quotes": {
     "kospi": 6258.77,
     "spx": 7757.64,
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
       "s": "문화일보",
       "d": "2026-08-08T09:22:36+00:00"
+    },
+    {
+      "t": "SK하이닉스, 중국 충칭 반도체 후공정 공장 지분 매각 검토",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SbHBPX0sxMk5NUjByeUpfb3hreDBYNmpuY2VmZ2pJQ2NfcFZhaVBTNGFEbTlCTkhwenFmUHI1WGlIQVFxOVZqOVdxM0VFQjI4RFBwb0RKb2k4Y2N4NTFqU2FQVEl4ZndrZUE?oc=5",
+      "s": "sisaworld.kr",
+      "d": "2026-08-08T09:12:53+00:00"
     },
     {
       "t": "장종환 농협캐피탈 대표, 금리 상승·주가 하락 수익성 일시 하락…렌터카 중심 자동차금융 성장세 [2026 금융사 상반기 실적]",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xcW1OQVM1Uzh4ME5kbWtYS284cTJJamFtcGZ4RHRaeTdjMmxkN1dpVGVkcEtrWGEyRUdLZnhoTWpqelFNRXhmalVtQkpqME83d2swOGtybjQyM3V5MkZoYzIxTEQ?oc=5",
       "s": "용인신문",
       "d": "2026-08-08T06:24:58+00:00"
-    },
-    {
-      "t": "미국 7월 고용, 예상밖 감소세 전환…연준 금리인상 기대 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVVFYT25UM29oX3RUSkhEYWVtWkIwTU5qWnBhdlZyQ2ZZblgzdE1fUnlhbk9mX05TNTJkWUIwd3dUQUt3RnhIQzhQQndhT0dUNEtORDhKbWpvR01KaTR2cHpEY2JpeTlyZVNTV9IBbEFVX3lxTE1xVVFYT25UM29oX3RUSkhEYWVtWkIwTU5qWnBhdlZyQ2ZZblgzdE1fUnlhbk9mX05TNTJkWUIwd3dUQUt3RnhIQzhQQndhT0dUNEtORDhKbWpvR01KaTR2cHpEY2JpeTlyZVNTVw?oc=5",
-      "s": "블로터",
-      "d": "2026-08-08T06:15:33+00:00"
     }
   ],
   "asof": {},
