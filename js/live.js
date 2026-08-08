@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-08T09:00:13+00:00",
-  "quotesAt": "2026-08-08T09:00:13+00:00",
-  "newsAt": "2026-08-08T05:00:44+00:00",
+  "fetchedAt": "2026-08-08T09:15:06+00:00",
+  "quotesAt": "2026-08-08T09:15:06+00:00",
+  "newsAt": "2026-08-08T09:15:06+00:00",
   "quotes": {
     "kospi": 6258.77,
     "spx": 7757.64,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "'팔자' 외인 vs '사자' 개인·기관 공방… 코스피, 0.6% 하락 마감 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kX1kzSUFEOHV0bzFxNVVtZVpzdVpURDZHc2wxbnNaRFhSWlZTOTJ4YjMtc3BQcTNkTHdoUy1oZGtfYmN1bkZKOGd0MER0TkVWQmRPdld6ZXhINGxBY1gtdTNCWFhKVmdP0gFuQVVfeXFMUGpBMVNGQ0VaQURpbzgtUGo4UklzT2loM2hxSXlHOTd0LTJueUp5MktpY19ITXpPZVZFNGxYaTBvMldHS0JtLWl0YjFIaDNMVHJPYVMyQ0RPS3FrMXFMdWctZGZaUDB0dkx1a2dpUlE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-07T07:09:59+00:00"
+      "t": "장종환 농협캐피탈 대표, 금리 상승·주가 하락 수익성 일시 하락…렌터카 중심 자동차금융 성장세 [2026 금융사 상반기 실적]",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjYnROTVk1eHV6TTNtaHR5eVZJV2xTaHNfdHRVVXJyRzlSTzBoMnNEMi16R2NaQ25Cd1N1Qm0tLU5EOVR5TjlOWllSeFdUVE1UY0l2QjQ3a0Znbm40MXZTYXNoRVl2bnU5eVNoWGFtMFBNOGl4LVVQTmNZZmg?oc=5",
+      "s": "한국금융신문",
+      "d": "2026-08-08T08:33:16+00:00"
     },
     {
-      "t": "국내 증시 반짝 상승 뒤 하락 반전…6200대 마감",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNHVnTGJRTzRDVlRSRFIwbnlyeG93eGJDb1NwNFR1MmptZHcxb2NZTjVybHZLdzg5UVhjRzRpMy1pY3pPY0pyYnZfMjFYWHBQdjBxOWFfUEdaSWRTVkxSUWUtczdqbDNlZmxGRkNnMFRfZw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-07T07:06:00+00:00"
+      "t": "“AI 지겨워”…월가, 반도체 대신 ‘헬스케어’로 눈 돌렸다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKdFF0TzZsRlEzNzhiSnN4a2lUYm9WVHFDanM3RXFPSkZVMnctYzZ2UXltRmJkaldXQXJFZ0c5TzhqVEpEYTliZTYxSjFod00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-08T08:18:09+00:00"
     },
     {
-      "t": "美 금리 인상? 인하론 대두되는 이유…오늘 밤 고용지표 주목[오미주] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94WHU5cnBTT25KUmlmMC1mYWlNX0FJR1Z0SFFOT1FUWDU3b25LbWJPVUZjcHB3d1FVWUtJeWdPQV9jbzZuNmItY0ktMEt3d3U3UXdiQTFka25XZlZaaUx2aU5BNmZvZjUt0gFuQVVfeXFMUFJsaFhNZjlQbkk0UUV3aGYxLU8zMTdGWWhnbW5TM05jUkJ1Uy1ETXZ0NC1LOFlveU9VaUxaWmJXMmxmY09xS0JJLTRTTU5QZU9yMGxlVlZGV1M5OEhZTV9JUk5rd0x4NEJfSVZ1NEE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-07T07:05:00+00:00"
+      "t": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00M0paR2Q3NFNtNEZXZzZJS1Rha2ZDVURjWGN3RmpWc0hLR0J4STAyd24xMlctUzFMaVNtcUlNMHIwNkJ1QzRNRFBtTUhJNElfemNDdUNCT3Y0dFdYb2JMa3MyYw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-08T08:05:00+00:00"
     },
     {
-      "t": "코스피, 6400 회복했다 6200대로 '뚝'…외국인 매도에 이틀째 하락",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xMzVpc1ZpclRRbHNwdmpDM3RGTFBIclZnQnFNWHdtWWlMVU90Z2ZjTGs1TjF2SXl2R1JoTHJtM0E4bTRWOS1qTzY0aGluZWhva3hpZzBZR2pCYXFoV18yclZXWWl1MFQyaXc?oc=5",
-      "s": "hidomin.com",
-      "d": "2026-08-07T07:02:54+00:00"
+      "t": "호르무즈 협상 주시 속 국제유가 상승세… 브렌트유 1.3%↑",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTlR1NlpQVGI3ejAtcUNXd3hrLXdfT1JYbm1zR1ZSQXdReXNGZnhhd2d3cnNGR2Y2V3hOOUtpcHdZV0xadUFTZXpyc1ZOQkpUWW1rMnllTWdZVVFNTDB1am1TbThPMFltdkE?oc=5",
+      "s": "천지일보",
+      "d": "2026-08-08T07:17:37+00:00"
     },
     {
-      "t": "코스피, 외인 매도에 이틀째 약세…SK하이닉스 5% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMc21MV0N3Y01TRDVyTFdvUU15dS1pbU5EN3BsVGFRdFhzaWRoRGczWHQ5cXNGV1RKSVV5eXQ2cTRoemh1X3RadTNRUjdLSkxDaVYtS21GOWUzWkJYZ0Y1S094a3Q?oc=5",
+      "t": "대공황보다 먼저 있었다…세계 첫 증시 대폭락에 남은 순서",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaMmlkYXIzT1R5Q2Y0YlZtcnhsYlJ2Unp4dDFNekxwRlRoYm5wNmZNZmVGUVNmdmtDZ2x2YWtyUEVjaEtWTFcwXzJYTWJCR0dsUW5RXzk5c2ozNEVHZ3hLdmxqdVZLX3c?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-08-08T07:00:00+00:00"
+    },
+    {
+      "t": "호르무즈 통항 협상 동향에 유가 상승…브렌트유 1.3%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NjZoMzNFXzV2ZThNRmdhM3lPYmsxZk5pclZIRGlIRU54bWhhQUhTZkNjaVB5aDBaYm5BVENxeU1ib1VtdEU5NHZHYWd2N0dnWGhqYkJUT0VkUzdsMmw4by1TMG8?oc=5",
       "s": "서울경제TV",
-      "d": "2026-08-07T07:02:50+00:00"
+      "d": "2026-08-08T06:49:14+00:00"
     },
     {
-      "t": "'전강후약' 코스피, 이틀째 내려 6,200대…코스닥 엿새만에 반락(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdWVQdlppblhHWXE0VG43SXpJSnR0UFpwZFNOUXBWTkRjNkJndWVwcUxvSlFWRDhyRW02X2kxdFh1aFlERERwZm1WZjJPQ0ZKS3YyQ1RHOG1ycEXSAWBBVV95cUxQeThLdVhOX3RFUE5OY1VxdHFWQ0kzRXlOSGdPZ01rZWh4MGRaUG8wYkZ3S1NrZllrZC1qUzk0WmtlMjAwMnpVVkhPRnp5Y3Z3eFp1M2dKMmdkX0x3M1JfUzQ?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-07T07:02:37+00:00"
+      "t": "다음주 경제지표 줄줄이 공개… 가계대출·고용·수출입물가 주목",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iWDBDTXhjTHdfMHFCM2ZGUFpCZTlDa0loVXJFc2lMSHVCeUI0cHFZN3JPamVaTFRuV3JJU2kzbHIwZEVWdzJjVGVHQTMyd29KaHhpbVJTaFdxckJaNkIxeDlhY1MxRm9GZnc?oc=5",
+      "s": "천지일보",
+      "d": "2026-08-08T06:35:00+00:00"
     },
     {
-      "t": "코스피, 반등 실패 0.6%↓…6200선 간신히 방어",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEk2VmlRdW5sQldGQUZLd19ub2YxM21paTJ6X1NneDE1SjR3T2o3OWpTbmNVWThienByamJQM2pxN21nY1lOdUNCVTVtUkx3bWl4VWw4RDJDMkF3dFN6UDRqNDVqZHU1VFNkQl9VZFN1Unh6a3VpRXFnN19mYzc4bFh3UVMzWHZL?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-07T07:01:57+00:00"
+      "t": "밭은 타고 바다는 끓고…‘폭염발 밥상물가’ 비상",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xcW1OQVM1Uzh4ME5kbWtYS284cTJJamFtcGZ4RHRaeTdjMmxkN1dpVGVkcEtrWGEyRUdLZnhoTWpqelFNRXhmalVtQkpqME83d2swOGtybjQyM3V5MkZoYzIxTEQ?oc=5",
+      "s": "용인신문",
+      "d": "2026-08-08T06:24:58+00:00"
     },
     {
-      "t": "코스피·코스닥 동반 하락 마감…엇갈린 반도체 투톱",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQkxJcWJRcHhRcEV2aXN0ZXNjbjRkRndNTWFxQUdJZy1HUW8xOHJrZWhxRlBxZURoa2pKOHpGVHZpY1lnTVJJaWpyUENfZ3RDNVg0Q2V3RVZjdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-07T06:59:29+00:00"
+      "t": "미국 7월 고용, 예상밖 감소세 전환…연준 금리인상 기대 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVVFYT25UM29oX3RUSkhEYWVtWkIwTU5qWnBhdlZyQ2ZZblgzdE1fUnlhbk9mX05TNTJkWUIwd3dUQUt3RnhIQzhQQndhT0dUNEtORDhKbWpvR01KaTR2cHpEY2JpeTlyZVNTV9IBbEFVX3lxTE1xVVFYT25UM29oX3RUSkhEYWVtWkIwTU5qWnBhdlZyQ2ZZblgzdE1fUnlhbk9mX05TNTJkWUIwd3dUQUt3RnhIQzhQQndhT0dUNEtORDhKbWpvR01KaTR2cHpEY2JpeTlyZVNTVw?oc=5",
+      "s": "블로터",
+      "d": "2026-08-08T06:15:33+00:00"
     },
     {
-      "t": "원·달러 환율 7.7원 내린 1416.1원 마감…유가 상승에 변동성 경계",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BQzdDOUVmckJ5QmN2V0tlZXFUakF3UnE4MGJ2SmlNYklyenh2R1NFeXltZjVoZWxjX1hPMUk4aDJoWm1aRElTUlMybU5USzUzaW9YQXR4OC02NG9FUU1aazJfQmxSLXBPb0o0aTNKYVk?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-07T06:58:36+00:00"
-    },
-    {
-      "t": "5대 은행 전세대출 올해 2조 감소…금리도 연 6% 넘어서",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QVDNzUkYtWURUUGt4UloxQVVhLUxJQ2ZDcWZId0JwMElKbk1sMENRX2E1NXdKanJobktPTENIODFnYjU5STVRUnVWeGRsSVc5SHd0V1dR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-07T06:57:29+00:00"
+      "t": "메모리반도체 품귀에 '장기계약' 러시..샌디스크·난야도 LTA 확대 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQYk1CSUdVdjdFb0dkeFBRd3RPS0ZRdUx3c0lmazNoR09ISXJZeHhidzlpaXBOOE5wQXhITFNuZ2x0Yzl0RlEwcmx6aFZhUTR2WmhISndfM3NrS3JOQ2tBVU82aU82cTdubE8yZNIBckFVX3lxTE9xYjVya1g2NEVJY2dqZkxVcTQ2RHJUenFaZnUzV1AwLUNWajQ1OXFpZnpRaVVqaFBqaXY4elBITnRmSUh6SVRxaVZZNmRqbUJlTEYyamxQbWNKRUM1cW1Qc0U0bE5GNkFWZWZ1X0hjd1NlUQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-08T06:00:37+00:00"
     }
   ],
   "asof": {},
