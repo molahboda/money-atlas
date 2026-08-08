@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-08T09:15:06+00:00",
-  "quotesAt": "2026-08-08T09:15:06+00:00",
-  "newsAt": "2026-08-08T09:15:06+00:00",
+  "fetchedAt": "2026-08-08T09:30:06+00:00",
+  "quotesAt": "2026-08-08T09:30:06+00:00",
+  "newsAt": "2026-08-08T09:30:06+00:00",
   "quotes": {
     "kospi": 6258.77,
     "spx": 7757.64,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -1.65
   },
   "news": [
+    {
+      "t": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-08T09:22:36+00:00"
+    },
     {
       "t": "장종환 농협캐피탈 대표, 금리 상승·주가 하락 수익성 일시 하락…렌터카 중심 자동차금융 성장세 [2026 금융사 상반기 실적]",
       "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjYnROTVk1eHV6TTNtaHR5eVZJV2xTaHNfdHRVVXJyRzlSTzBoMnNEMi16R2NaQ25Cd1N1Qm0tLU5EOVR5TjlOWllSeFdUVE1UY0l2QjQ3a0Znbm40MXZTYXNoRVl2bnU5eVNoWGFtMFBNOGl4LVVQTmNZZmg?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVVFYT25UM29oX3RUSkhEYWVtWkIwTU5qWnBhdlZyQ2ZZblgzdE1fUnlhbk9mX05TNTJkWUIwd3dUQUt3RnhIQzhQQndhT0dUNEtORDhKbWpvR01KaTR2cHpEY2JpeTlyZVNTV9IBbEFVX3lxTE1xVVFYT25UM29oX3RUSkhEYWVtWkIwTU5qWnBhdlZyQ2ZZblgzdE1fUnlhbk9mX05TNTJkWUIwd3dUQUt3RnhIQzhQQndhT0dUNEtORDhKbWpvR01KaTR2cHpEY2JpeTlyZVNTVw?oc=5",
       "s": "블로터",
       "d": "2026-08-08T06:15:33+00:00"
-    },
-    {
-      "t": "메모리반도체 품귀에 '장기계약' 러시..샌디스크·난야도 LTA 확대 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQYk1CSUdVdjdFb0dkeFBRd3RPS0ZRdUx3c0lmazNoR09ISXJZeHhidzlpaXBOOE5wQXhITFNuZ2x0Yzl0RlEwcmx6aFZhUTR2WmhISndfM3NrS3JOQ2tBVU82aU82cTdubE8yZNIBckFVX3lxTE9xYjVya1g2NEVJY2dqZkxVcTQ2RHJUenFaZnUzV1AwLUNWajQ1OXFpZnpRaVVqaFBqaXY4elBITnRmSUh6SVRxaVZZNmRqbUJlTEYyamxQbWNKRUM1cW1Qc0U0bE5GNkFWZWZ1X0hjd1NlUQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-08T06:00:37+00:00"
     }
   ],
   "asof": {},
