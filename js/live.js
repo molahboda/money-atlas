@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-09T11:15:14+00:00",
-  "quotesAt": "2026-08-09T11:15:14+00:00",
-  "newsAt": "2026-08-09T11:15:14+00:00",
+  "fetchedAt": "2026-08-09T11:30:07+00:00",
+  "quotesAt": "2026-08-09T11:30:07+00:00",
+  "newsAt": "2026-08-09T11:30:07+00:00",
   "quotes": {
     "kospi": 6258.77,
     "spx": 7757.64,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "다음주 반도체·밸류업·美우주위성 분야 ETF 3종목 출시",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01UjRoUTBGUVlOVTNVVkpDSWpwdi1LeUxNQjBZS0JQNk15VXJVazF0M0dQczY5a2RGU2tzNFkzMjlHdzBoa2ZGQW50RVlYeUdkdTd6YnhXQ3FTa0RzR3Z4OA?oc=5",
-      "s": "조세금융신문",
-      "d": "2026-08-08T09:50:31+00:00"
+      "t": "애플, AI 수요 급증으로 인한 메모리 반도체 공급난 해소 위해 중국 CXMT 칩 테스트",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VeG5vMmNOenNSeUZSVEhmOE9yNFVxVHFULVVHYVVqaWJUemttd2liYWdoMVBjTUV3aDJ0eXNOQi02Qld1bVU4Ujc0UHppYnJQeGJpSkhSNURpMmdKTk5EWU5Td0JiUDlVLTYtc252b28?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-09T11:10:00+00:00"
     },
     {
-      "t": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-08T09:22:36+00:00"
+      "t": "정청래의 실수 “이명박 임기내 광주반도체…”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nS0JRcGNBNjFCVWJEa3VIUXU0Ql96YXktYkdOLV9xMFdSYlotUmp3bzMydU9lZUZoVDJGNHExMlpZamM4TWJ0bWpyOHRaU2Ri?oc=5",
+      "s": "munhwa.com",
+      "d": "2026-08-09T10:49:03+00:00"
     },
     {
-      "t": "SK하이닉스, 중국 충칭 반도체 후공정 공장 지분 매각 검토",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SbHBPX0sxMk5NUjByeUpfb3hreDBYNmpuY2VmZ2pJQ2NfcFZhaVBTNGFEbTlCTkhwenFmUHI1WGlIQVFxOVZqOVdxM0VFQjI4RFBwb0RKb2k4Y2N4NTFqU2FQVEl4ZndrZUE?oc=5",
-      "s": "sisaworld.kr",
-      "d": "2026-08-08T09:12:53+00:00"
+      "t": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-09T10:38:00+00:00"
     },
     {
-      "t": "장종환 농협캐피탈 대표, 금리 상승·주가 하락 수익성 일시 하락…렌터카 중심 자동차금융 성장세 [2026 금융사 상반기 실적]",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjYnROTVk1eHV6TTNtaHR5eVZJV2xTaHNfdHRVVXJyRzlSTzBoMnNEMi16R2NaQ25Cd1N1Qm0tLU5EOVR5TjlOWllSeFdUVE1UY0l2QjQ3a0Znbm40MXZTYXNoRVl2bnU5eVNoWGFtMFBNOGl4LVVQTmNZZmg?oc=5",
-      "s": "한국금융신문",
-      "d": "2026-08-08T08:33:16+00:00"
+      "t": "용인시, 고교생 30명 반도체·AI 미래인재 캠프",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EdVpXMVJMMXdrcXh6di03RmVmVDBrRDMyZ1lweFVRaWNpemNlVjUtd2tpR1FtM1lOTU5NOHpHMV84QnZlVkNrRFB4VWdHdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-09T10:37:48+00:00"
     },
     {
-      "t": "“AI 지겨워”…월가, 반도체 대신 ‘헬스케어’로 눈 돌렸다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKdFF0TzZsRlEzNzhiSnN4a2lUYm9WVHFDanM3RXFPSkZVMnctYzZ2UXltRmJkaldXQXJFZ0c5TzhqVEpEYTliZTYxSjFod00?oc=5",
+      "t": "\"반도체만 오른다\" 곡소리 났는데…'대반전' 예고한 종목들",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIV0JqYWpPWFNmMjlFZlNDQTJNbWRra2pQWk1qS1MybXIwS201M3poWVQzeVB3SHFlZk5uSXBycjROUnpqVTFQdmpobUE4Q1pjaFR0dlh2VmNlZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-09T10:27:00+00:00"
+    },
+    {
+      "t": "실적도, 물가 지표도 나옵니다 [8/10~8/14 투자캘린더]│Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tbUc2d2pJeXNLbEtJR2xRSXN1NmRQSi1WbkphTExTVExPSkdVTlA2UklIc2RGanRZNEJ5dXBpeldpQ0FqYjI3akpfQ2Nqa2JCOEtSSHJZV3p6Zkk?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-09T10:24:05+00:00"
+    },
+    {
+      "t": "유럽 증시, 실적 개선과 경제 성장에 힘입어 투자자 유입 확대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLSTl2Q2NsRFRLUlFaRDhEMTB3TndOQml1enVsWkVDalYwVjRpUFRmc3gyN1M4R1hRdHI1SVJ0T3hoal9iNjBvZGw3bG9sV2dlbVV3enduX0lHX296eGZ2NUNaZWhEbHU5bEpEU2dlcnQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-09T09:58:00+00:00"
+    },
+    {
+      "t": "[포럼] 소부장에 달린 호남권 반도체",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jb1Z6LXdPRW1XQXg5Sk96QmIwWmtVTWljNGtCeVJfcGRvNEVYSEFjdXhrTGRaZU0zVWF6WUVOeW9DSlkwRnNEbGM1VmNZQUY4aWF1cFBCbUhEUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-09T09:57:53+00:00"
+    },
+    {
+      "t": "반도체 빠진 증시서 은행주 ‘역주행’…기준금리·환율 호재에 상승세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaDRGSHJsNnNnSHRaeHlOd1BQa1A5N2ltdU1ZYXJXTlN0LURoOEpxUERLMlRJcGc2MU5kdU0teTFYVlVfa3d1bVZkOTFybDg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-08T08:18:09+00:00"
+      "d": "2026-08-09T09:43:27+00:00"
     },
     {
-      "t": "달러 수급 개선에 원화 강세…환율 ‘1300원대’ 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00M0paR2Q3NFNtNEZXZzZJS1Rha2ZDVURjWGN3RmpWc0hLR0J4STAyd24xMlctUzFMaVNtcUlNMHIwNkJ1QzRNRFBtTUhJNElfemNDdUNCT3Y0dFdYb2JMa3MyYw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-08T08:05:00+00:00"
-    },
-    {
-      "t": "호르무즈 협상 주시 속 국제유가 상승세… 브렌트유 1.3%↑",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfTlR1NlpQVGI3ejAtcUNXd3hrLXdfT1JYbm1zR1ZSQXdReXNGZnhhd2d3cnNGR2Y2V3hOOUtpcHdZV0xadUFTZXpyc1ZOQkpUWW1rMnllTWdZVVFNTDB1am1TbThPMFltdkE?oc=5",
-      "s": "천지일보",
-      "d": "2026-08-08T07:17:37+00:00"
-    },
-    {
-      "t": "대공황보다 먼저 있었다…세계 첫 증시 대폭락에 남은 순서",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaMmlkYXIzT1R5Q2Y0YlZtcnhsYlJ2Unp4dDFNekxwRlRoYm5wNmZNZmVGUVNmdmtDZ2x2YWtyUEVjaEtWTFcwXzJYTWJCR0dsUW5RXzk5c2ozNEVHZ3hLdmxqdVZLX3c?oc=5",
-      "s": "자본시장뉴스",
-      "d": "2026-08-08T07:00:00+00:00"
-    },
-    {
-      "t": "호르무즈 통항 협상 동향에 유가 상승…브렌트유 1.3%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NjZoMzNFXzV2ZThNRmdhM3lPYmsxZk5pclZIRGlIRU54bWhhQUhTZkNjaVB5aDBaYm5BVENxeU1ib1VtdEU5NHZHYWd2N0dnWGhqYkJUT0VkUzdsMmw4by1TMG8?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-08T06:49:14+00:00"
-    },
-    {
-      "t": "다음주 경제지표 줄줄이 공개… 가계대출·고용·수출입물가 주목",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iWDBDTXhjTHdfMHFCM2ZGUFpCZTlDa0loVXJFc2lMSHVCeUI0cHFZN3JPamVaTFRuV3JJU2kzbHIwZEVWdzJjVGVHQTMyd29KaHhpbVJTaFdxckJaNkIxeDlhY1MxRm9GZnc?oc=5",
-      "s": "천지일보",
-      "d": "2026-08-08T06:35:00+00:00"
+      "t": "[증시 예보] 이번주 코스피, 미국 물가지수에 달렸다?…이유는 결국 외국인",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CVGRwWmE3bjZtLURnNS16aDN5SXMwT2hndENYSDNZRl9sa3FlanNlc2w4Q1ItOTU3Qlc3Rm9DRE41WjZUSkl4YzNnYnM3cHFRTGRZU2VB?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-08-09T09:40:00+00:00"
     }
   ],
   "asof": {},
