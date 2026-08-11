@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T14:31:00+00:00",
-  "quotesAt": "2026-08-11T14:31:00+00:00",
-  "newsAt": "2026-08-11T14:31:00+00:00",
+  "fetchedAt": "2026-08-11T14:46:00+00:00",
+  "quotesAt": "2026-08-11T14:46:00+00:00",
+  "newsAt": "2026-08-11T14:46:00+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7758.98,
+    "spx": 7757.74,
     "nikkei": 66970.22,
-    "vix": 15.42,
-    "krw": 1413.14,
-    "gold": 4447.3,
+    "vix": 15.39,
+    "krw": 1412.22,
+    "gold": 4450.3,
     "wti": 82.12,
-    "dxy": 99.81
+    "dxy": 99.82
   },
   "daily": {
-    "spx": 0.02,
+    "spx": 0,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.44,
-    "dxy": 0,
-    "gold": 1.96,
+    "krw": 0.37,
+    "dxy": 0.01,
+    "gold": 2.03,
     "wti": -0.01,
-    "vix": -0.26
+    "vix": -0.45
   },
   "news": [
+    {
+      "t": "美 7월 기존주택 판매 전월比 1.7% 감소…모기지금리 상승에도 안정적",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03bjd3TEVuVzJ4X1FwNURjWW4wcTZyM05mLTZ2aVFhdHBIcDI4SlphQUEybmxtZXFZUThlMVU3V0d5MnhFUkdfRVVhVi0wUk10VDlsdGRtR3RoT0RhT3NubHduMm4zNmR6LUxEWFduaTh1dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-11T14:35:52+00:00"
+    },
     {
       "t": "뉴욕증시, 美-이란 합의 기대에 혼조 출발 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUxjWUlhQU5WSi1maUVBVkRnaFl6U0wzeWt1RkRJRnZDVk5VakFkcEJMTU11dzk4VjYyZzMxY1ZQUUl3a0tPb0xRQzlpajJxVEwzdUZQQzJkVzFMM0RvZGluOEFHcWtiZTRDRzVZenphZXFaZnlqeGNCMV9hNDVhSWtwR0g4VVptek53WnBsZlIwSFlHdGpxN0F1RlNkUdIBsgFBVV95cUxPekJpb19oV2VJMEVRbGp3RjNJOHUyWkpUSGNiWUthWjR2d0Jzdi0zZ0lENGxqTWlOY2R4Ym9JejlydDRWd1FkaDc2ZzM1NWN1ejlldHFVMjdDdE85c09TaG5GaDR3eTJjN2YxdTVuZXlRdFM0SjVnZFcwRkVzbjVnVWJzcnRQMS1maUZ1NW5Wem1teENkMGc3cmw0dl82Q1FVNkI3Q3FuTGZuZ1N3LTJrdjZR?oc=5",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-11T14:01:32+00:00"
     },
     {
+      "t": "파키스탄 측 \"미·이란 합의 근접\"…국제유가 하락 전환",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQkNUM0ZQVzVkelFtVFRoemtWbzR6MXRIYi1ONmNPeGluSmswNjZpejMxTmhBdFphd3h0YlVnd0JPSm1QbDJEOWZxS0t1R1JrRVJKRGpsWHlmQUtC?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-11T14:01:00+00:00"
+    },
+    {
       "t": "섹션 232 관세 결정으로 퍼스트 솔라, Baird 투자의견 상향",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dktJa1FPdGdKbDJSV2UyVldFZkgtbEU0Y0IwYms1OGpyR2poMzJ6MGxLNkt6TnRUN2JNWVlnWW11V2NES2puUHUyWXRBUDd6VWNCelZkelU3SWYyUXlDcHRjQ0dCeGg2SmZtUEM4X20?oc=5",
       "s": "Investing.com 한국어",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55aWVHeUE1YS1ZOEtDWDdSMVZSUTdmMnM5Yk1DeHVmRy0wN2RPNHVuUUFXYTRwd3o2Tk1BeV9LeVBJTldCQzFFTWlpcVhtdjU5bHYwUVNFZ0tqUjU5WEE?oc=5",
       "s": "YTN",
       "d": "2026-08-11T13:06:00+00:00"
-    },
-    {
-      "t": "산업부, 美 폴리실리콘 232조 관세 민관합동 대책회의 개최",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zeUdaQWRqZ1pHcDVnMFJFcmZaNHU4MGVPRktCd3hOcUhWQkZKaGxJbzJfX2dkMG84TW01LTFmeG41RkxrVUo2M3N3TGo1WWY2TUQ2TnVUczQ1dTB2Wlp0TUZJeWYtOUE?oc=5",
-      "s": "dhns.co.kr",
-      "d": "2026-08-11T13:02:18+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 유가 다시 뛰는데 주가 선물 반등…엔비디아·라이엇플랫폼스↑",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZXdzR1VPeVBxbUJ1XzNWTkZVWnM4aVRtN0lUTlljQVQtM3B4c21XWmxaWVpXYXZMaGxDbGkyRHlSR29OLTA0QW1QRFdIZWJDcDE5TkJrRUVZU01E?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-11T12:58:00+00:00"
     }
   ],
   "asof": {},
