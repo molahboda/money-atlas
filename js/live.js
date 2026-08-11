@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T15:45:59+00:00",
-  "quotesAt": "2026-08-11T15:45:59+00:00",
-  "newsAt": "2026-08-11T15:45:59+00:00",
+  "fetchedAt": "2026-08-11T16:01:00+00:00",
+  "quotesAt": "2026-08-11T16:01:00+00:00",
+  "newsAt": "2026-08-11T16:01:00+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7744.54,
+    "spx": 7745.74,
     "nikkei": 66970.22,
-    "vix": 15.28,
-    "krw": 1412.82,
-    "gold": 4437.1,
-    "wti": 83.24,
+    "vix": 15.33,
+    "krw": 1412.56,
+    "gold": 4436.9,
+    "wti": 83.28,
     "dxy": 99.84
   },
   "daily": {
-    "spx": -0.17,
+    "spx": -0.15,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.41,
+    "krw": 0.4,
     "dxy": 0.03,
-    "gold": 1.73,
-    "wti": 1.35,
-    "vix": -1.16
+    "gold": 1.72,
+    "wti": 1.4,
+    "vix": -0.84
   },
   "news": [
+    {
+      "t": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFMDdRUzN2ZFQzbWpiVEZBalNwTUhYTWJKTTctOFc0c3VsSl8wNkdtYmF4cW1KMXh3anRRVFlVcDFwR0F0ZzhOZktkangwbjA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-11T15:51:09+00:00"
+    },
+    {
+      "t": "美 고용 충격으로 금리인상 전망 후퇴… 금 ETF 수익률 반등",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2drd2gxRjRPUTBEVWJCQU9IR3NrOTNXdUFheFlZRkpTU1czNXZheDduMnRVVU1taXFQZEx1QUNyNEFCOXB1ZE95cWhPTHZvNlpDNWt0M3VxNDBfYnRYa2pXOUIzYnkzTDQ3VnRfVFh6Z2x3NEl3djYtdzZhNEI4UGN1d0ZnaFBxcTJF?oc=5",
+      "s": "chosun.com",
+      "d": "2026-08-11T15:35:00+00:00"
+    },
     {
       "t": "호르무즈 기싸움에 국제유가 5% 급등",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16MUpCYUNwUXR6WDA5a25Xa3hDeGRLdkV0MlVTR3JEQTE4SExxZ3dZWDVFcUlvYzJEVG50UHgwTWpORXFLeW1OYU5MU3hoV01vMWlGTlJHdHU5dTUwVmpKSXBiRVJYQjJlcGw0alZfekd2aG1jbUHSAWZBVV95cUxNdjdVaG1MOFVLTm00WEsxd2Fqckg4TU9sN1FocDdSS0lFMUs0TXR4cEo1eVJOeTgxNkcwdGlwMzhuaUVOTnUzcWZqN3hfcVFlYlZTZFM5VG9SN2RZdlRPeDlkaERKQUE?oc=5",
@@ -41,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95YmljNjJUTG1Fd0U5eHQwTjMxOXlSQ3FyNm5mcl9heWx6Q2V6c0dDRllFOUprYmxBVEJ3X19rdERtcTh6dUdXUDJoZDI5R1ZTUXNrdlVJZnFCemh0WHZEQjQ5M0xsNk1ndnAwMnlsb09KUExqU0pqR1l3?oc=5",
       "s": "서울신문",
       "d": "2026-08-11T15:22:03+00:00"
+    },
+    {
+      "t": "이제 긴축 초입인데, 연체율은 10년래 최고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Q282ZFRkLVV4blNDNEdEOUwyQ0NGa050aE9wUGYyeGVYd1NXYU9NNEI0dE44XzFSUmRpTlRtN2RWYTdCWWIyT0pXd0Q4cE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-11T15:17:36+00:00"
     },
     {
       "t": "뉴욕증시, 미·이란 합의 기대 재점화 속 혼조 출발",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX3ROTVpMSUUxMkU5ZEVNeFZ2VzFvU1pkT21VUnhNZmk0WDkxelVtZDk4dVRrLW11aGk1RmZZX0laRFRlVlZoTlFVeTdMcU81N0hVVmZXM3M5dk5aaDNvTw?oc=5",
       "s": "경기경제신문",
       "d": "2026-08-11T14:48:21+00:00"
-    },
-    {
-      "t": "美 7월 기존주택 판매 전월比 1.7% 감소…모기지금리 상승에도 안정적",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03bjd3TEVuVzJ4X1FwNURjWW4wcTZyM05mLTZ2aVFhdHBIcDI4SlphQUEybmxtZXFZUThlMVU3V0d5MnhFUkdfRVVhVi0wUk10VDlsdGRtR3RoT0RhT3NubHduMm4zNmR6LUxEWFduaTh1dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-11T14:35:52+00:00"
-    },
-    {
-      "t": "씨티, 올해 12개 주요 중앙은행 금리 인상 전망",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84VTNWVzRwcjl3OHhXcDc1b3BWSWlvUUs4emZlV1dhVkNzN0lyM1lNM0JLZmZXU2JHeTVWOVptWXVXTW05X2Rtd2N5dUN0eElnVkg0RFhJYUZDNUtxWGFucTJkNGlIWngtcXJDdWZ5YnZsV2NNaUpN?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T14:20:00+00:00"
-    },
-    {
-      "t": "독일 운전자들, 이란 분쟁에 유가 급등하자 전기차로 전환",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96X1JfeW5OTWFhWnd6blVmcHlva2VWbkRsOThKbFNLMW5BdXE4ZlpzZTV5UUFGZWJtWXA4a1hiNmlhVms5MXhpMVV5b0lBVTJUV2t0TWxEWWlsT29HSk1XeERHdmxxMzJKQ2swWklOVnI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T14:20:00+00:00"
     }
   ],
   "asof": {},
