@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T15:16:00+00:00",
-  "quotesAt": "2026-08-11T15:16:00+00:00",
-  "newsAt": "2026-08-11T15:16:00+00:00",
+  "fetchedAt": "2026-08-11T15:30:59+00:00",
+  "quotesAt": "2026-08-11T15:30:59+00:00",
+  "newsAt": "2026-08-11T15:30:59+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7749.19,
+    "spx": 7747.72,
     "nikkei": 66970.22,
-    "vix": 15.24,
-    "krw": 1412.31,
-    "gold": 4456.1,
-    "wti": 82.6,
-    "dxy": 99.81
+    "vix": 15.3,
+    "krw": 1412.13,
+    "gold": 4445.4,
+    "wti": 82.57,
+    "dxy": 99.84
   },
   "daily": {
-    "spx": -0.11,
+    "spx": -0.13,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.38,
-    "dxy": 0,
-    "gold": 2.16,
-    "wti": 0.57,
-    "vix": -1.42
+    "krw": 0.36,
+    "dxy": 0.03,
+    "gold": 1.92,
+    "wti": 0.54,
+    "vix": -1.03
   },
   "news": [
+    {
+      "t": "한은 부총재 “특별한 충격 없으면 추가 금리인상 가능성 높다”",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95YmljNjJUTG1Fd0U5eHQwTjMxOXlSQ3FyNm5mcl9heWx6Q2V6c0dDRllFOUprYmxBVEJ3X19rdERtcTh6dUdXUDJoZDI5R1ZTUXNrdlVJZnFCemh0WHZEQjQ5M0xsNk1ndnAwMnlsb09KUExqU0pqR1l3?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-11T15:22:03+00:00"
+    },
     {
       "t": "[사라 말릭의 마켓 나우] 연준의 침묵, 인프라의 기회",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MUkI3NjNiSDhzSWhtMGhIS1BKNk9VVDJlZ0lJY0dzbWRnZzN5ajYwOVBybl9oWmN4Rm9aZTlZYVdHcjliQ0IyLXVDZkgyUUxRcnpiNm53?oc=5",
@@ -31,16 +37,10 @@ window.LIVE_DATA = {
       "d": "2026-08-11T15:04:00+00:00"
     },
     {
-      "t": "용인특례시, ‘2026 용인 반도체 기업네트워크‧투자설명회’ 개최",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX3ROTVpMSUUxMkU5ZEVNeFZ2VzFvU1pkT21VUnhNZmk0WDkxelVtZDk4dVRrLW11aGk1RmZZX0laRFRlVlZoTlFVeTdMcU81N0hVVmZXM3M5dk5aaDNvTw?oc=5",
-      "s": "경기경제신문",
-      "d": "2026-08-11T14:48:21+00:00"
-    },
-    {
-      "t": "美 7월 기존주택 판매 전월比 1.7% 감소…모기지금리 상승에도 안정적",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03bjd3TEVuVzJ4X1FwNURjWW4wcTZyM05mLTZ2aVFhdHBIcDI4SlphQUEybmxtZXFZUThlMVU3V0d5MnhFUkdfRVVhVi0wUk10VDlsdGRtR3RoT0RhT3NubHduMm4zNmR6LUxEWFduaTh1dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-11T14:35:52+00:00"
+      "t": "광주 반도체, 군공항 밖으로 커진다…팹 최대 5기 추가",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lamFfWmVoUWliaWxJSHlkd2FCbHpwQUlYbUZWTi1kUFJuazFTYVBZQUZKLWR5clpaYkl3dnRXS2NpbjQ1dXl0WEM5Umd5SDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-11T14:58:34+00:00"
     },
     {
       "t": "독일 운전자들, 이란 분쟁에 유가 급등하자 전기차로 전환",
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-11T14:01:00+00:00"
     },
     {
-      "t": "섹션 232 관세 결정으로 퍼스트 솔라, Baird 투자의견 상향",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dktJa1FPdGdKbDJSV2UyVldFZkgtbEU0Y0IwYms1OGpyR2poMzJ6MGxLNkt6TnRUN2JNWVlnWW11V2NES2puUHUyWXRBUDd6VWNCelZkelU3SWYyUXlDcHRjQ0dCeGg2SmZtUEM4X20?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T13:40:00+00:00"
+      "t": "뉴욕증시, 미-이란 합의 기대 재점화 속 혼조 출발",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92aWNuRllPNDJBeWphX1c0ZE52dk1oREQ5cXNUOXNLRUpTcGtxdEtDNWw0ejBaQ2g1TkJwUld1OWtJMjIyd2o5akRZLXc2cFpuTVVST3pjUlNQMFpzWnc1N9IBYEFVX3lxTE92aWNuRllPNDJBeWphX1c0ZE52dk1oREQ5cXNUOXNLRUpTcGtxdEtDNWw0ejBaQ2g1TkJwUld1OWtJMjIyd2o5akRZLXc2cFpuTVVST3pjUlNQMFpzWnc1Nw?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-11T13:52:07+00:00"
     }
   ],
   "asof": {},
