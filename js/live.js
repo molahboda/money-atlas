@@ -1,46 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T14:46:00+00:00",
-  "quotesAt": "2026-08-11T14:46:00+00:00",
-  "newsAt": "2026-08-11T14:46:00+00:00",
+  "fetchedAt": "2026-08-11T15:01:00+00:00",
+  "quotesAt": "2026-08-11T15:01:00+00:00",
+  "newsAt": "2026-08-11T15:01:00+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7757.74,
+    "spx": 7760.5,
     "nikkei": 66970.22,
-    "vix": 15.39,
-    "krw": 1412.22,
-    "gold": 4450.3,
-    "wti": 82.12,
+    "vix": 15.28,
+    "krw": 1410.77,
+    "gold": 4453,
+    "wti": 82.39,
     "dxy": 99.82
   },
   "daily": {
-    "spx": 0,
+    "spx": 0.04,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.37,
+    "krw": 0.27,
     "dxy": 0.01,
-    "gold": 2.03,
-    "wti": -0.01,
-    "vix": -0.45
+    "gold": 2.09,
+    "wti": 0.32,
+    "vix": -1.16
   },
   "news": [
     {
-      "t": "美 7월 기존주택 판매 전월比 1.7% 감소…모기지금리 상승에도 안정적",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03bjd3TEVuVzJ4X1FwNURjWW4wcTZyM05mLTZ2aVFhdHBIcDI4SlphQUEybmxtZXFZUThlMVU3V0d5MnhFUkdfRVVhVi0wUk10VDlsdGRtR3RoT0RhT3NubHduMm4zNmR6LUxEWFduaTh1dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-11T14:35:52+00:00"
+      "t": "용인특례시, ‘2026 용인 반도체 기업네트워크‧투자설명회’ 개최",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX3ROTVpMSUUxMkU5ZEVNeFZ2VzFvU1pkT21VUnhNZmk0WDkxelVtZDk4dVRrLW11aGk1RmZZX0laRFRlVlZoTlFVeTdMcU81N0hVVmZXM3M5dk5aaDNvTw?oc=5",
+      "s": "경기경제신문",
+      "d": "2026-08-11T14:48:21+00:00"
     },
     {
       "t": "뉴욕증시, 美-이란 합의 기대에 혼조 출발 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUxjWUlhQU5WSi1maUVBVkRnaFl6U0wzeWt1RkRJRnZDVk5VakFkcEJMTU11dzk4VjYyZzMxY1ZQUUl3a0tPb0xRQzlpajJxVEwzdUZQQzJkVzFMM0RvZGluOEFHcWtiZTRDRzVZenphZXFaZnlqeGNCMV9hNDVhSWtwR0g4VVptek53WnBsZlIwSFlHdGpxN0F1RlNkUdIBsgFBVV95cUxPekJpb19oV2VJMEVRbGp3RjNJOHUyWkpUSGNiWUthWjR2d0Jzdi0zZ0lENGxqTWlOY2R4Ym9JejlydDRWd1FkaDc2ZzM1NWN1ejlldHFVMjdDdE85c09TaG5GaDR3eTJjN2YxdTVuZXlRdFM0SjVnZFcwRkVzbjVnVWJzcnRQMS1maUZ1NW5Wem1teENkMGc3cmw0dl82Q1FVNkI3Q3FuTGZuZ1N3LTJrdjZR?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-11T14:16:00+00:00"
-    },
-    {
-      "t": "美 증시, 중동 합의 기대감에 상승 시도",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15elVVTTJjVGVNVGFWNUpwaFljbmxQODVoWFNsa1BabDBCWkVzQ3hhbHhkbzk4bGlfVWJzdmhVSS15bml3WE5xRklySnh4WE1fSUYtcFVqdWY5UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-11T14:10:10+00:00"
     },
     {
       "t": "與, 용인 반도체 산단 방문…\"전폭지원\"",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55aWVHeUE1YS1ZOEtDWDdSMVZSUTdmMnM5Yk1DeHVmRy0wN2RPNHVuUUFXYTRwd3o2Tk1BeV9LeVBJTldCQzFFTWlpcVhtdjU5bHYwUVNFZ0tqUjU5WEE?oc=5",
       "s": "YTN",
       "d": "2026-08-11T13:06:00+00:00"
+    },
+    {
+      "t": "산업부, 美 폴리실리콘 232조 관세 민관합동 대책회의 개최",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zeUdaQWRqZ1pHcDVnMFJFcmZaNHU4MGVPRktCd3hOcUhWQkZKaGxJbzJfX2dkMG84TW01LTFmeG41RkxrVUo2M3N3TGo1WWY2TUQ2TnVUczQ1dTB2Wlp0TUZJeWYtOUE?oc=5",
+      "s": "dhns.co.kr",
+      "d": "2026-08-11T13:02:18+00:00"
     }
   ],
   "asof": {},
