@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T12:31:00+00:00",
-  "quotesAt": "2026-08-11T12:31:00+00:00",
-  "newsAt": "2026-08-11T12:31:00+00:00",
+  "fetchedAt": "2026-08-11T12:45:59+00:00",
+  "quotesAt": "2026-08-11T12:45:59+00:00",
+  "newsAt": "2026-08-11T12:45:59+00:00",
   "quotes": {
     "kospi": 6345.53,
     "spx": 7753.11,
     "nikkei": 66970.22,
-    "vix": 15.45,
-    "krw": 1413.74,
-    "gold": 4456.5,
-    "wti": 82.28,
+    "vix": 15.57,
+    "krw": 1413.18,
+    "gold": 4448.4,
+    "wti": 82.36,
     "dxy": 99.84
   },
   "daily": {
     "spx": 0.56,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.48,
+    "krw": 0.44,
     "dxy": 0.03,
-    "gold": 2.17,
-    "wti": 0.18,
-    "vix": -0.06
+    "gold": 1.99,
+    "wti": 0.28,
+    "vix": 0.71
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MUjdjdkMwNGdqTktzNXFUdFdPeFFDSWxDVzBkX1RaQlZlYWZ6TWlsSEFyLWV4dHVWM3NxSzVzb2QxYVJwNlVtV3h4R1dfYmhfYUJjU3BQbUViUE5hSi0yUTRVZmNPOGZNdjJYN1Q1Zmk?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-11T12:06:00+00:00"
+    },
+    {
+      "t": "중동 불안에도 수출 호실적…코스피 6,300선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yYTlWUy1wSU9GRFBxQURDOWFZdkg5QnY0YjhBYXFtRzVFelUzNVFwUnI5Z2pIWWFjd0Yyc3ZURmtLeXBwZXFmdEc4eWxvS2M5NndZbkxDM3d1REVmVzA5N3V5Y1YxcVE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-11T12:00:00+00:00"
     },
     {
       "t": "TSX 선물 소폭 상승…미국 물가 지표·유가 변동성 주목",
@@ -59,12 +65,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdl9GWTUtLUlvWl9OQmZTajM5Rm1mcTROQ1pTaVJvNWdIa1d4SV80ZjBldGFvTUpXODNuMTBHWFAzVGJsdUFodlhaZVJSZ0d1R3pUN0h0VkZrRGk3?oc=5",
       "s": "newspim.com",
       "d": "2026-08-11T10:54:00+00:00"
-    },
-    {
-      "t": "산업부장관 \"호남 반도체 클러스터 2029년 1차 완공 목표\"",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qbnU1UEdyY1Rya3cxa3FYUzZWZEZZVlh0Z1NOSXZxMWVTLVNRZ3lkLUI1SEJMVTRacW5xTS0xMllyTXV2a1d3Q2pOcUMweTROdzZYUjVR?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-11T10:53:16+00:00"
     },
     {
       "t": "유상대 한은 부총재 \"경기 충격 없다면 기준금리 추가 인상 가능성 커\"",
