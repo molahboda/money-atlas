@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T12:45:59+00:00",
-  "quotesAt": "2026-08-11T12:45:59+00:00",
-  "newsAt": "2026-08-11T12:45:59+00:00",
+  "fetchedAt": "2026-08-11T13:01:00+00:00",
+  "quotesAt": "2026-08-11T13:01:00+00:00",
+  "newsAt": "2026-08-11T13:01:00+00:00",
   "quotes": {
     "kospi": 6345.53,
     "spx": 7753.11,
     "nikkei": 66970.22,
-    "vix": 15.57,
-    "krw": 1413.18,
-    "gold": 4448.4,
-    "wti": 82.36,
-    "dxy": 99.84
+    "vix": 15.54,
+    "krw": 1413.35,
+    "gold": 4454.7,
+    "wti": 82.41,
+    "dxy": 99.83
   },
   "daily": {
     "spx": 0.56,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.44,
-    "dxy": 0.03,
-    "gold": 1.99,
-    "wti": 0.28,
-    "vix": 0.71
+    "krw": 0.45,
+    "dxy": 0.02,
+    "gold": 2.13,
+    "wti": 0.34,
+    "vix": 0.52
   },
   "news": [
     {
-      "t": "브라질 7월 소비자물가 0.07% 상승, 예상치 상회",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MUjdjdkMwNGdqTktzNXFUdFdPeFFDSWxDVzBkX1RaQlZlYWZ6TWlsSEFyLWV4dHVWM3NxSzVzb2QxYVJwNlVtV3h4R1dfYmhfYUJjU3BQbUViUE5hSi0yUTRVZmNPOGZNdjJYN1Q1Zmk?oc=5",
+      "t": "뉴욕증시 프리뷰, 유가 다시 뛰는데 주가 선물 반등…엔비디아·라이엇플랫폼스↑",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZXdzR1VPeVBxbUJ1XzNWTkZVWnM4aVRtN0lUTlljQVQtM3B4c21XWmxaWVpXYXZMaGxDbGkyRHlSR29OLTA0QW1QRFdIZWJDcDE5TkJrRUVZU01E?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-11T12:58:00+00:00"
+    },
+    {
+      "t": "유가 상승에 인도 국채 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Z3J4ajIydDNIOVNsOFJKNXJrN2sxQ0ZMa1JyNDFhUG5sOHVLbWJiVlJvN3J1cm5yb1pUOHF2WnZXMjV0M29SNVZhYXBBLXlneFhhWHZvMjVHQWxQOTNMdnBETDExOVhqbERGR19lV3Q?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-08-11T12:06:00+00:00"
+      "d": "2026-08-11T12:48:00+00:00"
+    },
+    {
+      "t": "달러-원, 뉴욕장서 1,410원 초반대 거래",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qT1RZTUhRdndWZmpmUkx2dGhab3ZYTHN4YmFhZ3U4b3BTaWZTbWk5YkNHbnVzSExoejB3WVBwazI5bDBfakZWR1YtcndLQ3dYZUk5dDJMaTBhS251Tk5lMHFjTU1VbXI1QWRtR2pNUFhWQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-11T12:30:24+00:00"
+    },
+    {
+      "t": "8월 증시 수익률 웃돌 종목은?",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2MtVmIxcEY2U2d5T0VKbTEzMmtNWHpfS09wRWc2S1BRVXYwbDlTbHQ1SW44SzFvMHQ4dkhlRXg1M0l4ZldSM2lLSkx3T25HMFpqcEVYN0UzNEFCS2JhNVpxbTdSajd2UUFiM2RLTmNYY1B4YXNmYjBPcHZDSkZxVjBNcWNmaEZDalMyYlNjNWQtWEFHT2t3T09Ld3QxVENBS3VJVm9oSE5Qb09ndlpPdEl2ZGo5c3FSeGN3OU14c3kySmxIZzZTdE1LMlctQlNs?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-11T12:15:00+00:00"
     },
     {
       "t": "중동 불안에도 수출 호실적…코스피 6,300선 회복",
@@ -63,26 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "[인도증시] 유가 상승에 인플레 우려 커지며 하락...유가 영향 큰 소비재 부문 낙폭 커",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdl9GWTUtLUlvWl9OQmZTajM5Rm1mcTROQ1pTaVJvNWdIa1d4SV80ZjBldGFvTUpXODNuMTBHWFAzVGJsdUFodlhaZVJSZ0d1R3pUN0h0VkZrRGk3?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-08-11T10:54:00+00:00"
-    },
-    {
-      "t": "유상대 한은 부총재 \"경기 충격 없다면 기준금리 추가 인상 가능성 커\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00TkVqTm9kVldhX0N0dDFnNjN6dDFDaE4tX1ZjcUJsQW5XUzJwU09KazdPU05QdXNVdndaSWVGNEpwRFl0WThzMUhFdHQxS3RhUy10RXRGY2FKekp3RVZNZWdUZlRzZXRKWTIzRWxCd1o?oc=5",
-      "s": "shinailbo.co.kr",
-      "d": "2026-08-11T10:34:10+00:00"
-    },
-    {
-      "t": "[오마이포토2026] 용인 반도체 클러스터 현장 방문한 민주당",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laktWblMtMU9HTHRyd1hPbUhwMlRGem84T09TRWpZTzdXbDlaZ2Q5d1dEUUg1dzVuMHNwNWFtel96NXphenk0Y3U5WnZqZ1JpeUNVeExVVngxbU1vYUdITVlGaVFreFRnek1NdWJqUUk5NHJPMU5N?oc=5",
-      "s": "ohmynews.com",
-      "d": "2026-08-11T10:21:00+00:00"
-    },
-    {
-      "t": "청주 - 호남권 반도체특별법 1호 `각축'",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByZkxUUjEyYUNnbjhOVDZQblJVRmlmcV84YTcxN0lkUU10Uy0tbnVXdGZMVWZJSnZISVZWSkFaa0ZWUEk1LU84QTVKMFkzaHhUZkpIR1k3Vlg2YXdIeGZkU0ptTTZ3YUlr?oc=5",
-      "s": "충청타임즈",
-      "d": "2026-08-11T10:18:00+00:00"
     }
   ],
   "asof": {},
