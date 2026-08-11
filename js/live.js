@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T14:16:00+00:00",
-  "quotesAt": "2026-08-11T14:16:00+00:00",
-  "newsAt": "2026-08-11T14:16:00+00:00",
+  "fetchedAt": "2026-08-11T14:31:00+00:00",
+  "quotesAt": "2026-08-11T14:31:00+00:00",
+  "newsAt": "2026-08-11T14:31:00+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7761.33,
+    "spx": 7758.98,
     "nikkei": 66970.22,
-    "vix": 15.44,
-    "krw": 1412.51,
-    "gold": 4444.7,
-    "wti": 81.88,
-    "dxy": 99.82
+    "vix": 15.42,
+    "krw": 1413.14,
+    "gold": 4447.3,
+    "wti": 82.12,
+    "dxy": 99.81
   },
   "daily": {
-    "spx": 0.05,
+    "spx": 0.02,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.39,
-    "dxy": 0.01,
-    "gold": 1.9,
-    "wti": -0.3,
-    "vix": -0.13
+    "krw": 0.44,
+    "dxy": 0,
+    "gold": 1.96,
+    "wti": -0.01,
+    "vix": -0.26
   },
   "news": [
     {
-      "t": "[뉴욕증시]호르무즈 해협 \"합의 근접\"…혼조세",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uS1J6dDBxTU00ZGJyeWszOFppX1dOaThjSkQzd2FKcWlQQWtMYUhobjdzWk5iRlI4bWV4TGdjWFdsOUwwMmMwdHJRVkQzS1U5Y2Q0aW1EdTNndDkzMDRSSA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-11T14:11:00+00:00"
+      "t": "뉴욕증시, 美-이란 합의 기대에 혼조 출발 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUxjWUlhQU5WSi1maUVBVkRnaFl6U0wzeWt1RkRJRnZDVk5VakFkcEJMTU11dzk4VjYyZzMxY1ZQUUl3a0tPb0xRQzlpajJxVEwzdUZQQzJkVzFMM0RvZGluOEFHcWtiZTRDRzVZenphZXFaZnlqeGNCMV9hNDVhSWtwR0g4VVptek53WnBsZlIwSFlHdGpxN0F1RlNkUdIBsgFBVV95cUxPekJpb19oV2VJMEVRbGp3RjNJOHUyWkpUSGNiWUthWjR2d0Jzdi0zZ0lENGxqTWlOY2R4Ym9JejlydDRWd1FkaDc2ZzM1NWN1ejlldHFVMjdDdE85c09TaG5GaDR3eTJjN2YxdTVuZXlRdFM0SjVnZFcwRkVzbjVnVWJzcnRQMS1maUZ1NW5Wem1teENkMGc3cmw0dl82Q1FVNkI3Q3FuTGZuZ1N3LTJrdjZR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-11T14:16:00+00:00"
+    },
+    {
+      "t": "美 증시, 중동 합의 기대감에 상승 시도",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15elVVTTJjVGVNVGFWNUpwaFljbmxQODVoWFNsa1BabDBCWkVzQ3hhbHhkbzk4bGlfVWJzdmhVSS15bml3WE5xRklySnh4WE1fSUYtcFVqdWY5UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-11T14:10:10+00:00"
     },
     {
       "t": "與, 용인 반도체 산단 방문…\"전폭지원\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZXdzR1VPeVBxbUJ1XzNWTkZVWnM4aVRtN0lUTlljQVQtM3B4c21XWmxaWVpXYXZMaGxDbGkyRHlSR29OLTA0QW1QRFdIZWJDcDE5TkJrRUVZU01E?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-11T12:58:00+00:00"
-    },
-    {
-      "t": "경기 광주시, ‘반도체 용수관 경유’ 대책 논의…“TF 가동”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQmJ0NmQyQXZ5YXA4VWt4YkpUS29KN19TWG1hbWhLVEFZdE1HMWJmbE9LM1NsSXlGWnRqZjhUdWdiRXNzNmRjX2U4WlVrcjc4MkVKNkdMQ3l2eXc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-11T12:50:00+00:00"
     }
   ],
   "asof": {},
