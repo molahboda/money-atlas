@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T10:45:59+00:00",
-  "quotesAt": "2026-08-11T10:45:59+00:00",
-  "newsAt": "2026-08-11T10:45:59+00:00",
+  "fetchedAt": "2026-08-11T11:01:00+00:00",
+  "quotesAt": "2026-08-11T11:01:00+00:00",
+  "newsAt": "2026-08-11T11:01:00+00:00",
   "quotes": {
     "kospi": 6345.53,
     "spx": 7753.11,
     "nikkei": 66970.22,
     "vix": 15.51,
-    "krw": 1414.98,
-    "gold": 4437.3,
-    "wti": 83.61,
-    "dxy": 99.84
+    "krw": 1414.74,
+    "gold": 4440.2,
+    "wti": 83.32,
+    "dxy": 99.86
   },
   "daily": {
     "spx": 0.56,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.57,
-    "dxy": 0.03,
-    "gold": 1.73,
-    "wti": 1.8,
+    "krw": 0.55,
+    "dxy": 0.05,
+    "gold": 1.8,
+    "wti": 1.45,
     "vix": 0.32
   },
   "news": [
+    {
+      "t": "유상대 한은 부총재 \"경기 충격 없다면 기준금리 추가 인상 가능성 커\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00TkVqTm9kVldhX0N0dDFnNjN6dDFDaE4tX1ZjcUJsQW5XUzJwU09KazdPU05QdXNVdndaSWVGNEpwRFl0WThzMUhFdHQxS3RhUy10RXRGY2FKekp3RVZNZWdUZlRzZXRKWTIzRWxCd1o?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-11T10:34:10+00:00"
+    },
     {
       "t": "[오마이포토2026] 용인 반도체 클러스터 현장 방문한 민주당",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laktWblMtMU9HTHRyd1hPbUhwMlRGem84T09TRWpZTzdXbDlaZ2Q5d1dEUUg1dzVuMHNwNWFtel96NXphenk0Y3U5WnZqZ1JpeUNVeExVVngxbU1vYUdITVlGaVFreFRnek1NdWJqUUk5NHJPMU5N?oc=5",
       "s": "OhmyNews",
       "d": "2026-08-11T10:21:00+00:00"
+    },
+    {
+      "t": "2026 용인 반도체 기업네트워크&투자설명회 [포토뉴스]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IUTJSVVFVcVd4eWdIUjdnRmN2eUZsbVZLTkh3bEJ4U053TG9NV2V6RjNYMWxhbHhUeDNzSmsyZzdjUnVacndoYWgyUVdPczJOVHNCSVVhdEdMOEk?oc=5",
+      "s": "경기일보",
+      "d": "2026-08-11T10:19:05+00:00"
+    },
+    {
+      "t": "용인시, 반도체 소부장·앵커기업 ‘동반성장 생태계’ 구축 나선다",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWmZqajJRM0pENmVFaTI5QmU0MEhoWVdraWhoOGhVRDV0enVGMjdhNHV3bExqc3VPU0h5WFVSX1VGRWN6TE9qSHAtb2gyZjNiUEhMbGNSUnlZOExacDZWZw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-11T10:16:57+00:00"
     },
     {
       "t": "[亞증시-종합] 호르무즈 해협 재개방 기대 약화 속 혼조",
@@ -63,26 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "투표전 ‘쇼케이스’···반도체 성공·호남정치 회복 ‘어필’",
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwNU9SX3F6SXQ2a1g5UUozSklaeGZuZkpZOGt2TDRMRmlJVUFuaXRPVWU5ZldPeEFoRlFwQzIzc0xFTE1ibzhVbjBQbGQ?oc=5",
-      "s": "mdilbo.com",
+      "s": "무등일보",
       "d": "2026-08-11T09:26:00+00:00"
-    },
-    {
-      "t": "코스피 연이틀 상승 6,300선 탈환...코스닥도 상승",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vTnpIQTZDbmZ1Wl9rRDhXbnRMME5wak00YVN0YUdMNlJ0QzcteEY2NDdhbjFMRkpaUU4zQzh5ZjdYTE9Eck1Nb2tfelJpd1JBRk45RlRVNHJYcTRzRXo0a2pBN1NTRzRnUUEtOHgwN1hoQjd1c3c?oc=5",
-      "s": "YTN",
-      "d": "2026-08-11T09:22:00+00:00"
-    },
-    {
-      "t": "유럽증시, 기업실적 호조 기대감 지속에 상승 개장…유로스톡스 0.17%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVk9xOEI1UmNZQzh2WUl5RTdCenpJZWdlelNrZ3F3WUg0OTU2Y2VjQjZnSnlHV0xHbDhfQmxFOVBoX2p3S05qVWxCaUlGdVpKYWxUWmtZOVhHci1JcXgyU0g5ZzVqLWZQUEM0aXd0THfSAXRBVV95cUxQOGlaUmpYMWlXdExMdFItbmRLcWd2S1lHQmZGLWpwZnhXc0g0OU83TGdvYTlzSG5IOWpOV0lHeWs3SFd2M3h6UGJIX184Rk1UWkh4aThMUExVVGpNT2FMSmJ2d3k3MkVjdmJuVHZOcTBDa3BjTg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-11T09:21:29+00:00"
-    },
-    {
-      "t": "“코스피 지쳤다” 은행에 보낼 돈, 어디다 묻을까",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKYnduZnpMNDFGQlNDU2pWV2J6cTR2Wmhab0E2LTZJY0NzY0NlS19Tb1JleUF0OHhDU19CU0FVelJkQTZHeHhYb05hemxDakxxUFdzRl9YYy03cC03NExWbzNadk9kVmQzSFNj0gFvQVVfeXFMTXM3MF9KQUZLUjdmQlpFSmEzbWF5NTZEOW9uY3VoLWViNUh5RjQzelhOZklZSTdLY1lFUlFBZzZ6MERYMHJXQzJsZlBUd0NfX1FSRnhJb3U2ODdVQ051aTN4TEpsNVU4SVZENUpVbEZZ?oc=5",
-      "s": "서울일보",
-      "d": "2026-08-11T09:15:37+00:00"
     }
   ],
   "asof": {},
