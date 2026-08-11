@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T12:15:59+00:00",
-  "quotesAt": "2026-08-11T12:15:59+00:00",
-  "newsAt": "2026-08-11T12:15:59+00:00",
+  "fetchedAt": "2026-08-11T12:31:00+00:00",
+  "quotesAt": "2026-08-11T12:31:00+00:00",
+  "newsAt": "2026-08-11T12:31:00+00:00",
   "quotes": {
     "kospi": 6345.53,
     "spx": 7753.11,
     "nikkei": 66970.22,
     "vix": 15.45,
-    "krw": 1412.28,
-    "gold": 4447.6,
-    "wti": 82.19,
+    "krw": 1413.74,
+    "gold": 4456.5,
+    "wti": 82.28,
     "dxy": 99.84
   },
   "daily": {
     "spx": 0.56,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.38,
+    "krw": 0.48,
     "dxy": 0.03,
-    "gold": 1.97,
-    "wti": 0.07,
+    "gold": 2.17,
+    "wti": 0.18,
     "vix": -0.06
   },
   "news": [
@@ -69,13 +69,13 @@ window.LIVE_DATA = {
     {
       "t": "유상대 한은 부총재 \"경기 충격 없다면 기준금리 추가 인상 가능성 커\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00TkVqTm9kVldhX0N0dDFnNjN6dDFDaE4tX1ZjcUJsQW5XUzJwU09KazdPU05QdXNVdndaSWVGNEpwRFl0WThzMUhFdHQxS3RhUy10RXRGY2FKekp3RVZNZWdUZlRzZXRKWTIzRWxCd1o?oc=5",
-      "s": "신아일보",
+      "s": "shinailbo.co.kr",
       "d": "2026-08-11T10:34:10+00:00"
     },
     {
       "t": "[오마이포토2026] 용인 반도체 클러스터 현장 방문한 민주당",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laktWblMtMU9HTHRyd1hPbUhwMlRGem84T09TRWpZTzdXbDlaZ2Q5d1dEUUg1dzVuMHNwNWFtel96NXphenk0Y3U5WnZqZ1JpeUNVeExVVngxbU1vYUdITVlGaVFreFRnek1NdWJqUUk5NHJPMU5N?oc=5",
-      "s": "OhmyNews",
+      "s": "ohmynews.com",
       "d": "2026-08-11T10:21:00+00:00"
     },
     {
