@@ -1,33 +1,45 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T11:15:59+00:00",
-  "quotesAt": "2026-08-11T11:15:59+00:00",
-  "newsAt": "2026-08-11T11:15:59+00:00",
+  "fetchedAt": "2026-08-11T11:31:00+00:00",
+  "quotesAt": "2026-08-11T11:31:00+00:00",
+  "newsAt": "2026-08-11T11:31:00+00:00",
   "quotes": {
     "kospi": 6345.53,
     "spx": 7753.11,
     "nikkei": 66970.22,
-    "vix": 15.5,
-    "krw": 1412.32,
-    "gold": 4450.3,
-    "wti": 81.96,
-    "dxy": 99.79
+    "vix": 15.46,
+    "krw": 1412.86,
+    "gold": 4447,
+    "wti": 81.91,
+    "dxy": 99.82
   },
   "daily": {
     "spx": 0.56,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.38,
-    "dxy": -0.02,
-    "gold": 2.03,
-    "wti": -0.21,
-    "vix": 0.26
+    "krw": 0.42,
+    "dxy": 0.01,
+    "gold": 1.95,
+    "wti": -0.27,
+    "vix": 0
   },
   "news": [
     {
+      "t": "8월 코스피 열에 아홉은 올랐다는데…문제는 “삼전닉스는 빼고”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zXzItUzlXUzUzLW0wV2d4dXA4NG4xQzBYM1JGal9raUplNFFCX3hZOGFVY1NsLUMwdm1yMTcwQTI0WnNEeEppZ0RJZ2xXb28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-11T11:21:00+00:00"
+    },
+    {
+      "t": "전북대 반도체공동연구소, 교육-산업 잇는 '전북형 반도체 플랫폼' 구축 박차",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56dERHSFJiTndsWnJibUJPaHpOVks5bFJLX09VUXpJdGUtVmY2WGRyS0ZQdWNPMVNuTE9vazhKakJqZVoybk9icVZaZ2Q?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-11T11:13:53+00:00"
+    },
+    {
       "t": "[인도증시] 유가 상승에 인플레 우려 커지며 하락...유가 영향 큰 소비재 부문 낙폭 커",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdl9GWTUtLUlvWl9OQmZTajM5Rm1mcTROQ1pTaVJvNWdIa1d4SV80ZjBldGFvTUpXODNuMTBHWFAzVGJsdUFodlhaZVJSZ0d1R3pUN0h0VkZrRGk3?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-08-11T10:54:00+00:00"
     },
     {
@@ -39,7 +51,7 @@ window.LIVE_DATA = {
     {
       "t": "[오마이포토2026] 용인 반도체 클러스터 현장 방문한 민주당",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laktWblMtMU9HTHRyd1hPbUhwMlRGem84T09TRWpZTzdXbDlaZ2Q5d1dEUUg1dzVuMHNwNWFtel96NXphenk0Y3U5WnZqZ1JpeUNVeExVVngxbU1vYUdITVlGaVFreFRnek1NdWJqUUk5NHJPMU5N?oc=5",
-      "s": "OhmyNews",
+      "s": "ohmynews.com",
       "d": "2026-08-11T10:21:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85LWt4dkFKS1ZWQUlpZHV5UlJvcUo2ODJibjZEN2Z2TVlEZmZoeFg2ZlpYTmFpQ0ZabTBLUHFNcUVIMGhBRVI1YnpNTnpJQQ?oc=5",
       "s": "전자신문",
       "d": "2026-08-11T09:36:19+00:00"
-    },
-    {
-      "t": "삼성·SK하이닉스·램리서치 한자리…반도체 세라믹 공급망 협력 강화",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0MHhpSkk2dGJhRzFRZmpiU1Jadms2M1Q3TnlCeUVZbHZXVVFkUGxaVENyNGxoYmFYVVlZUWVWUEV5ZkYzX2dEV0NrUDNPMTZKTFRoQUVaZWNKZUk2clRNY2FDdHJjZw?oc=5",
-      "s": "디일렉",
-      "d": "2026-08-11T09:32:01+00:00"
-    },
-    {
-      "t": "투표전 ‘쇼케이스’···반도체 성공·호남정치 회복 ‘어필’",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwNU9SX3F6SXQ2a1g5UUozSklaeGZuZkpZOGt2TDRMRmlJVUFuaXRPVWU5ZldPeEFoRlFwQzIzc0xFTE1ibzhVbjBQbGQ?oc=5",
-      "s": "무등일보",
-      "d": "2026-08-11T09:26:00+00:00"
     }
   ],
   "asof": {},
