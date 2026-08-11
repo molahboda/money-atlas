@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T15:30:59+00:00",
-  "quotesAt": "2026-08-11T15:30:59+00:00",
-  "newsAt": "2026-08-11T15:30:59+00:00",
+  "fetchedAt": "2026-08-11T15:45:59+00:00",
+  "quotesAt": "2026-08-11T15:45:59+00:00",
+  "newsAt": "2026-08-11T15:45:59+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7747.72,
+    "spx": 7744.54,
     "nikkei": 66970.22,
-    "vix": 15.3,
-    "krw": 1412.13,
-    "gold": 4445.4,
-    "wti": 82.57,
+    "vix": 15.28,
+    "krw": 1412.82,
+    "gold": 4437.1,
+    "wti": 83.24,
     "dxy": 99.84
   },
   "daily": {
-    "spx": -0.13,
+    "spx": -0.17,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.36,
+    "krw": 0.41,
     "dxy": 0.03,
-    "gold": 1.92,
-    "wti": 0.54,
-    "vix": -1.03
+    "gold": 1.73,
+    "wti": 1.35,
+    "vix": -1.16
   },
   "news": [
+    {
+      "t": "호르무즈 기싸움에 국제유가 5% 급등",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16MUpCYUNwUXR6WDA5a25Xa3hDeGRLdkV0MlVTR3JEQTE4SExxZ3dZWDVFcUlvYzJEVG50UHgwTWpORXFLeW1OYU5MU3hoV01vMWlGTlJHdHU5dTUwVmpKSXBiRVJYQjJlcGw0alZfekd2aG1jbUHSAWZBVV95cUxNdjdVaG1MOFVLTm00WEsxd2Fqckg4TU9sN1FocDdSS0lFMUs0TXR4cEo1eVJOeTgxNkcwdGlwMzhuaUVOTnUzcWZqN3hfcVFlYlZTZFM5VG9SN2RZdlRPeDlkaERKQUE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-11T15:30:00+00:00"
+    },
+    {
+      "t": "8월 1~10일 수출 45% 늘며 역대최대… 반도체 155%↑",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IMUQxV0hUZzlsajB5N3FVSk9ZdnUtSjlBVHU1QmhsZFN0TkhGSDFURlcycVFYdzVydkpMWjNfYUt3ak14RTB5S2p3VVlhUjI5Tjc5X041YjdBWnRtZ01NRkh1a0hWcXh3b2Z0VjE2R0N4ZXlianfSAWZBVV95cUxNSGtxZ3BDYlJ6bUJVekVuU0tKLUhDOWs5UmhGN0lwczFvdnY1b2xOOWUtSGJjYmludFZGVlNkQXVhbkVNeVNUY1VvMk1YNzV6TDZtMFg1OG50Z19LbjBLNmhRZEJid3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-11T15:30:00+00:00"
+    },
     {
       "t": "한은 부총재 “특별한 충격 없으면 추가 금리인상 가능성 높다”",
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95YmljNjJUTG1Fd0U5eHQwTjMxOXlSQ3FyNm5mcl9heWx6Q2V6c0dDRllFOUprYmxBVEJ3X19rdERtcTh6dUdXUDJoZDI5R1ZTUXNrdlVJZnFCemh0WHZEQjQ5M0xsNk1ndnAwMnlsb09KUExqU0pqR1l3?oc=5",
       "s": "서울신문",
       "d": "2026-08-11T15:22:03+00:00"
+    },
+    {
+      "t": "뉴욕증시, 미·이란 합의 기대 재점화 속 혼조 출발",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Um1wc09wNV9iRS1UNHhBeE12WWh3N1dMZFdFTHptdmJOeEotSFhRSU13T21pUmw0RE5acFhNckF5MWFfUlB1TlZPbGJGVTVKZFVxaFRUT3FDWUpYaVE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-11T15:15:00+00:00"
     },
     {
       "t": "[사라 말릭의 마켓 나우] 연준의 침묵, 인프라의 기회",
@@ -43,46 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-08-11T14:58:34+00:00"
     },
     {
-      "t": "독일 운전자들, 이란 분쟁에 유가 급등하자 전기차로 전환",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96X1JfeW5OTWFhWnd6blVmcHlva2VWbkRsOThKbFNLMW5BdXE4ZlpzZTV5UUFGZWJtWXA4a1hiNmlhVms5MXhpMVV5b0lBVTJUV2t0TWxEWWlsT29HSk1XeERHdmxxMzJKQ2swWklOVnI?oc=5",
+      "t": "용인특례시, ‘2026 용인 반도체 기업네트워크‧투자설명회’ 개최",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX3ROTVpMSUUxMkU5ZEVNeFZ2VzFvU1pkT21VUnhNZmk0WDkxelVtZDk4dVRrLW11aGk1RmZZX0laRFRlVlZoTlFVeTdMcU81N0hVVmZXM3M5dk5aaDNvTw?oc=5",
+      "s": "경기경제신문",
+      "d": "2026-08-11T14:48:21+00:00"
+    },
+    {
+      "t": "美 7월 기존주택 판매 전월比 1.7% 감소…모기지금리 상승에도 안정적",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03bjd3TEVuVzJ4X1FwNURjWW4wcTZyM05mLTZ2aVFhdHBIcDI4SlphQUEybmxtZXFZUThlMVU3V0d5MnhFUkdfRVVhVi0wUk10VDlsdGRtR3RoT0RhT3NubHduMm4zNmR6LUxEWFduaTh1dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-11T14:35:52+00:00"
+    },
+    {
+      "t": "씨티, 올해 12개 주요 중앙은행 금리 인상 전망",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84VTNWVzRwcjl3OHhXcDc1b3BWSWlvUUs4emZlV1dhVkNzN0lyM1lNM0JLZmZXU2JHeTVWOVptWXVXTW05X2Rtd2N5dUN0eElnVkg0RFhJYUZDNUtxWGFucTJkNGlIWngtcXJDdWZ5YnZsV2NNaUpN?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-11T14:20:00+00:00"
     },
     {
-      "t": "뉴욕증시, 美-이란 합의 기대에 혼조 출발 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUxjWUlhQU5WSi1maUVBVkRnaFl6U0wzeWt1RkRJRnZDVk5VakFkcEJMTU11dzk4VjYyZzMxY1ZQUUl3a0tPb0xRQzlpajJxVEwzdUZQQzJkVzFMM0RvZGluOEFHcWtiZTRDRzVZenphZXFaZnlqeGNCMV9hNDVhSWtwR0g4VVptek53WnBsZlIwSFlHdGpxN0F1RlNkUdIBsgFBVV95cUxPekJpb19oV2VJMEVRbGp3RjNJOHUyWkpUSGNiWUthWjR2d0Jzdi0zZ0lENGxqTWlOY2R4Ym9JejlydDRWd1FkaDc2ZzM1NWN1ejlldHFVMjdDdE85c09TaG5GaDR3eTJjN2YxdTVuZXlRdFM0SjVnZFcwRkVzbjVnVWJzcnRQMS1maUZ1NW5Wem1teENkMGc3cmw0dl82Q1FVNkI3Q3FuTGZuZ1N3LTJrdjZR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-11T14:16:00+00:00"
-    },
-    {
-      "t": "美 증시, 중동 합의 기대감에 상승 시도",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15elVVTTJjVGVNVGFWNUpwaFljbmxQODVoWFNsa1BabDBCWkVzQ3hhbHhkbzk4bGlfVWJzdmhVSS15bml3WE5xRklySnh4WE1fSUYtcFVqdWY5UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-11T14:10:10+00:00"
-    },
-    {
-      "t": "與, 용인 반도체 산단 방문…\"전폭지원\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zVVZuRTlmVDVSRkpOU1ptYk96Snk3X3Q5VXUxelJkVl9IY0VpR0Ixekl3MGl1OG0zcVJsYjR5OEtsM3g5cWhDdHptWmVncTFtdjNXcHJ3YkJrbjRXaVA0MUZvTHFzV2s?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-11T14:03:00+00:00"
-    },
-    {
-      "t": "SK하이닉스 ADR, 5일만에 반등…엔비디아發 인프라 투자 기대 속 유가↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTFUyRXZCZ0VYWXFKdS15QUVDTUVjYjIzaDV1bnZPcnBrU19xckl6VGVETmRIeGMxWm1mRFNvTl94X1N0cjdqbHBiRGRSTFN6U0tCY191MlU0V3l5UlJ6LTNEOHBOWTQ5Z0JTSThJazI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-11T14:01:32+00:00"
-    },
-    {
-      "t": "파키스탄 측 \"미·이란 합의 근접\"…국제유가 하락 전환",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQkNUM0ZQVzVkelFtVFRoemtWbzR6MXRIYi1ONmNPeGluSmswNjZpejMxTmhBdFphd3h0YlVnd0JPSm1QbDJEOWZxS0t1R1JrRVJKRGpsWHlmQUtC?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-11T14:01:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 미-이란 합의 기대 재점화 속 혼조 출발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92aWNuRllPNDJBeWphX1c0ZE52dk1oREQ5cXNUOXNLRUpTcGtxdEtDNWw0ejBaQ2g1TkJwUld1OWtJMjIyd2o5akRZLXc2cFpuTVVST3pjUlNQMFpzWnc1N9IBYEFVX3lxTE92aWNuRllPNDJBeWphX1c0ZE52dk1oREQ5cXNUOXNLRUpTcGtxdEtDNWw0ejBaQ2g1TkJwUld1OWtJMjIyd2o5akRZLXc2cFpuTVVST3pjUlNQMFpzWnc1Nw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-11T13:52:07+00:00"
+      "t": "독일 운전자들, 이란 분쟁에 유가 급등하자 전기차로 전환",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96X1JfeW5OTWFhWnd6blVmcHlva2VWbkRsOThKbFNLMW5BdXE4ZlpzZTV5UUFGZWJtWXA4a1hiNmlhVms5MXhpMVV5b0lBVTJUV2t0TWxEWWlsT29HSk1XeERHdmxxMzJKQ2swWklOVnI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-11T14:20:00+00:00"
     }
   ],
   "asof": {},
