@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T13:46:00+00:00",
-  "quotesAt": "2026-08-11T13:46:00+00:00",
-  "newsAt": "2026-08-11T13:46:00+00:00",
+  "fetchedAt": "2026-08-11T14:01:01+00:00",
+  "quotesAt": "2026-08-11T14:01:01+00:00",
+  "newsAt": "2026-08-11T14:01:01+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7753.4,
+    "spx": 7763.44,
     "nikkei": 66970.22,
-    "vix": 15.53,
-    "krw": 1412.18,
-    "gold": 4449.7,
-    "wti": 81.93,
-    "dxy": 99.82
+    "vix": 15.55,
+    "krw": 1411.08,
+    "gold": 4451.7,
+    "wti": 81.41,
+    "dxy": 99.79
   },
   "daily": {
-    "spx": -0.05,
+    "spx": 0.07,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.37,
-    "dxy": 0.01,
-    "gold": 2.02,
-    "wti": -0.24,
-    "vix": 0.45
+    "krw": 0.29,
+    "dxy": -0.02,
+    "gold": 2.06,
+    "wti": -0.88,
+    "vix": 0.58
   },
   "news": [
+    {
+      "t": "섹션 232 관세 결정으로 퍼스트 솔라, Baird 투자의견 상향",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dktJa1FPdGdKbDJSV2UyVldFZkgtbEU0Y0IwYms1OGpyR2poMzJ6MGxLNkt6TnRUN2JNWVlnWW11V2NES2puUHUyWXRBUDd6VWNCelZkelU3SWYyUXlDcHRjQ0dCeGg2SmZtUEM4X20?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-11T13:40:00+00:00"
+    },
     {
       "t": "美 국채가, 호르무즈 협상 낙관론에 강세 전환",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xQkFrV0VfNXBpSXlkQjA5bmZrS1I1eHFqb3QxMEJ3QXZwT1lOZkFiajNJanZ0eDliRjdpWV9LRlVPRXhEb2hMN3Q2M19JZmtGVUNDUDVDbGpRUjJHbUMtb1QtQnhRbXRzazN4SmdWZ0xXUQ?oc=5",
@@ -33,7 +39,7 @@ window.LIVE_DATA = {
     {
       "t": "美·이란 합의 기대에 유가 하락…증시 랠리, CPI에 달렸다│Global Money Club",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TeXZSeWtEZ25ZMHNoUXJWSEc1VjB1M1BJd1hXNXVNQ2tLcTh2cVByclQ3NHJwRXVnN1Q5ZWgzVm9VdEtzTXFQbl9QbDdUcVliUFgzWk5IZWtiLU0?oc=5",
-      "s": "joongang.co.kr",
+      "s": "중앙일보",
       "d": "2026-08-11T13:15:18+00:00"
     },
     {
@@ -71,12 +77,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1M2JlUWpJVDZQdnlaMVZELWV2STdES3BDM2dQakNHcXNNMzdHVEhsQzc1RkpoUHA3UU5JSlFidWRrWlptWGhUQjRxWmNCdXdId0xNMENtRDBET0lyVjlGLXl5ZWdNQ01PNXVURGRtX00?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-11T12:34:00+00:00"
-    },
-    {
-      "t": "번스타인, WFE 성장 전망 상향…반도체 장비주 목표주가 일제히 올려",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzb01vTEFCTDRKbkpTNGdBOEF3UmdUQ0t4UUlfaHdEMGxzWnNpcUJtWmlVZjlxMENfcDdSZUFWT2I5Z2JDcjRBRFNKQ3FKMHNISWdHRUd5dUNLUHBDa1RDcFQ5dXdOc3JfSlpFQ2szbEw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T12:27:00+00:00"
     },
     {
       "t": "8월 증시 수익률 웃돌 종목은?",
