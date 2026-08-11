@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T14:01:01+00:00",
-  "quotesAt": "2026-08-11T14:01:01+00:00",
-  "newsAt": "2026-08-11T14:01:01+00:00",
+  "fetchedAt": "2026-08-11T14:16:00+00:00",
+  "quotesAt": "2026-08-11T14:16:00+00:00",
+  "newsAt": "2026-08-11T14:16:00+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7763.44,
+    "spx": 7761.33,
     "nikkei": 66970.22,
-    "vix": 15.55,
-    "krw": 1411.08,
-    "gold": 4451.7,
-    "wti": 81.41,
-    "dxy": 99.79
+    "vix": 15.44,
+    "krw": 1412.51,
+    "gold": 4444.7,
+    "wti": 81.88,
+    "dxy": 99.82
   },
   "daily": {
-    "spx": 0.07,
+    "spx": 0.05,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.29,
-    "dxy": -0.02,
-    "gold": 2.06,
-    "wti": -0.88,
-    "vix": 0.58
+    "krw": 0.39,
+    "dxy": 0.01,
+    "gold": 1.9,
+    "wti": -0.3,
+    "vix": -0.13
   },
   "news": [
+    {
+      "t": "[뉴욕증시]호르무즈 해협 \"합의 근접\"…혼조세",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uS1J6dDBxTU00ZGJyeWszOFppX1dOaThjSkQzd2FKcWlQQWtMYUhobjdzWk5iRlI4bWV4TGdjWFdsOUwwMmMwdHJRVkQzS1U5Y2Q0aW1EdTNndDkzMDRSSA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-11T14:11:00+00:00"
+    },
+    {
+      "t": "與, 용인 반도체 산단 방문…\"전폭지원\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zVVZuRTlmVDVSRkpOU1ptYk96Snk3X3Q5VXUxelJkVl9IY0VpR0Ixekl3MGl1OG0zcVJsYjR5OEtsM3g5cWhDdHptWmVncTFtdjNXcHJ3YkJrbjRXaVA0MUZvTHFzV2s?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-11T14:03:00+00:00"
+    },
+    {
+      "t": "SK하이닉스 ADR, 5일만에 반등…엔비디아發 인프라 투자 기대 속 유가↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTFUyRXZCZ0VYWXFKdS15QUVDTUVjYjIzaDV1bnZPcnBrU19xckl6VGVETmRIeGMxWm1mRFNvTl94X1N0cjdqbHBiRGRSTFN6U0tCY191MlU0V3l5UlJ6LTNEOHBOWTQ5Z0JTSThJazI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-11T14:01:32+00:00"
+    },
     {
       "t": "섹션 232 관세 결정으로 퍼스트 솔라, Baird 투자의견 상향",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dktJa1FPdGdKbDJSV2UyVldFZkgtbEU0Y0IwYms1OGpyR2poMzJ6MGxLNkt6TnRUN2JNWVlnWW11V2NES2puUHUyWXRBUDd6VWNCelZkelU3SWYyUXlDcHRjQ0dCeGg2SmZtUEM4X20?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQmJ0NmQyQXZ5YXA4VWt4YkpUS29KN19TWG1hbWhLVEFZdE1HMWJmbE9LM1NsSXlGWnRqZjhUdWdiRXNzNmRjX2U4WlVrcjc4MkVKNkdMQ3l2eXc?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-11T12:50:00+00:00"
-    },
-    {
-      "t": "유가 상승에 인도 국채 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6Z3J4ajIydDNIOVNsOFJKNXJrN2sxQ0ZMa1JyNDFhUG5sOHVLbWJiVlJvN3J1cm5yb1pUOHF2WnZXMjV0M29SNVZhYXBBLXlneFhhWHZvMjVHQWxQOTNMdnBETDExOVhqbERGR19lV3Q?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T12:48:00+00:00"
-    },
-    {
-      "t": "[마감] 코스피, 외국인·기관 매수세에 반등 마감…대형 반도체주 상승 견인 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1M2JlUWpJVDZQdnlaMVZELWV2STdES3BDM2dQakNHcXNNMzdHVEhsQzc1RkpoUHA3UU5JSlFidWRrWlptWGhUQjRxWmNCdXdId0xNMENtRDBET0lyVjlGLXl5ZWdNQ01PNXVURGRtX00?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T12:34:00+00:00"
-    },
-    {
-      "t": "8월 증시 수익률 웃돌 종목은?",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2MtVmIxcEY2U2d5T0VKbTEzMmtNWHpfS09wRWc2S1BRVXYwbDlTbHQ1SW44SzFvMHQ4dkhlRXg1M0l4ZldSM2lLSkx3T25HMFpqcEVYN0UzNEFCS2JhNVpxbTdSajd2UUFiM2RLTmNYY1B4YXNmYjBPcHZDSkZxVjBNcWNmaEZDalMyYlNjNWQtWEFHT2t3T09Ld3QxVENBS3VJVm9oSE5Qb09ndlpPdEl2ZGo5c3FSeGN3OU14c3kySmxIZzZTdE1LMlctQlNs?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-11T12:15:00+00:00"
     }
   ],
   "asof": {},
