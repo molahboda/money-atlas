@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T13:15:59+00:00",
-  "quotesAt": "2026-08-11T13:15:59+00:00",
-  "newsAt": "2026-08-11T13:15:59+00:00",
+  "fetchedAt": "2026-08-11T13:30:59+00:00",
+  "quotesAt": "2026-08-11T13:30:59+00:00",
+  "newsAt": "2026-08-11T13:30:59+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7753.11,
+    "spx": 7763.1,
     "nikkei": 66970.22,
-    "vix": 15.54,
-    "krw": 1413.07,
-    "gold": 4452.5,
-    "wti": 81.83,
-    "dxy": 99.8
+    "vix": 15.55,
+    "krw": 1413.58,
+    "gold": 4455.8,
+    "wti": 81.91,
+    "dxy": 99.81
   },
   "daily": {
-    "spx": 0.56,
+    "spx": 0.07,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.43,
-    "dxy": -0.01,
-    "gold": 2.08,
-    "wti": -0.37,
-    "vix": 0.52
+    "krw": 0.47,
+    "dxy": 0,
+    "gold": 2.16,
+    "wti": -0.27,
+    "vix": 4.36
   },
   "news": [
     {
-      "t": "뉴욕증시 프리뷰, 유가 다시 뛰는데 주가 선물 반등…엔비디아·라이엇플랫폼스↑",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14ZXdzR1VPeVBxbUJ1XzNWTkZVWnM4aVRtN0lUTlljQVQtM3B4c21XWmxaWVpXYXZMaGxDbGkyRHlSR29OLTA0QW1QRFdIZWJDcDE5TkJrRUVZU01E?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-11T12:58:00+00:00"
+      "t": "美·이란 합의 기대에 유가 하락…증시 랠리, CPI에 달렸다│Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TeXZSeWtEZ25ZMHNoUXJWSEc1VjB1M1BJd1hXNXVNQ2tLcTh2cVByclQ3NHJwRXVnN1Q5ZWgzVm9VdEtzTXFQbl9QbDdUcVliUFgzWk5IZWtiLU0?oc=5",
+      "s": "joongang.co.kr",
+      "d": "2026-08-11T13:15:18+00:00"
+    },
+    {
+      "t": "코스피 연이틀 상승 6,300선 탈환...코스닥도 상승",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55aWVHeUE1YS1ZOEtDWDdSMVZSUTdmMnM5Yk1DeHVmRy0wN2RPNHVuUUFXYTRwd3o2Tk1BeV9LeVBJTldCQzFFTWlpcVhtdjU5bHYwUVNFZ0tqUjU5WEE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-11T13:06:00+00:00"
     },
     {
       "t": "유가 상승에 인도 국채 하락",
@@ -37,16 +43,22 @@ window.LIVE_DATA = {
       "d": "2026-08-11T12:48:00+00:00"
     },
     {
+      "t": "브라질 7월 인플레 4.4% 둔화…금리 인하 가능성 열려",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfQWk3ZVBrR0FQT1JheFZuZ0l0RVhJbm81LUl4ZjVxNTR6RFItYVJUeEJnOGRsMWh6RjFYaVF0NVNDQkdrQmJUMkp1bWtVZzZWazZIdzZjWTgtLTQzTS1kRlJMRjZlVFZXZHhBcHAyRVZSN2YtRVRJb3Rn?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-11T12:35:00+00:00"
+    },
+    {
       "t": "[마감] 코스피, 외국인·기관 매수세에 반등 마감…대형 반도체주 상승 견인 By 알파경제 alphabiz",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1M2JlUWpJVDZQdnlaMVZELWV2STdES3BDM2dQakNHcXNNMzdHVEhsQzc1RkpoUHA3UU5JSlFidWRrWlptWGhUQjRxWmNCdXdId0xNMENtRDBET0lyVjlGLXl5ZWdNQ01PNXVURGRtX00?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-11T12:34:00+00:00"
     },
     {
-      "t": "달러-원, 뉴욕장서 1,410원 초반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qT1RZTUhRdndWZmpmUkx2dGhab3ZYTHN4YmFhZ3U4b3BTaWZTbWk5YkNHbnVzSExoejB3WVBwazI5bDBfakZWR1YtcndLQ3dYZUk5dDJMaTBhS251Tk5lMHFjTU1VbXI1QWRtR2pNUFhWQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-11T12:30:24+00:00"
+      "t": "번스타인, WFE 성장 전망 상향…반도체 장비주 목표주가 일제히 올려",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzb01vTEFCTDRKbkpTNGdBOEF3UmdUQ0t4UUlfaHdEMGxzWnNpcUJtWmlVZjlxMENfcDdSZUFWT2I5Z2JDcjRBRFNKQ3FKMHNISWdHRUd5dUNLUHBDa1RDcFQ5dXdOc3JfSlpFQ2szbEw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-11T12:27:00+00:00"
     },
     {
       "t": "8월 증시 수익률 웃돌 종목은?",
@@ -65,18 +77,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZYkQ3bDZXdjFRNjJ0UzdUNGRmWXhEaktpWGJicGxhVld6eEZFSy02Sm1DN2lhcDRHWDJyRnRIV0swV05RbDNBTmZTbDVDYlRPcHQ5TVhEYzdMTlZFOC1lLUJMV2F2Wm1CM21sZTlfeDU?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-11T11:56:00+00:00"
-    },
-    {
-      "t": "\"2029년 반도체 공장 완공\"..호남 반도체 프로젝트 윤곽",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3bmJheVpsSVB6blpvWHhzLVZVblIzY3h4LVVwc2xVSVkwQ2Z3UlU2MU82LUNsSWJMQWVOYnlONzhkVHpEa2xMRG9aTDZsZEE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-11T11:40:03+00:00"
-    },
-    {
-      "t": "한은 \"고물가 오래 지속\"…금리 추가인상 시사",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRTdGZEUyWXJVTjBSNWstNHlPRmZZRkoyaWlXU3JsVkpOTkoydkZnUE15cUlZcF9DS1VwXy1qam16Z2FkbTBGSEtjMmlRZHZicDNHZ2dfdzNIQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-11T11:17:00+00:00"
     },
     {
       "t": "전북대 반도체공동연구소, 교육-산업 잇는 '전북형 반도체 플랫폼' 구축 박차",
