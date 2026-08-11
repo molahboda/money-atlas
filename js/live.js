@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T11:01:00+00:00",
-  "quotesAt": "2026-08-11T11:01:00+00:00",
-  "newsAt": "2026-08-11T11:01:00+00:00",
+  "fetchedAt": "2026-08-11T11:15:59+00:00",
+  "quotesAt": "2026-08-11T11:15:59+00:00",
+  "newsAt": "2026-08-11T11:15:59+00:00",
   "quotes": {
     "kospi": 6345.53,
     "spx": 7753.11,
     "nikkei": 66970.22,
-    "vix": 15.51,
-    "krw": 1414.74,
-    "gold": 4440.2,
-    "wti": 83.32,
-    "dxy": 99.86
+    "vix": 15.5,
+    "krw": 1412.32,
+    "gold": 4450.3,
+    "wti": 81.96,
+    "dxy": 99.79
   },
   "daily": {
     "spx": 0.56,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.55,
-    "dxy": 0.05,
-    "gold": 1.8,
-    "wti": 1.45,
-    "vix": 0.32
+    "krw": 0.38,
+    "dxy": -0.02,
+    "gold": 2.03,
+    "wti": -0.21,
+    "vix": 0.26
   },
   "news": [
+    {
+      "t": "[인도증시] 유가 상승에 인플레 우려 커지며 하락...유가 영향 큰 소비재 부문 낙폭 커",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQdl9GWTUtLUlvWl9OQmZTajM5Rm1mcTROQ1pTaVJvNWdIa1d4SV80ZjBldGFvTUpXODNuMTBHWFAzVGJsdUFodlhaZVJSZ0d1R3pUN0h0VkZrRGk3?oc=5",
+      "s": "newspim.com",
+      "d": "2026-08-11T10:54:00+00:00"
+    },
     {
       "t": "유상대 한은 부총재 \"경기 충격 없다면 기준금리 추가 인상 가능성 커\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00TkVqTm9kVldhX0N0dDFnNjN6dDFDaE4tX1ZjcUJsQW5XUzJwU09KazdPU05QdXNVdndaSWVGNEpwRFl0WThzMUhFdHQxS3RhUy10RXRGY2FKekp3RVZNZWdUZlRzZXRKWTIzRWxCd1o?oc=5",
@@ -35,12 +41,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5laktWblMtMU9HTHRyd1hPbUhwMlRGem84T09TRWpZTzdXbDlaZ2Q5d1dEUUg1dzVuMHNwNWFtel96NXphenk0Y3U5WnZqZ1JpeUNVeExVVngxbU1vYUdITVlGaVFreFRnek1NdWJqUUk5NHJPMU5N?oc=5",
       "s": "OhmyNews",
       "d": "2026-08-11T10:21:00+00:00"
-    },
-    {
-      "t": "2026 용인 반도체 기업네트워크&투자설명회 [포토뉴스]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IUTJSVVFVcVd4eWdIUjdnRmN2eUZsbVZLTkh3bEJ4U053TG9NV2V6RjNYMWxhbHhUeDNzSmsyZzdjUnVacndoYWgyUVdPczJOVHNCSVVhdEdMOEk?oc=5",
-      "s": "경기일보",
-      "d": "2026-08-11T10:19:05+00:00"
     },
     {
       "t": "용인시, 반도체 소부장·앵커기업 ‘동반성장 생태계’ 구축 나선다",
