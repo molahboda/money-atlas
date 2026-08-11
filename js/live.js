@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-11T16:01:00+00:00",
-  "quotesAt": "2026-08-11T16:01:00+00:00",
-  "newsAt": "2026-08-11T16:01:00+00:00",
+  "fetchedAt": "2026-08-11T16:16:00+00:00",
+  "quotesAt": "2026-08-11T16:16:00+00:00",
+  "newsAt": "2026-08-11T16:16:00+00:00",
   "quotes": {
     "kospi": 6345.53,
-    "spx": 7745.74,
+    "spx": 7744.47,
     "nikkei": 66970.22,
-    "vix": 15.33,
-    "krw": 1412.56,
-    "gold": 4436.9,
-    "wti": 83.28,
-    "dxy": 99.84
+    "vix": 15.32,
+    "krw": 1413.12,
+    "gold": 4440.7,
+    "wti": 83.04,
+    "dxy": 99.82
   },
   "daily": {
-    "spx": -0.15,
+    "spx": -0.17,
     "kospi": 1.39,
     "nikkei": 2.08,
-    "krw": 0.4,
-    "dxy": 0.03,
-    "gold": 1.72,
-    "wti": 1.4,
-    "vix": -0.84
+    "krw": 0.43,
+    "dxy": 0.01,
+    "gold": 1.81,
+    "wti": 1.11,
+    "vix": -0.91
   },
   "news": [
+    {
+      "t": "금값, 두 달 최고 찍고 반락…유가가 발목",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjA1dWl4WWZBZ1hGVHoydURKeWFMMlZtelNOdXpueXRJeVdlbjN2WHlhd1JjZGZQcWtoeGFkRi1HT3RZVHI3TUZtLU85WkFzakFEVVdSRURtMEtPdzFweGFPSlRYeC10SVFJUUdFTzlCVE9CQnJ2dzRmd3R1WnpMWkNXQngxSFpC?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-11T16:00:00+00:00"
+    },
     {
       "t": "2028 총선·2030 대선… ‘정치 시계’에 맞물린 호남반도체",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFMDdRUzN2ZFQzbWpiVEZBalNwTUhYTWJKTTctOFc0c3VsSl8wNkdtYmF4cW1KMXh3anRRVFlVcDFwR0F0ZzhOZktkangwbjA?oc=5",
@@ -53,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95YmljNjJUTG1Fd0U5eHQwTjMxOXlSQ3FyNm5mcl9heWx6Q2V6c0dDRllFOUprYmxBVEJ3X19rdERtcTh6dUdXUDJoZDI5R1ZTUXNrdlVJZnFCemh0WHZEQjQ5M0xsNk1ndnAwMnlsb09KUExqU0pqR1l3?oc=5",
       "s": "서울신문",
       "d": "2026-08-11T15:22:03+00:00"
-    },
-    {
-      "t": "이제 긴축 초입인데, 연체율은 10년래 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Q282ZFRkLVV4blNDNEdEOUwyQ0NGa050aE9wUGYyeGVYd1NXYU9NNEI0dE44XzFSUmRpTlRtN2RWYTdCWWIyT0pXd0Q4cE0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-11T15:17:36+00:00"
     },
     {
       "t": "뉴욕증시, 미·이란 합의 기대 재점화 속 혼조 출발",
