@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-12T23:00:59+00:00",
-  "quotesAt": "2026-08-12T23:00:59+00:00",
-  "newsAt": "2026-08-12T23:00:59+00:00",
+  "fetchedAt": "2026-08-12T23:15:59+00:00",
+  "quotesAt": "2026-08-12T23:15:59+00:00",
+  "newsAt": "2026-08-12T23:15:59+00:00",
   "quotes": {
     "kospi": 6579.04,
     "spx": 7748.5,
     "nikkei": 67524.06,
     "vix": 14.55,
-    "krw": 1416.92,
-    "gold": 4459.4,
-    "wti": 82.69,
+    "krw": 1416.93,
+    "gold": 4461.8,
+    "wti": 82.71,
     "dxy": 99.99
   },
   "daily": {
@@ -19,16 +19,40 @@ window.LIVE_DATA = {
     "nikkei": 0.83,
     "krw": 0.34,
     "dxy": 0.17,
-    "gold": 1.74,
-    "wti": -0.61,
+    "gold": 1.8,
+    "wti": -0.59,
     "vix": -4.78
   },
   "news": [
+    {
+      "t": "[굿모닝 증시]美 반도체주 급등…\"한국증시 강세 흐름 전망\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLThxMHlNMUJJLVJPcnBPN0tzdzNBbjBkenV0dHhRZVdXa2hwOS14NzNyX3JrRjBDR2F6WWJYS0xqWFBKcVRSck8wSUJfNkk2Nzd3REZCMkhHdWY0M0wtZA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-12T23:13:07+00:00"
+    },
+    {
+      "t": "\"법적 무효화 리스크 직면\"… 美 '강제 노동 관세' 법원 도전 가능성과 中 기업 수혜",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzJjMHBfVTdnRDZBOEFTSVRaR25NazN1V0U0MTFsb2NpbHV6N2k4OGdhdmlxZmR0SFMyQTN6eTdncDFpTmM5TlBKeFo4OW9vaGUtaEZZcng5N3E3dGF5UlZQaGdrblFkcUN5S09fR2Iwc0Eza1hGeGptT2JuN2Z3VFF2ZExldjNv?oc=5",
+      "s": "g-enews.com",
+      "d": "2026-08-12T23:00:13+00:00"
+    },
+    {
+      "t": "[중국의 역습 ⑦] 中 기술 굴기 트라우마···韓 반도체, 조선업 닮아갈까",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00ei0weTBTS2dHSWJVLTc3RmFqS005SGFwSm9Lcjl0aE1ybzFJS3BjTlMwdmxkQ0lFNWZuLWV6d1lTejJJamx3NTk5dlFNdDEtUl9wenN4Z0NaVFpCbE52T1ZVeVgtUW1VZmc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-08-12T23:00:00+00:00"
+    },
     {
       "t": "국제유가, 미국과 이란간 협상교착 등 영향 5거래일 연속 상승",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50c19hQjNHSzR2a3R6N04wcHpPNTVkOVE1YTFOYkJVTFRCOUlqNl9BUlJUbjIwMFRXLWMxS3JNZHBld3F5RWhSWXdZV2NBbWptWG9ZOUQza3B5RmdfNVE?oc=5",
       "s": "포커스온경제",
       "d": "2026-08-12T22:52:38+00:00"
+    },
+    {
+      "t": "뉴욕증시, 美 소비자물가 둔화에도 혼조…나스닥 0.54%↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UNWlTdE1hN0RVVHhTNTkzNkhSRWJXX2pBNmNSbXUtd2RySFBaQlRhMzZWTGxNOHVKTWpzRllkQzByLVlDckJEdlNRVE9KRkE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-12T22:47:03+00:00"
     },
     {
       "t": "[오늘의 채권분석] 美물가가 영향 줄까…관심은 오직 백투백",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNzlucHdwTHdDNkJwTDMxd1JsVFIya1kxWWxTcktlUG9zVHhtVHFSR1o5M3cyUlpHT3RuVU5MVm5nM1JkaDNTaDJsYUdKME5JcUJYcVdPTFdleFFBZ2lkak5ob0fSAWpBVV95cUxNM3ljb1F1Rk9wLUJlMlRRYUx2SlIwWHVxMWFTYUtselFoWEFXZHRYeU16M09kaHB1eG5QcGZVV241VUdhSHdyNDg4U2ZvdGNmaVFXUGFUeHhQWkVTQjRuLS1QWW43TXNfQk53?oc=5",
       "s": "뉴스1",
       "d": "2026-08-12T22:31:30+00:00"
-    },
-    {
-      "t": "한은 부총재 \"원·달러 환율, 4분기로 갈수록 낮아질 것…경상흑자 효과 본격화\"[경제정책 줌인]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ya2M2VkZVV1RoYVFpeTNtRXFieXNGcGtKU3FsUHVuSk1KZndKOE1PZU1qUllmTG42TVo3TXVCamxqa2RTU2hKemZucHJQTVRHdDVtQTlTNy1kN0RUVmJlOA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-12T22:28:07+00:00"
-    },
-    {
-      "t": "곧 추가 공급 대책 발표...'그린벨트 해제' 만지작 [스타트 경제]",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SSDZsQk1abTBnUkMwdTQydG5BWlpPU055cHJPYXNvY0dyVUdqcTluM2tWZFQ2bU9oOGNINGVvdU9jdGtPMFM3NWltRVpLWURkLUpRT2VsaUtTbUZ0MUE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-12T22:26:00+00:00"
-    },
-    {
-      "t": "[오늘의 글로벌마켓] 뉴욕증시, CPI 상승률 둔화 속 3대지수 혼조세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCSlJmLVpLd2F4Q0JQRW80QXFQeXJqQ3RBRC1WQUhIeDhKLUJJS0xGQTZnMnBkb1VUc1BRQ2JhWUhLcnRnVG5DVGJxbVo4cVg5Z1ozTWVYTG9hZ1pVQUxiWVdibzQ2QzRZeDRFNEpuOG0?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-12T22:20:50+00:00"
-    },
-    {
-      "t": "[뉴욕환시] 달러 상승…美 물가 안도감 가린 호르무즈 불확실성",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uaWhTNllsSVl5ZG1DXzlMOS01WUxZbTlSbDBrRTJ6RHBXVkFZeFZYY0d6UnNyQW5LVlNWWmZGcC1vdlgtWWVVbHFoNjFTY3Z5UDZQcXhfX0x2blh3VEl0Wm9OakZra054WU1pQXRhcmU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-12T22:20:09+00:00"
     }
   ],
   "asof": {},
