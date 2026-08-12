@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-12T22:30:59+00:00",
-  "quotesAt": "2026-08-12T22:30:59+00:00",
-  "newsAt": "2026-08-12T22:30:59+00:00",
+  "fetchedAt": "2026-08-12T22:46:00+00:00",
+  "quotesAt": "2026-08-12T22:46:00+00:00",
+  "newsAt": "2026-08-12T22:46:00+00:00",
   "quotes": {
     "kospi": 6579.04,
     "spx": 7748.5,
     "nikkei": 67524.06,
     "vix": 14.55,
-    "krw": 1416.89,
-    "gold": 4460.4,
-    "wti": 82.77,
+    "krw": 1416.88,
+    "gold": 4457.6,
+    "wti": 82.66,
     "dxy": 99.99
   },
   "daily": {
@@ -19,11 +19,41 @@ window.LIVE_DATA = {
     "nikkei": 0.83,
     "krw": -0.03,
     "dxy": 0.17,
-    "gold": 1.77,
-    "wti": -0.52,
+    "gold": 1.7,
+    "wti": -0.65,
     "vix": -4.78
   },
   "news": [
+    {
+      "t": "美 7월 CPI 상승률 3.4%로 둔화...금리 동결 전망 강화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00WThxd3ZhNUh1VXphVkRsZ0ROTzBJMWkybW1RcjFTT1hVT01CY3BjLUVnVEpmRXVyM3FCUkRZUjBGd1dMdFdNcDliY0JVT0hfdDhaMXRZalloc2ZONXJVUkZyZEdQcmIycVlUb21UdUI?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-12T22:38:35+00:00"
+    },
+    {
+      "t": "물가 둔화에 AI주 다시 날았다… 나스닥 0.5% 상승",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQU5WV21WWE5zUUV2RUVjRjRJZzRUWGVqa19mSG1kYW5lT1Q0aXJnZG5CUGI1N1doX1h2ZjRsMm5JbzlOWl9yZXBhdVg0VWJmUWRqOG9jWU5ySnM0Z2hIUWtZb0hPSjJZSmJkUUVJNEt2a3BmTGJGeHY3RDd6S2hDZ2xDcndRcmdi?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-12T22:33:00+00:00"
+    },
+    {
+      "t": "[팀장칼럼] 반도체 메가특구의 시간 싸움",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNzlucHdwTHdDNkJwTDMxd1JsVFIya1kxWWxTcktlUG9zVHhtVHFSR1o5M3cyUlpHT3RuVU5MVm5nM1JkaDNTaDJsYUdKME5JcUJYcVdPTFdleFFBZ2lkak5ob0fSAWpBVV95cUxNM3ljb1F1Rk9wLUJlMlRRYUx2SlIwWHVxMWFTYUtselFoWEFXZHRYeU16M09kaHB1eG5QcGZVV241VUdhSHdyNDg4U2ZvdGNmaVFXUGFUeHhQWkVTQjRuLS1QWW43TXNfQk53?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-12T22:31:30+00:00"
+    },
+    {
+      "t": "한은 부총재 \"원·달러 환율, 4분기로 갈수록 낮아질 것…경상흑자 효과 본격화\"[경제정책 줌인]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ya2M2VkZVV1RoYVFpeTNtRXFieXNGcGtKU3FsUHVuSk1KZndKOE1PZU1qUllmTG42TVo3TXVCamxqa2RTU2hKemZucHJQTVRHdDVtQTlTNy1kN0RUVmJlOA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-12T22:28:07+00:00"
+    },
+    {
+      "t": "곧 추가 공급 대책 발표...'그린벨트 해제' 만지작 [스타트 경제]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SSDZsQk1abTBnUkMwdTQydG5BWlpPU055cHJPYXNvY0dyVUdqcTluM2tWZFQ2bU9oOGNINGVvdU9jdGtPMFM3NWltRVpLWURkLUpRT2VsaUtTbUZ0MUE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-12T22:26:00+00:00"
+    },
     {
       "t": "CPI 둔화 속 뉴욕증시 혼조…나스닥 0.5%↑",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pa2J0SXZtVDVYcDI3QUt0TnFZN2w4SGNib2Q1SDF6TFJvOF9iMm5wS0taZlE3RldyN01qS29SbGxZb3d3dHk4b1BwLVYyaGpyMjR4eV9PUGdYRzFlMUF3aDFfTEtBbG94WHFjQQ?oc=5",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-12T22:20:09+00:00"
     },
     {
-      "t": "뉴욕증시, 7월 CPI 둔화·AI주 랠리에 혼조세…SK하닉 ADR 9%↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qd0VmYnlvLXFaUHNOMW1EX2NZYlppOThwQWJJR3V3MkM1VkVUZm9IaDRHb0FvSENCZkw3dXFFaHJHblIxeDB1VEVnd29ZMzQ?oc=5",
+      "t": "미국 7월 소비자 물가 상승세 둔화...금리 동결 기대감 상승",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mR2dES0VjX01kYXNBSHIxWi1qaFdTR0pGYWZMTFgtQWNpS3RzcXRSb01YUUpKUVYwcGZZQ29FcklaS3diSmRZd3FyZ3VhVWw0Q3N0czVNc2d6OTRQN0E?oc=5",
+      "s": "YTN",
+      "d": "2026-08-12T22:19:00+00:00"
+    },
+    {
+      "t": "[마켓 브리핑] CPI 예상치 부합·금리 인상 우려 완화…뉴욕증시 랠리",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XVzY2RGtWMEt5d2ZDNXk2QTE2VWZaMHUyMmNXWW51YXZxYkMzZGxnU0IzbjNLMWZQQU9pNGoyVk9JU1VOdHdKSDRPNFIwSVk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-12T22:17:51+00:00"
-    },
-    {
-      "t": "[뉴욕증시 마감] AI 투자 기대에 나스닥 0.54%↑…SK하이닉스 ADR 9% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMG5DTDJmVkEzaGhySG16NHdPZDZsenFsSV9kOVpLWktCYkJGelZSUFh2cnJvaTRqbDd1LS1sRFJwQW5ITWNjZ0VtUUhMeEJjRWNtT3RtYTVlUdIBWEFVX3lxTE9tckx5dG1VMVNhZE9IODBMRlBYTlFkTy1Fb2toSE5CeEtVUmJaRXhiVTZzNm9HN2JpT1JxT3hYX1pFaWZBaGo3TGZCV2c2Wnc0WGdieWQzYXo?oc=5",
-      "s": "아주경제",
-      "d": "2026-08-12T22:13:40+00:00"
-    },
-    {
-      "t": "노르웨이 국부펀드 \"증시, 여러 가지 리스크 직면\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUzNVTExFODRjVEhOZFlsS1FnNlNzTThLekxNdmhjOFEtRTB3SFJ2R2czS3VOS09UZnd0ay15ZDBhY1B5WW4zU05pdERTMlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-12T22:12:06+00:00"
-    },
-    {
-      "t": "뉴욕증시, 물가 둔화에도 혼조…AI주 강세에 나스닥 0.54%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HVm5FdEMxNTRlVjRJckJtRWswSlRRUlRUOEFBXzV1TVNQYjhEVVdDVk9ac1RjcFJBblVlMmpmQnE1ZnJOcTNtOXZpR05YY2FzVTA3b1N2NmJuNlVfekZVcTlLS250cTVoRXI4X0pQMVDSAXRBVV95cUxORHIzRWpHQlRtZ2pUcHV0YVQ3eUVJZHdTRkxGY0p1a0hJQ21ray1tbHlGYVpCOXZMbGJzLVRidzZVaGV4M0xUbU56RkRlZ203ME9MUHNnN0ZlbjI1R3hIblBiNnJMLVVRNVM5T3ZKbTZ4TGxKeA?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-12T22:10:20+00:00"
-    },
-    {
-      "t": "[투자노트] 금리가 현대차 주가에 부담이라는데 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYy12ejBRZ3lfa1NLOGN2Znd6WTFxYmtQYjRacnJEZy1Qbm9QenZYTmM0ZjgxcldZTTRwODFPOTRSeUxCYUhVd1ZBQm9KUVJ6YXVyc0taOE8ySGNrMXVQbktjQ1FOWldXSGJYbjZRRU51cTRCX2c5cl9sbTdTX1dRSmdQMNIBlwFBVV95cUxPbDhGR1NUeWk1dzdZenY1LXNwRVVqVTZnSEowQTNwSGdxTG00ODdOWWZvV2E0Xy1NRFM3YWtnSzUxTmhmWThtUXpJVmM3dWRZUXd2VTN6cm5UeUgwLVpybVh2alg0Nm5FdGNvNFZET2tGaHUxNlViWktvNG5Dai1HTlY4Qjl6ZG9SUXZxLV9xUjFuZ3BYUHc4?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-12T22:10:00+00:00"
-    },
-    {
-      "t": "반도체 다음 먹거리는?…김용범 \"7개 '씨앗' 키워 새 '메가'로\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsclFJemxvUTMyM2FYQlR6dDNYTl90Y2tUQ21lQnJwMTVDMU1qR09vTVBLNWEwN1dIeUxPT2lyN3VpaWlWZ1BTZkFKSFNnX0h6ODZNckcyaEdCb3o0TEU1YQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-12T22:09:09+00:00"
-    },
-    {
-      "t": "코스닥 ‘우량기업’도 상폐 위기?…증시 예탁금은 6개월만에 최저치 [한강로 경제브리핑]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UlE5S0VSSzYwRmdVYll5c2dZemVjTHV4TG5USjVHaVJVbGRIZ0U1bHR5NXFNYTE5TkNtdFYzZFpwVjZCYUktZnJoci1vX3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-12T22:03:11+00:00"
+      "d": "2026-08-12T22:16:00+00:00"
     }
   ],
   "asof": {},
