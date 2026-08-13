@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-13T22:15:42+00:00",
-  "quotesAt": "2026-08-13T22:15:42+00:00",
-  "newsAt": "2026-08-13T22:15:42+00:00",
+  "fetchedAt": "2026-08-13T22:30:42+00:00",
+  "quotesAt": "2026-08-13T22:30:42+00:00",
+  "newsAt": "2026-08-13T22:30:42+00:00",
   "quotes": {
     "kospi": 6813.34,
     "spx": 7798.99,
     "nikkei": 68308.59,
     "vix": 14.63,
-    "krw": 1418.18,
-    "gold": 4409.1,
-    "wti": 81.08,
+    "krw": 1418.12,
+    "gold": 4410.1,
+    "wti": 81.05,
     "dxy": 99.95
   },
   "daily": {
@@ -19,16 +19,52 @@ window.LIVE_DATA = {
     "nikkei": 1.16,
     "krw": 0.42,
     "dxy": -0.06,
-    "gold": 0,
-    "wti": -2.63,
+    "gold": 0.03,
+    "wti": -2.67,
     "vix": 0.55
   },
   "news": [
     {
-      "t": "'롤러코스피' 속 채권혼합 ETF 출시 봇물…삼전닉스에 '플러스 알파'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBocmZVSXR5MUZjczlTT1JKczF4N1RqNHROQk9qQXlQQUdqdkp6OWVsQ2ttaW9nLUlndHRBVFVIYnlCY3hoWnkyblFTcUJhbkxOTFAtMHlLV3RTRG95XzlRWA?oc=5",
-      "s": "asiae.co.kr",
-      "d": "2026-08-13T22:11:00+00:00"
+      "t": "[속보]트럼프, 드론·드론부품에 최대 100% 관세…한국은 15%",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKa3B1Q2tYMXRQcUFxZlc2Vy13c2JEcHV0RUFiQzh0a182YjhTcHJrZGlpSFF3d0JwMjZONlJ4elhYRjdmb1dJVVV6cUczaUxzZnctN3ZtX2t1M3RHN1BDMw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-13T22:27:40+00:00"
+    },
+    {
+      "t": "[오늘의 글로벌마켓] 뉴욕증시, 인플레 우려 완화 속 S&P500 사상 최고치",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00UGpjWmdQd1l0THdTNnY2ZFJoallOLURWRFNYX1FONnVQWTVxQ1lyUzI0NkNEeWlOclM0VG9vRjN4YUNTQl9mOTlSa0ZETEstZ0g4Tm45cXY3TzdhWGFzbFRyOU9lbkVOWEk3RU5MQmM?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-13T22:21:45+00:00"
+    },
+    {
+      "t": "7월 PPI 둔화에 금리인상 우려 완화...S&P500 '사상 최고'-[글로벌 마감 시황]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKcEJoUk1SYXpMNC15Q29RbW1DTGQ3am00U3FsdUs1dkJTM1Q3OXhYdGtCYk1tWTBBWmRvci0zSWY1OGJHd3Z6UUpXWmExV0k?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-13T22:20:41+00:00"
+    },
+    {
+      "t": "트럼프, 中겨냥 드론·드론부품에 최대 100% 관세…한국은 15%",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96TGl0MEVuc0VJRW9rWW9RdlBnYnFoMzVlYUZOdUVOT09IRkVLTmtrY0hfS3NCWXZ5QzJjc1gwcDZfRnRySWx1d29HWmlhd00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-13T22:16:49+00:00"
+    },
+    {
+      "t": "트럼프, 드론·드론 부품에 최대 100% 관세…한국 15%",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPYzRtb1ROcVdObnI4WUU2ZEVac0xpRXh6OHNncC1SRWY5R2REeEdMU2J3cDRuSGloTGRVb2hTV3F1NGctQUwwTlJPNTF5N2JKUm1yZUVjOEZxQWprWUZVa05uUlhMS283bWRV?oc=5",
+      "s": "SPN 서울평양뉴스",
+      "d": "2026-08-13T22:15:08+00:00"
+    },
+    {
+      "t": "“약속을 줄여야겠네”…외식 물가 상승에 20대 청년층 부담감 커져",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFX01zYXF0ZVRJM3NVYk56WkFNZDFQeEVZMFkzNWFNYXBOWE44UUIxQTFzR3dBOE1obUVEWW42U2Nha2VwSFgwbDVIMUJCbDg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-13T22:12:03+00:00"
+    },
+    {
+      "t": "수입물가, 2개월째 하락…순상품 교역조건, 역대 최대폭 개선",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMHRTd09qdFZjcmFCNXc5ZlU1MEZYMHNwRUtOTnFHZTN0YWxjRjJoR2lsbGtNVE85NEFNVVpBNF8xeDFqQmk1ei1Ld1BKbVdxVmlDQURNekR5YjhCUmNhNA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-13T22:10:00+00:00"
     },
     {
       "t": "[속보] 트럼프, 드론·부품에 최대 100% 관세…한국산은 최대 15%",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-13T22:09:17+00:00"
     },
     {
-      "t": "[속보]물가·유가 호재에 S&P500 사상 최고치…나스닥도 0.8%↑",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZ21CRGpmWlNxRVBsMC0tV1pMdjNDRzV4cllmQmh2M3NwQ1UwRTl3LW5aUFRVZE5sT0VuVzg3MGcyQXJiNmJmMDI4MFVrNEtW?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-13T22:00:59+00:00"
-    },
-    {
-      "t": "[뉴욕증시]PPI 보합에 금리인상 일부 후퇴…S&P500 최고치 경신",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaM1BVU3MyTUZGVTBwTjQyS2c1SW9rNy14WTJaemhtZndfQVFFRzNnQTV4YU9RR2RwMTBoY2tWYWxNd0VuTjFRLU9YV2RSV0tfa2pvc0xNYU5qNjU1WW11aA?oc=5",
-      "s": "asiae.co.kr",
-      "d": "2026-08-13T22:00:39+00:00"
-    },
-    {
-      "t": "美 물가압력 완화에 뉴욕증시 환호 … S&P500 '사상 최고' 경신",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TaWNVSjZqOFc0eTNxSjl3b1h2SlJFXzNsb1Y1aFNoTFNOZUFSU1ZoS1dhcnZKMUM3R3JyLVNSMFhXaFVBZmVXMV9qZk5SMTM5dVFKekw2aFZQajZkLXhDQjh6NzMwQjlUYkp1SmpZS1YwVzEzNDJjbV9JVdIBgAFBVV95cUxQdE01aHR2TElWeUdrUGMzNjNmWjlLa1NQU1V5alBBQnIxaW02d0FOT0Zhbk9mRWZNQzBnNFhleWx2Q2Rnb2JLLTFYWjNKVlNXX0pqc1lQVndDZ1ZXM2taYzNYSkdhTFpyTU1OTHkyUklMdUZwUEl5UmlkcVhpR2l3MA?oc=5",
-      "s": "뉴데일리",
-      "d": "2026-08-13T21:59:59+00:00"
-    },
-    {
-      "t": "뉴욕증시, PPI 둔화에 나란히 '상승'…S&P500 '사상 최고치'",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuN1VHWVNsTUNiZ3QwWGhOTlJPZy1IbFBFdVVqdG5HUkxlaUNVZFFHdVNaeV81NE9MN2ZSVXRGcU4yeW1aRXhvWVFKM0hlWUJjbWlnaGZpSTI1Q0prSjFkMXFyay1zN1FYdlIyQVh5SdIBc0FVX3lxTE01WVM1UGxjMUJKR3MzTFprdkptRTNwQU5xZXlrcUFSWkEydmk0VzRGcW1LU3o4d2Fmbk9kUkdFb2NyM1MxUF9VTWstM3VLbWd1ajNGSWNnT0gtVW9uWmppLUxzWVFEOHJsSGFVeUlEaENVMWM?oc=5",
-      "s": "뉴스웍스",
-      "d": "2026-08-13T21:59:54+00:00"
-    },
-    {
-      "t": "[속보] 트럼프, 수입 드론·부품에 최대 100% 관세…한국은 15%",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VbnhWRnBPYXBRZmM4OEV4SkJPY1g2YWhEOXVDTmJHUmdPLXpDR3k1Z0NZUHBOTldGMmZMQ0VnRGNScUstYTEzRFpKUVVvVUU?oc=5",
+      "t": "“삼전닉스 전 고점 돌파 전망… 美 금리 올라도 AI 설비투자 문제없을 것”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyWlBrSGl6Y09sbTc0djBqd3lCaEZTaEJ2YVVueHpfZ3ZyZXhZUUsybFU0STQwVjAxbW43TnhRQ0RXQ203XzRRSldjYjRSMW8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-13T21:55:29+00:00"
-    },
-    {
-      "t": "제프리스 \"美 10년물 TIPS, 증시에 닥칠 어려움 시사\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EVGw2RWRQeXJGdHJtaXZJaXk3V1VrZzVSMUpUcGg4NjVIOE56RU1kd3FkSUNRb2xoaTQ4eVFrVlpSbTRSbFhCUDh3OTRtYWZkcDZMbG51RjItOFlCYVdDNFVIOGlFSER5WWdJTzRCam4?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-13T21:53:10+00:00"
-    },
-    {
-      "t": "“외국인 185조 원 팔아치웠는데”…코스피, 열흘 새 23% 오른 이유는? [잇슈 머니]",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFVElVYWFYRjk5cE5MWTlnd2kxTTJRTXg4ZTN0aUF1dWNCTXN6ZENaNjdtZFJVOGNDam9HRm10VGhBQjloSnlYemtBOFZqUEVxWU4xZmY5eGFzQ2lUSzNvVDV0amJxQQ?oc=5",
-      "s": "news.kbs.co.kr",
-      "d": "2026-08-13T21:53:00+00:00"
+      "d": "2026-08-13T22:02:44+00:00"
     }
   ],
   "asof": {},
