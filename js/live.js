@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-13T21:45:42+00:00",
-  "quotesAt": "2026-08-13T21:45:42+00:00",
-  "newsAt": "2026-08-13T21:45:42+00:00",
+  "fetchedAt": "2026-08-13T22:00:42+00:00",
+  "quotesAt": "2026-08-13T22:00:42+00:00",
+  "newsAt": "2026-08-13T22:00:42+00:00",
   "quotes": {
     "kospi": 6813.34,
     "spx": 7798.99,
     "nikkei": 68308.59,
     "vix": 14.63,
-    "krw": 1418.25,
+    "krw": 1418.35,
     "gold": 4407.1,
     "wti": 81.21,
-    "dxy": 99.95
+    "dxy": 99.97
   },
   "daily": {
     "spx": 0.92,
     "kospi": 7.37,
     "nikkei": 1.16,
-    "krw": 0.43,
-    "dxy": -0.06,
+    "krw": 0.44,
+    "dxy": -0.04,
     "gold": -0.04,
     "wti": -2.47,
     "vix": 0.55
   },
   "news": [
+    {
+      "t": "美 물가·유가 함께 꺾였다… S&P500 사상 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYU0RYLWdrV2ZtczNnb1YtMTVWOHhnLW9yVFlfVlF6VDJYb3c4S19mb1dSVG5Nd1ZfdjVSM0FRSWE4SXFNMlBSVkRzSk1oenc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-13T21:54:09+00:00"
+    },
+    {
+      "t": "제프리스 \"美 10년물 TIPS, 증시에 닥칠 어려움 시사\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EVGw2RWRQeXJGdHJtaXZJaXk3V1VrZzVSMUpUcGg4NjVIOE56RU1kd3FkSUNRb2xoaTQ4eVFrVlpSbTRSbFhCUDh3OTRtYWZkcDZMbG51RjItOFlCYVdDNFVIOGlFSER5WWdJTzRCam4?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-13T21:53:10+00:00"
+    },
+    {
+      "t": "뉴욕증시, 물가안정·유가하락에 상승…S&P500 사상 최고치 경신",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80YWJTOEJFdk9CS3FiVVJ0cG96anhSU1RabENBbG9VcFBUOTAwUTdwWEhPbm5nQnY5bnRlSzFTSXlGR1ZHc3ZxRk1WUUdyTTlfUjdzU0tNaTBQaklCaTVpYg?oc=5",
+      "s": "증권일보",
+      "d": "2026-08-13T21:52:25+00:00"
+    },
+    {
+      "t": "뉴욕증시, 물가 부담 완화·유가 하락에 상승⋯S&P500 사상 최고치 경신",
+      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FZ0tPTTd2dnQxTWhRTUlCYXRITzRXdUtNNHNGeU5jWkRkVmtESTlpajZiR1JwcGl0dlYycTlFcHl5eFl2RldoMHJraw?oc=5",
+      "s": "아이뉴스24",
+      "d": "2026-08-13T21:46:14+00:00"
+    },
+    {
+      "t": "트럼프, 수입 드론·부품에 최대 100% 관세…한국산은 15%",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByeEYxdWNFcmp0VG41LXFrUmxtTXZCTVRQeXY1bFZKTUI2dl9PcXU0R1QzdGhIOGlmaHk3emlUaUJxN0M5ZzhYT3cweFBRa0R6SEt1Y0NYZF9XTVcyTF9SRi1tejkxd3F5SFJRV0ZnQQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-13T21:43:00+00:00"
+    },
+    {
+      "t": "[외환] '기대 이하' 美 PPI 소화하며 1,410원 후반대",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KZ05uZFQ2V0s0YUNNZGlrNHVkWnZscUJWSUtkWmlTc1ZZSkNRd2c1NjJ6OUxNR084X0owSTZnVXByanVkc0lxWVNJUkdVN2llMEgtWHRpODAyREJ3U3Q0Q2o1Q3kyUFhCT2pBSllkemFfUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-13T21:37:43+00:00"
+    },
     {
       "t": "뉴욕증시, 물가 둔화에 일제히 상승…반도체株 날고 S&P500 최고치",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUTlGaGNpaEJxLUR5WWdHUnhGaFZMSmxIc0Q1dWRlbUsxME0tVXd1YU9VTDh4T2N5NjVyNEU4V1MzMGpsXzlMOHZ6LVV2bXBhLWk2eERMeHVfcUo4WHc?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmlfT2QzWE05SVZONG5WVlRSQTc0U0ZTNnRaUkZwSDBJSHpfN2dNcGEwODZfQURXYzY4b0p0MjN0NHlHU1QxaXF3MzIzbGNGcXdDUFNkdnZfWnVNSWpfSWs3REZEbHpqZ1V2YVNFSXZiUGtzcUo0UkZHSnVmS0RybVV4amF3VXluM0d1TnpqWEVub0FheE9FdzFOZ0Mwdw?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-13T21:31:00+00:00"
-    },
-    {
-      "t": "'반도체 투심' 회복에 SK하이닉스 장중 8% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mTF9lMHFUQ3VhaXNrd2hMZzNvSTdvZGdzYkVodXd2SmREZzFySUhtSUwxenhKMHhta0NSek9kU3JUSjJJREROMTZfWS1LMF8ybjlBQ1FCekNfZTVjdVVmeXN3QlhUY1E5SGo4SUNNLVBLSFloelVkeHdR?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-13T21:29:40+00:00"
-    },
-    {
-      "t": "[속보] 트럼프, 드론·드론부품에 최대 100% 관세…한국은 15%",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0V1g4NzdUVURmb1MtUjBJXzloR3pUOWdyQjdrNXBDeVZBN0JpVG9PcWI3UmQydFZsRVpzTGhOVGFXbmJ1dUg0aHUxU296a2laTW9WMi1OSTlPNTjSAWBBVV95cUxOMFJiMGd2QXJEOGpVamJtdU1XcVJ1ZHZaNXBkLWhRNWhfRi1WeW1IbXdlaDBiRV9pdUQwS1EtUEJlMG9ocVBwZURxUWt3WVo5SlYtaXl4NThEb1cxeHdGRFI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-13T21:29:07+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 고유가에 원유 수요 악화 경고…WTI 2.43%↓ 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90OTVqdm8wVk0xcnZhdWhhb3BrQm14eTFTSGdvTjhDUXloMi0zR1laMm5abnJYQkN3cFQ2b21HcVZkQ3NLNnBRUmxwWEs1RWZVLVROUWNVY3VaQm9QdjdBcXE0RnBUcjZzY1UyTC05a1k?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-13T21:26:38+00:00"
-    },
-    {
-      "t": "美 “中, 40여개국 거쳐 관세 회피”… 韓도 ‘위험국’ 지목 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkdWSzBWdkRIQWo4Y3kyenc4RVZwUnozRWpnM0loUzAycm1FZW1Fd24yU3pWRXVfZUtnZk4xbjZCSW0xcXo4S3NRc3hyOFQxTkFTZmxlcWIzWUpnM0tSNTkwWXlmc2M5OWxuMWstblp1ZXUyb3NwNlhFOTZYR1hhd3RxMEQ3NmJXU0RtZDZPOUxoV0ViQUlWYThYWElhQdIBsgFBVV95cUxOd1dMWFJjNFItZWxxdGhvYXo2UFctT0t6SXVuSmItbzZzaDE5RmZSTEZqYWFYalltb2lma3RMME54WFBTWGdiLVFIaEVkRzNuY0NKTE95Ri1TWEpmekRCV0ktdXNtdk81R1ZlaURkQWM2SHFiZDZlWDRKWENDZllfcHF2MnJFQ3FSd1Vna2dpcUlETUtkOHVweDBUSGtxbHg3TURtRXdaVENobzBKRjhnNkdR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-13T21:24:00+00:00"
-    },
-    {
-      "t": "연준, RMP '100억달러→제로' 축소…개시 후 첫 실행 중단(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XNTA1YVdpQ3NCU2I3RzdPcjlucXptQ3NoY2FMb2lYd1V5OTNFYmUyeGVnUGdrV2ZGMU4xMTU3aU5KWmdOd0tZekdkRGNNV1BVazlxNXcwQ0V2MzVkSENLUVZsSnFoZTY0OGFTUzROWXE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-13T21:23:59+00:00"
-    },
-    {
-      "t": "물가 130% 폭등한 이란…판매자들 “지금 사고 나중에 돈 내세요”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQVGtZZVVBSldGZU9rYTk4aEFjb2JCSnJ5bHFBaGlDU0RtdmIyNlFhclg0dTB4Y01pWTdORE1IaGh6dHlIaG0zbE8yY3p0bk5G?oc=5",
-      "s": "munhwa.com",
-      "d": "2026-08-13T21:23:04+00:00"
     }
   ],
   "asof": {},
