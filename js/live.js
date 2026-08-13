@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-13T21:00:49+00:00",
-  "quotesAt": "2026-08-13T21:00:49+00:00",
-  "newsAt": "2026-08-13T13:16:04+00:00",
+  "fetchedAt": "2026-08-13T21:15:42+00:00",
+  "quotesAt": "2026-08-13T21:15:42+00:00",
+  "newsAt": "2026-08-13T21:15:42+00:00",
   "quotes": {
     "kospi": 6813.34,
     "spx": 7798.99,
     "nikkei": 68308.59,
     "vix": 14.63,
-    "krw": 1418.62,
-    "gold": 4406.3,
-    "wti": 81.16,
+    "krw": 1418.23,
+    "gold": 4407.1,
+    "wti": 81.21,
     "dxy": 99.96
   },
   "daily": {
     "spx": 0.92,
     "kospi": 7.37,
     "nikkei": 1.16,
-    "krw": 0.46,
+    "krw": 0.43,
     "dxy": -0.05,
-    "gold": -0.06,
-    "wti": -2.53,
+    "gold": -0.04,
+    "wti": -2.47,
     "vix": 0.55
   },
   "news": [
     {
-      "t": "[굿모닝 증시]美 반도체주 급등…\"한국증시 강세 흐름 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLThxMHlNMUJJLVJPcnBPN0tzdzNBbjBkenV0dHhRZVdXa2hwOS14NzNyX3JrRjBDR2F6WWJYS0xqWFBKcVRSck8wSUJfNkk2Nzd3REZCMkhHdWY0M0wtZA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-12T23:13:07+00:00"
+      "t": "美 \"중국산 상품 40여개국 통해 불법 관세회피\"…한국도 거론",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYk10ZERJYUR3YnMxZ2tpeHdubTBGZkd4UG5fZUlRVzBHZEdJMEJtX1JSTTBuMEJMWGxlZ19BMThlX0FmOVdwdHFuMlZGcXB6VVhqLWtWOXpwUzdPa253MVN6Zw?oc=5",
+      "s": "tfmedia.co.kr",
+      "d": "2026-08-13T21:13:19+00:00"
     },
     {
-      "t": "\"법적 무효화 리스크 직면\"… 美 '강제 노동 관세' 법원 도전 가능성과 中 기업 수혜",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYzJjMHBfVTdnRDZBOEFTSVRaR25NazN1V0U0MTFsb2NpbHV6N2k4OGdhdmlxZmR0SFMyQTN6eTdncDFpTmM5TlBKeFo4OW9vaGUtaEZZcng5N3E3dGF5UlZQaGdrblFkcUN5S09fR2Iwc0Eza1hGeGptT2JuN2Z3VFF2ZExldjNv?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-08-12T23:00:13+00:00"
+      "t": "美 \"中, 관세 피하려 불법 환적\"…경기 반도체 벨트도 지목",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2T19iRFp0Nzk0ZVVQOTVvX21JMVBHMHhNelhsQXZkYzdTMDJTYmN2ZzJQUHBpVW1uY2RHekhrS25XcG1ILW81b2tEVTVnZ3FZMGEyeHpBZU13S3BUTDFVT3EtWVpuUjQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-13T21:06:00+00:00"
     },
     {
-      "t": "[중국의 역습 ⑦] 中 기술 굴기 트라우마···韓 반도체, 조선업 닮아갈까",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00ei0weTBTS2dHSWJVLTc3RmFqS005SGFwSm9Lcjl0aE1ybzFJS3BjTlMwdmxkQ0lFNWZuLWV6d1lTejJJamx3NTk5dlFNdDEtUl9wenN4Z0NaVFpCbE52T1ZVeVgtUW1VZmc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-08-12T23:00:00+00:00"
-    },
-    {
-      "t": "국제유가, 미국과 이란간 협상교착 등 영향 5거래일 연속 상승",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50c19hQjNHSzR2a3R6N04wcHpPNTVkOVE1YTFOYkJVTFRCOUlqNl9BUlJUbjIwMFRXLWMxS3JNZHBld3F5RWhSWXdZV2NBbWptWG9ZOUQza3B5RmdfNVE?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-12T22:52:38+00:00"
-    },
-    {
-      "t": "뉴욕증시, 美 소비자물가 둔화에도 혼조…나스닥 0.54%↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UNWlTdE1hN0RVVHhTNTkzNkhSRWJXX2pBNmNSbXUtd2RySFBaQlRhMzZWTGxNOHVKTWpzRllkQzByLVlDckJEdlNRVE9KRkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-12T22:47:03+00:00"
-    },
-    {
-      "t": "[오늘의 채권분석] 美물가가 영향 줄까…관심은 오직 백투백",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qa1A0TjVFUGtDSEVHaGNvdkpJU2JmalhhdEZTTm1IZ1NjZkxSNFdxbEkyNFdyc1FqU29IR1hWbUNPTHRHOHYwWklmeTRCdDVDcWNkUVJ4dFFad2t4ZGZ6dnI3SmhSUXdSS2tZQTBCWDdsZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-12T22:45:46+00:00"
-    },
-    {
-      "t": "[신윤우의 외환분석] 인플레이션 너마저",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOVmlIT0lfeXY2MjExRTRBYk9HcDBMMlBzUDkxRXJqVURPY0dSQXAtSFlZTDUwUU5LaUlSdDlmbmJwTndDbTVLbUQ5d1BnOGtjMmtaVDE4ZzdXRUl4OHhnREhoQmtIU2RSbmdoRE9sRmdxZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-12T22:43:02+00:00"
-    },
-    {
-      "t": "美 7월 CPI 상승률 3.4%로 둔화...금리 동결 전망 강화",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00WThxd3ZhNUh1VXphVkRsZ0ROTzBJMWkybW1RcjFTT1hVT01CY3BjLUVnVEpmRXVyM3FCUkRZUjBGd1dMdFdNcDliY0JVT0hfdDhaMXRZalloc2ZONXJVUkZyZEdQcmIycVlUb21UdUI?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-12T22:38:35+00:00"
-    },
-    {
-      "t": "물가 둔화에 AI주 다시 날았다… 나스닥 0.5% 상승",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQU5WV21WWE5zUUV2RUVjRjRJZzRUWGVqa19mSG1kYW5lT1Q0aXJnZG5CUGI1N1doX1h2ZjRsMm5JbzlOWl9yZXBhdVg0VWJmUWRqOG9jWU5ySnM0Z2hIUWtZb0hPSjJZSmJkUUVJNEt2a3BmTGJGeHY3RDd6S2hDZ2xDcndRcmdi?oc=5",
+      "t": "수입 물가 전년 대비 19% 상승…반도체값 급등에 수출 물가는 49%↑",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0p5QkF5M0k0MzhEZ05laFF4WmN5YXVaY01pWWxzVnhTTkNpMG9uX3R0T2RaY2ZiMllPWDZIcXEzYnRRNmQ2VkhncXhRbzJ1QlktMks1V3liY2VyeDVIbk5vRHpLMU1odnZCYVB4Vl9mMy03OFhpa3ppSE94R2JTdF93UzZORmI0NkgzTjFB?oc=5",
       "s": "조선일보",
-      "d": "2026-08-12T22:33:00+00:00"
+      "d": "2026-08-13T21:05:54+00:00"
     },
     {
-      "t": "[팀장칼럼] 반도체 메가특구의 시간 싸움",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNzlucHdwTHdDNkJwTDMxd1JsVFIya1kxWWxTcktlUG9zVHhtVHFSR1o5M3cyUlpHT3RuVU5MVm5nM1JkaDNTaDJsYUdKME5JcUJYcVdPTFdleFFBZ2lkak5ob0fSAWpBVV95cUxNM3ljb1F1Rk9wLUJlMlRRYUx2SlIwWHVxMWFTYUtselFoWEFXZHRYeU16M09kaHB1eG5QcGZVV241VUdhSHdyNDg4U2ZvdGNmaVFXUGFUeHhQWkVTQjRuLS1QWW43TXNfQk53?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-12T22:31:30+00:00"
+      "t": "[코스피·코스닥 전 거래일(13일) 주요공시]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUkh5SmdpZnlBcXM1c3RubVhhaGpKMXlLdkQ0bWJQVXdlQWRHdkZWdHB3aEk4WC1Db0VoQ1E2TnN2c0NiWlk2TlVZcGpUbExUYzJ1SXl2OFpieXfSAWBBVV95cUxPcWRMZUktNVFsTjVfVHdNOEswUlozcGM1Ry1wbzdTbnNCRUhrYWlLSFg3bEhyZkdTck95YXg2c1lyQ2N2SGJCVVpndkNhelI0MFhNZHNYTUJiVmZ5anFYcVc?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-13T21:05:00+00:00"
+    },
+    {
+      "t": "7월 수출물가 1%↑…환율 내렸지만 반도체 가격 상승",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01dDRfSnlGY0RfbFBOTm1Tb2NMUXNUNWZhdmtyVUJqQnpGRGk0aUc4UzRsU1dnLV9Jd2lyYVBTOGY4TXNQT2hvaDA0VlNqM2JlZzJuekRaVHVyV1E?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-13T21:02:40+00:00"
+    },
+    {
+      "t": "환율·유가 하락에 7월 수입물가 전월비 1.0%↓…낙폭 축소",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NUt1aVlGekZOWkd5NnREQnEwc3Z3UGlUZEpWV1ltbm1ILUxoNUVrZVRzZmppU19SdW0ybHJlVkFaRjkwb1VOcnFMdHFGSUctSXh1WFpmMU5vVG1JcTBzOXgzNkxfVlpVS1pHMWFDakY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-13T21:00:11+00:00"
+    },
+    {
+      "t": "7월 수출물가 1% 상승…반도체 가격 강세 영향",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LN01qdGtGVU95dmsxSGFkXzBlUm5LNFpaU0lTNmtwREtYOWZkRnhiUVIzYlltZFZWWnlUX1N1M2pTdmlOVVhqMXdVZ0Q5cFl6V2pFdURBeXpDeE11NDdLVlNLNFU?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-08-13T21:00:01+00:00"
+    },
+    {
+      "t": "7월 수입물가 전월比 1% 내려… 환율·유가 동시 하락 영향 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObkdnVEdndzZrNnhibDk1MEpoZE54TzYtLW92N2RzbWRyQzk4a1ZiRmFaVFptc2N6U0ZvVzBlb2Y4bXAwMndWYTdkNDRlSkl0YVlfQkdxei1lQU1oRDFoMUpkLTRzOUtnOWw3ZXRnUmtqdUw0UnYzdXlRLVJYc3RDdW5ZVzZrQdIBmgFBVV95cUxQY05ocEpfV3RfTUoyNjRyQ0ExMm05alk1OHRWY0xOVk5DYmtQeFE5RWtXc1FDcVN2eG1jdFJ3dW5wbnd6dkQwQkxHeS1fMi1ybFEwTTZRT3VkZFpjZlJHd1RWYTQ0NF9zVWxIUVkwbkR6SDBCRllHMUJpLWVHRmswbGl3MVlJSEZyM1hmZ1pnQklXUU5fV0FPSUJR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-13T21:00:00+00:00"
+    },
+    {
+      "t": "유가·환율 동반 하락에···7월 수입물가 1.0%↓",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqcGV6dzhTWU55eE11ODdLRnU2UzdPMHNnMmppYTd0R0daZ0VpU0Z4S2dLMHNGZTlIclFGRGlIbGlyd3U4Rk5SdTA1MFcwbmc2WjcxVWtFTHRVS2IzSFI3Qm1la2xrMmpiRHc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-08-13T21:00:00+00:00"
+    },
+    {
+      "t": "\"반도체, 환율 하락 뚫어\"···멈췄던 수출물가 다시 상승",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbmlvNWxZZFBweENhV1BtYlpLR2l3dnZUYVdVcG96QVdZcFVlanhlQmFqZS1FMUxZQ3duSmJPNTVZRXNhOU1tazFiVzh4QWo4RjYxVTg3Zk0yUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-13T21:00:00+00:00"
     }
   ],
   "asof": {},
