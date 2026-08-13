@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-13T23:00:42+00:00",
-  "quotesAt": "2026-08-13T23:00:42+00:00",
-  "newsAt": "2026-08-13T23:00:42+00:00",
+  "fetchedAt": "2026-08-13T23:15:42+00:00",
+  "quotesAt": "2026-08-13T23:15:42+00:00",
+  "newsAt": "2026-08-13T23:15:42+00:00",
   "quotes": {
     "kospi": 6813.34,
     "spx": 7798.99,
     "nikkei": 68308.59,
     "vix": 14.63,
-    "krw": 1418.11,
-    "gold": 4411.7,
-    "wti": 81.11,
+    "krw": 1418.1,
+    "gold": 4407,
+    "wti": 81.13,
     "dxy": 99.95
   },
   "daily": {
@@ -19,16 +19,28 @@ window.LIVE_DATA = {
     "nikkei": 1.16,
     "krw": 0.12,
     "dxy": -0.06,
-    "gold": 0.06,
-    "wti": -2.59,
+    "gold": -0.04,
+    "wti": -2.57,
     "vix": 0.55
   },
   "news": [
     {
-      "t": "AI 반도체 ETF 반등 신호...\"코스피 이끌 전략산업 주목\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94U0h2R1RudnRtNjZoREVPcHhIeW5nRmR4eDFVQ1I1N2dFOGxnUE1SWXZsQjRUX2w5WTU0V2N4ME10TkdQUlB1Wi1xRzliQkk?oc=5",
+      "t": "환율·유가 하락에 7월 수입물가 두달 연속 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Saks3ODZxSWZEeXlkTTlzeWpobVBjQ3p4d1ZLVUlHN19IY3VzWjdaZGc0NGI4djQ5SHlEN0FrcU5ybC0xZjRmZ255U3RJeFhfVnhwcUxYdk56MkNvZFpWd2d1UjlXeUk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-13T23:04:00+00:00"
+    },
+    {
+      "t": "[애프터마켓 리뷰] MSCI, AI 반도체 담고 바이오·콘텐츠 뺐다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYW9ab3U5LTdyQ1VkY3BxQk9HU0o1MG5ST2pFRTFtRWswdUM2M0theVQ3Q3pEcTJJX2E4cFJyOXlSeHZQYVdGZTdNbmQyQ28?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-13T22:54:42+00:00"
+      "d": "2026-08-13T23:01:23+00:00"
+    },
+    {
+      "t": "[신윤우의 외환분석] 안전한 물가와 두꺼운 바닥…금요일은 하락장(?)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BS0dsMFV0VkRrMUQ3UnlsNTRPWFZ0UWU0M2o2Zi1vZFlBMGFITXpVeS1fUkhEQ2JWTWx2eDY0NU0tV1BBbDZDWThLX3RaZGVralVjOWR3eXpiOEl1ZjdyR2ZIVzZNcTBfMmVfSXp6TG52QQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-13T22:56:10+00:00"
     },
     {
       "t": "WSJ \"코스피, 새 상승장 진입\"…블룸버그 \"황소가 돌아왔다'",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-13T22:50:48+00:00"
     },
     {
-      "t": "트럼프, 드론·부품에 최대 100% 관세…韓 등 동맹국은 15%",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyeVpyRTNnc1Qwc3RsM0JteG4tWTBNTEJUSmVTaUQwTGRwNndYME50MGZ5YkRjRnJiVEc4QkU1bS1NZ1p6U3hoc0Y0SmxZa0RaNm16UFNqdmg4R3lLVVlsQzdlbmtzM3IxRktyT0s2Z09zcXRvTFE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-13T22:46:48+00:00"
+      "t": "백악관 “중국, 미 관세 피해 40여개국 거쳐···한국도 우회 수출로”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4walNkeXB5c05xMDNwTGJRSnpGREJDR2FCYV9INFZWQjJrb1c4cHdhMWstSnRsRXdUN3dCVHhoQXlMeHEzdEphQ1F4Yy1FZ1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-13T22:50:09+00:00"
     },
     {
-      "t": "시카고 연은 총재 \"물가 지표 개선…'황금 경로' 복귀 기대\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JWkRpOE1sbVh2UjhROEx2dmgxUTNScjJ5bEdGRzFfd1g1SjJ2Yk1nbVEyblZ2Mk9zMG14dkg2Ti1KQ1dyR190QXVYamZOajlZTU1nblRvbFhFa0lGMG8tNUlrb25jSTRoV3ItU2lmV1k0QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-13T22:45:20+00:00"
-    },
-    {
-      "t": "S&P500 사상 첫 7800선 돌파…물가·유가 ’쌍끌이 호재’에 나스닥 0.8%↑ By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1SlZfbnpBMDRiVjJTSmxmTHlTc2VDeTN1cHBHczI0d2JDLXZQeHZtUDc4UEJObi1tX19NREY1UEE2NlFXVlRPY0F3SGl3ZEVQT09jS1BmeHFHYmhjWXVnMi03UkdUdXB4dUR1clRhdWo?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-13T22:42:00+00:00"
-    },
-    {
-      "t": "삼전·하닉만 2730조…삼성·SK, 증시 시총 71% 삼켰다 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RcTNYTTAta1oyd3V1TU9ERFgtbGh6SDl5WXZnM1l0M2NqS2hEZFQxR1M1X2tkRW5RQUZudDV2OG9NbHJ5RWRFanZKa1M2YlRjS04yczdHMDljcnZWTk9VRnhFT3RPS1pKbnVkeW1lazU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-13T22:42:00+00:00"
+      "t": "美 \"中, 관세 피하려 불법 환적\"…경기 반도체 벨트도 지목",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43czJjbi1vRV9PNnd1cmlTUXlrVEd3MjZ5SWY5bVBBTGNGSlNHLUJYZTI2cUNEcGNhUGNneDdjUENqQl84RGlwUTloVW9LVHpRZDhDVUwxSFJhLW4tUXJ6aFpQNHhYdUg4OEtGLXB5T1QxUkM1?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-13T22:49:28+00:00"
     }
   ],
   "asof": {},
