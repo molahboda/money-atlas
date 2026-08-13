@@ -1,40 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-13T23:30:42+00:00",
-  "quotesAt": "2026-08-13T23:30:42+00:00",
-  "newsAt": "2026-08-13T23:30:42+00:00",
+  "fetchedAt": "2026-08-13T23:45:42+00:00",
+  "quotesAt": "2026-08-13T23:45:42+00:00",
+  "newsAt": "2026-08-13T23:45:42+00:00",
   "quotes": {
     "kospi": 6813.34,
     "spx": 7798.99,
     "nikkei": 68308.59,
     "vix": 14.63,
-    "krw": 1417.86,
-    "gold": 4413,
-    "wti": 81.21,
+    "krw": 1418.01,
+    "gold": 4416.6,
+    "wti": 81.24,
     "dxy": 99.95
   },
   "daily": {
     "spx": 0.92,
     "kospi": 7.37,
     "nikkei": 1.16,
-    "krw": 0.1,
+    "krw": 0.11,
     "dxy": -0.06,
-    "gold": 0.09,
-    "wti": -2.47,
+    "gold": 0.17,
+    "wti": -2.44,
     "vix": 0.55
   },
   "news": [
     {
-      "t": "[AI MY 증시전망] 코스피, 美 PPI 안도·반도체 강세에 상승 전망",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGM0RORUl0UktmdWlILVl6UVVUVW1zbnMyM0t0ZElKXzNUS21LSGM0bjhGVTdPYnF5UTEtSlFtajdVYkI2eGoxODljMHRtb3ZwRG9jM1ZkdUdFV2Rl?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-13T23:23:00+00:00"
+      "t": "‘외국인 연속 순매수’ 코스피…9000 회복 위한 조건은?",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZnQ0LVpoN0dTOVVKVWkybTg0c0FadDdHeHlZWUpieDA0QXFKbkg0V3ZCMTlEYWM2SHdCdnJqN3lyc3A3TDlBNUJ3VE9hUTdnZmZESmNPZVYyZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-13T23:38:44+00:00"
+    },
+    {
+      "t": "트럼프, 中겨냥 드론·핵심부품에 최대 100% 관세…한국은 15% 적용",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeXZlLVZIVkhZOGJucG11aDhINVRxY0d1LVNMeXJ3YnNOYk1BWHM3N2VRXy1mM0t4NDJfTU5IcjRHdTdnTFBzUjloMGtBdVhoUGZFVlUtU0V2Rnhs?oc=5",
+      "s": "티제이비",
+      "d": "2026-08-13T23:28:56+00:00"
+    },
+    {
+      "t": "[기업이슈] 모건스탠리도 삼성전기 선택…반도체 훈풍에 주가 상승↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEdnhYM2NBczRJQnI3aFYwTmM4N2swZUFabjlrU3Y1dVdHejVVVU1aZ1owYVJFTXlBdWo5VUNvUmhJejFXd2w4S3JkQkFoV2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-13T23:28:13+00:00"
     },
     {
       "t": "국채선물, 우호적인 PPI·유가 하락에 상승…10년물 33틱↑",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TbHl2YTJRUy11YWdHWEVWWWpUaFJzdVdsREROUWF5dHNzdzBYTzRmcGxRcDNLcmtCaHNzSDVqWU9lbzd5N2lycmF2eEc3WFUwd0MxcWtNbGhFbzE3ZTBVQVo2OVVOSHZ5SENHakN2a0c?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-13T23:19:56+00:00"
+    },
+    {
+      "t": "美 부통령 \"이란 분쟁에서 최우선 목표는 유가\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PZWRGTTlpRWJMd2ZVUkRhUzlsV2tIbEJqNHU2cGhOR09WSzZaTVdLblBIMnNSeE9lSndsaUcxVExuQnRISTYwNlJnTlJXZHJ3TV9YVWNQeGxUaWZ3Y08yV0pIRi1Wa0VGaWdKcl9yS3JEdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-13T23:17:02+00:00"
     },
     {
       "t": "7월 수출물가 반도체 타고 반등…수입물가는 두 달 연속↓",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Saks3ODZxSWZEeXlkTTlzeWpobVBjQ3p4d1ZLVUlHN19IY3VzWjdaZGc0NGI4djQ5SHlEN0FrcU5ybC0xZjRmZ255U3RJeFhfVnhwcUxYdk56MkNvZFpWd2d1UjlXeUk?oc=5",
       "s": "yonhapnewstv.co.kr",
       "d": "2026-08-13T23:04:00+00:00"
-    },
-    {
-      "t": "[애프터마켓 리뷰] MSCI, AI 반도체 담고 바이오·콘텐츠 뺐다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYW9ab3U5LTdyQ1VkY3BxQk9HU0o1MG5ST2pFRTFtRWswdUM2M0theVQ3Q3pEcTJJX2E4cFJyOXlSeHZQYVdGZTdNbmQyQ28?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-13T23:01:23+00:00"
-    },
-    {
-      "t": "[신윤우의 외환분석] 안전한 물가와 두꺼운 바닥…금요일은 하락장(?)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BS0dsMFV0VkRrMUQ3UnlsNTRPWFZ0UWU0M2o2Zi1vZFlBMGFITXpVeS1fUkhEQ2JWTWx2eDY0NU0tV1BBbDZDWThLX3RaZGVralVjOWR3eXpiOEl1ZjdyR2ZIVzZNcTBfMmVfSXp6TG52QQ?oc=5",
-      "s": "kbthink.com",
-      "d": "2026-08-13T22:56:10+00:00"
-    },
-    {
-      "t": "美, 드론·부품 최대 100% 관세 부과·한국은 15%…\"中 견제 목적\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vV1E5UFpnWFJyd0E0QnVZVmZ2TU0wRmtIcFNlZDlFR2F5dEE0TUMxZ2hmZHdLajN4ZUJxSk52YWRZOXExSkxWdV9DWGxoSmlMWVE5OHJ0N1VPbE9lRTVUcUlKOVRKSHhO0gFuQVVfeXFMUE5PdXA5SHQxUVdLMmcyOUh0NHpPR1lfZWRCd0FQQVlpd1JlZzJ0Y0N6ak1oLVpIR2FPWHB4eU1tY2hEdWhxaTdyY2U2Y1ZjeWY3NTMxTEdKUE8zSkNFalI5elFDUVd5QTkxYWxLUmc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-13T22:56:10+00:00"
     }
   ],
   "asof": {},
