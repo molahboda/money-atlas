@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-14T00:30:42+00:00",
-  "quotesAt": "2026-08-14T00:30:42+00:00",
-  "newsAt": "2026-08-14T00:30:42+00:00",
+  "fetchedAt": "2026-08-14T00:45:42+00:00",
+  "quotesAt": "2026-08-14T00:45:42+00:00",
+  "newsAt": "2026-08-14T00:45:42+00:00",
   "quotes": {
-    "kospi": 6998.09,
+    "kospi": 6945.46,
     "spx": 7798.99,
-    "nikkei": 69273.42,
+    "nikkei": 69497.94,
     "vix": 14.63,
-    "krw": 1417.11,
-    "gold": 4404.5,
-    "wti": 81.25,
-    "dxy": 99.9
+    "krw": 1416.71,
+    "gold": 4402.3,
+    "wti": 81.23,
+    "dxy": 99.89
   },
   "daily": {
     "spx": 0.92,
-    "kospi": 6.37,
-    "nikkei": 1.41,
-    "krw": 0.05,
-    "dxy": -0.11,
-    "gold": -0.1,
-    "wti": -2.43,
+    "kospi": 5.57,
+    "nikkei": 1.74,
+    "krw": 0.02,
+    "dxy": -0.12,
+    "gold": -0.15,
+    "wti": -2.45,
     "vix": 0.55
   },
   "news": [
     {
-      "t": "[개장시황] 코스피, 美 반도체 훈풍에 2%대 강세…7000선 등락",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjTGdmQ0cxMFQyU193S3RieE90MkUxZ0pobmp3a19QNXFzdXNEaHhSeWdwZ1pyZmZwSlBvVzh2ci1jNEpyckFsQWh6NDNTS0RSRDhYQXRuSVZPLWpz?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-14T00:25:00+00:00"
+      "t": "'삼전닉스 올인' 불안했다면 이게 딱…'롤러코스피'에 출시 줄잇는 채권혼합 ETF",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBocmZVSXR5MUZjczlTT1JKczF4N1RqNHROQk9qQXlQQUdqdkp6OWVsQ2ttaW9nLUlndHRBVFVIYnlCY3hoWnkyblFTcUJhbkxOTFAtMHlLV3RTRG95XzlRWA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-14T00:39:25+00:00"
+    },
+    {
+      "t": "[포토] 코스피, '7천 돌파'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TeEdSdWFZN2JGQ25UODZZZU5MeGZSSkIzMVlYWG8xYldCM2twSzVZODVBRzB0cWNEeFFZT3V2VXlVYnhOUkx3dm1IV0VKNzMzeFRocHZmaWlEdlAzUnFqaA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-14T00:34:44+00:00"
+    },
+    {
+      "t": "원·달러 환율, 3원 내린 1416.4원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcm54QVFadVJUbTdqWGFKZjhFRGJzWU5sYWFtR1hlLWZTaHZId0xyMVFxR2gxU1BvTlF4SDJKUzVOaGMxaERTTm1lQlNEMVI2SFlqc0wyRTVhZnQyNU9Cd2Y5aHRIVkNrbGR2LWhteGFVc2U3LWZ4aktqNlhJU2ZoMjEyS3U3Z9IBmgFBVV95cUxOQkwyR0pqWmxYc3hST2JRSVZnWVFXX28yY0Q4c0ZaRFlrclhIREh1Sm8yNnV2d1c1QnV4SkVNZ2JRaDFacGFYa2FQYmFsS1lkVnhYVjR6N3BYbm5xLWxmRy01eVZDSC1SeHlvV1Vma0N0QjUtZ0ZwZU1ra2dHbG51Q3g5TjdZNTZFODhoV09TX0VKUDgtVmV4YS1R?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-14T00:31:00+00:00"
+    },
+    {
+      "t": "[속보] 코스피, 2%대 상승 출발하며 개장 직후 7천 회복‥SK하이닉스 5% 급등",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOC1iRjg4UEszNF9fQ0hZYUpZVFN1ZEsyZlpoYjk4clhLMGVERzFtY3NUSThTMFpqN1ZhTTJobkg0VURhckpORjU3RVJ4VWRHdlVOM19vSTR2TEJYdFhNNkk3QklQMEVuRXZZX0k2ZDBycWdU0gF0QVVfeXFMTWc5TEdWNFUzczl5NHAyQ2Jid196QlprRkpFRENtX0hOd2FrMzBCUWg0Q1RVckc3Wi1BS1hnYnplUGlBY0h3Ykw0SE14c21QRmxmSVJsZl83V3N5ZEJLZDRoOUwydUgxQ3h2QlJERUs3UGJaOHc?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-14T00:29:24+00:00"
+    },
+    {
+      "t": "코스피, 반도체주 강세에 2%대 상승…장 초반 7000선 터치",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jUW1ydGV5SHZxYUZEUl9PdUo4NFh1YjYtOHdvbmRNTklxU3J3dFlYOGJPR1Zjams0aTFLd3k5eEpEaXhXQXBsQVdUT0Z4dTMxR3pXOXRfbjY1S2FRUWdSb1lDN3pUSk5S?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-08-14T00:27:35+00:00"
     },
     {
       "t": "코스피, 外人 순매수에 상승 출발…장중 7천피 회복(종합)",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-14T00:18:00+00:00"
     },
     {
+      "t": "코스피, 반도체 강세에 2%대 상승 출발",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOQlFVeHFJU201bjNCWXdyQThPZDZGZ3BRNUxFbzB0NVJSUG1YVEtUVnJtcTNRc0w3a1ptYlRWVVZvQUlzcWJDSW9VcGRSSGl3Z2FoMGpjODBEN1g1eEFmd1oxZ2s?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-14T00:15:17+00:00"
+    },
+    {
       "t": "코스피, 개장 후 ‘7000피’ 회복… 美 증시 훈풍·연준 긴축 완화 기대 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDJMQnBUMGM2akE2UEY0cktrYkNDdkZTXzgxY0pRbERQV3FaUHNLanhQSGlPVEZoSFB5MUZuWEp2YzFrbXRDem10c1ZjUm4wU0JMMkotckI4RTU5QzhITUZLbDdmLUh5cDNNOV8wMFFPbDkySEpMLVVUcnJOVkU1VkJLYUVwR1k20gGcAUFVX3lxTE5UVEpXRkFPUjlXbktoMVVHTkZKc3huS3dZbFZCVjh4aDFlMDBzY1JoUnF6blE4SDJvXzU5ZzhkaTc4STk2amRZdnlaU3puSHhkX1dKcm9jU1NaXzdOeWVzaGVVakxkQXVXcjExcVlYaDl1RE5aQnhpMC1FWFJxbEVtamtQNEttOUc3bnJjZzRNeHNjQ2tNaDExY2k1SA?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-14T00:15:00+00:00"
-    },
-    {
-      "t": "日 증시, 美 PPI 안도에 1%대 상승 출발…69,400선",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93eWxBQlJqS2hxSFJzRmxJRlpLbGNvdThKc2V5a0FyRjd0ZGp0TmVpY0Mxb0IySVdJR3V0X1lsWlNsTHlXTXhwR3NnV2RzMkVVbkZMTWtTWVAyeTFzakh3N1ltS0g2VVJKR2F1MGVGQ192UQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-14T00:13:41+00:00"
-    },
-    {
-      "t": "美 도매물가 둔화…소비자물가 상승세도 더 낮아지나",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3F0WjZKdmVxcnc5eVlKSEx1bHczMUdWVFNXZTZWajVvUEw4UWFqQW9Dc3h0d2ljLU91c3BsNEdMZ3VJU19HSU5nS00tU2Nnd0NhaVhHaUV4aTc4R3hvNHhzTXJMdC1TT3lIdExBVWYwWk16ME9lYVk3NlVCTGhuczRHd3RPMmEy?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-14T00:09:00+00:00"
-    },
-    {
-      "t": "트럼프, 드론에 최대 100% 관세 폭탄…한국산은 15%",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iZExyOGk3UUVkZzJQZ3YyRVhwN0dndTJkQk9yQVZQT2I2WVRsNHVKcWtMMDFUQUVRc2QtVGFuN0F0OWdndW12aWNHQ3BmdEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-14T00:08:42+00:00"
-    },
-    {
-      "t": "코스피, 2%대 상승 출발…장중 '7천피' 회복",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMkZkY1VYb044LXNTX1ZQZXFvcDlXOXVFSVdLODExZXpKZlpxTFozRklEQmVxbVBBbFVuMzk3NjFjZTY4RzYzTXpWRkp2c2FMSWYyQUhnRlJPd3PSAWBBVV95cUxNUjVnOGliRlJzakZSRlI4U0xteWRCYmNaSUM1b3lLS3lEN2NRYUd0MS1jLVgwcjY3WVN2d05lUkVMQnRJcWUtTHU2VEY4N1dRdGpVYllmYUJWOHJtbkFPY04?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-14T00:07:48+00:00"
-    },
-    {
-      "t": "[속보] 코스피 2%대 상승…7,000선 턱밑 출발",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15ZWlPOExUS2NRLUVybFQtZ3lwWmN2VVVMQWNKa0hOOXJhc1hmcUxMemRuTWlXNTlZMUVqQ0duNi1aOWNYbzd5MmlJRmpMSUp2OUdLNF9mcm9PSkpWTFpZMkMyTDJqd2c?oc=5",
-      "s": "yonhapnewstv.co.kr",
-      "d": "2026-08-14T00:06:00+00:00"
     }
   ],
   "asof": {},
