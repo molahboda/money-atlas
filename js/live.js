@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-14T10:15:42+00:00",
-  "quotesAt": "2026-08-14T10:15:42+00:00",
-  "newsAt": "2026-08-14T10:15:42+00:00",
+  "fetchedAt": "2026-08-14T10:30:42+00:00",
+  "quotesAt": "2026-08-14T10:30:42+00:00",
+  "newsAt": "2026-08-14T10:30:42+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7798.99,
     "nikkei": 68713.8,
-    "vix": 14.57,
-    "krw": 1412,
-    "gold": 4413.2,
-    "wti": 81.96,
-    "dxy": 99.73
+    "vix": 14.56,
+    "krw": 1412.47,
+    "gold": 4409.5,
+    "wti": 81.74,
+    "dxy": 99.72
   },
   "daily": {
     "spx": 0.92,
     "kospi": 6.06,
     "nikkei": 0.59,
-    "krw": -0.31,
+    "krw": -0.28,
     "dxy": -0.24,
-    "gold": 1.14,
-    "wti": 0.87,
-    "vix": -0.41
+    "gold": 1.05,
+    "wti": 0.6,
+    "vix": -0.48
   },
   "news": [
+    {
+      "t": "[이슈체크] \"들어갈까, 말까?\"…외국인 사자, 코스피 이번 주 내내 상승, ‘셀 코리아’ 끝났나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mWkIzdlhhYkZON2dMTEFDYTQxeTV6S0F2RnJKREQxb0pBR0JaMlU5MDhrc2hwcUVPNmxuSGs2TmE0VjV2aDJGMl9mdGVLWEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-14T10:19:14+00:00"
+    },
+    {
+      "t": "삼성전자, 반도체 호황에 대미·대중 수출 모두 급증",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiMFA5TDI1ZjlUVHdOUTFmQUlZTENGSlAyT0xWVDByZzNmQ2FWUWQ0YTlRd1A3RjNSSF9HOVdRLXN2eFpoZGVPMTBlT1F5QWN4b2g4YkFvSmxZRk0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-14T09:44:00+00:00"
+    },
     {
       "t": "IRS 단기 금리 상승…8월 금통위 경계감",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xR2gyMUJwWlBPNW50czRORVFLLUhGazQ0OXpJb2dXZjBLb1RtX1ktUmFpWEdhV2JZYzZQd0w2VGZSczNzVnNScmFkYzhCVmtXWWNWLXFLQ24tSl9mNThfSzJBMk83UEZmTUZMNndhR3fSAXRBVV95cUxNQnhKVnhmQk9xVTgzcmx3R1dwaDYyODQtNjdBaDR0NzBwVldFbzU5NzZ1U2tRZWhkOGNkbU13T2hRNElKb2ZHQ2dWYzB3SWRoekJJUUtBaTY3c05oLWk2WW5TeG5Lc3ZCbGFNZGZRR3VtYnJCMQ?oc=5",
@@ -35,6 +47,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1S2xaNmREMHVhRmRMNjd2WWlmMEZDY3IwMWpaWXB1V0Z4T253UG80eGktdmVjaG9NQ1JmUzlhR01OVDgzTGJ4aHFoRnh2cDdjenpZSkJTWDFEMkU?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-14T09:34:06+00:00"
+    },
+    {
+      "t": "[영상·AI뉴스] 트럼프, 드론·부품에 최대 100% 관세-Xinhua",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15TFVMa3V2ajIteUY4UnRNdnQta0w1TmJMZ3M1TklxYkFES0Ewc0FScVdhc3lqWmlsS09lbnRsbzl3V0FrUldycmZYY0xUdTBVRDZTdklQd3I5eTViQjZnZUpKRTVXUjFLNGZaeFlPRVFUaFRqakE?oc=5",
+      "s": "신화망",
+      "d": "2026-08-14T09:33:15+00:00"
+    },
+    {
+      "t": "[마켓펄스] “살아난 반도체 투자심리”...외인 매수에 코스피 6900선 돌파",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NY1pvSWw4WlF0ME94NXBGcWF4Vy1abzlJcWFHbW50eWJhbkFzSW1pYW90MEgyd1JCcUxZaUdtX29tTnYydTQzLUNpUzdxc0szcFhMcW40VG9kR3VMTDFoNUdkZkVNeThmM0NzQi1aSdIBb0FVX3lxTE1NY1pvSWw4WlF0ME94NXBGcWF4Vy1abzlJcWFHbW50eWJhbkFzSW1pYW90MEgyd1JCcUxZaUdtX29tTnYydTQzLUNpUzdxc0szcFhMcW40VG9kR3VMTDFoNUdkZkVNeThmM0NzQi1aSQ?oc=5",
+      "s": "투데이신문",
+      "d": "2026-08-14T09:24:18+00:00"
     },
     {
       "t": "시총 3위 SK스퀘어 'AI·반도체 투자회사'로 변신",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZko5NW5KT3NhbkZId0VLaHhiSzV4WGFfVDQ5dml3ajlyWGVJYnVkNXl0akdXQ1VUMjlUczJoT0Y1aG9YOXE5blJENWRzOWp1NG45anFEU3JJUzJsN1E?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-14T09:03:28+00:00"
-    },
-    {
-      "t": "‘셀 코리아’ 끝났나…외국인 나흘 연속 순매수, 코스피 장중 7천선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xaE85QS1WUmdSNnR6dzc0eURDdmFueTZOODFzV0NkM19qWE9LTF9SVDkzd2JFVVpvZG1CaDNiMnFQeUNobzlXWTB0RC1LUFVLazJGSjdubmEzT1ZZSmd5UGNKanJiQkU?oc=5",
-      "s": "hani.co.kr",
-      "d": "2026-08-14T09:03:00+00:00"
-    },
-    {
-      "t": "UBS, USD/CAD 목표치 1.425 제시…금리 차이 전망 반영",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jYWZibnVpRHdieEM1ZGJ6QWJqbGtrY0tvbkdSQVowR0pSREY4TUpzRFpzYjhIRUF6SXp4QUdySy1sU29ZVkttb25OQjROaFlLeE9Ua252TnI0NFJmX05paGdTRWRnWWxvTHhoRTVn?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-14T08:50:00+00:00"
-    },
-    {
-      "t": "티어포, 일본 JST 차세대 엣지 AI 반도체 R&D 참여…자율주행 AI 칩 설계 오픈소스화",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SlZfTTlJTGJpV1VfU3RQbTNEU3NQem45UDJQbmJkYlIweU9jcUVvczRGajJJakMwdWN4LVBLb0lqcUJCN0N0aTVwM0QxTllrd09aYlkwem5LOVJXUmNkNTE4RzV0UVE?oc=5",
-      "s": "인공지능신문",
-      "d": "2026-08-14T08:46:41+00:00"
-    },
-    {
-      "t": "[도쿄증시-마감] 美훈풍·반도체주 강세에 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVENma21yV2JTY2lWTHluLUFOcDRjaTFfQllyWmsxYWdWNWFyWDhGX09mRmxjTF9KY1lDT19PY0FqNDFtZWlITHVVcWZUTVF5OGxvZWlaemJscmRUU19EaUoybzdDbjZ3cV82ZGJyMks?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-14T08:41:07+00:00"
     }
   ],
   "asof": {},
