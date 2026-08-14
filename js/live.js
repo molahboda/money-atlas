@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-14T10:00:42+00:00",
-  "quotesAt": "2026-08-14T10:00:42+00:00",
-  "newsAt": "2026-08-14T10:00:42+00:00",
+  "fetchedAt": "2026-08-14T10:15:42+00:00",
+  "quotesAt": "2026-08-14T10:15:42+00:00",
+  "newsAt": "2026-08-14T10:15:42+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7798.99,
     "nikkei": 68713.8,
     "vix": 14.57,
-    "krw": 1412.3,
-    "gold": 4409.6,
-    "wti": 82.34,
+    "krw": 1412,
+    "gold": 4413.2,
+    "wti": 81.96,
     "dxy": 99.73
   },
   "daily": {
     "spx": 0.92,
     "kospi": 6.06,
     "nikkei": 0.59,
-    "krw": -0.29,
-    "dxy": -0.23,
-    "gold": 1.05,
-    "wti": 1.34,
+    "krw": -0.31,
+    "dxy": -0.24,
+    "gold": 1.14,
+    "wti": 0.87,
     "vix": -0.41
   },
   "news": [
@@ -37,10 +37,10 @@ window.LIVE_DATA = {
       "d": "2026-08-14T09:34:06+00:00"
     },
     {
-      "t": "[단독] \"대미투자 빨리 안하면 韓 관세인상\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ea0tBZHhfNVFjMWJJN3Z5aTdYYm1TS2NGTElqYkktYnNXQlRaaHhhcDNmQnZWUU5VQzhyQ1U3NG5aM0pha3BweVV6MWhGaHBOZEdDX0gzMzB4QQ?oc=5",
+      "t": "시총 3위 SK스퀘어 'AI·반도체 투자회사'로 변신",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXYXFKUGFyNmtOU2NPbnZTSjE0N1BBMEFISzhlSklFRm9kOElqN09LYkduZEFHLWs3UWRGWWh5bF9LbVg5d2xOc3NoRWhGcjh3N2JaSEpiQ2Jqdw?oc=5",
       "s": "한국경제",
-      "d": "2026-08-14T09:13:48+00:00"
+      "d": "2026-08-14T09:12:00+00:00"
     },
     {
       "t": "15일 만에 코스피 장중 7,000 탈환...외국인 3조 순매수",
