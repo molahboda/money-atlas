@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-14T09:30:49+00:00",
-  "quotesAt": "2026-08-14T09:30:49+00:00",
-  "newsAt": "2026-08-14T09:30:49+00:00",
+  "fetchedAt": "2026-08-14T09:45:42+00:00",
+  "quotesAt": "2026-08-14T09:45:42+00:00",
+  "newsAt": "2026-08-14T09:45:42+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7798.99,
     "nikkei": 68713.8,
-    "vix": 14.55,
-    "krw": 1412.16,
-    "gold": 4407.1,
-    "wti": 82.31,
-    "dxy": 99.73
+    "vix": 14.59,
+    "krw": 1412.05,
+    "gold": 4409.6,
+    "wti": 82.24,
+    "dxy": 99.75
   },
   "daily": {
     "spx": 0.92,
     "kospi": 6.06,
     "nikkei": 0.59,
-    "krw": -0.3,
-    "dxy": -0.23,
-    "gold": 1,
-    "wti": 1.3,
-    "vix": -0.55
+    "krw": -0.31,
+    "dxy": -0.21,
+    "gold": 1.05,
+    "wti": 1.22,
+    "vix": -0.27
   },
   "news": [
     {
-      "t": "[환율 전망] 물가 둔화와 위험선호, 환율도 하방 압력 지속",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiNk03QWQ1X2tCNGFEa3pDaUJPUmN1dnptR3B6NHA0VFl6TmNRVVJCd1FoV0F4VVE5dlU0WGhmRnpuUXpIWm5zSjZZQ3pPWGtmWG1ySktLTUFOZW5PLWdnNQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-14T01:19:24+00:00"
-    },
-    {
-      "t": "美 부통령 \"이란 분쟁에서 최우선 목표는 유가\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04cndGRXgycGFyQVNYTXJsV2NaRUxmU1EwR2xkYkVvZjhLUUw1T1RKaGdUaTZQczU1dXZJV2huejA0WFJ0VEhSN2dWNTFvLXl3SUhSXzVsUnRONU1fTDN6M0oxWVJBWG93UGE5dTdTYk0?oc=5",
+      "t": "IRS 단기 금리 상승…8월 금통위 경계감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xR2gyMUJwWlBPNW50czRORVFLLUhGazQ0OXpJb2dXZjBLb1RtX1ktUmFpWEdhV2JZYzZQd0w2VGZSczNzVnNScmFkYzhCVmtXWWNWLXFLQ24tSl9mNThfSzJBMk83UEZmTUZMNndhR3fSAXRBVV95cUxNQnhKVnhmQk9xVTgzcmx3R1dwaDYyODQtNjdBaDR0NzBwVldFbzU5NzZ1U2tRZWhkOGNkbU13T2hRNElKb2ZHQ2dWYzB3SWRoekJJUUtBaTY3c05oLWk2WW5TeG5Lc3ZCbGFNZGZRR3VtYnJCMQ?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-14T01:17:02+00:00"
+      "d": "2026-08-14T09:38:19+00:00"
     },
     {
-      "t": "호주 총리, 트럼프와 통화…오커스 안보 동맹·관세 문제 논의",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBndDgxeUdEMzQxUjdCZk9HaXRoZVJSbUc5WVlSSVZnWU05THJQMGJwQVNPRmxvUHN0UjVMYkZXMmlxaVliNC1QOEsyTkR3RXMwWk51b2FIbVdFY1nSAWBBVV95cUxNcnY0RlVHSnNTRUw4a2RtZVhLZ2Y3NFo5RFY2Y3dZam5XVlhfeDNxWGdkci1ZamtlMGYzRlB6UlkwV3FIZmlZVWotNjMyR0dkUjk1VDJrVXlndDVOSVZfUGI?oc=5",
+      "t": "삼성전자, 반도체 호황에 미중 수출 급증…중국 88조원",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1S2xaNmREMHVhRmRMNjd2WWlmMEZDY3IwMWpaWXB1V0Z4T253UG80eGktdmVjaG9NQ1JmUzlhR01OVDgzTGJ4aHFoRnh2cDdjenpZSkJTWDFEMkXSAWBBVV95cUxOXzcwcVMtSk5aX1JFdmdSa0FKV0VUdHRzS18wVkFRS1dpUVh4QUN2ak5vNl9sMWdyVEFMaHhXVU1kRTBRWGZMUE94OGtLNDlnMW9sN2hoRmlBMmI0RVJjd2Y?oc=5",
       "s": "연합뉴스",
-      "d": "2026-08-14T01:15:29+00:00"
+      "d": "2026-08-14T09:34:06+00:00"
     },
     {
-      "t": "코스피, 2%대 상승 출발…장중 7,000선 회복",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RN2lzN2xEUC01aGlDQWMzVmpIa3lvbGUxNzhHMnhoNzV6eHVtVTR2MXNHZko4WE1VVVhza3VKX015UF9CYmVPbm1ienB0bVIzSmtNSlpOX21RWkd3TjFMT0tOX0JGTE1taFpsd0JnVUJLeGpt?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-08-14T01:12:34+00:00"
+      "t": "[영상·AI뉴스] 트럼프, 드론·부품에 최대 100% 관세-Xinhua",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15TFVMa3V2ajIteUY4UnRNdnQta0w1TmJMZ3M1TklxYkFES0Ewc0FScVdhc3lqWmlsS09lbnRsbzl3V0FrUldycmZYY0xUdTBVRDZTdklQd3I5eTViQjZnZUpKRTVXUjFLNGZaeFlPRVFUaFRqakE?oc=5",
+      "s": "신화망",
+      "d": "2026-08-14T09:33:15+00:00"
     },
     {
-      "t": "[ICYMI] 5%대 금리를 30년이나…이자 부담에 흔들리는 '슈퍼파워' 미국",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE94YmJKUUZ3QVAtZG5jNzM4b245U3pXNTZHTGtLZE1NZElqQ0NWX0F4QVdJbS1sQTRiYWx1YV9NYVA5azdBNHpGajhRUGo1d0hyX2w0Wl8xTEt1NDQ5eHFrM09uWTNUel9HT3JBWTRRWUtrdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-14T01:12:26+00:00"
+      "t": "[단독] \"대미투자 빨리 안하면 韓 관세인상\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ea0tBZHhfNVFjMWJJN3Z5aTdYYm1TS2NGTElqYkktYnNXQlRaaHhhcDNmQnZWUU5VQzhyQ1U3NG5aM0pha3BweVV6MWhGaHBOZEdDX0gzMzB4QQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-14T09:13:48+00:00"
     },
     {
-      "t": "정부 \"경기회복 흐름 강화…물가·고용 민생부담은 지속\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5odW05NFNwajBBenRTTVhQbDBVTFdkR3h5M2lidFhxZG5qOVBodGowNWRhdEQtejh2dHpUTVNZQ05HQ2daTVgxaml6RkVPQmM?oc=5",
+      "t": "15일 만에 코스피 장중 7,000 탈환...외국인 3조 순매수",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mNTJ1Q2JPMlhhU21KV2J0UnFqZHM1QXdIeEpLcXNQVW55VjdMSjRRaURkZ1o5cmExTHNrZWl5aFJGRFl4MkhFVHBENVAyRUowcmhWci1Mb0V0OHdmS0E?oc=5",
+      "s": "YTN",
+      "d": "2026-08-14T09:11:00+00:00"
+    },
+    {
+      "t": "삼성전기 반도체 패키지기판 가동률 89%…전년대비 19%P↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nY0ZyZUFIZERuU2FxSFFVaDM2N05UTk5aTmZaMGxiVF9HT29RVzNBRXhpYmtENllhOVZGVFlxRENlM1Vmd2Rid3hUQVZiT28?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-14T01:12:02+00:00"
+      "d": "2026-08-14T09:04:51+00:00"
     },
     {
-      "t": "[개장] 뉴욕증시, 생산자물가 둔화에 S&P 최고치..샌디스크 13%↑ By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oZXhvTUQ1X0NPVHdnT3gtRFpPb0Y1QTJFVUxCRWNvd3FlN21IZGJFZzUwNHRJR0NWQ3VOWFdOR3pCSThWa1I0YkZoV0p2QTFqalpvR2JMMklQcWlMckdaRGxoekVjdmhXdmF5OVltTEI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-14T01:12:00+00:00"
+      "t": "美 한국산 드론 15% 관세, 우대세율 적용?…정부 “세부 기준 협의”",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95dXpkeXV0SElPNWNwRkJ0QWItRjJqZGhWTkF3MkZWdEw3WWdPN1VVQ3RveUJOaWRhVDhucVNxUnVUVFlUdkpsUUFENU9rMEJiTE1qMkFmWVBiaHlWZmtaem5R?oc=5",
+      "s": "ekn.kr",
+      "d": "2026-08-14T09:03:28+00:00"
     },
     {
-      "t": "정부 “경기 회복 흐름 강화…물가 압력·어려운 고용여건은 지속”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kMmdpcW13UTdfV0x6Y0RhTDc0dUdUQ1V6TGp0TC04cVh1OTBDUDJkV3VXS2VBNUViZnZjaWRjZ3hHM2wwYWN4ZlhIa1RaLVdETHhleFVtbUpkb2s?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-14T01:08:00+00:00"
+      "t": "‘셀 코리아’ 끝났나…외국인 나흘 연속 순매수, 코스피 장중 7천선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xaE85QS1WUmdSNnR6dzc0eURDdmFueTZOODFzV0NkM19qWE9LTF9SVDkzd2JFVVpvZG1CaDNiMnFQeUNobzlXWTB0RC1LUFVLazJGSjdubmEzT1ZZSmd5UGNKanJiQkU?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-14T09:03:00+00:00"
     },
     {
-      "t": "\"AI·반도체 중심으로 체질 개선\"…대기업 계열사 3개월 새 4곳 감소",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBa0gzNV9zTGdtMURtUmItaWsycGtxWWZlNU1HYmg2dXgtVF9xcHl3ZTg4cnZCeU1SSlQ1eGFHVkpKMVQ3TkI2VkNDaGgtdWJVNXI0dG9n?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-14T01:00:21+00:00"
+      "t": "티어포, 일본 JST 차세대 엣지 AI 반도체 R&D 참여…자율주행 AI 칩 설계 오픈소스화",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SlZfTTlJTGJpV1VfU3RQbTNEU3NQem45UDJQbmJkYlIweU9jcUVvczRGajJJakMwdWN4LVBLb0lqcUJCN0N0aTVwM0QxTllrd09aYlkwem5LOVJXUmNkNTE4RzV0UVE?oc=5",
+      "s": "인공지능신문",
+      "d": "2026-08-14T08:46:41+00:00"
     },
     {
-      "t": "장바구니 물가 잡는 '대한민국 농할상품권' 20% 할인 발행!",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTFzZ3pTak9HX09SVjFnQWpPNlRFQmlCdzNiaEljZTJ3OFZCUlRjVWhMSDJ3UVVlaHY1SnU4UFlJOGZnTjBzQzFpRHdfVlFvSzBGZG9lZ3JFUXVfWURlSTZRT3dlT1hmc0pmQ091aFl6a0YzSUJUSkl3YTlEZm1kSlNoQk1QeTBVX3Qyd3Bn?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-08-14T01:00:14+00:00"
+      "t": "[도쿄증시-마감] 美훈풍·반도체주 강세에 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVENma21yV2JTY2lWTHluLUFOcDRjaTFfQllyWmsxYWdWNWFyWDhGX09mRmxjTF9KY1lDT19PY0FqNDFtZWlITHVVcWZUTVF5OGxvZWlaemJscmRUU19EaUoybzdDbjZ3cV82ZGJyMks?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-14T08:41:07+00:00"
     }
   ],
   "asof": {},
