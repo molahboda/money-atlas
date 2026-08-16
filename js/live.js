@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T06:45:29+00:00",
-  "quotesAt": "2026-08-16T06:45:29+00:00",
-  "newsAt": "2026-08-16T06:45:29+00:00",
+  "fetchedAt": "2026-08-16T07:00:29+00:00",
+  "quotesAt": "2026-08-16T07:00:29+00:00",
+  "newsAt": "2026-08-16T07:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "'빚내서 경제성장' 日다카이치…금리가 복병[주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WMVY0N3lyTGItWVFCQ28wZk5Ca0FmZk5Scndhb01sX0RFbzl6c0VIUGQ0dWhWUWpONFNzZV82UWhDOFVGZllfeFB2b0U5d2h2aGJDMDZOLVBQc25KYUpESWxR?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-16T06:55:00+00:00"
+    },
+    {
+      "t": "파탄 이후 투자 성과도 부부 공동재산인가… SK 반도체 분할산정 쟁점 추적",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdFNUdDRhQTNscm90N2pHOVRpSW5WWlp6RDlFMGFqbkQtWmNfQnpVVGRSMk1XUWZNa3NKM2RNUWVLQkFZZjk0UjNSU09jbEQyRklmZjFfTjFuNFpoSzhtcU0yLWZleHZxSlEyc0RtYjdQQ3BtVkJn?oc=5",
+      "s": "하이뉴스",
+      "d": "2026-08-16T06:54:21+00:00"
+    },
+    {
+      "t": "김정관 산업장관 미국행…대미투자·관세 논의",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZ1BwaU14YmkxWjd1eFFFb3FDbGotNUVSaDVEbTl4dUl4WVQ5Z2pOcDRvclIwdGJTaFZzNENBNDhrR1JiWmwzLTgxSUoyNTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T06:49:53+00:00"
+    },
+    {
       "t": "삼성전자 목표가 30만부터 65만원까지…반도체 전망 ‘극과 극’",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XUTNaYzZhY001WkNLTlJ1bWxYVG5yak9VVjFoYXhOYU8wbmQzZ1o4UXRyaXBVOGhrMWNXNEtLQTVuR1MzLVNvV3BhMWhvUnUySnpZNlN3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-16T06:34:23+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HcklLSEJLYWlscEdNRDVXQW96b1d3czE2N0R3MDRaaGh1X0FkdjkzV1IzTG9uMEU5YkpUcXhYTGlsSmpUSlJzbnFaRlpBZGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T06:36:46+00:00"
     },
     {
       "t": "'여한구 직권면직' 속 김정관 장관 긴급 방미…대미투자·관세 숙제",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nejFuVW9FWEVaR2hBUnZNSjlTRUJJMzRxZnQ2UVFPN2ROaUNvMTBocy1XZUxmdXRFU0pSUFBlRUM1clRON3c3bzExTFdZYjFJQ29qV3R5d01Pd9IBX0FVX3lxTE9IcDczUDFEVlRGTjVheWRSUWFaYURpNHhjWHFQS0xzTGR1WFZLVHdYZlJOSG1yeWM3U3FPLXQ4SnlGVXdodGJCVUhvN3Nvc3kwanRCbl9ZRWNieDNTNUFv?oc=5",
       "s": "경향신문",
       "d": "2026-08-16T06:01:00+00:00"
-    },
-    {
-      "t": "김정관 산업장관 긴급 미국행…대미투자·관세 논의",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xTDJPYWVuM2tidXp0OWZnYW5kdTVnTWdvWERvcGxHS01vUURDQUxRVVJsM0tFNXZIb1JHZmd5LUJjNU1CSWROcjNualAwMm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T05:57:09+00:00"
-    },
-    {
-      "t": "콜롬비아 강진 사망 290명·부상 4000명↑…美에 \"관세 유예\" 요청",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54RTVaVjlDRUpma05FVkNETlBTUkxmQllxZ0pPLXVXSnRXN3VrZ2x4NXhmNTlWSEpPb3pkcG5DZFNNeW5xcWVjTUpVRWdCU1hRRi1ydHRCeVhzZlh30gFiQVVfeXFMTXVFVzZGMVJYM2NzMHU5d0RyRHA1TmlQRTlMT0RqTG1LTWpNRlFibFowZTF5TDRkRS1wWVdkMjhlNDdZTF82YUdkTFVJcUhyYWxsM1BJbTlSeEh2emJjUUVRbmc?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-16T05:52:09+00:00"
-    },
-    {
-      "t": "김정관 산업장관 긴급 방미…대미 투자·관세 협상 분수령",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaGJNcEhjV0h4TFJGZ3k3Z2tfeEdoMjRKU1R1TW1tUzRWMUVFajZSY1hpei1qTmg4NEx0cjNCSkFuUHROakRiOFVWNEl3ODBIZjBJMVZ6WElwQXIwMXIxcGRzYV9IOFgzQ3hRSVptbw?oc=5",
-      "s": "위키리크스한국",
-      "d": "2026-08-16T05:47:00+00:00"
     }
   ],
   "asof": {},
