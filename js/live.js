@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T17:00:29+00:00",
-  "quotesAt": "2026-08-16T17:00:29+00:00",
-  "newsAt": "2026-08-16T17:00:29+00:00",
+  "fetchedAt": "2026-08-16T17:15:29+00:00",
+  "quotesAt": "2026-08-16T17:15:29+00:00",
+  "newsAt": "2026-08-16T17:15:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -11,22 +11,34 @@ window.LIVE_DATA = {
     "krw": 1416.48,
     "gold": 4437.3,
     "wti": 82.4,
-    "dxy": 99.64
+    "dxy": 99.67
   },
   "daily": {
     "spx": 0.48,
     "kospi": 6.06,
     "nikkei": 0.59,
     "krw": 0,
-    "dxy": -0.03,
+    "dxy": 0,
     "gold": 1.3,
     "wti": 0,
     "vix": -2.6
   },
   "news": [
     {
+      "t": "통일선봉대 ‘호남 반도체 성사도, 한미연합훈련 반대 투쟁도 다 책임지자’",
+      "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZmF2eDJMcloySzgyR1lMdFJ2OVNPelhFb1BSVW1meHFsSEplVWkxYlZWejRIZWhDOGRwS0lKZkxkNFU?oc=5",
+      "s": "자주시보",
+      "d": "2026-08-16T16:52:30+00:00"
+    },
+    {
       "t": "‘301조 관세-대미 투자’ 발표 앞 협상라인 공백… 김정관 美로",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmcFotRjlPaWttelZqazd3TFRHdTM1TThDaHkwd0Y5NFItZHF2Qk5vSlJFUGE3QlVheEVSOVNmMkFtb0J1cUpxYTdFeU15dnFsbW5xYzlkcTdUVjhxeXpXTEpBeUt0MTEyQWtiTGs0ZUI0QzBfaHfSAWZBVV95cUxQUXBMMFltWjMxRjE4WXpYb3A0MUw5aG9IZnNrVlh1N1MtbnU3NTRHaVJHZTB3bVk0UWJySjRFenNVd0VnMENET2FrY1NxN2haUTJNdWozSFJVOTl0MTJMcU5yTHlIa3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-16T16:40:00+00:00"
+    },
+    {
+      "t": "주유소 평균 기름값 13주 연속 하락… 국제유가 불안은 여전",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2dlo5b0F0N0xCOFNDczE2aFkyU0hURnNhWmg0Q2VUWVJTRmNULUFGdFBjU1dnMHZiX196dnU0NklYc01qM1NzaU5QbE5aYXFsbVdYc3ZTRDlvR1lWRTMtb2M0dVdBUdIBZkFVX3lxTFA2dlo5b0F0N0xCOFNDczE2aFkyU0hURnNhWmg0Q2VUWVJTRmNULUFGdFBjU1dnMHZiX196dnU0NklYc01qM1NzaU5QbE5aYXFsbVdYc3ZTRDlvR1lWRTMtb2M0dVdBUQ?oc=5",
       "s": "동아일보",
       "d": "2026-08-16T16:40:00+00:00"
     },
@@ -68,21 +80,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "SK하이닉스(000660)",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWdnZWpHVU00RVN6ZEZWR1NSbEhoQmk5OGVBcTR5NVM1VWVPTW1feUVCUHNudTRkXzlRSTV3cjJRVTZ1eXk2eXpCenV4UUZsWWNaNlVHX21zMm5PY0N4ZWI4VF9RSE1YWHFvTUJnVUJyWEtOUGtZZGpjUERVcEZWZUlDVjN2NHRiQ1hqTzZac2lXNjVSamJF?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVc4UUxKT3VJbzdadS1YZ0Q5SEdGS1dPSmRTakhabVBJQkRzTm51b0ZUdlVFUFZOU1E2V3lqcFU1NS02djZMS3hYUms1WXFsdUNtTDlFWlppTzRpelpQenh4TXdGaVlnbEEwYXRic0pzUTU2S0JQVWJlU183THNNUDBkTUtmSWcxYlFLUGJBSzd5a2xUbXhkUw?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-16T15:42:05+00:00"
-    },
-    {
-      "t": "금리·연체율 오르는데…가계빚 첫 2000조",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HcEZ3czJEemItTkVBVHhMV0NpUTdXdDlXNlMtSkdUOTFSV2xrS1FrcHNXYl9OSXlCZWtPckd6WWJrVTlaUVhBY2RvSXIyYnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T15:07:07+00:00"
-    },
-    {
-      "t": "美 압박 와중에 통상사령탑 한밤중 경질… 산업장관 긴급 방미",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQ1c4SGIwZktZakItU3dHZ0tzZnlMV3YwWlVQU1kyTkFoRGZtdW5lbl91NUVsUFJYbW03WWVrbWJzQlROSHJ4YmVtb1ByMk0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T15:05:37+00:00"
     }
   ],
   "asof": {},
