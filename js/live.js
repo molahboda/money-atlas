@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T08:45:29+00:00",
-  "quotesAt": "2026-08-16T08:45:29+00:00",
-  "newsAt": "2026-08-16T08:45:29+00:00",
+  "fetchedAt": "2026-08-16T09:00:29+00:00",
+  "quotesAt": "2026-08-16T09:00:29+00:00",
+  "newsAt": "2026-08-16T09:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-16T08:55:43+00:00"
+    },
+    {
+      "t": "트럼프, 이란전 목표 낮췄나…'비핵화'보다 '유가 안정' 전면",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KeTd0OGNtQU5ldzQyeG5ZMHVqNEN3SWFzazJFbUtfcXRQN1RFQWl4bUw3dmk2LUJDc0ZNanZWcXl0RDQ5NXg1V2RPcTdGeEY3TEFOVDI1M3pfQ0xpNnBDUUluVVprZ19haDBlUy1qVkw?oc=5",
+      "s": "위키리크스한국",
+      "d": "2026-08-16T08:55:37+00:00"
+    },
+    {
+      "t": "美, 이란전 목표 잇단 후퇴…'비핵화'서 '유가 안정'으로",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sVlpmRjZibG1OQVJIeFdzeEJlTktuRzNOSHBFTVBOM1ZoYU1yaG5abUVYRzhGREVFc0ZUdkxNOGxZNzU1Vk50MHc0ZC1xSk1uMXdOZlQ4LWdReWlHQmRaM01KOA?oc=5",
+      "s": "매일일보",
+      "d": "2026-08-16T08:38:06+00:00"
+    },
+    {
       "t": "[김대호 진단] 반도체 열전 (40) 세레브라스(Cerebras )...펠드먼의 반란 \"웨이퍼 통합\"",
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2ZGaWZFZUN2aktCaGVma00ybzJHT0xfM1FHOTliN2dQUzJFNUZfLVEzSXpXRXhVcFVQcmpYZDlyU0xOVkhkcWgtMzdSdnBfX29OellXMW1uWHpfVkJXdnVVYk5oZFBfUk1iRHFZdlFsdmRPdXVFU01HTDJpRTV6M20yMms?oc=5",
       "s": "글로벌이코노믹",
@@ -35,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSGs0QzJlYmxyeFlzZXFUdDJEdHVWQ3NvcHVIUDhhQ3RWSnFGb21EXzNPYV9mVm1adGtTcnhZY0ItbmRfY1l5cVBMZ0txN3c?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-16T08:16:07+00:00"
+    },
+    {
+      "t": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5",
+      "s": "ebn.co.kr",
+      "d": "2026-08-16T08:05:00+00:00"
     },
     {
       "t": "추격하는 中 반도체… YMTC, 낸드 출하량 3위",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HQ2RWMTBqeXhpUzlJYXpHaTRRSUZfXzUyazJsekdKZzdWdGpoaVJwbG90Y0x1SEk0b3FBWTZTaVFwOE9ISGlMMFd0RVgxaGRoaG9yMVFLZ29ndw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-16T07:48:31+00:00"
-    },
-    {
-      "t": "美 \"비핵화 대신 유가 안정\"…이란전 목표 점점 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxclV4MklmbkVFQmFURXVVcmtlNFBqblNvWUVCLUl6c0JVMlFYMXpKT0xUT3dsRmJVZzItbDY2LW1EZEhSclhGR0RjOHFDaW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T07:45:00+00:00"
-    },
-    {
-      "t": "'비핵화'서 '유가안정'으로…트럼프, 이란전쟁 목표 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWV1ZHo3dndDTGFBUEUxSWRDQmwwcEtqVUpkV1prY0JjbWVic3VFa0JMeWFJd0ZsYmpzVm1COFFsTEl4SUJKb3ptX3ctT0RIcFZ4aTZBTFNhc29wbmUyT0FhalBoR2FyS1hxTkNhWERPMGp2M3JXMHJpeEVvd0IyWmhkaVJselJ4?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-16T07:44:06+00:00"
-    },
-    {
-      "t": "이달 주요국 1위 수익률에도 불안한 코스닥···삼전닉스 반등하면 상승세 꺾일라",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3MHJlVkpWX2dDRE1LcW5jTVc1VjVEWVZBMlF5R0xLeFBHLUxqUXdFRmFKMlhnTFVacjRTLVJ6dm1mWXhKaTdPUTZXQWNaNEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T07:41:27+00:00"
-    },
-    {
-      "t": "“美 증시, 도박판”...워런 버핏 '일침'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUWwxbUZaQ3FjRFZTaHlLOWZ2Z1RYeThxMUNLc3MyZ0hqUWNOa19VbDBzNjBGR2k3SUFZVWJDSmd4WnVNQ1E4QWM5bEx0ODQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T07:32:51+00:00"
     }
   ],
   "asof": {},
