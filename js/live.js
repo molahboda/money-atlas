@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T11:45:29+00:00",
-  "quotesAt": "2026-08-16T11:45:29+00:00",
-  "newsAt": "2026-08-16T11:45:29+00:00",
+  "fetchedAt": "2026-08-16T12:00:29+00:00",
+  "quotesAt": "2026-08-16T12:00:29+00:00",
+  "newsAt": "2026-08-16T12:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
-    {
-      "t": "\"화요일 국장 비상\"?…삼성·SK하이닉스, 美 반도체주·ADR 보니",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbVJVUDJFWUpIblFTS0d0enlxTFpBbmhVRU1OTXdjQ1VxcUVPeGJMVmNJY0pxeU50QmlzbElMSEk0YkhNXzljbnU4ZE9vaGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T11:33:09+00:00"
-    },
     {
       "t": "'삼전닉스' 살아나자 코스피 7천 터치…다음주 안착 시험대",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVTNSUmVpWXZwNDliZTk5R3FtZEZsMnZqZ2pQUFhFbFVHdFRTS0sza0FpMlJoZFFHZ2hTcmN4SlI1M0lpQW5rS1Rfd1YxVzJuWlBnUTdWb05IWlBHd2ZyeFdjR09iVDdBUG5pSA?oc=5",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92ZGZmLUN5Q01JcWloc3hFVmVkalJLdTVLdmVUVzhkN04zVG5ydno5WVptWkg4UGVSN1lZOGYxdkhBbk5FVTVaNE14dFo1d0E2UTZwZEs1SGFUbTF2V2liOFh5eVFFSm5rcE40VUxJc1ZhUDZjYUp2UGdn?oc=5",
       "s": "서울신문",
       "d": "2026-08-16T09:16:47+00:00"
+    },
+    {
+      "t": "\"반도체 경쟁 새로운 국면 진입… 韓, 中 활용하고 日 협력을\" [인터뷰]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaS05NkVBVTRfdXJGd04tWHVkVXRQSnozVkNWdVlfUU95cmxrSHl5S3pHZlk2Z0tVa2NUb2syNjlqQ2gzb3BDbE5OV3QwSFV4NlZSLXc1THVwUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-16T09:15:24+00:00"
     }
   ],
   "asof": {},
