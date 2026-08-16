@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T09:00:29+00:00",
-  "quotesAt": "2026-08-16T09:00:29+00:00",
-  "newsAt": "2026-08-16T09:00:29+00:00",
+  "fetchedAt": "2026-08-16T09:15:29+00:00",
+  "quotesAt": "2026-08-16T09:15:29+00:00",
+  "newsAt": "2026-08-16T09:15:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,46 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "전공정·장비주 활약에 ‘반도체 ETF’ 수익률 톱10 휩쓸어 [ETF 스퀘어]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsTWw3Y3dNMDhjM3hJWmxPZmh1X1AxZHhRWTA1YWptenJHX0dqcFJ0a28xRDV1c3hwLXNrVGdHU3UzTXlKOTVIQ0dQRkFiRDBmaDNINE9XUl9iZw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-16T09:07:33+00:00"
+    },
+    {
+      "t": "가계빚 2000조원 돌파 확실시…금리 인상에 취약차주 비상",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZWR1YnJycmlKZ19fbUY1eFRjUnhiazcwMHc4Vi1TZ3pweW5fN0pfaUk4VkJWYWhCcWFoTjlFbDYydGduRmI0ME1JWDdOcDVfZFBscV9rcHUtUQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-08-16T09:05:00+00:00"
+    },
+    {
+      "t": "[주간환율전망] 이벤트 부재 속 1410원대 박스권···중동·엔화 '변수'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdmM5dlVIQ3FMdG5zSXVVcVMwMFRlcHhubUMtb0J3ZUQ5RGpqX2tldGJHVFBTeEdiblJNSUp2cnJVYWxXRGNkMDlkZzdYanJHeklXR29qbWlBRDZQTXpJd2Nna3ROZ0h2UGc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "t": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43enBzNDBwLWJaUmNLY3JsZkxUNVJ6QW1ycWNVVG1KVTUxaGhNRW5MSmptWnU2NHNLdl90RV81QVdNVEMzaDhyVDg4bEdvNDNkcm4tVWtOMkgxUDFqczVWb05n?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-08-16T09:00:00+00:00"
+    },
+    {
+      "t": "무역 적자의 주범... 반도체 가격 상승 및 FDI 증가가 130억 달러 무역 적자 초래",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mV2ZRY216aHg5aGxEdjAzXzFDNVd6T2ZaRGpENzZHZ2stWnVqSEFnOTdqVW5FRGFqYzlwNFF2bGxTRmw2NEYxVkNicnBHa2NmbTFOX2hWSzRZUGlTVWZLSDRBZkJValhJc2xMbnQ1b2x5cTA?oc=5",
+      "s": "굿모닝베트남미디어",
+      "d": "2026-08-16T08:59:10+00:00"
+    },
+    {
       "t": "[표] 외국환율고시표",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cGIyY2hUTndzanRERVNjRWhtWFJPWWVRaUh4TC1KZUI5NUhlemstVUttUm1LSnAzSGtZbTg0Z1l2ZHFqWXRab2dueHFTR3o0U3c?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-16T08:55:43+00:00"
+    },
+    {
+      "t": "\"韓투자 왜 늦나\" 美불만에…산업장관 긴급방미",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEdzJiMi1DNjBIYkQ1bzh6c2tMcGw1aU1OWEtzbmctR004T1hNbks3QWprUkEwX1lXelJjYmRqWGhucHNtRG1MQ1ZuTzQ2S21SR2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-16T08:55:40+00:00"
     },
     {
       "t": "트럼프, 이란전 목표 낮췄나…'비핵화'보다 '유가 안정' 전면",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2ZGaWZFZUN2aktCaGVma00ybzJHT0xfM1FHOTliN2dQUzJFNUZfLVEzSXpXRXhVcFVQcmpYZDlyU0xOVkhkcWgtMzdSdnBfX29OellXMW1uWHpfVkJXdnVVYk5oZFBfUk1iRHFZdlFsdmRPdXVFU01HTDJpRTV6M20yMms?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-16T08:26:46+00:00"
-    },
-    {
-      "t": "김정관 산업통상부 장관 미국행…대미투자·관세 논의",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSGs0QzJlYmxyeFlzZXFUdDJEdHVWQ3NvcHVIUDhhQ3RWSnFGb21EXzNPYV9mVm1adGtTcnhZY0ItbmRfY1l5cVBMZ0txN3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T08:16:07+00:00"
-    },
-    {
-      "t": "\"코스피 오르니 더 불안해\"…7000 앞두고 개미들 '하락 베팅'",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oalJ3cDIxN2xNcU01eDlOdFg5OTZRYVVNY3ZLV1pyTUhVemRiM2VNT2JzcjZkZTdNTUotVlNFZENPSzdDWWpjcTB1ZnZmaTNfU2NmRm9CUG9pX3BjR1JQbHJ4VUFFTXd5?oc=5",
-      "s": "ebn.co.kr",
-      "d": "2026-08-16T08:05:00+00:00"
-    },
-    {
-      "t": "추격하는 中 반도체… YMTC, 낸드 출하량 3위",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZDJoWl9zeFFFeTVYYnpJdERQQjd3amlocS1vYVM1WmI3NnR5WHBHeldlNzZITVNaQVhUZzMyeUJyNnllUjdTTGtLRldMamtKU182a21ZX3A5UG1WNV82LUtvcEFIX2ZhMGwwdVVxZkXSAXRBVV95cUxNQmV4Q0tIWlRaSkZrNGdFb2MwTVM3NWx0dVh4NzNhTXg4THp4bW9BaDRNTk5HTE5icGpCeS1vcHhITDBlUXBqRHZiQ3g5Z193Q0hWaDl1blFZMkhMMWpLYmtjZWpyTlh2b0R3Smc0OXc5cGpHLQ?oc=5",
-      "s": "IT조선",
-      "d": "2026-08-16T08:02:50+00:00"
-    },
-    {
-      "t": "앤트로픽 깜짝 흑자에 반도체 업계 반색 ... ‘AI 수익화’ 결정적 증거인가",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oZzRiWWUyY0h2YThjTXprQTdjTEZ2ZmxST0N6LVRRUEp3OFkxMUlMSVNMX1NaQzlHWXk3U2dkVlBuNFZfd1dHRXM1LUZxV3VHUml1QWpB?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-16T08:00:50+00:00"
-    },
-    {
-      "t": "금리가 낮아졌지만, 자본 비용은 여전히 ​​상당한 어려움으로 남아 있습니다.",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnozUE9JS0VhN1hicDgtYUxTRTdrOUxoQVRXSDVjSHFxUWpBV2gyNzNJZFRUTXB3cE0yRXR3N2FObHBLUkVFc0RldzV6bjVtMnpGNk00TWtUNGdjeEkyQjlWNGtIY25VTDd0LTdMNkxVTXFCX1cwWGxwQlhvNGViVHpOU2U3ZjJa?oc=5",
-      "s": "Vietnam.vn",
-      "d": "2026-08-16T07:56:09+00:00"
-    },
-    {
-      "t": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HQ2RWMTBqeXhpUzlJYXpHaTRRSUZfXzUyazJsekdKZzdWdGpoaVJwbG90Y0x1SEk0b3FBWTZTaVFwOE9ISGlMMFd0RVgxaGRoaG9yMVFLZ29ndw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-16T07:48:31+00:00"
     }
   ],
   "asof": {},
