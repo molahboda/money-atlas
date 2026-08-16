@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T16:45:29+00:00",
-  "quotesAt": "2026-08-16T16:45:29+00:00",
-  "newsAt": "2026-08-16T16:45:29+00:00",
+  "fetchedAt": "2026-08-16T17:00:29+00:00",
+  "quotesAt": "2026-08-16T17:00:29+00:00",
+  "newsAt": "2026-08-16T17:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "‘301조 관세-대미 투자’ 발표 앞 협상라인 공백… 김정관 美로",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmcFotRjlPaWttelZqazd3TFRHdTM1TThDaHkwd0Y5NFItZHF2Qk5vSlJFUGE3QlVheEVSOVNmMkFtb0J1cUpxYTdFeU15dnFsbW5xYzlkcTdUVjhxeXpXTEpBeUt0MTEyQWtiTGs0ZUI0QzBfaHfSAWZBVV95cUxQUXBMMFltWjMxRjE4WXpYb3A0MUw5aG9IZnNrVlh1N1MtbnU3NTRHaVJHZTB3bVk0UWJySjRFenNVd0VnMENET2FrY1NxN2haUTJNdWozSFJVOTl0MTJMcU5yTHlIa3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-16T16:40:00+00:00"
+    },
+    {
+      "t": "'방미' 김정관 산업장관 \"美관세 압박 사실무근…15% 예단 않고 최선\"",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QQzZvbkRRNUoyVFJXanhOcFRwa1NRMWlVSzRIZlV5NHhSNzZ6bm0xUm1xeWdSNFNJSHVLR0VidU1tczVZRE9iZUViNU5VQ3lsUDIyM1NCek3SAV5BVV95cUxQVXNsYmp4N0o5U29vT2ZxRFlzXzRoeEp4TXo4a2RhdmQ1VHltRlFmWVprd0IySGxOcUpsenR3TjNrYmRXckZyQU5FOXR0SzR4ZFZwRGNfNlZ3aHJMRGlR?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-16T16:39:31+00:00"
+    },
     {
       "t": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6%",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ianROUDN3R0EtaGN1RVg2M3hIaWNjYjk4OXU2T1hrcnRDUVh0akZOckdUZjEwb3ZkTV9MMGpJaVc5T1JlWTFEaWZEX04zN3c?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQ1c4SGIwZktZakItU3dHZ0tzZnlMV3YwWlVQU1kyTkFoRGZtdW5lbl91NUVsUFJYbW03WWVrbWJzQlROSHJ4YmVtb1ByMk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-16T15:05:37+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (41) 퀄컴(Qualcomm) ...주머니속의 제국 \"스마트폰 AP 혁명\"",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0Z2UzN2b3hEeTRMSDdib045QnpSYU1SRU1sU202M3FIYnJib1g5Nlp6YzZJMXJEMktnaE1KWGJuVnRvbUMxMzl4VW53LVpoaS1qTC1mYmJZVnF0SjNRMVlYREJJei1TWkQ3NmM3cUFyZ2Z3cm5vbUNHU1EtUnpSVE9uaGc?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "t": "[사설]中 파운드리 ‘투톱’ 최대 실적… 2위마저 위협받는 韓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STUlxWlppRzhFdUlGNHh2akZYRzRvY0lDalZ6d0w5aUctb0RULWRuN1NETU5sc0Q2dnJpYi0xZzRlcWlZZ1RwLXl1cWI1Q2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T14:28:51+00:00"
     }
   ],
   "asof": {},
