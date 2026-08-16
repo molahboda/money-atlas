@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T15:00:30+00:00",
-  "quotesAt": "2026-08-16T15:00:30+00:00",
-  "newsAt": "2026-08-16T15:00:30+00:00",
+  "fetchedAt": "2026-08-16T15:15:29+00:00",
+  "quotesAt": "2026-08-16T15:15:29+00:00",
+  "newsAt": "2026-08-16T15:15:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "금리·연체율 오르는데…가계빚 첫 2000조",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4OEVVLTVMNm9pQlU0VG1QMzVfY1dkaVpyUlB4OWNMMy1RNkk5UjN6THVkblN3bGVTWG9OWmhPOHMzcWxFWV96MEhabmg4bmJkS3hsYldR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-16T15:05:40+00:00"
+    },
+    {
+      "t": "美 압박 와중에 통상사령탑 한밤중 경질… 산업장관 긴급 방미",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQ1c4SGIwZktZakItU3dHZ0tzZnlMV3YwWlVQU1kyTkFoRGZtdW5lbl91NUVsUFJYbW03WWVrbWJzQlROSHJ4YmVtb1ByMk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T15:05:37+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (41) 퀄컴(Qualcomm) ...주머니속의 제국 \"스마트폰 AP 혁명\"",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0Z2UzN2b3hEeTRMSDdib045QnpSYU1SRU1sU202M3FIYnJib1g5Nlp6YzZJMXJEMktnaE1KWGJuVnRvbUMxMzl4VW53LVpoaS1qTC1mYmJZVnF0SjNRMVlYREJJei1TWkQ3NmM3cUFyZ2Z3cm5vbUNHU1EtUnpSVE9uaGc?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-16T15:00:00+00:00"
+    },
+    {
       "t": "[사설]中 파운드리 ‘투톱’ 최대 실적… 2위마저 위협받는 韓",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STUlxWlppRzhFdUlGNHh2akZYRzRvY0lDalZ6d0w5aUctb0RULWRuN1NETU5sc0Q2dnJpYi0xZzRlcWlZZ1RwLXl1cWI1Q2s?oc=5",
       "s": "v.daum.net",
@@ -32,9 +50,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FdmhrYkJlR1Fxckh0QlhqMk1PNnJMUXU1THVadEs1eG9fTy1hMG9iRlVtZ3VXS3o5VWZiSGJGbGhFRG9MTUY3eHNiVmxIbE0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T14:06:02+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-16T14:05:30+00:00"
+    },
+    {
+      "t": "GST, 반도체 본업 성장 속 ‘액체냉각’ 신사업 가속",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wc291WFREcU5LRXBVQjJsZ3JXYThpcGt2U2g4NUpZM0U1eEc0cUxjQVh6d1RiS2hWSi1QSUd4QndFVWtUTjdXaFU3Z3lsTGowV2U3eXp3?oc=5",
+      "s": "칸(KHARN)",
+      "d": "2026-08-16T13:39:13+00:00"
     },
     {
       "t": "물가상승률 고착화, 경기 회복의 발목 잡을 우려 드러나",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42LWRTWWQ4cnp5MldRcy1ibkVMQzNxV294M1Z4U1FoaExFb1M0eXNTZHY5dHV2R1NOUXlTaUVFRU1IQlJyQzgyTXlERnZFTS1ENTlTVVdFd2k2T2RUUE1zRDYxZWFPRi1JZkRaaTlqVlQ?oc=5",
       "s": "데일리굿뉴스",
       "d": "2026-08-16T12:17:50+00:00"
-    },
-    {
-      "t": "이란전 목표 점점 후퇴하는 美…＇비핵화＇→＇유가 안정＇으로 축소",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42djBfZFg1ZU5nSGpJeHVGSmQtMnJDU05jRlFXWXNORUJVa0k2NWVzYlVZOG9iMHBMUjdnbWMtVGMwMVFKMXA2WU1NZFRDVzhsUXNwVkNWMUloLW5wUWVXRldQVEM5Um9XZjlVMFJESGk5Rmc1XzRn?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-16T11:53:00+00:00"
-    },
-    {
-      "t": "[사설] 美 관세 압박 속 통상 수장 경질, 국익 훼손 없도록",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2Y1V08xZUd6REdxdmxOUVZ4SEpNZEhKM2sycmlPYzY3WjJaMjRGdjk4TEQ2dDh1eHp5aTM0aVh6T1U2VC04UUlUOEhGSmFFV1dOSzkyc0JiZk9IVXZORlJGSTAtaENLVVlZWEVLUHhKTThJREhkR1ZXRHpqaFM5emV3?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-16T11:35:08+00:00"
-    },
-    {
-      "t": "'삼전닉스' 살아나자 코스피 7천 터치…다음주 안착 시험대",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVTNSUmVpWXZwNDliZTk5R3FtZEZsMnZqZ2pQUFhFbFVHdFRTS0sza0FpMlJoZFFHZ2hTcmN4SlI1M0lpQW5rS1Rfd1YxVzJuWlBnUTdWb05IWlBHd2ZyeFdjR09iVDdBUG5pSA?oc=5",
-      "s": "ER 이코노믹리뷰",
-      "d": "2026-08-16T11:28:35+00:00"
-    },
-    {
-      "t": "'투자 압박'에 미국행…'1호 투자·관세' 논의 속도?",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQk9Rc2xvUEdQNmdLaGtUTXNSdEhCTjBNckh0OGhKdUJzZDlqVmJta3A0RF9TbURsZjlZa1M3bUJaYkU3U2w5U2NmNVRpNTNpc2s5ZmowMnFULWVGM0MyUGxJLWR4WVhsMVZFSDk5cFlSenhfUjJKYUhYZTNsNVRGTG5Ld2lSd3lCU2tpYVUxemxYT05mMEE?oc=5",
-      "s": "news.sbs.co.kr",
-      "d": "2026-08-16T11:15:00+00:00"
     }
   ],
   "asof": {},
