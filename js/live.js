@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T08:30:29+00:00",
-  "quotesAt": "2026-08-16T08:30:29+00:00",
-  "newsAt": "2026-08-16T08:30:29+00:00",
+  "fetchedAt": "2026-08-16T08:45:29+00:00",
+  "quotesAt": "2026-08-16T08:45:29+00:00",
+  "newsAt": "2026-08-16T08:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "[김대호 진단] 반도체 열전 (40) 세레브라스(Cerebras )...펠드먼의 반란 \"웨이퍼 통합\"",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2ZGaWZFZUN2aktCaGVma00ybzJHT0xfM1FHOTliN2dQUzJFNUZfLVEzSXpXRXhVcFVQcmpYZDlyU0xOVkhkcWgtMzdSdnBfX29OellXMW1uWHpfVkJXdnVVYk5oZFBfUk1iRHFZdlFsdmRPdXVFU01HTDJpRTV6M20yMms?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-16T08:26:46+00:00"
+    },
     {
       "t": "김정관 산업통상부 장관 미국행…대미투자·관세 논의",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSGs0QzJlYmxyeFlzZXFUdDJEdHVWQ3NvcHVIUDhhQ3RWSnFGb21EXzNPYV9mVm1adGtTcnhZY0ItbmRfY1l5cVBMZ0txN3c?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUWwxbUZaQ3FjRFZTaHlLOWZ2Z1RYeThxMUNLc3MyZ0hqUWNOa19VbDBzNjBGR2k3SUFZVWJDSmd4WnVNQ1E4QWM5bEx0ODQ?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-16T07:32:51+00:00"
-    },
-    {
-      "t": "콜롬비아 강진, 사망 290·부상 4000 상회…美에 관세유예 읍소 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wVTVwS1hzMjFGN2pKeC1YWDZEeTNuY2hoWV9kakNOYkZwd0Q1NmthYnZkREF3T0htUXJRQ2t1cTNQdXBKdllHZXFoTkZ2TmVoZDhuMUNJQWFJR2xpQ0ZwUjk5bE5HaGhDWHRHLTNR0gFuQVVfeXFMTnBVNXBLWHMyMUY3akp4LVhYNkR5M25jaGhZX2RqQ05iRnB3RDU2a2FidmREQXdPSG1RclFDa3VxM1B1cEp2WUdlcWhORnZOZWhkOG4xQ0lBYUlHbGlDRnBSOTlsTkdoaENYdEctM1E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-16T07:32:08+00:00"
     }
   ],
   "asof": {},
