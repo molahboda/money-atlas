@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T14:15:30+00:00",
-  "quotesAt": "2026-08-16T14:15:30+00:00",
-  "newsAt": "2026-08-16T14:15:30+00:00",
+  "fetchedAt": "2026-08-16T14:30:29+00:00",
+  "quotesAt": "2026-08-16T14:30:29+00:00",
+  "newsAt": "2026-08-16T14:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -49,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-08-16T12:27:00+00:00"
     },
     {
+      "t": "이란전 목표 점점 후퇴하는 美…＇비핵화＇→＇유가 안정＇으로 축소",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42djBfZFg1ZU5nSGpJeHVGSmQtMnJDU05jRlFXWXNORUJVa0k2NWVzYlVZOG9iMHBMUjdnbWMtVGMwMVFKMXA2WU1NZFRDVzhsUXNwVkNWMUloLW5wUWVXRldQVEM5Um9XZjlVMFJESGk5Rmc1XzRn?oc=5",
+      "s": "한국경제TV",
+      "d": "2026-08-16T11:53:00+00:00"
+    },
+    {
       "t": "[사설] 美 관세 압박 속 통상 수장 경질, 국익 훼손 없도록",
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2Y1V08xZUd6REdxdmxOUVZ4SEpNZEhKM2sycmlPYzY3WjJaMjRGdjk4TEQ2dDh1eHp5aTM0aVh6T1U2VC04UUlUOEhGSmFFV1dOSzkyc0JiZk9IVXZORlJGSTAtaENLVVlZWEVLUHhKTThJREhkR1ZXRHpqaFM5emV3?oc=5",
       "s": "서울신문",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWWpsUkhTZXlMZjFfZkRua1lGOGdhSW8xWUxVYjJ5SEY4Rzhhd3VtenpjM0tuQ2RvYWRQYUZ4aU1MU2lkaHhRSWZGb2I4cHIzYW1rWWhfUVdLcjc1Wm8wYVl6NldkemYwTlA4R2RWMU5Td1U2RHJz?oc=5",
       "s": "한국경제TV",
       "d": "2026-08-16T10:42:00+00:00"
-    },
-    {
-      "t": "반도체 반등에 또 '빚투'⋯삼전닉스 신용잔고 '쑥'",
-      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yUjJVNUdyRXNYZTdPNWNXUUJYU1ZGQWRUYTUtbWpVMlN5MXdWdjNpaTBOM3VKeFdDN204SmJsSW1TcHJsRnNyU0c1RQ?oc=5",
-      "s": "아이뉴스24",
-      "d": "2026-08-16T10:36:26+00:00"
     }
   ],
   "asof": {},
