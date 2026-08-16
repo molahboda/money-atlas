@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T09:45:29+00:00",
-  "quotesAt": "2026-08-16T09:45:29+00:00",
-  "newsAt": "2026-08-16T09:45:29+00:00",
+  "fetchedAt": "2026-08-16T10:00:29+00:00",
+  "quotesAt": "2026-08-16T10:00:29+00:00",
+  "newsAt": "2026-08-16T10:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -31,6 +31,30 @@ window.LIVE_DATA = {
       "d": "2026-08-16T09:39:00+00:00"
     },
     {
+      "t": "\"미, 이란전 목표 점점 후퇴‥'비핵화'에서 '유가 안정'으로 축소\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwY0ZDMmhBakIyWF9VTVVndmFMQmliQW5GellNT3doU1NGYm1jZ1I2ZGhtcUlLYWJQUjFmOUNodXAwUFdzdFRmb3VGNkxQVms?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T09:34:05+00:00"
+    },
+    {
+      "t": "잇단 반도체 장비 수주…파크시스템스 매출 반등",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fX1hTQXVUQXg2QWNQRkxMbHo2bTNkV2JHbGhXOFBVQTRoZ1BoU2hVMXo5N2owLUl5Y3Z0M3JiOUZYYnVldXRvU0JLMXpCc1RvS0p5MlJlNmdGUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-16T09:29:45+00:00"
+    },
+    {
+      "t": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VXNjWVhyZU5maEdTVXdHR2pmX0N2RGNhUnpEakhjX1daNWR4bXJkN0lIZTBIdjVpLUp6NDVCVGdWbndSQXJyWkRHV201Z0p2ekZZWDZjVjRiU0RkdFRqb0Z6TDI1ODdJc3FGY2xEVFZJMEtLYXRQY0xn?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-16T09:16:56+00:00"
+    },
+    {
+      "t": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92ZGZmLUN5Q01JcWloc3hFVmVkalJLdTVLdmVUVzhkN04zVG5ydno5WVptWkg4UGVSN1lZOGYxdkhBbk5FVTVaNE14dFo1d0E2UTZwZEs1SGFUbTF2V2liOFh5eVFFSm5rcE40VUxJc1ZhUDZjYUp2UGdn?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-16T09:16:47+00:00"
+    },
+    {
       "t": "한미반도체 폭등 맞힌 ‘주식 타짜’ “다음 텐배거는 이 종목”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR2h0aTdOUjd4VTF4SjJ3X09pVGlIZTVVNjVJSVRrX0k3Z1lqamZNRGpIUnB0Qlg0aHZjc25DcjFTU0xDOTI0TVJZbGRjY3U0WmItTUtR?oc=5",
       "s": "중앙일보",
@@ -49,12 +73,6 @@ window.LIVE_DATA = {
       "d": "2026-08-16T09:09:26+00:00"
     },
     {
-      "t": "전공정·장비주 활약에 ‘반도체 ETF’ 수익률 톱10 휩쓸어 [ETF 스퀘어]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsTWw3Y3dNMDhjM3hJWmxPZmh1X1AxZHhRWTA1YWptenJHX0dqcFJ0a28xRDV1c3hwLXNrVGdHU3UzTXlKOTVIQ0dQRkFiRDBmaDNINE9XUl9iZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-16T09:07:33+00:00"
-    },
-    {
       "t": "“반등은 곧 차익실현 기회”…코스피 불신에 ‘매도’ 나선 개미들",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PS3JwdjJXaHdUcS0talpJME9URzNRaU5zUGdRaTlodG1heUtaUF9HYmNvQnNKN29lbWpCcklzLS1rTk1sWkVPLXdUS1p1d0FtYW4wM1B5MlLSAVRBVV95cUxQTEVXVFZ2QjI0YUhCbUFtVDZBaEcwaERSWlZ3WHl1dmFIU0Zxb3FBQi1DNnZOMU93MTlqZHlmODdRM2lDZDJndm1sSTV1ZzZjTWJQTms?oc=5",
       "s": "세계일보",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZWR1YnJycmlKZ19fbUY1eFRjUnhiazcwMHc4Vi1TZ3pweW5fN0pfaUk4VkJWYWhCcWFoTjlFbDYydGduRmI0ME1JWDdOcDVfZFBscV9rcHUtUQ?oc=5",
       "s": "경북매일",
       "d": "2026-08-16T09:05:00+00:00"
-    },
-    {
-      "t": "[주간환율전망] 이벤트 부재 속 1410원대 박스권···중동·엔화 '변수'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdmM5dlVIQ3FMdG5zSXVVcVMwMFRlcHhubUMtb0J3ZUQ5RGpqX2tldGJHVFBTeEdiblJNSUp2cnJVYWxXRGNkMDlkZzdYanJHeklXR29qbWlBRDZQTXpJd2Nna3ROZ0h2UGc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 신고가에도 비트코인은 `잠잠`…6만3000달러대 횡보 [주간 블록체인]",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43enBzNDBwLWJaUmNLY3JsZkxUNVJ6QW1ycWNVVG1KVTUxaGhNRW5MSmptWnU2NHNLdl90RV81QVdNVEMzaDhyVDg4bEdvNDNkcm4tVWtOMkgxUDFqczVWb05n?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-08-16T09:00:00+00:00"
-    },
-    {
-      "t": "무역 적자의 주범... 반도체 가격 상승 및 FDI 증가가 130억 달러 무역 적자 초래",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mV2ZRY216aHg5aGxEdjAzXzFDNVd6T2ZaRGpENzZHZ2stWnVqSEFnOTdqVW5FRGFqYzlwNFF2bGxTRmw2NEYxVkNicnBHa2NmbTFOX2hWSzRZUGlTVWZLSDRBZkJValhJc2xMbnQ1b2x5cTA?oc=5",
-      "s": "굿모닝베트남미디어",
-      "d": "2026-08-16T08:59:10+00:00"
     }
   ],
   "asof": {},
