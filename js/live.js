@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T13:15:29+00:00",
-  "quotesAt": "2026-08-16T13:15:29+00:00",
-  "newsAt": "2026-08-16T13:15:29+00:00",
+  "fetchedAt": "2026-08-16T13:30:29+00:00",
+  "quotesAt": "2026-08-16T13:30:29+00:00",
+  "newsAt": "2026-08-16T13:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-16T11:13:00+00:00"
     },
     {
+      "t": "통일선봉대 ‘호남 반도체 성사도, 한미연합훈련 반대 투쟁도 다 책임지자’",
+      "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZmF2eDJMcloySzgyR1lMdFJ2OVNPelhFb1BSVW1meHFsSEplVWkxYlZWejRIZWhDOGRwS0lKZkxkNFU?oc=5",
+      "s": "자주시보",
+      "d": "2026-08-16T11:01:50+00:00"
+    },
+    {
       "t": "＂27만전자·160만닉스 회복＂…5일 연속 오른 코스피, 이번주도 달릴까",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWWpsUkhTZXlMZjFfZkRua1lGOGdhSW8xWUxVYjJ5SEY4Rzhhd3VtenpjM0tuQ2RvYWRQYUZ4aU1MU2lkaHhRSWZGb2I4cHIzYW1rWWhfUVdLcjc1Wm8wYVl6NldkemYwTlA4R2RWMU5Td1U2RHJz?oc=5",
       "s": "한국경제TV",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yUjJVNUdyRXNYZTdPNWNXUUJYU1ZGQWRUYTUtbWpVMlN5MXdWdjNpaTBOM3VKeFdDN204SmJsSW1TcHJsRnNyU0c1RQ?oc=5",
       "s": "아이뉴스24",
       "d": "2026-08-16T10:36:26+00:00"
-    },
-    {
-      "t": "부울경 산업 전기료 10%↓…반도체 기업 올까",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXJoUkJDN0s0ZkpvUjdGNjB5TmkwU2xhYlJoektfemdtMjdxbEQwdkJOY0JGNVdVWjZLVGdZcEhQWmNjUXdWV2YwUl9jZzRnaV9oLUJMVC05V0NjdnhZYVdrcnhUal9PUGd6LUxhVDhpdlhVN0s4RXRGWThVZ3hwSzJTUEZMM1dlYy1SU04tcF9MZEk?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-16T10:32:00+00:00"
     }
   ],
   "asof": {},
