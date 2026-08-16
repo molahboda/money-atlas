@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T09:30:29+00:00",
-  "quotesAt": "2026-08-16T09:30:29+00:00",
-  "newsAt": "2026-08-16T09:30:29+00:00",
+  "fetchedAt": "2026-08-16T09:45:29+00:00",
+  "quotesAt": "2026-08-16T09:45:29+00:00",
+  "newsAt": "2026-08-16T09:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,10 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "\"앞으로 반도체 쏠림 덜할 것\" [한경 프리미엄9 TODAY]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MjBzX3l0bERzdm4xQ1QyUXNRYVJGOTZJVmRZVWhpelotT0Y4MDd3V1AtZVg1VjN3VXRfWnEtODBOa3FyRjZtWFdfS09fSjJqVERHLXA2cnBFZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-16T09:21:01+00:00"
+      "t": "[도청도설] 개미의 의심",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTVHdkFHM0pOcmE5MDlDTE5fTF9Ja01mQTREakE0YlhVczdwX2lfOEhxNGdtRHp3bVlmMnd0c1NLZDE1aHdqbGNtaHpVX21LdUVBNTNFSndEUE9oNUVrLUdiaUUzRDJNajR2b01IWWF5MkN4d244UEhONGMtUmtFSzNGRE8zUndyMzdKWXd3?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-16T09:39:00+00:00"
     },
     {
       "t": "한미반도체 폭등 맞힌 ‘주식 타짜’ “다음 텐배거는 이 종목”",
@@ -80,7 +80,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "무역 적자의 주범... 반도체 가격 상승 및 FDI 증가가 130억 달러 무역 적자 초래",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sUUlaMFhOWjBCVlJ5N3ZaVk1MR0ZweDByRTJPa3V5N25OZDVJOTVfdFRvckZrLUkzbXpLN0VJN3pCeDdZMnp4NlFvcEF3amRKYlVxTmkwRGd4VGdnS180LTYtaEkzYzF4ZXJFbEdqMng?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mV2ZRY216aHg5aGxEdjAzXzFDNVd6T2ZaRGpENzZHZ2stWnVqSEFnOTdqVW5FRGFqYzlwNFF2bGxTRmw2NEYxVkNicnBHa2NmbTFOX2hWSzRZUGlTVWZLSDRBZkJValhJc2xMbnQ1b2x5cTA?oc=5",
       "s": "굿모닝베트남미디어",
       "d": "2026-08-16T08:59:10+00:00"
     }
