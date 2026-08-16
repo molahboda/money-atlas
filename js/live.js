@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T07:00:29+00:00",
-  "quotesAt": "2026-08-16T07:00:29+00:00",
-  "newsAt": "2026-08-16T07:00:29+00:00",
+  "fetchedAt": "2026-08-16T07:15:29+00:00",
+  "quotesAt": "2026-08-16T07:15:29+00:00",
+  "newsAt": "2026-08-16T07:15:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "'빚내서 경제성장' 日다카이치…금리가 복병[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WMVY0N3lyTGItWVFCQ28wZk5Ca0FmZk5Scndhb01sX0RFbzl6c0VIUGQ0dWhWUWpONFNzZV82UWhDOFVGZllfeFB2b0U5d2h2aGJDMDZOLVBQc25KYUpESWxR?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-16T06:55:00+00:00"
+      "t": "美 이란전 목표 비핵화서 유가 안정으로…전쟁 장기화에 수위 낮춰",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwcGlQdmRvTk83ejB6aTFSbkphbFExUlFDZW13bFkxbmhSckdvbjY2X25lWHV5SGp4ZHRGRzhMNW9uS2ZNUmpkN3VKZTBsTC1lTjRQcC1GNEhzd9IBWEFVX3lxTFBfZXUxV3VMVl9fc1l5ZW5ETzlJS3Y0NUNIX1BMN3JxZU85b1NVZHhrNTdCS2dNWklEdlE4emY4R3h6NXBOZ211LXVzdWgxa1ZodU1HWm51Zkc?oc=5",
+      "s": "아주경제",
+      "d": "2026-08-16T07:01:49+00:00"
+    },
+    {
+      "t": "민주당 당권주자 경기 당심 공략…‘반도체·개혁·평화’ 3색 승부",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMG9xWlRmSWNrV2NPVmhEaXRnVjBwNThlN2hPT1AtbkZJTHRHeTF4WklMMVdTRXhXbGtpcDRFU1hieHhVLUJlMXFuajZ5WkU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T07:00:06+00:00"
+    },
+    {
+      "t": "비트코인 8924만 원대 횡보, 물가 안정에도 투자 '관망 심리' 이어져",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wdHo4NzVFZEEzNDVGdGlJdnY3eWduZVc5OEVYMlNMYURHNUI0UWNPajZSeW5sNzlDQl9Ecl9ITHVueVFmamYzcXlDOXVDdzh4Q0w5aGkwU2JtZjRqWlYzTTE4Y0RBdjliWVZuNnREVC1PQms?oc=5",
+      "s": "비즈니스포스트",
+      "d": "2026-08-16T06:56:10+00:00"
     },
     {
       "t": "파탄 이후 투자 성과도 부부 공동재산인가… SK 반도체 분할산정 쟁점 추적",
@@ -44,21 +56,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "삼성전자 목표가 30만부터 65만원까지…반도체 전망 ‘극과 극’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HcklLSEJLYWlscEdNRDVXQW96b1d3czE2N0R3MDRaaGh1X0FkdjkzV1IzTG9uMEU5YkpUcXhYTGlsSmpUSlJzbnFaRlpBZGc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T06:36:46+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrZXhIWFRJMkxWOXcxdjYzWTZUSTlnaFFLMFhSMUR6NDY0dFdpMWlGZVRlOWY4eFpmQjl3dlZNLU04QTdmalJla1IyRzkyRnVGaUI2Rm51MGFveHo0ZG1nUHNn?oc=5",
+      "s": "미주중앙일보",
+      "d": "2026-08-16T06:34:00+00:00"
     },
     {
       "t": "'여한구 직권면직' 속 김정관 장관 긴급 방미…대미투자·관세 숙제",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzRjR0ZzdqZ1ZxSVZCOTlzTlZtendpdGw1OVBSMERkemF4X1FiQTBRX3dlc2xUS29vX0Y5eDdsaEN0cm1ueUpTVE5WZXBRZ3M?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-16T06:33:51+00:00"
-    },
-    {
-      "t": "[시각과 전망] \"거대한 실험장에 갇힌 한국\"",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIbXdSRG11OHNWYlVIUHY5RTd3VlA5cVJMM3B6RUJwZ3FaRFRwZUl2X0dDbXhqY21MRk1GdHpaOVNiUmp0clktaE9hSjBublFqSE92bzJiT21BU09LWFFITVJR?oc=5",
-      "s": "매일신문",
-      "d": "2026-08-16T06:32:19+00:00"
     },
     {
       "t": "산업장관 긴급 방미…대미 투자·관세 논의",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WajFOMmJ0UWE0RWhYb2RkUmtJMkE4OXdEMjExZVB3OUhrSzBQamZoT21sVUd4cjlNcVZhd3gyQXlnSHlFVWp4NFRBaHIwX0tzdVRoUV96VUphQQ?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-16T06:02:35+00:00"
-    },
-    {
-      "t": "통상본부장 공백에 미 투자 압박까지…한·미 관세협상 ‘겹악재’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nejFuVW9FWEVaR2hBUnZNSjlTRUJJMzRxZnQ2UVFPN2ROaUNvMTBocy1XZUxmdXRFU0pSUFBlRUM1clRON3c3bzExTFdZYjFJQ29qV3R5d01Pd9IBX0FVX3lxTE9IcDczUDFEVlRGTjVheWRSUWFaYURpNHhjWHFQS0xzTGR1WFZLVHdYZlJOSG1yeWM3U3FPLXQ4SnlGVXdodGJCVUhvN3Nvc3kwanRCbl9ZRWNieDNTNUFv?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-16T06:01:00+00:00"
     }
   ],
   "asof": {},
