@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T06:30:29+00:00",
-  "quotesAt": "2026-08-16T06:30:29+00:00",
-  "newsAt": "2026-08-16T06:30:29+00:00",
+  "fetchedAt": "2026-08-16T06:45:29+00:00",
+  "quotesAt": "2026-08-16T06:45:29+00:00",
+  "newsAt": "2026-08-16T06:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "삼성전자 목표가 30만부터 65만원까지…반도체 전망 ‘극과 극’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XUTNaYzZhY001WkNLTlJ1bWxYVG5yak9VVjFoYXhOYU8wbmQzZ1o4UXRyaXBVOGhrMWNXNEtLQTVuR1MzLVNvV3BhMWhvUnUySnpZNlN3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-16T06:34:23+00:00"
+    },
+    {
+      "t": "'여한구 직권면직' 속 김정관 장관 긴급 방미…대미투자·관세 숙제",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzRjR0ZzdqZ1ZxSVZCOTlzTlZtendpdGw1OVBSMERkemF4X1FiQTBRX3dlc2xUS29vX0Y5eDdsaEN0cm1ueUpTVE5WZXBRZ3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T06:33:51+00:00"
+    },
+    {
+      "t": "[시각과 전망] \"거대한 실험장에 갇힌 한국\"",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIbXdSRG11OHNWYlVIUHY5RTd3VlA5cVJMM3B6RUJwZ3FaRFRwZUl2X0dDbXhqY21MRk1GdHpaOVNiUmp0clktaE9hSjBublFqSE92bzJiT21BU09LWFFITVJR?oc=5",
+      "s": "매일신문",
+      "d": "2026-08-16T06:32:19+00:00"
+    },
     {
       "t": "산업장관 긴급 방미…대미 투자·관세 논의",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oYVBPdEdGUWEtM29CMVp6cm5wV25FRGtOczlIMmpodnRiV1V4bGVuV0hGeDNRWHZ1MlAwdE5WdndBMzhaLWU1Q2NqQW9OOHYxMlBhdG84WHUwcE4y?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaGJNcEhjV0h4TFJGZ3k3Z2tfeEdoMjRKU1R1TW1tUzRWMUVFajZSY1hpei1qTmg4NEx0cjNCSkFuUHROakRiOFVWNEl3ODBIZjBJMVZ6WElwQXIwMXIxcGRzYV9IOFgzQ3hRSVptbw?oc=5",
       "s": "위키리크스한국",
       "d": "2026-08-16T05:47:00+00:00"
-    },
-    {
-      "t": "통상라인 공백 속 김정관 방미…대미 투자·관세 협의 주목",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TcU5ZeVluYjJJYWpVR2htbkwwSDIwcmJMUUV5b09ZQkVjQTd0dFExTjdXTUVPLVEwVjY1VnVIOHlOSEp6QUM2dVQ2NWVyVGYyd2VSV1BsSk9MN09WUXlSdU1fNUQ?oc=5",
-      "s": "매일일보",
-      "d": "2026-08-16T05:44:16+00:00"
-    },
-    {
-      "t": "[속보] 투자 이행·관세 ＇발등의 불＇…김정관 산업장관 다시 미국행",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12Mm4ydTVqMWN2cGZtOFRvbGxBSE1tZUprQThCbmJKWERzQmJodGdsSWk2OXEwTGhZNkxYQXc1Z0ZYMWUweTV5NXQxVmR3Ymg0V0NvWG1uVjZKQTRHWEd6ak91XzRWY2xnU2M3bUdIV1duOE02ekpz?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-16T05:38:00+00:00"
-    },
-    {
-      "t": "코스피 ‘변동성’ 단일종목 레버리지, 규제 후 35% 이상 하락",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14MndDaDlqUTIzVFR4S3ZFMnFmdnJjSzUzQmZJc0N6X3hrZm1ibVlNVGlHN2ZPbFlxTnVEeHFReFBEV3hkNVNCNFd4NFlJX0ZCTzVnSTk2NkZtcGRhRG53ZktiZWtXVHdkdGNnU1BtVUVtS2U4bmfSAWZBVV95cUxOR3ZfbElGZUMwRlNtSkpTenJJREgybkYtMUhRclczb2F5WkVyMUROUEVEVy13X0t6dnpKenVCM0ZKUDBXdzBFX0VWZmwzXzZKcTZ6MUcwNXVtb3U3V3JRM2pONGlFcVE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-16T05:33:19+00:00"
     }
   ],
   "asof": {},
