@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T11:15:29+00:00",
-  "quotesAt": "2026-08-16T11:15:29+00:00",
-  "newsAt": "2026-08-16T11:15:29+00:00",
+  "fetchedAt": "2026-08-16T11:30:29+00:00",
+  "quotesAt": "2026-08-16T11:30:29+00:00",
+  "newsAt": "2026-08-16T11:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,16 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "'투자 압박'에 미국행…'1호 투자·관세' 논의 속도?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nSDNObXgyTnJwX2haVFlKdmF5THdPMXFEbU12Nkx1dlFCSWFUS2llaHNoRVpBOHhhdE5valN4WU5lNTg3ZnQ1SXA4cklkVEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T11:18:05+00:00"
+    },
+    {
+      "t": "보름 만에 34% 반등한 코스닥, 수익률 ‘세계 주요 증시 1위’",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGwxU1liclpldnRCX2hQcEI3RnVTd005SktDQ1haTjhCLTA1VXl0c0FmbjBBdnBFVTltU0lzaWtqbm9QWnhPNTIzRlRmTE80dHZlelFBeUNWSHRyUjN5a2dySjVlUXNFNHFTR0JaQzlsNmJ0ZlBseGhxN0c3a2JlZWlTMTFFWnBrQnJlMzVEaEkzSUlJdUZFel9PN3pKSDNsRUkyYm5RZjRKQdIBX0FVX3lxTE9yU056cURZUlhVbkljZVVpSm9RdW5qaWVyRWlkekJNWUV3Zk5zdW5WQzVtc1VXN3hLOVZYTldvOTluYlJKQ1dDT25tOUE3WUY3c0RYTm5jSnhrblRuOFk0?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-16T11:13:00+00:00"
+    },
+    {
       "t": "반도체 반등에 또 '빚투'⋯삼전닉스 신용잔고 '쑥'",
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yUjJVNUdyRXNYZTdPNWNXUUJYU1ZGQWRUYTUtbWpVMlN5MXdWdjNpaTBOM3VKeFdDN204SmJsSW1TcHJsRnNyU0c1RQ?oc=5",
       "s": "아이뉴스24",
       "d": "2026-08-16T10:36:26+00:00"
-    },
-    {
-      "t": "부울경 산업 전기료 10%↓…반도체 기업 올까",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXJoUkJDN0s0ZkpvUjdGNjB5TmkwU2xhYlJoektfemdtMjdxbEQwdkJOY0JGNVdVWjZLVGdZcEhQWmNjUXdWV2YwUl9jZzRnaV9oLUJMVC05V0NjdnhZYVdrcnhUal9PUGd6LUxhVDhpdlhVN0s4RXRGWThVZ3hwSzJTUEZMM1dlYy1SU04tcF9MZEk?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-16T10:32:00+00:00"
     },
     {
       "t": "너도나도 국장열차 1년… 환호와 비명의 질주",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR2h0aTdOUjd4VTF4SjJ3X09pVGlIZTVVNjVJSVRrX0k3Z1lqamZNRGpIUnB0Qlg0aHZjc25DcjFTU0xDOTI0TVJZbGRjY3U0WmItTUtR?oc=5",
       "s": "중앙일보",
       "d": "2026-08-16T09:13:32+00:00"
-    },
-    {
-      "t": "[단독] \"수주물량 70%가 반도체\"…공작기계 공장 '풀가동'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQmVLeXdCZWNic3VLbkd4bGdaUTBVZXo5VVhuaUNjSnhnUDBEREl0dWNWcDZSSW9jUGZNMmJSeVJMamRyZFNGN2FhLTJ1eUo0MnpBTGV2UWdFZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-16T09:12:44+00:00"
     }
   ],
   "asof": {},
