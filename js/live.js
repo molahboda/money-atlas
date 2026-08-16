@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T16:30:29+00:00",
-  "quotesAt": "2026-08-16T16:30:29+00:00",
-  "newsAt": "2026-08-16T16:30:29+00:00",
+  "fetchedAt": "2026-08-16T16:45:29+00:00",
+  "quotesAt": "2026-08-16T16:45:29+00:00",
+  "newsAt": "2026-08-16T16:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -61,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-08-16T15:42:05+00:00"
     },
     {
-      "t": "중국에 눈뜨고 당했다…한국 '검은 반도체' 심상치 않은 위기",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FX1RaQ1cwRVdmUk9FRzNINk11eEpjc0FIRUhPR2ZJaVJtZGtDbXNaQ094ZkJaVE4tQk5OcnBXcE15Z2U3MkhQV1dGQ2Y3bWdfWHpxTnJEanZTZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-16T15:31:00+00:00"
-    },
-    {
       "t": "금리·연체율 오르는데…가계빚 첫 2000조",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HcEZ3czJEemItTkVBVHhMV0NpUTdXdDlXNlMtSkdUOTFSV2xrS1FrcHNXYl9OSXlCZWtPckd6WWJrVTlaUVhBY2RvSXIyYnM?oc=5",
       "s": "v.daum.net",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0Z2UzN2b3hEeTRMSDdib045QnpSYU1SRU1sU202M3FIYnJib1g5Nlp6YzZJMXJEMktnaE1KWGJuVnRvbUMxMzl4VW53LVpoaS1qTC1mYmJZVnF0SjNRMVlYREJJei1TWkQ3NmM3cUFyZ2Z3cm5vbUNHU1EtUnpSVE9uaGc?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-16T15:00:00+00:00"
+    },
+    {
+      "t": "[사설]中 파운드리 ‘투톱’ 최대 실적… 2위마저 위협받는 韓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STUlxWlppRzhFdUlGNHh2akZYRzRvY0lDalZ6d0w5aUctb0RULWRuN1NETU5sc0Q2dnJpYi0xZzRlcWlZZ1RwLXl1cWI1Q2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T14:28:51+00:00"
     }
   ],
   "asof": {},
