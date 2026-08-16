@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T07:30:29+00:00",
-  "quotesAt": "2026-08-16T07:30:29+00:00",
-  "newsAt": "2026-08-16T07:30:29+00:00",
+  "fetchedAt": "2026-08-16T07:45:29+00:00",
+  "quotesAt": "2026-08-16T07:45:29+00:00",
+  "newsAt": "2026-08-16T07:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“美 증시, 도박판”...워런 버핏 '일침'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUWwxbUZaQ3FjRFZTaHlLOWZ2Z1RYeThxMUNLc3MyZ0hqUWNOa19VbDBzNjBGR2k3SUFZVWJDSmd4WnVNQ1E4QWM5bEx0ODQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T07:32:51+00:00"
+    },
+    {
+      "t": "대미투자·관세 압박에 통상수장 공백까지…김정관, 예정 없던 긴급 방미",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03S3JXLVdxdE9KNXRSdTlNblVXdzNBYXk1Ylg0UWJfck5JSEFPb0JkYThud1dXMVpKSTM5MjhkZEFVX0ZMb2ZFc1ZSTVRUaEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T07:28:45+00:00"
+    },
+    {
       "t": "트럼프, 이란전 목표 후퇴 하나…\"비핵화 대신 유가 안정\" 분석",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVkJGTGJkeC1XSXFxT3dMUFFhelhLS201ZG5hNTZpM2F3cnNSQXdWUFZ2OVhJXzlwNjdZOUlZUEM5Qms4eDVhZEE1RVVyU3ZMWFVreUp4T3FEcTVRX3JCeQ?oc=5",
       "s": "KBC광주방송",
@@ -43,16 +55,16 @@ window.LIVE_DATA = {
       "d": "2026-08-16T07:15:41+00:00"
     },
     {
+      "t": "‘유가 안정’이 ‘비핵화’ 보다 앞선다?…슬금슬금 이란전 목표 축소하는 美",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tUzNNbmt0aVZPZ3lvOXFSdm1ZQlZScm5nYXdyRW52Zml5MVFpM2l0RThmLVZkSlNpRFZoRkwxaGdOMDE3VFMtcE4yTFFZb0xSWl9Db0Nn?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-08-16T07:03:40+00:00"
+    },
+    {
       "t": "美 이란전 목표 비핵화서 유가 안정으로…전쟁 장기화에 수위 낮춰",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwcGlQdmRvTk83ejB6aTFSbkphbFExUlFDZW13bFkxbmhSckdvbjY2X25lWHV5SGp4ZHRGRzhMNW9uS2ZNUmpkN3VKZTBsTC1lTjRQcC1GNEhzd9IBWEFVX3lxTFBfZXUxV3VMVl9fc1l5ZW5ETzlJS3Y0NUNIX1BMN3JxZU85b1NVZHhrNTdCS2dNWklEdlE4emY4R3h6NXBOZ211LXVzdWgxa1ZodU1HWm51Zkc?oc=5",
       "s": "아주경제",
       "d": "2026-08-16T07:01:49+00:00"
-    },
-    {
-      "t": "미, 이란전 목표 ’비핵화’→’유가 안정’…전쟁 장기화에 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MVWxzSk9yUnRPMzhySUhaRnY0MmI0UUJUZUk3cEpRQjROMDZkejQ4a1Bza21PZm44cHY2RnI4NzEtaWxMUlNibkQzVU1yMnpseEtzaWVRMzV2Q1lzVERrQTdwNEF1NWc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-16T07:00:00+00:00"
     },
     {
       "t": "민주당 당권주자 경기 당심 공략…‘반도체·개혁·평화’ 3색 승부",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdFNUdDRhQTNscm90N2pHOVRpSW5WWlp6RDlFMGFqbkQtWmNfQnpVVGRSMk1XUWZNa3NKM2RNUWVLQkFZZjk0UjNSU09jbEQyRklmZjFfTjFuNFpoSzhtcU0yLWZleHZxSlEyc0RtYjdQQ3BtVkJn?oc=5",
       "s": "하이뉴스",
       "d": "2026-08-16T06:54:21+00:00"
-    },
-    {
-      "t": "김정관 산업장관 미국행…대미투자·관세 논의",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZ1BwaU14YmkxWjd1eFFFb3FDbGotNUVSaDVEbTl4dUl4WVQ5Z2pOcDRvclIwdGJTaFZzNENBNDhrR1JiWmwzLTgxSUoyNTA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T06:49:53+00:00"
-    },
-    {
-      "t": "삼성전자 목표가 30만부터 65만원까지…반도체 전망 ‘극과 극’",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrZXhIWFRJMkxWOXcxdjYzWTZUSTlnaFFLMFhSMUR6NDY0dFdpMWlGZVRlOWY4eFpmQjl3dlZNLU04QTdmalJla1IyRzkyRnVGaUI2Rm51MGFveHo0ZG1nUHNn?oc=5",
-      "s": "미주중앙일보",
-      "d": "2026-08-16T06:34:00+00:00"
     }
   ],
   "asof": {},
