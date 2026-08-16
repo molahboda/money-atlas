@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T16:00:29+00:00",
-  "quotesAt": "2026-08-16T16:00:29+00:00",
-  "newsAt": "2026-08-16T16:00:29+00:00",
+  "fetchedAt": "2026-08-16T16:15:29+00:00",
+  "quotesAt": "2026-08-16T16:15:29+00:00",
+  "newsAt": "2026-08-16T16:15:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,16 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "물가상승 둔화에도 체감 부담 여전",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sME1mRnlFWTJjNHdGelRvVC1XOGlIeER2RHBkMjJXV0I5d2E3X3kxaXF6U09SWk9hNXpwUEZGY0RielZ2YTFaa2RTZzhGcTJ4VWVyNmJVYWtDRG1CRTVITGhB?oc=5",
+      "s": "미주중앙일보",
+      "d": "2026-08-16T16:00:00+00:00"
+    },
+    {
       "t": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5",
       "s": "서울신문",
       "d": "2026-08-16T15:48:02+00:00"
-    },
-    {
-      "t": "김정관, 美 압박에 긴급 방미",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnp0akQwaFlhVFdoNjdZRThMbHhRNy1ETGs0eFRPTGNWMDF0UUdmYkNVMkRiZDV0Yy1DRDZfTXl2OGg0Vk5VWVA4aXhSaHFoNzBRM1JqNTJabXdDN3ViU2QtNHppRXVvNTV5cmYzaUlqUmVENnJpNi1BUzNwWVJtYnctZU9zeHYxd0d6U1RoSQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-16T15:48:00+00:00"
     },
     {
       "t": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
