@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T07:45:29+00:00",
-  "quotesAt": "2026-08-16T07:45:29+00:00",
-  "newsAt": "2026-08-16T07:45:29+00:00",
+  "fetchedAt": "2026-08-16T08:00:29+00:00",
+  "quotesAt": "2026-08-16T08:00:29+00:00",
+  "newsAt": "2026-08-16T08:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "美 \"비핵화 대신 유가 안정\"…이란전 목표 점점 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxclV4MklmbkVFQmFURXVVcmtlNFBqblNvWUVCLUl6c0JVMlFYMXpKT0xUT3dsRmJVZzItbDY2LW1EZEhSclhGR0RjOHFDaW8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T07:45:00+00:00"
+    },
+    {
+      "t": "'비핵화'서 '유가안정'으로…트럼프, 이란전쟁 목표 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWV1ZHo3dndDTGFBUEUxSWRDQmwwcEtqVUpkV1prY0JjbWVic3VFa0JMeWFJd0ZsYmpzVm1COFFsTEl4SUJKb3ptX3ctT0RIcFZ4aTZBTFNhc29wbmUyT0FhalBoR2FyS1hxTkNhWERPMGp2M3JXMHJpeEVvd0IyWmhkaVJselJ4?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-16T07:44:06+00:00"
+    },
+    {
+      "t": "이달 주요국 1위 수익률에도 불안한 코스닥···삼전닉스 반등하면 상승세 꺾일라",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3MHJlVkpWX2dDRE1LcW5jTVc1VjVEWVZBMlF5R0xLeFBHLUxqUXdFRmFKMlhnTFVacjRTLVJ6dm1mWXhKaTdPUTZXQWNaNEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T07:41:27+00:00"
+    },
     {
       "t": "“美 증시, 도박판”...워런 버핏 '일침'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUWwxbUZaQ3FjRFZTaHlLOWZ2Z1RYeThxMUNLc3MyZ0hqUWNOa19VbDBzNjBGR2k3SUFZVWJDSmd4WnVNQ1E4QWM5bEx0ODQ?oc=5",
@@ -49,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-08-16T07:18:02+00:00"
     },
     {
-      "t": "'비핵화'에서 '유가 안정'으로…CNN \"트럼프, 이란전 목표 쪼그라들어\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yb1lndk0yeWpKc3lHUGxmOXM5Q0hnc3ByS3RzYUpzbzJodmh3TFRmY1E0NklKeFR6TDdrSW5vMWN0eVl3TUV2aTYtdnkyRnB1OGF3NVNJZWR0dk4yZnVkQQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-16T07:15:41+00:00"
-    },
-    {
       "t": "‘유가 안정’이 ‘비핵화’ 보다 앞선다?…슬금슬금 이란전 목표 축소하는 美",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tUzNNbmt0aVZPZ3lvOXFSdm1ZQlZScm5nYXdyRW52Zml5MVFpM2l0RThmLVZkSlNpRFZoRkwxaGdOMDE3VFMtcE4yTFFZb0xSWl9Db0Nn?oc=5",
       "s": "헤럴드경제",
@@ -62,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "美 이란전 목표 비핵화서 유가 안정으로…전쟁 장기화에 수위 낮춰",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwcGlQdmRvTk83ejB6aTFSbkphbFExUlFDZW13bFkxbmhSckdvbjY2X25lWHV5SGp4ZHRGRzhMNW9uS2ZNUmpkN3VKZTBsTC1lTjRQcC1GNEhzd9IBWEFVX3lxTFBfZXUxV3VMVl9fc1l5ZW5ETzlJS3Y0NUNIX1BMN3JxZU85b1NVZHhrNTdCS2dNWklEdlE4emY4R3h6NXBOZ211LXVzdWgxa1ZodU1HWm51Zkc?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfZXUxV3VMVl9fc1l5ZW5ETzlJS3Y0NUNIX1BMN3JxZU85b1NVZHhrNTdCS2dNWklEdlE4emY4R3h6NXBOZ211LXVzdWgxa1ZodU1HWm51ZkfSAVhBVV95cUxQX2V1MVd1TFZfX3NZeWVuRE85SUt2NDVDSF9QTDdycWVPOW9TVWR4azU3QktnTVpJRHZROHpmOEd4ejVwTmdtdS11c3VoMWtWaHVNR1pudWZH?oc=5",
       "s": "아주경제",
       "d": "2026-08-16T07:01:49+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QVDFwemJHbHU2el9iUTZUZWRmUTZOQ0NNQ1RMeE1tNXc4YjNZOTFCcDJhMHNoYlBSaEdpV1ZaRWJ4QTBHMGJEcVhWaWkyYVZIWHhoc0h1bHlkZFJKdTFCZnVIMlZ5dXRnV3pRTEZn?oc=5",
       "s": "중부일보",
       "d": "2026-08-16T06:58:36+00:00"
-    },
-    {
-      "t": "비트코인 8924만 원대 횡보, 물가 안정에도 투자 '관망 심리' 이어져",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wdHo4NzVFZEEzNDVGdGlJdnY3eWduZVc5OEVYMlNMYURHNUI0UWNPajZSeW5sNzlDQl9Ecl9ITHVueVFmamYzcXlDOXVDdzh4Q0w5aGkwU2JtZjRqWlYzTTE4Y0RBdjliWVZuNnREVC1PQms?oc=5",
-      "s": "비즈니스포스트",
-      "d": "2026-08-16T06:56:10+00:00"
-    },
-    {
-      "t": "파탄 이후 투자 성과도 부부 공동재산인가… SK 반도체 분할산정 쟁점 추적",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rdFNUdDRhQTNscm90N2pHOVRpSW5WWlp6RDlFMGFqbkQtWmNfQnpVVGRSMk1XUWZNa3NKM2RNUWVLQkFZZjk0UjNSU09jbEQyRklmZjFfTjFuNFpoSzhtcU0yLWZleHZxSlEyc0RtYjdQQ3BtVkJn?oc=5",
-      "s": "하이뉴스",
-      "d": "2026-08-16T06:54:21+00:00"
     }
   ],
   "asof": {},
