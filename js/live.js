@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T10:45:29+00:00",
-  "quotesAt": "2026-08-16T10:45:29+00:00",
-  "newsAt": "2026-08-16T10:45:29+00:00",
+  "fetchedAt": "2026-08-16T11:00:29+00:00",
+  "quotesAt": "2026-08-16T11:00:29+00:00",
+  "newsAt": "2026-08-16T11:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -35,12 +35,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXJoUkJDN0s0ZkpvUjdGNjB5TmkwU2xhYlJoektfemdtMjdxbEQwdkJOY0JGNVdVWjZLVGdZcEhQWmNjUXdWV2YwUl9jZzRnaV9oLUJMVC05V0NjdnhZYVdrcnhUal9PUGd6LUxhVDhpdlhVN0s4RXRGWThVZ3hwSzJTUEZMM1dlYy1SU04tcF9MZEk?oc=5",
       "s": "국제신문",
       "d": "2026-08-16T10:32:00+00:00"
-    },
-    {
-      "t": "[도청도설] 개미의 의심",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTVHdkFHM0pOcmE5MDlDTE5fTF9Ja01mQTREakE0YlhVczdwX2lfOEhxNGdtRHp3bVlmMnd0c1NLZDE1aHdqbGNtaHpVX21LdUVBNTNFSndEUE9oNUVrLUdiaUUzRDJNajR2b01IWWF5MkN4d244UEhONGMtUmtFSzNGRE8zUndyMzdKWXd3?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-16T09:39:00+00:00"
     },
     {
       "t": "\"미, 이란전 목표 점점 후퇴‥'비핵화'에서 '유가 안정'으로 축소\"",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQmVLeXdCZWNic3VLbkd4bGdaUTBVZXo5VVhuaUNjSnhnUDBEREl0dWNWcDZSSW9jUGZNMmJSeVJMamRyZFNGN2FhLTJ1eUo0MnpBTGV2UWdFZw?oc=5",
       "s": "한국경제",
       "d": "2026-08-16T09:12:44+00:00"
+    },
+    {
+      "t": "[사설]미 통상 압박 거세지는데 통상본부장 공백, 관세협상 차질 없어야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LdjY4Z3BvU01qSWxhZDc1ZjhaSnZ2SlBwMVlzWk43N0J3bW5nSGpsZkZRa2hKTGt5dU02WEcxRGJmSHVKNnRQR3VXNTVmSHllVWUtQUZGNFNGUdIBX0FVX3lxTE1DeGF3VWJZYXNQYzB5UE9zNVM2ZUpVZF9BeGcxZUtYR3ZBUUdhbkQ1SkcxTlhUSnR1Z2NCc0lldktwWDNjYlExUGwzT3F4UlAwWTZ4R1NoODBfalhqWjdV?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-16T09:10:00+00:00"
     }
   ],
   "asof": {},
