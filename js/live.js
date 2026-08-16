@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T10:00:29+00:00",
-  "quotesAt": "2026-08-16T10:00:29+00:00",
-  "newsAt": "2026-08-16T10:00:29+00:00",
+  "fetchedAt": "2026-08-16T10:15:29+00:00",
+  "quotesAt": "2026-08-16T10:15:29+00:00",
+  "newsAt": "2026-08-16T10:15:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-16T09:12:44+00:00"
     },
     {
+      "t": "[사설]미 통상 압박 거세지는데 통상본부장 공백, 관세협상 차질 없어야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LdjY4Z3BvU01qSWxhZDc1ZjhaSnZ2SlBwMVlzWk43N0J3bW5nSGpsZkZRa2hKTGt5dU02WEcxRGJmSHVKNnRQR3VXNTVmSHllVWUtQUZGNFNGUdIBX0FVX3lxTE1DeGF3VWJZYXNQYzB5UE9zNVM2ZUpVZF9BeGcxZUtYR3ZBUUdhbkQ1SkcxTlhUSnR1Z2NCc0lldktwWDNjYlExUGwzT3F4UlAwWTZ4R1NoODBfalhqWjdV?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-16T09:10:00+00:00"
+    },
+    {
       "t": "반도체 매도 폭풍 끝났나… 외국인 다시 삼전닉스 사들인다",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MzhGSmh5NV9xZ2R1Zkd1emJlcHBNTjlaWmJpaHdLNm1TallKdHVlTFFPNTQ0SURYTUJmS1hwQWs4eUhsUnZpMU1yU2NmbEhJbExTcXNCeDB6dw?oc=5",
       "s": "파이낸셜뉴스",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PS3JwdjJXaHdUcS0talpJME9URzNRaU5zUGdRaTlodG1heUtaUF9HYmNvQnNKN29lbWpCcklzLS1rTk1sWkVPLXdUS1p1d0FtYW4wM1B5MlLSAVRBVV95cUxQTEVXVFZ2QjI0YUhCbUFtVDZBaEcwaERSWlZ3WHl1dmFIU0Zxb3FBQi1DNnZOMU93MTlqZHlmODdRM2lDZDJndm1sSTV1ZzZjTWJQTms?oc=5",
       "s": "세계일보",
       "d": "2026-08-16T09:05:34+00:00"
-    },
-    {
-      "t": "가계빚 2000조원 돌파 확실시…금리 인상에 취약차주 비상",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDZWR1YnJycmlKZ19fbUY1eFRjUnhiazcwMHc4Vi1TZ3pweW5fN0pfaUk4VkJWYWhCcWFoTjlFbDYydGduRmI0ME1JWDdOcDVfZFBscV9rcHUtUQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-16T09:05:00+00:00"
     }
   ],
   "asof": {},
