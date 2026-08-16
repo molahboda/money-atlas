@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T17:15:29+00:00",
-  "quotesAt": "2026-08-16T17:15:29+00:00",
-  "newsAt": "2026-08-16T17:15:29+00:00",
+  "fetchedAt": "2026-08-16T17:30:29+00:00",
+  "quotesAt": "2026-08-16T17:30:29+00:00",
+  "newsAt": "2026-08-16T17:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -11,19 +11,25 @@ window.LIVE_DATA = {
     "krw": 1416.48,
     "gold": 4437.3,
     "wti": 82.4,
-    "dxy": 99.67
+    "dxy": 99.64
   },
   "daily": {
     "spx": 0.48,
     "kospi": 6.06,
     "nikkei": 0.59,
     "krw": 0,
-    "dxy": 0,
+    "dxy": -0.03,
     "gold": 1.3,
     "wti": 0,
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "산업장관 \"美관세 압박 받은 적 없어…대미투자 정리차 방미\"(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Z0lpdFZETkNtbTFmWEZQSUJKWG5qVzhOSUhnTU1mSTVSaTF5TG5vR1puSDJndnZMMmh5RXNnbk1RQzgxMFJoTGE5OW5tcEJxTURDY0RmbWzSAV5BVV95cUxOMGxlQ09TdTlEdUVHRnQtUFRqNjIzNC1KTEFxbVl5bUswLVZqdEZadHFtUmpwWGFZSmVlOE9UbmlrTGJQMFZpYWhQNHZvU0xZam85NG52T1hrR2o1YUVR?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-16T17:17:11+00:00"
+    },
     {
       "t": "통일선봉대 ‘호남 반도체 성사도, 한미연합훈련 반대 투쟁도 다 책임지자’",
       "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZmF2eDJMcloySzgyR1lMdFJ2OVNPelhFb1BSVW1meHFsSEplVWkxYlZWejRIZWhDOGRwS0lKZkxkNFU?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYS0zYUx1QmZHZ0k2cHctUk1ZYlVEQ19NRV83dTd6a3ZkUUpLRnpHQzJlVEtYSkZibURsLTR4LWZaYUY1eXZZU0w3aDhYRmszZVR3NXdwNHVsUnl5RTMxNTVyWVBTRklXcVRnWEdGZ3hPeUdUblBIazBHaHhpbmRrRm5qN0NCSWZqNmhfY2daSTN5STVxLUtj?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-16T15:46:14+00:00"
-    },
-    {
-      "t": "SK하이닉스(000660)",
-      "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVc4UUxKT3VJbzdadS1YZ0Q5SEdGS1dPSmRTakhabVBJQkRzTm51b0ZUdlVFUFZOU1E2V3lqcFU1NS02djZMS3hYUms1WXFsdUNtTDlFWlppTzRpelpQenh4TXdGaVlnbEEwYXRic0pzUTU2S0JQVWJlU183THNNUDBkTUtmSWcxYlFLUGJBSzd5a2xUbXhkUw?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-16T15:42:05+00:00"
     }
   ],
   "asof": {},
