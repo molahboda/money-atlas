@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T16:15:29+00:00",
-  "quotesAt": "2026-08-16T16:15:29+00:00",
-  "newsAt": "2026-08-16T16:15:29+00:00",
+  "fetchedAt": "2026-08-16T16:30:29+00:00",
+  "quotesAt": "2026-08-16T16:30:29+00:00",
+  "newsAt": "2026-08-16T16:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6%",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ianROUDN3R0EtaGN1RVg2M3hIaWNjYjk4OXU2T1hrcnRDUVh0akZOckdUZjEwb3ZkTV9MMGpJaVc5T1JlWTFEaWZEX04zN3c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T16:14:47+00:00"
+    },
     {
       "t": "물가상승 둔화에도 체감 부담 여전",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sME1mRnlFWTJjNHdGelRvVC1XOGlIeER2RHBkMjJXV0I5d2E3X3kxaXF6U09SWk9hNXpwUEZGY0RielZ2YTFaa2RTZzhGcTJ4VWVyNmJVYWtDRG1CRTVITGhB?oc=5",
@@ -71,12 +77,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQ1c4SGIwZktZakItU3dHZ0tzZnlMV3YwWlVQU1kyTkFoRGZtdW5lbl91NUVsUFJYbW03WWVrbWJzQlROSHJ4YmVtb1ByMk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-16T15:05:37+00:00"
-    },
-    {
-      "t": "'국장 귀환' 기대했는데…국내 ETF서 빠진 개미자금 해외로",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaQ2pJLXJ6QVR0dkFGMVJqRXRQTXNzOXJURklSOXQ5S3d4RnNiOWVZZmgxdWVHWDFmTXJHSW9CeG00VE5RYnd6M1VoLVYwa3pFYnhFX0pTSkUtMGRrMEdQTUtqUQ?oc=5",
-      "s": "더구루",
-      "d": "2026-08-16T15:00:54+00:00"
     },
     {
       "t": "[김대호 진단] 반도체 열전 (41) 퀄컴(Qualcomm) ...주머니속의 제국 \"스마트폰 AP 혁명\"",
