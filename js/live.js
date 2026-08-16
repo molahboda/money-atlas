@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T11:30:29+00:00",
-  "quotesAt": "2026-08-16T11:30:29+00:00",
-  "newsAt": "2026-08-16T11:30:29+00:00",
+  "fetchedAt": "2026-08-16T11:45:29+00:00",
+  "quotesAt": "2026-08-16T11:45:29+00:00",
+  "newsAt": "2026-08-16T11:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "'투자 압박'에 미국행…'1호 투자·관세' 논의 속도?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nSDNObXgyTnJwX2haVFlKdmF5THdPMXFEbU12Nkx1dlFCSWFUS2llaHNoRVpBOHhhdE5valN4WU5lNTg3ZnQ1SXA4cklkVEU?oc=5",
+      "t": "\"화요일 국장 비상\"?…삼성·SK하이닉스, 美 반도체주·ADR 보니",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbVJVUDJFWUpIblFTS0d0enlxTFpBbmhVRU1OTXdjQ1VxcUVPeGJMVmNJY0pxeU50QmlzbElMSEk0YkhNXzljbnU4ZE9vaGs?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-16T11:18:05+00:00"
+      "d": "2026-08-16T11:33:09+00:00"
+    },
+    {
+      "t": "'삼전닉스' 살아나자 코스피 7천 터치…다음주 안착 시험대",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVTNSUmVpWXZwNDliZTk5R3FtZEZsMnZqZ2pQUFhFbFVHdFRTS0sza0FpMlJoZFFHZ2hTcmN4SlI1M0lpQW5rS1Rfd1YxVzJuWlBnUTdWb05IWlBHd2ZyeFdjR09iVDdBUG5pSA?oc=5",
+      "s": "ER 이코노믹리뷰",
+      "d": "2026-08-16T11:28:35+00:00"
+    },
+    {
+      "t": "'투자 압박'에 미국행…'1호 투자·관세' 논의 속도?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzWjNhZ0xNbWw0OW9NTkUtUEZrM0NSSm1BbV81eW02WUlZWnhTMHFOOEZ0emFCelpZVXpIRG42QUU2akUxdFdJeGktU2Vicm4yMFQtcml2eVJDc2l4WDdZWnpubWMtRXBUcGfSAWZBVV95cUxPcWprYWJ0Mk9CS2RCWjJkNmpidk5fUmpKdmtqVDhWcXFjcWJhWDJhSDlka0hiZ2tZUzY0SlFKekdUeTV5R0dzOEFQeWQ0NE1KYmVkX0c1bDlUbHRjMWc1VlF1OXVhb2c?oc=5",
+      "s": "news.sbs.co.kr",
+      "d": "2026-08-16T11:15:00+00:00"
     },
     {
       "t": "보름 만에 34% 반등한 코스닥, 수익률 ‘세계 주요 증시 1위’",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92ZGZmLUN5Q01JcWloc3hFVmVkalJLdTVLdmVUVzhkN04zVG5ydno5WVptWkg4UGVSN1lZOGYxdkhBbk5FVTVaNE14dFo1d0E2UTZwZEs1SGFUbTF2V2liOFh5eVFFSm5rcE40VUxJc1ZhUDZjYUp2UGdn?oc=5",
       "s": "서울신문",
       "d": "2026-08-16T09:16:47+00:00"
-    },
-    {
-      "t": "\"반도체 경쟁 새로운 국면 진입… 韓, 中 활용하고 日 협력을\" [인터뷰]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaS05NkVBVTRfdXJGd04tWHVkVXRQSnozVkNWdVlfUU95cmxrSHl5S3pHZlk2Z0tVa2NUb2syNjlqQ2gzb3BDbE5OV3QwSFV4NlZSLXc1THVwUQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-16T09:15:24+00:00"
-    },
-    {
-      "t": "한미반도체 폭등 맞힌 ‘주식 타짜’ “다음 텐배거는 이 종목”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR2h0aTdOUjd4VTF4SjJ3X09pVGlIZTVVNjVJSVRrX0k3Z1lqamZNRGpIUnB0Qlg0aHZjc25DcjFTU0xDOTI0TVJZbGRjY3U0WmItTUtR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-16T09:13:32+00:00"
     }
   ],
   "asof": {},
