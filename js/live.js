@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T17:30:29+00:00",
-  "quotesAt": "2026-08-16T17:30:29+00:00",
-  "newsAt": "2026-08-16T17:30:29+00:00",
+  "fetchedAt": "2026-08-16T17:45:29+00:00",
+  "quotesAt": "2026-08-16T17:45:29+00:00",
+  "newsAt": "2026-08-16T17:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aWFN0d1RVLVdyZmZOMzFVMTBZdTJraHI2bDhqSTUtMHZ6U3ctdEtUTWpZXzJrTnJOT0syaXM0b041eXJ5d1FZNTAtLXdmRl83N0E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-16T17:25:37+00:00"
+    },
     {
       "t": "산업장관 \"美관세 압박 받은 적 없어…대미투자 정리차 방미\"(종합)",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Z0lpdFZETkNtbTFmWEZQSUJKWG5qVzhOSUhnTU1mSTVSaTF5TG5vR1puSDJndnZMMmh5RXNnbk1RQzgxMFJoTGE5OW5tcEJxTURDY0RmbWzSAV5BVV95cUxOMGxlQ09TdTlEdUVHRnQtUFRqNjIzNC1KTEFxbVl5bUswLVZqdEZadHFtUmpwWGFZSmVlOE9UbmlrTGJQMFZpYWhQNHZvU0xZam85NG52T1hrR2o1YUVR?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxbTZIYXlaOHZYa0w3bDJqaHZONFh0M25mbFN4WmF3YnU4XzVfeGgza2RHZnpueS1XM1d0d2ZTdEpfQVZycFdsSm0wTUpaWDI2dkhzMkZrSTFOU1g4ZmtPOFBvOElPSWJjQjczdndIQkduME1DbTBXMUp3?oc=5",
       "s": "서울신문",
       "d": "2026-08-16T15:47:54+00:00"
-    },
-    {
-      "t": "삼성전자(005930)",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYS0zYUx1QmZHZ0k2cHctUk1ZYlVEQ19NRV83dTd6a3ZkUUpLRnpHQzJlVEtYSkZibURsLTR4LWZaYUY1eXZZU0w3aDhYRmszZVR3NXdwNHVsUnl5RTMxNTVyWVBTRklXcVRnWEdGZ3hPeUdUblBIazBHaHhpbmRrRm5qN0NCSWZqNmhfY2daSTN5STVxLUtj?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-16T15:46:14+00:00"
     }
   ],
   "asof": {},
