@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T17:45:29+00:00",
-  "quotesAt": "2026-08-16T17:45:29+00:00",
-  "newsAt": "2026-08-16T17:45:29+00:00",
+  "fetchedAt": "2026-08-16T18:00:29+00:00",
+  "quotesAt": "2026-08-16T18:00:29+00:00",
+  "newsAt": "2026-08-16T18:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,9 +25,15 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"금리 1.75%까지 오른다\"...'돈까스 카레 지수' 달러당 62엔",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92aHRWaE5YMTRiSlVfSVM2Z0RCeDlOT3ltdVVWbm5EOHhnMUN0VlNZWHp5M0xkMXRJdTJPTDVyNHZKOUJIWkFGNGtMZEp4T2p1X1Bic1dkZ19qbi1lMFE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-16T17:26:00+00:00"
+    },
+    {
       "t": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aWFN0d1RVLVdyZmZOMzFVMTBZdTJraHI2bDhqSTUtMHZ6U3ctdEtUTWpZXzJrTnJOT0syaXM0b041eXJ5d1FZNTAtLXdmRl83N0E?oc=5",
-      "s": "매일경제 마켓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aXRwV2tCU3dyTF9YVHctMnA0cEtqb0FDX0RjVUNCemQ5d2dCRTF2aGxEcEd5NjBZblVwcmRmVmZrTnp0SDdlMEhTU0YxaTNOSVVKSUdSQW91TUXSAWBBVV95cUxOVE9iVFd1cmNpS1EzeWhIMGFQeGNYcXdiQ1o3X2NyXzdXcHZ6ekV6aFJidEs0V2J2TDRkenozQ0IyZlJ0Y1JOZmFwYXdqak16SGpHbXB3RzRjY2xnSVNqSEs?oc=5",
+      "s": "연합뉴스",
       "d": "2026-08-16T17:25:37+00:00"
     },
     {
@@ -59,12 +65,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QQzZvbkRRNUoyVFJXanhOcFRwa1NRMWlVSzRIZlV5NHhSNzZ6bm0xUm1xeWdSNFNJSHVLR0VidU1tczVZRE9iZUViNU5VQ3lsUDIyM1NCek3SAV5BVV95cUxQVXNsYmp4N0o5U29vT2ZxRFlzXzRoeEp4TXo4a2RhdmQ1VHltRlFmWVprd0IySGxOcUpsenR3TjNrYmRXckZyQU5FOXR0SzR4ZFZwRGNfNlZ3aHJMRGlR?oc=5",
       "s": "뉴스1",
       "d": "2026-08-16T16:39:31+00:00"
-    },
-    {
-      "t": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6%",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ianROUDN3R0EtaGN1RVg2M3hIaWNjYjk4OXU2T1hrcnRDUVh0akZOckdUZjEwb3ZkTV9MMGpJaVc5T1JlWTFEaWZEX04zN3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T16:14:47+00:00"
     },
     {
       "t": "물가상승 둔화에도 체감 부담 여전",
