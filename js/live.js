@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T12:15:29+00:00",
-  "quotesAt": "2026-08-16T12:15:29+00:00",
-  "newsAt": "2026-08-16T12:15:29+00:00",
+  "fetchedAt": "2026-08-16T12:30:29+00:00",
+  "quotesAt": "2026-08-16T12:30:29+00:00",
+  "newsAt": "2026-08-16T12:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "미국 투자 압박 속 통상 사령탑 공백…관세협상 위기 고조",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRm5LbVg0NXFhYm5uRzAwSjYwWkVaaGE3UWM3c1ZLUUk0WmxMMDlzODlvWGY4Nmg5VXd6WTJiMDRtWXVYUzVmWGM1bEFVU1lfeU1FSWZkWWxNQdIBX0FVX3lxTE9uUEl6UnNoTWZoTEY1OWJUR3k4RlB0SkdqMXlXU1llSy1RZktCRm8tX1phOHo2NU9lanEyUW13VEpBNXlETHlkOEpIQUIyTVhKanNvLTdiMjh6d2VGMlEw?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-16T12:25:00+00:00"
+    },
+    {
       "t": "'삼전닉스' 살아나자 코스피 7천 터치…다음주 안착 시험대",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVTNSUmVpWXZwNDliZTk5R3FtZEZsMnZqZ2pQUFhFbFVHdFRTS0sza0FpMlJoZFFHZ2hTcmN4SlI1M0lpQW5rS1Rfd1YxVzJuWlBnUTdWb05IWlBHd2ZyeFdjR09iVDdBUG5pSA?oc=5",
       "s": "ER 이코노믹리뷰",
@@ -32,15 +38,21 @@ window.LIVE_DATA = {
     },
     {
       "t": "'투자 압박'에 미국행…'1호 투자·관세' 논의 속도?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzWjNhZ0xNbWw0OW9NTkUtUEZrM0NSSm1BbV81eW02WUlZWnhTMHFOOEZ0emFCelpZVXpIRG42QUU2akUxdFdJeGktU2Vicm4yMFQtcml2eVJDc2l4WDdZWnpubWMtRXBUcGfSAWZBVV95cUxPcWprYWJ0Mk9CS2RCWjJkNmpidk5fUmpKdmtqVDhWcXFjcWJhWDJhSDlka0hiZ2tZUzY0SlFKekdUeTV5R0dzOEFQeWQ0NE1KYmVkX0c1bDlUbHRjMWc1VlF1OXVhb2c?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQk9Rc2xvUEdQNmdLaGtUTXNSdEhCTjBNckh0OGhKdUJzZDlqVmJta3A0RF9TbURsZjlZa1M3bUJaYkU3U2w5U2NmNVRpNTNpc2s5ZmowMnFULWVGM0MyUGxJLWR4WVhsMVZFSDk5cFlSenhfUjJKYUhYZTNsNVRGTG5Ld2lSd3lCU2tpYVUxemxYT05mMEE?oc=5",
       "s": "news.sbs.co.kr",
       "d": "2026-08-16T11:15:00+00:00"
     },
     {
       "t": "보름 만에 34% 반등한 코스닥, 수익률 ‘세계 주요 증시 1위’",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGwxU1liclpldnRCX2hQcEI3RnVTd005SktDQ1haTjhCLTA1VXl0c0FmbjBBdnBFVTltU0lzaWtqbm9QWnhPNTIzRlRmTE80dHZlelFBeUNWSHRyUjN5a2dySjVlUXNFNHFTR0JaQzlsNmJ0ZlBseGhxN0c3a2JlZWlTMTFFWnBrQnJlMzVEaEkzSUlJdUZFel9PN3pKSDNsRUkyYm5RZjRKQdIBX0FVX3lxTE9yU056cURZUlhVbkljZVVpSm9RdW5qaWVyRWlkekJNWUV3Zk5zdW5WQzVtc1VXN3hLOVZYTldvOTluYlJKQ1dDT25tOUE3WUY3c0RYTm5jSnhrblRuOFk0?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSb2w0UUFWYlJNeXo2aWNXMHE3bmdRNm1wZWRGSjFudERZenVuTmh4cVpLZGY1cThSeC1RZ2JwRDJtd0VNNTZWd0t0MkNlTm1fT3dRb0NTVTVwZw?oc=5",
       "s": "경향신문",
       "d": "2026-08-16T11:13:00+00:00"
+    },
+    {
+      "t": "＂27만전자·160만닉스 회복＂…5일 연속 오른 코스피, 이번주도 달릴까",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OTjBnczdhcE9BUmZqczloRGVwLW5kUXB5bDFUZW1CUlp3TVR3T01PVlNfNERmREdobXZyZHc0WmhaTXFBdjhIWkhsa0lNTjB2NXZQWFBvRm92c1B6blhCRkVheGh2VktQQUdtV3FMa3hGS1k?oc=5",
+      "s": "한국경제TV",
+      "d": "2026-08-16T10:42:00+00:00"
     },
     {
       "t": "반도체 반등에 또 '빚투'⋯삼전닉스 신용잔고 '쑥'",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VXNjWVhyZU5maEdTVXdHR2pmX0N2RGNhUnpEakhjX1daNWR4bXJkN0lIZTBIdjVpLUp6NDVCVGdWbndSQXJyWkRHV201Z0p2ekZZWDZjVjRiU0RkdFRqb0Z6TDI1ODdJc3FGY2xEVFZJMEtLYXRQY0xn?oc=5",
       "s": "서울신문",
       "d": "2026-08-16T09:16:56+00:00"
-    },
-    {
-      "t": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92ZGZmLUN5Q01JcWloc3hFVmVkalJLdTVLdmVUVzhkN04zVG5ydno5WVptWkg4UGVSN1lZOGYxdkhBbk5FVTVaNE14dFo1d0E2UTZwZEs1SGFUbTF2V2liOFh5eVFFSm5rcE40VUxJc1ZhUDZjYUp2UGdn?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-16T09:16:47+00:00"
-    },
-    {
-      "t": "\"반도체 경쟁 새로운 국면 진입… 韓, 中 활용하고 日 협력을\" [인터뷰]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaS05NkVBVTRfdXJGd04tWHVkVXRQSnozVkNWdVlfUU95cmxrSHl5S3pHZlk2Z0tVa2NUb2syNjlqQ2gzb3BDbE5OV3QwSFV4NlZSLXc1THVwUQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-16T09:15:24+00:00"
     }
   ],
   "asof": {},
