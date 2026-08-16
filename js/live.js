@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T14:30:29+00:00",
-  "quotesAt": "2026-08-16T14:30:29+00:00",
-  "newsAt": "2026-08-16T14:30:29+00:00",
+  "fetchedAt": "2026-08-16T14:45:29+00:00",
+  "quotesAt": "2026-08-16T14:45:29+00:00",
+  "newsAt": "2026-08-16T14:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "[사설]中 파운드리 ‘투톱’ 최대 실적… 2위마저 위협받는 韓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STUlxWlppRzhFdUlGNHh2akZYRzRvY0lDalZ6d0w5aUctb0RULWRuN1NETU5sc0Q2dnJpYi0xZzRlcWlZZ1RwLXl1cWI1Q2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T14:28:51+00:00"
+    },
     {
       "t": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FdmhrYkJlR1Fxckh0QlhqMk1PNnJMUXU1THVadEs1eG9fTy1hMG9iRlVtZ3VXS3o5VWZiSGJGbGhFRG9MTUY3eHNiVmxIbE0?oc=5",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-16T12:27:00+00:00"
     },
     {
+      "t": "\"미, 이란전 목표 점점 후퇴‥'비핵화'에서 '유가 안정'으로 축소\" |",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42LWRTWWQ4cnp5MldRcy1ibkVMQzNxV294M1Z4U1FoaExFb1M0eXNTZHY5dHV2R1NOUXlTaUVFRU1IQlJyQzgyTXlERnZFTS1ENTlTVVdFd2k2T2RUUE1zRDYxZWFPRi1JZkRaaTlqVlQ?oc=5",
+      "s": "데일리굿뉴스",
+      "d": "2026-08-16T12:17:50+00:00"
+    },
+    {
       "t": "이란전 목표 점점 후퇴하는 美…＇비핵화＇→＇유가 안정＇으로 축소",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42djBfZFg1ZU5nSGpJeHVGSmQtMnJDU05jRlFXWXNORUJVa0k2NWVzYlVZOG9iMHBMUjdnbWMtVGMwMVFKMXA2WU1NZFRDVzhsUXNwVkNWMUloLW5wUWVXRldQVEM5Um9XZjlVMFJESGk5Rmc1XzRn?oc=5",
       "s": "한국경제TV",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQk9Rc2xvUEdQNmdLaGtUTXNSdEhCTjBNckh0OGhKdUJzZDlqVmJta3A0RF9TbURsZjlZa1M3bUJaYkU3U2w5U2NmNVRpNTNpc2s5ZmowMnFULWVGM0MyUGxJLWR4WVhsMVZFSDk5cFlSenhfUjJKYUhYZTNsNVRGTG5Ld2lSd3lCU2tpYVUxemxYT05mMEE?oc=5",
       "s": "news.sbs.co.kr",
       "d": "2026-08-16T11:15:00+00:00"
-    },
-    {
-      "t": "보름 만에 34% 반등한 코스닥, 수익률 ‘세계 주요 증시 1위’",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yU056cURZUlhVbkljZVVpSm9RdW5qaWVyRWlkekJNWUV3Zk5zdW5WQzVtc1VXN3hLOVZYTldvOTluYlJKQ1dDT25tOUE3WUY3c0RYTm5jSnhrblRuOFk00gFfQVVfeXFMT3JTTnpxRFlSWFVuSWNlVWlKb1F1bmppZXJFaWR6Qk1ZRXdmTnN1blZDNW1zVVc3eEs5VlhOV285OW5iUkpDV0NPbm05QTdZRjdzRFhObmNKeGtuVG44WTQ?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-16T11:13:00+00:00"
-    },
-    {
-      "t": "＂27만전자·160만닉스 회복＂…5일 연속 오른 코스피, 이번주도 달릴까",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWWpsUkhTZXlMZjFfZkRua1lGOGdhSW8xWUxVYjJ5SEY4Rzhhd3VtenpjM0tuQ2RvYWRQYUZ4aU1MU2lkaHhRSWZGb2I4cHIzYW1rWWhfUVdLcjc1Wm8wYVl6NldkemYwTlA4R2RWMU5Td1U2RHJz?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-16T10:42:00+00:00"
     }
   ],
   "asof": {},
