@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T06:15:29+00:00",
-  "quotesAt": "2026-08-16T06:15:29+00:00",
-  "newsAt": "2026-08-16T06:15:29+00:00",
+  "fetchedAt": "2026-08-16T06:30:29+00:00",
+  "quotesAt": "2026-08-16T06:30:29+00:00",
+  "newsAt": "2026-08-16T06:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "산업장관 긴급 방미…대미 투자·관세 논의",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oYVBPdEdGUWEtM29CMVp6cm5wV25FRGtOczlIMmpodnRiV1V4bGVuV0hGeDNRWHZ1MlAwdE5WdndBMzhaLWU1Q2NqQW9OOHYxMlBhdG84WHUwcE4y?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-16T06:17:00+00:00"
+    },
     {
       "t": "주담대·증시 빚투 급증…가계빚 사상 첫 2천조 돌파 전망",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hVGZPTzhMeFBpc20ySm14RWtDUVBqYkt3OEVyNjhLWDlGNEdHMl9KclN4bVFFRHRBai1ROEI4bHQyTlpTQTV5RDNhWDBoNFNoYVpaTERiaXA3bmFV?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14MndDaDlqUTIzVFR4S3ZFMnFmdnJjSzUzQmZJc0N6X3hrZm1ibVlNVGlHN2ZPbFlxTnVEeHFReFBEV3hkNVNCNFd4NFlJX0ZCTzVnSTk2NkZtcGRhRG53ZktiZWtXVHdkdGNnU1BtVUVtS2U4bmfSAWZBVV95cUxOR3ZfbElGZUMwRlNtSkpTenJJREgybkYtMUhRclczb2F5WkVyMUROUEVEVy13X0t6dnpKenVCM0ZKUDBXdzBFX0VWZmwzXzZKcTZ6MUcwNXVtb3U3V3JRM2pONGlFcVE?oc=5",
       "s": "동아일보",
       "d": "2026-08-16T05:33:19+00:00"
-    },
-    {
-      "t": "반도체 강조한 김민석, 부동산 공급 꺼낸 정청래… 경기 맞춤형 '현안'으로 맞대결",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEQkJKTTZRSGtXSkJNOV9TbkZWSDhWWnZtUU9IOTd0TU9OSVU1NGwya3JxdFl0SWNuU2x5SUFOeWNkRUd4UTUwaDd5b1Z6VWk0dXF5U1pHWUJuWVV5VTV3NEtJNGozWm8zQ1lPbnZR0gFzQVVfeXFMTktmWnlpWm1sMlROcV9ZdkRmRFVGN0tLMDMwSVpqUXNOWk1kd1R0NU9Wa3hvWGx3ZmJNenFHNDNYQnFyemtfUWc0c3VaOTZyN0FNZkdiOVVaUFl5dzZqQXpodDJjdzA0VzIwRDJEV2R0NXpTYw?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-16T05:33:00+00:00"
     }
   ],
   "asof": {},
