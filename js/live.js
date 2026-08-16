@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T14:00:29+00:00",
-  "quotesAt": "2026-08-16T14:00:29+00:00",
-  "newsAt": "2026-08-16T14:00:29+00:00",
+  "fetchedAt": "2026-08-16T14:15:30+00:00",
+  "quotesAt": "2026-08-16T14:15:30+00:00",
+  "newsAt": "2026-08-16T14:15:30+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
     "nikkei": 68713.8,
     "vix": 14.25,
-    "krw": 1412,
+    "krw": 1416.48,
     "gold": 4437.3,
     "wti": 82.4,
     "dxy": 99.64
@@ -17,13 +17,19 @@ window.LIVE_DATA = {
     "spx": 0.48,
     "kospi": 6.06,
     "nikkei": 0.59,
-    "krw": -0.31,
+    "krw": 0,
     "dxy": -0.03,
     "gold": 1.3,
     "wti": 0,
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FdmhrYkJlR1Fxckh0QlhqMk1PNnJMUXU1THVadEs1eG9fTy1hMG9iRlVtZ3VXS3o5VWZiSGJGbGhFRG9MTUY3eHNiVmxIbE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T14:06:02+00:00"
+    },
     {
       "t": "물가상승률 고착화, 경기 회복의 발목 잡을 우려 드러나",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85eUFWX21MTmpTb2ItV2ltejlsazVwWHhrOE1RbDhBb1p5RGdvS01zb1U0ZXFWM0p4TElmbjFBMHd0WWZkRlhwd3FOQmgzUU1qTWFFTG1PaTdSTkhxcGE5eDUwa3hRN3M?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yUjJVNUdyRXNYZTdPNWNXUUJYU1ZGQWRUYTUtbWpVMlN5MXdWdjNpaTBOM3VKeFdDN204SmJsSW1TcHJsRnNyU0c1RQ?oc=5",
       "s": "아이뉴스24",
       "d": "2026-08-16T10:36:26+00:00"
-    },
-    {
-      "t": "부울경 산업 전기료 10%↓…반도체 기업 올까",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblRLVUxyb3hnRFZ1YXd4Q2UxWmdYZDZXamRrTE1HRGR3ZVdMbUJLY1JXRS1MdFU5eEkxU0l5akh1VkdEMnFsUC1LeHpUeGtURHpxaEZHNXNMM3B0N3BSTkFsUWxzSFphTGkxd3dwSjBTMEZab0RLSnMxNXhOZV9QVHlvN2RTSy1raWxmc19R?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-16T10:32:00+00:00"
     }
   ],
   "asof": {},
