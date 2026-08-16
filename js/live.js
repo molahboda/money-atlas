@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T15:30:29+00:00",
-  "quotesAt": "2026-08-16T15:30:29+00:00",
-  "newsAt": "2026-08-16T15:30:29+00:00",
+  "fetchedAt": "2026-08-16T15:45:29+00:00",
+  "quotesAt": "2026-08-16T15:45:29+00:00",
+  "newsAt": "2026-08-16T15:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "SK하이닉스(000660)",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWdnZWpHVU00RVN6ZEZWR1NSbEhoQmk5OGVBcTR5NVM1VWVPTW1feUVCUHNudTRkXzlRSTV3cjJRVTZ1eXk2eXpCenV4UUZsWWNaNlVHX21zMm5PY0N4ZWI4VF9RSE1YWHFvTUJnVUJyWEtOUGtZZGpjUERVcEZWZUlDVjN2NHRiQ1hqTzZac2lXNjVSamJF?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-16T15:42:05+00:00"
+    },
     {
       "t": "금리·연체율 오르는데…가계빚 첫 2000조",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HcEZ3czJEemItTkVBVHhMV0NpUTdXdDlXNlMtSkdUOTFSV2xrS1FrcHNXYl9OSXlCZWtPckd6WWJrVTlaUVhBY2RvSXIyYnM?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42LWRTWWQ4cnp5MldRcy1ibkVMQzNxV294M1Z4U1FoaExFb1M0eXNTZHY5dHV2R1NOUXlTaUVFRU1IQlJyQzgyTXlERnZFTS1ENTlTVVdFd2k2T2RUUE1zRDYxZWFPRi1JZkRaaTlqVlQ?oc=5",
       "s": "데일리굿뉴스",
       "d": "2026-08-16T12:17:50+00:00"
-    },
-    {
-      "t": "이란전 목표 점점 후퇴하는 美…＇비핵화＇→＇유가 안정＇으로 축소",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42djBfZFg1ZU5nSGpJeHVGSmQtMnJDU05jRlFXWXNORUJVa0k2NWVzYlVZOG9iMHBMUjdnbWMtVGMwMVFKMXA2WU1NZFRDVzhsUXNwVkNWMUloLW5wUWVXRldQVEM5Um9XZjlVMFJESGk5Rmc1XzRn?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-16T11:53:00+00:00"
     }
   ],
   "asof": {},
