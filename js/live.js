@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T10:30:29+00:00",
-  "quotesAt": "2026-08-16T10:30:29+00:00",
-  "newsAt": "2026-08-16T10:30:29+00:00",
+  "fetchedAt": "2026-08-16T10:45:29+00:00",
+  "quotesAt": "2026-08-16T10:45:29+00:00",
+  "newsAt": "2026-08-16T10:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -2.6
   },
   "news": [
+    {
+      "t": "반도체 반등에 또 '빚투'⋯삼전닉스 신용잔고 '쑥'",
+      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yUjJVNUdyRXNYZTdPNWNXUUJYU1ZGQWRUYTUtbWpVMlN5MXdWdjNpaTBOM3VKeFdDN204SmJsSW1TcHJsRnNyU0c1RQ?oc=5",
+      "s": "아이뉴스24",
+      "d": "2026-08-16T10:36:26+00:00"
+    },
+    {
+      "t": "부울경 산업 전기료 10%↓…반도체 기업 올까",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXJoUkJDN0s0ZkpvUjdGNjB5TmkwU2xhYlJoektfemdtMjdxbEQwdkJOY0JGNVdVWjZLVGdZcEhQWmNjUXdWV2YwUl9jZzRnaV9oLUJMVC05V0NjdnhZYVdrcnhUal9PUGd6LUxhVDhpdlhVN0s4RXRGWThVZ3hwSzJTUEZMM1dlYy1SU04tcF9MZEk?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-16T10:32:00+00:00"
+    },
     {
       "t": "[도청도설] 개미의 의심",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTVHdkFHM0pOcmE5MDlDTE5fTF9Ja01mQTREakE0YlhVczdwX2lfOEhxNGdtRHp3bVlmMnd0c1NLZDE1aHdqbGNtaHpVX21LdUVBNTNFSndEUE9oNUVrLUdiaUUzRDJNajR2b01IWWF5MkN4d244UEhONGMtUmtFSzNGRE8zUndyMzdKWXd3?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GQmVLeXdCZWNic3VLbkd4bGdaUTBVZXo5VVhuaUNjSnhnUDBEREl0dWNWcDZSSW9jUGZNMmJSeVJMamRyZFNGN2FhLTJ1eUo0MnpBTGV2UWdFZw?oc=5",
       "s": "한국경제",
       "d": "2026-08-16T09:12:44+00:00"
-    },
-    {
-      "t": "반도체 매도 폭풍 끝났나… 외국인 다시 삼전닉스 사들인다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MzhGSmh5NV9xZ2R1Zkd1emJlcHBNTjlaWmJpaHdLNm1TallKdHVlTFFPNTQ0SURYTUJmS1hwQWs4eUhsUnZpMU1yU2NmbEhJbExTcXNCeDB6dw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-16T09:09:26+00:00"
-    },
-    {
-      "t": "전공정·장비주 활약에 ‘반도체 ETF’ 수익률 톱10 휩쓸어 [ETF 스퀘어]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsTWw3Y3dNMDhjM3hJWmxPZmh1X1AxZHhRWTA1YWptenJHX0dqcFJ0a28xRDV1c3hwLXNrVGdHU3UzTXlKOTVIQ0dQRkFiRDBmaDNINE9XUl9iZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-16T09:07:33+00:00"
     }
   ],
   "asof": {},
