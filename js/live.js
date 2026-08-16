@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T12:45:29+00:00",
-  "quotesAt": "2026-08-16T12:45:29+00:00",
-  "newsAt": "2026-08-16T12:45:29+00:00",
+  "fetchedAt": "2026-08-16T13:00:29+00:00",
+  "quotesAt": "2026-08-16T13:00:29+00:00",
+  "newsAt": "2026-08-16T13:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -37,12 +37,6 @@ window.LIVE_DATA = {
       "d": "2026-08-16T12:27:00+00:00"
     },
     {
-      "t": "[사설] 美 관세 압박 속 통상 수장 경질, 국익 훼손 없도록",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2Y1V08xZUd6REdxdmxOUVZ4SEpNZEhKM2sycmlPYzY3WjJaMjRGdjk4TEQ2dDh1eHp5aTM0aVh6T1U2VC04UUlUOEhGSmFFV1dOSzkyc0JiZk9IVXZORlJGSTAtaENLVVlZWEVLUHhKTThJREhkR1ZXRHpqaFM5emV3?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-16T11:35:08+00:00"
-    },
-    {
       "t": "'삼전닉스' 살아나자 코스피 7천 터치…다음주 안착 시험대",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVTNSUmVpWXZwNDliZTk5R3FtZEZsMnZqZ2pQUFhFbFVHdFRTS0sza0FpMlJoZFFHZ2hTcmN4SlI1M0lpQW5rS1Rfd1YxVzJuWlBnUTdWb05IWlBHd2ZyeFdjR09iVDdBUG5pSA?oc=5",
       "s": "ER 이코노믹리뷰",
@@ -50,19 +44,19 @@ window.LIVE_DATA = {
     },
     {
       "t": "'투자 압박'에 미국행…'1호 투자·관세' 논의 속도?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzWjNhZ0xNbWw0OW9NTkUtUEZrM0NSSm1BbV81eW02WUlZWnhTMHFOOEZ0emFCelpZVXpIRG42QUU2akUxdFdJeGktU2Vicm4yMFQtcml2eVJDc2l4WDdZWnpubWMtRXBUcGfSAWZBVV95cUxPcWprYWJ0Mk9CS2RCWjJkNmpidk5fUmpKdmtqVDhWcXFjcWJhWDJhSDlka0hiZ2tZUzY0SlFKekdUeTV5R0dzOEFQeWQ0NE1KYmVkX0c1bDlUbHRjMWc1VlF1OXVhb2c?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQk9Rc2xvUEdQNmdLaGtUTXNSdEhCTjBNckh0OGhKdUJzZDlqVmJta3A0RF9TbURsZjlZa1M3bUJaYkU3U2w5U2NmNVRpNTNpc2s5ZmowMnFULWVGM0MyUGxJLWR4WVhsMVZFSDk5cFlSenhfUjJKYUhYZTNsNVRGTG5Ld2lSd3lCU2tpYVUxemxYT05mMEE?oc=5",
       "s": "news.sbs.co.kr",
       "d": "2026-08-16T11:15:00+00:00"
     },
     {
       "t": "보름 만에 34% 반등한 코스닥, 수익률 ‘세계 주요 증시 1위’",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGwxU1liclpldnRCX2hQcEI3RnVTd005SktDQ1haTjhCLTA1VXl0c0FmbjBBdnBFVTltU0lzaWtqbm9QWnhPNTIzRlRmTE80dHZlelFBeUNWSHRyUjN5a2dySjVlUXNFNHFTR0JaQzlsNmJ0ZlBseGhxN0c3a2JlZWlTMTFFWnBrQnJlMzVEaEkzSUlJdUZFel9PN3pKSDNsRUkyYm5RZjRKQdIBX0FVX3lxTE9yU056cURZUlhVbkljZVVpSm9RdW5qaWVyRWlkekJNWUV3Zk5zdW5WQzVtc1VXN3hLOVZYTldvOTluYlJKQ1dDT25tOUE3WUY3c0RYTm5jSnhrblRuOFk0?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSb2w0UUFWYlJNeXo2aWNXMHE3bmdRNm1wZWRGSjFudERZenVuTmh4cVpLZGY1cThSeC1RZ2JwRDJtd0VNNTZWd0t0MkNlTm1fT3dRb0NTVTVwZw?oc=5",
       "s": "경향신문",
       "d": "2026-08-16T11:13:00+00:00"
     },
     {
       "t": "＂27만전자·160만닉스 회복＂…5일 연속 오른 코스피, 이번주도 달릴까",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OTjBnczdhcE9BUmZqczloRGVwLW5kUXB5bDFUZW1CUlp3TVR3T01PVlNfNERmREdobXZyZHc0WmhaTXFBdjhIWkhsa0lNTjB2NXZQWFBvRm92c1B6blhCRkVheGh2VktQQUdtV3FMa3hGS1k?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWWpsUkhTZXlMZjFfZkRua1lGOGdhSW8xWUxVYjJ5SEY4Rzhhd3VtenpjM0tuQ2RvYWRQYUZ4aU1MU2lkaHhRSWZGb2I4cHIzYW1rWWhfUVdLcjc1Wm8wYVl6NldkemYwTlA4R2RWMU5Td1U2RHJz?oc=5",
       "s": "한국경제TV",
       "d": "2026-08-16T10:42:00+00:00"
     },
@@ -74,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "부울경 산업 전기료 10%↓…반도체 기업 올까",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblRLVUxyb3hnRFZ1YXd4Q2UxWmdYZDZXamRrTE1HRGR3ZVdMbUJLY1JXRS1MdFU5eEkxU0l5akh1VkdEMnFsUC1LeHpUeGtURHpxaEZHNXNMM3B0N3BSTkFsUWxzSFphTGkxd3dwSjBTMEZab0RLSnMxNXhOZV9QVHlvN2RTSy1raWxmc19R?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXJoUkJDN0s0ZkpvUjdGNjB5TmkwU2xhYlJoektfemdtMjdxbEQwdkJOY0JGNVdVWjZLVGdZcEhQWmNjUXdWV2YwUl9jZzRnaV9oLUJMVC05V0NjdnhZYVdrcnhUal9PUGd6LUxhVDhpdlhVN0s4RXRGWThVZ3hwSzJTUEZMM1dlYy1SU04tcF9MZEk?oc=5",
       "s": "국제신문",
       "d": "2026-08-16T10:32:00+00:00"
     },
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ISlZ5UTJmYzNrWDhIOWNTemNlRUJfNXhCNW1NLUY0eXotblpieWQ1bnVVZzI1RFJ0bE5Od2t2SHI4WjBGQmpmUWRPT0UtYU0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-16T10:20:09+00:00"
+    },
+    {
+      "t": "\"미, 이란전 목표 점점 후퇴‥'비핵화'에서 '유가 안정'으로 축소\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwY0ZDMmhBakIyWF9VTVVndmFMQmliQW5GellNT3doU1NGYm1jZ1I2ZGhtcUlLYWJQUjFmOUNodXAwUFdzdFRmb3VGNkxQVms?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T09:34:05+00:00"
     }
   ],
   "asof": {},
