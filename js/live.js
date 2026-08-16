@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T15:45:29+00:00",
-  "quotesAt": "2026-08-16T15:45:29+00:00",
-  "newsAt": "2026-08-16T15:45:29+00:00",
+  "fetchedAt": "2026-08-16T16:00:29+00:00",
+  "quotesAt": "2026-08-16T16:00:29+00:00",
+  "newsAt": "2026-08-16T16:00:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,40 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "상반기 ‘연봉킹’ 카뱅 윤호영 82억… 증시 활황에 한투 오너·사장 2·3위",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fYXpTbG5aYzBQRTVMQ2c1RG00VU1iRFRtTkhXakVNenY4bmNwTjlOaXZLUU84WHRUelVmY1I2ektPMTVHWlpUUDJiZTJCcU1jU3B4OElEOEpLT2ZIdWx5WVhWRmZGZEdKelFieHp6RmYyU3BmMU9YYUdB?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-16T15:48:02+00:00"
+    },
+    {
+      "t": "김정관, 美 압박에 긴급 방미",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnp0akQwaFlhVFdoNjdZRThMbHhRNy1ETGs0eFRPTGNWMDF0UUdmYkNVMkRiZDV0Yy1DRDZfTXl2OGg0Vk5VWVA4aXhSaHFoNzBRM1JqNTJabXdDN3ViU2QtNHppRXVvNTV5cmYzaUlqUmVENnJpNi1BUzNwWVJtYnctZU9zeHYxd0d6U1RoSQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-16T15:48:00+00:00"
+    },
+    {
+      "t": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxbTZIYXlaOHZYa0w3bDJqaHZONFh0M25mbFN4WmF3YnU4XzVfeGgza2RHZnpueS1XM1d0d2ZTdEpfQVZycFdsSm0wTUpaWDI2dkhzMkZrSTFOU1g4ZmtPOFBvOElPSWJjQjczdndIQkduME1DbTBXMUp3?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-16T15:47:54+00:00"
+    },
+    {
+      "t": "삼성전자(005930)",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYS0zYUx1QmZHZ0k2cHctUk1ZYlVEQ19NRV83dTd6a3ZkUUpLRnpHQzJlVEtYSkZibURsLTR4LWZaYUY1eXZZU0w3aDhYRmszZVR3NXdwNHVsUnl5RTMxNTVyWVBTRklXcVRnWEdGZ3hPeUdUblBIazBHaHhpbmRrRm5qN0NCSWZqNmhfY2daSTN5STVxLUtj?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-16T15:46:14+00:00"
+    },
+    {
       "t": "SK하이닉스(000660)",
       "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWdnZWpHVU00RVN6ZEZWR1NSbEhoQmk5OGVBcTR5NVM1VWVPTW1feUVCUHNudTRkXzlRSTV3cjJRVTZ1eXk2eXpCenV4UUZsWWNaNlVHX21zMm5PY0N4ZWI4VF9RSE1YWHFvTUJnVUJyWEtOUGtZZGpjUERVcEZWZUlDVjN2NHRiQ1hqTzZac2lXNjVSamJF?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-16T15:42:05+00:00"
+    },
+    {
+      "t": "중국에 눈뜨고 당했다…한국 '검은 반도체' 심상치 않은 위기",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FX1RaQ1cwRVdmUk9FRzNINk11eEpjc0FIRUhPR2ZJaVJtZGtDbXNaQ094ZkJaVE4tQk5OcnBXcE15Z2U3MkhQV1dGQ2Y3bWdfWHpxTnJEanZTZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-16T15:31:00+00:00"
     },
     {
       "t": "금리·연체율 오르는데…가계빚 첫 2000조",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-16T15:05:37+00:00"
     },
     {
+      "t": "'국장 귀환' 기대했는데…국내 ETF서 빠진 개미자금 해외로",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaQ2pJLXJ6QVR0dkFGMVJqRXRQTXNzOXJURklSOXQ5S3d4RnNiOWVZZmgxdWVHWDFmTXJHSW9CeG00VE5RYnd6M1VoLVYwa3pFYnhFX0pTSkUtMGRrMEdQTUtqUQ?oc=5",
+      "s": "더구루",
+      "d": "2026-08-16T15:00:54+00:00"
+    },
+    {
       "t": "[김대호 진단] 반도체 열전 (41) 퀄컴(Qualcomm) ...주머니속의 제국 \"스마트폰 AP 혁명\"",
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0Z2UzN2b3hEeTRMSDdib045QnpSYU1SRU1sU202M3FIYnJib1g5Nlp6YzZJMXJEMktnaE1KWGJuVnRvbUMxMzl4VW53LVpoaS1qTC1mYmJZVnF0SjNRMVlYREJJei1TWkQ3NmM3cUFyZ2Z3cm5vbUNHU1EtUnpSVE9uaGc?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "t": "[사설]中 파운드리 ‘투톱’ 최대 실적… 2위마저 위협받는 韓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STUlxWlppRzhFdUlGNHh2akZYRzRvY0lDalZ6d0w5aUctb0RULWRuN1NETU5sc0Q2dnJpYi0xZzRlcWlZZ1RwLXl1cWI1Q2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T14:28:51+00:00"
-    },
-    {
-      "t": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-16T14:05:30+00:00"
-    },
-    {
-      "t": "물가상승률 고착화, 경기 회복의 발목 잡을 우려 드러나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85eUFWX21MTmpTb2ItV2ltejlsazVwWHhrOE1RbDhBb1p5RGdvS01zb1U0ZXFWM0p4TElmbjFBMHd0WWZkRlhwd3FOQmgzUU1qTWFFTG1PaTdSTkhxcGE5eDUwa3hRN3M?oc=5",
-      "s": "M이코노미뉴스",
-      "d": "2026-08-16T12:52:38+00:00"
-    },
-    {
-      "t": "환율·유가 하락 영향 수입물가 두 달째 하락세... 반도체, 수출물가 ‘견인’",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IRVR3SGdpUVRSWUY2eGhqNTlqN0pjQmEzdTBISmlGeDlsVGdZSlItWHVWTnhIQkU2VjZQMnVDNVVoV1hwN3BKRmZUODJhbE5RVW1qM2JxZTdrUmZMc2dLMGg5TjBJdmZfeDl1VlJPdmd3VzA?oc=5",
-      "s": "충남일보",
-      "d": "2026-08-16T12:41:45+00:00"
-    },
-    {
-      "t": "미국 투자 압박 속 통상 사령탑 공백…관세협상 위기 고조",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uUEl6UnNoTWZoTEY1OWJUR3k4RlB0SkdqMXlXU1llSy1RZktCRm8tX1phOHo2NU9lanEyUW13VEpBNXlETHlkOEpIQUIyTVhKanNvLTdiMjh6d2VGMlEw0gFfQVVfeXFMT25QSXpSc2hNZmhMRjU5YlRHeThGUHRKR2oxeVdTWWVLLVFmS0JGby1fWmE4ejY1T2VqcTJRbXdUSkE1eURMeWQ4SkhBQjJNWEpqc28tN2IyOHp3ZUYyUTA?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-16T12:25:00+00:00"
-    },
-    {
-      "t": "\"미, 이란전 목표 점점 후퇴‥'비핵화'에서 '유가 안정'으로 축소\" |",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42LWRTWWQ4cnp5MldRcy1ibkVMQzNxV294M1Z4U1FoaExFb1M0eXNTZHY5dHV2R1NOUXlTaUVFRU1IQlJyQzgyTXlERnZFTS1ENTlTVVdFd2k2T2RUUE1zRDYxZWFPRi1JZkRaaTlqVlQ?oc=5",
-      "s": "데일리굿뉴스",
-      "d": "2026-08-16T12:17:50+00:00"
     }
   ],
   "asof": {},
