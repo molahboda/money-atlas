@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T10:15:29+00:00",
-  "quotesAt": "2026-08-16T10:15:29+00:00",
-  "newsAt": "2026-08-16T10:15:29+00:00",
+  "fetchedAt": "2026-08-16T10:30:29+00:00",
+  "quotesAt": "2026-08-16T10:30:29+00:00",
+  "newsAt": "2026-08-16T10:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -55,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-16T09:16:47+00:00"
     },
     {
+      "t": "\"반도체 경쟁 새로운 국면 진입… 韓, 中 활용하고 日 협력을\" [인터뷰]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaS05NkVBVTRfdXJGd04tWHVkVXRQSnozVkNWdVlfUU95cmxrSHl5S3pHZlk2Z0tVa2NUb2syNjlqQ2gzb3BDbE5OV3QwSFV4NlZSLXc1THVwUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-16T09:15:24+00:00"
+    },
+    {
       "t": "한미반도체 폭등 맞힌 ‘주식 타짜’ “다음 텐배거는 이 종목”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR2h0aTdOUjd4VTF4SjJ3X09pVGlIZTVVNjVJSVRrX0k3Z1lqamZNRGpIUnB0Qlg0aHZjc25DcjFTU0xDOTI0TVJZbGRjY3U0WmItTUtR?oc=5",
       "s": "중앙일보",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-16T09:12:44+00:00"
     },
     {
-      "t": "[사설]미 통상 압박 거세지는데 통상본부장 공백, 관세협상 차질 없어야",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LdjY4Z3BvU01qSWxhZDc1ZjhaSnZ2SlBwMVlzWk43N0J3bW5nSGpsZkZRa2hKTGt5dU02WEcxRGJmSHVKNnRQR3VXNTVmSHllVWUtQUZGNFNGUdIBX0FVX3lxTE1DeGF3VWJZYXNQYzB5UE9zNVM2ZUpVZF9BeGcxZUtYR3ZBUUdhbkQ1SkcxTlhUSnR1Z2NCc0lldktwWDNjYlExUGwzT3F4UlAwWTZ4R1NoODBfalhqWjdV?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-16T09:10:00+00:00"
-    },
-    {
       "t": "반도체 매도 폭풍 끝났나… 외국인 다시 삼전닉스 사들인다",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MzhGSmh5NV9xZ2R1Zkd1emJlcHBNTjlaWmJpaHdLNm1TallKdHVlTFFPNTQ0SURYTUJmS1hwQWs4eUhsUnZpMU1yU2NmbEhJbExTcXNCeDB6dw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-16T09:09:26+00:00"
     },
     {
-      "t": "“반등은 곧 차익실현 기회”…코스피 불신에 ‘매도’ 나선 개미들",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PS3JwdjJXaHdUcS0talpJME9URzNRaU5zUGdRaTlodG1heUtaUF9HYmNvQnNKN29lbWpCcklzLS1rTk1sWkVPLXdUS1p1d0FtYW4wM1B5MlLSAVRBVV95cUxQTEVXVFZ2QjI0YUhCbUFtVDZBaEcwaERSWlZ3WHl1dmFIU0Zxb3FBQi1DNnZOMU93MTlqZHlmODdRM2lDZDJndm1sSTV1ZzZjTWJQTms?oc=5",
-      "s": "세계일보",
-      "d": "2026-08-16T09:05:34+00:00"
+      "t": "전공정·장비주 활약에 ‘반도체 ETF’ 수익률 톱10 휩쓸어 [ETF 스퀘어]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsTWw3Y3dNMDhjM3hJWmxPZmh1X1AxZHhRWTA1YWptenJHX0dqcFJ0a28xRDV1c3hwLXNrVGdHU3UzTXlKOTVIQ0dQRkFiRDBmaDNINE9XUl9iZw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-16T09:07:33+00:00"
     }
   ],
   "asof": {},
