@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-16T08:15:29+00:00",
-  "quotesAt": "2026-08-16T08:15:29+00:00",
-  "newsAt": "2026-08-16T08:15:29+00:00",
+  "fetchedAt": "2026-08-16T08:30:29+00:00",
+  "quotesAt": "2026-08-16T08:30:29+00:00",
+  "newsAt": "2026-08-16T08:30:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7785.76,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "김정관 산업통상부 장관 미국행…대미투자·관세 논의",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DSGs0QzJlYmxyeFlzZXFUdDJEdHVWQ3NvcHVIUDhhQ3RWSnFGb21EXzNPYV9mVm1adGtTcnhZY0ItbmRfY1l5cVBMZ0txN3c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-16T08:16:07+00:00"
+    },
+    {
+      "t": "추격하는 中 반도체… YMTC, 낸드 출하량 3위",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZDJoWl9zeFFFeTVYYnpJdERQQjd3amlocS1vYVM1WmI3NnR5WHBHeldlNzZITVNaQVhUZzMyeUJyNnllUjdTTGtLRldMamtKU182a21ZX3A5UG1WNV82LUtvcEFIX2ZhMGwwdVVxZkXSAXRBVV95cUxNQmV4Q0tIWlRaSkZrNGdFb2MwTVM3NWx0dVh4NzNhTXg4THp4bW9BaDRNTk5HTE5icGpCeS1vcHhITDBlUXBqRHZiQ3g5Z193Q0hWaDl1blFZMkhMMWpLYmtjZWpyTlh2b0R3Smc0OXc5cGpHLQ?oc=5",
+      "s": "IT조선",
+      "d": "2026-08-16T08:02:50+00:00"
+    },
+    {
       "t": "앤트로픽 깜짝 흑자에 반도체 업계 반색 ... ‘AI 수익화’ 결정적 증거인가",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oZzRiWWUyY0h2YThjTXprQTdjTEZ2ZmxST0N6LVRRUEp3OFkxMUlMSVNMX1NaQzlHWXk3U2dkVlBuNFZfd1dHRXM1LUZxV3VHUml1QWpB?oc=5",
       "s": "매일경제",
       "d": "2026-08-16T08:00:50+00:00"
+    },
+    {
+      "t": "금리가 낮아졌지만, 자본 비용은 여전히 ​​상당한 어려움으로 남아 있습니다.",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnozUE9JS0VhN1hicDgtYUxTRTdrOUxoQVRXSDVjSHFxUWpBV2gyNzNJZFRUTXB3cE0yRXR3N2FObHBLUkVFc0RldzV6bjVtMnpGNk00TWtUNGdjeEkyQjlWNGtIY25VTDd0LTdMNkxVTXFCX1cwWGxwQlhvNGViVHpOU2U3ZjJa?oc=5",
+      "s": "Vietnam.vn",
+      "d": "2026-08-16T07:56:09+00:00"
     },
     {
       "t": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-16T07:32:51+00:00"
     },
     {
-      "t": "[뉴욕환시-주간] '160엔' 지켜질까…베선트에 저항하는 엔화 약세 세력 |",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GTk1MTlFFZ05LTHgtYUJKUUItZHB1WDhza0VwOGxCUXQ5Tkk1a0JLNUh5ZUV6bXVfUklqYVV2TUJrSGZzc2hvejBHaDBLV085Uy1xVERFMmxCWXg0VkVhRDM3dXF6ck8ySmRfTVlYTFBCakRN?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-16T07:29:10+00:00"
-    },
-    {
-      "t": "대미투자·관세 압박에 통상수장 공백까지…김정관, 예정 없던 긴급 방미",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03S3JXLVdxdE9KNXRSdTlNblVXdzNBYXk1Ylg0UWJfck5JSEFPb0JkYThud1dXMVpKSTM5MjhkZEFVX0ZMb2ZFc1ZSTVRUaEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-16T07:28:45+00:00"
-    },
-    {
-      "t": "닷새 연속 오른 코스피...정부는 '닥공 속도전' 사활",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YY2xidjc0NDNrYklURFFZS05LMFI3VGtLTFZGWkdCdHllVHUyVkxYV0s5UjUzR21xckdldS1DNENQQVVDenE3QU5icnFaTThsMFRUVmhYRl8wRDg1T0E?oc=5",
-      "s": "YTN",
-      "d": "2026-08-16T07:27:00+00:00"
-    },
-    {
-      "t": "트럼프, 이란전 목표 후퇴 하나…\"비핵화 대신 유가 안정\" 분석",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVkJGTGJkeC1XSXFxT3dMUFFhelhLS201ZG5hNTZpM2F3cnNSQXdWUFZ2OVhJXzlwNjdZOUlZUEM5Qms4eDVhZEE1RVVyU3ZMWFVreUp4T3FEcTVRX3JCeQ?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-08-16T07:25:01+00:00"
+      "t": "콜롬비아 강진, 사망 290·부상 4000 상회…美에 관세유예 읍소 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wVTVwS1hzMjFGN2pKeC1YWDZEeTNuY2hoWV9kakNOYkZwd0Q1NmthYnZkREF3T0htUXJRQ2t1cTNQdXBKdllHZXFoTkZ2TmVoZDhuMUNJQWFJR2xpQ0ZwUjk5bE5HaGhDWHRHLTNR0gFuQVVfeXFMTnBVNXBLWHMyMUY3akp4LVhYNkR5M25jaGhZX2RqQ05iRnB3RDU2a2FidmREQXdPSG1RclFDa3VxM1B1cEp2WUdlcWhORnZOZWhkOG4xQ0lBYUlHbGlDRnBSOTlsTkdoaENYdEctM1E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-16T07:32:08+00:00"
     }
   ],
   "asof": {},
