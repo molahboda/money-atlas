@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-17T19:45:29+00:00",
-  "quotesAt": "2026-08-17T19:45:29+00:00",
-  "newsAt": "2026-08-17T19:45:29+00:00",
+  "fetchedAt": "2026-08-17T20:00:30+00:00",
+  "quotesAt": "2026-08-17T20:00:30+00:00",
+  "newsAt": "2026-08-17T20:00:30+00:00",
   "quotes": {
     "kospi": 6977.94,
-    "spx": 7750.56,
+    "spx": 7745.43,
     "nikkei": 69220.25,
     "vix": 15.24,
-    "krw": 1415.26,
-    "gold": 4473.2,
-    "wti": 84.36,
-    "dxy": 99.59
+    "krw": 1414.98,
+    "gold": 4475.2,
+    "wti": 84.4,
+    "dxy": 99.57
   },
   "daily": {
-    "spx": -0.62,
+    "spx": -0.69,
     "kospi": 6.06,
     "nikkei": 0.74,
-    "krw": -0.11,
-    "dxy": -0.08,
-    "gold": 0.81,
-    "wti": 2.38,
+    "krw": -0.13,
+    "dxy": -0.09,
+    "gold": 0.85,
+    "wti": 2.43,
     "vix": 6.95
   },
   "news": [
+    {
+      "t": "미·이란 협상 교착에 국제유가 2%대↑…브렌트유 다시 90달러대",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWZyZzRfRHpkMHFYa00taFVmYWxrZUhSNUpnMDhsQmM1M0psX05SQnVMdXl6RS1LVE5PRm1Rc2pkbll6LXFoamZ0NFhwRVRjdmc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-17T19:50:07+00:00"
+    },
     {
       "t": "美 30년물 금리 5.31%…19년 만에 최고치",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pekFOTWpnakNNQmtWNlE4ajZXZGY3bEZXa2dxV3EweDVmNk5UVGhPVnpEa0hHSGoxQXM0Yi1LUkoyOS04T00za0NSemJrelRBOVdDMFAxZU41WllBUnhXYtIBeEFVX3lxTE05WjM5ZWFyU0xYeG9zNHRqVEpYcTVHdEtadGxyTnJZX0hrVEJjeV9HTk4xaHNMMEdZTTZ6bjhIWTRXQjk0R3dRekFVRVdKSktEMHdPSFgxWV9nQ1p4LUZLNlNoRUFKUnI1LTdsa2RwSG04U3k4ZFZQeA?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ub0xVNzFDa2RPcGJXdXlrdXo5N3ZFV2tkbi1OZ045V2NJSlhJZEhmX1dlM0pncFAtQ2Fod0FFQnBMM3U0eU8xckJtZDUxMjg0TzdwLVBWS09jWDFRZjcxTFEwTFg4WWlIS3JabENIaw?oc=5",
       "s": "jnilbo.com",
       "d": "2026-08-17T18:37:55+00:00"
-    },
-    {
-      "t": "시타델 “미 장기금리 급등, 연준 정책 신뢰 문제”",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DcGhlV255ZnJueGJlLUY5M0hOb1hmbGRBbmVEUWpzSWMxSGVhNjJoNFpSTlE3cXlLS0hiQVN0WmFUdE1vOFNmMmR5S1pPSTdCS0s1V0g0UWE?oc=5",
-      "s": "블록미디어",
-      "d": "2026-08-17T18:29:00+00:00"
     }
   ],
   "asof": {},
