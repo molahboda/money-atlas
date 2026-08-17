@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-17T19:30:32+00:00",
-  "quotesAt": "2026-08-17T19:30:32+00:00",
-  "newsAt": "2026-08-17T19:30:32+00:00",
+  "fetchedAt": "2026-08-17T19:45:29+00:00",
+  "quotesAt": "2026-08-17T19:45:29+00:00",
+  "newsAt": "2026-08-17T19:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
-    "spx": 7750.91,
+    "spx": 7750.56,
     "nikkei": 69220.25,
-    "vix": 15.22,
-    "krw": 1415.03,
-    "gold": 4471.5,
-    "wti": 84.38,
+    "vix": 15.24,
+    "krw": 1415.26,
+    "gold": 4473.2,
+    "wti": 84.36,
     "dxy": 99.59
   },
   "daily": {
     "spx": -0.62,
     "kospi": 6.06,
     "nikkei": 0.74,
-    "krw": -0.13,
+    "krw": -0.11,
     "dxy": -0.08,
-    "gold": 0.77,
-    "wti": 2.4,
-    "vix": 6.81
+    "gold": 0.81,
+    "wti": 2.38,
+    "vix": 6.95
   },
   "news": [
+    {
+      "t": "美 30년물 금리 5.31%…19년 만에 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pekFOTWpnakNNQmtWNlE4ajZXZGY3bEZXa2dxV3EweDVmNk5UVGhPVnpEa0hHSGoxQXM0Yi1LUkoyOS04T00za0NSemJrelRBOVdDMFAxZU41WllBUnhXYtIBeEFVX3lxTE05WjM5ZWFyU0xYeG9zNHRqVEpYcTVHdEtadGxyTnJZX0hrVEJjeV9HTk4xaHNMMEdZTTZ6bjhIWTRXQjk0R3dRekFVRVdKSktEMHdPSFgxWV9nQ1p4LUZLNlNoRUFKUnI1LTdsa2RwSG04U3k4ZFZQeA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-17T19:27:13+00:00"
+    },
     {
       "t": "[뉴욕 금가격] 4,500달러 향해 랠리 재개…0.7%↑",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rVGs4akxWOUsyVVh4aEdEM0drUFFkRDE3T0JqaGtrenBfWldaMFdZZUdXUTZNQUJqSWljUFRjYnFWaFBZMzRaM0RtdzE1SXBZeFozZnNOaHotdmhMWWxSVEtvUW5LdUFqWGFOODBILW8wUQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-17T19:20:10+00:00"
+    },
+    {
+      "t": "美 30년물 국채금리 5.31%…19년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iQzQtWTNMbHFnQ1dpYlFSUS02QmwxWE1DQklDVzJFc2U0ZWtST3ZkTk8tZFpDRGVxd0pNLXhPV2JHckNmamxCUEhFVFVaOWtWYzFvVnFHTEZWUlJLNkFWcw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-17T19:13:06+00:00"
     },
     {
       "t": "이란 전쟁으로 미 국채 30년물 금리 5.31%...19년 만에 최고",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DcGhlV255ZnJueGJlLUY5M0hOb1hmbGRBbmVEUWpzSWMxSGVhNjJoNFpSTlE3cXlLS0hiQVN0WmFUdE1vOFNmMmR5S1pPSTdCS0s1V0g0UWE?oc=5",
       "s": "블록미디어",
       "d": "2026-08-17T18:29:00+00:00"
-    },
-    {
-      "t": "수출물가 49% 밀어올린 반도체, 딜로이트가 던진 과열 경고장",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0NmV3ptMzJKVUVGLTZpek80SUdoWXlJN3oxNFpTb2lRNWFIZk5LLTVoOXlIbklVaWlqeEd0X2EyN0NZQ01xOFNQd1dfaUlzdEdtX0ZjeVNhdUF3dmRQcloyYVloSFpEeHlDSnhEcEdDdzVmZmY2Vm9jR3JxOGhMaElMYTZfRWdU?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-17T18:05:00+00:00"
-    },
-    {
-      "t": "유럽증시, 실적 시즌 마무리로 상승세 한풀 꺾이며 소폭 하락 … 나흘 연속 내림세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8za1V1cVh1TjdOeURWX1pDaHBTNFRKS3N6Z3B0S3MyaF9xZXlMWmc3ZnVUS2kwRmtyWGxsRWEzR3VtZ1pFR2R3eFNSSmstdDZPS0pLLTRQRmZoOVU4?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-17T18:03:00+00:00"
     }
   ],
   "asof": {},
