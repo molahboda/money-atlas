@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-17T20:30:29+00:00",
-  "quotesAt": "2026-08-17T20:30:29+00:00",
-  "newsAt": "2026-08-17T20:30:29+00:00",
+  "fetchedAt": "2026-08-17T20:45:29+00:00",
+  "quotesAt": "2026-08-17T20:45:29+00:00",
+  "newsAt": "2026-08-17T20:45:29+00:00",
   "quotes": {
     "kospi": 6977.94,
     "spx": 7745.06,
     "nikkei": 69220.25,
     "vix": 15.19,
-    "krw": 1415.6,
-    "gold": 4474.3,
-    "wti": 84.68,
+    "krw": 1416.69,
+    "gold": 4471.6,
+    "wti": 84.83,
     "dxy": 99.59
   },
   "daily": {
     "spx": -0.69,
     "kospi": 6.06,
     "nikkei": 0.74,
-    "krw": -0.09,
+    "krw": -0.01,
     "dxy": -0.08,
-    "gold": 0.83,
-    "wti": 2.77,
+    "gold": 0.77,
+    "wti": 2.95,
     "vix": 6.6
   },
   "news": [
     {
-      "t": "[뉴욕증시] 이란 긴장 고조 속 이틀 연속 하락…마이크론, 1000달러 탈환",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WQkdieEo5emNKc0I2cHdiYTdNWlNhcjBPdzJEM3hzY0dWM2daUWFweWJweHNNS0NtU1QtN1lRdGxWRU13MkdDOUJhSUpOVmh4U2I0WHlUa1pkQQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-17T20:25:11+00:00"
+      "t": "\"호남 반도체 클러스터 용수, 하수 방류수로 해결하자\"",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ub0xVNzFDa2RPcGJXdXlrdXo5N3ZFV2tkbi1OZ045V2NJSlhJZEhmX1dlM0pncFAtQ2Fod0FFQnBMM3U0eU8xckJtZDUxMjg0TzdwLVBWS09jWDFRZjcxTFEwTFg4WWlIS3JabENIaw?oc=5",
+      "s": "진일보",
+      "d": "2026-08-17T20:39:39+00:00"
+    },
+    {
+      "t": "S&P500지수 0.5% 하락…이란 긴장·유가 상승에 매도 압박[뉴욕마감]",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcHpRZjZXenFSSVBTaVZVZnhtc3FkOHNWaHJ2dmVIMjdVZFhDT0FGckhia1JNbTdXbk96eFJXai13Ynk2RmVfTTVCeDNCUGtpM0E3S3hFSjFMbDhaaFRJYXJjWk1vWDTSAWxBVV95cUxON0tRUW4xcVl0dDFjaWlTcnRDcjdlaFQ4Q2NZWDF6WXQ5WGkwOEJGSlVWeEhDTEo0RW5CMUlVd2hpNmwzVzBxZTZ5dFg0MHFvZm1sUXJvTl9ZeTVRVU5oTm0zSVc2cTVvcnZaTnM?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-17T20:38:33+00:00"
+    },
+    {
+      "t": "\"반도체 ETF 또는 삼전닉스, 마지막 매수 기회 곧 닫힐 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWF4eXZEOHlFaERNYzNDSVFlbi0zcGd5NU8tekFtOUZVNzlwTlczcTJXQlc2NVRrQ0wzaW96cnM0THdUaW51VldZQVFDcG55MzVnQUtRSzYtRnJjb3BKdEJfY2JaVF8xV3k0RlRZRVI1cTYyMzByWngxTlVIQl96Mg?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-17T20:34:33+00:00"
+    },
+    {
+      "t": "뉴욕증시, 국제유가 상승에 일제히 하락…다우 0.5%↓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HMERNaHVuWGVzY3hJR3J2QW5RRWJlR0I0SlNGN2U3R01yWlB3MUd6ZUcxNzJibGhxWTUwT05qVmhqNVJQNmZTYzNiTGxPSWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-17T20:33:01+00:00"
+    },
+    {
+      "t": "미·이란 협상 교착에 국제유가 2%대↑…브렌트유 다시 90달러대",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWFNLZTR1N0FuS3UxeG5QVi1yRFNScUhVWFVhZEVGX0N6X2NlcHh6dzIwbzVkQUZWRTRUVFI1bUs4eUpVendSYnF0alV4dU9OVlZLRnNlWHZsX00?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-17T20:32:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 국채 금리·유가 동반 상승에 하락…소매 실적 관망",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92azdFcTcwSVV1VWhpVklmVEtPTFBVNkNjWHBVaThNay1QWWlEWXgzaDNubzk2U0pwenpoX1h5X0lpejAxelhhZHpKZEdwdlZ3TlluNmpySWttYUVN?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-17T20:28:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시] 美 30년물 국채금리 급등…일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LemNhZWF2OV96MEtUTElkU002bmFmSDIwWF9Nd1FOYUNEbGRiOHduYWEtQmxnMHAtM0luSnJhLWtyZEpBWTdXbFFBSnk4RmtJdzA3LVNBeFE0WnNzQzlQZ2JaamF4OXFnRGFv0gFvQVVfeXFMTWxRaVhCRmh4dGhhcGpqVlV4N3JaZnUzU1R6NVBUcmFuLTdfWEMyZzFKYlpzM0tKRE0tbURSc0ZONFlndmNxS25PT3JIOFFFMTQwc002M1Zfa0FRa2VPT3dHaWdGTGkwUmdkZS1DcG04?oc=5",
+      "s": "한스경제",
+      "d": "2026-08-17T20:27:27+00:00"
     },
     {
       "t": "[뉴욕환시] 달러 약보합…美·이란 휴전 연장 불발에 낙폭 반납",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-17T20:15:00+00:00"
     },
     {
-      "t": "[뉴욕증시-1보] 투심에 부담되는 美 국채금리 흐름…약세 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNUxYbWFEMXNVV3RLd0dfX0lTWWhvQnVHMW9qYS1sVzNMWnByOXozb2ZOaGI5eGxZSXhWeWVILVIxdFdCSVpOekotRld5TDBWREVWck0tcG8yajFhY1lXTUlMRTMtalUzRG1Ba19GQWvSAXRBVV95cUxOVUMtTW5rNGE0MHp0c3pQdmRYNGoxZ0hrenNVRVJDSVJsUF9ybzg1TTZ2b1o3WDJ5UnlIai1lcG5sdlMyeU8ybkRJOTA0V0pJcjQwY3l2N2NncmxfYUsyWlJoSWZfejZjd0lOUUcwWWE0Y2VQeQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-17T20:12:18+00:00"
-    },
-    {
-      "t": "이란·미국 휴전 연장 불발에 국제유가 3% 급등…브렌트 90달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80dHh1UWkteVAtSlVhYmFuRXM1VmlvZDdfN2tMdS1naTdYNUFla20zb2t1Z3NlNmNPM2pTaTdZYS00Tk1uYTlfRkhFTDVFRWYzS0Q3ZW5mQnJ6TTFwaXlvSkxuNTZjM2PSAWxBVV95cUxQeUtFSFh4OTkyT21id1FZM1JJdXdodExMcVY4a25XcmpjYXdRR0U5S1RlNVNabXFZTlJ3cVpHRDdZNkN4WUJidHZ0NERmMkExU1E3dDhHLWlUVktBVng5d3dfWDdUdG54aXJFbi0?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-17T20:12:14+00:00"
-    },
-    {
-      "t": "[속보]'휴전 연장 없다'…뉴욕증시 일제히 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDUm1oN28zMTBkVjJZV3VUTXA4aXBUc0VjR21aN3B5NF9zQXdIRXJjZWVFTmVCT2pna3lYQkVmSXR3dHpQNlp3djh5S1pJQ2JzSUgwTzFtTzJXVEpad1NsMA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-17T20:07:18+00:00"
-    },
-    {
-      "t": "[美증시] 반도체 밀어올린 앤트로픽 매출 폭풍 성장…1년만에 14배",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOVjU4OHoyTmdzb2oyWG01OEM2d0NJTTJkRUEwQ2h4Ri1KTTFLVkVmdVJHZ2lFcXZBay1jRmVLTFVEWWF4cjhWYTZHU3F4ZHlIbnBkZNIBWEFVX3lxTE42MlJ1ZExoY0VmWFRlcmw5VFdLWl81aDdiVEFpZElFR3R6VkFyUHpJeHpNZXRLVnRhX3o1aUktd1gxc3AxSzUwalN3bUJabXZ0cGF0TlMyQno?oc=5",
-      "s": "미디어펜",
-      "d": "2026-08-17T20:02:34+00:00"
-    },
-    {
-      "t": "[뉴욕유가] UAE 유조선 억류·종전 MOU 만료…WTI 2.55%↑",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRXR2VzJRTF8za0lXaU5aVVdYYlpmcEFTazJ0UVQ3YlZ3V0xTNWlKNFdwMXFWYXRZSnl5RDBBSG90U1c4ZGFFdzcwYTFERE5uLU1LYS1hRVRiZnpNTG44RndWZEpINkVkZzl6UmJPdnZrZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-17T20:02:02+00:00"
-    },
-    {
-      "t": "[속보] S&P500 지수 0.5% 하락 마감…이란 불안에 유가 상승",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13cU45MkZnZTRtSHh5dFR0Z3RDTXpPd2N1LW4tMFAyOS01anBCUmp4XzBuRklWcnE2TTZxc0hGRFdnVklleGJEbkpsTmltTGhjNG5BMHZJbk56V2JuT3ZNMGZGcDg2aVnSAWxBVV95cUxNbnFEUWxLdk5PTTlVam5ubVpXUGFpR09mcElORmVmUUFxUTNDMHVQSzh2QVRKcFRvSllHaDZOdEVLYThYbkViaGp6VlRCWnFsbDZEZXAwUUMwQW5YdzR6di13VzFnNnVidTlUVEM?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-17T20:01:21+00:00"
-    },
-    {
-      "t": "원·달러 환율 연중 최저치…마의 1400원 깨질까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKWEZVb2FHUjFESEtZTDJiWVM5eHJqMGdhMmlnbUJCV0t2X2taUXh5aWd0NWJvV19FakhxTTRpcFM1ME9UbVpBYkdBOEVSbGthRjB4VHFMUF9oUdIBWEFVX3lxTFBLZTFmZVJLNVB6Ty1vVldkNHdOYl9wWEwxRGUtOGtoZThKeW5BSEVud1ZTX0FUaGNxWWtfX2F0SmIxM3oxSE5mXzRBM3NUZTR1MEpwcHBBVXo?oc=5",
-      "s": "ajunews.com",
-      "d": "2026-08-17T20:00:00+00:00"
+      "t": "[속보] 미·이란 협상 교착 다우 0.51%↓…30년물 금리 5.31%",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmTW5wVWNCSzd4T2t1bW1oVmFEbkpSWlFEZThOQlVSR0xzcXNha1dnVGRTbmlUa1JPb0Y5LXRROWprQ0dhODVULU11TThMTGZpM1lESk10QVdsajFEZzd1YUpZQWRnT3BtRjlqU2xnYkVhSmhmdGZ6QXZIcEo?oc=5",
+      "s": "한국경제TV",
+      "d": "2026-08-17T20:14:00+00:00"
     }
   ],
   "asof": {},
