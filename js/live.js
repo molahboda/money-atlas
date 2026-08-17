@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-17T20:00:30+00:00",
-  "quotesAt": "2026-08-17T20:00:30+00:00",
-  "newsAt": "2026-08-17T20:00:30+00:00",
+  "fetchedAt": "2026-08-17T20:15:30+00:00",
+  "quotesAt": "2026-08-17T20:15:30+00:00",
+  "newsAt": "2026-08-17T20:15:30+00:00",
   "quotes": {
     "kospi": 6977.94,
-    "spx": 7745.43,
+    "spx": 7745.06,
     "nikkei": 69220.25,
-    "vix": 15.24,
-    "krw": 1414.98,
-    "gold": 4475.2,
-    "wti": 84.4,
-    "dxy": 99.57
+    "vix": 15.19,
+    "krw": 1415.41,
+    "gold": 4474.2,
+    "wti": 84.54,
+    "dxy": 99.58
   },
   "daily": {
     "spx": -0.69,
     "kospi": 6.06,
     "nikkei": 0.74,
-    "krw": -0.13,
-    "dxy": -0.09,
-    "gold": 0.85,
-    "wti": 2.43,
-    "vix": 6.95
+    "krw": -0.1,
+    "dxy": -0.08,
+    "gold": 0.83,
+    "wti": 2.6,
+    "vix": 6.6
   },
   "news": [
     {
-      "t": "미·이란 협상 교착에 국제유가 2%대↑…브렌트유 다시 90달러대",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTWZyZzRfRHpkMHFYa00taFVmYWxrZUhSNUpnMDhsQmM1M0psX05SQnVMdXl6RS1LVE5PRm1Rc2pkbll6LXFoamZ0NFhwRVRjdmc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-17T19:50:07+00:00"
+      "t": "[속보]'휴전 연장 없다'…뉴욕증시 일제히 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDUm1oN28zMTBkVjJZV3VUTXA4aXBUc0VjR21aN3B5NF9zQXdIRXJjZWVFTmVCT2pna3lYQkVmSXR3dHpQNlp3djh5S1pJQ2JzSUgwTzFtTzJXVEpad1NsMA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-17T20:07:18+00:00"
+    },
+    {
+      "t": "[뉴욕유가] UAE 유조선 억류·종전 MOU 만료…WTI 2.55%↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRXR2VzJRTF8za0lXaU5aVVdYYlpmcEFTazJ0UVQ3YlZ3V0xTNWlKNFdwMXFWYXRZSnl5RDBBSG90U1c4ZGFFdzcwYTFERE5uLU1LYS1hRVRiZnpNTG44RndWZEpINkVkZzl6UmJPdnZrZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-17T20:02:02+00:00"
+    },
+    {
+      "t": "원·달러 환율 연중 최저치…마의 1400원 깨질까",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKWEZVb2FHUjFESEtZTDJiWVM5eHJqMGdhMmlnbUJCV0t2X2taUXh5aWd0NWJvV19FakhxTTRpcFM1ME9UbVpBYkdBOEVSbGthRjB4VHFMUF9oUdIBWEFVX3lxTFBLZTFmZVJLNVB6Ty1vVldkNHdOYl9wWEwxRGUtOGtoZThKeW5BSEVud1ZTX0FUaGNxWWtfX2F0SmIxM3oxSE5mXzRBM3NUZTR1MEpwcHBBVXo?oc=5",
+      "s": "ajunews.com",
+      "d": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "t": "AI 호황을 공유하는 길, 퇴직연금 기금화와 청년연금",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOUHpQam5JcElWTnBEa2F4a0l0U2dDQi1kRzZpVVlvdkJab0ZlYWZXY0RCSHdCTGFhQ0lLeEZzbEVOZjhsTUNvblFOSF96QUkxeTZoNWxWbUdjYWZXNEhPYUNxRmNTZDZoUjB4VlgxVWl4Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-17T20:00:00+00:00"
+    },
+    {
+      "t": "[뉴욕채권] 베어 스팁…유가 급등 속 30년물 금리 2007년 이후 최고",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WZTRic2p2cFI4cXRPb0ZGNWhRbjBuQ3FJd3Z3dmJ1Mm1wQjFyUzd4Z3JvOHBzZVdWVk84Wm1LUFJXcGQxc1VpTmdtZVNoTjkzTloxeDVVVXVOd285WUkzbGRxZmVtc1NIQ01oQkQtUXRFZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-17T19:49:47+00:00"
+    },
+    {
+      "t": "[국제유가] 브렌트유, 배럴당 90달러 다시 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zWWdQVlhTdURoaUQ5TDk0SDU2T3cyaWc1b0x3NElPQy1hZ0xYMTZrYzZLSk9SbnowajFWRXQycWJ4LVh1RU9VbGUwYUZPdEVSRzB4TEg0MFF4QQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-17T19:47:33+00:00"
     },
     {
       "t": "美 30년물 금리 5.31%…19년 만에 최고치",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yQ0pGU0FxVnZzUkdwU3l0QjlUSTM1MDRxQm9JSVVESGFybmV3ZkpPX3FlaWFkdTVtN2R2eFNxZDBLVThQdllBc3picEQzV25sRWZhci1Cb3lCa0pGM0E?oc=5",
       "s": "YTN",
       "d": "2026-08-17T19:13:00+00:00"
-    },
-    {
-      "t": "미국 국채 30년물 금리 5.31%…2007년 이후 최고치",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYVBIMkVsanRGQ0dBMnB3MVB1UmtlTVFuUGxvbW5PVDdjRFc3WlJoMjJLMkVVSmJNdTVFUTd1UFlXYVBTUVJUdmcxYXhJT0k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-17T19:09:01+00:00"
-    },
-    {
-      "t": "“코스피 신호등 그린라이트” … 투자베테랑의 베팅은",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02bl9wWS0wXzZyaDJjOVpLTjFCM0NKMXFiZ3pCaDU0SEZjZDBpeWZ3VF9IQ0taSmd6cS1NSDFPWUdyTVNUYm5XWlppWVRWRUFoVUE?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-17T19:00:00+00:00"
-    },
-    {
-      "t": "美·이란 갈등에 뉴욕증시 혼조…트럼프 ‘항복’ 압박에 긴장 고조",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZSElTUXN2X08za1Y0X1V3QUd6UWlmNmJWSmd4MldLVm1TY0ZlUFo5djRBZEcyVURVNmpzT196ZTkwUjVUY3RZbU5UYnVMQUFEMkRmVXdMcFFyOFhnNk9zLThibHY4MU0?oc=5",
-      "s": "지이코노미",
-      "d": "2026-08-17T18:53:19+00:00"
-    },
-    {
-      "t": "어질리티 등 로봇사 우회 상장 활발…미국 증시 진입 가속",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTlvSnF3YkJXRFM3ZE8tVlJRdWh0bW5QZzZSbHc4aDRsUkd0dlVzMTFCVUlTclpJbHZZa29La3NFU1JlNEN0aWdYd1A5bE1mb0JlRXU0MkRBZjRZTS1aejNBOUlkTmdMN0NBdkNId0FvbWwwQ1U4dGFOSkczcmFtUFI1OTJLLXFM?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-17T18:50:00+00:00"
-    },
-    {
-      "t": "\"호남 반도체 클러스터 용수, 하수 방류수로 해결하자\"",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ub0xVNzFDa2RPcGJXdXlrdXo5N3ZFV2tkbi1OZ045V2NJSlhJZEhmX1dlM0pncFAtQ2Fod0FFQnBMM3U0eU8xckJtZDUxMjg0TzdwLVBWS09jWDFRZjcxTFEwTFg4WWlIS3JabENIaw?oc=5",
-      "s": "jnilbo.com",
-      "d": "2026-08-17T18:37:55+00:00"
     }
   ],
   "asof": {},
