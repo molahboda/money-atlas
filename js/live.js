@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T13:30:15+00:00",
-  "quotesAt": "2026-08-18T13:30:15+00:00",
-  "newsAt": "2026-08-18T13:30:15+00:00",
+  "fetchedAt": "2026-08-18T13:45:15+00:00",
+  "quotesAt": "2026-08-18T13:45:15+00:00",
+  "newsAt": "2026-08-18T13:45:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7703.2,
+    "spx": 7704.26,
     "nikkei": 67460.73,
-    "vix": 15.79,
-    "krw": 1411.17,
-    "gold": 4446.7,
-    "wti": 84.46,
-    "dxy": 99.63
+    "vix": 15.84,
+    "krw": 1411.15,
+    "gold": 4451.8,
+    "wti": 84.42,
+    "dxy": 99.6
   },
   "daily": {
-    "spx": -1.06,
+    "spx": -1.05,
     "kospi": 0.83,
     "nikkei": -2.54,
     "krw": -0.3,
-    "dxy": -0.01,
-    "gold": 0.65,
-    "wti": -0.05,
-    "vix": 3.95
+    "dxy": -0.04,
+    "gold": 0.77,
+    "wti": -0.09,
+    "vix": 4.28
   },
   "news": [
+    {
+      "t": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43d1hLRUlLbjZQVnJxUUhCMEd0Z3lVcjZVN01GNUYzY2RVT0d1d0JYa2gzT3d4QWEwLUNEOWxHRk1OSFNrS0MzUGtHRUlQekdLMVZUSTF2ZEdfQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T13:41:00+00:00"
+    },
     {
       "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 금리·유가 급등에 반도체주 '일제 하락'",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DRE9qc3BRX1FaQzQzSmFmdU9fTHNlX0JyalJYUi1HbmdsN2xBVHRLVEtiazFmY1hLVFpyZGpRNjhzZ2U1Z2Z6YlNqWFRHd2pKUWFscnkyS2VQTUVj?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsWlVMejV2NlpNQzYzZlRfY2YzQ0FxMkpMQUt4MEVodWp3WDFpNFZIT3RnbXBXaG5kNktBM3FqdXNRTzZ4clNGUlphWUxCcGs?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-18T12:21:28+00:00"
-    },
-    {
-      "t": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43d1hLRUlLbjZQVnJxUUhCMEd0Z3lVcjZVN01GNUYzY2RVT0d1d0JYa2gzT3d4QWEwLUNEOWxHRk1OSFNrS0MzUGtHRUlQekdLMVZUSTF2ZEdfQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-18T12:10:11+00:00"
     }
   ],
   "asof": {},
