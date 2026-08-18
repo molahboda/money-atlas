@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T18:15:15+00:00",
-  "quotesAt": "2026-08-18T18:15:15+00:00",
-  "newsAt": "2026-08-18T18:15:15+00:00",
+  "fetchedAt": "2026-08-18T18:30:15+00:00",
+  "quotesAt": "2026-08-18T18:30:15+00:00",
+  "newsAt": "2026-08-18T18:30:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7700.79,
+    "spx": 7703.77,
     "nikkei": 67460.73,
-    "vix": 15.75,
-    "krw": 1412.42,
-    "gold": 4409.2,
-    "wti": 84.16,
-    "dxy": 99.66
+    "vix": 15.71,
+    "krw": 1412.35,
+    "gold": 4414.9,
+    "wti": 84.12,
+    "dxy": 99.64
   },
   "daily": {
-    "spx": -1.09,
+    "spx": -1.05,
     "kospi": 0.83,
     "nikkei": -2.54,
     "krw": -0.21,
-    "dxy": 0.02,
-    "gold": -0.19,
-    "wti": -0.4,
-    "vix": 3.69
+    "dxy": 0,
+    "gold": -0.07,
+    "wti": -0.45,
+    "vix": 3.42
   },
   "news": [
+    {
+      "t": "코스피 7천선 재차 회복…삼전 3.2%·닉스 6.2% 상승 출발",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pT1ZMNUpGRV9mdXRGNHZad0pobDBpY1U2ajRocWZwSnNHMk92X0hxd2MzR0NLV1NnTlVIeE9Ta1lYOTBuRTZmZmJNUHdQaVY5RnVrVFlKRzZuVkZRZUFCVFhXanlWQ1U?oc=5",
+      "s": "hani.co.kr",
+      "d": "2026-08-18T18:19:04+00:00"
+    },
     {
       "t": "캐나다·미국 관리들, 자정 관세 시한 앞두고 협상 막판 총력",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBONl9FTWFxMFpiNEhmU0lrUTBqSGRibFR1RDJHQzVSa2c5R3RWaW14ZHY4ejNWUFk5NTYxSjVmbHNveklpXzJoZnVZNHdoREdmel9MaktXaFA3TkpuSWZvRlZUbU9jZGF5NEE?oc=5",
@@ -57,7 +63,7 @@ window.LIVE_DATA = {
     {
       "t": "미 40조달러 부채·일 재정 우려…글로벌 장기채 금리 급등",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTHlrS2NNcElsaE5PZHU0RE1WZGpzc09GZUcxNUNiM2VUZFNqb2lyU1l0ZjVlYXpVenJLQTBLdDB5UFV5TUozdlZ6aWV4eUIzaVJJUVFFMENZbWc?oc=5",
-      "s": "news.kbs.co.kr",
+      "s": "KBS 뉴스",
       "d": "2026-08-18T17:21:00+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1BHVWlsY19NR05sc1RzN0gxaUVzSlM2b0N4cklCOGxyVjRiaHhpMDQ4cEYtSGV4VW5VZzZjTWRmSlRFWmU4Wk96N1ZYS3pIVXVnMjk2bmJOc3J6?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-18T16:55:00+00:00"
-    },
-    {
-      "t": "美 40조달러 부채에 日 재정우려까지…글로벌 장기채 금리 급등",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rNW9wOU5UdDJ5MndUc2VIdG94eHUzWjJZWDZudDVhOXZoSG1Lb185S2J0MXpGcWpDXzExdFlhVGhSMTl3cWk1SlRHTHVfT2RsUGk2RW9FamNzUDDSAWBBVV95cUxOOThKQWw0d2xQLVgtNDU5RnVad2FWVFViT1A0Um9TZXZRTkxEaVd6bmh1bzU3bWpJWDhYbm93NTJYV0lFRko1REFCY3ByWlVhNU8zc2FMSWdHSmNFaVIweF8?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-18T16:44:37+00:00"
     }
   ],
   "asof": {},
