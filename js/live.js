@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T15:45:15+00:00",
-  "quotesAt": "2026-08-18T15:45:15+00:00",
-  "newsAt": "2026-08-18T15:45:15+00:00",
+  "fetchedAt": "2026-08-18T16:00:15+00:00",
+  "quotesAt": "2026-08-18T16:00:15+00:00",
+  "newsAt": "2026-08-18T16:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7701.21,
+    "spx": 7703.58,
     "nikkei": 67460.73,
-    "vix": 15.89,
-    "krw": 1411.78,
-    "gold": 4415.6,
-    "wti": 84.98,
-    "dxy": 99.63
+    "vix": 15.85,
+    "krw": 1411.46,
+    "gold": 4418.9,
+    "wti": 84.79,
+    "dxy": 99.6
   },
   "daily": {
-    "spx": -1.09,
+    "spx": -1.06,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.25,
-    "dxy": -0.01,
-    "gold": -0.05,
-    "wti": 0.57,
-    "vix": 4.61
+    "krw": -0.28,
+    "dxy": -0.04,
+    "gold": 0.02,
+    "wti": 0.34,
+    "vix": 4.34
   },
   "news": [
     {
@@ -74,8 +74,8 @@ window.LIVE_DATA = {
     },
     {
       "t": "뉴욕증시, 30년물 금리 상승에 '비명'…필리 지수 5.44%↓",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3SFJScWJ0STlxY2hGZm9zaFRkcEM5eGZ5ME14Z3FQV0tKMUpUYklfeXNxYy1JOUZEa01TVnBBVkpfMlJmblBuZDJ2cEFCa3BxbGtWeWZiZ3RrMlXSAWBBVV95cUxPamxhRVl0b2paekdpb0JtQ1V4RjB5OXV2dTNJU3VfNG1sNlhqaC1qa1ZrM3VBYWxlYmlnN2hnSFF3cktKVzl4ZXZSVlVWN1Uwam5wOEhFTGpna2dJa3k5LTk?oc=5",
-      "s": "연합뉴스",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vU3Nub29DRnRYT0NDdm1CMlFqeTdGSzFZbllOcUZEbm56OEQ3ZFRNU1VCRm5saVV0LVQzbGktS3dqaTFyMXJuczZLYVBDMjBlVlE?oc=5",
+      "s": "매일경제 마켓",
       "d": "2026-08-18T15:03:14+00:00"
     },
     {
