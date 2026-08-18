@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T16:30:16+00:00",
-  "quotesAt": "2026-08-18T16:30:16+00:00",
-  "newsAt": "2026-08-18T16:30:16+00:00",
+  "fetchedAt": "2026-08-18T16:45:16+00:00",
+  "quotesAt": "2026-08-18T16:45:16+00:00",
+  "newsAt": "2026-08-18T16:45:16+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7703.13,
+    "spx": 7704.2,
     "nikkei": 67460.73,
-    "vix": 15.65,
-    "krw": 1411.36,
-    "gold": 4423.7,
-    "wti": 84.35,
-    "dxy": 99.58
+    "vix": 15.71,
+    "krw": 1411.77,
+    "gold": 4421.9,
+    "wti": 84.56,
+    "dxy": 99.62
   },
   "daily": {
-    "spx": -1.06,
+    "spx": -1.05,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.28,
-    "dxy": -0.06,
-    "gold": 0.13,
-    "wti": -0.18,
-    "vix": 3.03
+    "krw": -0.25,
+    "dxy": -0.02,
+    "gold": 0.09,
+    "wti": 0.07,
+    "vix": 3.42
   },
   "news": [
     {
@@ -49,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-08-18T15:30:00+00:00"
     },
     {
+      "t": "“한-싱가포르, 반도체-에너지 협력 최적 파트너”",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydkZDbXc5MUhITTMzOHJYblA4Q2VlRThaakhndXVET2k1eDdzZHVPOUo3OE1selVfa2VrMWFtMmF6TGpQeWI0VTNORmlQVE1tZXBkUE1zRzhjR0F0bzRfTlBybHZlSzJqOC04RW1Yd2JnMm9YS1HSAWZBVV95cUxONFFCQ01Ra2tCQWlQbU53azl2Q2JWTFBfbnB2TGRHdFhiOFZERGRybjVhQm5jaDltSy1uWE5kWERNNU1ZeUVfeGZfQVNKZ1lsdDdLamhTc1hORjFvdXFrLUJlUlZHQ2c?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-18T15:30:00+00:00"
+    },
+    {
       "t": "뉴욕증시, 채권 금리 상승에 부담… 3대 지수 하락 출발",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmFzamhCOTljVGI3M0FfVG9IejJ3azR6QjE0RVY0TEpPSFluTFFpSVdVZl9MVEFiNEJ0aXMyYk9iUDJzd0hMXzZJYjQ3djl3ME5FRkhJdXhUY0lVbkxPa0pKY0I4VU5xOFBVa2tLaDJFS1RwTVZHRHlsVmNMX1YzVEtudFJabktLVGtPZldHa21QZ2lGSWFkNl9oMkRmUQ?oc=5",
       "s": "Chosunbiz",
@@ -61,28 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-18T15:16:00+00:00"
     },
     {
-      "t": "무디스 “반도체 호황 내년 중반까지”… 韓성장률 3.5%로 상향",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samIyTXMxSk5tTzZURzk5MkFrR3p0MXBPT3UzczhUcVlnRW5Idm5qeGVuT29BSG1naVpfNXZWUGxxQ1Q2RUJKVkVKOG5HTG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T15:14:15+00:00"
-    },
-    {
       "t": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야",
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
       "s": "조선일보",
       "d": "2026-08-18T15:10:00+00:00"
     },
     {
-      "t": "\"삼전닉스만 수출주냐\"…반도체 다음은 '면비디아' [한경 프리미엄9 TODAY]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZrQjE3UldTb250Tks0ODktNVBsd1BfV3pydXJZZS1Uek10cnFOTFBpUlNyN0YtbHlzdFlkX0lSWkxlLVN2d1I2aExidTl2eVNtd1kxeXRoZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-18T15:07:00+00:00"
-    },
-    {
       "t": "뉴욕증시, 30년물 금리 상승에 '비명'…필리 지수 5.44%↓",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vU3Nub29DRnRYT0NDdm1CMlFqeTdGSzFZbllOcUZEbm56OEQ3ZFRNU1VCRm5saVV0LVQzbGktS3dqaTFyMXJuczZLYVBDMjBlVlE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-18T15:03:14+00:00"
+    },
+    {
+      "t": "반도체 클러스터 용수 ‘안정적 공급체계’ 구축을",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83X3hQejZ1WHNWSnR5NHBnd19CUWU0QVlxcWV4SFZOazYyM1RfUElYMVdITlBTWjBWdnQxclFWbFdJeUl0TWNENF9FMmRhLTJxczZ1OUllY015NmlXQjI3YXFKTVhkTzRDYnc?oc=5",
+      "s": "중기이코노미",
+      "d": "2026-08-18T15:00:00+00:00"
     }
   ],
   "asof": {},
