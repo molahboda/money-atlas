@@ -1,40 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T08:30:29+00:00",
-  "quotesAt": "2026-08-18T08:30:29+00:00",
-  "newsAt": "2026-08-18T08:30:29+00:00",
+  "fetchedAt": "2026-08-18T08:45:30+00:00",
+  "quotesAt": "2026-08-18T08:45:30+00:00",
+  "newsAt": "2026-08-18T08:45:30+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7745.06,
     "nikkei": 67460.73,
     "vix": 16,
-    "krw": 1412.05,
-    "gold": 4447.4,
-    "wti": 84.36,
-    "dxy": 99.68
+    "krw": 1411.98,
+    "gold": 4449.7,
+    "wti": 84.1,
+    "dxy": 99.66
   },
   "daily": {
     "spx": -0.69,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.23,
-    "dxy": 0.04,
-    "gold": 0.67,
-    "wti": -0.17,
+    "krw": -0.24,
+    "dxy": 0.02,
+    "gold": 0.72,
+    "wti": -0.47,
     "vix": 5.33
   },
   "news": [
     {
+      "t": "엠엑스온, 2분기 별도 영업익 18억 3000만 원…전분기比 20.4%↑",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUmNiZk5rNFFLWG1YYlhPWmJYeWpLREc0SzZzRGRRa2paemRwbFJVV3NiRGlNVnRZeS03ZDBqcUFFbzNpSl84T1hVLXk3eHdVSXRxY1dTdHctT2Z5UjRF?oc=5",
+      "s": "헬로티",
+      "d": "2026-08-18T08:38:38+00:00"
+    },
+    {
+      "t": "달러 강세에 파운드화 하락…에너지 가격·국채 금리 상승 영향",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyQTdqU2NQMkhXQ1ZFMjdKd1MxVlBSU3lYVGJkWFctTVVnUy1CaWRpYThXRjhfZjVZY3pUdl85cFZKakRvR2tyall1MWZkLWpfdnp4cmRzWHZOQVBzUjg4NVFMM0xQWjA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T08:32:00+00:00"
+    },
+    {
+      "t": "코스피, 장중 7200선 돌파 후 1.55% 급락…6800대로 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RdEszVU16SjJIWll2SWRxRFI4elBRSnVDY293QXg2Q2FKVEE5RzBtcDF5aFp1bng4LUtRQ0VVMGE4cGFVTGM5V3dNYWw5NXZncFBUWWNYdHBVbmtTUzExZlRRTDBfUGRsYVFDaUpRUVRVQQ?oc=5",
+      "s": "인더스트리뉴스",
+      "d": "2026-08-18T08:30:10+00:00"
+    },
+    {
       "t": "한미반도체, 인천 주안산단에 1300억 투자 ‘8공장’ 구축...지역 정치권 “원팀 지원”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KT1N0R01QamlCbGFJdnBfTUN2SU90VWFJV0p5Y2ZWWHJiT0VmLTNYWWk3MHpGREVwUl9PdjI0QkRadkJMTV9jcU0wLVQ3Umcyem0zaEY3TXdwNEp0U0NXYmJyNGFWVzlGakE?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoN2NIX2taa0JKa3IwRmFCMFhHZjZJZjdBV1M4bExQelFlV3lON0c4ZEIwSXhpZnFTcU4xejhPMVliZVk3R05oVDlqbzQzeUxFX3FmbV96ZEJUby1GYVlteENDQ21LRTJRSlZR?oc=5",
       "s": "미디어인천신문",
       "d": "2026-08-18T08:25:45+00:00"
     },
     {
       "t": "코스피, 6거래일 만에 하락…전강후약에 7000선 내줘",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdzZaR1U0cGw1WTB3eTlyWm5FNUE3NmZQTWc1YjFUSklRVzhCRmtUdG9jclRNbHZqeVJBbE11cGhzLVVhZFZubWNKZ2h2OGRqNFdlTC0yR2VHQngwdHp5aw?oc=5",
-      "s": "뉴스토마토",
+      "s": "newstomato.com",
       "d": "2026-08-18T08:23:13+00:00"
+    },
+    {
+      "t": "[亞증시-종합] 중동 지역 불확실성 속 혼조",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PS19IQ051dHpyYlJ3cERNaWd1Q25yNHNoeHY5Z1NBajJIem9ENFJjU1pKMW5FT3dkVHI3OWhyU25ESG9hZ0RUMDlpb0ctVkZ5b25WQ2dqUlk0d0s5R1FRSElwRzNScF94V1hQVlEzc0NOdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-18T08:21:29+00:00"
     },
     {
       "t": "이은택 KB증권 이사 “물가·금리 동시 상승이 증시 고비…美 10년물 5% 돌파는 위험”",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vUnJSMExJTGRRS2E5ZzIxYW9tMnVFTXhNNFZkY2tGU0NabHZyd2xSUV9DcmRYRnZUQ3h4aERHcFVJdFl6R3FiM3VpNE56a09FWlpkZm5vdnhWNXZyWEhaRzV2NlE2NW9IZUE?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-18T08:12:00+00:00"
-    },
-    {
-      "t": "상승세 타던 예금금리, 다시 내리막길 가나",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjl5aTlUQllrbFA3Y3hmWHdqZFhXZ1ZKd254bXVVenFnOGpKc0Y4akEwVlZ0SEFJTWZnMk5fZ09BNWtzNW52VUhyd05vc05zeC1ISTI3S01ZNEFIMmNVekw3dW9hdGtKangtN2lTTnZDbnl0azMzaGpTVElYSTZIWG5HblNwMWc?oc=5",
-      "s": "전북도민일보",
-      "d": "2026-08-18T08:08:37+00:00"
-    },
-    {
-      "t": "코스피 5거래일 만에 하락…유가·금리 향방 추이 주목",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DOUpQOVBsVEJrSl8tMkl0OWRsa3JPckJGYmszemtzM2JPWEQwMnZfZWozRS04aGpIb3M5RUlXOVpBWWhKcE8tQ3YzbE5RWjdsTGJDRnFVRllUMzAyaGJrZnJia2RPU2FZ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-18T08:05:39+00:00"
-    },
-    {
-      "t": "[채권-마감] 약세 스티프닝…유가 급등 속 10년 입찰 소화",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xQlhWeXViMUZadW5tMTFmNm1zSUNJRFVxUldkMHF3Z1Y4ckVyUjJ1RXVzWU13ckJHd3FCWTVqczhYYlVsSFVJc2VOa2VjWDVsWFZhWDhnS3V2Y1ltMDZBS3VEOWZ3T0xRNkp4TnNqQ2N5UQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T08:02:10+00:00"
-    },
-    {
-      "t": "금리 동결 전망에도, 미 국채 장기금리 19년 만에 최고치…AI 랠리 복병",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQW1FamxiSGtoVExVNGtmckNVYmFKZzhyNVRoTlBrVEhUVWRWeWROV2h0UVBOc1NKbW9OOEt1cXBmT3lhRmpWTldpbE8tZ1l6TGlPMHlVWW15SGp2RHViakU3TmhHbDQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-18T08:02:00+00:00"
     }
   ],
   "asof": {},
