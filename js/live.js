@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T18:30:15+00:00",
-  "quotesAt": "2026-08-18T18:30:15+00:00",
-  "newsAt": "2026-08-18T18:30:15+00:00",
+  "fetchedAt": "2026-08-18T18:45:15+00:00",
+  "quotesAt": "2026-08-18T18:45:15+00:00",
+  "newsAt": "2026-08-18T18:45:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7703.77,
+    "spx": 7700.46,
     "nikkei": 67460.73,
-    "vix": 15.71,
-    "krw": 1412.35,
-    "gold": 4414.9,
-    "wti": 84.12,
-    "dxy": 99.64
+    "vix": 15.65,
+    "krw": 1412.88,
+    "gold": 4414.5,
+    "wti": 84.06,
+    "dxy": 99.65
   },
   "daily": {
-    "spx": -1.05,
+    "spx": -1.1,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.21,
-    "dxy": 0,
+    "krw": -0.18,
+    "dxy": 0.01,
     "gold": -0.07,
-    "wti": -0.45,
-    "vix": 3.42
+    "wti": -0.52,
+    "vix": 3.03
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pT1ZMNUpGRV9mdXRGNHZad0pobDBpY1U2ajRocWZwSnNHMk92X0hxd2MzR0NLV1NnTlVIeE9Ta1lYOTBuRTZmZmJNUHdQaVY5RnVrVFlKRzZuVkZRZUFCVFhXanlWQ1U?oc=5",
       "s": "hani.co.kr",
       "d": "2026-08-18T18:19:04+00:00"
+    },
+    {
+      "t": "캐나다 달러, 美 관세 합의 주시 속 하락",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QVURyN1VBZGQ4R0NiaUcwMndPRGczOFZ6d1RqQkVlcW9fM2Jqenl0alMxTko1UDQweVJpMTZvcEdnd21FcWdzZTc3bjZTOE5DX21iQTZjZ0pOdWsxeUlIV1JTZ2RTNnZ2OWRJZFF3?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T18:09:00+00:00"
     },
     {
       "t": "캐나다·미국 관리들, 자정 관세 시한 앞두고 협상 막판 총력",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taU5qdTNxYi1ZZEUtQWl2Zng2VzJ2UFJyaHhEbTZtd1c2NFg0d2M1ejNPNVVPbFhXbThsREN6T0hYZmthTTEzc3NNU00tQmJvNEhNb0tRZVBMRDlEbDYtTXpZaDdEeWtwXzRR0gFwQVVfeXFMT3RmWENQei1XN3Mta2hQVnVLblNHaVZ2Wk84M2U5eXROaEE4R3BWd2pMRTRXSjh5THRqT01vQ1pEVmRlYnc0SWVmLTUtUU5VVmpMdjVrc2ROdEJ4amdvaExGRmZhaXBJZ3VUNUFQX3dBNw?oc=5",
       "s": "머니투데이",
       "d": "2026-08-18T17:00:00+00:00"
-    },
-    {
-      "t": "유럽증시, 갈수록 짙어지는 중동 먹구름에 대부분 하락… 국제유가는 90 달러 상회",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1BHVWlsY19NR05sc1RzN0gxaUVzSlM2b0N4cklCOGxyVjRiaHhpMDQ4cEYtSGV4VW5VZzZjTWRmSlRFWmU4Wk96N1ZYS3pIVXVnMjk2bmJOc3J6?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-18T16:55:00+00:00"
     }
   ],
   "asof": {},
