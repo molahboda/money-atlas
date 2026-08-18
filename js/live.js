@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T06:00:31+00:00",
-  "quotesAt": "2026-08-18T06:00:31+00:00",
-  "newsAt": "2026-08-18T06:00:31+00:00",
+  "fetchedAt": "2026-08-18T06:15:29+00:00",
+  "quotesAt": "2026-08-18T06:15:29+00:00",
+  "newsAt": "2026-08-18T06:15:29+00:00",
   "quotes": {
-    "kospi": 6843.53,
+    "kospi": 6839.74,
     "spx": 7745.06,
-    "nikkei": 67652.17,
+    "nikkei": 67506.68,
     "vix": 15.19,
-    "krw": 1410.69,
-    "gold": 4452.4,
-    "wti": 85,
-    "dxy": 99.63
+    "krw": 1410.71,
+    "gold": 4445.4,
+    "wti": 85.4,
+    "dxy": 99.69
   },
   "daily": {
     "spx": -0.69,
-    "kospi": 0.44,
-    "nikkei": -2.27,
+    "kospi": 0.39,
+    "nikkei": -2.48,
     "krw": -0.33,
-    "dxy": 0,
-    "gold": 0.78,
-    "wti": 0.59,
+    "dxy": 0.05,
+    "gold": 0.62,
+    "wti": 1.07,
     "vix": 6.6
   },
   "news": [
+    {
+      "t": "주담대 변동금리 넉 달째 상승…7월 코픽스 0.13%p↑",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MSzNSaG00RlRqbWJqREF5QVJrU0YxaEViNTdqNTZDVTVhZ0dKQTVoTjBaRWFWZVB0cmgwUy1Dc0JUZldFXzRoSHVqMzhHQzZISlIyZDVtVmNVUnFjUlBGd2IyQzVydEUtWk5qZ2UwVmFMWkhZ?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-18T06:08:56+00:00"
+    },
+    {
+      "t": "가계 빚 사상 최대 기록에 금리인상까지...폭탄 곧 터지나 [자막뉴스]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DSURvakhDZDlFV29EMDduZjF1ZkxIM05vQTQ5R283NjhDOW1TN1FINFFjSkRWUTdvWUFKb0FRS2tWWGdVWFdjbTRscC1tVmtXUGI3cnFiUHV1Z3BickE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-18T05:58:00+00:00"
+    },
+    {
+      "t": "탄력받은 반도체 주가. 더 가려면 ‘이것’이 필요합니다.",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41TkNtZUZucHNLRkZQUGhIVF9uRmhjVGRaVlZRMExHR0tPclBmallmcmVjcWxtcUV4Smo4dzRaaDVQakhQc3VfZFJ0Q3Jtak1uNWc?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-18T05:54:00+00:00"
+    },
     {
       "t": "한미반도체, 인천 6230평 부지 매입…역대 최대 규모 8공장 구축 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnd0T0ZHNUlJRU54aGZnZm95NXZ1OGNBdUxvQ2RfV010dHBQdzNjbzZaYzZKV0pKV3pyUzBrU1Z1a1dJSkxzRmdFdzlOM0RjNDM3YnJYMUpzODU1TmNGVl9tYWZTSHl3UDVXbjM2azFHYzF2T1NVMFZhclZKUmhleUZn0gGWAUFVX3lxTE50UURKM3ZvZzU0ZFNvM21qNDUwMlBFOUh2TXIzWjdJNTVManZlZ2xsTWdfY0xrMjVYS3VGQVZQTE1GSnBCT2dENFZNTHNuZ2V2V3NfNFNra0ptZ1FJcHFBcGM4d1dRS2tZSGhoMnZHRlJVRUdTNTVNYlpHdFNtVXp4d3hieHdqYWc4ZTdfakVKQXZKd1UyQQ?oc=5",
@@ -35,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE91ZGlSZEh5Qnc0RHJ4Zms4NU5ua1V4Vlk3alFVOERZbENRalA3M3ZoMWFUNkh6Z1ZVM2FhaVlMWmtKYkctcjJWNG5GM1pSTk1hMlZVcmdGenFsQTZORmNUQUxCdE5fa1c0ZjZfRmNhNzg0dw?oc=5",
       "s": "KB Think",
       "d": "2026-08-18T05:49:02+00:00"
-    },
-    {
-      "t": "'롤러코스피'에 지쳤나…커버드콜·미국 지수 ETF로 자금이동",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SYXlEdkdYeTAyUmJ6SVlyTUdXMXdTOVljTmFVTUxXc0xqcEZkM1c5UDVzcy1ybXVyZmdLbHQteEtKSWZxZHNpVXpDU21TdmJpVFJ0Ym1GNTFkSm_SAWBBVV95cUxOQ242ZkhtUWdocExXaEk5aHA4Z1FYVlM3RGlHSVo3MUMwOXZEQnhYa01PczZtM2w1eEdjM0lvNktjRktORXBYZGVnanJsVWN2VVgyR2wwazQzUmJtWkhwckg?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-18T05:47:39+00:00"
     },
     {
       "t": "美 관세압박에, 대미투자 1호 이달 나오나…정부 “반도체, 사실 아냐”",
@@ -55,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-18T05:45:01+00:00"
     },
     {
+      "t": "한미반도체, 1300억원 투입해 대규모 신규 팹 구축 추진",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ER0J1ZVdVd3hNZkswRm1NLWtiTnBsWEpBSjJKNkpNRmswVEg1eUtvMVlmNHZLZl90aVRncWpvckNSZXVqNl83TndhaHNJS3N5d1J6MUxR?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-08-18T05:42:48+00:00"
+    },
+    {
       "t": "코스피 반등 불구…거래대금·거래량 연중 최저 수준",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zUHJPMEJkb044UmE5V2hmc1B1WGEyMk5XZWx1Ry1OM2lDamhlRk9tcGthdlM4OWJFRWxVVm56TFg3Q0lmMFhTX0taOU9NNmM?oc=5",
       "s": "v.daum.net",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQkw5Y3JxMEhfVDJQc2FXX3FtQTRJQi1DU3NvOGxfUXhaVnJYcHRaZTI3ZENCbmdUeUZDMGYwM3BiRUlKTm5GX3FrVTBqblZ3SXhPb0pLbTcwdmdCbEVTcTBCUW0tbTE1SVJ3SW1kbnE?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-18T05:35:03+00:00"
-    },
-    {
-      "t": "유가 급등에 9월 국제선 유류할증료 21단계로 7계단↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2a1NNN0Z6YV9IZzA0ZXdGY3lGeXl4Z2dRdGNoVzRZZGxYczMwbmhmWUJyU2Y1MEI1MWJvZWhRZm5hRnpaeWxnRk5HNVMxS09aX2F1SS1IMXdUaktpWjNPVHZIMlFRR1hIcmR4bFRVMU4?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T05:34:00+00:00"
-    },
-    {
-      "t": "“사이클 후반부 진입한 증시…‘美 10년물 5%대’가 분기점”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZVRaNDNNMVdsM3BvWE1XRWM1aUVRTHRzR2tWeXh6N21CdlFRZEZsMFBRYlpaeXlyRXFPOENkNDV3Tm1XOWZVVXNlWHRkcXJvNTVNN254d3IxUQ?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-08-18T05:34:00+00:00"
-    },
-    {
-      "t": "[셀럽의 한 수] 상승폭 반납한 코스피…시장 흐름 진단은?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52TDBadGkxTEVlOHRNbTJNb0daYWZCcmc0RTBINnpEOGRmYTlDSWw0Z2JndF9yTlIwcTFHS0dvRWJnZGoyTS10dUxxWTNmRm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T05:31:38+00:00"
     }
   ],
   "asof": {},
