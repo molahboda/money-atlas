@@ -1,33 +1,45 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T18:45:15+00:00",
-  "quotesAt": "2026-08-18T18:45:15+00:00",
-  "newsAt": "2026-08-18T18:45:15+00:00",
+  "fetchedAt": "2026-08-18T19:00:15+00:00",
+  "quotesAt": "2026-08-18T19:00:15+00:00",
+  "newsAt": "2026-08-18T19:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7700.46,
+    "spx": 7697.81,
     "nikkei": 67460.73,
-    "vix": 15.65,
-    "krw": 1412.88,
-    "gold": 4414.5,
-    "wti": 84.06,
-    "dxy": 99.65
+    "vix": 15.66,
+    "krw": 1412.89,
+    "gold": 4409.6,
+    "wti": 84.11,
+    "dxy": 99.67
   },
   "daily": {
-    "spx": -1.1,
+    "spx": -1.13,
     "kospi": 0.83,
     "nikkei": -2.54,
     "krw": -0.18,
-    "dxy": 0.01,
-    "gold": -0.07,
-    "wti": -0.52,
-    "vix": 3.03
+    "dxy": 0.03,
+    "gold": -0.19,
+    "wti": -0.46,
+    "vix": 3.09
   },
   "news": [
     {
+      "t": "주가 밀어올린 실적… 반도체 너머도 훈풍 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WQklKclN0azJNbXRSVkFkWmQ1TDNURzZNSmVUbmU1R012LThMcWg3U2c0V0V0RWdMbkNwMnhxU1pIR2loSlJHSzJxa2FvVkpLdTRTX3NEcEpBRWVpak5RcGZ5S3ZhY1R40gFuQVVfeXFMUG9rWFd5VWdFU1lpVTFsckxWYmZuUmhzNEhLX2kyOWpnYVAwbVVhTVdrZDZjSVdNVkpEMVlyamJhWkJQTFRYLTlPTS1FNEY2U1RKTG5tZFNlSHlyVzFWM2hUeEF2VXV3VHVtbmhtQ1E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T18:55:00+00:00"
+    },
+    {
+      "t": "발등에 불 떨어진 카니, 트럼프와 담판...오늘부터 50% 관세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82LTFUR2tXc2t5SW9lRDN2cjBrV2RIbUhmdzI1VFRvYmdQZS1xNzRMWHdtYW9ZZTVYWG16YXoybGdhWG4tV3hmalFTV0p4WTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T18:53:09+00:00"
+    },
+    {
       "t": "코스피 7천선 재차 회복…삼전 3.2%·닉스 6.2% 상승 출발",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pT1ZMNUpGRV9mdXRGNHZad0pobDBpY1U2ajRocWZwSnNHMk92X0hxd2MzR0NLV1NnTlVIeE9Ta1lYOTBuRTZmZmJNUHdQaVY5RnVrVFlKRzZuVkZRZUFCVFhXanlWQ1U?oc=5",
-      "s": "hani.co.kr",
+      "s": "한겨레",
       "d": "2026-08-18T18:19:04+00:00"
     },
     {
@@ -55,7 +67,7 @@ window.LIVE_DATA = {
       "d": "2026-08-18T17:45:51+00:00"
     },
     {
-      "t": "채권자경단 '패닉 버튼' 누르나…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
+      "t": "채권자경단 '패닉 버튼' 누를까…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUdCS01rX1pDYU1DRUFxWEQ5S1c4Y2VBN1RiQi1ONjRuNnRreVh6UFFqM0RNMVEtbW5rSGkydXA5VGU4N1Z6MHg4VG5NYnUyQUF6RjQteHctUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-18T17:25:01+00:00"
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTHlrS2NNcElsaE5PZHU0RE1WZGpzc09GZUcxNUNiM2VUZFNqb2lyU1l0ZjVlYXpVenJLQTBLdDB5UFV5TUozdlZ6aWV4eUIzaVJJUVFFMENZbWc?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-18T17:21:00+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 채권금리 압박에 4,500달러 돌파 또 실패…1.22%↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE55OV8tN2ZlWFZFNk5wX1ZFekRabUJ0bFBNSXNaX1RSMXFpYVRWRTBxRno3aExsNjVXZnpDQjBYRkZOc3Njd3ZZQkxrbDh6YXRFUmNIT1lfZ0w5UTdialgtd0s1aVhzdTZUOU8yckZnZ0dBdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T17:17:43+00:00"
-    },
-    {
-      "t": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taU5qdTNxYi1ZZEUtQWl2Zng2VzJ2UFJyaHhEbTZtd1c2NFg0d2M1ejNPNVVPbFhXbThsREN6T0hYZmthTTEzc3NNU00tQmJvNEhNb0tRZVBMRDlEbDYtTXpZaDdEeWtwXzRR0gFwQVVfeXFMT3RmWENQei1XN3Mta2hQVnVLblNHaVZ2Wk84M2U5eXROaEE4R3BWd2pMRTRXSjh5THRqT01vQ1pEVmRlYnc0SWVmLTUtUU5VVmpMdjVrc2ROdEJ4amdvaExGRmZhaXBJZ3VUNUFQX3dBNw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-18T17:00:00+00:00"
     }
   ],
   "asof": {},
