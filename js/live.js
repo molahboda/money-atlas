@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T20:45:15+00:00",
-  "quotesAt": "2026-08-18T20:45:15+00:00",
-  "newsAt": "2026-08-18T20:45:15+00:00",
+  "fetchedAt": "2026-08-18T21:00:15+00:00",
+  "quotesAt": "2026-08-18T21:00:15+00:00",
+  "newsAt": "2026-08-18T21:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7691.76,
     "nikkei": 67460.73,
     "vix": 15.84,
-    "krw": 1412.58,
-    "gold": 4394.4,
-    "wti": 84.32,
+    "krw": 1412.62,
+    "gold": 4387.1,
+    "wti": 84.48,
     "dxy": 99.67
   },
   "daily": {
     "spx": -1.21,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.2,
+    "krw": -0.19,
     "dxy": 0.03,
-    "gold": -0.53,
-    "wti": -0.21,
+    "gold": -0.69,
+    "wti": -0.02,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "[뉴욕증시] 글로벌 금리 상승에 '도망쳐'…필리 지수 5%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RV1pJUGt6V1djdnpHWko1Z2tqV0c2ZHAwNmR3X1hidEl3UGthRURoQnVzTFEtYUJjNldETFIxd2tDNUNGbUdxVXNRaGMxYmhPZ0Z4ajY4R1poZ0V2Tjd1Zk4tR1NsRlAycFJXcnRyeUc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T20:52:28+00:00"
+    },
+    {
+      "t": "[뉴욕증시]美 30년물 국채 금리 상승에 일제히 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yVXJvallESWUxT3NEa0pUMlNZeGtPaV9nUE1ZWWs2MVh3ek03ZzRxUTE0OEJHV3FnZDRza09pUFRFWUxQTU5iU01wdDJ0Z1pOQnlyNGtUWTRhVk1oQVdNVQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-18T20:52:01+00:00"
+    },
+    {
+      "t": "美 장기금리 급등에 반도체주 ‘휘청’…나스닥 1.33% 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pTXhkS1JNaVMzWkxrWnJPcnM0QnFreGZjUkQ5RGVHY2k5NjB0RDlLZldlRkplcGhYbmJ3WDlDWmJCZmNNTzNkai11MUg3bFJfdFFRc1J3Tml6QUZNdHFFazlpZU5BVkU?oc=5",
+      "s": "지이코노미",
+      "d": "2026-08-18T20:47:37+00:00"
+    },
+    {
+      "t": "미국 반도체 지수 5% 급락…장기금리 상승에 SK하닉 ADR 9%↓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Fc0FCblM1ZVhkeVFHallXQ0UwX0FERUF6VHJleWtRV3RBN3BSblVEZjFfcnlsY19iQ2lMTS0zYWM4b2dZVDR3MV84MnNheTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T20:47:00+00:00"
+    },
+    {
+      "t": "캐나다, 50% 관세 부과 하루 앞두고 트럼프와 통화했지만 협상 난항",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CZk5FZXpWbFA2RXpXZHo0eGkxV2NsTzkxY1MzQjNRRE83YXBnVmltOWNlRW5CZEZKaXpLZkwxWTRNQWN4eDBMcWpIMFR3MDRmTFhJVkhhY240a2xJcUE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-18T20:43:00+00:00"
+    },
     {
       "t": "국제유가, 중동 불안 지속에 사흘 연속 상승",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kU1ozbUhfaHJOd1hRM2VKdU5rUWFwZ01tTDFjb0MtODhMVzNoZjN4MGp4Sm5JX19qS2JaTzNsQ0RQNFNZSjBDZ2Y0eTF4ekk?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdHZ1bTJHbkhvZWdrY3pTOTFoNzRtVlNQdW1idEJDTldobzFvb2Y4RmYzM185VVZGYnRtemNSZXpwZ1dBR3pTdFhFR2VtRktqVUZSWW0wUFZhZ3gz?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-18T20:35:00+00:00"
-    },
-    {
-      "t": "‘50% 관세’ 발효 D-1…미·캐나다 정상 통화, 협상은 난항",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdG1jYjlJSUZxdkRuVUtnWFFTRnFfSVdWN2tldDRZY1ZlWldXdDdiWC1rcWlpbVBWQk9QUjhwZUVacUVJdmtQYUR1MTNLY2hXY1JmM2ZSdExUMkU?oc=5",
-      "s": "news.kbs.co.kr",
-      "d": "2026-08-18T20:29:00+00:00"
-    },
-    {
-      "t": "르네사스 \"AI 반도체 5배 키운다\"… 파워 반도체 판 커진다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTBYUVR1SUdIbW56OG9jOXQ5R0piN05LT0otdzJUQmx4VzhhaDlacm5TV0dIMmFPZjVEVVJ2bEhTWDhkWU83U0N1VGhOaDNkZWpxSXNkdVE2UHNBWXZQNmhURVBIaDVIQllLdlVabW1URWtiNUFVdkhqOGdQNEtWUTM3UFNNLUZT?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-18T20:28:32+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 고금리 충격에 사흘째 하락…마이크론, 7% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTi1lZXlJU21RZ1FwXzg4OTU5ai03VW9WOGVDdXFKeXp3Tk1zLXZPbWlNNzI4TFJ3WV9PaXRsZVdPcTktNE5jVlM0SGFTZ0k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T20:25:07+00:00"
-    },
-    {
-      "t": "30년 만기 美 국채 금리 장중 5.33% 돌파…19년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nU3VNaGFyajZmZ1NQZHJUNGVQQmZFem55bE41Um5iQ2l3aXNRZndpR1pxdGxDaDBWZ21wOUwtSmM3QVc2OTBtU0FrRDlhWDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T20:20:49+00:00"
-    },
-    {
-      "t": "[뉴욕환시] 달러 강보합…이란과 협상하지 않고 있다는 트럼프",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PYm9SWWtmcktDNmNaaXdzUWZkZDNoU2Fmd05SbDMxcEFHSmtIV2M4TDZyZjBUS21DbGtjSy11OXpvMHlaWnp0LXB1WkhtUTFnTWpDSlhyaDZqZDNrbGlkUF9SSjFnMVVPaVpvcTZPRmxoQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T20:19:14+00:00"
     }
   ],
   "asof": {},
