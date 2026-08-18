@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T16:45:16+00:00",
-  "quotesAt": "2026-08-18T16:45:16+00:00",
-  "newsAt": "2026-08-18T16:45:16+00:00",
+  "fetchedAt": "2026-08-18T17:00:15+00:00",
+  "quotesAt": "2026-08-18T17:00:15+00:00",
+  "newsAt": "2026-08-18T17:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7704.2,
+    "spx": 7706.5,
     "nikkei": 67460.73,
     "vix": 15.71,
-    "krw": 1411.77,
-    "gold": 4421.9,
-    "wti": 84.56,
-    "dxy": 99.62
+    "krw": 1411.3,
+    "gold": 4418.6,
+    "wti": 84.36,
+    "dxy": 99.6
   },
   "daily": {
-    "spx": -1.05,
+    "spx": -1.02,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.25,
-    "dxy": -0.02,
-    "gold": 0.09,
-    "wti": 0.07,
+    "krw": -0.29,
+    "dxy": -0.04,
+    "gold": 0.02,
+    "wti": -0.17,
     "vix": 3.42
   },
   "news": [
+    {
+      "t": "유럽증시, 갈수록 짙어지는 중동 먹구름에 대부분 하락… 국제유가는 90 달러 상회",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1BHVWlsY19NR05sc1RzN0gxaUVzSlM2b0N4cklCOGxyVjRiaHhpMDQ4cEYtSGV4VW5VZzZjTWRmSlRFWmU4Wk96N1ZYS3pIVXVnMjk2bmJOc3J6?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-18T16:55:00+00:00"
+    },
+    {
+      "t": "美 40조달러 부채에 日 재정우려까지…글로벌 장기채 금리 급등",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rNW9wOU5UdDJ5MndUc2VIdG94eHUzWjJZWDZudDVhOXZoSG1Lb185S2J0MXpGcWpDXzExdFlhVGhSMTl3cWk1SlRHTHVfT2RsUGk2RW9FamNzUDDSAWBBVV95cUxOOThKQWw0d2xQLVgtNDU5RnVad2FWVFViT1A0Um9TZXZRTkxEaVd6bmh1bzU3bWpJWDhYbm93NTJYV0lFRko1REFCY3ByWlVhNU8zc2FMSWdHSmNFaVIweF8?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-18T16:44:37+00:00"
+    },
     {
       "t": "유로존 국채 금리, 유가 급등에 수년래 최고치 경신",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FOEVSeGhsdVpSdnVDMGctS09paUtnLXUtSFFGX2xjaDB2Yzd5VTVmM3g1czB6VHJOQlZRUVhVT0VQdHRMTjRMN25MemdkaE8tdWRIZE8wVmxWWkh1S2Zmc1NtTGF1S0MyOGxBMTc2VEU?oc=5",
@@ -45,12 +57,6 @@ window.LIVE_DATA = {
     {
       "t": "韓美日 국채금리 치솟아, 가계-기업-증시 먹구름",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYWU0cmZ6WEFfejUtWGxNVDNiUFdDRGc3VTZiTEkyUExkZDYyUFcwSmV6Z010dHpHdFpuZUxtV2VuM3dzd0RheE1tTnFaenJnZkZxUVZmbU9NYXBoSmlfVVlOZGdmd9IBZkFVX3lxTE9uYWU0cmZ6WEFfejUtWGxNVDNiUFdDRGc3VTZiTEkyUExkZDYyUFcwSmV6Z010dHpHdFpuZUxtV2VuM3dzd0RheE1tTnFaenJnZkZxUVZmbU9NYXBoSmlfVVlOZGdmdw?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-18T15:30:00+00:00"
-    },
-    {
-      "t": "“한-싱가포르, 반도체-에너지 협력 최적 파트너”",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydkZDbXc5MUhITTMzOHJYblA4Q2VlRThaakhndXVET2k1eDdzZHVPOUo3OE1selVfa2VrMWFtMmF6TGpQeWI0VTNORmlQVE1tZXBkUE1zRzhjR0F0bzRfTlBybHZlSzJqOC04RW1Yd2JnMm9YS1HSAWZBVV95cUxONFFCQ01Ra2tCQWlQbU53azl2Q2JWTFBfbnB2TGRHdFhiOFZERGRybjVhQm5jaDltSy1uWE5kWERNNU1ZeUVfeGZfQVNKZ1lsdDdLamhTc1hORjFvdXFrLUJlUlZHQ2c?oc=5",
       "s": "동아일보",
       "d": "2026-08-18T15:30:00+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vU3Nub29DRnRYT0NDdm1CMlFqeTdGSzFZbllOcUZEbm56OEQ3ZFRNU1VCRm5saVV0LVQzbGktS3dqaTFyMXJuczZLYVBDMjBlVlE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-18T15:03:14+00:00"
-    },
-    {
-      "t": "반도체 클러스터 용수 ‘안정적 공급체계’ 구축을",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83X3hQejZ1WHNWSnR5NHBnd19CUWU0QVlxcWV4SFZOazYyM1RfUElYMVdITlBTWjBWdnQxclFWbFdJeUl0TWNENF9FMmRhLTJxczZ1OUllY015NmlXQjI3YXFKTVhkTzRDYnc?oc=5",
-      "s": "중기이코노미",
-      "d": "2026-08-18T15:00:00+00:00"
     }
   ],
   "asof": {},
