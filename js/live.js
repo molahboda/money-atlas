@@ -1,29 +1,77 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T06:30:29+00:00",
-  "quotesAt": "2026-08-18T06:30:29+00:00",
-  "newsAt": "2026-08-18T06:30:29+00:00",
+  "fetchedAt": "2026-08-18T06:45:29+00:00",
+  "quotesAt": "2026-08-18T06:45:29+00:00",
+  "newsAt": "2026-08-18T06:45:29+00:00",
   "quotes": {
-    "kospi": 6821.19,
+    "kospi": 6865.02,
     "spx": 7745.06,
-    "nikkei": 67554.97,
+    "nikkei": 67460.73,
     "vix": 15.19,
-    "krw": 1411.38,
-    "gold": 4451.5,
-    "wti": 85.36,
-    "dxy": 99.67
+    "krw": 1412.18,
+    "gold": 4450.5,
+    "wti": 85.49,
+    "dxy": 99.68
   },
   "daily": {
     "spx": -0.69,
-    "kospi": 0.12,
-    "nikkei": -2.41,
-    "krw": -0.28,
+    "kospi": 0.76,
+    "nikkei": -2.54,
+    "krw": -0.23,
     "dxy": 0.04,
-    "gold": 0.76,
-    "wti": 1.02,
+    "gold": 0.74,
+    "wti": 1.17,
     "vix": 6.6
   },
   "news": [
+    {
+      "t": "코스피, 1.55% 하락 마감…코스닥도 3.52%↓",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVjZUOGxHREZhM3ZSVlpMaVFvRXEyS1F5NFlfWnZlS0dZNTItemYyeFNpcVhSQ3VTZ3U0VlBCcXFXV3h6LWU4cWRpc2VMU3NmYkstak1KcFl0dUJleFNXTy1Lc1VnTmM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-18T06:42:00+00:00"
+    },
+    {
+      "t": "거세지는 美 관세 압박… ‘대미 투자 1호’ 타결·15% 사수 총력전",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tZmRCLXVqalNCaGZDclJpQkdRbkI4NlVnWkk0YzZTcW1BM2JKaHBROWhhNHFpaVdkWHdrNHl4SzRPWEFrbGdITVJjb3FFYjZmSDFBZklXczVLTjJRVU5XS1JzVFhYNlB1cU1lWlNiLU1pVnBC?oc=5",
+      "s": "대한경제",
+      "d": "2026-08-18T06:39:30+00:00"
+    },
+    {
+      "t": "명지대 ‘GRRC 반도체진단연구센터’ 출범…반도체 소부장 산학연 허브 구축·전문인재 양성 총력",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qY2F2dUNIOC1BTENXOE9YWE5QOUlDa0h3dlNMaVc5WUdGUFNVNUJ5VjhiTDJNZ3lvdVoycXc2WW56VmY4NHZHVXhpNkZacTYy?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-18T06:37:33+00:00"
+    },
+    {
+      "t": "상승 출발한 코스피, 1.55% 내린 6,869.83에 마감…코스닥은 3.52%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xa0Nxc2Z6emdCZGU2VWYyUHlrQ2RZYWNlejFzcDRtUk5wZE8tYjc1Rm5OUUFKYlYxT20tem1kaUVlZFpqZThZMzl4ejVLVGhCRmRiU3pQOWRNSV9nYTl5Vkt4T2luY2pDdnBJM2J1alrSAXRBVV95cUxQTUY3ZkVLQmROUnMzQzZJeDhHUFgxY1dTNFpwRXIycGtPOUdSVU15cEhRNDFCT0JWZ2g0X3FVVG1WazBoSlpaQmJ2Zi14Q2JqalJjYnpkMUxGMGZKSlVwOXU1bDZNOXl5bndyUmhST1g0NzlHMg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T06:35:12+00:00"
+    },
+    {
+      "t": "[속보] 원·달러 환율, 1.2원 내린 1411.8원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOTZmckt0ZUZ6NUh1TC0zTG80aU9hUnhiSllzVVRLM1lFU3hsemNsQXRST0E1RFkyclRHT0JfM3k2bXV1QjFMM1k4STZzMGhYaWFvVVZzcWFSRWhVczJJcm9kUkRNUFdtby1SMFFGUFU3dkRmcVFhbFF4MDBybk9Oang4SUZPQdIBmgFBVV95cUxOTDJMVVBOYzFnVFdmcFFYbU9FQXM2Snp6OWgzLVFGQTZtOE8yVUFGaEdZMkdtb080Y1ViTlhYT05VWkJqYm9pc3E3bWsxc0dmUTJPZWlhU24tT1NiSUlfWTBvaEhxQTVGNzhDWFAtV2tJRUdJRHprWFZpZjRQSVpGRXRrUnZqUTUtY2ZYUzFoSndvUDRxVFE2NTdn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-18T06:35:00+00:00"
+    },
+    {
+      "t": "[코스피] 108.11p(1.55%) 내린 6,869.83(장종료)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsemNreWpDX1JWdHBUelloREQxMnJfMGxwZkRHZkl2Y2szWUlSb2tOSjJIYmhDdVFsUGlVUUhYaXZZZDdUdHZUVTNMSWxaWjdocWxoUklhNkZBR3PSAWBBVV95cUxPZklVQTNNbk1yWFVJVDZCNHNPdGxUQ0hidC1Nd2IwQTBWcGJBaVFQRDdWbVJqWHZVa0hkdV82U0NiRkNkM0dYUU9MVDJsT2VoNWx3eTFFVFgxWXhQMEQ1X20?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-18T06:33:19+00:00"
+    },
+    {
+      "t": "'실리 챙기기'와 '관세 부과' 사이 막판 협상…1호 대미투자 최종 조율 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1neERkb3N6SmxiaHNHcVgxRm8yQW5BQzIwa0tyUFBIY2xERS1qNlIzVDFLcFE0TWdSRU9VUk5TSHRpR1VsT1VEYWREUHlvdWlLRl9LeURjbzN3a1RfNWlGbGRUUEUzZzRCcHI40gFwQVVfeXFMT1FkMkVXT0w5RTNMQS1sVGE1cjhLb00zajI5TDgzNXFRb2l4SG55ZXV0UEpWTFVFZUVFREVYU1FwWHRaS2ZYV2paRy1sa0VMR2xxSk1zUTgzb2hUUzFLbW4tVmJwRVhaWmlXTDlGeTNWaQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T06:30:33+00:00"
+    },
+    {
+      "t": "물가 내렸는데 장바구니는 왜 더 무거운가?",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81SG9mUTU0ZHdXeFNqSE1LVEdGNHhqaVhBcmNIUV9ubjBSeWwzUzYyYkczX1VLWGtoTXNrMFBNb3VWbTc1Zzk4Ujk4eHhSTHM4MjA3T3FhRjFUMDRvMUhyTHc2XzNqc29PVXBDZkNxUQ?oc=5",
+      "s": "기호일보",
+      "d": "2026-08-18T06:30:30+00:00"
+    },
     {
       "t": "바이렉스, 인스넥스 3600dpi 컬러 CIS 카메라 반도체·배터리 양산 라인 공급 확대",
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVzZQVzZVSlFrYVJ0YVVSY1F6YzNxTmw0VWFzZ2xsUEUzbmgzLUFmdjBXV00xcXJrdUdWb2diUGVwRkdJSDN2ZFhZRXU0QUs3R0RlVG9DREppM1NNUExN?oc=5",
@@ -31,58 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-18T06:26:49+00:00"
     },
     {
-      "t": "대구시 1천300억 금융지원, 관건은 ‘최종 금리’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51ejlwX2VIVEZ5eWdBT29QSlRjOG9ncDRNQ2lLbFA0dkNSb0tpZ2RPcWRkLUR3TTloQ0QtMXVIanlnZ0E5N3NscW9MakR0UGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T06:25:08+00:00"
-    },
-    {
-      "t": "美금리·유가 덮친 뉴욕…코스피는 7200 터치",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RT1Y5REl2aTdvX0ZvcWNuZVpNbTFvelpaN1hrekp0YUM2aUJ5OXBDdkUwRlF6ckQyT1hUdlo3SXNaSlVYVFNNSWt1WTd4TkpxejNHM3lyUVhVcDB5TGc4ZmtIVGlLZTdybXlfdg?oc=5",
-      "s": "mstoday.co.kr",
-      "d": "2026-08-18T06:23:27+00:00"
-    },
-    {
-      "t": "주담대 변동금리 넉 달 연속 오른다…7월 코픽스 0.13%p 상승 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDhyM0xnSWZnYnNoU0wzOU5IcUNPc1lKMVdFZnpNeWZIM0VxSHFZX2FQR21uTzlYM0xTcHBTZk5ra2NFb3ZpS1loVkt0d1k0SElSZEFaU2hTZDZVUDJoYUhWaUFTYm5EXzNmQWJ0LU52X2ZITGdfbV9HdmMzOFlTRNIBlAFBVV95cUxQc0lkRS03QXJrVFIzeFRRM3dvOGo4SEpVNFlKaTNaV3RROGZlcWxnOExVNTh5dnVuaW9FTGxISjV5RDZmdW43WW9scWFTWnBVMFBCQ2hTX1htVUFhVk9UU2xEWVAyelFrY3VHM0tIM1c4bTdDOXZXNzlVR0ZvS2d6TmNHVHYyTWRDRDRDNWwtc3RCUVVr?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-18T06:20:00+00:00"
-    },
-    {
-      "t": "최형두 “호남반도체 정치 아닌 현실로…피지컬 AI로 정책 전환해야”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Hd3pueXRjSExrY0xnYUFlTHhKY0RvZ1BsVzJKcDhtRXhRbEJQU2tveE90Mk1nQm9FcE8zWnlVUk9ydkQtaWF2NUd2RHNMdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-18T06:11:37+00:00"
-    },
-    {
-      "t": "주담대 변동금리 4개월 연속 상승…7월 코픽스 0.13%p↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eDg0UU5OWUptamg0eWVKNDBxMVVsZmtHZWpQQ1J0V1Bub3cxSjBYRV9BNl83YXJWdXE3Rm9wUU9NdG5OWnZ5X3gweTlnWGZhTEdqRVpOOUhtLTZpdGdjb2NrRFdfQVJFTzMwVDlzb0Y?oc=5",
+      "t": "주담대 변동금리 4개월 연속 상승…7월 코픽스 0.13%p↑(종합)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yWGdVZFI3cUJ6cjhKb05BemxDRGYzSUJnWXQtNW9GR204ZFNpSTJlRkE0akxScjVXQ3UwTHZqdkJPWkx3anRqQXNvRTJOVHJraXZqN19JZmg2STRrLUhOYVhSNG1MZmh4OUhXSG5QTk8?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-18T06:11:17+00:00"
-    },
-    {
-      "t": "가계 빚 사상 최대 기록에 금리인상까지...폭탄 곧 터지나 [자막뉴스]",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DSURvakhDZDlFV29EMDduZjF1ZkxIM05vQTQ5R283NjhDOW1TN1FINFFjSkRWUTdvWUFKb0FRS2tWWGdVWFdjbTRscC1tVmtXUGI3cnFiUHV1Z3BickE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-18T05:58:00+00:00"
-    },
-    {
-      "t": "日 장기금리 30년래 최고...3% 돌파 시간문제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLU1N4Qk14dkVmbFlLRE5XSjBicHJMMlFWWGo0ZDc0dE9IdG5CUXpfZmR5cE9iRG02YTU4aUFSQ3o3blUxV2JxMHVmVDVBOTJLWERWaUVUUnZjd9IBWEFVX3lxTE1wLVJJQlRxTThHektjU3pXclE2dzRqQkFPSjVGVUpRM0llWXo4RjR6MUo5Zko2RXZFVXZCS1dOREFMelBuRFlwN25tU0Fyd0VVdXcyQ3RLTEg?oc=5",
-      "s": "아주경제",
-      "d": "2026-08-18T05:57:17+00:00"
-    },
-    {
-      "t": "한미반도체, 인천 6230평 부지 매입…역대 최대 규모 8공장 구축 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnd0T0ZHNUlJRU54aGZnZm95NXZ1OGNBdUxvQ2RfV010dHBQdzNjbzZaYzZKV0pKV3pyUzBrU1Z1a1dJSkxzRmdFdzlOM0RjNDM3YnJYMUpzODU1TmNGVl9tYWZTSHl3UDVXbjM2azFHYzF2T1NVMFZhclZKUmhleUZn0gGWAUFVX3lxTE50UURKM3ZvZzU0ZFNvM21qNDUwMlBFOUh2TXIzWjdJNTVManZlZ2xsTWdfY0xrMjVYS3VGQVZQTE1GSnBCT2dENFZNTHNuZ2V2V3NfNFNra0ptZ1FJcHFBcGM4d1dRS2tZSGhoMnZHRlJVRUdTNTVNYlpHdFNtVXp4d3hieHdqYWc4ZTdfakVKQXZKd1UyQQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-18T05:50:00+00:00"
-    },
-    {
-      "t": "美 관세압박에, 대미투자 1호 이달 나오나…정부 “반도체, 사실 아냐”",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfOWR3NFh1Q1NHdjJ5V245QnU0d2pHd1diVC1oRnUtODJzZFhrRDc4LXJHYXN1aWpBY1JyZjRDZVE2Mmw2TXFobS11U0Fnb05RdzRuYXRxS0NheFpMa1FKQllycw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-18T05:45:39+00:00"
+      "d": "2026-08-18T06:25:42+00:00"
     }
   ],
   "asof": {},
