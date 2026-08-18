@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T20:30:15+00:00",
-  "quotesAt": "2026-08-18T20:30:15+00:00",
-  "newsAt": "2026-08-18T20:30:15+00:00",
+  "fetchedAt": "2026-08-18T20:45:15+00:00",
+  "quotesAt": "2026-08-18T20:45:15+00:00",
+  "newsAt": "2026-08-18T20:45:15+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7691.76,
     "nikkei": 67460.73,
     "vix": 15.84,
-    "krw": 1412.81,
-    "gold": 4395.5,
-    "wti": 84.24,
-    "dxy": 99.68
+    "krw": 1412.58,
+    "gold": 4394.4,
+    "wti": 84.32,
+    "dxy": 99.67
   },
   "daily": {
     "spx": -1.21,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.18,
-    "dxy": 0.04,
-    "gold": -0.5,
-    "wti": -0.31,
+    "krw": -0.2,
+    "dxy": 0.03,
+    "gold": -0.53,
+    "wti": -0.21,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "국제유가, 중동 불안 지속에 사흘 연속 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kU1ozbUhfaHJOd1hRM2VKdU5rUWFwZ01tTDFjb0MtODhMVzNoZjN4MGp4Sm5JX19qS2JaTzNsQ0RQNFNZSjBDZ2Y0eTF4ekk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T20:39:02+00:00"
+    },
+    {
+      "t": "나스닥 1.33% 하락…유가·장기금리 상승에 도미노 매도 압박[뉴욕마감]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LcjZJczZCNUdHa3ZJOHNSUEtMUndyNl94VjMza1ZlZ3Zoblcwb3VsZVZhem9rVUJySzVFMW8zaW9xTlNmaTlxbFhIbzRLcEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T20:37:51+00:00"
+    },
+    {
+      "t": "[뉴욕증시] 국채 금리 '발작' 속 반도체주 와르르...3대 지수 하락",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnFCVTdEWl9wV3Zoc0w2aVhjT0VQemZwakNKNjdqNWlzc0JXTUIxY01faDhNYU9qVEpoSlA1dkFTZEF1YXFsXzI3VU9Xb1FvOU5jZjR1ampLWUhBVzRyN1R6cE8xb21KVWpybkgzVTl4VEtOX2FYbEZYR2tDelBSd2x4S2V3b3Zu?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-18T20:36:49+00:00"
+    },
+    {
+      "t": "중동 불안에 국제 유가 상승...뉴욕 증시 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zRWFiZzBUQlFVTXl3S3NUQUJiS01wcTNDVENLd0tXb1NYWG5mb1pqRHhHNk13d1RxeERYaHY1Vkp2dk1CYTV6dHVJWTBSc0pkVHg4QU9GZ2VBdC1pcEE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-18T20:35:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 글로벌 국채금리 급등에 부담… S&P 500, 3거래일 연속 내림세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdHZ1bTJHbkhvZWdrY3pTOTFoNzRtVlNQdW1idEJDTldobzFvb2Y4RmYzM185VVZGYnRtemNSZXpwZ1dBR3pTdFhFR2VtRktqVUZSWW0wUFZhZ3gz?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-18T20:35:00+00:00"
+    },
+    {
+      "t": "‘50% 관세’ 발효 D-1…미·캐나다 정상 통화, 협상은 난항",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdG1jYjlJSUZxdkRuVUtnWFFTRnFfSVdWN2tldDRZY1ZlWldXdDdiWC1rcWlpbVBWQk9QUjhwZUVacUVJdmtQYUR1MTNLY2hXY1JmM2ZSdExUMkU?oc=5",
+      "s": "news.kbs.co.kr",
+      "d": "2026-08-18T20:29:00+00:00"
+    },
+    {
+      "t": "르네사스 \"AI 반도체 5배 키운다\"… 파워 반도체 판 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLTBYUVR1SUdIbW56OG9jOXQ5R0piN05LT0otdzJUQmx4VzhhaDlacm5TV0dIMmFPZjVEVVJ2bEhTWDhkWU83U0N1VGhOaDNkZWpxSXNkdVE2UHNBWXZQNmhURVBIaDVIQllLdlVabW1URWtiNUFVdkhqOGdQNEtWUTM3UFNNLUZT?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-18T20:28:32+00:00"
+    },
+    {
+      "t": "[뉴욕증시] 고금리 충격에 사흘째 하락…마이크론, 7% 급락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTi1lZXlJU21RZ1FwXzg4OTU5ai03VW9WOGVDdXFKeXp3Tk1zLXZPbWlNNzI4TFJ3WV9PaXRsZVdPcTktNE5jVlM0SGFTZ0k?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T20:25:07+00:00"
+    },
+    {
+      "t": "30년 만기 美 국채 금리 장중 5.33% 돌파…19년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nU3VNaGFyajZmZ1NQZHJUNGVQQmZFem55bE41Um5iQ2l3aXNRZndpR1pxdGxDaDBWZ21wOUwtSmM3QVc2OTBtU0FrRDlhWDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T20:20:49+00:00"
+    },
     {
       "t": "[뉴욕환시] 달러 강보합…이란과 협상하지 않고 있다는 트럼프",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PYm9SWWtmcktDNmNaaXdzUWZkZDNoU2Fmd05SbDMxcEFHSmtIV2M4TDZyZjBUS21DbGtjSy11OXpvMHlaWnp0LXB1WkhtUTFnTWpDSlhyaDZqZDNrbGlkUF9SSjFnMVVPaVpvcTZPRmxoQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-18T20:19:14+00:00"
-    },
-    {
-      "t": "30년 만기 美 국채 금리 장중 5.33% 돌파…19년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ldS1uV1g5SlpubmRoUVRkRmZ4TjZYTXh2eWpGMFcwa3ozNDlobmxKMWUxZVRUaTZFLWQ1RmZYMTNrRmpEOHlQbFVOeWhKbG80SEFfRUlhembSAV5BVV95cUxPeGdZY2hiZHJiT19KRmtmZHJYMHZqdllwVERVbzM1ZG5vVThKX2k1NWUxb190Z0U3Zmw1eHNPZzJLM3NVLTM1TkV4bHNPdVI1TG9zZnR3bzdLcUt1NkFR?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-18T20:19:09+00:00"
-    },
-    {
-      "t": "[뉴욕증시-1보] 글로벌 금리 상승에 '도망쳐'…필리 지수 5%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNOHZNSVdlTC11MGoyWnhqREM0RTctamc2UWY4SUFVaUZxYlZLZ1o3d1c0UWFtMGFRZlptOUk1MjEyVjczY3pJRVZrR3FBSXdCNWl2MDB6S2d4MnBwNzNXSGVabnl3dGEwY0t5Q2hvY2zSAXRBVV95cUxQdjJHdTljejJpYVlFcjV1VjlCaDFYSzlEbEExMnQ4amZlRWVveDllOXgwSExud1ZhcExLS3lHTkpWRldPd1FQWFhNc3BzYnM1N0JnVWs4TG1TcVh0eEJvVUdjLS1uR1dxdkhwNHVOaGFKODBOOA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T20:16:09+00:00"
-    },
-    {
-      "t": "뉴욕증시, 중동불안·미 국채금리 급등에 하락…나스닥 1.3%↓",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OOTg2WkFTSms0ZnEtVVU5b1NwVW16T1NQYXpOVDZEVVVmVFVPR2JDQXNTdEU0MGhmOEItWHZSVmVxZ2JhaS1RR2dDNFloUmhIRVhkdXlEalJfdmvSAWBBVV95cUxPZVRERW13N3ZoZGQ5dV8xemZabmdBT0ZlVmVBamlCNHBvVDZxVW5CQlBTTG1xMUdDWldFUXBEWnVDRmlxT2tEZ3gwZzJBYV9mWUZ4NDVUQUNQNTBuZkRNcXQ?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-18T20:13:29+00:00"
-    },
-    {
-      "t": "중동 정세 불안에 국제유가 사흘 연속 상승…WTI 0.5%↑",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BcUp4VVdrLUZpcFdfV0ppZmJNZmVrd1NNLU9PeTJyMF9GZkZrWGJfV29nQkdRbWZRaDFnSFdTcUxWbHhSc0pON0FyZVhTRG83eU80Nm1xLUJmSHc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-18T20:08:00+00:00"
-    },
-    {
-      "t": "코스피 반등장 8兆 베팅한 외국인… ‘삼전닉스’ 집중 매수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01bUdZeGx6bjdtOTNJSS1kZEdlRmR6X1o1WjNnV1lwaXFSeXJMcG9rNlYzbDBnOXZXR1hSMlIyVnA2TDJQV0hsOU0yc0NINTA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T20:04:52+00:00"
-    },
-    {
-      "t": "삼전닉스 손잡은 中반도체 회사…검찰, 서울사무실 덮친 까닭",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xeGJNMmFEVkFIZzVvMGU1d3RZUXhoR0tQTktIaldUcWtBVmJZMHFCVTJodXhPRV9VcU1zdDdKSGh4TnYtbEZfS25oWmE1ZFgwaVNYLTNn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-18T20:04:24+00:00"
-    },
-    {
-      "t": "[뉴욕채권] 국채가 사흘만에↑…장기금리發 기술주 타격에 약세 되돌림",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DeHBnRjluMUozLTlzTlhER2cyeDBxTnp3Z0pKYVp6RGtxQ1RhMy1SSlZ2Vm1JNjY0QV8xdVc1LUQ3d01kWVctcU5wY3JITjg1Ul9nRU1lMWRjNU80S1h2alpDUHNXOGFDbWtPd041bk1rZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T20:04:14+00:00"
-    },
-    {
-      "t": "[속보] SK하이닉스 ADR 9.19% 급락… 미 증시 일제 하락",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFVBd1V3RjVGTE5ySTlQQzJOR2o1NlV0RlRxRUZVUFBwSHR0NTlGNjliZnlaa0l6NGZlVDh2bWV4YWViOWdlemdUdXc0emVDcUo4YmRPRXZ1UzJqOE1HSjBvMV9kMzdsSlNuSGxzZ3JKTEhLWkZydnZzRkgxOFpEb1EyWFJCSjVldkhRM3dQQ00tUDBwSXc?oc=5",
-      "s": "국민일보",
-      "d": "2026-08-18T20:04:00+00:00"
-    },
-    {
-      "t": "\"멕시코, 철강·자동차 등 중국산 수입품 추가 관세 저울질\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rclJfS1FCZmFRS1B5dHdZc0FjbG9PSDQ3V3g4Mzd6ZXNXemlQa216Zi1lX3FJYmt2eEs1NTE1dnhZVmxlcXVSRlRjMHdILXc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T20:03:52+00:00"
     }
   ],
   "asof": {},
