@@ -1,33 +1,39 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T17:45:15+00:00",
-  "quotesAt": "2026-08-18T17:45:15+00:00",
-  "newsAt": "2026-08-18T17:45:15+00:00",
+  "fetchedAt": "2026-08-18T18:00:15+00:00",
+  "quotesAt": "2026-08-18T18:00:15+00:00",
+  "newsAt": "2026-08-18T18:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7701.21,
+    "spx": 7695.98,
     "nikkei": 67460.73,
-    "vix": 15.7,
-    "krw": 1412.07,
-    "gold": 4420,
-    "wti": 84.18,
-    "dxy": 99.66
+    "vix": 15.71,
+    "krw": 1412.17,
+    "gold": 4413.6,
+    "wti": 84.08,
+    "dxy": 99.65
   },
   "daily": {
-    "spx": -1.09,
+    "spx": -1.15,
     "kospi": 0.83,
     "nikkei": -2.54,
     "krw": -0.23,
-    "dxy": 0.02,
-    "gold": 0.05,
-    "wti": -0.38,
-    "vix": 3.36
+    "dxy": 0.01,
+    "gold": -0.1,
+    "wti": -0.5,
+    "vix": 3.42
   },
   "news": [
     {
+      "t": "캐나다 총리, 50% 관세 발효 앞두고 트럼프와 통화",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10eWlJLVl2V0dXVHhnVFhLRnRWcmNuQ2FPQ2g5dUZNQzRCTGpydUVnaEJCckRqQ0k5Z0c5cWtGMGNUSnp1NnlQNGt1SDBiV3c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T17:45:51+00:00"
+    },
+    {
       "t": "채권자경단 '패닉 버튼' 누르나…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUdCS01rX1pDYU1DRUFxWEQ5S1c4Y2VBN1RiQi1ONjRuNnRreVh6UFFqM0RNMVEtbW5rSGkydXA5VGU4N1Z6MHg4VG5NYnUyQUF6RjQteHctUQ?oc=5",
-      "s": "한국경제",
+      "s": "hankyung.com",
       "d": "2026-08-18T17:25:01+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFR5cTdNOEVRWS16ajBNVDBaZkZ6QU9UU3ZTWjFCVWVCd3kwNjV4QlZFVThCNm5XNmRUUE00WHhNUFB1VkQ3UF9oLTBJc3F3dF9QeDhTeXpyNHpKX0lTcVpVdzRmWjNNdVlpVGI1ZGJtUzV5dkg1eXV5ckozYnRheVNpRU9DNmdxZ1BxTjd4TmFYaXo4bk5B?oc=5",
       "s": "조선일보",
       "d": "2026-08-18T15:53:00+00:00"
-    },
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 18일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDVtWGF3aW9ZT0R2Mm1fV08wdWRMdWlOZm5pdG5QVWc0TDVOYlRZR0lvSjlwbjh1dHpLdVdUOWNNSENzZWkwMThBT0pOaFFfbFd2NjgwNVUyaktsbi1ZNVZBa1ZSTU96OE9uVUVQRFpZRjRHN2g4TzRwZzZEaE1ub1o1QTNLNGl00gGcAUFVX3lxTFBUWVF6dTFEOVI3dnpmbm1JNE1FU2lwUlRoNWY0WG10SC13dkRHaWZWM0NSWnctMTR1eWVxWDJIeFVUVlN0OWQtQWRjM1hOT0owMGNRbGtrbnlfT0thVEVqRTlJQjFhN2RXWUw0eEJ0XzBSaXVIVHpULU1JTE9OWVhTeVE2WTBXSFZpYkNvTllnQlZHc1V4YWF3ZnNweg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-18T15:35:00+00:00"
     }
   ],
   "asof": {},
