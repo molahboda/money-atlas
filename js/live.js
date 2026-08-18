@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T17:00:15+00:00",
-  "quotesAt": "2026-08-18T17:00:15+00:00",
-  "newsAt": "2026-08-18T17:00:15+00:00",
+  "fetchedAt": "2026-08-18T17:15:15+00:00",
+  "quotesAt": "2026-08-18T17:15:15+00:00",
+  "newsAt": "2026-08-18T17:15:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7706.5,
+    "spx": 7706.07,
     "nikkei": 67460.73,
-    "vix": 15.71,
-    "krw": 1411.3,
-    "gold": 4418.6,
-    "wti": 84.36,
-    "dxy": 99.6
+    "vix": 15.65,
+    "krw": 1411.82,
+    "gold": 4420.7,
+    "wti": 84.19,
+    "dxy": 99.63
   },
   "daily": {
     "spx": -1.02,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.29,
-    "dxy": -0.04,
-    "gold": 0.02,
-    "wti": -0.17,
-    "vix": 3.42
+    "krw": -0.25,
+    "dxy": -0.01,
+    "gold": 0.07,
+    "wti": -0.37,
+    "vix": 3.03
   },
   "news": [
+    {
+      "t": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taU5qdTNxYi1ZZEUtQWl2Zng2VzJ2UFJyaHhEbTZtd1c2NFg0d2M1ejNPNVVPbFhXbThsREN6T0hYZmthTTEzc3NNU00tQmJvNEhNb0tRZVBMRDlEbDYtTXpZaDdEeWtwXzRR0gFwQVVfeXFMT3RmWENQei1XN3Mta2hQVnVLblNHaVZ2Wk84M2U5eXROaEE4R3BWd2pMRTRXSjh5THRqT01vQ1pEVmRlYnc0SWVmLTUtUU5VVmpMdjVrc2ROdEJ4amdvaExGRmZhaXBJZ3VUNUFQX3dBNw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T17:00:00+00:00"
+    },
     {
       "t": "유럽증시, 갈수록 짙어지는 중동 먹구름에 대부분 하락… 국제유가는 90 달러 상회",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1BHVWlsY19NR05sc1RzN0gxaUVzSlM2b0N4cklCOGxyVjRiaHhpMDQ4cEYtSGV4VW5VZzZjTWRmSlRFWmU4Wk96N1ZYS3pIVXVnMjk2bmJOc3J6?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
       "s": "조선일보",
       "d": "2026-08-18T15:10:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 30년물 금리 상승에 '비명'…필리 지수 5.44%↓",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vU3Nub29DRnRYT0NDdm1CMlFqeTdGSzFZbllOcUZEbm56OEQ3ZFRNU1VCRm5saVV0LVQzbGktS3dqaTFyMXJuczZLYVBDMjBlVlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-18T15:03:14+00:00"
     }
   ],
   "asof": {},
