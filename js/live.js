@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T06:15:29+00:00",
-  "quotesAt": "2026-08-18T06:15:29+00:00",
-  "newsAt": "2026-08-18T06:15:29+00:00",
+  "fetchedAt": "2026-08-18T06:30:29+00:00",
+  "quotesAt": "2026-08-18T06:30:29+00:00",
+  "newsAt": "2026-08-18T06:30:29+00:00",
   "quotes": {
-    "kospi": 6839.74,
+    "kospi": 6821.19,
     "spx": 7745.06,
-    "nikkei": 67506.68,
+    "nikkei": 67554.97,
     "vix": 15.19,
-    "krw": 1410.71,
-    "gold": 4445.4,
-    "wti": 85.4,
-    "dxy": 99.69
+    "krw": 1411.38,
+    "gold": 4451.5,
+    "wti": 85.36,
+    "dxy": 99.67
   },
   "daily": {
     "spx": -0.69,
-    "kospi": 0.39,
-    "nikkei": -2.48,
-    "krw": -0.33,
-    "dxy": 0.05,
-    "gold": 0.62,
-    "wti": 1.07,
+    "kospi": 0.12,
+    "nikkei": -2.41,
+    "krw": -0.28,
+    "dxy": 0.04,
+    "gold": 0.76,
+    "wti": 1.02,
     "vix": 6.6
   },
   "news": [
     {
-      "t": "주담대 변동금리 넉 달째 상승…7월 코픽스 0.13%p↑",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MSzNSaG00RlRqbWJqREF5QVJrU0YxaEViNTdqNTZDVTVhZ0dKQTVoTjBaRWFWZVB0cmgwUy1Dc0JUZldFXzRoSHVqMzhHQzZISlIyZDVtVmNVUnFjUlBGd2IyQzVydEUtWk5qZ2UwVmFMWkhZ?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-08-18T06:08:56+00:00"
+      "t": "바이렉스, 인스넥스 3600dpi 컬러 CIS 카메라 반도체·배터리 양산 라인 공급 확대",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVzZQVzZVSlFrYVJ0YVVSY1F6YzNxTmw0VWFzZ2xsUEUzbmgzLUFmdjBXV00xcXJrdUdWb2diUGVwRkdJSDN2ZFhZRXU0QUs3R0RlVG9DREppM1NNUExN?oc=5",
+      "s": "헬로티",
+      "d": "2026-08-18T06:26:49+00:00"
+    },
+    {
+      "t": "대구시 1천300억 금융지원, 관건은 ‘최종 금리’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51ejlwX2VIVEZ5eWdBT29QSlRjOG9ncDRNQ2lLbFA0dkNSb0tpZ2RPcWRkLUR3TTloQ0QtMXVIanlnZ0E5N3NscW9MakR0UGs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T06:25:08+00:00"
+    },
+    {
+      "t": "美금리·유가 덮친 뉴욕…코스피는 7200 터치",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RT1Y5REl2aTdvX0ZvcWNuZVpNbTFvelpaN1hrekp0YUM2aUJ5OXBDdkUwRlF6ckQyT1hUdlo3SXNaSlVYVFNNSWt1WTd4TkpxejNHM3lyUVhVcDB5TGc4ZmtIVGlLZTdybXlfdg?oc=5",
+      "s": "mstoday.co.kr",
+      "d": "2026-08-18T06:23:27+00:00"
+    },
+    {
+      "t": "주담대 변동금리 넉 달 연속 오른다…7월 코픽스 0.13%p 상승 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRDhyM0xnSWZnYnNoU0wzOU5IcUNPc1lKMVdFZnpNeWZIM0VxSHFZX2FQR21uTzlYM0xTcHBTZk5ra2NFb3ZpS1loVkt0d1k0SElSZEFaU2hTZDZVUDJoYUhWaUFTYm5EXzNmQWJ0LU52X2ZITGdfbV9HdmMzOFlTRNIBlAFBVV95cUxQc0lkRS03QXJrVFIzeFRRM3dvOGo4SEpVNFlKaTNaV3RROGZlcWxnOExVNTh5dnVuaW9FTGxISjV5RDZmdW43WW9scWFTWnBVMFBCQ2hTX1htVUFhVk9UU2xEWVAyelFrY3VHM0tIM1c4bTdDOXZXNzlVR0ZvS2d6TmNHVHYyTWRDRDRDNWwtc3RCUVVr?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-18T06:20:00+00:00"
+    },
+    {
+      "t": "최형두 “호남반도체 정치 아닌 현실로…피지컬 AI로 정책 전환해야”",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Hd3pueXRjSExrY0xnYUFlTHhKY0RvZ1BsVzJKcDhtRXhRbEJQU2tveE90Mk1nQm9FcE8zWnlVUk9ydkQtaWF2NUd2RHNMdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-18T06:11:37+00:00"
+    },
+    {
+      "t": "주담대 변동금리 4개월 연속 상승…7월 코픽스 0.13%p↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eDg0UU5OWUptamg0eWVKNDBxMVVsZmtHZWpQQ1J0V1Bub3cxSjBYRV9BNl83YXJWdXE3Rm9wUU9NdG5OWnZ5X3gweTlnWGZhTEdqRVpOOUhtLTZpdGdjb2NrRFdfQVJFTzMwVDlzb0Y?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T06:11:17+00:00"
     },
     {
       "t": "가계 빚 사상 최대 기록에 금리인상까지...폭탄 곧 터지나 [자막뉴스]",
@@ -37,10 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-08-18T05:58:00+00:00"
     },
     {
-      "t": "탄력받은 반도체 주가. 더 가려면 ‘이것’이 필요합니다.",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41TkNtZUZucHNLRkZQUGhIVF9uRmhjVGRaVlZRMExHR0tPclBmallmcmVjcWxtcUV4Smo4dzRaaDVQakhQc3VfZFJ0Q3Jtak1uNWc?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-18T05:54:00+00:00"
+      "t": "日 장기금리 30년래 최고...3% 돌파 시간문제",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLU1N4Qk14dkVmbFlLRE5XSjBicHJMMlFWWGo0ZDc0dE9IdG5CUXpfZmR5cE9iRG02YTU4aUFSQ3o3blUxV2JxMHVmVDVBOTJLWERWaUVUUnZjd9IBWEFVX3lxTE1wLVJJQlRxTThHektjU3pXclE2dzRqQkFPSjVGVUpRM0llWXo4RjR6MUo5Zko2RXZFVXZCS1dOREFMelBuRFlwN25tU0Fyd0VVdXcyQ3RLTEg?oc=5",
+      "s": "아주경제",
+      "d": "2026-08-18T05:57:17+00:00"
     },
     {
       "t": "한미반도체, 인천 6230평 부지 매입…역대 최대 규모 8공장 구축 - 조선비즈",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-18T05:50:00+00:00"
     },
     {
-      "t": "샌프란 연은 \"중기 실질 자연이자율 1.5% 추정…현 통화정책 완화적\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE91ZGlSZEh5Qnc0RHJ4Zms4NU5ua1V4Vlk3alFVOERZbENRalA3M3ZoMWFUNkh6Z1ZVM2FhaVlMWmtKYkctcjJWNG5GM1pSTk1hMlZVcmdGenFsQTZORmNUQUxCdE5fa1c0ZjZfRmNhNzg0dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T05:49:02+00:00"
-    },
-    {
       "t": "美 관세압박에, 대미투자 1호 이달 나오나…정부 “반도체, 사실 아냐”",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfOWR3NFh1Q1NHdjJ5V245QnU0d2pHd1diVC1oRnUtODJzZFhrRDc4LXJHYXN1aWpBY1JyZjRDZVE2Mmw2TXFobS11U0Fnb05RdzRuYXRxS0NheFpMa1FKQllycw?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-18T05:45:39+00:00"
-    },
-    {
-      "t": "코스피 조정에 美 몰려간 개미군단…월가 \"말도 안 되는 일\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZTzk1QVVHcDBQbDR0TWl1QzBva3ZoWVBMMmtYNHRFb3hYcEh4SHJfcmdvR1hONTBlRloxV3NIUzVYankwQjBiUWxfbUFKdmdPWjRXQXRrVklTdG9iS0tWeGVtZnVKWGtYTmFyWHdQX0Y?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T05:45:01+00:00"
-    },
-    {
-      "t": "한미반도체, 1300억원 투입해 대규모 신규 팹 구축 추진",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ER0J1ZVdVd3hNZkswRm1NLWtiTnBsWEpBSjJKNkpNRmswVEg1eUtvMVlmNHZLZl90aVRncWpvckNSZXVqNl83TndhaHNJS3N5d1J6MUxR?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-18T05:42:48+00:00"
-    },
-    {
-      "t": "코스피 반등 불구…거래대금·거래량 연중 최저 수준",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zUHJPMEJkb044UmE5V2hmc1B1WGEyMk5XZWx1Ry1OM2lDamhlRk9tcGthdlM4OWJFRWxVVm56TFg3Q0lmMFhTX0taOU9NNmM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T05:39:02+00:00"
-    },
-    {
-      "t": "한미반도체, 1천300억 투자 역대 최대규모 8공장 구축",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQkw5Y3JxMEhfVDJQc2FXX3FtQTRJQi1DU3NvOGxfUXhaVnJYcHRaZTI3ZENCbmdUeUZDMGYwM3BiRUlKTm5GX3FrVTBqblZ3SXhPb0pLbTcwdmdCbEVTcTBCUW0tbTE1SVJ3SW1kbnE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T05:35:03+00:00"
     }
   ],
   "asof": {},
