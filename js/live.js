@@ -1,33 +1,45 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T15:15:15+00:00",
-  "quotesAt": "2026-08-18T15:15:15+00:00",
-  "newsAt": "2026-08-18T15:15:15+00:00",
+  "fetchedAt": "2026-08-18T15:30:15+00:00",
+  "quotesAt": "2026-08-18T15:30:15+00:00",
+  "newsAt": "2026-08-18T15:30:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7697.79,
+    "spx": 7699.56,
     "nikkei": 67460.73,
-    "vix": 15.83,
-    "krw": 1412.19,
-    "gold": 4432.4,
-    "wti": 84.23,
-    "dxy": 99.56
+    "vix": 15.87,
+    "krw": 1411.91,
+    "gold": 4410.1,
+    "wti": 84.48,
+    "dxy": 99.63
   },
   "daily": {
-    "spx": -1.13,
+    "spx": -1.11,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.22,
-    "dxy": -0.08,
-    "gold": 0.33,
-    "wti": -0.32,
-    "vix": 4.21
+    "krw": -0.24,
+    "dxy": -0.01,
+    "gold": -0.17,
+    "wti": -0.02,
+    "vix": 4.48
   },
   "news": [
     {
+      "t": "뉴욕증시, 채권 금리 상승에 부담… 3대 지수 하락 출발 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmFzamhCOTljVGI3M0FfVG9IejJ3azR6QjE0RVY0TEpPSFluTFFpSVdVZl9MVEFiNEJ0aXMyYk9iUDJzd0hMXzZJYjQ3djl3ME5FRkhJdXhUY0lVbkxPa0pKY0I4VU5xOFBVa2tLaDJFS1RwTVZHRHlsVmNMX1YzVEtudFJabktLVGtPZldHa21QZ2lGSWFkNl9oMkRmUdIBsgFBVV95cUxPWWJzbEQtMWIxUkNZdldUQTEwR0E5NGhQQnlWT1hYa1htR1V5TjBUbWNRZXQ5cWpqbkttZHNCNEVEa21iZHpGTi1oRjZvOUxxX1M1cjU3ZW1LZS1aUXFoRFB4UDBfUkgwVk5iN2FnRjhHNkdlZVZqVElCRHZqNkRzTC1XY3FjNUJOUkNnRE9fVFNINFpVNXUwSGtqVml2VlA1QnZGU1VNemZOV0o2bEZrLU5B?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-18T15:17:00+00:00"
+    },
+    {
+      "t": "뉴욕 증시, 중동 협상 기대감 약해지며 동반 하락세",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vQmdiY0QwdzZZRm9wRTh5RjRGMmhydDF4b3VhbXd0dTVzNnR3Qmh4X2p0d0k4Yy1LamQ5aG4tUkFLZGEtQ3IteFNTaWtYNTIxWEFYblc2b3haVDl1clE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-18T15:16:00+00:00"
+    },
+    {
       "t": "\"삼전닉스만 수출주냐\"…반도체 다음은 '면비디아' [한경 프리미엄9 TODAY]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZrQjE3UldTb250Tks0ODktNVBsd1BfV3pydXJZZS1Uek10cnFOTFBpUlNyN0YtbHlzdFlkX0lSWkxlLVN2d1I2aExidTl2eVNtd1kxeXRoZw?oc=5",
-      "s": "한국경제",
+      "s": "hankyung.com",
       "d": "2026-08-18T15:07:00+00:00"
     },
     {
@@ -37,10 +49,10 @@ window.LIVE_DATA = {
       "d": "2026-08-18T15:03:14+00:00"
     },
     {
-      "t": "야데니 \"10년물 미국채 금리 5% 넘기전까진 괜찮아\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbE1POW5pUC1KSXh6ZnRRSmhta1Y4d1pGTGZRWDE4Z195WWkxT25jM2prVW04LXlpNG9rU0U0djdyUWlDeFhuMDNVMy1wNjhLa0stZ1NjeVZpZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-18T14:55:24+00:00"
+      "t": "[김대호 진단] 반도체 열전 (43) 델 테크(Dell Technologies)… 상장폐지 아픈 기억",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY29POFRrczJJZE9SSl9sVkhWdWdGaWxjcmVEQnZYMkJIRWRBRHRvRTFWWGIyVjJCMjVhMTZrMDZjTTVMRHRqUm9PcnJrc2xoVmp3dXJFLTZtbG1saDBrTUkzemNZbDFsTlJHa3FvM2JGd0FtV2s5UTRKWnJRd3puVDBMVnE?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-18T15:00:00+00:00"
     },
     {
       "t": "美 7월 수입물가 예상 밖 0.4%↓…1년 2개월 만에 최대 낙폭",
@@ -57,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "국채수익률 상승 여파로 美 증시 하락…반도체주 일제 하락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95WUZhMmRmUUwyT1VIMUQ4WmdaT2EzVm8tUlhHdks4R1BGNlpaVXJLUXo1eGI4ZV9yaFlGczRwVlFDaUI4SDBKdTZGOFJKYlBkcmdjZzNMeXZUQQ?oc=5",
-      "s": "한국경제",
+      "s": "hankyung.com",
       "d": "2026-08-18T14:12:15+00:00"
     },
     {
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-18T13:55:00+00:00"
     },
     {
-      "t": "[뉴욕증시]美 장기채 금리·유가 상승에 일제히 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LaWRfWFh0RWhHUDdKTGhhaFZ0NUhjd3R6dHZXSWxSRzZpMUZBbTVDSFNIOGt0a3B2OXZ5YlUwSVEyYVFoWm1zN1A3MDU5MEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T13:47:51+00:00"
-    },
-    {
-      "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 금리·유가 급등에 반도체주 '일제 하락'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DRE9qc3BRX1FaQzQzSmFmdU9fTHNlX0JyalJYUi1HbmdsN2xBVHRLVEtiazFmY1hLVFpyZGpRNjhzZ2U1Z2Z6YlNqWFRHd2pKUWFscnkyS2VQTUVj?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-18T13:24:00+00:00"
-    },
-    {
-      "t": "유가 뛰자 물가 공포 다시…美·유럽·日 장기금리 줄줄이 최고",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HZk9qcjF2V3A1Q2RQcEhEMjExUG5wZC1QNzh2R3VFR2dXUW9HV2ZrSVdkWHowS1RXcERDS01nUWdzRGFhbnkzRGZjcmVod3lVTTV6UkVWaDlaQQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-18T13:18:52+00:00"
+      "t": "美만의 문제 아니다…세계 장기금리 동반 상승",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HSUlTYkFheFRfVDF4VGhEQVFFUi1ITVoxa1JzVnh2NURvYkt4LS1PSElWT1pKd2lFdnBYU3M3eU1ZZkNHSmQxcDlfVFUtOE8xSml0U3NPZTIwVDZtTTJmaG5GM1BSVnBvdGdzeTlhN010OWM?oc=5",
+      "s": "마켓인",
+      "d": "2026-08-18T13:48:36+00:00"
     }
   ],
   "asof": {},
