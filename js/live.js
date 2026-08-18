@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T07:30:30+00:00",
-  "quotesAt": "2026-08-18T07:30:30+00:00",
-  "newsAt": "2026-08-18T07:30:30+00:00",
+  "fetchedAt": "2026-08-18T07:45:30+00:00",
+  "quotesAt": "2026-08-18T07:45:30+00:00",
+  "newsAt": "2026-08-18T07:45:30+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7745.06,
     "nikkei": 67460.73,
-    "vix": 15.81,
-    "krw": 1412.04,
-    "gold": 4455.9,
-    "wti": 85,
-    "dxy": 99.66
+    "vix": 15.84,
+    "krw": 1412.31,
+    "gold": 4454.2,
+    "wti": 84.13,
+    "dxy": 99.64
   },
   "daily": {
     "spx": -0.69,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.24,
-    "dxy": 0.03,
-    "gold": 0.86,
-    "wti": 0.59,
-    "vix": 4.08
+    "krw": -0.22,
+    "dxy": 0,
+    "gold": 0.82,
+    "wti": -0.44,
+    "vix": 4.28
   },
   "news": [
     {
-      "t": "반도체·AI까지 파고드는 미 압박…정부·업계는 ‘고심’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ManRTTHdUZmhjc0lwV3JURE9KSnRJNk5pbDR4MEoxUXI0dW9sd3d2SjA3VVh1MmJjNThKODEzMGV2b1J6OS1sdWZ5Zzh0WEk?oc=5",
+      "t": "원·달러 환율 10개월 만 '최저'...'美 금리 동결' 기대감 커져",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFV3pBZVdGcXY0ek43enZEdC15OXhmOEIyRnR0ejdWQk1ndV9UWTdjdmZxc1hXaUViNkhqMjNPenBtVlFlMWNHb3BIeFA2SExzekszemVwR1pXMkp2YVczOGlCV0tDcnJoSmdha0FkU2VKNmNm?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-18T07:43:17+00:00"
+    },
+    {
+      "t": "코스피, 6거래일 만에 하락 마감…6,800선",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aZ1FpaHduYTEyNXJXRmJ1RkF5U2J4ZERyOWdCUU9BSTRPQUpsbGZ0Z2FkWjBhVWV2UTJqOXZaNHphRFBPcjk2ZkxFdmpjODg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-18T07:25:08+00:00"
+      "d": "2026-08-18T07:42:40+00:00"
     },
     {
-      "t": "美 경기 둔화에 금리 인상 기대 후퇴…달러-원 환율 1411.8원(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rWFp4TGwwOEc1dFUxSDQxSjJYR2JwLTU1ZVFkYkJyeHF4X2J5ZjRnRkFGeURNUTBSTWRGcnlWbVItdkRpT2plSU5zdGNlQ00?oc=5",
+      "t": "[뉴욕증시 전략] 연장은 없었다…美 30년물 국채수익률 5.3",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80WGtQdU1HRDJwNkZXU1dOaS1YeV81TEpWTnMzazNNWTFBLTdldTJPUHFndzBwWnlRZXpCTDNpUFZGYzlDdE00blRfRU5UQkE?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-18T07:22:39+00:00"
+      "d": "2026-08-18T07:42:24+00:00"
     },
     {
-      "t": "KB증권 'AI랠리, 빅테크보다 자본공급자 봐야' … 금리가 변수",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwSmQ0ZmJvQzRFTURMcm5uTjZDcTRxUV9mY3hVajFNVjd3WVBqUzN6VzNXWFZCcnhQajZvM0VaeV8xTWwxdEFxeTdSbjVfLTZJTGp2ei01cWRvQkpIdTI1X0R2YkFXNE1XenFIX2VYZ9IBc0FVX3lxTE51RmZ4UE1kQVF2TDA0aXJVaTRDUDFIcnBDU3VwTHQ1SUlYb2szQ25VM210WFljOE0zUllsM0ZDSmZsaTNwbHJlZFR3WHdWdjY4cld2WFRoRW9CcGJSckw2c2g5M0Z1QV9FaWppMUx2ZEhmRjA?oc=5",
-      "s": "세이프타임즈",
-      "d": "2026-08-18T07:19:54+00:00"
+      "t": "[애프터마켓 브리핑] '전강후약' 코스피, 1.5% 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TVNYN2x0a0hFSi1kYW5PRDdydXZlUm9xTDFlanN1bXJzZzNDNW1ZbVRFaWtrUkZ1WWdjNkZ4cG93SWJQMEVqa2d6QTlTeHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T07:42:22+00:00"
     },
     {
-      "t": "한미반도체, 1300억 투입해 대규모 신규 팹 구축",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GdTdMN2Z1TkxFeENJWUkwdlJUOV9fSFFYQ3lNZnVMcmR2QzlMaG8temI0cC1BRHVWUVhURkpPMVlaU1Z5cWJ5ZjZZaG5HNzhTRUVta05JQU92Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-18T07:16:19+00:00"
-    },
-    {
-      "t": "'유가·금리' 상승 여파…코스피·코스닥 6거래일 만에 동반 약세[시황종합]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZDBVeXRtdlZWNngtQmJtVFR3Q3dQSWNscTdoaDl3dDVkcjZyWWlZZTl6MTVwR2l2ODVVc0pYaUNSMmFOLW9WLWpaS0NiSTlIM1JMM05LZnQ3QUHSAWBBVV95cUxNR0g1RmdJMFZDNnZ2MUZPT1dtM2x5Wk5MU0ZSMDZqRVdCbEh3X3VTMi1WUDBpeXU3YWFHV2dFWXJadU1sS2lnM2dKMXZxbzJ1N1pzQTl5TTlkVGJKREJNZzM?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-18T07:16:18+00:00"
-    },
-    {
-      "t": "7200까지 올랐다가 '뚝' 코스피, 1%대 하락...美 국채금리 상승 여파 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWVVdPdnIxLU1uME5rZVpsRXN2ODE1V0hxM1luRzR3V1VTSEUzcV90MUV4YUlubmJ2bHVNcmhVb2hFelNGSXNmb1Z4ei1OVnRJWmhnTEFpWGV6VkM3Ums1X3FsWl9na2FD0gFuQVVfeXFMTTJHWFk4TmhvMGVTbW5kenVxamZuRjdZSHJWdlZLVkhLczNsOXVLLVlWU2lJR2RoWlNaczA0U3YzUXhwLThyXzU5OG9JbENSRVdVQkhOZTFjc19DZ3F5SE9YV3FRWFVuajBhQVljZmc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-18T07:15:27+00:00"
-    },
-    {
-      "t": "[중국증시-마감] AI·기술주 약세 속 혼조",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNYTlHd3B4NWVXTUJmZ3k3RkNHMk5Nc2lxNU5qc0ZtRHp4N0g0QlNhZDlOc3dUY3lKVVdzNkdkTm1ONS1qajBXbDYyYzB0UXJRWl9ZSmpBaWgyZW9qSjE4WFRnOTFNalM5M1JVakxYekdodw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T07:15:12+00:00"
-    },
-    {
-      "t": "[마켓뷰] 다시 멀어진 ’7000피‘… 코스피, 美 국채 금리 부담에 1.5% 하락 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVFxN0hYM290LUl2dngzZ3NGMm9sQWtBdWF6bjRQSzZEUTRYMzFVb2NrTTltNmNDeTJyTERhUHdGUzZVSlpJT0VId0pqc3RjNDgzX0p0cFhYUTg5R2h3blZ2VWdFT1llWXh0V3QtZ0N1cGZmNGxtZXlVZHltRDh2YWpEem1NbkR00gGcAUFVX3lxTE5xdHBFV1l3MU9yRnAwNDFCZlpfblZkdVlVM2RsMnpTS2NneFoyXzZWSXB1cUhHbVc4a2JLOWRCbTM5YzVnTGVOZ09pV291M3pkWV9PZmFVaXJtUVNqOWRyOGZpOWQxYU53V2ZKV0dtUG5XNWZkcTIxMUgzNzlpUGdSalk5eUxLSnl3bnNsMkNCaUJVMVhXOEE5TUpVQg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-18T07:13:00+00:00"
-    },
-    {
-      "t": "한미반도체, AI장비 '쇼티지'에 1300억 베팅…역대 최대 8공장 구축",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SQjhMTVFxTXpKZzZMMzBRRTRRWFhQUld4OUVZZllpYXFYSmU0eHE1X1k3R1dRcEl2U1UzbzF3TFA1a281akc5R0oxanhwalo3cW5nNmhiaHh5UjI4MVRVQ2FNZWh5eFJKZmJncw?oc=5",
+      "t": "코스피 '전강후약', 7000선 돌파 후 매크로 변수에 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6WFhPQ0xZVXM5WV9YSkJLdGhyRWRYcUV6RXlveVkwUW1RZUNMV1p4alhTNzBjWGpwVHREOXdIaUJKVW91T2t2c3U5TDRUN0dyenBueWNXQ3NfNWN2SFphTzN1c201OEY1UGc?oc=5",
       "s": "비즈워치",
-      "d": "2026-08-18T07:12:10+00:00"
+      "d": "2026-08-18T07:41:03+00:00"
     },
     {
-      "t": "대미투자 1호 막판 조율…美 '반도체 생산' 압박",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TbmZfOW1OYTZnMGhVeWFXMTQ2SExNbnVZOWU4TWJST2JlT19iMGpiNlBndGRoYWpPWDRWYU1BeXl6Y2UxcGI2QUtuVm10dEk?oc=5",
+      "t": "국채금리 상승에 발목…닛케이 2.5%↓[Asia마감] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40eHlvSjdDTmZVNW83NjhyNkRSUkhKSjB3azE2MlgyM3BMVHRhYjMyUDNrS3k3TUU3blFTYmJYc2hhc2F0WjZQVzZ1YnVJdU5rel92U0pxSi1GN0xyMG9xdUZVb3E0STl10gFuQVVfeXFMT3FETnFJMkEwd1V6VzloV2xjdklTYUwxajJ0Ri1wMzVmNkR6MDhsTVdEOFFYT0hyU1A5MUNTU21kWUU3SURqWFYzYXBqdDg4VFRPZEc3aTlrel9VbXNVZGg2RmhvTTlMR00xc1p5Tmc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T07:39:58+00:00"
+    },
+    {
+      "t": "원/달러 환율 10개월 만에 최저…1300원대 열리나 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HU0VvMXY5Z2FvVllVcjVyT0JLaGs0Q1RpTV9kMkpUUE1IVEc0bTh3U3NaRXUzTDdYOUlRN1hJWF9EYkVocFctdlpmMk5BbUhLbVpjOGNHUUdzU1lrdjVZbWxNVS1ZcF9wYVBn0gFwQVVfeXFMT2hrSWNWY29fOTdxbnNNS20zR3UtNXl6UmxuN3ZEcXdPZFBvSGNYeGRMeW5ZWjlEdTA5QU1IdE43T0NGeUxSc3ExbV9sem9SVjRaRXAwc1ktR0h0MmtZWEhIM0U4bGxYWkl1Q1N1a2N1OQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T07:37:09+00:00"
+    },
+    {
+      "t": "미국서 협상 나선 산업장관…대미 투자·관세 등 현안 논의",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1paFBXOEpwUm5zZExLS1VPRjZJc1hRbUVERUJrYmpMcXJHMkI0WGRyNTU3anNlYlY2NTNxNE1OanBiVU5Ca1pST3V0bE1oOFk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-18T07:10:44+00:00"
+      "d": "2026-08-18T07:36:38+00:00"
+    },
+    {
+      "t": "코스피 변동성 잦아들자 외국인 돌아오나…5거래일 연속 '사자'(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95V2RmUGJ1TDFYTEVYYnhHc3VfblNJNmwzSVc4X0dSdTFQaEJOektwdTVsM1RUMjZtbGJscnZVaXFaeUlYcGlhODVyRHZUYlE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T07:35:59+00:00"
+    },
+    {
+      "t": "7200 찍고 6800선 후퇴…유가·금리 상승에 코스피 발목",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZmtMb3JLLThsX3ZtcEgwTUVGU0tVVHF3WS14OEhpbjRjdF9XeFJOVGoyTXJkWV92ck9ycVJEOHFVUjV6VXBMS29HWU1vQWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T07:31:36+00:00"
     }
   ],
   "asof": {},
