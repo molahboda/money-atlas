@@ -1,39 +1,39 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T14:45:16+00:00",
-  "quotesAt": "2026-08-18T14:45:16+00:00",
-  "newsAt": "2026-08-18T14:45:16+00:00",
+  "fetchedAt": "2026-08-18T15:00:15+00:00",
+  "quotesAt": "2026-08-18T15:00:15+00:00",
+  "newsAt": "2026-08-18T15:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7703.48,
+    "spx": 7699.89,
     "nikkei": 67460.73,
-    "vix": 15.76,
-    "krw": 1411.2,
-    "gold": 4445.5,
-    "wti": 83.85,
-    "dxy": 99.57
+    "vix": 15.66,
+    "krw": 1411.48,
+    "gold": 4443.5,
+    "wti": 83.99,
+    "dxy": 99.56
   },
   "daily": {
-    "spx": -1.06,
+    "spx": -1.1,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.29,
-    "dxy": -0.07,
-    "gold": 0.63,
-    "wti": -0.77,
-    "vix": 3.75
+    "krw": -0.27,
+    "dxy": -0.08,
+    "gold": 0.58,
+    "wti": -0.6,
+    "vix": 3.09
   },
   "news": [
     {
-      "t": "미 달러화 강보합…파운드 약세 속 美 국채금리 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SaWdDZmp1WTJ0bkFZYmtocWpnOWtJN0I3S0d3ZmxQQjVIM213eHdpM2xkUWlwNmdMV1RRdWNqWm1iaUdGdmhmUUxmREtYeFh6TExBMHRCVENHYy1mcVJCY2g1UmpMQTkyRGZkR2JGU3g?oc=5",
+      "t": "美 7월 수입물가 예상 밖 0.4%↓…1년 2개월 만에 최대 낙폭",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTXQ0TEYwUHJfcEN4S3BaS09IRmo0WV9NSzNKaVp4ZTNoWGlqanVrRUJTV1ktYmZSb2FyQW9yUkdDWVpxLU5nbjNJNmlFVWU4ZFdGWFVaOC05UG84aTdCYTk5NzRjTzgzY296VmpYUEo?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-18T14:21:35+00:00"
+      "d": "2026-08-18T14:47:19+00:00"
     },
     {
       "t": "국채수익률 상승 여파로 美증시 하락…반도체주식 일제↓",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95WUZhMmRmUUwyT1VIMUQ4WmdaT2EzVm8tUlhHdks4R1BGNlpaVXJLUXo1eGI4ZV9yaFlGczRwVlFDaUI4SDBKdTZGOFJKYlBkcmdjZzNMeXZUQQ?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-08-18T14:12:15+00:00"
     },
     {
@@ -55,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-18T13:24:00+00:00"
     },
     {
+      "t": "유가 뛰자 물가 공포 다시…美·유럽·日 장기금리 줄줄이 최고",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HZk9qcjF2V3A1Q2RQcEhEMjExUG5wZC1QNzh2R3VFR2dXUW9HV2ZrSVdkWHowS1RXcERDS01nUWdzRGFhbnkzRGZjcmVod3lVTTV6UkVWaDlaQQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-18T13:18:52+00:00"
+    },
+    {
       "t": "뉴욕증시 개장 전 특징주...홈디포·듀오링고↑ VS 파브리넷·SK하이닉스ADR·테슬라↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nWXhaNjN6ZWc1cFZtVThyQzNZX3ozOUVZdzBseGlrSW1IMnF6NHp2T0gwV2VDUGVyTjRjQXVwdC13NXJ1Wmd1M3QtNHJhcEF5OGhjMHVuQjROVGVT?oc=5",
       "s": "뉴스핌",
@@ -71,12 +77,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Bc1U4RGtwVm5YZzRvZUQ4a2ZBcmE5eXZYZE1yb3dWTGtJYzVUTHFkVHZBdGN2S19ZRWZrdDlfY2NKWnlfaEFoU0tkMndyS2tWX1VnYWFuWTVjOVFG?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-18T13:00:00+00:00"
-    },
-    {
-      "t": "美 7월 수입물가 예상 밖 0.4%↓…1년 2개월 만에 최대 낙폭",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wS2ZMQld4WFpZVTVGbkxzSGl3N21paHNSbzNCUTNrQWpnblJzMm5BMFl0aEpGYUh0RXd3aG9SVEx4NmI5aVFxOHh5T2JZdXlKR0hWVVN1MEVOTHphWkVsYmR0Y285RVVIOFhvT3AxNVIwZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T12:47:19+00:00"
     },
     {
       "t": "美, 삼전닉스 반도체 유치 압박? 정부 “기업, 메모리 美투자 계획 없어”",
