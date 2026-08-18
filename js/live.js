@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T22:15:15+00:00",
-  "quotesAt": "2026-08-18T22:15:15+00:00",
-  "newsAt": "2026-08-18T22:15:15+00:00",
+  "fetchedAt": "2026-08-18T22:30:15+00:00",
+  "quotesAt": "2026-08-18T22:30:15+00:00",
+  "newsAt": "2026-08-18T22:30:15+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7691.76,
     "nikkei": 67460.73,
     "vix": 15.84,
-    "krw": 1412.23,
-    "gold": 4393.6,
-    "wti": 84.54,
+    "krw": 1412.2,
+    "gold": 4391.3,
+    "wti": 84.5,
     "dxy": 99.64
   },
   "daily": {
@@ -19,70 +19,70 @@ window.LIVE_DATA = {
     "nikkei": -2.54,
     "krw": -0.22,
     "dxy": 0,
-    "gold": -0.55,
-    "wti": 0.05,
+    "gold": -0.6,
+    "wti": 0,
     "vix": 4.28
   },
   "news": [
     {
-      "t": "[브라질증시] 11개월 연속 하락세 이어가... 재정·정치 불안에 발목",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wTENJZ1BtX0EzaklKQm9jSDRIR2pEWGtZZ3h4QjlqQWNzSnRGVEdFcDdKRXpmQ2dUMzhKcTBjWDZIbEZXM3p0R21SUXUtdC1RajlPcm02RDNfeTFM?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-18T22:10:00+00:00"
-    },
-    {
-      "t": "글로벌 장기채 매도세 충격...필라델피아반도체지수 4.98% 하락-[굿모닝 글로벌 이슈]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05bDI5eHlVY0JhSUF3ZWhJU3NjT0J2WVFZNGVGVkp0aXlSdk5BTTB4S3J1M2YtWjNtZG1BYm4xR21LSDBUbF85N251MkNWS3c?oc=5",
+      "t": "멕시코, 중국에 추가 관세 검토…美 대중 공동전선 요구에 부응",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YU2t4aXl2LVozRHRaOTVJRGg0d3RJWkdTbEZmOWJDS3NXeFlNbFhIb0FQVzY0dWthRE5qZ0NjSXQyYTJlRmlNNGVQYjd0ZTg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-18T22:08:50+00:00"
+      "d": "2026-08-18T22:23:07+00:00"
     },
     {
-      "t": "국제유가, 중동리스크 재부각 등 영향 3거래일 연속 상승",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HcWYzeExDb2pkeFNmNlZ3dzR3WmZYQ3BhSDB3X1pjaHF4Z1lqLTVSQnZjX29WbVllMTNFRmdFUzZwM1ZadkZkdy1CYXpTdlhXZV9GbWdqbGRBMG1RalE?oc=5",
-      "s": "foeconomy.co.kr",
-      "d": "2026-08-18T22:08:10+00:00"
+      "t": "[오늘의 글로벌마켓] 뉴욕증시, 국채금리 급등에 3대지수 일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNXB6X09HNlpXSnp4a3dfRk5JdENsYnJDQWFLQzZLU1F1WEVFeEd4VWZLWDZZRC1SVl9Vd0JTbEI3eHVOMjkwdzJoN0FHYUlwcnJxRjJPUXpBN3RQVnB5Q21qVjlyMWF5T3EyMTVVeVI?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-18T22:22:39+00:00"
     },
     {
-      "t": "[뉴욕채권] 국채가 사흘만에↑…장기금리發 기술주 타격에 약세 되돌림",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ocEhKWUdaZkg1bTBlNHRvNHphblJjQ3BLVERSdWRJQ01nRG9aeC05OTM4Yk5YLVpwbUZ3c1AwQ01HRmlQQks3VTZ3ejBjeXJtR1hITzhpZHdGYWRzVVhFZkN2NXJJU2ozR1pDa0o2dHY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T22:04:30+00:00"
-    },
-    {
-      "t": "관세 성실신고확인제도, 성공의 조건 [D&A 관세·외환리포트]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaEF3YkxmdGpyMEphMHp6NmtWTTFJUXJNWGlGSTc0Yl9HdjBldS0xUmdGSWVLUjZrakFHbm1pZmx6YXZCUE84SHRobVZTS00?oc=5",
+      "t": "원·달러 환율 숨고르기…\"1300원대 재진입 시도\" [클릭e종목]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BUkhtaWxYdHlvQkxlbVd3bzZRT0N0UFoyNzJJdENPMUVfMzgwMXNVMVR3OFA3a3BvMld3dGdYM3ZrVERGeE1tNFpBM1ozSlU?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-18T22:03:03+00:00"
+      "d": "2026-08-18T22:21:51+00:00"
     },
     {
-      "t": "美 압박 통했나…멕시코 중국에 추가 관세 검토",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WUEprcFpla3hrRHYzcHkwb0JUZjFISlhncXBMMloxX2tDTXkzUndLU3FvUDF4elY1NHhyejhQUnF1THhqbVdjdDI5dnVMUFU?oc=5",
+      "t": "[마켓 브리핑] 美국채 수익률 19년 만에 최대…기술주들 일제히 약세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrT21oXzBkWUY1ay00Z2dfUkJGSHFqMVpNbE13TnZ4UXctdGFQa0dEQUpWWUo1RFNrS0FpN2UwU0JhV3Z5WERHbFpGbUhKSVk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-18T21:59:53+00:00"
+      "d": "2026-08-18T22:19:17+00:00"
     },
     {
-      "t": "[뉴욕증시] 글로벌 고금리 충격 '화들짝', 사흘째 하락…반도체주 급락",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVWl3TEt1RjJiNDZuY3dBRURYdms5NDM2eVFvcDdsNno5VEY3SlZVd0w5MS10d05uMHRnT2RMM1A5V0cxck5seFp6WmktbV85MXVZOEJsSHVXNGFYNl8wMDZQSVVjZmhibmc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-08-18T21:59:22+00:00"
+      "t": "[최광범의 미디어 비평] ‘호들갑’과 ‘비명’ 사이… 언론의 주식시장 보도",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbGZiTWRIV21EMFpraW5RQTBqb1VJUzJ2NlUyMVhYMElnVmN0b0xReE54TTVkVXd6U1ZkWlFrVHZhZTU2cFdmb1kyOUVMaFdlb28tanJWSkttLW5WaW1LeU1B?oc=5",
+      "s": "경기신문",
+      "d": "2026-08-18T22:18:33+00:00"
     },
     {
-      "t": "[채권/외환] 美 국채금리 장중 급등 뒤 하락 전환…달러는 강보합",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKSnc1Snk2dzZGUFdOdnl0dk5RaTk5NzRsVEhKc3RIclVLN1EwUWxRLVhzZDBpNGotTzF2NEFnX2ptMnJhMUlVNzhISzVDTGcxLUZRR3BMN2lHVmhy?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-18T21:56:00+00:00"
+      "t": "美 국채 금리 급등 여파로 일제 하락…나스닥 1.3%↓ [뉴욕증시 브리핑]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNkpCY3NNV2x4cFZaWmNhRHowNFI5SS1TaV9wYzdnbURMRlMyOFFGQ3d4QWt3MXJobDhncFlxSzc1aVF6S09IYmFiX0hSekw2OUhNcl9kR3AyZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T22:13:43+00:00"
     },
     {
-      "t": "“반도체 호황 2027년 중반까지”…무디스가 내다본 한국 경제 [잇슈 머니]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNFNlei1sUHZROEZCZTRMZnM0LURjTG5YM0RBV0kyMnM3RHJTOHV3TmxSUG1EREZQQWQ1b2VQbHlsMGVxY1BtbEpabFRlaXk2emwtcVVFNzVlT1E?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-18T21:54:00+00:00"
+      "t": "[증시전략] 美 30년물 금리, 19년 만에 '최고'…시장 파장은?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MSjlhU2xrbENQOVVUS3BLRXktQmFlSDh0c0tLTFVKME5qRy04dWN1MjNGMUk0V0NlaThxLVdKWHlFRWJRRzRYMjZzWEw4OVU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T22:13:07+00:00"
     },
     {
-      "t": "[글로벌증시] 고금리 충격에 일제 하락…나스닥 1.3%↓",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HVmxWLWJWN0xiOVNOelhCMXVNTUMxYl9DbUVmQzQyNkRpcjVWZW9TZzduUEd5VlZqQktLckFyN3c5aDBkcDU0SkEwU2Vzb25fMXpRSEdfbmJ6WFpCOVpPR21qamZDVEp2dGZyc3NLYndqcHNC?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-08-18T21:50:27+00:00"
+      "t": "'추가 관세' 으름장에‥미국, 반도체까지 요구?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YTN4X01VNTZSMWJZX294Qmg4Qkt0M3dvdlJyX2lDcHA4YjVzQ1FPYnNrVWVhSXJNbklzV1lvXzc1cUVBSThTNHZXNHNGQms?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T22:13:07+00:00"
+    },
+    {
+      "t": "뉴욕 증시 동반 약세…반도체 낙폭 두드러져",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdDZPVWNMUzlETUVxWkFLV0hEbTc1N0xwZEMwN3p1VzlkMjIxbHpQLVJWVDA5ZV9FMzdSZlR4Q1E5a3hkUHI0ZlJvSktDWC1qdE9pMm9heWJwZlU?oc=5",
+      "s": "news.kbs.co.kr",
+      "d": "2026-08-18T22:13:00+00:00"
+    },
+    {
+      "t": "美 증시, 유가·장기금리 상승에 하락… S&P500 사흘 연속 내림세-[글로벌 마감 시황]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DLTdyMGkwamk3TUFZLURQeWtqT21ObURJa1NHZVJidTY5eEhqamxIR0tnVklTTGx4SFg0Y1NYSWJNX0lXRjdWaDlBNEZaYlk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T22:10:40+00:00"
     }
   ],
   "asof": {},
