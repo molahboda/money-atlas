@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T12:30:16+00:00",
-  "quotesAt": "2026-08-18T12:30:16+00:00",
-  "newsAt": "2026-08-18T12:30:16+00:00",
+  "fetchedAt": "2026-08-18T12:45:15+00:00",
+  "quotesAt": "2026-08-18T12:45:15+00:00",
+  "newsAt": "2026-08-18T12:45:15+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7745.06,
     "nikkei": 67460.73,
-    "vix": 15.7,
-    "krw": 1409.88,
-    "gold": 4454.4,
-    "wti": 84.36,
-    "dxy": 99.62
+    "vix": 15.69,
+    "krw": 1410.18,
+    "gold": 4454,
+    "wti": 84.18,
+    "dxy": 99.66
   },
   "daily": {
     "spx": -0.69,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.39,
-    "dxy": -0.01,
-    "gold": 0.83,
-    "wti": -0.17,
-    "vix": 3.36
+    "krw": -0.37,
+    "dxy": 0.02,
+    "gold": 0.82,
+    "wti": -0.38,
+    "vix": 3.29
   },
   "news": [
+    {
+      "t": "유가 상승 및 RBI 예금 제도 마감으로 인도 채권 수익률 급등",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZElGZnFZeXNBWUQtazNwOUx3S2hJRnBuMTRBblpMV0VySy13cFIwdzQ0NEpwVzJOSHBseGhpWUJ6SzA1a3lSUlVHMzZVXzFybmdTMEdxTk9vckVJVVk2dHY0bENnX0U5NzRpbnB5Y2lDcUxhOU9j?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T12:31:00+00:00"
+    },
+    {
+      "t": "삼전닉스 뛰는데 거래량 급감…코스피 상승 뒤 숨은 '이상 신호'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MWdpT3NSSHlzbDlVbXpOOXJubS1Ia2FZRHE1VGZxMVp1UDJSR2hQNUQwT29IR3hHQjZsMmlWd293WEw5Nkw4cUZuX1I0NUVPYXp2ZVVMYWhMQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T12:30:01+00:00"
+    },
     {
       "t": "미, 반도체·AI까지 ‘중국 편 서지 마’…양자택일 압박 노골화",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsWlVMejV2NlpNQzYzZlRfY2YzQ0FxMkpMQUt4MEVodWp3WDFpNFZIT3RnbXBXaG5kNktBM3FqdXNRTzZ4clNGUlphWUxCcGs?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ja3h1SzI0X0hmaDk4VGZLdHJ2amRKNmRWenhOakpmQzFQZlpqSzN1VlBCUFVpUWN5dU14X0RtV1ZTVkZHWlJQbUxaZHhkSTNxUm0yZmtDbGRmZ9IBX0FVX3lxTE1VaS13aWpPWEs0am1uRkNISVhJMEZMNEs5Y25USWhpWURDRzdtXzlVVzBSc1Ryay0wdXNCY0x5dEw0TnNySUNJRlpNYnpkbnZjVlZGS1ZlREZiWWFSWHlV?oc=5",
       "s": "경향신문",
       "d": "2026-08-18T11:42:00+00:00"
-    },
-    {
-      "t": "햇빛 비춰 ‘반도체 독성 폐수’ 정화",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pN0d5eFpEV1BTMnlaaG9YdHNpY0x0Y3VwbmhETHlEMVpWdjZSMTZwcFNFcDNlU1dhU1hrTHFmSGp6TXFlUEtGSnZYZUhTOVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T11:16:09+00:00"
-    },
-    {
-      "t": "대미 투자 1호 아직도‥\"반도체 미국 투자해라\" 요구가 변수?",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMVktHLV9OTUhBM3Q0U0dpanpzUGdaUm5OMUV3QUVqeUZTN00wRW9UQVQ3TjNWM0wzWHItaEJ0RFFZWkljd0d3Y3dQdlJGZzhITE9wUTVPZnk2a25qQTJpcl96S2RQWno3SU94UHZBRkg0Y0hVbzZUaNIBeEFVX3lxTE03OFRRdWQtMEUzX2pNUVpXOFAyLWpzcW9jNjQ2eDZmN1dpb29wRUhDbmV0RGUzcFlWNllUdUt2bXFPWWpYaTR5UXFMWnVlVzkzZ0laeW12d3NMWExNaUZfOXVTcDlZWldJVDQ0Rjk1UmpzN0JNWllmTQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-18T11:13:34+00:00"
     }
   ],
   "asof": {},
