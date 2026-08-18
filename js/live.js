@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T19:15:15+00:00",
-  "quotesAt": "2026-08-18T19:15:15+00:00",
-  "newsAt": "2026-08-18T19:15:15+00:00",
+  "fetchedAt": "2026-08-18T19:30:15+00:00",
+  "quotesAt": "2026-08-18T19:30:15+00:00",
+  "newsAt": "2026-08-18T19:30:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7696.28,
+    "spx": 7700.42,
     "nikkei": 67460.73,
-    "vix": 15.68,
-    "krw": 1411.88,
-    "gold": 4410.6,
-    "wti": 84.12,
-    "dxy": 99.66
+    "vix": 15.69,
+    "krw": 1412.1,
+    "gold": 4409.5,
+    "wti": 84.1,
+    "dxy": 99.65
   },
   "daily": {
-    "spx": -1.15,
+    "spx": -1.1,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.25,
-    "dxy": 0.02,
-    "gold": -0.16,
-    "wti": -0.45,
-    "vix": 3.23
+    "krw": -0.23,
+    "dxy": 0.01,
+    "gold": -0.19,
+    "wti": -0.47,
+    "vix": 3.29
   },
   "news": [
+    {
+      "t": "[뉴욕 금가격] 채권금리 압박에 4,500달러 돌파 또 실패…1.22%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xVndCVUNkX25YdXNoV3RDbjlzQ1BOQVo5Y0ZvcWRlWXQ0Mi1UcHlQZGY5b2trTmlKQkFTOVFldzE0MU1WRDVGZmpXTTRaZEVqbHlDa0dDQndZQ0xiczdaZnZmVjI5bGRxNDM3ZDVxV3M?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T19:17:49+00:00"
+    },
     {
       "t": "외국인 매수세 멈추자… 달리던 코스피, 5일만에 급제동 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBONkJKS2E5dmFHVkZpRlFlMTIyVkFzTEdxVWtsT1V4eElxUnIwVDhxaXg4TmRBNWpnckwzbjZwTi1wTExSV05acHJPZ2k0amlOTFctQ2FJTk8yS0hWN3hwZjdyc0Q4bDJq0gFuQVVfeXFMT3J4RDZBNmtnYTZETVliQ3pXUlNkcmtoWC0xRmNKU21BaXdBbWF4a2hNWUREYWNRXzlILTdJR3pBamxKcmQwZ21NTHk1N0lTckVWY1JFR3JZSjJqT0l6TGJkUXh2blNNYkhvSXFkdEE?oc=5",
@@ -57,7 +63,7 @@ window.LIVE_DATA = {
     {
       "t": "코스피 7천선 재차 회복…삼전 3.2%·닉스 6.2% 상승 출발",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pT1ZMNUpGRV9mdXRGNHZad0pobDBpY1U2ajRocWZwSnNHMk92X0hxd2MzR0NLV1NnTlVIeE9Ta1lYOTBuRTZmZmJNUHdQaVY5RnVrVFlKRzZuVkZRZUFCVFhXanlWQ1U?oc=5",
-      "s": "hani.co.kr",
+      "s": "한겨레",
       "d": "2026-08-18T18:19:04+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGdveUxCa1JfMkpxWU1Lb2sxQW9IWkJtVnpxeGIyRDUyU0w4R0J0ZTk2TFJ2bFNEaXJWVE11bnZFUDFIMnF6Z0tVNEJzMFVKeTJUUUtaUEp2ZERiY1lYbEstRV95UXZMd0VzSkpqNmltTWpOdTgxTVo1NzFUNHRqQ05CR0J5SkM0?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-18T18:00:00+00:00"
-    },
-    {
-      "t": "캐나다 총리, 50% 관세 발효 앞두고 트럼프와 통화",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10eWlJLVl2V0dXVHhnVFhLRnRWcmNuQ2FPQ2g5dUZNQzRCTGpydUVnaEJCckRqQ0k5Z0c5cWtGMGNUSnp1NnlQNGt1SDBiV3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T17:45:51+00:00"
     }
   ],
   "asof": {},
