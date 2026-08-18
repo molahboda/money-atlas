@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T18:00:15+00:00",
-  "quotesAt": "2026-08-18T18:00:15+00:00",
-  "newsAt": "2026-08-18T18:00:15+00:00",
+  "fetchedAt": "2026-08-18T18:15:15+00:00",
+  "quotesAt": "2026-08-18T18:15:15+00:00",
+  "newsAt": "2026-08-18T18:15:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7695.98,
+    "spx": 7700.79,
     "nikkei": 67460.73,
-    "vix": 15.71,
-    "krw": 1412.17,
-    "gold": 4413.6,
-    "wti": 84.08,
-    "dxy": 99.65
+    "vix": 15.75,
+    "krw": 1412.42,
+    "gold": 4409.2,
+    "wti": 84.16,
+    "dxy": 99.66
   },
   "daily": {
-    "spx": -1.15,
+    "spx": -1.09,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.23,
-    "dxy": 0.01,
-    "gold": -0.1,
-    "wti": -0.5,
-    "vix": 3.42
+    "krw": -0.21,
+    "dxy": 0.02,
+    "gold": -0.19,
+    "wti": -0.4,
+    "vix": 3.69
   },
   "news": [
+    {
+      "t": "캐나다·미국 관리들, 자정 관세 시한 앞두고 협상 막판 총력",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBONl9FTWFxMFpiNEhmU0lrUTBqSGRibFR1RDJHQzVSa2c5R3RWaW14ZHY4ejNWUFk5NTYxSjVmbHNveklpXzJoZnVZNHdoREdmel9MaktXaFA3TkpuSWZvRlZUbU9jZGF5NEE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T18:01:00+00:00"
+    },
+    {
+      "t": "美 연준 대차대조표 축소 난제…“은행 지준 수요부터 줄여야”",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGdveUxCa1JfMkpxWU1Lb2sxQW9IWkJtVnpxeGIyRDUyU0w4R0J0ZTk2TFJ2bFNEaXJWVE11bnZFUDFIMnF6Z0tVNEJzMFVKeTJUUUtaUEp2ZERiY1lYbEstRV95UXZMd0VzSkpqNmltTWpOdTgxTVo1NzFUNHRqQ05CR0J5SkM0?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-18T18:00:00+00:00"
+    },
     {
       "t": "캐나다 총리, 50% 관세 발효 앞두고 트럼프와 통화",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10eWlJLVl2V0dXVHhnVFhLRnRWcmNuQ2FPQ2g5dUZNQzRCTGpydUVnaEJCckRqQ0k5Z0c5cWtGMGNUSnp1NnlQNGt1SDBiV3c?oc=5",
@@ -33,7 +45,7 @@ window.LIVE_DATA = {
     {
       "t": "채권자경단 '패닉 버튼' 누르나…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUdCS01rX1pDYU1DRUFxWEQ5S1c4Y2VBN1RiQi1ONjRuNnRreVh6UFFqM0RNMVEtbW5rSGkydXA5VGU4N1Z6MHg4VG5NYnUyQUF6RjQteHctUQ?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-08-18T17:25:01+00:00"
     },
     {
@@ -45,7 +57,7 @@ window.LIVE_DATA = {
     {
       "t": "미 40조달러 부채·일 재정 우려…글로벌 장기채 금리 급등",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTHlrS2NNcElsaE5PZHU0RE1WZGpzc09GZUcxNUNiM2VUZFNqb2lyU1l0ZjVlYXpVenJLQTBLdDB5UFV5TUozdlZ6aWV4eUIzaVJJUVFFMENZbWc?oc=5",
-      "s": "KBS 뉴스",
+      "s": "news.kbs.co.kr",
       "d": "2026-08-18T17:21:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rNW9wOU5UdDJ5MndUc2VIdG94eHUzWjJZWDZudDVhOXZoSG1Lb185S2J0MXpGcWpDXzExdFlhVGhSMTl3cWk1SlRHTHVfT2RsUGk2RW9FamNzUDDSAWBBVV95cUxOOThKQWw0d2xQLVgtNDU5RnVad2FWVFViT1A0Um9TZXZRTkxEaVd6bmh1bzU3bWpJWDhYbm93NTJYV0lFRko1REFCY3ByWlVhNU8zc2FMSWdHSmNFaVIweF8?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-18T16:44:37+00:00"
-    },
-    {
-      "t": "유로존 국채 금리, 유가 급등에 수년래 최고치 경신",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FOEVSeGhsdVpSdnVDMGctS09paUtnLXUtSFFGX2xjaDB2Yzd5VTVmM3g1czB6VHJOQlZRUVhVT0VQdHRMTjRMN25MemdkaE8tdWRIZE8wVmxWWkh1S2Zmc1NtTGF1S0MyOGxBMTc2VEU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-18T16:04:00+00:00"
-    },
-    {
-      "t": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFR5cTdNOEVRWS16ajBNVDBaZkZ6QU9UU3ZTWjFCVWVCd3kwNjV4QlZFVThCNm5XNmRUUE00WHhNUFB1VkQ3UF9oLTBJc3F3dF9QeDhTeXpyNHpKX0lTcVpVdzRmWjNNdVlpVGI1ZGJtUzV5dkg1eXV5ckozYnRheVNpRU9DNmdxZ1BxTjd4TmFYaXo4bk5B?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-18T15:53:00+00:00"
     }
   ],
   "asof": {},
