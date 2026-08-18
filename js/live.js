@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T14:30:15+00:00",
-  "quotesAt": "2026-08-18T14:30:15+00:00",
-  "newsAt": "2026-08-18T14:30:15+00:00",
+  "fetchedAt": "2026-08-18T14:45:16+00:00",
+  "quotesAt": "2026-08-18T14:45:16+00:00",
+  "newsAt": "2026-08-18T14:45:16+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7706.36,
+    "spx": 7703.48,
     "nikkei": 67460.73,
-    "vix": 15.86,
-    "krw": 1410.9,
-    "gold": 4458.9,
-    "wti": 84.07,
-    "dxy": 99.55
+    "vix": 15.76,
+    "krw": 1411.2,
+    "gold": 4445.5,
+    "wti": 83.85,
+    "dxy": 99.57
   },
   "daily": {
-    "spx": -1.02,
+    "spx": -1.06,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.32,
-    "dxy": -0.09,
-    "gold": 0.93,
-    "wti": -0.51,
-    "vix": 4.41
+    "krw": -0.29,
+    "dxy": -0.07,
+    "gold": 0.63,
+    "wti": -0.77,
+    "vix": 3.75
   },
   "news": [
     {
@@ -47,12 +47,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LaWRfWFh0RWhHUDdKTGhhaFZ0NUhjd3R6dHZXSWxSRzZpMUZBbTVDSFNIOGt0a3B2OXZ5YlUwSVEyYVFoWm1zN1A3MDU5MEk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-18T13:47:51+00:00"
-    },
-    {
-      "t": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43d1hLRUlLbjZQVnJxUUhCMEd0Z3lVcjZVN01GNUYzY2RVT0d1d0JYa2gzT3d4QWEwLUNEOWxHRk1OSFNrS0MzUGtHRUlQekdLMVZUSTF2ZEdfQQ?oc=5",
-      "s": "hankyung.com",
-      "d": "2026-08-18T13:41:00+00:00"
     },
     {
       "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 금리·유가 급등에 반도체주 '일제 하락'",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wS2ZMQld4WFpZVTVGbkxzSGl3N21paHNSbzNCUTNrQWpnblJzMm5BMFl0aEpGYUh0RXd3aG9SVEx4NmI5aVFxOHh5T2JZdXlKR0hWVVN1MEVOTHphWkVsYmR0Y285RVVIOFhvT3AxNVIwZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-18T12:47:19+00:00"
+    },
+    {
+      "t": "美, 삼전닉스 반도체 유치 압박? 정부 “기업, 메모리 美투자 계획 없어”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KV3hOV2pxTl94YXFLRzE3ZUZPTGd0VUw0S3JoWlBQNEwxc3hYSWRUZHBlSEdrUFRzbWFtQXVKUGcxdFhBQTduSUdXUVlSVGc4ZEtOWnB1ZThSZmJXZTJlM2tjQ3Y2M2lGd29DWDVTRQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-18T12:42:25+00:00"
     }
   ],
   "asof": {},
