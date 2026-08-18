@@ -1,17 +1,17 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T09:00:30+00:00",
-  "quotesAt": "2026-08-18T09:00:30+00:00",
-  "newsAt": "2026-08-18T09:00:30+00:00",
+  "fetchedAt": "2026-08-18T09:15:30+00:00",
+  "quotesAt": "2026-08-18T09:15:30+00:00",
+  "newsAt": "2026-08-18T09:15:30+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7745.06,
     "nikkei": 67460.73,
     "vix": 15.86,
-    "krw": 1412.35,
+    "krw": 1412.38,
     "gold": 4448.7,
-    "wti": 84.31,
-    "dxy": 99.63
+    "wti": 84.1,
+    "dxy": 99.64
   },
   "daily": {
     "spx": -0.69,
@@ -20,15 +20,39 @@ window.LIVE_DATA = {
     "krw": -0.21,
     "dxy": 0,
     "gold": 0.7,
-    "wti": -0.22,
+    "wti": -0.47,
     "vix": 4.41
   },
   "news": [
     {
-      "t": "김윤 삼양그룹 회장 \"반도체·이온교환수지 수익성 개선\"",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mM0xFc2FteXFMUXdJVWg1MmN4d1l3c0FDRGY5N0xhVDh5QldFcmUzSzhKOURTaGNReFQxNzJLdGxLNmVqT3lidXJqaTFfYkN5WUh3M0tJTjdwck5IbWM2WVlmUXNEUQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-08-18T08:51:39+00:00"
+      "t": "전강후약 코스피…7200선 찍고 6800대 추락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02RzNLcGRqanRfMUZ0dUxSSzhMdlZtcm5pTlVFamszRS1IX3pNLXpkR1lpQXhQZDhGOHVYWmVTMTRHRTM0V2ZLYUNET3YtMmc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T09:07:07+00:00"
+    },
+    {
+      "t": "외국인 매수세 둔화에 코스피 5일만에 하락세 전환…6869선 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbi1WUlJ6RXE5Rzd4VDFwbXY0RlozUFFiNTNDVk1iRmNwYWYxT2xUdnpuT3VWUnpzQzNtWjV6Q3JyaTd0YUt0VEZETUhYV21HN3RDU1Z0eEp3eFdrNXRUNkZNamNSRGRtaDVSYQ?oc=5",
+      "s": "굿모닝경제",
+      "d": "2026-08-18T09:06:28+00:00"
+    },
+    {
+      "t": "국채금리 뛰자 소비 둔화…실물경제 압박 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3M1RLS3dKckF1clQ2WXlNM0NsN0dja0JMQ2x3SDJGcGsxUlkydWRZdk51TzhZZW1pQUdyMWZJYXFzU3UtUW4teVZqYmFOQnZfMGVqcVBxRjlFQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T09:05:30+00:00"
+    },
+    {
+      "t": "트럼프, '관세·김정은 카드' 만지작...투자 이행 재촉? 반도체 투자 압박?",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3b2E3ZlNOcWdCQ0syY2R3c2ROZG1iSk4zQUpSSmNCbV9iM3pMMGxUR0djM21CSmNqY0xLVlAyWGFBbUhobktHLXZVN2M5ZTR2UUZXQ3JVakU1ejV6ZnR0ZURB?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-08-18T08:57:00+00:00"
+    },
+    {
+      "t": "재정적자 엎친데 고유가 덮쳐 … 한미일 장기 국채금리 치솟아",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FOWItRHV5UWpubHlySDQxemlkLWcwSno5Y3FlR1FSS0xEV0NXY1d6anR5ODFEemVuOUlYV3gyYVpHOHlTcXI0ZWdYVWhlbEE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T08:54:10+00:00"
     },
     {
       "t": "[도쿄증시-마감] 중동 불안·금리 인상 전망에 낙폭 확대",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-18T08:46:09+00:00"
     },
     {
+      "t": "김성환 장관 “호남 반도체, 국민 열망 커…압축 진행할 것”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ek5ER0tPdnJjemlFMGlIWEhzc1U2ZU5hVjVCNFNZWlFNZ0FpdGdET1RZcEo0WlBPWU0wYXF1Z21ZdnpFVVlFbDgtbXVlNVlld0xrTXpaaVZVUQ?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-18T08:41:00+00:00"
+    },
+    {
       "t": "정부는 외식물가 안정을 위해 업계와 소통·협력하고 다양한 지원을 추진하겠습니다.",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkRnMmVNRFVqaEdLVEtFaEUyblY2SzlFa3Zvb1RodHJFR1lhbkV2ck15ZGRsdU5vemF0S2hMWXBrVVEwT2J3VTRXUkNuQ2JyNDQ5M3JrQVNzM2o1STRHYUh4emc1SFNyLU9XTktQVHpGR3oyZWdxQk1qRGViYUVueWRZakRSLU5xMHRaQTFtMA?oc=5",
       "s": "정책브리핑",
       "d": "2026-08-18T08:39:49+00:00"
-    },
-    {
-      "t": "달러 강세에 파운드화 하락…에너지 가격·국채 금리 상승 영향",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyQTdqU2NQMkhXQ1ZFMjdKd1MxVlBSU3lYVGJkWFctTVVnUy1CaWRpYThXRjhfZjVZY3pUdl85cFZKakRvR2tyall1MWZkLWpfdnp4cmRzWHZOQVBzUjg4NVFMM0xQWjA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-18T08:32:00+00:00"
-    },
-    {
-      "t": "코스피, 장중 7200선 돌파 후 1.55% 급락…6800대로 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RdEszVU16SjJIWll2SWRxRFI4elBRSnVDY293QXg2Q2FKVEE5RzBtcDF5aFp1bng4LUtRQ0VVMGE4cGFVTGM5V3dNYWw5NXZncFBUWWNYdHBVbmtTUzExZlRRTDBfUGRsYVFDaUpRUVRVQQ?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-08-18T08:30:10+00:00"
-    },
-    {
-      "t": "한미반도체, 인천 주안산단에 1300억 투자 ‘8공장’ 구축...지역 정치권 “원팀 지원”",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoN2NIX2taa0JKa3IwRmFCMFhHZjZJZjdBV1M4bExQelFlV3lON0c4ZEIwSXhpZnFTcU4xejhPMVliZVk3R05oVDlqbzQzeUxFX3FmbV96ZEJUby1GYVlteENDQ21LRTJRSlZR?oc=5",
-      "s": "미디어인천신문",
-      "d": "2026-08-18T08:25:45+00:00"
-    },
-    {
-      "t": "코스피, 6거래일 만에 하락…전강후약에 7000선 내줘",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdzZaR1U0cGw1WTB3eTlyWm5FNUE3NmZQTWc1YjFUSklRVzhCRmtUdG9jclRNbHZqeVJBbE11cGhzLVVhZFZubWNKZ2h2OGRqNFdlTC0yR2VHQngwdHp5aw?oc=5",
-      "s": "newstomato.com",
-      "d": "2026-08-18T08:23:13+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 중동 지역 불확실성 속 혼조",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PS19IQ051dHpyYlJ3cERNaWd1Q25yNHNoeHY5Z1NBajJIem9ENFJjU1pKMW5FT3dkVHI3OWhyU25ESG9hZ0RUMDlpb0ctVkZ5b25WQ2dqUlk0d0s5R1FRSElwRzNScF94V1hQVlEzc0NOdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T08:21:29+00:00"
     }
   ],
   "asof": {},
