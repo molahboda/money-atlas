@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T16:15:16+00:00",
-  "quotesAt": "2026-08-18T16:15:16+00:00",
-  "newsAt": "2026-08-18T16:15:16+00:00",
+  "fetchedAt": "2026-08-18T16:30:16+00:00",
+  "quotesAt": "2026-08-18T16:30:16+00:00",
+  "newsAt": "2026-08-18T16:30:16+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7705.92,
+    "spx": 7703.13,
     "nikkei": 67460.73,
-    "vix": 15.74,
-    "krw": 1411.09,
-    "gold": 4422.5,
-    "wti": 84.47,
-    "dxy": 99.61
+    "vix": 15.65,
+    "krw": 1411.36,
+    "gold": 4423.7,
+    "wti": 84.35,
+    "dxy": 99.58
   },
   "daily": {
-    "spx": -1.03,
+    "spx": -1.06,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.3,
-    "dxy": -0.03,
-    "gold": 0.11,
-    "wti": -0.04,
-    "vix": 3.62
+    "krw": -0.28,
+    "dxy": -0.06,
+    "gold": 0.13,
+    "wti": -0.18,
+    "vix": 3.03
   },
   "news": [
     {
@@ -44,7 +44,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "韓美日 국채금리 치솟아, 가계-기업-증시 먹구름",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBodTM2WFZxeFNKYTJfdXFCLXprNzM4aTRvdkpzc0piLVFDX1N4NUlnc2ZVYWlKaFM3SHNLUTR0RlpkSHJhS0RmcTJ3akN1QTNKYy1VNUpRcE9wbkJldWhqWWZmUGM1WEVadkkxU0RreUJZY2QyT3fSAWZBVV95cUxPbmFlNHJmelhBX3o1LVhsTVQzYlBXQ0RnN1U2YkxJMlBMZGQ2MlBXMEplemdNdHR6R3RabmVMbVdlbjN3c3dEYXhNbU5xWnpyZ2ZGcVFWZm1PTWFwaEppX1VZTmRnZnc?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYWU0cmZ6WEFfejUtWGxNVDNiUFdDRGc3VTZiTEkyUExkZDYyUFcwSmV6Z010dHpHdFpuZUxtV2VuM3dzd0RheE1tTnFaenJnZkZxUVZmbU9NYXBoSmlfVVlOZGdmd9IBZkFVX3lxTE9uYWU0cmZ6WEFfejUtWGxNVDNiUFdDRGc3VTZiTEkyUExkZDYyUFcwSmV6Z010dHpHdFpuZUxtV2VuM3dzd0RheE1tTnFaenJnZkZxUVZmbU9NYXBoSmlfVVlOZGdmdw?oc=5",
       "s": "동아일보",
       "d": "2026-08-18T15:30:00+00:00"
     },
