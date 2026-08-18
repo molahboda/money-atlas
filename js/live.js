@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T17:15:15+00:00",
-  "quotesAt": "2026-08-18T17:15:15+00:00",
-  "newsAt": "2026-08-18T17:15:15+00:00",
+  "fetchedAt": "2026-08-18T17:30:15+00:00",
+  "quotesAt": "2026-08-18T17:30:15+00:00",
+  "newsAt": "2026-08-18T17:30:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7706.07,
+    "spx": 7702.59,
     "nikkei": 67460.73,
-    "vix": 15.65,
+    "vix": 15.67,
     "krw": 1411.82,
-    "gold": 4420.7,
-    "wti": 84.19,
-    "dxy": 99.63
+    "gold": 4420.8,
+    "wti": 84.16,
+    "dxy": 99.64
   },
   "daily": {
-    "spx": -1.02,
+    "spx": -1.07,
     "kospi": 0.83,
     "nikkei": -2.54,
     "krw": -0.25,
-    "dxy": -0.01,
+    "dxy": 0,
     "gold": 0.07,
-    "wti": -0.37,
-    "vix": 3.03
+    "wti": -0.4,
+    "vix": 3.16
   },
   "news": [
+    {
+      "t": "채권자경단 '패닉 버튼' 누르나…월가, 반도체 조정장 올지 주시[박신영의 개장전 요것만]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUdCS01rX1pDYU1DRUFxWEQ5S1c4Y2VBN1RiQi1ONjRuNnRreVh6UFFqM0RNMVEtbW5rSGkydXA5VGU4N1Z6MHg4VG5NYnUyQUF6RjQteHctUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T17:25:01+00:00"
+    },
+    {
+      "t": "미 40조달러 부채·일 재정 우려…글로벌 장기채 금리 급등",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jTHlrS2NNcElsaE5PZHU0RE1WZGpzc09GZUcxNUNiM2VUZFNqb2lyU1l0ZjVlYXpVenJLQTBLdDB5UFV5TUozdlZ6aWV4eUIzaVJJUVFFMENZbWc?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-18T17:21:00+00:00"
+    },
+    {
+      "t": "[뉴욕 금가격] 채권금리 압박에 4,500달러 돌파 또 실패…1.22%↓",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE55OV8tN2ZlWFZFNk5wX1ZFekRabUJ0bFBNSXNaX1RSMXFpYVRWRTBxRno3aExsNjVXZnpDQjBYRkZOc3Njd3ZZQkxrbDh6YXRFUmNIT1lfZ0w5UTdialgtd0s1aVhzdTZUOU8yckZnZ0dBdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-18T17:17:43+00:00"
+    },
     {
       "t": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taU5qdTNxYi1ZZEUtQWl2Zng2VzJ2UFJyaHhEbTZtd1c2NFg0d2M1ejNPNVVPbFhXbThsREN6T0hYZmthTTEzc3NNU00tQmJvNEhNb0tRZVBMRDlEbDYtTXpZaDdEeWtwXzRR0gFwQVVfeXFMT3RmWENQei1XN3Mta2hQVnVLblNHaVZ2Wk84M2U5eXROaEE4R3BWd2pMRTRXSjh5THRqT01vQ1pEVmRlYnc0SWVmLTUtUU5VVmpMdjVrc2ROdEJ4amdvaExGRmZhaXBJZ3VUNUFQX3dBNw?oc=5",
@@ -49,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-18T16:04:00+00:00"
     },
     {
+      "t": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFR5cTdNOEVRWS16ajBNVDBaZkZ6QU9UU3ZTWjFCVWVCd3kwNjV4QlZFVThCNm5XNmRUUE00WHhNUFB1VkQ3UF9oLTBJc3F3dF9QeDhTeXpyNHpKX0lTcVpVdzRmWjNNdVlpVGI1ZGJtUzV5dkg1eXV5ckozYnRheVNpRU9DNmdxZ1BxTjd4TmFYaXo4bk5B?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-18T15:53:00+00:00"
+    },
+    {
       "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 18일자 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDVtWGF3aW9ZT0R2Mm1fV08wdWRMdWlOZm5pdG5QVWc0TDVOYlRZR0lvSjlwbjh1dHpLdVdUOWNNSENzZWkwMThBT0pOaFFfbFd2NjgwNVUyaktsbi1ZNVZBa1ZSTU96OE9uVUVQRFpZRjRHN2g4TzRwZzZEaE1ub1o1QTNLNGl00gGcAUFVX3lxTFBUWVF6dTFEOVI3dnpmbm1JNE1FU2lwUlRoNWY0WG10SC13dkRHaWZWM0NSWnctMTR1eWVxWDJIeFVUVlN0OWQtQWRjM1hOT0owMGNRbGtrbnlfT0thVEVqRTlJQjFhN2RXWUw0eEJ0XzBSaXVIVHpULU1JTE9OWVhTeVE2WTBXSFZpYkNvTllnQlZHc1V4YWF3ZnNweg?oc=5",
       "s": "Chosunbiz",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XY2s3X3F4ci1LS1FIY1N1N3doWHpVVkh3bmFjQmZQdzF5ekhVNkppRjB4aXBGcGg4QlVIZTVUaGh3YXpyWTlESkgtMkdSMm8?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-18T15:33:43+00:00"
-    },
-    {
-      "t": "韓美日 국채금리 치솟아, 가계-기업-증시 먹구름",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYWU0cmZ6WEFfejUtWGxNVDNiUFdDRGc3VTZiTEkyUExkZDYyUFcwSmV6Z010dHpHdFpuZUxtV2VuM3dzd0RheE1tTnFaenJnZkZxUVZmbU9NYXBoSmlfVVlOZGdmd9IBZkFVX3lxTE9uYWU0cmZ6WEFfejUtWGxNVDNiUFdDRGc3VTZiTEkyUExkZDYyUFcwSmV6Z010dHpHdFpuZUxtV2VuM3dzd0RheE1tTnFaenJnZkZxUVZmbU9NYXBoSmlfVVlOZGdmdw?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-18T15:30:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 채권 금리 상승에 부담… 3대 지수 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmFzamhCOTljVGI3M0FfVG9IejJ3azR6QjE0RVY0TEpPSFluTFFpSVdVZl9MVEFiNEJ0aXMyYk9iUDJzd0hMXzZJYjQ3djl3ME5FRkhJdXhUY0lVbkxPa0pKY0I4VU5xOFBVa2tLaDJFS1RwTVZHRHlsVmNMX1YzVEtudFJabktLVGtPZldHa21QZ2lGSWFkNl9oMkRmUQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-18T15:17:00+00:00"
-    },
-    {
-      "t": "뉴욕 증시, 중동 협상 기대감 약해지며 동반 하락세",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vQmdiY0QwdzZZRm9wRTh5RjRGMmhydDF4b3VhbXd0dTVzNnR3Qmh4X2p0d0k4Yy1LamQ5aG4tUkFLZGEtQ3IteFNTaWtYNTIxWEFYblc2b3haVDl1clE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-18T15:16:00+00:00"
-    },
-    {
-      "t": "[사설] \"미군 철수로 호남 반도체\" 집회, 그 반도체 미국에 팔아야",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdQblJxOVJPRmFVT192akMzcXkyeGdRQmxZYmNTbTFJLTRHSXFLYW5rM09qVkRkZXZkQTdnOXc0YzlJVjV6dFEtRngyeF92WjVTTnVYR0dibmM2ZGpfUEFqbzNheXdaLS1FdlNDSXhRVE4tXzRNMFdzbWlVVjNOSDNjeU55Zw?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-18T15:10:00+00:00"
     }
   ],
   "asof": {},
