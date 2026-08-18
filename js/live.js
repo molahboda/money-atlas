@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T14:00:15+00:00",
-  "quotesAt": "2026-08-18T14:00:15+00:00",
-  "newsAt": "2026-08-18T14:00:15+00:00",
+  "fetchedAt": "2026-08-18T14:15:15+00:00",
+  "quotesAt": "2026-08-18T14:15:15+00:00",
+  "newsAt": "2026-08-18T14:15:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7703.85,
+    "spx": 7699.84,
     "nikkei": 67460.73,
-    "vix": 15.73,
-    "krw": 1410.91,
-    "gold": 4451.1,
-    "wti": 84.1,
-    "dxy": 99.59
+    "vix": 15.81,
+    "krw": 1410.77,
+    "gold": 4460.2,
+    "wti": 84.16,
+    "dxy": 99.58
   },
   "daily": {
-    "spx": -1.05,
+    "spx": -1.1,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.32,
-    "dxy": -0.05,
-    "gold": 0.75,
-    "wti": -0.47,
-    "vix": 3.55
+    "krw": -0.33,
+    "dxy": -0.06,
+    "gold": 0.96,
+    "wti": -0.4,
+    "vix": 4.08
   },
   "news": [
     {
+      "t": "코스피·코스닥, 엿새 만에 하락 전환...\"미 국채금리 영향\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVcEJQZ2xvSEpxaE9LMHN0NzUxV2dCVGU4SURZSTlDN1hnZTg3SzJoNE9SeS1JTmxCeUctMGNNazNfMzRqYmdZMUZ6QTl6V3FjcU56Umh3VlM5VkRsb0E?oc=5",
+      "s": "YTN",
+      "d": "2026-08-18T13:55:00+00:00"
+    },
+    {
       "t": "[뉴욕증시]美 장기채 금리·유가 상승에 일제히 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JbHg4V05lOTNlR25WOGlYZWNPd21DbHNvcUVlNHVnWXBGWkt2NVh6Y3RFVjVUQTYwVzJtYWRKN29EcFRITzk5cU16OHVTSW92SUQxaFBRNVA2dXNldTB6cA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-18T13:46:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LaWRfWFh0RWhHUDdKTGhhaFZ0NUhjd3R6dHZXSWxSRzZpMUZBbTVDSFNIOGt0a3B2OXZ5YlUwSVEyYVFoWm1zN1A3MDU5MEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T13:47:51+00:00"
     },
     {
       "t": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5TVUh4UUliM0RPMDdaS2s1RG9xeVBwOXQ5YzFXaUdjeEFOTko3RVItWHJKbkNXbjFQSTg5Ums1M0kxOUg0dmdrNHRsNUxzS09JdEg5OV80c09GRnVxQk8xOGRLVTBSNUJBMlFWM3NNdEJWYWFPOElwdEV6aUVQUQ?oc=5",
       "s": "조선일보",
       "d": "2026-08-18T12:39:42+00:00"
-    },
-    {
-      "t": "유가 상승 및 RBI 예금 제도 마감으로 인도 채권 수익률 급등",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZElGZnFZeXNBWUQtazNwOUx3S2hJRnBuMTRBblpMV0VySy13cFIwdzQ0NEpwVzJOSHBseGhpWUJ6SzA1a3lSUlVHMzZVXzFybmdTMEdxTk9vckVJVVk2dHY0bENnX0U5NzRpbnB5Y2lDcUxhOU9j?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-18T12:31:00+00:00"
     }
   ],
   "asof": {},
