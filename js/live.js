@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T23:30:16+00:00",
-  "quotesAt": "2026-08-18T23:30:16+00:00",
-  "newsAt": "2026-08-18T23:30:16+00:00",
+  "fetchedAt": "2026-08-18T23:45:15+00:00",
+  "quotesAt": "2026-08-18T23:45:15+00:00",
+  "newsAt": "2026-08-18T23:45:15+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7691.76,
     "nikkei": 67460.73,
     "vix": 15.84,
     "krw": 1412.35,
-    "gold": 4385.6,
-    "wti": 84.48,
+    "gold": 4383,
+    "wti": 84.53,
     "dxy": 99.64
   },
   "daily": {
@@ -19,70 +19,70 @@ window.LIVE_DATA = {
     "nikkei": -2.54,
     "krw": -0.17,
     "dxy": 0,
-    "gold": -0.73,
-    "wti": -0.02,
+    "gold": -0.79,
+    "wti": 0.04,
     "vix": 4.28
   },
   "news": [
     {
+      "t": "키움증권 \"토모큐브, 금리상승에 할인율 올라…목표주가 하향\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HWVlRczB6REZjMVdWa2ZKZUZQZDU2dkRUS0lrUGsxeTJoTmVaZzlzN3dTM2MySmtZNU13OUtnNWkyWklXYTlsaW9tVHpMUktBYW9MVC1qRWZKTknSAWBBVV95cUxQU2p3Nmk1VHRfb09SOXQ4Yi1fM0x1akNMWFBxZGZGMWVfZ3pwenUyTkJSWVNCMkt3WEF4NVhCRTNEZjdjYlFjNDZidDZMTkFaRzNKNmI3ZE9hM3poX2RHX1M?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-18T23:36:59+00:00"
+    },
+    {
+      "t": "美 채권시장 장·단기 디커플링…단기금리는 '기준금리 인하' 반영(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iOExsMVpXUmRFaDBMNDNkVGg5S1hET1dmRmYtQ1ltSmo1MkZFQjZYYjFzOURXNDF5VXlfVmNzWFJMd0hncktqdUs0dkZpUGVfbnVCR1N2YUJvR0V6UW85NQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-18T23:36:00+00:00"
+    },
+    {
+      "t": "'6일 만에 반락' 코스피, 美금리 급등·반도체 쇼크에 추가 하락 우려",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lYVFUWEFfYXdETUM5ZGxtWWxpZDd5cU5JNjRTWjl4cWF1SE1GTHFhU2Zrc3B4VFp4SnNmZGs4S0ZmYmo4XzRLVzRzdEU5Zml0TWFoUVI1cmdoRVJwVzJQS3V6d0pnSkpjYkJ5cWVnc3HSAXRBVV95cUxNaE1pR0hLY3BtVGlyVzE5alh6VDdGMWJrU1k2SVBJY1ZlZ3pQT3BSZTN5czNFaUF3NElDWVZFcnRnRkczd0xDQ29qN0RIN2o1MEZ4QzljUHU1aUdkTnlLcjdQZ1g2MFF1Q3JXcklvaVBLaU1JbA?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-18T23:35:26+00:00"
+    },
+    {
+      "t": "한미반도체, 반년 만에 '크레딧' 43억 쌓였다…고객 락인 기대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iaWFWU3J5eEkyRVhiQVZpQWt0RHhmamlva1pHOGpQVWZreGZCcUFRTE5xd0VSX1BGOGxjWDBsRjJBbXRtZ012bGFBV050c2ZOdjA1bU1zZnJIb082U0p3ZldoMWo5RnQ0ZGs3UzBKTDI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T23:34:20+00:00"
+    },
+    {
+      "t": "\"현물보다 선물이 먼저\"…외국인 3주째 달러선물 매도, 환율 방향키",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE55bUVmMnNQMkhwV2xfelpIdFZZMzBhNHhnbzNVVzd4WE05MWxXMVVtWWhndEZMTVJ1UFhjaWdFYUVRQWZHNndPZ2ZQVWotcnZmeEtXdFRIUGhIOXozaWZMM3NkbWxUUEhIWmVRdHJycERmUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-18T23:30:56+00:00"
+    },
+    {
+      "t": "알파인 매크로 \"美 10년물 5% 근접하면 비중 확대해야\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIeXhDQ2JVTXVtTHktak1FMFpKVnVFZnBubFpuX1FObGNRaXBxbnRibkNkekR2RjRoLWpZMVJPRXVPanZud3hvcmJPOGFsc2JUdDAybHZTRU5sUTNFOGRPckVjNVdDSXJLSVFLUGtWOFJ1dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-18T23:30:21+00:00"
+    },
+    {
+      "t": "[증시 포인트] 하락 출발 전망...장중 낙폭 만회 가능성도",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYW05UzFNNS12YWEyRjFSNDZlZ082aF8zOV9QcGdDdFZtcDZoR0dfMjVpT3RxZXhHSGpMUlhkcHcwUnhCMmptbFhZbUo3RmdaSVBXMmY5RU15ejBsTUpLOFBMdW1maU1FQUdwY19GRVU?oc=5",
+      "s": "opinionnews.co.kr",
+      "d": "2026-08-18T23:29:52+00:00"
+    },
+    {
+      "t": "엔저냐 재정이냐…'BOJ의 딜레마' 깊어진다",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWWRpUXRsdG9rU25XdlpVOTYxSTZ6djM5V3pFWnN6RGQ1QTFENzlhZmlNS2RacG94LU1zdWhqTHhEaXZpOHhMZFBYMXEyVl9oYXU3Rk03SUJ3VnlIRHB2alhoMVZiYzZ1bFZfZVhqZw?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-18T23:29:49+00:00"
+    },
+    {
+      "t": "장기금리 급등에 AI·반도체 직격탄…나스닥 1%대 하락",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tRkJHXy1KVktNaElHU1Q5em0wYXp4MTJpNC1BTFVVTVJ0dFEtZG04MlBJU0czWWJtcGJBOXhCbllDUE1hR1UwYUUyNC01aXg5UjB6ZjhQUThLSFZtTnM4MDhHLUZteEpRUzNZbzBxZlBHS0k?oc=5",
+      "s": "마켓인",
+      "d": "2026-08-18T23:27:13+00:00"
+    },
+    {
       "t": "[모닝 리포트] \"8월 기준금리 3.0% 전망, 10월까지 기다릴 이유 없다\"",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tSXkyeDJOYThJenFtenJrTklGNFE3UndYRmpmdzdyR1VnX08xQjVFcTVQWDUxUFRqaWhEN3UxbUVFaUxqZVBndy1HLVd3cEdSMFdrVi05ekY4WXBa?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-08-18T23:27:00+00:00"
-    },
-    {
-      "t": "’AI 붐의 역설’…AI가 띄운 증시, AI가 올린 금리에 꺼지나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSnpCemNiVGRQRDR3cmRhenBpMFFmQlNCbl9RWktyUDBORVNucmhQTjN1WDNGQld3b0xCR0t3dXk1U1E0WE5XWTB4WlIwVFk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T23:23:37+00:00"
-    },
-    {
-      "t": "코스피 추가 하락 우려…하이닉스 ADR 9.2% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BMmYtanV4dENlSEFhUWdjdTl5WU5lR2RnYy1XVUw1aG03M1laU1R5T0g1c0hxTnhCdm9sVmdDNEJFZS0tR2Q2R1gyS09LaEJXbko1TXBJMGU3Zw?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-18T23:22:00+00:00"
-    },
-    {
-      "t": "미 반도체 급락에 '삼전닉스' 프리마켓 4~5% 동반하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVHQ0RHdodVIwQmV4Qmt0aklSVmRGU0VpNkVQRjNiS2E3a05WbzlMeWxGTkczUGxlVVpuWXFsZnBPc2lySTVIVnZpMEV0Y2RUbXVCLW9QNmdwYndabHllNzZabkVaU002TW1ZWVJ2SDA?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-18T23:21:48+00:00"
-    },
-    {
-      "t": "뉴욕증시, 중동 불안·국채금리 급등에 일제히 하락... 반도체주 휘청",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yakVaSWhJb2I0UGpKVkY3VHFSQXZpd1lhYjdqSzc1MXg4SFdsWGxGQjN3V0ZZQkp4VnFveGNfQ0ViS0hXa3BtZVVrV0h6eThWelJPV0J0cjJLZk1jWTVLeWdPeENRWGlMbG83RTdRRVF3UW1I?oc=5",
-      "s": "조세일보",
-      "d": "2026-08-18T23:20:00+00:00"
-    },
-    {
-      "t": "[굿모닝 마켓] 뉴욕증시, 고금리 충격에 사흘째 하락…반도체주 줄하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5weUVmVUFOYjlaVFBNQjVMQU55RlY1bW16cUJFbzVNM2tMeTdOTlJhOEhRMVZkcTRqd1NhbkxZWUJQbF90bWNIZmJqdVB0OGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T23:19:17+00:00"
-    },
-    {
-      "t": "달러-원 잠시 쉴 곳 찾았나…1,410원대 이탈 변수는",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBU0FMZGFERXl3WEtDRVl3ZDZyUzNGQVBoX25tNmd2OG9oald5WjdqNjZZYWRhZUptZVpVTGdENExLMUstdEl4bmpZZmFYUUM1RUVWN3FDYXlHUU0wNHhKOUllcE0zaUNfcFBFdjFFbmFpUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T23:17:40+00:00"
-    },
-    {
-      "t": "한투증권 \"7월 미국 PCE 물가, 전월 대비 상승폭 확대 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03Nm9CU29ZT2c4RzhTVWhJak1RcEwxUTVoT3FiV01SS25FUTZLc2lfemllcWVrRml0OHEyY1ljVF8zYjFzRW9NSEFPVzQ3X2dPa1FvMG43U1puQnPSAWBBVV95cUxOY0pFOVVUeVFKcm9jZHJpT1I0dkxUSjhobzF1eWRKMWJndmNLNmpiaDBLMXptTnVOdTBEZnRwNHJSWEJZUFdLRWVDZTJRbDBsRU1Da1BTM04wdFFEOEhWay0?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-18T23:16:57+00:00"
-    },
-    {
-      "t": "국채선물, 증시 부진發 미 국채 강세에 상승…10년물 21틱↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOZmJscXlOTjA0MzZlenFsd3N1U1E1VnlpaTJ4N1pubGsyQjdqdVo1TEZzTDFjcnFZaGw5cXRaWkVrZTBjSDBITzN2QmJjYnVWQ0NrdzdLQ2hBYW1tbnBVQldRZnZVS05ycXZLRFdWZlY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T23:14:28+00:00"
-    },
-    {
-      "t": "\"시장의 정점에서 금리가 먼저 올랐다\"…재조명되는 AI 거품론",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KNEg5YUNfbGZxSnluTG0zaWhoTGdFc1pZd1k3OE9zWVlpWkJ1b3J5MWRwSDd2ek5FRjFWTXpuUkpnUUNRWmxZOXh6U2o0QTRLZEE4Q2hxOUIzTVBnVnJqQVYwRmkyV0U2N1ZsYVNQOGR4QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-18T23:10:56+00:00"
     }
   ],
   "asof": {},
