@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T17:30:15+00:00",
-  "quotesAt": "2026-08-18T17:30:15+00:00",
-  "newsAt": "2026-08-18T17:30:15+00:00",
+  "fetchedAt": "2026-08-18T17:45:15+00:00",
+  "quotesAt": "2026-08-18T17:45:15+00:00",
+  "newsAt": "2026-08-18T17:45:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7702.59,
+    "spx": 7701.21,
     "nikkei": 67460.73,
-    "vix": 15.67,
-    "krw": 1411.82,
-    "gold": 4420.8,
-    "wti": 84.16,
-    "dxy": 99.64
+    "vix": 15.7,
+    "krw": 1412.07,
+    "gold": 4420,
+    "wti": 84.18,
+    "dxy": 99.66
   },
   "daily": {
-    "spx": -1.07,
+    "spx": -1.09,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.25,
-    "dxy": 0,
-    "gold": 0.07,
-    "wti": -0.4,
-    "vix": 3.16
+    "krw": -0.23,
+    "dxy": 0.02,
+    "gold": 0.05,
+    "wti": -0.38,
+    "vix": 3.36
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUdCS01rX1pDYU1DRUFxWEQ5S1c4Y2VBN1RiQi1ONjRuNnRreVh6UFFqM0RNMVEtbW5rSGkydXA5VGU4N1Z6MHg4VG5NYnUyQUF6RjQteHctUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-18T17:25:01+00:00"
+    },
+    {
+      "t": "퀀텍사, 영국 또는 미국 증시 상장 고려",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUDBjWWdzZVFfbFBvdEh1MEs0LVF6QW1veWpoWVVSalAyaDRxRV9JTUdhTUdJRWxHTUNEaG9vVG9FS0kzR2JPS21uX2ZRMWlwLTNOODBlVUpIYXRuLVR2WWgxSDFUc1ZyNmpTTVBaTEIxWXJRYzh3?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T17:23:00+00:00"
     },
     {
       "t": "미 40조달러 부채·일 재정 우려…글로벌 장기채 금리 급등",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDVtWGF3aW9ZT0R2Mm1fV08wdWRMdWlOZm5pdG5QVWc0TDVOYlRZR0lvSjlwbjh1dHpLdVdUOWNNSENzZWkwMThBT0pOaFFfbFd2NjgwNVUyaktsbi1ZNVZBa1ZSTU96OE9uVUVQRFpZRjRHN2g4TzRwZzZEaE1ub1o1QTNLNGl00gGcAUFVX3lxTFBUWVF6dTFEOVI3dnpmbm1JNE1FU2lwUlRoNWY0WG10SC13dkRHaWZWM0NSWnctMTR1eWVxWDJIeFVUVlN0OWQtQWRjM1hOT0owMGNRbGtrbnlfT0thVEVqRTlJQjFhN2RXWUw0eEJ0XzBSaXVIVHpULU1JTE9OWVhTeVE2WTBXSFZpYkNvTllnQlZHc1V4YWF3ZnNweg?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-18T15:35:00+00:00"
-    },
-    {
-      "t": "5대 은행 주담대 가산금리 7년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XY2s3X3F4ci1LS1FIY1N1N3doWHpVVkh3bmFjQmZQdzF5ekhVNkppRjB4aXBGcGg4QlVIZTVUaGh3YXpyWTlESkgtMkdSMm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T15:33:43+00:00"
     }
   ],
   "asof": {},
