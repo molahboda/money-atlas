@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T16:00:15+00:00",
-  "quotesAt": "2026-08-18T16:00:15+00:00",
-  "newsAt": "2026-08-18T16:00:15+00:00",
+  "fetchedAt": "2026-08-18T16:15:16+00:00",
+  "quotesAt": "2026-08-18T16:15:16+00:00",
+  "newsAt": "2026-08-18T16:15:16+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7703.58,
+    "spx": 7705.92,
     "nikkei": 67460.73,
-    "vix": 15.85,
-    "krw": 1411.46,
-    "gold": 4418.9,
-    "wti": 84.79,
-    "dxy": 99.6
+    "vix": 15.74,
+    "krw": 1411.09,
+    "gold": 4422.5,
+    "wti": 84.47,
+    "dxy": 99.61
   },
   "daily": {
-    "spx": -1.06,
+    "spx": -1.03,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.28,
-    "dxy": -0.04,
-    "gold": 0.02,
-    "wti": 0.34,
-    "vix": 4.34
+    "krw": -0.3,
+    "dxy": -0.03,
+    "gold": 0.11,
+    "wti": -0.04,
+    "vix": 3.62
   },
   "news": [
+    {
+      "t": "유로존 국채 금리, 유가 급등에 수년래 최고치 경신",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FOEVSeGhsdVpSdnVDMGctS09paUtnLXUtSFFGX2xjaDB2Yzd5VTVmM3g1czB6VHJOQlZRUVhVT0VQdHRMTjRMN25MemdkaE8tdWRIZE8wVmxWWkh1S2Zmc1NtTGF1S0MyOGxBMTc2VEU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T16:04:00+00:00"
+    },
     {
       "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 18일자 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDVtWGF3aW9ZT0R2Mm1fV08wdWRMdWlOZm5pdG5QVWc0TDVOYlRZR0lvSjlwbjh1dHpLdVdUOWNNSENzZWkwMThBT0pOaFFfbFd2NjgwNVUyaktsbi1ZNVZBa1ZSTU96OE9uVUVQRFpZRjRHN2g4TzRwZzZEaE1ub1o1QTNLNGl00gGcAUFVX3lxTFBUWVF6dTFEOVI3dnpmbm1JNE1FU2lwUlRoNWY0WG10SC13dkRHaWZWM0NSWnctMTR1eWVxWDJIeFVUVlN0OWQtQWRjM1hOT0owMGNRbGtrbnlfT0thVEVqRTlJQjFhN2RXWUw0eEJ0XzBSaXVIVHpULU1JTE9OWVhTeVE2WTBXSFZpYkNvTllnQlZHc1V4YWF3ZnNweg?oc=5",
@@ -69,7 +75,7 @@ window.LIVE_DATA = {
     {
       "t": "\"삼전닉스만 수출주냐\"…반도체 다음은 '면비디아' [한경 프리미엄9 TODAY]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZrQjE3UldTb250Tks0ODktNVBsd1BfV3pydXJZZS1Uek10cnFOTFBpUlNyN0YtbHlzdFlkX0lSWkxlLVN2d1I2aExidTl2eVNtd1kxeXRoZw?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-08-18T15:07:00+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vU3Nub29DRnRYT0NDdm1CMlFqeTdGSzFZbllOcUZEbm56OEQ3ZFRNU1VCRm5saVV0LVQzbGktS3dqaTFyMXJuczZLYVBDMjBlVlE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-18T15:03:14+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (43) 델 테크(Dell Technologies)… 상장폐지 아픈 기억",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY29POFRrczJJZE9SSl9sVkhWdWdGaWxjcmVEQnZYMkJIRWRBRHRvRTFWWGIyVjJCMjVhMTZrMDZjTTVMRHRqUm9PcnJrc2xoVmp3dXJFLTZtbG1saDBrTUkzemNZbDFsTlJHa3FvM2JGd0FtV2s5UTRKWnJRd3puVDBMVnE?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-18T15:00:00+00:00"
     }
   ],
   "asof": {},
