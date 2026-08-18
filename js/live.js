@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T12:45:15+00:00",
-  "quotesAt": "2026-08-18T12:45:15+00:00",
-  "newsAt": "2026-08-18T12:45:15+00:00",
+  "fetchedAt": "2026-08-18T13:00:16+00:00",
+  "quotesAt": "2026-08-18T13:00:16+00:00",
+  "newsAt": "2026-08-18T13:00:16+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7745.06,
     "nikkei": 67460.73,
-    "vix": 15.69,
-    "krw": 1410.18,
-    "gold": 4454,
-    "wti": 84.18,
-    "dxy": 99.66
+    "vix": 15.79,
+    "krw": 1410.3,
+    "gold": 4453,
+    "wti": 84.35,
+    "dxy": 99.63
   },
   "daily": {
     "spx": -0.69,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.37,
-    "dxy": 0.02,
-    "gold": 0.82,
-    "wti": -0.38,
-    "vix": 3.29
+    "krw": -0.36,
+    "dxy": -0.01,
+    "gold": 0.8,
+    "wti": -0.18,
+    "vix": 3.95
   },
   "news": [
+    {
+      "t": "美 7월 수입물가 예상 밖 0.4%↓…1년 2개월 만에 최대 낙폭",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wS2ZMQld4WFpZVTVGbkxzSGl3N21paHNSbzNCUTNrQWpnblJzMm5BMFl0aEpGYUh0RXd3aG9SVEx4NmI5aVFxOHh5T2JZdXlKR0hWVVN1MEVOTHphWkVsYmR0Y285RVVIOFhvT3AxNVIwZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-18T12:47:19+00:00"
+    },
+    {
+      "t": "美, 삼전닉스 반도체 유치 압박? 정부 “기업, 메모리 美투자 계획 없어”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KV3hOV2pxTl94YXFLRzE3ZUZPTGd0VUw0S3JoWlBQNEwxc3hYSWRUZHBlSEdrUFRzbWFtQXVKUGcxdFhBQTduSUdXUVlSVGc4ZEtOWnB1ZThSZmJXZTJlM2tjQ3Y2M2lGd29DWDVTRQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-18T12:42:25+00:00"
+    },
     {
       "t": "유가 상승 및 RBI 예금 제도 마감으로 인도 채권 수익률 급등",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZElGZnFZeXNBWUQtazNwOUx3S2hJRnBuMTRBblpMV0VySy13cFIwdzQ0NEpwVzJOSHBseGhpWUJ6SzA1a3lSUlVHMzZVXzFybmdTMEdxTk9vckVJVVk2dHY0bENnX0U5NzRpbnB5Y2lDcUxhOU9j?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sb3NfRGdqVG04OHJnYVgzNFRraTFXeEZSbWlyRVA2QzVKUmVsODRSYmV3SkVVdEgxWHhrazJ1NXQzazNNeExTSzN5V29ONE0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-18T11:49:45+00:00"
-    },
-    {
-      "t": "미 30년물 국채 금리, 19년 만에 최고…국내 금융시장 긴장",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByc21wNi1xWEtqeUhQOFBVZXlSQTBtekd1QWZ2N1NuUUNNNFRhNWNST2gwSlZrTGt2Mm1VdEpYMTlkcWllNUhyMkVkU0Z5Y09hYjE0WG1vZjAwQdIBX0FVX3lxTE9ldlE5ZDlCano1Yzd5QnU1Y01Jc24zS20wQTB6Q2dTZXZ3bVlSSlZRX1cyZjVvc1E4UUtZczZjbHZpTm5RQVN6cjFURnBVR2E1UFlhRHhrcTNkM1B4OV9v?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-18T11:42:00+00:00"
-    },
-    {
-      "t": "무디스 “K반도체 호황, 내년 중반까지 간다”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ja3h1SzI0X0hmaDk4VGZLdHJ2amRKNmRWenhOakpmQzFQZlpqSzN1VlBCUFVpUWN5dU14X0RtV1ZTVkZHWlJQbUxaZHhkSTNxUm0yZmtDbGRmZ9IBX0FVX3lxTE1VaS13aWpPWEs0am1uRkNISVhJMEZMNEs5Y25USWhpWURDRzdtXzlVVzBSc1Ryay0wdXNCY0x5dEw0TnNySUNJRlpNYnpkbnZjVlZGS1ZlREZiWWFSWHlV?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-18T11:42:00+00:00"
     }
   ],
   "asof": {},
