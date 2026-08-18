@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T13:15:15+00:00",
-  "quotesAt": "2026-08-18T13:15:15+00:00",
-  "newsAt": "2026-08-18T13:15:15+00:00",
+  "fetchedAt": "2026-08-18T13:30:15+00:00",
+  "quotesAt": "2026-08-18T13:30:15+00:00",
+  "newsAt": "2026-08-18T13:30:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7745.06,
+    "spx": 7703.2,
     "nikkei": 67460.73,
-    "vix": 15.75,
-    "krw": 1410.28,
-    "gold": 4452.6,
-    "wti": 84.43,
-    "dxy": 99.61
+    "vix": 15.79,
+    "krw": 1411.17,
+    "gold": 4446.7,
+    "wti": 84.46,
+    "dxy": 99.63
   },
   "daily": {
-    "spx": -0.69,
+    "spx": -1.06,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.36,
-    "dxy": -0.03,
-    "gold": 0.79,
-    "wti": -0.08,
-    "vix": 3.69
+    "krw": -0.3,
+    "dxy": -0.01,
+    "gold": 0.65,
+    "wti": -0.05,
+    "vix": 3.95
   },
   "news": [
+    {
+      "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 금리·유가 급등에 반도체주 '일제 하락'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DRE9qc3BRX1FaQzQzSmFmdU9fTHNlX0JyalJYUi1HbmdsN2xBVHRLVEtiazFmY1hLVFpyZGpRNjhzZ2U1Z2Z6YlNqWFRHd2pKUWFscnkyS2VQTUVj?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-18T13:24:00+00:00"
+    },
+    {
+      "t": "뉴욕증시 개장 전 특징주...홈디포·듀오링고↑ VS 파브리넷·SK하이닉스ADR·테슬라↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nWXhaNjN6ZWc1cFZtVThyQzNZX3ozOUVZdzBseGlrSW1IMnF6NHp2T0gwV2VDUGVyTjRjQXVwdC13NXJ1Wmd1M3QtNHJhcEF5OGhjMHVuQjROVGVT?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-18T13:16:00+00:00"
+    },
     {
       "t": "SK하이닉스 ADR 주가 6% 급락…美 금리 부담에 6일만에↓",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JYVRHX1NSaEdDemlyeFZ3bkV0VmMwamVicjZDcXpBMUVraUVCNURfRUpyZllpTC1QZnNsYmhZWi0xXzNaREFtcHppbElSVFN4V1pqSE1Bbmd3bGFtX1hzVGNyejliNTd2bWpLR1F6Wkg?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43d1hLRUlLbjZQVnJxUUhCMEd0Z3lVcjZVN01GNUYzY2RVT0d1d0JYa2gzT3d4QWEwLUNEOWxHRk1OSFNrS0MzUGtHRUlQekdLMVZUSTF2ZEdfQQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-18T12:10:11+00:00"
-    },
-    {
-      "t": "TSX 선물, 중동 긴장과 미국 관세 시한 앞두고 소폭 하락",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aVzBFM0JRYXVVY0x5c0M1cXVsOE5wVGdQWDdiUkVBaERQWnQ5ZHhMRHN5blhiZTFobC10UXpES1JtdUpvbGZ2aE0yNE9la2NJQ1kzR0FvSnlUbHlvdUxZSnRpUTVWYVljaUE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-18T12:10:00+00:00"
-    },
-    {
-      "t": "[분석] 반도체 꺾이면 '세수절벽' 벌써 잊었나…교부금 개편이 위험한 진짜 이유",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qdElhbWp2RmV2NWt5aE5XTTVVMl91VUxwNFRYUFN5V053T29fOXpBZXlSeHBXR20wRVpnbl9tVmpXS3dPdmV2MldCdm10MnI3Mk5LTmVwMFV4dVJqOXJFbi0yTXVxWlE?oc=5",
-      "s": "교육플러스",
-      "d": "2026-08-18T12:04:45+00:00"
     }
   ],
   "asof": {},
