@@ -1,32 +1,74 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T08:15:30+00:00",
-  "quotesAt": "2026-08-18T08:15:30+00:00",
-  "newsAt": "2026-08-18T08:15:30+00:00",
+  "fetchedAt": "2026-08-18T08:30:29+00:00",
+  "quotesAt": "2026-08-18T08:30:29+00:00",
+  "newsAt": "2026-08-18T08:30:29+00:00",
   "quotes": {
     "kospi": 6869.83,
     "spx": 7745.06,
     "nikkei": 67460.73,
-    "vix": 15.97,
-    "krw": 1411.58,
-    "gold": 4448.6,
-    "wti": 84.41,
-    "dxy": 99.66
+    "vix": 16,
+    "krw": 1412.05,
+    "gold": 4447.4,
+    "wti": 84.36,
+    "dxy": 99.68
   },
   "daily": {
     "spx": -0.69,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.27,
-    "dxy": 0.02,
-    "gold": 0.7,
-    "wti": -0.11,
-    "vix": 5.13
+    "krw": -0.23,
+    "dxy": 0.04,
+    "gold": 0.67,
+    "wti": -0.17,
+    "vix": 5.33
   },
   "news": [
     {
-      "t": "코스피 5거래일 만에 하락…유가·금리 향방 추이 주목 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DOUpQOVBsVEJrSl8tMkl0OWRsa3JPckJGYmszemtzM2JPWEQwMnZfZWozRS04aGpIb3M5RUlXOVpBWWhKcE8tQ3YzbE5RWjdsTGJDRnFVRllUMzAyaGJrZnJia2RPU2FZ0gFuQVVfeXFMT3FFOFBkeVYyY1loZk5tSjREejBsLTVSTEluaEF5WV9Ed1hsQy1Zc1RKWVVNZi1Sa0NvUndBOV9kcjljVEhQbFRyVlNqS0d6cEYxZ25vNnAxLWl5UEhPaGJTQlBINVE3UktLdXdRZWc?oc=5",
+      "t": "한미반도체, 인천 주안산단에 1300억 투자 ‘8공장’ 구축...지역 정치권 “원팀 지원”",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KT1N0R01QamlCbGFJdnBfTUN2SU90VWFJV0p5Y2ZWWHJiT0VmLTNYWWk3MHpGREVwUl9PdjI0QkRadkJMTV9jcU0wLVQ3Umcyem0zaEY3TXdwNEp0U0NXYmJyNGFWVzlGakE?oc=5",
+      "s": "미디어인천신문",
+      "d": "2026-08-18T08:25:45+00:00"
+    },
+    {
+      "t": "코스피, 6거래일 만에 하락…전강후약에 7000선 내줘",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdzZaR1U0cGw1WTB3eTlyWm5FNUE3NmZQTWc1YjFUSklRVzhCRmtUdG9jclRNbHZqeVJBbE11cGhzLVVhZFZubWNKZ2h2OGRqNFdlTC0yR2VHQngwdHp5aw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-08-18T08:23:13+00:00"
+    },
+    {
+      "t": "이은택 KB증권 이사 “물가·금리 동시 상승이 증시 고비…美 10년물 5% 돌파는 위험”",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2RkNsXy10WnhLUUEzN0tvcldfaHpacDFlSUYzU1lsdmUtV1pweC1lUVM0cHRDQ2k2ckMxTGxGbldaRzJfd0o5RzlmSHZ4UQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-18T08:21:24+00:00"
+    },
+    {
+      "t": "또 시작된 ‘롤러코스피’?…6거래일 만에 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TRnZMeG55bHptd1RWNW4xX2NRbEk4dnlPQjRiTzdnS1hXNUdyNFg0SnowVnI0SW85aExTa3JLYTI0Nk1qMHRDRC03eUxYTGNaTHc?oc=5",
+      "s": "더나은미래",
+      "d": "2026-08-18T08:15:00+00:00"
+    },
+    {
+      "t": "국민대, 차량 해킹 잡는 보안반도체 기술 개발한다…국책과제 참여",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Lb1BnS2pHeTQ3VVcyZ0R4Yk9UdF9XN0VDRWU3a0VzRms0NFNRMTAxTTdzZ25mWnpNOXphQkhIUS16bG5fWVV0aF93Q25WTnNUc1NrYktn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-18T08:15:00+00:00"
+    },
+    {
+      "t": "중동 긴장 고조 속 캐나다 미국 관세 부과 임박 – 시장 동향",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vUnJSMExJTGRRS2E5ZzIxYW9tMnVFTXhNNFZkY2tGU0NabHZyd2xSUV9DcmRYRnZUQ3h4aERHcFVJdFl6R3FiM3VpNE56a09FWlpkZm5vdnhWNXZyWEhaRzV2NlE2NW9IZUE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-18T08:12:00+00:00"
+    },
+    {
+      "t": "상승세 타던 예금금리, 다시 내리막길 가나",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjl5aTlUQllrbFA3Y3hmWHdqZFhXZ1ZKd254bXVVenFnOGpKc0Y4akEwVlZ0SEFJTWZnMk5fZ09BNWtzNW52VUhyd05vc05zeC1ISTI3S01ZNEFIMmNVekw3dW9hdGtKangtN2lTTnZDbnl0azMzaGpTVElYSTZIWG5HblNwMWc?oc=5",
+      "s": "전북도민일보",
+      "d": "2026-08-18T08:08:37+00:00"
+    },
+    {
+      "t": "코스피 5거래일 만에 하락…유가·금리 향방 추이 주목",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DOUpQOVBsVEJrSl8tMkl0OWRsa3JPckJGYmszemtzM2JPWEQwMnZfZWozRS04aGpIb3M5RUlXOVpBWWhKcE8tQ3YzbE5RWjdsTGJDRnFVRllUMzAyaGJrZnJia2RPU2FZ?oc=5",
       "s": "머니투데이",
       "d": "2026-08-18T08:05:39+00:00"
     },
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQW1FamxiSGtoVExVNGtmckNVYmFKZzhyNVRoTlBrVEhUVWRWeWROV2h0UVBOc1NKbW9OOEt1cXBmT3lhRmpWTldpbE8tZ1l6TGlPMHlVWW15SGp2RHViakU3TmhHbDQ?oc=5",
       "s": "한겨레",
       "d": "2026-08-18T08:02:00+00:00"
-    },
-    {
-      "t": "美 증시, 소비 체력 확인한다…中 AI·日 엔저도 시험대 [글로벌 레이더]",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NUzJfOWdjOXkwQWhyWDV3MlhEaE1JRnJQbXpMNEVoOWp0SHlPSm1zcHVHSXg3Q1RTcW51RWcybkh3a2NqUnY0cklNNHozaW9ZU3Y3cHpfSG91WFlrTUVhUGhR?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-18T08:01:56+00:00"
-    },
-    {
-      "t": "[다시 긴축의 시간] 금리 더 오르면 내 지갑은…대출·예금·집값 '연쇄 영향'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRV042dTQ2VDdSMnRyVmZOVWw0bDVtakRPaUplX293eGVxSE0zaWI0RmROYkkxNlMzMjZNelk5NnplcXZXczZ1cFJ2T3VSRnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T08:00:39+00:00"
-    },
-    {
-      "t": "코스피, 6거래일만에 하락⋯7,200대 찍고 6,800대로 후",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqV29OU2MxbGNsVHZBZzJXV3RPTzNMaXRWSWpTbXNIc3VSLWtfZnJZcWJPYmo0RVpTUlA0R1N1TUdZbExLZmF2ZGtoYVNqVlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T07:46:00+00:00"
-    },
-    {
-      "t": "[증시 인사이트] 6900선 내준 코스피…삼전·닉스 주주환원이 반등의 키?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQVJFYXVqMm04OFNjeVFjeXQwbUJaUEFlTXZvdjh4ckU3Z0JEcUljb2ZFRnlacFJLbnhvbUZ5Y3FhcjAyLTZYbHV6X2NyX3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T07:43:28+00:00"
-    },
-    {
-      "t": "코스피, 6거래일 만에 하락 마감…6,800선",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aZ1FpaHduYTEyNXJXRmJ1RkF5U2J4ZERyOWdCUU9BSTRPQUpsbGZ0Z2FkWjBhVWV2UTJqOXZaNHphRFBPcjk2ZkxFdmpjODg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T07:42:40+00:00"
-    },
-    {
-      "t": "[뉴욕증시 전략] 연장은 없었다…美 30년물 국채수익률 5.3",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80WGtQdU1HRDJwNkZXU1dOaS1YeV81TEpWTnMzazNNWTFBLTdldTJPUHFndzBwWnlRZXpCTDNpUFZGYzlDdE00blRfRU5UQkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T07:42:24+00:00"
-    },
-    {
-      "t": "[애프터마켓 브리핑] '전강후약' 코스피, 1.5% 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TVNYN2x0a0hFSi1kYW5PRDdydXZlUm9xTDFlanN1bXJzZzNDNW1ZbVRFaWtrUkZ1WWdjNkZ4cG93SWJQMEVqa2d6QTlTeHM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T07:42:22+00:00"
     }
   ],
   "asof": {},
