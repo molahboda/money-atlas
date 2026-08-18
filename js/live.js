@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T19:45:15+00:00",
-  "quotesAt": "2026-08-18T19:45:15+00:00",
-  "newsAt": "2026-08-18T19:45:15+00:00",
+  "fetchedAt": "2026-08-18T20:00:15+00:00",
+  "quotesAt": "2026-08-18T20:00:15+00:00",
+  "newsAt": "2026-08-18T20:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7699,
+    "spx": 7691.97,
     "nikkei": 67460.73,
-    "vix": 15.61,
-    "krw": 1411.93,
-    "gold": 4409,
-    "wti": 84.08,
+    "vix": 15.68,
+    "krw": 1412.5,
+    "gold": 4399.2,
+    "wti": 84.14,
     "dxy": 99.64
   },
   "daily": {
-    "spx": -1.11,
+    "spx": -1.2,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.24,
+    "krw": -0.2,
     "dxy": 0,
-    "gold": -0.2,
-    "wti": -0.5,
-    "vix": 2.76
+    "gold": -0.42,
+    "wti": -0.43,
+    "vix": 3.23
   },
   "news": [
+    {
+      "t": "美 국채 금리 19년만에 최고…40조달러 부채에 글로벌시장 '소용돌이' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yMnFmNzdZOHNDMWtYOXB4RkdIR0pjMDRaNWxnZVFKX21BcUx3THFheFB6V0tqWVlfT3A2ektETTFzQmFGVHVVTW1kQXllSWg2VWNFaU55cWhPdHpMRWRfSm5RUVJjeFBD0gFuQVVfeXFMT0JHWmRLdWNIRXVZaVdSd09POGh1SW1ma1BDSUVBWHlncHlTcXRnVzF2RV9TNTNQbGN3YjlqSktQeElSMGF4UmlUMU1oMFRRbVpoRk9XeDhpQ2dPcERfWVJ3LUtmTjBySXBndFpEa1E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T19:55:39+00:00"
+    },
+    {
+      "t": "국제유가, 중동 불안 지속에 사흘 연속 상승…WTI 0.5%↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkN1Z4dllUMW93SnVNOXJFOU9BSUNfOGMxeWFsTjdZYkZrYU05d01Za0NwUElPeExXV1IwQkVtSW94OXFnS1RYMjZPal92X2V6OEE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-18T19:52:23+00:00"
+    },
+    {
+      "t": "[뉴욕유가] 美·이란 지루한 설전의 반복…WTI 0.52%↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE85Qi01eFdvX3U0S3V5WFdZZGVURlNEbzZkWE1oQ0JxeWljel9YOTFodjRzem1yYWdxWmxtUEZDeklyZG50WFQtQkVyUkNvdXIwTWdVbUtiMkRlWDZpNVNPYjF2VVNPb2pRWkVGcHFibjlpdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-18T19:46:04+00:00"
+    },
     {
       "t": "[국제유가] 배럴당 91달러 돌파…트럼프 \"휴전 연장 없다\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jVmlXNGFUckFKVmp1ODFuczhQQjdrQldXM3NSVTdzNmxQSmhyR1dMN0VUdnRRaUREaGZTRC1zRHJudWRqaElYVlI3V244M3c?oc=5",
@@ -37,33 +55,15 @@ window.LIVE_DATA = {
       "d": "2026-08-18T19:34:42+00:00"
     },
     {
-      "t": "\"진짜 라이벌은 중국\"… 반도체 '러브콜' 보낸 대만, 한국엔 득일까",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XYXRVQWVxNDljZDZrTjlaSTYxYmpnNUVxRkptU0JFRTBZY3ZNVnA1aTgxTDBMVEVMMk9QSXVseHlieHZoUjlOSEtuTzNXcEd1RG92MDhpbDNEMnBremQ4ZnBpUDlqWGN6bkhKcW9B0gFzQVVfeXFMTmpaVnhQbjI2bGN6aUx0WGZYY0J3QWtKRloyMEQ1SEhNM2p5TmNXTXd2NndjNXNqRG1NakpPN3hzNUlwTDg2cnJOdjNJelExc1NMbGRqTGoxb3ZuT2JJaFdkOGRVUmJwLXVSWEt4OUdWY3FIQQ?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-18T19:30:00+00:00"
-    },
-    {
-      "t": "농지에 반도체 공장이 들어왔다?… 호남이 대만 '자이현'을 봐야 하는 이유",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBabE5vRGxqWXF4YnR0a1lRb2lHMlFyR0xmR2V1U2lYU0tBTUJMMy14SFR4ZW1NVVdTVThtUXRiRkJvdmc5Tmk1YnA4aHhEUGktMFN6WGpyOHZSaG80SU9aWXltbWxjV29GVDhST1p30gFzQVVfeXFMTzAzdGRwb0ZlQTRlVGswSXI2eVBiLV92X3luOVczU1I0a3FOQzI1Wm1yMWtHbGhJUEVkZlZUT2lVM2lnQ3Rha0lybXU3TjZqaVYxcTQ4UExjTmlwczlLcW80ZDNBeVVzdUJ2a3RhNzdEeGhMSQ?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-18T19:30:00+00:00"
-    },
-    {
-      "t": "'첫 여성 3선' 김보라 안성시장 \"반도체 성장 과실·부담 함께 나눠야\" [기초단체장에게 듣는다]",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zejdHWFBVTTBFUXQ4N0liQzF6SDJFNkVRb1JXcXowWkpFRkMxSlQxYTVQOTBObkNuay1FRDFzclVmTUhKaXUzOVRwSlJRd1FXRDE4TldXUVB4N3p4dzEwUkdla3VxYldYbTBzN1BR0gFzQVVfeXFMTzNzWlA1RFBjbWFNRmtRRjJIV3psN0NOT1Noakw2bGd1NTJaci1TdkVLWWM2XzBuU2N4SlZEU3MzQlM4M19Sa1lLYnlVZVNFRlpzN2xpQ2F2TWRkUHFzNXJNSThvdFFaM20xMFl3ZHN3ajlibw?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-18T19:30:00+00:00"
-    },
-    {
-      "t": "반도체가 중국 침공 막는다는데… 대만의 '실리콘 방패' 어디까지 통할까",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ETE1NMVgyWTRaQ1RGVG5qd21EZ3VyVHFvWDFNaHZDZHdYcTBlNEtJYnlTR1N4cjFIZmhUbFRzLXFaelI5dXhCdFZYVnAyY3FQamh1UXZTUTRqRHBoRDRBUC1IZ1JCWkw5amVjZlNn0gFzQVVfeXFMTkt6Y2NVN1V1SjNOUWM4dElGVk9XWnlmRWU2WlIyc0lfckpicTQwN0lFSjJXNkJEYnUzT19DNVBLLUREZDZ6UVlINUNPa0ZubXlZenV3VGZXSDFMSTRYOXpTaVppX1ZQRkxnYnFRUV9DMlpJQQ?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-18T19:30:00+00:00"
-    },
-    {
       "t": "무디스 “韓반도체 대체 어려워” 올 韓성장률 1.8%→3.5% 상향",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQ3FTTWwwMHRGNUMxOUNkZTdjb1B1NDR2eXl2QWhMdnN1cnhMMjBtZUp1T1JDU3FuWlI2enJkdUZpWDRiZGdpaXlWNFR5SmIwVWdOMHN1cHE5VlVWcTliS1k5c215SHIzenBRbE9nWmF6eTVPTHfSAWZBVV95cUxPYW4za3NxUlpaZnBVVDJtM1ZFSG9qZzUtWnVTNGoxOWNZdm41Z3lxWWs1YkJJeVQ2SWdQN3pxVlYyWEVXTUJnUUNrZjlpdEZiOVhzMFJVX1hxdzFmelZ6dXctUU5KTFE?oc=5",
       "s": "동아일보",
+      "d": "2026-08-18T19:30:00+00:00"
+    },
+    {
+      "t": "\"진짜 라이벌은 중국\"… 반도체 '러브콜' 보낸 대만, 한국엔 득일까",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XYXRVQWVxNDljZDZrTjlaSTYxYmpnNUVxRkptU0JFRTBZY3ZNVnA1aTgxTDBMVEVMMk9QSXVseHlieHZoUjlOSEtuTzNXcEd1RG92MDhpbDNEMnBremQ4ZnBpUDlqWGN6bkhKcW9B0gFzQVVfeXFMTmpaVnhQbjI2bGN6aUx0WGZYY0J3QWtKRloyMEQ1SEhNM2p5TmNXTXd2NndjNXNqRG1NakpPN3hzNUlwTDg2cnJOdjNJelExc1NMbGRqTGoxb3ZuT2JJaFdkOGRVUmJwLXVSWEt4OUdWY3FIQQ?oc=5",
+      "s": "한국일보",
       "d": "2026-08-18T19:30:00+00:00"
     },
     {
