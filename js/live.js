@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T05:30:35+00:00",
-  "quotesAt": "2026-08-18T05:30:35+00:00",
-  "newsAt": "2026-08-18T05:30:35+00:00",
+  "fetchedAt": "2026-08-18T05:45:29+00:00",
+  "quotesAt": "2026-08-18T05:45:29+00:00",
+  "newsAt": "2026-08-18T05:45:29+00:00",
   "quotes": {
-    "kospi": 6928.72,
+    "kospi": 6892.62,
     "spx": 7745.06,
-    "nikkei": 67751.99,
+    "nikkei": 67707.1,
     "vix": 15.19,
-    "krw": 1409.38,
-    "gold": 4450.4,
-    "wti": 85.25,
-    "dxy": 99.66
+    "krw": 1409.9,
+    "gold": 4442.8,
+    "wti": 85.15,
+    "dxy": 99.65
   },
   "daily": {
     "spx": -0.69,
-    "kospi": 1.69,
-    "nikkei": -2.12,
-    "krw": -0.42,
-    "dxy": 0.02,
-    "gold": 0.74,
-    "wti": 0.89,
+    "kospi": 1.16,
+    "nikkei": -2.19,
+    "krw": -0.39,
+    "dxy": 0.01,
+    "gold": 0.57,
+    "wti": 0.77,
     "vix": 6.6
   },
   "news": [
     {
-      "t": "[월가 레이더] 美 뉴욕증시, 美·이란 휴전만료에 일제 하락…유가·금리 동반 급등",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lSnZPNVFXMzdQTmlZTFJtRHpDWXpIWi1JTWRNc2FtLTViUFk1RGJaTE44YnpUWW5kTzBWbl95UUxwQjMxcDV5cTNRV0N2YUNaa3pfT1VjbjV1a213R1E?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-17T20:54:40+00:00"
+      "t": "한미반도체, 1천300억 투자 역대 최대규모 8공장 구축",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQkw5Y3JxMEhfVDJQc2FXX3FtQTRJQi1DU3NvOGxfUXhaVnJYcHRaZTI3ZENCbmdUeUZDMGYwM3BiRUlKTm5GX3FrVTBqblZ3SXhPb0pLbTcwdmdCbEVTcTBCUW0tbTE1SVJ3SW1kbnE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T05:35:03+00:00"
     },
     {
-      "t": "뉴욕증시 3대 지수 하락…메모리 반도체주는 AI훈풍 강세",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JSG9DTXFpZ0JHbTQzeDZlblJ1cW1yVHVlSTJVYzEzTVM1X2JIbG02c2FsTUhGTjlFN24tczFIcHhEU2FRVXZZRUlWQ1FVS1JJbGpaNkd5Q3kxWW1xR0NCajZ4cFU?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-08-17T20:51:24+00:00"
+      "t": "[셀럽의 한 수] 상승폭 반납한 코스피…시장 흐름 진단은?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52TDBadGkxTEVlOHRNbTJNb0daYWZCcmc0RTBINnpEOGRmYTlDSWw0Z2JndF9yTlIwcTFHS0dvRWJnZGoyTS10dUxxWTNmRm8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T05:31:38+00:00"
     },
     {
-      "t": "무디스, 韓성장률 3.5%로 '깜짝' 상향…대체 메모리기업 제한적\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lS25LT0VEZDNXZnNGa2dzTTFVNnFrYUJpV3p2VXV3S0Y1dVlwVmFZQm9zTjdweDFHb3pqWTdSbERjUzNJYmt6MGM5Mkd5U09zWHl2a0xXWmxwVzTSAWBBVV95cUxPcE1XVVNSOWIzOFE4eks5MURRVmoxVDJ3TExleGxoYS1Td3NleWgwUDdkZktfSnZfLXpYTkw2TENsYlBtS1FWVld0bXhfMWpQTnpvNzQydzQ1aWVFOFJTVWk?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-17T20:51:01+00:00"
-    },
-    {
-      "t": "뉴욕증시 하락에도 반도체株 강세…마이크론 4%·SK하이닉스 ADR 3%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56X2RpMGJyVmhMS2d3U1daekRmNGJyR1FjbjFyeU52N0draWtDdkNsamVQYWhzbXU1NkVCSHRWaGxreXA5WmUxYWFvWm5fUEJwRVkwZ2ZGc09reDYtSm9VU29zQUp2Wk3SAWxBVV95cUxNemNCbGpCWC1fUmp2Z2JqY01YZHd2WXVlRC1SVk5ZX2FsVFRXNTZGV0RhUHM3VGNYX2ZMVUx5aUVvSjFOSXZQTFlhWlNKUm5IcXhsdGhOT29PdnlRMks2ZHNrNUxPLUxwZThhd2k?oc=5",
+      "t": "시타델 \"연준, 인플레 대응에 소극적…美장기금리 급등 부추겨\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oekVVQ25XM2F0Z3VabG5HSVlCYjl0TndoWWJrT09LYXY1OVlla1NCbVk3cTluVnk1V0JlMk43a19TOS10djAzUk5nalc4RTVHRXlNdXhHaTBrS2t2VWE0eFlEcnI1dFHSAWxBVV95cUxPVkJQWFdvSlFjMmVYZllHa3lhaTNERjJvQXo4bXNMMEd3NG1yeWwxRlMybG4tVVp3a2lqdThnUTFKUWVkeW1RTmp6YmNzWXdHX2VjNkkwZDJmRThvYzlMQndRMTVBekZiVTlCRDk?oc=5",
       "s": "뉴스1",
-      "d": "2026-08-17T20:47:43+00:00"
+      "d": "2026-08-18T05:30:28+00:00"
     },
     {
-      "t": "뉴욕증시, 하락세로 마감…나스닥 0.32%↓",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83NlBSYllaNkwwaDVBaDNyMGhFbnZkVVI3dFE3RDRWZUJTSUQ4b01abUhpWjlXdVlOVDEtb3lSMXpMOHdLLUtuS21QclpaVE15?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-08-17T20:46:39+00:00"
-    },
-    {
-      "t": "[금/유가] 이란-美 '60일 잠정합의' 연장 거부에 브렌트유 90달러 돌파…금 상승",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BUlc4NVRKWVRiQ29RNDZncWZraGRkSnhiVkdaUjBDZXdJdmpPQThoSlZQcWhXbExZbW01M3ZibWpWSjJTRGpCdnU4RmVOeU1sbG9MQ0xBVnJtRV9f?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-17T20:46:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 유가·국채 수익률 급등에 3대 지수 하락…다우 272P↓",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkFJWUtnWkJqR1VxRG95dlZrbFEwUFZUaGp5blBCTTdKQl9ENjRLT0VveWdQSFEwbWVBUkg1ZkVKeEtuM3hTODM3NEN1V0tlQ2dGSDR3STdLQllRam9lZlBwMEFVNWZKUGJVbmp4SGZaS2lzVG5YS0VFdUNCaC1wMXBrd05vWkk?oc=5",
+      "t": "코스피 반등에도 거래 규모 '뚝'…“투심 상당히 위축”",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkQtUWZTRDZ2QVZfdV9rMTFGMGFWTkhoN3l3aXE0OEVwbjh6Yno1YXJBSzBkVEc0NkMzVVE3c0Ywc0VPQmlHT0NzSnFBRTZMck83M1I3dk5MT0lnN0tzQmlCU05RS3M3VXl1YzVmZ0RGdzdVSkJDV1kwaEtjdkJBYjZ3UmF5X0dQ?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-08-17T20:41:28+00:00"
+      "d": "2026-08-18T05:26:53+00:00"
     },
     {
-      "t": "7000피 안착 도전…‘삼전닉스’ 회복 중 변수는 FOMC [주간 증시 전망]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EeDdKdFhkSC1LVzNTM3Y3MEI5dXZjZzFrQUtZRGswNGREOXRORHJPZExYdzVrOG56N1hXVV92bWk1VU5NTVpjQUJDdUFkYzdmV0E?oc=5",
-      "s": "서울경제",
-      "d": "2026-08-17T20:40:00+00:00"
+      "t": "中 유니트리, 19일 상하이 증시 정식 상장",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GdmxBbEV0bWsxTDVfYzZpWTlzcVJ2emVvYlZITWk3Ti1RaUxsaFV2TUlodE9QY1h3MzZkZjUyOFQ4R2Jnb2JjXzVpOU5EOWRkaUN6WWhSaXA5MzdsSEVTXzBIU29zQ29RX05PSQ?oc=5",
+      "s": "로봇신문",
+      "d": "2026-08-18T05:24:53+00:00"
     },
     {
-      "t": "\"호남 반도체 클러스터 용수, 하수 방류수로 해결하자\"",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ub0xVNzFDa2RPcGJXdXlrdXo5N3ZFV2tkbi1OZ045V2NJSlhJZEhmX1dlM0pncFAtQ2Fod0FFQnBMM3U0eU8xckJtZDUxMjg0TzdwLVBWS09jWDFRZjcxTFEwTFg4WWlIS3JabENIaw?oc=5",
-      "s": "진일보",
-      "d": "2026-08-17T20:39:39+00:00"
+      "t": "코스피, 장중 350포인트 널뛰기…개인 '사자' 전환에도 6,900선까지 내줘",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90VjF6a19tanFvR09XSTNfVWVGMXJGUnZ5RnlicjlaSHFSU28zMkhodm95cXlyQktHVS1laFM5OUZpSUl4TFUwdGRiM1Vrcjhka3pJZDVXdGdaa2RjMzVRWHByWjNaS2pfMlNXME4xM1E?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T05:24:25+00:00"
     },
     {
-      "t": "S&P500지수 0.5% 하락…이란 긴장·유가 상승에 매도 압박[뉴욕마감]",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcHpRZjZXenFSSVBTaVZVZnhtc3FkOHNWaHJ2dmVIMjdVZFhDT0FGckhia1JNbTdXbk96eFJXai13Ynk2RmVfTTVCeDNCUGtpM0E3S3hFSjFMbDhaaFRJYXJjWk1vWDTSAWxBVV95cUxON0tRUW4xcVl0dDFjaWlTcnRDcjdlaFQ4Q2NZWDF6WXQ5WGkwOEJGSlVWeEhDTEo0RW5CMUlVd2hpNmwzVzBxZTZ5dFg0MHFvZm1sUXJvTl9ZeTVRVU5oTm0zSVc2cTVvcnZaTnM?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-17T20:38:33+00:00"
+      "t": "[속보]코스피, 6900선 하회… 장중 1%대 하락 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maDZyeFMxLVpLZURXd0JVanRqZ0NiN3hadndPa21ma291U25DRkhDczBMMXN3b2ZocWJUX21yN1Q5bmlZcUVLY1RxLTZ1dEQ3bVc3dzB3VkRteG9YQ2RBdWhjT2JnRTBP0gFuQVVfeXFMTlVibGVLdlRIS3poWFhIUF9hVmVUejRvVmUza1VCeGRaOElfQmg5VElZMmhyY3had0lBUEtScEFJRXdUS0x6MWM0S0hmYVlzRENoMDNmYUp2eDZLdVhFYVBMTXVRSFYta3NxTjZFVVE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T05:21:33+00:00"
+    },
+    {
+      "t": "日 금리 급등에 생보사 채권 평가손실 30조엔… '재무 경고등' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5VHJXZ01XTVhpZW9nRGlIVGMzTW0wNVhiUUlNYmx1Z1dTYkNOUmlZbG9zU0tkVUEwTFlSdzJZd1N4QlFuZENPRHo0S0x6N0ZYM0RrQ2phNXlMc2RtTS1CNzkwN09HZ05l0gFuQVVfeXFMUEhzMDgycVE1Z2RWT3F2aFAyVTgwVFQzV3BzZ3NCTUszcjE4NWs0aGRnX0RNWUZjb3g5cENVZVFaUlBKZXZ6eDdycC1ZMUs2Q1FiSkdGRFptOUlhVS1NNFVuZHQxSVZRQTF5cGp2Z0E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-18T05:21:07+00:00"
+    },
+    {
+      "t": "코스피, 7200선→6900선…기관 매도에 상승분 반납",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFdXliMnp4dGVpUm9Od2ZxMzh3TTdNdWh2aHNraE4zbTlkZ0Q4MEttSU5US3owOTE0LUlLU3BSd2d0Zy0zejVreHVickZTS3Rkd09MdXh5TDFGY29J?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-18T05:13:00+00:00"
+    },
+    {
+      "t": "7200선 찍고 6900선으로 하락…오늘도 '롤러코스피'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wOFNoRHpETXBwYjJPcHFoYlo2VXlmcEtYNWZOVUV2cnlqMXZFYW52UEl6WDJJbkIzOWlfNmNIQ0t5UXVYZlJiRGFTdGhuMUU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-18T05:06:03+00:00"
     }
   ],
   "asof": {},
