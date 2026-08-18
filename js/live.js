@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T15:00:15+00:00",
-  "quotesAt": "2026-08-18T15:00:15+00:00",
-  "newsAt": "2026-08-18T15:00:15+00:00",
+  "fetchedAt": "2026-08-18T15:15:15+00:00",
+  "quotesAt": "2026-08-18T15:15:15+00:00",
+  "newsAt": "2026-08-18T15:15:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7699.89,
+    "spx": 7697.79,
     "nikkei": 67460.73,
-    "vix": 15.66,
-    "krw": 1411.48,
-    "gold": 4443.5,
-    "wti": 83.99,
+    "vix": 15.83,
+    "krw": 1412.19,
+    "gold": 4432.4,
+    "wti": 84.23,
     "dxy": 99.56
   },
   "daily": {
-    "spx": -1.1,
+    "spx": -1.13,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.27,
+    "krw": -0.22,
     "dxy": -0.08,
-    "gold": 0.58,
-    "wti": -0.6,
-    "vix": 3.09
+    "gold": 0.33,
+    "wti": -0.32,
+    "vix": 4.21
   },
   "news": [
+    {
+      "t": "\"삼전닉스만 수출주냐\"…반도체 다음은 '면비디아' [한경 프리미엄9 TODAY]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQ2ZrQjE3UldTb250Tks0ODktNVBsd1BfV3pydXJZZS1Uek10cnFOTFBpUlNyN0YtbHlzdFlkX0lSWkxlLVN2d1I2aExidTl2eVNtd1kxeXRoZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T15:07:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 30년물 금리 상승에 '비명'…필리 지수 5.44%↓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3SFJScWJ0STlxY2hGZm9zaFRkcEM5eGZ5ME14Z3FQV0tKMUpUYklfeXNxYy1JOUZEa01TVnBBVkpfMlJmblBuZDJ2cEFCa3BxbGtWeWZiZ3RrMlXSAWBBVV95cUxPamxhRVl0b2paekdpb0JtQ1V4RjB5OXV2dTNJU3VfNG1sNlhqaC1qa1ZrM3VBYWxlYmlnN2hnSFF3cktKVzl4ZXZSVlVWN1Uwam5wOEhFTGpna2dJa3k5LTk?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-18T15:03:14+00:00"
+    },
+    {
+      "t": "야데니 \"10년물 미국채 금리 5% 넘기전까진 괜찮아\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hbE1POW5pUC1KSXh6ZnRRSmhta1Y4d1pGTGZRWDE4Z195WWkxT25jM2prVW04LXlpNG9rU0U0djdyUWlDeFhuMDNVMy1wNjhLa0stZ1NjeVZpZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-18T14:55:24+00:00"
+    },
     {
       "t": "美 7월 수입물가 예상 밖 0.4%↓…1년 2개월 만에 최대 낙폭",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTXQ0TEYwUHJfcEN4S3BaS09IRmo0WV9NSzNKaVp4ZTNoWGlqanVrRUJTV1ktYmZSb2FyQW9yUkdDWVpxLU5nbjNJNmlFVWU4ZFdGWFVaOC05UG84aTdCYTk5NzRjTzgzY296VmpYUEo?oc=5",
@@ -31,7 +49,13 @@ window.LIVE_DATA = {
       "d": "2026-08-18T14:47:19+00:00"
     },
     {
-      "t": "국채수익률 상승 여파로 美증시 하락…반도체주식 일제↓",
+      "t": "미 달러화 강보합…파운드 약세 속 美 국채금리 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SaWdDZmp1WTJ0bkFZYmtocWpnOWtJN0I3S0d3ZmxQQjVIM213eHdpM2xkUWlwNmdMV1RRdWNqWm1iaUdGdmhmUUxmREtYeFh6TExBMHRCVENHYy1mcVJCY2g1UmpMQTkyRGZkR2JGU3g?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-18T14:21:35+00:00"
+    },
+    {
+      "t": "국채수익률 상승 여파로 美 증시 하락…반도체주 일제 하락",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95WUZhMmRmUUwyT1VIMUQ4WmdaT2EzVm8tUlhHdks4R1BGNlpaVXJLUXo1eGI4ZV9yaFlGczRwVlFDaUI4SDBKdTZGOFJKYlBkcmdjZzNMeXZUQQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-18T14:12:15+00:00"
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HZk9qcjF2V3A1Q2RQcEhEMjExUG5wZC1QNzh2R3VFR2dXUW9HV2ZrSVdkWHowS1RXcERDS01nUWdzRGFhbnkzRGZjcmVod3lVTTV6UkVWaDlaQQ?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-18T13:18:52+00:00"
-    },
-    {
-      "t": "뉴욕증시 개장 전 특징주...홈디포·듀오링고↑ VS 파브리넷·SK하이닉스ADR·테슬라↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nWXhaNjN6ZWc1cFZtVThyQzNZX3ozOUVZdzBseGlrSW1IMnF6NHp2T0gwV2VDUGVyTjRjQXVwdC13NXJ1Wmd1M3QtNHJhcEF5OGhjMHVuQjROVGVT?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-18T13:16:00+00:00"
-    },
-    {
-      "t": "SK하이닉스 ADR 주가 6% 급락…美 금리 부담에 6일만에↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JYVRHX1NSaEdDemlyeFZ3bkV0VmMwamVicjZDcXpBMUVraUVCNURfRUpyZllpTC1QZnNsYmhZWi0xXzNaREFtcHppbElSVFN4V1pqSE1Bbmd3bGFtX1hzVGNyejliNTd2bWpLR1F6Wkg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-18T13:04:27+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 美·이란 긴장에 유가 91달러 돌파…나스닥 선물 1.3%↓·반도체주 급락",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Bc1U4RGtwVm5YZzRvZUQ4a2ZBcmE5eXZYZE1yb3dWTGtJYzVUTHFkVHZBdGN2S19ZRWZrdDlfY2NKWnlfaEFoU0tkMndyS2tWX1VnYWFuWTVjOVFG?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-18T13:00:00+00:00"
-    },
-    {
-      "t": "美, 삼전닉스 반도체 유치 압박? 정부 “기업, 메모리 美투자 계획 없어”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KV3hOV2pxTl94YXFLRzE3ZUZPTGd0VUw0S3JoWlBQNEwxc3hYSWRUZHBlSEdrUFRzbWFtQXVKUGcxdFhBQTduSUdXUVlSVGc4ZEtOWnB1ZThSZmJXZTJlM2tjQ3Y2M2lGd29DWDVTRQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-18T12:42:25+00:00"
     }
   ],
   "asof": {},
