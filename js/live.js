@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-18T13:45:15+00:00",
-  "quotesAt": "2026-08-18T13:45:15+00:00",
-  "newsAt": "2026-08-18T13:45:15+00:00",
+  "fetchedAt": "2026-08-18T14:00:15+00:00",
+  "quotesAt": "2026-08-18T14:00:15+00:00",
+  "newsAt": "2026-08-18T14:00:15+00:00",
   "quotes": {
     "kospi": 6869.83,
-    "spx": 7704.26,
+    "spx": 7703.85,
     "nikkei": 67460.73,
-    "vix": 15.84,
-    "krw": 1411.15,
-    "gold": 4451.8,
-    "wti": 84.42,
-    "dxy": 99.6
+    "vix": 15.73,
+    "krw": 1410.91,
+    "gold": 4451.1,
+    "wti": 84.1,
+    "dxy": 99.59
   },
   "daily": {
     "spx": -1.05,
     "kospi": 0.83,
     "nikkei": -2.54,
-    "krw": -0.3,
-    "dxy": -0.04,
-    "gold": 0.77,
-    "wti": -0.09,
-    "vix": 4.28
+    "krw": -0.32,
+    "dxy": -0.05,
+    "gold": 0.75,
+    "wti": -0.47,
+    "vix": 3.55
   },
   "news": [
+    {
+      "t": "[뉴욕증시]美 장기채 금리·유가 상승에 일제히 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JbHg4V05lOTNlR25WOGlYZWNPd21DbHNvcUVlNHVnWXBGWkt2NVh6Y3RFVjVUQTYwVzJtYWRKN29EcFRITzk5cU16OHVTSW92SUQxaFBRNVA2dXNldTB6cA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-18T13:46:00+00:00"
+    },
     {
       "t": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43d1hLRUlLbjZQVnJxUUhCMEd0Z3lVcjZVN01GNUYzY2RVT0d1d0JYa2gzT3d4QWEwLUNEOWxHRk1OSFNrS0MzUGtHRUlQekdLMVZUSTF2ZEdfQQ?oc=5",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-18T12:42:25+00:00"
     },
     {
+      "t": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\"",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5TVUh4UUliM0RPMDdaS2s1RG9xeVBwOXQ5YzFXaUdjeEFOTko3RVItWHJKbkNXbjFQSTg5Ums1M0kxOUg0dmdrNHRsNUxzS09JdEg5OV80c09GRnVxQk8xOGRLVTBSNUJBMlFWM3NNdEJWYWFPOElwdEV6aUVQUQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-18T12:39:42+00:00"
+    },
+    {
       "t": "유가 상승 및 RBI 예금 제도 마감으로 인도 채권 수익률 급등",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZElGZnFZeXNBWUQtazNwOUx3S2hJRnBuMTRBblpMV0VySy13cFIwdzQ0NEpwVzJOSHBseGhpWUJ6SzA1a3lSUlVHMzZVXzFybmdTMEdxTk9vckVJVVk2dHY0bENnX0U5NzRpbnB5Y2lDcUxhOU9j?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-18T12:31:00+00:00"
-    },
-    {
-      "t": "삼전닉스 뛰는데 거래량 급감…코스피 상승 뒤 숨은 '이상 신호'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MWdpT3NSSHlzbDlVbXpOOXJubS1Ia2FZRHE1VGZxMVp1UDJSR2hQNUQwT29IR3hHQjZsMmlWd293WEw5Nkw4cUZuX1I0NUVPYXp2ZVVMYWhMQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-18T12:30:01+00:00"
-    },
-    {
-      "t": "미, 반도체·AI까지 ‘중국 편 서지 마’…양자택일 압박 노골화",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsWlVMejV2NlpNQzYzZlRfY2YzQ0FxMkpMQUt4MEVodWp3WDFpNFZIT3RnbXBXaG5kNktBM3FqdXNRTzZ4clNGUlphWUxCcGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-18T12:21:28+00:00"
     }
   ],
   "asof": {},
