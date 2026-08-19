@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T12:00:15+00:00",
-  "quotesAt": "2026-08-19T12:00:15+00:00",
-  "newsAt": "2026-08-19T12:00:15+00:00",
+  "fetchedAt": "2026-08-19T12:15:15+00:00",
+  "quotesAt": "2026-08-19T12:15:15+00:00",
+  "newsAt": "2026-08-19T12:15:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.78,
-    "krw": 1392.18,
-    "gold": 4421.8,
-    "wti": 84.71,
-    "dxy": 99.41
+    "vix": 15.72,
+    "krw": 1391.36,
+    "gold": 4419,
+    "wti": 84.66,
+    "dxy": 99.42
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.59,
+    "krw": -1.65,
     "dxy": -0.24,
-    "gold": 1.28,
-    "wti": -0.27,
-    "vix": -0.38
+    "gold": 1.21,
+    "wti": -0.33,
+    "vix": -0.76
   },
   "news": [
+    {
+      "t": "환율 1,300원대로…美 금리 동결 전망 등 영향",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVGhHYlZycTlSNWtMckdaMGVSRDE0QVg4TDZvNjhBUDM4T1hGaTJmMzY1OTF4MzNkOTV6SThMZUxRRFVCaEJMYldIRUpkSTVyN1ctdDNiUTdodjVJRzg0RGFCZEM4TzA?oc=5",
+      "s": "yonhapnewstv.co.kr",
+      "d": "2026-08-19T12:07:00+00:00"
+    },
     {
       "t": "트럼프, 캐나다 50% 관세 폭탄 \"3일 연기\"…자동차 관세가 현안",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmJvQkRyT21XYklHVEY3SHYxT3VJM090M1dmb1ZSQURyOTBBZm9JTE1kelhRaTM3bzZOaDR4SnBSRENFTUMxZkJuSkxlY19XRUxFcmlzT0ZSQQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QUy1CdUpGVlNIQTRoWFFCa2RSMDl3aFM3eHJYZGVLQ1pjbzVMNFM0Y2xLQ01aSGczbUdEaDE2ZjQ5MF82d09LZVFmTnltQmQwOGxEeUNmdE5IYlloQ2c?oc=5",
       "s": "YTN",
       "d": "2026-08-19T10:35:00+00:00"
-    },
-    {
-      "t": "“용인 반도체 산단 백지화”…전국 돌고 청와대로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QMlEzanFtSE8tS1JVSVNuYlNhQzVlWDg0LTRDdHVMR3JFZXBUMTh1LUhGLTRXR0h6RHpRWFNLdUp0VnVLYVZkT3BWazZ4eUFjRW1YUkI1SG9VY0k?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T10:33:00+00:00"
     }
   ],
   "asof": {},
