@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T15:00:15+00:00",
-  "quotesAt": "2026-08-19T15:00:15+00:00",
-  "newsAt": "2026-08-19T15:00:15+00:00",
+  "fetchedAt": "2026-08-19T15:15:15+00:00",
+  "quotesAt": "2026-08-19T15:15:15+00:00",
+  "newsAt": "2026-08-19T15:15:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7741.24,
+    "spx": 7737.38,
     "nikkei": 65326.42,
-    "vix": 15.21,
-    "krw": 1386.78,
-    "gold": 4537.9,
-    "wti": 84.96,
-    "dxy": 98.88
+    "vix": 15.13,
+    "krw": 1388.58,
+    "gold": 4543.6,
+    "wti": 85.1,
+    "dxy": 98.92
   },
   "daily": {
-    "spx": -0.05,
+    "spx": -0.1,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.98,
-    "dxy": -0.77,
-    "gold": 3.94,
-    "wti": 0.02,
-    "vix": -3.98
+    "krw": -1.85,
+    "dxy": -0.74,
+    "gold": 4.07,
+    "wti": 0.19,
+    "vix": -4.48
   },
   "news": [
+    {
+      "t": "美 국채 바이백 확대에 뉴욕증시 상승 출발 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0NGTnZSUHFQOGZKTnpfaV9SNU9uN2o3NmJDQUdhanRiZnBzei0ycnJoVlp1bmFESnhsajFPOGNPZWpuSUZ3SnlxdGsteFhIc2tiZ2ZDa1ZfR2VUOU1WdlNUeF9MWFZESWpycUcxbXdPQnhWRFNPZmIwY2F1WERFN0M0Rm5vUEJTem8zRDM5eGtKZDRzdGtJcWVuMUZHQdIBsgFBVV95cUxNQ0QycGdzd05fWGZBVGFjMzVVUHJVQkgwY1VVQ2EzZGQtQ0RBN19tTEFlbUw4Ui1yV3V4SHgzdzY3cGdCRWd4RHhBRHNBVThPdGczZEFCNGJpWUZEOHJpbDlTR0oxZlhvYjFfZmFfUy12M08tTG9ONXBWXzVTbXZJZEFvaWE4ZmItOERrSzBNcHhxbVYzWnFMUHVoRk9CYVBlRHRPcWZoT0V3QjBETmJlSWR3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-19T15:03:28+00:00"
+    },
     {
       "t": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0d1ptQnB6VDdIa3hhelN3TXpQNEZkVy1vUFI4SjZtSF8wLTdmcG1mR2djTHRWNFpUSnNZTmp1eGw5Q3BZUjFsUVVYd0szT2pqMXliUUhCYnphTW0weGFRQWkydm5weHQ2ZFRISTNVSW5fZw?oc=5",
@@ -65,12 +71,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-19T12:45:49+00:00"
-    },
-    {
-      "t": "뱅크오브아메리카, 반도체·중남미 기술 뱅커 2명 추가 영입",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1saEhQVHJNTGFKY3VTWGV0YkNHZGZXbzIxcFNCOGlSV0hoZmVoY0tWeXJ6NDJpOTNZTzlxSGVESU1zM1l5WERhLU90MHYwMnkwODU4VHM0d0xndWFTRGpFa1pfaEhIVUJNbnU4N19uclBqTzdWaDBn?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-19T12:30:00+00:00"
     },
     {
       "t": "SK하이닉스 ADR 하루만에 급반등…美 금리 진정 속 40조 자사주 매입",
