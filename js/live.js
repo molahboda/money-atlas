@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T14:30:15+00:00",
-  "quotesAt": "2026-08-19T14:30:15+00:00",
-  "newsAt": "2026-08-19T14:30:15+00:00",
+  "fetchedAt": "2026-08-19T14:45:15+00:00",
+  "quotesAt": "2026-08-19T14:45:15+00:00",
+  "newsAt": "2026-08-19T14:45:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7719.06,
+    "spx": 7729.82,
     "nikkei": 65326.42,
-    "vix": 15.4,
-    "krw": 1386.6,
-    "gold": 4531.9,
-    "wti": 84.67,
-    "dxy": 98.87
+    "vix": 15.26,
+    "krw": 1384.97,
+    "gold": 4546.5,
+    "wti": 84.82,
+    "dxy": 98.82
   },
   "daily": {
-    "spx": -0.34,
+    "spx": -0.2,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.99,
-    "dxy": -0.78,
-    "gold": 3.8,
-    "wti": -0.32,
-    "vix": -2.78
+    "krw": -2.1,
+    "dxy": -0.83,
+    "gold": 4.13,
+    "wti": -0.14,
+    "vix": -3.66
   },
   "news": [
     {
@@ -37,10 +37,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T14:13:29+00:00"
     },
     {
-      "t": "美 재무부 '장기채 바이백 2배' 확대...'금리 급락·주가 선물 일제 상승'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jd09kSXhfNzJTcV8yczNSd1d2UEdWVS1abXZvUWR0UVo2cGVkZ2FRX3JGMlVlWThXaldodFhaOEcxY1ZFbGNnRWplQ0hmWHRKaFpfUEc1QjRJbnRS?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-19T13:27:00+00:00"
+      "t": "美재무부 국채 금리 방어에 뉴욕 증시 반등 시도",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sM2ZiRUJTd2pfcUxldXRRNWVXTDhramlsMGFwZy1uZkl5Z1ZCdkNUckhMUG5qT2NEeFJaUURpdXY5WUdZSFZyODNFdWpVMXJsc1VTRXlkNGRCUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-19T14:11:16+00:00"
     },
     {
       "t": "[경제]코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-19T12:45:49+00:00"
     },
     {
+      "t": "반도체·군 공항...김민석 '호남 약속' 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnpsai14cGJvVnRKWllWb2l2UXQwb0NYdmhSOVpqRW5JbnljWWJOem1YanZfWkdid1VYY1dlckk1a0ZhOFhFbzRIZy1XVHVQTm5rWHVORnF4RmxWYUJwRA?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-08-19T12:36:25+00:00"
+    },
+    {
       "t": "뱅크오브아메리카, 반도체·중남미 기술 뱅커 2명 추가 영입",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1saEhQVHJNTGFKY3VTWGV0YkNHZGZXbzIxcFNCOGlSV0hoZmVoY0tWeXJ6NDJpOTNZTzlxSGVESU1zM1l5WERhLU90MHYwMnkwODU4VHM0d0xndWFTRGpFa1pfaEhIVUJNbnU4N19uclBqTzdWaDBn?oc=5",
       "s": "Investing.com 한국어",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83a3FvRE4yQk5SZTk3aHBrMEFseVBtXy1TRXN4NHkzX0JaXzZFQldZaUFfQXZidDJVVU1aOWdEeXk4UUtBcE94WUtGeTBwc1pzNGM5ZzRBTjBuQnA5UGhERjRxRGV0SHl6dzdEQXhFNnU?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-19T12:28:23+00:00"
-    },
-    {
-      "t": "원·달러 환율 10개월여 만에 1,300원대로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNzFOQ3hWTDhnN2NhSTMtWFFHVDZkemNuNmJVTjZpcFFIbGpka3JzS3NISWJBRGFyOWhiTG91bC1GOXZOaFp6R0xzLVNrUkJjNXd6UV9hMnpiazA?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T12:27:00+00:00"
     }
   ],
   "asof": {},
