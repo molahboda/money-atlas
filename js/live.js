@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T05:45:15+00:00",
-  "quotesAt": "2026-08-19T05:45:15+00:00",
-  "newsAt": "2026-08-19T05:45:15+00:00",
+  "fetchedAt": "2026-08-19T06:00:15+00:00",
+  "quotesAt": "2026-08-19T06:00:15+00:00",
+  "newsAt": "2026-08-19T06:00:15+00:00",
   "quotes": {
-    "kospi": 6495.24,
+    "kospi": 6495.28,
     "spx": 7691.76,
-    "nikkei": 65436.9,
+    "nikkei": 65277.53,
     "vix": 15.84,
-    "krw": 1398.18,
-    "gold": 4390.9,
-    "wti": 84.65,
-    "dxy": 99.54
+    "krw": 1398.08,
+    "gold": 4389.1,
+    "wti": 84.7,
+    "dxy": 99.53
   },
   "daily": {
     "spx": -1.21,
     "kospi": -6.92,
-    "nikkei": -3,
-    "krw": -1.17,
-    "dxy": -0.11,
-    "gold": 0.57,
-    "wti": -0.34,
+    "nikkei": -3.24,
+    "krw": -1.18,
+    "dxy": -0.12,
+    "gold": 0.53,
+    "wti": -0.28,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "인하대 반도체·바이오 교육동 준공…“첨단산업 인재 양성”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xcmRuVGRrdDNVNzNSQ0lBN3hwTV9Lc2lRUjlCWUkwSmlCMFV3MXFYOGhYallXeFNnZThyNnBTNlozQjJwR1ZtNG4zUE9Fb1l3RU5Vb0FkVEZxRXM?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T05:53:00+00:00"
+    },
+    {
+      "t": "美 ‘메모리 투자’ 압박설에 한미훈련 축소까지…관세 25% 재점화 땐 금융시장도 ‘동맹 리스크’",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wUk4zNGZVUzFYWkxYMzQ5ZDd2bU5VQjVYSFMtcFdQOWVCWGoxQzZvYWxDaHgxNEE0RF9Mbll1RVpqakZ3SWRrQThiMnZTXzFsTXFMNFJwTnhGVVVjdmxVTXNsdnBhY3BZ?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-08-19T05:45:58+00:00"
+    },
+    {
+      "t": "KDI “반도체, 양날의 검” 올해 3.2% 성장에도…“하향 가능성 남아”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95T0RFcy1qX3N3UUxKcGZjSDYyUUJiOTNuUlJxX0J1c09xcldCaVVZbTR4TzFnb3RwNUJCY1Z4RnNHdERHcVM0Rkg3N2Q0UV9XSmZleHVhMkQ3UE0?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-19T05:41:48+00:00"
+    },
     {
       "t": "[포토] 코스피 언제 오르나",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ORHRZdlNCTDZTbHRGenJrQklkOXdVeEs3V3I2dzBONjBPaldZZ2dpSlJkeEZkT09ob0xHOC13dERZVkptQnVERlpPMUVWSEUwQ0huY242TGdzMnU4dnBUaw?oc=5",
@@ -43,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-19T05:40:06+00:00"
     },
     {
+      "t": "미국은 '동결' 전망 우세…금리 못올리는 9월 FOMC",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NUUE2Mi1TR3hkdGU4djFHakhKWDczeEFFNmNMalpTakZPaTl5Z3l0SHNUeDVxSE9SbHZON3JsMC12OEZuNmtIelNkSW5SNGdnZFVWX0hhY1BoVVpha1FheUxsWFc?oc=5",
+      "s": "m-i.kr",
+      "d": "2026-08-19T05:38:37+00:00"
+    },
+    {
       "t": "[포토] 끝없이 하락하는 코스피",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wd3Npd2lYaVFXTWpsN2tkTS10c3J6X2pDZ2VraU4yblJHME1va1RaaVRxUE10R0NyRmhDTUhvM3VIWDFaTVJWRjhwTmdEMXdaVnYxSDlZUDFERndCRVNTRg?oc=5",
       "s": "아시아경제",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UQnlubUVWMWFfSFhtb0pEbHVGYTFrem5rRlBtMG9LZlladE9YLVJadU83OEJ5RTJjMzhHc181U25uTjhtVWhKZmdmNXIwOHdSSkdLay0tdEN4V1ZGVjFfOFJqVHZQb0RDclBwTjNqc21vSFVfUm5DaGVMZlZWZw?oc=5",
       "s": "보안뉴스",
       "d": "2026-08-19T05:36:00+00:00"
-    },
-    {
-      "t": "美 국채금리 19년 만에 최고..코스피 5%대 하락",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92bWdtV2s4d0Q0eFZ4M1M4Y2dkb0hydEkxc1FJRzZoY1MwVmlRLUd6d09HMmpHSDBTek5IMXBCaDlWeEU4ZlZ2WG94Unc3ZFVHcnc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-19T05:34:54+00:00"
-    },
-    {
-      "t": "트럼프 \"캐나다 50% 관세 시행 사흘간 유예\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mY2tCUzdJZ0kzZFZ0cXJwVWZBOWNTd3RxWWRlLUh0aVUxZ2VJbjYwR2lZdFQzY1QxbnZUbncxZF8tZkxpUGwzUDhNZzhDeUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T05:33:27+00:00"
-    },
-    {
-      "t": "\"세아제강, 美 관세에도 하반기 실적 기대\"",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UU2xqaEV5MVhrWUQ5T0xfREtqMGVzOUlCdjdibVFrY3o2UURDNTR3UFBuUHVHdUpTOUs0VFdCdThyVkpVMGhnS3RTMEVxOEtOT3VRMzVmVlFpV2lRVWpGNnF1ZVFyWi02Tnc?oc=5",
-      "s": "철강금속신문",
-      "d": "2026-08-19T05:32:32+00:00"
-    },
-    {
-      "t": "트럼프, 캐나다 50% 관세 돌연 중단…송유관 사업 부활 가능성↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aT2xSOHppYllYNUtOV25EbnZUNGVVRTh6c0M3MlFMWHBGSWxFQmRvNHlTazBudExYN2wyWW1rTlFPWG5mQVNwYk5ZYnFzVVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T05:27:00+00:00"
     }
   ],
   "asof": {},
