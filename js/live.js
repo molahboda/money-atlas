@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T13:45:15+00:00",
-  "quotesAt": "2026-08-19T13:45:15+00:00",
-  "newsAt": "2026-08-19T13:45:15+00:00",
+  "fetchedAt": "2026-08-19T14:00:15+00:00",
+  "quotesAt": "2026-08-19T14:00:15+00:00",
+  "newsAt": "2026-08-19T14:00:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7723.12,
+    "spx": 7720.96,
     "nikkei": 65326.42,
-    "vix": 15.16,
-    "krw": 1386.98,
-    "gold": 4518,
-    "wti": 84.38,
-    "dxy": 98.97
+    "vix": 15.32,
+    "krw": 1387.28,
+    "gold": 4508.6,
+    "wti": 84.58,
+    "dxy": 98.98
   },
   "daily": {
-    "spx": -0.28,
+    "spx": -0.31,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.96,
+    "krw": -1.94,
     "dxy": -0.68,
-    "gold": 3.48,
-    "wti": -0.66,
-    "vix": -4.29
+    "gold": 3.27,
+    "wti": -0.42,
+    "vix": -3.28
   },
   "news": [
     {
@@ -37,9 +37,15 @@ window.LIVE_DATA = {
       "d": "2026-08-19T12:52:00+00:00"
     },
     {
+      "t": "코스피 -5.8% 폭락한 날, 오늘 밤 미국 선물은 다른 말을 하고 있습니다",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkV4MXBKOFRJR1dzQml1SlNUbWVIVlNNWFozeTg3cnI4Z3B2Tkg4Y3ZWQVFpVVJPempwMHVTTmVOQWU5WXl2OWlYZE1aaHZNVlR5WWdLN2VNZml2UTNPRUNmTlN5ZUdQMzRzekpZZHVoQ29wZ0hvaENHX2k5ckxIMXNFUjNUX3c?oc=5",
+      "s": "contents.premium.naver.com",
+      "d": "2026-08-19T12:52:00+00:00"
+    },
+    {
       "t": "美 국채 금리 4.7% 돌파… 글로벌 주식 황금기 끝났다",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
-      "s": "g-enews.com",
+      "s": "글로벌이코노믹",
       "d": "2026-08-19T12:45:49+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IWGJiM19qaGlpTzZjNGY4a25qS1RUTERfWHZWbF96aS1TeHFiS2FUQkZKNkc0MzYzVzE3Y1ZGRENwaGxRYldhQm1LRm1fU25yOUc4aTZFNTUxSEFqVlUxaUxkNlM3UWV3NHBPb0pTd3YtUQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-19T12:13:28+00:00"
-    },
-    {
-      "t": "환율 1,300원대로…美 금리 동결 전망 등 영향",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WDhIM092WC1pVjV2SC0yX0U4eTV0SHBZanI2MkNsRW9YYklkeS1NQ1A1Vmp0bTZRTVhBT3pncWViakpSZUZKclF0NWU2QWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T12:08:43+00:00"
     }
   ],
   "asof": {},
