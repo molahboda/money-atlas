@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T04:30:15+00:00",
-  "quotesAt": "2026-08-19T04:30:15+00:00",
-  "newsAt": "2026-08-19T04:30:15+00:00",
+  "fetchedAt": "2026-08-19T04:45:15+00:00",
+  "quotesAt": "2026-08-19T04:45:15+00:00",
+  "newsAt": "2026-08-19T04:45:15+00:00",
   "quotes": {
-    "kospi": 6476.95,
+    "kospi": 6496.84,
     "spx": 7691.76,
-    "nikkei": 65514.82,
+    "nikkei": 65534.76,
     "vix": 15.84,
-    "krw": 1400.58,
-    "gold": 4404.9,
-    "wti": 84.76,
-    "dxy": 99.57
+    "krw": 1400.08,
+    "gold": 4403.2,
+    "wti": 84.68,
+    "dxy": 99.56
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -7.18,
-    "nikkei": -2.88,
-    "krw": -1,
-    "dxy": -0.08,
-    "gold": 0.89,
-    "wti": -0.21,
+    "kospi": -6.89,
+    "nikkei": -2.85,
+    "krw": -1.04,
+    "dxy": -0.09,
+    "gold": 0.85,
+    "wti": -0.31,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "호주중앙은행, 인플레 위험 현실화 시 금리 재인상 시사",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03dUlmYUIxcVQzeTdLVFV0T3JIN1ZqVFNqeUlKN0RYSWNydVg5LUNZOEJVVFB0NS1TYUFOX1I4UWdCUGRlQ3pkLVEyajR6R3hITmFEVDJBX2N1a3JEQkoyLW5UNmh5NVRkMFJTNzlhVEVaVmd5ZlFn?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-19T04:36:00+00:00"
+    },
+    {
+      "t": "\"국채금리 상승에 美 모기지·車 대출 금리도 들썩\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVU9tbERHZlJSTjVTM3NiT3FDRFhUUHNJY2pqemE5NndoYUx1a3ZtZ0E1ZHR6WXhIRlU4TzVTTDdzTExxX1A0NUJQdV90VE5nMENfa2JMTm5ZZXpNeWdZTmpfdWk4bDZDT0tLcm5lQ0l0QQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T04:29:38+00:00"
+    },
+    {
+      "t": "[경제읽기] 원‧달러 환율 1,300원 대로 하락…코스피 급락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aM0hEUnJWeVRzaUZMNjdhSTkwb3ZXVlZoTy1lMDN0MElaYWc5dnF2dUMtUGZVOXdJU3FOdXFuVXRaZUp6ekZyOGxkWkRuYmRCT0JOeVJSb2NuNzVfOEFFbjdQSnlPU28?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-19T04:19:00+00:00"
+    },
     {
       "t": "원/달러 환율 10개월 반 만에 1300원 대로 하락",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmRHemhuRlJVWnZnTnhPMEJvR3Rhc2g1RHpTSHk4cm8xbnF6M2QyRVZ6MElzeUVVQW1wLVZjQ002SU5iNWdfYVJEVnNuaDYycVdfZ0JjSzBubW5INVJNeFl1bVV1U05KYmxrWjhfQjhwZ2lpZEF1bmNmUjRCYk4wQlFrdjVkOE1oa0hKNHl3?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZanR0emdubkVqYldVSUVjN1d5VTdhVk54elo0cDRTUC12QUNTSHJabGdqamdYUjFXMHA2eEdSTTQwS1ZBWlhaWm9ZNUkxUmNPYWVvQTdTcTl4VTRRYXdNS095SmZNd0xyUDNvdUVreUF3NTJkX3JZ?oc=5",
       "s": "한국경제TV",
       "d": "2026-08-19T03:47:00+00:00"
-    },
-    {
-      "t": "ING, 글로벌 장기채 수익률 상승 주범은 '美실질금리'…분할매수 추천",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kM0ZRbVZWQ1ZMTjBLeDJpbGZ5d2pncWRLaVVxc2FyM193ZlNOSVNfVWhtTENvcjRsMno1bl91QlpKWkM2YWtQUUlMX2xScDBJeS01UDY2R0Q5bUFUYmxpUTZ5djRqbjd2bVFSZXZHVmg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T03:44:15+00:00"
-    },
-    {
-      "t": "[속보] 원/달러 환율 1400원 붕괴…10개월 반 만에 1300원대 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUnBVSkhhWlowNnpJaTFITF9USS1Iczk3Q2VaLUdNSkdVMXZFRjJHWl9ycm56VTlDSm1OZ3A0Tk5JdTJVRmdVcG9LTUV5MnVrS18tSnhxQUVCTUJZZXlhWTM3ZWdLRTJEWVIw0gFwQVVfeXFMUFdWRFE2V3FGMlB5VXhUZU9yME5pUVNOeFg0Tmdnd1pVZDVmbENwRjhpR1ZpMnM0S1c4Y2RWWFNyeDE2cUxnc21ZNDFEd0MtT1k2WENlU0RYM1k5X3VqMEpLZDFSU2hBLU9mWnNuUkNXbQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-19T03:42:12+00:00"
-    },
-    {
-      "t": "국제유가, 중동 불안에 사흘 연속 상승…WTI 0.5%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nZHRuZFg4dFJEb2FMVE9TSFlIdFpmVGd6REN4M0FlbXRqXzNybXpkV0l0RktQMllSQTRPUTl1YjJVU1BjQ3ZKcFR6cHhxVGlJbzctdElSWDllOHFCOTd3aHF2SEJWM1E?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-19T03:41:00+00:00"
     }
   ],
   "asof": {},
