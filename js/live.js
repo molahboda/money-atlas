@@ -1,40 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T03:30:15+00:00",
-  "quotesAt": "2026-08-19T03:30:15+00:00",
-  "newsAt": "2026-08-19T03:30:15+00:00",
+  "fetchedAt": "2026-08-19T03:45:15+00:00",
+  "quotesAt": "2026-08-19T03:45:15+00:00",
+  "newsAt": "2026-08-19T03:45:15+00:00",
   "quotes": {
-    "kospi": 6491.89,
+    "kospi": 6491.92,
     "spx": 7691.76,
-    "nikkei": 65724.25,
+    "nikkei": 65768.46,
     "vix": 15.84,
-    "krw": 1400.06,
-    "gold": 4405.4,
-    "wti": 84.78,
-    "dxy": 99.57
+    "krw": 1399.41,
+    "gold": 4410.7,
+    "wti": 84.72,
+    "dxy": 99.58
   },
   "daily": {
     "spx": -1.21,
     "kospi": -6.97,
-    "nikkei": -2.57,
-    "krw": -1.04,
-    "dxy": -0.08,
-    "gold": -0.28,
-    "wti": 0.33,
+    "nikkei": -2.51,
+    "krw": -1.08,
+    "dxy": -0.06,
+    "gold": -0.16,
+    "wti": 0.26,
     "vix": 4.28
   },
   "news": [
     {
-      "t": "[뉴스프레소] 글로벌 국채금리 급등 '비상'… 나스닥, 반도체 주도 1.3% 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RYnNhU3FFYlpSU0Q5Si1zUVVySFFkZU9zd1FJakVWel9WQ1Jpb2ZkS2ZsSnJkemtKRTg5QXY3X082V1BsTFV6N29QZ3ktZ1E?oc=5",
+      "t": "국제유가, 중동 불안에 사흘 연속 상승…WTI 0.5%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nZHRuZFg4dFJEb2FMVE9TSFlIdFpmVGd6REN4M0FlbXRqXzNybXpkV0l0RktQMllSQTRPUTl1YjJVU1BjQ3ZKcFR6cHhxVGlJbzctdElSWDllOHFCOTd3aHF2SEJWM1E?oc=5",
+      "s": "yonhapnewstv.co.kr",
+      "d": "2026-08-19T03:41:00+00:00"
+    },
+    {
+      "t": "금리 발작에 발목 잡힌 코스피…\"안정화 후 안도 랠리 이어질 것\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IV0VkYzYydUpfaDBLQTlMV1BiRm5ETW9tbEluTl9ZYVRwOGJoX2ZXZDF1ZFpacWhNS2FKUDVGVzR3dmd0LXVaYmFwOGg1MG8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T03:15:41+00:00"
+      "d": "2026-08-19T03:37:11+00:00"
+    },
+    {
+      "t": "반도체 날자 코스피 상장사 순익 4배…삼성전자, SK하이닉스가 65% 차지",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzSmpZQWFnTG5yQ2FjNUF6WGVJODRFTFlOZnBmSXJHcFM4V2NmdTJ6Vy0xWFVNamU5SDRmcjBQVHpZdDdLSEZsSzJCTm9XQzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T03:33:07+00:00"
+    },
+    {
+      "t": "원·달러 환율, 10개월 반 만에 1300원 대로 하락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5URGlFRW0tekVoSkd5dE1LTWw0Vk9LdnRnQnhzd0FmNlRPLWlwUHdvQzlISG5KcjAyclphXzJUZlFJQ3NuanBFR3N3eVpSRzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T03:27:00+00:00"
+    },
+    {
+      "t": "[속보]원·달러 환율, 10개월 반 만에 1300원 대로 하락",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVGFuanN0R21xUmFza0duZWFDdnJ5TkhpWkFOYUZoNGhWQzR6NEYwc0d2UzJOUThBRGhxZ1lPQUJ0aXk2ckNMLUpYMThMM3cwdzl2YVNrN0FXaFMtNWprR3U1MUVtMDhRSFJpQg?oc=5",
+      "s": "한경매거진&북",
+      "d": "2026-08-19T03:25:00+00:00"
+    },
+    {
+      "t": "KDI 올해 성장률 3.2%로 0.7%p 상향‥AI 반도체 호황 지속",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxbkZVZ2JzMHNSZEl1eUgtY0RoTDhVRVEySVRQeW54VzQ1M082NS1GbFB1LW9waktjSS1MSmZEMzJDU1NGXzNwZXNhWXpnQUk2THRjMF9kTjU5aEE?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T03:20:00+00:00"
     },
     {
       "t": "반도체에 엇갈린 지역경제…충북 광공업 생산 28%↑",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwdmhyV3NXbUxyWG1iTTFFUVNsMlFNQVAzalRRdU1ORjhWcnIxZXZDbTFfTlczajltMkNoTzBKVVFRRWF4Z3pGNFpNbFpHSU0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T03:15:14+00:00"
+    },
+    {
+      "t": "[속보] 원/달러 환율 10개월 반 만에 1천300원 대로 하락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BWFVUR0tqSGdhYXhROGItbUNPS0xCTFZxaHAzRHR5RldVZEE3S0FaazR1Y0lsbEhxY1Z6dmlCUkxjSXh2SjNaWWZJaFVQZHc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T03:11:01+00:00"
     },
     {
       "t": "코스피 와르르… 장중 ‘25만전자·154만닉스’ 깨져",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HMW1oRGxualhyMlhkQW8wQUt2UXlFaGItNEhZYnVwRkFSUjljX1RRMGRSdEtOZnY4emRVMUZ3OUlaQjE5bjJDV2RXVWlXMGMz?oc=5",
       "s": "문화일보",
       "d": "2026-08-19T03:10:20+00:00"
-    },
-    {
-      "t": "“AI·반도체 앞세워 노동권 후퇴”…기후단체, ‘메가특구 특별법’ 비판",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kUHctOXFZaUhTZzlmT0NCdm5DbXMxSlRLMlN0WmpvZ0hQV1NGMmVueFJrTjRUaDNob3dVMFVxd2toUkJJMlJOZWpHRTFCLWNGVjJsMXJEQlZkUl9pX2c?oc=5",
-      "s": "기후에너지데이터뱅크",
-      "d": "2026-08-19T03:10:03+00:00"
-    },
-    {
-      "t": "[오늘 이 종목] “국제유가·금리 급등부터 한화에어로·로보티즈·베뉴지까지… 변동성 장세 속 방산·로봇·저평가주 주목”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aWlNZY3U0cjZWVnc2aGwzVDJNcE5pU2l2eUF2aWpZb3pwYjQzM29oNGdZTkhoMEthcFZBdlpUaC1iMTRGSXZhME9MYjlROVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T03:10:00+00:00"
-    },
-    {
-      "t": "美장기금리 19년래 최고인데…9월 금리인상 확률 '30%'로 뚝",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zbXpWRFFyS25SVW8xc0xqMS1sZGp6M2dYM3lsX0YzcS12UHBzOFhXWTkyQnltMjhuaHpiOW1pd2JhaWtLbzMyUmZDRlZyQkk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T03:09:52+00:00"
-    },
-    {
-      "t": "모건스탠리 \"엔화 향방, 연준 손에 달렸다…개입 효과도 한계\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NUUxpdVpXVExSTmM3TFRFbi1yR081LXlrMEdacDJfM2RLd3NrbV9CdHpGcmVYVjFaYjVMWWNhWW40Z0hucG5JS3FyZVpSOURMc2t3eVQ3cnAydXJtcXRmc09ldWNRZHBkQkdlS2VSbWI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T03:08:54+00:00"
-    },
-    {
-      "t": "야데니 \"현재 국채금리 상승이 증시 저해할까 우려할 시점 아냐\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UeG5YV0Y5MVpyQ0M5dVVJUjd5MjN6ZVRrcVFPZDdodlljYWJMclpDVC03ZXBzLXZIckQ2TXlEVklPVEpSZDdXQ0hESDFkQzFuODJHSW0xUDJvSzViREhBcXdqc0FXRUZENGlIREZmQ1Y?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T03:08:47+00:00"
-    },
-    {
-      "t": "글로벌 국채 급등 ‘쇼크’… 코스피 사이드카 ‘패닉’",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xYUVXUEVXNU13Y0RmVy0ybGNPLXFDMi1TS0VIRzlYRGVaVG9iMEI3bDVBbWloa1dGNnVpaGZ5LVBld2ZxQWZlM0lxYUlOZDhY?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-19T03:08:30+00:00"
     }
   ],
   "asof": {},
