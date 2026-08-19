@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T10:00:15+00:00",
-  "quotesAt": "2026-08-19T10:00:15+00:00",
-  "newsAt": "2026-08-19T10:00:15+00:00",
+  "fetchedAt": "2026-08-19T10:15:15+00:00",
+  "quotesAt": "2026-08-19T10:15:15+00:00",
+  "newsAt": "2026-08-19T10:15:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
     "vix": 15.86,
-    "krw": 1390.29,
-    "gold": 4415.2,
-    "wti": 84.77,
-    "dxy": 99.39
+    "krw": 1389.38,
+    "gold": 4414.2,
+    "wti": 84.99,
+    "dxy": 99.4
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.73,
-    "dxy": -0.26,
-    "gold": 1.13,
-    "wti": -0.2,
+    "krw": -1.79,
+    "dxy": -0.25,
+    "gold": 1.1,
+    "wti": 0.06,
     "vix": 0.13
   },
   "news": [
+    {
+      "t": "반도체 힘입어 코스피 상장사 매출 2000조 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sWmVTV1NOUUFHeF9zTXZpV2dwTGN0ZnlxNlQ0eVNBZjFKSjh6Z1ZQT2M2ZFNHdDBVQ3ZKMnM1TXY0WGF1SGdYeVNIOERvdG8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T10:10:40+00:00"
+    },
+    {
+      "t": "[사설]가계부채 2000조에 국채 금리 급등, 불확실성 대비해야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVktsVUREcW9CMHhub0h5U1lqSkJvMHM5VEpfSXd6clhINFNQbHFOU0NKOUota1JKVFFmUWxiZjRvRTg0STVsYTdXZkhfMVBFdFRLanpKU0tqZ9IBX0FVX3lxTE1VaUV2dzNleFdzR1ptWU9Cd015Z1Y2R1dtSzh4UXFNMjRWYk9hY3dxTDNHY2MyMVVrUDlTZHNsU1o2eFhSejJGblBUbXp3d09vUkFnMXU4Q3F4RmkwSG9r?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-19T10:04:00+00:00"
+    },
     {
       "t": "환율 1397.7원…11개월 만에 최저",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95S1c1a1M1ekM3eVROdlhwUG5kVGdYQW13aGNjRHFEdFNSUFNhQi1IaUMxdGhac3JXTmFFSy1hX2xFSmN3emRreEd6VnpUMzBxYzc1THpMNFBUYzhqY0dCS2Ixa01VSG9fMnM1SA?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DT1Y5RmtCMzAwRTRFOURUSGtKT1dPSW1OSUh4MFdJNXpwZjhHbXdKQXQ5aHlPd3JFVG9mdUdDbHE0enJJRkpkNnY4aWczNG8?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T09:13:08+00:00"
-    },
-    {
-      "t": "코스피 5.8% 급락…원·달러 환율, 10개월여 만에 1,300원 대로",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SeG9vOTJfRGw4c1QtdXc0MnNzYWtFTGRfWVJWT29kUGFmclhUMklhS1lGNzNCY2lYNXZkc29GRFpXQ1YycEN6UWtJRzdkenM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T09:09:53+00:00"
-    },
-    {
-      "t": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQU9XOFR3S3ZoRVNHTzVsS19oSzJaRUZRNHNUNlFPUU9aVjFuUGdFQlpNOVZJdkJWeW9waW5MRTJ6WnZYOGwyZGppWU8wNkQzdVVveEQzaFFGTVFfUHc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-19T09:08:00+00:00"
     }
   ],
   "asof": {},
