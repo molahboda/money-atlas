@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T10:30:15+00:00",
-  "quotesAt": "2026-08-19T10:30:15+00:00",
-  "newsAt": "2026-08-19T10:30:15+00:00",
+  "fetchedAt": "2026-08-19T10:45:15+00:00",
+  "quotesAt": "2026-08-19T10:45:15+00:00",
+  "newsAt": "2026-08-19T10:45:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.86,
-    "krw": 1388.18,
-    "gold": 4422.3,
-    "wti": 85.02,
+    "vix": 15.87,
+    "krw": 1389.5,
+    "gold": 4421.9,
+    "wti": 85.17,
     "dxy": 99.36
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.88,
+    "krw": -1.78,
     "dxy": -0.29,
-    "gold": 1.29,
-    "wti": 0.09,
-    "vix": 0.13
+    "gold": 1.28,
+    "wti": 0.27,
+    "vix": 0.19
   },
   "news": [
+    {
+      "t": "글로벌 국채금리 급등…코스피 6400대 ‘폭삭’",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdCZnFCeHBlUmZBaWJmdWtnWkxwb09fLVN5RUdLbzV0UTMyMXBpYUVhZDg1SW1UV0xwenNmbktJd2Nfb2VRMWN4bUl2U1JqQ0lyRWFDemRKU3JmZFNiaFNTRVpvVmllcXV2QzJWNHZzUUtrWHJVNjUxLXVCVzhTSWJKbG9COG4tLW80?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-19T10:36:00+00:00"
+    },
+    {
+      "t": "“용인 반도체 산단 백지화”…전국 돌고 청와대로",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QMlEzanFtSE8tS1JVSVNuYlNhQzVlWDg0LTRDdHVMR3JFZXBUMTh1LUhGLTRXR0h6RHpRWFNLdUp0VnVLYVZkT3BWazZ4eUFjRW1YUkI1SG9VY0k?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T10:33:00+00:00"
+    },
     {
       "t": "[亞증시-종합] 글로벌 금리 상승에 대체로 부진",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JbnczLUJCY3c1ajRMWDY2U2ZRVTlwY3FJb0dXVG5jNDRoR1J3Y1llMW4tb016X3d4ZGtyRDlzRTFvcldpWWpZOXJJTmxuYVE3YWxiMXg4QV81OGlmSHE2Y09WZUE0SUJZbFpSNzV6a3Y?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWkVFQjJrZE9BZTh4NWJGNHd5c29mamZDMV84dUE5aXpPVWp3dHVxWVRNTzFPOUoyQmxYQVpTQW12a2w2c2E1UDdOUDhpMkVveUdOVzdMci1NX0k?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-19T09:37:00+00:00"
-    },
-    {
-      "t": "美금리 동결 우세·수출업체 달러 매도",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JOGZJNFVxZUlfRVVqQmNPTjJIZE41aF9BVndwSU9HUmJIREp0anA2ZWRmVEZybXpjTm1xTXNfUl9sMjk3U3FnRm8xZWZOOEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T09:31:11+00:00"
-    },
-    {
-      "t": "“호남에 반도체 팹 5기 추가”… 이러니 ‘부산 홀대론’ 나올 밖에",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLUFdMUTNFbVJEempDZ2pZNGF4R1BfRF94MEpzU3hNV1dGeTdmTDc4TnpjYlJwZ3NHR0dTOTVlYXFOMVR1VG02X3FTX0o5RnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T09:30:31+00:00"
     }
   ],
   "asof": {},
