@@ -1,29 +1,77 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T01:15:15+00:00",
-  "quotesAt": "2026-08-19T01:15:15+00:00",
-  "newsAt": "2026-08-19T01:15:15+00:00",
+  "fetchedAt": "2026-08-19T01:30:15+00:00",
+  "quotesAt": "2026-08-19T01:30:15+00:00",
+  "newsAt": "2026-08-19T01:30:15+00:00",
   "quotes": {
-    "kospi": 6518.39,
+    "kospi": 6578.36,
     "spx": 7691.76,
-    "nikkei": 65802.13,
+    "nikkei": 66057.56,
     "vix": 15.84,
     "krw": 1408.28,
-    "gold": 4387.7,
-    "wti": 84.83,
-    "dxy": 99.66
+    "gold": 4392.1,
+    "wti": 84.81,
+    "dxy": 99.67
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -6.59,
-    "nikkei": -2.46,
+    "kospi": -5.73,
+    "nikkei": -2.08,
     "krw": -0.46,
-    "dxy": 0.02,
-    "gold": -0.68,
-    "wti": 0.39,
+    "dxy": 0.03,
+    "gold": -0.58,
+    "wti": 0.37,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "KT, 국산 반도체와 AI모델로 데이터 주권과 AX 도입을 한 번에 해결",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFNXBiZGhWTllOTW5Gel96anJhYm5PNVZXZnBLZzJvU3YxV0pXdjBPOVNabnRRZnBDWjVwS3lXdk9PbkdwUG1TT2JKdDBxR25WYmowN1M1VDFpYlU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-19T01:22:59+00:00"
+    },
+    {
+      "t": "美 장기 국채금리 급등…AI투자 축소 우려에 삼전닉스 '흔들'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yTWtobmE5WFRyM2ppa0FJUnpLcWZhZkpBa2ZRMTVLODhUV01rVWdaQmMtcXltOGh0V05HZkdHd2w3Wk1EZE0tR2h0bjFnQkhabWJRWnZNbmk3Z01LNEt2cA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-19T01:14:49+00:00"
+    },
+    {
+      "t": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T01:12:28+00:00"
+    },
+    {
+      "t": "\"시장의 정점에서 금리가 먼저 올랐다\"…재조명되는 AI 거품론",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRM0NpMlpLOVQxX05FMlRsUklaYU5zQzNNOFBFbnNUSldlZlVwUXA4MHZ2aFU2RGV1ejV2SjlrWm9WeHNJRnIzdzU5TzdQdE92NWVQaS1reF9nYXBOVW85Z3pNX0dfQ1ktb2p2c2JhN0U?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T01:10:57+00:00"
+    },
+    {
+      "t": "美30년물 금리, 2007년 이후 최고…월가 \"증시 조정 경고등\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqcXR2MU9kS0R3dkRCZ19VOFR2UkZHb0VVbFVvWVhjZXVzbjNCT25qbkJjXy1YTUhmelJiblpqZVo3VW1GLXV6bTNmYmQ5M0xWUzNzU1VvaFZyNjhLVndXWE1CNUx3aWFGR0Y2aE5HbEg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T01:10:08+00:00"
+    },
+    {
+      "t": "미국채 금리 급등에 코스피 하락...매도 사이드카 발동 [fn오전시황]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51NE5kWXpKMmd6YXJtV21JYkF5NnMycHFSRnZIc0xVc0QyNURyb2tQVmVSRHR6TmtUdHNfUnJKMWIyb0FvZ2tSVURtX3Axa0k?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T01:09:29+00:00"
+    },
+    {
+      "t": "모건스탠리 \"엔화 향방, 연준 손에 달렸다…개입 효과도 한계\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Da2dSYU9mX182bTV5SVBLS1l5QjNDRWcyZXhsRS10TmpSdUpYd1JJLXVMSW05Z3FOTl9QSHUxNVZWQ0QwYmpYSmQzbml5a2l5UGotQ1JxR0pGSXpNenU1S2U4Z3VLOWFVaUJPbDhLUWN3Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T01:08:53+00:00"
+    },
+    {
+      "t": "야데니 \"현재 국채금리 상승이 증시 저해할까 우려할 시점 아냐\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HLUVrZDhHOTFHNzdIa1NjRk9lMXJFYkFfVThkOS1hQzJVNTVPdWxkNXh0bGhvck1rT1NsN0QwazRCWkxsT05idTM3bWhCVkNVSExmajl4TjZYLUZJVTlmR3JlZWhyQ29ncEQ0ZmJFRV9JZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T01:08:47+00:00"
+    },
     {
       "t": "한은 금리인상 한 달…단기물 안정, 30년물만 23bp 급등",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53dzhicHNNcEpoRzlna0pjY1pYZWtkcVNnNTUtMWJtb2otMzZJd0doaDRZTkEwSUdjOUtPTFBkbGs5cFhKOEljclgwQVBMVGJXeXExOTQtUC0tYm1QN0JGNmxaUzY?oc=5",
@@ -31,58 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T01:08:31+00:00"
     },
     {
-      "t": "코스피, 반도체주 약세에 6500선 붕괴...매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbzVURG5rU0lJbGZvWWd3RHNza1VMbHNLZVJmUkVlVmlHOUc4NWZIeG5Rd2VyVThrRDVXX2FTWG50YlBnMVdaV2J0ZXFNS0JZZi1tUkdnZG5sOVRqOE53THpFWk1CS0lr?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-08-19T01:06:40+00:00"
-    },
-    {
-      "t": "재정건전성·AI 채권 홍수…\"장기금리 정상화 진입\" 해석도",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44ZXBDQlNWdkRHS09veEtyUHdraGZBMjFBNXlySTRXS0NaQ2VzS1FjMGZPVzBDWU0tNjZ5Ynk2UXpFNXRQNTJHdnFaSUpjd1VvbmItcVNWdDRObUHSAWBBVV95cUxQc1ZXeHkzNU5qdHZKTzZOd05md0NBQUtndGxUVkJVZmFsWkpvUjJsNGRaZXNhaFFBcTkxWkd5UUgxVTdrbF83d3JJcndsUFlSOTdRem5OMkdWZUVuaktQR1I?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-19T01:01:28+00:00"
-    },
-    {
-      "t": "(기고) 반도체 강국보다 먼저 ‘전력 강국’을 준비해야 한다",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xUHNvSmJzdXh4NEtmdXpINEV2dDA5MHgzQ3dkeUhtTUl6eUJaZWF4bkN6Z25vcXVmckNrWEpSTW13NElFWWtpSXIydUxxNklpckI4akUwZnBseU5veXpURXVkRldBb0dPVFE?oc=5",
-      "s": "담양군민신문",
-      "d": "2026-08-19T01:00:46+00:00"
-    },
-    {
-      "t": "코스피 불장에 돈 쓸어 담았다더니…\"은행보다 증권사\" 취업 선호도 역전 눈앞",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnaTRVYkY5NHFBMWZGbnF6S2ZVY1dHVFJ6c1EyTDdHaHV1eDRDWUJLV09CcnVOQURLUF9fNml4MDFmUUV5UEFFdVpCZF9oMGVYV3p5ZFY4aGJCQVRTOXktQjlGWUVjNnhXem9VandtQm0?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-19T00:54:40+00:00"
-    },
-    {
-      "t": "또 멈춰선 코스피…올해 사이드카 48번, 금융위기 기록 2배 육박",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2N21ZNVY0ZWpndDNKY2F4M3RjaEQySzZQQmZkM1ZpSkw4VmdkTHFRS2VuWWxyYWtVMS1sb1RYZmJWOGlYZ2NGWF9QOXVXZDA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T00:54:06+00:00"
-    },
-    {
-      "t": "코스피 '검은 수요일' 6% 급락…25번째 매도 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83dUxlSHpFV1Axa21ib09JVHNScGsxM2poY19zMlZoUmJNU25TOFVITmVnTDAyU0QzY200NmlYZ0RnbEN1a3Y1T3BPSldaelk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T00:54:03+00:00"
-    },
-    {
-      "t": "'수도권 배제' 문턱 넘은 경기도…반도체클러스터 지정 '속도전'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nT3M2UXhHU0Q0Z3gySkxiem9nYi10dlE5ZzBHWndDTFpZcTV1aWktcW9ZT2hTVlBHYnJCdnVnUVVrcmdEelJwUGJqX2ZRVWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T00:50:07+00:00"
-    },
-    {
-      "t": "반도체 맹독성 폐수 친환경처리 기술 개발",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qd29TVDZGTnQwSUpxZFBkTWdPN3FmeHRUWWJMUG9jbWVsNmFaQzRncnIyU3N3Y0FvM25sYjVrZ0VERml4NWpXeVotSGtpb3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T00:49:09+00:00"
-    },
-    {
-      "t": "코스피 6,487.19 코스닥 829.69",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zSXBKVU5HNUloNzNvNmZtRTV4dllCVUdVczVCN0RBTVR0NUMwOXVPaVMtNE1OUEpKQXR2VHpSX3V4bW5sX2k4V2ZlTXpBMzA2b3VVaFByaUFUTlk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T00:45:00+00:00"
+      "t": "BNY멜론 \"연준, 유동성 적극적으로 관리…RMP 연내 재가동 전망\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VNnl1NklYLWhHVXo0ZXBGdGNpNnZiYm1vTVRkaV9KejZ6anRaQXBZdmVuSHpHWHdKS3hmaFN1Wlk2UHdIWFZmUTNPY3lMWjlpRERHWVVUUHNTSjVnUTZEMnpqQlVBck5jVWxnNDd6UGc2Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T01:08:12+00:00"
     }
   ],
   "asof": {},
