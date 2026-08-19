@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T11:15:15+00:00",
-  "quotesAt": "2026-08-19T11:15:15+00:00",
-  "newsAt": "2026-08-19T11:15:15+00:00",
+  "fetchedAt": "2026-08-19T11:30:15+00:00",
+  "quotesAt": "2026-08-19T11:30:15+00:00",
+  "newsAt": "2026-08-19T11:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.82,
-    "krw": 1391.1,
-    "gold": 4425.6,
-    "wti": 84.9,
-    "dxy": 99.4
+    "vix": 15.76,
+    "krw": 1390.97,
+    "gold": 4425.5,
+    "wti": 84.76,
+    "dxy": 99.41
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.67,
-    "dxy": -0.25,
-    "gold": 1.37,
-    "wti": -0.05,
-    "vix": -0.13
+    "krw": -1.68,
+    "dxy": -0.24,
+    "gold": 1.36,
+    "wti": -0.21,
+    "vix": -0.51
   },
   "news": [
     {
@@ -31,10 +31,22 @@ window.LIVE_DATA = {
       "d": "2026-08-19T11:09:00+00:00"
     },
     {
+      "t": "[베트남 증시] 글로벌 투심 약화에 하락...유동성 부진·외국인 매도도 지속",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54N0F3N3hWbkllZ1djVnNjTEVsSmt1RDZiOEY1MThCSUpUQWgxeDRiYUxRMV9yR1pqeWMxZWIwTXkzREgxZVRuZUZVSkk1R1JRNnI0YldCVWd2Qzlq?oc=5",
+      "s": "newspim.com",
+      "d": "2026-08-19T10:41:00+00:00"
+    },
+    {
       "t": "글로벌 국채금리 급등…코스피 6400대 ‘폭삭’",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdCZnFCeHBlUmZBaWJmdWtnWkxwb09fLVN5RUdLbzV0UTMyMXBpYUVhZDg1SW1UV0xwenNmbktJd2Nfb2VRMWN4bUl2U1JqQ0lyRWFDemRKU3JmZFNiaFNTRVpvVmllcXV2QzJWNHZzUUtrWHJVNjUxLXVCVzhTSWJKbG9COG4tLW80?oc=5",
       "s": "국제신문",
       "d": "2026-08-19T10:36:00+00:00"
+    },
+    {
+      "t": "SK하이닉스 '역대급' 40조 자사주 소각...이제 증시 반등할까 [몇층이세요]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VWnRpTTAwTW5Nd1ZBOFlHTVNhSVBITnRSU0RzaVk2bFVIQndaUWN6a2dpbFN4MTUxc0dIOEduNzdieHVQY1hRTHdOMmhLYndRdnFtNDlsbkEyMC1TRWRLVWR3UQ?oc=5",
+      "s": "YTN",
+      "d": "2026-08-19T10:35:00+00:00"
     },
     {
       "t": "“용인 반도체 산단 백지화”…전국 돌고 청와대로",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95S1c1a1M1ekM3eVROdlhwUG5kVGdYQW13aGNjRHFEdFNSUFNhQi1IaUMxdGhac3JXTmFFSy1hX2xFSmN3emRreEd6VnpUMzBxYzc1THpMNFBUYzhqY0dCS2Ixa01VSG9fMnM1SA?oc=5",
       "s": "mstoday.co.kr",
       "d": "2026-08-19T09:50:49+00:00"
-    },
-    {
-      "t": "IRS 금리 하락…外人 매수 속 중단기물 위주 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xbWpHYXFUOFBWaG1WNnVjZ3lRdEtQLUtXVFZ1RUFmU19kcndUQmcwcWozUHFWSUhTTTNLWWdkMFZXNWlUb2FqNWdTcFBHbHZ2akxaRXNnd0stWGtqMnhScTdWMFN2NVZuOFFfdEJuMlnSAXRBVV95cUxNMUFmN05PM1E0eXBPZjNjTnl1eDZWLWQ2anNCaDE3RUF3X0VwV3hWT0d6YzVENW1CWm91WmctZExpYzZRSk1aSjNLZEkxSGZqOVRNY0RINVJmbm5BdVRyaXBWZUVqbmk3SWk1SlByUFMyR2FjMg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T09:45:26+00:00"
-    },
-    {
-      "t": "환율 11개월 만에 1300원대… 코스피는 25번째 매도 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOUMwdVlxSHRmeGN3MDdZRjd1T2NqUlFVaThtcDBEZk1WaXNHY2VFemk0V0xUd2wyaG92bldka093Rlo4emM0NTVMVWpPcU0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T09:44:37+00:00"
     }
   ],
   "asof": {},
