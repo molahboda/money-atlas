@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T04:15:15+00:00",
-  "quotesAt": "2026-08-19T04:15:15+00:00",
-  "newsAt": "2026-08-19T04:15:15+00:00",
+  "fetchedAt": "2026-08-19T04:30:15+00:00",
+  "quotesAt": "2026-08-19T04:30:15+00:00",
+  "newsAt": "2026-08-19T04:30:15+00:00",
   "quotes": {
-    "kospi": 6489.48,
+    "kospi": 6476.95,
     "spx": 7691.76,
-    "nikkei": 65663.35,
+    "nikkei": 65514.82,
     "vix": 15.84,
-    "krw": 1400.14,
-    "gold": 4407.6,
-    "wti": 84.74,
-    "dxy": 99.59
+    "krw": 1400.58,
+    "gold": 4404.9,
+    "wti": 84.76,
+    "dxy": 99.57
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -7,
-    "nikkei": -2.66,
-    "krw": -1.03,
-    "dxy": -0.06,
-    "gold": 0.95,
-    "wti": -0.24,
+    "kospi": -7.18,
+    "nikkei": -2.88,
+    "krw": -1,
+    "dxy": -0.08,
+    "gold": 0.89,
+    "wti": -0.21,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "원/달러 환율 10개월 반 만에 1300원 대로 하락",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmRHemhuRlJVWnZnTnhPMEJvR3Rhc2g1RHpTSHk4cm8xbnF6M2QyRVZ6MElzeUVVQW1wLVZjQ002SU5iNWdfYVJEVnNuaDYycVdfZ0JjSzBubW5INVJNeFl1bVV1U05KYmxrWjhfQjhwZ2lpZEF1bmNmUjRCYk4wQlFrdjVkOE1oa0hKNHl3?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-19T04:16:00+00:00"
+    },
+    {
+      "t": "[뉴스프레소] 글로벌 국채금리 급등 '비상'… 나스닥, 반도체 주도 1.3% 하락 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iUExsRnRHbzQ0TTZQaTZ3RWpIZ2dETDU0RjdSVVhzTGFGbDhhUUFuZEZGT3RDUFNzNzNxdDluVVFkS0YyRGs2UmJuaHpDOXhZbmFVXzNHNUFVZDh4bS1aVGQ5dy1yaVFR0gFuQVVfeXFMUG9rV1lSQ2U5bGx6OV9lQnpYeXdDdUVUYndVSHk1UmdsZVhhWXE2ZmhRWExEU1VvV2MwSjdJUWxwdHlQVlJvWDlMZ3ZiT05VTnVySm1rUFBIY1lISEE5UkxiYVhWM2wxN25ZVTN5MWc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-19T04:08:32+00:00"
+    },
     {
       "t": "'칠천피' 이틀 만에 7% 증발…금리,유가,일본발 압력이 눌렀다",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oSUkyM0tFRUFuVHdNUC0zSXRJTmw5ZVZ3bkd3M2RxRnJKOUtOSVlqUVByU1NVRG5ZaVpDTXhEaGMyX1FIb1BSLXNDSHpDclhCblRBdGNscTlhRWYxN1puTTh6LXNIZw?oc=5",
       "s": "이로운넷",
       "d": "2026-08-19T04:08:10+00:00"
+    },
+    {
+      "t": "아시아 증시 급락, 반도체 셀오프 심화…코스피 5% 폭락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03VldnNjB1T1lQVFpHN0ViU3NqampkRk5RVVR1bGk5S1RXalQtMmpSenNrVDdIUGlLOGg3dUZSYVVXeEwtTDRSV1EtMWh5S2NhUzY5VkhlbmVPMVJUbTJLVGtTcWV6bUQxelVSVnJmQUs?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-19T04:04:00+00:00"
     },
     {
       "t": "19년 만에 최고 찍은 '美 국채금리'...왜 우리 주식까지 흔들었나",
@@ -37,16 +55,16 @@ window.LIVE_DATA = {
       "d": "2026-08-19T04:04:00+00:00"
     },
     {
-      "t": "[속보]원·달러 환율, 약 10개월 만에 1,300원대로 하락",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5UTRuVzdWa1Z6UzBPR1k5Q2Jic2FHR3JFNkVBRU44WF94eHQ0VUxTbkdwWEFYaThBYlFwZEU1Q01qc1BMSThLbTRsS0tUWmh1SV8yN3BwS2ZYVVlGV1JOM3V3?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-08-19T04:03:00+00:00"
+      "t": "코스피, 6% 급락 후 횡보…코스닥은 회복",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tdzU2ZlhYV0RHS2xhRFpWZ19semlvRHdsQmR5VTNJdFM3N0pYNktaVS1STy1EUXgydEpBRkRaRmMyZzYyMldWTmE5eEVTN1dyVDkwVV9HM2RZa1lhQWtsNQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-19T04:00:06+00:00"
     },
     {
-      "t": "유가 91달러, 가계빚 2000조원…8월 금통위의 선택은?",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kSTloV0ZRZGdkZmFiZGVhd1d3TXFZWHlST0w4YnRqUDk4UVFDQ0pvX3NGYUZlZ3BVR2F5Mm5IV2JXbDBIWEF4Yl9iNTdYSmNBRGtCQXBBMEFNOVlQemJkVGRVOXhyTzl0cm5GSjNBYw?oc=5",
-      "s": "조세일보",
-      "d": "2026-08-19T03:52:36+00:00"
+      "t": "고공행진하던 환율 드디어…10개월 반 만에 1,300원대",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZanR0emdubkVqYldVSUVjN1d5VTdhVk54elo0cDRTUC12QUNTSHJabGdqamdYUjFXMHA2eEdSTTQwS1ZBWlhaWm9ZNUkxUmNPYWVvQTdTcTl4VTRRYXdNS095SmZNd0xyUDNvdUVreUF3NTJkX3JZ?oc=5",
+      "s": "한국경제TV",
+      "d": "2026-08-19T03:47:00+00:00"
     },
     {
       "t": "ING, 글로벌 장기채 수익률 상승 주범은 '美실질금리'…분할매수 추천",
@@ -63,26 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "국제유가, 중동 불안에 사흘 연속 상승…WTI 0.5%↑",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nZHRuZFg4dFJEb2FMVE9TSFlIdFpmVGd6REN4M0FlbXRqXzNybXpkV0l0RktQMllSQTRPUTl1YjJVU1BjQ3ZKcFR6cHhxVGlJbzctdElSWDllOHFCOTd3aHF2SEJWM1E?oc=5",
-      "s": "yonhapnewstv.co.kr",
+      "s": "연합뉴스TV",
       "d": "2026-08-19T03:41:00+00:00"
-    },
-    {
-      "t": "美 금리 충격에 외국인 '팔자'…코스피 5%대↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IZ2tvTEVjVEJnMWhsR1R2WkZrSEFpX1hiX0I5U2RETzFGaFRSWUFvZ0lFQndrMmNRNVdmcWx2QkFGMndxTUVlazAzaFlvcVU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T03:39:55+00:00"
-    },
-    {
-      "t": "금리 발작에 발목 잡힌 코스피…\"안정화 후 안도 랠리 이어질 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IV0VkYzYydUpfaDBLQTlMV1BiRm5ETW9tbEluTl9ZYVRwOGJoX2ZXZDF1ZFpacWhNS2FKUDVGVzR3dmd0LXVaYmFwOGg1MG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T03:37:11+00:00"
-    },
-    {
-      "t": "미 장기 국채 금리 19년 만에 최고...트럼프 '비상'",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQUXRrSWdsWWo4VlRYbno5VHJwYUNZWkJxeFJYUnBGZUotcktISVRvQkR3eUprTnp3VTdoZVp1Tk0zZjF4ZC0zZWJuMVhWZ1FVa0pTYk5pN1VNdloxQng1ZFN6X3FNQ2pwMFBSbHlIS1lsMllHUWc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-19T03:37:00+00:00"
     }
   ],
   "asof": {},
