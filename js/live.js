@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T12:15:15+00:00",
-  "quotesAt": "2026-08-19T12:15:15+00:00",
-  "newsAt": "2026-08-19T12:15:15+00:00",
+  "fetchedAt": "2026-08-19T12:30:15+00:00",
+  "quotesAt": "2026-08-19T12:30:15+00:00",
+  "newsAt": "2026-08-19T12:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.72,
-    "krw": 1391.36,
-    "gold": 4419,
-    "wti": 84.66,
-    "dxy": 99.42
+    "vix": 15.69,
+    "krw": 1390,
+    "gold": 4424.3,
+    "wti": 84.41,
+    "dxy": 99.38
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.65,
-    "dxy": -0.24,
-    "gold": 1.21,
-    "wti": -0.33,
-    "vix": -0.76
+    "krw": -1.75,
+    "dxy": -0.27,
+    "gold": 1.34,
+    "wti": -0.62,
+    "vix": -0.95
   },
   "news": [
     {
+      "t": "미 달러화 약세…유로·파운드 강세 속 美 국채 금리 진정",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IWGJiM19qaGlpTzZjNGY4a25qS1RUTERfWHZWbF96aS1TeHFiS2FUQkZKNkc0MzYzVzE3Y1ZGRENwaGxRYldhQm1LRm1fU25yOUc4aTZFNTUxSEFqVlUxaUxkNlM3UWV3NHBPb0pTd3YtUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T12:13:28+00:00"
+    },
+    {
       "t": "환율 1,300원대로…美 금리 동결 전망 등 영향",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVGhHYlZycTlSNWtMckdaMGVSRDE0QVg4TDZvNjhBUDM4T1hGaTJmMzY1OTF4MzNkOTV6SThMZUxRRFVCaEJMYldIRUpkSTVyN1ctdDNiUTdodjVJRzg0RGFCZEM4TzA?oc=5",
-      "s": "yonhapnewstv.co.kr",
-      "d": "2026-08-19T12:07:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WDhIM092WC1pVjV2SC0yX0U4eTV0SHBZanI2MkNsRW9YYklkeS1NQ1A1Vmp0bTZRTVhBT3pncWViakpSZUZKclF0NWU2QWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T12:08:43+00:00"
+    },
+    {
+      "t": "美 국채금리 쇼크에 코스피 5.8%↓…SK하이닉스는 자사주 소각 계획",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wQW5WbUxKd2hFNHJpVHdMbTBlaFB6cmp0bFpyVWpBeHhiVmhiU0Q1M2dSSzBYTVlwdlRUdk9aQzRsZEw0YzZlY2s4YnZGLWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T12:07:53+00:00"
+    },
+    {
+      "t": "트럼프 관세 유예에 TSX 선물 소폭 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oLTNNVHBBX04tTm9KWFEzTTN4eFpiaFJPLU9zaVN2N1A5alB3bUx3aTRacHdLVlJZakRNMi1yamF3REFucXB1N0N3QXNJRXJXenpOU080U3hyVER1VUpSVm5RQVNIWkUwT1RWU2t5Y1k?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-19T12:06:00+00:00"
     },
     {
       "t": "트럼프, 캐나다 50% 관세 폭탄 \"3일 연기\"…자동차 관세가 현안",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T11:15:08+00:00"
     },
     {
-      "t": "KDI, 성장률 3.2%로 상향…반도체 의존 우려(종합)",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUpZeExfOU9XVEtLSkhTZWN4Sm9CX2hMX1ZIZ1VVYkNTQlVkM2drM2l2TzFHR01aNTJLMnltZ1E1Tk80eEd2dFd1a2t6ODYxZ1VtSHprWThjM2pMVm5XUjZLTnRndHRjYzNub1dxbWt6aG9paVV5aFVFS2tSMmM2ekxyQk8xQjIxRjZBcEJ3?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-19T11:09:00+00:00"
-    },
-    {
       "t": "[베트남 증시] 글로벌 투심 약화에 하락...유동성 부진·외국인 매도도 지속",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54N0F3N3hWbkllZ1djVnNjTEVsSmt1RDZiOEY1MThCSUpUQWgxeDRiYUxRMV9yR1pqeWMxZWIwTXkzREgxZVRuZUZVSkk1R1JRNnI0YldCVWd2Qzlq?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-19T10:41:00+00:00"
-    },
-    {
-      "t": "글로벌 국채금리 급등…코스피 6400대 ‘폭삭’",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdCZnFCeHBlUmZBaWJmdWtnWkxwb09fLVN5RUdLbzV0UTMyMXBpYUVhZDg1SW1UV0xwenNmbktJd2Nfb2VRMWN4bUl2U1JqQ0lyRWFDemRKU3JmZFNiaFNTRVpvVmllcXV2QzJWNHZzUUtrWHJVNjUxLXVCVzhTSWJKbG9COG4tLW80?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-19T10:36:00+00:00"
-    },
-    {
-      "t": "SK하이닉스 '역대급' 40조 자사주 소각...이제 증시 반등할까 [몇층이세요]",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QUy1CdUpGVlNIQTRoWFFCa2RSMDl3aFM3eHJYZGVLQ1pjbzVMNFM0Y2xLQ01aSGczbUdEaDE2ZjQ5MF82d09LZVFmTnltQmQwOGxEeUNmdE5IYlloQ2c?oc=5",
-      "s": "YTN",
-      "d": "2026-08-19T10:35:00+00:00"
     }
   ],
   "asof": {},
