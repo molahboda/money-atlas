@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T12:45:15+00:00",
-  "quotesAt": "2026-08-19T12:45:15+00:00",
-  "newsAt": "2026-08-19T12:45:15+00:00",
+  "fetchedAt": "2026-08-19T13:00:15+00:00",
+  "quotesAt": "2026-08-19T13:00:15+00:00",
+  "newsAt": "2026-08-19T13:00:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.65,
-    "krw": 1385.88,
-    "gold": 4440.4,
-    "wti": 84.18,
-    "dxy": 99.27
+    "vix": 15.45,
+    "krw": 1385.98,
+    "gold": 4471.6,
+    "wti": 83.81,
+    "dxy": 99.12
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -2.04,
-    "dxy": -0.38,
-    "gold": 1.7,
-    "wti": -0.89,
-    "vix": -1.2
+    "krw": -2.03,
+    "dxy": -0.53,
+    "gold": 2.42,
+    "wti": -1.33,
+    "vix": -2.46
   },
   "news": [
     {
@@ -61,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-19T12:06:00+00:00"
     },
     {
+      "t": "[마감] 코스피, 美 국채금리 쇼크에 5.8% 급락…6400선 후퇴 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54SUJ4b2xQbmhFNUN5REFaNmxyb3gtQU14NXFwdzZpTTVRSDJqa1l5MlNvV3h4U2pVcktCYWFkbFpCTHpIVlNuLXJnNW9BeHZXYTdZMUFxaGZ0R0JIVGVhcTFQY003T0ZOTFBqMGd5clc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-19T11:59:00+00:00"
+    },
+    {
       "t": "트럼프, 캐나다 50% 관세 폭탄 \"3일 연기\"…자동차 관세가 현안",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmJvQkRyT21XYklHVEY3SHYxT3VJM090M1dmb1ZSQURyOTBBZm9JTE1kelhRaTM3bzZOaDR4SnBSRENFTUMxZkJuSkxlY19XRUxFcmlzT0ZSQQ?oc=5",
       "s": "한국경제",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VVXc0T29HWU4xeFlwX3lCWHo1R3BKMnZ4WEp2RGltMVZrVTVYVFlVWE9LNklzZUJNX0lpNjE4Z1hOVkVTTFZURzNMTU9TdDA?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T11:16:09+00:00"
-    },
-    {
-      "t": "[오건영의 경제읽기]미 국채 금리 고공행진의 이유",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xd0NBeExIbWluaXdiM2VNUE1FLU82dGNOVFBTYUU0ZElDSTNfNFgzbmZqWFNxVVoxN2ZDZmdJOVJYSHN5cWNwWmp0dm1VSFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T11:15:08+00:00"
     }
   ],
   "asof": {},
