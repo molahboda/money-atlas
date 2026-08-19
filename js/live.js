@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T06:00:15+00:00",
-  "quotesAt": "2026-08-19T06:00:15+00:00",
-  "newsAt": "2026-08-19T06:00:15+00:00",
+  "fetchedAt": "2026-08-19T06:15:15+00:00",
+  "quotesAt": "2026-08-19T06:15:15+00:00",
+  "newsAt": "2026-08-19T06:15:15+00:00",
   "quotes": {
-    "kospi": 6495.28,
+    "kospi": 6474.01,
     "spx": 7691.76,
-    "nikkei": 65277.53,
+    "nikkei": 65350.36,
     "vix": 15.84,
-    "krw": 1398.08,
-    "gold": 4389.1,
-    "wti": 84.7,
-    "dxy": 99.53
+    "krw": 1397.78,
+    "gold": 4391,
+    "wti": 84.95,
+    "dxy": 99.52
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -6.92,
-    "nikkei": -3.24,
-    "krw": -1.18,
-    "dxy": -0.12,
-    "gold": 0.53,
-    "wti": -0.28,
+    "kospi": -7.22,
+    "nikkei": -3.13,
+    "krw": -1.2,
+    "dxy": -0.14,
+    "gold": 0.57,
+    "wti": 0.01,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
+      "s": "zdnet.co.kr",
+      "d": "2026-08-19T06:04:08+00:00"
+    },
+    {
+      "t": "원-달러 환율 장중 1300원대로…지난해 10월 이후 처음",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUHdqT3UtTTBsN1dSbnlGMURZdHBXbmJiZjhyTnFKNTJpS3V2c3pDLTR0RmFBd2NGdmQ4Wl8xd0pmZ3UtMkwwUGVuTmNIUFQ4NGFfVF9sQktCWDh1bVY3X3JsOWQxR2wwVXZIZ1Q2cXd4Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-19T06:01:00+00:00"
+    },
+    {
+      "t": "[킥스와 초장기채①] '금리 오르면 생보사 이득' 옛말…절반 이상 금리상승에 취약",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wVUMtYjlvSmtubVNpbEdnQTZuamdfN2lWUWxjaEE2TnZ6LWVSZGpmWWVHbEFORjdDYVdhMzZLMV80aEg1V0JMMVNRaHdYWTZEcTl3cHRZX0p4Znp3WHpCS2JqdjBOdUU0aE81X3ViS0I?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T06:00:13+00:00"
+    },
+    {
+      "t": "3대 메가프로젝트, 충남 아산 삼성전자 반도체 공장에서 첫삽",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NdEhWQnZoQXYyUHNacmxLTTFwTmFkaXFEZExfVnk2QnR0bXBBdHFDX0szREs1RVdSUlZRYkYyYkM4aUkzTi1DTTJnT0hqNkFwWDZqUUt3?oc=5",
+      "s": "joongang.co.kr",
+      "d": "2026-08-19T06:00:00+00:00"
+    },
+    {
+      "t": "숨고르기 장세…반도체 넘어 전력기기·조선·방산 주목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5TjREWkhkYWhTd29GdERDTm9lak85N2YyMk5LTk1BVUR4b3BKLXo2aXp5X09CZUdYNUxuVW1DcGhIdFBSRDVmaUptNzZKMXdnYU1sN3AtRnloUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-19T05:54:03+00:00"
+    },
+    {
+      "t": "원·달러 환율, 10개월 반 만에 1,300원대로 하락",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kZXZRT3VsNllQYTlDT04yc1dVOVkwR3J0R3BEekdpc3d0eGNoTUtGUFJpRzZGN2dEaG41b3dfY3ItSTBlaktvSi1KbGlNQm5mRkhZUFdFVnlmaG51YkI5TlFWTy1YTzhleElfbVRnVUJkQ0RQ0gF0QVVfeXFMTndSOGdVbmdnanp4UDFyMXh0QnJRSGU2SjEyN0QtV2ZKXzdlemVHWUJnOTd2TWtVbEdEX3pEcFExY2o2VUJMb3hDUWtVbnRTaXdGRGdpYVFEdk5fYW0zMVlTa3FqMG5BSUkxOFM0T25INkVWZ3c?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-19T05:53:47+00:00"
+    },
+    {
+      "t": "다카이치 재정확대 우려, 日 국채금리 추가 상승 부추길까",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBheC1OcGpRYkpFdXZEQTNkVjNUcnZOV3hKZEMtNkUxZUc1QUJDcTFsVTZsLXBja3JJUW1fQmRCQ2VRZUFRcFdHNEFleTF3dnFSV2N1cHVVNFlsNmMxbVlIdVJ3Z0ItaFByakxORlRKNDhEZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T05:53:31+00:00"
+    },
     {
       "t": "인하대 반도체·바이오 교육동 준공…“첨단산업 인재 양성”",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xcmRuVGRrdDNVNzNSQ0lBN3hwTV9Lc2lRUjlCWUkwSmlCMFV3MXFYOGhYallXeFNnZThyNnBTNlozQjJwR1ZtNG4zUE9Fb1l3RU5Vb0FkVEZxRXM?oc=5",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95T0RFcy1qX3N3UUxKcGZjSDYyUUJiOTNuUlJxX0J1c09xcldCaVVZbTR4TzFnb3RwNUJCY1Z4RnNHdERHcVM0Rkg3N2Q0UV9XSmZleHVhMkQ3UE0?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-19T05:41:48+00:00"
-    },
-    {
-      "t": "[포토] 코스피 언제 오르나",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ORHRZdlNCTDZTbHRGenJrQklkOXdVeEs3V3I2dzBONjBPaldZZ2dpSlJkeEZkT09ob0xHOC13dERZVkptQnVERlpPMUVWSEUwQ0huY242TGdzMnU4dnBUaw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-19T05:41:32+00:00"
-    },
-    {
-      "t": "원·달러 환율 10개월반만 1,300원대로 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oRW5xTGE5YzlDdWwwMUJmNnhMVFhtd0RuM2RPejlkanFoX2xqaG1OVWZqX0NpSTRQSjdxX0tHUS1wc0VXU0RXWWtOVHlha2t5dGR0WGFBQU5leHA1RHU2NmJsNGJLUzA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-19T05:41:00+00:00"
-    },
-    {
-      "t": "[포토] 5%대 하락한 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jd0o3UTdxWENULWRhSHBBVjI3Uk1vMTBDT0ZPdnZ2ZENueExVNEZJbTVJcFMzSTJqaGZWZk8wVTI4U2NPLXFqdF9sY1I3anRDWHhGcmI2bFVSNlMtYUJyZA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-19T05:40:06+00:00"
-    },
-    {
-      "t": "미국은 '동결' 전망 우세…금리 못올리는 9월 FOMC",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NUUE2Mi1TR3hkdGU4djFHakhKWDczeEFFNmNMalpTakZPaTl5Z3l0SHNUeDVxSE9SbHZON3JsMC12OEZuNmtIelNkSW5SNGdnZFVWX0hhY1BoVVpha1FheUxsWFc?oc=5",
-      "s": "m-i.kr",
-      "d": "2026-08-19T05:38:37+00:00"
-    },
-    {
-      "t": "[포토] 끝없이 하락하는 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wd3Npd2lYaVFXTWpsN2tkTS10c3J6X2pDZ2VraU4yblJHME1va1RaaVRxUE10R0NyRmhDTUhvM3VIWDFaTVJWRjhwTmdEMXdaVnYxSDlZUDFERndCRVNTRg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-19T05:38:20+00:00"
-    },
-    {
-      "t": "'중동 불안'에 코스피 하락…전고점 회복 가능한가?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82S1o0cl80eWYtRVBTRENPWDFEb25kN09OclB0OWUzcXRKQUo5WGZpTFBONktPMDRyYUhxQ0xibGpEVFNxYmpMZWhZcHZSeGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T05:37:08+00:00"
-    },
-    {
-      "t": "KT, 국산 반도체와 AI모델 일체형 ‘소버린 AI 어플라이언스’ 출시",
-      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UQnlubUVWMWFfSFhtb0pEbHVGYTFrem5rRlBtMG9LZlladE9YLVJadU83OEJ5RTJjMzhHc181U25uTjhtVWhKZmdmNXIwOHdSSkdLay0tdEN4V1ZGVjFfOFJqVHZQb0RDclBwTjNqc21vSFVfUm5DaGVMZlZWZw?oc=5",
-      "s": "보안뉴스",
-      "d": "2026-08-19T05:36:00+00:00"
     }
   ],
   "asof": {},
