@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T10:15:15+00:00",
-  "quotesAt": "2026-08-19T10:15:15+00:00",
-  "newsAt": "2026-08-19T10:15:15+00:00",
+  "fetchedAt": "2026-08-19T10:30:15+00:00",
+  "quotesAt": "2026-08-19T10:30:15+00:00",
+  "newsAt": "2026-08-19T10:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
     "vix": 15.86,
-    "krw": 1389.38,
-    "gold": 4414.2,
-    "wti": 84.99,
-    "dxy": 99.4
+    "krw": 1388.18,
+    "gold": 4422.3,
+    "wti": 85.02,
+    "dxy": 99.36
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.79,
-    "dxy": -0.25,
-    "gold": 1.1,
-    "wti": 0.06,
+    "krw": -1.88,
+    "dxy": -0.29,
+    "gold": 1.29,
+    "wti": 0.09,
     "vix": 0.13
   },
   "news": [
+    {
+      "t": "[亞증시-종합] 글로벌 금리 상승에 대체로 부진",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JbnczLUJCY3c1ajRMWDY2U2ZRVTlwY3FJb0dXVG5jNDRoR1J3Y1llMW4tb016X3d4ZGtyRDlzRTFvcldpWWpZOXJJTmxuYVE3YWxiMXg4QV81OGlmSHE2Y09WZUE0SUJZbFpSNzV6a3Y?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T10:12:05+00:00"
+    },
     {
       "t": "반도체 힘입어 코스피 상장사 매출 2000조 돌파",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sWmVTV1NOUUFHeF9zTXZpV2dwTGN0ZnlxNlQ0eVNBZjFKSjh6Z1ZQT2M2ZFNHdDBVQ3ZKMnM1TXY0WGF1SGdYeVNIOERvdG8?oc=5",
@@ -32,9 +38,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "[사설]가계부채 2000조에 국채 금리 급등, 불확실성 대비해야",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVktsVUREcW9CMHhub0h5U1lqSkJvMHM5VEpfSXd6clhINFNQbHFOU0NKOUota1JKVFFmUWxiZjRvRTg0STVsYTdXZkhfMVBFdFRLanpKU0tqZ9IBX0FVX3lxTE1VaUV2dzNleFdzR1ptWU9Cd015Z1Y2R1dtSzh4UXFNMjRWYk9hY3dxTDNHY2MyMVVrUDlTZHNsU1o2eFhSejJGblBUbXp3d09vUkFnMXU4Q3F4RmkwSG9r?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-19T10:04:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNEU0ZjNRWW5zWjVPcnA3ckEzekVkM2VNc1JPMnpZYXRKVUwta01fcWpMVV9qR3Jranl5Z3VKamZOUmxTUFNsakNja3RnNnM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T10:06:39+00:00"
     },
     {
       "t": "환율 1397.7원…11개월 만에 최저",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T09:31:11+00:00"
     },
     {
-      "t": "한미반도체 곽동신 회장, 작가 '곽신'으로 첫 개인전",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feFRsSjlRUEs2OU9ZanZ6UGlZWnVLbHZlcldiZGg1MVl4QkxqQ0lNbGtERUdmUklHMGFkcUN3U19aSm1pY1E4Tk1KV2JJelQ4eDltYldnVy1jdlHSAWBBVV95cUxNdERKWHoxS2N6TG1fZ0RQYmVvVERLM1lQay1YMVNLODJDME1vRDVBQTJfb3BhLVlEdUFYUkFHVktvN1F3Q0NzV25tUGttSFJ0Tjg0ZnBjMXJBY29pN1hLUFc?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-19T09:20:15+00:00"
-    },
-    {
-      "t": "하반기 '태풍의 눈' 美금리…우리 증시·가계 영향은?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DT1Y5RmtCMzAwRTRFOURUSGtKT1dPSW1OSUh4MFdJNXpwZjhHbXdKQXQ5aHlPd3JFVG9mdUdDbHE0enJJRkpkNnY4aWczNG8?oc=5",
+      "t": "“호남에 반도체 팹 5기 추가”… 이러니 ‘부산 홀대론’ 나올 밖에",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLUFdMUTNFbVJEempDZ2pZNGF4R1BfRF94MEpzU3hNV1dGeTdmTDc4TnpjYlJwZ3NHR0dTOTVlYXFOMVR1VG02X3FTX0o5RnM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T09:13:08+00:00"
+      "d": "2026-08-19T09:30:31+00:00"
     }
   ],
   "asof": {},
