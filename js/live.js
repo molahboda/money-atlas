@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T11:30:15+00:00",
-  "quotesAt": "2026-08-19T11:30:15+00:00",
-  "newsAt": "2026-08-19T11:30:15+00:00",
+  "fetchedAt": "2026-08-19T11:45:15+00:00",
+  "quotesAt": "2026-08-19T11:45:15+00:00",
+  "newsAt": "2026-08-19T11:45:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
     "vix": 15.76,
-    "krw": 1390.97,
-    "gold": 4425.5,
-    "wti": 84.76,
-    "dxy": 99.41
+    "krw": 1391.87,
+    "gold": 4424.2,
+    "wti": 84.69,
+    "dxy": 99.4
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.68,
-    "dxy": -0.24,
-    "gold": 1.36,
-    "wti": -0.21,
+    "krw": -1.62,
+    "dxy": -0.25,
+    "gold": 1.33,
+    "wti": -0.29,
     "vix": -0.51
   },
   "news": [
     {
-      "t": "KDI, 성장률 3.2%로 상향…반도체 의존 우려(종합)",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUpZeExfOU9XVEtLSkhTZWN4Sm9CX2hMX1ZIZ1VVYkNTQlVkM2drM2l2TzFHR01aNTJLMnltZ1E1Tk80eEd2dFd1a2t6ODYxZ1VtSHprWThjM2pMVm5XUjZLTnRndHRjYzNub1dxbWt6aG9paVV5aFVFS2tSMmM2ekxyQk8xQjIxRjZBcEJ3?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-19T11:09:00+00:00"
+      "t": "환율 11개월 만에 최저…1,300원대로 '뚝'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92UXlJRTZSUkVvRjdrbFJ6cmcwNS1TY0hNdEdray1kREpndVFOR3pfUkFURXc3ck1pRW8yQm9OWk9hZlcyZzVEYkZpRFdxc28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T11:33:12+00:00"
+    },
+    {
+      "t": "[오건영의 경제읽기]미 국채 금리 고공행진의 이유",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xd0NBeExIbWluaXdiM2VNUE1FLU82dGNOVFBTYUU0ZElDSTNfNFgzbmZqWFNxVVoxN2ZDZmdJOVJYSHN5cWNwWmp0dm1VSFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T11:15:08+00:00"
     },
     {
       "t": "[베트남 증시] 글로벌 투심 약화에 하락...유동성 부진·외국인 매도도 지속",
@@ -44,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "SK하이닉스 '역대급' 40조 자사주 소각...이제 증시 반등할까 [몇층이세요]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VWnRpTTAwTW5Nd1ZBOFlHTVNhSVBITnRSU0RzaVk2bFVIQndaUWN6a2dpbFN4MTUxc0dIOEduNzdieHVQY1hRTHdOMmhLYndRdnFtNDlsbkEyMC1TRWRLVWR3UQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QUy1CdUpGVlNIQTRoWFFCa2RSMDl3aFM3eHJYZGVLQ1pjbzVMNFM0Y2xLQ01aSGczbUdEaDE2ZjQ5MF82d09LZVFmTnltQmQwOGxEeUNmdE5IYlloQ2c?oc=5",
       "s": "YTN",
       "d": "2026-08-19T10:35:00+00:00"
     },
@@ -61,10 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T10:19:24+00:00"
     },
     {
-      "t": "[亞증시-종합] 글로벌 금리 상승에 대체로 부진",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JbnczLUJCY3c1ajRMWDY2U2ZRVTlwY3FJb0dXVG5jNDRoR1J3Y1llMW4tb016X3d4ZGtyRDlzRTFvcldpWWpZOXJJTmxuYVE3YWxiMXg4QV81OGlmSHE2Y09WZUE0SUJZbFpSNzV6a3Y?oc=5",
+      "t": "[亞증시-종합] 글로벌 금리 상승에 대체로 부진 |",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yb1BpZXNIcHdhYzNPWTVNY3o5TUdzdEhqekV3aDN4NE1PbTVfNl81NUtONzY5Y2pnVTlxbDlvRWxzUnZhRnY4Y2ktT25uMElRR2V4b1pGaFNueHVfUHZYaFFhNWxkYjNQalE4cXdZQjJMR1E1?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-19T10:12:05+00:00"
+      "d": "2026-08-19T10:17:02+00:00"
     },
     {
       "t": "반도체 힘입어 코스피 상장사 매출 2000조 돌파",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNEU0ZjNRWW5zWjVPcnA3ckEzekVkM2VNc1JPMnpZYXRKVUwta01fcWpMVV9qR3Jranl5Z3VKamZOUmxTUFNsakNja3RnNnM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T10:06:39+00:00"
-    },
-    {
-      "t": "환율 1397.7원…11개월 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95S1c1a1M1ekM3eVROdlhwUG5kVGdYQW13aGNjRHFEdFNSUFNhQi1IaUMxdGhac3JXTmFFSy1hX2xFSmN3emRreEd6VnpUMzBxYzc1THpMNFBUYzhqY0dCS2Ixa01VSG9fMnM1SA?oc=5",
-      "s": "mstoday.co.kr",
-      "d": "2026-08-19T09:50:49+00:00"
     }
   ],
   "asof": {},
