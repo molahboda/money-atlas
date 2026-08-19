@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T06:45:15+00:00",
-  "quotesAt": "2026-08-19T06:45:15+00:00",
-  "newsAt": "2026-08-19T06:45:15+00:00",
+  "fetchedAt": "2026-08-19T07:00:15+00:00",
+  "quotesAt": "2026-08-19T07:00:15+00:00",
+  "newsAt": "2026-08-19T07:00:15+00:00",
   "quotes": {
-    "kospi": 6467.77,
+    "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
     "vix": 15.84,
-    "krw": 1397.68,
-    "gold": 4393.1,
-    "wti": 84.55,
-    "dxy": 99.47
+    "krw": 1397.87,
+    "gold": 4398.8,
+    "wti": 84.63,
+    "dxy": 99.48
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -7.31,
+    "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.21,
+    "krw": -1.19,
     "dxy": -0.18,
-    "gold": 0.62,
-    "wti": -0.46,
-    "vix": 4.28
+    "gold": 0.75,
+    "wti": -0.36,
+    "vix": 0
   },
   "news": [
     {
-      "t": "미국발 삭풍…코스피 5%대 폭락 '와르르'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfS2prMGltMVpaZW56X3djVWNMRFJhdnlIZERYOHN6ZFdkd0tDTzJibUlxMl9fUGMxVXVydWZKWTJwLUgtamEwdm1aRGE5UHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T06:40:18+00:00"
-    },
-    {
-      "t": "글로벌 국채금리 오르는데…중국만 13개월래 최저, 왜",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jc2R4b245NmY5UThaTVlnbFhXSHAwVVNRSTc1bE9Xc3AyX2t4UkVYdVhjS0RuWjRpcElGRnJ6Rm9JWWhqaWJ3WExpN0RxNUE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T06:39:08+00:00"
-    },
-    {
-      "t": "코스피 5.8% 급락 마감…환율 11개월 만에 1,400원↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95YklsVTFGWnM2MFNqa2NGTU14LUdnY1hnd0g0Q2lEM2ViUlBqdFV3VjBNNUs2aFVWYWRfU1Z3eV8zMkd4RFowc2lOOHhZRzA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T06:38:51+00:00"
-    },
-    {
-      "t": "코스피, 5.8% 급락해 6,471 마감…코스닥은 1.2% 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1td2Q2Qy1MZkZhcmxrX1F2OE1PVUtaQmZ4SUdSZVlaME9vWGxGRzRpVTBnRTh6aUJQUi1rT1VHY1ZCNHh2OFNIVFlmVU91Wms?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T06:37:50+00:00"
-    },
-    {
-      "t": "美 증시 경계론 확산…\"채권이 위기 먼저 안다\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vSUlGeEszbHpXenRzSXFxZmhNTjBvZi1pSHZXS2RKVlBIb0h2WkcwUWpadVN5VkdZSE5rM0RYMVhUX2dNQy1PV0VHZ0tuYXVid1NFQ2V0YlZfQVJvRF9IeldNN0kxYTZuS081LThsVWc?oc=5",
+      "t": "데이터센터 불안에 코스피 급락과 달러‑원 환율 연저점까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nXzNIU0dtWUZiOXVpSXhaakplRVpINEdreHlXVFN3ZVI1aC1MNGE0VHNHVDdyU09ocFZWVDk4QU5ZWmhTWDlONGFkSV80aDNxNnd6enNfSXdzVHpoTU5wUTNoUEFxMklkMXM5WmFhM3nSAXRBVV95cUxPMzFySlhrdndmcHVMWk92UHhZVHBiemNBQlNZQ2c5aWtNeExOQ21ObEdXYU83QXVXV19YR3pMbzFDMmlCTU85dkVQcGgwR2pfLS00WUtZMWtobEQxalM2ejBOMGNMeFM4NG1Qd2d1MXh3aUtLNA?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-19T06:37:45+00:00"
+      "d": "2026-08-19T06:52:08+00:00"
     },
     {
-      "t": "[속보]원·달러 환율 1397.7원···10개월 만에 1300원대로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPZXdtUElhUUxCRWFodnJPMmdxV1Q3NDk3dGk4S1J5WVFpdlBkZlY3WGJZVW12Uk1pTjRSUHpkTkZfelpEX2Y3Vk1LWXgxSEIzWkhKZm9nTnEzdFnSAV9BVV95cUxPLVByTjA1T0pyM1gwcWRuTVFZVUlSN1BJOGZlcG03M2k4NGlLM2xHbFFHWm43RmI3ZlJsQ0tCODBWRzFpQ2FFNkYzeThmV2lzZjNwMVF5OGFZX1U5c1ZoZw?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-19T06:36:00+00:00"
+      "t": "[증시 레이더] 코스피 급락 6,471 마감⋯매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80YmR3aXk0UkJETFlCSXFFa2xIdWtnVF84QVFJVTZfS2NqY2l6OGpQb3JZUE91eHdoOTBjZzVFcGRtZXNaUnE0Wk1CSE9lNEF2YzY0Y1FydGFMQUxwbHc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-19T06:51:19+00:00"
     },
     {
-      "t": "[속보]원/달러 환율, 14.1원 내린 1397.7원 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XdkF1WURYbzZIZ2VEbTNacjRzMzE5dkI0WE9XUzQxb2hjRmFWUk1SYlFBNXlyRjJMRm1FZnVYcWtBV25HRlZzRk1SVDF6Qm1oSHZCSE9wdkhCREdwTFhKTFZrcDhETUZhWkRR0gFwQVVfeXFMT3hYM1lSTXp2YW12aHFEOXZVYWtWWU5BOERDOFByNWZSazFyaUFocWtCODZEZ2tiYWFrUlBNNjJmUjdlTTB1bnlpRUE1THljejF6azQtZU9pUXRfZlAwVWN0VEpuTWE1ZWg1Z0I0WVg5aw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-19T06:34:23+00:00"
+      "t": "미국 금리 불안에 코스피 매도 사이드카…5% 넘게 급락 마감 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Oa05ZR21mU2t3R3F3dHlsdmhDQVI1dzMtcW1OUF84ejQ3ZDlpcW1LR01nMTJYbUJ6Yl9LZlhZdFdEUk5aaEVlSlpWWWZTQ2l3Z1FWQ2tmeVh4WlMzWXBIOW44dDZxc1pY0gFuQVVfeXFMUGQ5b1p2YWF2UGN6UWhWWXdMZUJBLThwcVNSZEVqZTUtTEtyZmgyTXQ3NzFLQXJPRzZVNW9LckZnWVVKS0hlX3dtdEV0d1p1VWpjc0U3a1ZTdHg5cWQ4RWdiUlA2b0p0SzN3c2VGalE?oc=5",
+      "s": "mt.co.kr",
+      "d": "2026-08-19T06:49:32+00:00"
     },
     {
-      "t": "[속보］코스피, 5.8% 급락해 6,471 마감…코스닥은 1.2%↓",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlLWd2d3czT0RoRXFJd1VpeEZJdXFwUzVsYXNFMXVreWZfeDVhbzdIVEtITEtwUzBHOEJsVFQwX25qaTVSenRhb3F6TVZmZHZpMUdlN29XdXBBUmfSAWBBVV95cUxPSFQyZW5RNU5WZ3JZR1F1cC1PZVpfQ21ydEtvVExHcWY1dDZzbG1seTlPeWY2enE4S3hUS1hkaDdCMkpCY3JXSFVvQm43elUxc1VJTmlCczBLcnFmYjhBQi0?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-19T06:34:17+00:00"
+      "t": "대외 변수에 국내 증시 ‘휘청’…외인 매도·사이드카 발동 [마감 시황]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4cjZBcWJacmx3bVZ3OUNWS2FSV2NpMEd0WFcwWngxMGhid3pKUV9FS3lucXRBTTkxeUVLUnZaS0I5WW9wUnFTa0RRQ0FLZ3otWjBBNFJWSHdmQkE?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-19T06:49:09+00:00"
     },
     {
-      "t": "장기금리 상승에 국내 증시 '휘청'…\"실적 성장주 중심 대응 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tbndTVmZBWjhVQXVZZDNsUGlxTzJlOXZzVEp3Qno4czNSTHYxVTY4ZDFhaHM5cVdTZTlTNHhFMFlPM0U2ZUlJMXduY0RfaWJ0ZWd3bEtwMkNoMlk5?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-19T06:34:00+00:00"
+      "t": "코스피 5.8% 급락해 6470선…환율은 10개월 만에 1300원대",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Jd29Wem11SVhMZFdJbGtjQXk1UmswcG1jWHZaZ1BtQnpWeFBLNW5lUGt3NmhpN2ZRdzRsZ0duNGpzdWxDQXMxSEdqZDV0bFk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T06:47:51+00:00"
     },
     {
-      "t": "코스피, 5.80% 급락…6,471.17 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kMmN5eU9uTWF1aGNuMFYzcVRBcnFERlpZX2lIQ2lLakNFYTVkOGZBRk5naFJ1R2UtaUdSaWZnNEtETS12ZzYwRVgtaHpLVjh0cXA0WXd5Yl85SkRHTnJBYUpiZkJfWlVQbk1rWWJOdjjSAXRBVV95cUxQVjdMQ3V4bWFlMW5CR2s5M3dvUHliRGZWbE9USFZnSGUwZFJ1YTc2ck1heUZRckduZEdoSG1PSnBtZWk3M0tWWDZFOTBuOEZjN2FHSG9sSEFWd2c3MXl5dzRCRjQta3AyUnFoQmRmTTc1ZThHQg?oc=5",
+      "t": "[도쿄증시-마감] 글로벌 금리 상승·美 반도체주 약세에 3%대 급락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50S2pDNWtIYkZRRnZUaWdzZjFIZ2hFbHJlSlVlUWVHUWhiX2JvaEJjengtQmZGM09kQjZnV0Z2MDBzVXlBTElreWw3ZS1fbjVKbjJRRDZrdXVVRVl5UjBBdl9qbWp1bC1lQ1lJWUJ4Uk8?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-19T06:33:34+00:00"
+      "d": "2026-08-19T06:47:30+00:00"
+    },
+    {
+      "t": "반도체 되돌림에 대외 불안까지…코스피 5.8% 급락",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5SW1YZk5TS2d5aGlJMFVxR2IzWUJ3dDRYODlpSGFuOHM2SHRPeFFEVzZDcWFSaGh4SGhhUF8yaGUwSHBSUm90V3IwTlpwQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-19T06:45:21+00:00"
+    },
+    {
+      "t": "격화하는 중동·고개 드는 PCE 물가…매크로는 '첩첩산중'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vOTVnZnY2RmhtVFB3b0VKWjV4bkkyM2U0M3BxWGFNMEdYbVltTlRXSHEtLTJZNjNLWXlwNzhwV1NKSHRIZzBWVFdNSTNwakc3VllxODVVbFltQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-19T06:44:44+00:00"
+    },
+    {
+      "t": "속보 코스피 5.8%·코스닥 1.17% 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tQlNXTE8xQ3N1ZENCYlRWQkVtM1ltUVZ5WlNEZm5URldhdndYU0dKaXNkalI4M2xvT3g3U0JKRE5HOWp2eS1KTVdRMUhsOXNOWjJWaWlrTVFfWkFSZkE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-19T06:43:00+00:00"
+    },
+    {
+      "t": "코스피, 5%대 급락해 6400선으로 밀려…삼전닉스↓",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMC1iai1zcDdjdkE3aDc3MzdvY3JpMWVZSnJTNktDYnc0bFRIdFVrTnozOC1HbUg5dHI1NzlaNExmLXFubDN5NTZrUUkzSXRoaWNMem84U0otdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-19T06:41:52+00:00"
     }
   ],
   "asof": {},
