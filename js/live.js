@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T15:15:15+00:00",
-  "quotesAt": "2026-08-19T15:15:15+00:00",
-  "newsAt": "2026-08-19T15:15:15+00:00",
+  "fetchedAt": "2026-08-19T15:30:15+00:00",
+  "quotesAt": "2026-08-19T15:30:15+00:00",
+  "newsAt": "2026-08-19T15:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7737.38,
+    "spx": 7731.07,
     "nikkei": 65326.42,
     "vix": 15.13,
-    "krw": 1388.58,
-    "gold": 4543.6,
-    "wti": 85.1,
+    "krw": 1389.97,
+    "gold": 4544.7,
+    "wti": 85.29,
     "dxy": 98.92
   },
   "daily": {
-    "spx": -0.1,
+    "spx": -0.18,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.85,
+    "krw": -1.75,
     "dxy": -0.74,
-    "gold": 4.07,
-    "wti": 0.19,
+    "gold": 4.09,
+    "wti": 0.41,
     "vix": -4.48
   },
   "news": [
+    {
+      "t": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZFVvU1pjVi1wM05pVFB3cU9KNXNxUmRySkxjUmZjUlNIejQ4QzFRRGNxNFdjS2dsb3RrU25pa05zSFQtY19JY2c1TUZMNkFHX2dDYThB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-19T15:21:01+00:00"
+    },
     {
       "t": "美 국채 바이백 확대에 뉴욕증시 상승 출발 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0NGTnZSUHFQOGZKTnpfaV9SNU9uN2o3NmJDQUdhanRiZnBzei0ycnJoVlp1bmFESnhsajFPOGNPZWpuSUZ3SnlxdGsteFhIc2tiZ2ZDa1ZfR2VUOU1WdlNUeF9MWFZESWpycUcxbXdPQnhWRFNPZmIwY2F1WERFN0M0Rm5vUEJTem8zRDM5eGtKZDRzdGtJcWVuMUZHQdIBsgFBVV95cUxNQ0QycGdzd05fWGZBVGFjMzVVUHJVQkgwY1VVQ2EzZGQtQ0RBN19tTEFlbUw4Ui1yV3V4SHgzdzY3cGdCRWd4RHhBRHNBVThPdGczZEFCNGJpWUZEOHJpbDlTR0oxZlhvYjFfZmFfUy12M08tTG9ONXBWXzVTbXZJZEFvaWE4ZmItOERrSzBNcHhxbVYzWnFMUHVoRk9CYVBlRHRPcWZoT0V3QjBETmJlSWR3?oc=5",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-19T14:11:16+00:00"
     },
     {
+      "t": "KDI, 올해 경제성장률 2.5%→3.2% 상향…반도체 호황 반영",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHV6dEJCZ0pybERDVHdUSEFNemNpdS0xX2hvaHgySmJjY3lrTEF0UzBuaW5qMVVCNmVqTWQ1TGpJN29GeTRkRkhTUzlmWjVEVU8xeHdXOGlnWlFINURUbndrYU1uOHZVTTl1ZkdvUWFJdVhTVmNiVm1Xa2VRdExkMC1UZnc2My1uSGc?oc=5",
+      "s": "대한민국 정책브리핑",
+      "d": "2026-08-19T14:02:21+00:00"
+    },
+    {
       "t": "[경제]코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vc2pmcnhLdHhqYVlHZXg2M1p0QTJ5TWYtczI0OG9CTGZ2RTJVZktNUFQ4NVRLM2U1ekpiR2Y5ZGVFMmMwY3VYdngxeHoxMk9iTEh3TWVIamJKS0djT1hGc2J5V1R6dXFKUHB4Vjh2UQ?oc=5",
       "s": "YTN",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-19T12:45:49+00:00"
-    },
-    {
-      "t": "SK하이닉스 ADR 하루만에 급반등…美 금리 진정 속 40조 자사주 매입",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83a3FvRE4yQk5SZTk3aHBrMEFseVBtXy1TRXN4NHkzX0JaXzZFQldZaUFfQXZidDJVVU1aOWdEeXk4UUtBcE94WUtGeTBwc1pzNGM5ZzRBTjBuQnA5UGhERjRxRGV0SHl6dzdEQXhFNnU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T12:28:23+00:00"
-    },
-    {
-      "t": "원·달러 환율 10개월여 만에 1,300원대로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNzFOQ3hWTDhnN2NhSTMtWFFHVDZkemNuNmJVTjZpcFFIbGpka3JzS3NISWJBRGFyOWhiTG91bC1GOXZOaFp6R0xzLVNrUkJjNXd6UV9hMnpiazA?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T12:27:00+00:00"
     }
   ],
   "asof": {},
