@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T09:30:15+00:00",
-  "quotesAt": "2026-08-19T09:30:15+00:00",
-  "newsAt": "2026-08-19T09:30:15+00:00",
+  "fetchedAt": "2026-08-19T09:45:15+00:00",
+  "quotesAt": "2026-08-19T09:45:15+00:00",
+  "newsAt": "2026-08-19T09:45:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.84,
-    "krw": 1394.14,
-    "gold": 4408.6,
-    "wti": 85.25,
-    "dxy": 99.44
+    "vix": 15.86,
+    "krw": 1392.08,
+    "gold": 4410.9,
+    "wti": 84.69,
+    "dxy": 99.41
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.46,
-    "dxy": -0.21,
-    "gold": 0.98,
-    "wti": 0.36,
-    "vix": 0
+    "krw": -1.6,
+    "dxy": -0.24,
+    "gold": 1.03,
+    "wti": -0.29,
+    "vix": 0.13
   },
   "news": [
+    {
+      "t": "[이슈] 경북 수도권 전력 하청공장 전락…호남 반도체 예정지 광주 군공항의 전투기도 예천 이전하나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QS0xTc0ZHaXFEVVAxSFV1TGlRM0ZFRDY0NWJNSWItZDRfaWhYUXlNMkFEMFJWVzkzTy1UZEdwQ2VvYUI1dEhCbnN1cG1DZEE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T09:40:03+00:00"
+    },
+    {
+      "t": "美금리 동결 우세·수출업체 달러 매도",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JOGZJNFVxZUlfRVVqQmNPTjJIZE41aF9BVndwSU9HUmJIREp0anA2ZWRmVEZybXpjTm1xTXNfUl9sMjk3U3FnRm8xZWZOOEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T09:31:11+00:00"
+    },
+    {
+      "t": "한미반도체 곽동신 회장, 작가 '곽신'으로 첫 개인전",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9feFRsSjlRUEs2OU9ZanZ6UGlZWnVLbHZlcldiZGg1MVl4QkxqQ0lNbGtERUdmUklHMGFkcUN3U19aSm1pY1E4Tk1KV2JJelQ4eDltYldnVy1jdlHSAWBBVV95cUxNdERKWHoxS2N6TG1fZ0RQYmVvVERLM1lQay1YMVNLODJDME1vRDVBQTJfb3BhLVlEdUFYUkFHVktvN1F3Q0NzV25tUGttSFJ0Tjg0ZnBjMXJBY29pN1hLUFc?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-19T09:20:15+00:00"
+    },
     {
       "t": "하반기 '태풍의 눈' 美금리…우리 증시·가계 영향은?",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DT1Y5RmtCMzAwRTRFOURUSGtKT1dPSW1OSUh4MFdJNXpwZjhHbXdKQXQ5aHlPd3JFVG9mdUdDbHE0enJJRkpkNnY4aWczNG8?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fY0NBX1hTeE5VUnR1RVNyLWE0OG5kLTVhMThiNkNnd2dVcS1UZ3V0WGtBbjlMOE0wMk9nSFlMTEdkVVM0X0tDTk40djVVRS1lbHVXZUpDaUFjbTd1djRuNXF3?oc=5",
       "s": "이코노미스트",
       "d": "2026-08-19T09:00:00+00:00"
-    },
-    {
-      "t": "30년, 50년 국고채 금리 역대 최고 상승에 한국도 경고등",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2dsOFZBMi1KaXdDcndHaFZJbEU1eDRjX2tlVzcyOHN3Qkl1N0FtdGI1WVZ6RTBuT0JPZF9pM204NmpfeU00TUoyQUE2YlktY1hRWW5HQ0RJUlZsNkVOMEJNN1lrZEREQlgyMlZkd0t3QmdIUURIbnRGenJWM1ktbDhDUUl0bHBhX0Jn?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-19T08:53:00+00:00"
-    },
-    {
-      "t": "[단독]반도체 훈풍에 내년 국세수입 580조 추산···청년미래적금 소득상한 폐지할 듯",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aE80bl94MDU5OGdhTGQ4NVd5OFd5cVNzRnFrV1ZraVQxSkdPZllvQ1BWNURpdDRyVVRWODFoQ3g5bm5HUGZiclJ3blFobWpqd3NjUDNCRG92d9IBX0FVX3lxTE9sWWZnVmlhUkVFb2E3TTNpZnJCbl9ZYkpJNG5mNkNoLXlYQldRNXBFNGFPb2tBUTdvU0h1X2VwamJOQ3d3R2NmdFctMVp4c19PbktBQkNjc25tZFBfZW5R?oc=5",
-      "s": "khan.co.kr",
-      "d": "2026-08-19T08:50:00+00:00"
-    },
-    {
-      "t": "美금리 동결 기대에 원화 1300원대 반등",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QVV6WTV3V1NGSG8yQUJwMFNWeTFFSXo1THlhU18tSFBsVkpONWp4UGN4dkgxQjEtbDFtM0lSRHYwaVZ1VTQ5Y08xci1wb2VoOHc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-19T08:47:35+00:00"
     }
   ],
   "asof": {},
