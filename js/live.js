@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T00:30:15+00:00",
-  "quotesAt": "2026-08-19T00:30:15+00:00",
-  "newsAt": "2026-08-19T00:30:15+00:00",
+  "fetchedAt": "2026-08-19T00:45:15+00:00",
+  "quotesAt": "2026-08-19T00:45:15+00:00",
+  "newsAt": "2026-08-19T00:45:15+00:00",
   "quotes": {
-    "kospi": 6471.15,
+    "kospi": 6418.59,
     "spx": 7691.76,
-    "nikkei": 65516.76,
+    "nikkei": 65670.43,
     "vix": 15.84,
-    "krw": 1409.18,
-    "gold": 4395.5,
-    "wti": 84.55,
-    "dxy": 99.61
+    "krw": 1408.27,
+    "gold": 4395.6,
+    "wti": 84.93,
+    "dxy": 99.64
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -7.26,
-    "nikkei": -2.88,
-    "krw": -0.39,
-    "dxy": -0.03,
+    "kospi": -8.02,
+    "nikkei": -2.65,
+    "krw": -0.46,
+    "dxy": 0,
     "gold": -0.5,
-    "wti": 0.06,
+    "wti": 0.51,
     "vix": 4.28
   },
   "news": [
     {
-      "t": "코스피, 6%대 급락에 장 초반 매도 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DdzFLQmdWYWdEcDFVWmxRcHhWY3M2ak12bm5SRHVWNUhnQlJJUGVNbjdncGhIUTFVNThRZGFKc3hVVzVIMGpXNHQ5MjBEX3Q5SG9IbmF6NTl4R25FVXFjMg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-19T00:26:30+00:00"
-    },
-    {
-      "t": "코스피 급락에 매도 사이드카 발동…코스닥도 동반 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MTGRSZy1MRXphX2NRT055T2lTMF9PNUx4aWxRNnRwYmoydXhnMzJmV3ZVb1p2TG9NbnYtUDl5N1dCZG0zRy16X3RmOWlnVnM?oc=5",
+      "t": "[이 시각 시황] 코스피 6% 급락…외국인 ‘매도 폭탄’에 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCekk4cEtfYmpSUnlvR1paanpObEVhMGczNXNfQWdFR2RNUkZrXy1mZDVvbWhiUEJVSVhJLWRXbWp2blhuZ3lnQldQZk02RkE?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T00:20:10+00:00"
+      "d": "2026-08-19T00:43:07+00:00"
     },
     {
-      "t": "코스피, 美 금리 급등에 6500선 붕괴…반도체 급락·매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xUUpOUFllMHNPaTJha1pETlFhVTNFUXJCLS1nM1NQT3hmcVZsa0VwdHBadFA5NHktN1BaSHhDOG5McFVTS0pZZ0RIbVZFeFU?oc=5",
+      "t": "환율 1300원대 눈앞... 증권가 “3분기에 하락 돌파 가능성 ”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JS20tV2FNaUgwUmVHZDZWcnU1UjVqN1ktTEhfU09HRDcxTzF0dTJyTWI2NXJtMDJ0T3BvS0tEeGdZSHp6WkV5d0k1TmN0aWc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T00:19:07+00:00"
+      "d": "2026-08-19T00:33:16+00:00"
     },
     {
-      "t": "코스피, 美 국채금리 충격에 6% 급락…매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wRnJidDJrMXZaX1F1eTd1OTVGWjYydjBOTUNiNDRtVjdoMFltOU9oeW1BNmpuUFdYSkdaOFVOMkgzX2M3YUdaSkt0cFZoMXNLMVAtZGwwY1NnZmZLNENLRGprR2s?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-19T00:17:57+00:00"
-    },
-    {
-      "t": "[특징주] 삼성전자·하이닉스 8%대 하락…美 국채금리 쇼크",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RLUFrNTBoNm5mcUUzM09pY3JVdFV2NjhCblB1YWhqRFI2eGFZR2dXRndZV2ZpUkd5RVBLa3dlY3VvaDBlZ1c1VEg0dmFqNDA?oc=5",
+      "t": "[개장시황] 코스피, 금리·반도체 악재에 5%대 급락…매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pQ3VBYVBaTG1NN3hSa2kzZEJMWjRTcTFnMnNqTC1JNVFHeDNBc2s4YzliY1I3b29ObkU1VmF4cjJ4NEI4bkVWNmNlSFltN3M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T00:17:09+00:00"
+      "d": "2026-08-19T00:33:07+00:00"
     },
     {
-      "t": "[속보]코스피, 6% 급락에 매도 사이드카…국채금리 급등 여파",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QakhFaC10THdtZkVUejUwcm1VOTlBVV9nQXQ3Wm4tNVRkQUZBQlVOTUppamxyb2luSVJVTkp5UHNxdjRaaEl1b080NEpTU19jNEVsdGxaODZyd9IBX0FVX3lxTE1ZTjdxTXNya0RMb09YeHUtV3lNQU9XS3BYWjlZT0wxSURXZEZKMU5PR05hSjgzbFo5bUR3M1NsOUtWUzdmaFZvUE9WWmJoQ2tYbmF3enF6S0RQOW1DT3lF?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-19T00:17:00+00:00"
+      "t": "S&P500 선물, 글로벌 장기채 금리 급등에 하락…美 국채금리 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZODBxQlQzWFNfYnNYakpKU05ZMjEyTjBZMkN2Zm10ZXN3N0VxWmNPS3hxTW04R3JkTjI1WnRCTkhKWXFzWkJRN1N0cG9UM2hJb2FnZVRURlY0YmFySURBSWR3TG5WY1FkOC0xNW5fWDQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T00:31:13+00:00"
     },
     {
-      "t": "코스피, 5%대 급락해 6400선으로 밀려…매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CakRHVFVYbUpqY2VyTUVmOTFJMTI2VzltRGFXTnZEWGZrWDdDckx6MDRad2d6eTIzb0NLWFlHdERkd0JNUHlOLTRNUlVxdm11N2dmbFVMRnl0QQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-19T00:15:52+00:00"
-    },
-    {
-      "t": "美 국채금리 급등에 코스피 5%대 급락…매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zOVphcTRGSmkwNEY4LTRaR0stNTNaRkVpSExzMTdOR3RyajVBV3JJY0ppdlFtby1RTjVwVW1CVnFCREZCQ3dNU09zbWNSRkk?oc=5",
+      "t": "장기채 금리 불안에 코스피 6%대 급락…코스닥 2%↓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VYXl6dnpaV3RYTkRkQVZGSURTUDZtYXQ4aWpUeEV0Q2FXaWRoVEpKWWl5M1BoWXBpelc2THhNb0RkZnlVSEx1YTJYb0dXWFk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T00:15:47+00:00"
+      "d": "2026-08-19T00:30:00+00:00"
     },
     {
-      "t": "코스피, 장 초반 6% 급락…매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DUHFydW9yVzdJTEU1dURzeVZQZVVvX2k2VWhiVXVhYU92T3p3clU0a1ZwODlyVWkwbDdGX29hSXJEcjQzWXhBS3hoVXdvY1EtSUtTT0VLWHo1WDRyaVZqd3RXZG5FaVM3d2tQV2YtNkdOdw?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-08-19T00:15:25+00:00"
+      "t": "美 기술주 급락·국채금리 급등…원·달러 환율 상승 압력",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mZTVLcUJVWE9CZVRYdkQ2YTRGN2txWEFabGE3RDBfbE05anA2TXhNdlFkR1lGZ1BKTzdiNHZGUk9MbU1VYXN5eTR6a1NXLXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T00:28:42+00:00"
     },
     {
-      "t": "코스피 6% 급락하며 매도 사이드카…글로벌 투자심리 악화",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa1QxeU9mVXFPZDNQZHM1M2loT3NlbGQ2WlB1TWx1LVF0dndIREw0TF92VWRNV2xSdllMcE1JQXFHZkpWOVJvU2lJZ01FbU1WbmFONTJuUkxuYUo4SlY0OF9Va2lfSEk?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-19T00:15:00+00:00"
+      "t": "코스피 급락에 매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWNEl2RlUyZ1BJR2ZPZ0pmanN0T09lZzhiZXhJeTFYN1ExamVKaGpkUk1ienFJQzRxY09XX0lkTDJKS1RrTVY1S1pWNVgxZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-19T00:28:10+00:00"
+    },
+    {
+      "t": "기술적 반등 끝났나…美 장기물 5.3% 돌파에 '삼전닉스' 7~9%대 폭락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EOUw2RXdrZkpBbTY0VTczS0YtYmprd2pCNVkteXNweFZ2VFE3WTZGdWtYdFhPWTAyczdpb2VOQzRDN3BXZzJhR1hPZFZ5dDBHTG1HQkNxSk1sQ19nRWtfUnkzcmhiOHhCVVlnUENwYjFrQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T00:27:51+00:00"
+    },
+    {
+      "t": "[속보]코스피, 美 하락 여파에 장초반 매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84dFItaVdnRlNFX29XdUpSRUhYSzgzREMxTlpRZVl1bHU2aU5jNHQ2MWdNcnBYVFRvRTRveU9PdzBaYVZyLTJNQlVmT0c1WVB6?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-19T00:27:44+00:00"
+    },
+    {
+      "t": "iM증권 “한은, 8월 금통위서 기준금리 추가 인상 전망...기조적 물가 압력 여전” [오늘 나온 보고서]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UeE1zc2RVOE9KYkxIZmVKRmFsejFWdms1czVIX3BDdWpqeFFjSEZIYTVnNjRFV2pFNUh0eDNVWHdzbTRBOTBLVl9LWlZHMWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T00:27:04+00:00"
     }
   ],
   "asof": {},
