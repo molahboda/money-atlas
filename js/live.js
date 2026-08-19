@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T04:00:15+00:00",
-  "quotesAt": "2026-08-19T04:00:15+00:00",
-  "newsAt": "2026-08-19T04:00:15+00:00",
+  "fetchedAt": "2026-08-19T04:15:15+00:00",
+  "quotesAt": "2026-08-19T04:15:15+00:00",
+  "newsAt": "2026-08-19T04:15:15+00:00",
   "quotes": {
-    "kospi": 6495.73,
+    "kospi": 6489.48,
     "spx": 7691.76,
-    "nikkei": 65698.65,
+    "nikkei": 65663.35,
     "vix": 15.84,
-    "krw": 1399.78,
-    "gold": 4411.6,
-    "wti": 84.71,
-    "dxy": 99.58
+    "krw": 1400.14,
+    "gold": 4407.6,
+    "wti": 84.74,
+    "dxy": 99.59
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -6.91,
-    "nikkei": -2.61,
-    "krw": -1.06,
-    "dxy": -0.07,
-    "gold": 1.04,
-    "wti": -0.27,
+    "kospi": -7,
+    "nikkei": -2.66,
+    "krw": -1.03,
+    "dxy": -0.06,
+    "gold": 0.95,
+    "wti": -0.24,
     "vix": 4.28
   },
   "news": [
     {
+      "t": "'칠천피' 이틀 만에 7% 증발…금리,유가,일본발 압력이 눌렀다",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oSUkyM0tFRUFuVHdNUC0zSXRJTmw5ZVZ3bkd3M2RxRnJKOUtOSVlqUVByU1NVRG5ZaVpDTXhEaGMyX1FIb1BSLXNDSHpDclhCblRBdGNscTlhRWYxN1puTTh6LXNIZw?oc=5",
+      "s": "이로운넷",
+      "d": "2026-08-19T04:08:10+00:00"
+    },
+    {
+      "t": "19년 만에 최고 찍은 '美 국채금리'...왜 우리 주식까지 흔들었나",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CSjh3N1pRLUt3SnRQcDJ0UndUbUFqRVBzSFQ3RDJ1bDc2X0VlQ0pLX0hfMU1yQjYtYVlfUnRQNUJxazJ3UWxFVEJPV19IdDhRQTRzNmJGWEhhVDlyRFE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-19T04:04:00+00:00"
+    },
+    {
+      "t": "[속보]원·달러 환율, 약 10개월 만에 1,300원대로 하락",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5UTRuVzdWa1Z6UzBPR1k5Q2Jic2FHR3JFNkVBRU44WF94eHQ0VUxTbkdwWEFYaThBYlFwZEU1Q01qc1BMSThLbTRsS0tUWmh1SV8yN3BwS2ZYVVlGV1JOM3V3?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-08-19T04:03:00+00:00"
+    },
+    {
       "t": "유가 91달러, 가계빚 2000조원…8월 금통위의 선택은?",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtZ0pFYnZ4by1jSkRMZzFDYnhkYVZTcGJ6b2JmY3Z0ckZnSWhRcXpVbmhyZUtZWmdsdzZLci1uMnJ6Y2Y5aE03czhUSFZmVnk2MF9OT2c0S081ajdLZjR3RlQ2dWJHWExuUVRrNmkxTHRxdzNz?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kSTloV0ZRZGdkZmFiZGVhd1d3TXFZWHlST0w4YnRqUDk4UVFDQ0pvX3NGYUZlZ3BVR2F5Mm5IV2JXbDBIWEF4Yl9iNTdYSmNBRGtCQXBBMEFNOVlQemJkVGRVOXhyTzl0cm5GSjNBYw?oc=5",
       "s": "조세일보",
       "d": "2026-08-19T03:52:36+00:00"
+    },
+    {
+      "t": "ING, 글로벌 장기채 수익률 상승 주범은 '美실질금리'…분할매수 추천",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kM0ZRbVZWQ1ZMTjBLeDJpbGZ5d2pncWRLaVVxc2FyM193ZlNOSVNfVWhtTENvcjRsMno1bl91QlpKWkM2YWtQUUlMX2xScDBJeS01UDY2R0Q5bUFUYmxpUTZ5djRqbjd2bVFSZXZHVmg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T03:44:15+00:00"
     },
     {
       "t": "[속보] 원/달러 환율 1400원 붕괴…10개월 반 만에 1300원대 - 머니투데이",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T03:37:11+00:00"
     },
     {
-      "t": "반도체 날자 코스피 상장사 순익 4배…삼성전자, SK하이닉스가 65% 차지",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHlueEdkQkV1dWRxcVVZSkRRaWRmN1NZT0lDeUExeU9kd1RDa3VRdlpWc2pBNHJEVUpPWGo5WjBhMllkcXg1amkyanpXZmhGWFdJSGdhdDFNR1ctOU9fNUNjTEFVOTJieURqMmVFbXNsQkpOSFJnWVQ5ckJkRnJYYmhyYlZXeEpySGIw?oc=5",
-      "s": "chosun.com",
-      "d": "2026-08-19T03:31:00+00:00"
-    },
-    {
-      "t": "원·달러 환율, 10개월 반 만에 1300원 대로 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5URGlFRW0tekVoSkd5dE1LTWw0Vk9LdnRnQnhzd0FmNlRPLWlwUHdvQzlISG5KcjAyclphXzJUZlFJQ3NuanBFR3N3eVpSRzQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T03:27:00+00:00"
-    },
-    {
-      "t": "[속보]원·달러 환율, 10개월 반 만에 1300원 대로 하락",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVGFuanN0R21xUmFza0duZWFDdnJ5TkhpWkFOYUZoNGhWQzR6NEYwc0d2UzJOUThBRGhxZ1lPQUJ0aXk2ckNMLUpYMThMM3cwdzl2YVNrN0FXaFMtNWprR3U1MUVtMDhRSFJpQg?oc=5",
-      "s": "한경매거진&북",
-      "d": "2026-08-19T03:25:00+00:00"
-    },
-    {
-      "t": "美 금리 '충격'에‥코스피 매도 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56REg1Qm9KeEdvRFNWT21JOEQwZi1Cbm1BWUxmRkVQd0h2Yy0xcHotUkpsUG5zX1BSaVFRaHFINVl3cnpwY0I2NnN5aW5IYkk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T03:22:17+00:00"
-    },
-    {
-      "t": "KDI 올해 성장률 3.2%로 0.7%p 상향‥AI 반도체 호황 지속",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxbkZVZ2JzMHNSZEl1eUgtY0RoTDhVRVEySVRQeW54VzQ1M082NS1GbFB1LW9waktjSS1MSmZEMzJDU1NGXzNwZXNhWXpnQUk2THRjMF9kTjU5aEE?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T03:20:00+00:00"
+      "t": "미 장기 국채 금리 19년 만에 최고...트럼프 '비상'",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQUXRrSWdsWWo4VlRYbno5VHJwYUNZWkJxeFJYUnBGZUotcktISVRvQkR3eUprTnp3VTdoZVp1Tk0zZjF4ZC0zZWJuMVhWZ1FVa0pTYk5pN1VNdloxQng1ZFN6X3FNQ2pwMFBSbHlIS1lsMllHUWc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-19T03:37:00+00:00"
     }
   ],
   "asof": {},
