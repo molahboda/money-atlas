@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T05:00:15+00:00",
-  "quotesAt": "2026-08-19T05:00:15+00:00",
-  "newsAt": "2026-08-19T05:00:15+00:00",
+  "fetchedAt": "2026-08-19T05:15:15+00:00",
+  "quotesAt": "2026-08-19T05:15:15+00:00",
+  "newsAt": "2026-08-19T05:15:15+00:00",
   "quotes": {
-    "kospi": 6483.97,
+    "kospi": 6466.94,
     "spx": 7691.76,
-    "nikkei": 65212.45,
+    "nikkei": 65362.77,
     "vix": 15.84,
-    "krw": 1399.08,
-    "gold": 4399.3,
-    "wti": 84.69,
-    "dxy": 99.56
+    "krw": 1397.48,
+    "gold": 4400.6,
+    "wti": 84.6,
+    "dxy": 99.55
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -7.08,
-    "nikkei": -3.33,
-    "krw": -1.11,
-    "dxy": -0.09,
-    "gold": 0.76,
-    "wti": -0.29,
+    "kospi": -7.32,
+    "nikkei": -3.11,
+    "krw": -1.22,
+    "dxy": -0.1,
+    "gold": 0.79,
+    "wti": -0.4,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "환율, 10개월 반 만에 1300원대…美 금리인상 기대 약화·네고 출회",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yYXdDME52UDN6cU9VeWJDbjBXdjhFVVptRlhHZmNKejlnZ21mVzYtaDA1Nnl3VjB0ZlloZ3k1SzlwMF9SUERnYWg5eUNmRnFsMVNxdGNQRWVnQ091?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-19T05:07:00+00:00"
+    },
+    {
+      "t": "[도쿄환시] 달러-엔, 美 금리 조정 속 소폭 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ra2xsVGtBWGNTR2JwTVFxUTJrZWJob2EwYkZCeTJpOWdkcTRvSC1zZW1QbWZjYTBrNWhGTlhOZlE1ZzdBYlRzcTBmcVhhcjZYU0tBb2stUHdhVkcwU1F0djZqLUpMVDdTdURMR2NVdU5DQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T05:06:37+00:00"
+    },
+    {
+      "t": "원/달러 환율 1,400원선 붕괴…10개월 반 만에 1,300원대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZVF2VXRRbURIN0s4TnRad1VNYVo2TzJTSDZlZEp2anBEZGptMUFBYUFhOE55U3JfT2g1Q2J3QUxNRC1zdmJiUzdPVXBrblZtSVdsa0JMa0wwN2QzclRVbXRmSE0wZkROUWxLT0NpT1_SAXRBVV95cUxOd0kxMjhGajJXeWJjZnluUWw3Z2VTZnUzYW5SUm5KUU9obVY1dXFDMXhTdHFoS3ppaWdYRVpiUG85Nm9DcWpYZXU1WEhOTzg2cXUxMW8wU2ZjSW5Ha0FOZjZLUENNWG5MckVUWEphYkQ3aUEwSg?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-19T04:50:55+00:00"
+    },
     {
       "t": "(설명) 정부는 환경영향평가를 통해 호남권 반도체 산업단지가 장록습지에 미치는 영향을 심도있게 검토할 예정임",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzdlcy1pY2tSaTR3U2dGOUR5TkRnTFNRMDMwM0o2endVUGhtclZFd3Y1THk2WW1NU2NCV2hLcTRSWlFnR3RkekJJVmszNGprZlFzOEZCOHItSFBzZHN4TWxOcml3a3dkYTNGMlh3WFduOHVtRmF5RURaUjltcEVqVWh5ZU84YkpybHhzX3Z0Zw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
       "s": "zdnet.co.kr",
       "d": "2026-08-19T04:40:58+00:00"
-    },
-    {
-      "t": "법원 \"1980년대 해직 언론인 생활지원금, 물가상승률 반영해야\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BMFFyNnBXbW9iRldiUGluWlZyUHFjRlJ1UEkwakRIblBHdmZtR2RkeUFlQzNZZHFjYmx2YnFDQ0htRWR2elZfNXZsakxXQWp1ejhHZHg0M3hILUnSAWBBVV95cUxPX0ZzeTRRRC10bWdXUGhrX0hCNXVZR09EUWRFTEU1dFFqay1oazJKc3Y2ckE2VW9IOEwxZ2psNU02UnkwUnhMU3ZNNW5QTE9NOGlIQlhTNGs2NnlxNUhFM1Y?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-19T04:40:06+00:00"
-    },
-    {
-      "t": "美 증시 경계론 확산…\"채권이 위기 먼저 안다\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rUzZEMDlXQno1QVJPWXhHZloydkp5SnpiUVJIRjVzLWpjS3JBc09nbV8xVjJjMFJPV1VNaEhWY0xJQWJVeGVsNndKTERReXhCVVRnTXJrU1BoWmZZelViY2xfWHcyZ3YwcmNpWnc5RDZtQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-19T04:37:43+00:00"
-    },
-    {
-      "t": "호주중앙은행, 인플레 위험 현실화 시 금리 재인상 시사",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03dUlmYUIxcVQzeTdLVFV0T3JIN1ZqVFNqeUlKN0RYSWNydVg5LUNZOEJVVFB0NS1TYUFOX1I4UWdCUGRlQ3pkLVEyajR6R3hITmFEVDJBX2N1a3JEQkoyLW5UNmh5NVRkMFJTNzlhVEVaVmd5ZlFn?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-19T04:36:00+00:00"
     }
   ],
   "asof": {},
