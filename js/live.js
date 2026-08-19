@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T02:30:15+00:00",
-  "quotesAt": "2026-08-19T02:30:15+00:00",
-  "newsAt": "2026-08-19T02:30:15+00:00",
+  "fetchedAt": "2026-08-19T02:45:15+00:00",
+  "quotesAt": "2026-08-19T02:45:15+00:00",
+  "newsAt": "2026-08-19T02:45:15+00:00",
   "quotes": {
-    "kospi": 6492.91,
+    "kospi": 6506.8,
     "spx": 7691.76,
-    "nikkei": 65671.05,
+    "nikkei": 65724.25,
     "vix": 15.84,
-    "krw": 1405.88,
-    "gold": 4412.9,
-    "wti": 84.91,
-    "dxy": 99.58
+    "krw": 1400.56,
+    "gold": 4410.7,
+    "wti": 84.92,
+    "dxy": 99.59
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -6.95,
-    "nikkei": -2.65,
-    "krw": -0.63,
-    "dxy": -0.06,
-    "gold": -0.11,
-    "wti": 0.49,
+    "kospi": -6.75,
+    "nikkei": -2.57,
+    "krw": -1,
+    "dxy": -0.05,
+    "gold": -0.16,
+    "wti": 0.5,
     "vix": 4.28
   },
   "news": [
+    {
+      "t": "美 장기금리 급등에 코스피 폭락과 용산 청년주택 검토까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkY4QTI0YmNBMVhaVjNYdDJpX1Q2aGRyVDFwdV83dURjR0hDYXdvalI2RWwyY3lodWFjdTRsck5jazdubG5ZVGw5Qzh6MDcwQTQxVGdXNHlzWGVRQnp1ek92czdEMm5uTGVyQUV5c2zSAXRBVV95cUxOVkZUd29UN2NNR0psZkMxSjJPekZla283SF9NNVN3OU1ueWlVYll2b3c1R2Q4NlAzdFlRZGFwTUo1T00zZDFlbnlsSXREenJmajVvcDU5b292ajhKNXh6aFBVV09ycmhBS2VpRXdXdmlHQ2RURw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T02:38:49+00:00"
+    },
+    {
+      "t": "인텔과 호남반도체… 판이한 정부 역할[유회경의 시론]",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xeTdmS3hsNUJGZVJQc25KNk5HdjM5alE1Skx5eVRrWnZWbTJWS0hyU0JhRC1hV1VJYk91OVZnTjVXa2FOZjJTRjVZNzF2aUhZ?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-19T02:37:24+00:00"
+    },
+    {
+      "t": "주요국 국채 금리 급등 여파에 코스피 급락…외국인 순매도",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNd29hMW9lU3hQTlpLOWJQcHJnUlFUTm9kYmdWMm9SUm12X1dDWVFKT3JiRVJVV3BqT3YzVFc0R3FzYWxyWUFaNnRiRFNrTlNZTDc1c3AtZUVxeHM?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T02:35:00+00:00"
+    },
+    {
+      "t": "출발증시 2부",
+      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2drbkpHenVKWlNDclBIcWE2M1hSQnhyS3RSYnhtci1OaXBfUklCYVBNakRmbF8tME40U3NLcHA1SExVM0hFUEVKS2F0MVlrb3FqZkxsVEZwNXNtZ3V6RXQ3WGlicXBPMWlEQ0tMM1ZoTnhDc3hWQ3lTRXZaNlpsRy0ya0paWE9kamhUSndHbkJUei1BQjFnWU51U29YeXVyLU0w?oc=5",
+      "s": "한국경제TV",
+      "d": "2026-08-19T02:29:35+00:00"
+    },
+    {
+      "t": "美 국채금리 부담에 외국인·기관 ‘팔자’…코스피 6500선 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOG5jZjdicTFGWGNIY2paSURJTTZKUTFkVlBJWFRoenVhN1ZQeWk2OW55RVhMVWJsRTJVT051WUxqNnJ3dFVUMzhyOWs4LVdMVkNUc1E1c2RFZGJUU3FLcTVfdmREWWNVcWNlQlNmVUZLMGdXZGlhTFBBbW1CQjNHejlPZkwxamwz0gGcAUFVX3lxTE5PNDJONmczTmpVQTFWcmRwVFY2UGl3U19DRVdMVUlVUHBCbFZlclh3NXdQX1lJNGt3R2tBNDU4TEhXUWNpcjNoSmZTeEN3czVEWFFwVzh0bHV3eUxpcHl5dC1rcS15cENqNXFUU0Q2ZnNzMElIUWlvSGlXYUpwWFkzM0ZFRFZoa3dRdm9waWZtd0xMRnYwTndhTkhsTg?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-19T02:26:00+00:00"
+    },
     {
       "t": "[속보] 트럼프 “캐나다 ’50% 관세’ 사흘간 유예“",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xYUZMWktqN1FCdEJrSTktQWpQUmRwZDFRUmw3U3c0NDRrUTdXRElOM3c1NzZ3b3Qyb29PaFo5cmZ2WTZ6eDhzOGhqTzRXZTdMOUJPeVA1TGtQbXdjS1RKaXBPX1RBOXc?oc=5",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T02:23:00+00:00"
     },
     {
-      "t": "월가 \"美 30년물 국채, 벼랑 끝으로 달리는 상황\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE84Si1oUEFJalBHU3A4Yk8yNVRSY0FvVXBrYV9DMmctVTNacXFZZ0dBb1pYYTdreEJ1RlVWcEx6enBUdkwxWHFWTnR2RUdNN1NRdzh4dFFVdEZKbEd5Nml4ZlJLM1ZiN1VSME1HVVVySVo5QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-19T02:13:53+00:00"
-    },
-    {
-      "t": "美국채 단기금리↓장기금리↑…트위스트 스티프닝[경제키워드] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWSWkyOFByLUhwRmwzdzlpMXAyXzYtQ2lURTR2cC1LbnNxYmthaG56bGlMUFBaSjhSSUJ5STREYTF4V0VWUklNSEVBd3hNZV8zNEd6Rzh4VE1zakFKQ3I1akltc3BfeWlY0gFuQVVfeXFMTUN6WlNhUHJJdUliWWYxck1scFBZRmlfWkk1Ym9QZ2tPa3RUU2pnbm55UEhiVWRwRTJCZC1fbUw3TU9scEdXLUJVLWMwd29aamFTdEtmbnI1SnV4d1FKUk5rTndVNWdqY3FvMU42NXc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-19T02:12:40+00:00"
-    },
-    {
-      "t": "민형배 \"반도체 생태계 동서부권 확장\"…통합시 현안구상 구체화",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBZ3EtNFlfcnBqR0J3RTVZcWl0eTlPZ0NVRTBjQktjZzJaM0ZMVG1OMWZVUzBVSmd1MzF1dWp6a2U4b0ZwWjNmcU9JSkYyNURCb2FoRE5pOUlsdnPSAWBBVV95cUxPYUgwX3ZyX2hNbXRVb2x0a1pDNXJkRzFvNkF4NE51M2pSUFhpYno2X0F3R0xQMktyNlZITVJJOGI3RVhSU2k2cGdxRzNwbVUtTjhTVHFMaU5JSHlkNFRJTjM?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-19T02:12:02+00:00"
-    },
-    {
-      "t": "한성크린텍, SK하이닉스서 307억 규모 수주…반도체 CAPA 확대 수혜 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04cjN6d2lTc0lEeHNadGJ5VHlqdlE0WkUxN3dzaHE4VmNiR0RFcW5Yc0dQaGpJMll0V25UMjN6dmNpM1J6NnZyNm9rNHR6WUxfc2M0ZHRYbkRiYnM3ZE9seXVsN01jZHA00gFuQVVfeXFMUDRmeVd1VUg0T3d5LVBPYVYzd1RVYlNuOHQ3X2drTlRQb0Z5OE1NV0Z6WGswTzhCRzhwVkUxWm02cnRlNVIwYnktNXRjVElfRDhReG5xYmtudy01T25xQXZGUS1sdl9SWjZfdUcxWFE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-19T02:11:16+00:00"
-    },
-    {
-      "t": "속보 코스피, 6%대 급락에 매도 사이드카 발동 By 투데이코리아",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91dWJMVS1nSjh2Umw3UGNLRUtGMEdHamtjOXZ3WF9icVZfcTNvdjQzamszLTFiYUhDTHJOSDZqQVFobXVGX3pIZ1R3VVRxZXg1bDZiRFdKV1NGV2hRQ3RwdjU3Z3B2YWZBSGdUNVhLMXM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-19T02:11:00+00:00"
-    },
-    {
-      "t": "레버리지 지나가니 미국발 금리 급등…코스피 매도 사이드카 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mbG4yaVozc1V6TEZkTnAxZjFocTF5OU1kQmozWWlqT25pdHpjeFV6c3RIX3NpdEcxSmFObnZsbC0wRmpOV1R2Q1UxdVc4ZDhvTjBHRUV6UVZmVDZsYWZzMUNUM0lDdEtj0gFuQVVfeXFMT01DaGdEckdmUmh2U2FaVEVGWlRUTFZxbHo5S2txaTNPQ2JDdFhKZXJoX2ZtLVd6V05uWXNoVGVZbkU0Vi1BMEZfdTdJQWpsSnZtVTRVNXhmcGV4TXczWklERjNwZmhrc0NRdEx4QUE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-19T02:08:59+00:00"
+      "t": "코스피, 글로벌 고금리에 장중 5%대↓…삼전닉스 급락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55bFExMGFmblpJX3FMaEJhSm1rb0kweUJYTHNLWnJoWkVSQzBBNUhmTEI4aUNJM0hkYzFoeElfZ1hLVVMyNFBMclkzaGxETzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T02:22:39+00:00"
     }
   ],
   "asof": {},
