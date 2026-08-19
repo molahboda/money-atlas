@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T11:00:15+00:00",
-  "quotesAt": "2026-08-19T11:00:15+00:00",
-  "newsAt": "2026-08-19T11:00:15+00:00",
+  "fetchedAt": "2026-08-19T11:15:15+00:00",
+  "quotesAt": "2026-08-19T11:15:15+00:00",
+  "newsAt": "2026-08-19T11:15:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.81,
-    "krw": 1390.84,
-    "gold": 4423.4,
-    "wti": 84.89,
-    "dxy": 99.37
+    "vix": 15.82,
+    "krw": 1391.1,
+    "gold": 4425.6,
+    "wti": 84.9,
+    "dxy": 99.4
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.69,
-    "dxy": -0.29,
-    "gold": 1.31,
-    "wti": -0.06,
-    "vix": -0.19
+    "krw": -1.67,
+    "dxy": -0.25,
+    "gold": 1.37,
+    "wti": -0.05,
+    "vix": -0.13
   },
   "news": [
+    {
+      "t": "KDI, 성장률 3.2%로 상향…반도체 의존 우려(종합)",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUpZeExfOU9XVEtLSkhTZWN4Sm9CX2hMX1ZIZ1VVYkNTQlVkM2drM2l2TzFHR01aNTJLMnltZ1E1Tk80eEd2dFd1a2t6ODYxZ1VtSHprWThjM2pMVm5XUjZLTnRndHRjYzNub1dxbWt6aG9paVV5aFVFS2tSMmM2ekxyQk8xQjIxRjZBcEJ3?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-19T11:09:00+00:00"
+    },
     {
       "t": "글로벌 국채금리 급등…코스피 6400대 ‘폭삭’",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdCZnFCeHBlUmZBaWJmdWtnWkxwb09fLVN5RUdLbzV0UTMyMXBpYUVhZDg1SW1UV0xwenNmbktJd2Nfb2VRMWN4bUl2U1JqQ0lyRWFDemRKU3JmZFNiaFNTRVpvVmllcXV2QzJWNHZzUUtrWHJVNjUxLXVCVzhTSWJKbG9COG4tLW80?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOUMwdVlxSHRmeGN3MDdZRjd1T2NqUlFVaThtcDBEZk1WaXNHY2VFemk0V0xUd2wyaG92bldka093Rlo4emM0NTVMVWpPcU0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T09:44:37+00:00"
-    },
-    {
-      "t": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-19T09:42:00+00:00"
     }
   ],
   "asof": {},
