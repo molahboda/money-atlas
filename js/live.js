@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T14:00:15+00:00",
-  "quotesAt": "2026-08-19T14:00:15+00:00",
-  "newsAt": "2026-08-19T14:00:15+00:00",
+  "fetchedAt": "2026-08-19T14:15:15+00:00",
+  "quotesAt": "2026-08-19T14:15:15+00:00",
+  "newsAt": "2026-08-19T14:15:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7720.96,
+    "spx": 7708.54,
     "nikkei": 65326.42,
-    "vix": 15.32,
-    "krw": 1387.28,
-    "gold": 4508.6,
-    "wti": 84.58,
-    "dxy": 98.98
+    "vix": 15.29,
+    "krw": 1386.82,
+    "gold": 4520.7,
+    "wti": 84.46,
+    "dxy": 98.93
   },
   "daily": {
-    "spx": -0.31,
+    "spx": -0.47,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.94,
-    "dxy": -0.68,
-    "gold": 3.27,
-    "wti": -0.42,
-    "vix": -3.28
+    "krw": -1.97,
+    "dxy": -0.73,
+    "gold": 3.54,
+    "wti": -0.57,
+    "vix": -3.47
   },
   "news": [
+    {
+      "t": "美 재무부 '장기채 바이백 2배' 확대...'금리 급락·주가 선물 일제 상승'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jd09kSXhfNzJTcV8yczNSd1d2UEdWVS1abXZvUWR0UVo2cGVkZ2FRX3JGMlVlWThXaldodFhaOEcxY1ZFbGNnRWplQ0hmWHRKaFpfUEc1QjRJbnRS?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-19T13:27:00+00:00"
+    },
     {
       "t": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXUjdwUUVyY2dqQzJwa2hNVW9ET0IzMHRSSTRTY28xczMyVVk3Uk90SXpyQzFpMWUyQUJ5UFBoSlZxWHg1ZWRxYW9hMlhYclF3azdhZ21Iczh4Snp6X0E?oc=5",
@@ -47,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-19T12:45:49+00:00"
-    },
-    {
-      "t": "“용인 반도체 산단 백지화”…전국 돌고 청와대로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HeGx3VFJOVDIxc3RNb3liVEQ2RlV2TkVvd3lrRDhwZFNwU2tVTkotY1VLRUd6VkpZcDBxRTVLWjI1RFk5NEpISGRHYlFrdVdMdU9OLXFpbnloVVk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T12:40:00+00:00"
     },
     {
       "t": "뱅크오브아메리카, 반도체·중남미 기술 뱅커 2명 추가 영입",
