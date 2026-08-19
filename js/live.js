@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T08:15:15+00:00",
-  "quotesAt": "2026-08-19T08:15:15+00:00",
-  "newsAt": "2026-08-19T08:15:15+00:00",
+  "fetchedAt": "2026-08-19T08:30:15+00:00",
+  "quotesAt": "2026-08-19T08:30:15+00:00",
+  "newsAt": "2026-08-19T08:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.85,
-    "krw": 1393.33,
-    "gold": 4410.9,
-    "wti": 84.62,
-    "dxy": 99.46
+    "vix": 15.82,
+    "krw": 1394.51,
+    "gold": 4413.6,
+    "wti": 84.68,
+    "dxy": 99.41
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.51,
-    "dxy": -0.19,
-    "gold": 1.03,
-    "wti": -0.38,
-    "vix": 0.06
+    "krw": -1.43,
+    "dxy": -0.24,
+    "gold": 1.09,
+    "wti": -0.31,
+    "vix": -0.13
   },
   "news": [
+    {
+      "t": "“달러 환전 미룰 걸 그랬나”... 환율, 10개월 만에 1300원대 진입",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82YVNnZ2hVTE91d2ZoYXVwR0cwaHA3QkRmNjU1ZEpKQzJwaXE0aW95VGM1enFLQVFVTVZJUl9BVnpoNWcwOF9Dc1Q0VXJrMmJkcmFwdm5kNzJ0SFk4Q2RDZlR5MA?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-19T08:17:17+00:00"
+    },
+    {
+      "t": "코스피 5.8% 급락…원·달러 환율, 10개월여 만에 1,300원 대로",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZXNHdnZETVBlSVlsd3NXVHFNcUZ5Um1JV2VFLVY1V0VlWm1lZWJNOFh4MnJHdm1PZFFJcHoyT0pJdVhxcjZkVmNia3hTenNyVzB6N3c3d0lzTmM?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T08:14:00+00:00"
+    },
+    {
+      "t": "환율 다시 1300원대로…10개월 반 만에 내려와",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iMXBtU2NrQzNPVU1vS0tob0ZBMEJiUVYzYms2bjF1LXlSREFaVDQxYkFaN2RySDl4dUdmZV9vMGEyZXNfbFg3SEdqbWxBSXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T08:13:03+00:00"
+    },
     {
       "t": "원·달러 환율, 드디어 1300원 대로…10개월 만에 1397.7원 마감",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMNUhlYy1IcnZnY0pyQlpPUUdZZDdrYU83cUhkOERMVGtrV1NPN1RMMS1OVHltaWlpTW5xeW5tMmFyajJnVERQNVk1eGNWb2Mta3dTeG93ZFpQRDVTQ05aVDlERnVzZE9XSy1Kc0VrbHRJUQ?oc=5",
@@ -62,27 +80,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "'너무 올랐나' 국고채 금리 일제히 하락…3년물 연 3.798%(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRG1ucGJ3UFBEUVVJam9kOExBc0ZHalYwOFNJcEE4SUxSYTlXb01FNG9XanpUMFVlb2hZZm50RzY2RzhDMXNZMFhLSDBVWG04MkJiVXZIQXlKa2M?oc=5",
-      "s": "연합뉴스",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56enhhLUEtMXg1U1RmZWlLZGotNndibkc3bUJELW1UVl82MHFhM19id0JEY2paSE12SVo0WWZYNUVqc1V5aDFleEZBYnRnanl4emc?oc=5",
+      "s": "매일경제 마켓",
       "d": "2026-08-19T07:57:35+00:00"
-    },
-    {
-      "t": "다카이치 재정확대 우려, 日 국채금리 추가 상승 부추길까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MT1FubVZjQmhhYkdMNF80MWJRR3FRWE5oWkg2UGNKcW9xLXhQWmt4WGx0SC1vVTRKVVl5cEdrLWFTZ2x5cjlEUEZxcTdOaDFvV2JhaGVVeFlrMUliTkNpVDNaQmw3dFFQdVNJUnE5WWU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T07:53:32+00:00"
-    },
-    {
-      "t": "원·달러 환율, 11개월 만에 '마의 1400원' 깨져 (상보)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ST1RlcmpuTjh3WFN3Rk13bHVCQXZpR2hQNGM4ZDhYek02dzc2N29rTmhoOG5zTzRZdWxlbUVVNENYb0xrcDZmY29NQ1ltRUNXVzNoSFJYdG5VUWZKVmlRUg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-19T07:52:53+00:00"
-    },
-    {
-      "t": "[뉴욕증시 전략] 美 국채쇼크에 넘어진 뉴욕증시…SOX 5%대 급락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZdXE5SjBTS2JVTU5VMlpIcURaUW5iZERkYkEzQURkUGZLSlYwdEdpVm9KNjVFMmZ2TjliaWVxbDltN0xSQnhXU1lnOGhrNDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T07:52:08+00:00"
     }
   ],
   "asof": {},
