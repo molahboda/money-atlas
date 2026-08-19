@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T14:15:15+00:00",
-  "quotesAt": "2026-08-19T14:15:15+00:00",
-  "newsAt": "2026-08-19T14:15:15+00:00",
+  "fetchedAt": "2026-08-19T14:30:15+00:00",
+  "quotesAt": "2026-08-19T14:30:15+00:00",
+  "newsAt": "2026-08-19T14:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7708.54,
+    "spx": 7719.06,
     "nikkei": 65326.42,
-    "vix": 15.29,
-    "krw": 1386.82,
-    "gold": 4520.7,
-    "wti": 84.46,
-    "dxy": 98.93
+    "vix": 15.4,
+    "krw": 1386.6,
+    "gold": 4531.9,
+    "wti": 84.67,
+    "dxy": 98.87
   },
   "daily": {
-    "spx": -0.47,
+    "spx": -0.34,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.97,
-    "dxy": -0.73,
-    "gold": 3.54,
-    "wti": -0.57,
-    "vix": -3.47
+    "krw": -1.99,
+    "dxy": -0.78,
+    "gold": 3.8,
+    "wti": -0.32,
+    "vix": -2.78
   },
   "news": [
+    {
+      "t": "뉴욕증시, 美 재무부 '기습 바이백'에 화색…강세 출발",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80aU9EeWozZ3g2ZktTSHl2bUM1LW5DMVBsQWFvSTMwWTZqcGktcF9GY3NKQ2kzRnV4bVA4NjNrbE85X3BHSFlWa0ZVdWlBaDFLeExCX2N4dDhqVDjSAWBBVV95cUxObXhrUF9BZ1NzTVM3c1dtOGt1M1lnNGs5RnlIQnMtQjVjZzFMb0Vhb3hWRkJsU0hIdmxkMGJ6UFU1d0hLZHZMVDFqVTZEOW5LUGdGOF9DRl9PTWd0M0g5bGk?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-19T14:14:22+00:00"
+    },
+    {
+      "t": "미 달러화 약세…유로·파운드 강세 속 美 국채 금리 진정",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRNWpnU0JsUi1CQ2MxX1FvamFfU1pNUzJGQUNxYUZTQk1VajQtWlItT3F6b0pGSWNDQjlUVUQ2X2JZY0RKOXdneGhmRjdoQWk0emJyMUhjN2J3bFFRaXFfX3U0aE9RVERjZWFVMFJJMy0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-19T14:13:29+00:00"
+    },
     {
       "t": "美 재무부 '장기채 바이백 2배' 확대...'금리 급락·주가 선물 일제 상승'",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jd09kSXhfNzJTcV8yczNSd1d2UEdWVS1abXZvUWR0UVo2cGVkZ2FRX3JGMlVlWThXaldodFhaOEcxY1ZFbGNnRWplQ0hmWHRKaFpfUEc1QjRJbnRS?oc=5",
@@ -31,9 +43,9 @@ window.LIVE_DATA = {
       "d": "2026-08-19T13:27:00+00:00"
     },
     {
-      "t": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXUjdwUUVyY2dqQzJwa2hNVW9ET0IzMHRSSTRTY28xczMyVVk3Uk90SXpyQzFpMWUyQUJ5UFBoSlZxWHg1ZWRxYW9hMlhYclF3azdhZ21Iczh4Snp6X0E?oc=5",
-      "s": "ytn.co.kr",
+      "t": "[경제]코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vc2pmcnhLdHhqYVlHZXg2M1p0QTJ5TWYtczI0OG9CTGZ2RTJVZktNUFQ4NVRLM2U1ekpiR2Y5ZGVFMmMwY3VYdngxeHoxMk9iTEh3TWVIamJKS0djT1hGc2J5V1R6dXFKUHB4Vjh2UQ?oc=5",
+      "s": "YTN",
       "d": "2026-08-19T12:54:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNzFOQ3hWTDhnN2NhSTMtWFFHVDZkemNuNmJVTjZpcFFIbGpka3JzS3NISWJBRGFyOWhiTG91bC1GOXZOaFp6R0xzLVNrUkJjNXd6UV9hMnpiazA?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-19T12:27:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 유가·금리 부담에 주가 선물 혼조…모더나 100% 가까이 폭등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05YU5yblJQQ3B1VFM2dXA2aF9hMVlPN3RjbTRSUHR2czZmVFZyXzJCZzFaaVo1NEJnZFN1Z0tzd3pnTVRnUjRGaVlCaFBKY1cwbVBybi1IRnpLbE8t?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-19T12:27:00+00:00"
-    },
-    {
-      "t": "미 달러화 약세…유로·파운드 강세 속 美 국채 금리 진정",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IWGJiM19qaGlpTzZjNGY4a25qS1RUTERfWHZWbF96aS1TeHFiS2FUQkZKNkc0MzYzVzE3Y1ZGRENwaGxRYldhQm1LRm1fU25yOUc4aTZFNTUxSEFqVlUxaUxkNlM3UWV3NHBPb0pTd3YtUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-19T12:13:28+00:00"
     }
   ],
   "asof": {},
