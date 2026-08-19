@@ -1,32 +1,50 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T15:45:15+00:00",
-  "quotesAt": "2026-08-19T15:45:15+00:00",
-  "newsAt": "2026-08-19T15:45:15+00:00",
+  "fetchedAt": "2026-08-19T16:00:15+00:00",
+  "quotesAt": "2026-08-19T16:00:15+00:00",
+  "newsAt": "2026-08-19T16:00:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7724.45,
+    "spx": 7725.36,
     "nikkei": 65326.42,
-    "vix": 15.18,
-    "krw": 1388.68,
-    "gold": 4543.5,
-    "wti": 85.3,
+    "vix": 15.22,
+    "krw": 1388.32,
+    "gold": 4547.4,
+    "wti": 85.29,
     "dxy": 98.91
   },
   "daily": {
-    "spx": -0.27,
+    "spx": -0.25,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.84,
+    "krw": -1.87,
     "dxy": -0.74,
-    "gold": 4.07,
-    "wti": 0.42,
-    "vix": -4.17
+    "gold": 4.15,
+    "wti": 0.41,
+    "vix": -3.91
   },
   "news": [
     {
+      "t": "美재무부 '장기채 바이백 2배'에 금리 급락…고금리 전망은 지속",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVXp2b2JMb1EzUG8tNjN6aUdIeWY0S25hQXVUZmcwMzdkWHFxT2RRRE82YmUwdW9OTmFYRmJtSEg3S091cVZCLVNiRnZnODA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T15:45:51+00:00"
+    },
+    {
+      "t": "트럼프 대통령, 캐나다산 제품에 대한 50% 관세 부과 사흘간 유예",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVUVgtOF9Jbndpdzh2S19hcFlzRDVybkhsRXNnWVZ3Q28zWnRqNXFpZkh0aHVNZGRpQnFxc3d6dWtFSVNHWWk5b2RTeWctOVUxWmRrVVpuZWtvVjFsQk5zcEpELTZ6V1RBaFBaYzJXb9IBckFVX3lxTE9nbWJuRDFteEpwWlEzVkJrNGktT2lEOEN6akxCRTFyWmNnbWFOamRNbzFPblllcW1YZE1zeXNCOEFyemN5SEl3OXplNHR6dnpmOUl0emFSeUxYS3lVc1NZS2JpSFlydERCT2J6dlN6dk85dw?oc=5",
+      "s": "voakorea.com",
+      "d": "2026-08-19T15:41:09+00:00"
+    },
+    {
       "t": "삼전닉스 외 상반기 코스피 상장사 영업익 75% 증가 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUtMdzEzWG1NaHloQ3VLMmc3WmFaVEw0YjNtRkdnYmdHaEtRaURQX3F4c01zNldJeGU3N0tHVGxFU0hYeGh5Q1dIeTAwNFVzVXA4Z2p6cnJBYmFPRWtPVWZodDFVWmwtdVRJbVlmOURsUFlMOHo5M3MxUTZnTU15RzdNaW9jRk9C0gGcAUFVX3lxTE9hRjcxM2pJcGJzSkRkNnVjTDNnUkN4dlltUXJGalpIdXdtODNGZTg2aXNDZUJzRG05MWRSSkt3YTZhRzNiSWhLTkFkMFN4M1NhZWZ1eEdvd1lGUi1adDBEbnZVUWU4UFJhdHYxQXJZdTlud3lhTGp3aTZrd3dfa01BaTVGZ2lza2tTSnE4NmN5LTlvXzU2dGZLS193Tw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-19T15:36:00+00:00"
+    },
+    {
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 19일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVlWbHRkWEd3YUdkQURNYS1GYXlqQzN4Y1VaMlRCVUFVTWdTdEc5NktrcUVoSHJyQkVIUW5tNDFZYTBJSjNyOGlaMzhiYV9kYnZCLWtQUzlWUTV4UGMwRktaclNwWUVjVTJPU192bDJyRzk2QVFsTEVDRklFb0NNdmlfUU5fWThy0gGcAUFVX3lxTFBNQmdoVDNNU3cwd2w0UWROb2lLSFJXRFBQV2FIenNzVnlYcUFwV3puOF9fbUlHeGRtWkI3N0NYVXR3VzRxcVJudmFjbUpuVGpQSkNTdEZjWV9TSU8wajk0ZWZ3RVJqWDVTMC1wbmg0Ykd6NzRvU21aOWtvNlFUZjdOX3hhbnBDOE9YbXZueXhNcHQxSF9BUlhlYVNQWQ?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-19T15:36:00+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRNWpnU0JsUi1CQ2MxX1FvamFfU1pNUzJGQUNxYUZTQk1VajQtWlItT3F6b0pGSWNDQjlUVUQ2X2JZY0RKOXdneGhmRjdoQWk0emJyMUhjN2J3bFFRaXFfX3U0aE9RVERjZWFVMFJJMy0?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-19T14:13:29+00:00"
-    },
-    {
-      "t": "美재무부 국채 금리 방어에…뉴욕 증시 반등 시도",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sM2ZiRUJTd2pfcUxldXRRNWVXTDhramlsMGFwZy1uZkl5Z1ZCdkNUckhMUG5qT2NEeFJaUURpdXY5WUdZSFZyODNFdWpVMXJsc1VTRXlkNGRCUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-19T14:11:16+00:00"
-    },
-    {
-      "t": "KDI, 올해 경제성장률 2.5%→3.2% 상향…반도체 호황 반영",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHV6dEJCZ0pybERDVHdUSEFNemNpdS0xX2hvaHgySmJjY3lrTEF0UzBuaW5qMVVCNmVqTWQ1TGpJN29GeTRkRkhTUzlmWjVEVU8xeHdXOGlnWlFINURUbndrYU1uOHZVTTl1ZkdvUWFJdVhTVmNiVm1Xa2VRdExkMC1UZnc2My1uSGc?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-08-19T14:02:21+00:00"
-    },
-    {
-      "t": "[경제]코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vc2pmcnhLdHhqYVlHZXg2M1p0QTJ5TWYtczI0OG9CTGZ2RTJVZktNUFQ4NVRLM2U1ekpiR2Y5ZGVFMmMwY3VYdngxeHoxMk9iTEh3TWVIamJKS0djT1hGc2J5V1R6dXFKUHB4Vjh2UQ?oc=5",
-      "s": "YTN",
-      "d": "2026-08-19T12:54:00+00:00"
     }
   ],
   "asof": {},
