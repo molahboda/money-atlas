@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T15:30:15+00:00",
-  "quotesAt": "2026-08-19T15:30:15+00:00",
-  "newsAt": "2026-08-19T15:30:15+00:00",
+  "fetchedAt": "2026-08-19T15:45:15+00:00",
+  "quotesAt": "2026-08-19T15:45:15+00:00",
+  "newsAt": "2026-08-19T15:45:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7731.07,
+    "spx": 7724.45,
     "nikkei": 65326.42,
-    "vix": 15.13,
-    "krw": 1389.97,
-    "gold": 4544.7,
-    "wti": 85.29,
-    "dxy": 98.92
+    "vix": 15.18,
+    "krw": 1388.68,
+    "gold": 4543.5,
+    "wti": 85.3,
+    "dxy": 98.91
   },
   "daily": {
-    "spx": -0.18,
+    "spx": -0.27,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.75,
+    "krw": -1.84,
     "dxy": -0.74,
-    "gold": 4.09,
-    "wti": 0.41,
-    "vix": -4.48
+    "gold": 4.07,
+    "wti": 0.42,
+    "vix": -4.17
   },
   "news": [
     {
+      "t": "삼전닉스 외 상반기 코스피 상장사 영업익 75% 증가 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUtMdzEzWG1NaHloQ3VLMmc3WmFaVEw0YjNtRkdnYmdHaEtRaURQX3F4c01zNldJeGU3N0tHVGxFU0hYeGh5Q1dIeTAwNFVzVXA4Z2p6cnJBYmFPRWtPVWZodDFVWmwtdVRJbVlmOURsUFlMOHo5M3MxUTZnTU15RzdNaW9jRk9C0gGcAUFVX3lxTE9hRjcxM2pJcGJzSkRkNnVjTDNnUkN4dlltUXJGalpIdXdtODNGZTg2aXNDZUJzRG05MWRSSkt3YTZhRzNiSWhLTkFkMFN4M1NhZWZ1eEdvd1lGUi1adDBEbnZVUWU4UFJhdHYxQXJZdTlud3lhTGp3aTZrd3dfa01BaTVGZ2lza2tTSnE4NmN5LTlvXzU2dGZLS193Tw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-19T15:36:00+00:00"
+    },
+    {
+      "t": "美국채 금리 상승세 '멈칫'…재무부 바이백 2배 확대 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4Si1GejFHNFZ2c0gxaFVLemlVSldyNDdkYm81RkZyYjhCNWVhZnQwODlqY0lseUFheGhPVVZ0WkRvTzRXRnc4ZlJWdVllUFhKbE5xNmplbDZvVDZjVUZwWHhVaTAtNm160gFuQVVfeXFMT1UwWFY0UUNrWFYyV1RkdWRlUllVRHQteVQ1Z2hNUnNpUmdpb05LTW1zdlZmMk1rQzZPMnZlamZrczFPamU3b2JqVkkwaXdwVDkyR1dsUjJPZGh4TkdqemNaWGpJQUQ4SWtqTWxBV3c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-19T15:23:52+00:00"
+    },
+    {
       "t": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZFVvU1pjVi1wM05pVFB3cU9KNXNxUmRySkxjUmZjUlNIejQ4QzFRRGNxNFdjS2dsb3RrU25pa05zSFQtY19JY2c1TUZMNkFHX2dDYThB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-19T15:21:01+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXcGdCQ2NFeXZQRFE1NWphaV90YVFSQl9DRzE1YktqVUV0UzE5V1JSNXZTSlpOZFlxZnBsNXNwTmRrRGJBSUg2NXZldTl3TEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T15:23:08+00:00"
     },
     {
       "t": "美 국채 바이백 확대에 뉴욕증시 상승 출발 - 조선비즈",
@@ -55,7 +67,7 @@ window.LIVE_DATA = {
       "d": "2026-08-19T14:13:29+00:00"
     },
     {
-      "t": "美재무부 국채 금리 방어에 뉴욕 증시 반등 시도",
+      "t": "美재무부 국채 금리 방어에…뉴욕 증시 반등 시도",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sM2ZiRUJTd2pfcUxldXRRNWVXTDhramlsMGFwZy1uZkl5Z1ZCdkNUckhMUG5qT2NEeFJaUURpdXY5WUdZSFZyODNFdWpVMXJsc1VTRXlkNGRCUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-19T14:11:16+00:00"
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vc2pmcnhLdHhqYVlHZXg2M1p0QTJ5TWYtczI0OG9CTGZ2RTJVZktNUFQ4NVRLM2U1ekpiR2Y5ZGVFMmMwY3VYdngxeHoxMk9iTEh3TWVIamJKS0djT1hGc2J5V1R6dXFKUHB4Vjh2UQ?oc=5",
       "s": "YTN",
       "d": "2026-08-19T12:54:00+00:00"
-    },
-    {
-      "t": "인하대 반도체·바이오 교육동 준공",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rU2tjS2tFU3VpY3JhemNJVkJ5R09CZlZOUk5oeGV0YzhnMWpRcEdPRHM0WU50dGlrb1hoUFZ3Tms2c21lRmljcDdBb255emFKMnhkanEyLThodGs?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-19T12:52:00+00:00"
-    },
-    {
-      "t": "美 국채 금리 4.7% 돌파… 글로벌 주식 황금기 끝났다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-19T12:45:49+00:00"
     }
   ],
   "asof": {},
