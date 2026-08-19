@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T11:45:15+00:00",
-  "quotesAt": "2026-08-19T11:45:15+00:00",
-  "newsAt": "2026-08-19T11:45:15+00:00",
+  "fetchedAt": "2026-08-19T12:00:15+00:00",
+  "quotesAt": "2026-08-19T12:00:15+00:00",
+  "newsAt": "2026-08-19T12:00:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.76,
-    "krw": 1391.87,
-    "gold": 4424.2,
-    "wti": 84.69,
-    "dxy": 99.4
+    "vix": 15.78,
+    "krw": 1392.18,
+    "gold": 4421.8,
+    "wti": 84.71,
+    "dxy": 99.41
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.62,
-    "dxy": -0.25,
-    "gold": 1.33,
-    "wti": -0.29,
-    "vix": -0.51
+    "krw": -1.59,
+    "dxy": -0.24,
+    "gold": 1.28,
+    "wti": -0.27,
+    "vix": -0.38
   },
   "news": [
+    {
+      "t": "트럼프, 캐나다 50% 관세 폭탄 \"3일 연기\"…자동차 관세가 현안",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmJvQkRyT21XYklHVEY3SHYxT3VJM090M1dmb1ZSQURyOTBBZm9JTE1kelhRaTM3bzZOaDR4SnBSRENFTUMxZkJuSkxlY19XRUxFcmlzT0ZSQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-19T11:39:00+00:00"
+    },
+    {
+      "t": "\"말도 안 되는 일\" 월가 경고…한국 증시 떠난 개미들 美 증시서 레버리지 베팅",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qX0ZyUk8zY3dPSGZwcHlyb3o1X2pJYWxxRGgySHJfTy0yR0czYUJ4VWJxTlVUSjhlQVhUeEhSZlNWcHJHeWYyVU8xcG1DM28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T11:37:49+00:00"
+    },
     {
       "t": "환율 11개월 만에 최저…1,300원대로 '뚝'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92UXlJRTZSUkVvRjdrbFJ6cmcwNS1TY0hNdEdray1kREpndVFOR3pfUkFURXc3ck1pRW8yQm9OWk9hZlcyZzVEYkZpRFdxc28?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T11:33:12+00:00"
+    },
+    {
+      "t": "국채금리에 휘청였던 코스피‥하이닉스 40조 자사주 소각에 반등하나?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VVXc0T29HWU4xeFlwX3lCWHo1R3BKMnZ4WEp2RGltMVZrVTVYVFlVWE9LNklzZUJNX0lpNjE4Z1hOVkVTTFZURzNMTU9TdDA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T11:16:09+00:00"
     },
     {
       "t": "[오건영의 경제읽기]미 국채 금리 고공행진의 이유",
@@ -37,9 +55,15 @@ window.LIVE_DATA = {
       "d": "2026-08-19T11:15:08+00:00"
     },
     {
+      "t": "KDI, 성장률 3.2%로 상향…반도체 의존 우려(종합)",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUpZeExfOU9XVEtLSkhTZWN4Sm9CX2hMX1ZIZ1VVYkNTQlVkM2drM2l2TzFHR01aNTJLMnltZ1E1Tk80eEd2dFd1a2t6ODYxZ1VtSHprWThjM2pMVm5XUjZLTnRndHRjYzNub1dxbWt6aG9paVV5aFVFS2tSMmM2ekxyQk8xQjIxRjZBcEJ3?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-19T11:09:00+00:00"
+    },
+    {
       "t": "[베트남 증시] 글로벌 투심 약화에 하락...유동성 부진·외국인 매도도 지속",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54N0F3N3hWbkllZ1djVnNjTEVsSmt1RDZiOEY1MThCSUpUQWgxeDRiYUxRMV9yR1pqeWMxZWIwTXkzREgxZVRuZUZVSkk1R1JRNnI0YldCVWd2Qzlq?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-08-19T10:41:00+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QMlEzanFtSE8tS1JVSVNuYlNhQzVlWDg0LTRDdHVMR3JFZXBUMTh1LUhGLTRXR0h6RHpRWFNLdUp0VnVLYVZkT3BWazZ4eUFjRW1YUkI1SG9VY0k?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-19T10:33:00+00:00"
-    },
-    {
-      "t": "트럼프,캐나다 50% 관세폭탄 \"3일 연기\"…자동차관세가 현안",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmJvQkRyT21XYklHVEY3SHYxT3VJM090M1dmb1ZSQURyOTBBZm9JTE1kelhRaTM3bzZOaDR4SnBSRENFTUMxZkJuSkxlY19XRUxFcmlzT0ZSQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-19T10:19:24+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 글로벌 금리 상승에 대체로 부진 |",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yb1BpZXNIcHdhYzNPWTVNY3o5TUdzdEhqekV3aDN4NE1PbTVfNl81NUtONzY5Y2pnVTlxbDlvRWxzUnZhRnY4Y2ktT25uMElRR2V4b1pGaFNueHVfUHZYaFFhNWxkYjNQalE4cXdZQjJMR1E1?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-19T10:17:02+00:00"
-    },
-    {
-      "t": "반도체 힘입어 코스피 상장사 매출 2000조 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sWmVTV1NOUUFHeF9zTXZpV2dwTGN0ZnlxNlQ0eVNBZjFKSjh6Z1ZQT2M2ZFNHdDBVQ3ZKMnM1TXY0WGF1SGdYeVNIOERvdG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T10:10:40+00:00"
-    },
-    {
-      "t": "[사설]가계부채 2000조에 국채 금리 급등, 불확실성 대비해야",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNEU0ZjNRWW5zWjVPcnA3ckEzekVkM2VNc1JPMnpZYXRKVUwta01fcWpMVV9qR3Jranl5Z3VKamZOUmxTUFNsakNja3RnNnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T10:06:39+00:00"
     }
   ],
   "asof": {},
