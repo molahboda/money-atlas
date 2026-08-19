@@ -1,33 +1,69 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T05:15:15+00:00",
-  "quotesAt": "2026-08-19T05:15:15+00:00",
-  "newsAt": "2026-08-19T05:15:15+00:00",
+  "fetchedAt": "2026-08-19T05:30:15+00:00",
+  "quotesAt": "2026-08-19T05:30:15+00:00",
+  "newsAt": "2026-08-19T05:30:15+00:00",
   "quotes": {
-    "kospi": 6466.94,
+    "kospi": 6509.42,
     "spx": 7691.76,
-    "nikkei": 65362.77,
+    "nikkei": 65296.45,
     "vix": 15.84,
-    "krw": 1397.48,
-    "gold": 4400.6,
+    "krw": 1397.84,
+    "gold": 4391.6,
     "wti": 84.6,
-    "dxy": 99.55
+    "dxy": 99.54
   },
   "daily": {
     "spx": -1.21,
-    "kospi": -7.32,
-    "nikkei": -3.11,
-    "krw": -1.22,
-    "dxy": -0.1,
-    "gold": 0.79,
+    "kospi": -6.71,
+    "nikkei": -3.21,
+    "krw": -1.19,
+    "dxy": -0.11,
+    "gold": 0.59,
     "wti": -0.4,
     "vix": 4.28
   },
   "news": [
     {
+      "t": "코스피 상장사, 상반기 영업이익 무려 250% 넘게 급등...삼전닉스 제외해도 76% 증가",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3OHh0eVpGWGxMazhrZlZEY1FxT0owelRCMmtsMWZDQzc1LW5pdUFEMHU3c2lMaVkyZ2Y5dkJrVXpLMXRPaEo3dkpYb2N5amtJRlNxYjlETzdHWk5LcUgwWkFEYV9Scnd6LTRhQ3NMV2hoWTRReVE1RGw0T1c?oc=5",
+      "s": "비욘드포스트",
+      "d": "2026-08-19T05:26:04+00:00"
+    },
+    {
+      "t": "[속보] 원-달러 환율 장중 1300원대로…지난해 10월 이후 처음",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUHdqT3UtTTBsN1dSbnlGMURZdHBXbmJiZjhyTnFKNTJpS3V2c3pDLTR0RmFBd2NGdmQ4Wl8xd0pmZ3UtMkwwUGVuTmNIUFQ4NGFfVF9sQktCWDh1bVY3X3JsOWQxR2wwVXZIZ1Q2cXd4Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-19T05:19:00+00:00"
+    },
+    {
+      "t": "환율 10개월 반 만에 1300원대…美 금리 동결 기대감↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GQ2IyYU16QkZ6RGpyMjlkVjM2MGMwNDRQbDhIdlVVRWhpUEVzRWxnbGxMcFFLUzdabUxXZWt3U05PQjFFSDBBVUMwdlpUWU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T05:17:16+00:00"
+    },
+    {
+      "t": "높은 국채 금리에 아시아 AI·반도체 주식 급락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeHhSMjdfNENDN3BUcmFqckVxX1NaaGQxQnhRMTc2emp6YlFHcEl0RDZPXy1tNVhBMU1VeGcxZHVvME5ycU9WTk1BOXlOOWpqS3lDNHFaSmNiWmIxckpzVWlya1BILTgzYkFKcTNLVXU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-19T05:16:00+00:00"
+    },
+    {
+      "t": "원·달러 환율 1399원까지 하락…10개월 반 만에 1400원선 깨져",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIZlp6bzhyUXI4OG9BbEJaaXZwN215OGM4TGtLbVhGaWs5cXZCajk4LWZadG1sSXJkUUowN042QXBFd1BjUk82WEdGcmlObVE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T05:09:45+00:00"
+    },
+    {
+      "t": "원·달러 환율 10개월 반 만에 1300원대",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0dFdzVzE5S1JaZk8xU3hfTEt5cXlqejhLYWY2YXlWYjlFUVdkY0RGa0IydS1wZU5wMHQ3VmtXM2UxV2tFYTZvWldOZDRFd2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T05:07:29+00:00"
+    },
+    {
       "t": "환율, 10개월 반 만에 1300원대…美 금리인상 기대 약화·네고 출회",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yYXdDME52UDN6cU9VeWJDbjBXdjhFVVptRlhHZmNKejlnZ21mVzYtaDA1Nnl3VjB0ZlloZ3k1SzlwMF9SUERnYWg5eUNmRnFsMVNxdGNQRWVnQ091?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-08-19T05:07:00+00:00"
     },
     {
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-19T05:06:37+00:00"
     },
     {
-      "t": "원/달러 환율 1,400원선 붕괴…10개월 반 만에 1,300원대",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZVF2VXRRbURIN0s4TnRad1VNYVo2TzJTSDZlZEp2anBEZGptMUFBYUFhOE55U3JfT2g1Q2J3QUxNRC1zdmJiUzdPVXBrblZtSVdsa0JMa0wwN2QzclRVbXRmSE0wZkROUWxLT0NpT1_SAXRBVV95cUxOd0kxMjhGajJXeWJjZnluUWw3Z2VTZnUzYW5SUm5KUU9obVY1dXFDMXhTdHFoS3ppaWdYRVpiUG85Nm9DcWpYZXU1WEhOTzg2cXUxMW8wU2ZjSW5Ha0FOZjZLUENNWG5MckVUWEphYkQ3aUEwSg?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-19T04:50:55+00:00"
-    },
-    {
-      "t": "(설명) 정부는 환경영향평가를 통해 호남권 반도체 산업단지가 장록습지에 미치는 영향을 심도있게 검토할 예정임",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzdlcy1pY2tSaTR3U2dGOUR5TkRnTFNRMDMwM0o2endVUGhtclZFd3Y1THk2WW1NU2NCV2hLcTRSWlFnR3RkekJJVmszNGprZlFzOEZCOHItSFBzZHN4TWxOcml3a3dkYTNGMlh3WFduOHVtRmF5RURaUjltcEVqVWh5ZU84YkpybHhzX3Z0Zw?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-08-19T04:49:45+00:00"
-    },
-    {
-      "t": "경기·충청 ‘반도체 호황’, 서울·부산 ‘외국인발 소비 호황’···관광과 반도체가 가르는 지역경제",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IN1F4OHJYb2VJeUJUeGZRY1pKalJtTVQ5VmwtbEZMb1R4M2k1QWFyN1IydkE4RmhFaE5PenNXbWg2VUFJaHNCeElhTGgyaG9QcllYTk1mQUpvQdIBX0FVX3lxTE1EYU9PUU9TQXJ3Q2NsRkNvYm9hcTFTRk43OFVLV1BHcXUtd3dLakVxWVZUZXBWNzMzR0M2clMyM1ZBUDlOalNYQ0tSM2FfLVVlZm1FWHhrQWw2RENwSzdV?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-19T04:48:00+00:00"
-    },
-    {
-      "t": "[직설] AI 거품론 넘자 국채금리 폭탄…중동 리스크까지 덮친 코스피, 또 시험대?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLREtIb25RNmRYYU1WT0lFRDhzOE9KUVZiRkZuSUUzSGpYR2V6S2tlOUZDa3RpQnZJNDliaXU5Nm9RdFFQcDc4YmhqUUxLSE0?oc=5",
+      "t": "KDI, 올해 성장률 3.2%로 상향…“0.6%p가 반도체 덕”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HR3E5SHVRNG5LdVc5YmVjczFnT1IyckdwRTBFc1hKNEhFUUNpNUN6VFVQSkwwRnlFd21adHptWG1DYU91UmxSOEszSkxwNG8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-19T04:46:27+00:00"
+      "d": "2026-08-19T05:06:37+00:00"
     },
     {
-      "t": "원·달러 환율, 10개월 반 만에 장중 1300원대로 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uRVJRYUp5OWtrYUljSjRyLW45aTA1NmhjUHZiN0lGa1oyM0lCU1Y0ODJ4RXNSaXgyY0N2V1ZFTlJBVGJBUVpqZmlfNkZxNHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T04:43:50+00:00"
-    },
-    {
-      "t": "코스피 상장사 상반기 영업익 388조 ‘역대 최대’…삼전·닉스가 63% 차지",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xUFl5Z04xUEE1bHoxNDAyMFpCRFNiVTNWRHJsXzY5UVpJREhJWHk3M095aTY3eHEyd2N2SUJyalFUSFhLbEo2dFZ6TWNvcUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T04:42:37+00:00"
-    },
-    {
-      "t": "달러 대비 원화 환율 10개월 반 만에 1400원 밑으로",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3J5aFlMdW1ldjVCMDNyam9DbzgyMTJaZGxUek5WN3dXMnBWWG4zUG9jZ1BJRUtMZUtaWC01Wk9YQXpPcDNzRWFONnh0c2dULTdRQV9aVlFRX2IyNU1FeGFrTmRpY2Fpd2NiRXhfMjdBNDhGdnRuYWhNRFlaekNRMGtfSzdWVTIxektNU1BR?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-19T04:41:00+00:00"
-    },
-    {
-      "t": "中 휴머노이드 AI칩도 '자국우선주의' 확산...K-반도체에 불똥튀나",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RTkhHR21TZEFrdWZOVnFJLXZVbXVDN28yc3hlbGJaSnNpU0liLW43SVBERUs4NjZoNms0R1NBa1VfY2V0THQ0YXd6c1d4Zk5mVGh2RWtR?oc=5",
+      "t": "[김종인] 미국 장기 국채금리 급등…원인과 전망은",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSTVlaUFuNG9EUTRrSVZUMFdMLUFmTlRrY2JkRUxlSHk2a0VkQUlleVZzYTFsdV84aG8yVGRVay0xX2tXYjJTLVQyelJQY3RzMVVTQ1dB?oc=5",
       "s": "zdnet.co.kr",
-      "d": "2026-08-19T04:40:58+00:00"
+      "d": "2026-08-19T04:48:57+00:00"
     }
   ],
   "asof": {},
