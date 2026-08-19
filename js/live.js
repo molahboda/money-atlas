@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T14:45:15+00:00",
-  "quotesAt": "2026-08-19T14:45:15+00:00",
-  "newsAt": "2026-08-19T14:45:15+00:00",
+  "fetchedAt": "2026-08-19T15:00:15+00:00",
+  "quotesAt": "2026-08-19T15:00:15+00:00",
+  "newsAt": "2026-08-19T15:00:15+00:00",
   "quotes": {
     "kospi": 6471.17,
-    "spx": 7729.82,
+    "spx": 7741.24,
     "nikkei": 65326.42,
-    "vix": 15.26,
-    "krw": 1384.97,
-    "gold": 4546.5,
-    "wti": 84.82,
-    "dxy": 98.82
+    "vix": 15.21,
+    "krw": 1386.78,
+    "gold": 4537.9,
+    "wti": 84.96,
+    "dxy": 98.88
   },
   "daily": {
-    "spx": -0.2,
+    "spx": -0.05,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -2.1,
-    "dxy": -0.83,
-    "gold": 4.13,
-    "wti": -0.14,
-    "vix": -3.66
+    "krw": -1.98,
+    "dxy": -0.77,
+    "gold": 3.94,
+    "wti": 0.02,
+    "vix": -3.98
   },
   "news": [
+    {
+      "t": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0d1ptQnB6VDdIa3hhelN3TXpQNEZkVy1vUFI4SjZtSF8wLTdmcG1mR2djTHRWNFpUSnNZTmp1eGw5Q3BZUjFsUVVYd0szT2pqMXliUUhCYnphTW0weGFRQWkydm5weHQ2ZFRISTNVSW5fZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-19T14:25:19+00:00"
+    },
     {
       "t": "뉴욕증시, 美 재무부 '기습 바이백'에 화색…강세 출발",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80aU9EeWozZ3g2ZktTSHl2bUM1LW5DMVBsQWFvSTMwWTZqcGktcF9GY3NKQ2kzRnV4bVA4NjNrbE85X3BHSFlWa0ZVdWlBaDFLeExCX2N4dDhqVDjSAWBBVV95cUxObXhrUF9BZ1NzTVM3c1dtOGt1M1lnNGs5RnlIQnMtQjVjZzFMb0Vhb3hWRkJsU0hIdmxkMGJ6UFU1d0hLZHZMVDFqVTZEOW5LUGdGOF9DRl9PTWd0M0g5bGk?oc=5",
@@ -55,22 +61,10 @@ window.LIVE_DATA = {
       "d": "2026-08-19T12:52:00+00:00"
     },
     {
-      "t": "코스피 -5.8% 폭락한 날, 오늘 밤 미국 선물은 다른 말을 하고 있습니다",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkV4MXBKOFRJR1dzQml1SlNUbWVIVlNNWFozeTg3cnI4Z3B2Tkg4Y3ZWQVFpVVJPempwMHVTTmVOQWU5WXl2OWlYZE1aaHZNVlR5WWdLN2VNZml2UTNPRUNmTlN5ZUdQMzRzekpZZHVoQ29wZ0hvaENHX2k5ckxIMXNFUjNUX3c?oc=5",
-      "s": "contents.premium.naver.com",
-      "d": "2026-08-19T12:52:00+00:00"
-    },
-    {
       "t": "美 국채 금리 4.7% 돌파… 글로벌 주식 황금기 끝났다",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-19T12:45:49+00:00"
-    },
-    {
-      "t": "반도체·군 공항...김민석 '호남 약속' 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVnpsai14cGJvVnRKWllWb2l2UXQwb0NYdmhSOVpqRW5JbnljWWJOem1YanZfWkdid1VYY1dlckk1a0ZhOFhFbzRIZy1XVHVQTm5rWHVORnF4RmxWYUJwRA?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-08-19T12:36:25+00:00"
     },
     {
       "t": "뱅크오브아메리카, 반도체·중남미 기술 뱅커 2명 추가 영입",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83a3FvRE4yQk5SZTk3aHBrMEFseVBtXy1TRXN4NHkzX0JaXzZFQldZaUFfQXZidDJVVU1aOWdEeXk4UUtBcE94WUtGeTBwc1pzNGM5ZzRBTjBuQnA5UGhERjRxRGV0SHl6dzdEQXhFNnU?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-19T12:28:23+00:00"
+    },
+    {
+      "t": "원·달러 환율 10개월여 만에 1,300원대로",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNzFOQ3hWTDhnN2NhSTMtWFFHVDZkemNuNmJVTjZpcFFIbGpka3JzS3NISWJBRGFyOWhiTG91bC1GOXZOaFp6R0xzLVNrUkJjNXd6UV9hMnpiazA?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T12:27:00+00:00"
     }
   ],
   "asof": {},
