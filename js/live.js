@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T13:00:15+00:00",
-  "quotesAt": "2026-08-19T13:00:15+00:00",
-  "newsAt": "2026-08-19T13:00:15+00:00",
+  "fetchedAt": "2026-08-19T13:15:15+00:00",
+  "quotesAt": "2026-08-19T13:15:15+00:00",
+  "newsAt": "2026-08-19T13:15:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.45,
-    "krw": 1385.98,
-    "gold": 4471.6,
-    "wti": 83.81,
-    "dxy": 99.12
+    "vix": 15.47,
+    "krw": 1386.08,
+    "gold": 4486.8,
+    "wti": 84.46,
+    "dxy": 99.09
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
     "krw": -2.03,
-    "dxy": -0.53,
-    "gold": 2.42,
-    "wti": -1.33,
-    "vix": -2.46
+    "dxy": -0.56,
+    "gold": 2.77,
+    "wti": -0.57,
+    "vix": -2.34
   },
   "news": [
+    {
+      "t": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXUjdwUUVyY2dqQzJwa2hNVW9ET0IzMHRSSTRTY28xczMyVVk3Uk90SXpyQzFpMWUyQUJ5UFBoSlZxWHg1ZWRxYW9hMlhYclF3azdhZ21Iczh4Snp6X0E?oc=5",
+      "s": "ytn.co.kr",
+      "d": "2026-08-19T12:54:00+00:00"
+    },
+    {
+      "t": "인하대 반도체·바이오 교육동 준공",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rU2tjS2tFU3VpY3JhemNJVkJ5R09CZlZOUk5oeGV0YzhnMWpRcEdPRHM0WU50dGlrb1hoUFZ3Tms2c21lRmljcDdBb255emFKMnhkanEyLThodGs?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T12:52:00+00:00"
+    },
+    {
+      "t": "美 국채 금리 4.7% 돌파… 글로벌 주식 황금기 끝났다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9kZEk5SG5zbWFpZTY4ZF9MTUx5cTBzMURPTmVPendXS3RTUk9mRmtUT29aenl0SUJWZWs1MWx0V1Y3ZEFUeFU1OFdmRHB6cVM4MktFSkhDdzQwdVdlazVQSFVuUUUyLVVhV2hZWlJ5bVUtWG5FbGRzS3hRQkd0UEIyZ2hLOVJN?oc=5",
+      "s": "g-enews.com",
+      "d": "2026-08-19T12:45:49+00:00"
+    },
+    {
+      "t": "“용인 반도체 산단 백지화”…전국 돌고 청와대로",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HeGx3VFJOVDIxc3RNb3liVEQ2RlV2TkVvd3lrRDhwZFNwU2tVTkotY1VLRUd6VkpZcDBxRTVLWjI1RFk5NEpISGRHYlFrdVdMdU9OLXFpbnloVVk?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-19T12:40:00+00:00"
+    },
+    {
+      "t": "뱅크오브아메리카, 반도체·중남미 기술 뱅커 2명 추가 영입",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1saEhQVHJNTGFKY3VTWGV0YkNHZGZXbzIxcFNCOGlSV0hoZmVoY0tWeXJ6NDJpOTNZTzlxSGVESU1zM1l5WERhLU90MHYwMnkwODU4VHM0d0xndWFTRGpFa1pfaEhIVUJNbnU4N19uclBqTzdWaDBn?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-19T12:30:00+00:00"
+    },
     {
       "t": "SK하이닉스 ADR 하루만에 급반등…美 금리 진정 속 40조 자사주 매입",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83a3FvRE4yQk5SZTk3aHBrMEFseVBtXy1TRXN4NHkzX0JaXzZFQldZaUFfQXZidDJVVU1aOWdEeXk4UUtBcE94WUtGeTBwc1pzNGM5ZzRBTjBuQnA5UGhERjRxRGV0SHl6dzdEQXhFNnU?oc=5",
@@ -37,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-19T12:27:00+00:00"
     },
     {
+      "t": "뉴욕증시 프리뷰, 유가·금리 부담에 주가 선물 혼조…모더나 100% 가까이 폭등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05YU5yblJQQ3B1VFM2dXA2aF9hMVlPN3RjbTRSUHR2czZmVFZyXzJCZzFaaVo1NEJnZFN1Z0tzd3pnTVRnUjRGaVlCaFBKY1cwbVBybi1IRnpLbE8t?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-19T12:27:00+00:00"
+    },
+    {
       "t": "미 달러화 약세…유로·파운드 강세 속 美 국채 금리 진정",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IWGJiM19qaGlpTzZjNGY4a25qS1RUTERfWHZWbF96aS1TeHFiS2FUQkZKNkc0MzYzVzE3Y1ZGRENwaGxRYldhQm1LRm1fU25yOUc4aTZFNTUxSEFqVlUxaUxkNlM3UWV3NHBPb0pTd3YtUQ?oc=5",
       "s": "KB Think",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WDhIM092WC1pVjV2SC0yX0U4eTV0SHBZanI2MkNsRW9YYklkeS1NQ1A1Vmp0bTZRTVhBT3pncWViakpSZUZKclF0NWU2QWs?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-19T12:08:43+00:00"
-    },
-    {
-      "t": "美 국채금리 쇼크에 코스피 5.8%↓…SK하이닉스는 자사주 소각 계획",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wQW5WbUxKd2hFNHJpVHdMbTBlaFB6cmp0bFpyVWpBeHhiVmhiU0Q1M2dSSzBYTVlwdlRUdk9aQzRsZEw0YzZlY2s4YnZGLWc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T12:07:53+00:00"
-    },
-    {
-      "t": "트럼프 관세 유예에 TSX 선물 소폭 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oLTNNVHBBX04tTm9KWFEzTTN4eFpiaFJPLU9zaVN2N1A5alB3bUx3aTRacHdLVlJZakRNMi1yamF3REFucXB1N0N3QXNJRXJXenpOU080U3hyVER1VUpSVm5RQVNIWkUwT1RWU2t5Y1k?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-19T12:06:00+00:00"
-    },
-    {
-      "t": "[마감] 코스피, 美 국채금리 쇼크에 5.8% 급락…6400선 후퇴 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54SUJ4b2xQbmhFNUN5REFaNmxyb3gtQU14NXFwdzZpTTVRSDJqa1l5MlNvV3h4U2pVcktCYWFkbFpCTHpIVlNuLXJnNW9BeHZXYTdZMUFxaGZ0R0JIVGVhcTFQY003T0ZOTFBqMGd5clc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-19T11:59:00+00:00"
-    },
-    {
-      "t": "트럼프, 캐나다 50% 관세 폭탄 \"3일 연기\"…자동차 관세가 현안",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTmJvQkRyT21XYklHVEY3SHYxT3VJM090M1dmb1ZSQURyOTBBZm9JTE1kelhRaTM3bzZOaDR4SnBSRENFTUMxZkJuSkxlY19XRUxFcmlzT0ZSQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-19T11:39:00+00:00"
-    },
-    {
-      "t": "환율 11개월 만에 최저…1,300원대로 '뚝'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92UXlJRTZSUkVvRjdrbFJ6cmcwNS1TY0hNdEdray1kREpndVFOR3pfUkFURXc3ck1pRW8yQm9OWk9hZlcyZzVEYkZpRFdxc28?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T11:33:12+00:00"
-    },
-    {
-      "t": "국채금리에 휘청였던 코스피‥하이닉스 40조 자사주 소각에 반등하나?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VVXc0T29HWU4xeFlwX3lCWHo1R3BKMnZ4WEp2RGltMVZrVTVYVFlVWE9LNklzZUJNX0lpNjE4Z1hOVkVTTFZURzNMTU9TdDA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-19T11:16:09+00:00"
     }
   ],
   "asof": {},
