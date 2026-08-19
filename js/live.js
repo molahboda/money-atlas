@@ -1,46 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-19T09:15:16+00:00",
-  "quotesAt": "2026-08-19T09:15:16+00:00",
-  "newsAt": "2026-08-19T09:15:16+00:00",
+  "fetchedAt": "2026-08-19T09:30:15+00:00",
+  "quotesAt": "2026-08-19T09:30:15+00:00",
+  "newsAt": "2026-08-19T09:30:15+00:00",
   "quotes": {
     "kospi": 6471.17,
     "spx": 7691.76,
     "nikkei": 65326.42,
-    "vix": 15.83,
-    "krw": 1394.78,
-    "gold": 4413.6,
-    "wti": 84.9,
+    "vix": 15.84,
+    "krw": 1394.14,
+    "gold": 4408.6,
+    "wti": 85.25,
     "dxy": 99.44
   },
   "daily": {
     "spx": -1.21,
     "kospi": -7.26,
     "nikkei": -3.16,
-    "krw": -1.41,
+    "krw": -1.46,
     "dxy": -0.21,
-    "gold": 1.09,
-    "wti": -0.05,
-    "vix": -0.06
+    "gold": 0.98,
+    "wti": 0.36,
+    "vix": 0
   },
   "news": [
+    {
+      "t": "하반기 '태풍의 눈' 美금리…우리 증시·가계 영향은?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DT1Y5RmtCMzAwRTRFOURUSGtKT1dPSW1OSUh4MFdJNXpwZjhHbXdKQXQ5aHlPd3JFVG9mdUdDbHE0enJJRkpkNnY4aWczNG8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T09:13:08+00:00"
+    },
+    {
+      "t": "코스피 5.8% 급락…원·달러 환율, 10개월여 만에 1,300원 대로",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SeG9vOTJfRGw4c1QtdXc0MnNzYWtFTGRfWVJWT29kUGFmclhUMklhS1lGNzNCY2lYNXZkc29GRFpXQ1YycEN6UWtJRzdkenM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T09:09:53+00:00"
+    },
+    {
+      "t": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQU9XOFR3S3ZoRVNHTzVsS19oSzJaRUZRNHNUNlFPUU9aVjFuUGdFQlpNOVZJdkJWeW9waW5MRTJ6WnZYOGwyZGppWU8wNkQzdVVveEQzaFFGTVFfUHc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-19T09:08:00+00:00"
+    },
+    {
+      "t": "미국 금리 동결 기대감에 환율 1,300원대로…11개월 만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wR1Vfbkoya0xJTmcyV0xqak9HT3QtTFppZV9tR21nZ3pKc245bnZtNGRMX1REckx3akFldGh5clZ0dFNTV1AtNUdsVVg2SjQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-19T09:02:42+00:00"
+    },
     {
       "t": "[뉴스&분석] 금리패닉, 2020兆 가계빚 짓누른다",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15RDdQR2dXSE9mX2pvN0llRkU5ZVJieVdlS3pfSlI5V3h6bUQtckdVeE5DNVpVQkZJSzJYSThvV2kyemZvdjNPNkNTUnRYaUI4SEE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-19T09:02:31+00:00"
-    },
-    {
-      "t": "미국 금리 동결 기대감에 환율 1,300원대로…11개월 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90Z2k5VHFuV0pBdkl2d01sZFc5OW9RSzJ1Z3NGRDVRTW1EU2hGT0diMW1CTWktLXVnRVJLNklScTRvbFZEUXpYTlU0X1hkWjV0b29BRUl6bDFjZmRXSXItU3A3VlRQR1k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-19T09:01:00+00:00"
-    },
-    {
-      "t": "\"3분기 실적 역대급\"…반도체·차·조선 쾌청",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsLWR3eFFrdmRrcWNhaHpLM3cxSU5ONFRSX05kTDlJY1JONmtaX1NjbEwyanNXa3pheElZbWFFdjdnS0JEUkhHV2FZSnBfVGVtT2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-19T09:01:00+00:00"
     },
     {
       "t": "[표] 외국환율고시표",
@@ -55,15 +67,15 @@ window.LIVE_DATA = {
       "d": "2026-08-19T09:00:00+00:00"
     },
     {
-      "t": "한국도 장기 국고채 금리 역대 최고 상승 ‘경고등’ - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkJST3pTNjEwN2h4S1QzNWxDR2MzQmY1dTNlNUxaeGdraVlTR0w3UUpvTnZfcEJTamZyTjRiVGxUazk0dTFHRkgxZjdFUGc2ZUY0RXJrempnV2JDMXJZeF83NFFkMTQ3bzVHZHNVeWY2c295WW1ray15cW9hUnl3THpRdC16NTZH0gGcAUFVX3lxTE83dFJVekQzaDEzallBLVkxMXN2U2JFMXQ5TG5oZ194d2VDXzN6ODloZXh2Wm5QQWVQenZjaXJBczNiTTlOYks3VWk0ZnZabG56aW9CYnZzZnZya1ZzbElKbEk5NEJHTGFqSUtuNDZTdjR0VzlzZmNyYmdmT3pjNVoxS2RBVGRrWmpsTVUyN2YtbmlFcVNfOElrNVJkRQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-19T08:52:00+00:00"
+      "t": "30년, 50년 국고채 금리 역대 최고 상승에 한국도 경고등",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2dsOFZBMi1KaXdDcndHaFZJbEU1eDRjX2tlVzcyOHN3Qkl1N0FtdGI1WVZ6RTBuT0JPZF9pM204NmpfeU00TUoyQUE2YlktY1hRWW5HQ0RJUlZsNkVOMEJNN1lrZEREQlgyMlZkd0t3QmdIUURIbnRGenJWM1ktbDhDUUl0bHBhX0Jn?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-19T08:53:00+00:00"
     },
     {
       "t": "[단독]반도체 훈풍에 내년 국세수입 580조 추산···청년미래적금 소득상한 폐지할 듯",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aE80bl94MDU5OGdhTGQ4NVd5OFd5cVNzRnFrV1ZraVQxSkdPZllvQ1BWNURpdDRyVVRWODFoQ3g5bm5HUGZiclJ3blFobWpqd3NjUDNCRG92d9IBX0FVX3lxTE9sWWZnVmlhUkVFb2E3TTNpZnJCbl9ZYkpJNG5mNkNoLXlYQldRNXBFNGFPb2tBUTdvU0h1X2VwamJOQ3d3R2NmdFctMVp4c19PbktBQkNjc25tZFBfZW5R?oc=5",
-      "s": "경향신문",
+      "s": "khan.co.kr",
       "d": "2026-08-19T08:50:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QVV6WTV3V1NGSG8yQUJwMFNWeTFFSXo1THlhU18tSFBsVkpONWp4UGN4dkgxQjEtbDFtM0lSRHYwaVZ1VTQ5Y08xci1wb2VoOHc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-19T08:47:35+00:00"
-    },
-    {
-      "t": "美장기채 금리 치솟았는데 … 채권개미 '아찔한 베팅'",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnamlDZHBkNlVDZkFnOWVRMy1qY1FfLVVMaVZqOVVNUjVQc2lIZWxSNjl3dEszZ1FYc3RGTDlDemd6cXJqNzl6Z1p2UFllS21aWVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-19T08:47:34+00:00"
-    },
-    {
-      "t": "“싸졌다고 덥석 샀다가는“…7월 폭락장과 다르다는 경고, 美·日 금리 보라는데",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RDU1TjFTYXJqWTNQM3QxTVJQeXk0SjVMSUJCOUtsbHNLRHlveHhlbXBCRm5GNjcwSEVaZl94NzhoWkdlSEV6bFgxNXAwaWRheVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-19T08:45:44+00:00"
     }
   ],
   "asof": {},
