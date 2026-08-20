@@ -1,35 +1,29 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-20T10:00:15+00:00",
-  "quotesAt": "2026-08-20T10:00:15+00:00",
-  "newsAt": "2026-08-20T10:00:15+00:00",
+  "fetchedAt": "2026-08-20T10:15:15+00:00",
+  "quotesAt": "2026-08-20T10:15:15+00:00",
+  "newsAt": "2026-08-20T10:15:15+00:00",
   "quotes": {
     "kospi": 6852.58,
     "spx": 7707.98,
     "nikkei": 66216.79,
-    "vix": 15.2,
+    "vix": 15.21,
     "krw": 1393.56,
-    "gold": 4542,
-    "wti": 86.55,
-    "dxy": 98.64
+    "gold": 4541.9,
+    "wti": 86.57,
+    "dxy": 98.6
   },
   "daily": {
     "spx": -0.48,
     "kospi": -0.25,
     "nikkei": 1.36,
     "krw": -1.42,
-    "dxy": -0.19,
+    "dxy": -0.24,
     "gold": 1.17,
-    "wti": 0.84,
-    "vix": 2.08
+    "wti": 0.86,
+    "vix": 2.15
   },
   "news": [
-    {
-      "t": "40조 주주환원에 '삼전닉스' 초강세…코스피 6% 가까이 급등",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSkFHUm1DY1lSMVY5aHVldHZKNkJzSnZsUFFNVXpOZzZRZUNnTjRfRkF2aVpJeUVzUDZTck1yNmYtM3lDUmtxRGx1amREY2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-20T09:50:00+00:00"
-    },
     {
       "t": "IRS 금리 혼조세…선물 연동·플래트닝",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZnhLV09sQnlCSnFZYjdNX3JVLUh0eUI3akFka3JKY2NkSlZkUnRSdFJveEEwZldwZWRjLUxYNG5oUGJOT2FiTUVyVXlXYUgzd0hnUHZsdDdYd25mcWZrdTZJdWlYSG9NTmdrelU3WjXSAXRBVV95cUxPVHRlenhXMkwyTkxnZEpXM0Y4VjhlbV9EeXI1SVRab3JWSDNUVEZ4aDZFYkFDMUcwNDNoeC1COXd3VU40WmpiT1UzckVyQmM4bGZuZ0tQM1diODRJaVdrMG1UaXkyVTIxMzV0TGNSN3lyS3ZqMg?oc=5",
@@ -37,16 +31,22 @@ window.LIVE_DATA = {
       "d": "2026-08-20T09:49:56+00:00"
     },
     {
-      "t": "반도체만 보면 더 오를 것 같지만…“코스피 6000에 사고 7000에 팔아라” [머니닥터 시장진단]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lb1VSVmJ1bGJCZEcwUnZLRTB2cGVfNl93T0lvN1JNT0FtaHpKaVc0MWlPM3BpZ3ZYOGhubEtSMGkzLVRJclZ2REZseHFRRTg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-20T09:48:00+00:00"
-    },
-    {
       "t": "과일 폭염 피해 99%가 경남…추석 성수품 물가 ’촉각’",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QTVwdTBIcGFidlBKZG5SUW1fdGFZU3NwWktfOXlZUE5iRVo5TGZ2UWlMcGk4aVhOdVpvdjFNM3d4dmUyOEh1N24zeFF5N252cmVQLU1VRWZwWFFUX0JLSExjOHd1UUk?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-08-20T09:45:00+00:00"
+    },
+    {
+      "t": "제프리스, 캐나다 관세 합의 임박에 미국 철강 전망 하향 조정",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DSWRKQ2xMN3ZDQ2tGTFlWU1dmZVc3blhRNm9oa0VLUTZjTm5oX3UwWnNZM3liZC1QVk13QloxT3dlRUxKUVlCazRDOUMwbGUxeG1jSUhkdERqclYwV3cyUmdoQmV2Wkp0S29xb0hnaU9lT29aMjFB?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-20T09:45:00+00:00"
+    },
+    {
+      "t": "김정관 산업장관 \"대미투자 9월 중 발표...반도체 이야기는 안 해\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2bVpuQ093V1Z0R2FONVkwYTF1R0NwbDduM0RJU1RxckRqdkFPZnIyODBkRXZaekw5QzFhdUVvZndDLXYwel85aWUtQW5HX28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:39:18+00:00"
     },
     {
       "t": "\"이미 오른 반도체 말고 없나\" ETF자금 지수상품에 '밀물'",
