@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-20T09:30:15+00:00",
-  "quotesAt": "2026-08-20T09:30:15+00:00",
-  "newsAt": "2026-08-20T09:30:15+00:00",
+  "fetchedAt": "2026-08-20T09:45:15+00:00",
+  "quotesAt": "2026-08-20T09:45:15+00:00",
+  "newsAt": "2026-08-20T09:45:15+00:00",
   "quotes": {
     "kospi": 6852.58,
     "spx": 7707.98,
     "nikkei": 66216.79,
-    "vix": 15.15,
-    "krw": 1392.98,
-    "gold": 4546.2,
-    "wti": 86.47,
-    "dxy": 98.61
+    "vix": 15.14,
+    "krw": 1394.3,
+    "gold": 4543.7,
+    "wti": 86.46,
+    "dxy": 98.62
   },
   "daily": {
     "spx": -0.48,
     "kospi": -0.25,
     "nikkei": 1.36,
-    "krw": -1.46,
-    "dxy": -0.23,
-    "gold": 1.27,
-    "wti": 0.75,
-    "vix": 1.75
+    "krw": -1.36,
+    "dxy": -0.22,
+    "gold": 1.21,
+    "wti": 0.73,
+    "vix": 1.68
   },
   "news": [
+    {
+      "t": "\"이미 오른 반도체 말고 없나\" ETF자금 지수상품에 '밀물'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vbmQyN0Z1WUctQVZwY0Y0WXJWZ0E1Vzc5d01nZ0dvOUNHb3I1MHFSMzVQa2pLdDk1RUJVdVdxWU5PTmFMZ2VoZ0ZYWFMyblk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:26:10+00:00"
+    },
+    {
+      "t": "[중국증시-마감] 바이오주 주도에 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yNldzTTk4aFNpXy01QWdidXpENjlfMWt5d1hHckllTWN1R1p0YlJPYTY3S3hRQ3k3TVJvOTdoUnhfMmtkdE40ZFVKU3Q5ZmxiWmUxY1hRWnN3NWZkVVJxN21SUDl0TG5DZmRTRE95VmI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-20T09:25:57+00:00"
+    },
+    {
+      "t": "유럽증시, 장 초반 혼조…유로스톡스 0.05%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNUJYUG9CTmk5Z3NLaTQyWHp0ZUV0eWgxYmg2X2N6V2tDT2pLLXNlVkI4MFhaUFNHVUUxMkFqTDdrM2ZEa2R2RkpqTXExU2YzVFo0c2xBZ2FqdVkwZGowNllCYVQ1czdoTV9kTGk3NGzSAXRBVV95cUxPcUYzZ3FQTnFMN1NnWDFIY0tvTjZUNW1SV3NTWWpvcmVGLVBzbmNoVnFEMlhHVi0td19fWXdEdHlBVTVNZ0NENXhfUkk0bk9zRE1jdnk5OHJiU00yRkRudVNkQ0RZV2g5MkJ4VDZJUGJDVkZ3Sw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-20T09:24:58+00:00"
+    },
+    {
+      "t": "‘SK하이닉스 주주환원’ 힘입어 코스피 5.9%↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BcE5hd2lWYzlmTWxGZUszd2k5S0c5TmEwMVVVQkFvNnhaVENFWVE2TmFOdXYxUnlrMFljZU13LUN3MVBpdmEyQ1RQTElqVW8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:22:44+00:00"
+    },
+    {
+      "t": "'40조 쏜다' SK하닉에 삼전도 들썩…코스피 6800선 탈환",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HWVJVUk9NMEdqdlJRTlMwblpXd01ZVENrbUR6bGphRk5Wb3RUV205RGYxTnZKMl9Fb1JLVndMa215bHByekxwLWpPTi1SUnc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:13:18+00:00"
+    },
+    {
+      "t": "7천피 가는 길 험난?…미 연준 매파·40조 달러 복병",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YNHI4R2t1UEhndmNoY3h5UkFBal9tbUJEbWpqRlkxNG5GVGdyMzhzZnFfMGZrb2RXVHlhVWVXVTIyc2xKeHFhRU1TRU1nVDA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:13:00+00:00"
+    },
     {
       "t": "[증시와이드] 변동성 증시, 맹신도 공포도 경계를",
       "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOThzOUJ0ZDZoNzFmX25LbzVTNTl3STZpRjJNdWxkNUNxeFQ3VzRLYXd4RThick1XOTdCbFZLbDM4VUZKcTVleDh1MDlBZTVUOTV4eDFELTMwMW5mVXViUXhUcFNVaGdvd1MwMVFVWm9lQlR0TTJMeC1HNndLRVBwYXIySEdMTFhBQmN5Vi1XRHJWVGc?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hcktFQW12T3VpWldJd25Ccmt2V21vWnhxaEd6VkFSYkJaSWVqcVpTMUhxdVh3NUkwaGFUeWdrM2ZJZWpycU9NRDlMM0NBMTNoNkY3emc1YjR5RHFHVEE?oc=5",
       "s": "한국방송뉴스",
       "d": "2026-08-20T09:02:50+00:00"
-    },
-    {
-      "t": "[무잇슈] \"광주 성장률 최대 2배?\"···반도체 도시로 본격 추진",
-      "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44WjVJSEVhMllTak83UlhZQWUxdFlCRDRub2RLN3dXLTRWczFrNERSZFgtN0R6THJ0aXpJZWJDdWhzSXRIY2x2dlF3?oc=5",
-      "s": "무등일보",
-      "d": "2026-08-20T08:56:00+00:00"
-    },
-    {
-      "t": "[경제한방] “반도체 슈퍼싸이클 바뀌었다”…반도체주 미래는?",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZQWtxeXBCdHp3eVpWbE9hamJwNklKdnBCMmJ1VUVrWHI4SmhkUHpGYVN3WkVQeHVTNWh1QzlOS253bWNqbVdBTFZWSjNNMkkyYW5zTlh4UXlkRXM?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-20T08:54:00+00:00"
-    },
-    {
-      "t": "“삼전닉스 흔들리면 롤러코스피 답 없다”…알고 있지만 뼈 때렸다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVjZwMnk4N09IRUxPaVBYaDJVNjg0bDBLVE9vWHZMTmJrMjdZZEhVSzh3TmRnNEtST2drdU5seFVkNTZxYVJ1VzJOOFo0QQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-20T08:41:01+00:00"
-    },
-    {
-      "t": "D램·3D낸드 어떻게 발전했나…한국공학대 ‘반도체 콜로퀴움’",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MOUFZRzRnOVBsdEk3Z0RucVYtMnpzWFROSGNsNDJfMm5yVTN0VXFkUlRwckEyWDAybWM3eFdyWXl0MFJqeUF3SVVaenRodnJEUFNyMkJ3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-20T08:40:00+00:00"
-    },
-    {
-      "t": "씨티 \"韓 당국, 1,350원 이하 환율 선호…필요시 국민연금과 공조\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UX3JmX1J0TXBjYmpncEVOMjJQQ0lULVZvSFZvYWNQRm9kbGNYalNUa01QLXU5SXZRd3FJQjVQdmN6Z3J3OGpybVhUNlpHQ2ZDellLd25nemFNMkdtSmRSQkpiRkxlRnhhazNKS3pEWUhMdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-20T08:32:41+00:00"
-    },
-    {
-      "t": "‘40조 자사주 카드’ 통했다…하닉 11% 급등, 코스피 6800선 견인",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wQW5NTklPYkNZVEZVaF9FNUVZTGJaYjZON28tR2t6bWFmY1Mxcmo4ci1OYmRIZnhwc3lsWWdrSHNTcTVHczRZNk95TF90SFV6?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-20T08:30:18+00:00"
     }
   ],
   "asof": {},
