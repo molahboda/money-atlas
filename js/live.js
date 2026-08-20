@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-20T09:45:15+00:00",
-  "quotesAt": "2026-08-20T09:45:15+00:00",
-  "newsAt": "2026-08-20T09:45:15+00:00",
+  "fetchedAt": "2026-08-20T10:00:15+00:00",
+  "quotesAt": "2026-08-20T10:00:15+00:00",
+  "newsAt": "2026-08-20T10:00:15+00:00",
   "quotes": {
     "kospi": 6852.58,
     "spx": 7707.98,
     "nikkei": 66216.79,
-    "vix": 15.14,
-    "krw": 1394.3,
-    "gold": 4543.7,
-    "wti": 86.46,
-    "dxy": 98.62
+    "vix": 15.2,
+    "krw": 1393.56,
+    "gold": 4542,
+    "wti": 86.55,
+    "dxy": 98.64
   },
   "daily": {
     "spx": -0.48,
     "kospi": -0.25,
     "nikkei": 1.36,
-    "krw": -1.36,
-    "dxy": -0.22,
-    "gold": 1.21,
-    "wti": 0.73,
-    "vix": 1.68
+    "krw": -1.42,
+    "dxy": -0.19,
+    "gold": 1.17,
+    "wti": 0.84,
+    "vix": 2.08
   },
   "news": [
+    {
+      "t": "40조 주주환원에 '삼전닉스' 초강세…코스피 6% 가까이 급등",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSkFHUm1DY1lSMVY5aHVldHZKNkJzSnZsUFFNVXpOZzZRZUNnTjRfRkF2aVpJeUVzUDZTck1yNmYtM3lDUmtxRGx1amREY2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:50:00+00:00"
+    },
+    {
+      "t": "IRS 금리 혼조세…선물 연동·플래트닝",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZnhLV09sQnlCSnFZYjdNX3JVLUh0eUI3akFka3JKY2NkSlZkUnRSdFJveEEwZldwZWRjLUxYNG5oUGJOT2FiTUVyVXlXYUgzd0hnUHZsdDdYd25mcWZrdTZJdWlYSG9NTmdrelU3WjXSAXRBVV95cUxPVHRlenhXMkwyTkxnZEpXM0Y4VjhlbV9EeXI1SVRab3JWSDNUVEZ4aDZFYkFDMUcwNDNoeC1COXd3VU40WmpiT1UzckVyQmM4bGZuZ0tQM1diODRJaVdrMG1UaXkyVTIxMzV0TGNSN3lyS3ZqMg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-20T09:49:56+00:00"
+    },
+    {
+      "t": "반도체만 보면 더 오를 것 같지만…“코스피 6000에 사고 7000에 팔아라” [머니닥터 시장진단]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lb1VSVmJ1bGJCZEcwUnZLRTB2cGVfNl93T0lvN1JNT0FtaHpKaVc0MWlPM3BpZ3ZYOGhubEtSMGkzLVRJclZ2REZseHFRRTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-20T09:48:00+00:00"
+    },
+    {
+      "t": "과일 폭염 피해 99%가 경남…추석 성수품 물가 ’촉각’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QTVwdTBIcGFidlBKZG5SUW1fdGFZU3NwWktfOXlZUE5iRVo5TGZ2UWlMcGk4aVhOdVpvdjFNM3d4dmUyOEh1N24zeFF5N252cmVQLU1VRWZwWFFUX0JLSExjOHd1UUk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-20T09:45:00+00:00"
+    },
     {
       "t": "\"이미 오른 반도체 말고 없나\" ETF자금 지수상품에 '밀물'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vbmQyN0Z1WUctQVZwY0Y0WXJWZ0E1Vzc5d01nZ0dvOUNHb3I1MHFSMzVQa2pLdDk1RUJVdVdxWU5PTmFMZ2VoZ0ZYWFMyblk?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YNHI4R2t1UEhndmNoY3h5UkFBal9tbUJEbWpqRlkxNG5GVGdyMzhzZnFfMGZrb2RXVHlhVWVXVTIyc2xKeHFhRU1TRU1nVDA?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-20T09:13:00+00:00"
-    },
-    {
-      "t": "[증시와이드] 변동성 증시, 맹신도 공포도 경계를",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOThzOUJ0ZDZoNzFmX25LbzVTNTl3STZpRjJNdWxkNUNxeFQ3VzRLYXd4RThick1XOTdCbFZLbDM4VUZKcTVleDh1MDlBZTVUOTV4eDFELTMwMW5mVXViUXhUcFNVaGdvd1MwMVFVWm9lQlR0TTJMeC1HNndLRVBwYXIySEdMTFhBQmN5Vi1XRHJWVGc?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-20T09:08:00+00:00"
-    },
-    {
-      "t": "[표] 외국환율고시표",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ub3prSms1RjNLLTJCNUtpRTRHdFBic1JseG5iVnpEN0NXVzhjUVdOSzRWTldsS2pacnlvOHl1SUJDQVJZanNIdnUyc0RDTEkzMXc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-20T09:05:27+00:00"
-    },
-    {
-      "t": "[도쿄증시-마감] 韓 증시 동조해 닛케이 3거래일 만에 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSnppcEFabVlKUEdlcUR1bE5KNXpKNHFGekYweExXNXpnWW5Bem1JUGFjNlE4cktDeG55UmJ6SDg0Z3dhU3puZ2oweGVyNm1TbUdkZ3d4U1dhd2V2dEdKdEdfcXR4UU1sc2JCOHRqNzA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-20T09:04:36+00:00"
-    },
-    {
-      "t": "“국가안보 인프라 국산반도체 사용·기술유출 수사 강화” 김상훈 의원, 경제안보 강화 2법 발의",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hcktFQW12T3VpWldJd25Ccmt2V21vWnhxaEd6VkFSYkJaSWVqcVpTMUhxdVh3NUkwaGFUeWdrM2ZJZWpycU9NRDlMM0NBMTNoNkY3emc1YjR5RHFHVEE?oc=5",
-      "s": "한국방송뉴스",
-      "d": "2026-08-20T09:02:50+00:00"
     }
   ],
   "asof": {},
