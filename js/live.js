@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-20T09:15:16+00:00",
-  "quotesAt": "2026-08-20T09:15:16+00:00",
-  "newsAt": "2026-08-20T09:15:16+00:00",
+  "fetchedAt": "2026-08-20T09:30:15+00:00",
+  "quotesAt": "2026-08-20T09:30:15+00:00",
+  "newsAt": "2026-08-20T09:30:15+00:00",
   "quotes": {
     "kospi": 6852.58,
     "spx": 7707.98,
     "nikkei": 66216.79,
-    "vix": 15.23,
-    "krw": 1391.88,
-    "gold": 4547.4,
-    "wti": 86.34,
-    "dxy": 98.69
+    "vix": 15.15,
+    "krw": 1392.98,
+    "gold": 4546.2,
+    "wti": 86.47,
+    "dxy": 98.61
   },
   "daily": {
     "spx": -0.48,
     "kospi": -0.25,
     "nikkei": 1.36,
-    "krw": -1.54,
-    "dxy": -0.14,
-    "gold": 1.29,
-    "wti": 0.59,
-    "vix": 2.28
+    "krw": -1.46,
+    "dxy": -0.23,
+    "gold": 1.27,
+    "wti": 0.75,
+    "vix": 1.75
   },
   "news": [
     {
@@ -49,24 +49,6 @@ window.LIVE_DATA = {
       "d": "2026-08-20T09:02:50+00:00"
     },
     {
-      "t": "\"환율 변동보다 美금리·고유가 더 경계를\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiWVhrbDBORVNJa01Cd1hnZzNHLTY1WjVBaXNKT2p0bERmMXVJb1pBOERjU2E3WjZpdUF4S1hSYWhTV1lWcW53MENET3JCRVp0ckE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-20T09:02:10+00:00"
-    },
-    {
-      "t": "'40조 주주환원' 하이닉스 13% 폭등...코스피 5.8%↑",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSk5uTXNORDBUVUV0WWs4QmU5UjlOX19yQlJ3YjE3VGpWd1FXcVUxRllpWGp1ZDBZMDdBSUdXbTJ1LUozNzFxYUtaUldJRUdaR0FFckNmNHloTEJfVVE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-20T09:00:00+00:00"
-    },
-    {
-      "t": "K반도체·소부장 ETF, 나스닥 입성",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tYUpyMF9jUWh4WGtRNjZyRGQxTTVLLXJlaWJYU2ZMVXAtVzhDTE9RVFNONmdvWkhNVGRmQy1LTTRKUlNzZnR4cWZtVDBkWXR5THc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-20T08:57:15+00:00"
-    },
-    {
       "t": "[무잇슈] \"광주 성장률 최대 2배?\"···반도체 도시로 본격 추진",
       "u": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44WjVJSEVhMllTak83UlhZQWUxdFlCRDRub2RLN3dXLTRWczFrNERSZFgtN0R6THJ0aXpJZWJDdWhzSXRIY2x2dlF3?oc=5",
       "s": "무등일보",
@@ -83,6 +65,24 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVjZwMnk4N09IRUxPaVBYaDJVNjg0bDBLVE9vWHZMTmJrMjdZZEhVSzh3TmRnNEtST2drdU5seFVkNTZxYVJ1VzJOOFo0QQ?oc=5",
       "s": "전자신문",
       "d": "2026-08-20T08:41:01+00:00"
+    },
+    {
+      "t": "D램·3D낸드 어떻게 발전했나…한국공학대 ‘반도체 콜로퀴움’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MOUFZRzRnOVBsdEk3Z0RucVYtMnpzWFROSGNsNDJfMm5yVTN0VXFkUlRwckEyWDAybWM3eFdyWXl0MFJqeUF3SVVaenRodnJEUFNyMkJ3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-20T08:40:00+00:00"
+    },
+    {
+      "t": "씨티 \"韓 당국, 1,350원 이하 환율 선호…필요시 국민연금과 공조\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UX3JmX1J0TXBjYmpncEVOMjJQQ0lULVZvSFZvYWNQRm9kbGNYalNUa01QLXU5SXZRd3FJQjVQdmN6Z3J3OGpybVhUNlpHQ2ZDellLd25nemFNMkdtSmRSQkpiRkxlRnhhazNKS3pEWUhMdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-20T08:32:41+00:00"
+    },
+    {
+      "t": "‘40조 자사주 카드’ 통했다…하닉 11% 급등, 코스피 6800선 견인",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wQW5NTklPYkNZVEZVaF9FNUVZTGJaYjZON28tR2t6bWFmY1Mxcmo4ci1OYmRIZnhwc3lsWWdrSHNTcTVHczRZNk95TF90SFV6?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-20T08:30:18+00:00"
     }
   ],
   "asof": {},
