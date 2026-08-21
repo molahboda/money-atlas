@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-20T23:45:25+00:00",
-  "quotesAt": "2026-08-20T23:45:25+00:00",
-  "newsAt": "2026-08-20T23:45:25+00:00",
+  "fetchedAt": "2026-08-21T00:00:15+00:00",
+  "quotesAt": "2026-08-21T00:00:15+00:00",
+  "newsAt": "2026-08-21T00:00:15+00:00",
   "quotes": {
     "kospi": 6852.58,
     "spx": 7641.16,
     "nikkei": 66216.79,
     "vix": 16.01,
-    "krw": 1393.72,
-    "gold": 4579.9,
-    "wti": 86.32,
-    "dxy": 98.84
+    "krw": 1390.38,
+    "gold": 4583.2,
+    "wti": 86.27,
+    "dxy": 98.79
   },
   "daily": {
     "spx": -0.66,
-    "kospi": -0.25,
+    "kospi": 5.89,
     "nikkei": 1.36,
-    "krw": 0.31,
-    "dxy": 0.01,
-    "gold": 2.02,
-    "wti": 0.57,
+    "krw": 0.07,
+    "dxy": -0.04,
+    "gold": 2.09,
+    "wti": 0.51,
     "vix": 7.52
   },
   "news": [
     {
-      "t": "IRS 금리 혼조세…선물 연동·플래트닝",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZnhLV09sQnlCSnFZYjdNX3JVLUh0eUI3akFka3JKY2NkSlZkUnRSdFJveEEwZldwZWRjLUxYNG5oUGJOT2FiTUVyVXlXYUgzd0hnUHZsdDdYd25mcWZrdTZJdWlYSG9NTmdrelU3WjXSAXRBVV95cUxPVHRlenhXMkwyTkxnZEpXM0Y4VjhlbV9EeXI1SVRab3JWSDNUVEZ4aDZFYkFDMUcwNDNoeC1COXd3VU40WmpiT1UzckVyQmM4bGZuZ0tQM1diODRJaVdrMG1UaXkyVTIxMzV0TGNSN3lyS3ZqMg?oc=5",
+      "t": "美 대이란 전면 제재 방침…국제유가 한 달 만에 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42UjY1WXNCOHFabDlEQjRIUUc0SmVmVGt5emExdmZIT29kWnlhT281aktJZGY3d2ZBbGthVlBzY21MUDkxRFNfVGhpVlh2bGRSemdHZTUxWFJJMmhKaWVDUk9PMlc?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-20T23:56:23+00:00"
+    },
+    {
+      "t": "국제유가 내림세에 7월 생산자물가 0.4%↓…11개월 만에 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjQUF6OUx4RlhfcEc4STg1Nmh3WER1NWJ6bTc2OXZUazRPemR1aHdndGowVmhteDdfd1pTNW4tOGZTMHBXbEF5akltZk5Da0E0V3RjcW1aajB0eENMMHNXVzZrVjk1bXRJQmt1Vzg2aXQ?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-20T23:46:02+00:00"
+    },
+    {
+      "t": "[마켓 프리뷰] 뉴욕증시 금리 재상승에 일제히 하락…코스피, 반도체·외국인 수급 주목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JYU9FRjFZdXNZZ0JIRm1NaV9lczJZWWV4ZnJmUDBtMzQ0MHJ1T1FNdFFDMmRLVWFwTFVLa3M4U3IycExJeVhaMFRaUFNsOGRReHJ3dTRaQnpoZ9IBWEFVX3lxTE5TV3JWZGNnbUc1UDJwNEJQVHNwdHNRZnBWcjVyU2U5a0pJS1htZW5NeFo1VnVpdW5HaEVoZlNfVnRPcmNsTTRta0Zpd19rYmV3NldWSE4yako?oc=5",
+      "s": "아주경제",
+      "d": "2026-08-20T23:42:50+00:00"
+    },
+    {
+      "t": "[AI MY 증시전망] 코스피, 美 증시 약세 영향에 하락 출발 전망",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fMEpyak9XY09BLWhLcXlfSFgtNkl1OHJxQlVQMWJtckZ0azROWTdGa080SEgzUml1SVVwdkdNNnVCbktMUEZIQ3ZmVHI4ajJDeUJZUVoyQWhaTHJM?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-20T23:42:00+00:00"
+    },
+    {
+      "t": "7월 생산자물가 하락과 美 바이백 확대 등 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nX2tyM0ZhTW0zalJEaHByekNuMG9QMTV1a3F2YXFKdDFfbHlVSDZCVnhaQTFLa3czc0xXeHJ0V1lHZVhud0ZwZF9wZFhUQzFIcmF4QUs4Yjl6d2xkeDdxTUZzX21yUGFBVTRldnhnZ3M?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-20T09:49:56+00:00"
+      "d": "2026-08-20T23:40:49+00:00"
     },
     {
-      "t": "과일 폭염 피해 99%가 경남…추석 성수품 물가 ’촉각’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QTVwdTBIcGFidlBKZG5SUW1fdGFZU3NwWktfOXlZUE5iRVo5TGZ2UWlMcGk4aVhOdVpvdjFNM3d4dmUyOEh1N24zeFF5N252cmVQLU1VRWZwWFFUX0JLSExjOHd1UUk?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-20T09:45:00+00:00"
+      "t": "고환율 부담은 줄었지만…유가·폭염에 하반기 물가 다시 긴장",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcHVlZTZac1JRNTVneW1FLWZSWkhabVMyOHJPS1J5N29idkE3Qk1QMGFvM1hhZUFSOFpnUnRESDlUWWtkaGpYRzlPbGFwUGNKbC1qM0poQ0NQM0FwYnZsd05Ma21GTFlGV2hj?oc=5",
+      "s": "서울뉴스통신",
+      "d": "2026-08-20T23:35:47+00:00"
     },
     {
-      "t": "제프리스, 캐나다 관세 합의 임박에 미국 철강 전망 하향 조정",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DSWRKQ2xMN3ZDQ2tGTFlWU1dmZVc3blhRNm9oa0VLUTZjTm5oX3UwWnNZM3liZC1QVk13QloxT3dlRUxKUVlCazRDOUMwbGUxeG1jSUhkdERqclYwV3cyUmdoQmV2Wkp0S29xb0hnaU9lT29aMjFB?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-20T09:45:00+00:00"
+      "t": "[모닝 리포트] \"8월 금리 동결 가능성, 10월 인상으로 '속도조절'\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMXpCdE9XMVFDeFJSME00NTZUWk1VV0I4VUVHZWlkTHM1TldPV01sZUtyV3A2OUYwUG11ZTdWOHlwZkV4R193TlQ1VHJRbVpPei0wUks1LWpmRWVv?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-20T23:28:00+00:00"
     },
     {
-      "t": "김정관 산업장관 \"대미투자 9월 중 발표...반도체 이야기는 안 해\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2bVpuQ093V1Z0R2FONVkwYTF1R0NwbDduM0RJU1RxckRqdkFPZnIyODBkRXZaekw5QzFhdUVvZndDLXYwel85aWUtQW5HX28?oc=5",
+      "t": "생산자물가 11개월 만에 하락…국제유가 급락에 0.4%↓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oR0RUeUVwTTFOLVdRN0w3WnI3RmpFYWZjWWIzUXZiUVVWam5NaERHbVNZSXkyOHZVVVpOanVyZWNyVm0zWUowejFlYmU5X1k?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-20T09:39:18+00:00"
+      "d": "2026-08-20T23:27:31+00:00"
     },
     {
-      "t": "\"이미 오른 반도체 말고 없나\" ETF자금 지수상품에 '밀물'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vbmQyN0Z1WUctQVZwY0Y0WXJWZ0E1Vzc5d01nZ0dvOUNHb3I1MHFSMzVQa2pLdDk1RUJVdVdxWU5PTmFMZ2VoZ0ZYWFMyblk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-20T09:26:10+00:00"
+      "t": "[모닝 리포트] \"글로벌 채권, 美 바이백에도 금리 상승 우려 여전\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JckZRTzFtQjZONjdOT1AwRk5DaVhDSzZmTEd6NVhYTHFGQ3UxQUpMSTdPbDhwOU1VeXRxYy10OXgwQkcyemhzbkh4alJjUDdlaG5FU3Z2RHlhR1lo?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-20T23:26:00+00:00"
     },
     {
-      "t": "[중국증시-마감] 바이오주 주도에 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yNldzTTk4aFNpXy01QWdidXpENjlfMWt5d1hHckllTWN1R1p0YlJPYTY3S3hRQ3k3TVJvOTdoUnhfMmtkdE40ZFVKU3Q5ZmxiWmUxY1hRWnN3NWZkVVJxN21SUDl0TG5DZmRTRE95VmI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-20T09:25:57+00:00"
-    },
-    {
-      "t": "유럽증시, 장 초반 혼조…유로스톡스 0.05%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNUJYUG9CTmk5Z3NLaTQyWHp0ZUV0eWgxYmg2X2N6V2tDT2pLLXNlVkI4MFhaUFNHVUUxMkFqTDdrM2ZEa2R2RkpqTXExU2YzVFo0c2xBZ2FqdVkwZGowNllCYVQ1czdoTV9kTGk3NGzSAXRBVV95cUxPcUYzZ3FQTnFMN1NnWDFIY0tvTjZUNW1SV3NTWWpvcmVGLVBzbmNoVnFEMlhHVi0td19fWXdEdHlBVTVNZ0NENXhfUkk0bk9zRE1jdnk5OHJiU00yRkRudVNkQ0RZV2g5MkJ4VDZJUGJDVkZ3Sw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-20T09:24:58+00:00"
-    },
-    {
-      "t": "‘SK하이닉스 주주환원’ 힘입어 코스피 5.9%↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BcE5hd2lWYzlmTWxGZUszd2k5S0c5TmEwMVVVQkFvNnhaVENFWVE2TmFOdXYxUnlrMFljZU13LUN3MVBpdmEyQ1RQTElqVW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-20T09:22:44+00:00"
-    },
-    {
-      "t": "'40조 쏜다' SK하닉에 삼전도 들썩…코스피 6800선 탈환",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HWVJVUk9NMEdqdlJRTlMwblpXd01ZVENrbUR6bGphRk5Wb3RUV205RGYxTnZKMl9Fb1JLVndMa215bHByekxwLWpPTi1SUnc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-20T09:13:18+00:00"
-    },
-    {
-      "t": "7천피 가는 길 험난?…미 연준 매파·40조 달러 복병",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YNHI4R2t1UEhndmNoY3h5UkFBal9tbUJEbWpqRlkxNG5GVGdyMzhzZnFfMGZrb2RXVHlhVWVXVTIyc2xKeHFhRU1TRU1nVDA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-20T09:13:00+00:00"
+      "t": "[모닝 리포트] \"수급 반전 지속되면 환율 연내 1350원 하락\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UNmZJZURQa2VnOVBTMGhaVl9HQ3B4bzVueUZzSURwcDJwMnpiaGNLY2k2M2Nka25tdXh3MTRIbTk2RmIzdzJjMFkxRDdydEF2ME1pV0dVOWZ6ZnZS?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-20T23:25:00+00:00"
     }
   ],
   "asof": {},
