@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T14:15:26+00:00",
-  "quotesAt": "2026-08-22T14:15:26+00:00",
-  "newsAt": "2026-08-22T14:15:26+00:00",
+  "fetchedAt": "2026-08-22T14:30:27+00:00",
+  "quotesAt": "2026-08-22T14:30:27+00:00",
+  "newsAt": "2026-08-22T14:30:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYWpNa2V5RjVkNUtxZ3gtNFhZYkJ5eXBTTldrUXdKbFhtcHlXY1pSYUpkRmZWRFNWeFRSTzVaUVlZeUp4aXBwTktZU3NxN19IUnJoVGVLUlVvNzY4QU5pRmNpRGozYms?oc=5",
       "s": "경인신문",
       "d": "2026-08-22T14:08:04+00:00"
+    },
+    {
+      "t": "'관세 풀고 금리 압박' 총력전...트럼프의 '물가' 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82RUxGTG5hQ3AxZXU2eFBmRzRnbk9pelVzT3NIam1KMnJ2aDFTTDFJRzR2NmFCV0Uxc2c2M2J6aU5RMGJmbGdhZEFsNjlEWllYdGdkODgwSm1GN0ZVSFE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-22T13:56:00+00:00"
     },
     {
       "t": "영종구, 지역 물가 안정 이끄는 ‘착한가격업소’ 신규 모집 > 뉴스",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DVUlWVDRIYkZmdnZVWWtMNnA3WGM3a0J3SzJKclBIUWRvOTNxSm54Mlg0U3hrQmpRdVNidlNQeE1uT09Iazh3cmdOQzRCenp1VEVFWUNrVHNPbWNmaW8yS0ZVQQ?oc=5",
       "s": "시사뉴스",
       "d": "2026-08-22T11:51:20+00:00"
-    },
-    {
-      "t": "러시아 정유시설 피격 등에 8월21일 국제유가 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0OWlEbGd3SW1WUWNGcmlZQXBfenJZM3lQS3BpcGVHaEw3bHU2bEdtaFFzLXZ2amwzcDlmcFg1RlRzWGxSdDNac3R6czFDR1FRNUpxeXJhSkgyQUFiZXdhMnlrZnFpZGt3ZE1kbkNVRVE?oc=5",
-      "s": "에너지신문",
-      "d": "2026-08-22T11:43:08+00:00"
     }
   ],
   "asof": {},
