@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T13:45:26+00:00",
-  "quotesAt": "2026-08-22T13:45:26+00:00",
-  "newsAt": "2026-08-22T13:45:26+00:00",
+  "fetchedAt": "2026-08-22T14:00:27+00:00",
+  "quotesAt": "2026-08-22T14:00:27+00:00",
+  "newsAt": "2026-08-22T14:00:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -37,6 +37,12 @@ window.LIVE_DATA = {
       "d": "2026-08-22T13:07:27+00:00"
     },
     {
+      "t": "미-캐나다 무역협상 결렬…“달러 대 달러” 관세전쟁 눈앞",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KbXhVNzY2YVRwbkV6dmx4OEVmMDBfYUFsT2ItRnhwNmdkQVNNSXNIbV9YSklveTBoNTYtYVV3aGZHSGdXeXNDa0hfaXoteTV5R1B4ZVlhTVhNTVNGN2RPOTNQMllmSjNhcV81N200bw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-22T12:58:00+00:00"
+    },
+    {
       "t": "GIST-삼성-MIT, Ru에 탄소원자 5개 첨가로 반도체 배선 \"저항 혁명\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX3RVbEJJcTI5ZVNfTUVLY0pWTnloLU9xVWkyQnA3WnlfekVKSjk3b1AxT0xSRm1ZMExYSkVpbWd0TlNqMEh4Sk5tMnhlVEk?oc=5",
       "s": "v.daum.net",
@@ -65,12 +71,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DVUlWVDRIYkZmdnZVWWtMNnA3WGM3a0J3SzJKclBIUWRvOTNxSm54Mlg0U3hrQmpRdVNidlNQeE1uT09Iazh3cmdOQzRCenp1VEVFWUNrVHNPbWNmaW8yS0ZVQQ?oc=5",
       "s": "시사뉴스",
       "d": "2026-08-22T11:51:20+00:00"
-    },
-    {
-      "t": "美·캐나다 50% 관세전쟁⋯북미 무역전쟁 재점화",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PSkpCbkNMQVRzRHU4dlgwZU5HOHM5UGVkVE0wTG1tb3VGWGRxUWwtQ050eE9MOTlkRktxUy1BZWdVajdCaWZHWFpfNkVJOFROWWVsdGFrODlCZWo2UEE?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-22T11:47:55+00:00"
     },
     {
       "t": "러시아 정유시설 피격 등에 8월21일 국제유가 상승",
