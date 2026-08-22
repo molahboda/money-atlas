@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T15:30:26+00:00",
-  "quotesAt": "2026-08-22T15:30:26+00:00",
-  "newsAt": "2026-08-22T15:30:26+00:00",
+  "fetchedAt": "2026-08-22T15:45:26+00:00",
+  "quotesAt": "2026-08-22T15:45:26+00:00",
+  "newsAt": "2026-08-22T15:45:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.5
   },
   "news": [
+    {
+      "t": "[경제IN] 고공행진하던 원/달러 환율, 1400원선 내주고 1390원대 안착",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zNF9adklsWWJBN19iLUVZNzNVSUhYSXN2OUpCU1FRZUotT3dtWEJQRFZ5UVpQdnkxLVladGV4NEh3R0xXUjN0MkVVcG1jWGxBWDJmSDN3T0JISi1hbVBkUU00NE9zQQ?oc=5",
+      "s": "뉴스비전e",
+      "d": "2026-08-22T15:22:48+00:00"
+    },
     {
       "t": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X2xUZUoyQzljUmd1cFYtcHRfQlZMRWwxeTVlaXNib0xaYVZ4aDBCcXNuR25jaDhDUUJZNXNCVXRQaFp4VDZiMXFxbEs1Z3ZsMm85RVBxUQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSzc1SmxZUk1DXy0xZVlhTk8wbngtOEJsTHJKckcxQlpnTXFWZ2dfRkM3b0NobTNkNnV2NXFVQ0xhZmtnSUhjMHI5bXVyamZwaUg5YW9IdUZVaV9TWFY0YnUtaUhJUWVOa0ZwaWt6OXM?oc=5",
       "s": "더코리아",
       "d": "2026-08-22T13:16:00+00:00"
-    },
-    {
-      "t": "역대급 ‘2조달러 IPO’ 추진 앤트로픽…데이터센터·반도체·전력확보 과제",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVFFpTlpWb2lKWk9lQ2x3eDJmTE9FMVRJakRkQU05R2swVm0xRGs3eFFYaExhXy1tSl9YYmtGRXY1ODNfSmdXZWZ5YjhUQQ?oc=5",
-      "s": "dt.co.kr",
-      "d": "2026-08-22T13:05:36+00:00"
     }
   ],
   "asof": {},
