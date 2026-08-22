@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T16:30:26+00:00",
-  "quotesAt": "2026-08-22T16:30:26+00:00",
-  "newsAt": "2026-08-22T16:30:26+00:00",
+  "fetchedAt": "2026-08-22T16:45:27+00:00",
+  "quotesAt": "2026-08-22T16:45:27+00:00",
+  "newsAt": "2026-08-22T16:45:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.5
   },
   "news": [
+    {
+      "t": "캐나다, 美 50% 관세에 보복 예고… 미국 무역대표부 “추가 대응 추진” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDBJZ1VWRzlKMUdJZUtUdERxa0hnbTFrSmljMkQ1R3BlMktTQV90VGxqRldDVGw4MFRiTWFZUXhGUzFYZkgyQXdHeWpmUi0wQnB6Tnl6dmttanRYN3JDWnhfVF9pTEdKTEU1MVU2dVN6MElIUmdOZktnN3VGYjYyMklpUmdrZXJ3RExpNUhvWUlmdV9Vc1pVRzVnVUdCQdIBsgFBVV95cUxNbDhYUjhZUklyUnFtemtEQ2R2UjhFSVpKbElyMnBxUW9MNTVZUTMyakdlc0R2THVKVTdYbkRJRUhVdjA3NXNJc1V6TV9USnJGbjc2Nk42cl9rQ3psRjNnSDlzd3NhbGhaR2k2dHJ0ejZYLV9pQ1ZnUjBQc1NCckdhNmZRbTV6YTYyVmgzUEVYdHZjMHFwRnVJbjNFbnktcGM0S1BYSjFfWktkSGluTTZRZ0J3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-22T16:38:00+00:00"
+    },
     {
       "t": "캐나다, 무역 협상 결렬 후 미국 관세에 맞불 예고",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKelg0T1JnNkpYWTVnSF9PYWhlOFNDb3E3R2tPNjl3S09vWkx4OWxjSlNqUmV0dDgyUzZLWmNGQUctZlNJZlRBZjlPZldQNTllODhIaTZmNWRUY2k1MDRxMHBfd0JvcWJpM1E?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5",
       "s": "이로운넷",
       "d": "2026-08-22T14:26:19+00:00"
-    },
-    {
-      "t": "이상일 용인시장 “용인 발전 위해 과감한 재정투자…반도체·교통망 확충하겠다”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYWpNa2V5RjVkNUtxZ3gtNFhZYkJ5eXBTTldrUXdKbFhtcHlXY1pSYUpkRmZWRFNWeFRSTzVaUVlZeUp4aXBwTktZU3NxN19IUnJoVGVLUlVvNzY4QU5pRmNpRGozYms?oc=5",
-      "s": "경인신문",
-      "d": "2026-08-22T14:08:04+00:00"
     }
   ],
   "asof": {},
