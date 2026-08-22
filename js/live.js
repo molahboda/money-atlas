@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T16:15:26+00:00",
-  "quotesAt": "2026-08-22T16:15:26+00:00",
-  "newsAt": "2026-08-22T16:15:26+00:00",
+  "fetchedAt": "2026-08-22T16:30:26+00:00",
+  "quotesAt": "2026-08-22T16:30:26+00:00",
+  "newsAt": "2026-08-22T16:30:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -5.5
   },
   "news": [
+    {
+      "t": "캐나다, 무역 협상 결렬 후 미국 관세에 맞불 예고",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKelg0T1JnNkpYWTVnSF9PYWhlOFNDb3E3R2tPNjl3S09vWkx4OWxjSlNqUmV0dDgyUzZLWmNGQUctZlNJZlRBZjlPZldQNTllODhIaTZmNWRUY2k1MDRxMHBfd0JvcWJpM1E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-22T16:10:00+00:00"
+    },
+    {
+      "t": "캐나다 총리 \"9월 8일부터 美에 보복 관세…철강·가전·유제품 집중\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE90SnNNd1J6M21jRkxyUHR1TWE1RnZKb0o1eDg2d2Zwa25rMk5GTTNsSS1WN0RQTTZjVU9xNnE1TW9mZWZJY3k3QWpaMnE4bDZCbU9kazVsT0pRcHBJbnh5d3g4RERHeXQ5MUthSm44NUFGUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-22T16:02:16+00:00"
+    },
     {
       "t": "[경제IN] 고공행진하던 원/달러 환율, 1400원선 내주고 1390원대 안착",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zNF9adklsWWJBN19iLUVZNzNVSUhYSXN2OUpCU1FRZUotT3dtWEJQRFZ5UVpQdnkxLVladGV4NEh3R0xXUjN0MkVVcG1jWGxBWDJmSDN3T0JISi1hbVBkUU00NE9zQQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYWpNa2V5RjVkNUtxZ3gtNFhZYkJ5eXBTTldrUXdKbFhtcHlXY1pSYUpkRmZWRFNWeFRSTzVaUVlZeUp4aXBwTktZU3NxN19IUnJoVGVLUlVvNzY4QU5pRmNpRGozYms?oc=5",
       "s": "경인신문",
       "d": "2026-08-22T14:08:04+00:00"
-    },
-    {
-      "t": "'관세 풀고 금리 압박' 총력전...트럼프의 '물가' 딜레마",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82RUxGTG5hQ3AxZXU2eFBmRzRnbk9pelVzT3NIam1KMnJ2aDFTTDFJRzR2NmFCV0Uxc2c2M2J6aU5RMGJmbGdhZEFsNjlEWllYdGdkODgwSm1GN0ZVSFE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-22T13:56:00+00:00"
-    },
-    {
-      "t": "영종구, 지역 물가 안정 이끄는 ‘착한가격업소’ 신규 모집 > 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSzc1SmxZUk1DXy0xZVlhTk8wbngtOEJsTHJKckcxQlpnTXFWZ2dfRkM3b0NobTNkNnV2NXFVQ0xhZmtnSUhjMHI5bXVyamZwaUg5YW9IdUZVaV9TWFY0YnUtaUhJUWVOa0ZwaWt6OXM?oc=5",
-      "s": "더코리아",
-      "d": "2026-08-22T13:16:00+00:00"
     }
   ],
   "asof": {},
