@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T14:30:27+00:00",
-  "quotesAt": "2026-08-22T14:30:27+00:00",
-  "newsAt": "2026-08-22T14:30:27+00:00",
+  "fetchedAt": "2026-08-22T14:45:26+00:00",
+  "quotesAt": "2026-08-22T14:45:26+00:00",
+  "newsAt": "2026-08-22T14:45:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.5
   },
   "news": [
+    {
+      "t": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5",
+      "s": "이로운넷",
+      "d": "2026-08-22T14:26:19+00:00"
+    },
     {
       "t": "이상일 용인시장 “용인 발전 위해 과감한 재정투자…반도체·교통망 확충하겠다”",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYWpNa2V5RjVkNUtxZ3gtNFhZYkJ5eXBTTldrUXdKbFhtcHlXY1pSYUpkRmZWRFNWeFRSTzVaUVlZeUp4aXBwTktZU3NxN19IUnJoVGVLUlVvNzY4QU5pRmNpRGozYms?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQSEhGQy1UMzF3eW56ZTIxYXpTd2FmYUhLbDg1RGN2bFI0c0MxRmNac3FUZmRwNnhIVlhOdGpHTzY1UFYyYzNWRXkyZWRSTVI3UVNiZ01CMXVjV3QxYWEwOFAwNXZjTEU?oc=5",
       "s": "KBC광주방송",
       "d": "2026-08-22T12:22:49+00:00"
-    },
-    {
-      "t": "반도체 추가세수 등으로 미래대응기금 신설...청년, 성장동력, 지방, 교육·인재에 투자",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DVUlWVDRIYkZmdnZVWWtMNnA3WGM3a0J3SzJKclBIUWRvOTNxSm54Mlg0U3hrQmpRdVNidlNQeE1uT09Iazh3cmdOQzRCenp1VEVFWUNrVHNPbWNmaW8yS0ZVQQ?oc=5",
-      "s": "시사뉴스",
-      "d": "2026-08-22T11:51:20+00:00"
     }
   ],
   "asof": {},
