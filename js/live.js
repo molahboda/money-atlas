@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T16:00:27+00:00",
-  "quotesAt": "2026-08-22T16:00:27+00:00",
-  "newsAt": "2026-08-22T16:00:27+00:00",
+  "fetchedAt": "2026-08-22T16:15:26+00:00",
+  "quotesAt": "2026-08-22T16:15:26+00:00",
+  "newsAt": "2026-08-22T16:15:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -32,7 +32,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X2xUZUoyQzljUmd1cFYtcHRfQlZMRWwxeTVlaXNib0xaYVZ4aDBCcXNuR25jaDhDUUJZNXNCVXRQaFp4VDZiMXFxbEs1Z3ZsMm85RVBxUQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1YmYwVEc2TmxONlYyMlBTS0laQnNaVzdOQ3JrblFtVmlYemxEZGNBVHZBbU9EclREc3pza2JNallRYnhyaHdNUWg2TWE2Q0dRMzdkdDlB?oc=5",
       "s": "데일리안",
       "d": "2026-08-22T15:10:00+00:00"
     },
