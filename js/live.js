@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T13:30:26+00:00",
-  "quotesAt": "2026-08-22T13:30:26+00:00",
-  "newsAt": "2026-08-22T13:30:26+00:00",
+  "fetchedAt": "2026-08-22T13:45:26+00:00",
+  "quotesAt": "2026-08-22T13:45:26+00:00",
+  "newsAt": "2026-08-22T13:45:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -26,7 +26,7 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "영종구, 지역 물가 안정 이끄는 ‘착한가격업소’ 신규 모집 > 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9HWTdWd3dBYjFvY3pfZzR3ajhZR04zaWpzSUwtUXBHMkN5Q3B3ckN5ODRNWHVjMHdyOHRPSmhGdTZqNUU?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSzc1SmxZUk1DXy0xZVlhTk8wbngtOEJsTHJKckcxQlpnTXFWZ2dfRkM3b0NobTNkNnV2NXFVQ0xhZmtnSUhjMHI5bXVyamZwaUg5YW9IdUZVaV9TWFY0YnUtaUhJUWVOa0ZwaWt6OXM?oc=5",
       "s": "더코리아",
       "d": "2026-08-22T13:16:00+00:00"
     },
