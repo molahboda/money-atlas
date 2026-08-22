@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T16:45:27+00:00",
-  "quotesAt": "2026-08-22T16:45:27+00:00",
-  "newsAt": "2026-08-22T16:45:27+00:00",
+  "fetchedAt": "2026-08-22T17:00:26+00:00",
+  "quotesAt": "2026-08-22T17:00:26+00:00",
+  "newsAt": "2026-08-22T17:00:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -25,10 +25,10 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "캐나다, 美 50% 관세에 보복 예고… 미국 무역대표부 “추가 대응 추진” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDBJZ1VWRzlKMUdJZUtUdERxa0hnbTFrSmljMkQ1R3BlMktTQV90VGxqRldDVGw4MFRiTWFZUXhGUzFYZkgyQXdHeWpmUi0wQnB6Tnl6dmttanRYN3JDWnhfVF9pTEdKTEU1MVU2dVN6MElIUmdOZktnN3VGYjYyMklpUmdrZXJ3RExpNUhvWUlmdV9Vc1pVRzVnVUdCQdIBsgFBVV95cUxNbDhYUjhZUklyUnFtemtEQ2R2UjhFSVpKbElyMnBxUW9MNTVZUTMyakdlc0R2THVKVTdYbkRJRUhVdjA3NXNJc1V6TV9USnJGbjc2Nk42cl9rQ3psRjNnSDlzd3NhbGhaR2k2dHJ0ejZYLV9pQ1ZnUjBQc1NCckdhNmZRbTV6YTYyVmgzUEVYdHZjMHFwRnVJbjNFbnktcGM0S1BYSjFfWktkSGluTTZRZ0J3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-22T16:38:00+00:00"
+      "t": "다음 주 코스피 7000선 안착하나…'엔비디아 실적'이 분수령",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50QzlobWpPNHEySFhZQjRTTDdJa0tJQWUzNll3bjRGLUE5OEZfR05VMUEzWE5tcEljeHRad0d4THNWTk1oUDFrYW4yel9DSzdoNDQ0V1lRYk5QUk51cHlMSmh5ZFJ2NTBES0xhTw?oc=5",
+      "s": "데일리25",
+      "d": "2026-08-22T16:28:08+00:00"
     },
     {
       "t": "캐나다, 무역 협상 결렬 후 미국 관세에 맞불 예고",
