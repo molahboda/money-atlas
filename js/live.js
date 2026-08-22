@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T14:00:27+00:00",
-  "quotesAt": "2026-08-22T14:00:27+00:00",
-  "newsAt": "2026-08-22T14:00:27+00:00",
+  "fetchedAt": "2026-08-22T14:15:26+00:00",
+  "quotesAt": "2026-08-22T14:15:26+00:00",
+  "newsAt": "2026-08-22T14:15:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.5
   },
   "news": [
+    {
+      "t": "이상일 용인시장 “용인 발전 위해 과감한 재정투자…반도체·교통망 확충하겠다”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yYWpNa2V5RjVkNUtxZ3gtNFhZYkJ5eXBTTldrUXdKbFhtcHlXY1pSYUpkRmZWRFNWeFRSTzVaUVlZeUp4aXBwTktZU3NxN19IUnJoVGVLUlVvNzY4QU5pRmNpRGozYms?oc=5",
+      "s": "경인신문",
+      "d": "2026-08-22T14:08:04+00:00"
+    },
     {
       "t": "영종구, 지역 물가 안정 이끄는 ‘착한가격업소’ 신규 모집 > 뉴스",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSzc1SmxZUk1DXy0xZVlhTk8wbngtOEJsTHJKckcxQlpnTXFWZ2dfRkM3b0NobTNkNnV2NXFVQ0xhZmtnSUhjMHI5bXVyamZwaUg5YW9IdUZVaV9TWFY0YnUtaUhJUWVOa0ZwaWt6OXM?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0OWlEbGd3SW1WUWNGcmlZQXBfenJZM3lQS3BpcGVHaEw3bHU2bEdtaFFzLXZ2amwzcDlmcFg1RlRzWGxSdDNac3R6czFDR1FRNUpxeXJhSkgyQUFiZXdhMnlrZnFpZGt3ZE1kbkNVRVE?oc=5",
       "s": "에너지신문",
       "d": "2026-08-22T11:43:08+00:00"
-    },
-    {
-      "t": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-22T11:22:00+00:00"
     }
   ],
   "asof": {},
