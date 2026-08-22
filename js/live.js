@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T15:15:26+00:00",
-  "quotesAt": "2026-08-22T15:15:26+00:00",
-  "newsAt": "2026-08-22T15:15:26+00:00",
+  "fetchedAt": "2026-08-22T15:30:26+00:00",
+  "quotesAt": "2026-08-22T15:30:26+00:00",
+  "newsAt": "2026-08-22T15:30:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -11,14 +11,14 @@ window.LIVE_DATA = {
     "krw": 1383.9,
     "gold": 4680.6,
     "wti": 87.06,
-    "dxy": 98.8
+    "dxy": 98.84
   },
   "daily": {
     "spx": -0.44,
     "kospi": 6.83,
     "nikkei": -0.3,
     "krw": -0.4,
-    "dxy": -0.1,
+    "dxy": -0.06,
     "gold": 3.64,
     "wti": -0.88,
     "vix": -5.5
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X2xUZUoyQzljUmd1cFYtcHRfQlZMRWwxeTVlaXNib0xaYVZ4aDBCcXNuR25jaDhDUUJZNXNCVXRQaFp4VDZiMXFxbEs1Z3ZsMm85RVBxUQ?oc=5",
       "s": "데일리안",
       "d": "2026-08-22T15:10:00+00:00"
+    },
+    {
+      "t": "주주환원 올라 탄 삼전·SK하닉…엔비디아도 힘 보태나 [증시전망대]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TZERLeW52MzZtSF9keW54SGs4eEh6VEM2SEdpaWt0X3VOT1dFLUR4cndNR1ctTVNEUlRNa3NfM2VTVlh6b2FDWkRxLWExRzA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-22T15:06:38+00:00"
     },
     {
       "t": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVFFpTlpWb2lKWk9lQ2x3eDJmTE9FMVRJakRkQU05R2swVm0xRGs3eFFYaExhXy1tSl9YYmtGRXY1ODNfSmdXZWZ5YjhUQQ?oc=5",
       "s": "dt.co.kr",
       "d": "2026-08-22T13:05:36+00:00"
-    },
-    {
-      "t": "미-캐나다 무역협상 결렬…“달러 대 달러” 관세전쟁 눈앞",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KbXhVNzY2YVRwbkV6dmx4OEVmMDBfYUFsT2ItRnhwNmdkQVNNSXNIbV9YSklveTBoNTYtYVV3aGZHSGdXeXNDa0hfaXoteTV5R1B4ZVlhTVhNTVNGN2RPOTNQMllmSjNhcV81N200bw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-22T12:58:00+00:00"
     }
   ],
   "asof": {},
