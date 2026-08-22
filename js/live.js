@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T15:00:27+00:00",
-  "quotesAt": "2026-08-22T15:00:27+00:00",
-  "newsAt": "2026-08-22T15:00:27+00:00",
+  "fetchedAt": "2026-08-22T15:15:26+00:00",
+  "quotesAt": "2026-08-22T15:15:26+00:00",
+  "newsAt": "2026-08-22T15:15:26+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -11,19 +11,43 @@ window.LIVE_DATA = {
     "krw": 1383.9,
     "gold": 4680.6,
     "wti": 87.06,
-    "dxy": 98.84
+    "dxy": 98.8
   },
   "daily": {
     "spx": -0.44,
     "kospi": 6.83,
     "nikkei": -0.3,
     "krw": -0.4,
-    "dxy": -0.06,
+    "dxy": -0.1,
     "gold": 3.64,
     "wti": -0.88,
     "vix": -5.5
   },
   "news": [
+    {
+      "t": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X2xUZUoyQzljUmd1cFYtcHRfQlZMRWwxeTVlaXNib0xaYVZ4aDBCcXNuR25jaDhDUUJZNXNCVXRQaFp4VDZiMXFxbEs1Z3ZsMm85RVBxUQ?oc=5",
+      "s": "데일리안",
+      "d": "2026-08-22T15:10:00+00:00"
+    },
+    {
+      "t": "오락가락 코스피에 증권가, 엔비디아 실적·연준 잭슨홀 미팅 주목",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2d2ZtalhHU2tiS3owMDRack1QS1BSVmdxSXZTeGVLanBrWEx1SzBlbEtJMi0wZ2xqOXp5R1lWdUtBcEtoTFUtZG1QaEt4cC01ZmY0X1pyOVZTOExEb3QtcG4wNA?oc=5",
+      "s": "더구루",
+      "d": "2026-08-22T15:00:10+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (46) SMIC(中芯國際)...시진핑 파운드리",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjFFSWJCc1hCSWg1QjRaYjFNQTgxekFPem80VjNGaGZGOEZBS3U0YVBpVTk3NXR3MUpKUVM4LTE3Q0ZCajNFcUVRVjlFbVhnLThvYnJKWjhiM0hoS2g1dlJBdkxnazVzNkpNdlgyb2trLWNTejk4YzY5d0h6ZlFpRENOQlY?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-22T15:00:00+00:00"
+    },
+    {
+      "t": "美무역대표, 캐나다와 무역합의 결렬 후 \"새로운 협상 예정돼 있지 않아\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUnNfbzZFMXJPcUVmaEVQbGwtR3RhanVra29ZWDZ3dlZYelR5NnFmWXpKYUNiRlItXzJKVXN0MHlUUUNaaXBMZHprMkRHVG9fUURJem9kOWtlX2lkWXcyaFZMNnRlUE90Zl8tSzhGRno1UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-22T14:58:48+00:00"
+    },
     {
       "t": "[이로운넷 주간 증시 분석] 비트코인 1억원선 회복의 배경",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR0xOWkFwdWliNlU4VlNRekVVY1ZZS3RhTFYtMUlyVmpXWVBPVDJJRXhrMFZXNHVaaXRJc3lfQ1dEdFMxeFFHR2pwMVpVSFpEdm9oblFfcGJreW9yMVNudlpSNlRmdw?oc=5",
@@ -50,39 +74,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "역대급 ‘2조달러 IPO’ 추진 앤트로픽…데이터센터·반도체·전력확보 과제",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPZUI4MW9saGJjLWNCbTNiY1FCc1hDTklfOE4tTktqNWotWVA2SHRZVW4waVlEbVNncEx2RmxoSTlBMHVjVTZlNHFXdlR0dVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-22T13:07:27+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZVFFpTlpWb2lKWk9lQ2x3eDJmTE9FMVRJakRkQU05R2swVm0xRGs3eFFYaExhXy1tSl9YYmtGRXY1ODNfSmdXZWZ5YjhUQQ?oc=5",
+      "s": "dt.co.kr",
+      "d": "2026-08-22T13:05:36+00:00"
     },
     {
       "t": "미-캐나다 무역협상 결렬…“달러 대 달러” 관세전쟁 눈앞",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KbXhVNzY2YVRwbkV6dmx4OEVmMDBfYUFsT2ItRnhwNmdkQVNNSXNIbV9YSklveTBoNTYtYVV3aGZHSGdXeXNDa0hfaXoteTV5R1B4ZVlhTVhNTVNGN2RPOTNQMllmSjNhcV81N200bw?oc=5",
       "s": "한겨레",
       "d": "2026-08-22T12:58:00+00:00"
-    },
-    {
-      "t": "GIST-삼성-MIT, Ru에 탄소원자 5개 첨가로 반도체 배선 \"저항 혁명\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX3RVbEJJcTI5ZVNfTUVLY0pWTnloLU9xVWkyQnA3WnlfekVKSjk3b1AxT0xSRm1ZMExYSkVpbWd0TlNqMEh4Sk5tMnhlVEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-22T12:42:00+00:00"
-    },
-    {
-      "t": "미·캐나다, 무역협상 결렬…트럼프 신규 관세 현실화",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zbHFfUW9RMmw1ODJWeHAxZUFjaXRDRWJFY1VScWR2Z3ZVTkotTzZQUTY5czY2QUxEa1pnVHFNYlZQaWdVd1hmanpNMVlzYm51Mmc5emdIcXpjNDl6Y19NbWRaZ2JRY0k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-22T12:39:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 저가 매수·서비스업 호조에 상승…국채 금리 부담 속 주간은 하락",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VkNfZXpLZko2bWJEQkpYa2MzMFV1a3A1U05wMFRFTktncE95QWxkUWlsWEJ0MXFkazluUHNpVUhzaU5HMlRVZTFTLUxFZkNReFNFQncwaHd5OEJHaWpVazdYYVREN2dEcFE?oc=5",
-      "s": "sisaworld.kr",
-      "d": "2026-08-22T12:26:45+00:00"
-    },
-    {
-      "t": "전남광주통합시 첫 조직 개편…'반도체실' 신설",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQSEhGQy1UMzF3eW56ZTIxYXpTd2FmYUhLbDg1RGN2bFI0c0MxRmNac3FUZmRwNnhIVlhOdGpHTzY1UFYyYzNWRXkyZWRSTVI3UVNiZ01CMXVjV3QxYWEwOFAwNXZjTEU?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-08-22T12:22:49+00:00"
     }
   ],
   "asof": {},
