@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-22T12:45:33+00:00",
-  "quotesAt": "2026-08-22T12:45:33+00:00",
-  "newsAt": "2026-08-22T03:15:24+00:00",
+  "fetchedAt": "2026-08-22T13:00:27+00:00",
+  "quotesAt": "2026-08-22T13:00:27+00:00",
+  "newsAt": "2026-08-22T13:00:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美 대이란 전면 제재 방침…국제유가 한 달 만에 최고치",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42UjY1WXNCOHFabDlEQjRIUUc0SmVmVGt5emExdmZIT29kWnlhT281aktJZGY3d2ZBbGthVlBzY21MUDkxRFNfVGhpVlh2bGRSemdHZTUxWFJJMmhKaWVDUk9PMlc?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-20T23:56:23+00:00"
-    },
-    {
-      "t": "국제유가 내림세에 7월 생산자물가 0.4%↓…11개월 만에 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjQUF6OUx4RlhfcEc4STg1Nmh3WER1NWJ6bTc2OXZUazRPemR1aHdndGowVmhteDdfd1pTNW4tOGZTMHBXbEF5akltZk5Da0E0V3RjcW1aajB0eENMMHNXVzZrVjk1bXRJQmt1Vzg2aXQ?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-20T23:46:02+00:00"
-    },
-    {
-      "t": "[마켓 프리뷰] 뉴욕증시 금리 재상승에 일제히 하락…코스피, 반도체·외국인 수급 주목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JYU9FRjFZdXNZZ0JIRm1NaV9lczJZWWV4ZnJmUDBtMzQ0MHJ1T1FNdFFDMmRLVWFwTFVLa3M4U3IycExJeVhaMFRaUFNsOGRReHJ3dTRaQnpoZ9IBWEFVX3lxTE5TV3JWZGNnbUc1UDJwNEJQVHNwdHNRZnBWcjVyU2U5a0pJS1htZW5NeFo1VnVpdW5HaEVoZlNfVnRPcmNsTTRta0Zpd19rYmV3NldWSE4yako?oc=5",
-      "s": "아주경제",
-      "d": "2026-08-20T23:42:50+00:00"
-    },
-    {
-      "t": "[AI MY 증시전망] 코스피, 美 증시 약세 영향에 하락 출발 전망",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fMEpyak9XY09BLWhLcXlfSFgtNkl1OHJxQlVQMWJtckZ0azROWTdGa080SEgzUml1SVVwdkdNNnVCbktMUEZIQ3ZmVHI4ajJDeUJZUVoyQWhaTHJM?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-20T23:42:00+00:00"
-    },
-    {
-      "t": "7월 생산자물가 하락과 美 바이백 확대 등 이시각 주요뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nX2tyM0ZhTW0zalJEaHByekNuMG9QMTV1a3F2YXFKdDFfbHlVSDZCVnhaQTFLa3czc0xXeHJ0V1lHZVhud0ZwZF9wZFhUQzFIcmF4QUs4Yjl6d2xkeDdxTUZzX21yUGFBVTRldnhnZ3M?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-20T23:40:49+00:00"
-    },
-    {
-      "t": "고환율 부담은 줄었지만…유가·폭염에 하반기 물가 다시 긴장",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRcHVlZTZac1JRNTVneW1FLWZSWkhabVMyOHJPS1J5N29idkE3Qk1QMGFvM1hhZUFSOFpnUnRESDlUWWtkaGpYRzlPbGFwUGNKbC1qM0poQ0NQM0FwYnZsd05Ma21GTFlGV2hj?oc=5",
-      "s": "서울뉴스통신",
-      "d": "2026-08-20T23:35:47+00:00"
-    },
-    {
-      "t": "[모닝 리포트] \"8월 금리 동결 가능성, 10월 인상으로 '속도조절'\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMXpCdE9XMVFDeFJSME00NTZUWk1VV0I4VUVHZWlkTHM1TldPV01sZUtyV3A2OUYwUG11ZTdWOHlwZkV4R193TlQ1VHJRbVpPei0wUks1LWpmRWVv?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-20T23:28:00+00:00"
-    },
-    {
-      "t": "생산자물가 11개월 만에 하락…국제유가 급락에 0.4%↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oR0RUeUVwTTFOLVdRN0w3WnI3RmpFYWZjWWIzUXZiUVVWam5NaERHbVNZSXkyOHZVVVpOanVyZWNyVm0zWUowejFlYmU5X1k?oc=5",
+      "t": "GIST-삼성-MIT, Ru에 탄소원자 5개 첨가로 반도체 배선 \"저항 혁명\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MX3RVbEJJcTI5ZVNfTUVLY0pWTnloLU9xVWkyQnA3WnlfekVKSjk3b1AxT0xSRm1ZMExYSkVpbWd0TlNqMEh4Sk5tMnhlVEk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-20T23:27:31+00:00"
+      "d": "2026-08-22T12:42:00+00:00"
     },
     {
-      "t": "[모닝 리포트] \"글로벌 채권, 美 바이백에도 금리 상승 우려 여전\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JckZRTzFtQjZONjdOT1AwRk5DaVhDSzZmTEd6NVhYTHFGQ3UxQUpMSTdPbDhwOU1VeXRxYy10OXgwQkcyemhzbkh4alJjUDdlaG5FU3Z2RHlhR1lo?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-20T23:26:00+00:00"
+      "t": "미·캐나다, 무역협상 결렬…트럼프 신규 관세 현실화",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zbHFfUW9RMmw1ODJWeHAxZUFjaXRDRWJFY1VScWR2Z3ZVTkotTzZQUTY5czY2QUxEa1pnVHFNYlZQaWdVd1hmanpNMVlzYm51Mmc5emdIcXpjNDl6Y19NbWRaZ2JRY0k?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-22T12:39:00+00:00"
     },
     {
-      "t": "[모닝 리포트] \"수급 반전 지속되면 환율 연내 1350원 하락\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UNmZJZURQa2VnOVBTMGhaVl9HQ3B4bzVueUZzSURwcDJwMnpiaGNLY2k2M2Nka25tdXh3MTRIbTk2RmIzdzJjMFkxRDdydEF2ME1pV0dVOWZ6ZnZS?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-20T23:25:00+00:00"
+      "t": "뉴욕증시, 저가 매수·서비스업 호조에 상승…국채 금리 부담 속 주간은 하락",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VkNfZXpLZko2bWJEQkpYa2MzMFV1a3A1U05wMFRFTktncE95QWxkUWlsWEJ0MXFkazluUHNpVUhzaU5HMlRVZTFTLUxFZkNReFNFQncwaHd5OEJHaWpVazdYYVREN2dEcFE?oc=5",
+      "s": "sisaworld.kr",
+      "d": "2026-08-22T12:26:45+00:00"
+    },
+    {
+      "t": "전남광주통합시 첫 조직 개편…'반도체실' 신설",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQSEhGQy1UMzF3eW56ZTIxYXpTd2FmYUhLbDg1RGN2bFI0c0MxRmNac3FUZmRwNnhIVlhOdGpHTzY1UFYyYzNWRXkyZWRSTVI3UVNiZ01CMXVjV3QxYWEwOFAwNXZjTEU?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-08-22T12:22:49+00:00"
+    },
+    {
+      "t": "반도체 추가세수 등으로 미래대응기금 신설...청년, 성장동력, 지방, 교육·인재에 투자",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DVUlWVDRIYkZmdnZVWWtMNnA3WGM3a0J3SzJKclBIUWRvOTNxSm54Mlg0U3hrQmpRdVNidlNQeE1uT09Iazh3cmdOQzRCenp1VEVFWUNrVHNPbWNmaW8yS0ZVQQ?oc=5",
+      "s": "시사뉴스",
+      "d": "2026-08-22T11:51:20+00:00"
+    },
+    {
+      "t": "美·캐나다 50% 관세전쟁⋯북미 무역전쟁 재점화",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PSkpCbkNMQVRzRHU4dlgwZU5HOHM5UGVkVE0wTG1tb3VGWGRxUWwtQ050eE9MOTlkRktxUy1BZWdVajdCaWZHWFpfNkVJOFROWWVsdGFrODlCZWo2UEE?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-22T11:47:55+00:00"
+    },
+    {
+      "t": "러시아 정유시설 피격 등에 8월21일 국제유가 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0OWlEbGd3SW1WUWNGcmlZQXBfenJZM3lQS3BpcGVHaEw3bHU2bEdtaFFzLXZ2amwzcDlmcFg1RlRzWGxSdDNac3R6czFDR1FRNUpxeXJhSkgyQUFiZXdhMnlrZnFpZGt3ZE1kbkNVRVE?oc=5",
+      "s": "에너지신문",
+      "d": "2026-08-22T11:43:08+00:00"
+    },
+    {
+      "t": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9makdDYzNHdmxSZWo0TjhCTzRVSmhKdk5iWnpSUVJ6aGsyN1lZQ19mMjhVajNxWC05ZW1vVTNpeDhpNlc3aTRxUDRDMkdwRjV5enpndEJrQnRVOEc4cFY4OWQzaw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-22T11:22:00+00:00"
+    },
+    {
+      "t": "\"월요일 국장 또 폭등?\"…삼성전자·SK하이닉스, 美금리·엔비디아에 주가 향방은?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZmw1ZnVhM2tPWEROZHVNMXkxdWJ5VmZTbWt0LWV4c0k4V0dwcG5PdUM4V2sydG9fOHJpdGdvX3M2c3hZUWx6a0E1SVpmcW8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-22T11:10:12+00:00"
+    },
+    {
+      "t": "카니, 트럼프 50% 관세에 정면승부…“달러 대 달러로 갚겠다”",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByYkpWbEVlcDdnZWlHbkdYWDc4Vy15QlNPUXpzQkRraTd3NnFDdzJxNEg0NGJ4WHdiR0lrcmt1b2RlYnNlRzVEV2JrX1VVQzhmektPOG8wdENaOHhPN1dQdWZIaVVwa3Fj?oc=5",
+      "s": "OBC 뉴스",
+      "d": "2026-08-22T11:04:24+00:00"
     }
   ],
   "asof": {},
