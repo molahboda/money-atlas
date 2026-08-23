@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-23T19:45:26+00:00",
-  "quotesAt": "2026-08-23T19:45:26+00:00",
-  "newsAt": "2026-08-23T19:45:26+00:00",
+  "fetchedAt": "2026-08-23T20:00:27+00:00",
+  "quotesAt": "2026-08-23T20:00:27+00:00",
+  "newsAt": "2026-08-23T20:00:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -25,14 +25,20 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美 50% 관세에 캐나다 “전쟁이다”… 동맹도 敵 만든 트럼프",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfMG14QWQ4YURzc1RScGU0TGw3T2s4RGxoWTBORjUxUmFoV094WGpoQkJWS1VzSWFWSjRXZXpsTGVRd2xuaGI1YWFHd1dBSDU3cUlHU2xkTG5XcXpTcWpZdjhvRWZRVkpSc1dIbk9Idm5MWU3SAWZBVV95cUxNVUtuY2JNbWNvbTlxQ0J2NkV0dDJqczRjZEg0cEZVcHFRek8xOFpYNU9BVksxS0dXNy1YNWVuMksyZERLelgyLUlsVEl6MjFTeWg2bGJXN005YkxkTzBkVW9yR2g0QkE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-23T19:30:00+00:00"
+      "t": "이탈리아, 유가 상승에 따라 경유세 인하 수요일까지 연장",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KWnp2OWNNUmVNbU0yWlNzUG5ZZFFVdkdObE1MdVJyYTNndVBpaXJWZnljU0FQem53NTE0QTZTeHBwdnl6SWRHMXY0WUV3MlFFNjhnOVdpZ01QVGFqOWtNNUMySFp5Mk5zZXEzaUg3dU94VU03Mmc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-23T19:41:00+00:00"
     },
     {
       "t": "5개월 넘긴 석유 최고가격제… 물가 눌렀지만 재정 부담 커져",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wb09qSDZtZ3prSmVRcVdxYndPbFFjOXRaNUUxM2tITHBKT3h1UC1rbkZjTks2bnZEb2tyczFoUVZRdXRFWHA2NFhyOUo1b1djR3gzLXhxSVpNRGF5RTVOMnFjckFzeng2QlZSUGlDdTFQZjNoM2fSAWZBVV95cUxONXFla3VBdkhQbjZiSzNqdWFpMGtXUWRieTJLbFBXbUdZZDhlU21NX3Nlek9EOWcyM3dYdURtUGZUZmluN3JHS3JMdnRTV0UwbjlfMVhJNGxpTXpwRWZuX2F4M0FwSEE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-23T19:30:00+00:00"
+    },
+    {
+      "t": "美 50% 관세에 캐나다 “전쟁이다”… 동맹도 敵 만든 트럼프",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfMG14QWQ4YURzc1RScGU0TGw3T2s4RGxoWTBORjUxUmFoV094WGpoQkJWS1VzSWFWSjRXZXpsTGVRd2xuaGI1YWFHd1dBSDU3cUlHU2xkTG5XcXpTcWpZdjhvRWZRVkpSc1dIbk9Idm5MWU3SAWZBVV95cUxNVUtuY2JNbWNvbTlxQ0J2NkV0dDJqczRjZEg0cEZVcHFRek8xOFpYNU9BVksxS0dXNy1YNWVuMksyZERLelgyLUlsVEl6MjFTeWg2bGJXN005YkxkTzBkVW9yR2g0QkE?oc=5",
       "s": "동아일보",
       "d": "2026-08-23T19:30:00+00:00"
     },
@@ -53,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3NBN2kyZmExUmlmeU5GNGFxRVg4aldyUHpPQktNaUtUbkRoM25GT1kzR0ZiN2d0TjF1cWE5VmZwV0VFUU84TTE1Ukx3UjdIWFhrcmdUQWRKZkc3NHRDMEVpLWlQbmRmR0lFY2N4QWFmM01ncTVZNnRNUExiazE4VXp0T1Rxa0FK?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-23T19:15:00+00:00"
-    },
-    {
-      "t": "美연준 매파 인사, 국채금리 급등에도 \"시장 잘 가고 있다\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aa3djNjBQR242bHBLNEhvUjlLdjhrM0RxY2pZSkZNaGJab0hqUGZmT0JKZ2FRUGgtNGJETl9xMEJjMkE5RDZMSlhFc3NXVzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-23T19:03:00+00:00"
     },
     {
       "t": "미니애폴리스 연은 총재 \"美 국채시장 정상 작동…장기금리는 펀더멘털이 결정\"",
