@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-23T19:00:29+00:00",
-  "quotesAt": "2026-08-23T19:00:29+00:00",
-  "newsAt": "2026-08-23T19:00:29+00:00",
+  "fetchedAt": "2026-08-23T19:15:27+00:00",
+  "quotesAt": "2026-08-23T19:15:27+00:00",
+  "newsAt": "2026-08-23T19:15:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": -5.5
   },
   "news": [
-    {
-      "t": "미니애폴리스 연은 총재 \"美 국채시장 정상 작동…장기금리는 펀더멘털이 결정\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10cVpUbnFyRlNEMnYyd25tai1HdGdDWmNkMUhYNkJpQmFLczBjbDVNVUNPMV9zWTAtYk9Yc0l5WFItcFlyQkowOXBxOUw1SS1ickY5RndtYnByMWl6OERlQQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-23T18:56:19+00:00"
-    },
     {
       "t": "미니애폴리스 연은 총재 \"이란 충돌 장기화하면 추가 금리인상 필요\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84ckxIbjYzNGc5enJMZjRXLVVld2ZFOTkyeVk5SDVoUEVuUGNxTWFnY2h5N0VxMUp1ME5XTzVUSlZMSXJ3TlN1bkc2d2tkcEZNOEU3M0poMVE4M2htMHJpUTJ3Ym8zQ1nSAWxBVV95cUxPUzFqY3l5azhvZFA2ZVFWd3lKcHd5UWF0OHRLaDN0a29qMnFObXBxa25QVEd1aU00SzJtREp0T1BtVUFEX1YzLTNNSUg0XzA3alIyYXRNWGpCNW5XRXNTcDhURllXSlV3anlEaHk?oc=5",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80UEt6b2tva05aWFNTV21FeDduSVZyNWlnSXBNWmRxcm9UM3Z6TzBLNVhtQ0YtdmprU01YZnNpVjBsb0hWbkxWalNNUEoyLTUtcjRGbkQ5UlI5RndZbXlKY0VDdnZZUURnb0c1RlJ1SDFGZw?oc=5",
       "s": "한겨레",
       "d": "2026-08-23T16:09:00+00:00"
+    },
+    {
+      "t": "월마트 \"관세 환급금으로 가격 내린다\"",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5peThqRlY2ZDhlNmhSOWlodFR6SkFfcXJvUWI5V2ZWamNTdGZOa1ZUVmpYNi10UnRlU0ZfTnBYMUczSVN4eEhMWFlFNVBRLVBnZ3lDelJVNlNxRGRpOUtHRHZn?oc=5",
+      "s": "미주중앙일보",
+      "d": "2026-08-23T16:00:00+00:00"
     }
   ],
   "asof": {},
