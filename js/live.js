@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-23T20:00:27+00:00",
-  "quotesAt": "2026-08-23T20:00:27+00:00",
-  "newsAt": "2026-08-23T20:00:27+00:00",
+  "fetchedAt": "2026-08-23T20:15:27+00:00",
+  "quotesAt": "2026-08-23T20:15:27+00:00",
+  "newsAt": "2026-08-23T20:15:27+00:00",
   "quotes": {
     "kospi": 6912.95,
     "spx": 7674.37,
@@ -25,16 +25,46 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[N2 모닝 경제 브리핑-8월 24일] 美 증시, 국채금리 부담에도 상승…다우 0.98%↑",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUeTZEMUxoN255Z3lmb29NOE5EendManU4eEdFR19DTnRMT3REQTdiQXZocjcwUXo5a2kyOHVxLUgtZW42aDRDS3BNMy1IQlVTcXkzbjFRcGhsOHhrcEE?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-08-23T20:12:00+00:00"
+    },
+    {
+      "t": "[기자수첩] 엔저는 하루 아침에 오지 않았다 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41anE1RDBBbEV5TzJEdlE3TFZ1WTB4V20wZDRRVTM4T2M2VlZyVUNDZmRUZ2hOdXFIME1Ta21BXzRXeGhZbTBWNlh0M21WX3Vmb21oakZ4YzVKQkxZbVZiMFl0TXBTenlsNGg40gFwQVVfeXFMUERiTlVHc01qRWZNcGtwcG9wV0ZTZGsxTkRxR25hbFhQLUZpNExUZ1llaWExVzBWRVdlUDk5VVQ3ZEliOHREakl4cVFWUXV3Y3hVUWhCN0hzN1VINnZqclJwTG55dEdGWmZIZGlvU2FXaQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-23T20:00:00+00:00"
+    },
+    {
+      "t": "(20) 공공공사에서의 물가상승분 반영(1)",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UU0lTVWR4SmpLaV9wblo3RVIwamZwZjZSTDNadk0xQkNfRjdqMEQxRFczbURqdVp2d1N2eEtTYjNhVW5xcVJIV19NMjlFeW1sVUVHd0ZmZVU5ZWxsTDBuWnhNbjgxV01HNm5YaQ?oc=5",
+      "s": "기계설비신문",
+      "d": "2026-08-23T20:00:00+00:00"
+    },
+    {
+      "t": "AI가 보내온 ‘채권발작’ 청구서 … 누가, 무엇으로 갚나",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeWExcENwTUl0YkJ5aG05Mm9jcmtjcWctdVJ6S1pCYk80Nkt5cE42M1FaNVd5cndqSFI4UjZxT2RCdHp3UVhSYkZfNUZ3YWZXMkE?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-23T20:00:00+00:00"
+    },
+    {
+      "t": "잭슨홀 데뷔하는 워시, 미국이 택한 달러 코인",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hZ0dYTEVlbU1ReDdqeG5uZ3NYbFNyMnpEWHhfNEpDcE5JdVp0YkVFMUdwNmVvUzg4LXFPLXd4aGpDbExzcFY1ZXRmbzR5bzZyckE?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-23T20:00:00+00:00"
+    },
+    {
+      "t": "미국·일본은 금리 치솟는데 … 중국 금리가 떨어지는 이유",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaYWVfYnUxUFFlM1pIVTRTbEQ4cGtRWnJ0NkVYVHZsejNjNkZqeldoRVhnVktUMlU1ajZnVk5kU0tKSHZ2bl84b1hhb1Y0aW5sOEVN?oc=5",
+      "s": "mkbn.mk.co.kr",
+      "d": "2026-08-23T19:50:00+00:00"
+    },
+    {
       "t": "이탈리아, 유가 상승에 따라 경유세 인하 수요일까지 연장",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KWnp2OWNNUmVNbU0yWlNzUG5ZZFFVdkdObE1MdVJyYTNndVBpaXJWZnljU0FQem53NTE0QTZTeHBwdnl6SWRHMXY0WUV3MlFFNjhnOVdpZ01QVGFqOWtNNUMySFp5Mk5zZXEzaUg3dU94VU03Mmc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-23T19:41:00+00:00"
-    },
-    {
-      "t": "5개월 넘긴 석유 최고가격제… 물가 눌렀지만 재정 부담 커져",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wb09qSDZtZ3prSmVRcVdxYndPbFFjOXRaNUUxM2tITHBKT3h1UC1rbkZjTks2bnZEb2tyczFoUVZRdXRFWHA2NFhyOUo1b1djR3gzLXhxSVpNRGF5RTVOMnFjckFzeng2QlZSUGlDdTFQZjNoM2fSAWZBVV95cUxONXFla3VBdkhQbjZiSzNqdWFpMGtXUWRieTJLbFBXbUdZZDhlU21NX3Nlek9EOWcyM3dYdURtUGZUZmluN3JHS3JMdnRTV0UwbjlfMVhJNGxpTXpwRWZuX2F4M0FwSEE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-23T19:30:00+00:00"
     },
     {
       "t": "美 50% 관세에 캐나다 “전쟁이다”… 동맹도 敵 만든 트럼프",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-23T19:30:00+00:00"
     },
     {
+      "t": "5개월 넘긴 석유 최고가격제… 물가 눌렀지만 재정 부담 커져",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wb09qSDZtZ3prSmVRcVdxYndPbFFjOXRaNUUxM2tITHBKT3h1UC1rbkZjTks2bnZEb2tyczFoUVZRdXRFWHA2NFhyOUo1b1djR3gzLXhxSVpNRGF5RTVOMnFjckFzeng2QlZSUGlDdTFQZjNoM2fSAWZBVV95cUxONXFla3VBdkhQbjZiSzNqdWFpMGtXUWRieTJLbFBXbUdZZDhlU21NX3Nlek9EOWcyM3dYdURtUGZUZmluN3JHS3JMdnRTV0UwbjlfMVhJNGxpTXpwRWZuX2F4M0FwSEE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-23T19:30:00+00:00"
+    },
+    {
       "t": "\"미국·캐나다 협상, 미 알루미늄 업계·러트닉 상무장관 때문에 파국\"",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZM2lHc0pnOFVxU1RaSGctdjRpQ09oUkt2UDNqMmJ3SkRCNURTT1o4c0xtVGJWdVJ3RkI1ckVqTGNFSFZPOVl6RUdFMFZhcmFBNzZVSHBjNl9SMWdKZkE?oc=5",
       "s": "YTN",
       "d": "2026-08-23T19:18:00+00:00"
-    },
-    {
-      "t": "‘사상 최대 주주환원’ 꺼낸 삼전닉스… 코스피 반등 이끌까",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pTVlGVFVwbjRqbXBvWjlXYmUzRUc5bWowMkhpa0tKWlVOa2NnT2V6WS1aVXlUOER6TlAzUzNYUERZT1V5YXNIa0xQaEN0anc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-23T19:16:39+00:00"
-    },
-    {
-      "t": "QQQ 3배와 똑같이 움직인 반도체 ETF… 美 분산투자 깨진 이유",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3NBN2kyZmExUmlmeU5GNGFxRVg4aldyUHpPQktNaUtUbkRoM25GT1kzR0ZiN2d0TjF1cWE5VmZwV0VFUU84TTE1Ukx3UjdIWFhrcmdUQWRKZkc3NHRDMEVpLWlQbmRmR0lFY2N4QWFmM01ncTVZNnRNUExiazE4VXp0T1Rxa0FK?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-23T19:15:00+00:00"
-    },
-    {
-      "t": "미니애폴리스 연은 총재 \"美 국채시장 정상 작동…장기금리는 펀더멘털이 결정\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LV2F0cVZhQVVOQTFUNUl5VHhHcDA2cnZCOGtDZFQ5d1Rpc3F4N3JlX0U3SHNNQWxOM2dfUDQyOG43TmN6bWpWMG9DSWFxRUE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-23T18:58:38+00:00"
-    },
-    {
-      "t": "미니애폴리스 연은 총재 \"이란 충돌 장기화하면 추가 금리인상 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84ckxIbjYzNGc5enJMZjRXLVVld2ZFOTkyeVk5SDVoUEVuUGNxTWFnY2h5N0VxMUp1ME5XTzVUSlZMSXJ3TlN1bkc2d2tkcEZNOEU3M0poMVE4M2htMHJpUTJ3Ym8zQ1nSAWxBVV95cUxPUzFqY3l5azhvZFA2ZVFWd3lKcHd5UWF0OHRLaDN0a29qMnFObXBxa25QVEd1aU00SzJtREp0T1BtVUFEX1YzLTNNSUg0XzA3alIyYXRNWGpCNW5XRXNTcDhURllXSlV3anlEaHk?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-23T18:23:33+00:00"
-    },
-    {
-      "t": "美 금리 인하 앞둔 기관 자금, 중기 채권·전력망 AI로 이동",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWhfMS1EeG9WT21Wd0lnMW1KV3U3TTJnZFFSR3cxNmtUbFA3WndtQXI5OTVCYlFUSFdLQUxqZl94NjZob0tHa2lmRUVEU1F6VlA5dzlsQy1YTDluYVhRMzFwUzNONWFzLVdSV216SEhIM1F1TXRJWXQ0TU9kbFpkemd1S1Z3M25a?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-23T18:15:00+00:00"
-    },
-    {
-      "t": "‘말 아낀’ 워시, 첫 잭슨홀 연설…시장 신뢰 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcE8tcllMaXRXUjVVTHdoZmNGRFN6bE9zd09WUVdYVWJ5aDRXaF9tclp1anZpbGZ6U0x3MjBoSVp2OVBnVzV2RHotWjBkVy1md2psS3lhM05YczJDQldJNkxMbnZoVzV0X2tHOXExYTFnOUFvT3JkMVQ0Znpya2Rla2JIWmJ1TXEz?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-23T18:00:00+00:00"
     }
   ],
   "asof": {},
