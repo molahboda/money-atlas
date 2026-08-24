@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-24T16:45:27+00:00",
-  "quotesAt": "2026-08-24T16:45:27+00:00",
-  "newsAt": "2026-08-24T16:45:27+00:00",
+  "fetchedAt": "2026-08-24T17:00:28+00:00",
+  "quotesAt": "2026-08-24T17:00:28+00:00",
+  "newsAt": "2026-08-24T17:00:28+00:00",
   "quotes": {
     "kospi": 6696.96,
-    "spx": 7660.56,
+    "spx": 7659.26,
     "nikkei": 65528.09,
-    "vix": 15.67,
-    "krw": 1382.38,
-    "gold": 4717.4,
-    "wti": 85.32,
-    "dxy": 98.98
+    "vix": 15.69,
+    "krw": 1383.22,
+    "gold": 4714.3,
+    "wti": 85.39,
+    "dxy": 98.99
   },
   "daily": {
-    "spx": 0.25,
+    "spx": 0.24,
     "kospi": -2.27,
     "nikkei": -0.74,
-    "krw": -0.6,
-    "dxy": 0.18,
-    "gold": 0.79,
-    "wti": -2,
-    "vix": 3.57
+    "krw": -0.54,
+    "dxy": 0.19,
+    "gold": 0.72,
+    "wti": -1.92,
+    "vix": 3.7
   },
   "news": [
+    {
+      "t": "[뉴욕 금가격] 미 국채금리 하락에 3개월래 최고",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vb0o0TmJveUg4TU4wRENLaDJGZG9lN0JVMG45dks1Z0lveDRQWE50a1I2OVhCTWx2WUlGY2htV3JQNktlNkhfX1dQM3lCMXZTWURra2pGR3U1S0wyTlFJMWVCSmZ4ZzhFYnFURUs4Q3l5UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-24T16:50:03+00:00"
+    },
+    {
+      "t": "\"증시 숨통 트이나\"…美, 1383조원 들여 국채 매입 검토",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13S0ppaXl6SW1MY2NIYTVRYnJpdFBvOVBqaVZGWlFCUkwyVWFObS1uVThYUUJwZjJaSENvVjlJcGJ5ZXJETjRsX3d5ZDdGN00xSERqSEdOSjFQZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-24T16:22:00+00:00"
+    },
+    {
+      "t": "[GAM] 타겟 ② 월가 목표가 줄상향...관세 환급 넘어선 실질 반등 주목",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsV1U1dkxZODBfMFRHWEEydUVwN1ZGU1lsRWlDY0t0THZXQmxfWEtjUGN6bkJEaGsxR2lsUmFiSHFnSWJySVVPREIwTGtDOGhLQWFoa0xlSlZ0SldQ?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-24T16:20:00+00:00"
+    },
     {
       "t": "미·캐나다 관세전쟁 장기화?…캐나다, 기업 지원책 마련",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsUHJpbDA3WThpcm1WRHdLY25VdVR0S2NmZnZLc1FuVG9FQl9lNVpLajdRb2Rud0hDZXYxNWl2UkVodUs4Z1hIRU50OHh0dTRiaXpxaFc4dW90VUE?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHhqSFhIQ0kza2dHMnNrMEIzZ0t0SEM1QTZUX2dPNUNFY2NDOHA4OWppYkxJZmVjdC1SMEs5Tm9BZXFQdmRSQ0c0NzQwR2VGd195cUp4bkZVakRfYlhxcG9ITEtuZ1NMUUQyVkpMaU8wbjRFMTI3OVlLMFVKU013Vg?oc=5",
       "s": "조선일보",
       "d": "2026-08-24T15:37:00+00:00"
-    },
-    {
-      "t": "[사설] 동맹에 더 고약한 관세… 한미 통상 협상 방심 말아야",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWU45WVZKaldEWjl5TDY5bHkza2wxT25ENnhWLTNRZEZxSTVnaUhvaGlWTUpWZEdsUzhEbWppU1VFWWp3WWhsYXZoZWVJMmEwNFVReC1ZQUZ4dWZxbHJGdTJmREF5cUNDXzBybmEyVWI4QW9VMGVLbkEydWZGbmNoNVVB?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-24T15:36:50+00:00"
-    },
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 24일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVp4aHMyX09JZFF3TG1pMmdzQnBGTVBTYnNqZFFORktKNEpzR0JiVUNkN2hTQ2JTYnpNaWRUS2xLQzcwT05oXzdoSUxUMi1pa2dxQ1FsUGFNUUdqaTE0bTUzejNHci1aNHB0NndXSnNVd21tSE5lSFBQMXVwMy1jMGNTTU1GSWRj0gGcAUFVX3lxTFBvRWRJMk53YkZnZk1mNjlTMThCZXZici1wTlBBWDF3SFp0ZnMtMGxLWURQaHpZWFlpV2hSclQyc05sUW5QQUxJdlBWNHZVdWtQd1gyV1dPSnlrVWNnWUJCeEJINmM5T1B3dENZVkdHZ3puT3VaWmlZOXBxTnYydzViRmtPMElaakc0V21LVEJmeUZSUE5YVmkyRDJ2LQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-24T15:36:00+00:00"
-    },
-    {
-      "t": "[경제시평] 한은의 금리 결정을 앞두고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFV1lsTzM2UGI0dEZzckIyVll1d2NvV21JcndHTUFzUXYyemNvdVpDV3FFT19CQlh5YmtuT2dUWXhFQXB2ZklfOEItSGhpUzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-24T15:35:49+00:00"
     }
   ],
   "asof": {},
