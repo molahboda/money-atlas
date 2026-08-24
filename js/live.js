@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-24T16:30:26+00:00",
-  "quotesAt": "2026-08-24T16:30:26+00:00",
-  "newsAt": "2026-08-24T16:30:26+00:00",
+  "fetchedAt": "2026-08-24T16:45:27+00:00",
+  "quotesAt": "2026-08-24T16:45:27+00:00",
+  "newsAt": "2026-08-24T16:45:27+00:00",
   "quotes": {
     "kospi": 6696.96,
-    "spx": 7667.86,
+    "spx": 7660.56,
     "nikkei": 65528.09,
-    "vix": 15.69,
-    "krw": 1382.81,
-    "gold": 4716.3,
-    "wti": 85.24,
-    "dxy": 98.96
+    "vix": 15.67,
+    "krw": 1382.38,
+    "gold": 4717.4,
+    "wti": 85.32,
+    "dxy": 98.98
   },
   "daily": {
-    "spx": 0.35,
+    "spx": 0.25,
     "kospi": -2.27,
     "nikkei": -0.74,
-    "krw": -0.57,
-    "dxy": 0.16,
-    "gold": 0.76,
-    "wti": -2.09,
-    "vix": 3.7
+    "krw": -0.6,
+    "dxy": 0.18,
+    "gold": 0.79,
+    "wti": -2,
+    "vix": 3.57
   },
   "news": [
     {
@@ -61,28 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-08-24T15:45:47+00:00"
     },
     {
+      "t": "\"코스피 상승 동력 잃고 하락 국면에 진입… 5000선 붕괴도 가능\"",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHhqSFhIQ0kza2dHMnNrMEIzZ0t0SEM1QTZUX2dPNUNFY2NDOHA4OWppYkxJZmVjdC1SMEs5Tm9BZXFQdmRSQ0c0NzQwR2VGd195cUp4bkZVakRfYlhxcG9ITEtuZ1NMUUQyVkpMaU8wbjRFMTI3OVlLMFVKU013Vg?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-24T15:37:00+00:00"
+    },
+    {
       "t": "[사설] 동맹에 더 고약한 관세… 한미 통상 협상 방심 말아야",
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWU45WVZKaldEWjl5TDY5bHkza2wxT25ENnhWLTNRZEZxSTVnaUhvaGlWTUpWZEdsUzhEbWppU1VFWWp3WWhsYXZoZWVJMmEwNFVReC1ZQUZ4dWZxbHJGdTJmREF5cUNDXzBybmEyVWI4QW9VMGVLbkEydWZGbmNoNVVB?oc=5",
       "s": "서울신문",
       "d": "2026-08-24T15:36:50+00:00"
     },
     {
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 24일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVp4aHMyX09JZFF3TG1pMmdzQnBGTVBTYnNqZFFORktKNEpzR0JiVUNkN2hTQ2JTYnpNaWRUS2xLQzcwT05oXzdoSUxUMi1pa2dxQ1FsUGFNUUdqaTE0bTUzejNHci1aNHB0NndXSnNVd21tSE5lSFBQMXVwMy1jMGNTTU1GSWRj0gGcAUFVX3lxTFBvRWRJMk53YkZnZk1mNjlTMThCZXZici1wTlBBWDF3SFp0ZnMtMGxLWURQaHpZWFlpV2hSclQyc05sUW5QQUxJdlBWNHZVdWtQd1gyV1dPSnlrVWNnWUJCeEJINmM5T1B3dENZVkdHZ3puT3VaWmlZOXBxTnYydzViRmtPMElaakc0V21LVEJmeUZSUE5YVmkyRDJ2LQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-24T15:36:00+00:00"
+    },
+    {
       "t": "[경제시평] 한은의 금리 결정을 앞두고",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFV1lsTzM2UGI0dEZzckIyVll1d2NvV21JcndHTUFzUXYyemNvdVpDV3FFT19CQlh5YmtuT2dUWXhFQXB2ZklfOEItSGhpUzg?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-24T15:35:49+00:00"
-    },
-    {
-      "t": "반도체-AI 등 메가프로젝트 우선 투자… 청년 일자리-직업훈련-주거 사업 확대",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FdGFqa01McnJldTFDWWh0cmQ2eFhpZElPTzNJdy1GQm1FbWRxVk1XZ3dwekt0dDZ2eDRncHFRNTJmZFE0Yk9mM1o5aTB3YXpuOF9NekpXZUtUeVUwNl9zc0l4bUMtd3VPV3U5dnBXN0VDb2VtamfSAWZBVV95cUxPeFVfUjYyLWxqYnhQalRyVWlfdDlFUTdQRUR0RnRmbUFfTDFFb2M5QnNCeGpNSG1sVTlfSjNBLTFRUF9PQ0VqaTNKQkNuN0R1cnpaR21oUWF5V00xZVdQMXotbzF1X3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-24T15:30:00+00:00"
-    },
-    {
-      "t": "[애널리스트의 마켓뷰]반도체 기업 주주 환원, 한국 증시 우상향 이끌 것",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84cGh5SzJRUmlzb1ZHWm9XRGRjQjZTaFlPVkR1WjJxNV9uT2ZoeHMyWlBsYV9SZmNXTTVNeHRGTzlNOWVqS0RHR1Z2OHdwVHRRc0U3ZzN5NDFNLXZSR0hQVVVKM0J5OEJsRUVWZTgxSjNkRlQwZ2fSAWZBVV95cUxOTTRIWHFNSzduTEl1X19BMndWOXRUcmZ2bVZlRDBrQ19NWnRHQjBiUHN0cUJlbmtHUzNRVmV6TFU3Y3oyTU4wUmo0VS1RNmhsX05aZmZjYXh1N21JYm51ZTUtQ2VuR0E?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-24T15:30:00+00:00"
     }
   ],
   "asof": {},
