@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-24T23:00:29+00:00",
-  "quotesAt": "2026-08-24T23:00:29+00:00",
-  "newsAt": "2026-08-24T23:00:29+00:00",
+  "fetchedAt": "2026-08-24T23:15:26+00:00",
+  "quotesAt": "2026-08-24T23:15:26+00:00",
+  "newsAt": "2026-08-24T23:15:26+00:00",
   "quotes": {
     "kospi": 6696.96,
     "spx": 7652.86,
     "nikkei": 65528.09,
     "vix": 15.85,
-    "krw": 1382.2,
-    "gold": 4719.4,
-    "wti": 85.1,
+    "krw": 1382.17,
+    "gold": 4724.7,
+    "wti": 85.11,
     "dxy": 98.98
   },
   "daily": {
@@ -19,11 +19,59 @@ window.LIVE_DATA = {
     "nikkei": -0.74,
     "krw": -0.2,
     "dxy": -0.02,
-    "gold": 0.46,
-    "wti": 0.11,
+    "gold": 0.57,
+    "wti": 0.12,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "[AI MY 증시전망] 美 반도체주 하락…코스피 '숨 고르기'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PXzRfSHA2WTlNVWtTQjVZVVBxX2JsWUVNMXRjZjV6UnRyNkkxRlE5bUNBaFYyZDhiUzVwVkdEaHp6eUEwRkhTSHNsUXdGa1R6UUNSNkEwaTVSempN?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-24T23:11:00+00:00"
+    },
+    {
+      "t": "삼계탕 한 그릇 1만8천원…지난달 외식 물가 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtWU1xa0NZTXZuYXhwaEM3dGwtb2czU1ZvZ1JHeWFGRmpKVUxNUG5mTldyVXozWEE3cFRwS3RZS3I2LThfa3hpTDJ0UWtfcVk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-24T23:03:06+00:00"
+    },
+    {
+      "t": "소비자심리지수, 넉 달 만에 하락… 증시 조정 여파",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGNTNPZmxpQzJkZXBKMG96QzljNGVYckNtd2dzSlIzUmtxdktxeWdMZkxhR1I0QVdSNTZoTGg5TVVOc2xMNXo3X3huSFpBbHZ4ZEV2M0U3TVdNZUdhNDliUHpUV1lldm1tLUE?oc=5",
+      "s": "천지일보",
+      "d": "2026-08-24T23:01:52+00:00"
+    },
+    {
+      "t": "美-캐나다 무역전쟁 격화...트럼프 \"내년 車 관세 50%로\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGY2QwTTNhWEJLRGNCVTdrMV9NWEFMT3ZSM1JPNUlNZHIwWVVRTjdkY0l5VUxMci1UbEtodHA1RVB4X09DTUQ4OFFuY1VDaGlRd2JHMmFlRld0MWVNa2FHdDNBdVR5UF9HSVp1MS1zWnM?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-24T23:01:08+00:00"
+    },
+    {
+      "t": "1600원 바라보던 환율,1300원대로 떨어진 3가지 이유",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85UFRKVUxiZFBBREJrb1poandqMkJXbE1xNEh6amFIZnZ4aUtPNFFYM0ZwclJuSHZOR2N1VDlEMmlWcENzQUFiZGZEMzgySm8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-24T23:00:09+00:00"
+    },
+    {
+      "t": "[뉴욕환시] 달러 상승…'美와 관세전쟁' 加달러 급락 속 이란 고립 작전",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53VW9vUDZGa3gzUzhuS2w4U1JwcUtnZ1FLd3lFQXdnWVRLM1BDT1NMVWZWNEF3dXdBWVV1SXZnTFg1MUY2OEZ4TjAycXVtX3hheE5yTnNvRVFqaElaNGxfVFhtaGdCSWhGU1JMVlYxRDg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-24T22:54:26+00:00"
+    },
+    {
+      "t": "원·달러 환율, 1383.26원…보합권 등락 전망",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zZWlhOGpOUnMybVVKcXo1ZV9BTmE0dUdUU3NzSlBKYXM0bjVuY0tUU3M4T2FCVGE3LW5lOG9BX1JpRnJ1Z3RvNEduQ3l6M1dxM0p2blN5S1o1aHpjcDZtaTUtTTNYVWtCNG1rWHFzOA?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-24T22:54:01+00:00"
+    },
+    {
+      "t": "국제유가, 미국의 대 이란 제재에도 차익실현 매물에 7거래일만 하락",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRVRINGNXM2J1c0VyUmRxTzcwRF9zMlRGT1ZFRjFpVzkzVy0zbmJlYWxBcVJIYjIxT1JVb0kwakdKR0p2c3dfc0FnQVhNOThIVkJndmxhdzVCb0s2V3c?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-24T22:53:31+00:00"
+    },
     {
       "t": "[0825개장체크] 美 증시, 엔비디아 AI 칩 가격 인상 통보에 따른 반도체 투매 및 AI 비용 부담 우려",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOHBYTF96RGM0VU9GaVFGcHNyVnA0MEtqTW9acXZ4NjVBQ1JUWWp2MXc5SnhVenItbE50aGJ2UkZaVi1XdDRBcGFBeERrdDF3OUx1c0paN2YwaERHbWZjY21jSU42V1UxRTVRaDdURTJRUl9m?oc=5",
@@ -31,58 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-24T22:46:05+00:00"
     },
     {
-      "t": "모건스탠리 \"채권시장 단기처방은 한계…장기금리 상승 지속 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sT0Qwa2o0WmdyYnhhaFNzSU9GTEFmaUVQWmt3SjAtQkNMdDdMdkdQSGVWUC01dXhNVC0wb1ZrdU9FQldXRGRhRGVaeDJaTlpxUEgzbmZEWXZtNlotcFVLUjduQTFfSzlyaHNmME9EQWM5dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-24T22:39:05+00:00"
-    },
-    {
-      "t": "국제유가, 대규모 이란 제재에도 2％대 하락",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbV96ZmhhZWRQY0pPOXNtQV93b3dhMmZoWEZWSHhKU3AwbWJxSDlNZGt2NFRESUpIZEJvM3g5MGpCUVk5cnFvb2RvRXdhYW9ENzlQQjhPYW1HZDBNb2N6X3Z5Z0c4RUJGZHFZRFk0M3ZFOU5SZC1RbmRyQllzR2Vzb0FYVG16cmFY?oc=5",
-      "s": "TBS 서울",
-      "d": "2026-08-24T22:35:00+00:00"
-    },
-    {
-      "t": "[채권/외환] 미 재무부 '1조달러 현금' 바이백 활용설…美 국채 금리 하락·달러 상승",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DSmJQRmp0alhNeTdsTnNIY2ZCa2ZCZlpiWFhJNEdPQXdkVVFuVkpMOVJMaVZJWkpveENsU2tjcGZkVDhzMnpOWE5jLXJrenMzaEJwZkN4R3RVdTBG?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-24T22:35:00+00:00"
-    },
-    {
-      "t": "[마켓 프리뷰] '악재'된 삼성전자 주주환원…장중 환율 1370원대로",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nTkZ2REs0c2duTlBBdTVmb0ptZTJtNUdVaTYyMzlxcEllbmNOeld5NjczblI3NUhjX2hMVFNDbERoWDV4QVRmd2hZTG1DSnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-24T22:34:12+00:00"
-    },
-    {
-      "t": "9월 정상회담 앞두고...美, 中 생산과잉에 7.5% 관세 검토",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xeWV3OXA1Y01BX0Iwa1NHWkd4Mk5oLThWR3lwbmF4RVE1SlVvUDU3dGx0LTNjUXItS1BOZkhyMTFFaHdEekNJLWlfUjdIYjcwT041Q0w1dzkxZ9IBWEFVX3lxTE5mcGhJOGNjN3dFSEp5T1VZZnZOc3RFSVA1c1pYOHR2bFFDV0ttRWlUcFhJVzRvSUNoWm03VHlWVkg1TnlCT3NRZ21WbFZma3RXYVpRdkg2YmE?oc=5",
-      "s": "아주경제",
-      "d": "2026-08-24T22:33:21+00:00"
-    },
-    {
-      "t": "뉴욕증시, 기술주 약세 속 혼조 마감…나스닥 0.76%↓",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LT1pjaXktajRnX3hPOUZIR1VsSWkxYWFBcXBfdlpJZEVEZjRoekRZTzF6RHhFNjQ4MW9OXy00UnpiWmNTOG5fVHAtd0dTX044cV90V1ZkcE5kd9IBX0FVX3lxTE9sWXYySWhrUmFCVmlLWmM1MG9lN0VZaVJKalU2VENlemlZRC1JVlpHOExGYmZXa2dXclQ2RUpxNEhkWFVZeFU0Wl94RFdvTUtqay15MTZNLWpsTWZqTDJR?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-24T22:32:00+00:00"
-    },
-    {
-      "t": "하나證 “코스피 3대 변수…삼전닉스·엔비디아·잭슨홀 주목” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmxtbkNKUVhIdXZnRXctbzVFQXJtajZSNmNyTU5Ldmo0LUpOYnduS1pWbUZLSElvRzlYeTdCNm1iVkUyUHM2ek9HTVg1WlFnRzRPUks1QjFfNXpqNlh2TWhFV1Y2bGVYa3I0dlpBRDg1d2RLRjZKZ2VWU1FuN2J5NTZWcDhzRGRl0gGcAUFVX3lxTFBQWGw1QlZXNndZMk55WkxHTjRVRjBLQ21KNUhqalEyMUQxdHp2Uk9mRTlNZUtJT3hSeDhPRTNzaUszc0k5MGJIaTF5ek5TaHN1NUd1TUVjZVFHRXljcjFBOTFnUDJrdDIwbmJWMTNtZ1VMZElWaXRiSUNlYXNtWUJhT1RqOFRHcmxLZEI1c2NKMEYzWVk5YnVfRy1hSA?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-24T22:29:00+00:00"
-    },
-    {
-      "t": "[투자노트] 고금리 시대 투자법… “금리 오를 땐 ROE, 유지할 땐 ROA 봐라” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1A3TllnV05KblRPdUJNTlAxcEpVcEllci1CaUp2UURWTUNCLTBjelZzVHEzRzJ0eVQzTGt5SFNDWTZNVXdZbHVOX0t4YmtPamZmc2VYYldxWndLV3hWdWRfU0NtS1dKUnBsZG5xZ0t2Nkx5UHR1SFNFZ1AzM255RU5MZThBcWtQ0gGcAUFVX3lxTE1ucnphTWtGVk5wZHdMbUdjUDNfM2FoNDhZNHJSX0pXNEhEczRkVGxaVW5NM0Rnd0E5M2FxeldrZGVXS0tFcUVEd3lxNW54SHVabmQ0Z2d2WlhVM3dpYVZRcG1YQU44SkNvTElCVWc2cGVrYm55Nkp5LWZ6a1dYTGV0dEdRcWZPNHRIMDBwdllHNERzS1J5YzA1WHV5Yw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-24T22:27:00+00:00"
-    },
-    {
-      "t": "“집에서 구워도 비싸네“…삼겹살 밥상물가 12% ’껑충’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WSzBoYnVVbDRUQXpRUEtVbEFfSXY5dHhZY29zV2ZfV0wtaFYzUUNaV1VwTkNhTTF0SFZGdFRFQ2hJYzFIaTJpSEs0RW8tdzYxYkpJbWVGVDNRdFdGXzhsT0huUlRFd2c?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-24T22:25:00+00:00"
+      "t": "[3분증시] 뉴욕증시, 혼조세 마감…기술주 약세",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPaDdnVzJERGZpNkltandkS1h2bjVkN2ZjN2lnc2VOc1RHYWJ4MzRtQnZLM2lFMzhuNm81TVd5QV9GdWs5ZGk0dm9DTE9uRm92VzVRMnVWRzdldEtaZ2tlTVQzMURhd0ZNOGt3LXY4WnR4RHpD?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-24T22:42:22+00:00"
     }
   ],
   "asof": {},
