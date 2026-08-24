@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-24T16:15:32+00:00",
-  "quotesAt": "2026-08-24T16:15:32+00:00",
-  "newsAt": "2026-08-24T16:15:32+00:00",
+  "fetchedAt": "2026-08-24T16:30:26+00:00",
+  "quotesAt": "2026-08-24T16:30:26+00:00",
+  "newsAt": "2026-08-24T16:30:26+00:00",
   "quotes": {
     "kospi": 6696.96,
-    "spx": 7666.18,
+    "spx": 7667.86,
     "nikkei": 65528.09,
     "vix": 15.69,
-    "krw": 1382.65,
-    "gold": 4717.9,
-    "wti": 84.88,
-    "dxy": 98.97
+    "krw": 1382.81,
+    "gold": 4716.3,
+    "wti": 85.24,
+    "dxy": 98.96
   },
   "daily": {
-    "spx": 0.33,
+    "spx": 0.35,
     "kospi": -2.27,
     "nikkei": -0.74,
-    "krw": -0.59,
-    "dxy": 0.17,
-    "gold": 0.8,
-    "wti": -2.5,
+    "krw": -0.57,
+    "dxy": 0.16,
+    "gold": 0.76,
+    "wti": -2.09,
     "vix": 3.7
   },
   "news": [
     {
-      "t": "'매파' Fed 인사, 국채금리 급등에도 \"시장 정상 작동\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CMXBFeTZEVDlEbTExRFBUenQtbjBSN3ByY3lIeFpOYWFBeDJ0QkpFNEpGUUVSYU1Cd2FRd0pTMGtnakdxZTBscFRYbHpMSkpTcDJhczdqWGFpUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-23T21:11:34+00:00"
+      "t": "미·캐나다 관세전쟁 장기화?…캐나다, 기업 지원책 마련",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsUHJpbDA3WThpcm1WRHdLY25VdVR0S2NmZnZLc1FuVG9FQl9lNVpLajdRb2Rud0hDZXYxNWl2UkVodUs4Z1hIRU50OHh0dTRiaXpxaFc4dW90VUE?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-24T16:12:00+00:00"
     },
     {
-      "t": "‘주주환원’ 삼전닉스 안전하게 올라타는 법…그룹주 ETF가 뜬다",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xa21aOXR4WEtueUtNMGhJV1NaR1o1UlVTcGNtR2w3bDJzVDlzVUgwUnl6VHo1TXl1NG1CMER4R1JYSG9aZEkxTWF4YkRhWjFIWHc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-23T21:07:38+00:00"
+      "t": "[단독] 美, 중국산에 7.5% 추가 관세 검토…대중 관세율 20% 복원 추진｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CeUh3M2NCZ2doNVY5Wl84azBPS2xlNHNNM2FGOXZjQnpPYWNQWnV5T0ZjSnRma1BOX2hvWkVHU2RFSVZiRGFPQzRpd092dVF6MDNCSU5rVFZZTkU?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-24T15:52:16+00:00"
     },
     {
-      "t": "불닭대박 예견한 투자고수…“비축해둔 현금, 이럴때 과감히 써라”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Z3gzdFpJRkRCTUZxNTJPWmRRcUNuN3ZyOV84dkdFQTI4OFM5OWhQTGJ2T2FEZ2ZqRjJtU3p0Z2M0VTBpbHR1eWdOeUMzMVpFeFE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-23T21:06:47+00:00"
+      "t": "골드만삭스, 반도체 장비 전망 상향 조정 및 최고 종목 선정",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcU9sYW45X2tqZ0Vka0x4ei1pNUlSaVNqVDFXYWphY2Z3U1p5MEJCSTE5bnBDQktzMDNHdkhHZ3huRGFlZXRfdnU0ZU9EaVJpYmE1a05aY0dIakdaNkZ3RW41UWZtOXVkQ3F3cV9LbGJwUmNyYUJn?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-24T15:49:00+00:00"
     },
     {
-      "t": "7000선 공방 코스피…엔비디아 실발·잭슨홀 '빅위크'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sQ1NoTC1xbEd6eXlyQ0lQOVZvT3p4LVhrNjI0YlAwejJEVTNDenVKQlBOeVRWV3ROaFlKY3NtMWh1X0hvNUk2UkE5TlNfWnM?oc=5",
+      "t": "증시 자사주 소각액 2년새 4.5배로 늘어",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjBjQWQ2c1pTNWhBUlNEN2RoZnNjTTlhbE1BNjF6aTVsSmt6UVNrVlhnZElCV3RxVDRXSWthTENfb0tWUElDYU9PMmlBdC1wMVFGQnE2bTYteXMzSTh3ejdKM3JOdUZxaWx4blhVWnJWZjNRZ0pLUG82Q0N4eHlkU0gxTGh2bTVnZGFv?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-24T15:48:00+00:00"
+    },
+    {
+      "t": "미국, 시진핑-트럼프 정상회담 전 중국산 7.5% 관세 부과 계획",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQUxNMzRrd09ZcDdidEVWLVpMN0E4RG5TRE1YNVFOMlNNNVY0cGNPamRGXzA4aEtYWUlreTI0OXhQeFZIMGFPVFZMRUZvcU9tQ3htYzhOT1hNN3psck1RZ2I5WFQ3LUlKcmc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-24T15:47:00+00:00"
+    },
+    {
+      "t": "트럼프 \"내년부터 캐나다산 車·부품·철강 관세 50%로 인상\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZEU0b3pWMFdYMHpkelBKSGZJS0xPejB2U1JKeDJpci1Ia3ptSWE0UTk0TDZFNzlhaHZnREJSVkxSN2ZBeHFoOEx2bmZtYVU4VnNtbFREMElxR0RPOGxMbDJ1WWJITFB0d3NMNV9pdWPSAXRBVV95cUxOYVQydUtqcXN4RXlrc1Y0QnR6aEdMdFpudkkyWVk4ajdjWEFQU01vYVk4bmJqdHNOYy0wc1llWjdSd09ENWZkdmt1elN6ajVmR2ZQZW9nX2t3VzBrVmVKdEExeGFJTXFtc3NOTnoyNmtQT1F0dg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-24T15:45:47+00:00"
+    },
+    {
+      "t": "[사설] 동맹에 더 고약한 관세… 한미 통상 협상 방심 말아야",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWU45WVZKaldEWjl5TDY5bHkza2wxT25ENnhWLTNRZEZxSTVnaUhvaGlWTUpWZEdsUzhEbWppU1VFWWp3WWhsYXZoZWVJMmEwNFVReC1ZQUZ4dWZxbHJGdTJmREF5cUNDXzBybmEyVWI4QW9VMGVLbkEydWZGbmNoNVVB?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-24T15:36:50+00:00"
+    },
+    {
+      "t": "[경제시평] 한은의 금리 결정을 앞두고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFV1lsTzM2UGI0dEZzckIyVll1d2NvV21JcndHTUFzUXYyemNvdVpDV3FFT19CQlh5YmtuT2dUWXhFQXB2ZklfOEItSGhpUzg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-23T21:02:55+00:00"
+      "d": "2026-08-24T15:35:49+00:00"
     },
     {
-      "t": "전문가 65% “8월 인상”… 국채 금리 급등에 속도 조절론도 [Pick코노미]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKSFpmTmtnUDBLN19Tc0YtaXRXV3N0bWpHNEt3Z1RfUm9qd3VEd3NuS0U1QzFwUDNWb3c0dkhpRVc3anc1SnVOWi1qMHFtRWFoREE?oc=5",
-      "s": "서울경제",
-      "d": "2026-08-23T21:00:15+00:00"
+      "t": "반도체-AI 등 메가프로젝트 우선 투자… 청년 일자리-직업훈련-주거 사업 확대",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FdGFqa01McnJldTFDWWh0cmQ2eFhpZElPTzNJdy1GQm1FbWRxVk1XZ3dwekt0dDZ2eDRncHFRNTJmZFE0Yk9mM1o5aTB3YXpuOF9NekpXZUtUeVUwNl9zc0l4bUMtd3VPV3U5dnBXN0VDb2VtamfSAWZBVV95cUxPeFVfUjYyLWxqYnhQalRyVWlfdDlFUTdQRUR0RnRmbUFfTDFFb2M5QnNCeGpNSG1sVTlfSjNBLTFRUF9PQ0VqaTNKQkNuN0R1cnpaR21oUWF5V00xZVdQMXotbzF1X3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-24T15:30:00+00:00"
     },
     {
-      "t": "반도체 후공정 대목 맞은 대만…올해 투자 20조 원으로 확대",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QckJwSjVILTRWRmRMTjFsWlJ4WEJlX0VHMnBXY2poaWlTUDZsUnA2azMxb2h4YXFLVzEtWDN1MXhwclB4eG1DNmtDSExUV0VZSnc?oc=5",
-      "s": "서울경제",
-      "d": "2026-08-23T21:00:12+00:00"
-    },
-    {
-      "t": "[미리보는 증시재료] 美 엔비디아·韓 금통위 '촉각'…코스피 향방 좌우",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMekhqcHFMZmF6NHlGaDZoemxWUW9DTmFGREQ4MDU0Z1YyQ3ZiVi1SbWs0UFpkZFBTblpPX2RMUVpBUXZ5bHV2VWZzUUU5MUhMN2YxMWo1RUtJUThU?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-23T21:00:00+00:00"
-    },
-    {
-      "t": "美 국채 금리 상승이 왜 국내 증시를 흔든 걸까요[금알못]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ySU5GZHhNQW44czNEVFNvRkhjQUh3T0JZUVZOWkpBdWFGSG1uenIzX3IyZGVJX2Mxek5DRXEyYjh5QmhmVHZocEx4Q3hCa0VqbnlyaDhrUjZTb1hxREpKdtIBeEFVX3lxTE1VX1BKNFdsVDljYkkwdG0zWnRfbFZ0Vm9Ha2JHNWFCdnRNWXROa2lGdHd6UVpJdDY0TlhleWZKWXRUQWdWTmhHTFV5ZmwzQ3YwbktFaC00dk1yN01vcWRpUDJLX2Zkc2NLTVBkekN5djJfb1dtYk1EdA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-23T21:00:00+00:00"
-    },
-    {
-      "t": "1400원 깨진 환율 어디까지…삼전닉스 주주환원에 1350원 전망도",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odUZSelhpTGxUaHEwcHh0eHZCNFdiZWcwaDliTmZTT1R0cFJ0T0hqNW1aWnV3X043Qm81T3paamw4eHZKNi1iTWtxUmdxWFR5NzIwU9IBWkFVX3lxTE9YcHhLdHRjZGtHUHhxaUc0OEk2ZExja2cwR2JvdE5ITW5kM0Vkbmp4dmk3bUdMMjNRODZiYVl4RG5RdjY5LUN3VTJIb3B2aDdXenZmMWtIc0tsQQ?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-23T21:00:00+00:00"
-    },
-    {
-      "t": "800조 투자, 정주 여건 없이는 헛돈다",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wWU5MSWVQeXlkbXRJWnNZdmEwRWhudktYczd3Q2xkQXVkeXZTVk9hNGd4bllUOHdGVDlyekNValZLcjYwRWtQZzhyTXU2S1BGM0pRcFdZQjBvTHByNUpXek5QQ2dDVW1D?oc=5",
-      "s": "한경매거진&북",
-      "d": "2026-08-23T21:00:00+00:00"
+      "t": "[애널리스트의 마켓뷰]반도체 기업 주주 환원, 한국 증시 우상향 이끌 것",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84cGh5SzJRUmlzb1ZHWm9XRGRjQjZTaFlPVkR1WjJxNV9uT2ZoeHMyWlBsYV9SZmNXTTVNeHRGTzlNOWVqS0RHR1Z2OHdwVHRRc0U3ZzN5NDFNLXZSR0hQVVVKM0J5OEJsRUVWZTgxSjNkRlQwZ2fSAWZBVV95cUxOTTRIWHFNSzduTEl1X19BMndWOXRUcmZ2bVZlRDBrQ19NWnRHQjBiUHN0cUJlbmtHUzNRVmV6TFU3Y3oyTU4wUmo0VS1RNmhsX05aZmZjYXh1N21JYm51ZTUtQ2VuR0E?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-24T15:30:00+00:00"
     }
   ],
   "asof": {},
