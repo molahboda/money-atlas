@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T02:30:26+00:00",
-  "quotesAt": "2026-08-25T02:30:26+00:00",
-  "newsAt": "2026-08-25T02:30:26+00:00",
+  "fetchedAt": "2026-08-25T02:45:26+00:00",
+  "quotesAt": "2026-08-25T02:45:26+00:00",
+  "newsAt": "2026-08-25T02:45:26+00:00",
   "quotes": {
-    "kospi": 6555.3,
+    "kospi": 6587.46,
     "spx": 7652.86,
-    "nikkei": 65351.31,
+    "nikkei": 65598.68,
     "vix": 15.85,
-    "krw": 1381.67,
-    "gold": 4706.8,
-    "wti": 85.8,
+    "krw": 1382.48,
+    "gold": 4703,
+    "wti": 85.77,
     "dxy": 99.02
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -5.17,
-    "nikkei": -0.27,
-    "krw": -0.24,
+    "kospi": -4.71,
+    "nikkei": 0.11,
+    "krw": -0.18,
     "dxy": 0.02,
-    "gold": 0.19,
-    "wti": 0.93,
+    "gold": 0.11,
+    "wti": 0.89,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "이 대통령 생산적 재정 전환 주문과 금리 전망까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVUFIbkFUTVNaMDV4c1ZxQXJUdmkyTW1CcTNWeVhHYjk2OTFSNXZ5Ti1LMjM2X0I1SmNVVUdYSXdvSElOb2hiNDJfMUlMdUg1U2ljQ2l0QnVsbTRqU2x6TUlIb2pZN18xSWt6d3BPVm_SAXRBVV95cUxOWndqMk82b2JjYm1Za1lwdEk5d0tnNTlnbFNaQ3BBRFlyUkRldjFGdjBubnBiRkFwNjgxWGRRMlFfQVNGaFd3WWV0elFKRDNQYVRhb0JCOWIxbGh2QnZEU3NWUWMwVzNGYTFNdUlKNWxZbHFSZA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T02:38:10+00:00"
+    },
+    {
+      "t": "채권시장 종사자 5명 중 4명, \"한은 금통위 8월 기준금리 동결할 것\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80U0VtbTl2MHBvaEJxQS1xUVFwZmdyYmJjbkNNWjR2UlZwMFRMY24yTDlTUzZfcHpOblQwX1JFbjRNT2xIT1htdUZEajhPMXl0b2lRSkpldHU4Tm54YkQ5bzNXbXgxaHF20gFuQVVfeXFMTUpVZ2pUa1F3WmlaaWoyQmpfRUUzbWxMSzNQNmNvR0o4UENIMUUyckRfY05OeEdxREwzbnM5MFpsOTczTDI1V3UtV2FZeGdrbDl3WnhEaFozc2ZXelpxYjdNckxveGlVTXNEUk8xMEE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T02:29:55+00:00"
+    },
+    {
+      "t": "日 증시, 美 반도체 투매 여파에 닛케이 1% 넘게 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoMi0zQlZvY0ZBMDVfcXAzaC1tWWlTMlRzcEFKQmNIX21aWDIzWWZkaGdRSkp6cF94TVBXbkhHS3VxSDgtVzRLQTFRbjNNRFNuVVJVTzZSdGpNaXBKWHNaME43S3FGdXlkd1FTLVV2QkU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T02:29:37+00:00"
+    },
+    {
+      "t": "與오기형 \"미래대응기금, 재정 안정화 장치…반도체 추가 세수 모아야\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0eHFSemRGWGN4TElYV3NvdXVLc1BtMjJybVAtZE5PODhMemZpdlhDNnI3QVBqNXRxSjBseEhjNXpwdkd2cVl5V2kzSzdJSWtFX3NKM3p0dGNMZUJGOHhwLUdWSDVmNEt3dnROZ1VlUTM?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T02:29:28+00:00"
+    },
+    {
+      "t": "채권시장 참여자 10명 중 8명 \"8월 금통위서 기준금리 동결 예상\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FMHlPVUs3OURyQlZ3Y3RpSjZtY2lrZF9PT3RGRGlkdDBYbElxckY4LWRWWHMwNkNlYm41blRBWHJ3ZjVGaVV3Wi1Ud1p1LThXLVhyaDdldy02UHphU2VtcFE0OEpRMVJ3QVdOT1A5OEI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T02:25:48+00:00"
+    },
     {
       "t": "크레이머 \"美국채 바이백으로는 장기금리 못 잡아…인플레가 관건\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQ3RMaUtHeUlMcm9CMDRTNVdWUExjUlktZEMyNVlNMkVNZ2MzWS1QbHc1dU5vRDE1UW00dFN6MkhQVDRvU0xTV20wV1FVYkN5V1BIZjM4WTN0WllIQllOSk44ckh1S0hiaERiYWlMVlE?oc=5",
@@ -31,58 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-08-25T02:22:22+00:00"
     },
     {
-      "t": "출발증시 2부",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTNvbFBaa0dJbGhVUGdYSzE3dXhuLV9UdENGOEUxLUVQeEhhZklNclJsaW8xQTJKVUFnQVZ2T29KLW1QcmxVbS1QdDNKZ1dzR1JuOUwxY3p0Rlp5amZhQVlLX3djbDFfTDZXLVc5dzVwdVBqcDJmNW5BWTRzdlZoWVA2clBuMENhMlB3a1FiY2hDZHRENGRGb0IwS2wtYk1uTUQ0?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-25T02:21:52+00:00"
+      "t": "RBA 의사록, 인플레이션 위험 속 금리 인상 논의 공개",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05TzRiWmZYX2N4Yk9vR0V2TUFJZVpxQjdJd0Z4RF9PWDZXZDdOSzB3UjNoVnJSZXAxOGtIdkF3b09iRDZPQTA0YTM0b0U5ckd0S2ZRZExJblNmVjNMc085UEdIQnVybGctYW9uc0JQUkhMSUU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T02:22:00+00:00"
     },
     {
-      "t": "전문가 10명 중 8명 “한은 금리 동결”…투자심리 소폭 개선",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbU1pYnpIMDRvcFp3ZXFPdjcxY2tPdTM3OWNraFRqdkV6WUIza2NWcy1oNTVPZHA3OWVLSHZxYW8tUzFvS1I0a1VaWmdBZDRvQTdKYU0zMlpBNmFoWVM2MG04WnNfUXRhYzE4S3RTaTJNaWY1bVlMVGhGcE1OR2NqV0pOeWszeGVD?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-25T02:18:17+00:00"
-    },
-    {
-      "t": "코스피, 1∼2%대 하락세…장중 낙폭은 다소 줄여",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtTHEzc1dyZGZSblpLVVNETXNPZzBRTTJEUlBCSWotVDc3bTFmcS14VGhkQ1RCQU9yV1hMLW1kZzEybmF5TnZaQzJrUGd3eDQ?oc=5",
+      "t": "허준영 교수 \"美 국채 금리 인상, 가장 큰 걱정은 韓 반도체 감염\"[금융치료]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BTlBsRm0tdkN1bE55dlhpQjh2Y084YnljdVoxUl9BcW5TYmVrM2d6TDR2dldQRDdoNWJmcG1jVkt6TlBjRjRWRDBDbHJDeUE?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-25T02:11:59+00:00"
+      "d": "2026-08-25T02:15:04+00:00"
+    },
+    {
+      "t": "\"美, 9월 정상회담 전 中에 7.5% 추가 관세부과 검토\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yM3dxcFRsbDlMeVh0T2t5b0g5MDlMenR1M0hqWHVoWUdlSVdTWm5Kbkc1OXI3M0hwR1N5MV9JakZNc3BXdmJCcXczRm85SkRxN01Mc042NFVXU09sU0IzMA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T02:14:18+00:00"
     },
     {
       "t": "[외환] 금통위 앞두고 1,380원 보합권 레인지 장세",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CSG12WXVWeEUtV0FjSVQ4OHAwYm9KeDhETFhLaE9RZG9qR0JLN1BvXzhoTTBTWUs3ekZPd1VLdDBnMW9qUjNDRG9HZzJmSnpxNEVBZzdWMlNQdFI5N1JfbmZWSnVNeGxfbzVIX3dvZS1JZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-25T02:10:54+00:00"
-    },
-    {
-      "t": "이상일 용인특례시장, “용인 반도체 프로젝트 속도 내서 메모리 분야 반도체 초격차 유지해야”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15WDRmb0dtaXpZbUVHdnZiYjFCU1J4dE1IZzdRQnhCa25uNGVVc1lhcHFGVXZYcTJrUUNWaTBlOWZYS3ZtV2RNalp3QVhidkU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T02:10:03+00:00"
-    },
-    {
-      "t": "서학개미, 반도체·기술주에 '뭉칫돈'…\"엔비디아 실적이 분수령\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGQ3c1V1dqY1EwNGZqd1pmTDktb28yNUZQbzVSUUxGNVVISG5HdG9ZYzF5VmxWa2VXc1hsRVVfaVI2MkdtRURseGJwbTIxMHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T01:52:42+00:00"
-    },
-    {
-      "t": "반도체 특별회계·전기차 보조금..성장동력에 예산 쏟는다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95OXNsWjlMZmd4Tkw2Zno0eUNtbVUxN1hsczVXVDBjS3ZBaG1ad2NxeTVhYm1QbTBiU1A2WFhXSXZkSnhCU1U0eVFpMmg0Qnc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T01:48:42+00:00"
-    },
-    {
-      "t": "MS \"금리 하락 추세 완전히 반전…2차 대전 직후처럼 오를 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiU2lpVFFhd0NqNGRmUERkY1BEQjVPdUt6WlVZNE0wdTd4ZGpKX1J5MTdBZFZ2VzU1cEpfaXR1VEFlcHB2MThHYU1BblVLcEFTOFV5ZXViY05SN2xoajlYWWtSYnVib0xWR0F5WmVJZFXSAXRBVV95cUxPUGJiSkFxN2gyXzM5MEJxRmgycjh2dVo3NkZaT2piZEhPTXRqRGJhTWNKbHRDeHpGUThXdEhHMTBZVF81bThlS1lnVUluUkhkaTFEaWxQQ0xMZ0xfdUxfNHRzUmdzUkRXXzVFbEdBTGJBVXBORA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T01:47:59+00:00"
-    },
-    {
-      "t": "[증시타임] AI 투자 ‘수익화’ 진입…美 반도체 톱5는?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NTDhkWWpzdkVKNUkwbVU2MWs1T25sb1hIUzM4SWpXR0NGalV6YmQ3VzIxS05MdlQ4UktkZ0ttNzZTbC05WmZjd2xsQjBIS1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T01:39:03+00:00"
     }
   ],
   "asof": {},
