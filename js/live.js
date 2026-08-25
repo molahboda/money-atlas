@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T14:00:59+00:00",
-  "quotesAt": "2026-08-25T14:00:59+00:00",
-  "newsAt": "2026-08-25T14:00:59+00:00",
+  "fetchedAt": "2026-08-25T14:15:59+00:00",
+  "quotesAt": "2026-08-25T14:15:59+00:00",
+  "newsAt": "2026-08-25T14:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7675.04,
+    "spx": 7671.67,
     "nikkei": 65856.43,
-    "vix": 15.81,
-    "krw": 1385.12,
-    "gold": 4663,
-    "wti": 82.19,
-    "dxy": 98.94
+    "vix": 15.87,
+    "krw": 1384.74,
+    "gold": 4676.5,
+    "wti": 82.47,
+    "dxy": 98.96
   },
   "daily": {
-    "spx": 0.01,
+    "spx": -0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": 0.01,
-    "dxy": -0.06,
-    "gold": 0.48,
-    "wti": -3.32,
-    "vix": -0.25
+    "krw": -0.02,
+    "dxy": -0.04,
+    "gold": 0.77,
+    "wti": -2.99,
+    "vix": 0.13
   },
   "news": [
+    {
+      "t": "레이먼드 제임스, AI 서버 CPU 성장 수혜 반도체 종목 발표",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxc0twcEhSNk1ray1ITzRaZ0FvVlJ4aEtLa3pSak1IclNYU0Z1NVV1VVJUTl9QREdQRDUxYlhqTF9xRzhoVDhIenlKNGlRR1lZZjJwdTU0eU9lZThDbmszWXhKanN3dnZYUEtXdFc0dEpRSlc2bmZz?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T14:05:00+00:00"
+    },
     {
       "t": "對캐나다 관세전쟁에 美북부 술렁…중간선거 영향 주시",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CTWZaV3lCQ2JiTkpFV3A2VmthbmVYM3pPbVVLM0FUVng4Y3hvYV9LdDVrM0Q2TGNVamJvRmlRYVhzOEwxOUt4dU5kcUpQaDQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYzJmZ1FZb3hMWF9URk8yYzVGZWxxM3ZlcGF0aVItQ3A4eUhCY0pzMkVBMkVSY3pON1JuVWtEZ1dubENZUldPYWdiYmU4ZUtZY3FVdjM2STRITTFuS2dTa1lyYnZabW9Hc3c?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T13:04:00+00:00"
-    },
-    {
-      "t": "증시 프라임타임_2026년 8월 25일 (화)",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fM0xSeXN6T0xjV3kyNHN2WWZZcTVEWWdtcHpaaXh4bDdBVFV0YmJaUWI4WGhCd1NoSzV3QW1jcEdXMTlMUl9jakE0VTNTY1JQanJlbll3?oc=5",
-      "s": "DealSite경제TV",
-      "d": "2026-08-25T12:55:10+00:00"
     }
   ],
   "asof": {},
