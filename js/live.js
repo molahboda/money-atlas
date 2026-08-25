@@ -1,40 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T03:45:27+00:00",
-  "quotesAt": "2026-08-25T03:45:27+00:00",
-  "newsAt": "2026-08-25T03:45:27+00:00",
+  "fetchedAt": "2026-08-25T04:00:28+00:00",
+  "quotesAt": "2026-08-25T04:00:28+00:00",
+  "newsAt": "2026-08-25T04:00:28+00:00",
   "quotes": {
-    "kospi": 6586.83,
+    "kospi": 6620.5,
     "spx": 7652.86,
-    "nikkei": 65783.89,
+    "nikkei": 65696.79,
     "vix": 15.85,
-    "krw": 1382.87,
-    "gold": 4696.4,
+    "krw": 1383.43,
+    "gold": 4688.3,
     "wti": 85.4,
     "dxy": 99.05
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -4.72,
-    "nikkei": 0.39,
-    "krw": -0.15,
+    "kospi": -4.23,
+    "nikkei": 0.26,
+    "krw": -0.11,
     "dxy": 0.05,
-    "gold": -0.03,
+    "gold": 1.02,
     "wti": 0.46,
     "vix": 4.76
   },
   "news": [
     {
+      "t": "충북도·청주시, '반도체 클러스터' 추진전략 모색",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yY1VsTGtfaVEwelYtVlRmNGZUT0luSEtRbEEta1B0UUlqSmptb1g1R2lteGE4S1dHNWFsMGlSWThrRmk0Sy1jYjByWjdNeU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T03:55:54+00:00"
+    },
+    {
       "t": "코스피의 '배신'...지갑도 닫혔다",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkN1N3bDY2cUxmVnhkaUI3LVZXZTlPNXlkQjZvQXI4azd1bG5sTzFPcmJNbFA4cTFrSlZDcks5U3pab21XUl9ZYURuTUlSZ0hRcVJMN19BOE1QXzlJSDd5WmpqMDdjUmlyR2ZNSg?oc=5",
       "s": "한경매거진&북",
       "d": "2026-08-25T03:18:00+00:00"
-    },
-    {
-      "t": "중국, 태양광 웨이퍼 가격 최대 40% 급등…미국 관세 앞두고 주문 몰려",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RXBtMjEzaHpDU1ZjeDRQOXJsbUF5dUpfZGJiYVBhSFNOck1UdngzV2hMbmpOaHU2NGM3Nk1vbzA5OE16eFNiVGh2UVQ3NzZ0SEg2WnlHa2t3a00yMjdmbi1GU2RHb2psMnc?oc=5",
-      "s": "AI타임스",
-      "d": "2026-08-25T03:01:52+00:00"
     },
     {
       "t": "삼전닉스·구글 만난 기후부…반도체 받칠 재생에너지 정책 공유",
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T02:52:32+00:00"
     },
     {
-      "t": "낙폭 줄인 코스피, 6550선 회복…외국인 2조원 순매도 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXF2YWIycXhzOVZ3ejhNMXVWczJqUVFoa2NvODhRSXQyYVFlM2huaVc0Zzd5T1JPT04tMm9maTNXVHhINXZtS2xrQk53WUVpcS1IZWk2N192YnpXUXZlcHpHYWo5Tk9kdDVOX0JyTjBJSTdzTEZDQ0M1bEhra3lPX3pmQzdHVjR20gGcAUFVX3lxTE1ybGQ2ejM4UVBzRTZ3WHFpSGNtZ2p4ZVdtUnNzdXpDMDlyWDNYbnBJN2c3TzMxRFM2bmpNdGlvbE1ZcXVzWDRhdjRXU1l1aWVmUXZyYzlUV1lfMHpXd0dQYTdBaXk5dkpNVXFoajBXbHoyZXBMRmxYUU51bER4N1E1QmRQTlp3LXR2Y21yRG1mN2xzeHhFdVZwR29pSg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-25T02:50:00+00:00"
+      "t": "경제학자들도 '베선트 풋'에 경고…\"금리 조작하면 안 돼\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83dExfYVhGTGUtaGFBSG9pUFpDRHhjcU1IRzlYR2xTNWY0VHdQanV0TDVzX2MyOXFRTEZZWkJHWU95TkxkejRCNnZuRURSdUNrRlpjcjZyNE9iWTlNSU5KXzFqN0h3QlB3RGYxZjg1LWY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T02:52:00+00:00"
     }
   ],
   "asof": {},
