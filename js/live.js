@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T12:30:59+00:00",
-  "quotesAt": "2026-08-25T12:30:59+00:00",
-  "newsAt": "2026-08-25T12:30:59+00:00",
+  "fetchedAt": "2026-08-25T12:45:59+00:00",
+  "quotesAt": "2026-08-25T12:45:59+00:00",
+  "newsAt": "2026-08-25T12:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.79,
-    "krw": 1383.47,
-    "gold": 4691,
-    "wti": 82.41,
+    "vix": 15.78,
+    "krw": 1383.68,
+    "gold": 4688.7,
+    "wti": 82.34,
     "dxy": 99.02
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.11,
+    "krw": -0.09,
     "dxy": 0.02,
-    "gold": 1.08,
-    "wti": -3.06,
-    "vix": -0.38
+    "gold": 1.03,
+    "wti": -3.14,
+    "vix": -0.44
   },
   "news": [
+    {
+      "t": "호남 반도체 전력·용수 등 인프라 '예타 면제'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T01GTWNteVpkMk9QMWZfNzNVSzNHY21LR0Nzb0pMZlBHdDJMOFlPQlpwYzdjMDRqalZ4aW9oSWEyRklveTNwQkVEOWRBYmlPRGkxckExMjZNaXRTZ3h1cA?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-08-25T12:22:00+00:00"
+    },
     {
       "t": "당정, 반도체 특별회계 신설…AI·3대 메가 총력전 지원",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SU1XYUVuRnNBcy15Rzd2WFp3V0RqQk1RSk13SDNnMWZtaHRDRjlzNWw5NlNhSTNIa2F3dURNcVVadUtQTzIxSlU3Q3dmYjUzOHh0aUthRHdRQdIBX0FVX3lxTE5CSm03cEVuNm16SjlSZ0hXTmEzS1NvaXl5c3JjcWwtSnRQcGVQSVV6bE05Zk1vd3A5WlBDS1dlb003N1c4Q0pHZnhlaHJzSVlHejNYaVZ1aWo0TDJuUE9F?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLR2VodThTTWI3LVZ2T21rTzhpSkpZOXhFa1NKS3RUY0tUWUk0Z0xuRnRXbl9NSkIyQ050b0lrNkRmc1Z6N3BadGs5el94NXN0bkE2TDBRWFRvaTZwc1BBOFNBeU8zdHc?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-08-25T11:12:00+00:00"
-    },
-    {
-      "t": "[인도증시] 유가·美 국채 금리 하락에 투심 개선, 상승...국영 구리기업 7% 이상 ↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZEpIVHpNb2k1Q1lOS0lGcE9DS05mYURYR0ZDcENHQnFDMElNUGpodVBiZzVGYmthV2lqcXJuR0J4ZFR5QmNIanBYaEVxZGRGNmc5VWlSVzhWOFF3?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T11:00:00+00:00"
     }
   ],
   "asof": {},
