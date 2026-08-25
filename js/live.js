@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T04:00:28+00:00",
-  "quotesAt": "2026-08-25T04:00:28+00:00",
-  "newsAt": "2026-08-25T04:00:28+00:00",
+  "fetchedAt": "2026-08-25T04:15:26+00:00",
+  "quotesAt": "2026-08-25T04:15:26+00:00",
+  "newsAt": "2026-08-25T04:15:26+00:00",
   "quotes": {
-    "kospi": 6620.5,
+    "kospi": 6597.19,
     "spx": 7652.86,
-    "nikkei": 65696.79,
+    "nikkei": 65700.36,
     "vix": 15.85,
-    "krw": 1383.43,
-    "gold": 4688.3,
-    "wti": 85.4,
-    "dxy": 99.05
+    "krw": 1383.66,
+    "gold": 4690.1,
+    "wti": 85.48,
+    "dxy": 99.06
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -4.23,
+    "kospi": -4.57,
     "nikkei": 0.26,
-    "krw": -0.11,
-    "dxy": 0.05,
-    "gold": 1.02,
-    "wti": 0.46,
+    "krw": -0.1,
+    "dxy": 0.06,
+    "gold": 1.06,
+    "wti": 0.55,
     "vix": 4.76
   },
   "news": [
@@ -29,6 +29,24 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yY1VsTGtfaVEwelYtVlRmNGZUT0luSEtRbEEta1B0UUlqSmptb1g1R2lteGE4S1dHNWFsMGlSWThrRmk0Sy1jYjByWjdNeU0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-25T03:55:54+00:00"
+    },
+    {
+      "t": "코스피 6,599.70 코스닥 810.55",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSXlLQzYyTHFGd2JSYnI2amRsMGN1cURvQ2xoMTZuX1Uyd1d5WjFpSHRESGpUcGVCQ1BsY2J4Wk93a3lSdnZkWEJyR0tDUm93LU9nTk82b241Nmc?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-25T03:54:00+00:00"
+    },
+    {
+      "t": "RBA 의사록 \"AI·데이터센터 투자 붐 강해…수요·물가 자극\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ckxHRHl2ME9vWUhvNFRfYnZtSHJ1UkxHNVZEQjlET3dKQk9RRjZWMkhHYjFTbUFtUG9xaHNFVUJoYVZmeHpPTkN6RXV0aGpIcUc2OGZvcjZXVUVyUTA0bmRfWHpUUUxQeHp1QUJhYmHSAXRBVV95cUxPcVhubV9QYWNiZGNJby1jUzNaZ0xmamZQcXlaenhRaExpNUROSGZOeG9QTU9aczMwRXd0bzVWZHVCTERUUnNsRWpyS0dKdUxBdGRRSGpWcE5iWVFxdzROSm9qZE0wUGp6TkFQZFRtbEhzb252eA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T03:39:58+00:00"
+    },
+    {
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lUkt4WC1ab1JpQi1jWWh3ejNQdE4zZ0w1WVl1MmlDcjRnQThqeG1ia01xazhMRndubkk1M0Qxa29Jc2gyV19fZlBKbFNTSHJfTW1ZdWNMSnBtak5zNTJTbkw5Wk1ILWRENVhyWGZUNTZoMnRYZWJub9IBeEFVX3lxTFBuVzVCNm9ERFNuY2I0dkJtTGpPRDJHS3ZvUGwzYmhXNFJFNFgtVEFKaDBHd2V2OU90c25OdXZ4aFlZYWMyWmVxZ2RwN0d4TFM5VUxUVEVQRENMNWhpeWtMMERmeWVJSmlqVzBrVEoxeWxvTXpxM3BlZQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-25T03:21:04+00:00"
     },
     {
       "t": "코스피의 '배신'...지갑도 닫혔다",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWVZTTFhmbVhEMF9lZnEwb1Z3UTlyUmVrOUNPQ0NzRjZZZmJUcTk3cTRXaWd3Nmd3Y3hQbU5peC10X2F6SDhuTEFGYzBpNm82VnV0elNhSFNGcUk1UHE0Qks1aG1lYWRjY0400gFwQVVfeXFMUFhOby1LUmVzTTgtbzJGT3VlWGc5eTRGc2g2ZnF3a0ZMODlNQnpJdGtTTF92SWVIYURjalZYX3lRM21icVBnMC1lem03YnljeVZ2UE9qbThCUmkwSGVTMktYdXJYR1ZpZF94U3I0WW1Idg?oc=5",
       "s": "머니투데이",
       "d": "2026-08-25T03:00:00+00:00"
-    },
-    {
-      "t": "더 세게 나가는 트럼프… “캐나다 車도 50% 관세”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53dXpxc041MWd6T2FkS1BZSmVLd3ZVNDZDS2diV2JWYzdpZ3BleDd4YmVPN25Rd1ozUWc1VEVkOUJLWlJqT2o1ZS1kOHRmbmRk?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-25T02:56:07+00:00"
-    },
-    {
-      "t": "반도체 호황 덕에 내년 800조 슈퍼예산 시대 열릴 듯",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03b2ZQRFE3UjFvSmlFdE9uMzc2b0xWM05UN090MGYtcHZ4WEd4MTdMSzBaZTlzdnlWTllha0FtUThrR3MtNEdUVUF4RDZBc3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T02:52:32+00:00"
-    },
-    {
-      "t": "경제학자들도 '베선트 풋'에 경고…\"금리 조작하면 안 돼\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83dExfYVhGTGUtaGFBSG9pUFpDRHhjcU1IRzlYR2xTNWY0VHdQanV0TDVzX2MyOXFRTEZZWkJHWU95TkxkejRCNnZuRURSdUNrRlpjcjZyNE9iWTlNSU5KXzFqN0h3QlB3RGYxZjg1LWY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T02:52:00+00:00"
     }
   ],
   "asof": {},
