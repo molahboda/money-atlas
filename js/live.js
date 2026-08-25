@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T04:45:26+00:00",
-  "quotesAt": "2026-08-25T04:45:26+00:00",
-  "newsAt": "2026-08-25T04:45:26+00:00",
+  "fetchedAt": "2026-08-25T05:00:27+00:00",
+  "quotesAt": "2026-08-25T05:00:27+00:00",
+  "newsAt": "2026-08-25T05:00:27+00:00",
   "quotes": {
-    "kospi": 6674.48,
+    "kospi": 6678.85,
     "spx": 7652.86,
-    "nikkei": 65767.09,
+    "nikkei": 65821.88,
     "vix": 15.85,
-    "krw": 1383.48,
-    "gold": 4685.8,
-    "wti": 85.27,
+    "krw": 1382.95,
+    "gold": 4680.6,
+    "wti": 85.11,
     "dxy": 99.07
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -3.45,
-    "nikkei": 0.36,
-    "krw": -0.11,
+    "kospi": -3.39,
+    "nikkei": 0.45,
+    "krw": -0.15,
     "dxy": 0.07,
-    "gold": 0.97,
-    "wti": 0.31,
+    "gold": 0.86,
+    "wti": 0.12,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "[윤영숙의 시선] 반도체 호황인데 삼성은 왜 계약학과를 줄였나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxZy0yMnFhNnFfeDZxYjZORFVlYjBsOXNDR05MbW15TExkNGhxQnNpU1Qya3JDMEt1YXlCc1IwWUZFVDJsZ1B2MU5hQXU3ZHZjajQ4d2cydEw3cnQ4U25DRFZlSUZqZWhfOHVMaXBCLUo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T04:47:06+00:00"
+    },
     {
       "t": "[시장 따라잡기] AI 인프라주 반등 기대감 속 주목할 곳은?",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UXNUSjhMNlNEOTdGUE9lS29EeDJjRUhGSGVBaG5tU0J1NUNrTTNkXzE4ZlhMZ2tRdW54RHdlNnJFSnBRMFlUdHU2c3dxd0E?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lUkt4WC1ab1JpQi1jWWh3ejNQdE4zZ0w1WVl1MmlDcjRnQThqeG1ia01xazhMRndubkk1M0Qxa29Jc2gyV19fZlBKbFNTSHJfTW1ZdWNMSnBtak5zNTJTbkw5Wk1ILWRENVhyWGZUNTZoMnRYZWJub9IBeEFVX3lxTFBuVzVCNm9ERFNuY2I0dkJtTGpPRDJHS3ZvUGwzYmhXNFJFNFgtVEFKaDBHd2V2OU90c25OdXZ4aFlZYWMyWmVxZ2RwN0d4TFM5VUxUVEVQRENMNWhpeWtMMERmeWVJSmlqVzBrVEoxeWxvTXpxM3BlZQ?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-08-25T03:21:04+00:00"
-    },
-    {
-      "t": "코스피의 '배신'...지갑도 닫혔다",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkN1N3bDY2cUxmVnhkaUI3LVZXZTlPNXlkQjZvQXI4azd1bG5sTzFPcmJNbFA4cTFrSlZDcks5U3pab21XUl9ZYURuTUlSZ0hRcVJMN19BOE1QXzlJSDd5WmpqMDdjUmlyR2ZNSg?oc=5",
-      "s": "한경매거진&북",
-      "d": "2026-08-25T03:18:00+00:00"
     }
   ],
   "asof": {},
