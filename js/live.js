@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T21:45:59+00:00",
-  "quotesAt": "2026-08-25T21:45:59+00:00",
-  "newsAt": "2026-08-25T21:45:59+00:00",
+  "fetchedAt": "2026-08-25T22:00:59+00:00",
+  "quotesAt": "2026-08-25T22:00:59+00:00",
+  "newsAt": "2026-08-25T22:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1381.76,
+    "krw": 1382.05,
     "gold": 4715.9,
     "wti": 81.11,
     "dxy": 98.91
@@ -17,13 +17,37 @@ window.LIVE_DATA = {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.23,
+    "krw": -0.21,
     "dxy": -0.09,
     "gold": 1.62,
     "wti": -4.59,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "[뉴욕채권] 국채가 강세…유가 급락에 30년물 금리 2주일여 최저",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjTDc3dW14MXI3X3BqdHJ3ZHRCR1JMckZESkZFS3hTNHZRajhlRk96WU0xNl8xY1VHb3FrbnBMUUxyRmZsUnVZZ2d6NHF4eHQ5aFNYOGZFbEJKZmJvekNPZlFWWVpMenZxWE1ZamUwUV8?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T21:53:54+00:00"
+    },
+    {
+      "t": "3월엔 중동전쟁, 그 뒤엔 증시·부동산…디지털자산기본법 '표류'",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yMk5RZlFlMThHQlFMZUdLRENZUWtRX2dtak90cmZSNW5ZcFdsUDNnZWRzbWtPQ3VQamNUeVhPSkZraExyaER2REdUQ0NSQzFVUTNVSXZkejJSbDdJdmpaZXh2M3hKUdIBa0FVX3lxTE5NUFpja1dqSS1uQ2FkQUN2bTZzb1BWbXg2TjNtRktyWWZ2Z3RmNVUxc0Q1WGRTWWVyQVBzLUtEVVFSbFRyZFVrcFBqM1pybU5tb3JmelVLTDRqbGVuaGpZSXVLZmtUSVlvWXYw?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-25T21:47:28+00:00"
+    },
+    {
+      "t": "[글로벌증시] 뉴욕증시, 일제히 상승…국채금리 하락·반도체 상승",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UWFVDOXZqMmljU2JUcG54dm9FNXJUeHhIYk5RRWtldmFlbG9Kc2g1czF4VHd2M2g0QnJlWHJPeUVhbnlKWWN5WGpKZlQtWG82S1ZXMS04Y05xN1ZYX29WRVA1Rl9pVjNwUjhwTUZWM0t3by1X?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-25T21:46:58+00:00"
+    },
+    {
+      "t": "美 대이란 경제압박에도 국제유가 3%대 급락…\"공급 영향 제한적\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwSmlRb0lPVjQtM0dNaFVydERNV1JtYVcycFN1UWVINUFFSDRhMkhwWW4wYkJoVTdnMDM0YXktZ2U4OXhNbldHQTFmYm5nMGM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T21:43:07+00:00"
+    },
     {
       "t": "\"하이닉스 레버리지 투자해 69% 손실\"…'공포의 롤러코스피' 조명",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUEoydWwzSlBPdF81cDE1cnBPM0dwSWxWNzBqeTdWWVJySUlsQjhjdkdtY1hKTDlRbjRGdHBWWVcyX3hucGFZdnVWVy1vejlWRzByT2JPZTJPdw?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNnhXZGw2c3l5SDQ3aGNUZmJUZXJSUkFrRmNHSWpiNVhfS0ItS0Y3eWFSbDE2TjdHUnVfYTZwQVNQYzRJQVFibGlKTy1XaXIydWlsbjJZTjJQdFBuRDc2ZW1oSHdRaEhRc2FOTTh4QQ?oc=5",
       "s": "서울신문",
       "d": "2026-08-25T21:16:43+00:00"
-    },
-    {
-      "t": "트럼프 관세에 캐나다 맞불‥공화당서도 \"실수\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAybGVRRHdLMFZ6aHRTczNwYlRpZlk4LTMwUThhSm5ZQ2JhRDhnbDRXU0I4cTRGbl9XRkxsbXlvOVJTVUs4NFE0RFZ5aENkLTg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T21:16:08+00:00"
-    },
-    {
-      "t": "뉴욕증시, 국채금리 하락·반도체주 반등에 상승…나스닥 0.66% ↑[뉴욕마감]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxSzQ1OU9JM2FvRUlCbThJR0k1RzBlSmZYRS1uZnptbHVBRWs0QUUydlpwRi1CWVhVdnYtV2g4ajNkNDNyQXBOaENiLXNwREk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T21:12:55+00:00"
-    },
-    {
-      "t": "“죽다 겨우 살아났는데”…개미들 27·28일 주식창만 봐야하는 이유",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZUE4M0VGTkx1OGt6OGl5ZnNMbVROMzhOdlVtZkV3MEJ6TWdXRU5QdEtBQm1HUGVNS3B0WUZUbUhIYXVtd0xhV0pfU1I3c1E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T21:12:01+00:00"
-    },
-    {
-      "t": "[외환] 증시 호조·이란 긴장 완화 조짐에 1,380원대 초반대로",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SOFRsWGRpUnpHc1E2NFNQcGlSallFeGxiTmMySng5dkd3cE9zMU5HRWctUTRDenMwZFFjZjRWbUtxQ0FuQUZJMmtxWWpkTlI3U2p5RzNUR3FvbFF6eVktQ2IteU5JTWU3VTVCUWVGV0haUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T21:10:05+00:00"
     }
   ],
   "asof": {},
