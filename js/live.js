@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T14:30:59+00:00",
-  "quotesAt": "2026-08-25T14:30:59+00:00",
-  "newsAt": "2026-08-25T14:30:59+00:00",
+  "fetchedAt": "2026-08-25T14:46:00+00:00",
+  "quotesAt": "2026-08-25T14:46:00+00:00",
+  "newsAt": "2026-08-25T14:46:00+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7661.85,
+    "spx": 7661.42,
     "nikkei": 65856.43,
-    "vix": 15.76,
-    "krw": 1384.68,
-    "gold": 4679.4,
-    "wti": 82.49,
-    "dxy": 98.94
+    "vix": 16,
+    "krw": 1384.44,
+    "gold": 4688.2,
+    "wti": 82.77,
+    "dxy": 98.95
   },
   "daily": {
-    "spx": -0.16,
+    "spx": -0.17,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.02,
-    "dxy": -0.06,
-    "gold": 0.83,
-    "wti": -2.96,
-    "vix": -0.57
+    "krw": -0.04,
+    "dxy": -0.05,
+    "gold": 1.02,
+    "wti": -2.63,
+    "vix": 0.95
   },
   "news": [
     {
@@ -38,15 +38,21 @@ window.LIVE_DATA = {
     },
     {
       "t": "[뉴욕증시]장기채 금리 ↓·반도체주 ↑…3대 지수 일제히 상승",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3X3VMZzQyWFU4VjA5aExMNEhVM0hVRGtJNFVEenVKRnBZSG1PY01tRXZMbW9md0k1SF9jUWdiOWplNkV3UWl2YVNVREprMGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T14:02:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zSXlUT0ozVjNMX09HbnlxSDA3VDQyYkxnVWE0aFJwelJsZkxKdmhQdmtTdVlMcERyRXFaVVp6QzY2RGdMMlBZQ2lvdXRDSEVXQnRnX3FLaFBYd2plbUNuYg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T14:01:02+00:00"
     },
     {
       "t": "對캐나다 관세전쟁에 美북부 술렁…중간선거 영향 주시",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CTWZaV3lCQ2JiTkpFV3A2VmthbmVYM3pPbVVLM0FUVng4Y3hvYV9LdDVrM0Q2TGNVamJvRmlRYVhzOEwxOUt4dU5kcUpQaDQ?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-25T13:49:51+00:00"
+    },
+    {
+      "t": "트럼프 \"온타리오호를 '아메리카호'로\"…캐나다 관세 전쟁 격화 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xUmU4R2QwWWt1V3pvR1hJcFQ3aFZ6ck5Nc0ZYY0UyMWVjX200Z04wUFJka2F2aExtdnJEZ2g3d2QyRFpJY3lBc1Fnb19qMzRvU0JGYXYzTzdySG9yZkdySEZxQkJGamVw0gFuQVVfeXFMTmpna05HV0RISDBoYjl2Ylk5VHVtUDNQQmdreGJZSHE2bkp0bkp3Z2RxZWJGV3hJLTBnQWZhSmFRZ1Z6eEdZbGdIRmhVb0lwdmNtVzVaNjY3ZTFEY2tsTHQydzlrR1U2TVdQR1NMRUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T13:45:18+00:00"
     },
     {
       "t": "뉴욕증시, 美-이란 갈등 완화 기대감·기술주 강세에 상승 출발",
@@ -61,18 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-08-25T13:31:00+00:00"
     },
     {
-      "t": "반도체 호황 덕 내년 800조 슈퍼예산‥\"특별회계 만들어 AI 총력 투자\"",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVmRYNnFlakcxZ293SnJiYlg0RzMyZnVBSnlUaVh2ZVlTMkUzWlB6RTNuVVh2U2RRQWctbmNuNGJjNElyNnFEN2VsUE9DOXpjUkZuQS1qSFVvcFdUYVY0ZnJDR3VzQ1U2cXh2c0U2b2VJMjVPM2FEQdIBeEFVX3lxTE1aUUNaUjNmU0RBOVpZTndJMGJZanR0UjZ1TFFoaUNpU2tLZnlRNHY1X08zY05DUVpRakQ5N2Y3Y1ROLU03VE9nSVc1MVFoOGJOZ0FvNHNkbWpaam5NT05TZEtyWVNJVjZoNm5zMFljeDRKQVljOU5Wcw?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-25T13:27:55+00:00"
-    },
-    {
-      "t": "금융위, WSJ '韓, 세계에서 가장 미친 증시' 평가 반박…\"최근 안정화 추세\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3QVdwYWxjN0VjYmVkWlphZlFFdDNRaU15eE5tUGZyazJiRFVvYUdncVBxMG1LdEdQVmppeXp2LUplRkFCWDFacXE5Q3g0cTFIQnlSTnJHYVd5RjBlVEUxVtIBeEFVX3lxTE5IV09pamhLeWpMcXFiU2NwOFFEbjJId3dSODhTQTVsc294RzVaWWF5aExIeFQxa2NDdXRHdmdZeFpUcHNiMk93bEViRTUwYmcwN1I0cVNxX3lhRjZDN0JLd2gwNjE0OTM1V3dTeVhnc2tJMHhHN3A1ZQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-25T13:25:40+00:00"
-    },
-    {
       "t": "\"美, 이란전쟁 때 철수한 중동 외교관 이번주 복귀\"…국제유가 3% 급락",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sREg3cGVVSmtkTjFwM3ltZ2xMdVoyc3pKaTRxUkRqN01OenJZYnA2U0R5c3RfbVFseFBRRkhfXzZfaHhiS0xZTml5MGV1OUVLOHBVWHh0bTNKVkE4MU5hT2o0WXhjX09EQWE1MXY3T0I?oc=5",
       "s": "연합인포맥스",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RM3NFdG44NUl0NFJoemU2WFF5bkU2RjJBdmZ1TjhOTHZ4M1lLSV9VMnRZNmJ3THM3alJlTEkzZEhDZ05fNjhzV2hNMDRMU3Y3VWI2SEJvNkMzQjQ4?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-25T13:22:00+00:00"
+    },
+    {
+      "t": "뉴욕증시 프리뷰, 미 주가 선물 반등…국채금리 하락에 엔비디아發 반도체 랠리",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tU3l0TmZUdURFVEJkYllKN2RnN1c0Z2pBN0RzV0l4SURhajdPTXg0dm5FNXBBTU1aLS1rNDViQ1Q1X3BqVVQ3VEs1ZGJjTVNtNlNVMDltVHFrTDIx?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T13:13:00+00:00"
     }
   ],
   "asof": {},
