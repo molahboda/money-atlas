@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T13:45:59+00:00",
-  "quotesAt": "2026-08-25T13:45:59+00:00",
-  "newsAt": "2026-08-25T13:45:59+00:00",
+  "fetchedAt": "2026-08-25T14:00:59+00:00",
+  "quotesAt": "2026-08-25T14:00:59+00:00",
+  "newsAt": "2026-08-25T14:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7682.01,
+    "spx": 7675.04,
     "nikkei": 65856.43,
-    "vix": 15.8,
-    "krw": 1385.06,
-    "gold": 4673.3,
-    "wti": 82.36,
-    "dxy": 98.96
+    "vix": 15.81,
+    "krw": 1385.12,
+    "gold": 4663,
+    "wti": 82.19,
+    "dxy": 98.94
   },
   "daily": {
-    "spx": 0.1,
+    "spx": 0.01,
     "kospi": -2.46,
     "nikkei": 0.5,
     "krw": 0.01,
-    "dxy": -0.05,
-    "gold": 0.7,
-    "wti": -3.12,
-    "vix": -0.32
+    "dxy": -0.06,
+    "gold": 0.48,
+    "wti": -3.32,
+    "vix": -0.25
   },
   "news": [
+    {
+      "t": "對캐나다 관세전쟁에 美북부 술렁…중간선거 영향 주시",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CTWZaV3lCQ2JiTkpFV3A2VmthbmVYM3pPbVVLM0FUVng4Y3hvYV9LdDVrM0Q2TGNVamJvRmlRYVhzOEwxOUt4dU5kcUpQaDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T13:49:51+00:00"
+    },
+    {
+      "t": "뉴욕증시, 美-이란 갈등 완화 기대감·기술주 강세에 상승 출발",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NeGo2b052SFVXUWc1N3I5aHdreV9Gd0Y5RkxwdnAxVnAzRkh6OVhORWN2bFNtLTdONFVKTm9lZmJMRkpkS1I3bkJXeDR2VTR0SkhHSHIzVWJYa3VxOXN0eG5mV1VvdHI0R3gxYktlbGQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T13:43:26+00:00"
+    },
     {
       "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...국채금리 하락에 엔비디아 실적 앞두고 '일제 반등'",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9peDVQZVJTM3ZXalF2MEk0QWxJNEVwWG9vZWJsWTl5VGV1U1RhY2FLVEdESGJ4RDBwd3d0WFdFemUzU0xRbG51ckRZdDZleDJLSXN5akFFa2lScXVM?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-25T13:31:00+00:00"
+    },
+    {
+      "t": "반도체 호황 덕 내년 800조 슈퍼예산‥\"특별회계 만들어 AI 총력 투자\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVmRYNnFlakcxZ293SnJiYlg0RzMyZnVBSnlUaVh2ZVlTMkUzWlB6RTNuVVh2U2RRQWctbmNuNGJjNElyNnFEN2VsUE9DOXpjUkZuQS1qSFVvcFdUYVY0ZnJDR3VzQ1U2cXh2c0U2b2VJMjVPM2FEQdIBeEFVX3lxTE1aUUNaUjNmU0RBOVpZTndJMGJZanR0UjZ1TFFoaUNpU2tLZnlRNHY1X08zY05DUVpRakQ5N2Y3Y1ROLU03VE9nSVc1MVFoOGJOZ0FvNHNkbWpaam5NT05TZEtyWVNJVjZoNm5zMFljeDRKQVljOU5Wcw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-25T13:27:55+00:00"
     },
     {
       "t": "금융위, WSJ '韓, 세계에서 가장 미친 증시' 평가 반박…\"최근 안정화 추세\"",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-25T13:13:00+00:00"
     },
     {
-      "t": "수원컨벤션센터서 27~28일 ‘반도체 채용박람회’",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sWV9KdzhMWGdSejhHeW9qOUthbVl1Qnl1UjRQdlJhUC1lZTlzZlg5eUxnX2RxNERJT21wOERjS0ZGLXBhNV9iOEp3cl96X2NXSGhScDNUbmJSZFk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-25T12:48:00+00:00"
-    },
-    {
-      "t": "“퇴직금 절반 넣고, 일주일새 1000만원 날려”…영원히 오를 줄 알았던 '미친 증시'에 당했다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDeXJaZHRQbkJHUUZwNU5LTVQwRzlGemxVMG1HdU1COVZzUDNHekJBZG5yOC1zOVpndGxYNkV0VmhiZlBWSFlVNTBjNTNNZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-25T12:39:27+00:00"
-    },
-    {
-      "t": "호남 반도체 전력·용수 등 인프라 '예타 면제'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T01GTWNteVpkMk9QMWZfNzNVSzNHY21LR0Nzb0pMZlBHdDJMOFlPQlpwYzdjMDRqalZ4aW9oSWEyRklveTNwQkVEOWRBYmlPRGkxckExMjZNaXRTZ3h1cA?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-08-25T12:22:00+00:00"
-    },
-    {
-      "t": "헝가리 중앙은행, 기준금리 5.5%로 인하",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxYkxVbFZiR0VubWtQT3JkLVgzUzBXcmd2RkREdDlOeWhSamdoZFhfVjZZbk93VHY2MmRxVlNQTzM5SUxDTGZKelFWdE0zX3Bxd1ZoYVg4UDRFR0NER3lIR2RXZzVrTEd2OENBY0E5QnA?oc=5",
+      "t": "캐나다, 오늘 미국산 제품에 대한 보복 관세 발표 예정",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYzJmZ1FZb3hMWF9URk8yYzVGZWxxM3ZlcGF0aVItQ3A4eUhCY0pzMkVBMkVSY3pON1JuVWtEZ1dubENZUldPYWdiYmU4ZUtZY3FVdjM2STRITTFuS2dTa1lyYnZabW9Hc3c?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-08-25T12:15:00+00:00"
+      "d": "2026-08-25T13:04:00+00:00"
     },
     {
-      "t": "반도체 세수 업고 역대급 확장재정… 野 “나랏빚 외면 무책임” [2027년 800조+α 슈퍼예산]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbGJmMEFid1RXb01xckhQdGx0U2JaMGhvZW5hTlpneDYzeDM0cThZV25Zd3oxbzdCUDdaV0ZzS0FrdXZ4dDFPWVAwb0xNOGc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T12:06:45+00:00"
+      "t": "증시 프라임타임_2026년 8월 25일 (화)",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fM0xSeXN6T0xjV3kyNHN2WWZZcTVEWWdtcHpaaXh4bDdBVFV0YmJaUWI4WGhCd1NoSzV3QW1jcEdXMTlMUl9jakE0VTNTY1JQanJlbll3?oc=5",
+      "s": "DealSite경제TV",
+      "d": "2026-08-25T12:55:10+00:00"
     }
   ],
   "asof": {},
