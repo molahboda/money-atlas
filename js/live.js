@@ -1,40 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T21:15:59+00:00",
-  "quotesAt": "2026-08-25T21:15:59+00:00",
-  "newsAt": "2026-08-25T21:15:59+00:00",
+  "fetchedAt": "2026-08-25T21:30:59+00:00",
+  "quotesAt": "2026-08-25T21:30:59+00:00",
+  "newsAt": "2026-08-25T21:30:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1380,
+    "krw": 1382.21,
     "gold": 4715.9,
-    "wti": 81.09,
-    "dxy": 98.91
+    "wti": 81.11,
+    "dxy": 98.92
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.36,
-    "dxy": -0.09,
+    "krw": -0.2,
+    "dxy": -0.08,
     "gold": 1.62,
-    "wti": -4.61,
+    "wti": -4.59,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "뉴욕증시, 국채금리 하락·반도체주 반등에 상승…나스닥 0.66% ↑[뉴욕마감]",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIc0p1QlIxazNqRWZPeXFvYnozMVlpdGdXZUdjWVBUZW9nMDhURnZXOEt2dXpqUlhSbERFaGpfOGJxTFVNTE1CQ3NaX0pVT2VlQktmbHhWRFdJN3pqOWhxR3psWDM?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-08-25T21:11:52+00:00"
+      "t": "美, 韓 반도체에 메모리 공장 촉구… 800조 원 한국 투자 속 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGRqWUZZX3V0MWswa05aaDdUaExpWXlaWjRiZXpSUjFFalc2bW5TN1E0Y0FreUxLY05QTFQ5ZExic2hhSmFQb1pBODFXX2N3aWxqSUZ6Mm1uZkdGZGNXa3ZBRHZkcFFsSnpTOWtYME5HWWRlSkU4VlZtYUlDb3hOVzlCNWJzeHdy?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-25T21:28:50+00:00"
     },
     {
-      "t": "“죽다 겨우 살아났는데”…개미들 27·28일 주식창만 봐야하는 이유",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1la1BQb1BzM0QxLVpuV3NKSGx2NzNoZHE3UGRYUmt1QWFoNU45Mk9tNEhfVEUyTTZWQS11TDIwQVlwWktCdWRGS25mLW52NzJPNGc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-25T21:10:28+00:00"
+      "t": "눈에는 눈, 이에는 이…캐나다, 美에 '최대 50%' 보복관세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iTkdzcmx1dXNxRURYd284ZVZ5eXpQVnhaSXBOSEtSSHFaNDVrV19fN25wT3AwU3Y4UXNJdDlDbXFhRkdSTldFby1LNkFBNG8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T21:22:18+00:00"
+    },
+    {
+      "t": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNnhXZGw2c3l5SDQ3aGNUZmJUZXJSUkFrRmNHSWpiNVhfS0ItS0Y3eWFSbDE2TjdHUnVfYTZwQVNQYzRJQVFibGlKTy1XaXIydWlsbjJZTjJQdFBuRDc2ZW1oSHdRaEhRc2FOTTh4QQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-25T21:16:43+00:00"
+    },
+    {
+      "t": "트럼프 관세에 캐나다 맞불‥공화당서도 \"실수\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAybGVRRHdLMFZ6aHRTczNwYlRpZlk4LTMwUThhSm5ZQ2JhRDhnbDRXU0I4cTRGbl9XRkxsbXlvOVJTVUs4NFE0RFZ5aENkLTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T21:16:08+00:00"
+    },
+    {
+      "t": "뉴욕증시, 국채금리 하락·반도체주 반등에 상승…나스닥 0.66% ↑[뉴욕마감]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxSzQ1OU9JM2FvRUlCbThJR0k1RzBlSmZYRS1uZnptbHVBRWs0QUUydlpwRi1CWVhVdnYtV2g4ajNkNDNyQXBOaENiLXNwREk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T21:12:55+00:00"
+    },
+    {
+      "t": "[외환] 증시 호조·이란 긴장 완화 조짐에 1,380원대 초반대로",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SOFRsWGRpUnpHc1E2NFNQcGlSallFeGxiTmMySng5dkd3cE9zMU5HRWctUTRDenMwZFFjZjRWbUtxQ0FuQUZJMmtxWWpkTlI3U2p5RzNUR3FvbFF6eVktQ2IteU5JTWU3VTVCUWVGV0haUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T21:10:05+00:00"
     },
     {
       "t": "국채선물, 유가 이틀째 급락에 상승…10년물 40틱↑",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yWFJ5am4wMVdEeXVLcEtqVHdYUDMtTms0WWZTUWRCek00aXFvNEZjZm5TdDJMVDcxWTVrTEFFWWtBLXJFandSdUh0aDZRSksw?oc=5",
       "s": "문화일보",
       "d": "2026-08-25T21:08:06+00:00"
-    },
-    {
-      "t": "[코스피·코스닥 전 거래일(25일) 주요공시]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aU9ESjhSX2FreWFRTkRtQ0FKY0dsUnJHZFk1TkRTWUJCUjBmOHVaNFRweWRCUlliczZoay03VThNeXlkX21xY0NSazdkbUpRNTFobU5WRlhmbHPSAWBBVV95cUxOQTYwdFhaRGlxQkFKWVpCbmh6QncyUnlkTkNDV2k5NlRlcXAya1V3TmpiaGhNbWVMNG9aOTNBQm5hejhEeDlMSVZTLWFweWdpMG1TX3FkczdsRzV1Y0RrWWY?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-25T21:05:00+00:00"
-    },
-    {
-      "t": "증시호황에도 자금조달은 위축...유상증자·IPO 다 줄었다",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZ3RzZm5YMW8tb1k2aElaUElJZVJrRDdTc29fQnlDNkR3RF92bDY2bTUwOUFpdmMyLXlxcnBxdTJxdnBlZ1Jvc2t6SFZaZWhMbFRSSW84M19fWVJUODQ2SDZBclZrbkd1dVE?oc=5",
-      "s": "비즈워치",
-      "d": "2026-08-25T21:00:02+00:00"
-    },
-    {
-      "t": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-25T21:00:00+00:00"
-    },
-    {
-      "t": "[경기, 세계를 잇다] 추미애 경기도지사, ‘글로벌 최대 반도체 생태계’ 청사진 그린다",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMnFoR1BOUWg1ZTdwNWZkS0VTNVI2RjdKVVRVbTdlX0k5RGJ6QmNTZGJTSlNmVkRReU4xVVNOZEdWWkJZcGdXdEY5Z0JwYUZrMjd0NFBNNC1Ccmo5Q3V6Ym53?oc=5",
-      "s": "경기신문",
-      "d": "2026-08-25T21:00:00+00:00"
     }
   ],
   "asof": {},
