@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T09:15:33+00:00",
-  "quotesAt": "2026-08-25T09:15:33+00:00",
-  "newsAt": "2026-08-25T09:15:33+00:00",
+  "fetchedAt": "2026-08-25T09:30:59+00:00",
+  "quotesAt": "2026-08-25T09:30:59+00:00",
+  "newsAt": "2026-08-25T09:30:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.79,
-    "krw": 1383.72,
-    "gold": 4680.9,
-    "wti": 82.93,
-    "dxy": 98.99
+    "vix": 15.78,
+    "krw": 1384.33,
+    "gold": 4687.9,
+    "wti": 82.64,
+    "dxy": 98.97
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.09,
-    "dxy": -0.01,
-    "gold": 0.86,
-    "wti": -2.45,
-    "vix": -0.38
+    "krw": -0.05,
+    "dxy": -0.03,
+    "gold": 1.01,
+    "wti": -2.79,
+    "vix": -0.44
   },
   "news": [
     {
-      "t": "채권시장 전문가 79%, 기준금리 동결 예상",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yenduc05zM1VvcFQ3MXdTaURHUkxTT3Q4T0g0UW1HcDljOHV1N0VWS1E5LXR3ZzdmWlk5OTUxUVRqSzRaMFdkMXplN0ZXalg3Ty1UT0pjQ3pzWUZwUk0zLXY0OTA?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-25T05:43:02+00:00"
+      "t": "[사설] 반도체 기댄 내년 슈퍼예산… 리스크 큰 만큼 대비책도 있어야",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbkNUYjJ4QkhLcndGMFd0QU9jYlQ4V25qUnRacHNMMzJDRU5kMURsd05yRlZERGEybWExWHlKNkM5U04waGU0dS1pcXV0bEE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T09:24:11+00:00"
     },
     {
-      "t": "코스피, 장중 상승전환해 소폭 강세…삼전닉스도 강보합",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWFQtdDgyY3I0YzN4ZzBENFdWMWtVQl9raS1aeFlJYVpXZmpMd0FJc3JpWi03SU1wMVNlalZzYmxxb1ZBZW4wei1CSTF6aDMySEhhQzBaeGxWRE3SAWBBVV95cUxPRXl5NnE5N2ZGclh4SkRwNFpZenNHVU5NWFNnY1NWclU5UmcwNUc3MHJqcXVZTmd6Zm5VQ3c3M19XaE1Sa1ZkYTVmZ2doMkpCZzZocW1CNDlLUzhacnE2a1U?oc=5",
+      "t": "[중국증시-마감] 전약후강…상하이 지수 0.19%↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5WmpDQmNUdFFTLWx2aks3M0xZeUwwQXdpNWlnampMZnRSNURxUDRfQnQyek4zTmVGV2syUUtabUJjYmhYQ3BGb3Z6cDlqUWpydTNsTmhvNEJ3UFowRzM3Z054TVdXRFdTUEk3RFNSLXQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T09:21:34+00:00"
+    },
+    {
+      "t": "정부, 호남 반도체 등 ‘3대 메가프로젝트’ 사업 예타 대거 면제",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sRG1NM1BNbGxmc05FOUFrbE90cThHaENudEZaU08ybE1BOWhRLWt2ZmdQQ3otVUVCdVE5VkE1bGNZbENPZmNHSzBvTnBOY00yOEZsZXJIc3JGT2c?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-25T09:20:00+00:00"
+    },
+    {
+      "t": "화순군, '반도체 배후도시' 삼천지구 개발…2029년 착공 목표",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VDdQajlsWURyUHRDSGNMYWFEemRSSHFVeHpIdy03LXFMWmtOeEFMSUMxZFZSampvQWlmc0FWd3RuajVidW93WWJQc0xVLU1Hd2cxXzJMbTVieFHSAWBBVV95cUxNV2VjN3RZZGE5a3IycEF3QzctMFFwRUtmazFuNTQ3UjVZcjhjRGVOc3dHVFZhMVJCakdVbXRMLXpOanZxN1FqLTFkeEc2Q2Q5bWNnTVUzVnNIMXFrVEVUTzA?oc=5",
       "s": "연합뉴스",
-      "d": "2026-08-25T05:40:20+00:00"
+      "d": "2026-08-25T09:12:33+00:00"
     },
     {
-      "t": "채권전문가 79% \"한은, 8월 금리 동결\"…인상론 한풀 꺾였다",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkTnNSV2VxTW5od2ZJU3VRVEJ0Vnc1S1pka3hnU2FOYWg0U0RiVERxQmQydXFIS2lxRERuZjJGbXFfYkFBekUySEhGajB3MXBPYjlfdkxwRXRuY0oxTE1N0gFkQVVfeXFMTmtNVkhJblVKeTFpR3FWeVZWRUZvQmRZMXlKSXM3UC1hZm8xWmt4TmoweEpoa1VXQzBYUEtsOTllamZCT0RFWFg0a3drT2pfbVBVNWI3MmN0eXhHY1o1WE9mcy1yUw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-25T05:38:00+00:00"
+      "t": "미·캐나다 ‘경제전쟁’ 격화…트럼프 “자동차관세 50%” 캐 “전력·핵심광물 수출 중단 검토”",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGhwZFRnanR5ekJ3b3VQbmJHZ05YRFd4RUFsLVVEVFJxUVdSQm1zV0NPUVk2a1FCZXBKdG9xeWJTMVV1WDlUU0YzWUhWRDMwNmRtaDBCYnFOeUdNbERRSHZXRE56bHZteHNNQ0lTNERsME9xc1lLblpLdnZSWWhuZ3N3?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-25T09:11:00+00:00"
     },
     {
-      "t": "채권전문가 10명 중 8명 \"8월 금통위 기준금리 동결될 것\"",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZ2IzTjI2UEoxNXB6a3k2RmlyUVdUZGRabVh1Y3J6RGNxZ3RXQXR1a3l6bksyWTkzVkxjM3ZjSngxUkZPejV4SGRBZG8xM19GSHpNMlpkb2pBeUVPdnU1eDlUU3JucXI3QW53?oc=5",
-      "s": "파이낸셜신문",
-      "d": "2026-08-25T05:32:19+00:00"
+      "t": "'전약후강' 롤러코스피…6400선 밀렸다 6700선 탈환",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0S2lWVFA2b3dEdnNFX3BEMldZZnZQRGtBbzd2ZEdMRDZJbFRidllUVG1QUmhuSDFOS2VLcFRtY1dQTER2UHRia0d4NVA1d0E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T09:09:00+00:00"
     },
     {
-      "t": "[시황]코스피 장중 4% 급락·코스닥 800선 붕괴…반도체주 약세 확산",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92al9la0hTNmtDdW4tNUphZS1CcVR6TTdJN1FZdGU5WUFQam93aUVKS3ZpQWlyWlVVcTNiQVdjZ3hNUG4wZVd0bTdzQnJlQWlrV3o2MmJTYXh3dWc?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-25T05:27:06+00:00"
-    },
-    {
-      "t": "코스피, 오후에 낙폭 줄어...반도체 투톱 약세 지속",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSSzF1WEdtR2VBYXpRczJCRlFZQ3BEUm93OVdlZmppWjA1VDBVZS00UHpZRFhub2VtT2xNQXpCa0xXNlJjcGtFQVNDbWo0ckxDc0ViMlJGZTdsS1Vwamc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-25T05:17:00+00:00"
-    },
-    {
-      "t": "日 반도체 장비사 J.E.T, 전 삼성전자 부사장 영입…지배구조 쇄신 돌입 By The Guru",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VOFNmcUZrRHl3TlJUNW1wM2p2OVd3bXpCdXZNTEZwR3VVVEo3bnJNbG5oaURyMTFJV1pObWR0WGNhbWVkVjlHZWlidHZoM3NoY19YUExTdmozWnUxZlZrdk0xQTlVRHExbENPQU55Mmk?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T05:17:00+00:00"
-    },
-    {
-      "t": "코스피, 개인·기관 매수세에 장중 6700 회복...코스닥도 상승 전환",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaVZBVDFpSDZmSGxwTmMwQWtOMUtjamQ3Njg2UDh0U3JkRmFxWTZlZnlBcjhXWTFLLUZZLXZHUFpjbFRGUVUxbkhVM2lKWTd0MUdKaGo2WUJpTXlqc3ZRQV9GblRrU0tFVndFaVk0VU9UeUJUWGN6dV9RY3AwYlpqcQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-25T05:15:00+00:00"
-    },
-    {
-      "t": "美, 캐나다 이어 중국에도 관세 압박…7.5% 추가 부과 검토",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XdndFTXJkdExnWk5YYmw5c3FqUEhaZVdUSXp2bHZ3d2FzQ1RlTzc2WGV1MU9JZlBVT2VsODNGQWdJYlhBOXFnN2hJZzFGQ1g2R1FocXFoN3YxUGVvUXg5ZHktcw?oc=5",
-      "s": "더구루",
-      "d": "2026-08-25T05:13:56+00:00"
-    },
-    {
-      "t": "코스닥, 외국인·기관 순매수에 상승 전환…코스피도 낙폭 줄여 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXVDRlZXakFyYzI1YmllY2hFTG1mYThvbElhS3g4RG1yWFhzbmNuejA2Y281YlBGaUxtSFMxSDZCd1dUcmtLUmxsemRjaFl1LTQ1cmV2VkEyZEt2LXhrNUZzNFRWczBI0gFuQVVfeXFMT2UwTFZGeC1kUk1aOVZJOUx0aGljT3BzSVdvQVRnZlZPNTNjTVh2NzB4R2ZKOGEza2JaODFhbnZHLXFoSlJhVWZrOFc0aERPRlJSRkd3a1pUUjFFUWJQblBIRUdMRVJhWXFlemdZaWc?oc=5",
+      "t": "증시 떠받치는 SK하이닉스 자사주 매수…'삼전 효과'도 관심 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xOXIxRHpjSjBwRUZ6Wi1uY2FsWElfVmdKQ2hXQUdFVGRXdmRMVW1JQTNISUV6bzdYNWxDMllTRXpCc2hnMm1Bekp4Z2VoMWhkUFdzWV9qY2I5Uzc1c254RVk2SXFHeGxB0gFuQVVfeXFMTjE0amRhZ2pBemtzTE1DZmFSMkV1STl5OEtFME1odktjUUcwdDdhRWl5a3ZGdEtPRnRuVlZXVGxEeWhBSzZGTVlvZFBrc21ydkhweXl4TUNoWkNmblJoX1kydldsSmJuVTgtcEFvQkE?oc=5",
       "s": "머니투데이",
-      "d": "2026-08-25T05:02:05+00:00"
+      "d": "2026-08-25T09:02:34+00:00"
+    },
+    {
+      "t": "美 관세 위협에 캐나다, ‘대응책’ 공개 예정…무역 전쟁 격화 조짐",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qRm5xWGxTS2RXWlJBYS1wUjNNT0tCN1BuMUtxWHMtRVE1ZmdnZUFGamJCbzJsd185d1c4LXBOWVVmc0p0d21WR1VDaUI1Nmc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T08:57:27+00:00"
+    },
+    {
+      "t": "코스피, 장중 4% 급락 딛고 0.68% 상승…6740선 회복",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lQ3NIVHo4azJnZGtpcFJ5eHZWb2JUX2FXU2ZFdXYyVFZRY2pRMWZZd3hiVXlqaHRPUlpsUmt6OGhXaGk3UHNrUHZESW4yeW5tVkw5dmFVQlc2dUxYZ2lZNEsxdlJYN05Ra2MzYkZfaWc5dw?oc=5",
+      "s": "인더스트리뉴스",
+      "d": "2026-08-25T08:57:01+00:00"
+    },
+    {
+      "t": "유가 상승에 생산 중단 영향 상쇄하며 Gulf Keystone 주가 급등",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lOTZLMzdZM29PdWxxc1lLbHZCaTZBZ2Vvb0gxQ05yTkdFQmFack9fb0wyQ3dWdENnMHAxcGVsNno2RUNxdXFzc1p5T2xHanc5N1h4Qk5iaHZZNUlkd20yOHMxczd4dXZyWmFTbVo2SDRLalQ3RDE0?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T08:57:00+00:00"
     }
   ],
   "asof": {},
