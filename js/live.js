@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T01:45:26+00:00",
-  "quotesAt": "2026-08-25T01:45:26+00:00",
-  "newsAt": "2026-08-25T01:45:26+00:00",
+  "fetchedAt": "2026-08-25T02:00:26+00:00",
+  "quotesAt": "2026-08-25T02:00:26+00:00",
+  "newsAt": "2026-08-25T02:00:26+00:00",
   "quotes": {
-    "kospi": 6494.19,
+    "kospi": 6567.31,
     "spx": 7652.86,
-    "nikkei": 64946.28,
+    "nikkei": 65182.67,
     "vix": 15.85,
-    "krw": 1381.48,
-    "gold": 4724.5,
-    "wti": 85.21,
-    "dxy": 99
+    "krw": 1382.64,
+    "gold": 4725.8,
+    "wti": 85.42,
+    "dxy": 99.01
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -6.06,
-    "nikkei": -0.89,
-    "krw": -0.25,
-    "dxy": 0,
-    "gold": 0.57,
-    "wti": 0.24,
+    "kospi": -5,
+    "nikkei": -0.53,
+    "krw": -0.17,
+    "dxy": 0.01,
+    "gold": 0.6,
+    "wti": 0.48,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "MS \"금리 하락 추세 완전히 반전…2차 대전 직후처럼 오를 것\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiU2lpVFFhd0NqNGRmUERkY1BEQjVPdUt6WlVZNE0wdTd4ZGpKX1J5MTdBZFZ2VzU1cEpfaXR1VEFlcHB2MThHYU1BblVLcEFTOFV5ZXViY05SN2xoajlYWWtSYnVib0xWR0F5WmVJZFXSAXRBVV95cUxPUGJiSkFxN2gyXzM5MEJxRmgycjh2dVo3NkZaT2piZEhPTXRqRGJhTWNKbHRDeHpGUThXdEhHMTBZVF81bThlS1lnVUluUkhkaTFEaWxQQ0xMZ0xfdUxfNHRzUmdzUkRXXzVFbEdBTGJBVXBORA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T01:47:59+00:00"
+    },
+    {
+      "t": "[증시타임] AI 투자 ‘수익화’ 진입…美 반도체 톱5는?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NTDhkWWpzdkVKNUkwbVU2MWs1T25sb1hIUzM4SWpXR0NGalV6YmQ3VzIxS05MdlQ4UktkZ0ttNzZTbC05WmZjd2xsQjBIS1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T01:39:03+00:00"
+    },
     {
       "t": "美 무역전쟁 압박에 캐나다, 25일 대미 보복관세 발표",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoSkM1OTRoSGVMVWptZ1FmeHllQkhqSG5yRnVNSkdwd0xzQk1NLVdwdndMLVZ2S25CRkxJNFFKdXNuNXZLVlZCV2NKc0wzNU5LQkdHdWNYSDhpM3laalBkT0tuM3dKLUp5aGg4bkFCUTY?oc=5",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T01:27:29+00:00"
     },
     {
-      "t": "올리자니 자영업자 쓰러지고, 멈추자니 물가 불안…한은의 ‘금리 딜레마’ [기자24시]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnNlY3ZmhKR1p0MkcyVklCTWJhX2YxRlB0ZTlIbnpMeFJLdUJjdkpHWHozdUZvNHh2bkkwYUdNZ2hzT2I5bVRXY3Q5RjN6XzBpWEE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-25T01:22:14+00:00"
-    },
-    {
-      "t": "반도체株 약세 지속…코스피·코스닥 동반 하락세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2Mzh4V1ZwdEl0d2lDT2Z2YVROZ2Nmc3h4Yl9oSTFOaUpnYThONkU2UElJeHl3WGFuckRoUFMyTnVaVFVQem9XUzRtNXdoX1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T01:15:08+00:00"
-    },
-    {
-      "t": "美 반도체주 약세 여파…코스피 장 초반 4%대 하락",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04SGR1cnNEZzVHWC1Pd21TY1FiQ2R5UkRsWk5LaVdIQjVQZjZlelgtcjBQX2pqSjJfS2dhTmtqRXZ4MThKelhpcEJPNmJ2eFREMkhsWThkNE05MHdzQ05yUW8ycWIyNzl4d1E?oc=5",
-      "s": "비즈워치",
-      "d": "2026-08-25T01:08:02+00:00"
+      "t": "\"미 재무부 TGA 비상금으로 국채 바이백 검토\" 소식, 금리 안정세 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OQ28zWkdMeFVCOUg2a0kybzdoTXRIT2NVZ19yUjkyQjl6VXBvLXlBblU0Z1lqTGlKbk00Q0pDcWxNRTBNN1U5OW95dTZ3bENHMV95MjVKcmptN2UzM0JueExNUVY5RWpN0gFuQVVfeXFMTVJUcklkVGc0d3VYTmNRaU5LdDIwUzlGTldaNlJkWUQxdzZGc0N3YlBycEpJT045bTVueG5yYXhGUlZoRDNtX0lkUVRXMm02alhhbXdjY3YtellzMENQdHgwc21icThVRGVwbzQ3X3c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T01:23:35+00:00"
     }
   ],
   "asof": {},
