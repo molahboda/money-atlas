@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T18:45:59+00:00",
-  "quotesAt": "2026-08-25T18:45:59+00:00",
-  "newsAt": "2026-08-25T18:45:59+00:00",
+  "fetchedAt": "2026-08-25T19:00:59+00:00",
+  "quotesAt": "2026-08-25T19:00:59+00:00",
+  "newsAt": "2026-08-25T19:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7675.7,
+    "spx": 7675.86,
     "nikkei": 65856.43,
-    "vix": 15.48,
-    "krw": 1383,
-    "gold": 4704.5,
-    "wti": 82.34,
+    "vix": 15.45,
+    "krw": 1382.85,
+    "gold": 4707.5,
+    "wti": 82.26,
     "dxy": 98.92
   },
   "daily": {
     "spx": 0.02,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.14,
+    "krw": -0.15,
     "dxy": -0.08,
-    "gold": 1.37,
-    "wti": -3.14,
-    "vix": -2.33
+    "gold": 1.44,
+    "wti": -3.23,
+    "vix": -2.52
   },
   "news": [
+    {
+      "t": "美 연준 내부 금리 이견 확대…지역 연은 4곳 인상 요구",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmeTh1aFBkcjNoYTFkajhPRzhPXzR1M291SjRBWGwtY0FJZ1Q3TjZ6Z2JDWE9uOWY0OUVKU2dSTmtJajFOUUdEel94QTF0YWI5?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-08-25T18:53:37+00:00"
+    },
+    {
+      "t": "캐나다, 미국에 200억 달러 보복관세… 최대 50% 부과",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTNE1xWnh0dGpVSGs0VnRZTW1LY0NfRUhyemNTVDBZQXNIU2JBVi1Keks5MTVMSmRWYkxPRVRrLXk4VnVFV25OV3NzNzduVVlFWFhvR293bzNOM01WRnYtM2lDVkVmdkJU0gFrQVVfeXFMTUljM1FyNWMyZ1EzZDhoSWc4R0h4V09xeEFfc3h4NEplYWhaNjVudEpud2ROa1NsUW4wZVVCVHlyRTB3MkN3Tk9IMVU3YVJDRTNEUXlNaTNnSnlPeDliU0czems3cmQ1M2k0cUU?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-08-25T18:48:30+00:00"
+    },
+    {
+      "t": "美 지역 연방준비은행 4곳, 7월 재할인율 '25bp 인상' 지지",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtenJoX3dQSmtoQlJMQXJsYk9XeTRZREV1a1dBUHRPaldvaU5BelptYlc5dF80dDU1MWlWVXVIU2RNY2RBZEdqaDRLeUZzbkt1VV83MXR6ZVVrUkUwS2tJMGtlQ0tDNkNSOEdJcG5ob0t1UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T18:24:55+00:00"
+    },
     {
       "t": "콜린스 \"인플레 미둔화 시 연준, 조만간 금리 인상 불가피\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVTFldjQ2OTM3N1BMUnJkRGpXczJlVjhaVkVzTV9RODhRX1VZVWtCZjJwOS1YTVBFYmZBdG90MGlvZEcxazR3UmlwN1hjT3I5TzZmc0hxWWJScDUyWVJMTFZ2Z3hWWDM0d1BHYTRoQW0?oc=5",
@@ -44,9 +62,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "포토레지스트 찌꺼기 막는 2차원 반도체 보호 공정 개발",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaaW1Xakd5T2dib1VjaEh3cWFKUFdYOTVOMFpoQmZvS29fc012M1JvRXd1eHFCMEZRbjRNakdlekJoYnM1b2FTaUZaeU9XNENZU2dkN2hxcnVpSDByUVFmWlVuNUxCa250LUh4adIBcEFVX3lxTE8wN1RaTHRjRnRBaHFlT3pWNFNuOTJUdk9kTnp3TnVDVE12Tk8xamk0Q2NkMWhfZWdla2pIR3ZTTThmcUNFMExaWkdjQVo1MktyM1dkR1Q4cWZKbW83QVRSTDM5enZCZ1pGU1A1eDl4MGs?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wN1RaTHRjRnRBaHFlT3pWNFNuOTJUdk9kTnp3TnVDVE12Tk8xamk0Q2NkMWhfZWdla2pIR3ZTTThmcUNFMExaWkdjQVo1MktyM1dkR1Q4cWZKbW83QVRSTDM5enZCZ1pGU1A1eDl4MGvSAXBBVV95cUxPMDdUWkx0Y0Z0QWhxZU96VjRTbjkyVHZPZE56d051Q1RNdk5PMWppNENjZDFoX2VnZWtqSEd2U004ZnFDRTBMWlpHY0FaNTJLcjNXZEdUOHFmSm1vN0FUUkwzOXp2QmdaRlNQNXg5eDBr?oc=5",
       "s": "전기신문",
-      "d": "2026-08-25T17:00:43+00:00"
+      "d": "2026-08-25T17:10:27+00:00"
     },
     {
       "t": "유럽증시, 대이란 제재 부담 덜어 대체로 상승 마감…범유럽지수 0.35%↑",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kb0JDQVM2WmxSTGV3eHZtR2lmeEVDd1FDVndSZ05kQjJmb3RfS0RxZUh5emZ2M2xZU25uaUhDNzVfMldCSHN0MEFwYlA5M1k3M09iY1lPMzA0Q0ZzMkk2c1JrVTI1dXhzZHlDVXQxeG5lUm9M0gF0QVVfeXFMUFBoUnV1dG90SWVTMFUtc3hIdmdVVVhacTh1VXBNQ005eEdJdDhob01oMWpLajl2XzkwS0FqWEpEWFFjakZJc09oSFR4dnNEYlJpbmFNeVVTSktfNVhsaDZqWUd2bDdZSFloUVdhaFg5eXE5cC0?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-08-25T16:42:08+00:00"
-    },
-    {
-      "t": "캐나다, 美에 200억달러 보복관세…700개 품목에 15~50%(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnQlZ2ZVRWSjkzdnZmU29jUmtrLWhoTmVDeTM2TVdvRnJYX3hkVktoR3J1VDU0UGJJN0dpV0lTT2k3OUw0QlM0TjRZbUloQi1xTjNvQm9aamRDZS1XU2t4ZNIBYEFVX3lxTFBnQlZ2ZVRWSjkzdnZmU29jUmtrLWhoTmVDeTM2TVdvRnJYX3hkVktoR3J1VDU0UGJJN0dpV0lTT2k3OUw0QlM0TjRZbUloQi1xTjNvQm9aamRDZS1XU2t4ZA?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-25T16:18:31+00:00"
-    },
-    {
-      "t": "캐나다, 200억 달러 규모 美 재화에 보복 관세…\"달러 대 달러 대응\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01YjVaZGNHTDVWel9RVmhlTEVzeEs1ekVVNFVTenZLWkRQU0xKWDZraEJBcUVNVEl4bWw2VDJvX2NWSDNDYS00NEtwUjY5eFZHVEZ5aXE2NEZxbERW?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T16:18:00+00:00"
-    },
-    {
-      "t": "캐나다 대상 관세전쟁에 미국 북부 술렁…중간선거 ‘영향’ 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb0Z5Y2t1c3JaT0ZQZl8ydHNQSkp1SnpwNlMxTElJUW42RDVZSFNNcU5iQ2dEUXJSUTdOSW5IbUpQek5aQVUxZzFEYlBFYWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T16:06:09+00:00"
     }
   ],
   "asof": {},
