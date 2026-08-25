@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T10:45:59+00:00",
-  "quotesAt": "2026-08-25T10:45:59+00:00",
-  "newsAt": "2026-08-25T10:45:59+00:00",
+  "fetchedAt": "2026-08-25T11:00:59+00:00",
+  "quotesAt": "2026-08-25T11:00:59+00:00",
+  "newsAt": "2026-08-25T11:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.84,
-    "krw": 1383.73,
-    "gold": 4690,
-    "wti": 82.36,
-    "dxy": 99.04
+    "vix": 15.85,
+    "krw": 1383.94,
+    "gold": 4694.5,
+    "wti": 82.58,
+    "dxy": 99.03
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.09,
-    "dxy": 0.04,
-    "gold": 1.06,
-    "wti": -3.12,
-    "vix": -0.06
+    "krw": -0.08,
+    "dxy": 0.03,
+    "gold": 1.16,
+    "wti": -2.86,
+    "vix": 0
   },
   "news": [
+    {
+      "t": "뱅크오브아메리카, 반도체 8개 종목 매수 기회 부각",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQ0RNYVdtamV6elVTWWdEMGloek50MElmYndKbFZydGY3eV93eWdBdlpMN0ZTNUFSRm82TmhfNW9aRTc0UU1XendwcEQzZGhDLVU3OGxfRkdyVkphRDJKbnVrQ0kxMXlmeE9ZbTNOMUw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T10:32:00+00:00"
+    },
     {
       "t": "[亞증시-종합] 지정학적 우려에도 상승…홍콩만 하락",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwU1hVX0hDamdXdFZodmZUaTdMSXMzSk4tejh5TzZNRTZzbTFQLXduLUtQaGFUZGtjelgzM1JVbDJ1azlxNzQzUWN6c1ljcThscGtnWUNpOVl4NEFaanozclFJdF9zN1FITlIzOVFkRUE?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5WmpDQmNUdFFTLWx2aks3M0xZeUwwQXdpNWlnampMZnRSNURxUDRfQnQyek4zTmVGV2syUUtabUJjYmhYQ3BGb3Z6cDlqUWpydTNsTmhvNEJ3UFowRzM3Z054TVdXRFdTUEk3RFNSLXQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-25T09:21:34+00:00"
-    },
-    {
-      "t": "정부, 호남 반도체 등 ‘3대 메가프로젝트’ 사업 예타 대거 면제",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tcGY1bVI5VHoxcE9OSXlSM0VYM3hqN3NyV3lRQnlJeFlNMTcySEprM2ZwdlZ0ZGQ4dnAzZXVBcXBTdWdlYVViUllZNDZYWHQ2WmUyeHJvdjkyVVN1RTlyTkhZZzE0dw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-25T09:20:00+00:00"
     }
   ],
   "asof": {},
