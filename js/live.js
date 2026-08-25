@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T09:45:59+00:00",
-  "quotesAt": "2026-08-25T09:45:59+00:00",
-  "newsAt": "2026-08-25T09:45:59+00:00",
+  "fetchedAt": "2026-08-25T10:00:59+00:00",
+  "quotesAt": "2026-08-25T10:00:59+00:00",
+  "newsAt": "2026-08-25T10:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.77,
-    "krw": 1384.01,
-    "gold": 4690.6,
-    "wti": 82.46,
-    "dxy": 98.95
+    "vix": 15.84,
+    "krw": 1383.29,
+    "gold": 4697,
+    "wti": 82.16,
+    "dxy": 98.97
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.07,
-    "dxy": -0.05,
-    "gold": 1.07,
-    "wti": -3,
-    "vix": -0.5
+    "krw": -0.12,
+    "dxy": -0.03,
+    "gold": 1.21,
+    "wti": -3.35,
+    "vix": -0.06
   },
   "news": [
+    {
+      "t": "캐나다 또 때린 트럼프 \"車·철강에 50% 관세\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNzdaMHdJQmF6Tm5LTEZRaEIxb01ZT1BLWnFUWUJNNUYxVjk3TjRLazJ5V3hwRG1rdnpBWDk2X3o5LTNfSWFtdEN2N0Z6VFc0aEM0dGJreUMyQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-25T09:53:40+00:00"
+    },
     {
       "t": "IRS 금리 전 구간 하락…단기 위주 강세·금통위 베팅 가능성",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xUnVINFYzTEVuN0M2NFR6bzRPNkQ1T1lHSEJpRmt5OGNmWXY1M2dPRktsa2tES004MF9tTzZKd05mdW9qT0dRd1FHR2NFVWhUa2MyLUctdUhxSmRpb19PQkE2M2hwc1ZFbl9meG1weHPSAXRBVV95cUxPbTFMbHM1cnM2cGxaMGozREo3dDNrQmFnMDNlZUM0RzUySzItVlJXenY4VlJ0N3RWd0x3YWFWS0otaUNXTzJUSGNsc0RzWVFmTWpfd19oZmdRMGhDalZZSG1wM1M1Q2lkU2Nya1BydG84SDNnTQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-25T09:34:21+00:00"
+    },
+    {
+      "t": "충북도·청주시 '반도체 클러스터' 국회 세미…글로벌 거점 도약",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LLUFaamxLR2dsRFJ3WkM2Um1iMXNxX05keXpQX3FNS1U1OUtVa0FBaDkxSVBreHJlVF9iLXhobnpMc2o1LVg5Y3NLX0FCZjZuQ3FxN2YwZDZYSDNubEo5MDFfYS1nOGNZS2lGcDllcDVaZw?oc=5",
+      "s": "굿모닝충청",
+      "d": "2026-08-25T09:32:46+00:00"
+    },
+    {
+      "t": "[고침] 지방(호남 반도체 전력·용수 예타 면제…통합 재…)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tblBkWkFBOVFvMzNOWXlwbmQ3WU9JQzZ2VUJydEdtSEVTVlE4bk9FVlZ3d1IxNnRjQkVOcWEtc2RQNlhMUVZaU09Ia2hjTU5oaXc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-25T09:31:58+00:00"
     },
     {
       "t": "[사설] 반도체 기댄 내년 슈퍼예산… 리스크 큰 만큼 대비책도 있어야",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGhwZFRnanR5ekJ3b3VQbmJHZ05YRFd4RUFsLVVEVFJxUVdSQm1zV0NPUVk2a1FCZXBKdG9xeWJTMVV1WDlUU0YzWUhWRDMwNmRtaDBCYnFOeUdNbERRSHZXRE56bHZteHNNQ0lTNERsME9xc1lLblpLdnZSWWhuZ3N3?oc=5",
       "s": "한겨레",
       "d": "2026-08-25T09:11:00+00:00"
-    },
-    {
-      "t": "'전약후강' 롤러코스피…6400선 밀렸다 6700선 탈환",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0S2lWVFA2b3dEdnNFX3BEMldZZnZQRGtBbzd2ZEdMRDZJbFRidllUVG1QUmhuSDFOS2VLcFRtY1dQTER2UHRia0d4NVA1d0E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T09:09:00+00:00"
-    },
-    {
-      "t": "증시 떠받치는 SK하이닉스 자사주 매수…'삼전 효과'도 관심 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xOXIxRHpjSjBwRUZ6Wi1uY2FsWElfVmdKQ2hXQUdFVGRXdmRMVW1JQTNISUV6bzdYNWxDMllTRXpCc2hnMm1Bekp4Z2VoMWhkUFdzWV9qY2I5Uzc1c254RVk2SXFHeGxB0gFuQVVfeXFMTjE0amRhZ2pBemtzTE1DZmFSMkV1STl5OEtFME1odktjUUcwdDdhRWl5a3ZGdEtPRnRuVlZXVGxEeWhBSzZGTVlvZFBrc21ydkhweXl4TUNoWkNmblJoX1kydldsSmJuVTgtcEFvQkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-25T09:02:34+00:00"
-    },
-    {
-      "t": "코스피 장중 4% 하락 딛고 반등…“안심하긴 일러”",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYU2ZpZHJnRzZvcUkzNVhwX3lnaGJvdzF0RWlCWUpqS2lwN0N0Z05sVVNSR2I3QVk5OFE3OFJ1d3hFVHRXbE9BNmhydVBjRWJTRGZuMkYyelVaMjA4Wk0xcnln?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-08-25T09:02:00+00:00"
     }
   ],
   "asof": {},
