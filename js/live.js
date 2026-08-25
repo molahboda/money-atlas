@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T11:00:59+00:00",
-  "quotesAt": "2026-08-25T11:00:59+00:00",
-  "newsAt": "2026-08-25T11:00:59+00:00",
+  "fetchedAt": "2026-08-25T11:15:59+00:00",
+  "quotesAt": "2026-08-25T11:15:59+00:00",
+  "newsAt": "2026-08-25T11:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.85,
-    "krw": 1383.94,
-    "gold": 4694.5,
-    "wti": 82.58,
+    "vix": 15.81,
+    "krw": 1383.84,
+    "gold": 4694.3,
+    "wti": 82.43,
     "dxy": 99.03
   },
   "daily": {
@@ -19,11 +19,23 @@ window.LIVE_DATA = {
     "nikkei": 0.5,
     "krw": -0.08,
     "dxy": 0.03,
-    "gold": 1.16,
-    "wti": -2.86,
-    "vix": 0
+    "gold": 1.15,
+    "wti": -3.03,
+    "vix": -0.25
   },
   "news": [
+    {
+      "t": "[인도증시] 유가·美 국채 금리 하락에 투심 개선, 상승...국영 구리기업 7% 이상 ↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZEpIVHpNb2k1Q1lOS0lGcE9DS05mYURYR0ZDcENHQnFDMElNUGpodVBiZzVGYmthV2lqcXJuR0J4ZFR5QmNIanBYaEVxZGRGNmc5VWlSVzhWOFF3?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T11:00:00+00:00"
+    },
+    {
+      "t": "미국 증시 강세 포지션 약화…씨티 \"약세 흐름 재개\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtZUZhTWkxN1Y4eWRJU2N1NDd5cUJ2RFZtY0xHSVRtMm52ZFRSazUwZ0x5YkdGeWZjeml6YTNIaV9yY0NlaGJtUjdZb0tLamVIVDMwUG1tcF9tX0R6SVo3X0dZNXZiYXUtQkdRWUFjM2E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T10:59:00+00:00"
+    },
     {
       "t": "뱅크오브아메리카, 반도체 8개 종목 매수 기회 부각",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQ0RNYVdtamV6elVTWWdEMGloek50MElmYndKbFZydGY3eV93eWdBdlpMN0ZTNUFSRm82TmhfNW9aRTc0UU1XendwcEQzZGhDLVU3OGxfRkdyVkphRDJKbnVrQ0kxMXlmeE9ZbTNOMUw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBadTNJYlJQN01PTl9Pcy04ZkstYllsd3NoeHZWd19BQmhZNlUxX09NLVQ4dGsyeWstQmgxOGhaS3gxRlBVZmZiRjZXZEltUnNsaURsc3h5NGZBZl9WZjFySW9VT1ZpdnY4OXFBanRvUQ?oc=5",
       "s": "서울신문",
       "d": "2026-08-25T09:24:54+00:00"
-    },
-    {
-      "t": "[사설] 반도체 기댄 내년 슈퍼예산… 리스크 큰 만큼 대비책도 있어야",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbkNUYjJ4QkhLcndGMFd0QU9jYlQ4V25qUnRacHNMMzJDRU5kMURsd05yRlZERGEybWExWHlKNkM5U04waGU0dS1pcXV0bEE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T09:24:11+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 전약후강…상하이 지수 0.19%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5WmpDQmNUdFFTLWx2aks3M0xZeUwwQXdpNWlnampMZnRSNURxUDRfQnQyek4zTmVGV2syUUtabUJjYmhYQ3BGb3Z6cDlqUWpydTNsTmhvNEJ3UFowRzM3Z054TVdXRFdTUEk3RFNSLXQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T09:21:34+00:00"
     }
   ],
   "asof": {},
