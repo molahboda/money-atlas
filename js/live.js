@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T10:30:59+00:00",
-  "quotesAt": "2026-08-25T10:30:59+00:00",
-  "newsAt": "2026-08-25T10:30:59+00:00",
+  "fetchedAt": "2026-08-25T10:45:59+00:00",
+  "quotesAt": "2026-08-25T10:45:59+00:00",
+  "newsAt": "2026-08-25T10:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.87,
-    "krw": 1383.98,
-    "gold": 4692.1,
-    "wti": 82.44,
-    "dxy": 99.02
+    "vix": 15.84,
+    "krw": 1383.73,
+    "gold": 4690,
+    "wti": 82.36,
+    "dxy": 99.04
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.07,
-    "dxy": 0.02,
-    "gold": 1.11,
-    "wti": -3.02,
-    "vix": 0.13
+    "krw": -0.09,
+    "dxy": 0.04,
+    "gold": 1.06,
+    "wti": -3.12,
+    "vix": -0.06
   },
   "news": [
+    {
+      "t": "[亞증시-종합] 지정학적 우려에도 상승…홍콩만 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwU1hVX0hDamdXdFZodmZUaTdMSXMzSk4tejh5TzZNRTZzbTFQLXduLUtQaGFUZGtjelgzM1JVbDJ1azlxNzQzUWN6c1ljcThscGtnWUNpOVl4NEFaanozclFJdF9zN1FITlIzOVFkRUE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T10:30:30+00:00"
+    },
     {
       "t": "캐나다 또 때린 트럼프 \"車·철강에 50% 관세\"",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNzdaMHdJQmF6Tm5LTEZRaEIxb01ZT1BLWnFUWUJNNUYxVjk3TjRLazJ5V3hwRG1rdnpBWDk2X3o5LTNfSWFtdEN2N0Z6VFc0aEM0dGJreUMyQQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tcGY1bVI5VHoxcE9OSXlSM0VYM3hqN3NyV3lRQnlJeFlNMTcySEprM2ZwdlZ0ZGQ4dnAzZXVBcXBTdWdlYVViUllZNDZYWHQ2WmUyeHJvdjkyVVN1RTlyTkhZZzE0dw?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-25T09:20:00+00:00"
-    },
-    {
-      "t": "비트코인 석 달 만에 8만 달러 돌파…美 금리 잡으려다 달러 신뢰 흔들",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52S0JSRWk0NWl4YW1ab1Y2LUpadjBvWi1OSnE4RG5yVGpNM044OUdtRnl2a25DN0c1NGNyd2JsR0tsWGppTVVMdXF2T1RPUml1RjUta1Fn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-25T09:18:58+00:00"
     }
   ],
   "asof": {},
