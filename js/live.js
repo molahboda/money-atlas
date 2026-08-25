@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T09:30:59+00:00",
-  "quotesAt": "2026-08-25T09:30:59+00:00",
-  "newsAt": "2026-08-25T09:30:59+00:00",
+  "fetchedAt": "2026-08-25T09:45:59+00:00",
+  "quotesAt": "2026-08-25T09:45:59+00:00",
+  "newsAt": "2026-08-25T09:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.78,
-    "krw": 1384.33,
-    "gold": 4687.9,
-    "wti": 82.64,
-    "dxy": 98.97
+    "vix": 15.77,
+    "krw": 1384.01,
+    "gold": 4690.6,
+    "wti": 82.46,
+    "dxy": 98.95
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.05,
-    "dxy": -0.03,
-    "gold": 1.01,
-    "wti": -2.79,
-    "vix": -0.44
+    "krw": -0.07,
+    "dxy": -0.05,
+    "gold": 1.07,
+    "wti": -3,
+    "vix": -0.5
   },
   "news": [
+    {
+      "t": "IRS 금리 전 구간 하락…단기 위주 강세·금통위 베팅 가능성",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xUnVINFYzTEVuN0M2NFR6bzRPNkQ1T1lHSEJpRmt5OGNmWXY1M2dPRktsa2tES004MF9tTzZKd05mdW9qT0dRd1FHR2NFVWhUa2MyLUctdUhxSmRpb19PQkE2M2hwc1ZFbl9meG1weHPSAXRBVV95cUxPbTFMbHM1cnM2cGxaMGozREo3dDNrQmFnMDNlZUM0RzUySzItVlJXenY4VlJ0N3RWd0x3YWFWS0otaUNXTzJUSGNsc0RzWVFmTWpfd19oZmdRMGhDalZZSG1wM1M1Q2lkU2Nya1BydG84SDNnTQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T09:34:21+00:00"
+    },
     {
       "t": "[사설] 반도체 기댄 내년 슈퍼예산… 리스크 큰 만큼 대비책도 있어야",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbkNUYjJ4QkhLcndGMFd0QU9jYlQ4V25qUnRacHNMMzJDRU5kMURsd05yRlZERGEybWExWHlKNkM5U04waGU0dS1pcXV0bEE?oc=5",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sRG1NM1BNbGxmc05FOUFrbE90cThHaENudEZaU08ybE1BOWhRLWt2ZmdQQ3otVUVCdVE5VkE1bGNZbENPZmNHSzBvTnBOY00yOEZsZXJIc3JGT2c?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-25T09:20:00+00:00"
+    },
+    {
+      "t": "비트코인 석 달 만에 8만 달러 돌파…美 금리 잡으려다 달러 신뢰 흔들",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52S0JSRWk0NWl4YW1ab1Y2LUpadjBvWi1OSnE4RG5yVGpNM044OUdtRnl2a25DN0c1NGNyd2JsR0tsWGppTVVMdXF2T1RPUml1RjUta1Fn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-25T09:18:58+00:00"
     },
     {
       "t": "화순군, '반도체 배후도시' 삼천지구 개발…2029년 착공 목표",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T09:02:34+00:00"
     },
     {
-      "t": "美 관세 위협에 캐나다, ‘대응책’ 공개 예정…무역 전쟁 격화 조짐",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qRm5xWGxTS2RXWlJBYS1wUjNNT0tCN1BuMUtxWHMtRVE1ZmdnZUFGamJCbzJsd185d1c4LXBOWVVmc0p0d21WR1VDaUI1Nmc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T08:57:27+00:00"
-    },
-    {
-      "t": "코스피, 장중 4% 급락 딛고 0.68% 상승…6740선 회복",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lQ3NIVHo4azJnZGtpcFJ5eHZWb2JUX2FXU2ZFdXYyVFZRY2pRMWZZd3hiVXlqaHRPUlpsUmt6OGhXaGk3UHNrUHZESW4yeW5tVkw5dmFVQlc2dUxYZ2lZNEsxdlJYN05Ra2MzYkZfaWc5dw?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-08-25T08:57:01+00:00"
-    },
-    {
-      "t": "유가 상승에 생산 중단 영향 상쇄하며 Gulf Keystone 주가 급등",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lOTZLMzdZM29PdWxxc1lLbHZCaTZBZ2Vvb0gxQ05yTkdFQmFack9fb0wyQ3dWdENnMHAxcGVsNno2RUNxdXFzc1p5T2xHanc5N1h4Qk5iaHZZNUlkd20yOHMxczd4dXZyWmFTbVo2SDRLalQ3RDE0?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T08:57:00+00:00"
+      "t": "코스피 장중 4% 하락 딛고 반등…“안심하긴 일러”",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYU2ZpZHJnRzZvcUkzNVhwX3lnaGJvdzF0RWlCWUpqS2lwN0N0Z05sVVNSR2I3QVk5OFE3OFJ1d3hFVHRXbE9BNmhydVBjRWJTRGZuMkYyelVaMjA4Wk0xcnln?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-08-25T09:02:00+00:00"
     }
   ],
   "asof": {},
