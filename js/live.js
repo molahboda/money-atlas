@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T05:00:27+00:00",
-  "quotesAt": "2026-08-25T05:00:27+00:00",
-  "newsAt": "2026-08-25T05:00:27+00:00",
+  "fetchedAt": "2026-08-25T05:15:27+00:00",
+  "quotesAt": "2026-08-25T05:15:27+00:00",
+  "newsAt": "2026-08-25T05:15:27+00:00",
   "quotes": {
-    "kospi": 6678.85,
+    "kospi": 6659.18,
     "spx": 7652.86,
-    "nikkei": 65821.88,
+    "nikkei": 65743.81,
     "vix": 15.85,
-    "krw": 1382.95,
-    "gold": 4680.6,
-    "wti": 85.11,
-    "dxy": 99.07
+    "krw": 1382.58,
+    "gold": 4686.1,
+    "wti": 85.06,
+    "dxy": 99.08
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -3.39,
-    "nikkei": 0.45,
-    "krw": -0.15,
-    "dxy": 0.07,
-    "gold": 0.86,
-    "wti": 0.12,
+    "kospi": -3.67,
+    "nikkei": 0.33,
+    "krw": -0.17,
+    "dxy": 0.08,
+    "gold": 0.98,
+    "wti": 0.06,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "코스닥, 외국인·기관 순매수에 상승 전환…코스피도 낙폭 줄여 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXVDRlZXakFyYzI1YmllY2hFTG1mYThvbElhS3g4RG1yWFhzbmNuejA2Y281YlBGaUxtSFMxSDZCd1dUcmtLUmxsemRjaFl1LTQ1cmV2VkEyZEt2LXhrNUZzNFRWczBI0gFuQVVfeXFMT2UwTFZGeC1kUk1aOVZJOUx0aGljT3BzSVdvQVRnZlZPNTNjTVh2NzB4R2ZKOGEza2JaODFhbnZHLXFoSlJhVWZrOFc0aERPRlJSRkd3a1pUUjFFUWJQblBIRUdMRVJhWXFlemdZaWc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T05:02:05+00:00"
+    },
+    {
+      "t": "달러 반등에 아시아 통화 하락…이란 제재·국채 금리 주목",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zSHd0aGlJRXhoS054Vkp6bGx0OGpqeGlfRmpiY1VobDI4Yks0Y1duSTNGQmV0ZmZQU3FxeUN1aGx6WW1mNG9sR285LWlpbXRXYldkYTBkem42dnBhTnViY2dZTVhIeU0?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T05:00:00+00:00"
+    },
+    {
+      "t": "환율 하락에 LCC 숨통 트이나…고유가가 변수",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iOUp3VzFYOFpQWE5nU3FQRDMtTHByOTFYcFJnUEZDd01UVmc3cC1KS0FLZlVRVm9ub2dpRGJqbDFTcG9LZG8tVnFTZXdIRG1VcUw3Sk1mZFE2bDBwZjZWVmZ2OW4?oc=5",
+      "s": "매일일보",
+      "d": "2026-08-25T04:55:32+00:00"
+    },
     {
       "t": "[윤영숙의 시선] 반도체 호황인데 삼성은 왜 계약학과를 줄였나",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxZy0yMnFhNnFfeDZxYjZORFVlYjBsOXNDR05MbW15TExkNGhxQnNpU1Qya3JDMEt1YXlCc1IwWUZFVDJsZ1B2MU5hQXU3ZHZjajQ4d2cydEw3cnQ4U25DRFZlSUZqZWhfOHVMaXBCLUo?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-25T04:47:06+00:00"
+    },
+    {
+      "t": "8월 금리 인상 시험대 오른 한은…고금리 부담에도 인상 유력",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tQ2NsQjUzVDhTM0t4UC04YVlXLUZWaS1UYndRTHRXajZ5bXI0RkxydDlKRUpmYzVvRTF6MFZJN3VuM0NVWGRDVHRvMTExSjdJSUdfcFJYMXNwaGIxLWVaWm1RU1lJb0ZzYlhz0gFvQVVfeXFMTUk3Ym0tNjdldTVUcWJwNTdXUFc0OVROS3A0VzBkb19IT0dhZHJtRjlRQ0ticWFpdEtsNGJSYVNwMjlfa0dvVUhPSVRnN2MycE4wbHJVWUtMMlhVaDdTbFZxRHVDX3oxSGEzWE1BMWNZ?oc=5",
+      "s": "투데이신문",
+      "d": "2026-08-25T04:46:38+00:00"
     },
     {
       "t": "[시장 따라잡기] AI 인프라주 반등 기대감 속 주목할 곳은?",
@@ -43,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T04:26:38+00:00"
     },
     {
+      "t": "與전현희 '청년창업 금융지원' 현실로…최대 3억·금리 3%대 상품 출시 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4aDJkLVRsTXY0dXBUVHZEVXVLb1JzZk9qM0FZUW5KdXhqM2JCcE9uaEtZWEswTkdlYk5PeTlTTEx1eHVUeEc0aVR0aTdpcktFamxfc0trNEdqQUdfV2IzQjdSUlZyaFNMWXg3WNIBckFVX3lxTE9tTG9TREZ6ZjBZaVduMFdweDVZeXBjM0lfTVRWMENRWGpvQnhLQVVTMUlsX3RKNjNWOE5UWmY2eXVadWMtZVlyZkdqX1ZKZmx3Q0FMR3B1Y0NVME9BTkdRcGdCNHhicXJUdkwzNFdYdnp1Zw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T04:19:19+00:00"
+    },
+    {
       "t": "특징주, 인텍플러스-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 8.41% ↑",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVUmVOVFlQQmktTFI1bkVsYTJwMDU5VFZMWnp4Qnh1amtMVW1EWEJkd090VjV6OEJ5TW44aWZiXzVNTVVqWHc1b3VsRGNvZ1pSb0E?oc=5",
       "s": "매일경제 마켓",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wUGVxWndEZGdhRWZOUWtCb1BtZ1h0MzdPM3FPNUd3QmV3aTRkQnZmejlnUUhZN3dGWmQtOWdmMjVneUQtVThIRlhFd2FSaDhyb2FQX0NRV2ZpOXc?oc=5",
       "s": "데일리연합",
       "d": "2026-08-25T04:10:04+00:00"
-    },
-    {
-      "t": "\"백투백 인상하면 쉬어가겠지\"…10월 금통위 두고 프랍 딜러 촉각",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhVThLbUFzRTZkMWYzRGhGQzB4Ym9SWVFzZ1UxVnNDeFJzUlc1dHhnNHBvOFZYcVJSb1loX0hiMEtRRmc5MExvRHNidXdCS2RVN0V0U05zTjl2UjQ3Qjc1TkVORXZHQjVIMTBoR1VBTDBwZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T04:10:01+00:00"
-    },
-    {
-      "t": "충북도·청주시, '반도체 클러스터' 추진전략 모색",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yY1VsTGtfaVEwelYtVlRmNGZUT0luSEtRbEEta1B0UUlqSmptb1g1R2lteGE4S1dHNWFsMGlSWThrRmk0Sy1jYjByWjdNeU0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T03:55:54+00:00"
-    },
-    {
-      "t": "코스피 6,599.70 코스닥 810.55",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBSXlLQzYyTHFGd2JSYnI2amRsMGN1cURvQ2xoMTZuX1Uyd1d5WjFpSHRESGpUcGVCQ1BsY2J4Wk93a3lSdnZkWEJyR0tDUm93LU9nTk82b241Nmc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-25T03:54:00+00:00"
-    },
-    {
-      "t": "RBA 의사록 \"AI·데이터센터 투자 붐 강해…수요·물가 자극\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ckxHRHl2ME9vWUhvNFRfYnZtSHJ1UkxHNVZEQjlET3dKQk9RRjZWMkhHYjFTbUFtUG9xaHNFVUJoYVZmeHpPTkN6RXV0aGpIcUc2OGZvcjZXVUVyUTA0bmRfWHpUUUxQeHp1QUJhYmHSAXRBVV95cUxPcVhubV9QYWNiZGNJby1jUzNaZ0xmamZQcXlaenhRaExpNUROSGZOeG9QTU9aczMwRXd0bzVWZHVCTERUUnNsRWpyS0dKdUxBdGRRSGpWcE5iWVFxdzROSm9qZE0wUGp6TkFQZFRtbEhzb252eA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T03:39:58+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lUkt4WC1ab1JpQi1jWWh3ejNQdE4zZ0w1WVl1MmlDcjRnQThqeG1ia01xazhMRndubkk1M0Qxa29Jc2gyV19fZlBKbFNTSHJfTW1ZdWNMSnBtak5zNTJTbkw5Wk1ILWRENVhyWGZUNTZoMnRYZWJub9IBeEFVX3lxTFBuVzVCNm9ERFNuY2I0dkJtTGpPRDJHS3ZvUGwzYmhXNFJFNFgtVEFKaDBHd2V2OU90c25OdXZ4aFlZYWMyWmVxZ2RwN0d4TFM5VUxUVEVQRENMNWhpeWtMMERmeWVJSmlqVzBrVEoxeWxvTXpxM3BlZQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-25T03:21:04+00:00"
     }
   ],
   "asof": {},
