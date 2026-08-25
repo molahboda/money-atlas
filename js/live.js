@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T01:15:26+00:00",
-  "quotesAt": "2026-08-25T01:15:26+00:00",
-  "newsAt": "2026-08-25T01:15:26+00:00",
+  "fetchedAt": "2026-08-25T01:30:26+00:00",
+  "quotesAt": "2026-08-25T01:30:26+00:00",
+  "newsAt": "2026-08-25T01:30:26+00:00",
   "quotes": {
-    "kospi": 6542.14,
+    "kospi": 6539.3,
     "spx": 7652.86,
-    "nikkei": 65098.93,
+    "nikkei": 64968.22,
     "vix": 15.85,
-    "krw": 1381.08,
-    "gold": 4731.4,
-    "wti": 85,
+    "krw": 1382.38,
+    "gold": 4733,
+    "wti": 85.08,
     "dxy": 98.98
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -5.36,
-    "nikkei": -0.65,
-    "krw": -0.28,
+    "kospi": -5.41,
+    "nikkei": -0.85,
+    "krw": -0.19,
     "dxy": -0.02,
-    "gold": 0.72,
-    "wti": -0.01,
+    "gold": 0.75,
+    "wti": 0.08,
     "vix": 4.76
   },
   "news": [
     {
-      "t": "가상자산·금 동반 급등…비트코인 반등, 환율 11개월 최저",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zRGV0T2V5X3QzTC1lSVdhLVJJZ1pSQmNDQTVhQjB2cXNHb01Ud3MyZmxhM21KS0RsMnFrR29tNTRTeHItX2NONFd6WmJuUDZobUdyaW9OLWJSbExBUFVHTkg2QQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-25T01:09:44+00:00"
+      "t": "\"미 재무부 TGA 비상금으로 국채 바이백 검토\" 소식, 금리 안정세 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OQ28zWkdMeFVCOUg2a0kybzdoTXRIT2NVZ19yUjkyQjl6VXBvLXlBblU0Z1lqTGlKbk00Q0pDcWxNRTBNN1U5OW95dTZ3bENHMV95MjVKcmptN2UzM0JueExNUVY5RWpN0gFuQVVfeXFMTVJUcklkVGc0d3VYTmNRaU5LdDIwUzlGTldaNlJkWUQxdzZGc0N3YlBycEpJT045bTVueG5yYXhGUlZoRDNtX0lkUVRXMm02alhhbXdjY3YtellzMENQdHgwc21icThVRGVwbzQ3X3c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T01:23:35+00:00"
+    },
+    {
+      "t": "올리자니 자영업자 쓰러지고, 멈추자니 물가 불안…한은의 ‘금리 딜레마’ [기자24시]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnNlY3ZmhKR1p0MkcyVklCTWJhX2YxRlB0ZTlIbnpMeFJLdUJjdkpHWHozdUZvNHh2bkkwYUdNZ2hzT2I5bVRXY3Q5RjN6XzBpWEE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-25T01:22:14+00:00"
+    },
+    {
+      "t": "반도체株 약세 지속…코스피·코스닥 동반 하락세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2Mzh4V1ZwdEl0d2lDT2Z2YVROZ2Nmc3h4Yl9oSTFOaUpnYThONkU2UElJeHl3WGFuckRoUFMyTnVaVFVQem9XUzRtNXdoX1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T01:15:08+00:00"
+    },
+    {
+      "t": "충북도, '청주 반도체 클러스터' 지정 총력…산·학·연 추진전략 결집",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tWG1PYkRieXdwYjAzQVdWcGJYVVJBUl9lMlo0NU9DSGNaUmcybHBBWGlCcFdnWUg1X01MNm9ldFc3d2o0NllhTDhtUUtaQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-25T01:10:51+00:00"
     },
     {
       "t": "美 반도체주 약세 여파…코스피 장 초반 4%대 하락",
@@ -37,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T01:08:02+00:00"
     },
     {
-      "t": "Nvidia 실적·연준 신호 앞두고 미국 증시 선물 보합세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRTFV6UzNvNmRwTEVvTDhXdk93bUcyZl9wWklHMnoweElvZWZZSlhRdDRVR0llVWNYU3lMVlgxbFVCT1Nfd2syQTFVckFaNUN6QzlKZXp1NzJna2xUcy1vcU50SDAyTk52UG9zaHItQjc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T01:05:00+00:00"
+      "t": "금리 인상기에 확장 재정 나선 정부 … 엇박자 커지는 정책 신호",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40YkVaazZCalY0R2FSZXNQVUpSS2dWTndEOVdZYlZQRktHeWcwZ0RNWkZtTEx5N1F3X3d2cEEtMENPb0I1QWlvZDg1bHF2RkNNc19VVFNsRXZ4X0c0WldfSkVuRDBvTGwtNlZ0ZFFTRVF5RWFNUXo4U3ViSdIBgAFBVV95cUxNa0FXUVU3cU0xQTdaTEhGWEM0QVNmbzh5MVUyRjlpZG9FWGQ2VVBVNHhYZkNjM05YMHJEVUs2YUpyb2Iycl91ZFNlNnJ0NDJOT3hMQmc4TWY5a2Y1WU1aQVdLdW02QXJNSWIxZndHLWFmRnJRRlZCd0dXZlhJRU95VA?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-08-25T01:04:52+00:00"
     },
     {
       "t": "블룸버그 \"미국, 중국에 과잉생산 관세 7.5% 부과 검토\"",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pYjYyU1pTTUFfempMTGJvN1Joa09ScEZjdGFXRFY1OWV2b2x5ZWM4NmZyd3FTWHJIRVRQVDlidklqamNNQnpWZE5KM2Iydw?oc=5",
       "s": "전자신문",
       "d": "2026-08-25T00:54:40+00:00"
-    },
-    {
-      "t": "S&P500 선물, 엔비디아 실적·물가 지표 대기 속 강보합…美 국채금리↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHd3RhUi1sczY5SXY4dlJjT2JKVjY4dHFLR0x4b3B1d2hNZEl3T25UZXBCX29FTmVXN2JxcVladGpldS1OTWFKWklSSEt5MjY3ZzNiTHhKZDFibDl3NFRfVlJyb2RCZmZQbW5paTRiVzA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T00:51:56+00:00"
-    },
-    {
-      "t": "코스피, 개장 직후 6400선 급락…삼전 주주환원 여파 이어지나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcC1rZ0NsQUt1eWpZUUh3Z1htd1NFVzAycE85Z09lZmdfYlVJako1RUZQaWd6ZmlCYTRGaENTTEZDTENwNFNwbnllekJUM1J0LWhqZlloa1BrcjFzNVFPOElCSFBxMW8?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-25T00:51:00+00:00"
-    },
-    {
-      "t": "블룸버그 “미, 중국에 ‘과잉 생산’ 관세 7.5% 부과 예정”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQWRrRlkxWVFHaVlqR2dlTDNGd0QtVTRsZGw5aXUxNVI5VENkRjgwMVRYUURyVUNHRUc2aGEyWEVNSDE1MkctQlZIYVR0N0RHamxfZzBRa1J1d9IBX0FVX3lxTE5BY1hQS2tqTEZCRGRXYWxJVDdhbnQ3RkFpdWFQWUNfNFBnUkJHMkh5QXFMeXNIQjlLQlQ0VEM1WW1MNGI4Z0ZUTzRtTTUyM3JRNEUxaDBXTk16ZEFCV09z?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-25T00:48:00+00:00"
     }
   ],
   "asof": {},
