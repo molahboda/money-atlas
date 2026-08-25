@@ -1,40 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T22:30:59+00:00",
-  "quotesAt": "2026-08-25T22:30:59+00:00",
-  "newsAt": "2026-08-25T22:30:59+00:00",
+  "fetchedAt": "2026-08-25T22:45:59+00:00",
+  "quotesAt": "2026-08-25T22:45:59+00:00",
+  "newsAt": "2026-08-25T22:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1381.87,
-    "gold": 4723.9,
-    "wti": 81.09,
+    "krw": 1382.26,
+    "gold": 4724.6,
+    "wti": 80.98,
     "dxy": 98.9
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.22,
+    "krw": -0.2,
     "dxy": -0.1,
-    "gold": 1.79,
-    "wti": -4.61,
+    "gold": 1.81,
+    "wti": -4.74,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "반도체주 강세에 상승…국제유가 90달러 밑으로[뉴욕마감] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RjZyMnliNG1zdTVWdXVvRHE2UHhoZkM5Y3BMT0xXN0hBOE9IY19HRFh1Z21iOE1DbFNMSEtla2lMY2lzRXNDQURQMmtKQkgyTXg5QlRsT0VLb2djR05PZWJDWE5xNERs0gFuQVVfeXFMTk1PQnBkYmhsNGFSVlN3R2FZc1hBZ0ZpWlVyU0pwdFp0dnlRNlpPTC14ZTVYMG1fTjg5ay1Rd3M3SHhsX3BJM3VBSlY2bHE1RlpxRVNUNVpVTGdXdWwyMDloQ2VvSWxWbC1IRUNEalE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-25T22:24:29+00:00"
+      "t": "[브라질증시] 석유주 약세에도 5거래일째 상승...헤알 강보합",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XNVJqQ2hTbzhmbXc2R2doSWZCNzN3Qy1BVFBWWHVaY2RNTW5Tamk2clc2cG9mWXNfME51b0tJQ1JEODJGZkJ4c1dFSzJqeDZySWltR2E5MzlMQU1X?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T22:39:00+00:00"
     },
     {
-      "t": "캐나다, 미국 700개 품목에 최대 50% 보복관세…무역전쟁 격화",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkQ3dhLW9CWncwdzV0YmxYYklBN3dmWDR5bFE5TmtmWUpTN2pFQWxNX2x5OHZuU0tBQjBXLU9pME5wRnp5YWJpUHFmYXlrWFQwbzVxU3ZyZUtETlV6R1B2dQ?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-08-25T22:21:07+00:00"
+      "t": "캐나다는 다 계획이 있었다...“보복관세, 美 중간선거 경합주 타깃”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wUElYWC1tT29ZWGpWSnZpV1dwdEhvbjFZbU55djJYOHlya0o0Vk9YTzNSM1BCTHRQVklpa19RY3lBRmlFMTlIa2RkN0laajRZa1ZKZlh3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-25T22:33:45+00:00"
+    },
+    {
+      "t": "캐나다, 美 중간선거 겨냥 보복관세…'주권전쟁' 확산",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEVSZGhSeUFGQmtDUy13M3h6al80ZF9weDlSYzl0cWpDTzR3YVE3X1dWU3ktcjR3MW1lQWEyMGFnQUQxcFp5eVV1bjAyWGFVZG1hT0xkS0hoN1YwUU80aUx4bE5NeGJINmlsYVRmS3NydXBZOFlUbEpYY1Q0MmF3cVRTX2hMQ2h5?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-25T22:29:17+00:00"
     },
     {
       "t": "[채권/외환] 미 국채 수익률·달러 동반 하락…유가 급락·베선트 '바이백 확대' 여진",
@@ -56,7 +62,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "캐나다도 맞불 관세...\"미국산 7백개 제품에 최고 50% 부과\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HRmJaVGJIb0oteDBzYnd4RjJLQTROTmRweDVyeUQ0MGN3Z0dZWkE2UEpBTU5VbmdKUkFXT0FoNy1tLV90ZGZ1UERPd1lnaFMwU3JkMHd3UDlHRFl3OWc?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwY1hGZmVaUDNCYmNwM3NKVFN1Ti0wa3JLa3pjRjcycURKaDFGZmpPT0JtVHdkd1ZZQ2V1RzEzWmExY0M4QlVDZ2k5cHlQOTdDZzlBR3h6WVh5QnhNN0hiY2NMNmJ2OVpORDhvdTZhdw?oc=5",
       "s": "YTN",
       "d": "2026-08-25T22:10:00+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BbzQyLU1DRUl1Z0tpLWprYmg1YmlINm45YTZBR19SVnRTQU1oaUNubmxodllTdC1Pa0F0LVE3UWotUUZtYjVtOElrUUJwTUU?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-25T22:06:14+00:00"
-    },
-    {
-      "t": "[0826개장체크] 美 증시, 국제유가 급락에 따른 인플레이션 우려 완화…반도체 업종 반등",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UTUyYWpDek1YVWdMckhzbkF2OURMY3Ayd1FnMVM2VURrYXBYUmRCN2t3VGRPLVFjSEd5cXBaZHdpZWpKc3pnU1dRYlZlN0pEbHdVdHZvOWs3NElQLUU4QmdBbzQ2WWNOWS1OMjZVYnpZeTlE?oc=5",
-      "s": "인포스탁데일리",
-      "d": "2026-08-25T22:05:38+00:00"
     }
   ],
   "asof": {},
