@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T23:00:59+00:00",
-  "quotesAt": "2026-08-25T23:00:59+00:00",
-  "newsAt": "2026-08-25T23:00:59+00:00",
+  "fetchedAt": "2026-08-25T23:15:59+00:00",
+  "quotesAt": "2026-08-25T23:15:59+00:00",
+  "newsAt": "2026-08-25T23:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1382.09,
-    "gold": 4730.3,
-    "wti": 81.07,
+    "krw": 1381.98,
+    "gold": 4728.6,
+    "wti": 80.99,
     "dxy": 98.9
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": 0.1,
+    "krw": 0.09,
     "dxy": -0.1,
-    "gold": 1.93,
-    "wti": -4.63,
+    "gold": 1.89,
+    "wti": -4.73,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "[시황] 미국증시, 장기 국채금리·유가 하락에 기술주 반등",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lclNJUlh4VmhQNkg2Uk91RUtybUxsZXB1bF90QV9qajJzVDZENmQxUWxfNF9QYTRsUFVVY0RRTGt0V2dPc21IQUVzSExJdVg4ZVNUcWsxUWxxeVhlM1VUMHNn?oc=5",
-      "s": "버핏연구소",
-      "d": "2026-08-25T22:57:28+00:00"
+      "t": "[굿모닝 증시] 美증시, 반도체 반등에 상승…韓증시도 기대감",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TSzY4Q1Z1Z3BENFhPR2ptU0ZoanNLOE0xMmYyTUVNNnBXd3FZVkg4cl8yZTJ2LWk2ejJMaU9rYmp5dVowcVVoR2xKM2s1R3M4NWtmUzdBUW8xdzlHdHpjMw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T23:14:43+00:00"
     },
     {
-      "t": "[신윤우의 외환분석] 관망할 이유 세 가지",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XcU8yQ1lTTEJiTU1meGU4T1ZLV3kteXVUX3llamdYWlZ3aEo3UUdaTWRDZkdIYmpNa1E5OTE4bDdmVUlaWFVZSzZnNGhwbndab0VyZlZpYm9SeVVfbjJsay1sNlV0WXBJcXM2U1BwNmRTZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T22:54:08+00:00"
-    },
-    {
-      "t": "[마켓뷰] 美반도체 반등에 코스피 탄력받나…D-1 엔비디아 실적 주시",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zUl9JMllTQUc5M2VndTRRWGtLcXBCYzF2YlREa1Vza0pZUUF5YWR1MzVhZzd4SDZGRjQtaDF1QTlyaXg4Z0ZFMUt1eTVJX1g4UTRJUWdCTzJuTGfSAWBBVV95cUxORnF1WnhCN0lyMVVBdjlxckM3ZXJGb1h4eE50Tl9JNmlvN2dWeEtGSW00YjZaLXkxc2FDRkEwWF9lQWVManF6Vm01UUJSTm85dzBOdXVMbTlDb1p1QnowdDI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-25T22:48:12+00:00"
-    },
-    {
-      "t": "\"베센트, 뭐든 할 것\"…올랐지만 찜찜한 반도체, 골드만이 지적한 3가지 [김현석의 월스트리트나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SczJKTC1DQzgxUXR2VzNXR1laZjBUWjlqaUJNTFVkdGlBVm96SEZuZUlMUHExcEkwYzFjdXpEclBBZ0d1a2VvQlphUU8wUlFTNndNbkwyT25qQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-25T22:47:37+00:00"
-    },
-    {
-      "t": "[8월 금통위 D-1] 채권시장 시나리오는",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNDdDbXc5M2ViUjNYYUVkWC1xcHpRNXpEWUJINUJ1T3N2QWRZWGI4TXZHVDJSanBXVTEteE0tOUJFQ3I0aVFhNW16T1hWR1luLWNBbDJHN1U3UEo1Y1E5b3I0Sm1ER0Z6Q0FSYkd0SGt5QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T22:42:53+00:00"
-    },
-    {
-      "t": "[브라질증시] 석유주 약세에도 5거래일째 상승...헤알 강보합",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XNVJqQ2hTbzhmbXc2R2doSWZCNzN3Qy1BVFBWWHVaY2RNTW5Tamk2clc2cG9mWXNfME51b0tJQ1JEODJGZkJ4c1dFSzJqeDZySWltR2E5MzlMQU1X?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T22:39:00+00:00"
-    },
-    {
-      "t": "캐나다는 다 계획이 있었다...“보복관세, 美 중간선거 경합주 타깃”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wUElYWC1tT29ZWGpWSnZpV1dwdEhvbjFZbU55djJYOHlya0o0Vk9YTzNSM1BCTHRQVklpa19RY3lBRmlFMTlIa2RkN0laajRZa1ZKZlh3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-25T22:33:45+00:00"
-    },
-    {
-      "t": "[마켓 프리뷰] 반도체 살아나며 코스피 상승 전환…코스닥 1%대 강세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1keDloTHdkcWgzSkZfQVNLbkY5WnlIVlhxZEI1MGdVM1VzVWNTaEJ3WkxZSG1pMllkZzdRS0c0Zk51OTRqTWIzb1dUV1Uxc2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T22:31:07+00:00"
-    },
-    {
-      "t": "캐나다, 美 700여개 품목에 최대 50% 보복관세…\"달러 대 달러 맞대응\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByQzJwcEVuR0N1NWQ2Q3FjUEd1TzBjbkY3eTVNMkI4VkNHV2l5ZjJKVmNSQTNxTEl5a3VFQXFBQ2NRamtfUGNqLU9faktSdDQzczF2a2huYzV2WmdjcG9PS2JzRk9xRkt6YUVZSm5TcjFBN0RE?oc=5",
+      "t": "원·달러 환율, 1382.28원…강보합권 등락 전망",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05UjZMWEMtSURweDhtQXA2RGIyYWY5Y01sX1FLTEkweVZ1VFA5ZF9yNnBGNDlwekZPNVVYTFo1RHNnWHJaYVE2Mlp1bVduY29iYmk2NmloMEhOWjVnTnYxQUIwTjhBb3EzQVVpa1VJM1cxVW5o?oc=5",
       "s": "조세일보",
-      "d": "2026-08-25T22:29:52+00:00"
+      "d": "2026-08-25T23:13:14+00:00"
     },
     {
-      "t": "캐나다, 美 중간선거 겨냥 보복관세…'주권전쟁' 확산",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEVSZGhSeUFGQmtDUy13M3h6al80ZF9weDlSYzl0cWpDTzR3YVE3X1dWU3ktcjR3MW1lQWEyMGFnQUQxcFp5eVV1bjAyWGFVZG1hT0xkS0hoN1YwUU80aUx4bE5NeGJINmlsYVRmS3NydXBZOFlUbEpYY1Q0MmF3cVRTX2hMQ2h5?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-25T22:29:17+00:00"
+      "t": "[AI MY 증시전망] 코스피 상승 출발 전망…외국인 수급·반도체 반등 주목",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95MGpXRzFzQUdVZ0hfSzFhdGVhSkNxUUhwNnhXQmw3cTZKeUJXV3A1d3JEekR6bGt0VVZ5a0dVX09McE5Tb1E3ajZrREFZSTdFdmQyQWUwZnVYNDhI?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T23:13:00+00:00"
+    },
+    {
+      "t": "[외환] 증시 호조·이란 긴장 완화 조짐에 1,380원대 초반대로",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ekw0TmhWalc4MG9udjNMM0VXUDN4V1Y0WWRlam1wUmFQeVlKbWFVdGppS3FBT1RBTTQ5U3pqeFNuQk1Xc21jd2JvVmhKMUJ0TmpYTHZ4U0R1X3owNU14M09xSXF6eDB0Q3RiUWM0blLSAXRBVV95cUxNOEJMN3VZNllVOHdVYzZKMHlGQkI1MEgzeFAwb3MtT2czMEx5UFJWZmIza0xGVVRxZHBHbjlPaTM0N1lPa25hbmd1UUhZWjBQMkRpVktWcThGaVNKenNkbjJpSnBHNndKb0FDY3MxOHlZNmZ2OQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T23:10:06+00:00"
+    },
+    {
+      "t": "[속보] 국채금리 하락 속 반도체주 반등 … 美 3대 지수 동반상승, 삼전닉스 프리장 1%대 강세",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hWDVSZHJlbG1RXzVzS2ZSQ0xpc2V4ZWxxMjZLd1FueVQ1TXRoZjBmdWVld1hJRFBCVGxnRVNfSExwUTJfc1I3WC1oOHR1dDY4Ti0xYkd6YnNKMzBGeXJ5YW0tSi1pbzVhc3dJMzNKMm5QZ0RhOVprLTYzQdIBgAFBVV95cUxObWlUS3pKWUxlRE96NFJJektfNThpdTNrQkhpMTBSNFlVUkQ1QkFBTU5VcVc4MnI4ajFsaW9hOXUxSkFRX3hjS1R3NTE1T2FEeTE0eDRFRlFhTWh2OXlSQTBmOWN4MG5ocUw1ZDhhNGhudnRxVVljdTR3Zl85enZRVQ?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-08-25T23:03:05+00:00"
+    },
+    {
+      "t": "[속보] 美국채금리 하락, 반도체 반등 … 삼전닉스 프리장 1%대 소폭 상승",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCVTZ6ZjJ5T0lyR1k5R09NX1paMjMzQnJTYmY4U2dzREp6cjA4QWhzbUxfemkzajZwcGNLNVNJM3J5Y0J4WXFtOUlqQi1UdGRmbk41RzF3UDRhZzdnYlp3bnFKOHhVMUpQMWlWdEFNdnBORER6M09OYWRlQdIBgAFBVV95cUxQTV9tbTBhTldKVHNjYWJVQUx5ZUpOYl9GN0Jqd1lPdTVSMHlmWlN3VVpnbUZWSnBjeXF4eVp2Vld6NHJCS2Vuc3o1X1lmeEI4emYzRmpmREJwaWF6QlpvZ1hvdWJCcGZfMXRiSjZsaUlCWGQzNnpkaWk1OFFXbTJYZw?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-08-25T23:01:46+00:00"
+    },
+    {
+      "t": "반도체 사이클 내년에 끝난다더니…놀라운 전망 나왔다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44cjUwSlE1d3Y2RVdScHVYdlpBV1l2b3M1T0oza0NVb0E5NzZ5N0FueExNZlFGaFNWdmdsakdNQVFSVlN1dWpSQ1o2ZE9jOUk2TjhmLVpZRHZmdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-25T23:00:10+00:00"
+    },
+    {
+      "t": "[인포맥스 POLL] 8월 수출 951억弗 전망…반도체 독주 속 車·선박 주춤",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9idFJ6ZU9ad2RfN0tYT2JUX0w5cHdIaUxmZEdic2k4bWt5Rllqd21aYjYzX3huTk91MGJmLXB3V21abTduLVFfUDgxOGZRQkY5aUxDc3dSU2dIRy0ybEJlaHctcGpib09yS3lPaHBHMmvSAXRBVV95cUxPSy1xRGtVckJKajRCdjU1REhzeWdkSm50TXJDWHN6dnlCSzB2VmV5RGl4bVRnSy1DTUt1R3V6NVl3T0FvbTc4bUExVVFhbmgzNTV4dU1LT09RVW5nSEhnREw2dlVpbXJTRWdfU1BlTUFIRVBkTw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T23:00:06+00:00"
+    },
+    {
+      "t": "[인포맥스 POLL] 8월 소비자물가 3.27%↑…\"폭염에 농산물값 상승\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fb2J6RFdYdmRyUnJtbGo3aGNBN1ljd1ExMU1NZ2t3S2tmSkV5UDlCQ0J4VUEtclY3elAtbTRZX0VIR1hnWjhmUE1wYW5DZ3Z3ODFIN1doN0g5Zmw0SlhhcGg0UEJOM01zNmxWRENDdnlzdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T23:00:02+00:00"
+    },
+    {
+      "t": "[노현우의 채권분석] 파도 일어도 유조선은 간다",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE96SHNqSDBoWktBOXVhMXRvallOQlRQRDRHNTRLN2daMWFFMVV5MnJvd2lkay1XbWRkYjMza1U0U21NZk9OOTlhSWNyb2NRLV9Rck1PUlhEZjBsdlozRzctYXBFUzRWbzl0VEFqc0R1NzFGdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T22:57:35+00:00"
     }
   ],
   "asof": {},
