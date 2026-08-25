@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T23:30:59+00:00",
-  "quotesAt": "2026-08-25T23:30:59+00:00",
-  "newsAt": "2026-08-25T23:30:59+00:00",
+  "fetchedAt": "2026-08-25T23:45:59+00:00",
+  "quotesAt": "2026-08-25T23:45:59+00:00",
+  "newsAt": "2026-08-25T23:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1382.09,
-    "gold": 4723.5,
-    "wti": 80.99,
+    "krw": 1382.18,
+    "gold": 4717.3,
+    "wti": 81.03,
     "dxy": 98.9
   },
   "daily": {
@@ -19,16 +19,40 @@ window.LIVE_DATA = {
     "nikkei": 0.5,
     "krw": 0.1,
     "dxy": -0.1,
-    "gold": 1.78,
-    "wti": -4.73,
+    "gold": 1.65,
+    "wti": -4.68,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "캐나다, 미국에 ‘달러 대 달러’ 보복관세…중간선거 경합주도 겨냥",
+      "t": "캐나다, 대미 ‘달러 대 달러’ 보복관세…미 중간선거 경합주 겨냥",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wajVONGdjSWl2U29zOF82RFY2QUJjLVhMUWVFT2tTclpkZWg5YnFXemhyVm85eHktcTZ4WEdSckVSeFNlSDc3VFFKV29Hd3BQVjBzZGFLbjJGcF81b0tIeUdWV0xOT1YwZUVTV1N5MA?oc=5",
       "s": "한겨레",
-      "d": "2026-08-25T23:26:00+00:00"
+      "d": "2026-08-25T23:36:00+00:00"
+    },
+    {
+      "t": "캐나다, 美에 200억달러 규모 '맞불 관세'…700개 품목 최고 50%",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRXBaOFpBRmVTZVM0UkhIRWYwWnkyeENpLXdYMTA1LVgxU3FfY3d4bWdnbGxHTGV2MkVMOGFfdkh1dXg0Ym91c2x5b0lub3VZMGgtYkdhY0V1SjFkT0dsMnI1NDRra1V5bDdZejl3ZGg?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-25T23:34:38+00:00"
+    },
+    {
+      "t": "[증시 포인트] 대외 환경 호전 긍정적...상승 출발 전망",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XV2ZPZ3FWYWZkTUpVZDhoLVB0TWhyRnRIRC1Za2szVURXNWk3czVlNEhTUHFtcTVDNWtqY29yclBzVmdUeHJkU1A3U1F2T3F3NXhqRGQyWWpQdkF2WXh2d0xldU5DRDRuWVU0WDlnNmw?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-25T23:32:04+00:00"
+    },
+    {
+      "t": "신한증권 \"코스피 2분기 영업익 서프라이즈…올해 컨센서스↑\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LWXNXN3BoVFFTOWlISXhSWWF5emlCMUZrX0dzN1B1MElxa2E0OXdwMFYwblh6WkQ2c0FNMHQxck02enlmR3dSMENfSEkxSElhanpWRDBKN1NfWXPSAWBBVV95cUxPUjctd0RRV2pmaGY1RVZsTzE1WktiUWo4Wl96cUNGYXlLdUNhTmxPd0d1cUtYSG5oX0otejNvMjQ3eC1UU1gzWTlrM3RZRFR5cTZTbXRyXzI2VEp6RlM1Y1M?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-25T23:31:30+00:00"
+    },
+    {
+      "t": "[0826개장체크] 美 증시, 국제유가 급락에 따른 인플레이션 우려 완화…반도체 업종 반등 By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yWnYyOUhrS0pkU3E2ajJ5cENHbDRxNkF0bWVTOFRDMW9YcnZXZUZROFJkMmlXaUczZzhUYkFFd3p1Um1xdDhqRG1rMEhuODROcUtUMWNNc0JPa0VHNWFnMEJoRlZuRGxiSXdnamcyYVc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T23:28:00+00:00"
     },
     {
       "t": "[해외시황] 뉴욕증시, 금리·유가 하락 속 반도체株 반등에 '상승'…나스닥 0.66%↑",
@@ -37,9 +61,21 @@ window.LIVE_DATA = {
       "d": "2026-08-25T23:25:17+00:00"
     },
     {
+      "t": "“금리가 갈랐다” 엇갈린 투자심리",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aR3VzZHZCS1I2eEktLXZnT2NEOGdQODBQcDYxTVN3Ukc2OWZtenp6Z2Zneklyenh4NXI4Z1l6YllzeDA5REdPZVZNVVQ4cl8zMzIxYjlPLWxqUVA2cnNkaXF6ZVRMaUcxek9ydQ?oc=5",
+      "s": "한경매거진&북",
+      "d": "2026-08-25T23:21:00+00:00"
+    },
+    {
       "t": "美 반도체 훈풍에 코스피 추가 반등 시동…엔비디아 실적 ‘분수령’",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pcFlqYVVvbW0tMWRuN1ctWGJla00wbl9HVE1VTVBBQlY5RkQ2WVFTT1JDV1ZsYUlUeXFwMU41R0FOOEdBS20tT3I3bnRWUWtvQU0xUzhlVG5xZw?oc=5",
       "s": "경북매일",
+      "d": "2026-08-25T23:15:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 美 국채 금리 하락·반도체주 반등에 상승…나스닥 0.66%↑",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fa25BOFdVSjNaZ1FrME5ySUpNUkttaTJaN01QbF9POXY5QzJ0Wm45Mzd3YlpYdmpzRHhodDZiZnRHYUxTWUZ1RUVpSGFDTGZrOEFnei1jWHV1OURCZ19lTlBQa0NWN1BLckdQRUY5NA?oc=5",
+      "s": "조세일보",
       "d": "2026-08-25T23:15:00+00:00"
     },
     {
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5b1JTMEg4UHlVeHlTbFVZa3BCR091aTVmYWpnbzdVbHI1ZDlaUmxtNXNSMk9JUFFJZFYxUUxvOExVTk5YclUtLUdPUlFSOTJmbjE0MlY3ZHI5Y0Nr?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-25T23:14:00+00:00"
-    },
-    {
-      "t": "원·달러 환율, 1382.28원…강보합권 등락 전망",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05UjZMWEMtSURweDhtQXA2RGIyYWY5Y01sX1FLTEkweVZ1VFA5ZF9yNnBGNDlwekZPNVVYTFo1RHNnWHJaYVE2Mlp1bVduY29iYmk2NmloMEhOWjVnTnYxQUIwTjhBb3EzQVVpa1VJM1cxVW5o?oc=5",
-      "s": "조세일보",
-      "d": "2026-08-25T23:13:14+00:00"
-    },
-    {
-      "t": "美 장기금리 하락에 반도체 반등…삼전·SK하닉, 프리마켓 강세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xam52VnRVQVJiZDFRaHFfX0ZxQjNpZHI1WjNMQ2ctbUV1ZWpWbnFyejladk1ENnFlSGc5M0pRVE4wWmhEdDhVWU5UUE1TSjg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T23:13:07+00:00"
-    },
-    {
-      "t": "[특징주] '삼전닉스' 美 반도체 훈풍에 상승 출발",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hTDFpN0hCOTNQNjdMelJXRVFiNlp6T0RQWlNEdDZRbDJ0NS0ycE9sUzNUbkRHb0MtYUwzdThOTUsxYmozU1NNbEVYNWpTTGdfMVRpMzRMUVRtMURS?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T23:13:00+00:00"
-    },
-    {
-      "t": "[외환] 증시 호조·이란 긴장 완화 조짐에 1,380원대 초반대로",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5ekw0TmhWalc4MG9udjNMM0VXUDN4V1Y0WWRlam1wUmFQeVlKbWFVdGppS3FBT1RBTTQ5U3pqeFNuQk1Xc21jd2JvVmhKMUJ0TmpYTHZ4U0R1X3owNU14M09xSXF6eDB0Q3RiUWM0blLSAXRBVV95cUxNOEJMN3VZNllVOHdVYzZKMHlGQkI1MEgzeFAwb3MtT2czMEx5UFJWZmIza0xGVVRxZHBHbjlPaTM0N1lPa25hbmd1UUhZWjBQMkRpVktWcThGaVNKenNkbjJpSnBHNndKb0FDY3MxOHlZNmZ2OQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T23:10:06+00:00"
-    },
-    {
-      "t": "국채선물, 유가 이틀째 급락에 상승…10년물 40틱↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SYU40UWctOFlkV2xWV00tWnZzS1pHRXhrVDFuZkdIbXM1aTA3ZG1RTXpCeVBQSlBjQUJJUnRjcFY4bjZDQkFscE05eVFnYU1tRmxkczlVQ085RFBoY2NlMFpOMHF4LVF2M2VsOHFkRnE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T23:10:00+00:00"
-    },
-    {
-      "t": "[속보] 국채금리 하락 속 반도체주 반등 … 美 3대 지수 동반상승, 삼전닉스 프리장 1%대 강세",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hWDVSZHJlbG1RXzVzS2ZSQ0xpc2V4ZWxxMjZLd1FueVQ1TXRoZjBmdWVld1hJRFBCVGxnRVNfSExwUTJfc1I3WC1oOHR1dDY4Ti0xYkd6YnNKMzBGeXJ5YW0tSi1pbzVhc3dJMzNKMm5QZ0RhOVprLTYzQdIBgAFBVV95cUxObWlUS3pKWUxlRE96NFJJektfNThpdTNrQkhpMTBSNFlVUkQ1QkFBTU5VcVc4MnI4ajFsaW9hOXUxSkFRX3hjS1R3NTE1T2FEeTE0eDRFRlFhTWh2OXlSQTBmOWN4MG5ocUw1ZDhhNGhudnRxVVljdTR3Zl85enZRVQ?oc=5",
-      "s": "뉴데일리",
-      "d": "2026-08-25T23:03:05+00:00"
     }
   ],
   "asof": {},
