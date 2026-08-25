@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T13:00:59+00:00",
-  "quotesAt": "2026-08-25T13:00:59+00:00",
-  "newsAt": "2026-08-25T13:00:59+00:00",
+  "fetchedAt": "2026-08-25T13:15:59+00:00",
+  "quotesAt": "2026-08-25T13:15:59+00:00",
+  "newsAt": "2026-08-25T13:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.84,
-    "krw": 1383.73,
-    "gold": 4695.9,
-    "wti": 82.34,
-    "dxy": 99.01
+    "vix": 15.82,
+    "krw": 1384.08,
+    "gold": 4688.2,
+    "wti": 82.11,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.09,
-    "dxy": 0.01,
-    "gold": 1.19,
-    "wti": -3.14,
-    "vix": -0.06
+    "krw": -0.06,
+    "dxy": -0.02,
+    "gold": 1.02,
+    "wti": -3.41,
+    "vix": -0.19
   },
   "news": [
+    {
+      "t": "뉴욕증시 프리뷰, 미 주가 선물 반등…국채금리 하락에 엔비디아發 반도체 랠리",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tU3l0TmZUdURFVEJkYllKN2RnN1c0Z2pBN0RzV0l4SURhajdPTXg0dm5FNXBBTU1aLS1rNDViQ1Q1X3BqVVQ3VEs1ZGJjTVNtNlNVMDltVHFrTDIx?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T13:13:00+00:00"
+    },
+    {
+      "t": "수원컨벤션센터서 27~28일 ‘반도체 채용박람회’",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sWV9KdzhMWGdSejhHeW9qOUthbVl1Qnl1UjRQdlJhUC1lZTlzZlg5eUxnX2RxNERJT21wOERjS0ZGLXBhNV9iOEp3cl96X2NXSGhScDNUbmJSZFk?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-25T12:48:00+00:00"
+    },
     {
       "t": "“퇴직금 절반 넣고, 일주일새 1000만원 날려”…영원히 오를 줄 알았던 '미친 증시'에 당했다",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDeXJaZHRQbkJHUUZwNU5LTVQwRzlGemxVMG1HdU1COVZzUDNHekJBZG5yOC1zOVpndGxYNkV0VmhiZlBWSFlVNTBjNTNNZw?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T12:04:00+00:00"
     },
     {
+      "t": "中, 10년 뒤 반도체 자급률 대폭 상승…골드만삭스 \"공급부족 92→34%\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UT2FwZllxbDJ3SjhZaHhXd0Q4VkNTSVBTdU02MnNDajBITnJlWWtLRHNCLVZnYURsMjYyX21Kbk5FWFRTWjZORGlVOTdaOGVYR1RmZnNkSG9uRVcwSlM5dnY2emxOUVli0gFuQVVfeXFMTWc1dk5uNUxyeFNncXpGeHFDd0hjRWJyNnFCbFk0bkFrQVVGS1RXZ3NFSGZqY0dMQ3FHQVZXOFZDY0VaQ0ZITk5sYmZ4YXMwSUZMWkpISEpkRUhFMGIwa015c0ZSSWdjRlo5cE02TVE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-25T12:00:53+00:00"
+    },
+    {
       "t": "베센트의 바이백 전략, CTA 숏 스퀴즈 유발해 5.34% 금리 달성 노리나",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUDJ4aWxLRktWWXotV3AtRTlqZDkzMUJJRlRES2tBYU9yNm5KalZiLWhvTk43TW8weHAtYmtrM1hfdEt2Z0hvRU5FdnRKdXNvSmlJbENHR1dQeWs4SmNJTzJHNEg4THM2TXpYU0dmNWJBdmZod2xv?oc=5",
       "s": "Investing.com 한국어",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVmRYNnFlakcxZ293SnJiYlg0RzMyZnVBSnlUaVh2ZVlTMkUzWlB6RTNuVVh2U2RRQWctbmNuNGJjNElyNnFEN2VsUE9DOXpjUkZuQS1qSFVvcFdUYVY0ZnJDR3VzQ1U2cXh2c0U2b2VJMjVPM2FEQdIBeEFVX3lxTE1aUUNaUjNmU0RBOVpZTndJMGJZanR0UjZ1TFFoaUNpU2tLZnlRNHY1X08zY05DUVpRakQ5N2Y3Y1ROLU03VE9nSVc1MVFoOGJOZ0FvNHNkbWpaam5NT05TZEtyWVNJVjZoNm5zMFljeDRKQVljOU5Wcw?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-08-25T11:34:04+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 잭슨홀에서 달러 매도세 막을 수 있을까?",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Q2c2WE9ubS1Xci1WNDI2Vm4wTzZ5a1JTVElacS1UN1k3S25sOWx1ZXZDOFF1X0lrY3kyWWZUdmlPcFZjcXdTbi14bGU5Z2pUdmFvOG80amw2SVRqeW5JZ3FtZHZTWk0?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T11:34:00+00:00"
-    },
-    {
-      "t": "TSX 선물 소폭 상승…미국 관세·캐나다 은행 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZThHamVrS1VrYXZKVTdObHZ1Z3dEZFNXQU93TkdueGs1YzhmMVc0NlcwMnhtamJteEl0V2ZjXzREV0ZLcFltSC1JWVR2NXUxSThGN3ZNVmNRMGhPVEtCN3hXa1JoUXM0YXRqQlJKMjU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T11:16:00+00:00"
-    },
-    {
-      "t": "4% 급락 딛고 반등…코스피 6,700선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLR2VodThTTWI3LVZ2T21rTzhpSkpZOXhFa1NKS3RUY0tUWUk0Z0xuRnRXbl9NSkIyQ050b0lrNkRmc1Z6N3BadGs5el94NXN0bkE2TDBRWFRvaTZwc1BBOFNBeU8zdHc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-25T11:12:00+00:00"
     }
   ],
   "asof": {},
