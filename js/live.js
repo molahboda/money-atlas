@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T00:30:26+00:00",
-  "quotesAt": "2026-08-25T00:30:26+00:00",
-  "newsAt": "2026-08-25T00:30:26+00:00",
+  "fetchedAt": "2026-08-25T00:45:27+00:00",
+  "quotesAt": "2026-08-25T00:45:27+00:00",
+  "newsAt": "2026-08-25T00:45:27+00:00",
   "quotes": {
-    "kospi": 6465.27,
+    "kospi": 6496.41,
     "spx": 7652.86,
-    "nikkei": 64676.97,
+    "nikkei": 65029.14,
     "vix": 15.85,
-    "krw": 1380.88,
-    "gold": 4738.2,
-    "wti": 85.12,
+    "krw": 1381.68,
+    "gold": 4745.2,
+    "wti": 85.04,
     "dxy": 98.96
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -6.48,
-    "nikkei": -1.3,
-    "krw": -0.3,
-    "dxy": -0.04,
-    "gold": 0.86,
-    "wti": 0.13,
+    "kospi": -6.03,
+    "nikkei": -0.76,
+    "krw": -0.24,
+    "dxy": -0.05,
+    "gold": 1.01,
+    "wti": 0.04,
     "vix": 4.76
   },
   "news": [
     {
-      "t": "하락 개장한 코스피-코스닥",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tbHQyYmtLV29KSndkNExUTHM2ZkQ0S3FXeGtfVU9qRlN4MW5uQ1hXOW15NW4xcFhSeWgxVFdKa0pIeGRab1VZa1NmNHlYMWxHUFRwOXh4R0VWVHM0?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T00:26:00+00:00"
+      "t": "삼성전자 4%↓·하이닉스 6%↓…코스피 장 열자마자 6600선 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwb2FSMGFMelVzTzhSOEx2RGVWd3ZpVEZRVVp1NW5WeVFVQV9ZeGg0amdzWkZZQjMwTjVZQ2FIem92NHpNay1kaWI0MDdCT0RTR3c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-25T00:40:52+00:00"
     },
     {
-      "t": "[개장시황] 美 반도체주 하락 영향 '삼전닉스' 급락, 코스피 6400선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJMVJOV0llNU5HOWl0WlktV2w3RUE2OGpzWEZRVDI0cDVib0E2NU9ETGxYandLYXN0SzJLSllBM1l6ekdpMjh0X0IydTRPbTFYZ0w0MmN3bTl3dC01?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T00:23:00+00:00"
-    },
-    {
-      "t": "코스피, 장초반 3% 내린 6488....美 반도체 급락에 '삼전닉스' ↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0UzcwUTU1ZWVvbEdXWEhYTHNkQWFXdzdDbzBaY3NjQzg2NWZZaVVudzVKQnlGdmhkeGhpLXUzVTFjVVNjUENnVDN2bjdzNkc3TFVCQW41VjdsYkdUZWpmbjk2SGxTTWh6NFYtN3lsWGw?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-25T00:22:41+00:00"
-    },
-    {
-      "t": "크레이머 \"美국채 바이백으로는 장기금리 못 잡아…인플레가 관건\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE15ZnlhZjJZd25JSDRLNEJfd01aQjJuTHFELVliSzVnWi1zWUw4d2x6cUVlMlFycE5sMUVmR1VmdzY2QU9uRzZqVkxVZ0c1aGNVcDZYQUVSREJpY1RWczN0RU1ERnc1cmR2RXE3c1ZqWmZlUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T00:22:21+00:00"
-    },
-    {
-      "t": "외국인 '팔자'에 코스피 2%대 하락 출발…'삼전닉스'도 3~5%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40RTJPb0FGRE4xOUNBUlladm9TWUVEa1ctNjFmRWR3QThkZ3pELWZIWkN5SjVMQmZmak83bEFRSTQ0MXpKU0JUemROcm8xMy02WHpLTmpjYkJza0xHdkdlb2xFMEhkZEUwcm1rbkdtZUM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T00:20:57+00:00"
-    },
-    {
-      "t": "블룸버그 \"미, 중국에 과잉생산 관세 7.5% 부과 예정\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0N3B3UE9PTEhNaHJSNVVxMm54dnczcm1WbFNuYXRmQWVjQlc4OGFfT2lqdjdpRmdNYjBjQ0dlaHNmN05UTTFpRHE4MUE1ZlE?oc=5",
+      "t": "美반도체 찬바람·삼전닉스 약세 지속…코스피 2~3%대 하락(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PRFBqUVdyYkQ3OHR1UHFSY2RxalFQdnNHbmJFUGVwYmFBUURadXdUWFVZVXluUklNajNwLVVGb09sWFV4UDRySm1zaF9PZ2c?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-25T00:17:49+00:00"
+      "d": "2026-08-25T00:40:40+00:00"
     },
     {
-      "t": "증시 조정·물가 상승… 8월 소비자심리 4개월 만에↓",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUk4VnlrelNCRXJJSWFLQjdJUUhnQWd0b0d5VkJ1Y3FhR3FvUzR2M1ZyQ2YzYmJqekYzMTFET1VJMl9Gc0Vhd2pESnhRV2o1UnhYQ3Nsa0xJMHBhTldZa3g5X0s2MXFRU0lYZjNkQTFHN3ZFU0l5Mkxkb3JCaHhoR2xNT1E?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-25T00:17:41+00:00"
+      "t": "[포토] 낙폭 줄이는 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QZWlCV3prd0ktdlNTd1R4S3VBajZ4a2QtQ0tlUjcwTXZqVG5EMFJZUE9UVDRRdEdVNkZMVUdvSmw0SlBqSkRBRHRIYkxrMHlFZTllaTdUQ2dRTVhPZmxXQQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T00:35:52+00:00"
     },
     {
-      "t": "경기도, ‘2026년 반도체 기업 채용박람회’ 27~28일 수원서 개최",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03RWhDQjFjNjdtU2daak1tUXY2bmN6c2w0THVmUmxVazBjeU1ZUXZfc0tSSTFjZ0wtYlZEZWNpZV9scTAwZDFnUE0zT0trTzZsekp3c3NLc3N4TDNBNzVQRF9yWkV0UQ?oc=5",
-      "s": "기계신문",
-      "d": "2026-08-25T00:17:13+00:00"
+      "t": "[포토] 삼전 연이틀 하락, 장중 6500도 무너진 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JbC1hVHAwRzQyY3llcXAweGUyeUlSMk9GWEl5aXJDNTJZWldBYnloZGQ1MnBjWmZMSkFJRlhycElyaHk3aTc4TXlCWk9IX3dKOVhsZ2gwcHR2Z0JIZVFhMw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T00:35:21+00:00"
     },
     {
-      "t": "데이터센터 빌려주는 ‘AI시대 건물주’… 반도체·전력난에 매출 ‘날개’[유중호의 미국 주식 플렉스]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yMVBRUlJrRWFBXzN2NnBEdzc1SmhBLXp3WG5DT0dMN0VDaEN1TVhCWjFtcE9XcTdCZjJiVWR4VnBjLVdaM050a1lFdHZnX0Iy?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-25T00:10:39+00:00"
+      "t": "수원컨벤션센터서 27~28일 '반도체 기업 채용박람회'",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81d01mVWYxM3gyaWROaXJ3VWRLWjl6R2NWTTgxSlJLZ3lXcWVnU25uLXlEamluVFFaZk5mTnVIdGNSUTBKY0czSExPWmJnNlMxSGh1QU52M1BsQ2vSAWBBVV95cUxOaEZYQ2tCT2V4R0l4bGR1ZzZJRWJrM1poNFVldUFNOXNKREFwZTRRbGlCSmFJNHdmMnV1V00yZnMyUTJHZU1GeS1NYTVtQVVwU2VyX0dVRVM2eWNyM3RKQzQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-25T00:34:49+00:00"
     },
     {
-      "t": "美, 물가 잡으려 소고기 관세 한시인하… 업계 반발속 선물시장 안정화 주목",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45SFJFTURUaWdlZ1kwdHUxUERVU0lZY0IyVWFxQ3RuaklGOW9LR3RtX0ZCMWlEODFoalNyS3hoeWloaHBNejBKWUJ5VlhpNDJS?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-25T00:10:25+00:00"
+      "t": "[포토] 오늘 코스피는?",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HVzB5UUJFdGJmamtUN3VqclJ5UmFYX1QybTBhOWdxVXdfNUJsejBuamx6NWcySE0yZTVRTHMzTVJ0aDJQMFN6REc3OUtMOThPWklZQ0JxUVF6V0I2RVNSQw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T00:34:38+00:00"
+    },
+    {
+      "t": "[포토] 삼전닉스 동반 하락, 장중 6500 무너진 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TVREZTZPc19HaXVXNG1EUFpUN0xwMEtqVVk2dmNaYnRQQUhTbTBrMU9aM2pzZW1XSXNCUGNaZlNGMUpzLTZuYmxRTmVHbHhFVXBRRldyNFlEVjhRT0NRTA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T00:33:39+00:00"
+    },
+    {
+      "t": "[포토] 장중 6500선 무너진 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6M2pBUHFCdkt6NlRSTmlTUklEOUhJUmZqQTZnXzhTUV9sbVJXaDRUSmlHSUpYelZSckRzb1ZqcHhtcmgwWl9kMWkzOTA4VkVkdHFPWHV0a01iMkFRbWRrXw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T00:33:11+00:00"
+    },
+    {
+      "t": "[포토] 코스닥, 코스피 동반 하락",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53WDVkVjNIb1dVYWIyRWxqaWxPREdQVTY5dnUyd3JnOGtlOVdJT09MbEZHOTZPeUNHREpYbVI0ZHhzTVpBVnM2ck9LVE5lQ2lneFQxRVhiUFlsdkRfTGpBbA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T00:32:49+00:00"
+    },
+    {
+      "t": "[외환] 관망 분위기 속 1,380원선 횡보",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxeEtBV0wzVjMtN2RkNlpUcFIzMVNZZlJxSTdMOHlBRmp3RGFmcUxaTHo0UDlYMzNFYlo3UnQxQWZNX3UtYWRad2k4QlB5NHNzZ2pOTEFsRG5tRTlZWnB5aXdoLUViWWNWRmR2MVJLZERHUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T00:30:54+00:00"
     }
   ],
   "asof": {},
