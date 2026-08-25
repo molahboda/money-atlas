@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T10:00:59+00:00",
-  "quotesAt": "2026-08-25T10:00:59+00:00",
-  "newsAt": "2026-08-25T10:00:59+00:00",
+  "fetchedAt": "2026-08-25T10:15:59+00:00",
+  "quotesAt": "2026-08-25T10:15:59+00:00",
+  "newsAt": "2026-08-25T10:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.84,
-    "krw": 1383.29,
-    "gold": 4697,
-    "wti": 82.16,
-    "dxy": 98.97
+    "vix": 15.85,
+    "krw": 1384.18,
+    "gold": 4690.1,
+    "wti": 82.48,
+    "dxy": 98.99
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.12,
-    "dxy": -0.03,
-    "gold": 1.21,
-    "wti": -3.35,
-    "vix": -0.06
+    "krw": -0.06,
+    "dxy": -0.01,
+    "gold": 1.06,
+    "wti": -2.98,
+    "vix": 0
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNzdaMHdJQmF6Tm5LTEZRaEIxb01ZT1BLWnFUWUJNNUYxVjk3TjRLazJ5V3hwRG1rdnpBWDk2X3o5LTNfSWFtdEN2N0Z6VFc0aEM0dGJreUMyQQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-25T09:53:40+00:00"
+    },
+    {
+      "t": "AI가 대신한 “금리 낮춰주세요”…16만명, 1인당 이자 61만원 아꼈다",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xSnRkT0xyMXRnWjlOU1lhM25DOEZOeW9PNXBNVnQ1ZmVNR3N3NHlndlFrTEtJN09QMWhsRURLZmQwb2wwUkFxWkxOR2tWbnJzUWNYalV6U1R2Wk52UkZfLUZHV0xuVDA?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-25T09:49:00+00:00"
     },
     {
       "t": "IRS 금리 전 구간 하락…단기 위주 강세·금통위 베팅 가능성",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T09:31:58+00:00"
     },
     {
+      "t": "‘반도체 전용 예산’ 신설… 아동기본수당 지급",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBadTNJYlJQN01PTl9Pcy04ZkstYllsd3NoeHZWd19BQmhZNlUxX09NLVQ4dGsyeWstQmgxOGhaS3gxRlBVZmZiRjZXZEltUnNsaURsc3h5NGZBZl9WZjFySW9VT1ZpdnY4OXFBanRvUQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-25T09:24:54+00:00"
+    },
+    {
       "t": "[사설] 반도체 기댄 내년 슈퍼예산… 리스크 큰 만큼 대비책도 있어야",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbkNUYjJ4QkhLcndGMFd0QU9jYlQ4V25qUnRacHNMMzJDRU5kMURsd05yRlZERGEybWExWHlKNkM5U04waGU0dS1pcXV0bEE?oc=5",
       "s": "v.daum.net",
@@ -62,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "정부, 호남 반도체 등 ‘3대 메가프로젝트’ 사업 예타 대거 면제",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sRG1NM1BNbGxmc05FOUFrbE90cThHaENudEZaU08ybE1BOWhRLWt2ZmdQQ3otVUVCdVE5VkE1bGNZbENPZmNHSzBvTnBOY00yOEZsZXJIc3JGT2c?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tcGY1bVI5VHoxcE9OSXlSM0VYM3hqN3NyV3lRQnlJeFlNMTcySEprM2ZwdlZ0ZGQ4dnAzZXVBcXBTdWdlYVViUllZNDZYWHQ2WmUyeHJvdjkyVVN1RTlyTkhZZzE0dw?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-25T09:20:00+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52S0JSRWk0NWl4YW1ab1Y2LUpadjBvWi1OSnE4RG5yVGpNM044OUdtRnl2a25DN0c1NGNyd2JsR0tsWGppTVVMdXF2T1RPUml1RjUta1Fn?oc=5",
       "s": "중앙일보",
       "d": "2026-08-25T09:18:58+00:00"
-    },
-    {
-      "t": "화순군, '반도체 배후도시' 삼천지구 개발…2029년 착공 목표",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45VDdQajlsWURyUHRDSGNMYWFEemRSSHFVeHpIdy03LXFMWmtOeEFMSUMxZFZSampvQWlmc0FWd3RuajVidW93WWJQc0xVLU1Hd2cxXzJMbTVieFHSAWBBVV95cUxNV2VjN3RZZGE5a3IycEF3QzctMFFwRUtmazFuNTQ3UjVZcjhjRGVOc3dHVFZhMVJCakdVbXRMLXpOanZxN1FqLTFkeEc2Q2Q5bWNnTVUzVnNIMXFrVEVUTzA?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-25T09:12:33+00:00"
-    },
-    {
-      "t": "미·캐나다 ‘경제전쟁’ 격화…트럼프 “자동차관세 50%” 캐 “전력·핵심광물 수출 중단 검토”",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGhwZFRnanR5ekJ3b3VQbmJHZ05YRFd4RUFsLVVEVFJxUVdSQm1zV0NPUVk2a1FCZXBKdG9xeWJTMVV1WDlUU0YzWUhWRDMwNmRtaDBCYnFOeUdNbERRSHZXRE56bHZteHNNQ0lTNERsME9xc1lLblpLdnZSWWhuZ3N3?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-25T09:11:00+00:00"
     }
   ],
   "asof": {},
