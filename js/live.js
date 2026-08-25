@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T04:15:26+00:00",
-  "quotesAt": "2026-08-25T04:15:26+00:00",
-  "newsAt": "2026-08-25T04:15:26+00:00",
+  "fetchedAt": "2026-08-25T04:30:26+00:00",
+  "quotesAt": "2026-08-25T04:30:26+00:00",
+  "newsAt": "2026-08-25T04:30:26+00:00",
   "quotes": {
-    "kospi": 6597.19,
+    "kospi": 6655.81,
     "spx": 7652.86,
-    "nikkei": 65700.36,
+    "nikkei": 65810.96,
     "vix": 15.85,
-    "krw": 1383.66,
-    "gold": 4690.1,
-    "wti": 85.48,
-    "dxy": 99.06
+    "krw": 1384.02,
+    "gold": 4690.4,
+    "wti": 85.3,
+    "dxy": 99.07
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -4.57,
-    "nikkei": 0.26,
-    "krw": -0.1,
-    "dxy": 0.06,
-    "gold": 1.06,
-    "wti": 0.55,
+    "kospi": -3.72,
+    "nikkei": 0.43,
+    "krw": -0.07,
+    "dxy": 0.07,
+    "gold": 1.07,
+    "wti": 0.34,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "특징주, 인텍플러스-반도체 기판(FC-BGA/PCB/MLB 등) 테마 상승세에 8.41% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVUmVOVFlQQmktTFI1bkVsYTJwMDU5VFZMWnp4Qnh1amtMVW1EWEJkd090VjV6OEJ5TW44aWZiXzVNTVVqWHc1b3VsRGNvZ1pSb0E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-25T04:13:41+00:00"
+    },
+    {
+      "t": "\"백투백 인상하면 쉬어가겠지\"…10월 금통위 두고 프랍 딜러 촉각",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhVThLbUFzRTZkMWYzRGhGQzB4Ym9SWVFzZ1UxVnNDeFJzUlc1dHhnNHBvOFZYcVJSb1loX0hiMEtRRmc5MExvRHNidXdCS2RVN0V0U05zTjl2UjQ3Qjc1TkVORXZHQjVIMTBoR1VBTDBwZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T04:10:01+00:00"
+    },
     {
       "t": "충북도·청주시, '반도체 클러스터' 추진전략 모색",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yY1VsTGtfaVEwelYtVlRmNGZUT0luSEtRbEEta1B0UUlqSmptb1g1R2lteGE4S1dHNWFsMGlSWThrRmk0Sy1jYjByWjdNeU0?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16SkhRVzQ2NGFveDZKZ2RBTXFvQ0pQZ1pkYXdMUVdjZ3c0ZWhIQV9jTjVveDZ3WG5xVFBnSjhtZ1N1VnhldEh5WVByaW1fUnc?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-25T03:00:15+00:00"
-    },
-    {
-      "t": "4% 급락 뒤 낙폭 축소…코스피 6,500선",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBob3lPdlJlUkhodHV2amw2bW5xYXhNSUpycEJiejAyeURUeDdrN0JmRGgyeGdOX0FXb2EzSGkyeTg1Uno0QnY5U19SSEVhWXVPX29oOVBhZmdrVUtuN2YxWGRpQjdxTFE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-25T03:00:00+00:00"
-    },
-    {
-      "t": "반도체·AI도 RE100으로…'재생e 확충' 산업계 의견 듣는다 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWVZTTFhmbVhEMF9lZnEwb1Z3UTlyUmVrOUNPQ0NzRjZZZmJUcTk3cTRXaWd3Nmd3Y3hQbU5peC10X2F6SDhuTEFGYzBpNm82VnV0elNhSFNGcUk1UHE0Qks1aG1lYWRjY0400gFwQVVfeXFMUFhOby1LUmVzTTgtbzJGT3VlWGc5eTRGc2g2ZnF3a0ZMODlNQnpJdGtTTF92SWVIYURjalZYX3lRM21icVBnMC1lem03YnljeVZ2UE9qbThCUmkwSGVTMktYdXJYR1ZpZF94U3I0WW1Idg?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-25T03:00:00+00:00"
     }
   ],
   "asof": {},
