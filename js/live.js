@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T13:30:59+00:00",
-  "quotesAt": "2026-08-25T13:30:59+00:00",
-  "newsAt": "2026-08-25T13:30:59+00:00",
+  "fetchedAt": "2026-08-25T13:45:59+00:00",
+  "quotesAt": "2026-08-25T13:45:59+00:00",
+  "newsAt": "2026-08-25T13:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7681.01,
+    "spx": 7682.01,
     "nikkei": 65856.43,
-    "vix": 15.81,
-    "krw": 1384.08,
-    "gold": 4678.2,
-    "wti": 82.42,
-    "dxy": 98.95
+    "vix": 15.8,
+    "krw": 1385.06,
+    "gold": 4673.3,
+    "wti": 82.36,
+    "dxy": 98.96
   },
   "daily": {
-    "spx": 0.09,
+    "spx": 0.1,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.06,
+    "krw": 0.01,
     "dxy": -0.05,
-    "gold": 0.81,
-    "wti": -3.05,
-    "vix": -0.25
+    "gold": 0.7,
+    "wti": -3.12,
+    "vix": -0.32
   },
   "news": [
+    {
+      "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...국채금리 하락에 엔비디아 실적 앞두고 '일제 반등'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9peDVQZVJTM3ZXalF2MEk0QWxJNEVwWG9vZWJsWTl5VGV1U1RhY2FLVEdESGJ4RDBwd3d0WFdFemUzU0xRbG51ckRZdDZleDJLSXN5akFFa2lScXVM?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T13:31:00+00:00"
+    },
+    {
+      "t": "금융위, WSJ '韓, 세계에서 가장 미친 증시' 평가 반박…\"최근 안정화 추세\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3QVdwYWxjN0VjYmVkWlphZlFFdDNRaU15eE5tUGZyazJiRFVvYUdncVBxMG1LdEdQVmppeXp2LUplRkFCWDFacXE5Q3g0cTFIQnlSTnJHYVd5RjBlVEUxVtIBeEFVX3lxTE5IV09pamhLeWpMcXFiU2NwOFFEbjJId3dSODhTQTVsc294RzVaWWF5aExIeFQxa2NDdXRHdmdZeFpUcHNiMk93bEViRTUwYmcwN1I0cVNxX3lhRjZDN0JLd2gwNjE0OTM1V3dTeVhnc2tJMHhHN3A1ZQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-25T13:25:40+00:00"
+    },
+    {
+      "t": "\"美, 이란전쟁 때 철수한 중동 외교관 이번주 복귀\"…국제유가 3% 급락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sREg3cGVVSmtkTjFwM3ltZ2xMdVoyc3pKaTRxUkRqN01OenJZYnA2U0R5c3RfbVFseFBRRkhfXzZfaHhiS0xZTml5MGV1OUVLOHBVWHh0bTNKVkE4MU5hT2o0WXhjX09EQWE1MXY3T0I?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T13:25:03+00:00"
+    },
+    {
+      "t": "뉴욕증시 개장 전 특징주...반도체주·쿠라온콜로지·나비타스↑ VS 딕스스포팅굿즈↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RM3NFdG44NUl0NFJoemU2WFF5bkU2RjJBdmZ1TjhOTHZ4M1lLSV9VMnRZNmJ3THM3alJlTEkzZEhDZ05fNjhzV2hNMDRMU3Y3VWI2SEJvNkMzQjQ4?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T13:22:00+00:00"
+    },
     {
       "t": "뉴욕증시 프리뷰, 미 주가 선물 반등…국채금리 하락에 엔비디아發 반도체 랠리",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tU3l0TmZUdURFVEJkYllKN2RnN1c0Z2pBN0RzV0l4SURhajdPTXg0dm5FNXBBTU1aLS1rNDViQ1Q1X3BqVVQ3VEs1ZGJjTVNtNlNVMDltVHFrTDIx?oc=5",
@@ -43,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-08-25T12:39:27+00:00"
     },
     {
-      "t": "WSJ \"韓 코스피, 변동성 심한 '공포의 놀이기구'…손실은 개인 몫\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yNC1VaE9KUDZfeWZWOUtmVGFoek1yNTd0czhkN0VYaEROWUxzY0JvT2FnXy1xLXYtOUlxQkFKZHJSYS11VDg2cm5LX0dRSFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T12:33:28+00:00"
-    },
-    {
       "t": "호남 반도체 전력·용수 등 인프라 '예타 면제'",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T01GTWNteVpkMk9QMWZfNzNVSzNHY21LR0Nzb0pMZlBHdDJMOFlPQlpwYzdjMDRqalZ4aW9oSWEyRklveTNwQkVEOWRBYmlPRGkxckExMjZNaXRTZ3h1cA?oc=5",
       "s": "KBC광주방송",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T12:15:00+00:00"
     },
     {
-      "t": "당정, 반도체 특별회계 신설…AI·3대 메가 총력전 지원",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SU1XYUVuRnNBcy15Rzd2WFp3V0RqQk1RSk13SDNnMWZtaHRDRjlzNWw5NlNhSTNIa2F3dURNcVVadUtQTzIxSlU3Q3dmYjUzOHh0aUthRHdRQdIBX0FVX3lxTE5CSm03cEVuNm16SjlSZ0hXTmEzS1NvaXl5c3JjcWwtSnRQcGVQSVV6bE05Zk1vd3A5WlBDS1dlb003N1c4Q0pHZnhlaHJzSVlHejNYaVZ1aWo0TDJuUE9F?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-25T12:04:00+00:00"
-    },
-    {
-      "t": "'10월, 그들이 온다'...코스피가 불안한 이유 [B급기자의 B급리포트]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pYUNOaTlkYXNveWVyNTR0bkdhekVDdUx5emFaR3RobEZ1M0JTaFRHa2o5VjR1RGFWZTRvcVlZWmZoSUh2X2lackhzMDFidGc?oc=5",
+      "t": "반도체 세수 업고 역대급 확장재정… 野 “나랏빚 외면 무책임” [2027년 800조+α 슈퍼예산]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbGJmMEFid1RXb01xckhQdGx0U2JaMGhvZW5hTlpneDYzeDM0cThZV25Zd3oxbzdCUDdaV0ZzS0FrdXZ4dDFPWVAwb0xNOGc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-25T12:01:32+00:00"
-    },
-    {
-      "t": "中, 10년 뒤 반도체 자급률 대폭 상승…골드만삭스 \"공급부족 92→34%\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UT2FwZllxbDJ3SjhZaHhXd0Q4VkNTSVBTdU02MnNDajBITnJlWWtLRHNCLVZnYURsMjYyX21Kbk5FWFRTWjZORGlVOTdaOGVYR1RmZnNkSG9uRVcwSlM5dnY2emxOUVli0gFuQVVfeXFMTWc1dk5uNUxyeFNncXpGeHFDd0hjRWJyNnFCbFk0bkFrQVVGS1RXZ3NFSGZqY0dMQ3FHQVZXOFZDY0VaQ0ZITk5sYmZ4YXMwSUZMWkpISEpkRUhFMGIwa015c0ZSSWdjRlo5cE02TVE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-25T12:00:53+00:00"
-    },
-    {
-      "t": "베센트의 바이백 전략, CTA 숏 스퀴즈 유발해 5.34% 금리 달성 노리나",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUDJ4aWxLRktWWXotV3AtRTlqZDkzMUJJRlRES2tBYU9yNm5KalZiLWhvTk43TW8weHAtYmtrM1hfdEt2Z0hvRU5FdnRKdXNvSmlJbENHR1dQeWs4SmNJTzJHNEg4THM2TXpYU0dmNWJBdmZod2xv?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T11:47:00+00:00"
+      "d": "2026-08-25T12:06:45+00:00"
     }
   ],
   "asof": {},
