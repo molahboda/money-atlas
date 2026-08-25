@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T11:15:59+00:00",
-  "quotesAt": "2026-08-25T11:15:59+00:00",
-  "newsAt": "2026-08-25T11:15:59+00:00",
+  "fetchedAt": "2026-08-25T11:30:59+00:00",
+  "quotesAt": "2026-08-25T11:30:59+00:00",
+  "newsAt": "2026-08-25T11:30:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
     "vix": 15.81,
-    "krw": 1383.84,
-    "gold": 4694.3,
-    "wti": 82.43,
+    "krw": 1384,
+    "gold": 4700,
+    "wti": 82.53,
     "dxy": 99.03
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.08,
+    "krw": -0.07,
     "dxy": 0.03,
-    "gold": 1.15,
-    "wti": -3.03,
+    "gold": 1.28,
+    "wti": -2.92,
     "vix": -0.25
   },
   "news": [
+    {
+      "t": "TSX 선물 소폭 상승…미국 관세·캐나다 은행 실적 주목",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZThHamVrS1VrYXZKVTdObHZ1Z3dEZFNXQU93TkdueGs1YzhmMVc0NlcwMnhtamJteEl0V2ZjXzREV0ZLcFltSC1JWVR2NXUxSThGN3ZNVmNRMGhPVEtCN3hXa1JoUXM0YXRqQlJKMjU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T11:16:00+00:00"
+    },
     {
       "t": "[인도증시] 유가·美 국채 금리 하락에 투심 개선, 상승...국영 구리기업 7% 이상 ↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZEpIVHpNb2k1Q1lOS0lGcE9DS05mYURYR0ZDcENHQnFDMElNUGpodVBiZzVGYmthV2lqcXJuR0J4ZFR5QmNIanBYaEVxZGRGNmc5VWlSVzhWOFF3?oc=5",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T10:30:30+00:00"
     },
     {
+      "t": "뉴홈 모기지, 원안대로 적용…만기 최장 40년·금리 1.9~3.0%",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JVUE2QndhSm9mSzhhUHlXOEJ1NExjdDdLS0xIY3N1Y1MwamYzcDdWVEg3M0o4ekd6YU4zME9zUjFZMW1MNml6TllsQ0lSNElad1B5UmNiVDFGTUYwVXl3QWZsd1BUTzFKQVkxTXd1M1A?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T10:15:38+00:00"
+    },
+    {
       "t": "캐나다 또 때린 트럼프 \"車·철강에 50% 관세\"",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNzdaMHdJQmF6Tm5LTEZRaEIxb01ZT1BLWnFUWUJNNUYxVjk3TjRLazJ5V3hwRG1rdnpBWDk2X3o5LTNfSWFtdEN2N0Z6VFc0aEM0dGJreUMyQQ?oc=5",
       "s": "한국경제",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LLUFaamxLR2dsRFJ3WkM2Um1iMXNxX05keXpQX3FNS1U1OUtVa0FBaDkxSVBreHJlVF9iLXhobnpMc2o1LVg5Y3NLX0FCZjZuQ3FxN2YwZDZYSDNubEo5MDFfYS1nOGNZS2lGcDllcDVaZw?oc=5",
       "s": "굿모닝충청",
       "d": "2026-08-25T09:32:46+00:00"
-    },
-    {
-      "t": "[고침] 지방(호남 반도체 전력·용수 예타 면제…통합 재…)",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tblBkWkFBOVFvMzNOWXlwbmQ3WU9JQzZ2VUJydEdtSEVTVlE4bk9FVlZ3d1IxNnRjQkVOcWEtc2RQNlhMUVZaU09Ia2hjTU5oaXc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-25T09:31:58+00:00"
-    },
-    {
-      "t": "‘반도체 전용 예산’ 신설… 아동기본수당 지급",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBadTNJYlJQN01PTl9Pcy04ZkstYllsd3NoeHZWd19BQmhZNlUxX09NLVQ4dGsyeWstQmgxOGhaS3gxRlBVZmZiRjZXZEltUnNsaURsc3h5NGZBZl9WZjFySW9VT1ZpdnY4OXFBanRvUQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-25T09:24:54+00:00"
     }
   ],
   "asof": {},
