@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T21:00:59+00:00",
-  "quotesAt": "2026-08-25T21:00:59+00:00",
-  "newsAt": "2026-08-25T21:00:59+00:00",
+  "fetchedAt": "2026-08-25T21:15:59+00:00",
+  "quotesAt": "2026-08-25T21:15:59+00:00",
+  "newsAt": "2026-08-25T21:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1381.59,
-    "gold": 4717.5,
+    "krw": 1380,
+    "gold": 4715.9,
     "wti": 81.09,
-    "dxy": 98.9
+    "dxy": 98.91
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.24,
-    "dxy": -0.1,
-    "gold": 1.65,
+    "krw": -0.36,
+    "dxy": -0.09,
+    "gold": 1.62,
     "wti": -4.61,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "유가·채권금리 하락에 美 증시 상승...미·이란 재휴전? [월가월부]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YVEhxa1Jsa19jdno2LWxfdUlkX2tNekpRZ1d0WXdFVnViaDBOS0VqZldQT0tvREl4eUxUVG0xS08xamlIVjB1aDk3bTdScHM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T20:54:01+00:00"
+      "t": "뉴욕증시, 국채금리 하락·반도체주 반등에 상승…나스닥 0.66% ↑[뉴욕마감]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIc0p1QlIxazNqRWZPeXFvYnozMVlpdGdXZUdjWVBUZW9nMDhURnZXOEt2dXpqUlhSbERFaGpfOGJxTFVNTE1CQ3NaX0pVT2VlQktmbHhWRFdJN3pqOWhxR3psWDM?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-08-25T21:11:52+00:00"
     },
     {
-      "t": "[N2 모닝 경제 브리핑-8월 26일] 美 증시, 엔비디아 실적 앞두고 3대 지수 강세…반도체주 반등",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RZGowOVF1UTkwOW1ET00xT1loM09zUGJhejdYOEgxOUN1V3lremMyNFUzOXluNnJFUDBrXzRzdzNuVmlnS2hUajF5Q0xRX2NTeHlnMG01MEFHQjRvemc?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-08-25T20:53:15+00:00"
+      "t": "“죽다 겨우 살아났는데”…개미들 27·28일 주식창만 봐야하는 이유",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1la1BQb1BzM0QxLVpuV3NKSGx2NzNoZHE3UGRYUmt1QWFoNU45Mk9tNEhfVEUyTTZWQS11TDIwQVlwWktCdWRGS25mLW52NzJPNGc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-25T21:10:28+00:00"
     },
     {
-      "t": "국채금리·유가↓·반도체주↑…\"사상 최대 실적 전망\" 시선 쏠렸다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5WndtR2RoTlU1bVd2VXRSOXpPb0hBcHB3T0RJM2tnZFNkRG1aSkUxeDA1bnlBUVRUeUpGYjV1Q1JCMF9yUTJIQzgzSTR3c2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T20:50:42+00:00"
-    },
-    {
-      "t": "[금/유가] 대이란 제재 불구 유가 3% 넘게 '뚝'…금값은 랠리 후 '숨 고르기'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QaU85d1NHQnBfb19GZGUyZmUwcGxxQTB0dTRRZ2tsSHhJWjJPQmh3bDVITEZuV0JxcXFQajdsV2RvX05WWW96Z1VwTW96THU0amhiNWM3emdJZWpk?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T20:45:00+00:00"
-    },
-    {
-      "t": "[뉴욕환시] 달러 하락…美·이란 긴장 완화 조짐 속 막판 '합의설'",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5VDdMZW9vSll1RDN2bkthekNHZmFVMFIxLTljSFh3ekNlUTU2S3VDOG0yNm5NdDhvWnZSZ3hPTGgyNk14dWNtb2l3Qm4wcmFldk5tNEpWeWNJbHN5NVlGUVBnb0FRQkhoYVNQMmVpMmxvQQ?oc=5",
+      "t": "국채선물, 유가 이틀째 급락에 상승…10년물 40틱↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYczVBZmxKdjVRZ1NOR2lYQVVOUzRiRC1QbnhGUTVwcXdybFUzTXgxSkh5MkwtOG9hR1BOR0JJT0NOZEg1SUF5M0Vyb2R0bFJLMllybjgwZzZTelJuUzlrcGdvOVZQRVhDNWlhYWtSVmVfdw?oc=5",
       "s": "KB Think",
-      "d": "2026-08-25T20:44:20+00:00"
+      "d": "2026-08-25T21:09:59+00:00"
     },
     {
-      "t": "뉴욕증시 유가·금리 하락에 3대 지수 상승",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVFuekpxU3hoQ1dBeG41RGVueEJicUFDaWtudlZ6Z1d6amxLNEU0Z3I2cFc0dl8zUURuendsS1hXRlJxTXk1cmVEMklLTFctQWR6MDJkdDVnenUtSW44V3BCcUtrakkxcDE2QTV1cGFuWXFWR0VNR05vZGpfT2dOQlpB?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-08-25T20:43:00+00:00"
+      "t": "[뉴욕유가] 중동 군사적 긴장 완화 조짐에 이틀째 급락…WTI, 3.1%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1NmNFdUZ3RUpIclpOTGc1ZW1tUzdkSmdBWDk1dklkMXZzMDQ3Y3p6R00tM2xkZW1LYm9nNG80eElZTHVlZVlKei12cjRrM3Q1dGFBNVowZjdLYW5BZW1KS1RZVTZVa3hPVmpSZ1BQNWs?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T21:09:21+00:00"
     },
     {
-      "t": "트럼프 “온타리오호 ‘아메리카호’로 변경 검토”...캐나다는 보복관세 맞불",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ec0d0SnhKMkVyOG1yaWIxSTRKNm5pVkdLbkY0ejM1dTR2NHdNTXhlV3pjb1h1Rzh6LXpWal9DcVZ2QWxuQkRXT1pjZDBOczFVZ3dkcE13OW1zSnpSd3QyN2dvYU0xY3RKcmh0cDhWenRxb1BuRXlR?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-25T20:39:53+00:00"
+      "t": "[월가 레이더] 美 뉴욕증시, 국채금리 이틀째 하락에 3대지수 상승…엔비디아 2% 반등",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00eVpUSVMwSVpNUUFDR1NHdEdQejNSNUdrOGlPSUhHeGRVaEdKb0d6dUU5cUFhV0ZmRjZNSTUyZE03bWZQeHAtVVRSZUFMbHo2UW95UzI0ZHBCOC1FeFE?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-25T21:08:20+00:00"
     },
     {
-      "t": "[뉴욕증시]국채금리 하락·반도체주 강세에 3대 지수 일제히 상승",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3ZrOTZYbElWV2hHSzRLTnlvRDJVWnRpQURhUUZxWl9vcTNBNkFONXFTTGwxc2JPV0dKc0VaZ2dQWU5HU0pVYWlWZGliSU9GMjN5LTRaR3FoNGlvU2ZqMkVtT3hfa1ltWXp4MnJzaWdJeVpCS2JTTE5QakxYZS16YjcxNnJHYWp5?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-25T20:34:09+00:00"
+      "t": "[속보]美증시 반도체 반등…마이크론·하닉 2%대 상승",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yWFJ5am4wMVdEeXVLcEtqVHdYUDMtTms0WWZTUWRCek00aXFvNEZjZm5TdDJMVDcxWTVrTEFFWWtBLXJFandSdUh0aDZRSksw?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-25T21:08:06+00:00"
     },
     {
-      "t": "캐나다, 미국에 200억 달러 보복관세 부과",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mNGlRLV9MVURhSG91d00zUWEwZDRMWXM2OVQ5ZXIyNVZFNXNYbTcwZFJ4anhVUjRTZWRRMW5MOThMbUxTNDEzd3JnbVdLU2V0Y0h6MWJBUjJtNGZnOVY0WWgxT3JPdk0?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-25T20:34:00+00:00"
+      "t": "[코스피·코스닥 전 거래일(25일) 주요공시]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aU9ESjhSX2FreWFRTkRtQ0FKY0dsUnJHZFk1TkRTWUJCUjBmOHVaNFRweWRCUlliczZoay03VThNeXlkX21xY0NSazdkbUpRNTFobU5WRlhmbHPSAWBBVV95cUxOQTYwdFhaRGlxQkFKWVpCbmh6QncyUnlkTkNDV2k5NlRlcXAya1V3TmpiaGhNbWVMNG9aOTNBQm5hejhEeDlMSVZTLWFweWdpMG1TX3FkczdsRzV1Y0RrWWY?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-25T21:05:00+00:00"
     },
     {
-      "t": "뉴욕증시, 유가·금리 하락에 반등…나스닥 0.66%↑",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SUR0bzVtdzJtb28xSUsxc0dyeVpyMVM1aEV2RkJoSk1ZY3hnZFdTMjNrN291ZnA5eHlCVzIzWnV1Yi1nNlhKejZrLXRDMlNTRmFjZnREYUpsZw?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-25T20:32:00+00:00"
+      "t": "증시호황에도 자금조달은 위축...유상증자·IPO 다 줄었다",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZ3RzZm5YMW8tb1k2aElaUElJZVJrRDdTc29fQnlDNkR3RF92bDY2bTUwOUFpdmMyLXlxcnBxdTJxdnBlZ1Jvc2t6SFZaZWhMbFRSSW84M19fWVJUODQ2SDZBclZrbkd1dVE?oc=5",
+      "s": "비즈워치",
+      "d": "2026-08-25T21:00:02+00:00"
+    },
+    {
+      "t": "금리 인상 전망에 떠오르는 금융주…“고금리서 방어력 높아”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yMk1qOUtXbVVXOFc3VmtjQ1JWWmt1Ty12WGdudjRuM0dSZmVTZXVpWEtybFlybXYta0x2T2VfZko3SlMtQkM1aDFmamNROXMxcXJBemxlNGdTQdIBX0FVX3lxTFBEdzVWTlhxaHUzOVQtc1ZZTXluZWI2OC1yUkFfR0hmN0tWd0RCUk4yMWljb1dHUTd4eUR4MWVvOVJwUnZlTEJWcE1XNnB0OGVvTE5kUUZ2c0RaMmRxdHZr?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-25T21:00:00+00:00"
+    },
+    {
+      "t": "[경기, 세계를 잇다] 추미애 경기도지사, ‘글로벌 최대 반도체 생태계’ 청사진 그린다",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sMnFoR1BOUWg1ZTdwNWZkS0VTNVI2RjdKVVRVbTdlX0k5RGJ6QmNTZGJTSlNmVkRReU4xVVNOZEdWWkJZcGdXdEY5Z0JwYUZrMjd0NFBNNC1Ccmo5Q3V6Ym53?oc=5",
+      "s": "경기신문",
+      "d": "2026-08-25T21:00:00+00:00"
     }
   ],
   "asof": {},
