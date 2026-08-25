@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T22:00:59+00:00",
-  "quotesAt": "2026-08-25T22:00:59+00:00",
-  "newsAt": "2026-08-25T22:00:59+00:00",
+  "fetchedAt": "2026-08-25T22:15:59+00:00",
+  "quotesAt": "2026-08-25T22:15:59+00:00",
+  "newsAt": "2026-08-25T22:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1382.05,
-    "gold": 4715.9,
-    "wti": 81.11,
-    "dxy": 98.91
+    "krw": 1381.77,
+    "gold": 4717.7,
+    "wti": 81.14,
+    "dxy": 98.9
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.21,
-    "dxy": -0.09,
-    "gold": 1.62,
-    "wti": -4.59,
+    "krw": -0.23,
+    "dxy": -0.1,
+    "gold": 1.66,
+    "wti": -4.55,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "[뉴욕채권] 국채가 강세…유가 급락에 30년물 금리 2주일여 최저",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjTDc3dW14MXI3X3BqdHJ3ZHRCR1JMckZESkZFS3hTNHZRajhlRk96WU0xNl8xY1VHb3FrbnBMUUxyRmZsUnVZZ2d6NHF4eHQ5aFNYOGZFbEJKZmJvekNPZlFWWVpMenZxWE1ZamUwUV8?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T21:53:54+00:00"
+      "t": "모건스탠리 10년물 국채금리 5% 근접 시 증시 조정 불가피",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43VWhZZUVjYTUta0pMMVVLcER5SlZ5c3JyelJ3MGFKVDRpYWVqV0RfVGRoZkZfZDlEZmFSd00yRHlHUDdoZWNIRjV0VlJkcGZibmxF0gFYQVVfeXFMTVVZT3V3ZGVmZ3lTMXFNMzlYd3R2SVVwZWhNNVFEQkgyUmVsYnIwcWx0LXlNczZnOFlvenNGRDh3MFF3QXBnWVpmZUhGanAtdzdxdFdFZWxXSQ?oc=5",
+      "s": "SBS Biz",
+      "d": "2026-08-25T22:08:00+00:00"
     },
     {
-      "t": "3월엔 중동전쟁, 그 뒤엔 증시·부동산…디지털자산기본법 '표류'",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yMk5RZlFlMThHQlFMZUdLRENZUWtRX2dtak90cmZSNW5ZcFdsUDNnZWRzbWtPQ3VQamNUeVhPSkZraExyaER2REdUQ0NSQzFVUTNVSXZkejJSbDdJdmpaZXh2M3hKUdIBa0FVX3lxTE5NUFpja1dqSS1uQ2FkQUN2bTZzb1BWbXg2TjNtRktyWWZ2Z3RmNVUxc0Q1WGRTWWVyQVBzLUtEVVFSbFRyZFVrcFBqM1pybU5tb3JmelVLTDRqbGVuaGpZSXVLZmtUSVlvWXYw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-25T21:47:28+00:00"
+      "t": "[0826개장체크] 美 증시, 국제유가 급락에 따른 인플레이션 우려 완화…반도체 업종 반등",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UTUyYWpDek1YVWdMckhzbkF2OURMY3Ayd1FnMVM2VURrYXBYUmRCN2t3VGRPLVFjSEd5cXBaZHdpZWpKc3pnU1dRYlZlN0pEbHdVdHZvOWs3NElQLUU4QmdBbzQ2WWNOWS1OMjZVYnpZeTlE?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-08-25T22:05:38+00:00"
     },
     {
-      "t": "[글로벌증시] 뉴욕증시, 일제히 상승…국채금리 하락·반도체 상승",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UWFVDOXZqMmljU2JUcG54dm9FNXJUeHhIYk5RRWtldmFlbG9Kc2g1czF4VHd2M2g0QnJlWHJPeUVhbnlKWWN5WGpKZlQtWG82S1ZXMS04Y05xN1ZYX29WRVA1Rl9pVjNwUjhwTUZWM0t3by1X?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-08-25T21:46:58+00:00"
-    },
-    {
-      "t": "美 대이란 경제압박에도 국제유가 3%대 급락…\"공급 영향 제한적\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwSmlRb0lPVjQtM0dNaFVydERNV1JtYVcycFN1UWVINUFFSDRhMkhwWW4wYkJoVTdnMDM0YXktZ2U4OXhNbldHQTFmYm5nMGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T21:43:07+00:00"
-    },
-    {
-      "t": "\"하이닉스 레버리지 투자해 69% 손실\"…'공포의 롤러코스피' 조명",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUEoydWwzSlBPdF81cDE1cnBPM0dwSWxWNzBqeTdWWVJySUlsQjhjdkdtY1hKTDlRbjRGdHBWWVcyX3hucGFZdnVWVy1vejlWRzByT2JPZTJPdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-25T21:30:02+00:00"
-    },
-    {
-      "t": "美, 韓 반도체에 메모리 공장 촉구… 800조 원 한국 투자 속 딜레마",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGRqWUZZX3V0MWswa05aaDdUaExpWXlaWjRiZXpSUjFFalc2bW5TN1E0Y0FreUxLY05QTFQ5ZExic2hhSmFQb1pBODFXX2N3aWxqSUZ6Mm1uZkdGZGNXa3ZBRHZkcFFsSnpTOWtYME5HWWRlSkU4VlZtYUlDb3hOVzlCNWJzeHdy?oc=5",
+      "t": "캐나다, 美 수입품에 최대 50% 보복관세…무역전쟁 격화",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXp0TmV5ZHNXWFAzQzFmY2lVRXlleVozY2hNREt6UGVxUWdJczJRZ0NvdEZCTnZ4ZFRQWi02RlVfSlJzdzQwbk1oZWhaUmJFS01pZUlnWWRkY1BzV3Z2VVp0ejdRYzlLVnA3d0ZER01BUU9BeUllM29VV01QLWltcGJXTGRoajU1?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-08-25T21:28:50+00:00"
+      "d": "2026-08-25T22:02:32+00:00"
     },
     {
-      "t": "캐나다, 美에 맞서 200억달러 보복관세…최고 50% ‘맞불’",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CbVFobmhOZGluVFRoV3Blb1JvUWctV3RLcC1sMmhuMUNfMUlWVndtblhBVlcwY2xMV01WSHFURW5NaXB5NXNaRXVHU0ROTUZ0c1VkRmN6eEtMZEk?oc=5",
-      "s": "경기일보",
-      "d": "2026-08-25T21:28:09+00:00"
+      "t": "반도체 지수, 10% 추가 하락 경고…유럽발 자금 이탈 위험 확산",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFJ2SXdfdTYtUDBSSXU5WGc3LTZCVExDMWJLNDFQR1hFdlNPWHVYYjRGMllSS0NoVmtLbVJNRkYwVXhyUXVMbFZUdmlnUlNqSmlZXzgyc29sR1hSTFZPcHpQN2NQSDBtbG1kSmtqVWNmOGJZTnhNMG5xOVVRMkdjLXFZX2xVdnBP?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-25T22:02:32+00:00"
     },
     {
-      "t": "눈에는 눈, 이에는 이…캐나다, 美에 '최대 50%' 보복관세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iTkdzcmx1dXNxRURYd284ZVZ5eXpQVnhaSXBOSEtSSHFaNDVrV19fN25wT3AwU3Y4UXNJdDlDbXFhRkdSTldFby1LNkFBNG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T21:22:18+00:00"
+      "t": "국제유가, 미국의 대이란 제제 우려 완화 등 영향 이틀째 하락-브렌트유 배럴당 90달러 무너져",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1ODdTdS1sdEp0Vy1sLWlCdnZfbmNBQ0J0RVFDMEpTOUdZVjE3YnNub3dpenVpcGV3VXZIWFlmQmJEM0hBTTkzVV9oMVVqaGc0UmtHbXZjOFlROEV4Wnc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-25T22:02:13+00:00"
     },
     {
-      "t": "금리 상승에 채권 평가손실 확대…증권 9개사 1조1878억 ‘뚝’",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zR1lMbnZRWkZLMnhQZDdxcm51dzlyekJlWWFjTExVZnpWb2hHUzdxNnNfZ1Fxb05nTGx5SEhGRDQ4N3M2TGQ2X195UGpaWXczNDZ1VlF5LUZ1a1I5Z2hpTk85M2N4WTh1V0ltVUQ3THRyOXVV?oc=5",
-      "s": "대한경제",
-      "d": "2026-08-25T21:20:20+00:00"
+      "t": "'금'으로 피신하는 투자자들…코스피 회전율은 0.55%로 뚝",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdEEySElKQmstVnBsQ3ZjbDJiRVVjSUJFVTJuYlgtMUtDUGJfTGZpNFIxcF8xNHlQRjIzVU1kUnR3QWpzS1drWnNTUHNXeXFPd1doeVI3X1RDaU1p?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T22:00:00+00:00"
     },
     {
-      "t": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNnhXZGw2c3l5SDQ3aGNUZmJUZXJSUkFrRmNHSWpiNVhfS0ItS0Y3eWFSbDE2TjdHUnVfYTZwQVNQYzRJQVFibGlKTy1XaXIydWlsbjJZTjJQdFBuRDc2ZW1oSHdRaEhRc2FOTTh4QQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-25T21:16:43+00:00"
+      "t": "[금융현미경]집단대출 풀렸지만 일반 주담대는 '한파'…한도 막히고 금리 7% 육박",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92b1o3VXNUSlY4QktlYW01X3hveU9xODBETXlmSjBDUUtnWnZCeUh6S0llWGNBRzdhVDdHbUNfbEpvcHE2N3h1UXlweXhSV0x4Z1RMU0VoUXcyc0p2MnJpQg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-25T22:00:00+00:00"
+    },
+    {
+      "t": "[DQN] 정진완號 우리은행, 우량-취약차주 금리격차 33%↓···'건전성' 관건 [은행권 금리전략 점검]",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vbmhNTlNhS2J0MDhHdlFzMU9EOXNURWp1TWpvcjYxNjYyQ1hLN3N3bGFwQUVXRmstMjc0OTMwbnBVWWZod0VpVjNsY2ZLNU5pSGl6SmtxdzRLYWJHYVlGV1ZHR1RBZG1BaXR3ODJDWVpyaHZjbnBtY3dOTGU?oc=5",
+      "s": "한국금융신문",
+      "d": "2026-08-25T22:00:00+00:00"
+    },
+    {
+      "t": "'금리 불확실성'에 부동산운용 빅3 실적 주춤···하반기 딜 성과 '관건'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45TGxzb2dpcFptRmVaMHNMSE5NSjQ3OHpFeVVMX2Y3WFVaaTNRMU8zX0FHNGp4a3dWbldDcG12aXlQb1hKcHNlS2syS1pBY3pPRzJKTmhxcXkzTXFpTWJqNkVLX2JWOXgwbHc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-08-25T22:00:00+00:00"
+    },
+    {
+      "t": "캐나다, 美에 200억달러 보복관세…700개 품목에 최대 50%",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BUUI0bU5UQThmNW9mOG5OdU5meFBhMXVwUDhyRTJCb2RfcHR0UmJTdXp1Q1BsdVdJWlRsdkplRl9MdmdaV1hPN0J0NEk2OFRzVTJNNDlTQUJNS3RTbDN5WGRLRHpIeEFoYzM2d1RVX2lfblnSAWZBVV95cUxOWURqRkQxamtYRzZPWTZ1VFlYTkoxN0lyWXo3V3NvVXRUYklFeGVISkUtZ1FNcTJxLTJvZ1V6QnRDTzcwY3gyOFlfQ29IcTVGeldrYkl2Y2VONlBQUFJCR3J5MWR2NVE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-25T21:59:35+00:00"
     }
   ],
   "asof": {},
