@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T02:00:26+00:00",
-  "quotesAt": "2026-08-25T02:00:26+00:00",
-  "newsAt": "2026-08-25T02:00:26+00:00",
+  "fetchedAt": "2026-08-25T02:15:26+00:00",
+  "quotesAt": "2026-08-25T02:15:26+00:00",
+  "newsAt": "2026-08-25T02:15:26+00:00",
   "quotes": {
-    "kospi": 6567.31,
+    "kospi": 6594.02,
     "spx": 7652.86,
-    "nikkei": 65182.67,
+    "nikkei": 65207.07,
     "vix": 15.85,
-    "krw": 1382.64,
-    "gold": 4725.8,
-    "wti": 85.42,
-    "dxy": 99.01
+    "krw": 1381.78,
+    "gold": 4705,
+    "wti": 85.76,
+    "dxy": 99.03
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -5,
-    "nikkei": -0.53,
-    "krw": -0.17,
-    "dxy": 0.01,
-    "gold": 0.6,
-    "wti": 0.48,
+    "kospi": -4.61,
+    "nikkei": -0.49,
+    "krw": -0.23,
+    "dxy": 0.03,
+    "gold": 0.15,
+    "wti": 0.88,
     "vix": 4.76
   },
   "news": [
+    {
+      "t": "서학개미, 반도체·기술주에 '뭉칫돈'…\"엔비디아 실적이 분수령\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGQ3c1V1dqY1EwNGZqd1pmTDktb28yNUZQbzVSUUxGNVVISG5HdG9ZYzF5VmxWa2VXc1hsRVVfaVI2MkdtRURseGJwbTIxMHc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T01:52:42+00:00"
+    },
     {
       "t": "MS \"금리 하락 추세 완전히 반전…2차 대전 직후처럼 오를 것\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiU2lpVFFhd0NqNGRmUERkY1BEQjVPdUt6WlVZNE0wdTd4ZGpKX1J5MTdBZFZ2VzU1cEpfaXR1VEFlcHB2MThHYU1BblVLcEFTOFV5ZXViY05SN2xoajlYWWtSYnVib0xWR0F5WmVJZFXSAXRBVV95cUxPUGJiSkFxN2gyXzM5MEJxRmgycjh2dVo3NkZaT2piZEhPTXRqRGJhTWNKbHRDeHpGUThXdEhHMTBZVF81bThlS1lnVUluUkhkaTFEaWxQQ0xMZ0xfdUxfNHRzUmdzUkRXXzVFbEdBTGJBVXBORA?oc=5",
@@ -49,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T01:34:00+00:00"
     },
     {
-      "t": "당정 “내년 예산안에 ‘반도체 특별회계’ 신설…전기차 보조금 역대 최대 지원”",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13X3djeVZFNFRDc05BNlZIdXNLMFVXS1BhYWt5NjVMaERudDFRYnYycnhzd3dxYWwzbnhsNmQ0V2NwUFdJcDF1UHh0OXNpV3pubFozYUh6bmYzcU1EOVRJRDJmelp4Mk9JOXlld2VsOHQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-25T01:31:44+00:00"
+      "t": "미국의 대이란 제재 소화하며 유가 소폭 상승",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1heW5FVFlwVUVuYkpmQ1I4T1NtVmNuYlRfN3VNQ0VOblNBbFlxaUl4UElDcUN2dTE1Y3FiUWxnVVh6MGkxNklPV1RENUo5M1JlMHEtOVJ3OFhUS0pZV0JNWkdoZFJiOG5Ocjl5dWFrdw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T01:33:00+00:00"
     },
     {
       "t": "美 반도체 한파…장중 6,500선 무너진 코스피",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Ql9xUG9tWHVxN3VmV1RFbXVsbEN4LWI1b1RJaEVvTXczQmNhYlpSTnhVX2lIOVFfbm90REtQVll1ZUZPQzNONWtYaUlrcm9fYUpzdFZn?oc=5",
       "s": "지디넷코리아",
       "d": "2026-08-25T01:27:29+00:00"
-    },
-    {
-      "t": "\"미 재무부 TGA 비상금으로 국채 바이백 검토\" 소식, 금리 안정세 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OQ28zWkdMeFVCOUg2a0kybzdoTXRIT2NVZ19yUjkyQjl6VXBvLXlBblU0Z1lqTGlKbk00Q0pDcWxNRTBNN1U5OW95dTZ3bENHMV95MjVKcmptN2UzM0JueExNUVY5RWpN0gFuQVVfeXFMTVJUcklkVGc0d3VYTmNRaU5LdDIwUzlGTldaNlJkWUQxdzZGc0N3YlBycEpJT045bTVueG5yYXhGUlZoRDNtX0lkUVRXMm02alhhbXdjY3YtellzMENQdHgwc21icThVRGVwbzQ3X3c?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-25T01:23:35+00:00"
     }
   ],
   "asof": {},
