@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T14:15:59+00:00",
-  "quotesAt": "2026-08-25T14:15:59+00:00",
-  "newsAt": "2026-08-25T14:15:59+00:00",
+  "fetchedAt": "2026-08-25T14:30:59+00:00",
+  "quotesAt": "2026-08-25T14:30:59+00:00",
+  "newsAt": "2026-08-25T14:30:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7671.67,
+    "spx": 7661.85,
     "nikkei": 65856.43,
-    "vix": 15.87,
-    "krw": 1384.74,
-    "gold": 4676.5,
-    "wti": 82.47,
-    "dxy": 98.96
+    "vix": 15.76,
+    "krw": 1384.68,
+    "gold": 4679.4,
+    "wti": 82.49,
+    "dxy": 98.94
   },
   "daily": {
-    "spx": -0.04,
+    "spx": -0.16,
     "kospi": -2.46,
     "nikkei": 0.5,
     "krw": -0.02,
-    "dxy": -0.04,
-    "gold": 0.77,
-    "wti": -2.99,
-    "vix": 0.13
+    "dxy": -0.06,
+    "gold": 0.83,
+    "wti": -2.96,
+    "vix": -0.57
   },
   "news": [
+    {
+      "t": "트럼프, 캐나다와 관세 확전에 공화당·언론도 비판...\"가장 어리석은 무역 전쟁\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFV2VYbUVwNFpISnBrRXBxTU9DWDZvOFRsbWpKMjhWcVF2Z09rUDlxSWpRNEtsYlVucnpsVWZmc053Y2tDaUZucTVQX1c3SWJ2MGx0RGpXZE9jb1dwNHc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-25T14:09:00+00:00"
+    },
     {
       "t": "레이먼드 제임스, AI 서버 CPU 성장 수혜 반도체 종목 발표",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxc0twcEhSNk1ray1ITzRaZ0FvVlJ4aEtLa3pSak1IclNYU0Z1NVV1VVJUTl9QREdQRDUxYlhqTF9xRzhoVDhIenlKNGlRR1lZZjJwdTU0eU9lZThDbmszWXhKanN3dnZYUEtXdFc0dEpRSlc2bmZz?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T14:05:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시]장기채 금리 ↓·반도체주 ↑…3대 지수 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3X3VMZzQyWFU4VjA5aExMNEhVM0hVRGtJNFVEenVKRnBZSG1PY01tRXZMbW9md0k1SF9jUWdiOWplNkV3UWl2YVNVREprMGs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T14:02:00+00:00"
     },
     {
       "t": "對캐나다 관세전쟁에 美북부 술렁…중간선거 영향 주시",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RM3NFdG44NUl0NFJoemU2WFF5bkU2RjJBdmZ1TjhOTHZ4M1lLSV9VMnRZNmJ3THM3alJlTEkzZEhDZ05fNjhzV2hNMDRMU3Y3VWI2SEJvNkMzQjQ4?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-25T13:22:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 미 주가 선물 반등…국채금리 하락에 엔비디아發 반도체 랠리",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tU3l0TmZUdURFVEJkYllKN2RnN1c0Z2pBN0RzV0l4SURhajdPTXg0dm5FNXBBTU1aLS1rNDViQ1Q1X3BqVVQ3VEs1ZGJjTVNtNlNVMDltVHFrTDIx?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T13:13:00+00:00"
-    },
-    {
-      "t": "캐나다, 오늘 미국산 제품에 대한 보복 관세 발표 예정",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RYzJmZ1FZb3hMWF9URk8yYzVGZWxxM3ZlcGF0aVItQ3A4eUhCY0pzMkVBMkVSY3pON1JuVWtEZ1dubENZUldPYWdiYmU4ZUtZY3FVdjM2STRITTFuS2dTa1lyYnZabW9Hc3c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T13:04:00+00:00"
     }
   ],
   "asof": {},
