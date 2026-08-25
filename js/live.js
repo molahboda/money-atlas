@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T13:15:59+00:00",
-  "quotesAt": "2026-08-25T13:15:59+00:00",
-  "newsAt": "2026-08-25T13:15:59+00:00",
+  "fetchedAt": "2026-08-25T13:30:59+00:00",
+  "quotesAt": "2026-08-25T13:30:59+00:00",
+  "newsAt": "2026-08-25T13:30:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7652.86,
+    "spx": 7681.01,
     "nikkei": 65856.43,
-    "vix": 15.82,
+    "vix": 15.81,
     "krw": 1384.08,
-    "gold": 4688.2,
-    "wti": 82.11,
-    "dxy": 98.98
+    "gold": 4678.2,
+    "wti": 82.42,
+    "dxy": 98.95
   },
   "daily": {
-    "spx": 0.15,
+    "spx": 0.09,
     "kospi": -2.46,
     "nikkei": 0.5,
     "krw": -0.06,
-    "dxy": -0.02,
-    "gold": 1.02,
-    "wti": -3.41,
-    "vix": -0.19
+    "dxy": -0.05,
+    "gold": 0.81,
+    "wti": -3.05,
+    "vix": -0.25
   },
   "news": [
     {
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T12:39:27+00:00"
     },
     {
+      "t": "WSJ \"韓 코스피, 변동성 심한 '공포의 놀이기구'…손실은 개인 몫\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yNC1VaE9KUDZfeWZWOUtmVGFoek1yNTd0czhkN0VYaEROWUxzY0JvT2FnXy1xLXYtOUlxQkFKZHJSYS11VDg2cm5LX0dRSFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T12:33:28+00:00"
+    },
+    {
       "t": "호남 반도체 전력·용수 등 인프라 '예타 면제'",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T01GTWNteVpkMk9QMWZfNzNVSzNHY21LR0Nzb0pMZlBHdDJMOFlPQlpwYzdjMDRqalZ4aW9oSWEyRklveTNwQkVEOWRBYmlPRGkxckExMjZNaXRTZ3h1cA?oc=5",
       "s": "KBC광주방송",
@@ -61,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T12:04:00+00:00"
     },
     {
+      "t": "'10월, 그들이 온다'...코스피가 불안한 이유 [B급기자의 B급리포트]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pYUNOaTlkYXNveWVyNTR0bkdhekVDdUx5emFaR3RobEZ1M0JTaFRHa2o5VjR1RGFWZTRvcVlZWmZoSUh2X2lackhzMDFidGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T12:01:32+00:00"
+    },
+    {
       "t": "中, 10년 뒤 반도체 자급률 대폭 상승…골드만삭스 \"공급부족 92→34%\" - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UT2FwZllxbDJ3SjhZaHhXd0Q4VkNTSVBTdU02MnNDajBITnJlWWtLRHNCLVZnYURsMjYyX21Kbk5FWFRTWjZORGlVOTdaOGVYR1RmZnNkSG9uRVcwSlM5dnY2emxOUVli0gFuQVVfeXFMTWc1dk5uNUxyeFNncXpGeHFDd0hjRWJyNnFCbFk0bkFrQVVGS1RXZ3NFSGZqY0dMQ3FHQVZXOFZDY0VaQ0ZITk5sYmZ4YXMwSUZMWkpISEpkRUhFMGIwa015c0ZSSWdjRlo5cE02TVE?oc=5",
       "s": "머니투데이",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGUDJ4aWxLRktWWXotV3AtRTlqZDkzMUJJRlRES2tBYU9yNm5KalZiLWhvTk43TW8weHAtYmtrM1hfdEt2Z0hvRU5FdnRKdXNvSmlJbENHR1dQeWs4SmNJTzJHNEg4THM2TXpYU0dmNWJBdmZod2xv?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T11:47:00+00:00"
-    },
-    {
-      "t": "나비타스 반도체 주가, 오늘 왜 급등하나?",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84SlBtbHRxb0FaVnJPTlZxbU53QUZzSUhWdGRBdTZmRWlfN1J2WU1xNVFzeTJ5aGJTUEE0VS1SZVhZRnRjNDg4T3FZSWloRGFuR2Vmb09GRVBINmVrNUlXdGFiMmJoRnZfbXAwdzYxTFZKa2FYZk1Z?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T11:39:00+00:00"
-    },
-    {
-      "t": "반도체 호황 덕 내년 800조 슈퍼예산‥\"특별회계 만들어 AI 총력 투자\"",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVmRYNnFlakcxZ293SnJiYlg0RzMyZnVBSnlUaVh2ZVlTMkUzWlB6RTNuVVh2U2RRQWctbmNuNGJjNElyNnFEN2VsUE9DOXpjUkZuQS1qSFVvcFdUYVY0ZnJDR3VzQ1U2cXh2c0U2b2VJMjVPM2FEQdIBeEFVX3lxTE1aUUNaUjNmU0RBOVpZTndJMGJZanR0UjZ1TFFoaUNpU2tLZnlRNHY1X08zY05DUVpRakQ5N2Y3Y1ROLU03VE9nSVc1MVFoOGJOZ0FvNHNkbWpaam5NT05TZEtyWVNJVjZoNm5zMFljeDRKQVljOU5Wcw?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-25T11:34:04+00:00"
     }
   ],
   "asof": {},
