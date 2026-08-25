@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T19:30:59+00:00",
-  "quotesAt": "2026-08-25T19:30:59+00:00",
-  "newsAt": "2026-08-25T19:30:59+00:00",
+  "fetchedAt": "2026-08-25T19:45:59+00:00",
+  "quotesAt": "2026-08-25T19:45:59+00:00",
+  "newsAt": "2026-08-25T19:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
-    "spx": 7670.04,
+    "spx": 7671.39,
     "nikkei": 65856.43,
-    "vix": 15.48,
-    "krw": 1383.05,
-    "gold": 4722.8,
-    "wti": 82.27,
-    "dxy": 98.89
+    "vix": 15.45,
+    "krw": 1382.52,
+    "gold": 4716.3,
+    "wti": 82.07,
+    "dxy": 98.93
   },
   "daily": {
-    "spx": -0.06,
+    "spx": -0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.14,
-    "dxy": -0.12,
-    "gold": 1.77,
-    "wti": -3.22,
-    "vix": -2.33
+    "krw": -0.18,
+    "dxy": -0.07,
+    "gold": 1.63,
+    "wti": -3.46,
+    "vix": -2.52
   },
   "news": [
+    {
+      "t": "유가 하락에 국채금리 하락...환매 논쟁 지속",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ySjg1WHN1bUVQRVR3QVVJRlJ0OUFTVGZHd2RmeGZBNVUxSGw4Y0tXSW1DQnd4WGFHS2RSUVVid084dGhBeXJOMnh2QlVyc2VUUGJpV1Fhc182WDVaSlNFMnc4RGpEM2tCR1RDTzdxZWM?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T19:36:00+00:00"
+    },
+    {
+      "t": "유럽중앙은행, 이란 전쟁 우려 속 9월 금리 인상 예정",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jbFRVRXF1ZmRyOEI4V09OeWxfTE9xbnNxTHp6d0ZtNEVmcUNCX1NxSThMU3JPdWs1Vm05d3lCbnl6MHFPakRmSEY2cWs2X2NBOGZnSW80UmliOE5rb2taajM2RGwzWDBXaUZHTW1lbjg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T19:32:00+00:00"
+    },
+    {
+      "t": "트럼프, 캐나다 무역전쟁 선포에 “내년 車관세 25%→50%로” 반격",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N2pMYmdhaU80azB3NHQ1VUhWc3BnT2FkcHNETkRQcXBIcDFtbmRzMHZ1OVFMaUFycWIwdHBHYXQyd3lkWDV1Z29DY0F5bDBHUFVhcEtPWDAxOHFGRnZKWnZJbjFLZWRWSEE1VUxhako5T1nSAWZBVV95cUxPT25XS0NSQm9aNVp4eEptbmpiMkhrako3aWUwd2swaEFURTFOcTVTb296WkIyVU1qU0VUemlsYnRoYnhVSVpmdk13aVBpN01mcjV4bzRmUjNZRWNzbDBDaVBKM0tjZVE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-25T19:30:00+00:00"
+    },
     {
       "t": "[뉴욕유가] 중동 군사적 긴장 완화 조짐에 이틀째 급락…WTI, 3.1%↓",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xUFc4aG1DdzdRZTl1UjZXYXZFZTUtelNlWW92WnNBQ1ItdFE3cEx2UTEyRnpXU1dTVVBrT3FadDFNTzNLR3g0TExlYVB5VkZtUUlTZVJpNUdBTEgzRG5lNW95eUdGUDdEeE8yel9zSUtlUQ?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVTFldjQ2OTM3N1BMUnJkRGpXczJlVjhaVkVzTV9RODhRX1VZVWtCZjJwOS1YTVBFYmZBdG90MGlvZEcxazR3UmlwN1hjT3I5TzZmc0hxWWJScDUyWVJMTFZ2Z3hWWDM0d1BHYTRoQW0?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T17:37:00+00:00"
-    },
-    {
-      "t": "加, 美 제품 200억달러어치에 보복관세 맞불",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkam5rR3doRWFvcWNzMjBEMVhOT2JyLWM0QWItUWlaemNBbTRRUlJDT1JlZ0JWU2lNRmlXWDZjWUJsblduNV85LXdTQnp4RUFBaVRiVW9sUFlIZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-25T17:31:56+00:00"
-    },
-    {
-      "t": "캐나다, 美에 200억달러 규모 보복 관세…철강·가구·의류에 50% 물려",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaGVTd0ZPNFctTFBjWWF4RmR6OFRGQnlzZ1FkZEZBbkR1azVUb0RIdXRzQUZ1dTM2SW1CaXFMRkRsd0ZVUndtU2xPOFIza3E3b2hYVTZyUTI1UmZmTXZ0TjBaMGtZem1TcGZmMVRHU1Q?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T17:30:32+00:00"
-    },
-    {
-      "t": "높은 모기지 금리로 7월 미국 신규 주택 판매 10.5% 감소",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YTE1RZ0RhY2FNbjZUdHBaeWhqWWZpZHVnemN5MmFsRmJGSUdubTVEVTlyemxVcnNSaU1RUklQT09Cc1lHN1VoYlpIM2VhaG03UFYwZFBYZHR0dlo1bkt2UXRCZFdXNEZrLXlUY2hqYkM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T17:20:00+00:00"
     }
   ],
   "asof": {},
