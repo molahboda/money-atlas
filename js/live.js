@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T20:45:59+00:00",
-  "quotesAt": "2026-08-25T20:45:59+00:00",
-  "newsAt": "2026-08-25T20:45:59+00:00",
+  "fetchedAt": "2026-08-25T21:00:59+00:00",
+  "quotesAt": "2026-08-25T21:00:59+00:00",
+  "newsAt": "2026-08-25T21:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1381.79,
-    "gold": 4719.2,
-    "wti": 80.69,
+    "krw": 1381.59,
+    "gold": 4717.5,
+    "wti": 81.09,
     "dxy": 98.9
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.23,
+    "krw": -0.24,
     "dxy": -0.1,
-    "gold": 1.69,
-    "wti": -5.08,
+    "gold": 1.65,
+    "wti": -4.61,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "유가·채권금리 하락에 美 증시 상승...미·이란 재휴전? [월가월부]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YVEhxa1Jsa19jdno2LWxfdUlkX2tNekpRZ1d0WXdFVnViaDBOS0VqZldQT0tvREl4eUxUVG0xS08xamlIVjB1aDk3bTdScHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T20:54:01+00:00"
+    },
+    {
+      "t": "[N2 모닝 경제 브리핑-8월 26일] 美 증시, 엔비디아 실적 앞두고 3대 지수 강세…반도체주 반등",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RZGowOVF1UTkwOW1ET00xT1loM09zUGJhejdYOEgxOUN1V3lremMyNFUzOXluNnJFUDBrXzRzdzNuVmlnS2hUajF5Q0xRX2NTeHlnMG01MEFHQjRvemc?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-08-25T20:53:15+00:00"
+    },
+    {
+      "t": "국채금리·유가↓·반도체주↑…\"사상 최대 실적 전망\" 시선 쏠렸다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5WndtR2RoTlU1bVd2VXRSOXpPb0hBcHB3T0RJM2tnZFNkRG1aSkUxeDA1bnlBUVRUeUpGYjV1Q1JCMF9yUTJIQzgzSTR3c2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T20:50:42+00:00"
+    },
+    {
+      "t": "[금/유가] 대이란 제재 불구 유가 3% 넘게 '뚝'…금값은 랠리 후 '숨 고르기'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QaU85d1NHQnBfb19GZGUyZmUwcGxxQTB0dTRRZ2tsSHhJWjJPQmh3bDVITEZuV0JxcXFQajdsV2RvX05WWW96Z1VwTW96THU0amhiNWM3emdJZWpk?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T20:45:00+00:00"
+    },
+    {
+      "t": "[뉴욕환시] 달러 하락…美·이란 긴장 완화 조짐 속 막판 '합의설'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5VDdMZW9vSll1RDN2bkthekNHZmFVMFIxLTljSFh3ekNlUTU2S3VDOG0yNm5NdDhvWnZSZ3hPTGgyNk14dWNtb2l3Qm4wcmFldk5tNEpWeWNJbHN5NVlGUVBnb0FRQkhoYVNQMmVpMmxvQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T20:44:20+00:00"
+    },
+    {
+      "t": "뉴욕증시 유가·금리 하락에 3대 지수 상승",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdVFuekpxU3hoQ1dBeG41RGVueEJicUFDaWtudlZ6Z1d6amxLNEU0Z3I2cFc0dl8zUURuendsS1hXRlJxTXk1cmVEMklLTFctQWR6MDJkdDVnenUtSW44V3BCcUtrakkxcDE2QTV1cGFuWXFWR0VNR05vZGpfT2dOQlpB?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-08-25T20:43:00+00:00"
+    },
+    {
+      "t": "트럼프 “온타리오호 ‘아메리카호’로 변경 검토”...캐나다는 보복관세 맞불",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ec0d0SnhKMkVyOG1yaWIxSTRKNm5pVkdLbkY0ejM1dTR2NHdNTXhlV3pjb1h1Rzh6LXpWal9DcVZ2QWxuQkRXT1pjZDBOczFVZ3dkcE13OW1zSnpSd3QyN2dvYU0xY3RKcmh0cDhWenRxb1BuRXlR?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-25T20:39:53+00:00"
+    },
     {
       "t": "[뉴욕증시]국채금리 하락·반도체주 강세에 3대 지수 일제히 상승",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3ZrOTZYbElWV2hHSzRLTnlvRDJVWnRpQURhUUZxWl9vcTNBNkFONXFTTGwxc2JPV0dKc0VaZ2dQWU5HU0pVYWlWZGliSU9GMjN5LTRaR3FoNGlvU2ZqMkVtT3hfa1ltWXp4MnJzaWdJeVpCS2JTTE5QakxYZS16YjcxNnJHYWp5?oc=5",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SUR0bzVtdzJtb28xSUsxc0dyeVpyMVM1aEV2RkJoSk1ZY3hnZFdTMjNrN291ZnA5eHlCVzIzWnV1Yi1nNlhKejZrLXRDMlNTRmFjZnREYUpsZw?oc=5",
       "s": "경북매일",
       "d": "2026-08-25T20:32:00+00:00"
-    },
-    {
-      "t": "[교육이 미래다] 반도체·AI 특성화 교육으로 첨단산업 실무 인재 양성",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mdG4wNUJLY2dCRUxaN1lZTmN5WWI3dEtFSWIxYnA4Nl9waVRTeGdCVW0xSWNXME1mamoyNEpEakZ2d2I4MFVjOG1IN2FCd05QbldLN2N3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-25T20:30:01+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 美·이란 긴장 완화 기대감에 강세…엔비디아 8일만에↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wSWM3NHY5UTVIQmhZdXY5MDZ3cTVyOHFVZlJKSzEtLWt2elVyQV8ySlI2Q25wU1Z5T05MUVdFR3UwMGM3S2kxeWpVYnc4ZEJoNjdkY2hHX0VJcHFIa1VPOXprbXhhRWFqbFhUVDV4V1g?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T20:28:38+00:00"
-    },
-    {
-      "t": "국제유가, 美-이란 갈등 완화 기대감에 급락…브렌트유 3.89%↓",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zTG9aajVvZVZKQk8tcU8xYzRfOTBtdjh4Zkhoci1BWHJiSENrV0V4eU5MNEEyRjBORUtjMDRIS0lNUDRhZE51WHBHenZ4OHI2Qm5MQUlB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-25T20:27:58+00:00"
-    },
-    {
-      "t": "뉴욕증시, 유가·금리 하락에 3대 지수 상승…엔비디아 실적 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HMkhLTi1PWUx2dmliNllJMmp2bGNxM1hGZng4NHhYeWFNaUlObEdxWGlNU2I1azRnbERFcEMxeGxQcVNpaWVWdUV5dV9Qb1k3c0VMOFpKRkwwNUho?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T20:27:00+00:00"
-    },
-    {
-      "t": "반도체주 반등에 국채금리는 하락… 뉴욕증시 일제히 상승",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03eF9ua1dwczBNa1VJQXhWMGtjbXNNaS1rNUlJVnhRQ3Y1MlZ3czBKbnVvSE1zVFI5cUR6VDJ0engyZ1lBMFdiY1RoR1pOVTRJLVpvdnRHYjBwakQ3UmZKelN2VGxpOFllMnB5QkFRNDA5WTU0cDJQemhB0gFsQVVfeXFMTjYtcjltallDek5FaFB1V1FzVDZvTlJhWWwyNGZsa1lGakl0ZE9nNFJSM2tzclBra1YwemJjblhHNDFmQWtJejlHS0VMQ0FxWmNQX3dvSC1xZkM4Si1aQ3FwUHN3XzZpUVVrWXgx?oc=5",
-      "s": "국민일보",
-      "d": "2026-08-25T20:27:00+00:00"
-    },
-    {
-      "t": "캐나다, 美에 200억달러 보복관세…주권전쟁 번졌다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBab0p3UFVxcDhmUmxFSVM5RlZhZ2ItaXNpZUZZSXlwU2RMdkZBV1ltTnpMcnR6QTZqU3U4MmVwTXI2azZzVFJLTDhMRnhJZnZ3MjNmVFRlb0dqUQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-25T20:25:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 3대 지수 일제히 상승... 엔비디아 실적 대기 속 기술주 강세 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0NyakVQVU9EbWNRMXB4TVJpRkFVOU5BQWZEQjRlNndCOE5ZOE1PeUxrZ2FyQ0xHQzd4WTlpUlJJRW9VRWpwZ0JhVzFlN19KMmZrTncwbDBjUVVVamFOZGs4Xy1UR3lKLXZBZnVnaXE4YU8tX3BhTjNCVjNXMzdsREhkSDlVRkViWmNKNVpTU2dvU25sUGctLXlYS1lPd9IBsgFBVV95cUxPMDU2emNoQmEzT2ZvcmNMRUhPWnhEUUdyQWFsOWtDelBxTDBpai1VVUNPVm9WaWJEMlVUVnNNTi05WGFDR3ZhNXcwaWRaQU1tYmh3YzBLaE5GRjJCOXZkejJfRVNmcmRxcWpITERHWVhJSFlNUGFhQ2lTVVJkTXo5bEVSNjMzcEJXRmVSN2k1YXo3QnhONVlRNGVsN0R0Q3Rzd0JIUWotTGxPNUpNMjBKR1dn?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-25T20:20:00+00:00"
     }
   ],
   "asof": {},
