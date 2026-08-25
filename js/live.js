@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T11:30:59+00:00",
-  "quotesAt": "2026-08-25T11:30:59+00:00",
-  "newsAt": "2026-08-25T11:30:59+00:00",
+  "fetchedAt": "2026-08-25T11:45:59+00:00",
+  "quotesAt": "2026-08-25T11:45:59+00:00",
+  "newsAt": "2026-08-25T11:45:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.81,
-    "krw": 1384,
-    "gold": 4700,
-    "wti": 82.53,
-    "dxy": 99.03
+    "vix": 15.78,
+    "krw": 1383.78,
+    "gold": 4698.6,
+    "wti": 82.42,
+    "dxy": 99.02
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.07,
-    "dxy": 0.03,
-    "gold": 1.28,
-    "wti": -2.92,
-    "vix": -0.25
+    "krw": -0.09,
+    "dxy": 0.02,
+    "gold": 1.25,
+    "wti": -3.05,
+    "vix": -0.44
   },
   "news": [
+    {
+      "t": "\"美, 이란전쟁 때 철수한 중동 외교관 이번주 복귀\"…국제유가 3% 급락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zNjZNcWplanN3MS1sQU85WGhPQTV3R3d6UnRIR1ZzM3lCQnR2d1dYcHBFNkR5MkhFamlSc1FYTWx3NVczZGVKcTI0LU5DdG9IWmJLVHJRd3ljc2FkWDZkVHZCV1BEZU83dzFNQ2JDN0FQUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T11:25:02+00:00"
+    },
     {
       "t": "TSX 선물 소폭 상승…미국 관세·캐나다 은행 실적 주목",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZThHamVrS1VrYXZKVTdObHZ1Z3dEZFNXQU93TkdueGs1YzhmMVc0NlcwMnhtamJteEl0V2ZjXzREV0ZLcFltSC1JWVR2NXUxSThGN3ZNVmNRMGhPVEtCN3hXa1JoUXM0YXRqQlJKMjU?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xUnVINFYzTEVuN0M2NFR6bzRPNkQ1T1lHSEJpRmt5OGNmWXY1M2dPRktsa2tES004MF9tTzZKd05mdW9qT0dRd1FHR2NFVWhUa2MyLUctdUhxSmRpb19PQkE2M2hwc1ZFbl9meG1weHPSAXRBVV95cUxPbTFMbHM1cnM2cGxaMGozREo3dDNrQmFnMDNlZUM0RzUySzItVlJXenY4VlJ0N3RWd0x3YWFWS0otaUNXTzJUSGNsc0RzWVFmTWpfd19oZmdRMGhDalZZSG1wM1M1Q2lkU2Nya1BydG84SDNnTQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-25T09:34:21+00:00"
-    },
-    {
-      "t": "충북도·청주시 '반도체 클러스터' 국회 세미…글로벌 거점 도약",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LLUFaamxLR2dsRFJ3WkM2Um1iMXNxX05keXpQX3FNS1U1OUtVa0FBaDkxSVBreHJlVF9iLXhobnpMc2o1LVg5Y3NLX0FCZjZuQ3FxN2YwZDZYSDNubEo5MDFfYS1nOGNZS2lGcDllcDVaZw?oc=5",
-      "s": "굿모닝충청",
-      "d": "2026-08-25T09:32:46+00:00"
     }
   ],
   "asof": {},
