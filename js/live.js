@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T05:45:26+00:00",
-  "quotesAt": "2026-08-25T05:45:26+00:00",
-  "newsAt": "2026-08-25T05:45:26+00:00",
+  "fetchedAt": "2026-08-25T06:00:33+00:00",
+  "quotesAt": "2026-08-25T06:00:33+00:00",
+  "newsAt": "2026-08-25T06:00:33+00:00",
   "quotes": {
-    "kospi": 6719.12,
+    "kospi": 6735.52,
     "spx": 7652.86,
-    "nikkei": 65811.79,
+    "nikkei": 65706.71,
     "vix": 15.85,
-    "krw": 1383.86,
-    "gold": 4699,
-    "wti": 85.08,
-    "dxy": 99.07
+    "krw": 1385.33,
+    "gold": 4693.4,
+    "wti": 84.73,
+    "dxy": 99.09
   },
   "daily": {
     "spx": 0.15,
-    "kospi": -2.8,
-    "nikkei": 0.43,
-    "krw": -0.08,
-    "dxy": 0.07,
-    "gold": 1.25,
-    "wti": 0.08,
+    "kospi": -2.57,
+    "nikkei": 0.27,
+    "krw": 0.03,
+    "dxy": 0.09,
+    "gold": 1.13,
+    "wti": -0.33,
     "vix": 4.76
   },
   "news": [
     {
+      "t": "채권시장 전문가 79%, 기준금리 동결 예상",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yenduc05zM1VvcFQ3MXdTaURHUkxTT3Q4T0g0UW1HcDljOHV1N0VWS1E5LXR3ZzdmWlk5OTUxUVRqSzRaMFdkMXplN0ZXalg3Ty1UT0pjQ3pzWUZwUk0zLXY0OTA?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-25T05:43:02+00:00"
+    },
+    {
+      "t": "코스피, 장중 상승전환해 소폭 강세…삼전닉스도 강보합",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWFQtdDgyY3I0YzN4ZzBENFdWMWtVQl9raS1aeFlJYVpXZmpMd0FJc3JpWi03SU1wMVNlalZzYmxxb1ZBZW4wei1CSTF6aDMySEhhQzBaeGxWRE3SAWBBVV95cUxPRXl5NnE5N2ZGclh4SkRwNFpZenNHVU5NWFNnY1NWclU5UmcwNUc3MHJqcXVZTmd6Zm5VQ3c3M19XaE1Sa1ZkYTVmZ2doMkpCZzZocW1CNDlLUzhacnE2a1U?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-25T05:40:20+00:00"
+    },
+    {
       "t": "채권전문가 79% \"한은, 8월 금리 동결\"…인상론 한풀 꺾였다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UeVFpVGJwRjBPNHMwclpZNXdvQlB2aGIxZ0h1bGMtdjBZR0txM1Q5Y2VCOWNkeTIyY0g0MTBMVGtiWUV2a2tSb1VrMU9Jemc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T05:39:50+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkTnNSV2VxTW5od2ZJU3VRVEJ0Vnc1S1pka3hnU2FOYWg0U0RiVERxQmQydXFIS2lxRERuZjJGbXFfYkFBekUySEhGajB3MXBPYjlfdkxwRXRuY0oxTE1N0gFkQVVfeXFMTmtNVkhJblVKeTFpR3FWeVZWRUZvQmRZMXlKSXM3UC1hZm8xWmt4TmoweEpoa1VXQzBYUEtsOTllamZCT0RFWFg0a3drT2pfbVBVNWI3MmN0eXhHY1o1WE9mcy1yUw?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-25T05:38:00+00:00"
     },
     {
       "t": "채권전문가 10명 중 8명 \"8월 금통위 기준금리 동결될 것\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYXVDRlZXakFyYzI1YmllY2hFTG1mYThvbElhS3g4RG1yWFhzbmNuejA2Y281YlBGaUxtSFMxSDZCd1dUcmtLUmxsemRjaFl1LTQ1cmV2VkEyZEt2LXhrNUZzNFRWczBI0gFuQVVfeXFMT2UwTFZGeC1kUk1aOVZJOUx0aGljT3BzSVdvQVRnZlZPNTNjTVh2NzB4R2ZKOGEza2JaODFhbnZHLXFoSlJhVWZrOFc0aERPRlJSRkd3a1pUUjFFUWJQblBIRUdMRVJhWXFlemdZaWc?oc=5",
       "s": "머니투데이",
       "d": "2026-08-25T05:02:05+00:00"
-    },
-    {
-      "t": "8월 금리 인상 시험대 오른 한은…고금리 부담에도 인상 유력",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JN2JtLTY3ZXU1VHFicDU3V1BXNDlUTktwNFcwZG9fSE9HYWRybUY5UUNLYnFhaXRLbDRiUmFTcDI5X2tHb1VIT0lUZzdjMnBOMGxyVVlLTDJYVWg3U2xWcUR1Q196MUhhM1hNQTFjWdIBb0FVX3lxTE1JN2JtLTY3ZXU1VHFicDU3V1BXNDlUTktwNFcwZG9fSE9HYWRybUY5UUNLYnFhaXRLbDRiUmFTcDI5X2tHb1VIT0lUZzdjMnBOMGxyVVlLTDJYVWg3U2xWcUR1Q196MUhhM1hNQTFjWQ?oc=5",
-      "s": "투데이신문",
-      "d": "2026-08-25T05:01:47+00:00"
-    },
-    {
-      "t": "달러 반등에 아시아 통화 하락…이란 제재·국채 금리 주목",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zSHd0aGlJRXhoS054Vkp6bGx0OGpqeGlfRmpiY1VobDI4Yks0Y1duSTNGQmV0ZmZQU3FxeUN1aGx6WW1mNG9sR285LWlpbXRXYldkYTBkem42dnBhTnViY2dZTVhIeU0?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T05:00:00+00:00"
     }
   ],
   "asof": {},
