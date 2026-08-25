@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T20:15:59+00:00",
-  "quotesAt": "2026-08-25T20:15:59+00:00",
-  "newsAt": "2026-08-25T20:15:59+00:00",
+  "fetchedAt": "2026-08-25T20:30:59+00:00",
+  "quotesAt": "2026-08-25T20:30:59+00:00",
+  "newsAt": "2026-08-25T20:30:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1382.36,
-    "gold": 4722.9,
-    "wti": 80.84,
-    "dxy": 98.89
+    "krw": 1381.71,
+    "gold": 4723.8,
+    "wti": 80.29,
+    "dxy": 98.88
   },
   "daily": {
     "spx": 0.04,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.19,
-    "dxy": -0.11,
-    "gold": 1.77,
-    "wti": -4.91,
+    "krw": -0.24,
+    "dxy": -0.12,
+    "gold": 1.79,
+    "wti": -5.55,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "국제유가, 美-이란 갈등 완화 기대감에 급락…브렌트유 3.89%↓",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zTG9aajVvZVZKQk8tcU8xYzRfOTBtdjh4Zkhoci1BWHJiSENrV0V4eU5MNEEyRjBORUtjMDRIS0lNUDRhZE51WHBHenZ4OHI2Qm5MQUlB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-25T20:27:58+00:00"
+    },
+    {
+      "t": "뉴욕증시, 유가·금리 하락에 3대 지수 상승…엔비디아 실적 촉각",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HMkhLTi1PWUx2dmliNllJMmp2bGNxM1hGZng4NHhYeWFNaUlObEdxWGlNU2I1azRnbERFcEMxeGxQcVNpaWVWdUV5dV9Qb1k3c0VMOFpKRkwwNUho?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-25T20:27:00+00:00"
+    },
+    {
+      "t": "반도체주 반등에 국채금리는 하락… 뉴욕증시 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTNQdS1xaFlYeTdUQTU5clBGeDRRdUM0Z3p6UHZOV2UxVTBObzFXRG5WMXZaWE5zTkd1a3hkYi1VdTlPVi1LR0EtVEUzMlRGUzdkUk91N3Fld2NXZkJmeHdxU2tWNnd0bWl3TzI3bUlqbnptYmZRbmFsdHVzeGN2M2xodl91UGxmSXpRaGoyV3ZLZmdTcHfSAWxBVV95cUxONi1yOW1qWUN6TkVoUHVXUXNUNm9OUmFZbDI0ZmxrWUZqSXRkT2c0UlIza3NyUGtrVjB6YmNuWEc0MWZBa0l6OUdLRUxDQXFaY1Bfd29ILXFmQzhKLVpDcXBQc3dfNmlRVWtZeDE?oc=5",
+      "s": "국민일보",
+      "d": "2026-08-25T20:27:00+00:00"
+    },
+    {
+      "t": "캐나다, 美에 200억달러 보복관세…주권전쟁 번졌다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBab0p3UFVxcDhmUmxFSVM5RlZhZ2ItaXNpZUZZSXlwU2RMdkZBV1ltTnpMcnR6QTZqU3U4MmVwTXI2azZzVFJLTDhMRnhJZnZ3MjNmVFRlb0dqUQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-08-25T20:25:00+00:00"
+    },
+    {
+      "t": "뉴욕증시 3대 지수 일제히 상승... 엔비디아 실적 대기 속 기술주 강세 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc0NyakVQVU9EbWNRMXB4TVJpRkFVOU5BQWZEQjRlNndCOE5ZOE1PeUxrZ2FyQ0xHQzd4WTlpUlJJRW9VRWpwZ0JhVzFlN19KMmZrTncwbDBjUVVVamFOZGs4Xy1UR3lKLXZBZnVnaXE4YU8tX3BhTjNCVjNXMzdsREhkSDlVRkViWmNKNVpTU2dvU25sUGctLXlYS1lPd9IBsgFBVV95cUxPMDU2emNoQmEzT2ZvcmNMRUhPWnhEUUdyQWFsOWtDelBxTDBpai1VVUNPVm9WaWJEMlVUVnNNTi05WGFDR3ZhNXcwaWRaQU1tYmh3YzBLaE5GRjJCOXZkejJfRVNmcmRxcWpITERHWVhJSFlNUGFhQ2lTVVJkTXo5bEVSNjMzcEJXRmVSN2k1YXo3QnhONVlRNGVsN0R0Q3Rzd0JIUWotTGxPNUpNMjBKR1dn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-25T20:20:00+00:00"
+    },
+    {
+      "t": "국제유가, 대이란 제재 우려 완화에 급락…브렌트유 3.89%↓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nT3p5UVR2YUJMSi04N3ZDVEg5TXphMEd4dEZwTC02OE51QlJkblI1ZllJV09vc052WG5IMTVsbWV1VG9ESGdJQ0dINzVUcXlyY2dQQTJYNU90RjQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-25T20:17:00+00:00"
+    },
     {
       "t": "[뉴욕증시-1보] 美·이란 긴장 완화 기대에 강세…엔비디아 8일만에↑",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VEstUFJBdGEtOGNPQjgyX2x2TG1BaWxxOUNjbUpLcFpGeVJMU0pQWUdlVEdBMHRvX3hlTlVZN0dHbF9pRlZ4NXFfNFhhNDdyelhabVFHQm1fS084ZTBvNVNEYW1TcURodnRYcW4xSTc?oc=5",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-25T20:01:42+00:00"
     },
     {
-      "t": "1812년 미국의 캐나다 침공…2026년 트럼프의 관세 침공",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1RpVHdlRlBHekFEUWFQT2F3RVhiNlpWYjRMUzh3VlVMNjJrT2NERm0tTDlRVmQ1d1NueDFxS3UyNXVtdlNvYzRaaXhmZE9XZEhtTUxhRWdhQVBmR0pqT0lWbk9MekQ1QnhzVHhIRXZPQ2M1QlhQSTg0RXFPZDhtTzRR?oc=5",
-      "s": "한겨레",
+      "t": "반도체 超호황인데… 올 기업파산은 역대 최다 1,500건",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LcXJreUpIQnp4OUkyWnJ2b0xyWXFWMUFzRU0tcTVSU2dycVZrekdzSjN2NS02ZmR1LXZiMkI4clhlRkRNeFFuQmk1d2ZqVmRQeG1LeDU1ejlpZnI4dVJMRFdPSGE3S0k0S3FPakhR0gFyQVVfeXFMUExQRmJpVnBsUTlBYWdJLUpWZ0wtTnBKMEh5MUlLWDZ5VnhZOURSaWN3WllGVEZyQXg5ZHhLUmVyS0NKcDlPZzJYaG5WVUtxS0hpOUFMQ1NzVjllbGxHOV9HVFMzQUd6VEdOcUljMF91UC13?oc=5",
+      "s": "법률신문",
       "d": "2026-08-25T20:00:00+00:00"
-    },
-    {
-      "t": "[뉴욕채권] 국채가 강세…유가 급락에 30년물 금리 2주일여 최저",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xOXBMSTVoT19SZGZnRUVBZS1NQXZuNXVCZk9NbWdtaUtKQUZLb2hHMGt5cnQ0YmZ4bmMwR2hhLURXZllsMnB5alpzWG1qR3A0ajQ1YklqUzVuY0JNZEVvcXZ5WFJZZlI1OGlickdnVU1uQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T19:53:39+00:00"
-    },
-    {
-      "t": "유가 하락에 국채금리 하락...환매 논쟁 지속",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ySjg1WHN1bUVQRVR3QVVJRlJ0OUFTVGZHd2RmeGZBNVUxSGw4Y0tXSW1DQnd4WGFHS2RSUVVid084dGhBeXJOMnh2QlVyc2VUUGJpV1Fhc182WDVaSlNFMnc4RGpEM2tCR1RDTzdxZWM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T19:36:00+00:00"
-    },
-    {
-      "t": "유럽중앙은행, 이란 전쟁 우려 속 9월 금리 인상 예정",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jbFRVRXF1ZmRyOEI4V09OeWxfTE9xbnNxTHp6d0ZtNEVmcUNCX1NxSThMU3JPdWs1Vm05d3lCbnl6MHFPakRmSEY2cWs2X2NBOGZnSW80UmliOE5rb2taajM2RGwzWDBXaUZHTW1lbjg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T19:32:00+00:00"
-    },
-    {
-      "t": "트럼프, 캐나다 무역전쟁 선포에 “내년 車관세 25%→50%로” 반격",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N2pMYmdhaU80azB3NHQ1VUhWc3BnT2FkcHNETkRQcXBIcDFtbmRzMHZ1OVFMaUFycWIwdHBHYXQyd3lkWDV1Z29DY0F5bDBHUFVhcEtPWDAxOHFGRnZKWnZJbjFLZWRWSEE1VUxhako5T1nSAWZBVV95cUxPT25XS0NSQm9aNVp4eEptbmpiMkhrako3aWUwd2swaEFURTFOcTVTb296WkIyVU1qU0VUemlsYnRoYnhVSVpmdk13aVBpN01mcjV4bzRmUjNZRWNzbDBDaVBKM0tjZVE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-25T19:30:00+00:00"
-    },
-    {
-      "t": "내일부터 수원서 반도체 기업 취업 문 열린다",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mR1dMNXhVaU95eUFjUktaX0dvRWpkdUhpNnJHWVNLM3V6bFFOa1JBOU1CVEoteVBBeDFSMmxKRFF2VmFTa2stdU80WVdENGQyYW1FajhlMkVSU3MtMThVeV93emNhS2NwS0ViQW1IRlpYcXNsS3fSAWZBVV95cUxQTFpLc2RGVFR6ekMtSUV1MnR4RXU0YS11cHNCSVgzQlZOVnNIMmVzN2NCZHJMb2RVMEsyejZzYi1RaGZubWJFMFpDNlBGX1pSR1FoR0hQVC1xZ2MzZlAyem95UnQzVlE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-25T19:30:00+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 중동 군사적 긴장 완화 조짐에 이틀째 급락…WTI, 3.1%↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xUFc4aG1DdzdRZTl1UjZXYXZFZTUtelNlWW92WnNBQ1ItdFE3cEx2UTEyRnpXU1dTVVBrT3FadDFNTzNLR3g0TExlYVB5VkZtUUlTZVJpNUdBTEgzRG5lNW95eUdGUDdEeE8yel9zSUtlUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T19:09:17+00:00"
     }
   ],
   "asof": {},
