@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T12:00:59+00:00",
-  "quotesAt": "2026-08-25T12:00:59+00:00",
-  "newsAt": "2026-08-25T12:00:59+00:00",
+  "fetchedAt": "2026-08-25T12:15:59+00:00",
+  "quotesAt": "2026-08-25T12:15:59+00:00",
+  "newsAt": "2026-08-25T12:15:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.75,
-    "krw": 1383.41,
-    "gold": 4702.5,
-    "wti": 81.83,
-    "dxy": 99
+    "vix": 15.77,
+    "krw": 1383.17,
+    "gold": 4692.7,
+    "wti": 82.05,
+    "dxy": 99.01
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
-    "krw": -0.11,
-    "dxy": 0,
-    "gold": 1.33,
-    "wti": -3.74,
-    "vix": -0.63
+    "krw": -0.13,
+    "dxy": 0.01,
+    "gold": 1.12,
+    "wti": -3.48,
+    "vix": -0.5
   },
   "news": [
     {
-      "t": "“캐나다는 다루기 나쁜 나라” 트럼프의 50% 관세, 왜 일본차가 맞았을까 [디브리핑]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBucmdPMFAtamxtbFdXRXBGRTdkaEV4QWhqRVo4QWViSjNyN0FIMnd0bnVQTjk2eXZyUjNDUlcwM0NsS2xMUW9jQ09WTF9qRFE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-25T11:52:13+00:00"
+      "t": "당정, 반도체 특별회계 신설…AI·3대 메가 총력전 지원",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SU1XYUVuRnNBcy15Rzd2WFp3V0RqQk1RSk13SDNnMWZtaHRDRjlzNWw5NlNhSTNIa2F3dURNcVVadUtQTzIxSlU3Q3dmYjUzOHh0aUthRHdRQdIBX0FVX3lxTE5CSm03cEVuNm16SjlSZ0hXTmEzS1NvaXl5c3JjcWwtSnRQcGVQSVV6bE05Zk1vd3A5WlBDS1dlb003N1c4Q0pHZnhlaHJzSVlHejNYaVZ1aWo0TDJuUE9F?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-25T12:04:00+00:00"
+    },
+    {
+      "t": "미 국채 강세…美·이란 갈등 완화 기대감 속 30년물 5.2% 밑으로",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE05dFhjbHlpb2Y0eGxOUVFkaWgzYVc0UEVsZjM2VGdwanBJVWNZUFNobzYwZzhkZ0o4V2N0bTlKUmNXZWIwTVRvZE1iRS0xcWNnMndxbWFIX3hWb1VFMWtfZEw5amo1OVlNUnF1c25qWGZ4dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T11:52:03+00:00"
     },
     {
       "t": "베센트의 바이백 전략, CTA 숏 스퀴즈 유발해 5.34% 금리 달성 노리나",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84SlBtbHRxb0FaVnJPTlZxbU53QUZzSUhWdGRBdTZmRWlfN1J2WU1xNVFzeTJ5aGJTUEE0VS1SZVhZRnRjNDg4T3FZSWloRGFuR2Vmb09GRVBINmVrNUlXdGFiMmJoRnZfbXAwdzYxTFZKa2FYZk1Z?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T11:39:00+00:00"
+    },
+    {
+      "t": "반도체 호황 덕 내년 800조 슈퍼예산‥\"특별회계 만들어 AI 총력 투자\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiVmRYNnFlakcxZ293SnJiYlg0RzMyZnVBSnlUaVh2ZVlTMkUzWlB6RTNuVVh2U2RRQWctbmNuNGJjNElyNnFEN2VsUE9DOXpjUkZuQS1qSFVvcFdUYVY0ZnJDR3VzQ1U2cXh2c0U2b2VJMjVPM2FEQdIBeEFVX3lxTE1aUUNaUjNmU0RBOVpZTndJMGJZanR0UjZ1TFFoaUNpU2tLZnlRNHY1X08zY05DUVpRakQ5N2Y3Y1ROLU03VE9nSVc1MVFoOGJOZ0FvNHNkbWpaam5NT05TZEtyWVNJVjZoNm5zMFljeDRKQVljOU5Wcw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-25T11:34:04+00:00"
     },
     {
       "t": "워시 연준 의장, 잭슨홀에서 달러 매도세 막을 수 있을까?",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-25T11:16:00+00:00"
     },
     {
+      "t": "4% 급락 딛고 반등…코스피 6,700선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLR2VodThTTWI3LVZ2T21rTzhpSkpZOXhFa1NKS3RUY0tUWUk0Z0xuRnRXbl9NSkIyQ050b0lrNkRmc1Z6N3BadGs5el94NXN0bkE2TDBRWFRvaTZwc1BBOFNBeU8zdHc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-25T11:12:00+00:00"
+    },
+    {
       "t": "[인도증시] 유가·美 국채 금리 하락에 투심 개선, 상승...국영 구리기업 7% 이상 ↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tZEpIVHpNb2k1Q1lOS0lGcE9DS05mYURYR0ZDcENHQnFDMElNUGpodVBiZzVGYmthV2lqcXJuR0J4ZFR5QmNIanBYaEVxZGRGNmc5VWlSVzhWOFF3?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-25T11:00:00+00:00"
-    },
-    {
-      "t": "미국 증시 강세 포지션 약화…씨티 \"약세 흐름 재개\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtZUZhTWkxN1Y4eWRJU2N1NDd5cUJ2RFZtY0xHSVRtMm52ZFRSazUwZ0x5YkdGeWZjeml6YTNIaV9yY0NlaGJtUjdZb0tLamVIVDMwUG1tcF9tX0R6SVo3X0dZNXZiYXUtQkdRWUFjM2E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T10:59:00+00:00"
-    },
-    {
-      "t": "뱅크오브아메리카, 반도체 8개 종목 매수 기회 부각",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQ0RNYVdtamV6elVTWWdEMGloek50MElmYndKbFZydGY3eV93eWdBdlpMN0ZTNUFSRm82TmhfNW9aRTc0UU1XendwcEQzZGhDLVU3OGxfRkdyVkphRDJKbnVrQ0kxMXlmeE9ZbTNOMUw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-25T10:32:00+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 지정학적 우려에도 상승…홍콩만 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwU1hVX0hDamdXdFZodmZUaTdMSXMzSk4tejh5TzZNRTZzbTFQLXduLUtQaGFUZGtjelgzM1JVbDJ1azlxNzQzUWN6c1ljcThscGtnWUNpOVl4NEFaanozclFJdF9zN1FITlIzOVFkRUE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-25T10:30:30+00:00"
     }
   ],
   "asof": {},
