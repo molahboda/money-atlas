@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T12:45:59+00:00",
-  "quotesAt": "2026-08-25T12:45:59+00:00",
-  "newsAt": "2026-08-25T12:45:59+00:00",
+  "fetchedAt": "2026-08-25T13:00:59+00:00",
+  "quotesAt": "2026-08-25T13:00:59+00:00",
+  "newsAt": "2026-08-25T13:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7652.86,
     "nikkei": 65856.43,
-    "vix": 15.78,
-    "krw": 1383.68,
-    "gold": 4688.7,
+    "vix": 15.84,
+    "krw": 1383.73,
+    "gold": 4695.9,
     "wti": 82.34,
-    "dxy": 99.02
+    "dxy": 99.01
   },
   "daily": {
     "spx": 0.15,
     "kospi": -2.46,
     "nikkei": 0.5,
     "krw": -0.09,
-    "dxy": 0.02,
-    "gold": 1.03,
+    "dxy": 0.01,
+    "gold": 1.19,
     "wti": -3.14,
-    "vix": -0.44
+    "vix": -0.06
   },
   "news": [
+    {
+      "t": "“퇴직금 절반 넣고, 일주일새 1000만원 날려”…영원히 오를 줄 알았던 '미친 증시'에 당했다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDeXJaZHRQbkJHUUZwNU5LTVQwRzlGemxVMG1HdU1COVZzUDNHekJBZG5yOC1zOVpndGxYNkV0VmhiZlBWSFlVNTBjNTNNZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-25T12:39:27+00:00"
+    },
     {
       "t": "호남 반도체 전력·용수 등 인프라 '예타 면제'",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05T01GTWNteVpkMk9QMWZfNzNVSzNHY21LR0Nzb0pMZlBHdDJMOFlPQlpwYzdjMDRqalZ4aW9oSWEyRklveTNwQkVEOWRBYmlPRGkxckExMjZNaXRTZ3h1cA?oc=5",
@@ -31,16 +37,16 @@ window.LIVE_DATA = {
       "d": "2026-08-25T12:22:00+00:00"
     },
     {
+      "t": "헝가리 중앙은행, 기준금리 5.5%로 인하",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxYkxVbFZiR0VubWtQT3JkLVgzUzBXcmd2RkREdDlOeWhSamdoZFhfVjZZbk93VHY2MmRxVlNQTzM5SUxDTGZKelFWdE0zX3Bxd1ZoYVg4UDRFR0NER3lIR2RXZzVrTEd2OENBY0E5QnA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-25T12:15:00+00:00"
+    },
+    {
       "t": "당정, 반도체 특별회계 신설…AI·3대 메가 총력전 지원",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SU1XYUVuRnNBcy15Rzd2WFp3V0RqQk1RSk13SDNnMWZtaHRDRjlzNWw5NlNhSTNIa2F3dURNcVVadUtQTzIxSlU3Q3dmYjUzOHh0aUthRHdRQdIBX0FVX3lxTE5CSm03cEVuNm16SjlSZ0hXTmEzS1NvaXl5c3JjcWwtSnRQcGVQSVV6bE05Zk1vd3A5WlBDS1dlb003N1c4Q0pHZnhlaHJzSVlHejNYaVZ1aWo0TDJuUE9F?oc=5",
       "s": "경향신문",
       "d": "2026-08-25T12:04:00+00:00"
-    },
-    {
-      "t": "미 국채 강세…美·이란 갈등 완화 기대감 속 30년물 5.2% 밑으로",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE05dFhjbHlpb2Y0eGxOUVFkaWgzYVc0UEVsZjM2VGdwanBJVWNZUFNobzYwZzhkZ0o4V2N0bTlKUmNXZWIwTVRvZE1iRS0xcWNnMndxbWFIX3hWb1VFMWtfZEw5amo1OVlNUnF1c25qWGZ4dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T11:52:03+00:00"
     },
     {
       "t": "베센트의 바이백 전략, CTA 숏 스퀴즈 유발해 5.34% 금리 달성 노리나",
@@ -65,12 +71,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14Q2c2WE9ubS1Xci1WNDI2Vm4wTzZ5a1JTVElacS1UN1k3S25sOWx1ZXZDOFF1X0lrY3kyWWZUdmlPcFZjcXdTbi14bGU5Z2pUdmFvOG80amw2SVRqeW5JZ3FtZHZTWk0?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T11:34:00+00:00"
-    },
-    {
-      "t": "\"美, 이란전쟁 때 철수한 중동 외교관 이번주 복귀\"…국제유가 3% 급락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zNjZNcWplanN3MS1sQU85WGhPQTV3R3d6UnRIR1ZzM3lCQnR2d1dYcHBFNkR5MkhFamlSc1FYTWx3NVczZGVKcTI0LU5DdG9IWmJLVHJRd3ljc2FkWDZkVHZCV1BEZU83dzFNQ2JDN0FQUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-25T11:25:02+00:00"
     },
     {
       "t": "TSX 선물 소폭 상승…미국 관세·캐나다 은행 실적 주목",
