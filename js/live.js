@@ -1,35 +1,29 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T15:45:59+00:00",
-  "quotesAt": "2026-08-26T15:45:59+00:00",
-  "newsAt": "2026-08-26T15:45:59+00:00",
+  "fetchedAt": "2026-08-26T16:00:59+00:00",
+  "quotesAt": "2026-08-26T16:00:59+00:00",
+  "newsAt": "2026-08-26T16:00:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7678.92,
+    "spx": 7669.4,
     "nikkei": 66262.16,
-    "vix": 15.5,
-    "krw": 1385.56,
-    "gold": 4654.2,
-    "wti": 82.36,
+    "vix": 15.45,
+    "krw": 1386.1,
+    "gold": 4662.1,
+    "wti": 82.38,
     "dxy": 99.15
   },
   "daily": {
-    "spx": 0.34,
+    "spx": 0.22,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.35,
+    "krw": 0.39,
     "dxy": 0.23,
-    "gold": 0.35,
-    "wti": 0,
-    "vix": 0.32
+    "gold": 0.52,
+    "wti": 0.02,
+    "vix": 0
   },
   "news": [
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 26일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN095Y3p3Z2JXNjEyeXBmYkF1ZXRZUmNSR1hza0RGTUJWRWFaNk5zUEdUc3pYOVZfMUJoeEpFaDNMSEh1R1I0dVVfVEN0RlNzenZMeDNabHNrVGhCSC10MVgxay00NU04OGh4bXEyNDRkYUxMTGpITE1jdGlxSnhEZkxkNzQtSTFC0gGcAUFVX3lxTE51R1ByTWJ0RzItdmhHQjhIY3ZNZ0VNTmU1NzhzMjhDbDVrS0V6X2lFRDc0RHNUclhpQzNmT28zNjBnM1E3clNIVUNVUC01M2VrWG5meTVNZFpMdm5hTThxbkpQZFVGeVYzMFp5SE10b1V6a2RrVEFMb1hfRzVKWHZIMm1vekp4Z3VIQ1dQLTEtVWk1VUFwQTZnUTJlVA?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-26T15:35:00+00:00"
-    },
     {
       "t": "호남 반도체 공장, 노동쟁의 대상 되나",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDVuVW1HazJkWXRVZ2k2TGR4SHZuMU9Senh4Zy1FQVlyWVdXMHhJeXJySGEySXdNV0tITHdybGRtQmN2TG9hWHZpU1Nyd3VhM1UwaUJWZHNMLVJqRzJPLWZuTGJxVUFWQlc4LXU2dTZRTWxqUHpYQ3hLdEN4UzlaNGMteXdSelNsakh1aWVjYw?oc=5",
@@ -43,6 +37,18 @@ window.LIVE_DATA = {
       "d": "2026-08-26T15:30:23+00:00"
     },
     {
+      "t": "금리 오르는데… 불리한 변동형 주담대 12년새 최고",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZEV3cS1jcFN4czBydjB1c2tkcjhlTU9wM240dFJRY0lZcVBXSmY2elp2NmN2UGhOeHNFMXFSdmFBLW9nRElDSzNpa1RxRTFxR2xuUFFkUFdDX0o4QU1RQlNaclBGcWtvTGt1aXYzc29kZE9oM3fSAWZBVV95cUxQWFUwdWNSdFIyaW5ONTlzRWJIQlFIdGpxeFI3M2FndWNGMm1sYVd2YkJybnhtb2cxcHE0RVVnUk85OUVWRVVJOVpxdUx2QmhZRXFyVVVUTTdUS0pxeVlLNE83X25YRVE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-26T15:30:00+00:00"
+    },
+    {
+      "t": "반도체 끌고 서비스업 밀고… 8월 기업 체감경기 4년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhYTltcldEU3pUY2Z2djExaV9JRGxwRFNfejZCZ2hRbDJFQmF1cTZHeHhwMGNhWVZhTU02NElKNUd4cGZlVnFGTTIwNlo4Tkt0ZXlWRHNuYVNZRGJSNXhoUHAybDlEUVppY1BSdE9PZ3gyTkVIRXfSAWZBVV95cUxNVWdraDNFWlh4SG04WmtVYVZJQTY1YUxJOVY4bVQtdUI1aDZQYkxtQ29scXVhUnd5eTUtWVpieDlRN1dQbVlheGQ4ZkJHTzJxWkhVQXg4dEtoZlpvVlp6aEJmQ0VDbnc?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-26T15:30:00+00:00"
+    },
+    {
       "t": "“햇빛만으로 수소 만든다”... UNIST, 효율·내구성 높인 유기반도체 광전극 개발",
       "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JenNacVkyd0RzNFhMTTdSSExySE5KSVNLQTFiek9vcTNWLUZzSFBCcy1JcV9WMl9lZFMyczI1Q0Y3aUFkLUNOUg?oc=5",
       "s": "특허뉴스",
@@ -53,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eGI3ZXZHWWlraEotb1VSUzNRdHJMYjZjMFJPenNSVWlHYV90NTlvc0tpR3VoYmhLN0FHYnYtRk9XSUx5UXBmbE0teV9XRTVTcG9JaWdWeXg?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-26T15:23:26+00:00"
-    },
-    {
-      "t": "[윤성민 칼럼] 中 반도체와의 전쟁, 결국 공산당과의 싸움",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBreWIxQ0o1TV9lenlUNW9xdU45VnlYYkZ5UGc1dVNjVWpFUlMtbWkzVXhlSVEzRVAzUXRCekNHRHNiaFo4cGFFZDlHbklJeWRKT3R0MHJ5SFRjQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T15:22:00+00:00"
     },
     {
       "t": "캐나다 보복관세 치밀했다…“미 중간선거 경합주가 타깃”",
@@ -80,9 +80,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "[경제포커스] 주택 공급, 반도체 속도전 결기로 정공법 펴라",
-      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0djeHNMdTJFTm9rcTNBSHBhTWotUjY4U0FMN2w2bUZFNVNfLWFGamRxX0pGOGk3aXVyTlZHOFVqVHdKejJLN2dGTXk4VTJLaW43SGpEM2phTEhBZnFKcG9xeG5TUG16S3BubDJIWXBmNzlCczRidUlqNTZUeVhkcVRzQ0dBWlFucFlYOA?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-26T14:50:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IYjB4MkRkQ2ZOemNLMWdWTWt3OHlBbVlxRGExZ0tMbGx3QU1JSlNNQVh5ZFZNMlJPY3VPdDM1LTZXenBNOFVhM2d0X0lFMjQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T14:51:52+00:00"
     }
   ],
   "asof": {},
