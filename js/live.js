@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T11:45:59+00:00",
-  "quotesAt": "2026-08-26T11:45:59+00:00",
-  "newsAt": "2026-08-26T11:45:59+00:00",
+  "fetchedAt": "2026-08-26T12:00:59+00:00",
+  "quotesAt": "2026-08-26T12:00:59+00:00",
+  "newsAt": "2026-08-26T12:00:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.64,
-    "krw": 1384.04,
-    "gold": 4675,
-    "wti": 80.31,
-    "dxy": 99.02
+    "vix": 15.68,
+    "krw": 1383.38,
+    "gold": 4674.5,
+    "wti": 80.5,
+    "dxy": 99.01
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.24,
-    "dxy": 0.1,
-    "gold": 0.8,
-    "wti": -2.49,
-    "vix": 1.23
+    "krw": 0.19,
+    "dxy": 0.09,
+    "gold": 0.78,
+    "wti": -2.26,
+    "vix": 1.49
   },
   "news": [
+    {
+      "t": "“美 30년물 금리, 20년 전에도”…포트폴리오 바꿀 때입니다 [신환종의 채권&자산배분]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKUWNIMFJ1OGNpY0lONHFFa3ZiLTVZNWZWX2Q5VUFxeTAyUlFtNHhMR1p6cXFMdVpDUkhINkJaY1lmNjZKdEF3eTZQeDFaT09IUHc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T11:47:09+00:00"
+    },
+    {
+      "t": "미 달러화 강세…美 인플레이션 지표 앞두고 경계",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yU1NPSFlXTE5GVmJRWTktUEFfdGk3YzFpNmZNek9hdkpIdndoOUlhN0pvLXR2MlQ1aTVYM0k2TjRHM1RsUmk4SmN0NmI2QlREWjZqTXhVYThlRzhPVHZwOUt2ZnlKeWFFaDdIZzIwamsxZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T11:46:48+00:00"
+    },
     {
       "t": "박찬대, 인천 경제 새 엔진으로 기반산업 변화와 반도체 추가해",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84RUVkVVZiTnZjZFZtVE8tSjlab3BrWDRYMUNHaHp5Y1g2T21oX2JGSDZXdU92endvMUN0b2ZuX3FNRV82RTREZlh6eU53ZW9KellHcEI5R0xiQV9VSExOS0pSMzk5OWxIOFBHenFkQQ?oc=5",
@@ -49,16 +61,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T11:11:27+00:00"
     },
     {
-      "t": "[단독] 신용 높을수록 이자 더 낸다…거꾸로 대출 금리에 '울상'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZHZRdThKbngydG5VX3NxQTZhV0NSbHN2ZFlZSURtRF8xdVRaM2czRGFjNHNwUlNJbHo5aHZZM3ZXWURaaHhuXzJmVTh6U1I4UldtT0VsdnVsUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T10:59:00+00:00"
-    },
-    {
       "t": "박현주 \"반도체는 미국 말고 한국에 지어야…공급과잉 와도 치킨게임\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SYlFPSTJYc3o1ZlZRSVRhUE9GenFGd1ltX2RFamstZU01QVpEVDhwX2NMUS1rV05VemlyX2JvTk93NGNpUkN6NTVKUTRKaG43Qjh0NHhnWW5TYU0ybXZjLUZaNlB6SUhNTVdpamd2MUVJZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-26T10:52:10+00:00"
+    },
+    {
+      "t": "박현주 회장 \"부동산에서 자본시장으로 투자 패러다임 변화\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43R3dnVnVBZVEzU0NsUTI0SmN4X0c5ZXZhT0FpbmRTUWxONHpIV2YtVmxSZ09vUmMzOEdzS1dFX19WU3o0Z2JWamRYVGpzTWVKankwM3FRM3lJcVFoX2ZaNEJnVFBhN2FU0gFuQVVfeXFMTWJnUW5udWJSTF82MW13NEN5R3c4Ykx0Nmh1YVV3WmQ2aHlNM3gydVVKUmdJUG9rR3JlbkRjYjNabV9fbmVwN2FRb0FVWUlMb3RZY20yQzFPQUNRb2ZOZ0lseTAySjFXSVRTUXNhV0E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T10:34:08+00:00"
     },
     {
       "t": "민형배 전남광주시장, 반도체 중심 지역혁신 모델 제시",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVS1wVzBuekxOZ3RWem1nNFBXcDMyMnl2Q0NsVGk2dlU0dURTLWdBOEJPOTZKZWp6T3ZXXzlqS0lSUUtneXo0cEJJdmJ5b0EwdkdRYnN6MGxYdnc?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-26T10:25:00+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 美·이란 깜짝 합의 기대감에 일제히 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SE1xVjdfdWV4aGZMcjBhSHZvNXNpYV9WalpiZHVDV2J4dktYTm9NWGMzTDIzUk1NTFVwQWFLUG16WUtTZ3ByOEh4bVdsSnFoU2FZUDRDaURVREEwWU5oX0VtdU96VE5kQmcxSzBFX3I?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T10:19:35+00:00"
-    },
-    {
-      "t": "‘달러 대 달러’ 캐나다의 반격… 美 중간선거 겨냥 핀셋 관세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mRU4tci1hbk1zeU43OWlCUGNCU3RTNFJBMEZjdWFuRWw3SExrQ3RMSmVLSXZFYm00Q24tNHpWTV91dlE0LUg5NWFhS1VVX0k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T10:15:11+00:00"
     }
   ],
   "asof": {},
