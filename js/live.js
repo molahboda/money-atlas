@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T14:00:59+00:00",
-  "quotesAt": "2026-08-26T14:00:59+00:00",
-  "newsAt": "2026-08-26T14:00:59+00:00",
+  "fetchedAt": "2026-08-26T14:15:59+00:00",
+  "quotesAt": "2026-08-26T14:15:59+00:00",
+  "newsAt": "2026-08-26T14:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7686.6,
+    "spx": 7679.41,
     "nikkei": 66262.16,
-    "vix": 15.51,
-    "krw": 1384.98,
-    "gold": 4679.8,
-    "wti": 81.55,
-    "dxy": 99.1
+    "vix": 15.45,
+    "krw": 1385.38,
+    "gold": 4679.4,
+    "wti": 81.47,
+    "dxy": 99.15
   },
   "daily": {
-    "spx": 0.44,
+    "spx": 0.35,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.31,
-    "dxy": 0.19,
-    "gold": 0.9,
-    "wti": -0.98,
-    "vix": 0.39
+    "krw": 0.33,
+    "dxy": 0.24,
+    "gold": 0.89,
+    "wti": -1.08,
+    "vix": 0
   },
   "news": [
     {
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-26T13:06:00+00:00"
     },
     {
+      "t": "미국 7월 PCE 물가지수 전년대비 3.7%↑…전망치 소폭 상회 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNlN3Z0lidHMyRjVvM2M4MzluU18yX1VUTmYwQ3BmNk92SGJtUTJ5WlV2NFBVQXUtQkFQMEpPTFJZa2dVT0k5VEY0OF91Zlo5amV2bEIwTFZuZVVTelhIRkFpMmY0WTVG0gFuQVVfeXFMTWwxRmdTUmp5dW9Ib3VjNnhucjE0alRPM2N1S1V6TVFhUHh5eEVrV0hkNmtha1FDNnlVYXJYUm0wUGp4b3ZUWkhSLUptQ3JSZ0ozMXFUc3FhNTY4V01YRUo2R2l4VFViNFBwRUxNTkE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T13:05:14+00:00"
+    },
+    {
       "t": "美 7월 PCE 3.7%로 예상 상회…서비스 물가가 발목",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43Nm9vcGxaTHhjVUZKNnRCaUpmcTV2aE5nX3BSX09QZmM1WkdWTVo0bk8xdnIwZ055Y19CTG0tMmpCdi1WM1dqaE1NLWdkSTNuUl9ocWNpbmczZw?oc=5",
       "s": "파이낸셜뉴스",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlJWYXBhTElxUXVJQ2Z3QnJDdjk5MWIzYU5adHdwbWVTMnRUOXg5eFNtSFRiWUNQUkRxZnVnSWFQNGNSU1pIVW1UbHMxNzB1NUsyZDdweHNTZklHa0d6TFpYSTdJTzZ1UGJIWi0yZjFlcUZIX1o1SDVPclVGblVFVlllLTMtdEg4Y2hYeERB?oc=5",
       "s": "조선일보",
       "d": "2026-08-26T13:00:06+00:00"
-    },
-    {
-      "t": "[종합] 美 7월 PCE 3.7%로 예상 상회…인플레 둔화 멈추며 연준 고민 깊어져",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuczlaUkJSaDVqLVNNWUx0MjB2aFZQMndJdlM4QUNKaFkzQlhCSXVwZWVzdENTUjRqczlmbWlMcDRhT3hqZ1JHeVRVWW05dUZ2d2FEUV8xWEFSM2Jn?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T12:59:00+00:00"
     }
   ],
   "asof": {},
