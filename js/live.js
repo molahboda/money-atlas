@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T03:30:59+00:00",
-  "quotesAt": "2026-08-26T03:30:59+00:00",
-  "newsAt": "2026-08-26T03:30:59+00:00",
+  "fetchedAt": "2026-08-26T03:45:59+00:00",
+  "quotesAt": "2026-08-26T03:45:59+00:00",
+  "newsAt": "2026-08-26T03:45:59+00:00",
   "quotes": {
-    "kospi": 6847.85,
+    "kospi": 6859.38,
     "spx": 7677.28,
-    "nikkei": 66227.55,
+    "nikkei": 66254.68,
     "vix": 15.45,
-    "krw": 1386.88,
-    "gold": 4705.1,
-    "wti": 80.08,
+    "krw": 1386.51,
+    "gold": 4706.6,
+    "wti": 80.19,
     "dxy": 98.96
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.25,
-    "nikkei": 0.56,
-    "krw": 0.44,
+    "kospi": 2.43,
+    "nikkei": 0.6,
+    "krw": 0.42,
     "dxy": -0.04,
-    "gold": 1.39,
-    "wti": -5.8,
+    "gold": 1.42,
+    "wti": -5.67,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "호주 2년물 금리, 예상 웃돈 CPI에 빠르게 낙폭 축소…4.58%",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQjZYWlBIOFc1SF84c0lqU1BQd3BleExibkgzNGJWS3hGWHJXV1BaQVAzTTNKWEg2am01bG1XX1ZQdEtWTXhHYlE1ZFJENTF5aGpnMXJfejZoLVdMWnZpNzJPYlF2Mm9zUGFRUU9nRm3SAXRBVV95cUxNbkZWVHBqMkZhZlZEdWpxVUNuLVRBUmtyVndQZVQyWFh5cTA0ODEwYTFHemJQMFI0czlJR1pOQmc5STZmZ0NOdFJwa0ZNX3hQbGZxSXp1UEpqV1oxeHNWS2x3NERyb196Wmd0UldHeDVpU1RMbQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T03:36:16+00:00"
+    },
+    {
+      "t": "S&P500 선물, 대형 이벤트 앞두고 약세…美 국채금리 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTkZPcUJ4T0cyZTZuTWRGUHNnVXVkQ0t5SllVSDJpeWlzb0lvTzVIVGxhMmRGYWVBSlBCZ0g1VFdCZGw2UGVPT2Zhc3FINTlSa0NhUklLTGV5UkZaaXhDZ0ZyMGNzNHBDWUV3Vzh0aUk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T03:33:35+00:00"
+    },
     {
       "t": "[금통위 인터뷰] SC \"8월 동결 전망…최종금리 전망은 3.50%로 상향\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQkp6d2NwMFBKNFcycDdQYkdrWUdCaFhtcVV5VFFseHJwVzN1MkcweEptSFI4OFFVU0V4MFNOa1lMSUJGdVZCQnVqZ3B4YlJ2VldHNnkyZ2tKRHNPdGNHaVJGMERoTjBaaTl0ZWJwdUw?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-26T03:23:25+00:00"
+    },
+    {
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zMkFxTEZhN0ZHbncxYmh2YTJFdDJ4Wm5mekNsbjFXUFNmYmMyaG82UTV1b29waENnVVNFWVF6OG40dlRDOEQwRjJfdHhBOUFob1RoeWZMc3VLb1JodS1ST0s0NWJiRWpzUTNOUGNkZzI2Mk1Ndk1hRdIBeEFVX3lxTFB0eHIwYXluckdlNTFOZmcxdkx6TnVWQlhMaWpMa2pNTlUwcVZqVDN0QmlEeGVKSXptdjdDaVI3MThZRmFVY2JaamZpdzdZUHNwVHgyRUZCaFhNQm5IN3BOZjVUOXV0aVJVZWVYUEZCdnVLaXVlWDRqcg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T03:21:16+00:00"
+    },
+    {
+      "t": "트럼프 맞서 캐나다 '보복 관세'‥공화당도 \"실수\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82cDFFQ1dxcGpsTHo2WGMzbTdDc2kta0lpQjhWMnNtSEE5TnUtM1gxZ1hlcVJoenBPVTh1ejJvallITDNZWHFWcklIUmlUZzNVY3hNQlRwV2RGbFlpSnZGcGl1SWxCZXNqN3FuaV9JVTYzQU9Rbno4ZNIBeEFVX3lxTFBUOVBuTkhIclNyWFBFMkNqNjhIZHU3UjVrd1BZMXh6UjJWd0N0eTFxYkVfV0RESVFiY2pQZzBUTWdTTDcyZURlZkVMTmY0M0VISUV2VXo4WmV2UmRDbFhQR1BnRW9sZ1R4VlcwV3k4YkRjOExKcjV5eQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T03:16:23+00:00"
+    },
+    {
+      "t": "7월 주담대 금리 4.48%…2년8개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yMXl4SS1pQThuZDV5cHZfRTFaYjJzV2lfVWZXcWZ3dmktSFo1anM3SUNaNGpGS2FuUzRYVDAwSEhCSzJfVXVBbVc0STZfSW82bXZkWFhKTEVncDJCS3B3WFlDaVNsaWVuY3NOeDAycldkZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-26T03:15:00+00:00"
+    },
+    {
+      "t": "노무라證 \"8월 금통위서 25bp 인상 확률 최고…비둘기파적 전환 여지 적어\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQmd0RTAta0lNM1ByakxVRVFhWVlOZm9FWGJXNHpQVWo4N01ETlNoSGp3OUxOeW9vVE5zSTZwNW54Q01jSTY5ZWNHQVlxa1lOcVhMcjRyNkliZ0JISG5lUW1HbmhIY2hwQ0RzXzJNaFMxdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T03:14:55+00:00"
     },
     {
       "t": "캐나다, ‘미국에 최대 50% ‘달러 대 달러’ 보복 관세 부과할 것’",
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T03:08:39+00:00"
     },
     {
+      "t": "“증시 흔드는 AI 데이터센터 역풍”…美 중간선거 변수, 한국도 닥칠까 [이슈+]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PT2FQOXBWZFpncDNxY2FMZS1FUWtFemFaOWNEOWdMSE1iWWJTTFd2U014YjhWRnY2WnFKTDZoT05jQTJ4bDB4NnNwdUVHME5UMkR0WUZOS2k3YlhHTmQxcXRySQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-26T03:07:51+00:00"
+    },
+    {
       "t": "7월 주담대 금리 32개월 만에 최고… 고정형 상품 10개월 연속 상승 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHBPQ3lPWUpQY19KOTNsLWJDVVBXRDVrVzAtczVXM1Q3QW9ySnAzTlkwVG1sWm1JcEVHcW1aaXhsaGZVUmNxOElCb21ZYzFkY1hKTzZTQ0IyQVZzRkpxemw4TWlISzEzTEFfeWMwQjRZRkNnYjdwcUV1UXFZSGtPWlBFMVlUQdIBmgFBVV95cUxPNC02YURpcXNGdXRsV3lrbVM5VWJTUzR3WGk4amoxUXN1YUdDeWhsR0lJWWtZbGJydHNWcVpBRW9uY3BqdjF1MHpuNVNxSi1nbFYzalozVTl3YUhEaFJqLTUxVHlTY09xWl9jMFBVRlc1Rl9QNXB1bDdZOTdfbnZ5Q3c2dUEtcVBuc2FzOXNHQzRUa3ZON2FqOGVB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-26T03:04:30+00:00"
-    },
-    {
-      "t": "7월 가계대출 금리↑…주담대·신용대출 금리 모두 상승",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ1NtRTg2Vk5RcE1MLVotN2Y5VjRyTnJxbGk0MFhMNWVuOGVJRUpjeFY4YUJqaEVFbUQ3eWZ4dmRwVE1BWU5KcTRZYWJIS0U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T03:02:03+00:00"
-    },
-    {
-      "t": "가계대출 금리 석 달째 상승…주담대 2년 8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWlhyNGhYeE1YY1dYYWhxYjNLek1KOWhvaVVwRUZDdUJXSlpVdllGM1lNYkw1N2dTZHVYSll2VHJpTXNSV0JkeG1KMkR3Wmc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T03:02:00+00:00"
-    },
-    {
-      "t": "7월 은행권 대출금리 소폭 하락…주담대 2년8개월來 최고 수준",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTG56SktxS0pmaVpMSlo1SHNUbGQ3bkNfeVVPc1pIeURiT0JfZjlIRXV6aEJzV0xBSkNMM2kyX0s4bGdyM3NXYTJFRERsdU1CMHMyY29JZHBiSVhEQkVPUnhfZjJrSXhWMjI3RnA5S18?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T03:00:21+00:00"
-    },
-    {
-      "t": "7월 주담대 금리 4.48%…2년8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yMXl4SS1pQThuZDV5cHZfRTFaYjJzV2lfVWZXcWZ3dmktSFo1anM3SUNaNGpGS2FuUzRYVDAwSEhCSzJfVXVBbVc0STZfSW82bXZkWFhKTEVncDJCS3B3WFlDaVNsaWVuY3NOeDAycldkZw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-26T03:00:00+00:00"
-    },
-    {
-      "t": "이틀 새 5조5000억 몰렸다…다시 불어난 코스피 '프로그램 매매'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HSWlIUU9NcURBLVNKb1RqWllWdl9qVldMYU5idjRJbVFTMDA5SUdJVjNKTUxxSFNfTnR1LTBYUVZMSzZzejlIa2tRMkZPaWVBRW43UExqWkNJWjhw?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T03:00:00+00:00"
-    },
-    {
-      "t": "주담대 고정금리 비중 12년 만에 최저…변동형 선택 늘어",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZUIyaHpLM25jUjNCZGRaTGUxWnBjdWVycnJwM1VKSzAyTXE0QW5vSnhlSDlSZ21zVVM5SmhKaWFoZ0xxaUREdEF0MWxGTVd3Z01mY0tMRzd3bzZt?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T03:00:00+00:00"
-    },
-    {
-      "t": "캐나다, 트럼프 중간선거 ‘약한 고리’ 핀셋 관세…200억달러에 최대 50%",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wajVONGdjSWl2U29zOF82RFY2QUJjLVhMUWVFT2tTclpkZWg5YnFXemhyVm85eHktcTZ4WEdSckVSeFNlSDc3VFFKV29Hd3BQVjBzZGFLbjJGcF81b0tIeUdWV0xOT1YwZUVTV1N5MA?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-26T02:53:00+00:00"
     }
   ],
   "asof": {},
