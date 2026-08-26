@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T19:01:00+00:00",
-  "quotesAt": "2026-08-26T19:01:00+00:00",
-  "newsAt": "2026-08-26T19:01:00+00:00",
+  "fetchedAt": "2026-08-26T19:15:59+00:00",
+  "quotesAt": "2026-08-26T19:15:59+00:00",
+  "newsAt": "2026-08-26T19:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7686.09,
+    "spx": 7688.26,
     "nikkei": 66262.16,
-    "vix": 15.41,
-    "krw": 1385.39,
-    "gold": 4651.5,
-    "wti": 82.01,
-    "dxy": 99.16
+    "vix": 15.35,
+    "krw": 1385.03,
+    "gold": 4646.2,
+    "wti": 81.86,
+    "dxy": 99.17
   },
   "daily": {
-    "spx": 0.43,
+    "spx": 0.46,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.34,
-    "dxy": 0.24,
-    "gold": 0.29,
-    "wti": -0.42,
-    "vix": -0.26
+    "krw": 0.31,
+    "dxy": 0.25,
+    "gold": 0.17,
+    "wti": -0.61,
+    "vix": -0.65
   },
   "news": [
+    {
+      "t": "'칩워' 저자가 주목한 韓반도체 생태계[청계광장/신성규] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xUU5ZNVNBYVExWm4tSmt2R0poMHlWTVZWa3VWRV9UbUZBc2p4c29nWmdHVEo2SUJxNGpadXBpbDVvemhDUmFTdlBNRFRMVm5ZVW1wWVBWbUZkeUgzbm9xSl9KQlFSSWJ4VjVB0gFwQVVfeXFMTUhOR29vdlFmbGVfNHBQOWxVOVJsTGhTNEI0NW83RDNEUWgxN0JtaldUNEdJMUF0ZVluVXZPTzVTYk1qUUliOHhOTi1sYzVlQU9GRVgwSEJZSXR4SDZfb2RnbVJhMXB5YWJ2Y0dsZWpCOA?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T19:05:00+00:00"
+    },
     {
       "t": "[김종구 칼럼] 순댓국밥도 못 먹게 할 미친 물가",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcnlUQ1ZBbzhETy1MMVVaelRoZ2tkeU9rdFFZMWkxUjNSZDJSUTBlVmkyZWUxYjNHbEZHUmYzUlZDX0pzdnA5bHBTZjU0T3YzLS00YlM3elFhYjg?oc=5",
@@ -53,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzJNTFQ2RjVZbXlPcTlqcXIxcjMwbDM0WGZ0ZkdXNmVHeUtkVGxBenFzZERydzN1cDNFbEVyLUlwaldPcEpDeS1HbXJDOUNkUjdjaUI2NF9BTGFLQVZVSFdLVmF3TnVKeFZsSVhlNGFvaE92STA4U2FWMXV5ZFNzZlczNHo1WUNi?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-26T18:00:00+00:00"
-    },
-    {
-      "t": "[단독] 신용 높을수록 이자 더 낸다…거꾸로 대출 금리에 '울상'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZHZRdThKbngydG5VX3NxQTZhV0NSbHN2ZFlZSURtRF8xdVRaM2czRGFjNHNwUlNJbHo5aHZZM3ZXWURaaHhuXzJmVTh6U1I4UldtT0VsdnVsUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T17:55:00+00:00"
     },
     {
       "t": "\"변동형보다 금리 너무 높아\"…외면받는 고정형 주담대",
