@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T22:30:59+00:00",
-  "quotesAt": "2026-08-26T22:30:59+00:00",
-  "newsAt": "2026-08-26T22:30:59+00:00",
+  "fetchedAt": "2026-08-26T22:45:59+00:00",
+  "quotesAt": "2026-08-26T22:45:59+00:00",
+  "newsAt": "2026-08-26T22:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1384.11,
-    "gold": 4664.8,
-    "wti": 81.83,
+    "krw": 1384.18,
+    "gold": 4664.9,
+    "wti": 81.87,
     "dxy": 99.13
   },
   "daily": {
     "spx": 0.3,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.24,
+    "krw": 0.25,
     "dxy": 0.22,
     "gold": 0.58,
-    "wti": -0.64,
+    "wti": -0.59,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "'미국 통화 정책 신호등' 연준 잭슨홀 회의 개막...워시 연준 의장 첫 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tYmF1dnpIM3ZfSTZKSUEtZ0tYaTloYU11LU13emxyYkZHVEhTUVlzTzI3dV9yYW9qa3VnVi1yQTRYTjFrSmk4ME9acE1vc3FaeDlGVzJHOWtQaEtfV2c?oc=5",
-      "s": "YTN",
-      "d": "2026-08-26T22:26:00+00:00"
+      "t": "뉴욕증시 약보합 마감…엔비디아 시간외 4% 급등 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12SFJyY25tVXo4UGk3N0had184MzNfRHNGbE9jQ3dpZ3VLZjJTY19DX1BiMGlOZHVkaVFJYk53Nl8yVl8wMGhCSlNJYzlUTXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T22:40:39+00:00"
+    },
+    {
+      "t": "미국 순매수 1·2위 반도체 ETF…상승 베팅 나선 서학개미",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02NVpwdlNmZ2szajV2WXhlNlQ1XzVsWjNsXzRhRHhQZGMtdUQ4ZHo3YjJqcXdpS3owYjBfeWRyNm14cG15WWY3SFNIdmJ1VmZGeDlacGhrSmRxS3c0QWJNSk13?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-26T22:40:00+00:00"
+    },
+    {
+      "t": "뉴욕증시 약보합 마감…나스닥 0.08％↓",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5GOFE1RGI3Snc0QllpLUo4Y053aHg1Z3B4a21UR0lRLVMwV01EVDE1ZGNycXhaZ2drVHVFQzhFc1JESG1vLV9VakFBR2NSUnR4cTBGaWxpZ2p3LXdpemMwSTJMOExIY1dxUGQ4d0ZPQ1NzcjhfZnZFZHREODdxdEdUd3VrSFlo?oc=5",
+      "s": "TBS 서울",
+      "d": "2026-08-26T22:38:00+00:00"
+    },
+    {
+      "t": "국제유가, 호르무즈해협 에너지수송 회복 기대감 등 영향 3거래일 연속 하락",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CbHJJb0xnMGQxRGhjS3ZGb3p3bmdreGVwWWk2X1FqZGQ4c3FUN0UwTTJUcnBVLVlWS0JCaTFVaTF2RDR4b2s1M0VGcmhtSDFwTnVGV2JNLTdwWTc4dWc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-26T22:36:05+00:00"
+    },
+    {
+      "t": "뉴욕증시, 엔비디아 관망·물가 경계에 하락…나스닥 0.08%↓",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XWGEwNzBwekxTYmxRSTBic2FCaUVTVk5fVi1JUk1aa1N5b2JWVUZWNjNJSjRpdkh6aERMbUlqS3NuMElHV2o5MVVyYVpFQTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T22:32:00+00:00"
+    },
+    {
+      "t": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZjE5TVlDMHZsNjlIT1A5dDlXUk5fUjBia3gweUUzUWFsNnQtakJlamtSQ1pJOUVpdFZBeHlXY2lvcS1OeS1XN0NtaHZXUlZMbGlKSDZucHh5RDVtTEVwalhLR3ZYOE9JZ2xFRU1aWVk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T22:30:20+00:00"
     },
     {
       "t": "뉴욕증시, 엔비디아 실적 앞두고 약세…물가 부담도 지속",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T22:24:16+00:00"
     },
     {
+      "t": "[뉴욕 마켓 브리핑](27일)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OUI3alVTSGRaUm5vSGkyUzRxZjhQckxOVGg2MF96UG5FdUl2Tzh6UjRGR2ZGaDFFNG9kSF9JZmZjNjdFYWVNZk1lX2hjVktrQU5kOHVMb3FJSmlCXzhZdlQ0bXFTUXpqMHVydW9nUFVLUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T22:19:12+00:00"
+    },
+    {
       "t": "[채권/외환] 美 국채금리·달러 동반 상승…PCE 예상 상회에 금리 인상 기대↑",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3YVBNbXlRM0pwZWlTWjNIOUtiNWxGdktZVDhlejZEYjd5QU9ZcVNIang5eExBU3BZc2xmc01HdUE2ZUIyVFk0RDY2YjR0LVdick9CUV9DUzdvSGNs?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-26T22:19:00+00:00"
-    },
-    {
-      "t": "7·8월 이어 기준금리 오를까…한은 오늘 드디어 결정",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvWnVMZ3l6YTlTeTVjOEJwMjNYZ3hIeDlGQnlPMlliQmV0V1gwMnp5TFcyd3lSbngxc0FRUlR2WDBDckVfVE5tRmxlekpWN19O?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-08-26T22:17:55+00:00"
-    },
-    {
-      "t": "李대통령, 최태원·이재용 잇단 회동…美 반도체 '추가 청구서' 조율",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91MS1jcDF3TFZMdzNEcE5heFBwVHJwMGdDS0tNdmtSbGRHM1BrSXkwMFNCWFgzbVVfbXY3blV4V3lYQmQ2X01xd3ZSZkZuem1MTGIySmdsTkRnbFdMaDRBTVM1THl3cUNVSXhUWEhNV0E?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T22:10:15+00:00"
-    },
-    {
-      "t": "[증시전략] 엔비디아, 분기 매출 962억달러…13분기 연속 신기록",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KNVNBbEpqWVozQ3RoLURWWjE3V2xHb0NYLXNsWndDZkhmeXVhNGVfMHRSaEpKOFhKMlB1WGF6N1h3Vm9GeXB5RWE1UXpjQ28?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T22:10:08+00:00"
-    },
-    {
-      "t": "뉴욕증시 약보합…PCE 3.7%·엔비디아 매출 2배",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpYy1lcVZvYTV0cGNBTkU5YWRHdnVkNHFSZDZIRTgxRHFQc09DczdGdU5pOW54QTIyWnhraHM0eDZRRVk5WmVPSHRpZ1l1RnVuWXFJcVpyUThUbWl4aXFUcDZKTF9IcWNCUHc?oc=5",
-      "s": "OBC 뉴스",
-      "d": "2026-08-26T22:07:03+00:00"
-    },
-    {
-      "t": "[0827개장체크] 美 증시, 엔비디아 실적 관망·7월 PCE 경계감에 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5INWZCbDI5RGE0cXY2bkJZdnlnWUR6dklKTHVoLUdySjZ1UWJiZFdpNnhlUXIxdk5SdVJIckxBbnBrYndURjJvNjVNLUNlNnNPTk9NYzhXbmQ0alVZNXlPaHVtTUlZVHY3Z05jYmljempvVmpOOXc?oc=5",
-      "s": "인포스탁데일리",
-      "d": "2026-08-26T22:06:59+00:00"
-    },
-    {
-      "t": "이철우 지사, “식품산업, 반도체에 버금가는 국가전략산업으로 육성해야”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHX2JlaHVwcUhuVFVhZWFtNE50bHhYUEZqR0dhSzNFZE93RkZ1d1hjZVdpUWx5WGVnN2FuWGl1T0dHTWVrUWFJM0xTWkdWXzB5?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-26T22:06:41+00:00"
     }
   ],
   "asof": {},
