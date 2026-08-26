@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T11:30:59+00:00",
-  "quotesAt": "2026-08-26T11:30:59+00:00",
-  "newsAt": "2026-08-26T11:30:59+00:00",
+  "fetchedAt": "2026-08-26T11:45:59+00:00",
+  "quotesAt": "2026-08-26T11:45:59+00:00",
+  "newsAt": "2026-08-26T11:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.62,
-    "krw": 1384.36,
-    "gold": 4677.4,
-    "wti": 80.14,
-    "dxy": 99.03
+    "vix": 15.64,
+    "krw": 1384.04,
+    "gold": 4675,
+    "wti": 80.31,
+    "dxy": 99.02
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.26,
-    "dxy": 0.11,
-    "gold": 0.85,
-    "wti": -2.7,
-    "vix": 1.1
+    "krw": 0.24,
+    "dxy": 0.1,
+    "gold": 0.8,
+    "wti": -2.49,
+    "vix": 1.23
   },
   "news": [
+    {
+      "t": "박찬대, 인천 경제 새 엔진으로 기반산업 변화와 반도체 추가해",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84RUVkVVZiTnZjZFZtVE8tSjlab3BrWDRYMUNHaHp5Y1g2T21oX2JGSDZXdU92endvMUN0b2ZuX3FNRV82RTREZlh6eU53ZW9KellHcEI5R0xiQV9VSExOS0pSMzk5OWxIOFBHenFkQQ?oc=5",
+      "s": "인천뉴스",
+      "d": "2026-08-26T11:36:45+00:00"
+    },
     {
       "t": "UNIST, 태양광 수전해 효율·내구성 높인 유기반도체 광전극 개발",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NjFvSzRTWkVKck85TkZpU3Myang3Y3plR01Ccnhmem1tSDAxVXlITHpoTEZIREc5VjdjSV9SNzlQSGh5LU1Yd0pPMjdCRkN4WFN3ZlNTUjdmTlM3UkpVcEdvakU5bF9LbXg1R9IBcEFVX3lxTE9UUTFrOXZDbG05ZWhzNDlVamdNNFdOQ1Rpc1N2S2xsQVV4NzBDRUR1LWlmb2VZWkxZc3kwWFdkYUp1Z2JZY2VnVk5BUEF6WmxyTFZXVnVyN3NUM21EaUFSb0o1N1U0OUl3TEU2UkM5QS0?oc=5",
@@ -37,16 +43,28 @@ window.LIVE_DATA = {
       "d": "2026-08-26T11:12:00+00:00"
     },
     {
+      "t": "美-캐나다 관세 싸움에 일본이 긴장하는 이유는?",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNEF5d3hTN2xqeUtPaE44WTlZamNzc0ZFckVEblhjR3NaWEpac3JNa0d3N3ktZV9sdFdEWGlLVzA5elRHX1hCeTBDWW9GUTd0SXBjVGxjTE0wZ2JMTVhfVTNoUWxKS1puelNFNUJpaUpmZjhzWFI3ONIBeEFVX3lxTFBqa0lmVExRY3FaaUExX1BZeGtma2x1U2NaZFY5UF9wQlcta1pKZzV2MUpldDRJMGJ4dEpvZS1QOW56NUVSU3FyM0JkWlhWQnl5M3lId2lKYUNUeE9iSzYzTWVQckwzM25ydHhlb3IzcXIwTDdpUVFkRg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T11:11:27+00:00"
+    },
+    {
+      "t": "[단독] 신용 높을수록 이자 더 낸다…거꾸로 대출 금리에 '울상'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZHZRdThKbngydG5VX3NxQTZhV0NSbHN2ZFlZSURtRF8xdVRaM2czRGFjNHNwUlNJbHo5aHZZM3ZXWURaaHhuXzJmVTh6U1I4UldtT0VsdnVsUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T10:59:00+00:00"
+    },
+    {
       "t": "박현주 \"반도체는 미국 말고 한국에 지어야…공급과잉 와도 치킨게임\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SYlFPSTJYc3o1ZlZRSVRhUE9GenFGd1ltX2RFamstZU01QVpEVDhwX2NMUS1rV05VemlyX2JvTk93NGNpUkN6NTVKUTRKaG43Qjh0NHhnWW5TYU0ybXZjLUZaNlB6SUhNTVdpamd2MUVJZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-26T10:52:10+00:00"
     },
     {
-      "t": "박현주 회장 \"부동산에서 자본시장으로 투자 패러다임 변화\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43R3dnVnVBZVEzU0NsUTI0SmN4X0c5ZXZhT0FpbmRTUWxONHpIV2YtVmxSZ09vUmMzOEdzS1dFX19WU3o0Z2JWamRYVGpzTWVKankwM3FRM3lJcVFoX2ZaNEJnVFBhN2FU0gFuQVVfeXFMTWJnUW5udWJSTF82MW13NEN5R3c4Ykx0Nmh1YVV3WmQ2aHlNM3gydVVKUmdJUG9rR3JlbkRjYjNabV9fbmVwN2FRb0FVWUlMb3RZY20yQzFPQUNRb2ZOZ0lseTAySjFXSVRTUXNhV0E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T10:34:08+00:00"
+      "t": "민형배 전남광주시장, 반도체 중심 지역혁신 모델 제시",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbkpuTDVCcWN5WGVDdWdQenZ6b25ZTjFINm10bVlyZzJJTy1DR3BRbXotTkc0aTZEOFNUOVdia1FBd0xHVHViSjZWeV93OW8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T10:26:06+00:00"
     },
     {
       "t": "20조 중 6조는 ‘반도체 지원금’…“꼬리표 지원 우려”",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mRU4tci1hbk1zeU43OWlCUGNCU3RTNFJBMEZjdWFuRWw3SExrQ3RMSmVLSXZFYm00Q24tNHpWTV91dlE0LUg5NWFhS1VVX0k?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-26T10:15:11+00:00"
-    },
-    {
-      "t": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hVVNQSWh2MjM0ZjBTUENVZnE1Vk1RY2F2clVhTWRBa3JVaWJrdnFoeHJkcEV5TDhXd2FnaTZWSGdYSFdyZjV4VE5KZlhjRjg1YWZxWktIQ1ppMU1oazdDUVgzM3VFWWN2NHUtM3NWOA?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-26T10:15:00+00:00"
-    },
-    {
-      "t": "일본은행 총재, 미 금리 인상 압박 속 잭슨홀 불참",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wcmNLbEhFTkdQcExENFM2WlgxeEFmTWZwa1dBU1pMOUJFZFlkVjRfTENfelFuTmUzSHkyR1NwN1JsNVcyMk9jMXhUQzlBLUdGMUNPUm1ia3JMV19hOGc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-26T10:12:00+00:00"
-    },
-    {
-      "t": "7월 가계대출 금리 4.64%, 석 달째 오름세…주담대는 2년8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6Q2ZnX21CYVN6THFVS3lWR01jNjJveFAxcHFEcUxhRlVTUFZxU2lqNkYzZldZd1BzY2JUNnhDVngwOE1qcGQxelpuWnd1RGdIUzJveGlEMElXVGNHVVVOZkhVay0wNnMz?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-08-26T09:57:53+00:00"
     }
   ],
   "asof": {},
