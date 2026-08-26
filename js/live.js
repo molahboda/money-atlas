@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T17:01:03+00:00",
-  "quotesAt": "2026-08-26T17:01:03+00:00",
-  "newsAt": "2026-08-26T17:01:03+00:00",
+  "fetchedAt": "2026-08-26T17:16:00+00:00",
+  "quotesAt": "2026-08-26T17:16:00+00:00",
+  "newsAt": "2026-08-26T17:16:00+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7666.18,
+    "spx": 7671.13,
     "nikkei": 66262.16,
-    "vix": 15.7,
-    "krw": 1386.39,
-    "gold": 4651.1,
-    "wti": 82.9,
-    "dxy": 99.15
+    "vix": 15.6,
+    "krw": 1385.96,
+    "gold": 4647.3,
+    "wti": 82.69,
+    "dxy": 99.18
   },
   "daily": {
-    "spx": 0.17,
+    "spx": 0.24,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.41,
-    "dxy": 0.24,
-    "gold": 0.28,
-    "wti": 0.66,
-    "vix": 1.62
+    "krw": 0.38,
+    "dxy": 0.26,
+    "gold": 0.2,
+    "wti": 0.4,
+    "vix": 0.97
   },
   "news": [
+    {
+      "t": "도도 토토 : 주요 이정표와 혁신 (2025년 최신판)",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcEpHRkVORWtaNXBBMGxJNmF1TGlDZ3dHU19nZVFxVEpKVHhsaXB6cHptUHJmbXpxeXk5WENoZENjS3YwSlJ5bzE1WjlSN3prR1VucFVfOHEwbV9vOUhCZ0RxY3U?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T17:12:37+00:00"
+    },
     {
       "t": "美 7월 PCE 물가 예상 상회…연내 금리인상 기대감 확대",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByeWJtSWNMUWxPVnFDRTRFTmVTZkZEclh1bnF2YW1OdGRrNk9KaDlzaTRibm9hNDZSekFNVmhlRTNuVmF4Vy0zeXF2TXNZd1VZWDdZR3lHYUlmUmE5ODVTdnpuSVdJWmdK0gFsQVVfeXFMTkJPSGEwVy1SSXJmNW05c3FNZHZMSkRaeEZNaWx5Rnc2bDN2MHNScmdhd2Qzc0NfNmEya0swMmYtUDZvbDlvYkM3RlJNWUVrSFdQSWxxX0VFeFpDcHNuZ0pUdnN3VXBNOTFGbFQ0?oc=5",
@@ -69,12 +75,6 @@ window.LIVE_DATA = {
     {
       "t": "금리 오르는데… 불리한 변동형 주담대 12년새 최고",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZEV3cS1jcFN4czBydjB1c2tkcjhlTU9wM240dFJRY0lZcVBXSmY2elp2NmN2UGhOeHNFMXFSdmFBLW9nRElDSzNpa1RxRTFxR2xuUFFkUFdDX0o4QU1RQlNaclBGcWtvTGt1aXYzc29kZE9oM3fSAWZBVV95cUxQWFUwdWNSdFIyaW5ONTlzRWJIQlFIdGpxeFI3M2FndWNGMm1sYVd2YkJybnhtb2cxcHE0RVVnUk85OUVWRVVJOVpxdUx2QmhZRXFyVVVUTTdUS0pxeVlLNE83X25YRVE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-26T15:30:00+00:00"
-    },
-    {
-      "t": "반도체 끌고 서비스업 밀고… 8월 기업 체감경기 4년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhYTltcldEU3pUY2Z2djExaV9JRGxwRFNfejZCZ2hRbDJFQmF1cTZHeHhwMGNhWVZhTU02NElKNUd4cGZlVnFGTTIwNlo4Tkt0ZXlWRHNuYVNZRGJSNXhoUHAybDlEUVppY1BSdE9PZ3gyTkVIRXfSAWZBVV95cUxNVWdraDNFWlh4SG04WmtVYVZJQTY1YUxJOVY4bVQtdUI1aDZQYkxtQ29scXVhUnd5eTUtWVpieDlRN1dQbVlheGQ4ZkJHTzJxWkhVQXg4dEtoZlpvVlp6aEJmQ0VDbnc?oc=5",
       "s": "동아일보",
       "d": "2026-08-26T15:30:00+00:00"
     },
