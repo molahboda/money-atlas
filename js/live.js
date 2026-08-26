@@ -1,40 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T01:15:59+00:00",
-  "quotesAt": "2026-08-26T01:15:59+00:00",
-  "newsAt": "2026-08-26T01:15:59+00:00",
+  "fetchedAt": "2026-08-26T01:30:59+00:00",
+  "quotesAt": "2026-08-26T01:30:59+00:00",
+  "newsAt": "2026-08-26T01:30:59+00:00",
   "quotes": {
-    "kospi": 6718.74,
+    "kospi": 6754.31,
     "spx": 7677.28,
-    "nikkei": 65495.61,
+    "nikkei": 65593.9,
     "vix": 15.45,
-    "krw": 1384.51,
-    "gold": 4701.7,
-    "wti": 80.4,
+    "krw": 1384.48,
+    "gold": 4704.7,
+    "wti": 80.48,
     "dxy": 98.93
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 0.33,
-    "nikkei": -0.55,
+    "kospi": 0.86,
+    "nikkei": -0.4,
     "krw": 0.27,
     "dxy": -0.07,
-    "gold": 1.31,
-    "wti": -5.42,
+    "gold": 1.38,
+    "wti": -5.33,
     "vix": -2.52
   },
   "news": [
     {
-      "t": "출발증시 1부",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWVIcklEWWZjMDZpWGxvaVc4RXkyOEpBWFVBVWJJMndDbi1BQ04tR0dFX1FhUlNrak41YUJOUDBJNTRaQlhvd0F1R3RySmhlN0RVblZJRkVFNURPYWVURUE5Y2J1T1ZvQWNDQ3JTS0NFS0xmZmY0bnFWcG5zYWNEcGpqMEVRakNiZlZXS2Y3eER2UlJ2bFZFRjI0eUtiQXdVN3Vr?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-26T01:07:52+00:00"
+      "t": "WSJ “‘롤러코스피’로 전락한 韓 주식시장···투자 아닌 카지노” By 투데이코리아",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rRXdnSmpXMW9rbF91ci0zWGFlZ20zOEE4S051WFJTbXpGNEh6ZE5VRnYzbGdPRDd5VGtZV3BhYnlacml4YWhxQUNDZGRGNVBmYklzTGNvRG9LcWVobUJOblF2c05JbHdxQ2JUVzN3NF8?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-26T01:22:00+00:00"
+    },
+    {
+      "t": "유가 하락에 美 국채 강세…베선트 재무장관 ‘금리 방어’에 숨통",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uWWVMd3NQRlhsd1QtN3ZvdDM3YjZ0TjdLa2hyRk00ZmwzN3ZLaklzSjFyUFBIRThtS0dsdjV5UE1DQkdHSFJ1THdadUNPcmFvS0g4N0JoM01GQVphZHc?oc=5",
+      "s": "더구루",
+      "d": "2026-08-26T01:17:54+00:00"
     },
     {
       "t": "호남권·용인 반도체 산단 용수 공급 과제…기후부, 점검회의",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HRFNiemxPZkFFVkRfdG5kdTBDV1NpU2NkTER5WWNibC00SzJvVUt0RjNoVnczTlVscjExdEc3VVZ5MzVjM2MySWxwYW9xODNJTm5TNXljNDFXZUU?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-26T01:00:03+00:00"
+    },
+    {
+      "t": "반도체 산단 용수, 기업 투자 일정 맞춘다…정부, 용인·호남 공급사업 점검",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByei1mdFlpdENUdGdYQ1U5UXgzU2pTZ0tSNllLd01adVNSVi12Y2xlZlZwZjJHOUVxdGxISk5FMGtxcWtPYjVuNUtWUXhuUVI5UzdIaFI4WlA0bkhoSWY2TVpnSzNJTm54blVn?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T01:00:00+00:00"
     },
     {
       "t": "신한은행, 고금리 대출금리 9.8%로 일괄 하향…1년 연장",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SLUw3OVBwUUpZTUxBSlExcmI2VkFzUmFLMjhuM3R2cFB0ekxaWnI1NzJ6aXNlYWVkTmc5M0tTaTJCdnNfZ3VmUXdINE5ScUJDUWxrTUlXUjVVVlZ2dElHTw?oc=5",
       "s": "아시아경제",
       "d": "2026-08-26T00:49:30+00:00"
-    },
-    {
-      "t": "[포토] 코스피, 하락 출발 직후 상승 전환",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCRWw0QThDYW85SnhUaG5OeGNyMHluNGpDR0tRbUlha1JId01Gd0RTWUtLbkx0R3NxeG56OGVaNjV2U05xSkV4WVFiVEJxSEFFY1I2TVB4ZXAwRDlBUVpYVw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-26T00:48:50+00:00"
-    },
-    {
-      "t": "[포토] 원달러 환율, '1380원대 유지'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xTDZqXzlQVTBwZWNuQ3B3X1dxMHBXdTZKbzBsSjFuSXFORTFpRldvTk1QT05ETERJRlM2N2xNVUJPNllBZk8zdnI2STRBM1JIMlF5dmdfSHotcVRPdnlaUg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-26T00:48:25+00:00"
     }
   ],
   "asof": {},
