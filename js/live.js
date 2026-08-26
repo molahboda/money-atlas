@@ -1,25 +1,25 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T06:15:59+00:00",
-  "quotesAt": "2026-08-26T06:15:59+00:00",
-  "newsAt": "2026-08-26T06:15:59+00:00",
+  "fetchedAt": "2026-08-26T06:30:59+00:00",
+  "quotesAt": "2026-08-26T06:30:59+00:00",
+  "newsAt": "2026-08-26T06:30:59+00:00",
   "quotes": {
-    "kospi": 6824.36,
+    "kospi": 6819.21,
     "spx": 7677.28,
-    "nikkei": 66303.05,
+    "nikkei": 66243.75,
     "vix": 15.45,
-    "krw": 1384.48,
-    "gold": 4696,
+    "krw": 1384.38,
+    "gold": 4688.8,
     "wti": 80.81,
     "dxy": 98.99
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 1.9,
-    "nikkei": 0.68,
-    "krw": 0.27,
+    "kospi": 1.83,
+    "nikkei": 0.59,
+    "krw": 0.26,
     "dxy": 0.07,
-    "gold": 1.25,
+    "gold": 1.09,
     "wti": -1.88,
     "vix": -2.52
   },
@@ -49,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-08-26T05:50:03+00:00"
     },
     {
+      "t": "뉴욕증시, 반도체주 강세·국채금리 하락에 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41b1U1T2tYZWo4SGxJV0I2U01CWDBBWm56ZnJ1b2Y3MUZ0UWg1Qkx6ZzIyT0pvQnlFMXdGSWx5cUhyUTdlT3Myd3FSNnhKZW9tOWVsZWN1MmIzOV9qNGpaYjRaWjRWMGpwRjhnZ2d0WnhpOVF20gF0QVVfeXFMUGZGRUhPazBfbUZIYURpNE00SkJoMWd4UEhtZFdMZTU3dWE3Q0FDS3dtTHRoTFpOMmhtaU9xS0x3eVdEbms0a1ppOGlpNnQ1VU5xVG5EZXI4MDc0U1NhX3lUaDRDU1F1QmRkMVBJTGZWOWhxQm8?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T05:43:32+00:00"
+    },
+    {
       "t": "6주 만에 40% 폭락…WSJ, 韓 롤러코스터 증시 조명 By EBN",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNHZvRHM1b1JhWFR2MVkzcWFfUzRXazBFaW5MdzRjRjBabG5XSXpfUTlBWmJxTFFESTQtbUtPb2tuZ3lzQTRGdVVEc1ItZEp4ZTJkNlhNTHpVSGRqWTlMNmc1dV9aZzBQOFk5NHc3Y2I?oc=5",
       "s": "Investing.com 한국어",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T05:34:00+00:00"
     },
     {
-      "t": "규제로 카드론 조이니… 금리 더 높은 현금서비스·리볼빙 증가 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVM4dlRmbmxvNUZQeGhGbVBKczBiRHVNNFZTOU5Oelk1a19ocUJKQ0d3UEV2dkU2ODFsaWNhRjB0NTc1aXRZTUwya1Bpb09OcnZtSXhhOTNqQW0zU3c0Q2pfSzJUYjdnYnJla3g4VDE4c09peTltazFWTVdzTnlTX9IBlAFBVV95cUxPc0tlLW9UczQtbnJtV0JhcWNPeTktcDEzWUIzSm5Mc3cxYkdGeXZRRkJ1ckJ1TENPVDUxRzlGM0NQek0tUDZNVDh5NUpnNEpxdHZoQ1pEU2d5Q2FNTkNzbWNxZ2NkcXJ6aEtRbUdaakx0S0JHTFpXdnVPMm1mWlNHUTB4eVVFa2FHUGF5U09FUl9uTzBH?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-26T05:32:40+00:00"
-    },
-    {
-      "t": "국립목포대 화합물반도체센터 직업계고 반도체 인재 키워 글로벌 기업 취업 연계",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11aWZmSFRxaUxQTUhTeGk1ZDNNUzhfaE9YOWlDLXF3UkdxMGVFVmFMbFgtS3hlYjBtLV9XUkJNekZoNmFVLWp6R0Ytc3B3UVl0RFd2b3VQcTdZWG0yc1hOMTBScDZlU2t5djMxaw?oc=5",
-      "s": "베리타스알파",
-      "d": "2026-08-26T05:32:03+00:00"
+      "t": "국장 쓴맛 보고 떠났던 서학개미…1300원대 환율에 '울상'",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSUlxcnBfR3lNY1JuUEFIWkxrWE9qbHNmYjhESDhHZGNVZmxEUHh4dVNaS2FLYTZzNVhwMy15bV82cmVDeXZ0eU5oNzhJV3RHOG1ScF9lRElhTlN4N0E?oc=5",
+      "s": "아시아타임즈",
+      "d": "2026-08-26T05:33:00+00:00"
     }
   ],
   "asof": {},
