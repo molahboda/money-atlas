@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T01:45:59+00:00",
-  "quotesAt": "2026-08-26T01:45:59+00:00",
-  "newsAt": "2026-08-26T01:45:59+00:00",
+  "fetchedAt": "2026-08-26T02:00:59+00:00",
+  "quotesAt": "2026-08-26T02:00:59+00:00",
+  "newsAt": "2026-08-26T02:00:59+00:00",
   "quotes": {
-    "kospi": 6734.98,
+    "kospi": 6739.97,
     "spx": 7677.28,
-    "nikkei": 65604.59,
+    "nikkei": 65686.78,
     "vix": 15.45,
-    "krw": 1382.63,
-    "gold": 4699,
-    "wti": 80.44,
-    "dxy": 98.94
+    "krw": 1382.18,
+    "gold": 4709,
+    "wti": 80.58,
+    "dxy": 98.91
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 0.57,
-    "nikkei": -0.38,
-    "krw": 0.14,
-    "dxy": -0.06,
-    "gold": 1.25,
-    "wti": -5.38,
+    "kospi": 0.64,
+    "nikkei": -0.26,
+    "krw": 0.1,
+    "dxy": -0.09,
+    "gold": 1.47,
+    "wti": -5.21,
     "vix": -2.52
   },
   "news": [
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LUUN3RHJvRG1yVXZ6UjQ5cWJhNGg0bzhZM1RvZjdzZHdqbnBiNUJQNjdJX1I0dkhSWXcyTVZ3RzhMeWVCRUs3SkJhbFotaEttbDVjSEJ2VExucmwwY2FUZTFXaTZIYm03R3lPbFFlb1NUZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-26T01:38:43+00:00"
+    },
+    {
+      "t": "[속보] 반도체발 7월 대기업 수출 90.7%↑",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52WEU2czJ2bDJNXzR6b0JmVFp0a0FmTWxjWVEtX3FjYkxkVUI2amtJWHVzYlh1ZHZDcnpZaGduZjBVdXc0WGp6QWtVVHZCc1FDdklOSlA0cGx0NUtpb3dqNEI2bWpmUndJQzZnaQ?oc=5",
+      "s": "한경매거진&북",
+      "d": "2026-08-26T01:35:00+00:00"
     },
     {
       "t": "S&P500 선물, 대형 이벤트 앞두고 약세…美 국채금리 혼조",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T01:23:24+00:00"
     },
     {
-      "t": "WSJ “‘롤러코스피’로 전락한 韓 주식시장···투자 아닌 카지노” By 투데이코리아",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rRXdnSmpXMW9rbF91ci0zWGFlZ20zOEE4S051WFJTbXpGNEh6ZE5VRnYzbGdPRDd5VGtZV3BhYnlacml4YWhxQUNDZGRGNVBmYklzTGNvRG9LcWVobUJOblF2c05JbHdxQ2JUVzN3NF8?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T01:22:00+00:00"
-    },
-    {
-      "t": "유가 하락에 美 국채 강세…베선트 재무장관 ‘금리 방어’에 숨통",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uWWVMd3NQRlhsd1QtN3ZvdDM3YjZ0TjdLa2hyRk00ZmwzN3ZLaklzSjFyUFBIRThtS0dsdjV5UE1DQkdHSFJ1THdadUNPcmFvS0g4N0JoM01GQVphZHc?oc=5",
-      "s": "더구루",
-      "d": "2026-08-26T01:17:54+00:00"
+      "t": "반도체발 7월 대기업 수출 90.7%↑…중견·중소도 5개월째 증가",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IZDJRcFVhSWFpcnV5clljV2tGWGNHWmpsT0xvSFIxWmxKb2YxU3lUMHprQ3liQmdOc0FvdDV5MTBsTkFCZm9pdXZBNHNfbFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T01:22:52+00:00"
     }
   ],
   "asof": {},
