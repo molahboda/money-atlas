@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T03:15:59+00:00",
-  "quotesAt": "2026-08-26T03:15:59+00:00",
-  "newsAt": "2026-08-26T03:15:59+00:00",
+  "fetchedAt": "2026-08-26T03:30:59+00:00",
+  "quotesAt": "2026-08-26T03:30:59+00:00",
+  "newsAt": "2026-08-26T03:30:59+00:00",
   "quotes": {
-    "kospi": 6846.19,
+    "kospi": 6847.85,
     "spx": 7677.28,
     "nikkei": 66227.55,
     "vix": 15.45,
-    "krw": 1387.38,
-    "gold": 4715.3,
-    "wti": 80.42,
-    "dxy": 98.95
+    "krw": 1386.88,
+    "gold": 4705.1,
+    "wti": 80.08,
+    "dxy": 98.96
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.23,
+    "kospi": 2.25,
     "nikkei": 0.56,
-    "krw": 0.48,
-    "dxy": -0.05,
-    "gold": 1.61,
-    "wti": -5.4,
+    "krw": 0.44,
+    "dxy": -0.04,
+    "gold": 1.39,
+    "wti": -5.8,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "[금통위 인터뷰] SC \"8월 동결 전망…최종금리 전망은 3.50%로 상향\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQkp6d2NwMFBKNFcycDdQYkdrWUdCaFhtcVV5VFFseHJwVzN1MkcweEptSFI4OFFVU0V4MFNOa1lMSUJGdVZCQnVqZ3B4YlJ2VldHNnkyZ2tKRHNPdGNHaVJGMERoTjBaaTl0ZWJwdUw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T03:23:25+00:00"
+    },
     {
       "t": "캐나다, ‘미국에 최대 50% ‘달러 대 달러’ 보복 관세 부과할 것’",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUkJTb0FjZ0h4cHREZnF1bHNjVmxaODRtcFNnNVlKS2NDX25ZYmtvSldIT3QwTFZKd2ZORlc1NTNzczBINUxyTnhtemxVQUd0aHk4aEhyVkVtekxt0gFiQVVfeXFMUERwbVFleExWUlZTYTR6NWhoNE9aTTJBUHg0VUlhQ2xIa2ZrR19LOXVhVVMxRlo4YmxtZDR1MHdXM2xPWmJsRmNzY3YzOTBxZ0xMWVBuQmtCc01WcGtVQVBybFE?oc=5",
@@ -35,12 +41,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHBPQ3lPWUpQY19KOTNsLWJDVVBXRDVrVzAtczVXM1Q3QW9ySnAzTlkwVG1sWm1JcEVHcW1aaXhsaGZVUmNxOElCb21ZYzFkY1hKTzZTQ0IyQVZzRkpxemw4TWlISzEzTEFfeWMwQjRZRkNnYjdwcUV1UXFZSGtPWlBFMVlUQdIBmgFBVV95cUxPNC02YURpcXNGdXRsV3lrbVM5VWJTUzR3WGk4amoxUXN1YUdDeWhsR0lJWWtZbGJydHNWcVpBRW9uY3BqdjF1MHpuNVNxSi1nbFYzalozVTl3YUhEaFJqLTUxVHlTY09xWl9jMFBVRlc1Rl9QNXB1bDdZOTdfbnZ5Q3c2dUEtcVBuc2FzOXNHQzRUa3ZON2FqOGVB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-26T03:04:30+00:00"
-    },
-    {
-      "t": "지난달 가계대출 금리 '가파른' 상승…은행 주담대, 2년7개월 전 회귀",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10alA1Vy13c1Itb3AzSnBDLWY5MzVVUVRuT2JhamROYkpfUmlHXzFBSWtSSWJocWJKMTIxQ0Vpd2cwb09ycFlEVFBjQk42QW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T03:03:00+00:00"
     },
     {
       "t": "7월 가계대출 금리↑…주담대·신용대출 금리 모두 상승",
@@ -61,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-26T03:00:21+00:00"
     },
     {
+      "t": "7월 주담대 금리 4.48%…2년8개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yMXl4SS1pQThuZDV5cHZfRTFaYjJzV2lfVWZXcWZ3dmktSFo1anM3SUNaNGpGS2FuUzRYVDAwSEhCSzJfVXVBbVc0STZfSW82bXZkWFhKTEVncDJCS3B3WFlDaVNsaWVuY3NOeDAycldkZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-26T03:00:00+00:00"
+    },
+    {
       "t": "이틀 새 5조5000억 몰렸다…다시 불어난 코스피 '프로그램 매매'",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HSWlIUU9NcURBLVNKb1RqWllWdl9qVldMYU5idjRJbVFTMDA5SUdJVjNKTUxxSFNfTnR1LTBYUVZMSzZzejlIa2tRMkZPaWVBRW43UExqWkNJWjhw?oc=5",
       "s": "뉴스핌",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wajVONGdjSWl2U29zOF82RFY2QUJjLVhMUWVFT2tTclpkZWg5YnFXemhyVm85eHktcTZ4WEdSckVSeFNlSDc3VFFKV29Hd3BQVjBzZGFLbjJGcF81b0tIeUdWV0xOT1YwZUVTV1N5MA?oc=5",
       "s": "한겨레",
       "d": "2026-08-26T02:53:00+00:00"
-    },
-    {
-      "t": "유가 하락에 상승세…엔비디아 실적에 촉각[Asia오전] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qb0Z0RDVPMHc5cnRwNl9vOHpHWVFWanJwclFTbkdHZV9leHBOYk9vb0lZLUl2RUdhbGhDUWctUlo2akJUUWZ0dHNybW1TSlJFRk1RWmpTVnpUT1A3eThYY3hoRHlGdkox0gFuQVVfeXFMT1dxUS1xQUk0VlBkUjdpaGlVMEttOUZkUE9xZERONDhvSlgwZmNsZGJJeVhLNGhhQmpRNktfRFZDejNMdXhTcWl5REtCamk0T25wN2FPeW5NUVFXRlJhNDRod1BPMjl3Ul9XNUFHRkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T02:50:47+00:00"
     }
   ],
   "asof": {},
