@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T09:15:59+00:00",
-  "quotesAt": "2026-08-26T09:15:59+00:00",
-  "newsAt": "2026-08-26T09:15:59+00:00",
+  "fetchedAt": "2026-08-26T09:30:59+00:00",
+  "quotesAt": "2026-08-26T09:30:59+00:00",
+  "newsAt": "2026-08-26T09:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.68,
-    "krw": 1384.3,
-    "gold": 4682.3,
-    "wti": 79.89,
-    "dxy": 98.98
+    "vix": 15.7,
+    "krw": 1384.63,
+    "gold": 4678,
+    "wti": 79.71,
+    "dxy": 98.99
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.26,
-    "dxy": 0.06,
-    "gold": 0.95,
-    "wti": -3,
-    "vix": 1.49
+    "krw": 0.28,
+    "dxy": 0.07,
+    "gold": 0.86,
+    "wti": -3.22,
+    "vix": 1.62
   },
   "news": [
     {
-      "t": "중동發 인플레 압박에…ECB도 금리인상 속도 높인다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BVHdhSEJFaXZvSldfMm1FdnRockhTNThoOFdlQktCRFphU3pDSmZvWFc4Z256WTB4VTVyWHY5X0tDZmRNYlBSUW0xYVNBQ1k3YTQ3b3RCQV9zQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T09:03:01+00:00"
+      "t": "금리 뛰는데…지난달 주담대 68%가 변동형, 12년새 최고",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkam5fY2RqLUQ4eDM2ZkJLQTY2YkMzME9xaU8zQV9VQmxSZDFpMU9VQ0JCckc5WWUwaVV5RlpvRXBqaDNTNUZJTlhYbEN6a0FZdi1xdV9xS2JmdklDbkpPRkE0S3habWNrSGpmb1J2RlZRTXBUWWfSAWZBVV95cUxPUV9YemdFNjdVRFlkcTloeUI1NVJEOHdfZ18wMjFoQ0dYMTJrYzhQcm5mekQ4UTlhMGUxU3RjWjNiTmVySzJtb3B6bzZtVU9OYmJ0V0JKWGZxVWpXbGVucGVITE9KTGc?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-26T09:17:04+00:00"
+    },
+    {
+      "t": "[중국증시-마감] 기술주 강세에 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Mk9EeFZYaHdTbUtKeHRYTk1faWs1VWl4YUtIX2xqNUFNNjgxX1BELUluY0NsRlBpel94ZnUyeExNb2w3ZnVJRzNnMHBRTVo4R0phS09XWHhZZVFwZlpmMWx3LURlM3ppUUVvQVE3Zjk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T09:13:29+00:00"
     },
     {
       "t": "[뿌리 기업 인터뷰] 씨씨텍, 디스플레이부터 반도체까지 소재로 산업을 잇다",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanZKR0x2eEN5Tk1GelcwV245dThJUDl6M3pfX2dqZTM2SU1YdW9rSnZaS3BrY01OMGg1UG9hTFhILVBmSk5sSHhETjkxd2p0ZUFKZFlCdjRHQnNfVTJ1dWtxNDlVMjF3UWluS3kyOG9PdzZ2RlpDNVNWdjJpNGo5Qm9Nd1FUSDQyNEhmb1JR?oc=5",
       "s": "조선일보",
       "d": "2026-08-26T08:41:00+00:00"
-    },
-    {
-      "t": "[금융권 풍향계] 우리은행, 반도체·피지컬AI에 1조원 공급…‘K-SPARK’ 시동 外",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FLTNwaWVoSGFqelh2djR1MlMtNC1QMllUR1VTbzFiRGRJRDVpWDFXWEhqS1IzaDJpTlZUWWRBWTJYSUFXaVYwckRqMWhXMGIwMXdrcGZCVzBvemFxd2d6QXVHNA?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-26T08:37:24+00:00"
     }
   ],
   "asof": {},
