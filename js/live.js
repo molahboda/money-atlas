@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T17:45:59+00:00",
-  "quotesAt": "2026-08-26T17:45:59+00:00",
-  "newsAt": "2026-08-26T17:45:59+00:00",
+  "fetchedAt": "2026-08-26T18:01:00+00:00",
+  "quotesAt": "2026-08-26T18:01:00+00:00",
+  "newsAt": "2026-08-26T18:01:00+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7674.82,
+    "spx": 7673.95,
     "nikkei": 66262.16,
-    "vix": 15.42,
-    "krw": 1385.61,
-    "gold": 4655,
-    "wti": 82.63,
-    "dxy": 99.14
+    "vix": 15.4,
+    "krw": 1385.38,
+    "gold": 4654.1,
+    "wti": 82.61,
+    "dxy": 99.16
   },
   "daily": {
-    "spx": 0.29,
+    "spx": 0.28,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.35,
-    "dxy": 0.22,
-    "gold": 0.36,
-    "wti": 0.33,
-    "vix": -0.19
+    "krw": 0.33,
+    "dxy": 0.24,
+    "gold": 0.34,
+    "wti": 0.3,
+    "vix": -0.32
   },
   "news": [
+    {
+      "t": "\"변동형보다 금리 너무 높아\"…외면받는 고정형 주담대",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xU0xOYTU3Q0ppa2RneG90M0ZTRm9mcl80RHZUaGV5OUFYZHZTTmticTBFR0tmdmxaaXVqRm0zblE0U2ZQSUtzWWwxeElDampiLXFFeXhWVVlCUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T17:53:00+00:00"
+    },
+    {
+      "t": "토토이크 호감도 컷 학생를 위한 글쓰기 기술 심층 분석",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81cjdpWFNNN083R0tLSVNXUG5ZZm1FTGpxOWlBWmxIdDF2REl2eWhURXB3Z3lhSVVrRlN5eUFld3dVRldSUDJkQ2VSMVcyZkhZa3Y5M1I4MmZsQQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T17:52:50+00:00"
+    },
+    {
+      "t": "“반도체 호황, 2030년까지 간다” [한경 프리미엄9 TODAY]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRUZSUkxHWHQ3T0FSNUdCb3pFM3VkbU9HdWlRcDJtNVA5YzFrdEJYa3BRWEhkX25UNnNNLUpIWnRrMTJDeVRaVU9yNk9Qa0FRSTVFY0xRUGdZUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T17:46:00+00:00"
+    },
     {
       "t": "유럽증시, 이란·오만의 호르무즈 협상 주시하며 보합권 혼조… 美 물가 지표도 소화",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbFItMlpGOWQyOUJpRXlCdnhCWHRQd0tYNWpXdGUwRlpWdU5qRW1yT0FmUXJxZGxFNGdCN2tiUldsNFVDcVBYZDJMaHJDZDFoY0RPNmFzc1kwR2Zj?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByeWJtSWNMUWxPVnFDRTRFTmVTZkZEclh1bnF2YW1OdGRrNk9KaDlzaTRibm9hNDZSekFNVmhlRTNuVmF4Vy0zeXF2TXNZd1VZWDdZR3lHYUlmUmE5ODVTdnpuSVdJWmdK0gFsQVVfeXFMTkJPSGEwVy1SSXJmNW05c3FNZHZMSkRaeEZNaWx5Rnc2bDN2MHNScmdhd2Qzc0NfNmEya0swMmYtUDZvbDlvYkM3RlJNWUVrSFdQSWxxX0VFeFpDcHNuZ0pUdnN3VXBNOTFGbFQ0?oc=5",
       "s": "블로터",
       "d": "2026-08-26T16:39:49+00:00"
-    },
-    {
-      "t": "올 코스피 신규상장 4건…2022년 이후 '최저'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52NldiaVVzTkllVE5wTXkyaUdSUmtUaTZLVmtXVVFqWVJYQnkzaWM2SkVNWXNMN2hsTk1aYTFmb1lKV0pabEVrSkNrc3ZiYlVPbm5LdUJhQzFmUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T16:16:00+00:00"
-    },
-    {
-      "t": "“물가 안 잡혔다” 달러 4주 만에 최대 반등…9월 금리 인상 확률 40%｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FenRxcnUyeFNpMm5oSWxHZzhicHJqUmx0UjZITFNOa3ZuS3YwckpYdEUtNUQwOC03dmVTSlMwMDloSjZfTWtBc21uejZrUm9hX1ZjZXpIV1RBZVE?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-26T16:11:42+00:00"
-    },
-    {
-      "t": "한은 금통위, 기준금리 연속 인상할까…동결 전망도",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OF9qZTZVSWpHbGt3dFRDamJhTktmaEcwQURxdWVKOWlBczNfWG5LQ1ZPeElERk9BWGd3T1JOaEJMZzNYbW1VNTVEMnl5cGs5X0J6cW5yaHlMNnc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-26T16:02:00+00:00"
     }
   ],
   "asof": {},
