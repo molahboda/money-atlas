@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T07:30:59+00:00",
-  "quotesAt": "2026-08-26T07:30:59+00:00",
-  "newsAt": "2026-08-26T07:30:59+00:00",
+  "fetchedAt": "2026-08-26T07:45:59+00:00",
+  "quotesAt": "2026-08-26T07:45:59+00:00",
+  "newsAt": "2026-08-26T07:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.65,
-    "krw": 1384.65,
-    "gold": 4689,
-    "wti": 80.18,
-    "dxy": 98.97
+    "vix": 15.69,
+    "krw": 1384.62,
+    "gold": 4689.7,
+    "wti": 80.07,
+    "dxy": 98.95
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
     "krw": 0.28,
-    "dxy": 0.05,
-    "gold": 1.1,
-    "wti": -2.65,
-    "vix": 1.29
+    "dxy": 0.03,
+    "gold": 1.11,
+    "wti": -2.78,
+    "vix": 1.55
   },
   "news": [
+    {
+      "t": "미·캐나다 관세전쟁에 '빙긋' 웃는 나라",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IMVFkLVJtR1dSZmQ1Mmd2OHhkbDBIaS1BamlvS1pCOGZFTlozWlg2enpSc0thRnJNRlY0N29zSVpGTVdnSm84NzRJLUptcjA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T07:36:00+00:00"
+    },
+    {
+      "t": "'삼전닉스'가 끌었다...코스피 1% 반등·코스닥 보합",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wREFkRjJ0RDlpRWVpQzR2czVuUzQ0TU0zOHE4WklwYlZjWjRlQ3BVWXotZWFQM25EZGFqMF9UUFd5SDlnM1JhRVdGekhtNll4TWVoWlRTYl9HRU5ySE5zdEFCdkM0ZG5GTnRFRzBmZlJzSXUyanc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-26T07:30:00+00:00"
+    },
     {
       "t": "코리아넷뉴스 - [사진으로 보는 한국] 차세대 반도체 패키징 산업전 개막",
       "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVU9hSVdDakctaF9pZGROOXcyNEVaUVZQREJ6c1hONTNrWDFJaDFkb2FsZ19mVzVFejBqbkdsT0tSNm1PQ2JwaS12cWhuMDFydVpNRkFzNVduY0Q0cGFrWjUyQ2JlSFRNR3cxRTFRcERwZWppeHlHbGVBNmdCalFzUDRyT2g2LVdULXgtYmxncG02R3Bta2VwaDdFRmhBLWI5V1AzT3NhTEcwR09BS19oajZPWDd6WFZSVWRQUnp1NDJFVF85ZXcwU3lkeTlqVC1YMVdWdy12RE5ocTBLLU40R240UWxHaDJGcDV2Z3Q2RDNxOXNvcUE?oc=5",
@@ -31,10 +43,28 @@ window.LIVE_DATA = {
       "d": "2026-08-26T07:25:10+00:00"
     },
     {
+      "t": "'물가 안정 위해 소고기 관세 면제'…트럼프·집권 공화당 내분",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MLVNuVnpPc3gzY2IxRm54ZmY2djZsdUlrSFU1QUFBd1ZaT3ZFTzVGcTdyZmQ3NjVHaTc5NnpuRV9NaWhySC01eE9vMjRKQTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T07:24:00+00:00"
+    },
+    {
       "t": "주금공, 9월 보금자리론 금리 동결",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zaHh4c3d0eHpxVTFYRzZNRlV2QlZOMm80dEpfUDNSUW9aaEhxOVhodF9UQVdMdTFnY2pueFlCNlJ6dmpFQ2FRbGpjX2lsWkpLamV4MENTQUthd19UQWRpNw?oc=5",
       "s": "아시아경제",
       "d": "2026-08-26T07:23:31+00:00"
+    },
+    {
+      "t": "‘전약후강’ 코스피 6800선 회복…개인 2조원 ‘팔자’에도 0.97% 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56MzczSXU3RjZlWm5Wa242dDVhQlJIUTZGRkstZHdMRF9DWTJyNGJFVWEzZGxmUm1meUZrOGxJUTk5b29US05ucWJMWGNnQTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T07:21:00+00:00"
+    },
+    {
+      "t": "상승세 돌아선 코스피...6,800선대 탈환",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRSjdYUG5Od2lIdUZ4MW1IZXFPTWc1OF90bFBMeVEwNUxMM1NXTWdGaEhVQkQ2WW0wYnEwTU9ncXU1VFl2dlpxVkxQallMbzY1cUpmUkxTWVl3SUdSeDEwUTlwZ1F6VW85TGZB?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-08-26T07:20:32+00:00"
     },
     {
       "t": "금통위 인상 경계 속 금리 낙폭 되돌려…국고 3년 1.5bp↓",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T07:17:03+00:00"
     },
     {
-      "t": "개미 2조 '팔자'에도 코스피 6800↑…반도체 자사주 매입 견인[시황종합]",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GU2xva2ZUZE9LTlhMQkcycG5GaEl5c0dwdC10WnlpU2cybUptQjRWcFU2NVNmRlp3Q1VlTWdGTm5UR1NyRHVuX3RsaDdwV1hIUEd4cE1zT21xUTJDSTVF0gFkQVVfeXFMTTlOQUJwaF8wdk9hYkZFUEhxRHNhaUtxMzJWZzluSjlmUVJYbWdOUTFIVm9aYXp4cGR1ZS1rc0tEeVhjNFJRMFNXRUdnU3hCUmdhRlFLMGo5YTBwdW5XbzZwQmNqMw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-26T07:15:10+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 기술주 강세에 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yWWV5WjlVY1laTW03V3NLMmNOQ3gwVjRkWkl2Ri1JZ0hCQU15cVoxaHlpeE1oeHNyTVFiN0h6RjlOM0E0QklQNl9jWFZWTUZ5eWRQX0doeGNiYXZmSkJSdUdVb2oxSU9Cc0h3NGl5YThhZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T07:13:28+00:00"
-    },
-    {
-      "t": "코스피, 하락 출발 뒤 0.97% 상승 마감…코스닥은 보합",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PSi14N0hOX0JEQzFTSmJ0WnpJZHQ1TWVWWmhSdjdhX3VBT0pfbE5wM21obkp6Ti1PUVRoaFVENS1tMVBKcHpVVzY1dUZVYTQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T07:10:37+00:00"
-    },
-    {
-      "t": "약세 딛고 반등한 코스피…6,800선 탈환",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oOWJobnYzdnhwYkQ4SkFwODdFWFFxVzFjV3B6bmtyVHBQZUhxbmd0LUMyN292ajdpeXMyOW44QkZOS2xUcHB5YlgzbVRnR0xCWjRmZnNCSEFRdjdzZ0U1eGdyeFZfVUk?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-26T07:07:00+00:00"
-    },
-    {
-      "t": "반도체 인재 양성 ‘국책대학’ 한국기술교육대, 수시 806명 선발",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pN1Zicl9NcVhaRkNfTGFSUEhEOEZNUVdKejZSR2hoa1BXQW5wQTBKT3V3emswUjFyc21vckNzckc2UGgzaUd6ZXpBc2pvdGdX?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-26T07:06:53+00:00"
-    },
-    {
-      "t": "코스피, 6800선 회복… 삼전닉스 자사주 매입 여파 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hdnJDQktwOHBYTGhlOGJHNFZYdXQ2RkVGTjFQZUQ2dXVLVU5aR1RWQ21BakNmRXBTUlRzeWRBMG5EeWVfX3VLSFpQeDR0b001NWNQdzZGc1M4c180bG9RTHZ0WV9rRnR00gFuQVVfeXFMT2FmUFVpeVRtWmMzbXN0MjJTQk1DUHlGelVCTzlheHFUUEYtaGVwZ25HTGpfTmt0blFlRWU2QWhvb0NxWmdZZHo4Ry04LWFyY1pId2Y2RDV6Y3RlNThkUGRMNmhGYXVLTjEwZjNTaWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T07:05:08+00:00"
+      "t": "코스피 6800선 반등 마감…금리·유가 안정화에 회복세",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lTGpZRXRQdHdyRE5VWHdVVW94dGdmWV82NmlvQV9GZG9YNmNfRExTMi0tSXp5WTdObkdqMkpldEh0RjFZek5JZEVzbXNtUQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-26T07:16:22+00:00"
     }
   ],
   "asof": {},
