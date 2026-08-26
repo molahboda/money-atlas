@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-25T23:45:59+00:00",
-  "quotesAt": "2026-08-25T23:45:59+00:00",
-  "newsAt": "2026-08-25T23:45:59+00:00",
+  "fetchedAt": "2026-08-26T00:00:59+00:00",
+  "quotesAt": "2026-08-26T00:00:59+00:00",
+  "newsAt": "2026-08-26T00:00:59+00:00",
   "quotes": {
     "kospi": 6742.74,
     "spx": 7677.28,
     "nikkei": 65856.43,
     "vix": 15.45,
-    "krw": 1382.18,
-    "gold": 4717.3,
-    "wti": 81.03,
-    "dxy": 98.9
+    "krw": 1381.98,
+    "gold": 4711.7,
+    "wti": 81.07,
+    "dxy": 98.92
   },
   "daily": {
     "spx": 0.04,
-    "kospi": -2.46,
+    "kospi": 0.68,
     "nikkei": 0.5,
-    "krw": 0.1,
-    "dxy": -0.1,
-    "gold": 1.65,
-    "wti": -4.68,
+    "krw": 0.09,
+    "dxy": -0.08,
+    "gold": 1.53,
+    "wti": -4.63,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "NH證 \"반도체 주주환원 고려시 달러-원 1,340~1,350원이 지지선\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nSERxT1BwbXk1QkgyZ0R6MmcxTktUSldFTE45cVJaY1RsaEp5RkJnQmZLY2pqNnp2amxGT09ndk5xWnBGQm5idmFiZGxFUzVVSkdDQ2RRc29jS0pVYU4xRWZZaXpneGk0VHZfN050M2FaUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-25T23:52:54+00:00"
+    },
+    {
+      "t": "뉴욕증시 3대 지수 일제히 상승…반도체주 강세·국채금리 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iWm1oTXQ5aWozWnBsUlRyMk91TEwtWlpxQlNONHZjN21QSnF6ajQxRHpsMXpaZTB0U2M4c0xvYmZ4c1JHT1hud3JVYUhGdkRLSTU3d1RRSjVUbzJXa3FRWHNQeGk?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-25T23:48:22+00:00"
+    },
+    {
+      "t": "코스피 4거래일째 기타법인 1조원대 매수세…정체는",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DUzcwX00zeUJodXU5MzI4Mjc3Wjl6Zk1Md0hmczByNXpZd3dhTU5BSklibjZrdVh6ckNNNlM3Q2lTb1Q5OGtISGFUTmRFTm1sQ3ZhUkJoczV0bjBiRVJJZjlHTUVucm1EeVMwM2tzWWI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-25T23:43:29+00:00"
+    },
+    {
+      "t": "신한투자증권 \"코스피 2분기 영업이익 서프라이즈…올해 이익 전망 상향\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Yzd2NHBkOHFNQzJfRkJnQmNXb25QMEtPdGhJX2FWM2Z2OXF1U2Z5RkRiZ3dqcFFES21pU1I4Mk93TWc3SThvVWxla0VsZG8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T23:39:01+00:00"
+    },
     {
       "t": "캐나다, 대미 ‘달러 대 달러’ 보복관세…미 중간선거 경합주 겨냥",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wajVONGdjSWl2U29zOF82RFY2QUJjLVhMUWVFT2tTclpkZWg5YnFXemhyVm85eHktcTZ4WEdSckVSeFNlSDc3VFFKV29Hd3BQVjBzZGFLbjJGcF81b0tIeUdWV0xOT1YwZUVTV1N5MA?oc=5",
@@ -43,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-25T23:32:04+00:00"
     },
     {
+      "t": "[어제장 오늘장] 4% 급락 딛고 반등한 코스피…외국인 매도에도 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUQXJuX21UVmF4NWwyUmg0WU0yRkFNYUxicjZvenlzRXhRTGFuSnBfbUtNWWh4YnN4MlRxaTVZRUtBeEN5VC1kSzVRdTZUOFE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-25T23:31:58+00:00"
+    },
+    {
       "t": "신한증권 \"코스피 2분기 영업익 서프라이즈…올해 컨센서스↑\"",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LWXNXN3BoVFFTOWlISXhSWWF5emlCMUZrX0dzN1B1MElxa2E0OXdwMFYwblh6WkQ2c0FNMHQxck02enlmR3dSMENfSEkxSElhanpWRDBKN1NfWXPSAWBBVV95cUxPUjctd0RRV2pmaGY1RVZsTzE1WktiUWo4Wl96cUNGYXlLdUNhTmxPd0d1cUtYSG5oX0otejNvMjQ3eC1UU1gzWTlrM3RZRFR5cTZTbXRyXzI2VEp6RlM1Y1M?oc=5",
       "s": "연합뉴스",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yWnYyOUhrS0pkU3E2ajJ5cENHbDRxNkF0bWVTOFRDMW9YcnZXZUZROFJkMmlXaUczZzhUYkFFd3p1Um1xdDhqRG1rMEhuODROcUtUMWNNc0JPa0VHNWFnMEJoRlZuRGxiSXdnamcyYVc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-25T23:28:00+00:00"
-    },
-    {
-      "t": "[해외시황] 뉴욕증시, 금리·유가 하락 속 반도체株 반등에 '상승'…나스닥 0.66%↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rNVozeHFiX09OS1lBUXVtOWdnTGNQandPX3VyZk40eDEySVkwWDQ2elVYTm9Zd0kxblZKZC1lcWJtMFlRY0ZmQi1SMVhLVURSdzhwWGJpNkhreXR0bE5yTQ?oc=5",
-      "s": "프라임경제",
-      "d": "2026-08-25T23:25:17+00:00"
-    },
-    {
-      "t": "“금리가 갈랐다” 엇갈린 투자심리",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aR3VzZHZCS1I2eEktLXZnT2NEOGdQODBQcDYxTVN3Ukc2OWZtenp6Z2Zneklyenh4NXI4Z1l6YllzeDA5REdPZVZNVVQ4cl8zMzIxYjlPLWxqUVA2cnNkaXF6ZVRMaUcxek9ydQ?oc=5",
-      "s": "한경매거진&북",
-      "d": "2026-08-25T23:21:00+00:00"
-    },
-    {
-      "t": "美 반도체 훈풍에 코스피 추가 반등 시동…엔비디아 실적 ‘분수령’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pcFlqYVVvbW0tMWRuN1ctWGJla00wbl9HVE1VTVBBQlY5RkQ2WVFTT1JDV1ZsYUlUeXFwMU41R0FOOEdBS20tT3I3bnRWUWtvQU0xUzhlVG5xZw?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-25T23:15:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 美 국채 금리 하락·반도체주 반등에 상승…나스닥 0.66%↑",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fa25BOFdVSjNaZ1FrME5ySUpNUkttaTJaN01QbF9POXY5QzJ0Wm45Mzd3YlpYdmpzRHhodDZiZnRHYUxTWUZ1RUVpSGFDTGZrOEFnei1jWHV1OURCZ19lTlBQa0NWN1BLckdQRUY5NA?oc=5",
-      "s": "조세일보",
-      "d": "2026-08-25T23:15:00+00:00"
-    },
-    {
-      "t": "[모닝 리포트] \"금리 하락에 국내증시 상승 전망…회복 탄력성 주목\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5b1JTMEg4UHlVeHlTbFVZa3BCR091aTVmYWpnbzdVbHI1ZDlaUmxtNXNSMk9JUFFJZFYxUUxvOExVTk5YclUtLUdPUlFSOTJmbjE0MlY3ZHI5Y0Nr?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-25T23:14:00+00:00"
     }
   ],
   "asof": {},
