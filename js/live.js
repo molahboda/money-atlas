@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T15:15:59+00:00",
-  "quotesAt": "2026-08-26T15:15:59+00:00",
-  "newsAt": "2026-08-26T15:15:59+00:00",
+  "fetchedAt": "2026-08-26T15:30:59+00:00",
+  "quotesAt": "2026-08-26T15:30:59+00:00",
+  "newsAt": "2026-08-26T15:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7678.29,
+    "spx": 7675.38,
     "nikkei": 66262.16,
-    "vix": 15.41,
-    "krw": 1386.1,
-    "gold": 4646.1,
-    "wti": 81.93,
-    "dxy": 99.2
+    "vix": 15.49,
+    "krw": 1386.18,
+    "gold": 4647,
+    "wti": 82.12,
+    "dxy": 99.17
   },
   "daily": {
-    "spx": 0.33,
+    "spx": 0.29,
     "kospi": 1.66,
     "nikkei": 0.62,
     "krw": 0.39,
-    "dxy": 0.28,
-    "gold": 0.17,
-    "wti": -0.52,
-    "vix": -0.26
+    "dxy": 0.26,
+    "gold": 0.19,
+    "wti": -0.29,
+    "vix": 0.26
   },
   "news": [
+    {
+      "t": "스포츠토토 구매방법 디자인 분야 자산 배분의 고급 기술와 혁신",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eGI3ZXZHWWlraEotb1VSUzNRdHJMYjZjMFJPenNSVWlHYV90NTlvc0tpR3VoYmhLN0FHYnYtRk9XSUx5UXBmbE0teV9XRTVTcG9JaWdWeXg?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T15:23:26+00:00"
+    },
+    {
+      "t": "[윤성민 칼럼] 中 반도체와의 전쟁, 결국 공산당과의 싸움",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBreWIxQ0o1TV9lenlUNW9xdU45VnlYYkZ5UGc1dVNjVWpFUlMtbWkzVXhlSVEzRVAzUXRCekNHRHNiaFo4cGFFZDlHbklJeWRKT3R0MHJ5SFRjQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T15:22:00+00:00"
+    },
     {
       "t": "캐나다 보복관세 치밀했다…“미 중간선거 경합주가 타깃”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYjhpczFNNTczWmFmSldETHFmVkQ5czlzSXlPSjlKd0VIUGtWZV9GODRjVGZadnNnWnJqZEZ6M2ZuUmVQSHJFeTNpUGV4a0QtRm5OeE5B?oc=5",
@@ -37,15 +49,21 @@ window.LIVE_DATA = {
       "d": "2026-08-26T15:00:00+00:00"
     },
     {
-      "t": "이상일 시장 “‘용인 반도체 프로젝트’ 성공하도록 모두가 힘을 모아야”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOFhtelJQNk1HNmtIT2pkNlZ0MERJZ3pGZGhvczNDam1DMWRFbm5rd3NIS3owbE1BcGlSaUpZc2VEVWpwSHc3QTMzSmhTYUU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T14:11:56+00:00"
+      "t": "민형배 시장 \"서남권 반도체 클러스터, 정부가 직접 지정해야\"",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBERGthZ2FmUk1xRDhMbk05R2YybFBtWnRQUUktbmtjZ2RtRjFFamk5WHp1RVEwcVdFaGtubU96UkhsdGtmc083cHUyb0p5RU9aSDMwYlZmdXZMbld3VElfSWtJVlZtQ2Q1NEg3MVd1SQ?oc=5",
+      "s": "진일보",
+      "d": "2026-08-26T14:56:44+00:00"
+    },
+    {
+      "t": "미국 7월 PCE 물가 전년 대비 3.7%↑…전망치 소폭 웃돌아",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Tc3hfNi1kNG1Benp3dEZsLWV0amM2VlZET053ektGcW1QbTBocW5SMG5mTVRCZ0RWQTF3aFNMcVY1QW85R01CTjY0Tk8yVFR5ZnpQUFgxajgwbzQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-26T14:47:00+00:00"
     },
     {
       "t": "뉴욕증시, PCE 지표 소화하며 혼조 출발",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CWG1GeUhkVWpiTXNPWFhJMm10UkwwYmhvNUNRVDE4ZzQxLTFra1draU5uWkxBa2ZKbElzVE1pc0JiZ1FhQlpjWE9CWUo1MlZoNXc?oc=5",
-      "s": "매일경제 마켓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRVpWZldqWkxrNExBREE5TUJzcFpzZDl2eXNlWjNIRExYZG4yRnNXb3BXX0k4WXlGS0dCbGxRX3hiRlR1RDB5X1RpcVZsc3l3dFBxcWpVaXptRWfSAWBBVV95cUxObW1NbWlfWVZFcENkcFZ1OS03VnNGVXBrdlZRNnQ1Tkg5Z3djWHdNSEFieXBldldEbEpMT1JCblJuZFJDVGFINlBWcnRmaDFnMXV2bnBHNDA0Ry05Snp3RWI?oc=5",
+      "s": "연합뉴스",
       "d": "2026-08-26T14:06:50+00:00"
     },
     {
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T13:38:00+00:00"
     },
     {
-      "t": "美 7월 물가 예상 부합 속 소비 정체…금리 동결에 무게｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVWJTT2lEbTkySjVOUDBCdncwRjJ3NDNfNkNlOWpBTjl6bUN1Tk1BLUg3YVF5UExrUEE5VXlfdFFReDE0NjEwYjVXNU5tTnpGNDBGelo2SUdkaGs?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-26T13:27:34+00:00"
-    },
-    {
       "t": "미국 7월 PCE 물가 전년대비 3.7% 상승… 전망치 상회 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZV9qX1ZXWGE5ek9pSWN6MlRBcXdjQzIwUmpXeDBQMlhuM24tU3VsbTkyNklJTFZHVjZnVG5abV9PMVVHUU50eXd0OW40cm5fUmpXUmt0cm1TSWt1OGFCeW1DdWFmNzIydHpyWTBhaFZTSTFlZ3VBV0MwUlhXOWdSV3NZRjMtRmZlOWpoa1Z1TmN4UXNUTXdENzM4WDJzZ9IBsgFBVV95cUxPTnlLUnE0T1ZPandFRTZzT01mLXNKbV9CbzhNU0hOOGVkTjRBYjcxemdKbHl2T2Nia0V5QVI0bGFQa0pQT2Jib2l4UzcxWElSc1ZNeVh0Y1FGN01XTHJTZTJ2anZGMHEzTjJEcXBaNm5yODB5ZmUtcy1pVmt2UlpxN2V2UENWbTJuZU51VUh1QzBRV0h1anI4MjhhMnlTWnpZRlB1UjYycU5fdDQ5bkhGQllB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-26T13:09:00+00:00"
-    },
-    {
-      "t": "美 7월 근원 PCE 예상 부합…헤드라인 물가·개인소득은 강세(종합)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydjFXd3dTc0k2MDAtNXozT1lOM3NzcFdjbjJLQU1iZ3huTU5xSVBlUk5KWFg2VElBbnlWOTZ1aXdhWnFFai0weGNleDRZVmdrODJaSmxMYTVuWnozNFdrMTRBeG82dDBqQllQYzBCRndZdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T13:08:51+00:00"
-    },
-    {
-      "t": "캐나다 증시, 2027년 최고치 앞두고 잠시 하락 전망",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PZ0lMT0JvSlo5Q01QX3VQZ3VPQ1NOV2pia1JSdkJJcWIxOTUzSVI0TzRndmhFMFByVVdJNUNmOGI3WXhBTTM3alA4dFM2R0tKWVZyTmdXN1pCdGNyUGlnWjFCZGRPazlUQmR5RFUwVUw1RFhGZ1kw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T13:06:00+00:00"
     }
   ],
   "asof": {},
