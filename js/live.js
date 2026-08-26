@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T19:15:59+00:00",
-  "quotesAt": "2026-08-26T19:15:59+00:00",
-  "newsAt": "2026-08-26T19:15:59+00:00",
+  "fetchedAt": "2026-08-26T19:31:00+00:00",
+  "quotesAt": "2026-08-26T19:31:00+00:00",
+  "newsAt": "2026-08-26T19:31:00+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7688.26,
+    "spx": 7685.95,
     "nikkei": 66262.16,
-    "vix": 15.35,
-    "krw": 1385.03,
+    "vix": 15.33,
+    "krw": 1384.7,
     "gold": 4646.2,
-    "wti": 81.86,
+    "wti": 82.02,
     "dxy": 99.17
   },
   "daily": {
-    "spx": 0.46,
+    "spx": 0.43,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.31,
+    "krw": 0.29,
     "dxy": 0.25,
     "gold": 0.17,
-    "wti": -0.61,
-    "vix": -0.65
+    "wti": -0.41,
+    "vix": -0.78
   },
   "news": [
+    {
+      "t": "[뉴욕유가] '푸틴 핵무기 옵션' 보도에 상승 전환 후 반락…WTI, 0.16%↓",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cXByOEpEUTdWcmVxa19sMzd0cFNPT3dpc0RKRjg5Z19QMkh0a1Y3YnVFN2tOeUdYck94WS1VdTVUODItamJvUC11TWluTFNTMi1BeV95ZlV3ZEVMVmxkLVFUaFItbHNzRDFtWFVSRFhEZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T19:06:58+00:00"
+    },
     {
       "t": "'칩워' 저자가 주목한 韓반도체 생태계[청계광장/신성규] - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xUU5ZNVNBYVExWm4tSmt2R0poMHlWTVZWa3VWRV9UbUZBc2p4c29nWmdHVEo2SUJxNGpadXBpbDVvemhDUmFTdlBNRFRMVm5ZVW1wWVBWbUZkeUgzbm9xSl9KQlFSSWJ4VjVB0gFwQVVfeXFMTUhOR29vdlFmbGVfNHBQOWxVOVJsTGhTNEI0NW83RDNEUWgxN0JtaldUNEdJMUF0ZVluVXZPTzVTYk1qUUliOHhOTi1sYzVlQU9GRVgwSEJZSXR4SDZfb2RnbVJhMXB5YWJ2Y0dsZWpCOA?oc=5",
@@ -61,28 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-26T18:00:00+00:00"
     },
     {
-      "t": "\"변동형보다 금리 너무 높아\"…외면받는 고정형 주담대",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xU0xOYTU3Q0ppa2RneG90M0ZTRm9mcl80RHZUaGV5OUFYZHZTTmticTBFR0tmdmxaaXVqRm0zblE0U2ZQSUtzWWwxeElDampiLXFFeXhWVVlCUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T17:53:00+00:00"
-    },
-    {
       "t": "토토이크 호감도 컷 학생를 위한 글쓰기 기술 심층 분석",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81cjdpWFNNN083R0tLSVNXUG5ZZm1FTGpxOWlBWmxIdDF2REl2eWhURXB3Z3lhSVVrRlN5eUFld3dVRldSUDJkQ2VSMVcyZkhZa3Y5M1I4MmZsQQ?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-26T17:52:50+00:00"
     },
     {
-      "t": "“반도체 호황, 2030년까지 간다” [한경 프리미엄9 TODAY]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRUZSUkxHWHQ3T0FSNUdCb3pFM3VkbU9HdWlRcDJtNVA5YzFrdEJYa3BRWEhkX25UNnNNLUpIWnRrMTJDeVRaVU9yNk9Qa0FRSTVFY0xRUGdZUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T17:46:00+00:00"
-    },
-    {
       "t": "유럽증시, 이란·오만의 호르무즈 협상 주시하며 보합권 혼조… 美 물가 지표도 소화",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbFItMlpGOWQyOUJpRXlCdnhCWHRQd0tYNWpXdGUwRlpWdU5qRW1yT0FmUXJxZGxFNGdCN2tiUldsNFVDcVBYZDJMaHJDZDFoY0RPNmFzc1kwR2Zj?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-26T17:28:00+00:00"
+    },
+    {
+      "t": "2023년 새로운 카지노 : 을 통한 성공 전략",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMzNzSFV6T3R3aEQtRTdvdzUwaHRObGhLQmZUZTFWS3ZpNjlfT2lhTUhkZkRTeDVfNnE5TVN2LW5DQW53bmhhUWZ1Y1BsazZpbG5VYWtyWmNkNkIzQmtyZHNMSC0?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T17:26:32+00:00"
     }
   ],
   "asof": {},
