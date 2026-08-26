@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T13:45:59+00:00",
-  "quotesAt": "2026-08-26T13:45:59+00:00",
-  "newsAt": "2026-08-26T13:45:59+00:00",
+  "fetchedAt": "2026-08-26T14:00:59+00:00",
+  "quotesAt": "2026-08-26T14:00:59+00:00",
+  "newsAt": "2026-08-26T14:00:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7685.21,
+    "spx": 7686.6,
     "nikkei": 66262.16,
-    "vix": 15.71,
-    "krw": 1385.28,
-    "gold": 4669,
-    "wti": 81.09,
-    "dxy": 99.13
+    "vix": 15.51,
+    "krw": 1384.98,
+    "gold": 4679.8,
+    "wti": 81.55,
+    "dxy": 99.1
   },
   "daily": {
-    "spx": 0.42,
+    "spx": 0.44,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.33,
-    "dxy": 0.21,
-    "gold": 0.67,
-    "wti": -1.54,
-    "vix": 1.68
+    "krw": 0.31,
+    "dxy": 0.19,
+    "gold": 0.9,
+    "wti": -0.98,
+    "vix": 0.39
   },
   "news": [
     {
@@ -35,12 +35,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01YzhfbHNWcUxYZkM4c255cmYzUVQ1ZXZSeGIyZmRDLW9WdDRSTWhXWkQybVY3OUQ1Y3JnSnY2alEzSUdjak9FWncwWFg3Q3l0MktOY0lfSU9KTUZuSFJrX2JiN0ZqWDVRSFZnY2lB?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-26T13:38:00+00:00"
-    },
-    {
-      "t": "미국 7월 물가지수 상승률 3.7%…금리 인하 부담 작용하나",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1haE5SWVBBSkpVZVFFbzlmUnFhd1NKSVh5OU1vWmZjclpKZzF3SVFVb1p4M09sRl9xOER4aGhGMmtPQllxZ3NUdXkzdWplTVhBSjhGLUllZ2N2VHV3Q0hwMEhBanl3MXE3d1hsTFJqZ9IBc0FVX3lxTE9tQ0JyUnpLaEM4dm5ac2hERzR0MlcwRktrVFlMenIzSFpMaVowZzcxSW9RYUdxRG1TZGFaQUFXQWs0UFlaNkNyTHJoaTFFVG1TSkszaER5Wjdnc3RXS0wxelJRYTdjMzhTaktsTUlQdGVLY00?oc=5",
-      "s": "대전일보",
-      "d": "2026-08-26T13:33:52+00:00"
     },
     {
       "t": "美 7월 물가 예상 부합 속 소비 정체…금리 동결에 무게｜Global Money Club",
@@ -71,6 +65,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PZ0lMT0JvSlo5Q01QX3VQZ3VPQ1NOV2pia1JSdkJJcWIxOTUzSVI0TzRndmhFMFByVVdJNUNmOGI3WXhBTTM3alA4dFM2R0tKWVZyTmdXN1pCdGNyUGlnWjFCZGRPazlUQmR5RFUwVUw1RFhGZ1kw?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-26T13:06:00+00:00"
+    },
+    {
+      "t": "美 7월 PCE 3.7%로 예상 상회…서비스 물가가 발목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43Nm9vcGxaTHhjVUZKNnRCaUpmcTV2aE5nX3BSX09QZmM1WkdWTVo0bk8xdnIwZ055Y19CTG0tMmpCdi1WM1dqaE1NLWdkSTNuUl9ocWNpbmczZw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-26T13:02:33+00:00"
     },
     {
       "t": "7월 美 PCE 물가 상승률 전년 대비 3.7%, 6월과 동일",
