@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T22:16:04+00:00",
-  "quotesAt": "2026-08-26T22:16:04+00:00",
-  "newsAt": "2026-08-26T19:45:59+00:00",
+  "fetchedAt": "2026-08-26T22:30:59+00:00",
+  "quotesAt": "2026-08-26T22:30:59+00:00",
+  "newsAt": "2026-08-26T22:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1384.52,
-    "gold": 4657.5,
-    "wti": 81.89,
+    "krw": 1384.11,
+    "gold": 4664.8,
+    "wti": 81.83,
     "dxy": 99.13
   },
   "daily": {
     "spx": 0.3,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.27,
+    "krw": 0.24,
     "dxy": 0.22,
-    "gold": 0.42,
-    "wti": -0.57,
+    "gold": 0.58,
+    "wti": -0.64,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "드라마 카지노 조연 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZT0VSSWFsMzB0Z2RUSmlFQ1QyUUM4Smc0U3dNQWJCTDdvMEpnbzBTZ3NYUGl5TjFLUTJjdUhhRXBnSnpCTXJURXZHZTJ4NGkxdWNmWUtfQ0c?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T19:40:55+00:00"
+      "t": "'미국 통화 정책 신호등' 연준 잭슨홀 회의 개막...워시 연준 의장 첫 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tYmF1dnpIM3ZfSTZKSUEtZ0tYaTloYU11LU13emxyYkZHVEhTUVlzTzI3dV9yYW9qa3VnVi1yQTRYTjFrSmk4ME9acE1vc3FaeDlGVzJHOWtQaEtfV2c?oc=5",
+      "s": "YTN",
+      "d": "2026-08-26T22:26:00+00:00"
     },
     {
-      "t": "[패트롤] 경기도-경기도의회-경기도교육청-경기관광공사",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91N3c0WlM3RkZVTUVvQkQxQXExZDR5RWJYRVBxWmRJN2h2emowOXA4RDY5eGdsdWxLdjFFRFViVnZBVXI0THhBRklVR1BjTXpvUW53THV1R3Bzd0g0MjdIeVYzWQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-26T19:33:21+00:00"
+      "t": "뉴욕증시, 엔비디아 실적 앞두고 약세…물가 부담도 지속",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GZk1MZS1lSnVuOS1hZ25ZdDZEaVNjQjJmYWZYRS1rQS1pY2NuMG43bmV3UEE0SkRWb1dPNUJwMU5BRW95aTFPWkhzV1pqcDlSRVNNbHFSTWZkRWphWmlFVTJhcmJweWxGM1c5MG4ydWvSAXRBVV95cUxNVEczOE95MXMxaDlxaWdSeHhKWk1ydktCTFFFc0pNc3FBSWdvZ2R5djg2dFc5eDdHdlJyWmNabzBEczVyajdjMF8wN1R6SDZRemxfZjBhX1FaRkV2aXpBUWhFNUdFNG4zcXZGVDNIdlk3UGdNVA?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-26T22:24:27+00:00"
     },
     {
-      "t": "캐나다 맞불 관세, 美중간선거 공화당 경합주 겨눠",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9admI0cjBDMlIxNnNPa1AzMXNTOHRMQjEtLWk5bzY0aTZPY2x3R0htZ0FZQVliaXFrdzFUMVVhX3pkRjdOTHoyRVZjSlotWHdydzRDU3dKSE9jTG05THBqUlBMLXlqQVVicy1UZmIzQVFFTlHSAWZBVV95cUxPX1p3NmhrUlJCZm55WmFic3h3a05XZGQ0V0JLaUZISmhpdkYtR1YxVjE4UnRtSzhVOUktcTlDSk9wd1JrRUg2MnFoOS1iSWpPU2NSQm15QXRhek5JeEZ1R2Ewbm5tM2c?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-26T19:30:00+00:00"
-    },
-    {
-      "t": "남부권 전기료 10% 낮추면, 반도체팹 생산비용 年1조 절감",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JVngtVXNzTW9HOThENjBMdzN3MXlyWDdZZDVCYl9acWd0Ul9ncEhFeTRHY2JUbGtaN1ZxUkJoNEZ6NEdiaDN3SnZUQ2d1YTdvVlBCOEs0UFZzejFUQVJiMW5XcnZkOTVwMmtmdjItNEp3bUpPUUHSAWZBVV95cUxNVHl5MzZKUEVER2RXRkduQ2lYbngtU19yMTBIaFVWaEc0RnVEUU9jbFQtcnBjb2VidTJmOFB2d2NGeGg1cG1jVmc3d0lzRmNvVnVwUVBfaTYwMjNuVmd3YkRqSHh5R3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-26T19:30:00+00:00"
-    },
-    {
-      "t": "李, 최태원 이어 이재용 독대… 美 ‘반도체 청구서’ 압박 등 논의",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tTTVvX1Z5ZHRYNUp5UTFKZk9qTmg1Q25mNFFwN19IS0VWX1hLLUtZcUtMaUY1LTBOZjJuZElROUpURGZHTFRDOGpIUFJENWtOUzJLc2VBR0E1ZEJPMk9MVkFlY29HTjBQdUFNYXdLZlZlTXR3RVHSAWZBVV95cUxOVURUZUI4VnBLYjc4OE0xUVA1Q05FQ3oyZE11M3NCWHJFYUYydWpoaWtoQi1tTGN2Y2pYVUoxMXZYMVlPWFo5dmVNbk1OWElsOGRQT3VkSC15OGNCR2VsRHdfTjhva3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-26T19:30:00+00:00"
-    },
-    {
-      "t": "\"호남 반도체엔 호남 사람\"... 인재 육성 '총력전'",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45Vnd6V0dzbmhBZ3ZYcmpQUWNWWlJjYXZIUDFjR1k2YjdXSldzM01YMkplcFZxZzVyTWJCS3l0VlpPTjZ6bGd2ZmhkX3JIVjNudUN6aVI1NWhNOS1Mb0ZDQ0tXUzhwUDNQSUlSVzFn0gFzQVVfeXFMTnpaRVRkMzNTVVR6Q3Jtb3hNOTBSbHU3YnYwb0p6WHBqSFhNZ0IwcFF4STI0b3pEcmpTNHNnWGlUZWl6UGxOcEZ3cDhBV0Fkb0YwX25JOXhrN05Zb01iUmlqWHdmMmo4NF8wODRZb0p5T0haZw?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-26T19:30:00+00:00"
-    },
-    {
-      "t": "[뉴욕유가] '푸틴 핵무기 옵션' 보도에 상승 전환 후 반락…WTI, 0.16%↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE44cXByOEpEUTdWcmVxa19sMzd0cFNPT3dpc0RKRjg5Z19QMkh0a1Y3YnVFN2tOeUdYck94WS1VdTVUODItamJvUC11TWluTFNTMi1BeV95ZlV3ZEVMVmxkLVFUaFItbHNzRDFtWFVSRFhEZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T19:06:58+00:00"
-    },
-    {
-      "t": "[김종구 칼럼] 순댓국밥도 못 먹게 할 미친 물가",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcnlUQ1ZBbzhETy1MMVVaelRoZ2tkeU9rdFFZMWkxUjNSZDJSUTBlVmkyZWUxYjNHbEZHUmYzUlZDX0pzdnA5bHBTZjU0T3YzLS00YlM3elFhYjg?oc=5",
-      "s": "경기일보",
-      "d": "2026-08-26T18:02:00+00:00"
-    },
-    {
-      "t": "워시 美 연준 의장, 인플레 원인부터 결론 못냈다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2ZRVlFSYldnd2V2bWxiQUdXZUt5VTllVEJLUkkwVmh5Wi1HVi1LTVl0WEgzVjB6Ni1uOTVHYnJQU1FtbmtxTGM5YlhEZWlpbmlyRTQwVmhTNnYzcDJKUG5rUkwwQ0lTUUJ4UzVKbVl0N2dqMTdOUU5Sb3hxcGN0OE1Ec2pnSUha?oc=5",
+      "t": "미·캐나다 50% 관세 폭탄… '10달러 뷰티' 흔들린다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUdSX0xvQ3hiOFdpWDQ2eVc4RkpldWRzYjVITTFGaElPOXBEZnQ5VzV1MktQajhWZEVxSjlrTFctOG9OX0J1b1l2V2p4REZBRmE4bXFEcEVqVElLS0R5Y0dITEJiaGVGcFhIVzNVNXVqNU51SnNLZHBQMU16R0VsemlZUHhMQ0dZ?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-08-26T18:00:00+00:00"
+      "d": "2026-08-26T22:24:16+00:00"
     },
     {
-      "t": "금값 5일간 7% 상승…유가 하락에 긴축 우려 완화",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQW1VeFRJU2RkbXVrbkdpdDYwVHllN3ZWZW93dkhsdlpEWFJWTnFCU3BDaVJyVXlwN3FMemQzTUZ6OWZJTDRLNVllUkVNS1h3Qko0a194b0JpSE9VcXBYQ05MVDZVRDlRMmZud1RWdGQySDYxbHJhczhPSXJuWmlScmRPWHRfeS1w?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-26T18:00:00+00:00"
+      "t": "[채권/외환] 美 국채금리·달러 동반 상승…PCE 예상 상회에 금리 인상 기대↑",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3YVBNbXlRM0pwZWlTWjNIOUtiNWxGdktZVDhlejZEYjd5QU9ZcVNIang5eExBU3BZc2xmc01HdUE2ZUIyVFk0RDY2YjR0LVdick9CUV9DUzdvSGNs?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T22:19:00+00:00"
+    },
+    {
+      "t": "7·8월 이어 기준금리 오를까…한은 오늘 드디어 결정",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvWnVMZ3l6YTlTeTVjOEJwMjNYZ3hIeDlGQnlPMlliQmV0V1gwMnp5TFcyd3lSbngxc0FRUlR2WDBDckVfVE5tRmxlekpWN19O?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-08-26T22:17:55+00:00"
+    },
+    {
+      "t": "李대통령, 최태원·이재용 잇단 회동…美 반도체 '추가 청구서' 조율",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91MS1jcDF3TFZMdzNEcE5heFBwVHJwMGdDS0tNdmtSbGRHM1BrSXkwMFNCWFgzbVVfbXY3blV4V3lYQmQ2X01xd3ZSZkZuem1MTGIySmdsTkRnbFdMaDRBTVM1THl3cUNVSXhUWEhNV0E?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T22:10:15+00:00"
+    },
+    {
+      "t": "[증시전략] 엔비디아, 분기 매출 962억달러…13분기 연속 신기록",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KNVNBbEpqWVozQ3RoLURWWjE3V2xHb0NYLXNsWndDZkhmeXVhNGVfMHRSaEpKOFhKMlB1WGF6N1h3Vm9GeXB5RWE1UXpjQ28?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T22:10:08+00:00"
+    },
+    {
+      "t": "뉴욕증시 약보합…PCE 3.7%·엔비디아 매출 2배",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpYy1lcVZvYTV0cGNBTkU5YWRHdnVkNHFSZDZIRTgxRHFQc09DczdGdU5pOW54QTIyWnhraHM0eDZRRVk5WmVPSHRpZ1l1RnVuWXFJcVpyUThUbWl4aXFUcDZKTF9IcWNCUHc?oc=5",
+      "s": "OBC 뉴스",
+      "d": "2026-08-26T22:07:03+00:00"
+    },
+    {
+      "t": "[0827개장체크] 美 증시, 엔비디아 실적 관망·7월 PCE 경계감에 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5INWZCbDI5RGE0cXY2bkJZdnlnWUR6dklKTHVoLUdySjZ1UWJiZFdpNnhlUXIxdk5SdVJIckxBbnBrYndURjJvNjVNLUNlNnNPTk9NYzhXbmQ0alVZNXlPaHVtTUlZVHY3Z05jYmljempvVmpOOXc?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-08-26T22:06:59+00:00"
+    },
+    {
+      "t": "이철우 지사, “식품산업, 반도체에 버금가는 국가전략산업으로 육성해야”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHX2JlaHVwcUhuVFVhZWFtNE50bHhYUEZqR0dhSzNFZE93RkZ1d1hjZVdpUWx5WGVnN2FuWGl1T0dHTWVrUWFJM0xTWkdWXzB5?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-26T22:06:41+00:00"
     }
   ],
   "asof": {},
