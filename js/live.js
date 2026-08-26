@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T23:30:59+00:00",
-  "quotesAt": "2026-08-26T23:30:59+00:00",
-  "newsAt": "2026-08-26T23:30:59+00:00",
+  "fetchedAt": "2026-08-26T23:45:59+00:00",
+  "quotesAt": "2026-08-26T23:45:59+00:00",
+  "newsAt": "2026-08-26T23:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1385.8,
+    "krw": 1383.73,
     "gold": 4674.8,
-    "wti": 81.85,
+    "wti": 81.83,
     "dxy": 99.13
   },
   "daily": {
     "spx": 0.3,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.31,
+    "krw": 0.16,
     "dxy": 0.22,
     "gold": 0.79,
-    "wti": -0.62,
+    "wti": -0.64,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "민형배 시장, 반도체 기반 ‘지역 혁신 모델’ 제시",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtOTJHb3hPNkhCbUdHQVhZMEpRT3hQTXlQSUlpVzVaVG9GajJUbnNNVURLRldVSlZ5N0g5Z0oyOFFaQTJucHBVWHRycDNQOWpyMV82MFd3Smg1NFpUc21tMkNPdWF2Mm5wX0FSRl9yZw?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-26T23:26:56+00:00"
+      "t": "[마켓프리뷰] 엔비디아 훈풍에 반도체주 강세…코스피 상승 출발 전망",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOMzV6RmRTVUdyTVIxYWlzRF85Q2JJX0w5c3JXWnRnbnZkaFBWdmRUYXBuaWN0Z2djZmNSNlV4cU04OEVTNkN5QWh1OGpwMGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T23:34:28+00:00"
+    },
+    {
+      "t": "[모닝 리포트] \"엔비디아 훈풍…반도체 중심 상승 출발 전망\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Z0pHVzN6OU5OYWVpSGg0WGFfZkkxQmRaWFJ5NWMzdVZYN0l6QklxRzZieU1XYVZ0dEt3WXVoX1FaQ09Vd0c1dTBieFFLeGFKd3owVUVqQ1VSRU15?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T23:30:00+00:00"
+    },
+    {
+      "t": "[증시 포인트] 엔비디아 호실적에 상승 출발 전망...금통위도 주목",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTmFEcnF1R3hRem1XLTIxYktuckozZGlCdnd1WnJTWTRaSzZlVC1DR1ltSmhWalh2UndCMzJLZTlQYVJCTV8ydmQ2cHI3M2FzUGw5M3pTc2ZTZkVVc1ExanRaZE9UME5xUkFOallnbVg?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-26T23:29:55+00:00"
+    },
+    {
+      "t": "[외환] 끈적한 美 물가에 1,380원 중반대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ROE5xcExwSV90YmgxNXVOcmJUYjZ3U0RjbTRIbGprSndac0NVSjRZRzVVWUVQNzA3US02SlVjZV9OaV9wNmFIZ2p4OTJ6MDlGU3E2Q3pCQkJUVllSOHl2ZmcwbFJLWERndDVWLTR4ZEbSAXRBVV95cUxNRlktQWZUenBySG5KaEZQbHo3WDVvaWNOZ3luQWdldDNkZFNJS1VoTDZKXzBkUmNneXB0MVFRczhhNEk3WDhILVlaWDh3dW9WdzFXZ2JCV21DMkxzMlM5WXY2dUdQbWhoSkZXbm9kTTZHVVpJMw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T23:27:36+00:00"
     },
     {
       "t": "넷마블 맞고 pc AI 시대 디자인 패턴: 역사, 현황 및 미래",
@@ -43,10 +61,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T23:17:00+00:00"
     },
     {
-      "t": "한투증권 \"코스닥 의미 있는 반등에는 금리 하락이 필요 조건\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpxUWZSMm9FLWZDUllHQ0NDX3NWb3laYjFrVktfd2laMThxWkpjWnRhSjJVbnBiQlJSUlZXdy1hTnJWem9hQ0ZGMUYxSGVOczNrY255dnhmMDTSAWBBVV95cUxORUFaSGNNcXZSTjZzMW9TVV9VQ1lJbFoyMXFnUTNaWEsxV0s2RkZMMFdzLXBsQW94RWtMLTdiS3Fra2QzdDdDWThFelliSkp5NXduTU40eE9WZHBsYUtXWng?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-26T23:16:59+00:00"
+      "t": "유가보다 정제·운송 부담…\"내년까지 에너지값 고공행진\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51U2xVV1JqVms3ZmVqaHdMbHVwYUVkWFBEQmlBQjVBVXN4MW4zQ2RZeUJtblRZX2dsc25yTFd0X1ZEc3dGWGFGOFVoY0pYY0JJVzJTN0ZpeW90Zw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T23:15:29+00:00"
+    },
+    {
+      "t": "[브라질증시] 17만6000선 돌파 후 상승 탄력 둔화되며 강보합 마감",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1paU53VGV6enRNSXdqNERuNThhZFgzUm1JVUpsV09rQTVMQXNQYXlBYUtuVWdycGdFQWhtT0Jpa2lId2U3NU5tZ0NNWl84blZxOExBTWp1OGJ2N04y?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T23:13:00+00:00"
     },
     {
       "t": "엔비디아 '어닝 서프라이즈'…국내 증시 상승 출발 전망[굿모닝 증시]",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE10RnFTa0ZKUDVYNGstZVoyUXJ1M0hEcVhfS1pOb01tall6M3RsMGhoODN4YjFrZVFYRXNQUDNoQnBsRndUZk9SeS1GanJERkxYYS13R0RyWkVyYVN0LWVEZTIyRi1nbnhQQnZIcjVpT1VxUQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-26T23:11:46+00:00"
-    },
-    {
-      "t": "[이슈체크] '통화정책 좌표' 美잭슨홀 개막…워시 연준의장 첫 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xQ1lxZldqc1ZHeG1pelF0aXJiVUQxZzVmcnExNHoxYnpSbHI0b0Z6NnZBUFp6U081cHg5YTBNdGoxdjE5WkZJdV9uZWg5Y05kbDl2YnlQcWhMenlsaGYwNkVDNA?oc=5",
-      "s": "조세금융신문",
-      "d": "2026-08-26T23:04:34+00:00"
-    },
-    {
-      "t": "[외신 에스프레소] \"북미 요새의 붕괴\"…캐나다, 미국 관세 폭탄에 보복 조치",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnOW85amNxRDgwWDRWaUQ5SzNHbUJZaGZ0ZUZtMDR4UEstRDZoaFZBbTkxbm1fQXBZSnpNNGVDOFMxOEVra1ZBRUtTWDZDUlg1MS1zNVR5YkNHZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T23:03:07+00:00"
-    },
-    {
-      "t": "\"내후년까지 +70% 성장\" 엔비디아의 자신감…불안 남긴 PCE 물가 [김현석의 월스트리트나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80S2NDeFk4czNISmpHRU5fSmd0cXdMQmNNUlZqdU1IYnpHczRHRVQzUjlTN2NDWm1YYVFzSW1mRnIwdW5XRjdBUmt0YU52Mi10MzhhdFNWNDZYZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T23:03:06+00:00"
-    },
-    {
-      "t": "[환율] 원-달러 1,386.00원 … 0.18%↑",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUU5mLUFSQTlOeEFpOV9JVGFKSF9ZLVd4T3NTUGFyenUyaEVPREpHdW1zQ3lRa2YtNGdvYlpEZkUxOV9JWElKcVlBU193QXhlS203WmhyLWRqWGxoM0U3VUFn?oc=5",
-      "s": "버핏연구소",
-      "d": "2026-08-26T23:00:01+00:00"
     }
   ],
   "asof": {},
