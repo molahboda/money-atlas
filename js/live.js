@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T16:45:59+00:00",
-  "quotesAt": "2026-08-26T16:45:59+00:00",
-  "newsAt": "2026-08-26T16:45:59+00:00",
+  "fetchedAt": "2026-08-26T17:01:03+00:00",
+  "quotesAt": "2026-08-26T17:01:03+00:00",
+  "newsAt": "2026-08-26T17:01:03+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7658.6,
+    "spx": 7666.18,
     "nikkei": 66262.16,
-    "vix": 15.61,
-    "krw": 1386.71,
-    "gold": 4649.1,
-    "wti": 83.12,
-    "dxy": 99.17
+    "vix": 15.7,
+    "krw": 1386.39,
+    "gold": 4651.1,
+    "wti": 82.9,
+    "dxy": 99.15
   },
   "daily": {
-    "spx": 0.08,
+    "spx": 0.17,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.43,
-    "dxy": 0.25,
-    "gold": 0.24,
-    "wti": 0.92,
-    "vix": 1.04
+    "krw": 0.41,
+    "dxy": 0.24,
+    "gold": 0.28,
+    "wti": 0.66,
+    "vix": 1.62
   },
   "news": [
+    {
+      "t": "美 7월 PCE 물가 예상 상회…연내 금리인상 기대감 확대",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByeWJtSWNMUWxPVnFDRTRFTmVTZkZEclh1bnF2YW1OdGRrNk9KaDlzaTRibm9hNDZSekFNVmhlRTNuVmF4Vy0zeXF2TXNZd1VZWDdZR3lHYUlmUmE5ODVTdnpuSVdJWmdK0gFsQVVfeXFMTkJPSGEwVy1SSXJmNW05c3FNZHZMSkRaeEZNaWx5Rnc2bDN2MHNScmdhd2Qzc0NfNmEya0swMmYtUDZvbDlvYkM3RlJNWUVrSFdQSWxxX0VFeFpDcHNuZ0pUdnN3VXBNOTFGbFQ0?oc=5",
+      "s": "블로터",
+      "d": "2026-08-26T16:39:49+00:00"
+    },
     {
       "t": "올 코스피 신규상장 4건…2022년 이후 '최저'",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52NldiaVVzTkllVE5wTXkyaUdSUmtUaTZLVmtXVVFqWVJYQnkzaWM2SkVNWXNMN2hsTk1aYTFmb1lKV0pabEVrSkNrc3ZiYlVPbm5LdUJhQzFmUQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JenNacVkyd0RzNFhMTTdSSExySE5KSVNLQTFiek9vcTNWLUZzSFBCcy1JcV9WMl9lZFMyczI1Q0Y3aUFkLUNOUg?oc=5",
       "s": "특허뉴스",
       "d": "2026-08-26T15:28:00+00:00"
-    },
-    {
-      "t": "스포츠토토 구매방법 디자인 분야 자산 배분의 고급 기술와 혁신",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eGI3ZXZHWWlraEotb1VSUzNRdHJMYjZjMFJPenNSVWlHYV90NTlvc0tpR3VoYmhLN0FHYnYtRk9XSUx5UXBmbE0teV9XRTVTcG9JaWdWeXg?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T15:23:26+00:00"
     }
   ],
   "asof": {},
