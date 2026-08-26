@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T03:45:59+00:00",
-  "quotesAt": "2026-08-26T03:45:59+00:00",
-  "newsAt": "2026-08-26T03:45:59+00:00",
+  "fetchedAt": "2026-08-26T04:00:59+00:00",
+  "quotesAt": "2026-08-26T04:00:59+00:00",
+  "newsAt": "2026-08-26T04:00:59+00:00",
   "quotes": {
-    "kospi": 6859.38,
+    "kospi": 6871.15,
     "spx": 7677.28,
-    "nikkei": 66254.68,
+    "nikkei": 66340.62,
     "vix": 15.45,
-    "krw": 1386.51,
-    "gold": 4706.6,
-    "wti": 80.19,
-    "dxy": 98.96
+    "krw": 1386.23,
+    "gold": 4700.9,
+    "wti": 80.29,
+    "dxy": 98.97
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.43,
-    "nikkei": 0.6,
-    "krw": 0.42,
-    "dxy": -0.04,
-    "gold": 1.42,
-    "wti": -5.67,
+    "kospi": 2.6,
+    "nikkei": 0.74,
+    "krw": 0.4,
+    "dxy": 0.05,
+    "gold": 1.35,
+    "wti": -2.51,
     "vix": -2.52
   },
   "news": [
@@ -55,12 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-08-26T03:16:23+00:00"
     },
     {
-      "t": "7월 주담대 금리 4.48%…2년8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yMXl4SS1pQThuZDV5cHZfRTFaYjJzV2lfVWZXcWZ3dmktSFo1anM3SUNaNGpGS2FuUzRYVDAwSEhCSzJfVXVBbVc0STZfSW82bXZkWFhKTEVncDJCS3B3WFlDaVNsaWVuY3NOeDAycldkZw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-26T03:15:00+00:00"
-    },
-    {
       "t": "노무라證 \"8월 금통위서 25bp 인상 확률 최고…비둘기파적 전환 여지 적어\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQmd0RTAta0lNM1ByakxVRVFhWVlOZm9FWGJXNHpQVWo4N01ETlNoSGp3OUxOeW9vVE5zSTZwNW54Q01jSTY5ZWNHQVlxa1lOcVhMcjRyNkliZ0JISG5lUW1HbmhIY2hwQ0RzXzJNaFMxdw?oc=5",
       "s": "KB Think",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHBPQ3lPWUpQY19KOTNsLWJDVVBXRDVrVzAtczVXM1Q3QW9ySnAzTlkwVG1sWm1JcEVHcW1aaXhsaGZVUmNxOElCb21ZYzFkY1hKTzZTQ0IyQVZzRkpxemw4TWlISzEzTEFfeWMwQjRZRkNnYjdwcUV1UXFZSGtPWlBFMVlUQdIBmgFBVV95cUxPNC02YURpcXNGdXRsV3lrbVM5VWJTUzR3WGk4amoxUXN1YUdDeWhsR0lJWWtZbGJydHNWcVpBRW9uY3BqdjF1MHpuNVNxSi1nbFYzalozVTl3YUhEaFJqLTUxVHlTY09xWl9jMFBVRlc1Rl9QNXB1bDdZOTdfbnZ5Q3c2dUEtcVBuc2FzOXNHQzRUa3ZON2FqOGVB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-26T03:04:30+00:00"
+    },
+    {
+      "t": "금리 상승기 불리한 변동형 대출 계속 늘어…12년 만에 최대",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXZRSndTOTFkSmRxaWtoUjByWHY5VUlRT2FnSlhOSTdrNXdnbUFJVVIzbk5PclRTNUp1SWx6ZFMwQ1JFUHd6TWJjRVR0VGxFYUtuS3RZVFA2Q09JOENMOTVjcnB2U0VWY1RSR2YzbHMzLXE3ZTRsbkRlRGdyUFYzS25vMUZpQWdpcGwwbkRR?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-26T03:04:22+00:00"
     }
   ],
   "asof": {},
