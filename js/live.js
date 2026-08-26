@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T10:45:59+00:00",
-  "quotesAt": "2026-08-26T10:45:59+00:00",
-  "newsAt": "2026-08-26T10:45:59+00:00",
+  "fetchedAt": "2026-08-26T11:00:59+00:00",
+  "quotesAt": "2026-08-26T11:00:59+00:00",
+  "newsAt": "2026-08-26T11:00:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.74,
-    "krw": 1384.04,
-    "gold": 4675,
-    "wti": 80.16,
+    "vix": 15.69,
+    "krw": 1383.78,
+    "gold": 4679.2,
+    "wti": 80.31,
     "dxy": 99.02
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.24,
+    "krw": 0.22,
     "dxy": 0.1,
-    "gold": 0.8,
-    "wti": -2.67,
-    "vix": 1.88
+    "gold": 0.89,
+    "wti": -2.49,
+    "vix": 1.55
   },
   "news": [
     {
-      "t": "박현주 회장 \"반도체·로보틱스 산업에서 끝까지 펀더멘탈 지켜야\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43R3dnVnVBZVEzU0NsUTI0SmN4X0c5ZXZhT0FpbmRTUWxONHpIV2YtVmxSZ09vUmMzOEdzS1dFX19WU3o0Z2JWamRYVGpzTWVKankwM3FRM3lJcVFoX2ZaNEJnVFBhN2FU0gFuQVVfeXFMTWJnUW5udWJSTF82MW13NEN5R3c4Ykx0Nmh1YVV3WmQ2aHlNM3gydVVKUmdJUG9rR3JlbkRjYjNabV9fbmVwN2FRb0FVWUlMb3RZY20yQzFPQUNRb2ZOZ0lseTAySjFXSVRTUXNhV0E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T10:34:08+00:00"
+      "t": "박현주 \"반도체는 미국 말고 한국에 지어야…공급과잉 와도 치킨게임\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SYlFPSTJYc3o1ZlZRSVRhUE9GenFGd1ltX2RFamstZU01QVpEVDhwX2NMUS1rV05VemlyX2JvTk93NGNpUkN6NTVKUTRKaG43Qjh0NHhnWW5TYU0ybXZjLUZaNlB6SUhNTVdpamd2MUVJZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T10:52:10+00:00"
     },
     {
       "t": "20조 중 6조는 ‘반도체 지원금’…“꼬리표 지원 우려”",
@@ -49,9 +49,15 @@ window.LIVE_DATA = {
       "d": "2026-08-26T10:15:11+00:00"
     },
     {
-      "t": "일본은행 총재, 미 금리 인상 압박 속 잭슨홀 불참",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wcmNLbEhFTkdQcExENFM2WlgxeEFmTWZwa1dBU1pMOUJFZFlkVjRfTENfelFuTmUzSHkyR1NwN1JsNVcyMk9jMXhUQzlBLUdGMUNPUm1ia3JMV19hOGc?oc=5",
-      "s": "YTN",
+      "t": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 침해’ 전면전",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hVVNQSWh2MjM0ZjBTUENVZnE1Vk1RY2F2clVhTWRBa3JVaWJrdnFoeHJkcEV5TDhXd2FnaTZWSGdYSFdyZjV4VE5KZlhjRjg1YWZxWktIQ1ppMU1oazdDUVgzM3VFWWN2NHUtM3NWOA?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-26T10:15:00+00:00"
+    },
+    {
+      "t": "태국 중앙은행, 취약한 회복세 속 정책금리 1% 유지…뱅크오브아메리카 언급",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16bThrR3ljS0pkOWJ6TnRLaUhGM1NKei1nWkpzSjVBNTd1M3I4cGJqLXZUZWJwY2hnbUtSYkpuOFZfcXl2Mnh0dVA4VVNWUkVrT04xMzk5d3hxc2NwblE5ZVQ0Q1Rkd2JTd29xV3pUOEVDZDlYNkRB?oc=5",
+      "s": "Investing.com 한국어",
       "d": "2026-08-26T10:12:00+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xcEQ0VGl4Rjh0bThWUEhtTmlmbmozVDRkY256bUdMUU14NTZCM0J0VXNzZzhjVVpJR0o3NVRzNjNJTFRaVHczRHhHdm1ZY2FNa3IxbG9rYw?oc=5",
       "s": "헤럴드경제",
       "d": "2026-08-26T09:40:00+00:00"
-    },
-    {
-      "t": "IRS 금리, 단기 오르고 장기는 하락…금통위 앞두고 커브 플래트닝",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVVVvbnpRUFdHNVYtS0RlOEFTblU3NEZYZENiVkRuc0FremptVGlkb3lYWDMtVTdXNGxTOWJkQjNJMVBZdmJOZzAtVHJ4dzJHV3lyNnlaX0VlWi1reERTcEVWeU5jU3B4NWV6emJhYjPSAXRBVV95cUxNLUY4U2hYQnhKYkNNMFZDNUxoTnQ2UWVBUWVoZ3JDTmpVYUh6YUNpaWRWSV9XMkE1OEl6WkVqWERkSlBLRWltNTBPQVlsVHlESG5jdHlWdEFUcDd6c1pPVjJPYTBHclJaZXNZamhPek5BMkkxVg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T09:35:38+00:00"
     }
   ],
   "asof": {},
