@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T05:15:59+00:00",
-  "quotesAt": "2026-08-26T05:15:59+00:00",
-  "newsAt": "2026-08-26T05:15:59+00:00",
+  "fetchedAt": "2026-08-26T05:30:59+00:00",
+  "quotesAt": "2026-08-26T05:30:59+00:00",
+  "newsAt": "2026-08-26T05:30:59+00:00",
   "quotes": {
-    "kospi": 6874.52,
+    "kospi": 6849.92,
     "spx": 7677.28,
-    "nikkei": 66399.75,
+    "nikkei": 66340.12,
     "vix": 15.45,
-    "krw": 1384.68,
-    "gold": 4699.1,
-    "wti": 80.5,
-    "dxy": 99
+    "krw": 1384.78,
+    "gold": 4700.6,
+    "wti": 80.69,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.65,
-    "nikkei": 0.83,
-    "krw": 0.28,
-    "dxy": 0.08,
-    "gold": 1.32,
-    "wti": -2.26,
+    "kospi": 2.28,
+    "nikkei": 0.73,
+    "krw": 0.29,
+    "dxy": 0.06,
+    "gold": 1.35,
+    "wti": -2.03,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "대신증권, \"美 슈퍼위크, 코스피 8000선 회복 분수령\"...엔비디아·PCE·잭슨홀에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVnpWR0I0ZU95SkVlbFBHQnJaV1RxMlZRanE0TDdlNF96X0JHUjFObDFreTJoOHdVa1dCM0VxR0tBWkFGdHMwR1o0OG1GVlprb1phbTQ5U0l3ZUR5dTNNeUZUVVJDbUxp?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-08-26T05:17:14+00:00"
+    },
+    {
+      "t": "7월 가계대출 금리 4.64%로 석 달째 상승…주담대 고정금리 비중 12년 만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16WFZvZU5TNHJrV3RSWHZpYTF5dW53NGlZZzUyQ2dUM0dPQTc4cjB3M3NfcjBZMVRIRjREWU1qdWtGQWxTZmZaaHd0ZTBEUQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-26T05:07:05+00:00"
+    },
     {
       "t": "[머니톡스] 과열 불은 끄되 방화복 입혀야…통화와 재정의 '공조'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQ01jeU9kdE0yRkRBNlJWeG52OGJuU2dvR1FCVDR6WUpHdWNxY1d1QUJsT1NtSnFiZGUzZTJmekxXaE50ejlpUjJqMGpzV1k?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94OUFZWkZ2QU5pWS13Mklfem1DOGdRajZaQm5GRlNRUGdBbkUzcnZBbnFyTWRvS1hNWnFRTmU5alJLQV81SG9yR2I5S0FoNXNWWEh4QzJEWm9PdE0?oc=5",
       "s": "데일리연합",
       "d": "2026-08-26T04:40:02+00:00"
-    },
-    {
-      "t": "기관 순매수에 코스피 2%대 반등...삼성전자 2.72%, SK하이닉스 2.92% 상승",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbldRVXhBeHcyc1J6SktTbnlXc2IzdmRwT21GNVZZMjR2S3ZOZkE0Ukx0MGpBeVoyMjJ4Q19KX29ETG5DOC1LZ2ZaVHhBNHhCbFNjb05sRl9ydm1TVXJXSnpBUkR5ckZfMVM0ckgzanIyU1pROFFGWjBwai1Xb1dOZ2hScjk4Rkh5X3J5aThn?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-26T04:38:00+00:00"
-    },
-    {
-      "t": "“고정금리도 부담스럽다”...주담대 2년8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTTNRWEtSd3JTUlJnZDN6ZTJxdW9rOVJWWkJUQXdNXzhSTEFUMGFPdFZwdjJBa1hVWG93SFVNUG5hUXh2azNmMVBRRFpINjNyR0RhcGQwNDFqTGM?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-26T04:36:46+00:00"
     }
   ],
   "asof": {},
