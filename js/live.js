@@ -1,40 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T08:30:59+00:00",
-  "quotesAt": "2026-08-26T08:30:59+00:00",
-  "newsAt": "2026-08-26T08:30:59+00:00",
+  "fetchedAt": "2026-08-26T08:45:59+00:00",
+  "quotesAt": "2026-08-26T08:45:59+00:00",
+  "newsAt": "2026-08-26T08:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.71,
-    "krw": 1383.28,
-    "gold": 4680.9,
-    "wti": 80.42,
-    "dxy": 98.92
+    "vix": 15.69,
+    "krw": 1383.96,
+    "gold": 4684.8,
+    "wti": 79.88,
+    "dxy": 98.94
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.18,
-    "dxy": 0,
-    "gold": 0.92,
-    "wti": -2.36,
-    "vix": 1.68
+    "krw": 0.23,
+    "dxy": 0.02,
+    "gold": 1.01,
+    "wti": -3.01,
+    "vix": 1.55
   },
   "news": [
     {
-      "t": "(뉴스 번역) 캐나다, 미국산 제품 700여 종에 보복관세 부과-Xinhua",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxbTFaZkZJeGFYNkx3dnNsTDM0WjFWbDVaSk9kNVQxOUlvR2pZdG1pdGFGaGllUlduQV91TW00M0NGMkR2RjJSQnNUZmV1dU9nMkVMcnhLSUJmRXJMUXg1T0ZvZFdtaG1sS3ZfMVY3c3RiU0da?oc=5",
-      "s": "신화망",
-      "d": "2026-08-26T08:28:02+00:00"
+      "t": "주담대 고정금리 10개월째↑ '연 4.76%'…고정형 비중 12년5개월 만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGamJZaGh6NjZfenotcXEtQVNKRXQ4RWVmQl9RT2JyaTdGRGt2SDlJMjAtbzQ2MVhhZ2h2YlR4OXktenJGb2dWVVN4WVFiamkwTTBuTU4tNEFIOGdSUnlodkxsbWl6aVlwZ2hv?oc=5",
+      "s": "한국부동산뉴스",
+      "d": "2026-08-26T08:27:34+00:00"
+    },
+    {
+      "t": "금통위 앞두고 국고채 금리 대체로 하락…오후 들어 낙폭 축소",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10YlBhRTRCSU9HYWYyQ1FjaTV2ek1oMGNfZ0gwcm5KMjRzeTRaQ2U4TUFDOWw5SHMzeWhlWnA3cDYyMGhFR1M3bGRSeHdaNC1IOTZmU1NLTGhkeHg0Ul8tamlaN09IaHR4MzJZYjN6RXfSAXRBVV95cUxQREI0MEFVbE9KaV9xSXFSRE9KTW1oM0RRT2w2RjhsdDZfdHpRdlZ5M0FXMmxqU0FJTGpvUndFTzBiLXdjbzloUjNWOEtMWXdEZnZYdW5fcDY1YXBlMV9DdFU2bkRhN3Z6Ukh3bUhUeVBRTFlJNA?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-26T08:24:00+00:00"
     },
     {
       "t": "[표] 외국환율고시표",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RcnFLeWFrR2ltLXFCUWxrMjQ1UUZjUDIxa1NPQzhRMWo0dHNHMThKZGFVc2JPSHNrc3BkQlFoNk9oUGZLemhSZlVTTTlzNVVqUmc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-26T08:22:59+00:00"
+    },
+    {
+      "t": "[亞증시-종합] 美·이란 깜짝 합의 기대감에 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LcUpPenZuOWZpWFhOR0ZDaFJpWS1IeTNQdE9pVm1MSFhIMVkxbHZRbURBZHVKdndZX3F4QWpvcmhLYVZKQVdFdkhkemswRVFZb210MUJ5dEktdWNvOGhJQlpUeFI4T2tfd3lfTmwxNlVMQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T08:19:35+00:00"
     },
     {
       "t": "한은 기준금리 인상 여파…7월 가계대출 금리 0.14%P 상승",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T08:07:55+00:00"
     },
     {
-      "t": "엔비디아 실적 앞두고 관망..코스피 0.97% 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SkRueVhFR0VIbjJaR0NlZ2dIUXFYVVBwNmJLcERjOS1LaVlOUGZiX0U2b185Mml2c0hlcGszTkVmSTNrQW1MSFI1endpU1RJSkE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-26T08:02:30+00:00"
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0WkdveXlhcEtyMjhZT0oxLXhPd1FIQk1yc0t1aE9UVWVTVm5kMHRxb1VRY0tyeTVScHNyMUJ0cWJnZWdaM0xDYV9PVW1XbEcwYnV1RExLX0xlbzFERk9fd0hJZFRnZG82TzJvblVLZmJRMEs1R0pyUtIBeEFVX3lxTE52TlNZSUdQVmI1QTlCcUZELW5yQnE3NC1LQXEtdU51UGRoMW5LN2lRRXZ1eTlJa3RXN2RMd1VFZVo2dkx5SnN1RURyNnNaZnJndDluNlRoTTN5ZnJ6N2M0NE1QQllBcHI5R3VDeHJyWGttVVBybUVFXw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T08:05:18+00:00"
     },
     {
-      "t": "\"노동절 다음 화요일\" 캐나다 관세 발표에 숨은 '미묘한 의도' [이상은의 워싱턴나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OZFY3eEZRaDNhQXpiMXEteVF0NkNLWm5DZGZ1ZndjcXQyaXY2RkFrYlpENnFlTmdRVkYzcF9iekRnOC0wLVBGSFBVVlpqVjZDUlVwTlZGSC15QQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T07:57:22+00:00"
-    },
-    {
-      "t": "[뉴욕증시 전략] 7월 PCE·엔비디아 실적 앞두고 관망…반도체주 강세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mMGxodXNPMmlISjlOQmFXTXVHdU1kamNRLVY1aXZqT3Nfd3JQYUduelg4MzZQNUFoLTFSNWdLeUo0MzRFd3ZwbVFDS2w5YVU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T07:55:17+00:00"
-    },
-    {
-      "t": "코스피, 자사주 매입에 방긋… 엔비디아 실적 발표 후에도 웃을까 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yZ1FHZWVvNjhhVFcwb3RFS0FEMlNtTDQwdVZNQ29lbXVkTGRGV1U1YWpKY0YtMzZKWFhZWFBYRkIxWWVsLS1MaTBMZm9pUGpDYnFJSWtqb25vUkFuZ2xoY2JnWkw1SXdf0gFuQVVfeXFMTXVkdENRdDlabkt0SkZ4ZU9XVzVwUjBTakExX1NxZ3pTZ2ZyTGI2VEJLaXYwX2FZZU4wLUdMRlFiNExCVmN1dF9RQXRYRVdmY0ctMmk0VGlYSF9ZV19yQVdNcXowMWdwWDR1aEFGYVE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T07:55:09+00:00"
+      "t": "금리 하락에 상승했던 지수‥엔비디아 실적 기다리며 관망",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FZFBQMFlRZFJ6Y2NSWEZibzYtWERmak5rdlpRN1JLQUhLWE1paGk4MFozZEpLdFFBWS1GOWxrMUJMb3gzcVpxQXVxWGhTSEhOTFBHREx0MGhqN1p5UjF0Y0ZMSkxzV2ZUR1YwcW1UY2lhT0dVekprZtIBeEFVX3lxTE8xVUFXeWo1Zzl2cE5kU2poaUdoOTB5b0NZemd3eXdvMTdKbU14eTFFTEJ6QnZ4TjdzWml3TUZURTZYWFFCNDN1dmhQLU9iVXhkWmhHS0pBa25mek5wc0gyZDFQT01tMHc5c3BBeDlYTFRPc2pZWC1ieA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T08:04:35+00:00"
     }
   ],
   "asof": {},
