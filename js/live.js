@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T11:15:59+00:00",
-  "quotesAt": "2026-08-26T11:15:59+00:00",
-  "newsAt": "2026-08-26T11:15:59+00:00",
+  "fetchedAt": "2026-08-26T11:30:59+00:00",
+  "quotesAt": "2026-08-26T11:30:59+00:00",
+  "newsAt": "2026-08-26T11:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.65,
-    "krw": 1384.02,
-    "gold": 4675.4,
-    "wti": 80.17,
-    "dxy": 99.02
+    "vix": 15.62,
+    "krw": 1384.36,
+    "gold": 4677.4,
+    "wti": 80.14,
+    "dxy": 99.03
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.24,
-    "dxy": 0.1,
-    "gold": 0.8,
-    "wti": -2.66,
-    "vix": 1.29
+    "krw": 0.26,
+    "dxy": 0.11,
+    "gold": 0.85,
+    "wti": -2.7,
+    "vix": 1.1
   },
   "news": [
+    {
+      "t": "UNIST, 태양광 수전해 효율·내구성 높인 유기반도체 광전극 개발",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NjFvSzRTWkVKck85TkZpU3Myang3Y3plR01Ccnhmem1tSDAxVXlITHpoTEZIREc5VjdjSV9SNzlQSGh5LU1Yd0pPMjdCRkN4WFN3ZlNTUjdmTlM3UkpVcEdvakU5bF9LbXg1R9IBcEFVX3lxTE9UUTFrOXZDbG05ZWhzNDlVamdNNFdOQ1Rpc1N2S2xsQVV4NzBDRUR1LWlmb2VZWkxZc3kwWFdkYUp1Z2JZY2VnVk5BUEF6WmxyTFZXVnVyN3NUM21EaUFSb0o1N1U0OUl3TEU2UkM5QS0?oc=5",
+      "s": "전기신문",
+      "d": "2026-08-26T11:13:04+00:00"
+    },
+    {
+      "t": "미 국채금리 상승·재정 불안에…금·비트코인 반등",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaLXM2SWdLUlJBYVNHOXpDaGQyYzc2cU55SnoyT01xeE90Sk96TTBmdkh1R0IyVElxU2M0TVZER3lrNlRKLTFxTlBEbjNFQm91amhzM2p3N2tWZw?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-26T11:12:00+00:00"
+    },
     {
       "t": "박현주 \"반도체는 미국 말고 한국에 지어야…공급과잉 와도 치킨게임\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SYlFPSTJYc3o1ZlZRSVRhUE9GenFGd1ltX2RFamstZU01QVpEVDhwX2NMUS1rV05VemlyX2JvTk93NGNpUkN6NTVKUTRKaG43Qjh0NHhnWW5TYU0ybXZjLUZaNlB6SUhNTVdpamd2MUVJZw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6Q2ZnX21CYVN6THFVS3lWR01jNjJveFAxcHFEcUxhRlVTUFZxU2lqNkYzZldZd1BzY2JUNnhDVngwOE1qcGQxelpuWnd1RGdIUzJveGlEMElXVGNHVVVOZkhVay0wNnMz?oc=5",
       "s": "녹색경제신문",
       "d": "2026-08-26T09:57:53+00:00"
-    },
-    {
-      "t": "7월 주담대 금리 4.48%…2년8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yMXl4SS1pQThuZDV5cHZfRTFaYjJzV2lfVWZXcWZ3dmktSFo1anM3SUNaNGpGS2FuUzRYVDAwSEhCSzJfVXVBbVc0STZfSW82bXZkWFhKTEVncDJCS3B3WFlDaVNsaWVuY3NOeDAycldkZw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-26T09:57:00+00:00"
-    },
-    {
-      "t": "호남반도체 속도전…정부 6조 지원한다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SjhPMWlnRVc5THJnaXpZel9lUXFUMmlGZkxjZnBBTEJhVkpUZW0xTHhQdnBXazdXMWM4SnNJMXp0bG84UjVzOEJfNGxCWnlEOTNTVUItd0FmQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T09:46:29+00:00"
     }
   ],
   "asof": {},
