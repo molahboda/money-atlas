@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T14:15:59+00:00",
-  "quotesAt": "2026-08-26T14:15:59+00:00",
-  "newsAt": "2026-08-26T14:15:59+00:00",
+  "fetchedAt": "2026-08-26T14:30:59+00:00",
+  "quotesAt": "2026-08-26T14:30:59+00:00",
+  "newsAt": "2026-08-26T14:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7679.41,
+    "spx": 7669.75,
     "nikkei": 66262.16,
-    "vix": 15.45,
-    "krw": 1385.38,
-    "gold": 4679.4,
-    "wti": 81.47,
-    "dxy": 99.15
+    "vix": 15.47,
+    "krw": 1386.52,
+    "gold": 4680.3,
+    "wti": 81.64,
+    "dxy": 99.19
   },
   "daily": {
-    "spx": 0.35,
+    "spx": 0.22,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.33,
-    "dxy": 0.24,
-    "gold": 0.89,
-    "wti": -1.08,
-    "vix": 0
+    "krw": 0.42,
+    "dxy": 0.27,
+    "gold": 0.91,
+    "wti": -0.87,
+    "vix": 0.13
   },
   "news": [
+    {
+      "t": "이상일 시장 “‘용인 반도체 프로젝트’ 성공하도록 모두가 힘을 모아야”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOFhtelJQNk1HNmtIT2pkNlZ0MERJZ3pGZGhvczNDam1DMWRFbm5rd3NIS3owbE1BcGlSaUpZc2VEVWpwSHc3QTMzSmhTYUU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T14:11:56+00:00"
+    },
+    {
+      "t": "뉴욕증시, PCE 지표 소화하며 혼조 출발",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CWG1GeUhkVWpiTXNPWFhJMm10UkwwYmhvNUNRVDE4ZzQxLTFra1draU5uWkxBa2ZKbElzVE1pc0JiZ1FhQlpjWE9CWUo1MlZoNXc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T14:06:50+00:00"
+    },
     {
       "t": "민형배 광주전남시장, 반도체 중심 성장모델 제시",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBERlZCZThUOEl0emtfYmlMbUFiamlvZWdIWng5VVg1Z1phYVl0ZUpGRmxaemVDaW1QT1VfZzFOX2swcmJ4di1KZ3FEd0ZnZ056UlltcTVOX3VtTTdFTmNEYTlB?oc=5",
@@ -41,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVWJTT2lEbTkySjVOUDBCdncwRjJ3NDNfNkNlOWpBTjl6bUN1Tk1BLUg3YVF5UExrUEE5VXlfdFFReDE0NjEwYjVXNU5tTnpGNDBGelo2SUdkaGs?oc=5",
       "s": "중앙일보",
       "d": "2026-08-26T13:27:34+00:00"
-    },
-    {
-      "t": "머클슈트 카지노 프로모션 에 대한 2025년 전망: 어디로 향하고 있는가",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YV1ZLVnd4N1NxWkhOVzVwQnNhSTBtekpPbGdjc010STFnYWJEOUJpSWxuWGxIV0VMZFpTSU5JZzVIdGoyS2RYY0stTTNHNjV3SlJ5dGhyN3diQi1xVDVkZVJSMA?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T13:12:56+00:00"
     },
     {
       "t": "미국 7월 PCE 물가 전년대비 3.7% 상승… 전망치 상회 - 조선비즈",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43Nm9vcGxaTHhjVUZKNnRCaUpmcTV2aE5nX3BSX09QZmM1WkdWTVo0bk8xdnIwZ055Y19CTG0tMmpCdi1WM1dqaE1NLWdkSTNuUl9ocWNpbmczZw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-26T13:02:33+00:00"
-    },
-    {
-      "t": "7월 美 PCE 물가 상승률 전년 대비 3.7%, 6월과 동일",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlJWYXBhTElxUXVJQ2Z3QnJDdjk5MWIzYU5adHdwbWVTMnRUOXg5eFNtSFRiWUNQUkRxZnVnSWFQNGNSU1pIVW1UbHMxNzB1NUsyZDdweHNTZklHa0d6TFpYSTdJTzZ1UGJIWi0yZjFlcUZIX1o1SDVPclVGblVFVlllLTMtdEg4Y2hYeERB?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-26T13:00:06+00:00"
     }
   ],
   "asof": {},
