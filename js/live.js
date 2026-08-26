@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T06:30:59+00:00",
-  "quotesAt": "2026-08-26T06:30:59+00:00",
-  "newsAt": "2026-08-26T06:30:59+00:00",
+  "fetchedAt": "2026-08-26T06:45:59+00:00",
+  "quotesAt": "2026-08-26T06:45:59+00:00",
+  "newsAt": "2026-08-26T06:45:59+00:00",
   "quotes": {
-    "kospi": 6819.21,
+    "kospi": 6813.21,
     "spx": 7677.28,
-    "nikkei": 66243.75,
+    "nikkei": 66262.16,
     "vix": 15.45,
-    "krw": 1384.38,
-    "gold": 4688.8,
-    "wti": 80.81,
-    "dxy": 98.99
+    "krw": 1384.98,
+    "gold": 4685.6,
+    "wti": 80.73,
+    "dxy": 99.01
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 1.83,
-    "nikkei": 0.59,
-    "krw": 0.26,
-    "dxy": 0.07,
-    "gold": 1.09,
-    "wti": -1.88,
+    "kospi": 1.74,
+    "nikkei": 0.62,
+    "krw": 0.31,
+    "dxy": 0.1,
+    "gold": 1.02,
+    "wti": -1.98,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "'삼전닉스' 몰린 코스피, 0.97% 상승 6800선 복귀…코스닥은 ↓",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95NnRwQXlBTXhKN2FQMExuOFp4TkFfU0M4MzBFeklNV1lhTTVqc1E4by1nYUlpWDFHeXlkVDhFQmMwRzFvNExYbXdEX1BVNkhLb1l0Xzkza1JaSVdrY1g0WW9JRWs3WUxMM0lTaE1HSUVKMkRf?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-26T06:42:00+00:00"
+    },
+    {
+      "t": "[외환] 원/달러 환율 1.3원 내린 1,384.8원(15:30 기준가)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EaWhfbWJ1MEVnNEw3dkhxZjF4R2Z2aVJmSm9sX0MyZXNUbm9sSUNHeFJraUhqRFJvbWFYa3VzSFU0Ukthb1pvUERlVVN5ZnhIc3BDVlJrVEthRDjSAWBBVV95cUxPb0FxRXozaHNkam4teDFEQnpvRmxwYWVSNU1xblpKQnM2MElIS2xkSmx6REtOZnNsQ2V6N0N5d1piRjk5dU94SHEyNksxN1ZXT1FGM0x3VUo4Qk5MaVlaUGU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-26T06:35:22+00:00"
+    },
+    {
+      "t": "반도체 경쟁력 ‘용수’가 좌우한다…호남·용인 산단 물 인프라 구축 속도",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qcVpQU2VhclZHaW9uVG5Qc2UzM0pZdWxEMGc4dHh1Q2YtLTNoLV9saWdrYm9jUjcwckNpLTFTamtkbFZMZklCMHpycUppTDQtemF6S0MtSXAxc2NwbXlwa0JPbDYyTWt5RUVJM0pCYVVnZw?oc=5",
+      "s": "에너지데일리",
+      "d": "2026-08-26T06:34:34+00:00"
+    },
+    {
+      "t": "삼성전자·하이닉스 쏠림에도…대형 액티브펀드 절반 이상이 코스피 제쳐",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xTE5Ea2tYMnJRakdxR0EyMU90T21ROHA1ZDV2ZUM3c01VLVd6Z3dOaHdqc1JERS12YVQ2QTJlVjVselBXbmlWeWZMYkpRamRNaU4ydkVZUjNYeVk?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-26T06:33:41+00:00"
+    },
+    {
+      "t": "경남대, 반도체 분야 실무역량 강화 '반도체공정장비 사관학교' 운영",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oZ09ibWptd19ZZXl5aW4xYTloTk5mTThmZVpXVTl5Y3pwUXp5ZzhaNTNiZ2FocnRYd1BKVnREZGVMSXRDLUUtanZUSTR0UQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-26T06:32:50+00:00"
+    },
+    {
+      "t": "[속보] 원·달러 환율, 1.3원 내린 1384.8원",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFhYMkNRNWZZTFBXdjVybm1fblhVb3hWeS1zX1NlNnFLS1dRc3RVclZHUXpwWWxmTWVuUmNTeS1PNmdNbTEzNjJlZ1hTOUxVTWFFbHIwUUdFRm51Q3RaNFlyTGNEM3JEX3c4NEZlQ3IxR2YyX2VqR0xIWXdBNW9pVHVoZTc5QQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-26T06:31:00+00:00"
+    },
+    {
+      "t": "금리 뛰는데, 고정 비중 12년만에 최저…‘이자폭탄’ 경고음 커졌다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43ejd1TVoxVk1IOEszSVNBdUZraDNDZmdBLWJOV0F0MU9wUDR6YzJOSjFUVVdFamlzWXp6WlR0NnBvR0YyQWYya1RsRUZJSVU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T06:24:00+00:00"
+    },
+    {
+      "t": "트럼프 맞서 캐나다 '보복 관세'‥공화당도 \"실수\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55Q2NRRkZNUGxmU21oM3F6MURNUG9KVE5kLW1wZXBnQ3N2eE5HVjliZXE0ZVk5OGZIZEdRaFJzdHZmVGFURjNBemE3SXZ6allJVnVfTEJXZzFrcUV1YWdIaHF2Q1hKRVFxVGdMUm9YQm5uY1NMOXpHcNIBeEFVX3lxTFAxeWFZZ09zREhyOF9iWkNkcmxZX0V1WC00ckRRLUdSQ3BjV3BfREVnSGNPWElKTU1tZVFLd3Ixck5KNkdGQkhLaW1waDlzUGs5aFRNT2sxYjNMY2tYdW5qQ2FCWkkwOGlxTnVkb2VmTHZzdkhvRU5kTA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T06:23:22+00:00"
+    },
+    {
+      "t": "캐나다, 미국에 200억달러 보복 관세…관세 갈등 넘어 ‘주권 충돌’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hVVNQSWh2MjM0ZjBTUENVZnE1Vk1RY2F2clVhTWRBa3JVaWJrdnFoeHJkcEV5TDhXd2FnaTZWSGdYSFdyZjV4VE5KZlhjRjg1YWZxWktIQ1ppMU1oazdDUVgzM3VFWWN2NHUtM3NWOA?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-26T06:22:00+00:00"
+    },
     {
       "t": "스태츠칩팩코리아-KPCA, 반도체 패키징 산학협력 현장체험 열어",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LRnV0UFIzemlfN2xwVmdHaUgtVjRqNXJPSUJ1Tkl1WWt0czA0aS1HN3dLbGQ1ekp0X3JFcFUwd01oMUhPem5tMkhCeTNEQ0dMUnAtTm12U3dwaVVuSWhQamRoTlhsZw?oc=5",
       "s": "디일렉",
       "d": "2026-08-26T06:09:16+00:00"
-    },
-    {
-      "t": "금통위 D-1, 기준금리 이번엔 동결에 무게…가계빚 2000조·주담대 6% ‘딜레마’",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rR2JyREltcFBzNG5PZWxwajMzWE1RVThPQVpRVDYtQzdxYkd2Tmg3VC1iQ29GZjJ6eGVXTDFwcTYyOGxpR1BhQVF5RmNsTXA4d3lvcmpFQkFSdlMySXNwcWh2MWx0Ny04YTd6SHFIU18?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-26T05:59:47+00:00"
-    },
-    {
-      "t": "\"반도체 테스트도 '원팀' 필요\"…장비·부품 표준화 속도",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wUkZETmpzeWpMckRPbUx1Vk5hbFdTR3lQV2ZqZUtyeWFxM3FuMlVkN0NlVVZQc1FDeG1jV0RibzcyRHdxSmx5bkVIblJ5ZnRkU012SDZxTDhTbDBOeFljeXFxenZlZw?oc=5",
-      "s": "디일렉",
-      "d": "2026-08-26T05:58:01+00:00"
-    },
-    {
-      "t": "추석 앞 중소기업 대출금리 다시 상승…대구·경북 업종별 자금사정 ‘온도차’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XLVBnMmxZTU9XbTJiNVZBOWpPS2oxTW15ME9nQ0VlVHF5dFRUWXlLYzFaaGdrMVJxOFFXQVVHMjVacDRHY2l3TTBkMFN5NDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T05:50:03+00:00"
-    },
-    {
-      "t": "뉴욕증시, 반도체주 강세·국채금리 하락에 일제히 상승",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41b1U1T2tYZWo4SGxJV0I2U01CWDBBWm56ZnJ1b2Y3MUZ0UWg1Qkx6ZzIyT0pvQnlFMXdGSWx5cUhyUTdlT3Myd3FSNnhKZW9tOWVsZWN1MmIzOV9qNGpaYjRaWjRWMGpwRjhnZ2d0WnhpOVF20gF0QVVfeXFMUGZGRUhPazBfbUZIYURpNE00SkJoMWd4UEhtZFdMZTU3dWE3Q0FDS3dtTHRoTFpOMmhtaU9xS0x3eVdEbms0a1ppOGlpNnQ1VU5xVG5EZXI4MDc0U1NhX3lUaDRDU1F1QmRkMVBJTGZWOWhxQm8?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-26T05:43:32+00:00"
-    },
-    {
-      "t": "6주 만에 40% 폭락…WSJ, 韓 롤러코스터 증시 조명 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNHZvRHM1b1JhWFR2MVkzcWFfUzRXazBFaW5MdzRjRjBabG5XSXpfUTlBWmJxTFFESTQtbUtPb2tuZ3lzQTRGdVVEc1ItZEp4ZTJkNlhNTHpVSGRqWTlMNmc1dV9aZzBQOFk5NHc3Y2I?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T05:42:00+00:00"
-    },
-    {
-      "t": "[외국인 놀이터 코스피①] 사면 폭등, 팔면 폭락…증시 쥐락펴락 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YRElmd2F5WEFIdFBEbk9wNXZ6NHhvSHcxUEwtTUFmamVxMVYyYnhxT0ZUVXZlQW1QcnVBTXpvZjI0LWNxX1JHeFhUc045d3pSbWZvUDNqVmJxaENrS3VITGM3UzFWYmEwNGtyZUUxSUs?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T05:42:00+00:00"
-    },
-    {
-      "t": "삼전닉스 주주환원, 환율 구원투수 될 수 있을까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYjJ6UDJ0eWNUVmpfRGFnUF9fOFl5S3JNRUc4SzVTbDZ0cU9renF6Nnh6TUJZVVp0T2t0bnItdHBRb3ZOUDlYTWhfSmNrMG85UEVOV2FCZ1o4UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T05:38:16+00:00"
-    },
-    {
-      "t": "집에서 삼겹살 먹기도 부담스럽네...추석 물가 비상",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ieFBmVTYxZmxiYWNHZkkzNEc1dlluUjFWLTFXWU9yWG1TNEFsa3l1M1NCY3VxTVpFcE1ibVJCdzljcWRaTGRzYTBGZW80VXk0WjdXYVlVRjFDc1Q3V3c?oc=5",
-      "s": "YTN",
-      "d": "2026-08-26T05:34:00+00:00"
-    },
-    {
-      "t": "국장 쓴맛 보고 떠났던 서학개미…1300원대 환율에 '울상'",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSUlxcnBfR3lNY1JuUEFIWkxrWE9qbHNmYjhESDhHZGNVZmxEUHh4dVNaS2FLYTZzNVhwMy15bV82cmVDeXZ0eU5oNzhJV3RHOG1ScF9lRElhTlN4N0E?oc=5",
-      "s": "아시아타임즈",
-      "d": "2026-08-26T05:33:00+00:00"
     }
   ],
   "asof": {},
