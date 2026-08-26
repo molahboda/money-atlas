@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T05:45:59+00:00",
-  "quotesAt": "2026-08-26T05:45:59+00:00",
-  "newsAt": "2026-08-26T05:45:59+00:00",
+  "fetchedAt": "2026-08-26T06:00:59+00:00",
+  "quotesAt": "2026-08-26T06:00:59+00:00",
+  "newsAt": "2026-08-26T06:00:59+00:00",
   "quotes": {
-    "kospi": 6813.96,
+    "kospi": 6838.84,
     "spx": 7677.28,
-    "nikkei": 66338.5,
+    "nikkei": 66331.62,
     "vix": 15.45,
-    "krw": 1385.08,
-    "gold": 4702.7,
-    "wti": 80.73,
-    "dxy": 98.97
+    "krw": 1384.48,
+    "gold": 4694.2,
+    "wti": 80.8,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 1.75,
-    "nikkei": 0.73,
-    "krw": 0.31,
-    "dxy": 0.05,
-    "gold": 1.39,
-    "wti": -1.98,
+    "kospi": 2.12,
+    "nikkei": 0.72,
+    "krw": 0.27,
+    "dxy": 0.06,
+    "gold": 1.21,
+    "wti": -1.89,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "6주 만에 40% 폭락…WSJ, 韓 롤러코스터 증시 조명 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNHZvRHM1b1JhWFR2MVkzcWFfUzRXazBFaW5MdzRjRjBabG5XSXpfUTlBWmJxTFFESTQtbUtPb2tuZ3lzQTRGdVVEc1ItZEp4ZTJkNlhNTHpVSGRqWTlMNmc1dV9aZzBQOFk5NHc3Y2I?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-26T05:42:00+00:00"
+    },
+    {
+      "t": "[외국인 놀이터 코스피①] 사면 폭등, 팔면 폭락…증시 쥐락펴락 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YRElmd2F5WEFIdFBEbk9wNXZ6NHhvSHcxUEwtTUFmamVxMVYyYnhxT0ZUVXZlQW1QcnVBTXpvZjI0LWNxX1JHeFhUc045d3pSbWZvUDNqVmJxaENrS3VITGM3UzFWYmEwNGtyZUUxSUs?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-26T05:42:00+00:00"
+    },
     {
       "t": "삼전닉스 주주환원, 환율 구원투수 될 수 있을까",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYjJ6UDJ0eWNUVmpfRGFnUF9fOFl5S3JNRUc4SzVTbDZ0cU9renF6Nnh6TUJZVVp0T2t0bnItdHBRb3ZOUDlYTWhfSmNrMG85UEVOV2FCZ1o4UQ?oc=5",
@@ -31,10 +43,28 @@ window.LIVE_DATA = {
       "d": "2026-08-26T05:38:16+00:00"
     },
     {
+      "t": "기준금리 연속 인상하나…이번에 올리면 3%대 도달",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVlo3bERnVVRZQU85aDNEZkJmZW9SN3pDT1ViM3ZOWnBfWTlLYmltVGczM3h2cE5XVUp6U1ZyYm5jRDFPQl9nbnV5U2lXRmM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T05:38:00+00:00"
+    },
+    {
       "t": "집에서 삼겹살 먹기도 부담스럽네...추석 물가 비상",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OOVdMai10YXVjbTRZUFoyMzRtcFprZmlGNkR0S1NRcFpwb0FxN1FoYXRYeWV4VlBlQnEzd2plU096VDVTVm13VmhsaEpzUzlodlFJQ3FpQmZwNllnekswYk9FOXlhTTNHM1R2WEtVSm1uRm1JMHc?oc=5",
       "s": "YTN",
       "d": "2026-08-26T05:34:00+00:00"
+    },
+    {
+      "t": "규제로 카드론 조이니… 금리 더 높은 현금서비스·리볼빙 증가 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVM4dlRmbmxvNUZQeGhGbVBKczBiRHVNNFZTOU5Oelk1a19ocUJKQ0d3UEV2dkU2ODFsaWNhRjB0NTc1aXRZTUwya1Bpb09OcnZtSXhhOTNqQW0zU3c0Q2pfSzJUYjdnYnJla3g4VDE4c09peTltazFWTVdzTnlTX9IBlAFBVV95cUxPc0tlLW9UczQtbnJtV0JhcWNPeTktcDEzWUIzSm5Mc3cxYkdGeXZRRkJ1ckJ1TENPVDUxRzlGM0NQek0tUDZNVDh5NUpnNEpxdHZoQ1pEU2d5Q2FNTkNzbWNxZ2NkcXJ6aEtRbUdaakx0S0JHTFpXdnVPMm1mWlNHUTB4eVVFa2FHUGF5U09FUl9uTzBH?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-26T05:32:40+00:00"
+    },
+    {
+      "t": "신한은행, 9.8% 초과 가계대출 금리 9.8%로…1년 더 지원 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kQzVRS2VmQWhqVmhJRWlyLUhNWTN4TG5pbjZLTFNKUS14ZFlRbVMzTlA2bEw2VVJNLUZ1T0xtNVRoT09aX0htVGtrSW9Za05RWVpVN3hCRE9aVW1Xd1VfYmNUeWdvRzYwMWhR0gFwQVVfeXFMTW1LRnVUMDRpSElTUVRWYlVvWW1NQjhZTDBfODR1bzZFbVFKengtM0NFenRjNGZKRUVEQ2E3S2tKaEVaLTVGS0RuLW9jdnlBY3F3Tzc2YVpwX0x6N2tMSVhhT3A0OERoRUFrOHI2c3JBOA?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T05:31:49+00:00"
     },
     {
       "t": "금통위 인상 경계 속 금리 낙폭 되돌려…국고 3년 1.5bp↓",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wbXI3eHRDTUpIQTUwMEZsbndHc0dZd1RPUXBNeEQ3Z1gwMWVrS0VyNGRJMUFIVjdxYURyX0lnaXUyZXQ5R2lZb1lqdHh1R0VzNm56cDdoTWNJanJuTl9GMV92TGJ4dw?oc=5",
       "s": "한국대학신문",
       "d": "2026-08-26T05:14:42+00:00"
-    },
-    {
-      "t": "코스피, 2%대 상승해 6800선 회복…삼전닉스 자사주 매입 ‘훈풍’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yV0I1ZVJsZTBrNWhaRWNFSjhGSFpocExFaExUeEZ0NkdxVTY4YlUtS3BDdlpsVWVIY1RXWHlTR1ltRlMwOU83M2xMR1E0Smxld1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-26T05:09:58+00:00"
-    },
-    {
-      "t": "7월 가계대출 금리 4.64%로 석 달째 상승…주담대 고정금리 비중 12년 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16WFZvZU5TNHJrV3RSWHZpYTF5dW53NGlZZzUyQ2dUM0dPQTc4cjB3M3NfcjBZMVRIRjREWU1qdWtGQWxTZmZaaHd0ZTBEUQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-26T05:07:05+00:00"
-    },
-    {
-      "t": "[머니톡스] 과열 불은 끄되 방화복 입혀야…통화와 재정의 '공조'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BQ01jeU9kdE0yRkRBNlJWeG52OGJuU2dvR1FCVDR6WUpHdWNxY1d1QUJsT1NtSnFiZGUzZTJmekxXaE50ejlpUjJqMGpzV1k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T05:03:13+00:00"
-    },
-    {
-      "t": "NH투자증권 \"원·달러 환율, 삼전·SK하닉 주주환원에 더 내릴 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RFJBeEdxNjM4X0lnZWxNZVlwT2ZEV3lnZ1ViUF9SRnNsOWVyVHQ1RXJtc0JxbU5QLXRVZlZDOUZVeHhrbHdfYVZzRGY4Rkk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T04:55:28+00:00"
-    },
-    {
-      "t": "아시아 증시 반등, 유가 하락·Nvidia 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OajlsSU1XZ0tLOUowQnBkc2JkWUN3T18xTFR1TkFxZFBfM29LTE9UekVZdG1wT1FRbDhHMFp0TF9VYTNBWDhNeXlxZnVLUmdrcXdBWlRyRTludjdWSUhNLXN2QlZsUVVGeXJWUXcydng?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T04:53:00+00:00"
     }
   ],
   "asof": {},
