@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T05:30:59+00:00",
-  "quotesAt": "2026-08-26T05:30:59+00:00",
-  "newsAt": "2026-08-26T05:30:59+00:00",
+  "fetchedAt": "2026-08-26T05:45:59+00:00",
+  "quotesAt": "2026-08-26T05:45:59+00:00",
+  "newsAt": "2026-08-26T05:45:59+00:00",
   "quotes": {
-    "kospi": 6849.92,
+    "kospi": 6813.96,
     "spx": 7677.28,
-    "nikkei": 66340.12,
+    "nikkei": 66338.5,
     "vix": 15.45,
-    "krw": 1384.78,
-    "gold": 4700.6,
-    "wti": 80.69,
-    "dxy": 98.98
+    "krw": 1385.08,
+    "gold": 4702.7,
+    "wti": 80.73,
+    "dxy": 98.97
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.28,
+    "kospi": 1.75,
     "nikkei": 0.73,
-    "krw": 0.29,
-    "dxy": 0.06,
-    "gold": 1.35,
-    "wti": -2.03,
+    "krw": 0.31,
+    "dxy": 0.05,
+    "gold": 1.39,
+    "wti": -1.98,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "삼전닉스 주주환원, 환율 구원투수 될 수 있을까",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYjJ6UDJ0eWNUVmpfRGFnUF9fOFl5S3JNRUc4SzVTbDZ0cU9renF6Nnh6TUJZVVp0T2t0bnItdHBRb3ZOUDlYTWhfSmNrMG85UEVOV2FCZ1o4UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T05:38:16+00:00"
+    },
+    {
+      "t": "집에서 삼겹살 먹기도 부담스럽네...추석 물가 비상",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OOVdMai10YXVjbTRZUFoyMzRtcFprZmlGNkR0S1NRcFpwb0FxN1FoYXRYeWV4VlBlQnEzd2plU096VDVTVm13VmhsaEpzUzlodlFJQ3FpQmZwNllnekswYk9FOXlhTTNHM1R2WEtVSm1uRm1JMHc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-26T05:34:00+00:00"
+    },
+    {
+      "t": "금통위 인상 경계 속 금리 낙폭 되돌려…국고 3년 1.5bp↓",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aWDMtOHRsOWxkN2hmVjlKV0RUYURCTUIyWmdkSnVFRzQwOEdIZG0tV3J4Y1pDV1ZTRW5LNnV3Q1Faa0pTd3VDR2hiZGt3bElDUzhMMS1XMDFoT012aTg0djlnSEJVXzNPMnhJQjdjWkd6UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T05:18:48+00:00"
+    },
     {
       "t": "대신증권, \"美 슈퍼위크, 코스피 8000선 회복 분수령\"...엔비디아·PCE·잭슨홀에 쏠린 눈",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVnpWR0I0ZU95SkVlbFBHQnJaV1RxMlZRanE0TDdlNF96X0JHUjFObDFreTJoOHdVa1dCM0VxR0tBWkFGdHMwR1o0OG1GVlprb1phbTQ5U0l3ZUR5dTNNeUZUVVJDbUxp?oc=5",
       "s": "녹색경제신문",
       "d": "2026-08-26T05:17:14+00:00"
+    },
+    {
+      "t": "대구공대‧상지대 앵커사업단, ‘대구‧경북~강원 초광역 반도체벨트’ 구축",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wbXI3eHRDTUpIQTUwMEZsbndHc0dZd1RPUXBNeEQ3Z1gwMWVrS0VyNGRJMUFIVjdxYURyX0lnaXUyZXQ5R2lZb1lqdHh1R0VzNm56cDdoTWNJanJuTl9GMV92TGJ4dw?oc=5",
+      "s": "한국대학신문",
+      "d": "2026-08-26T05:14:42+00:00"
+    },
+    {
+      "t": "코스피, 2%대 상승해 6800선 회복…삼전닉스 자사주 매입 ‘훈풍’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yV0I1ZVJsZTBrNWhaRWNFSjhGSFpocExFaExUeEZ0NkdxVTY4YlUtS3BDdlpsVWVIY1RXWHlTR1ltRlMwOU83M2xMR1E0Smxld1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T05:09:58+00:00"
     },
     {
       "t": "7월 가계대출 금리 4.64%로 석 달째 상승…주담대 고정금리 비중 12년 만에 최저",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T05:03:13+00:00"
     },
     {
-      "t": "[심층분석] 코스피 보합권 등락, 대내외 복합 위기 속 불안한 균형",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ITnVzeXdkZWhNa1BEajMxQmM5aHZpQ0JiY3dxUDZCNTRZbkNCNS1IVDFiUzUtLVhlS2N1YTlVYlNwNmNGbFNvZW5YSDI5VURET3pXSHNkUnpSbWs?oc=5",
-      "s": "데일리연합",
-      "d": "2026-08-26T05:00:05+00:00"
+      "t": "NH투자증권 \"원·달러 환율, 삼전·SK하닉 주주환원에 더 내릴 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94RFJBeEdxNjM4X0lnZWxNZVlwT2ZEV3lnZ1ViUF9SRnNsOWVyVHQ1RXJtc0JxbU5QLXRVZlZDOUZVeHhrbHdfYVZzRGY4Rkk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T04:55:28+00:00"
     },
     {
       "t": "아시아 증시 반등, 유가 하락·Nvidia 실적 주목",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OajlsSU1XZ0tLOUowQnBkc2JkWUN3T18xTFR1TkFxZFBfM29LTE9UekVZdG1wT1FRbDhHMFp0TF9VYTNBWDhNeXlxZnVLUmdrcXdBWlRyRTludjdWSUhNLXN2QlZsUVVGeXJWUXcydng?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-26T04:53:00+00:00"
-    },
-    {
-      "t": "6800선 회복한 코스피…美 엔비디아 실적 앞두고 '숨고르기'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84YTNCX3VQSHU4emdiOHhXd2plLWRQNzEwWnhhSnhhNkJQVmNDSjJaMUxmMlV6WGpNWlBzWXN6Z1dNSnU0NlVydmlPQm01VEZuYWc4VS10MV96Rk10?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T04:53:00+00:00"
-    },
-    {
-      "t": "미·캐나다 ‘관세전쟁’ 불똥?…산업계 ‘촉각’",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuVm5xbWw5cHkxemtlZmQ2YUV0N1dsa1lDMThxUEtwdFdULU41X18tV0Q4YVJ1aFBFZUNwLW9CeGVYNExiUlVPUUFmMlJYb1d4WTA4RFhrTVg4NFZrSUtkTg?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-08-26T04:45:09+00:00"
-    },
-    {
-      "t": "WSJ “한국, 세계서 가장 미친 증시”…‘롤러코스피’ 탄 개미 조명 [잇슈#태그]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fMlRMdmZVUGk1T3NuLUtUZ19FcFV6SkhpNlZ1LTVub0Jja3JkNGdMVHBSbVVwQ2pyeE5RTDhpdVBZcTR3WktvNUl5M3RWaVVxTjQxU2ZyYWh5bkk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-26T04:43:00+00:00"
-    },
-    {
-      "t": "원-엔화 환율, 2원 이상 상승하면서 871원 대 회복…달러-엔화 환율은 미국-이란 종전협상 기대에 159엔 초반대로 상승",
-      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPZFlJOGcxZTlJbVBvdnczUlNiTWtDMTB0MjJMR2c4RnBNZGZVRkViQ0VMUUluN245N2FKWHQxZE4xZFlN?oc=5",
-      "s": "산업일보",
-      "d": "2026-08-26T04:42:14+00:00"
-    },
-    {
-      "t": "트럼프 '관세 전면전' 재점화, 캐나다 이어 중국까지… 북미 무역 질서 격랑 예고",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94OUFZWkZ2QU5pWS13Mklfem1DOGdRajZaQm5GRlNRUGdBbkUzcnZBbnFyTWRvS1hNWnFRTmU5alJLQV81SG9yR2I5S0FoNXNWWEh4QzJEWm9PdE0?oc=5",
-      "s": "데일리연합",
-      "d": "2026-08-26T04:40:02+00:00"
     }
   ],
   "asof": {},
