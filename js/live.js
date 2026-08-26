@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T12:00:59+00:00",
-  "quotesAt": "2026-08-26T12:00:59+00:00",
-  "newsAt": "2026-08-26T12:00:59+00:00",
+  "fetchedAt": "2026-08-26T12:15:59+00:00",
+  "quotesAt": "2026-08-26T12:15:59+00:00",
+  "newsAt": "2026-08-26T12:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.68,
-    "krw": 1383.38,
-    "gold": 4674.5,
-    "wti": 80.5,
-    "dxy": 99.01
+    "vix": 15.67,
+    "krw": 1383.06,
+    "gold": 4684.3,
+    "wti": 80.53,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.19,
-    "dxy": 0.09,
-    "gold": 0.78,
-    "wti": -2.26,
-    "vix": 1.49
+    "krw": 0.17,
+    "dxy": 0.06,
+    "gold": 1,
+    "wti": -2.22,
+    "vix": 1.42
   },
   "news": [
+    {
+      "t": "캐나다, 미국에 최대 50% 보복 관세…중간선거 격전지 때려 ‘공화당 압박’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MSE5wdmRNdF82Mk83UHlTYUxveTFsUWtydkhWLWVPaHZIUWJDcmphc2dSX2xQZzNmckRucXpUOTA5LXA2SU05Nk1XTEFzaHJieGJhNXBCdVlhd9IBX0FVX3lxTE01YldwQXpSejJIaTZwZkF4eXdSRkFxcjNKQnBKV1V1Tl91blhqZUxRMnVEUkFJUDUzNndDcTJJUjBHaFVVVWZZc1hUWHctdjlZNGJJMlZ2cDZEWnA0YVNF?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-26T12:03:00+00:00"
+    },
+    {
+      "t": "[포토] 최신 반도체 패키징 기술 한 자리에",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVnB0ekcycXluQVc5eW9JQmh5aWVYR1plMDNIWlNoZjJCQVZoV3FYV0hDaFBtbUZ3N1RLbGM0NjJ4SS00OGlDUXpTT05mLXktczhJNG1NM3dmZFpNTjZQYmJ2MzVFa0NieGhLeTNEUWVqNVRkN0ZEVVQzVFE0Sng1OEdjc2ZGN2M2TkJKNFA2M1VMdkRUdWfSAWxBVV95cUxPbVo3aGtISmIyX0MtZDJJMEN4YTVIT2YtSkNEM2FJcEJHcXdTWVloa3hiaGlJUlZRdlNBSFJiN1ZyTFRTcXR0dzlUWFlkWkNnaWh4RHdhb1hraFN0MklNV3VSZWZuZUxuS25hMEo?oc=5",
+      "s": "국민일보",
+      "d": "2026-08-26T12:03:00+00:00"
+    },
     {
       "t": "“美 30년물 금리, 20년 전에도”…포트폴리오 바꿀 때입니다 [신환종의 채권&자산배분]",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKUWNIMFJ1OGNpY0lONHFFa3ZiLTVZNWZWX2Q5VUFxeTAyUlFtNHhMR1p6cXFMdVpDUkhINkJaY1lmNjZKdEF3eTZQeDFaT09IUHc?oc=5",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T10:52:10+00:00"
     },
     {
-      "t": "박현주 회장 \"부동산에서 자본시장으로 투자 패러다임 변화\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43R3dnVnVBZVEzU0NsUTI0SmN4X0c5ZXZhT0FpbmRTUWxONHpIV2YtVmxSZ09vUmMzOEdzS1dFX19WU3o0Z2JWamRYVGpzTWVKankwM3FRM3lJcVFoX2ZaNEJnVFBhN2FU0gFuQVVfeXFMTWJnUW5udWJSTF82MW13NEN5R3c4Ykx0Nmh1YVV3WmQ2aHlNM3gydVVKUmdJUG9rR3JlbkRjYjNabV9fbmVwN2FRb0FVWUlMb3RZY20yQzFPQUNRb2ZOZ0lseTAySjFXSVRTUXNhV0E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T10:34:08+00:00"
-    },
-    {
-      "t": "민형배 전남광주시장, 반도체 중심 지역혁신 모델 제시",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wbkpuTDVCcWN5WGVDdWdQenZ6b25ZTjFINm10bVlyZzJJTy1DR3BRbXotTkc0aTZEOFNUOVdia1FBd0xHVHViSjZWeV93OW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T10:26:06+00:00"
-    },
-    {
-      "t": "20조 중 6조는 ‘반도체 지원금’…“꼬리표 지원 우려”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVS1wVzBuekxOZ3RWem1nNFBXcDMyMnl2Q0NsVGk2dlU0dURTLWdBOEJPOTZKZWp6T3ZXXzlqS0lSUUtneXo0cEJJdmJ5b0EwdkdRYnN6MGxYdnc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-26T10:25:00+00:00"
+      "t": "코스피 3배 올랐다 40% 급락…외신 \"공포의 놀이기구\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xZjlsSUxEOXpMblpZSDM4LTRuRzdMQVlqU2dYNWw4dVVUWU1ZZUcwVmYwR2dJcGhxWGFhQUd2X1pUSDByU0sta09WVWxaTmNvVktIY2JFV1JJUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-26T10:48:57+00:00"
     }
   ],
   "asof": {},
