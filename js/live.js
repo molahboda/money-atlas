@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T16:30:59+00:00",
-  "quotesAt": "2026-08-26T16:30:59+00:00",
-  "newsAt": "2026-08-26T16:30:59+00:00",
+  "fetchedAt": "2026-08-26T16:45:59+00:00",
+  "quotesAt": "2026-08-26T16:45:59+00:00",
+  "newsAt": "2026-08-26T16:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7665.78,
+    "spx": 7658.6,
     "nikkei": 66262.16,
-    "vix": 15.58,
-    "krw": 1386.49,
-    "gold": 4654.5,
+    "vix": 15.61,
+    "krw": 1386.71,
+    "gold": 4649.1,
     "wti": 83.12,
-    "dxy": 99.14
+    "dxy": 99.17
   },
   "daily": {
-    "spx": 0.17,
+    "spx": 0.08,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.41,
-    "dxy": 0.23,
-    "gold": 0.35,
+    "krw": 0.43,
+    "dxy": 0.25,
+    "gold": 0.24,
     "wti": 0.92,
-    "vix": 0.84
+    "vix": 1.04
   },
   "news": [
     {
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-26T15:30:00+00:00"
     },
     {
+      "t": "반도체 끌고 서비스업 밀고… 8월 기업 체감경기 4년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhYTltcldEU3pUY2Z2djExaV9JRGxwRFNfejZCZ2hRbDJFQmF1cTZHeHhwMGNhWVZhTU02NElKNUd4cGZlVnFGTTIwNlo4Tkt0ZXlWRHNuYVNZRGJSNXhoUHAybDlEUVppY1BSdE9PZ3gyTkVIRXfSAWZBVV95cUxNVWdraDNFWlh4SG04WmtVYVZJQTY1YUxJOVY4bVQtdUI1aDZQYkxtQ29scXVhUnd5eTUtWVpieDlRN1dQbVlheGQ4ZkJHTzJxWkhVQXg4dEtoZlpvVlp6aEJmQ0VDbnc?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-26T15:30:00+00:00"
+    },
+    {
       "t": "“햇빛만으로 수소 만든다”... UNIST, 효율·내구성 높인 유기반도체 광전극 개발",
       "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JenNacVkyd0RzNFhMTTdSSExySE5KSVNLQTFiek9vcTNWLUZzSFBCcy1JcV9WMl9lZFMyczI1Q0Y3aUFkLUNOUg?oc=5",
       "s": "특허뉴스",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eGI3ZXZHWWlraEotb1VSUzNRdHJMYjZjMFJPenNSVWlHYV90NTlvc0tpR3VoYmhLN0FHYnYtRk9XSUx5UXBmbE0teV9XRTVTcG9JaWdWeXg?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-26T15:23:26+00:00"
-    },
-    {
-      "t": "美 7월 근원 PCE 예상 부합…헤드라인 물가·개인소득은 강세(종합)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMFlHNEhyT2QzV3NtQk53cWJ0UG90ME56eWI1cHdTcXQ4ejFuRktoWjFGWFVQN3prdjBjVUd0b3VCMTQ5ZUM1cTdaNExxNExZUVZoN0thWERaYmpoUlliVW9NVXZSVzA1Rjh1UHduZFE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T15:08:52+00:00"
     }
   ],
   "asof": {},
