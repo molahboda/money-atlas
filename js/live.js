@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T13:30:59+00:00",
-  "quotesAt": "2026-08-26T13:30:59+00:00",
-  "newsAt": "2026-08-26T13:30:59+00:00",
+  "fetchedAt": "2026-08-26T13:45:59+00:00",
+  "quotesAt": "2026-08-26T13:45:59+00:00",
+  "newsAt": "2026-08-26T13:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7668.18,
+    "spx": 7685.21,
     "nikkei": 66262.16,
     "vix": 15.71,
-    "krw": 1384.79,
-    "gold": 4664.7,
-    "wti": 80.74,
-    "dxy": 99.11
+    "krw": 1385.28,
+    "gold": 4669,
+    "wti": 81.09,
+    "dxy": 99.13
   },
   "daily": {
-    "spx": 0.2,
+    "spx": 0.42,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.29,
-    "dxy": 0.19,
-    "gold": 0.57,
-    "wti": -1.97,
+    "krw": 0.33,
+    "dxy": 0.21,
+    "gold": 0.67,
+    "wti": -1.54,
     "vix": 1.68
   },
   "news": [
+    {
+      "t": "민형배 광주전남시장, 반도체 중심 성장모델 제시",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBERlZCZThUOEl0emtfYmlMbUFiamlvZWdIWng5VVg1Z1phYVl0ZUpGRmxaemVDaW1QT1VfZzFOX2swcmJ4di1KZ3FEd0ZnZ056UlltcTVOX3VtTTdFTmNEYTlB?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-26T13:41:37+00:00"
+    },
+    {
+      "t": "우즈베키스탄 중앙은행, 인플레 둔화에 금리 인하 시사 - 블룸버그",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01YzhfbHNWcUxYZkM4c255cmYzUVQ1ZXZSeGIyZmRDLW9WdDRSTWhXWkQybVY3OUQ1Y3JnSnY2alEzSUdjak9FWncwWFg3Q3l0MktOY0lfSU9KTUZuSFJrX2JiN0ZqWDVRSFZnY2lB?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-26T13:38:00+00:00"
+    },
+    {
+      "t": "미국 7월 물가지수 상승률 3.7%…금리 인하 부담 작용하나",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1haE5SWVBBSkpVZVFFbzlmUnFhd1NKSVh5OU1vWmZjclpKZzF3SVFVb1p4M09sRl9xOER4aGhGMmtPQllxZ3NUdXkzdWplTVhBSjhGLUllZ2N2VHV3Q0hwMEhBanl3MXE3d1hsTFJqZ9IBc0FVX3lxTE9tQ0JyUnpLaEM4dm5ac2hERzR0MlcwRktrVFlMenIzSFpMaVowZzcxSW9RYUdxRG1TZGFaQUFXQWs0UFlaNkNyTHJoaTFFVG1TSkszaER5Wjdnc3RXS0wxelJRYTdjMzhTaktsTUlQdGVLY00?oc=5",
+      "s": "대전일보",
+      "d": "2026-08-26T13:33:52+00:00"
+    },
+    {
+      "t": "美 7월 물가 예상 부합 속 소비 정체…금리 동결에 무게｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVWJTT2lEbTkySjVOUDBCdncwRjJ3NDNfNkNlOWpBTjl6bUN1Tk1BLUg3YVF5UExrUEE5VXlfdFFReDE0NjEwYjVXNU5tTnpGNDBGelo2SUdkaGs?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-26T13:27:34+00:00"
+    },
     {
       "t": "머클슈트 카지노 프로모션 에 대한 2025년 전망: 어디로 향하고 있는가",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YV1ZLVnd4N1NxWkhOVzVwQnNhSTBtekpPbGdjc010STFnYWJEOUJpSWxuWGxIV0VMZFpTSU5JZzVIdGoyS2RYY0stTTNHNjV3SlJ5dGhyN3diQi1xVDVkZVJSMA?oc=5",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T13:00:06+00:00"
     },
     {
-      "t": "美 7월 PCE 물가 전년 대비 3.7%↑…전망치 소폭 상회",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Hc3BWdGVPQWxxMzFSRkk3dzZBRnVIbTZTbm9reENBV1dMS0dfNXM3U0VvMDJoUEdJMV80QTZ0VGMtTUY0M2I5Ry1HTnBQckhiNWtkRWln?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-26T12:52:56+00:00"
-    },
-    {
-      "t": "美 7월 PCE 물가 전년대비 3.7%↑…전망치 소폭 상회",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RUWFLZmI2SWpRclRmZ1hDRjRycE9JTlBVWm1WRHVFZHpxRUM0UkFBTWpsSGRHWVgtWkF1eDY2V242NkhoWHZ0d0wtR2xmdWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T12:48:37+00:00"
-    },
-    {
-      "t": "연준 선호 인플레이션 지표, 7월 연간 기준 전월과 동일",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaE05aWo2STI5NGFLeGNiWkd3VWlJekdOTEJhU3lPQmpPYlo1S1BDUFFKOTYwbklyZERUY1RpUEI4cTNOS1d4Zi1XZ1h6UjBicmlNYmhBX1V6WHFyZy1yOVBZU1lOQTRhMHlGVS1DcWZkM0k?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T12:43:00+00:00"
-    },
-    {
-      "t": "[속보] 美 7월 PCE 물가 전년대비 3.7%↑…전망치 소폭 상회",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UN3hXb1ktejlXa1NvNkxvUWprVVFLUlZKOUd1UmRiRGE3dmNpNnRERzk5MTZ0blNYT29VTkl5VG85WlZNSDNYa0l1VTlYd1VRQXN0eFg1NVJsQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T12:39:59+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 美 주가지수 선물 보합…PCE·엔비디아 실적 앞두고 관망",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kazRLVGlTc3Vsd0V5RWpoTHczUFBTTE5rNDRObzhLT2w3bkh0cHpQblJvMkJZWnJOd3B6b2EzWHpFWTZFVE43QXdYT3pIUVJSa0hwQXlGUVdOSnhL?oc=5",
+      "t": "[종합] 美 7월 PCE 3.7%로 예상 상회…인플레 둔화 멈추며 연준 고민 깊어져",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuczlaUkJSaDVqLVNNWUx0MjB2aFZQMndJdlM4QUNKaFkzQlhCSXVwZWVzdENTUjRqczlmbWlMcDRhT3hqZ1JHeVRVWW05dUZ2d2FEUV8xWEFSM2Jn?oc=5",
       "s": "뉴스핌",
-      "d": "2026-08-26T12:24:00+00:00"
+      "d": "2026-08-26T12:59:00+00:00"
     }
   ],
   "asof": {},
