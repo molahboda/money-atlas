@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T23:00:59+00:00",
-  "quotesAt": "2026-08-26T23:00:59+00:00",
-  "newsAt": "2026-08-26T23:00:59+00:00",
+  "fetchedAt": "2026-08-26T23:15:59+00:00",
+  "quotesAt": "2026-08-26T23:15:59+00:00",
+  "newsAt": "2026-08-26T23:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1384.46,
-    "gold": 4662.3,
-    "wti": 81.87,
+    "krw": 1385.72,
+    "gold": 4663.9,
+    "wti": 81.81,
     "dxy": 99.13
   },
   "daily": {
     "spx": 0.3,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.21,
+    "krw": 0.31,
     "dxy": 0.22,
-    "gold": 0.52,
-    "wti": -0.59,
+    "gold": 0.56,
+    "wti": -0.67,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "이 대통령, 어제 이재용과 비공개 만찬…반도체·메가프로젝트 논의",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zb0xOaWgtRDFGbmUzdGJ4TGNoNFJjNE9JaXYyaEpYdUNmZ1BraUxYMFREa2Y2d1hieUUyTUV4QjRuSmJuUkJzZXYtWEFSVGtRSVphVy13bUI0TGtmVUVvb0dkU2JPaUU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-26T22:51:00+00:00"
+      "t": "[브라질증시] 17만6000선 돌파 후 상승 탄력 둔화되며 강보합 마감",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1paU53VGV6enRNSXdqNERuNThhZFgzUm1JVUpsV09rQTVMQXNQYXlBYUtuVWdycGdFQWhtT0Jpa2lId2U3NU5tZ0NNWl84blZxOExBTWp1OGJ2N04y?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T23:13:00+00:00"
     },
     {
-      "t": "'충남 반도체 등 4개 핵심산업'..정부 권역별 성장엔진 반영",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hSXNVSmxLUnpEX3JmOTJVbEQ0eGcySjhPOVU3cVJQak1GdE5fTlZaOTlLRFhId0ZXTDBOVlBvd1VyT3lHbDBvX3UwVFctcW91amRPQVhVbTZXLVdv?oc=5",
-      "s": "티제이비",
-      "d": "2026-08-26T22:40:53+00:00"
-    },
-    {
-      "t": "대경권 성장엔진산업으로 미래모빌리티·로봇·반도체·이차전지 등 4개 전략산업 선정",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oejFfa3ZtaDlPbXF1X0h6d2E2Vmxyd2dFN3VCZEkxRE1BWXNvNWNpRm9QOV9lWWlnRGJBTjdNZHhJdVRFNHhwWWpnWjNSdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-26T22:40:48+00:00"
-    },
-    {
-      "t": "뉴욕증시 약보합 마감…나스닥 0.08％↓",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5GOFE1RGI3Snc0QllpLUo4Y053aHg1Z3B4a21UR0lRLVMwV01EVDE1ZGNycXhaZ2drVHVFQzhFc1JESG1vLV9VakFBR2NSUnR4cTBGaWxpZ2p3LXdpemMwSTJMOExIY1dxUGQ4d0ZPQ1NzcjhfZnZFZHREODdxdEdUd3VrSFlo?oc=5",
-      "s": "TBS 서울",
-      "d": "2026-08-26T22:38:00+00:00"
-    },
-    {
-      "t": "'엔비디아 실적 경계' 뉴욕증시 하락…나스닥 0.1%↓",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Rjl1Z1hpVGtIUVNBSXpoSDRPa0hUTGZSN3BCNWZiRExJNmczcm1vTmI3ZG5fU3VfdXIxbDFzalQxLTRzZHVEc3BNc3ZsclNEUld4U0FuaGJuQkZnVDhMREh4Zll2ZUlwX2hGcw?oc=5",
-      "s": "중소기업신문",
-      "d": "2026-08-26T22:37:46+00:00"
-    },
-    {
-      "t": "국제유가, 호르무즈해협 에너지수송 회복 기대감 등 영향 3거래일 연속 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CbHJJb0xnMGQxRGhjS3ZGb3p3bmdreGVwWWk2X1FqZGQ4c3FUN0UwTTJUcnBVLVlWS0JCaTFVaTF2RDR4b2s1M0VGcmhtSDFwTnVGV2JNLTdwWTc4dWc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-26T22:36:05+00:00"
-    },
-    {
-      "t": "국제유가, 호르무즈 협상 주시하며 3거래일째 하락",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNE5fM3o1UG1aeXd6S0hQNUd6RVROd3lfYkk1bWNyRXhUaDBHVzJNSm5HLXhnWVpSNnVOSmFITVlhQUUycFBFY2pzeGtBVW5CblFGSTBtZWFld1lVZE5kNFJBeXhOWXVNOGlVM3o2WE5SZHB0elgwMGs2Vi1MSFlyeG16Vkh3cm1D?oc=5",
-      "s": "TBS 서울",
-      "d": "2026-08-26T22:36:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 엔비디아 관망·물가 경계에 하락…나스닥 0.08%↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XWGEwNzBwekxTYmxRSTBic2FCaUVTVk5fVi1JUk1aa1N5b2JWVUZWNjNJSjRpdkh6aERMbUlqS3NuMElHV2o5MVVyYVpFQTA?oc=5",
+      "t": "[마켓뷰] 엔비디아 역대급 실적·금통위…코스피 향배 주목",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQ2E3M0llN0ZweHdXdmJ1aURPcFNFU19LWkcxRkJPRUEtMlRRSm9MNFcySW1iWG9OSFBibUpRSkR2VmJQdVNyUVkzN3Baalk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-26T22:32:00+00:00"
+      "d": "2026-08-26T23:07:00+00:00"
     },
     {
-      "t": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZjE5TVlDMHZsNjlIT1A5dDlXUk5fUjBia3gweUUzUWFsNnQtakJlamtSQ1pJOUVpdFZBeHlXY2lvcS1OeS1XN0NtaHZXUlZMbGlKSDZucHh5RDVtTEVwalhLR3ZYOE9JZ2xFRU1aWVk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T22:30:20+00:00"
+      "t": "[이슈체크] '통화정책 좌표' 美잭슨홀 개막…워시 연준의장 첫 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xQ1lxZldqc1ZHeG1pelF0aXJiVUQxZzVmcnExNHoxYnpSbHI0b0Z6NnZBUFp6U081cHg5YTBNdGoxdjE5WkZJdV9uZWg5Y05kbDl2YnlQcWhMenlsaGYwNkVDNA?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-08-26T23:04:34+00:00"
     },
     {
-      "t": "한은 오늘 금리 또 올릴까…연속 인상 기로",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRVAtQXBwRUtyVTZfemVPS2dXaUJWZWxCY2Yxd2k4bEZncW5mTkROMjJiWGxNN1ZfclplenZJV3NFRUhYc003cnZILWFhb1dEajdwaXFhcnNwbk1KUmhxRVZCam9reExsZlE?oc=5",
-      "s": "OBC 뉴스",
-      "d": "2026-08-26T22:30:16+00:00"
+      "t": "[외신 에스프레소] \"북미 요새의 붕괴\"…캐나다, 미국 관세 폭탄에 보복 조치",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnOW85amNxRDgwWDRWaUQ5SzNHbUJZaGZ0ZUZtMDR4UEstRDZoaFZBbTkxbm1fQXBZSnpNNGVDOFMxOEVra1ZBRUtTWDZDUlg1MS1zNVR5YkNHZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T23:03:07+00:00"
+    },
+    {
+      "t": "\"내후년까지 +70% 성장\" 엔비디아의 자신감…불안 남긴 PCE 물가 [김현석의 월스트리트나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80S2NDeFk4czNISmpHRU5fSmd0cXdMQmNNUlZqdU1IYnpHczRHRVQzUjlTN2NDWm1YYVFzSW1mRnIwdW5XRjdBUmt0YU52Mi10MzhhdFNWNDZYZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T23:03:06+00:00"
+    },
+    {
+      "t": "10월까지는 달러 약세...지금 투자하려면 여기에",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5X3M5Qi1rMFVtazdHdmxaS0FDWlNoQlhuN3BaU1MwbklDbFBxU00xSjdud3hOWFZLOHVrSVc3RkFfaWtkY3JRb0pRbE9rTDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T23:01:35+00:00"
+    },
+    {
+      "t": "[환율] 원-달러 1,386.00원 … 0.18%↑",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUU5mLUFSQTlOeEFpOV9JVGFKSF9ZLVd4T3NTUGFyenUyaEVPREpHdW1zQ3lRa2YtNGdvYlpEZkUxOV9JWElKcVlBU193QXhlS203WmhyLWRqWGxoM0U3VUFn?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-08-26T23:00:01+00:00"
+    },
+    {
+      "t": "블랙야크아이앤씨, 상반기 최대 실적…반도체 팹 늘자 안전용품도 ‘훨훨’",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjhNMG1LbDlnTkZsZlpxcXJVZHJ4bjBPb0k4eG1MTm5uYXJXQzRNazZINzFpdURaRF9ZdWZCWUVJWGNPamRTNEdmUGI4QTJ0Y3lnbnptaDN5Z3k1eUhEQjJHZm9wRE04YlVCOUw3ZFN6MlJRemdja2FjMWQ5aDk5akpLTWVmckcxVjFNODBobHg?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-26T23:00:00+00:00"
+    },
+    {
+      "t": "한은, 8월 금리 동결 유력 속에...‘인상 속도 조절’ 무게",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6dGRXS2VES1p5VnpPRU9vZmQ1T3lmYnZkaWl4U3hYaHU4eFgxNi1tekpHYmVXb2x5Rks4Wng2NEVsaGtwOF9keFMyM2htXzdzMnp6TUpDeFpPQXFZclNTeERGS1JlS0E?oc=5",
+      "s": "청년일보",
+      "d": "2026-08-26T23:00:00+00:00"
+    },
+    {
+      "t": "BCA리서치 \"이란전쟁, 장기적으로 디플레이션 불러올 것\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdkF6YjhJUWRvdmpQQVo5WVBROFFRbzhFLTRLWnpHcFlDZmEtdEtHTUdEVU91TTlQdDFqUFMyeW02bTBhYWtiOERaOE84ZEd5enpsMC1sZWlQekxFelNqWm5KR2hhQi1qYWdPenZmV09uZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T22:59:18+00:00"
     }
   ],
   "asof": {},
