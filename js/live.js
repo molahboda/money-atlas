@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T02:00:59+00:00",
-  "quotesAt": "2026-08-26T02:00:59+00:00",
-  "newsAt": "2026-08-26T02:00:59+00:00",
+  "fetchedAt": "2026-08-26T02:15:59+00:00",
+  "quotesAt": "2026-08-26T02:15:59+00:00",
+  "newsAt": "2026-08-26T02:15:59+00:00",
   "quotes": {
-    "kospi": 6739.97,
+    "kospi": 6761.34,
     "spx": 7677.28,
-    "nikkei": 65686.78,
+    "nikkei": 65787.18,
     "vix": 15.45,
-    "krw": 1382.18,
-    "gold": 4709,
-    "wti": 80.58,
+    "krw": 1381.6,
+    "gold": 4715.7,
+    "wti": 80.38,
     "dxy": 98.91
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 0.64,
-    "nikkei": -0.26,
-    "krw": 0.1,
+    "kospi": 0.96,
+    "nikkei": -0.11,
+    "krw": 0.06,
     "dxy": -0.09,
-    "gold": 1.47,
-    "wti": -5.21,
+    "gold": 1.61,
+    "wti": -5.45,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "LG화학, 세미콘 타이완 참가…AI 반도체 소재 공개",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Z2h6UmJoRWhiUTN1MGJ6a1BvMkVCS1FJRDZ3MDFHNHdrVWltWWFTb0E4N1ZoelZZclBhcldyWTdfb2RqTG1WTUMxWnE2TFpEc0RUcTdrOEJHX0xQTG55cVRJalpWUQ?oc=5",
+      "s": "디일렉",
+      "d": "2026-08-26T02:04:31+00:00"
+    },
+    {
+      "t": "\"네고 장마에도 1,500원 반등 기우제\"…환율 급락에 수출업체들 대응법은",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMUpDRXlPNVdRRWIxWUQ5SzYwdFhaVS04dGJGZnVqc0lxVWRHeG02SEtUWlY3dEd0MHFrOHhSejBfMGFKSVJzM2lIZ3FLRU5mS0lONk5TMG8yems5V0xhYVg2S29UNnJmTWVPcEo2aDc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T02:03:11+00:00"
+    },
+    {
+      "t": "반도체발 7월 대기업 수출 90.7%↑…중견·중소도 5개월째 증가",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NG11blJqekNkU1VwU1VJeDJJSWJpeFcyTU1hcnVxbmYyazJzZFlZN18xYlFyaWZkN051aTZHTjZtOWFuQmdlSmIzSmlENm1uZ2wzZjNWRm9HZjg?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-26T01:59:00+00:00"
+    },
+    {
+      "t": "전남광주 통합지원 20조원, 반도체 6조원으로 첫 구체화",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RWFYbV9MaXdlSm9hdmNUQzctSm1hRTdleENiZmJCMkFGRFMxSEFnYkJCeE81aG8xZVdfWkhfc2pLbTFsRDh6cHI3dFJwS2dYV1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T01:57:47+00:00"
+    },
+    {
+      "t": "NH證 \"반도체 주주환원 고려시 달러-원 1,340~1,350원이 지지선\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0LU5NYnZqTW5qX2ZIUjc4ZXZ1OV9mOWdETVIzSkhuX2xVVTI0eEV5TFZnS04zeV9yRHlLRzlqcnZxb2Y5VTNwRFdsY3ZDMVJvSFNvTWswSVVFM0RuWGJQcHNKaTl2MXdxenk3SlBGTmE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T01:52:54+00:00"
+    },
     {
       "t": "[금통위 인터뷰] 도이체 \"8월 동결 전망…매파적 메시지 가능성\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LUUN3RHJvRG1yVXZ6UjQ5cWJhNGg0bzhZM1RvZjdzZHdqbnBiNUJQNjdJX1I0dkhSWXcyTVZ3RzhMeWVCRUs3SkJhbFotaEttbDVjSEJ2VExucmwwY2FUZTFXaTZIYm03R3lPbFFlb1NUZw?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iZUtncWd5b0hKNGwyNlYzLUtZTDYzdVdlSFRtdTV3WEkyQ281RXFpQzdvZXpXMjBIc2JDNjZVMHl4c0tpNjhGUlpLeERGeEh2Q3BUUDdiYzVxdGYzV1dpV2Y3ZzMxdGI0TFJZOdIBcEFVX3lxTE0zVmtPc29SNEJmY0F4d1FRQWdmelg1MnQ5cTg1RUFzSGdzQmNLSTgxd0ZhWlA1U0JTZllQd01HZW1ha0N5c1JmQnhBTkhEN0hyMi0zajl2N2ZuX2dfMDg5em5wOXdNSFpQekdNOEZyeFo?oc=5",
       "s": "전기신문",
       "d": "2026-08-26T01:32:44+00:00"
-    },
-    {
-      "t": "반도체 메가프로젝트 용수망 속도…호남·용인 투자 일정 맞춘다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1paHpEM0NEMlBjeVE0UlhHM2I1RXhFdHRkNVFNWHpkOE1GaG8xa2hUaG1RUnhRRjlTYTdweWdtZGZQZ1pxZWo5UUhiV1FLUQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-26T01:31:39+00:00"
-    },
-    {
-      "t": "[송재경의 인사이트] 헤지펀드 매도·잭슨홀 경계…커지는 증시 변동성",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHRE9qeUttZ3htbEhUOVRxUl96YnhjSTByY2g5WFE3cU5wTDdzbWNtaWpsc3pHNy1jSUJUbWs5cXl5Z0JiNEVGLU5XbXNTbmc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T01:24:18+00:00"
-    },
-    {
-      "t": "금, 유가·국채금리 하락에 3개월 최고치 근방 유지",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZVBZb3paUVNhQ0pZcmhjaFZIRGp4SVNfdG0zQ25VYnZ2VDBiZFdTUmZTWmVncnJVaDNyRHhhMF91TUU4SFVXclRMcTgwT0lnWHR1YTktaHRlUHlXSmZ3NGdIOEZYVE9kM1VpbXVXYw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T01:24:00+00:00"
-    },
-    {
-      "t": "[금통위 인터뷰] SC \"8월 동결 전망…최종금리 전망은 3.50%로 상향\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE02TklUb0FMcnZGNHZlMDdiTS10bEJSTmhUbXFINVJpZnZqbWZtY2RfcmFQamVweE9lNF9LcEMycmJMaUZIdDdBXzd0T1BUeGdOdWdBZzdyd1VGdC04M2lEWVlKMktVaG1LWE16czBaSEFhdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T01:23:24+00:00"
-    },
-    {
-      "t": "반도체발 7월 대기업 수출 90.7%↑…중견·중소도 5개월째 증가",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IZDJRcFVhSWFpcnV5clljV2tGWGNHWmpsT0xvSFIxWmxKb2YxU3lUMHprQ3liQmdOc0FvdDV5MTBsTkFCZm9pdXZBNHNfbFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T01:22:52+00:00"
     }
   ],
   "asof": {},
