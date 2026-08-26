@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T17:30:59+00:00",
-  "quotesAt": "2026-08-26T17:30:59+00:00",
-  "newsAt": "2026-08-26T17:30:59+00:00",
+  "fetchedAt": "2026-08-26T17:45:59+00:00",
+  "quotesAt": "2026-08-26T17:45:59+00:00",
+  "newsAt": "2026-08-26T17:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7675.33,
+    "spx": 7674.82,
     "nikkei": 66262.16,
-    "vix": 15.52,
-    "krw": 1385.25,
-    "gold": 4651.5,
-    "wti": 82.59,
-    "dxy": 99.16
+    "vix": 15.42,
+    "krw": 1385.61,
+    "gold": 4655,
+    "wti": 82.63,
+    "dxy": 99.14
   },
   "daily": {
     "spx": 0.29,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.33,
-    "dxy": 0.25,
-    "gold": 0.29,
-    "wti": 0.28,
-    "vix": 0.45
+    "krw": 0.35,
+    "dxy": 0.22,
+    "gold": 0.36,
+    "wti": 0.33,
+    "vix": -0.19
   },
   "news": [
     {
@@ -47,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5MEhOWlVuQmxhUlBiZ24yN254RTFiV0JrOUQ2VFZqNV94aVZ4MHN5ZjlkQ2I3OFZGSUl4WGYtdmpRQXBsVVlZMHZ0UmZ6UlEzUHpXSDQ2c0NSTWotS1duYzlBaXFoVnRqbUlST0IySlIyUQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-26T17:05:38+00:00"
+    },
+    {
+      "t": "[GAM] 램리서치 ② 월가, 반도체 투자 전망 상향하며 LRCX 주목",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWE9mRGVkMVpKaEx1N3dWTmN1MlpxdVRSMlZacTNUSkVZMnpaMWg0VjNJbWtLbFBIc3pvdjdaQTB2OGkwWWlrRzJjZzk5aWlrM1BPZThmUlRBOWJy?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T16:56:00+00:00"
     },
     {
       "t": "[뉴욕 금가격] 끈적한 美 인플레이션…1% 하락",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OF9qZTZVSWpHbGt3dFRDamJhTktmaEcwQURxdWVKOWlBczNfWG5LQ1ZPeElERk9BWGd3T1JOaEJMZzNYbW1VNTVEMnl5cGs5X0J6cW5yaHlMNnc?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-26T16:02:00+00:00"
-    },
-    {
-      "t": "주담대 금리 2년 8개월만에 최고치… 변동금리 쏠림 더 심화",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aOV9MNXpFb19QY1JNMTdTTktzMVNwcnNidGRiTm1wU0cyQmxIc0ZhUDVUbTNOb1N6aVdrZzBrLUNESldBRUt3V1gxamRGRmM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T15:53:08+00:00"
     }
   ],
   "asof": {},
