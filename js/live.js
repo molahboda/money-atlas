@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T18:01:00+00:00",
-  "quotesAt": "2026-08-26T18:01:00+00:00",
-  "newsAt": "2026-08-26T18:01:00+00:00",
+  "fetchedAt": "2026-08-26T18:15:59+00:00",
+  "quotesAt": "2026-08-26T18:15:59+00:00",
+  "newsAt": "2026-08-26T18:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7673.95,
+    "spx": 7672.21,
     "nikkei": 66262.16,
-    "vix": 15.4,
-    "krw": 1385.38,
-    "gold": 4654.1,
-    "wti": 82.61,
-    "dxy": 99.16
+    "vix": 15.41,
+    "krw": 1385.53,
+    "gold": 4659.2,
+    "wti": 82.38,
+    "dxy": 99.15
   },
   "daily": {
-    "spx": 0.28,
+    "spx": 0.25,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.33,
-    "dxy": 0.24,
-    "gold": 0.34,
-    "wti": 0.3,
-    "vix": -0.32
+    "krw": 0.35,
+    "dxy": 0.23,
+    "gold": 0.45,
+    "wti": 0.02,
+    "vix": -0.26
   },
   "news": [
+    {
+      "t": "스포츠 토토 단폴 히츠벳 연구원를 위한 비판적 사고 해결책",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KbXBEM1FSTTRYOFpJSG5Kb2QzU1NMMWR2OHhnZF9NbEJReWJlNktuNzJoWTVNV0U2V01PX05GcDdGbHRqd0lxODc2bmEtLUVXYjlVV000cnp2UQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T18:08:03+00:00"
+    },
+    {
+      "t": "美 모기지 수요 둔화…30년 고정금리 6.78%로 상승",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TNmZWd3NoY2g4T2pHdk05ci1tQU9XeE9BNm1McEoyVGZhaHF1cWo4c2t3WHE0SXVWT2wzQ0F2dzZrak45Mng3ODRhU3hubnV1?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-08-26T18:00:45+00:00"
+    },
+    {
+      "t": "워시 美 연준 의장, 인플레 원인부터 결론 못냈다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2ZRVlFSYldnd2V2bWxiQUdXZUt5VTllVEJLUkkwVmh5Wi1HVi1LTVl0WEgzVjB6Ni1uOTVHYnJQU1FtbmtxTGM5YlhEZWlpbmlyRTQwVmhTNnYzcDJKUG5rUkwwQ0lTUUJ4UzVKbVl0N2dqMTdOUU5Sb3hxcGN0OE1Ec2pnSUha?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-26T18:00:00+00:00"
+    },
+    {
+      "t": "금값 5일간 7% 상승…유가 하락에 긴축 우려 완화",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQW1VeFRJU2RkbXVrbkdpdDYwVHllN3ZWZW93dkhsdlpEWFJWTnFCU3BDaVJyVXlwN3FMemQzTUZ6OWZJTDRLNVllUkVNS1h3Qko0a194b0JpSE9VcXBYQ05MVDZVRDlRMmZud1RWdGQySDYxbHJhczhPSXJuWmlScmRPWHRfeS1w?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-26T18:00:00+00:00"
+    },
+    {
+      "t": "호르무즈 재개 기대에 국제유가 2%대 하락…2주 최저권",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzJNTFQ2RjVZbXlPcTlqcXIxcjMwbDM0WGZ0ZkdXNmVHeUtkVGxBenFzZERydzN1cDNFbEVyLUlwaldPcEpDeS1HbXJDOUNkUjdjaUI2NF9BTGFLQVZVSFdLVmF3TnVKeFZsSVhlNGFvaE92STA4U2FWMXV5ZFNzZlczNHo1WUNi?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-26T18:00:00+00:00"
+    },
+    {
+      "t": "[단독] 신용 높을수록 이자 더 낸다…거꾸로 대출 금리에 '울상'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZHZRdThKbngydG5VX3NxQTZhV0NSbHN2ZFlZSURtRF8xdVRaM2czRGFjNHNwUlNJbHo5aHZZM3ZXWURaaHhuXzJmVTh6U1I4UldtT0VsdnVsUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T17:55:00+00:00"
+    },
     {
       "t": "\"변동형보다 금리 너무 높아\"…외면받는 고정형 주담대",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xU0xOYTU3Q0ppa2RneG90M0ZTRm9mcl80RHZUaGV5OUFYZHZTTmticTBFR0tmdmxaaXVqRm0zblE0U2ZQSUtzWWwxeElDampiLXFFeXhWVVlCUQ?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbFItMlpGOWQyOUJpRXlCdnhCWHRQd0tYNWpXdGUwRlpWdU5qRW1yT0FmUXJxZGxFNGdCN2tiUldsNFVDcVBYZDJMaHJDZDFoY0RPNmFzc1kwR2Zj?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-26T17:28:00+00:00"
-    },
-    {
-      "t": "2023년 새로운 카지노 : 을 통한 성공 전략",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMzNzSFV6T3R3aEQtRTdvdzUwaHRObGhLQmZUZTFWS3ZpNjlfT2lhTUhkZkRTeDVfNnE5TVN2LW5DQW53bmhhUWZ1Y1BsazZpbG5VYWtyWmNkNkIzQmtyZHNMSC0?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T17:26:32+00:00"
-    },
-    {
-      "t": "도도 토토 : 주요 이정표와 혁신 (2025년 최신판)",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcEpHRkVORWtaNXBBMGxJNmF1TGlDZ3dHU19nZVFxVEpKVHhsaXB6cHptUHJmbXpxeXk5WENoZENjS3YwSlJ5bzE1WjlSN3prR1VucFVfOHEwbV9vOUhCZ0RxY3U?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T17:12:37+00:00"
-    },
-    {
-      "t": "달러-원, 美 견조한 내수·높은 인플레에 상승 전환…1,387원 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5MEhOWlVuQmxhUlBiZ24yN254RTFiV0JrOUQ2VFZqNV94aVZ4MHN5ZjlkQ2I3OFZGSUl4WGYtdmpRQXBsVVlZMHZ0UmZ6UlEzUHpXSDQ2c0NSTWotS1duYzlBaXFoVnRqbUlST0IySlIyUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T17:05:38+00:00"
-    },
-    {
-      "t": "[GAM] 램리서치 ② 월가, 반도체 투자 전망 상향하며 LRCX 주목",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWE9mRGVkMVpKaEx1N3dWTmN1MlpxdVRSMlZacTNUSkVZMnpaMWg0VjNJbWtLbFBIc3pvdjdaQTB2OGkwWWlrRzJjZzk5aWlrM1BPZThmUlRBOWJy?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T16:56:00+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 끈적한 美 인플레이션…1% 하락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RcXlmT0M3REFtcllXTUE3S3R5S1pSczdCTUJEOC1VNjhDRmN1U1hJdEVUd0YyV1hKVUZ0dHZKWGg3VmtKVGhXcEFOckMySS1IYWF0MkROQmFTMkhuNUVXNDh3aWExYXE2NUFObVJtbmlBQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T16:47:40+00:00"
-    },
-    {
-      "t": "美 7월 PCE 물가 예상 상회…연내 금리인상 기대감 확대",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByeWJtSWNMUWxPVnFDRTRFTmVTZkZEclh1bnF2YW1OdGRrNk9KaDlzaTRibm9hNDZSekFNVmhlRTNuVmF4Vy0zeXF2TXNZd1VZWDdZR3lHYUlmUmE5ODVTdnpuSVdJWmdK0gFsQVVfeXFMTkJPSGEwVy1SSXJmNW05c3FNZHZMSkRaeEZNaWx5Rnc2bDN2MHNScmdhd2Qzc0NfNmEya0swMmYtUDZvbDlvYkM3RlJNWUVrSFdQSWxxX0VFeFpDcHNuZ0pUdnN3VXBNOTFGbFQ0?oc=5",
-      "s": "블로터",
-      "d": "2026-08-26T16:39:49+00:00"
     }
   ],
   "asof": {},
