@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T15:00:59+00:00",
-  "quotesAt": "2026-08-26T15:00:59+00:00",
-  "newsAt": "2026-08-26T15:00:59+00:00",
+  "fetchedAt": "2026-08-26T15:15:59+00:00",
+  "quotesAt": "2026-08-26T15:15:59+00:00",
+  "newsAt": "2026-08-26T15:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7678.44,
+    "spx": 7678.29,
     "nikkei": 66262.16,
-    "vix": 15.49,
-    "krw": 1386.08,
-    "gold": 4668.6,
-    "wti": 81.83,
-    "dxy": 99.21
+    "vix": 15.41,
+    "krw": 1386.1,
+    "gold": 4646.1,
+    "wti": 81.93,
+    "dxy": 99.2
   },
   "daily": {
     "spx": 0.33,
     "kospi": 1.66,
     "nikkei": 0.62,
     "krw": 0.39,
-    "dxy": 0.29,
-    "gold": 0.66,
-    "wti": -0.64,
-    "vix": 0.26
+    "dxy": 0.28,
+    "gold": 0.17,
+    "wti": -0.52,
+    "vix": -0.26
   },
   "news": [
+    {
+      "t": "캐나다 보복관세 치밀했다…“미 중간선거 경합주가 타깃”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYjhpczFNNTczWmFmSldETHFmVkQ5czlzSXlPSjlKd0VIUGtWZV9GODRjVGZadnNnWnJqZEZ6M2ZuUmVQSHJFeTNpUGV4a0QtRm5OeE5B?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-26T15:01:00+00:00"
+    },
+    {
+      "t": "[김대호 진단] 미국 경제 3년내 \"재정파탄\"... 뉴욕증시 헤지펀드 무서운 경고",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGExOEVLQkEtRkdkeDVsLWhHRVJQM2YxYU0xeHRBVFRKWTI2clFCS05NT0pKaGxSOHpXME9HOXNjMl9nOHhLdTdHcVFUQ0NGbDlqU0EtcExEeHRxT1pabUEwMnIwMVVsZnRVZXhFaEtGcGRsS0hPb0lwQnRUSXRHd2tSYkE?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-26T15:00:00+00:00"
+    },
     {
       "t": "이상일 시장 “‘용인 반도체 프로젝트’ 성공하도록 모두가 힘을 모아야”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EOFhtelJQNk1HNmtIT2pkNlZ0MERJZ3pGZGhvczNDam1DMWRFbm5rd3NIS3owbE1BcGlSaUpZc2VEVWpwSHc3QTMzSmhTYUU?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PZ0lMT0JvSlo5Q01QX3VQZ3VPQ1NOV2pia1JSdkJJcWIxOTUzSVI0TzRndmhFMFByVVdJNUNmOGI3WXhBTTM3alA4dFM2R0tKWVZyTmdXN1pCdGNyUGlnWjFCZGRPazlUQmR5RFUwVUw1RFhGZ1kw?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-26T13:06:00+00:00"
-    },
-    {
-      "t": "미국 7월 PCE 물가지수 전년대비 3.7%↑…전망치 소폭 상회 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNlN3Z0lidHMyRjVvM2M4MzluU18yX1VUTmYwQ3BmNk92SGJtUTJ5WlV2NFBVQXUtQkFQMEpPTFJZa2dVT0k5VEY0OF91Zlo5amV2bEIwTFZuZVVTelhIRkFpMmY0WTVG0gFuQVVfeXFMTWwxRmdTUmp5dW9Ib3VjNnhucjE0alRPM2N1S1V6TVFhUHh5eEVrV0hkNmtha1FDNnlVYXJYUm0wUGp4b3ZUWkhSLUptQ3JSZ0ozMXFUc3FhNTY4V01YRUo2R2l4VFViNFBwRUxNTkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T13:05:14+00:00"
-    },
-    {
-      "t": "민형배 \"서남권 반도체 클러스터, 정부가 직접 지정해야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqeEtaZUh5b01JYnduUmxMakZJWjQxUnYzQVNlc2VqME9MMWN6cjIzdlgzNGNpZ2dMMjZRbzZVZS1FMURxMnFRTmw1MG5Pek9nb3RNUTJGX3F0eF84bDlhaQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-26T13:03:25+00:00"
     }
   ],
   "asof": {},
