@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T02:30:59+00:00",
-  "quotesAt": "2026-08-26T02:30:59+00:00",
-  "newsAt": "2026-08-26T02:30:59+00:00",
+  "fetchedAt": "2026-08-26T02:45:59+00:00",
+  "quotesAt": "2026-08-26T02:45:59+00:00",
+  "newsAt": "2026-08-26T02:45:59+00:00",
   "quotes": {
-    "kospi": 6769.53,
+    "kospi": 6805.33,
     "spx": 7677.28,
-    "nikkei": 65941.55,
+    "nikkei": 66227.55,
     "vix": 15.45,
-    "krw": 1383.06,
-    "gold": 4718.1,
-    "wti": 80.37,
+    "krw": 1385.38,
+    "gold": 4721.9,
+    "wti": 80.38,
     "dxy": 98.93
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 1.08,
-    "nikkei": 0.13,
-    "krw": 0.17,
+    "kospi": 1.62,
+    "nikkei": 0.56,
+    "krw": 0.33,
     "dxy": -0.07,
-    "gold": 1.67,
-    "wti": -5.46,
+    "gold": 1.75,
+    "wti": -5.45,
     "vix": -2.52
   },
   "news": [
@@ -43,16 +43,16 @@ window.LIVE_DATA = {
       "d": "2026-08-26T02:23:00+00:00"
     },
     {
-      "t": "출발증시 2부",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDdYVUEzZk15VkpWLXZ4bmN1SFZzZHYxSmFkTGtUbEJDRkxkN1VWaC00QkVwek94UjJobkJxRkhVTWpiUXVoSjRtcGh0cmljZkxJOTZFSGJKYW9idGFUZFJ6X1hlS0ZVUDFUeGdMRGp4cG5fLXI5emp0OWdUT0lLcUwyMHp1VFFZUjRrQWw3VFo3cnJ6dGE0ZnhibEZDMk5IQ09z?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-26T02:22:52+00:00"
-    },
-    {
       "t": "금통위 경계 속 유가·外人 참고…국고 3년 3.6bp↓",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMkpVbl9NQUFjcFNEdFVCcGNOVFhtejV6c204Sm1jcHY5TUpjZDZUNl80V25tcVJ3cTFLSTk5czBUVVpEYkJTNnJTNFRnT0EzREhaR0dhX0JBcmVFckQyWUo2c1AxeGRtckZsNnUxeGNuQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-26T02:20:16+00:00"
+    },
+    {
+      "t": "호주 7월 인플레이션 전망치 상회, RBA 금리 인상 압력 가중",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaT1h3d3U5MDlTR2lZd0U0OC16Q0dGVEJHZW1rM2xyMzA1U3hFWFBIT3plZ1hqSDFVMENaeTY1WWVzY0tKODZ1NDZBUXhuQVVIUmRwbUJYcDZ6VWRxbTczdGQ2MWd1Q05xZG1JOXc0SXpnVlU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-26T02:18:00+00:00"
     },
     {
       "t": "국제유가 하락에 채권시장 강세…10년 선물 반빅 상승",
@@ -67,22 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-26T02:10:21+00:00"
     },
     {
-      "t": "노무라 \"한은 8월 금통위서 금리 인상 확률 최고 수준\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjMlV4bF9WejN1MXo5RVp1ZzhtNXJmeEw3Sklobm5lTW8yclBQNzZRSEN6OC1hZkdheDVhSld6ckNLbzVFSHItYzdiTkVGZl9aSnBMUTFTTkl6aTTSAWBBVV95cUxOSWpVdURsYnY4azE2aG5LUXNURmNJclZiZEtmaG5xN2VFRUtUYWI1b1hreW1oRVdiTkFFVFFWNE5hMWE0NWNONWFtaVpBTVBQS1ZtS3FiZ09Zbl94cjdkOW4?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-26T02:06:45+00:00"
+      "t": "진보당 전남광주시당, 반도체특위 출범 \"청년 일자리 특구로\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00Q0hQME9MUzRWeXB6OUxHQTg0NktMNFk5SU11OW9sM21CYjZsTk8zNkQ2UnlPRWpGVnFhYU14YXEyallxdnZMSk1FQkhPdFR0U3c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T02:08:49+00:00"
+    },
+    {
+      "t": "[외환] 월말 네고 무게에 낙폭 확대…금통위 관망",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WU1JBc0Uwdzk3bDBnQWlvd1hjOHM2Y3hfQ0pKR0hFZWY4d09IMmdVNlljSDRuT2J4Rkk5VE8xQ19sd01fc0FiNWx6Y09yNzFuTE9aeWtpTGlVbUdHSU5WTVFiaE4ybmRxRGJCNThwWkJjdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T02:08:39+00:00"
     },
     {
       "t": "LG화학, 세미콘 타이완 참가…AI 반도체 소재 공개",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Z2h6UmJoRWhiUTN1MGJ6a1BvMkVCS1FJRDZ3MDFHNHdrVWltWWFTb0E4N1ZoelZZclBhcldyWTdfb2RqTG1WTUMxWnE2TFpEc0RUcTdrOEJHX0xQTG55cVRJalpWUQ?oc=5",
       "s": "디일렉",
       "d": "2026-08-26T02:04:31+00:00"
-    },
-    {
-      "t": "\"네고 장마에도 1,500원 반등 기우제\"…환율 급락에 수출업체들 대응법은",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMUpDRXlPNVdRRWIxWUQ5SzYwdFhaVS04dGJGZnVqc0lxVWRHeG02SEtUWlY3dEd0MHFrOHhSejBfMGFKSVJzM2lIZ3FLRU5mS0lONk5TMG8yems5V0xhYVg2S29UNnJmTWVPcEo2aDc?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T02:03:11+00:00"
     }
   ],
   "asof": {},
