@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T12:30:59+00:00",
-  "quotesAt": "2026-08-26T12:30:59+00:00",
-  "newsAt": "2026-08-26T12:30:59+00:00",
+  "fetchedAt": "2026-08-26T12:45:59+00:00",
+  "quotesAt": "2026-08-26T12:45:59+00:00",
+  "newsAt": "2026-08-26T12:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.65,
-    "krw": 1383.08,
-    "gold": 4683.1,
-    "wti": 80.3,
-    "dxy": 98.95
+    "vix": 15.63,
+    "krw": 1384.22,
+    "gold": 4675.3,
+    "wti": 80.28,
+    "dxy": 99.03
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.17,
-    "dxy": 0.03,
-    "gold": 0.97,
-    "wti": -2.5,
-    "vix": 1.29
+    "krw": 0.25,
+    "dxy": 0.11,
+    "gold": 0.8,
+    "wti": -2.53,
+    "vix": 1.17
   },
   "news": [
+    {
+      "t": "7월 美 PCE 물가 상승률 전년 대비 3.7%, 전월과 동일",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlJWYXBhTElxUXVJQ2Z3QnJDdjk5MWIzYU5adHdwbWVTMnRUOXg5eFNtSFRiWUNQUkRxZnVnSWFQNGNSU1pIVW1UbHMxNzB1NUsyZDdweHNTZklHa0d6TFpYSTdJTzZ1UGJIWi0yZjFlcUZIX1o1SDVPclVGblVFVlllLTMtdEg4Y2hYeERB?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-26T12:43:00+00:00"
+    },
+    {
+      "t": "뉴욕증시 프리뷰, 美 주가지수 선물 보합…PCE·엔비디아 실적 앞두고 관망",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kazRLVGlTc3Vsd0V5RWpoTHczUFBTTE5rNDRObzhLT2w3bkh0cHpQblJvMkJZWnJOd3B6b2EzWHpFWTZFVE43QXdYT3pIUVJSa0hwQXlGUVdOSnhL?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T12:24:00+00:00"
+    },
     {
       "t": "아이언디바이스, PCIM서 초소형 GaN 전력구동 반도체 전시",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxd0R4Y3BjWFVTcGR3a0dHaU5HZWFFQjloN1ZkYWpsS203X0ExYTEzTkZkTVVQQnRPNDFISE1UTGZtT1pTUHlVYnlzcnJVWURwQVFtR0Z3Sm9STUx0MktJTlNJaE9ldw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaLXM2SWdLUlJBYVNHOXpDaGQyYzc2cU55SnoyT01xeE90Sk96TTBmdkh1R0IyVElxU2M0TVZER3lrNlRKLTFxTlBEbjNFQm91amhzM2p3N2tWZw?oc=5",
       "s": "경향신문",
       "d": "2026-08-26T11:12:00+00:00"
-    },
-    {
-      "t": "美-캐나다 관세 싸움에 일본이 긴장하는 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNEF5d3hTN2xqeUtPaE44WTlZamNzc0ZFckVEblhjR3NaWEpac3JNa0d3N3ktZV9sdFdEWGlLVzA5elRHX1hCeTBDWW9GUTd0SXBjVGxjTE0wZ2JMTVhfVTNoUWxKS1puelNFNUJpaUpmZjhzWFI3ONIBeEFVX3lxTFBqa0lmVExRY3FaaUExX1BZeGtma2x1U2NaZFY5UF9wQlcta1pKZzV2MUpldDRJMGJ4dEpvZS1QOW56NUVSU3FyM0JkWlhWQnl5M3lId2lKYUNUeE9iSzYzTWVQckwzM25ydHhlb3IzcXIwTDdpUVFkRg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-26T11:11:27+00:00"
-    },
-    {
-      "t": "박현주 \"반도체는 미국 말고 한국에 지어야…공급과잉 와도 치킨게임\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SYlFPSTJYc3o1ZlZRSVRhUE9GenFGd1ltX2RFamstZU01QVpEVDhwX2NMUS1rV05VemlyX2JvTk93NGNpUkN6NTVKUTRKaG43Qjh0NHhnWW5TYU0ybXZjLUZaNlB6SUhNTVdpamd2MUVJZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T10:52:10+00:00"
     }
   ],
   "asof": {},
