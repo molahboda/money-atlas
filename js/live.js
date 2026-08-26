@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T10:15:59+00:00",
-  "quotesAt": "2026-08-26T10:15:59+00:00",
-  "newsAt": "2026-08-26T10:15:59+00:00",
+  "fetchedAt": "2026-08-26T10:30:59+00:00",
+  "quotesAt": "2026-08-26T10:30:59+00:00",
+  "newsAt": "2026-08-26T10:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.69,
-    "krw": 1384.33,
-    "gold": 4677.3,
-    "wti": 80.14,
-    "dxy": 99
+    "vix": 15.71,
+    "krw": 1383.82,
+    "gold": 4672.8,
+    "wti": 80.31,
+    "dxy": 99.02
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.26,
-    "dxy": 0.08,
-    "gold": 0.85,
-    "wti": -2.7,
-    "vix": 1.55
+    "krw": 0.22,
+    "dxy": 0.1,
+    "gold": 0.75,
+    "wti": -2.49,
+    "vix": 1.68
   },
   "news": [
     {
-      "t": "7월 가계대출 금리 4.64%, 석 달째 오름세…주담대는 2년8개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6Q2ZnX21CYVN6THFVS3lWR01jNjJveFAxcHFEcUxhRlVTUFZxU2lqNkYzZldZd1BzY2JUNnhDVngwOE1qcGQxelpuWnd1RGdIUzJveGlEMElXVGNHVVVOZkhVay0wNnMz?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-08-26T09:57:53+00:00"
+      "t": "[亞증시-종합] 美·이란 깜짝 합의 기대감에 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SE1xVjdfdWV4aGZMcjBhSHZvNXNpYV9WalpiZHVDV2J4dktYTm9NWGMzTDIzUk1NTFVwQWFLUG16WUtTZ3ByOEh4bVdsSnFoU2FZUDRDaURVREEwWU5oX0VtdU96VE5kQmcxSzBFX3I?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T10:19:35+00:00"
+    },
+    {
+      "t": "‘달러 대 달러’ 캐나다의 반격… 美 중간선거 겨냥 핀셋 관세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mRU4tci1hbk1zeU43OWlCUGNCU3RTNFJBMEZjdWFuRWw3SExrQ3RMSmVLSXZFYm00Q24tNHpWTV91dlE0LUg5NWFhS1VVX0k?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T10:15:11+00:00"
+    },
+    {
+      "t": "태국 중앙은행, 취약한 회복세 속 정책금리 1% 유지…뱅크오브아메리카 언급",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16bThrR3ljS0pkOWJ6TnRLaUhGM1NKei1nWkpzSjVBNTd1M3I4cGJqLXZUZWJwY2hnbUtSYkpuOFZfcXl2Mnh0dVA4VVNWUkVrT04xMzk5d3hxc2NwblE5ZVQ0Q1Rkd2JTd29xV3pUOEVDZDlYNkRB?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-26T10:12:00+00:00"
     },
     {
       "t": "7월 주담대 금리 4.48%…2년8개월 만에 최고",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T09:31:00+00:00"
     },
     {
-      "t": "원·달러 환율 1384.8원인데…\"원화 여전히 저평가, 하방 압력 지속\"",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KWXd3dnVUTUU2aEJMOFFhbEN4eS1HZTloLXRHSldzZVYtaExMaGU2OTdROFFvbWhXcXNGUkJFUGNOSFVreGFUNHNtU3Q0ZHdQeGtnQmpkRWRaTWdzZFJ4VTdTMWxFdw?oc=5",
-      "s": "프라임경제",
-      "d": "2026-08-26T09:24:41+00:00"
-    },
-    {
       "t": "서남권 반도체·동남권 제조 AI 벨트…25개 성장엔진 시동",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82S1pKekxuR1F4c1Fqd1I4QnBkdDlpSWs0alY3bkZZekduWTlLdVh4SkI3VWlwbi1XUVAyZnRhcVlPRDk3NVRFNHRVaGgzUml5VHpIX2FNLWN2bWfSAWBBVV95cUxQT3g4TE15YjY4b0RHQzlzUDJoejZ4RlVYTmFYQ044ZXNpUUFLQVlzTDBxcld5cXRHVklHMWZxZUtqbjV6Y1Z2cVlIU0dzSUtoZUExcnMzQkc1cE5heVpYbWo?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-26T09:23:32+00:00"
-    },
-    {
-      "t": "BHP, 관세 우려가 키운 구리 랠리…가격 하락 위험 직면",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0LXJELWxBbGQzYlFjRXhUQm9wMm9mSXB4b2Q0N1R2QmtwTGZiTHJBVUtWMFBwMVppeXp4LUt2NGNBNEFEZVd6RzB2b3ZpYlRRRXNSVWNpdWFnaHdMVl8yczNUOERsWWtxeUN6ZkVmRlNjVjlrTm04?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T09:21:00+00:00"
     }
   ],
   "asof": {},
