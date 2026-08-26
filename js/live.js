@@ -1,15 +1,15 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T22:45:59+00:00",
-  "quotesAt": "2026-08-26T22:45:59+00:00",
-  "newsAt": "2026-08-26T22:45:59+00:00",
+  "fetchedAt": "2026-08-26T23:00:59+00:00",
+  "quotesAt": "2026-08-26T23:00:59+00:00",
+  "newsAt": "2026-08-26T23:00:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1384.18,
-    "gold": 4664.9,
+    "krw": 1384.46,
+    "gold": 4662.3,
     "wti": 81.87,
     "dxy": 99.13
   },
@@ -17,24 +17,30 @@ window.LIVE_DATA = {
     "spx": 0.3,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.25,
+    "krw": 0.21,
     "dxy": 0.22,
-    "gold": 0.58,
+    "gold": 0.52,
     "wti": -0.59,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "뉴욕증시 약보합 마감…엔비디아 시간외 4% 급등 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12SFJyY25tVXo4UGk3N0had184MzNfRHNGbE9jQ3dpZ3VLZjJTY19DX1BiMGlOZHVkaVFJYk53Nl8yVl8wMGhCSlNJYzlUTXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T22:40:39+00:00"
+      "t": "이 대통령, 어제 이재용과 비공개 만찬…반도체·메가프로젝트 논의",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zb0xOaWgtRDFGbmUzdGJ4TGNoNFJjNE9JaXYyaEpYdUNmZ1BraUxYMFREa2Y2d1hieUUyTUV4QjRuSmJuUkJzZXYtWEFSVGtRSVphVy13bUI0TGtmVUVvb0dkU2JPaUU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-26T22:51:00+00:00"
     },
     {
-      "t": "미국 순매수 1·2위 반도체 ETF…상승 베팅 나선 서학개미",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02NVpwdlNmZ2szajV2WXhlNlQ1XzVsWjNsXzRhRHhQZGMtdUQ4ZHo3YjJqcXdpS3owYjBfeWRyNm14cG15WWY3SFNIdmJ1VmZGeDlacGhrSmRxS3c0QWJNSk13?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-26T22:40:00+00:00"
+      "t": "'충남 반도체 등 4개 핵심산업'..정부 권역별 성장엔진 반영",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hSXNVSmxLUnpEX3JmOTJVbEQ0eGcySjhPOVU3cVJQak1GdE5fTlZaOTlLRFhId0ZXTDBOVlBvd1VyT3lHbDBvX3UwVFctcW91amRPQVhVbTZXLVdv?oc=5",
+      "s": "티제이비",
+      "d": "2026-08-26T22:40:53+00:00"
+    },
+    {
+      "t": "대경권 성장엔진산업으로 미래모빌리티·로봇·반도체·이차전지 등 4개 전략산업 선정",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oejFfa3ZtaDlPbXF1X0h6d2E2Vmxyd2dFN3VCZEkxRE1BWXNvNWNpRm9QOV9lWWlnRGJBTjdNZHhJdVRFNHhwWWpnWjNSdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-26T22:40:48+00:00"
     },
     {
       "t": "뉴욕증시 약보합 마감…나스닥 0.08％↓",
@@ -43,10 +49,22 @@ window.LIVE_DATA = {
       "d": "2026-08-26T22:38:00+00:00"
     },
     {
+      "t": "'엔비디아 실적 경계' 뉴욕증시 하락…나스닥 0.1%↓",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Rjl1Z1hpVGtIUVNBSXpoSDRPa0hUTGZSN3BCNWZiRExJNmczcm1vTmI3ZG5fU3VfdXIxbDFzalQxLTRzZHVEc3BNc3ZsclNEUld4U0FuaGJuQkZnVDhMREh4Zll2ZUlwX2hGcw?oc=5",
+      "s": "중소기업신문",
+      "d": "2026-08-26T22:37:46+00:00"
+    },
+    {
       "t": "국제유가, 호르무즈해협 에너지수송 회복 기대감 등 영향 3거래일 연속 하락",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CbHJJb0xnMGQxRGhjS3ZGb3p3bmdreGVwWWk2X1FqZGQ4c3FUN0UwTTJUcnBVLVlWS0JCaTFVaTF2RDR4b2s1M0VGcmhtSDFwTnVGV2JNLTdwWTc4dWc?oc=5",
       "s": "포커스온경제",
       "d": "2026-08-26T22:36:05+00:00"
+    },
+    {
+      "t": "국제유가, 호르무즈 협상 주시하며 3거래일째 하락",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNE5fM3o1UG1aeXd6S0hQNUd6RVROd3lfYkk1bWNyRXhUaDBHVzJNSm5HLXhnWVpSNnVOSmFITVlhQUUycFBFY2pzeGtBVW5CblFGSTBtZWFld1lVZE5kNFJBeXhOWXVNOGlVM3o2WE5SZHB0elgwMGs2Vi1MSFlyeG16Vkh3cm1D?oc=5",
+      "s": "TBS 서울",
+      "d": "2026-08-26T22:36:00+00:00"
     },
     {
       "t": "뉴욕증시, 엔비디아 관망·물가 경계에 하락…나스닥 0.08%↓",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T22:30:20+00:00"
     },
     {
-      "t": "뉴욕증시, 엔비디아 실적 앞두고 약세…물가 부담도 지속",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GZk1MZS1lSnVuOS1hZ25ZdDZEaVNjQjJmYWZYRS1rQS1pY2NuMG43bmV3UEE0SkRWb1dPNUJwMU5BRW95aTFPWkhzV1pqcDlSRVNNbHFSTWZkRWphWmlFVTJhcmJweWxGM1c5MG4ydWvSAXRBVV95cUxNVEczOE95MXMxaDlxaWdSeHhKWk1ydktCTFFFc0pNc3FBSWdvZ2R5djg2dFc5eDdHdlJyWmNabzBEczVyajdjMF8wN1R6SDZRemxfZjBhX1FaRkV2aXpBUWhFNUdFNG4zcXZGVDNIdlk3UGdNVA?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-26T22:24:27+00:00"
-    },
-    {
-      "t": "미·캐나다 50% 관세 폭탄… '10달러 뷰티' 흔들린다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUdSX0xvQ3hiOFdpWDQ2eVc4RkpldWRzYjVITTFGaElPOXBEZnQ5VzV1MktQajhWZEVxSjlrTFctOG9OX0J1b1l2V2p4REZBRmE4bXFEcEVqVElLS0R5Y0dITEJiaGVGcFhIVzNVNXVqNU51SnNLZHBQMU16R0VsemlZUHhMQ0dZ?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-26T22:24:16+00:00"
-    },
-    {
-      "t": "[뉴욕 마켓 브리핑](27일)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OUI3alVTSGRaUm5vSGkyUzRxZjhQckxOVGg2MF96UG5FdUl2Tzh6UjRGR2ZGaDFFNG9kSF9JZmZjNjdFYWVNZk1lX2hjVktrQU5kOHVMb3FJSmlCXzhZdlQ0bXFTUXpqMHVydW9nUFVLUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T22:19:12+00:00"
-    },
-    {
-      "t": "[채권/외환] 美 국채금리·달러 동반 상승…PCE 예상 상회에 금리 인상 기대↑",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3YVBNbXlRM0pwZWlTWjNIOUtiNWxGdktZVDhlejZEYjd5QU9ZcVNIang5eExBU3BZc2xmc01HdUE2ZUIyVFk0RDY2YjR0LVdick9CUV9DUzdvSGNs?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T22:19:00+00:00"
+      "t": "한은 오늘 금리 또 올릴까…연속 인상 기로",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRVAtQXBwRUtyVTZfemVPS2dXaUJWZWxCY2Yxd2k4bEZncW5mTkROMjJiWGxNN1ZfclplenZJV3NFRUhYc003cnZILWFhb1dEajdwaXFhcnNwbk1KUmhxRVZCam9reExsZlE?oc=5",
+      "s": "OBC 뉴스",
+      "d": "2026-08-26T22:30:16+00:00"
     }
   ],
   "asof": {},
