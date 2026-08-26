@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T16:15:59+00:00",
-  "quotesAt": "2026-08-26T16:15:59+00:00",
-  "newsAt": "2026-08-26T16:15:59+00:00",
+  "fetchedAt": "2026-08-26T16:30:59+00:00",
+  "quotesAt": "2026-08-26T16:30:59+00:00",
+  "newsAt": "2026-08-26T16:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7668.79,
+    "spx": 7665.78,
     "nikkei": 66262.16,
-    "vix": 15.56,
-    "krw": 1386.21,
-    "gold": 4656.3,
-    "wti": 82.78,
-    "dxy": 99.16
+    "vix": 15.58,
+    "krw": 1386.49,
+    "gold": 4654.5,
+    "wti": 83.12,
+    "dxy": 99.14
   },
   "daily": {
-    "spx": 0.21,
+    "spx": 0.17,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.39,
-    "dxy": 0.24,
-    "gold": 0.39,
-    "wti": 0.51,
-    "vix": 0.71
+    "krw": 0.41,
+    "dxy": 0.23,
+    "gold": 0.35,
+    "wti": 0.92,
+    "vix": 0.84
   },
   "news": [
+    {
+      "t": "올 코스피 신규상장 4건…2022년 이후 '최저'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52NldiaVVzTkllVE5wTXkyaUdSUmtUaTZLVmtXVVFqWVJYQnkzaWM2SkVNWXNMN2hsTk1aYTFmb1lKV0pabEVrSkNrc3ZiYlVPbm5LdUJhQzFmUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T16:16:00+00:00"
+    },
+    {
+      "t": "“물가 안 잡혔다” 달러 4주 만에 최대 반등…9월 금리 인상 확률 40%｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FenRxcnUyeFNpMm5oSWxHZzhicHJqUmx0UjZITFNOa3ZuS3YwckpYdEUtNUQwOC03dmVTSlMwMDloSjZfTWtBc21uejZrUm9hX1ZjZXpIV1RBZVE?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-26T16:11:42+00:00"
+    },
     {
       "t": "한은 금통위, 기준금리 연속 인상할까…동결 전망도",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OF9qZTZVSWpHbGt3dFRDamJhTktmaEcwQURxdWVKOWlBczNfWG5LQ1ZPeElERk9BWGd3T1JOaEJMZzNYbW1VNTVEMnl5cGs5X0J6cW5yaHlMNnc?oc=5",
@@ -32,9 +44,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "주담대 금리 2년 8개월만에 최고치… 변동금리 쏠림 더 심화",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWQwZ29WckkxUFZxN1oyR0ZnMTVyUk5OTW1kSEhWeHNSWktsT290RHF2TzdBd2NUTzd6OVNnOW1VNTdkY0NTY291eDhOcnd4VUVHMHhONzV3ZmQ1clNSdE13alV3a1RfaFFsNVRkNDRYWlJDU2dRSUx5WUtNd1dPdC1LMXBWQdIBbEFVX3lxTE43WnRaSktzY1RuOTBfQVFPd0pxOEc0eDZGX0VJWUV1QjlIaUEyeFkxeUtOQkFGalJvNWdHbm1aa1c4dWdQSXQ3QmFaN2NaSDFvdlBFYi1hQm04WXplQlNDTkpFTVBaakZ6aDV3UA?oc=5",
-      "s": "국민일보",
-      "d": "2026-08-26T15:52:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aOV9MNXpFb19QY1JNMTdTTktzMVNwcnNidGRiTm1wU0cyQmxIc0ZhUDVUbTNOb1N6aVdrZzBrLUNESldBRUt3V1gxamRGRmM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T15:53:08+00:00"
     },
     {
       "t": "호남 반도체 공장, 노동쟁의 대상 되나",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T15:23:26+00:00"
     },
     {
-      "t": "캐나다 보복관세 치밀했다…“미 중간선거 경합주가 타깃”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xYjhpczFNNTczWmFmSldETHFmVkQ5czlzSXlPSjlKd0VIUGtWZV9GODRjVGZadnNnWnJqZEZ6M2ZuUmVQSHJFeTNpUGV4a0QtRm5OeE5B?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-26T15:01:00+00:00"
-    },
-    {
-      "t": "[김대호 진단] 미국 경제 3년내 \"재정파탄\"... 뉴욕증시 헤지펀드 무서운 경고",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGExOEVLQkEtRkdkeDVsLWhHRVJQM2YxYU0xeHRBVFRKWTI2clFCS05NT0pKaGxSOHpXME9HOXNjMl9nOHhLdTdHcVFUQ0NGbDlqU0EtcExEeHRxT1pabUEwMnIwMVVsZnRVZXhFaEtGcGRsS0hPb0lwQnRUSXRHd2tSYkE?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-26T15:00:00+00:00"
-    },
-    {
-      "t": "민형배 시장 \"서남권 반도체 클러스터, 정부가 직접 지정해야\"",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBERGthZ2FmUk1xRDhMbk05R2YybFBtWnRQUUktbmtjZ2RtRjFFamk5WHp1RVEwcVdFaGtubU96UkhsdGtmc083cHUyb0p5RU9aSDMwYlZmdXZMbld3VElfSWtJVlZtQ2Q1NEg3MVd1SQ?oc=5",
-      "s": "진일보",
-      "d": "2026-08-26T14:56:44+00:00"
+      "t": "美 7월 근원 PCE 예상 부합…헤드라인 물가·개인소득은 강세(종합)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMFlHNEhyT2QzV3NtQk53cWJ0UG90ME56eWI1cHdTcXQ4ejFuRktoWjFGWFVQN3prdjBjVUd0b3VCMTQ5ZUM1cTdaNExxNExZUVZoN0thWERaYmpoUlliVW9NVXZSVzA1Rjh1UHduZFE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T15:08:52+00:00"
     }
   ],
   "asof": {},
