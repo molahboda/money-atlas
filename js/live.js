@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T04:00:59+00:00",
-  "quotesAt": "2026-08-26T04:00:59+00:00",
-  "newsAt": "2026-08-26T04:00:59+00:00",
+  "fetchedAt": "2026-08-26T04:15:59+00:00",
+  "quotesAt": "2026-08-26T04:15:59+00:00",
+  "newsAt": "2026-08-26T04:15:59+00:00",
   "quotes": {
-    "kospi": 6871.15,
+    "kospi": 6877.72,
     "spx": 7677.28,
-    "nikkei": 66340.62,
+    "nikkei": 66260.38,
     "vix": 15.45,
-    "krw": 1386.23,
-    "gold": 4700.9,
-    "wti": 80.29,
-    "dxy": 98.97
+    "krw": 1385.18,
+    "gold": 4699.6,
+    "wti": 80.32,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.6,
-    "nikkei": 0.74,
-    "krw": 0.4,
-    "dxy": 0.05,
-    "gold": 1.35,
-    "wti": -2.51,
+    "kospi": 2.7,
+    "nikkei": 0.61,
+    "krw": 0.32,
+    "dxy": 0.06,
+    "gold": 1.33,
+    "wti": -2.48,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "코스피 6,875.46 코스닥 827.20",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTXppajVLY0ZPVVF6MVgwRmRLZU9wNnVhVkhqMm9YemdONWhyRnJ2aTA2cTI0UFdTUXQ0VG55WDREa2xFcXJPTk5oWGNDN2NQTThvTjRVdVdJbk0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-26T03:53:00+00:00"
+    },
+    {
+      "t": "[환율 전망] 유가와 금리 하락, 원화에는 더욱 긍정적",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01LVZqNExGdmlkWmZ2V2RMRnA5NW1PdjZDRjc3Vzh2V1U0cjFQU1BfTEVXVDd5dFBUbDl4eER1UkRsVk4yd0NVMUY0dy1SZFlJb2JuYkgyQTQwQjMtMVlPOQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T03:49:14+00:00"
+    },
     {
       "t": "호주 2년물 금리, 예상 웃돈 CPI에 빠르게 낙폭 축소…4.58%",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQjZYWlBIOFc1SF84c0lqU1BQd3BleExibkgzNGJWS3hGWHJXV1BaQVAzTTNKWEg2am01bG1XX1ZQdEtWTXhHYlE1ZFJENTF5aGpnMXJfejZoLVdMWnZpNzJPYlF2Mm9zUGFRUU9nRm3SAXRBVV95cUxNbkZWVHBqMkZhZlZEdWpxVUNuLVRBUmtyVndQZVQyWFh5cTA0ODEwYTFHemJQMFI0czlJR1pOQmc5STZmZ0NOdFJwa0ZNX3hQbGZxSXp1UEpqV1oxeHNWS2x3NERyb196Wmd0UldHeDVpU1RMbQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-26T03:36:16+00:00"
+    },
+    {
+      "t": "[속보]“삼전닉스 덕분에” 원달러 환율 추가 하락 전망",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kM0hyckFJNHRKeHpUc3JlT3FNRE5vYktrdzIxdWU0N0tYUEZOdEdYOFBEdGZOZ1E3Yl9xYTJTTTJFQzBBaXpvaG53eFFEbVl5LTZnQ2F3Yzg4c0E4NWVKYUc4djZ6ZVo4WlJxdg?oc=5",
+      "s": "한경매거진&북",
+      "d": "2026-08-26T03:35:00+00:00"
     },
     {
       "t": "S&P500 선물, 대형 이벤트 앞두고 약세…美 국채금리 혼조",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUkJTb0FjZ0h4cHREZnF1bHNjVmxaODRtcFNnNVlKS2NDX25ZYmtvSldIT3QwTFZKd2ZORlc1NTNzczBINUxyTnhtemxVQUd0aHk4aEhyVkVtekxt0gFiQVVfeXFMUERwbVFleExWUlZTYTR6NWhoNE9aTTJBUHg0VUlhQ2xIa2ZrR19LOXVhVVMxRlo4YmxtZDR1MHdXM2xPWmJsRmNzY3YzOTBxZ0xMWVBuQmtCc01WcGtVQVBybFE?oc=5",
       "s": "BBC",
       "d": "2026-08-26T03:08:39+00:00"
-    },
-    {
-      "t": "“증시 흔드는 AI 데이터센터 역풍”…美 중간선거 변수, 한국도 닥칠까 [이슈+]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PT2FQOXBWZFpncDNxY2FMZS1FUWtFemFaOWNEOWdMSE1iWWJTTFd2U014YjhWRnY2WnFKTDZoT05jQTJ4bDB4NnNwdUVHME5UMkR0WUZOS2k3YlhHTmQxcXRySQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-26T03:07:51+00:00"
-    },
-    {
-      "t": "7월 주담대 금리 32개월 만에 최고… 고정형 상품 10개월 연속 상승 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHBPQ3lPWUpQY19KOTNsLWJDVVBXRDVrVzAtczVXM1Q3QW9ySnAzTlkwVG1sWm1JcEVHcW1aaXhsaGZVUmNxOElCb21ZYzFkY1hKTzZTQ0IyQVZzRkpxemw4TWlISzEzTEFfeWMwQjRZRkNnYjdwcUV1UXFZSGtPWlBFMVlUQdIBmgFBVV95cUxPNC02YURpcXNGdXRsV3lrbVM5VWJTUzR3WGk4amoxUXN1YUdDeWhsR0lJWWtZbGJydHNWcVpBRW9uY3BqdjF1MHpuNVNxSi1nbFYzalozVTl3YUhEaFJqLTUxVHlTY09xWl9jMFBVRlc1Rl9QNXB1bDdZOTdfbnZ5Q3c2dUEtcVBuc2FzOXNHQzRUa3ZON2FqOGVB?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-26T03:04:30+00:00"
-    },
-    {
-      "t": "금리 상승기 불리한 변동형 대출 계속 늘어…12년 만에 최대",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXZRSndTOTFkSmRxaWtoUjByWHY5VUlRT2FnSlhOSTdrNXdnbUFJVVIzbk5PclRTNUp1SWx6ZFMwQ1JFUHd6TWJjRVR0VGxFYUtuS3RZVFA2Q09JOENMOTVjcnB2U0VWY1RSR2YzbHMzLXE3ZTRsbkRlRGdyUFYzS25vMUZpQWdpcGwwbkRR?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-26T03:04:22+00:00"
     }
   ],
   "asof": {},
