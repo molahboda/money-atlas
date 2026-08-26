@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T18:30:59+00:00",
-  "quotesAt": "2026-08-26T18:30:59+00:00",
-  "newsAt": "2026-08-26T18:30:59+00:00",
+  "fetchedAt": "2026-08-26T18:45:59+00:00",
+  "quotesAt": "2026-08-26T18:45:59+00:00",
+  "newsAt": "2026-08-26T18:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7673.82,
+    "spx": 7679.24,
     "nikkei": 66262.16,
     "vix": 15.45,
-    "krw": 1385.49,
-    "gold": 4650.6,
-    "wti": 82.17,
-    "dxy": 99.15
+    "krw": 1385.44,
+    "gold": 4649.8,
+    "wti": 82.26,
+    "dxy": 99.17
   },
   "daily": {
-    "spx": 0.27,
+    "spx": 0.34,
     "kospi": 1.66,
     "nikkei": 0.62,
     "krw": 0.34,
-    "dxy": 0.23,
-    "gold": 0.27,
-    "wti": -0.23,
+    "dxy": 0.25,
+    "gold": 0.25,
+    "wti": -0.12,
     "vix": 0
   },
   "news": [
+    {
+      "t": "돌림판 룰렛 게임 탄소 중립을 통한 요약: 원리, 방법 및 기술",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12bmFMX2NZQ05uTmh4aDMxeWZoN2JIbHQ5WUZnLXZJWGdndXZGdG5QMHBLYWZIM3JrSHQtRlJVa1R5Sk5mYnRVaDlYRnRjcENoWDJ0SjdRTmpVVkNFUzRvbkdGTQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T18:27:26+00:00"
+    },
+    {
+      "t": "美 증시 이익 3분의1 독식한 엔비디아… 월가 돈은 비트코인으로 턴?",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjNIQ1dBRHhKM3lQQkFGMnVXbDkwcW9xdjZlTllBZUlwR2VocUZtRUN4QXF3M0QxWW1qbWZua09rOFJ0dEZtXzF4V2N6YXRjbEhoNlJvVWhIaTA5TS1HbWRQNFpiNG1LdjNmNzFuWDVsT19URzhpV1FDdVBXM0VMMzUwM2tNallN?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-26T18:11:13+00:00"
+    },
     {
       "t": "스포츠 토토 단폴 히츠벳 연구원를 위한 비판적 사고 해결책",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KbXBEM1FSTTRYOFpJSG5Kb2QzU1NMMWR2OHhnZF9NbEJReWJlNktuNzJoWTVNV0U2V01PX05GcDdGbHRqd0lxODc2bmEtLUVXYjlVV000cnp2UQ?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-26T18:08:03+00:00"
+    },
+    {
+      "t": "[김종구 칼럼] 순댓국밥도 못 먹게 할 미친 물가",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcnlUQ1ZBbzhETy1MMVVaelRoZ2tkeU9rdFFZMWkxUjNSZDJSUTBlVmkyZWUxYjNHbEZHUmYzUlZDX0pzdnA5bHBTZjU0T3YzLS00YlM3elFhYjg?oc=5",
+      "s": "경기일보",
+      "d": "2026-08-26T18:02:00+00:00"
     },
     {
       "t": "美 모기지 수요 둔화…30년 고정금리 6.78%로 상승",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xU0xOYTU3Q0ppa2RneG90M0ZTRm9mcl80RHZUaGV5OUFYZHZTTmticTBFR0tmdmxaaXVqRm0zblE0U2ZQSUtzWWwxeElDampiLXFFeXhWVVlCUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-26T17:53:00+00:00"
-    },
-    {
-      "t": "토토이크 호감도 컷 학생를 위한 글쓰기 기술 심층 분석",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81cjdpWFNNN083R0tLSVNXUG5ZZm1FTGpxOWlBWmxIdDF2REl2eWhURXB3Z3lhSVVrRlN5eUFld3dVRldSUDJkQ2VSMVcyZkhZa3Y5M1I4MmZsQQ?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T17:52:50+00:00"
-    },
-    {
-      "t": "“반도체 호황, 2030년까지 간다” [한경 프리미엄9 TODAY]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRUZSUkxHWHQ3T0FSNUdCb3pFM3VkbU9HdWlRcDJtNVA5YzFrdEJYa3BRWEhkX25UNnNNLUpIWnRrMTJDeVRaVU9yNk9Qa0FRSTVFY0xRUGdZUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T17:46:00+00:00"
-    },
-    {
-      "t": "유럽증시, 이란·오만의 호르무즈 협상 주시하며 보합권 혼조… 美 물가 지표도 소화",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbFItMlpGOWQyOUJpRXlCdnhCWHRQd0tYNWpXdGUwRlpWdU5qRW1yT0FmUXJxZGxFNGdCN2tiUldsNFVDcVBYZDJMaHJDZDFoY0RPNmFzc1kwR2Zj?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T17:28:00+00:00"
     }
   ],
   "asof": {},
