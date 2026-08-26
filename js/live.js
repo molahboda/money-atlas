@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T16:00:59+00:00",
-  "quotesAt": "2026-08-26T16:00:59+00:00",
-  "newsAt": "2026-08-26T16:00:59+00:00",
+  "fetchedAt": "2026-08-26T16:15:59+00:00",
+  "quotesAt": "2026-08-26T16:15:59+00:00",
+  "newsAt": "2026-08-26T16:15:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7669.4,
+    "spx": 7668.79,
     "nikkei": 66262.16,
-    "vix": 15.45,
-    "krw": 1386.1,
-    "gold": 4662.1,
-    "wti": 82.38,
-    "dxy": 99.15
+    "vix": 15.56,
+    "krw": 1386.21,
+    "gold": 4656.3,
+    "wti": 82.78,
+    "dxy": 99.16
   },
   "daily": {
-    "spx": 0.22,
+    "spx": 0.21,
     "kospi": 1.66,
     "nikkei": 0.62,
     "krw": 0.39,
-    "dxy": 0.23,
-    "gold": 0.52,
-    "wti": 0.02,
-    "vix": 0
+    "dxy": 0.24,
+    "gold": 0.39,
+    "wti": 0.51,
+    "vix": 0.71
   },
   "news": [
+    {
+      "t": "한은 금통위, 기준금리 연속 인상할까…동결 전망도",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OF9qZTZVSWpHbGt3dFRDamJhTktmaEcwQURxdWVKOWlBczNfWG5LQ1ZPeElERk9BWGd3T1JOaEJMZzNYbW1VNTVEMnl5cGs5X0J6cW5yaHlMNnc?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-26T16:02:00+00:00"
+    },
+    {
+      "t": "주담대 금리 2년 8개월만에 최고치… 변동금리 쏠림 더 심화",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWQwZ29WckkxUFZxN1oyR0ZnMTVyUk5OTW1kSEhWeHNSWktsT290RHF2TzdBd2NUTzd6OVNnOW1VNTdkY0NTY291eDhOcnd4VUVHMHhONzV3ZmQ1clNSdE13alV3a1RfaFFsNVRkNDRYWlJDU2dRSUx5WUtNd1dPdC1LMXBWQdIBbEFVX3lxTE43WnRaSktzY1RuOTBfQVFPd0pxOEc0eDZGX0VJWUV1QjlIaUEyeFkxeUtOQkFGalJvNWdHbm1aa1c4dWdQSXQ3QmFaN2NaSDFvdlBFYi1hQm04WXplQlNDTkpFTVBaakZ6aDV3UA?oc=5",
+      "s": "국민일보",
+      "d": "2026-08-26T15:52:00+00:00"
+    },
     {
       "t": "호남 반도체 공장, 노동쟁의 대상 되나",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDVuVW1HazJkWXRVZ2k2TGR4SHZuMU9Senh4Zy1FQVlyWVdXMHhJeXJySGEySXdNV0tITHdybGRtQmN2TG9hWHZpU1Nyd3VhM1UwaUJWZHNMLVJqRzJPLWZuTGJxVUFWQlc4LXU2dTZRTWxqUHpYQ3hLdEN4UzlaNGMteXdSelNsakh1aWVjYw?oc=5",
@@ -39,12 +51,6 @@ window.LIVE_DATA = {
     {
       "t": "금리 오르는데… 불리한 변동형 주담대 12년새 최고",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZEV3cS1jcFN4czBydjB1c2tkcjhlTU9wM240dFJRY0lZcVBXSmY2elp2NmN2UGhOeHNFMXFSdmFBLW9nRElDSzNpa1RxRTFxR2xuUFFkUFdDX0o4QU1RQlNaclBGcWtvTGt1aXYzc29kZE9oM3fSAWZBVV95cUxQWFUwdWNSdFIyaW5ONTlzRWJIQlFIdGpxeFI3M2FndWNGMm1sYVd2YkJybnhtb2cxcHE0RVVnUk85OUVWRVVJOVpxdUx2QmhZRXFyVVVUTTdUS0pxeVlLNE83X25YRVE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-26T15:30:00+00:00"
-    },
-    {
-      "t": "반도체 끌고 서비스업 밀고… 8월 기업 체감경기 4년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhYTltcldEU3pUY2Z2djExaV9JRGxwRFNfejZCZ2hRbDJFQmF1cTZHeHhwMGNhWVZhTU02NElKNUd4cGZlVnFGTTIwNlo4Tkt0ZXlWRHNuYVNZRGJSNXhoUHAybDlEUVppY1BSdE9PZ3gyTkVIRXfSAWZBVV95cUxNVWdraDNFWlh4SG04WmtVYVZJQTY1YUxJOVY4bVQtdUI1aDZQYkxtQ29scXVhUnd5eTUtWVpieDlRN1dQbVlheGQ4ZkJHTzJxWkhVQXg4dEtoZlpvVlp6aEJmQ0VDbnc?oc=5",
       "s": "동아일보",
       "d": "2026-08-26T15:30:00+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBERGthZ2FmUk1xRDhMbk05R2YybFBtWnRQUUktbmtjZ2RtRjFFamk5WHp1RVEwcVdFaGtubU96UkhsdGtmc083cHUyb0p5RU9aSDMwYlZmdXZMbld3VElfSWtJVlZtQ2Q1NEg3MVd1SQ?oc=5",
       "s": "진일보",
       "d": "2026-08-26T14:56:44+00:00"
-    },
-    {
-      "t": "[경제포커스] 주택 공급, 반도체 속도전 결기로 정공법 펴라",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IYjB4MkRkQ2ZOemNLMWdWTWt3OHlBbVlxRGExZ0tMbGx3QU1JSlNNQVh5ZFZNMlJPY3VPdDM1LTZXenBNOFVhM2d0X0lFMjQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T14:51:52+00:00"
     }
   ],
   "asof": {},
