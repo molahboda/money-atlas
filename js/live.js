@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T15:30:59+00:00",
-  "quotesAt": "2026-08-26T15:30:59+00:00",
-  "newsAt": "2026-08-26T15:30:59+00:00",
+  "fetchedAt": "2026-08-26T15:45:59+00:00",
+  "quotesAt": "2026-08-26T15:45:59+00:00",
+  "newsAt": "2026-08-26T15:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7675.38,
+    "spx": 7678.92,
     "nikkei": 66262.16,
-    "vix": 15.49,
-    "krw": 1386.18,
-    "gold": 4647,
-    "wti": 82.12,
-    "dxy": 99.17
+    "vix": 15.5,
+    "krw": 1385.56,
+    "gold": 4654.2,
+    "wti": 82.36,
+    "dxy": 99.15
   },
   "daily": {
-    "spx": 0.29,
+    "spx": 0.34,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.39,
-    "dxy": 0.26,
-    "gold": 0.19,
-    "wti": -0.29,
-    "vix": 0.26
+    "krw": 0.35,
+    "dxy": 0.23,
+    "gold": 0.35,
+    "wti": 0,
+    "vix": 0.32
   },
   "news": [
+    {
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 26일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN095Y3p3Z2JXNjEyeXBmYkF1ZXRZUmNSR1hza0RGTUJWRWFaNk5zUEdUc3pYOVZfMUJoeEpFaDNMSEh1R1I0dVVfVEN0RlNzenZMeDNabHNrVGhCSC10MVgxay00NU04OGh4bXEyNDRkYUxMTGpITE1jdGlxSnhEZkxkNzQtSTFC0gGcAUFVX3lxTE51R1ByTWJ0RzItdmhHQjhIY3ZNZ0VNTmU1NzhzMjhDbDVrS0V6X2lFRDc0RHNUclhpQzNmT28zNjBnM1E3clNIVUNVUC01M2VrWG5meTVNZFpMdm5hTThxbkpQZFVGeVYzMFp5SE10b1V6a2RrVEFMb1hfRzVKWHZIMm1vekp4Z3VIQ1dQLTEtVWk1VUFwQTZnUTJlVA?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-26T15:35:00+00:00"
+    },
+    {
+      "t": "호남 반도체 공장, 노동쟁의 대상 되나",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDVuVW1HazJkWXRVZ2k2TGR4SHZuMU9Senh4Zy1FQVlyWVdXMHhJeXJySGEySXdNV0tITHdybGRtQmN2TG9hWHZpU1Nyd3VhM1UwaUJWZHNMLVJqRzJPLWZuTGJxVUFWQlc4LXU2dTZRTWxqUHpYQ3hLdEN4UzlaNGMteXdSelNsakh1aWVjYw?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-26T15:31:00+00:00"
+    },
+    {
+      "t": "첨단 반도체 패키징 기술 총출동",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JQ1d3SWVYOE84UElTeVZRaUd0bEhvM0dYYTgza180NmlHMnlNNi1ralhLWTJnLU9VTU96YlRZUmhDNG03QXJfZW1wRWpQdkRXQWs5MlpYY21JRXdxZlJoV1dBbEgxNGhVM2VjQlJPYw?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-26T15:30:23+00:00"
+    },
+    {
+      "t": "“햇빛만으로 수소 만든다”... UNIST, 효율·내구성 높인 유기반도체 광전극 개발",
+      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JenNacVkyd0RzNFhMTTdSSExySE5KSVNLQTFiek9vcTNWLUZzSFBCcy1JcV9WMl9lZFMyczI1Q0Y3aUFkLUNOUg?oc=5",
+      "s": "특허뉴스",
+      "d": "2026-08-26T15:28:00+00:00"
+    },
     {
       "t": "스포츠토토 구매방법 디자인 분야 자산 배분의 고급 기술와 혁신",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53eGI3ZXZHWWlraEotb1VSUzNRdHJMYjZjMFJPenNSVWlHYV90NTlvc0tpR3VoYmhLN0FHYnYtRk9XSUx5UXBmbE0teV9XRTVTcG9JaWdWeXg?oc=5",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T14:56:44+00:00"
     },
     {
-      "t": "미국 7월 PCE 물가 전년 대비 3.7%↑…전망치 소폭 웃돌아",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Tc3hfNi1kNG1Benp3dEZsLWV0amM2VlZET053ektGcW1QbTBocW5SMG5mTVRCZ0RWQTF3aFNMcVY1QW85R01CTjY0Tk8yVFR5ZnpQUFgxajgwbzQ?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-26T14:47:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, PCE 지표 소화하며 혼조 출발",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hRVpWZldqWkxrNExBREE5TUJzcFpzZDl2eXNlWjNIRExYZG4yRnNXb3BXX0k4WXlGS0dCbGxRX3hiRlR1RDB5X1RpcVZsc3l3dFBxcWpVaXptRWfSAWBBVV95cUxObW1NbWlfWVZFcENkcFZ1OS03VnNGVXBrdlZRNnQ1Tkg5Z3djWHdNSEFieXBldldEbEpMT1JCblJuZFJDVGFINlBWcnRmaDFnMXV2bnBHNDA0Ry05Snp3RWI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-26T14:06:50+00:00"
-    },
-    {
-      "t": "민형배 광주전남시장, 반도체 중심 성장모델 제시",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBERlZCZThUOEl0emtfYmlMbUFiamlvZWdIWng5VVg1Z1phYVl0ZUpGRmxaemVDaW1QT1VfZzFOX2swcmJ4di1KZ3FEd0ZnZ056UlltcTVOX3VtTTdFTmNEYTlB?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-26T13:41:37+00:00"
-    },
-    {
-      "t": "우즈베키스탄 중앙은행, 인플레 둔화에 금리 인하 시사 - 블룸버그",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01YzhfbHNWcUxYZkM4c255cmYzUVQ1ZXZSeGIyZmRDLW9WdDRSTWhXWkQybVY3OUQ1Y3JnSnY2alEzSUdjak9FWncwWFg3Q3l0MktOY0lfSU9KTUZuSFJrX2JiN0ZqWDVRSFZnY2lB?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T13:38:00+00:00"
-    },
-    {
-      "t": "미국 7월 PCE 물가 전년대비 3.7% 상승… 전망치 상회 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZV9qX1ZXWGE5ek9pSWN6MlRBcXdjQzIwUmpXeDBQMlhuM24tU3VsbTkyNklJTFZHVjZnVG5abV9PMVVHUU50eXd0OW40cm5fUmpXUmt0cm1TSWt1OGFCeW1DdWFmNzIydHpyWTBhaFZTSTFlZ3VBV0MwUlhXOWdSV3NZRjMtRmZlOWpoa1Z1TmN4UXNUTXdENzM4WDJzZ9IBsgFBVV95cUxPTnlLUnE0T1ZPandFRTZzT01mLXNKbV9CbzhNU0hOOGVkTjRBYjcxemdKbHl2T2Nia0V5QVI0bGFQa0pQT2Jib2l4UzcxWElSc1ZNeVh0Y1FGN01XTHJTZTJ2anZGMHEzTjJEcXBaNm5yODB5ZmUtcy1pVmt2UlpxN2V2UENWbTJuZU51VUh1QzBRV0h1anI4MjhhMnlTWnpZRlB1UjYycU5fdDQ5bkhGQllB?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-26T13:09:00+00:00"
+      "t": "[경제포커스] 주택 공급, 반도체 속도전 결기로 정공법 펴라",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0djeHNMdTJFTm9rcTNBSHBhTWotUjY4U0FMN2w2bUZFNVNfLWFGamRxX0pGOGk3aXVyTlZHOFVqVHdKejJLN2dGTXk4VTJLaW43SGpEM2phTEhBZnFKcG9xeG5TUG16S3BubDJIWXBmNzlCczRidUlqNTZUeVhkcVRzQ0dBWlFucFlYOA?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-26T14:50:00+00:00"
     }
   ],
   "asof": {},
