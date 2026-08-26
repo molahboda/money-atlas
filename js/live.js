@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T17:16:00+00:00",
-  "quotesAt": "2026-08-26T17:16:00+00:00",
-  "newsAt": "2026-08-26T17:16:00+00:00",
+  "fetchedAt": "2026-08-26T17:30:59+00:00",
+  "quotesAt": "2026-08-26T17:30:59+00:00",
+  "newsAt": "2026-08-26T17:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7671.13,
+    "spx": 7675.33,
     "nikkei": 66262.16,
-    "vix": 15.6,
-    "krw": 1385.96,
-    "gold": 4647.3,
-    "wti": 82.69,
-    "dxy": 99.18
+    "vix": 15.52,
+    "krw": 1385.25,
+    "gold": 4651.5,
+    "wti": 82.59,
+    "dxy": 99.16
   },
   "daily": {
-    "spx": 0.24,
+    "spx": 0.29,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.38,
-    "dxy": 0.26,
-    "gold": 0.2,
-    "wti": 0.4,
-    "vix": 0.97
+    "krw": 0.33,
+    "dxy": 0.25,
+    "gold": 0.29,
+    "wti": 0.28,
+    "vix": 0.45
   },
   "news": [
+    {
+      "t": "유럽증시, 이란·오만의 호르무즈 협상 주시하며 보합권 혼조… 美 물가 지표도 소화",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xbFItMlpGOWQyOUJpRXlCdnhCWHRQd0tYNWpXdGUwRlpWdU5qRW1yT0FmUXJxZGxFNGdCN2tiUldsNFVDcVBYZDJMaHJDZDFoY0RPNmFzc1kwR2Zj?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T17:28:00+00:00"
+    },
+    {
+      "t": "2023년 새로운 카지노 : 을 통한 성공 전략",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XMzNzSFV6T3R3aEQtRTdvdzUwaHRObGhLQmZUZTFWS3ZpNjlfT2lhTUhkZkRTeDVfNnE5TVN2LW5DQW53bmhhUWZ1Y1BsazZpbG5VYWtyWmNkNkIzQmtyZHNMSC0?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T17:26:32+00:00"
+    },
     {
       "t": "도도 토토 : 주요 이정표와 혁신 (2025년 최신판)",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcEpHRkVORWtaNXBBMGxJNmF1TGlDZ3dHU19nZVFxVEpKVHhsaXB6cHptUHJmbXpxeXk5WENoZENjS3YwSlJ5bzE1WjlSN3prR1VucFVfOHEwbV9vOUhCZ0RxY3U?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-26T17:12:37+00:00"
+    },
+    {
+      "t": "달러-원, 美 견조한 내수·높은 인플레에 상승 전환…1,387원 거래",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5MEhOWlVuQmxhUlBiZ24yN254RTFiV0JrOUQ2VFZqNV94aVZ4MHN5ZjlkQ2I3OFZGSUl4WGYtdmpRQXBsVVlZMHZ0UmZ6UlEzUHpXSDQ2c0NSTWotS1duYzlBaXFoVnRqbUlST0IySlIyUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T17:05:38+00:00"
+    },
+    {
+      "t": "[뉴욕 금가격] 끈적한 美 인플레이션…1% 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RcXlmT0M3REFtcllXTUE3S3R5S1pSczdCTUJEOC1VNjhDRmN1U1hJdEVUd0YyV1hKVUZ0dHZKWGg3VmtKVGhXcEFOckMySS1IYWF0MkROQmFTMkhuNUVXNDh3aWExYXE2NUFObVJtbmlBQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T16:47:40+00:00"
     },
     {
       "t": "美 7월 PCE 물가 예상 상회…연내 금리인상 기대감 확대",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aOV9MNXpFb19QY1JNMTdTTktzMVNwcnNidGRiTm1wU0cyQmxIc0ZhUDVUbTNOb1N6aVdrZzBrLUNESldBRUt3V1gxamRGRmM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-26T15:53:08+00:00"
-    },
-    {
-      "t": "호남 반도체 공장, 노동쟁의 대상 되나",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDVuVW1HazJkWXRVZ2k2TGR4SHZuMU9Senh4Zy1FQVlyWVdXMHhJeXJySGEySXdNV0tITHdybGRtQmN2TG9hWHZpU1Nyd3VhM1UwaUJWZHNMLVJqRzJPLWZuTGJxVUFWQlc4LXU2dTZRTWxqUHpYQ3hLdEN4UzlaNGMteXdSelNsakh1aWVjYw?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-26T15:31:00+00:00"
-    },
-    {
-      "t": "첨단 반도체 패키징 기술 총출동",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JQ1d3SWVYOE84UElTeVZRaUd0bEhvM0dYYTgza180NmlHMnlNNi1ralhLWTJnLU9VTU96YlRZUmhDNG03QXJfZW1wRWpQdkRXQWs5MlpYY21JRXdxZlJoV1dBbEgxNGhVM2VjQlJPYw?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-26T15:30:23+00:00"
-    },
-    {
-      "t": "금리 오르는데… 불리한 변동형 주담대 12년새 최고",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZEV3cS1jcFN4czBydjB1c2tkcjhlTU9wM240dFJRY0lZcVBXSmY2elp2NmN2UGhOeHNFMXFSdmFBLW9nRElDSzNpa1RxRTFxR2xuUFFkUFdDX0o4QU1RQlNaclBGcWtvTGt1aXYzc29kZE9oM3fSAWZBVV95cUxQWFUwdWNSdFIyaW5ONTlzRWJIQlFIdGpxeFI3M2FndWNGMm1sYVd2YkJybnhtb2cxcHE0RVVnUk85OUVWRVVJOVpxdUx2QmhZRXFyVVVUTTdUS0pxeVlLNE83X25YRVE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-26T15:30:00+00:00"
-    },
-    {
-      "t": "“햇빛만으로 수소 만든다”... UNIST, 효율·내구성 높인 유기반도체 광전극 개발",
-      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JenNacVkyd0RzNFhMTTdSSExySE5KSVNLQTFiek9vcTNWLUZzSFBCcy1JcV9WMl9lZFMyczI1Q0Y3aUFkLUNOUg?oc=5",
-      "s": "특허뉴스",
-      "d": "2026-08-26T15:28:00+00:00"
     }
   ],
   "asof": {},
