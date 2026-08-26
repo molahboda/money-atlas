@@ -1,29 +1,77 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T02:45:59+00:00",
-  "quotesAt": "2026-08-26T02:45:59+00:00",
-  "newsAt": "2026-08-26T02:45:59+00:00",
+  "fetchedAt": "2026-08-26T03:00:59+00:00",
+  "quotesAt": "2026-08-26T03:00:59+00:00",
+  "newsAt": "2026-08-26T03:00:59+00:00",
   "quotes": {
-    "kospi": 6805.33,
+    "kospi": 6850.5,
     "spx": 7677.28,
     "nikkei": 66227.55,
     "vix": 15.45,
-    "krw": 1385.38,
-    "gold": 4721.9,
-    "wti": 80.38,
+    "krw": 1387.28,
+    "gold": 4723.6,
+    "wti": 80.2,
     "dxy": 98.93
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 1.62,
+    "kospi": 2.29,
     "nikkei": 0.56,
-    "krw": 0.33,
+    "krw": 0.47,
     "dxy": -0.07,
-    "gold": 1.75,
-    "wti": -5.45,
+    "gold": 1.78,
+    "wti": -5.66,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "美국채금리·국제유가 하락…코스피 6,800선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hWGNDMFhGckFORTVzQWxDbS1XcVo0WEhJTWE5NzQ5QjFJb0V0VVR6YnBkbjZLLWIyajNwXzRnRFowQ2pFYl9ha3hQam9CM0JKNWljYXpfV1BJY0FwLTJWRkZWV1gySVE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-26T02:53:00+00:00"
+    },
+    {
+      "t": "유가 하락에 상승세…엔비디아 실적에 촉각[Asia오전] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qb0Z0RDVPMHc5cnRwNl9vOHpHWVFWanJwclFTbkdHZV9leHBOYk9vb0lZLUl2RUdhbGhDUWctUlo2akJUUWZ0dHNybW1TSlJFRk1RWmpTVnpUT1A3eThYY3hoRHlGdkox0gFuQVVfeXFMT1dxUS1xQUk0VlBkUjdpaGlVMEttOUZkUE9xZERONDhvSlgwZmNsZGJJeVhLNGhhQmpRNktfRFZDejNMdXhTcWl5REtCamk0T25wN2FPeW5NUVFXRlJhNDRod1BPMjl3Ul9XNUFHRkE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T02:50:47+00:00"
+    },
+    {
+      "t": "미 반도체주 반등에 삼전닉스 상승...코스피 혼조세",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KZ3J2N1lWdlljUm1FVEt0X0ZvY1JkUkoyLTQ1WGJoOWRjRFg3RWZKSl9fZXduLWdFNXFJNTk1Z2FtcnVKVDdncG0zUUdQemIwTllKRkZWV1d5N195YjFNZ3RBWUNURkUwU082d2dkbUlYYUFtNnc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-26T02:49:00+00:00"
+    },
+    {
+      "t": "8월 소비자물가 전망과 공공기관 이전 갈등까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkY0FOeTF5Yzh5SHRlUG9YX2I3TGRyc1dnenFsRU9lRXZMU3cyd0ZHejA5cWRnU2QyYkdYLUZBMmphM2VOUnhqY29TQnRBNUc3bWxvNm9vQ210T2g1OXdmZXlfeTVuakk2Q3hoUjlnNjjSAXRBVV95cUxPNE8tWmhDd3Z3cTQ0Z1otNmFoN045cEdqNG92enhjOGFzZnBJR3VvbU5QWFYyUzdKSVRlVlYteWEtY01XemVjRmd2S201bVpRY2V3U0wyMlZNdS1qekxQRWUtZkx4M3JScFE1cjdITWVNZHRhRQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T02:43:56+00:00"
+    },
+    {
+      "t": "‘삼전닉스’ 자사주 매입에…코스피 1% 상승한 6800선",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHhTeHdveFBGRFJfYlA4RXRCZERsc3FLVHNpLU9ILVBGVkpPV0ZXblVMU1haaV9MRElMX1BfODlNd2J0VFhRcGZQZU1WdGo5QkpaTVJOU2ZQSjNTZFBKTnZZSDBsNnJaQ2tfOVZiWUJqN0s2NVpFdTFrV3FPdFRzYUZYRXBZQjI0?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-26T02:43:00+00:00"
+    },
+    {
+      "t": "LG화학, 세미콘 타이완 출격…반도체 소재 사업 가속화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5laEpnV19pN2xkVVYzdmE1aWFfRDVBc0lrRnIxVUVfSjVZQ001UVVWc3JhRFpxRU12ZDgtX0E1Y3I3YVlldGhKRlFhejN2TkFZbkw1cGU0eWhkVml6b0pmYWh6WVBIWXVnY0tXTFRTYzY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T02:42:37+00:00"
+    },
+    {
+      "t": "엔비디아 실적·美 PCE 앞두고 코스피는 숨고르기 중… 투자전략은? - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUUZQVzM1ek1WOHo4TjdRNy14a2RyaGZYM2xNdndpWXctQmFaTFdKSWJIdFRObzRjVXZmTVpDaVp5bGNSNjFqRkR5d3FaZmQ3bW51T0J2SHhpWS1ob2VPSkI1Snc3dEpE0gFuQVVfeXFMTmdodFBlbUtiOWRuRGpZOXk5VnNxTktuekRkOUZ3TEdnRnh4V19BTHZ2UC1RT01rT0hfOXA4ZHRZMnJoMUVJMWNWMHNDek40a2tJR0k3Q1ZuX1hqZmg0X3daSmMxNFBxSU94blpkaGc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T02:36:56+00:00"
+    },
+    {
+      "t": "[예규·판례] 지분 100%→1.99% 줄었는데…‘관세 폭탄’ 떠안은 대표이사",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FVkV1blo2cWxicm9tTUt5Zjg0UUg2djJDUWxZU2tMeEpOeU1SWmtQdmFXOHBCYjNuYnp6ZUN5Y2Y5WDcycFVFLWJxOUhhbUJ2cEdQcFM2ZV9ZUnBCMVotYWd6WQ?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-08-26T02:35:28+00:00"
+    },
     {
       "t": "코리아넷뉴스 - 반도체 훈풍에 휴가철 특수까지··· 8월 기업 심리 4년 만에 최고",
       "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYWhMaEhUc19sMVVBX1BNVk1iLWpKN1NpZnZoUXYtWWhOUVJpYnFRWmxjdm5SX1RDdXpORkg2M0F6dFB4TExtaVZSYTNyQTRCdjhfaVpSNXcwWThjSWp2bWV5YTRmN0pheXJUUkc2NUNaX2RTcnkwZUhsUVY2NnBnVUVmSnJrYUpSdkM1RWVZQ2dnMjVhR0xGXzFoUHdQa0NpLUZsenJYVzdRb21QMi1JT2dDUzhoUWdSeHhXbHVmQ1lSTUdxcUlSNnRHa2pxb09JX3EzcXNTZmFiYjlaV1kzUU5oZzcwbFBLTDlNUUZoQ09yNk84N0E?oc=5",
@@ -35,54 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WeW84YUNlQ2tIX1dOeWhxTkFib0xfN3VSRWpWQXFOVUVyQm9wYk1YVVd3X1BqWVk1NVNnMWFYeDJETWw0Y1h3OThvWTY3ZmRlMzZFWGdmM3NzRGVnRjQxNEFEbWNtMnFZWmdwakxTZV8?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-26T02:24:04+00:00"
-    },
-    {
-      "t": "캐나다, 트럼프 중간선거 ‘약한 고리’ 핀셋 관세… 200억달러에 최대 50%",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wajVONGdjSWl2U29zOF82RFY2QUJjLVhMUWVFT2tTclpkZWg5YnFXemhyVm85eHktcTZ4WEdSckVSeFNlSDc3VFFKV29Hd3BQVjBzZGFLbjJGcF81b0tIeUdWV0xOT1YwZUVTV1N5MA?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-26T02:23:00+00:00"
-    },
-    {
-      "t": "금통위 경계 속 유가·外人 참고…국고 3년 3.6bp↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMkpVbl9NQUFjcFNEdFVCcGNOVFhtejV6c204Sm1jcHY5TUpjZDZUNl80V25tcVJ3cTFLSTk5czBUVVpEYkJTNnJTNFRnT0EzREhaR0dhX0JBcmVFckQyWUo2c1AxeGRtckZsNnUxeGNuQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T02:20:16+00:00"
-    },
-    {
-      "t": "호주 7월 인플레이션 전망치 상회, RBA 금리 인상 압력 가중",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaT1h3d3U5MDlTR2lZd0U0OC16Q0dGVEJHZW1rM2xyMzA1U3hFWFBIT3plZ1hqSDFVMENaeTY1WWVzY0tKODZ1NDZBUXhuQVVIUmRwbUJYcDZ6VWRxbTczdGQ2MWd1Q05xZG1JOXc0SXpnVlU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T02:18:00+00:00"
-    },
-    {
-      "t": "국제유가 하락에 채권시장 강세…10년 선물 반빅 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HQmdxclVlQ19Ud25PRVhqbWxiOFpIQUJuVmlKNWJ5UUdnQWhQQWxseV9WRVpBNFFWU3FxUUFLS0hmNXBkT09UaE9yYlVKUnJ2bEI1U2lyTWJwa3R2aGdlWmp0MUljMnNzWFhPS2Rna2g?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T02:12:28+00:00"
-    },
-    {
-      "t": "미래에셋 \"반도체 2막은 소부장\"…삼성전기 최대로 담은 ETF 제시",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsdjAwZkt4bGNUbnNWS0V4b2xJa05kVWRBdjN2RkpKdnVRN3dtWjFaZ1ZJVVFfXzI1ZWdkcUs4QzRSQ1RrUnhRWFQza1NDbi1IX0RCZFRrWUxUOHBnUVRoSVBLaEJPS2VjOWhlYklUVGs?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T02:10:21+00:00"
-    },
-    {
-      "t": "진보당 전남광주시당, 반도체특위 출범 \"청년 일자리 특구로\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00Q0hQME9MUzRWeXB6OUxHQTg0NktMNFk5SU11OW9sM21CYjZsTk8zNkQ2UnlPRWpGVnFhYU14YXEyallxdnZMSk1FQkhPdFR0U3c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-26T02:08:49+00:00"
-    },
-    {
-      "t": "[외환] 월말 네고 무게에 낙폭 확대…금통위 관망",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WU1JBc0Uwdzk3bDBnQWlvd1hjOHM2Y3hfQ0pKR0hFZWY4d09IMmdVNlljSDRuT2J4Rkk5VE8xQ19sd01fc0FiNWx6Y09yNzFuTE9aeWtpTGlVbUdHSU5WTVFiaE4ybmRxRGJCNThwWkJjdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T02:08:39+00:00"
-    },
-    {
-      "t": "LG화학, 세미콘 타이완 참가…AI 반도체 소재 공개",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Z2h6UmJoRWhiUTN1MGJ6a1BvMkVCS1FJRDZ3MDFHNHdrVWltWWFTb0E4N1ZoelZZclBhcldyWTdfb2RqTG1WTUMxWnE2TFpEc0RUcTdrOEJHX0xQTG55cVRJalpWUQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-08-26T02:04:31+00:00"
     }
   ],
   "asof": {},
