@@ -1,40 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T08:15:59+00:00",
-  "quotesAt": "2026-08-26T08:15:59+00:00",
-  "newsAt": "2026-08-26T08:15:59+00:00",
+  "fetchedAt": "2026-08-26T08:30:59+00:00",
+  "quotesAt": "2026-08-26T08:30:59+00:00",
+  "newsAt": "2026-08-26T08:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7677.28,
     "nikkei": 66262.16,
-    "vix": 15.68,
-    "krw": 1383.53,
-    "gold": 4684.3,
-    "wti": 80.1,
-    "dxy": 98.95
+    "vix": 15.71,
+    "krw": 1383.28,
+    "gold": 4680.9,
+    "wti": 80.42,
+    "dxy": 98.92
   },
   "daily": {
     "spx": 0.04,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.2,
-    "dxy": 0.03,
-    "gold": 1,
-    "wti": -2.74,
-    "vix": 1.49
+    "krw": 0.18,
+    "dxy": 0,
+    "gold": 0.92,
+    "wti": -2.36,
+    "vix": 1.68
   },
   "news": [
     {
-      "t": "증시 급락에도…금융·식품·화장품 업종은 올랐다",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wV0haOGc4M2dzOUsyQmxIYWdGcTJnSXpKV2hfbV9HRkgyT1JxcWdnRERnNGY2Ul9vQ3R1Qzc4dnBhVW1KV1hxNXc2dUF3RHQ2QnpoMVhGTEFLTjVXSDBpRElR?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-26T08:12:00+00:00"
+      "t": "(뉴스 번역) 캐나다, 미국산 제품 700여 종에 보복관세 부과-Xinhua",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxbTFaZkZJeGFYNkx3dnNsTDM0WjFWbDVaSk9kNVQxOUlvR2pZdG1pdGFGaGllUlduQV91TW00M0NGMkR2RjJSQnNUZmV1dU9nMkVMcnhLSUJmRXJMUXg1T0ZvZFdtaG1sS3ZfMVY3c3RiU0da?oc=5",
+      "s": "신화망",
+      "d": "2026-08-26T08:28:02+00:00"
+    },
+    {
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RcnFLeWFrR2ltLXFCUWxrMjQ1UUZjUDIxa1NPQzhRMWo0dHNHMThKZGFVc2JPSHNrc3BkQlFoNk9oUGZLemhSZlVTTTlzNVVqUmc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T08:22:59+00:00"
+    },
+    {
+      "t": "한은 기준금리 인상 여파…7월 가계대출 금리 0.14%P 상승",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkam5fY2RqLUQ4eDM2ZkJLQTY2YkMzME9xaU8zQV9VQmxSZDFpMU9VQ0JCckc5WWUwaVV5RlpvRXBqaDNTNUZJTlhYbEN6a0FZdi1xdV9xS2JmdklDbkpPRkE0S3habWNrSGpmb1J2RlZRTXBUWWfSAWZBVV95cUxPUV9YemdFNjdVRFlkcTloeUI1NVJEOHdfZ18wMjFoQ0dYMTJrYzhQcm5mekQ4UTlhMGUxU3RjWjNiTmVySzJtb3B6bzZtVU9OYmJ0V0JKWGZxVWpXbGVucGVITE9KTGc?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-26T08:15:00+00:00"
+    },
+    {
+      "t": "7000선 안착 못 하는 코스피…그 뒤엔 174조원 ‘개미 매물벽’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54VW81MXhOekEzeUdrOEZpdmNJaWVYSkFwUW83SGNQMlZjNUlGWlIxRGVkRnR2Wlo2dVFWQlJxaTI5VGlydjlUSkIxalFZYUx1X2JvT05n?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-26T08:11:22+00:00"
+    },
+    {
+      "t": "[오늘의증시] 코스피 6800선 회복…반도체 반등·유가 안정에 1% 상승",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OW51c0NjSlhxb3BURm8zNF90Wkt6ajY3Wm9STTV1RExHcFZQM2NDTkVXRllxejJiNklLd2JnaVVEWDdrc1NlUXpZTUFwUERpMFEtWjFUamZWZzBDWW96T2xEbV_SAWhBVV95cUxQMzhudXVHaGpHY0pxbW1Id3JZMWV4NVByalE0N181ZkVEanJtTFlqYkxEOHE3MG92MzJxTHVJNHFYV3dHVzBOZDJ1TXJEQlBRdW5hX1VjQl8tNjNmR0lCdDB5NmRSbk9wMg?oc=5",
+      "s": "경인방송 뉴스",
+      "d": "2026-08-26T08:10:01+00:00"
     },
     {
       "t": "반도체산업 호황 추가세수 농업분야 활용방안 모색 간담회",
       "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VS1hKUjB4MTJ0N1BZRTc2N1RtWFFNa3plc3VHYV9IY2xmM3V0d3lVZjhEUGFRRzZpVTFFSV9Ram1GVHBoSk1j?oc=5",
       "s": "경제정의실천시민연합",
       "d": "2026-08-26T08:07:55+00:00"
+    },
+    {
+      "t": "엔비디아 실적 앞두고 관망..코스피 0.97% 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SkRueVhFR0VIbjJaR0NlZ2dIUXFYVVBwNmJLcERjOS1LaVlOUGZiX0U2b185Mml2c0hlcGszTkVmSTNrQW1MSFI1endpU1RJSkE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-26T08:02:30+00:00"
     },
     {
       "t": "\"노동절 다음 화요일\" 캐나다 관세 발표에 숨은 '미묘한 의도' [이상은의 워싱턴나우]",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T07:55:17+00:00"
     },
     {
-      "t": "원·달러 환율 1384.8원에 주간 거래 마감…금통위 앞두고 1.3원 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWGs2UGxSN2FGcW9VOGpqYzl1T3NYcC1rZ1Rkd2dxZm91MU9hR1k5cm1CdEs0cUZSV0l2eFhSYVllc2RkbGtvR0lWQ2ZFcTdSMFlVOVRVa3VJME9XZkdRNVNpLThvS28?oc=5",
-      "s": "강원도민일보",
-      "d": "2026-08-26T07:47:57+00:00"
-    },
-    {
-      "t": "[증시 인사이트] 삼전·닉스 오름세·코스피 6800선 회복…곧 7천선?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaUVSQy00eV9HcTZwS3ZtN3FIU2ZxRzdLRUMwOElxWlJxRXJTcmVHNXJZWXpZVDVRbnFyc2RGZzBjVFdfLUVUS0dSbDVGUjg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T07:46:17+00:00"
-    },
-    {
-      "t": "일본은행 총재, 美 '금리 인상' 압박 속 잭슨홀 심포지엄 불참",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0UjI1QktHSHZ0ZmdrZUJaeWVIX2l3UlZtalp4MzBHLUgxZEtWUVlzLUZjb1JqVzdDTnd5SmR1Y00xZFVtUHhCTENneHg5Tnc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T07:45:53+00:00"
-    },
-    {
-      "t": "[채권-마감] 금통위 앞둔 경계심 금리 낙폭 축소…국고 3년 1.4bp↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yRGM2b0RBVGtyUm1vSElQdDJBR0txTXNibGFKM18ya2U1YlZHanlqQlI1a19xeFZEOU8xSm5nVk9qMXI4Y2JrQ3lzT29XWmJadzdtNXZHMzRZWm9jME43OGRRaGFOUmFZOE1QdWJ0aWhxUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T07:45:52+00:00"
-    },
-    {
-      "t": "골드만삭스 “중국 첨단 반도체 공급, 장비 병목에도 2035년까지 급증”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wY19tOEI5Z3ZLSEI2R2xmbWNQT3VsRmJIVjJ3WXdQbWxtcEFmQkxUeUNTb2FUMi1KbEZKM0dHcnBJbzFZcVJhX1NmR1lZa191X29YVDV2S1NyVUhGeFFyYndabnFVSURWbmc?oc=5",
-      "s": "AI타임스",
-      "d": "2026-08-26T07:45:00+00:00"
-    },
-    {
-      "t": "자사주 매입의 힘? 코스피, 이틀째 오르며 6800선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56ZURwTHpuS1ItN2VKQ09ldkZSSUVSWlZhVlhRTlZicFV5WVR6ZDJwR3ZoRXFFa0Mwamlpc1ZLODlMcXFmUlA3LXRWbXBKTG5jX1JmRlRYaWZtajM1TnpsR3hlakQ?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-26T07:41:53+00:00"
+      "t": "코스피, 자사주 매입에 방긋… 엔비디아 실적 발표 후에도 웃을까 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yZ1FHZWVvNjhhVFcwb3RFS0FEMlNtTDQwdVZNQ29lbXVkTGRGV1U1YWpKY0YtMzZKWFhZWFBYRkIxWWVsLS1MaTBMZm9pUGpDYnFJSWtqb25vUkFuZ2xoY2JnWkw1SXdf0gFuQVVfeXFMTXVkdENRdDlabkt0SkZ4ZU9XVzVwUjBTakExX1NxZ3pTZ2ZyTGI2VEJLaXYwX2FZZU4wLUdMRlFiNExCVmN1dF9RQXRYRVdmY0ctMmk0VGlYSF9ZV19yQVdNcXowMWdwWDR1aEFGYVE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-26T07:55:09+00:00"
     }
   ],
   "asof": {},
