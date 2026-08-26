@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T04:30:59+00:00",
-  "quotesAt": "2026-08-26T04:30:59+00:00",
-  "newsAt": "2026-08-26T04:30:59+00:00",
+  "fetchedAt": "2026-08-26T04:45:59+00:00",
+  "quotesAt": "2026-08-26T04:45:59+00:00",
+  "newsAt": "2026-08-26T04:45:59+00:00",
   "quotes": {
-    "kospi": 6880.47,
+    "kospi": 6883.17,
     "spx": 7677.28,
-    "nikkei": 66241.49,
+    "nikkei": 66388.75,
     "vix": 15.45,
-    "krw": 1384.99,
-    "gold": 4698.9,
-    "wti": 80.31,
-    "dxy": 98.99
+    "krw": 1385.78,
+    "gold": 4697.6,
+    "wti": 80.3,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.74,
-    "nikkei": 0.58,
-    "krw": 0.31,
-    "dxy": 0.07,
-    "gold": 1.31,
-    "wti": -2.49,
+    "kospi": 2.78,
+    "nikkei": 0.81,
+    "krw": 0.36,
+    "dxy": 0.06,
+    "gold": 1.28,
+    "wti": -2.5,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "트럼프 '관세 전면전' 재점화, 캐나다 이어 중국까지… 북미 무역 질서 격랑 예고",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94OUFZWkZ2QU5pWS13Mklfem1DOGdRajZaQm5GRlNRUGdBbkUzcnZBbnFyTWRvS1hNWnFRTmU5alJLQV81SG9yR2I5S0FoNXNWWEh4QzJEWm9PdE0?oc=5",
+      "s": "데일리연합",
+      "d": "2026-08-26T04:40:02+00:00"
+    },
+    {
+      "t": "“고정금리도 부담스럽다”...주담대 2년8개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTTNRWEtSd3JTUlJnZDN6ZTJxdW9rOVJWWkJUQXdNXzhSTEFUMGFPdFZwdjJBa1hVWG93SFVNUG5hUXh2azNmMVBRRFpINjNyR0RhcGQwNDFqTGM?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-26T04:36:46+00:00"
+    },
+    {
+      "t": "[경제읽기] 김윤덕·오세훈 2차 회동 종료…코스피는 숨고르기중",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VZVU2X2toaW5IeDNYeHhwNGpYYXh0T3VRWVFxU185c1ZmTFQ5T3UwRGJjc0tpNmlOdEpJQ1VYM0JUMXhDUlVHUTRXOFg3bHlMNndodU90ZnhodkhDWHhfbXVqQnBoX1E?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-26T04:32:00+00:00"
+    },
     {
       "t": "금통위 경계 속 유가·外人 참고…국고 3년 3.6bp↓",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15cjZiN0V3NTJ1NGp6MjZkLWNqUU1RWk52anBCMXdnaUJkdWM0WFg4bFluRjRnNngta2Y4ZnBTOVNrT3lLUkRoQnFydzZ3TU5vaHNiNGgyckQ3OWc4elI5dWk0TzZ5eDZRNEdmdldkSkU?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQkp6d2NwMFBKNFcycDdQYkdrWUdCaFhtcVV5VFFseHJwVzN1MkcweEptSFI4OFFVU0V4MFNOa1lMSUJGdVZCQnVqZ3B4YlJ2VldHNnkyZ2tKRHNPdGNHaVJGMERoTjBaaTl0ZWJwdUw?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-26T03:23:25+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zMkFxTEZhN0ZHbncxYmh2YTJFdDJ4Wm5mekNsbjFXUFNmYmMyaG82UTV1b29waENnVVNFWVF6OG40dlRDOEQwRjJfdHhBOUFob1RoeWZMc3VLb1JodS1ST0s0NWJiRWpzUTNOUGNkZzI2Mk1Ndk1hRdIBeEFVX3lxTFB0eHIwYXluckdlNTFOZmcxdkx6TnVWQlhMaWpMa2pNTlUwcVZqVDN0QmlEeGVKSXptdjdDaVI3MThZRmFVY2JaamZpdzdZUHNwVHgyRUZCaFhNQm5IN3BOZjVUOXV0aVJVZWVYUEZCdnVLaXVlWDRqcg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-26T03:21:16+00:00"
-    },
-    {
-      "t": "트럼프 맞서 캐나다 '보복 관세'‥공화당도 \"실수\"",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82cDFFQ1dxcGpsTHo2WGMzbTdDc2kta0lpQjhWMnNtSEE5TnUtM1gxZ1hlcVJoenBPVTh1ejJvallITDNZWHFWcklIUmlUZzNVY3hNQlRwV2RGbFlpSnZGcGl1SWxCZXNqN3FuaV9JVTYzQU9Rbno4ZNIBeEFVX3lxTFBUOVBuTkhIclNyWFBFMkNqNjhIZHU3UjVrd1BZMXh6UjJWd0N0eTFxYkVfV0RESVFiY2pQZzBUTWdTTDcyZURlZkVMTmY0M0VISUV2VXo4WmV2UmRDbFhQR1BnRW9sZ1R4VlcwV3k4YkRjOExKcjV5eQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-26T03:16:23+00:00"
-    },
-    {
-      "t": "캐나다, ‘미국에 최대 50% ‘달러 대 달러’ 보복 관세 부과할 것’",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZUkJTb0FjZ0h4cHREZnF1bHNjVmxaODRtcFNnNVlKS2NDX25ZYmtvSldIT3QwTFZKd2ZORlc1NTNzczBINUxyTnhtemxVQUd0aHk4aEhyVkVtekxt0gFiQVVfeXFMUERwbVFleExWUlZTYTR6NWhoNE9aTTJBUHg0VUlhQ2xIa2ZrR19LOXVhVVMxRlo4YmxtZDR1MHdXM2xPWmJsRmNzY3YzOTBxZ0xMWVBuQmtCc01WcGtVQVBybFE?oc=5",
-      "s": "BBC",
-      "d": "2026-08-26T03:08:39+00:00"
     }
   ],
   "asof": {},
