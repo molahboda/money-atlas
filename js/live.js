@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T04:15:59+00:00",
-  "quotesAt": "2026-08-26T04:15:59+00:00",
-  "newsAt": "2026-08-26T04:15:59+00:00",
+  "fetchedAt": "2026-08-26T04:30:59+00:00",
+  "quotesAt": "2026-08-26T04:30:59+00:00",
+  "newsAt": "2026-08-26T04:30:59+00:00",
   "quotes": {
-    "kospi": 6877.72,
+    "kospi": 6880.47,
     "spx": 7677.28,
-    "nikkei": 66260.38,
+    "nikkei": 66241.49,
     "vix": 15.45,
-    "krw": 1385.18,
-    "gold": 4699.6,
-    "wti": 80.32,
-    "dxy": 98.98
+    "krw": 1384.99,
+    "gold": 4698.9,
+    "wti": 80.31,
+    "dxy": 98.99
   },
   "daily": {
     "spx": 0.04,
-    "kospi": 2.7,
-    "nikkei": 0.61,
-    "krw": 0.32,
-    "dxy": 0.06,
-    "gold": 1.33,
-    "wti": -2.48,
+    "kospi": 2.74,
+    "nikkei": 0.58,
+    "krw": 0.31,
+    "dxy": 0.07,
+    "gold": 1.31,
+    "wti": -2.49,
     "vix": -2.52
   },
   "news": [
+    {
+      "t": "금통위 경계 속 유가·外人 참고…국고 3년 3.6bp↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15cjZiN0V3NTJ1NGp6MjZkLWNqUU1RWk52anBCMXdnaUJkdWM0WFg4bFluRjRnNngta2Y4ZnBTOVNrT3lLUkRoQnFydzZ3TU5vaHNiNGgyckQ3OWc4elI5dWk0TzZ5eDZRNEdmdldkSkU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-26T04:20:17+00:00"
+    },
     {
       "t": "코스피 6,875.46 코스닥 827.20",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTXppajVLY0ZPVVF6MVgwRmRLZU9wNnVhVkhqMm9YemdONWhyRnJ2aTA2cTI0UFdTUXQ0VG55WDREa2xFcXJPTk5oWGNDN2NQTThvTjRVdVdJbk0?oc=5",
@@ -71,12 +77,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82cDFFQ1dxcGpsTHo2WGMzbTdDc2kta0lpQjhWMnNtSEE5TnUtM1gxZ1hlcVJoenBPVTh1ejJvallITDNZWHFWcklIUmlUZzNVY3hNQlRwV2RGbFlpSnZGcGl1SWxCZXNqN3FuaV9JVTYzQU9Rbno4ZNIBeEFVX3lxTFBUOVBuTkhIclNyWFBFMkNqNjhIZHU3UjVrd1BZMXh6UjJWd0N0eTFxYkVfV0RESVFiY2pQZzBUTWdTTDcyZURlZkVMTmY0M0VISUV2VXo4WmV2UmRDbFhQR1BnRW9sZ1R4VlcwV3k4YkRjOExKcjV5eQ?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-08-26T03:16:23+00:00"
-    },
-    {
-      "t": "노무라證 \"8월 금통위서 25bp 인상 확률 최고…비둘기파적 전환 여지 적어\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQmd0RTAta0lNM1ByakxVRVFhWVlOZm9FWGJXNHpQVWo4N01ETlNoSGp3OUxOeW9vVE5zSTZwNW54Q01jSTY5ZWNHQVlxa1lOcVhMcjRyNkliZ0JISG5lUW1HbmhIY2hwQ0RzXzJNaFMxdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T03:14:55+00:00"
     },
     {
       "t": "캐나다, ‘미국에 최대 50% ‘달러 대 달러’ 보복 관세 부과할 것’",
