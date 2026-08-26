@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T23:15:59+00:00",
-  "quotesAt": "2026-08-26T23:15:59+00:00",
-  "newsAt": "2026-08-26T23:15:59+00:00",
+  "fetchedAt": "2026-08-26T23:30:59+00:00",
+  "quotesAt": "2026-08-26T23:30:59+00:00",
+  "newsAt": "2026-08-26T23:30:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1385.72,
-    "gold": 4663.9,
-    "wti": 81.81,
+    "krw": 1385.8,
+    "gold": 4674.8,
+    "wti": 81.85,
     "dxy": 99.13
   },
   "daily": {
@@ -19,22 +19,46 @@ window.LIVE_DATA = {
     "nikkei": 0.62,
     "krw": 0.31,
     "dxy": 0.22,
-    "gold": 0.56,
-    "wti": -0.67,
+    "gold": 0.79,
+    "wti": -0.62,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "[브라질증시] 17만6000선 돌파 후 상승 탄력 둔화되며 강보합 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1paU53VGV6enRNSXdqNERuNThhZFgzUm1JVUpsV09rQTVMQXNQYXlBYUtuVWdycGdFQWhtT0Jpa2lId2U3NU5tZ0NNWl84blZxOExBTWp1OGJ2N04y?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T23:13:00+00:00"
+      "t": "민형배 시장, 반도체 기반 ‘지역 혁신 모델’ 제시",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtOTJHb3hPNkhCbUdHQVhZMEpRT3hQTXlQSUlpVzVaVG9GajJUbnNNVURLRldVSlZ5N0g5Z0oyOFFaQTJucHBVWHRycDNQOWpyMV82MFd3Smg1NFpUc21tMkNPdWF2Mm5wX0FSRl9yZw?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-26T23:26:56+00:00"
     },
     {
-      "t": "[마켓뷰] 엔비디아 역대급 실적·금통위…코스피 향배 주목",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQ2E3M0llN0ZweHdXdmJ1aURPcFNFU19LWkcxRkJPRUEtMlRRSm9MNFcySW1iWG9OSFBibUpRSkR2VmJQdVNyUVkzN3Baalk?oc=5",
+      "t": "넷마블 맞고 pc AI 시대 디자인 패턴: 역사, 현황 및 미래",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1FmSDJBU1hfdFhnUjdSUDMtd1h3c2VQZ1lBMExoX1M5XzNWVFVxT2VUN3EwRU4zekd5MWJWUndrdTlnbEQ3M2l1VVpwWFFyakMxay04c3o0UQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-26T23:23:30+00:00"
+    },
+    {
+      "t": "韓銀, 오늘 금통위... 두 달 연속 금리 인상 땐 3%로 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemNQUHNXVjUwSlBmRHZqekdDSTFiRFh0WFlTc04xWWp1UXMwcUNvWC1vQk9FYUR6Z1B2YzA0aF9MdnZaMU9vRmQtbEptTENtWFVFQXNPZUxIMEZpSzJRUmxCeW12a1pXQ08tbThwVXN6U2xGa3pZOFZ1akJkYUt2QnZDbkJGQdIBmgFBVV95cUxQMnczc1BDQ0dDUHJjT1pmblIyM3lBZ3hyd2tMWUZ2NWhzdnFGdUZkYml5aXpLLWFzN2FfTXNkWjRzYS1uYWpTMDhTY0hkMjZ4OEdHeV91S0djNEpSSlNNcjZQWDJWY1pWcVY4VzJ2eVRwVWRKZzhUN090M1JpNDdNMXUyelRfY3RWWThha3J4Z0VvN1NOZE94bEtn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-26T23:17:00+00:00"
+    },
+    {
+      "t": "한투증권 \"코스닥 의미 있는 반등에는 금리 하락이 필요 조건\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpxUWZSMm9FLWZDUllHQ0NDX3NWb3laYjFrVktfd2laMThxWkpjWnRhSjJVbnBiQlJSUlZXdy1hTnJWem9hQ0ZGMUYxSGVOczNrY255dnhmMDTSAWBBVV95cUxORUFaSGNNcXZSTjZzMW9TVV9VQ1lJbFoyMXFnUTNaWEsxV0s2RkZMMFdzLXBsQW94RWtMLTdiS3Fra2QzdDdDWThFelliSkp5NXduTU40eE9WZHBsYUtXWng?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-26T23:16:59+00:00"
+    },
+    {
+      "t": "엔비디아 '어닝 서프라이즈'…국내 증시 상승 출발 전망[굿모닝 증시]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ERE1XSlhiMVlwbUZPZTNvODZMWVdrWWJkYk5UeElIaU1OdjJqLTk3Z3pOVnhMbmFwTEVibFJuenBXR3hwYl8wS1YyUkt4eHc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-26T23:07:00+00:00"
+      "d": "2026-08-26T23:11:49+00:00"
+    },
+    {
+      "t": "월가 \"美 7월 PCE에도 9월 인상론은 신중…연내 인상 가능성은 여전\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE10RnFTa0ZKUDVYNGstZVoyUXJ1M0hEcVhfS1pOb01tall6M3RsMGhoODN4YjFrZVFYRXNQUDNoQnBsRndUZk9SeS1GanJERkxYYS13R0RyWkVyYVN0LWVEZTIyRi1nbnhQQnZIcjVpT1VxUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-26T23:11:46+00:00"
     },
     {
       "t": "[이슈체크] '통화정책 좌표' 美잭슨홀 개막…워시 연준의장 첫 시험대",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-26T23:03:06+00:00"
     },
     {
-      "t": "10월까지는 달러 약세...지금 투자하려면 여기에",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5X3M5Qi1rMFVtazdHdmxaS0FDWlNoQlhuN3BaU1MwbklDbFBxU00xSjdud3hOWFZLOHVrSVc3RkFfaWtkY3JRb0pRbE9rTDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T23:01:35+00:00"
-    },
-    {
       "t": "[환율] 원-달러 1,386.00원 … 0.18%↑",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUU5mLUFSQTlOeEFpOV9JVGFKSF9ZLVd4T3NTUGFyenUyaEVPREpHdW1zQ3lRa2YtNGdvYlpEZkUxOV9JWElKcVlBU193QXhlS203WmhyLWRqWGxoM0U3VUFn?oc=5",
       "s": "버핏연구소",
       "d": "2026-08-26T23:00:01+00:00"
-    },
-    {
-      "t": "블랙야크아이앤씨, 상반기 최대 실적…반도체 팹 늘자 안전용품도 ‘훨훨’",
-      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjhNMG1LbDlnTkZsZlpxcXJVZHJ4bjBPb0k4eG1MTm5uYXJXQzRNazZINzFpdURaRF9ZdWZCWUVJWGNPamRTNEdmUGI4QTJ0Y3lnbnptaDN5Z3k1eUhEQjJHZm9wRE04YlVCOUw3ZFN6MlJRemdja2FjMWQ5aDk5akpLTWVmckcxVjFNODBobHg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-26T23:00:00+00:00"
-    },
-    {
-      "t": "한은, 8월 금리 동결 유력 속에...‘인상 속도 조절’ 무게",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6dGRXS2VES1p5VnpPRU9vZmQ1T3lmYnZkaWl4U3hYaHU4eFgxNi1tekpHYmVXb2x5Rks4Wng2NEVsaGtwOF9keFMyM2htXzdzMnp6TUpDeFpPQXFZclNTeERGS1JlS0E?oc=5",
-      "s": "청년일보",
-      "d": "2026-08-26T23:00:00+00:00"
-    },
-    {
-      "t": "BCA리서치 \"이란전쟁, 장기적으로 디플레이션 불러올 것\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdkF6YjhJUWRvdmpQQVo5WVBROFFRbzhFLTRLWnpHcFlDZmEtdEtHTUdEVU91TTlQdDFqUFMyeW02bTBhYWtiOERaOE84ZEd5enpsMC1sZWlQekxFelNqWm5KR2hhQi1qYWdPenZmV09uZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T22:59:18+00:00"
     }
   ],
   "asof": {},
