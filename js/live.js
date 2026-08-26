@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T14:30:59+00:00",
-  "quotesAt": "2026-08-26T14:30:59+00:00",
-  "newsAt": "2026-08-26T14:30:59+00:00",
+  "fetchedAt": "2026-08-26T14:45:59+00:00",
+  "quotesAt": "2026-08-26T14:45:59+00:00",
+  "newsAt": "2026-08-26T14:45:59+00:00",
   "quotes": {
     "kospi": 6808.21,
-    "spx": 7669.75,
+    "spx": 7669.59,
     "nikkei": 66262.16,
-    "vix": 15.47,
-    "krw": 1386.52,
-    "gold": 4680.3,
-    "wti": 81.64,
+    "vix": 15.52,
+    "krw": 1386.12,
+    "gold": 4673.7,
+    "wti": 81.7,
     "dxy": 99.19
   },
   "daily": {
     "spx": 0.22,
     "kospi": 1.66,
     "nikkei": 0.62,
-    "krw": 0.42,
+    "krw": 0.39,
     "dxy": 0.27,
-    "gold": 0.91,
-    "wti": -0.87,
-    "vix": 0.13
+    "gold": 0.77,
+    "wti": -0.8,
+    "vix": 0.45
   },
   "news": [
     {
@@ -43,10 +43,22 @@ window.LIVE_DATA = {
       "d": "2026-08-26T13:41:37+00:00"
     },
     {
+      "t": "李, 이재용과 비공개 만찬 회동 반도체 팹 등 현안 논의한 듯",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41b19sMGFLcUVsMmZ1aUtVRXNaQ09NLUlvSGhuSWZHWVo0dHlIODJvczZMQWNEZnM1Ujl6Q1NEOE9iN080WVJ3cnllbW1vOWczV250RmtaLXM0QQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-26T13:39:15+00:00"
+    },
+    {
       "t": "우즈베키스탄 중앙은행, 인플레 둔화에 금리 인하 시사 - 블룸버그",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01YzhfbHNWcUxYZkM4c255cmYzUVQ1ZXZSeGIyZmRDLW9WdDRSTWhXWkQybVY3OUQ1Y3JnSnY2alEzSUdjak9FWncwWFg3Q3l0MktOY0lfSU9KTUZuSFJrX2JiN0ZqWDVRSFZnY2lB?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-26T13:38:00+00:00"
+    },
+    {
+      "t": "미국 7월 물가지수 상승률 3.7%…금리 인하 부담 작용하나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SeE1qczBjT2RtZkFON1lGWFVfeDlhV2tMRlZKaUJUMFkySFczcnp6aDlPYTlGY240c1lZd3Brb2VfaDl2SEszNmN5ekViLWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-26T13:35:28+00:00"
     },
     {
       "t": "美 7월 물가 예상 부합 속 소비 정체…금리 동결에 무게｜Global Money Club",
@@ -55,34 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-26T13:27:34+00:00"
     },
     {
+      "t": "美 7월 PCE 물가 전년대비 3.7%↑‥전망치 소폭 상회",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14Uno4QUl6cXYwbTQ1U0lZcDRUeWVwNkxuMjlsZG9HYlRfOEVuVFJyU203Qm1BQmQ1NHJ4V2RCMDN5bDBoZ3dzei1Ja3RhMUFDNGd0cHFjZGRNQmFoWXhsc3NlaHUzQUwtak9MSnoxYWI5OTBV0gF0QVVfeXFMUFpJZW9XT29vU2tmSktUbFA2c29KU0pyeWVseERtLXZJM05VeFNvSUZ5bnlkT2RVMS1yOEdfc29DME42Q1hJYVZtTTVYRFZxcGhvV2xqdUp1RmtJQ0lqVGJvem95cDZ2QmRadDAtTVhkWUY0ZUo?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-26T13:25:22+00:00"
+    },
+    {
       "t": "미국 7월 PCE 물가 전년대비 3.7% 상승… 전망치 상회 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZV9qX1ZXWGE5ek9pSWN6MlRBcXdjQzIwUmpXeDBQMlhuM24tU3VsbTkyNklJTFZHVjZnVG5abV9PMVVHUU50eXd0OW40cm5fUmpXUmt0cm1TSWt1OGFCeW1DdWFmNzIydHpyWTBhaFZTSTFlZ3VBV0MwUlhXOWdSV3NZRjMtRmZlOWpoa1Z1TmN4UXNUTXdENzM4WDJzZ9IBsgFBVV95cUxPTnlLUnE0T1ZPandFRTZzT01mLXNKbV9CbzhNU0hOOGVkTjRBYjcxemdKbHl2T2Nia0V5QVI0bGFQa0pQT2Jib2l4UzcxWElSc1ZNeVh0Y1FGN01XTHJTZTJ2anZGMHEzTjJEcXBaNm5yODB5ZmUtcy1pVmt2UlpxN2V2UENWbTJuZU51VUh1QzBRV0h1anI4MjhhMnlTWnpZRlB1UjYycU5fdDQ5bkhGQllB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-26T13:09:00+00:00"
     },
     {
-      "t": "美 7월 근원 PCE 예상 부합…헤드라인 물가·개인소득은 강세(종합)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydjFXd3dTc0k2MDAtNXozT1lOM3NzcFdjbjJLQU1iZ3huTU5xSVBlUk5KWFg2VElBbnlWOTZ1aXdhWnFFai0weGNleDRZVmdrODJaSmxMYTVuWnozNFdrMTRBeG82dDBqQllQYzBCRndZdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T13:08:51+00:00"
-    },
-    {
-      "t": "캐나다 증시, 2027년 최고치 앞두고 잠시 하락 전망",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PZ0lMT0JvSlo5Q01QX3VQZ3VPQ1NOV2pia1JSdkJJcWIxOTUzSVI0TzRndmhFMFByVVdJNUNmOGI3WXhBTTM3alA4dFM2R0tKWVZyTmdXN1pCdGNyUGlnWjFCZGRPazlUQmR5RFUwVUw1RFhGZ1kw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-26T13:06:00+00:00"
-    },
-    {
-      "t": "미국 7월 PCE 물가지수 전년대비 3.7%↑…전망치 소폭 상회 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNlN3Z0lidHMyRjVvM2M4MzluU18yX1VUTmYwQ3BmNk92SGJtUTJ5WlV2NFBVQXUtQkFQMEpPTFJZa2dVT0k5VEY0OF91Zlo5amV2bEIwTFZuZVVTelhIRkFpMmY0WTVG0gFuQVVfeXFMTWwxRmdTUmp5dW9Ib3VjNnhucjE0alRPM2N1S1V6TVFhUHh5eEVrV0hkNmtha1FDNnlVYXJYUm0wUGp4b3ZUWkhSLUptQ3JSZ0ozMXFUc3FhNTY4V01YRUo2R2l4VFViNFBwRUxNTkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-26T13:05:14+00:00"
-    },
-    {
-      "t": "美 7월 PCE 3.7%로 예상 상회…서비스 물가가 발목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43Nm9vcGxaTHhjVUZKNnRCaUpmcTV2aE5nX3BSX09QZmM1WkdWTVo0bk8xdnIwZ055Y19CTG0tMmpCdi1WM1dqaE1NLWdkSTNuUl9ocWNpbmczZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-26T13:02:33+00:00"
+      "t": "[포토뉴스]‘속 비치는’ 웨이퍼 등장…도약하는 K반도체",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mM0xFanpCX0JSTy10ejJlN3NBWFF0cnRQYm01bzYxd3B1NWRzOUJFUVdrNG0yZW83NWhaaFR0VmF0bUw0OHBzZzNpNE95SVh0Mjd5VFZpYlB2anRWRGFV0gFfQVVfeXFMTm54Y2daN1BYcG1QWk1mOWl5S21oSlpNbWVVaEN3WnpoZXF1MUdtV0JDalF1cDMxSWFOWmdDZjl6dXZIYkxUbnAzQUlxOFpFeGlSd2FKLWZZWU1iX1BMYnc?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-26T13:09:00+00:00"
     }
   ],
   "asof": {},
