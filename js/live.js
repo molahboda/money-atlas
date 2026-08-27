@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T11:15:59+00:00",
-  "quotesAt": "2026-08-27T11:15:59+00:00",
-  "newsAt": "2026-08-27T11:15:59+00:00",
+  "fetchedAt": "2026-08-27T11:30:59+00:00",
+  "quotesAt": "2026-08-27T11:30:59+00:00",
+  "newsAt": "2026-08-27T11:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.92,
-    "krw": 1380.58,
-    "gold": 4642.1,
-    "wti": 82.39,
-    "dxy": 99.25
+    "vix": 14.88,
+    "krw": 1380.61,
+    "gold": 4647.5,
+    "wti": 82.31,
+    "dxy": 99.23
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.07,
-    "dxy": 0.08,
-    "gold": 0.95,
-    "wti": 0.19,
-    "vix": -1.91
+    "krw": -0.06,
+    "dxy": 0.06,
+    "gold": 1.07,
+    "wti": 0.1,
+    "vix": -2.17
   },
   "news": [
+    {
+      "t": "삼전닉스 성공의 유전자… 팔만대장경에서 반도체까지",
+      "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZXlORWlrd0Y1QTByQmRKcEZoaVM4Mkw1cGtSc2t5VmRUeEJINXQ2cWZVNzkxaWZ6S0xSa21IRWJMUnc0VzFMZzV2c21lWDUwNlJrV0huMm1WUUdGSmdFTVFuVFJra0hra2gxU3hPd05sWnpJS3RRS25VWldGZmI3eGwtRDFqb1pZVDB1QlA2cWY2a0RRMC1lMWJwMTc5bkpHeTI3Qjc1M2RqQXdLMkgzYUpDNk1IU2d6T003YlVETEo3MGFMdUxhbUpvdmQ2Wk1GMjhkVFlxaEZ5WVNuMS1BUDFONnFTYkVXRjRldE16VkF1Sk1F?oc=5",
+      "s": "gonggam.korea.kr",
+      "d": "2026-08-27T11:21:33+00:00"
+    },
     {
       "t": "백악관, 반도체 신규 관세 부과 검토 중 - 폴리티코",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xVFp6SmRPOVdlZUFUYVpBWFl4RUE4eVBHSWtXODVJOXJhQXNHeWNtYnVLaF9BckVQaXpDRGRiMnQxc2diaDNMRUZjekpiNlA3X0VfWTM0Nng5SzU1Q0EyUmRhU1N0dk1fVTBpc2k0MDA?oc=5",
@@ -37,16 +43,28 @@ window.LIVE_DATA = {
       "d": "2026-08-27T10:49:00+00:00"
     },
     {
-      "t": "연내 두차례 더 인상? 한은 8월 기준금리 인상 後 [톺아보기+]",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSVBNNVlYTTZlOWdFd25PN1hhRVJxM2YwTi0zQk9IR0ttNU1aNVlfSDh5RWJCbXVvTlhkYkNNWTlXdjBoUi0zQnd1dlBaeVl0Nm1Hcjl4cFllVndCQVpRcTc4WDdvUnkwLTBHZHFB?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-08-27T10:44:58+00:00"
+      "t": "한은, 기준금리 3%로 올려…물가 압박에 이례적 ‘두달 연속 인상’",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrcUtsNnU0T3Y3eEl2TGdaYlNNaUdNNGotemR1MHVSdEFhTHp0WEJrWWdSdlFFeHBZdWJMMERvcjh1SmxtYndYTEk5V1pLMXV4aUtGQnItUjlBcmFaZHBWMmptdUU0RFBBeEYxVkpIbTBVdw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T10:44:00+00:00"
+    },
+    {
+      "t": "신현송 “정부 확장재정이 성장 올리는 투자면 금리인상과 엇박자 아냐”",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VX0hfX2c2aUNvZW9fZjhVeGJTU0J5a3l0SW9KSHd2RXo2bVozTWRzYVlMbjdHV2JaZWU4NThEeW5UVWw2ZUd5TFVESGNTbkdMRzNUM0FIS0J5aEpQazBuSjJzZFItSmthcXRxeDZ3d0Q5Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T10:39:00+00:00"
     },
     {
       "t": "‘호미론’ 신현송 물가 선제대응…주담대 금리 상단 8% ‘공포’",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2RXMW9ia3U5X3gzd0poajBIM1M2Z2l4dUJmczAtZWpnQjZ1TTU4X2JCN3Q3QWdVemxNeTN4SHBENk1UZ2FQRmZFTnpzV3NkeGZzcVhvMmh1djd1bzZyR2VqdzI4enhoLXZGVnhTSUxmSUZPOVA1X1lOQWU0WWlLR1l6M2RnSnh3aHFB?oc=5",
       "s": "국제신문",
       "d": "2026-08-27T10:39:00+00:00"
+    },
+    {
+      "t": "관례 벗어난 백투백 금리 인상…“가래 대신 호미로 선제 대응”",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZk5uZjZIV1dZb21uNjNtQWk2X3Z1b0VPaUpJT0lRSXU3OUFqMGRaRDJaZ1F2bDVhYkNGMnNiUkl1M2g2NC1KWEtYTGt5NXRfbUFEb2tkd215SnIxWVpiVml6VzRRWlhFd29ROE5DdXlpQQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T10:37:00+00:00"
     },
     {
       "t": "한국은행 기준금리 또 올렸다… 물가 잡으려다 ‘이자 부담’",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzSzkyeG9fNUVZbUNPd0JnZHpiTXV2SkxseW1MQjkwN202cVZLNEZQN1JaM29DZF91U3FQSVhWdk84MEFUWEk3OHBfLVlGUjBwV1FqSkdBdmd3X2x3Tm54SlNmWjhCOHNoQklCbTNqT3U?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T10:28:10+00:00"
-    },
-    {
-      "t": "한은, 2회 연속 금리 인상 ‘연 3% 시대’… 증권업계 “단기 충격 속 업종별 차별화 심화 전망” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWG5CTmcwUGIwbTVkcm00VFdIVW9KTVBjOWlfekFOM21pTGFnY0VZclFTSlRNM0UySUdBYkVJbXcxYi0tNnI1R1Rja2pLR2JZekpxa0RxeEpBT0E1RnNUMEVJcFlCeWllem1jSkx0ZFNLa0pKWmw3VHNBTHZCT3ZjVVJObVhRYlFR0gGcAUFVX3lxTE1vbUtKTzFicDV6VnpkWlFad0RrN2FNOXBwRW9ocVA2b2pTNkZ5MkxHbFJGX2U3azJLczRQNVdfZzlhMll3WTlkbU5HTzRSOVYxcWdYU05uSmloRXR2WjlRSERnOENJMmhpeHBLZzBjUjhqYWRpel96VVFzdU9jdzBVXzBGdmpJVEJlQlY0aFBxS3pPdDlVQkU4Y2Y5eQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T10:16:00+00:00"
-    },
-    {
-      "t": "서울 중저가·외곽 아파트값 '들썩'...금리는 변수",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pUEptak9pYS1Zb0p0cDl1NW9IbnRUMmk3cXh2YVJYWWR6Uk9CeF9Bek9ucEhLYjNIMXQxb3hNd0V4Yl96LUZWNEVlS1N1YVd0eUFQUVRkT2hJWlVueXc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T10:15:00+00:00"
-    },
-    {
-      "t": "부산 반도체 기업 ‘리노공업’ 한 달 넘게 파업…성과금 놓고 이견 팽팽",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUkRMUmV4dF85NXpSSDNJbWpXY0lEd3l1NV9sNTBlSUVBN0lEVXhJWnpndDNtQm15eEpGR19TT2RZZWc2Szh3WGExdzUtcmp0dk5USDhleU93Y1pvYTc0aWQ4VjQyVGZYMk1xZFY0SXoxdHdfaE1ybWo5bWdBNnBxX2R4SUpFZw?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-27T10:10:00+00:00"
     }
   ],
   "asof": {},
