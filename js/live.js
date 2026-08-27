@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T13:15:59+00:00",
-  "quotesAt": "2026-08-27T13:15:59+00:00",
-  "newsAt": "2026-08-27T13:15:59+00:00",
+  "fetchedAt": "2026-08-27T13:30:59+00:00",
+  "quotesAt": "2026-08-27T13:30:59+00:00",
+  "newsAt": "2026-08-27T13:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7675.7,
+    "spx": 7706.7,
     "nikkei": 66131.98,
-    "vix": 15.07,
-    "krw": 1382.8,
-    "gold": 4642.6,
-    "wti": 82.52,
-    "dxy": 99.18
+    "vix": 15.03,
+    "krw": 1383.38,
+    "gold": 4640.5,
+    "wti": 82.58,
+    "dxy": 99.13
   },
   "daily": {
-    "spx": 0.3,
+    "spx": 0.38,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.09,
-    "dxy": 0.01,
-    "gold": 0.97,
-    "wti": 0.35,
-    "vix": -0.92
+    "krw": 0.14,
+    "dxy": -0.04,
+    "gold": 0.92,
+    "wti": 0.43,
+    "vix": -1.18
   },
   "news": [
     {
@@ -41,12 +41,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOEFSNVVCX1RtaU1RVWs0TkI4V0ZKVWFmVWtxRkY0T3RGRlNfcXZjVUJDTGlVeWlnWkdsY0lMOUY1eGlpX2ZxRmRQRVRES1VhWHczaE1iQ0FETjQ?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-27T12:46:00+00:00"
-    },
-    {
-      "t": "이례적 ‘백투백’ 금리 인상...한은이 노리는 것은",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QUUdFd0tiSW5rSElDVWducFo5Z0YwRnZyY21ORXZHaE9jcVViRHVraEo4ZF9OOEdGSTk3aHZPRGo3Tm9RRURIYmYxV1FQTW43aEVVRzFNaEY?oc=5",
-      "s": "뷰어스",
-      "d": "2026-08-27T12:37:01+00:00"
     },
     {
       "t": "\"미 트럼프 행정부, 반도체 대상 고강도 관세 검토\"",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MQmVIYjc3QXplVHhOTUo2bUJHa051NEY3bWRTTTF5NUhXN0xaQkpDS0REdThXdG94WjdmVTlYdzF1RVc0RUxldElqQ29NRHc?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T12:15:01+00:00"
+    },
+    {
+      "t": "\"美 트럼프 행정부, 반도체에 '고강도 관세' 검토중\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kb0d6dl9XeHpPZlZlTWZoQ09ZYmV1Vm9TR0p5TEJwelExTE5jWjVIZ1BnX1NWTVQxb2g4Z2l1c3NoVGdhYVVqZkR4TGw2U3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T12:14:39+00:00"
     }
   ],
   "asof": {},
