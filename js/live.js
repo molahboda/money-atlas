@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T06:15:59+00:00",
-  "quotesAt": "2026-08-27T06:15:59+00:00",
-  "newsAt": "2026-08-27T06:15:59+00:00",
+  "fetchedAt": "2026-08-27T06:30:59+00:00",
+  "quotesAt": "2026-08-27T06:30:59+00:00",
+  "newsAt": "2026-08-27T06:30:59+00:00",
   "quotes": {
-    "kospi": 6877.23,
+    "kospi": 6873.2,
     "spx": 7675.7,
-    "nikkei": 66121.11,
+    "nikkei": 66083.15,
     "vix": 15.21,
-    "krw": 1380.44,
-    "gold": 4659.2,
+    "krw": 1380.25,
+    "gold": 4661,
     "wti": 81.42,
     "dxy": 99.16
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 1.99,
-    "nikkei": -0.21,
-    "krw": -0.08,
-    "dxy": -0.01,
-    "gold": 1.33,
+    "kospi": 1.93,
+    "nikkei": -0.27,
+    "krw": -0.09,
+    "dxy": -0.02,
+    "gold": 1.37,
     "wti": -0.99,
     "vix": -1.55
   },
   "news": [
     {
+      "t": "한은 '연속 인상'에도 채권시장 안도…\"최종금리 3.25% 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jbHFjMHhCaTUwSXpra1dueGVlWHJGaG41cnJHd3ZDZ2RSQ0h4TW9UQ3llWXFOUWZxUHFnUk1fcm00Wnl5N3V4UFhZRzA5UE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T06:24:08+00:00"
+    },
+    {
+      "t": "日구마모토 강진 한 달…반도체 신속복구 속 관광 ’직격타’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YaXZBRVl1SVoyUzd4Z25lN2xvU0k2alpFZVNoZlRROUxTVVpNOWJYVkdlZTYwQ1B2bVlvX2U1UHB5YVUtQnZNQnZqcXRRQ2F1Xzd0Q0hvcVNYSWs4S2wwMDl2WV9rZWc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T06:16:00+00:00"
+    },
+    {
       "t": "물가 못 따라가는 월급…근로자 실질임금 석 달 연속 감소",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rYWh3YXlUWHJUWUE5R3BXeEhJSnhPay13RVM0d1hXZmpsNnBpLW14WXJKVVdzb28tWVNEQkNobFpsOTI2ajlybWNWdmk0SzM1dEtZem9PeTZISGM?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-27T06:08:00+00:00"
+    },
+    {
+      "t": "기준금리 3% 시대…벼랑 끝 몰린 차주들",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQ092NldySkE4d1hyWXBtaWpieE10OHZNS29ybWdtb1lIWWRSdlFNWlVnWk5xR2F3Z2NYSjhGcm8zZzVlVmJvNDBLNjBRSnI0dE9BT09ybzVvX2h2N1h2Wg?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-08-27T06:07:09+00:00"
+    },
+    {
+      "t": "“캐나다를 중국 취급”… 트럼프 車관세 두 배 인상에 캐나다 업계 반발 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW0ya1JTeGZKU1dKajhkNUJTNmxnai1oZVYtZ2VXUlpNR1Z2LVVJb0lpQWlPNS1tMmJQbEtFMVpOSVBBSHc0ZV90dUZBaUlnYVN4cURiQ1dMNGExaUVnd2RtakFFR3FfS1dSS2E5OHZoNDdlalpqdk85SjFfWU9aa3BFT1NCYVpDVzIyZldwSEUyWjVXU1RXYkxmR1Fsd9IBsgFBVV95cUxOWUxOVjYzeVpVSlRGOGFZQ3R4RmhqNG5GRlJBMzBvc3JZMTJLUm5nS2xBNWhCdVBKbXZqcGMxOGNSVFlId3dtNjdkV01yNXJUbk02M3prWWdlOUI2WG9iSGtoR3YxalJXYmtUYUZkTy11UHhUa3Jab3VnRWR0TjRGbnVMX3hxQmhaVjlmeHBDaEUyWGJyQVROWnBLU2dqSEtYVXEzaHdoejQ5Q3o3WXlSRFhB?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-27T06:03:00+00:00"
     },
     {
       "t": "한은 \"한국이 대만보다 수요측 물가 압력 나타날 경로 많아\"(상보)",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jemhKUTdXMHhjazRsNi1TMTBlU3BGQ0xPVW9ibEhzblVTVXpPWk9FZUxGcmtYeVhPVlJIb3h3YkpBTlk4RTdIM2xtQ1EyOEFnSGNXUnU0LVJXMjZ2QWduVk5jaXRtSDZVSXfSAW9BVV95cUxPS2F0ckJKSGtkNEYtaVM1Z3ZWZnVQa3liZWhGOEdBZzRicHYyWTBoY084cEhZVk56S2F3UGxUcHhiMFJxNEQyZ0FXdGdCbFZ3M1h1REF3cmpLTVpycWZGaGppdVQwRFF0TWFLc1ZHUkU?oc=5",
       "s": "머니투데이",
       "d": "2026-08-27T05:40:00+00:00"
-    },
-    {
-      "t": "한은 \"반도체 확장 국면, 적어도 내년 상반기까지 지속 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrYW9oWnc3c0dqMDJ4UjVNZjVMb3NFdjhEQkxMLVhna0dGTVcxSU1yNUpaYVEzTkFNdlRFYUN4eURYeVBISzh4eXNjVnJDRVFZYnJ4b1pzWlFpd2p2bkRaZzNqTU03ZEQ3ZkJWV1FGRC3SAXRBVV95cUxPeTdvRDczc1luUGR2eUc4NEFvV09YcnJYSkZ4WHozSW16dUFrWWlmLTFFMi1Bd3JFQVpscjc0RFo5a1lua0xkV20wQkxiWVBRM2JObHlqM2pBRlBRbjJxME42YWxCUV83bXA2ZWNvVF9rMXFJRw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T05:29:55+00:00"
-    },
-    {
-      "t": "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZU1sd0ZPR1BOelJjc1U2X3JWWmozWWp0NVhtWGcwZXg4VDBiQTBDc0x5QnB5cmwxUjlhZTRrX1c4SWVma3g0WTJURXVJMjhvYnVkZkpzMV9HUm9fczdUaGZlSFNWMW9qT2ZEWW5kQmw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T05:27:14+00:00"
-    },
-    {
-      "t": "신현송 \"환율 아직 높아…통화정책 선제적 대응에 추가 강세 여지\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuU0N1QW5IejNWcUJPalMycmtBS2tSc2VjWFlfYVdIVjQzeUg3Mnd2YWI3c1cxSnZIV3FRa1VQVEJ0dUtvRkhvV3Z4SExFNWhqVEcyM0VhRl9EU19kR0RRM3BOTmxxYXJqMUpEb1ZJVG4?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T05:20:29+00:00"
-    },
-    {
-      "t": "한은, 금리 3%로 또 올렸다…물가 상승세 확산 전 선제대응",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uVzN0YnJINldzQXpUSlhXbXItOEgxazhPdFc1c3JuQWhTM0Q2N1YzSl9Yb2V6WGt1WHl3MEV4RDdzbDNOcG1LeWl3YUdVQQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-27T05:17:47+00:00"
     }
   ],
   "asof": {},
