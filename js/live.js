@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T16:45:59+00:00",
-  "quotesAt": "2026-08-27T16:45:59+00:00",
-  "newsAt": "2026-08-27T16:45:59+00:00",
+  "fetchedAt": "2026-08-27T17:00:59+00:00",
+  "quotesAt": "2026-08-27T17:00:59+00:00",
+  "newsAt": "2026-08-27T17:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7736.97,
+    "spx": 7737.88,
     "nikkei": 66131.98,
-    "vix": 14.45,
-    "krw": 1381.22,
-    "gold": 4662.4,
-    "wti": 82.75,
-    "dxy": 99.11
+    "vix": 14.49,
+    "krw": 1381.16,
+    "gold": 4666.4,
+    "wti": 82.85,
+    "dxy": 99.12
   },
   "daily": {
-    "spx": 0.78,
+    "spx": 0.79,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.02,
-    "dxy": -0.06,
-    "gold": 1.4,
-    "wti": 0.63,
-    "vix": -5
+    "dxy": -0.05,
+    "gold": 1.48,
+    "wti": 0.75,
+    "vix": -4.73
   },
   "news": [
+    {
+      "t": "금리가 얼마나 더 올라야 주식시장이 타격을 받을까?",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOVJJWWpkU2tGanpXYjI0RWNWcGZkSTlyVEdVRURMWjRjQmF6dThBczhMeU1HSzlBa0NwWkMxY3BscklfS29DUm91N2ZBLVNuQW0tb010VmNONDFVRmJnMEhPOGl2QWNBQkhrTTEyTjM?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T16:46:00+00:00"
+    },
     {
       "t": "파워볼 분석법 더블유 - 시대별 변화와 영향 - 업계 전문가들의 조언",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVHZBb1h5ZG9xWnUySkVJNUhKSXVqQi1SdmpzekYyUmFlTDgxRkhwZzNZcXM4ckJLZFlkNDFhbFlLUDhmbE5UMktCX2JkYmI5V05DRU54RElUUQ?oc=5",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRUQ1Yk5XcDVkQm83YkJ2T2NvQy1QWkNZSlZ3N2xHRzM4MFNjVFIyQlZrNEdCUzNka3A3RFZKSkRKazhmdFhIQ19EVFZCTzdNMVVjZm9HLXY?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T16:33:15+00:00"
+    },
+    {
+      "t": "[사설] 두 달 연속 금리 인상, 엇박자 재정 정책 지양해야",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlUE8tQk1EN2o0YnRLMlRqSDBITDhhTVFuUG92MUN5VTlRLWo1ZURKMzg5clhOVW8yTG82a1I2LW5pajRhYUNJMDhSR2wtYlE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T16:23:50+00:00"
     },
     {
       "t": "토토적중조회 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NUVLTnB3Nmc4XzdxbWtDb3l4U081SGxTX0NuZ1RicmE4TmRtdE1EWU1nQWtwX3Rya0didzRCZnJ2SEp6QTNxaG9Wd1JlVUFpcndBcVJYQzVabHhrNFZqeU1URFFIM0F5eEVDZA?oc=5",
       "s": "대한민국 정책브리핑",
       "d": "2026-08-27T15:53:22+00:00"
-    },
-    {
-      "t": "韓銀은 돈 죄고 정부는 800조 풀고… 통화 엇박자",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFVLWTFKTGFSWGNLZGg2SVRGSlUtVEk5N3Jvc1o1TGdxeXQ2TnVGcXpwNHBPUlBsalpGTS1pOVBmOGdtZl9TM0NEOG5HcDVFeEs1cGsxM1d6UU1tVXVSLVJWZWNDLW1EcFZ1TGFOM0p4LVRlbjNzZ1BVQWFsUlh3TEtiWlQxa2kzTjdybDJ3?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-27T15:52:00+00:00"
-    },
-    {
-      "t": "무서웠던 금리 상승세…시타델의 예언 \"몇 달간 하락\" [김현석의 퀵브리프]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94alVVSjBoOEpYSUpCbEp3cVdFRkZsYkJ3YkVaNzhISTluNFhOYldtcXZSUEppeGFMQ1UtVVRiaGF0enhkT3Jid21qd0gtR2V1eER5MWlZM3J2UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T15:46:48+00:00"
     }
   ],
   "asof": {},
