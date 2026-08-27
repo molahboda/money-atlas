@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T03:45:59+00:00",
-  "quotesAt": "2026-08-27T03:45:59+00:00",
-  "newsAt": "2026-08-27T03:45:59+00:00",
+  "fetchedAt": "2026-08-27T04:00:59+00:00",
+  "quotesAt": "2026-08-27T04:00:59+00:00",
+  "newsAt": "2026-08-27T04:00:59+00:00",
   "quotes": {
-    "kospi": 6947.75,
+    "kospi": 6938.12,
     "spx": 7675.7,
-    "nikkei": 66269.31,
+    "nikkei": 66417.84,
     "vix": 15.21,
-    "krw": 1380.15,
-    "gold": 4688.3,
-    "wti": 81.78,
-    "dxy": 99.15
+    "krw": 1379.68,
+    "gold": 4681.8,
+    "wti": 81.86,
+    "dxy": 99.14
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 3.04,
-    "nikkei": 0.01,
-    "krw": -0.1,
-    "dxy": 0.23,
-    "gold": 1.08,
-    "wti": -0.7,
+    "kospi": 2.9,
+    "nikkei": 0.23,
+    "krw": -0.13,
+    "dxy": -0.03,
+    "gold": 1.82,
+    "wti": -0.45,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "신현송 \"확장 재정·금리 인상, 엇박자 아냐…환율은 여전히 높은 수준\"",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUk5HU1JJSGtEZ0thLWZrMHlCMENvY2tVYVBWYnZYNFhSSDJJVU9IM0E1Z2hTZzk2ME1UdVVsQzFrU3lfc29wMExHcnV2Vi1XT2pvYkdWYnlSZXZKNUpjcDM4bnpjR3YxYkI1T3lIY01UaXlJZVZEb1pFSW9BeHh5aXcxd2VoTzlIakZzeVl3?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-27T03:48:00+00:00"
+    },
+    {
+      "t": "금통위원 6명, 기준금리 3.00%로 인상 찬성…황건일 동결 소수의견(상보)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MNXpFMkUxeTE5RnhlWmhpRUxVcnZ3WThRaVZ2c09DLURWQldCTXlGQlJlN2ZUMVJwZUpEOTlBM0g3bDc1ai1rMUFXcFBSU0JaUWo0VVMtTnJ1Q29mTnhMcHluNkJIQUlWWTBObl80TG8?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:40:20+00:00"
+    },
     {
       "t": "한은 금통위 \"달러-원 환율 큰 폭 하락…외환수급 개선·달러 약세\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZHJwOExPM0Q4eWZZTGI2aElieFNIVlFnYlFYcTNMTFFuR0xMUU1STXZBaVctWnMzX2I3QmNtelFXZE9aXzF4SFViRWNUaV9CTXFJc3Z4MGRIY1AxcGd5UVZtU1ZWdF9XWmhScUw3eVHSAXRBVV95cUxPZFZ4N241YnJic2pqcmhqRGVRMUI2OEtQQlFDRGlvRmVUbG85anh2VXBmbXpXQUQ4M29SQkw0R1pPSmpCRkhwMTgtVnBpRUNXeElMTEZsSWVtTndFVDJsb2J4c0I3ck1pM1piNkFMVGJqVURQcA?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLb2hMMEdqZURjOEJUYWswOE9jNE1KUEZ2VWF0d2tkYzl3TVd4dlRYQnJhcFBTTDE1emZfMEk3cGF2UmVDa2VLNVRsT21ubXc?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T03:25:16+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4SV9Cbm1DVkRoTnVGSDduYVVPSW9EZEx6ZTFTaWE0eFF5ZE9qQXg2TDBYRkt6ZHI5MUZRaEVpNUQ0bkhZR0NQSmdIOFlkVWoyaEN5Tkc3dXRVTHpzT3lRS0NzWkNhR1c0MDRwa19raTFiSjI5d2JJZtIBeEFVX3lxTE5xc2VfMmY4QWd4S0g1UWZaT1ZlRDdfZjRQUU1TZ3NxcEFXbmZlbHFfRFI2ZDF2SHdXMHFnS3o4VGpNRmxpSkhlTFRkX0ZiSzdsWTNLNThOblpMa0VjMlE1ZzhKc21CazgzWFdxZjZiUlQ0X25rZmVZZg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-27T03:20:58+00:00"
-    },
-    {
-      "t": "신현송 \"환율 아직 높아…통화정책 선제적 대응에 추가 강세 여지\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Q0hxNC1MWE5lMENrSjh6enVXUmZOZ0N0TV84SFJ5aTZNaXQ5bUVVUEExUnZFWS1VSi0yekt3UUhpS0Y5QUVtOGNnOTJCNndkcWVOVG9vUUh6T09PR3ZLZ3RTellzSUFVUFFNUno1Wm1xQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T03:20:28+00:00"
     }
   ],
   "asof": {},
