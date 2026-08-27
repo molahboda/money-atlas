@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T14:00:59+00:00",
-  "quotesAt": "2026-08-27T14:00:59+00:00",
-  "newsAt": "2026-08-27T14:00:59+00:00",
+  "fetchedAt": "2026-08-27T14:15:59+00:00",
+  "quotesAt": "2026-08-27T14:15:59+00:00",
+  "newsAt": "2026-08-27T14:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7703.51,
+    "spx": 7708.71,
     "nikkei": 66131.98,
-    "vix": 14.85,
-    "krw": 1383.01,
-    "gold": 4633.3,
-    "wti": 82.77,
+    "vix": 14.86,
+    "krw": 1383.09,
+    "gold": 4630.8,
+    "wti": 82.91,
     "dxy": 99.14
   },
   "daily": {
-    "spx": 0.34,
+    "spx": 0.41,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.11,
-    "dxy": -0.03,
-    "gold": 0.76,
-    "wti": 0.66,
-    "vix": -2.37
+    "krw": 0.12,
+    "dxy": -0.04,
+    "gold": 0.71,
+    "wti": 0.83,
+    "vix": -2.3
   },
   "news": [
+    {
+      "t": "미 달러화 강세…연준 연내 금리 인상 기대감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTjFRMm5hUDVSSFdWNVVYVXU2VWtSWGFnNVVybFE3cm9tRWVDNjJHM0JFTVRVY3hUX3o5MHJvVHpDRF9qdWJnd2IxQW5lODI1ZzgySWhiWVhYcmVNVU9uU1pmcVpJZk84TVBEZVFyVUY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T14:01:32+00:00"
+    },
+    {
+      "t": "캐나다 달러, 연준 전망과 미 달러 강세에 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92VkxJdkV0Q0pWRXY5NHkwTzJWR1huRl9ZMUFRR3RkS1FGNzFkVVNTc0VRbWlTc0lIUFpWYURRY0hDNDBfODlGX3pyeW9JQjMxb1FYZG1oX0dUN1AtV3FFRXN1UldNMEU?oc=5",
+      "s": "Investing.com",
+      "d": "2026-08-27T13:58:00+00:00"
+    },
     {
       "t": "트럼프 정부, 반도체 고율관세 부과 검토..단계적 도입 가능[이상은의 워싱턴나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xR2JGT0lBS0JYSnBPOFhKUzc1eVZHb3lTUmxGaTNlcVZjRXJWOHRhamV2X19reXZCVnhGNFRLYjBmdjN0a25XUkJxbFpwa2lqeWI0VVZVaGFwUQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBldnVzZUdJOUtqWm1IdGdvSHdLNllLU3JUOFp2RXhLZkhrSnVXN0tzLU9mOTVoaXZWQUNFSmdaVnNfM2FLY3FScV9ZMGNOTlk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T12:46:19+00:00"
-    },
-    {
-      "t": "경기도 ‘글로벌 반도체기업 재생에너지’ 간담회…“새 기준 구축”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOEFSNVVCX1RtaU1RVWs0TkI4V0ZKVWFmVWtxRkY0T3RGRlNfcXZjVUJDTGlVeWlnWkdsY0lMOUY1eGlpX2ZxRmRQRVRES1VhWHczaE1iQ0FETjQ?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-27T12:46:00+00:00"
-    },
-    {
-      "t": "\"미 트럼프 행정부, 반도체 대상 고강도 관세 검토\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Q01IU1I5dnFKR1NUWGlILUlxaGFEN0trUmd0NnI2bXFSZURLbmQ1dzZ0S0tYMUFXd1pOSzRUN0t0WkRRV2FYcm1uZFR5Z2pKWTF6aE5CNF93ME5NOHhLdnExN1pRTGJoYmJENlFCX2dyOTdW0gF0QVVfeXFMUDVrQkMtRGFTQnFCUHhRMGZRUFRXWVB3TFZPM3V4TUxrcHp3M09kRVRwekxKNTBaaHR3bFR2WlM2LVloVEdCZUJSS0phQ2RrVmZVV2MyZEY2QVV2TkE5UjBMVk5TRFBWSkhCYVMzOTh6NnZRcjA?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-27T12:34:52+00:00"
     }
   ],
   "asof": {},
