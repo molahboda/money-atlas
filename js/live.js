@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T06:30:59+00:00",
-  "quotesAt": "2026-08-27T06:30:59+00:00",
-  "newsAt": "2026-08-27T06:30:59+00:00",
+  "fetchedAt": "2026-08-27T06:45:59+00:00",
+  "quotesAt": "2026-08-27T06:45:59+00:00",
+  "newsAt": "2026-08-27T06:45:59+00:00",
   "quotes": {
-    "kospi": 6873.2,
+    "kospi": 6894.05,
     "spx": 7675.7,
-    "nikkei": 66083.15,
+    "nikkei": 66131.98,
     "vix": 15.21,
-    "krw": 1380.25,
-    "gold": 4661,
-    "wti": 81.42,
-    "dxy": 99.16
+    "krw": 1380.67,
+    "gold": 4661.4,
+    "wti": 81.23,
+    "dxy": 99.15
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 1.93,
-    "nikkei": -0.27,
-    "krw": -0.09,
+    "kospi": 2.24,
+    "nikkei": -0.2,
+    "krw": -0.06,
     "dxy": -0.02,
     "gold": 1.37,
-    "wti": -0.99,
+    "wti": -1.22,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "원·달러 환율 3.9원 내린 1380.9원(오후 3시30분)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zbVY4amFRWmh3UVdQazNXTkkwdmlWSjBRNHJRNmZpSC1iUm5pbVhla1NwZmRIbzlhNm9WSDhqNHM5amxKVFdNNW53WHhqTW9TWXRQTGFxaF8tY3hmMk9ySQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-27T06:38:05+00:00"
+    },
+    {
+      "t": "코스피, 1%대 상승 마감…기준금리 인상에 상승폭 축소",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qWGhURms1ZjNQRnB6TFdaM3JDUm5Vb1pDc0pmdXhqR1N5ZXNjTmNoV0JIZjlieU5XV0JZLU90Sl91ejVLMlJxZk1PVXl3UG9ISUZILVJGQmhGRDDSAWBBVV95cUxOckZ0bFl5UzcxdHNxXzhhaWpDVTd0eHlxOExFd2JHbWdRTGF1NnFXeVBacHVWVTdZSlc3NUhDY2tsWjRCRWphM1Q1M09QdUlyaFo2ZE1ZdmxkVmRwOTYzVFM?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-27T06:35:42+00:00"
+    },
+    {
+      "t": "코스피, 7천선 회복 앞둔 줄다리기…반도체 훈풍 vs 기준금리 인상",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DRnU2dnVQbDFwZDRzZlV0d2owUFdWNC1WUjVyRkEtdzhFYVBidDd1cnJaLTVnTnRGVG1fUW9UZGxrX003SGZSb0NlTU43Y3Bpd2ZubFhVR0dnSFh1MUhlSktfd3M5M2Yya0x1WTJCNDjSAXRBVV95cUxOcHB6aGQ2dURVb3ZpcjJ1OF9ORVdEUkZkYzhsNHZMZDhBU1JYRExkQWpTNmZ6OTFHQUQ2M0hJckNUcXI0TlVUWXgtRnN5R0xpS1pCTUhUbHp4MkhVR3ZsWkJfODhIdWYwa05Da3RlbTV1aTZOSg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T06:32:24+00:00"
+    },
+    {
+      "t": "\"낮아지는 환율 하단\"…서울환시 예상보다 '매파' 금통위 평가",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwcE9QdG42b1pFV3FDQjROVXBIb2I3Y19oQXFBUTVXQllFcVhQZTRZeXVUYXdMZ2NicjdyYXkwNDlIRFN2SEltRXg3US1tR2hWSVBNbGlGWXdzaTRCdE9nd0hBT09xOElocEU3bDhvRkM?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T06:29:54+00:00"
+    },
     {
       "t": "한은 '연속 인상'에도 채권시장 안도…\"최종금리 3.25% 가능성\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jbHFjMHhCaTUwSXpra1dueGVlWHJGaG41cnJHd3ZDZ2RSQ0h4TW9UQ3llWXFOUWZxUHFnUk1fcm00Wnl5N3V4UFhZRzA5UE0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T06:24:08+00:00"
+    },
+    {
+      "t": "기준금리 두 달 연속 인상‥\"물가 우려에 선제 대응\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ObE1RR2JFNWZnemt4aTRQZFJBMFBiaGJRRTJfT3VvTTZCVlJHMWZtZzU5dGZtQXZkWnNOcmpQQ2xRaWQtTEwyV2dLYlRncGJ3QUpLcmdBcWNIR29pbW14c1FHUnl3YWJMcHlGUTBJS3BVNS1aOFhWZtIBeEFVX3lxTE1IMWNHT2swc1RzeUZNemQ2S05MQ2E1QVk5MVpkaGdfTnhKaG1URGF1ZGxWRS1jejlIZGc5ZER6VmxvTHV3QXU3dVlsRmlHM1pKOWdYMmNjdWJ2Y3M4TG1hS2xZVk9YLWxsMm1hQXZrRTJ6NUtSNGl3TQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-27T06:19:47+00:00"
     },
     {
       "t": "日구마모토 강진 한 달…반도체 신속복구 속 관광 ’직격타’",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T06:07:09+00:00"
     },
     {
-      "t": "“캐나다를 중국 취급”… 트럼프 車관세 두 배 인상에 캐나다 업계 반발 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW0ya1JTeGZKU1dKajhkNUJTNmxnai1oZVYtZ2VXUlpNR1Z2LVVJb0lpQWlPNS1tMmJQbEtFMVpOSVBBSHc0ZV90dUZBaUlnYVN4cURiQ1dMNGExaUVnd2RtakFFR3FfS1dSS2E5OHZoNDdlalpqdk85SjFfWU9aa3BFT1NCYVpDVzIyZldwSEUyWjVXU1RXYkxmR1Fsd9IBsgFBVV95cUxOWUxOVjYzeVpVSlRGOGFZQ3R4RmhqNG5GRlJBMzBvc3JZMTJLUm5nS2xBNWhCdVBKbXZqcGMxOGNSVFlId3dtNjdkV01yNXJUbk02M3prWWdlOUI2WG9iSGtoR3YxalJXYmtUYUZkTy11UHhUa3Jab3VnRWR0TjRGbnVMX3hxQmhaVjlmeHBDaEUyWGJyQVROWnBLU2dqSEtYVXEzaHdoejQ5Q3o3WXlSRFhB?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T06:03:00+00:00"
-    },
-    {
       "t": "한은 \"한국이 대만보다 수요측 물가 압력 나타날 경로 많아\"(상보)",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1obTBlMWFSNW5PNDhNWloweFhYYTdQSlpiNFZnUXBiVHViSkJMNkU3UXJZLUkyb2YzLUowZGVTYW5kaUZ6RmZxNkVidE9fbl9COXJ1dUN0Zlh3c19BWEJWRi1JZElsZmtMNDhJeHoxVmhaZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-27T06:00:46+00:00"
-    },
-    {
-      "t": "신현송 \"관례 벗어난 연속 금리인상, 가래 대신 호미…환율, 아직도 높아\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ObkNyUFBvME5Vd2tnNTU4Y29kaE9wdUJSb0hxbTIwWFZZdFRLbXJ3WWtFeFBPYzJ0T2RvcWVlUldja1VkNjZBcGpJalVfaWM4N3NuNGN3aks3REt3MVRORWx3TFZqOHNXdzFj0gFwQVVfeXFMTkw5djVBLTJjaE01NUlKdHREVFgwMFJTRGtCY19tSWZzeU44OGhVUVZHcm1JZlMzdGlCQzNrazNSbF93UW8zbVlGSVF0aEpfVXIwTW8tMGQ0Wm9FMjQyd2NuT1QyRDQtS3FBM2N1RVh4MA?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T05:52:43+00:00"
-    },
-    {
-      "t": "[그래픽] 기준금리 전망",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53TjZmWC1pbWVNalpXZ3FMQUJvcG5jeXk1SW5XNVllSU9DNjZBZDBKck5XTkFSZl9EU0Y5bUs0NkJabnNZdFU1R3hkeF9iSXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T05:50:40+00:00"
-    },
-    {
-      "t": "신현송 “환율 아직도 높은 수준…원화 더 강해져야”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02TWNjTDZ5TzZ1Qlk4dnJDUkNEYmtUTklyQXJVMjNCMC1BOG5pM1JZckk4LTE3VTVRTTk5WkkxQUt3QUhGa1hzV1hBN2d6R3lmX1B4R2JfWlFLZ9IBX0FVX3lxTFB0UEJBcGVnNVJyU29VbTRHajF6TE9RM1ljZV80ckEwTzhYRkhKOTZ3MmZaUV9yaUVxWG1LQ0oyazJtX1RTV2lSMHZabjBfSXpaQktGbnhLMVBNUmZEV2hB?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-27T05:45:00+00:00"
-    },
-    {
-      "t": "\"집 언제 사지\" 타이밍 보는 3040...'기준금리 3% 시대' 부동산 전망은 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jemhKUTdXMHhjazRsNi1TMTBlU3BGQ0xPVW9ibEhzblVTVXpPWk9FZUxGcmtYeVhPVlJIb3h3YkpBTlk4RTdIM2xtQ1EyOEFnSGNXUnU0LVJXMjZ2QWduVk5jaXRtSDZVSXfSAW9BVV95cUxPS2F0ckJKSGtkNEYtaVM1Z3ZWZnVQa3liZWhGOEdBZzRicHYyWTBoY084cEhZVk56S2F3UGxUcHhiMFJxNEQyZ0FXdGdCbFZ3M1h1REF3cmpLTVpycWZGaGppdVQwRFF0TWFLc1ZHUkU?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T05:40:00+00:00"
     }
   ],
   "asof": {},
