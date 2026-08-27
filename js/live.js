@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T03:00:59+00:00",
-  "quotesAt": "2026-08-27T03:00:59+00:00",
-  "newsAt": "2026-08-27T03:00:59+00:00",
+  "fetchedAt": "2026-08-27T03:15:59+00:00",
+  "quotesAt": "2026-08-27T03:15:59+00:00",
+  "newsAt": "2026-08-27T03:15:59+00:00",
   "quotes": {
-    "kospi": 6949.46,
+    "kospi": 6962,
     "spx": 7675.7,
     "nikkei": 66164.19,
     "vix": 15.21,
-    "krw": 1382.28,
-    "gold": 4685.1,
-    "wti": 81.5,
-    "dxy": 99.13
+    "krw": 1381.96,
+    "gold": 4687.5,
+    "wti": 81.59,
+    "dxy": 99.14
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 3.07,
+    "kospi": 3.25,
     "nikkei": -0.15,
-    "krw": 0.06,
-    "dxy": 0.21,
-    "gold": 1.01,
-    "wti": -1.04,
+    "krw": 0.03,
+    "dxy": 0.22,
+    "gold": 1.07,
+    "wti": -0.93,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "한은, 기준금리 3%로 연속 인상 “물가 오름세 확산 방지”",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4cFlVQU03UEVkNnYxcU5MTU15dzNXOHJZT1BoOHc1QU1kWHplbTM4Vy1MSnRtWlFfRHJVVlZLdV96MDFjMU14XzdEVGtoSEpzT3F1SzhUdUdwUnlWSmc?oc=5",
+      "s": "주간경향",
+      "d": "2026-08-27T03:09:00+00:00"
+    },
+    {
+      "t": "한은 내년 성장률 전망 2.9%로 대폭 상향…\"최종 기준금리 기대 조정될듯\"(상보)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dUZGMXBZaG9PTE1VUEJ0VllVcDF4SC1iQ0dZd3B3VHZ5VElyQVl2aC01d0pJc0ZQd0N3R1h5b2pOVFRsb3JUQk9vLTE1Q1dTS3RHczViMU9FVEoxdTBjY0FUVHpRZDFWWjFoNTNKZkw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:07:17+00:00"
+    },
+    {
+      "t": "신현송 \"금리 특효약 아냐…거시건전성 정책과 상호보완적\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tX0dtZmhyeWxORUJic3UyWnMwRHpjMndDQTV5cXpyUWluNklzc2lsd3p2MlJMVHpRV2FWcGJXZkJkUW9odEt0VDd1YXpsUUlLLUxaQTZoZ0xWMGx1X1FqbDNFOEYzbWc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T03:06:00+00:00"
+    },
+    {
+      "t": "[속보] 한은 총재 \"명목GDP·물가·기업심리지수 보고 10월 금리 결정\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FS1hsLUJIWWd2SjRXWFNKOHVwZnBQYm82UEF6QTU2a3NYRGFYeHNqTUJXM3F3TDJBSTJveGpnSV95cmFQUHhjeE5zbGVxMVpRUzc4ZDVpS2duWjhBUEpMZEh5Yk9aNFk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T03:05:00+00:00"
+    },
+    {
+      "t": "기준금리 3.00%로… ‘돈줄 죄기’ 깜짝인상",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84V29raThBdEJrMVZTTlFLelVMS3VXZjNqaHFlVXBoOTFoTDhIWFk2dVJkSUtDMXgtZ2FPcm5GV1kzZmJ4ZkttOTVITGJhMER4?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-27T03:02:48+00:00"
+    },
+    {
+      "t": "한국은행, 기준금리 연 3%로 인상…3년 7개월 만에 두 달 연속 올려",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92czhwa3poYnZEY3dDTDRLYnNtejU1MW1vSm5zeEJWTW5HLTFpWTJkWE1aT09tYWZIczd3TXVTZGRCUVotRVdOeXBULWRVRXV5Umc?oc=5",
+      "s": "더나은미래",
+      "d": "2026-08-27T03:00:00+00:00"
+    },
+    {
+      "t": "일본은행 부총재 “정책금리 계속 인상해 금융완화 수준 조정”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2SmN3QUV0aVFzOE53dHR5bVVicnhiWVlGbzNkZHNvbXFQUnFkaGE1eFFYTmNfUEhnWnRqY3FHUkQtblBkcG9sTlJlaFFyc1dWbnpEdFNMZWxuS2M?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-27T02:59:00+00:00"
+    },
     {
       "t": "국고채 3년물 금리, '백투백' 인상에 3.9% 터치",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhT0FFR2ZJRTBLdWlzOUljYkIwX2tiTXV3TEdkZHA2WnBOLVlEQXpyTWczRzZaSFIwMWRLeVRmV1lUZ1dLdDVGekNVODdEdTdiRHVremRsQnhuMFAtUFF0RktFSmVmbnFBY3FLUUFkZUbSAXRBVV95cUxNX3VhUHkzbVNqbWFncWlLOG9DcEM1dW5USjBxSGtIaE5ZMmNRNVNvS2c5NnkxTGhvOFQtd1pOOEVUdnY0ckJuaFFYVDFHMlFpd2s2MUFENlo2VG0tUkg5OTUtcVU1MnRheC1CamNsYjRXOWJpTQ?oc=5",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lN0lJWjdkTHYzQk5LU0xjSXFkQXpTV1RuMm9ZVm9BLUROVHdLbWFKLUxBRGdDeWY2MTdZVzY0Y1dTLWw5OFNzWm1BSkc1b0VGSC1sMXN0UHUxbDFYZGVacllFUTBWNWlsdVNrV0hVZVXSAXRBVV95cUxNLU9Sc3FlNkF3MEhiUV8yUy1ySXBHRlhVZG9wX1pDR2V6OG9mUklzM3R0VGxuVXlDTFpyb3k1QWR5Yl9rOFFpUTNMRkVMRDJJSGZJbWp0RmRsaGt1VVRmY2V5Y3JRSFRyQTM4cnBqNmk1X1hyOQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T02:52:03+00:00"
-    },
-    {
-      "t": "한국은행, 기준금리 백투백 인상과 관광수요 급증까지 이시각 주요뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1INWNiZDdzRFY0NnVBeXJVZXU4dzl4UVpaX1NEUXJXcnBidTJOY2YwMjBrUXc0N0EybldsS2pOekt6UFAxU19vblEtRU1kc3M3dHdkSVk2YS1xTE4wWkpNUDJzWXUxVFU3WjVha2lTSkvSAXRBVV95cUxNTjlsZEJIb3k4aHc0bmhkalBSSHRHSlNBTUdKS2JjWnhzZ3dIRVF5bWFUUllvLWo4RUVCb18wOElxaEx6NkRnNUxYVXNlekhVd0VSYm1rVFBVVFFJM2pDOVY3WTlhbWtHNHhRN2VDM3hJTC0tWg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T02:51:43+00:00"
-    },
-    {
-      "t": "日은행 부총재 \"계속 정책금리 금리 인상해 금융완화 수준 조정\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nSmZ0UE1ibTF6R1RiVFJhTTVmQkxFM2xIX1AtVnA5TnlIQzMxSmJId0pMNHd5eUtoZHk0NTQ5T25sSVNtSTdabWlzRnYzTVJfdHc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-27T02:49:12+00:00"
-    },
-    {
-      "t": "한은 총재 \"금리 특효약 아냐…거시건전성 정책과 상호보완적\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSVVxVWxtczUwYVFRaXJwOFdScnZFZzRaRUppOXZPakRSd0x4WThwSnNodElGdEN4dUk5bU5lYkNPTlFHcURVWXQ0TS1QdHN2R2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-27T02:48:54+00:00"
-    },
-    {
-      "t": "한은 총재 \"향후 6개월, 완만한 금리 인상 예상\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sRWd5YkZxQUQwdWFpZmFkOWg4SlNvNjJMallxY29zbkdtQ1dFdGRONVJZZWtpZTNROGVLVzM3YmZHSlpQNEE0Q1pOc2d2SHNjMXc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-27T02:48:11+00:00"
-    },
-    {
-      "t": "코스피, 엔비디아 온기에 7000선 눈앞… 한은 금리 인상 충격 제한적 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3VwRWNzTmQ0ZEw3amNtanhQQnI1MUtyUTRBcFBuQU9JSnlHT3F5QWlFcEVqdjhhcEFKOGc1RlFjQ2p1RWlvR1pzZ2pHUENtM1FpTFhPVmZ5cWt3THJHN003TW9vMF9TdHlJU0c1MVAxTGk2ZVR4NmgtTldoWG53VHFaeC1LWURx0gGcAUFVX3lxTFBTenVHRHdxcFNDQTJoQ1FYSUFHbmRyMnphLWM3T0NzX3hyNkNKTE1lX3BJMjEwWkpWVVBUNnBMNlRyVnZzVEpvODA0UmY2MDRjZ1BYaTZva3ZyRjRDV0xLTzdQbW1lNm1IVlR1UUlJaXFQa2pWd0lzNDNmZGpxZFVzZmJ5dzYzbnJhM1FlTUZRWmlnMEVrZU9fU0J1Yw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T02:47:00+00:00"
-    },
-    {
-      "t": "이례적 금리 연속 인상… 확장 재정과 엇박자 걱정된다[사설]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2aGN5eXplZ09iUm9DWUhXbk5EZG5FSzZhRnZRZWVqSUs4RlZsMmZ3VkVNUWFBY1ZjLTNHalQtSk1WNHJQT0tuNWVIbm5qUC10?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-27T02:43:20+00:00"
-    },
-    {
-      "t": "“6개월 뒤 3.25%” 점 몰렸다...한은, 기준금리 ‘추가 인상’ 시사",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqN0tEaWxMTTFQNHh4cElTQXZpLXNzbXdUOHJKZ09JWmZMdmVLMW13a2hkZktvOHgxaGl5QUQyLTNUUldhLV8ycVhSLUE3UXBVNlhGcW5leUtKM0U?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-27T02:43:06+00:00"
     }
   ],
   "asof": {},
