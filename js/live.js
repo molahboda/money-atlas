@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T02:15:59+00:00",
-  "quotesAt": "2026-08-27T02:15:59+00:00",
-  "newsAt": "2026-08-27T02:15:59+00:00",
+  "fetchedAt": "2026-08-27T02:30:59+00:00",
+  "quotesAt": "2026-08-27T02:30:59+00:00",
+  "newsAt": "2026-08-27T02:30:59+00:00",
   "quotes": {
-    "kospi": 6927.69,
+    "kospi": 6935.31,
     "spx": 7675.7,
-    "nikkei": 66172.59,
+    "nikkei": 66321.03,
     "vix": 15.21,
-    "krw": 1378.7,
-    "gold": 4693.9,
-    "wti": 81.68,
-    "dxy": 99.11
+    "krw": 1379.27,
+    "gold": 4694.4,
+    "wti": 81.67,
+    "dxy": 99.13
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 2.74,
-    "nikkei": -0.14,
-    "krw": -0.2,
-    "dxy": 0.2,
-    "gold": 1.2,
-    "wti": -0.83,
+    "kospi": 2.86,
+    "nikkei": 0.09,
+    "krw": -0.16,
+    "dxy": 0.21,
+    "gold": 1.21,
+    "wti": -0.84,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "부동산 전문가들 \"금리 인상에 15억 이하 집값 상승세 둔화할 것\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0YkNZajBSMjE5clFpWmR1STZrNDhDMEhBOF9jcGRuczdkczZ2T2FaRmVyT3E0b2psWWRueC1kSnBIX3R0ZEdEbERuVl9TeFR3eE1DdU13RUlNVkJkX0FYeVpYWE91b3NtTUJWeDVXdkc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T02:23:51+00:00"
+    },
+    {
+      "t": "코스피 1%대 상승…6,900선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QMXlQTVNXNkJyRmI3NDlNS1JuMkhyUk9iVldUcmt3eUNOTWdVYmJZdUZQY0FTa0Nqdkx5U2E3enFUYmhyVUlUaXhTaEk4dDVOSXN3NzFIam83Z1k?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-27T02:23:00+00:00"
+    },
+    {
+      "t": "연준 쿡, 백악관 해임 시도에 \"법적 근거 없다\" 재차 반박",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYVAxOUpyYkpVZ1Zvb2NLUmdUTjVnNU9YN18xWGtuMFRPZkxXZ2Z5UGMzRXdsODctZDNvRktoajhKUGczdy1MN0IyQmdXWWwydEFWSFRKbTZRbWpLZU1yRGtMbVpuLVFtMWlrSk13OGI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T02:18:21+00:00"
+    },
+    {
+      "t": "최고 연 9% 금리 ‘신한 적금 9단’…출시 2주만에 10만좌 판매",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSlNvckc3MklpLW1PWFNOZWpvVUZRTzVyUEdmR2ZWTkZXS0VpUVRGY3U3Rkh5dHVnZmg0ZlQ5NklYZGRkYlI2VFFGV1Nqa0pRT1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-27T02:16:29+00:00"
+    },
+    {
+      "t": "한은, 기준금리 3%로 '백투백' 인상…추가 인상도 시사",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13bnZHR1kzenZhdnV4SnVGemJqeTVhNHloRlVXd1dRTW1QZGoyTWgwVDdtYUxpTm1adEY1RVlsWXl1RkZDak15eXBNX2phalk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T02:13:16+00:00"
+    },
     {
       "t": "'캐나다 50% 관세' 위협에도…美 완성차 업계 침묵하는 이유",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE10YjFpSS16UHpPSkE2VkRCc0Rnc2dJd2hxV0wydmtyRFRadHJxU1VUbGVUV2Y1U05ZQjlVd1czXzVJWjc4d3pHNExnOGF6eTFLTlRRRFRUMzgwVEU1bnQyVlV2eEQwWk45VXFwdXUtbjVkQQ?oc=5",
@@ -37,10 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T02:10:20+00:00"
     },
     {
-      "t": "한은 금리인상 배경…“선제적 대응 통해 물가 오름세 확산 방지”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IWGFXdmFoOWZqcWVpekVxWTc5cjhVdFBoRU90TTNuR0xMWXZuZjJwd0NYUXFESkR3UjlXMHBYZnZ3SkJpVHRXa1Y2bVhwR2xEWHBzN0g4SnZVWjRXSTdhLVdSYXBiLTluZHdySUpVVQ?oc=5",
-      "s": "조세일보",
-      "d": "2026-08-27T02:06:30+00:00"
+      "t": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ycHdpQm1lQVItWWRiQXBrQ29FaHVuQVR4bjVoSGxQMWxSLWFsMHZuUUk3b0U1NjlMaUF0U3V2d3NMWEdDQ0JCUDh5UjUwWm1VbFB3Z1VtTGxYV2lRamc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T02:06:00+00:00"
     },
     {
       "t": "국채선물 약세 출발…美금리 추종·금통위 대기",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T02:04:40+00:00"
     },
     {
-      "t": "한은, 기준금리 3%로 연속 인상…\"물가 오름세 확산 방지\"(종합2보)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nNDF1OXhmcTlnYjd0YnVGWTVSdlhsVVJ4MmxVQmN5RnBRNk1aVnNMUmExa1R1WGVBYlIxTUtoSEsyQmQxakIyS3VtWDRvWnM?oc=5",
+      "t": "금통위원 7명 중 6명 \"인상 필요···물가 상승 선제적 대응\" [통화정책방향 전문]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ajNCUDk3bmpMelhWSHFPNkcwVnJoTVVuRWpPWmVEUU9qV0d5Ty1lS1Frd1YxajRnTjZxWnZ1S2Q3YTZXVldkSDB6bUgxam8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-27T02:01:59+00:00"
-    },
-    {
-      "t": "한은, 기준금리 3.00%로 인상⋯3년7개월 만에 '두 달 연속↑'",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ad2VISFI4eUdpZ19Hemd5QlNBcXphZDF4RGlSTi0xYmJ5amp0ZG45MlI4ZE1rNnlTTFpXcmhZeFczSjg0U0hQaU1jU2dhQ3VRZExRQ0FHdy15TktXanc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-27T02:01:10+00:00"
-    },
-    {
-      "t": "[사설]이제 경기보다 물가·부채 경계할 때",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55M3lGOXJuOEhiOHB1LXhKVGV3VWc1X2xDSFk1N1lPejFaVVo3bnFhd1RnMFBGUGZiX2ZwRk5pTW1xOW4yQnFVUFFweG91Y3c1alNjbFdGRjQ0VUFsRHBfZA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T02:00:00+00:00"
-    },
-    {
-      "t": "시장선 ‘동결’ 예상했는데…한은, 기준금리 ‘깜짝 인상’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41V3RvbXRpVTV4cXA3ejU3MHRXVWlfcE0tclZoSjZaZXpma1BFTVZBOHJ3ME40Si1MOURQdGJ5ZHRaSGcxWDUteXZOSXMxcU1aYmI5TU1Va25HdlpDMnNYYkFjNDFtajA?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-27T01:59:00+00:00"
-    },
-    {
-      "t": "국고 3년, 금리 급등 후 되돌림…비둘기파적 점도표에 안도",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aWHBQRGQ5RVdJczZ4ZXNsTW4zTk1HVEFQN1lMU19IYlN1UnlaYUpNYXFNa2EyRWZGVTNnTWVvRlF0R29ZSWR5cFVaRGFyZkw5YmxqbGZLeEtXeHpNN0lhNDc2UXdtdkx1eV9TWFlxNTJaZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T01:57:31+00:00"
-    },
-    {
-      "t": "기준금리 3% 끝 아니다?…점도표엔 최고 연 3.5% 전망들도",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xY3U0ODBwZ0tDUEFvUnNKdHB5dTlCTzRfRGMtUFdwLTRpc3o5WExrNXpMODFjams2WlVxYlRVeHZsc0laSXRpa0E1OVJiSTBNNk5FTl9QdjBEMW12blBPOXpZa0RqQlE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T01:55:00+00:00"
+      "d": "2026-08-27T02:02:47+00:00"
     }
   ],
   "asof": {},
