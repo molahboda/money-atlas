@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T22:30:59+00:00",
-  "quotesAt": "2026-08-27T22:30:59+00:00",
-  "newsAt": "2026-08-27T22:30:59+00:00",
+  "fetchedAt": "2026-08-27T22:45:59+00:00",
+  "quotesAt": "2026-08-27T22:45:59+00:00",
+  "newsAt": "2026-08-27T22:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1381.08,
-    "gold": 4660.4,
-    "wti": 83.55,
+    "krw": 1381.07,
+    "gold": 4661.8,
+    "wti": 83.64,
     "dxy": 99.13
   },
   "daily": {
@@ -19,16 +19,40 @@ window.LIVE_DATA = {
     "nikkei": -0.2,
     "krw": -0.03,
     "dxy": -0.04,
-    "gold": 1.35,
-    "wti": 1.61,
+    "gold": 1.38,
+    "wti": 1.71,
     "vix": -4.6
   },
   "news": [
     {
-      "t": "[뉴욕 마켓 브리핑](28일)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IR0FpSjhoTFdVeTdLX1hIUzI4eWRtTFdqN3Vzd25rSVNzX21qVlZ3YmxmaDRNVXpCelRSOTJtY2VpQXNsdjluTkxSY3ZtZDIwNk1DOUYyaXN3WFQtS3dOcnlYazlFSEpNT21UR09XU2xBdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T22:22:43+00:00"
+      "t": "'잭슨홀' 모인 美 연준 총재들, 입 모아 물가상승 경고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MVXNab0ZYQVE5ZE83RlY0M3J4MG5xRE91Rm1lRXRycnFXUFFYeEtMRFBSb2pYRGFlWlk0UTQySmJScnJaZldzZjV0bU5iMTQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T22:41:00+00:00"
+    },
+    {
+      "t": "원·달러 환율, 1381.64원…강보합권서 등락 전망",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45LXpjVDJZclEzdUpIOTNQaEJiSG1kaE5iNXktbWNXdENybjJLLTB5SFJ5YjNYajhJNmZZb1hBS3lNUXRnVFlyV1A5SWZpSWJCakNJSHd6dFp2ZGVjcTJnSHMwZ2Z1SVNwREdTV2I5VmxCclF2?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-27T22:38:48+00:00"
+    },
+    {
+      "t": "증시 오늘 '핫이슈'…\"트럼프가 이뤄낸 K-변압기 '부활', 삼전·닉스 함께 갈까\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYXFNckF2OHRraDA1dG5KUWt5enpRU0stUnlMNjNmd1Y1MjBXY2NEemg2OFZlSTZKQmpTWktJeDk2LWt6Rl9WeWlxa2xWZm9nQmtuZDk4UkU2X09SWFdtSA?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-27T22:33:05+00:00"
+    },
+    {
+      "t": "뉴욕증시, 엔비디아 호실적에 환호…나스닥 1.57％↑",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFQ4M3JjSXgzcXBtUXhZV0xMUld0SFhjVWtTV1habTh5bWFnVEF3MUl2cnZtMm55bUdHN2VRM2VEeTNwaERRWnJPeG92N0FpbkZwam0xekFkdEQzdUVwZkU3RVBZYk9fM1lVU2JhMjBZNEMzTmlzejVoaklteWt5elhrMFEwcXR2?oc=5",
+      "s": "TBS 서울",
+      "d": "2026-08-27T22:32:00+00:00"
+    },
+    {
+      "t": "[마켓 프리뷰] 기준금리 인상에도 '반도체 뚝심' 코스피 1%대 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XTEhoNmd2M3VsajBFdGVybFRhRUR6cmdGRmt2TlB1VE5HMndNYW5oWlhLbWNURTFrdG45dERGYkI2N1JyMmlOcFlra3dYNFk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T22:31:19+00:00"
     },
     {
       "t": "[채권/외환] 美 국채금리 소폭 상승·달러 보합…워시 '잭슨홀 입'에 쏠린 눈",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByYldqQ3ZCeFotUFdpZ3UzRkliaG02d2R6MmVwSmlFbXoySm5MZ2RiY2xtUy14V0wxQnc4VFNfYlFwMFdzWkI2NGR5Q0tmc2JoX1NScVN0anhiWGg3Z3R5SjdZWUs?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T22:05:13+00:00"
-    },
-    {
-      "t": "AI 투자 사이클 변수로 떠오른 美 채권금리 상승",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UV1F5aHJTZTNYV21xWTA3T3JGNVBnYXBQc1hzWENha0VpYUtnTFhjdFJsNjFqcmtHRkdfTkNCNHJmVVB3UjB5UDAwTy0xSFk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T22:02:50+00:00"
-    },
-    {
-      "t": "트럼프, 반도체 관세 만지작...\"고강도 관세 검토\"-[굿모닝 글로벌 이슈]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05VjVxSzBZOUJXZkNReGswNmdGbXZTUlFTeDhibHlVMG80cERBdnl4ZFpZZl9WRFdueHNxTTBtdmJPTU9DOHJQUzVORV95NUE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T22:02:00+00:00"
-    },
-    {
-      "t": "박스피에 질린 돈, 미국으로 갔다…서학개미 ETF 쫓는 운용사",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGNjRXBnOUtXbGc2LTJhTVh6VDZWdm5pZ1hTMklyMEI1NmlFRFRDYU9RblZLc2p2R0Uxa1M5anhZT1Q3VUkySjhDeW9PNFA4bjhsT243SVlpZE1EVUhuQ09aZkxILUU1ODN2WHBZUTlON29GQl8yaGZkLWlhRVR0ek1FWQ?oc=5",
-      "s": "인베스트조선",
-      "d": "2026-08-27T22:01:47+00:00"
-    },
-    {
-      "t": "금융회사도 연기금도 '외면'…'수요 소멸'에 장기채 시장 '경고등'",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmVINDdjdm5FNHlJbk5tN1ktZ3pHc0FFaG5zOFlOeWtoZHlWcDlxcGY2YXVmRjRXbjJnS3hKUlRKcEtvUF9XV2cwMEJzeXdGUmdlM3pQcXFhLWM0YmlvcnlaVzdTYmhMZEFlamtyNF9GV19YazlBR1c0VTg2cFBvaWR4UQ?oc=5",
-      "s": "인베스트조선",
-      "d": "2026-08-27T22:01:45+00:00"
     }
   ],
   "asof": {},
