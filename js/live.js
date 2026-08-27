@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T15:45:59+00:00",
-  "quotesAt": "2026-08-27T15:45:59+00:00",
-  "newsAt": "2026-08-27T15:45:59+00:00",
+  "fetchedAt": "2026-08-27T16:00:59+00:00",
+  "quotesAt": "2026-08-27T16:00:59+00:00",
+  "newsAt": "2026-08-27T16:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7712.64,
+    "spx": 7724.08,
     "nikkei": 66131.98,
-    "vix": 14.51,
+    "vix": 14.59,
     "krw": 1381.24,
-    "gold": 4652.8,
-    "wti": 82.39,
-    "dxy": 99.12
+    "gold": 4659.1,
+    "wti": 82.53,
+    "dxy": 99.13
   },
   "daily": {
-    "spx": 0.46,
+    "spx": 0.61,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.02,
-    "dxy": -0.05,
-    "gold": 1.19,
-    "wti": 0.19,
-    "vix": -4.6
+    "dxy": -0.04,
+    "gold": 1.32,
+    "wti": 0.36,
+    "vix": -4.08
   },
   "news": [
+    {
+      "t": "반도체 수율 10% 올리면 100조 번다? 제조 AI(M.AX)가 바꿀 대한민국의 미래 (ft. HBM, 김정호 교수)",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NUVLTnB3Nmc4XzdxbWtDb3l4U081SGxTX0NuZ1RicmE4TmRtdE1EWU1nQWtwX3Rya0didzRCZnJ2SEp6QTNxaG9Wd1JlVUFpcndBcVJYQzVabHhrNFZqeU1URFFIM0F5eEVDZA?oc=5",
+      "s": "대한민국 정책브리핑",
+      "d": "2026-08-27T15:53:22+00:00"
+    },
+    {
+      "t": "韓銀은 돈 죄고 정부는 800조 풀고… 통화 엇박자",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFVLWTFKTGFSWGNLZGg2SVRGSlUtVEk5N3Jvc1o1TGdxeXQ2TnVGcXpwNHBPUlBsalpGTS1pOVBmOGdtZl9TM0NEOG5HcDVFeEs1cGsxM1d6UU1tVXVSLVJWZWNDLW1EcFZ1TGFOM0p4LVRlbjNzZ1BVQWFsUlh3TEtiWlQxa2kzTjdybDJ3?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-27T15:52:00+00:00"
+    },
+    {
+      "t": "연준 정책 전환 속 채권 랠리 예고한 시트리니 리서치",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53czVsOXNDekZudTVQS01JYVFFam0zMzBFdXAtd29WMGJGSndwaWpBSUFkd2d3aFFVSXF5TXlXN0VMNk5kTlAtSjBPbFdjeFgwX2NmTERqWjhHZGxNbnRLdHFWbE5aZWVuX3c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T15:46:00+00:00"
+    },
+    {
+      "t": "[사설] 두 달 연속 금리 인상… 가계부채 선제적 관리에 초점을",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnJZeEg5bjdzNG9hd3lpVmVCbHo3ZUJNQ0VRSHlFdmtfOU9fZmNseWY3UVdBTlp3eUxKeUZYbUIzM3J4MURHTk41bXR2WnhjdUZSeG9Sa2FXclFILWxsRW8xWDE1U3kxSlY0QzhLdGZXQkw1RjRlR18ySG5NQnNROE9B?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-27T15:41:57+00:00"
+    },
     {
       "t": "SK하이닉스, 인디애나 40억 달러 규모 반도체 시설 착공",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNmsyOEp0dTdaQWFTSlBEX0hGUFNBN1p0SEdBWnBlejRtdElxWTJUZHNrWWdieUdqYWxkRG43RnF3czd4eFkwbW9YZlZwemlHV1dTY1dpUVJ5dGZzX1gwTTNCVGlkY0lCTGZFdm02TFB0RnRWVm5F?oc=5",
@@ -35,6 +59,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QS1B4NHpFMXRCdVRVci1lOXN6NF9idEFIUXpmemNLSUZqakQwV1VhWHY0Zmg2amQ5Uk1kblpmZzFTTWl2M2tyblQ5Rjc5TXJuaFFnX2Rn?oc=5",
       "s": "중앙일보",
       "d": "2026-08-27T15:27:10+00:00"
+    },
+    {
+      "t": "한국은행, 고물가 선제대응 기준금리 연 3%로 올려",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlazl5WTVZNlRaX04tVUxiRndEa3VydkxOdXl2UkJzeW1acGFpaV9lSFFCaU9iQkhOc1lIVEdSVzFkRXJFaWc4MDMyMnJKYTQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T15:15:37+00:00"
     },
     {
       "t": "주담대 금리 연 8% 뚫릴 수도…영끌족, 이자폭탄 공포",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTjVMNHlXRUF5UlhlN3h6YzhBNmNFbjFweVFLZ0N0Q3lGS0pBYjdJTkVtUkVNeXJUbVVmVzBwTXBIV1N3WkpSWnpQMFlWWmM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T15:11:00+00:00"
-    },
-    {
-      "t": "높아지는 미국 보호관세 장벽에…메가 FTA ‘CPTPP’ 가입 힘 실린다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZTRRaVltek9wZHZRWDhsYUVsVmpjdmFSVEdweUJYNk5sOFRHaEpmMUhMUDJRSHBVSkFvRkFVX3J3SFNrazNTZzhqT1FWZVZaaUpYVjNR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-27T15:02:01+00:00"
-    },
-    {
-      "t": "폴리티코 \"美, 반도체 전면적 관세 부과 검토 중\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13aVAwYWwzT0NHckFOYWNHQjlHZURweG5sYTFWUkZzX3BFSnZ0Rkk5cW1BMm5tUFd6OU93VW5UUUVNMDhSdDRnUGUwQjhLS202aWNpOUljTlA5U0d1OFE3OGZCT3VKSmh0UjRSbTgwZnY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T14:55:43+00:00"
-    },
-    {
-      "t": "클리블랜드 연은 총재, 금리 인상 관련해 \"지금이 행동할 때\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCVEd1MGZ5S05YT0NDRDg5c2JkNlhaMUN4dXMzbS1rR2dnQTd2dVZZbjc1RmFtN2ZwNDZyTF8wWmdiaVpIRURhbTZZMmNrYW1qVVVSVzZyWkUtejBWUUp5TEo3VnBBOVJuTXppTHFtanljQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T14:50:28+00:00"
-    },
-    {
-      "t": "해먹 연준 총재, 금리 인상 촉구…오늘 두 번째 연준 인사",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbm5rZDZXcTNHRjhWR2VjZDBLOEhFRzVKZm9UZldVVFMyODRGaGJES1Y4ZDAtajgzSHVOQzgtTkxaMnRJNWtkMWNtVEMwZ2RRQUkzRTNiSWxDREMwV0t0aExlVHdpOXZqSWc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T14:50:00+00:00"
-    },
-    {
-      "t": "금통위원들 ‘6개월 뒤 금리 3.25% 안팎’에 무게",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1UDhNUk9XYS03d0ZhdHctY3RycnJkcjVvbWRNR2w2TF93VEg5azR5YlFMRUpfUm1yZFJUcFNrSmgwVzRvYmd2MWt4YkdQSlZBRXdNOEN0eU5lbUJwX3VrQWFaMEEyZkhZejRJSlNCMVBvSFBGZHdVV29n?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-27T14:39:33+00:00"
     }
   ],
   "asof": {},
