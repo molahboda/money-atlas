@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T17:30:59+00:00",
-  "quotesAt": "2026-08-27T17:30:59+00:00",
-  "newsAt": "2026-08-27T17:30:59+00:00",
+  "fetchedAt": "2026-08-27T17:45:59+00:00",
+  "quotesAt": "2026-08-27T17:45:59+00:00",
+  "newsAt": "2026-08-27T17:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7736.14,
+    "spx": 7733.16,
     "nikkei": 66131.98,
-    "vix": 14.49,
-    "krw": 1380.56,
-    "gold": 4664.3,
-    "wti": 82.89,
-    "dxy": 99.13
+    "vix": 14.62,
+    "krw": 1381.03,
+    "gold": 4663.8,
+    "wti": 82.7,
+    "dxy": 99.14
   },
   "daily": {
-    "spx": 0.77,
+    "spx": 0.73,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.07,
+    "krw": -0.03,
     "dxy": -0.04,
-    "gold": 1.44,
-    "wti": 0.8,
-    "vix": -4.73
+    "gold": 1.43,
+    "wti": 0.57,
+    "vix": -3.88
   },
   "news": [
+    {
+      "t": "연준 해머크, 연말 인플레 3% 전망…2027년 중반 2%대 도달",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DYW5IWVhxcFJjeUllbk00a2NmMmpveHFEQW9NYVE5OTdsdk41eFdGMnE1dzlyN1BqTFRlS0hnUDI1aVNBaEdOMWJ0eGZoLVAzLThPVjVjc3ZNLUh5OTFINGxXX0hLSkthTm5ZZnZDWWw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T17:29:00+00:00"
+    },
+    {
+      "t": "주요국 내년 증시 미리보기 [한경 프리미엄9 TODAY]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFRnVPdHJ6Sk14czNUbXBiLW1oVEVQLUlfY05lNC1ZdUZnUkVkQnBmNTlwUDNnQnB1WUppWEtyLUZhX2xZVklMRk9UelVCcmVta0FqOGxjcGJWdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T17:27:00+00:00"
+    },
     {
       "t": "[현장]곽노정 \"반도체 강세 이어질 것\"…추가 투자 어디든 열려 있어",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdjVhenBwRHhfX2JmVnR2d3RnSk9jT21LM2FvZlZrcFZXYTB6RVB6Y2lMZGxDanFSLUwzcUFKMU9PZFdkN2tIQU1SQVNOMlE?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UmxFa0V0Yk5wbnQxaEpFRDByZTBVN194a0FnREJPNDFzendvRkYxbFN4QlhkOGZYc3VhdXNoR1FVQUdmMFBlM2RRTXIwWklLY0hIb0xLSERPU1BrOFE?oc=5",
       "s": "YTN",
       "d": "2026-08-27T16:08:00+00:00"
-    },
-    {
-      "t": "美 물가 3.7% 고착…실질소득 1년간 0.2% 증가 그쳐",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXkwLXQwTzBMUm1xREpmMWtRNWROaE5XS3A2VlpvWDRoNHh0dU1CdmRDMDdTUTRSZ1FxbkprR0xMcG80eDNnMk1nQm5kMlBkT3hsYy1NZU9aVGdvUkxCUXRDLXdUYXlBcnhGWnRWaW1WRVFtRTJHMUozZ2RaSlVSeTdaeXp0RDBx?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-27T16:00:00+00:00"
-    },
-    {
-      "t": "엔비디아발 AI 낙관론 확산…나스닥 선물·아시아 반도체 동반 상승",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJQbmVXaXNWTWlWX3VqaG9vVlBWRWxaRVhBX1NNR2VwZnZLM0o3YmRiOFVFUzJOSUdETmd6b3ZsQ0s4YXVYcUZFM0xqN3RaLU9pT28tN1V5YVJ2SlB6QS1mRE9MVURBRG5aSmxrZVF1bUZ6TVVhbWpYeVRXeXhmcWxGOGZKRVNq?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-27T16:00:00+00:00"
     }
   ],
   "asof": {},
