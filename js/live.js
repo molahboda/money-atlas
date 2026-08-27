@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T16:31:00+00:00",
-  "quotesAt": "2026-08-27T16:31:00+00:00",
-  "newsAt": "2026-08-27T16:31:00+00:00",
+  "fetchedAt": "2026-08-27T16:45:59+00:00",
+  "quotesAt": "2026-08-27T16:45:59+00:00",
+  "newsAt": "2026-08-27T16:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7726.97,
+    "spx": 7736.97,
     "nikkei": 66131.98,
-    "vix": 14.47,
-    "krw": 1381.31,
-    "gold": 4659.5,
-    "wti": 82.5,
-    "dxy": 99.12
+    "vix": 14.45,
+    "krw": 1381.22,
+    "gold": 4662.4,
+    "wti": 82.75,
+    "dxy": 99.11
   },
   "daily": {
-    "spx": 0.65,
+    "spx": 0.78,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.01,
-    "dxy": -0.05,
-    "gold": 1.33,
-    "wti": 0.33,
-    "vix": -4.87
+    "krw": -0.02,
+    "dxy": -0.06,
+    "gold": 1.4,
+    "wti": 0.63,
+    "vix": -5
   },
   "news": [
+    {
+      "t": "파워볼 분석법 더블유 - 시대별 변화와 영향 - 업계 전문가들의 조언",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVHZBb1h5ZG9xWnUySkVJNUhKSXVqQi1SdmpzekYyUmFlTDgxRkhwZzNZcXM4ckJLZFlkNDFhbFlLUDhmbE5UMktCX2JkYmI5V05DRU54RElUUQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T16:34:05+00:00"
+    },
+    {
+      "t": "피시방 룰렛 : 흥미로운 사실과 통찰력 있는 분석",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRUQ1Yk5XcDVkQm83YkJ2T2NvQy1QWkNZSlZ3N2xHRzM4MFNjVFIyQlZrNEdCUzNka3A3RFZKSkRKazhmdFhIQ19EVFZCTzdNMVVjZm9HLXY?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T16:33:15+00:00"
+    },
     {
       "t": "토토적중조회 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrS25fX1Y2RDdYQ1dJMl9CLVl4Z0pobUlIQVlfZUIyZndLSlVicWM5ZGw2MVA3ZG1uVFlmNEsxY1U4YmVMcm53TmZRME9Yd3J3Q0pobzdSSmk?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T16:13:31+00:00"
+    },
+    {
+      "t": "신현송 한은 총재 \"선제 대응 위해 금리 연속 인상\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UmxFa0V0Yk5wbnQxaEpFRDByZTBVN194a0FnREJPNDFzendvRkYxbFN4QlhkOGZYc3VhdXNoR1FVQUdmMFBlM2RRTXIwWklLY0hIb0xLSERPU1BrOFE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T16:08:00+00:00"
     },
     {
       "t": "엔비디아발 AI 낙관론 확산…나스닥 선물·아시아 반도체 동반 상승",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94alVVSjBoOEpYSUpCbEp3cVdFRkZsYkJ3YkVaNzhISTluNFhOYldtcXZSUEppeGFMQ1UtVVRiaGF0enhkT3Jid21qd0gtR2V1eER5MWlZM3J2UQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-27T15:46:48+00:00"
-    },
-    {
-      "t": "연준 정책 전환 속 채권 랠리 예고한 시트리니 리서치",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53czVsOXNDekZudTVQS01JYVFFam0zMzBFdXAtd29WMGJGSndwaWpBSUFkd2d3aFFVSXF5TXlXN0VMNk5kTlAtSjBPbFdjeFgwX2NmTERqWjhHZGxNbnRLdHFWbE5aZWVuX3c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T15:46:00+00:00"
-    },
-    {
-      "t": "[사설] 두 달 연속 금리 인상… 가계부채 선제적 관리에 초점을",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnJZeEg5bjdzNG9hd3lpVmVCbHo3ZUJNQ0VRSHlFdmtfOU9fZmNseWY3UVdBTlp3eUxKeUZYbUIzM3J4MURHTk41bXR2WnhjdUZSeG9Sa2FXclFILWxsRW8xWDE1U3kxSlY0QzhLdGZXQkw1RjRlR18ySG5NQnNROE9B?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-27T15:41:57+00:00"
-    },
-    {
-      "t": "SK하이닉스, 인디애나 40억 달러 규모 반도체 시설 착공",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNmsyOEp0dTdaQWFTSlBEX0hGUFNBN1p0SEdBWnBlejRtdElxWTJUZHNrWWdieUdqYWxkRG43RnF3czd4eFkwbW9YZlZwemlHV1dTY1dpUVJ5dGZzX1gwTTNCVGlkY0lCTGZFdm02TFB0RnRWVm5F?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T15:35:00+00:00"
     }
   ],
   "asof": {},
