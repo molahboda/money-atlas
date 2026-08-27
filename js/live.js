@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T18:15:59+00:00",
-  "quotesAt": "2026-08-27T18:15:59+00:00",
-  "newsAt": "2026-08-27T18:15:59+00:00",
+  "fetchedAt": "2026-08-27T18:30:59+00:00",
+  "quotesAt": "2026-08-27T18:30:59+00:00",
+  "newsAt": "2026-08-27T18:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7720.41,
+    "spx": 7714.11,
     "nikkei": 66131.98,
-    "vix": 14.61,
-    "krw": 1381.41,
-    "gold": 4657.8,
-    "wti": 84.02,
+    "vix": 14.67,
+    "krw": 1381.59,
+    "gold": 4660.8,
+    "wti": 83.63,
     "dxy": 99.17
   },
   "daily": {
-    "spx": 0.56,
+    "spx": 0.48,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.01,
+    "krw": 0.01,
     "dxy": 0,
-    "gold": 1.3,
-    "wti": 2.18,
-    "vix": -3.94
+    "gold": 1.36,
+    "wti": 1.7,
+    "vix": -3.55
   },
   "news": [
+    {
+      "t": "트럼프, 이란 MOU 폐기…호르무즈 협상 교착·유가 위험 고조",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnWVMyOTdTMURjeGxXaG9kVzRwSWpvaGFpVEdlVXVPUDRNLS1wb0I3SGlvVUhTWmwtd2VMNDgzam1lNDdPdXh4OGVUVXpvUlY3VTUteXFYc1R1TDh4cUJfNktzbndHX1R0TGc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T18:15:00+00:00"
+    },
     {
       "t": "연준 콜린스 총재, 혼조세 인플레이션 데이터 속 금리 인상 가능성 열어둬",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44SkVDd0V1UkxNREtqYThIYTFWQUZnQVhsc010RGFKU2FieGNOMHhMaVhrUDZVSDFCZDF5eTFBMGhPVkhRcTM0YmNZTzRtS3piOWNHNFBITHJiN1VvUFM5S3FWMG9BYXhucGc?oc=5",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-27T17:27:00+00:00"
     },
     {
+      "t": "[인터뷰]칩스법 주도 영 의원 “패키징만으론 부족…반도체 모든 영역 투자 필요”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrOXM0Z0p1ZG5VOVgtWGUtUHY1b3ZhdlIyOHFmTmRLTlRUMzBjR3g4Xy1aVnVVV3BfNVZUazVsbGwtbzlJbTFkTHllNHNmb0RJMTdRRjVSRnNJUWs5aU0tWXBQZHQ2WFZxRjlMWFRhYw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T17:25:00+00:00"
+    },
+    {
       "t": "[현장]곽노정 \"반도체 강세 이어질 것\"…추가 투자 어디든 열려 있어",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdjVhenBwRHhfX2JmVnR2d3RnSk9jT21LM2FvZlZrcFZXYTB6RVB6Y2lMZGxDanFSLUwzcUFKMU9PZFdkN2tIQU1SQVNOMlE?oc=5",
       "s": "v.daum.net",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1V04yRXhxYTNEQ0V4MlczdEllQm5RVlBuU0x4MElDT2pYREpkcWIzVnN2OFdpTWpNNGNHYzlwNTNGTm84VU41STk2VnpZRjVhZGh5b25WbGZjMjdwQkdCMmxWY1NreUFWUTZEcVRtRng?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T16:50:29+00:00"
-    },
-    {
-      "t": "치솟는 美 물가·국채금리…'잭슨홀' 워시 입에 쏠린 눈",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZnVRN3BySkNUOGU4d01Wek9DZU0yLU95VVdneVl2U3I2ZUIyMmVJZ1hnSkpNanY2eXNCempyOE5DcGRVbzNDdF9Db2diYjR4WTl4ZWZwbl9vdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T16:47:00+00:00"
-    },
-    {
-      "t": "금리가 얼마나 더 올라야 주식시장이 타격을 받을까?",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOVJJWWpkU2tGanpXYjI0RWNWcGZkSTlyVEdVRURMWjRjQmF6dThBczhMeU1HSzlBa0NwWkMxY3BscklfS29DUm91N2ZBLVNuQW0tb010VmNONDFVRmJnMEhPOGl2QWNBQkhrTTEyTjM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T16:46:00+00:00"
     }
   ],
   "asof": {},
