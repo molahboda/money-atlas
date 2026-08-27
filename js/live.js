@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T18:45:59+00:00",
-  "quotesAt": "2026-08-27T18:45:59+00:00",
-  "newsAt": "2026-08-27T18:45:59+00:00",
+  "fetchedAt": "2026-08-27T19:00:59+00:00",
+  "quotesAt": "2026-08-27T19:00:59+00:00",
+  "newsAt": "2026-08-27T19:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7716.71,
+    "spx": 7716.84,
     "nikkei": 66131.98,
-    "vix": 14.72,
-    "krw": 1381.22,
-    "gold": 4656.1,
-    "wti": 83.67,
-    "dxy": 99.18
+    "vix": 14.71,
+    "krw": 1381.53,
+    "gold": 4660.4,
+    "wti": 83.78,
+    "dxy": 99.16
   },
   "daily": {
-    "spx": 0.51,
+    "spx": 0.52,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.02,
-    "dxy": 0.01,
-    "gold": 1.26,
-    "wti": 1.75,
-    "vix": -3.22
+    "krw": 0,
+    "dxy": -0.01,
+    "gold": 1.35,
+    "wti": 1.88,
+    "vix": -3.29
   },
   "news": [
+    {
+      "t": "기준금리 3% 시대… \"물가상승, 선제대응\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZUZnazZLd0MzdXhXTGNKM2xZZDVWYlNTZVVKaE5FcjB0M3ZZcEVXbnl0c1NySklvZVJMTm9aajJXaWlfYjd4R0x1MTlKU2VNbHl1U0kxSUh2eEc3TFdYQjNuYzZzaFZrRDcw0gFwQVVfeXFMUE96T1N6UjBHcTBFa2lKYkVZYm1BbWQwblRUOVJ2cTNkNGZDY2hzT1hpVmRhTnJiWDRwMkphLUxsTjcwTlROM3RUVXI4Y0xKbkZiZmYwMWlCY21qZDVhNGFhSG52dEd1Zm80Y2U4ZVFvcg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T18:54:00+00:00"
+    },
+    {
+      "t": "유럽증시, 대선 정국 진입 프랑스 정치·재정 우려 부각되며 약세… 은행주 1.7%↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44WWp2M05tM0V1YkNrbm5vejhLTHRvOHZJcFpFVU5xaDBMMElOY0hBYUp5bE1tZW03ZzBjcVRYTzFfeS1SWmhMUHBGbHBBUl9RTXpYZmlJakhzV292?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-27T18:23:00+00:00"
+    },
     {
       "t": "트럼프, 이란 MOU 폐기…호르무즈 협상 교착·유가 위험 고조",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnWVMyOTdTMURjeGxXaG9kVzRwSWpvaGFpVEdlVXVPUDRNLS1wb0I3SGlvVUhTWmwtd2VMNDgzam1lNDdPdXh4OGVUVXpvUlY3VTUteXFYc1R1TDh4cUJfNktzbndHX1R0TGc?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdjVhenBwRHhfX2JmVnR2d3RnSk9jT21LM2FvZlZrcFZXYTB6RVB6Y2lMZGxDanFSLUwzcUFKMU9PZFdkN2tIQU1SQVNOMlE?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T17:18:42+00:00"
-    },
-    {
-      "t": "기준금리 2연속 인상…다시 '3% 시대'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HSmhLVlV5VlRlenhTZ2N0NkVxdHpraEtER3B3Vkw5YlVZVDVTMjkyM1VqYjNLMlNqakF2RDhhclZ6LUZXeW5FZUkzdk16QzFPaXdocVVIM3R5UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T17:13:00+00:00"
-    },
-    {
-      "t": "클리블랜드 연은 총재, 금리 인상 관련해 \"지금이 행동할 때\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1V04yRXhxYTNEQ0V4MlczdEllQm5RVlBuU0x4MElDT2pYREpkcWIzVnN2OFdpTWpNNGNHYzlwNTNGTm84VU41STk2VnpZRjVhZGh5b25WbGZjMjdwQkdCMmxWY1NreUFWUTZEcVRtRng?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T16:50:29+00:00"
     }
   ],
   "asof": {},
