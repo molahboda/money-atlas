@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T00:00:59+00:00",
-  "quotesAt": "2026-08-27T00:00:59+00:00",
-  "newsAt": "2026-08-27T00:00:59+00:00",
+  "fetchedAt": "2026-08-27T00:16:00+00:00",
+  "quotesAt": "2026-08-27T00:16:00+00:00",
+  "newsAt": "2026-08-27T00:16:00+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
-    "nikkei": 66262.16,
+    "nikkei": 66670.06,
     "vix": 15.21,
     "krw": 1382.98,
-    "gold": 4677.8,
-    "wti": 81.84,
-    "dxy": 99.13
+    "gold": 4675.5,
+    "wti": 81.65,
+    "dxy": 99.12
   },
   "daily": {
     "spx": 0.3,
     "kospi": 0.97,
     "nikkei": 0.62,
     "krw": 0.11,
-    "dxy": 0.21,
-    "gold": 0.86,
-    "wti": -0.63,
+    "dxy": 0.2,
+    "gold": 0.81,
+    "wti": -0.86,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "[표] LME 비철금속 및 환율 동향(8월 26일)",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yejVLU3lCNTRtbE1mSTlrTW8tZTBsVmdXZjNCb3NkS0tENXkxbllZaW1JOGtqdHdZNEdsQzZxb0FmWFFPRUNncHc3bGNlV3Rqell1dHpXN1h4UUZTdXNvbkhlODdBUTNzQmc?oc=5",
-      "s": "철강금속신문",
-      "d": "2026-08-26T23:55:52+00:00"
+      "t": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2w0akUxYW8teU1pQ2swSzFxVmxzTFdQY0E5VldhOTJwekFIZ1M5OUxlVkVSNFdSYVU3eWN6cFZNZU1EUzBVSWg3bUdZOEp5QTFtMFhCS040Y0NMNGJiU1dvNG0xX2tuQnlWN3R5Y1IzQlFpOTBfWGdKUTlLa2JLMUgzOGprejBl0gGcAUFVX3lxTE84bEEzaC1iTXZjaUowSmdsM0YzVHUwZ203TFBVbGIwMm5yUzR6T0ZlN0dXUTRKRUhMOGUxVXhHM18wdVJSNlNZeWhEcGRUcl9EU3VrVEZPR1pSMnpMTXdFX1NSUndsMFI4Mzkwbi12UDUtZ3U3Y05OZS1FTXNMQVlzdlk2ODg3UmszWUZrUUJHeHktR3NCaUlQUGNtZQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-27T00:10:00+00:00"
     },
     {
-      "t": "코스닥 실적 개선에도 저평가…“의미 있는 반등엔 금리 하락 필요”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMzA2aFZIZ1FWdERsbjdQVHFxYzE4aXNhMEVZN3JYV3hhdk9scVNxMHRRUDBUVFZ6ZGo4T1BZeWNRWFZleXhZSER2M0ItaDdMLUtlOTNJVTNOQk0?oc=5",
-      "s": "경기일보",
-      "d": "2026-08-26T23:53:50+00:00"
+      "t": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14SzVGVy0wUVB4OWtOQTc1ejRiZExQdVZlZjcwTG15SUV6Ym1OMmVOYUU3d0tmS20yR0RBOW53VDdXWERhS0RLZ0c2aml5N09sSEw1eWRHUTRPV0NTLVFKYWNXb3BvZTFoZElOejYwTmk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T00:09:54+00:00"
     },
     {
-      "t": "엔비디아 실적 대기 관망…뉴욕증시 3대 지수 약보합 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ja0d6N01UWU5mdmhMR2xGeWJ6a0J5NndZWFJYTVhiMlFvVjNoNWdRbTJMbU80T2lXNjc1MXZ2TnBaelJOOG1JVFBuamdPeFJwM19Hd2NTUW91dTg5UjZaSThLVi0?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-26T23:53:46+00:00"
+      "t": "가트너, 2026년 전 세계 반도체 매출 92% 급증…2,159조 원 도달 전망",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qTTNxaG9kbER3emhxam9sc2hpM2Z2YVpUNjU5TVlFMmxPSDVXR09VZGcwbDZxVHVQaThPREp6UTlTeGpYQ1k3WHNXZ3hzTjRValYxX08waWIyUlR6T1NZ?oc=5",
+      "s": "헬로티",
+      "d": "2026-08-27T00:09:15+00:00"
     },
     {
-      "t": "한투운용, ACE 반도체Plus전략산업 ETF 순자산 3000억 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpMDJtUkxPcXBkRVhHRWJGVjBIZ0F5TW9YM0FRb3dwS240SWlMR0ppTlJOaG9uUDZCVVgxb0FkSl9Pc180Q0xGLWxRM0ZvaUxuYnROWFZHVjBYSG9jald0NQ?oc=5",
+      "t": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15eG1JVW42Y3VqbjhRVFN2RjJXdTJzb3pvRXFTYU1RNG1xMmdPMWg0UEU1WUpKSjlqOVdkX1hBLXd6OThhU1RvR2V1Q0tndlBfRkJKY1JTbUFCbWd6TnYzVDNZRlM4czFlNVc3ZHQxdlnSAXRBVV95cUxQNkZQVzYwYzNyZnlMY1NFS2s2Zmc2ODhZU253TFI2SUdHT1cwRkVVMEdxQU1pV0FOSFZBVjBMSE9CN2NWeUZKUEpHTVhkLVFvWEF0d1g1akxBUkFjTFVES3BtSmVrY1lMblp1Y1NUbzIwZG12LQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T00:06:43+00:00"
+    },
+    {
+      "t": "코스피, 2.76% 상승 출발…코스닥도 0.19%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96RnpUZ1lncWE4WWh6WjRGQVpHc0Y3N3VfXzIxeDlVWnpGTWtPQmRvQ2phNlM5WTRULXFwY3puaXdpWVJIc3F2Um9ORjExS000LXdadnJ4b3BVWUpUVlBjU2Vpc0N4dFE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T00:05:00+00:00"
+    },
+    {
+      "t": "엔비디아 실적 발표...'반도체 투톱' 주가 영향은?",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5M0VVMUdXSXVaWGtuOFF1VzF2MHU4MGxoMG9UV1JFUDZIR3NqMGRDN19IN0JTajc2TmdtMGxkX24yM3FOenpEVktKYVdMOTNzWmUyaFJkT2gzRFpRVmc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T00:05:00+00:00"
+    },
+    {
+      "t": "국채선물 약세 출발…美금리 추종·금통위 대기",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVjNoQUJpcVBOSFk5a01YWDNQRWlBNlBvRkJ3bzBvRXZUSzk4NUJsSG5RSllnNXBKNjFlNkJpUm5zTE5qWjJFNWotODZkLVFiN195QmlPRnUwZ0dHcjZnam9TRHAySDN4ejREZHhqU1V6Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T00:04:39+00:00"
+    },
+    {
+      "t": "금값, 3개월 최고치서 후퇴…美 물가 예상 웃돌아",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZSWE3QWFYMWpBOFdMZ3VHN1J0YXI0Qk9oc1JvdEFzTU5OcDdzUTJwZXNBT2R1cUVhZFRrM3pjX3VTaWJkRjY1cFhXaVM0cG5GR3BZUkxpX0JGbFBGLTg3YTVFRQ?oc=5",
+      "s": "더구루",
+      "d": "2026-08-27T00:04:34+00:00"
+    },
+    {
+      "t": "코스피, 187.91P 오른 6996.12 출발(2.76%↑)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaWVVCeEV2dV9pQnZEdGp0Rnh1OU9pRm1uTUVzZzA5dnl6OTJ3aE1iYWhwNi12dHZ6Tmh0aXRrYTluWVhjMURJR2NTN01XUjhjX1E5MEF2U2hHYjR1Mmc1Xw?oc=5",
       "s": "아시아경제",
-      "d": "2026-08-26T23:52:25+00:00"
+      "d": "2026-08-27T00:01:39+00:00"
     },
     {
-      "t": "국제유가, 이란·오만 협상 진전에 3거래일 연속 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbnJXQWtDSkNybllwOFpTRk1zM3RLdDJBbkdlM1hUX3J2SEVHczdPWU43c1VRZW9oVWN5N2tadG43dWItTUtqblpEaFZZdEwxX1c5eXc1dTRabnFkNUZLbGtjZUI?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-26T23:52:12+00:00"
-    },
-    {
-      "t": "베트남, 中 제치고 대미 무역흑자 1위…트럼프 관세전쟁 수혜",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05TjRNRnExcnUzZWtnMUh5QWYwUVRSZGNKbjNMejVhZmRaNlV4UWVGc3Rrenk3bC1aNmw5NjY4U2dFYXV6R2M0UGU2RE1iYXRYYlpVVHlOUEZ2b28zY0ZwSWZkQlpoeGlOcWJtRGlmcGY?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-26T23:42:05+00:00"
-    },
-    {
-      "t": "한투운용 'ACE 반도체Plus전략산업 ETF' 순자산 3000억원 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoam5vUHJ1WVNna1BFVkYxNVVVVXZEVTBiRWNJX2RrcFhqVUx6UEtPQ05yU29sU01iWEM4YVZzb0FZczd5MW1VWTVPOGJIbTNDUmZ0UU82WGpVODFm?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T23:36:00+00:00"
-    },
-    {
-      "t": "[해외시황] 뉴욕증시, PCE 예상 상회·엔비디아 실적 관망에 '약보합'…나스닥 0.08%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQndwOXJ1cG1CVHM4WjlhNWhfZTU4TzM2Uy0waG56REM3MkZ4VGgtbHVhbFJPc3lUZmVHVzJtNjNDcExoeVhCcmFRREJtSy1OR1ZnZUhTRHYzQnBIeC11RQ?oc=5",
-      "s": "프라임경제",
-      "d": "2026-08-26T23:34:50+00:00"
-    },
-    {
-      "t": "[마켓프리뷰] 엔비디아 훈풍에 반도체주 강세…코스피 상승 출발 전망",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOMzV6RmRTVUdyTVIxYWlzRF85Q2JJX0w5c3JXWnRnbnZkaFBWdmRUYXBuaWN0Z2djZmNSNlV4cU04OEVTNkN5QWh1OGpwMGc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T23:34:28+00:00"
-    },
-    {
-      "t": "[모닝 리포트] \"엔비디아 훈풍…반도체 중심 상승 출발 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Z0pHVzN6OU5OYWVpSGg0WGFfZkkxQmRaWFJ5NWMzdVZYN0l6QklxRzZieU1XYVZ0dEt3WXVoX1FaQ09Vd0c1dTBieFFLeGFKd3owVUVqQ1VSRU15?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T23:30:00+00:00"
+      "t": "[스팟]코스피 187.19포인트(2.76%) 오른 6996.12 출발 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Q1hQYkUzTlluRFh2UHZCWkM5TnZDLVBSa3dFNDFBU0dsUzVNTTh6cndwSjlUdnA5NjZ0aEhZVnZQLWNFYkJobGZuYnRqdlNpRUJ6aTFfLXpFeE1qZHdaT0YyX2hoN1Fj0gFuQVVfeXFMTjEzaEQ2SnhGV2JIdWZ1b25hYXpfWXFVbmZMM1VFQ0M4VHkwaE5zUENHRHZtTm1vODAycVdSa0xuX09qY2ZPdTdlTEMtOFpHc2xLMGtjc2dlMlAyVUdBOEt1UFdBbjItazVadXdQbkE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T00:01:06+00:00"
     }
   ],
   "asof": {},
