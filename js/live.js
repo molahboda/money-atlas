@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T14:31:00+00:00",
-  "quotesAt": "2026-08-27T14:31:00+00:00",
-  "newsAt": "2026-08-27T14:31:00+00:00",
+  "fetchedAt": "2026-08-27T14:45:59+00:00",
+  "quotesAt": "2026-08-27T14:45:59+00:00",
+  "newsAt": "2026-08-27T14:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7709.64,
+    "spx": 7714.02,
     "nikkei": 66131.98,
-    "vix": 14.69,
-    "krw": 1381.78,
-    "gold": 4637.5,
-    "wti": 82.87,
-    "dxy": 99.12
+    "vix": 14.61,
+    "krw": 1382,
+    "gold": 4641.5,
+    "wti": 82.63,
+    "dxy": 99.14
   },
   "daily": {
-    "spx": 0.42,
+    "spx": 0.48,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.02,
-    "dxy": -0.05,
-    "gold": 0.85,
-    "wti": 0.78,
-    "vix": -3.42
+    "krw": 0.04,
+    "dxy": -0.03,
+    "gold": 0.94,
+    "wti": 0.49,
+    "vix": -3.94
   },
   "news": [
+    {
+      "t": "[사설]기준금리 이례적 2연속 인상… 2000조 가계부채 비상",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dVlERDJWYkl5VUZQdTZHMTFVejBUSjdBZHBCY3d3c3A1ZkZ6UVItenJ5STRpVTRQVDJndHhWLVNBb0xuai1WdTBPUFEydEt1ai1SVmk0a0pTczRwQ1dVMkFZSzlXQ3lKLU9uT19JQVV0Qm9XTmfSAWZBVV95cUxNZDdyQk16cHA5YXBLMnd6NUNKOHBEejZsTEZxczBTbXFCdzFKS3drMk4zS1cwbkNaOXM0cU5FWUdWV05RUGxiTlczakdVOEo4OS1YM3VVZEsyc0tIS2k4Z3N2Wmo1MEE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-27T14:30:00+00:00"
+    },
     {
       "t": "국보 토토 컨설턴트를 위한 친환경 에너지 권위 있는 가이드",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUWY0UlJHbk1rVGJ5b2tIbXBieXB2UUZ2bG1BZzFjWnhJb3BQOVZITWVBbFZUUFBibUUzU2JzQ0tIcWx6bFhsQ2FpR2dBa2ZxaTNpeGdvYlk4RWtXM1l5Q29IVFY?oc=5",
@@ -31,10 +37,22 @@ window.LIVE_DATA = {
       "d": "2026-08-27T14:17:36+00:00"
     },
     {
+      "t": "한은 연속 금리인상에도 코스피·코스닥 1% 상승",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxVUlwd1c1Nmo5U1NKQjZLM3VLTVhiMHlqOHQtRjZ2NG5Md1Z5bjRqWnFQOEd4Wk9taU1nbDY0QkdtQ3ZxbGN4Qk10UUd3RFNya0dDNHcwdHFoQ1RPTWc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T14:11:00+00:00"
+    },
+    {
       "t": "Nvidia 매출 전망에 미국 반도체 주식 상승",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hUzdNYnIzTzNvZnJGbHNpcnZVM1NiMWlDVlY1bEVfM2IybDNkamd0RmsxMEVOdE9FNEszYnJVV3Bndjl0M0daLTM3a2ZET0s0N21YTFE0NHIzQS1jTUxWQlhsOVZJa0lyRy1leGxGVmRTbW5uVWMw?oc=5",
       "s": "Investing.com",
       "d": "2026-08-27T14:11:00+00:00"
+    },
+    {
+      "t": "기준금리 3%로 연거푸 인상...\"물가 상승 조기 대응\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2SGMtNFNLTzgxa3hBNGxvcUlYVEtWa3VsQ2REVHJ5U1FIQ2FuLWk4MjFvSm1KSXFhY3BzT3FEZHZzM2lSNW5BTHZuVjN1WXRBODNkcG5RTHA4cWZYRlE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T14:07:00+00:00"
     },
     {
       "t": "미 달러화 강세…연준 연내 금리 인상 기대감",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lT2hkRUNPcU9temRfbi1FeUMyNnhyTnB5cTZ6QWVrSGpHNVBLMzVyckkxaVBRY0dYVEU1cTlheENpX1dZaS14TWl0UHJBRjJ3cE9wRTVrZWVocVZIOEE?oc=5",
       "s": "YTN",
       "d": "2026-08-27T13:31:00+00:00"
-    },
-    {
-      "t": "트럼프 행정부, 반도체 전면 관세 검토 중…\"자충수\" 업계 반발 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzdTB0c2JwcUJ6V1U4RGJMQ0hGZE1GZ3UyNTJXZDJMRUhWalNBd2lHZ2lIU3BERGlfdlFlcEluR0dSanRlWXBZcjFTeHdhQ0RnS1Z0OVJRTXF3SDVFVGRhczVrdVo3TGVR0gFuQVVfeXFMTTVHWUxiVURQNE5vT1hIdGNYa1dSNlNuMlhlMVZ3d1A4MTZhZ2xSYVdpdV9YQURxdEhRdFhYaW5GY1pZUjZqME1DU0lPTXVwTnkxay1mVXQ5ZW83SkRraU1xYnFUWVVPcUtkbl9XYnc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T13:29:19+00:00"
-    },
-    {
-      "t": "서울 중저가·외곽 아파트값 '들썩'...금리는 변수",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sSVprOFVzcmNXdk0wR2FCdnpHbWUzcjJlRkhsbFZuaWdfZ18yUHhKM0lPY3J5aVl6NXJYSTlNaHlsakRMejltNWdrNktRRk5TN2pPZ2huVlhSMjNTRHc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T13:29:00+00:00"
-    },
-    {
-      "t": "폴리티코 \"美, 반도체 전면적 관세 부과 검토 중\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BeWN5WWNEaGdURWFxTk9DMXg3ZlNLbmhlX0ZYckxGYnBlMERDM1k5YXNZUGNHcG5qMGRIY2xEUmNRbmVfZGYzaEVUYy1leHlRRGEzS1ZIcm9xblp5VGJKaVp0N3BJZVV4dDRVbUZZQkN5QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T12:55:42+00:00"
     }
   ],
   "asof": {},
