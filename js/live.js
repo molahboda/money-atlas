@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T00:45:59+00:00",
-  "quotesAt": "2026-08-27T00:45:59+00:00",
-  "newsAt": "2026-08-27T00:45:59+00:00",
+  "fetchedAt": "2026-08-27T01:00:59+00:00",
+  "quotesAt": "2026-08-27T01:00:59+00:00",
+  "newsAt": "2026-08-27T01:00:59+00:00",
   "quotes": {
-    "kospi": 6969.23,
+    "kospi": 6926.93,
     "spx": 7675.7,
-    "nikkei": 66286.73,
+    "nikkei": 66071.48,
     "vix": 15.21,
-    "krw": 1377.58,
-    "gold": 4665.2,
-    "wti": 81.6,
-    "dxy": 99.1
+    "krw": 1377.98,
+    "gold": 4660.3,
+    "wti": 81.7,
+    "dxy": 99.11
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 3.36,
-    "nikkei": 0.04,
-    "krw": -0.28,
-    "dxy": 0.18,
-    "gold": 0.58,
-    "wti": -0.92,
+    "kospi": 2.73,
+    "nikkei": -0.29,
+    "krw": -0.25,
+    "dxy": 0.2,
+    "gold": 0.48,
+    "wti": -0.8,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "[포토] 코스피, '7천피 탈환 시도'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLMUhmUHhWWXpSTnllcDNQODg0YUhUS2ZpV1dfMEdXYXZEYmtBVmlaaFBqdWx1bmNRZ0I0VGpWVlQ0OU82X2F3bVVMOHlqUUhNQllFaDAzNklMaEhoTFdJeQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T00:36:07+00:00"
+      "t": "한국은행, 기준금리 3％로 인상",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEc0S0FYVWtQYXR5ZnhBR2tJTE02d3djV1FUV0VyR3hrb3MzRjZLOFZreXBJU2VEWE5SVXYtZU9aVmZTVXItYmJsWjBjY3RudEczUUFtVVJtb1hqblNrTnhCWlN3UE0ydGRQNDF4SkdCOEtiOE9Jb3MzUmVveWNsWXhCLTZyZw?oc=5",
+      "s": "TBS 서울",
+      "d": "2026-08-27T00:58:00+00:00"
     },
     {
-      "t": "[포토] '7천 재돌파 앞둔 코스피'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91OUlDSW0wdlR0cDc1WmFVeWxSeTVVYTN6dkFSZWJFMl8zV21sVTZ3X3hPV2ZEZjdXMjlDbkxza3Q2NTZvbWtMX0dSQ19sVUVQVURFbE9CNEFHQWFjWDYyXw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T00:34:43+00:00"
+      "t": "에이치케이, 상반기 수주잔고 전년比 141% ↑… 반도체 팹 증설 수혜 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1NWxfVTMzdXdjMkNhSzZfY0d0anozaHJpelRhT1l0WEVSRmR1bHl6NGZSOXY1OFprOWgxdF9NTjJRek1DZzY1c0FvU054RnA2aDNqN2pVaGxoSG1aYnN5X3RLRHEtSDVQ0gFuQVVfeXFMT2U2MlVSNXZwVXFtX2JxRHRpb0I3UUo5M0xhb0JiSDZfbVI1NjFuV3J1Y1Y3QjFiOEdqdy00TjJnNnNmNExkOEdwRDR3Y1lJZENVMGVPeFQ1V0lpTmxxMnhHajg0TXA1aHVlY25uS0E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T00:57:04+00:00"
     },
     {
-      "t": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcVFsTXl1Q0FtRVNTSG1Lczd2SnZURHVQUVRSd0R6NE9uUm5TelR2MGV5QkNES09KUzlWd2psZ2VWOURXZjdHVkdZXzFmc1U?oc=5",
+      "t": "[속보] 한은, 기준금리 연속 인상…연 3%로 올라",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VenlCQTdSYmhBWjZQUzNmRm9PMzJ0MUdCdGh4SmREc3Z5dXM1U0FsNEpzRmVrZ3JNaExaOUtUNGVJam0yZE9vMmpPS2pFbC1pWjA2X1dMMWpreFlJNWY3aWRrSFpmZ2c?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T00:57:00+00:00"
+    },
+    {
+      "t": "한은, 기준금리 3% 두 달 연속 인상…성장률 2.6→3.3% - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SZ2NRMW5Qbmc0OTAwcEREcGhLaGtsNDNvVmZfbG1XZ29ETERIaUFYWjlIbmhBcHRvT1hQOF9ULVdLSUdsZlhlNXk0ZUFPNmhjSXJENk8xVmNwUGdEajRYVmZVTWtkZV90VEZn0gFwQVVfeXFMT1pnaVFHOThSQ3IyOEwtR0Q4V3M0MFl1NThKbzV6MmYxSjBVWmYtLS12UzFzakJ0YTZDWm41dk5pc0YzZzdwM1UwenNuVWR4d0pwRmVETi1DZzNvMXFrQUp4U2VZajAySzg0Z1JwelIwRg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T00:55:12+00:00"
+    },
+    {
+      "t": "한은, 기준금리 3%로 연속 인상…물가 우려에 긴축 속도(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HNGdtU2xZbzlkLWkycWxxa3NWZVpmVGIxakI3dUtMMVByV2UtUW1VRnlfa3hrakY2MmZhM29WeHdpa3JBaU16WmZqa3dFUWs?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-27T00:34:18+00:00"
+      "d": "2026-08-27T00:53:57+00:00"
     },
     {
-      "t": "[포토] 코스피, 장초반 2%대 상승",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EV1FpcVpxdF94bm9FVm1BWkNzN00wSmJLeW5jZ0RDTjNNMzVPaktpeHFzVGxJN3Q5blBURGMzaURQaHNLcUNEX2RJbGRqb0hzQUpGMFk0cGNKd0xJX1pFcg?oc=5",
+      "t": "[속보] 기준금리 3%대 복귀…25bp 인상",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51UjRKaGtzUjBQMFRQZnpUNklyYjJNOW5VUHRiNU44dFUxcUhiY3Ffby1XU0FmTVVJbWFDa3NCZnQ0YV9UZ00yVUZwaFlnVDdCV2l0WnIwSGM4Ym8?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-27T00:53:52+00:00"
+    },
+    {
+      "t": "[속보]한은, 올해 물가상승률 2.7%…내년 2.3%",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UV2E3S3FiZ05hZDhnc1BGbzEta0R1OVVwU1RDNGppRVk4U2Rxay1rc25ETExUWXFNd3VZTkxHYUtvamlCYXRnNWlQS1VucXltU3VLUUdqdzVlQ2N0VG9pbQ?oc=5",
       "s": "아시아경제",
-      "d": "2026-08-27T00:33:39+00:00"
+      "d": "2026-08-27T00:53:03+00:00"
     },
     {
-      "t": "[포토] 코스피, 2%대 상승 출발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSF9xYzhvUGUtT3BxdDRSSklMMFNKZ3dmU0pzcnlXcGNMbGNkbnpIckZoSEZrTVlLejA4c21ZOEVMMXcxZnpGYzdGNjFQZU9LWEZESHdjUjh5TXpXZy1waw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T00:32:57+00:00"
+      "t": "’트럼프 관세’에 베트남 웃었다…중국·멕시코 제치고 대미 흑자국 1위",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KUnk5M1NsLUlBQXNhb3NiS2s4RDlwVEdYUmNPeUtEUVlXVTFSdVg3YzZfd0xYdDJrMVM3dnlUVWNiYlN6dE9BSjZPS1JjUjJXZXp3dXZqU2RIdGtmSzl0SkV6NWxhUUU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T00:52:00+00:00"
     },
     {
-      "t": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OY2FuSEVORnBZaUk3LVlOMTNKaE5RS1hDLWdWRjctUzJUeTUtZUYycmdzazhGQ3R6TFo2R2l6X19INmduV0NYVEVTOHNDcFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T00:32:38+00:00"
+      "t": "[속보] 한은, 기준금리 2회 연속 인상…강한 성장·물가 상승세에 초점",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ubm5hUmNOZmd0TjBiUFlnWHpuR1Q5eC1qN0Rqd29aN1ZqZjgxZHByUkgwb3h6Sl91cjcxN1FnX25wSEJWVXhkYllNVlZFNDg3VjAwOUNn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T00:51:00+00:00"
     },
     {
-      "t": "기후부, 반도체 산단 용수공급 관계기관 회의",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RnluUXBNdU15RnFPVFMzVDJHTjZPbDcxOE8yTDM2LTViXy1rUm1CWG5pcXBDYi1OTTc1RlF0eXBZSnVjTDF4NW1XaVh3VUNBZm85WWZFaU5wX01haU5Kbg?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-08-27T00:32:35+00:00"
-    },
-    {
-      "t": "[포토] 7천 돌파 앞둔 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1na2tNelVRTUVGQW9fc1F0VEZVN2RadEYxSjdTVGVwTUs1UXA4RzBTU3YwbDd3RDd5SWVfNWw3a1I1MEpWc0FfbzQ3SHZHT1kybUxuTnZiQzZLN2ROcGJCRA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T00:32:24+00:00"
-    },
-    {
-      "t": "日 증시, 엔비디아 호실적 힘입어 강세로 출발",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ay13Y1hhN0lFS3g2WmtuOEpNMUROM25wOFNmOHRZaTV0Vm1uekllVGU0bE56c3hUV21pcTN1YkZ1TXpkWHJCSkZSek80RlBGMFZkWXYyLWZRQ3RvNnVZc0Zsd3JRUWNmWVNmTHZKaVNOdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T00:29:16+00:00"
-    },
-    {
-      "t": "주담대 '8%' 시대 목전…묻혔던 장기고정형 대책 재추진",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE53REF0eUQzYjhaRmdIZDNWY21jV09uWEdOVG9YV0llbjNBeXI4ejJodWVyUmYyTWs4dGNxZzV6RGRCekV1d29iWmNobDN1b0FLWXZpU3VkNlg3cHlPaE5Qc0NKRUtUVEhHQkZFRy1TR2RfZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T00:26:44+00:00"
+      "t": "[속보] 한은, 기준금리 2연속 인상…연 2.75→3.00%",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JSGZldW8yc0ZXRktDUmRvbEFyUmwzYjg1OUFqQzMwbHVMbV9wQmVTaFRyVnY0ZkJ3TkJJZGppbm1jaDNTZEh5WlIwaGhqOTZaSnpsZQ?oc=5",
+      "s": "JTBC",
+      "d": "2026-08-27T00:51:00+00:00"
     }
   ],
   "asof": {},
