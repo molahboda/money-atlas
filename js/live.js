@@ -1,40 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T17:00:59+00:00",
-  "quotesAt": "2026-08-27T17:00:59+00:00",
-  "newsAt": "2026-08-27T17:00:59+00:00",
+  "fetchedAt": "2026-08-27T17:15:59+00:00",
+  "quotesAt": "2026-08-27T17:15:59+00:00",
+  "newsAt": "2026-08-27T17:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7737.88,
+    "spx": 7739.98,
     "nikkei": 66131.98,
-    "vix": 14.49,
-    "krw": 1381.16,
-    "gold": 4666.4,
-    "wti": 82.85,
-    "dxy": 99.12
+    "vix": 14.45,
+    "krw": 1381.26,
+    "gold": 4666.2,
+    "wti": 82.84,
+    "dxy": 99.11
   },
   "daily": {
-    "spx": 0.79,
+    "spx": 0.82,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.02,
-    "dxy": -0.05,
+    "dxy": -0.06,
     "gold": 1.48,
-    "wti": 0.75,
-    "vix": -4.73
+    "wti": 0.74,
+    "vix": -5
   },
   "news": [
+    {
+      "t": "클리블랜드 연은 총재, 금리 인상 관련해 \"지금이 행동할 때\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1V04yRXhxYTNEQ0V4MlczdEllQm5RVlBuU0x4MElDT2pYREpkcWIzVnN2OFdpTWpNNGNHYzlwNTNGTm84VU41STk2VnpZRjVhZGh5b25WbGZjMjdwQkdCMmxWY1NreUFWUTZEcVRtRng?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T16:50:29+00:00"
+    },
+    {
+      "t": "치솟는 美 물가·국채금리…'잭슨홀' 워시 입에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZnVRN3BySkNUOGU4d01Wek9DZU0yLU95VVdneVl2U3I2ZUIyMmVJZ1hnSkpNanY2eXNCempyOE5DcGRVbzNDdF9Db2diYjR4WTl4ZWZwbl9vdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T16:47:00+00:00"
+    },
     {
       "t": "금리가 얼마나 더 올라야 주식시장이 타격을 받을까?",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOVJJWWpkU2tGanpXYjI0RWNWcGZkSTlyVEdVRURMWjRjQmF6dThBczhMeU1HSzlBa0NwWkMxY3BscklfS29DUm91N2ZBLVNuQW0tb010VmNONDFVRmJnMEhPOGl2QWNBQkhrTTEyTjM?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-27T16:46:00+00:00"
-    },
-    {
-      "t": "파워볼 분석법 더블유 - 시대별 변화와 영향 - 업계 전문가들의 조언",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MVHZBb1h5ZG9xWnUySkVJNUhKSXVqQi1SdmpzekYyUmFlTDgxRkhwZzNZcXM4ckJLZFlkNDFhbFlLUDhmbE5UMktCX2JkYmI5V05DRU54RElUUQ?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T16:34:05+00:00"
     },
     {
       "t": "피시방 룰렛 : 흥미로운 사실과 통찰력 있는 분석",
@@ -61,14 +67,14 @@ window.LIVE_DATA = {
       "d": "2026-08-27T16:08:00+00:00"
     },
     {
-      "t": "엔비디아발 AI 낙관론 확산…나스닥 선물·아시아 반도체 동반 상승",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJQbmVXaXNWTWlWX3VqaG9vVlBWRWxaRVhBX1NNR2VwZnZLM0o3YmRiOFVFUzJOSUdETmd6b3ZsQ0s4YXVYcUZFM0xqN3RaLU9pT28tN1V5YVJ2SlB6QS1mRE9MVURBRG5aSmxrZVF1bUZ6TVVhbWpYeVRXeXhmcWxGOGZKRVNq?oc=5",
+      "t": "美 물가 3.7% 고착…실질소득 1년간 0.2% 증가 그쳐",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXkwLXQwTzBMUm1xREpmMWtRNWROaE5XS3A2VlpvWDRoNHh0dU1CdmRDMDdTUTRSZ1FxbkprR0xMcG80eDNnMk1nQm5kMlBkT3hsYy1NZU9aVGdvUkxCUXRDLXdUYXlBcnhGWnRWaW1WRVFtRTJHMUozZ2RaSlVSeTdaeXp0RDBx?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-27T16:00:00+00:00"
     },
     {
-      "t": "美 물가 3.7% 고착…실질소득 1년간 0.2% 증가 그쳐",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXkwLXQwTzBMUm1xREpmMWtRNWROaE5XS3A2VlpvWDRoNHh0dU1CdmRDMDdTUTRSZ1FxbkprR0xMcG80eDNnMk1nQm5kMlBkT3hsYy1NZU9aVGdvUkxCUXRDLXdUYXlBcnhGWnRWaW1WRVFtRTJHMUozZ2RaSlVSeTdaeXp0RDBx?oc=5",
+      "t": "엔비디아발 AI 낙관론 확산…나스닥 선물·아시아 반도체 동반 상승",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJQbmVXaXNWTWlWX3VqaG9vVlBWRWxaRVhBX1NNR2VwZnZLM0o3YmRiOFVFUzJOSUdETmd6b3ZsQ0s4YXVYcUZFM0xqN3RaLU9pT28tN1V5YVJ2SlB6QS1mRE9MVURBRG5aSmxrZVF1bUZ6TVVhbWpYeVRXeXhmcWxGOGZKRVNq?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-27T16:00:00+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnRGVl9fUGVDanpOWUg0ZGRDdlcyZ1FWWlBuRUo5MWh5aVg2bmt3cWRVb3ktSDZGalNLc1JJSFRHbUZaX3I1eFl6dFZPSDZ5cXA4SDNPY1lZRzZ4TVo4ZnRtSWlMb29UMDVuNTFWbHZDaTVjYThXbG1HZy1BOUIwaW5KMkIyYkxqOHE0TnVB?oc=5",
       "s": "조선일보",
       "d": "2026-08-27T15:54:00+00:00"
-    },
-    {
-      "t": "반도체 수율 10% 올리면 100조 번다? 제조 AI(M.AX)가 바꿀 대한민국의 미래 (ft. HBM, 김정호 교수)",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NUVLTnB3Nmc4XzdxbWtDb3l4U081SGxTX0NuZ1RicmE4TmRtdE1EWU1nQWtwX3Rya0didzRCZnJ2SEp6QTNxaG9Wd1JlVUFpcndBcVJYQzVabHhrNFZqeU1URFFIM0F5eEVDZA?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-08-27T15:53:22+00:00"
     }
   ],
   "asof": {},
