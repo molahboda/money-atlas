@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T17:45:59+00:00",
-  "quotesAt": "2026-08-27T17:45:59+00:00",
-  "newsAt": "2026-08-27T17:45:59+00:00",
+  "fetchedAt": "2026-08-27T18:01:00+00:00",
+  "quotesAt": "2026-08-27T18:01:00+00:00",
+  "newsAt": "2026-08-27T18:01:00+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7733.16,
+    "spx": 7730.85,
     "nikkei": 66131.98,
-    "vix": 14.62,
-    "krw": 1381.03,
-    "gold": 4663.8,
-    "wti": 82.7,
-    "dxy": 99.14
+    "vix": 14.66,
+    "krw": 1381.09,
+    "gold": 4664.1,
+    "wti": 83.09,
+    "dxy": 99.16
   },
   "daily": {
-    "spx": 0.73,
+    "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.03,
-    "dxy": -0.04,
+    "dxy": -0.01,
     "gold": 1.43,
-    "wti": 0.57,
-    "vix": -3.88
+    "wti": 1.05,
+    "vix": -3.62
   },
   "news": [
     {
@@ -41,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdjVhenBwRHhfX2JmVnR2d3RnSk9jT21LM2FvZlZrcFZXYTB6RVB6Y2lMZGxDanFSLUwzcUFKMU9PZFdkN2tIQU1SQVNOMlE?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T17:18:42+00:00"
+    },
+    {
+      "t": "기준금리 2연속 인상…다시 '3% 시대'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HSmhLVlV5VlRlenhTZ2N0NkVxdHpraEtER3B3Vkw5YlVZVDVTMjkyM1VqYjNLMlNqakF2RDhhclZ6LUZXeW5FZUkzdk16QzFPaXdocVVIM3R5UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T17:13:00+00:00"
     },
     {
       "t": "클리블랜드 연은 총재, 금리 인상 관련해 \"지금이 행동할 때\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrS25fX1Y2RDdYQ1dJMl9CLVl4Z0pobUlIQVlfZUIyZndLSlVicWM5ZGw2MVA3ZG1uVFlmNEsxY1U4YmVMcm53TmZRME9Yd3J3Q0pobzdSSmk?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T16:13:31+00:00"
-    },
-    {
-      "t": "신현송 한은 총재 \"선제 대응 위해 금리 연속 인상\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UmxFa0V0Yk5wbnQxaEpFRDByZTBVN194a0FnREJPNDFzendvRkYxbFN4QlhkOGZYc3VhdXNoR1FVQUdmMFBlM2RRTXIwWklLY0hIb0xLSERPU1BrOFE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T16:08:00+00:00"
     }
   ],
   "asof": {},
