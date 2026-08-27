@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T19:00:59+00:00",
-  "quotesAt": "2026-08-27T19:00:59+00:00",
-  "newsAt": "2026-08-27T19:00:59+00:00",
+  "fetchedAt": "2026-08-27T19:15:59+00:00",
+  "quotesAt": "2026-08-27T19:15:59+00:00",
+  "newsAt": "2026-08-27T19:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7716.84,
+    "spx": 7719.83,
     "nikkei": 66131.98,
-    "vix": 14.71,
-    "krw": 1381.53,
-    "gold": 4660.4,
-    "wti": 83.78,
+    "vix": 14.63,
+    "krw": 1381.74,
+    "gold": 4667.7,
+    "wti": 83.8,
     "dxy": 99.16
   },
   "daily": {
-    "spx": 0.52,
+    "spx": 0.55,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0,
+    "krw": 0.02,
     "dxy": -0.01,
-    "gold": 1.35,
-    "wti": 1.88,
-    "vix": -3.29
+    "gold": 1.51,
+    "wti": 1.91,
+    "vix": -3.81
   },
   "news": [
+    {
+      "t": "美 뉴욕 연은 \"관세 26% 소비자 전가, 1년 걸쳐 완제품 잠식“",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFg3R3B6VHlCNnpIbzZObks2SFdtV1VwNGM0UXVPRFFkNUg5THlYLUFBeFE3VEsyaWtLalJqcjJxbzc3RWc0NXB2czlsdHFpanhhQlpwaWJkX2JmTWJ0MlNFZHRKR1pGRkNEYnFXUTI5dlJhNS1YTXI4UmFzd00zSF8yVzVDdTA?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-27T19:05:00+00:00"
+    },
+    {
+      "t": "\"금리 인상 선제 대응\"…한은, '백투백' 뒤 속도조절 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhcXZOdWRWd3RKT0JQUWJkQTlfMGNhVk9xamQ3aGtYS3o1bGx6YjNQMndGWEJqREVEZHc5UVZEZ2V0QnI2RFdKYVFqYnJVNUxlekRjc1dyVGRzemxzT2xFSDZmM0pPbFpselhaOTI0azdXN1JYcW1reNIBfkFVX3lxTE9DR1F5Z3JtZ2JlVHpER2VRbF9qbkRSZHNXLXkyeTU0Y3ZYMDhWbmN6aTA3clhRZGlIQ3QtWldhTjBLaXJXd29kd2JRbE53U1RMNU5wcmdQemYwZE5Wc2JLaGVYb0FNNVhCbFluWGJzeUs0Vk9walY5SDhWa0lPQQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T19:05:00+00:00"
+    },
+    {
+      "t": "금리인상에 엔비디아 효과 '무색'… 칠천피 탈환 실패",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0UXdKTkpfWG9BOWFHNGV4bUtjenJjYkM0ZWpOd29zNzA1eGVKLTY1Y1Jnb1lMQlZkdWprYmhJQ3NVWlVCNmdzUDVzeE9TRUVDbTk2Z29DVVNHakFiQVRoeGN1WmNXVmFh?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T19:00:00+00:00"
+    },
+    {
+      "t": "대출총량 풀리는데, 금리 날뛴다… 주담대 '8%' 찍나 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2Y1hULVFmZXFJbEk0QVh5Y0lQQlJqZFBhcHNuNi1pMzZIeXI5NWpRT09UTHc5RkE5T0dPWFBZRlFRclRJYzNWMnBjdTNFcTlYbXJlTG1OMHFVbUtLajM2ckNfSGcwTDJDTjFV0gFwQVVfeXFMTzVlc2tKVlQyRlZQYUNROEQwXzBGZzRhbUY0cnZFSk1OaFZTdEhNTWQ5U0Q5Mlk5NG1qbFBDVnV1djVPaGQ5cU5TeUFEUlZJWkFZelBvUHNIWkpESjdnOTZocllOQnpfbTEwQm11U3FPYQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T18:57:00+00:00"
+    },
     {
       "t": "기준금리 3% 시대… \"물가상승, 선제대응\" - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZUZnazZLd0MzdXhXTGNKM2xZZDVWYlNTZVVKaE5FcjB0M3ZZcEVXbnl0c1NySklvZVJMTm9aajJXaWlfYjd4R0x1MTlKU2VNbHl1U0kxSUh2eEc3TFdYQjNuYzZzaFZrRDcw0gFwQVVfeXFMUE96T1N6UjBHcTBFa2lKYkVZYm1BbWQwblRUOVJ2cTNkNGZDY2hzT1hpVmRhTnJiWDRwMkphLUxsTjcwTlROM3RUVXI4Y0xKbkZiZmYwMWlCY21qZDVhNGFhSG52dEd1Zm80Y2U4ZVFvcg?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSGdjZDhxWHdSTmZRY01HWFVFZk5IU2RodzNJNnZReUNncGg3ZENoRDktc3V3c1l2c1NtVjBKOGl4YVlnaFFjbGE1Mmx4OV9TSHQ5VmdFeDVKUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-27T17:35:00+00:00"
-    },
-    {
-      "t": "연준 해머크, 연말 인플레 3% 전망…2027년 중반 2%대 도달",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DYW5IWVhxcFJjeUllbk00a2NmMmpveHFEQW9NYVE5OTdsdk41eFdGMnE1dzlyN1BqTFRlS0hnUDI1aVNBaEdOMWJ0eGZoLVAzLThPVjVjc3ZNLUh5OTFINGxXX0hLSkthTm5ZZnZDWWw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T17:29:00+00:00"
-    },
-    {
-      "t": "주요국 내년 증시 미리보기 [한경 프리미엄9 TODAY]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFRnVPdHJ6Sk14czNUbXBiLW1oVEVQLUlfY05lNC1ZdUZnUkVkQnBmNTlwUDNnQnB1WUppWEtyLUZhX2xZVklMRk9UelVCcmVta0FqOGxjcGJWdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T17:27:00+00:00"
-    },
-    {
-      "t": "[인터뷰]칩스법 주도 영 의원 “패키징만으론 부족…반도체 모든 영역 투자 필요”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrOXM0Z0p1ZG5VOVgtWGUtUHY1b3ZhdlIyOHFmTmRLTlRUMzBjR3g4Xy1aVnVVV3BfNVZUazVsbGwtbzlJbTFkTHllNHNmb0RJMTdRRjVSRnNJUWs5aU0tWXBQZHQ2WFZxRjlMWFRhYw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-27T17:25:00+00:00"
-    },
-    {
-      "t": "[현장]곽노정 \"반도체 강세 이어질 것\"…추가 투자 어디든 열려 있어",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdjVhenBwRHhfX2JmVnR2d3RnSk9jT21LM2FvZlZrcFZXYTB6RVB6Y2lMZGxDanFSLUwzcUFKMU9PZFdkN2tIQU1SQVNOMlE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T17:18:42+00:00"
     }
   ],
   "asof": {},
