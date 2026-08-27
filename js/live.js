@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T20:00:59+00:00",
-  "quotesAt": "2026-08-27T20:00:59+00:00",
-  "newsAt": "2026-08-27T20:00:59+00:00",
+  "fetchedAt": "2026-08-27T20:15:59+00:00",
+  "quotesAt": "2026-08-27T20:15:59+00:00",
+  "newsAt": "2026-08-27T20:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7730.79,
+    "spx": 7730.99,
     "nikkei": 66131.98,
-    "vix": 14.49,
-    "krw": 1381.47,
-    "gold": 4661.9,
-    "wti": 83.72,
-    "dxy": 99.16
+    "vix": 14.54,
+    "krw": 1381.65,
+    "gold": 4658.6,
+    "wti": 83.63,
+    "dxy": 99.14
   },
   "daily": {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0,
-    "dxy": -0.01,
-    "gold": 1.39,
-    "wti": 1.81,
-    "vix": -4.73
+    "krw": 0.01,
+    "dxy": -0.03,
+    "gold": 1.31,
+    "wti": 1.7,
+    "vix": -4.4
   },
   "news": [
+    {
+      "t": "[뉴욕증시-1보] '폭발적 성장' 엔비디아 9% 급등…3대 지수 동반 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTm1JUmg3OWZ0c19za2JBUHl0SGVrM1pMSnlJSFBlLVVVTjEyTzV6QWRUeVFpWFFkTUUybXlwTnJHSUhrNkxxZXNIdVUwZ3hQa20wc3ljbXlaUmc4UnBtTVFTX3huNThOVlRHZ2NubXA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T20:08:55+00:00"
+    },
+    {
+      "t": "[사설] 기준금리 3% 긴축 시대, 한은·정부 정책 조율 필요하다",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHdYRjZxQ0RKVzlVS2phZV9kVTBmN0U4S01Oc1NESnh5SnczdjVoSncyaVpyVE1RRTg5eDdCVHpwOTQzcWpiV0d0cnhJdDlYU3hDRXFvcDZOMThKb1FYX1Y2em9Jc2JtWGxRVm85Mko5Sk1MQlE3MzNveGNtZjhKUQ?oc=5",
+      "s": "edaily.co.kr",
+      "d": "2026-08-27T20:00:06+00:00"
+    },
+    {
+      "t": "베선트 美국채 개입 후 워시 시험대…장기금리 해법 엇갈릴까",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BZ3ZxY1NOSDdDQTQwMlVJMC1nQl8zamdFSy1vUElRM213aW5TN2ZyMVNaZlBaM2t6OElCQU9qaHRQRkQtVlNjN2dyQ2E2UU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T19:57:00+00:00"
+    },
+    {
+      "t": "[글로벌 비즈 브리핑] '통화 정책 신호등' 美 연준 잭슨홀 개막 外",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14eVk3MTNQVy1Na0t3cDdZN0Q5c1piV0F6aTBnU3dHRXRnVlBHYU1TXzBCRG9CMTRRdjQ2SEk5VzdtelFyNG9TWndJbGgwVk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T19:54:01+00:00"
+    },
     {
       "t": "sk 플래닛 블록 체인 : 을 통한 성공 전략",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyYzdQWF9mNllpRlphOVdsQlA2U212d2xFV21KOFFSTnJDRDBOWkhUZkdTRlRTa1Rvc05POERsWkhJWjFTUnM2M211c0p2U1VDR1V5V1BHS0hlaGZCZzFqd1JtUQ?oc=5",
@@ -43,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-27T19:43:45+00:00"
     },
     {
+      "t": "국제유가, 미·이란 협상 기대 약화에 상승…브렌트유 2.1%↑",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Ny0wU0JTS2pydHJoVlRLZFNGeUhRVkxNU2RTSjJXc0x0ZUhjdUJjVnpsVHJyTnN6WWRmeHpxbnplOVBsOWdDRmx1RU5tZktmaHZhWENQRTV2WFHSAWBBVV95cUxQamVudkdBVUhTZGRUMXczak85UjBZSFZyanpVYVNudzlLUmw0VWJJMnFXOGRmank2VlZWWFR4RlNuWllKalhnR0FoOTltN2ZVUE11aTJmaGhGbnl6cmNvWHg?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-27T19:35:54+00:00"
+    },
+    {
       "t": "“가래 대신 호미로 먼저 막겠다”… 금리 추가인상, 시기만 남아",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbFcwdXlaSHlXUzdEZ1FLZkdKTFJxU3k5SEg1Wl83UDRRSVZ1QUhBallLMWxfR3JSU0xVYVdhNlo4eVVtSFJOT3dxYk96VllTc1lCV0RZSnBQd2FDcGNfWXlQRkNHUWR6OWFsQlEwM2ZhejVaX3fSAWZBVV95cUxOVGxhd3g5b29XanV4aDBVQ0ZKd1dGLUxFcmoyVWdEQkdFNUpWQkY0NThvYTEyZXZYdVFid3pVbDJQZTBvWmlTZ2pJdFJkS2U0dldBZmhSTnpUZldXUldpLUR1SEQ0VWc?oc=5",
       "s": "동아일보",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxVy1jejJQZmoyb1VadkZZb1dub2JzZFJmU292TkVWeldsX0pjN0lyMGpVVG1nYmVkeVBHNUQya0F1Y0hqTlJpX1ZYNmNFZmVjU0tYOF9YRUNYVm9mSWs3LTZvbVJRNWdISUVaZWlCOVdYRFZGY0HSAWZBVV95cUxOR3JJTzRVb1hXR2tzUllBLWpWczd1WURhZ2RhVHZWSzJ2dmJvS3dSUWpxNDZoeDVhSzBocTFaY1VxQTdPMFpQWERRZ0dYWnV3MU1yeWFJVFk5UmdrTGJmYWM0US1WakE?oc=5",
       "s": "동아일보",
       "d": "2026-08-27T19:30:00+00:00"
-    },
-    {
-      "t": "기준금리 3%시대… “물가 선제 대응” 추가 인상 열어놔",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KSjNNZlR2dGhGTjNDbTdrVXZPUHhYZGwxRFN6LUNCV0hFRFdiR2oyc1ZSR3B6UllVa0JLOE9jTUQ4NC12ajhNOHR0SFdZYkdqZk1JRE9WNy15NzZ1SVJ4QjEyLXFCb2tQNm1Cd0pHYnVMME5pY1HSAWZBVV95cUxOUnRpUUlPdmc1VGpfNVpUaS13U21zUFNVdGpEMkRRYlRYLU4tZEhHMnpUQWhoVEEyTkNPTzRKRUktaG50OUJ5R0VLcEY5dnJONThzbHBzZEhoaDYzS1QyLWVyZnFadlE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-27T19:30:00+00:00"
-    },
-    {
-      "t": "금융시장 흔드는 美 국채 금리 쇼크… 주요국에 날아든 빚 상환 청구서",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44WWZDZ2hOMVM4OVpGTExZWE95QU5SaU1XOEVTZUJBZS1mUzUwTmlXdS1yWTJ3YVRJekdIYTgyTmZZUDBqa29wUWp4d2xHczJncDRRRWY1UUVXN0NqQ0RvRzk2XzZqX0pEMmZyWlJoU2FfZnPSAWZBVV95cUxQS0pHcFJ6TE14dGdIZHB2T29KSHRGY3pGdGptWmVhU0l4c3JsVG9Da2N6azRJSjlNYWhReWpLbHdEOWNtVGgwM3FBdTVsTDBOOVhCVTB1eUp4T0pSMEhaX2kwQzhDY3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-27T19:30:00+00:00"
-    },
-    {
-      "t": "주담대 금리 8%까지 오를수도… 영끌-빚투족 ‘빨간불’",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1La3FiS1UzTHNOYzI4T3VKQlBiTWppb21uV2tXOUZmcURQVmNOUTVNdkpQMlJaUHd2YXZMWlVnUkZ3SzdmUVRKRlRTajd4UEFpM1ZVbmY1YS1xTHprWFBIR0dULXZqYmFkQlQzWkt4WUF3U2VnWnfSAWZBVV95cUxOVlFiOHlPOTBYbjloeUNuaUo5MEJnVXFmZk11R1d3eXh1ZUlRd0YwSDg5dTV6NVdvYXFHa2pyZWN3eE93V3h2cXpPc2xubEtySXBtdGRlWXctajhUQ19Yc0dqNXlVWHc?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-27T19:30:00+00:00"
-    },
-    {
-      "t": "\"금리 인상 선제 대응\"…한은, '백투백' 뒤 속도조절 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QUGRtbXpBUGJlLVhSWVcyQVlCQVB4SV9ldkRiTVVtTU5kOXppQXNhTW4wZThsaUVRS3FpZFFpSEtWeXFqZTN2STh6UmFMdDdoSWlXVDNPdW1qa0ctQTBTdjF2aTJscDBJLUQw0gFwQVVfeXFMTWFscU55bk5VVG1BR0l2Y21mQ0wwZllpUXhfSzBfd1NaZ2JiQ1NIbmU1clVRbmtQR3NZSlluZkxYalRhNlh6Rnozakl5VFMzV3JsekNwSDVnS2FBRWJOVG91UXJoNGNvMlAyRTZmZndTOA?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T19:05:00+00:00"
-    },
-    {
-      "t": "美 뉴욕 연은 \"관세 26% 소비자 전가, 1년 걸쳐 완제품 잠식“",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFg3R3B6VHlCNnpIbzZObks2SFdtV1VwNGM0UXVPRFFkNUg5THlYLUFBeFE3VEsyaWtLalJqcjJxbzc3RWc0NXB2czlsdHFpanhhQlpwaWJkX2JmTWJ0MlNFZHRKR1pGRkNEYnFXUTI5dlJhNS1YTXI4UmFzd00zSF8yVzVDdTA?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-27T19:05:00+00:00"
     }
   ],
   "asof": {},
