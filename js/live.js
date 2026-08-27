@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T00:16:00+00:00",
-  "quotesAt": "2026-08-27T00:16:00+00:00",
-  "newsAt": "2026-08-27T00:16:00+00:00",
+  "fetchedAt": "2026-08-27T00:30:59+00:00",
+  "quotesAt": "2026-08-27T00:30:59+00:00",
+  "newsAt": "2026-08-27T00:30:59+00:00",
   "quotes": {
-    "kospi": 6808.21,
+    "kospi": 6971.82,
     "spx": 7675.7,
-    "nikkei": 66670.06,
+    "nikkei": 66518.26,
     "vix": 15.21,
-    "krw": 1382.98,
-    "gold": 4675.5,
-    "wti": 81.65,
+    "krw": 1381.08,
+    "gold": 4674.9,
+    "wti": 81.62,
     "dxy": 99.12
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 0.97,
-    "nikkei": 0.62,
-    "krw": 0.11,
+    "kospi": 3.4,
+    "nikkei": 0.39,
+    "krw": -0.03,
     "dxy": 0.2,
-    "gold": 0.81,
-    "wti": -0.86,
+    "gold": 0.79,
+    "wti": -0.9,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2w0akUxYW8teU1pQ2swSzFxVmxzTFdQY0E5VldhOTJwekFIZ1M5OUxlVkVSNFdSYVU3eWN6cFZNZU1EUzBVSWg3bUdZOEp5QTFtMFhCS040Y0NMNGJiU1dvNG0xX2tuQnlWN3R5Y1IzQlFpOTBfWGdKUTlLa2JLMUgzOGprejBl0gGcAUFVX3lxTE84bEEzaC1iTXZjaUowSmdsM0YzVHUwZ203TFBVbGIwMm5yUzR6T0ZlN0dXUTRKRUhMOGUxVXhHM18wdVJSNlNZeWhEcGRUcl9EU3VrVEZPR1pSMnpMTXdFX1NSUndsMFI4Mzkwbi12UDUtZ3U3Y05OZS1FTXNMQVlzdlk2ODg3UmszWUZrUUJHeHktR3NCaUlQUGNtZQ?oc=5",
+      "t": "[개장] 뉴욕증시, 예상치 상회한 물가지표에 보합..엔비디아 1.5%↓ By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiQVRwTlpQM0ZPQ3NtV3psVVpTMHBNZUpyNmtTQzlud0ZmT0d4V3BWS2lCUkk1MHY3Q0pRRWZHM0E3S1ZZUjhIdURYM3g3cVB6NkwyYVhtSF9jUjItSE84aGtPUnEtTHJoQlpDRlBlYlA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T00:25:00+00:00"
+    },
+    {
+      "t": "[이로운넷 주간 증시 전망] 증시 경보기 금(金)의 귀환",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrU3lqeGRIRkk4amFEU2ctM1B2MktnWnZxREJTWXphdjlNZFJzaXdGd3R6MmE4NDJWMGoza3ViODlTZGQ2c2F0YlY4Y2M1TjlGUmp5LXdxbzBhemdGdUlJMngxcllIZw?oc=5",
+      "s": "이로운넷",
+      "d": "2026-08-27T00:25:00+00:00"
+    },
+    {
+      "t": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNfZjVVczFfMGpOSkZ3MVk5WkRiRzJXRHF6MTdRQkNCeWh6M2M3Mm5DLWYzWEZUREppREk5WDNZMF9RZjlLOVhGVThzeUw3LWFCdkdmdkhPNmRlaFJNWUVYS25SYVNOaE1oaDBmakNvVE5sWUNMUmU1WC16N3ZBS2IyNU9Gd9IBmgFBVV95cUxNLVlUTzd5TnZWa0tBakNZaDF0dnJhVUJiZndPdmxyS196SWlrRWg0TjNrM01SbzJOOGhDTTZEQ3paNk9Qa0tqdXFSLW54NFV2MVhUbWp5bGRzajY0aVJ6aDV0X0FvR1laajVLaFdZZWJDWUFtT0o5WlUtcU0wRnlLelBQOHZMOElxbFFuSGxocVJwckwzRmpVQTlR?oc=5",
       "s": "Chosunbiz",
-      "d": "2026-08-27T00:10:00+00:00"
+      "d": "2026-08-27T00:24:00+00:00"
     },
     {
-      "t": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14SzVGVy0wUVB4OWtOQTc1ejRiZExQdVZlZjcwTG15SUV6Ym1OMmVOYUU3d0tmS20yR0RBOW53VDdXWERhS0RLZ0c2aml5N09sSEw1eWRHUTRPV0NTLVFKYWNXb3BvZTFoZElOejYwTmk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T00:09:54+00:00"
+      "t": "코스피, 전 거래일 대비 2.76% 상승 개장",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VWXZaRDB2M2oyMnpIUlJWR1plTVI0elBOdlcwRFhGRmpBVXc5cktmNVRCQktyMUNFQjZWTS1XWE1reU1qdFFZNW5Bc0Y2SWhaWjVabEJpX2JYaXBm?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-27T00:24:00+00:00"
     },
     {
-      "t": "가트너, 2026년 전 세계 반도체 매출 92% 급증…2,159조 원 도달 전망",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qTTNxaG9kbER3emhxam9sc2hpM2Z2YVpUNjU5TVlFMmxPSDVXR09VZGcwbDZxVHVQaThPREp6UTlTeGpYQ1k3WHNXZ3hzTjRValYxX08waWIyUlR6T1NZ?oc=5",
-      "s": "헬로티",
-      "d": "2026-08-27T00:09:15+00:00"
+      "t": "트럼프 관세에 캐나다 전방위 반발…에너지 보복론 확산",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFB5aVNnbWo0d2N4M2J5UXFPYlE4WjVxNGhRblN5b1VLTklidGtXOE5LRzEtekU1dWU5bUExN1BWbG56ejcwSnVvbzl3TTRVSy1sLWZrVUtDbTNIVVZWa3ozZzZ0REF2ZkFkalhTTHVzc3dldzBMYUg0OW9HU3hZQTU4aTlXNzlz?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-27T00:23:31+00:00"
     },
     {
-      "t": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15eG1JVW42Y3VqbjhRVFN2RjJXdTJzb3pvRXFTYU1RNG1xMmdPMWg0UEU1WUpKSjlqOVdkX1hBLXd6OThhU1RvR2V1Q0tndlBfRkJKY1JTbUFCbWd6TnYzVDNZRlM4czFlNVc3ZHQxdlnSAXRBVV95cUxQNkZQVzYwYzNyZnlMY1NFS2s2Zmc2ODhZU253TFI2SUdHT1cwRkVVMEdxQU1pV0FOSFZBVjBMSE9CN2NWeUZKUEpHTVhkLVFvWEF0d1g1akxBUkFjTFVES3BtSmVrY1lMblp1Y1NUbzIwZG12LQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T00:06:43+00:00"
+      "t": "‘엔비디아 효과’ 코스피 2% 상승 출발…7천선 탈환 시도",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lUW9mSGdtWlFsRUp3QXh0VXpGTXdxSmlHRFFoUUpPVGpMa0FTTmRocnJVZFVRR3RSMjdQQ1Q1NlRMNV9IcGFNRE93R2Q5YkE0UjUtalY3QXBkWlpZT210ZnlpakU3aVU?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T00:23:00+00:00"
     },
     {
-      "t": "코스피, 2.76% 상승 출발…코스닥도 0.19%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96RnpUZ1lncWE4WWh6WjRGQVpHc0Y3N3VfXzIxeDlVWnpGTWtPQmRvQ2phNlM5WTRULXFwY3puaXdpWVJIc3F2Um9ORjExS000LXdadnJ4b3BVWUpUVlBjU2Vpc0N4dFE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T00:05:00+00:00"
-    },
-    {
-      "t": "엔비디아 실적 발표...'반도체 투톱' 주가 영향은?",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5M0VVMUdXSXVaWGtuOFF1VzF2MHU4MGxoMG9UV1JFUDZIR3NqMGRDN19IN0JTajc2TmdtMGxkX24yM3FOenpEVktKYVdMOTNzWmUyaFJkT2gzRFpRVmc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T00:05:00+00:00"
-    },
-    {
-      "t": "국채선물 약세 출발…美금리 추종·금통위 대기",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVjNoQUJpcVBOSFk5a01YWDNQRWlBNlBvRkJ3bzBvRXZUSzk4NUJsSG5RSllnNXBKNjFlNkJpUm5zTE5qWjJFNWotODZkLVFiN195QmlPRnUwZ0dHcjZnam9TRHAySDN4ejREZHhqU1V6Zw?oc=5",
+      "t": "연준 쿡, 백악관 해임 시도에 \"법적 근거 없다\" 재차 반박",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjLTAzSEZWZlR1akpPVjVRYm5BWkpGYzlUVllyendITWNqdl9ZSjd2S2VhbU9aaW0yaDVnNFVXdFBVWmdhZUlTckp6QXJaWDNIQzBQaXhmSUFqejkyb2pNSG5ISnR2ZHdpZEhfLUc2QWRnUQ?oc=5",
       "s": "KB Think",
-      "d": "2026-08-27T00:04:39+00:00"
+      "d": "2026-08-27T00:18:20+00:00"
     },
     {
-      "t": "금값, 3개월 최고치서 후퇴…美 물가 예상 웃돌아",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZSWE3QWFYMWpBOFdMZ3VHN1J0YXI0Qk9oc1JvdEFzTU5OcDdzUTJwZXNBT2R1cUVhZFRrM3pjX3VTaWJkRjY1cFhXaVM0cG5GR3BZUkxpX0JGbFBGLTg3YTVFRQ?oc=5",
-      "s": "더구루",
-      "d": "2026-08-27T00:04:34+00:00"
+      "t": "[외환] 금통위 경계 속 낙폭 반납…1,380원대 중반으로",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03WDNzbnYwQ1REYldVcGwzRmtQUk1pT0MzMnRScG1UeGM4VXNLanI4X2h4ZWcta1VMV2I4WVJ1dGNOZ0pfc0w0S08zM3VFTnJtZU9TQnhla2t3ckxUZ2ZrZWZOZVZiaHBkV19tVV9YOXFqdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T00:18:00+00:00"
     },
     {
-      "t": "코스피, 187.91P 오른 6996.12 출발(2.76%↑)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaWVVCeEV2dV9pQnZEdGp0Rnh1OU9pRm1uTUVzZzA5dnl6OTJ3aE1iYWhwNi12dHZ6Tmh0aXRrYTluWVhjMURJR2NTN01XUjhjX1E5MEF2U2hHYjR1Mmc1Xw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T00:01:39+00:00"
+      "t": "[개장시황] 코스피 강세에 7000선 '근접'…엔비디아 효과에 반도체 급등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuZTlXZ2R5cWZDTi1NbHNmdzhGLXFtcHRxWXFXMmgwWlZyYWxlVHNac05jUWVXNS1fM2txNmlHSHlSZ1lCVzdPMkhXZDBaazBBSHNHNkdGc2F1MEVW?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-27T00:17:00+00:00"
     },
     {
-      "t": "[스팟]코스피 187.19포인트(2.76%) 오른 6996.12 출발 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Q1hQYkUzTlluRFh2UHZCWkM5TnZDLVBSa3dFNDFBU0dsUzVNTTh6cndwSjlUdnA5NjZ0aEhZVnZQLWNFYkJobGZuYnRqdlNpRUJ6aTFfLXpFeE1qZHdaT0YyX2hoN1Fj0gFuQVVfeXFMTjEzaEQ2SnhGV2JIdWZ1b25hYXpfWXFVbmZMM1VFQ0M4VHkwaE5zUENHRHZtTm1vODAycVdSa0xuX09qY2ZPdTdlTEMtOFpHc2xLMGtjc2dlMlAyVUdBOEt1UFdBbjItazVadXdQbkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T00:01:06+00:00"
+      "t": "금리 동결 때와 같은 넥타이 맨 신현송…8월 금통위 시작",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGX1dqN0NiWWtCM1M2OWNjS0JNdVQ3b1FsdHFJMjNMQmJ3YXBiVXJOQS12YzR4M285VWwzSXRiTVZ0VHBpRndRM1paYU5mUTQtNGFCbXlDTENQTXFlQVZhUmJyZkVQcVBxaVlHU2lseEZIZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T00:16:00+00:00"
     }
   ],
   "asof": {},
