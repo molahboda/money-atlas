@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T15:15:59+00:00",
-  "quotesAt": "2026-08-27T15:15:59+00:00",
-  "newsAt": "2026-08-27T15:15:59+00:00",
+  "fetchedAt": "2026-08-27T15:30:59+00:00",
+  "quotesAt": "2026-08-27T15:30:59+00:00",
+  "newsAt": "2026-08-27T15:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7727.59,
+    "spx": 7719.35,
     "nikkei": 66131.98,
-    "vix": 14.49,
-    "krw": 1381.85,
-    "gold": 4647.5,
-    "wti": 82.18,
-    "dxy": 99.15
+    "vix": 14.45,
+    "krw": 1381.23,
+    "gold": 4648.5,
+    "wti": 82.26,
+    "dxy": 99.14
   },
   "daily": {
-    "spx": 0.66,
+    "spx": 0.55,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.03,
-    "dxy": -0.02,
-    "gold": 1.07,
-    "wti": -0.06,
-    "vix": -4.73
+    "krw": -0.02,
+    "dxy": -0.03,
+    "gold": 1.09,
+    "wti": 0.04,
+    "vix": -5
   },
   "news": [
+    {
+      "t": "주담대 금리 연 8% 뚫릴 수도…영끌족, 이자폭탄 공포",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pbkc1UDBNUFVtbzFtWmRBTnNueDFxaVlJZ3lfQ1J3MG14US1LS1BNZEZHVFZDNVJzbXdrOTIyeGEwaF85SUpxLXJvOTNpRF9JRkt4eVJB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T15:15:14+00:00"
+    },
     {
       "t": "캔자스시티 연은 총재 \"현 금리 제약적이지 않아…인플레 완고\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoOG9lckdnaC03RW9aeF9Cd3VuT1E0RlltYWtDdElEUk9jSkh1ZUd1NzBGRk41NXpad0R2U3FWLWE4MTYwWi1GTldnRUNBMTA?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T15:11:50+00:00"
+    },
+    {
+      "t": "“미 트럼프 행정부, 반도체 대상 고강도 관세 검토”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nTjVMNHlXRUF5UlhlN3h6YzhBNmNFbjFweVFLZ0N0Q3lGS0pBYjdJTkVtUkVNeXJUbVVmVzBwTXBIV1N3WkpSWnpQMFlWWmM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T15:11:00+00:00"
     },
     {
       "t": "높아지는 미국 보호관세 장벽에…메가 FTA ‘CPTPP’ 가입 힘 실린다",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUWY0UlJHbk1rVGJ5b2tIbXBieXB2UUZ2bG1BZzFjWnhJb3BQOVZITWVBbFZUUFBibUUzU2JzQ0tIcWx6bFhsQ2FpR2dBa2ZxaTNpeGdvYlk4RWtXM1l5Q29IVFY?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T14:17:36+00:00"
-    },
-    {
-      "t": "한은 연속 금리인상에도 코스피·코스닥 1% 상승",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxVUlwd1c1Nmo5U1NKQjZLM3VLTVhiMHlqOHQtRjZ2NG5Md1Z5bjRqWnFQOEd4Wk9taU1nbDY0QkdtQ3ZxbGN4Qk10UUd3RFNya0dDNHcwdHFoQ1RPTWc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T14:11:00+00:00"
-    },
-    {
-      "t": "Nvidia 매출 전망에 미국 반도체 주식 상승",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hUzdNYnIzTzNvZnJGbHNpcnZVM1NiMWlDVlY1bEVfM2IybDNkamd0RmsxMEVOdE9FNEszYnJVV3Bndjl0M0daLTM3a2ZET0s0N21YTFE0NHIzQS1jTUxWQlhsOVZJa0lyRy1leGxGVmRTbW5uVWMw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T14:11:00+00:00"
     }
   ],
   "asof": {},
