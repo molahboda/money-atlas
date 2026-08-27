@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T08:30:59+00:00",
-  "quotesAt": "2026-08-27T08:30:59+00:00",
-  "newsAt": "2026-08-27T08:30:59+00:00",
+  "fetchedAt": "2026-08-27T08:45:59+00:00",
+  "quotesAt": "2026-08-27T08:45:59+00:00",
+  "newsAt": "2026-08-27T08:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.84,
-    "krw": 1378.98,
-    "gold": 4654.5,
-    "wti": 81.53,
-    "dxy": 99.16
+    "vix": 14.8,
+    "krw": 1379.74,
+    "gold": 4651.4,
+    "wti": 81.58,
+    "dxy": 99.19
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.18,
-    "dxy": -0.01,
-    "gold": 1.22,
-    "wti": -0.85,
-    "vix": -2.43
+    "krw": -0.13,
+    "dxy": 0.02,
+    "gold": 1.16,
+    "wti": -0.79,
+    "vix": -2.7
   },
   "news": [
+    {
+      "t": "‘물가 파이터’ 신현송 “가래 말고 호미로 정책 펴겠다” 기준금리 ‘연속 인상’ 필요성 강조",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmdF81aE05X25ZQ2tPRWIxTDZnWGdHNHlHeDduN204UnJnSGF1Rm41ZWlTTm02bDhiU2FTNWF6ZnRScHhKc05YSFlGZ2ZfLTJUQVhKalhINWlVQdIBX0FVX3lxTE9jZmNUVDlYckR3WVJpM1NLUjVaemtObjE5TUZ6a1VrQ05DYnVuMC1QOF9VWU43TUl5dV9KVHpFRjF6NkY0RjFhNGtJOW51UXhOeUNoUUlkTFREOWExTXN3?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T08:32:00+00:00"
+    },
+    {
+      "t": "中, 美 '과잉생산' 추가관세 검토에 반발…\"필요시 대응\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xVl9GS2hrY2hUNGZRN3dnMHhMN1dTaF82TnlySlpEVmFnU2V1NUVHWGdsRUp2Zkd6Znd6UklVNU9TQW5EVHBXalA3QWE5aTJiclV5YjdHaWthaUXSAWBBVV95cUxPczkza29QQ2JFTGFZMWNkV2NrdERxUTc4cHRIbldpdWdKNjRkWDZNdHRSLWk1bE01eFZKVWpmWkdzTGE4WU1MQ1RrTEdUdDlpamJXbkdzQmlZQWFJTFE4VEg?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-27T08:29:31+00:00"
+    },
+    {
+      "t": "관례 벗어난 백투백 금리 인상…“가래 대신 호미로 선제 대응”",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZk5uZjZIV1dZb21uNjNtQWk2X3Z1b0VPaUpJT0lRSXU3OUFqMGRaRDJaZ1F2bDVhYkNGMnNiUkl1M2g2NC1KWEtYTGt5NXRfbUFEb2tkd215SnIxWVpiVml6VzRRWlhFd29ROE5DdXlpQQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T08:28:00+00:00"
+    },
+    {
+      "t": "[0827마감체크] 코스피, 엔비디아 훈풍에 6900선 회복… 금리인상에 상승폭 축소 By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xNnBpOUZWZmhLbU1BMXd6dkZqSUtlN0lwVmJ0NkhBRDNOaDIwa19SU0hoRmZybGg1YW13VFl0OTE2M3d2TXBWdVQwSG9ZeUNLOFRqNS03dk50Vkx0Y1lOa0JkVW5aZk1USFJiQ3dpd00?oc=5",
+      "s": "Investing.com",
+      "d": "2026-08-27T08:27:00+00:00"
+    },
+    {
+      "t": "코스피 6,912.37 코스닥 837.65",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wTktUdXlhZUFsN0dUM0o5dWx0NU1ERVR0ekRDQzd5SENhSG5rd3dxbWhhOGdzSWtTQVJaZ19XM3Y1bWFtV1RHNkVaR2RVVmducExMNnMtMi11SUU?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-27T08:25:00+00:00"
+    },
     {
       "t": "기준금리 두번 연속 인상에 3%…\"가래 대신 호미\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtdHNSbU1YdEgwZXhqazg0NnlBNjFMS3BtcE9SaUdiX2laZGppQ0dDNHBaNFRiTXBnRTVtNXFJbHlGelVKa2xrUEt5NGcyTWhUSWNJQjdHc3ljenZDX3MxZFlRc3M3ZTA?oc=5",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T08:19:17+00:00"
     },
     {
-      "t": "[마감] 코스피, 엔비디아 훈풍에 1.53% 상승…6912선 마감 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTXdHQUY3ODRKRDBpdDNtV2RMV3EybVZuR0NhYkg2ZHItbEtzemVHaU1YQl9pX1lUd1d4Zm5IM3dhTUlVYUoxV1NRdjQ0cVdxSGxnUE1NV19EdXV2Mm1JVkExWHhhb2RodGd4bzFPNVA?oc=5",
-      "s": "Investing.com",
-      "d": "2026-08-27T08:13:00+00:00"
-    },
-    {
-      "t": "기준금리 3% 시대…주담대 부담 커지고, 중금리 대출은 풀린다",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MZGRBUlA4a1NvSEVwc3lvc3lhNHAxSFpCa0FBT0tpaGhXOFpLWFpvak1fZWhJSGp6bTZTNldncDBJSm5LOE5FNTdjcGVlTXQ2QS1DNEZaMFdzeFU?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-27T08:10:15+00:00"
-    },
-    {
-      "t": "금리 인상에 상승폭 축소…코스피 6,900선",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TVJDTWp4ZzZCTjFCUmdCM0FZYXRLLWluZzZmRDNCSmMxcWFhUnZBVXUyQ3NwcjItWG1XV0VBSE1FVE5vRlFjWHNNUFNySXpuOHN2R1R5SmRrR091X2lFdVVCa0Jndk0?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T08:10:00+00:00"
-    },
-    {
-      "t": "'기준금리 3% 시대'... 엔비디아 효과 제약, 코스피 1%대 상승 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdnVpM3BHdmw0SllyakN0RDljNU4wY1k3dlg1UkRuZ0FCX1I0eS1tb0ZfWTZBVE1jeXZFZE5BTHJVREhZajdlNUxOWkVNMjJOV3VLakkzcTQ5dV9VLTE5WHZ2MkttSlBH0gFuQVVfeXFMTnFXRTJEWUhIclVVVTdzQjlXeUVRSHgtc2I1Q1ZwRXBNLVItWGFmZmIyUDB0UVNJS2RDUGZNSjFySEFVU1g0dV9mTExJZ1BZU04tcGNXNlFSWGM1VUhTb0JmRzVRdTl1U0hBeHBsN1E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T08:04:57+00:00"
-    },
-    {
-      "t": "[사설] 연 3.0% 기준금리 시대 연 한은… 물가 확실히 잡아야 한다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KRGhPMVF0M2NQMi1pV0J4TkRDODhxSDJVTmo1UVhReERDVWZBeTB0UHM0RW16a29BdEpMdy1GbmljZFFkRTFMT0ZnZGU0QlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T08:04:09+00:00"
-    },
-    {
-      "t": "엔비디아 훈풍에 금리인상 충격 흡수…코스피 1.53% 상승",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VMUNScHJHOXN1VGdITkhOQmlpeW5MWllNN25rRjJZa0d2YXR1bzJ1YkliWVVSTE5FSWpTTkFGUDRNVVI3RDBaV1Q0eWhjNnJFT3c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-27T08:02:49+00:00"
+      "t": "국고채 금리 상승 후 하락 마감…\"예상보다 '비둘기파적' 평가\" (종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vTXcwRW40LWt4SGFidXoycXFRWk1tZS1ET18xYkNnejFYWWZwcDVxNFNISkltdm5aZWExS1VjYnR6ckVmZklHeFFWSWs1cXNvTjdKQ1FDaUxyNEE?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-27T08:14:15+00:00"
     }
   ],
   "asof": {},
