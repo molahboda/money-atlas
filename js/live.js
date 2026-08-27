@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T09:15:59+00:00",
-  "quotesAt": "2026-08-27T09:15:59+00:00",
-  "newsAt": "2026-08-27T09:15:59+00:00",
+  "fetchedAt": "2026-08-27T09:30:59+00:00",
+  "quotesAt": "2026-08-27T09:30:59+00:00",
+  "newsAt": "2026-08-27T09:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.89,
-    "krw": 1380.7,
-    "gold": 4647.6,
-    "wti": 81.91,
-    "dxy": 99.22
+    "vix": 14.96,
+    "krw": 1381.83,
+    "gold": 4649.1,
+    "wti": 82.13,
+    "dxy": 99.21
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.06,
-    "dxy": 0.05,
-    "gold": 1.07,
-    "wti": -0.39,
-    "vix": -2.1
+    "krw": 0.02,
+    "dxy": 0.04,
+    "gold": 1.11,
+    "wti": -0.12,
+    "vix": -1.64
   },
   "news": [
+    {
+      "t": "[사설]이례적 ‘백투백’ 인상에 기준금리 3% 시대, 민생 충격 없도록 해야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZzBVX2dEdURZOFlVNnJZeU1lanJxRmF0eGlyWmdMZVpMWUZIQW5FR2RaLVN4TmhuWG5GaS1TU0RUanBHZG14bl9GdFpVcGhQMkloY0RVVU5IQdIBX0FVX3lxTE04TGNBbS1hNldNWi0xbTFGVWVSclFFczducUR3RDJZVC1qV19qSUFvSXIxcDFORG1rcU1MM0pIZ3pXRzEtYU5xX0dmQkRCREstUVFzTF9RZEFXbHBnSnhj?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T09:24:00+00:00"
+    },
+    {
+      "t": "[중국증시-마감] 엔비디아發 훈풍에 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00dU9Pc1h1X3dXTE5kNHk0dU5OT1hrTUp6ZUR6MHRhbmZhSEJfQmVCWHM5ZGFsV0JmbWNYc2cyYlRwU2lzRU53Z08zVUc3R0pIcEJWeG03WW50NUEyQUhJRDZMWEtDQWxIT2lXTHNQbGU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T09:11:35+00:00"
+    },
     {
       "t": "[더나은미래 경제브리핑] 한국은행, 기준금리 3%로 인상…엔비디아 13분기 연속 매출 신기록",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZE9jY2dRRmZrWnZ6WW03WjRGNjUtUWtCREFCNXR0YlpwWnZRTVE5Nk9qY1I3alBDOXZLTXZlU2VYaER1MlJSVU4yZW1KY05KaGc?oc=5",
@@ -31,10 +43,22 @@ window.LIVE_DATA = {
       "d": "2026-08-27T09:08:00+00:00"
     },
     {
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oRVZnUE45ak1Hcl9XUlBIOXVqSlFuMGxub0ZzWmFYUWdwbGh3N0JuRHV0MlF2dUpreklIakV1elYtd0FRQmJ5QldEcWlrcC1pSkE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-27T09:06:37+00:00"
+    },
+    {
       "t": "한은 최종금리 3.25%냐 3.50%냐…채권업계 전망 '팽팽'",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYjNlSV9Id3lUQUhscV95QU5UV0NOUUZ0ZGZSbktCMlItNFFodEJLd09icTRGRm80WlBKS0FjYXc3RmtTRDNEZnVibFhvZmhMNUN6LWJiVGtsUThJZEZ3cG5FNjdxTERXckh5UGE2WXU?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T09:04:16+00:00"
+    },
+    {
+      "t": "물가·집값 뛰자 시장에 강한 시그널 … 3.25% 금리도 열어둔 한은",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OczJpbk0zVTF6eVEyZTdrdGozbFdYLVRFZXJMbUpsOFBFUHBzOEhUblNqNFU4ZEJVMlpKUzZUQWdHaXppTGZuV2pnYmwyVk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T08:57:00+00:00"
     },
     {
       "t": "與 \"정기국회서 민생 총력전…물가·부동산·소상공인·자본시장\"",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02ZEVQdFJUc2JqZFR3WW83LS1CZTlsQjJnaGVvb2s4YTNqS2NYRlNFUFpQMFpOa0pYb09GWWNSUTdjV2FCMUVyaEFQTVRrT1k?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T08:46:46+00:00"
-    },
-    {
-      "t": "SK에코, 에코엔지니어링과 합병…\"반도체·AI 인프라 경쟁력 강화\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KekpkUnp6S1RoaGdUdlNLNmlGT2dRRk5JellLNjVwY25MRFZLTS1PdkowenNfMVdKQnFSZGRLbHBReHpCbm9BSDRVTFhZZHdIUXg5eDEtUy1JRmVmV1dZcmhkQ0VEQVpqdXlMZ2hWVVE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T08:45:40+00:00"
-    },
-    {
-      "t": "‘물가 파이터’ 신현송 “가래 말고 호미로 정책 펴겠다” 기준금리 ‘연속 인상’ 필요성 강조",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmdF81aE05X25ZQ2tPRWIxTDZnWGdHNHlHeDduN204UnJnSGF1Rm41ZWlTTm02bDhiU2FTNWF6ZnRScHhKc05YSFlGZ2ZfLTJUQVhKalhINWlVQdIBX0FVX3lxTE9jZmNUVDlYckR3WVJpM1NLUjVaemtObjE5TUZ6a1VrQ05DYnVuMC1QOF9VWU43TUl5dV9KVHpFRjF6NkY0RjFhNGtJOW51UXhOeUNoUUlkTFREOWExTXN3?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-27T08:32:00+00:00"
-    },
-    {
-      "t": "한은 \"반도체 파급효과, 내년 경제 전반으로 확산할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45Q1NpWXRMUzQwUVFYQVQ4ZDI3MVRLSDNsRVYwNHpZYWtENlNfdGp4Y3VZMFlqaVhHNjlYQzdjeDRDRy1OcWdlbHUyeXhBNDZETGJVQ0p4T2tDYkkyVWFKLQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T08:29:49+00:00"
-    },
-    {
-      "t": "中, 美 '과잉생산' 추가관세 검토에 반발…\"필요시 대응\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xVl9GS2hrY2hUNGZRN3dnMHhMN1dTaF82TnlySlpEVmFnU2V1NUVHWGdsRUp2Zkd6Znd6UklVNU9TQW5EVHBXalA3QWE5aTJiclV5YjdHaWthaUXSAWBBVV95cUxPczkza29QQ2JFTGFZMWNkV2NrdERxUTc4cHRIbldpdWdKNjRkWDZNdHRSLWk1bE01eFZKVWpmWkdzTGE4WU1MQ1RrTEdUdDlpamJXbkdzQmlZQWFJTFE4VEg?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-27T08:29:31+00:00"
     }
   ],
   "asof": {},
