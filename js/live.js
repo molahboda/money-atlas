@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T16:15:59+00:00",
-  "quotesAt": "2026-08-27T16:15:59+00:00",
-  "newsAt": "2026-08-27T16:15:59+00:00",
+  "fetchedAt": "2026-08-27T16:31:00+00:00",
+  "quotesAt": "2026-08-27T16:31:00+00:00",
+  "newsAt": "2026-08-27T16:31:00+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7724.21,
+    "spx": 7726.97,
     "nikkei": 66131.98,
-    "vix": 14.49,
-    "krw": 1381.18,
-    "gold": 4662.3,
-    "wti": 82.65,
-    "dxy": 99.13
+    "vix": 14.47,
+    "krw": 1381.31,
+    "gold": 4659.5,
+    "wti": 82.5,
+    "dxy": 99.12
   },
   "daily": {
-    "spx": 0.61,
+    "spx": 0.65,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.02,
-    "dxy": -0.04,
-    "gold": 1.39,
-    "wti": 0.51,
-    "vix": -4.73
+    "krw": -0.01,
+    "dxy": -0.05,
+    "gold": 1.33,
+    "wti": 0.33,
+    "vix": -4.87
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrS25fX1Y2RDdYQ1dJMl9CLVl4Z0pobUlIQVlfZUIyZndLSlVicWM5ZGw2MVA3ZG1uVFlmNEsxY1U4YmVMcm53TmZRME9Yd3J3Q0pobzdSSmk?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T16:13:31+00:00"
+    },
+    {
+      "t": "엔비디아발 AI 낙관론 확산…나스닥 선물·아시아 반도체 동반 상승",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJQbmVXaXNWTWlWX3VqaG9vVlBWRWxaRVhBX1NNR2VwZnZLM0o3YmRiOFVFUzJOSUdETmd6b3ZsQ0s4YXVYcUZFM0xqN3RaLU9pT28tN1V5YVJ2SlB6QS1mRE9MVURBRG5aSmxrZVF1bUZ6TVVhbWpYeVRXeXhmcWxGOGZKRVNq?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-27T16:00:00+00:00"
     },
     {
       "t": "美 물가 3.7% 고착…실질소득 1년간 0.2% 증가 그쳐",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNmsyOEp0dTdaQWFTSlBEX0hGUFNBN1p0SEdBWnBlejRtdElxWTJUZHNrWWdieUdqYWxkRG43RnF3czd4eFkwbW9YZlZwemlHV1dTY1dpUVJ5dGZzX1gwTTNCVGlkY0lCTGZFdm02TFB0RnRWVm5F?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-27T15:35:00+00:00"
-    },
-    {
-      "t": "금리 3% 시대…연내 더 오른다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QS1B4NHpFMXRCdVRVci1lOXN6NF9idEFIUXpmemNLSUZqakQwV1VhWHY0Zmg2amQ5Uk1kblpmZzFTTWl2M2tyblQ5Rjc5TXJuaFFnX2Rn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-27T15:27:10+00:00"
     }
   ],
   "asof": {},
