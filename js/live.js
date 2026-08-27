@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T22:15:59+00:00",
-  "quotesAt": "2026-08-27T22:15:59+00:00",
-  "newsAt": "2026-08-27T22:15:59+00:00",
+  "fetchedAt": "2026-08-27T22:30:59+00:00",
+  "quotesAt": "2026-08-27T22:30:59+00:00",
+  "newsAt": "2026-08-27T22:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1381.1,
-    "gold": 4655,
-    "wti": 83.7,
+    "krw": 1381.08,
+    "gold": 4660.4,
+    "wti": 83.55,
     "dxy": 99.13
   },
   "daily": {
@@ -19,28 +19,34 @@ window.LIVE_DATA = {
     "nikkei": -0.2,
     "krw": -0.03,
     "dxy": -0.04,
-    "gold": 1.24,
-    "wti": 1.79,
+    "gold": 1.35,
+    "wti": 1.61,
     "vix": -4.6
   },
   "news": [
     {
-      "t": "美연준 인사들 잇단 인플레 경고…향후 금리경로엔 온도차(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuSllqNkRVR1pBUWhSeElHOUcxREF4M3JSYlVkZTBMYlMtODRka1ZGMlVYbVd5ZXlPWWZ6ajJQOHNmMm5KLVlWQ3RZa1M0M1k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T22:13:51+00:00"
+      "t": "[뉴욕 마켓 브리핑](28일)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IR0FpSjhoTFdVeTdLX1hIUzI4eWRtTFdqN3Vzd25rSVNzX21qVlZ3YmxmaDRNVXpCelRSOTJtY2VpQXNsdjluTkxSY3ZtZDIwNk1DOUYyaXN3WFQtS3dOcnlYazlFSEpNT21UR09XU2xBdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T22:22:43+00:00"
+    },
+    {
+      "t": "[채권/외환] 美 국채금리 소폭 상승·달러 보합…워시 '잭슨홀 입'에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRVkyUm1XVXdvVmRXcm9sQzI4UWhsTVhHMDVLemVuMjNPNlBBSms0czhvRTFYNDdmeHBZeDRnQjhJTWo1amd3RzA5bmVFOVhNa2dXQXYxQkwyWFdP?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-27T22:21:00+00:00"
+    },
+    {
+      "t": "국제유가, 미국과 이란 협상 진전 기대감 약화에 4거래일만 반등-브렌트유 배럴당 90달러 육박",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qOWEtR3YxUnFSOXNZUEUwWUlvOFBHWHVMaTRGYTFMTXBpR2hLbV9TYUZISHE0TDFHMmpOTElhYTJPUW9BV25EU2RweFRsRmNNYVJvcUl1TTRBUUhuWmc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-27T22:11:54+00:00"
     },
     {
       "t": "[뉴욕증시]엔비디아 '깜짝 실적'에 기술주 랠리…나스닥 1.57% 상승",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQzNhU1VPZU1CZFNkdDRYcFJMcUZSS2R3YzlSWHBxZjFOUDFVSXRmZnNFTFVMVmViRzZKSkN1bzY1Nzk3SHVRM3UzT0xWelJyS1F2V3hteHhZUkdUbTY1RA?oc=5",
       "s": "아시아경제",
       "d": "2026-08-27T22:11:13+00:00"
-    },
-    {
-      "t": "유로88 가입방법 2025년 애자일 개발: 현상, 본질 및 법칙",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kbVBtRkR6ZEVUWFlZemVsVjN2Z2o4WTVaZ1FtVldoS1dUNERqLUZFQ1VWSVZKZVdCVTNJSnJIeDRNclpxNWQ3T2tNcC1HRXlhQ29FZGRCVG50dw?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T22:06:16+00:00"
     },
     {
       "t": "바디 카지노 AI 시대 디자인 패턴: 역사, 현황 및 미래",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmVINDdjdm5FNHlJbk5tN1ktZ3pHc0FFaG5zOFlOeWtoZHlWcDlxcGY2YXVmRjRXbjJnS3hKUlRKcEtvUF9XV2cwMEJzeXdGUmdlM3pQcXFhLWM0YmlvcnlaVzdTYmhMZEFlamtyNF9GV19YazlBR1c0VTg2cFBvaWR4UQ?oc=5",
       "s": "인베스트조선",
       "d": "2026-08-27T22:01:45+00:00"
-    },
-    {
-      "t": "백악관 “美 반도체 리쇼어링 최우선”… 서버·노트북 겨냥 신규 관세 도입 예고 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDBDNThPbUYzSy1DaDNmWHJrc2R5SC0wZ2FURWk1VVZWakNPY1VhMkl3LWkwaXh1RGFuNGlnck9kalV5RlRZTGd6R05pMG1xTk03V1FtbXk3UVNJcDVXN0lzNUpmem1GbmxKcnVGaTEwZnREeU5YS3BUdktjdEs3cHptNC02Mk10SS00SzUzWjl2R1dlZ2xyZDhXd2p5d9IBsgFBVV95cUxQRTJKMFBJMHo2S2hDNWpyMlRMOGpzdm0waUVoblp6TmlLa0JqYjhYN0VQRHl2RlNOZEVvRXZfTTB3T3l3Vy04WXVQRDZXaEc5T1RaNHVpb2owZEc1YlllaVpzYjVFNGpWc2JGZksyUmFzazIxSDhYTm1zNmIwSWNQbm5meUtwQWdlTkVjWnB0Q0V0c04tVFhNWmtvazJ3TnNNZ1FDQWRBa0xiWjJqcmlLbVRR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T21:51:00+00:00"
     }
   ],
   "asof": {},
