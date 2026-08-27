@@ -1,40 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T05:00:59+00:00",
-  "quotesAt": "2026-08-27T05:00:59+00:00",
-  "newsAt": "2026-08-27T05:00:59+00:00",
+  "fetchedAt": "2026-08-27T05:15:59+00:00",
+  "quotesAt": "2026-08-27T05:15:59+00:00",
+  "newsAt": "2026-08-27T05:15:59+00:00",
   "quotes": {
-    "kospi": 6898.09,
+    "kospi": 6900.74,
     "spx": 7675.7,
-    "nikkei": 66169.59,
+    "nikkei": 66220.97,
     "vix": 15.21,
-    "krw": 1380.54,
-    "gold": 4674.2,
+    "krw": 1380.18,
+    "gold": 4674,
     "wti": 81.83,
     "dxy": 99.15
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 2.3,
-    "nikkei": -0.14,
-    "krw": -0.07,
-    "dxy": -0.02,
+    "kospi": 2.34,
+    "nikkei": -0.06,
+    "krw": -0.09,
+    "dxy": -0.03,
     "gold": 1.65,
     "wti": -0.49,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "신현송 총재 “기준금리 연속 인상, 관례 벗어난 조치…시장에 강한 시그널”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TNmVlY3hNWFZFWmFnUUlwZ1FmZ0x4cXdWeHlOc2czTXBvV0JoUVd0Q3kwbXJ1TDAxRTk0OFpFUXg4aUxnbWJKQW9pVVYzWG5xUXd6UG82R2ljdE0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-27T04:54:00+00:00"
+      "t": "한은, 두 달 연속 기준금리 인상…부동산 시장 관망세 짙어지나 By The Guru",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCWWY3XzlPVFo5cWZGNGdKZU11RkZ0M2o5dDJhUHp6UTZPMldTd0ZRd2lLOXFvcHk5eDFBS1BUSTR5eTd3TzhOQnI1TjlfUzRuMHcwQXFzb2lkemxTQ0sta09pNGgwM1dIWUV0YzNWM1Y?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T04:59:00+00:00"
     },
     {
-      "t": "금리 인상 이유 밝힌 한은 총재…“주택가격 상승세·물가 오름세 선제 대응”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkYmVWS2pSR0V5c0VhT1ppa1B5R0p5VFNqaTJXT1RiNXljTGU3c19ydDNaTEtCM3hZUmU2OTRtQUVLbkNGbm1pWDVGVHlMOVpOZlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-27T04:49:56+00:00"
+      "t": "\"내년 성장률도 3% 가깝다\" 한은, 기준금리 연속 인상 단행 '3.00%'(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQWFHTllVVjM1TjRQbjZCXzgwekZwa2VQS3BCbG5IUDBDYWxtSFFKd3BtRUkzRlZqVzdTVkotUjZqQUZMaFhlUTQxcDZKU0xKdlA3YkR6MUM3dXJ2YVNheA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-27T04:58:57+00:00"
+    },
+    {
+      "t": "신현송 '금리인상 기조' 문구 삭제에 \"세부 분석보다 전반적 정책 의도 봐달라\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMkROOHpMbVF4QWNldUw1U25pUzQ2X3F3bmVyV2FyS1FSQ0FKaGdiSm5IWmdSSHBidGdzLTJDRWEwZEkzNS0tQm1LcGVsU2ZoVkNwNFdsTnBubG1aRUN5QmZEOWV5UWExVWZXdTZSdXPSAXRBVV95cUxQbFpoUWFidWNtUHpveXh5NlhfTFhvdk43WDlic29PS0ZqbHFWQTZsSDQxU29UdWdlYmpOVGhfWS1uaWRreDFHOG02dHNtakxENWVYS3lIMjBScVB1VGQ1bUJ3NzN2TjZkOGV1OXNIQVlwVmMzQQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T04:57:13+00:00"
     },
     {
       "t": "한은 \"호미로 막았다\"⋯금리 3.00%로 올리고 추가 인상은 속도조절",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lQVFZc25xMzlKNWRMZDV4UzZabS1NYlluSEx6VTUtcHNGZ2dyT2FyVFJvdUxUVGthR3U4ZFpHeE9xNGNWMndWajhxTjUzUUE?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T04:37:38+00:00"
-    },
-    {
-      "t": "신현송 \"금통위 점도표 중간값 3.25%…현 기준금리보다 25bp 높아\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tUThJVHpPR1U3ZXpVdDJJVV9xbDNBMTg4OWFmb2ZDX01peW80UW44akE1UjBiVDJhallyeUJOb3lTZnhFN0t1bWdzU013aVZwX0REY2poNGVsZjNkaXFsN3EtQUlqOE5xSFNwWHNKb1HSAXRBVV95cUxNVExpUHNHSEVRNHQyR2t6aXpsRnlpRTE3OThzV3BobUliWUlKMC1VZWZYSUh5NUNOR2g0YVZkeFlFOVVyZXhRSEVKV18wUGxycDUzYllJd2hOV2VYNzcyQkpxNXVFdFBBLUh2V2xvb2pJb3QxVg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T04:31:24+00:00"
     }
   ],
   "asof": {},
