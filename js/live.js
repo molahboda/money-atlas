@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T08:45:59+00:00",
-  "quotesAt": "2026-08-27T08:45:59+00:00",
-  "newsAt": "2026-08-27T08:45:59+00:00",
+  "fetchedAt": "2026-08-27T09:00:59+00:00",
+  "quotesAt": "2026-08-27T09:00:59+00:00",
+  "newsAt": "2026-08-27T09:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.8,
-    "krw": 1379.74,
-    "gold": 4651.4,
-    "wti": 81.58,
-    "dxy": 99.19
+    "vix": 14.85,
+    "krw": 1380.2,
+    "gold": 4652.6,
+    "wti": 81.53,
+    "dxy": 99.17
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.13,
-    "dxy": 0.02,
-    "gold": 1.16,
-    "wti": -0.79,
-    "vix": -2.7
+    "krw": -0.09,
+    "dxy": 0,
+    "gold": 1.18,
+    "wti": -0.85,
+    "vix": -2.37
   },
   "news": [
+    {
+      "t": "[도쿄증시-마감] 잭슨홀 경계감에 혼조세 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HZzBDRjBYQm5UUDJOaE1kcE5FLVJ2NG8zb1Y2UmtJTmM1T01xNkhPek9Cbmh0VEhQLTJVSDVoUnY0MnZEb21INUFRRmhkY3lUZzJ3RHNSc011Nk9DSUJJZHNwMmMtd0xnMUlOZ05LSmo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T08:48:41+00:00"
+    },
+    {
+      "t": "SK에코, 에코엔지니어링과 합병…\"반도체·AI 인프라 경쟁력 강화\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KekpkUnp6S1RoaGdUdlNLNmlGT2dRRk5JellLNjVwY25MRFZLTS1PdkowenNfMVdKQnFSZGRLbHBReHpCbm9BSDRVTFhZZHdIUXg5eDEtUy1JRmVmV1dZcmhkQ0VEQVpqdXlMZ2hWVVE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T08:45:40+00:00"
+    },
+    {
+      "t": "금리 2연속 인상…다시 '3% 시대'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HSmhLVlV5VlRlenhTZ2N0NkVxdHpraEtER3B3Vkw5YlVZVDVTMjkyM1VqYjNLMlNqakF2RDhhclZ6LUZXeW5FZUkzdk16QzFPaXdocVVIM3R5UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T08:43:31+00:00"
+    },
     {
       "t": "‘물가 파이터’ 신현송 “가래 말고 호미로 정책 펴겠다” 기준금리 ‘연속 인상’ 필요성 강조",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmdF81aE05X25ZQ2tPRWIxTDZnWGdHNHlHeDduN204UnJnSGF1Rm41ZWlTTm02bDhiU2FTNWF6ZnRScHhKc05YSFlGZ2ZfLTJUQVhKalhINWlVQdIBX0FVX3lxTE9jZmNUVDlYckR3WVJpM1NLUjVaemtObjE5TUZ6a1VrQ05DYnVuMC1QOF9VWU43TUl5dV9KVHpFRjF6NkY0RjFhNGtJOW51UXhOeUNoUUlkTFREOWExTXN3?oc=5",
@@ -35,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xVl9GS2hrY2hUNGZRN3dnMHhMN1dTaF82TnlySlpEVmFnU2V1NUVHWGdsRUp2Zkd6Znd6UklVNU9TQW5EVHBXalA3QWE5aTJiclV5YjdHaWthaUXSAWBBVV95cUxPczkza29QQ2JFTGFZMWNkV2NrdERxUTc4cHRIbldpdWdKNjRkWDZNdHRSLWk1bE01eFZKVWpmWkdzTGE4WU1MQ1RrTEdUdDlpamJXbkdzQmlZQWFJTFE4VEg?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-27T08:29:31+00:00"
+    },
+    {
+      "t": "'반도체 투심 타고 7000피 회복 눈 앞' 美 잭슨홀미팅 워시발언 주목 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53N09LUkRuenpHSDZMSmdpRWNtQ052SHN6R2ZRdzlUdDY0eHcwNTI3RWtnYVdSNmJUZlZOeWM2RnVlWkZaWFNLRFJfTlNVcjQ2SFpkMDBRR2JsNnU5NzBxa2ZMTjJqMGVG0gFuQVVfeXFMT3FNWkZmOWhiZ0Q1b19lWXp6SDFENmtJZjdRMjd3YmRqTl9pU0lkcFF5RVNmQXJ5OHo0YUFYS0dncVBRVi1kUnd1TEN2b2NTUkZwT2RLS3VLRWVEcThyWVJ3WkhJVjNNVXl0VW1xYkE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T08:29:00+00:00"
     },
     {
       "t": "관례 벗어난 백투백 금리 인상…“가래 대신 호미로 선제 대응”",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtdHNSbU1YdEgwZXhqazg0NnlBNjFMS3BtcE9SaUdiX2laZGppQ0dDNHBaNFRiTXBnRTVtNXFJbHlGelVKa2xrUEt5NGcyTWhUSWNJQjdHc3ljenZDX3MxZFlRc3M3ZTA?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-08-27T08:22:00+00:00"
-    },
-    {
-      "t": "씨티 \"10월 추가 인상 허들↑…최종금리 3.75% 리스크 열려 있어\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vSlJnYXJ3RVdYMGdtaTFiV1RnbTY1TGRSbVVQblV3Zy0zLUpNNldaUUhQdWVPQThXZW1oMXprZk0xTWFBRjJSamJ3TGt3dW40aG1ybERjUU1jWXFWRzVNdFp3VU9LZWRqbFFrdEQ2dzM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T08:20:27+00:00"
-    },
-    {
-      "t": "[사설] 잇따른 금리인상, 이해하지만 서민 삶이 문제다",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZkVoYjVuZ0xOLUdfSXlCUDh3eVRWOFJZUC1uWTAtWE82Wks0M3lGS0c3Z3ZRcjNDODdKNl9UM3lkU2ZSZWU4VW16akdpOXFLOGtuTl9Oclp2RHlQYkwta2ZURmQ5MDlCN25PODkzUdIBc0FVX3lxTE03VWtFYS1sdlZZM2ptR0lRMmZRb1NPVC03ZkE4eUgwT1psSmc3QVRqY1ZkdGRFX3FzdDdEOTdfMzkwRklMR0ZBd2lCOUpOcENTSXRTNFAxNjcyU2N5ekZLUGZFbDlvWC1KYk9vSVhJUk90TWM?oc=5",
-      "s": "대전일보",
-      "d": "2026-08-27T08:20:00+00:00"
-    },
-    {
-      "t": "한은, 기준금리 3.0%로 연속 인상…신현송 “물가·금융안정 선제 대응”",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDR0lWTVF6MXNrTWJUVjkxeDVHMmRpZi03NW9BRXJ3b3A2a2xINGFVV2VnOVNROWV5cUNVS2pYU0Y2bEdBTmx3UHpDams1dVhHQkg4LXJIWXJqQU54YnFSRWhBNElUSmxBOU5WOGhiemZjQQ?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-08-27T08:19:17+00:00"
-    },
-    {
-      "t": "국고채 금리 상승 후 하락 마감…\"예상보다 '비둘기파적' 평가\" (종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vTXcwRW40LWt4SGFidXoycXFRWk1tZS1ET18xYkNnejFYWWZwcDVxNFNISkltdm5aZWExS1VjYnR6ckVmZklHeFFWSWs1cXNvTjdKQ1FDaUxyNEE?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-27T08:14:15+00:00"
     }
   ],
   "asof": {},
