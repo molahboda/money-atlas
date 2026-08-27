@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T13:30:59+00:00",
-  "quotesAt": "2026-08-27T13:30:59+00:00",
-  "newsAt": "2026-08-27T13:30:59+00:00",
+  "fetchedAt": "2026-08-27T13:45:59+00:00",
+  "quotesAt": "2026-08-27T13:45:59+00:00",
+  "newsAt": "2026-08-27T13:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7706.7,
+    "spx": 7714.44,
     "nikkei": 66131.98,
-    "vix": 15.03,
-    "krw": 1383.38,
-    "gold": 4640.5,
-    "wti": 82.58,
-    "dxy": 99.13
+    "vix": 15.04,
+    "krw": 1382.81,
+    "gold": 4631,
+    "wti": 82.73,
+    "dxy": 99.1
   },
   "daily": {
-    "spx": 0.38,
+    "spx": 0.48,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.14,
-    "dxy": -0.04,
-    "gold": 0.92,
-    "wti": 0.43,
-    "vix": -1.18
+    "krw": 0.1,
+    "dxy": -0.07,
+    "gold": 0.71,
+    "wti": 0.61,
+    "vix": -1.12
   },
   "news": [
+    {
+      "t": "트럼프 정부, 반도체 고율관세 부과 검토..단계적 도입 가능[이상은의 워싱턴나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xR2JGT0lBS0JYSnBPOFhKUzc1eVZHb3lTUmxGaTNlcVZjRXJWOHRhamV2X19reXZCVnhGNFRLYjBmdjN0a25XUkJxbFpwa2lqeWI0VVZVaGFwUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T13:40:59+00:00"
+    },
+    {
+      "t": "미 국채 약세…주식 강세 속 연내 금리 인상 기대↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jU0lWdWxFNlVGbktDb2w3Szljd0lNajh6WlBSZFNELUNPN0tCelgwSEZVNzU1ZVFnX3Y3SW5wRnJwcHR2aWQ4aW1GdlloTTNFQ0s2SV9KVmdWSzVXNnNCTnozVHFaSU9KMkN1ZUNKRTk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T13:35:00+00:00"
+    },
+    {
+      "t": "트럼프 행정부, 반도체 전면 관세 검토 중…\"자충수\" 업계 반발 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzdTB0c2JwcUJ6V1U4RGJMQ0hGZE1GZ3UyNTJXZDJMRUhWalNBd2lHZ2lIU3BERGlfdlFlcEluR0dSanRlWXBZcjFTeHdhQ0RnS1Z0OVJRTXF3SDVFVGRhczVrdVo3TGVR0gFuQVVfeXFMTTVHWUxiVURQNE5vT1hIdGNYa1dSNlNuMlhlMVZ3d1A4MTZhZ2xSYVdpdV9YQURxdEhRdFhYaW5GY1pZUjZqME1DU0lPTXVwTnkxay1mVXQ5ZW83SkRraU1xYnFUWVVPcUtkbl9XYnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T13:29:19+00:00"
+    },
     {
       "t": "폴리티코 \"美, 반도체 전면적 관세 부과 검토 중\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BeWN5WWNEaGdURWFxTk9DMXg3ZlNLbmhlX0ZYckxGYnBlMERDM1k5YXNZUGNHcG5qMGRIY2xEUmNRbmVfZGYzaEVUYy1leHlRRGEzS1ZIcm9xblp5VGJKaVp0N3BJZVV4dDRVbUZZQkN5QQ?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSU0ZaQmdwUGxOeTVsam9abFkyWGxxbkdTdG8yeThPOXdNUUJ0dTVGdVJlRVZLNlVrb2p1SzU0T1VYZ2RFbExRck40NUNXNllXemtmX1M3X1FUOUlRd21uTA?oc=5",
       "s": "KBC광주방송",
       "d": "2026-08-27T12:25:58+00:00"
-    },
-    {
-      "t": "기준금리 ‘3%’…연타석 인상",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ULVI4RWRwc2ZXQndOOFowMUJzZnZSbkhtSVpfUFBUNEpRX0FDS0l2ME1Ga0Z6aUI3dFNlakpOdnZxTVlfOEVsMFEyc21EbmUzVzdMdE95d2RpUdIBX0FVX3lxTE1yNlRROUhhbzN1Y2RiTlpTWmpyN0VSSlNIRy1XODdSOTJyNnpyVXRLa2dOWWZYdWZkLTRiTkJlZjFNbk5yRkF3V3loa01zeHhxbVB0VnhwUWdFcHotSTgw?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-27T12:25:00+00:00"
-    },
-    {
-      "t": "“트럼프 행정부, 반도체 대상 고강도 관세 검토”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MQmVIYjc3QXplVHhOTUo2bUJHa051NEY3bWRTTTF5NUhXN0xaQkpDS0REdThXdG94WjdmVTlYdzF1RVc0RUxldElqQ29NRHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T12:15:01+00:00"
-    },
-    {
-      "t": "\"美 트럼프 행정부, 반도체에 '고강도 관세' 검토중\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kb0d6dl9XeHpPZlZlTWZoQ09ZYmV1Vm9TR0p5TEJwelExTE5jWjVIZ1BnX1NWTVQxb2g4Z2l1c3NoVGdhYVVqZkR4TGw2U3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T12:14:39+00:00"
     }
   ],
   "asof": {},
