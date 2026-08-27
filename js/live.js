@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T21:15:59+00:00",
-  "quotesAt": "2026-08-27T21:15:59+00:00",
-  "newsAt": "2026-08-27T21:15:59+00:00",
+  "fetchedAt": "2026-08-27T21:30:59+00:00",
+  "quotesAt": "2026-08-27T21:30:59+00:00",
+  "newsAt": "2026-08-27T21:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1380.85,
+    "krw": 1379.99,
     "gold": 4654.8,
     "wti": 83.54,
     "dxy": 99.14
@@ -17,7 +17,7 @@ window.LIVE_DATA = {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.05,
+    "krw": -0.11,
     "dxy": -0.03,
     "gold": 1.23,
     "wti": 1.59,
@@ -25,9 +25,27 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "한은, 기준금리 3%로 인상…“호미로 막는다” 물가·집값 선제 대응",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYd0pGdldiN1NsUm5IbGNOa05kWF9Pd0ZoLVFrRlpqRVRYUEtpakRERnRNaXN6c21VSEIxYXpxaEYtbGpZOEluelg2MHk2RUhUS1BuQlJueEpfX1h3MHZWTnYzRzU1Y3M?oc=5",
+      "s": "지이코노미",
+      "d": "2026-08-27T21:14:47+00:00"
+    },
+    {
+      "t": "\"미, 반도체 관세 확대 검토\"...SK 하이닉스 \"미국서 HBM 생산\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93QjlVR1A2OF9oYXNDZFpWWHk2NnRJOGY2T3otQXVmVTRNQ0FCNUY2RHloZ3c3aFk1eUljUHhuMmQxdG5xMklyRFJJN0ZIUmMwS28ycHpSVFEwXzM0R0E?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T21:08:00+00:00"
+    },
+    {
       "t": "[코스피·코스닥 전 거래일(27일) 주요공시]",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04Sk5memtjYjh5N1JTNjFSektOMHA4V3RuZ1ExcUp5MDFaOWREV2lnaGh5ZWRWYVJXOXFVQ0w1TjFiaWZhdFVtMjNFaE55UVIxY3diZ0NPT0xDd2fSAWBBVV95cUxNeXlIaTN6VDVZcy1TN0Z4VDhYWGpxajI3bGd4UmxRTHZtUHdFTVNjZjRsS2dUdmZ2dk9ZX2xvZU9GT1VHYXpsT2FpSEZ0akF0VXY5REhFZHlFdnZhY0NYVmQ?oc=5",
       "s": "연합뉴스",
+      "d": "2026-08-27T21:05:00+00:00"
+    },
+    {
+      "t": "3% 금리시대, 中企 이자·연체 부담…\"선별적 금융 지원 필요\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10S05nWWpwWjl2Y3duNGl2N0c5Y0Vibm1qQXQyaDRJR293dW9nQWtDN2p1cFFCQ1FxRnZfMU02UkJFd2pKWm5VSlNwM0RDOVpwOGFET0I2RnRQSThu0gFiQVVfeXFMTWlBb0tyNVVTYmFtTnNIUFRuTGloVnpGZFcyVDFPTnZqS19jYXRNMmlsYjFIZC1jcDVCVHRYcTEzTVJxeHV1TmJjb29Pa0N4Z3dsLWt4akpVdjk2VjRPM1huZ3c?oc=5",
+      "s": "뉴스1",
       "d": "2026-08-27T21:05:00+00:00"
     },
     {
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-27T21:02:18+00:00"
     },
     {
-      "t": "외인, 현물·선물 동반 매수…美 국채금리 진정에 코스피 상승 '베팅'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zRVZDNDV1a1BjZWZpY0VDTllXcDkzNHFIWlJkazhua0dLb1lNLXN1XzJwUHlVUE9nV1Q4eGo1Q0poV3lBQWc3REUyMGpqRUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T21:02:10+00:00"
-    },
-    {
-      "t": "두 달 연속 금리 올린 한은, 다음은 천천히…신현송의 '호미 긴축'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wVG9OdFVnS3VyTXFkdEc5S00xOUNWNVVjMHp0U0UyQTRxQk80LXp3bXJFYVQ5UlZ1OVE5TkFrbFZpU2NXTHB6Z0ZMZEhIdG8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T21:02:00+00:00"
-    },
-    {
       "t": "바카라 히든 - 시대별 변화와 영향 - 업계 전문가들의 조언",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRE80ajJHT282Sm9vYU5nUUd1cjdhekJ1aVZ4ejNpUHpPRWZwVjN0VloyMTFtWElPTVlIeEZ3OTB3OTNnY1llc2JOVnMxRWpGeVdMMFRSU3NTMjY5MU1qdWRlRVo?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T21:00:29+00:00"
     },
     {
-      "t": "금리 연속 인상에도 시장은 웃었다…신현송의 '도비시 하이크(dovish hike)' [여기는 논설실]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QM2ltcGh4c0R6U2huY3RRM19nd3VDUktFT2xpQjJBV3FsNFB0VHpidXlzZE9McXRrck1hQk1FRW1Wem1uWjJzejhLUzlYUUVqODNLUDhCR0E2dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T20:56:59+00:00"
-    },
-    {
-      "t": "[금/유가] 美·이란 외교 돌파구 기대 후퇴하며 유가 상승…금값 4600달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pZVJSM2pWUWxPckQ1QWRyaGdJV3JUbUoyVXIwcFU1TTUwNWFkYVljaC0yb215VURsRWVVNVY3UmlmcFNCc3lScFdGZUdFMHh6RW1qSE9FVGstTV9p?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-27T20:52:00+00:00"
+      "t": "두 달 연속 금리 올린 한은, 다음은 천천히…신현송의 '호미 긴축'",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0NFBsbjB2alQzdVN1X1R0eUpQTDlUMTgwZXNDOUE3NWZCdzNvRk43SHdFQy16d0Fna1M4dllOeW8wbHdnSXlsZGlaZFVzbkZQY19haNIBWkFVX3lxTE9TZUlwVW1xRXdTLUhoaDljSjlJaTR5UkNnY0pFV3ZwcUd5d08zQUtfVEJGcjEzM3Q5QUR2ZXFRTVY0TE9QdmhMYkMxNHczX3RIMkRPS3ExM19iUQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-27T21:00:00+00:00"
     }
   ],
   "asof": {},
