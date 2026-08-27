@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T04:30:59+00:00",
-  "quotesAt": "2026-08-27T04:30:59+00:00",
-  "newsAt": "2026-08-27T04:30:59+00:00",
+  "fetchedAt": "2026-08-27T04:45:59+00:00",
+  "quotesAt": "2026-08-27T04:45:59+00:00",
+  "newsAt": "2026-08-27T04:45:59+00:00",
   "quotes": {
-    "kospi": 6914.79,
+    "kospi": 6928.06,
     "spx": 7675.7,
-    "nikkei": 66355.04,
+    "nikkei": 66319.52,
     "vix": 15.21,
-    "krw": 1380.12,
-    "gold": 4678.3,
-    "wti": 81.84,
+    "krw": 1380.15,
+    "gold": 4673.6,
+    "wti": 81.85,
     "dxy": 99.15
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 2.55,
-    "nikkei": 0.14,
+    "kospi": 2.75,
+    "nikkei": 0.09,
     "krw": -0.1,
     "dxy": -0.02,
-    "gold": 1.74,
-    "wti": -0.47,
+    "gold": 1.64,
+    "wti": -0.46,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "신현송 \"금통위 점도표 중간값 3.25%…현 기준금리보다 25bp 높아\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tUThJVHpPR1U3ZXpVdDJJVV9xbDNBMTg4OWFmb2ZDX01peW80UW44akE1UjBiVDJhallyeUJOb3lTZnhFN0t1bWdzU013aVZwX0REY2poNGVsZjNkaXFsN3EtQUlqOE5xSFNwWHNKb1HSAXRBVV95cUxNVExpUHNHSEVRNHQyR2t6aXpsRnlpRTE3OThzV3BobUliWUlKMC1VZWZYSUh5NUNOR2g0YVZkeFlFOVVyZXhRSEVKV18wUGxycDUzYllJd2hOV2VYNzcyQkpxNXVFdFBBLUh2V2xvb2pJb3QxVg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T04:31:24+00:00"
+    },
+    {
+      "t": "신현송 \"백투백 인상에도 국채금리 오히려 하락…시장, 한은에 긍정적 반응\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HN2dLVk9XU19nWEVYd2JDTlpwa2NPSUNoTGVwb1g0azJ2SFBJSWVvTldOdUZhZFZUV0RIQjUyYVJydE9ucW5IdXJObTYxM1hMOHktS0FyWndxX3Y3cXB6cTZiMC1VXzNRcVpzakpNc3jSAXRBVV95cUxQV2JTMzc5SDdudGdycktEdnlTRDRtel9ETnVJRnplbTF2c3FzQnpELXpFemthUHJ2RWoyV3BzRVgweFZIUkdnZXd4eXptclJCbEFOeF9mNHFHd3A1a2pvRDhhdVhVYUd2a2hQOWdQcUw0Wm1RVg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T04:30:37+00:00"
+    },
+    {
+      "t": "BOJ 부총재 \"금리 인상 지속해야…물가 상승 위험 주의\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45ZGdsOGtYX1pkOWROeTZDVllBVHV3NFV1LXhSTDVBb2E4RGtwWlpKbjc4bXJjam9VZjBRa2hUdGdyLUFfV2RJUjBhSGc3bklUUGNKMThqTFdYems5bnpEVkhMQWVsRnJFeERBYlc1cHU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T04:28:48+00:00"
+    },
     {
       "t": "신현송 \"물가 오름세 확산 전 조기 대응해야 경제적 비용 줄여\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nN2lKYS1jc3BWSVNiNUdaNXFXMGNNaW5XNjNlODdQXzZtUUxMNVpadV9kcXFNQUJrU2IzMDZ5cTRBNnBvTUNvcm5tOGd6S2VURWZwbW9wczRveUVzdE0zT24xYVZETFJTNFZjS1FUdlHSAXRBVV95cUxPUU1GV21jWWxlSWFGSGR1R0Zrak00YXRtTUxBeUxxUmM5SGtLV3ljV3NLQzF4Q1JLUzBhMEMxMG9qb0tKeW9FTV9sTlQxYWNwWWl1MXNuOG5RUVB4Y0VDalBNWlZIUTFsclV2NWdaUnFNWmZfTw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjVkY1NEOE1qQ2lfT0tYXzcxZ3h0OVQ4RV85RktLWHBFM05IdTQ1WWVtUGxOQTU1Ukd4Slp0QlRxQWJEZVRwTVlndXNUSE9mTl9adE0yRnJseXpfbWR0ZmNEQV9iR0xEcVV5WUx1M29TZVdfdF9vdVR0VEhwejYzanhMWG02UdIBmgFBVV95cUxPbjVYSGU1N0dYT3dISFJrWll1VXhYZmh0ZklLaG1XNWhFaWxuczI2elFKZmpNTHM3NGI2UUszODBhdXo3LWFURDlVNjhLZ2Etc2ROMF9WeXg0bVZDZi0zRnVHNWMxVzhQZTJPSUVrTUVwTnYwQ3FMUHBlRThUSmZhdVNFdVQ5SkV4cHZ3ekZsbzdBeG1EZGpvRU9B?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-27T04:01:17+00:00"
-    },
-    {
-      "t": "한은, 기준금리 연 3.0%로 0.25%p 인상",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lWUFKNlVDd0lzN2hvRk9JMEYydjdvZHNLMWdHVGJPRUc1V0ZRLVdPSS05YmptVzBNaVJWVTNWM1p6RmVkX3R2cXZlS2VSNGpoazhseUlzcHlLWU1PeGc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T04:01:00+00:00"
-    },
-    {
-      "t": "신현송 \"선제적 대응\"… 기준금리 3%로 올랐다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Sa1VIVWlMeDdqVUFIZUhyOEZmX2dnU3JlN0FQWGJZa0tmTldIZFFUTFA3U1hFYkwtYTB6akpOUllRLXc5WXpSQ3NWelEyR00?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T03:57:49+00:00"
-    },
-    {
-      "t": "국고 3년, 금리 급등 후 되돌림…비둘기파적 점도표에 안도",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95S1VHZUIzVllFcFgzLVNQWmZkZW9FckNPWVZudVY1Vjl2eXRwVGE2dDFWRnNSQk5SSTJ3enhSZVBRTVFtdklVRHlJclhmVGx4TFhnbHQySTVsajloSGU3NmI2MlFWNy1HZmZYWWxrTUo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T03:57:32+00:00"
     }
   ],
   "asof": {},
