@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T21:30:59+00:00",
-  "quotesAt": "2026-08-27T21:30:59+00:00",
-  "newsAt": "2026-08-27T21:30:59+00:00",
+  "fetchedAt": "2026-08-27T21:45:59+00:00",
+  "quotesAt": "2026-08-27T21:45:59+00:00",
+  "newsAt": "2026-08-27T21:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1379.99,
+    "krw": 1380.33,
     "gold": 4654.8,
     "wti": 83.54,
-    "dxy": 99.14
+    "dxy": 99.11
   },
   "daily": {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.11,
-    "dxy": -0.03,
+    "krw": -0.08,
+    "dxy": -0.06,
     "gold": 1.23,
     "wti": 1.59,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "'자해적' 반도체 관세 검토하는 美..대미투자 압박용인가[이상은의 워싱턴나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teGZUM0NhbW9YRUhIRGk4ZDZKSV9pZm1CM2VyUk9mSmcxQVU5RjZCU2ozRFNGTERoRU9YX3VOenJSSVctdnpFMkgxUHdYQ3R6RmxQTENsSUwyQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T21:31:47+00:00"
+    },
+    {
+      "t": "이제 3% 금리 시대‥엔비디아 덕에 코스피는 상승",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tVHBLSzAwNDViSlpvN1ZiWEY0S2wta2VKUmNxeU1UdzIyOEVjNzM0cEhhdXNhcEpmLWhsU3A3cmNjNlFjVmxqT1FsekhnNGs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T21:25:09+00:00"
+    },
     {
       "t": "한은, 기준금리 3%로 인상…“호미로 막는다” 물가·집값 선제 대응",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYd0pGdldiN1NsUm5IbGNOa05kWF9Pd0ZoLVFrRlpqRVRYUEtpakRERnRNaXN6c21VSEIxYXpxaEYtbGpZOEluelg2MHk2RUhUS1BuQlJueEpfX1h3MHZWTnYzRzU1Y3M?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QX0RVTFdlaUJ1anBaTTVFQkl4dUEtQ0N2YUV2MlFTRFI5dExxYm41aXJWV0MyUEw0Umx3N18wRHlvNmxQY3UtVm9WNjk0S0dP?oc=5",
       "s": "문화일보",
       "d": "2026-08-27T21:02:18+00:00"
-    },
-    {
-      "t": "바카라 히든 - 시대별 변화와 영향 - 업계 전문가들의 조언",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRE80ajJHT282Sm9vYU5nUUd1cjdhekJ1aVZ4ejNpUHpPRWZwVjN0VloyMTFtWElPTVlIeEZ3OTB3OTNnY1llc2JOVnMxRWpGeVdMMFRSU3NTMjY5MU1qdWRlRVo?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T21:00:29+00:00"
-    },
-    {
-      "t": "두 달 연속 금리 올린 한은, 다음은 천천히…신현송의 '호미 긴축'",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0NFBsbjB2alQzdVN1X1R0eUpQTDlUMTgwZXNDOUE3NWZCdzNvRk43SHdFQy16d0Fna1M4dllOeW8wbHdnSXlsZGlaZFVzbkZQY19haNIBWkFVX3lxTE9TZUlwVW1xRXdTLUhoaDljSjlJaTR5UkNnY0pFV3ZwcUd5d08zQUtfVEJGcjEzM3Q5QUR2ZXFRTVY0TE9QdmhMYkMxNHczX3RIMkRPS3ExM19iUQ?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-27T21:00:00+00:00"
     }
   ],
   "asof": {},
