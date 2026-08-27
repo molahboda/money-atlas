@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T17:15:59+00:00",
-  "quotesAt": "2026-08-27T17:15:59+00:00",
-  "newsAt": "2026-08-27T17:15:59+00:00",
+  "fetchedAt": "2026-08-27T17:30:59+00:00",
+  "quotesAt": "2026-08-27T17:30:59+00:00",
+  "newsAt": "2026-08-27T17:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7739.98,
+    "spx": 7736.14,
     "nikkei": 66131.98,
-    "vix": 14.45,
-    "krw": 1381.26,
-    "gold": 4666.2,
-    "wti": 82.84,
-    "dxy": 99.11
+    "vix": 14.49,
+    "krw": 1380.56,
+    "gold": 4664.3,
+    "wti": 82.89,
+    "dxy": 99.13
   },
   "daily": {
-    "spx": 0.82,
+    "spx": 0.77,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.02,
-    "dxy": -0.06,
-    "gold": 1.48,
-    "wti": 0.74,
-    "vix": -5
+    "krw": -0.07,
+    "dxy": -0.04,
+    "gold": 1.44,
+    "wti": 0.8,
+    "vix": -4.73
   },
   "news": [
+    {
+      "t": "[현장]곽노정 \"반도체 강세 이어질 것\"…추가 투자 어디든 열려 있어",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sdjVhenBwRHhfX2JmVnR2d3RnSk9jT21LM2FvZlZrcFZXYTB6RVB6Y2lMZGxDanFSLUwzcUFKMU9PZFdkN2tIQU1SQVNOMlE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T17:18:42+00:00"
+    },
     {
       "t": "클리블랜드 연은 총재, 금리 인상 관련해 \"지금이 행동할 때\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1V04yRXhxYTNEQ0V4MlczdEllQm5RVlBuU0x4MElDT2pYREpkcWIzVnN2OFdpTWpNNGNHYzlwNTNGTm84VU41STk2VnpZRjVhZGh5b25WbGZjMjdwQkdCMmxWY1NreUFWUTZEcVRtRng?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJQbmVXaXNWTWlWX3VqaG9vVlBWRWxaRVhBX1NNR2VwZnZLM0o3YmRiOFVFUzJOSUdETmd6b3ZsQ0s4YXVYcUZFM0xqN3RaLU9pT28tN1V5YVJ2SlB6QS1mRE9MVURBRG5aSmxrZVF1bUZ6TVVhbWpYeVRXeXhmcWxGOGZKRVNq?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-27T16:00:00+00:00"
-    },
-    {
-      "t": "한은, 금리 2연속 인상… \"가래 대신 호미로 막은 것\"",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnRGVl9fUGVDanpOWUg0ZGRDdlcyZ1FWWlBuRUo5MWh5aVg2bmt3cWRVb3ktSDZGalNLc1JJSFRHbUZaX3I1eFl6dFZPSDZ5cXA4SDNPY1lZRzZ4TVo4ZnRtSWlMb29UMDVuNTFWbHZDaTVjYThXbG1HZy1BOUIwaW5KMkIyYkxqOHE0TnVB?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-27T15:54:00+00:00"
     }
   ],
   "asof": {},
