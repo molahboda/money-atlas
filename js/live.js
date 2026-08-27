@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T15:01:00+00:00",
-  "quotesAt": "2026-08-27T15:01:00+00:00",
-  "newsAt": "2026-08-27T15:01:00+00:00",
+  "fetchedAt": "2026-08-27T15:15:59+00:00",
+  "quotesAt": "2026-08-27T15:15:59+00:00",
+  "newsAt": "2026-08-27T15:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7722.9,
+    "spx": 7727.59,
     "nikkei": 66131.98,
-    "vix": 14.55,
-    "krw": 1381.93,
-    "gold": 4646.6,
-    "wti": 82.34,
+    "vix": 14.49,
+    "krw": 1381.85,
+    "gold": 4647.5,
+    "wti": 82.18,
     "dxy": 99.15
   },
   "daily": {
-    "spx": 0.59,
+    "spx": 0.66,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": 0.03,
     "dxy": -0.02,
-    "gold": 1.05,
-    "wti": 0.13,
-    "vix": -4.34
+    "gold": 1.07,
+    "wti": -0.06,
+    "vix": -4.73
   },
   "news": [
+    {
+      "t": "캔자스시티 연은 총재 \"현 금리 제약적이지 않아…인플레 완고\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoOG9lckdnaC03RW9aeF9Cd3VuT1E0RlltYWtDdElEUk9jSkh1ZUd1NzBGRk41NXpad0R2U3FWLWE4MTYwWi1GTldnRUNBMTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T15:11:50+00:00"
+    },
+    {
+      "t": "높아지는 미국 보호관세 장벽에…메가 FTA ‘CPTPP’ 가입 힘 실린다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZTRRaVltek9wZHZRWDhsYUVsVmpjdmFSVEdweUJYNk5sOFRHaEpmMUhMUDJRSHBVSkFvRkFVX3J3SFNrazNTZzhqT1FWZVZaaUpYVjNR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T15:02:01+00:00"
+    },
     {
       "t": "폴리티코 \"美, 반도체 전면적 관세 부과 검토 중\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13aVAwYWwzT0NHckFOYWNHQjlHZURweG5sYTFWUkZzX3BFSnZ0Rkk5cW1BMm5tUFd6OU93VW5UUUVNMDhSdDRnUGUwQjhLS202aWNpOUljTlA5U0d1OFE3OGZCT3VKSmh0UjRSbTgwZnY?oc=5",
@@ -31,9 +43,15 @@ window.LIVE_DATA = {
       "d": "2026-08-27T14:55:43+00:00"
     },
     {
+      "t": "클리블랜드 연은 총재, 금리 인상 관련해 \"지금이 행동할 때\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCVEd1MGZ5S05YT0NDRDg5c2JkNlhaMUN4dXMzbS1rR2dnQTd2dVZZbjc1RmFtN2ZwNDZyTF8wWmdiaVpIRURhbTZZMmNrYW1qVVVSVzZyWkUtejBWUUp5TEo3VnBBOVJuTXppTHFtanljQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T14:50:28+00:00"
+    },
+    {
       "t": "해먹 연준 총재, 금리 인상 촉구…오늘 두 번째 연준 인사",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbm5rZDZXcTNHRjhWR2VjZDBLOEhFRzVKZm9UZldVVFMyODRGaGJES1Y4ZDAtajgzSHVOQzgtTkxaMnRJNWtkMWNtVEMwZ2RRQUkzRTNiSWxDREMwV0t0aExlVHdpOXZqSWc?oc=5",
-      "s": "Investing.com",
+      "s": "Investing.com 한국어",
       "d": "2026-08-27T14:50:00+00:00"
     },
     {
@@ -63,26 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "Nvidia 매출 전망에 미국 반도체 주식 상승",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hUzdNYnIzTzNvZnJGbHNpcnZVM1NiMWlDVlY1bEVfM2IybDNkamd0RmsxMEVOdE9FNEszYnJVV3Bndjl0M0daLTM3a2ZET0s0N21YTFE0NHIzQS1jTUxWQlhsOVZJa0lyRy1leGxGVmRTbW5uVWMw?oc=5",
-      "s": "Investing.com",
+      "s": "Investing.com 한국어",
       "d": "2026-08-27T14:11:00+00:00"
-    },
-    {
-      "t": "기준금리 3%로 연거푸 인상...\"물가 상승 조기 대응\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2SGMtNFNLTzgxa3hBNGxvcUlYVEtWa3VsQ2REVHJ5U1FIQ2FuLWk4MjFvSm1KSXFhY3BzT3FEZHZzM2lSNW5BTHZuVjN1WXRBODNkcG5RTHA4cWZYRlE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T14:07:00+00:00"
-    },
-    {
-      "t": "미 달러화 강세…연준 연내 금리 인상 기대감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTjFRMm5hUDVSSFdWNVVYVXU2VWtSWGFnNVVybFE3cm9tRWVDNjJHM0JFTVRVY3hUX3o5MHJvVHpDRF9qdWJnd2IxQW5lODI1ZzgySWhiWVhYcmVNVU9uU1pmcVpJZk84TVBEZVFyVUY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T14:01:32+00:00"
-    },
-    {
-      "t": "캐나다 달러, 연준 전망과 미 달러 강세에 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92VkxJdkV0Q0pWRXY5NHkwTzJWR1huRl9ZMUFRR3RkS1FGNzFkVVNTc0VRbWlTc0lIUFpWYURRY0hDNDBfODlGX3pyeW9JQjMxb1FYZG1oX0dUN1AtV3FFRXN1UldNMEU?oc=5",
-      "s": "Investing.com",
-      "d": "2026-08-27T13:58:00+00:00"
     }
   ],
   "asof": {},
