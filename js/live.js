@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T14:45:59+00:00",
-  "quotesAt": "2026-08-27T14:45:59+00:00",
-  "newsAt": "2026-08-27T14:45:59+00:00",
+  "fetchedAt": "2026-08-27T15:01:00+00:00",
+  "quotesAt": "2026-08-27T15:01:00+00:00",
+  "newsAt": "2026-08-27T15:01:00+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7714.02,
+    "spx": 7722.9,
     "nikkei": 66131.98,
-    "vix": 14.61,
-    "krw": 1382,
-    "gold": 4641.5,
-    "wti": 82.63,
-    "dxy": 99.14
+    "vix": 14.55,
+    "krw": 1381.93,
+    "gold": 4646.6,
+    "wti": 82.34,
+    "dxy": 99.15
   },
   "daily": {
-    "spx": 0.48,
+    "spx": 0.59,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.04,
-    "dxy": -0.03,
-    "gold": 0.94,
-    "wti": 0.49,
-    "vix": -3.94
+    "krw": 0.03,
+    "dxy": -0.02,
+    "gold": 1.05,
+    "wti": 0.13,
+    "vix": -4.34
   },
   "news": [
+    {
+      "t": "폴리티코 \"美, 반도체 전면적 관세 부과 검토 중\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13aVAwYWwzT0NHckFOYWNHQjlHZURweG5sYTFWUkZzX3BFSnZ0Rkk5cW1BMm5tUFd6OU93VW5UUUVNMDhSdDRnUGUwQjhLS202aWNpOUljTlA5U0d1OFE3OGZCT3VKSmh0UjRSbTgwZnY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T14:55:43+00:00"
+    },
+    {
+      "t": "해먹 연준 총재, 금리 인상 촉구…오늘 두 번째 연준 인사",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbm5rZDZXcTNHRjhWR2VjZDBLOEhFRzVKZm9UZldVVFMyODRGaGJES1Y4ZDAtajgzSHVOQzgtTkxaMnRJNWtkMWNtVEMwZ2RRQUkzRTNiSWxDREMwV0t0aExlVHdpOXZqSWc?oc=5",
+      "s": "Investing.com",
+      "d": "2026-08-27T14:50:00+00:00"
+    },
+    {
+      "t": "기준금리 3%… 고물가에 선제 인상",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdUQ2TGVXN2JmSS1GalNwQTNTYV95MENFb0ZEa1VJOXJNelNBMEIzVnk0bklsTEtLTU05R1NqS2pXYUdtWnE1Uk5VTFZnZTZOS3RGa2h2WmtreEViX3FZWmpLZnRpb1lJX0lsZE9mQ2RadjJZN0hodkNR?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-27T14:33:55+00:00"
+    },
     {
       "t": "[사설]기준금리 이례적 2연속 인상… 2000조 가계부채 비상",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dVlERDJWYkl5VUZQdTZHMTFVejBUSjdBZHBCY3d3c3A1ZkZ6UVItenJ5STRpVTRQVDJndHhWLVNBb0xuai1WdTBPUFEydEt1ai1SVmk0a0pTczRwQ1dVMkFZSzlXQ3lKLU9uT19JQVV0Qm9XTmfSAWZBVV95cUxNZDdyQk16cHA5YXBLMnd6NUNKOHBEejZsTEZxczBTbXFCdzFKS3drMk4zS1cwbkNaOXM0cU5FWUdWV05RUGxiTlczakdVOEo4OS1YM3VVZEsyc0tIS2k4Z3N2Wmo1MEE?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92VkxJdkV0Q0pWRXY5NHkwTzJWR1huRl9ZMUFRR3RkS1FGNzFkVVNTc0VRbWlTc0lIUFpWYURRY0hDNDBfODlGX3pyeW9JQjMxb1FYZG1oX0dUN1AtV3FFRXN1UldNMEU?oc=5",
       "s": "Investing.com",
       "d": "2026-08-27T13:58:00+00:00"
-    },
-    {
-      "t": "트럼프 정부, 반도체 고율관세 부과 검토..단계적 도입 가능[이상은의 워싱턴나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xR2JGT0lBS0JYSnBPOFhKUzc1eVZHb3lTUmxGaTNlcVZjRXJWOHRhamV2X19reXZCVnhGNFRLYjBmdjN0a25XUkJxbFpwa2lqeWI0VVZVaGFwUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T13:40:59+00:00"
-    },
-    {
-      "t": "미 국채 약세…주식 강세 속 연내 금리 인상 기대↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jU0lWdWxFNlVGbktDb2w3Szljd0lNajh6WlBSZFNELUNPN0tCelgwSEZVNzU1ZVFnX3Y3SW5wRnJwcHR2aWQ4aW1GdlloTTNFQ0s2SV9KVmdWSzVXNnNCTnozVHFaSU9KMkN1ZUNKRTk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T13:35:00+00:00"
-    },
-    {
-      "t": "한은, 기준금리 연 3%로 인상...2회 연속 인상",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lT2hkRUNPcU9temRfbi1FeUMyNnhyTnB5cTZ6QWVrSGpHNVBLMzVyckkxaVBRY0dYVEU1cTlheENpX1dZaS14TWl0UHJBRjJ3cE9wRTVrZWVocVZIOEE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T13:31:00+00:00"
     }
   ],
   "asof": {},
