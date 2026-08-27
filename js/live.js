@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T05:45:59+00:00",
-  "quotesAt": "2026-08-27T05:45:59+00:00",
-  "newsAt": "2026-08-27T05:45:59+00:00",
+  "fetchedAt": "2026-08-27T06:00:59+00:00",
+  "quotesAt": "2026-08-27T06:00:59+00:00",
+  "newsAt": "2026-08-27T06:00:59+00:00",
   "quotes": {
-    "kospi": 6886.06,
+    "kospi": 6895.88,
     "spx": 7675.7,
-    "nikkei": 66041.62,
+    "nikkei": 66043.08,
     "vix": 15.21,
-    "krw": 1379.68,
-    "gold": 4663.6,
-    "wti": 81.62,
+    "krw": 1380.28,
+    "gold": 4660.9,
+    "wti": 81.6,
     "dxy": 99.14
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 2.13,
+    "kospi": 2.27,
     "nikkei": -0.33,
-    "krw": -0.13,
-    "dxy": -0.04,
-    "gold": 1.42,
-    "wti": -0.74,
+    "krw": -0.09,
+    "dxy": -0.03,
+    "gold": 1.36,
+    "wti": -0.77,
     "vix": -1.55
   },
   "news": [
     {
-      "t": "\"집 언제 사지\" 타이밍 보는 3040...'기준금리 3% 시대' 부동산 전망은 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jemhKUTdXMHhjazRsNi1TMTBlU3BGQ0xPVW9ibEhzblVTVXpPWk9FZUxGcmtYeVhPVlJIb3h3YkpBTlk4RTdIM2xtQ1EyOEFnSGNXUnU0LVJXMjZ2QWduVk5jaXRtSDZVSXfSAW9BVV95cUxPS2F0ckJKSGtkNEYtaVM1Z3ZWZnVQa3liZWhGOEdBZzRicHYyWTBoY084cEhZVk56S2F3UGxUcHhiMFJxNEQyZ0FXdGdCbFZ3M1h1REF3cmpLTVpycWZGaGppdVQwRFF0TWFLc1ZHUkU?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T05:40:00+00:00"
+      "t": "[그래픽] 기준금리 전망",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53TjZmWC1pbWVNalpXZ3FMQUJvcG5jeXk1SW5XNVllSU9DNjZBZDBKck5XTkFSZl9EU0Y5bUs0NkJabnNZdFU1R3hkeF9iSXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T05:50:40+00:00"
+    },
+    {
+      "t": "신현송 “환율 아직도 높은 수준…원화 더 강해져야”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02TWNjTDZ5TzZ1Qlk4dnJDUkNEYmtUTklyQXJVMjNCMC1BOG5pM1JZckk4LTE3VTVRTTk5WkkxQUt3QUhGa1hzV1hBN2d6R3lmX1B4R2JfWlFLZ9IBX0FVX3lxTFB0UEJBcGVnNVJyU29VbTRHajF6TE9RM1ljZV80ckEwTzhYRkhKOTZ3MmZaUV9yaUVxWG1LQ0oyazJtX1RTV2lSMHZabjBfSXpaQktGbnhLMVBNUmZEV2hB?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T05:45:00+00:00"
     },
     {
       "t": "한은 \"반도체 확장 국면, 적어도 내년 상반기까지 지속 전망\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PY2VKYmwzYnhkVUpVcEUzbmpFeHc5WG5kcFhZUEhwdkRWbU1uakZwbFN4bWpXc0duN1BtWDFoeWxmOHpyQm5aOTQwTVBNZjVmbTh4bENPWi1KbEdJR1MzZGJtT0hjc0dubDZNWFp0elo?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T05:07:30+00:00"
-    },
-    {
-      "t": "신현송 '금리인상 기조' 문구 삭제에 \"세부 분석보다 전반적 정책 의도 봐달라\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMkROOHpMbVF4QWNldUw1U25pUzQ2X3F3bmVyV2FyS1FSQ0FKaGdiSm5IWmdSSHBidGdzLTJDRWEwZEkzNS0tQm1LcGVsU2ZoVkNwNFdsTnBubG1aRUN5QmZEOWV5UWExVWZXdTZSdXPSAXRBVV95cUxQbFpoUWFidWNtUHpveXh5NlhfTFhvdk43WDlic29PS0ZqbHFWQTZsSDQxU29UdWdlYmpOVGhfWS1uaWRreDFHOG02dHNtakxENWVYS3lIMjBScVB1VGQ1bUJ3NzN2TjZkOGV1OXNIQVlwVmMzQQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T04:57:13+00:00"
     }
   ],
   "asof": {},
