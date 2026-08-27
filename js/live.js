@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T18:01:00+00:00",
-  "quotesAt": "2026-08-27T18:01:00+00:00",
-  "newsAt": "2026-08-27T18:01:00+00:00",
+  "fetchedAt": "2026-08-27T18:15:59+00:00",
+  "quotesAt": "2026-08-27T18:15:59+00:00",
+  "newsAt": "2026-08-27T18:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7730.85,
+    "spx": 7720.41,
     "nikkei": 66131.98,
-    "vix": 14.66,
-    "krw": 1381.09,
-    "gold": 4664.1,
-    "wti": 83.09,
-    "dxy": 99.16
+    "vix": 14.61,
+    "krw": 1381.41,
+    "gold": 4657.8,
+    "wti": 84.02,
+    "dxy": 99.17
   },
   "daily": {
-    "spx": 0.7,
+    "spx": 0.56,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.03,
-    "dxy": -0.01,
-    "gold": 1.43,
-    "wti": 1.05,
-    "vix": -3.62
+    "krw": -0.01,
+    "dxy": 0,
+    "gold": 1.3,
+    "wti": 2.18,
+    "vix": -3.94
   },
   "news": [
+    {
+      "t": "연준 콜린스 총재, 혼조세 인플레이션 데이터 속 금리 인상 가능성 열어둬",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44SkVDd0V1UkxNREtqYThIYTFWQUZnQVhsc010RGFKU2FieGNOMHhMaVhrUDZVSDFCZDF5eTFBMGhPVkhRcTM0YmNZTzRtS3piOWNHNFBITHJiN1VvUFM5S3FWMG9BYXhucGc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T18:04:00+00:00"
+    },
+    {
+      "t": "美 국채금리 일제히 하락…고용지표·잭슨홀 대기",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2tybkVFZ1lXVVRZTGJNd1FFUDJUd3JfcElYRGlBclg3TkRoeXU3WHNnMll6V0hqNnhDcldEdW05ZjJLNEViaFh4MnVSVHcwY09EZ01YZ2hnX083QzczU2tXY21FVnZxLVZ6ajU3Zkp4Q0REcDdhSHBwa0FnYmFubnZSRzg1RTFw?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-27T18:00:00+00:00"
+    },
+    {
+      "t": "정부는 슈퍼예산 800조+α…금리인상 효과 반감되나",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSGdjZDhxWHdSTmZRY01HWFVFZk5IU2RodzNJNnZReUNncGg3ZENoRDktc3V3c1l2c1NtVjBKOGl4YVlnaFFjbGE1Mmx4OV9TSHQ5VmdFeDVKUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T17:35:00+00:00"
+    },
     {
       "t": "연준 해머크, 연말 인플레 3% 전망…2027년 중반 2%대 도달",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DYW5IWVhxcFJjeUllbk00a2NmMmpveHFEQW9NYVE5OTdsdk41eFdGMnE1dzlyN1BqTFRlS0hnUDI1aVNBaEdOMWJ0eGZoLVAzLThPVjVjc3ZNLUh5OTFINGxXX0hLSkthTm5ZZnZDWWw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOVJJWWpkU2tGanpXYjI0RWNWcGZkSTlyVEdVRURMWjRjQmF6dThBczhMeU1HSzlBa0NwWkMxY3BscklfS29DUm91N2ZBLVNuQW0tb010VmNONDFVRmJnMEhPOGl2QWNBQkhrTTEyTjM?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-27T16:46:00+00:00"
-    },
-    {
-      "t": "피시방 룰렛 : 흥미로운 사실과 통찰력 있는 분석",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRUQ1Yk5XcDVkQm83YkJ2T2NvQy1QWkNZSlZ3N2xHRzM4MFNjVFIyQlZrNEdCUzNka3A3RFZKSkRKazhmdFhIQ19EVFZCTzdNMVVjZm9HLXY?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T16:33:15+00:00"
-    },
-    {
-      "t": "[사설] 두 달 연속 금리 인상, 엇박자 재정 정책 지양해야",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlUE8tQk1EN2o0YnRLMlRqSDBITDhhTVFuUG92MUN5VTlRLWo1ZURKMzg5clhOVW8yTG82a1I2LW5pajRhYUNJMDhSR2wtYlE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T16:23:50+00:00"
-    },
-    {
-      "t": "토토적중조회 : 초보자가 알아야 할 모든 것 - 실용적인 접근법",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrS25fX1Y2RDdYQ1dJMl9CLVl4Z0pobUlIQVlfZUIyZndLSlVicWM5ZGw2MVA3ZG1uVFlmNEsxY1U4YmVMcm53TmZRME9Yd3J3Q0pobzdSSmk?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T16:13:31+00:00"
     }
   ],
   "asof": {},
