@@ -1,15 +1,15 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T20:15:59+00:00",
-  "quotesAt": "2026-08-27T20:15:59+00:00",
-  "newsAt": "2026-08-27T20:15:59+00:00",
+  "fetchedAt": "2026-08-27T20:30:59+00:00",
+  "quotesAt": "2026-08-27T20:30:59+00:00",
+  "newsAt": "2026-08-27T20:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
-    "vix": 14.54,
-    "krw": 1381.65,
-    "gold": 4658.6,
+    "vix": 14.51,
+    "krw": 1381.75,
+    "gold": 4659.2,
     "wti": 83.63,
     "dxy": 99.14
   },
@@ -17,18 +17,48 @@ window.LIVE_DATA = {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.01,
+    "krw": 0.02,
     "dxy": -0.03,
-    "gold": 1.31,
+    "gold": 1.33,
     "wti": 1.7,
-    "vix": -4.4
+    "vix": -4.6
   },
   "news": [
+    {
+      "t": "뉴욕증시, 엔비디아發 훈풍에 일제히 상승… 나스닥 1.57% 올라 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDh0RExwS1NTcFo2RGU5dGZyS0dnYmJJZi1aak92YThoT1VNdC0xdGJ2NnVJOUJWR1JTc2FvcGsyUGk5dVZoVlVLV2FHakdTRkZfQnpVbHZONkxTbjBYUUFvZDI5YXcySFlmQUgtR2ZTMnVkcG1HVkpGREcwV2ZMS3czcVlGWVVCaFNKNlMwZDdoX1VhVTNza09BS0N3QdIBsgFBVV95cUxPRUlqS1dXLU1GTzFyblVoMWVPMTZjNnNhc185cEJXV3pIcWFIZ0NZLW5Zb3VyWkRsSXFGOENBX0dTb2lTa1RIcjcybEw4enMzYkJYOXNYUHRQU2JENkNzUUxFR2FEQkJhd05pSjhrNlptendiTHlwMTkwUnVZc3NtbmRwNy1obU1HaXJldlMtS1VvQnFOZGFWM0hBM1ZlaHFrd0xZNlpaa1QyWE8zTUVfMTFR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-27T20:23:00+00:00"
+    },
+    {
+      "t": "진로 토토 먹튀 : 학습 전략과 자원 - 최신 트렌드",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGaENZSUQ4M09LcWxTY21nUHR1dTBXRnhyMXZLbmg2VG9WckRadDgyS2w4Y3pKQ2JpdjlmZDlhYXZVcWpCV2hUd2tkakNNVm9sMGh3YnZnYlJRYnAwNmk2Vzh2TQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T20:20:46+00:00"
+    },
+    {
+      "t": "환율 1300원대 진입, 부자들은 지금 이 자산을 모으고",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejNvNEJsWVV5VFN3NC0wX2dmaDVDMklUckp2UVlmSUpvS2wtdndVcjZFX2haSVdwOU9PVGdCX2JSVzV4QmFra05GZFBuLUxDcy1RYnUxZ215dDlheGZSRXNKLUFqSWxEcm84ZUdtTFBFQjlVaHRMaUZwcER4WGpHVQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-27T20:20:00+00:00"
+    },
+    {
+      "t": "잭슨홀 첫날 연준 인사들 '인플레 경고'…\"지금 행동할 때\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Vm5HNFdkazFfVnNQZGExUEZ2d2V2SlVSRVRlSTZ2LVBjLW93Y3pFc1VvQUFkT2hXdDR3aDNoNmpMMVY1bTRQWDNyX1NOSWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T20:17:28+00:00"
+    },
     {
       "t": "[뉴욕증시-1보] '폭발적 성장' 엔비디아 9% 급등…3대 지수 동반 강세",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTm1JUmg3OWZ0c19za2JBUHl0SGVrM1pMSnlJSFBlLVVVTjEyTzV6QWRUeVFpWFFkTUUybXlwTnJHSUhrNkxxZXNIdVUwZ3hQa20wc3ljbXlaUmc4UnBtTVFTX3huNThOVlRHZ2NubXA?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T20:08:55+00:00"
+    },
+    {
+      "t": "‘변동금리’ 선택한 ‘영끌·빚투’ 취약차주 충격",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XUFNheUl6WXJpSy11UnZvOS1Kekh2eGhRSVp5UC1Vd0QtakNoLWhQcEN4QmZVZXZCS1lCMkNjWmZsM0pmVnh4WEtIY2xQZHotV0ZFeUVBSjZpT0xLMFdaSkdoR1dIb2s?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T20:01:00+00:00"
     },
     {
       "t": "[사설] 기준금리 3% 긴축 시대, 한은·정부 정책 조율 필요하다",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyYzdQWF9mNllpRlphOVdsQlA2U212d2xFV21KOFFSTnJDRDBOWkhUZkdTRlRTa1Rvc05POERsWkhJWjFTUnM2M211c0p2U1VDR1V5V1BHS0hlaGZCZzFqd1JtUQ?oc=5",
       "s": "Platea Magazine",
       "d": "2026-08-27T19:50:59+00:00"
-    },
-    {
-      "t": "'통화 정책 신호등' 美 연준 잭슨홀 개막...워시 의장 첫 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Z1hKTVp2NWp0Q3hHOGdaN0Etc0dIUVlZNzMzRkNFQjl6V1piU1JBWDNOa19tV1RrR2g0dmhibWU4cWctdWg4RDNzcXdwTERWNUZv0gFYQVVfeXFMUHVaRlotRThZN1VhV1ExYlpmWDFOY1pqanRkS3BQcEk0aUlDeVJGLVVzdlR1bTFOcDFyRzFReFRoSkh6ZFFYdlRyeWVEU2NnTVVBM0U3M1kwYg?oc=5",
-      "s": "SBS Biz",
-      "d": "2026-08-27T19:46:00+00:00"
-    },
-    {
-      "t": "[뉴욕채권] 국채가 약보합…잭슨홀 경계감 속 유가 반등에 약세 압력",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WE13NTBTUmdkVGU0Ym5hVmFNNmkyR3NiSlNlNTFHX0t1dWc3bHRoRlhMQmdsWXhpRjhDVzY4X3Q1WHZBUTc0ZHVPRUVLUk5rY0E3WTk2ZkJNR2V3azMwcDlKN0UtTV9UWjlfQW9udzNVUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T19:43:45+00:00"
-    },
-    {
-      "t": "국제유가, 미·이란 협상 기대 약화에 상승…브렌트유 2.1%↑",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Ny0wU0JTS2pydHJoVlRLZFNGeUhRVkxNU2RTSjJXc0x0ZUhjdUJjVnpsVHJyTnN6WWRmeHpxbnplOVBsOWdDRmx1RU5tZktmaHZhWENQRTV2WFHSAWBBVV95cUxQamVudkdBVUhTZGRUMXczak85UjBZSFZyanpVYVNudzlLUmw0VWJJMnFXOGRmank2VlZWWFR4RlNuWllKalhnR0FoOTltN2ZVUE11aTJmaGhGbnl6cmNvWHg?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-27T19:35:54+00:00"
-    },
-    {
-      "t": "“가래 대신 호미로 먼저 막겠다”… 금리 추가인상, 시기만 남아",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbFcwdXlaSHlXUzdEZ1FLZkdKTFJxU3k5SEg1Wl83UDRRSVZ1QUhBallLMWxfR3JSU0xVYVdhNlo4eVVtSFJOT3dxYk96VllTc1lCV0RZSnBQd2FDcGNfWXlQRkNHUWR6OWFsQlEwM2ZhejVaX3fSAWZBVV95cUxOVGxhd3g5b29XanV4aDBVQ0ZKd1dGLUxFcmoyVWdEQkdFNUpWQkY0NThvYTEyZXZYdVFid3pVbDJQZTBvWmlTZ2pJdFJkS2U0dldBZmhSTnpUZldXUldpLUR1SEQ0VWc?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-27T19:30:00+00:00"
-    },
-    {
-      "t": "환율 장중 1370원대, 신현송 “아직도 높은 수준”",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxVy1jejJQZmoyb1VadkZZb1dub2JzZFJmU292TkVWeldsX0pjN0lyMGpVVG1nYmVkeVBHNUQya0F1Y0hqTlJpX1ZYNmNFZmVjU0tYOF9YRUNYVm9mSWs3LTZvbVJRNWdISUVaZWlCOVdYRFZGY0HSAWZBVV95cUxOR3JJTzRVb1hXR2tzUllBLWpWczd1WURhZ2RhVHZWSzJ2dmJvS3dSUWpxNDZoeDVhSzBocTFaY1VxQTdPMFpQWERRZ0dYWnV3MU1yeWFJVFk5UmdrTGJmYWM0US1WakE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-27T19:30:00+00:00"
     }
   ],
   "asof": {},
