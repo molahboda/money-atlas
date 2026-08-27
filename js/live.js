@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T15:30:59+00:00",
-  "quotesAt": "2026-08-27T15:30:59+00:00",
-  "newsAt": "2026-08-27T15:30:59+00:00",
+  "fetchedAt": "2026-08-27T15:45:59+00:00",
+  "quotesAt": "2026-08-27T15:45:59+00:00",
+  "newsAt": "2026-08-27T15:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7719.35,
+    "spx": 7712.64,
     "nikkei": 66131.98,
-    "vix": 14.45,
-    "krw": 1381.23,
-    "gold": 4648.5,
-    "wti": 82.26,
-    "dxy": 99.14
+    "vix": 14.51,
+    "krw": 1381.24,
+    "gold": 4652.8,
+    "wti": 82.39,
+    "dxy": 99.12
   },
   "daily": {
-    "spx": 0.55,
+    "spx": 0.46,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.02,
-    "dxy": -0.03,
-    "gold": 1.09,
-    "wti": 0.04,
-    "vix": -5
+    "dxy": -0.05,
+    "gold": 1.19,
+    "wti": 0.19,
+    "vix": -4.6
   },
   "news": [
+    {
+      "t": "SK하이닉스, 인디애나 40억 달러 규모 반도체 시설 착공",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNmsyOEp0dTdaQWFTSlBEX0hGUFNBN1p0SEdBWnBlejRtdElxWTJUZHNrWWdieUdqYWxkRG43RnF3czd4eFkwbW9YZlZwemlHV1dTY1dpUVJ5dGZzX1gwTTNCVGlkY0lCTGZFdm02TFB0RnRWVm5F?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T15:35:00+00:00"
+    },
+    {
+      "t": "금리 3% 시대…연내 더 오른다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QS1B4NHpFMXRCdVRVci1lOXN6NF9idEFIUXpmemNLSUZqakQwV1VhWHY0Zmg2amQ5Uk1kblpmZzFTTWl2M2tyblQ5Rjc5TXJuaFFnX2Rn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T15:27:10+00:00"
+    },
     {
       "t": "주담대 금리 연 8% 뚫릴 수도…영끌족, 이자폭탄 공포",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pbkc1UDBNUFVtbzFtWmRBTnNueDFxaVlJZ3lfQ1J3MG14US1LS1BNZEZHVFZDNVJzbXdrOTIyeGEwaF85SUpxLXJvOTNpRF9JRkt4eVJB?oc=5",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T14:50:00+00:00"
     },
     {
-      "t": "기준금리 3%… 고물가에 선제 인상",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdUQ2TGVXN2JmSS1GalNwQTNTYV95MENFb0ZEa1VJOXJNelNBMEIzVnk0bklsTEtLTU05R1NqS2pXYUdtWnE1Uk5VTFZnZTZOS3RGa2h2WmtreEViX3FZWmpLZnRpb1lJX0lsZE9mQ2RadjJZN0hodkNR?oc=5",
+      "t": "금통위원들 ‘6개월 뒤 금리 3.25% 안팎’에 무게",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1UDhNUk9XYS03d0ZhdHctY3RycnJkcjVvbWRNR2w2TF93VEg5azR5YlFMRUpfUm1yZFJUcFNrSmgwVzRvYmd2MWt4YkdQSlZBRXdNOEN0eU5lbUJwX3VrQWFaMEEyZkhZejRJSlNCMVBvSFBGZHdVV29n?oc=5",
       "s": "서울신문",
-      "d": "2026-08-27T14:33:55+00:00"
-    },
-    {
-      "t": "[사설]기준금리 이례적 2연속 인상… 2000조 가계부채 비상",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94dVlERDJWYkl5VUZQdTZHMTFVejBUSjdBZHBCY3d3c3A1ZkZ6UVItenJ5STRpVTRQVDJndHhWLVNBb0xuai1WdTBPUFEydEt1ai1SVmk0a0pTczRwQ1dVMkFZSzlXQ3lKLU9uT19JQVV0Qm9XTmfSAWZBVV95cUxNZDdyQk16cHA5YXBLMnd6NUNKOHBEejZsTEZxczBTbXFCdzFKS3drMk4zS1cwbkNaOXM0cU5FWUdWV05RUGxiTlczakdVOEo4OS1YM3VVZEsyc0tIS2k4Z3N2Wmo1MEE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-27T14:30:00+00:00"
-    },
-    {
-      "t": "국보 토토 컨설턴트를 위한 친환경 에너지 권위 있는 가이드",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUWY0UlJHbk1rVGJ5b2tIbXBieXB2UUZ2bG1BZzFjWnhJb3BQOVZITWVBbFZUUFBibUUzU2JzQ0tIcWx6bFhsQ2FpR2dBa2ZxaTNpeGdvYlk4RWtXM1l5Q29IVFY?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T14:17:36+00:00"
+      "d": "2026-08-27T14:39:33+00:00"
     }
   ],
   "asof": {},
