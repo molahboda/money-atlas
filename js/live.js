@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T11:45:59+00:00",
-  "quotesAt": "2026-08-27T11:45:59+00:00",
-  "newsAt": "2026-08-27T11:45:59+00:00",
+  "fetchedAt": "2026-08-27T12:00:59+00:00",
+  "quotesAt": "2026-08-27T12:00:59+00:00",
+  "newsAt": "2026-08-27T12:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 15,
-    "krw": 1380.79,
-    "gold": 4647.9,
-    "wti": 82.29,
-    "dxy": 99.24
+    "vix": 15.01,
+    "krw": 1380.78,
+    "gold": 4648.8,
+    "wti": 82.59,
+    "dxy": 99.26
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.05,
-    "dxy": 0.07,
-    "gold": 1.08,
-    "wti": 0.07,
-    "vix": -1.38
+    "dxy": 0.09,
+    "gold": 1.1,
+    "wti": 0.44,
+    "vix": -1.31
   },
   "news": [
+    {
+      "t": "슈미드 연준 총재 \"금리, 경제 제약 못 해…인상 가능성 시사\"",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UeGNzUTlDd2w3LVFSbGUxVlZubDhWZmkwMHVfQkU4bkZNRDJJbElQcTFkYnV4X3VKa3R5dGdrM3FjVTlLa2haUzhDNElKeGdJemx2NXROLS11NjQtNFRCenhuZU9xMHptamc?oc=5",
+      "s": "Investing.com",
+      "d": "2026-08-27T11:52:00+00:00"
+    },
+    {
+      "t": "트럼프, 반도체 넘어 노트북·서버까지 관세 검토…美 투자 땐 감면",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jak5ISFBOZUhDdkNRanRLNHUxb2dzLUxqT3NmYVZ2cDF6S0xxaTRPOGJ4SVNVMVQ4Z2E5YzBIOG52WVc3Tk1NdXdvTVNUX1V1OEhRN3dsVUU3V1Q1?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-27T11:47:00+00:00"
+    },
+    {
+      "t": "기준금리 ‘3%’로 연속 인상…‘호미론’ 꺼내며 \"선제 대응\"",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XYkhKcmpUS2dZazRxUHFNbmhCTk1WQ2lJTTZsc2JlTEtoWm4xUFI2dGltbHdiemduQ3l6ak5mUTNzdmprbFFEQnA0ajBYQTR6YjY3Uw?oc=5",
+      "s": "JTBC",
+      "d": "2026-08-27T11:44:00+00:00"
+    },
     {
       "t": "미 국채 약세…주식 강세 속 연내 금리 인상 기대↑",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyRzZhVWlDLTJFVE5yMmhoR0k0VU5XSno5bXplZFktS0Y0cnR0UUhXWk9JSlM5cHZCM1FheGd5X0ZtLWJoZjM5Zm0yQnpWLWluT0xmTDg0OGVzYVIzeDFIV1hBeUE1Q015YUx1aDV0YmVWQQ?oc=5",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T10:50:00+00:00"
     },
     {
-      "t": "한은, 기준금리 3%로 올려…물가 압박에 이례적 ‘두달 연속 인상’",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrcUtsNnU0T3Y3eEl2TGdaYlNNaUdNNGotemR1MHVSdEFhTHp0WEJrWWdSdlFFeHBZdWJMMERvcjh1SmxtYndYTEk5V1pLMXV4aUtGQnItUjlBcmFaZHBWMmptdUU0RFBBeEYxVkpIbTBVdw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-27T10:44:00+00:00"
-    },
-    {
-      "t": "신현송 “정부 확장재정이 성장 올리는 투자면 금리인상과 엇박자 아냐”",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VX0hfX2c2aUNvZW9fZjhVeGJTU0J5a3l0SW9KSHd2RXo2bVozTWRzYVlMbjdHV2JaZWU4NThEeW5UVWw2ZUd5TFVESGNTbkdMRzNUM0FIS0J5aEpQazBuSjJzZFItSmthcXRxeDZ3d0Q5Zw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-27T10:39:00+00:00"
-    },
-    {
-      "t": "‘호미론’ 신현송 물가 선제대응…주담대 금리 상단 8% ‘공포’",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2RXMW9ia3U5X3gzd0poajBIM1M2Z2l4dUJmczAtZWpnQjZ1TTU4X2JCN3Q3QWdVemxNeTN4SHBENk1UZ2FQRmZFTnpzV3NkeGZzcVhvMmh1djd1bzZyR2VqdzI4enhoLXZGVnhTSUxmSUZPOVA1X1lOQWU0WWlLR1l6M2RnSnh3aHFB?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-27T10:39:00+00:00"
-    },
-    {
-      "t": "관례 벗어난 백투백 금리 인상…“가래 대신 호미로 선제 대응”",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZk5uZjZIV1dZb21uNjNtQWk2X3Z1b0VPaUpJT0lRSXU3OUFqMGRaRDJaZ1F2bDVhYkNGMnNiUkl1M2g2NC1KWEtYTGt5NXRfbUFEb2tkd215SnIxWVpiVml6VzRRWlhFd29ROE5DdXlpQQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-27T10:37:00+00:00"
+      "t": "연내 두차례 더 인상? 한은 8월 기준금리 인상 後 [톺아보기+]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSVBNNVlYTTZlOWdFd25PN1hhRVJxM2YwTi0zQk9IR0ttNU1aNVlfSDh5RWJCbXVvTlhkYkNNWTlXdjBoUi0zQnd1dlBaeVl0Nm1Hcjl4cFllVndCQVpRcTc4WDdvUnkwLTBHZHFB?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-27T10:44:58+00:00"
     }
   ],
   "asof": {},
