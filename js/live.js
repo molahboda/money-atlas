@@ -1,29 +1,77 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-26T23:45:59+00:00",
-  "quotesAt": "2026-08-26T23:45:59+00:00",
-  "newsAt": "2026-08-26T23:45:59+00:00",
+  "fetchedAt": "2026-08-27T00:00:59+00:00",
+  "quotesAt": "2026-08-27T00:00:59+00:00",
+  "newsAt": "2026-08-27T00:00:59+00:00",
   "quotes": {
     "kospi": 6808.21,
     "spx": 7675.7,
     "nikkei": 66262.16,
     "vix": 15.21,
-    "krw": 1383.73,
-    "gold": 4674.8,
-    "wti": 81.83,
+    "krw": 1382.98,
+    "gold": 4677.8,
+    "wti": 81.84,
     "dxy": 99.13
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 1.66,
+    "kospi": 0.97,
     "nikkei": 0.62,
-    "krw": 0.16,
-    "dxy": 0.22,
-    "gold": 0.79,
-    "wti": -0.64,
+    "krw": 0.11,
+    "dxy": 0.21,
+    "gold": 0.86,
+    "wti": -0.63,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "[표] LME 비철금속 및 환율 동향(8월 26일)",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yejVLU3lCNTRtbE1mSTlrTW8tZTBsVmdXZjNCb3NkS0tENXkxbllZaW1JOGtqdHdZNEdsQzZxb0FmWFFPRUNncHc3bGNlV3Rqell1dHpXN1h4UUZTdXNvbkhlODdBUTNzQmc?oc=5",
+      "s": "철강금속신문",
+      "d": "2026-08-26T23:55:52+00:00"
+    },
+    {
+      "t": "코스닥 실적 개선에도 저평가…“의미 있는 반등엔 금리 하락 필요”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMzA2aFZIZ1FWdERsbjdQVHFxYzE4aXNhMEVZN3JYV3hhdk9scVNxMHRRUDBUVFZ6ZGo4T1BZeWNRWFZleXhZSER2M0ItaDdMLUtlOTNJVTNOQk0?oc=5",
+      "s": "경기일보",
+      "d": "2026-08-26T23:53:50+00:00"
+    },
+    {
+      "t": "엔비디아 실적 대기 관망…뉴욕증시 3대 지수 약보합 마감",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ja0d6N01UWU5mdmhMR2xGeWJ6a0J5NndZWFJYTVhiMlFvVjNoNWdRbTJMbU80T2lXNjc1MXZ2TnBaelJOOG1JVFBuamdPeFJwM19Hd2NTUW91dTg5UjZaSThLVi0?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-26T23:53:46+00:00"
+    },
+    {
+      "t": "한투운용, ACE 반도체Plus전략산업 ETF 순자산 3000억 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpMDJtUkxPcXBkRVhHRWJGVjBIZ0F5TW9YM0FRb3dwS240SWlMR0ppTlJOaG9uUDZCVVgxb0FkSl9Pc180Q0xGLWxRM0ZvaUxuYnROWFZHVjBYSG9jald0NQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-26T23:52:25+00:00"
+    },
+    {
+      "t": "국제유가, 이란·오만 협상 진전에 3거래일 연속 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbnJXQWtDSkNybllwOFpTRk1zM3RLdDJBbkdlM1hUX3J2SEVHczdPWU43c1VRZW9oVWN5N2tadG43dWItTUtqblpEaFZZdEwxX1c5eXc1dTRabnFkNUZLbGtjZUI?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-26T23:52:12+00:00"
+    },
+    {
+      "t": "베트남, 中 제치고 대미 무역흑자 1위…트럼프 관세전쟁 수혜",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05TjRNRnExcnUzZWtnMUh5QWYwUVRSZGNKbjNMejVhZmRaNlV4UWVGc3Rrenk3bC1aNmw5NjY4U2dFYXV6R2M0UGU2RE1iYXRYYlpVVHlOUEZ2b28zY0ZwSWZkQlpoeGlOcWJtRGlmcGY?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-26T23:42:05+00:00"
+    },
+    {
+      "t": "한투운용 'ACE 반도체Plus전략산업 ETF' 순자산 3000억원 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoam5vUHJ1WVNna1BFVkYxNVVVVXZEVTBiRWNJX2RrcFhqVUx6UEtPQ05yU29sU01iWEM4YVZzb0FZczd5MW1VWTVPOGJIbTNDUmZ0UU82WGpVODFm?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-26T23:36:00+00:00"
+    },
+    {
+      "t": "[해외시황] 뉴욕증시, PCE 예상 상회·엔비디아 실적 관망에 '약보합'…나스닥 0.08%↓",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQndwOXJ1cG1CVHM4WjlhNWhfZTU4TzM2Uy0waG56REM3MkZ4VGgtbHVhbFJPc3lUZmVHVzJtNjNDcExoeVhCcmFRREJtSy1OR1ZnZUhTRHYzQnBIeC11RQ?oc=5",
+      "s": "프라임경제",
+      "d": "2026-08-26T23:34:50+00:00"
+    },
     {
       "t": "[마켓프리뷰] 엔비디아 훈풍에 반도체주 강세…코스피 상승 출발 전망",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOMzV6RmRTVUdyTVIxYWlzRF85Q2JJX0w5c3JXWnRnbnZkaFBWdmRUYXBuaWN0Z2djZmNSNlV4cU04OEVTNkN5QWh1OGpwMGc?oc=5",
@@ -35,54 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55Z0pHVzN6OU5OYWVpSGg0WGFfZkkxQmRaWFJ5NWMzdVZYN0l6QklxRzZieU1XYVZ0dEt3WXVoX1FaQ09Vd0c1dTBieFFLeGFKd3owVUVqQ1VSRU15?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-26T23:30:00+00:00"
-    },
-    {
-      "t": "[증시 포인트] 엔비디아 호실적에 상승 출발 전망...금통위도 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTmFEcnF1R3hRem1XLTIxYktuckozZGlCdnd1WnJTWTRaSzZlVC1DR1ltSmhWalh2UndCMzJLZTlQYVJCTV8ydmQ2cHI3M2FzUGw5M3pTc2ZTZkVVc1ExanRaZE9UME5xUkFOallnbVg?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-26T23:29:55+00:00"
-    },
-    {
-      "t": "[외환] 끈적한 美 물가에 1,380원 중반대",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ROE5xcExwSV90YmgxNXVOcmJUYjZ3U0RjbTRIbGprSndac0NVSjRZRzVVWUVQNzA3US02SlVjZV9OaV9wNmFIZ2p4OTJ6MDlGU3E2Q3pCQkJUVllSOHl2ZmcwbFJLWERndDVWLTR4ZEbSAXRBVV95cUxNRlktQWZUenBySG5KaEZQbHo3WDVvaWNOZ3luQWdldDNkZFNJS1VoTDZKXzBkUmNneXB0MVFRczhhNEk3WDhILVlaWDh3dW9WdzFXZ2JCV21DMkxzMlM5WXY2dUdQbWhoSkZXbm9kTTZHVVpJMw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-26T23:27:36+00:00"
-    },
-    {
-      "t": "넷마블 맞고 pc AI 시대 디자인 패턴: 역사, 현황 및 미래",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVU1FmSDJBU1hfdFhnUjdSUDMtd1h3c2VQZ1lBMExoX1M5XzNWVFVxT2VUN3EwRU4zekd5MWJWUndrdTlnbEQ3M2l1VVpwWFFyakMxay04c3o0UQ?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-26T23:23:30+00:00"
-    },
-    {
-      "t": "韓銀, 오늘 금통위... 두 달 연속 금리 인상 땐 3%로 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQemNQUHNXVjUwSlBmRHZqekdDSTFiRFh0WFlTc04xWWp1UXMwcUNvWC1vQk9FYUR6Z1B2YzA0aF9MdnZaMU9vRmQtbEptTENtWFVFQXNPZUxIMEZpSzJRUmxCeW12a1pXQ08tbThwVXN6U2xGa3pZOFZ1akJkYUt2QnZDbkJGQdIBmgFBVV95cUxQMnczc1BDQ0dDUHJjT1pmblIyM3lBZ3hyd2tMWUZ2NWhzdnFGdUZkYml5aXpLLWFzN2FfTXNkWjRzYS1uYWpTMDhTY0hkMjZ4OEdHeV91S0djNEpSSlNNcjZQWDJWY1pWcVY4VzJ2eVRwVWRKZzhUN090M1JpNDdNMXUyelRfY3RWWThha3J4Z0VvN1NOZE94bEtn?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-26T23:17:00+00:00"
-    },
-    {
-      "t": "유가보다 정제·운송 부담…\"내년까지 에너지값 고공행진\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51U2xVV1JqVms3ZmVqaHdMbHVwYUVkWFBEQmlBQjVBVXN4MW4zQ2RZeUJtblRZX2dsc25yTFd0X1ZEc3dGWGFGOFVoY0pYY0JJVzJTN0ZpeW90Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-26T23:15:29+00:00"
-    },
-    {
-      "t": "[브라질증시] 17만6000선 돌파 후 상승 탄력 둔화되며 강보합 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1paU53VGV6enRNSXdqNERuNThhZFgzUm1JVUpsV09rQTVMQXNQYXlBYUtuVWdycGdFQWhtT0Jpa2lId2U3NU5tZ0NNWl84blZxOExBTWp1OGJ2N04y?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-26T23:13:00+00:00"
-    },
-    {
-      "t": "엔비디아 '어닝 서프라이즈'…국내 증시 상승 출발 전망[굿모닝 증시]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ERE1XSlhiMVlwbUZPZTNvODZMWVdrWWJkYk5UeElIaU1OdjJqLTk3Z3pOVnhMbmFwTEVibFJuenBXR3hwYl8wS1YyUkt4eHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-26T23:11:49+00:00"
-    },
-    {
-      "t": "월가 \"美 7월 PCE에도 9월 인상론은 신중…연내 인상 가능성은 여전\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE10RnFTa0ZKUDVYNGstZVoyUXJ1M0hEcVhfS1pOb01tall6M3RsMGhoODN4YjFrZVFYRXNQUDNoQnBsRndUZk9SeS1GanJERkxYYS13R0RyWkVyYVN0LWVEZTIyRi1nbnhQQnZIcjVpT1VxUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-26T23:11:46+00:00"
     }
   ],
   "asof": {},
