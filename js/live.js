@@ -1,40 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T20:45:59+00:00",
-  "quotesAt": "2026-08-27T20:45:59+00:00",
-  "newsAt": "2026-08-27T20:45:59+00:00",
+  "fetchedAt": "2026-08-27T21:00:59+00:00",
+  "quotesAt": "2026-08-27T21:00:59+00:00",
+  "newsAt": "2026-08-27T21:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1381.53,
-    "gold": 4656.4,
-    "wti": 83.54,
+    "krw": 1380.93,
+    "gold": 4656.8,
+    "wti": 83.51,
     "dxy": 99.14
   },
   "daily": {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0,
+    "krw": -0.04,
     "dxy": -0.03,
     "gold": 1.27,
-    "wti": 1.59,
+    "wti": 1.56,
     "vix": -4.6
   },
   "news": [
     {
-      "t": "\"대화 없다\"는 美·이란에…국제유가, 나흘 만에 반등",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kWlFmX3Rudkt5R3diZHY3d05pd3JWSkY2dXFWWkZ2LVRJRTBvZ18xQV8tVU15OTFPaGxJUUw2YnRFSUJ6RXA2Nmlackc5aHA4Ml9JOEFhUWdNT1Z6cDN6czlyMHNsWjg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T20:42:00+00:00"
+      "t": "바카라 히든 - 시대별 변화와 영향 - 업계 전문가들의 조언",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRE80ajJHT282Sm9vYU5nUUd1cjdhekJ1aVZ4ejNpUHpPRWZwVjN0VloyMTFtWElPTVlIeEZ3OTB3OTNnY1llc2JOVnMxRWpGeVdMMFRSU3NTMjY5MU1qdWRlRVo?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T21:00:29+00:00"
+    },
+    {
+      "t": "[여기는 논설실] 금리 연속 인상에도 시장은 웃었다…신현송의 ‘도비시 하이크(dovish hike)’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QM2ltcGh4c0R6U2huY3RRM19nd3VDUktFT2xpQjJBV3FsNFB0VHpidXlzZE9McXRrck1hQk1FRW1Wem1uWjJzejhLUzlYUUVqODNLUDhCR0E2dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T20:56:59+00:00"
+    },
+    {
+      "t": "[뉴욕마켓워치] AI 논란 날려버린 엔비디아…주식↑채권↓달러 보합",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NcTVaNEN1NmQ2ZUNfU2xTRmU5WWJsUjF4Z2lONEp1NG1pRmk3MDcwSW5wU2l6ZW1oUS1OT2dmNGpuc19aellmTTZkck1lS2FGdmlRNnBrZWg1RG44MFlRdHdNdWJXMUUxUEJrODNjNm8wdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T20:49:31+00:00"
+    },
+    {
+      "t": "시저스 카지노 : 주요 이정표와 혁신 (2025년 최신판)",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQWFfM0dkWUwxM2QySl8yU1lUTGJydE84ZlY2QTFiYl9pOXRHZjU0N2tEWGZ5dUhQYkh6MWZoQUhSSUZNcUFMcVVKWXhnczMxQU1wNzlfNzZWMUtPRmpRVkJZSEk?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T20:46:15+00:00"
+    },
+    {
+      "t": "토토 볼프 재산 연구원를 위한 사물인터넷 핵심 전략",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOVWdBYzRDQllNc2M3NG1LX01MV19tNUJBVExoTVMxNVJka184QXBzMVhQUFVnN2lRa2xOdkNoQVJRZ1gwc0Q1ZjNmdGFOVzM1enpCaGlOcm1vWGo3bXdkdTRfNA?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T20:44:29+00:00"
     },
     {
       "t": "[뉴욕증시] 엔비디아 9% 급등 속 기술업종만 강세…3대 지수 동반 상승",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZU05tR1VjSTJwbV9LcHlYZDJMY0w1MUpqdkNSeW0wV1hUa3BHSUhZLTBXVzhMSzVXc2Nid29pZ2tuVmlGNnRHMXFYZnVWQktnZFVyUGtvZm9SeDY2em9fVkVMY3gwaVd3MTFEY2Nka0w?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T20:37:10+00:00"
+    },
+    {
+      "t": "이란 때려 올린 유가, 베네수엘라로 잡나...“트럼프, 유전 지분 확보 합의 근접”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xTE9ROWlDYk5ReTRjQmVocnZ1TzFlNTM0OUU0MzNqOFI3eWxETTZmTzcyVWpGWWpLMzJ0M3dGRFdxTFBIdExuNGtIZXdpRVJqS1JDWF9R?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T20:37:00+00:00"
     },
     {
       "t": "[뉴욕환시] 달러 보합…워시 잭슨홀 등판 하루 앞두고 관망",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T20:31:08+00:00"
     },
     {
-      "t": "뉴욕증시, 엔비디아發 훈풍에 일제히 상승… 나스닥 1.57% 올라 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDh0RExwS1NTcFo2RGU5dGZyS0dnYmJJZi1aak92YThoT1VNdC0xdGJ2NnVJOUJWR1JTc2FvcGsyUGk5dVZoVlVLV2FHakdTRkZfQnpVbHZONkxTbjBYUUFvZDI5YXcySFlmQUgtR2ZTMnVkcG1HVkpGREcwV2ZMS3czcVlGWVVCaFNKNlMwZDdoX1VhVTNza09BS0N3QdIBsgFBVV95cUxPRUlqS1dXLU1GTzFyblVoMWVPMTZjNnNhc185cEJXV3pIcWFIZ0NZLW5Zb3VyWkRsSXFGOENBX0dTb2lTa1RIcjcybEw4enMzYkJYOXNYUHRQU2JENkNzUUxFR2FEQkJhd05pSjhrNlptendiTHlwMTkwUnVZc3NtbmRwNy1obU1HaXJldlMtS1VvQnFOZGFWM0hBM1ZlaHFrd0xZNlpaa1QyWE8zTUVfMTFR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T20:23:00+00:00"
-    },
-    {
-      "t": "진로 토토 먹튀 : 학습 전략과 자원 - 최신 트렌드",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGaENZSUQ4M09LcWxTY21nUHR1dTBXRnhyMXZLbmg2VG9WckRadDgyS2w4Y3pKQ2JpdjlmZDlhYXZVcWpCV2hUd2tkakNNVm9sMGh3YnZnYlJRYnAwNmk2Vzh2TQ?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T20:20:46+00:00"
-    },
-    {
-      "t": "뉴욕증시, 엔비디아 호실적에 환호…나스닥 1.57%↑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0N19FNk1qMDBWS3NyZ3p4X3I0bEJ1bjFDajNFYVVIY0Z0cEQ5RUg4UDlIRE03SUVzVWZwNTFQclkteEU0cmhxeGktWTRrcFBab0E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-27T20:20:15+00:00"
-    },
-    {
-      "t": "환율 1300원대 진입, 부자들은 지금 이 자산을 모으고",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejNvNEJsWVV5VFN3NC0wX2dmaDVDMklUckp2UVlmSUpvS2wtdndVcjZFX2haSVdwOU9PVGdCX2JSVzV4QmFra05GZFBuLUxDcy1RYnUxZ215dDlheGZSRXNKLUFqSWxEcm84ZUdtTFBFQjlVaHRMaUZwcER4WGpHVQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-27T20:20:00+00:00"
-    },
-    {
-      "t": "잭슨홀 첫날 연준 인사들 '인플레 경고'…\"지금 행동할 때\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Vm5HNFdkazFfVnNQZGExUEZ2d2V2SlVSRVRlSTZ2LVBjLW93Y3pFc1VvQUFkT2hXdDR3aDNoNmpMMVY1bTRQWDNyX1NOSWc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T20:17:28+00:00"
-    },
-    {
-      "t": "[뉴욕증시-1보] '폭발적 성장' 엔비디아 9% 급등…3대 지수 동반 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiTm1JUmg3OWZ0c19za2JBUHl0SGVrM1pMSnlJSFBlLVVVTjEyTzV6QWRUeVFpWFFkTUUybXlwTnJHSUhrNkxxZXNIdVUwZ3hQa20wc3ljbXlaUmc4UnBtTVFTX3huNThOVlRHZ2NubXA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T20:08:55+00:00"
+      "t": "[뉴욕증시] 엔비디아 9% 폭등에 반도체주 '축제'…나스닥 411P↑",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQjhQSks4M2lMcWxzLTI5LXBaSmwwUE8zeFNhRFNlbnNZUjd5UTlpNlRZc3hrbGQ3aS0wNUJtMklyY2pfNVB5OUJ4bEt0Y29KblJsU2tCMzJUdW14Z3ctdjFBdlhyODFzbHdFOFlOemdSaXBrXy05ajVtMTFMZGpwaV9oWnZFQkU?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-27T20:26:23+00:00"
     }
   ],
   "asof": {},
