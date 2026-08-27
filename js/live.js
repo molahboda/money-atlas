@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T09:30:59+00:00",
-  "quotesAt": "2026-08-27T09:30:59+00:00",
-  "newsAt": "2026-08-27T09:30:59+00:00",
+  "fetchedAt": "2026-08-27T09:45:59+00:00",
+  "quotesAt": "2026-08-27T09:45:59+00:00",
+  "newsAt": "2026-08-27T09:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.96,
-    "krw": 1381.83,
-    "gold": 4649.1,
-    "wti": 82.13,
-    "dxy": 99.21
+    "vix": 14.89,
+    "krw": 1382.44,
+    "gold": 4645.5,
+    "wti": 82.09,
+    "dxy": 99.23
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.02,
-    "dxy": 0.04,
-    "gold": 1.11,
-    "wti": -0.12,
-    "vix": -1.64
+    "krw": 0.07,
+    "dxy": 0.06,
+    "gold": 1.03,
+    "wti": -0.17,
+    "vix": -2.1
   },
   "news": [
     {
-      "t": "[사설]이례적 ‘백투백’ 인상에 기준금리 3% 시대, 민생 충격 없도록 해야",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZzBVX2dEdURZOFlVNnJZeU1lanJxRmF0eGlyWmdMZVpMWUZIQW5FR2RaLVN4TmhuWG5GaS1TU0RUanBHZG14bl9GdFpVcGhQMkloY0RVVU5IQdIBX0FVX3lxTE04TGNBbS1hNldNWi0xbTFGVWVSclFFczducUR3RDJZVC1qV19qSUFvSXIxcDFORG1rcU1MM0pIZ3pXRzEtYU5xX0dmQkRCREstUVFzTF9RZEFXbHBnSnhj?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-27T09:24:00+00:00"
+      "t": "[사설] 물가 압력에 두달 연속 금리인상…취약대출자 관리를",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXRSZE5KSFExeEw1aXVFR1BtOFo1aXJRMEZxOTBqa1Bsd0xzRDZYSzB2TG9qVGMxWkh3dkR5dHp1aVVreENkT1drUVFwcXdYRDVZLWJiZTk1eWdCZGRhRVI5dVhNLXNmZ2x1NmxVSXJOYm10VlNVeEE5ckRhQXp1QjI3MjdrSVVwY0pnMGlXVTJVLUI2?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-27T09:32:00+00:00"
     },
     {
       "t": "[중국증시-마감] 엔비디아發 훈풍에 상승",
@@ -55,10 +55,22 @@ window.LIVE_DATA = {
       "d": "2026-08-27T09:04:16+00:00"
     },
     {
+      "t": "일 은행 부총재 \"계속 정책금리 금리 인상해 금융완화 수준 조정\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZWZaTzhhTm9IY21JWjJFbHVSZjdIUUt2UGtVbmduMFlaZUxGZE9UbllnZkItZlRpZkRJeDhYdFRFeEdrMEgzNVEwb2kyMXk5Q1B3OVFpTVVOWGNxemc?oc=5",
+      "s": "YTN",
+      "d": "2026-08-27T08:58:00+00:00"
+    },
+    {
       "t": "물가·집값 뛰자 시장에 강한 시그널 … 3.25% 금리도 열어둔 한은",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OczJpbk0zVTF6eVEyZTdrdGozbFdYLVRFZXJMbUpsOFBFUHBzOEhUblNqNFU4ZEJVMlpKUzZUQWdHaXppTGZuV2pnYmwyVk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T08:57:00+00:00"
+    },
+    {
+      "t": "“물가상승세 조기 대응” 금리 2연속 인상 ‘3%’",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVG1NZWFaQ0NmT21fMF9XRV9wcWMtOFNXY0RRenl6OFEtUlpQUGJ2dWFYYmhNZVEwam9obkxvbmpTR0toQmFiNGJkbGpHSVhQRjJvVjBoRzNzUHdZQ2Jwc0tIRTV6WmFZUEs3QlF3?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-08-27T08:56:01+00:00"
     },
     {
       "t": "與 \"정기국회서 민생 총력전…물가·부동산·소상공인·자본시장\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HZzBDRjBYQm5UUDJOaE1kcE5FLVJ2NG8zb1Y2UmtJTmM1T01xNkhPek9Cbmh0VEhQLTJVSDVoUnY0MnZEb21INUFRRmhkY3lUZzJ3RHNSc011Nk9DSUJJZHNwMmMtd0xnMUlOZ05LSmo?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T08:48:41+00:00"
-    },
-    {
-      "t": "중국, 美 ’과잉생산’ 추가관세 검토에 반발…“일방·보호주의“",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TMVpSUVhBMGUwaXRlVG80WDZ3TzVCWHVLM3gzMndaZDZfSG9adVpab01NSkM2X09EaFdTMVA3UWVFejZwa3JnUU0zWFVrTnZDQWxJamlEUklkTzc2ZnZnSVRId1F3S00?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T08:48:00+00:00"
-    },
-    {
-      "t": "신현송 총재 “호미로 막겠다”...백투백 금리 인상",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02ZEVQdFJUc2JqZFR3WW83LS1CZTlsQjJnaGVvb2s4YTNqS2NYRlNFUFpQMFpOa0pYb09GWWNSUTdjV2FCMUVyaEFQTVRrT1k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T08:46:46+00:00"
     }
   ],
   "asof": {},
