@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T11:00:59+00:00",
-  "quotesAt": "2026-08-27T11:00:59+00:00",
-  "newsAt": "2026-08-27T11:00:59+00:00",
+  "fetchedAt": "2026-08-27T11:15:59+00:00",
+  "quotesAt": "2026-08-27T11:15:59+00:00",
+  "newsAt": "2026-08-27T11:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.94,
-    "krw": 1381.73,
-    "gold": 4640.4,
-    "wti": 82.26,
-    "dxy": 99.24
+    "vix": 14.92,
+    "krw": 1380.58,
+    "gold": 4642.1,
+    "wti": 82.39,
+    "dxy": 99.25
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.02,
-    "dxy": 0.07,
-    "gold": 0.92,
-    "wti": 0.04,
-    "vix": -1.78
+    "krw": -0.07,
+    "dxy": 0.08,
+    "gold": 0.95,
+    "wti": 0.19,
+    "vix": -1.91
   },
   "news": [
     {
@@ -31,16 +31,16 @@ window.LIVE_DATA = {
       "d": "2026-08-27T10:50:00+00:00"
     },
     {
+      "t": "기준금리 2연속 인상…다시 '3% 시대'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HSmhLVlV5VlRlenhTZ2N0NkVxdHpraEtER3B3Vkw5YlVZVDVTMjkyM1VqYjNLMlNqakF2RDhhclZ6LUZXeW5FZUkzdk16QzFPaXdocVVIM3R5UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-27T10:49:00+00:00"
+    },
+    {
       "t": "연내 두차례 더 인상? 한은 8월 기준금리 인상 後 [톺아보기+]",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSVBNNVlYTTZlOWdFd25PN1hhRVJxM2YwTi0zQk9IR0ttNU1aNVlfSDh5RWJCbXVvTlhkYkNNWTlXdjBoUi0zQnd1dlBaeVl0Nm1Hcjl4cFllVndCQVpRcTc4WDdvUnkwLTBHZHFB?oc=5",
       "s": "더스쿠프",
       "d": "2026-08-27T10:44:58+00:00"
-    },
-    {
-      "t": "한은, 기준금리 3%(0.25%p↑)로…두 달 연속 인상(종합)",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHYzOUtQTXo1TXFhX3dQYlZRMG8yYTJSNm8yQmVGcmYxcG8yZDFqMkRuZy1lVHVrUE1EWTl4QzR2UER1VU43Z0k0cjh4bWZXb19YSXlBaFBmdFViQy1paWFMWnpBVFhDUFBJbmxDS1ZnZ1FhTVJzdDFKZmFxS09Tc1FCTGxIWVpTdzNOY2FsX2hKQW8?oc=5",
-      "s": "국제신문",
-      "d": "2026-08-27T10:42:00+00:00"
     },
     {
       "t": "‘호미론’ 신현송 물가 선제대응…주담대 금리 상단 8% ‘공포’",
