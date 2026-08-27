@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T21:45:59+00:00",
-  "quotesAt": "2026-08-27T21:45:59+00:00",
-  "newsAt": "2026-08-27T21:45:59+00:00",
+  "fetchedAt": "2026-08-27T22:00:59+00:00",
+  "quotesAt": "2026-08-27T22:00:59+00:00",
+  "newsAt": "2026-08-27T22:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1380.33,
+    "krw": 1380.43,
     "gold": 4654.8,
     "wti": 83.54,
-    "dxy": 99.11
+    "dxy": 99.12
   },
   "daily": {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
     "krw": -0.08,
-    "dxy": -0.06,
+    "dxy": -0.05,
     "gold": 1.23,
     "wti": 1.59,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "백악관 “美 반도체 리쇼어링 최우선”… 서버·노트북 겨냥 신규 관세 도입 예고 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDBDNThPbUYzSy1DaDNmWHJrc2R5SC0wZ2FURWk1VVZWakNPY1VhMkl3LWkwaXh1RGFuNGlnck9kalV5RlRZTGd6R05pMG1xTk03V1FtbXk3UVNJcDVXN0lzNUpmem1GbmxKcnVGaTEwZnREeU5YS3BUdktjdEs3cHptNC02Mk10SS00SzUzWjl2R1dlZ2xyZDhXd2p5d9IBsgFBVV95cUxQRTJKMFBJMHo2S2hDNWpyMlRMOGpzdm0waUVoblp6TmlLa0JqYjhYN0VQRHl2RlNOZEVvRXZfTTB3T3l3Vy04WXVQRDZXaEc5T1RaNHVpb2owZEc1YlllaVpzYjVFNGpWc2JGZksyUmFzazIxSDhYTm1zNmIwSWNQbm5meUtwQWdlTkVjWnB0Q0V0c04tVFhNWmtvazJ3TnNNZ1FDQWRBa0xiWjJqcmlLbVRR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-27T21:51:00+00:00"
+    },
+    {
+      "t": "스팀 내게임 : 위험 피하기와 보호 조치",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wMkpmcmtBRWZSbVNCV3VGS0RPZ183em42a241ank1YXN1cFJwLVJkaGktOEJCU1hBd0xKNW1ybXByTW5MdThLeWF2NTYzSi01WXllcXM5TkpjZw?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T21:50:13+00:00"
+    },
+    {
+      "t": "[글로벌증시] 엔비디아 훈풍에 뉴욕증시 환호…나스닥 1.57%↑",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ILVJ1bnJ4TFpQaFZmbjhhcEdIQTVaZ0V4S0JQbzdjbHNVT3ByNmd5dWcwMFB0WlhWeDdqeGtXQXd5YTYxUkRsZ3liNGVOeEE4bnFVUG16OHRNbjBQM1RPNHpZcTNpZmxnNEF0YkNqck1TSklY?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-27T21:48:52+00:00"
+    },
+    {
+      "t": "기준금리 3% 시대…대출이자 더 오른다",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ZkFfaFRhQWpVaC1WWFFYUFM1M1JWR25WTXlZSm9pbHkxQ1lPUTNaV2x1bG1Zc3pWQXJCX3dRN0ROZVp3dV95MXdJdUhyYjF2QXpxZ0VyUmJvUjFKNWFEMmxBZlc?oc=5",
+      "s": "bntnews.co.kr",
+      "d": "2026-08-27T21:46:10+00:00"
+    },
+    {
+      "t": "[뉴욕채권] 국채가 약보합…잭슨홀 경계감 속 유가 반등에 약세 압력",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVmRSNklVT0J5WURyOGExclhUcVBhVTlfaVV1dG1VMVBtZW53NWcwUFlRcklhaHljM29kUTBhMElkTmg2bXpNODRodDdFanYyUklKLTlnQ1BJeU1DNG40dlBfeUZXaElrb3NYQTM5NmU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T21:43:59+00:00"
+    },
     {
       "t": "'자해적' 반도체 관세 검토하는 美..대미투자 압박용인가[이상은의 워싱턴나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teGZUM0NhbW9YRUhIRGk4ZDZKSV9pZm1CM2VyUk9mSmcxQVU5RjZCU2ozRFNGTERoRU9YX3VOenJSSVctdnpFMkgxUHdYQ3R6RmxQTENsSUwyQQ?oc=5",
@@ -37,52 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-27T21:25:09+00:00"
     },
     {
+      "t": "기준금리 2회 연속 인상…고물가·가계부채에 고삐",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MaElkcl9DS2d0UjBQU0Z4Tm1kTVFPZmVNdEV2NVFYWnFWenBENXo3ejE3NVhYTG5NNkFINUQ2SmZwMjRCUmcydHVmLXo3Zlp0WGkxM2NZZ195Q28?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-27T21:22:00+00:00"
+    },
+    {
+      "t": "[머니테크] 1000조원 돌파한 5대은행 정기예금, 증시 변동 지친 개미들 몰렸다",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTkFDX1dzRUNWZVdVaXpPZVdFaDNZOXJuRTUwVWd2OVk3QmFsbVhPXzdRdFgyVkxOb1NqakRsb1huUkVsVGtFQUFHUHhBZ1doV3IyLXl3NDJTWjZmMEl6YnhMOWlKaXdYYUVsLXFnWUpzcUVF?oc=5",
+      "s": "대한경제",
+      "d": "2026-08-27T21:20:28+00:00"
+    },
+    {
       "t": "한은, 기준금리 3%로 인상…“호미로 막는다” 물가·집값 선제 대응",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYd0pGdldiN1NsUm5IbGNOa05kWF9Pd0ZoLVFrRlpqRVRYUEtpakRERnRNaXN6c21VSEIxYXpxaEYtbGpZOEluelg2MHk2RUhUS1BuQlJueEpfX1h3MHZWTnYzRzU1Y3M?oc=5",
       "s": "지이코노미",
       "d": "2026-08-27T21:14:47+00:00"
-    },
-    {
-      "t": "\"미, 반도체 관세 확대 검토\"...SK 하이닉스 \"미국서 HBM 생산\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93QjlVR1A2OF9oYXNDZFpWWHk2NnRJOGY2T3otQXVmVTRNQ0FCNUY2RHloZ3c3aFk1eUljUHhuMmQxdG5xMklyRFJJN0ZIUmMwS28ycHpSVFEwXzM0R0E?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T21:08:00+00:00"
-    },
-    {
-      "t": "[코스피·코스닥 전 거래일(27일) 주요공시]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04Sk5memtjYjh5N1JTNjFSektOMHA4V3RuZ1ExcUp5MDFaOWREV2lnaGh5ZWRWYVJXOXFVQ0w1TjFiaWZhdFVtMjNFaE55UVIxY3diZ0NPT0xDd2fSAWBBVV95cUxNeXlIaTN6VDVZcy1TN0Z4VDhYWGpxajI3bGd4UmxRTHZtUHdFTVNjZjRsS2dUdmZ2dk9ZX2xvZU9GT1VHYXpsT2FpSEZ0akF0VXY5REhFZHlFdnZhY0NYVmQ?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-27T21:05:00+00:00"
-    },
-    {
-      "t": "3% 금리시대, 中企 이자·연체 부담…\"선별적 금융 지원 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10S05nWWpwWjl2Y3duNGl2N0c5Y0Vibm1qQXQyaDRJR293dW9nQWtDN2p1cFFCQ1FxRnZfMU02UkJFd2pKWm5VSlNwM0RDOVpwOGFET0I2RnRQSThu0gFiQVVfeXFMTWlBb0tyNVVTYmFtTnNIUFRuTGloVnpGZFcyVDFPTnZqS19jYXRNMmlsYjFIZC1jcDVCVHRYcTEzTVJxeHV1TmJjb29Pa0N4Z3dsLWt4akpVdjk2VjRPM1huZ3c?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-27T21:05:00+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 美·이란 냉랭 기류에 나흘만에 상승…WTI, 1.6%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5obEN3T0UyNk9raGt0M0lGZXF2TzBpbWZyZHRXZmFndGtYTTJzVXh2UUNUbGxmc0ZIRFFXalVXTWx5NGUxeTJZa2hJckxEc0FuTTJDVXVNdVJCaDlxUTA2SE5OODd5NmZ4bE9BVjM0bWk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T21:04:41+00:00"
-    },
-    {
-      "t": "캐나다 재무장관, \"美 관세 감당 가능\" — 블룸버그",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSVzBqdUMxY0E1MGZtMW9LcENmYXhJYkVBeTlrczNTeTJPd0o3S3c1cDI5UlN3ZkdydmUzNFFrQUc5dU1jWTBpY0hVU2NNVTBuVDZDeE9uNlBTSFQ3dVJFbTN2QXBCSFhIZ2NqR2xUc0U?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T21:04:00+00:00"
-    },
-    {
-      "t": "코스피 6000대 정체에도…증권가는 \"만스피 전망 유효\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13a1ZEbUg4WGRtLXRkWUxocWpndGJycFJVLVBIdUtVcFRqQ2Z6VHBJWThRd3I3Z01iSzY0VkFjUjBhLWZGYWx5cVZ1Rm5SakU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T21:02:45+00:00"
-    },
-    {
-      "t": "믿을 건 ‘엔비디아’…호실적 발표에 뉴욕증시 일제 상승",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QX0RVTFdlaUJ1anBaTTVFQkl4dUEtQ0N2YUV2MlFTRFI5dExxYm41aXJWV0MyUEw0Umx3N18wRHlvNmxQY3UtVm9WNjk0S0dP?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-27T21:02:18+00:00"
     }
   ],
   "asof": {},
