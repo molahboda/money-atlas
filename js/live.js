@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T10:00:59+00:00",
-  "quotesAt": "2026-08-27T10:00:59+00:00",
-  "newsAt": "2026-08-27T10:00:59+00:00",
+  "fetchedAt": "2026-08-27T10:15:59+00:00",
+  "quotesAt": "2026-08-27T10:15:59+00:00",
+  "newsAt": "2026-08-27T10:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.89,
-    "krw": 1382.64,
-    "gold": 4634.4,
-    "wti": 82.11,
-    "dxy": 99.22
+    "vix": 14.92,
+    "krw": 1381.28,
+    "gold": 4624.2,
+    "wti": 82.36,
+    "dxy": 99.25
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.08,
-    "dxy": 0.05,
-    "gold": 0.79,
-    "wti": -0.15,
-    "vix": -2.1
+    "krw": -0.02,
+    "dxy": 0.08,
+    "gold": 0.57,
+    "wti": 0.16,
+    "vix": -1.91
   },
   "news": [
+    {
+      "t": "한은, 2회 연속 금리 인상 ‘연 3% 시대’… 증권업계 “단기 충격 속 업종별 차별화 심화 전망” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWG5CTmcwUGIwbTVkcm00VFdIVW9KTVBjOWlfekFOM21pTGFnY0VZclFTSlRNM0UySUdBYkVJbXcxYi0tNnI1R1Rja2pLR2JZekpxa0RxeEpBT0E1RnNUMEVJcFlCeWllem1jSkx0ZFNLa0pKWmw3VHNBTHZCT3ZjVVJObVhRYlFR0gGcAUFVX3lxTE1vbUtKTzFicDV6VnpkWlFad0RrN2FNOXBwRW9ocVA2b2pTNkZ5MkxHbFJGX2U3azJLczRQNVdfZzlhMll3WTlkbU5HTzRSOVYxcWdYU05uSmloRXR2WjlRSERnOENJMmhpeHBLZzBjUjhqYWRpel96VVFzdU9jdzBVXzBGdmpJVEJlQlY0aFBxS3pPdDlVQkU4Y2Y5eQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-27T10:09:00+00:00"
+    },
+    {
+      "t": "外人 초장기 매수로 커브플래트닝…IRS 금리 대체로 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CbmhXdFdTS1l1VWJuTW5rRktRUkI1RTV5SDNrUnh6Ylk0cDZHaWY2YlJVUDFmRnE2TUFWN1hiUjkxaUUzZjc5VVpnWnBKdHg1akYtSjdsLVFha2JRUVlQNk9hcGNhSjQ4eDNtQnB3azfSAXRBVV95cUxPVXNiODAyaEFGZlJycnh3N1JRNk9lN1dOeldPTGFFT21LMi1PQ0lfRHp1NWhxbmk2TFh1NnlCUGFhZTlFQ2J4d0lWVHdudXZkMGM4MHRlVDVRRmFSTW1fN1F3UHNoZEhTbTU2WWdzMlZfYXhUMQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T09:55:06+00:00"
+    },
     {
       "t": "금리 올라도 웃는 주식 있다…고금리 버티는 종목 고르는 법",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTcDhucW5uenFNeW9qQ2owTlZ0VURTakJ5SDhZZmY0aTMxdjkwLXJKTV83ejNNaWJ6MEtGUmRMN0RnaHJjallndXBCSlVXcGFaWUMzRGln?oc=5",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXRSZE5KSFExeEw1aXVFR1BtOFo1aXJRMEZxOTBqa1Bsd0xzRDZYSzB2TG9qVGMxWkh3dkR5dHp1aVVreENkT1drUVFwcXdYRDVZLWJiZTk1eWdCZGRhRVI5dVhNLXNmZ2x1NmxVSXJOYm10VlNVeEE5ckRhQXp1QjI3MjdrSVVwY0pnMGlXVTJVLUI2?oc=5",
       "s": "국제신문",
       "d": "2026-08-27T09:32:00+00:00"
+    },
+    {
+      "t": "[사설]이례적 ‘백투백’ 인상에 기준금리 3% 시대, 민생 충격 없도록 해야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZzBVX2dEdURZOFlVNnJZeU1lanJxRmF0eGlyWmdMZVpMWUZIQW5FR2RaLVN4TmhuWG5GaS1TU0RUanBHZG14bl9GdFpVcGhQMkloY0RVVU5IQdIBX0FVX3lxTE04TGNBbS1hNldNWi0xbTFGVWVSclFFczducUR3RDJZVC1qV19qSUFvSXIxcDFORG1rcU1MM0pIZ3pXRzEtYU5xX0dmQkRCREstUVFzTF9RZEFXbHBnSnhj?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T09:24:00+00:00"
     },
     {
       "t": "[중국증시-마감] 엔비디아發 훈풍에 상승",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50ZWZaTzhhTm9IY21JWjJFbHVSZjdIUUt2UGtVbmduMFlaZUxGZE9UbllnZkItZlRpZkRJeDhYdFRFeEdrMEgzNVEwb2kyMXk5Q1B3OVFpTVVOWGNxemc?oc=5",
       "s": "YTN",
       "d": "2026-08-27T08:58:00+00:00"
-    },
-    {
-      "t": "물가·집값 뛰자 시장에 강한 시그널 … 3.25% 금리도 열어둔 한은",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OczJpbk0zVTF6eVEyZTdrdGozbFdYLVRFZXJMbUpsOFBFUHBzOEhUblNqNFU4ZEJVMlpKUzZUQWdHaXppTGZuV2pnYmwyVk0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T08:57:00+00:00"
-    },
-    {
-      "t": "“물가상승세 조기 대응” 금리 2연속 인상 ‘3%’",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVG1NZWFaQ0NmT21fMF9XRV9wcWMtOFNXY0RRenl6OFEtUlpQUGJ2dWFYYmhNZVEwam9obkxvbmpTR0toQmFiNGJkbGpHSVhQRjJvVjBoRzNzUHdZQ2Jwc0tIRTV6WmFZUEs3QlF3?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-08-27T08:56:01+00:00"
-    },
-    {
-      "t": "與 \"정기국회서 민생 총력전…물가·부동산·소상공인·자본시장\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMTRPNDk5eERjbHZHT3B5SUJ4SGtMVkJfeUtoUHVPOUljb1E0bTJXcnU0Ul9WbExidFRkcUJ4eTZ5d2lyV2NFN3JKSG1EQlVYU3NiVmc2Y0IzbmVTMWs1d2ZhWUpINlFYR0ZKSWxVTWk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T08:52:52+00:00"
     }
   ],
   "asof": {},
