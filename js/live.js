@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T10:45:59+00:00",
-  "quotesAt": "2026-08-27T10:45:59+00:00",
-  "newsAt": "2026-08-27T10:45:59+00:00",
+  "fetchedAt": "2026-08-27T11:00:59+00:00",
+  "quotesAt": "2026-08-27T11:00:59+00:00",
+  "newsAt": "2026-08-27T11:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.96,
-    "krw": 1381.57,
-    "gold": 4631,
-    "wti": 82.37,
-    "dxy": 99.23
+    "vix": 14.94,
+    "krw": 1381.73,
+    "gold": 4640.4,
+    "wti": 82.26,
+    "dxy": 99.24
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.01,
-    "dxy": 0.06,
-    "gold": 0.71,
-    "wti": 0.17,
-    "vix": -1.64
+    "krw": 0.02,
+    "dxy": 0.07,
+    "gold": 0.92,
+    "wti": 0.04,
+    "vix": -1.78
   },
   "news": [
+    {
+      "t": "백악관, 반도체 신규 관세 부과 검토 중 - 폴리티코",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xVFp6SmRPOVdlZUFUYVpBWFl4RUE4eVBHSWtXODVJOXJhQXNHeWNtYnVLaF9BckVQaXpDRGRiMnQxc2diaDNMRUZjekpiNlA3X0VfWTM0Nng5SzU1Q0EyUmRhU1N0dk1fVTBpc2k0MDA?oc=5",
+      "s": "Investing.com",
+      "d": "2026-08-27T10:50:00+00:00"
+    },
+    {
+      "t": "연내 두차례 더 인상? 한은 8월 기준금리 인상 後 [톺아보기+]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSVBNNVlYTTZlOWdFd25PN1hhRVJxM2YwTi0zQk9IR0ttNU1aNVlfSDh5RWJCbXVvTlhkYkNNWTlXdjBoUi0zQnd1dlBaeVl0Nm1Hcjl4cFllVndCQVpRcTc4WDdvUnkwLTBHZHFB?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-27T10:44:58+00:00"
+    },
     {
       "t": "한은, 기준금리 3%(0.25%p↑)로…두 달 연속 인상(종합)",
       "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTHYzOUtQTXo1TXFhX3dQYlZRMG8yYTJSNm8yQmVGcmYxcG8yZDFqMkRuZy1lVHVrUE1EWTl4QzR2UER1VU43Z0k0cjh4bWZXb19YSXlBaFBmdFViQy1paWFMWnpBVFhDUFBJbmxDS1ZnZ1FhTVJzdDFKZmFxS09Tc1FCTGxIWVpTdzNOY2FsX2hKQW8?oc=5",
@@ -31,10 +43,22 @@ window.LIVE_DATA = {
       "d": "2026-08-27T10:42:00+00:00"
     },
     {
+      "t": "‘호미론’ 신현송 물가 선제대응…주담대 금리 상단 8% ‘공포’",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2RXMW9ia3U5X3gzd0poajBIM1M2Z2l4dUJmczAtZWpnQjZ1TTU4X2JCN3Q3QWdVemxNeTN4SHBENk1UZ2FQRmZFTnpzV3NkeGZzcVhvMmh1djd1bzZyR2VqdzI4enhoLXZGVnhTSUxmSUZPOVA1X1lOQWU0WWlLR1l6M2RnSnh3aHFB?oc=5",
+      "s": "국제신문",
+      "d": "2026-08-27T10:39:00+00:00"
+    },
+    {
       "t": "한국은행 기준금리 또 올렸다… 물가 잡으려다 ‘이자 부담’",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdVNyVnNkTC1TWDhsa0xrME02aEwxUEtxMkhEVkVPc3A5bndwN0lZb0E4bGdhYUdQUXpBQkJsOHMza05fTHN0elUzVlJrRjliOGc?oc=5",
       "s": "경인일보",
       "d": "2026-08-27T10:32:50+00:00"
+    },
+    {
+      "t": "재생에너지, 반도체·AI 경쟁력 핵심 인프라로…산업계 “공급 확대·전력망 병목 해소해야”",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYQk9fLUdRb3IxdDVXSHhEQVY1M3NQRlBDVnhRS0FLUUN2R1cxTzJheWM2MWM5WVhZcE1UR0oyeVMyWk1pUVN0UENzcXp2bVRzcC1UZUhPQXQ0eVlNMEszQ2UtalkxSHFYalNmRGJoN0ZRdw?oc=5",
+      "s": "에너지데일리",
+      "d": "2026-08-27T10:28:32+00:00"
     },
     {
       "t": "[亞증시-종합] 반도체 훈풍에도 잭슨홀 경계에 혼조",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUkRMUmV4dF85NXpSSDNJbWpXY0lEd3l1NV9sNTBlSUVBN0lEVXhJWnpndDNtQm15eEpGR19TT2RZZWc2Szh3WGExdzUtcmp0dk5USDhleU93Y1pvYTc0aWQ4VjQyVGZYMk1xZFY0SXoxdHdfaE1ybWo5bWdBNnBxX2R4SUpFZw?oc=5",
       "s": "조선일보",
       "d": "2026-08-27T10:10:00+00:00"
-    },
-    {
-      "t": "外人 초장기 매수로 커브플래트닝…IRS 금리 대체로 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CbmhXdFdTS1l1VWJuTW5rRktRUkI1RTV5SDNrUnh6Ylk0cDZHaWY2YlJVUDFmRnE2TUFWN1hiUjkxaUUzZjc5VVpnWnBKdHg1akYtSjdsLVFha2JRUVlQNk9hcGNhSjQ4eDNtQnB3azfSAXRBVV95cUxPVXNiODAyaEFGZlJycnh3N1JRNk9lN1dOeldPTGFFT21LMi1PQ0lfRHp1NWhxbmk2TFh1NnlCUGFhZTlFQ2J4d0lWVHdudXZkMGM4MHRlVDVRRmFSTW1fN1F3UHNoZEhTbTU2WWdzMlZfYXhUMQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T09:55:06+00:00"
-    },
-    {
-      "t": "금리 올라도 웃는 주식 있다…고금리 버티는 종목 고르는 법",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kZE5WdW4xOWlrbFFYVzNuZ3hTRTZhMEh2UE5LWTJBVkxweVd5OG1ta0dTakxORjZUSVE3elFNRW4tbjRicFBEWDBLVzRwYVU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T09:45:07+00:00"
-    },
-    {
-      "t": "[사설] 한은 ‘백투백 '금리 인상… 긴축기조에 대비할 때",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFdlJtSVc4cURmUTdvV0xSMEJiTXlxUF9JTGg0RDBWRjVXVHlmalM4Z1dZM0xwblVocERqZzV6RjdWellxdGNaVzZuLTIzRGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T09:41:21+00:00"
-    },
-    {
-      "t": "[사설] 두 달 연속 금리 인상… 가계부채 선제적 관리에 초점을",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeVhvSmE3ZHAwZXpMdTdGOWdnLVp3MHQ5blNFTnkzSG9TajVZdVpIUmUwMll2VVNaZ1d0TzVqS21sSE5FajRUeG4wN2Mza3duem41bGltdTJHUlZSVWVzbGV6eVJ5bGJFN2hydkxuNTAwZGhJVF9FdXQ0bFpzS3J3UDBR?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-27T09:41:13+00:00"
     }
   ],
   "asof": {},
