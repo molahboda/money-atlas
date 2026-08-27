@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T12:30:59+00:00",
-  "quotesAt": "2026-08-27T12:30:59+00:00",
-  "newsAt": "2026-08-27T12:30:59+00:00",
+  "fetchedAt": "2026-08-27T12:45:59+00:00",
+  "quotesAt": "2026-08-27T12:45:59+00:00",
+  "newsAt": "2026-08-27T12:45:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.94,
-    "krw": 1381.14,
-    "gold": 4650.3,
-    "wti": 82.26,
-    "dxy": 99.2
+    "vix": 14.96,
+    "krw": 1381.51,
+    "gold": 4648.1,
+    "wti": 82.51,
+    "dxy": 99.22
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.03,
-    "dxy": 0.03,
-    "gold": 1.13,
-    "wti": 0.04,
-    "vix": -1.78
+    "krw": 0,
+    "dxy": 0.05,
+    "gold": 1.09,
+    "wti": 0.34,
+    "vix": -1.64
   },
   "news": [
+    {
+      "t": "\"트럼프 행정부, 반도체 '고강도 관세' 검토\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jMVZSSWdpXzdqdHYzcXZpNlJDenJJWEF3R0NRWG1PMmlHeGpBV2Z3UlpMQnVid216XzlKTHVvTWFtdmp5RWJBSW5KTFRaZXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T12:28:51+00:00"
+    },
+    {
+      "t": "캔자스시티 연은 총재 \"금리, 긴축보다는 완화적…인플레 끌어내려야\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZNVBxSk5tZURqUTNIcjdoSlUxczNPa2pjLVNwSFhkNjlIaElwZnIybHZWQ2ZKRWRZMFhnMzN2VWNtVng1a0RlUjN0Sm16TWFxdmFkcWxiZ2RYaFBOVlE3bkkweThWYzlCel9DMW1vT0R5Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T12:28:43+00:00"
+    },
+    {
+      "t": "\"호남 반도체 전격전\"...부지·전력·용수 동시에 뛴다",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSU0ZaQmdwUGxOeTVsam9abFkyWGxxbkdTdG8yeThPOXdNUUJ0dTVGdVJlRVZLNlVrb2p1SzU0T1VYZ2RFbExRck40NUNXNllXemtmX1M3X1FUOUlRd21uTA?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-08-27T12:25:58+00:00"
+    },
+    {
+      "t": "기준금리 ‘3%’…연타석 인상",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ULVI4RWRwc2ZXQndOOFowMUJzZnZSbkhtSVpfUFBUNEpRX0FDS0l2ME1Ga0Z6aUI3dFNlakpOdnZxTVlfOEVsMFEyc21EbmUzVzdMdE95d2RpUdIBX0FVX3lxTE1yNlRROUhhbzN1Y2RiTlpTWmpyN0VSSlNIRy1XODdSOTJyNnpyVXRLa2dOWWZYdWZkLTRiTkJlZjFNbk5yRkF3V3loa01zeHhxbVB0VnhwUWdFcHotSTgw?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T12:25:00+00:00"
+    },
     {
       "t": "\"美 트럼프 행정부, 반도체에 '고강도 관세' 검토중\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kb0d6dl9XeHpPZlZlTWZoQ09ZYmV1Vm9TR0p5TEJwelExTE5jWjVIZ1BnX1NWTVQxb2g4Z2l1c3NoVGdhYVVqZkR4TGw2U3M?oc=5",
@@ -37,9 +61,9 @@ window.LIVE_DATA = {
       "d": "2026-08-27T12:14:00+00:00"
     },
     {
-      "t": "신현송 “늦으면 가래로 막게 돼”…‘선제적 대응’ 예고",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOExpekxCaUpHcUtycnluNmVSaFZLS3U5d3NpN1VPdmtiajN0dnZsbWNTbC1MeWtQWGNyTU5jQTAzT2J2YXpPQ3ptbFdUakd4eDd1eng5Z1ZYQdIBX0FVX3lxTFBaeUNSTG9COEV4LU9lQjl1a3R1NDdKU1RTZmtWZXdISDJlZXJRSDZJT3MyQWRkQzZHazZtT3QyZGdfcEZmTFREWGFWY0huZVhyeW83NVpMTXlkREhham9N?oc=5",
-      "s": "경향신문",
+      "t": "＂트럼프 행정부, 반도체 고강도 관세 검토＂",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VndpbWhqZ0xRM1FQcFN1XzBveDdNclpfUmRLSEpJeU9NYTBTeEhBZ3VjZ2hHN2o3RjdBVGYzcmJEcHU4RjlvOXJEeS1qZnhCX2RzTkpLR2dyM1UtYW5JSkdEZ3YxTmVBREJOY2tBcGEtdlNuQVln?oc=5",
+      "s": "한국경제TV",
       "d": "2026-08-27T12:14:00+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE90NEg4YVhGaXBOWDN0T2FNMERDTWFqNERBbUpINTBMVi13RzI3dUthLUE4STJuQmdhZXhYRVB0Rmc1eHdCQmxGSi1VcWQzZ1N5QnVtVnlnLUdpZWd2eU82VHJTbkN4VkRSUU9VLXc5bS1BZw?oc=5",
       "s": "KB Think",
       "d": "2026-08-27T12:01:31+00:00"
-    },
-    {
-      "t": "코스피 7,000선 회복 시도…금리 인상에 상승폭 축소",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SbWlBWWxFRVczZW5Xd0JyVHFyWnZlOU02WFhJRGsxUzl1ZWZMOG9vNm40V3psUWZJRmJMUUdNczYxdFdtT2FXYzNLZXpVVVU5eW1lVmU5Ym4tV2ZtaEk5akhiRy1rS0k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T12:01:00+00:00"
-    },
-    {
-      "t": "[월드 e-브리핑] 일본은행 부총재 \"물가 안정위해 금리 계속 올린다\"",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVmp0Wl9sUkdobEtOZlQ2WkdBQW9RalI3bXJsMzkyd0F2THI5SlVCR25oSXh1WG02NXBZY0hyM3U4OE00TjhNZG9SSXZfelAxTGozRGJISzdDSGJzdzVSLThOYjBhT3ZXdVRsaXV3?oc=5",
-      "s": "OBS경인TV",
-      "d": "2026-08-27T11:56:16+00:00"
-    },
-    {
-      "t": "슈미드 연준 총재 \"금리, 경제 제약 못 해…인상 가능성 시사\"",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UeGNzUTlDd2w3LVFSbGUxVlZubDhWZmkwMHVfQkU4bkZNRDJJbElQcTFkYnV4X3VKa3R5dGdrM3FjVTlLa2haUzhDNElKeGdJemx2NXROLS11NjQtNFRCenhuZU9xMHptamc?oc=5",
-      "s": "Investing.com",
-      "d": "2026-08-27T11:52:00+00:00"
-    },
-    {
-      "t": "트럼프, 반도체 넘어 노트북·서버까지 관세 검토…美 투자 땐 감면",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jak5ISFBOZUhDdkNRanRLNHUxb2dzLUxqT3NmYVZ2cDF6S0xxaTRPOGJ4SVNVMVQ4Z2E5YzBIOG52WVc3Tk1NdXdvTVNUX1V1OEhRN3dsVUU3V1Q1?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-27T11:47:00+00:00"
     }
   ],
   "asof": {},
