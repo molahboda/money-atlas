@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T05:15:59+00:00",
-  "quotesAt": "2026-08-27T05:15:59+00:00",
-  "newsAt": "2026-08-27T05:15:59+00:00",
+  "fetchedAt": "2026-08-27T05:30:59+00:00",
+  "quotesAt": "2026-08-27T05:30:59+00:00",
+  "newsAt": "2026-08-27T05:30:59+00:00",
   "quotes": {
-    "kospi": 6900.74,
+    "kospi": 6887.54,
     "spx": 7675.7,
-    "nikkei": 66220.97,
+    "nikkei": 66099.35,
     "vix": 15.21,
-    "krw": 1380.18,
-    "gold": 4674,
-    "wti": 81.83,
-    "dxy": 99.15
+    "krw": 1379.78,
+    "gold": 4674.7,
+    "wti": 81.75,
+    "dxy": 99.14
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 2.34,
-    "nikkei": -0.06,
-    "krw": -0.09,
+    "kospi": 2.15,
+    "nikkei": -0.25,
+    "krw": -0.12,
     "dxy": -0.03,
-    "gold": 1.65,
-    "wti": -0.49,
+    "gold": 1.66,
+    "wti": -0.58,
     "vix": -1.55
   },
   "news": [
+    {
+      "t": "신현송 \"환율 아직 높아…통화정책 선제적 대응에 추가 강세 여지\"(상보)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuU0N1QW5IejNWcUJPalMycmtBS2tSc2VjWFlfYVdIVjQzeUg3Mnd2YWI3c1cxSnZIV3FRa1VQVEJ0dUtvRkhvV3Z4SExFNWhqVEcyM0VhRl9EU19kR0RRM3BOTmxxYXJqMUpEb1ZJVG4?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T05:20:29+00:00"
+    },
+    {
+      "t": "신현송의 '호미'…백투백 선제 대응으로 물가·환율·금융안정 겨냥",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MTnVOUlEyQmNVMklBU1NsT2lGQTJTdUQxMXNMa1lRV0UwQTJzT1RNbndWSHJzdkJsdDBhTXIwZzlNRkZJMF9WajNjNkNkSnBtVlgzS182UmJNclBmcUVjVEdwcVViTEExYjZhaXBNQ1NUUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T05:13:04+00:00"
+    },
+    {
+      "t": "금통위원 한명 빼고 금리 인상 찬성…점도표도 ’긴축’ 강화 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XNU5HMDBQa2JDUHBWcm9ObkxPakZpdVFRM2hOZzZ1QzZ4V2NlOFVMVEhxby1rUWdsYzEtcFpFSmo1S2c0T0ZHY0JzOVE5OHAzUWlDRTFBbEZIc2NVNzdRa003UXFhamtBUmZYUFZpTDE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-27T05:11:00+00:00"
+    },
     {
       "t": "한은, 두 달 연속 기준금리 인상…부동산 시장 관망세 짙어지나 By The Guru",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCWWY3XzlPVFo5cWZGNGdKZU11RkZ0M2o5dDJhUHp6UTZPMldTd0ZRd2lLOXFvcHk5eDFBS1BUSTR5eTd3TzhOQnI1TjlfUzRuMHcwQXFzb2lkemxTQ0sta09pNGgwM1dIWUV0YzNWM1Y?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4ZmhHNXktYmFqVkozV0w4NjFscW50bUpQTTVVbnZhT3E2dzdUN202TmhGWkZWWGY5UFhzZ0tBbEdvSU5HSjJTd0RST0tWQkFWeUZmVTZyNmhwOEhIQUgybWM3N3R5VWJBdXZVMGV4QmHSAXRBVV95cUxNaTJlUzU3c25PVU5WRzVnQmJBOXZvZVItQUN5U2JocE11N05YSWpFcXNNYm9WTFR3VjZBRXFDUm1IY1NFUmk2MWR4T2wzVS0tdWltbktKOXVCcFdLdXpEN3JqSUJibkNQZHEyMlFTT1RXVnlyUw?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-27T04:47:00+00:00"
-    },
-    {
-      "t": "(설명) 조선일보, \"호남 반도체 공장, 노동쟁의 대상 되나\" 기사 관련",
-      "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVlINU9EVUEtTmpLTm5fbzNnU3ViNzgxcmczbk01YmJSQll1bzlrcUdIN1VPZWsxLWh5dk42aUxhN3ZoemhmMkdvTWwxYWRwSVY4SnlqOENEYW12OExJQjQ0a2VKUDQwNXFLVVROSTREdUphODFUT3RsX3RhNEhaTm5FamlsZk1RMU5ycGNOSi1zQQ?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-08-27T04:38:45+00:00"
-    },
-    {
-      "t": "한은, 기준금리 3%로 또 인상…성장률 3.3%로 높이며 ‘물가 선제 대응’",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oZUpBT3BTejdwazh6Sl9zajUtOGZ2aXZTOXBFOGlWcWR2cElRRDRTME5qbVFfd1RaQUxjd1V1MnNXUkRBNy0xdUZZeks2d1dsWmU0UUdqaEVpeGJOaF9weTFBdETSAWhBVV95cUxPRURhNWpoaGJlak9nRWhQdGltbzZkU3k1c3Z0aHdQVkFnSk1XODdLNDRjLXBLUDl0elM3M1o3RUJEUFRyMWZFZDV4eUVWa0NDbE1LQTFPZk9zUm1GZkxZQm84bXJmdE9XZw?oc=5",
-      "s": "경인방송 뉴스",
-      "d": "2026-08-27T04:38:04+00:00"
-    },
-    {
-      "t": "[직설] 한은, 금통위 기준금리 2연속 인상…가계부채 부담·수도권 집값 상승 우려, 긴축 어디까지?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lQVFZc25xMzlKNWRMZDV4UzZabS1NYlluSEx6VTUtcHNGZ2dyT2FyVFJvdUxUVGthR3U4ZFpHeE9xNGNWMndWajhxTjUzUUE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T04:37:38+00:00"
     }
   ],
   "asof": {},
