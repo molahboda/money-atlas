@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T23:00:59+00:00",
-  "quotesAt": "2026-08-27T23:00:59+00:00",
-  "newsAt": "2026-08-27T23:00:59+00:00",
+  "fetchedAt": "2026-08-27T23:15:59+00:00",
+  "quotesAt": "2026-08-27T23:15:59+00:00",
+  "newsAt": "2026-08-27T23:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1381.06,
-    "gold": 4661,
-    "wti": 83.62,
+    "krw": 1381.27,
+    "gold": 4662.4,
+    "wti": 83.6,
     "dxy": 99.13
   },
   "daily": {
     "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.18,
+    "krw": -0.16,
     "dxy": -0.04,
-    "gold": 1.37,
-    "wti": 1.69,
+    "gold": 1.4,
+    "wti": 1.67,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "[굿모닝 증시]워시 의장 연설 앞두고…코스피 '눈치보기' 장세 전망",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyVk9SZHhJcllqdU5aY1J3cU9YX3B5SUo5NUZENW9Jc1BVZFVRWjdydGZwWlNocS1oeDZHUkE3dlhsbFJ0Q0IyZnhQa1FMblMyUmVTUExaQlFhc01xR1BldkJB?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-27T23:10:00+00:00"
+    },
+    {
+      "t": "SG, SK하이닉스 용인 반도체 클러스터에 ‘에코스틸아스콘’ 모크업 시공 완료",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MWi04S1IxM1FfT2VSUGw2Q2owSFVrckNiSVhWeElka2tDTHlKQmVoVmMxWlZ3WWVhZjY3cmJacVZGUV9rb0pPejJTU3QtWUJ2RUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-27T23:07:37+00:00"
+    },
+    {
+      "t": "[기획] 두 달 연속 기준금리 인상…변동금리 대출자부터 흔들린다",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdWM5dXU3UGtWamlmeW5laElhZUpjbFJWd0w5Ym9RMGdGTUYydnl0bWJzV2I0V0FMbjV3VmtUOWZPVVZtZ2lYMFI0TUUxaU9ydEktSUE5Yk95S1R2S3cxRTd6NHc?oc=5",
+      "s": "베타뉴스",
+      "d": "2026-08-27T23:04:02+00:00"
+    },
+    {
+      "t": "美, 반도체·서버·노트북에 추가 관세 검토",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtUDV1WnpNaHhmUkxLZG4tUFR0V241UEVjR1dzSXJIeVNDWXlvR1Q2UDFQbGt3ZmsxYjg4ekRGUVpIak5nQnctUFVYbUtOblU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T22:51:00+00:00"
+    },
+    {
+      "t": "[3분증시] 뉴욕증시, 엔비디아 급등에 동반 상승",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MaUFBZ1lRYmVNZjZhdGNuWW96SXF1TjNKMEtYXzBGYm0wSk1yemI4TEswM0h6UnNxanRoalNhQUZsbXBZeXJqLWtVTTlSRnNOS3d0bFdWcGdLSUFIdTVVUDlKZXhNMy1GMEtEX0VqcGlyWnVU?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-08-27T22:50:18+00:00"
+    },
     {
       "t": "美 연준 인사들 잇단 인플레 경고 … \"금리 올릴 수도\" 내부 온도차",
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yRllvQVQwWUZ1bFpWVElSdnc4X0xtV2lidmxSZ3FYQ3MzQS02dnhkU0QxUHNoWlNhLUZsalZnQXYtR1M1ZjZQRVRGandJZE1qYkdveXNhMkdsaGxhSERBM3lFX25ISVhkWlViQVVkU3hYT2Y1S3BBNUNB0gGAAUFVX3lxTE0yc1hyVGNSakE1U2MteGhudXNCSXQzSjBoQm9jRTd5eHJweU5jRkFKYndJMkF1OUN5bGRSdm5JRXBUcXhlbEJYd0ptYmg5UTB5VUJkSWpZalRPZ2FYX1RvRFkwVzFXODdCY1FRT3l0MmRVQjZOTzZMcm9SenR6aTdX?oc=5",
       "s": "뉴데일리",
       "d": "2026-08-27T22:48:59+00:00"
+    },
+    {
+      "t": "엔비디아·AI 훈풍에 미 증시 상승",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EaEc5YldpVGphSV9jZUtSMzdnczhCek9oTlotV1VaOUdvaS13TzJlMHFmVXdRdUwwTTVhU0pVVnEzWEtDLTBUYkdPMEd6YlQ5S2NzUnlURC01MHVCQVo0NW5aQ04zYVJvaHE5cw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T22:44:21+00:00"
     },
     {
       "t": "원·달러 환율, 1381.64원…강보합권서 등락 전망",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XTEhoNmd2M3VsajBFdGVybFRhRUR6cmdGRmt2TlB1VE5HMndNYW5oWlhLbWNURTFrdG45dERGYkI2N1JyMmlOcFlra3dYNFk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-27T22:31:19+00:00"
-    },
-    {
-      "t": "\"트럼프, 반도체 고율 관세 검토\"...SK하이닉스 \"2029년 미국산 HBM 생산\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQLUFKNUFtUzMxSGtsbzJDN3BoTmZOdm1adEJBSVJKNWxWQ2VHZUlSYU41aW1VRDNxRHV5UXB1ek5nczVuTXA4QTZNV3cxaDIzQWxhQWZRc2ZKYXRVcWc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T22:30:00+00:00"
-    },
-    {
-      "t": "[뉴욕 마켓 브리핑](28일)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IR0FpSjhoTFdVeTdLX1hIUzI4eWRtTFdqN3Vzd25rSVNzX21qVlZ3YmxmaDRNVXpCelRSOTJtY2VpQXNsdjluTkxSY3ZtZDIwNk1DOUYyaXN3WFQtS3dOcnlYazlFSEpNT21UR09XU2xBdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T22:22:43+00:00"
-    },
-    {
-      "t": "[채권/외환] 美 국채금리 소폭 상승·달러 보합…워시 '잭슨홀 입'에 쏠린 눈",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRVkyUm1XVXdvVmRXcm9sQzI4UWhsTVhHMDVLemVuMjNPNlBBSms0czhvRTFYNDdmeHBZeDRnQjhJTWo1amd3RzA5bmVFOVhNa2dXQXYxQkwyWFdP?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-27T22:21:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시]엔비디아 '깜짝 실적'에 기술주 랠리…나스닥 1.57% 상승",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WcmtlV2pwbG1DOEhCY3g0S0hHSnIwQW5UNTFERnpQNWZzaWk1ak5DX1lZZmxlMFdLd1dQYWppNXdONC1GNmFkT2lzWS1LZjA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T22:13:28+00:00"
-    },
-    {
-      "t": "국제유가, 미국과 이란 협상 진전 기대감 약화에 4거래일만 반등-브렌트유 배럴당 90달러 육박",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qOWEtR3YxUnFSOXNZUEUwWUlvOFBHWHVMaTRGYTFMTXBpR2hLbV9TYUZISHE0TDFHMmpOTElhYTJPUW9BV25EU2RweFRsRmNNYVJvcUl1TTRBUUhuWmc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-27T22:11:54+00:00"
-    },
-    {
-      "t": "[증시전략] 엔비디아 '깜짝 실적'에 다시 힘내는 반도체주…판단은?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsdHNYcGQtbEVZbVdiWnphR1VZQkdkcExlM21ldEFFWUM5SW5oTGdHTXprRU9icTQtUXhaLWYwaW16ZGZRa2pOc3ZBZWtOTEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T22:10:00+00:00"
     }
   ],
   "asof": {},
