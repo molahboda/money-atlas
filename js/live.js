@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T19:46:00+00:00",
-  "quotesAt": "2026-08-27T19:46:00+00:00",
-  "newsAt": "2026-08-27T19:46:00+00:00",
+  "fetchedAt": "2026-08-27T20:00:59+00:00",
+  "quotesAt": "2026-08-27T20:00:59+00:00",
+  "newsAt": "2026-08-27T20:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7725.33,
+    "spx": 7730.79,
     "nikkei": 66131.98,
-    "vix": 14.56,
-    "krw": 1381.64,
-    "gold": 4661.8,
-    "wti": 83.93,
+    "vix": 14.49,
+    "krw": 1381.47,
+    "gold": 4661.9,
+    "wti": 83.72,
     "dxy": 99.16
   },
   "daily": {
-    "spx": 0.63,
+    "spx": 0.7,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.01,
+    "krw": 0,
     "dxy": -0.01,
-    "gold": 1.38,
-    "wti": 2.07,
-    "vix": -4.27
+    "gold": 1.39,
+    "wti": 1.81,
+    "vix": -4.73
   },
   "news": [
+    {
+      "t": "sk 플래닛 블록 체인 : 을 통한 성공 전략",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyYzdQWF9mNllpRlphOVdsQlA2U212d2xFV21KOFFSTnJDRDBOWkhUZkdTRlRTa1Rvc05POERsWkhJWjFTUnM2M211c0p2U1VDR1V5V1BHS0hlaGZCZzFqd1JtUQ?oc=5",
+      "s": "Platea Magazine",
+      "d": "2026-08-27T19:50:59+00:00"
+    },
+    {
+      "t": "'통화 정책 신호등' 美 연준 잭슨홀 개막...워시 의장 첫 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Z1hKTVp2NWp0Q3hHOGdaN0Etc0dIUVlZNzMzRkNFQjl6V1piU1JBWDNOa19tV1RrR2g0dmhibWU4cWctdWg4RDNzcXdwTERWNUZv0gFYQVVfeXFMUHVaRlotRThZN1VhV1ExYlpmWDFOY1pqanRkS3BQcEk0aUlDeVJGLVVzdlR1bTFOcDFyRzFReFRoSkh6ZFFYdlRyeWVEU2NnTVVBM0U3M1kwYg?oc=5",
+      "s": "SBS Biz",
+      "d": "2026-08-27T19:46:00+00:00"
+    },
+    {
+      "t": "[뉴욕채권] 국채가 약보합…잭슨홀 경계감 속 유가 반등에 약세 압력",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WE13NTBTUmdkVGU0Ym5hVmFNNmkyR3NiSlNlNTFHX0t1dWc3bHRoRlhMQmdsWXhpRjhDVzY4X3Q1WHZBUTc0ZHVPRUVLUk5rY0E3WTk2ZkJNR2V3azMwcDlKN0UtTV9UWjlfQW9udzNVUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T19:43:45+00:00"
+    },
     {
       "t": "“가래 대신 호미로 먼저 막겠다”… 금리 추가인상, 시기만 남아",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbFcwdXlaSHlXUzdEZ1FLZkdKTFJxU3k5SEg1Wl83UDRRSVZ1QUhBallLMWxfR3JSU0xVYVdhNlo4eVVtSFJOT3dxYk96VllTc1lCV0RZSnBQd2FDcGNfWXlQRkNHUWR6OWFsQlEwM2ZhejVaX3fSAWZBVV95cUxOVGxhd3g5b29XanV4aDBVQ0ZKd1dGLUxFcmoyVWdEQkdFNUpWQkY0NThvYTEyZXZYdVFid3pVbDJQZTBvWmlTZ2pJdFJkS2U0dldBZmhSTnpUZldXUldpLUR1SEQ0VWc?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFg3R3B6VHlCNnpIbzZObks2SFdtV1VwNGM0UXVPRFFkNUg5THlYLUFBeFE3VEsyaWtLalJqcjJxbzc3RWc0NXB2czlsdHFpanhhQlpwaWJkX2JmTWJ0MlNFZHRKR1pGRkNEYnFXUTI5dlJhNS1YTXI4UmFzd00zSF8yVzVDdTA?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-27T19:05:00+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 美·이란 냉랭 기류에 나흘만에 상승…WTI, 1.6%↑",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sUThBUjJPa1gxX2QwTlRLOEVqTTRwc2c2T1ZHUXE2ekpXNzdqYmFBNUpsN2F3TUFFUXJPcHdwZHpWVFppTWoyTGZ4NElqajJnSVFXYzhrcXl6RVp3UGR5SmE1YlN2TDJOSHhyd2w4SXBxQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T19:04:37+00:00"
-    },
-    {
-      "t": "금리인상에 엔비디아 효과 '무색'… 칠천피 탈환 실패",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0UXdKTkpfWG9BOWFHNGV4bUtjenJjYkM0ZWpOd29zNzA1eGVKLTY1Y1Jnb1lMQlZkdWprYmhJQ3NVWlVCNmdzUDVzeE9TRUVDbTk2Z29DVVNHakFiQVRoeGN1WmNXVmFh?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T19:00:00+00:00"
-    },
-    {
-      "t": "대출총량 풀리는데, 금리 날뛴다… 주담대 '8%' 찍나 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2Y1hULVFmZXFJbEk0QVh5Y0lQQlJqZFBhcHNuNi1pMzZIeXI5NWpRT09UTHc5RkE5T0dPWFBZRlFRclRJYzNWMnBjdTNFcTlYbXJlTG1OMHFVbUtLajM2ckNfSGcwTDJDTjFV0gFwQVVfeXFMTzVlc2tKVlQyRlZQYUNROEQwXzBGZzRhbUY0cnZFSk1OaFZTdEhNTWQ5U0Q5Mlk5NG1qbFBDVnV1djVPaGQ5cU5TeUFEUlZJWkFZelBvUHNIWkpESjdnOTZocllOQnpfbTEwQm11U3FPYQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-27T18:57:00+00:00"
     }
   ],
   "asof": {},
