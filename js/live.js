@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T12:15:59+00:00",
-  "quotesAt": "2026-08-27T12:15:59+00:00",
-  "newsAt": "2026-08-27T12:15:59+00:00",
+  "fetchedAt": "2026-08-27T12:30:59+00:00",
+  "quotesAt": "2026-08-27T12:30:59+00:00",
+  "newsAt": "2026-08-27T12:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
-    "vix": 14.97,
-    "krw": 1380.53,
-    "gold": 4649.9,
-    "wti": 82.52,
-    "dxy": 99.21
+    "vix": 14.94,
+    "krw": 1381.14,
+    "gold": 4650.3,
+    "wti": 82.26,
+    "dxy": 99.2
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.07,
-    "dxy": 0.04,
-    "gold": 1.12,
-    "wti": 0.35,
-    "vix": -1.58
+    "krw": -0.03,
+    "dxy": 0.03,
+    "gold": 1.13,
+    "wti": 0.04,
+    "vix": -1.78
   },
   "news": [
+    {
+      "t": "\"美 트럼프 행정부, 반도체에 '고강도 관세' 검토중\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kb0d6dl9XeHpPZlZlTWZoQ09ZYmV1Vm9TR0p5TEJwelExTE5jWjVIZ1BnX1NWTVQxb2g4Z2l1c3NoVGdhYVVqZkR4TGw2U3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T12:14:39+00:00"
+    },
+    {
+      "t": "신 총재 “원·달러 환율 아직도 높아…원화 더 강해져야”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MW43VDlQRW5WYVIwWXBVX24wamtuaTR2S0gxVjItVE9LRzg1aHdWc3JFVHlFMm9tVURaYldTUjB3em9feGtIdnhhNkNNbV9KbEIwVDJ0c0NTUdIBX0FVX3lxTE56ZE1YWHJzSk1mSjFxWW9CVWVoSUpTS29SZnRieWZ5SjI3eFk5SU1uX1c4dWw4M1VZZFRmbmhJOGRyVkxad1Q4d2ZPNDBhVWFRTllCQUtkbjZsTUFxalUw?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T12:14:00+00:00"
+    },
+    {
+      "t": "신현송 “늦으면 가래로 막게 돼”…‘선제적 대응’ 예고",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xOExpekxCaUpHcUtycnluNmVSaFZLS3U5d3NpN1VPdmtiajN0dnZsbWNTbC1MeWtQWGNyTU5jQTAzT2J2YXpPQ3ptbFdUakd4eDd1eng5Z1ZYQdIBX0FVX3lxTFBaeUNSTG9COEV4LU9lQjl1a3R1NDdKU1RTZmtWZXdISDJlZXJRSDZJT3MyQWRkQzZHazZtT3QyZGdfcEZmTFREWGFWY0huZVhyeW83NVpMTXlkREhham9N?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-27T12:14:00+00:00"
+    },
     {
       "t": "\"트럼프, 반도체 완제품까지 '고율 관세' 검토\"",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUhLMGx2NS1tcVdqVHBNSWN2VF9fYXdTbWx6cnBfWUFXQ1VuR2FwSDFFWDhDQm44anJNcTRQSVhnaXpVVkVHUnUwNl9OX3ptTENta3MyajVJUkpfN0haRVlVYWlrYS05a3NwZ1N3cEVCejBBa1RuWjdqUmM4Y2hCZWc0SE43U2tl?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jak5ISFBOZUhDdkNRanRLNHUxb2dzLUxqT3NmYVZ2cDF6S0xxaTRPOGJ4SVNVMVQ4Z2E5YzBIOG52WVc3Tk1NdXdvTVNUX1V1OEhRN3dsVUU3V1Q1?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-27T11:47:00+00:00"
-    },
-    {
-      "t": "미 국채 약세…주식 강세 속 연내 금리 인상 기대↑",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyRzZhVWlDLTJFVE5yMmhoR0k0VU5XSno5bXplZFktS0Y0cnR0UUhXWk9JSlM5cHZCM1FheGd5X0ZtLWJoZjM5Zm0yQnpWLWluT0xmTDg0OGVzYVIzeDFIV1hBeUE1Q015YUx1aDV0YmVWQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T11:34:59+00:00"
-    },
-    {
-      "t": "“트럼프 행정부, 새로운 반도체 관세 검토…부과 범위 확대”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVbjFjSWVmNFNkZk5Xb3BkZTNncWEyMDZSNEZaUlczbjNnaFJZYnVCMlZyOVBNMkIzTWJRaHNiWVQ5ZmZ2WmZzTEFzZVBLWHM2UUY3cFBR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-27T11:34:37+00:00"
-    },
-    {
-      "t": "달러-원, 뉴욕장서 1,380원 초반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSnBuVWlJdC1jM2lZYXdmTGRNdm1paThmLVdrX0llRnJHS2kxdUQ5b2k5WDg4QUR3NTVqMnZ3VVdqeHhVS0NuOWtvTWJrdnhpQ3ZCT3lMdUI5MHVnenpKcHFtQkplUkcwamNpZXlETm9qUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T11:29:17+00:00"
     }
   ],
   "asof": {},
