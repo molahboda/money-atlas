@@ -1,39 +1,39 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T19:15:59+00:00",
-  "quotesAt": "2026-08-27T19:15:59+00:00",
-  "newsAt": "2026-08-27T19:15:59+00:00",
+  "fetchedAt": "2026-08-27T19:30:59+00:00",
+  "quotesAt": "2026-08-27T19:30:59+00:00",
+  "newsAt": "2026-08-27T19:30:59+00:00",
   "quotes": {
     "kospi": 6912.37,
-    "spx": 7719.83,
+    "spx": 7718.62,
     "nikkei": 66131.98,
-    "vix": 14.63,
-    "krw": 1381.74,
-    "gold": 4667.7,
-    "wti": 83.8,
-    "dxy": 99.16
+    "vix": 14.56,
+    "krw": 1381.56,
+    "gold": 4662.5,
+    "wti": 83.95,
+    "dxy": 99.15
   },
   "daily": {
-    "spx": 0.55,
+    "spx": 0.54,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": 0.02,
-    "dxy": -0.01,
-    "gold": 1.51,
-    "wti": 1.91,
-    "vix": -3.81
+    "krw": 0.01,
+    "dxy": -0.02,
+    "gold": 1.4,
+    "wti": 2.09,
+    "vix": -4.27
   },
   "news": [
+    {
+      "t": "\"금리 인상 선제 대응\"…한은, '백투백' 뒤 속도조절 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QUGRtbXpBUGJlLVhSWVcyQVlCQVB4SV9ldkRiTVVtTU5kOXppQXNhTW4wZThsaUVRS3FpZFFpSEtWeXFqZTN2STh6UmFMdDdoSWlXVDNPdW1qa0ctQTBTdjF2aTJscDBJLUQw0gFwQVVfeXFMTWFscU55bk5VVG1BR0l2Y21mQ0wwZllpUXhfSzBfd1NaZ2JiQ1NIbmU1clVRbmtQR3NZSlluZkxYalRhNlh6Rnozakl5VFMzV3JsekNwSDVnS2FBRWJOVG91UXJoNGNvMlAyRTZmZndTOA?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-27T19:05:00+00:00"
+    },
     {
       "t": "美 뉴욕 연은 \"관세 26% 소비자 전가, 1년 걸쳐 완제품 잠식“",
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFg3R3B6VHlCNnpIbzZObks2SFdtV1VwNGM0UXVPRFFkNUg5THlYLUFBeFE3VEsyaWtLalJqcjJxbzc3RWc0NXB2czlsdHFpanhhQlpwaWJkX2JmTWJ0MlNFZHRKR1pGRkNEYnFXUTI5dlJhNS1YTXI4UmFzd00zSF8yVzVDdTA?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-08-27T19:05:00+00:00"
-    },
-    {
-      "t": "\"금리 인상 선제 대응\"…한은, '백투백' 뒤 속도조절 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhcXZOdWRWd3RKT0JQUWJkQTlfMGNhVk9xamQ3aGtYS3o1bGx6YjNQMndGWEJqREVEZHc5UVZEZ2V0QnI2RFdKYVFqYnJVNUxlekRjc1dyVGRzemxzT2xFSDZmM0pPbFpselhaOTI0azdXN1JYcW1reNIBfkFVX3lxTE9DR1F5Z3JtZ2JlVHpER2VRbF9qbkRSZHNXLXkyeTU0Y3ZYMDhWbmN6aTA3clhRZGlIQ3QtWldhTjBLaXJXd29kd2JRbE53U1RMNU5wcmdQemYwZE5Wc2JLaGVYb0FNNVhCbFluWGJzeUs0Vk9walY5SDhWa0lPQQ?oc=5",
-      "s": "머니투데이",
       "d": "2026-08-27T19:05:00+00:00"
     },
     {
