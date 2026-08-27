@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T07:00:59+00:00",
-  "quotesAt": "2026-08-27T07:00:59+00:00",
-  "newsAt": "2026-08-27T07:00:59+00:00",
+  "fetchedAt": "2026-08-27T07:15:59+00:00",
+  "quotesAt": "2026-08-27T07:15:59+00:00",
+  "newsAt": "2026-08-27T07:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7675.7,
     "nikkei": 66131.98,
     "vix": 15.21,
-    "krw": 1380.68,
-    "gold": 4659.2,
-    "wti": 81.15,
-    "dxy": 99.17
+    "krw": 1380.48,
+    "gold": 4655,
+    "wti": 80.84,
+    "dxy": 99.15
   },
   "daily": {
     "spx": 0.3,
     "kospi": 2.52,
     "nikkei": -0.2,
-    "krw": -0.06,
-    "dxy": -0.01,
-    "gold": 1.33,
-    "wti": -1.31,
+    "krw": -0.07,
+    "dxy": -0.03,
+    "gold": 1.24,
+    "wti": -1.69,
     "vix": 0
   },
   "news": [
+    {
+      "t": "이지호 부총재보 \"연속 두 차례 금리 인상도 달러-원 환율에 영향\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44R0N6SWtZM2JfWUl4d1Y0LVhWeTQzVnF1ZlJGcUJTV2l2eUFSWW05ZjlfQ2ZFR1owUG5nM0VraDNfcmJzOFlCanlXSFItSkVPdnVXTkJXdTIydFFtUXZaM3FSQjBYSWhLODJuUmxmbVfSAXRBVV95cUxPTTFXWVljaWpfVlYxbGtPRUVpVms5OHdqUGRuSHBIZXpoTnBaNTNHRnZObGdRN3I1U2hDR3dmMG5va1lxa0FYNFhhMHJibXIybXJsNkdfWl9qdldZRWtTU3o3UDF4Um9DTXhzLTd0Ry12NTdqVw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T07:10:40+00:00"
+    },
+    {
+      "t": "백투백 금리 인상에 총량 규제 덮쳤다…주담대 8% 시대 오나",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSNG1oa2ZPMkNneXNRZGZHVGpBVl9icUM5SHFUNXhsMTcwWlphMWRVd1JuS05uSUVxRW9qSWh6ZFFNMWd2WVdjTV9qeWhvUkFiMko1eE53?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T07:09:11+00:00"
+    },
+    {
+      "t": "한은 최종금리 3.25%냐 3.50%냐…채권업계 전망 '팽팽'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmbGgtSllfazdJZzNXRFFBT2kwSml0UGVkYy1fZnlQWnVGbm9sRmF3cDcycjdPcGdCVjBVZ0pKR0NLMGZBdFNqZS1IN0F4X3BRTnB5X3cyR0V6QlhZTE43Um5iMmUzQWZnSnZKUWRodGY5Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T07:04:15+00:00"
+    },
+    {
+      "t": "“반도체 호황, 물가로 번질라”…한은 두 달 연속 금리 인상",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PRVZGOHdua2w5ZG5IaTgyVlFPaGdvSEc4LUdjTTBGUXRMb25OSUhCSnRjX1lELUdVVHJMNXMwNWtJRVRtT3RTelJOSlB0VFpJUVdOOEln?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-27T07:03:03+00:00"
+    },
+    {
+      "t": "코스피 1.5% 상승 6,900선 마감…코스닥도 1%대 올라",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZm50YXVlR0hnTkxYaUlkYnQ0U19leXlYZHBqUnFRWHg2ODU0ck9FOTVySzZ1TWh5aTl4c1ZfMWN5NzZac21zOGpmQ1VHamNTSXJ4cXBkSUNyQzg?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-27T07:03:00+00:00"
+    },
+    {
+      "t": "신현송 “재정지출이 성장 올리는 투자면 금리인상과 엇박자 아냐”",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VX0hfX2c2aUNvZW9fZjhVeGJTU0J5a3l0SW9KSHd2RXo2bVozTWRzYVlMbjdHV2JaZWU4NThEeW5UVWw2ZUd5TFVESGNTbkdMRzNUM0FIS0J5aEpQazBuSjJzZFItSmthcXRxeDZ3d0Q5Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-27T06:59:00+00:00"
+    },
+    {
+      "t": "[마켓뷰] 코스피, 엔비디아 훈풍·기타법인 매수세에 6900선 안착 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGhoTlRDVmpXY1FGaTVTdUtOd3pXblJmc1VyRmRhajRHUlVNTnMzeUlEZEotN2lFLVkwclpZZWhOQVQ0Zlh3ajBpaGN1clFvS0lQeV9NQWNWeTllOE82NkJWRmVjZ3VUR3hVN2NEZENHc0FwWUxYMVIxaU9WV2ZuMUxjazBSVXVq0gGcAUFVX3lxTE5SUy16d1J0NW50Yk5Ta240MThVXzdNTzRhdUpNaVd0ZDRJNHlYNWoyQ3h2T2diOVNjUFU1V21zZi0zRVRjbUplZ1pEaHdKalNmNGFIXzRUSTlmTUp6VkVlNmRjNk9FTklOc0dPbTd0MnQ2c1NLTjFtbE4tWmRKRmJQMTdCWWhkYjF3eng4MVgxdTJQQzVyZ3RwOEtvcw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-27T06:57:00+00:00"
+    },
     {
       "t": "[증시 레이더] 코스피 1.53%↑ 6,912선⋯한은 금리 인상에 7천선 돌파 무산",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1S1o3YTNFeEVXN0NmRm5zRW9MSkhLQXIyT1RfQURPRV9adS1ELVRfQXJGVFh3QWo1QmJWMF9TU1NEQWJSdzJzZzBxTkdlc0ZrbFFHbTZIYUl4aUN1OXc?oc=5",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHYmxneEdNaFBobTJHYkU5dlRpZkh1VDdTMEU1Mnk3bDZDREJyc0FkWjBmVDg5WW1OU2UxT1lTWmZJcnRBMG1zb3o4TTl0NzJYbUJnUTV3?oc=5",
       "s": "중앙일보",
       "d": "2026-08-27T06:47:42+00:00"
-    },
-    {
-      "t": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCWlEwWVVpVVRVMmhzWDJ2UVlxME1PUmZGVm9kcVd0ejFjeXBlMktSelJtT0ZYWl8tSmdtTHo3bzdWS3o3RktseENfMTNaLXpKM3NyeG5ESzNUQnl1dVk4V2JvLUEwanYwd0JPWnh2Rmg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T06:46:27+00:00"
-    },
-    {
-      "t": "[증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55bWdwbFBkME90SHNIYUhyNEdzVk9qVlRMbHNOaUVjUVJTdDlpbFlYcjdlYVVjWFpCOURLVURnS05TOGFyN1BrZ1JaMkhGSVp2UjNmRWVQRUNwTDQ3R2FCRVkzbXlURUphYkdINXhlcEk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T06:44:04+00:00"
-    },
-    {
-      "t": "\"땡큐, 엔비디아\"…코스피, '백투백' 금리인상에도 1%대 상승",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5VXVuVzRCSi10UkozM0RROW1laUZqaGxDaEhuRWI3UEVLR0IzN2VTYjIwdHhaX2VjRWJQNUpIX1RyaHJEV0RxWl9YcEhHWFh0cmdldGdYcHYwdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-27T06:43:06+00:00"
-    },
-    {
-      "t": "속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tNTUxVGFKYURzNXhyM1FZQkZ1SEctNWkzTnQ5OHdIVGxDTGpHc2k1TWpSLTlGM3FxV3JLSW5YdlFndnptaC1vWGNCSjl6cEIwT0Y1OWN1UEJfeVA5T2c?oc=5",
-      "s": "YTN",
-      "d": "2026-08-27T06:39:00+00:00"
-    },
-    {
-      "t": "엔비디아 호실적 훈풍에 ‘피크아웃’ 우려↓…기준금리 3% 시대 진입에 코스피 주춤",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNWF6Q0kyeUZiRnA4b1RBcC1WNERGYWNHcjNaU1phaGhwb01rNnF5ZFduSzFrTUtDMFlqakNxZkg0ajdsQXcxeDV1MDRYSkdsU1NPQUhzV3hJVVhjbjA1blRn?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-08-27T06:39:00+00:00"
-    },
-    {
-      "t": "원·달러 환율 3.9원 내린 1380.9원(오후 3시30분)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zbVY4amFRWmh3UVdQazNXTkkwdmlWSjBRNHJRNmZpSC1iUm5pbVhla1NwZmRIbzlhNm9WSDhqNHM5amxKVFdNNW53WHhqTW9TWXRQTGFxaF8tY3hmMk9ySQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-27T06:38:05+00:00"
-    },
-    {
-      "t": "금리 인상에 엔비디아 효과 축소…코스피 6900선 턱밑 마감",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmdUVwZElEek9ZRXl0RWZvbmItOEdpcFJCNWE3NjZjRXJrNHZXcGpjblpPOTRpZjhKU3YwVlZ6bEFFSWwtX2VuVEpOMmV0S3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T06:36:04+00:00"
     }
   ],
   "asof": {},
