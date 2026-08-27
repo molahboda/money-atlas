@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T03:30:59+00:00",
-  "quotesAt": "2026-08-27T03:30:59+00:00",
-  "newsAt": "2026-08-27T03:30:59+00:00",
+  "fetchedAt": "2026-08-27T03:45:59+00:00",
+  "quotesAt": "2026-08-27T03:45:59+00:00",
+  "newsAt": "2026-08-27T03:45:59+00:00",
   "quotes": {
-    "kospi": 6945.09,
+    "kospi": 6947.75,
     "spx": 7675.7,
-    "nikkei": 66164.19,
+    "nikkei": 66269.31,
     "vix": 15.21,
-    "krw": 1381.58,
-    "gold": 4690.1,
-    "wti": 81.67,
-    "dxy": 99.14
+    "krw": 1380.15,
+    "gold": 4688.3,
+    "wti": 81.78,
+    "dxy": 99.15
   },
   "daily": {
     "spx": 0.3,
-    "kospi": 3,
-    "nikkei": -0.15,
-    "krw": 0.01,
-    "dxy": 0.22,
-    "gold": 1.12,
-    "wti": -0.84,
+    "kospi": 3.04,
+    "nikkei": 0.01,
+    "krw": -0.1,
+    "dxy": 0.23,
+    "gold": 1.08,
+    "wti": -0.7,
     "vix": -1.55
   },
   "news": [
     {
+      "t": "한은 금통위 \"달러-원 환율 큰 폭 하락…외환수급 개선·달러 약세\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZHJwOExPM0Q4eWZZTGI2aElieFNIVlFnYlFYcTNMTFFuR0xMUU1STXZBaVctWnMzX2I3QmNtelFXZE9aXzF4SFViRWNUaV9CTXFJc3Z4MGRIY1AxcGd5UVZtU1ZWdF9XWmhScUw3eVHSAXRBVV95cUxPZFZ4N241YnJic2pqcmhqRGVRMUI2OEtQQlFDRGlvRmVUbG85anh2VXBmbXpXQUQ4M29SQkw0R1pPSmpCRkhwMTgtVnBpRUNXeElMTEZsSWVtTndFVDJsb2J4c0I3ck1pM1piNkFMVGJqVURQcA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:34:35+00:00"
+    },
+    {
+      "t": "금통위원 6개월 후 금리전망 상향…21개 점 중 16개가 3.25% 이상",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pN2s4VjQyRzAxRUNuQTVHSmQ3QnRORFp0WWZaeWY3RjZQZ1F1eWhwZ0lXdEUwX19ZY1J1Q3VvSmZtYm85dzhwNWpsYUgwTlZMWFRpNVFVY0d1VWd6RkxKVnZ5NVZmb3ppZDc4WkR0Yk7SAXRBVV95cUxQQ3dFc1dMS3pEOHpYQ3RkQ2VyM21FT1QzVkcyNVRYd3dSMHhHUmFDUVIxS0trSWNXTWg2S0hVTi1abS1BOVY1c2tDem9iYWFTN0lyQjBvNFgyRnlLYnFYZ1laY3E5TkpqcTM2Q3p2d24tMnVxdA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:33:03+00:00"
+    },
+    {
+      "t": "7,000선 넘보던 코스피…금리 인상에 상승폭 축소",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdGZhcGJlUmFqWjByaGFpZG1TZHEtUnpFbjM5NF9QdzlWOXliTW0tX0ZYa0pEQXdHbUt3S3pPYVNzUGJJZEtqZHotSHZDVTVFTTlNaW1UZUstNjFGTEt2Rk1hWmZ5MjA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-27T03:33:00+00:00"
+    },
+    {
+      "t": "금통위 \"추가 인상 시기·속도 결정\"…'금리인상 기조' 문구 빠져",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JbTg0TUZPX2NvTlNCWXlkUFozR1YyX2JPRk5WbEZLLVpQbHZkT1BTTFJfd1A3alZSTnZxblY0Qk16ZXh4LWROakd0X0RNbklWNTE1MnlyNGVNQzBkVUVwaHZONUN6VS1UMEFUX3hFMnjSAXRBVV95cUxOZVVqSHVJSVU4SElJV0NlUnIzRUQzZzRwZDJIUV9GTjJwSkJ2OGdfRE1RemFwbXBicTR6QjJnMVd0OS15cm1VYnQ5V3ZwRjZfck9fdmpKZ0tlSG9mLXNGdTJSNU82Qm4tYVJ4M2VZTngwVUR4SA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:32:51+00:00"
+    },
+    {
+      "t": "한은 \"물가 상당기간 목표 상회\"…비용압력 전이·수요압력 확대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjUW5aZXZ4LXB4MVhUWkstSWo0eGp0TFF5a3lDYmtUN2NYMndIbERjaWQ1aVdIZGFKSG1uR2tobk80ZWNub3d2MjlmOXBFaVJnNkhwQTNsNm1MS3ppUmhXQVhpZXl1TWFmQWtlN20yTznSAXRBVV95cUxQVjdGc2xuR2VkRmxZNWVmR1RzaWpkSkowMi1KOVVWOE9FelFLaEtuRE9oVW5pOGo5eEF1cUhTTDNHQy16UkNsdWdxU3N0NUU5SUljNFhhZXhqdWExM2w1U3cydHl3bE5ualdBcFc0VnFKMjZFbw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:32:36+00:00"
+    },
+    {
+      "t": "한은 금통위, 기준금리 25bp 인상…황건일 동결 소수의견",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByendJVExKdnpuNFlWSzlHcUxQRUNWVFlKY2sySUtUZWtyT1pmVTZteUh1VFlsUHotLWtqQkh5QWhJd20wbk5aeFAxVUFxcnZDV1NaZTFDS2U2dWpEd05EUU9keXJsMFpNaV9ra09Eai3SAXRBVV95cUxQTVdyVU02WDAyN24ta2tlTHJnMGpVZjNHTkw3VmF1dlBmQ19WUGpva3ZGYWtoMngxQW5CeXhOeUF2UDQyYU5qZHVSVjl5Skh6U0hiZmRjTlpsbmQ2UXBwSkRQZEQ5Tk5xSGZSdWlWTlM2QXBlNQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T03:31:57+00:00"
+    },
+    {
+      "t": "달러-원, 금통위 종료 후 1,380원대 초반…한은 총재 \"환율 어느 정도 안정\"(상보)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fQy1DZnp0bUZyT1VRSW44ZTB2WF91c19YOTFicTFpYXpQdFJiZ0NjOUNaM1JhT1JBYzRTYkNVWXdTaUtKUWlLUFd1SjJvQXBaanNQZGFKbGxvaUV5UklaSDEtX2ZGenNsSnlHQl9Ma015UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T03:27:13+00:00"
+    },
+    {
       "t": "한은, 기준금리 연 3%로 올려…2회 연속 인상",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRQnpJLWJJQ3VDN25rVjNqS2V3X2FLbnRaaG5Wd2RRNnRlOVE3YUY0R2NDOHJISzFZMDh1bGlpNEU1TFdMYm0taW5iLXctM2lzbW94YXZiZDV0Rlk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-27T03:16:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLb2hMMEdqZURjOEJUYWswOE9jNE1KUEZ2VWF0d2tkYzl3TVd4dlRYQnJhcFBTTDE1emZfMEk3cGF2UmVDa2VLNVRsT21ubXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T03:25:16+00:00"
     },
     {
-      "t": "美 10년 금리 4.75%가 '적정 가치'로 언급되는 이유",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LbnFQSU5VNjdVUHhDTE94bVpQTGxFd2ZxOW5DaE1zNTBXN2E2S19fc0h6d3hNenc5bnJTM3lqYzEtNzJsUzVsRVFrR0U4d0stamhWd1lDZkp6NGhQekh0a3dlLUJXaVJiaktUQ1MyVEQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T03:11:48+00:00"
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4SV9Cbm1DVkRoTnVGSDduYVVPSW9EZEx6ZTFTaWE0eFF5ZE9qQXg2TDBYRkt6ZHI5MUZRaEVpNUQ0bkhZR0NQSmdIOFlkVWoyaEN5Tkc3dXRVTHpzT3lRS0NzWkNhR1c0MDRwa19raTFiSjI5d2JJZtIBeEFVX3lxTE5xc2VfMmY4QWd4S0g1UWZaT1ZlRDdfZjRQUU1TZ3NxcEFXbmZlbHFfRFI2ZDF2SHdXMHFnS3o4VGpNRmxpSkhlTFRkX0ZiSzdsWTNLNThOblpMa0VjMlE1ZzhKc21CazgzWFdxZjZiUlQ0X25rZmVZZg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-27T03:20:58+00:00"
     },
     {
-      "t": "달러-원, '백투백' 금리인상에 하락…1,370원대 후반(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11VV9oUE5qNHg4SmtFcDNBRXBnTDlNVGhNUFQxWGkzMklTRzNlb2NkaE5veERESlZsZ0lQTktnM0wxNFFLWXd1cG43aHVpNlFjLXpvUkIyWGhFeC1KZ2RLWHBhd0lhZWFqY0hZNHdwNnU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T03:11:26+00:00"
-    },
-    {
-      "t": "신현송 한은 총재 “향후 6개월간 완만한 금리 인상 예상”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uazRVYVdtMi12VGtKZVlBWnZxek54RzVXNHVacnJVNW5sUWZtQ0M5V203MXZNLVlUVk5BZDVsazJLbmtiSkE3ZjViR2FsQm5MQVVOb2tLN0k4Wk5LVHNhYWRkUXB3N0VFaUdfMFFUQdIBbEFVX3lxTE12WXk1RjVQUFgwUlc3Vm1yajU3U09yV044N003aWtVUElJOGJPSzBDTWxRZ1JLRnZKQUQtaEVFTG4tX3VHUTNqOWJhSjQzQm4yQ3NRRU40b0ktM0JqYkpMMEtOZV9NSHZDOGtZdw?oc=5",
-      "s": "국민일보",
-      "d": "2026-08-27T03:10:00+00:00"
-    },
-    {
-      "t": "한은, 기준금리 3%로 연속 인상 “물가 오름세 확산 방지”",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4cFlVQU03UEVkNnYxcU5MTU15dzNXOHJZT1BoOHc1QU1kWHplbTM4Vy1MSnRtWlFfRHJVVlZLdV96MDFjMU14XzdEVGtoSEpzT3F1SzhUdUdwUnlWSmc?oc=5",
-      "s": "주간경향",
-      "d": "2026-08-27T03:09:00+00:00"
-    },
-    {
-      "t": "한은 내년 성장률 전망 2.9%로 대폭 상향…\"최종 기준금리 기대 조정될듯\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0dUZGMXBZaG9PTE1VUEJ0VllVcDF4SC1iQ0dZd3B3VHZ5VElyQVl2aC01d0pJc0ZQd0N3R1h5b2pOVFRsb3JUQk9vLTE1Q1dTS3RHczViMU9FVEoxdTBjY0FUVHpRZDFWWjFoNTNKZkw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T03:07:17+00:00"
-    },
-    {
-      "t": "신현송 \"금리 특효약 아냐…거시건전성 정책과 상호보완적\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tX0dtZmhyeWxORUJic3UyWnMwRHpjMndDQTV5cXpyUWluNklzc2lsd3p2MlJMVHpRV2FWcGJXZkJkUW9odEt0VDd1YXpsUUlLLUxaQTZoZ0xWMGx1X1FqbDNFOEYzbWc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T03:06:00+00:00"
-    },
-    {
-      "t": "신현송 한은 총재 \"백투백 금리 인상…선제 대응이 경제비용 줄여\"",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kd0VyLUlWbWJZVWJGS1g3YXA5aDQ4cVhlTklYMkJWNjdxcnNDVWhzaEdLdTV3bE9fWDY4eFR2T2dXT3BsRkhJaUtMYm16T0o2Rm0yX1ZWVDlWQ2ZFTzN0SHRfTkQ3MVV6TmxydzNYQQ?oc=5",
-      "s": "뉴스웍스",
-      "d": "2026-08-27T03:05:30+00:00"
-    },
-    {
-      "t": "[속보] 한은 총재 \"명목GDP·물가·기업심리지수 보고 10월 금리 결정\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FS1hsLUJIWWd2SjRXWFNKOHVwZnBQYm82UEF6QTU2a3NYRGFYeHNqTUJXM3F3TDJBSTJveGpnSV95cmFQUHhjeE5zbGVxMVpRUzc4ZDVpS2duWjhBUEpMZEh5Yk9aNFk?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-27T03:05:00+00:00"
-    },
-    {
-      "t": "기준금리 3.00%로… ‘돈줄 죄기’ 깜짝인상",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84V29raThBdEJrMVZTTlFLelVMS3VXZjNqaHFlVXBoOTFoTDhIWFk2dVJkSUtDMXgtZ2FPcm5GV1kzZmJ4ZkttOTVITGJhMER4?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-27T03:02:48+00:00"
+      "t": "신현송 \"환율 아직 높아…통화정책 선제적 대응에 추가 강세 여지\"(상보)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Q0hxNC1MWE5lMENrSjh6enVXUmZOZ0N0TV84SFJ5aTZNaXQ5bUVVUEExUnZFWS1VSi0yekt3UUhpS0Y5QUVtOGNnOTJCNndkcWVOVG9vUUh6T09PR3ZLZ3RTellzSUFVUFFNUno1Wm1xQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T03:20:28+00:00"
     }
   ],
   "asof": {},
