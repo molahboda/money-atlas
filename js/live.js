@@ -1,40 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T02:30:59+00:00",
-  "quotesAt": "2026-08-28T02:30:59+00:00",
-  "newsAt": "2026-08-28T02:30:59+00:00",
+  "fetchedAt": "2026-08-28T02:45:59+00:00",
+  "quotesAt": "2026-08-28T02:45:59+00:00",
+  "newsAt": "2026-08-28T02:45:59+00:00",
   "quotes": {
-    "kospi": 6838.95,
+    "kospi": 6847.76,
     "spx": 7730.99,
-    "nikkei": 66670.32,
+    "nikkei": 66682.88,
     "vix": 14.51,
-    "krw": 1378.28,
-    "gold": 4633.3,
-    "wti": 83.28,
+    "krw": 1379.59,
+    "gold": 4639.3,
+    "wti": 83.39,
     "dxy": 99.15
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.45,
-    "nikkei": 0.81,
-    "krw": -0.38,
+    "kospi": 0.58,
+    "nikkei": 0.83,
+    "krw": -0.28,
     "dxy": -0.02,
-    "gold": 0.76,
-    "wti": 1.28,
+    "gold": 0.89,
+    "wti": 1.41,
     "vix": -4.6
   },
   "news": [
     {
-      "t": "[금리 3% 후폭풍]③대출 문 넓어지고 금리 오르고…은행권 이자이익 더 불어날듯",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lTzhJc2NaSkZlb3hzZFZZWDZQRk1NWjVsRmdMMzYzUGJ6NklXQXlRZm1lWjhMa0VldnFIR3VfNEx6YVAyZmt5TDlXaDBlQl9EUE1ydU1GVkV5S01MU3JQNw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-28T02:28:11+00:00"
+      "t": "국힘 “정부 확장재정, 금리인상과 엇박자… 서민 잡는 청개구리 재정”",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UYTVuVUl6SE82Z3F2SzU5RlY3LW5XemUzNWg3dHlyNHB1bGNlWkZhblg4VkZWMl9VUGFzZXVORUo3MUVNWmhjYi1Obm1yVmxzYlJvUVlVZjJuWmtCTmNIOS12WE5HRzFyQnpCOTVLSF9MbEVBQzVN0gFmQVVfeXFMUGpOQnFMTWtLY19IZ2htR3hibi03VmZjRFpLYUt4UHhaWVczdkVLX3J2YWI1aFVYeVVvemU1ekdjVVhoWEZubjV4T0VUbXJDZDFVQkY5R0J1N2pmYnJkVmc1ZmlmYWZn?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-28T02:40:55+00:00"
     },
     {
-      "t": "한은, 기준금리 3%로 올려…물가 압박에 이례적 ‘두달 연속 인상’",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrcUtsNnU0T3Y3eEl2TGdaYlNNaUdNNGotemR1MHVSdEFhTHp0WEJrWWdSdlFFeHBZdWJMMERvcjh1SmxtYndYTEk5V1pLMXV4aUtGQnItUjlBcmFaZHBWMmptdUU0RFBBeEYxVkpIbTBVdw?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-28T02:21:31+00:00"
+      "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMlpkT196Qk5tSjcyYWdFeEtKM3ZKYVREdkxSVEFQUmJfeTdFUTVJN3h6RERsbTR5b0tpdHp1b21fazNER0VzeUJ2Z3JZaU8yemtwVVU4OTh5S0x4TXVhNGVLS1ZSOGFRU2FmdWJXak3SAXRBVV95cUxOVVM1YlhNT2VHT1pHS3BjTjlHeXU1WHUyMHRzU053UGF6WXByVENwcXVPN0FpSktPeml5SVdBaGRVeGJtVjFTS0kyQjNXaWxXUnZXMW9EeFlFdm5JdjRIV2htUmJBUHRLQlJadDNVcGdQSUtIaw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T02:40:03+00:00"
+    },
+    {
+      "t": "ING \"ECB 내달 금리 인상 가능성 커져\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZU3BjWGZPdEcwQ0FRc1VDV3Yxd2duT0N5LXRrQmlpZ2tBTkVrVlJSc3NmbjhjSUNFOHpzYy1mQllteEV2TFhjSU1ZWHdPMXRIbk04RlJjMzdhbzktLWFvbHZBOWRMd2JlMVFQeDNnNmE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T02:38:55+00:00"
+    },
+    {
+      "t": "美 PCE 3.7%의 경고…‘워시의 입’에 증시 운명 달렸다",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aSW1hQ1dhWk9ITGdZaUFXM0ZMV1lFLWxRNUJ5ZGw1bDJlSDNMS1c1Q3MzRFM3UkhVWlJLX2ZjM1FZTldoV1U3RHlMV19EWXJ3RHZpVzQzYmJKOTVmVG1INE1pVkRjbkp6VGRib0UwRQ?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-28T02:35:24+00:00"
+    },
+    {
+      "t": "한화·산업은행, 500억원 규모 상생펀드로 협력사 금리지원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVlXWUVsZlQ3cjJXVUNkQTlsWGVxek9fbGtRcTN5M0c0U2locE82RjBrV2daRUhoOFZaZGVtbW9fV1lPcjFUX21mLXZzYU11bFhjRGpoam5CWFAzcDJVcGpUWEhRWWNVeHRhaGIzMFZydXpNZ0xYTm9VbkVGOVNBeNIBlAFBVV95cUxNMUszTzlZaUI2U0V2enBrblFEUDZOc3dMVXNDdm9SRlYzZWZoeU95SVljUnV2QmQ1ZklZbDZXZFkzZ0ZUYjd5dlpXT0hra3RrWGJtMUtWakV6UnFGMlRUc0IwNHBYS2x0aEMwVmU4R2xFRTVZemtEQnhwazNGX2hqNDF0ZktzY2I1Nm9sVF9oQk5qRG0x?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-28T02:35:00+00:00"
+    },
+    {
+      "t": "코리아넷뉴스 - 한은, 기준금리 3%로 인상···두 달 연속 인상",
+      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSVBXdGx4c3d2aFY0SHI0N0xQaFVwMlp6Qmxhb2d3Vl9Za0t6Z2lPS0RpTEVoWGJ1TmNhdjFTX3JqZG91Q3VQUmtLZ2FjQ0QzaE5vYjhkTXZnU210VGVTSy1LOTctZi0xTkUzaExNbWlrTjh4TzM3V2RTS1h5LUNXRENpLWY4VldnTi1CYmEyUXhOaF9qM1V6Y1ByY0ZzbTJ1aGl1aGFHbXRpNHc5SWJUSWt2c1V6eW4yVzBWV1VOZ0lZbFNlN2FoZ2FqR3JQY2ltaFRVOS01TjhNUFBHcEhZSWUxUHg4N05XenZydXNOV3cxMFJzRFE?oc=5",
+      "s": "문화체육관광부 한국문화원",
+      "d": "2026-08-28T02:31:16+00:00"
+    },
+    {
+      "t": "[금리 3% 후폭풍]③대출 문 넓어지고 금리 오르고…은행권 이자이익 더 불어날듯",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Q05XRzNpYUFoVEdzV1pGREd4Z0F6WE9DdFVqUG9YT1hzYzlwQ0ZGY25QeDJOS3dpN01YSEFUYnE4V0dQZWo4elJ3WHk0Qmc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T02:30:00+00:00"
+    },
+    {
+      "t": "[한창헌의 단상] '호미'로 잡는 통화정책의 타이밍",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ySWQtUXRwVm1rS054N3hlMU8wQkhlakRxRVYwbUkwazltNmJTMnRFRGg3TzNFZGlKc1RwSVUtYWhMRjBwWnRlZHBBRGdXWkliZ0gwdTNwZ0xxcEJwODNpU3dKN2tQNEZEN1JPNEZiMWcyZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T02:23:50+00:00"
     },
     {
       "t": "日 증시, 잭슨홀 관망세 속 강세 개장",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ycWtDQTk3LXl2TS1RdTZ5ZGJtNkttTmdXMjlqczBZZnp5ZC1EUzlYYkV1amVtckJDRmlPbkF2VWtiNEd2NUQ1b0JyenpUT1FoS3NLbFpIZXJhcnRtX0FtcnhB?oc=5",
       "s": "이코노미스트",
       "d": "2026-08-28T02:17:00+00:00"
-    },
-    {
-      "t": "국채금리 누르자 더 뛰는 비트코인·금…어디까지 오를까?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HdDYxdUtEUGJGSFFQVEpDNTVxalV4ejdFbjlUMk1QNS01Z0ZoZ1ZpamtsS3FTSHhwYjllQ3VBTjhfV2d0SWxIQlkteGpHaDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T02:15:00+00:00"
-    },
-    {
-      "t": "[장중시황] 코스피, 1%대 약세 속 6800선 횡보",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nVVl6dmc2dHp5RS1uT0htRlozV2xfZWd1V2l3TTFIUDhPS2x2SGl2OWJ6bTdNc1J5dHVTZlBUV1BYU29kakZnTGxRZk8wYjVucVhZeTF3WmRuQQ?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-08-28T02:15:00+00:00"
-    },
-    {
-      "t": "AI 반도체 훈풍에 파운드리 시장 29% 성장…1위는 TSMC",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RDljWjNsNFBtXzNBT2xKbmZ5RnEtSXZaV2dKWE15VEtNZGx5UmU0V1pRTnpqX0pXemFSU1l4bmhScVl5QkI4elJpbEplczZlX2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-28T02:14:37+00:00"
-    },
-    {
-      "t": "삼전닉스, ‘트럼프 관세’에 美 공장 속도 낸다",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95ZFFxZVEzV1YyaDlvT3dkVVBlelBnYXdLdk1wdkd0RFozeXJZQlJzRWdOU1ZveU1zNU1NX1J3bmZKZUFjS0R6UFNuWjlfejlocmJBTExGNTJ3SWcxdG9Ram1yYw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-28T02:06:28+00:00"
-    },
-    {
-      "t": "코스피, 1%대 하락세…삼전닉스 1~2%대↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tMVZ1TFRkdjAwZW1RU2dhdzdhVVdhTEs2b2R4NU1xTUxLd012NWlBTHZtMW0tSGZBTjBFdkJXbjZCU0U1TGJxcGZXOEdQREk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T02:04:00+00:00"
-    },
-    {
-      "t": "잭슨홀 개막과 동시에 연준 인사들 \"인플레 여전히 위험\"…추가 금리인상 경고",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tR3M4azZISkxaOWlnMkxfdVU0aTVoNEt3djJaYVJ3bzQ0cHdSWDRiMlNYbjZldzdQcENkeGszYW9UMG5DTS1vRy1fYWFZSC1HNnAwWjRsOEUyT0lwUFpRS2tsVQ?oc=5",
-      "s": "더구루",
-      "d": "2026-08-28T02:00:17+00:00"
     }
   ],
   "asof": {},
