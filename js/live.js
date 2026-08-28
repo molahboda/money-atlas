@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T20:01:00+00:00",
-  "quotesAt": "2026-08-28T20:01:00+00:00",
-  "newsAt": "2026-08-28T20:01:00+00:00",
+  "fetchedAt": "2026-08-28T20:15:59+00:00",
+  "quotesAt": "2026-08-28T20:15:59+00:00",
+  "newsAt": "2026-08-28T20:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7711.48,
+    "spx": 7711.76,
     "nikkei": 66405.56,
-    "vix": 14.46,
-    "krw": 1378.62,
-    "gold": 4506.5,
-    "wti": 83.39,
+    "vix": 14.37,
+    "krw": 1378.49,
+    "gold": 4510.8,
+    "wti": 83.41,
     "dxy": 99.66
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.35,
-    "dxy": 0.5,
-    "gold": -2.24,
-    "wti": -0.17,
-    "vix": -0.34
+    "krw": -0.36,
+    "dxy": 0.51,
+    "gold": -2.15,
+    "wti": -0.14,
+    "vix": -0.96
   },
   "news": [
+    {
+      "t": "JP모건 전략가 \"AI 생산성 붐이 채권 금리 상승 이끌어\"",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12X2ZsTU9HcEthb3AyX0NUYXl1VnVjSjVwVWFBdWtuZmpfOU5PbTVweUt1N1FUcDVGUGpueHQ5bXVGT2sySDR6dHJSZWxDZE1vU3JwWWpHcXkxZEFPdVh4TUV6QV8tLUtibkRteHdKenphczBTUTY4?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T20:09:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시-1보] '매파 워시'에 하락…30년물 금리에 울고 웃고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Sl9ILXBJMklZZGh0QTd2RWQ0RnRiWHdqdlVYNlUwal9tTm9BdFcycTdzN1Q3WmF1MXVyVlNRa1RrcnNNTU1nQzRkVFBDLTdwcDlqbUd1cUdoMjl2LWhuZVlpVFA2enc0bklENldXVUw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T20:08:29+00:00"
+    },
     {
       "t": "피터 시프 \"워시 매파 발언, 9월 금리 인상 기대는 잘못\"",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNWXQwWDJ4eXotY3JWckM0SjgweThRMkdvdnhKU2FpWGRkaWlncXJDYUFXTnp5eHJRM0JTYkw5ZE9aNmVGRXZPcHFna0tEYkdp?oc=5",
@@ -32,9 +44,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "케빈 워시, 첫 잭슨홀서 물가 경계…\"2% 안 가면 할 일 남아\"",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRk1tek5JWlFVaDdoV3dSaFdkNUlOeFpNUTBtMVZZTTNPNHE0UGQ5aUhiQ3dWdlJoT0YtdWhDNzVsLVZzNXNNZ2U3WklMS1ZfQm9fSzZkTm81WWlZNmRLaC1EYWE?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-08-28T19:35:43+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsZDg1Y3d1TW56dGl5Z0hZWVlVa0drTmlZRXE1UjhYWF9jWGQ2cTF0N3Z1cXBHRGdVQXdtVVZvRWxlUC1tUEpIOUNkUUFVcVk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T19:36:00+00:00"
     },
     {
       "t": "워시 \"연준, 필요하면 더 할 일 있다\"‥금리 인상 베팅 급등",
@@ -55,7 +67,7 @@ window.LIVE_DATA = {
       "d": "2026-08-28T19:07:42+00:00"
     },
     {
-      "t": "\"시장 예상 뒤집혔다\" 연준 9월 금리 인상 확률 반반",
+      "t": "시장 예상 뒤집혔다...연준 9월 금리 인상 확률 반반",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QS1MbkJrR3JCcGxWaFBKWWVudDdzZ2dsVzVIZG9ZejkxeERERDBaMDA5X3lzTmR5VWpsQVpTTmN6VlBxUk8zUkFiU1hPWWJjVUxMd1RPV250dw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-28T18:37:13+00:00"
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UTFRzUzZORlgyRFhWTXFTUTBYeHhqRXR3YjZMeTAydnkwT1pUNzVENU9ENVMwaUg1aGY5X2pKcXVabEpIRFFTM2tSb2NtcmJjTzBDZVBBaG1UcTM1aW1xaVl6OEZkeGszbjhJQU5RTERMZ9IBdEFVX3lxTE1jaEw0clpCY1FkQ2dCSVIwZmI5NzBMNlB4aHR4N1ZXSVRfS2FITmI2WTJGdU5vcFJQc1pJVElvc2E1eTBweUFwSWpkT2ZKTmItdUROU04zMXJRQUJmZmtqOEY2TzhsUG1mMy13VGtEZ1JNdHhJ?oc=5",
       "s": "VOA 한국어 홈페이지",
       "d": "2026-08-28T17:57:20+00:00"
-    },
-    {
-      "t": "[ICYMI] 실책 바로잡은 워시…美 국채시장, 급격한 '베어 플랫'으로 화답",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE90UERfc0lJR1JVb2ExQ1kwaHhhNC0yU2xreTR6THZqdnlxZTJNSHhOOFhsZ2V3QVNwQjJ1WkEzVzVvblNRbHV5UDR4Z0t6dENfNEpYbF9FYmhPQXVySDhhdlF4Yk93MVUzakx2YlZORXphZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T17:30:14+00:00"
-    },
-    {
-      "t": "유럽증시, 워시 미 연준 의장 잭슨홀 연설 소화하며 상승 마감… 프랑스 증시도 반등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaEM5WDl4SGdGMjF3ZTQxRDRONVlFNV9yTFNfa1hiREVrTVN1MjRweEZsOUZQZjRtQTF5VnE3aTh2N3MwQVBhT2VXMlk1U0s4UGJmRmNMUjZNYjll?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-28T17:16:00+00:00"
     }
   ],
   "asof": {},
