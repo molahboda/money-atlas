@@ -1,33 +1,45 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T08:45:59+00:00",
-  "quotesAt": "2026-08-28T08:45:59+00:00",
-  "newsAt": "2026-08-28T08:45:59+00:00",
+  "fetchedAt": "2026-08-28T09:00:59+00:00",
+  "quotesAt": "2026-08-28T09:00:59+00:00",
+  "newsAt": "2026-08-28T09:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.52,
-    "krw": 1371.42,
-    "gold": 4663.3,
-    "wti": 82.75,
-    "dxy": 99.18
+    "vix": 14.49,
+    "krw": 1371.58,
+    "gold": 4656.7,
+    "wti": 83.26,
+    "dxy": 99.2
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.87,
-    "dxy": 0.02,
-    "gold": 1.16,
-    "wti": -0.93,
-    "vix": 0.07
+    "krw": -0.86,
+    "dxy": 0.04,
+    "gold": 1.02,
+    "wti": -0.32,
+    "vix": -0.14
   },
   "news": [
     {
-      "t": "‘박스권 갇힌 코스피’…거래대금 80조→19조 뚝",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WVlVITE1Hd0tKaEFMbGxTbnFxc2NuSGJZQW5iWWVhQWFhSGpCT3VIWUZTUGJZN3AwS3VmU19yUVJGNGFZc29rNkc0QUNoX0tGcDlkZnhHdE0yZmMtcDVPQ2xieW5CdVU?oc=5",
-      "s": "한겨레",
+      "t": "금리 인상에 ’이자 폭탄’…집값 상승세 둔화할까",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwQlg2Ql9DcVIzZm9WUV9Xel9ocVlTTXBaOHpuVUQyR2VxclNfMFVtOTFvekRRdko3QkMxTmcza3ExNXFrQWYyY3RXZ3BkVEMyYlRfRTJlb0RnZHdVVS1BSndWb2NxV3M?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-28T08:19:00+00:00"
+    },
+    {
+      "t": "환율 1,370원선 접근, 13개월 만에 최저…원/엔 850엔대로",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycVVRTmtuMDFKRXo5bTdMR1dXR20wUHpMRXRoRTZYOFAyWjQ4eU1sRXlHa2t2bDRnUjVpTW0xSjBGRFdiOWtRb3RIbTNyVUtBelZQUUt1REE4alYzckQzZNIBYEFVX3lxTE1ycVVRTmtuMDFKRXo5bTdMR1dXR20wUHpMRXRoRTZYOFAyWjQ4eU1sRXlHa2t2bDRnUjVpTW0xSjBGRFdiOWtRb3RIbTNyVUtBelZQUUt1REE4alYzckQzZA?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-28T08:07:29+00:00"
+    },
+    {
+      "t": "美 반도체 관세 확대 검토... '삼전닉스'보다 미 AI업계가 더 우려",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NYnM4TzVaWFpKZHpSM1hpZzFGSXRERWZ0Nm9semtWT0toM3lCc3dOQ29WajRwUXlhemFwZlVmTkhRX0dYYzQzaFNfaW0xSTB5dVZHTlY5RnZmWUE3ZE9seHc1SFhwQXJvSVZtdmhKUmNucTDSAXNBVV95cUxNTWJzOE81WlhaSmR6UjNYaWcxRkl0REVmdDZvbHprVk9LaDN5QnN3TkNvVmo0cFF5YXphcGZVZk5IUV9HWGM0M2hTX2ltMUkweXVWR05WOUZ2ZllBN2RPbHh3NUhYcEFyb0lWbXZoSlJjbnEw?oc=5",
+      "s": "한국일보",
       "d": "2026-08-28T07:40:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGTXJ0VmVkNFhiazBpNFFEN2ctQkhfOEZWVDB2bVhQeHNTTUdJVkg4TkEyNkpOemZJVU5OSi00ZzBOV190OEN4bXdMaUQ5eWtvR2Fzc24xV2dnY3BEZ01Ccg?oc=5",
       "s": "프라임경제",
       "d": "2026-08-28T07:25:18+00:00"
-    },
-    {
-      "t": "이재명 ‘호남 집중’ vs 추미애 ‘경기 사수’…민주당 반도체 영토 신경전",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SQjg2UTNnM3lxTFgtSnJUeWNJMU9QUGw2SWpGZ2pSUlFJbUlPZkZGQTRrWGxobWExaUs0RWYxVjZfOEc4V2FIeE9jUTl2aVVjRVhvS1RDenZrcVVFTjFGODA0SQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-28T07:20:48+00:00"
-    },
-    {
-      "t": "코스피 1.7% 하락…삼전닉스 3∼4% 급락",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2TkhTMGlwT00ydHprb0sxZl80VGNVNUR3cjFnREJSODJ0LThBM29sYjlSamRyWFc5TGJMTXE0VmJlLXBWOWc5OVlhTTdoYWZuM2tWSllRdEVwMnRGRTJIUmFTV2wwOEFHWElKc3pFdTQ4azRL?oc=5",
-      "s": "대한경제",
-      "d": "2026-08-28T07:20:44+00:00"
     }
   ],
   "asof": {},
