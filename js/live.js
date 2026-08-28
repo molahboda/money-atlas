@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T23:15:59+00:00",
-  "quotesAt": "2026-08-28T23:15:59+00:00",
-  "newsAt": "2026-08-28T23:15:59+00:00",
+  "fetchedAt": "2026-08-28T23:30:59+00:00",
+  "quotesAt": "2026-08-28T23:30:59+00:00",
+  "newsAt": "2026-08-28T23:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,30 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "美 엔화 매수 개입 옹호한 베선트…미국 금리 상승 위험 거론",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbHp3ZUlqVk5fY3hZTEpULW9FVTJ6Y0RTQjUtRUVCUTlRN1lqOVpUVnlsMkxlZ0JIUk1YTUxYb0FIbmVwenFRbzlLdHExZVpaUzRfa2JNSjNIQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T23:24:13+00:00"
+    },
+    {
+      "t": "비트코인 8만달러대 안착…국채 바이백·규제 완화에 알트코인 순환매",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5OUhCQWNPZWQtTF9pbzJGcWdaY0NkU1QtWXZFNFlMV3NDSTlEOWJDMVQtOEV3d1ZEUnptcTgwUmRQS0lXMkRBdW5wVEpYRXEwc2x3MENtb08zRVhrN21Wa1dfWXJqQ3c2Qktnbkdrb1lTUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T23:15:00+00:00"
+    },
+    {
+      "t": "워시 ’물가 경계’에 뉴욕증시 약세…9월 금리인상 확률 57.5% By Bloomingbit",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRGxHZDBQbnQxRG9idDRjSk9BNGVLM0xjdGZxMzJ3T1pYOWdLeVZMTmhCX1lQb19iY1NMRmE0NS1yVENVeUd1TnFxMW1oMmdZenpOUHlEdkFJZTNRNGF3QTFYRkJPOG42R3NWa2dYYmc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T23:12:00+00:00"
+    },
+    {
+      "t": "[파이낸셜워치(180)] 엔화가치 워시 연준의장 매파적 발언에 다시 달러당 160엔대 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LQVM2V3ZxVm9BejRYeEZ4ZFZnV3pyRWhyUVVtc1lRWXhOVUhEMGRLY2IxTkVDWGVTWEFuU2ZDYjRHYVg0QXRR?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-28T23:11:15+00:00"
+    },
+    {
       "t": "워시 연준 의장 \"美 물가 우려...진전 없으면 연준 할 일 있어\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZZGc5bzlwSHh6cVlfSk03Qnd0UDlXUXkxa1BUZHFwSldIdnB2VmU0aHJGb0xWRGRsbUV6UnNLay1pZFhZeUQyd1lvZU52OHltaWRvSDBsUW94SXptdXNxZ3VjVWtOSTJZTG1BNUJmRF8?oc=5",
       "s": "오피니언뉴스",
@@ -38,7 +62,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "국제유가, 호르무즈해협 통항 재개 기대감 등 영향 하락반전",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jTTRrUHVWN0dTajVJb3dRM1pRQ19pV1pOdTJ0WEQxTXNDWEhMREpPUlJockcwSHIzV25JTF85ZC1JM3pTeUhBT2dMeUJmTFljSHpuaU9nTlJyLVJkb0E?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLX1lHaUFjNzZPbWw1YWc0eTUwS0VOOFFuOF9iYnFHZVd5U0p1SXRFQ0NQTjVpR2Rja25KekxBcElfbzh5VWk0?oc=5",
       "s": "포커스온경제",
       "d": "2026-08-28T23:08:02+00:00"
     },
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T23:00:00+00:00"
     },
     {
-      "t": "워시 '물가 경계'에 뉴욕증시 약세…9월 금리인상 확률 57.5%",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLV80b0swNHhadE9fcUpQN1k5dlZJTGNLLXJiNkJCd0l1QjRKYm1iMUhnamxYSldvN2VjU1dJQ09zMEdRODN0ZHp5YXBYcmtq?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-08-28T22:52:58+00:00"
-    },
-    {
       "t": "다시 160엔 뚫린 엔화…日, 9월 이어 12월도 금리 올리나 [도쿄나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NN0k1SFBWSGoxRThNQjctamNOS3hrR2tEc19GSm5oYWhKMmN1R2dXclUyMFJQclFGNjJiVEV2VmVPcUt6ZzNJcGI1UEdySDhSVDNkZlVRNWgyQQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-28T22:52:07+00:00"
-    },
-    {
-      "t": "국금센터 \"日 장기금리, 상당기간 높은 수준 유지…재정·수급 따라 추가 상승\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0WHFlajIwaXl6a200VnVyRUhOX1ZFSWhoRHk3dE1TU1E0YlFwR29na2pJZzMzc1ZXelhlaV9ScGZvWC1rdDhBMzlxaE1GZ21LMUozQTl1UkQ3LUtTNlNLaG02VXZ3cG1MU3FMX0tfelRLZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T22:40:00+00:00"
-    },
-    {
-      "t": "[오늘의 글로벌마켓] 뉴욕증시, 매파 워시에 미 3대지수 일제히 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kU245cm1mdm5HYXp5a1B1TTlEdHhNOXZTeUZIQzE1bUlFSFF6M3BIYkpMZmpWakhuRWZWSkRER3JqSnAtamNGOWR6eWs3SGdMdUxfeXdzdHhiWElwLU5mak8wNzRPekZqYVFJNTFpMl8?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-28T22:38:12+00:00"
-    },
-    {
-      "t": "[오늘의 경제뉴스] 트럼프의 반도체 관세, 한국 ‘메가 프로젝트’ 겨냥?…삼성·SK 美 투자 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VGwyM0RiNl8tMGRzazM3SW1QRlV6TGdreTVxWVA2a1BJUXJFcnZYRlFPRGZKbzBxaUY4c0FPUGFpbWRmYTM5YmRjOFFVNXhKWnlYd2RORkM1Z21LWnd1dmktdnlnZXJ0RVE?oc=5",
-      "s": "뉴스버스",
-      "d": "2026-08-28T22:32:37+00:00"
     }
   ],
   "asof": {},
