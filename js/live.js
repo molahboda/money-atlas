@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T08:15:59+00:00",
-  "quotesAt": "2026-08-28T08:15:59+00:00",
-  "newsAt": "2026-08-28T08:15:59+00:00",
+  "fetchedAt": "2026-08-28T08:30:59+00:00",
+  "quotesAt": "2026-08-28T08:30:59+00:00",
+  "newsAt": "2026-08-28T08:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.54,
-    "krw": 1372.03,
-    "gold": 4666.1,
-    "wti": 82.99,
-    "dxy": 99.18
+    "vix": 14.56,
+    "krw": 1371.81,
+    "gold": 4662.6,
+    "wti": 83.08,
+    "dxy": 99.19
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.83,
-    "dxy": 0.02,
-    "gold": 1.22,
-    "wti": -0.65,
-    "vix": 0.21
+    "krw": -0.84,
+    "dxy": 0.03,
+    "gold": 1.15,
+    "wti": -0.54,
+    "vix": 0.34
   },
   "news": [
+    {
+      "t": "美 반도체 관세 확대 검토... '삼전닉스'보다 미 AI업계가 더 우려",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NYnM4TzVaWFpKZHpSM1hpZzFGSXRERWZ0Nm9semtWT0toM3lCc3dOQ29WajRwUXlhemFwZlVmTkhRX0dYYzQzaFNfaW0xSTB5dVZHTlY5RnZmWUE3ZE9seHc1SFhwQXJvSVZtdmhKUmNucTDSAXNBVV95cUxNTWJzOE81WlhaSmR6UjNYaWcxRkl0REVmdDZvbHprVk9LaDN5QnN3TkNvVmo0cFF5YXphcGZVZk5IUV9HWGM0M2hTX2ltMUkweXVWR05WOUZ2ZllBN2RPbHh3NUhYcEFyb0lWbXZoSlJjbnEw?oc=5",
+      "s": "한국일보",
+      "d": "2026-08-28T07:40:00+00:00"
+    },
+    {
+      "t": "‘박스권 갇힌 코스피’…거래대금 80조→19조 뚝",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WVlVITE1Hd0tKaEFMbGxTbnFxc2NuSGJZQW5iWWVhQWFhSGpCT3VIWUZTUGJZN3AwS3VmU19yUVJGNGFZc29rNkc0QUNoX0tGcDlkZnhHdE0yZmMtcDVPQ2xieW5CdVU?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-28T07:40:00+00:00"
+    },
     {
       "t": "“호미로 막는다” 연속 금리인상 한은… ‘800조+α’ 슈퍼예산안엔 “엇박자 아냐.”",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43M2Z4UUllVWVVOVdWNlhkYlRBaU9DV0tJVFVqYk9iVDMxMzZGZXIzQmwyWjVVdENLWlQtUmp6b1pYeEk3ZjRfTFhNMEg3dw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SQjg2UTNnM3lxTFgtSnJUeWNJMU9QUGw2SWpGZ2pSUlFJbUlPZkZGQTRrWGxobWExaUs0RWYxVjZfOEc4V2FIeE9jUTl2aVVjRVhvS1RDenZrcVVFTjFGODA0SQ?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-28T07:20:48+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 반도체주 약세에 하락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tMnZoSGUycjNJc0ZkUXlfM2JkbzhTeVdOV1ZkRlpaVWZEZHhFNFlpSi1XVlpwNjliY3IxY3ZDV0VneldyM2YyMnE4UUpUVDRSTUoxSTdCdmJsNlJZUmFCMW1YRWM1TG85bmJvM2x1WmpPUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T07:20:06+00:00"
-    },
-    {
-      "t": "[증시-마감] 삼전닉스에 발목 잡힌 코스피…1.8% 내린 6,700 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11VGtWZFY2bThqQlhfRjJJWFljUnhrLU1SVmJPSHl2MDJFV3R3dW82T09weU90cGtnamY3VWRyc0hHVzRvWlJ3Tmx5eDJuYkk5MFpqczdOVEJtczA2aWFnSHBmdWVSNThSVzhob3dpME8?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T07:20:04+00:00"
     }
   ],
   "asof": {},
