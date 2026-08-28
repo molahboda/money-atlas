@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T18:00:59+00:00",
-  "quotesAt": "2026-08-28T18:00:59+00:00",
-  "newsAt": "2026-08-28T18:00:59+00:00",
+  "fetchedAt": "2026-08-28T18:15:59+00:00",
+  "quotesAt": "2026-08-28T18:15:59+00:00",
+  "newsAt": "2026-08-28T18:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7712.97,
+    "spx": 7712.05,
     "nikkei": 66405.56,
-    "vix": 14.61,
-    "krw": 1379.61,
-    "gold": 4525.3,
-    "wti": 83.51,
+    "vix": 14.5,
+    "krw": 1379.33,
+    "gold": 4513.6,
+    "wti": 83.32,
     "dxy": 99.71
   },
   "daily": {
-    "spx": 0.49,
+    "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.28,
+    "krw": -0.3,
     "dxy": 0.56,
-    "gold": -1.83,
-    "wti": -0.02,
-    "vix": 0.69
+    "gold": -2.08,
+    "wti": -0.25,
+    "vix": -0.07
   },
   "news": [
+    {
+      "t": "트럼프 대통령, ‘미·캐나다 관세 갈등’ 속 온타리오호 개칭",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UTFRzUzZORlgyRFhWTXFTUTBYeHhqRXR3YjZMeTAydnkwT1pUNzVENU9ENVMwaUg1aGY5X2pKcXVabEpIRFFTM2tSb2NtcmJjTzBDZVBBaG1UcTM1aW1xaVl6OEZkeGszbjhJQU5RTERMZ9IBdEFVX3lxTE1jaEw0clpCY1FkQ2dCSVIwZmI5NzBMNlB4aHR4N1ZXSVRfS2FITmI2WTJGdU5vcFJQc1pJVElvc2E1eTBweUFwSWpkT2ZKTmItdUROU04zMXJRQUJmZmtqOEY2TzhsUG1mMy13VGtEZ1JNdHhJ?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-08-28T17:57:20+00:00"
+    },
+    {
+      "t": "[ICYMI] 실책 바로잡은 워시…美 국채시장, 급격한 '베어 플랫'으로 화답",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE90UERfc0lJR1JVb2ExQ1kwaHhhNC0yU2xreTR6THZqdnlxZTJNSHhOOFhsZ2V3QVNwQjJ1WkEzVzVvblNRbHV5UDR4Z0t6dENfNEpYbF9FYmhPQXVySDhhdlF4Yk93MVUzakx2YlZORXphZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T17:30:14+00:00"
+    },
     {
       "t": "유럽증시, 워시 미 연준 의장 잭슨홀 연설 소화하며 상승 마감… 프랑스 증시도 반등",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaEM5WDl4SGdGMjF3ZTQxRDRONVlFNV9yTFNfa1hiREVrTVN1MjRweEZsOUZQZjRtQTF5VnE3aTh2N3MwQVBhT2VXMlk1U0s4UGJmRmNMUjZNYjll?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T16:20:13+00:00"
     },
     {
+      "t": "워시 연준의장 “美, 인플레 우려스럽다”…9월 금리 올릴까",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnYXpZQ1VsbXBzWENoNDJkS1B6LXE4NEM2b0pLZlNzYU5tcV8tbk1jaHJqMGltNkFES1ZUTlFpN0d1clJtOWMwUVhGSlEtZTNVTjMyQk5fa1XSAVRBVV95cUxNTVZ5VzBnTXRLeXAwTlFGMVRmTEJtZXBiWkU1bzh5TmxFcWt6UGpUdmF0bi1oMjlLUzNFTnRNWVQyb0NqNFlUMnFJZm5CaThpYmcyaTg?oc=5",
+      "s": "세계일보",
+      "d": "2026-08-28T16:17:06+00:00"
+    },
+    {
       "t": "美 워시 연준 의장, 물가 상승 \"우려\"...금리 동결 가능성 커져",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RalRfcTFnUWNIUF9yNm9XRHNhcG1ZcWJyaGQ0dVlRVWUxbEdKZU1lNmFnSHh6TThnSTEzUkVadW01c1Ntb2hfM0Q1aTJjdEt5WExEX1g4VTd0UQ?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-28T15:59:27+00:00"
-    },
-    {
-      "t": "워시 연준의장 “美 물가지표 더욱 우려”…추가 긴축 시사",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RUlRtLWNCZ3lxaE12b2FERUFTbUVyckpta1Z1d0d4N3ZXTDdTQXlpZWFjY0pRdzRwbUZSTnZiV0N0Q3puV0x4ckF1bHpUQ2RiZVlfYk0xcjNuaEU?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-28T15:54:00+00:00"
-    },
-    {
-      "t": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZ9IBYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T15:37:27+00:00"
-    },
-    {
-      "t": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\"",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdV9vdVhmWWQ3Q041cGowSm1PbkVaUWVpeUR0N01nNENibWFUMGxmckNsMWtiNkozcDF3OGliTXFzWlEyQ1JfNnpmQkpKS1N5b1UzOHlnVFBMUjBMbmpRVlZVaXZNckM4R0ZZR0t6R1haMGFybHZKUWRWb2lqNXY5T1dwNA?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-28T15:36:00+00:00"
     }
   ],
   "asof": {},
