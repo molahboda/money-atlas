@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T12:00:59+00:00",
-  "quotesAt": "2026-08-28T12:00:59+00:00",
-  "newsAt": "2026-08-28T12:00:59+00:00",
+  "fetchedAt": "2026-08-28T12:15:59+00:00",
+  "quotesAt": "2026-08-28T12:15:59+00:00",
+  "newsAt": "2026-08-28T12:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.48,
-    "krw": 1374.15,
+    "vix": 14.49,
+    "krw": 1373.88,
     "gold": 4647.3,
-    "wti": 83,
-    "dxy": 99.19
+    "wti": 82.91,
+    "dxy": 99.2
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.68,
-    "dxy": 0.03,
+    "krw": -0.69,
+    "dxy": 0.04,
     "gold": 0.82,
-    "wti": -0.63,
-    "vix": -0.21
+    "wti": -0.74,
+    "vix": -0.14
   },
   "news": [
+    {
+      "t": "미 달러화 보합권 횡보…연준 의장 잭슨홀 연설 앞두고 '신중 모드'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqWm5JTXNld29reGt4akRkX3dIRnQ1am94VTNIazFMQjJQQnp1TEVBUFBnSVU1ZmpWck80UktqV2tPai1VN1gzbHRyR2IzTFB4bG1Ma2cyS05oQmFsNXdhUFBra0Y4UzVMZHZHWV9iVUVQUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T11:57:10+00:00"
+    },
     {
       "t": "트럼프, 대서양·태평양도?…관세 충돌에 '지명 도발'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84MXJGZF9pMVZlZkJpQ2tvcVN4ZENxcnZtX2hnSWk0TXItWkZQTlB5U0liX3BkQnB4VEg1NzdpRFg2OGJjYnlQMDlER0RqV0E?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15ZmlkeWZDeWRvMDZ1VHR2aDE1WEFLSVMwRzlVMEFKakQ3NFJMSmJ2ekxHelV0eUNpLVRJemhMVkltRjRIRzZleHVLRVpSaGFteTgwdEVmUGM3UdIBX0FVX3lxTE1NUi1naGU1TlRqalNnQVdfYldfeEw3Nk9oUkpIb2FxdWNGRnJaTkk4OG5WTmN5RTZkaXVDWnJ5WkZaTDVnOUx0aGQ3TG4tM3NJcmNVbjBDTmUtOFdoR3ZN?oc=5",
       "s": "경향신문",
       "d": "2026-08-28T09:54:00+00:00"
-    },
-    {
-      "t": "원달러 환율 1,372원‥작년 7월 이후 13개월 만에 최저치",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdUM5dTRBb01MVHRQSTlSTlV5aVVvalJWN2lDQ3Y1bFc1NFNtbzZOd1VkXzRaN3V4TEk4MzlWN1J4ejg0MHhuRTdLbTJacXhVR3EwRDVabzV6NFN4X2NnR2VaTFdUY0NZT3dZcUtodkRVZ0810gF0QVVfeXFMT0hVc1RqQlo4NHYzZkdVN2NIN1pjRHdCQUZWNGVid1pFMS1CdWJwdVJCenVZWE5PVmh3RTNCLXdMa1JYQUlaOWxJSkNid0sxNkNKeHhJdVR3S2JQTUxESGowSUFXWldXS0h5OVFpdnZhSnZQMGQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-28T09:41:50+00:00"
     }
   ],
   "asof": {},
