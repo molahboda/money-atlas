@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T16:45:59+00:00",
-  "quotesAt": "2026-08-28T16:45:59+00:00",
-  "newsAt": "2026-08-28T16:45:59+00:00",
+  "fetchedAt": "2026-08-28T17:01:00+00:00",
+  "quotesAt": "2026-08-28T17:01:00+00:00",
+  "newsAt": "2026-08-28T17:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7721,
+    "spx": 7707.08,
     "nikkei": 66405.56,
-    "vix": 14.74,
-    "krw": 1379.91,
-    "gold": 4527.1,
-    "wti": 83.24,
+    "vix": 14.56,
+    "krw": 1379.82,
+    "gold": 4531.7,
+    "wti": 83.52,
     "dxy": 99.66
   },
   "daily": {
-    "spx": 0.59,
+    "spx": 0.41,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.26,
-    "dxy": 0.5,
-    "gold": -1.79,
-    "wti": -0.35,
-    "vix": 1.59
+    "krw": -0.27,
+    "dxy": 0.51,
+    "gold": -1.69,
+    "wti": -0.01,
+    "vix": 0.34
   },
   "news": [
+    {
+      "t": "'매파 워시'에 美 선물시장 9월 '금리 인상' 베팅 40%대로 '쑥'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZXZqc3lvMDZCVFYwUlkzOGxGRVFFWU84TWFDYVVBemlEYjZFc09QU1o5bWlXMFpxWUFyZ2N0OXRBYk5NNFhkTkE5OGxveGJJS090TDlTZC1SVVBXd1NhYk1waklLRjRxNzJjMmpEYU0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T16:50:47+00:00"
+    },
+    {
+      "t": "'첫 잭슨홀' 美연준 의장 \"물가 우려\"…추가긴축 시사(상보) - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xT0dKb2x1SmRJNzZPQ1ViekloTGFrM1NqVzNQOFhBekhxZTR0eG1Hd0ZLVUVTOVhFZXR2a2ZuZGFheWs3bGNKOHN6bGtlX3hlWm92ZFhOWXhPQWd2S3p2QTEyVHR0eWE20gFuQVVfeXFMTi1qNGpRNlB3NjFiV29KdnowVVBoOXFUOGg3Z0xBOTdVQkxpazhNLU8tNlZLOUFGY2xmYlZrOVlRY29Yai1wWHN6Ynh1TlByUnJGM3JxV3d6NlBFcVNpUFNWWGE0YUQ0S0FpQVB2Nmc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-28T16:20:13+00:00"
+    },
     {
       "t": "케빈 워시 “높은 물가 우려…금융여건 긴축적이지 않다”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56YWJHVXpIdDl1MHhkQ2ZpNzdjTnVFR2JYaGRrSjVIdjBzMW1rWTQ4MkpLSDExZlI3V2wwRVZ3NVVyZFpRaGs4YlNPTDJBMW1yYmFvaF93?oc=5",
@@ -68,21 +80,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "美연준 의장 \"물가 우려\"에 시장 요동…9월 금리인상 확률 35%→55% - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcUJyd1JqNGxpUXJCaXc1QjRhYVA3S1JMLWR2c1d5THhIeXJnY2lOUzdmd2w4TmJaVkRaWGx5VW90ZWdBNXlTS0IxUmsyUENodV81N0FwTE9PRnNYR2tyb2lEYTNlQjZo0gFuQVVfeXFMT2hWWGhUTEhSY2VCZVdUdnl2dnlHVGxSTnBJOVAzZTI0V20xQ00ybnpqNjVscmJUT1pDbS1WTUZ2N2xCRW5wdHNDbl94TV9PajFMZWp0UjRpWFBOUENmMkJpZWo2czFjS0xFcUx6Tmc?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVlhoVExIUmNlQmVXVHZ5dnZ5R1RsUk5wSTlQM2UyNFdtMUNNMm56ajY1bHJiVE9aQ20tVk1GdjdsQkVucHRzQ25feE1fT2oxTGVqdFI0aVhQTlBDZjJCaWVqNnMxY0tMRXFMek5n0gFuQVVfeXFMT2hWWGhUTEhSY2VCZVdUdnl2dnlHVGxSTnBJOVAzZTI0V20xQ00ybnpqNjVscmJUT1pDbS1WTUZ2N2xCRW5wdHNDbl94TV9PajFMZWp0UjRpWFBOUENmMkJpZWo2czFjS0xFcUx6Tmc?oc=5",
       "s": "머니투데이",
       "d": "2026-08-28T15:26:26+00:00"
-    },
-    {
-      "t": "뉴욕증시 혼조 출발… 워시 연준 의장 잭슨홀 발언 주시 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2pfV3pEVGlGUXd0NmJKbDdLZ2FvdFdqUXF1cjBWZXdmNnNLeDRzcE1FdFp1TEZhWnNIemNxWGVOanZxeGtjT2hLVV9UTzdEY214dG5KWllDcjJIQVhrMVdyNHlPUWR3TE9WZTRfa3VOQUgxcTBFUFZoVV9UOVQ2aUthWllGS0toT3fSAZ4BQVVfeXFMTm9VeXl4cXJuWm41NG9iS1FNcmJhR0pKTlZIcGd1WFNSbnd3VldqQmpWOVE1UXItX1g1Q1I1QjRmUkNodHpZQTBYeXZPQ2x6WGdQcFQ1djF1cjRmelMyd1pWOXFxamVaZkxvRElhdm1xN0ItUjNnSUpteU9aV3FMcTItY2Y0SXdUMzFnWk9ZUWNOWG5uRHZIZkNIZ1h0SlE?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-28T15:16:00+00:00"
-    },
-    {
-      "t": "워시 연준의장 \"美 인플레 우려스러워…물가안정 우리 임무\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFaTVfV05YZXhRcWRNSXlhaW1VdFB2ZEZ3TW5wWlRuaFF3Vk95N1Z6V1h1dmhTTUlNeXEzM0cxdnZ5Z3I0WEtzYzAwRzZ4MW5WdF9YdUgyU1ZpbENwdEJpY9IBeEFVX3lxTE9hNTZuWndHVUJlV3E5YmlRblN5NEtHenBJSG1zbjNYdGpwNUFDR1d1WWo1Y3YtRnA1TXhHbjFxeDdMbm9UbGlLT1VBbTlIZ1kwTVB0TlVpZFY3MVBLZVNBRGxDQWxTRXNXaFMzLTJoYUNTWDNLR0NnVw?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-28T15:07:05+00:00"
     }
   ],
   "asof": {},
