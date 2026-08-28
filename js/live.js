@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T20:15:59+00:00",
-  "quotesAt": "2026-08-28T20:15:59+00:00",
-  "newsAt": "2026-08-28T20:15:59+00:00",
+  "fetchedAt": "2026-08-28T20:30:59+00:00",
+  "quotesAt": "2026-08-28T20:30:59+00:00",
+  "newsAt": "2026-08-28T20:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
     "nikkei": 66405.56,
-    "vix": 14.37,
-    "krw": 1378.49,
-    "gold": 4510.8,
-    "wti": 83.41,
-    "dxy": 99.66
+    "vix": 14.43,
+    "krw": 1378.22,
+    "gold": 4504.7,
+    "wti": 83.44,
+    "dxy": 99.68
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.36,
-    "dxy": 0.51,
-    "gold": -2.15,
-    "wti": -0.14,
-    "vix": -0.96
+    "krw": -0.38,
+    "dxy": 0.52,
+    "gold": -2.28,
+    "wti": -0.11,
+    "vix": -0.55
   },
   "news": [
+    {
+      "t": "뉴욕증시, 워시 잭슨홀 연설 매파 해석에 하락…나스닥 0.52%↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95RlhwSXlNSVJuNHNrV0MyV05HcE5GblV4T0R4eGFBRXdtVGtYTUlGNG9ZSE9EbHJ3cWt5WUR0dVZUaVFpM0ZMUXU1Um8ySUNaYnUzTURBbFR5WVA3?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-28T20:14:00+00:00"
+    },
+    {
+      "t": "[뉴욕채권] 2년물 급락 속 베어 플랫…'결자해지' 워시에 9월 인상 우세",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FT0Y3Mi1walY3Qy00WW13bEc2VVdBb2VnU0pyQmNpdnR6WXFJNXZ1SVZWV2hBRkdUNFBUdkxFMllxODYwZ1FidFZOSHF3Y2RjMDBmMVZEU0JsT2piMUFva2RUSVJBRnpUeV9nbFlxVnR1dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T20:09:14+00:00"
+    },
     {
       "t": "JP모건 전략가 \"AI 생산성 붐이 채권 금리 상승 이끌어\"",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12X2ZsTU9HcEthb3AyX0NUYXl1VnVjSjVwVWFBdWtuZmpfOU5PbTVweUt1N1FUcDVGUGpueHQ5bXVGT2sySDR6dHJSZWxDZE1vU3JwWWpHcXkxZEFPdVh4TUV6QV8tLUtibkRteHdKenphczBTUTY4?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QS1MbkJrR3JCcGxWaFBKWWVudDdzZ2dsVzVIZG9ZejkxeERERDBaMDA5X3lzTmR5VWpsQVpTTmN6VlBxUk8zUkFiU1hPWWJjVUxMd1RPV250dw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-28T18:37:13+00:00"
-    },
-    {
-      "t": "베센트 美 재무장관 “엔화 시장 혼란, 미국 금리 상승 위험 키워”｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTEdDQ1VHSjFsTlc4WFdCX1NMTWl6WUxMZktObmhyZW9NakhHVlgtLXZYN2xyT3RBMllWWHBLOXAwdkpPQVhVNDBKaWVSTjB3aXhhSmRsbnBxZ1k?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-28T18:35:55+00:00"
-    },
-    {
-      "t": "트럼프 대통령, ‘미·캐나다 관세 갈등’ 속 온타리오호 개칭",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UTFRzUzZORlgyRFhWTXFTUTBYeHhqRXR3YjZMeTAydnkwT1pUNzVENU9ENVMwaUg1aGY5X2pKcXVabEpIRFFTM2tSb2NtcmJjTzBDZVBBaG1UcTM1aW1xaVl6OEZkeGszbjhJQU5RTERMZ9IBdEFVX3lxTE1jaEw0clpCY1FkQ2dCSVIwZmI5NzBMNlB4aHR4N1ZXSVRfS2FITmI2WTJGdU5vcFJQc1pJVElvc2E1eTBweUFwSWpkT2ZKTmItdUROU04zMXJRQUJmZmtqOEY2TzhsUG1mMy13VGtEZ1JNdHhJ?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-08-28T17:57:20+00:00"
     }
   ],
   "asof": {},
