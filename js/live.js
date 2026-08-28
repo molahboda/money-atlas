@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T03:30:59+00:00",
-  "quotesAt": "2026-08-28T03:30:59+00:00",
-  "newsAt": "2026-08-28T03:30:59+00:00",
+  "fetchedAt": "2026-08-28T03:45:59+00:00",
+  "quotesAt": "2026-08-28T03:45:59+00:00",
+  "newsAt": "2026-08-28T03:45:59+00:00",
   "quotes": {
-    "kospi": 6841.5,
+    "kospi": 6839.54,
     "spx": 7730.99,
-    "nikkei": 66682.88,
+    "nikkei": 66810.97,
     "vix": 14.51,
-    "krw": 1376.86,
-    "gold": 4639.1,
-    "wti": 83.2,
+    "krw": 1376.53,
+    "gold": 4635.8,
+    "wti": 83.17,
     "dxy": 99.15
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.49,
-    "nikkei": 0.83,
-    "krw": -0.48,
+    "kospi": 0.46,
+    "nikkei": 1.03,
+    "krw": -0.5,
     "dxy": -0.02,
-    "gold": 0.89,
-    "wti": 1.18,
+    "gold": 0.82,
+    "wti": 1.14,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcFdpTWhibEFsNVFSeGlPVmp6Y3I5RXZjYmhzRE45cldyZjJ5c2o0S1BPbEFLVUdtbzBQS0FfVWtDeGlZVXNOWGY5eE9WM2V3NGRRN0N6d3ZXLUFFVDNXXzZFNDdNYVRsd2NaQ2Rua1pIQkRzaEFOMtIBeEFVX3lxTE9ua3RMaWZtVjFDLXFoTWJEWXZEQ0UtZHVtSmYwellpQ0xnZWVUVm02VDdiU0ZfTDhRV1RsbDFQb1NjUjBjc0E0eXpURjJOcUFIakF1T01wUVRkRFl2UmU2WjVyYUt2bWlMdUM2ZHhGVTQ2Nk1kaXQ4Vg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-28T03:20:58+00:00"
+    },
     {
       "t": "아시아 증시 혼조, 워시 연설 앞두고 코스피지수 하락",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HazNYTE0tMVdJZ2U1a25vX1h3RFhuN0F6ZVdIbi1vcDlycXJRU0FHRjZzSlRKSF9vVmhqTVpVZlJkTTNCUGJlSXZqVXdKbk9Gd1lsZllRYmNmWFpCSkJvckVreU11UllYdXpTZ1VsNUg?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-28T03:20:00+00:00"
+    },
+    {
+      "t": "금리 인상에‥'코로나 피해' 소상공인 채무조정",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1RC1VZl9rRFAyZTdlTUQ0eU4yM2VYR1pCTEt2cHZnNTFJS2xpNWdxREFoYW5nUk5XRFBBZjVFSjU3SFRjNkRiSmlwQi1CS0FKbkZWdkxSUHFMZWlFX3NKRmlZejYzVHVHOXNqb2dwOU5jZUVTd082X9IBeEFVX3lxTE5GUjN1aDZfaWprSVJvZXpva3pxR2FLVlVCSVNIVU1aSlpKTjRqVjZDSV94X1NkVUdFQmNWSkI1Y1RBU3ZOeGFja2Jmc1FoU1pZMzJFQU1lYm9RZWhUMTl6dzVmaVgzeEE4LTVaSC0zWG01elB3V1F5Wg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-28T03:17:07+00:00"
     },
     {
       "t": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%?",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YnlHckJYVVczM2xiT29uMnM1RkY1UVo5ZWRmWFBsWmdzSXNXcUlyWk5IMlJBV1JjeVI5QV9acEpQbGU5aXhuMThaZk1BcWs?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T02:43:19+00:00"
-    },
-    {
-      "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMlpkT196Qk5tSjcyYWdFeEtKM3ZKYVREdkxSVEFQUmJfeTdFUTVJN3h6RERsbTR5b0tpdHp1b21fazNER0VzeUJ2Z3JZaU8yemtwVVU4OTh5S0x4TXVhNGVLS1ZSOGFRU2FmdWJXak3SAXRBVV95cUxOVVM1YlhNT2VHT1pHS3BjTjlHeXU1WHUyMHRzU053UGF6WXByVENwcXVPN0FpSktPeml5SVdBaGRVeGJtVjFTS0kyQjNXaWxXUnZXMW9EeFlFdm5JdjRIV2htUmJBUHRLQlJadDNVcGdQSUtIaw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T02:40:03+00:00"
-    },
-    {
-      "t": "국힘 “한은 물가와 씨름하는데, 정부는 흥청망청 쓸 궁리만”",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UYTVuVUl6SE82Z3F2SzU5RlY3LW5XemUzNWg3dHlyNHB1bGNlWkZhblg4VkZWMl9VUGFzZXVORUo3MUVNWmhjYi1Obm1yVmxzYlJvUVlVZjJuWmtCTmNIOS12WE5HRzFyQnpCOTVLSF9MbEVBQzVN0gFmQVVfeXFMUGpOQnFMTWtLY19IZ2htR3hibi03VmZjRFpLYUt4UHhaWVczdkVLX3J2YWI1aFVYeVVvemU1ekdjVVhoWEZubjV4T0VUbXJDZDFVQkY5R0J1N2pmYnJkVmc1ZmlmYWZn?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-28T02:40:00+00:00"
     }
   ],
   "asof": {},
