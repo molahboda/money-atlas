@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T05:30:59+00:00",
-  "quotesAt": "2026-08-28T05:30:59+00:00",
-  "newsAt": "2026-08-28T05:30:59+00:00",
+  "fetchedAt": "2026-08-28T05:45:59+00:00",
+  "quotesAt": "2026-08-28T05:45:59+00:00",
+  "newsAt": "2026-08-28T05:45:59+00:00",
   "quotes": {
-    "kospi": 6801.66,
+    "kospi": 6815.41,
     "spx": 7730.99,
-    "nikkei": 66494.18,
+    "nikkei": 66456.44,
     "vix": 14.51,
-    "krw": 1375.98,
-    "gold": 4633.1,
-    "wti": 83.25,
+    "krw": 1375.45,
+    "gold": 4630.9,
+    "wti": 83.04,
     "dxy": 99.19
   },
   "daily": {
     "spx": 0.7,
-    "kospi": -0.1,
-    "nikkei": 0.55,
-    "krw": -0.54,
+    "kospi": 0.11,
+    "nikkei": 0.49,
+    "krw": -0.58,
     "dxy": 0.03,
-    "gold": 0.51,
-    "wti": -0.34,
+    "gold": 0.46,
+    "wti": -0.59,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "[도쿄환시] 달러-엔, 워시 발언 앞둔 관망세 속 소폭 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sUEd6czlzc1lZQjktWHRESXNwSXlwdnBCLTNBUUQ5TFpoOGFzaWJvVklCXzlJOG1rNmJlU2dGNTQ3TEtKc2dfcjlQb2s1ajdSZ2lOODZZUXU4VkVzLXhINGp6ZVhsVnluOXdEM1JUUWdZdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T05:29:54+00:00"
+    },
+    {
+      "t": "[이슈체크] ‘기준금리 3% 시대’ 열렸다…주담대 금리 '8% 시대' 오나? 영끌·빚투 ‘곡소리’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xb0pqMERNR1RIRkNqLWw2ODBoaUdDeVk3emJGVEVTQzJyZlNFUnA1T0x2VXQ1WW9VNGpRQ0RYVW9TQUgtcW5QYWg3bElpQWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T05:22:00+00:00"
+    },
     {
       "t": "워시 ‘금리 인상’ 신호탄 쏠까…잭슨홀 연설 임박, 관전 포인트는 [이슈+]",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qdDRvcUpJM1pfX2I3bGFCeC1PalgxZWdneGxvUGFzRGY0V0ZfYnZhUkMxQmVpbmU5ekdnUmFoRElSekRMenpRUDlvV0xRR0w1RFd5UWtjX2hSN0JpdHZmdlVFZw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KMjJNUlg0N2tiM0d6ZGZudmh1SlBjWjJDU25IanluY1V2NmVhcW5MU2FJdjhBWGxqelZQeGY0bl96blRqVlVBTnFEbTV2Tko4UnYtOFFYc3dsQWZFTzQ5Zjl1ZllmZVFCb1RkTFhodkg?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-28T04:39:00+00:00"
-    },
-    {
-      "t": "‘반도체 쌈짓돈’으로 자영업 6조 ‘채무조정’",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yUjVpMlZxa0VNMEFwS29qSXVBb1RiT1JjZVVYTHVCcnlONWlISzAxcEJIdHlOYUsxd2VLdkdTMkx5bmhCVHcwekl5Q3VOWUdo?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-28T04:30:32+00:00"
-    },
-    {
-      "t": "충남에 들어선 인도계 첫 외투기업···공주서 반도체 소재 생산 돌입",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZZkozM3FIQkdWZWk3cmFFb2JIbFNhb1pZMS1DZGtRRGloa0ZobGJUdVRwQ1dsbXNkOFVXMGlKUzYtcDVIakkzX0szalBvckxFS0FtUXFwSFk5Zw?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-28T04:30:00+00:00"
     }
   ],
   "asof": {},
