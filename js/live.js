@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T13:30:59+00:00",
-  "quotesAt": "2026-08-28T13:30:59+00:00",
-  "newsAt": "2026-08-28T13:30:59+00:00",
+  "fetchedAt": "2026-08-28T13:45:59+00:00",
+  "quotesAt": "2026-08-28T13:45:59+00:00",
+  "newsAt": "2026-08-28T13:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7739.15,
+    "spx": 7741.87,
     "nikkei": 66405.56,
-    "vix": 14.47,
-    "krw": 1374.51,
-    "gold": 4650.3,
+    "vix": 14.46,
+    "krw": 1374.46,
+    "gold": 4657.5,
     "wti": 82.58,
-    "dxy": 99.2
+    "dxy": 99.22
   },
   "daily": {
-    "spx": 0.83,
+    "spx": 0.86,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.65,
-    "dxy": 0.04,
-    "gold": 0.88,
+    "dxy": 0.06,
+    "gold": 1.04,
     "wti": -1.14,
-    "vix": -0.28
+    "vix": -0.34
   },
   "news": [
+    {
+      "t": "미 국채 약세…연준 의장 잭슨홀 연설 앞두고 경계",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OaV9lOEtkTGpMQXpfenVYTzhMSXdFTnJHMWl0YzBKRWRETlF6cHFXMFpKOGt1X1hTQlhLMnJjSWVYYmlCOVA0eUNBZlVfZDZtVmFSSVdZMnpOR2ZSRHdSQk1mM2Y5NUdrbndnc1I2UjE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T13:38:14+00:00"
+    },
+    {
+      "t": "올해 충남 수출 130% 급증…반도체가 견인",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FWUlQSVdVMGtaNk8zM0VVWnlJWVQzeG1VeWo2MHVhdmpJelJnVE93bVRLQy1yV1BaMGpfc1R1Um5TX0NYQWZnOUNwcmI1aVk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T13:15:09+00:00"
+    },
     {
       "t": "‘2026 차세대 반도체 패키징 산업전(ASPS)’ 개막…28일까지 수원컨벤션센터에서",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1cjlGQVNHZnd2UlZwM0tBLXluWWl4M3ZXNkNpTXFpTG1VZ01saS1ieEYxQUZucjlEQlp6b3Y3TXozQUMyOEttRk9ZNF9oajBZaHE4UGo4OUYtUEhuc21sQg?oc=5",
@@ -55,22 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T11:57:10+00:00"
     },
     {
-      "t": "“월급쟁이가 그저 봉이지”…대출금리, 기업은 내리고 가계는 올랐다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vaW5IakFZWEZ4RzRLbFZXOGZVY1BzMG5vQV9XOXVHd0xZTk91NmZSTGRBNWZIVVRVdGtoQTRIeTNKU0Y0NTRWOWZLWjNQUQ?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-28T10:45:34+00:00"
-    },
-    {
       "t": "연준의 금리 인상을 촉발할 수 있는 요인은?",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwV0JWTUFYbnZBLXNMMzBKaV9UNmpnSktkNnBEOVA5ZG5wcTZyeDFuNmdGdjhLQ0pJTXhBTUc1RlRWaktnNXVWdWVkc2tJTS1KLTRTWkxLNUlOTVhsekxMUUVZdExjeHFCNFE?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-28T10:30:00+00:00"
-    },
-    {
-      "t": "인플레 위험 경고한 美연준 위원들… 금리 인상 vs 동결 엇갈려",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OWS0tLVp1YjN2QkppaFlNRGozQjlRV0hoUDlZa09LZjJ3VEVxYURiSkxybWFKLTVMcC1oV0tpMXhpQmVfRWEwdnZ3NlNLMW1IRFE?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-28T10:28:22+00:00"
     },
     {
       "t": "니덤, 최신 트래커에서 성숙 노드 반도체 강세 확인",
