@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T04:45:59+00:00",
-  "quotesAt": "2026-08-28T04:45:59+00:00",
-  "newsAt": "2026-08-28T04:45:59+00:00",
+  "fetchedAt": "2026-08-28T05:00:59+00:00",
+  "quotesAt": "2026-08-28T05:00:59+00:00",
+  "newsAt": "2026-08-28T05:00:59+00:00",
   "quotes": {
-    "kospi": 6837.07,
+    "kospi": 6824.1,
     "spx": 7730.99,
-    "nikkei": 66603,
+    "nikkei": 66571.1,
     "vix": 14.51,
-    "krw": 1377.04,
-    "gold": 4633.3,
-    "wti": 83.19,
+    "krw": 1376.59,
+    "gold": 4634,
+    "wti": 83.24,
     "dxy": 99.18
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.42,
-    "nikkei": 0.71,
-    "krw": -0.47,
+    "kospi": 0.23,
+    "nikkei": 0.66,
+    "krw": -0.5,
     "dxy": 0.02,
-    "gold": 0.51,
-    "wti": -0.41,
+    "gold": 0.53,
+    "wti": -0.35,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "금리 오르면 은행주도 오른다?…시장금리·연체율에 달라진 셈법",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE91SFE4N0M3cm1WZi1WNG1maWdDWlQ2dXJpa3pBZ3hSZ00zVHNMQWQtcmJON19iTEc5UTNhSTdnMVpuZW03ZkZIUFBwTDhaUkc1STZfdHRFQlJCUXVfUWxEOGpaamYxbFc5NDJfWkZENG1oZw?oc=5",
+      "s": "인베스트조선",
+      "d": "2026-08-28T04:55:00+00:00"
+    },
     {
       "t": "코스피, 美 관세 노이즈에 1%대 하락…6800선 사수 '안간힘'",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkVBRlpoTTY1VjVDX2RZaUlVUWczTHl0NTJaRGpWX3A4X1RSdVBUdno4R0g5LU1DdDY0TDM4RE9vTTBJdVFzTjJfc2t5MzFrc0wtaENfRDlCMnZMWUJqb0JYOVdYWnpEQk9VbFphQW1uSmM3eGRGcEl5RDJrSFVremxudWZ0c09K?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-28T04:40:45+00:00"
+    },
+    {
+      "t": "[특파원] 히미노 일본은행 부총재 “물가 상방 위험 어느 때보다 경계”…9월 금리 인상 가능성 주목 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KMjJNUlg0N2tiM0d6ZGZudmh1SlBjWjJDU25IanluY1V2NmVhcW5MU2FJdjhBWGxqelZQeGY0bl96blRqVlVBTnFEbTV2Tko4UnYtOFFYc3dsQWZFTzQ5Zjl1ZllmZVFCb1RkTFhodkg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T04:39:00+00:00"
     },
     {
       "t": "[서중해의 경제망원경] (67) 금리는 낮아지고, 자본 수익률은 높았다",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dEIyZms1U3l4bFp5UElOejJ1REpxR3Y0MlFyRkw3ODJxTjAwWUprRDc3eC1XOTZublZEMGZ4U0ZsTml5Tld4TFNYMm9jeUNGemZXd1lZR1pFQdIBX0FVX3lxTE4yNlBOSVFmM2ZSdENNM29PTjVNazZWdVc2anNYVkhBQl9lcFJndHJMQ1FEc0l2ZEN2QkRnb0o0UDdydlY4VDBQdmNCNHJTQ1RfR1NQcmJ0cGtoNzNjeE5v?oc=5",
       "s": "경향신문",
       "d": "2026-08-28T03:37:00+00:00"
-    },
-    {
-      "t": "아시아 증시 혼조, 워시 연설 앞두고 코스피지수 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HazNYTE0tMVdJZ2U1a25vX1h3RFhuN0F6ZVdIbi1vcDlycXJRU0FHRjZzSlRKSF9vVmhqTVpVZlJkTTNCUGJlSXZqVXdKbk9Gd1lsZllRYmNmWFpCSkJvckVreU11UllYdXpTZ1VsNUg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T03:20:00+00:00"
-    },
-    {
-      "t": "금리 인상에‥'코로나 피해' 소상공인 채무조정",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1RC1VZl9rRFAyZTdlTUQ0eU4yM2VYR1pCTEt2cHZnNTFJS2xpNWdxREFoYW5nUk5XRFBBZjVFSjU3SFRjNkRiSmlwQi1CS0FKbkZWdkxSUHFMZWlFX3NKRmlZejYzVHVHOXNqb2dwOU5jZUVTd082X9IBeEFVX3lxTE5GUjN1aDZfaWprSVJvZXpva3pxR2FLVlVCSVNIVU1aSlpKTjRqVjZDSV94X1NkVUdFQmNWSkI1Y1RBU3ZOeGFja2Jmc1FoU1pZMzJFQU1lYm9RZWhUMTl6dzVmaVgzeEE4LTVaSC0zWG01elB3V1F5Wg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-28T03:17:07+00:00"
     }
   ],
   "asof": {},
