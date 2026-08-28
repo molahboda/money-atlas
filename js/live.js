@@ -1,32 +1,38 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T14:45:59+00:00",
-  "quotesAt": "2026-08-28T14:45:59+00:00",
-  "newsAt": "2026-08-28T14:45:59+00:00",
+  "fetchedAt": "2026-08-28T15:00:59+00:00",
+  "quotesAt": "2026-08-28T15:00:59+00:00",
+  "newsAt": "2026-08-28T15:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7750.75,
+    "spx": 7770.4,
     "nikkei": 66405.56,
-    "vix": 14.29,
-    "krw": 1377.88,
-    "gold": 4626,
-    "wti": 82.91,
-    "dxy": 99.47
+    "vix": 14.22,
+    "krw": 1377.2,
+    "gold": 4604.9,
+    "wti": 83.01,
+    "dxy": 99.5
   },
   "daily": {
-    "spx": 0.98,
+    "spx": 1.23,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.41,
-    "dxy": 0.32,
-    "gold": 0.35,
-    "wti": -0.74,
-    "vix": -1.52
+    "krw": -0.45,
+    "dxy": 0.34,
+    "gold": -0.1,
+    "wti": -0.62,
+    "vix": -2
   },
   "news": [
     {
+      "t": "워시 연준 의장, 미국 높은 물가상승률에 \"우려스러워\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uRFBPR0wzM0FHUDFxWWxNUEYxdnF2VkNZMUM4Ny15RnBCUzliUGJnY1hGUXBpTTZNdFR2ejRXVXNRSGdaaFBCZURWMjVoVkE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T14:42:00+00:00"
+    },
+    {
       "t": "[속보]美 연준 의장 잭슨홀미팅 기조연설…\"물가 상승률 우려\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85bXJzLVd2bVhGOFVLU3hNUWw4ak1zX2tUc29ZSUMyNUgtbGdyU1NhM29vdV8yZG5ZYUJHal9uOXN2Z1JfQTdSNVpuUUF2Y3RuSTBjNy1FMG5oRmdUWllsVzFicktMaFc5Vi1yR014azFMQlI1WnfSAXtBVV95cUxQRk9PaHd2X256NjZpdVR4eWdRZGZxanZPUWZWN21LSVg2NHJjT3VzcWtpd292UGJfNHJ2R1JvUUZUTGRGV0hHOTNHOXdaNS02TGpsMUFSMWZJQ2MxWU9ZZ25teUt0ZW9SWlJ1bnRqdmxKOUJ2WmJxbGxmemM?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53c3dwYkFhSU92X2kxakJsb0lPcVhSdUY5eWEwdWF2eE9pNVBoWWxIanF2Z0huYzFlN2V1UmJRdVRJeklCQVVocFhYaEFfaVNqNk9GOGJtbzcxc0loTG43Uk1ZVWMyX1ZT0gFuQVVfeXFMTmlHd2RZUXB3Y2NfUzI0TnplaHVCOFlock0ycGhnVnRtSDY5OEJPdXlERGN4UFhTWDZYWmRmQ3p5djhQLVRYNmFBcHBTMjZWaEU2eFUtR05oSFlTUXhremtEZjJiRXlBNk1EN0dQZXc?oc=5",
       "s": "머니투데이",
       "d": "2026-08-28T14:35:35+00:00"
     },
@@ -49,16 +55,22 @@ window.LIVE_DATA = {
       "d": "2026-08-28T14:29:00+00:00"
     },
     {
-      "t": "워시 연준 의장, 美 높은 물가상승률에 \"우려스럽다\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQWpGdXNlOEN2VE04M1lUVXk2YUxlZGx0blBUd29DV05tNkF5T3NhbFpqQUFCTk1GWEw4Wk8yMmZ3aDFJOEFMWFJkSUJScWNQOWJhQW55dFBFRU3SAWBBVV95cUxONUhrTFg5NXVuQ1c1blVaSW51OUhJY3NXZ1FQNVZOcWEtaUlwajdYZ0dSZFZWQlNoTy1oeF9mVy04LS1OLS1FMVlfZnRmbTExaTE3NVN6VDNqRUo3YVdrdGI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T14:19:42+00:00"
+      "t": "\"Fed의 수단은 단기금리\"…'7가지 원칙' 내세운 워시 의장 [잭슨홀]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS3Z4NU15TlMyamdhVEFqT2VyT3kwVmVCeFJ6TXNWZWI1bUphR0lBMXZEOHNlYVQyaFdSbTN4R1RTUE5xTHM2ak5rWFh4cTRJZ20zcm1COEZiQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T14:28:12+00:00"
     },
     {
       "t": "[속보] 워시 연준의장, 美물가상승률에 “우려스럽다”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTdQNFo3UDF4b0J1R1NJQW1kOThLc1pQMWNMR0U1Z2hqTmhkNkxEYzVoenNtVjRSUDNsOTgtSDJISWViaE8yTm9DUExWUnM4N01kZ2Nn?oc=5",
       "s": "중앙일보",
       "d": "2026-08-28T14:12:13+00:00"
+    },
+    {
+      "t": "[속보] 워시 연준의장 “美 물가상승률 우려스럽다”",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxaUlsNUNib1dZNmp6dW41QTRRcU85UGVsekFzWC13bU1IVFNRWjJKTWhBMnZLMm1ZblVydXozSWxvb1pfTy1ET1U2MTRUZXVrSkFxR3M0OUdUUXY2VGpqMmVn?oc=5",
+      "s": "미주중앙일보",
+      "d": "2026-08-28T14:12:00+00:00"
     },
     {
       "t": "[속보] 워시 연준의장 \"현 금융여건, 긴축적이라 보기 어려워\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83NnBJMXBvR2JYWUxRWm5venNBVFIwQkpLM2dYMTc3cUUzdkkyNzNHWnp1ZWVSSklGdHJySERPVWVxR29lU2xiTE9NNDRxMGVBNkR5eWllQWlIYmtsWXlsd25JVHNLVTBtMkEzRVBtMEw?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-28T13:57:12+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 잭슨홀 기조연설 시작",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WHdxX0FiWXpGTklHTzJJdFVvci1xSkFoTTBNWVduVFROa1VSSXlBR1pPeE8yQXY2RncxYkdlbkpadHBDYm5EVTJ6eGthR3VJNWdLXzhhRWxady1XdkJjOEUyc0Z4OUNtaHc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T13:52:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 잭슨홀 대기하며 혼조 출발",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ka29Sd3B5VHBJMlUxVGxITXl3dTBLdkdFRWVxSWV2V2doOVNhcGMxdkllMXA3SFlFZi1uY3ZDcXkzeDRnM2lRQ1paSXNWMW5rLVJ2LXMzQWM2UkhqdG9ueUNfUEphX2VWb3pON202Um8?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T13:42:08+00:00"
     }
   ],
   "asof": {},
