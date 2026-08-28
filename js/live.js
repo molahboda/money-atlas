@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T03:00:59+00:00",
-  "quotesAt": "2026-08-28T03:00:59+00:00",
-  "newsAt": "2026-08-28T03:00:59+00:00",
+  "fetchedAt": "2026-08-28T03:15:59+00:00",
+  "quotesAt": "2026-08-28T03:15:59+00:00",
+  "newsAt": "2026-08-28T03:15:59+00:00",
   "quotes": {
-    "kospi": 6839.47,
+    "kospi": 6833.81,
     "spx": 7730.99,
     "nikkei": 66682.88,
     "vix": 14.51,
-    "krw": 1377.78,
-    "gold": 4637.4,
-    "wti": 83.42,
-    "dxy": 99.15
+    "krw": 1376.94,
+    "gold": 4640.1,
+    "wti": 83.08,
+    "dxy": 99.14
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.46,
+    "kospi": 0.38,
     "nikkei": 0.83,
-    "krw": -0.41,
-    "dxy": -0.02,
-    "gold": 0.85,
-    "wti": 1.45,
+    "krw": -0.47,
+    "dxy": -0.03,
+    "gold": 0.91,
+    "wti": 1.03,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%?",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GS2VaNEhZcmpodW95eDFONFR4ZlZhSTZSR2xpcldodHNVazRZOGhFTzFXaFBCMW0yVS1aYkUxcllsVlhqQXVKLWt3ZlY0VzR4a1ZZSGNPOWNoTnFtWEluWGZEbHZCQVhWQ3BoM2VzRGYxbXhL?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-28T03:13:58+00:00"
+    },
+    {
+      "t": "7월 말 외화예금 1,283.4억 달러…환율 하락에 달러 예금↑",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZnExakZMRGhwSlNSZFNjc3dLT09nS3ZHMmFTQnpYb2Y0clZpVWxVSkt0bE1mQnh1R3h2dFM0aHhfYUJQY1pUeUV5QTVjbHowd3ZjY05RZFBncUk?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T03:01:00+00:00"
+    },
     {
       "t": "美, ‘반도체 들어가는 완제품’ 관세 확대 검토",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02a2c3UDl1MnpraFZkWmhiQ2pNU1RwYWlIQk5jeVNidXZiVGpvUDQyMEFnYmJIUG8xU2xBSHZyYkptS2duc0wzMzliVjhFOHRX?oc=5",
       "s": "문화일보",
       "d": "2026-08-28T02:56:05+00:00"
+    },
+    {
+      "t": "‘반도체 쌈짓돈’으로 자영업 6조 ‘빚 탕감’",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yUjVpMlZxa0VNMEFwS29qSXVBb1RiT1JjZVVYTHVCcnlONWlISzAxcEJIdHlOYUsxd2VLdkdTMkx5bmhCVHcwekl5Q3VOWUdo?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-28T02:56:03+00:00"
     },
     {
       "t": "Fed 인사들 “금리 인상” 베선트 “바이백 확대”… 미국도 엇박자",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T02:38:55+00:00"
     },
     {
-      "t": "美 PCE 3.7%의 경고…‘워시의 입’에 증시 운명 달렸다",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aSW1hQ1dhWk9ITGdZaUFXM0ZMV1lFLWxRNUJ5ZGw1bDJlSDNMS1c1Q3MzRFM3UkhVWlJLX2ZjM1FZTldoV1U3RHlMV19EWXJ3RHZpVzQzYmJKOTVmVG1INE1pVkRjbkp6VGRib0UwRQ?oc=5",
-      "s": "조세일보",
-      "d": "2026-08-28T02:35:24+00:00"
-    },
-    {
       "t": "한화·산업은행, 500억원 규모 상생펀드로 협력사 금리지원 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVlXWUVsZlQ3cjJXVUNkQTlsWGVxek9fbGtRcTN5M0c0U2locE82RjBrV2daRUhoOFZaZGVtbW9fV1lPcjFUX21mLXZzYU11bFhjRGpoam5CWFAzcDJVcGpUWEhRWWNVeHRhaGIzMFZydXpNZ0xYTm9VbkVGOVNBeNIBlAFBVV95cUxNMUszTzlZaUI2U0V2enBrblFEUDZOc3dMVXNDdm9SRlYzZWZoeU95SVljUnV2QmQ1ZklZbDZXZFkzZ0ZUYjd5dlpXT0hra3RrWGJtMUtWakV6UnFGMlRUc0IwNHBYS2x0aEMwVmU4R2xFRTVZemtEQnhwazNGX2hqNDF0ZktzY2I1Nm9sVF9oQk5qRG0x?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-28T02:35:00+00:00"
-    },
-    {
-      "t": "베선트 국채 개입 속 워시 잭슨홀 데뷔…'재무부·연준' 경계 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMUlOUm5wUzdmejluUTZnMTctTTJoWHlVdmp0NU9WT2hrVndiSDFFdEpPUF90aUwyNFRta2RjMF84UGlfLVF2QXFjRmRvNWtRRXRnb0dlWkJBQjh0?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-28T02:32:00+00:00"
-    },
-    {
-      "t": "코리아넷뉴스 - 한은, 기준금리 3%로 인상···두 달 연속 인상",
-      "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSVBXdGx4c3d2aFY0SHI0N0xQaFVwMlp6Qmxhb2d3Vl9Za0t6Z2lPS0RpTEVoWGJ1TmNhdjFTX3JqZG91Q3VQUmtLZ2FjQ0QzaE5vYjhkTXZnU210VGVTSy1LOTctZi0xTkUzaExNbWlrTjh4TzM3V2RTS1h5LUNXRENpLWY4VldnTi1CYmEyUXhOaF9qM1V6Y1ByY0ZzbTJ1aGl1aGFHbXRpNHc5SWJUSWt2c1V6eW4yVzBWV1VOZ0lZbFNlN2FoZ2FqR3JQY2ltaFRVOS01TjhNUFBHcEhZSWUxUHg4N05XenZydXNOV3cxMFJzRFE?oc=5",
-      "s": "문화체육관광부 한국문화원",
-      "d": "2026-08-28T02:31:16+00:00"
     }
   ],
   "asof": {},
