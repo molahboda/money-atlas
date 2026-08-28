@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T00:00:59+00:00",
-  "quotesAt": "2026-08-28T00:00:59+00:00",
-  "newsAt": "2026-08-28T00:00:59+00:00",
+  "fetchedAt": "2026-08-28T00:15:59+00:00",
+  "quotesAt": "2026-08-28T00:15:59+00:00",
+  "newsAt": "2026-08-28T00:15:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
-    "nikkei": 66131.98,
+    "nikkei": 66012.2,
     "vix": 14.51,
-    "krw": 1380.48,
-    "gold": 4648.9,
-    "wti": 83.52,
+    "krw": 1379.48,
+    "gold": 4650.8,
+    "wti": 83.45,
     "dxy": 99.11
   },
   "daily": {
     "spx": 0.7,
     "kospi": 1.53,
-    "nikkei": -0.2,
-    "krw": -0.22,
-    "dxy": -0.07,
-    "gold": 1.1,
-    "wti": 1.57,
+    "nikkei": -0.18,
+    "krw": -0.29,
+    "dxy": -0.06,
+    "gold": 1.14,
+    "wti": 1.48,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "코스피, 美 기술주 훈풍에도 6800선 약세…삼전·하이닉스 하락",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eGV3cnlrMXkza3VjYzhZYlY3dzJ1bXRtWW9yQ2gwc2lsVFRva3oxN21qYzVLRzN6OWJXM0pFbl9EUzlnTVhHeWt1YUFETkx3UlBnU2tHQmFiZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T00:11:17+00:00"
+    },
+    {
+      "t": "반도체·AI 키울 ’물기술’…글로벌 협력 시동",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CSHJhTmtZeTliYXlNeWs0aWpCeDJMWTlKcVZHcFJGRDg1NVhNWFJYY0VBem5FcVduYWZrSDVxLWpUa0R5YzJjc1ZZLV9oR3pNUENwUUJBUTd6TFlnaV9CdVp1RVI4Z0U?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-28T00:08:00+00:00"
+    },
+    {
+      "t": "국채선물 하락 출발…美금리 연동·국발계 소화",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qaXdoeThNUmowQ0JrM0N3M3FoM20zalpSWURmc2kxYWNLQVZZU2hDSW0xRDFSSlk0cHNvMG9iUDZvTDhVdGU2ZnQ4UmcyS0V1TkZpaDBlRW5wUDRwQmZqSk9zZWxGZlFqa2RhRDNmVVlxUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T00:07:29+00:00"
+    },
+    {
+      "t": "코스피, 0.95% 하락 출발…코스닥 0.29%↓",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LT2JwaFNyNWtoSm5RckdsMU5sN0wtUmdhLXgtd3JUdE9ZNVVfQlItc3V0RkN2R2VJMmhBck52X3BfQ2N1b1Z4OF9vdGtzbUJUdGNMOWQ4NUwyenNpVkRDNWRjVmhjZDg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-28T00:05:00+00:00"
+    },
+    {
+      "t": "두 번 오른 기준금리…보험주엔 호재일까",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zdWp4YkRyeHU4bk05ZTQ5TGI5Y1RHQmZMaE10Y19HdEd2UmVmR29CaVRFUkFtdG90cWJmTTRZYjc4QzRLRFFJUF85SHV2T28?oc=5",
+      "s": "톱데일리",
+      "d": "2026-08-28T00:00:00+00:00"
+    },
+    {
+      "t": "[표] LME 비철금속 및 환율 동향(8월 27일)",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyejV6bVBQU1NCUFF6Z3Frc1lFZEVncFlHSjRKSG1Qbm9ac3ZKWUZiR2hFWWx3NGU4Yjd0dW5lamNaYUlSSWRtVFNJWERPdkpVS1BGQTUtOXRVQnJCaTg2ZmFlNnZpZlNmdXc?oc=5",
+      "s": "철강금속신문",
+      "d": "2026-08-27T23:59:07+00:00"
+    },
     {
       "t": "[AI MY 증시전망] 엔비디아發 훈풍에 코스피 7000선 재도전",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkTFVtRThOY0tkdmNyWVQ3Ujg4czlRUi1GOEp6Y1dNR3pkSVE1SUZiM0NfbnFNbjFsSFkzcTZPSXRzejZwd2NyR0hsX2lrVl9KYVlwX091eTFEaERj?oc=5",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T23:53:33+00:00"
     },
     {
-      "t": "넘치는 달러·부족한 원화…외화자금시장이 10월 금리 동결 지지할까",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYa0NJRVBUaVZaN2dpYnhKV2tWTng4TFNvd3FzblFoMjJqWXZZRFJzVFVnRHJlcy1KNWtQb2FEUXAzaFVjdm1rWG1lYVFZMURWNl8zaVBGb2ZtY2o2V2M0ZVlGem1LOXRtV1lhbkR1eThDZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T23:44:50+00:00"
-    },
-    {
-      "t": "'中 반도체 자립의 역설'…효율 낮아 삼성 메모리 더 찾는다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZHB1TzdTSV90aHBDRHpPZ0s5TkdmQkNlY3Rva3I0R2FaZ0ZydEMzYTRHbHExVXo3N05tTHNhMTBjMWtVbGhCTWRldnBzWTJkeWhyNUVEWmNpMWhBZkdNQ3BOUmIwdGoxRTlVdVBuMnM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T23:42:59+00:00"
-    },
-    {
-      "t": "\"코스피, 반도체 주주환원·FOMC 동결 전망에 7천선 회복\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95bkdiWkY5ZUhVQndxT0Jock1fYUtkbzlCbnA5OWpiaXB2cTYtTmNaV3ZXeXdiZXFMMEQ2Y1RjSHlVVDBPZGg5amhsOWZiTmxDS1AyUGJYRW5JRDhVYUZDa0Q0NFlyZndrZ0k4OGdNWE0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-27T23:41:53+00:00"
-    },
-    {
-      "t": "\"7월 FOMC 혼선 재탕 안 돼\"…월가는 워시 잭슨홀 데뷔에 뭘 바라나",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2TkJxcld2Ujg1cnZBa0hJQ002cFl0WEVrM21zYUJTU0xESHhaOUlkdXJOWkZuREZEUENPNGlHX3g1YkNzZ0VnNUpzdEl5RWdBLTFTOGp2NFJDU0ZCOTFRWUJRZ21qVmQ2Nk01Njg5WGJkdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T23:40:01+00:00"
-    },
-    {
-      "t": "UBS \"채권시장, 세 가지 구조적 요인 리프라이싱\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vZW11ck1VeU9OeG84OGk5cGJwcG8zby1JenpBdjVLTmgxZVNpU19zdHFSNnl3TjVTcnFQRl9ocFBicU9zbnhzUzdHdUhCckU1MkFTRnM3clFNQ1l3ZFk4MWtOM2F1T0x6M0NwTUR1SnBGdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-27T23:37:46+00:00"
-    },
-    {
-      "t": "KB證“中 반도체 국산화, 삼성전자엔 오히려 호재” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnIxY1RFNmJvbl82Wk1GRk1vYW9SeG10UG5ZLW5jWjJBeUJxMjRNMExSRUJkaDUxSU1XWk1wRHAta2FxWDN1ZWphNUJMZkI5dmJLMzQ5SWpuUkpjLUYzaHM3SkE4UUFlV3NNZC1iNGdPdE95aXRVN1dyT3VhTUVPOTJ2VkpFRVBj0gGcAUFVX3lxTE8zdURIdDBaRWQ4NXk1Y2t2YjlqbGNNV3lCVktWaGRXWU0wUC1Vb1BzT2h0YVdMTXBsN19QOGpnRXAxYlkxWUJERm5yZ0F0bFI4V3dTVnNLVHhJV1VzaVYwbU9waTU3eW9IMnQtTzhmVUx2ZHloT255eTV4ZW5YTHkzQWRCQXhyUHdZNEx4STRvTFpDUUY4VnU1cHFrcw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T23:36:00+00:00"
-    },
-    {
-      "t": "[해외시황] 뉴욕증시, 엔비디아 호실적·AI 낙관론에 '상승'…나스닥 1.57%↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lS3FRclJWWmY3UmFDWHlJRkdreXhid3ZnSks2Wm5fS2RoazBnTEF2RmpreDRQRVVpTy1FTDlDbS13ZGxGVG1TZkhPdjZqME5mb0dweW1oRmJyOUowZngwNw?oc=5",
-      "s": "프라임경제",
-      "d": "2026-08-27T23:33:28+00:00"
+      "t": "반도체 실적·주주환원에 힘 받는 코스피…\"다음주 7000선 안착\"[애널리스트의 시각]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fdWhzdlVHLTBZV29uVXVTc1NsYUpDUUhQVzZ6VjhfTDJnRnNVMTlhal9MMmdUdDdsR2RPWjVpTzBWWDktS2I3OHk3OHRwUDg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-27T23:51:05+00:00"
     }
   ],
   "asof": {},
