@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T02:45:59+00:00",
-  "quotesAt": "2026-08-28T02:45:59+00:00",
-  "newsAt": "2026-08-28T02:45:59+00:00",
+  "fetchedAt": "2026-08-28T03:00:59+00:00",
+  "quotesAt": "2026-08-28T03:00:59+00:00",
+  "newsAt": "2026-08-28T03:00:59+00:00",
   "quotes": {
-    "kospi": 6847.76,
+    "kospi": 6839.47,
     "spx": 7730.99,
     "nikkei": 66682.88,
     "vix": 14.51,
-    "krw": 1379.59,
-    "gold": 4639.3,
-    "wti": 83.39,
+    "krw": 1377.78,
+    "gold": 4637.4,
+    "wti": 83.42,
     "dxy": 99.15
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.58,
+    "kospi": 0.46,
     "nikkei": 0.83,
-    "krw": -0.28,
+    "krw": -0.41,
     "dxy": -0.02,
-    "gold": 0.89,
-    "wti": 1.41,
+    "gold": 0.85,
+    "wti": 1.45,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "美, ‘반도체 들어가는 완제품’ 관세 확대 검토",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02a2c3UDl1MnpraFZkWmhiQ2pNU1RwYWlIQk5jeVNidXZiVGpvUDQyMEFnYmJIUG8xU2xBSHZyYkptS2duc0wzMzliVjhFOHRX?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-28T02:56:05+00:00"
+    },
+    {
+      "t": "Fed 인사들 “금리 인상” 베선트 “바이백 확대”… 미국도 엇박자",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTHFRMVJ3MDRPRTBrVi1meHctNjNYbTFGcm1IYVBjSV8wekt1cnFOU2lXRi1ycXNDX3duQVRWQUhKekVCV1dvcXZVc3ZEUEdw?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-28T02:55:25+00:00"
+    },
+    {
+      "t": "엔비디아 급등에도 코스피 뒷걸음…반도체 약세에 6800선 밀려",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YnlHckJYVVczM2xiT29uMnM1RkY1UVo5ZWRmWFBsWmdzSXNXcUlyWk5IMlJBV1JjeVI5QV9acEpQbGU5aXhuMThaZk1BcWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T02:43:19+00:00"
+    },
     {
       "t": "국힘 “정부 확장재정, 금리인상과 엇박자… 서민 잡는 청개구리 재정”",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UYTVuVUl6SE82Z3F2SzU5RlY3LW5XemUzNWg3dHlyNHB1bGNlWkZhblg4VkZWMl9VUGFzZXVORUo3MUVNWmhjYi1Obm1yVmxzYlJvUVlVZjJuWmtCTmNIOS12WE5HRzFyQnpCOTVLSF9MbEVBQzVN0gFmQVVfeXFMUGpOQnFMTWtLY19IZ2htR3hibi03VmZjRFpLYUt4UHhaWVczdkVLX3J2YWI1aFVYeVVvemU1ekdjVVhoWEZubjV4T0VUbXJDZDFVQkY5R0J1N2pmYnJkVmc1ZmlmYWZn?oc=5",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T02:35:00+00:00"
     },
     {
+      "t": "베선트 국채 개입 속 워시 잭슨홀 데뷔…'재무부·연준' 경계 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMUlOUm5wUzdmejluUTZnMTctTTJoWHlVdmp0NU9WT2hrVndiSDFFdEpPUF90aUwyNFRta2RjMF84UGlfLVF2QXFjRmRvNWtRRXRnb0dlWkJBQjh0?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-28T02:32:00+00:00"
+    },
+    {
       "t": "코리아넷뉴스 - 한은, 기준금리 3%로 인상···두 달 연속 인상",
       "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSVBXdGx4c3d2aFY0SHI0N0xQaFVwMlp6Qmxhb2d3Vl9Za0t6Z2lPS0RpTEVoWGJ1TmNhdjFTX3JqZG91Q3VQUmtLZ2FjQ0QzaE5vYjhkTXZnU210VGVTSy1LOTctZi0xTkUzaExNbWlrTjh4TzM3V2RTS1h5LUNXRENpLWY4VldnTi1CYmEyUXhOaF9qM1V6Y1ByY0ZzbTJ1aGl1aGFHbXRpNHc5SWJUSWt2c1V6eW4yVzBWV1VOZ0lZbFNlN2FoZ2FqR3JQY2ltaFRVOS01TjhNUFBHcEhZSWUxUHg4N05XenZydXNOV3cxMFJzRFE?oc=5",
       "s": "문화체육관광부 한국문화원",
       "d": "2026-08-28T02:31:16+00:00"
-    },
-    {
-      "t": "[금리 3% 후폭풍]③대출 문 넓어지고 금리 오르고…은행권 이자이익 더 불어날듯",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Q05XRzNpYUFoVEdzV1pGREd4Z0F6WE9DdFVqUG9YT1hzYzlwQ0ZGY25QeDJOS3dpN01YSEFUYnE4V0dQZWo4elJ3WHk0Qmc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T02:30:00+00:00"
-    },
-    {
-      "t": "[한창헌의 단상] '호미'로 잡는 통화정책의 타이밍",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ySWQtUXRwVm1rS054N3hlMU8wQkhlakRxRVYwbUkwazltNmJTMnRFRGg3TzNFZGlKc1RwSVUtYWhMRjBwWnRlZHBBRGdXWkliZ0gwdTNwZ0xxcEJwODNpU3dKN2tQNEZEN1JPNEZiMWcyZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T02:23:50+00:00"
-    },
-    {
-      "t": "日 증시, 잭슨홀 관망세 속 강세 개장",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jZlMxT2ZST0RYOGJOb0lHRklMWk1mWS1POER3SkE3OEFkUnRqQjlQR0NDclk2VWRPMnNOUWF0UkFpUmFKMFY1WnI5OG9YU281R0o0bm9fSHd2dVkzcXZQU0pqYzlKVnJBeU5lbjZRYi0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T02:19:31+00:00"
-    },
-    {
-      "t": "[오늘의 삼전닉스] '2차 반도체 관세' 검토에 화들짝, 트럼프를 어찌할꼬",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ycWtDQTk3LXl2TS1RdTZ5ZGJtNkttTmdXMjlqczBZZnp5ZC1EUzlYYkV1amVtckJDRmlPbkF2VWtiNEd2NUQ1b0JyenpUT1FoS3NLbFpIZXJhcnRtX0FtcnhB?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-08-28T02:17:00+00:00"
     }
   ],
   "asof": {},
