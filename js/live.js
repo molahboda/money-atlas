@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T22:00:59+00:00",
-  "quotesAt": "2026-08-28T22:00:59+00:00",
-  "newsAt": "2026-08-28T22:00:59+00:00",
+  "fetchedAt": "2026-08-28T22:15:59+00:00",
+  "quotesAt": "2026-08-28T22:15:59+00:00",
+  "newsAt": "2026-08-28T22:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,40 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "오픈AI는 ‘자체 칩’ 삼성은 ‘연산 메모리’…AI반도체 병목 푼다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xOFlydG5na2VUZEl6b1ltUXYwRjZBTGw1c3NHTWtFV1Q4TUZMU1JsaDBJb2UyWVhudzY5a01LN3NvSGV4ODk2QjdWY1JmeW12ZmcyNFl3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-28T22:01:00+00:00"
+    },
+    {
+      "t": "워시 “美 물가 우려”… 매파적 발언에 9월 인상 확률 상승",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Bd0FpNjNrX0FvNW8wLURuOFJ6MlRsS05vdXJ4M2RsbVJjZ19IelhfYzJsN3dSX0F5ZVpEMjN6TEVlQlFlY2ZPYkR5UHJwMzFjRGRncEVLdmdENll5UjZMb2U4eTJoM1N3cHc?oc=5",
+      "s": "천지일보",
+      "d": "2026-08-28T22:00:00+00:00"
+    },
+    {
+      "t": "CET1비율 ‘톱’ KB금융 13.74%…4대 금융, 환율 안정에 하반기도 상승 기대",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bWRRQmtLTjRwdFotTUlSNzlZQVc3VTdUc2RjSy0td013dUY3c00xbWp4dzY2UGZranhiWHJWWG1XYjBFOFFIV2JBNUlNOHo1SFBhQkZQbWI1aXlqdXhtVjk0WWhsdTBf?oc=5",
+      "s": "CEO스코어데일리",
+      "d": "2026-08-28T22:00:00+00:00"
+    },
+    {
+      "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxLUI4dzk3S0lhdjBUVjNuT3dqNjFMeWpxeVVSS1lacGJGZVVmQ0lvT3dRUldUbm03TWtxUHBjcHVlN1YzekFZLXU5RVl3MS1JcUtxcGZMQ2lxQk0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T21:52:00+00:00"
+    },
+    {
       "t": "워시 “해야 할일 있다” 발언에…9월 금리인상 확률 57%로 껑충",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40U20xVWNFVmdVQ1hsQlQ1OG1zOElmSTQ2Y2dha1NiSUtYT0hTOUZJd2Y4QW5jeWVvUC0xS0dkR1VGX0l4OFkyRS1QMXpKbWM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T21:34:00+00:00"
+    },
+    {
+      "t": "돌아온 반도체 투심, 해외종목·채권으로 변동성 보완···8월 상장 ETF 보니",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bdlk2QnBfTFNIYzVjNDdFMi1ZZEg2eTlsZkQzSmFGRzNKblpnWVBtdktQV1E4UHV6V2pZSEc4SF9SbVpfY09ObXoySUx1b1BiOFdPSVNxRlkzVlN4LWNWSlpTTjJYQU9tb1JmZjc4d3hJN0tzLVHSAXZBVV95cUxOQXZZNkJwX0xTSGM1YzQ3RTItWWRINnk5bGZEM0phRkczSm5aZ1lQbXZLUFdROFB1eldqWUhHOEhfUm1aX2NPTm16MklMdW9QYjhXT0lTcUZZM1ZTeC1jVkpaU04yWEFPbW9SZmY3OHd4STdLcy1R?oc=5",
+      "s": "시사저널e",
+      "d": "2026-08-28T21:30:38+00:00"
     },
     {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
@@ -43,12 +73,6 @@ window.LIVE_DATA = {
       "d": "2026-08-28T21:22:16+00:00"
     },
     {
-      "t": "한달동안 상위종목에도 없었는데…한주만에 ‘매수 1위’ 찍은 이 녀석",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZTTU2ZU1mV01WWEJncVYxdmM0X0pUU1BWc2hPYlpRM1ppMlQ3eHYzRXVoeWppZjdqS2tFU09YamMyUW0zT1FZYVF0OU90TDRGOWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-28T21:21:18+00:00"
-    },
-    {
       "t": "트럼프 금리 인하 요구에도 워시 또 '긴축 카드' 경고…\"정책 소신 밝혀\"",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mOE5vcDgwWW16WGdiWF9ERXlkM0EwbDdZNy00a2V5X3k0R0VuN1lKSkVtQ2lHYW5yQUJHZmVla0ZzVEJNVXVtLU1lSjI2OEFPbVZnR2lMLVDSAV5BVV95cUxQakZhWXlpSlhWVGNiTkNpaDBEdVdYX1BDWHZiZENvZXNjNE0zeEFpQUtLNWlRNkY3bDhxWHNxbXhuNXpMOTJ5LWFONTlfQ0pFd0FvUkJPU25BcFl2ZXhB?oc=5",
       "s": "뉴스1",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZm9qTVQzRDl5RXNsRlU1Nm83T0kyUThvd2stbUIyUUFKeFd5b29DaXNyVFJXLW5pNVNLbF9SU0otRW9BbFE2WmxGTkhHaVJMRnlMNHBjX2RGUQ?oc=5",
       "s": "경북매일",
       "d": "2026-08-28T21:16:00+00:00"
-    },
-    {
-      "t": "SK hynix, 인디애나주에 AI 반도체 생산기지",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2S3NCSFUyQ2FUSHVRM3pKdjJRaGV2a1NUa25BM3dTUW03ZWY5dFBidGdPTzFtM0ltQ0haek1KMG5FMUZnZFlfUVhzS1ZXeXhoX2h5WTBDMGRrdmR3MzBXSy1B?oc=5",
-      "s": "미주중앙일보",
-      "d": "2026-08-28T21:15:00+00:00"
-    },
-    {
-      "t": "[월가 레이더] 美 뉴욕증시, 워시 매파 연설에 9월 인상론 급부상…주간은 3주만 반등",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GcTJ3UEFFOUIwOGxUTDY4ck9hSVh1MjZRWlFIVWpLYV9tb0txS2EtcDVxcHQyaW1ZMGY4UU5naktJMTl4UFN6bTU0d0E5UmtwcUxtRE9lQkp5eEswd0E?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-28T21:14:25+00:00"
-    },
-    {
-      "t": "국채선물, 매파로 돌아간 워시에 하락…10년물 28틱↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE11R1NTeEt6eHRPbGxGeUtjT0hGa2lNaUtFREd2YXlXYXgydFNVM3JMMjZBWE11cUhscThGMGRKOFFsbUJsc19ja1pSQ0N2Ym9jbWlyb1Z1MWpLYmdXREp3Zm5lcU9xNDZGTG1Cd1V0eXlyUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T21:09:32+00:00"
-    },
-    {
-      "t": "뉴욕증시, 케빈 워시 매파 발언에 하락…나스닥 0.52%↓[뉴욕마감]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44dUdZbm9reXBfVmR0MzV6aHA0cGN2TlQyYmtuS2pZU3hiRGR3dFFfVlNMclZEMTVMRm16QTlBLWxBNUlvVWxTMmlxenFPYlk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T21:06:00+00:00"
     }
   ],
   "asof": {},
