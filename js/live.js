@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T18:15:59+00:00",
-  "quotesAt": "2026-08-28T18:15:59+00:00",
-  "newsAt": "2026-08-28T18:15:59+00:00",
+  "fetchedAt": "2026-08-28T18:30:59+00:00",
+  "quotesAt": "2026-08-28T18:30:59+00:00",
+  "newsAt": "2026-08-28T18:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7712.05,
+    "spx": 7708.28,
     "nikkei": 66405.56,
-    "vix": 14.5,
-    "krw": 1379.33,
-    "gold": 4513.6,
-    "wti": 83.32,
+    "vix": 14.54,
+    "krw": 1379.34,
+    "gold": 4512.4,
+    "wti": 83.42,
     "dxy": 99.71
   },
   "daily": {
-    "spx": 0.47,
+    "spx": 0.42,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.3,
-    "dxy": 0.56,
-    "gold": -2.08,
-    "wti": -0.25,
-    "vix": -0.07
+    "dxy": 0.55,
+    "gold": -2.11,
+    "wti": -0.13,
+    "vix": 0.21
   },
   "news": [
     {
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T16:20:13+00:00"
     },
     {
-      "t": "워시 연준의장 “美, 인플레 우려스럽다”…9월 금리 올릴까",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnYXpZQ1VsbXBzWENoNDJkS1B6LXE4NEM2b0pLZlNzYU5tcV8tbk1jaHJqMGltNkFES1ZUTlFpN0d1clJtOWMwUVhGSlEtZTNVTjMyQk5fa1XSAVRBVV95cUxNTVZ5VzBnTXRLeXAwTlFGMVRmTEJtZXBiWkU1bzh5TmxFcWt6UGpUdmF0bi1oMjlLUzNFTnRNWVQyb0NqNFlUMnFJZm5CaThpYmcyaTg?oc=5",
-      "s": "세계일보",
-      "d": "2026-08-28T16:17:06+00:00"
-    },
-    {
       "t": "美 워시 연준 의장, 물가 상승 \"우려\"...금리 동결 가능성 커져",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RalRfcTFnUWNIUF9yNm9XRHNhcG1ZcWJyaGQ0dVlRVWUxbEdKZU1lNmFnSHh6TThnSTEzUkVadW01c1Ntb2hfM0Q1aTJjdEt5WExEX1g4VTd0UQ?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-28T15:59:27+00:00"
+    },
+    {
+      "t": "워시 연준의장 “美 물가지표 더욱 우려”…추가 긴축 시사",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RUlRtLWNCZ3lxaE12b2FERUFTbUVyckpta1Z1d0d4N3ZXTDdTQXlpZWFjY0pRdzRwbUZSTnZiV0N0Q3puV0x4ckF1bHpUQ2RiZVlfYk0xcjNuaEU?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T15:54:00+00:00"
     }
   ],
   "asof": {},
