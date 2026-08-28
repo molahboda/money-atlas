@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T02:00:59+00:00",
-  "quotesAt": "2026-08-28T02:00:59+00:00",
-  "newsAt": "2026-08-28T02:00:59+00:00",
+  "fetchedAt": "2026-08-28T02:15:59+00:00",
+  "quotesAt": "2026-08-28T02:15:59+00:00",
+  "newsAt": "2026-08-28T02:15:59+00:00",
   "quotes": {
-    "kospi": 6826.19,
+    "kospi": 6837.5,
     "spx": 7730.99,
-    "nikkei": 66627.71,
+    "nikkei": 66665.84,
     "vix": 14.51,
-    "krw": 1377.07,
-    "gold": 4635.8,
-    "wti": 83.04,
-    "dxy": 99.13
+    "krw": 1377.68,
+    "gold": 4631.1,
+    "wti": 83.22,
+    "dxy": 99.15
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.26,
-    "nikkei": 0.75,
-    "krw": -0.46,
-    "dxy": -0.04,
-    "gold": 0.82,
-    "wti": 0.99,
+    "kospi": 0.43,
+    "nikkei": 0.81,
+    "krw": -0.42,
+    "dxy": -0.02,
+    "gold": 0.72,
+    "wti": 1.2,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "삼전닉스, ‘트럼프 관세’에 美 공장 속도 낸다",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95ZFFxZVEzV1YyaDlvT3dkVVBlelBnYXdLdk1wdkd0RFozeXJZQlJzRWdOU1ZveU1zNU1NX1J3bmZKZUFjS0R6UFNuWjlfejlocmJBTExGNTJ3SWcxdG9Ram1yYw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-28T02:06:28+00:00"
+    },
+    {
+      "t": "잭슨홀 개막과 동시에 연준 인사들 \"인플레 여전히 위험\"…추가 금리인상 경고",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tR3M4azZISkxaOWlnMkxfdVU0aTVoNEt3djJaYVJ3bzQ0cHdSWDRiMlNYbjZldzdQcENkeGszYW9UMG5DTS1vRy1fYWFZSC1HNnAwWjRsOEUyT0lwUFpRS2tsVQ?oc=5",
+      "s": "더구루",
+      "d": "2026-08-28T02:00:17+00:00"
+    },
     {
       "t": "'하루 만에 15bp 껑충'…백투백 인상에 CD금리 괴리 일부 해소",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bjRRTjhqcFdJUnktb2p3cC1pNGVEbUlXbnRCZGZIbUZKdkt4T1BEenFERDc3bXVoX2owLWNyM3BVN2t4VmlfTlZwNldwWUxIX18wRUp0emUzR2N2YVlQNklZdTRhZXRoMDRUSkt0Y08?oc=5",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHNFUE5TeDgxOFBzclJkdV9ubjk3Z1pUTEdFRGZpTTVXRVgwQlhCYVF3TmgzU1plNkVfSFhUR1NtXzNIQm40Q0d5SXMxZTA4UXZqMFc4NkFMeExHb3RCb3FWajFid2hKWlU2ZHdJa0h6eWM2ZHFONGh4Yko1VnFITklB0gGWAUFVX3lxTE9WYWF3R0h1aE94ZjhJblYyQnVraC1RaWNrQkFfejlpa2xQQTRDdHVoX29xcG9LV1lucWpTeU1kcDg3ejBUT3RGNzcxNC1HaDZJSGNacGZOeVdieHRVV2ZnYU1sSTdfbEN4VGNQQ09ieS1oNUt4TzBRN2NCZHlmM21QY2NwYUFwdFd4SDF2Y2VvUng5Tzg1UQ?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-28T01:50:00+00:00"
+    },
+    {
+      "t": "“美 트럼프 행정부, 반도체 관세 확대 검토”",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OUk1KVWRnUG9DcmVZR0F0MzZucnVhY2NDLTZSQjhXWTcyQ0R6eEtLVDVFVU9waEI1di14b0tfTExNaXdER2NLWTBOOWJpMEhIdF9YMjdxcnNMNGd2ckVQNFUzaTI0Rml0cURONlJCNGTSAXRBVV95cUxQbFplWkdnVDlFQURrckktc0FnOTlhU3ZkbUdVYnMyQlFCNF9CejhnbnRxSFJ2ZG1US1JtZUlzSzI3V1N3bW9hZW9zdndHTXV6Z190dnZNeG5jWlkzLV91WnpzbWdiODNEUlhBcEhTVUFkYm1ZaQ?oc=5",
+      "s": "IT조선",
+      "d": "2026-08-28T01:49:33+00:00"
     },
     {
       "t": "자영업, 코로나19 장기연체 채무 감면…3% 금리에 “빚 부담 던다”",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzUjNhZUdEUS1CR1VDVUduUld0THpkT2N5bWlvMzhQWGQ0SUV1X0VCRzdfaGxoYkRybU5ZSmVpZm5fRGxoUjN4WlpJZU9FTDA?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T01:28:29+00:00"
-    },
-    {
-      "t": "미 트럼프 정부, 또 반도체 관세 카드 만지작... \"단기적 자승자박, 장기적 위협\"",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVM4Um5jVDJkYllSeFVvYXdTajRQT1Q0VFNNU3NocFJOazRsSFZha1hNNmw4SHFDVjRkSms1TzFld3J3aE9WZkVzcHZoeDY5bTNZWEdhZllTejJiSV95VUU1eU1pRGJUTUdXRUxOQmgtUmhiTzVra28wWHJuWTNNT0RsYw?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-28T01:27:00+00:00"
-    },
-    {
-      "t": "[AI MY 뉴스] 28일 중국증시 'AI·반도체 추가 상승 시험대, 4000선 회복 여부 주시'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JZDJjOTViZnBBV1JCVU81NW5ReWdvZGFydjNwcmJvc1hvS2tnY0RFYllTMkoyWEt5R2xfR0E3SnJDTFIwVVRYWWZGNTBYbVJVSVdtWWdCSHIwekt6?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-28T01:24:00+00:00"
-    },
-    {
-      "t": "엔비디아 급등에도 코스피 약세…반도체 관세 부담",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTmtzQmtQbkZ1NkhwTXhMR3VUaVc5RE5oVE8xYjd1N0RkdXRVNWRuaXVGb09yOUZ1YWpCMzE3Q3R6eERHcktKU1BPSFpROHEzc0FVbkN1V0tsSzlwUUZ3YldoSUQ5Nmc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-28T01:23:00+00:00"
     }
   ],
   "asof": {},
