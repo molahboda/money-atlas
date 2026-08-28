@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T06:30:59+00:00",
-  "quotesAt": "2026-08-28T06:30:59+00:00",
-  "newsAt": "2026-08-28T06:30:59+00:00",
+  "fetchedAt": "2026-08-28T06:45:59+00:00",
+  "quotesAt": "2026-08-28T06:45:59+00:00",
+  "newsAt": "2026-08-28T06:45:59+00:00",
   "quotes": {
-    "kospi": 6795.79,
+    "kospi": 6807.9,
     "spx": 7730.99,
-    "nikkei": 66436.81,
+    "nikkei": 66405.56,
     "vix": 14.51,
-    "krw": 1372.28,
-    "gold": 4635.9,
-    "wti": 82.9,
-    "dxy": 99.19
+    "krw": 1373.28,
+    "gold": 4638.8,
+    "wti": 82.89,
+    "dxy": 99.16
   },
   "daily": {
     "spx": 0.7,
-    "kospi": -0.18,
-    "nikkei": 0.46,
-    "krw": -0.81,
-    "dxy": 0.03,
-    "gold": 0.57,
-    "wti": -0.75,
+    "kospi": 0,
+    "nikkei": 0.41,
+    "krw": -0.74,
+    "dxy": 0,
+    "gold": 0.63,
+    "wti": -0.77,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "코스피, 1.79% 하락 마감…코스닥, 0.09%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUTY5M1N6TURueGpHcUY5Z3ZoTFV2RVR6cDRrOXhwUzVjaWJTU0FoazhQRzFpRmJKSEg1WjlQWEQ0U3F0aGs4c1JuVUZ4V2VPTVZEWEVabWhBa3E1akFNQU9ybGpNY1U?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-28T06:39:00+00:00"
+    },
+    {
+      "t": "\"한은, 근원물가 관성 고려해 선제 인상…최종금리 3.25% 확률 60%\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fNUFwU1U2cGtqSFlVNDVBS0sxcnpIdmRzeFd6TDhxbW5FVjRPa1l3T19VY3dqVTdMZHRtM3FoOUxuMDZGaHR2TUxTZ1BjMWRQMWJ2b0d1dGdzWl9yUW9VMG1YUnFkczl5V3REUEJGOEo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T06:18:22+00:00"
+    },
     {
       "t": "금리 3% 시대 열린 증시…'코스닥 성장주' 다시 시험대",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtby1OYnJwalg1RWcyWW9fWlJ0QTlQUTVUMnh4SDBxbUFDbGVSQlI1LWp0dGFxMWNEM3VFOGF0RjBnRDJDUHFZcjZVNXd2ZG0zZlNXb18xSHpUa1dM?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0QXBzNmlXTzFscDFTZnBlM18zelRrZElDX09XNGZsem96MGpoYlJ2ZVFwM1M5eDJsYWQxVjJRRTFNbTFRV2IyWkdfUzYwZmh4dzhiR0xIRE1vX0E2STRHdlV2aGV3RG9aRG9oQmlyNFJWQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T05:48:07+00:00"
-    },
-    {
-      "t": "“트럼프, 반도체 탑재 IT 제품까지 관세 검토”…韓 경제 또 흔드나",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WX3ZWdVpCOUc3aF9UYVpCZzhxaUtURk5neXRFOUg4ZHl4bXZaQWpzRnE3VFRMTE14SU9sUnRzbjVsU3gzbFR4R0tNeFBYSkxOQV9XbWVYd193Nl94T3dYQVlZQ2xIRGx6VlZRT2VHa9IBc0FVX3lxTE9KTVo5V3B6ekUwTXBVRVVEYVh1NXJDZUdoVkp5OXNpQ0dYdHJVS2ZhTzNsbnFLSWoxUHR6WUxHR1BHb3JQajZyV3puOHRLZU1jU05ob0pqbWtpbXZEUmJLX0s2bGpUdkx6REszVlRYaHFKRlk?oc=5",
-      "s": "시사저널",
-      "d": "2026-08-28T05:32:48+00:00"
-    },
-    {
-      "t": "[이슈체크] ‘기준금리 3% 시대’ 열렸다…주담대 금리 '8% 시대' 오나? 영끌·빚투 ‘곡소리’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xb0pqMERNR1RIRkNqLWw2ODBoaUdDeVk3emJGVEVTQzJyZlNFUnA1T0x2VXQ1WW9VNGpRQ0RYVW9TQUgtcW5QYWg3bElpQWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T05:22:00+00:00"
     }
   ],
   "asof": {},
