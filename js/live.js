@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T22:30:59+00:00",
-  "quotesAt": "2026-08-28T22:30:59+00:00",
-  "newsAt": "2026-08-28T22:30:59+00:00",
+  "fetchedAt": "2026-08-28T22:45:59+00:00",
+  "quotesAt": "2026-08-28T22:45:59+00:00",
+  "newsAt": "2026-08-28T22:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "[오늘의 글로벌마켓] 뉴욕증시, 매파 워시에 미 3대지수 일제히 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kU245cm1mdm5HYXp5a1B1TTlEdHhNOXZTeUZIQzE1bUlFSFF6M3BIYkpMZmpWakhuRWZWSkRER3JqSnAtamNGOWR6eWs3SGdMdUxfeXdzdHhiWElwLU5mak8wNzRPekZqYVFJNTFpMl8?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-28T22:38:12+00:00"
+    },
+    {
+      "t": "[오늘의 경제뉴스] 트럼프의 반도체 관세, 한국 ‘메가 프로젝트’ 겨냥?…삼성·SK 美 투자 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VGwyM0RiNl8tMGRzazM3SW1QRlV6TGdreTVxWVA2a1BJUXJFcnZYRlFPRGZKbzBxaUY4c0FPUGFpbWRmYTM5YmRjOFFVNXhKWnlYd2RORkM1Z21LWnd1dmktdnlnZXJ0RVE?oc=5",
+      "s": "뉴스버스",
+      "d": "2026-08-28T22:32:37+00:00"
+    },
+    {
+      "t": "워시 연준의장, “미국 물가 우려”…추가 긴축 시사에 뉴욕증시 하락세",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HU29lbEhsdi1ZWXB6dlFWOU1MWHlkTXN2eUNZdDNzdDVhLWYtVE5CQldzVlp4dm5takxxUGVNcE9VcTFqbmgzVXYxeTJZMFZIX083clQyOGtxd9IBX0FVX3lxTE12NGI1MnRrcG9FTnJ6RXYwMWR0TGRaR2x0OWdvWmM3UjFpcmVGdENJbG02SEJwdzJSOTAxYk5leGF4M0x4b1lnU21ST2FJMUZfM2Nubmhmc1VOZGVlRE9z?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-28T22:28:00+00:00"
+    },
     {
       "t": "뉴욕증시, 워시 연준 의장 매파 발언에 하락 마감 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTcxb2NjTUFMeHRGbER6SExaVnNBRG05TVNTNjBqdldtcWFZZ3g1cW5meklQRjdYT0kwck5obkJmZkQwWXdRaWtSbjNJUWhMdENDV1prSWtNeXdHaHZzMmtULWFqSzlRaEo0Uk4yenF1d3JlZXBCVjg1OXBhSGhSSmRMWW5yRDJnYVFoWVNuSTAzd3F4MFd3OURNZDdLUdIBsgFBVV95cUxNeUlxOFF2NEg1TWpManY2WTgyS0ZPTHFyaEpPcUx1ZVNtU2xfTnB0c2ZUQkcyeERZYnoySFlsTlFCQjk1QTNocUN4eFZLdXJ2TWFBMWlid1EzS3c4Q3pma01TR2h1cG5qNWhSTjQyLVRkcEZ0a0xWT0Y2OHBla2twaTJIZHpqYmFMUTBFUmtVVGNFZDd1Ri1sZUYyTDRiRl9LMy1iZDFKbVNzYlNLRFJWNFhR?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Bd0FpNjNrX0FvNW8wLURuOFJ6MlRsS05vdXJ4M2RsbVJjZ19IelhfYzJsN3dSX0F5ZVpEMjN6TEVlQlFlY2ZPYkR5UHJwMzFjRGRncEVLdmdENll5UjZMb2U4eTJoM1N3cHc?oc=5",
       "s": "천지일보",
       "d": "2026-08-28T22:00:00+00:00"
-    },
-    {
-      "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxLUI4dzk3S0lhdjBUVjNuT3dqNjFMeWpxeVVSS1lacGJGZVVmQ0lvT3dRUldUbm03TWtxUHBjcHVlN1YzekFZLXU5RVl3MS1JcUtxcGZMQ2lxQk0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-28T21:52:00+00:00"
-    },
-    {
-      "t": "워시 “해야 할일 있다” 발언에…9월 금리인상 확률 57%로 껑충",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40U20xVWNFVmdVQ1hsQlQ1OG1zOElmSTQ2Y2dha1NiSUtYT0hTOUZJd2Y4QW5jeWVvUC0xS0dkR1VGX0l4OFkyRS1QMXpKbWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T21:34:00+00:00"
-    },
-    {
-      "t": "돌아온 반도체 투심, 해외종목·채권으로 변동성 보완···8월 상장 ETF 보니",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bdlk2QnBfTFNIYzVjNDdFMi1ZZEg2eTlsZkQzSmFGRzNKblpnWVBtdktQV1E4UHV6V2pZSEc4SF9SbVpfY09ObXoySUx1b1BiOFdPSVNxRlkzVlN4LWNWSlpTTjJYQU9tb1JmZjc4d3hJN0tzLVHSAXZBVV95cUxOQXZZNkJwX0xTSGM1YzQ3RTItWWRINnk5bGZEM0phRkczSm5aZ1lQbXZLUFdROFB1eldqWUhHOEhfUm1aX2NPTm16MklMdW9QYjhXT0lTcUZZM1ZTeC1jVkpaU04yWEFPbW9SZmY3OHd4STdLcy1R?oc=5",
-      "s": "시사저널e",
-      "d": "2026-08-28T21:30:38+00:00"
     }
   ],
   "asof": {},
