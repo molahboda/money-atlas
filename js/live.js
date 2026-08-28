@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T20:30:59+00:00",
-  "quotesAt": "2026-08-28T20:30:59+00:00",
-  "newsAt": "2026-08-28T20:30:59+00:00",
+  "fetchedAt": "2026-08-28T20:45:59+00:00",
+  "quotesAt": "2026-08-28T20:45:59+00:00",
+  "newsAt": "2026-08-28T20:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
     "nikkei": 66405.56,
     "vix": 14.43,
-    "krw": 1378.22,
-    "gold": 4504.7,
-    "wti": 83.44,
+    "krw": 1378.2,
+    "gold": 4505.8,
+    "wti": 83.45,
     "dxy": 99.68
   },
   "daily": {
@@ -18,12 +18,24 @@ window.LIVE_DATA = {
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.38,
-    "dxy": 0.52,
-    "gold": -2.28,
-    "wti": -0.11,
+    "dxy": 0.53,
+    "gold": -2.25,
+    "wti": -0.1,
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "[뉴욕증시] 워시 연준 의장 긴축 경고에 나스닥 141P↓",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0FCdjZUaHFRZlliMmF0VXFnNGNZT0VxZ1ZwLUVlTlhTeXc1QkQ3ZzlPaXU4MzM3Qm80Q0ZmQ3VKSHI1aE10U2ZxNzhvamNoWnNmR3dPVE9xcTVjUnpCY0Ruby15c2JyWlphMVhaYjJmeG1tWEwzYXJEWG9qdjVFMFU5emlKcFRG?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-28T20:31:12+00:00"
+    },
+    {
+      "t": "[뉴욕증시] '매파 워시'에 하락…30년물 금리에 울고 웃고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ucHJuVGg1bEZjM1NsZU9MeFgwTzBxZzY0V3ROcWNuZ09sOUxFSDVOUFJwajhGV0xzOEFTLUxyelpsakJibFpsZUJLRkhZclJ3d3VsRnVYQTE5bUd1eVVRa3VOdzhCaDNTT3hxRDh0VTg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T20:28:49+00:00"
+    },
     {
       "t": "뉴욕증시, 워시 잭슨홀 연설 매파 해석에 하락…나스닥 0.52%↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95RlhwSXlNSVJuNHNrV0MyV05HcE5GblV4T0R4eGFBRXdtVGtYTUlGNG9ZSE9EbHJ3cWt5WUR0dVZUaVFpM0ZMUXU1Um8ySUNaYnUzTURBbFR5WVA3?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMl9wTU50dHRSbnZTRFRnVV9ZQlBLYWRPako1NTJOR19lU2F5NUtyMktHWThlYUxHcmx4dGZoWTBfNFYtckd1XzUxckFOQjBSWDlTckJZU2hLQQ?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-28T19:14:56+00:00"
-    },
-    {
-      "t": "美 연준 9월 금리 인상 가능성 56%…25bp 인상 전망 우세",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZU9oZEluc2I4a2FsYjNBWGk1N0daY2lQT1cwNEowZm1jSGluSzktS2JGMzdkV0ktT2JrSzc4SjhpUDh0V1NwTkR2X1hQRm5J?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-08-28T19:07:42+00:00"
-    },
-    {
-      "t": "시장 예상 뒤집혔다...연준 9월 금리 인상 확률 반반",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QS1MbkJrR3JCcGxWaFBKWWVudDdzZ2dsVzVIZG9ZejkxeERERDBaMDA5X3lzTmR5VWpsQVpTTmN6VlBxUk8zUkFiU1hPWWJjVUxMd1RPV250dw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-28T18:37:13+00:00"
     }
   ],
   "asof": {},
