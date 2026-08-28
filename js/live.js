@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T23:00:59+00:00",
-  "quotesAt": "2026-08-28T23:00:59+00:00",
-  "newsAt": "2026-08-28T23:00:59+00:00",
+  "fetchedAt": "2026-08-28T23:15:59+00:00",
+  "quotesAt": "2026-08-28T23:15:59+00:00",
+  "newsAt": "2026-08-28T23:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "워시 연준 의장 \"美 물가 우려...진전 없으면 연준 할 일 있어\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZZGc5bzlwSHh6cVlfSk03Qnd0UDlXUXkxa1BUZHFwSldIdnB2VmU0aHJGb0xWRGRsbUV6UnNLay1pZFhZeUQyd1lvZU52OHltaWRvSDBsUW94SXptdXNxZ3VjVWtOSTJZTG1BNUJmRF8?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-08-28T23:10:00+00:00"
+    },
+    {
+      "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T23:08:06+00:00"
+    },
+    {
+      "t": "국제유가, 호르무즈해협 통항 재개 기대감 등 영향 하락반전",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jTTRrUHVWN0dTajVJb3dRM1pRQ19pV1pOdTJ0WEQxTXNDWEhMREpPUlJockcwSHIzV25JTF85ZC1JM3pTeUhBT2dMeUJmTFljSHpuaU9nTlJyLVJkb0E?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-28T23:08:02+00:00"
+    },
+    {
+      "t": "음식료는 수혜, 조선은 피해?…'환율 하락' 영향 종목별로 갈렸다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VDJvRzNXZTc3OUVYd0hFZEtsdVJORVB1ZUYweXhLVXRicnJfVzRkRl81Zlg4WUMxQkExbmxoUFNsckxOaEcwQnBKQkV6ZTZUeklhdFBpQnJUZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T23:00:12+00:00"
+    },
+    {
+      "t": "내달 美·歐·英·日 주요국 금리 결정…글로벌 긴축기조 강해지나",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNbkJLd2R3UFh3TmxyTU9CSW81QTE4TkMxeFk1ZFEzTzVEb3VCdUloRjBFcVFlRHl3OXE3dml5bnJ6dTJXTkZfSDdTaHlWUHItSjdwQktqaUxHN3NmMmo1cjFBck5VTDR1TkpFSW53SdIBc0FVX3lxTE0yVDcxUE1TbEZJcURjV1J1NVgyRU5DSW95amZtN1EzRnlMNXR4MkctS2VKMC1HQ1dYZkl5ejZOMnAxWVBra0xJLUc2dnRQRUZmZnRmRG4wZ2RNemwtRWFwYmRiSDd0aTY3MHdjWWU1S19wcXM?oc=5",
+      "s": "뉴스웍스",
+      "d": "2026-08-28T23:00:00+00:00"
+    },
     {
       "t": "워시 '물가 경계'에 뉴욕증시 약세…9월 금리인상 확률 57.5%",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLV80b0swNHhadE9fcUpQN1k5dlZJTGNLLXJiNkJCd0l1QjRKYm1iMUhnamxYSldvN2VjU1dJQ09zMEdRODN0ZHp5YXBYcmtq?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53VGwyM0RiNl8tMGRzazM3SW1QRlV6TGdreTVxWVA2a1BJUXJFcnZYRlFPRGZKbzBxaUY4c0FPUGFpbWRmYTM5YmRjOFFVNXhKWnlYd2RORkM1Z21LWnd1dmktdnlnZXJ0RVE?oc=5",
       "s": "뉴스버스",
       "d": "2026-08-28T22:32:37+00:00"
-    },
-    {
-      "t": "워시 연준의장, “미국 물가 우려”…추가 긴축 시사에 뉴욕증시 하락세",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HU29lbEhsdi1ZWXB6dlFWOU1MWHlkTXN2eUNZdDNzdDVhLWYtVE5CQldzVlp4dm5takxxUGVNcE9VcTFqbmgzVXYxeTJZMFZIX083clQyOGtxd9IBX0FVX3lxTE12NGI1MnRrcG9FTnJ6RXYwMWR0TGRaR2x0OWdvWmM3UjFpcmVGdENJbG02SEJwdzJSOTAxYk5leGF4M0x4b1lnU21ST2FJMUZfM2Nubmhmc1VOZGVlRE9z?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-28T22:28:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 워시 \"할 일 있다\", 반도체주 '털썩'···M7 '강세'·메모리 '선방'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTG5nNmNjbm1hbXhXOUE2MjVnVUlEWUI3ejRXaDdjMmFnM25Ib2FHYWJmVW5Ta01FUHdnTkdJenJUUGQ0T3FVZDVFQUNNS2dCZ2pvRkhRRzJEWlRmc2JBTVk3dW5JZVFlU1E?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-08-28T22:26:38+00:00"
-    },
-    {
-      "t": "뉴욕증시, 워시 연준 의장 매파 발언에 하락 마감 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTcxb2NjTUFMeHRGbER6SExaVnNBRG05TVNTNjBqdldtcWFZZ3g1cW5meklQRjdYT0kwck5obkJmZkQwWXdRaWtSbjNJUWhMdENDV1prSWtNeXdHaHZzMmtULWFqSzlRaEo0Uk4yenF1d3JlZXBCVjg1OXBhSGhSSmRMWW5yRDJnYVFoWVNuSTAzd3F4MFd3OURNZDdLUdIBsgFBVV95cUxNeUlxOFF2NEg1TWpManY2WTgyS0ZPTHFyaEpPcUx1ZVNtU2xfTnB0c2ZUQkcyeERZYnoySFlsTlFCQjk1QTNocUN4eFZLdXJ2TWFBMWlid1EzS3c4Q3pma01TR2h1cG5qNWhSTjQyLVRkcEZ0a0xWT0Y2OHBla2twaTJIZHpqYmFMUTBFUmtVVGNFZDd1Ri1sZUYyTDRiRl9LMy1iZDFKbVNzYlNLRFJWNFhR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-28T22:14:00+00:00"
-    },
-    {
-      "t": "워시 \"필요하면 할 일 있어\"‥금리인상 전망 급등",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZUFQSWpSTFJIeVlpMUVGMnRhTEtQMVpiYmN2VFAzYlVhcVl6T2RaUEdzMlpLb1UzLXZhSGVQZkYyS25tRkQyX0NfMlFQczZQdlB6TWhBZmtlamVnZV9TeXVfWEk0ZTRzUUtVcHV0MjRkYjlvc3Mwa3pB0gF6QVVfeXFMTWwtNGlTT1BERlNOVy1Fbm5lTEl6ZWtHZWFqUG5kd29OVDc4cDQzTjYxZWpVMlNjN2ZMTUVDSGQ4UFNDMmhZTUhrRHp5aWJFaXVrXzNackkwcnJJUXZ3cDV5bWRqWWFxOXNicmZ1YkpvY3BoQ3p2S2dNbHc?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-28T22:13:33+00:00"
-    },
-    {
-      "t": "[외환] 연저점 경신 후 '매파 워시'에 낙폭 축소…1,380원 안팎",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tbXlab2JMZTdKRGpZd2tqZTBIMUdtczVlWkc0UTV4Y2wyODV5WnpTX0hJMDRaU2J4WmJLSTl6SzNGcmNmLTZGbEYzcE5jTGlkdTcwZDlkN2c3QkJPU0RMODBPM2lrNG9sWmx0TEZxSXNiQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T22:12:32+00:00"
     }
   ],
   "asof": {},
