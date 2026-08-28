@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T19:00:59+00:00",
-  "quotesAt": "2026-08-28T19:00:59+00:00",
-  "newsAt": "2026-08-28T19:00:59+00:00",
+  "fetchedAt": "2026-08-28T19:15:59+00:00",
+  "quotesAt": "2026-08-28T19:15:59+00:00",
+  "newsAt": "2026-08-28T19:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7702.49,
+    "spx": 7709.41,
     "nikkei": 66405.56,
-    "vix": 14.48,
-    "krw": 1379.19,
-    "gold": 4501.7,
-    "wti": 83.14,
-    "dxy": 99.72
+    "vix": 14.56,
+    "krw": 1378.68,
+    "gold": 4509.2,
+    "wti": 83.28,
+    "dxy": 99.7
   },
   "daily": {
-    "spx": 0.35,
+    "spx": 0.44,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.31,
-    "dxy": 0.56,
-    "gold": -2.34,
-    "wti": -0.47,
-    "vix": -0.21
+    "krw": -0.35,
+    "dxy": 0.54,
+    "gold": -2.18,
+    "wti": -0.3,
+    "vix": 0.34
   },
   "news": [
+    {
+      "t": "美 연준 9월 금리 인상 가능성 56%…25bp 인상 전망 우세",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZU9oZEluc2I4a2FsYjNBWGk1N0daY2lQT1cwNEowZm1jSGluSzktS2JGMzdkV0ktT2JrSzc4SjhpUDh0V1NwTkR2X1hQRm5J?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-08-28T19:07:42+00:00"
+    },
+    {
+      "t": "\"시장 예상 뒤집혔다\" 연준 9월 금리 인상 확률 반반",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QS1MbkJrR3JCcGxWaFBKWWVudDdzZ2dsVzVIZG9ZejkxeERERDBaMDA5X3lzTmR5VWpsQVpTTmN6VlBxUk8zUkFiU1hPWWJjVUxMd1RPV250dw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-28T18:37:13+00:00"
+    },
+    {
+      "t": "베센트 美 재무장관 “엔화 시장 혼란, 미국 금리 상승 위험 키워”｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTEdDQ1VHSjFsTlc4WFdCX1NMTWl6WUxMZktObmhyZW9NakhHVlgtLXZYN2xyT3RBMllWWHBLOXAwdkpPQVhVNDBKaWVSTjB3aXhhSmRsbnBxZ1k?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-28T18:35:55+00:00"
+    },
     {
       "t": "트럼프 대통령, ‘미·캐나다 관세 갈등’ 속 온타리오호 개칭",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UTFRzUzZORlgyRFhWTXFTUTBYeHhqRXR3YjZMeTAydnkwT1pUNzVENU9ENVMwaUg1aGY5X2pKcXVabEpIRFFTM2tSb2NtcmJjTzBDZVBBaG1UcTM1aW1xaVl6OEZkeGszbjhJQU5RTERMZ9IBdEFVX3lxTE1jaEw0clpCY1FkQ2dCSVIwZmI5NzBMNlB4aHR4N1ZXSVRfS2FITmI2WTJGdU5vcFJQc1pJVElvc2E1eTBweUFwSWpkT2ZKTmItdUROU04zMXJRQUJmZmtqOEY2TzhsUG1mMy13VGtEZ1JNdHhJ?oc=5",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T16:50:47+00:00"
     },
     {
-      "t": "'첫 잭슨홀' 美연준 의장 \"물가 우려\"…추가긴축 시사(상보) - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xT0dKb2x1SmRJNzZPQ1ViekloTGFrM1NqVzNQOFhBekhxZTR0eG1Hd0ZLVUVTOVhFZXR2a2ZuZGFheWs3bGNKOHN6bGtlX3hlWm92ZFhOWXhPQWd2S3p2QTEyVHR0eWE20gFuQVVfeXFMTi1qNGpRNlB3NjFiV29KdnowVVBoOXFUOGg3Z0xBOTdVQkxpazhNLU8tNlZLOUFGY2xmYlZrOVlRY29Yai1wWHN6Ynh1TlByUnJGM3JxV3d6NlBFcVNpUFNWWGE0YUQ0S0FpQVB2Nmc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-28T16:20:13+00:00"
-    },
-    {
       "t": "美 워시 연준 의장, 물가 상승 \"우려\"...금리 동결 가능성 커져",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RalRfcTFnUWNIUF9yNm9XRHNhcG1ZcWJyaGQ0dVlRVWUxbEdKZU1lNmFnSHh6TThnSTEzUkVadW01c1Ntb2hfM0Q1aTJjdEt5WExEX1g4VTd0UQ?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-08-28T15:59:27+00:00"
-    },
-    {
-      "t": "워시 연준의장 “美 물가지표 더욱 우려”…추가 긴축 시사",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RUlRtLWNCZ3lxaE12b2FERUFTbUVyckpta1Z1d0d4N3ZXTDdTQXlpZWFjY0pRdzRwbUZSTnZiV0N0Q3puV0x4ckF1bHpUQ2RiZVlfYk0xcjNuaEU?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-28T15:54:00+00:00"
-    },
-    {
-      "t": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZ9IBYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T15:37:27+00:00"
     }
   ],
   "asof": {},
