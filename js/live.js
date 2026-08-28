@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T09:15:59+00:00",
-  "quotesAt": "2026-08-28T09:15:59+00:00",
-  "newsAt": "2026-08-28T09:15:59+00:00",
+  "fetchedAt": "2026-08-28T09:30:59+00:00",
+  "quotesAt": "2026-08-28T09:30:59+00:00",
+  "newsAt": "2026-08-28T09:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.51,
-    "krw": 1371.78,
-    "gold": 4657.2,
-    "wti": 83.33,
+    "vix": 14.5,
+    "krw": 1371.96,
+    "gold": 4654.5,
+    "wti": 83.15,
     "dxy": 99.21
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.85,
+    "krw": -0.83,
     "dxy": 0.05,
-    "gold": 1.03,
-    "wti": -0.24,
-    "vix": 0
+    "gold": 0.97,
+    "wti": -0.45,
+    "vix": -0.07
   },
   "news": [
     {
@@ -37,16 +37,28 @@ window.LIVE_DATA = {
       "d": "2026-08-28T08:07:29+00:00"
     },
     {
+      "t": "외인 선물 매도에 국고채 금리 상승…3년물 연 3.788%(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdjRjcWFXSnFiN1NCMkpXQzBZVXdMTEZBY0RYOHM1WHlTOGFERmxUWV90aFNhbHQ5V2E3VWpTbzV4SFhhZGpiaHVDcnZqOGNMT1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-28T07:49:20+00:00"
+    },
+    {
       "t": "美 반도체 관세 확대 우려에 코스피 1.79% 하락 마감",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dm1ZN1lUNG5kNFc3T3BPTjJmYVhnV0NfMFd0WllQUGdHcVpDMEpRcjNFWWpDNTZPWlRQR3lYTHJHd0ZPbW5zeUlMZE9ZS0NhNlE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-28T07:48:11+00:00"
     },
     {
-      "t": "[표] 코스피 지수선물·옵션 시세표(28일)-3",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSHJXX2luWVRrcktnZko1VkxCcnUxSXBvMXBwdl9WeUdfajVqR3ZSOXhUeV9LV0tldkRQWEE0VHU5NU9BQzY3WHhWUU11RTVua2c?oc=5",
+      "t": "[표] 코스피 지수선물·옵션 시세표(28일)-1",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UVzQyUmUtTE1oZ2FuRTFqNEU1d0JfTk55VlItZDkycUpINTJaWlp1SXo0aVF4NjlQX2VwcDBkQWQtRmZESjNfVFBLY0NjNkZQQ1E?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-08-28T07:40:27+00:00"
+      "d": "2026-08-28T07:40:37+00:00"
+    },
+    {
+      "t": "국고채 금리 일제히 상승…3년물 연 3.788%",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hVEYtWmJVUGY5SFRTTlR0bkhGNTNpelRqVXdHb0I4QWhOWmRpZE5Xa1VDRFlFWktZcjNnaVBNV2l0RkhyZ1RJeXp3emNsMUdfTWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-28T07:40:13+00:00"
     },
     {
       "t": "美 반도체 관세 확대 검토... '삼전닉스'보다 미 AI업계가 더 우려",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZHR0ZE5FWVF3VkJIbjV0OE1PQ3JaTlRBdGc0Wk5HV0p5S3A2WWxuWU4xTmE0bE51MVNoU3pZLVUzOVVRUWUwN3RSak9lRjBPdklpN0ptWkVhQVB4QWpxYkpvV1RqUnBVT3FZUg?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T07:34:47+00:00"
-    },
-    {
-      "t": "美 채권금리 다시 압박, 외인 1.7조 순매도…코스피 6780선 밀려[시황종합]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bWdfOVh6TUVsM21MbGZlUndPRFdncFYxSUdpQ2ZrWXFDY2VBWFhPNHNYQVVjcFZ4ZWNTbFZzU3VyLXFfVW5rNGVMdXJvNkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T07:32:00+00:00"
-    },
-    {
-      "t": "하정우 \"전남광주, AI·반도체 전략거점으로 육성\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVHNBVnV3VEdYcE05b2wwX0p6N2lSUjc5cDhUT0p1OXJ3dklSLWhoVVQ4VHZnUDA0bFhOd2VZZm5TSlk0eklpWUVDamY4VEE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T07:32:00+00:00"
     }
   ],
   "asof": {},
