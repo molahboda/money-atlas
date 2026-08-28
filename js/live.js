@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T14:15:59+00:00",
-  "quotesAt": "2026-08-28T14:15:59+00:00",
-  "newsAt": "2026-08-28T14:15:59+00:00",
+  "fetchedAt": "2026-08-28T14:30:59+00:00",
+  "quotesAt": "2026-08-28T14:30:59+00:00",
+  "newsAt": "2026-08-28T14:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7722.38,
+    "spx": 7728.91,
     "nikkei": 66405.56,
-    "vix": 14.43,
-    "krw": 1377.57,
-    "gold": 4609,
-    "wti": 82.39,
-    "dxy": 99.42
+    "vix": 14.64,
+    "krw": 1378.28,
+    "gold": 4612.3,
+    "wti": 82.81,
+    "dxy": 99.5
   },
   "daily": {
-    "spx": 0.61,
+    "spx": 0.69,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.43,
-    "dxy": 0.26,
-    "gold": -0.02,
-    "wti": -1.36,
-    "vix": -0.55
+    "krw": -0.38,
+    "dxy": 0.34,
+    "gold": 0.06,
+    "wti": -0.86,
+    "vix": 0.9
   },
   "news": [
     {
-      "t": "[속보] 워시 연준의장, 美물가상승률에 “우려스럽다”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTdQNFo3UDF4b0J1R1NJQW1kOThLc1pQMWNMR0U1Z2hqTmhkNkxEYzVoenNtVjRSUDNsOTgtSDJISWViaE8yTm9DUExWUnM4N01kZ2Nn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-28T14:12:13+00:00"
+      "t": "[속보] 워시 연준의장 \"현 금융여건, 긴축적이라 보기 어려워\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcmVtTmh6cWN3aVRVRzhCRWtPQWxrRjdDc1JKd2ROQ1FzUU56akNBX1Vvbk9kRHBLcmo5TnhoVDZ5ZkRnZkN5SmxtRlgta2RwSHlBNDF4dUFjS2_SAWBBVV95cUxQNXpEZ2FuVDhBUk4yQjQ1RHpYT0dZNnBaLWhNV3lDOV85WEduRElHTjlYM3ZLWkJZTWU2aUlNMmNGcUx6VmhpaEFFN2F1SlRZYVF2TVFGcTJoU254VXJZWDc?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-28T14:09:17+00:00"
+    },
+    {
+      "t": "[속보] 워시 연준의장, 美물가상승률에 \"우려스럽다\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KMWJPd2FKVll0ZUlIY1BfVHVmU0paYjZzWTJSMTJodWl4bnVOb1NEZHNjNnN4YjJDb2lBOXlPME85ZERhTkJ1MTMzOGtrdEZSRm1tTGZTaDZRbkXSAWBBVV95cUxPWURoSC01UHF2U1VWd0dlaTVCekdKMEV1S0JxUTZud1lQb0RrbElwY0JxaC0wWlZhQkpNekxIT0NXeWtaaVUtYk5hbGVaNDlXd3BuRVhJLWJId3ZEUzNodUY?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-28T14:08:54+00:00"
     },
     {
       "t": "미 달러화 보합권 횡보…연준 의장 잭슨홀 연설 앞두고 '신중 모드'",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1cjlGQVNHZnd2UlZwM0tBLXluWWl4M3ZXNkNpTXFpTG1VZ01saS1ieEYxQUZucjlEQlp6b3Y3TXozQUMyOEttRk9ZNF9oajBZaHE4UGo4OUYtUEhuc21sQg?oc=5",
       "s": "유교신문",
       "d": "2026-08-28T13:14:43+00:00"
-    },
-    {
-      "t": "케빈 워시 연준 의장, 잭슨홀 연설에서 무엇을 기대할 수 있나?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcnFoVlBIZVBwbUlNQWRwU1VYdGdYTGtqYlpCTzd0VWFmdTlkV3FEamU2R3psQ2sxYjRuVXBnWXgzWklwcnRPMG9rbk9CSlJtdkNHVEhNQUR6N19iN2dqaUlaS0hEVDZwMFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T12:58:00+00:00"
     }
   ],
   "asof": {},
