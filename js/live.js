@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T21:45:59+00:00",
-  "quotesAt": "2026-08-28T21:45:59+00:00",
-  "newsAt": "2026-08-28T21:45:59+00:00",
+  "fetchedAt": "2026-08-28T22:00:59+00:00",
+  "quotesAt": "2026-08-28T22:00:59+00:00",
+  "newsAt": "2026-08-28T22:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -26,9 +26,9 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "워시 “해야 할일 있다” 발언에…9월 금리인상 확률 57%로 껑충",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Ql9jNi1yUTQyLU5NVXZCWnN0YXRDazZGb1hWMThGS2U2MkF0cVN3UVN3a3FCV19pTXdQYndzc0NLemNhLWNVNHJfSnB1S3ktdWVhQ1c1aWRjRE0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-28T21:32:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40U20xVWNFVmdVQ1hsQlQ1OG1zOElmSTQ2Y2dha1NiSUtYT0hTOUZJd2Y4QW5jeWVvUC0xS0dkR1VGX0l4OFkyRS1QMXpKbWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T21:34:00+00:00"
     },
     {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
