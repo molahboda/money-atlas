@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T18:45:59+00:00",
-  "quotesAt": "2026-08-28T18:45:59+00:00",
-  "newsAt": "2026-08-28T18:45:59+00:00",
+  "fetchedAt": "2026-08-28T19:00:59+00:00",
+  "quotesAt": "2026-08-28T19:00:59+00:00",
+  "newsAt": "2026-08-28T19:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7709.07,
+    "spx": 7702.49,
     "nikkei": 66405.56,
-    "vix": 14.59,
-    "krw": 1379.39,
-    "gold": 4503.7,
-    "wti": 83.23,
-    "dxy": 99.69
+    "vix": 14.48,
+    "krw": 1379.19,
+    "gold": 4501.7,
+    "wti": 83.14,
+    "dxy": 99.72
   },
   "daily": {
-    "spx": 0.43,
+    "spx": 0.35,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.3,
-    "dxy": 0.54,
-    "gold": -2.3,
-    "wti": -0.36,
-    "vix": 0.55
+    "krw": -0.31,
+    "dxy": 0.56,
+    "gold": -2.34,
+    "wti": -0.47,
+    "vix": -0.21
   },
   "news": [
     {
@@ -41,12 +41,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaEM5WDl4SGdGMjF3ZTQxRDRONVlFNV9yTFNfa1hiREVrTVN1MjRweEZsOUZQZjRtQTF5VnE3aTh2N3MwQVBhT2VXMlk1U0s4UGJmRmNMUjZNYjll?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-28T17:16:00+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 워시 '매파적 발언'에 3% 급락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFByeFdrbENqUnpIcHJfM0RVUWk3eFpMNkk1ZkM2S2FyS3Y2ODFPdHBadGNHY3FwRnNYVDA3TENKRFQyMjhxS0xXU0QtanVVZmlMd2N5NW9XZThlWDJUbXZFVlBPckhvVUZtTDJwS0xDOHVzdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T17:12:05+00:00"
     },
     {
       "t": "워시 연준의장 \"美인플레 우려스러워\"…추가 긴축 가능성(종합)",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RUlRtLWNCZ3lxaE12b2FERUFTbUVyckpta1Z1d0d4N3ZXTDdTQXlpZWFjY0pRdzRwbUZSTnZiV0N0Q3puV0x4ckF1bHpUQ2RiZVlfYk0xcjNuaEU?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-28T15:54:00+00:00"
+    },
+    {
+      "t": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZ9IBYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZw?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-28T15:37:27+00:00"
     }
   ],
   "asof": {},
