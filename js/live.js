@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T17:30:59+00:00",
-  "quotesAt": "2026-08-28T17:30:59+00:00",
-  "newsAt": "2026-08-28T17:30:59+00:00",
+  "fetchedAt": "2026-08-28T17:45:59+00:00",
+  "quotesAt": "2026-08-28T17:45:59+00:00",
+  "newsAt": "2026-08-28T17:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7706.96,
+    "spx": 7709.68,
     "nikkei": 66405.56,
     "vix": 14.68,
-    "krw": 1379.44,
-    "gold": 4532.2,
-    "wti": 83.31,
-    "dxy": 99.66
+    "krw": 1379.45,
+    "gold": 4530.4,
+    "wti": 83.38,
+    "dxy": 99.68
   },
   "daily": {
-    "spx": 0.41,
+    "spx": 0.44,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.29,
-    "dxy": 0.5,
-    "gold": -1.68,
-    "wti": -0.26,
+    "dxy": 0.52,
+    "gold": -1.72,
+    "wti": -0.18,
     "vix": 1.17
   },
   "news": [
+    {
+      "t": "유럽증시, 워시 미 연준 의장 잭슨홀 연설 소화하며 상승 마감… 프랑스 증시도 반등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaEM5WDl4SGdGMjF3ZTQxRDRONVlFNV9yTFNfa1hiREVrTVN1MjRweEZsOUZQZjRtQTF5VnE3aTh2N3MwQVBhT2VXMlk1U0s4UGJmRmNMUjZNYjll?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-28T17:16:00+00:00"
+    },
     {
       "t": "[뉴욕 금가격] 워시 '매파적 발언'에 3% 급락",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFByeFdrbENqUnpIcHJfM0RVUWk3eFpMNkk1ZkM2S2FyS3Y2ODFPdHBadGNHY3FwRnNYVDA3TENKRFQyMjhxS0xXU0QtanVVZmlMd2N5NW9XZThlWDJUbXZFVlBPckhvVUZtTDJwS0xDOHVzdw?oc=5",
@@ -68,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0RWhyc0JmZVEtQXhRSjQ1NFFKWE1Sbm9kNS1HTDd3NmlxZU1wUVRteV81SVZSYXFNY2FLcU5kZ29iQUlNbzBnMEIwVVRPOXc1SHk5Mm5lZ3R0UDDSAWBBVV95cUxPcUZKTWdyRm93U1ZMdUprTlhxODNkNVI3TW1aU0txb0p0TE9NOEgxS2d6dUM2S05MNjJPc0lJSEpiUkwzcVRpcE1paTN2SkRMWktZVElxaHpKcDN6SVZxa2c?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZ9IBYEFVX3lxTE9xRkpNZ3JGb3dTVkx1SmtOWHE4M2Q1UjdNbVpTS3FvSnRMT004SDFLZ3p1QzZLTkw2Mk9zSUlISmJSTDNxVGlwTWlpM3ZKRExaS1lUSXFoekpwM3pJVnFrZw?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-28T15:37:27+00:00"
     },
@@ -76,12 +82,6 @@ window.LIVE_DATA = {
       "t": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\"",
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdV9vdVhmWWQ3Q041cGowSm1PbkVaUWVpeUR0N01nNENibWFUMGxmckNsMWtiNkozcDF3OGliTXFzWlEyQ1JfNnpmQkpKS1N5b1UzOHlnVFBMUjBMbmpRVlZVaXZNckM4R0ZZR0t6R1haMGFybHZKUWRWb2lqNXY5T1dwNA?oc=5",
       "s": "조선일보",
-      "d": "2026-08-28T15:36:00+00:00"
-    },
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 28일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclFaX2wwVnRvVkhDSDRnMUZkbTBXM3EybVhXS2labnRaZHlTMndqZEdjeWJPbWFSaU5YYjY5bkY5QWRhbVJCT1RJVzYyeHVIeGxHLXR6TXI4RUlIRE5Mb01JUENGaW9JVGVKWVJNZjRCQUFsRndkRzgtMUNtWGl3Y1VDV2ZwNE5u0gGcAUFVX3lxTE9UWWIwSnhtWm5FNHlkekZsdWJfUEhaaG1ZQjJmaHZVbVlwRnpjYVozWUhubU5CamtaQlQ3Q3ZBRzhpX3F5Ukl2NkxZcnpCNlVMRmhGN2RVcGpneW01UFplakpidVA3NHRoMTg1YnhBV0JGSVUydkZ0MV8wbEZaY293eXVBUF80VkRyVUpyWEhrUl9MelZFWm14RHZ1OA?oc=5",
-      "s": "Chosunbiz",
       "d": "2026-08-28T15:36:00+00:00"
     }
   ],
