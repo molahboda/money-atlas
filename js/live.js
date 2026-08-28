@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T07:15:59+00:00",
-  "quotesAt": "2026-08-28T07:15:59+00:00",
-  "newsAt": "2026-08-28T07:15:59+00:00",
+  "fetchedAt": "2026-08-28T07:30:59+00:00",
+  "quotesAt": "2026-08-28T07:30:59+00:00",
+  "newsAt": "2026-08-28T07:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.51,
-    "krw": 1372.18,
-    "gold": 4658.3,
-    "wti": 82.9,
-    "dxy": 99.17
+    "vix": 14.56,
+    "krw": 1372.48,
+    "gold": 4660.3,
+    "wti": 82.95,
+    "dxy": 99.2
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.82,
-    "dxy": 0.01,
-    "gold": 1.05,
-    "wti": -0.75,
-    "vix": 0
+    "krw": -0.8,
+    "dxy": 0.04,
+    "gold": 1.1,
+    "wti": -0.69,
+    "vix": 0.34
   },
   "news": [
+    {
+      "t": "이재명 ‘호남 집중’ vs 추미애 ‘경기 사수’…민주당 반도체 영토 신경전",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SQjg2UTNnM3lxTFgtSnJUeWNJMU9QUGw2SWpGZ2pSUlFJbUlPZkZGQTRrWGxobWExaUs0RWYxVjZfOEc4V2FIeE9jUTl2aVVjRVhvS1RDenZrcVVFTjFGODA0SQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-28T07:20:48+00:00"
+    },
+    {
+      "t": "[중국증시-마감] 반도체주 약세에 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tMnZoSGUycjNJc0ZkUXlfM2JkbzhTeVdOV1ZkRlpaVWZEZHhFNFlpSi1XVlpwNjliY3IxY3ZDV0VneldyM2YyMnE4UUpUVDRSTUoxSTdCdmJsNlJZUmFCMW1YRWM1TG85bmJvM2x1WmpPUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T07:20:06+00:00"
+    },
+    {
+      "t": "[증시-마감] 삼전닉스에 발목 잡힌 코스피…1.8% 내린 6,700 마감",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE14c214c1dael9wMjZIaVBIcmxwdm5GWUhIT25WMzNFS3FVaGRyY3FpNnpaUWx4NDBOZDdRZ2xNMDkxbUpDT2ltRHI0bG93c0dDUDJqTUxoVDd6NEk2ai10eGp6WkRSNHJreUdFTFB0OFgxUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T07:19:53+00:00"
+    },
+    {
+      "t": "코스피, 외국인·기관 동반 매도에 1.8% 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNjU0ZFBNNkpuTHhqU3FxMGNZU2xicWdwNWpmd3BEbFRFa1hzcjlSVW1yUXRYR2hlUVJpaDFYN3BoWm1ST3JZdmFaQk9CWXM0Q0tZLXkzQ3U1c2loVkdkOVNVQkw?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-28T07:17:33+00:00"
+    },
+    {
+      "t": "코스피, ‘반도체 투톱’ 급락에 동반 하락…6,700선 마감",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqSm80S2xlQXRLODZBWjBLc25RaGRhd0dwWFlPRUwybk5YVENqM2pZTVVXUjhLOFRWLU5KSjhINlZHSmpGcUxJdGhYSFo3NFJTbUdnODJuUExzM3c?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T07:17:00+00:00"
+    },
+    {
+      "t": "반도체 투톱 급락에 코스피 1.79% 하락…6,800선 내줘",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10OFU1WGxURWFWbEVnQ1d1MGF3ZlAzRTZzeEFpajZMQ3lWYTdlYlptdmlDVm45RkNBcHMxeEYxcTlEa1dBWGR6MndVbTNOX2VKcGJXSXAxV2x6VlRieDJhWmdyM0xWY19NYVpGWnczZTHSAXRBVV95cUxNeURfbm5XU0dVYVY1RHlTQzM4ZjBsX0Y4WUZZN1pmczAtbUd2WmNmTDhSc2dKNWNxZElQN08yZVRoa1hhdGUwSjBKOC1lZlRqV1Rvcm5SWlhOTjNPLWZyQVVWQ3Z1QzRYaEt5bElheW81eGE5Wg?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-28T07:14:40+00:00"
+    },
+    {
+      "t": "유럽 증시, 워시 연설 앞두고 반등…3주 연속 주간 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sclBTS1JjdG9HeHplRndlRFpVWWw1MFZrOVBHS01hMnpEZUgwQllnNkwxV3RseVVjUDhkZVdaQktjaEc1T0RZLTdsNElnX2lSY0tfZ0hVWktfZGo1a2dBTjh6eFhBWEFCRmx6eFB3MjY?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T07:11:00+00:00"
+    },
     {
       "t": "모건스탠리 \"점도표, 최종금리 3.25%로 보기 어려워…2회 인상 시사\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wNC1mODhNRXJhVU51MlJfUzg0Q3kzTTNwQm5Nci15MHhFanZ0SkRYaERBUlMxT0drVHphOWplejFycmpBYkM1REpLYkJtd3V1VFM1VlNjeFFqTFQ0TmI0Ung2c3E5a29OUWQ5cUplQkU?oc=5",
@@ -37,52 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T07:06:36+00:00"
     },
     {
-      "t": "“엔비디아 호재에도 맥못췄다”…코스피, 반도체주 약세에 6800선 하회",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SaU9DdkNta2s2NEpMendRSTRZelB6dlFWNHBZeHZQaWtHRGpUbEtTMHNWbGl2M2xxeEFFdS03eUlqMk5DTXpWanp6aGdoejJsWFE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-28T07:04:56+00:00"
-    },
-    {
-      "t": "김성환 기후장관, 용인 반도체 산단 현장점검…주민 우려 청취",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwOW1nb09YWDJHalhJYnF2TVc3YTcwOVVlQmUyRUNBdmdzb1RhRjE0VnRoZUlwZ0dROUFjdDhPemFmMU5UWk1tNzY2aThyNFhLYWF6Sl9pcU9idXcxd1h1ZXBXdEtMaTVtVVlfQdIBcEFVX3lxTE1IN214d1pZQVFBMHhMOXFpdUh1eHhZQ2RGNHE4NVFranJjakR2RzJsV1RFMV9GNTNnbm1zcThzVnpNVFhGeEFuLVNHcnllYzFOTGg3bGRZcUNYSDdic2xITENRNlZpYTcwNUN3cVlHZC0?oc=5",
-      "s": "전기신문",
-      "d": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "t": "김성환, 용인 반도체 산단 LNG 발전소 건설 예정지 방문 “환경 부담 살피겠다”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NOV9BYW5GbW42b3ZyMFlfallpcnVOX2NYOC0xdGpTSmFKMTFrZUJOazRfY0ZYQW4xNTBtc2RUNUdZWkxRRzdqOUg4YzJTM3VuOWtOWjI5d1BsUdIBX0FVX3lxTE1hZDhBVlNFTzAtV2wyYVh5V0p4SWtfX0JSTTc4eGc3NkpDdkJBTHNkVzE2eXEyNEZOQUplWkg5OGlGWG9CaUpURU8tcm5aQ2duTGRqMnZfdFFaOE4wbC00?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "t": "AI·반도체에 시급한 LNG 열병합발전…사업 길 막는 용량시장",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53YWJDX0oxR0pLOVZ5Nl8tZHdFemFoUDE4d2l0eDJ1SDlMcWVyeXh5MlhiMFNaZWloUU9pNTZmWG5HcEVnVk5QdkpaUUJaUmF3VGpzYkpUQnRFN2Jqc2FHMGEwUnFIbjkwN29UVNIBcEFVX3lxTFBpSm5icE9KeUZXOVVGcUhoTVlnQWREWjNLUzlmcGZlTFN1NDdCSmpxQTRGZXhrWWotdXd1ZzNmbzYwa1Zub19UbDZLS3FCWExxWDFCUlJZR1JoOW5XZzdmSVI0WVBEUXNfYjNOWjdJMk0?oc=5",
-      "s": "전기신문",
-      "d": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "t": "삼성전자·SK하이닉스 급락에 코스피 1.79% 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BTEhFOHVNMjBnZFRaanNhUEFLOEVjdWxqWWtrUFBPZ0JvRG1Va3BjV2VNZ0xYV09MTVBoUnZ0NTktb1JYQzVEdE5VTFgwRVU2dmdRZTVVZ2xLbjdydVptbHFhQlV3cDNQekh3?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-08-28T06:57:05+00:00"
-    },
-    {
-      "t": "[속보] 코스피 1.79% 하락하며 6,700선까지 하락···코스닥은 소폭 상승",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcnBsM1ZnT29TajFhdG5uVDFaMDJlNXQ2eUJWdEZPWHpLOU5iOUZQUzZ2SW9VcXFCRUlrcndNNTJGSUdkM181RHFjRVo?oc=5",
-      "s": "대구MBC",
-      "d": "2026-08-28T06:56:33+00:00"
-    },
-    {
-      "t": "성공투자 오후증시",
-      "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUkydktCbFU0X3N4XzRXNXNncGt0U0RsTndkUEpHdmYxc2tUeUJLamtzbjVSb2NuTHRIOWk2a29iTHdqS0p6RjBiWC1pNkg2aVVLZVdoRGtZNlVISmhkTXZkMEFmc3BiYTZkT2Q0VWI3MXU4NTFsdktyaHlQZXpDaHdwWnlLclZXUk96aEFIRzlGRTJhX3lNYklfRHZkUnp1by1F?oc=5",
-      "s": "한국경제TV",
-      "d": "2026-08-28T06:55:03+00:00"
-    },
-    {
-      "t": "미국, 반도체 2차 관세 검토…노트북·서버 등 완제품까지 포함하나",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZYkZGQVRWRktYUzFzYjlxTDJDek5Xajg1ZXRtTmpRNk9VNHVJRmo4TmN4VzI0bHIycjdJTVBjZ0FucHZFZGtsX256TWNWNHRKa2Y4YV9saXViQkZ0RmUwTXppM0F6UnMtWlE?oc=5",
-      "s": "AI타임스",
-      "d": "2026-08-28T06:53:58+00:00"
+      "t": "美 반도체 관세 우려에 코스피 1.79%↓…삼성전자·SK하이닉스 동반 약세",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aUzJiXzRfOHB1WGdQeDNtYlh6aVFlTFVlZkxwYmVhbFJUeDBMaTIxa1Z3c3VhQzJHNjdjQ1lYcjVyQ2Jxam1XbTFvUDRZaEMwYVNBUnFwT1ROVmVFNWdFdjFzQ2M?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-08-28T07:03:11+00:00"
     }
   ],
   "asof": {},
