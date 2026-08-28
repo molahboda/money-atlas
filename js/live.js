@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T13:15:59+00:00",
-  "quotesAt": "2026-08-28T13:15:59+00:00",
-  "newsAt": "2026-08-28T13:15:59+00:00",
+  "fetchedAt": "2026-08-28T13:30:59+00:00",
+  "quotesAt": "2026-08-28T13:30:59+00:00",
+  "newsAt": "2026-08-28T13:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7730.99,
+    "spx": 7739.15,
     "nikkei": 66405.56,
-    "vix": 14.46,
-    "krw": 1373.96,
-    "gold": 4652.2,
-    "wti": 82.39,
-    "dxy": 99.19
+    "vix": 14.47,
+    "krw": 1374.51,
+    "gold": 4650.3,
+    "wti": 82.58,
+    "dxy": 99.2
   },
   "daily": {
-    "spx": 0.7,
+    "spx": 0.83,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.69,
-    "dxy": 0.03,
-    "gold": 0.92,
-    "wti": -1.36,
-    "vix": -0.34
+    "krw": -0.65,
+    "dxy": 0.04,
+    "gold": 0.88,
+    "wti": -1.14,
+    "vix": -0.28
   },
   "news": [
+    {
+      "t": "‘2026 차세대 반도체 패키징 산업전(ASPS)’ 개막…28일까지 수원컨벤션센터에서",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1cjlGQVNHZnd2UlZwM0tBLXluWWl4M3ZXNkNpTXFpTG1VZ01saS1ieEYxQUZucjlEQlp6b3Y3TXozQUMyOEttRk9ZNF9oajBZaHE4UGo4OUYtUEhuc21sQg?oc=5",
+      "s": "유교신문",
+      "d": "2026-08-28T13:14:43+00:00"
+    },
     {
       "t": "케빈 워시 연준 의장, 잭슨홀 연설에서 무엇을 기대할 수 있나?",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcnFoVlBIZVBwbUlNQWRwU1VYdGdYTGtqYlpCTzd0VWFmdTlkV3FEamU2R3psQ2sxYjRuVXBnWXgzWklwcnRPMG9rbk9CSlJtdkNHVEhNQUR6N19iN2dqaUlaS0hEVDZwMFE?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54dDdvYXFiUWk3bFNVTTQzVWhHb3NkeGswNE1kdEx2NnlKYjA5Si1ZTVlNQ1hyYlRyWXJEdnZyOW1mREpSdC1vWkxscV8yaXVsZEwwNXB4NHFwZmYwNjIwMG5GNFBoei1lbXRxSERsdGM?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-28T10:18:11+00:00"
-    },
-    {
-      "t": "IRS, 外人 비드 우위에 급등…연내 추가 금리인상 전망 강화",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IZVdKOVFKczkzRXZFbGQyZ0J5dnhnZnhJWnRpOG4waVN3bGV4ZHF6Q1BNZUFTa3YyYmRCc2VHaGxjU0RVOEFMMnNwY01NNEFhNW93UHZMZ3c0d01tTHNpbTBNcjlJdHFKM2hXcUJVOWTSAXRBVV95cUxQdmI2eG5ralhaUVc5NU1zV09wTzhsOHhjcTZCX1JIem1DNlUyaVZhUTlGMFlVU1VNWHF3TU8yQnJmcGV4YzJiQ24zVE5aRDU4N3JMZXY2dmtQczl3dWYyQmJEbkNrZWNyeTJYVVQ3RTEyTVJLXw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T10:00:12+00:00"
     }
   ],
   "asof": {},
