@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T13:45:59+00:00",
-  "quotesAt": "2026-08-28T13:45:59+00:00",
-  "newsAt": "2026-08-28T13:45:59+00:00",
+  "fetchedAt": "2026-08-28T14:01:00+00:00",
+  "quotesAt": "2026-08-28T14:01:00+00:00",
+  "newsAt": "2026-08-28T14:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7741.87,
+    "spx": 7747.9,
     "nikkei": 66405.56,
-    "vix": 14.46,
-    "krw": 1374.46,
-    "gold": 4657.5,
-    "wti": 82.58,
-    "dxy": 99.22
+    "vix": 14.54,
+    "krw": 1373.06,
+    "gold": 4663,
+    "wti": 82.64,
+    "dxy": 99.23
   },
   "daily": {
-    "spx": 0.86,
+    "spx": 0.94,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.65,
-    "dxy": 0.06,
-    "gold": 1.04,
-    "wti": -1.14,
-    "vix": -0.34
+    "krw": -0.75,
+    "dxy": 0.07,
+    "gold": 1.16,
+    "wti": -1.07,
+    "vix": 0.21
   },
   "news": [
+    {
+      "t": "뉴욕증시, 잭슨홀 대기하며 혼조 출발",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ka29Sd3B5VHBJMlUxVGxITXl3dTBLdkdFRWVxSWV2V2doOVNhcGMxdkllMXA3SFlFZi1uY3ZDcXkzeDRnM2lRQ1paSXNWMW5rLVJ2LXMzQWM2UkhqdG9ueUNfUEphX2VWb3pON202Um8?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T13:42:08+00:00"
+    },
+    {
+      "t": "[마김시황] 코스피 1.79% 내렸는데 오른 종목이 2.7배…반도체만 빠졌다",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxdnpXNXhwQkJraml0N1ZsOVBhMGtnMzJYZW12NHl1OFVqLXg3ZWVLTDB1S3U5V3ZyeDZQaHIzNnVaS0pxX25DT1NkbWpDc0czN1VPMTFGSWtxeWpsMC15N3NMZmZuaE0?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-08-28T13:41:22+00:00"
+    },
     {
       "t": "미 국채 약세…연준 의장 잭슨홀 연설 앞두고 경계",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OaV9lOEtkTGpMQXpfenVYTzhMSXdFTnJHMWl0YzBKRWRETlF6cHFXMFpKOGt1X1hTQlhLMnJjSWVYYmlCOVA0eUNBZlVfZDZtVmFSSVdZMnpOR2ZSRHdSQk1mM2Y5NUdrbndnc1I2UjE?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-28T13:38:14+00:00"
+    },
+    {
+      "t": "[외환] 환율 1372.5원 마감…한미 금리차 0.75%p로 좁혀졌다",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWnlPQmYwNWNKOWJ6elRrMXVEWDdQLTRrZURDeE4zOUVTUnpqcUpMSDhuTzM3a2ppcjk0Q0JPdG5MVElrdzhSS2s4c3E3TkMyaVdORVBmTnJvQUViRWdNcU5RY1VSUFU?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-08-28T13:38:09+00:00"
     },
     {
       "t": "올해 충남 수출 130% 급증…반도체가 견인",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqWm5JTXNld29reGt4akRkX3dIRnQ1am94VTNIazFMQjJQQnp1TEVBUFBnSVU1ZmpWck80UktqV2tPai1VN1gzbHRyR2IzTFB4bG1Ma2cyS05oQmFsNXdhUFBra0Y4UzVMZHZHWV9iVUVQUQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T11:57:10+00:00"
-    },
-    {
-      "t": "연준의 금리 인상을 촉발할 수 있는 요인은?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwV0JWTUFYbnZBLXNMMzBKaV9UNmpnSktkNnBEOVA5ZG5wcTZyeDFuNmdGdjhLQ0pJTXhBTUc1RlRWaktnNXVWdWVkc2tJTS1KLTRTWkxLNUlOTVhsekxMUUVZdExjeHFCNFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T10:30:00+00:00"
-    },
-    {
-      "t": "니덤, 최신 트래커에서 성숙 노드 반도체 강세 확인",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNYW9aRmNjVnFwcHAxd2ZHZzFFWXdFRFNMbUJuLXlVS3dmUEVJR1pQT1UyVjlYcjZyY09FRDhrZDJoLTJ6a1VNZ1o0RGlXRjhkWXgxR2EySEpwZHBXWlAxSXdsVXdFSlJCTVplYUJleVFjTElySG5n?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T10:25:00+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 워시 잭슨홀 연설 경계 속 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54dDdvYXFiUWk3bFNVTTQzVWhHb3NkeGswNE1kdEx2NnlKYjA5Si1ZTVlNQ1hyYlRyWXJEdnZyOW1mREpSdC1vWkxscV8yaXVsZEwwNXB4NHFwZmYwNjIwMG5GNFBoei1lbXRxSERsdGM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T10:18:11+00:00"
     }
   ],
   "asof": {},
