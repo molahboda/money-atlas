@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T12:30:59+00:00",
-  "quotesAt": "2026-08-28T12:30:59+00:00",
-  "newsAt": "2026-08-28T12:30:59+00:00",
+  "fetchedAt": "2026-08-28T12:45:59+00:00",
+  "quotesAt": "2026-08-28T12:45:59+00:00",
+  "newsAt": "2026-08-28T12:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.44,
-    "krw": 1374.08,
-    "gold": 4650.6,
-    "wti": 82.85,
-    "dxy": 99.21
+    "vix": 14.46,
+    "krw": 1374.19,
+    "gold": 4644.5,
+    "wti": 82.75,
+    "dxy": 99.23
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.68,
-    "dxy": 0.05,
-    "gold": 0.89,
-    "wti": -0.81,
-    "vix": -0.48
+    "krw": -0.67,
+    "dxy": 0.07,
+    "gold": 0.75,
+    "wti": -0.93,
+    "vix": -0.34
   },
   "news": [
     {
-      "t": "뉴욕증시 프리뷰, 워시 잭슨홀 연설 대기…AI 랠리 숨 고르기",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tRks2ZXN4LUF0c0didHlhUnpBbTV3WExRcVBlRnNtYUdWd2xsdkE4MllLWU1HVWhEOWdWUGsxZW1xWlVxYmo4amxzeXBaNFZyYy1fd0xSeHdqVEpa?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-28T12:26:00+00:00"
+      "t": "달러-원, 뉴욕장서 1,370원 중반대 거래",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tYUpPNi1KWDF6b19xejUtU2ZsTlEydUVxeFNDaTRJMWhqQVJuMDJOcVRRQWRPRFpHNkhIdHhxMXFGNGdPcmFtVktNSlpHTlJoMUs4U3ZIRGtzcjZIaWVaVU1fQUt3Q003eENNakthYnBWUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T12:32:12+00:00"
     },
     {
       "t": "미 달러화 보합권 횡보…연준 의장 잭슨홀 연설 앞두고 '신중 모드'",
