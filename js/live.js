@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T03:45:59+00:00",
-  "quotesAt": "2026-08-28T03:45:59+00:00",
-  "newsAt": "2026-08-28T03:45:59+00:00",
+  "fetchedAt": "2026-08-28T04:00:59+00:00",
+  "quotesAt": "2026-08-28T04:00:59+00:00",
+  "newsAt": "2026-08-28T04:00:59+00:00",
   "quotes": {
-    "kospi": 6839.54,
+    "kospi": 6825.11,
     "spx": 7730.99,
-    "nikkei": 66810.97,
+    "nikkei": 66493.56,
     "vix": 14.51,
-    "krw": 1376.53,
-    "gold": 4635.8,
-    "wti": 83.17,
-    "dxy": 99.15
+    "krw": 1376.83,
+    "gold": 4632.9,
+    "wti": 83.12,
+    "dxy": 99.16
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.46,
-    "nikkei": 1.03,
-    "krw": -0.5,
-    "dxy": -0.02,
-    "gold": 0.82,
-    "wti": 1.14,
+    "kospi": 0.25,
+    "nikkei": 0.55,
+    "krw": -0.48,
+    "dxy": 0,
+    "gold": 0.5,
+    "wti": -0.49,
     "vix": -4.6
   },
   "news": [
     {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcFdpTWhibEFsNVFSeGlPVmp6Y3I5RXZjYmhzRE45cldyZjJ5c2o0S1BPbEFLVUdtbzBQS0FfVWtDeGlZVXNOWGY5eE9WM2V3NGRRN0N6d3ZXLUFFVDNXXzZFNDdNYVRsd2NaQ2Rua1pIQkRzaEFOMtIBeEFVX3lxTE9ua3RMaWZtVjFDLXFoTWJEWXZEQ0UtZHVtSmYwellpQ0xnZWVUVm02VDdiU0ZfTDhRV1RsbDFQb1NjUjBjc0E0eXpURjJOcUFIakF1T01wUVRkRFl2UmU2WjVyYUt2bWlMdUM2ZHhGVTQ2Nk1kaXQ4Vg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-28T03:20:58+00:00"
+      "t": "트럼프 행정부, 고강도 반도체 관세 카드 만지작···대미 투자 압박 수단되나",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dEIyZms1U3l4bFp5UElOejJ1REpxR3Y0MlFyRkw3ODJxTjAwWUprRDc3eC1XOTZublZEMGZ4U0ZsTml5Tld4TFNYMm9jeUNGemZXd1lZR1pFQdIBX0FVX3lxTE4yNlBOSVFmM2ZSdENNM29PTjVNazZWdVc2anNYVkhBQl9lcFJndHJMQ1FEc0l2ZEN2QkRnb0o0UDdydlY4VDBQdmNCNHJTQ1RfR1NQcmJ0cGtoNzNjeE5v?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-28T03:37:00+00:00"
     },
     {
       "t": "아시아 증시 혼조, 워시 연설 앞두고 코스피지수 하락",
@@ -47,12 +47,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GS2VaNEhZcmpodW95eDFONFR4ZlZhSTZSR2xpcldodHNVazRZOGhFTzFXaFBCMW0yVS1aYkUxcllsVlhqQXVKLWt3ZlY0VzR4a1ZZSGNPOWNoTnFtWEluWGZEbHZCQVhWQ3BoM2VzRGYxbXhL?oc=5",
       "s": "조세일보",
       "d": "2026-08-28T03:13:58+00:00"
-    },
-    {
-      "t": "7월 말 외화예금 1,283.4억 달러…환율 하락에 달러 예금↑",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZnExakZMRGhwSlNSZFNjc3dLT09nS3ZHMmFTQnpYb2Y0clZpVWxVSkt0bE1mQnh1R3h2dFM0aHhfYUJQY1pUeUV5QTVjbHowd3ZjY05RZFBncUk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-28T03:01:00+00:00"
     },
     {
       "t": "한달새 원/달러 환율 125원 떨어지자…달러예금에 '뭉칫돈' - 머니투데이",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YnlHckJYVVczM2xiT29uMnM1RkY1UVo5ZWRmWFBsWmdzSXNXcUlyWk5IMlJBV1JjeVI5QV9acEpQbGU5aXhuMThaZk1BcWs?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T02:43:19+00:00"
+    },
+    {
+      "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMlpkT196Qk5tSjcyYWdFeEtKM3ZKYVREdkxSVEFQUmJfeTdFUTVJN3h6RERsbTR5b0tpdHp1b21fazNER0VzeUJ2Z3JZaU8yemtwVVU4OTh5S0x4TXVhNGVLS1ZSOGFRU2FmdWJXak3SAXRBVV95cUxOVVM1YlhNT2VHT1pHS3BjTjlHeXU1WHUyMHRzU053UGF6WXByVENwcXVPN0FpSktPeml5SVdBaGRVeGJtVjFTS0kyQjNXaWxXUnZXMW9EeFlFdm5JdjRIV2htUmJBUHRLQlJadDNVcGdQSUtIaw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T02:40:03+00:00"
     }
   ],
   "asof": {},
