@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T11:45:59+00:00",
-  "quotesAt": "2026-08-28T11:45:59+00:00",
-  "newsAt": "2026-08-28T11:45:59+00:00",
+  "fetchedAt": "2026-08-28T12:00:59+00:00",
+  "quotesAt": "2026-08-28T12:00:59+00:00",
+  "newsAt": "2026-08-28T12:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.46,
-    "krw": 1374.68,
-    "gold": 4649.8,
-    "wti": 83.12,
-    "dxy": 99.18
+    "vix": 14.48,
+    "krw": 1374.15,
+    "gold": 4647.3,
+    "wti": 83,
+    "dxy": 99.19
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.64,
-    "dxy": 0.02,
-    "gold": 0.87,
-    "wti": -0.49,
-    "vix": -0.34
+    "krw": -0.68,
+    "dxy": 0.03,
+    "gold": 0.82,
+    "wti": -0.63,
+    "vix": -0.21
   },
   "news": [
     {
@@ -35,12 +35,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vaW5IakFZWEZ4RzRLbFZXOGZVY1BzMG5vQV9XOXVHd0xZTk91NmZSTGRBNWZIVVRVdGtoQTRIeTNKU0Y0NTRWOWZLWjNQUQ?oc=5",
       "s": "매일경제",
       "d": "2026-08-28T10:45:34+00:00"
-    },
-    {
-      "t": "잭슨홀에 뜬 매파 \"美 금리 높지 않다\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aVVscnB5ZW4tTWt6WHQ3cHpSa2pkamNkclg4b3pGRTR6a01oQTlGZjNOY1lIZkY5TTdnMnhWUjBNUWw2V0VUVVRHcFdWdW5fMmZKTkFmYldOZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T10:41:00+00:00"
     },
     {
       "t": "연준의 금리 인상을 촉발할 수 있는 요인은?",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15ZmlkeWZDeWRvMDZ1VHR2aDE1WEFLSVMwRzlVMEFKakQ3NFJMSmJ2ekxHelV0eUNpLVRJemhMVkltRjRIRzZleHVLRVpSaGFteTgwdEVmUGM3UdIBX0FVX3lxTE1NUi1naGU1TlRqalNnQVdfYldfeEw3Nk9oUkpIb2FxdWNGRnJaTkk4OG5WTmN5RTZkaXVDWnJ5WkZaTDVnOUx0aGQ3TG4tM3NJcmNVbjBDTmUtOFdoR3ZN?oc=5",
       "s": "경향신문",
       "d": "2026-08-28T09:54:00+00:00"
+    },
+    {
+      "t": "원달러 환율 1,372원‥작년 7월 이후 13개월 만에 최저치",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kdUM5dTRBb01MVHRQSTlSTlV5aVVvalJWN2lDQ3Y1bFc1NFNtbzZOd1VkXzRaN3V4TEk4MzlWN1J4ejg0MHhuRTdLbTJacXhVR3EwRDVabzV6NFN4X2NnR2VaTFdUY0NZT3dZcUtodkRVZ0810gF0QVVfeXFMT0hVc1RqQlo4NHYzZkdVN2NIN1pjRHdCQUZWNGVid1pFMS1CdWJwdVJCenVZWE5PVmh3RTNCLXdMa1JYQUlaOWxJSkNid0sxNkNKeHhJdVR3S2JQTUxESGowSUFXWldXS0h5OVFpdnZhSnZQMGQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-28T09:41:50+00:00"
     }
   ],
   "asof": {},
