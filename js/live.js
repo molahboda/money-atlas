@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T19:45:59+00:00",
-  "quotesAt": "2026-08-28T19:45:59+00:00",
-  "newsAt": "2026-08-28T19:45:59+00:00",
+  "fetchedAt": "2026-08-28T20:01:00+00:00",
+  "quotesAt": "2026-08-28T20:01:00+00:00",
+  "newsAt": "2026-08-28T20:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7710.95,
+    "spx": 7711.48,
     "nikkei": 66405.56,
-    "vix": 14.47,
-    "krw": 1378.17,
-    "gold": 4513,
-    "wti": 83.41,
+    "vix": 14.46,
+    "krw": 1378.62,
+    "gold": 4506.5,
+    "wti": 83.39,
     "dxy": 99.66
   },
   "daily": {
-    "spx": 0.46,
+    "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.38,
+    "krw": -0.35,
     "dxy": 0.5,
-    "gold": -2.1,
-    "wti": -0.14,
-    "vix": -0.28
+    "gold": -2.24,
+    "wti": -0.17,
+    "vix": -0.34
   },
   "news": [
+    {
+      "t": "피터 시프 \"워시 매파 발언, 9월 금리 인상 기대는 잘못\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNWXQwWDJ4eXotY3JWckM0SjgweThRMkdvdnhKU2FpWGRkaWlncXJDYUFXTnp5eHJRM0JTYkw5ZE9aNmVGRXZPcHFna0tEYkdp?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-08-28T19:50:00+00:00"
+    },
     {
       "t": "케빈 워시, 첫 잭슨홀서 물가 경계…\"2% 안 가면 할 일 남아\"",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRk1tek5JWlFVaDdoV3dSaFdkNUlOeFpNUTBtMVZZTTNPNHE0UGQ5aUhiQ3dWdlJoT0YtdWhDNzVsLVZzNXNNZ2U3WklMS1ZfQm9fSzZkTm81WWlZNmRLaC1EYWE?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaEM5WDl4SGdGMjF3ZTQxRDRONVlFNV9yTFNfa1hiREVrTVN1MjRweEZsOUZQZjRtQTF5VnE3aTh2N3MwQVBhT2VXMlk1U0s4UGJmRmNMUjZNYjll?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-28T17:16:00+00:00"
-    },
-    {
-      "t": "워시 연준의장 \"美인플레 우려스러워\"…추가 긴축 가능성(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYUhYVk5UVlVJNUQ2STRDUmhEOVVVQWZzOFBNZHRjWHZ2bTk1c19ManNqTGtxN3k5U1EzcHh0VmRaX0ppbWNKTlpJZWtDSUVHN1FxQ0lhODlLS3FoTERia9IBeEFVX3lxTE5lTERnaFRtNmJpRVFOQ0xVLTI2S0VZZU9HNi1qSnFnUU8yV3B5RDJybmplTjFkTHlFOVBPelhELXhuM2IxS1hzTnJzSVFvZEptZlMxRUp5SnRaYmlZTVZXVk9mNDBFYjFIY2xFTUpzVFpSeC1IbzdJTQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-28T17:11:34+00:00"
     }
   ],
   "asof": {},
