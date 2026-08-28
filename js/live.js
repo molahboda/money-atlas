@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T21:30:59+00:00",
-  "quotesAt": "2026-08-28T21:30:59+00:00",
-  "newsAt": "2026-08-28T21:30:59+00:00",
+  "fetchedAt": "2026-08-28T21:45:59+00:00",
+  "quotesAt": "2026-08-28T21:45:59+00:00",
+  "newsAt": "2026-08-28T21:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "워시 “해야 할일 있다” 발언에…9월 금리인상 확률 57%로 껑충",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Ql9jNi1yUTQyLU5NVXZCWnN0YXRDazZGb1hWMThGS2U2MkF0cVN3UVN3a3FCV19pTXdQYndzc0NLemNhLWNVNHJfSnB1S3ktdWVhQ1c1aWRjRE0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T21:32:00+00:00"
+    },
+    {
+      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82YXRRam11V3R4YUR5aWRDV2E3bm5fSkpKYWNXWUhDZmVzdndGbFRLT05lYlYtV0NxYTVYWjluNzdzT01EaGNLeDFFUldtbVE5UGJad0RjWFVuWEQ2N1E?oc=5",
+      "s": "YTN",
+      "d": "2026-08-28T21:27:00+00:00"
+    },
+    {
       "t": "[뉴욕유가] 호르무즈 해법 기대 속 워시發 강달러에 하락…WTI, 0.16%↓",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56cTNSZUZRVDZ1aFJ0UXAzQWJfY2JkM29VMjljRDh4VUdhZUNVRmpIV0hfSlRwZjRfU00xNHI2NkpPTC1pSGF1OXU1MTdaLUs0NFpLTjM1WmRrLWl2LW1fSjRzd0lOTGdpWlNwdy02Ym4?oc=5",
       "s": "연합인포맥스",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZTTU2ZU1mV01WWEJncVYxdmM0X0pUU1BWc2hPYlpRM1ppMlQ3eHYzRXVoeWppZjdqS2tFU09YamMyUW0zT1FZYVF0OU90TDRGOWc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-28T21:21:18+00:00"
+    },
+    {
+      "t": "트럼프 금리 인하 요구에도 워시 또 '긴축 카드' 경고…\"정책 소신 밝혀\"",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mOE5vcDgwWW16WGdiWF9ERXlkM0EwbDdZNy00a2V5X3k0R0VuN1lKSkVtQ2lHYW5yQUJHZmVla0ZzVEJNVXVtLU1lSjI2OEFPbVZnR2lMLVDSAV5BVV95cUxQakZhWXlpSlhWVGNiTkNpaDBEdVdYX1BDWHZiZENvZXNjNE0zeEFpQUtLNWlRNkY3bDhxWHNxbXhuNXpMOTJ5LWFONTlfQ0pFd0FvUkJPU25BcFl2ZXhB?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-28T21:19:56+00:00"
     },
     {
       "t": "워시 ‘매파 본색’에 9월 금리인상 55.7%…뉴욕증시 반락",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44dUdZbm9reXBfVmR0MzV6aHA0cGN2TlQyYmtuS2pZU3hiRGR3dFFfVlNMclZEMTVMRm16QTlBLWxBNUlvVWxTMmlxenFPYlk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T21:06:00+00:00"
-    },
-    {
-      "t": "[3040 엔지니어] AI 수혜 맞춤형 반도체 플랫폼 기업 세미파이브… 윤석현 전무 “어떤 반도체 요구해도 해결방안 제시할 수 있어야” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzN4RlRSZm5RODFZWGxtTm9PM2tULXFaS2xSQUlabHBFMWswVVdyU28zcTRTSHpnMC1NQWxyU1BpUFloQTRXV29KQ0MtdkhEU21JaU1XUVhrVWpZQmduNm8zOW1oYkJxNzM4UGtPX3hSQTRoTkRnUUwxVnJzSlp0S3lR0gGWAUFVX3lxTFBxMVZwdEN2VFVRQUxKZEtWSTU4ZVJuTU82a1lyd1g0N1FwYkoycm1EdlN5N29YbDZsUmFCaWg5ejlCWGREWnRTX1lRTzZYUVJ1dDloUkxEZDVzTmZQNENQZGlMRklSaldGVzRMUjI4Sk56Qmo1VWhQLXFHN3EwQVBPT1FrOWd4V29jbGJwU1VpblNRTGROUQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-28T21:04:32+00:00"
-    },
-    {
-      "t": "뉴욕 증시, 워시 연준 의장 매파 발언에 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5odHNoQk4xeXJXcnFwTDVXT2lZSURnd3VZWGlzNzdxNGRiMG5iQUdKeVBnZmtsM0pvQklES2JBOVdoaWxRdzR2VUwyVUVGT2t6MExBblVyWlJsQ2pVOUE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-28T21:01:00+00:00"
-    },
-    {
-      "t": "“반도체보다 6.5배 크다”…경북도가 찍은 역대급 미래 먹거리",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBra0VOa1NBcGp2SHVPN2RLelpXelZzSVU3OFZTSXhHQ05CWVlLOTlpT3llU1QtTVNuRmVwZnhCTGMyYWNra2M1MEk2VTFmTkt4blA0OGhR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-28T21:00:03+00:00"
     }
   ],
   "asof": {},
