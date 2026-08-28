@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T23:30:59+00:00",
-  "quotesAt": "2026-08-28T23:30:59+00:00",
-  "newsAt": "2026-08-28T23:30:59+00:00",
+  "fetchedAt": "2026-08-28T23:45:59+00:00",
+  "quotesAt": "2026-08-28T23:45:59+00:00",
+  "newsAt": "2026-08-28T23:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,16 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美 엔화 매수 개입 옹호한 베선트…미국 금리 상승 위험 거론",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbHp3ZUlqVk5fY3hZTEpULW9FVTJ6Y0RTQjUtRUVCUTlRN1lqOVpUVnlsMkxlZ0JIUk1YTUxYb0FIbmVwenFRbzlLdHExZVpaUzRfa2JNSjNIQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T23:24:13+00:00"
+      "t": "케빈 워시 미 연준 의장 매파적 발언에 9월 금리 인상론 부각",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vZ0dJbHRUT01uazBuU1dkME4tcU15d2EtN1Z4eGExS2NTVzFYZnd0NVg2WVMwNjNTWXVnckhIMndKQjctN1Rlbm40UmQwakNTeU16bGpHZnRyWjhobHlzeXF0b0k1Q1Z3RFZJ?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-08-28T23:37:22+00:00"
     },
     {
-      "t": "비트코인 8만달러대 안착…국채 바이백·규제 완화에 알트코인 순환매",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5OUhCQWNPZWQtTF9pbzJGcWdaY0NkU1QtWXZFNFlMV3NDSTlEOWJDMVQtOEV3d1ZEUnptcTgwUmRQS0lXMkRBdW5wVEpYRXEwc2x3MENtb08zRVhrN21Wa1dfWXJqQ3c2Qktnbkdrb1lTUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T23:15:00+00:00"
+      "t": "뉴욕증시, 9월 금리인상 경계에 일제히 하락…나스닥 0.52%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMelI5dHB3WG56U0cycnFhR0VJS1duWHNPVGQwemhKWW5TNTBuMTNtdEFkUjB6ZUt5UGlhaGtRSDBYdktQZHJRdXR3QlRqWWl1QVVSdW1BY1FTNWgzTVJTLWZ0WHhCdVVGcXNzUUtSS3HSAXRBVV95cUxQMndlZ1dhSjZmMlRqMW11NkZkckl2RTBtU0JvQVhDSEVpeFpsdG8wQmkxRjh1SmZIakxkVEJpZnJUNmdRS0lyS3dfME9EX1ByTjR0b2xfQUotLTZmY3hTdFQxbXlSU1NjR3NVMGZocG14c2M1Rw?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-28T23:36:27+00:00"
     },
     {
       "t": "워시 ’물가 경계’에 뉴욕증시 약세…9월 금리인상 확률 57.5% By Bloomingbit",
