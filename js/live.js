@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T11:30:59+00:00",
-  "quotesAt": "2026-08-28T11:30:59+00:00",
-  "newsAt": "2026-08-28T11:30:59+00:00",
+  "fetchedAt": "2026-08-28T11:45:59+00:00",
+  "quotesAt": "2026-08-28T11:45:59+00:00",
+  "newsAt": "2026-08-28T11:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.48,
+    "vix": 14.46,
     "krw": 1374.68,
-    "gold": 4651.7,
-    "wti": 83.14,
-    "dxy": 99.19
+    "gold": 4649.8,
+    "wti": 83.12,
+    "dxy": 99.18
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.64,
-    "dxy": 0.03,
-    "gold": 0.91,
-    "wti": -0.47,
-    "vix": -0.21
+    "dxy": 0.02,
+    "gold": 0.87,
+    "wti": -0.49,
+    "vix": -0.34
   },
   "news": [
+    {
+      "t": "트럼프, 대서양·태평양도?…관세 충돌에 '지명 도발'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84MXJGZF9pMVZlZkJpQ2tvcVN4ZENxcnZtX2hnSWk0TXItWkZQTlB5U0liX3BkQnB4VEg1NzdpRFg2OGJjYnlQMDlER0RqV0E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T11:03:05+00:00"
+    },
+    {
+      "t": "“월급쟁이가 그저 봉이지”…대출금리, 기업은 내리고 가계는 올랐다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vaW5IakFZWEZ4RzRLbFZXOGZVY1BzMG5vQV9XOXVHd0xZTk91NmZSTGRBNWZIVVRVdGtoQTRIeTNKU0Y0NTRWOWZLWjNQUQ?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-28T10:45:34+00:00"
+    },
+    {
+      "t": "잭슨홀에 뜬 매파 \"美 금리 높지 않다\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aVVscnB5ZW4tTWt6WHQ3cHpSa2pkamNkclg4b3pGRTR6a01oQTlGZjNOY1lIZkY5TTdnMnhWUjBNUWw2V0VUVVRHcFdWdW5fMmZKTkFmYldOZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T10:41:00+00:00"
+    },
     {
       "t": "연준의 금리 인상을 촉발할 수 있는 요인은?",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwV0JWTUFYbnZBLXNMMzBKaV9UNmpnSktkNnBEOVA5ZG5wcTZyeDFuNmdGdjhLQ0pJTXhBTUc1RlRWaktnNXVWdWVkc2tJTS1KLTRTWkxLNUlOTVhsekxMUUVZdExjeHFCNFE?oc=5",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T09:59:24+00:00"
     },
     {
-      "t": "원달러 환율 1,372원‥작년 7월 이후 13개월 만에 최저치",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWaEpUNkpZLWZITjJ4aWFTTjZNVFlMbW15YzhCZndDcDRrLTU3aGNsRGU0VmFKODNvYjVCYmotblZoVm9neHBUSVhiblEyS00?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T09:46:09+00:00"
+      "t": "‘반도체 클러스터 부지’ 광주 군 공항 이전 후보지로 무안군 망운면 일대 선정",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUU0xZbV82ODJGMk1TTUJaYV90U0VjNlF0N1p0ZEl2MUpQR2pRdVp5Um9rMFlNTEJJcU15SzQxbG1NcFNiSm1nckxEZDZiQ3U0bjZqa3VqS09fd9IBX0FVX3lxTE1OYmdlNE1wbXYycWwxM0pYd19KZ0tYNnFrRzFhWHlHX1dzc0lEMWs4SnZJRWZMM0tIZk9ZYW5maENFb0dzNVZkTEhhRWYzcFE2dW03U2JkNjhIazZ1LWFv?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-28T09:59:00+00:00"
     },
     {
-      "t": "엔비디아 훈풍 무색…코스피 1.79% 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTVc5RzFQVWVfY1A4ZEdpWmdwZGliMHIwU2dOdWhqSUduRGtFQi0tSU9SNVZyMDA1U3Vjb01BX0VNVXFfV2YyQlpMaW9ERDFGaWdNRFRST3pGNWlTX3RaSFhsSTBoNnc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-28T09:33:00+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 반도체주 약세에 하락 |",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmQW93MlJPaDE3ZlVTNEhWVE01cDZveFBXYkxwQm9wQ3FUeDh5cUNXLXhLcjc3QjBubmNvRlh5Mkk4Ykl5aTZzcGNuMURQM3I0QlN2TzNIenVYcHJLMnk4MmFMQmdicHRZdl9vRmpqNWltZXQt?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T09:28:35+00:00"
-    },
-    {
-      "t": "연준 덮친 인플레이션 경고…내부서는 이상 신호 [지금이뉴스]",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uSmUyMS10S1Q1QTUwRkV1UlhyUS1qQ1IzS050SGdUN0dTU1l2eS1JUnlsUHJNREZ6VlVtb053QkZZNkpraU9qQkRpUGpCdXplSGpTT1U2Rmx6bWY0M3c?oc=5",
-      "s": "YTN",
-      "d": "2026-08-28T09:20:00+00:00"
-    },
-    {
-      "t": "호남반도체, 부지 난제 풀리고 지원책도 '착착'…2030 양산 속도",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWUZZN0lINjhoLWFHZHRKQXVwMkVkdkwybml0Y2xHWDd3Tk9oaVBBYUZjcUN0Mll3VXg1QUtQdjNlWW9GYWlWaDhJaTRzWHpvNnBYVktsV2NuQUFuZ056d9IBYEFVX3lxTFBKWUZZN0lINjhoLWFHZHRKQXVwMkVkdkwybml0Y2xHWDd3Tk9oaVBBYUZjcUN0Mll3VXg1QUtQdjNlWW9GYWlWaDhJaTRzWHpvNnBYVktsV2NuQUFuZ056dw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T09:17:17+00:00"
+      "t": "반도체 산단 들어서는 광주 군 공항 무안으로···‘이전 후보지’ 확정",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15ZmlkeWZDeWRvMDZ1VHR2aDE1WEFLSVMwRzlVMEFKakQ3NFJMSmJ2ekxHelV0eUNpLVRJemhMVkltRjRIRzZleHVLRVpSaGFteTgwdEVmUGM3UdIBX0FVX3lxTE1NUi1naGU1TlRqalNnQVdfYldfeEw3Nk9oUkpIb2FxdWNGRnJaTkk4OG5WTmN5RTZkaXVDWnJ5WkZaTDVnOUx0aGQ3TG4tM3NJcmNVbjBDTmUtOFdoR3ZN?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-28T09:54:00+00:00"
     }
   ],
   "asof": {},
