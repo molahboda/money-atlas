@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T16:01:00+00:00",
-  "quotesAt": "2026-08-28T16:01:00+00:00",
-  "newsAt": "2026-08-28T16:01:00+00:00",
+  "fetchedAt": "2026-08-28T16:15:59+00:00",
+  "quotesAt": "2026-08-28T16:15:59+00:00",
+  "newsAt": "2026-08-28T16:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7728.18,
+    "spx": 7725.28,
     "nikkei": 66405.56,
-    "vix": 14.28,
-    "krw": 1379.26,
-    "gold": 4589.8,
-    "wti": 83.16,
-    "dxy": 99.57
+    "vix": 14.57,
+    "krw": 1379.54,
+    "gold": 4566.5,
+    "wti": 83.01,
+    "dxy": 99.59
   },
   "daily": {
-    "spx": 0.68,
+    "spx": 0.65,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.31,
-    "dxy": 0.41,
-    "gold": -0.43,
-    "wti": -0.44,
-    "vix": -1.59
+    "krw": -0.29,
+    "dxy": 0.43,
+    "gold": -0.94,
+    "wti": -0.62,
+    "vix": 0.41
   },
   "news": [
+    {
+      "t": "케빈 워시 “높은 물가 우려…금융여건 긴축적이지 않다”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56YWJHVXpIdDl1MHhkQ2ZpNzdjTnVFR2JYaGRrSjVIdjBzMW1rWTQ4MkpLSDExZlI3V2wwRVZ3NVVyZFpRaGs4YlNPTDJBMW1yYmFvaF93?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-28T15:59:44+00:00"
+    },
     {
       "t": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\"",
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdV9vdVhmWWQ3Q041cGowSm1PbkVaUWVpeUR0N01nNENibWFUMGxmckNsMWtiNkozcDF3OGliTXFzWlEyQ1JfNnpmQkpKS1N5b1UzOHlnVFBMUjBMbmpRVlZVaXZNckM4R0ZZR0t6R1haMGFybHZKUWRWb2lqNXY5T1dwNA?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcTZOSkJSQmI3ZTVVTnRQcmVKNTV0TGZyTlNoUEIzMEI3SGprcHotZXkxMTJmbm5UZTY5czZKVGowOFB6NFlBU29Qb1NkNjNYTGZwS2wyaFhrb2tXQ0d3Nm91U3k2V1hYOVdDTmhSaEtoQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T14:50:46+00:00"
-    },
-    {
-      "t": "[속보]美 연준 의장 잭슨홀미팅 기조연설…\"물가 상승률 우려\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53c3dwYkFhSU92X2kxakJsb0lPcVhSdUY5eWEwdWF2eE9pNVBoWWxIanF2Z0huYzFlN2V1UmJRdVRJeklCQVVocFhYaEFfaVNqNk9GOGJtbzcxc0loTG43Uk1ZVWMyX1ZT0gFuQVVfeXFMTmlHd2RZUXB3Y2NfUzI0TnplaHVCOFlock0ycGhnVnRtSDY5OEJPdXlERGN4UFhTWDZYWmRmQ3p5djhQLVRYNmFBcHBTMjZWaEU2eFUtR05oSFlTUXhremtEZjJiRXlBNk1EN0dQZXc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-28T14:35:35+00:00"
     }
   ],
   "asof": {},
