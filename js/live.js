@@ -1,35 +1,29 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T16:30:59+00:00",
-  "quotesAt": "2026-08-28T16:30:59+00:00",
-  "newsAt": "2026-08-28T16:30:59+00:00",
+  "fetchedAt": "2026-08-28T16:45:59+00:00",
+  "quotesAt": "2026-08-28T16:45:59+00:00",
+  "newsAt": "2026-08-28T16:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7717.1,
+    "spx": 7721,
     "nikkei": 66405.56,
-    "vix": 14.48,
-    "krw": 1378.88,
-    "gold": 4526.6,
-    "wti": 83.16,
-    "dxy": 99.67
+    "vix": 14.74,
+    "krw": 1379.91,
+    "gold": 4527.1,
+    "wti": 83.24,
+    "dxy": 99.66
   },
   "daily": {
-    "spx": 0.54,
+    "spx": 0.59,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.33,
-    "dxy": 0.52,
-    "gold": -1.8,
-    "wti": -0.44,
-    "vix": -0.21
+    "krw": -0.26,
+    "dxy": 0.5,
+    "gold": -1.79,
+    "wti": -0.35,
+    "vix": 1.59
   },
   "news": [
-    {
-      "t": "고물가에 꺾인 美경제심리…연준 의장도 우려 '통화긴축 시사' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRFpRWnV3a3RaRTZCN19fWjZvVnBTODNJWG9PWm1HSlF3S2NYQVVaZEFQM2lOcjh6emRMTDdhYXgwV2IwM3VWR1RvZlBUTkI0TzhYR2RhbnpIYXVwd25Hb3ZhMGV2LWt40gFuQVVfeXFMUE5ia0pWbHlhVmpXMVJ5cVdTbUgxTnlVVXJuUU1qdmtwbWdCemJfRWp1NnRtM1ppWGMzTXFxUkphXzc2QXRMVEcxVVRSZEhaUzJSei1mTENyRC1XMXZJTGpQWU9YRlg5bHpGbGlZd2c?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-28T16:06:03+00:00"
-    },
     {
       "t": "케빈 워시 “높은 물가 우려…금융여건 긴축적이지 않다”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56YWJHVXpIdDl1MHhkQ2ZpNzdjTnVFR2JYaGRrSjVIdjBzMW1rWTQ4MkpLSDExZlI3V2wwRVZ3NVVyZFpRaGs4YlNPTDJBMW1yYmFvaF93?oc=5",
@@ -52,6 +46,12 @@ window.LIVE_DATA = {
       "t": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\"",
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdV9vdVhmWWQ3Q041cGowSm1PbkVaUWVpeUR0N01nNENibWFUMGxmckNsMWtiNkozcDF3OGliTXFzWlEyQ1JfNnpmQkpKS1N5b1UzOHlnVFBMUjBMbmpRVlZVaXZNckM4R0ZZR0t6R1haMGFybHZKUWRWb2lqNXY5T1dwNA?oc=5",
       "s": "조선일보",
+      "d": "2026-08-28T15:36:00+00:00"
+    },
+    {
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 8월 28일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclFaX2wwVnRvVkhDSDRnMUZkbTBXM3EybVhXS2labnRaZHlTMndqZEdjeWJPbWFSaU5YYjY5bkY5QWRhbVJCT1RJVzYyeHVIeGxHLXR6TXI4RUlIRE5Mb01JUENGaW9JVGVKWVJNZjRCQUFsRndkRzgtMUNtWGl3Y1VDV2ZwNE5u0gGcAUFVX3lxTE9UWWIwSnhtWm5FNHlkekZsdWJfUEhaaG1ZQjJmaHZVbVlwRnpjYVozWUhubU5CamtaQlQ3Q3ZBRzhpX3F5Ukl2NkxZcnpCNlVMRmhGN2RVcGpneW01UFplakpidVA3NHRoMTg1YnhBV0JGSVUydkZ0MV8wbEZaY293eXVBUF80VkRyVUpyWEhrUl9MelZFWm14RHZ1OA?oc=5",
+      "s": "Chosunbiz",
       "d": "2026-08-28T15:36:00+00:00"
     },
     {
