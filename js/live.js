@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T10:45:59+00:00",
-  "quotesAt": "2026-08-28T10:45:59+00:00",
-  "newsAt": "2026-08-28T10:45:59+00:00",
+  "fetchedAt": "2026-08-28T11:00:59+00:00",
+  "quotesAt": "2026-08-28T11:00:59+00:00",
+  "newsAt": "2026-08-28T11:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.47,
-    "krw": 1374.82,
-    "gold": 4659,
-    "wti": 83.38,
+    "vix": 14.49,
+    "krw": 1374.78,
+    "gold": 4654.1,
+    "wti": 83.42,
     "dxy": 99.18
   },
   "daily": {
@@ -19,9 +19,9 @@ window.LIVE_DATA = {
     "nikkei": 0.41,
     "krw": -0.63,
     "dxy": 0.02,
-    "gold": 1.07,
-    "wti": -0.18,
-    "vix": -0.28
+    "gold": 0.96,
+    "wti": -0.13,
+    "vix": -0.14
   },
   "news": [
     {
@@ -31,16 +31,22 @@ window.LIVE_DATA = {
       "d": "2026-08-28T09:33:00+00:00"
     },
     {
+      "t": "호남반도체, 부지 난제 풀리고 지원책도 '착착'…2030 양산 속도",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWUZZN0lINjhoLWFHZHRKQXVwMkVkdkwybml0Y2xHWDd3Tk9oaVBBYUZjcUN0Mll3VXg1QUtQdjNlWW9GYWlWaDhJaTRzWHpvNnBYVktsV2NuQUFuZ056d9IBYEFVX3lxTFBKWUZZN0lINjhoLWFHZHRKQXVwMkVkdkwybml0Y2xHWDd3Tk9oaVBBYUZjcUN0Mll3VXg1QUtQdjNlWW9GYWlWaDhJaTRzWHpvNnBYVktsV2NuQUFuZ056dw?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-28T09:17:17+00:00"
+    },
+    {
       "t": "엔비디아 훈풍에도...코스피 1.8% 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JV1d2Uzc3eDhCaDYtc0N0MU83Q1VTb1pVVkxGMFRVMkhfRXJSSnJYOWlHcm5YQldtU19SVkVrQkRQWG9tTGFBcEpiUm1MR3ZuajU2WGtNVllWRlhNSllwSjBESm1vWU9fYWlnZkZEakJpMVVKcEE?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10MUpUQWNEelVZYkVkbkhkYWR0TUoxNlBZN3FzLWlwbUlZQ3FvTENOS2s3Q0Zoc0hPMGFLWXhWLWRFUjBsbm5YX3V0VVlHR3huWmhSTnEyMTRLUExhUmc?oc=5",
       "s": "YTN",
       "d": "2026-08-28T09:05:00+00:00"
     },
     {
       "t": "국민성장펀드, 로봇·K-콘텐츠에 투자…반도체·이차전지 대출지원도",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDJDa1NJVGtZZ09kSmJMWS1oYXdHdGlDZmRXNTNOR0JsV2Y2QXV4Wi1IT2VaWkt2aWgxdnh5OGVKcnYxYWlOeXoyb3BWcmJ6WVpoS01GbXdZMHZfckM5TVB1b0xldGFROWd5dG9jLXA2QkZOUHhsOWtnODJoZ2Vva3BMNUozdWwxLUE?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1R6U3gyYXQyQTdZSE1DWHpEbkozXzdUWEJoY2VlRUxMTFJTR3ZXbTJnNVdwVmFaZlFnSl8tWlBGMVBCYTVTTTBMSVJWQWlSNTJTMzlONVgtNU5IRXVZSHdpM1BJU3VPd3VtbG54NFB0MmYzUkhOT2VJdEZRaTJvZnBPOXFHQkk2SXB4dg?oc=5",
       "s": "대한민국 정책브리핑",
-      "d": "2026-08-28T08:52:37+00:00"
+      "d": "2026-08-28T08:52:04+00:00"
     },
     {
       "t": "'관세 피하려면 美서 공장 더 지어야'...트럼프 으름장에 부담 커진 삼전닉스",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T08:39:55+00:00"
     },
     {
+      "t": "9월 코스피 6500~8000 전망…\"반도체 이익·美 장기금리 관건\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqY3hDbFN1LUx1X0YwNWdMcGVDVEdVWXBhVTBTVmp4RGE1ZW03bklSdjFhR3BNOEQzZ3lob3pVR1NsZ2lRd2VKVENBTVdHQUU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T08:33:27+00:00"
+    },
+    {
       "t": "금리 인상에 ’이자 폭탄’…집값 상승세 둔화할까",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwQlg2Ql9DcVIzZm9WUV9Xel9ocVlTTXBaOHpuVUQyR2VxclNfMFVtOTFvekRRdko3QkMxTmcza3ExNXFrQWYyY3RXZ3BkVEMyYlRfRTJlb0RnZHdVVS1BSndWb2NxV3M?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-08-28T08:19:00+00:00"
-    },
-    {
-      "t": "삼전닉스 급락…코스피 1.79% 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJOG5hYkk5Und0Y2ZEMnQ2czRkSlVPUGRaOVYyXzhXazlPVnFBSC1GNUNLMW9pR1ZSZXloMVZYd1lNbVdDV3AwdVBvZE1TZDduRVBNbVpVaEdaVEJPbnR5aWZCLXdseWM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-28T08:14:00+00:00"
-    },
-    {
-      "t": "환율 1,370원선 접근, 13개월 만에 최저…원/엔 850엔대로",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycVVRTmtuMDFKRXo5bTdMR1dXR20wUHpMRXRoRTZYOFAyWjQ4eU1sRXlHa2t2bDRnUjVpTW0xSjBGRFdiOWtRb3RIbTNyVUtBelZQUUt1REE4alYzckQzZNIBYEFVX3lxTE1ycVVRTmtuMDFKRXo5bTdMR1dXR20wUHpMRXRoRTZYOFAyWjQ4eU1sRXlHa2t2bDRnUjVpTW0xSjBGRFdiOWtRb3RIbTNyVUtBelZQUUt1REE4alYzckQzZA?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T08:07:29+00:00"
     }
   ],
   "asof": {},
