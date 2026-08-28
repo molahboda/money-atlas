@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T04:00:59+00:00",
-  "quotesAt": "2026-08-28T04:00:59+00:00",
-  "newsAt": "2026-08-28T04:00:59+00:00",
+  "fetchedAt": "2026-08-28T04:15:59+00:00",
+  "quotesAt": "2026-08-28T04:15:59+00:00",
+  "newsAt": "2026-08-28T04:15:59+00:00",
   "quotes": {
-    "kospi": 6825.11,
+    "kospi": 6840.41,
     "spx": 7730.99,
-    "nikkei": 66493.56,
+    "nikkei": 66640.57,
     "vix": 14.51,
-    "krw": 1376.83,
-    "gold": 4632.9,
+    "krw": 1376.58,
+    "gold": 4631.4,
     "wti": 83.12,
-    "dxy": 99.16
+    "dxy": 99.17
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.25,
-    "nikkei": 0.55,
-    "krw": -0.48,
-    "dxy": 0,
-    "gold": 0.5,
+    "kospi": 0.47,
+    "nikkei": 0.77,
+    "krw": -0.5,
+    "dxy": 0.01,
+    "gold": 0.47,
     "wti": -0.49,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "[뉴스in뉴스] 한은, 기준금리 연속 인상…“고물가 선제 대응”",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNV9VVWNCbzZhQ1dfM1NuUTBGTDh4eWI1OTVGemYzLUNSUzNzV0Q1alYzNWFKNWhvS2NSdWlOenE3RTd6dEczd091U01ZQWpfQ1hQVHVlbHRPaW9UbkFhcnJXbldiQQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T03:37:00+00:00"
+    },
     {
       "t": "트럼프 행정부, 고강도 반도체 관세 카드 만지작···대미 투자 압박 수단되나",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dEIyZms1U3l4bFp5UElOejJ1REpxR3Y0MlFyRkw3ODJxTjAwWUprRDc3eC1XOTZublZEMGZ4U0ZsTml5Tld4TFNYMm9jeUNGemZXd1lZR1pFQdIBX0FVX3lxTE4yNlBOSVFmM2ZSdENNM29PTjVNazZWdVc2anNYVkhBQl9lcFJndHJMQ1FEc0l2ZEN2QkRnb0o0UDdydlY4VDBQdmNCNHJTQ1RfR1NQcmJ0cGtoNzNjeE5v?oc=5",
@@ -44,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%?",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GS2VaNEhZcmpodW95eDFONFR4ZlZhSTZSR2xpcldodHNVazRZOGhFTzFXaFBCMW0yVS1aYkUxcllsVlhqQXVKLWt3ZlY0VzR4a1ZZSGNPOWNoTnFtWEluWGZEbHZCQVhWQ3BoM2VzRGYxbXhL?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tLTVwUFFLZDJpNU1rRF9qWGNqM2VXS05xY3kwazMxVExiNDE3Qk1VTkE2N1h4N2dSVS1LRFBVX2N6d2hJVUpNSzdqSXFlU3Zwck5MYnlpWWZzOUZBdGtCSHNRcm95b0tzNWxrVmlTZw?oc=5",
       "s": "조세일보",
       "d": "2026-08-28T03:13:58+00:00"
     },
@@ -52,6 +58,12 @@ window.LIVE_DATA = {
       "t": "한달새 원/달러 환율 125원 떨어지자…달러예금에 '뭉칫돈' - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ISHVCZlpBVHdMcUpLa2Q1LXNYMmQzb0M4c0pBUTM5Q0hDSnFLSWd6dnp3aFhBcC1TWUE4bnpnbHpzSURWc1g3THFHeHBuUGl1c0FSYTU2SmtuVWN3b25EYmZDc0ZFRlVKNUhR0gFwQVVfeXFMTzJkb0Nya2lkNk5ISVlCaWFtb2Rfejl3U0xHdS1UQl93dlBvak9jb2hoRTNjelI5c3hvajFFS284UDNVWkZZVExaYjJNV2tqb2c4UG1xeTlodEtPUWhpdlk1ekJDUV9HOVZTNW9vOVMwcQ?oc=5",
       "s": "머니투데이",
+      "d": "2026-08-28T03:00:00+00:00"
+    },
+    {
+      "t": "삼성전자·SK하이닉스, 글로벌 반도체 매출 ‘톱3’…AI 메모리 수요 폭발",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cjFaa0VseUZLMy1QZmV5OXB5UUFSODdqZWo2TFZhWWhOTXBGeHRjQTIxQzNJanBMX0w5eWFSSG9FTEZSQkJEZ0pkeUZMSHkwSTJtWVBZSXpYcFo0Mm9qODk1dmw1ai1K?oc=5",
+      "s": "테크월드",
       "d": "2026-08-28T03:00:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTHFRMVJ3MDRPRTBrVi1meHctNjNYbTFGcm1IYVBjSV8wekt1cnFOU2lXRi1ycXNDX3duQVRWQUhKekVCV1dvcXZVc3ZEUEdw?oc=5",
       "s": "문화일보",
       "d": "2026-08-28T02:55:25+00:00"
-    },
-    {
-      "t": "엔비디아 급등에도 코스피 뒷걸음…반도체 약세에 6800선 밀려",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YnlHckJYVVczM2xiT29uMnM1RkY1UVo5ZWRmWFBsWmdzSXNXcUlyWk5IMlJBV1JjeVI5QV9acEpQbGU5aXhuMThaZk1BcWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T02:43:19+00:00"
-    },
-    {
-      "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMlpkT196Qk5tSjcyYWdFeEtKM3ZKYVREdkxSVEFQUmJfeTdFUTVJN3h6RERsbTR5b0tpdHp1b21fazNER0VzeUJ2Z3JZaU8yemtwVVU4OTh5S0x4TXVhNGVLS1ZSOGFRU2FmdWJXak3SAXRBVV95cUxOVVM1YlhNT2VHT1pHS3BjTjlHeXU1WHUyMHRzU053UGF6WXByVENwcXVPN0FpSktPeml5SVdBaGRVeGJtVjFTS0kyQjNXaWxXUnZXMW9EeFlFdm5JdjRIV2htUmJBUHRLQlJadDNVcGdQSUtIaw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T02:40:03+00:00"
     }
   ],
   "asof": {},
