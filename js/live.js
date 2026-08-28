@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T15:00:59+00:00",
-  "quotesAt": "2026-08-28T15:00:59+00:00",
-  "newsAt": "2026-08-28T15:00:59+00:00",
+  "fetchedAt": "2026-08-28T15:15:59+00:00",
+  "quotesAt": "2026-08-28T15:15:59+00:00",
+  "newsAt": "2026-08-28T15:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7770.4,
+    "spx": 7762.97,
     "nikkei": 66405.56,
-    "vix": 14.22,
-    "krw": 1377.2,
-    "gold": 4604.9,
-    "wti": 83.01,
-    "dxy": 99.5
+    "vix": 14.23,
+    "krw": 1377.87,
+    "gold": 4631.9,
+    "wti": 83.09,
+    "dxy": 99.47
   },
   "daily": {
-    "spx": 1.23,
+    "spx": 1.14,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.45,
-    "dxy": 0.34,
-    "gold": -0.1,
-    "wti": -0.62,
-    "vix": -2
+    "krw": -0.41,
+    "dxy": 0.31,
+    "gold": 0.48,
+    "wti": -0.53,
+    "vix": -1.93
   },
   "news": [
+    {
+      "t": "금리인상 시사한 워시 \"인플레 유의미하게 개선 안돼\"[잭슨홀]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12d3RyV29qV3Z2LVhXSGRXYlppQ0hkNVV5TDhmaUgxMWJPWG1neV9qOFpIZUhIdWczazZva3dreDc0THBCWlY2MnEwM19IRTd5Z2Rlcng3ampiZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T15:09:49+00:00"
+    },
+    {
+      "t": "美, 현지 알루미늄 제련소 짓는 기업에 수입 관세 '반값' 혜택",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94Tm84YWFTbXhXdGpLWGhwWUNobnNDT0NlOGFPR1lTUmsxcWM4amZDSzd0NUFlU3BDLTVLNzMxQ24ydmg5emxNaU9zM0tlNXNlN2pLRFREVXVjdDhmb0M5RVZnbw?oc=5",
+      "s": "더구루",
+      "d": "2026-08-28T15:00:31+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (48) 블루아울(Blue Owl)... 실리콘밸리 파이프라인",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUhWUmxqZ0lGbTB6RV9Yc0xqS2FHR2FySHFHd3RZNm9GYUY1eUt1bF8yNVF0NnNXUDBVODBkY2otNzViVUx0aUY1UF9ObWxUTExjVmdFYnZlOFdnRnNFdnd3UEtQVVpRREZFRS1qWTV0SUFscWhvNmt5cUwwOEVFSm16ZEQ?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-28T15:00:00+00:00"
+    },
+    {
+      "t": "'매파 워시'에 美 선물시장 9월 '금리 인상' 베팅 40%대로 '쑥'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcTZOSkJSQmI3ZTVVTnRQcmVKNTV0TGZyTlNoUEIzMEI3SGprcHotZXkxMTJmbm5UZTY5czZKVGowOFB6NFlBU29Qb1NkNjNYTGZwS2wyaFhrb2tXQ0d3Nm91U3k2V1hYOVdDTmhSaEtoQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T14:50:46+00:00"
+    },
     {
       "t": "워시 연준 의장, 미국 높은 물가상승률에 \"우려스러워\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uRFBPR0wzM0FHUDFxWWxNUEYxdnF2VkNZMUM4Ny15RnBCUzliUGJnY1hGUXBpTTZNdFR2ejRXVXNRSGdaaFBCZURWMjVoVkE?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS3Z4NU15TlMyamdhVEFqT2VyT3kwVmVCeFJ6TXNWZWI1bUphR0lBMXZEOHNlYVQyaFdSbTN4R1RTUE5xTHM2ak5rWFh4cTRJZ20zcm1COEZiQQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-28T14:28:12+00:00"
-    },
-    {
-      "t": "[속보] 워시 연준의장, 美물가상승률에 “우려스럽다”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTdQNFo3UDF4b0J1R1NJQW1kOThLc1pQMWNMR0U1Z2hqTmhkNkxEYzVoenNtVjRSUDNsOTgtSDJISWViaE8yTm9DUExWUnM4N01kZ2Nn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-28T14:12:13+00:00"
-    },
-    {
-      "t": "[속보] 워시 연준의장 “美 물가상승률 우려스럽다”",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxaUlsNUNib1dZNmp6dW41QTRRcU85UGVsekFzWC13bU1IVFNRWjJKTWhBMnZLMm1ZblVydXozSWxvb1pfTy1ET1U2MTRUZXVrSkFxR3M0OUdUUXY2VGpqMmVn?oc=5",
-      "s": "미주중앙일보",
-      "d": "2026-08-28T14:12:00+00:00"
-    },
-    {
-      "t": "[속보] 워시 연준의장 \"현 금융여건, 긴축적이라 보기 어려워\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcmVtTmh6cWN3aVRVRzhCRWtPQWxrRjdDc1JKd2ROQ1FzUU56akNBX1Vvbk9kRHBLcmo5TnhoVDZ5ZkRnZkN5SmxtRlgta2RwSHlBNDF4dUFjS2_SAWBBVV95cUxQNXpEZ2FuVDhBUk4yQjQ1RHpYT0dZNnBaLWhNV3lDOV85WEduRElHTjlYM3ZLWkJZTWU2aUlNMmNGcUx6VmhpaEFFN2F1SlRZYVF2TVFGcTJoU254VXJZWDc?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T14:09:17+00:00"
-    },
-    {
-      "t": "미 달러화 보합권 횡보…연준 의장 잭슨홀 연설 앞두고 '신중 모드'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83NnBJMXBvR2JYWUxRWm5venNBVFIwQkpLM2dYMTc3cUUzdkkyNzNHWnp1ZWVSSklGdHJySERPVWVxR29lU2xiTE9NNDRxMGVBNkR5eWllQWlIYmtsWXlsd25JVHNLVTBtMkEzRVBtMEw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T13:57:12+00:00"
     }
   ],
   "asof": {},
