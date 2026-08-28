@@ -1,34 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-27T23:45:59+00:00",
-  "quotesAt": "2026-08-27T23:45:59+00:00",
-  "newsAt": "2026-08-27T23:45:59+00:00",
+  "fetchedAt": "2026-08-28T00:00:59+00:00",
+  "quotesAt": "2026-08-28T00:00:59+00:00",
+  "newsAt": "2026-08-28T00:00:59+00:00",
   "quotes": {
     "kospi": 6912.37,
     "spx": 7730.99,
     "nikkei": 66131.98,
     "vix": 14.51,
-    "krw": 1381.93,
-    "gold": 4653.1,
-    "wti": 83.59,
-    "dxy": 99.13
+    "krw": 1380.48,
+    "gold": 4648.9,
+    "wti": 83.52,
+    "dxy": 99.11
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 2.52,
+    "kospi": 1.53,
     "nikkei": -0.2,
-    "krw": -0.11,
-    "dxy": -0.04,
-    "gold": 1.19,
-    "wti": 1.65,
+    "krw": -0.22,
+    "dxy": -0.07,
+    "gold": 1.1,
+    "wti": 1.57,
     "vix": -4.6
   },
   "news": [
     {
-      "t": "중국 반도체 굴기, 삼전에 오히려 호재?…증권가 “AI 데이터센터 최대 수혜”[오늘 나온 보고서]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NRnZzZmlhLU1sNDZzQmdGbFY5NmhKSFA5MktIM0hjRVlZRjlxcUNJYzdydUNLWDI0LWlzUGhZTDg5eXViX1FnZlJLLVVveG1xRGc?oc=5",
+      "t": "[AI MY 증시전망] 엔비디아發 훈풍에 코스피 7000선 재도전",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkTFVtRThOY0tkdmNyWVQ3Ujg4czlRUi1GOEp6Y1dNR3pkSVE1SUZiM0NfbnFNbjFsSFkzcTZPSXRzejZwd2NyR0hsX2lrVl9KYVlwX091eTFEaERj?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-27T23:58:00+00:00"
+    },
+    {
+      "t": "'하루 만에 15bp 껑충'…백투백 인상에 CD금리 괴리 일부 해소",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyeVdHUkdJSnBvR2dvNnZIUHhfeE1SU1NVaDdvZFBiRjZ2OF9zVkFOeVBkbEFrTGRGVVdTSFhuLWt5bUFIRlBCbTRlZEVWX1JmblFwNW9GelpwX2ZOWXoxeGFCckNSU1kzMmx6bkZJWkdvUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T23:53:34+00:00"
+    },
+    {
+      "t": "“삼성전자, 중국 반도체 국산화 수혜주라고?”…증권가 분석 이유는",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NNXB2UFQ2YzZ3NFZyRmRtT1E3dzllYWNtSE5rQzZSX0IyaDlCVkFsV0tFTmNIdlVFSDBnSUZ0cU51NU9qU3JVY0ZUMUREdmRxVUE?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-08-27T23:36:57+00:00"
+      "d": "2026-08-27T23:53:33+00:00"
+    },
+    {
+      "t": "넘치는 달러·부족한 원화…외화자금시장이 10월 금리 동결 지지할까",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYa0NJRVBUaVZaN2dpYnhKV2tWTng4TFNvd3FzblFoMjJqWXZZRFJzVFVnRHJlcy1KNWtQb2FEUXAzaFVjdm1rWG1lYVFZMURWNl8zaVBGb2ZtY2o2V2M0ZVlGem1LOXRtV1lhbkR1eThDZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T23:44:50+00:00"
+    },
+    {
+      "t": "'中 반도체 자립의 역설'…효율 낮아 삼성 메모리 더 찾는다",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZHB1TzdTSV90aHBDRHpPZ0s5TkdmQkNlY3Rva3I0R2FaZ0ZydEMzYTRHbHExVXo3N05tTHNhMTBjMWtVbGhCTWRldnBzWTJkeWhyNUVEWmNpMWhBZkdNQ3BOUmIwdGoxRTlVdVBuMnM?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T23:42:59+00:00"
+    },
+    {
+      "t": "\"코스피, 반도체 주주환원·FOMC 동결 전망에 7천선 회복\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95bkdiWkY5ZUhVQndxT0Jock1fYUtkbzlCbnA5OWpiaXB2cTYtTmNaV3ZXeXdiZXFMMEQ2Y1RjSHlVVDBPZGg5amhsOWZiTmxDS1AyUGJYRW5JRDhVYUZDa0Q0NFlyZndrZ0k4OGdNWE0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-27T23:41:53+00:00"
+    },
+    {
+      "t": "\"7월 FOMC 혼선 재탕 안 돼\"…월가는 워시 잭슨홀 데뷔에 뭘 바라나",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2TkJxcld2Ujg1cnZBa0hJQ002cFl0WEVrM21zYUJTU0xESHhaOUlkdXJOWkZuREZEUENPNGlHX3g1YkNzZ0VnNUpzdEl5RWdBLTFTOGp2NFJDU0ZCOTFRWUJRZ21qVmQ2Nk01Njg5WGJkdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T23:40:01+00:00"
+    },
+    {
+      "t": "UBS \"채권시장, 세 가지 구조적 요인 리프라이싱\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vZW11ck1VeU9OeG84OGk5cGJwcG8zby1JenpBdjVLTmgxZVNpU19zdHFSNnl3TjVTcnFQRl9ocFBicU9zbnhzUzdHdUhCckU1MkFTRnM3clFNQ1l3ZFk4MWtOM2F1T0x6M0NwTUR1SnBGdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-27T23:37:46+00:00"
     },
     {
       "t": "KB證“中 반도체 국산화, 삼성전자엔 오히려 호재” - 조선비즈",
@@ -37,52 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-27T23:36:00+00:00"
     },
     {
-      "t": "[증시 포인트] 상승 전망...코스피 7000선 안착 여부 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmeDRtVHhYNS1OeVNSU19NOHN6TEd1ZU10MFNnT1lLS1dzR09kMDN0QlVVOVB6NDQtWGFfbUF5a2FMQ3NXQnotbW1IUkhZZEZFb1cxdkJsSklrMmNibjAyS3ppd21NQkg2b05EWFNhRWM?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-27T23:33:25+00:00"
-    },
-    {
-      "t": "금리 상승에 취약차주 부담 우려…정부, 채무조정·금융지원 확대",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBER0JDeGowVTRjcFpvMzNjQk43Z1ZUb1JnNmx1dzdJV3kwXzJ3ZE5tNnRNZkloXzBRZWNNWndTM1QtMURfNEJEY2tFLWtjRDY2R3FLM0V1dVZxWUU?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-27T23:31:00+00:00"
-    },
-    {
-      "t": "[모닝 리포트] \"눈치보기 장세 전망…코스피 7000선 돌파 주목\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZDNJdlNQOUluWFV5YXRsSGxsUE1Lb3ZFRnVFd2wtSDhPRmFyN3NERTIyVTFDVHdLQzZhVUYzUHljSzV0bzhYbDkwZ3ZLVFF5VWxLbUVtckpWazlu?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-27T23:31:00+00:00"
-    },
-    {
-      "t": "[0828개장체크] 美 증시, 엔비디아 역대급 가이던스 제시…AI 시장 지속 성장 낙관론 부각 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCLXRBcDl0Y0NWWHp3VUtUd1VZVVRfQTFEcVFBcHA1b191eVVUOFdacU0xSzNlcTEzZkxkbTk0dkdscVJTWjhuVnk2TTFVVkNXNU1memM1ZUpXWmhVVV9xc0t3ZWloenU3RGVtYVlGNHE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-27T23:24:00+00:00"
-    },
-    {
-      "t": "돈 룰렛 - 2025년 최신판",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRE1sQWp0Tk82bWxtaFRvQ1RRWF9yb19OWVZodTliMEZxSXM0VnpqSGFFVXR5OF90NjRGNWFTUHN0a2NsdE4tRGVXRXhBdUZjREtmZGZfb3ltTE85LUJZNl9PVDE?oc=5",
-      "s": "Platea Magazine",
-      "d": "2026-08-27T23:19:57+00:00"
-    },
-    {
-      "t": "뉴욕증시 훈풍에 비트코인 8만달러 돌파 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1NMNzNOQlBPenY5UGlDdHo3dXN3MlRYeEE1RlBmdW5sb0o3Y1MyU0RoZDA3WGxTaVpjelVTeTBITmJjZ1ZzYl9GN0hSVGc4SFZTcXRKZkNxUHREam02U0Y2cHRpM1BmZEtMZHVhSzJMYjg5cXBKWTZkMWRHUEd3etIBlAFBVV95cUxNQjNpaE42SUJmQXEwcWlRYU1RcmNfazRrV0E0MDc5Tmx4dGFPYl85Z1VfU1hsMkVjS1F4MnIyNWUxUHczNFlwV3pNYmR1ZDV4bjlOSUpLSExZbHlreXMxU3FYTVZjZXVTY09TaExZSEh5akVnZkxGWld1dVkzSE03aExRNjY1T0ZCSDZ0bDFkdWsxMGJy?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-27T23:19:00+00:00"
-    },
-    {
-      "t": "엔비디아 8.7% 급등…“코스피도 웃자” 7000피 탈환 재도전",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JZkdBZTkwc3dNczR3VnBNS3E0T2VKd3AxR2RKaFp1RkFzaUJnbl9nV080MUFheHB0RWg0OU9mUHRUV2k3RGhLVFZsMXVqbUUy?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-27T23:14:26+00:00"
-    },
-    {
-      "t": "[굿모닝 증시]워시 의장 연설 앞두고…코스피 '눈치보기' 장세 전망",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BdFh3Uk5HdkRKRWR2OHBTakZrNDlkYVRVeHllODhGX1N4TUlFU2lva0lCYWpCeVVSdTFnMzhrZmRTSG56MXJVY3NmZHg1dk0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-27T23:12:52+00:00"
+      "t": "[해외시황] 뉴욕증시, 엔비디아 호실적·AI 낙관론에 '상승'…나스닥 1.57%↑",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lS3FRclJWWmY3UmFDWHlJRkdreXhid3ZnSks2Wm5fS2RoazBnTEF2RmpreDRQRVVpTy1FTDlDbS13ZGxGVG1TZkhPdjZqME5mb0dweW1oRmJyOUowZngwNw?oc=5",
+      "s": "프라임경제",
+      "d": "2026-08-27T23:33:28+00:00"
     }
   ],
   "asof": {},
