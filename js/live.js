@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T05:15:59+00:00",
-  "quotesAt": "2026-08-28T05:15:59+00:00",
-  "newsAt": "2026-08-28T05:15:59+00:00",
+  "fetchedAt": "2026-08-28T05:30:59+00:00",
+  "quotesAt": "2026-08-28T05:30:59+00:00",
+  "newsAt": "2026-08-28T05:30:59+00:00",
   "quotes": {
-    "kospi": 6823.63,
+    "kospi": 6801.66,
     "spx": 7730.99,
-    "nikkei": 66544.09,
+    "nikkei": 66494.18,
     "vix": 14.51,
-    "krw": 1376.53,
-    "gold": 4634.2,
-    "wti": 83.27,
+    "krw": 1375.98,
+    "gold": 4633.1,
+    "wti": 83.25,
     "dxy": 99.19
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.23,
-    "nikkei": 0.62,
-    "krw": -0.5,
+    "kospi": -0.1,
+    "nikkei": 0.55,
+    "krw": -0.54,
     "dxy": 0.03,
-    "gold": 0.53,
-    "wti": -0.31,
+    "gold": 0.51,
+    "wti": -0.34,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "워시 ‘금리 인상’ 신호탄 쏠까…잭슨홀 연설 임박, 관전 포인트는 [이슈+]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qdDRvcUpJM1pfX2I3bGFCeC1PalgxZWdneGxvUGFzRGY0V0ZfYnZhUkMxQmVpbmU5ekdnUmFoRElSekRMenpRUDlvV0xRR0w1RFd5UWtjX2hSN0JpdHZmdlVFZw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-28T05:19:55+00:00"
+    },
+    {
+      "t": "“고정금리 부담에 변동형 쏠림”...금리 상승기 ‘주담대 뇌관’ 되나 [이슈+]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QaWpSay1uNzFPTEZtdFprbk5MOXlXY1otWTUyMlBfU3ZfRWRqVl85aUtKLU9uQzg4TzhUWE93Zmp2a1BLRDJYLVAzbE5SVm9HYUpBcTNFemlQR3lxUzFMUWRB?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-28T05:16:25+00:00"
+    },
     {
       "t": "워시 연준 의장, 잭슨홀서 난제 직면…물가·금리 딜레마 속 시험대",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVdSbXh5T0pzU056REozb3NULVNtMVZHWkhMel8wV2Y1QkNFbDdra0pzS2hvTWdfUVE2LUEtUFN0bnBEWkM1WWJPM2ZRX3RhQkxadEhsQzE0N29LcmwwR2FvX19pMEhVT1FxWkV5T08wX0FkMVU5akJoN1gtc0tjdENtNktubk9Y?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-28T05:11:26+00:00"
+    },
+    {
+      "t": "모건스탠리 \"점도표, 최종금리 3.25%로 보기 어려워…2회 인상 시사\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MR3RRWnVObm5VT3NIZHVIX1owd0d0TlYyV1gwUERLdmlFRkhGcDBBTkdyYXFfRnJ4OG9JcWJLLUgtSDNmOHF1ZEpjcVZWMkxlUDlvX0ZUNXR5dHRSOFhlX3R3Y29DSG50ajZ4MWNheGVsQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T05:07:49+00:00"
+    },
+    {
+      "t": "금리 오르면 은행주도 오른다?…시장금리·연체율에 달라진 셈법",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS3JhZU1UWGFvazB1M1ZfcWh0QUl4SVlVYVBpWUlhVG5JaHZZUFcxUERUQ3R0WXJKdFdteXNQOHVpVmM5OS1EX080MVdJbDhZSVBCU1p2ZmlBd0ZFX0NYUV9xM1hBQUoxRlJaNTFnWm4yMU5qNFdkejE3ckg3Y1YyaXJicw?oc=5",
+      "s": "인베스트조선",
+      "d": "2026-08-28T04:55:00+00:00"
     },
     {
       "t": "기준금리 3% 시대…중저가 실수요 직격, 전세의 월세화도 가속",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZZkozM3FIQkdWZWk3cmFFb2JIbFNhb1pZMS1DZGtRRGloa0ZobGJUdVRwQ1dsbXNkOFVXMGlKUzYtcDVIakkzX0szalBvckxFS0FtUXFwSFk5Zw?oc=5",
       "s": "경향신문",
       "d": "2026-08-28T04:30:00+00:00"
-    },
-    {
-      "t": "[서중해의 경제망원경] (67) 금리는 낮아지고, 자본 수익률은 높았다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSGlEQ0tZYXdzcFl1MlBBZnVnUnBZUHZLOVU1NEtYQzdRb2EtWUtmRU15V2JNbzk2T3lNSUJrTkhLekZFMThta1VtemdybDhZaG0yWHFpZXpGSGdsdXc?oc=5",
-      "s": "주간경향",
-      "d": "2026-08-28T04:26:00+00:00"
-    },
-    {
-      "t": "\"한은, 근원물가 관성 고려해 선제 인상…최종금리 3.25% 확률 60%\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLaDNiQlVSS044REZPSnpfRUJhMzlvQnBTVTNvZnZ2WkVaN1dldHZnRE9jUHZlMjJNNzdQMXE1VUdrdnZHYmNWNzBobFE1Mzk5MVMyLS1OT2s0bTRYWVBUZlhNSjFDMTZUREVuaTFaRXo3dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T04:18:21+00:00"
-    },
-    {
-      "t": "ECB '약한 수준의 긴축 통화정책' 논의…추가 금리인상 무게",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZnduRzhDbl9mTWlfLTRlM0ZRZGZDZDByUmoyS0RZY3Z0c2hkV2pndmVMYmQwZWlyeFJJZEVDNUFoMTFtaFdHR2pGelc0dmF6bTdSYVFvQXNxUHM4bEE?oc=5",
-      "s": "더구루",
-      "d": "2026-08-28T04:18:06+00:00"
-    },
-    {
-      "t": "[알림] '반도체 패키징 발전 정책 포럼' 9월 10일 개최",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KMWtyODFuMVQtZHEzZXNQdXpfdUlBQUlnaUxVU09jV1lYRi1meW54TURHVkFNekJ4OTNqdVNjenBhYzYta25QSDRNd3VtZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-28T04:13:21+00:00"
     }
   ],
   "asof": {},
