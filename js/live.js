@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T01:15:59+00:00",
-  "quotesAt": "2026-08-28T01:15:59+00:00",
-  "newsAt": "2026-08-28T01:15:59+00:00",
+  "fetchedAt": "2026-08-28T01:30:59+00:00",
+  "quotesAt": "2026-08-28T01:30:59+00:00",
+  "newsAt": "2026-08-28T01:30:59+00:00",
   "quotes": {
-    "kospi": 6868.06,
+    "kospi": 6854.53,
     "spx": 7730.99,
-    "nikkei": 66496.14,
+    "nikkei": 66557.52,
     "vix": 14.51,
-    "krw": 1378.12,
-    "gold": 4646.4,
-    "wti": 83.39,
+    "krw": 1378.38,
+    "gold": 4648,
+    "wti": 83.34,
     "dxy": 99.11
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.88,
-    "nikkei": 0.55,
-    "krw": -0.39,
+    "kospi": 0.68,
+    "nikkei": 0.64,
+    "krw": -0.37,
     "dxy": -0.06,
-    "gold": 1.05,
-    "wti": 1.41,
+    "gold": 1.08,
+    "wti": 1.35,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "[AI MY 뉴스] 28일 중국증시 'AI·반도체 추가 상승 시험대, 4000선 회복 여부 주시'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JZDJjOTViZnBBV1JCVU81NW5ReWdvZGFydjNwcmJvc1hvS2tnY0RFYllTMkoyWEt5R2xfR0E3SnJDTFIwVVRYWWZGNTBYbVJVSVdtWWdCSHIwekt6?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-28T01:24:00+00:00"
+    },
+    {
+      "t": "코스피, 외국인·기관 매도에 1%대 하락…반도체주 동반 약세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PZHNfSXVTX2FRY3R4M2p4enJxTTVNM2FaUHVjYUhfeTNvZE1ZcWhNT2RRaVk3aHlGRklHUXJ4TUVzWFJRek9hQzVleHZMdWZXRjFTSnVZdEtTM2hFV3VHOGE0Ujh4c0tESkJCQjRNdDjSAXRBVV95cUxPU2NtQTBjZGhHOGhSeWFtTEEtU2xrc2p4NWlxSlpLNGxFaGtURDdrTzYwbml1ZzBySkgweU1FSEpMaGUzM0FITUF1Z3hpMnBYU2RRTnZPNGRpRXZrZHNseWJ6YUp3WFh5ZElVV0I4RDNxaWJMLQ?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-28T01:18:06+00:00"
+    },
+    {
+      "t": "트럼프, 칩 넘어 노트북·서버까지 관세 검토…한국 반도체 ‘미국행 압박’ 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NSGUyXy1FcTE0TXJqcHdfVE91OC1UYVY4Zk9WV2Z6SWFJM0E5SVBJRFNjLWxFTTRZRkhMVzkweDNIejktelNNNjBWUnVCSkpzRkg1bkV3YjVvUQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-08-28T01:18:00+00:00"
+    },
+    {
+      "t": "엔비디아 훈풍에도 코스피 약세…7000선 앞두고 ‘숨 고르기’ [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yTjZYTW8ySjI1enU3NnFBM1d3cGJxbllxWHVzZDlSeTZwSWF0dWZYcmlTQ1lrVjRNTGZocEVITHJjNEVjVGs1STgtVVFTRDFPSXM0eWVOTQ?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-08-28T01:16:43+00:00"
+    },
+    {
+      "t": "국민연금, 코스피 상승에 상반기 수익률 27%…적립금 1,866조",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4XzhqdE1aN0c4SldmU1RtQzNCTHZvU1NOYldhZ19kMmJHd1VTbk9jUmZkZzFxbXpzUmlWbnNIdXdzdnhKRVdMVUZJem1FX3Z4UkpOSW9iSUJGS0U?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T01:15:00+00:00"
+    },
     {
       "t": "[2026년 물가] 한은, 기준금리 2연속 인상…\"긴축통화 vs 확장재정 논란\"",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16T09YVlF0TzdWdHE1S2ZLeFVhNDRlbFlZaFpTZHk5cGl1RDFCa3NMd0VZbXJyNTJLLWpNTDZvYW1FdG8xZmRTRDNPQ3E4QXRVUHJHZ2ZaNG1ESnl5QUd0dUJkM19TWnA2Tkc3Sw?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWTN5cnA0am4zanJUY0MtYmQ5eHZyMUNGZ3hMSWZ0anVmU2gxX3hUUHJWWmFfUF91UWpPWFU1MmF6M1JmRHg1Z0czRUV3RUU?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T00:57:00+00:00"
-    },
-    {
-      "t": "Nvidia 실적 호조로 뉴욕증시 상승…워시 잭슨홀 연설 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRzI4YzV1akZCRDZzX29hYTdqVkFHa3VKN2R5SUxVcUNNNEhlazlHcVdzcFRiTlpZQTZxclViOEFiSW1US1Y5VjN5bWlyNG5Sdkg3c2JSamVaNXBoTV9mNjRtbHp6NS1kYkhGZGVXUkQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T00:54:00+00:00"
-    },
-    {
-      "t": "코스피, 장 초반 1% 약세…기관·외국인 동반 매도",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IVG9SN2JLdTI2NXl1a2ZDRG8tYm9ELXJqSFV3NU5BSmUyOE1QRTFZVkZ1RkJneU9HOXJrRXc5c2x2WW9yX05KWXJuamN4OFFfb1g5R2pEZlpHVHFUM2tnQzROUXU?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-28T00:49:11+00:00"
-    },
-    {
-      "t": "원·달러 환율, 전날 종가와 같은 1380.9원 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanJPNFZ2TWtWRUp6bmhOaTlVaGRfRmhVSHp3YV85SkVtRVpXVmNzRGp3ZENIclQwLWxFUzFkbjhqNTNSamVzMk1jSklyZlB4TFFUOUhyZU5odjFxZGljbXVaNkNpYmtLREhfWDdkMjZHbDBLZGRtNWlKNk9OaFdGT3dWd0ZmQdIBmgFBVV95cUxOTF9XVWpEMXBTckFtMHM3dmtsa2dGM0w0dmVGYW1sZGJpMm1vd1BtN0dBV3Z5a3ozZmF1RWtONlcxTUgzSXpkdzNkVWM2RERaZzNKMDM1dlA5akFRUTlhdnI3MWotdURzRlV2OW1tUFBual9YSVVTbU5lSWxfek9wZlBCVjdkYTVRdXBranlDRS1URHg2cmJPRkFn?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-28T00:49:00+00:00"
-    },
-    {
-      "t": "코스피, 장초반 1% 하락한 6800선…코스닥은 약보합",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uOFRUbF9ROWlMd09tVzBjZ1ZkYnhZRXJoeUl3Y0tYaUI3UEFQY1lTOTdoWkJXV0hWZ2pTLVVvWXhFeEVIdkNXMUdYcFE5X2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T00:43:49+00:00"
-    },
-    {
-      "t": "코스피, 외국인·기관 매도에 6800선 후퇴…美 기술주 강세 ’무색’ By Bloomingbit",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96WG51Z3ZRYkN6RVNqajd2Y2FfMWtWX1dndlVFYXV6QWhVcVZoOGdyNzVRdndtaGRUbXNFX0FTTWZNM29KY3Z2LXJ1bXFaQ3pyREFKTVYteTIxUExsak4wNTRLdEtpdVJYX1hJNmJSQVc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T00:42:00+00:00"
     }
   ],
   "asof": {},
