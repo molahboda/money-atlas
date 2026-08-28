@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T15:15:59+00:00",
-  "quotesAt": "2026-08-28T15:15:59+00:00",
-  "newsAt": "2026-08-28T15:15:59+00:00",
+  "fetchedAt": "2026-08-28T15:30:59+00:00",
+  "quotesAt": "2026-08-28T15:30:59+00:00",
+  "newsAt": "2026-08-28T15:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7762.97,
+    "spx": 7766.87,
     "nikkei": 66405.56,
-    "vix": 14.23,
-    "krw": 1377.87,
-    "gold": 4631.9,
-    "wti": 83.09,
-    "dxy": 99.47
+    "vix": 14.16,
+    "krw": 1377.69,
+    "gold": 4610.3,
+    "wti": 83.23,
+    "dxy": 99.51
   },
   "daily": {
-    "spx": 1.14,
+    "spx": 1.19,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.41,
-    "dxy": 0.31,
-    "gold": 0.48,
-    "wti": -0.53,
-    "vix": -1.93
+    "krw": -0.42,
+    "dxy": 0.35,
+    "gold": 0.01,
+    "wti": -0.36,
+    "vix": -2.41
   },
   "news": [
     {
-      "t": "금리인상 시사한 워시 \"인플레 유의미하게 개선 안돼\"[잭슨홀]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12d3RyV29qV3Z2LVhXSGRXYlppQ0hkNVV5TDhmaUgxMWJPWG1neV9qOFpIZUhIdWczazZva3dreDc0THBCWlY2MnEwM19IRTd5Z2Rlcng3ampiZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T15:09:49+00:00"
+      "t": "美연준 의장 \"물가 우려\"에 시장 요동…9월 금리인상 확률 35%→55% - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xWk40LXk0LTZndF9EY3NuVVJFdVVzT0VuRWJGZWdwQVI5ZUlnaEVUMXljemFuejFTaDA4dS05eU9lbWhiMUlENks2a0F5TURHTmR1ZkF5Z2hxa1V0T1RTS3h5bnhOd0hHMjNnVzJWcGxKeTRRVmfSAXtBVV95cUxOTTM4S0R6YVFONmVZQTVYaENiUDhVUmtyMnZOMWpycURSYkVTZ2ppV3R0M0dVd1QyYU5GdXI0bkNqZXd1SmtRX0dkd2xBNWNiR2MzVGVYZlA2aDdwRUtpUHBPQW9rVGFaY3Vacm0tdFRNdi1ZWm0xMlNobFk?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-28T15:26:26+00:00"
+    },
+    {
+      "t": "뉴욕증시 혼조 출발… 워시 연준 의장 잭슨홀 발언 주시 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2pfV3pEVGlGUXd0NmJKbDdLZ2FvdFdqUXF1cjBWZXdmNnNLeDRzcE1FdFp1TEZhWnNIemNxWGVOanZxeGtjT2hLVV9UTzdEY214dG5KWllDcjJIQVhrMVdyNHlPUWR3TE9WZTRfa3VOQUgxcTBFUFZoVV9UOVQ2aUthWllGS0toT3fSAZ4BQVVfeXFMTm9VeXl4cXJuWm41NG9iS1FNcmJhR0pKTlZIcGd1WFNSbnd3VldqQmpWOVE1UXItX1g1Q1I1QjRmUkNodHpZQTBYeXZPQ2x6WGdQcFQ1djF1cjRmelMyd1pWOXFxamVaZkxvRElhdm1xN0ItUjNnSUpteU9aV3FMcTItY2Y0SXdUMzFnWk9ZUWNOWG5uRHZIZkNIZ1h0SlE?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-28T15:16:00+00:00"
+    },
+    {
+      "t": "워시 연준의장 \"美 인플레 우려스러워…물가안정 우리 임무\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFaTVfV05YZXhRcWRNSXlhaW1VdFB2ZEZ3TW5wWlRuaFF3Vk95N1Z6V1h1dmhTTUlNeXEzM0cxdnZ5Z3I0WEtzYzAwRzZ4MW5WdF9YdUgyU1ZpbENwdEJpY9IBeEFVX3lxTE9hNTZuWndHVUJlV3E5YmlRblN5NEtHenBJSG1zbjNYdGpwNUFDR1d1WWo1Y3YtRnA1TXhHbjFxeDdMbm9UbGlLT1VBbTlIZ1kwTVB0TlVpZFY3MVBLZVNBRGxDQWxTRXNXaFMzLTJoYUNTWDNLR0NnVw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-28T15:07:05+00:00"
     },
     {
       "t": "美, 현지 알루미늄 제련소 짓는 기업에 수입 관세 '반값' 혜택",
@@ -47,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcTZOSkJSQmI3ZTVVTnRQcmVKNTV0TGZyTlNoUEIzMEI3SGprcHotZXkxMTJmbm5UZTY5czZKVGowOFB6NFlBU29Qb1NkNjNYTGZwS2wyaFhrb2tXQ0d3Nm91U3k2V1hYOVdDTmhSaEtoQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T14:50:46+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 미국 높은 물가상승률에 \"우려스러워\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uRFBPR0wzM0FHUDFxWWxNUEYxdnF2VkNZMUM4Ny15RnBCUzliUGJnY1hGUXBpTTZNdFR2ejRXVXNRSGdaaFBCZURWMjVoVkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T14:42:00+00:00"
     },
     {
       "t": "[속보]美 연준 의장 잭슨홀미팅 기조연설…\"물가 상승률 우려\" - 머니투데이",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWndiZjMtd1VxZFJyX3JuRkExc2x2UG1CWmVUOVl3Ym5lRU9CeE13WU5vOXlzVnZIVkh1bmpGNWtJVTVUbHkwamJXdUlkeHlRUjdvZWFmUDBsb3NNLXRPU0lOOGhRTmlycnJzdDJ2WW9SZWlXN2l5eUJMc0l4WkRpSXdmU1NJZ1JyeVBVRnh6N2oyS1dwR1o4TEVlV2RuUdIBsgFBVV95cUxOYWFMYi1PU2FnQjN1ZGFabm1JMC1PWm1paURObmdLVWNqbXpNRHlUZFJXTVpIeU4tdEtxNFE2d3BEbHVvOUxkZFFzWFpDb3IzcUJ5amJJWEROMmZRNV9XZ0JhSUN2V1pjMVV2QkVaTG9TN0NEMERNUXV3Y21IUFl4elYxTGxUbUZkaEFqUl9BZGVlcDZzOUg5Qkp0dlVXT0xQRzJSNVVZcFZzcllDUFUxOU53?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-28T14:29:00+00:00"
-    },
-    {
-      "t": "\"Fed의 수단은 단기금리\"…'7가지 원칙' 내세운 워시 의장 [잭슨홀]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS3Z4NU15TlMyamdhVEFqT2VyT3kwVmVCeFJ6TXNWZWI1bUphR0lBMXZEOHNlYVQyaFdSbTN4R1RTUE5xTHM2ak5rWFh4cTRJZ20zcm1COEZiQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T14:28:12+00:00"
     }
   ],
   "asof": {},
