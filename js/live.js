@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T19:30:59+00:00",
-  "quotesAt": "2026-08-28T19:30:59+00:00",
-  "newsAt": "2026-08-28T19:30:59+00:00",
+  "fetchedAt": "2026-08-28T19:45:59+00:00",
+  "quotesAt": "2026-08-28T19:45:59+00:00",
+  "newsAt": "2026-08-28T19:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7711.48,
+    "spx": 7710.95,
     "nikkei": 66405.56,
-    "vix": 14.42,
-    "krw": 1378.71,
-    "gold": 4510.6,
-    "wti": 83.29,
-    "dxy": 99.68
+    "vix": 14.47,
+    "krw": 1378.17,
+    "gold": 4513,
+    "wti": 83.41,
+    "dxy": 99.66
   },
   "daily": {
-    "spx": 0.47,
+    "spx": 0.46,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.35,
-    "dxy": 0.53,
-    "gold": -2.15,
-    "wti": -0.29,
-    "vix": -0.62
+    "krw": -0.38,
+    "dxy": 0.5,
+    "gold": -2.1,
+    "wti": -0.14,
+    "vix": -0.28
   },
   "news": [
+    {
+      "t": "케빈 워시, 첫 잭슨홀서 물가 경계…\"2% 안 가면 할 일 남아\"",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hRk1tek5JWlFVaDdoV3dSaFdkNUlOeFpNUTBtMVZZTTNPNHE0UGQ5aUhiQ3dWdlJoT0YtdWhDNzVsLVZzNXNNZ2U3WklMS1ZfQm9fSzZkTm81WWlZNmRLaC1EYWE?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-08-28T19:35:43+00:00"
+    },
+    {
+      "t": "워시 \"연준, 필요하면 더 할 일 있다\"‥금리 인상 베팅 급등",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02Q1FncDlJYW1id09vSF9OajNRVlJsT28ta1o4Zko0OVFzWk1fS29WVzNmRkptaGFkdndiRlBEYjRMZEVXcXY4VTAxMkY4RWpxV3R1aFBZRGRpWHRkWnViT0xyMVpTam4tVmZGY0dCdFExeXA00gF0QVVfeXFMTjVOU0JvN3JpQjdKMGNOblBmWWI0OHlXM0tDdlkyUkhxeENiQjRwbi1QMlF0cEFOZkp5V0diVXBKQXdhc1RiNko1Wk5IWF95RWw4TENONDRnMjMydzdBbHVkNFpzVE9fZUdUTHpHeERkVEtHYnE?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-28T19:16:26+00:00"
+    },
+    {
+      "t": "워시 매파 발언에 금융 시장 충격…국채 수익률 뛰고, 증시는 하락",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMl9wTU50dHRSbnZTRFRnVV9ZQlBLYWRPako1NTJOR19lU2F5NUtyMktHWThlYUxHcmx4dGZoWTBfNFYtckd1XzUxckFOQjBSWDlTckJZU2hLQQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-28T19:14:56+00:00"
+    },
     {
       "t": "美 연준 9월 금리 인상 가능성 56%…25bp 인상 전망 우세",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZU9oZEluc2I4a2FsYjNBWGk1N0daY2lQT1cwNEowZm1jSGluSzktS2JGMzdkV0ktT2JrSzc4SjhpUDh0V1NwTkR2X1hQRm5J?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYUhYVk5UVlVJNUQ2STRDUmhEOVVVQWZzOFBNZHRjWHZ2bTk1c19ManNqTGtxN3k5U1EzcHh0VmRaX0ppbWNKTlpJZWtDSUVHN1FxQ0lhODlLS3FoTERia9IBeEFVX3lxTE5lTERnaFRtNmJpRVFOQ0xVLTI2S0VZZU9HNi1qSnFnUU8yV3B5RDJybmplTjFkTHlFOVBPelhELXhuM2IxS1hzTnJzSVFvZEptZlMxRUp5SnRaYmlZTVZXVk9mNDBFYjFIY2xFTUpzVFpSeC1IbzdJTQ?oc=5",
       "s": "뉴시스",
       "d": "2026-08-28T17:11:34+00:00"
-    },
-    {
-      "t": "\"물가 안 잡히면 금리 더 올린다\"…美 인하 기대감 완전 폐기 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5dGNYa0lqcVpVREw0V2YyOGt4V1F2LUpjeW56R01xelVhdHJvT1RhVzZadW10ZnVYNzlDWUhpcTR5eDJlUmU2TUtCTC1LSWlsdVVsS2JXZzhyZEZrUHJEQjA1NHN1dlE0YXNsYmdmNDBPUW5JT3fSAXtBVV95cUxQaGhXV1dNQlp2ZWdxV2ZtSzBmanI0a3g3ZElfbVRpZmtoRjFWSkNnNm5veHhTd1VTblRQY2F0VDl3TjR3WDl6SDhYOEphNlp2amJKekpVbFhaSWY5T0hKNnA4VXcyQWIxNzFnOEJzRUNpZkw0N1R1MkVEVjQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-28T16:58:44+00:00"
-    },
-    {
-      "t": "'매파 워시'에 美 선물시장 9월 '금리 인상' 베팅 40%대로 '쑥'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZXZqc3lvMDZCVFYwUlkzOGxGRVFFWU84TWFDYVVBemlEYjZFc09QU1o5bWlXMFpxWUFyZ2N0OXRBYk5NNFhkTkE5OGxveGJJS090TDlTZC1SVVBXd1NhYk1waklLRjRxNzJjMmpEYU0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T16:50:47+00:00"
-    },
-    {
-      "t": "美 워시 연준 의장, 물가 상승 \"우려\"...금리 동결 가능성 커져",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RalRfcTFnUWNIUF9yNm9XRHNhcG1ZcWJyaGQ0dVlRVWUxbEdKZU1lNmFnSHh6TThnSTEzUkVadW01c1Ntb2hfM0Q1aTJjdEt5WExEX1g4VTd0UQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-28T15:59:27+00:00"
     }
   ],
   "asof": {},
