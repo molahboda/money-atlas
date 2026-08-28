@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T14:01:00+00:00",
-  "quotesAt": "2026-08-28T14:01:00+00:00",
-  "newsAt": "2026-08-28T14:01:00+00:00",
+  "fetchedAt": "2026-08-28T14:15:59+00:00",
+  "quotesAt": "2026-08-28T14:15:59+00:00",
+  "newsAt": "2026-08-28T14:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7747.9,
+    "spx": 7722.38,
     "nikkei": 66405.56,
-    "vix": 14.54,
-    "krw": 1373.06,
-    "gold": 4663,
-    "wti": 82.64,
-    "dxy": 99.23
+    "vix": 14.43,
+    "krw": 1377.57,
+    "gold": 4609,
+    "wti": 82.39,
+    "dxy": 99.42
   },
   "daily": {
-    "spx": 0.94,
+    "spx": 0.61,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.75,
-    "dxy": 0.07,
-    "gold": 1.16,
-    "wti": -1.07,
-    "vix": 0.21
+    "krw": -0.43,
+    "dxy": 0.26,
+    "gold": -0.02,
+    "wti": -1.36,
+    "vix": -0.55
   },
   "news": [
+    {
+      "t": "[속보] 워시 연준의장, 美물가상승률에 “우려스럽다”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UOTdQNFo3UDF4b0J1R1NJQW1kOThLc1pQMWNMR0U1Z2hqTmhkNkxEYzVoenNtVjRSUDNsOTgtSDJISWViaE8yTm9DUExWUnM4N01kZ2Nn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-28T14:12:13+00:00"
+    },
+    {
+      "t": "미 달러화 보합권 횡보…연준 의장 잭슨홀 연설 앞두고 '신중 모드'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83NnBJMXBvR2JYWUxRWm5venNBVFIwQkpLM2dYMTc3cUUzdkkyNzNHWnp1ZWVSSklGdHJySERPVWVxR29lU2xiTE9NNDRxMGVBNkR5eWllQWlIYmtsWXlsd25JVHNLVTBtMkEzRVBtMEw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T13:57:12+00:00"
+    },
+    {
+      "t": "워시 연준 의장, 잭슨홀 기조연설 시작",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WHdxX0FiWXpGTklHTzJJdFVvci1xSkFoTTBNWVduVFROa1VSSXlBR1pPeE8yQXY2RncxYkdlbkpadHBDYm5EVTJ6eGthR3VJNWdLXzhhRWxady1XdkJjOEUyc0Z4OUNtaHc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T13:52:00+00:00"
+    },
     {
       "t": "뉴욕증시, 잭슨홀 대기하며 혼조 출발",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ka29Sd3B5VHBJMlUxVGxITXl3dTBLdkdFRWVxSWV2V2doOVNhcGMxdkllMXA3SFlFZi1uY3ZDcXkzeDRnM2lRQ1paSXNWMW5rLVJ2LXMzQWM2UkhqdG9ueUNfUEphX2VWb3pON202Um8?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcnFoVlBIZVBwbUlNQWRwU1VYdGdYTGtqYlpCTzd0VWFmdTlkV3FEamU2R3psQ2sxYjRuVXBnWXgzWklwcnRPMG9rbk9CSlJtdkNHVEhNQUR6N19iN2dqaUlaS0hEVDZwMFE?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-28T12:58:00+00:00"
-    },
-    {
-      "t": "달러-원, 뉴욕장서 1,370원 중반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tYUpPNi1KWDF6b19xejUtU2ZsTlEydUVxeFNDaTRJMWhqQVJuMDJOcVRRQWRPRFpHNkhIdHhxMXFGNGdPcmFtVktNSlpHTlJoMUs4U3ZIRGtzcjZIaWVaVU1fQUt3Q003eENNakthYnBWUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T12:32:12+00:00"
-    },
-    {
-      "t": "대경권 성장엔진 '반도체·모빌리티·로봇·이차전지'",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ1dvenVSTm5fLXE5cVNoRjN1ZXdmVmc0YWlGem1TN29XUEVfZWdoZFFHbU45SzdkY2NWa3NldldQQXhvMnM1TnhnOUZERE5NVU9wNWd1TF9ScWZHV1p6cTJheExfYUZyOWNFMXpWZ2MxVGhuQml2Rm1qVGZRX25acU85elU0Zw?oc=5",
-      "s": "tbc.co.kr",
-      "d": "2026-08-28T12:17:54+00:00"
-    },
-    {
-      "t": "미 달러화 보합권 횡보…연준 의장 잭슨홀 연설 앞두고 '신중 모드'",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqWm5JTXNld29reGt4akRkX3dIRnQ1am94VTNIazFMQjJQQnp1TEVBUFBnSVU1ZmpWck80UktqV2tPai1VN1gzbHRyR2IzTFB4bG1Ma2cyS05oQmFsNXdhUFBra0Y4UzVMZHZHWV9iVUVQUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T11:57:10+00:00"
     }
   ],
   "asof": {},
