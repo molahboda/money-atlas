@@ -1,40 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T15:45:59+00:00",
-  "quotesAt": "2026-08-28T15:45:59+00:00",
-  "newsAt": "2026-08-28T15:45:59+00:00",
+  "fetchedAt": "2026-08-28T16:01:00+00:00",
+  "quotesAt": "2026-08-28T16:01:00+00:00",
+  "newsAt": "2026-08-28T16:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7745.29,
+    "spx": 7728.18,
     "nikkei": 66405.56,
-    "vix": 14.15,
-    "krw": 1379.12,
-    "gold": 4609.8,
-    "wti": 83.22,
-    "dxy": 99.53
+    "vix": 14.28,
+    "krw": 1379.26,
+    "gold": 4589.8,
+    "wti": 83.16,
+    "dxy": 99.57
   },
   "daily": {
-    "spx": 0.91,
+    "spx": 0.68,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.32,
-    "dxy": 0.37,
-    "gold": 0,
-    "wti": -0.37,
-    "vix": -2.48
+    "krw": -0.31,
+    "dxy": 0.41,
+    "gold": -0.43,
+    "wti": -0.44,
+    "vix": -1.59
   },
   "news": [
     {
-      "t": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EUmQ1bzE4bXc0ZVpJa09GYlpiWW1HcHpSZ21hQmFSRDRnRWp3NGhIeENXWDVJN1FCdkZjNkZJbGtMZDlIRFk2RnVuWTlfc2M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T15:38:44+00:00"
+      "t": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\"",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdV9vdVhmWWQ3Q041cGowSm1PbkVaUWVpeUR0N01nNENibWFUMGxmckNsMWtiNkozcDF3OGliTXFzWlEyQ1JfNnpmQkpKS1N5b1UzOHlnVFBMUjBMbmpRVlZVaXZNckM4R0ZZR0t6R1haMGFybHZKUWRWb2lqNXY5T1dwNA?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-28T15:36:00+00:00"
     },
     {
-      "t": "워시 \"지금 연준 초점은 물가\" … 9월 금리인상 확률 57%로 올라",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGUUpadWdZVmpId2N0Tk82VlRkcmVDaTJaSDltbFhZUGp2OVp1UVZlX0pOcG1XSDNlbWV4NXNGcXc4RVgydmxSeUd4U3N3alE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T15:33:00+00:00"
+      "t": "워시 연준 의장 \"美 인플레 우려 … 물가 안정 위해 대응할 것\"",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04dnZ2aEdfOUlocDVnWlVJanMtbmIySjlmZVRIV0NMZjNGamZkWlA3VGV0SGw0MkpENDZJSTAwempWa2pRUERiSFQxNURfbmotaUgzdTgzbjNHT2YtYWtMX1lwakVLWEhvYklMU19uWTJpMmF5dER6WnZn0gGAAUFVX3lxTE05eHR3a2pjUnFKdk9KRUs5VHlRS3FmMHk5QWNISFBzNnNLLU9scmNTT09COUwzT1oyXzlQY2ZqQXM3czVrMVkzZFd6VzExdFh4RzJFSjQ3TWJWMGFmMmdfQUhuODlaMTRTcXZ0U2I0TlpfeU5SUVNJaHlzWjRFSjNB?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-08-28T15:33:19+00:00"
     },
     {
       "t": "美워시 \"최근 물가상승률 우려…물가 둔화 안 되면 할 일 있어\"(종합)",
@@ -47,12 +47,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2pfV3pEVGlGUXd0NmJKbDdLZ2FvdFdqUXF1cjBWZXdmNnNLeDRzcE1FdFp1TEZhWnNIemNxWGVOanZxeGtjT2hLVV9UTzdEY214dG5KWllDcjJIQVhrMVdyNHlPUWR3TE9WZTRfa3VOQUgxcTBFUFZoVV9UOVQ2aUthWllGS0toT3fSAZ4BQVVfeXFMTm9VeXl4cXJuWm41NG9iS1FNcmJhR0pKTlZIcGd1WFNSbnd3VldqQmpWOVE1UXItX1g1Q1I1QjRmUkNodHpZQTBYeXZPQ2x6WGdQcFQ1djF1cjRmelMyd1pWOXFxamVaZkxvRElhdm1xN0ItUjNnSUpteU9aV3FMcTItY2Y0SXdUMzFnWk9ZUWNOWG5uRHZIZkNIZ1h0SlE?oc=5",
       "s": "Chosunbiz",
       "d": "2026-08-28T15:16:00+00:00"
-    },
-    {
-      "t": "금리인상 시사한 워시 \"인플레 유의미하게 개선 안돼\"[잭슨홀]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12d3RyV29qV3Z2LVhXSGRXYlppQ0hkNVV5TDhmaUgxMWJPWG1neV9qOFpIZUhIdWczazZva3dreDc0THBCWlY2MnEwM19IRTd5Z2Rlcng3ampiZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T15:09:49+00:00"
     },
     {
       "t": "워시 연준의장 \"美 인플레 우려스러워…물가안정 우리 임무\"",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcTZOSkJSQmI3ZTVVTnRQcmVKNTV0TGZyTlNoUEIzMEI3SGprcHotZXkxMTJmbm5UZTY5czZKVGowOFB6NFlBU29Qb1NkNjNYTGZwS2wyaFhrb2tXQ0d3Nm91U3k2V1hYOVdDTmhSaEtoQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T14:50:46+00:00"
+    },
+    {
+      "t": "[속보]美 연준 의장 잭슨홀미팅 기조연설…\"물가 상승률 우려\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53c3dwYkFhSU92X2kxakJsb0lPcVhSdUY5eWEwdWF2eE9pNVBoWWxIanF2Z0huYzFlN2V1UmJRdVRJeklCQVVocFhYaEFfaVNqNk9GOGJtbzcxc0loTG43Uk1ZVWMyX1ZT0gFuQVVfeXFMTmlHd2RZUXB3Y2NfUzI0TnplaHVCOFlock0ycGhnVnRtSDY5OEJPdXlERGN4UFhTWDZYWmRmQ3p5djhQLVRYNmFBcHBTMjZWaEU2eFUtR05oSFlTUXhremtEZjJiRXlBNk1EN0dQZXc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-28T14:35:35+00:00"
     }
   ],
   "asof": {},
