@@ -1,35 +1,29 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T08:30:59+00:00",
-  "quotesAt": "2026-08-28T08:30:59+00:00",
-  "newsAt": "2026-08-28T08:30:59+00:00",
+  "fetchedAt": "2026-08-28T08:45:59+00:00",
+  "quotesAt": "2026-08-28T08:45:59+00:00",
+  "newsAt": "2026-08-28T08:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.56,
-    "krw": 1371.81,
-    "gold": 4662.6,
-    "wti": 83.08,
-    "dxy": 99.19
+    "vix": 14.52,
+    "krw": 1371.42,
+    "gold": 4663.3,
+    "wti": 82.75,
+    "dxy": 99.18
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.84,
-    "dxy": 0.03,
-    "gold": 1.15,
-    "wti": -0.54,
-    "vix": 0.34
+    "krw": -0.87,
+    "dxy": 0.02,
+    "gold": 1.16,
+    "wti": -0.93,
+    "vix": 0.07
   },
   "news": [
-    {
-      "t": "美 반도체 관세 확대 검토... '삼전닉스'보다 미 AI업계가 더 우려",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NYnM4TzVaWFpKZHpSM1hpZzFGSXRERWZ0Nm9semtWT0toM3lCc3dOQ29WajRwUXlhemFwZlVmTkhRX0dYYzQzaFNfaW0xSTB5dVZHTlY5RnZmWUE3ZE9seHc1SFhwQXJvSVZtdmhKUmNucTDSAXNBVV95cUxNTWJzOE81WlhaSmR6UjNYaWcxRkl0REVmdDZvbHprVk9LaDN5QnN3TkNvVmo0cFF5YXphcGZVZk5IUV9HWGM0M2hTX2ltMUkweXVWR05WOUZ2ZllBN2RPbHh3NUhYcEFyb0lWbXZoSlJjbnEw?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-28T07:40:00+00:00"
-    },
     {
       "t": "‘박스권 갇힌 코스피’…거래대금 80조→19조 뚝",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WVlVITE1Hd0tKaEFMbGxTbnFxc2NuSGJZQW5iWWVhQWFhSGpCT3VIWUZTUGJZN3AwS3VmU19yUVJGNGFZc29rNkc0QUNoX0tGcDlkZnhHdE0yZmMtcDVPQ2xieW5CdVU?oc=5",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SQjg2UTNnM3lxTFgtSnJUeWNJMU9QUGw2SWpGZ2pSUlFJbUlPZkZGQTRrWGxobWExaUs0RWYxVjZfOEc4V2FIeE9jUTl2aVVjRVhvS1RDenZrcVVFTjFGODA0SQ?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-28T07:20:48+00:00"
+    },
+    {
+      "t": "코스피 1.7% 하락…삼전닉스 3∼4% 급락",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2TkhTMGlwT00ydHprb0sxZl80VGNVNUR3cjFnREJSODJ0LThBM29sYjlSamRyWFc5TGJMTXE0VmJlLXBWOWc5OVlhTTdoYWZuM2tWSllRdEVwMnRGRTJIUmFTV2wwOEFHWElKc3pFdTQ4azRL?oc=5",
+      "s": "대한경제",
+      "d": "2026-08-28T07:20:44+00:00"
     }
   ],
   "asof": {},
