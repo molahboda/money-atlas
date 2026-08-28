@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T04:15:59+00:00",
-  "quotesAt": "2026-08-28T04:15:59+00:00",
-  "newsAt": "2026-08-28T04:15:59+00:00",
+  "fetchedAt": "2026-08-28T04:30:59+00:00",
+  "quotesAt": "2026-08-28T04:30:59+00:00",
+  "newsAt": "2026-08-28T04:30:59+00:00",
   "quotes": {
-    "kospi": 6840.41,
+    "kospi": 6826.41,
     "spx": 7730.99,
-    "nikkei": 66640.57,
+    "nikkei": 66625.08,
     "vix": 14.51,
-    "krw": 1376.58,
-    "gold": 4631.4,
-    "wti": 83.12,
+    "krw": 1376.98,
+    "gold": 4635.8,
+    "wti": 83.1,
     "dxy": 99.17
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.47,
-    "nikkei": 0.77,
-    "krw": -0.5,
+    "kospi": 0.27,
+    "nikkei": 0.75,
+    "krw": -0.47,
     "dxy": 0.01,
-    "gold": 0.47,
-    "wti": -0.49,
+    "gold": 0.57,
+    "wti": -0.51,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "[서중해의 경제망원경] (67) 금리는 낮아지고, 자본 수익률은 높았다",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSGlEQ0tZYXdzcFl1MlBBZnVnUnBZUHZLOVU1NEtYQzdRb2EtWUtmRU15V2JNbzk2T3lNSUJrTkhLekZFMThta1VtemdybDhZaG0yWHFpZXpGSGdsdXc?oc=5",
+      "s": "주간경향",
+      "d": "2026-08-28T04:26:00+00:00"
+    },
+    {
+      "t": "\"한은, 근원물가 관성 고려해 선제 인상…최종금리 3.25% 확률 60%\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLaDNiQlVSS044REZPSnpfRUJhMzlvQnBTVTNvZnZ2WkVaN1dldHZnRE9jUHZlMjJNNzdQMXE1VUdrdnZHYmNWNzBobFE1Mzk5MVMyLS1OT2s0bTRYWVBUZlhNSjFDMTZUREVuaTFaRXo3dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-28T04:18:21+00:00"
+    },
+    {
+      "t": "[알림] '반도체 패키징 발전 정책 포럼' 9월 10일 개최",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KMWtyODFuMVQtZHEzZXNQdXpfdUlBQUlnaUxVU09jV1lYRi1meW54TURHVkFNekJ4OTNqdVNjenBhYzYta25QSDRNd3VtZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-28T04:13:21+00:00"
+    },
     {
       "t": "[뉴스in뉴스] 한은, 기준금리 연속 인상…“고물가 선제 대응”",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNV9VVWNCbzZhQ1dfM1NuUTBGTDh4eWI1OTVGemYzLUNSUzNzV0Q1alYzNWFKNWhvS2NSdWlOenE3RTd6dEczd091U01ZQWpfQ1hQVHVlbHRPaW9UbkFhcnJXbldiQQ?oc=5",
@@ -50,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%?",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tLTVwUFFLZDJpNU1rRF9qWGNqM2VXS05xY3kwazMxVExiNDE3Qk1VTkE2N1h4N2dSVS1LRFBVX2N6d2hJVUpNSzdqSXFlU3Zwck5MYnlpWWZzOUZBdGtCSHNRcm95b0tzNWxrVmlTZw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43VENGRWVSZ19rSHhveTl2YzkzMGdZS3JKbmc3bkhmTWx4SkNxbnJiUHVjSHNNZlV1Z3dlZE85anBrc3N4RHVBSGM3ZkI4WFdBZ1FNTzRjZHpTVUxzcVIw?oc=5",
       "s": "조세일보",
       "d": "2026-08-28T03:13:58+00:00"
     },
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T03:00:00+00:00"
     },
     {
-      "t": "삼성전자·SK하이닉스, 글로벌 반도체 매출 ‘톱3’…AI 메모리 수요 폭발",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cjFaa0VseUZLMy1QZmV5OXB5UUFSODdqZWo2TFZhWWhOTXBGeHRjQTIxQzNJanBMX0w5eWFSSG9FTEZSQkJEZ0pkeUZMSHkwSTJtWVBZSXpYcFo0Mm9qODk1dmw1ai1K?oc=5",
-      "s": "테크월드",
-      "d": "2026-08-28T03:00:00+00:00"
-    },
-    {
-      "t": "美, ‘반도체 들어가는 완제품’ 관세 확대 검토",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02a2c3UDl1MnpraFZkWmhiQ2pNU1RwYWlIQk5jeVNidXZiVGpvUDQyMEFnYmJIUG8xU2xBSHZyYkptS2duc0wzMzliVjhFOHRX?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-28T02:56:05+00:00"
-    },
-    {
-      "t": "‘반도체 쌈짓돈’으로 자영업 6조 ‘빚 탕감’",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yUjVpMlZxa0VNMEFwS29qSXVBb1RiT1JjZVVYTHVCcnlONWlISzAxcEJIdHlOYUsxd2VLdkdTMkx5bmhCVHcwekl5Q3VOWUdo?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-28T02:56:03+00:00"
-    },
-    {
-      "t": "Fed 인사들 “금리 인상” 베선트 “바이백 확대”… 미국도 엇박자",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTHFRMVJ3MDRPRTBrVi1meHctNjNYbTFGcm1IYVBjSV8wekt1cnFOU2lXRi1ycXNDX3duQVRWQUhKekVCV1dvcXZVc3ZEUEdw?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-28T02:55:25+00:00"
+      "t": "[단독]‘호남 반도체' 이재용·최태원 청문회 추진",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVTlkdVU0MTFEN3VDdDl6WlI3bnFVcXVQUGwyVElsSUdxOV93Z3JvcFdKNkExa2FXWllwSlhtN0UxZTBoODlvaDdvTVktLVVHVUxpRUhUd2YtUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T02:59:00+00:00"
     }
   ],
   "asof": {},
