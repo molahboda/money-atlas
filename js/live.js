@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T16:15:59+00:00",
-  "quotesAt": "2026-08-28T16:15:59+00:00",
-  "newsAt": "2026-08-28T16:15:59+00:00",
+  "fetchedAt": "2026-08-28T16:30:59+00:00",
+  "quotesAt": "2026-08-28T16:30:59+00:00",
+  "newsAt": "2026-08-28T16:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7725.28,
+    "spx": 7717.1,
     "nikkei": 66405.56,
-    "vix": 14.57,
-    "krw": 1379.54,
-    "gold": 4566.5,
-    "wti": 83.01,
-    "dxy": 99.59
+    "vix": 14.48,
+    "krw": 1378.88,
+    "gold": 4526.6,
+    "wti": 83.16,
+    "dxy": 99.67
   },
   "daily": {
-    "spx": 0.65,
+    "spx": 0.54,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.29,
-    "dxy": 0.43,
-    "gold": -0.94,
-    "wti": -0.62,
-    "vix": 0.41
+    "krw": -0.33,
+    "dxy": 0.52,
+    "gold": -1.8,
+    "wti": -0.44,
+    "vix": -0.21
   },
   "news": [
+    {
+      "t": "고물가에 꺾인 美경제심리…연준 의장도 우려 '통화긴축 시사' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRFpRWnV3a3RaRTZCN19fWjZvVnBTODNJWG9PWm1HSlF3S2NYQVVaZEFQM2lOcjh6emRMTDdhYXgwV2IwM3VWR1RvZlBUTkI0TzhYR2RhbnpIYXVwd25Hb3ZhMGV2LWt40gFuQVVfeXFMUE5ia0pWbHlhVmpXMVJ5cVdTbUgxTnlVVXJuUU1qdmtwbWdCemJfRWp1NnRtM1ppWGMzTXFxUkphXzc2QXRMVEcxVVRSZEhaUzJSei1mTENyRC1XMXZJTGpQWU9YRlg5bHpGbGlZd2c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-28T16:06:03+00:00"
+    },
     {
       "t": "케빈 워시 “높은 물가 우려…금융여건 긴축적이지 않다”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56YWJHVXpIdDl1MHhkQ2ZpNzdjTnVFR2JYaGRrSjVIdjBzMW1rWTQ4MkpLSDExZlI3V2wwRVZ3NVVyZFpRaGs4YlNPTDJBMW1yYmFvaF93?oc=5",
       "s": "중앙일보",
       "d": "2026-08-28T15:59:44+00:00"
+    },
+    {
+      "t": "美 워시 연준 의장, 물가 상승 \"우려\"...금리 동결 가능성 커져",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RalRfcTFnUWNIUF9yNm9XRHNhcG1ZcWJyaGQ0dVlRVWUxbEdKZU1lNmFnSHh6TThnSTEzUkVadW01c1Ntb2hfM0Q1aTJjdEt5WExEX1g4VTd0UQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-08-28T15:59:27+00:00"
+    },
+    {
+      "t": "워시 연준의장 “美 물가지표 더욱 우려”…추가 긴축 시사",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RUlRtLWNCZ3lxaE12b2FERUFTbUVyckpta1Z1d0d4N3ZXTDdTQXlpZWFjY0pRdzRwbUZSTnZiV0N0Q3puV0x4ckF1bHpUQ2RiZVlfYk0xcjNuaEU?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-28T15:54:00+00:00"
     },
     {
       "t": "더 세지는 美 반도체 관세… \"칩 들어간 제품도 부과 검토\"",
@@ -49,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-28T15:31:58+00:00"
     },
     {
+      "t": "美연준 의장 \"물가 우려\"에 시장 요동…9월 금리인상 확률 35%→55% - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xcUJyd1JqNGxpUXJCaXc1QjRhYVA3S1JMLWR2c1d5THhIeXJnY2lOUzdmd2w4TmJaVkRaWGx5VW90ZWdBNXlTS0IxUmsyUENodV81N0FwTE9PRnNYR2tyb2lEYTNlQjZo0gFuQVVfeXFMT2hWWGhUTEhSY2VCZVdUdnl2dnlHVGxSTnBJOVAzZTI0V20xQ00ybnpqNjVscmJUT1pDbS1WTUZ2N2xCRW5wdHNDbl94TV9PajFMZWp0UjRpWFBOUENmMkJpZWo2czFjS0xFcUx6Tmc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-28T15:26:26+00:00"
+    },
+    {
       "t": "뉴욕증시 혼조 출발… 워시 연준 의장 잭슨홀 발언 주시 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2pfV3pEVGlGUXd0NmJKbDdLZ2FvdFdqUXF1cjBWZXdmNnNLeDRzcE1FdFp1TEZhWnNIemNxWGVOanZxeGtjT2hLVV9UTzdEY214dG5KWllDcjJIQVhrMVdyNHlPUWR3TE9WZTRfa3VOQUgxcTBFUFZoVV9UOVQ2aUthWllGS0toT3fSAZ4BQVVfeXFMTm9VeXl4cXJuWm41NG9iS1FNcmJhR0pKTlZIcGd1WFNSbnd3VldqQmpWOVE1UXItX1g1Q1I1QjRmUkNodHpZQTBYeXZPQ2x6WGdQcFQ1djF1cjRmelMyd1pWOXFxamVaZkxvRElhdm1xN0ItUjNnSUpteU9aV3FMcTItY2Y0SXdUMzFnWk9ZUWNOWG5uRHZIZkNIZ1h0SlE?oc=5",
       "s": "Chosunbiz",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFaTVfV05YZXhRcWRNSXlhaW1VdFB2ZEZ3TW5wWlRuaFF3Vk95N1Z6V1h1dmhTTUlNeXEzM0cxdnZ5Z3I0WEtzYzAwRzZ4MW5WdF9YdUgyU1ZpbENwdEJpY9IBeEFVX3lxTE9hNTZuWndHVUJlV3E5YmlRblN5NEtHenBJSG1zbjNYdGpwNUFDR1d1WWo1Y3YtRnA1TXhHbjFxeDdMbm9UbGlLT1VBbTlIZ1kwTVB0TlVpZFY3MVBLZVNBRGxDQWxTRXNXaFMzLTJoYUNTWDNLR0NnVw?oc=5",
       "s": "뉴시스",
       "d": "2026-08-28T15:07:05+00:00"
-    },
-    {
-      "t": "美, 현지 알루미늄 제련소 짓는 기업에 수입 관세 '반값' 혜택",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94Tm84YWFTbXhXdGpLWGhwWUNobnNDT0NlOGFPR1lTUmsxcWM4amZDSzd0NUFlU3BDLTVLNzMxQ24ydmg5emxNaU9zM0tlNXNlN2pLRFREVXVjdDhmb0M5RVZnbw?oc=5",
-      "s": "더구루",
-      "d": "2026-08-28T15:00:31+00:00"
-    },
-    {
-      "t": "美, 저가 태양광 막는다…최저수입가격제에 15% 관세 도입",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tYU1yeEtvcWhTX1htWHo4VzVfUV94WmJ4Zl9EQTF6TW5QYXlSNU12OHFJX0VVY1czTnFfdVZkazVyVlRiRDV6VHhrSXNYclhkN1BSSW5qZjJZU25CdElpLUw0bw?oc=5",
-      "s": "더구루",
-      "d": "2026-08-28T15:00:24+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (48) 블루아울(Blue Owl)... 실리콘밸리 파이프라인",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUhWUmxqZ0lGbTB6RV9Yc0xqS2FHR2FySHFHd3RZNm9GYUY1eUt1bF8yNVF0NnNXUDBVODBkY2otNzViVUx0aUY1UF9ObWxUTExjVmdFYnZlOFdnRnNFdnd3UEtQVVpRREZFRS1qWTV0SUFscWhvNmt5cUwwOEVFSm16ZEQ?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-28T15:00:00+00:00"
-    },
-    {
-      "t": "'매파 워시'에 美 선물시장 9월 '금리 인상' 베팅 40%대로 '쑥'",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UcTZOSkJSQmI3ZTVVTnRQcmVKNTV0TGZyTlNoUEIzMEI3SGprcHotZXkxMTJmbm5UZTY5czZKVGowOFB6NFlBU29Qb1NkNjNYTGZwS2wyaFhrb2tXQ0d3Nm91U3k2V1hYOVdDTmhSaEtoQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T14:50:46+00:00"
     }
   ],
   "asof": {},
