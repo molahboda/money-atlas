@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T09:00:59+00:00",
-  "quotesAt": "2026-08-28T09:00:59+00:00",
-  "newsAt": "2026-08-28T09:00:59+00:00",
+  "fetchedAt": "2026-08-28T09:15:59+00:00",
+  "quotesAt": "2026-08-28T09:15:59+00:00",
+  "newsAt": "2026-08-28T09:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.49,
-    "krw": 1371.58,
-    "gold": 4656.7,
-    "wti": 83.26,
-    "dxy": 99.2
+    "vix": 14.51,
+    "krw": 1371.78,
+    "gold": 4657.2,
+    "wti": 83.33,
+    "dxy": 99.21
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.86,
-    "dxy": 0.04,
-    "gold": 1.02,
-    "wti": -0.32,
-    "vix": -0.14
+    "krw": -0.85,
+    "dxy": 0.05,
+    "gold": 1.03,
+    "wti": -0.24,
+    "vix": 0
   },
   "news": [
     {
@@ -35,6 +35,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycVVRTmtuMDFKRXo5bTdMR1dXR20wUHpMRXRoRTZYOFAyWjQ4eU1sRXlHa2t2bDRnUjVpTW0xSjBGRFdiOWtRb3RIbTNyVUtBelZQUUt1REE4alYzckQzZNIBYEFVX3lxTE1ycVVRTmtuMDFKRXo5bTdMR1dXR20wUHpMRXRoRTZYOFAyWjQ4eU1sRXlHa2t2bDRnUjVpTW0xSjBGRFdiOWtRb3RIbTNyVUtBelZQUUt1REE4alYzckQzZA?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-28T08:07:29+00:00"
+    },
+    {
+      "t": "美 반도체 관세 확대 우려에 코스피 1.79% 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dm1ZN1lUNG5kNFc3T3BPTjJmYVhnV0NfMFd0WllQUGdHcVpDMEpRcjNFWWpDNTZPWlRQR3lYTHJHd0ZPbW5zeUlMZE9ZS0NhNlE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-28T07:48:11+00:00"
+    },
+    {
+      "t": "[표] 코스피 지수선물·옵션 시세표(28일)-3",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSHJXX2luWVRrcktnZko1VkxCcnUxSXBvMXBwdl9WeUdfajVqR3ZSOXhUeV9LV0tldkRQWEE0VHU5NU9BQzY3WHhWUU11RTVua2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-28T07:40:27+00:00"
     },
     {
       "t": "美 반도체 관세 확대 검토... '삼전닉스'보다 미 AI업계가 더 우려",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVHNBVnV3VEdYcE05b2wwX0p6N2lSUjc5cDhUT0p1OXJ3dklSLWhoVVQ4VHZnUDA0bFhOd2VZZm5TSlk0eklpWUVDamY4VEE?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-28T07:32:00+00:00"
-    },
-    {
-      "t": "[외환-마감] 수출업체 달러 매도에 13개월 만에 최저…1,370원대 초반",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jeGZLampzYUtwenpJdDlYc3lJZnJGYU9WNlkzbGdBdGYycnRXci1fblJ1RTBOMDJEZDNMYXdUS3Z6V2hyV2hnTkFQLVEyaVlYX1BVZkFvcGRtNDlVb0RZV1gxbnppVjVQMGw3QmVydTZFQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T07:31:58+00:00"
-    },
-    {
-      "t": "코스피, 美 반도체 관세 우려에 대형주 약세 '6700선 후퇴'…코스닥 0.09%↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGTXJ0VmVkNFhiazBpNFFEN2ctQkhfOEZWVDB2bVhQeHNTTUdJVkg4TkEyNkpOemZJVU5OSi00ZzBOV190OEN4bXdMaUQ5eWtvR2Fzc24xV2dnY3BEZ01Ccg?oc=5",
-      "s": "프라임경제",
-      "d": "2026-08-28T07:25:18+00:00"
     }
   ],
   "asof": {},
