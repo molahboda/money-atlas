@@ -1,25 +1,25 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T07:45:59+00:00",
-  "quotesAt": "2026-08-28T07:45:59+00:00",
-  "newsAt": "2026-08-28T07:45:59+00:00",
+  "fetchedAt": "2026-08-28T08:00:59+00:00",
+  "quotesAt": "2026-08-28T08:00:59+00:00",
+  "newsAt": "2026-08-28T08:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
     "vix": 14.55,
-    "krw": 1372.07,
-    "gold": 4665.2,
+    "krw": 1372.38,
+    "gold": 4664.4,
     "wti": 82.84,
-    "dxy": 99.18
+    "dxy": 99.17
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.83,
-    "dxy": 0.02,
-    "gold": 1.2,
+    "krw": -0.8,
+    "dxy": 0.01,
+    "gold": 1.19,
     "wti": -0.83,
     "vix": 0.28
   },
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-08-28T07:34:47+00:00"
     },
     {
+      "t": "美 채권금리 다시 압박, 외인 1.7조 순매도…코스피 6780선 밀려[시황종합]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bWdfOVh6TUVsM21MbGZlUndPRFdncFYxSUdpQ2ZrWXFDY2VBWFhPNHNYQVVjcFZ4ZWNTbFZzU3VyLXFfVW5rNGVMdXJvNkE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T07:32:00+00:00"
+    },
+    {
       "t": "하정우 \"전남광주, AI·반도체 전략거점으로 육성\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OVHNBVnV3VEdYcE05b2wwX0p6N2lSUjc5cDhUT0p1OXJ3dklSLWhoVVQ4VHZnUDA0bFhOd2VZZm5TSlk0eklpWUVDamY4VEE?oc=5",
       "s": "v.daum.net",
@@ -53,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jeGZLampzYUtwenpJdDlYc3lJZnJGYU9WNlkzbGdBdGYycnRXci1fblJ1RTBOMDJEZDNMYXdUS3Z6V2hyV2hnTkFQLVEyaVlYX1BVZkFvcGRtNDlVb0RZV1gxbnppVjVQMGw3QmVydTZFQQ?oc=5",
       "s": "KB Think",
       "d": "2026-08-28T07:31:58+00:00"
-    },
-    {
-      "t": "美 채권금리 다시 압박, 외인 1.7조 순매도…코스피 6780선 밀려[시황종합]",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MVVNqYXp6MTVqTnkzMWhBWHIwZDYxa2VtcExOdFJabld4Rm82bGlTYmVKY3dkb2U2bHpFbFFqc1RxMExJZEZkZEw1RXBuWTZzYzFrNXhvRS1DWE1ONmhJ0gFkQVVfeXFMUFU3OUtYMmFETEhSb0Z0VzROSGJ1LXVZcm9xVENCckhqV3R5MEw3Y1BnZlRjVFJCcGNlQ3FSRjV4NzJBdGFOTkozQUxfMDdIVjQxX19SblV4MjRKVlAzZlE5UTN6Zg?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-28T07:30:18+00:00"
     },
     {
       "t": "코스피, 美 반도체 관세 우려에 대형주 약세 '6700선 후퇴'…코스닥 0.09%↑",
