@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T17:01:00+00:00",
-  "quotesAt": "2026-08-28T17:01:00+00:00",
-  "newsAt": "2026-08-28T17:01:00+00:00",
+  "fetchedAt": "2026-08-28T17:15:59+00:00",
+  "quotesAt": "2026-08-28T17:15:59+00:00",
+  "newsAt": "2026-08-28T17:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
-    "spx": 7707.08,
+    "spx": 7709.24,
     "nikkei": 66405.56,
-    "vix": 14.56,
-    "krw": 1379.82,
-    "gold": 4531.7,
-    "wti": 83.52,
-    "dxy": 99.66
+    "vix": 14.6,
+    "krw": 1379.75,
+    "gold": 4526.3,
+    "wti": 83.55,
+    "dxy": 99.68
   },
   "daily": {
-    "spx": 0.41,
+    "spx": 0.44,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.27,
-    "dxy": 0.51,
-    "gold": -1.69,
-    "wti": -0.01,
-    "vix": 0.34
+    "dxy": 0.52,
+    "gold": -1.81,
+    "wti": 0.02,
+    "vix": 0.62
   },
   "news": [
     {
@@ -35,12 +35,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xT0dKb2x1SmRJNzZPQ1ViekloTGFrM1NqVzNQOFhBekhxZTR0eG1Hd0ZLVUVTOVhFZXR2a2ZuZGFheWs3bGNKOHN6bGtlX3hlWm92ZFhOWXhPQWd2S3p2QTEyVHR0eWE20gFuQVVfeXFMTi1qNGpRNlB3NjFiV29KdnowVVBoOXFUOGg3Z0xBOTdVQkxpazhNLU8tNlZLOUFGY2xmYlZrOVlRY29Yai1wWHN6Ynh1TlByUnJGM3JxV3d6NlBFcVNpUFNWWGE0YUQ0S0FpQVB2Nmc?oc=5",
       "s": "머니투데이",
       "d": "2026-08-28T16:20:13+00:00"
-    },
-    {
-      "t": "케빈 워시 “높은 물가 우려…금융여건 긴축적이지 않다”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56YWJHVXpIdDl1MHhkQ2ZpNzdjTnVFR2JYaGRrSjVIdjBzMW1rWTQ4MkpLSDExZlI3V2wwRVZ3NVVyZFpRaGs4YlNPTDJBMW1yYmFvaF93?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-28T15:59:44+00:00"
     },
     {
       "t": "美 워시 연준 의장, 물가 상승 \"우려\"...금리 동결 가능성 커져",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVlhoVExIUmNlQmVXVHZ5dnZ5R1RsUk5wSTlQM2UyNFdtMUNNMm56ajY1bHJiVE9aQ20tVk1GdjdsQkVucHRzQ25feE1fT2oxTGVqdFI0aVhQTlBDZjJCaWVqNnMxY0tMRXFMek5n0gFuQVVfeXFMT2hWWGhUTEhSY2VCZVdUdnl2dnlHVGxSTnBJOVAzZTI0V20xQ00ybnpqNjVscmJUT1pDbS1WTUZ2N2xCRW5wdHNDbl94TV9PajFMZWp0UjRpWFBOUENmMkJpZWo2czFjS0xFcUx6Tmc?oc=5",
       "s": "머니투데이",
       "d": "2026-08-28T15:26:26+00:00"
+    },
+    {
+      "t": "뉴욕증시 혼조 출발… 워시 연준 의장 잭슨홀 발언 주시 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2pfV3pEVGlGUXd0NmJKbDdLZ2FvdFdqUXF1cjBWZXdmNnNLeDRzcE1FdFp1TEZhWnNIemNxWGVOanZxeGtjT2hLVV9UTzdEY214dG5KWllDcjJIQVhrMVdyNHlPUWR3TE9WZTRfa3VOQUgxcTBFUFZoVV9UOVQ2aUthWllGS0toT3fSAZ4BQVVfeXFMTm9VeXl4cXJuWm41NG9iS1FNcmJhR0pKTlZIcGd1WFNSbnd3VldqQmpWOVE1UXItX1g1Q1I1QjRmUkNodHpZQTBYeXZPQ2x6WGdQcFQ1djF1cjRmelMyd1pWOXFxamVaZkxvRElhdm1xN0ItUjNnSUpteU9aV3FMcTItY2Y0SXdUMzFnWk9ZUWNOWG5uRHZIZkNIZ1h0SlE?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-28T15:16:00+00:00"
     }
   ],
   "asof": {},
