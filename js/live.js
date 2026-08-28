@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T11:15:59+00:00",
-  "quotesAt": "2026-08-28T11:15:59+00:00",
-  "newsAt": "2026-08-28T11:15:59+00:00",
+  "fetchedAt": "2026-08-28T11:30:59+00:00",
+  "quotesAt": "2026-08-28T11:30:59+00:00",
+  "newsAt": "2026-08-28T11:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
-    "vix": 14.49,
-    "krw": 1375.04,
-    "gold": 4650.4,
-    "wti": 83.17,
-    "dxy": 99.17
+    "vix": 14.48,
+    "krw": 1374.68,
+    "gold": 4651.7,
+    "wti": 83.14,
+    "dxy": 99.19
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.61,
-    "dxy": 0.01,
-    "gold": 0.88,
-    "wti": -0.43,
-    "vix": -0.14
+    "krw": -0.64,
+    "dxy": 0.03,
+    "gold": 0.91,
+    "wti": -0.47,
+    "vix": -0.21
   },
   "news": [
+    {
+      "t": "연준의 금리 인상을 촉발할 수 있는 요인은?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwV0JWTUFYbnZBLXNMMzBKaV9UNmpnSktkNnBEOVA5ZG5wcTZyeDFuNmdGdjhLQ0pJTXhBTUc1RlRWaktnNXVWdWVkc2tJTS1KLTRTWkxLNUlOTVhsekxMUUVZdExjeHFCNFE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T10:30:00+00:00"
+    },
+    {
+      "t": "니덤, 최신 트래커에서 성숙 노드 반도체 강세 확인",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNYW9aRmNjVnFwcHAxd2ZHZzFFWXdFRFNMbUJuLXlVS3dmUEVJR1pQT1UyVjlYcjZyY09FRDhrZDJoLTJ6a1VNZ1o0RGlXRjhkWXgxR2EySEpwZHBXWlAxSXdsVXdFSlJCTVplYUJleVFjTElySG5n?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T10:25:00+00:00"
+    },
+    {
+      "t": "[亞증시-종합] 워시 잭슨홀 연설 경계 속 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54dDdvYXFiUWk3bFNVTTQzVWhHb3NkeGswNE1kdEx2NnlKYjA5Si1ZTVlNQ1hyYlRyWXJEdnZyOW1mREpSdC1vWkxscV8yaXVsZEwwNXB4NHFwZmYwNjIwMG5GNFBoei1lbXRxSERsdGM?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T10:18:11+00:00"
+    },
+    {
+      "t": "IRS, 外人 비드 우위에 급등…연내 추가 금리인상 전망 강화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IZVdKOVFKczkzRXZFbGQyZ0J5dnhnZnhJWnRpOG4waVN3bGV4ZHF6Q1BNZUFTa3YyYmRCc2VHaGxjU0RVOEFMMnNwY01NNEFhNW93UHZMZ3c0d01tTHNpbTBNcjlJdHFKM2hXcUJVOWTSAXRBVV95cUxQdmI2eG5ralhaUVc5NU1zV09wTzhsOHhjcTZCX1JIem1DNlUyaVZhUTlGMFlVU1VNWHF3TU8yQnJmcGV4YzJiQ24zVE5aRDU4N3JMZXY2dmtQczl3dWYyQmJEbkNrZWNyeTJYVVQ3RTEyTVJLXw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T10:00:12+00:00"
+    },
+    {
+      "t": "[채권-마감] 금리 상승…外人 폭풍 매도·금통위 재평가",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Vm1jSHE2MjkzaUg5VDNmTVUtcEF0MWFELXhZRzhZekFqQ3VKUkZ2NkVnWEE3RXBLZzZ0NUhmNkxYMUtLMkducWk2ZTQzSERyeXRCNHhEdmt2LXJLYTUzSXoxcFdwamZVQmVPVkZvY0s?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T09:59:24+00:00"
+    },
+    {
+      "t": "원달러 환율 1,372원‥작년 7월 이후 13개월 만에 최저치",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWaEpUNkpZLWZITjJ4aWFTTjZNVFlMbW15YzhCZndDcDRrLTU3aGNsRGU0VmFKODNvYjVCYmotblZoVm9neHBUSVhiblEyS00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T09:46:09+00:00"
+    },
     {
       "t": "엔비디아 훈풍 무색…코스피 1.79% 하락",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTVc5RzFQVWVfY1A4ZEdpWmdwZGliMHIwU2dOdWhqSUduRGtFQi0tSU9SNVZyMDA1U3Vjb01BX0VNVXFfV2YyQlpMaW9ERDFGaWdNRFRST3pGNWlTX3RaSFhsSTBoNnc?oc=5",
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T09:28:35+00:00"
     },
     {
+      "t": "연준 덮친 인플레이션 경고…내부서는 이상 신호 [지금이뉴스]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uSmUyMS10S1Q1QTUwRkV1UlhyUS1qQ1IzS050SGdUN0dTU1l2eS1JUnlsUHJNREZ6VlVtb053QkZZNkpraU9qQkRpUGpCdXplSGpTT1U2Rmx6bWY0M3c?oc=5",
+      "s": "YTN",
+      "d": "2026-08-28T09:20:00+00:00"
+    },
+    {
       "t": "호남반도체, 부지 난제 풀리고 지원책도 '착착'…2030 양산 속도",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWUZZN0lINjhoLWFHZHRKQXVwMkVkdkwybml0Y2xHWDd3Tk9oaVBBYUZjcUN0Mll3VXg1QUtQdjNlWW9GYWlWaDhJaTRzWHpvNnBYVktsV2NuQUFuZ056d9IBYEFVX3lxTFBKWUZZN0lINjhoLWFHZHRKQXVwMkVkdkwybml0Y2xHWDd3Tk9oaVBBYUZjcUN0Mll3VXg1QUtQdjNlWW9GYWlWaDhJaTRzWHpvNnBYVktsV2NuQUFuZ056dw?oc=5",
       "s": "연합뉴스",
       "d": "2026-08-28T09:17:17+00:00"
-    },
-    {
-      "t": "삼전닉스 급락에 코스피 1.8% 하락… 다시 6700선",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNnZFTXNqMnl5RU80RTR1QThCVWdBc1dfT2ctY2VqY3dGMDVzeWZhdTNYMWdHdVR3WXowc3A1ZDBPeW9OMTkyMEFqVl9WV3g1XzI2YktUS2hoUkR6SUdkSkxPQk9zZEtPQ2t6em9wUFd3X0tl0gF0QVVfeXFMTmM2dkVNc2oyeXlFTzRFNHVBOEJVZ0FzV19PZy1jZWpjd0YwNXN5ZmF1M1gxZ0d1VHdZejBzcDVkME95b04xOTIwQWpWX1ZXeDVfMjZiS1RLaGhSRHpJR2RKTE9CT3NkS09Da3p6b3BQV3dfS2U?oc=5",
-      "s": "IT조선",
-      "d": "2026-08-28T09:06:51+00:00"
-    },
-    {
-      "t": "엔비디아 훈풍에도...코스피 1.8% 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10MUpUQWNEelVZYkVkbkhkYWR0TUoxNlBZN3FzLWlwbUlZQ3FvTENOS2s3Q0Zoc0hPMGFLWXhWLWRFUjBsbm5YX3V0VVlHR3huWmhSTnEyMTRLUExhUmc?oc=5",
-      "s": "YTN",
-      "d": "2026-08-28T09:05:00+00:00"
-    },
-    {
-      "t": "국민성장펀드, 로봇·K-콘텐츠에 투자…반도체·이차전지 대출지원도",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDJDa1NJVGtZZ09kSmJMWS1oYXdHdGlDZmRXNTNOR0JsV2Y2QXV4Wi1IT2VaWkt2aWgxdnh5OGVKcnYxYWlOeXoyb3BWcmJ6WVpoS01GbXdZMHZfckM5TVB1b0xldGFROWd5dG9jLXA2QkZOUHhsOWtnODJoZ2Vva3BMNUozdWwxLUE?oc=5",
-      "s": "대한민국 정책브리핑",
-      "d": "2026-08-28T08:52:37+00:00"
-    },
-    {
-      "t": "'관세 피하려면 美서 공장 더 지어야'...트럼프 으름장에 부담 커진 삼전닉스",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5dm1rNks5N3VWazFnbG9MT2Zxbmc4MlAxRGozUWZZRVQzaVlRTmR1UzVOTl8wcWVsb0tOVFpFbEdvUnl2Z0tpWUVUYkFfNUhBa2dHWFpyN2N2UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T08:51:18+00:00"
-    },
-    {
-      "t": "잭슨홀에 뜬 매파 \"美 금리 높지 않다\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aVVscnB5ZW4tTWt6WHQ3cHpSa2pkamNkclg4b3pGRTR6a01oQTlGZjNOY1lIZkY5TTdnMnhWUjBNUWw2V0VUVVRHcFdWdW5fMmZKTkFmYldOZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T08:48:32+00:00"
-    },
-    {
-      "t": "원/달러 환율 1372.5원…13개월 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvZTFneGtFNURaTTk0XzBGN1VCbjFnUUlVUy1GV1luOW8tcWFHV1hkTXo1RUp5R1VoWTZpNzNVUjdCbWxRN1RUeXpsZGVORmFkb0JlXw?oc=5",
-      "s": "JTBC",
-      "d": "2026-08-28T08:44:00+00:00"
-    },
-    {
-      "t": "잭슨홀부터 美 고용까지…코스피 7000선 가를 ‘5대 이벤트' [다음주 주요 변수 미리보기]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJWkVQODVyeFlJeTI2dTZWRXl3d0xfbldTVk5wX2NkbTBHTEpyR2U0V0hlQS1KdEJTX2htZ3JEZkdCbzJuUkdaaU93MWdfTnpKOEZiNlMxQU9mdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T08:39:55+00:00"
     }
   ],
   "asof": {},
