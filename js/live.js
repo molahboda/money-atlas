@@ -1,34 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T09:45:59+00:00",
-  "quotesAt": "2026-08-28T09:45:59+00:00",
-  "newsAt": "2026-08-28T09:45:59+00:00",
+  "fetchedAt": "2026-08-28T10:00:59+00:00",
+  "quotesAt": "2026-08-28T10:00:59+00:00",
+  "newsAt": "2026-08-28T10:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7730.99,
     "nikkei": 66405.56,
     "vix": 14.49,
-    "krw": 1371.88,
-    "gold": 4655.7,
-    "wti": 83.19,
-    "dxy": 99.21
+    "krw": 1371.62,
+    "gold": 4659.5,
+    "wti": 83.09,
+    "dxy": 99.22
   },
   "daily": {
     "spx": 0.7,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.84,
-    "dxy": 0.05,
-    "gold": 1,
-    "wti": -0.41,
+    "krw": -0.86,
+    "dxy": 0.06,
+    "gold": 1.08,
+    "wti": -0.53,
     "vix": -0.14
   },
   "news": [
+    {
+      "t": "잭슨홀에 뜬 매파 \"美 금리 높지 않다\" By Bloomingbit",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oUDFHbXg3bXpyaDZwRlBmNUN3TTdrcTNCU0pWQXVBSGlhTmppXzJXVktyNG1uOW5pTkl4OG9NNG5YNUhHcHhsbnRuakY1UWZwdGdpTTdJNEktZDJlRUplS1BMRTlLN3g2bUlfZUo4Nno?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T09:12:00+00:00"
+    },
+    {
+      "t": "국민성장펀드, 로봇·K-콘텐츠에 투자…반도체·이차전지 대출지원도",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1R6U3gyYXQyQTdZSE1DWHpEbkozXzdUWEJoY2VlRUxMTFJTR3ZXbTJnNVdwVmFaZlFnSl8tWlBGMVBCYTVTTTBMSVJWQWlSNTJTMzlONVgtNU5IRXVZSHdpM1BJU3VPd3VtbG54NFB0MmYzUkhOT2VJdEZRaTJvZnBPOXFHQkk2SXB4dg?oc=5",
+      "s": "대한민국 정책브리핑",
+      "d": "2026-08-28T08:52:04+00:00"
+    },
+    {
+      "t": "'관세 피하려면 美서 공장 더 지어야'...트럼프 으름장에 부담 커진 삼전닉스",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5dm1rNks5N3VWazFnbG9MT2Zxbmc4MlAxRGozUWZZRVQzaVlRTmR1UzVOTl8wcWVsb0tOVFpFbEdvUnl2Z0tpWUVUYkFfNUhBa2dHWFpyN2N2UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-28T08:51:18+00:00"
+    },
+    {
+      "t": "[표]외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1laUZCZlpvV2FxUDFqT3lxRS1zcEFaZEFQVVZ2cW9ULWpjTWZPQ0ZfS3pqX2szelU3d3dWREFTWHRRZ2lvZ0ZHc05EZnNBeEVSY1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-28T08:45:47+00:00"
+    },
+    {
+      "t": "두 달 연속 금리 올린 한은, 다음은 천천히…신현송의 '호미 긴축'",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hTWNrdzEybDZHUlVON083cmhUR1BTQ2pXWmgwLTFLUmpzcFNRaXVmREZpNXA3d2Q2Sk42LVVlcEwwZXVHSk12dS1fZjVHME0zRW00OWZYUHdiSmpVNExQeFNHWF9CMWxPc05R?oc=5",
+      "s": "한국부동산뉴스",
+      "d": "2026-08-28T08:40:44+00:00"
+    },
+    {
+      "t": "9월 코스피 6500~8000 전망…\"반도체 이익·美 장기금리 관건\"",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01M3BhTmI0Y3V5eUZyOVpsekotMWV5OERoazJpVDV6QnlmRlFiTUJSQWlXSzhQYTdHc0JjWGFzYnU0cHN4akNVQnZ3WWFXNG1oSWdLelduRzRFUUVIX1ZB0gFkQVVfeXFMTlFQSUxtRWV6T01YRHpWTEVPSS1ERGV1bHd3R1FDTl9HX3ByOTlQVkJkdkc2a1pQejgxX2ZONldrek5zOTdNdGotS1l3MTZ1MzRRQ0dmTHY2VmxIZlozWVZNMHBYSA?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-28T08:32:08+00:00"
+    },
     {
       "t": "금리 인상에 ’이자 폭탄’…집값 상승세 둔화할까",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwQlg2Ql9DcVIzZm9WUV9Xel9ocVlTTXBaOHpuVUQyR2VxclNfMFVtOTFvekRRdko3QkMxTmcza3ExNXFrQWYyY3RXZ3BkVEMyYlRfRTJlb0RnZHdVVS1BSndWb2NxV3M?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-08-28T08:19:00+00:00"
+    },
+    {
+      "t": "삼전닉스 급락…코스피 1.79% 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJOG5hYkk5Und0Y2ZEMnQ2czRkSlVPUGRaOVYyXzhXazlPVnFBSC1GNUNLMW9pR1ZSZXloMVZYd1lNbVdDV3AwdVBvZE1TZDduRVBNbVpVaEdaVEJPbnR5aWZCLXdseWM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-28T08:14:00+00:00"
     },
     {
       "t": "환율 1,370원선 접근, 13개월 만에 최저…원/엔 850엔대로",
@@ -37,52 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-28T08:07:29+00:00"
     },
     {
-      "t": "외인 선물 매도에 국고채 금리 상승…3년물 연 3.788%(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdjRjcWFXSnFiN1NCMkpXQzBZVXdMTEZBY0RYOHM1WHlTOGFERmxUWV90aFNhbHQ5V2E3VWpTbzV4SFhhZGpiaHVDcnZqOGNMT1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-28T07:49:20+00:00"
-    },
-    {
-      "t": "美 반도체 관세 확대 우려에 코스피 1.79% 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dm1ZN1lUNG5kNFc3T3BPTjJmYVhnV0NfMFd0WllQUGdHcVpDMEpRcjNFWWpDNTZPWlRQR3lYTHJHd0ZPbW5zeUlMZE9ZS0NhNlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-28T07:48:11+00:00"
-    },
-    {
-      "t": "[표] 코스피 지수선물·옵션 시세표(28일)-1",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UVzQyUmUtTE1oZ2FuRTFqNEU1d0JfTk55VlItZDkycUpINTJaWlp1SXo0aVF4NjlQX2VwcDBkQWQtRmZESjNfVFBLY0NjNkZQQ1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-28T07:40:37+00:00"
-    },
-    {
-      "t": "美 반도체 관세 확대 검토... '삼전닉스'보다 미 AI업계가 더 우려",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NYnM4TzVaWFpKZHpSM1hpZzFGSXRERWZ0Nm9semtWT0toM3lCc3dOQ29WajRwUXlhemFwZlVmTkhRX0dYYzQzaFNfaW0xSTB5dVZHTlY5RnZmWUE3ZE9seHc1SFhwQXJvSVZtdmhKUmNucTDSAXNBVV95cUxNTWJzOE81WlhaSmR6UjNYaWcxRkl0REVmdDZvbHprVk9LaDN5QnN3TkNvVmo0cFF5YXphcGZVZk5IUV9HWGM0M2hTX2ltMUkweXVWR05WOUZ2ZllBN2RPbHh3NUhYcEFyb0lWbXZoSlJjbnEw?oc=5",
-      "s": "한국일보",
-      "d": "2026-08-28T07:40:00+00:00"
-    },
-    {
-      "t": "“호미로 막는다” 연속 금리인상 한은… ‘800조+α’ 슈퍼예산안엔 “엇박자 아냐.”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43M2Z4UUllVWVVOVdWNlhkYlRBaU9DV0tJVFVqYk9iVDMxMzZGZXIzQmwyWjVVdENLWlQtUmp6b1pYeEk3ZjRfTFhNMEg3dw?oc=5",
-      "s": "campaigns.do",
-      "d": "2026-08-28T07:39:35+00:00"
-    },
-    {
-      "t": "원·달러 환율, 8.4원 내린 1372.5원… 13개월 만에 최저 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkxMVFIyQVlpR0hEV3pNV0VEYXRSa2lSdWlBQVF5bEVRd0J0cXhBYk5PUGZnQTNsWXpoczhiYWI0cm5OVWpScFNZQmFEYm1CSWs3REQ4VV8tWVhnVHFrZlI1b1F3ZU5HeXpSNE0xTmJ5SGdJQTVlWnpQUnRLVU15OWhpLUlwUdIBmgFBVV95cUxOdkwwVUZIY0xnbUphTXh4X1A1eHI4WGVxZnZvRW90eF9ObTl1eFhDWFFacHZBLTVMMXpwdFZDV3k0Q3JuWkNLR0xITndGajdIMXVFTEEwYldOOEdYT3hoZnpoaGlVQ0pPcklFVl8xLWRzQXk5cFQ2UTA2LWlXNVhFOXZXYjRuZVpRSWFqcmVJTzMzS1Y5Q3NZRUJn?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-28T07:38:00+00:00"
-    },
-    {
-      "t": "K자형 경제 뜻과 원인 | 반도체 호황에도 체감 경기가 다른 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZHR0ZE5FWVF3VkJIbjV0OE1PQ3JaTlRBdGc0Wk5HV0p5S3A2WWxuWU4xTmE0bE51MVNoU3pZLVUzOVVRUWUwN3RSak9lRjBPdklpN0ptWkVhQVB4QWpxYkpvV1RqUnBVT3FZUg?oc=5",
-      "s": "KB Think",
-      "d": "2026-08-28T07:34:47+00:00"
-    },
-    {
-      "t": "美 채권금리 다시 압박, 외인 1.7조 순매도…코스피 6780선 밀려[시황종합]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bWdfOVh6TUVsM21MbGZlUndPRFdncFYxSUdpQ2ZrWXFDY2VBWFhPNHNYQVVjcFZ4ZWNTbFZzU3VyLXFfVW5rNGVMdXJvNkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T07:32:00+00:00"
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSW5GbV90TlVwQlpwWHhLRnd5OVBIM2NuY3BaWlFfUkNSbVE4SHRQaTE4Szd2eW1oMkloelozQ0g1VUQtQWRMQW04RERZRDBVZmFoSnpDZnItRjhqV2w4b1VmLWpQSWxjaXpDeHBJdWNHWVhpU2dEc9IBeEFVX3lxTE5DczFTWWxEeTZkNjNWc3N2X1BfM210WENiZEQ2UWJhTnJyT3RBdGRjUHA2YWNXb0FDa2szVDJ3Q05NQURZUnhmaUcxMGU2by1ROUpWMXU0VG9kVE1SaVVlNWpqU1dpVmdwd1hHSF9SX0l1WUJISzktaQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-28T08:06:41+00:00"
     }
   ],
   "asof": {},
