@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T01:45:59+00:00",
-  "quotesAt": "2026-08-28T01:45:59+00:00",
-  "newsAt": "2026-08-28T01:45:59+00:00",
+  "fetchedAt": "2026-08-28T02:00:59+00:00",
+  "quotesAt": "2026-08-28T02:00:59+00:00",
+  "newsAt": "2026-08-28T02:00:59+00:00",
   "quotes": {
-    "kospi": 6837.5,
+    "kospi": 6826.19,
     "spx": 7730.99,
-    "nikkei": 66436.62,
+    "nikkei": 66627.71,
     "vix": 14.51,
-    "krw": 1376.23,
-    "gold": 4640.7,
-    "wti": 83.06,
-    "dxy": 99.12
+    "krw": 1377.07,
+    "gold": 4635.8,
+    "wti": 83.04,
+    "dxy": 99.13
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.43,
-    "nikkei": 0.46,
-    "krw": -0.52,
-    "dxy": -0.05,
-    "gold": 0.92,
-    "wti": 1.01,
+    "kospi": 0.26,
+    "nikkei": 0.75,
+    "krw": -0.46,
+    "dxy": -0.04,
+    "gold": 0.82,
+    "wti": 0.99,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "'하루 만에 15bp 껑충'…백투백 인상에 CD금리 괴리 일부 해소",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81bjRRTjhqcFdJUnktb2p3cC1pNGVEbUlXbnRCZGZIbUZKdkt4T1BEenFERDc3bXVoX2owLWNyM3BVN2t4VmlfTlZwNldwWUxIX18wRUp0emUzR2N2YVlQNklZdTRhZXRoMDRUSkt0Y08?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-28T01:53:34+00:00"
+    },
+    {
+      "t": "도쿄일렉트론코리아, 대학생 반도체 인재 키운다… 실제 장비로 공정 실습 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHNFUE5TeDgxOFBzclJkdV9ubjk3Z1pUTEdFRGZpTTVXRVgwQlhCYVF3TmgzU1plNkVfSFhUR1NtXzNIQm40Q0d5SXMxZTA4UXZqMFc4NkFMeExHb3RCb3FWajFid2hKWlU2ZHdJa0h6eWM2ZHFONGh4Yko1VnFITklB0gGWAUFVX3lxTE9WYWF3R0h1aE94ZjhJblYyQnVraC1RaWNrQkFfejlpa2xQQTRDdHVoX29xcG9LV1lucWpTeU1kcDg3ejBUT3RGNzcxNC1HaDZJSGNacGZOeVdieHRVV2ZnYU1sSTdfbEN4VGNQQ09ieS1oNUt4TzBRN2NCZHlmM21QY2NwYUFwdFd4SDF2Y2VvUng5Tzg1UQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-28T01:50:00+00:00"
+    },
     {
       "t": "자영업, 코로나19 장기연체 채무 감면…3% 금리에 “빚 부담 던다”",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2SXFjTmdERG9PanNLVzFaTm9seWpuMFU2NlJYT25YTUktU21xbjVNaF9ZN01LR1lkZmN6dXFVVDZpS0hfT0tzZG1JNU1UUEluV0JPWGRfRUplbk0?oc=5",
@@ -38,9 +50,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "5년만에 16개 광역지자체 수출 모두 증가…반도체 빼도 늘었다",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wUS1QSE05VnpuWXB1X3c3UG0wXzN2cE8yQVVCU0Nhc3NwNElYUkJlY2k1SGItWlRRWnR1dFRGNEs0RmZZQ093WkMwWkY1Xzc3cGxYYWtZUHZ5cG4tTXdxSnRyM1cwNGhVcU9nMjlINms2VmR0?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-08-28T01:33:19+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jTFVNdUFCWTk1Q1ZkNlpGQ2dVZk5CNUJYUjJKemMwNkdjUkN2VTdYdGJtUVZ2LXFaYTA5d3BKVmJDYW9hUlB4dlFSOUdJZ1k?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T01:34:46+00:00"
     },
     {
       "t": "[하우머니] 기준금리 3% 시대…한미·미일 금리전쟁, 시장의 향방은?",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTmtzQmtQbkZ1NkhwTXhMR3VUaVc5RE5oVE8xYjd1N0RkdXRVNWRuaXVGb09yOUZ1YWpCMzE3Q3R6eERHcktKU1BPSFpROHEzc0FVbkN1V0tsSzlwUUZ3YldoSUQ5Nmc?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-08-28T01:23:00+00:00"
-    },
-    {
-      "t": "트럼프, 칩 넘어 노트북·서버까지 관세 검토…한국 반도체 ‘미국행 압박’ 커진다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NSGUyXy1FcTE0TXJqcHdfVE91OC1UYVY4Zk9WV2Z6SWFJM0E5SVBJRFNjLWxFTTRZRkhMVzkweDNIejktelNNNjBWUnVCSkpzRkg1bkV3YjVvUQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-28T01:18:00+00:00"
-    },
-    {
-      "t": "엔비디아 훈풍에도 코스피 약세…7000선 앞두고 ‘숨 고르기’ [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yTjZYTW8ySjI1enU3NnFBM1d3cGJxbllxWHVzZDlSeTZwSWF0dWZYcmlTQ1lrVjRNTGZocEVITHJjNEVjVGs1STgtVVFTRDFPSXM0eWVOTQ?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-08-28T01:16:43+00:00"
     }
   ],
   "asof": {},
