@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T03:15:59+00:00",
-  "quotesAt": "2026-08-28T03:15:59+00:00",
-  "newsAt": "2026-08-28T03:15:59+00:00",
+  "fetchedAt": "2026-08-28T03:30:59+00:00",
+  "quotesAt": "2026-08-28T03:30:59+00:00",
+  "newsAt": "2026-08-28T03:30:59+00:00",
   "quotes": {
-    "kospi": 6833.81,
+    "kospi": 6841.5,
     "spx": 7730.99,
     "nikkei": 66682.88,
     "vix": 14.51,
-    "krw": 1376.94,
-    "gold": 4640.1,
-    "wti": 83.08,
-    "dxy": 99.14
+    "krw": 1376.86,
+    "gold": 4639.1,
+    "wti": 83.2,
+    "dxy": 99.15
   },
   "daily": {
     "spx": 0.7,
-    "kospi": 0.38,
+    "kospi": 0.49,
     "nikkei": 0.83,
-    "krw": -0.47,
-    "dxy": -0.03,
-    "gold": 0.91,
-    "wti": 1.03,
+    "krw": -0.48,
+    "dxy": -0.02,
+    "gold": 0.89,
+    "wti": 1.18,
     "vix": -4.6
   },
   "news": [
+    {
+      "t": "아시아 증시 혼조, 워시 연설 앞두고 코스피지수 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HazNYTE0tMVdJZ2U1a25vX1h3RFhuN0F6ZVdIbi1vcDlycXJRU0FHRjZzSlRKSF9vVmhqTVpVZlJkTTNCUGJlSXZqVXdKbk9Gd1lsZllRYmNmWFpCSkJvckVreU11UllYdXpTZ1VsNUg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-28T03:20:00+00:00"
+    },
     {
       "t": "‘호미’ 든 한은, 기준금리 3% 벽 세웠다…최종은 3.50%?",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GS2VaNEhZcmpodW95eDFONFR4ZlZhSTZSR2xpcldodHNVazRZOGhFTzFXaFBCMW0yVS1aYkUxcllsVlhqQXVKLWt3ZlY0VzR4a1ZZSGNPOWNoTnFtWEluWGZEbHZCQVhWQ3BoM2VzRGYxbXhL?oc=5",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZnExakZMRGhwSlNSZFNjc3dLT09nS3ZHMmFTQnpYb2Y0clZpVWxVSkt0bE1mQnh1R3h2dFM0aHhfYUJQY1pUeUV5QTVjbHowd3ZjY05RZFBncUk?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-28T03:01:00+00:00"
+    },
+    {
+      "t": "한달새 원/달러 환율 125원 떨어지자…달러예금에 '뭉칫돈' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ISHVCZlpBVHdMcUpLa2Q1LXNYMmQzb0M4c0pBUTM5Q0hDSnFLSWd6dnp3aFhBcC1TWUE4bnpnbHpzSURWc1g3THFHeHBuUGl1c0FSYTU2SmtuVWN3b25EYmZDc0ZFRlVKNUhR0gFwQVVfeXFMTzJkb0Nya2lkNk5ISVlCaWFtb2Rfejl3U0xHdS1UQl93dlBvak9jb2hoRTNjelI5c3hvajFFS284UDNVWkZZVExaYjJNV2tqb2c4UG1xeTlodEtPUWhpdlk1ekJDUV9HOVZTNW9vOVMwcQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-28T03:00:00+00:00"
     },
     {
       "t": "美, ‘반도체 들어가는 완제품’ 관세 확대 검토",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T02:43:19+00:00"
     },
     {
-      "t": "국힘 “정부 확장재정, 금리인상과 엇박자… 서민 잡는 청개구리 재정”",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UYTVuVUl6SE82Z3F2SzU5RlY3LW5XemUzNWg3dHlyNHB1bGNlWkZhblg4VkZWMl9VUGFzZXVORUo3MUVNWmhjYi1Obm1yVmxzYlJvUVlVZjJuWmtCTmNIOS12WE5HRzFyQnpCOTVLSF9MbEVBQzVN0gFmQVVfeXFMUGpOQnFMTWtLY19IZ2htR3hibi03VmZjRFpLYUt4UHhaWVczdkVLX3J2YWI1aFVYeVVvemU1ekdjVVhoWEZubjV4T0VUbXJDZDFVQkY5R0J1N2pmYnJkVmc1ZmlmYWZn?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-28T02:40:55+00:00"
-    },
-    {
       "t": "코스피 하락과 삼성바이오 유상증자· 환율 전망까지 이시각 주요뉴스",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMlpkT196Qk5tSjcyYWdFeEtKM3ZKYVREdkxSVEFQUmJfeTdFUTVJN3h6RERsbTR5b0tpdHp1b21fazNER0VzeUJ2Z3JZaU8yemtwVVU4OTh5S0x4TXVhNGVLS1ZSOGFRU2FmdWJXak3SAXRBVV95cUxOVVM1YlhNT2VHT1pHS3BjTjlHeXU1WHUyMHRzU053UGF6WXByVENwcXVPN0FpSktPeml5SVdBaGRVeGJtVjFTS0kyQjNXaWxXUnZXMW9EeFlFdm5JdjRIV2htUmJBUHRLQlJadDNVcGdQSUtIaw?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-28T02:40:03+00:00"
     },
     {
-      "t": "ING \"ECB 내달 금리 인상 가능성 커져\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZU3BjWGZPdEcwQ0FRc1VDV3Yxd2duT0N5LXRrQmlpZ2tBTkVrVlJSc3NmbjhjSUNFOHpzYy1mQllteEV2TFhjSU1ZWHdPMXRIbk04RlJjMzdhbzktLWFvbHZBOWRMd2JlMVFQeDNnNmE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-28T02:38:55+00:00"
-    },
-    {
-      "t": "한화·산업은행, 500억원 규모 상생펀드로 협력사 금리지원 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVlXWUVsZlQ3cjJXVUNkQTlsWGVxek9fbGtRcTN5M0c0U2locE82RjBrV2daRUhoOFZaZGVtbW9fV1lPcjFUX21mLXZzYU11bFhjRGpoam5CWFAzcDJVcGpUWEhRWWNVeHRhaGIzMFZydXpNZ0xYTm9VbkVGOVNBeNIBlAFBVV95cUxNMUszTzlZaUI2U0V2enBrblFEUDZOc3dMVXNDdm9SRlYzZWZoeU95SVljUnV2QmQ1ZklZbDZXZFkzZ0ZUYjd5dlpXT0hra3RrWGJtMUtWakV6UnFGMlRUc0IwNHBYS2x0aEMwVmU4R2xFRTVZemtEQnhwazNGX2hqNDF0ZktzY2I1Nm9sVF9oQk5qRG0x?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-28T02:35:00+00:00"
+      "t": "국힘 “한은 물가와 씨름하는데, 정부는 흥청망청 쓸 궁리만”",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UYTVuVUl6SE82Z3F2SzU5RlY3LW5XemUzNWg3dHlyNHB1bGNlWkZhblg4VkZWMl9VUGFzZXVORUo3MUVNWmhjYi1Obm1yVmxzYlJvUVlVZjJuWmtCTmNIOS12WE5HRzFyQnpCOTVLSF9MbEVBQzVN0gFmQVVfeXFMUGpOQnFMTWtLY19IZ2htR3hibi03VmZjRFpLYUt4UHhaWVczdkVLX3J2YWI1aFVYeVVvemU1ekdjVVhoWEZubjV4T0VUbXJDZDFVQkY5R0J1N2pmYnJkVmc1ZmlmYWZn?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-28T02:40:00+00:00"
     }
   ],
   "asof": {},
