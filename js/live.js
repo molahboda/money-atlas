@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-28T23:45:59+00:00",
-  "quotesAt": "2026-08-28T23:45:59+00:00",
-  "newsAt": "2026-08-28T23:45:59+00:00",
+  "fetchedAt": "2026-08-29T00:00:59+00:00",
+  "quotesAt": "2026-08-29T00:00:59+00:00",
+  "newsAt": "2026-08-29T00:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "[뉴욕증시] 워시 \"할 일 있다\", 반도체 '털썩'···빅테크 '강세'·메모리 '선방'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTG5nNmNjbm1hbXhXOUE2MjVnVUlEWUI3ejRXaDdjMmFnM25Ib2FHYWJmVW5Ta01FUHdnTkdJenJUUGQ0T3FVZDVFQUNNS2dCZ2pvRkhRRzJEWlRmc2JBTVk3dW5JZVFlU1E?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-08-28T23:57:32+00:00"
+    },
     {
       "t": "케빈 워시 미 연준 의장 매파적 발언에 9월 금리 인상론 부각",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vZ0dJbHRUT01uazBuU1dkME4tcU15d2EtN1Z4eGExS2NTVzFYZnd0NVg2WVMwNjNTWXVnckhIMndKQjctN1Rlbm40UmQwakNTeU16bGpHZnRyWjhobHlzeXF0b0k1Q1Z3RFZJ?oc=5",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-28T23:10:00+00:00"
     },
     {
+      "t": "베선트 \"엔화 불안시 美 금리상승\"…엔화 개입 의도 밝혀",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRG5JUW9BRFZnRjEzME50TGxGMFRSYXI0anJJTWNjbFJDNi14czU3SkY1eTN1OTNGODdTS1pDM1lQaVNoY1B6ZDlpWkhMcm1jMkxEMmxfYkxJVEl0eTZCU9IBYEFVX3lxTFAwRG5JUW9BRFZnRjEzME50TGxGMFRSYXI0anJJTWNjbFJDNi14czU3SkY1eTN1OTNGODdTS1pDM1lQaVNoY1B6ZDlpWkhMcm1jMkxEMmxfYkxJVEl0eTZCUw?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-28T23:08:13+00:00"
+    },
+    {
       "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
       "s": "한국경제",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VDJvRzNXZTc3OUVYd0hFZEtsdVJORVB1ZUYweXhLVXRicnJfVzRkRl81Zlg4WUMxQkExbmxoUFNsckxOaEcwQnBKQkV6ZTZUeklhdFBpQnJUZw?oc=5",
       "s": "한국경제",
       "d": "2026-08-28T23:00:12+00:00"
-    },
-    {
-      "t": "내달 美·歐·英·日 주요국 금리 결정…글로벌 긴축기조 강해지나",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNbkJLd2R3UFh3TmxyTU9CSW81QTE4TkMxeFk1ZFEzTzVEb3VCdUloRjBFcVFlRHl3OXE3dml5bnJ6dTJXTkZfSDdTaHlWUHItSjdwQktqaUxHN3NmMmo1cjFBck5VTDR1TkpFSW53SdIBc0FVX3lxTE0yVDcxUE1TbEZJcURjV1J1NVgyRU5DSW95amZtN1EzRnlMNXR4MkctS2VKMC1HQ1dYZkl5ejZOMnAxWVBra0xJLUc2dnRQRUZmZnRmRG4wZ2RNemwtRWFwYmRiSDd0aTY3MHdjWWU1S19wcXM?oc=5",
-      "s": "뉴스웍스",
-      "d": "2026-08-28T23:00:00+00:00"
-    },
-    {
-      "t": "다시 160엔 뚫린 엔화…日, 9월 이어 12월도 금리 올리나 [도쿄나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NN0k1SFBWSGoxRThNQjctamNOS3hrR2tEc19GSm5oYWhKMmN1R2dXclUyMFJQclFGNjJiVEV2VmVPcUt6ZzNJcGI1UEdySDhSVDNkZlVRNWgyQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T22:52:07+00:00"
     }
   ],
   "asof": {},
