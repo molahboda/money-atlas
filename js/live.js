@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T10:15:59+00:00",
-  "quotesAt": "2026-08-29T10:15:59+00:00",
-  "newsAt": "2026-08-29T10:15:59+00:00",
+  "fetchedAt": "2026-08-29T10:30:59+00:00",
+  "quotesAt": "2026-08-29T10:30:59+00:00",
+  "newsAt": "2026-08-29T10:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,10 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-29T10:11:00+00:00"
+      "t": "뜨거웠던 비트코인, 연준 의장 발언에 다시 급락…8만 달러 아래로",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4MFpOODM4RHZSYmxDLXpTMUdwdnczTE5RNnBJWmJVVmtxX3JrdUdDU2JBSWFVVWUzWURvX2RxZ0ozUXlsLUpQb0RCbVQybVoy?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-29T10:24:13+00:00"
     },
     {
       "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
