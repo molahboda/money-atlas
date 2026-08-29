@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T12:15:59+00:00",
-  "quotesAt": "2026-08-29T12:15:59+00:00",
-  "newsAt": "2026-08-29T12:15:59+00:00",
+  "fetchedAt": "2026-08-29T12:30:59+00:00",
+  "quotesAt": "2026-08-29T12:30:59+00:00",
+  "newsAt": "2026-08-29T12:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -35,12 +35,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNEhTdmpNSmVnTmRPd2RDZlRjYUZKZmpRcnNVbjkwSkE2Y19JclFCY1VxSTFXTW9Pc1RkczdMTnRmaFA1RDZmV1haTDhlQ2dfcjQ1SXBOcGoyZw?oc=5",
       "s": "Weverse",
       "d": "2026-08-29T12:01:45+00:00"
-    },
-    {
-      "t": "트럼프 기대에 찬물? 워시, 금리 인상 시사…뉴욕증시는 ‘뚝’",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SbzcycnUwMEh4NDJyRm01QktFaXI5RmhuMmxETFRiMDVHNHczVkFkbExJbDluTE1QdjJWdUFOd3BWTGVXSmVwWms4VkhIay1DZkxtcg?oc=5",
-      "s": "JTBC",
-      "d": "2026-08-29T11:42:00+00:00"
     },
     {
       "t": "이천시, 서강대 연계 고교생 반도체 자율연구 2학기 운영",
@@ -82,6 +76,12 @@ window.LIVE_DATA = {
       "t": "워시 연준 의장, 물가상승률 2% 사수 위해 금리 인상 가능성 시사",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Vy1MZTc5UlBCa2FTOTVyUGRNRm1pTDIxS2dFazBVakJ0SnBGczdta2Z5dHloRVp1V2pYSWJ6MExNdW04blVJYWluLXMyUFpZLUZndW9TTWZvZw?oc=5",
       "s": "브릿지경제",
+      "d": "2026-08-29T10:11:00+00:00"
+    },
+    {
+      "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
+      "s": "연합뉴스TV",
       "d": "2026-08-29T10:11:00+00:00"
     }
   ],
