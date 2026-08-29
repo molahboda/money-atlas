@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T22:01:00+00:00",
-  "quotesAt": "2026-08-29T22:01:00+00:00",
-  "newsAt": "2026-08-29T22:01:00+00:00",
+  "fetchedAt": "2026-08-29T22:15:59+00:00",
+  "quotesAt": "2026-08-29T22:15:59+00:00",
+  "newsAt": "2026-08-29T22:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "中 반도체 기업들이 IPO에 줄줄이 나서는 속내",
+      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFhJZ1c0ZkRnMUdBd0g1MnJiVndMM0ZsWGl2TzJPV1lvWWhnT0xoZmhpNFNVMGY4cmlROWR2UWc4ZW1LNDR2d3ZFQi1WT0lRQVJXZHRIN0FmT2JQTWQzQmpVeFlNOXlpNGV0ZGlSZER3TUpsd3psMnlhdXE5MEU5VlliTmg4cGhzUGFSd3U2UkpXaXlMZEZqWTRERmZhYUpuUmJvOHA5bmFyMGFSSVF2Zm01Tm5STDBtaGlyX2lES2t4YTVxOVhpcXFENEgtV2pqdE9RVlVIOTFmd3FteFJrdE9aRWZhLXBnQ0pTeHJFam1WbEVCay12Vw?oc=5",
+      "s": "데일리안",
+      "d": "2026-08-29T22:07:00+00:00"
+    },
+    {
+      "t": "[마켓인사이트] 확 다가온 美 금리인상 우려…코스피 향방은",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGWFpUdHdUempMNDVkWWlUM1hmZVpkQVhDcFBYWWlQMDlkdUJRUmNiVVVhTUljZnVUd0p2Vnd3Y09TdG4tVEpTR25CUjIwdmhHM241elFGMnVidnPSAWBBVV95cUxPQWluZDNCVjlwcW5pYTdkNWdNOHNrUTlnRHV3QkFPSTkweTFwLWg5SDR1LVBXV3U0Z2hJckYtU3prYVJvVnJ4QWhtaVBGc3cyNnpOTGl3X1Zsb0pscTZoeHk?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-08-29T22:00:11+00:00"
+    },
+    {
+      "t": "‘금리 인상’ 금융권 희비…은행 호재, 증권·카드사 수익성엔 부담",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTmZlM0ZlYVBhM3ZITDZTVUhJcTl0RUJNcjdKSTFmTzMtdng4QXRVbDR5aEhHM0RZWXB2QjV4c2VwTng1OFVZdFg1X1VlR1V5Y3JsMlZMVThVdy1aand6OFJEc2hvSGdh?oc=5",
+      "s": "CEO스코어데일리",
+      "d": "2026-08-29T22:00:00+00:00"
+    },
+    {
+      "t": "반도체 실적·주주환원 모멘텀 지속…7000선 회복 시도[주간증시전망]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEUVBwM2E0cWY4QkxLZ20yMUZES0wzZmlCQU9TRnVxNmZ5N1BkU21naElZempKdFpmRjNUekM2cm9jZGVFZmFOM0FvNlJhSVltYkctRTlkMXVzVU5IM2VkS9IBeEFVX3lxTE5MSTVfX1BfUERZVG02OXREYUNKenNuUk4wNERVT21nUmlVZWtURmF1OG1zRWY5SWwzci1WUjZZZVlWVTRlU1FoMXg5aEtXamVwVzVnTUVHblBPdzJMWVVDcGJkU09idWI0MERvbENBSllGeFR2anNkaA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-29T22:00:00+00:00"
+    },
+    {
+      "t": "\"국장은 답답해\"…코스피 떠나 미장·일장 향하는 개미들",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OTGNPZzhwRlBpMV9lR0JqUUNtMGdsN3BCSU56ZGdRNHBBUVZ5MlIyRmh6VXZpUW1GMHltQlphZ21JaUd4UUlWRkVuX25reXFNY2ZfVV90TlRLRHZMUmNhStIBeEFVX3lxTFBMbl9PNXV5aGxmQzgzV3AtVjN1NGVaek1WNlZ2ZEdPSjlpQm9ydTFydHJUU28xdFJNb3BHZEJ1MGRNNDBvMzBaMmt5U1Y5MVZCdzRDVEY5VXV6Wmh6VDdlRFlFYUVtcTNMN04yWTdMb0dhUUdiazdRVA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-29T22:00:00+00:00"
+    },
+    {
+      "t": "반도체 효과에 뛴 동탄 집값···삼성전자 저리대출, 매수세 자극 전망",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JM1JFVFNoVG9MNkNtUnE3MklBQ0U2VnNJM2cwX3lXMDZBeUhCbl9IYWhwR0pkOEpHTUl4dG1RZU85VXpDYlB3NE83QWppeW5PMnJhSGJnekpfOU9IVVEwcVctWWRob3ZLYnc?oc=5",
+      "s": "뉴스웨이",
+      "d": "2026-08-29T22:00:00+00:00"
+    },
+    {
+      "t": "금리 안정에 안도랠리 이어질까…코스피 6400~7500 [주간 증시 전망]",
+      "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcHlha0VIWE9fUThyX0I4cUJGQVJXdkdhbVlla3pEV1EtcnVyRTdrVjZlWkRSbXFsSzZ4M3BSSXk4LVprc2p5akk3M0FHWWZWeUJ5V3loSEJIZWdtaTZLdHZuQWZkZFgyM3JRaVBPZldaZHNObWQxSnpQRjk2V2tKa2NTeWcxWnV1VkJIaDZNUE1YYzRjcG9QZTRWLVUzWG5zM012ZUh1cThDSl9TaEJSd05QVmVoMm56VkZHYVE5VFRXM3pHWXFyNHVhN01DcHVZUHNqSXRZenAwMU1KS1lsVkxEblhXSzBzN1lFYU9HQkh6a21Va0FBMzJjcThlN09uMHhPTDdMck44cUpSbGtlSTlpMWhtNEpt?oc=5",
+      "s": "데일리안",
+      "d": "2026-08-29T22:00:00+00:00"
+    },
+    {
+      "t": "'12년 숙원' 광주군공항 무안으로…반도체산단도 청신호",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CVlpwaW5RejIweUdWNDlUWTduaHZxcVNJcVdSSm9wU2xraloxZldYTUxUMm1ud21nSGlabnJrR1lid1NzZUhkaUZyS1ctbnJodnNOb213WWc5U1NmMTBUdNIBeEFVX3lxTE1qX0dULXFHVzR4Q1B1amczWFhmeFc3X3VTYi1EU1dxVHFZcVduaVJuVGI5Nnk5R1kxcS1IYWJac3FlZ1V6ZGcwM0Q5alZJaTdVSUNtTDZtQjE4RGFlRjE0Wlc1MXd3VzNwTTlTQ3RubndDWFk1UDBnNA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-29T22:00:00+00:00"
+    },
+    {
+      "t": "기준금리 3%로 올랐는데…2000조 가계빚·자영업자 부채 '경고등'",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReE8yVTRLNTRvV3pRcDk0VXZDUm5JLWhaNVh4NnV5RlVMNC01dHZnaXdqcl9NdEF6NVZ1cjEwc0ZPYkhQVFNXN0huWkZ6UzFTcWdhTtIBWkFVX3lxTE1ON3h2dW1tdThsenhsd01UMktvZkFld0tiSk1tZ2tTZ2stV3RUU0VwbmJ3Z0VTY21jbnJ6WUdZd0plM25ZSG1QdmtONGJfUkp5MURrVktTM05BZw?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-29T21:50:00+00:00"
+    },
+    {
       "t": "군공항 이전·반도체 용수·국립의대…'함께 가는 해법' 찾아라",
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GTTFzTG1oR3p1aXhQT053THB0dWxIYnFtT0ozTjVCSUV4VU9zWlZZSXhkLW80SWtLVjdCR1lHLTNvbkJRWUY1OGgxN25UUmNQemFWSVMzM1E4Y2o4Z2530gFkQVVfeXFMTkFIei1HeTJzOUdaZlBTcWx5eEVaekNDYlFWTWZ1RVdlcHVCVlBTMmtwQlVGYkhCWUFhUi1FS0paZ3N5ekFReF9aZGdZZGtORTVZVHdkcTZfWnQ1MnhvYmZucHAybw?oc=5",
       "s": "뉴스1",
       "d": "2026-08-29T21:16:03+00:00"
-    },
-    {
-      "t": "\"8월 고용 5.5만 반등 전망\"… 연준, 고용보다 물가 집중",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GbW1kSUF3T0dHUGZzck9TYzhFVkNxdzFMbFA4Y00wT2pPWmVlbVNuQmFDbkZBd2hzS0lwSFVPbWZaS3lRWDhlRFRyeFp1cHFsMVJ5ODJySW4?oc=5",
-      "s": "블록미디어",
-      "d": "2026-08-29T21:09:00+00:00"
-    },
-    {
-      "t": "[주간증시전망] 잭슨홀에서 나온 매파 발언… 산업동향·수출 지표에 촉각 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3hRUDdKX2xkV2dPODZPRnFGSU5MUzRHUTdUSWQ1SDM3OFAwRVo3TEdYN3dWVXZIcXpoZGl5OE1LMG1QME1rdFAwUzlpbjl2ai1FNE5hWlZFMEtiWVhaZ3Y5OGt4bnppM0ZtaU41VkQzcUNBbTR5UVprTEhhQ2U3YVMtTUFvcmpQ0gGcAUFVX3lxTE5qTGhId2hEcmNPakQ5eGFOOHotZXEtS0lLVkhxSS1xX0FfMExRWGsyeDlGS3pRYURLNHQtMl8tTXNGMHhqWC1rSy0zZVlQZFhBUDgwRnJqWDNqekJuaXRXZWZra3REam1LeFNZM3pOOHpNMk01SXpQZEYtTGxUajhyT1Y0QXJhZzBNUVFZaUZDNHlQYmE2ai1kZDJwOQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-29T21:03:54+00:00"
-    },
-    {
-      "t": "[AI 프리즘] AI 수익률 격차…반도체는 대박인데 수십억 달러 부은 빅테크는 주춤",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3Q1pZN0g2ZUdSbFFJaUJfMGkxNE9pWXVXOXdkMXVGZnJiNHB5SWFRSjJtTU1DeTlZb1VIWGt0ZnpYX2Y5cjE4X1ZDNDZYS0h2RGZZekpiQ3JtLU16bFFrVF9Qa0xFc3JRQVlDazhlUQ?oc=5",
-      "s": "위키리크스한국",
-      "d": "2026-08-29T21:03:24+00:00"
-    },
-    {
-      "t": "(주간증시전망)7000선 다시 넘본다…반도체 호조에 미 고용이 변수",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DWlRNQVVRUEJub25ueHY5YjRTRVBMd3JlZ3RnYjFyYTNIODE5YWY5R1dEQXNPYmxoSFFVUzE0bFktakRRWWhJTjI2el84b1M5bVBxNHA1ZXQ5dXdzYWt6Sw?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-08-29T21:00:00+00:00"
-    },
-    {
-      "t": "8월 수출·브로드컴 실적·美 고용…코스피 7000 돌파 분수령",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZUxDNVZyMG1vX2FDLUNXeUJaV3pWZ2Y0QndkMlVFMm4xTlVLc3hMZ2VVOXNWRDRUdDF5MVVZWjBPdTJOV0lDRFlaRENBcG1oamoyU01vQXhoNHNMSVVN0gFkQVVfeXFMTjBJTHk4Ri1kRkFpcU9OVVZaMkFzazlZWUlTSXVJM0dINE5nX0cycTN2RGxSSndlQzdvVFgwU3A2d09mZlUtR1I2YXZMRUc3T01kVUpWX3QxWGxTMlQ2UXlQWGhMSg?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-29T21:00:00+00:00"
-    },
-    {
-      "t": "원·달러, 올 들어 최저 수준으로…'백투백 인상'에 더 떨어질까",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xTmdqcFI1WXdfTnJpX0x6QkU5V0stNFVmYnlOZ016dXowcEpzR1pqU2pWWGo5VzEzSG1uY0JYTnFVYnFWckE4aGk0SHJETjNrTWpQNUxVRGhnQXBjRUxmaNIBeEFVX3lxTE1wUHJ1YUJVemRRMWNIZ1FGdlFtQlJXbHA5SjAxWi1qOFpPSnlwbVFmU1A4VVgwQVRyTS03Z0xnalltTXB0d3RXZ0dEcmhZUmNDOEtYeGZIeVdiSFIwMDNzTzNBSVVWVnlUWmJLd2lhYmd4d0lsekZLNA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-29T21:00:00+00:00"
-    },
-    {
-      "t": "\"금리 3% 시대, 앞으로 더 오른다는데…내 주식 어떻게 되나요\" [개미의 세계]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00NGlWZWUwVFFySDNUYTd1emh2Ul91bE1ScElWQlVVbEI5TTNQN0FUdW1iemZCUjRoZHJocTNiYXR5OXpIbHFSS1NYTkhyZlhKQzZ6LTV5dUpWUQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-29T21:00:00+00:00"
-    },
-    {
-      "t": "석유제품 수입 나선 산유국 러시아…물가·통화정책·재정 불안 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45M3g5bDZFb2VqWU9rZXVLUjN5bktoQnlPdTlvbk41WTJCX1AweGxBRllUUmc2bHY2NERHdFhTNU15LUdGWkdIR0xua1VTYWdJNVFhNEdzVlNNUkpvUy1BUklqV1BPZ1JKbnU4NlVB0gFuQVVfeXFMTjkzeDlsNkVvZWpZT2tldUtSM3luS2hCeU91OW9uTjVZMkJfUDB4bEFGWVRSZzZsdjY0REd0WFM1TXktR0ZaR0hHTG5rVVNhZ0k1UWE0R3NWU01SSm9TLUFSSWpXUE9nUkpudTg2VUE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-29T21:00:00+00:00"
-    },
-    {
-      "t": "흔들리는 코스피에 서학개미 다시 늘어난다, RIA는 '시들' 미국 ETF는 '인기'",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54X193UXpLV0piZFQ3LUVtejhGR0JOVDdIbDUzZWlxZS02cFYwUzAtZ2xWZk1UQVNNU1FJMVNnUzE5M3JEdEVKS09NYkVYazB2eGtkT3U3V0t1RjI3SFBPQ3hjNlVHcXcwMWF6anNLOU5WYlU?oc=5",
-      "s": "비즈니스포스트",
-      "d": "2026-08-29T21:00:00+00:00"
     }
   ],
   "asof": {},
