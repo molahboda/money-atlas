@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T19:30:59+00:00",
-  "quotesAt": "2026-08-29T19:30:59+00:00",
-  "newsAt": "2026-08-29T19:30:59+00:00",
+  "fetchedAt": "2026-08-29T19:45:59+00:00",
+  "quotesAt": "2026-08-29T19:45:59+00:00",
+  "newsAt": "2026-08-29T19:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -73,14 +73,14 @@ window.LIVE_DATA = {
       "d": "2026-08-29T15:00:42+00:00"
     },
     {
-      "t": "금리 3% 시대, 집값보다 무서운 것은 전세다[손바닥부동산]",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOE5zNGVQOENWMnF6NTdVcmFGUVdld3R4cHlXOWFkOGNBWXVRc3QtMG9BTU5TRFFHazI4ZDc2V1RWeXdTNm1ycUJYVGVPWlgxeFFrSW9qMl8yRVV4ZjFIdHZCcXA5TUJMekxTc2U2dlVGa1k2UjVsVzByYWMzTWd6cg?oc=5",
-      "s": "edaily.co.kr",
-      "d": "2026-08-29T15:00:03+00:00"
-    },
-    {
       "t": "AI 랠리 주도권 빅테크서 반도체로…美 증시 쏠림 경고",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9lX1JGSXRWNDctQUJwM1BhRlI2YVJEcUh6LTh6Wm5BdkRwY2RrblN3VDFqVnl3anpnMThTZVhodDFKU0ltMkU4VUNvY014R1dqRURncEJqZEh1WXRBYUo4QmUzSi1LY2hKeUZfM2lPQldhMlNZckZLcGtsdzVQYXA3QWZKQTBM?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-29T15:00:00+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제2호",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlUckpCNmdDSWlZS0MwcTR0Yi1iSWMweEJyTjNWT3M3REJGd3haWGh0YTktZHNUSGdDc1d0NHBNSkdtSWF3czRKQ1B0UXRMYk5xY0dMNHU4Vnh0U3NXcmFkUTdRTTFSNERpWU9VakJmY2Y5LUhDNWZTSkUtdnRYYVVyamZHSk1v?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-29T15:00:00+00:00"
     }
