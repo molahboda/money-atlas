@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T06:15:59+00:00",
-  "quotesAt": "2026-08-29T06:15:59+00:00",
-  "newsAt": "2026-08-29T06:15:59+00:00",
+  "fetchedAt": "2026-08-29T06:30:59+00:00",
+  "quotesAt": "2026-08-29T06:30:59+00:00",
+  "newsAt": "2026-08-29T06:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nbTQwbXhOTl9nYmNiS3VkQUp0TkU2dlRXelZrcC1PaU11bTZfeEhmT3hDT29jU2p5Z281NHRwSXRUeWw0aHp5TUJrLTNyRW5UalhfS0JYQlRvSHdOMEh5Y0tOdlZsYXYzeFhxRHdnSQ?oc=5",
+      "s": "YTN",
+      "d": "2026-08-29T05:38:00+00:00"
+    },
     {
       "t": "美 ‘9월 금리 인상설’에 시장 출렁…韓도 긴장 고조",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeVMza1dIeGFiZEVFRmY4aTVKbml2bW1IbkJaRm5lVm9tTERkZDY4UkZ4UUc4ZVpPajZOUjhRVGRlbEpxX09MOXhKZ2ZTazVMbXhqRDluaTNJYzA?oc=5",
@@ -65,12 +71,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySnlFM0YtR2g4QkhEWlV3XzBrTGZkNXYzN3dBX09HaVA2c0hBZTJueFhQTjdDRXROV05OQmt1Qmpnd0Rob0FNVklaczY1Vk1ORkE?oc=5",
       "s": "매일경제",
       "d": "2026-08-29T04:16:11+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03S1pyeTdvWlNhWndxVjBYeUFfdjFCSF9LSGtoWTVwZUtaRl9yTWh6V25HY3ZSVmJUWnFKTWNESTJRcjhOZi1VWjc4cFZYR01BYzFIZU5scXNmVTZnajhwYTJ5M1lSTzRnOXlIRUI0aw?oc=5",
-      "s": "YTN",
-      "d": "2026-08-29T03:50:00+00:00"
     },
     {
       "t": "美 재무 \"엔화 불안정시 美 금리상승\" 경고",
