@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T02:00:59+00:00",
-  "quotesAt": "2026-08-29T02:00:59+00:00",
-  "newsAt": "2026-08-29T02:00:59+00:00",
+  "fetchedAt": "2026-08-29T02:15:59+00:00",
+  "quotesAt": "2026-08-29T02:15:59+00:00",
+  "newsAt": "2026-08-29T02:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-29T01:49:00+00:00"
+    },
+    {
       "t": "“삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdUhWSWNwTWdrWi1BdjJIRVZZNjFoRHBRbkVxYVBNdl94U00zLVY0VEYwWW9vQUJ5UzJITFVmdmR0THNQZUNoSUhMc25OQXM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-29T01:41:00+00:00"
+      "d": "2026-08-29T01:41:11+00:00"
+    },
+    {
+      "t": "[해외시황] 뉴욕증시, 워시 매파 발언·금리 인상 우려에 '하락'…나스닥 0.52%↓",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2SnJ3bFgtSWUxS2Y4WU9jRmU5bmVIYWx6Y2ZILWltNjJEZUhvajNpaUtjQ1ZTRVZjTGdBeWJpV2pfZ0pyVEh1VmdQdkNKUGZlUDJocmpVb0RKcGFfUjljUg?oc=5",
+      "s": "프라임경제",
+      "d": "2026-08-29T01:38:41+00:00"
     },
     {
       "t": "케빈 워시 연준 의장, \"인플레이션이 최대 과제\" 경고",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HcjdTckNRWDJmQ1kxN1lFMFRGNld6enYzd2dDQUtDbUVGcVIxUVFNWkFsN2Y1NUNnclhUallWNW1yaFZMR1FZWW5NcXFEeVE?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T01:02:09+00:00"
-    },
-    {
-      "t": "워시 \"해야 할일 있다\" 발언에…9월 금리인상 확률 57%로 '껑충'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZQlZNMEpoRnRVZHdGbnJZQlU3Z2taZk12cjIwRVBhYkh5NDNSampkSWFvbkpwaXRmb2JlVTNkUTBTZmdRVm54bWRJTldadEE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T01:00:02+00:00"
-    },
-    {
-      "t": "세금·금리로 집값 잡은 호주, 임대료는 30% 폭등한다고?[딥다이브]",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuWHh3cVI5X2t3OG9fZDRCbFlza2pLYmdzd2pNVGlnYVpoZFRBcXAxWG1OSXNpdUw3bG9taUNNZi1lNWl5MXhORVR4U3Nwa3E1YXJobFUyQ1dLazV0aTRra19VWnZFbnVoZ0o4dGhLelZLSERtYXfSAWZBVV95cUxOS2U5QlcyeTVTVmhiZUVWTmNzUmlPY3hUZlZHVVNzcHJxRzFzcFJYTVRySllLLXJ4Q1dHblVEYkNwdm5WRkw5bTFtU1NyNU9RaVJ2cVRWYXIwRzBEYU0yemI0LWpYdlE?oc=5",
-      "s": "동아일보",
-      "d": "2026-08-29T01:00:00+00:00"
     }
   ],
   "asof": {},
