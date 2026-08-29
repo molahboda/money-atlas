@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T05:15:59+00:00",
-  "quotesAt": "2026-08-29T05:15:59+00:00",
-  "newsAt": "2026-08-29T05:15:59+00:00",
+  "fetchedAt": "2026-08-29T05:30:59+00:00",
+  "quotesAt": "2026-08-29T05:30:59+00:00",
+  "newsAt": "2026-08-29T05:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "나혼자 산다 기타법인, 자사주 매입으로 홀로 코스피 지지",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRcldoWVJid20wUXpQVUsxaHQ4TV84SDhSYjhjV1Y1RXd1SEJpZklCMmxvUV80MzJEakk5d3NmaWFSSDNTNlBHM3NaQU45MmM3dFE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-29T05:25:31+00:00"
+    },
+    {
+      "t": "美 ‘9월 금리 인상설’에 시장 출렁…韓도 긴장 고조",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeVMza1dIeGFiZEVFRmY4aTVKbml2bW1IbkJaRm5lVm9tTERkZDY4UkZ4UUc4ZVpPajZOUjhRVGRlbEpxX09MOXhKZ2ZTazVMbXhqRDluaTNJYzA?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-08-29T05:18:39+00:00"
+    },
+    {
+      "t": "통화 긴축과 재정 확장...‘엇박자’와 ‘정교한 조합’ 그 사이 [청와대는 지금]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OelYyeXVSOE0zX3M2MWdablNlTkpjZWhmcEFHT1FXSkxmUDZQci0zbFU5MFpMMWtQa0ZKRDFCWnVwWno1MHlfU05FeHF1SC1EU1I3RkMtZzRtUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-29T05:10:01+00:00"
+    },
+    {
       "t": "李 정부 확장 재정과 긴축 통화정책 ‘엇박자’ 우려된다",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96S0NQY0Z4TTVXcEUtQ05LV1FYMDl6Ulhid2ktcEdlSFh0ZG8zRllIcUhGNEtXMFhqZjcwUVcyaHlka0JYS0gtM3VQVHFxdnB4T3RTeENJT0JyNm9GTjVxc0wtay03a25zZjdSV1Zn?oc=5",
       "s": "더스쿠프",
@@ -43,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T04:22:21+00:00"
     },
     {
+      "t": "“이젠 기준금리 3%시대”…주식에 빚투·영끌 개미들 ‘비명’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySnlFM0YtR2g4QkhEWlV3XzBrTGZkNXYzN3dBX09HaVA2c0hBZTJueFhQTjdDRXROV05OQmt1Qmpnd0Rob0FNVklaczY1Vk1ORkE?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-29T04:16:11+00:00"
+    },
+    {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03S1pyeTdvWlNhWndxVjBYeUFfdjFCSF9LSGtoWTVwZUtaRl9yTWh6V25HY3ZSVmJUWnFKTWNESTJRcjhOZi1VWjc4cFZYR01BYzFIZU5scXNmVTZnajhwYTJ5M1lSTzRnOXlIRUI0aw?oc=5",
       "s": "YTN",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yYUp1alYxdEJvUjFPSzdCcHVsR0FpZ0ZPNHBiMmJ4dVN1bTNyZlhLZHJSMl9zVlU3VElxNHZQa0VwMTEtdEJGc1RyMDRhaWM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T03:24:07+00:00"
-    },
-    {
-      "t": "비트코인 가격 8만 달러 아래로 하락…연준 의장 금리 인상 가능성 발언 영향",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQXZMcHNja2FMMkhBbU55dXlLVVkyWndnQThqMXhCYnpfRU12eXdXeDFGSV9EbXJGMGxfbFliNkpXeWRoSTM0NHlHcXF5dXN6RUctNWxNWWxYUQ?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-08-29T03:23:00+00:00"
-    },
-    {
-      "t": "美 ‘50% 관세’에 캐나다 “전쟁이다”…한국에도 불똥?",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50d0xEbjllQm52TkpacmhHTi0wRXR3MkZaLTZBWGY0YmZlejBlWkJaNzlEV0pRZVdQRHVBenZkb0dMeXlmcDI4ZGJZdklHa1F5WHNuLVlhOGpNT2VNRlZDa3NROHBZSUZhbE5uN001NUVKT1XSAXNBVV95cUxOdHdMRG45ZUJudk5KWnJoR04tMEV0dzJGWi02QVhmNGJmZXowZVpCWjc5RFdKUWVXUER1QXp2ZG9HTHl5ZnAyOGRiWXZJR2tReVhzbi1ZYThqTU9lTUZWQ2tzUThwWUlGYWxObjdNNTVFSk9V?oc=5",
-      "s": "시사저널",
-      "d": "2026-08-29T03:12:13+00:00"
-    },
-    {
-      "t": "미 재무 “미 금리 상승 막으려 엔화 매수 개입”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycHZxWmRBdF9uM1VnNm5DREFoOGo4MHhPaC02UzVHdDZPTF9HbExnU2lsd2FoR3c2ZEJfZDRUcE1YZ1hORWpLbGhxZW4yemlVcG5ISEpHZzJKaXQ0clp6OHd5SHdyc0E?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-29T03:12:00+00:00"
-    },
-    {
-      "t": "미국, 오는 9월 금리 인상할까",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibUplcmN0R0FiZ1ZqUm1BLTZSdi1VS2VQTHlsUU9jQXVvMDZSbkRnWU9qSGtVam1HeXRKUlZ3LVlyTmF3NG80d1RVbDR2cWpIeHdiTHBn?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-29T03:06:06+00:00"
     }
   ],
   "asof": {},
