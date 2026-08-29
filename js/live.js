@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T13:00:59+00:00",
-  "quotesAt": "2026-08-29T13:00:59+00:00",
-  "newsAt": "2026-08-29T13:00:59+00:00",
+  "fetchedAt": "2026-08-29T13:15:59+00:00",
+  "quotesAt": "2026-08-29T13:15:59+00:00",
+  "newsAt": "2026-08-29T13:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“가래로 막기 전에 호미로”…기준금리 3% 시대 연 신현송 [이번주인공]",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11alN1X1JTd2lQSnZvM2N5T2R4QzRzY19WUHI4MUpTdGdkNE5obkhfb2dhUjdQRjJnLXZIbkoyUml5ckh4c1FyaU5hN3duUjVnYkZUag?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-29T13:04:08+00:00"
+    },
+    {
       "t": "美 금리 인상 가능성 시사 등에 8월28일 국제유가 하락",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Bd0ZVLWk2bDgzbWNHNkM0b3ktbUNqSWoxc21DNTFibl91eWw1ODI3a1F4WmpPZGlJRmljcTdPVkV4ZXZGckViTWFUYzhKUDRweVUzbHRvODVObU1KS1pPaWtCU2pXOWZuQU5US0t3cmd4UQ?oc=5",
       "s": "에너지신문",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43WlBIU2FzY3FXQU1lbFRQUFdUY3dFMVJaOEFNS1REa0hSRHg5Z3FsdEdyaHlaRlFHb24tNW00RXBJd09pSUJpT1piVlRfNmFEbEE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-29T12:33:44+00:00"
+    },
+    {
+      "t": "[AI 이슈트렌드] 엔비디아 호재 안 통한 삼전·하이닉스…박위 사고·제주 실종 파장",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIcU9pNTByS0k1dUxBQWFQZjBHdG1Ubk1mTkNlYmI1UldDVVJJR1ljUkN3cmNmbVBKLW1mZHF5eWF5dWQ0YWJLVUtyRlpFRk43TVBQNXg4VlRDQWs4SFRvUDJnOE9XV0FtSlE?oc=5",
+      "s": "AI타임스",
+      "d": "2026-08-29T12:16:38+00:00"
     },
     {
       "t": "WeverseTXT Media - 연준이랑 프라하하하 | TXT-LOG",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T11:30:35+00:00"
     },
     {
-      "t": "Weverse TXT Media - 연준이랑 프라하하하 | TXT-LOG | TXT (투모로우바이투게더)️",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02c3YxSEpXaVN3dzJld1hZTXBIU1o1QUEycEQ4aksyTkdqUWdwVFhVcmlmQVVoS2l0aFVYMUZ2QjNTNE1WeGpHZEtfNGZUSV9JZkE?oc=5",
-      "s": "Weverse",
-      "d": "2026-08-29T11:19:34+00:00"
-    },
-    {
-      "t": "충남대, 반도체 인재 ‘기술만으론 부족’…소통·인성까지",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95VXhGR1FWRVNPLVpUakpkYkhIdzFHWlRRT1pTODJXY3FyR296NlFSRnc2ck1UcDhNQVQtVE9DQXRKQXVRY1JWbWJMU0t3X3VJUkNKOQ?oc=5",
-      "s": "타임뉴스",
-      "d": "2026-08-29T11:14:37+00:00"
-    },
-    {
-      "t": "이천시, 6·7급 공무원 대상 반도체 현장교육 실시",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Rk9yZVBnZkY0cWk0RkwtMTFTYmk5WERUSktjSDlTT2F3Rm5meEZleENBMHdmOUxrTm5PeTJETWJ3aXoza2o4YmsxM0FwZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-29T10:33:14+00:00"
+      "t": "워시 \"물가 우려\"…미 금리 인상 강력 시사",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0REZXNlNpb3FhSEtHXzIzcUgzYlN0b2VOMjdsdlpLbC1WWDVmVTRNcUlvcDdHMXpfbXE5NFVaLWw0R3Y2N3VkN2Y5SkJqaGtHa3lrQWk0cGNwQjdORlhaV0tWNDA4TElUTnNqZUFSa21Ublo5MFJ3RtIBZkFVX3lxTE9ULXpTbHpXOUQ5SDJKSm5tRVVhT2dBbWxmdnVmcmpqZ2RqV2dRQkh4bGtabVVqQjBRRDE5YTJCQlZRWXpXazV1N2MxMHdFWnAwMkNsYkljRTdLanRGWjFIbW9EaGJxZw?oc=5",
+      "s": "news.sbs.co.kr",
+      "d": "2026-08-29T11:26:00+00:00"
     }
   ],
   "asof": {},
