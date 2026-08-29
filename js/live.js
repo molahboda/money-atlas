@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T09:00:59+00:00",
-  "quotesAt": "2026-08-29T09:00:59+00:00",
-  "newsAt": "2026-08-29T09:00:59+00:00",
+  "fetchedAt": "2026-08-29T09:15:59+00:00",
+  "quotesAt": "2026-08-29T09:15:59+00:00",
+  "newsAt": "2026-08-29T09:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -55,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T08:00:00+00:00"
     },
     {
+      "t": "중국 CXMT, 상반기 매출 10배 급증…AI 반도체 훈풍에 흑자 전환",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVZFZncxYWN4b2lqYjU4UU9jS3FILWdaSmN4X0N5SjhILXdGcEF0YzR6TllTYkN2bHFadFZrVHZKNmpheUlGLWtkNEZxclRmNmZEVjlGR3dKMGlsb2hBX1NQSnVpdGExWFE?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-29T07:57:00+00:00"
+    },
+    {
       "t": "‘AI 열풍 안 끝났다’ 광통신 시장 4배 커진다…AI 반도체 빨라질수록 뜨는 ‘이 종목’ [종목Pick]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZmowNzNnWktOTHA3LW9xYkdlQ1dXMHpJUUMtREY2dE41aHlleEt4bDZzT0NpZk1MdXBPSTYyNi1RZ1lGb2I5dE5jci1zVEk?oc=5",
       "s": "v.daum.net",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UR0ZUOFlNOUhSYm12Rm56UW9zQTBVWW5LZm05RTdiMjlOQzEtSk54eVk1ajE2NTIxUTRsQmdESmFqeDJpVnJwZExtQnNCU2QzeW1MaWkzSEtSQXA0NUVmZQ?oc=5",
       "s": "아시아경제",
       "d": "2026-08-29T06:45:00+00:00"
-    },
-    {
-      "t": "중국 CXMT, 상반기 매출 10배 급증…AI 반도체 훈풍에 흑자 전환",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVZFZncxYWN4b2lqYjU4UU9jS3FILWdaSmN4X0N5SjhILXdGcEF0YzR6TllTYkN2bHFadFZrVHZKNmpheUlGLWtkNEZxclRmNmZEVjlGR3dKMGlsb2hBX1NQSnVpdGExWFE?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-29T06:33:00+00:00"
     }
   ],
   "asof": {},
