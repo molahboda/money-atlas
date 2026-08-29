@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T00:30:59+00:00",
-  "quotesAt": "2026-08-29T00:30:59+00:00",
-  "newsAt": "2026-08-29T00:30:59+00:00",
+  "fetchedAt": "2026-08-29T00:45:59+00:00",
+  "quotesAt": "2026-08-29T00:45:59+00:00",
+  "newsAt": "2026-08-29T00:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[뉴욕증시]워시 매파 발언에 하락 마감…금리 인상 확률 '쑥'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUkg4ZS1tX0R4N1g3SFMzUDdyS2VmX0U4RXFuSkNoQk9MT3VCdzF1SFgtUzFKMl9yTi1kUWxhWmNPQnNCSW9VMXgzbzBVYVhTOWpRYjY3UGp6UkVzUXpxLQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-29T00:22:37+00:00"
+      "t": "워시 연준 의장 ‘매파 발언’에 뉴욕증시 일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UdFlnRTRHVUpocXFPcTV1NTBBdUl6QXE0bmNwcGp0RFlCRkhIeUNWNEpZWDJOb04yWE5ZT2JvRXhrTnZ0NlN6bFkwblR5R3NsNDZJbXJ0NUhteW1Eak1SMkgwRHg?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-29T00:37:40+00:00"
+    },
+    {
+      "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-29T00:36:00+00:00"
+    },
+    {
+      "t": "한국 거주 재외동포, 우체국 가면 EMS 할인·환율 우대 받는다",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53cjlXT083VVRPRWdNWmVjc3IzYkFtTE9LdFRUcGxjZF8zSVBleV9CNHZiYzdXQlVNRXB6NzFaX1d2dEZtS0IxQ19NTWJXUHNvNkF0aGNHRWxyMS1ZZGcyMXZ3?oc=5",
+      "s": "미주중앙일보",
+      "d": "2026-08-29T00:33:00+00:00"
+    },
+    {
+      "t": "워시 연준 의장 “해야할 일 있다”…힘 받는 9월 금리 인상론",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVmJYRC1tbWJHeXV3NXVmOE1VeFcweDh0TDROeF8tcGNUY19uNUp6Mk9CU1JCMjliVkU2VFBrNXFWeGNaSmlleXF4NkZzUS1rOTRHMEc0UTdRSE9Yc1cyT2VGMU8yM1VYRzlDU0VLaWxFMEHSAWZBVV95cUxQOHA5RHFoOW9WWTQwRVpWTGtPNW9qcUNiY3VRMzQ5NGtXTF9nb2RrdlZwNkYyNklhSFdjeFo2NkxGWmRnUlZFRVEzQzg2TFlKWHM5TEM1RlllbXpqQkdKYzEwcmQtckE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-29T00:30:52+00:00"
+    },
+    {
+      "t": "캐나다 '트럼프 길'을 '타코 길'로?…관세 갈등이 부른 '지명 전쟁' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yZmdYY1UtSWhYc0FRTWlGU0J2SmlPSGZCSlNEZkUyMnJwc3Q5TjI3WWVCZldWejZaeFZNRWlyRVFHNEhIY3JyZGNVMm03RTFVU0ZtRzk2dUZkTkdyUDJWeG4xS3JfTG9k0gFuQVVfeXFMTjYwdGtvaGRZQzFHOGFkRjVQRmdCZzVTMjZOOU9MeUdwTjhqRnd6TWFYVjhQclNpLWxKazVramdVTlc5YlJVYlpxZDRsV3pYSkVEQVk4Ykk3QWxZVDJRam5ORXJabVJzZXFsbEIxeVE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-29T00:29:34+00:00"
     },
     {
       "t": "비트코인, 연준 의장 매파 발언에 8만달러선 다시 붕괴",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdFFXUkE2dml6dWhfWktCZ1pfUkJYdHZzWW5kLU1UV05YTHZxeUZzQ3RocDFEV3FhaHppZ1B4Q2hXNlpLNk83OEl1cDUzdXJ1cnBtT0g5Z1FxNDJOUWJweVRHMXlLY1ZiMXVHVnJVOXXSAXRBVV95cUxPWWhYTW1mYVU2c0JoQkFJUS1vUXRRUWQ1STVHNmJOcjgydnRLUnZXN1pnTEhyUFN4ck5WWXVEM1d3czlGcGVXSnJEYkNnSFNBNUZ5VUY1Y3lxUmJJcE9FZXBZdUVHYUJGbVl3UW9JeUVac1NjcQ?oc=5",
       "s": "산경투데이",
       "d": "2026-08-28T23:50:54+00:00"
-    },
-    {
-      "t": "케빈 워시 미 연준 의장 매파적 발언에 9월 금리 인상론 부각",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vZ0dJbHRUT01uazBuU1dkME4tcU15d2EtN1Z4eGExS2NTVzFYZnd0NVg2WVMwNjNTWXVnckhIMndKQjctN1Rlbm40UmQwakNTeU16bGpHZnRyWjhobHlzeXF0b0k1Q1Z3RFZJ?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-08-28T23:37:22+00:00"
-    },
-    {
-      "t": "뉴욕증시, 9월 금리인상 경계에 일제히 하락…나스닥 0.52%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMelI5dHB3WG56U0cycnFhR0VJS1duWHNPVGQwemhKWW5TNTBuMTNtdEFkUjB6ZUt5UGlhaGtRSDBYdktQZHJRdXR3QlRqWWl1QVVSdW1BY1FTNWgzTVJTLWZ0WHhCdVVGcXNzUUtSS3HSAXRBVV95cUxQMndlZ1dhSjZmMlRqMW11NkZkckl2RTBtU0JvQVhDSEVpeFpsdG8wQmkxRjh1SmZIakxkVEJpZnJUNmdRS0lyS3dfME9EX1ByTjR0b2xfQUotLTZmY3hTdFQxbXlSU1NjR3NVMGZocG14c2M1Rw?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-28T23:36:27+00:00"
-    },
-    {
-      "t": "美연준 인사들 ‘잭슨홀 미팅’ 첫날 잇단 인플레 경고… “인플레는 여전히 끈적해”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03dEk1WHZoNWltZGR4ZnBCdTUzZEhpWEE0bE1mNG1BNlVrSDd3eUQ3MURaTWlkazNOOGhDSHlxQl9CMDlIUHBiU1hjLVhVc1E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-28T23:22:00+00:00"
-    },
-    {
-      "t": "워시 ’물가 경계’에 뉴욕증시 약세…9월 금리인상 확률 57.5% By Bloomingbit",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRGxHZDBQbnQxRG9idDRjSk9BNGVLM0xjdGZxMzJ3T1pYOWdLeVZMTmhCX1lQb19iY1NMRmE0NS1yVENVeUd1TnFxMW1oMmdZenpOUHlEdkFJZTNRNGF3QTFYRkJPOG42R3NWa2dYYmc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-28T23:12:00+00:00"
     }
   ],
   "asof": {},
