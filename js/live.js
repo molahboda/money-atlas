@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T20:01:00+00:00",
-  "quotesAt": "2026-08-29T20:01:00+00:00",
-  "newsAt": "2026-08-29T20:01:00+00:00",
+  "fetchedAt": "2026-08-29T20:15:59+00:00",
+  "quotesAt": "2026-08-29T20:15:59+00:00",
+  "newsAt": "2026-08-29T20:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "서울 매수세 이끈 3040…두 번 오른 금리에 '내 집 마련' 주춤하나",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRVNsbnphMU5adjRfSzRza0hKWXA2WjNWSnNnSEg1MUJlN1ZVM0tVcTYwRHExamFBV3JjcGVzdzJYY0pqSHZJd2F5czM1MnNTd2FGMjY1WVROR0XSAWBBVV95cUxPM2tTaXdyekpQbGl3Q3FpQmxlM3VkZXdRaDVZNEJtOHQzV2dXZlkySG9sUWNHeldsSE1yZ0pSenlkWkR3M2VXNUdkbldKdy1OMjhqa1RtRWpua1FuQTB4SC0?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-29T20:05:00+00:00"
+    },
+    {
+      "t": "5대 은행 정기예금 1000조 시대…'롤러코스피'에 역머니무브 본격화",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EYW05VmQ4ZlgwSXVHcmRKVzJMcjcxd0F1QTBXeU1fU1ZGSGoyOUZSanVKMS1pQ3ZLVjk2cGZSc2RjellyOE14TERhTGtDeTJBeXNSRWt3dHVTVmp2d1dXQ0Vn0gFnQVVfeXFMUDNseUpJUHprbG5sTEkzeVNicDhYcFNxeUoxSWFrSG9RZ2FFRmJNTDVVdWEzRzJNbndNSEI4R1FsaDFJRldOSHJxeVR2OEZQTGJRdGNieTVqaV9iVW1aX0lYUlY0UVVwRQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-29T20:00:00+00:00"
+    },
+    {
+      "t": "군공항 비우고 팹 건설까지…호남 반도체 '2029년' 가능할까",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZMDkzYlpTUWk0TVc0Vzc3YjBGcFN5QXBKa3R5UDNSU0psNUFJLV9Db2NBM1NhVDl3RWhpUklXZnBUQXkzaWRhZlBCcGFQUXRmTHc?oc=5",
+      "s": "노컷뉴스",
+      "d": "2026-08-29T20:00:00+00:00"
+    },
     {
       "t": "워시, 중간선거 앞둔 트럼프와 충돌하나…\"물가 안 잡히면 할 일 있다\"",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTlpcVFwSDJKX2thMFF6ZWdoR3pWTHRqUTAtZGNTRF85d3NYZnBnOU5sbURUYkRmOUp4Y19USnNGMWVPY1FlQ19vLTJvYUFWcFBKTlhNYy16aDdFalBoRlRNdzZwWFZaMDVxeGQ2NWdSZUNMc2lON3JJSFZ3RGdBSk1OUWlONUhf?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUEZJd2hNclJOSUVYNnVyM3Bnd2ZSczF0SnpIVlE4eTk3anFWR1lnOXgtSjlLeEE4RWFPVGJVdE5oYWcxb1ZVcmtFRktiS012ekxhVHhzSmlETVlqM3ZZatIBeEFVX3lxTE5GRDV2M2o3RGFLZjJ1R0pnWFpmdFhFYmVJdGl3UjlPNDJ3ckx0amFnVmtmbzVrRWs3WVlvWGhuNDRnV01Jb3dfa2pTdThSbWJvZjJQbnNELXRwVW5Jc3pMZ2JpZHFRQ3lTWloxLUZDZVpDRm4xRG1ZXw?oc=5",
       "s": "뉴시스",
       "d": "2026-08-29T16:53:47+00:00"
-    },
-    {
-      "t": "[비즈토크] 두 달 만에 2.5%→3.0%…한은 '선제 긴축' 승부수 - 경제 | 기사",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vd3FfMy1iR29qbWZZUXNGeDhRdUMwUjR2dWhKbkRSal9qbFpWWEppZkktdFotb0xKNTlINTNhWkVzckpTMzYtUTNQcUZjcjJVaktObFRYZHE2UQ?oc=5",
-      "s": "더팩트",
-      "d": "2026-08-29T15:03:01+00:00"
-    },
-    {
-      "t": "은행권, 상반기에만 이자로 32.2조 벌어...역대 최대",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oTFh3cC1OYndKdWM5ZFJxVGk2MDZoQTY2MDUzV1MwNmMxWWIyTzZIRTZtd0R0OGFzMEtVMHEzb2JwNmJHVkpDckQ1dEwtcXV6Uk9meEdaSVdxS0N2b1VmZkRESQ?oc=5",
-      "s": "더구루",
-      "d": "2026-08-29T15:00:42+00:00"
-    },
-    {
-      "t": "AI 랠리 주도권 빅테크서 반도체로…美 증시 쏠림 경고",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9lX1JGSXRWNDctQUJwM1BhRlI2YVJEcUh6LTh6Wm5BdkRwY2RrblN3VDFqVnl3anpnMThTZVhodDFKU0ltMkU4VUNvY014R1dqRURncEJqZEh1WXRBYUo4QmUzSi1LY2hKeUZfM2lPQldhMlNZckZLcGtsdzVQYXA3QWZKQTBM?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T15:00:00+00:00"
     }
   ],
   "asof": {},
