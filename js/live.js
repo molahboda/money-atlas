@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T07:15:59+00:00",
-  "quotesAt": "2026-08-29T07:15:59+00:00",
-  "newsAt": "2026-08-29T07:15:59+00:00",
+  "fetchedAt": "2026-08-29T07:30:59+00:00",
+  "quotesAt": "2026-08-29T07:30:59+00:00",
+  "newsAt": "2026-08-29T07:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -11,14 +11,14 @@ window.LIVE_DATA = {
     "krw": 1371.5,
     "gold": 4529.9,
     "wti": 83.4,
-    "dxy": 99.7
+    "dxy": 99.68
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.87,
-    "dxy": 0.54,
+    "dxy": 0.52,
     "gold": -1.73,
     "wti": -0.16,
     "vix": -0.55
@@ -31,10 +31,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T06:58:00+00:00"
     },
     {
-      "t": "중국 CXMT, 전년 매출보다 10배 가까이 올라…반도체 슈퍼사이클에 실적 폭발",
+      "t": "중국 CXMT, 상반기 매출 10배 급증…AI 반도체 훈풍에 흑자 전환",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVZFZncxYWN4b2lqYjU4UU9jS3FILWdaSmN4X0N5SjhILXdGcEF0YzR6TllTYkN2bHFadFZrVHZKNmpheUlGLWtkNEZxclRmNmZEVjlGR3dKMGlsb2hBX1NQSnVpdGExWFE?oc=5",
       "s": "한겨레",
-      "d": "2026-08-29T06:09:00+00:00"
+      "d": "2026-08-29T06:33:00+00:00"
     },
     {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
