@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T10:30:59+00:00",
-  "quotesAt": "2026-08-29T10:30:59+00:00",
-  "newsAt": "2026-08-29T10:30:59+00:00",
+  "fetchedAt": "2026-08-29T10:45:59+00:00",
+  "quotesAt": "2026-08-29T10:45:59+00:00",
+  "newsAt": "2026-08-29T10:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "이천시, 6·7급 공무원 대상 반도체 현장교육 실시",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Rk9yZVBnZkY0cWk0RkwtMTFTYmk5WERUSktjSDlTT2F3Rm5meEZleENBMHdmOUxrTm5PeTJETWJ3aXoza2o4YmsxM0FwZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-29T10:33:14+00:00"
+    },
+    {
       "t": "뜨거웠던 비트코인, 연준 의장 발언에 다시 급락…8만 달러 아래로",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4MFpOODM4RHZSYmxDLXpTMUdwdnczTE5RNnBJWmJVVmtxX3JrdUdDU2JBSWFVVWUzWURvX2RxZ0ozUXlsLUpQb0RCbVQybVoy?oc=5",
       "s": "문화일보",
       "d": "2026-08-29T10:24:13+00:00"
+    },
+    {
+      "t": "워시 연준 의장, 물가상승률 2% 사수 위해 금리 인상 가능성 시사",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Vy1MZTc5UlBCa2FTOTVyUGRNRm1pTDIxS2dFazBVakJ0SnBGczdta2Z5dHloRVp1V2pYSWJ6MExNdW04blVJYWluLXMyUFpZLUZndW9TTWZvZw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-08-29T10:11:00+00:00"
     },
     {
       "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZmowNzNnWktOTHA3LW9xYkdlQ1dXMHpJUUMtREY2dE41aHlleEt4bDZzT0NpZk1MdXBPSTYyNi1RZ1lGb2I5dE5jci1zVEk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T07:32:12+00:00"
-    },
-    {
-      "t": "\"코스닥 의미있는 반등하려면 이 신호 나와야\"[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85T285YlE3ZVZzTlg1RW1rU1BqWkV3VGZkUl9TTTV5aDJqX1c3bzBOamJaNmhFZmxxaEdfZ2JkcnhEM0dEUTVmM01mYmJnZlE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T06:58:00+00:00"
-    },
-    {
-      "t": "\"코스피 60% 뛸 때 나만 마이너스\"…코스닥 반등하려면 이 신호 나와야[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWXhsOEloTU10WHBmbWkxc1NFaE5xc0FYMk03WDA4T3F4bS12LW1uYnZpNzI4WjF2VDEyN0VnSUhkS0lMcllNSmhyZWlVVDB0LVpTcHdscTlHd092SVk5Wg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-29T06:57:00+00:00"
     }
   ],
   "asof": {},
