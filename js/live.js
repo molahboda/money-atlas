@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T12:30:59+00:00",
-  "quotesAt": "2026-08-29T12:30:59+00:00",
-  "newsAt": "2026-08-29T12:30:59+00:00",
+  "fetchedAt": "2026-08-29T12:45:59+00:00",
+  "quotesAt": "2026-08-29T12:45:59+00:00",
+  "newsAt": "2026-08-29T12:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "美 금리 인상 가능성 시사 등에 8월28일 국제유가 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Bd0ZVLWk2bDgzbWNHNkM0b3ktbUNqSWoxc21DNTFibl91eWw1ODI3a1F4WmpPZGlJRmljcTdPVkV4ZXZGckViTWFUYzhKUDRweVUzbHRvODVObU1KS1pPaWtCU2pXOWZuQU5US0t3cmd4UQ?oc=5",
+      "s": "에너지신문",
+      "d": "2026-08-29T12:37:50+00:00"
+    },
     {
       "t": "WeverseTXT Media - 연준이랑 프라하하하 | TXT-LOG",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUk10OVJpN04xYmp5MVJJNEJBaWVSa3BMZ1ZhQnRqRm1ZeGNsRnN3V3JjUF9lUEo1ZnoxcHpFU3dxWnI1M041ZmNaSGk0VHpuSWdVcGxIdGd5SUE4Y3c?oc=5",
@@ -71,12 +77,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4MFpOODM4RHZSYmxDLXpTMUdwdnczTE5RNnBJWmJVVmtxX3JrdUdDU2JBSWFVVWUzWURvX2RxZ0ozUXlsLUpQb0RCbVQybVoy?oc=5",
       "s": "문화일보",
       "d": "2026-08-29T10:24:13+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 물가상승률 2% 사수 위해 금리 인상 가능성 시사",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Vy1MZTc5UlBCa2FTOTVyUGRNRm1pTDIxS2dFazBVakJ0SnBGczdta2Z5dHloRVp1V2pYSWJ6MExNdW04blVJYWluLXMyUFpZLUZndW9TTWZvZw?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-08-29T10:11:00+00:00"
     },
     {
       "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
