@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T22:15:59+00:00",
-  "quotesAt": "2026-08-29T22:15:59+00:00",
-  "newsAt": "2026-08-29T22:15:59+00:00",
+  "fetchedAt": "2026-08-29T22:31:00+00:00",
+  "quotesAt": "2026-08-29T22:31:00+00:00",
+  "newsAt": "2026-08-29T22:31:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,30 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3l0aUpNX0ZSa2JfZ01nOEtZcTJBVEFGX1lkcGJfX29JY1NuUnB3SVpUMUFDRVZKeVNhVkxGQUJjNHF2eTRRcF83S29WYl9SaWt2XzJIbEFxTXNNdktZZy1fU3gtWFBjX2MzczhMNGR3bThwRkNWYmtZS2tSLWpIMi13M2pYdmpK?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-29T22:27:11+00:00"
+    },
+    {
+      "t": "기준금리 3% 시대…은행 예금금리도 '연 4%' 눈앞",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSzl5SmRjWEg3Zmd5VldLSElBY1dIb2paNzNOUjZ2UU9GalA1MUtFV2wxZTFnYTBuV1FtRXYyUUtpZnRzOEdKSzhWX3lveTVyZmJhWl9QcGlZQjRXcjlISkNB0gFnQVVfeXFMT01SZEpiRnp3YzEwei1tUXd1Y1N3clhHQUxqZVpSNVBFVVhKYTJSZFZ4UjBSVHBOMWpiNnUzN1pkZjhYMXBKS0I5TzRJVUZXV2c5SG9uajRqdXhyZTJEWkRzRXVZajgzQQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-29T22:16:50+00:00"
+    },
+    {
+      "t": "[미국 뉴욕증시] 9월 첫 주 고용·AI 실적에 촉각, 연준 기준금리 인상 전망도 변수",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZkVjSEpRNHJzeTVReEtub0ZPcUM5LU1JcHhSYnFac2xBMGN4Tm9jZFRhTEJCUzhhblNYY3p1U25vYTZPOXNlWnJzMDg4eHB3cW1ZT1lVekJIUnZnM3ZaT0hTVFVpWFpvNk5wcXZZS2o?oc=5",
+      "s": "한국강사신문",
+      "d": "2026-08-29T22:16:03+00:00"
+    },
+    {
+      "t": "[코스피·코스닥지수] 미국 기준금리 인상 우려 확산…코스피, 반도체 악재 속 변동성 커지나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WNmkwWEdEUHNCTlpSdnpvNUJHNHcyUkQ3VWVmbFdFVTdqQUxkSE9TWGVfTEJRUmdPSjJRcUFRTzdncUttTVkydEFzNW1fUXJhWUI3VWpGMmtrQjl1ekRTRnluZmttRnZHc0VaNTExYjY?oc=5",
+      "s": "한국강사신문",
+      "d": "2026-08-29T22:11:35+00:00"
+    },
+    {
       "t": "中 반도체 기업들이 IPO에 줄줄이 나서는 속내",
       "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFhJZ1c0ZkRnMUdBd0g1MnJiVndMM0ZsWGl2TzJPV1lvWWhnT0xoZmhpNFNVMGY4cmlROWR2UWc4ZW1LNDR2d3ZFQi1WT0lRQVJXZHRIN0FmT2JQTWQzQmpVeFlNOXlpNGV0ZGlSZER3TUpsd3psMnlhdXE5MEU5VlliTmg4cGhzUGFSd3U2UkpXaXlMZEZqWTRERmZhYUpuUmJvOHA5bmFyMGFSSVF2Zm01Tm5STDBtaGlyX2lES2t4YTVxOVhpcXFENEgtV2pqdE9RVlVIOTFmd3FteFJrdE9aRWZhLXBnQ0pTeHJFam1WbEVCay12Vw?oc=5",
       "s": "데일리안",
@@ -32,13 +56,13 @@ window.LIVE_DATA = {
     },
     {
       "t": "[마켓인사이트] 확 다가온 美 금리인상 우려…코스피 향방은",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGWFpUdHdUempMNDVkWWlUM1hmZVpkQVhDcFBYWWlQMDlkdUJRUmNiVVVhTUljZnVUd0p2Vnd3Y09TdG4tVEpTR25CUjIwdmhHM241elFGMnVidnPSAWBBVV95cUxPQWluZDNCVjlwcW5pYTdkNWdNOHNrUTlnRHV3QkFPSTkweTFwLWg5SDR1LVBXV3U0Z2hJckYtU3prYVJvVnJ4QWhtaVBGc3cyNnpOTGl3X1Zsb0pscTZoeHk?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-29T22:00:11+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwSnJLVDVBVmhITTIwWmFrOHJBenQ5N201aHFtbFpScG1tSkJ2Uzk0YnQ2QTBBWG12bmFqYjk0bGhGVFV4eXdRT0RPMmZoanM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T22:02:00+00:00"
     },
     {
       "t": "‘금리 인상’ 금융권 희비…은행 호재, 증권·카드사 수익성엔 부담",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTmZlM0ZlYVBhM3ZITDZTVUhJcTl0RUJNcjdKSTFmTzMtdng4QXRVbDR5aEhHM0RZWXB2QjV4c2VwTng1OFVZdFg1X1VlR1V5Y3JsMlZMVThVdy1aand6OFJEc2hvSGdh?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qanFpUG1jSmtKdl9FV3ZxUFdyY3lDRWVUYWJodHpoS3l3TWFscU42OXQtVjBHVXNYaG51Z2F6Q2Q5ZG8zbGNINHF0eVJleXJLUTlic1p6M3hxb19KSFFmSVQ2SFRyS3BLakhN?oc=5",
       "s": "CEO스코어데일리",
       "d": "2026-08-29T22:00:00+00:00"
     },
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JM1JFVFNoVG9MNkNtUnE3MklBQ0U2VnNJM2cwX3lXMDZBeUhCbl9IYWhwR0pkOEpHTUl4dG1RZU85VXpDYlB3NE83QWppeW5PMnJhSGJnekpfOU9IVVEwcVctWWRob3ZLYnc?oc=5",
       "s": "뉴스웨이",
       "d": "2026-08-29T22:00:00+00:00"
-    },
-    {
-      "t": "금리 안정에 안도랠리 이어질까…코스피 6400~7500 [주간 증시 전망]",
-      "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcHlha0VIWE9fUThyX0I4cUJGQVJXdkdhbVlla3pEV1EtcnVyRTdrVjZlWkRSbXFsSzZ4M3BSSXk4LVprc2p5akk3M0FHWWZWeUJ5V3loSEJIZWdtaTZLdHZuQWZkZFgyM3JRaVBPZldaZHNObWQxSnpQRjk2V2tKa2NTeWcxWnV1VkJIaDZNUE1YYzRjcG9QZTRWLVUzWG5zM012ZUh1cThDSl9TaEJSd05QVmVoMm56VkZHYVE5VFRXM3pHWXFyNHVhN01DcHVZUHNqSXRZenAwMU1KS1lsVkxEblhXSzBzN1lFYU9HQkh6a21Va0FBMzJjcThlN09uMHhPTDdMck44cUpSbGtlSTlpMWhtNEpt?oc=5",
-      "s": "데일리안",
-      "d": "2026-08-29T22:00:00+00:00"
-    },
-    {
-      "t": "'12년 숙원' 광주군공항 무안으로…반도체산단도 청신호",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CVlpwaW5RejIweUdWNDlUWTduaHZxcVNJcVdSSm9wU2xraloxZldYTUxUMm1ud21nSGlabnJrR1lid1NzZUhkaUZyS1ctbnJodnNOb213WWc5U1NmMTBUdNIBeEFVX3lxTE1qX0dULXFHVzR4Q1B1amczWFhmeFc3X3VTYi1EU1dxVHFZcVduaVJuVGI5Nnk5R1kxcS1IYWJac3FlZ1V6ZGcwM0Q5alZJaTdVSUNtTDZtQjE4RGFlRjE0Wlc1MXd3VzNwTTlTQ3RubndDWFk1UDBnNA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-29T22:00:00+00:00"
-    },
-    {
-      "t": "기준금리 3%로 올랐는데…2000조 가계빚·자영업자 부채 '경고등'",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBReE8yVTRLNTRvV3pRcDk0VXZDUm5JLWhaNVh4NnV5RlVMNC01dHZnaXdqcl9NdEF6NVZ1cjEwc0ZPYkhQVFNXN0huWkZ6UzFTcWdhTtIBWkFVX3lxTE1ON3h2dW1tdThsenhsd01UMktvZkFld0tiSk1tZ2tTZ2stV3RUU0VwbmJ3Z0VTY21jbnJ6WUdZd0plM25ZSG1QdmtONGJfUkp5MURrVktTM05BZw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-29T21:50:00+00:00"
-    },
-    {
-      "t": "군공항 이전·반도체 용수·국립의대…'함께 가는 해법' 찾아라",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GTTFzTG1oR3p1aXhQT053THB0dWxIYnFtT0ozTjVCSUV4VU9zWlZZSXhkLW80SWtLVjdCR1lHLTNvbkJRWUY1OGgxN25UUmNQemFWSVMzM1E4Y2o4Z2530gFkQVVfeXFMTkFIei1HeTJzOUdaZlBTcWx5eEVaekNDYlFWTWZ1RVdlcHVCVlBTMmtwQlVGYkhCWUFhUi1FS0paZ3N5ekFReF9aZGdZZGtORTVZVHdkcTZfWnQ1MnhvYmZucHAybw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-29T21:16:03+00:00"
     }
   ],
   "asof": {},
