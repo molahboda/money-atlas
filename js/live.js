@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T02:15:59+00:00",
-  "quotesAt": "2026-08-29T02:15:59+00:00",
-  "newsAt": "2026-08-29T02:15:59+00:00",
+  "fetchedAt": "2026-08-29T02:30:59+00:00",
+  "quotesAt": "2026-08-29T02:30:59+00:00",
+  "newsAt": "2026-08-29T02:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "【심층기획】 세계 반도체 대기업이 선택한 ‘용인’~ 왜! 한국형 실리콘밸리인가?",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBad1lxX0pvS25ka0Fpb0FBWkRkTklSNlpFRDZuZmttSWluVmVVcWlseWs1eldVaGxrY252ekdtalJoSkFaMlQtLTM1SV9qYk1jRmtsZGMzeVdUcTBLQTRNLQ?oc=5",
+      "s": "경기경제신문",
+      "d": "2026-08-29T02:24:15+00:00"
+    },
+    {
+      "t": "원화 두 달 새 10% 강세…외국인 수급·엔화 반등에 환율 흐름 바뀌나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkTENVa1NHTnd0U1BDTF9SdEN4V3BNQjhYUmQwR2RNTVJDZzZidld0Sm9xdmU1X1ZBNVFRZFRlcFRZQTd5UHZRUjY4Z0NJcGpiRGx3Z0R0WGdWNFNPRS1YUHpXcWh6R2R6YktKSEJMNmvSAXRBVV95cUxNTGtIUWhXQ2M5NHhrRnNPV3paRXpQTkxYSGgxcjJHNks4bW5lY1J6UVBOeEVMbzdaUTRNRmhMNVFVZ2EtclExZ2Rubm1fOVl0N3J1RklSVW02a3ZvbDhuYld5QUtwQ1A0WER4VWJ3bmFVNkZJMg?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-29T02:03:05+00:00"
+    },
     {
       "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EcW8xeUw0cGdRSlc4XzB1b0hZeG80UmlpbUdBNTFXM01ia2cyOVZzUXZNRW95SmttTld3ZFNSRHN3SlBLejh2aGpMSHRhMlE?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T01:15:00+00:00"
-    },
-    {
-      "t": "[집중진단] 주담대 금리 연 8% 뚫릴 수도…‘이자 폭탄’ 예고 변동형 주담대 어쩌나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83Q0swUE5IT25XQXNhM1Zxak5XYjE5WHF5ZURTTDFfVFhOUGE4SkVLOVpZS3ZPNjZ6UVFCczh1T04xd2xYeGx2aUJMd0JvV3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T01:04:10+00:00"
-    },
-    {
-      "t": "워시의 첫 잭슨홀 “필요하면 추가 조치”… 9월 금리 인상 가능성↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HcjdTckNRWDJmQ1kxN1lFMFRGNld6enYzd2dDQUtDbUVGcVIxUVFNWkFsN2Y1NUNnclhUallWNW1yaFZMR1FZWW5NcXFEeVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T01:02:09+00:00"
     }
   ],
   "asof": {},
