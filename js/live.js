@@ -1,24 +1,24 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T03:15:59+00:00",
-  "quotesAt": "2026-08-29T03:15:59+00:00",
-  "newsAt": "2026-08-29T03:15:59+00:00",
+  "fetchedAt": "2026-08-29T03:30:59+00:00",
+  "quotesAt": "2026-08-29T03:30:59+00:00",
+  "newsAt": "2026-08-29T03:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
     "nikkei": 66405.56,
     "vix": 14.43,
-    "krw": 1375.67,
+    "krw": 1371.5,
     "gold": 4504.1,
     "wti": 83.44,
-    "dxy": 99.7
+    "dxy": 99.68
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
-    "krw": -0.57,
-    "dxy": 0.54,
+    "krw": -0.87,
+    "dxy": 0.52,
     "gold": -2.29,
     "wti": -0.11,
     "vix": -0.55
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibUplcmN0R0FiZ1ZqUm1BLTZSdi1VS2VQTHlsUU9jQXVvMDZSbkRnWU9qSGtVam1HeXRKUlZ3LVlyTmF3NG80d1RVbDR2cWpIeHdiTHBn?oc=5",
       "s": "지디넷코리아",
       "d": "2026-08-29T03:06:06+00:00"
+    },
+    {
+      "t": "\"필요시 추가 조치\" 美 금리인상 가능성 시사",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96RE5JUUVTc252aGYydkpHX2Q4ams4dVlNWlZQQnd2aTFLOWxLdjhqWjI1V0FPOFJoMFY0WGFvTkNFdFRzZjZnNVRmQ3RUNV9JSE5xaGEwMWtPLVE0OFBPVW9kUW9lS2RDajJOaVpYM09qczRTcEpPX9IBeEFVX3lxTE84ZlFndkZSb2FBVEtaNVZrbG5hTlR3amZCdFEzNUY1N0lBcml3QzZoVkx3X3E0RS1yNGxnTGdaN3hCaTBqY3ZwMkNTNDRBSEJONnNuM2dZX1puWmd2MnJKcksyN0NtaXZGVHNRMEJ0X0Fqd1hySkFSaA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-08-29T03:05:32+00:00"
     },
     {
       "t": "美 ‘50% 관세’에 캐나다 “전쟁이다”…한국에도 불똥?",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T02:31:52+00:00"
     },
     {
+      "t": "엔화 개입 배경… 베선트 “안 막으면 美 금리 올라”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0UmVfd1FmVWFSOTFINDFiTnJuSWtjS0NMdmJMQWZYMHRiZWNJRXhyT2phakZ4VUFLOFpvS0huLTF3V3dfQnlQd0t1YmJ2c1VHOHNwRzYwQXh0RmlnUTE2ZGxUWWNONEHSAWxBVV95cUxOZ0dOYzEwQ0ktTjRhT1A4M2I1U2UyNHo4Wk1VZ0g2c2xLcmhEVDV1b0lfRmxnWkE3V183MDRTbGd0Sll1cUs2ZllLWUxqckJBbThaQ1l1QmdWaUg3TmhMVUd6Nm9wOEw5NktnTGQ?oc=5",
+      "s": "국민일보",
+      "d": "2026-08-29T02:31:00+00:00"
+    },
+    {
       "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjV6MHJWNF9TSjNFOFJ1MHc2dUFlaVota0RQWHBRUlhDMGJfb1ROMWs5eDFCRlBiWjZzTXJtSmlBendGaGdyajhqclhjcGM?oc=5",
       "s": "v.daum.net",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T02:03:05+00:00"
     },
     {
-      "t": "“삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdUhWSWNwTWdrWi1BdjJIRVZZNjFoRHBRbkVxYVBNdl94U00zLVY0VEYwWW9vQUJ5UzJITFVmdmR0THNQZUNoSUhMc25OQXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T01:41:11+00:00"
-    },
-    {
-      "t": "55조 자사주가 바꾼 증시 수급···외국인 팔아도 ‘큰손’ 따로 있었다",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoa3BWOXUyS3YyTXBMLURxcy1TZ3dVN1E1LVhFMnJEcll1Wm9jSy1XcXVueFd5TG5USWRkVnR5TkxDb0N0UFpRaTdEcWRndHdsUnhmWWtMajFROXVBQ0N2Mkxmb0tOUDdPQmo1ZUJCeTN6d3RCaHfSAXZBVV95cUxQaGtwVjl1Mkt2Mk1wTC1EcXMtU2d3VTdRNS1YRTJyRHJZdVpvY0stV3F1bnhXeUxuVElkZFZ0eU5MQ29DdFBaUWk3RHFkZ3R3bFJ4ZllrTGoxUTl1QUNDdjJMZm9LTlA3T0JqNWVCQnkzend0Qmh3?oc=5",
-      "s": "시사저널e",
-      "d": "2026-08-29T01:39:44+00:00"
-    },
-    {
-      "t": "[해외시황] 뉴욕증시, 워시 매파 발언·금리 인상 우려에 '하락'…나스닥 0.52%↓",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeE5EVG5QZ1FyNkFrRVgwMWVwcWRwczYyYkFPcWFualQ1TXFZdFVDdXY5cGdRUWxaUnduZW9ubXhJYUR6TUZwTGs3czQ2ZzF6NnVwVG9nbjAwNldaUUFxa0Q4RG40VElsRUZCSQ?oc=5",
-      "s": "프라임경제",
-      "d": "2026-08-29T01:38:41+00:00"
+      "t": "[단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwM0VfZHZZcU5kdEVnV3hjclB1Y1llZFYzdW9lMGRjVnRsQ0FtUDgteW5RSGxJSHBBNkNFLXpmbTJKN2JmYU05b0wydU1IQmZPQjhXUkpVSGJPeHdxNzNrTUxXOUhFNW02SFHSAW9BVV95cUxOUXJoYWxvQ1NIZUx1X3ZyTl9zcXZEaVR3YWVMalNtaEdsZ2ZCVjJIWlZrVkRIcS1IYzBGS0Q2aFBnX0Q2TWZMdmpOTWRHSjV3RXZIcGRJbnBSUzZYaHo3QndwZGlUMVNScW90M3FvUnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-29T02:00:00+00:00"
     }
   ],
   "asof": {},
