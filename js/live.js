@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T10:00:59+00:00",
-  "quotesAt": "2026-08-29T10:00:59+00:00",
-  "newsAt": "2026-08-29T10:00:59+00:00",
+  "fetchedAt": "2026-08-29T10:15:59+00:00",
+  "quotesAt": "2026-08-29T10:15:59+00:00",
+  "newsAt": "2026-08-29T10:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-29T10:11:00+00:00"
+    },
     {
       "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
@@ -61,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T07:57:00+00:00"
     },
     {
+      "t": "‘AI 열풍 안 끝났다’ 광통신 시장 4배 커진다…AI 반도체 빨라질수록 뜨는 ‘이 종목’ [종목Pick]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZmowNzNnWktOTHA3LW9xYkdlQ1dXMHpJUUMtREY2dE41aHlleEt4bDZzT0NpZk1MdXBPSTYyNi1RZ1lGb2I5dE5jci1zVEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T07:32:12+00:00"
+    },
+    {
       "t": "\"코스닥 의미있는 반등하려면 이 신호 나와야\"[주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85T285YlE3ZVZzTlg1RW1rU1BqWkV3VGZkUl9TTTV5aDJqX1c3bzBOamJaNmhFZmxxaEdfZ2JkcnhEM0dEUTVmM01mYmJnZlE?oc=5",
       "s": "v.daum.net",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWXhsOEloTU10WHBmbWkxc1NFaE5xc0FYMk03WDA4T3F4bS12LW1uYnZpNzI4WjF2VDEyN0VnSUhkS0lMcllNSmhyZWlVVDB0LVpTcHdscTlHd092SVk5Wg?oc=5",
       "s": "아시아경제",
       "d": "2026-08-29T06:57:00+00:00"
-    },
-    {
-      "t": "\"유가 70달러대로 떨어지면…美, 금리동결 가능성\"[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UR0ZUOFlNOUhSYm12Rm56UW9zQTBVWW5LZm05RTdiMjlOQzEtSk54eVk1ajE2NTIxUTRsQmdESmFqeDJpVnJwZExtQnNCU2QzeW1MaWkzSEtSQXA0NUVmZQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-29T06:45:00+00:00"
-    },
-    {
-      "t": "증시 흔들리자 자금 어디로…머니마켓 ETF 1.6조 유입, 개인은 TIGER 미국S&P500 최다 순매수",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05T2F5UU5zZ29ja1MyMzlvdXFYOXFlaHB4aVl0WUJ6bHVZUVJTejl0UzYyeDF0VDdRVFRiam1mRXBJNGpzVXVETVBhNnRMbzl2NkNNZXZMbkg0MVMyZE5RYVl5VGM?oc=5",
-      "s": "베타뉴스",
-      "d": "2026-08-29T06:10:50+00:00"
     }
   ],
   "asof": {},
