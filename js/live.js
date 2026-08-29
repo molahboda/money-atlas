@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T15:30:59+00:00",
-  "quotesAt": "2026-08-29T15:30:59+00:00",
-  "newsAt": "2026-08-29T15:30:59+00:00",
+  "fetchedAt": "2026-08-29T15:45:59+00:00",
+  "quotesAt": "2026-08-29T15:45:59+00:00",
+  "newsAt": "2026-08-29T15:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -31,6 +31,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T15:03:01+00:00"
     },
     {
+      "t": "은행권, 상반기에만 이자로 32.2조 벌어...역대 최대",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oTFh3cC1OYndKdWM5ZFJxVGk2MDZoQTY2MDUzV1MwNmMxWWIyTzZIRTZtd0R0OGFzMEtVMHEzb2JwNmJHVkpDckQ1dEwtcXV6Uk9meEdaSVdxS0N2b1VmZkRESQ?oc=5",
+      "s": "더구루",
+      "d": "2026-08-29T15:00:42+00:00"
+    },
+    {
       "t": "금리 3% 시대, 집값보다 무서운 것은 전세다[손바닥부동산]",
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOE5zNGVQOENWMnF6NTdVcmFGUVdld3R4cHlXOWFkOGNBWXVRc3QtMG9BTU5TRFFHazI4ZDc2V1RWeXdTNm1ycUJYVGVPWlgxeFFrSW9qMl8yRVV4ZjFIdHZCcXA5TUJMekxTc2U2dlVGa1k2UjVsVzByYWMzTWd6cg?oc=5",
       "s": "edaily.co.kr",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T14:32:10+00:00"
     },
     {
+      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOanVyd2ZuT0lNY3JEQm9XRXozdWJ3QTB2NnN1QjhHcy1IdG9RTmFoTFZ6QzFBSF8zelVadUstZVBnQnVHNEtMWGRwYU9idDRZbGZfYWh1NGtQMk4tWTNUTHNzaFpDeF9NWG9lVlVfQXNSU3VtUzNlZk5Fd1NQcmpMSVBIVQ?oc=5",
+      "s": "YTN",
+      "d": "2026-08-29T14:17:00+00:00"
+    },
+    {
       "t": "매파적 잭슨홀 연준 메시지에 금값 후퇴…비트코인 8만달러 아래로 하락",
       "u": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPcm1aYnBvcG5oTDlqOTBtbEhUU2o0cjdUSTZ6U0ozNE14eVRCMkxFNWtnU0VOeVFOWUxNWE5aWmFPOWJFb3FId1d2bWpPRU1Zem1wSHhsZVlfNlJZeGw4aGtLZjhGY1NpVFFMa1lHdmo2UFBudll4NkwyLWhVSjc5RkpJdk0tRHJJcEVRU2RfaDJmLUp6M2xmMGhFTmlJSmhrV3FqWUxoa3NHT1ZVXzZoZ1dBUjdubFkxbFppQzQ1TlpWOTRRQmxqcjlHM0pSdTdIZVdMTVVBVDV4eDBRbkpiLXl1NjJnWl9oTU5LY19PTFBZS0oxZUd0RXNWQ3B1WmdhbG9LZTU0TF9Ud1pQRVhXMjVCdnNORC1lVWxOMVlDQm04dkhyV1JCeTZxcldacmFPVjZhRldrQTUtRnMyMy1iMUVGdzNqa1pIMk9JS1ZkM2VieVg3SWc?oc=5",
       "s": "VT Markets",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQ0V6YmtBeDRMbnVieUYxalBIaTd5WXJ2TVFpWUVZSzM5YndjaG9QTzJMWGxnTEdBMDRMTHQ1V3VXcnNQZ3lxUTNkR0w5bUtEMy1ZZkNhY2NVVHJCYlgzaVg3OGk4YnFmbzlsNVVaNGRrSEh3TlpqaThLcUoyRE1tMHNOR3VjeVVDLXpGbnRqQnBSWldtdkx3VWl5QWRaa1BXSkFYZFQtdFdMdTBqbVRmTzZNUUE1VFNGTmR6LXFUV3Y5NUdTeDRmMml2WDJyeVBFSkMzWXJDMUpLU1R4akdpd09TTjVSYnI1eW4tazBJVzRRcVdKdG1qZU5VSFFUWmw2MGt1ODRIVXg3ZlNSYmNTeUhJTmJOWUpncUpTck5xSlloN29TbUdoQml3aFRuTU5JWHhKLXdkR3I1b0hOVk1YbU9DaDRoLVVaV2JSbGo0Y3Zuc01LdjJyS2FlcWpzZjVJUHc?oc=5",
       "s": "VT Markets",
       "d": "2026-08-29T14:06:14+00:00"
-    },
-    {
-      "t": "워시의 인플레이션 중시 발언에 미국 금리인상 베팅이 확대되며 파운드화 하락…영란은행(BOE) 금리 경로도 재평가",
-      "u": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMVJqbk84NWRtLVAweXp2U0dMbjBZVF85UEJIeFV1Q1dMc2swZkdoUDJmRUhTZkF3WV85Mm81cC1GWEZjTVVqbVU2aHB3cDR4WUozV3FoVkdDV2dMbXhOcXdFU0hEM0VDcTV5MWFwT0NPd1RCVzJ2am9OV29EQ3FTaU1RMzNiSXE1b3Q1X3ZqdHJJM0oteXRJaTRfN0ZTSEM4WTZrUnJoMW5xVE43R3RfMG9id196Yy03VklBem9ydmpmT0t5d24yN2dYYkZwQzU3QnVEUEw3eHcxWWtuU3pXTXRLQTRUTS1sUE5UcTNOMVlTbUcyNGJtME12YmRxd2VuY1ZaV0VHUldZYU4tVGItcHNJVzBIMnZDSVpTY29BUXQ5WkNvclFsS2llZmxzMlM0MkhLbFFwN2xuM1ZNMlpaVGVLWkVxWXkzdmZDN0lPRV9VSzlldWZ0QS1VUEktNEQ5?oc=5",
-      "s": "VT Markets",
-      "d": "2026-08-29T14:06:12+00:00"
-    },
-    {
-      "t": "굴스비, 워시 견해에 힘 실어…연준, 금리 인하 신중 속 수요 주도 인플레이션 지속 우려 제기",
-      "u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNN09kcDZpU2RuWDFDX0xEZ3oxUS1CLUp4MzZhZHB6LVVaOV9XZHFZSGxnVlpIekRCSUVBQ1FaUUlJTWM5amtzYmVSYjh5VFFsckNXOXQ5Y1NzYi1lYkM0b2o4VklnZW10TXRBdllSZktTMm9sM180Z3N1YjVRU0lwdjE0SGFxZVFEdkdYMFp2VnMxMDdZUldBQVY0TmhleWJyTk85UFFidXQyN1BjZ2JucHd5OU8xdng2SVRJZF90WUJHNmhOUEpXX0lrcDZYcFdtbGV1UEdCVExiU3YxS0NvUUpzVzVzUURoUnV6V1RDMk15clBFdDRqUjZpbTMxSEtWUEVQX1dIdy1mYlhXekg3ZUxBX3BVY3gwS3dEYzJDQmdqaTQ2UjN3WVNqenZaVDhxLUdqeHBNLWxtaG51UlJMZUJKQ1Z1Q3ZGNXVNUHJ0RGQxUlRqckdj?oc=5",
-      "s": "VT Markets",
-      "d": "2026-08-29T14:06:08+00:00"
     }
   ],
   "asof": {},
