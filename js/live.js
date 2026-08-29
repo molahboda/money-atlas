@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T09:45:59+00:00",
-  "quotesAt": "2026-08-29T09:45:59+00:00",
-  "newsAt": "2026-08-29T09:45:59+00:00",
+  "fetchedAt": "2026-08-29T10:00:59+00:00",
+  "quotesAt": "2026-08-29T10:00:59+00:00",
+  "newsAt": "2026-08-29T10:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T08:21:52+00:00"
+    },
+    {
+      "t": "9월 코스피 8100까지 간다...장기금리 진정될 것",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sa2JzNl9rdEtNWTE5enBDLWk0Z3RDQy04NzloWGYzcDlYdWdTak9QZDJZTlZqdUhXTko4TmMtN250T0NFNlI5YlVEZzVYYnV2NWc?oc=5",
+      "s": "매일경제",
+      "d": "2026-08-29T08:15:32+00:00"
     },
     {
       "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05T2F5UU5zZ29ja1MyMzlvdXFYOXFlaHB4aVl0WUJ6bHVZUVJTejl0UzYyeDF0VDdRVFRiam1mRXBJNGpzVXVETVBhNnRMbzl2NkNNZXZMbkg0MVMyZE5RYVl5VGM?oc=5",
       "s": "베타뉴스",
       "d": "2026-08-29T06:10:50+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZzVuR3kyN096WW1CZFg2UElkc2lBV0trQ19WcFRVOWZYbTVNdndrektrLVpkZlk4NmpEaHdnOGtXMWwxR2YzOXppOUNQRU8yQUZoUDhQX0tSZERrVEE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-29T05:38:00+00:00"
     }
   ],
   "asof": {},
