@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T22:31:00+00:00",
-  "quotesAt": "2026-08-29T22:31:00+00:00",
-  "newsAt": "2026-08-29T22:31:00+00:00",
+  "fetchedAt": "2026-08-29T22:45:59+00:00",
+  "quotesAt": "2026-08-29T22:45:59+00:00",
+  "newsAt": "2026-08-29T22:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "개인, 7~8월 美 주식 10조원 순매수…코스피 보다 3천억 더 샀다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTFJLZjZfTXVrdjQyWUdiVDI5M09Vbnc0NnJsNXBERW9HQi05eWVjRXdsU0x5NkxTRVA1dDNSVnRqRFBJYUxaMU5tMEpNQXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T22:36:01+00:00"
+    },
+    {
+      "t": "'캐나다 관세' 도요타·혼다 타격…현대차 HEV '반사이익' 누릴까",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SXk5UmVobWhuQnIxTGFkQjBlSkhvMWlPWUk0Y2FxSlpFbmNQRGxVdExCSF9zNHg2XzJ0MGNPaUYtQm1lUTdBNFpHWVppUXNraHp1Q18yc0VmQVZfY2NnZdIBZkFVX3lxTE1qUld1aF9mXzRPdklVclVFZ0Y3UkM0UFY1azVEcFNqekRmMmpSNDQyb21Yd2Z2cjQ2YkNGaTMzd0w2Y0xMV1pDaTdpSm1VRVRlZ2c2NllUNUxIQThfYklVeDVZLXB4UQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-29T22:30:00+00:00"
+    },
+    {
+      "t": "단일종목 레버리지 규제 한달, 개미들 1.7조 거래 '급감'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc1JxMHVFRkMtYk9Ta19lRTNVMDVFWG9uUExhZjA0M01UUjRLNkJtREpoRnY4UTVqcFpQNVlhR1hpN3c0WmVITFc2eU15SmlMS194MFZPSk1Ndw?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-29T22:27:30+00:00"
+    },
+    {
       "t": "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3l0aUpNX0ZSa2JfZ01nOEtZcTJBVEFGX1lkcGJfX29JY1NuUnB3SVpUMUFDRVZKeVNhVkxGQUJjNHF2eTRRcF83S29WYl9SaWt2XzJIbEFxTXNNdktZZy1fU3gtWFBjX2MzczhMNGR3bThwRkNWYmtZS2tSLWpIMi13M2pYdmpK?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-29T22:27:11+00:00"
+    },
+    {
+      "t": "서학개미 다시 미장으로…두 달간 10조 폭풍 매수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80eG5RU1FLNndwR0lfa09BVmYyNkMyWFBENHlEdXpUdzRXRDdmc0hDQlZLM01IS2lJRko0dnUyRWhlakFDSFlqRC0tdzV3b3c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T22:25:29+00:00"
     },
     {
       "t": "기준금리 3% 시대…은행 예금금리도 '연 4%' 눈앞",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-29T22:11:35+00:00"
     },
     {
-      "t": "中 반도체 기업들이 IPO에 줄줄이 나서는 속내",
-      "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFhJZ1c0ZkRnMUdBd0g1MnJiVndMM0ZsWGl2TzJPV1lvWWhnT0xoZmhpNFNVMGY4cmlROWR2UWc4ZW1LNDR2d3ZFQi1WT0lRQVJXZHRIN0FmT2JQTWQzQmpVeFlNOXlpNGV0ZGlSZER3TUpsd3psMnlhdXE5MEU5VlliTmg4cGhzUGFSd3U2UkpXaXlMZEZqWTRERmZhYUpuUmJvOHA5bmFyMGFSSVF2Zm01Tm5STDBtaGlyX2lES2t4YTVxOVhpcXFENEgtV2pqdE9RVlVIOTFmd3FteFJrdE9aRWZhLXBnQ0pTeHJFam1WbEVCay12Vw?oc=5",
-      "s": "데일리안",
-      "d": "2026-08-29T22:07:00+00:00"
+      "t": "'침묵' 깨고 '매파 본능' 드러낸 워시 연준 의장…\"9월 행동이 시험대\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZeGg1RE5fMnJkUTMtMUUzc3NCUVBpMExHcFpTb0JIb3E5TTViSW15NDh5UkZFOUhjNDZQc3pyTGFBd053R2toTzNYUmd1dlU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T22:06:00+00:00"
     },
     {
       "t": "[마켓인사이트] 확 다가온 美 금리인상 우려…코스피 향방은",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwSnJLVDVBVmhITTIwWmFrOHJBenQ5N201aHFtbFpScG1tSkJ2Uzk0YnQ2QTBBWG12bmFqYjk0bGhGVFV4eXdRT0RPMmZoanM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T22:02:00+00:00"
-    },
-    {
-      "t": "‘금리 인상’ 금융권 희비…은행 호재, 증권·카드사 수익성엔 부담",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qanFpUG1jSmtKdl9FV3ZxUFdyY3lDRWVUYWJodHpoS3l3TWFscU42OXQtVjBHVXNYaG51Z2F6Q2Q5ZG8zbGNINHF0eVJleXJLUTlic1p6M3hxb19KSFFmSVQ2SFRyS3BLakhN?oc=5",
-      "s": "CEO스코어데일리",
-      "d": "2026-08-29T22:00:00+00:00"
-    },
-    {
-      "t": "반도체 실적·주주환원 모멘텀 지속…7000선 회복 시도[주간증시전망]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEUVBwM2E0cWY4QkxLZ20yMUZES0wzZmlCQU9TRnVxNmZ5N1BkU21naElZempKdFpmRjNUekM2cm9jZGVFZmFOM0FvNlJhSVltYkctRTlkMXVzVU5IM2VkS9IBeEFVX3lxTE5MSTVfX1BfUERZVG02OXREYUNKenNuUk4wNERVT21nUmlVZWtURmF1OG1zRWY5SWwzci1WUjZZZVlWVTRlU1FoMXg5aEtXamVwVzVnTUVHblBPdzJMWVVDcGJkU09idWI0MERvbENBSllGeFR2anNkaA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-29T22:00:00+00:00"
-    },
-    {
-      "t": "\"국장은 답답해\"…코스피 떠나 미장·일장 향하는 개미들",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OTGNPZzhwRlBpMV9lR0JqUUNtMGdsN3BCSU56ZGdRNHBBUVZ5MlIyRmh6VXZpUW1GMHltQlphZ21JaUd4UUlWRkVuX25reXFNY2ZfVV90TlRLRHZMUmNhStIBeEFVX3lxTFBMbl9PNXV5aGxmQzgzV3AtVjN1NGVaek1WNlZ2ZEdPSjlpQm9ydTFydHJUU28xdFJNb3BHZEJ1MGRNNDBvMzBaMmt5U1Y5MVZCdzRDVEY5VXV6Wmh6VDdlRFlFYUVtcTNMN04yWTdMb0dhUUdiazdRVA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-29T22:00:00+00:00"
-    },
-    {
-      "t": "반도체 효과에 뛴 동탄 집값···삼성전자 저리대출, 매수세 자극 전망",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JM1JFVFNoVG9MNkNtUnE3MklBQ0U2VnNJM2cwX3lXMDZBeUhCbl9IYWhwR0pkOEpHTUl4dG1RZU85VXpDYlB3NE83QWppeW5PMnJhSGJnekpfOU9IVVEwcVctWWRob3ZLYnc?oc=5",
-      "s": "뉴스웨이",
-      "d": "2026-08-29T22:00:00+00:00"
     }
   ],
   "asof": {},
