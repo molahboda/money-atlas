@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T19:45:59+00:00",
-  "quotesAt": "2026-08-29T19:45:59+00:00",
-  "newsAt": "2026-08-29T19:45:59+00:00",
+  "fetchedAt": "2026-08-29T20:01:00+00:00",
+  "quotesAt": "2026-08-29T20:01:00+00:00",
+  "newsAt": "2026-08-29T20:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "워시, 중간선거 앞둔 트럼프와 충돌하나…\"물가 안 잡히면 할 일 있다\"",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTlpcVFwSDJKX2thMFF6ZWdoR3pWTHRqUTAtZGNTRF85d3NYZnBnOU5sbURUYkRmOUp4Y19USnNGMWVPY1FlQ19vLTJvYUFWcFBKTlhNYy16aDdFalBoRlRNdzZwWFZaMDVxeGQ2NWdSZUNMc2lON3JJSFZ3RGdBSk1OUWlONUhf?oc=5",
+      "s": "조선일보",
+      "d": "2026-08-29T19:45:00+00:00"
+    },
     {
       "t": "신흥국 테크로 88억 달러 유입… K-반도체, 패시브 수급 훈풍",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjNBdDc2R2ljcVh6V0Q5RnlBOXZURlBvdTJZc2U4cldmc0VZSjJmUWJNTnhOZjktTXZ3UF9xMGlGR2lxUG5VOERGZ01hdzhlZWt2NDM0MXlGRDJvaGNQVlRXa01XX0VLOE9BakpUWnllMUIxY1Mtdjk4WkRGdEx0Q0lRcjdnTU5Y?oc=5",
@@ -75,12 +81,6 @@ window.LIVE_DATA = {
     {
       "t": "AI 랠리 주도권 빅테크서 반도체로…美 증시 쏠림 경고",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9lX1JGSXRWNDctQUJwM1BhRlI2YVJEcUh6LTh6Wm5BdkRwY2RrblN3VDFqVnl3anpnMThTZVhodDFKU0ltMkU4VUNvY014R1dqRURncEJqZEh1WXRBYUo4QmUzSi1LY2hKeUZfM2lPQldhMlNZckZLcGtsdzVQYXA3QWZKQTBM?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T15:00:00+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제2호",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlUckpCNmdDSWlZS0MwcTR0Yi1iSWMweEJyTjNWT3M3REJGd3haWGh0YTktZHNUSGdDc1d0NHBNSkdtSWF3czRKQ1B0UXRMYk5xY0dMNHU4Vnh0U3NXcmFkUTdRTTFSNERpWU9VakJmY2Y5LUhDNWZTSkUtdnRYYVVyamZHSk1v?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-29T15:00:00+00:00"
     }
