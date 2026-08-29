@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T18:31:00+00:00",
-  "quotesAt": "2026-08-29T18:31:00+00:00",
-  "newsAt": "2026-08-29T18:31:00+00:00",
+  "fetchedAt": "2026-08-29T18:45:59+00:00",
+  "quotesAt": "2026-08-29T18:45:59+00:00",
+  "newsAt": "2026-08-29T18:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -61,6 +61,18 @@ window.LIVE_DATA = {
       "d": "2026-08-29T15:03:01+00:00"
     },
     {
+      "t": "안성시, 유천취수장 규제·송전선로·반도체 방류수 현안 정부에 건의",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qVGFnNEZ6QzBBcUF2b0dyQXlPcFgtems5dS1HdGpjbjl1cjlkVmNwVmw5OWRxX0kycDk5cW5qbUpQTjN4dTUzaHdzdFhGRnBlRXNPdHdfa1pmRlVqTXdLdjhrdTh2VG5JMXk0VEln?oc=5",
+      "s": "뉴스타운",
+      "d": "2026-08-29T15:02:11+00:00"
+    },
+    {
+      "t": "워시 신임 연준 의장, 첫 잭슨홀 연설서 매파 발언…9월 금리인상 확률 60%로 급등",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ydUhJYkROVWRHSnBKMEw1T3Bvb3ljc0FYNmhLSnNza2pZdVhyZGpHR2EtaWdfU1g0bE1zVnZzUGFLM2tTeHF1OFY3VWdIcVVPcDNnaTNB?oc=5",
+      "s": "위키트리",
+      "d": "2026-08-29T15:01:00+00:00"
+    },
+    {
       "t": "은행권, 상반기에만 이자로 32.2조 벌어...역대 최대",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oTFh3cC1OYndKdWM5ZFJxVGk2MDZoQTY2MDUzV1MwNmMxWWIyTzZIRTZtd0R0OGFzMEtVMHEzb2JwNmJHVkpDckQ1dEwtcXV6Uk9meEdaSVdxS0N2b1VmZkRESQ?oc=5",
       "s": "더구루",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOE5zNGVQOENWMnF6NTdVcmFGUVdld3R4cHlXOWFkOGNBWXVRc3QtMG9BTU5TRFFHazI4ZDc2V1RWeXdTNm1ycUJYVGVPWlgxeFFrSW9qMl8yRVV4ZjFIdHZCcXA5TUJMekxTc2U2dlVGa1k2UjVsVzByYWMzTWd6cg?oc=5",
       "s": "edaily.co.kr",
       "d": "2026-08-29T15:00:03+00:00"
-    },
-    {
-      "t": "AI 랠리 주도권 빅테크서 반도체로…美 증시 쏠림 경고",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9lX1JGSXRWNDctQUJwM1BhRlI2YVJEcUh6LTh6Wm5BdkRwY2RrblN3VDFqVnl3anpnMThTZVhodDFKU0ltMkU4VUNvY014R1dqRURncEJqZEh1WXRBYUo4QmUzSi1LY2hKeUZfM2lPQldhMlNZckZLcGtsdzVQYXA3QWZKQTBM?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T15:00:00+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (49) 미디어텍(MediaTek)...대만 수호신산 제2호",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlUckpCNmdDSWlZS0MwcTR0Yi1iSWMweEJyTjNWT3M3REJGd3haWGh0YTktZHNUSGdDc1d0NHBNSkdtSWF3czRKQ1B0UXRMYk5xY0dMNHU4Vnh0U3NXcmFkUTdRTTFSNERpWU9VakJmY2Y5LUhDNWZTSkUtdnRYYVVyamZHSk1v?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T15:00:00+00:00"
     }
   ],
   "asof": {},
