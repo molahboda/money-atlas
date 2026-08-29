@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T21:45:59+00:00",
-  "quotesAt": "2026-08-29T21:45:59+00:00",
-  "newsAt": "2026-08-29T21:45:59+00:00",
+  "fetchedAt": "2026-08-29T22:01:00+00:00",
+  "quotesAt": "2026-08-29T22:01:00+00:00",
+  "newsAt": "2026-08-29T22:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -55,12 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-08-29T21:00:00+00:00"
     },
     {
-      "t": "석유제품 수입 나선 산유국 러시아…물가·통화정책·재정 불안 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WWWYyZ2VoV2FBcEpzcHBCekt4TjBpX0ROTHl4VzEzTm5jTi1WNFFpYnBIc0piNmtURWtzeDllQm1uSEpEU2Z0SnhCOFQzUjV3Qi1FQzEwRXpUODNtd3hXUDNyV2l5VWI20gFuQVVfeXFMTjkzeDlsNkVvZWpZT2tldUtSM3luS2hCeU91OW9uTjVZMkJfUDB4bEFGWVRSZzZsdjY0REd0WFM1TXktR0ZaR0hHTG5rVVNhZ0k1UWE0R3NWU01SSm9TLUFSSWpXUE9nUkpudTg2VUE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-29T21:00:00+00:00"
-    },
-    {
       "t": "8월 수출·브로드컴 실적·美 고용…코스피 7000 돌파 분수령",
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZUxDNVZyMG1vX2FDLUNXeUJaV3pWZ2Y0QndkMlVFMm4xTlVLc3hMZ2VVOXNWRDRUdDF5MVVZWjBPdTJOV0lDRFlaRENBcG1oamoyU01vQXhoNHNMSVVN0gFkQVVfeXFMTjBJTHk4Ri1kRkFpcU9OVVZaMkFzazlZWUlTSXVJM0dINE5nX0cycTN2RGxSSndlQzdvVFgwU3A2d09mZlUtR1I2YXZMRUc3T01kVUpWX3QxWGxTMlQ2UXlQWGhMSg?oc=5",
       "s": "뉴스1",
@@ -79,9 +73,15 @@ window.LIVE_DATA = {
       "d": "2026-08-29T21:00:00+00:00"
     },
     {
-      "t": "삼전닉스 성장+주주환원 효과 더 누리는 투자법은?[머니똑똑] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nRnJHQlpGMFdWaGhYR3BmLTVESVFvSTBCOWdNbDZvVGhUYnEwaVJHNHd5b2VsSy1oT1IxVDVnLTEyOU9KM2xXYWppdVN3NGR5NU9KcHY4M0dFWWZCY3dUSnE3SkFHOU910gFuQVVfeXFMUGF2MzkwWFY1UzJqck80VXctR0pKNjJQaExfZTcwSXlmY0tmdXFaRlpnVUhocUJFYmthaGFla3Fab2Z6bzZZNmdBTmtTU2hWbnM4ck9JRWRSZ0h1Z0FqbDFDbUt0OW92TWJQMjhCUmc?oc=5",
+      "t": "석유제품 수입 나선 산유국 러시아…물가·통화정책·재정 불안 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45M3g5bDZFb2VqWU9rZXVLUjN5bktoQnlPdTlvbk41WTJCX1AweGxBRllUUmc2bHY2NERHdFhTNU15LUdGWkdIR0xua1VTYWdJNVFhNEdzVlNNUkpvUy1BUklqV1BPZ1JKbnU4NlVB0gFuQVVfeXFMTjkzeDlsNkVvZWpZT2tldUtSM3luS2hCeU91OW9uTjVZMkJfUDB4bEFGWVRSZzZsdjY0REd0WFM1TXktR0ZaR0hHTG5rVVNhZ0k1UWE0R3NWU01SSm9TLUFSSWpXUE9nUkpudTg2VUE?oc=5",
       "s": "머니투데이",
+      "d": "2026-08-29T21:00:00+00:00"
+    },
+    {
+      "t": "흔들리는 코스피에 서학개미 다시 늘어난다, RIA는 '시들' 미국 ETF는 '인기'",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54X193UXpLV0piZFQ3LUVtejhGR0JOVDdIbDUzZWlxZS02cFYwUzAtZ2xWZk1UQVNNU1FJMVNnUzE5M3JEdEVKS09NYkVYazB2eGtkT3U3V0t1RjI3SFBPQ3hjNlVHcXcwMWF6anNLOU5WYlU?oc=5",
+      "s": "비즈니스포스트",
       "d": "2026-08-29T21:00:00+00:00"
     }
   ],
