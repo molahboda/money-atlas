@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T05:00:59+00:00",
-  "quotesAt": "2026-08-29T05:00:59+00:00",
-  "newsAt": "2026-08-29T05:00:59+00:00",
+  "fetchedAt": "2026-08-29T05:15:59+00:00",
+  "quotesAt": "2026-08-29T05:15:59+00:00",
+  "newsAt": "2026-08-29T05:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -31,6 +31,18 @@ window.LIVE_DATA = {
       "d": "2026-08-29T04:25:34+00:00"
     },
     {
+      "t": "[이호연의 D톡스] 한은 두 달 연속 금리 인상…주담대 8% 시대 오나",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95UUN3aFpXVE5FYW51VVNDOVJRc21iXzkyNnZlZmUxdkNlcy1ucnQ2TnFLd0FheEF0ZmYzWEdDM0VRMmRZaktmaV9Da2JVVnZnS053Yk12ZVAtNDJjZVBueTRB?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-08-29T04:24:52+00:00"
+    },
+    {
+      "t": "“인플레 잡겠다”는 연준…비트코인 8만달러선 다시 내줘 [주간 블록체인]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13VXllNWZvQkhpN3pldXlCb21mTldUVHJJU0lsMEZqc29yZER0WVRQT21KeU1Xbklmdmp3cnFiYkMwV0Q2UXFRV2FDSTNyNmMzU19DV1Frb2NqamZ3dXBjVDNCbFQ?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-08-29T04:22:21+00:00"
+    },
+    {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03S1pyeTdvWlNhWndxVjBYeUFfdjFCSF9LSGtoWTVwZUtaRl9yTWh6V25HY3ZSVmJUWnFKTWNESTJRcjhOZi1VWjc4cFZYR01BYzFIZU5scXNmVTZnajhwYTJ5M1lSTzRnOXlIRUI0aw?oc=5",
       "s": "YTN",
@@ -55,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T03:23:00+00:00"
     },
     {
+      "t": "美 ‘50% 관세’에 캐나다 “전쟁이다”…한국에도 불똥?",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50d0xEbjllQm52TkpacmhHTi0wRXR3MkZaLTZBWGY0YmZlejBlWkJaNzlEV0pRZVdQRHVBenZkb0dMeXlmcDI4ZGJZdklHa1F5WHNuLVlhOGpNT2VNRlZDa3NROHBZSUZhbE5uN001NUVKT1XSAXNBVV95cUxOdHdMRG45ZUJudk5KWnJoR04tMEV0dzJGWi02QVhmNGJmZXowZVpCWjc5RFdKUWVXUER1QXp2ZG9HTHl5ZnAyOGRiWXZJR2tReVhzbi1ZYThqTU9lTUZWQ2tzUThwWUlGYWxObjdNNTVFSk9V?oc=5",
+      "s": "시사저널",
+      "d": "2026-08-29T03:12:13+00:00"
+    },
+    {
       "t": "미 재무 “미 금리 상승 막으려 엔화 매수 개입”",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycHZxWmRBdF9uM1VnNm5DREFoOGo4MHhPaC02UzVHdDZPTF9HbExnU2lsd2FoR3c2ZEJfZDRUcE1YZ1hORWpLbGhxZW4yemlVcG5ISEpHZzJKaXQ0clp6OHd5SHdyc0E?oc=5",
       "s": "한겨레",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibUplcmN0R0FiZ1ZqUm1BLTZSdi1VS2VQTHlsUU9jQXVvMDZSbkRnWU9qSGtVam1HeXRKUlZ3LVlyTmF3NG80d1RVbDR2cWpIeHdiTHBn?oc=5",
       "s": "지디넷코리아",
       "d": "2026-08-29T03:06:06+00:00"
-    },
-    {
-      "t": "\"필요시 추가 조치\" 美 금리인상 가능성 시사",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96RE5JUUVTc252aGYydkpHX2Q4ams4dVlNWlZQQnd2aTFLOWxLdjhqWjI1V0FPOFJoMFY0WGFvTkNFdFRzZjZnNVRmQ3RUNV9JSE5xaGEwMWtPLVE0OFBPVW9kUW9lS2RDajJOaVpYM09qczRTcEpPX9IBeEFVX3lxTE84ZlFndkZSb2FBVEtaNVZrbG5hTlR3amZCdFEzNUY1N0lBcml3QzZoVkx3X3E0RS1yNGxnTGdaN3hCaTBqY3ZwMkNTNDRBSEJONnNuM2dZX1puWmd2MnJKcksyN0NtaXZGVHNRMEJ0X0Fqd1hySkFSaA?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-08-29T03:05:32+00:00"
-    },
-    {
-      "t": "美 ‘50% 관세’에 캐나다 “전쟁이다”…한국에도 불똥?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FbjJ2ZTU3XzExaVRUMlNiTWhLY0t3ZHYyNjFJa1ZnVWZqRlpqX3lFbktoNTZIbWhkNHllTURQRzktSW1yNkRGYlFZdTc3S0U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T03:01:00+00:00"
-    },
-    {
-      "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjV6MHJWNF9TSjNFOFJ1MHc2dUFlaVota0RQWHBRUlhDMGJfb1ROMWs5eDFCRlBiWjZzTXJtSmlBendGaGdyajhqclhjcGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T02:28:00+00:00"
     }
   ],
   "asof": {},
