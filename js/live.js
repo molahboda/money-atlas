@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T20:15:59+00:00",
-  "quotesAt": "2026-08-29T20:15:59+00:00",
-  "newsAt": "2026-08-29T20:15:59+00:00",
+  "fetchedAt": "2026-08-29T20:30:59+00:00",
+  "quotesAt": "2026-08-29T20:30:59+00:00",
+  "newsAt": "2026-08-29T20:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "\"가이던스 줄여도 전망은 줘야\"…워시 연준 소통 논란",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlaWNraW80NjJ2cDRHUmNMbEpOV3JNekpMbTd4U3dKQ2NJRFVqNm9HcVBzMXc4QndWMnJrc1FTSGV1NWloYThfN1Bma2pOTklqNFlrWVluR3Y?oc=5",
+      "s": "블록미디어",
+      "d": "2026-08-29T20:24:00+00:00"
+    },
+    {
+      "t": "원·달러 환율 13개월 만에 ‘최저’…얼마나 더 내릴까",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lejJveVd2bUxVMko3bEtrUmdRaHd6UzdTbkhubEtIUE82MU5vWUo5LWlLbWU3R3duQXlWTnByMXhDbkNMelhmTURLdmRvTEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T20:22:10+00:00"
+    },
+    {
+      "t": "'침묵' 깨고 '매파 본능' 드러낸 워시…\"9월 행동이 시험대\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pV0xWWnFaRUlaVGNta09VbVRCNkpqTHR3OHlPcVFXNXp6YUVSY05iRjJBTjFONEFOWWYxWmZZYU1lNWRhSVVncnlWR0JubVFFbnc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-29T20:10:09+00:00"
+    },
     {
       "t": "서울 매수세 이끈 3040…두 번 오른 금리에 '내 집 마련' 주춤하나",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRVNsbnphMU5adjRfSzRza0hKWXA2WjNWSnNnSEg1MUJlN1ZVM0tVcTYwRHExamFBV3JjcGVzdzJYY0pqSHZJd2F5czM1MnNTd2FGMjY1WVROR0XSAWBBVV95cUxPM2tTaXdyekpQbGl3Q3FpQmxlM3VkZXdRaDVZNEJtOHQzV2dXZlkySG9sUWNHeldsSE1yZ0pSenlkWkR3M2VXNUdkbldKdy1OMjhqa1RtRWpua1FuQTB4SC0?oc=5",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T18:25:00+00:00"
     },
     {
-      "t": "월가, 워시 ‘물가 의지’엔 안도…금리 공식은 여전히 안갯속",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOU1FWE1fbjdLenF4YUlvQk5uY09wV2NYN0ZaOUU4VmVBQ0JsaDBBN1NwajZXSVRhLS14U25jQXBxNlBRVXpxOGd0NzlhLU9JLS1vUngyZlc5NGxYVTQzMC1mNEUzZGpIbjFheEpOS094MXJBWnVmTGdZZEc5WUpzNll2MzlMZlJT?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T18:00:00+00:00"
-    },
-    {
-      "t": "美 연준 회의록에 AI 논쟁 급증…금리판단 새 변수로",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFpLVkpjd3JHTXBKZ3ZRTGM5Z2YyNm9CYkRYV1BWU1gwSFlEY01OSzU3ODgyTVFETmVWRHBnU004emNOTTI2T09iNVVvWENqX0R5YWZuQ3dqdXA1U1UzNFpNSGZsRlRVa2QzNVNfaERSczNGQldkNVJpbkV3ckFEMExZUXZFVDlO?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T18:00:00+00:00"
-    },
-    {
       "t": "[주간 월가 레이더] 美 뉴욕증시, '8월 고용·브로드컴' 분수령⋯9월 긴축 셈법 가른다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ta3JkSHBRbldQdXRBUkZrelpGV0p2a0IyUHlCc2hoeHh5ZHlxYkNOQ3VWTG9OajN1NWhYdFYxSllzcmdid0UwbDkxNGFWekpEbG9WS2gtYlpxYzU4c3c?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84UkN2bDNjZl9MY2tKdFNDTkwteDVIbXdrRzBLeGxLNVZtWHNwMlNTZzlOWG9VQmc1djFYM3dpNjBSQ3Q4NEM4?oc=5",
       "s": "포커스온경제",
-      "d": "2026-08-29T17:19:10+00:00"
-    },
-    {
-      "t": "트럼프가 택한 워시, 중간선거 앞두고 금리 올리나",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUEZJd2hNclJOSUVYNnVyM3Bnd2ZSczF0SnpIVlE4eTk3anFWR1lnOXgtSjlLeEE4RWFPVGJVdE5oYWcxb1ZVcmtFRktiS012ekxhVHhzSmlETVlqM3ZZatIBeEFVX3lxTE5GRDV2M2o3RGFLZjJ1R0pnWFpmdFhFYmVJdGl3UjlPNDJ3ckx0amFnVmtmbzVrRWs3WVlvWGhuNDRnV01Jb3dfa2pTdThSbWJvZjJQbnNELXRwVW5Jc3pMZ2JpZHFRQ3lTWloxLUZDZVpDRm4xRG1ZXw?oc=5",
-      "s": "뉴시스",
-      "d": "2026-08-29T16:53:47+00:00"
+      "d": "2026-08-29T18:01:48+00:00"
     }
   ],
   "asof": {},
