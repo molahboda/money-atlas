@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T11:45:59+00:00",
-  "quotesAt": "2026-08-29T11:45:59+00:00",
-  "newsAt": "2026-08-29T11:45:59+00:00",
+  "fetchedAt": "2026-08-29T12:01:00+00:00",
+  "quotesAt": "2026-08-29T12:01:00+00:00",
+  "newsAt": "2026-08-29T12:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "트럼프 기대에 찬물? 워시, 금리 인상 시사…뉴욕증시는 ‘뚝’",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SbzcycnUwMEh4NDJyRm01QktFaXI5RmhuMmxETFRiMDVHNHczVkFkbExJbDluTE1QdjJWdUFOd3BWTGVXSmVwWms4VkhIay1DZkxtcg?oc=5",
+      "s": "JTBC",
+      "d": "2026-08-29T11:42:00+00:00"
+    },
     {
       "t": "이천시, 서강대 연계 고교생 반도체 자율연구 2학기 운영",
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNzlraVdNTDZ6OVZPLU9ndEU1ZVVVVE81TXBBcXRJblRBbnJDUVJ0YjhQTUo1N1Vnb1pEdGJ2Y2doNldjY09XN1pFN1Q?oc=5",
@@ -61,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T10:11:00+00:00"
     },
     {
+      "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-29T10:11:00+00:00"
+    },
+    {
       "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDcEc4REdrWnFnNmEycTZRTkI0d2M3QVFTZkVMZXNNb0VNRW5GcF9vRnJFSkMwSmUyU2twUlpzeDVDZ1Y3elphMmFmOXMtUzZjMUQ5dGdtMFhjVm8?oc=5",
       "s": "KBS 뉴스",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T08:21:52+00:00"
-    },
-    {
-      "t": "9월 코스피 8100까지 간다...장기금리 진정될 것",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sa2JzNl9rdEtNWTE5enBDLWk0Z3RDQy04NzloWGYzcDlYdWdTak9QZDJZTlZqdUhXTko4TmMtN250T0NFNlI5YlVEZzVYYnV2NWc?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-29T08:15:32+00:00"
-    },
-    {
-      "t": "엔비디아 ‘962억달러’도 금리에 밀렸다…월요일 삼전·하이닉스 3가지 신호",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aMGkxMm9kZTlZRnNtX09DWkhpbGV4b25CNXZDSExvMVNnbHZUZU1LMG9aQlB1TWF1bFV4c296a3hGTVpmOE5oM1BBdkVvTS15NTc2OEZjcVRjekw2V09Pd0dxcktmWnNK?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-08-29T08:02:56+00:00"
     }
   ],
   "asof": {},
