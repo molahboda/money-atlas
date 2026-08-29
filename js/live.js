@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T07:30:59+00:00",
-  "quotesAt": "2026-08-29T07:30:59+00:00",
-  "newsAt": "2026-08-29T07:30:59+00:00",
+  "fetchedAt": "2026-08-29T07:45:59+00:00",
+  "quotesAt": "2026-08-29T07:45:59+00:00",
+  "newsAt": "2026-08-29T07:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "‘AI 열풍 안 끝났다’ 광통신 시장 4배 커진다…AI 반도체 빨라질수록 뜨는 ‘이 종목’ [종목Pick]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZmowNzNnWktOTHA3LW9xYkdlQ1dXMHpJUUMtREY2dE41aHlleEt4bDZzT0NpZk1MdXBPSTYyNi1RZ1lGb2I5dE5jci1zVEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T07:32:00+00:00"
+    },
     {
       "t": "\"코스닥 의미있는 반등하려면 이 신호 나와야\"[주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85T285YlE3ZVZzTlg1RW1rU1BqWkV3VGZkUl9TTTV5aDJqX1c3bzBOamJaNmhFZmxxaEdfZ2JkcnhEM0dEUTVmM01mYmJnZlE?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13VXllNWZvQkhpN3pldXlCb21mTldUVHJJU0lsMEZqc29yZER0WVRQT21KeU1Xbklmdmp3cnFiYkMwV0Q2UXFRV2FDSTNyNmMzU19DV1Frb2NqamZ3dXBjVDNCbFQ?oc=5",
       "s": "디지털데일리",
       "d": "2026-08-29T04:22:21+00:00"
-    },
-    {
-      "t": "“이젠 기준금리 3%시대”…주식에 빚투·영끌 개미들 ‘비명’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySnlFM0YtR2g4QkhEWlV3XzBrTGZkNXYzN3dBX09HaVA2c0hBZTJueFhQTjdDRXROV05OQmt1Qmpnd0Rob0FNVklaczY1Vk1ORkE?oc=5",
-      "s": "매일경제",
-      "d": "2026-08-29T04:16:11+00:00"
     }
   ],
   "asof": {},
