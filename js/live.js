@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T03:30:59+00:00",
-  "quotesAt": "2026-08-29T03:30:59+00:00",
-  "newsAt": "2026-08-29T03:30:59+00:00",
+  "fetchedAt": "2026-08-29T03:45:59+00:00",
+  "quotesAt": "2026-08-29T03:45:59+00:00",
+  "newsAt": "2026-08-29T03:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "美 재무 \"엔화 불안정시 美 금리상승\" 경고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EYlVEd19sQU5BMTFwdS04NWx2X3pUTmxYLUhyOGVGQ1g0ZmZ3OFo1RzB5dTd4NnR3aWs5YVRLRzBwZzRybGtxR1l3ZUdIZ0FwYkM3YVhILVJHclNNeTVuMFBJeUdxTG9lZTFTYzdESlg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-29T03:37:31+00:00"
+    },
+    {
       "t": "미국, 오는 9월 금리 인상할까",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibUplcmN0R0FiZ1ZqUm1BLTZSdi1VS2VQTHlsUU9jQXVvMDZSbkRnWU9qSGtVam1HeXRKUlZ3LVlyTmF3NG80d1RVbDR2cWpIeHdiTHBn?oc=5",
       "s": "지디넷코리아",
@@ -38,9 +44,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "美 ‘50% 관세’에 캐나다 “전쟁이다”…한국에도 불똥?",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTXlraWZQRmVPQ3F1Z3JFMVNZa2NOeFc5aUh6SU90UlhSMXgxRXhxRXZuenY0VFNjblFpckF0dWpNNVpRQUtvejQteHNmVHZhWlQtYnE5ZEVJLTNYMEh1LVNEX1hhb2Z5d0JkdmJPZ9IBc0FVX3lxTE50d0xEbjllQm52TkpacmhHTi0wRXR3MkZaLTZBWGY0YmZlejBlWkJaNzlEV0pRZVdQRHVBenZkb0dMeXlmcDI4ZGJZdklHa1F5WHNuLVlhOGpNT2VNRlZDa3NROHBZSUZhbE5uN001NUVKT1U?oc=5",
-      "s": "시사저널",
-      "d": "2026-08-29T03:00:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FbjJ2ZTU3XzExaVRUMlNiTWhLY0t3ZHYyNjFJa1ZnVWZqRlpqX3lFbktoNTZIbWhkNHllTURQRzktSW1yNkRGYlFZdTc3S0U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T03:01:00+00:00"
     },
     {
       "t": "미 재무 “미 금리 상승 막으려 엔화 매수 개입”",
@@ -55,34 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-08-29T02:31:52+00:00"
     },
     {
-      "t": "엔화 개입 배경… 베선트 “안 막으면 美 금리 올라”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0UmVfd1FmVWFSOTFINDFiTnJuSWtjS0NMdmJMQWZYMHRiZWNJRXhyT2phakZ4VUFLOFpvS0huLTF3V3dfQnlQd0t1YmJ2c1VHOHNwRzYwQXh0RmlnUTE2ZGxUWWNONEHSAWxBVV95cUxOZ0dOYzEwQ0ktTjRhT1A4M2I1U2UyNHo4Wk1VZ0g2c2xLcmhEVDV1b0lfRmxnWkE3V183MDRTbGd0Sll1cUs2ZllLWUxqckJBbThaQ1l1QmdWaUg3TmhMVUd6Nm9wOEw5NktnTGQ?oc=5",
-      "s": "국민일보",
-      "d": "2026-08-29T02:31:00+00:00"
-    },
-    {
       "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjV6MHJWNF9TSjNFOFJ1MHc2dUFlaVota0RQWHBRUlhDMGJfb1ROMWs5eDFCRlBiWjZzTXJtSmlBendGaGdyajhqclhjcGM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T02:28:20+00:00"
     },
     {
-      "t": "【심층기획】 세계 반도체 대기업이 선택한 ‘용인’~ 왜! 한국형 실리콘밸리인가?",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBad1lxX0pvS25ka0Fpb0FBWkRkTklSNlpFRDZuZmttSWluVmVVcWlseWs1eldVaGxrY252ekdtalJoSkFaMlQtLTM1SV9qYk1jRmtsZGMzeVdUcTBLQTRNLQ?oc=5",
-      "s": "경기경제신문",
-      "d": "2026-08-29T02:24:15+00:00"
+      "t": "미 연준 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-29T02:01:00+00:00"
     },
     {
-      "t": "원화 두 달 새 10% 강세…외국인 수급·엔화 반등에 환율 흐름 바뀌나",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkTENVa1NHTnd0U1BDTF9SdEN4V3BNQjhYUmQwR2RNTVJDZzZidld0Sm9xdmU1X1ZBNVFRZFRlcFRZQTd5UHZRUjY4Z0NJcGpiRGx3Z0R0WGdWNFNPRS1YUHpXcWh6R2R6YktKSEJMNmvSAXRBVV95cUxNTGtIUWhXQ2M5NHhrRnNPV3paRXpQTkxYSGgxcjJHNks4bW5lY1J6UVBOeEVMbzdaUTRNRmhMNVFVZ2EtclExZ2Rubm1fOVl0N3J1RklSVW02a3ZvbDhuYld5QUtwQ1A0WER4VWJ3bmFVNkZJMg?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-29T02:03:05+00:00"
+      "t": "“삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdUhWSWNwTWdrWi1BdjJIRVZZNjFoRHBRbkVxYVBNdl94U00zLVY0VEYwWW9vQUJ5UzJITFVmdmR0THNQZUNoSUhMc25OQXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T01:41:11+00:00"
     },
     {
-      "t": "[단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwM0VfZHZZcU5kdEVnV3hjclB1Y1llZFYzdW9lMGRjVnRsQ0FtUDgteW5RSGxJSHBBNkNFLXpmbTJKN2JmYU05b0wydU1IQmZPQjhXUkpVSGJPeHdxNzNrTUxXOUhFNW02SFHSAW9BVV95cUxOUXJoYWxvQ1NIZUx1X3ZyTl9zcXZEaVR3YWVMalNtaEdsZ2ZCVjJIWlZrVkRIcS1IYzBGS0Q2aFBnX0Q2TWZMdmpOTWRHSjV3RXZIcGRJbnBSUzZYaHo3QndwZGlUMVNScW90M3FvUnc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-29T02:00:00+00:00"
+      "t": "55조 자사주가 바꾼 증시 수급···외국인 팔아도 ‘큰손’ 따로 있었다",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoa3BWOXUyS3YyTXBMLURxcy1TZ3dVN1E1LVhFMnJEcll1Wm9jSy1XcXVueFd5TG5USWRkVnR5TkxDb0N0UFpRaTdEcWRndHdsUnhmWWtMajFROXVBQ0N2Mkxmb0tOUDdPQmo1ZUJCeTN6d3RCaHfSAXZBVV95cUxQaGtwVjl1Mkt2Mk1wTC1EcXMtU2d3VTdRNS1YRTJyRHJZdVpvY0stV3F1bnhXeUxuVElkZFZ0eU5MQ29DdFBaUWk3RHFkZ3R3bFJ4ZllrTGoxUTl1QUNDdjJMZm9LTlA3T0JqNWVCQnkzend0Qmh3?oc=5",
+      "s": "시사저널e",
+      "d": "2026-08-29T01:39:44+00:00"
     }
   ],
   "asof": {},
