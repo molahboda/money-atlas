@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T17:45:59+00:00",
-  "quotesAt": "2026-08-29T17:45:59+00:00",
-  "newsAt": "2026-08-29T17:45:59+00:00",
+  "fetchedAt": "2026-08-29T18:01:00+00:00",
+  "quotesAt": "2026-08-29T18:01:00+00:00",
+  "newsAt": "2026-08-29T18:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-29T14:17:00+00:00"
     },
     {
-      "t": "매파적 잭슨홀 연준 메시지에 금값 후퇴…비트코인 8만달러 아래로 하락",
-      "u": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPcm1aYnBvcG5oTDlqOTBtbEhUU2o0cjdUSTZ6U0ozNE14eVRCMkxFNWtnU0VOeVFOWUxNWE5aWmFPOWJFb3FId1d2bWpPRU1Zem1wSHhsZVlfNlJZeGw4aGtLZjhGY1NpVFFMa1lHdmo2UFBudll4NkwyLWhVSjc5RkpJdk0tRHJJcEVRU2RfaDJmLUp6M2xmMGhFTmlJSmhrV3FqWUxoa3NHT1ZVXzZoZ1dBUjdubFkxbFppQzQ1TlpWOTRRQmxqcjlHM0pSdTdIZVdMTVVBVDV4eDBRbkpiLXl1NjJnWl9oTU5LY19PTFBZS0oxZUd0RXNWQ3B1WmdhbG9LZTU0TF9Ud1pQRVhXMjVCdnNORC1lVWxOMVlDQm04dkhyV1JCeTZxcldacmFPVjZhRldrQTUtRnMyMy1iMUVGdzNqa1pIMk9JS1ZkM2VieVg3SWc?oc=5",
-      "s": "VT Markets",
-      "d": "2026-08-29T14:12:05+00:00"
-    },
-    {
       "t": "베일리 “2차 인플레이션 압력 제한적”…영란은행, 9월 금리 결정 여지 남겨",
       "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVC1zLXFNMWNSS0NReHBuTmVENEQzVWhNVWRFZmY0SmxZb1NST1d4Y2MzMXphZnpOTWg4Z1FaaVVnRExfSUUxUDV1VlBNZG1YMmI5Z1E0ZGQwZU5HUW9oLTd4TlFYa3J0dG5KcVJBTGdOZWNMUHJENllaWjFZZUlEVG4tcGFtNTdwRUxCTVdWLU45d3ljenp0c0g5QkxkLXNBLVU0SlJYbm0yNVo5MDdodjZRRW5HUjZna0g3V1l4dlFaTUVhR0FrbXN6M3dNU2RtZ1dndFBRbXVhbmlkbVd1cERuZnpQZUJoRUctRUdHa2ZaZGg4dUtnd3ZKRFlILVk0RDh3clRRZ19LMWtuOXplaGQzTlBZaXpqa2ZpNmhmSGVtQlh6YUcwVVk4Z0NuQmNhQ190bmFTclVlVkJrd2c?oc=5",
       "s": "VT Markets",
       "d": "2026-08-29T14:06:21+00:00"
+    },
+    {
+      "t": "연준 금리인상 가능성 확대·무역관세 불안에 EUR/USD 1.1600선 하회",
+      "u": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQ0V6YmtBeDRMbnVieUYxalBIaTd5WXJ2TVFpWUVZSzM5YndjaG9QTzJMWGxnTEdBMDRMTHQ1V3VXcnNQZ3lxUTNkR0w5bUtEMy1ZZkNhY2NVVHJCYlgzaVg3OGk4YnFmbzlsNVVaNGRrSEh3TlpqaThLcUoyRE1tMHNOR3VjeVVDLXpGbnRqQnBSWldtdkx3VWl5QWRaa1BXSkFYZFQtdFdMdTBqbVRmTzZNUUE1VFNGTmR6LXFUV3Y5NUdTeDRmMml2WDJyeVBFSkMzWXJDMUpLU1R4akdpd09TTjVSYnI1eW4tazBJVzRRcVdKdG1qZU5VSFFUWmw2MGt1ODRIVXg3ZlNSYmNTeUhJTmJOWUpncUpTck5xSlloN29TbUdoQml3aFRuTU5JWHhKLXdkR3I1b0hOVk1YbU9DaDRoLVVaV2JSbGo0Y3Zuc01LdjJyS2FlcWpzZjVJUHc?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:06:14+00:00"
     }
   ],
   "asof": {},
