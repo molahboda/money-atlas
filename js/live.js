@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T02:45:59+00:00",
-  "quotesAt": "2026-08-29T02:45:59+00:00",
-  "newsAt": "2026-08-29T02:45:59+00:00",
+  "fetchedAt": "2026-08-29T03:00:59+00:00",
+  "quotesAt": "2026-08-29T03:00:59+00:00",
+  "newsAt": "2026-08-29T03:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,22 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "미 재무 “미 금리 상승 막으려 엔화 매수 개입”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycHZxWmRBdF9uM1VnNm5DREFoOGo4MHhPaC02UzVHdDZPTF9HbExnU2lsd2FoR3c2ZEJfZDRUcE1YZ1hORWpLbGhxZW4yemlVcG5ISEpHZzJKaXQ0clp6OHd5SHdyc0E?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-29T02:49:00+00:00"
+    },
+    {
       "t": "인디켐, 남공주산단에 반도체 소재 공장 준공… 포토레지스트 원료 양산 돌입",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ob2dremZFVThYM2dsN3BobmZ1dUF1Tlg4d0R1RjNnNFY2clc1cHdjT0IwcnA5MDY1YnExYlJfRk1oYlhzMEdVbXhtc2VQeTNBZVRRdG9TWnBBTjhsYndCTVB6NVoxZw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xLTR2OTNud1VHNjFTZzk0MFNaNzNfMDdhZWZHSHlrZjVOaWo1bG1lR2VIVmhUc2tqczdFM2FQdFpLZHFaV2xMS2xGVjNOTHVhLWs4aTgtQ1NwdDBTeVhaVV81ZlZkTTQ?oc=5",
       "s": "기계신문",
       "d": "2026-08-29T02:31:52+00:00"
     },
     {
-      "t": "엔화 개입 배경… 베선트 “안 막으면 美 금리 올라”",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzFtdjlIQWlTUlB3dkdzc3g0RXIwMS03cWs1ZVdBMmVnbkRZXy1XcHNjVzU1Z3NuZXBTRXVra1FnU252dXY3TV9KNnNab0UtN0g1dUVvLWtxT0ZraEhVaE95am16M3YwN0t1d0dkc3o1R1BWejdzT01teUh5Q3IzT0UwcHpHSzJQbmhrRTRUYWlQWGtXZGfSAWxBVV95cUxOZ0dOYzEwQ0ktTjRhT1A4M2I1U2UyNHo4Wk1VZ0g2c2xLcmhEVDV1b0lfRmxnWkE3V183MDRTbGd0Sll1cUs2ZllLWUxqckJBbThaQ1l1QmdWaUg3TmhMVUd6Nm9wOEw5NktnTGQ?oc=5",
-      "s": "국민일보",
-      "d": "2026-08-29T02:31:00+00:00"
-    },
-    {
       "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xeThncGVQUkhhYTFHTXM5WGVNdW1mU2s4MDd0WS1fVV9DYzFWTlY3THZfVW1XZ3pnZUVfcW5za0hqZDRuN2lCc0xCbGlHQ3Jlck9sYTRMNkRWTDg?oc=5",
-      "s": "경기일보",
-      "d": "2026-08-29T02:28:13+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjV6MHJWNF9TSjNFOFJ1MHc2dUFlaVota0RQWHBRUlhDMGJfb1ROMWs5eDFCRlBiWjZzTXJtSmlBendGaGdyajhqclhjcGM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T02:28:20+00:00"
     },
     {
       "t": "【심층기획】 세계 반도체 대기업이 선택한 ‘용인’~ 왜! 한국형 실리콘밸리인가?",
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T01:41:11+00:00"
     },
     {
+      "t": "55조 자사주가 바꾼 증시 수급···외국인 팔아도 ‘큰손’ 따로 있었다",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoa3BWOXUyS3YyTXBMLURxcy1TZ3dVN1E1LVhFMnJEcll1Wm9jSy1XcXVueFd5TG5USWRkVnR5TkxDb0N0UFpRaTdEcWRndHdsUnhmWWtMajFROXVBQ0N2Mkxmb0tOUDdPQmo1ZUJCeTN6d3RCaHfSAXZBVV95cUxQaGtwVjl1Mkt2Mk1wTC1EcXMtU2d3VTdRNS1YRTJyRHJZdVpvY0stV3F1bnhXeUxuVElkZFZ0eU5MQ29DdFBaUWk3RHFkZ3R3bFJ4ZllrTGoxUTl1QUNDdjJMZm9LTlA3T0JqNWVCQnkzend0Qmh3?oc=5",
+      "s": "시사저널e",
+      "d": "2026-08-29T01:39:44+00:00"
+    },
+    {
       "t": "[해외시황] 뉴욕증시, 워시 매파 발언·금리 인상 우려에 '하락'…나스닥 0.52%↓",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeE5EVG5QZ1FyNkFrRVgwMWVwcWRwczYyYkFPcWFualQ1TXFZdFVDdXY5cGdRUWxaUnduZW9ubXhJYUR6TUZwTGs3czQ2ZzF6NnVwVG9nbjAwNldaUUFxa0Q4RG40VElsRUZCSQ?oc=5",
       "s": "프라임경제",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrR3Nwc1U5bk04cTB1OGF1UnBNN3RfbDdidG1vUmR5Nk9tcHJmdUJMSzJnd0lrRjZDX1B6bTA4ZFZtOVRoY0x5bEdTdnAwcjMxWUJKUjJTTGxHSld1NWs5Ni03ZW12dw?oc=5",
       "s": "시사주간",
       "d": "2026-08-29T01:26:08+00:00"
-    },
-    {
-      "t": "코스피 흔들리자 일주일 새 2.6조 몰린 ‘방어형 ETF’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rm50eDVjMHFLOEJRUmFiNkNudUpMbWx2Zl9GQXJhQ1VtVjhhMzBPNF9nUnpFTmxkM252SzB4YUZtekxWTUpmem80LXE2aDFvMl83R0l1NUFGQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-08-29T01:25:00+00:00"
     }
   ],
   "asof": {},
