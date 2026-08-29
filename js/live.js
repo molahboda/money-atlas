@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T03:00:59+00:00",
-  "quotesAt": "2026-08-29T03:00:59+00:00",
-  "newsAt": "2026-08-29T03:00:59+00:00",
+  "fetchedAt": "2026-08-29T03:15:59+00:00",
+  "quotesAt": "2026-08-29T03:15:59+00:00",
+  "newsAt": "2026-08-29T03:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -11,24 +11,36 @@ window.LIVE_DATA = {
     "krw": 1375.67,
     "gold": 4504.1,
     "wti": 83.44,
-    "dxy": 99.68
+    "dxy": 99.7
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.57,
-    "dxy": 0.52,
+    "dxy": 0.54,
     "gold": -2.29,
     "wti": -0.11,
     "vix": -0.55
   },
   "news": [
     {
+      "t": "미국, 오는 9월 금리 인상할까",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ibUplcmN0R0FiZ1ZqUm1BLTZSdi1VS2VQTHlsUU9jQXVvMDZSbkRnWU9qSGtVam1HeXRKUlZ3LVlyTmF3NG80d1RVbDR2cWpIeHdiTHBn?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-08-29T03:06:06+00:00"
+    },
+    {
+      "t": "美 ‘50% 관세’에 캐나다 “전쟁이다”…한국에도 불똥?",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTXlraWZQRmVPQ3F1Z3JFMVNZa2NOeFc5aUh6SU90UlhSMXgxRXhxRXZuenY0VFNjblFpckF0dWpNNVpRQUtvejQteHNmVHZhWlQtYnE5ZEVJLTNYMEh1LVNEX1hhb2Z5d0JkdmJPZ9IBc0FVX3lxTE50d0xEbjllQm52TkpacmhHTi0wRXR3MkZaLTZBWGY0YmZlejBlWkJaNzlEV0pRZVdQRHVBenZkb0dMeXlmcDI4ZGJZdklHa1F5WHNuLVlhOGpNT2VNRlZDa3NROHBZSUZhbE5uN001NUVKT1U?oc=5",
+      "s": "시사저널",
+      "d": "2026-08-29T03:00:00+00:00"
+    },
+    {
       "t": "미 재무 “미 금리 상승 막으려 엔화 매수 개입”",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycHZxWmRBdF9uM1VnNm5DREFoOGo4MHhPaC02UzVHdDZPTF9HbExnU2lsd2FoR3c2ZEJfZDRUcE1YZ1hORWpLbGhxZW4yemlVcG5ISEpHZzJKaXQ0clp6OHd5SHdyc0E?oc=5",
       "s": "한겨레",
-      "d": "2026-08-29T02:49:00+00:00"
+      "d": "2026-08-29T02:54:00+00:00"
     },
     {
       "t": "인디켐, 남공주산단에 반도체 소재 공장 준공… 포토레지스트 원료 양산 돌입",
@@ -55,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-08-29T02:03:05+00:00"
     },
     {
-      "t": "[단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwM0VfZHZZcU5kdEVnV3hjclB1Y1llZFYzdW9lMGRjVnRsQ0FtUDgteW5RSGxJSHBBNkNFLXpmbTJKN2JmYU05b0wydU1IQmZPQjhXUkpVSGJPeHdxNzNrTUxXOUhFNW02SFHSAW9BVV95cUxOUXJoYWxvQ1NIZUx1X3ZyTl9zcXZEaVR3YWVMalNtaEdsZ2ZCVjJIWlZrVkRIcS1IYzBGS0Q2aFBnX0Q2TWZMdmpOTWRHSjV3RXZIcGRJbnBSUzZYaHo3QndwZGlUMVNScW90M3FvUnc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-29T02:00:00+00:00"
-    },
-    {
       "t": "“삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdUhWSWNwTWdrWi1BdjJIRVZZNjFoRHBRbkVxYVBNdl94U00zLVY0VEYwWW9vQUJ5UzJITFVmdmR0THNQZUNoSUhMc25OQXM?oc=5",
       "s": "v.daum.net",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeE5EVG5QZ1FyNkFrRVgwMWVwcWRwczYyYkFPcWFualQ1TXFZdFVDdXY5cGdRUWxaUnduZW9ubXhJYUR6TUZwTGs3czQ2ZzF6NnVwVG9nbjAwNldaUUFxa0Q4RG40VElsRUZCSQ?oc=5",
       "s": "프라임경제",
       "d": "2026-08-29T01:38:41+00:00"
-    },
-    {
-      "t": "케빈 워시 연준 의장, \"인플레이션이 최대 과제\" 경고",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrR3Nwc1U5bk04cTB1OGF1UnBNN3RfbDdidG1vUmR5Nk9tcHJmdUJMSzJnd0lrRjZDX1B6bTA4ZFZtOVRoY0x5bEdTdnAwcjMxWUJKUjJTTGxHSld1NWs5Ni03ZW12dw?oc=5",
-      "s": "시사주간",
-      "d": "2026-08-29T01:26:08+00:00"
     }
   ],
   "asof": {},
