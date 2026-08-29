@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T21:30:59+00:00",
-  "quotesAt": "2026-08-29T21:30:59+00:00",
-  "newsAt": "2026-08-29T21:30:59+00:00",
+  "fetchedAt": "2026-08-29T21:45:59+00:00",
+  "quotesAt": "2026-08-29T21:45:59+00:00",
+  "newsAt": "2026-08-29T21:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -49,15 +49,15 @@ window.LIVE_DATA = {
       "d": "2026-08-29T21:03:24+00:00"
     },
     {
-      "t": "석유제품 수입 나선 산유국 러시아…물가·통화정책·재정 불안 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WWWYyZ2VoV2FBcEpzcHBCekt4TjBpX0ROTHl4VzEzTm5jTi1WNFFpYnBIc0piNmtURWtzeDllQm1uSEpEU2Z0SnhCOFQzUjV3Qi1FQzEwRXpUODNtd3hXUDNyV2l5VWI20gFuQVVfeXFMTjkzeDlsNkVvZWpZT2tldUtSM3luS2hCeU91OW9uTjVZMkJfUDB4bEFGWVRSZzZsdjY0REd0WFM1TXktR0ZaR0hHTG5rVVNhZ0k1UWE0R3NWU01SSm9TLUFSSWpXUE9nUkpudTg2VUE?oc=5",
-      "s": "머니투데이",
+      "t": "(주간증시전망)7000선 다시 넘본다…반도체 호조에 미 고용이 변수",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DWlRNQVVRUEJub25ueHY5YjRTRVBMd3JlZ3RnYjFyYTNIODE5YWY5R1dEQXNPYmxoSFFVUzE0bFktakRRWWhJTjI2el84b1M5bVBxNHA1ZXQ5dXdzYWt6Sw?oc=5",
+      "s": "뉴스토마토",
       "d": "2026-08-29T21:00:00+00:00"
     },
     {
-      "t": "(주간증시전망)7000선 다시 넘본다…반도체 호조에 미 고용이 변수",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84NTl4RnlYMDk3MzYxY2hIX1h2N1BJd0FDNmFIbzNrODdtWUwycDFIcU1GMlM0emZOTjRtWEEzVzVXOUJCMHJfOGNQRVYtWWR2dDVwX3p3ZVdFS2NvQ2RZ?oc=5",
-      "s": "뉴스토마토",
+      "t": "석유제품 수입 나선 산유국 러시아…물가·통화정책·재정 불안 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WWWYyZ2VoV2FBcEpzcHBCekt4TjBpX0ROTHl4VzEzTm5jTi1WNFFpYnBIc0piNmtURWtzeDllQm1uSEpEU2Z0SnhCOFQzUjV3Qi1FQzEwRXpUODNtd3hXUDNyV2l5VWI20gFuQVVfeXFMTjkzeDlsNkVvZWpZT2tldUtSM3luS2hCeU91OW9uTjVZMkJfUDB4bEFGWVRSZzZsdjY0REd0WFM1TXktR0ZaR0hHTG5rVVNhZ0k1UWE0R3NWU01SSm9TLUFSSWpXUE9nUkpudTg2VUE?oc=5",
+      "s": "머니투데이",
       "d": "2026-08-29T21:00:00+00:00"
     },
     {
