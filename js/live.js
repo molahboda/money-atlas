@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T11:15:59+00:00",
-  "quotesAt": "2026-08-29T11:15:59+00:00",
-  "newsAt": "2026-08-29T11:15:59+00:00",
+  "fetchedAt": "2026-08-29T11:30:59+00:00",
+  "quotesAt": "2026-08-29T11:30:59+00:00",
+  "newsAt": "2026-08-29T11:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -11,19 +11,31 @@ window.LIVE_DATA = {
     "krw": 1371.5,
     "gold": 4529.9,
     "wti": 83.4,
-    "dxy": 99.7
+    "dxy": 99.68
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.87,
-    "dxy": 0.54,
+    "dxy": 0.52,
     "gold": -1.73,
     "wti": -0.16,
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "Weverse TXT Media - 연준이랑 프라하하하 | TXT-LOG | TXT (투모로우바이투게더)️",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02c3YxSEpXaVN3dzJld1hZTXBIU1o1QUEycEQ4aksyTkdqUWdwVFhVcmlmQVVoS2l0aFVYMUZ2QjNTNE1WeGpHZEtfNGZUSV9JZkE?oc=5",
+      "s": "Weverse",
+      "d": "2026-08-29T11:19:34+00:00"
+    },
+    {
+      "t": "충남대, 반도체 인재 ‘기술만으론 부족’…소통·인성까지",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95VXhGR1FWRVNPLVpUakpkYkhIdzFHWlRRT1pTODJXY3FyR296NlFSRnc2ck1UcDhNQVQtVE9DQXRKQXVRY1JWbWJMU0t3X3VJUkNKOQ?oc=5",
+      "s": "타임뉴스",
+      "d": "2026-08-29T11:14:37+00:00"
+    },
     {
       "t": "이천시, 6·7급 공무원 대상 반도체 현장교육 실시",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Rk9yZVBnZkY0cWk0RkwtMTFTYmk5WERUSktjSDlTT2F3Rm5meEZleENBMHdmOUxrTm5PeTJETWJ3aXoza2o4YmsxM0FwZw?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T10:04:00+00:00"
     },
     {
+      "t": "미 금리인상 전망에 엔 다시 1달러=160엔대로 추락",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxeURScTdSYmdCdHRqMVVxR1l2emxvZ2xlemdKUzhDalRudWV5ckVjTjZYTTNGczRPT0piS0U2aE5VajNPd1lmZnM5NXRlbEhRNFMyWVFVVnpNLUJyQlJqSjBDSXhGdnhmd0Vmdw?oc=5",
+      "s": "세상을 바꾸는 시민언론 민들레",
+      "d": "2026-08-29T08:40:00+00:00"
+    },
+    {
       "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
       "s": "v.daum.net",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aMGkxMm9kZTlZRnNtX09DWkhpbGV4b25CNXZDSExvMVNnbHZUZU1LMG9aQlB1TWF1bFV4c296a3hGTVpmOE5oM1BBdkVvTS15NTc2OEZjcVRjekw2V09Pd0dxcktmWnNK?oc=5",
       "s": "녹색경제신문",
       "d": "2026-08-29T08:02:56+00:00"
-    },
-    {
-      "t": "워시發 '9월 금리 인상론'…주식·비트코인·금 동반 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CVTdQaWZOb1phQUJUY29HY2toUzI5VXBQRkpiQndqQktUOFR0MnRnbmgzcWNIYXFyYXNkbVVObnJjY3RzNzhsVVQtTl95MHkweHFWaENpV1lHb1JYU3R5Zk9ZZVZKbVlJZE8ySnBMMHU?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-29T08:00:00+00:00"
-    },
-    {
-      "t": "중국 CXMT, 상반기 매출 10배 급증…AI 반도체 훈풍에 흑자 전환",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVZFZncxYWN4b2lqYjU4UU9jS3FILWdaSmN4X0N5SjhILXdGcEF0YzR6TllTYkN2bHFadFZrVHZKNmpheUlGLWtkNEZxclRmNmZEVjlGR3dKMGlsb2hBX1NQSnVpdGExWFE?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-29T07:57:00+00:00"
-    },
-    {
-      "t": "\"코스피 60% 뛸 때 나만 마이너스\"…코스닥 반등하려면 이 신호 나와야[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWXhsOEloTU10WHBmbWkxc1NFaE5xc0FYMk03WDA4T3F4bS12LW1uYnZpNzI4WjF2VDEyN0VnSUhkS0lMcllNSmhyZWlVVDB0LVpTcHdscTlHd092SVk5Wg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-29T06:57:00+00:00"
     }
   ],
   "asof": {},
