@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T01:30:59+00:00",
-  "quotesAt": "2026-08-29T01:30:59+00:00",
-  "newsAt": "2026-08-29T01:30:59+00:00",
+  "fetchedAt": "2026-08-29T01:45:59+00:00",
+  "quotesAt": "2026-08-29T01:45:59+00:00",
+  "newsAt": "2026-08-29T01:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "미 연준의장 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-29T01:33:00+00:00"
+    },
+    {
+      "t": "케빈 워시 연준 의장, \"인플레이션이 최대 과제\" 경고",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrR3Nwc1U5bk04cTB1OGF1UnBNN3RfbDdidG1vUmR5Nk9tcHJmdUJMSzJnd0lrRjZDX1B6bTA4ZFZtOVRoY0x5bEdTdnAwcjMxWUJKUjJTTGxHSld1NWs5Ni03ZW12dw?oc=5",
+      "s": "시사주간",
+      "d": "2026-08-29T01:26:08+00:00"
+    },
+    {
+      "t": "코스피 흔들리자 일주일 새 2.6조 몰린 ‘방어형 ETF’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rm50eDVjMHFLOEJRUmFiNkNudUpMbWx2Zl9GQXJhQ1VtVjhhMzBPNF9nUnpFTmxkM252SzB4YUZtekxWTUpmem80LXE2aDFvMl83R0l1NUFGQQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-08-29T01:25:00+00:00"
+    },
+    {
+      "t": "‘엔비디아 호재’도 무용지물… 국장 발목 잡은 금리와 트럼프 [주간 증시해설서]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VU1FmYTBwVzdiSzlBeG1DNjRxV3BYSE4wTnNmMU1uV2JFTndHSXE1U2xqNDRmVTBRcmlpOGYtR3N1M3JFMVBVU1RRRWZ4aEJ0SHlIcE54RURuZTRsRWtMTlpaWEt6U2NYZDFERmF3?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-29T01:20:31+00:00"
+    },
     {
       "t": "[8월 넷째 주 세계경제동향 브리핑] 코스피 6,700선 후퇴…코스닥은 4%대 반등",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnM2NSZjQ2b3Qzb3FBcWdadm9tUEhGSW1fYWtTeWpPaGM1eUFMYUtRLW50NmJXQXB2b1FiV0xDVE1IWjlVZHVHX3RDS1ROUjQ?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuWHh3cVI5X2t3OG9fZDRCbFlza2pLYmdzd2pNVGlnYVpoZFRBcXAxWG1OSXNpdUw3bG9taUNNZi1lNWl5MXhORVR4U3Nwa3E1YXJobFUyQ1dLazV0aTRra19VWnZFbnVoZ0o4dGhLelZLSERtYXfSAWZBVV95cUxOS2U5QlcyeTVTVmhiZUVWTmNzUmlPY3hUZlZHVVNzcHJxRzFzcFJYTVRySllLLXJ4Q1dHblVEYkNwdm5WRkw5bTFtU1NyNU9RaVJ2cVRWYXIwRzBEYU0yemI0LWpYdlE?oc=5",
       "s": "동아일보",
       "d": "2026-08-29T01:00:00+00:00"
-    },
-    {
-      "t": "국금센터 \"日 장기금리, 상당기간 높은 수준 유지…재정·수급 따라 추가 상승\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3VGNPN0FHbTNHQVd5ekZ5OXFNODdrSnZOa1dWaldhU1lYQmhaZnJnTEFidzdDcUpHZWUyQkJoNDFCRXpORzVGeS1iX1hZdDNlSlF0Q2QwdUM4WndnRF9ZNHpvTzQtNkppcVlJU0Npd3jSAXRBVV95cUxOTHRwb1d1WnZOWjVCTHJUZ0RRSGcyREJhaFBkMVVqNjhhSHVwOXRRTG5oNFlJdGFyanNUdmRnTEM4S1ZlYVRocGFOOHlWa1BBR19CckdfRUVPYVhUYzZTcklFd0VuOERaR1FXcDBGQjgwYlRySg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-29T00:40:01+00:00"
-    },
-    {
-      "t": "워시 매파 발언에 9월 금리인상 기대 급등…뉴욕증시 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11UWl2Xy1CSTItc1l0azZ2a29PcGRLRU82ZDkxdG9MT0VTckJCTWRacFBqTVFuOFhvdTlYNnhLWnNHTlM3MUx2WXhQc0htU3dkclI0MEJGQ2pEN2lQ?oc=5",
-      "s": "티제이비",
-      "d": "2026-08-29T00:39:31+00:00"
-    },
-    {
-      "t": "워시 ’금리 인상’ 경고에…뉴욕증시·국제유가 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SUWczNkRsMjY2dm9YNV9NR1dKcDJXNHNNYm5sWm92N0NQOFVFc19VZm5taWVBUUxoRWtUVW9lSEQyc3d2TjR4eHRPZWhiLTkyWkNKVkFXR3B2SDBWaVRBQUZxblVrcTg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-29T00:39:00+00:00"
-    },
-    {
-      "t": "워시 연준 의장 ‘매파 발언’에 뉴욕증시 일제히 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UdFlnRTRHVUpocXFPcTV1NTBBdUl6QXE0bmNwcGp0RFlCRkhIeUNWNEpZWDJOb04yWE5ZT2JvRXhrTnZ0NlN6bFkwblR5R3NsNDZJbXJ0NUhteW1Eak1SMkgwRHg?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-29T00:37:40+00:00"
     }
   ],
   "asof": {},
