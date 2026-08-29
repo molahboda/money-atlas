@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T01:00:59+00:00",
-  "quotesAt": "2026-08-29T01:00:59+00:00",
-  "newsAt": "2026-08-29T01:00:59+00:00",
+  "fetchedAt": "2026-08-29T01:15:59+00:00",
+  "quotesAt": "2026-08-29T01:15:59+00:00",
+  "newsAt": "2026-08-29T01:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美재무, 엔화 매수 개입 이유 묻자…\"불안시 미 금리 상승\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqUk9YWmd3cHJ1VmlPcnZ5ZVVIcmFRQzNnb1B0SGJLV1l3bEt6MG1rQ3pHeHJUQ1ZLeFd5LV9RQ1BkX1JLc2ZtRXNRa3JlSHdxcGY5Qk5LdkRmTFRxVkJpbg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-29T00:58:43+00:00"
+      "t": "워시의 첫 잭슨홀 “필요하면 추가 조치”… 9월 금리 인상 가능성↑",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekNFT0R1RXlJWEdKUGxWMFc4V1JNb2o1aFAxWEtUanZnQ1JUenQwLU9qcHl0b3pDd1VuUkdpX1dOc25fSEhhN1lnLUlzVXRwZ2dHaGNpLXNMc3Nxa1VOVGFIZjJJbGhXeG5ZX0tjN2JIejFBZDBJRm9hQVBvMU55VU8tcktLaHNwZHk0YXo5cjNnVjJJc1E?oc=5",
+      "s": "국민일보",
+      "d": "2026-08-29T01:01:00+00:00"
+    },
+    {
+      "t": "세금·금리로 집값 잡은 호주, 임대료는 30% 폭등한다고?[딥다이브]",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuWHh3cVI5X2t3OG9fZDRCbFlza2pLYmdzd2pNVGlnYVpoZFRBcXAxWG1OSXNpdUw3bG9taUNNZi1lNWl5MXhORVR4U3Nwa3E1YXJobFUyQ1dLazV0aTRra19VWnZFbnVoZ0o4dGhLelZLSERtYXfSAWZBVV95cUxOS2U5QlcyeTVTVmhiZUVWTmNzUmlPY3hUZlZHVVNzcHJxRzFzcFJYTVRySllLLXJ4Q1dHblVEYkNwdm5WRkw5bTFtU1NyNU9RaVJ2cVRWYXIwRzBEYU0yemI0LWpYdlE?oc=5",
+      "s": "동아일보",
+      "d": "2026-08-29T01:00:00+00:00"
     },
     {
       "t": "국금센터 \"日 장기금리, 상당기간 높은 수준 유지…재정·수급 따라 추가 상승\"",
@@ -61,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T00:36:00+00:00"
     },
     {
+      "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZGNmWFJQQTN2X0lHVHo1Sm5YMUZkSVpfWVdWMXFDR0w1SzJOajNhS3oyUDAxaWNYaHNaSTd5M19MdWoyekkwcWtPaXM0Q1lxV1hTWEhiT2Z6a00?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-29T00:35:00+00:00"
+    },
+    {
       "t": "한국 거주 재외동포, 우체국 가면 EMS 할인·환율 우대 받는다",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53cjlXT083VVRPRWdNWmVjc3IzYkFtTE9LdFRUcGxjZF8zSVBleV9CNHZiYzdXQlVNRXB6NzFaX1d2dEZtS0IxQ19NTWJXUHNvNkF0aGNHRWxyMS1ZZGcyMXZ3?oc=5",
       "s": "미주중앙일보",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVmJYRC1tbWJHeXV3NXVmOE1VeFcweDh0TDROeF8tcGNUY19uNUp6Mk9CU1JCMjliVkU2VFBrNXFWeGNaSmlleXF4NkZzUS1rOTRHMEc0UTdRSE9Yc1cyT2VGMU8yM1VYRzlDU0VLaWxFMEHSAWZBVV95cUxQOHA5RHFoOW9WWTQwRVpWTGtPNW9qcUNiY3VRMzQ5NGtXTF9nb2RrdlZwNkYyNklhSFdjeFo2NkxGWmRnUlZFRVEzQzg2TFlKWHM5TEM1RlllbXpqQkdKYzEwcmQtckE?oc=5",
       "s": "동아일보",
       "d": "2026-08-29T00:30:52+00:00"
-    },
-    {
-      "t": "캐나다 '트럼프 길'을 '타코 길'로?…관세 갈등이 부른 '지명 전쟁' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yZmdYY1UtSWhYc0FRTWlGU0J2SmlPSGZCSlNEZkUyMnJwc3Q5TjI3WWVCZldWejZaeFZNRWlyRVFHNEhIY3JyZGNVMm03RTFVU0ZtRzk2dUZkTkdyUDJWeG4xS3JfTG9k0gFuQVVfeXFMTjYwdGtvaGRZQzFHOGFkRjVQRmdCZzVTMjZOOU9MeUdwTjhqRnd6TWFYVjhQclNpLWxKazVramdVTlc5YlJVYlpxZDRsV3pYSkVEQVk4Ykk3QWxZVDJRam5ORXJabVJzZXFsbEIxeVE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-29T00:29:34+00:00"
-    },
-    {
-      "t": "비트코인, 연준 의장 매파 발언에 8만달러선 다시 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5ZzdTQzM3SE9RR2IxaENjN3BsREhvNU41d0dmMHJJVmE1cHU2OVJVTnRXa0h6N3NuQUhDU0JrMHdzT3JLSVRZN0JSWWNBOVY2RWxpeGFEYnpDQ29LQUtvV3ppS1k?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-29T00:19:46+00:00"
     }
   ],
   "asof": {},
