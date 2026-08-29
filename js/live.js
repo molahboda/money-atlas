@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T14:00:59+00:00",
-  "quotesAt": "2026-08-29T14:00:59+00:00",
-  "newsAt": "2026-08-29T14:00:59+00:00",
+  "fetchedAt": "2026-08-29T14:15:59+00:00",
+  "quotesAt": "2026-08-29T14:15:59+00:00",
+  "newsAt": "2026-08-29T14:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "매파적 잭슨홀 연준 메시지에 금값 후퇴…비트코인 8만달러 아래로 하락",
+      "u": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPcm1aYnBvcG5oTDlqOTBtbEhUU2o0cjdUSTZ6U0ozNE14eVRCMkxFNWtnU0VOeVFOWUxNWE5aWmFPOWJFb3FId1d2bWpPRU1Zem1wSHhsZVlfNlJZeGw4aGtLZjhGY1NpVFFMa1lHdmo2UFBudll4NkwyLWhVSjc5RkpJdk0tRHJJcEVRU2RfaDJmLUp6M2xmMGhFTmlJSmhrV3FqWUxoa3NHT1ZVXzZoZ1dBUjdubFkxbFppQzQ1TlpWOTRRQmxqcjlHM0pSdTdIZVdMTVVBVDV4eDBRbkpiLXl1NjJnWl9oTU5LY19PTFBZS0oxZUd0RXNWQ3B1WmdhbG9LZTU0TF9Ud1pQRVhXMjVCdnNORC1lVWxOMVlDQm04dkhyV1JCeTZxcldacmFPVjZhRldrQTUtRnMyMy1iMUVGdzNqa1pIMk9JS1ZkM2VieVg3SWc?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:12:05+00:00"
+    },
+    {
+      "t": "베일리 “2차 인플레이션 압력 제한적”…영란은행, 9월 금리 결정 여지 남겨",
+      "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVC1zLXFNMWNSS0NReHBuTmVENEQzVWhNVWRFZmY0SmxZb1NST1d4Y2MzMXphZnpOTWg4Z1FaaVVnRExfSUUxUDV1VlBNZG1YMmI5Z1E0ZGQwZU5HUW9oLTd4TlFYa3J0dG5KcVJBTGdOZWNMUHJENllaWjFZZUlEVG4tcGFtNTdwRUxCTVdWLU45d3ljenp0c0g5QkxkLXNBLVU0SlJYbm0yNVo5MDdodjZRRW5HUjZna0g3V1l4dlFaTUVhR0FrbXN6M3dNU2RtZ1dndFBRbXVhbmlkbVd1cERuZnpQZUJoRUctRUdHa2ZaZGg4dUtnd3ZKRFlILVk0RDh3clRRZ19LMWtuOXplaGQzTlBZaXpqa2ZpNmhmSGVtQlh6YUcwVVk4Z0NuQmNhQ190bmFTclVlVkJrd2c?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:06:21+00:00"
+    },
+    {
+      "t": "연준 금리인상 가능성 확대·무역관세 불안에 EUR/USD 1.1600선 하회",
+      "u": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQ0V6YmtBeDRMbnVieUYxalBIaTd5WXJ2TVFpWUVZSzM5YndjaG9QTzJMWGxnTEdBMDRMTHQ1V3VXcnNQZ3lxUTNkR0w5bUtEMy1ZZkNhY2NVVHJCYlgzaVg3OGk4YnFmbzlsNVVaNGRrSEh3TlpqaThLcUoyRE1tMHNOR3VjeVVDLXpGbnRqQnBSWldtdkx3VWl5QWRaa1BXSkFYZFQtdFdMdTBqbVRmTzZNUUE1VFNGTmR6LXFUV3Y5NUdTeDRmMml2WDJyeVBFSkMzWXJDMUpLU1R4akdpd09TTjVSYnI1eW4tazBJVzRRcVdKdG1qZU5VSFFUWmw2MGt1ODRIVXg3ZlNSYmNTeUhJTmJOWUpncUpTck5xSlloN29TbUdoQml3aFRuTU5JWHhKLXdkR3I1b0hOVk1YbU9DaDRoLVVaV2JSbGo0Y3Zuc01LdjJyS2FlcWpzZjVJUHc?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:06:14+00:00"
+    },
+    {
+      "t": "워시의 인플레이션 중시 발언에 미국 금리인상 베팅이 확대되며 파운드화 하락…영란은행(BOE) 금리 경로도 재평가",
+      "u": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMVJqbk84NWRtLVAweXp2U0dMbjBZVF85UEJIeFV1Q1dMc2swZkdoUDJmRUhTZkF3WV85Mm81cC1GWEZjTVVqbVU2aHB3cDR4WUozV3FoVkdDV2dMbXhOcXdFU0hEM0VDcTV5MWFwT0NPd1RCVzJ2am9OV29EQ3FTaU1RMzNiSXE1b3Q1X3ZqdHJJM0oteXRJaTRfN0ZTSEM4WTZrUnJoMW5xVE43R3RfMG9id196Yy03VklBem9ydmpmT0t5d24yN2dYYkZwQzU3QnVEUEw3eHcxWWtuU3pXTXRLQTRUTS1sUE5UcTNOMVlTbUcyNGJtME12YmRxd2VuY1ZaV0VHUldZYU4tVGItcHNJVzBIMnZDSVpTY29BUXQ5WkNvclFsS2llZmxzMlM0MkhLbFFwN2xuM1ZNMlpaVGVLWkVxWXkzdmZDN0lPRV9VSzlldWZ0QS1VUEktNEQ5?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:06:12+00:00"
+    },
+    {
+      "t": "굴스비, 워시 견해에 힘 실어…연준, 금리 인하 신중 속 수요 주도 인플레이션 지속 우려 제기",
+      "u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNN09kcDZpU2RuWDFDX0xEZ3oxUS1CLUp4MzZhZHB6LVVaOV9XZHFZSGxnVlpIekRCSUVBQ1FaUUlJTWM5amtzYmVSYjh5VFFsckNXOXQ5Y1NzYi1lYkM0b2o4VklnZW10TXRBdllSZktTMm9sM180Z3N1YjVRU0lwdjE0SGFxZVFEdkdYMFp2VnMxMDdZUldBQVY0TmhleWJyTk85UFFidXQyN1BjZ2JucHd5OU8xdng2SVRJZF90WUJHNmhOUEpXX0lrcDZYcFdtbGV1UEdCVExiU3YxS0NvUUpzVzVzUURoUnV6V1RDMk15clBFdDRqUjZpbTMxSEtWUEVQX1dIdy1mYlhXekg3ZUxBX3BVY3gwS3dEYzJDQmdqaTQ2UjN3WVNqenZaVDhxLUdqeHBNLWxtaG51UlJMZUJKQ1Z1Q3ZGNXVNUHJ0RGQxUlRqckdj?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:06:08+00:00"
+    },
     {
       "t": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nYWE3TU04RkZRczZBSVNfMEh1Sk55b2FTTmV5UGFwRWhTTGVQRXpDLWp0Uy13dFBCak1LZHhISzZxbThIMG0xNlFqTTl2RW5VX1hYY0hlYVRRal9kVkE?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAybWctTklmRWdvQ05mZDJIN25XUWpyM2pOdDZNQjlLaFZVcmF4SHlTTkh5WDNkbnJmSVdqcWN6RFgxbU45N21KNlJ4TTBRWTU3dFRTT2VESlR2TlptaFZmQWNOSkxoLU5HVU42RTd3?oc=5",
       "s": "seoulilbo.co.kr",
       "d": "2026-08-29T12:37:26+00:00"
-    },
-    {
-      "t": "“7월 급락 때 한국 기술주 더 샀다”…英 1.6조달러 운용사가 귀띔해 준 ‘큰손 분위기’ [여의도란도란]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43WlBIU2FzY3FXQU1lbFRQUFdUY3dFMVJaOEFNS1REa0hSRHg5Z3FsdEdyaHlaRlFHb24tNW00RXBJd09pSUJpT1piVlRfNmFEbEE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-29T12:33:44+00:00"
-    },
-    {
-      "t": "'800조+알파' 내년도 예산 다음주 발표 전망",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQUo0TTdqckdyblZDQkRwenNjT0pLcVRRd2tqN0tESzd3YVJCTTI2LTVhSlRNQlNZVUUzU3lMd25qRzJoLTZIdVljQTE2UDJCMkcyNU9VLWt4U2wwNkE?oc=5",
-      "s": "YTN",
-      "d": "2026-08-29T12:30:00+00:00"
-    },
-    {
-      "t": "[AI 이슈트렌드] 엔비디아 호재 안 통한 삼전·하이닉스…박위 사고·제주 실종 파장",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIcU9pNTByS0k1dUxBQWFQZjBHdG1Ubk1mTkNlYmI1UldDVVJJR1ljUkN3cmNmbVBKLW1mZHF5eWF5dWQ0YWJLVUtyRlpFRk43TVBQNXg4VlRDQWs4SFRvUDJnOE9XV0FtSlE?oc=5",
-      "s": "AI타임스",
-      "d": "2026-08-29T12:16:38+00:00"
-    },
-    {
-      "t": "WeverseTXT Media - 연준이랑 프라하하하 | TXT-LOG",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUk10OVJpN04xYmp5MVJJNEJBaWVSa3BMZ1ZhQnRqRm1ZeGNsRnN3V3JjUF9lUEo1ZnoxcHpFU3dxWnI1M041ZmNaSGk0VHpuSWdVcGxIdGd5SUE4Y3c?oc=5",
-      "s": "Weverse",
-      "d": "2026-08-29T12:01:53+00:00"
-    },
-    {
-      "t": "위버스 TXT Media - 연준이랑 프라하하하 | TXT-LOG | T",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNEhTdmpNSmVnTmRPd2RDZlRjYUZKZmpRcnNVbjkwSkE2Y19JclFCY1VxSTFXTW9Pc1RkczdMTnRmaFA1RDZmV1haTDhlQ2dfcjQ1SXBOcGoyZw?oc=5",
-      "s": "Weverse",
-      "d": "2026-08-29T12:01:45+00:00"
     }
   ],
   "asof": {},
