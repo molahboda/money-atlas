@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T07:00:59+00:00",
-  "quotesAt": "2026-08-29T07:00:59+00:00",
-  "newsAt": "2026-08-29T07:00:59+00:00",
+  "fetchedAt": "2026-08-29T07:15:59+00:00",
+  "quotesAt": "2026-08-29T07:15:59+00:00",
+  "newsAt": "2026-08-29T07:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -11,19 +11,25 @@ window.LIVE_DATA = {
     "krw": 1371.5,
     "gold": 4529.9,
     "wti": 83.4,
-    "dxy": 99.68
+    "dxy": 99.7
   },
   "daily": {
     "spx": 0.47,
     "kospi": -0.28,
     "nikkei": 0.41,
     "krw": -0.87,
-    "dxy": 0.52,
+    "dxy": 0.54,
     "gold": -1.73,
     "wti": -0.16,
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "\"코스닥 의미있는 반등하려면 이 신호 나와야\"[주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85T285YlE3ZVZzTlg1RW1rU1BqWkV3VGZkUl9TTTV5aDJqX1c3bzBOamJaNmhFZmxxaEdfZ2JkcnhEM0dEUTVmM01mYmJnZlE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T06:58:00+00:00"
+    },
     {
       "t": "중국 CXMT, 전년 매출보다 10배 가까이 올라…반도체 슈퍼사이클에 실적 폭발",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVZFZncxYWN4b2lqYjU4UU9jS3FILWdaSmN4X0N5SjhILXdGcEF0YzR6TllTYkN2bHFadFZrVHZKNmpheUlGLWtkNEZxclRmNmZEVjlGR3dKMGlsb2hBX1NQSnVpdGExWFE?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ySnlFM0YtR2g4QkhEWlV3XzBrTGZkNXYzN3dBX09HaVA2c0hBZTJueFhQTjdDRXROV05OQmt1Qmpnd0Rob0FNVklaczY1Vk1ORkE?oc=5",
       "s": "매일경제",
       "d": "2026-08-29T04:16:11+00:00"
-    },
-    {
-      "t": "美 재무 \"엔화 불안정시 美 금리상승\" 경고",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EYlVEd19sQU5BMTFwdS04NWx2X3pUTmxYLUhyOGVGQ1g0ZmZ3OFo1RzB5dTd4NnR3aWs5YVRLRzBwZzRybGtxR1l3ZUdIZ0FwYkM3YVhILVJHclNNeTVuMFBJeUdxTG9lZTFTYzdESlg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-29T03:37:31+00:00"
     }
   ],
   "asof": {},
