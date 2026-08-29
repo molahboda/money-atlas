@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T20:30:59+00:00",
-  "quotesAt": "2026-08-29T20:30:59+00:00",
-  "newsAt": "2026-08-29T20:30:59+00:00",
+  "fetchedAt": "2026-08-29T20:45:59+00:00",
+  "quotesAt": "2026-08-29T20:45:59+00:00",
+  "newsAt": "2026-08-29T20:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "잭슨홀에서의 워시 연준 의장: 8가지 핵심 시사점",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vdjVzUTlSSlRRN1Bwamk5cHZQTEFhSjF1T2pHc09ad1ZWNnBvN2t3WEQ2dVVWbS1QMFY1a0Z6LXNFTFp0QXJna3BIa2NScmp6TUZtbHUwZXRzVnhFRkJoMEVWN0ppMmkyaEE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-29T20:34:00+00:00"
+    },
+    {
+      "t": "기준금리 3% 시대…은행 예금금리도 '연 4%' 눈앞",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSzl5SmRjWEg3Zmd5VldLSElBY1dIb2paNzNOUjZ2UU9GalA1MUtFV2wxZTFnYTBuV1FtRXYyUUtpZnRzOEdKSzhWX3lveTVyZmJhWl9QcGlZQjRXcjlISkNB0gFnQVVfeXFMT01SZEpiRnp3YzEwei1tUXd1Y1N3clhHQUxqZVpSNVBFVVhKYTJSZFZ4UjBSVHBOMWpiNnUzN1pkZjhYMXBKS0I5TzRJVUZXV2c5SG9uajRqdXhyZTJEWkRzRXVZajgzQQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-29T20:30:00+00:00"
+    },
     {
       "t": "\"가이던스 줄여도 전망은 줘야\"…워시 연준 소통 논란",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlaWNraW80NjJ2cDRHUmNMbEpOV3JNekpMbTd4U3dKQ2NJRFVqNm9HcVBzMXc4QndWMnJrc1FTSGV1NWloYThfN1Bma2pOTklqNFlrWVluR3Y?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjNBdDc2R2ljcVh6V0Q5RnlBOXZURlBvdTJZc2U4cldmc0VZSjJmUWJNTnhOZjktTXZ3UF9xMGlGR2lxUG5VOERGZ01hdzhlZWt2NDM0MXlGRDJvaGNQVlRXa01XX0VLOE9BakpUWnllMUIxY1Mtdjk4WkRGdEx0Q0lRcjdnTU5Y?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-29T18:45:00+00:00"
-    },
-    {
-      "t": "美 연준, 잭슨홀서 AI 거시 충격 질문…인프라 가격 양극화 심화",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamF2b1F5NHJvcWZVZFR4R09tMEdNLXB1b0h3T29WUGVsS3BpbDhpM3RzU19ubUV1SEpCSExncnBxeTljT3E5RHVfdHJhNktzMVNTYW5VZ0F3M0J4Nm9vV2JZd2lIa195ZUVaVHo3THR4S2VHdF9mdktMd084X0JRajl6VUNCMjdC?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T18:25:00+00:00"
-    },
-    {
-      "t": "[주간 월가 레이더] 美 뉴욕증시, '8월 고용·브로드컴' 분수령⋯9월 긴축 셈법 가른다",
-      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84UkN2bDNjZl9MY2tKdFNDTkwteDVIbXdrRzBLeGxLNVZtWHNwMlNTZzlOWG9VQmc1djFYM3dpNjBSQ3Q4NEM4?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-29T18:01:48+00:00"
     }
   ],
   "asof": {},
