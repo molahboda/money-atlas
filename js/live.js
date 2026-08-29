@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T22:45:59+00:00",
-  "quotesAt": "2026-08-29T22:45:59+00:00",
-  "newsAt": "2026-08-29T22:45:59+00:00",
+  "fetchedAt": "2026-08-29T23:00:59+00:00",
+  "quotesAt": "2026-08-29T23:00:59+00:00",
+  "newsAt": "2026-08-29T23:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"다시 미장으로\"…개인 투자자, 두 달간 美 주식 10조 매수",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMkNMWXhseU1JMnhLMmZFSmFnTndaZUhTRGpPNHREU1FXRWVpdEZ6REk4UmYzMWFDdEhIT3RpUVFBZWdsajBxTUktZ1htc3FadVIxMld0YnN2Y2R6Yi1mSw?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-08-29T22:59:09+00:00"
+    },
+    {
+      "t": "반도체 슈퍼사이클에 세수도 잭팟…삼성·SK 상반기 법인세 11.2조",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZFU0R1NSbVNJSWs3VWFVSUxUNlJJbmZDZlVwV29tYnl5XzRXUWhJVmt4azJhQnJYOGdOWmdKZ3A5UGVRSzJVNExoTjMzdVpIYURocGs1Tzg2UXF3b3VhRmxQaTVUbUVkRUdLMmZqZw?oc=5",
+      "s": "조세일보",
+      "d": "2026-08-29T22:54:28+00:00"
+    },
+    {
+      "t": "北 \"전국농장, '휴대형 반도체 레이저 식물쪼임장치' 이용 성과\"",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6bElIZVNuVk1TZEliSG5qLVlwRjUybTBmbEctaHk5aHN0SkVBRGJ1MVdMUkpFelh3RFk4Q1BqSXNpbkNjS0V6RWUxSDJ2MHh5MFRjYVdLWlBqV1J0aGJfZzI1aTc1RjV1U0xZ?oc=5",
+      "s": "SPN 서울평양뉴스",
+      "d": "2026-08-29T22:40:59+00:00"
+    },
+    {
       "t": "개인, 7~8월 美 주식 10조원 순매수…코스피 보다 3천억 더 샀다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NTFJLZjZfTXVrdjQyWUdiVDI5M09Vbnc0NnJsNXBERW9HQi05eWVjRXdsU0x5NkxTRVA1dDNSVnRqRFBJYUxaMU5tMEpNQXc?oc=5",
       "s": "v.daum.net",
@@ -35,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SXk5UmVobWhuQnIxTGFkQjBlSkhvMWlPWUk0Y2FxSlpFbmNQRGxVdExCSF9zNHg2XzJ0MGNPaUYtQm1lUTdBNFpHWVppUXNraHp1Q18yc0VmQVZfY2NnZdIBZkFVX3lxTE1qUld1aF9mXzRPdklVclVFZ0Y3UkM0UFY1azVEcFNqekRmMmpSNDQyb21Yd2Z2cjQ2YkNGaTMzd0w2Y0xMV1pDaTdpSm1VRVRlZ2c2NllUNUxIQThfYklVeDVZLXB4UQ?oc=5",
       "s": "뉴스1",
       "d": "2026-08-29T22:30:00+00:00"
-    },
-    {
-      "t": "단일종목 레버리지 규제 한달, 개미들 1.7조 거래 '급감'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Bc1JxMHVFRkMtYk9Ta19lRTNVMDVFWG9uUExhZjA0M01UUjRLNkJtREpoRnY4UTVqcFpQNVlhR1hpN3c0WmVITFc2eU15SmlMS194MFZPSk1Ndw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-29T22:27:30+00:00"
     },
     {
       "t": "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WNmkwWEdEUHNCTlpSdnpvNUJHNHcyUkQ3VWVmbFdFVTdqQUxkSE9TWGVfTEJRUmdPSjJRcUFRTzdncUttTVkydEFzNW1fUXJhWUI3VWpGMmtrQjl1ekRTRnluZmttRnZHc0VaNTExYjY?oc=5",
       "s": "한국강사신문",
       "d": "2026-08-29T22:11:35+00:00"
-    },
-    {
-      "t": "'침묵' 깨고 '매파 본능' 드러낸 워시 연준 의장…\"9월 행동이 시험대\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZeGg1RE5fMnJkUTMtMUUzc3NCUVBpMExHcFpTb0JIb3E5TTViSW15NDh5UkZFOUhjNDZQc3pyTGFBd053R2toTzNYUmd1dlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T22:06:00+00:00"
-    },
-    {
-      "t": "[마켓인사이트] 확 다가온 美 금리인상 우려…코스피 향방은",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwSnJLVDVBVmhITTIwWmFrOHJBenQ5N201aHFtbFpScG1tSkJ2Uzk0YnQ2QTBBWG12bmFqYjk0bGhGVFV4eXdRT0RPMmZoanM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T22:02:00+00:00"
     }
   ],
   "asof": {},
