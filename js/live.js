@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T07:45:59+00:00",
-  "quotesAt": "2026-08-29T07:45:59+00:00",
-  "newsAt": "2026-08-29T07:45:59+00:00",
+  "fetchedAt": "2026-08-29T08:00:59+00:00",
+  "quotesAt": "2026-08-29T08:00:59+00:00",
+  "newsAt": "2026-08-29T08:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -61,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T05:18:39+00:00"
     },
     {
+      "t": "\"9월 금리 인상 가능성 커졌다\"…美 연준 매파 발언에 시장 출렁",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQlNsZFBYdVZFYlkwaGNnenV4VlNVUTJRY0lYS1UyNEFfZ1VTc3Buc3FXUHJKVWtVTnF6Tmc1WjBZUE42ekZqc0l6NENMN2VkM2MzRjN5a3o1ZkpVaThXaU1fVW9SQXFK?oc=5",
+      "s": "ebn.co.kr",
+      "d": "2026-08-29T05:07:13+00:00"
+    },
+    {
       "t": "[속보]'삼전닉스' 맹추격...진격의 中 반도체",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tM3Y3MVh0RFdPanp0bnYxYm5sZEI5UkZ3U2xYUnJ3YlMtR2lUX3NCZ2pvanY2OW94LVd6UWNxVWZUdHJSVzB0QWZNWlQzWW0tYUhVbmUwSHphVnlIdWFETFpSWVVUVFlXTVVHaw?oc=5",
       "s": "한경매거진&북",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BTUVJbWo5RWNXRkV5YU5jSVJCaUJLWFVqQlBKWEtQclRvX2lDN0ZuSmtpTEJKUkpmTUtEMXN3NFhhX2w0TjRTemNudmdjSzZ5Rk1LcW1tT3AxZzB6SVYxQXFnN0U?oc=5",
       "s": "디지털데일리",
       "d": "2026-08-29T04:24:52+00:00"
-    },
-    {
-      "t": "“인플레 잡겠다”는 연준…비트코인 8만달러선 다시 내줘 [주간 블록체인]",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13VXllNWZvQkhpN3pldXlCb21mTldUVHJJU0lsMEZqc29yZER0WVRQT21KeU1Xbklmdmp3cnFiYkMwV0Q2UXFRV2FDSTNyNmMzU19DV1Frb2NqamZ3dXBjVDNCbFQ?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-08-29T04:22:21+00:00"
     }
   ],
   "asof": {},
