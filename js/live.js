@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T02:30:59+00:00",
-  "quotesAt": "2026-08-29T02:30:59+00:00",
-  "newsAt": "2026-08-29T02:30:59+00:00",
+  "fetchedAt": "2026-08-29T02:45:59+00:00",
+  "quotesAt": "2026-08-29T02:45:59+00:00",
+  "newsAt": "2026-08-29T02:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "인디켐, 남공주산단에 반도체 소재 공장 준공… 포토레지스트 원료 양산 돌입",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ob2dremZFVThYM2dsN3BobmZ1dUF1Tlg4d0R1RjNnNFY2clc1cHdjT0IwcnA5MDY1YnExYlJfRk1oYlhzMEdVbXhtc2VQeTNBZVRRdG9TWnBBTjhsYndCTVB6NVoxZw?oc=5",
+      "s": "기계신문",
+      "d": "2026-08-29T02:31:52+00:00"
+    },
+    {
+      "t": "엔화 개입 배경… 베선트 “안 막으면 美 금리 올라”",
+      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzFtdjlIQWlTUlB3dkdzc3g0RXIwMS03cWs1ZVdBMmVnbkRZXy1XcHNjVzU1Z3NuZXBTRXVra1FnU252dXY3TV9KNnNab0UtN0g1dUVvLWtxT0ZraEhVaE95am16M3YwN0t1d0dkc3o1R1BWejdzT01teUh5Q3IzT0UwcHpHSzJQbmhrRTRUYWlQWGtXZGfSAWxBVV95cUxOZ0dOYzEwQ0ktTjRhT1A4M2I1U2UyNHo4Wk1VZ0g2c2xLcmhEVDV1b0lfRmxnWkE3V183MDRTbGd0Sll1cUs2ZllLWUxqckJBbThaQ1l1QmdWaUg3TmhMVUd6Nm9wOEw5NktnTGQ?oc=5",
+      "s": "국민일보",
+      "d": "2026-08-29T02:31:00+00:00"
+    },
+    {
+      "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xeThncGVQUkhhYTFHTXM5WGVNdW1mU2s4MDd0WS1fVV9DYzFWTlY3THZfVW1XZ3pnZUVfcW5za0hqZDRuN2lCc0xCbGlHQ3Jlck9sYTRMNkRWTDg?oc=5",
+      "s": "경기일보",
+      "d": "2026-08-29T02:28:13+00:00"
+    },
+    {
       "t": "【심층기획】 세계 반도체 대기업이 선택한 ‘용인’~ 왜! 한국형 실리콘밸리인가?",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBad1lxX0pvS25ka0Fpb0FBWkRkTklSNlpFRDZuZmttSWluVmVVcWlseWs1eldVaGxrY252ekdtalJoSkFaMlQtLTM1SV9qYk1jRmtsZGMzeVdUcTBLQTRNLQ?oc=5",
       "s": "경기경제신문",
@@ -37,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T02:03:05+00:00"
     },
     {
-      "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-29T01:49:00+00:00"
+      "t": "[단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwM0VfZHZZcU5kdEVnV3hjclB1Y1llZFYzdW9lMGRjVnRsQ0FtUDgteW5RSGxJSHBBNkNFLXpmbTJKN2JmYU05b0wydU1IQmZPQjhXUkpVSGJPeHdxNzNrTUxXOUhFNW02SFHSAW9BVV95cUxOUXJoYWxvQ1NIZUx1X3ZyTl9zcXZEaVR3YWVMalNtaEdsZ2ZCVjJIWlZrVkRIcS1IYzBGS0Q2aFBnX0Q2TWZMdmpOTWRHSjV3RXZIcGRJbnBSUzZYaHo3QndwZGlUMVNScW90M3FvUnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-29T02:00:00+00:00"
     },
     {
       "t": "“삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나",
@@ -50,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "[해외시황] 뉴욕증시, 워시 매파 발언·금리 인상 우려에 '하락'…나스닥 0.52%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2SnJ3bFgtSWUxS2Y4WU9jRmU5bmVIYWx6Y2ZILWltNjJEZUhvajNpaUtjQ1ZTRVZjTGdBeWJpV2pfZ0pyVEh1VmdQdkNKUGZlUDJocmpVb0RKcGFfUjljUg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQeE5EVG5QZ1FyNkFrRVgwMWVwcWRwczYyYkFPcWFualQ1TXFZdFVDdXY5cGdRUWxaUnduZW9ubXhJYUR6TUZwTGs3czQ2ZzF6NnVwVG9nbjAwNldaUUFxa0Q4RG40VElsRUZCSQ?oc=5",
       "s": "프라임경제",
       "d": "2026-08-29T01:38:41+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rm50eDVjMHFLOEJRUmFiNkNudUpMbWx2Zl9GQXJhQ1VtVjhhMzBPNF9nUnpFTmxkM252SzB4YUZtekxWTUpmem80LXE2aDFvMl83R0l1NUFGQQ?oc=5",
       "s": "경북매일",
       "d": "2026-08-29T01:25:00+00:00"
-    },
-    {
-      "t": "‘엔비디아 호재’도 무용지물… 국장 발목 잡은 금리와 트럼프 [주간 증시해설서]",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VU1FmYTBwVzdiSzlBeG1DNjRxV3BYSE4wTnNmMU1uV2JFTndHSXE1U2xqNDRmVTBRcmlpOGYtR3N1M3JFMVBVU1RRRWZ4aEJ0SHlIcE54RURuZTRsRWtMTlpaWEt6U2NYZDFERmF3?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-08-29T01:20:31+00:00"
-    },
-    {
-      "t": "[8월 넷째 주 세계경제동향 브리핑] 코스피 6,700선 후퇴…코스닥은 4%대 반등",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnM2NSZjQ2b3Qzb3FBcWdadm9tUEhGSW1fYWtTeWpPaGM1eUFMYUtRLW50NmJXQXB2b1FiV0xDVE1IWjlVZHVHX3RDS1ROUjQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T01:20:00+00:00"
-    },
-    {
-      "t": "연준의장 매파 발언에 비트코인, 다시 8만달러 아래로",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EcW8xeUw0cGdRSlc4XzB1b0hZeG80UmlpbUdBNTFXM01ia2cyOVZzUXZNRW95SmttTld3ZFNSRHN3SlBLejh2aGpMSHRhMlE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T01:15:00+00:00"
     }
   ],
   "asof": {},
