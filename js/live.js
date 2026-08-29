@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T09:15:59+00:00",
-  "quotesAt": "2026-08-29T09:15:59+00:00",
-  "newsAt": "2026-08-29T09:15:59+00:00",
+  "fetchedAt": "2026-08-29T09:30:59+00:00",
+  "quotesAt": "2026-08-29T09:30:59+00:00",
+  "newsAt": "2026-08-29T09:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -29,12 +29,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T08:21:52+00:00"
-    },
-    {
-      "t": "최태원 “꼭 호남에 반도체?” 두 달 뒤 투자…野, 최태원·이재용 부르나",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VOHU3alpMdmE1M01NWGtlZUNuZ18ybmZKNmVmM1NJQ1Y5NmczdjJwUGd0cElkNkxsU3pobWpQcGN2MGduejBUQ2c4SUZ0aklQeEUtdlRn?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-08-29T08:14:33+00:00"
     },
     {
       "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UR0ZUOFlNOUhSYm12Rm56UW9zQTBVWW5LZm05RTdiMjlOQzEtSk54eVk1ajE2NTIxUTRsQmdESmFqeDJpVnJwZExtQnNCU2QzeW1MaWkzSEtSQXA0NUVmZQ?oc=5",
       "s": "아시아경제",
       "d": "2026-08-29T06:45:00+00:00"
+    },
+    {
+      "t": "증시 흔들리자 자금 어디로…머니마켓 ETF 1.6조 유입, 개인은 TIGER 미국S&P500 최다 순매수",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05T2F5UU5zZ29ja1MyMzlvdXFYOXFlaHB4aVl0WUJ6bHVZUVJTejl0UzYyeDF0VDdRVFRiam1mRXBJNGpzVXVETVBhNnRMbzl2NkNNZXZMbkg0MVMyZE5RYVl5VGM?oc=5",
+      "s": "베타뉴스",
+      "d": "2026-08-29T06:10:50+00:00"
     }
   ],
   "asof": {},
