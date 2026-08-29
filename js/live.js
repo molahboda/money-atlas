@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T09:30:59+00:00",
-  "quotesAt": "2026-08-29T09:30:59+00:00",
-  "newsAt": "2026-08-29T09:30:59+00:00",
+  "fetchedAt": "2026-08-29T09:45:59+00:00",
+  "quotesAt": "2026-08-29T09:45:59+00:00",
+  "newsAt": "2026-08-29T09:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -55,12 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-08-29T07:57:00+00:00"
     },
     {
-      "t": "‘AI 열풍 안 끝났다’ 광통신 시장 4배 커진다…AI 반도체 빨라질수록 뜨는 ‘이 종목’ [종목Pick]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95ZmowNzNnWktOTHA3LW9xYkdlQ1dXMHpJUUMtREY2dE41aHlleEt4bDZzT0NpZk1MdXBPSTYyNi1RZ1lGb2I5dE5jci1zVEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T07:32:00+00:00"
-    },
-    {
       "t": "\"코스닥 의미있는 반등하려면 이 신호 나와야\"[주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85T285YlE3ZVZzTlg1RW1rU1BqWkV3VGZkUl9TTTV5aDJqX1c3bzBOamJaNmhFZmxxaEdfZ2JkcnhEM0dEUTVmM01mYmJnZlE?oc=5",
       "s": "v.daum.net",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05T2F5UU5zZ29ja1MyMzlvdXFYOXFlaHB4aVl0WUJ6bHVZUVJTejl0UzYyeDF0VDdRVFRiam1mRXBJNGpzVXVETVBhNnRMbzl2NkNNZXZMbkg0MVMyZE5RYVl5VGM?oc=5",
       "s": "베타뉴스",
       "d": "2026-08-29T06:10:50+00:00"
+    },
+    {
+      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZzVuR3kyN096WW1CZFg2UElkc2lBV0trQ19WcFRVOWZYbTVNdndrektrLVpkZlk4NmpEaHdnOGtXMWwxR2YzOXppOUNQRU8yQUZoUDhQX0tSZERrVEE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-29T05:38:00+00:00"
     }
   ],
   "asof": {},
