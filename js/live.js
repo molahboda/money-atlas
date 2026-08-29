@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T08:30:59+00:00",
-  "quotesAt": "2026-08-29T08:30:59+00:00",
-  "newsAt": "2026-08-29T08:30:59+00:00",
+  "fetchedAt": "2026-08-29T08:45:59+00:00",
+  "quotesAt": "2026-08-29T08:45:59+00:00",
+  "newsAt": "2026-08-29T08:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T08:21:52+00:00"
+    },
+    {
+      "t": "최태원 “꼭 호남에 반도체?” 두 달 뒤 투자…野, 최태원·이재용 부르나",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VOHU3alpMdmE1M01NWGtlZUNuZ18ybmZKNmVmM1NJQ1Y5NmczdjJwUGd0cElkNkxsU3pobWpQcGN2MGduejBUQ2c4SUZ0aklQeEUtdlRn?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-08-29T08:14:33+00:00"
     },
     {
       "t": "엔비디아 ‘962억달러’도 금리에 밀렸다…월요일 삼전·하이닉스 3가지 신호",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZzVuR3kyN096WW1CZFg2UElkc2lBV0trQ19WcFRVOWZYbTVNdndrektrLVpkZlk4NmpEaHdnOGtXMWwxR2YzOXppOUNQRU8yQUZoUDhQX0tSZERrVEE?oc=5",
       "s": "YTN",
       "d": "2026-08-29T05:38:00+00:00"
-    },
-    {
-      "t": "\"엔화 가치 무너지면 美 금리 뛴다\"…베선트가 밝힌 7월 시장 개입 의도 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUnloUHBZa3FOM1gwd2ctYWNfSFdNbzJUYVNBd0N3Y2I4bW5mbVZXUnJibXdIVnJKNGM5MUlERnpYVDQ5b3ZuR3ExOUIyUlVnZXY4NC1KV3dOZUVzdzU5WVBrVkhsVHhx0gFuQVVfeXFMTUo5R2dfcm1oeDNybFRMeGFvTkdJSDRhOWVnZkFTZEl1U3hqc0lXNUp1TFpoSFl4OHBnYTRoc2hQU0V2dDd1SDFoMmxCcHJhaU1uNmdyU0hiUTBTYjhhOE1NMmtreHMtbUN1NVM5NHc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-29T05:31:44+00:00"
     }
   ],
   "asof": {},
