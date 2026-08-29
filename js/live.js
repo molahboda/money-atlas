@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T04:30:59+00:00",
-  "quotesAt": "2026-08-29T04:30:59+00:00",
-  "newsAt": "2026-08-29T04:30:59+00:00",
+  "fetchedAt": "2026-08-29T04:45:59+00:00",
+  "quotesAt": "2026-08-29T04:45:59+00:00",
+  "newsAt": "2026-08-29T04:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "李 정부 확장 재정과 긴축 통화정책 ‘엇박자’ 우려된다",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96S0NQY0Z4TTVXcEUtQ05LV1FYMDl6Ulhid2ktcEdlSFh0ZG8zRllIcUhGNEtXMFhqZjcwUVcyaHlka0JYS0gtM3VQVHFxdnB4T3RTeENJT0JyNm9GTjVxc0wtay03a25zZjdSV1Zn?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-29T04:25:34+00:00"
+    },
+    {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03S1pyeTdvWlNhWndxVjBYeUFfdjFCSF9LSGtoWTVwZUtaRl9yTWh6V25HY3ZSVmJUWnFKTWNESTJRcjhOZi1VWjc4cFZYR01BYzFIZU5scXNmVTZnajhwYTJ5M1lSTzRnOXlIRUI0aw?oc=5",
       "s": "YTN",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EYlVEd19sQU5BMTFwdS04NWx2X3pUTmxYLUhyOGVGQ1g0ZmZ3OFo1RzB5dTd4NnR3aWs5YVRLRzBwZzRybGtxR1l3ZUdIZ0FwYkM3YVhILVJHclNNeTVuMFBJeUdxTG9lZTFTYzdESlg?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-29T03:37:31+00:00"
+    },
+    {
+      "t": "케빈 워시 \"물가 둔화 확신 없다면 할 일 있다\"…9월 美 금리 인상론 부상",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yYUp1alYxdEJvUjFPSzdCcHVsR0FpZ0ZPNHBiMmJ4dVN1bTNyZlhLZHJSMl9zVlU3VElxNHZQa0VwMTEtdEJGc1RyMDRhaWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T03:24:07+00:00"
     },
     {
       "t": "비트코인 가격 8만 달러 아래로 하락…연준 의장 금리 인상 가능성 발언 영향",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xLTR2OTNud1VHNjFTZzk0MFNaNzNfMDdhZWZHSHlrZjVOaWo1bG1lR2VIVmhUc2tqczdFM2FQdFpLZHFaV2xMS2xGVjNOTHVhLWs4aTgtQ1NwdDBTeVhaVV81ZlZkTTQ?oc=5",
       "s": "기계신문",
       "d": "2026-08-29T02:31:52+00:00"
-    },
-    {
-      "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjV6MHJWNF9TSjNFOFJ1MHc2dUFlaVota0RQWHBRUlhDMGJfb1ROMWs5eDFCRlBiWjZzTXJtSmlBendGaGdyajhqclhjcGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T02:28:00+00:00"
-    },
-    {
-      "t": "미 연준 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-29T02:01:00+00:00"
     }
   ],
   "asof": {},
