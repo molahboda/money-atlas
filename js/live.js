@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T04:45:59+00:00",
-  "quotesAt": "2026-08-29T04:45:59+00:00",
-  "newsAt": "2026-08-29T04:45:59+00:00",
+  "fetchedAt": "2026-08-29T05:00:59+00:00",
+  "quotesAt": "2026-08-29T05:00:59+00:00",
+  "newsAt": "2026-08-29T05:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T03:01:00+00:00"
     },
     {
-      "t": "인디켐, 남공주산단에 반도체 소재 공장 준공… 포토레지스트 원료 양산 돌입",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xLTR2OTNud1VHNjFTZzk0MFNaNzNfMDdhZWZHSHlrZjVOaWo1bG1lR2VIVmhUc2tqczdFM2FQdFpLZHFaV2xMS2xGVjNOTHVhLWs4aTgtQ1NwdDBTeVhaVV81ZlZkTTQ?oc=5",
-      "s": "기계신문",
-      "d": "2026-08-29T02:31:52+00:00"
+      "t": "나경원 “한은 금리 올리는데 정부는 820조 슈퍼 예산…기형적 충돌”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIUjV6MHJWNF9TSjNFOFJ1MHc2dUFlaVota0RQWHBRUlhDMGJfb1ROMWs5eDFCRlBiWjZzTXJtSmlBendGaGdyajhqclhjcGM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T02:28:00+00:00"
     }
   ],
   "asof": {},
