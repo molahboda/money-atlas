@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T10:45:59+00:00",
-  "quotesAt": "2026-08-29T10:45:59+00:00",
-  "newsAt": "2026-08-29T10:45:59+00:00",
+  "fetchedAt": "2026-08-29T11:01:00+00:00",
+  "quotesAt": "2026-08-29T11:01:00+00:00",
+  "newsAt": "2026-08-29T11:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T10:11:00+00:00"
     },
     {
+      "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDcEc4REdrWnFnNmEycTZRTkI0d2M3QVFTZkVMZXNNb0VNRW5GcF9vRnJFSkMwSmUyU2twUlpzeDVDZ1Y3elphMmFmOXMtUzZjMUQ5dGdtMFhjVm8?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-08-29T10:04:00+00:00"
+    },
+    {
       "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
       "s": "v.daum.net",
@@ -53,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Sa2JzNl9rdEtNWTE5enBDLWk0Z3RDQy04NzloWGYzcDlYdWdTak9QZDJZTlZqdUhXTko4TmMtN250T0NFNlI5YlVEZzVYYnV2NWc?oc=5",
       "s": "매일경제",
       "d": "2026-08-29T08:15:32+00:00"
-    },
-    {
-      "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fVlJpa0REVlhIRU9vQmZOeFNMNVhYMm9DX094UmJqVi16djhBek55SGlHUnIzRkVFYjJUMUUwTFc5aVpPdThUS2J2b2NiaVAtNTZKSFFEOVMtXzA?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-29T08:05:00+00:00"
     },
     {
       "t": "엔비디아 ‘962억달러’도 금리에 밀렸다…월요일 삼전·하이닉스 3가지 신호",
