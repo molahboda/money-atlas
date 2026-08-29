@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T18:15:59+00:00",
-  "quotesAt": "2026-08-29T18:15:59+00:00",
-  "newsAt": "2026-08-29T18:15:59+00:00",
+  "fetchedAt": "2026-08-29T18:31:00+00:00",
+  "quotesAt": "2026-08-29T18:31:00+00:00",
+  "newsAt": "2026-08-29T18:31:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,14 +25,20 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美 연준 회의록에 AI 논쟁 급증…금리판단 새 변수로",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFpLVkpjd3JHTXBKZ3ZRTGM5Z2YyNm9CYkRYV1BWU1gwSFlEY01OSzU3ODgyTVFETmVWRHBnU004emNOTTI2T09iNVVvWENqX0R5YWZuQ3dqdXA1U1UzNFpNSGZsRlRVa2QzNVNfaERSczNGQldkNVJpbkV3ckFEMExZUXZFVDlO?oc=5",
+      "t": "美 연준, 잭슨홀서 AI 거시 충격 질문…인프라 가격 양극화 심화",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamF2b1F5NHJvcWZVZFR4R09tMEdNLXB1b0h3T29WUGVsS3BpbDhpM3RzU19ubUV1SEpCSExncnBxeTljT3E5RHVfdHJhNktzMVNTYW5VZ0F3M0J4Nm9vV2JZd2lIa195ZUVaVHo3THR4S2VHdF9mdktMd084X0JRajl6VUNCMjdC?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-08-29T18:00:00+00:00"
+      "d": "2026-08-29T18:25:00+00:00"
     },
     {
       "t": "월가, 워시 ‘물가 의지’엔 안도…금리 공식은 여전히 안갯속",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOU1FWE1fbjdLenF4YUlvQk5uY09wV2NYN0ZaOUU4VmVBQ0JsaDBBN1NwajZXSVRhLS14U25jQXBxNlBRVXpxOGd0NzlhLU9JLS1vUngyZlc5NGxYVTQzMC1mNEUzZGpIbjFheEpOS094MXJBWnVmTGdZZEc5WUpzNll2MzlMZlJT?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-29T18:00:00+00:00"
+    },
+    {
+      "t": "美 연준 회의록에 AI 논쟁 급증…금리판단 새 변수로",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFpLVkpjd3JHTXBKZ3ZRTGM5Z2YyNm9CYkRYV1BWU1gwSFlEY01OSzU3ODgyTVFETmVWRHBnU004emNOTTI2T09iNVVvWENqX0R5YWZuQ3dqdXA1U1UzNFpNSGZsRlRVa2QzNVNfaERSczNGQldkNVJpbkV3ckFEMExZUXZFVDlO?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-29T18:00:00+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlUckpCNmdDSWlZS0MwcTR0Yi1iSWMweEJyTjNWT3M3REJGd3haWGh0YTktZHNUSGdDc1d0NHBNSkdtSWF3czRKQ1B0UXRMYk5xY0dMNHU4Vnh0U3NXcmFkUTdRTTFSNERpWU9VakJmY2Y5LUhDNWZTSkUtdnRYYVVyamZHSk1v?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-29T15:00:00+00:00"
-    },
-    {
-      "t": "DBS, 한국 수출 견조 전망…인플레이션 반등에 한은 금리인상 베팅 확대·원화 지지 기대",
-      "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOTmZ4Q0NBc1AxOWZzRXJVM2NONHlqRUJXQlNZZTdPM0Z3eGtPMXBydmNzbFlDODVyQlY4RDlQLVR1SFNrQjM2c3dzM3Y0U0lWRURqMmdpZDZfdVJWR2RCOXd2aEFHeHRKR3NJRkZuME90Z2N3MmZBSzVOSHhidzd5V01vcWJtRm9KRkd0VWZ4YjR5VWdJX1g3VkY5Y2dWODFSWkwyZDBrX0MwbWx6UWVQaV9JZmtWMkNTNGRjcW1HSXkxVnpiMGwtOGpxcy1uUkVtVG9ocmJlN1pNR0RrTWpUR2pFeWlyd1VnY0UtOUlvcGJjNHFCZTJ6VFFhandveU10MklPclZQbVRCaE83dGdOcTN2X2xQalJCZFlPSjdWSVpVd0xNVUhVaFo4akxzc0dXMmhkSHNvR2syc2VkZkxNeWxYRF90MjlkRDF4MkdYbFZiRGRLRi1Vc1ZR?oc=5",
-      "s": "VT Markets",
-      "d": "2026-08-29T14:32:10+00:00"
     }
   ],
   "asof": {},
