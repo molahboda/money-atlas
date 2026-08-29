@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T08:15:59+00:00",
-  "quotesAt": "2026-08-29T08:15:59+00:00",
-  "newsAt": "2026-08-29T08:15:59+00:00",
+  "fetchedAt": "2026-08-29T08:30:59+00:00",
+  "quotesAt": "2026-08-29T08:30:59+00:00",
+  "newsAt": "2026-08-29T08:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T08:21:52+00:00"
+    },
     {
       "t": "엔비디아 ‘962억달러’도 금리에 밀렸다…월요일 삼전·하이닉스 3가지 신호",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aMGkxMm9kZTlZRnNtX09DWkhpbGV4b25CNXZDSExvMVNnbHZUZU1LMG9aQlB1TWF1bFV4c296a3hGTVpmOE5oM1BBdkVvTS15NTc2OEZjcVRjekw2V09Pd0dxcktmWnNK?oc=5",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T06:58:00+00:00"
     },
     {
+      "t": "\"코스피 60% 뛸 때 나만 마이너스\"…코스닥 반등하려면 이 신호 나와야[주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWXhsOEloTU10WHBmbWkxc1NFaE5xc0FYMk03WDA4T3F4bS12LW1uYnZpNzI4WjF2VDEyN0VnSUhkS0lMcllNSmhyZWlVVDB0LVpTcHdscTlHd092SVk5Wg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-29T06:57:00+00:00"
+    },
+    {
       "t": "\"유가 70달러대로 떨어지면…美, 금리동결 가능성\"[주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UR0ZUOFlNOUhSYm12Rm56UW9zQTBVWW5LZm05RTdiMjlOQzEtSk54eVk1ajE2NTIxUTRsQmdESmFqeDJpVnJwZExtQnNCU2QzeW1MaWkzSEtSQXA0NUVmZQ?oc=5",
       "s": "아시아경제",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUnloUHBZa3FOM1gwd2ctYWNfSFdNbzJUYVNBd0N3Y2I4bW5mbVZXUnJibXdIVnJKNGM5MUlERnpYVDQ5b3ZuR3ExOUIyUlVnZXY4NC1KV3dOZUVzdzU5WVBrVkhsVHhx0gFuQVVfeXFMTUo5R2dfcm1oeDNybFRMeGFvTkdJSDRhOWVnZkFTZEl1U3hqc0lXNUp1TFpoSFl4OHBnYTRoc2hQU0V2dDd1SDFoMmxCcHJhaU1uNmdyU0hiUTBTYjhhOE1NMmtreHMtbUN1NVM5NHc?oc=5",
       "s": "머니투데이",
       "d": "2026-08-29T05:31:44+00:00"
-    },
-    {
-      "t": "美 ‘9월 금리 인상설’에 시장 출렁…韓도 긴장 고조",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeVMza1dIeGFiZEVFRmY4aTVKbml2bW1IbkJaRm5lVm9tTERkZDY4UkZ4UUc4ZVpPajZOUjhRVGRlbEpxX09MOXhKZ2ZTazVMbXhqRDluaTNJYzA?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-08-29T05:18:39+00:00"
-    },
-    {
-      "t": "\"9월 금리 인상 가능성 커졌다\"…美 연준 매파 발언에 시장 출렁",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQlNsZFBYdVZFYlkwaGNnenV4VlNVUTJRY0lYS1UyNEFfZ1VTc3Buc3FXUHJKVWtVTnF6Tmc1WjBZUE42ekZqc0l6NENMN2VkM2MzRjN5a3o1ZkpVaThXaU1fVW9SQXFK?oc=5",
-      "s": "ebn.co.kr",
-      "d": "2026-08-29T05:07:13+00:00"
     }
   ],
   "asof": {},
