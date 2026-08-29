@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T00:15:59+00:00",
-  "quotesAt": "2026-08-29T00:15:59+00:00",
-  "newsAt": "2026-08-29T00:15:59+00:00",
+  "fetchedAt": "2026-08-29T00:30:59+00:00",
+  "quotesAt": "2026-08-29T00:30:59+00:00",
+  "newsAt": "2026-08-29T00:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,22 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[뉴욕증시]워시 매파 발언에 하락 마감…금리 인상 확률 '쑥'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iUkg4ZS1tX0R4N1g3SFMzUDdyS2VmX0U4RXFuSkNoQk9MT3VCdzF1SFgtUzFKMl9yTi1kUWxhWmNPQnNCSW9VMXgzbzBVYVhTOWpRYjY3UGp6UkVzUXpxLQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-29T00:22:37+00:00"
+    },
+    {
+      "t": "비트코인, 연준 의장 매파 발언에 8만달러선 다시 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5ZzdTQzM3SE9RR2IxaENjN3BsREhvNU41d0dmMHJJVmE1cHU2OVJVTnRXa0h6N3NuQUhDU0JrMHdzT3JLSVRZN0JSWWNBOVY2RWxpeGFEYnpDQ29LQUtvV3ppS1k?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-29T00:19:46+00:00"
+    },
+    {
       "t": "트럼프 금리 인하 요구에도…워시 “해야 할 일 있다”며 긴축 시사",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bGQyWkQ0dmFValhGNDM2bDVGVU9RdFM4enkxVzJmTTFLRkpWekpfN3Voa0Z3bDBqdmFQbHFvQWxjX3pYS2FhalF4ZDZwbW9ncmF4UURjeWRVQlR2dUHSAWNBVV95cUxOMDloNFpwMkFHMWkzZ2cxMXNaRzNDaUN2WUpfT2VoTkVyYk1VWUdIc2pRMlFsemxoVGs0SXJWdjZQLXMxMnFzU3ppSlJwdjc1RFRSOUtCN2ZzaDF4LTVpek5JRlk?oc=5",
       "s": "채널A",
       "d": "2026-08-29T00:01:00+00:00"
-    },
-    {
-      "t": "현대모비스, 비핵심 자산 매각…로보틱스·반도체 키운다",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BTjJLSU1DblJUNjJLYVZtWnJvRm5Fd1Rlek1aZkY4TVJtSjQ2WUVRRnk1TGpaU1pJenp1VUEzdU1xTlJCZTlIbklWUTVIRmRIUW44MjZJWTNJSVljcXN6RDdoNG8?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-08-29T00:00:01+00:00"
-    },
-    {
-      "t": "\"성공하면 반도체 공정 판도 바뀐다\"…머스크 '테라팹'이 당긴 노광 혁신[칩톡]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZdjZPMlZFbTlxdVhTYWg4OHVuMC1zS2FMSF9hV1E0OFEyYTF3VC1taDB0dzJ5T2VYXzdIVGFqN29CenlMa283RHhJNGpNcl9vU21fVVhzQVg5RmdoUGt4OA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-29T00:00:00+00:00"
     },
     {
       "t": "종목 장세 시작되나?…삼성·현대·SK 그룹주 모두 '미끌'[김근희의 증시랩업] - 머니투데이",
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-28T23:36:27+00:00"
     },
     {
+      "t": "美연준 인사들 ‘잭슨홀 미팅’ 첫날 잇단 인플레 경고… “인플레는 여전히 끈적해”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03dEk1WHZoNWltZGR4ZnBCdTUzZEhpWEE0bE1mNG1BNlVrSDd3eUQ3MURaTWlkazNOOGhDSHlxQl9CMDlIUHBiU1hjLVhVc1E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-28T23:22:00+00:00"
+    },
+    {
       "t": "워시 ’물가 경계’에 뉴욕증시 약세…9월 금리인상 확률 57.5% By Bloomingbit",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRGxHZDBQbnQxRG9idDRjSk9BNGVLM0xjdGZxMzJ3T1pYOWdLeVZMTmhCX1lQb19iY1NMRmE0NS1yVENVeUd1TnFxMW1oMmdZenpOUHlEdkFJZTNRNGF3QTFYRkJPOG42R3NWa2dYYmc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-28T23:12:00+00:00"
-    },
-    {
-      "t": "[파이낸셜워치(180)] 엔화가치 워시 연준의장 매파적 발언에 다시 달러당 160엔대 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LQVM2V3ZxVm9BejRYeEZ4ZFZnV3pyRWhyUVVtc1lRWXhOVUhEMGRLY2IxTkVDWGVTWEFuU2ZDYjRHYVg0QXRR?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-28T23:11:15+00:00"
     }
   ],
   "asof": {},
