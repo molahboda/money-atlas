@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T11:30:59+00:00",
-  "quotesAt": "2026-08-29T11:30:59+00:00",
-  "newsAt": "2026-08-29T11:30:59+00:00",
+  "fetchedAt": "2026-08-29T11:45:59+00:00",
+  "quotesAt": "2026-08-29T11:45:59+00:00",
+  "newsAt": "2026-08-29T11:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "이천시, 서강대 연계 고교생 반도체 자율연구 2학기 운영",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNzlraVdNTDZ6OVZPLU9ndEU1ZVVVVE81TXBBcXRJblRBbnJDUVJ0YjhQTUo1N1Vnb1pEdGJ2Y2doNldjY09XN1pFN1Q?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-29T11:38:49+00:00"
+    },
     {
       "t": "Weverse TXT Media - 연준이랑 프라하하하 | TXT-LOG | TXT (투모로우바이투게더)️",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02c3YxSEpXaVN3dzJld1hZTXBIU1o1QUEycEQ4aksyTkdqUWdwVFhVcmlmQVVoS2l0aFVYMUZ2QjNTNE1WeGpHZEtfNGZUSV9JZkE?oc=5",
@@ -59,12 +65,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDcEc4REdrWnFnNmEycTZRTkI0d2M3QVFTZkVMZXNNb0VNRW5GcF9vRnJFSkMwSmUyU2twUlpzeDVDZ1Y3elphMmFmOXMtUzZjMUQ5dGdtMFhjVm8?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-08-29T10:04:00+00:00"
-    },
-    {
-      "t": "미 금리인상 전망에 엔 다시 1달러=160엔대로 추락",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxeURScTdSYmdCdHRqMVVxR1l2emxvZ2xlemdKUzhDalRudWV5ckVjTjZYTTNGczRPT0piS0U2aE5VajNPd1lmZnM5NXRlbEhRNFMyWVFVVnpNLUJyQlJqSjBDSXhGdnhmd0Vmdw?oc=5",
-      "s": "세상을 바꾸는 시민언론 민들레",
-      "d": "2026-08-29T08:40:00+00:00"
     },
     {
       "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
