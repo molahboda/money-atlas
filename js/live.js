@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T13:30:59+00:00",
-  "quotesAt": "2026-08-29T13:30:59+00:00",
-  "newsAt": "2026-08-29T13:30:59+00:00",
+  "fetchedAt": "2026-08-29T13:45:59+00:00",
+  "quotesAt": "2026-08-29T13:45:59+00:00",
+  "newsAt": "2026-08-29T13:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nYWE3TU04RkZRczZBSVNfMEh1Sk55b2FTTmV5UGFwRWhTTGVQRXpDLWp0Uy13dFBCak1LZHhISzZxbThIMG0xNlFqTTl2RW5VX1hYY0hlYVRRal9kVkE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-29T13:20:00+00:00"
+    },
+    {
+      "t": "워시 Fed 의장, 추가 긴축 시사…시장 9월 인상에 무게",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLOXlMSVBNcE9ISnJjUi02QWRiMC1pNExKZWdMTGhmTWFiZlgzdWJwemdBeWRoaE5Bbi1GZWQxa3JnNzBSdXlfQ2NDNnJIcHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T13:17:00+00:00"
+    },
     {
       "t": "“가래로 막기 전에 호미로”…기준금리 3% 시대 연 신현송 [이번주인공]",
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11alN1X1JTd2lQSnZvM2N5T2R4QzRzY19WUHI4MUpTdGdkNE5obkhfb2dhUjdQRjJnLXZIbkoyUml5ckh4c1FyaU5hN3duUjVnYkZUag?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-08-29T12:33:44+00:00"
     },
     {
+      "t": "'800조+알파' 내년도 예산 다음주 발표 전망",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQUo0TTdqckdyblZDQkRwenNjT0pLcVRRd2tqN0tESzd3YVJCTTI2LTVhSlRNQlNZVUUzU3lMd25qRzJoLTZIdVljQTE2UDJCMkcyNU9VLWt4U2wwNkE?oc=5",
+      "s": "YTN",
+      "d": "2026-08-29T12:30:00+00:00"
+    },
+    {
       "t": "[AI 이슈트렌드] 엔비디아 호재 안 통한 삼전·하이닉스…박위 사고·제주 실종 파장",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIcU9pNTByS0k1dUxBQWFQZjBHdG1Ubk1mTkNlYmI1UldDVVJJR1ljUkN3cmNmbVBKLW1mZHF5eWF5dWQ0YWJLVUtyRlpFRk43TVBQNXg4VlRDQWs4SFRvUDJnOE9XV0FtSlE?oc=5",
       "s": "AI타임스",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNEhTdmpNSmVnTmRPd2RDZlRjYUZKZmpRcnNVbjkwSkE2Y19JclFCY1VxSTFXTW9Pc1RkczdMTnRmaFA1RDZmV1haTDhlQ2dfcjQ1SXBOcGoyZw?oc=5",
       "s": "Weverse",
       "d": "2026-08-29T12:01:45+00:00"
-    },
-    {
-      "t": "이천시, 서강대 연계 고교생 반도체 자율연구 2학기 운영",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNzlraVdNTDZ6OVZPLU9ndEU1ZVVVVE81TXBBcXRJblRBbnJDUVJ0YjhQTUo1N1Vnb1pEdGJ2Y2doNldjY09XN1pFN1Q?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-29T11:38:49+00:00"
-    },
-    {
-      "t": "\"이제 지쳤어요\"…투자자들 다시 눈길 돌린 곳",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xZHI4Z2VyQ0JUQTB5b0lmOHdRbDNwZDRpMkhMWkJ1TEVzWWZXbDVzQmREQXBmaW5KSnFJazhXZkRjcmxKUzZxdmFRcFhFUTg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T11:30:35+00:00"
-    },
-    {
-      "t": "워시 \"물가 우려\"…미 금리 인상 강력 시사",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0REZXNlNpb3FhSEtHXzIzcUgzYlN0b2VOMjdsdlpLbC1WWDVmVTRNcUlvcDdHMXpfbXE5NFVaLWw0R3Y2N3VkN2Y5SkJqaGtHa3lrQWk0cGNwQjdORlhaV0tWNDA4TElUTnNqZUFSa21Ublo5MFJ3RtIBZkFVX3lxTE9ULXpTbHpXOUQ5SDJKSm5tRVVhT2dBbWxmdnVmcmpqZ2RqV2dRQkh4bGtabVVqQjBRRDE5YTJCQlZRWXpXazV1N2MxMHdFWnAwMkNsYkljRTdLanRGWjFIbW9EaGJxZw?oc=5",
-      "s": "news.sbs.co.kr",
-      "d": "2026-08-29T11:26:00+00:00"
     }
   ],
   "asof": {},
