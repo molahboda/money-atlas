@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T06:30:59+00:00",
-  "quotesAt": "2026-08-29T06:30:59+00:00",
-  "newsAt": "2026-08-29T06:30:59+00:00",
+  "fetchedAt": "2026-08-29T06:45:59+00:00",
+  "quotesAt": "2026-08-29T06:45:59+00:00",
+  "newsAt": "2026-08-29T06:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,22 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "중국 CXMT, 전년 매출보다 10배 가까이 올라…반도체 슈퍼사이클에 실적 폭발",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVZFZncxYWN4b2lqYjU4UU9jS3FILWdaSmN4X0N5SjhILXdGcEF0YzR6TllTYkN2bHFadFZrVHZKNmpheUlGLWtkNEZxclRmNmZEVjlGR3dKMGlsb2hBX1NQSnVpdGExWFE?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-29T06:09:00+00:00"
+    },
+    {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nbTQwbXhOTl9nYmNiS3VkQUp0TkU2dlRXelZrcC1PaU11bTZfeEhmT3hDT29jU2p5Z281NHRwSXRUeWw0aHp5TUJrLTNyRW5UalhfS0JYQlRvSHdOMEh5Y0tOdlZsYXYzeFhxRHdnSQ?oc=5",
       "s": "YTN",
       "d": "2026-08-29T05:38:00+00:00"
     },
     {
+      "t": "\"엔화 가치 무너지면 美 금리 뛴다\"…베선트가 밝힌 7월 시장 개입 의도 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUnloUHBZa3FOM1gwd2ctYWNfSFdNbzJUYVNBd0N3Y2I4bW5mbVZXUnJibXdIVnJKNGM5MUlERnpYVDQ5b3ZuR3ExOUIyUlVnZXY4NC1KV3dOZUVzdzU5WVBrVkhsVHhx0gFuQVVfeXFMTUo5R2dfcm1oeDNybFRMeGFvTkdJSDRhOWVnZkFTZEl1U3hqc0lXNUp1TFpoSFl4OHBnYTRoc2hQU0V2dDd1SDFoMmxCcHJhaU1uNmdyU0hiUTBTYjhhOE1NMmtreHMtbUN1NVM5NHc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-29T05:31:44+00:00"
+    },
+    {
       "t": "美 ‘9월 금리 인상설’에 시장 출렁…韓도 긴장 고조",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeVMza1dIeGFiZEVFRmY4aTVKbml2bW1IbkJaRm5lVm9tTERkZDY4UkZ4UUc4ZVpPajZOUjhRVGRlbEpxX09MOXhKZ2ZTazVMbXhqRDluaTNJYzA?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-29T05:18:39+00:00"
-    },
-    {
-      "t": "통화 긴축과 재정 확장…'엇박자'와 '정교한 조합' 그 사이 [청와대는 지금]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OelYyeXVSOE0zX3M2MWdablNlTkpjZWhmcEFHT1FXSkxmUDZQci0zbFU5MFpMMWtQa0ZKRDFCWnVwWno1MHlfU05FeHF1SC1EU1I3RkMtZzRtUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-29T05:10:01+00:00"
     },
     {
       "t": "[속보]'삼전닉스' 맹추격...진격의 中 반도체",
@@ -56,7 +62,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "[이호연의 D톡스] 한은 두 달 연속 금리 인상…주담대 8% 시대 오나",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95UUN3aFpXVE5FYW51VVNDOVJRc21iXzkyNnZlZmUxdkNlcy1ucnQ2TnFLd0FheEF0ZmYzWEdDM0VRMmRZaktmaV9Da2JVVnZnS053Yk12ZVAtNDJjZVBueTRB?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BTUVJbWo5RWNXRkV5YU5jSVJCaUJLWFVqQlBKWEtQclRvX2lDN0ZuSmtpTEJKUkpmTUtEMXN3NFhhX2w0TjRTemNudmdjSzZ5Rk1LcW1tT3AxZzB6SVYxQXFnN0U?oc=5",
       "s": "디지털데일리",
       "d": "2026-08-29T04:24:52+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EYlVEd19sQU5BMTFwdS04NWx2X3pUTmxYLUhyOGVGQ1g0ZmZ3OFo1RzB5dTd4NnR3aWs5YVRLRzBwZzRybGtxR1l3ZUdIZ0FwYkM3YVhILVJHclNNeTVuMFBJeUdxTG9lZTFTYzdESlg?oc=5",
       "s": "연합인포맥스",
       "d": "2026-08-29T03:37:31+00:00"
-    },
-    {
-      "t": "케빈 워시 \"물가 둔화 확신 없다면 할 일 있다\"…9월 美 금리 인상론 부상",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yYUp1alYxdEJvUjFPSzdCcHVsR0FpZ0ZPNHBiMmJ4dVN1bTNyZlhLZHJSMl9zVlU3VElxNHZQa0VwMTEtdEJGc1RyMDRhaWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T03:24:07+00:00"
     }
   ],
   "asof": {},
