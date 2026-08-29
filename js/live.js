@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T06:00:59+00:00",
-  "quotesAt": "2026-08-29T06:00:59+00:00",
-  "newsAt": "2026-08-29T06:00:59+00:00",
+  "fetchedAt": "2026-08-29T06:15:59+00:00",
+  "quotesAt": "2026-08-29T06:15:59+00:00",
+  "newsAt": "2026-08-29T06:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -35,6 +35,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OelYyeXVSOE0zX3M2MWdablNlTkpjZWhmcEFHT1FXSkxmUDZQci0zbFU5MFpMMWtQa0ZKRDFCWnVwWno1MHlfU05FeHF1SC1EU1I3RkMtZzRtUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-29T05:10:01+00:00"
+    },
+    {
+      "t": "[속보]'삼전닉스' 맹추격...진격의 中 반도체",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tM3Y3MVh0RFdPanp0bnYxYm5sZEI5UkZ3U2xYUnJ3YlMtR2lUX3NCZ2pvanY2OW94LVd6UWNxVWZUdHJSVzB0QWZNWlQzWW0tYUhVbmUwSHphVnlIdWFETFpSWVVUVFlXTVVHaw?oc=5",
+      "s": "한경매거진&북",
+      "d": "2026-08-29T04:33:00+00:00"
     },
     {
       "t": "李 정부 확장 재정과 긴축 통화정책 ‘엇박자’ 우려된다",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yYUp1alYxdEJvUjFPSzdCcHVsR0FpZ0ZPNHBiMmJ4dVN1bTNyZlhLZHJSMl9zVlU3VElxNHZQa0VwMTEtdEJGc1RyMDRhaWM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T03:24:07+00:00"
-    },
-    {
-      "t": "비트코인 가격 8만 달러 아래로 하락…연준 의장 금리 인상 가능성 발언 영향",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQXZMcHNja2FMMkhBbU55dXlLVVkyWndnQThqMXhCYnpfRU12eXdXeDFGSV9EbXJGMGxfbFliNkpXeWRoSTM0NHlHcXF5dXN6RUctNWxNWWxYUQ?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-08-29T03:23:00+00:00"
     }
   ],
   "asof": {},
