@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T01:45:59+00:00",
-  "quotesAt": "2026-08-29T01:45:59+00:00",
-  "newsAt": "2026-08-29T01:45:59+00:00",
+  "fetchedAt": "2026-08-29T02:00:59+00:00",
+  "quotesAt": "2026-08-29T02:00:59+00:00",
+  "newsAt": "2026-08-29T02:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,10 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "미 연준의장 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-29T01:33:00+00:00"
+      "t": "“삼전닉스 금요일 팔았어야?” 반도체 공포 엄습, 월요일 비상… 1000만 개미 어쩌나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdUhWSWNwTWdrWi1BdjJIRVZZNjFoRHBRbkVxYVBNdl94U00zLVY0VEYwWW9vQUJ5UzJITFVmdmR0THNQZUNoSUhMc25OQXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T01:41:00+00:00"
     },
     {
       "t": "케빈 워시 연준 의장, \"인플레이션이 최대 과제\" 경고",
