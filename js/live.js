@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T12:45:59+00:00",
-  "quotesAt": "2026-08-29T12:45:59+00:00",
-  "newsAt": "2026-08-29T12:45:59+00:00",
+  "fetchedAt": "2026-08-29T13:00:59+00:00",
+  "quotesAt": "2026-08-29T13:00:59+00:00",
+  "newsAt": "2026-08-29T13:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -29,6 +29,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Bd0ZVLWk2bDgzbWNHNkM0b3ktbUNqSWoxc21DNTFibl91eWw1ODI3a1F4WmpPZGlJRmljcTdPVkV4ZXZGckViTWFUYzhKUDRweVUzbHRvODVObU1KS1pPaWtCU2pXOWZuQU5US0t3cmd4UQ?oc=5",
       "s": "에너지신문",
       "d": "2026-08-29T12:37:50+00:00"
+    },
+    {
+      "t": "워시, 잭슨홀서 꺼낸 ‘물가 우선론’…9월 금리인상 공포 다시 켜졌다",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAybWctTklmRWdvQ05mZDJIN25XUWpyM2pOdDZNQjlLaFZVcmF4SHlTTkh5WDNkbnJmSVdqcWN6RFgxbU45N21KNlJ4TTBRWTU3dFRTT2VESlR2TlptaFZmQWNOSkxoLU5HVU42RTd3?oc=5",
+      "s": "seoulilbo.co.kr",
+      "d": "2026-08-29T12:37:26+00:00"
+    },
+    {
+      "t": "“7월 급락 때 한국 기술주 더 샀다”…英 1.6조달러 운용사가 귀띔해 준 ‘큰손 분위기’ [여의도란도란]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43WlBIU2FzY3FXQU1lbFRQUFdUY3dFMVJaOEFNS1REa0hSRHg5Z3FsdEdyaHlaRlFHb24tNW00RXBJd09pSUJpT1piVlRfNmFEbEE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-29T12:33:44+00:00"
     },
     {
       "t": "WeverseTXT Media - 연준이랑 프라하하하 | TXT-LOG",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12Rk9yZVBnZkY0cWk0RkwtMTFTYmk5WERUSktjSDlTT2F3Rm5meEZleENBMHdmOUxrTm5PeTJETWJ3aXoza2o4YmsxM0FwZw?oc=5",
       "s": "전자신문",
       "d": "2026-08-29T10:33:14+00:00"
-    },
-    {
-      "t": "뜨거웠던 비트코인, 연준 의장 발언에 다시 급락…8만 달러 아래로",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4MFpOODM4RHZSYmxDLXpTMUdwdnczTE5RNnBJWmJVVmtxX3JrdUdDU2JBSWFVVWUzWURvX2RxZ0ozUXlsLUpQb0RCbVQybVoy?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-29T10:24:13+00:00"
-    },
-    {
-      "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-29T10:11:00+00:00"
     }
   ],
   "asof": {},
