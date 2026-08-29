@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T00:00:59+00:00",
-  "quotesAt": "2026-08-29T00:00:59+00:00",
-  "newsAt": "2026-08-29T00:00:59+00:00",
+  "fetchedAt": "2026-08-29T00:15:59+00:00",
+  "quotesAt": "2026-08-29T00:15:59+00:00",
+  "newsAt": "2026-08-29T00:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,40 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "트럼프 금리 인하 요구에도…워시 “해야 할 일 있다”며 긴축 시사",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11bGQyWkQ0dmFValhGNDM2bDVGVU9RdFM4enkxVzJmTTFLRkpWekpfN3Voa0Z3bDBqdmFQbHFvQWxjX3pYS2FhalF4ZDZwbW9ncmF4UURjeWRVQlR2dUHSAWNBVV95cUxOMDloNFpwMkFHMWkzZ2cxMXNaRzNDaUN2WUpfT2VoTkVyYk1VWUdIc2pRMlFsemxoVGs0SXJWdjZQLXMxMnFzU3ppSlJwdjc1RFRSOUtCN2ZzaDF4LTVpek5JRlk?oc=5",
+      "s": "채널A",
+      "d": "2026-08-29T00:01:00+00:00"
+    },
+    {
+      "t": "현대모비스, 비핵심 자산 매각…로보틱스·반도체 키운다",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BTjJLSU1DblJUNjJLYVZtWnJvRm5Fd1Rlek1aZkY4TVJtSjQ2WUVRRnk1TGpaU1pJenp1VUEzdU1xTlJCZTlIbklWUTVIRmRIUW44MjZJWTNJSVljcXN6RDdoNG8?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-08-29T00:00:01+00:00"
+    },
+    {
+      "t": "\"성공하면 반도체 공정 판도 바뀐다\"…머스크 '테라팹'이 당긴 노광 혁신[칩톡]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZdjZPMlZFbTlxdVhTYWg4OHVuMC1zS2FMSF9hV1E0OFEyYTF3VC1taDB0dzJ5T2VYXzdIVGFqN29CenlMa283RHhJNGpNcl9vU21fVVhzQVg5RmdoUGt4OA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-29T00:00:00+00:00"
+    },
+    {
+      "t": "종목 장세 시작되나?…삼성·현대·SK 그룹주 모두 '미끌'[김근희의 증시랩업] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLQWNkMm94dDcyTmtXMFNURzAyRHdxU2t2cmRkOC1qNGZXZGxmeC1kVjJ6di00UFJPR04xZmFrM0N6TTZBbGNReGIwa29ocVY3YUEtcUJncnFRVjAzYkY0UWdidTVwQ3l50gFuQVVfeXFMTUhVT2x6ZExHd19wRTFhdlhrQ0RvNFJlUUxVTWZ1eDRJMWxCZXNOeU1TTEMtU1VQNHhIWmRtNTRXWlpuYVc4ZDZpYjN6LTJPU0VPUE9tUVZjb2V2ckdKSG9OYmFIcG9mbHNNWUp2OXc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-29T00:00:00+00:00"
+    },
+    {
       "t": "[뉴욕증시] 워시 \"할 일 있다\", 반도체 '털썩'···빅테크 '강세'·메모리 '선방'",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTG5nNmNjbm1hbXhXOUE2MjVnVUlEWUI3ejRXaDdjMmFnM25Ib2FHYWJmVW5Ta01FUHdnTkdJenJUUGQ0T3FVZDVFQUNNS2dCZ2pvRkhRRzJEWlRmc2JBTVk3dW5JZVFlU1E?oc=5",
       "s": "서울파이낸스",
       "d": "2026-08-28T23:57:32+00:00"
+    },
+    {
+      "t": "워시 매파 발언에 美 9월 금리인상론 급부상…인상 확률 57.5%",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdFFXUkE2dml6dWhfWktCZ1pfUkJYdHZzWW5kLU1UV05YTHZxeUZzQ3RocDFEV3FhaHppZ1B4Q2hXNlpLNk83OEl1cDUzdXJ1cnBtT0g5Z1FxNDJOUWJweVRHMXlLY1ZiMXVHVnJVOXXSAXRBVV95cUxPWWhYTW1mYVU2c0JoQkFJUS1vUXRRUWQ1STVHNmJOcjgydnRLUnZXN1pnTEhyUFN4ck5WWXVEM1d3czlGcGVXSnJEYkNnSFNBNUZ5VUY1Y3lxUmJJcE9FZXBZdUVHYUJGbVl3UW9JeUVac1NjcQ?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-28T23:50:54+00:00"
     },
     {
       "t": "케빈 워시 미 연준 의장 매파적 발언에 9월 금리 인상론 부각",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LQVM2V3ZxVm9BejRYeEZ4ZFZnV3pyRWhyUVVtc1lRWXhOVUhEMGRLY2IxTkVDWGVTWEFuU2ZDYjRHYVg0QXRR?oc=5",
       "s": "포커스온경제",
       "d": "2026-08-28T23:11:15+00:00"
-    },
-    {
-      "t": "워시 연준 의장 \"美 물가 우려...진전 없으면 연준 할 일 있어\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZZGc5bzlwSHh6cVlfSk03Qnd0UDlXUXkxa1BUZHFwSldIdnB2VmU0aHJGb0xWRGRsbUV6UnNLay1pZFhZeUQyd1lvZU52OHltaWRvSDBsUW94SXptdXNxZ3VjVWtOSTJZTG1BNUJmRF8?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-08-28T23:10:00+00:00"
-    },
-    {
-      "t": "베선트 \"엔화 불안시 美 금리상승\"…엔화 개입 의도 밝혀",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwRG5JUW9BRFZnRjEzME50TGxGMFRSYXI0anJJTWNjbFJDNi14czU3SkY1eTN1OTNGODdTS1pDM1lQaVNoY1B6ZDlpWkhMcm1jMkxEMmxfYkxJVEl0eTZCU9IBYEFVX3lxTFAwRG5JUW9BRFZnRjEzME50TGxGMFRSYXI0anJJTWNjbFJDNi14czU3SkY1eTN1OTNGODdTS1pDM1lQaVNoY1B6ZDlpWkhMcm1jMkxEMmxfYkxJVEl0eTZCUw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-08-28T23:08:13+00:00"
-    },
-    {
-      "t": "워시, 9월 인상 시사?…증시 하락 이유 : \"Fed와 싸우지 마라\" [김현석의 월스트리트나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSTV4bThCZ1MxREgyYU5abzN5UzZSWm9rQWxLZ0xRNnNkS195V0dLMU50ekU4TXNNZHU0VnRpSzFEaE1MenZZVDdnbWZhS083Wkc4Sk81Mlh4dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T23:08:06+00:00"
-    },
-    {
-      "t": "국제유가, 호르무즈해협 통항 재개 기대감 등 영향 하락반전",
-      "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLX1lHaUFjNzZPbWw1YWc0eTUwS0VOOFFuOF9iYnFHZVd5U0p1SXRFQ0NQTjVpR2Rja25KekxBcElfbzh5VWk0?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-08-28T23:08:02+00:00"
-    },
-    {
-      "t": "음식료는 수혜, 조선은 피해?…'환율 하락' 영향 종목별로 갈렸다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VDJvRzNXZTc3OUVYd0hFZEtsdVJORVB1ZUYweXhLVXRicnJfVzRkRl81Zlg4WUMxQkExbmxoUFNsckxOaEcwQnBKQkV6ZTZUeklhdFBpQnJUZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-28T23:00:12+00:00"
     }
   ],
   "asof": {},
