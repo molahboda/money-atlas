@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T06:45:59+00:00",
-  "quotesAt": "2026-08-29T06:45:59+00:00",
-  "newsAt": "2026-08-29T06:45:59+00:00",
+  "fetchedAt": "2026-08-29T07:00:59+00:00",
+  "quotesAt": "2026-08-29T07:00:59+00:00",
+  "newsAt": "2026-08-29T07:00:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -32,7 +32,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nbTQwbXhOTl9nYmNiS3VkQUp0TkU2dlRXelZrcC1PaU11bTZfeEhmT3hDT29jU2p5Z281NHRwSXRUeWw0aHp5TUJrLTNyRW5UalhfS0JYQlRvSHdOMEh5Y0tOdlZsYXYzeFhxRHdnSQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZzVuR3kyN096WW1CZFg2UElkc2lBV0trQ19WcFRVOWZYbTVNdndrektrLVpkZlk4NmpEaHdnOGtXMWwxR2YzOXppOUNQRU8yQUZoUDhQX0tSZERrVEE?oc=5",
       "s": "YTN",
       "d": "2026-08-29T05:38:00+00:00"
     },
