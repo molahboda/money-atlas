@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T12:01:00+00:00",
-  "quotesAt": "2026-08-29T12:01:00+00:00",
-  "newsAt": "2026-08-29T12:01:00+00:00",
+  "fetchedAt": "2026-08-29T12:15:59+00:00",
+  "quotesAt": "2026-08-29T12:15:59+00:00",
+  "newsAt": "2026-08-29T12:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "WeverseTXT Media - 연준이랑 프라하하하 | TXT-LOG",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUk10OVJpN04xYmp5MVJJNEJBaWVSa3BMZ1ZhQnRqRm1ZeGNsRnN3V3JjUF9lUEo1ZnoxcHpFU3dxWnI1M041ZmNaSGk0VHpuSWdVcGxIdGd5SUE4Y3c?oc=5",
+      "s": "Weverse",
+      "d": "2026-08-29T12:01:53+00:00"
+    },
+    {
+      "t": "위버스 TXT Media - 연준이랑 프라하하하 | TXT-LOG | T",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNEhTdmpNSmVnTmRPd2RDZlRjYUZKZmpRcnNVbjkwSkE2Y19JclFCY1VxSTFXTW9Pc1RkczdMTnRmaFA1RDZmV1haTDhlQ2dfcjQ1SXBOcGoyZw?oc=5",
+      "s": "Weverse",
+      "d": "2026-08-29T12:01:45+00:00"
+    },
+    {
       "t": "트럼프 기대에 찬물? 워시, 금리 인상 시사…뉴욕증시는 ‘뚝’",
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SbzcycnUwMEh4NDJyRm01QktFaXI5RmhuMmxETFRiMDVHNHczVkFkbExJbDluTE1QdjJWdUFOd3BWTGVXSmVwWms4VkhIay1DZkxtcg?oc=5",
       "s": "JTBC",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNzlraVdNTDZ6OVZPLU9ndEU1ZVVVVE81TXBBcXRJblRBbnJDUVJ0YjhQTUo1N1Vnb1pEdGJ2Y2doNldjY09XN1pFN1Q?oc=5",
       "s": "전자신문",
       "d": "2026-08-29T11:38:49+00:00"
+    },
+    {
+      "t": "\"이제 지쳤어요\"…투자자들 다시 눈길 돌린 곳",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xZHI4Z2VyQ0JUQTB5b0lmOHdRbDNwZDRpMkhMWkJ1TEVzWWZXbDVzQmREQXBmaW5KSnFJazhXZkRjcmxKUzZxdmFRcFhFUTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-29T11:30:35+00:00"
     },
     {
       "t": "Weverse TXT Media - 연준이랑 프라하하하 | TXT-LOG | TXT (투모로우바이투게더)️",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Vy1MZTc5UlBCa2FTOTVyUGRNRm1pTDIxS2dFazBVakJ0SnBGczdta2Z5dHloRVp1V2pYSWJ6MExNdW04blVJYWluLXMyUFpZLUZndW9TTWZvZw?oc=5",
       "s": "브릿지경제",
       "d": "2026-08-29T10:11:00+00:00"
-    },
-    {
-      "t": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-29T10:11:00+00:00"
-    },
-    {
-      "t": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDcEc4REdrWnFnNmEycTZRTkI0d2M3QVFTZkVMZXNNb0VNRW5GcF9vRnJFSkMwSmUyU2twUlpzeDVDZ1Y3elphMmFmOXMtUzZjMUQ5dGdtMFhjVm8?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-29T10:04:00+00:00"
-    },
-    {
-      "t": "다음주 800조 슈퍼예산 공개... 반도체 훈풍에 역대급 세수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUGNvcFkyZWJ6dl9jd2dlZ2dPM0hzcGItREhjcnYwSmRTSnNvcTdldVA1dUlSUmZocEJzME9iQWgtT1ZtRTFHUm9rX1gySk0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-29T08:21:52+00:00"
     }
   ],
   "asof": {},
