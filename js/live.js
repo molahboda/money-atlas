@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T18:01:00+00:00",
-  "quotesAt": "2026-08-29T18:01:00+00:00",
-  "newsAt": "2026-08-29T18:01:00+00:00",
+  "fetchedAt": "2026-08-29T18:15:59+00:00",
+  "quotesAt": "2026-08-29T18:15:59+00:00",
+  "newsAt": "2026-08-29T18:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "美 연준 회의록에 AI 논쟁 급증…금리판단 새 변수로",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFpLVkpjd3JHTXBKZ3ZRTGM5Z2YyNm9CYkRYV1BWU1gwSFlEY01OSzU3ODgyTVFETmVWRHBnU004emNOTTI2T09iNVVvWENqX0R5YWZuQ3dqdXA1U1UzNFpNSGZsRlRVa2QzNVNfaERSczNGQldkNVJpbkV3ckFEMExZUXZFVDlO?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-29T18:00:00+00:00"
+    },
+    {
+      "t": "월가, 워시 ‘물가 의지’엔 안도…금리 공식은 여전히 안갯속",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOU1FWE1fbjdLenF4YUlvQk5uY09wV2NYN0ZaOUU4VmVBQ0JsaDBBN1NwajZXSVRhLS14U25jQXBxNlBRVXpxOGd0NzlhLU9JLS1vUngyZlc5NGxYVTQzMC1mNEUzZGpIbjFheEpOS094MXJBWnVmTGdZZEc5WUpzNll2MzlMZlJT?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-29T18:00:00+00:00"
+    },
+    {
+      "t": "[주간 월가 레이더] 美 뉴욕증시, '8월 고용·브로드컴' 분수령⋯9월 긴축 셈법 가른다",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ta3JkSHBRbldQdXRBUkZrelpGV0p2a0IyUHlCc2hoeHh5ZHlxYkNOQ3VWTG9OajN1NWhYdFYxSllzcmdid0UwbDkxNGFWekpEbG9WS2gtYlpxYzU4c3c?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-08-29T17:19:10+00:00"
+    },
     {
       "t": "트럼프가 택한 워시, 중간선거 앞두고 금리 올리나",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUEZJd2hNclJOSUVYNnVyM3Bnd2ZSczF0SnpIVlE4eTk3anFWR1lnOXgtSjlLeEE4RWFPVGJVdE5oYWcxb1ZVcmtFRktiS012ekxhVHhzSmlETVlqM3ZZatIBeEFVX3lxTE5GRDV2M2o3RGFLZjJ1R0pnWFpmdFhFYmVJdGl3UjlPNDJ3ckx0amFnVmtmbzVrRWs3WVlvWGhuNDRnV01Jb3dfa2pTdThSbWJvZjJQbnNELXRwVW5Jc3pMZ2JpZHFRQ3lTWloxLUZDZVpDRm4xRG1ZXw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOTmZ4Q0NBc1AxOWZzRXJVM2NONHlqRUJXQlNZZTdPM0Z3eGtPMXBydmNzbFlDODVyQlY4RDlQLVR1SFNrQjM2c3dzM3Y0U0lWRURqMmdpZDZfdVJWR2RCOXd2aEFHeHRKR3NJRkZuME90Z2N3MmZBSzVOSHhidzd5V01vcWJtRm9KRkd0VWZ4YjR5VWdJX1g3VkY5Y2dWODFSWkwyZDBrX0MwbWx6UWVQaV9JZmtWMkNTNGRjcW1HSXkxVnpiMGwtOGpxcy1uUkVtVG9ocmJlN1pNR0RrTWpUR2pFeWlyd1VnY0UtOUlvcGJjNHFCZTJ6VFFhandveU10MklPclZQbVRCaE83dGdOcTN2X2xQalJCZFlPSjdWSVpVd0xNVUhVaFo4akxzc0dXMmhkSHNvR2syc2VkZkxNeWxYRF90MjlkRDF4MkdYbFZiRGRLRi1Vc1ZR?oc=5",
       "s": "VT Markets",
       "d": "2026-08-29T14:32:10+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOanVyd2ZuT0lNY3JEQm9XRXozdWJ3QTB2NnN1QjhHcy1IdG9RTmFoTFZ6QzFBSF8zelVadUstZVBnQnVHNEtMWGRwYU9idDRZbGZfYWh1NGtQMk4tWTNUTHNzaFpDeF9NWG9lVlVfQXNSU3VtUzNlZk5Fd1NQcmpMSVBIVQ?oc=5",
-      "s": "YTN",
-      "d": "2026-08-29T14:17:00+00:00"
-    },
-    {
-      "t": "베일리 “2차 인플레이션 압력 제한적”…영란은행, 9월 금리 결정 여지 남겨",
-      "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVC1zLXFNMWNSS0NReHBuTmVENEQzVWhNVWRFZmY0SmxZb1NST1d4Y2MzMXphZnpOTWg4Z1FaaVVnRExfSUUxUDV1VlBNZG1YMmI5Z1E0ZGQwZU5HUW9oLTd4TlFYa3J0dG5KcVJBTGdOZWNMUHJENllaWjFZZUlEVG4tcGFtNTdwRUxCTVdWLU45d3ljenp0c0g5QkxkLXNBLVU0SlJYbm0yNVo5MDdodjZRRW5HUjZna0g3V1l4dlFaTUVhR0FrbXN6M3dNU2RtZ1dndFBRbXVhbmlkbVd1cERuZnpQZUJoRUctRUdHa2ZaZGg4dUtnd3ZKRFlILVk0RDh3clRRZ19LMWtuOXplaGQzTlBZaXpqa2ZpNmhmSGVtQlh6YUcwVVk4Z0NuQmNhQ190bmFTclVlVkJrd2c?oc=5",
-      "s": "VT Markets",
-      "d": "2026-08-29T14:06:21+00:00"
-    },
-    {
-      "t": "연준 금리인상 가능성 확대·무역관세 불안에 EUR/USD 1.1600선 하회",
-      "u": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQ0V6YmtBeDRMbnVieUYxalBIaTd5WXJ2TVFpWUVZSzM5YndjaG9QTzJMWGxnTEdBMDRMTHQ1V3VXcnNQZ3lxUTNkR0w5bUtEMy1ZZkNhY2NVVHJCYlgzaVg3OGk4YnFmbzlsNVVaNGRrSEh3TlpqaThLcUoyRE1tMHNOR3VjeVVDLXpGbnRqQnBSWldtdkx3VWl5QWRaa1BXSkFYZFQtdFdMdTBqbVRmTzZNUUE1VFNGTmR6LXFUV3Y5NUdTeDRmMml2WDJyeVBFSkMzWXJDMUpLU1R4akdpd09TTjVSYnI1eW4tazBJVzRRcVdKdG1qZU5VSFFUWmw2MGt1ODRIVXg3ZlNSYmNTeUhJTmJOWUpncUpTck5xSlloN29TbUdoQml3aFRuTU5JWHhKLXdkR3I1b0hOVk1YbU9DaDRoLVVaV2JSbGo0Y3Zuc01LdjJyS2FlcWpzZjVJUHc?oc=5",
-      "s": "VT Markets",
-      "d": "2026-08-29T14:06:14+00:00"
     }
   ],
   "asof": {},
