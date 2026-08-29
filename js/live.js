@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T14:30:59+00:00",
-  "quotesAt": "2026-08-29T14:30:59+00:00",
-  "newsAt": "2026-08-29T14:30:59+00:00",
+  "fetchedAt": "2026-08-29T14:45:59+00:00",
+  "quotesAt": "2026-08-29T14:45:59+00:00",
+  "newsAt": "2026-08-29T14:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "DBS, 한국 수출 견조 전망…인플레이션 반등에 한은 금리인상 베팅 확대·원화 지지 기대",
+      "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOTmZ4Q0NBc1AxOWZzRXJVM2NONHlqRUJXQlNZZTdPM0Z3eGtPMXBydmNzbFlDODVyQlY4RDlQLVR1SFNrQjM2c3dzM3Y0U0lWRURqMmdpZDZfdVJWR2RCOXd2aEFHeHRKR3NJRkZuME90Z2N3MmZBSzVOSHhidzd5V01vcWJtRm9KRkd0VWZ4YjR5VWdJX1g3VkY5Y2dWODFSWkwyZDBrX0MwbWx6UWVQaV9JZmtWMkNTNGRjcW1HSXkxVnpiMGwtOGpxcy1uUkVtVG9ocmJlN1pNR0RrTWpUR2pFeWlyd1VnY0UtOUlvcGJjNHFCZTJ6VFFhandveU10MklPclZQbVRCaE83dGdOcTN2X2xQalJCZFlPSjdWSVpVd0xNVUhVaFo4akxzc0dXMmhkSHNvR2syc2VkZkxNeWxYRF90MjlkRDF4MkdYbFZiRGRLRi1Vc1ZR?oc=5",
+      "s": "VT Markets",
+      "d": "2026-08-29T14:32:10+00:00"
+    },
     {
       "t": "매파적 잭슨홀 연준 메시지에 금값 후퇴…비트코인 8만달러 아래로 하락",
       "u": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPcm1aYnBvcG5oTDlqOTBtbEhUU2o0cjdUSTZ6U0ozNE14eVRCMkxFNWtnU0VOeVFOWUxNWE5aWmFPOWJFb3FId1d2bWpPRU1Zem1wSHhsZVlfNlJZeGw4aGtLZjhGY1NpVFFMa1lHdmo2UFBudll4NkwyLWhVSjc5RkpJdk0tRHJJcEVRU2RfaDJmLUp6M2xmMGhFTmlJSmhrV3FqWUxoa3NHT1ZVXzZoZ1dBUjdubFkxbFppQzQ1TlpWOTRRQmxqcjlHM0pSdTdIZVdMTVVBVDV4eDBRbkpiLXl1NjJnWl9oTU5LY19PTFBZS0oxZUd0RXNWQ3B1WmdhbG9LZTU0TF9Ud1pQRVhXMjVCdnNORC1lVWxOMVlDQm04dkhyV1JCeTZxcldacmFPVjZhRldrQTUtRnMyMy1iMUVGdzNqa1pIMk9JS1ZkM2VieVg3SWc?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Bd0ZVLWk2bDgzbWNHNkM0b3ktbUNqSWoxc21DNTFibl91eWw1ODI3a1F4WmpPZGlJRmljcTdPVkV4ZXZGckViTWFUYzhKUDRweVUzbHRvODVObU1KS1pPaWtCU2pXOWZuQU5US0t3cmd4UQ?oc=5",
       "s": "에너지신문",
       "d": "2026-08-29T12:37:50+00:00"
-    },
-    {
-      "t": "워시, 잭슨홀서 꺼낸 ‘물가 우선론’…9월 금리인상 공포 다시 켜졌다",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAybWctTklmRWdvQ05mZDJIN25XUWpyM2pOdDZNQjlLaFZVcmF4SHlTTkh5WDNkbnJmSVdqcWN6RFgxbU45N21KNlJ4TTBRWTU3dFRTT2VESlR2TlptaFZmQWNOSkxoLU5HVU42RTd3?oc=5",
-      "s": "seoulilbo.co.kr",
-      "d": "2026-08-29T12:37:26+00:00"
     }
   ],
   "asof": {},
