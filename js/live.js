@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T05:30:59+00:00",
-  "quotesAt": "2026-08-29T05:30:59+00:00",
-  "newsAt": "2026-08-29T05:30:59+00:00",
+  "fetchedAt": "2026-08-29T05:45:59+00:00",
+  "quotesAt": "2026-08-29T05:45:59+00:00",
+  "newsAt": "2026-08-29T05:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,19 +25,13 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "나혼자 산다 기타법인, 자사주 매입으로 홀로 코스피 지지",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRcldoWVJid20wUXpQVUsxaHQ4TV84SDhSYjhjV1Y1RXd1SEJpZklCMmxvUV80MzJEakk5d3NmaWFSSDNTNlBHM3NaQU45MmM3dFE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-29T05:25:31+00:00"
-    },
-    {
       "t": "美 ‘9월 금리 인상설’에 시장 출렁…韓도 긴장 고조",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JeVMza1dIeGFiZEVFRmY4aTVKbml2bW1IbkJaRm5lVm9tTERkZDY4UkZ4UUc4ZVpPajZOUjhRVGRlbEpxX09MOXhKZ2ZTazVMbXhqRDluaTNJYzA?oc=5",
       "s": "에너지경제신문",
       "d": "2026-08-29T05:18:39+00:00"
     },
     {
-      "t": "통화 긴축과 재정 확장...‘엇박자’와 ‘정교한 조합’ 그 사이 [청와대는 지금]",
+      "t": "통화 긴축과 재정 확장…'엇박자'와 '정교한 조합' 그 사이 [청와대는 지금]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OelYyeXVSOE0zX3M2MWdablNlTkpjZWhmcEFHT1FXSkxmUDZQci0zbFU5MFpMMWtQa0ZKRDFCWnVwWno1MHlfU05FeHF1SC1EU1I3RkMtZzRtUQ?oc=5",
       "s": "한국경제",
       "d": "2026-08-29T05:10:01+00:00"
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yYUp1alYxdEJvUjFPSzdCcHVsR0FpZ0ZPNHBiMmJ4dVN1bTNyZlhLZHJSMl9zVlU3VElxNHZQa0VwMTEtdEJGc1RyMDRhaWM?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-29T03:24:07+00:00"
+    },
+    {
+      "t": "비트코인 가격 8만 달러 아래로 하락…연준 의장 금리 인상 가능성 발언 영향",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQXZMcHNja2FMMkhBbU55dXlLVVkyWndnQThqMXhCYnpfRU12eXdXeDFGSV9EbXJGMGxfbFliNkpXeWRoSTM0NHlHcXF5dXN6RUctNWxNWWxYUQ?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-08-29T03:23:00+00:00"
     }
   ],
   "asof": {},
