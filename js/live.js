@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T06:15:37+00:00",
-  "quotesAt": "2026-08-30T06:15:37+00:00",
-  "newsAt": "2026-08-30T06:15:37+00:00",
+  "fetchedAt": "2026-08-30T06:30:37+00:00",
+  "quotesAt": "2026-08-30T06:30:37+00:00",
+  "newsAt": "2026-08-30T06:30:37+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "고용보고서·브로드컴에 쏠린 눈…이번주 美 증시 '빅위크'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SFVITFlkaWQ0VGRUS2wtR3NqdUM0cDltWG5UNFpQVURJLU5oMVdselUwcnh0aXJrWnJnc0N2Z1Myay04Z2RqOUNSczhXeEZXa1pPNTl1THJhUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-30T06:17:08+00:00"
+    },
+    {
+      "t": "원·달러 환율 급락에 식품업계 희비 교차",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5heHRNeVNVcHNvaEJBMHBweGZKYWJjUVdJZjNzeU83dkRna2FKanNVc2p2VjAyeHpLZ0wzdmExSVVNMkJWUkFra01zcGN3dzBITEJMYzlLM24tTGxwcnVYQURwM0NDMVEy?oc=5",
+      "s": "2news.co.kr",
+      "d": "2026-08-30T06:13:00+00:00"
+    },
+    {
       "t": "\"다시 커지는 금리 모멘텀, 은행주 재부각\"하나證",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAweUstYmdndlpXU1JUcEZxNmlxbEN2X0ttb0Zyc0M3SUJWSjFJMlJnMGhTdDdlX1Bsc3FDYXEycUlCeHk1eDJRQWtYMl9PMGNrZGxyUlpVRWR3LWpXZmM5MUJDVTl4SXNRYUoxQnc0cDgwWFZmXzRR?oc=5",
       "s": "thecommoditiesnews.com",
       "d": "2026-08-30T06:10:38+00:00"
+    },
+    {
+      "t": "\"반도체 끝났다길래 팔았는데\"…큰손들 조용히 쓸어담았다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wQnRlVGdsbXFERnBxTUEtTXYxNEh6N1EtdmszLVhPMVJBZ2tHdEJ5WDV2NkJmN0lhdXdpbHRhNVBZdlVwU2ZfbDJOWTR5R29OVW9fcHpTTGx6UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-30T06:00:00+00:00"
     },
     {
       "t": "‘롤러코스피’에 두 달 새 52조 몰렸다… 5대 은행 정기예금 첫 1000조",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-30T05:38:48+00:00"
     },
     {
+      "t": "한은 \"수요 압력에 물가 상승세 광범위하게 확산 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEenhmR19CdFdIX19VSDMyZ1JuSFFmdkFpZXMtdzR4Um5nR2tCaGhrWkdPZy1ha0M0SDVQSjJUY2lxSzZfX1YydkNrZmdpOEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T05:36:07+00:00"
+    },
+    {
       "t": "[글로벌이코노믹 사설] 기준금리 3% 시대 취약차주 비상",
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0hHV0w5N2Z0dUlvS01MYUh1c2U2MFhvSVpDeE9GMlBGWHVyRXRITUNDRGRJbXVpM051dGVLanc1d3YxUm51azlLVG9SVFpkQkotVzZBcjVGeXlkU3NXX3F2R1Z5Y2pQX2tKdUlVdHE5TUJGYy1MRGZrdS1hRUJ5ZVBR?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-08-30T05:34:56+00:00"
-    },
-    {
-      "t": "한은 “근원물가 2.5% 넘으면 경제 전반 물가상승 이어지는 경향 강화”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTmNwMHdCZXJGb3dORmplWlJZLXN1RUZGMkR6Y01XRGRJS1VJd21ZSmZUMGxTMXlZNjNORXNxd1FBbUQtV25IbnkzR0s3bDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T05:34:09+00:00"
-    },
-    {
-      "t": "[아주 사설ㅣ기본·원칙·상식] 다가오는 美 금리 인상, 가계부채·내수 둔화 우려하는 우리 경제 대비해야",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSa3BjQ0RqcHhYbEhZU1VOSE1HNXh3UlZCYUNNbUZCamJDVTMwVll2ZGc5bXllcTB6b3ZUSFBOVjFMXzRvVk5nUEhBZjVydEpzdm5LVTduV3J1QdIBWEFVX3lxTFByQnJDVTEwdmhOUUdEVDBuUmtsNlVkNHd4R0xyZzRsMU1pUlR1WEJLZ1hYWGJXTThKbVJYdnZOME9mUFlGTkw4TDFpLVJBWDB1dXJJdnZDaFY?oc=5",
-      "s": "아주경제",
-      "d": "2026-08-30T05:29:36+00:00"
-    },
-    {
-      "t": "7000선 앞둔 코스피…'중국 메모리 굴기' CXMT가 새 변수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWW1FdjdfcXFDU2dGSkRfVnU1RHBfRXpfNGNJN09zalFVdHlBaVpfd0JuVkw0ZTdNZzlxbzRZdm5yamhpeVBEWEpva0JFanc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T05:22:00+00:00"
-    },
-    {
-      "t": "변동성 줄자 거래 열기도 ‘뚝’…코스피 다시 ‘박스피’ 갇히나 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa21Ib1lERk5RVVE2M1JxeTdzZUo4cUctTnA1TExOZ2NXcmsyb0lYdkpjTW1tQWRXT1BhNXlWMGhkYjVDYi1EXzZ1eUVwTEtSVk5UTS11VjFHRTI2c1lQUTZBUEFVR3o0NDROX2kwUlM2anQ3LXFtWlVvOVg2eUxsNTE2b2tXSi1f0gGcAUFVX3lxTE8tZlZZNTN2VXZiVmpHMFpWMW5CdUtTbDZCSll4aE12VklmNmxIci1jWVd5cGhRV0YwRjZFamhMQURwVmRCejFmSlhNOGZTU1pibEtUVTFjYzhEeFJSUWU1ZmF2UE9qV3lpQ1NFVWZndWM5UWhpZnR3ekNDbWg2U3BXUHZQay1KTzBqTUdSMnRDVEowcnBVT2NRRGVmcQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-30T05:14:00+00:00"
     }
   ],
   "asof": {},
