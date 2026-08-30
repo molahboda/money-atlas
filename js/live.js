@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T00:30:59+00:00",
-  "quotesAt": "2026-08-30T00:30:59+00:00",
-  "newsAt": "2026-08-30T00:30:59+00:00",
+  "fetchedAt": "2026-08-30T00:45:59+00:00",
+  "quotesAt": "2026-08-30T00:45:59+00:00",
+  "newsAt": "2026-08-30T00:45:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "반도체 수출·금리차 축소에 원화 강세…원·달러 1,300원대 초반 전망도",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENFdzYTExZDMyWkFncFhGYTVtYnNlQnZ1RnZqYlp2QTNGaXJyNVZ0cFB3NWZTOGo0M29BTmtmV1E5QzRiaFBpczVDeXBnT0l6ZzhpN185SHg1YnVSLVRENEdiM2pMZkNoN2JVVVE0bDXSAXRBVV95cUxPVVBsVU1CT3J6cDAzTFpWQklLXzdqUjFFbVI2WGNUSmk0Vm5OOF9VTFBkUF9DRElodkJEcl81Y1otRjdiMngxNTUtbUViUTlUOXR2VW41R0lZQlc4MnRrQjgwaXM5WDZnSWZ4QmRMZm5YSDdoYQ?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-30T00:42:00+00:00"
+    },
+    {
+      "t": "코스피 변동성 잡혔다... 다만 증시 체력 추가 회복은 필수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRajRJT0FBdWVJR3FiZWc4R3BmeE1Wc0VVaEg4YnBNa3hWVGpqb09jc0swVldZSmU3MlhDR0xWUXJQOHlYT1NxNTBSUVljd2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T00:41:29+00:00"
+    },
+    {
+      "t": "워시, 9월 금리 인상 열어둬…시장 확률 36%→56%",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Idmh3b1dfYVk0TGh4NkxVeGJ6dzZfZThpdlpWam5YU0YyY24tc3dUSlpDRXJHLURsLWJLaDl1eUR0LW4weXVJWktBQ1RvUE1tSjRlSHBOQmF2MlNTbXNaWFRENi11TDJGV0xGOEdGdllkZw?oc=5",
+      "s": "톱스타뉴스",
+      "d": "2026-08-30T00:37:57+00:00"
+    },
+    {
+      "t": "[금융권 말말말] 워시 의장, 잭슨홀서 매파 본색…\"물가 안정 확신 필요\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3NU5JY3N6WFgxalBOMHY0bU9NT0x2c0RndFFpa3NSQU95VVdSbDc1cUdsMVVJeDJKOXZmNUpJbUdpVktoaXNKUk9kZGFUajdPT0M0dW00RW02cTlNWUMySWFFeXNnQk9jNXA0bU9fSUI?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-30T00:37:09+00:00"
+    },
+    {
+      "t": "임금·물가 상승에 사라지는 김밥 가게…브랜드 매장도 못버틴다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TdVhQWWZiblk1SDVJWTZUN0VFb0xFSTVPODJveDR2ZVJpbGdCSUpBM2VhdTFYeUVTWXdOY3U1TnNsNWM4bF9ZdmYwZzRHQzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T00:33:53+00:00"
+    },
+    {
+      "t": "하정우 “에너지, AI·반도체·모빌리티, 우주산업 연결해 전남광주를 글로벌 AI 핵심 공급망 축으로”",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRZDhnN2FSN0sxLU1LT09UZThodWFFejNjdUl1V29zY2lXZHdfeHdWdW5lWlR4M21mVG1BeWswcnNWUnBrZzFxbEhZRElDQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-30T00:33:02+00:00"
+    },
+    {
+      "t": "금융당국, 증시 위기 때 투자상품 구조 바꾼다…긴급조치권 확대 추진",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tY2R3ckZDTG5oOHhPSXNGbjZtMUJUZUo2bXNoRE44X1RrMmRmTmdaZnZNWkJsMWlVeTJrZXVDRFBuVFNKMzMzRmJNVXRsYTJyc3oyaFhhZXR0dnNJSW92emJhU1JvM2RTWWtSVnRMRG3SAXRBVV95cUxPaFZkYW5NcWw5NFRfM0xHVUJyS09QeVQ0XzlGZkYwMExpcnEybWVBLWVhcndwNmlIRzYweTFiNUluT1ppeXBndVRKTXhINElJV2EyWDR0MXNUU0h0SUxueGx4RzVJa1IwSmVSRnhCd21WRnFRZA?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-30T00:32:07+00:00"
+    },
+    {
+      "t": "[구미 로봇에서 반도체까지] KEC ‘오픈 파운드리’ 구축 수면위…구미, 국방 반도체 거점 노린다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90Wnp4TG9LNU1idkxOOG1WQWZHVDl1VlJJRkhySFRhbGhZS1NuRzMyNnU3bngwck5CUWd6R1JSU2NwdEQ1WS14QUNJeHFGSTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T00:30:01+00:00"
+    },
+    {
+      "t": "4극3특 호남권 지역자율R&D 시동",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80aVVNQ2VyQTBhbUgzTTFVb3FQRURHenB6SlMyQk43cWpQR09hWHN4Z0VjZUh1RlhMelBMMmdSb2FueHdWdFRKUGtHakRnWWwwYzhsSWx3?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-08-30T00:28:37+00:00"
+    },
+    {
       "t": "[구미 로봇에서 반도체까지] 삼성로봇 생산 참여, 반도체는 위탁생산…구미 산업 재편 시동",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WQnkwYkNpTjVudUtwNDZ6RGh6NUI3cUNRbThsSHoxd1pxT1VJSmZjVWktdTZEdHJhellDckhZQ2VuZnJRWS13aGY3OElxeVU?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-30T00:25:42+00:00"
-    },
-    {
-      "t": "금리·전셋값 동반 상승…신혼부부 버팀목 대출은 반토막",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtd0ZzdTJQWWQ1bk9tTmxxN053M3JIb29QeHA5STJDQXN4cDNIeG9pWWRDX0dKU1JDZU1KVWtub0tkVjc3WW1Mck15TjdoRmFQeHdmdGlFbXJ4cnZoV1IySE5wVWU?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-08-30T00:24:44+00:00"
-    },
-    {
-      "t": "신현송 “美 금리 맞춰 우리도 따라가는 것 아냐”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oMnVTY0R1TTVyaGt6dmVoeVZBZnFMekhSdk8wZFo5VS1FQmpIb29rYzRXY1p3WmwyTkcxaGJ1amN6UWo1TU90UWItbVFmWE9IbUxQTFNn?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-08-30T00:24:02+00:00"
-    },
-    {
-      "t": "고공행진 먹거리 물가...저소득층에 더 가혹했다",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFBnRnUxNE9kT0YzRDJvSkk4eWJQejI4cHlUUWR5dk81SmRZUnVtTG1jbm9uUUtrZEtPbkY1cFZNbkZrQldRaEotbW5qb2pSbXRIdkVveUpLQkRVS20welB3eVEwQV9MSk5wV1lJbElyMXY1ZlJhb1NTMlQzcEJLa0hTdjNVclpZeGxqNldR?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-30T00:17:00+00:00"
-    },
-    {
-      "t": "신현송 \"대미투자, 환율 부담 크지 않아…외부 충격 대응 여력 충분\"",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41UzNVUVUzdFlCNVBEdjNtMUJaZTd5YV9GZ2t1T0tDWFpMVGZQbFlxUU13TUVFdVlFQTNyTjlGYXdnb2ZhNE1MUThUa2ppZ3Y0?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-08-30T00:16:22+00:00"
-    },
-    {
-      "t": "워시 연준 의장, 첫 잭슨홀 연설서 9월 금리 인상 시사… “우리에겐 할 일이 있다” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHYzNjNKRXRTb0lrYnl1NjV4ZXF2LWRGTDZTRzgwQkQyenp2UThrNXZqcUpUN0RqMGVTMXkyM196U2lvR2o4YjJfVWVJcHBwR3R3djRxVU56WWVLcTlCSkl1UkU4c2U5NW02ck5QMzNaT2tUUUlYdVczWlpKWV9odXNsRUFJa3FGWHB6SjNyWTVoa1BCc213clhwTEprUdIBsgFBVV95cUxOT0NXUTZ6MFFzZU1Mbkg1bzc4UlN4NklyRDNiMjdOeXdHcmUweVlFazBEOUpib3hzMm9IT1pYLXJvOWhsNDZ1N2lrano4U0l4RFVzU3dSM0VMVWZKZTcycGNjWUtONzA2emRGMDdEYVliNllNR2s0Q1JOMENrUWotWFhnTHJmUTJ5SVpQNzMwa3FMZ0Y4S205dWlzODhOel9ucjFLN20yVFBSbnZDbDhKNF9B?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-30T00:13:00+00:00"
-    },
-    {
-      "t": "트럼프 인하 압박에 맞선 케빈 워시… 9월 베이비스텝 시사",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0JLU250N0QzOFJuX2tadGtMVGQ1dkxScW9NRC1BRXFFRkNCdGRKOEQ4Z3l6YWtyUXRGUVJVMzBhcEZkQlYxZkdyYlpYUzZ6LW1Hd1ZXdE9JU1BTeXF3MWZEcjl5bVdPWnJ5RHMxeEItaUVkamZPSXkzd1R3N2s1NFhsM1puTHdm?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-30T00:12:51+00:00"
-    },
-    {
-      "t": "널뛰기 멈춘 코스피…거래 한파에 7000선 앞 '제자리걸음'",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83RWp3Rjdob3dMYjNEeW0wZUdhckQ1d2RlUDBJbnlIaktzR01JYVEzMTYwS2tTRjNCdGJ4dzc4bXlMOUpfblo2NUQtTFJHVmMt?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-08-30T00:11:08+00:00"
-    },
-    {
-      "t": "베선트 미국 재무장관, \"엔화 시장 불안 미국 국채 금리 인상 가능\" 엔화 개입",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IcGdRQWFFekQ5UVVTSUJrLTU1bjF3Qm95cWt4djdXb29QRlBuOUtDTDh3QlBrZzhPMU9hRWpTNnF5c190Y3ZmSHhYVzdzX1BoaEwyRHdIb2xJYWR4NmVuTjBzR0tVRDdMM1V3?oc=5",
-      "s": "미디어데일",
-      "d": "2026-08-30T00:06:19+00:00"
-    },
-    {
-      "t": "신현송 “워시 이제 행동할때...호미 안되면 가래로라도 막아야”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uWTRuY1FCT0haa3dtQmtTbUstLW1IWEo1T2w0SG9sUHpWclZ0dkoyZXFXdTcxS2o1eEhRbmdqWWtvMmRqaDZnQ2liLS1TWEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T00:06:00+00:00"
     }
   ],
   "asof": {},
