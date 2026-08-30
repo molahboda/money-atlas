@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T01:45:59+00:00",
-  "quotesAt": "2026-08-30T01:45:59+00:00",
-  "newsAt": "2026-08-30T01:45:59+00:00",
+  "fetchedAt": "2026-08-30T02:01:00+00:00",
+  "quotesAt": "2026-08-30T02:01:00+00:00",
+  "newsAt": "2026-08-30T02:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,24 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "신현송 한은 총재 \"원화 면역력 생겨…대미 투자, 환율에 부담 안 돼\"",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Wc3J0cXFZSWR1OFFQc2U1WVpoU0NRbHdnN3VsNEtVbTRydHBqWW5KdVo0UEN0cXRXdzhFb1dRY2tWOFNRN0tPVnN4RE5BWkZxN1JUb19tOEg5U2ltckVYN2tZaw?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-08-30T01:57:42+00:00"
+    },
+    {
+      "t": "금통위 연속 금리 인상에도 크레딧 ‘캐리’ 부각…발행 회복은 미지수",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1veVRoMWJZOWU2cmlFNTFQTGhYbXdDalAzd1RkQkVlVHN6RnkxSXZCenVYVXNzNkl1OGR3N25KN0xhSEJpWEwzcFF2NjZlT3BWem5wbnlBVi1oTEJQMEtUSUZWdjQ?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-08-30T01:51:01+00:00"
+    },
+    {
+      "t": "전셋값 뛰고 금리 오르는데…신혼부부 버팀목 대출 ’반토막’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WVnFEOXVELXRGUmt4QXBud09xUWdSYVhYRFExX2VET21lSUMwdUNyNTlJRmJpd3F3ZEwtNnZoTHlLdHFvRm1TNFNsMV8wd1FTaUdxbXRZNnBWZ0kwQzlsU2VMcVBmejA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-30T01:47:00+00:00"
+    },
+    {
       "t": "금리 뛰고 전셋값 치솟는데…신혼부부 버팀목 대출 2년 새 '반토막'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hMFdxcGFwaER4QVlld2lGV2NBRjZIekFqa2pUUmN1bWd6R3ZRdmRNVUpvdjcyY29ON2c5TGw1NGFaWkJ0bFdDeFZEbG9STVk?oc=5",
       "s": "v.daum.net",
@@ -32,9 +50,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "베선트 \"엔화 급변하면 美 금리까지 오른다\"…'26년 만의 개입' 이유",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UUnFmUnE0RWhBNjl5U0lqZEVJVFVCSjEtX3RBUVVVOGNNeGZzanVwaW0yWDlqdHZ2cUlYQ3hVTWxnb2s0RlhSR19YWU9OMjRBUm16Y0dBT0paSzVaYmpfcUJNLTU3cWs?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UUnFmUnE0RWhBNjl5U0lqZEVJVFVCSjEtX3RBUVVVOGNNeGZzanVwaW0yWDlqdHZ2cUlYQ3hVTWxnb2s0RlhSR19YWU9OMjRBUm16Y0dBT0paSzVaYmpfcUJNLTU3cWvSAWxBVV95cUxQS04zOVpURF9pWjdnTC1wWjdDLVUxMDBWeXh4SkIxZEV4RXRaYmlGdWNHM2gtVjU0V3V0cUQ2ZzNoblVNQkhScUQ2TWQ5NW5Sa0NDMy1iMkk4eFpKMDFaYnpfODM5dEEyV2VYdTQ?oc=5",
       "s": "뉴스1",
       "d": "2026-08-30T01:34:01+00:00"
+    },
+    {
+      "t": "삼전, SK하닉, TSMC… AI 이끄는 ‘반도체 독점적 공급자’들 [경제용어사전: 아시아 7]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QV2VvaFFZU0JMS0hFbXRsbVZRSUszcWZiRWJsRnRjeDRXd1V0b19qR01Sd3gxZHlMeDdaOUVUQk0tc1VraUNWWmZXZFFkQzFVWGFZM0xDNTYzVWIzUG12dFN4RmtUVGN5LUx3Um5B?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-08-30T01:31:26+00:00"
     },
     {
       "t": "수도권 집값 잡으려 올린 금리…세입자 월세 부담만 키우나",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVzVRazlCelZzNTdXMWNUTVc4cU04bWNsUGlGVWNCMEZYVExEcE9ZazF4YXVqTDZVRm91ZGJoOV9PcHlaZU1qb3ZiY2hQQlk?oc=5",
       "s": "v.daum.net",
       "d": "2026-08-30T01:25:07+00:00"
-    },
-    {
-      "t": "전셋값·금리 다 오르는데⋯신혼부부 버팀목 대출은 급감",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKNTU3eFVKNkFkSXg5dTAtYjJ1VHRoZnpCUGNialFYRkJHMVBudTNWNUNUZmxyNERkU2JxVHg5S1BmeDNNVTJ2RlFielBVaVNlT0hyVA?oc=5",
-      "s": "이투데이",
-      "d": "2026-08-30T01:24:00+00:00"
-    },
-    {
-      "t": "'세수 효자' 반도체 양강… 삼전·닉스 상반기 법인세 11조 뚫었다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aaTdJV3Zoc1FSZGZUN1RxZ0xncE5OT1RPUzNrOUNBdjdxNmxpYnhTT0xPYUM1RmNrckVld1JUZ0NLcDlvcG0xMmxIWUFlTUFrakNsMmhoT2pUVDhRSXc?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-08-30T01:24:00+00:00"
-    },
-    {
-      "t": "신현송 “대미 투자, 환율에 부담 되지 않을 것”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zSEZZUk5CYTdkNjFMdGlWUEFIdlpMVTFpLTdPdWlCQ1dXWEF4N09oT09mWjRUWXhwSnlqYy02RFljcll3Z3Z0SFFCMnF0MGd1cTlUZUhLLTFVMXRFVUsxVmpwTUZrUmdBSlE?oc=5",
-      "s": "천지일보",
-      "d": "2026-08-30T01:23:19+00:00"
-    },
-    {
-      "t": "9월 금리 인상 재부각…칠천피 앞에 멈춰선 코스피 향방은",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94emhBc0tuWFBXdm1VWG9LU3B5b1VMM09BUm5kSEdvaGdyZUJ0QVRhUm50ajJPeXFhUzQ0b3c3c1hMX0V1aEc1QU5JaDhNZlVLb2VIUWJsSEpPRWvSAWBBVV95cUxPTldfMl9nZEZhT3pMbXdBNG5Td3hXR1dSTWJCbVhyZjd2OTc1WGpMS0dEMTZzdEl5RE03MnhaWEFabDJreTFzVmxWZVdJQk0tSGdIWWRMZ2U0aVd1ekdRSDI?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-30T01:20:15+00:00"
     }
   ],
   "asof": {},
