@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T06:45:37+00:00",
-  "quotesAt": "2026-08-30T06:45:37+00:00",
-  "newsAt": "2026-08-30T06:45:37+00:00",
+  "fetchedAt": "2026-08-30T07:00:40+00:00",
+  "quotesAt": "2026-08-30T07:00:40+00:00",
+  "newsAt": "2026-08-30T07:00:40+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "백투백 인상에 환율 향방은…신현송 \"원화 면역력 생겼다\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42Z3prR1RXcVUyOFctR2JpODVvZ1AySXhTd0NLVjVLTWZ5N0FRdFIxTU55MGpxSFFNRUp3aDBtY2QtNG5PZlJudkViVDVKTnJrTEo1T0pSV0paU1ZCSjhCNHRQWTFKTmVaS2hz0gFwQVVfeXFMTV84MGxmZUNlLTB6NDVMcVlGWnpmZnlxZm9BMkFzTzYwck1VZXpOTEJ4M0FabFVScU41YmpiYWJVT2RVVHp5UkxDdlp2dGlTakpROU51TTZMaFhrekY2MlFkZ0RKOVhvcjdhQ2tFcHpRSw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-30T06:56:27+00:00"
+    },
     {
       "t": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
@@ -61,10 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-08-30T06:10:38+00:00"
     },
     {
-      "t": "\"반도체 끝났다길래 팔았는데\"…큰손들 조용히 쓸어담았다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wQnRlVGdsbXFERnBxTUEtTXYxNEh6N1EtdmszLVhPMVJBZ2tHdEJ5WDV2NkJmN0lhdXdpbHRhNVBZdlVwU2ZfbDJOWTR5R29OVW9fcHpTTGx6UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-30T06:00:00+00:00"
+      "t": "‘금리 인상’ 여지 준 워시…美 고용이 9월 금리 가른다",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wdVlQSEdvdVJ4RWJ3VkJxbm1ISU9uYWlXU1RVaDIxTko4cGw3TU5kR0U4cVFaR0Jybm03RVh0TWRWYk1SeElLeTg3Tko0NTh6dHFmdU56WjUwNmdXNk4xQXlDdmhBbFREQkVMUW4yZER5a0ZJ?oc=5",
+      "s": "대한경제",
+      "d": "2026-08-30T06:08:04+00:00"
     },
     {
       "t": "‘롤러코스피’에 두 달 새 52조 몰렸다… 5대 은행 정기예금 첫 1000조",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcWhLS3FvRlFFYnZVVEhkSmdEaFJRTXh0NmdudF92NDRNLWxnRWJxOXFLMnZZdzZVUmIzRUtPTUFPb056VFUwYjRjV0YtS2xkM0hTNks1cUlXaEFJNkxXY1FQQUREaGgw?oc=5",
       "s": "대구일보",
       "d": "2026-08-30T05:51:19+00:00"
-    },
-    {
-      "t": "李정부 2기 경제팀 이끌 이형일…'부동산 세제·물가 안정' 과제 산적",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWDlRWXRkMm02RE15TEphXzZUZmVtR0FiTlZ2cUs2NENmcFU2LXhxMUd2OEYwVE5EZHI0cGJxeC1EYVBLUEpodGk3ZDZyQ1czSlNnS2NZdngta0lzU3pXSnVLT182X3FDeTZCeW9DUUw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-30T05:47:52+00:00"
     }
   ],
   "asof": {},
