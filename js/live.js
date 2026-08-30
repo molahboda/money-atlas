@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T02:45:59+00:00",
-  "quotesAt": "2026-08-30T02:45:59+00:00",
-  "newsAt": "2026-08-30T02:45:59+00:00",
+  "fetchedAt": "2026-08-30T03:01:00+00:00",
+  "quotesAt": "2026-08-30T03:01:00+00:00",
+  "newsAt": "2026-08-30T03:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,42 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "신현송 한은 총재 \"美 금리 인상해도 따라갈 필요 없어\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFRHNEbDk0UklCbUc1MTM3d3RiUEt3eXc2ZFpVeEVWMjItQ1lIRjV4WjhmN3lCVWtnUzYwR2gxTGFkdTROV0M5VVZtajNjSVVvMDRyTElpUTEwU05V?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-30T02:54:00+00:00"
+    },
+    {
+      "t": "사흘 오르고 하루 밀린 코스피…‘7천피’ 안착은",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LaG9kSHV6TjlndjdCUDd3SWJ0UGR2bXdZVi0xN3FtYVoxbUI1Nzc5WWJKOXhhM0VKRDU0OVZoLUNRazVpcU9pWkFRaXlzcmNHaFBLMVRXdk1aNjE3Yy1pMFJsLTdfTDJuOU0wOWJXSQ?oc=5",
+      "s": "인천일보",
+      "d": "2026-08-30T02:51:00+00:00"
+    },
+    {
+      "t": "금리 연속 인상에 가계 이자 늘고 영세기업 자금 조달 부담",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Xa2dVWEFDc21VYTlxcGlnM2tqR1BXRDdEaWdkODdTWDItR21BZ3hCUXFiOWRPZVUtTS1VaUJfbzgyTllSVmNRWVliVE5wdkw4QXRVWl9BV1BIejNYenREQXNHM1FqdHA0YkE?oc=5",
+      "s": "경남도민일보",
+      "d": "2026-08-30T02:42:32+00:00"
+    },
+    {
+      "t": "워시, 중간선거 앞두고 트럼프와 정면충돌 하나… \"9월 금리 인상 가능성\" 시사",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSjB0R2stTnhZcVZmbXdXNE13ME1GN19jQTRKZlBFNG5MSXlhaU1oRnNLSWlHc1dlMGtSTDUtRzlIRlZ4ejY0bGkxYnR3dHlsWldyN3A3NVR4UUZYdFNZRW9NNUV3VVBJZ0VF?oc=5",
+      "s": "서울뉴스통신",
+      "d": "2026-08-30T02:42:05+00:00"
+    },
+    {
+      "t": "신현송 “원화 방어력 생겼다” … 美 긴축에도 금리·환율 자신감",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wazh4YXRIaGc0eDBUbWUtT2pLOGlOYW1CSXlqNml0ZW1wQnc5OEYyYjhqbGNmcWU4X1NSdk55U2p2cElhWGd5ZUUxMWdvc2t0d0lJQmhFdWt2YWRlRlRlZzFBVDY3Sk1nSFhXZFBrZVFyLUNEbjJEQXVR0gGAAUFVX3lxTFA1TWRSdEprSzRDeWp0ZG1wZ1ZCd3N4VlVXS0lEMjNzREV6UjI2dWt4bWhMSHM5ZjRIWEF3Q1BnOUJnQ1o3U0hGcWs0S01BZEk1VkF1T3llYXpMcU9DTUpzTTF0ZjZVeUZPOUpvVTh6Zkl0aHhxZXJoV1FBM1lMSjFU?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-08-30T02:40:37+00:00"
+    },
+    {
+      "t": "\"연준 입만 보지 마라\"…'말 줄이겠다'는 워시가 던진 금리인상 힌트",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZDQ4VUxNVTRwbGs1dmpCRDlZNXVua05La3BTeGYyTVVPdnBKNjhjc09yb1FGZmFRbVhGVHFLUXdOQ1VJazdxVk5ZcGdLTmhzOWZ6M0RzODVNVGUxRnJuNm91MldtOFnSAWxBVV95cUxOQ0gtR3JCdUh5TVhzOWhqRVVULXNCRi1wQnVBT042bXVxQ2xiXy1xc1ptdVZRbmpIS29qZzJ1U2E0QlM1Y08xc0tYa1BzcWdrcUxZRlo4RkJBQmFObG82Qk9aWlhSS0FCQzFwRjQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-08-30T02:35:35+00:00"
+    },
     {
       "t": "코스피 잠잠해지자 거래도 식었다…개인은 美주식 10조 '베팅'",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uMldGQXlQTzZhb1ZwWUN2LWpEZGZKNl9JTFFROVZnNTgwM2F2MTdvY2Z1dXRDVEotU1RIOEc4TnQ0d0xCaUtJVE5hZGRqM0t6b0czOWdCLVc3Y2FsY1E?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjRkRnM1dJbW9DMm4waVhNb0QzMFNNVVZzc3ZoMmpLTVZUNTNGVVVOVnBHZEVGRUFYU1Y0RjZtTGFpRjcxVTZuNmF1VTlpNUZqa1FzalhWbndtc3lUUS05WA?oc=5",
       "s": "KBC광주방송",
       "d": "2026-08-30T02:20:01+00:00"
-    },
-    {
-      "t": "소비재부터 반도체까지…불 붙은 韓·인도 협력",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zXzhVdXV3Y21wcm42R3FtUDJqLTI0a2xiTEVGemRadEFoR2NGa3Q0bS1iazVFTi1RZnY0dDMwbEY3MTNEODdEdUpuaGd6Zw?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-30T02:17:06+00:00"
-    },
-    {
-      "t": "개인, 두 달간 미국 주식 10조 순매수…코스피보다 더 샀다",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X3RsUnhrN2pSOHlHd2FzZWpmYVRVYzJBR3VhdTB4V1J0UFpXTzYwUVFxdF9keUNTaFpTSm5fVmppOG1nZHVjR3ZHYVNCTXQxTVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-30T02:04:05+00:00"
-    },
-    {
-      "t": "속도 붙는 한-인도 경제협력…소비재·반도체 등 진출 확대 본격화",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zaWtYNzRxNWtLNlk2UEs2elhjdmJHckZqbXQ1LVgzMG40cExXdWc1eDJISlZ0RjJLQmtzdDl0cnZ4UmlVXzBKVDJpM3ItNEU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T02:01:50+00:00"
-    },
-    {
-      "t": "'기준금리 3% 주담대 8% 시대'…가계부채 잦아들까",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56S01xdXJBYlZNMDQ0d1BWMjJPMjNzc1FCYTE4Skx4U1pZZjdhanBraUZDZ0dlZkRyRVUwdGoyalRscE9abjVoTGJDQXRxbEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T02:01:27+00:00"
-    },
-    {
-      "t": "달러 환율 13개월 만에 최저…신현송 “원화 면역력 생겼다”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XZEdoVEdyN05TRHp2WnllUmt3MHQ2czRsbjZsVmtvMElkYl9tUVBwVEgycWJqZDdfdW15dHdoRVRVaE1UWnNNS050TWZxUWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T02:00:37+00:00"
-    },
-    {
-      "t": "워시發 금리 인상 우려 커졌다…코스피 7000선 탈환할까",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fWDUwaTdSbHFRSXVYMG1qcGgydnJXWWRsbnhCY2p0WnQ4VHNuX1p3SGJOdUtiYlNKOHNaTVNqVU5OTUlZUWxRUG9nSElOMVkycURxN3Z6Y1djd3NqZUZLbURka2hLa2pMbnh0eDl5Z0pUa0U?oc=5",
-      "s": "마켓인",
-      "d": "2026-08-30T02:00:06+00:00"
     }
   ],
   "asof": {},
