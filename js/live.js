@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T07:00:40+00:00",
-  "quotesAt": "2026-08-30T07:00:40+00:00",
-  "newsAt": "2026-08-30T07:00:40+00:00",
+  "fetchedAt": "2026-08-30T07:15:37+00:00",
+  "quotesAt": "2026-08-30T07:15:37+00:00",
+  "newsAt": "2026-08-30T07:15:37+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,16 +25,40 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "백투백 인상에 환율 향방은…신현송 \"원화 면역력 생겼다\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42Z3prR1RXcVUyOFctR2JpODVvZ1AySXhTd0NLVjVLTWZ5N0FRdFIxTU55MGpxSFFNRUp3aDBtY2QtNG5PZlJudkViVDVKTnJrTEo1T0pSV0paU1ZCSjhCNHRQWTFKTmVaS2hz0gFwQVVfeXFMTV84MGxmZUNlLTB6NDVMcVlGWnpmZnlxZm9BMkFzTzYwck1VZXpOTEJ4M0FabFVScU41YmpiYWJVT2RVVHp5UkxDdlp2dGlTakpROU51TTZMaFhrekY2MlFkZ0RKOVhvcjdhQ2tFcHpRSw?oc=5",
+      "t": "\"내년 금리 3.5% 유의\"…李 대통령, 부동산에 '한은 카드' 꺼낸 까닭 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kUFVHQlJ6elZzNWMwal9FTVVpbnp2S2VpWUZnT2tBSjZKazM1TVVaZnVENUs5WGl3T1pPYWZLSUdVRjRIelpuVnlDSGpocHU3WW1xQ0gydTZ1ZndrSGlkSzZJcVNrMkVzR2tn0gFwQVVfeXFMT0plb18tVGFmSXZuaXdzNzBYUGpkV01HUHZxczRDbXNhckVTUXpmR1l3NTRya3llV3NVSkhiUHFBcnN6NzdRcWNUYklmUTAxc0ctUWtKNloyckd3NmFfOTJreGlpSXlBMjBvdU93RWFYaA?oc=5",
       "s": "머니투데이",
-      "d": "2026-08-30T06:56:27+00:00"
+      "d": "2026-08-30T07:08:39+00:00"
     },
     {
-      "t": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-08-30T06:34:54+00:00"
+      "t": "기업 대출 연체 증가세…기준금리 3% 시대에 중소기업 부담 더 커질 듯",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QX2tOSTdWMVFTc3h2WWFneHY1cnpsN1NvQkxLT3c1UVdlcTRucDdIMUJjbW5uZ0pZakgteUZVM2dXSHZabEJYY1lKQU5fd2tVeV9iVWNXY2JBZm_SAV9BVV95cUxPc3hIMzdEYWVfMUFkWnBQaXBqSkZxNHlYVkxoakpISDdrbW1qdWhXaWR6S2tmdVRZTkw1YWFrdmxuY2JiaWtHUWtETzU1Y1M0R0x6ODFmRmxkckM0VE5fYw?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-30T07:07:00+00:00"
+    },
+    {
+      "t": "금리 올리면 충돌, 안 올리면 신뢰 흔들…워시의 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qb0ZhMW0xVS05TGN6Tk5oSVJ5VG90T3RfLTVWZkdDS29CaGROUmNScF9CRkp0cVh1NEw1NHQzazVfOGUtSWVYb3dob3huVE83ZUFZVnVn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-08-30T07:01:05+00:00"
+    },
+    {
+      "t": "[서민경제 '삼중고'] 물가·임금 동반상승에 김밥집 문 닫는다…브랜드 매장도 줄폐업",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UkFrZGFrNWNJU2t2aS1DaTl0T0VqNUlSSkJQNHpQLU1mNkJndFJ0QlBEczZGMWJsMUlEUVJENkRZY0Q3OUxYYzRUdXdMRms?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T06:54:21+00:00"
+    },
+    {
+      "t": "\"부동산 투기 관심 가진 분 금리 유의…폭락 대비도 준비\"",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81OUJ6R0lGaUVMSW9DR0lnanplTmsxd2hkbWRBM2pmMXZfR0lweEExX3JpblAzWnhqSHRNSHp5VEdEa0xrc1BiMDlhVGI4TEo0bEs2VklfTEpCUHZSa2hRV1JtSDJORDFiTi1QeXlLSTkwMXdNaXlN?oc=5",
+      "s": "OhmyNews",
+      "d": "2026-08-30T06:43:00+00:00"
+    },
+    {
+      "t": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌 가능성",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMTJjYUpKVkVuelVmMnMtSGgzenBlNkk5RVZtNUhJYmRFRmJLdHNnaFAtS3dtbnBndDl0SGFSa2hWWnZrY2htaEJEbUFRc3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T06:36:00+00:00"
     },
     {
       "t": "반도체 4% 뛸 동안 30% 가까이 상승한 건설주...데이터센터·원전 매력↑",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5heHRNeVNVcHNvaEJBMHBweGZKYWJjUVdJZjNzeU83dkRna2FKanNVc2p2VjAyeHpLZ0wzdmExSVVNMkJWUkFra01zcGN3dzBITEJMYzlLM24tTGxwcnVYQURwM0NDMVEy?oc=5",
       "s": "2news.co.kr",
       "d": "2026-08-30T06:13:00+00:00"
-    },
-    {
-      "t": "\"다시 커지는 금리 모멘텀, 은행주 재부각\"하나證",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAweUstYmdndlpXU1JUcEZxNmlxbEN2X0ttb0Zyc0M3SUJWSjFJMlJnMGhTdDdlX1Bsc3FDYXEycUlCeHk1eDJRQWtYMl9PMGNrZGxyUlpVRWR3LWpXZmM5MUJDVTl4SXNRYUoxQnc0cDgwWFZmXzRR?oc=5",
-      "s": "thecommoditiesnews.com",
-      "d": "2026-08-30T06:10:38+00:00"
-    },
-    {
-      "t": "‘금리 인상’ 여지 준 워시…美 고용이 9월 금리 가른다",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wdVlQSEdvdVJ4RWJ3VkJxbm1ISU9uYWlXU1RVaDIxTko4cGw3TU5kR0U4cVFaR0Jybm03RVh0TWRWYk1SeElLeTg3Tko0NTh6dHFmdU56WjUwNmdXNk4xQXlDdmhBbFREQkVMUW4yZER5a0ZJ?oc=5",
-      "s": "대한경제",
-      "d": "2026-08-30T06:08:04+00:00"
-    },
-    {
-      "t": "‘롤러코스피’에 두 달 새 52조 몰렸다… 5대 은행 정기예금 첫 1000조",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aS1sTkQwMi1PcnJyQUZPcXJVdHB3LVVLeXVBX3dIRW0ycDB3eXNlT09XUml4SzFydnU3d0RJQndLdG01MXdiWDhlRXZ1Ml90bkFxR0pNYm01MEZyNlJjS1BiblFFNkJGNnJrbEFVRQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-30T05:52:17+00:00"
-    },
-    {
-      "t": "대구경북 광역철도 예타 통과…동구미역 가시화, 반도체 등 첨단산업 경쟁력 강화",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcWhLS3FvRlFFYnZVVEhkSmdEaFJRTXh0NmdudF92NDRNLWxnRWJxOXFLMnZZdzZVUmIzRUtPTUFPb056VFUwYjRjV0YtS2xkM0hTNks1cUlXaEFJNkxXY1FQQUREaGgw?oc=5",
-      "s": "대구일보",
-      "d": "2026-08-30T05:51:19+00:00"
     }
   ],
   "asof": {},
