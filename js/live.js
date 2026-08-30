@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-29T23:45:59+00:00",
-  "quotesAt": "2026-08-29T23:45:59+00:00",
-  "newsAt": "2026-08-29T23:45:59+00:00",
+  "fetchedAt": "2026-08-30T00:01:00+00:00",
+  "quotesAt": "2026-08-30T00:01:00+00:00",
+  "newsAt": "2026-08-30T00:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "'롤러코스피' 끝나니…7000선 문턱 '박스피' 됐다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZX2hJUWpHdWU0b1Z1bXVBaklXWTNZcTVGclNoc214OHYyZ21UTnFBQmJ6bFlpYmxjcW4tbldaTkNMcTVRTXdzbC1jR0NwTHE2eXNwUmNLbnI2QQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-29T23:56:58+00:00"
+    },
+    {
+      "t": "반도체 호황 뒤에 숨겨진 금리 인상의 진짜 이유",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqMmtkRHlIeUp0QkxudkNxakN0c3JvUzRZVTAteFJQV1pfeTY2YXdXbUlqMlBNOF9OXzl0TS1rU29DR0pPVmx6eFh6VXQ0RTF0UDRNQXhTWTc5dndESC1kMk5ybGNZS25mOWswWGpKakTSAXRBVV95cUxOSFVIUmtjSEJ2RXJBSmw5MUhQS0NjcTVzSHdyQ0VNeEdUeDMwdFk5d1RudGluY0w0U0tzVi1MZ1kwM2syalF0SDEwVHBIeDdDYjRva2NVVEd0azM0LWRTWEtFTE5hMUd0WUEtbWMyc0FCcDdYRw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-29T23:43:48+00:00"
+    },
     {
       "t": "“불안하네~”...코스피 외면하는 개미들",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xa3laTktLVXdTcU9PVzBYQ0dWMWRZM3ZvUl9OVGxwdV9fdkpma2czSHh5eEFqSWFKUk15Y1U2anlkS21UR25TZTRoZzRzdDg?oc=5",
@@ -49,10 +61,10 @@ window.LIVE_DATA = {
       "d": "2026-08-29T23:23:56+00:00"
     },
     {
-      "t": "美 연준, '금리 인하' 압박 트럼프에 맞설까…시장은 '인상' 베팅",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85cE1vSlNILTRtMlhxSGpIRXpSVHEwaUZiTk9UTWc2b2NNRHB3bUFvNnU2WUl2SWo3Y0hQSDBVb3pFTXNad0NYTkowOHlXU0pHWDVJS0Z4X1VvQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-29T23:18:53+00:00"
+      "t": "워시, '금리 인하' 압박 트럼프에 맞설까…시장은 '인상' 베팅",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vbENlQjlrdENrRnJYU29lbmJyM25WMFZTS3pJa3E4TUpobkZ6WWxmREUzZ2tSWGFEblZrWjNSY2VYc2FFaVI3eS1OMWdmODBQSV80?oc=5",
+      "s": "네이트",
+      "d": "2026-08-29T23:19:00+00:00"
     },
     {
       "t": "[기자수첩] 광주엔 반도체, 예천엔 전투기 소음…“더 이상 희생 못한다”",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pWGJxUDI1RXR6VEhnWVlyYnhONTMzZUU1NGZxU0Jhd0tmaEZES0NabTZtYVJzdzk0MjhTdGFDNlBqS3QzTE42d3cwNm5vQWR5S1E?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-08-29T23:12:47+00:00"
-    },
-    {
-      "t": "[증시전망] 코스피 7000선 회복 재시도...변수는?",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hX21DakV3elV1LXI4ODcweTh2THBhdzZGRWgyWWY0MDlfNzd0LUxzYU5vcUQtQnhSZVZ3TEVUQWZ3Y0xmUW1SLUxFUlduaWZHTmM3d3AxVDVIQmxFNFUzc2ttSXFraW0weGhtaWJlU1FjUDg?oc=5",
-      "s": "디지털투데이",
-      "d": "2026-08-29T23:07:00+00:00"
-    },
-    {
-      "t": "[김대호 인물] 케빈워시 잭슨홀미팅 \"금리인상 발언 충격\"",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3hMRThhZTRRbkZZMUpCREptQkw5VXpOQ2k5eUVkblBTUjlQZHZud1dmZ2ZsMkFOcFBvZ1NBUTZhNjVHRi02anFKdU50VDVqZjd2NFBzOFVrb01jbTZQc1dBS2tpX215M09yNFBiRURiM3ZCaGpWOE95WHFxTFh0b3dsLXhubVk?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-08-29T23:05:44+00:00"
     }
   ],
   "asof": {},
