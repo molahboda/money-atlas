@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T01:01:00+00:00",
-  "quotesAt": "2026-08-30T01:01:00+00:00",
-  "newsAt": "2026-08-30T01:01:00+00:00",
+  "fetchedAt": "2026-08-30T01:15:59+00:00",
+  "quotesAt": "2026-08-30T01:15:59+00:00",
+  "newsAt": "2026-08-30T01:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -0.55
   },
   "news": [
+    {
+      "t": "워시 ‘매파 본색’에 9월 금리인상론 급부상…FOMC, 트럼프와 충돌 분수령",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rMzlXLXpwazRfbHdsWkxZTjk1T2ZmZFYtQ3lxVk1wa0djQVBtRWJzYWNOelkwZTNlNElrWV9Db2NKNkRtN2Q1RF9pVHBQR3NkTVRiSWhlM2pscE5MeGtERlZSc1VNaWloUEdxTkNPNA?oc=5",
+      "s": "위키리크스한국",
+      "d": "2026-08-30T01:10:03+00:00"
+    },
+    {
+      "t": "GIST, 131억 '4극3특 호남권 지역자율R&D' 본격 시동…반도체·에너지·모빌리티 3대 중점기술",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ndEwyYW94TFBJUW42dmJtNkNRT1JrU2QtRVZQZEpkLTNFSC1aZnhUaDVOcHNFMjhOM25VcUJ4czBGUS0wSXpxcUpEcmVCQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-30T01:02:01+00:00"
+    },
+    {
+      "t": "금리 인상기 코스피 투자전략은…\"금융주 담고 실적주 선별\"[기준금리 3%시대③]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zU0ZHOFRnbGp2bnpwZkdJMktJaFlMSjdYdEhJQVdMVUhoOWZvUUVMMlB0UHVKaVlnS01rVHVnQU1XNExiN3FvUUFQblVOT2RaWjM0b3Z6LWo0WkNkem5nc9IBeEFVX3lxTFBmelRVVEFfT0dBbTFYeDdUd04xVnVWa3BVYmRkTlVTcHNyR0FJRG9MT3pXTkRuNkNwNkVSRjJnZHlyZGtDS01zaDROVktHUnNZaks3bzBkV21JemhhZXk5RktHdFh4MGtoeW4zU1FMZEN6SVlocjUzdQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-08-30T01:00:00+00:00"
+    },
+    {
+      "t": "신현송 한은 총재 “원화, 대외충격 면역력 생겨… 대미 투자 환율에 부담 안 돼” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRkx6ZUdsODJraFB4a0x5Q3hVX25TN0JNN1Z0Q3RoVXdZdTlqN2UxUXVIUmttdDg1aHpSOFZyY3BJSUFyN0RSNWVTZ2tXcmdIMzUyN3k4bE5BbUpuOFM5Y291UnhYZm1QNF9JckxaSDhiQUR4XzFjZTNEdHYwZUVWNUdiaXN1QdIBmgFBVV95cUxOQ3hhUWJhWU1rVFNkMTV2R2lXeTRfSm1kU19pS1M5UUdMTmE4blJ3bERMemEwMFR4Rm9qSXlWazJ2ZnpBYW9NSUY4MWJwWWNKcHEwaUlkcWdRV08wWTV6RkluU3BaejVnQVhydzZyNXZVNWN1TC1lMHlDbTcwOEVxcGRnTUotZlRTNHlYOGZtclJXbjdiYTZlbndB?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-30T00:59:00+00:00"
+    },
     {
       "t": "2달 만에 10조원 쏟아부은 서학개미…코스피 순매수액마저 제쳤다",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtRUxhMkZWT01BcHFQYmVuSXVmWHdrbDFPQzlMbnZ4dGNtUk1ldW1sdHNIUUZWd3YxV3FzN3cweVhKUzl3NnBueVQ2M1FVVG1jbnYzRnAwQ1RJNVJtYjk4RlpB?oc=5",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-08-30T00:44:00+00:00"
     },
     {
-      "t": "반도체 수출·금리차 축소에 원화 강세…원·달러 1,300원대 초반 전망도",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENFdzYTExZDMyWkFncFhGYTVtYnNlQnZ1RnZqYlp2QTNGaXJyNVZ0cFB3NWZTOGo0M29BTmtmV1E5QzRiaFBpczVDeXBnT0l6ZzhpN185SHg1YnVSLVRENEdiM2pMZkNoN2JVVVE0bDXSAXRBVV95cUxPVVBsVU1CT3J6cDAzTFpWQklLXzdqUjFFbVI2WGNUSmk0Vm5OOF9VTFBkUF9DRElodkJEcl81Y1otRjdiMngxNTUtbUViUTlUOXR2VW41R0lZQlc4MnRrQjgwaXM5WDZnSWZ4QmRMZm5YSDdoYQ?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-30T00:42:00+00:00"
-    },
-    {
       "t": "규제 강화에 한국 개인투자자들, 레버리지 반도체 ETF 이탈 가속",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aTlpYU3lhemIwblNMbU1sLXJyejZYZUZuTVRONXdKVzJWdzlrN3c5dzg4NmhTT3k2U3RNNE81Z25Nam5ONHJBZ2lLeWVlY3Rhc1hrc1Q4UzhMTzVscllWY280ZzJmWXBiUy1ja3ZTNVQ?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-08-30T00:42:00+00:00"
     },
     {
-      "t": "코스피 변동성 잡혔다... 다만 증시 체력 추가 회복은 필수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRajRJT0FBdWVJR3FiZWc4R3BmeE1Wc0VVaEg4YnBNa3hWVGpqb09jc0swVldZSmU3MlhDR0xWUXJQOHlYT1NxNTBSUVljd2s?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T00:41:29+00:00"
-    },
-    {
-      "t": "정점식 “성장률 전망 상향은 반도체 기업 성과…김용범, 정부 성과로 포장”",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yRE0ybk5FT0JNa2pxR3NFbUFEbkNfT0Fmbkp5dTZWZFctMHI2V25JSHotVl8xY2d3cU1HeXcyWnAwY1o5VmRHV3I5QTF3R1dtdmIyWA?oc=5",
-      "s": "이투데이",
-      "d": "2026-08-30T00:41:00+00:00"
-    },
-    {
-      "t": "트럼프가 발탁한 워시, 중간선거 앞두고 '금리 인상' 시사…백악관 정면충돌 위기",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQWxxZlVsbFFfQjlKZFVVMy1WZnM1Qko1Nk1nNWZvWFVUZHAwYVB5aEdySXZXazJjOTNBUzd0Z0hQWnIxMnh2eU1iMWhLWUJaR1puV2tlS0JyOWYtR0hFR2ZURXBleTVQek9BR3V1TdIBc0FVX3lxTE1tcFpZUG9OU2F5RDNZdnFjTHJtWDZITS1mbzhjZVJiYmlYdnlJOG9HV3A0ZEl4SFVuWWgzdm9XbTNoQllRMkhZSnZqQXBzd00zVGxOYjQ4WVM4Rkd4c1k3UzVXV1hZaW5mUzlhNUJ4cGtIOFk?oc=5",
-      "s": "뉴스웍스",
-      "d": "2026-08-30T00:38:00+00:00"
-    },
-    {
-      "t": "워시, 9월 금리 인상 열어둬…시장 확률 36%→56%",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Idmh3b1dfYVk0TGh4NkxVeGJ6dzZfZThpdlpWam5YU0YyY24tc3dUSlpDRXJHLURsLWJLaDl1eUR0LW4weXVJWktBQ1RvUE1tSjRlSHBOQmF2MlNTbXNaWFRENi11TDJGV0xGOEdGdllkZw?oc=5",
-      "s": "톱스타뉴스",
-      "d": "2026-08-30T00:37:57+00:00"
+      "t": "반도체 수출·금리차 축소에 원화 강세…원·달러 1,300원대 초반 전망도",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENFdzYTExZDMyWkFncFhGYTVtYnNlQnZ1RnZqYlp2QTNGaXJyNVZ0cFB3NWZTOGo0M29BTmtmV1E5QzRiaFBpczVDeXBnT0l6ZzhpN185SHg1YnVSLVRENEdiM2pMZkNoN2JVVVE0bDXSAXRBVV95cUxPVVBsVU1CT3J6cDAzTFpWQklLXzdqUjFFbVI2WGNUSmk0Vm5OOF9VTFBkUF9DRElodkJEcl81Y1otRjdiMngxNTUtbUViUTlUOXR2VW41R0lZQlc4MnRrQjgwaXM5WDZnSWZ4QmRMZm5YSDdoYQ?oc=5",
+      "s": "산경투데이",
+      "d": "2026-08-30T00:42:00+00:00"
     }
   ],
   "asof": {},
