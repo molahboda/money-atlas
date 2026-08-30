@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T07:30:38+00:00",
-  "quotesAt": "2026-08-30T07:30:38+00:00",
-  "newsAt": "2026-08-30T07:30:38+00:00",
+  "fetchedAt": "2026-08-30T07:45:37+00:00",
+  "quotesAt": "2026-08-30T07:45:37+00:00",
+  "newsAt": "2026-08-30T07:45:37+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,22 +25,46 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "물가 잡자니 트럼프와 충돌…워시, 9월 금리 인상 딜레마",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQ0VDYktfNmdOdG5vRlg5OExLUzhIVkdKNTJ1SDVtSlA0eXlCcFE5M2FDVUp0YlUyU04zMm91V1JRVGdEbm1lS1pUYzZxMkxlV1BGUzItZEh0UdIBWEFVX3lxTE9FNWpQRmUzTlZ3enVSeGRzMzUyMjJ3bHBmTEhKNHZ3VjFDbmgtTXBaWmFQR1lzTlZrY2tfb2d5WkRPeENNU2VaVkEySWlOS1ptWDY2ai1jQ0U?oc=5",
-      "s": "아주경제",
-      "d": "2026-08-30T07:26:14+00:00"
+      "t": "'친절한 연준'은 끝났다…\"워시노믹스, 깜깜이 금리 시대 시작\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SeUtWd3QzU3dlU2dWajZkU21xUlB3UjJmMXRKVTlIbmxndzgwSHdRTXM5RDBxUFVkSUtFaTJWaTlYenBCaDh2OWRpVXVUenc2d2NhNXhMUGhKYThOdmdnYjhGNWVNV0M30gFuQVVfeXFMUG1KWlBMc05iTm95M1RMRzhNUng1MW45R1BOWXVrdnBkVzBYNkNucjlxZGNOMUZDaExybURkQUR2bWRadGNyd1BCWjllZEtSVmVSS1BSR1kwbTlZcFRrQVRvUU9pZzdmR3Nya3EybFE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-08-30T07:41:47+00:00"
+    },
+    {
+      "t": "워시, 트럼프와 대립각 세우나…금리 내리라는데 인상 시사",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QelE0TTd3c1J4NmU3NHJNeTZFd1g1UWdSZG1kcmdHbWtUUm9ETFFjWUwzS2tXanVWUDlBSnZyNXdtanlLV3FLRHF3Qm5wZzg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T07:28:07+00:00"
+    },
+    {
+      "t": "물가 잡자니 트럼프와 충돌…워시, 9월 금리 인상 '딜레마'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LeDdMQWlWdVRHYi1oYmJ6R1RPcXdYc2hOT3VaUUFEcU1nbmZ4ekFkTzUzUW5GV3lpOGRvdlhyZUlwZE1IM3JXQ2k5Ml9UUlE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T07:26:20+00:00"
+    },
+    {
+      "t": "신현송 \"미국 금리 올린다고 따라갈 이유 없다\"…원화 면역력 언급",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uU0tFLWFaSV94dk5JMElHczRLWFk5d2xnTWdXRjhaRHpFR2JxLWl5LTg3UGdzc0VJSVBsZ0hPX0NFLWhNRVV6OXdsOS1WVVNHLW5qZGw3dWJsQzFDNmJxQXVPVXhKdVk?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-08-30T07:26:05+00:00"
+    },
+    {
+      "t": "코스피 적은 ‘실적’ 아닌 ‘금리’···7000 앞에서 멈춘 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuVlJTZE1SdkJDRmpudU1HSU8wN212ZHJ3N3I3S3dIdE5VUDcxbzZJYTFfSU5xMWFiTDctTmtQNkdrWW4ybmNPZExzeDFjd21ScVJxWFBiNC1vUdIBX0FVX3lxTE4zbEIwOVVmdUZRYTFodUtMd0pZTEVYeF9OUGNmbEE1UENKOW1acWIya1BUdE45c0x0YU16b0F3d19tU3czRFUyampZdWpJaDZuU25laElNYm8zejJ2cEQ0?oc=5",
+      "s": "경향신문",
+      "d": "2026-08-30T07:10:00+00:00"
+    },
+    {
+      "t": "기업 대출 연체 증가세…기준금리 3% 시대에 중소기업 부담 더 커질 듯",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxeWV4YWRKRldKZU9Ua1o2bjJuRXBUejZ3ejVyNThKdmZYTjVZNjNSc0tySkVsOFJVUEVmR2lQbzdPbUpzMElweGdRQjhJLTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T07:09:07+00:00"
     },
     {
       "t": "\"내년 금리 3.5% 유의\"…李 대통령, 부동산에 '한은 카드' 꺼낸 까닭 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kUFVHQlJ6elZzNWMwal9FTVVpbnp2S2VpWUZnT2tBSjZKazM1TVVaZnVENUs5WGl3T1pPYWZLSUdVRjRIelpuVnlDSGpocHU3WW1xQ0gydTZ1ZndrSGlkSzZJcVNrMkVzR2tn0gFwQVVfeXFMT0plb18tVGFmSXZuaXdzNzBYUGpkV01HUHZxczRDbXNhckVTUXpmR1l3NTRya3llV3NVSkhiUHFBcnN6NzdRcWNUYklmUTAxc0ctUWtKNloyckd3NmFfOTJreGlpSXlBMjBvdU93RWFYaA?oc=5",
       "s": "머니투데이",
       "d": "2026-08-30T07:08:39+00:00"
-    },
-    {
-      "t": "기업 대출 연체 증가세…기준금리 3% 시대에 중소기업 부담 더 커질 듯",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QX2tOSTdWMVFTc3h2WWFneHY1cnpsN1NvQkxLT3c1UVdlcTRucDdIMUJjbW5uZ0pZakgteUZVM2dXSHZabEJYY1lKQU5fd2tVeV9iVWNXY2JBZm_SAV9BVV95cUxPc3hIMzdEYWVfMUFkWnBQaXBqSkZxNHlYVkxoakpISDdrbW1qdWhXaWR6S2tmdVRZTkw1YWFrdmxuY2JiaWtHUWtETzU1Y1M0R0x6ODFmRmxkckM0VE5fYw?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-30T07:07:00+00:00"
     },
     {
       "t": "금리 올리면 충돌, 안 올리면 신뢰 흔들…워시의 딜레마",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-30T07:00:23+00:00"
     },
     {
-      "t": "\"부동산 투기 관심 가진 분 금리 유의…폭락 대비도 준비\"",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81OUJ6R0lGaUVMSW9DR0lnanplTmsxd2hkbWRBM2pmMXZfR0lweEExX3JpblAzWnhqSHRNSHp5VEdEa0xrc1BiMDlhVGI4TEo0bEs2VklfTEpCUHZSa2hRV1JtSDJORDFiTi1QeXlLSTkwMXdNaXlN?oc=5",
-      "s": "OhmyNews",
-      "d": "2026-08-30T06:43:00+00:00"
-    },
-    {
-      "t": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌 가능성",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMTJjYUpKVkVuelVmMnMtSGgzenBlNkk5RVZtNUhJYmRFRmJLdHNnaFAtS3dtbnBndDl0SGFSa2hWWnZrY2htaEJEbUFRc3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T06:36:13+00:00"
-    },
-    {
-      "t": "반도체 4% 뛸 동안 30% 가까이 상승한 건설주...데이터센터·원전 매력↑",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X21vS1IzQ0dzZmMzdlFJa01SNU9ZOFBnYjZvRmVVNHJYXzc0bVBNR0pVbzk3ZTRpUHJ0eWY1M1JwQ1U1MUhtSG51UjR5R0xrZkdpN1NqRDNXdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-08-30T06:32:02+00:00"
-    },
-    {
-      "t": "‘삼전닉스’ 급락 7000선 숨고른 코스피…이번 주 ‘잭슨홀 매파’ 시험대 [증시전망대]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUjFESnpVMGM0UHA4bFE2bUp2NTdLdFI5MzB5R3VWUVFUOXIwZGVIZU1ITjBsTnM1MnpEYV9QVHFia3o1c0tlOV9QcTUtVDA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T06:21:27+00:00"
-    },
-    {
-      "t": "李대통령 \"내년 1분기 한은 금리 3.5%, 부동산 투기 유의해야\" 경고",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5ZE9Ta1gtRTBoYWdMZWpUdkVIZ0hENFB2SmFpOWdhdnJrWmhqRk9DUnlNaWNTampGRGxmVWJiUlptV3ZpbnJJNkM5aTZhSm9lYmdzX1VJTWVYeEJq?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-30T06:21:00+00:00"
+      "t": "[신아 AI 만평] '연준 vs 트럼프'...경제를 건 레버 싸움",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uRFlGYUtTQkhFX1BVMU03X1RmM1FNaDEzbldjMi1UMTBWNUdhRjZXVXdCUUhGZHRMNEdpNzFVZ2Y1SGVoeHhmRUdjMERuZFhtVXQtOUhNVl81c0hQVnZabzM0cVpqYXF0aktVcUpxRHU?oc=5",
+      "s": "신아일보",
+      "d": "2026-08-30T06:46:57+00:00"
     }
   ],
   "asof": {},
