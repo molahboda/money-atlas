@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T07:15:37+00:00",
-  "quotesAt": "2026-08-30T07:15:37+00:00",
-  "newsAt": "2026-08-30T07:15:37+00:00",
+  "fetchedAt": "2026-08-30T07:30:38+00:00",
+  "quotesAt": "2026-08-30T07:30:38+00:00",
+  "newsAt": "2026-08-30T07:30:38+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "물가 잡자니 트럼프와 충돌…워시, 9월 금리 인상 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQ0VDYktfNmdOdG5vRlg5OExLUzhIVkdKNTJ1SDVtSlA0eXlCcFE5M2FDVUp0YlUyU04zMm91V1JRVGdEbm1lS1pUYzZxMkxlV1BGUzItZEh0UdIBWEFVX3lxTE9FNWpQRmUzTlZ3enVSeGRzMzUyMjJ3bHBmTEhKNHZ3VjFDbmgtTXBaWmFQR1lzTlZrY2tfb2d5WkRPeENNU2VaVkEySWlOS1ptWDY2ai1jQ0U?oc=5",
+      "s": "아주경제",
+      "d": "2026-08-30T07:26:14+00:00"
+    },
+    {
       "t": "\"내년 금리 3.5% 유의\"…李 대통령, 부동산에 '한은 카드' 꺼낸 까닭 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kUFVHQlJ6elZzNWMwal9FTVVpbnp2S2VpWUZnT2tBSjZKazM1TVVaZnVENUs5WGl3T1pPYWZLSUdVRjRIelpuVnlDSGpocHU3WW1xQ0gydTZ1ZndrSGlkSzZJcVNrMkVzR2tn0gFwQVVfeXFMT0plb18tVGFmSXZuaXdzNzBYUGpkV01HUHZxczRDbXNhckVTUXpmR1l3NTRya3llV3NVSkhiUHFBcnN6NzdRcWNUYklmUTAxc0ctUWtKNloyckd3NmFfOTJreGlpSXlBMjBvdU93RWFYaA?oc=5",
       "s": "머니투데이",
@@ -43,10 +49,10 @@ window.LIVE_DATA = {
       "d": "2026-08-30T07:01:05+00:00"
     },
     {
-      "t": "[서민경제 '삼중고'] 물가·임금 동반상승에 김밥집 문 닫는다…브랜드 매장도 줄폐업",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5UkFrZGFrNWNJU2t2aS1DaTl0T0VqNUlSSkJQNHpQLU1mNkJndFJ0QlBEczZGMWJsMUlEUVJENkRZY0Q3OUxYYzRUdXdMRms?oc=5",
+      "t": "백투백 인상에 증시 혼돈까지…단기 예금에 다시 돈 몰린다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Iby1YUjJOOWl6WFdWZ3RzdW9HRDM3OHVKSHA1Q29HNXFOaXJvWmJadUVub01USTFNZFBsNVlySm1wcWUyX3FseVRxYmtFb1U?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-30T06:54:21+00:00"
+      "d": "2026-08-30T07:00:23+00:00"
     },
     {
       "t": "\"부동산 투기 관심 가진 분 금리 유의…폭락 대비도 준비\"",
@@ -58,7 +64,7 @@ window.LIVE_DATA = {
       "t": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌 가능성",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMTJjYUpKVkVuelVmMnMtSGgzenBlNkk5RVZtNUhJYmRFRmJLdHNnaFAtS3dtbnBndDl0SGFSa2hWWnZrY2htaEJEbUFRc3M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-30T06:36:00+00:00"
+      "d": "2026-08-30T06:36:13+00:00"
     },
     {
       "t": "반도체 4% 뛸 동안 30% 가까이 상승한 건설주...데이터센터·원전 매력↑",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5ZE9Ta1gtRTBoYWdMZWpUdkVIZ0hENFB2SmFpOWdhdnJrWmhqRk9DUnlNaWNTampGRGxmVWJiUlptV3ZpbnJJNkM5aTZhSm9lYmdzX1VJTWVYeEJq?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-30T06:21:00+00:00"
-    },
-    {
-      "t": "원·달러 환율 급락에 식품업계 희비 교차",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5heHRNeVNVcHNvaEJBMHBweGZKYWJjUVdJZjNzeU83dkRna2FKanNVc2p2VjAyeHpLZ0wzdmExSVVNMkJWUkFra01zcGN3dzBITEJMYzlLM24tTGxwcnVYQURwM0NDMVEy?oc=5",
-      "s": "2news.co.kr",
-      "d": "2026-08-30T06:13:00+00:00"
     }
   ],
   "asof": {},
