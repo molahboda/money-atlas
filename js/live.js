@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T00:45:59+00:00",
-  "quotesAt": "2026-08-30T00:45:59+00:00",
-  "newsAt": "2026-08-30T00:45:59+00:00",
+  "fetchedAt": "2026-08-30T01:01:00+00:00",
+  "quotesAt": "2026-08-30T01:01:00+00:00",
+  "newsAt": "2026-08-30T01:01:00+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,9 +25,39 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "2달 만에 10조원 쏟아부은 서학개미…코스피 순매수액마저 제쳤다",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtRUxhMkZWT01BcHFQYmVuSXVmWHdrbDFPQzlMbnZ4dGNtUk1ldW1sdHNIUUZWd3YxV3FzN3cweVhKUzl3NnBueVQ2M1FVVG1jbnYzRnAwQ1RJNVJtYjk4RlpB?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-08-30T00:50:00+00:00"
+    },
+    {
+      "t": "나랏빚 메운 반도체 호황… 삼성·SK 상반기 법인세 11조 넘겼다",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2Y2VIYk1US1gxY0Vha3VIc2tpQzJmRUNjSHktS2I2LXYwbTBhRGMxd3NyS19uT3NORGx2N0dTdkhFakZBeUFoSlJrWUkwbGZObWVZTFV5MkMtbXlEWFR4eWFVenowMjFz?oc=5",
+      "s": "한국NGO신문",
+      "d": "2026-08-30T00:48:33+00:00"
+    },
+    {
+      "t": "호남권 반도체 클러스터 '광주 군공항 이전후보지'로 무안군 망운면 일대 선정",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aVVdXTU1IWm5tTXZwTmU3OWhyNUdnYTEzZERBc2FtaDJrd3BhMFR0cU9jek82QllSWlpucUVLd1p4dEtNLVZFSzlvejBwdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-08-30T00:46:09+00:00"
+    },
+    {
+      "t": "컴퓨팅 파워·메모리 쌍끌이에 中 반도체 설계업계 '활짝'...실적도 고공행진-Xinhua",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8waFZMWmhTSktoYkh3YmpHcmdWUkZ1dlZFcFNrQTVDZ2hZMzZMd1Itbl93RThKUlVLSGhCbVVoYVprRVE2Y2d1aTZoQ3oya1pQQmNJc2dEWWNVdHlUd3JtY05mWUlDMHp3TWxRRkoyREpRY1lr?oc=5",
+      "s": "신화망",
+      "d": "2026-08-30T00:44:00+00:00"
+    },
+    {
       "t": "반도체 수출·금리차 축소에 원화 강세…원·달러 1,300원대 초반 전망도",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENFdzYTExZDMyWkFncFhGYTVtYnNlQnZ1RnZqYlp2QTNGaXJyNVZ0cFB3NWZTOGo0M29BTmtmV1E5QzRiaFBpczVDeXBnT0l6ZzhpN185SHg1YnVSLVRENEdiM2pMZkNoN2JVVVE0bDXSAXRBVV95cUxPVVBsVU1CT3J6cDAzTFpWQklLXzdqUjFFbVI2WGNUSmk0Vm5OOF9VTFBkUF9DRElodkJEcl81Y1otRjdiMngxNTUtbUViUTlUOXR2VW41R0lZQlc4MnRrQjgwaXM5WDZnSWZ4QmRMZm5YSDdoYQ?oc=5",
       "s": "산경투데이",
+      "d": "2026-08-30T00:42:00+00:00"
+    },
+    {
+      "t": "규제 강화에 한국 개인투자자들, 레버리지 반도체 ETF 이탈 가속",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aTlpYU3lhemIwblNMbU1sLXJyejZYZUZuTVRONXdKVzJWdzlrN3c5dzg4NmhTT3k2U3RNNE81Z25Nam5ONHJBZ2lLeWVlY3Rhc1hrc1Q4UzhMTzVscllWY280ZzJmWXBiUy1ja3ZTNVQ?oc=5",
+      "s": "Investing.com 한국어",
       "d": "2026-08-30T00:42:00+00:00"
     },
     {
@@ -37,52 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-30T00:41:29+00:00"
     },
     {
+      "t": "정점식 “성장률 전망 상향은 반도체 기업 성과…김용범, 정부 성과로 포장”",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yRE0ybk5FT0JNa2pxR3NFbUFEbkNfT0Fmbkp5dTZWZFctMHI2V25JSHotVl8xY2d3cU1HeXcyWnAwY1o5VmRHV3I5QTF3R1dtdmIyWA?oc=5",
+      "s": "이투데이",
+      "d": "2026-08-30T00:41:00+00:00"
+    },
+    {
+      "t": "트럼프가 발탁한 워시, 중간선거 앞두고 '금리 인상' 시사…백악관 정면충돌 위기",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nQWxxZlVsbFFfQjlKZFVVMy1WZnM1Qko1Nk1nNWZvWFVUZHAwYVB5aEdySXZXazJjOTNBUzd0Z0hQWnIxMnh2eU1iMWhLWUJaR1puV2tlS0JyOWYtR0hFR2ZURXBleTVQek9BR3V1TdIBc0FVX3lxTE1tcFpZUG9OU2F5RDNZdnFjTHJtWDZITS1mbzhjZVJiYmlYdnlJOG9HV3A0ZEl4SFVuWWgzdm9XbTNoQllRMkhZSnZqQXBzd00zVGxOYjQ4WVM4Rkd4c1k3UzVXV1hZaW5mUzlhNUJ4cGtIOFk?oc=5",
+      "s": "뉴스웍스",
+      "d": "2026-08-30T00:38:00+00:00"
+    },
+    {
       "t": "워시, 9월 금리 인상 열어둬…시장 확률 36%→56%",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Idmh3b1dfYVk0TGh4NkxVeGJ6dzZfZThpdlpWam5YU0YyY24tc3dUSlpDRXJHLURsLWJLaDl1eUR0LW4weXVJWktBQ1RvUE1tSjRlSHBOQmF2MlNTbXNaWFRENi11TDJGV0xGOEdGdllkZw?oc=5",
       "s": "톱스타뉴스",
       "d": "2026-08-30T00:37:57+00:00"
-    },
-    {
-      "t": "[금융권 말말말] 워시 의장, 잭슨홀서 매파 본색…\"물가 안정 확신 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3NU5JY3N6WFgxalBOMHY0bU9NT0x2c0RndFFpa3NSQU95VVdSbDc1cUdsMVVJeDJKOXZmNUpJbUdpVktoaXNKUk9kZGFUajdPT0M0dW00RW02cTlNWUMySWFFeXNnQk9jNXA0bU9fSUI?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-30T00:37:09+00:00"
-    },
-    {
-      "t": "임금·물가 상승에 사라지는 김밥 가게…브랜드 매장도 못버틴다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TdVhQWWZiblk1SDVJWTZUN0VFb0xFSTVPODJveDR2ZVJpbGdCSUpBM2VhdTFYeUVTWXdOY3U1TnNsNWM4bF9ZdmYwZzRHQzQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T00:33:53+00:00"
-    },
-    {
-      "t": "하정우 “에너지, AI·반도체·모빌리티, 우주산업 연결해 전남광주를 글로벌 AI 핵심 공급망 축으로”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRZDhnN2FSN0sxLU1LT09UZThodWFFejNjdUl1V29zY2lXZHdfeHdWdW5lWlR4M21mVG1BeWswcnNWUnBrZzFxbEhZRElDQQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-08-30T00:33:02+00:00"
-    },
-    {
-      "t": "금융당국, 증시 위기 때 투자상품 구조 바꾼다…긴급조치권 확대 추진",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tY2R3ckZDTG5oOHhPSXNGbjZtMUJUZUo2bXNoRE44X1RrMmRmTmdaZnZNWkJsMWlVeTJrZXVDRFBuVFNKMzMzRmJNVXRsYTJyc3oyaFhhZXR0dnNJSW92emJhU1JvM2RTWWtSVnRMRG3SAXRBVV95cUxPaFZkYW5NcWw5NFRfM0xHVUJyS09QeVQ0XzlGZkYwMExpcnEybWVBLWVhcndwNmlIRzYweTFiNUluT1ppeXBndVRKTXhINElJV2EyWDR0MXNUU0h0SUxueGx4RzVJa1IwSmVSRnhCd21WRnFRZA?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-30T00:32:07+00:00"
-    },
-    {
-      "t": "[구미 로봇에서 반도체까지] KEC ‘오픈 파운드리’ 구축 수면위…구미, 국방 반도체 거점 노린다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90Wnp4TG9LNU1idkxOOG1WQWZHVDl1VlJJRkhySFRhbGhZS1NuRzMyNnU3bngwck5CUWd6R1JSU2NwdEQ1WS14QUNJeHFGSTg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T00:30:01+00:00"
-    },
-    {
-      "t": "4극3특 호남권 지역자율R&D 시동",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80aVVNQ2VyQTBhbUgzTTFVb3FQRURHenB6SlMyQk43cWpQR09hWHN4Z0VjZUh1RlhMelBMMmdSb2FueHdWdFRKUGtHakRnWWwwYzhsSWx3?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-30T00:28:37+00:00"
-    },
-    {
-      "t": "[구미 로봇에서 반도체까지] 삼성로봇 생산 참여, 반도체는 위탁생산…구미 산업 재편 시동",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WQnkwYkNpTjVudUtwNDZ6RGh6NUI3cUNRbThsSHoxd1pxT1VJSmZjVWktdTZEdHJhellDckhZQ2VuZnJRWS13aGY3OElxeVU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T00:25:42+00:00"
     }
   ],
   "asof": {},
