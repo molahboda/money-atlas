@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T03:15:59+00:00",
-  "quotesAt": "2026-08-30T03:15:59+00:00",
-  "newsAt": "2026-08-30T03:15:59+00:00",
+  "fetchedAt": "2026-08-30T03:30:59+00:00",
+  "quotesAt": "2026-08-30T03:30:59+00:00",
+  "newsAt": "2026-08-30T03:30:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -37,16 +37,16 @@ window.LIVE_DATA = {
       "d": "2026-08-30T03:09:00+00:00"
     },
     {
+      "t": "한은 “반도체 호조가 물가 자극… 과거 사례 보니 근원물가 최대 0.4%P 올라\" - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWRwRmRrTUJfNWRTWGRyNTM2cTM3TW5RSi1FRnlWd2I3RFJlbVAwLURhdzVJTTdpWVlMbVQ2WEtLUnZQQ1BPcEp5VkMwUVh3aS15VDFHWndQMWluWEhnZmMwcEwxWmlWeUFrNkR3d0NUTnpyWl9FVnMzV2pvMEpfUFZjWnl4UdIBmgFBVV95cUxPUjJyblBCaU9ZVzU4VXQxS1FWYmdSdUZ6b1VlV2JMblh2SlFXQ3BvMnU3Q1JUVkR6RVNMaHNzWHRBWS1oRUItRmh5RGFoWDVKUGhCbDgzb3VWTW9rWGN4V2dGNVBTZlRIQUx0dl9VX3lmNTlqbGkwbUg4V011X0NXc2hVQnhhTjIwQWhuQ2dfOHNEcjUwenFMckF3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-30T03:05:24+00:00"
+    },
+    {
       "t": "금리 올리며 \"호미로 막았다\"는 신현송, 물가 압력 크다고 보는 이유는",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTlHOFdVU09hQURnODhJSG9YUjJydk44WGwzUF9WeThzNWdXelNic0R2MzlTWTF5U19pUEVNdUtyUWVXaTdZRW1HNW10SDRQWFB4ZFJXYjJEV2NNN0NoMk1qa1dYcjBFYkxESTRGSm5TdVN0Ulg1SGE0WlhZdG9TQWNieXM1eHlJekRNRkNR?oc=5",
       "s": "조선일보",
       "d": "2026-08-30T03:04:37+00:00"
-    },
-    {
-      "t": "한은 “반도체 호조가 물가 자극… 과거 사례 보니 근원물가 최대 0.4%P 올라\" - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWRwRmRrTUJfNWRTWGRyNTM2cTM3TW5RSi1FRnlWd2I3RFJlbVAwLURhdzVJTTdpWVlMbVQ2WEtLUnZQQ1BPcEp5VkMwUVh3aS15VDFHWndQMWluWEhnZmMwcEwxWmlWeUFrNkR3d0NUTnpyWl9FVnMzV2pvMEpfUFZjWnl4UdIBmgFBVV95cUxPUjJyblBCaU9ZVzU4VXQxS1FWYmdSdUZ6b1VlV2JMblh2SlFXQ3BvMnU3Q1JUVkR6RVNMaHNzWHRBWS1oRUItRmh5RGFoWDVKUGhCbDgzb3VWTW9rWGN4V2dGNVBTZlRIQUx0dl9VX3lmNTlqbGkwbUg4V011X0NXc2hVQnhhTjIwQWhuQ2dfOHNEcjUwenFMckF3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-30T03:04:03+00:00"
     },
     {
       "t": "한은 \"근원물가 상승률 2% 중반 넘으면 인플레 광범위 확산\"",
@@ -55,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-08-30T03:00:21+00:00"
     },
     {
-      "t": "다시 뛰던 비트코인…연준 의장 발언에 '주춤'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83R1JIMXhwY1N4dDVlTnlRRXJic01qZFN3cUtBTG9jYWNtTTFSSW5aRHFPNloyQlJTUWFQS0t4RnpWXzlUenB3WDZWVHcxWHlpQWkzUUlULUVOeGt4eEdwYVNWUVBSM0o3SkE?oc=5",
-      "s": "비즈워치",
-      "d": "2026-08-30T03:00:03+00:00"
+      "t": "한은 \"수요 압력에 물가 상승세 더 광범위하게 확산 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3N05tNGhZWGdaX0kzSnlndjVaNEp3d0VBQTBUUDdxVUg0QzZHVFF5bmhaWXM5Ynk4ZDFVNzRhNWFHUnRjMDRMeExzTDJUcGxnTVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-08-30T03:00:05+00:00"
     },
     {
       "t": "이미 도달한 2% 중반 근원물가…한은, 물가 상승 광범위 확산 경고",
@@ -79,9 +79,9 @@ window.LIVE_DATA = {
       "d": "2026-08-30T03:00:00+00:00"
     },
     {
-      "t": "[주간증시전망] 하방 재료 소화한 코스피, 7천 넘어 '8천피' 정조준",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWhEcE5BZDByLWdLSWlNY1NpeDRlT2s3dW9VMzJEZ0lHY3RjYzFIWXBSbS1HLTJTR3BZMEJ3ZlpmZGI4bEkxQWxBSUtPZ2tDWGs2cWtIZjE3cWlMU1JmWXhDdXVUSFFzZE1BV2Rpa2dZVGNZLVhMTUdFT01OWHJUZms3MWxWRDlW?oc=5",
-      "s": "글로벌이코노믹",
+      "t": "근원물가 2%대 중반 되면, 전 품목 ‘덩달아’ 상승 뚜렷해져",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xbExMaFdDaVQ0TU4ta3lNWTFWRHFWTF9fMmdxOFY4Y0Qtb0RSYVl1T2Q1cDhzUGE3bzZsVzIzbGNCLUNGTE1xd08yZFUxVGc2QUtYekpKaTVIUXhCMC02eFJHVVJDWjdiMUgtU3dUREV3UQ?oc=5",
+      "s": "한겨레",
       "d": "2026-08-30T03:00:00+00:00"
     }
   ],
