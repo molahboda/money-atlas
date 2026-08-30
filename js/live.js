@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T02:01:00+00:00",
-  "quotesAt": "2026-08-30T02:01:00+00:00",
-  "newsAt": "2026-08-30T02:01:00+00:00",
+  "fetchedAt": "2026-08-30T02:15:59+00:00",
+  "quotesAt": "2026-08-30T02:15:59+00:00",
+  "newsAt": "2026-08-30T02:15:59+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "속도 붙는 한-인도 경제협력…소비재·반도체 등 진출 확대 본격화",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zaWtYNzRxNWtLNlk2UEs2elhjdmJHckZqbXQ1LVgzMG40cExXdWc1eDJISlZ0RjJLQmtzdDl0cnZ4UmlVXzBKVDJpM3ItNEU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T02:01:50+00:00"
+    },
+    {
+      "t": "'기준금리 3% 주담대 8% 시대'…가계부채 잦아들까",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QeGFOWmVpdkg3cGwwNExjQlRoaHhJTWpkbDdQaXFodzZTZDdudUhmbUt0VzBFcnA3LVAzMFMxeEpiNEs1SF9rdGp3RUlvVHNENEt5NVpkeWNiVkVUUjFpNk8xbUZNZ2pjcGRZ?oc=5",
+      "s": "비즈워치",
+      "d": "2026-08-30T02:00:02+00:00"
+    },
+    {
+      "t": "9월 美금리인상 우려, 코스피 향방은",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01clFBSEZiVmRsZ3BJdnRhZUZJNzB0OW11akduRlFLWElNZXFSVFNQSHU3V2RxNDlNRnp6Y3Q4WTU1djRadmUzOE1XTVNiX2tDN1hWNGJOWDlPSUdWYjhQdjdRSE5hZFU5Mnp3Qg?oc=5",
+      "s": "중소기업신문",
+      "d": "2026-08-30T01:58:05+00:00"
+    },
+    {
       "t": "신현송 한은 총재 \"원화 면역력 생겨…대미 투자, 환율에 부담 안 돼\"",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Wc3J0cXFZSWR1OFFQc2U1WVpoU0NRbHdnN3VsNEtVbTRydHBqWW5KdVo0UEN0cXRXdzhFb1dRY2tWOFNRN0tPVnN4RE5BWkZxN1JUb19tOEg5U2ltckVYN2tZaw?oc=5",
       "s": "조세금융신문",
       "d": "2026-08-30T01:57:42+00:00"
+    },
+    {
+      "t": "신현송 \"원화 면역력 생겨···美 금리 따라갈 필요 없어\"",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ud0dOckoweVQ2bmxrUXd2LVhiT3pINjY5MmswRGR3elJ6alNPWTczalNDaVBwRGVkZ0owMlM2SjFnd2FVMHRhdEdraUNyN0F5QV95N2JjOXpfMk5OeHhfUTM5ZlNUSGhBSmc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-08-30T01:57:20+00:00"
     },
     {
       "t": "금통위 연속 금리 인상에도 크레딧 ‘캐리’ 부각…발행 회복은 미지수",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QV2VvaFFZU0JMS0hFbXRsbVZRSUszcWZiRWJsRnRjeDRXd1V0b19qR01Sd3gxZHlMeDdaOUVUQk0tc1VraUNWWmZXZFFkQzFVWGFZM0xDNTYzVWIzUG12dFN4RmtUVGN5LUx3Um5B?oc=5",
       "s": "더스쿠프",
       "d": "2026-08-30T01:31:26+00:00"
-    },
-    {
-      "t": "수도권 집값 잡으려 올린 금리…세입자 월세 부담만 키우나",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpY1ZXLTZHMm5fV09CNVJyTjlIMXFkVW1pOHRqbl9NODV6WlJVZXRFLXVZSi1fZFF0ZnpaLTFxQVZVb0FkaUltZzJUYTlJVzdxWkZHVUVSMHRGVDEzRkZ0MUJ4RERjLU850gFsQVVfeXFMUFFRTkZKazg2VlhkbUoyMmVpZmdCLVNmeDdRbWN4NUtqMVdHekV2MTBUM0VON2pxYjZPMFhVRXItR25samRxY0g4Y0lOTXNXM2NLN09MVzU2Y3hGUXZ5QkJ2UUQ3Y2dPeGJHRW9n?oc=5",
-      "s": "직썰",
-      "d": "2026-08-30T01:30:00+00:00"
-    },
-    {
-      "t": "반도체 호황 '낙수 시차'…온기 돌기 전 '이자 폭탄' 맞은 가계",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNUc4cGVwaGpzV3pVbXVrNlBBUHFDbUR1a3lIZ3lIMWx1S1NfNUpMNkFVSnEzM3BvYlpPODJXSS10T0ROb1ZWSTdZZDJhcGM1TE93VNIBWkFVX3lxTE1lN05Hcmt4QktIYWlBOTFQSVRpUkgycHFtNkhUTWw3cmJBLXYzbUpFSHc4NlF3cmJIZl84anlxYjZfWlB3UGhCQmw4ZV9PaWt4dlh3U2RxM3lMQQ?oc=5",
-      "s": "뉴스1",
-      "d": "2026-08-30T01:27:46+00:00"
-    },
-    {
-      "t": "국내 증시 부진에 서학개미 美증시로…두 달간 9.7조원 순매수",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zb0g1ak9teXBQZ2U3Y1ppNWdTc3ZpbExGVGhkbVo4UGJsT0E0blBkTnRIVXdib3o2MGFQd1o2T3VHdnBYR0w1YW1HUG1Hd193eFVqOFV6ckVsUENXVUx0S1ZzZ2RXV2RiTWJqMlJIambSAXRBVV95cUxQVS1uZ0FveWdnREsxTW0yclduNV90UWVvMjFtVHlfdjVaMjJrbzdzcG5WLVltdmxGYnByTVRFblYtek9hRFZodTlwa3VzTkNSQkpfUlZwWkFOV2lmY25BTWppN0E4VnBieFdyUkxvOEVPY0plUg?oc=5",
-      "s": "산경투데이",
-      "d": "2026-08-30T01:25:18+00:00"
-    },
-    {
-      "t": "삼성·SK하이닉스, 상반기 법인세 11조원 돌파…반도체 호황에 세수도 ‘역대급’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVzVRazlCelZzNTdXMWNUTVc4cU04bWNsUGlGVWNCMEZYVExEcE9ZazF4YXVqTDZVRm91ZGJoOV9PcHlaZU1qb3ZiY2hQQlk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T01:25:07+00:00"
     }
   ],
   "asof": {},
