@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T07:45:37+00:00",
-  "quotesAt": "2026-08-30T07:45:37+00:00",
-  "newsAt": "2026-08-30T07:45:37+00:00",
+  "fetchedAt": "2026-08-30T08:00:40+00:00",
+  "quotesAt": "2026-08-30T08:00:40+00:00",
+  "newsAt": "2026-08-30T08:00:40+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "'친절한 연준'은 끝났다…\"워시노믹스, 깜깜이 금리 시대 시작\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SeUtWd3QzU3dlU2dWajZkU21xUlB3UjJmMXRKVTlIbmxndzgwSHdRTXM5RDBxUFVkSUtFaTJWaTlYenBCaDh2OWRpVXVUenc2d2NhNXhMUGhKYThOdmdnYjhGNWVNV0M30gFuQVVfeXFMUG1KWlBMc05iTm95M1RMRzhNUng1MW45R1BOWXVrdnBkVzBYNkNucjlxZGNOMUZDaExybURkQUR2bWRadGNyd1BCWjllZEtSVmVSS1BSR1kwbTlZcFRrQVRvUU9pZzdmR3Nya3EybFE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-08-30T07:41:47+00:00"
+      "t": "저소득층에 더 가혹한 물가 상승…식비부담 더 크게 늘었다",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qemYwODZ6ZVgzLTczTjR2S1VfZEV0Y1dvX0sxSmt3UnJBR3g4UnMtWG5aV19iZ0pFRG50Um5xX21GS3FKMXU3ZDRkQ0VyLU1McXVTQ3dUYS1ESFdOcFp0YTNZUVc1RTg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-08-30T07:53:00+00:00"
+    },
+    {
+      "t": "[마켓 ING]박스권에 갇힌 코스피, 종목 장세 이어질듯",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xRmh1SXZXbFZOR1JqV1hVcDBRM1RhbGo1d3VXdGhJaEt1UXh0VmJaaVplQTFBQVRzR296VUhxUVh2cUlQVFk0bUY5X2dFaG82VDV5TkYzTUxlYi1XeVk4TXV3?oc=5",
+      "s": "아시아경제",
+      "d": "2026-08-30T07:52:00+00:00"
+    },
+    {
+      "t": "신현송 “원화 면역력 생겨⋯미국 금리 기계적으로 따라가지 않아”",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZRk1LUXU5WGpVa0M4SUVieUpveXVFRXVTQWplWEZveTBOb3JhQWRSbHowLURLeS1mWDV6TDY5V1dBZmt1akpKX3M1ekkwWU9GZm96Zw?oc=5",
+      "s": "이투데이",
+      "d": "2026-08-30T07:46:00+00:00"
     },
     {
       "t": "워시, 트럼프와 대립각 세우나…금리 내리라는데 인상 시사",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qb0ZhMW0xVS05TGN6Tk5oSVJ5VG90T3RfLTVWZkdDS29CaGROUmNScF9CRkp0cVh1NEw1NHQzazVfOGUtSWVYb3dob3huVE83ZUFZVnVn?oc=5",
       "s": "중앙일보",
       "d": "2026-08-30T07:01:05+00:00"
-    },
-    {
-      "t": "백투백 인상에 증시 혼돈까지…단기 예금에 다시 돈 몰린다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Iby1YUjJOOWl6WFdWZ3RzdW9HRDM3OHVKSHA1Q29HNXFOaXJvWmJadUVub01USTFNZFBsNVlySm1wcWUyX3FseVRxYmtFb1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T07:00:23+00:00"
-    },
-    {
-      "t": "[신아 AI 만평] '연준 vs 트럼프'...경제를 건 레버 싸움",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uRFlGYUtTQkhFX1BVMU03X1RmM1FNaDEzbldjMi1UMTBWNUdhRjZXVXdCUUhGZHRMNEdpNzFVZ2Y1SGVoeHhmRUdjMERuZFhtVXQtOUhNVl81c0hQVnZabzM0cVpqYXF0aktVcUpxRHU?oc=5",
-      "s": "신아일보",
-      "d": "2026-08-30T06:46:57+00:00"
     }
   ],
   "asof": {},
