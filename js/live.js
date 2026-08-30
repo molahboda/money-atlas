@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-30T06:00:49+00:00",
-  "quotesAt": "2026-08-30T06:00:49+00:00",
-  "newsAt": "2026-08-30T03:30:59+00:00",
+  "fetchedAt": "2026-08-30T06:15:37+00:00",
+  "quotesAt": "2026-08-30T06:15:37+00:00",
+  "newsAt": "2026-08-30T06:15:37+00:00",
   "quotes": {
     "kospi": 6788.88,
     "spx": 7711.76,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "미·캐나다 관세전쟁으로 한국 화장품(메이크업·헤어케어)에 유리 분석",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CNzkxOFJTak9NNFkxZDlPZGtQUGI4dmF5dV9wREJyU3hiSUFqei02eDdsaG5yajAzQnphMmFPbnJscG1lWElMMndPMUZseHdiNmxybHNOLWdWUmE3YXFEM0p3?oc=5",
-      "s": "cncnews.co.kr",
-      "d": "2026-08-30T03:11:11+00:00"
+      "t": "\"다시 커지는 금리 모멘텀, 은행주 재부각\"하나證",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAweUstYmdndlpXU1JUcEZxNmlxbEN2X0ttb0Zyc0M3SUJWSjFJMlJnMGhTdDdlX1Bsc3FDYXEycUlCeHk1eDJRQWtYMl9PMGNrZGxyUlpVRWR3LWpXZmM5MUJDVTl4SXNRYUoxQnc0cDgwWFZmXzRR?oc=5",
+      "s": "thecommoditiesnews.com",
+      "d": "2026-08-30T06:10:38+00:00"
     },
     {
-      "t": "한은 “수요 압력 커지면 근원물가↑…오름세 지속”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LS1lhYlRZV010VjRKNl9NVFJVMEVHYkwzakxwOUQyd1h6T3c2N0w4R2ZoNW9SU1VFZnFtWmkwVXQyWTlWY2JLZEdyYlREQXExMko3Z09NRTBqLWM?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-08-30T03:09:00+00:00"
+      "t": "‘롤러코스피’에 두 달 새 52조 몰렸다… 5대 은행 정기예금 첫 1000조",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43aS1sTkQwMi1PcnJyQUZPcXJVdHB3LVVLeXVBX3dIRW0ycDB3eXNlT09XUml4SzFydnU3d0RJQndLdG01MXdiWDhlRXZ1Ml90bkFxR0pNYm01MEZyNlJjS1BiblFFNkJGNnJrbEFVRQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-08-30T05:52:17+00:00"
     },
     {
-      "t": "한은 “반도체 호조가 물가 자극… 과거 사례 보니 근원물가 최대 0.4%P 올라\" - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWRwRmRrTUJfNWRTWGRyNTM2cTM3TW5RSi1FRnlWd2I3RFJlbVAwLURhdzVJTTdpWVlMbVQ2WEtLUnZQQ1BPcEp5VkMwUVh3aS15VDFHWndQMWluWEhnZmMwcEwxWmlWeUFrNkR3d0NUTnpyWl9FVnMzV2pvMEpfUFZjWnl4UdIBmgFBVV95cUxPUjJyblBCaU9ZVzU4VXQxS1FWYmdSdUZ6b1VlV2JMblh2SlFXQ3BvMnU3Q1JUVkR6RVNMaHNzWHRBWS1oRUItRmh5RGFoWDVKUGhCbDgzb3VWTW9rWGN4V2dGNVBTZlRIQUx0dl9VX3lmNTlqbGkwbUg4V011X0NXc2hVQnhhTjIwQWhuQ2dfOHNEcjUwenFMckF3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-08-30T03:05:24+00:00"
+      "t": "대구경북 광역철도 예타 통과…동구미역 가시화, 반도체 등 첨단산업 경쟁력 강화",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcWhLS3FvRlFFYnZVVEhkSmdEaFJRTXh0NmdudF92NDRNLWxnRWJxOXFLMnZZdzZVUmIzRUtPTUFPb056VFUwYjRjV0YtS2xkM0hTNks1cUlXaEFJNkxXY1FQQUREaGgw?oc=5",
+      "s": "대구일보",
+      "d": "2026-08-30T05:51:19+00:00"
     },
     {
-      "t": "금리 올리며 \"호미로 막았다\"는 신현송, 물가 압력 크다고 보는 이유는",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTlHOFdVU09hQURnODhJSG9YUjJydk44WGwzUF9WeThzNWdXelNic0R2MzlTWTF5U19pUEVNdUtyUWVXaTdZRW1HNW10SDRQWFB4ZFJXYjJEV2NNN0NoMk1qa1dYcjBFYkxESTRGSm5TdVN0Ulg1SGE0WlhZdG9TQWNieXM1eHlJekRNRkNR?oc=5",
-      "s": "조선일보",
-      "d": "2026-08-30T03:04:37+00:00"
-    },
-    {
-      "t": "한은 \"근원물가 상승률 2% 중반 넘으면 인플레 광범위 확산\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uT0lNX2NHZmMzX29HZEQxYnpFRkxDbmFxSXBNOVItc2QwUWVIS1pmZ1NpTlhUb1I0X2hXdmV5ZTNxd2VUYWM3bFcxLWZHaTZTMFRIaXRPUXptQXktNHJEWjAzQXprN3JEeTVOWkFtckM?oc=5",
+      "t": "李정부 2기 경제팀 이끌 이형일…'부동산 세제·물가 안정' 과제 산적",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWDlRWXRkMm02RE15TEphXzZUZmVtR0FiTlZ2cUs2NENmcFU2LXhxMUd2OEYwVE5EZHI0cGJxeC1EYVBLUEpodGk3ZDZyQ1czSlNnS2NZdngta0lzU3pXSnVLT182X3FDeTZCeW9DUUw?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-30T03:00:21+00:00"
+      "d": "2026-08-30T05:47:52+00:00"
     },
     {
-      "t": "한은 \"수요 압력에 물가 상승세 더 광범위하게 확산 가능성\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3N05tNGhZWGdaX0kzSnlndjVaNEp3d0VBQTBUUDdxVUg0QzZHVFF5bmhaWXM5Ynk4ZDFVNzRhNWFHUnRjMDRMeExzTDJUcGxnTVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-08-30T03:00:05+00:00"
+      "t": "[뉴욕채권-주간] 월러, 9월 인상 동조할까…다가오는 '침묵 기간' 변수",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lTjVRUUJNRXcyN0dQVUZHNTlHc19JZFNFb0ZrdFp3MGFPZ1dzc3pVUnltVU9aRVNPM09QNU9QNFVxYmlzNmIyaGxiMks3TGZlZXgtMDFlSlEza2F3NWNnSllqSm1CNkhqUll4b0k5Rk9hUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-08-30T05:38:48+00:00"
     },
     {
-      "t": "이미 도달한 2% 중반 근원물가…한은, 물가 상승 광범위 확산 경고",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QkZ3cFViX0k5bWoxcnh6NFkxT1ZhNUJ1R3otZmtHMC01aW1JbDVXVG5pd3FGT1NEUU45VG1LaUZVMkVUVENrYlIwR3hUcUs0eHZOY21JUmw5Y3pGYUxQOA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-30T03:00:00+00:00"
+      "t": "[글로벌이코노믹 사설] 기준금리 3% 시대 취약차주 비상",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa0hHV0w5N2Z0dUlvS01MYUh1c2U2MFhvSVpDeE9GMlBGWHVyRXRITUNDRGRJbXVpM051dGVLanc1d3YxUm51azlLVG9SVFpkQkotVzZBcjVGeXlkU3NXX3F2R1Z5Y2pQX2tKdUlVdHE5TUJGYy1MRGZrdS1hRUJ5ZVBR?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-08-30T05:34:56+00:00"
     },
     {
-      "t": "수요발 물가압력 가시화…GDP갭 1%p 확대시 근원물가 최대 0.4%p↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TTnBONzNhdXdvc1ppZEUxNmQ5UllTSHdkSXlONzZZWWxqbzNwb0dPOXZsbjRVYU10V2hpRE5LY2Vzbm1HOWE2eGF2bHhoRDhjVkVpeC1LdFpYWjl5WkNYTA?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-08-30T03:00:00+00:00"
+      "t": "한은 “근원물가 2.5% 넘으면 경제 전반 물가상승 이어지는 경향 강화”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xTmNwMHdCZXJGb3dORmplWlJZLXN1RUZGMkR6Y01XRGRJS1VJd21ZSmZUMGxTMXlZNjNORXNxd1FBbUQtV25IbnkzR0s3bDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T05:34:09+00:00"
     },
     {
-      "t": "반도체 호황 내수로 번지면 물가 압력↑…한은 \"근원물가 2%대 중반 주의\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qVkppdk5QR2pnSGJMeXdINjlCalgxMnhfaEZqc3RSbXZNbE9vZTA1U3h6S3BjUVIwRGcxRnpQZVJHTFRFODFSMklzby16M1pIaHpsT1FyUXlLM1RG?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-08-30T03:00:00+00:00"
+      "t": "[아주 사설ㅣ기본·원칙·상식] 다가오는 美 금리 인상, 가계부채·내수 둔화 우려하는 우리 경제 대비해야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSa3BjQ0RqcHhYbEhZU1VOSE1HNXh3UlZCYUNNbUZCamJDVTMwVll2ZGc5bXllcTB6b3ZUSFBOVjFMXzRvVk5nUEhBZjVydEpzdm5LVTduV3J1QdIBWEFVX3lxTFByQnJDVTEwdmhOUUdEVDBuUmtsNlVkNHd4R0xyZzRsMU1pUlR1WEJLZ1hYWGJXTThKbVJYdnZOME9mUFlGTkw4TDFpLVJBWDB1dXJJdnZDaFY?oc=5",
+      "s": "아주경제",
+      "d": "2026-08-30T05:29:36+00:00"
     },
     {
-      "t": "근원물가 2%대 중반 되면, 전 품목 ‘덩달아’ 상승 뚜렷해져",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xbExMaFdDaVQ0TU4ta3lNWTFWRHFWTF9fMmdxOFY4Y0Qtb0RSYVl1T2Q1cDhzUGE3bzZsVzIzbGNCLUNGTE1xd08yZFUxVGc2QUtYekpKaTVIUXhCMC02eFJHVVJDWjdiMUgtU3dUREV3UQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-08-30T03:00:00+00:00"
+      "t": "7000선 앞둔 코스피…'중국 메모리 굴기' CXMT가 새 변수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWW1FdjdfcXFDU2dGSkRfVnU1RHBfRXpfNGNJN09zalFVdHlBaVpfd0JuVkw0ZTdNZzlxbzRZdm5yamhpeVBEWEpva0JFanc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-08-30T05:22:00+00:00"
+    },
+    {
+      "t": "변동성 줄자 거래 열기도 ‘뚝’…코스피 다시 ‘박스피’ 갇히나 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa21Ib1lERk5RVVE2M1JxeTdzZUo4cUctTnA1TExOZ2NXcmsyb0lYdkpjTW1tQWRXT1BhNXlWMGhkYjVDYi1EXzZ1eUVwTEtSVk5UTS11VjFHRTI2c1lQUTZBUEFVR3o0NDROX2kwUlM2anQ3LXFtWlVvOVg2eUxsNTE2b2tXSi1f0gGcAUFVX3lxTE8tZlZZNTN2VXZiVmpHMFpWMW5CdUtTbDZCSll4aE12VklmNmxIci1jWVd5cGhRV0YwRjZFamhMQURwVmRCejFmSlhNOGZTU1pibEtUVTFjYzhEeFJSUWU1ZmF2UE9qV3lpQ1NFVWZndWM5UWhpZnR3ekNDbWg2U3BXUHZQay1KTzBqTUdSMnRDVEowcnBVT2NRRGVmcQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-08-30T05:14:00+00:00"
     }
   ],
   "asof": {},
