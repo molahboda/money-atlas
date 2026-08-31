@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-31T09:15:37+00:00",
-  "quotesAt": "2026-08-31T09:15:37+00:00",
-  "newsAt": "2026-08-31T09:15:37+00:00",
+  "fetchedAt": "2026-08-31T09:30:39+00:00",
+  "quotesAt": "2026-08-31T09:30:39+00:00",
+  "newsAt": "2026-08-31T09:30:39+00:00",
   "quotes": {
     "kospi": 6820.02,
     "spx": 7711.76,
     "nikkei": 66311.93,
-    "vix": 15.21,
-    "krw": 1366.24,
-    "gold": 4490.6,
-    "wti": 86.3,
-    "dxy": 99.55
+    "vix": 15.18,
+    "krw": 1367.22,
+    "gold": 4491.3,
+    "wti": 86.33,
+    "dxy": 99.54
   },
   "daily": {
     "spx": 0.47,
     "kospi": -1.34,
     "nikkei": -0.14,
-    "krw": -1.03,
-    "dxy": -0.15,
-    "gold": -0.87,
-    "wti": 3.48,
-    "vix": 5.41
+    "krw": -0.96,
+    "dxy": -0.17,
+    "gold": -0.85,
+    "wti": 3.51,
+    "vix": 5.2
   },
   "news": [
+    {
+      "t": "광주특별시, ´반도체 금융망´ 승부수···기업은행 유치 실현 가능성은",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTzZDTktnQTNuOG5IdzV2WXN5MHUzbkc1dkFOSWY3QzJhV1ZqTk5mcnJmYmljeGo3Szl1YkFydjVCXzM5YTgyTEV5QzB4UHAtbDFv?oc=5",
+      "s": "무등일보",
+      "d": "2026-08-31T09:23:00+00:00"
+    },
     {
       "t": "“반도체 기업, 농업용수 끌어오기 전에 물 재이용률 높여야”",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GM2VIcHRfZHZhRElPc3VQdVRGQVBINkstSnQ0QXlXLTNSTm1QbF9LOHVpbFFTLXY3QTdDTHNSOW9SUXZMSTZjMTI5VC0zdTlxbTJZYWNkS2h1WUhCZGc?oc=5",
@@ -49,6 +55,18 @@ window.LIVE_DATA = {
       "d": "2026-08-31T08:53:05+00:00"
     },
     {
+      "t": "[도쿄증시-마감] 일부 반도체株 강세 속에 혼조 |",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50anR6QjBDOVFIT1lHVHkydGlVVUNEcWVCSUxfQ25vS2RhSGxUWUg1UDVCb2R0dlVuZDUzMGNpbUo1Y2MxaEFCVWlJVVNSb1h0VEJRQ1hBUVMxTmQ3WnRiZzYxY3o4NXZfN2Y0XzBSSVBuVlJG?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-31T08:52:34+00:00"
+    },
+    {
+      "t": "[단독] TSMC처럼…주문형 반도체 위탁 설계",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tMEFodDZkMEExNkVpYnNuWExQR1JLOURnMnloXzlTQnM1d3c5aWI5endub1oyWG10blRWbjdKeUFwQzB1THZZZWU2Vm8xWFl4WnBuMW8yTl8xQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-08-31T08:51:48+00:00"
+    },
+    {
       "t": "삼전닉스 자사주 매입이 받친 코스피…美 실적·고용 주목 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TdTJxdFRBQk1tMmRmTDhFRHhONElWX1dEMTVCWjQ2OGNVc3liU1hkU1UyMnM0LVZDeXhvQzRoU0lQd2Y3SVBxaUdkaG9WNWdVNDU2YzI5UDd4dkJHWF9HSHBSS2RlNmJr0gFuQVVfeXFMTkY0Ui1aNmE3Z2Z4YndjRGUxRk5VTTlRU0hwR2RHNFZjci1iTTlseFJDU3Q5bjNkVXNoMGZuQzJjSmhaOW5YR2JPcWJLUWNLemtPOXJOU3lUQnZsX3RxVWlweGs1NGhUMmttQmdwN3c?oc=5",
       "s": "머니투데이",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-08-31T08:49:12+00:00"
     },
     {
-      "t": "[도쿄증시-마감] 일부 반도체株 강세 속에 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHZE1YRWpHZWZIakpndm0wR0pGWENlb2JTT1N3X2dYVlRCMDB4aXl0QnRnU2VSU1FIYlZ1OElaUDFNWlVURmh3SVRBT1dJazV5UVFuWkFpNnZYc2x2VlFxaW9DdHZHSVV3QVNvZWdlUVk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-31T08:49:03+00:00"
-    },
-    {
       "t": "증권가, 9월 증시 반등 전망에도 변수 산적…\"저평가 실적주 선별해야\"",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83eFRTc3FQTEx4WDdodzBpQ1JiSGgySE5XZkN1LVc0aHRDZVJBX0E1ZzY2WDdOMHBqOFduaHhwaVBKSUctcUdLS2FDZGt1OFRPLS1ZdGVkZkROU0Zz?oc=5",
       "s": "뉴스핌",
       "d": "2026-08-31T08:45:00+00:00"
-    },
-    {
-      "t": "최태원 회장 \"SK하이닉스, 일본 반도체 공장 설립 검토\"...그간 입장 반복",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNmNvcVlHNTJtM2pzYXE4dHp6VkRidXlaM1NoZUtCcGV0b3RJdnRzWXpERjcyaE5HSW9DQ09CSTk5N0hQNEZWV2Vleml6NHMzY3VSdXJB?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-08-31T08:43:00+00:00"
-    },
-    {
-      "t": "[마감] 코스피, 장중 3%대 급락 딛고 반등…6820선 회복 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVXh3aV9zVW9hdS1rN3k3bm1yTGQyTURFZEFNWk15YjIzUkZhRDVfLUN3akFYR3Y2ZnFuYll1VTRMWHJuTVJ5YUVyOE9UVTlTblRlVlV4a3RBSnBoYmpPWm5UaWF5RXJYZkVVbGMwRFk?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-31T08:42:00+00:00"
     }
   ],
   "asof": {},
