@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-31T09:45:38+00:00",
-  "quotesAt": "2026-08-31T09:45:38+00:00",
-  "newsAt": "2026-08-31T09:45:38+00:00",
+  "fetchedAt": "2026-08-31T10:00:40+00:00",
+  "quotesAt": "2026-08-31T10:00:40+00:00",
+  "newsAt": "2026-08-31T10:00:40+00:00",
   "quotes": {
     "kospi": 6820.02,
     "spx": 7711.76,
     "nikkei": 66311.93,
-    "vix": 15.16,
-    "krw": 1368.01,
-    "gold": 4494.1,
-    "wti": 86.17,
-    "dxy": 99.56
+    "vix": 15.18,
+    "krw": 1367.88,
+    "gold": 4493.3,
+    "wti": 86.42,
+    "dxy": 99.55
   },
   "daily": {
     "spx": 0.47,
     "kospi": -1.34,
     "nikkei": -0.14,
-    "krw": -0.9,
-    "dxy": -0.14,
-    "gold": -0.79,
-    "wti": 3.32,
-    "vix": 5.06
+    "krw": -0.91,
+    "dxy": -0.15,
+    "gold": -0.81,
+    "wti": 3.62,
+    "vix": 5.2
   },
   "news": [
+    {
+      "t": "[채권-마감] 중단기 금리 급등…워시 발언·유가 상승 영향",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtM2NvMDZ3QkZRVnA0NTlUZmswc3Z5SnFMQVBPOWxET0d4NHRNZThHQTg2eFk4TXZaZ0s3TEtpU0hkVTAtRDhTYW05RmRoTk1xdXpUZDk0RUNONU13cGEzZlBQWFl5YXJTVEluMEcyaWw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-31T09:54:35+00:00"
+    },
+    {
+      "t": "반도체 산업 용수 공급, ‘스마트 워터 그리드’로 지역 기반 해결책 찾는다",
+      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1UQTUxRWpfaVJQZWVlQ2VuSmNBSlJzWkVCVDZlMWM5VHBBZW1aV2N6X2JxRjJtRGFvS0hyZHljd3NwZ21m?oc=5",
+      "s": "산업일보",
+      "d": "2026-08-31T09:49:30+00:00"
+    },
+    {
+      "t": "[리얼]신용점수 600점이 더 싸? 대출금리 역전",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sYnVtYy13RXhLZnptXzVWMGg5SWIzWGVaRGI3bktaQTZDNV9MX0xPNi11Rm5ISjJHQXNSWGVGUWhuRFJDR3JpRk9nQWpqYlZu?oc=5",
+      "s": "문화일보",
+      "d": "2026-08-31T09:43:10+00:00"
+    },
     {
       "t": "“SK하이닉스 반도체 폐수 저수지 유입땐 농사 악영향”…안성 농민들, 직방류 철회 촉구",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMUpMZlVjcmd2bElSMHRGNUZ3dHgwQmU5M0h3eVU1YjgtT2RmdkR6NzlnbURuSVZuanJGR0dnOExNeGZCckNWZkhXWHVIZ1Y5V2U4WDFYV2JZdw?oc=5",
@@ -49,40 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-08-31T09:22:44+00:00"
     },
     {
+      "t": "반도체 성과급 어디에...청주 ‘소비’로, 이천에선 ‘집’으로",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZODZTU3dDVlBGUzFxcHFENi1ZVThyblpHUmhwYkdUNlFGbS1GR2JjdEhDclljUjJvdnVLaWp1cjI1NmQ3b1pzejc5TmNtaHZHTHFmZC1JTWl2MGY2OFVtemZJdWlvSlpqM0x2cThGemxvUQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-08-31T09:22:00+00:00"
+    },
+    {
+      "t": "유럽증시, 혼조 출발…유로스톡스 0.09%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IRGwzYUk4MzNMTmlwcGJXSmdWZ1dyV1IxYlRac1BobFBIMHF4aEN5Zm9mUmxYYV82WTB1OGRZZG5QWDVheEhBeThXcHU4c0lDWmxxV2pmZmhob1VfYjljMEtFSkFQa3JCQ1FEYmRuTljSAXRBVV95cUxOTUlnWkcyY0R0c2pxdjFVa0VVV0xtNHRPNlIyd1kxXzJKRnFSZ1hGVktVR2RBRjllelZ1TWM3VFU2NE5CRG5NOUZWUklwOEZtZjhwaWJsR1JsWml3SEJkVjV4b1FCYjlfXzVwcG5ZYzNkR0pJeg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-31T09:20:54+00:00"
+    },
+    {
       "t": "SK하이닉스, 日에 반도체 공장 설립 검토",
       "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KSnFXYkhWczlaR25jRWt6bExaT0Z2cklEbk1HcmthWVB6WHBlM0FSR0VmaDBFazg4SzdBaEptcjRlUlZISmtBUEdibXNjNFlhdTBVelBJeVZ6Qk1FN1QwU2hoNVNlS1BWSEkweXY5RXc0cUZrM1A2YW1kOA?oc=5",
       "s": "서울신문",
       "d": "2026-08-31T09:19:58+00:00"
-    },
-    {
-      "t": "“반도체 기업, 농업용수 끌어오기 전에 물 재이용률 높여야”",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GM2VIcHRfZHZhRElPc3VQdVRGQVBINkstSnQ0QXlXLTNSTm1QbF9LOHVpbFFTLXY3QTdDTHNSOW9SUXZMSTZjMTI5VC0zdTlxbTJZYWNkS2h1WUhCZGc?oc=5",
-      "s": "기후에너지데이터뱅크",
-      "d": "2026-08-31T09:10:02+00:00"
-    },
-    {
-      "t": "곡물·경유·비료값 '동반 상승'…美 식품물가 부담 다시 커진다",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VOVNyQzV1aWpvcHRmb0k3cjVsRFRzZnM4dlZvN3RZTnVrVm5LRHdtYjJJMXJmWWxVVGt1NktYSEpaSVItN1RGOGxnSGV0UFlmeHg4Q1Bsbzd5MVRhOFN4Ng?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-31T09:01:10+00:00"
-    },
-    {
-      "t": "최태원 \"일본에 반도체 공장 검토\"…SK, 합작공장은 부인(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MMDljaGUzVUJocVpXRTdxZFhMVXh5dEpGUFJNbnVYOGxnNS1WUmZpVEp1dllEMVhocHdOOXk1VEJsSWJ1YjlOSDB1Q3gwbDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-31T09:00:39+00:00"
-    },
-    {
-      "t": "할당관세 악용 막는다…'반출 지연' 땐 혜택 환수 추진",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UbnM1aEg4R21VU2IzSmFvSG5Wa1dyRXQzMkNKYnFtRDNhQXdBTTZRTUsyMkdRYVpDQXM4cnhsZS0zVkRPUmpjVFJNaE8td2dGZWdFVmN1SWxQNExGenN3R3h6V29ILVV4R0liRm1Tbl9sdw?oc=5",
-      "s": "에너지데일리",
-      "d": "2026-08-31T08:58:30+00:00"
-    },
-    {
-      "t": "美 금리 인상 가능성에 국고채 금리 상승…3년물 연 3.838%",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xT3F5M2k3XzZZNllLT2piVlFzRmd2WUtqOUxkTXY5RnU2ZlZ4blJQTEZDY1Y0Q0F1TktiaWZNdk5VVGV5RGh0aGRYRXZRSW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-31T08:53:05+00:00"
     }
   ],
   "asof": {},
