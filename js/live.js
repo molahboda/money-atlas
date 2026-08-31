@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-08-31T09:00:49+00:00",
-  "quotesAt": "2026-08-31T09:00:49+00:00",
-  "newsAt": "2026-08-31T09:00:49+00:00",
+  "fetchedAt": "2026-08-31T09:15:37+00:00",
+  "quotesAt": "2026-08-31T09:15:37+00:00",
+  "newsAt": "2026-08-31T09:15:37+00:00",
   "quotes": {
     "kospi": 6820.02,
     "spx": 7711.76,
     "nikkei": 66311.93,
-    "vix": 15.22,
-    "krw": 1366.87,
-    "gold": 4485.4,
-    "wti": 86.17,
-    "dxy": 99.56
+    "vix": 15.21,
+    "krw": 1366.24,
+    "gold": 4490.6,
+    "wti": 86.3,
+    "dxy": 99.55
   },
   "daily": {
     "spx": 0.47,
     "kospi": -1.34,
     "nikkei": -0.14,
-    "krw": -0.98,
-    "dxy": -0.14,
-    "gold": -0.98,
-    "wti": 3.32,
-    "vix": 5.47
+    "krw": -1.03,
+    "dxy": -0.15,
+    "gold": -0.87,
+    "wti": 3.48,
+    "vix": 5.41
   },
   "news": [
     {
-      "t": "저소득층에 더 가혹한 물가 상승…식비부담 더 크게 늘었다",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qemYwODZ6ZVgzLTczTjR2S1VfZEV0Y1dvX0sxSmt3UnJBR3g4UnMtWG5aV19iZ0pFRG50Um5xX21GS3FKMXU3ZDRkQ0VyLU1McXVTQ3dUYS1ESFdOcFp0YTNZUVc1RTg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-08-30T07:53:00+00:00"
+      "t": "“반도체 기업, 농업용수 끌어오기 전에 물 재이용률 높여야”",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GM2VIcHRfZHZhRElPc3VQdVRGQVBINkstSnQ0QXlXLTNSTm1QbF9LOHVpbFFTLXY3QTdDTHNSOW9SUXZMSTZjMTI5VC0zdTlxbTJZYWNkS2h1WUhCZGc?oc=5",
+      "s": "기후에너지데이터뱅크",
+      "d": "2026-08-31T09:10:02+00:00"
     },
     {
-      "t": "[마켓 ING]박스권에 갇힌 코스피, 종목 장세 이어질듯",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xRmh1SXZXbFZOR1JqV1hVcDBRM1RhbGo1d3VXdGhJaEt1UXh0VmJaaVplQTFBQVRzR296VUhxUVh2cUlQVFk0bUY5X2dFaG82VDV5TkYzTUxlYi1XeVk4TXV3?oc=5",
-      "s": "아시아경제",
-      "d": "2026-08-30T07:52:00+00:00"
-    },
-    {
-      "t": "신현송 “원화 면역력 생겨⋯미국 금리 기계적으로 따라가지 않아”",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZRk1LUXU5WGpVa0M4SUVieUpveXVFRXVTQWplWEZveTBOb3JhQWRSbHowLURLeS1mWDV6TDY5V1dBZmt1akpKX3M1ekkwWU9GZm96Zw?oc=5",
-      "s": "이투데이",
-      "d": "2026-08-30T07:46:00+00:00"
-    },
-    {
-      "t": "워시, 트럼프와 대립각 세우나…금리 내리라는데 인상 시사",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QelE0TTd3c1J4NmU3NHJNeTZFd1g1UWdSZG1kcmdHbWtUUm9ETFFjWUwzS2tXanVWUDlBSnZyNXdtanlLV3FLRHF3Qm5wZzg?oc=5",
+      "t": "최태원 \"일본에 반도체 공장 검토\"…SK, 합작공장은 부인(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MMDljaGUzVUJocVpXRTdxZFhMVXh5dEpGUFJNbnVYOGxnNS1WUmZpVEp1dllEMVhocHdOOXk1VEJsSWJ1YjlOSDB1Q3gwbDQ?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-30T07:28:07+00:00"
+      "d": "2026-08-31T09:00:39+00:00"
     },
     {
-      "t": "물가 잡자니 트럼프와 충돌…워시, 9월 금리 인상 '딜레마'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LeDdMQWlWdVRHYi1oYmJ6R1RPcXdYc2hOT3VaUUFEcU1nbmZ4ekFkTzUzUW5GV3lpOGRvdlhyZUlwZE1IM3JXQ2k5Ml9UUlE?oc=5",
+      "t": "할당관세 악용 막는다…'반출 지연' 땐 혜택 환수 추진",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UbnM1aEg4R21VU2IzSmFvSG5Wa1dyRXQzMkNKYnFtRDNhQXdBTTZRTUsyMkdRYVpDQXM4cnhsZS0zVkRPUmpjVFJNaE8td2dGZWdFVmN1SWxQNExGenN3R3h6V29ILVV4R0liRm1Tbl9sdw?oc=5",
+      "s": "에너지데일리",
+      "d": "2026-08-31T08:58:30+00:00"
+    },
+    {
+      "t": "美 금리 인상 가능성에 국고채 금리 상승…3년물 연 3.838%",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xT3F5M2k3XzZZNllLT2piVlFzRmd2WUtqOUxkTXY5RnU2ZlZ4blJQTEZDY1Y0Q0F1TktiaWZNdk5VVGV5RGh0aGRYRXZRSW8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-08-30T07:26:20+00:00"
+      "d": "2026-08-31T08:53:05+00:00"
     },
     {
-      "t": "신현송 \"미국 금리 올린다고 따라갈 이유 없다\"…원화 면역력 언급",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uU0tFLWFaSV94dk5JMElHczRLWFk5d2xnTWdXRjhaRHpFR2JxLWl5LTg3UGdzc0VJSVBsZ0hPX0NFLWhNRVV6OXdsOS1WVVNHLW5qZGw3dWJsQzFDNmJxQXVPVXhKdVk?oc=5",
-      "s": "자본시장뉴스",
-      "d": "2026-08-30T07:26:05+00:00"
-    },
-    {
-      "t": "코스피 적은 ‘실적’ 아닌 ‘금리’···7000 앞에서 멈춘 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuVlJTZE1SdkJDRmpudU1HSU8wN212ZHJ3N3I3S3dIdE5VUDcxbzZJYTFfSU5xMWFiTDctTmtQNkdrWW4ybmNPZExzeDFjd21ScVJxWFBiNC1vUdIBX0FVX3lxTE4zbEIwOVVmdUZRYTFodUtMd0pZTEVYeF9OUGNmbEE1UENKOW1acWIya1BUdE45c0x0YU16b0F3d19tU3czRFUyampZdWpJaDZuU25laElNYm8zejJ2cEQ0?oc=5",
-      "s": "경향신문",
-      "d": "2026-08-30T07:10:00+00:00"
-    },
-    {
-      "t": "기업 대출 연체 증가세…기준금리 3% 시대에 중소기업 부담 더 커질 듯",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxeWV4YWRKRldKZU9Ua1o2bjJuRXBUejZ3ejVyNThKdmZYTjVZNjNSc0tySkVsOFJVUEVmR2lQbzdPbUpzMElweGdRQjhJLTA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-08-30T07:09:07+00:00"
-    },
-    {
-      "t": "\"내년 금리 3.5% 유의\"…李 대통령, 부동산에 '한은 카드' 꺼낸 까닭 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kUFVHQlJ6elZzNWMwal9FTVVpbnp2S2VpWUZnT2tBSjZKazM1TVVaZnVENUs5WGl3T1pPYWZLSUdVRjRIelpuVnlDSGpocHU3WW1xQ0gydTZ1ZndrSGlkSzZJcVNrMkVzR2tn0gFwQVVfeXFMT0plb18tVGFmSXZuaXdzNzBYUGpkV01HUHZxczRDbXNhckVTUXpmR1l3NTRya3llV3NVSkhiUHFBcnN6NzdRcWNUYklmUTAxc0ctUWtKNloyckd3NmFfOTJreGlpSXlBMjBvdU93RWFYaA?oc=5",
+      "t": "삼전닉스 자사주 매입이 받친 코스피…美 실적·고용 주목 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TdTJxdFRBQk1tMmRmTDhFRHhONElWX1dEMTVCWjQ2OGNVc3liU1hkU1UyMnM0LVZDeXhvQzRoU0lQd2Y3SVBxaUdkaG9WNWdVNDU2YzI5UDd4dkJHWF9HSHBSS2RlNmJr0gFuQVVfeXFMTkY0Ui1aNmE3Z2Z4YndjRGUxRk5VTTlRU0hwR2RHNFZjci1iTTlseFJDU3Q5bjNkVXNoMGZuQzJjSmhaOW5YR2JPcWJLUWNLemtPOXJOU3lUQnZsX3RxVWlweGs1NGhUMmttQmdwN3c?oc=5",
       "s": "머니투데이",
-      "d": "2026-08-30T07:08:39+00:00"
+      "d": "2026-08-31T08:51:17+00:00"
     },
     {
-      "t": "금리 올리면 충돌, 안 올리면 신뢰 흔들…워시의 딜레마",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qb0ZhMW0xVS05TGN6Tk5oSVJ5VG90T3RfLTVWZkdDS29CaGROUmNScF9CRkp0cVh1NEw1NHQzazVfOGUtSWVYb3dob3huVE83ZUFZVnVn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-08-30T07:01:05+00:00"
+      "t": "신성대, 전국 전문대 공학계열 AI·반도체 체험 프로그램 공동 개최",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VnlVNTdpempnaFNCUGdYMlFEYU9MNUU3bDVoRFZYTjB1elBfZ2RiNFFYSjhqVDlmZTE0TFVXRHlwV1dsTlRDaWVNU0J6UWYzbUJ4dmd6WmU5ZlNCOVNyazhnQ3BQamxH?oc=5",
+      "s": "당진신문",
+      "d": "2026-08-31T08:49:12+00:00"
+    },
+    {
+      "t": "[도쿄증시-마감] 일부 반도체株 강세 속에 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHZE1YRWpHZWZIakpndm0wR0pGWENlb2JTT1N3X2dYVlRCMDB4aXl0QnRnU2VSU1FIYlZ1OElaUDFNWlVURmh3SVRBT1dJazV5UVFuWkFpNnZYc2x2VlFxaW9DdHZHSVV3QVNvZWdlUVk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-08-31T08:49:03+00:00"
+    },
+    {
+      "t": "증권가, 9월 증시 반등 전망에도 변수 산적…\"저평가 실적주 선별해야\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83eFRTc3FQTEx4WDdodzBpQ1JiSGgySE5XZkN1LVc0aHRDZVJBX0E1ZzY2WDdOMHBqOFduaHhwaVBKSUctcUdLS2FDZGt1OFRPLS1ZdGVkZkROU0Zz?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-08-31T08:45:00+00:00"
+    },
+    {
+      "t": "최태원 회장 \"SK하이닉스, 일본 반도체 공장 설립 검토\"...그간 입장 반복",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNmNvcVlHNTJtM2pzYXE4dHp6VkRidXlaM1NoZUtCcGV0b3RJdnRzWXpERjcyaE5HSW9DQ09CSTk5N0hQNEZWV2Vleml6NHMzY3VSdXJB?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-08-31T08:43:00+00:00"
+    },
+    {
+      "t": "[마감] 코스피, 장중 3%대 급락 딛고 반등…6820선 회복 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVXh3aV9zVW9hdS1rN3k3bm1yTGQyTURFZEFNWk15YjIzUkZhRDVfLUN3akFYR3Y2ZnFuYll1VTRMWHJuTVJ5YUVyOE9UVTlTblRlVlV4a3RBSnBoYmpPWm5UaWF5RXJYZkVVbGMwRFk?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-08-31T08:42:00+00:00"
     }
   ],
   "asof": {},
