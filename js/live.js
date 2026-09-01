@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-01T10:30:37+00:00",
-  "quotesAt": "2026-09-01T10:30:37+00:00",
-  "newsAt": "2026-09-01T10:30:37+00:00",
+  "fetchedAt": "2026-09-01T10:45:36+00:00",
+  "quotesAt": "2026-09-01T10:45:36+00:00",
+  "newsAt": "2026-09-01T10:45:36+00:00",
   "quotes": {
     "kospi": 6835.8,
     "spx": 7686.14,
     "nikkei": 66215.34,
-    "vix": 15.84,
-    "krw": 1373.68,
-    "gold": 4428.9,
-    "wti": 87.91,
-    "dxy": 99.59
+    "vix": 15.74,
+    "krw": 1373.73,
+    "gold": 4432.3,
+    "wti": 87.59,
+    "dxy": 99.6
   },
   "daily": {
     "spx": -0.58,
     "kospi": 0.69,
     "nikkei": -0.15,
     "krw": -0.25,
-    "dxy": 0.16,
-    "gold": -0.05,
-    "wti": 2.51,
-    "vix": 6.17
+    "dxy": 0.17,
+    "gold": 0.03,
+    "wti": 2.13,
+    "vix": 5.5
   },
   "news": [
+    {
+      "t": "일본 국채 금리 30년 만에 최고치…재정 악화 우려 등 영향",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaXRpSTRhRUU1QnBGMGpFRU1qSWNNSEVaTFZIUUtwUzhiUW1TR1JrSkwxcWwySnMzbkd5SVRaMm1fcEdpaE1veWRwanVzSGFyTVdUS2hFSzRVeE9mNTRrS21UTDlGdw?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-01T10:32:00+00:00"
+    },
     {
       "t": "유로존 8월 물가상승률 3.3%…3년 만에 최고",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01QjlVZzRGbXZGRnpzeXhMLURHYkpjU19veWt6ME1nYkhPbDZDR3ZwMU53Z1ZIOUpNSVpmYjJWTW9uS3lHM05CcUZqWWFGSEZrbUhQM2VIbGlNSi03d0pGVA?oc=5",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQVm9YdHpoTTB1WFNfcS1SWmV3ZUhRdkpGVkZfVTFKOGZJZFhmUk5FakFOcHhCeFVMdDVJbkZoUGpkZEZ5RjI0NzFBc2JCMlkyMXl1OW5jUEZMM1E?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-09-01T10:17:00+00:00"
+    },
+    {
+      "t": "반도체 최대 수출...\"올해 전체 수출 1조 달러 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05cy00dXFNV0ZVeTJlNFVLMHhKRjhiekd6VXo5U1lTRFRaUEFmZVJNbE9MQ1EzdTVSOXpra1NXOU5vQ2VYSm4zN2VJTE9pa3lUbUF6eU42SnFNbEFNSVE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-01T10:05:00+00:00"
     },
     {
       "t": "IRS 금리 전 구간 상승…外人 매수로 현물 대비 강세",
@@ -55,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-09-01T09:48:15+00:00"
     },
     {
+      "t": "코스피 6,800선 회복…삼전닉스 자사주 매입 효과",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcVVjNGVBREc0M05kZmg5d3ZtVEFRSi1lUkhiUmxVSkQzLUxURjlGVmIyXzFydFpaUW1TY1F6VHhOMEVYT2QxRllfMER4aV9MZElnUDdnTFYzV1ZFWE5mUG1KdDdOOEE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-01T09:47:00+00:00"
+    },
+    {
       "t": "[외환-마감] 역대급 반도체 수출에 연저점 경신 후 상승…1,370원대 초반",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84cGtGUzdkbkJpeVQwZzNFVkt5d2VsSWNlYVI3WEtpaVVTSEJ5djZtcXNoSi1USUhydy0wQU5oWWFhZHAzN1RXY2IxMnQ4RDhIb2hSc1poeXpJT0xIdndRSDJ6NDNvS1hmRUROOG5lbk0?oc=5",
       "s": "연합인포맥스",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mb1d2UGZBX0ZXMnFtcHh0bjJkVjIzdkRUTDhLOFp5MG9aSzZwSTg1eHQ0TW96ZUhTWFZBRWxabUFIVURLVWU4MWZNNGRUTHZkS0Q2Q181bzJJNmhWLVBBVkJoRjJzVWlOVzdhYUlrVXdxdw?oc=5",
       "s": "인더스트리뉴스",
       "d": "2026-09-01T09:38:01+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 기술주 약세에 하락…방어주 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wc25walppcTVlWk9BRV95V3lMZE5RWEd1NVBCdlZLRXljeTZ3dzJUc1lFWENac3BYMGNrLVQzbnRNZHRhN3RWQVJENUJ6VEc2S1dPNUhuWnRERC1PWW9oT0dXMGdTSVMzNWFlcUdhb2o?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-01T09:37:10+00:00"
-    },
-    {
-      "t": "반도체 호황에 미래대응기금 162조 조성…58조 쓰고 104조 남겨둬",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aWllha3RuVUZDTC1qNnczT0l3UTYwX2ZlVGNQQVplaE9KUXczOUN3cEpZZjFacXZ6cjJXX1JMUC03MHo4QTJOTjdJVUJqMDZSV0I4N05maUVDaFBndEtUNHdpU1R4ODhKbXlyaXFPdEY0Zw?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-01T09:35:00+00:00"
-    },
-    {
-      "t": "일 국채 10년물 금리 3% 돌파…글로벌 채권시장 발작",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DXzhyUDdxcU4yQU5OSG5obXB6WmFRRlVkUDhVbXZFN0Q2cEFfVEFHbE5qbWxnWVRWcXo4aFdmWkRDbnlhNDRQQkFPZXlIenZBVWV5T0hRUl9YaUtxUnNOZEhMNldLUlk?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-01T09:32:00+00:00"
     }
   ],
   "asof": {},
