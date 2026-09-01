@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-01T10:15:43+00:00",
-  "quotesAt": "2026-09-01T10:15:43+00:00",
-  "newsAt": "2026-09-01T10:15:43+00:00",
+  "fetchedAt": "2026-09-01T10:30:37+00:00",
+  "quotesAt": "2026-09-01T10:30:37+00:00",
+  "newsAt": "2026-09-01T10:30:37+00:00",
   "quotes": {
     "kospi": 6835.8,
     "spx": 7686.14,
     "nikkei": 66215.34,
-    "vix": 15.87,
-    "krw": 1373.46,
-    "gold": 4418.1,
-    "wti": 87.85,
-    "dxy": 99.6
+    "vix": 15.84,
+    "krw": 1373.68,
+    "gold": 4428.9,
+    "wti": 87.91,
+    "dxy": 99.59
   },
   "daily": {
     "spx": -0.58,
     "kospi": 0.69,
     "nikkei": -0.15,
-    "krw": -0.27,
-    "dxy": 0.17,
-    "gold": -0.29,
-    "wti": 2.44,
-    "vix": 6.37
+    "krw": -0.25,
+    "dxy": 0.16,
+    "gold": -0.05,
+    "wti": 2.51,
+    "vix": 6.17
   },
   "news": [
     {
-      "t": "[채권-마감] 중단기 금리 급등…워시 발언·유가 상승 영향",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtM2NvMDZ3QkZRVnA0NTlUZmswc3Z5SnFMQVBPOWxET0d4NHRNZThHQTg2eFk4TXZaZ0s3TEtpU0hkVTAtRDhTYW05RmRoTk1xdXpUZDk0RUNONU13cGEzZlBQWFl5YXJTVEluMEcyaWw?oc=5",
+      "t": "유로존 8월 물가상승률 3.3%…3년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01QjlVZzRGbXZGRnpzeXhMLURHYkpjU19veWt6ME1nYkhPbDZDR3ZwMU53Z1ZIOUpNSVpmYjJWTW9uS3lHM05CcUZqWWFGSEZrbUhQM2VIbGlNSi03d0pGVA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-01T10:20:15+00:00"
+    },
+    {
+      "t": "유로존 지난달 물가상승률 3.3%…3년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQVm9YdHpoTTB1WFNfcS1SWmV3ZUhRdkpGVkZfVTFKOGZJZFhmUk5FakFOcHhCeFVMdDVJbkZoUGpkZEZ5RjI0NzFBc2JCMlkyMXl1OW5jUEZMM1E?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-01T10:17:00+00:00"
+    },
+    {
+      "t": "IRS 금리 전 구간 상승…外人 매수로 현물 대비 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81OGVONF9aLXRacktIcjlJOTE2Si1QbnRTOUhzelFqQi1sTXFNYUlrZmFfc0xNbFRMcEdSSm1MSW9IMXlOUUZ2QXRCN2U5bmJnMzFiSU92UkhqVTlTT0JWNjljM3V1OTM2dm5pX0RCbDnSAXRBVV95cUxNMk95aVJLbWVqbzJVb2VjeFZRM3F1akRiX2p0am55SC1BOGZFY0I4Vk9UNE16YVB2WHgzeUdSeVE5MXJUTzdiVExGa1k3dlRJQmQ1XzVSbVBpVHllOWNINXB4SklDNWxuR25peVJCRENPak9VVQ?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-31T09:54:35+00:00"
+      "d": "2026-09-01T09:52:43+00:00"
     },
     {
-      "t": "반도체 산업 용수 공급, ‘스마트 워터 그리드’로 지역 기반 해결책 찾는다",
-      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1UQTUxRWpfaVJQZWVlQ2VuSmNBSlJzWkVCVDZlMWM5VHBBZW1aV2N6X2JxRjJtRGFvS0hyZHljd3NwZ21m?oc=5",
-      "s": "산업일보",
-      "d": "2026-08-31T09:49:30+00:00"
+      "t": "폭염에 물가 치솟았는데 금리까지…서민경제 ‘이중고’ [9월 경제캘린더]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FMTFDWDVPOExjX0pQZVowMHpqcVJQVnpOTktOZzR5c2RfcVQxRzhTRW5TU01fbzJkNEU3cTVuLTQyUERZWjJLZTFHZDlzTW5NYnVlVzBrYmduQnNUU3FPRWQ4QmdwclhXWXZRQy1n?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-09-01T09:48:54+00:00"
     },
     {
-      "t": "[리얼]신용점수 600점이 더 싸? 대출금리 역전",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sYnVtYy13RXhLZnptXzVWMGg5SWIzWGVaRGI3bktaQTZDNV9MX0xPNi11Rm5ISjJHQXNSWGVGUWhuRFJDR3JpRk9nQWpqYlZu?oc=5",
-      "s": "문화일보",
-      "d": "2026-08-31T09:43:10+00:00"
-    },
-    {
-      "t": "“SK하이닉스 반도체 폐수 저수지 유입땐 농사 악영향”…안성 농민들, 직방류 철회 촉구",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nMUpMZlVjcmd2bElSMHRGNUZ3dHgwQmU5M0h3eVU1YjgtT2RmdkR6NzlnbURuSVZuanJGR0dnOExNeGZCckNWZkhXWHVIZ1Y5V2U4WDFYV2JZdw?oc=5",
-      "s": "농민신문",
-      "d": "2026-08-31T09:36:00+00:00"
-    },
-    {
-      "t": "TSX 선물 소폭 상승…캐나다 중앙은행 금리 결정 앞두고 투자자 긴장",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fbG9FOFRlZEpCa0ZOc3ljUF90LUtldHZXcUNELVJfbVFjRGY4bW9BLS03VVhmT0J5UlNLOHk2X3NmaGZJWEkxeGprRGZ6R0RZS2EyN01tZVRReWhQTEZGWlFVbVBIZGRkUzBFT0VqMlQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-08-31T09:34:00+00:00"
-    },
-    {
-      "t": "광주특별시, ´반도체 금융망´ 승부수···기업은행 유치 실현 가능성은",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTzZDTktnQTNuOG5IdzV2WXN5MHUzbkc1dkFOSWY3QzJhV1ZqTk5mcnJmYmljeGo3Szl1YkFydjVCXzM5YTgyTEV5QzB4UHAtbDFv?oc=5",
-      "s": "무등일보",
-      "d": "2026-08-31T09:23:00+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 경제지표 부진에도 기술주 반등에 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuWTJOTGhDaEhHdDI4Zk1iU3Q3dWRweVh1M1FxdUNCM3hVWnZTeURES1lXWExmQXpzajI1M25QWk9lZU9qMXFSNUlkNERSc1RqVWh0RGp3bFVLbkpJWk40MTJKR3VEbkc1Mmh4S1BFNXY?oc=5",
+      "t": "[채권-마감] 초장기 금리 급등…예산안·대외금리 등 소화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYdEcxVk42RGs0cnB6U0FBY2g3NEJRQWcyQlpfbzAyMHRBY3psb1JsX1RrUmJBWXNWa2RzNUZsa1hMWVNiRW95bnVUeHZfOUpDaEg2SzhCWHJvRjRPQUJ6bnBHQy1DRTVUWi1MQzRUV3Q?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-08-31T09:22:44+00:00"
+      "d": "2026-09-01T09:48:15+00:00"
     },
     {
-      "t": "반도체 성과급 어디에...청주 ‘소비’로, 이천에선 ‘집’으로",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZODZTU3dDVlBGUzFxcHFENi1ZVThyblpHUmhwYkdUNlFGbS1GR2JjdEhDclljUjJvdnVLaWp1cjI1NmQ3b1pzejc5TmNtaHZHTHFmZC1JTWl2MGY2OFVtemZJdWlvSlpqM0x2cThGemxvUQ?oc=5",
+      "t": "[외환-마감] 역대급 반도체 수출에 연저점 경신 후 상승…1,370원대 초반",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84cGtGUzdkbkJpeVQwZzNFVkt5d2VsSWNlYVI3WEtpaVVTSEJ5djZtcXNoSi1USUhydy0wQU5oWWFhZHAzN1RXY2IxMnQ4RDhIb2hSc1poeXpJT0xIdndRSDJ6NDNvS1hmRUROOG5lbk0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-01T09:43:37+00:00"
+    },
+    {
+      "t": "트럼프 “워시 의장, 해야할 일 할 것”…금리 인하 압박",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mb1d2UGZBX0ZXMnFtcHh0bjJkVjIzdkRUTDhLOFp5MG9aSzZwSTg1eHQ0TW96ZUhTWFZBRWxabUFIVURLVWU4MWZNNGRUTHZkS0Q2Q181bzJJNmhWLVBBVkJoRjJzVWlOVzdhYUlrVXdxdw?oc=5",
+      "s": "인더스트리뉴스",
+      "d": "2026-09-01T09:38:01+00:00"
+    },
+    {
+      "t": "[중국증시-마감] 기술주 약세에 하락…방어주 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wc25walppcTVlWk9BRV95V3lMZE5RWEd1NVBCdlZLRXljeTZ3dzJUc1lFWENac3BYMGNrLVQzbnRNZHRhN3RWQVJENUJ6VEc2S1dPNUhuWnRERC1PWW9oT0dXMGdTSVMzNWFlcUdhb2o?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-01T09:37:10+00:00"
+    },
+    {
+      "t": "반도체 호황에 미래대응기금 162조 조성…58조 쓰고 104조 남겨둬",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aWllha3RuVUZDTC1qNnczT0l3UTYwX2ZlVGNQQVplaE9KUXczOUN3cEpZZjFacXZ6cjJXX1JMUC03MHo4QTJOTjdJVUJqMDZSV0I4N05maUVDaFBndEtUNHdpU1R4ODhKbXlyaXFPdEY0Zw?oc=5",
       "s": "한겨레",
-      "d": "2026-08-31T09:22:00+00:00"
+      "d": "2026-09-01T09:35:00+00:00"
     },
     {
-      "t": "유럽증시, 혼조 출발…유로스톡스 0.09%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IRGwzYUk4MzNMTmlwcGJXSmdWZ1dyV1IxYlRac1BobFBIMHF4aEN5Zm9mUmxYYV82WTB1OGRZZG5QWDVheEhBeThXcHU4c0lDWmxxV2pmZmhob1VfYjljMEtFSkFQa3JCQ1FEYmRuTljSAXRBVV95cUxOTUlnWkcyY0R0c2pxdjFVa0VVV0xtNHRPNlIyd1kxXzJKRnFSZ1hGVktVR2RBRjllelZ1TWM3VFU2NE5CRG5NOUZWUklwOEZtZjhwaWJsR1JsWml3SEJkVjV4b1FCYjlfXzVwcG5ZYzNkR0pJeg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-08-31T09:20:54+00:00"
-    },
-    {
-      "t": "SK하이닉스, 日에 반도체 공장 설립 검토",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KSnFXYkhWczlaR25jRWt6bExaT0Z2cklEbk1HcmthWVB6WHBlM0FSR0VmaDBFazg4SzdBaEptcjRlUlZISmtBUEdibXNjNFlhdTBVelBJeVZ6Qk1FN1QwU2hoNVNlS1BWSEkweXY5RXc0cUZrM1A2YW1kOA?oc=5",
-      "s": "서울신문",
-      "d": "2026-08-31T09:19:58+00:00"
+      "t": "일 국채 10년물 금리 3% 돌파…글로벌 채권시장 발작",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DXzhyUDdxcU4yQU5OSG5obXB6WmFRRlVkUDhVbXZFN0Q2cEFfVEFHbE5qbWxnWVRWcXo4aFdmWkRDbnlhNDRQQkFPZXlIenZBVWV5T0hRUl9YaUtxUnNOZEhMNldLUlk?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-01T09:32:00+00:00"
     }
   ],
   "asof": {},
