@@ -1,40 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-02T03:15:36+00:00",
-  "quotesAt": "2026-09-02T03:15:36+00:00",
-  "newsAt": "2026-09-02T03:15:36+00:00",
+  "fetchedAt": "2026-09-02T03:30:36+00:00",
+  "quotesAt": "2026-09-02T03:30:36+00:00",
+  "newsAt": "2026-09-02T03:30:36+00:00",
   "quotes": {
-    "kospi": 6620.13,
+    "kospi": 6625.86,
     "spx": 7631.47,
     "nikkei": 64473.16,
     "vix": 16.34,
-    "krw": 1369.62,
-    "gold": 4345.8,
-    "wti": 90.88,
-    "dxy": 99.75
+    "krw": 1369.98,
+    "gold": 4342.9,
+    "wti": 90.76,
+    "dxy": 99.76
   },
   "daily": {
     "spx": -1.04,
-    "kospi": -2.93,
+    "kospi": -2.85,
     "nikkei": -2.63,
-    "krw": 0.22,
-    "dxy": 0.32,
-    "gold": -1.93,
-    "wti": 5.97,
+    "krw": 0.25,
+    "dxy": 0.33,
+    "gold": -1.99,
+    "wti": 5.83,
     "vix": 9.52
   },
   "news": [
     {
-      "t": "국채금리發 충격파, 9월 美증시 덮치나…AI주 '고금리 복병'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ranlqV0N0RUtlenRYNTktWV8yLU45RUhGU29YbTQ3U1BxM3hpQTVqUndUVjhoc0M1aThCcHdqSEhaOEtZOTVnYXZERzFwUGhYV2JoTlNKbnVLTEk1?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-02T03:13:00+00:00"
+      "t": "8월 소비자물가 3%대…지난해 통신료 인하 기저효과",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ed0JZQ0J0dF9aZDJrdG1Ia254NDVIbldrU0VLWjVIWERZOEJYa2JSRmRPcXdNVUtpY096YWVzeE9Tb0hPU2Y0eWtOZmpfNTQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-02T03:22:00+00:00"
     },
     {
-      "t": "8월 물가 상승률 3.1%… 추석 차례상 부담 가중",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ldWhaUVJJTlRGVWJTS3dVM3pJdHdZeUlqZDhBZE5ic2J4d0t1cDBwYWU4dFJ3V1NKRDBkRnMxOEU2OHdqWUtHbGl6dWlPdFVt?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-02T03:11:02+00:00"
+      "t": "소비자물가 다시 3%대‥'통신비 반값' 기저효과",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdHBYUXlVYkxoZFJCaVIxSHV3cWxleHdMckc1d0pjUXUwRk5OMGtzN1NiTjBuLTRsSDgyTzZ5cGdFWktkTkd2WEM2Y2xZU3lVT0d0dGtDWWdyN2tncldzZHZObHhINm9yaEFJTE9SblZtdG5yMTJhRtIBeEFVX3lxTE5BUWhabmZ5bkxFRi1tSTRFVmcyS3dldVZzUE8xalBiazVXV3VQMmZOejJGSTdiMkl1MDJkdWVkQnN6Zkl0MTBYNXRDc3l1enVXUUdGZHpJbkptbWlnb2ZHRV90Mjk5bVU2eTNJcVYwbXJLZUwxRDF0LQ?oc=5",
+      "s": "imnews.imbc.com",
+      "d": "2026-09-02T03:11:36+00:00"
     },
     {
       "t": "S&P500 선물, 중동 긴장 고조 속 소폭 상승…美 국채금리↑",
@@ -67,22 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-09-02T02:40:30+00:00"
     },
     {
+      "t": "이형일 \"장바구니 물가는 경제팀의 성적표\"…물가안정 최우선 과제",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wekF0WWxfYXIyWDBFclR5aU9ZSVYyc2xldHZOTU1BSnhaTGJOWWszb1RaaVFvYkhHdEo3b3E3MHR2UGNQSWlrRWYwSmJzOWlDaTA2V0NGX1k5SXpfaG4wVF9sVWxpU09saTlmanhrYzU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-02T02:40:03+00:00"
+    },
+    {
+      "t": "\"유가·금리 직격탄\" 코스피 3%대 와르르...웃고 있는 '이 업종' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VmVDcDMzWHczVnJmTEwxWThkZjNJZUFVSUxWMldsZjFBS0hVd2FMUFhjeFd1dVJmcC1aN01EVHc1Tko1WmFlUkd6TURjRE1uUlNoSUpjb1hhNVRKTVp6Rk9EN1RwM0FD0gFuQVVfeXFMTmVOcnBDTkoyLV9faWlWcGFBbVozZDFLRzNVVHFIcmduekRWdW5DWG1QTlJrcnlxRVJJQzcxVUJKbkRYSVdfNXlvVHBHbVV4UkFuX1dTem1pNjltRlVXOS1nOWVyd3A3ZzBqcGFNSGc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-02T02:39:20+00:00"
+    },
+    {
       "t": "중동 긴장 고조에 유가·금리 상승 공포…코스피 장중 3% 내려",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00TmM2RkR0U1lRVTRWVWtRbFJScGZ5b1puZ2lvOGN2SjBZeWpMeUxMVkhPbzJsajlSX05MMlVtVGRXMTFZQkxycGFneHZhbjA?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-02T02:39:00+00:00"
-    },
-    {
-      "t": "전쟁발 인플레이션 우려에…글로벌 국채 쇼크",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLdjhJbF9WcXU2NzhCalhxZXNQNTdNaGl3Mk9aaE9USjF6THAwazlzOXpCTFI4S1ozZ2Q5c2o5ZU5jeHJiRjh1T1pxdk5GeXNmU2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-02T02:33:36+00:00"
-    },
-    {
-      "t": "되살아난 중동 리스크…유가·국채금리 급등에 세계증시 '덜컹'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BUE9mR2ExSjdzTXhTYmpMVzN4cHFtUEhVN25yaVo5Z2xyaHFyNTB1OVJneDdIeTdtRHd2dC01b2ZXMm5lOTREdDVoSDM1V0J1Mm5WTkE4SFgteUx2VWxzeNIBYEFVX3lxTE5BUE9mR2ExSjdzTXhTYmpMVzN4cHFtUEhVN25yaVo5Z2xyaHFyNTB1OVJneDdIeTdtRHd2dC01b2ZXMm5lOTREdDVoSDM1V0J1Mm5WTkE4SFgteUx2VWxzeA?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-02T02:30:43+00:00"
     }
   ],
   "asof": {},
