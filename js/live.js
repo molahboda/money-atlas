@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-02T04:15:36+00:00",
-  "quotesAt": "2026-09-02T04:15:36+00:00",
-  "newsAt": "2026-09-02T04:15:36+00:00",
+  "fetchedAt": "2026-09-02T04:30:43+00:00",
+  "quotesAt": "2026-09-02T04:30:43+00:00",
+  "newsAt": "2026-09-02T04:30:43+00:00",
   "quotes": {
-    "kospi": 6597.9,
+    "kospi": 6571.54,
     "spx": 7631.47,
-    "nikkei": 64364.75,
+    "nikkei": 64311.4,
     "vix": 16.34,
-    "krw": 1370.48,
-    "gold": 4351.1,
-    "wti": 90.65,
-    "dxy": 99.78
+    "krw": 1370.36,
+    "gold": 4348.2,
+    "wti": 90.69,
+    "dxy": 99.8
   },
   "daily": {
     "spx": -1.04,
-    "kospi": -3.26,
-    "nikkei": -2.79,
-    "krw": 0.28,
-    "dxy": 0.11,
-    "gold": 0.07,
-    "wti": 0.48,
+    "kospi": -3.64,
+    "nikkei": -2.88,
+    "krw": 0.27,
+    "dxy": 0.13,
+    "gold": 0,
+    "wti": 0.52,
     "vix": 9.52
   },
   "news": [
     {
-      "t": "이형일 \"물가는 가장 큰 미션…추석물가대책 추가 발표 노력\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcXdhS0gtakpfdU9abkh5S1JxbVJVMUFuWU15bnVVY3VhUzl4Qno4MDgzMXNPTlo4MzZSSUduNVJjR2szZEI0MmdkekI2VWc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-02T04:06:03+00:00"
-    },
-    {
-      "t": "코스피 6,596.49 코스닥 809.81",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjbDNvNTFwLUp5MVNkdGU4YzlWWVByQ1Rza201Qzl0Y19XTG95b21YZ2s3UnBtSGJRdXBoRC0xTlhMVHFpMW9ObzgtWEkwR3JlcHcwYm9sVnB5a3M?oc=5",
+      "t": "일본 국채 금리 30년 만에 최고치…재정 악화 우려 등 영향",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaXRpSTRhRUU1QnBGMGpFRU1qSWNNSEVaTFZIUUtwUzhiUW1TR1JrSkwxcWwySnMzbkd5SVRaMm1fcEdpaE1veWRwanVzSGFyTVdUS2hFSzRVeE9mNTRrS21UTDlGdw?oc=5",
       "s": "KBS 뉴스",
-      "d": "2026-09-02T03:55:00+00:00"
+      "d": "2026-09-01T10:32:00+00:00"
     },
     {
-      "t": "RBNZ 총재 \"추가 금리인상 유력하지만, 시점 매우 불확실\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aSVBqNWdsM0NKaVViUmsxeUVUTnVkZFBlTzBJbkJ4LXFqbXJxa2oxZ2xKNFJyaEM2Yl9aN2dTdlZpenJjakdHanpGbHlhXzI0VkpIWVJLS19DeHdXUzJySFFWeDNRZDRHM2paLS1HdEsyUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-02T03:48:38+00:00"
+      "t": "유로존 8월 물가상승률 3.3%…3년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01QjlVZzRGbXZGRnpzeXhMLURHYkpjU19veWt6ME1nYkhPbDZDR3ZwMU53Z1ZIOUpNSVpmYjJWTW9uS3lHM05CcUZqWWFGSEZrbUhQM2VIbGlNSi03d0pGVA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-01T10:20:15+00:00"
     },
     {
-      "t": "[뉴스프레소] 사그러들지 않는 고금리 공포… 美-이란 충돌에 다시 치솟는 유가",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DYnA3cElFdzNfOHNXVGZYNTlJR2pKak9kZS1MWUlrVWg4U0FINVctRmhyb2k5LWZxWE5fSG1sYjlxdzY5a0I4QVltREJEVGc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-02T03:30:00+00:00"
-    },
-    {
-      "t": "소비자물가 3.1% 상승…\"통신비 반값할인 기저효과\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaUgwakMtS0VmZHdualp4bU1RUkE1aGlrSlFpQWpWRHZtYjJWeE9TR0YtN1IwdVZabkZqcHJMRDB5VUZTV1ZjUmNsOFJCTHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-02T03:18:00+00:00"
-    },
-    {
-      "t": "“물가 못 잡으면 단호히 올려야”…9월 금리인상 가능성 또 높아져",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BOV9LUHlwdTE4Q0x4T0hONDduLWp3bkhEcF9Qbkd3dnRaQzZmSlVQYUdVTlJaYU9zd1V5R0taRTZGM0N5QTViNEtZUVd0M2pNVXptaWpFVGdsLU0?oc=5",
+      "t": "유로존 지난달 물가상승률 3.3%…3년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQVm9YdHpoTTB1WFNfcS1SWmV3ZUhRdkpGVkZfVTFKOGZJZFhmUk5FakFOcHhCeFVMdDVJbkZoUGpkZEZ5RjI0NzFBc2JCMlkyMXl1OW5jUEZMM1E?oc=5",
       "s": "KBS 뉴스",
-      "d": "2026-09-02T03:15:00+00:00"
+      "d": "2026-09-01T10:17:00+00:00"
     },
     {
-      "t": "'무서운 국채금리' 쇼크, 전문가 \"장기간 지속되진 않을 것\" 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQUJsZ2kxaUVrZEllYUpXRlFndTh3SkM5T2xlX2hJNE5RUXpKRVcxdC1oWXktcTduMF9fenZwNU1EdE5leWNEWkloLTd3YzgycHAxVFFfWDd5SnpuX1E?oc=5",
+      "t": "반도체 최대 수출...\"올해 전체 수출 1조 달러 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05cy00dXFNV0ZVeTJlNFVLMHhKRjhiekd6VXo5U1lTRFRaUEFmZVJNbE9MQ1EzdTVSOXpra1NXOU5vQ2VYSm4zN2VJTE9pa3lUbUF6eU42SnFNbEFNSVE?oc=5",
       "s": "YTN",
-      "d": "2026-09-02T03:12:00+00:00"
+      "d": "2026-09-01T10:05:00+00:00"
     },
     {
-      "t": "소비자물가 다시 3%대‥'통신비 반값' 기저효과",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdHBYUXlVYkxoZFJCaVIxSHV3cWxleHdMckc1d0pjUXUwRk5OMGtzN1NiTjBuLTRsSDgyTzZ5cGdFWktkTkd2WEM2Y2xZU3lVT0d0dGtDWWdyN2tncldzZHZObHhINm9yaEFJTE9SblZtdG5yMTJhRtIBeEFVX3lxTE5BUWhabmZ5bkxFRi1tSTRFVmcyS3dldVZzUE8xalBiazVXV3VQMmZOejJGSTdiMkl1MDJkdWVkQnN6Zkl0MTBYNXRDc3l1enVXUUdGZHpJbkptbWlnb2ZHRV90Mjk5bVU2eTNJcVYwbXJLZUwxRDF0LQ?oc=5",
-      "s": "imnews.imbc.com",
-      "d": "2026-09-02T03:11:36+00:00"
+      "t": "IRS 금리 전 구간 상승…外人 매수로 현물 대비 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81OGVONF9aLXRacktIcjlJOTE2Si1QbnRTOUhzelFqQi1sTXFNYUlrZmFfc0xNbFRMcEdSSm1MSW9IMXlOUUZ2QXRCN2U5bmJnMzFiSU92UkhqVTlTT0JWNjljM3V1OTM2dm5pX0RCbDnSAXRBVV95cUxNMk95aVJLbWVqbzJVb2VjeFZRM3F1akRiX2p0am55SC1BOGZFY0I4Vk9UNE16YVB2WHgzeUdSeVE5MXJUTzdiVExGa1k3dlRJQmQ1XzVSbVBpVHllOWNINXB4SklDNWxuR25peVJCRENPak9VVQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-01T09:52:43+00:00"
     },
     {
-      "t": "8월 물가 상승률 3.1%… 추석 차례상 부담 가중",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ldWhaUVJJTlRGVWJTS3dVM3pJdHdZeUlqZDhBZE5ic2J4d0t1cDBwYWU4dFJ3V1NKRDBkRnMxOEU2OHdqWUtHbGl6dWlPdFVt?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-02T03:11:02+00:00"
+      "t": "폭염에 물가 치솟았는데 금리까지…서민경제 ‘이중고’ [9월 경제캘린더]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FMTFDWDVPOExjX0pQZVowMHpqcVJQVnpOTktOZzR5c2RfcVQxRzhTRW5TU01fbzJkNEU3cTVuLTQyUERZWjJLZTFHZDlzTW5NYnVlVzBrYmduQnNUU3FPRWQ4QmdwclhXWXZRQy1n?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-09-01T09:48:54+00:00"
     },
     {
-      "t": "중동 전운 다시 고조...코스피·코스닥 동반 하락",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QY0lYV29kdlpFMlB5U3REOTlLTVhtWTRmRnlHMXJWdzB2T0dTQjFxSGJsS2ZnLXlHa0ZQTE0tamhUQURXb0Itb1hMb0JQNHYwUWxHdi1UYllocGVWN0g3dk04MnRFTWowTEN3aTk1Yw?oc=5",
-      "s": "YTN",
-      "d": "2026-09-02T03:03:00+00:00"
+      "t": "[채권-마감] 초장기 금리 급등…예산안·대외금리 등 소화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYdEcxVk42RGs0cnB6U0FBY2g3NEJRQWcyQlpfbzAyMHRBY3psb1JsX1RrUmJBWXNWa2RzNUZsa1hMWVNiRW95bnVUeHZfOUpDaEg2SzhCWHJvRjRPQUJ6bnBHQy1DRTVUWi1MQzRUV3Q?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-01T09:48:15+00:00"
+    },
+    {
+      "t": "코스피 6,800선 회복…삼전닉스 자사주 매입 효과",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcVVjNGVBREc0M05kZmg5d3ZtVEFRSi1lUkhiUmxVSkQzLUxURjlGVmIyXzFydFpaUW1TY1F6VHhOMEVYT2QxRllfMER4aV9MZElnUDdnTFYzV1ZFWE5mUG1KdDdOOEE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-01T09:47:00+00:00"
+    },
+    {
+      "t": "[외환-마감] 역대급 반도체 수출에 연저점 경신 후 상승…1,370원대 초반",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84cGtGUzdkbkJpeVQwZzNFVkt5d2VsSWNlYVI3WEtpaVVTSEJ5djZtcXNoSi1USUhydy0wQU5oWWFhZHAzN1RXY2IxMnQ4RDhIb2hSc1poeXpJT0xIdndRSDJ6NDNvS1hmRUROOG5lbk0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-01T09:43:37+00:00"
+    },
+    {
+      "t": "트럼프 “워시 의장, 해야할 일 할 것”…금리 인하 압박",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mb1d2UGZBX0ZXMnFtcHh0bjJkVjIzdkRUTDhLOFp5MG9aSzZwSTg1eHQ0TW96ZUhTWFZBRWxabUFIVURLVWU4MWZNNGRUTHZkS0Q2Q181bzJJNmhWLVBBVkJoRjJzVWlOVzdhYUlrVXdxdw?oc=5",
+      "s": "인더스트리뉴스",
+      "d": "2026-09-01T09:38:01+00:00"
     }
   ],
   "asof": {},
