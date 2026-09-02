@@ -1,35 +1,29 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-02T12:45:37+00:00",
-  "quotesAt": "2026-09-02T12:45:37+00:00",
-  "newsAt": "2026-09-02T12:45:37+00:00",
+  "fetchedAt": "2026-09-02T13:00:41+00:00",
+  "quotesAt": "2026-09-02T13:00:41+00:00",
+  "newsAt": "2026-09-02T13:00:41+00:00",
   "quotes": {
     "kospi": 6562.72,
     "spx": 7631.47,
     "nikkei": 64325.64,
-    "vix": 16.1,
-    "krw": 1363.16,
-    "gold": 4377.6,
-    "wti": 89.66,
-    "dxy": 99.76
+    "vix": 16.2,
+    "krw": 1363.21,
+    "gold": 4384.4,
+    "wti": 89.72,
+    "dxy": 99.75
   },
   "daily": {
     "spx": -1.04,
     "kospi": -3.77,
     "nikkei": -2.85,
     "krw": -0.25,
-    "dxy": 0.09,
-    "gold": 0.68,
-    "wti": -0.62,
-    "vix": -1.47
+    "dxy": 0.08,
+    "gold": 0.84,
+    "wti": -0.55,
+    "vix": -0.86
   },
   "news": [
-    {
-      "t": "환율 떨어질 땐 ‘H’ 꼭 확인…같은 S&P ETF인데 수익률 8%P나 차이[투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HTk0zbnZMQmVFT2h6TTlGM20tNkQ4RjE2SVpTYThSYnNpM3IwU2M0MnNiVVptRVJEZDI1Y2tGejduRUtMeXljOXFkM2xYeGZHMGkwTDA5QQ?oc=5",
-      "s": "mbiz.heraldcorp.com",
-      "d": "2026-09-02T12:40:00+00:00"
-    },
     {
       "t": "국채 금리 연쇄 급등…증시·환율 동반 불안",
       "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZXlnV1FWeVgwcTZjdmV0VDE4ZTdsc2JlZnNZSjZmUngtcDNVdnk3SXY1aURPZ3pxWG5GUjBvLVBlTHVSU1VxVGFBc01WTHljSUN4Q1E2ejZyaGZTUWVVZUJtMXA5RUt6cjhEbU9LcXQwdUhtQlRMelJvSmxIazA1ZFgtSTZjREh5RS1RYkIwVk5hd3NXVHJFVjRsdnBwOUYzWDRjdkMtaTZ3Z9IBX0FVX3lxTE1McHc2VVp1YV9pZFY5SGRiSmw0akRBZjJiY1hLRDMwbTVRUUl1eEZMNGRRbmlvRmtSRWpzLUowcTU4aEVjZDA4NW5WcEk4QVpTR05LNzlpS2lxc3pvWGc4?oc=5",
@@ -37,10 +31,10 @@ window.LIVE_DATA = {
       "d": "2026-09-02T12:34:00+00:00"
     },
     {
-      "t": "주담대 이자 늘고, 퇴직연금 수익 줄고… 美금리 발작, 내 지갑 덮치나",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9teXZFVzU3aFRHRVUzcHBYZThnenNheGlXQUlBMGVtR245cnhyNWJzQXhocU1udVZRckYwd05IT1NCbE5wR1hCVEQ3RUZST1pyallEQk51ZUhOWlUzdGNuOWVhN0VXY3BxbzlZbXRfbjY2NlJlNDRDdHJ3?oc=5",
-      "s": "서울신문",
-      "d": "2026-09-02T11:47:38+00:00"
+      "t": "버크셔 에이블 \"日 금리 30년 만에 최고지만 문제없어\"…종합상사 투자 계속",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMTFndE1qZDR3SVdtU2QwajM1TV96c2diUW1LaDZ1V2h1V1piUXFzZnZId0c4TmdFdjVZOV9RbUNkejJQZURxOGVCZ3pmOWNnZlNWV1loR1pPbGE2?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-02T12:14:00+00:00"
     },
     {
       "t": "금리 치솟을 땐 투자전략 달라야…‘고ROA’주, 16개 종목 리스트는? [투자360]",
@@ -59,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zN09tNGJubmFYbE9fLWM4anRpUmxhdU5vb2dBNk05ZjA3c2NJVGNqTWF0MEFqZnYtajJ0Zjh0MVdOcFFWWnZQOWotOE56SzV5ay1xWmktNWpLUXo4?oc=5",
       "s": "뉴스핌",
       "d": "2026-09-02T11:17:00+00:00"
+    },
+    {
+      "t": "[오늘의증시] 외국인 투매에 코스피 4% 급락…6600선 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uT2tBTHh1cng5d3RNWVRDY296OHk3LWZwOTc5NTFEM3NETjRHWHBOWjFMMFd0Y2llTTZ6UkoyT2RoZWtMcjQ1NGRFUG5HRVN5cHhaV08yMjNtNTNCM0J2aFhhUnlMYjBs0gFoQVVfeXFMT25Pa0FMeHVyeDl3dE1ZVENjb3o4eTctZnA5Nzk1MUQzc0RONEdYcE5aMUwwV3RjaWVNNnpSSjJPZGhla0xyNDU0ZEVQbkdFU3lweFpXTzIyM201M0IzQnZoWGFSeUxiMGw?oc=5",
+      "s": "경인방송 뉴스",
+      "d": "2026-09-02T11:06:38+00:00"
     },
     {
       "t": "은행 부실채권 8년 만에 최대… 금리 상승에 ‘비상’",
