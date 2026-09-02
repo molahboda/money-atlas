@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-02T02:45:36+00:00",
-  "quotesAt": "2026-09-02T02:45:36+00:00",
-  "newsAt": "2026-09-02T02:45:36+00:00",
+  "fetchedAt": "2026-09-02T03:00:37+00:00",
+  "quotesAt": "2026-09-02T03:00:37+00:00",
+  "newsAt": "2026-09-02T03:00:37+00:00",
   "quotes": {
-    "kospi": 6638.74,
+    "kospi": 6623.84,
     "spx": 7631.47,
     "nikkei": 64473.16,
     "vix": 16.34,
-    "krw": 1369.28,
-    "gold": 4353.9,
-    "wti": 90.87,
+    "krw": 1369.31,
+    "gold": 4356.5,
+    "wti": 90.91,
     "dxy": 99.76
   },
   "daily": {
     "spx": -1.04,
-    "kospi": -2.66,
+    "kospi": -2.88,
     "nikkei": -2.63,
-    "krw": 0.19,
+    "krw": 0.2,
     "dxy": 0.33,
-    "gold": -1.74,
-    "wti": 5.96,
+    "gold": -1.68,
+    "wti": 6.01,
     "vix": 9.52
   },
   "news": [
     {
-      "t": "‘통신비 반값’ 기저효과에 물가 다시 3%대…개인서비스도 3.5%↑",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UE1sWEprTTZidWxydmM2TEliNThCcjdRaXhQdjhZZW5aaVdQOU0wQTI0eTlyOGZUT3A1alZiNE94OWtKbDU0b2h6cHlXbmw4ZS1XbHp3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-02T02:41:05+00:00"
+      "t": "우에다 BOJ 총재 \"차기 정책회의서 금리 인상 여부 논의 예정\"(상보)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVFoxLTFNNW5HNWR2ZDc3bVJnUGNGcjA1cEpleUljLXp3YTUwUy1GVkZWazdHQlBSdi1rVGJWbXdMME9rNlphZnJvX0Rtb2FOb0xIWlQzS2tFX0o3aVNQN0NBNkhSN004N0tHanQzbkU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-02T02:50:21+00:00"
+    },
+    {
+      "t": "글로벌 국채금리 급등과 증시·환율 영향까지 이시각 주요뉴스",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02cjNsTFJvQmhUZzJPOGZrOWZ5SWZzVFVuam1mRUd4RVRucTlTNWhpV3VQTVJqQzUzZDhWaExya1VHeFJ1cWJqTDhDbzNTVXJ1aWNYVlNYdHBPcTRZRmdxcUhLakI1MTVvbFo4NmZJWGzSAXRBVV95cUxPc1FBVERwRkkySF8zRjN3cUwzdVZ3N2l4MjVRaGY5ZEM3RmRhY0FIMmFWZWNFRjFpalBxUUFJMkFNbFNwUXh6RDJxSFkxaWdGYjh1bEFVWjJLZ0J5TkNvNjFDaVZGZGxLRVVzQnV1WUdla25vcw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-02T02:49:58+00:00"
+    },
+    {
+      "t": "전남광주시·민주당 \"반도체 클러스터 지정, 공모없이 해달라\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PVTZMN0dDRE1yUktZSkRqeEVIQl9HYUhseVptUll6SmI3ZUNLYTF3UXotY0llZ1hJdktIanFnTXFWaDVfOV9nMkd5aUlXTnZPWjY5MjA3eGE1N3PSAWBBVV95cUxNUTZjdEFLWTFVdmNEU0FZS2xfN2Ric0N4VTRaYXBubGFsRmdndW13QUVDQkItcXBNOFhsOGVzbmdJNzhIc1RPd2ptcTZOSElNQ2I0cV9nQ3d4VlU0X0FQd3M?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-09-02T02:40:30+00:00"
     },
     {
       "t": "중동 긴장 고조에 유가·금리 상승 공포…코스피 장중 3% 내려",
@@ -55,34 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-09-02T02:29:00+00:00"
     },
     {
+      "t": "[오늘의 삼전닉스] 'AI·반도체 결합 특허' 삼성전자 돋보이네",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JSTNzUlVWcVB5OFNwcWtzLUlXeHlkQ2N3UkdIWjdZd3hSaTJfQ0lPdXhRWHdXOXo4aDA2NnR1S3ZFb1BhREh5UWZBMTREZVpUZWVrM1VxdkV2dE1LTXJ6blRn?oc=5",
+      "s": "economist.co.kr",
+      "d": "2026-09-02T02:25:00+00:00"
+    },
+    {
       "t": "코스피, 장중 3%대 내려 6,620대…코스닥은 낙폭 일부 만회",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BOTRfVFdONG9rS3FUTFdvd2s2enVqdWhINENjSEtfUzJLaEpHQUdoYndPMG1yZHRqMUlyR0hVOElEcmxrd3ByUWxJbFlNWE0?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-02T02:24:00+00:00"
     },
     {
-      "t": "日 국채금리 3% 시대…정부·가계 '빨간불'인데 기업은 버틸까",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE15NFlmWmJ0V20wR1ZxMi15eWhUTnVkOHhrSkk1Zm1ncE9UckZ2bkN1OHpxY2JOZTFEQnN0LTM1T2lPdHpGRnJxVTN5bWpTRnBhQXJCbzltM3VHQWhqSG5yenZhYmVFZmdSbTdKZUlMeld4dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-02T02:18:31+00:00"
-    },
-    {
-      "t": "비트코인, 7만7000달러선 하회…美 증시 약세·금리 인상 우려 By Bloomingbit",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NV0pOTUJVMHRGczlQSS16Mms0YTlJRXowN2VDbU9uUk1jbWhEU05DeV9CeXN3MHdxVkU1RXpMZktWS3Jzc0F1Tl9CLWROc1ZrbkhQeXVBTnEtM0wxaFAzZmI4TEktVjZhOVpKbndoZHpVeDQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-02T02:16:00+00:00"
-    },
-    {
-      "t": "\"8월 물가가 인플레 고점\"…스테이트스트리트, 韓11월 금리인상 열어둬",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MMzFMS3JLNzdfOTZMcWR2NUZvRHZEVU1WX1liNVJFRnJZcS1LY3NpOXZPYWhwSkpsbk1NSUoyaXB2MUZKdHFtUnU2NkNhZzlfU0ZObkJVdVNlOFl6YW55VUNzenFOeGVaRUlGbU8tR3p4UQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-02T02:15:48+00:00"
-    },
-    {
-      "t": "보금자리론 고정금리 5차례 인상에…판매 25% 급감",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YYzNLbDFXT2N1eHFYR1g5S1Y1NmI3R0FWZEhNV1haV185d3UxOG1EV3hQa01KQmEtZWdybUNPOVF2UWJheDlzOFZFVTI0T1FEOFhjYWh5NTRDQTdtNHNiWlM1Xy1sS2c?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-02T02:03:00+00:00"
+      "t": "日국채금리 3%대 급등…일부 은행, 국채 손절매",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qeVAxRjhtXzNJbjhXZUhIY205WTFSbU9kTnZoeTYzME5GbnZwSG5vSXVldHVaRlZsSGtKQ1ExN2lTYzZ6MmhpM2RQcm1KblljM3pGdEhrdWtaOUpyTjM4RQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-02T02:21:42+00:00"
     }
   ],
   "asof": {},
