@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-02T04:00:37+00:00",
-  "quotesAt": "2026-09-02T04:00:37+00:00",
-  "newsAt": "2026-09-02T04:00:37+00:00",
+  "fetchedAt": "2026-09-02T04:15:36+00:00",
+  "quotesAt": "2026-09-02T04:15:36+00:00",
+  "newsAt": "2026-09-02T04:15:36+00:00",
   "quotes": {
-    "kospi": 6607.94,
+    "kospi": 6597.9,
     "spx": 7631.47,
-    "nikkei": 64411.28,
+    "nikkei": 64364.75,
     "vix": 16.34,
-    "krw": 1370.25,
-    "gold": 4344.8,
-    "wti": 90.72,
-    "dxy": 99.77
+    "krw": 1370.48,
+    "gold": 4351.1,
+    "wti": 90.65,
+    "dxy": 99.78
   },
   "daily": {
     "spx": -1.04,
-    "kospi": -3.11,
-    "nikkei": -2.72,
-    "krw": 0.27,
-    "dxy": 0.1,
-    "gold": -0.07,
-    "wti": 0.55,
+    "kospi": -3.26,
+    "nikkei": -2.79,
+    "krw": 0.28,
+    "dxy": 0.11,
+    "gold": 0.07,
+    "wti": 0.48,
     "vix": 9.52
   },
   "news": [
+    {
+      "t": "이형일 \"물가는 가장 큰 미션…추석물가대책 추가 발표 노력\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcXdhS0gtakpfdU9abkh5S1JxbVJVMUFuWU15bnVVY3VhUzl4Qno4MDgzMXNPTlo4MzZSSUduNVJjR2szZEI0MmdkekI2VWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-02T04:06:03+00:00"
+    },
+    {
+      "t": "코스피 6,596.49 코스닥 809.81",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjbDNvNTFwLUp5MVNkdGU4YzlWWVByQ1Rza201Qzl0Y19XTG95b21YZ2s3UnBtSGJRdXBoRC0xTlhMVHFpMW9ObzgtWEkwR3JlcHcwYm9sVnB5a3M?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-02T03:55:00+00:00"
+    },
     {
       "t": "RBNZ 총재 \"추가 금리인상 유력하지만, 시점 매우 불확실\"(상보)",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aSVBqNWdsM0NKaVViUmsxeUVUTnVkZFBlTzBJbkJ4LXFqbXJxa2oxZ2xKNFJyaEM2Yl9aN2dTdlZpenJjakdHanpGbHlhXzI0VkpIWVJLS19DeHdXUzJySFFWeDNRZDRHM2paLS1HdEsyUQ?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-09-02T03:15:00+00:00"
     },
     {
+      "t": "'무서운 국채금리' 쇼크, 전문가 \"장기간 지속되진 않을 것\" 이유는?",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQUJsZ2kxaUVrZEllYUpXRlFndTh3SkM5T2xlX2hJNE5RUXpKRVcxdC1oWXktcTduMF9fenZwNU1EdE5leWNEWkloLTd3YzgycHAxVFFfWDd5SnpuX1E?oc=5",
+      "s": "YTN",
+      "d": "2026-09-02T03:12:00+00:00"
+    },
+    {
       "t": "소비자물가 다시 3%대‥'통신비 반값' 기저효과",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdHBYUXlVYkxoZFJCaVIxSHV3cWxleHdMckc1d0pjUXUwRk5OMGtzN1NiTjBuLTRsSDgyTzZ5cGdFWktkTkd2WEM2Y2xZU3lVT0d0dGtDWWdyN2tncldzZHZObHhINm9yaEFJTE9SblZtdG5yMTJhRtIBeEFVX3lxTE5BUWhabmZ5bkxFRi1tSTRFVmcyS3dldVZzUE8xalBiazVXV3VQMmZOejJGSTdiMkl1MDJkdWVkQnN6Zkl0MTBYNXRDc3l1enVXUUdGZHpJbkptbWlnb2ZHRV90Mjk5bVU2eTNJcVYwbXJLZUwxRDF0LQ?oc=5",
       "s": "imnews.imbc.com",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QY0lYV29kdlpFMlB5U3REOTlLTVhtWTRmRnlHMXJWdzB2T0dTQjFxSGJsS2ZnLXlHa0ZQTE0tamhUQURXb0Itb1hMb0JQNHYwUWxHdi1UYllocGVWN0g3dk04MnRFTWowTEN3aTk1Yw?oc=5",
       "s": "YTN",
       "d": "2026-09-02T03:03:00+00:00"
-    },
-    {
-      "t": "‘동시다발 쇼크’…확장재정 발표 직후, 주요국 국채금리 급등",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oQ3Q1ajVTZGxkTXFtbktBaHF2LTE0amNLRS1MTExMT3gzd0h6eGphdm56aHVEWTVUTjdRdE5oQk5kS0xVNEJmRTJfdWRQczNI?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-02T02:56:12+00:00"
-    },
-    {
-      "t": "S&P500 선물, 중동 긴장 고조 속 소폭 상승…美 국채금리↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTG5OMTJkSTNZbHVTMDVwcDVpQWlWS1VBRDdsUGNUTDNFYnZlOG16U0RXWV9lNEhETTJ5N2dkN2J6Z1A0V1ZMbGlxaEs5TzJ6M3plT0xaYl9NRVJpemtDUnc5eHU3QUtueGFPUGRxNFk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-02T02:50:55+00:00"
-    },
-    {
-      "t": "우에다 BOJ 총재 \"차기 정책회의서 금리 인상 여부 논의 예정\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVFoxLTFNNW5HNWR2ZDc3bVJnUGNGcjA1cEpleUljLXp3YTUwUy1GVkZWazdHQlBSdi1rVGJWbXdMME9rNlphZnJvX0Rtb2FOb0xIWlQzS2tFX0o3aVNQN0NBNkhSN004N0tHanQzbkU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-02T02:50:21+00:00"
     }
   ],
   "asof": {},
