@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T18:30:48+00:00",
-  "quotesAt": "2026-09-03T18:30:48+00:00",
-  "newsAt": "2026-09-03T18:30:48+00:00",
+  "fetchedAt": "2026-09-03T18:45:49+00:00",
+  "quotesAt": "2026-09-03T18:45:49+00:00",
+  "newsAt": "2026-09-03T18:45:49+00:00",
   "quotes": {
     "kospi": 6579.48,
-    "spx": 7753.38,
+    "spx": 7752.79,
     "nikkei": 64214.48,
-    "vix": 14.55,
-    "krw": 1355.28,
-    "gold": 4534.1,
-    "wti": 91.06,
-    "dxy": 98.9
+    "vix": 14.53,
+    "krw": 1355.79,
+    "gold": 4527.2,
+    "wti": 91.46,
+    "dxy": 98.92
   },
   "daily": {
-    "spx": 1.6,
+    "spx": 1.59,
     "kospi": -3.75,
     "nikkei": -0.17,
-    "krw": -1.28,
-    "dxy": -0.66,
-    "gold": 3.84,
-    "wti": 0.05,
-    "vix": -4.28
+    "krw": -1.24,
+    "dxy": -0.65,
+    "gold": 3.69,
+    "wti": 0.49,
+    "vix": -4.41
   },
   "news": [
     {
-      "t": "국채 금리 연쇄 급등…증시·환율 동반 불안",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZXlnV1FWeVgwcTZjdmV0VDE4ZTdsc2JlZnNZSjZmUngtcDNVdnk3SXY1aURPZ3pxWG5GUjBvLVBlTHVSU1VxVGFBc01WTHljSUN4Q1E2ejZyaGZTUWVVZUJtMXA5RUt6cjhEbU9LcXQwdUhtQlRMelJvSmxIazA1ZFgtSTZjREh5RS1RYkIwVk5hd3NXVHJFVjRsdnBwOUYzWDRjdkMtaTZ3Z9IBX0FVX3lxTE1McHc2VVp1YV9pZFY5SGRiSmw0akRBZjJiY1hLRDMwbTVRUUl1eEZMNGRRbmlvRmtSRWpzLUowcTU4aEVjZDA4NW5WcEk4QVpTR05LNzlpS2lxc3pvWGc4?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-02T12:34:00+00:00"
+      "t": "美 \"반도체 표적관세\"… '표'나게 압박하는 트럼프 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WbkFtVm11UVhCZXVPcnlVMGtvZFU3UDgyM3ZBNUZQa2F0SEhGbUZ2QnpoNlp0QmNRVUMyU2pqd1h6d2VHQUdHSkhTNklYMkF2Yk12TFBhTFVCRmFjZDd0VzUxZlgyOHl60gFuQVVfeXFMUENfbmNMRXFMYWV6WUpId01tN0dtcDRKbkJreGFhcmQ5MDdUajQ3VFRGdGlOMkJPNklYRVQycVNjc2liM2xLY2R6cVkyVS1qN1UtNXY4TnBVQlRHY0VjQlF0N0lGQWY5NkFaQjhwanc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-03T18:30:00+00:00"
     },
     {
-      "t": "버크셔 에이블 \"日 금리 30년 만에 최고지만 문제없어\"…종합상사 투자 계속",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XMTFndE1qZDR3SVdtU2QwajM1TV96c2diUW1LaDZ1V2h1V1piUXFzZnZId0c4TmdFdjVZOV9RbUNkejJQZURxOGVCZ3pmOWNnZlNWV1loR1pPbGE2?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-02T12:14:00+00:00"
+      "t": "美 연준, 금리 동결 관측에 금값 반등 조짐… 원자재 수혜·환율 변동성 확대",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUstTk9idGVVSUI3eVM3MG9ZQVU4VHJkMXlEQWRJNG4wNk9rSFRJa2NYZ0hJNnFtdVZoeHNXem04MlQxTVljZ3RwMWNYdlBsaDZ5WEpEbGJqNFNPNXhpYTBVTlJWRzVCR3RHSTFidktKNEpZbXR6YTM5ZDlBVE1BSzMwaU5Sd3dv?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-03T18:25:00+00:00"
     },
     {
-      "t": "금리 치솟을 땐 투자전략 달라야…‘고ROA’주, 16개 종목 리스트는? [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42RmxCOWFqbW5pMFVYQkpjaTluLWNna2M4RjFfWTRqSk1GZTJzLV9qcHMzRlR6Y3VPazFPMjRBVzFMYTl3enN6RnZJa2E5UF9BTGhlXzZnQQ?oc=5",
-      "s": "mbiz.heraldcorp.com",
-      "d": "2026-09-02T11:40:00+00:00"
-    },
-    {
-      "t": "달러-원, 뉴욕장서 1,360원 초반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FaFg5SGFTRXRhQkpiaWdXTmJKOVJoU05YdTViajdQWjU0cUx5NkVNRU1PUWFPZzV5UmF2cWhaZ2Y3SWo5RGtnMVcwME1LMTF0V042RGFFX2gxSWtIRmYtWTdGdDVRMVN3dGpuV0ZWZGJzQQ?oc=5",
+      "t": "[뉴욕 금가격] 월러 '비둘기' 발언에 3% 급등",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MaktqaURIb184RkxRUHRDWGhHVGpKX0VjQ0xsOGdhNWplcDVqTnRncy1pT3ZNYU0zNWREZTdVSXVnaG5pcXJDOEdUY2dJUmx1QXFqZ0duN0pET184cFhZS3hXUVhsRFhxVlV4ZldodURfZw?oc=5",
       "s": "KB Think",
-      "d": "2026-09-02T11:36:27+00:00"
+      "d": "2026-09-03T18:22:58+00:00"
     },
     {
-      "t": "美 10년물 국채금리 4.81% 돌파…2023년 11월 이후 '최고'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zN09tNGJubmFYbE9fLWM4anRpUmxhdU5vb2dBNk05ZjA3c2NJVGNqTWF0MEFqZnYtajJ0Zjh0MVdOcFFWWnZQOWotOE56SzV5ay1xWmktNWpLUXo4?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-02T11:17:00+00:00"
-    },
-    {
-      "t": "[오늘의증시] 외국인 투매에 코스피 4% 급락…6600선 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uT2tBTHh1cng5d3RNWVRDY296OHk3LWZwOTc5NTFEM3NETjRHWHBOWjFMMFd0Y2llTTZ6UkoyT2RoZWtMcjQ1NGRFUG5HRVN5cHhaV08yMjNtNTNCM0J2aFhhUnlMYjBs0gFoQVVfeXFMT25Pa0FMeHVyeDl3dE1ZVENjb3o4eTctZnA5Nzk1MUQzc0RONEdYcE5aMUwwV3RjaWVNNnpSSjJPZGhla0xyNDU0ZEVQbkdFU3lweFpXTzIyM201M0IzQnZoWGFSeUxiMGw?oc=5",
-      "s": "경인방송 뉴스",
-      "d": "2026-09-02T11:06:38+00:00"
-    },
-    {
-      "t": "은행 부실채권 8년 만에 최대… 금리 상승에 ‘비상’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMWUpjUzF6dElVYVNKOGNUZU1XcWhQNEEzTEpfWmJfNDFKQ1hKVHFmMVVXdGtZVnNiOG5yOVlEN1dUUVV0RHBXaG03ME93aTA?oc=5",
+      "t": "월러 연준 이사 \"물가 둔화 지속되면 9월 금리 동결 지지\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nSUFJcjVWQU1ZcmJKVTd2UG9ueWRrNjZVVDVmamZRV1BUeGZ3OHZyNG9qSlYtdzVpZE9uWjNvX0VwRFRHWERZTlRVRExjck0?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-02T11:03:00+00:00"
+      "d": "2026-09-03T18:15:00+00:00"
     },
     {
-      "t": "미 국채금리 ’껑충’…글로벌 금융시장 ’휘청’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QUVdkOGI2YTV1TVkxazVldUpmRzZuaDhabTdkeFp6T0d5dlIyMUdwT0NYcVl4eWJ0aTBNbldaRmVCd1NhUFZjRGQ3R1pROGFaNFQ5RXgwRjJobkJucXVrRVhZMUFaU1U?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-02T11:02:00+00:00"
+      "t": "잉글랜드은행 이코노미스트 \"금리 인상, 더 큰 폭 인상 막을 것\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNUhqQ2l1d0VzZS1OelVBTUpNcTZ5aHRkcXAyUXZRTFg5ckt5dEFmRUllVDIyTmJKVmx4Rlg3aGRham90d25icXdWeDZFYi03U19LTHE5TnM0ay05N3FPeFBURjg0RXNqTkdPdFZtTlA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-03T18:04:00+00:00"
     },
     {
-      "t": "국채금리·유가 중동 긴장에 국채금리·유가 급등…코스피 4% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DRml0WkoxNTQ3enJWMVVub21nVTVFdWxERnZzbTJhenI3MW9kMzNmMXUyTERBZXBWbzZtZzFhTWNzN0hNZkJUMWtEdWZOOHp3WTBkX0NJRTBTazJnWlotb2VHM1BsRmM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-02T11:01:00+00:00"
+      "t": "미, 외국산 드론에 최대 100% 관세 발효…중국 드론 산업 견제",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tMFN3RlFOYkdva2diSldXUk91R1kxYkF4R0t3TFViRGExRmVKWkRPYWNtNkZJTElhbHlRc1FJMTRxeWhCQTZQNm1pUU5TRTY3UmZIVTBLZjZNV2sw?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-03T17:46:00+00:00"
     },
     {
-      "t": "국채금리 충격에 세계 증시 '휘청'‥코스피도 4% 급락",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UdHlQSmxIeDR4QzlRYkpsQmVsNFBQUXhSelg5Slczc2JfOU5XTG1YN0xMSk9FSmFucGdKdlFRTVQxUjhEcVZRUXJRaEJ1Z2czVEd0bEtxeWltWFgxd1BVMzdvQWcycW52MGhrV1E1YUJDbmdDS2tQbNIBeEFVX3lxTE1wWGg0aExQbTFWaEExcXZMdFY4TTFvdmJqRkxrUXdvU0dZWkVuZTdJczBLT2F3QjhQbWJpeG01OEIxOUJyV0hwVmQwcGtMbmZkTUc5NHJJODlyLVJqckV3cURYMWFVUUNkZXBkMWhNVWdXcTlfUUViUg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-09-02T11:00:44+00:00"
+      "t": "유럽증시, 글로벌 국채 매도세 다소 진정되자 일제히 상승… 佛 소이텍 10.3% 급등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZnRKcnFBUEw1WXZVVk9WZXVBalNQTmZ2aS1PVmJpYzlSU1BhVWxabkhyZW4wY2tLRER3ZmhqQUNkNXpYM25ndUh4X0JtdUJNV0tZRVJ6TTdjdUlR?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-03T17:14:00+00:00"
+    },
+    {
+      "t": "[기자수첩] 농가 두 번 죽이는 농식품부의 ‘물가 안정’ 자화자찬",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BYVRRQl9jN05QS3VLdzMyNFZ5cU1KcHpvaFppU3FMZGtzWFJMczdaa3RrZmUxbTZzM3FZeDhKY2NMYmdtMTlhTFVYSVltRWZzai1rVUxiazN6TGFuNXF2aHhKLURuVnh5Z1lvSDRn?oc=5",
+      "s": "팜인사이트",
+      "d": "2026-09-03T16:13:35+00:00"
+    },
+    {
+      "t": "[사설] 미국 ‘반도체 압박’ 본격화, 대미 투자협상 이상 없나",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSzFiQ1N2QWtWY0hrelNqVlYtVTk0ZHFMVi1LcEJ6UTFxTW4wT25NUDZSaGk3TlhKd3FxZ3A4a1l5N3dleV93TmQyQS1EeFlkLV9zTU9tcWZiRXBGMDh2S3h4TlpDX1ZyTHlrbtIBbEFVX3lxTE0zSzFiQ1N2QWtWY0hrelNqVlYtVTk0ZHFMVi1LcEJ6UTFxTW4wT25NUDZSaGk3TlhKd3FxZ3A4a1l5N3dleV93TmQyQS1EeFlkLV9zTU9tcWZiRXBGMDh2S3h4TlpDX1ZyTHlrbg?oc=5",
+      "s": "국민일보",
+      "d": "2026-09-03T16:12:00+00:00"
+    },
+    {
+      "t": "환율 1년 2개월 만에 1350원대… 기업 달러 매도·엔화 강세 영향",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yUVFYcTFobUxuZUd2WW9LT3dCeUFpRm81aU9lX3AtT2hDbktzQkhUdGhZVVZGYW5kSlY2Qm5HT2syNVNtY3RvdmZ0TmV2QVFIbWtTWlhGRVgxcWpyV3FsYU5WU1lLamdFY1hpNFhDcw?oc=5",
+      "s": "서울신문",
+      "d": "2026-09-03T16:10:47+00:00"
     }
   ],
   "asof": {},
