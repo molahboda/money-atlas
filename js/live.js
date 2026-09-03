@@ -1,52 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T19:45:37+00:00",
-  "quotesAt": "2026-09-03T19:45:37+00:00",
-  "newsAt": "2026-09-03T19:45:37+00:00",
+  "fetchedAt": "2026-09-03T20:00:41+00:00",
+  "quotesAt": "2026-09-03T20:00:41+00:00",
+  "newsAt": "2026-09-03T20:00:41+00:00",
   "quotes": {
     "kospi": 6579.48,
-    "spx": 7749.92,
+    "spx": 7747.59,
     "nikkei": 64214.48,
-    "vix": 14.38,
+    "vix": 14.35,
     "krw": 1356.04,
-    "gold": 4522.3,
-    "wti": 91.3,
-    "dxy": 99.01
+    "gold": 4526.3,
+    "wti": 91.6,
+    "dxy": 98.97
   },
   "daily": {
-    "spx": 1.55,
+    "spx": 1.52,
     "kospi": -3.75,
     "nikkei": -0.17,
     "krw": -1.23,
-    "dxy": -0.55,
-    "gold": 3.57,
-    "wti": 0.32,
-    "vix": -5.39
+    "dxy": -0.59,
+    "gold": 3.66,
+    "wti": 0.65,
+    "vix": -5.59
   },
   "news": [
     {
+      "t": "강달러에도 원화 강세… 반도체 수출 호조에 ‘환율 상식’ 깨졌다",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtd2poV0lFUUJiQ0szdVJ3SklqY21tb3NPWW81T2lldHM2cmloS2NmeUQzRUJvLUl4dG05X0E0Nncwb3JZc3hqTzE4eWt1VHl3Z092U3dmZTFiUTd3UkpnZGxubGpXWURabk1lMzlmUGVPMjVmLWfSAWZBVV95cUxPelBnZ2k1TkZHUzNFSG1zMGJaWldtYjM2ci1XWFZEb2xMX08tcEdHMXFhWHBIWG1VUjgzQmNFdjJzZTF4TTZJWkZfbUNXVFFRX0M5U1VaWFNfWEZ3U2M1ZlFyM3hjbkE?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-03T19:30:00+00:00"
+    },
+    {
       "t": "반도체 실전형 인재 양성… 학생부종합 대폭 확대",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lQlJnTU8wY0didl9oSnZ4U1U0eF9OcXBsWkEzZFBTYW5jQUxabDRtM0lIYWV5R0FQTlU1S1lST01qemtaWU04X3BzMGJqaE0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T19:34:29+00:00"
-    },
-    {
-      "t": "원-달러 환율 1350원대… 석달만에 200원 낮아져",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92ODVCTWpRU0FLazBYOG9fd01FSEhEOWlacTBjOE9IVlNKRU5NVUhZS2NKdFZaZnY0bXdjS2hyVVBFSlJDMGNvZmRlM0hHUm10SDZTalhMQkFVakN5WllDUXFJM3c1RmFoZUVXYUw4QzlBanJjT1HSAWZBVV95cUxOamprSHpJOEs4Z1dxRGpyUEZLVUJ6cTJJcUIzUXliSkgzeDFqaGo0WWhHaFhvclVOeFNrcHNKclBlNDRRSi15NXdVSXJEeGx4clZkc0ZSWG1wU2tlODYwbU9SZmVzYXc?oc=5",
-      "s": "donga.com",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHeFdZMFdpNjdlS3ZqTU1PWHlKZVQxY1Q1dXpSNDBnR0I1emczOW45ZElzX180S005LS1GbUprcDAzM0RqcUl2eWZYVjdfZGhLeTI5TmdNVG4xNGF1N3hJcFdPOWFvX2pIR1lidmhmOFFQZEo1WXfSAWZBVV95cUxPaHNlbkIxMTdHUU9WTTF5SmJ2UmJacVhsQWxjYi1TS1F2bW1veVYydFdRMWppTGswTnAwTzNOVkxGY0l4elQ2ZlRyQlFZR055VGtGMnhrVDdFQ09NMXF4WmI0bllqUWc?oc=5",
+      "s": "동아일보",
       "d": "2026-09-03T19:30:00+00:00"
     },
     {
-      "t": "‘반도체 표적관세’ 또 압박한 러트닉 “美공장서 생산 안하면 부과”",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Lbmxyd0JTWG5CTUFhbHdVMngzWXVEWS1IcVhqMVdnNmw1aUpKa09MYmM2YmdSU0xUaWs5ME81SS03bFl3cG9LNTR0eE9FeFVuajc5bDJKdVVIakNyTTFyTThsd2xvZXhrb2FLWHBWX3N3eV9WckHSAWZBVV95cUxQSVhRSmNVMWVPOHNIbkpTc2VwRUVXTUV4S0VrSVpsUnQ5Y01pZ2E0bk5hSlhZVjIwY1RhSHRCeDE3ME4wMFlKbG1rRFZCUGUtSHZ6bmVkeXFHTkpReXp6RDhyd3pWS2c?oc=5",
-      "s": "donga.com",
+      "t": "AI시스템반도체학과 신설… 전문인재 육성",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NWJMLVcwZjl6RjBYYVpudXljdkVoNFVNMUp6eTZOajZJVUtYZVZqNlo1WWMtajR2VWRWTkJCcEJEOVhTc0szcl9XUlA4WndFc0JuQ3REOGNUZ2lhZUhLdW9MVWVnU3IxTER3RF9vMGVBcHdQX2fSAWZBVV95cUxQT1VVX2NaOWZmTFBhTG1mdmRMTkZCUFYwQUtFSjRfVVdBZW5oYmpLby12czVURHhMS3RnaWFUZ1hqQ0p0bWc5eHZ0VlZyX25aTFRBY0Y1eWlwUUdkbVVoenNGUXZwWnc?oc=5",
+      "s": "동아일보",
       "d": "2026-09-03T19:30:00+00:00"
-    },
-    {
-      "t": "관세도 못 막은 AI 수입…美 무역적자 16개월 만에 최대",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ajNEeDhhTWttYlROLXZtdUFEUUdrcEt6ZlhKTlJNQnZmdGRuWVFNRzM5QTJueW1hU3h1aFJxMklZanAxcnJPSkpSZG9YRm8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T19:18:09+00:00"
     },
     {
       "t": "美첨단기업 4곳, 한국에 2.8조 투자…반도체·해상풍력 공급망 강화",
@@ -71,6 +65,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jbi1ITmIxOXljenJFbU9XbmZaSXl4bXBUdl9ZSTRFbTJoaW5NajBYbm95X0ZfUE5BeEV0S2l3MzZ0VERGVVg0X2pld2ptbXlkLU5Hc2dtLThTYVJnUzZxOGlmdF9YaVdfcUVoaUI3SDE4QQ?oc=5",
       "s": "KB Think",
       "d": "2026-09-03T18:46:08+00:00"
+    },
+    {
+      "t": "JD 밴스, 백악관은 연준 금리 인하 원해",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kTjVnNGNkQ0Y5ZXhQbmxLaGtlTTlOWVVtYTY1WTU5Q1lJekg5TFAyamhyUlFKWjlVbGF0Q296Q3ZqZEpHdFNoLTVJNEhJUmdXRFdaQ2RIdjRIVnhMUVlJTm9DUC1heWc3WEFYbWRib1E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-03T18:37:00+00:00"
     },
     {
       "t": "美 \"반도체 표적관세\"… '표'나게 압박하는 트럼프 - 머니투데이",
