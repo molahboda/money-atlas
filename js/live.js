@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T18:45:49+00:00",
-  "quotesAt": "2026-09-03T18:45:49+00:00",
-  "newsAt": "2026-09-03T18:45:49+00:00",
+  "fetchedAt": "2026-09-03T19:00:42+00:00",
+  "quotesAt": "2026-09-03T19:00:42+00:00",
+  "newsAt": "2026-09-03T19:00:42+00:00",
   "quotes": {
     "kospi": 6579.48,
-    "spx": 7752.79,
+    "spx": 7751.44,
     "nikkei": 64214.48,
-    "vix": 14.53,
-    "krw": 1355.79,
-    "gold": 4527.2,
-    "wti": 91.46,
+    "vix": 14.47,
+    "krw": 1355.64,
+    "gold": 4525,
+    "wti": 91.45,
     "dxy": 98.92
   },
   "daily": {
-    "spx": 1.59,
+    "spx": 1.57,
     "kospi": -3.75,
     "nikkei": -0.17,
-    "krw": -1.24,
-    "dxy": -0.65,
-    "gold": 3.69,
-    "wti": 0.49,
-    "vix": -4.41
+    "krw": -1.25,
+    "dxy": -0.64,
+    "gold": 3.63,
+    "wti": 0.48,
+    "vix": -4.8
   },
   "news": [
     {
@@ -74,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "[사설] 미국 ‘반도체 압박’ 본격화, 대미 투자협상 이상 없나",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSzFiQ1N2QWtWY0hrelNqVlYtVTk0ZHFMVi1LcEJ6UTFxTW4wT25NUDZSaGk3TlhKd3FxZ3A4a1l5N3dleV93TmQyQS1EeFlkLV9zTU9tcWZiRXBGMDh2S3h4TlpDX1ZyTHlrbtIBbEFVX3lxTE0zSzFiQ1N2QWtWY0hrelNqVlYtVTk0ZHFMVi1LcEJ6UTFxTW4wT25NUDZSaGk3TlhKd3FxZ3A4a1l5N3dleV93TmQyQS1EeFlkLV9zTU9tcWZiRXBGMDh2S3h4TlpDX1ZyTHlrbg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2ljREJkMklmMkdIU1VVSlJEaDdQVlNIMjU2dHUyVDg4Z1lPekdjQkUtTWoySGljRjRaWml0cWVKYVktMlU2YzVkVnJPOElHOUFSY3hlVkdfOHdmSWdneUFacTIyRlZFQ2xfOVFuQ0UtOVFBS25aSVZjQzB0dDVzRWplN3ZoQdIBbEFVX3lxTE0zSzFiQ1N2QWtWY0hrelNqVlYtVTk0ZHFMVi1LcEJ6UTFxTW4wT25NUDZSaGk3TlhKd3FxZ3A4a1l5N3dleV93TmQyQS1EeFlkLV9zTU9tcWZiRXBGMDh2S3h4TlpDX1ZyTHlrbg?oc=5",
       "s": "국민일보",
       "d": "2026-09-03T16:12:00+00:00"
     },
