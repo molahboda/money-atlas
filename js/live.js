@@ -1,32 +1,50 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T19:00:42+00:00",
-  "quotesAt": "2026-09-03T19:00:42+00:00",
-  "newsAt": "2026-09-03T19:00:42+00:00",
+  "fetchedAt": "2026-09-03T19:15:43+00:00",
+  "quotesAt": "2026-09-03T19:15:43+00:00",
+  "newsAt": "2026-09-03T19:15:43+00:00",
   "quotes": {
     "kospi": 6579.48,
-    "spx": 7751.44,
+    "spx": 7749.76,
     "nikkei": 64214.48,
-    "vix": 14.47,
-    "krw": 1355.64,
-    "gold": 4525,
-    "wti": 91.45,
-    "dxy": 98.92
+    "vix": 14.45,
+    "krw": 1356.21,
+    "gold": 4523,
+    "wti": 91.6,
+    "dxy": 98.93
   },
   "daily": {
-    "spx": 1.57,
+    "spx": 1.55,
     "kospi": -3.75,
     "nikkei": -0.17,
-    "krw": -1.25,
-    "dxy": -0.64,
-    "gold": 3.63,
-    "wti": 0.48,
-    "vix": -4.8
+    "krw": -1.21,
+    "dxy": -0.63,
+    "gold": 3.59,
+    "wti": 0.65,
+    "vix": -4.93
   },
   "news": [
     {
+      "t": "美 기업 4곳, 한국에 20억달러 투자… 반도체 소재·장비 키운다",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejgyc1ZwSmVvTW8teXJiNGlIVXZWMk1idXBXUENaNEFCY3Zjdkx0WHRuLXNlTjRtQVJtZG5JcjU2RHc3akQxR1hISmd3UzFfRFM4ZjF3VWFtM19rcTdteUJHcHotNHp0M1Q3YWdhSDZQM0JqWE1TSzI0QnBwNHZlM01QTHVSUm1pdVRWTHJn?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-03T19:06:58+00:00"
+    },
+    {
+      "t": "산업부·코트라, 미국 첨단기업 4곳 2.8조원 투자 유치",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyRnRpZGZaMG9SQzNCajZnLVA1Unc1TC1MN0hpUktLQVBGc19iNlRoRGlUTldreXFucFJLcDk5dlBqZGdYSWNXeHFtaUdFa3B4MUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-03T19:00:01+00:00"
+    },
+    {
+      "t": "美부통령, 금리 상승 지적에 \"연준 도움받으면 좋을 것…인하해야\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jbi1ITmIxOXljenJFbU9XbmZaSXl4bXBUdl9ZSTRFbTJoaW5NajBYbm95X0ZfUE5BeEV0S2l3MzZ0VERGVVg0X2pld2ptbXlkLU5Hc2dtLThTYVJnUzZxOGlmdF9YaVdfcUVoaUI3SDE4QQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-03T18:46:08+00:00"
+    },
+    {
       "t": "美 \"반도체 표적관세\"… '표'나게 압박하는 트럼프 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WbkFtVm11UVhCZXVPcnlVMGtvZFU3UDgyM3ZBNUZQa2F0SEhGbUZ2QnpoNlp0QmNRVUMyU2pqd1h6d2VHQUdHSkhTNklYMkF2Yk12TFBhTFVCRmFjZDd0VzUxZlgyOHl60gFuQVVfeXFMUENfbmNMRXFMYWV6WUpId01tN0dtcDRKbkJreGFhcmQ5MDdUajQ3VFRGdGlOMkJPNklYRVQycVNjc2liM2xLY2R6cVkyVS1qN1UtNXY4TnBVQlRHY0VjQlF0N0lGQWY5NkFaQjhwanc?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDX25jTEVxTGFlellKSHdNbTdHbXA0Sm5Ca3hhYXJkOTA3VGo0N1RURnRpTjJCTzZJWEVUMnFTY3NpYjNsS2NkenFZMlUtajdVLTV2OE5wVUJUR2NFY0JRdDdJRkFmOTZBWkI4cGp30gFuQVVfeXFMUENfbmNMRXFMYWV6WUpId01tN0dtcDRKbkJreGFhcmQ5MDdUajQ3VFRGdGlOMkJPNklYRVQycVNjc2liM2xLY2R6cVkyVS1qN1UtNXY4TnBVQlRHY0VjQlF0N0lGQWY5NkFaQjhwanc?oc=5",
       "s": "머니투데이",
       "d": "2026-09-03T18:30:00+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZnRKcnFBUEw1WXZVVk9WZXVBalNQTmZ2aS1PVmJpYzlSU1BhVWxabkhyZW4wY2tLRER3ZmhqQUNkNXpYM25ndUh4X0JtdUJNV0tZRVJ6TTdjdUlR?oc=5",
       "s": "뉴스핌",
       "d": "2026-09-03T17:14:00+00:00"
-    },
-    {
-      "t": "[기자수첩] 농가 두 번 죽이는 농식품부의 ‘물가 안정’ 자화자찬",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BYVRRQl9jN05QS3VLdzMyNFZ5cU1KcHpvaFppU3FMZGtzWFJMczdaa3RrZmUxbTZzM3FZeDhKY2NMYmdtMTlhTFVYSVltRWZzai1rVUxiazN6TGFuNXF2aHhKLURuVnh5Z1lvSDRn?oc=5",
-      "s": "팜인사이트",
-      "d": "2026-09-03T16:13:35+00:00"
-    },
-    {
-      "t": "[사설] 미국 ‘반도체 압박’ 본격화, 대미 투자협상 이상 없나",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2ljREJkMklmMkdIU1VVSlJEaDdQVlNIMjU2dHUyVDg4Z1lPekdjQkUtTWoySGljRjRaWml0cWVKYVktMlU2YzVkVnJPOElHOUFSY3hlVkdfOHdmSWdneUFacTIyRlZFQ2xfOVFuQ0UtOVFBS25aSVZjQzB0dDVzRWplN3ZoQdIBbEFVX3lxTE0zSzFiQ1N2QWtWY0hrelNqVlYtVTk0ZHFMVi1LcEJ6UTFxTW4wT25NUDZSaGk3TlhKd3FxZ3A4a1l5N3dleV93TmQyQS1EeFlkLV9zTU9tcWZiRXBGMDh2S3h4TlpDX1ZyTHlrbg?oc=5",
-      "s": "국민일보",
-      "d": "2026-09-03T16:12:00+00:00"
-    },
-    {
-      "t": "환율 1년 2개월 만에 1350원대… 기업 달러 매도·엔화 강세 영향",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yUVFYcTFobUxuZUd2WW9LT3dCeUFpRm81aU9lX3AtT2hDbktzQkhUdGhZVVZGYW5kSlY2Qm5HT2syNVNtY3RvdmZ0TmV2QVFIbWtTWlhGRVgxcWpyV3FsYU5WU1lLamdFY1hpNFhDcw?oc=5",
-      "s": "서울신문",
-      "d": "2026-09-03T16:10:47+00:00"
     }
   ],
   "asof": {},
