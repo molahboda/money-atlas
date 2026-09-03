@@ -1,52 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T19:15:43+00:00",
-  "quotesAt": "2026-09-03T19:15:43+00:00",
-  "newsAt": "2026-09-03T19:15:43+00:00",
+  "fetchedAt": "2026-09-03T19:30:39+00:00",
+  "quotesAt": "2026-09-03T19:30:39+00:00",
+  "newsAt": "2026-09-03T19:30:39+00:00",
   "quotes": {
     "kospi": 6579.48,
-    "spx": 7749.76,
+    "spx": 7751.46,
     "nikkei": 64214.48,
-    "vix": 14.45,
-    "krw": 1356.21,
-    "gold": 4523,
-    "wti": 91.6,
-    "dxy": 98.93
+    "vix": 14.43,
+    "krw": 1355.93,
+    "gold": 4522.8,
+    "wti": 91.55,
+    "dxy": 98.98
   },
   "daily": {
-    "spx": 1.55,
+    "spx": 1.57,
     "kospi": -3.75,
     "nikkei": -0.17,
-    "krw": -1.21,
-    "dxy": -0.63,
-    "gold": 3.59,
-    "wti": 0.65,
-    "vix": -4.93
+    "krw": -1.23,
+    "dxy": -0.59,
+    "gold": 3.58,
+    "wti": 0.59,
+    "vix": -5.07
   },
   "news": [
+    {
+      "t": "불안한 증시엔 은행주 '방패' … 금리·실적·배당까지 '3박자' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mOFd3dExocjlpaGl5c01RSnZmTXQtYllLQW9TM1dpREIxMjFKblBncHpxN1RxR09oeVpNQVphSThZM2JtOWRlaWtfX1RuTFBJd0ltakxtbGxpWVpib2pTeGNBLVlsRFhf0gFuQVVfeXFMUHhISWJLbEo4NGF0S21ram9FVmphazZaUE1DMUYtdVo2aU13dXZvZTBNcUVBLWctcE1lM3pwZ01fTkJKOGNhZVdRQ2tOTGNJcU5EU1FRRmpuZ2JpMHZHZ2ZwbmVsZGxYSGZtcnhrbWc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-03T19:10:00+00:00"
+    },
+    {
+      "t": "美첨단기업 4곳, 한국에 2.8조 투자…반도체·해상풍력 공급망 강화",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRUp1X0NiamZ6dVFqVjVJRkpXbzBqU05LV1pkZExIRDJ0YkticDVLQ1Bpak15azNZWFFkYThMNDVhd2EyZG5VS21qUTZ6a2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-03T19:03:00+00:00"
+    },
     {
       "t": "美 기업 4곳, 한국에 20억달러 투자… 반도체 소재·장비 키운다",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejgyc1ZwSmVvTW8teXJiNGlIVXZWMk1idXBXUENaNEFCY3Zjdkx0WHRuLXNlTjRtQVJtZG5JcjU2RHc3akQxR1hISmd3UzFfRFM4ZjF3VWFtM19rcTdteUJHcHotNHp0M1Q3YWdhSDZQM0JqWE1TSzI0QnBwNHZlM01QTHVSUm1pdVRWTHJn?oc=5",
       "s": "조선일보",
-      "d": "2026-09-03T19:06:58+00:00"
+      "d": "2026-09-03T19:00:00+00:00"
     },
     {
-      "t": "산업부·코트라, 미국 첨단기업 4곳 2.8조원 투자 유치",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyRnRpZGZaMG9SQzNCajZnLVA1Unc1TC1MN0hpUktLQVBGc19iNlRoRGlUTldreXFucFJLcDk5dlBqZGdYSWNXeHFtaUdFa3B4MUE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-03T19:00:01+00:00"
+      "t": "[허원순의 경제로 세상보기] 다시 켜지는 ‘고물가·고금리’ 경고등",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcU44alo5SzV0SmVqWjhWVjhGMFNqeXRqYm9jV1d3bjNleEd6UUJGSmNMWjg3UThhQmRzSmxfbDd2eXFST1ZnZW1ya0FBdTM3U181U2M4X3N2Z1NOYV9jcnBGSl9MX0FIdDlJTtIBcEFVX3lxTE5SVFp5QUc5STcwendQMHI0cHAtNkFoamRmR0J5N1NfaE5ReGJPbmNPSUN6ZGFYWTRzbDFWemVtNUlrV3lLdUlFZEcxdlFyaS1ROVBuME1QWkItbThKd1ppNzRfc0NDekJhakRFTWNCdUg?oc=5",
+      "s": "글로벌경제신문",
+      "d": "2026-09-03T19:00:00+00:00"
     },
     {
       "t": "美부통령, 금리 상승 지적에 \"연준 도움받으면 좋을 것…인하해야\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jbi1ITmIxOXljenJFbU9XbmZaSXl4bXBUdl9ZSTRFbTJoaW5NajBYbm95X0ZfUE5BeEV0S2l3MzZ0VERGVVg0X2pld2ptbXlkLU5Hc2dtLThTYVJnUzZxOGlmdF9YaVdfcUVoaUI3SDE4QQ?oc=5",
       "s": "KB Think",
       "d": "2026-09-03T18:46:08+00:00"
-    },
-    {
-      "t": "美 \"반도체 표적관세\"… '표'나게 압박하는 트럼프 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDX25jTEVxTGFlellKSHdNbTdHbXA0Sm5Ca3hhYXJkOTA3VGo0N1RURnRpTjJCTzZJWEVUMnFTY3NpYjNsS2NkenFZMlUtajdVLTV2OE5wVUJUR2NFY0JRdDdJRkFmOTZBWkI4cGp30gFuQVVfeXFMUENfbmNMRXFMYWV6WUpId01tN0dtcDRKbkJreGFhcmQ5MDdUajQ3VFRGdGlOMkJPNklYRVQycVNjc2liM2xLY2R6cVkyVS1qN1UtNXY4TnBVQlRHY0VjQlF0N0lGQWY5NkFaQjhwanc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-03T18:30:00+00:00"
     },
     {
       "t": "美 연준, 금리 동결 관측에 금값 반등 조짐… 원자재 수혜·환율 변동성 확대",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tMFN3RlFOYkdva2diSldXUk91R1kxYkF4R0t3TFViRGExRmVKWkRPYWNtNkZJTElhbHlRc1FJMTRxeWhCQTZQNm1pUU5TRTY3UmZIVTBLZjZNV2sw?oc=5",
       "s": "뉴스핌",
       "d": "2026-09-03T17:46:00+00:00"
-    },
-    {
-      "t": "유럽증시, 글로벌 국채 매도세 다소 진정되자 일제히 상승… 佛 소이텍 10.3% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oZnRKcnFBUEw1WXZVVk9WZXVBalNQTmZ2aS1PVmJpYzlSU1BhVWxabkhyZW4wY2tLRER3ZmhqQUNkNXpYM25ndUh4X0JtdUJNV0tZRVJ6TTdjdUlR?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-03T17:14:00+00:00"
     }
   ],
   "asof": {},
