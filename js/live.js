@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T19:30:39+00:00",
-  "quotesAt": "2026-09-03T19:30:39+00:00",
-  "newsAt": "2026-09-03T19:30:39+00:00",
+  "fetchedAt": "2026-09-03T19:45:37+00:00",
+  "quotesAt": "2026-09-03T19:45:37+00:00",
+  "newsAt": "2026-09-03T19:45:37+00:00",
   "quotes": {
     "kospi": 6579.48,
-    "spx": 7751.46,
+    "spx": 7749.92,
     "nikkei": 64214.48,
-    "vix": 14.43,
-    "krw": 1355.93,
-    "gold": 4522.8,
-    "wti": 91.55,
-    "dxy": 98.98
+    "vix": 14.38,
+    "krw": 1356.04,
+    "gold": 4522.3,
+    "wti": 91.3,
+    "dxy": 99.01
   },
   "daily": {
-    "spx": 1.57,
+    "spx": 1.55,
     "kospi": -3.75,
     "nikkei": -0.17,
     "krw": -1.23,
-    "dxy": -0.59,
-    "gold": 3.58,
-    "wti": 0.59,
-    "vix": -5.07
+    "dxy": -0.55,
+    "gold": 3.57,
+    "wti": 0.32,
+    "vix": -5.39
   },
   "news": [
     {
-      "t": "불안한 증시엔 은행주 '방패' … 금리·실적·배당까지 '3박자' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mOFd3dExocjlpaGl5c01RSnZmTXQtYllLQW9TM1dpREIxMjFKblBncHpxN1RxR09oeVpNQVphSThZM2JtOWRlaWtfX1RuTFBJd0ltakxtbGxpWVpib2pTeGNBLVlsRFhf0gFuQVVfeXFMUHhISWJLbEo4NGF0S21ram9FVmphazZaUE1DMUYtdVo2aU13dXZvZTBNcUVBLWctcE1lM3pwZ01fTkJKOGNhZVdRQ2tOTGNJcU5EU1FRRmpuZ2JpMHZHZ2ZwbmVsZGxYSGZtcnhrbWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-03T19:10:00+00:00"
+      "t": "반도체 실전형 인재 양성… 학생부종합 대폭 확대",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lQlJnTU8wY0didl9oSnZ4U1U0eF9OcXBsWkEzZFBTYW5jQUxabDRtM0lIYWV5R0FQTlU1S1lST01qemtaWU04X3BzMGJqaE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-03T19:34:29+00:00"
+    },
+    {
+      "t": "원-달러 환율 1350원대… 석달만에 200원 낮아져",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92ODVCTWpRU0FLazBYOG9fd01FSEhEOWlacTBjOE9IVlNKRU5NVUhZS2NKdFZaZnY0bXdjS2hyVVBFSlJDMGNvZmRlM0hHUm10SDZTalhMQkFVakN5WllDUXFJM3c1RmFoZUVXYUw4QzlBanJjT1HSAWZBVV95cUxOamprSHpJOEs4Z1dxRGpyUEZLVUJ6cTJJcUIzUXliSkgzeDFqaGo0WWhHaFhvclVOeFNrcHNKclBlNDRRSi15NXdVSXJEeGx4clZkc0ZSWG1wU2tlODYwbU9SZmVzYXc?oc=5",
+      "s": "donga.com",
+      "d": "2026-09-03T19:30:00+00:00"
+    },
+    {
+      "t": "‘반도체 표적관세’ 또 압박한 러트닉 “美공장서 생산 안하면 부과”",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Lbmxyd0JTWG5CTUFhbHdVMngzWXVEWS1IcVhqMVdnNmw1aUpKa09MYmM2YmdSU0xUaWs5ME81SS03bFl3cG9LNTR0eE9FeFVuajc5bDJKdVVIakNyTTFyTThsd2xvZXhrb2FLWHBWX3N3eV9WckHSAWZBVV95cUxQSVhRSmNVMWVPOHNIbkpTc2VwRUVXTUV4S0VrSVpsUnQ5Y01pZ2E0bk5hSlhZVjIwY1RhSHRCeDE3ME4wMFlKbG1rRFZCUGUtSHZ6bmVkeXFHTkpReXp6RDhyd3pWS2c?oc=5",
+      "s": "donga.com",
+      "d": "2026-09-03T19:30:00+00:00"
+    },
+    {
+      "t": "관세도 못 막은 AI 수입…美 무역적자 16개월 만에 최대",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ajNEeDhhTWttYlROLXZtdUFEUUdrcEt6ZlhKTlJNQnZmdGRuWVFNRzM5QTJueW1hU3h1aFJxMklZanAxcnJPSkpSZG9YRm8?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-03T19:18:09+00:00"
     },
     {
       "t": "美첨단기업 4곳, 한국에 2.8조 투자…반도체·해상풍력 공급망 강화",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-03T18:46:08+00:00"
     },
     {
+      "t": "美 \"반도체 표적관세\"… '표'나게 압박하는 트럼프 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WbkFtVm11UVhCZXVPcnlVMGtvZFU3UDgyM3ZBNUZQa2F0SEhGbUZ2QnpoNlp0QmNRVUMyU2pqd1h6d2VHQUdHSkhTNklYMkF2Yk12TFBhTFVCRmFjZDd0VzUxZlgyOHl60gFuQVVfeXFMUENfbmNMRXFMYWV6WUpId01tN0dtcDRKbkJreGFhcmQ5MDdUajQ3VFRGdGlOMkJPNklYRVQycVNjc2liM2xLY2R6cVkyVS1qN1UtNXY4TnBVQlRHY0VjQlF0N0lGQWY5NkFaQjhwanc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-03T18:30:00+00:00"
+    },
+    {
       "t": "美 연준, 금리 동결 관측에 금값 반등 조짐… 원자재 수혜·환율 변동성 확대",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUstTk9idGVVSUI3eVM3MG9ZQVU4VHJkMXlEQWRJNG4wNk9rSFRJa2NYZ0hJNnFtdVZoeHNXem04MlQxTVljZ3RwMWNYdlBsaDZ5WEpEbGJqNFNPNXhpYTBVTlJWRzVCR3RHSTFidktKNEpZbXR6YTM5ZDlBVE1BSzMwaU5Sd3dv?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-03T18:25:00+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 월러 '비둘기' 발언에 3% 급등",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MaktqaURIb184RkxRUHRDWGhHVGpKX0VjQ0xsOGdhNWplcDVqTnRncy1pT3ZNYU0zNWREZTdVSXVnaG5pcXJDOEdUY2dJUmx1QXFqZ0duN0pET184cFhZS3hXUVhsRFhxVlV4ZldodURfZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-03T18:22:58+00:00"
-    },
-    {
-      "t": "월러 연준 이사 \"물가 둔화 지속되면 9월 금리 동결 지지\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nSUFJcjVWQU1ZcmJKVTd2UG9ueWRrNjZVVDVmamZRV1BUeGZ3OHZyNG9qSlYtdzVpZE9uWjNvX0VwRFRHWERZTlRVRExjck0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T18:15:00+00:00"
-    },
-    {
-      "t": "잉글랜드은행 이코노미스트 \"금리 인상, 더 큰 폭 인상 막을 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNUhqQ2l1d0VzZS1OelVBTUpNcTZ5aHRkcXAyUXZRTFg5ckt5dEFmRUllVDIyTmJKVmx4Rlg3aGRham90d25icXdWeDZFYi03U19LTHE5TnM0ay05N3FPeFBURjg0RXNqTkdPdFZtTlA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-03T18:04:00+00:00"
-    },
-    {
-      "t": "미, 외국산 드론에 최대 100% 관세 발효…중국 드론 산업 견제",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tMFN3RlFOYkdva2diSldXUk91R1kxYkF4R0t3TFViRGExRmVKWkRPYWNtNkZJTElhbHlRc1FJMTRxeWhCQTZQNm1pUU5TRTY3UmZIVTBLZjZNV2sw?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-03T17:46:00+00:00"
     }
   ],
   "asof": {},
