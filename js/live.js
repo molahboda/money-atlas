@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T20:45:37+00:00",
-  "quotesAt": "2026-09-03T20:45:37+00:00",
-  "newsAt": "2026-09-03T20:45:37+00:00",
+  "fetchedAt": "2026-09-03T21:00:40+00:00",
+  "quotesAt": "2026-09-03T21:00:40+00:00",
+  "newsAt": "2026-09-03T21:00:40+00:00",
   "quotes": {
     "kospi": 6579.48,
     "spx": 7747.71,
     "nikkei": 64214.48,
     "vix": 14.32,
-    "krw": 1355.96,
-    "gold": 4519.1,
-    "wti": 91.71,
+    "krw": 1356.2,
+    "gold": 4521,
+    "wti": 91.7,
     "dxy": 98.99
   },
   "daily": {
     "spx": 1.52,
     "kospi": -3.75,
     "nikkei": -0.17,
-    "krw": -1.23,
-    "dxy": -0.57,
-    "gold": 3.5,
-    "wti": 0.77,
+    "krw": -1.21,
+    "dxy": -0.58,
+    "gold": 3.54,
+    "wti": 0.76,
     "vix": -5.79
   },
   "news": [
+    {
+      "t": "\"금리동결 지지\" 발언에 기술주 웃었다…국채금리도 진정[뉴욕마감] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81THY5UDRYbFBmMmF0Xy1rVEhIdXhCNEZYRXhha1NLcnJaaEljdzVBQlFDZmZwWWVvWmxWUFJkZWw2N1loUFBWcXllVUNmRnU1LTl5bW02VlZUMlNndGVaU2pOMzBPMV840gFuQVVfeXFMUDQ4OXZ6c2dTdVlRQlUzUFpEd2RoZ2lCOHFLQ1B6dU5aVW8zMjlORHRrQU5SYTdSSk9lRDRkcnE0OXhWeDFGUnZpUC1FT1FyVWk4TjVKUDlEZ3JPd1dDQ0JGa1ptNDF4aDl3TXZpRGc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-03T20:55:53+00:00"
+    },
+    {
+      "t": "엔화 156엔대 진입… 日銀 조기 금리 인상론에 강세",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnQxQ2dQSUk3cV8yVlV0VEt4R1dQNnM4WjZFMWZLRkx5Y1hDY2Q2YURjY21Od0tGQmYyNnhSOHFLckVrYlUtNG4waDhuZEszTlRzNlk1bm1uQ2hSY2NXRW02RWJIOGVwcXpTREd5TmlJN1B3T0kyM2tpRGtUU0JKVkprNTlLX3A0?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-03T20:52:03+00:00"
+    },
+    {
+      "t": "뉴욕증시, 금리인상 우려 완화에 동반 상승…나스닥 1.4%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4ZE5hSGRNSmFDLXhXSUxYemFwV0h1TnJOLUE4akVUQk4zZjM0T2tDeV9SaTJjSVJCWXVzNjI2eVJEV2hNREFCTkFMRXRLRkRoSlN2cTVpbTZVRGhNLVVRNUd1Rm1HaTA?oc=5",
+      "s": "yonhapnewstv.co.kr",
+      "d": "2026-09-03T20:52:00+00:00"
+    },
+    {
+      "t": "“금리·환율까지 우주의 기운이 모이는중”…금융지주 주가 ‘불기둥’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sR2t3dGV0TnpXbXZKc05QLUFLZ1hRSmxGZDd4eG5fd3A1QTlGR3lfSFRSa3JvX3FxUlQ2VDc2UEgxdHJ2azhKcDFjcUVuajZFLWc?oc=5",
+      "s": "mk.co.kr",
+      "d": "2026-09-03T20:47:05+00:00"
+    },
+    {
+      "t": "美부통령, 금리 상승 지적에 \"연준 도움받으면 좋을 것…인하해야\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZUNoMHhZbE5URDFubGd6eUhFcEwxdi11aS15TV96T2VIZFZGUGxjdTJQbGswOWhLQzZIaW1NVWNFajR0U1A0SHMwdVlXRVFQRVJpUWxMaTlZNmxhWi1idmlvQ042c3ZtbHJsdXFrMDQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-03T20:46:09+00:00"
+    },
+    {
+      "t": "금리인상 우려 완화에 뉴욕증시 일제히 상승… 나스닥 1.4%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42YkhlZ0dsWGpqcURkb2tuQTZmMnR4YzJ5dlQ4WUVXM2tMOGM2eC1Sc21wVmtlaDVrd25ZaV94MXhDd3dvTXdzVVd3eC1Jb3lTTmhoNWpUZ1c3OE9GT1lERU11OFY5TFHSAWxBVV95cUxQZktsSWhwckJ1aVlZeVZOcnZQZWllei1tUGhuVHdGeFp0aVYyWDA1N2dvQXFrdXloZWhpdllaVGRZM0lNMGhfbWNNYzNFUm5FWWF3UGZPZC1rcHR3bHVjQVFaUGxRalAzRGJlWnc?oc=5",
+      "s": "kmib.co.kr",
+      "d": "2026-09-03T20:42:00+00:00"
+    },
+    {
+      "t": "김정관 \"美반도체 관세 '불리하지 않은 대우' 정신 하에 논의\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSEd3dFFBUGxSSTZicWlDLUJ4anU0MUVETFF2VmRpRXl0UzlkMHBEN2x6LVlYQmVyRUE4X2VsNGRiMEhLRlBMUl9SZ2NVSGE1ODVOXzZvQzRzUDDSAWBBVV95cUxNNWswbFpxUTBCWk04NzNTU3BmTkJWWS1PT0NuUDF0dHZRUVd5ZEJhVkNiYlFuNjMza1JCTlVScEp4eERYNmx3S2JuYkRUSzZLeGN2UF8wdG5RRFNtSzNocDQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-09-03T20:41:48+00:00"
+    },
     {
       "t": "美 30년 주택대출금리 작년 7월 이후 최고",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZXZQSEJCd3ZGUHpJTnFMZS1BMFkwdXZhRWlTLTY3enpESzRTcXZaLUNxbVh4UjFxdi0xSUlfMDRwVkM2V1JPUXBrYlpXb2M?oc=5",
@@ -31,58 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-03T20:36:00+00:00"
     },
     {
-      "t": "美 증시 3대 지수 동반 상승…반도체·SW주가 랠리 주도",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pOTdsZ3cwM1NiS29BWV9WVWRfcXBZYVFmU0RmOGM1Z0ZIbWRVMmRFQjFTQXNINlA1Y2wtaGc2YldiWS02eWhHTWx5Wi1uUlpyaEJyTzJCSGZtSVNXazFjaFdNYVk?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-09-03T20:35:12+00:00"
-    },
-    {
       "t": "“요즘 日국민들, 한국 경제에 초조해 하면서 실시간 이것 체크해”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOM1NmUUxWdGxNWTV6Vm9lSXhMcXZubGN5OUstaXVtSHpVQVQxeGdrdGtMRHktcmplT21qQ01ZQ1Z2YXlQT3Z3b0Q0TmwydnM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-03T20:31:48+00:00"
+      "d": "2026-09-03T20:31:00+00:00"
     },
     {
       "t": "뉴욕증시, 월러 '금리 동결' 시사에 상승…나스닥 1.4%↑[뉴욕마감]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLcW1jLVdBNjljY2p2M2RfcWxNcFRrSDdJN3FsNFc5X3ZqY0hzQl9SUzdtVmlzZG9OaEFzcGtlN25kcG90TzFZWnlIOHlOWHc?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-03T20:29:00+00:00"
-    },
-    {
-      "t": "라틴 아메리카 증시, 채권 매도세 완화 및 달러 약세에 상승",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qUUs2NzNfRHRNa2Q5WG1zV2hnZTczRzd4Xy1NYTUzWmZkUTBjMllNTTdDSW9OUWdoMGhzNVJrQi12am5mcFNsb25Tam9BVldra3FSRXA3QkxjaXFUMG5TdUJCYTNVM1FHUXU0djMtVk9Eem1fenNJ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-03T20:29:00+00:00"
-    },
-    {
-      "t": "김정관 \"美반도체 관세 불리 않을것…대미투자 1호 9월 마무리\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IR283cE1FQktlNk9yWjlDQkNCR3RsZkJzbnR4TjJtcUo4TVc4aXNfV2pKcXo4b194aElpM0hlX2lVTDN5aFpHVUt4OC1WT0EtQ3dxZF9TSGg4NGZDNXlwZNIBeEFVX3lxTE5WejNaYnlab0VIaVJiMVFLUWVxQ0VuU3pJNFJxc1pBT2JZZS1sZURyUGRqeDhvUzBlNVhURUJtMUsxTC1LRjNBNjdWcTYtNUYxSDRIdFRVV05YZVhjSW9FMVk2Qld6X25ZVHkwb1ZuQW9iSUlaWTBMNg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-03T20:27:44+00:00"
-    },
-    {
-      "t": "뉴욕증시, 금리인상 우려 완화에 일제히 상승…나스닥 1.4%↑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHOTBEN1MyeEI5dUpYQUlyZ2tUV1FYWnpfNG5teG03aDBveXZFZTd5ZDA0eEttTm1DcG9KSHV2bzVhc1hrbHhFdVVIaGh3MjdiUHc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-03T20:26:33+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 美 국채금리 급락에 나스닥 366P 급등...금리 동결 기대감 확산",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWhGdjdwZFBWS3p3N001ZzBzWHZOX2kycC1jRkdLNER3RUFCYUJtRjY3NmkteDFyMzdUQkh6NzhiY1pNTF93Ti0talhaUzJNbmphZGwwUXp1U1pzVzl5S0JmdkZKM2I3bHF1NVRRX2ctY1drNU1FenRXdzB5LUxBSGQ0b0lFNkpB?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-03T20:22:35+00:00"
-    },
-    {
-      "t": "[뉴욕환시] 달러 급락…'비둘기 월러+日 개입 경계'에 엔 이틀째 급등",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PbE5xQmdQTUNiREVjY2ZkUXB3UFRpRURkc2NMOEF2bzJpUjF1RHhrdHhoNFZRQ0NFcUpLSGhvRUFRaF9CZmJPVUFOQjVvc1JweS1qZUJBZ3REOHZRSHZTNHJYUHhsOTRqektrWmp0aUFUQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-03T20:21:50+00:00"
-    },
-    {
-      "t": "뉴욕증시, 월러 발언에 3대 지수 1%대 상승…고용지표 주목",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ucTFKeHRYQnRPRE5oVXA0T25QSGxfb3JXcGJUU0ZYRFR3TTNWQ0ZmbTUzVklQWXZTczZtWjZKNERQRHBkYWk4aFc5VGZldnc5Nm4wUG9GVlhibEZu?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-03T20:20:00+00:00"
     }
   ],
   "asof": {},
