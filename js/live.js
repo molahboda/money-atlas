@@ -1,34 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-03T20:15:40+00:00",
-  "quotesAt": "2026-09-03T20:15:40+00:00",
-  "newsAt": "2026-09-03T20:15:40+00:00",
+  "fetchedAt": "2026-09-03T20:30:38+00:00",
+  "quotesAt": "2026-09-03T20:30:38+00:00",
+  "newsAt": "2026-09-03T20:30:38+00:00",
   "quotes": {
     "kospi": 6579.48,
     "spx": 7747.71,
     "nikkei": 64214.48,
-    "vix": 14.29,
-    "krw": 1356.45,
-    "gold": 4519.3,
-    "wti": 91.72,
-    "dxy": 98.97
+    "vix": 14.32,
+    "krw": 1356.27,
+    "gold": 4518.4,
+    "wti": 91.76,
+    "dxy": 98.99
   },
   "daily": {
     "spx": 1.52,
     "kospi": -3.75,
     "nikkei": -0.17,
-    "krw": -1.2,
-    "dxy": -0.6,
-    "gold": 3.5,
-    "wti": 0.78,
-    "vix": -5.99
+    "krw": -1.21,
+    "dxy": -0.58,
+    "gold": 3.48,
+    "wti": 0.82,
+    "vix": -5.79
   },
   "news": [
+    {
+      "t": "美 30년 주담대 금리 6.71%…\"주택시장 침체, 금융여건 느슨하지 않아\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96eFhWeEJBTFNFOFd4SDlMTUtBWktsbWlvZV93QWpRTnhnRTZSc0FiUDFTNUVWeC1XcXJOM0hNVHJmU2I2ejdjWXYzYnhxUzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-03T20:23:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시] 美 국채금리 급락에 나스닥 366P 급등...금리 동결 기대감 확산",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWhGdjdwZFBWS3p3N001ZzBzWHZOX2kycC1jRkdLNER3RUFCYUJtRjY3NmkteDFyMzdUQkh6NzhiY1pNTF93Ti0talhaUzJNbmphZGwwUXp1U1pzVzl5S0JmdkZKM2I3bHF1NVRRX2ctY1drNU1FenRXdzB5LUxBSGQ0b0lFNkpB?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-03T20:22:35+00:00"
+    },
+    {
+      "t": "[뉴욕환시] 달러 급락…'비둘기 월러+日 개입 경계'에 엔 이틀째 급등",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PbE5xQmdQTUNiREVjY2ZkUXB3UFRpRURkc2NMOEF2bzJpUjF1RHhrdHhoNFZRQ0NFcUpLSGhvRUFRaF9CZmJPVUFOQjVvc1JweS1qZUJBZ3REOHZRSHZTNHJYUHhsOTRqektrWmp0aUFUQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-03T20:21:50+00:00"
+    },
+    {
+      "t": "뉴욕증시, 월러 발언에 3대 지수 1%대 상승…고용지표 주목",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ucTFKeHRYQnRPRE5oVXA0T25QSGxfb3JXcGJUU0ZYRFR3TTNWQ0ZmbTUzVklQWXZTczZtWjZKNERQRHBkYWk4aFc5VGZldnc5Nm4wUG9GVlhibEZu?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-03T20:20:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시-1보] 금리 동결에 힘 싣는 연준 인사들…상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CdzdzRURqVDVlbnUyUUJ6UnAxdDh3bEpQeHJlUy1IZVYzWWZXS29OTmc5Mm85ZUtnN1dVNzgydy1iZ1FscXJEdVBwNmZFXzJXODVVMWQ2VzJhQ1MzVnZVdGhzdTBuTVhkbDlIaFVtQnHSAXRBVV95cUxNeUp3a0dQQzVUZU9tTFZmdE0tbG1aMDN4Mi1GWjdMSkdaNXQzV1dfNHZHSkRnUEdoOXk4YXBzSXRaX3ItcmphTllSQnhDOWFpa1A0b29UdVBLUEQ5QjFOUWtENlhOSU5CLTdxMXlJWWczNHdFNw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-03T20:14:15+00:00"
+    },
+    {
+      "t": "\"미국 물가 상승 압력 확산…품목 절반 3% 넘게 올라\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yZHVjR0QtN3pPSUM3bXBZZl9zbHdPdlp1R25VTTR2RnBCRnk1d29mcGg3T3NQdXZXeWd0Z3JJWXM0dnhwV3czXzdhRk1MRDVN?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-09-03T20:14:02+00:00"
+    },
     {
       "t": "[속보]월러 Fed 금리 동결 시사에 1%대 상승 마감",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qWUtBMkRrelphaHVpYjdyc2NDMXdiWWlKVWxSSmJxeGFHUWJMeE5LQ2FfcHBadl91eWRWb3lvZFBEangtaVA2aEg2S1I5X282M2h2bFp3cjc1NzlsY1F5ZA?oc=5",
       "s": "아시아경제",
       "d": "2026-09-03T20:13:35+00:00"
+    },
+    {
+      "t": "월러 연준 이사 \"9월 금리 동결 기울어\"…美국채 금리 일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43RHhnNmZEeE16UmlnMHRQaEhrbGREbHNhX3lkUTNPdW5SNU1iMjlDVnNOT1BlejR0bzRiMG1jMG83Vm5yYmZGVDhjOGoyYk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-03T20:10:00+00:00"
     },
     {
       "t": "[뉴욕채권] 불 스팁…월러 '비둘기' 발언에 아리송해진 이달 인상",
@@ -37,52 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-03T20:09:54+00:00"
     },
     {
-      "t": "러트닉 “미국서 반도체 생산 안하면 관세”…‘지경학 위기’ 직면한 메가프로젝트",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LTkcyY29Nalp3a3N0ZFJJWF92ajNaNmk4OWZzenhJdzRwLUFob1NuYy1MRWxZRmptWS1aV0FOYk5GcDlZYkVzNmFMOHdDQWpXeTYxdi1mNEducmlMbU1NMUNjampQeTVOeXc?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-03T20:01:00+00:00"
-    },
-    {
-      "t": "강달러에도 원화 강세… 반도체 수출 호조에 ‘환율 상식’ 깨졌다",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtd2poV0lFUUJiQ0szdVJ3SklqY21tb3NPWW81T2lldHM2cmloS2NmeUQzRUJvLUl4dG05X0E0Nncwb3JZc3hqTzE4eWt1VHl3Z092U3dmZTFiUTd3UkpnZGxubGpXWURabk1lMzlmUGVPMjVmLWfSAWZBVV95cUxPelBnZ2k1TkZHUzNFSG1zMGJaWldtYjM2ci1XWFZEb2xMX08tcEdHMXFhWHBIWG1VUjgzQmNFdjJzZTF4TTZJWkZfbUNXVFFRX0M5U1VaWFNfWEZ3U2M1ZlFyM3hjbkE?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-03T19:30:00+00:00"
-    },
-    {
-      "t": "반도체 실전형 인재 양성… 학생부종합 대폭 확대",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHeFdZMFdpNjdlS3ZqTU1PWHlKZVQxY1Q1dXpSNDBnR0I1emczOW45ZElzX180S005LS1GbUprcDAzM0RqcUl2eWZYVjdfZGhLeTI5TmdNVG4xNGF1N3hJcFdPOWFvX2pIR1lidmhmOFFQZEo1WXfSAWZBVV95cUxPaHNlbkIxMTdHUU9WTTF5SmJ2UmJacVhsQWxjYi1TS1F2bW1veVYydFdRMWppTGswTnAwTzNOVkxGY0l4elQ2ZlRyQlFZR055VGtGMnhrVDdFQ09NMXF4WmI0bllqUWc?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-03T19:30:00+00:00"
-    },
-    {
-      "t": "AI시스템반도체학과 신설… 전문인재 육성",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NWJMLVcwZjl6RjBYYVpudXljdkVoNFVNMUp6eTZOajZJVUtYZVZqNlo1WWMtajR2VWRWTkJCcEJEOVhTc0szcl9XUlA4WndFc0JuQ3REOGNUZ2lhZUhLdW9MVWVnU3IxTER3RF9vMGVBcHdQX2fSAWZBVV95cUxQT1VVX2NaOWZmTFBhTG1mdmRMTkZCUFYwQUtFSjRfVVdBZW5oYmpLby12czVURHhMS3RnaWFUZ1hqQ0p0bWc5eHZ0VlZyX25aTFRBY0Y1eWlwUUdkbVVoenNGUXZwWnc?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-03T19:30:00+00:00"
-    },
-    {
-      "t": "지지율 끌어올리려, 동맹국 끌어내리는 美 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtUGN3RTI1VGp0cm1WckpRb3ZiOU5BTlFZSHczTzZkWFJkNmZla0Y2eklmdTl0XzNFVnZlM09xMUJoRG5iVTFHenREUzlhQjRfbDV4Qm5mRS1ZUmt2eDNQVVQ1RmdYSzZ20gFuQVVfeXFMT3kyTEFJMWc0STRQRW9XY2tkYnlCM2RBdnFMR3E3eV9nZ2FMdnp6YzNUNjZ6VjBtaGdHTzVzcWp2V2Z5eDZrVnJVQWNNMmp5N3JKcXQ3aS1RUFkwWGtaOEF3X1FJd0loRThvdGZmOGc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-03T19:04:00+00:00"
-    },
-    {
-      "t": "美첨단기업 4곳, 한국에 2.8조 투자…반도체·해상풍력 공급망 강화",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRUp1X0NiamZ6dVFqVjVJRkpXbzBqU05LV1pkZExIRDJ0YkticDVLQ1Bpak15azNZWFFkYThMNDVhd2EyZG5VS21qUTZ6a2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T19:03:00+00:00"
-    },
-    {
-      "t": "美 기업 4곳, 한국에 20억달러 투자… 반도체 소재·장비 키운다",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejgyc1ZwSmVvTW8teXJiNGlIVXZWMk1idXBXUENaNEFCY3Zjdkx0WHRuLXNlTjRtQVJtZG5JcjU2RHc3akQxR1hISmd3UzFfRFM4ZjF3VWFtM19rcTdteUJHcHotNHp0M1Q3YWdhSDZQM0JqWE1TSzI0QnBwNHZlM01QTHVSUm1pdVRWTHJn?oc=5",
-      "s": "조선일보",
-      "d": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "t": "[허원순의 경제로 세상보기] 다시 켜지는 ‘고물가·고금리’ 경고등",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcU44alo5SzV0SmVqWjhWVjhGMFNqeXRqYm9jV1d3bjNleEd6UUJGSmNMWjg3UThhQmRzSmxfbDd2eXFST1ZnZW1ya0FBdTM3U181U2M4X3N2Z1NOYV9jcnBGSl9MX0FIdDlJTtIBcEFVX3lxTE5SVFp5QUc5STcwendQMHI0cHAtNkFoamRmR0J5N1NfaE5ReGJPbmNPSUN6ZGFYWTRzbDFWemVtNUlrV3lLdUlFZEcxdlFyaS1ROVBuME1QWkItbThKd1ppNzRfc0NDekJhakRFTWNCdUg?oc=5",
-      "s": "글로벌경제신문",
-      "d": "2026-09-03T19:00:00+00:00"
+      "t": "美 30년 주택대출금리 평균 6.71%…작년 7월 이후 최고",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtRndIajhqXzI1V0J6RWhNLXBxODVSbGxtME5RcFpBUTZvUzNvMFpyaE1wRHYwLWhJYjU1STYtZlVZRmFGdXZjaG9MUTJTQlRFVWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-03T19:43:20+00:00"
     }
   ],
   "asof": {},
