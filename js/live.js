@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T02:30:36+00:00",
-  "quotesAt": "2026-09-05T02:30:36+00:00",
-  "newsAt": "2026-09-05T02:30:36+00:00",
+  "fetchedAt": "2026-09-05T02:45:36+00:00",
+  "quotesAt": "2026-09-05T02:45:36+00:00",
+  "newsAt": "2026-09-05T02:45:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 1.47
   },
   "news": [
+    {
+      "t": "트럼프 \"연준 금리 안 내리면 적자국과 무역 중단\"",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aOWIwZk1kY2JwR3BWdW1UemhnVzREMXRNUlNhTF9zSHhnVFNsVVc1LUMyZGE4akNDaU9PVXpuZUVQc1dBbFl5MEk4Vkh0X2hrQUpBVGpFNmVxZExKdmEzOUg1ZHhyQ0RVRzdZ0gFvQVVfeXFMUFgxMHJyUjJCMkZjQ080LXB2NFJ4RXA3TkY0LXBCNldCcHNHbnBoMVZOQ01HenVMcXNhNVg3QklyMnNwamJNM1UtSk15LTdpSTJNc2tlOWVZaGtyR0FSa2xyOS1tVFI5U012LVVRMFhz?oc=5",
+      "s": "펜앤마이크",
+      "d": "2026-09-05T02:11:10+00:00"
+    },
     {
       "t": "금리 올리면 코인 떨어질까?",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FU0h0MWl1Szg4UTR0YnVJWWo0WmFVLWdwcF83X21vYTV5eTlhOWJ6aDN3ZU43b1ROUE1iTl9WTUFod1hoU1BfOTRLTDFGREM5RUpKVDR1NmM2a2hxRlF1RGYzd0szZUx1SHc?oc=5",
@@ -55,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-09-05T01:26:00+00:00"
     },
     {
-      "t": "뉴욕증시, 고용 깜짝 증가에 하락…반도체주는 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VbURRZFdyVkNPS2dzU2hYdFhtRl9MdlRxN2Myc252TXJOemhnS0ViWDdHLWpSUlVjWjBneHZ6OFlrMkVwd01vazVUbEdyQ21lelhGQUVjTVdqYWJ0MkRQcWtjRlhJS1lneGJaMkdVbWU?oc=5",
-      "s": "코리아리포트",
-      "d": "2026-09-05T01:24:12+00:00"
-    },
-    {
       "t": "“인내심 바닥난 트럼프”…금리 안 내리면 ‘무역 중단’ 경고 [이슈+]",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPYlJzNVM0TFdlYjNJZnRqZ0x2RFRycF9VcGhzMDNzYmxtQm5xT0UtRUdJYnZSWlFJNWl2eEFkRFdrRFRDeklKV3FueS1iMG8tUnY4RUt3bkxFV2c?oc=5",
       "s": "에너지경제신문",
@@ -69,19 +69,19 @@ window.LIVE_DATA = {
     {
       "t": "중동 리스크에 유가·금리 ’들썩’…국내 경제 발목잡나",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWkZncXZDcTAyWmZkcksxUEk5MFY4WEZZenpHaUVfeUlMQmRQbXdmc1lpR294RUtTdkxjV3ptcDZ1YjJyd0F5UWxNZUZUeUNIRzUtWXgzNzB4cndFRmpzVDlMaVQ2VXM?oc=5",
-      "s": "yonhapnewstv.co.kr",
+      "s": "연합뉴스TV",
       "d": "2026-09-05T01:11:00+00:00"
     },
     {
       "t": "“금리인하 안하면 미국 적자보는 나라와 무역 안한다”는 트럼프…한국은?",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tMkxwalRsdW5xWHRVS0VMeHExbDYycWtuYzJqWmdVeElJWG1UWVgzUW1DamI5dUxINlNrVWROUXd3Z1hhR01HdjA4ZDlMaTdFZnc?oc=5",
-      "s": "mk.co.kr",
+      "s": "매일경제",
       "d": "2026-09-05T01:07:55+00:00"
     },
     {
       "t": "국제유가 상승 계속…바브엘만데브 해협까지 불안",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kallhVnlwLVdocF93MnpJYzJ6T2Y3THZobFk0TVpuWEJ2MklucnBELXZCVjBub005T0ZQSFQwMUNpeDBvcW9EZlMxZm5wVVl0TktldmU1a0h5LWNVcWJyT0VLOE5iOWc?oc=5",
-      "s": "yonhapnewstv.co.kr",
+      "s": "연합뉴스TV",
       "d": "2026-09-05T01:05:00+00:00"
     }
   ],
