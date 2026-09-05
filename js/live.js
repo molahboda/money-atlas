@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T00:00:43+00:00",
-  "quotesAt": "2026-09-05T00:00:43+00:00",
-  "newsAt": "2026-09-05T00:00:43+00:00",
+  "fetchedAt": "2026-09-05T00:15:36+00:00",
+  "quotesAt": "2026-09-05T00:15:36+00:00",
+  "newsAt": "2026-09-05T00:15:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "\"금리동결 지지\" 발언에 기술주 웃었다…국채금리도 진정[뉴욕마감] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81THY5UDRYbFBmMmF0Xy1rVEhIdXhCNEZYRXhha1NLcnJaaEljdzVBQlFDZmZwWWVvWmxWUFJkZWw2N1loUFBWcXllVUNmRnU1LTl5bW02VlZUMlNndGVaU2pOMzBPMV840gFuQVVfeXFMUDQ4OXZ6c2dTdVlRQlUzUFpEd2RoZ2lCOHFLQ1B6dU5aVW8zMjlORHRrQU5SYTdSSk9lRDRkcnE0OXhWeDFGUnZpUC1FT1FyVWk4TjVKUDlEZ3JPd1dDQ0JGa1ptNDF4aDl3TXZpRGc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-03T20:55:53+00:00"
-    },
-    {
-      "t": "엔화 156엔대 진입… 日銀 조기 금리 인상론에 강세",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnQxQ2dQSUk3cV8yVlV0VEt4R1dQNnM4WjZFMWZLRkx5Y1hDY2Q2YURjY21Od0tGQmYyNnhSOHFLckVrYlUtNG4waDhuZEszTlRzNlk1bm1uQ2hSY2NXRW02RWJIOGVwcXpTREd5TmlJN1B3T0kyM2tpRGtUU0JKVkprNTlLX3A0?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-03T20:52:03+00:00"
-    },
-    {
-      "t": "뉴욕증시, 금리인상 우려 완화에 동반 상승…나스닥 1.4%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4ZE5hSGRNSmFDLXhXSUxYemFwV0h1TnJOLUE4akVUQk4zZjM0T2tDeV9SaTJjSVJCWXVzNjI2eVJEV2hNREFCTkFMRXRLRkRoSlN2cTVpbTZVRGhNLVVRNUd1Rm1HaTA?oc=5",
-      "s": "yonhapnewstv.co.kr",
-      "d": "2026-09-03T20:52:00+00:00"
-    },
-    {
-      "t": "“금리·환율까지 우주의 기운이 모이는중”…금융지주 주가 ‘불기둥’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sR2t3dGV0TnpXbXZKc05QLUFLZ1hRSmxGZDd4eG5fd3A1QTlGR3lfSFRSa3JvX3FxUlQ2VDc2UEgxdHJ2azhKcDFjcUVuajZFLWc?oc=5",
-      "s": "mk.co.kr",
-      "d": "2026-09-03T20:47:05+00:00"
-    },
-    {
-      "t": "美부통령, 금리 상승 지적에 \"연준 도움받으면 좋을 것…인하해야\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZUNoMHhZbE5URDFubGd6eUhFcEwxdi11aS15TV96T2VIZFZGUGxjdTJQbGswOWhLQzZIaW1NVWNFajR0U1A0SHMwdVlXRVFQRVJpUWxMaTlZNmxhWi1idmlvQ042c3ZtbHJsdXFrMDQ?oc=5",
+      "t": "\"예산안, 최악 피했지만…금리 상승 압력 더 커\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNG9nVmdTalpWczVEUmdXdmZZUm5wRlZhcGV0SDVxSWM1c1doWlMtTkdtN3B6NnBSZmhibHNjcmh4TXJFcFNmdzlOaGNzZ3lQTTdRbGtjOFRjZ2V5WTRaZ2dSRDlSNG1qeHJ5Ump0b1M?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-03T20:46:09+00:00"
+      "d": "2026-09-05T00:05:01+00:00"
     },
     {
-      "t": "금리인상 우려 완화에 뉴욕증시 일제히 상승… 나스닥 1.4%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42YkhlZ0dsWGpqcURkb2tuQTZmMnR4YzJ5dlQ4WUVXM2tMOGM2eC1Sc21wVmtlaDVrd25ZaV94MXhDd3dvTXdzVVd3eC1Jb3lTTmhoNWpUZ1c3OE9GT1lERU11OFY5TFHSAWxBVV95cUxQZktsSWhwckJ1aVlZeVZOcnZQZWllei1tUGhuVHdGeFp0aVYyWDA1N2dvQXFrdXloZWhpdllaVGRZM0lNMGhfbWNNYzNFUm5FWWF3UGZPZC1rcHR3bHVjQVFaUGxRalAzRGJlWnc?oc=5",
-      "s": "kmib.co.kr",
-      "d": "2026-09-03T20:42:00+00:00"
+      "t": "미 고용 급증에 금리 인상론 '솔솔'...트럼프, 연준 노골적 압박",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaVVaek5iQnlXMlgtRW03dDVIVUZIQVQzNW5qcjA2SVRlRGt3X09hRWU5QWNqeFFVb0ZJdXpyY2ZEekdnUExlR2stdDNMMWd1VzJlUzZIMzlSQmpQQnc?oc=5",
+      "s": "YTN",
+      "d": "2026-09-05T00:02:00+00:00"
     },
     {
-      "t": "김정관 \"美반도체 관세 '불리하지 않은 대우' 정신 하에 논의\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSEd3dFFBUGxSSTZicWlDLUJ4anU0MUVETFF2VmRpRXl0UzlkMHBEN2x6LVlYQmVyRUE4X2VsNGRiMEhLRlBMUl9SZ2NVSGE1ODVOXzZvQzRzUDDSAWBBVV95cUxNNWswbFpxUTBCWk04NzNTU3BmTkJWWS1PT0NuUDF0dHZRUVd5ZEJhVkNiYlFuNjMza1JCTlVScEp4eERYNmx3S2JuYkRUSzZLeGN2UF8wdG5RRFNtSzNocDQ?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-03T20:41:48+00:00"
+      "t": "뉴욕증시, 고용호조-금리인상 경계에 일제 하락",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wd0k4UEhDN0FPZmtmR2JJa2hJZnR2VXNlSGRMaEpVMVZOcTJjcWtEeXl4Z2dUUUh1U25YZkF1MWh3SlcxR19mNjNCb2t2RkRPTkJkaE1ZSTRQWDNHZFBmVkZqWWdrTEE3SC1n?oc=5",
+      "s": "news.bbsi.co.kr",
+      "d": "2026-09-05T00:01:23+00:00"
     },
     {
-      "t": "美 30년 주택대출금리 작년 7월 이후 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZXZQSEJCd3ZGUHpJTnFMZS1BMFkwdXZhRWlTLTY3enpESzRTcXZaLUNxbVh4UjFxdi0xSUlfMDRwVkM2V1JPUXBrYlpXb2M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T20:36:00+00:00"
+      "t": "[위클리 PICK 3] 반도체가 이끈 韓 수출 '역대 최대' 기록부터 美 이란 파병 연장 방침까지",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZnVrdl9teXhFRGlrZjhuNXNBa0pzVU04aVFqMkhiYy1yQUYzM3RrVGdMSkVDN3FDQVpnbkEtc2pMZ1NsdXE4WF9sZ3ZobW9mSmxNUEVrVkozVFZKcXRzcnQ0OWtqTklvb0tsTG50MlQ?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-09-05T00:00:00+00:00"
     },
     {
-      "t": "“요즘 日국민들, 한국 경제에 초조해 하면서 실시간 이것 체크해”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOM1NmUUxWdGxNWTV6Vm9lSXhMcXZubGN5OUstaXVtSHpVQVQxeGdrdGtMRHktcmplT21qQ01ZQ1Z2YXlQT3Z3b0Q0TmwydnM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T20:31:00+00:00"
+      "t": "워시, 고용 호조·트럼프 압박 사이에서 금리결정 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UN3Jtd09UbmtxWWxzR3dmdDdYejM1LW5Oa1NMc3FWbTVxVVdSYU9UMmdNamhNOTJhMGF5NlRBdTRmdnM5cHIwVWJuX1NleU16bDI4VzVBYzlTNDc0eldOLVlZYkVXYjRo0gFsQVVfeXFMTllhV2NIYTRLc3AySjFnelFMcFR6cThFaTRfN2JYam9pMkExRVVSUFptSmFoUFRMc1A4aUg0N3dnWm1CbTdmSkhIczVuNy1icHNYNVZJQ1d0UlFweWRzLXZzajhqMGlMYjg5OFhi?oc=5",
+      "s": "블로터",
+      "d": "2026-09-05T00:00:00+00:00"
     },
     {
-      "t": "뉴욕증시, 월러 '금리 동결' 시사에 상승…나스닥 1.4%↑[뉴욕마감]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLcW1jLVdBNjljY2p2M2RfcWxNcFRrSDdJN3FsNFc5X3ZqY0hzQl9SUzdtVmlzZG9OaEFzcGtlN25kcG90TzFZWnlIOHlOWHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-03T20:29:00+00:00"
+      "t": "[뉴욕증시] 美'고용 서프라이즈'에 반도체 홀로 강세, 왜?···다음주 물가 '관건'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yWWFtdERvQTBLM0tMc050YzdZMHpuRXNfZXpuLTN6UjFfVlUwVzlXbXZKNHlyVHBMcUdvZ0ZZU0w1RldoelVvdEVReGg0R3ZuSVRYVDlPYXFkU2ljU0JqSldoakI1SV9wNHc?oc=5",
+      "s": "seoulfn.com",
+      "d": "2026-09-04T23:57:04+00:00"
+    },
+    {
+      "t": "트럼프 “연준, 금리 안 내리면 무역적자국과 교역 중단”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yRGExTFgtbEVITXFwcW9iZ0EtYjdZUTYtenphdU5TMzd2Qm1VY3ZXSVRYelByaW9oVjk3YXVtcFZPTDFkMWhQVU5GYzRxS0FfbHRIbk1SVkpYd0F2S0lsN09BaU9JRWVRMDZMQ0FFaw?oc=5",
+      "s": "hani.co.kr",
+      "d": "2026-09-04T23:30:00+00:00"
+    },
+    {
+      "t": "[숫자로 본 뉴스] 주유소 가격은 하락·국제유가는 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UnZFZ3hOdmF5eVNUYXBTbzZjdF84alhzVlFtSGRiNFNvamVUQWt0UTdBa2c2UDQ3S09Pd3lOaDJTT0R3YmZLWkppRFcyQTB0TExsNGZDWEZsRFFmdXIwbFpYUWQwQ1o5akRUYUpGako?oc=5",
+      "s": "신아일보",
+      "d": "2026-09-04T23:15:26+00:00"
+    },
+    {
+      "t": "반도체 주주환원, 코스피 왜 못 올릴까…\"일회성 규모보다 꾸준함\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aek9QeFRSS0N2U1lBMWVmQ0ZBRTVWaEJ5M1hvMWNldGM1SFIzc2dlOXdIOXdseU51T0JmWjgxRjJ6ajY4VG5VYUc0TTd0TVVmeGYzY0hYQ0VEbHRPWUh1UTdKa1FUMldOOFNFM3ItdmU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-04T23:15:16+00:00"
+    },
+    {
+      "t": "[속보] 트럼프 “연준 금리인하 안하면 미국이 적자보는 나라와 무역 중단”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNEcwUTZOT214aGJDeUh4Mm9YR29NaFF1Yno0djZGN1hNWDVFNHJHTUhwaDFwN3lsNkVEVXJSQkFqRTVPd3FsQXhPMVF0akQ4?oc=5",
+      "s": "문화일보",
+      "d": "2026-09-04T23:14:13+00:00"
     }
   ],
   "asof": {},
