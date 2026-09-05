@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T05:00:37+00:00",
-  "quotesAt": "2026-09-05T05:00:37+00:00",
-  "newsAt": "2026-09-05T05:00:37+00:00",
+  "fetchedAt": "2026-09-05T05:15:36+00:00",
+  "quotesAt": "2026-09-05T05:15:36+00:00",
+  "newsAt": "2026-09-05T05:15:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,8 +25,14 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "연준보다 백악관을 보라…美 증시 흔드는 ‘40조 달러 빚’ [김학균의 시장읽기]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zblZLZFJFNmExYkxnV1pvWmVSSTNRQkFSaGpaSko3R0tON0ItNWktLUdjNnhkOURpdjc1Qmh0QTk0QkZlMnJsdjlzN0JKYVE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-05T05:01:49+00:00"
+    },
+    {
       "t": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oVXZkc192LUdxbU1Ic1JKc080bUQtV3FGSFByWjY4c3RId1R6UndLQkFtTzVaYm9uRnFPM3JVX18ycW1VVWxISUR1VVJRc3BGbmwzbkFrUGJTUHFMY2d5QUNrZnpvYzFLTXhBYU5zcw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR1U3YlJrODNIeC1VYVAzVmhYeWJiU05aRXJST0xLZVZBSHJ4ZDRmeWRlOHcyODNwbEJsYzVjT1BFRUZzYzVET2liTlNWOTBfVzYzOFBLelhSM2lUNEx3?oc=5",
       "s": "joseilbo.com",
       "d": "2026-09-05T04:21:38+00:00"
     },
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VNEMyb1VVM1BfUC13aUhtczQ4Z0RNaTd6d3pNZkZialhhREdzVDN3ZXY3a1MzNm00LTZTRE9iUDk1UDBvUkZVeGd6dng4bDJqWGR3a0JSdVBYUQ?oc=5",
       "s": "경북매일",
       "d": "2026-09-05T03:21:00+00:00"
-    },
-    {
-      "t": "‘반도체 생명수’ 초순수까지 … 물 순환형 반도체 산단 조성",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yYkNJNXBCMUIwTHlUVXNwOEdVbFdDeW93NnNtRkhabEF6LWplZ3Rfa2ZQWXFqVk1sTWFJTXZEd1NaNVNGMnF5YlRNZzZ2NDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-05T03:06:57+00:00"
     }
   ],
   "asof": {},
