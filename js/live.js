@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T00:15:36+00:00",
-  "quotesAt": "2026-09-05T00:15:36+00:00",
-  "newsAt": "2026-09-05T00:15:36+00:00",
+  "fetchedAt": "2026-09-05T00:30:36+00:00",
+  "quotesAt": "2026-09-05T00:30:36+00:00",
+  "newsAt": "2026-09-05T00:30:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "글로벌 금융시장은 ’출렁’… 美 금리는 어디로?",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRWxUUngta2RiMXZmRUFQcFFIdUVqd2tjS0F6T0lsaUZmMmh5cnNFdUptbGhNMV9KT3lkaWp6cjdMMWVtTml3SDZJWEhsYlI4THRsaFJGMWowRzBSUk84d2hTMFBMQW8?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T00:23:00+00:00"
+    },
+    {
       "t": "\"예산안, 최악 피했지만…금리 상승 압력 더 커\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNG9nVmdTalpWczVEUmdXdmZZUm5wRlZhcGV0SDVxSWM1c1doWlMtTkdtN3B6NnBSZmhibHNjcmh4TXJFcFNmdzlOaGNzZ3lQTTdRbGtjOFRjZ2V5WTRaZ2dSRDlSNG1qeHJ5Ump0b1M?oc=5",
       "s": "연합인포맥스",
@@ -43,34 +49,22 @@ window.LIVE_DATA = {
       "d": "2026-09-05T00:01:23+00:00"
     },
     {
-      "t": "[위클리 PICK 3] 반도체가 이끈 韓 수출 '역대 최대' 기록부터 美 이란 파병 연장 방침까지",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZnVrdl9teXhFRGlrZjhuNXNBa0pzVU04aVFqMkhiYy1yQUYzM3RrVGdMSkVDN3FDQVpnbkEtc2pMZ1NsdXE4WF9sZ3ZobW9mSmxNUEVrVkozVFZKcXRzcnQ0OWtqTklvb0tsTG50MlQ?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-05T00:00:00+00:00"
-    },
-    {
-      "t": "워시, 고용 호조·트럼프 압박 사이에서 금리결정 딜레마",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UN3Jtd09UbmtxWWxzR3dmdDdYejM1LW5Oa1NMc3FWbTVxVVdSYU9UMmdNamhNOTJhMGF5NlRBdTRmdnM5cHIwVWJuX1NleU16bDI4VzVBYzlTNDc0eldOLVlZYkVXYjRo0gFsQVVfeXFMTllhV2NIYTRLc3AySjFnelFMcFR6cThFaTRfN2JYam9pMkExRVVSUFptSmFoUFRMc1A4aUg0N3dnWm1CbTdmSkhIczVuNy1icHNYNVZJQ1d0UlFweWRzLXZzajhqMGlMYjg5OFhi?oc=5",
-      "s": "블로터",
-      "d": "2026-09-05T00:00:00+00:00"
-    },
-    {
       "t": "[뉴욕증시] 美'고용 서프라이즈'에 반도체 홀로 강세, 왜?···다음주 물가 '관건'",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yWWFtdERvQTBLM0tMc050YzdZMHpuRXNfZXpuLTN6UjFfVlUwVzlXbXZKNHlyVHBMcUdvZ0ZZU0w1RldoelVvdEVReGg0R3ZuSVRYVDlPYXFkU2ljU0JqSldoakI1SV9wNHc?oc=5",
       "s": "seoulfn.com",
       "d": "2026-09-04T23:57:04+00:00"
     },
     {
+      "t": "\"바브엘만데브 해협까지 불안\"…국제유가 상승세 이어져",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qMlJabFlNNVVYWGVha0lSYnVOY3ZDRVJDSUxKbU51UW41Y3kxVUVibGtYZGFzV05md1RKelZ4WmhaeEcwZXJSeWdEOXVNejFOdmJpaDJhVnlmWkNtYVVWTVUtbVN3RWs?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-04T23:44:00+00:00"
+    },
+    {
       "t": "트럼프 “연준, 금리 안 내리면 무역적자국과 교역 중단”",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yRGExTFgtbEVITXFwcW9iZ0EtYjdZUTYtenphdU5TMzd2Qm1VY3ZXSVRYelByaW9oVjk3YXVtcFZPTDFkMWhQVU5GYzRxS0FfbHRIbk1SVkpYd0F2S0lsN09BaU9JRWVRMDZMQ0FFaw?oc=5",
       "s": "hani.co.kr",
       "d": "2026-09-04T23:30:00+00:00"
-    },
-    {
-      "t": "[숫자로 본 뉴스] 주유소 가격은 하락·국제유가는 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UnZFZ3hOdmF5eVNUYXBTbzZjdF84alhzVlFtSGRiNFNvamVUQWt0UTdBa2c2UDQ3S09Pd3lOaDJTT0R3YmZLWkppRFcyQTB0TExsNGZDWEZsRFFmdXIwbFpYUWQwQ1o5akRUYUpGako?oc=5",
-      "s": "신아일보",
-      "d": "2026-09-04T23:15:26+00:00"
     },
     {
       "t": "반도체 주주환원, 코스피 왜 못 올릴까…\"일회성 규모보다 꾸준함\"",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNEcwUTZOT214aGJDeUh4Mm9YR29NaFF1Yno0djZGN1hNWDVFNHJHTUhwaDFwN3lsNkVEVXJSQkFqRTVPd3FsQXhPMVF0akQ4?oc=5",
       "s": "문화일보",
       "d": "2026-09-04T23:14:13+00:00"
+    },
+    {
+      "t": "\"주유소 언제 들러야하나\"…美 중간선거 앞두고 유가 변동성↑ [주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BcVlOaFh3eTFMc2ktR0xuMmNhNjVVMFVhSU9WdE8xRWpaZnhDTzFWRFpja2lnZHBmb2I0ZW1xcHIzMjdjNUljVnFFM0pLbFE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-04T23:13:00+00:00"
     }
   ],
   "asof": {},
