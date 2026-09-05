@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T04:15:36+00:00",
-  "quotesAt": "2026-09-05T04:15:36+00:00",
-  "newsAt": "2026-09-05T04:15:36+00:00",
+  "fetchedAt": "2026-09-05T04:30:36+00:00",
+  "quotesAt": "2026-09-05T04:30:36+00:00",
+  "newsAt": "2026-09-05T04:30:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -10,7 +10,7 @@ window.LIVE_DATA = {
     "vix": 14.53,
     "krw": 1351.1,
     "gold": 4477.2,
-    "wti": 91.22,
+    "wti": 91.48,
     "dxy": 99.16
   },
   "daily": {
@@ -20,10 +20,16 @@ window.LIVE_DATA = {
     "krw": -0.54,
     "dxy": 0.16,
     "gold": -0.32,
-    "wti": -0.09,
+    "wti": 0.2,
     "vix": 1.47
   },
   "news": [
+    {
+      "t": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oVXZkc192LUdxbU1Ic1JKc080bUQtV3FGSFByWjY4c3RId1R6UndLQkFtTzVaYm9uRnFPM3JVX18ycW1VVWxISUR1VVJRc3BGbmwzbkFrUGJTUHFMY2d5QUNrZnpvYzFLTXhBYU5zcw?oc=5",
+      "s": "조세일보",
+      "d": "2026-09-05T04:21:38+00:00"
+    },
     {
       "t": "\"빌린 돈 아직도 갚는중\"…엎친데 덮친 '금리인상'[코로나 빚 탕감①]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMGp6Q3hkUVdCSWE4MFJSSTJkQWlnYWk4TTd0OWk2bGNrWXF0Sk13RnVpeFJmd2Z6YUpiLXR3RDV2am4wcDFiWDE2Q21LbFdGWFpQS2xPa1kzb1d0MGtadNIBeEFVX3lxTE56VzVaOHNDUktSZm9aa1dKWXNRRUtsLVJGTFZTa3pmYlRaLTQtY21ReExjWF9RdjhQWFJnOFRmMzdhLVJSZTY3blAzYmZudEFHT2FjM0F4U3JzZjFValNrdGVTWTVrQlI2OGZDeE1aRXkzTVhvMXB5OQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yYkNJNXBCMUIwTHlUVXNwOEdVbFdDeW93NnNtRkhabEF6LWplZ3Rfa2ZQWXFqVk1sTWFJTXZEd1NaNVNGMnF5YlRNZzZ2NDg?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-05T03:06:57+00:00"
-    },
-    {
-      "t": "'50% 관세' 공동 대응‥美서 8조 제철소 첫 삽",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85bjlZckYzVWNUVTkySl9pTVJSb1YzSmpudDRYLXlYa0dHTjNzV3BtcWRJN3NOSGNseDhQVnlETnlZcU1NYzFJbFI4TkZLZC1JOGVKZUtnZE9lUnRfUUxGNDBWV1djUlVPSW5VdmprMllPblZSUTh4Z9IBeEFVX3lxTE9tVzJka0dqa3pTVkZVdkRMWElkSHE3SUd2ckkxaTJSbkxvX3pOdHJuRzljcDQweUNma3RKMFd4Sm10c295UFJrZXdQNUtlNXc2cGhsckpwam5tZTQzMHJickZqdEtOUS1MWHc1Tmo2dldKaDdSVzV0Qg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-09-05T03:00:22+00:00"
     }
   ],
   "asof": {},
