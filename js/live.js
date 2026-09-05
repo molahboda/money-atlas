@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T01:00:37+00:00",
-  "quotesAt": "2026-09-05T01:00:37+00:00",
-  "newsAt": "2026-09-05T01:00:37+00:00",
+  "fetchedAt": "2026-09-05T01:15:36+00:00",
+  "quotesAt": "2026-09-05T01:15:36+00:00",
+  "newsAt": "2026-09-05T01:15:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": 1.47
   },
   "news": [
+    {
+      "t": "“인내심 바닥난 트럼프”…금리 안 내리면 ‘무역 중단’ 경고 [이슈+]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPYlJzNVM0TFdlYjNJZnRqZ0x2RFRycF9VcGhzMDNzYmxtQm5xT0UtRUdJYnZSWlFJNWl2eEFkRFdrRFRDeklKV3FueS1iMG8tUnY4RUt3bkxFV2c?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-05T01:11:06+00:00"
+    },
+    {
+      "t": "중동 리스크에 유가·금리 ’들썩’…국내 경제 발목잡나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWkZncXZDcTAyWmZkcksxUEk5MFY4WEZZenpHaUVfeUlMQmRQbXdmc1lpR294RUtTdkxjV3ptcDZ1YjJyd0F5UWxNZUZUeUNIRzUtWXgzNzB4cndFRmpzVDlMaVQ2VXM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T01:11:00+00:00"
+    },
+    {
+      "t": "“금리인하 안하면 미국 적자보는 나라와 무역 안한다”는 트럼프…한국은?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aS0owWWdudlB0Qzh4cFB4QmdhNnlYQWZWc0syS2l3MUtJM1UtNmtrNFJ0a0sxa3V5bm01alhiNmIzM3BlYmp3ZC1HYXowdjQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-05T01:09:03+00:00"
+    },
+    {
+      "t": "국제유가 상승 계속…바브엘만데브 해협까지 불안",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kallhVnlwLVdocF93MnpJYzJ6T2Y3THZobFk0TVpuWEJ2MklucnBELXZCVjBub005T0ZQSFQwMUNpeDBvcW9EZlMxZm5wVVl0TktldmU1a0h5LWNVcWJyT0VLOE5iOWc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T01:05:00+00:00"
+    },
+    {
+      "t": "美 금리 인상 가능성에 뉴욕증시 일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIS0RGc1RJY2dud0FyRDRySEZVdjUycDZJb1p3MlBvZ0FZUl9lRG9WSHc1THZJTU9zTTNiZ2dpRHZ1aUZfQ195Q25HQTFubEdxU3ExUG9HOFRPVE9vMWJmdzY4c3UtNjA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T01:04:00+00:00"
+    },
     {
       "t": "트럼프 “연준 금리 안 내리면 적자국과 무역 중단할 것”",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UGt0ZmpjXzVyOHRZQ19jTHpUWDFmT2FNdTctNmFCLURLX0U2M3lZY2RhVjFNWGJyTUlIYU9YMXN4TEtPUXZ3S2VfSk13Rmx6Vk1FUWFiS3QyRkl0cU1hdDYyMjc?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85WU9zRlFuNDBLV1RZQ3lsU1Rad0Z5WHNSaDViOGs2YWQ4VDRIeVdzYmdPQUJKbFU3QUxfclVCVTVSWmJmUERQOFI3eGZVeEFHVzJnZXVqeXBTVmpUWHpkRDBma0RtT1k?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-05T00:31:00+00:00"
-    },
-    {
-      "t": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-05T00:30:02+00:00"
-    },
-    {
-      "t": "글로벌 금융시장은 ’출렁’… 美 금리는 어디로?",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRWxUUngta2RiMXZmRUFQcFFIdUVqd2tjS0F6T0lsaUZmMmh5cnNFdUptbGhNMV9KT3lkaWp6cjdMMWVtTml3SDZJWEhsYlI4THRsaFJGMWowRzBSUk84d2hTMFBMQW8?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-05T00:23:00+00:00"
-    },
-    {
-      "t": "\"예산안, 최악 피했지만…금리 상승 압력 더 커\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNG9nVmdTalpWczVEUmdXdmZZUm5wRlZhcGV0SDVxSWM1c1doWlMtTkdtN3B6NnBSZmhibHNjcmh4TXJFcFNmdzlOaGNzZ3lQTTdRbGtjOFRjZ2V5WTRaZ2dSRDlSNG1qeHJ5Ump0b1M?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-05T00:05:01+00:00"
-    },
-    {
-      "t": "무안공항 특화 전략에 등장한 '반도체'…국가산단 연계 주목",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TeDBrR2J3b2dub1d4dl9HX1B0VlM1aWxkUzJFZGpCNEluc2N0MEFkeHlmUTN0VGpBSF9ydkpKc0dGN2gyZ0JadFNjdUZtTUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-05T00:03:00+00:00"
-    },
-    {
-      "t": "미 고용 급증에 금리 인상론 '솔솔'...트럼프, 연준 노골적 압박",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaVVaek5iQnlXMlgtRW03dDVIVUZIQVQzNW5qcjA2SVRlRGt3X09hRWU5QWNqeFFVb0ZJdXpyY2ZEekdnUExlR2stdDNMMWd1VzJlUzZIMzlSQmpQQnc?oc=5",
-      "s": "YTN",
-      "d": "2026-09-05T00:02:00+00:00"
     }
   ],
   "asof": {},
