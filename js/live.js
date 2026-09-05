@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T06:00:37+00:00",
-  "quotesAt": "2026-09-05T06:00:37+00:00",
-  "newsAt": "2026-09-05T06:00:37+00:00",
+  "fetchedAt": "2026-09-05T06:15:36+00:00",
+  "quotesAt": "2026-09-05T06:15:36+00:00",
+  "newsAt": "2026-09-05T06:15:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,16 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "환율 끌어내린 기업발 달러 공급…원·달러 추가 하락에 무게",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwY1hFV3pET1NiQ0wtbWxvaVpXeHJIY0VDTG9Cakh1aFJNS2ZNR1dSTUo1cF9aY0FYQTY1enh2azdNbUxoRldWM0ZmYUM4S0FmaFFUa3VOLWJNY2NBNF9Rdm43VQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-05T06:00:00+00:00"
+    },
+    {
+      "t": "美·日, '관세 15% 상한' 재확인⋯\"작년 합의 불변\"",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWHRudmNTWUdBYTUxbEJFVnFweXg3VjduOVNTUG4xU0ZuNTNTTmR5VXRMcFBqYi1SQUVMUkU4c3p1SUdDbGxYMUhDREZtWGxHZU9NcQ?oc=5",
+      "s": "이투데이",
+      "d": "2026-09-05T05:57:00+00:00"
+    },
+    {
       "t": "연준보다 백악관을 보라…美 증시 흔드는 ‘40조 달러 빚’ [김학균의 시장읽기]",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCQmlPMjNHZ3p5Y3RXdnhGd3pqX2pqUEpfcHplODREMUhoN2hKT0puTGJzTTJMZWpOeHVsT3IwTVJSNXhYNEtxNkpHcEprRjFuaVpLVzAzdnRLUDZtV1hPeS1GNkVnNUtaSnBpQ3NYY9IBc0FVX3lxTFBTaTVKbDZlSm53bUFKVVBXU19YbTQ2RE0tcy1JeXM0THlENHhRX2V3X1RoX1JBc2xLTzkxUDNwRzdhcVFCaGJaYnBUeE13ekNBS1l1bUl0eGFiMFFrQzAyZWxPQjV3SXozQkdybXB0SjZzQk0?oc=5",
       "s": "sisajournal.com",
       "d": "2026-09-05T05:00:00+00:00"
-    },
-    {
-      "t": "트럼프 “연준 금리인하 안하면 미국이 적자 보는 나라와는 무역 중단”",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HUXczQVJzNWlVZVdidmRuVkJsb1JvX192Vy1ramE5SUVtSHJDdVpTX084NUhzekExMzQtZ0R0LXFjUGR4NGZvT1hsN3h5TDY0dnVPdml6T0JnNkg0eklJ0gFfQVVfeXFMTkdRdzNBUnM1aVVlV2J2ZG5WQmxvUm9fX3ZXLWtqYTlJRW1IckN1WlNfTzg1SHN6QTEzNC1nRHQtcWNQZHg0Zm9PWGw3eHlMNjR2dU92aXpPQmc2SDR6SUk?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-05T04:46:00+00:00"
     },
     {
       "t": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불",
@@ -43,9 +49,15 @@ window.LIVE_DATA = {
       "d": "2026-09-05T04:21:38+00:00"
     },
     {
+      "t": "트럼프 \"연준 금리 인하 안 하면 적자 보는 나라와 무역 중단\"",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TclVkVldBQndyMkZ4RzJqZ0hwaC1KUW10TnVvZk1VbTdRN09ZemtkQlVpN2J0TVFCQy0tYjVkRlJ2TjZBeHdmVE5KTXowTHBqcVltUm5WRjJ0bkJ0QTYwbkc5ck05M0lsTUVTUnRB?oc=5",
+      "s": "OBS경인TV",
+      "d": "2026-09-05T04:05:53+00:00"
+    },
+    {
       "t": "\"빌린 돈 아직도 갚는중\"…엎친데 덮친 '금리인상'[코로나 빚 탕감①]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMGp6Q3hkUVdCSWE4MFJSSTJkQWlnYWk4TTd0OWk2bGNrWXF0Sk13RnVpeFJmd2Z6YUpiLXR3RDV2am4wcDFiWDE2Q21LbFdGWFpQS2xPa1kzb1d0MGtadNIBeEFVX3lxTE56VzVaOHNDUktSZm9aa1dKWXNRRUtsLVJGTFZTa3pmYlRaLTQtY21ReExjWF9RdjhQWFJnOFRmMzdhLVJSZTY3blAzYmZudEFHT2FjM0F4U3JzZjFValNrdGVTWTVrQlI2OGZDeE1aRXkzTVhvMXB5OQ?oc=5",
-      "s": "뉴시스",
+      "s": "newsis.com",
       "d": "2026-09-05T04:01:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNUxkMWRLV1pFSWoyLXZlaGZoSVpTZEM4X0lOVm91RnB1X0EtMHJXbDYtX2tpcjctcWtzMVZiMTFWYVMyQmt1Y0ZxdkhXVVVBOU4xc2IxQm5qankzQVpuTGNOVzZ2NUpvNmc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-09-05T03:32:00+00:00"
-    },
-    {
-      "t": "美-日, '관세 15% 상한' 합의 준수 재확인…\"추가 관세 차단\"",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03M2dncWtfckdlVUhmcV9DVjZMRmJJWWctUnp6YnA3ZWcwa0M1VHNpYUE4ZHNybXlmZ2hrdXNtTlZkZGt0RzRKS2YteWV5VllDUFFDbThRMk5mazJ3NUc2b0o2Yw?oc=5",
-      "s": "조세금융신문",
-      "d": "2026-09-05T03:23:21+00:00"
-    },
-    {
-      "t": "트럼프, 연준에 '금리 인하' 초강수 압박",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTk1hZzJZRTVnSzVscHhYY1NuTmFXak9jOERoUlpzOXNrWUNiNGEtaEpxNnlCR1RibFQ1c3hyX2pqSlVQenQxUFEzYkpad1pDZl9MUUQtckxkZkRMLVRzYWhWRWxoUEdKSHhz?oc=5",
-      "s": "시사주간",
-      "d": "2026-09-05T03:22:30+00:00"
     }
   ],
   "asof": {},
