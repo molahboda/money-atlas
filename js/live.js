@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T04:00:36+00:00",
-  "quotesAt": "2026-09-05T04:00:36+00:00",
-  "newsAt": "2026-09-05T04:00:36+00:00",
+  "fetchedAt": "2026-09-05T04:15:36+00:00",
+  "quotesAt": "2026-09-05T04:15:36+00:00",
+  "newsAt": "2026-09-05T04:15:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 1.47
   },
   "news": [
+    {
+      "t": "\"빌린 돈 아직도 갚는중\"…엎친데 덮친 '금리인상'[코로나 빚 탕감①]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMGp6Q3hkUVdCSWE4MFJSSTJkQWlnYWk4TTd0OWk2bGNrWXF0Sk13RnVpeFJmd2Z6YUpiLXR3RDV2am4wcDFiWDE2Q21LbFdGWFpQS2xPa1kzb1d0MGtadNIBeEFVX3lxTE56VzVaOHNDUktSZm9aa1dKWXNRRUtsLVJGTFZTa3pmYlRaLTQtY21ReExjWF9RdjhQWFJnOFRmMzdhLVJSZTY3blAzYmZudEFHT2FjM0F4U3JzZjFValNrdGVTWTVrQlI2OGZDeE1aRXkzTVhvMXB5OQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-05T04:01:00+00:00"
+    },
     {
       "t": "“연준 긴축 안 무섭다”…3경 굴리는 큰손들이 담은 자산은 [머니+]",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0eHFFSGZSc2RFdGRBZmVRNEsxMHlYR3JfVXhnalFnTTRzd0ZLOXVvN3RsbVp6U1RzS1B3bTN4NFpBU2JKMDFnTWdaTzhwWHR1WFp2ZXFLejQ2Vjg?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85bjlZckYzVWNUVTkySl9pTVJSb1YzSmpudDRYLXlYa0dHTjNzV3BtcWRJN3NOSGNseDhQVnlETnlZcU1NYzFJbFI4TkZLZC1JOGVKZUtnZE9lUnRfUUxGNDBWV1djUlVPSW5VdmprMllPblZSUTh4Z9IBeEFVX3lxTE9tVzJka0dqa3pTVkZVdkRMWElkSHE3SUd2ckkxaTJSbkxvX3pOdHJuRzljcDQweUNma3RKMFd4Sm10c295UFJrZXdQNUtlNXc2cGhsckpwam5tZTQzMHJickZqdEtOUS1MWHc1Tmo2dldKaDdSVzV0Qg?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-09-05T03:00:22+00:00"
-    },
-    {
-      "t": "AI·반도체·로봇·바이오, 정부가 직접 투자하는 이유 - 영상 | 멀티미디어",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ueTJFVWE5T1dnMkwxV1BobEV0cGVYUHFqa0RlSTNsMTY3OUFUUFZPdFVQTWQtak1OY3pzN0N6MFBVaGdiY0wyUTZLU0pFd1hHYkg1QjFzTUpKc1JaTHJJTC03YkxqSG9hV0xYTg?oc=5",
-      "s": "korea.kr",
-      "d": "2026-09-05T03:00:00+00:00"
     }
   ],
   "asof": {},
