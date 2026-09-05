@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T02:15:36+00:00",
-  "quotesAt": "2026-09-05T02:15:36+00:00",
-  "newsAt": "2026-09-05T02:15:36+00:00",
+  "fetchedAt": "2026-09-05T02:30:36+00:00",
+  "quotesAt": "2026-09-05T02:30:36+00:00",
+  "newsAt": "2026-09-05T02:30:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,12 +25,6 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[해외시황] 뉴욕증시, 美 고용 호조에 '일제히 하락'…나스닥 0.29%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xTmVaSzFkdlJwZUlpSHlMejFOaUFVRy1HbUtmbG5BU0lhSEt1bEpkcmRrdnY2NHlzYlp3MjdQM0RHcG9XcmE3RGw1Q3VJSDJlYXhTd3dZYjg5YUVnbE95UA?oc=5",
-      "s": "프라임경제",
-      "d": "2026-09-05T02:08:24+00:00"
-    },
-    {
       "t": "금리 올리면 코인 떨어질까?",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FU0h0MWl1Szg4UTR0YnVJWWo0WmFVLWdwcF83X21vYTV5eTlhOWJ6aDN3ZU43b1ROUE1iTl9WTUFod1hoU1BfOTRLTDFGREM5RUpKVDR1NmM2a2hxRlF1RGYzd0szZUx1SHc?oc=5",
       "s": "비즈워치",
@@ -45,7 +39,7 @@ window.LIVE_DATA = {
     {
       "t": "美 월가서 ‘탈모치료제’ 주목? 현대약품 상한가 찍은 이유 [주간 증시해설서]",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qRGlaTHk2bHlHSTctdTB0Um1USndQdWZtVEJDVUtMV3R0c283bzR2SUo2TnpQRjJGVzgyN3hNNXNCRHl6b21CVmpXUi1xYzktTjB4ZU9qSkphYko0bUx2MUUxSmdLRVhGd3hRRHpB?oc=5",
-      "s": "thescoop.co.kr",
+      "s": "더스쿠프",
       "d": "2026-09-05T01:41:11+00:00"
     },
     {
@@ -59,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SEQ4YjNWZjFOaVlwX1U0UmtvQTljSmh5eWRJV2QtVUotYTAzdWx0YzhnOFY3NjlqZlE3OC04TmZMZk1SZmVMSjFLQzBuUy05OHdzRUxnZ1NRUQ?oc=5",
       "s": "한국경제",
       "d": "2026-09-05T01:26:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 고용 깜짝 증가에 하락…반도체주는 강세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VbURRZFdyVkNPS2dzU2hYdFhtRl9MdlRxN2Myc252TXJOemhnS0ViWDdHLWpSUlVjWjBneHZ6OFlrMkVwd01vazVUbEdyQ21lelhGQUVjTVdqYWJ0MkRQcWtjRlhJS1lneGJaMkdVbWU?oc=5",
+      "s": "코리아리포트",
+      "d": "2026-09-05T01:24:12+00:00"
     },
     {
       "t": "“인내심 바닥난 트럼프”…금리 안 내리면 ‘무역 중단’ 경고 [이슈+]",
