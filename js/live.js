@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T00:45:36+00:00",
-  "quotesAt": "2026-09-05T00:45:36+00:00",
-  "newsAt": "2026-09-05T00:45:36+00:00",
+  "fetchedAt": "2026-09-05T01:00:37+00:00",
+  "quotesAt": "2026-09-05T01:00:37+00:00",
+  "newsAt": "2026-09-05T01:00:37+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": 1.47
   },
   "news": [
+    {
+      "t": "트럼프 “연준 금리 안 내리면 적자국과 무역 중단할 것”",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UGt0ZmpjXzVyOHRZQ19jTHpUWDFmT2FNdTctNmFCLURLX0U2M3lZY2RhVjFNWGJyTUlIYU9YMXN4TEtPUXZ3S2VfSk13Rmx6Vk1FUWFiS3QyRkl0cU1hdDYyMjc?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-05T00:55:55+00:00"
+    },
+    {
+      "t": "'800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbDVwWTQxdDRpMUdwR0tIai1BSU1DbG5oQ01fanlRdFRub2JUUnFpbFFwZ3JQbFRieVA3cjhMZ21IRVVra19iRlY5NFNjOVE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-05T00:53:15+00:00"
+    },
+    {
+      "t": "기름값 하락세 언제까지…국제유가 급등 '변수'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzaG5qclVNMEJJWGJqTUpfSG5Gem1KRTl3VV9kS2ZWS2ZNSmdXQVpvREVWLU5oU1k0Y2xKd2tMOE9SNGcxcTZ1OWNjSmdINTA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-05T00:44:52+00:00"
+    },
+    {
+      "t": "나랏빚 누적에 AI 차입 경쟁까지…세계 국채금리 다년간 최고",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVlSbEV3MmZqWlRVN2VoUWFfOXpURkRrd2VZYjB5MjdzUDl3dmRGR2pMXzFUaDZkQ1BzYXo5RU11NERLcE5BNEJ5VmlCSUcta00yTHVnMFF2dmNXRlZaSDhWLVVOa3hSbDNiNTlCNWFKcXJOU2lWZFFpQkZBQXBNcU44a3pxeldy?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-05T00:40:05+00:00"
+    },
     {
       "t": "추석 앞두고 밥상물가 ’불안’…2기 경제팀 시험대",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85WU9zRlFuNDBLV1RZQ3lsU1Rad0Z5WHNSaDViOGs2YWQ4VDRIeVdzYmdPQUJKbFU3QUxfclVCVTVSWmJmUERQOFI3eGZVeEFHVzJnZXVqeXBTVmpUWHpkRDBma0RtT1k?oc=5",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-05T00:05:01+00:00"
     },
     {
+      "t": "무안공항 특화 전략에 등장한 '반도체'…국가산단 연계 주목",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TeDBrR2J3b2dub1d4dl9HX1B0VlM1aWxkUzJFZGpCNEluc2N0MEFkeHlmUTN0VGpBSF9ydkpKc0dGN2gyZ0JadFNjdUZtTUk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-05T00:03:00+00:00"
+    },
+    {
       "t": "미 고용 급증에 금리 인상론 '솔솔'...트럼프, 연준 노골적 압박",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaVVaek5iQnlXMlgtRW03dDVIVUZIQVQzNW5qcjA2SVRlRGt3X09hRWU5QWNqeFFVb0ZJdXpyY2ZEekdnUExlR2stdDNMMWd1VzJlUzZIMzlSQmpQQnc?oc=5",
       "s": "YTN",
       "d": "2026-09-05T00:02:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 고용호조-금리인상 경계에 일제 하락",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wd0k4UEhDN0FPZmtmR2JJa2hJZnR2VXNlSGRMaEpVMVZOcTJjcWtEeXl4Z2dUUUh1U25YZkF1MWh3SlcxR19mNjNCb2t2RkRPTkJkaE1ZSTRQWDNHZFBmVkZqWWdrTEE3SC1n?oc=5",
-      "s": "news.bbsi.co.kr",
-      "d": "2026-09-05T00:01:23+00:00"
-    },
-    {
-      "t": "[위클리 PICK 3] 반도체가 이끈 韓 수출 '역대 최대' 기록부터 美 이란 파병 연장 방침까지",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZnVrdl9teXhFRGlrZjhuNXNBa0pzVU04aVFqMkhiYy1yQUYzM3RrVGdMSkVDN3FDQVpnbkEtc2pMZ1NsdXE4WF9sZ3ZobW9mSmxNUEVrVkozVFZKcXRzcnQ0OWtqTklvb0tsTG50MlQ?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-05T00:00:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 美'고용 서프라이즈'에 반도체 홀로 강세, 왜?···다음주 물가 '관건'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yWWFtdERvQTBLM0tMc050YzdZMHpuRXNfZXpuLTN6UjFfVlUwVzlXbXZKNHlyVHBMcUdvZ0ZZU0w1RldoelVvdEVReGg0R3ZuSVRYVDlPYXFkU2ljU0JqSldoakI1SV9wNHc?oc=5",
-      "s": "seoulfn.com",
-      "d": "2026-09-04T23:57:04+00:00"
-    },
-    {
-      "t": "트럼프 “연준, 금리 안 내리면 무역적자국과 교역 중단”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yRGExTFgtbEVITXFwcW9iZ0EtYjdZUTYtenphdU5TMzd2Qm1VY3ZXSVRYelByaW9oVjk3YXVtcFZPTDFkMWhQVU5GYzRxS0FfbHRIbk1SVkpYd0F2S0lsN09BaU9JRWVRMDZMQ0FFaw?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-04T23:30:00+00:00"
-    },
-    {
-      "t": "뉴욕증시, 고용 ‘깜짝 호조’에 하락…금리 인상 베팅 60%로",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aS3pabEE5M2RGN0V3bkY2djF6REQ4N1dSb2JQTGFrQ1VBblpEQ2QwN216eEMyNHdDazB5VHh6SU9VT1djUnpnUVlZemM4bFZGMjRuZVI3c3F5Y2lYODduelVPdGQ2RWFZ?oc=5",
-      "s": "ebn.co.kr",
-      "d": "2026-09-04T23:20:31+00:00"
     }
   ],
   "asof": {},
