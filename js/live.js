@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T00:30:36+00:00",
-  "quotesAt": "2026-09-05T00:30:36+00:00",
-  "newsAt": "2026-09-05T00:30:36+00:00",
+  "fetchedAt": "2026-09-05T00:45:36+00:00",
+  "quotesAt": "2026-09-05T00:45:36+00:00",
+  "newsAt": "2026-09-05T00:45:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 1.47
   },
   "news": [
+    {
+      "t": "추석 앞두고 밥상물가 ’불안’…2기 경제팀 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85WU9zRlFuNDBLV1RZQ3lsU1Rad0Z5WHNSaDViOGs2YWQ4VDRIeVdzYmdPQUJKbFU3QUxfclVCVTVSWmJmUERQOFI3eGZVeEFHVzJnZXVqeXBTVmpUWHpkRDBma0RtT1k?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T00:31:00+00:00"
+    },
+    {
+      "t": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-05T00:30:02+00:00"
+    },
     {
       "t": "글로벌 금융시장은 ’출렁’… 美 금리는 어디로?",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRWxUUngta2RiMXZmRUFQcFFIdUVqd2tjS0F6T0lsaUZmMmh5cnNFdUptbGhNMV9KT3lkaWp6cjdMMWVtTml3SDZJWEhsYlI4THRsaFJGMWowRzBSUk84d2hTMFBMQW8?oc=5",
@@ -49,40 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-09-05T00:01:23+00:00"
     },
     {
+      "t": "[위클리 PICK 3] 반도체가 이끈 韓 수출 '역대 최대' 기록부터 美 이란 파병 연장 방침까지",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZnVrdl9teXhFRGlrZjhuNXNBa0pzVU04aVFqMkhiYy1yQUYzM3RrVGdMSkVDN3FDQVpnbkEtc2pMZ1NsdXE4WF9sZ3ZobW9mSmxNUEVrVkozVFZKcXRzcnQ0OWtqTklvb0tsTG50MlQ?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-09-05T00:00:00+00:00"
+    },
+    {
       "t": "[뉴욕증시] 美'고용 서프라이즈'에 반도체 홀로 강세, 왜?···다음주 물가 '관건'",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yWWFtdERvQTBLM0tMc050YzdZMHpuRXNfZXpuLTN6UjFfVlUwVzlXbXZKNHlyVHBMcUdvZ0ZZU0w1RldoelVvdEVReGg0R3ZuSVRYVDlPYXFkU2ljU0JqSldoakI1SV9wNHc?oc=5",
       "s": "seoulfn.com",
       "d": "2026-09-04T23:57:04+00:00"
     },
     {
-      "t": "\"바브엘만데브 해협까지 불안\"…국제유가 상승세 이어져",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qMlJabFlNNVVYWGVha0lSYnVOY3ZDRVJDSUxKbU51UW41Y3kxVUVibGtYZGFzV05md1RKelZ4WmhaeEcwZXJSeWdEOXVNejFOdmJpaDJhVnlmWkNtYVVWTVUtbVN3RWs?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-04T23:44:00+00:00"
-    },
-    {
       "t": "트럼프 “연준, 금리 안 내리면 무역적자국과 교역 중단”",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yRGExTFgtbEVITXFwcW9iZ0EtYjdZUTYtenphdU5TMzd2Qm1VY3ZXSVRYelByaW9oVjk3YXVtcFZPTDFkMWhQVU5GYzRxS0FfbHRIbk1SVkpYd0F2S0lsN09BaU9JRWVRMDZMQ0FFaw?oc=5",
-      "s": "hani.co.kr",
+      "s": "한겨레",
       "d": "2026-09-04T23:30:00+00:00"
     },
     {
-      "t": "반도체 주주환원, 코스피 왜 못 올릴까…\"일회성 규모보다 꾸준함\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aek9QeFRSS0N2U1lBMWVmQ0ZBRTVWaEJ5M1hvMWNldGM1SFIzc2dlOXdIOXdseU51T0JmWjgxRjJ6ajY4VG5VYUc0TTd0TVVmeGYzY0hYQ0VEbHRPWUh1UTdKa1FUMldOOFNFM3ItdmU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-04T23:15:16+00:00"
-    },
-    {
-      "t": "[속보] 트럼프 “연준 금리인하 안하면 미국이 적자보는 나라와 무역 중단”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNEcwUTZOT214aGJDeUh4Mm9YR29NaFF1Yno0djZGN1hNWDVFNHJHTUhwaDFwN3lsNkVEVXJSQkFqRTVPd3FsQXhPMVF0akQ4?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-04T23:14:13+00:00"
-    },
-    {
-      "t": "\"주유소 언제 들러야하나\"…美 중간선거 앞두고 유가 변동성↑ [주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BcVlOaFh3eTFMc2ktR0xuMmNhNjVVMFVhSU9WdE8xRWpaZnhDTzFWRFpja2lnZHBmb2I0ZW1xcHIzMjdjNUljVnFFM0pLbFE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-04T23:13:00+00:00"
+      "t": "뉴욕증시, 고용 ‘깜짝 호조’에 하락…금리 인상 베팅 60%로",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aS3pabEE5M2RGN0V3bkY2djF6REQ4N1dSb2JQTGFrQ1VBblpEQ2QwN216eEMyNHdDazB5VHh6SU9VT1djUnpnUVlZemM4bFZGMjRuZVI3c3F5Y2lYODduelVPdGQ2RWFZ?oc=5",
+      "s": "ebn.co.kr",
+      "d": "2026-09-04T23:20:31+00:00"
     }
   ],
   "asof": {},
