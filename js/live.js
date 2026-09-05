@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T06:15:36+00:00",
-  "quotesAt": "2026-09-05T06:15:36+00:00",
-  "newsAt": "2026-09-05T06:15:36+00:00",
+  "fetchedAt": "2026-09-05T06:30:37+00:00",
+  "quotesAt": "2026-09-05T06:30:37+00:00",
+  "newsAt": "2026-09-05T06:30:37+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -29,12 +29,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwY1hFV3pET1NiQ0wtbWxvaVpXeHJIY0VDTG9Cakh1aFJNS2ZNR1dSTUo1cF9aY0FYQTY1enh2azdNbUxoRldWM0ZmYUM4S0FmaFFUa3VOLWJNY2NBNF9Rdm43VQ?oc=5",
       "s": "에너지경제신문",
       "d": "2026-09-05T06:00:00+00:00"
-    },
-    {
-      "t": "美·日, '관세 15% 상한' 재확인⋯\"작년 합의 불변\"",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWHRudmNTWUdBYTUxbEJFVnFweXg3VjduOVNTUG4xU0ZuNTNTTmR5VXRMcFBqYi1SQUVMUkU4c3p1SUdDbGxYMUhDREZtWGxHZU9NcQ?oc=5",
-      "s": "이투데이",
-      "d": "2026-09-05T05:57:00+00:00"
     },
     {
       "t": "연준보다 백악관을 보라…美 증시 흔드는 ‘40조 달러 빚’ [김학균의 시장읽기]",
@@ -81,8 +75,14 @@ window.LIVE_DATA = {
     {
       "t": "일본·미국, AI·반도체 중심 5,500억 달러 투자 협정 진전",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNUxkMWRLV1pFSWoyLXZlaGZoSVpTZEM4X0lOVm91RnB1X0EtMHJXbDYtX2tpcjctcWtzMVZiMTFWYVMyQmt1Y0ZxdkhXVVVBOU4xc2IxQm5qankzQVpuTGNOVzZ2NUpvNmc?oc=5",
-      "s": "Investing.com 한국어",
+      "s": "kr.investing.com",
       "d": "2026-09-05T03:32:00+00:00"
+    },
+    {
+      "t": "트럼프, 연준에 '금리 인하' 초강수 압박",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTk1hZzJZRTVnSzVscHhYY1NuTmFXak9jOERoUlpzOXNrWUNiNGEtaEpxNnlCR1RibFQ1c3hyX2pqSlVQenQxUFEzYkpad1pDZl9MUUQtckxkZkRMLVRzYWhWRWxoUEdKSHhz?oc=5",
+      "s": "시사주간",
+      "d": "2026-09-05T03:22:30+00:00"
     }
   ],
   "asof": {},
