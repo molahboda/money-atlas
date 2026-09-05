@@ -1,15 +1,15 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T04:30:36+00:00",
-  "quotesAt": "2026-09-05T04:30:36+00:00",
-  "newsAt": "2026-09-05T04:30:36+00:00",
+  "fetchedAt": "2026-09-05T04:45:36+00:00",
+  "quotesAt": "2026-09-05T04:45:36+00:00",
+  "newsAt": "2026-09-05T04:45:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
     "nikkei": 65020.94,
     "vix": 14.53,
     "krw": 1351.1,
-    "gold": 4477.2,
+    "gold": 4476.6,
     "wti": 91.48,
     "dxy": 99.16
   },
@@ -19,7 +19,7 @@ window.LIVE_DATA = {
     "nikkei": 1.26,
     "krw": -0.54,
     "dxy": 0.16,
-    "gold": -0.32,
+    "gold": -0.34,
     "wti": 0.2,
     "vix": 1.47
   },
@@ -38,7 +38,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "“연준 긴축 안 무섭다”…3경 굴리는 큰손들이 담은 자산은 [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0eHFFSGZSc2RFdGRBZmVRNEsxMHlYR3JfVXhnalFnTTRzd0ZLOXVvN3RsbVp6U1RzS1B3bTN4NFpBU2JKMDFnTWdaTzhwWHR1WFp2ZXFLejQ2Vjg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LYTI2bGNEVHlBVUVjWkNjTVBneUExWUo1TWR3NzMwS3NtQVVfcm5LbldFWVAzb3NqTVNoVUhEQURNbkNYV2thSzRZNzlrWmdpN01CSUxLazduQ3AxTVRzUFdMNA?oc=5",
       "s": "에너지경제신문",
       "d": "2026-09-05T03:49:26+00:00"
     },
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-05T03:21:00+00:00"
     },
     {
-      "t": "‘반도체 생명수’ 초순수까지 … 물 순환형 반도체 산단 조성",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yYkNJNXBCMUIwTHlUVXNwOEdVbFdDeW93NnNtRkhabEF6LWplZ3Rfa2ZQWXFqVk1sTWFJTXZEd1NaNVNGMnF5YlRNZzZ2NDg?oc=5",
+      "t": "김정관 산업장관 \"韓·美, 단순 협력 넘어 글로벌 파트너\"…관세 부담 완화 요청",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41cy12czdNY2ZVcFF6M0t4WkNVRnhuLWJaYXU3a3dCNzE4WHdTOUh3N08tM0ttQmRJcm81MFdyV2diVmM5SFdOemU5bFQ2dzA?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-05T03:06:57+00:00"
+      "d": "2026-09-05T03:20:00+00:00"
     }
   ],
   "asof": {},
