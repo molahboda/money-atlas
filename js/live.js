@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T02:45:36+00:00",
-  "quotesAt": "2026-09-05T02:45:36+00:00",
-  "newsAt": "2026-09-05T02:45:36+00:00",
+  "fetchedAt": "2026-09-05T03:00:37+00:00",
+  "quotesAt": "2026-09-05T03:00:37+00:00",
+  "newsAt": "2026-09-05T03:00:37+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -37,10 +37,22 @@ window.LIVE_DATA = {
       "d": "2026-09-05T02:00:02+00:00"
     },
     {
+      "t": "16주째 내린 기름값···국제유가 급등에 하락세 끝나나",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjYWFtMHlhNnlZR00yS090b0l0T3JGX1ozQll4YlZvdmZ3N0FxQUxvcTVVeV9pNHp0bVNSSVR3T2dFeG9vOFlrZk9RT1ZQMVZCQXlUUHZwT2dWYmQ5Q2FVZmNWbjN4aHFIVDlxY01kSExvb0dOcHfSAXZBVV95cUxQY2FhbTB5YTZ5WUdNMktPdG9JdE9yRl9aM0JZeGJWb3ZmdzdBcUFMb3E1VXlfaTR6dG1TUklUd09nRXhvbzhZa2ZPUU9WUDFWQkF5VFB2cE9nVmJkOUNhVWZjVm4zeGhxSFQ5cWNNZEhMb29HTnB3?oc=5",
+      "s": "시사저널e",
+      "d": "2026-09-05T01:49:52+00:00"
+    },
+    {
       "t": "“삼전닉스 쉬어갈 때 뭘 살까?”…롱숏 베테랑이 찍은 3가지 업종 [여의도란도란]",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zdDQ1WGUyMFpYMDZRVjM0R3BtdTFQcDhpN1FPQTR2UWk4SzlsYUQzZTNQWHJrNWpNbldDT2tHU21LQ1M5M1h1eUpFRDFrMFlyZWc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-09-05T01:45:17+00:00"
+    },
+    {
+      "t": "주유소 기름값 16주째 하락…국제유가는 급등",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTZEp2a2FjUjg2X1I5SWJyY3VjRVNlamEzalU3eTZvSkhnZ2VHNlpORGNpTVRFbDZmb2VEc0xGMG1TQ2VVcVdjdnpDcFdEeDMwdzA1MktNSjMzS1NDWHc5SExnY1lQMWM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T01:44:00+00:00"
     },
     {
       "t": "美 월가서 ‘탈모치료제’ 주목? 현대약품 상한가 찍은 이유 [주간 증시해설서]",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWkZncXZDcTAyWmZkcksxUEk5MFY4WEZZenpHaUVfeUlMQmRQbXdmc1lpR294RUtTdkxjV3ptcDZ1YjJyd0F5UWxNZUZUeUNIRzUtWXgzNzB4cndFRmpzVDlMaVQ2VXM?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-05T01:11:00+00:00"
-    },
-    {
-      "t": "“금리인하 안하면 미국 적자보는 나라와 무역 안한다”는 트럼프…한국은?",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tMkxwalRsdW5xWHRVS0VMeHExbDYycWtuYzJqWmdVeElJWG1UWVgzUW1DamI5dUxINlNrVWROUXd3Z1hhR01HdjA4ZDlMaTdFZnc?oc=5",
-      "s": "매일경제",
-      "d": "2026-09-05T01:07:55+00:00"
-    },
-    {
-      "t": "국제유가 상승 계속…바브엘만데브 해협까지 불안",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kallhVnlwLVdocF93MnpJYzJ6T2Y3THZobFk0TVpuWEJ2MklucnBELXZCVjBub005T0ZQSFQwMUNpeDBvcW9EZlMxZm5wVVl0TktldmU1a0h5LWNVcWJyT0VLOE5iOWc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-05T01:05:00+00:00"
     }
   ],
   "asof": {},
