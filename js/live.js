@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T01:15:36+00:00",
-  "quotesAt": "2026-09-05T01:15:36+00:00",
-  "newsAt": "2026-09-05T01:15:36+00:00",
+  "fetchedAt": "2026-09-05T01:30:36+00:00",
+  "quotesAt": "2026-09-05T01:30:36+00:00",
+  "newsAt": "2026-09-05T01:30:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -37,10 +37,10 @@ window.LIVE_DATA = {
       "d": "2026-09-05T01:11:00+00:00"
     },
     {
-      "t": "“금리인하 안하면 미국 적자보는 나라와 무역 안한다”는 트럼프…한국은?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aS0owWWdudlB0Qzh4cFB4QmdhNnlYQWZWc0syS2l3MUtJM1UtNmtrNFJ0a0sxa3V5bm01alhiNmIzM3BlYmp3ZC1HYXowdjQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-05T01:09:03+00:00"
+      "t": "[뉴욕 증시] 美 Fed 금리 인상 예상↑...뉴욕 3대 지수 일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xb2lfNnlPN05aNDk0a3hiRHdTU2Y2OXkzbU9PSzRLa0NSelJSbnAtT0pKbDhtUEdVWUZBUHhyYUJCeDRRLXBucXVrdFgzY3RXOXVwOV9hck5uUTRSN2ZrZHlYTHhlamhUM2NWRWxrR3B0Zw?oc=5",
+      "s": "한양경제",
+      "d": "2026-09-05T01:10:10+00:00"
     },
     {
       "t": "국제유가 상승 계속…바브엘만데브 해협까지 불안",
@@ -61,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-09-05T00:55:55+00:00"
     },
     {
-      "t": "'800조 반도체' 연결고리로 뜬 무안공항…청사진 현실화할까",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbDVwWTQxdDRpMUdwR0tIai1BSU1DbG5oQ01fanlRdFRub2JUUnFpbFFwZ3JQbFRieVA3cjhMZ21IRVVra19iRlY5NFNjOVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-05T00:53:15+00:00"
-    },
-    {
       "t": "기름값 하락세 언제까지…국제유가 급등 '변수'",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzaG5qclVNMEJJWGJqTUpfSG5Gem1KRTl3VV9kS2ZWS2ZNSmdXQVpvREVWLU5oU1k0Y2xKd2tMOE9SNGcxcTZ1OWNjSmdINTA?oc=5",
       "s": "v.daum.net",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85WU9zRlFuNDBLV1RZQ3lsU1Rad0Z5WHNSaDViOGs2YWQ4VDRIeVdzYmdPQUJKbFU3QUxfclVCVTVSWmJmUERQOFI3eGZVeEFHVzJnZXVqeXBTVmpUWHpkRDBma0RtT1k?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-05T00:31:00+00:00"
+    },
+    {
+      "t": "'마이너스 MAR' 뭐길래…1,340원대로 급락한 환율 이면에 '+15전→-15전'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMXRmRDdvemljMjc4VDNrdm9Vd1ZzNHJ0QnRYdUVseGVZb25FejQ4U3pBTGtWTDkwb0l1UU1Lci10V1VCZFY0b1g0UmlvaFhXZFBzLWpJWllaQnZyZkwxYWhqNU8yN0pLT0dDZzczX1M?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-05T00:30:02+00:00"
     }
   ],
   "asof": {},
