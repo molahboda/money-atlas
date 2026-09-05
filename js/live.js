@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T03:45:36+00:00",
-  "quotesAt": "2026-09-05T03:45:36+00:00",
-  "newsAt": "2026-09-05T03:45:36+00:00",
+  "fetchedAt": "2026-09-05T04:00:36+00:00",
+  "quotesAt": "2026-09-05T04:00:36+00:00",
+  "newsAt": "2026-09-05T04:00:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“연준 긴축 안 무섭다”…3경 굴리는 큰손들이 담은 자산은 [머니+]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0eHFFSGZSc2RFdGRBZmVRNEsxMHlYR3JfVXhnalFnTTRzd0ZLOXVvN3RsbVp6U1RzS1B3bTN4NFpBU2JKMDFnTWdaTzhwWHR1WFp2ZXFLejQ2Vjg?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-05T03:49:26+00:00"
+    },
+    {
+      "t": "’교역 중단’ 경고 트럼프… 美 금리는 어디로?",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ZHA3R0tJRnN5UVljZ2JEU21YYmRQaEJoZS1peTV2WEx5bThTZTdzQmNDREJRbGloTGpmSlMwV3ZSbTd6N1d1NTkzRkV2SlhGYkdPQkVfWVJFVXM5eU5JRXRBZXMxU28?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-05T03:44:00+00:00"
+    },
+    {
       "t": "뉴욕 엔달러 환율 156.15~25엔, 미국 금리 인상론 영향",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56WkNxWkVTLWxEUEQ0Z3Q4enE2ZHZJMTBPdTk4RXVuMmdlOE93Ym5sdDlkSEpUeDFySFhUc296TnZhRDlJcDNfRVF3bDNXZG9IREVOZDhiVzRVN0YzYm9wWGVyOUxGQWI4LUhEckROMWg3UEF0RVQ4?oc=5",
       "s": "thecommoditiesnews.com",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNUxkMWRLV1pFSWoyLXZlaGZoSVpTZEM4X0lOVm91RnB1X0EtMHJXbDYtX2tpcjctcWtzMVZiMTFWYVMyQmt1Y0ZxdkhXVVVBOU4xc2IxQm5qankzQVpuTGNOVzZ2NUpvNmc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-09-05T03:32:00+00:00"
+    },
+    {
+      "t": "美-日, '관세 15% 상한' 합의 준수 재확인…\"추가 관세 차단\"",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03M2dncWtfckdlVUhmcV9DVjZMRmJJWWctUnp6YnA3ZWcwa0M1VHNpYUE4ZHNybXlmZ2hrdXNtTlZkZGt0RzRKS2YteWV5VllDUFFDbThRMk5mazJ3NUc2b0o2Yw?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-09-05T03:23:21+00:00"
     },
     {
       "t": "트럼프, 연준에 '금리 인하' 초강수 압박",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ueTJFVWE5T1dnMkwxV1BobEV0cGVYUHFqa0RlSTNsMTY3OUFUUFZPdFVQTWQtak1OY3pzN0N6MFBVaGdiY0wyUTZLU0pFd1hHYkg1QjFzTUpKc1JaTHJJTC03YkxqSG9hV0xYTg?oc=5",
       "s": "korea.kr",
       "d": "2026-09-05T03:00:00+00:00"
-    },
-    {
-      "t": "기름값 부담 덜었는데…국제유가 급등에 다시 '긴장'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kZDlZaVpZQ1JyV0g0T1JGT1MwM0JiMVJQZ3pnRnV0U1VKWDVqcVZpUXlxRVVNTnNjbkNWRTEtczlCRERfclZhNmhTQ2JLeFk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-05T02:48:00+00:00"
-    },
-    {
-      "t": "금리 올리면 코인 떨어질까?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FU0h0MWl1Szg4UTR0YnVJWWo0WmFVLWdwcF83X21vYTV5eTlhOWJ6aDN3ZU43b1ROUE1iTl9WTUFod1hoU1BfOTRLTDFGREM5RUpKVDR1NmM2a2hxRlF1RGYzd0szZUx1SHc?oc=5",
-      "s": "비즈워치",
-      "d": "2026-09-05T02:00:02+00:00"
-    },
-    {
-      "t": "“삼전닉스 쉬어갈 때 뭘 살까?”…롱숏 베테랑이 찍은 3가지 업종 [여의도란도란]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zdDQ1WGUyMFpYMDZRVjM0R3BtdTFQcDhpN1FPQTR2UWk4SzlsYUQzZTNQWHJrNWpNbldDT2tHU21LQ1M5M1h1eUpFRDFrMFlyZWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-05T01:45:17+00:00"
     }
   ],
   "asof": {},
