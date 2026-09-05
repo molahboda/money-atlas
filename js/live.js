@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-05T02:00:37+00:00",
-  "quotesAt": "2026-09-05T02:00:37+00:00",
-  "newsAt": "2026-09-05T02:00:37+00:00",
+  "fetchedAt": "2026-09-05T02:15:36+00:00",
+  "quotesAt": "2026-09-05T02:15:36+00:00",
+  "newsAt": "2026-09-05T02:15:36+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,16 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[해외시황] 뉴욕증시, 美 고용 호조에 '일제히 하락'…나스닥 0.29%↓",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xTmVaSzFkdlJwZUlpSHlMejFOaUFVRy1HbUtmbG5BU0lhSEt1bEpkcmRrdnY2NHlzYlp3MjdQM0RHcG9XcmE3RGw1Q3VJSDJlYXhTd3dZYjg5YUVnbE95UA?oc=5",
+      "s": "프라임경제",
+      "d": "2026-09-05T02:08:24+00:00"
+    },
+    {
+      "t": "금리 올리면 코인 떨어질까?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FU0h0MWl1Szg4UTR0YnVJWWo0WmFVLWdwcF83X21vYTV5eTlhOWJ6aDN3ZU43b1ROUE1iTl9WTUFod1hoU1BfOTRLTDFGREM5RUpKVDR1NmM2a2hxRlF1RGYzd0szZUx1SHc?oc=5",
+      "s": "비즈워치",
+      "d": "2026-09-05T02:00:02+00:00"
+    },
+    {
       "t": "“삼전닉스 쉬어갈 때 뭘 살까?”…롱숏 베테랑이 찍은 3가지 업종 [여의도란도란]",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zdDQ1WGUyMFpYMDZRVjM0R3BtdTFQcDhpN1FPQTR2UWk4SzlsYUQzZTNQWHJrNWpNbldDT2tHU21LQ1M5M1h1eUpFRDFrMFlyZWc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-09-05T01:45:17+00:00"
     },
     {
-      "t": "비트코인 8만 달러 붕괴…美 금리인상 우려 '직격탄'",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUS0twSHBPWGtsR18tRU5wQk91bkRBZnFfUUIwTG83RnptZ2p0Y2l5bGJYaUVQamNoUFpKZHBqMVJrbTV2VFpaanMzRTNUaUVGZmRMdlB3?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-09-05T01:28:40+00:00"
+      "t": "美 월가서 ‘탈모치료제’ 주목? 현대약품 상한가 찍은 이유 [주간 증시해설서]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qRGlaTHk2bHlHSTctdTB0Um1USndQdWZtVEJDVUtMV3R0c283bzR2SUo2TnpQRjJGVzgyN3hNNXNCRHl6b21CVmpXUi1xYzktTjB4ZU9qSkphYko0bUx2MUUxSmdLRVhGd3hRRHpB?oc=5",
+      "s": "thescoop.co.kr",
+      "d": "2026-09-05T01:41:11+00:00"
     },
     {
       "t": "[9월 첫째 주 세계경제동향 브리핑] 코스피 6,600선 후퇴…美 증시는 혼조",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-05T01:11:00+00:00"
     },
     {
+      "t": "“금리인하 안하면 미국 적자보는 나라와 무역 안한다”는 트럼프…한국은?",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tMkxwalRsdW5xWHRVS0VMeHExbDYycWtuYzJqWmdVeElJWG1UWVgzUW1DamI5dUxINlNrVWROUXd3Z1hhR01HdjA4ZDlMaTdFZnc?oc=5",
+      "s": "mk.co.kr",
+      "d": "2026-09-05T01:07:55+00:00"
+    },
+    {
       "t": "국제유가 상승 계속…바브엘만데브 해협까지 불안",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kallhVnlwLVdocF93MnpJYzJ6T2Y3THZobFk0TVpuWEJ2MklucnBELXZCVjBub005T0ZQSFQwMUNpeDBvcW9EZlMxZm5wVVl0TktldmU1a0h5LWNVcWJyT0VLOE5iOWc?oc=5",
       "s": "yonhapnewstv.co.kr",
       "d": "2026-09-05T01:05:00+00:00"
-    },
-    {
-      "t": "美 금리 인상 가능성에 뉴욕증시 일제히 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIS0RGc1RJY2dud0FyRDRySEZVdjUycDZJb1p3MlBvZ0FZUl9lRG9WSHc1THZJTU9zTTNiZ2dpRHZ1aUZfQ195Q25HQTFubEdxU3ExUG9HOFRPVE9vMWJmdzY4c3UtNjA?oc=5",
-      "s": "yonhapnewstv.co.kr",
-      "d": "2026-09-05T01:04:00+00:00"
-    },
-    {
-      "t": "日 금리 인상·연기금 매수설에 뛴 엔화…155엔 깨지면 더 오른다",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRnJ3Mnd3a2dDekFoNFpiVFNCWkhfajBfWEtiOEhZeVlvUDY1YUxvXzZXTTcxTU4zU1pSYzRIYVI5Q01leEk5b0dzaWNvdGJ3anfSAVNBVV95cUxQODE1WlNXcXdhTVk2UWNTRUVIT2IxRWpKTVowY3h1V09ma0JtWlU2ckgwWWFPZy1RSW45ZUQtWnJvUU5Bc0k3dlJyaF80QV85VVltYw?oc=5",
-      "s": "서울경제",
-      "d": "2026-09-05T01:00:00+00:00"
-    },
-    {
-      "t": "트럼프 “연준 금리 안 내리면 적자국과 무역 중단할 것”",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UGt0ZmpjXzVyOHRZQ19jTHpUWDFmT2FNdTctNmFCLURLX0U2M3lZY2RhVjFNWGJyTUlIYU9YMXN4TEtPUXZ3S2VfSk13Rmx6Vk1FUWFiS3QyRkl0cU1hdDYyMjc?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-09-05T00:55:55+00:00"
     }
   ],
   "asof": {},
