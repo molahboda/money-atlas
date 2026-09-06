@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-06T07:30:40+00:00",
-  "quotesAt": "2026-09-06T07:30:40+00:00",
-  "newsAt": "2026-09-06T06:45:19+00:00",
+  "fetchedAt": "2026-09-06T07:45:32+00:00",
+  "quotesAt": "2026-09-06T07:45:32+00:00",
+  "newsAt": "2026-09-06T07:45:32+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "환율 끌어내린 기업발 달러 공급…원·달러 추가 하락에 무게",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwY1hFV3pET1NiQ0wtbWxvaVpXeHJIY0VDTG9Cakh1aFJNS2ZNR1dSTUo1cF9aY0FYQTY1enh2azdNbUxoRldWM0ZmYUM4S0FmaFFUa3VOLWJNY2NBNF9Rdm43VQ?oc=5",
+      "t": "[특징주] 주성엔지니어링(036930), 반도체 수주 탄탄…실적 전환 속도 관건",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KbW9RY2Yyb3BlUDc5SFo2WF9YMWZsUHJLRUVpNDN3ZElSejRpN0NpLXdoVFN2MTN1eUNfelhTRTdWZVdHektCRE9tdkNybTNjZldERHV4LXZWMHEyZGJqUmNCVWVjN1pxSmc?oc=5",
+      "s": "인천일보",
+      "d": "2026-09-06T07:35:00+00:00"
+    },
+    {
+      "t": "전북도, 반도체 소부장 특화단지 유치 총력",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5faHZvbWxNRjQwYU1CcTdKbG4xRnBpMmNMck1fUTJBM19wMVdQN0R3U3pVVUZPMjJHSVRPLURubDdhTndxMG9OcWJNQUkzc0dVYUl0Q1FyWFN0cUtud04yU0NRUzNTQk14TGtj?oc=5",
+      "s": "전민일보",
+      "d": "2026-09-06T07:33:52+00:00"
+    },
+    {
+      "t": "갈짓자 증시에 ‘500조 ETF’ 물갈이 전쟁…그래도 ‘베끼기’ 여전",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CUGQ3bEFLZGhMUnZXV2FSZzJpU2daVEZwdzBxRXNXMG8wZk1BdVBLa05OUVpwUFdTYTBSMmdHZlZYV0dReFZBNGFUY1p6SVU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-06T07:27:09+00:00"
+    },
+    {
+      "t": "중앙아시아 국영기업들, 홍콩 증시 상장 추진 확대",
+      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmNBejB3MFh1clIwdk81bG5Fck9mdDB2c3hLbVluUE4xVF91MDBadlRWV3JOUjZNenRudGYtRzVzZS11RjVIal9kdUgtazlEa2ZYd1ltZTBqNkhIWGttTzVsNm5VckJCalBBN2ZjUlZnX1ZBbkJVMnJmOWwzTzI4Nk1YM0pDWjFQZHByTUxmeXZhWE1kdDRpMTg5d2k5WlVyR1BnUzlfdzlCdlFQd0Nrb3VhRzh6bGZxXzdDVDZydU04S19LS3BvNkxwMDRSNlQx?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-06T07:18:00+00:00"
+    },
+    {
+      "t": "인천시, ‘2026 국제반도체기판 및 첨단패키징산업전’ 개최",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByaGtyQ3BzNUpHUUJuNV9yT1ctT1ltXzAzVS01SG1Ccm5sczFfLTE5Rmg4VUhXWGgySnZOcGhrLWJHdUtZNzVtUHZzeUhhNDdzeldRVVhlVlN6aFdweXpqajB4a1FsNmVkVUhvSDY3OA?oc=5",
+      "s": "중부일보",
+      "d": "2026-09-06T07:09:00+00:00"
+    },
+    {
+      "t": "인천서 역대 최대 반도체·첨단패키징산업전…229개 기업 참가",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RenFmbmU5SzlLNkVZVVByUDhkSEwxNGlIT3owb3VvWFBSZ3pqTHFGYmRQdFdMMGs1OXozNXpKTHpGNHhQQWtKeEUyZjJPVVk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-06T07:06:02+00:00"
+    },
+    {
+      "t": "“믿을 건 삼전닉스뿐?”…반도체 날자 韓 대표 브랜드 272조 훌쩍",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ra0Z1N0wxS29sQWlQaW1rX3IwU0JOVC1UaGhsRW1FU0c4NlB3aHhBRjZNbWFQdVl6UGl3Qm9XaFZYZ0N2TWpZUm9HR1dpeUU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-06T06:53:30+00:00"
+    },
+    {
+      "t": "현대연 “반도체 호황에도 내수 뒷걸음…통화정책 과잉대응 경계해야”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TUlhNSENGZGxVVU9FbHdHZXlaOVRfRm5PRm5wZm95dTJJNEZKNjN6WFhSeUVpZ3pmV2lVM3p3SjVjZkN0dW15dEVBYVBKUXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-06T06:31:10+00:00"
+    },
+    {
+      "t": "국내 10대 브랜드 가치 2000억달러…반도체·금융·방산 ‘질주’",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14Z2I5Ql9lWjZSQS1ZQjNVUnpUT0l3LVRJV25Rck5qck9oREl5TDBOWTJoazFpM19qOXBDeW9nc1pBN1dFMWhBRzhQZ28ta3ZpNmtYdUxSRjRzQUNaMlhRVjFLbw?oc=5",
       "s": "에너지경제신문",
-      "d": "2026-09-05T06:00:00+00:00"
+      "d": "2026-09-06T06:30:37+00:00"
     },
     {
-      "t": "연준보다 백악관을 보라…美 증시 흔드는 ‘40조 달러 빚’ [김학균의 시장읽기]",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCQmlPMjNHZ3p5Y3RXdnhGd3pqX2pqUEpfcHplODREMUhoN2hKT0puTGJzTTJMZWpOeHVsT3IwTVJSNXhYNEtxNkpHcEprRjFuaVpLVzAzdnRLUDZtV1hPeS1GNkVnNUtaSnBpQ3NYY9IBc0FVX3lxTFBTaTVKbDZlSm53bUFKVVBXU19YbTQ2RE0tcy1JeXM0THlENHhRX2V3X1RoX1JBc2xLTzkxUDNwRzdhcVFCaGJaYnBUeE13ekNBS1l1bUl0eGFiMFFrQzAyZWxPQjV3SXozQkdybXB0SjZzQk0?oc=5",
-      "s": "sisajournal.com",
-      "d": "2026-09-05T05:00:00+00:00"
-    },
-    {
-      "t": "\"0.5%로 낮춰라\"…트럼프, 연준 금리 인상 움직임에 '무역 중단' 맞불",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR1U3YlJrODNIeC1VYVAzVmhYeWJiU05aRXJST0xLZVZBSHJ4ZDRmeWRlOHcyODNwbEJsYzVjT1BFRUZzYzVET2liTlNWOTBfVzYzOFBLelhSM2lUNEx3?oc=5",
-      "s": "조세일보",
-      "d": "2026-09-05T04:21:38+00:00"
-    },
-    {
-      "t": "트럼프 \"연준 금리 인하 안 하면 적자 보는 나라와 무역 중단\"",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TclVkVldBQndyMkZ4RzJqZ0hwaC1KUW10TnVvZk1VbTdRN09ZemtkQlVpN2J0TVFCQy0tYjVkRlJ2TjZBeHdmVE5KTXowTHBqcVltUm5WRjJ0bkJ0QTYwbkc5ck05M0lsTUVTUnRB?oc=5",
-      "s": "OBS경인TV",
-      "d": "2026-09-05T04:05:53+00:00"
-    },
-    {
-      "t": "\"빌린 돈 아직도 갚는중\"…엎친데 덮친 '금리인상'[코로나 빚 탕감①]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMGp6Q3hkUVdCSWE4MFJSSTJkQWlnYWk4TTd0OWk2bGNrWXF0Sk13RnVpeFJmd2Z6YUpiLXR3RDV2am4wcDFiWDE2Q21LbFdGWFpQS2xPa1kzb1d0MGtadNIBeEFVX3lxTE56VzVaOHNDUktSZm9aa1dKWXNRRUtsLVJGTFZTa3pmYlRaLTQtY21ReExjWF9RdjhQWFJnOFRmMzdhLVJSZTY3blAzYmZudEFHT2FjM0F4U3JzZjFValNrdGVTWTVrQlI2OGZDeE1aRXkzTVhvMXB5OQ?oc=5",
-      "s": "newsis.com",
-      "d": "2026-09-05T04:01:00+00:00"
-    },
-    {
-      "t": "“연준 긴축 안 무섭다”…3경 굴리는 큰손들이 담은 자산은 [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LYTI2bGNEVHlBVUVjWkNjTVBneUExWUo1TWR3NzMwS3NtQVVfcm5LbldFWVAzb3NqTVNoVUhEQURNbkNYV2thSzRZNzlrWmdpN01CSUxLazduQ3AxTVRzUFdMNA?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-05T03:49:26+00:00"
-    },
-    {
-      "t": "’교역 중단’ 경고 트럼프… 美 금리는 어디로?",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16ZHA3R0tJRnN5UVljZ2JEU21YYmRQaEJoZS1peTV2WEx5bThTZTdzQmNDREJRbGloTGpmSlMwV3ZSbTd6N1d1NTkzRkV2SlhGYkdPQkVfWVJFVXM5eU5JRXRBZXMxU28?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-05T03:44:00+00:00"
-    },
-    {
-      "t": "뉴욕 엔달러 환율 156.15~25엔, 미국 금리 인상론 영향",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56WkNxWkVTLWxEUEQ0Z3Q4enE2ZHZJMTBPdTk4RXVuMmdlOE93Ym5sdDlkSEpUeDFySFhUc296TnZhRDlJcDNfRVF3bDNXZG9IREVOZDhiVzRVN0YzYm9wWGVyOUxGQWI4LUhEckROMWg3UEF0RVQ4?oc=5",
-      "s": "thecommoditiesnews.com",
-      "d": "2026-09-05T03:39:39+00:00"
-    },
-    {
-      "t": "일본·미국, AI·반도체 중심 5,500억 달러 투자 협정 진전",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNUxkMWRLV1pFSWoyLXZlaGZoSVpTZEM4X0lOVm91RnB1X0EtMHJXbDYtX2tpcjctcWtzMVZiMTFWYVMyQmt1Y0ZxdkhXVVVBOU4xc2IxQm5qankzQVpuTGNOVzZ2NUpvNmc?oc=5",
-      "s": "kr.investing.com",
-      "d": "2026-09-05T03:32:00+00:00"
-    },
-    {
-      "t": "트럼프, 연준에 '금리 인하' 초강수 압박",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zTk1hZzJZRTVnSzVscHhYY1NuTmFXak9jOERoUlpzOXNrWUNiNGEtaEpxNnlCR1RibFQ1c3hyX2pqSlVQenQxUFEzYkpad1pDZl9MUUQtckxkZkRMLVRzYWhWRWxoUEdKSHhz?oc=5",
-      "s": "시사주간",
-      "d": "2026-09-05T03:22:30+00:00"
+      "t": "[뉴욕환시-주간] BOJ·ECB, 통화긴축 함께 강해지나…美 CPI도 주목",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PUHRhTEdyX0dNQTZ5RGJ2eGhDLWNUbVl0c1ZNMmpkVVVfMDRKY3pjQ2FWVUlXMjhhV1FZRzhocjM1RE0xdjhHODkyUVpPdnNvazE4NGhyWElLYngtZ3hudkdyWG81MVJNa0kyMjJWR1NSZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-06T06:25:33+00:00"
     }
   ],
   "asof": {},
