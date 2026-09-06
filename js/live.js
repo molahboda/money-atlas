@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-06T07:45:32+00:00",
-  "quotesAt": "2026-09-06T07:45:32+00:00",
-  "newsAt": "2026-09-06T07:45:32+00:00",
+  "fetchedAt": "2026-09-06T08:00:32+00:00",
+  "quotesAt": "2026-09-06T08:00:32+00:00",
+  "newsAt": "2026-09-06T08:00:32+00:00",
   "quotes": {
     "kospi": 6687.21,
     "spx": 7718.6,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "23개월 만 최저 환율에 기업 달러예금 역대 최대…엔화예금도 증가세",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEdFdrb0hXM3dCQlRaUTNMQTNWd2NLQ3BaLVhlWTNsLTBRTnFJZjFvTFgwWWcyTC1nY3VjS013cHlLa3FqZk5rU1h2Z21lQmVfTEM0U0xn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-06T07:48:03+00:00"
+    },
+    {
       "t": "[특징주] 주성엔지니어링(036930), 반도체 수주 탄탄…실적 전환 속도 관건",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KbW9RY2Yyb3BlUDc5SFo2WF9YMWZsUHJLRUVpNDN3ZElSejRpN0NpLXdoVFN2MTN1eUNfelhTRTdWZVdHektCRE9tdkNybTNjZldERHV4LXZWMHEyZGJqUmNCVWVjN1pxSmc?oc=5",
       "s": "인천일보",
       "d": "2026-09-06T07:35:00+00:00"
+    },
+    {
+      "t": "수출 호조·원화 강세…1300원대도 보인다",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mMUZMMnd2dzVEVm9NSXdMOTBPcThhVkRuVHJIemg2U3EwSldrQk91SkJydi1wc2hKLVFkc0kxNklPc0Z1ZnRlVGp2b1dSdktWX3dmS2t6Vjc0S2JZNS1wM092NDZtQzdmQUE?oc=5",
+      "s": "인천일보",
+      "d": "2026-09-06T07:34:00+00:00"
     },
     {
       "t": "전북도, 반도체 소부장 특화단지 유치 총력",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-09-06T07:18:00+00:00"
     },
     {
+      "t": "美 고용 ‘깜짝 증가’에 금리 인상론 재부상…트럼프는 “내려라”",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbnFYM0FaYTJZOEl3bHduaGMxR2pENUlYUnR2eVVla0lpdnBXa3JjanFXeV92bzMxV1poMmV4dlRJVGs2MmpaVENKaXBpbktOZ0pjNk45ejhhUWtjV3ctY3I5Wlg0eUVMUXBSVzBOT01rVVFi?oc=5",
+      "s": "대한경제",
+      "d": "2026-09-06T07:17:42+00:00"
+    },
+    {
       "t": "인천시, ‘2026 국제반도체기판 및 첨단패키징산업전’ 개최",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByaGtyQ3BzNUpHUUJuNV9yT1ctT1ltXzAzVS01SG1Ccm5sczFfLTE5Rmg4VUhXWGgySnZOcGhrLWJHdUtZNzVtUHZzeUhhNDdzeldRVVhlVlN6aFdweXpqajB4a1FsNmVkVUhvSDY3OA?oc=5",
       "s": "중부일보",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ra0Z1N0wxS29sQWlQaW1rX3IwU0JOVC1UaGhsRW1FU0c4NlB3aHhBRjZNbWFQdVl6UGl3Qm9XaFZYZ0N2TWpZUm9HR1dpeUU?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-06T06:53:30+00:00"
-    },
-    {
-      "t": "현대연 “반도체 호황에도 내수 뒷걸음…통화정책 과잉대응 경계해야”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TUlhNSENGZGxVVU9FbHdHZXlaOVRfRm5PRm5wZm95dTJJNEZKNjN6WFhSeUVpZ3pmV2lVM3p3SjVjZkN0dW15dEVBYVBKUXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-06T06:31:10+00:00"
-    },
-    {
-      "t": "국내 10대 브랜드 가치 2000억달러…반도체·금융·방산 ‘질주’",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14Z2I5Ql9lWjZSQS1ZQjNVUnpUT0l3LVRJV25Rck5qck9oREl5TDBOWTJoazFpM19qOXBDeW9nc1pBN1dFMWhBRzhQZ28ta3ZpNmtYdUxSRjRzQUNaMlhRVjFLbw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-06T06:30:37+00:00"
-    },
-    {
-      "t": "[뉴욕환시-주간] BOJ·ECB, 통화긴축 함께 강해지나…美 CPI도 주목",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PUHRhTEdyX0dNQTZ5RGJ2eGhDLWNUbVl0c1ZNMmpkVVVfMDRKY3pjQ2FWVUlXMjhhV1FZRzhocjM1RE0xdjhHODkyUVpPdnNvazE4NGhyWElLYngtZ3hudkdyWG81MVJNa0kyMjJWR1NSZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-06T06:25:33+00:00"
     }
   ],
   "asof": {},
