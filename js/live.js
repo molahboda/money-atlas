@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-07T09:00:34+00:00",
-  "quotesAt": "2026-09-07T09:00:34+00:00",
-  "newsAt": "2026-09-07T09:00:34+00:00",
+  "fetchedAt": "2026-09-07T09:15:33+00:00",
+  "quotesAt": "2026-09-07T09:15:33+00:00",
+  "newsAt": "2026-09-07T09:15:33+00:00",
   "quotes": {
     "kospi": 6995.39,
     "spx": 7718.6,
     "nikkei": 66399.84,
-    "vix": 15.04,
-    "krw": 1344.15,
+    "vix": 15.02,
+    "krw": 1344.18,
     "gold": 4476.6,
     "wti": 91.48,
-    "dxy": 98.95
+    "dxy": 98.94
   },
   "daily": {
     "spx": 0.68,
     "kospi": 6.32,
     "nikkei": 2.12,
     "krw": -0.83,
-    "dxy": -0.21,
+    "dxy": -0.22,
     "gold": 1.06,
     "wti": 0,
-    "vix": 3.51
+    "vix": 3.37
   },
   "news": [
     {
-      "t": "23개월 만 최저 환율에 기업 달러예금 역대 최대…엔화예금도 증가세",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEdFdrb0hXM3dCQlRaUTNMQTNWd2NLQ3BaLVhlWTNsLTBRTnFJZjFvTFgwWWcyTC1nY3VjS013cHlLa3FqZk5rU1h2Z21lQmVfTEM0U0xn?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-06T07:48:03+00:00"
-    },
-    {
-      "t": "[특징주] 주성엔지니어링(036930), 반도체 수주 탄탄…실적 전환 속도 관건",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KbW9RY2Yyb3BlUDc5SFo2WF9YMWZsUHJLRUVpNDN3ZElSejRpN0NpLXdoVFN2MTN1eUNfelhTRTdWZVdHektCRE9tdkNybTNjZldERHV4LXZWMHEyZGJqUmNCVWVjN1pxSmc?oc=5",
-      "s": "인천일보",
-      "d": "2026-09-06T07:35:00+00:00"
-    },
-    {
-      "t": "수출 호조·원화 강세…1300원대도 보인다",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mMUZMMnd2dzVEVm9NSXdMOTBPcThhVkRuVHJIemg2U3EwSldrQk91SkJydi1wc2hKLVFkc0kxNklPc0Z1ZnRlVGp2b1dSdktWX3dmS2t6Vjc0S2JZNS1wM092NDZtQzdmQUE?oc=5",
-      "s": "인천일보",
-      "d": "2026-09-06T07:34:00+00:00"
-    },
-    {
-      "t": "전북도, 반도체 소부장 특화단지 유치 총력",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5faHZvbWxNRjQwYU1CcTdKbG4xRnBpMmNMck1fUTJBM19wMVdQN0R3U3pVVUZPMjJHSVRPLURubDdhTndxMG9OcWJNQUkzc0dVYUl0Q1FyWFN0cUtud04yU0NRUzNTQk14TGtj?oc=5",
-      "s": "전민일보",
-      "d": "2026-09-06T07:33:52+00:00"
-    },
-    {
-      "t": "갈짓자 증시에 ‘500조 ETF’ 물갈이 전쟁…그래도 ‘베끼기’ 여전",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CUGQ3bEFLZGhMUnZXV2FSZzJpU2daVEZwdzBxRXNXMG8wZk1BdVBLa05OUVpwUFdTYTBSMmdHZlZYV0dReFZBNGFUY1p6SVU?oc=5",
+      "t": "\"금리 1%p 오르면 ‘영끌 가구’ 연체 확률 0.81%p 상승\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ckpDQ3I3aXdWcVhSaFQ0Y05MSHEwbmlkTHF5S2RvUDkxY25QaU15NlpCZVNLelQyUjRqTjZIak5Ba1VDQk1WSjdfa3NCN2s?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-06T07:27:09+00:00"
+      "d": "2026-09-07T09:10:09+00:00"
     },
     {
-      "t": "중앙아시아 국영기업들, 홍콩 증시 상장 추진 확대",
-      "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmNBejB3MFh1clIwdk81bG5Fck9mdDB2c3hLbVluUE4xVF91MDBadlRWV3JOUjZNenRudGYtRzVzZS11RjVIal9kdUgtazlEa2ZYd1ltZTBqNkhIWGttTzVsNm5VckJCalBBN2ZjUlZnX1ZBbkJVMnJmOWwzTzI4Nk1YM0pDWjFQZHByTUxmeXZhWE1kdDRpMTg5d2k5WlVyR1BnUzlfdzlCdlFQd0Nrb3VhRzh6bGZxXzdDVDZydU04S19LS3BvNkxwMDRSNlQx?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-06T07:18:00+00:00"
-    },
-    {
-      "t": "美 고용 ‘깜짝 증가’에 금리 인상론 재부상…트럼프는 “내려라”",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbnFYM0FaYTJZOEl3bHduaGMxR2pENUlYUnR2eVVla0lpdnBXa3JjanFXeV92bzMxV1poMmV4dlRJVGs2MmpaVENKaXBpbktOZ0pjNk45ejhhUWtjV3ctY3I5Wlg0eUVMUXBSVzBOT01rVVFi?oc=5",
-      "s": "대한경제",
-      "d": "2026-09-06T07:17:42+00:00"
-    },
-    {
-      "t": "인천시, ‘2026 국제반도체기판 및 첨단패키징산업전’ 개최",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByaGtyQ3BzNUpHUUJuNV9yT1ctT1ltXzAzVS01SG1Ccm5sczFfLTE5Rmg4VUhXWGgySnZOcGhrLWJHdUtZNzVtUHZzeUhhNDdzeldRVVhlVlN6aFdweXpqajB4a1FsNmVkVUhvSDY3OA?oc=5",
-      "s": "중부일보",
-      "d": "2026-09-06T07:09:00+00:00"
-    },
-    {
-      "t": "인천서 역대 최대 반도체·첨단패키징산업전…229개 기업 참가",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RenFmbmU5SzlLNkVZVVByUDhkSEwxNGlIT3owb3VvWFBSZ3pqTHFGYmRQdFdMMGs1OXozNXpKTHpGNHhQQWtKeEUyZjJPVVk?oc=5",
+      "t": "23개월 만 최저치 환율에…해외매출 70% ‘농슬라’ 셈법 복잡",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EV2xRWGZXNmVsX3ViVm1kVkFMVWFzMmZKS3lJVTVDVFZmb1JRZmFXWm5QMWM4NEkyX055VVJvUzBZOVZScFp1Qzc1WnU3WFE?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-06T07:06:02+00:00"
+      "d": "2026-09-07T09:08:05+00:00"
     },
     {
-      "t": "“믿을 건 삼전닉스뿐?”…반도체 날자 韓 대표 브랜드 272조 훌쩍",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ra0Z1N0wxS29sQWlQaW1rX3IwU0JOVC1UaGhsRW1FU0c4NlB3aHhBRjZNbWFQdVl6UGl3Qm9XaFZYZ0N2TWpZUm9HR1dpeUU?oc=5",
+      "t": "[외환-마감] 'V'자 그린 환율…2024년 10월 후 최저 경신",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aVVyYUM1R0J5dERlUUduQ2tHcWpBY1dEeGt0cjVQQl93V0V2VHF6VlN4ODdCZXB3QVhjdkhYNVFQc0pJd3NYOFEteDVQRlhlSmNJRWNUdjNCb2MyMURlcTgyOElNVTJzZHRZcnNwemU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-07T09:05:23+00:00"
+    },
+    {
+      "t": "모처럼 힘쓴 코스피, 7000 턱밑",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Yc3dlM1JfdVlZTXRRVUxlX0FOZWZ3YVZ0cXpEY3FrRnh4U1NCTjZnajE3RjdiRTdhTnZEYUkwM3lFQWxsNHA4Zktic29mRkwwZVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-07T09:04:43+00:00"
+    },
+    {
+      "t": "갈팡질팡하던 유동성, 결국 반도체로 … 삼전닉스 급등",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nY09fb05nTDg4dUh3Z0p1emxOUVBhUkVvbXRPUS1iVkdiTTI5M2JpNmhBQklIZ2NJQW5wTF9sbXZLbmpQRDlQSDhBaTRQWmlnWEE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-07T08:57:23+00:00"
+    },
+    {
+      "t": "원화 강세에 美금리 인상 우려도…美국채 2.5조 담은 서학개미 울상",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9md1RtZHBFMWQtbE9HUl82OGRFTUJ2R2tYR1BaQlJLbVV4TEZ5dy0tRy1Ec2hVQ1IwOEVvdHUwNFpEa3g1ckdFT2ZWeldab0YwcFE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-07T08:57:23+00:00"
+    },
+    {
+      "t": "증시 거래대금 급감…증권사 3분기 실적 전망치 '뚝'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TR0dsVF9Rc2o4M2ZuWmVoOG40RFUyX1p6WEszZ25TNFNhN3ZEdXpYcUp3MFF3U0xiVHhFQkR4YTU4UnQ5SkRidXVZd3I4czg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-06T06:53:30+00:00"
+      "d": "2026-09-07T08:57:14+00:00"
+    },
+    {
+      "t": "[도쿄증시-마감] 반도체株 매수세에 닛케이 2%대 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tU1dDMHBtVDJ1THVzWnBRLV9jSVFIQ3ZjZVVHWmwwQkRrTVRQdUVNTVJON1VFQnlLRFJaWHd0WHJIVTRaaXRDZkFxQUk5UjJPR3FGWHFhNFJ1b2RuamRydUs0UGtvQUFUUmw2cDdKaVI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-07T08:56:08+00:00"
+    },
+    {
+      "t": "[속보]'얼마만인가' 오픈AI '아스트라'발 훈풍에 코스피 4%대 날았다",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZXExVklTb2JHREFfcGdjeDMxZ1F3Y0pRb0Z0elZ2eFZVNl9HdG9DZTFZc2E4SmM5YjRmXzJyZ29oUTlrQXM4aGFQSWg1eVdNcHNMbHJmT0xlc3BDeEJzUQ?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-09-07T08:46:51+00:00"
+    },
+    {
+      "t": "코스피, 반도체 훈풍에 4.6% 급등…7,000선 육박",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45cTZTT2lHeDJYcHJqN2Y4cmRhUVlFVTBrWmdNcEdRWWZTcXpVVThOMVc5cTMzSWtxN2pOSjc1VFVBR05OQXdKLUFJbzZhR3RpdVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-07T08:33:05+00:00"
     }
   ],
   "asof": {},
