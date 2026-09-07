@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-07T09:30:33+00:00",
-  "quotesAt": "2026-09-07T09:30:33+00:00",
-  "newsAt": "2026-09-07T09:30:33+00:00",
+  "fetchedAt": "2026-09-07T09:45:37+00:00",
+  "quotesAt": "2026-09-07T09:45:37+00:00",
+  "newsAt": "2026-09-07T09:45:37+00:00",
   "quotes": {
     "kospi": 6995.39,
     "spx": 7718.6,
     "nikkei": 66399.84,
-    "vix": 15.04,
-    "krw": 1343.48,
+    "vix": 15.05,
+    "krw": 1344.09,
     "gold": 4476.6,
     "wti": 91.48,
-    "dxy": 98.95
+    "dxy": 98.9
   },
   "daily": {
     "spx": 0.68,
     "kospi": 6.32,
     "nikkei": 2.12,
-    "krw": -0.88,
-    "dxy": -0.21,
+    "krw": -0.84,
+    "dxy": -0.26,
     "gold": 1.06,
     "wti": 0,
-    "vix": 3.51
+    "vix": 3.58
   },
   "news": [
+    {
+      "t": "삼성전자, TSMC '光 반도체 테스트 플랫폼' 그대로 쓴다",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ydm9MbmljOXByMUg0aXc3XzM4VkFYa0hyUXp3VVQ5V1NKZXlUR1ctNmVHZzhhQks0YW93OFVnX3RHUEZqUmhONWZ4dV9rVDZQTTh1M0pfYmlwVUJTRkRpNW9MWU12dw?oc=5",
+      "s": "디일렉",
+      "d": "2026-09-07T09:40:15+00:00"
+    },
+    {
+      "t": "고영테크놀러지, 세미콘 타이완 2026서 3D 반도체 검사 솔루션 소개",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4N0VmLUdUVktnVzJaOVdfekp5bndoVUFNSXJyZF9ScHQtMzI1T2I3RmppMzJsVnNLOFY1NnFYeXJWT054Z3lqcTFvUGM1VHcydnRSTlExcGlmVVp1ZTFaRzZ6ZlRJZw?oc=5",
+      "s": "디일렉",
+      "d": "2026-09-07T09:33:53+00:00"
+    },
+    {
+      "t": "\"쇳물부터 현지 생산\"...미 제철소로 관세 장벽 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tdTkzRElPUDRMVE1xSmZrT3ZCT0FlaXYtdE5TeEFUcjVQMmFlZmdmLV9DTzJOa3ZIU3hzNlVPc1QyNHNQUmRTU2lwQUcxZjRJYnZiRzN4QjNqWk9BUWc?oc=5",
+      "s": "YTN",
+      "d": "2026-09-07T09:27:00+00:00"
+    },
+    {
+      "t": "환율 1350원대... 서학개미 美 3배 레버리지에 베팅한 이유",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE50Z21mbS1Ga3JRbjU3ZkdrUWpJU0VmbVhuVkdJU01Ca0hrMnFFbEd5UU9md3BINjkyWjZfUnFVMFptV2ZrbnhYZVBOdlMycmtZZldJYnVsMkFVR1NLMXpUN0lIdDJFalEtN3Juak9GWVVMZw?oc=5",
+      "s": "한양경제",
+      "d": "2026-09-07T09:26:36+00:00"
+    },
     {
       "t": "무신사, 상장 시동…유가증권시장에 상장 예심 청구",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xZHFsSlpRMFM5QlVWWmY5Yk5zQ0tTeDZHUUhsR1AtS0N3RmlDLTVodDNqbDM2TWFVdlJ5aHhqZGJyUnc2cHlZLWEyT0kxcEpzbjdoZDFqcUt3MlpxaGZiYS1WVU5QVG5tZFhKcEl0OWM?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kUDFyOHBlQVByRnRUVlNPaGtVX25vM0c4NXVsbTk1RDdURkZ2cmFpOVFwZGp3b1BMMnYzUWlhR2NqZkZYWnZ6WGlmbTZPb0QzbHpsNC1SLW9waDR0OFZvaUJjT2tLQTY5RElObHJ0Nkc?oc=5",
       "s": "연합인포맥스",
       "d": "2026-09-07T09:07:02+00:00"
-    },
-    {
-      "t": "[외환-마감] 'V'자 그린 환율…2024년 10월 후 최저 경신",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aVVyYUM1R0J5dERlUUduQ2tHcWpBY1dEeGt0cjVQQl93V0V2VHF6VlN4ODdCZXB3QVhjdkhYNVFQc0pJd3NYOFEteDVQRlhlSmNJRWNUdjNCb2MyMURlcTgyOElNVTJzZHRZcnNwemU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-07T09:05:23+00:00"
-    },
-    {
-      "t": "모처럼 힘쓴 코스피, 7000 턱밑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Yc3dlM1JfdVlZTXRRVUxlX0FOZWZ3YVZ0cXpEY3FrRnh4U1NCTjZnajE3RjdiRTdhTnZEYUkwM3lFQWxsNHA4Zktic29mRkwwZVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-07T09:04:43+00:00"
-    },
-    {
-      "t": "원화 강세에 美금리 인상 우려도…美국채 2.5조 담은 서학개미 울상",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9md1RtZHBFMWQtbE9HUl82OGRFTUJ2R2tYR1BaQlJLbVV4TEZ5dy0tRy1Ec2hVQ1IwOEVvdHUwNFpEa3g1ckdFT2ZWeldab0YwcFE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-07T08:57:23+00:00"
-    },
-    {
-      "t": "증시 거래대금 급감…증권사 3분기 실적 전망치 '뚝'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TR0dsVF9Rc2o4M2ZuWmVoOG40RFUyX1p6WEszZ25TNFNhN3ZEdXpYcUp3MFF3U0xiVHhFQkR4YTU4UnQ5SkRidXVZd3I4czg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-07T08:57:14+00:00"
     }
   ],
   "asof": {},
