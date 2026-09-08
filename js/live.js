@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-08T11:00:40+00:00",
-  "quotesAt": "2026-09-08T11:00:40+00:00",
-  "newsAt": "2026-09-08T11:00:40+00:00",
+  "fetchedAt": "2026-09-08T11:15:40+00:00",
+  "quotesAt": "2026-09-08T11:15:40+00:00",
+  "newsAt": "2026-09-08T11:15:40+00:00",
   "quotes": {
     "kospi": 6954.52,
     "spx": 7718.6,
     "nikkei": 65269.33,
-    "vix": 15.7,
-    "krw": 1341.88,
-    "gold": 4444.1,
-    "wti": 93.96,
-    "dxy": 98.98
+    "vix": 15.79,
+    "krw": 1342.08,
+    "gold": 4440.6,
+    "wti": 93.9,
+    "dxy": 98.99
   },
   "daily": {
     "spx": 0.68,
     "kospi": 4,
     "nikkei": -1.7,
-    "krw": -0.24,
-    "dxy": -0.2,
-    "gold": -0.73,
-    "wti": 2.71,
-    "vix": 2.61
+    "krw": -0.22,
+    "dxy": -0.17,
+    "gold": -0.8,
+    "wti": 2.65,
+    "vix": 3.2
   },
   "news": [
+    {
+      "t": "코스피 ‘7000’ 턱밑서 주춤… 개미 이탈 지속",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95YlVBVFBJdGJBeHBYS1ZrYTRLYm5tLWp1MWdsaVhuZDhxWkR1RlFQZl8tN0R3ZWxjcGI1NGVBWkhTQWo2bzZpdDB0azdqWkk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-08T11:03:34+00:00"
+    },
+    {
+      "t": "\"달러 대 달러\" 맞대응…캐나다, 美에 최대 50% 관세 때렸다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMFlXeE4yY3ZnMTRMbjhUTE1HYXd5YTVqb1h5aXR5WTJGYkprR2VWYW9yTWpYQTBMYUlnTWRiQVV2R3RJeXBtRm5TSHFwVXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-08T10:46:51+00:00"
+    },
     {
       "t": "앤시스 품은 시높시스, 칩부터 시스템까지 설계 통합",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBka1dSRU1yMDV3dkt4Z3ZVVVI1MHBtdWQ2MlFVbnBWSHVfTlNzRUluTk11NGNnQy1aN1RBZHh3dEhhUUtncWxqQ3NlQmtxOG9DV3RTQjZJd19kbXRyMDAwZlpVSGRKUQ?oc=5",
       "s": "디일렉",
       "d": "2026-09-08T10:41:06+00:00"
+    },
+    {
+      "t": "‘반도체 호황’에 올해 1인당 국민소득 4만달러 넘을 듯…한은 잠정치",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1bi02aFI4ZUliTFp6bEMwcUZjeEw4ZUVCdzNOLVZBUndYZUJjNUpWRldIZGtHaVFHUTRGZ0NVenBvcFFqMk1IX0ZRS2tfWk1oTUlSSnlma1FUVklNR1dpU3FkTFdpU3l6RDNMSFFtRDJmUQ?oc=5",
+      "s": "한겨레신문",
+      "d": "2026-09-08T10:40:00+00:00"
     },
     {
       "t": "[포토] 몸값 비싼 반도체 'Do dream'",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVENrTDkwYWNoMWZDWkd1cVFoVV9ObUZ1UkNmbWcwdjQ5RmxPZkd1WWdYc2daRlE0bGVORXlTT3Zfc2VKaFRmWGswX0lHM0lxSkwyYWNud2FhdzZQSUdYVFlSdFhGTVI3VHktSXAyUUNKcG91VEpFbkNtYVkzejFPOFRjSVNtdlFoN2RSNWRhWQ?oc=5",
       "s": "조선일보",
       "d": "2026-09-08T10:24:40+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 기술주 약세 속 대부분 하락…中만 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oTllGU094V3NqM2t4Yk5FcWc1bzhpWkxPb0NGWTFzYzIyWHRvakpZc0ZGUUhjQS1xNW1rT2dXWW1fbzIycHBIMDh1SG9MamlRZWtJSzhVWHZIbHJuZjByci1objlsdUxmZ0FKYXhqM2I?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-08T10:23:05+00:00"
-    },
-    {
-      "t": "[베트남 증시] 유동성 감소 속 변동성 보이다 상승...고유가 지속에 석유·가스株 ↑",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YQ2NQX1dLVnJnZG03cld1UVhkcEY0UElsMlVzUHM1Vkd4YnU3bEFCM2JXVW9zTzVyaDFEX0ZUZGZxbEtOenRtc0VXOXBiZkFtT1BDSGJCR1BiUWZN?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-08T10:16:00+00:00"
-    },
-    {
-      "t": "‘6%대 금리’ 10년 안 오른다고 유지할까…외면받는 ‘장기 고정금리 주담대’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40YkU2UmNZNTIxTlV2VUdMTnRfc3FqWTBKUEZLb1VvRXl3bkVjRWwwWndTWlgwOWYtazV4VkJ5QjNKeFFSZVFPemRTMXY0NnRaTGVVMVJRZEd0YXh2a3JVQ1pLUVFrUUE?oc=5",
-      "s": "한겨레신문",
-      "d": "2026-09-08T10:15:00+00:00"
     }
   ],
   "asof": {},
