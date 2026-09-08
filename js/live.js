@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-08T11:15:40+00:00",
-  "quotesAt": "2026-09-08T11:15:40+00:00",
-  "newsAt": "2026-09-08T11:15:40+00:00",
+  "fetchedAt": "2026-09-08T11:30:41+00:00",
+  "quotesAt": "2026-09-08T11:30:41+00:00",
+  "newsAt": "2026-09-08T11:30:41+00:00",
   "quotes": {
     "kospi": 6954.52,
     "spx": 7718.6,
     "nikkei": 65269.33,
-    "vix": 15.79,
-    "krw": 1342.08,
-    "gold": 4440.6,
-    "wti": 93.9,
-    "dxy": 98.99
+    "vix": 15.81,
+    "krw": 1341.78,
+    "gold": 4444.4,
+    "wti": 93.83,
+    "dxy": 98.98
   },
   "daily": {
     "spx": 0.68,
     "kospi": 4,
     "nikkei": -1.7,
-    "krw": -0.22,
-    "dxy": -0.17,
-    "gold": -0.8,
-    "wti": 2.65,
-    "vix": 3.2
+    "krw": -0.24,
+    "dxy": -0.2,
+    "gold": -0.72,
+    "wti": 2.57,
+    "vix": 3.33
   },
   "news": [
+    {
+      "t": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mQnRYWVNVLTBvUm5saV8yUzNLRG1rTnFfd2w0MldaVlc1d0NTeWxXRzcyUzNnUHFWN0RCRGpaNGlSQVAxdlBYRVdlTE5xZmMxOWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-08T11:10:52+00:00"
+    },
     {
       "t": "코스피 ‘7000’ 턱밑서 주춤… 개미 이탈 지속",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95YlVBVFBJdGJBeHBYS1ZrYTRLYm5tLWp1MWdsaVhuZDhxWkR1RlFQZl8tN0R3ZWxjcGI1NGVBWkhTQWo2bzZpdDB0azdqWkk?oc=5",
@@ -57,7 +63,7 @@ window.LIVE_DATA = {
     {
       "t": "국제유가, 美·이란 긴장에 다시 100달러 눈앞",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcm5ybFBVYUFSQWdkazR3c3ZDN0RHYklGZnl6RGtCQU50b0hMVHNvQjBLenpUeDg2VVZjQzZoUjRxam1iWV9PTTBUQlp1OVk0UUdha2pXM21tS3V5VjdhMHJUX0VNNDFxSHVRdGFRTjA?oc=5",
-      "s": "news.einfomax.co.kr",
+      "s": "연합인포맥스",
       "d": "2026-09-08T10:35:39+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWHBBUXNfcmhKVW1zSDdBZzkwTEdNa0RLaWxKNEZ5eldud0hieVc2TlNZc1JhXy1uQkd0VWlwUkotSHRabXRjSEFTdkpVOUxxM0ROUFU0S0V6T29pMV9QSlNZZU5jREU?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-08T10:27:00+00:00"
-    },
-    {
-      "t": "억대 성과급 삼성 반도체 ‘월세 지원 70만원’ 부정 수급 의혹에 시끌",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVENrTDkwYWNoMWZDWkd1cVFoVV9ObUZ1UkNmbWcwdjQ5RmxPZkd1WWdYc2daRlE0bGVORXlTT3Zfc2VKaFRmWGswX0lHM0lxSkwyYWNud2FhdzZQSUdYVFlSdFhGTVI3VHktSXAyUUNKcG91VEpFbkNtYVkzejFPOFRjSVNtdlFoN2RSNWRhWQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-09-08T10:24:40+00:00"
     }
   ],
   "asof": {},
