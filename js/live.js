@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-08T11:30:41+00:00",
-  "quotesAt": "2026-09-08T11:30:41+00:00",
-  "newsAt": "2026-09-08T11:30:41+00:00",
+  "fetchedAt": "2026-09-08T11:45:36+00:00",
+  "quotesAt": "2026-09-08T11:45:36+00:00",
+  "newsAt": "2026-09-08T11:45:36+00:00",
   "quotes": {
     "kospi": 6954.52,
     "spx": 7718.6,
     "nikkei": 65269.33,
-    "vix": 15.81,
-    "krw": 1341.78,
-    "gold": 4444.4,
-    "wti": 93.83,
-    "dxy": 98.98
+    "vix": 15.75,
+    "krw": 1342.1,
+    "gold": 4450.1,
+    "wti": 93.94,
+    "dxy": 98.95
   },
   "daily": {
     "spx": 0.68,
     "kospi": 4,
     "nikkei": -1.7,
-    "krw": -0.24,
-    "dxy": -0.2,
-    "gold": -0.72,
-    "wti": 2.57,
-    "vix": 3.33
+    "krw": -0.22,
+    "dxy": -0.22,
+    "gold": -0.59,
+    "wti": 2.69,
+    "vix": 2.94
   },
   "news": [
+    {
+      "t": "구미시, 반도체 인재 매칭…기업·청년 한자리",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBySWZKOEY5NFdvZ0lZU2JpX2xNWFBWU0dvcjBKbjFyYThRM0FRY0Jud09GSmhfOVlhMzhlV1FaSXdjWW4yS2hSazA4LVphd241MVc1X3VnN0I4bEVrdVhHaA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-08T11:29:01+00:00"
+    },
     {
       "t": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mQnRYWVNVLTBvUm5saV8yUzNLRG1rTnFfd2w0MldaVlc1d0NTeWxXRzcyUzNnUHFWN0RCRGpaNGlSQVAxdlBYRVdlTE5xZmMxOWc?oc=5",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95YlVBVFBJdGJBeHBYS1ZrYTRLYm5tLWp1MWdsaVhuZDhxWkR1RlFQZl8tN0R3ZWxjcGI1NGVBWkhTQWo2bzZpdDB0azdqWkk?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-08T11:03:34+00:00"
+    },
+    {
+      "t": "어디서도 말 안해주는 미국 국채금리 폭등의 진짜 이유 I 스튜디오경향",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUUp1WnVBc1ZFbkF4TnduRlJZS2YtVnhSeDBVWTF2S25WNjlLZHhyRndmZmxIcE8wZ0tzakJiLUVCdWl3UXgxeVZ0aG5TQTlOYVRhYkkwdG1ObDJfZFFjbU5B?oc=5",
+      "s": "경향신문",
+      "d": "2026-09-08T11:00:11+00:00"
     },
     {
       "t": "\"달러 대 달러\" 맞대응…캐나다, 美에 최대 50% 관세 때렸다",
@@ -55,15 +67,9 @@ window.LIVE_DATA = {
       "d": "2026-09-08T10:40:00+00:00"
     },
     {
-      "t": "[포토] 몸값 비싼 반도체 'Do dream'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWcU1wemRQYlZlZ1hSOXZEOWtSdTFJYnI2M1ZIdGhOVWpSTWpDX19mZ1lubnZER281dGRMMjlzTEo0ZWpZNm9tSHFtSEhNRnZYOXBFTUQ4MkFXcWM3cEx3YmZQdnBHbDNLVlJ4OHQtVXI?oc=5",
-      "s": "인천일보",
-      "d": "2026-09-08T10:39:00+00:00"
-    },
-    {
       "t": "국제유가, 美·이란 긴장에 다시 100달러 눈앞",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcm5ybFBVYUFSQWdkazR3c3ZDN0RHYklGZnl6RGtCQU50b0hMVHNvQjBLenpUeDg2VVZjQzZoUjRxam1iWV9PTTBUQlp1OVk0UUdha2pXM21tS3V5VjdhMHJUX0VNNDFxSHVRdGFRTjA?oc=5",
-      "s": "연합인포맥스",
+      "s": "news.einfomax.co.kr",
       "d": "2026-09-08T10:35:39+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4WlRYVUJ0b2djejJ6WlFZZlFBN1p0RklkRDFqY25zWlh2ci1BUHl1S2JYOEtkQldJVVNxb0c3N05QMU5XbDMtaEtUTmxmVXZhNjJhZjdhOHg1c1FyZkc5RF9FWFdpTlp1aHprcHY1Yw?oc=5",
       "s": "한겨레신문",
       "d": "2026-09-08T10:31:00+00:00"
-    },
-    {
-      "t": "개인 매물 폭탄에…코스피 7,000선 탈환 무산",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWHBBUXNfcmhKVW1zSDdBZzkwTEdNa0RLaWxKNEZ5eldud0hieVc2TlNZc1JhXy1uQkd0VWlwUkotSHRabXRjSEFTdkpVOUxxM0ROUFU0S0V6T29pMV9QSlNZZU5jREU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-08T10:27:00+00:00"
     }
   ],
   "asof": {},
