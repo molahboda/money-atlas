@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-08T12:15:40+00:00",
-  "quotesAt": "2026-09-08T12:15:40+00:00",
-  "newsAt": "2026-09-08T12:15:40+00:00",
+  "fetchedAt": "2026-09-08T12:30:41+00:00",
+  "quotesAt": "2026-09-08T12:30:41+00:00",
+  "newsAt": "2026-09-08T12:30:41+00:00",
   "quotes": {
     "kospi": 6954.52,
     "spx": 7718.6,
     "nikkei": 65269.33,
-    "vix": 15.67,
-    "krw": 1342.18,
-    "gold": 4446.8,
-    "wti": 93.77,
+    "vix": 15.72,
+    "krw": 1341.24,
+    "gold": 4436.6,
+    "wti": 93.98,
     "dxy": 98.96
   },
   "daily": {
     "spx": 0.68,
     "kospi": 4,
     "nikkei": -1.7,
-    "krw": -0.21,
+    "krw": -0.28,
     "dxy": -0.22,
-    "gold": -0.67,
-    "wti": 2.5,
-    "vix": 2.42
+    "gold": -0.89,
+    "wti": 2.73,
+    "vix": 2.75
   },
   "news": [
+    {
+      "t": "캐나다, 미국에 최대 50% ’보복 관세’ 발효",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNkJvNWFvQURZT0pJLUxiMzlJcDkzZmZvY09XMThjN0lzS2VfU2FiWGpGRThsdkp5WkphUUlYV2hGZEZqd3ZfTkM4bENsV2NzbGZRNF9HUmE0ajlaa0hyS1hERkVYb1U?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-08T12:21:00+00:00"
+    },
+    {
+      "t": "동결 기대 깨져도 반도체는 달린다 [9/8 G브닝]｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PR1JnR1BPOGVLMWpvemtGcXQtaU9IaHd2clUya3dEcGFjbHZWem50dk1iNlRQOWdKVkh6YVFFREVEemtBR0g0YVlZbnVDSXdDeEhwbXFIMzFPTHM?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-08T12:14:49+00:00"
+    },
     {
       "t": "교도통신 “일본은행, 9월 금리 1.25%로 인상 방침”",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PV0lQZDRuWW4zQ3ZUYWh1dGVscjBROERaMkdEa0hVTXZkeEZkTEduOVd2STFKcmRNczFLNjI5TnVEQzFJVXRWUW9GWjQ5SXVSV0HSAVNBVV95cUxQMjVWaklqZzV1R25uREp0TDNINlRDWEQzdEdXbnZwUUI1UFV0c0t0dFlGc3dNMXk0ZFdDd2ZtYjlQRFYwZG44eVNXTWJsVHhFOUVMMA?oc=5",
@@ -57,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "‘반도체 호황’에 올해 1인당 국민소득 4만달러 넘을 듯…한은 잠정치",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1bi02aFI4ZUliTFp6bEMwcUZjeEw4ZUVCdzNOLVZBUndYZUJjNUpWRldIZGtHaVFHUTRGZ0NVenBvcFFqMk1IX0ZRS2tfWk1oTUlSSnlma1FUVklNR1dpU3FkTFdpU3l6RDNMSFFtRDJmUQ?oc=5",
-      "s": "한겨레",
+      "s": "한겨레신문",
       "d": "2026-09-08T10:40:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZHkxVlBpOHpTZnpBQkoxNTdYbjFScDlLeUNSc3pYd3JZUkh5QjlqOTFrRWlMVV91bldBYjRBRHlQdW1jdEdsTmh6dmdlelYtV1FIeFlheEZGT2Z3SUktS3FTRXlEUQ?oc=5",
       "s": "디일렉",
       "d": "2026-09-08T10:35:10+00:00"
-    },
-    {
-      "t": "보복 관세 시작…캐나다 미국산 200억달러 규모 상품에 15~50%",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4WlRYVUJ0b2djejJ6WlFZZlFBN1p0RklkRDFqY25zWlh2ci1BUHl1S2JYOEtkQldJVVNxb0c3N05QMU5XbDMtaEtUTmxmVXZhNjJhZjdhOHg1c1FyZkc5RF9FWFdpTlp1aHprcHY1Yw?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-08T10:31:00+00:00"
-    },
-    {
-      "t": "개인 매물 폭탄에…코스피 7,000선 탈환 무산",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWHBBUXNfcmhKVW1zSDdBZzkwTEdNa0RLaWxKNEZ5eldud0hieVc2TlNZc1JhXy1uQkd0VWlwUkotSHRabXRjSEFTdkpVOUxxM0ROUFU0S0V6T29pMV9QSlNZZU5jREU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-08T10:27:00+00:00"
     }
   ],
   "asof": {},
