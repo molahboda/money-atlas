@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-08T12:45:36+00:00",
-  "quotesAt": "2026-09-08T12:45:36+00:00",
-  "newsAt": "2026-09-08T12:45:36+00:00",
+  "fetchedAt": "2026-09-08T13:00:51+00:00",
+  "quotesAt": "2026-09-08T13:00:51+00:00",
+  "newsAt": "2026-09-08T13:00:51+00:00",
   "quotes": {
     "kospi": 6954.52,
     "spx": 7718.6,
     "nikkei": 65269.33,
-    "vix": 15.62,
-    "krw": 1341.48,
-    "gold": 4446.1,
-    "wti": 93.48,
-    "dxy": 98.91
+    "vix": 15.51,
+    "krw": 1340.93,
+    "gold": 4446.6,
+    "wti": 92.98,
+    "dxy": 98.88
   },
   "daily": {
     "spx": 0.68,
     "kospi": 4,
     "nikkei": -1.7,
-    "krw": -0.27,
-    "dxy": -0.27,
-    "gold": -0.68,
-    "wti": 2.19,
-    "vix": 2.09
+    "krw": -0.31,
+    "dxy": -0.3,
+    "gold": -0.67,
+    "wti": 1.64,
+    "vix": 1.37
   },
   "news": [
     {
@@ -31,16 +31,16 @@ window.LIVE_DATA = {
       "d": "2026-09-08T12:38:38+00:00"
     },
     {
-      "t": "캐나다, 미국에 최대 50% '보복 관세' 발효",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZmR4VmdjR0JBa2lvemdOZnBQZUhyMm1SczlZTnphMW1DeVFISjdlRUppMnNzU1N1UTV5am91Wmc1VWpSaFFUUE83NjlCZ0lxeVhJTDBDcnNfS1BnSmI2eDNEejZBTXM0c0x6WnNBVXRzSmll?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-09-08T12:21:20+00:00"
-    },
-    {
       "t": "캐나다, 미국에 최대 50% ’보복 관세’ 발효",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNkJvNWFvQURZT0pJLUxiMzlJcDkzZmZvY09XMThjN0lzS2VfU2FiWGpGRThsdkp5WkphUUlYV2hGZEZqd3ZfTkM4bENsV2NzbGZRNF9HUmE0ajlaa0hyS1hERkVYb1U?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-08T12:21:00+00:00"
+    },
+    {
+      "t": "英 국채 30년물 발행 금리 5.8168%…28년만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tR1FlcnlDT3FJbE5UdjJ2RmdkV0F1R05uVzNZbVNsbl93RkZyLVowMUZ4cV9yS0tYNGNhYWg4cnA3Z3VZWGx3dG1mUEtZazludnlMRXJhVHpwVXQtel9zaG9OdUVON1ZVaXJNeS1tcVIwQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-08T12:19:38+00:00"
     },
     {
       "t": "동결 기대 깨져도 반도체는 달린다 [9/8 G브닝]｜Global Money Club",
@@ -56,9 +56,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "외인 찔끔 사고, 개미 확 팔고…‘7100’ 찍고 미끄럼 탄 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdi1XSkRmMmZ6QzlVNmZWWlhXWDZUUTZyZDF1OTZDenJvbHI0bVNuN1lESHI1UFpFMFpvU2oxS002SU9SRUNLSXFJLWZUQTA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-08T11:46:07+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Xank1cVNkeDZkRHlNTkJNLWlyZU5ocGJUbGJFVm9ySVJZMmZILVgtU01DVTBlRGs3Z3FHTGdpSGRIdVhNZlE5SmFWWllRTHlGdWhGUW1FNm9YSlhKaFhj0gFfQVVfeXFMTldqeTVxU2R4NmREeU1OQk0taXJlTmhwYlRsYkVWb3JJUlkyZkgtWC1TTUNVMGVEazdncUdMZ2lIZEh1WE1mUTlKYVZaWVFMeUZ1aEZRbUU2b1hKWEpoWGM?oc=5",
+      "s": "경향신문",
+      "d": "2026-09-08T11:37:00+00:00"
     },
     {
       "t": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
