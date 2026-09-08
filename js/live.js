@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-08T12:30:41+00:00",
-  "quotesAt": "2026-09-08T12:30:41+00:00",
-  "newsAt": "2026-09-08T12:30:41+00:00",
+  "fetchedAt": "2026-09-08T12:45:36+00:00",
+  "quotesAt": "2026-09-08T12:45:36+00:00",
+  "newsAt": "2026-09-08T12:45:36+00:00",
   "quotes": {
     "kospi": 6954.52,
     "spx": 7718.6,
     "nikkei": 65269.33,
-    "vix": 15.72,
-    "krw": 1341.24,
-    "gold": 4436.6,
-    "wti": 93.98,
-    "dxy": 98.96
+    "vix": 15.62,
+    "krw": 1341.48,
+    "gold": 4446.1,
+    "wti": 93.48,
+    "dxy": 98.91
   },
   "daily": {
     "spx": 0.68,
     "kospi": 4,
     "nikkei": -1.7,
-    "krw": -0.28,
-    "dxy": -0.22,
-    "gold": -0.89,
-    "wti": 2.73,
-    "vix": 2.75
+    "krw": -0.27,
+    "dxy": -0.27,
+    "gold": -0.68,
+    "wti": 2.19,
+    "vix": 2.09
   },
   "news": [
+    {
+      "t": "춘천시, 반도체 설계 '팹리스' 거점 속도",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wYnZjUklWWThpLU04SDFrems5NnkxQm4xaGNJMFdERkd4WFhaeEQ1U013bS0tUU5nS0liaV93blpfRjRoUzlpRlV0OV8zSkxPQW1FNXRHTFotdUtjZHAzaVNqMEM?oc=5",
+      "s": "G1방송",
+      "d": "2026-09-08T12:38:38+00:00"
+    },
+    {
+      "t": "캐나다, 미국에 최대 50% '보복 관세' 발효",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZmR4VmdjR0JBa2lvemdOZnBQZUhyMm1SczlZTnphMW1DeVFISjdlRUppMnNzU1N1UTV5am91Wmc1VWpSaFFUUE83NjlCZ0lxeVhJTDBDcnNfS1BnSmI2eDNEejZBTXM0c0x6WnNBVXRzSmll?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-09-08T12:21:20+00:00"
+    },
     {
       "t": "캐나다, 미국에 최대 50% ’보복 관세’ 발효",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNkJvNWFvQURZT0pJLUxiMzlJcDkzZmZvY09XMThjN0lzS2VfU2FiWGpGRThsdkp5WkphUUlYV2hGZEZqd3ZfTkM4bENsV2NzbGZRNF9HUmE0ajlaa0hyS1hERkVYb1U?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-08T11:03:34+00:00"
     },
     {
+      "t": "반도체값 뛰자 국민소득 4만달러?…한국 경제 규모 ‘껑충’",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DS2NGd3F6SE90QTRrcFgzbDRqaU1xQzMtV1JmLVV0U1hMS1ZIR1JtdlQwZkR1WWc2MWtSU1BOWEs3cWhLLXEzOWN4ZTBLT2QzeVBUNg?oc=5",
+      "s": "JTBC",
+      "d": "2026-09-08T10:47:00+00:00"
+    },
+    {
       "t": "\"달러 대 달러\" 맞대응…캐나다, 美에 최대 50% 관세 때렸다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMFlXeE4yY3ZnMTRMbjhUTE1HYXd5YTVqb1h5aXR5WTJGYkprR2VWYW9yTWpYQTBMYUlnTWRiQVV2R3RJeXBtRm5TSHFwVXc?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-08T10:46:51+00:00"
-    },
-    {
-      "t": "‘반도체 호황’에 올해 1인당 국민소득 4만달러 넘을 듯…한은 잠정치",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1bi02aFI4ZUliTFp6bEMwcUZjeEw4ZUVCdzNOLVZBUndYZUJjNUpWRldIZGtHaVFHUTRGZ0NVenBvcFFqMk1IX0ZRS2tfWk1oTUlSSnlma1FUVklNR1dpU3FkTFdpU3l6RDNMSFFtRDJmUQ?oc=5",
-      "s": "한겨레신문",
-      "d": "2026-09-08T10:40:00+00:00"
-    },
-    {
-      "t": "국제유가, 美·이란 긴장에 다시 100달러 눈앞",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcm5ybFBVYUFSQWdkazR3c3ZDN0RHYklGZnl6RGtCQU50b0hMVHNvQjBLenpUeDg2VVZjQzZoUjRxam1iWV9PTTBUQlp1OVk0UUdha2pXM21tS3V5VjdhMHJUX0VNNDFxSHVRdGFRTjA?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-08T10:35:39+00:00"
-    },
-    {
-      "t": "세미파이브, 4나노 반도체 첫 양산",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZHkxVlBpOHpTZnpBQkoxNTdYbjFScDlLeUNSc3pYd3JZUkh5QjlqOTFrRWlMVV91bldBYjRBRHlQdW1jdEdsTmh6dmdlelYtV1FIeFlheEZGT2Z3SUktS3FTRXlEUQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-09-08T10:35:10+00:00"
     }
   ],
   "asof": {},
