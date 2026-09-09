@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-09T15:00:14+00:00",
-  "quotesAt": "2026-09-09T15:00:14+00:00",
-  "newsAt": "2026-09-09T15:00:14+00:00",
+  "fetchedAt": "2026-09-09T15:15:18+00:00",
+  "quotesAt": "2026-09-09T15:15:18+00:00",
+  "newsAt": "2026-09-09T15:15:18+00:00",
   "quotes": {
     "kospi": 7051.64,
-    "spx": 7652.97,
+    "spx": 7629.76,
     "nikkei": 65142.78,
-    "vix": 16.03,
-    "krw": 1337.59,
-    "gold": 4465.3,
-    "wti": 96.22,
-    "dxy": 98.67
+    "vix": 16.06,
+    "krw": 1340.31,
+    "gold": 4440.9,
+    "wti": 96.37,
+    "dxy": 98.77
   },
   "daily": {
-    "spx": -0.85,
+    "spx": -1.15,
     "kospi": 0.8,
     "nikkei": -0.19,
-    "krw": -0.45,
-    "dxy": -0.17,
-    "gold": 1.62,
-    "wti": 3.43,
-    "vix": 1.97
+    "krw": -0.24,
+    "dxy": -0.07,
+    "gold": 1.07,
+    "wti": 3.59,
+    "vix": 2.16
   },
   "news": [
+    {
+      "t": "[박석현의 마켓 나우] 3대 중앙은행의 금리인상, 증시에 악재일까",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XV0p2Y2Z2ZjZ0UHliNEFVaFR2T2dTcF9DMWNETjUySlpBeGpDYnJCZkdiSFlhRGFfYjNMcjhwcGJEbjlaWUo5aEJfYy01WkJJNllnR1FB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-09T15:08:00+00:00"
+    },
+    {
+      "t": "美 자산운용사 디렉시온, 韓증시 2배 ETF 출시 검토",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1WUtHdURRNGIzQzMtRmUtSk5mYTFOT0NxNHczX0dTM25ZZENrMGsyMHpkMHFEeDlsOUhYeHN1M0hlV1JZTmJacndEUHF6UW9H?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-09-09T14:54:39+00:00"
+    },
     {
       "t": "[사설] 반도체發 호황에도 청년고용 한파, 정부·기업이 함께 풀길",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByS0luQVN4c0hBVFlPdUFPSm1KcHpzQjl4UU13VEVzY2FOT19nRlFoVjJHVlpudmpSTGNfUXpsakZOU3V4Q1RabkFHeThtS1U?oc=5",
@@ -31,7 +43,7 @@ window.LIVE_DATA = {
       "d": "2026-09-09T14:44:10+00:00"
     },
     {
-      "t": "베선트, 금리는 \"나에게 베팅\"...엔화 강세에 발목잡힌 반도체[박신영의 개장전 요것만]",
+      "t": "베선트, 금리는 \"나에게 베팅\"…엔화 강세에 발목 잡힌 반도체 [박신영의 개장전 요것만]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aRDdHMlVmSGd2NWo3SDdpWlBMVTgtU2tFMVEzWUpNZWNtQmk5V3Mtc2drZVM3Q1NhRlBObUQ1Uy1FSklaS3dQT2VmeW91aGNnM0ZNMUNUOUhoUQ?oc=5",
       "s": "한국경제",
       "d": "2026-09-09T14:44:09+00:00"
@@ -64,25 +76,13 @@ window.LIVE_DATA = {
       "t": "유가 150달러 ‘최악’ 경고음도…뉴욕증시 ‘화들짝’",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JdlVpNHplTUxOdFZKaV9SNEx0YzFWZmp2Z25VczlmTzVyYU1EcWlVcWQzUWFHcUd5Q0hOdkxuWXh5R1FvdVZtdmxMUHFRV0U?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-09T14:14:00+00:00"
+      "d": "2026-09-09T14:14:39+00:00"
     },
     {
       "t": "폴란드 중앙은행, 인플레이션 위험으로 금리 동결",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fbVc2cWVxZ2RJdGtQUjdvc0tCQWpUempVS2ZEeTc5MEFVSE9OVmFTWmltWmdrN0oyTS1Fa1c1TDZaV2ZOS3gtQ09kUTJ2Qm1pOVczUWtvcmFLdnpLS1FmUDFzb05haFN1aEpzN0todkc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-09-09T14:09:00+00:00"
-    },
-    {
-      "t": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CV2MtOXlseGpqenVpcTBXdHBjSHpjVmhOTURqODJHTFZCZlZwMFVQSXpuTnhNejhRWDNxUDFwaG1qZUJNTzlOVlFoUnFhdmt5X0h2cEl6X1lpLWFLX2ZWSHI3R3dld2hmQ2Rn0gFuQVVfeXFMUDZTYVBSRVh5Tk1LemlpYTNFU1VOak1KOVpCbHdRV0dGQjNkZC02Yk5HZjVkbUVrcFYtTVJPOE5XMm1VV1RmU1R3OFdIZkh0UGNkLW1ncnlVcTRkSlEzRWY2aGJ1RkZNdTZMX3g4U2c?oc=5",
-      "s": "주간조선",
-      "d": "2026-09-09T14:06:15+00:00"
-    },
-    {
-      "t": "유가 100달러 돌파하자…뉴욕증시 하락 출발 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmM4TGZsOVcwTVdUMDFZN3VZMlhPcy1QYUxTNGxLR3VDS1JkMmxKc1RzT0dMQWktQmRHSXVYdURDdld6UmwzaER2UlZBNlp2cWdxQ0YyLXlLSkZXb04wRkNZMTBHMVlzQ0lUTjNvUmo3VGlnc3ZvRTdzUlZMclpnV3hDT3ljS3Y50gGcAUFVX3lxTE11eUpTcmpCWkFNUWt2M1FuSkEzbTBvQ1BxdmtRNExoZjQtYV9wbGU0MS1pdnMyZlBjOUlJWlpXRV8yQmtYS2xpbE1OQnVWMTBzeUxyS1VybTIzM2hPaU9wV280TlkwZ1QySjZWQzgxSThJYko3YUQtdndzSzhiN2FqMm9jM3R3Q3RScEo3dHZUZHFTZmVEbzJKOGRadQ?oc=5",
-      "s": "biz.chosun.com",
-      "d": "2026-09-09T14:04:00+00:00"
     }
   ],
   "asof": {},
