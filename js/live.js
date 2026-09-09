@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-09T14:15:18+00:00",
-  "quotesAt": "2026-09-09T14:15:18+00:00",
-  "newsAt": "2026-09-09T14:15:18+00:00",
+  "fetchedAt": "2026-09-09T14:30:15+00:00",
+  "quotesAt": "2026-09-09T14:30:15+00:00",
+  "newsAt": "2026-09-09T14:30:15+00:00",
   "quotes": {
     "kospi": 7051.64,
-    "spx": 7651.91,
+    "spx": 7653.61,
     "nikkei": 65142.78,
-    "vix": 16.06,
-    "krw": 1336.48,
-    "gold": 4470.3,
-    "wti": 95.71,
-    "dxy": 98.62
+    "vix": 15.97,
+    "krw": 1336.94,
+    "gold": 4460.3,
+    "wti": 96.04,
+    "dxy": 98.63
   },
   "daily": {
-    "spx": -0.86,
+    "spx": -0.84,
     "kospi": 0.8,
     "nikkei": -0.19,
-    "krw": -0.53,
-    "dxy": -0.22,
-    "gold": 1.74,
-    "wti": 2.88,
-    "vix": 2.16
+    "krw": -0.49,
+    "dxy": -0.21,
+    "gold": 1.51,
+    "wti": 3.24,
+    "vix": 1.59
   },
   "news": [
     {
@@ -33,7 +33,7 @@ window.LIVE_DATA = {
     {
       "t": "유가 100달러 돌파하자…뉴욕증시 하락 출발 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmM4TGZsOVcwTVdUMDFZN3VZMlhPcy1QYUxTNGxLR3VDS1JkMmxKc1RzT0dMQWktQmRHSXVYdURDdld6UmwzaER2UlZBNlp2cWdxQ0YyLXlLSkZXb04wRkNZMTBHMVlzQ0lUTjNvUmo3VGlnc3ZvRTdzUlZMclpnV3hDT3ljS3Y50gGcAUFVX3lxTE11eUpTcmpCWkFNUWt2M1FuSkEzbTBvQ1BxdmtRNExoZjQtYV9wbGU0MS1pdnMyZlBjOUlJWlpXRV8yQmtYS2xpbE1OQnVWMTBzeUxyS1VybTIzM2hPaU9wV280TlkwZ1QySjZWQzgxSThJYko3YUQtdndzSzhiN2FqMm9jM3R3Q3RScEo3dHZUZHFTZmVEbzJKOGRadQ?oc=5",
-      "s": "biz.chosun.com",
+      "s": "Chosunbiz",
       "d": "2026-09-09T14:04:00+00:00"
     },
     {
@@ -57,13 +57,13 @@ window.LIVE_DATA = {
     {
       "t": "유가 100달러 돌파에 美 10년물 금리 2023년 이후 최고",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1VGpNek41bnc4RnRremY1Sk1RS3RIcVhaZzlUdVBWTlFNOWphOHA4SlVlYWtNZGpzQXRHcVc5Z21rb0VESnFQRlB1ZHRWWlVRZVk1ZG1xUHhpdHdP?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-09-09T13:32:00+00:00"
     },
     {
       "t": "[AI MY 뉴스] 유가 100달러·금리 부담에 반도체주 약세…인텔 2%대↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81WDdjZVVxdTMxenplTW9Pc05wam5DcV9udjNLTk5ldWxYR3UzODRGMnZNQ091dlZPak1MNXVWUnF3bHI2bm5GNURQcmR5V2FQUzMxSTNyNVVUbGVC?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-09-09T13:30:00+00:00"
     },
     {
