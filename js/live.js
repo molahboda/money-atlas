@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-09T15:45:18+00:00",
-  "quotesAt": "2026-09-09T15:45:18+00:00",
-  "newsAt": "2026-09-09T15:45:18+00:00",
+  "fetchedAt": "2026-09-09T16:00:29+00:00",
+  "quotesAt": "2026-09-09T16:00:29+00:00",
+  "newsAt": "2026-09-09T16:00:29+00:00",
   "quotes": {
     "kospi": 7051.64,
-    "spx": 7636.88,
+    "spx": 7635.9,
     "nikkei": 65142.78,
-    "vix": 16.54,
-    "krw": 1339.4,
-    "gold": 4446,
-    "wti": 96.5,
-    "dxy": 98.81
+    "vix": 16.32,
+    "krw": 1339.83,
+    "gold": 4448.7,
+    "wti": 96.33,
+    "dxy": 98.8
   },
   "daily": {
-    "spx": -1.06,
+    "spx": -1.07,
     "kospi": 0.8,
     "nikkei": -0.19,
-    "krw": -0.31,
-    "dxy": -0.03,
-    "gold": 1.19,
-    "wti": 3.73,
-    "vix": 5.22
+    "krw": -0.28,
+    "dxy": -0.04,
+    "gold": 1.25,
+    "wti": 3.55,
+    "vix": 3.82
   },
   "news": [
+    {
+      "t": "유가 100달러",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaEZuWHY1MjUxX1BkUXJXME5NaWlzMTJfUFB6N1c3Mld1YzZkQlRDdTFHMUlOakJ0amZLbDQzVmo0UHhITDJRZFlEamlObkE2WG9EZ2Vxak5DNzRLVy1UdEl6alJSMjdhR3cwcHZjeERhMUdfanFhSVVVOFg3THJPTjJQNTNsUHE0TFE2RkZGZzVYMXRJYzgwelNyNGp4dw?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-09T15:45:00+00:00"
+    },
     {
       "t": "엔화 환율 급락 따른 ‘엔 캐리’ 청산 가능성 낮아",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWS2xVbjNLTDd4eThac1VJNGtkVFBNdzRjOWlPUEQ3aktkUDNqbGJRS2Y0YjN0WTlKaVMtR19kU0loZmh5RlAzbXBHSjE2ZlU?oc=5",
@@ -37,16 +43,16 @@ window.LIVE_DATA = {
       "d": "2026-09-09T15:36:38+00:00"
     },
     {
-      "t": "국내 기업 매출 27% 증가… 반도체 수출 호황 힘입어 통계집계 11년만에 최고치",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPNV9ZUDVydVN6TTVLZzRHZlJBZVkwUVZFZmdpYVJZaEFtdDJFZEhKQkVmSTV2Q3hiZVd0MXRteEVQTkx4bkFwRW9mOFFSaU0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-09T15:33:00+00:00"
-    },
-    {
       "t": "美경제학자 70%,\"9월 금리 동결\"…시장 예상과 반대",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83XzdZcnFydEJzMkRZUU5USXdDTXYwWWpXb05yTTRSVVZiaXJmSXNjdXVoREJ5WUpZZXdSWmZCV214T2ViSFJYWi1KRzc5c1FkTFY1dGIzWDdlZw?oc=5",
       "s": "한국경제",
       "d": "2026-09-09T15:32:40+00:00"
+    },
+    {
+      "t": "두 달 새 200원 넘게 내린 환율… 기업들 실적·자금 관리 큰 부담 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYnZ3THA4STVvY3dId003SllOeWMyQlhobE96Z2hrTDlNZFlSaFdLQkYzbFUtbzIwaG5ZWUJNSEpZajdReTM4S1J0bUJMa0VzVWt3VFdBekp1aDR0dVdlSlZScGJ6S21yTkp6OGE0S0FkZENsSlVJSnA2dUViWEdNdkJESmpYd19Q0gGcAUFVX3lxTE9nVU85eWpwTHBzV2YtVHB6cUozS1RhdUxQQ2dwRmIxSnNlM0xDakJoX2Z3TXp6TGhvc2p6QW5UZUZpbkdqTWxSYTdmd2REY2FLZzF5SEdZVjdXODhZNGNaSlBPTXZQNFd1Y1UzRWkzekJIdFRiYnYtLUJZY0RocWk4M3VyR0pRSnNPc3QtcHI0Z3YtV3dFNXR1Qnc0Zg?oc=5",
+      "s": "biz.chosun.com",
+      "d": "2026-09-09T15:32:00+00:00"
     },
     {
       "t": "“반도체 슈퍼사이클 아직 안끝나… AI 관련주 등 함께 가져가볼만”",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KeTJ6VzBIbGlYbHhxYnlRRHdPdWVSdWtxeFNkWURnaUs2aDhXb0JPZ1VQNzdWSHZhTkhIdXU3dkM4bmx6d3FNSXNRU3Rhelk?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-09T15:05:11+00:00"
-    },
-    {
-      "t": "美 자산운용사 디렉시온, 韓증시 2배 ETF 출시 검토",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1WUtHdURRNGIzQzMtRmUtSk5mYTFOT0NxNHczX0dTM25ZZENrMGsyMHpkMHFEeDlsOUhYeHN1M0hlV1JZTmJacndEUHF6UW9H?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-09-09T14:54:39+00:00"
     }
   ],
   "asof": {},
