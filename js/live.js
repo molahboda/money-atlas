@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-09T14:45:14+00:00",
-  "quotesAt": "2026-09-09T14:45:14+00:00",
-  "newsAt": "2026-09-09T14:45:14+00:00",
+  "fetchedAt": "2026-09-09T15:00:14+00:00",
+  "quotesAt": "2026-09-09T15:00:14+00:00",
+  "newsAt": "2026-09-09T15:00:14+00:00",
   "quotes": {
     "kospi": 7051.64,
-    "spx": 7650.77,
+    "spx": 7652.97,
     "nikkei": 65142.78,
-    "vix": 16.01,
-    "krw": 1337.38,
-    "gold": 4468.6,
-    "wti": 96,
+    "vix": 16.03,
+    "krw": 1337.59,
+    "gold": 4465.3,
+    "wti": 96.22,
     "dxy": 98.67
   },
   "daily": {
-    "spx": -0.88,
+    "spx": -0.85,
     "kospi": 0.8,
     "nikkei": -0.19,
-    "krw": -0.46,
+    "krw": -0.45,
     "dxy": -0.17,
-    "gold": 1.7,
-    "wti": 3.19,
-    "vix": 1.84
+    "gold": 1.62,
+    "wti": 3.43,
+    "vix": 1.97
   },
   "news": [
+    {
+      "t": "[사설] 반도체發 호황에도 청년고용 한파, 정부·기업이 함께 풀길",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByS0luQVN4c0hBVFlPdUFPSm1KcHpzQjl4UU13VEVzY2FOT19nRlFoVjJHVlpudmpSTGNfUXpsakZOU3V4Q1RabkFHeThtS1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-09T14:44:10+00:00"
+    },
+    {
+      "t": "베선트, 금리는 \"나에게 베팅\"...엔화 강세에 발목잡힌 반도체[박신영의 개장전 요것만]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aRDdHMlVmSGd2NWo3SDdpWlBMVTgtU2tFMVEzWUpNZWNtQmk5V3Mtc2drZVM3Q1NhRlBObUQ1Uy1FSklaS3dQT2VmeW91aGNnM0ZNMUNUOUhoUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-09T14:44:09+00:00"
+    },
     {
       "t": "‘7천피’ 겨우 탈환했는데 “1만2000 간다”?…복병은?",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmbDJzcUxFNUVpcTkwRkVIX1pIcm5IT1VwbU4tdHRVU0ZQWWZKMzZhem9XNUppMW5NdzRGNUhoZDVPbkxTbjBOeU1HaWhLTFE?oc=5",
@@ -37,10 +49,28 @@ window.LIVE_DATA = {
       "d": "2026-09-09T14:31:51+00:00"
     },
     {
+      "t": "100달러 넘어선 유가에 금리인상 우려…美증시 하락",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTd1BYQTlra0RhSnBPYVUxaEdqLUdQWTBaanZxeWpzRjN0ODJmdnlxSDNRMlBkd3VTZkJvb0Q5SE5PVTk1Qy1sMG1RTjc4UDdiRWNnVlFQSTdIUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-09T14:31:49+00:00"
+    },
+    {
+      "t": "미·이란 충돌에 브렌트유 100달러 돌파…뉴욕증시 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mZ2I2aVpPaVNxYV8wczctNGJKV293dnZDejNEQl9ld2ljRFhpMkV6SDRrWndrbV91akozUlNxRWh1bkk5U2NELWRfWVVMZUE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-09T14:16:41+00:00"
+    },
+    {
       "t": "유가 150달러 ‘최악’ 경고음도…뉴욕증시 ‘화들짝’",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JdlVpNHplTUxOdFZKaV9SNEx0YzFWZmp2Z25VczlmTzVyYU1EcWlVcWQzUWFHcUd5Q0hOdkxuWXh5R1FvdVZtdmxMUHFRV0U?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-09T14:14:00+00:00"
+    },
+    {
+      "t": "폴란드 중앙은행, 인플레이션 위험으로 금리 동결",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fbVc2cWVxZ2RJdGtQUjdvc0tCQWpUempVS2ZEeTc5MEFVSE9OVmFTWmltWmdrN0oyTS1Fa1c1TDZaV2ZOS3gtQ09kUTJ2Qm1pOVczUWtvcmFLdnpLS1FmUDFzb05haFN1aEpzN0todkc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-09T14:09:00+00:00"
     },
     {
       "t": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
@@ -51,38 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "유가 100달러 돌파하자…뉴욕증시 하락 출발 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmM4TGZsOVcwTVdUMDFZN3VZMlhPcy1QYUxTNGxLR3VDS1JkMmxKc1RzT0dMQWktQmRHSXVYdURDdld6UmwzaER2UlZBNlp2cWdxQ0YyLXlLSkZXb04wRkNZMTBHMVlzQ0lUTjNvUmo3VGlnc3ZvRTdzUlZMclpnV3hDT3ljS3Y50gGcAUFVX3lxTE11eUpTcmpCWkFNUWt2M1FuSkEzbTBvQ1BxdmtRNExoZjQtYV9wbGU0MS1pdnMyZlBjOUlJWlpXRV8yQmtYS2xpbE1OQnVWMTBzeUxyS1VybTIzM2hPaU9wV280TlkwZ1QySjZWQzgxSThJYko3YUQtdndzSzhiN2FqMm9jM3R3Q3RScEo3dHZUZHFTZmVEbzJKOGRadQ?oc=5",
-      "s": "Chosunbiz",
+      "s": "biz.chosun.com",
       "d": "2026-09-09T14:04:00+00:00"
-    },
-    {
-      "t": "한·프랑스, AI·반도체·양자 기술 협력 강화…정례회의 개최",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zWWNWYk4yVm5mY2x0UXhsNEU2bmZ3WXRkbVhSYkhWQlluLUdhZEdfV2FsbmREbFcyOXphc0dkRGpsTG9wUDA2NG1ENkZ1R21ZbFdKeGlfYkI0TVRnanY3eg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-09T13:55:47+00:00"
-    },
-    {
-      "t": "미 달러화 약세…'日 금리 인상 확실시' 엔 사흘째 질주",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zcy1lOS01WDg0MmJuTTdKNm0zMEVKaGw1QnJQRTJSNnNEWDlCQmJPVzJRZWZ4MFUtdHRFRTEtSkJsbjA5S255NUQzVUdyOUFua0g5RFBXaTB2Zy1YbTdadTQ0VGRrWklIaE5ZYmdrek0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-09T13:54:24+00:00"
-    },
-    {
-      "t": "뉴욕증시, 유가 고공행진에 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwWW9GRUpqZFF4Qk5KVlMxT0JaYTlmUXA3VXM2dWpteFlSVi0zcEdGcjhCUkdYbzQ5WGFTUm9wNnVWTzFvcTlOQ1dYaXJvT3NmSzhEQWZoOTUxbDI5Z2RXT9IBYEFVX3lxTFBwWW9GRUpqZFF4Qk5KVlMxT0JaYTlmUXA3VXM2dWpteFlSVi0zcEdGcjhCUkdYbzQ5WGFTUm9wNnVWTzFvcTlOQ1dYaXJvT3NmSzhEQWZoOTUxbDI5Z2RXTw?oc=5",
-      "s": "yna.co.kr",
-      "d": "2026-09-09T13:40:21+00:00"
-    },
-    {
-      "t": "유가 100달러 돌파에 美 10년물 금리 2023년 이후 최고",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1VGpNek41bnc4RnRremY1Sk1RS3RIcVhaZzlUdVBWTlFNOWphOHA4SlVlYWtNZGpzQXRHcVc5Z21rb0VESnFQRlB1ZHRWWlVRZVk1ZG1xUHhpdHdP?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-09T13:32:00+00:00"
-    },
-    {
-      "t": "[AI MY 뉴스] 유가 100달러·금리 부담에 반도체주 약세…인텔 2%대↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81WDdjZVVxdTMxenplTW9Pc05wam5DcV9udjNLTk5ldWxYR3UzODRGMnZNQ091dlZPak1MNXVWUnF3bHI2bm5GNURQcmR5V2FQUzMxSTNyNVVUbGVC?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-09T13:30:00+00:00"
     }
   ],
   "asof": {},
