@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-11T00:45:32+00:00",
-  "quotesAt": "2026-09-11T00:45:32+00:00",
-  "newsAt": "2026-09-11T00:45:32+00:00",
+  "fetchedAt": "2026-09-11T01:00:26+00:00",
+  "quotesAt": "2026-09-11T01:00:26+00:00",
+  "newsAt": "2026-09-11T01:00:26+00:00",
   "quotes": {
-    "kospi": 6875.17,
+    "kospi": 6861.55,
     "spx": 7591.7,
-    "nikkei": 63634.75,
+    "nikkei": 63318.04,
     "vix": 17.84,
-    "krw": 1346.18,
-    "gold": 4361.7,
-    "wti": 103.02,
+    "krw": 1345.88,
+    "gold": 4373.4,
+    "wti": 103.38,
     "dxy": 99.07
   },
   "daily": {
     "spx": -1.07,
-    "kospi": -2.5,
-    "nikkei": -2.51,
-    "krw": 0.52,
+    "kospi": -2.7,
+    "nikkei": -2.99,
+    "krw": 0.5,
     "dxy": 0.3,
-    "gold": -1.23,
-    "wti": 7.26,
+    "gold": -0.96,
+    "wti": 7.63,
     "vix": 8.38
   },
   "news": [
     {
-      "t": "서학개미 투자열기 식고, 외국인은 돌아오고…환율 더 내릴까",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4dEpMUGg1eHJzeDVmazlTY2s0OVBNUUdBdmlFWlNsT0x6RU5NTDFULWNiTGRzaG92SjcyNGdrbWduOFVTeFdiUTJoLUNMS2pOb1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-11T00:37:44+00:00"
+      "t": "[신윤우의 외환분석] 美 물가의 역습…깨질 금요일 하락 공식",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zU08zMWRneFFJSWFLN2V1ZTZTeVh6Sks1Sks0Mk9ObFplam96cDBlQkI5WjByYVpqX1pwZFhZMG4wRmllZ1hoc2hDTllvS2JYN1RuVzVqLW1ubng3Nk1tN3c1NXdvRzY0T2RUamtPV3HSAXRBVV95cUxNS1VsRGNiQXJLTFp0T2ZVLUNkeUdBd1dieWUyV1NZdUIwOFpBc0UxNmJibXNXeUQ0WnlMdjJOMEZZa3FPTkc4ZnRzcTctV01qMW1DcXFrUEszcDNKakJvTl9idHlFNXQtVF9aOW5FVktSWXBJNA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-11T00:54:27+00:00"
     },
     {
-      "t": "코스피, 하락 출발해 7000선 내줘…삼전·닉스도 하락",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnI5VFVnaWdJNXBaQ3AyckQtcS1NUHFTdG14N2tHRWVRbXIyb0pULV9XMmptUk9ieXo5YTByR2tZRXZJcmR6eWtPZTlXRWZLbERvUWNHUkVkcUFtdXhGdDZteGh0T1locTgydWZNdWx1dzIwaDMxVzBtSzVTbC1CR2FFRWotQl9qSmtaZnVyV1pKSG8?oc=5",
-      "s": "국제신문",
-      "d": "2026-09-11T00:35:00+00:00"
+      "t": "중동 불안에 국제유가 6% 급등…환율도 1350원 눈앞",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tbzZaV0NxX2g0UktyRGJEaWs3YnVzdFBaUVpMZU05R3BHbHc0ckpjTjhtc3hJRmJNRGJyTnkyazBUSEV4azJOb2llTHhKbzlTdFhrRFUtOW9ubGU3VHNPQlJoUWZWZTVxbnc?oc=5",
+      "s": "hidomin.com",
+      "d": "2026-09-11T00:54:19+00:00"
     },
     {
-      "t": "호주 국채 금리 급등…3년물 5.0408%·15년 내 최고(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OUEg2SmpCd2dWZ0w4Y3Vfbl9rMy1ZTHVCLUltd3ltLVBVcy1UZW0wSml6R0NEX1UwQjRkNVZNXzZ0SVJZZ0FFeExHcDl1UzhILU5rT1lSaVNCTHNHU0ZYV0ZqT0FPMjBPcXZjZzBfbkp5QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-11T00:34:22+00:00"
+      "t": "9월 초 수출 1년 전보다 82% 증가…반도체는 270% 급증",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VSWZzcjVZVDhtSjVMS1YxREQyMzVqLU1xU2dISjhncFMwSURxTV85Z1BJbGpoUXlvajMxdnFjYnd1Zi1iUWdiVkNwZFdETnFaSzdMVFh3aERWeVBsS2tsTVNmMHZlZjg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-11T00:49:00+00:00"
     },
     {
-      "t": "[뉴욕 브리핑] 유가·물가 상승에 금리인상 압박…반도체주 급락",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xWi1wT2dIMFZDaG4xa19LZVlyUFFWRzZIMHVnUUxtc2N3Q0RSV3UxY1BhS3NGS1AxSC04YWZaX1dEMmRVdHl2WmlWWWRhekZvWU1yUnZR?oc=5",
-      "s": "DealSite경제TV",
-      "d": "2026-09-11T00:34:06+00:00"
+      "t": "유가·금리 급등에 코스피, 장 초반 2%대 하락…6800선 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55aUVMLXRZcU5QZkw5SjFrNDVCRF9DeWZHbG5nRjB5QnFycUQtRkh5S2RUVDJ2XzBpei1DRDgwdXBTZWRpUnJ3aThPU19wRG5yRWFaa1lBcnAxMDJnbVVVa0ZTTHo?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-09-11T00:48:32+00:00"
     },
     {
-      "t": "[포토] 목덜미 잡게 하는 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1SzVZbmNheTlCMm1YVVd0LWZKbFhiMEExbVpnN1l2WEZvamhGLUl4WDd1aWNlQUp1bVdkNFlyRzUtbEh0dm8zMVJnVklIemFTam9kMnhDTWJXNlhBVjRRNQ?oc=5",
+      "t": "외국인·기관 매도에 코스피6,900선…국제유가 강세 속 에너지주 부각",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13aWEtVFV1YTlKTlpoUlc4T3hzZUpqT2xuVTYyTXhfTHBiNnQ3cVZnZmlPM0M1Z2RGdE9qVjk0Zk1YaHduZDhjWDZlUDQzM0owUThKYmlpSTNQMVdlNTRjUQ?oc=5",
       "s": "아시아경제",
-      "d": "2026-09-11T00:33:40+00:00"
+      "d": "2026-09-11T00:48:00+00:00"
     },
     {
-      "t": "환율 200원 떨어졌는데…한은 발목 잡는 '유가 변수’",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uOGtkOERvZDh1eXBUSk02WHJJY0g5Y2ktNmp3Sndic0NDS2x2YkgyRGZZdGJxM3JpbVdIeUVRQk5PUmVKZHlNeVoydjRZdHFOYjhvdEs2dFZqVzJRSzgwQVNWYlA4R1lkY0NELXFpakc5dTVZ?oc=5",
-      "s": "조세일보",
-      "d": "2026-09-11T00:32:03+00:00"
+      "t": "대구 달성 유가농협, 로컬푸드직매장 준공",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSaVEtdmI0Z1F1V3BiemF4UHJvSmI0ZEZiUmo5cUdXTnktbFRobEF4OVJxVG1xSWxlM01KZW5vRjdHejBGYkt2OThjOTdEUlUtYjdkVDF6STF1QQ?oc=5",
+      "s": "농민신문",
+      "d": "2026-09-11T00:47:24+00:00"
     },
     {
-      "t": "국고채 3년 4%·10년 4.5%대로 급등…美 금리 발작에 연고점(종합)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GdHRnR292R1pUaTQtdU4tUGVrNkRnU3JxZUZZNGZLTkVxR1hZZldpby1RbjJIRkc0TzZUd0NwcnRfQ1p4SDdqQTFpbXRCLUhuOFFmWldzbGt4ckxVQkVseHhUTTZralJEeVRYN19QemlWdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-11T00:31:51+00:00"
+      "t": "원·달러 환율, 10.4원 오른 1349.6원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdHZFTTQ3bVFmdEhYX0NCOHVBYXlaLVdUSTJ3Mks4TVJ6X1hqY2tqVXR0bW1Sc0FnWDNfVzJ2ZFM2NEMzcllzMUZ1RnFVdFUwOFhHVkdtT09peVhZb3VWQmYxZDNvNFlCOUtRZi1PR1NDQkJGcDRFOHcwUWZRUzRZeHNwX0tqd9IBmgFBVV95cUxPN2JzNVRzR3dQZkw0T19sdDUxMEttc3Q1d3RjZnN6bUJ2TFVoYURDVzRVYUJnMHdjd2pDTzdQZlIwMFNodGZBY2ljVXQybWxfeXJDaktkRlJBM0pWeF8tenVmbFBhYlhQaE9pbzlwbDBsdnp3X0g3T3BlUDJsSEdGUElHNE53TUFPN2MxcVg2WllfQWc3Nm9uNTdB?oc=5",
+      "s": "biz.chosun.com",
+      "d": "2026-09-11T00:46:00+00:00"
     },
     {
-      "t": "[외환] 美 물가·유가 우려로 1,340원 후반대…8.40원↑",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rOWxVTTE5SnpNVTMyVTUyR3U4SnFqMHFTZGxhdFU1Z0psdFY5OWluRUNsV21ic3pmQy10NUwyckxtU1Y0RU1zQTFpNVVnajJJTkhsY3JvcFdUdEZod1o3X2pfMnU0bE9RLWZBMC1SOExUZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-11T00:27:35+00:00"
+      "t": "코스피, 국제유가 급등에 하락 출발…외인·기관 동반 매도",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VaGZGR3Z0MXdaV21zSzNoZnZtalVLdVFUaFpSVFBSSTNhZEVlWHowNmJ6OUd6QWlFYUpTUmtubnNuVGZfUDY5NVBkOUo2LVhabU96bHVFVmJIVEpVOVgtSmJPVUxCbkZiNFhpV2xQWUU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-11T00:45:53+00:00"
     },
     {
-      "t": "유가·금리 변수에 투자 전략 재정비…추가 자금·대환 조건 비교할 때",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRUlVVzJCa2R0d2pON2Y0RkR5b3A2ZGxYdl8xYUxVQmY1MmpuWVRnSHd5alZianJOSTZYd3dOV3JjSmRQc0dJQ002V0hjbk11NjVnOW5VcXQzR3R2RjQ4Uw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-11T00:27:00+00:00"
+      "t": "태국산 이음매 없는 동관에 최대 8.41% 덤핑방지관세 부과",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZTmVzM1h5dGR4YkV3T3EyU05qZzRXWHBvVEtySEFTMGxxWHdvcXJZUElSaFl2M216bFdpeDR3S2h0c1Y5NzhqeDEzNklLVnUtUWRZN2pwV1Biak1EcEhEcFNUaE1NdXZWZHc?oc=5",
+      "s": "철강금속신문",
+      "d": "2026-09-11T00:45:00+00:00"
     },
     {
-      "t": "미 국채 10년물 '심리적 마지노선' 5% 턱밑",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tLW1oTlBrS0wwcFJYU0t4bFRnRnR3QmYzV1Z6Uk5zUmFZSVlXMHdOYnVzMjJPbWxfOEZHbHpqand4MlVDbFF4ZzVsOTJyTjVvcU5TNld4bG1kc0HSAWBBVV95cUxObXRpUG83RVF1QVI4a2xzazdUUFJESDhXZEVyMnhnZUs2TmM0ZmxQaU1EclFpNkhORnVqYVg5TFZKUFFkZGVyel85NkZuS3lfSktFdHo2bm9mNkRYdUM1Ym8?oc=5",
+      "t": "NH농협은행, 가계대출 금리 인하…주담대 최대 0.45%p↓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43bnFRcEhtbUdOQzRGaTh1dmhFNzhaT09nSkpHcm5wczAyTWRQS1hySDRNVnhQbDU1bEJQazQ1NGl2bmduQ0U0b2dUVF9aY05RamdIemZFVC1OMFHSAWBBVV95cUxQWVM3R0haR2RIUXNXVjI0cXR2RkIzRElhemgwR2Y2ZlFsMnNzcjJ2VV8xVDViZF9KakxURnQwOXZBTGNKa2VLUTJ6bFY4YWJ6ZEV1RDhOOW94ZnpsaXRfeFo?oc=5",
       "s": "연합뉴스",
-      "d": "2026-09-11T00:26:24+00:00"
+      "d": "2026-09-11T00:44:41+00:00"
     }
   ],
   "asof": {},
