@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-12T12:00:43+00:00",
-  "quotesAt": "2026-09-12T12:00:43+00:00",
-  "newsAt": "2026-09-12T12:00:43+00:00",
+  "fetchedAt": "2026-09-12T12:15:33+00:00",
+  "quotesAt": "2026-09-12T12:15:33+00:00",
+  "newsAt": "2026-09-12T12:15:33+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "반도체 타고 박스권 상단 향하는 코스피…‘호르무즈 파병’ 암초 만났다 [증시레이더]",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qa3hYd05oQ1lsTmItMUgtd2JXYUdabzRsY19YUzNuaFhoNVBmT0QyYnRDU1RVS0dIQjBqNjdoRXdZU1AyZ0tYSThHTF8zdGJIZWxUQXdWd1A4eHNyZU5tQjgtcUQ?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-09-12T02:42:30+00:00"
-    },
-    {
-      "t": "미 금리 인상 확률 86% 넘어서, '트럼프 배당금'까지 상승 압박 더하나",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QTmFLTkFEZlFvRjZQQkxkRmxhbDZPSWFuS0MwNHYtbXZNWERHY2luemZrN2JCY195SF9XSlZqWElaaTBBSXZQVThrQVJQdWRLUU94SEZlUlZnSjFCZWZ5SGJn?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-09-12T02:39:00+00:00"
-    },
-    {
-      "t": "삼전직스 레버리지에 피눈물 났는데...‘롤러코스피’ 이유 있었다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTUTM5TjZ6UmlTOWRwX3VlaGJHMFlReWEtQl9MankwQkRDeHV4RllnTEdRcGZNOEFxaFpxVmMwRFJjb3pINHdDdlJvVS1VTnc?oc=5",
+      "t": "트럼프 “이란 전쟁 11월 중간선거 직후 끝날 것…유가도 급락”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb05zQjlCTWZEdjVvelNwSnJxMVEwMXJhMExHcF9QRmRsMlh3UWdTRWxCLVNOemdVVUltODlrODBuWTJJOExOaWVEcV92V2c?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-12T02:38:07+00:00"
+      "d": "2026-09-12T12:03:09+00:00"
     },
     {
-      "t": "백악관, 정련 구리 관세 유보…미국 내 비축량은 사상 최대",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE44VGpEbUlPNFVnUWRBenM1bEVDU1U4QlJZR2NBY1ZUYm5MbFZvZmhVaWY2SXdMZXlMZXJqeTUzbVFxTFdlV2JjbG40QjBZN2N4dVZBNHhRV2p1RVRBWjVDQ1Y2Z2FSdUFhNnNJbkY4ZzJhNXhNbUcwWm9ORUxDU2hUdDdqNjJs?oc=5",
+      "t": "미국, 한국산 유정용 강관 반덤핑 관세 유지 확정…5개국 대상 2차 일몰재심 완료",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnNHWWtUdUZIRXkxWDB6UjBHS3NkRW9ISHJ0VWlkYjVBYzhEVF9qYndENlFHbzBneUF0a2JXWHFaMzZGX3BfUTljV0ttb0FOS3dIWXpmNXdMaDFTZkdCU25TZkk1UTdVNEVZdFFsZXhLTWRIbUFMMVpXcWRFdkt2XzBTUlpTMDRQ?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-09-12T02:33:11+00:00"
+      "d": "2026-09-12T12:00:31+00:00"
     },
     {
-      "t": "경기 제조업 생산 감소폭 커져…반도체 수출은 고공행진",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fWTBQLVhGWTkxZDlzNEhPODVmU29NZ09tYlU2dTVsSV9ydmQ0eXBENXhEY2c5Q1lvb1pyZmhsdTZjZkhCa1YwVDI5T1dyemlDQXZYcGF4cERsQlowOWNPU0NBdzZ6UklRNDctSnRNMA?oc=5",
-      "s": "기호일보",
-      "d": "2026-09-12T02:29:23+00:00"
+      "t": "트럼프 \"이란전, 11월 선거 뒤 끝날 것…종전 땐 유가 급락\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FN3FNX0p4UEU2T2FkcDhIc3FKN1dyMnlkWmxFVXlsQ3pBelhiUmMwRFhaU0x2WG5wbERDMDJhWk9tOUFGemxubVU5S2pDY0M1QnNfdEVrd3ZqdUdFT2dyS2hENDkySzdMendza9IBckFVX3lxTFA1Q21wZXdncWR4bnEtd0h0SFBHRWxVcm1USE1tSXVTbGJuRnNSMnBycjFfZGtZc3lyWm5reno2UFQ4U1VpYVBiTTJQSVdhTjhFaXV0dTZCbXF3SlozSkNfbl9XYTJRVThwYzFMc25TNHYxUQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-12T11:49:52+00:00"
     },
     {
-      "t": "Fed·BOJ '긴축 주간'…코스피 7000 재탈환 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeG0wTWlueTctRlVsOGtxV2dRZkR2ZG5mWlJFa3RPRF94bmhUQWkxZGJxUVpFa2Z6S242SGxQbnpvQUc3SkhuYmcwWFQ1VDRf?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-09-12T02:22:28+00:00"
+      "t": "李 대통령 \"유가 급등 걱정 안해도 돼…중동의존도 70%에서 50%대로 낮춰\"",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxZXgwY1EtNnlJMjQyc0M4U2lFMFdweVU3Q05SNV9saWl0VHpFZ1U0RzZUcXIxZXkwZW1WQlRva05SWWRQWWNvQ2RhZ1poSnhmNlRFZmd3OVJfT3dnamdJQ29lTFM?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-09-12T11:39:23+00:00"
     },
     {
-      "t": "美 8월 근원 소비자물가 전월 대비 0.3%↑…예상치 웃돌아",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OcFBvLVhJNnc3cHR6T0xwQmFYU3dpN3RXVXdIQzVQX2tFY3FWX0QxZDI3TlNYTkxLb3ppeXRVZC1DRHd3YTlhbktYb1g2bGVXcVVxb3pHVmVzS2lhRi1kUWpQcEE3VXc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-12T02:18:00+00:00"
+      "t": "트럼프, '이란전 종료 시점'에 \"11월 중간선거 직후…유가도 급락할 것\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTVRaTnlKYVNGOENVQ2tBS3VyRkRoTnVMRlVqWnk2dGhDeTlqODlvSEVEdmE2eEs5cVRBVVFOWERIX1NqWVhEVTNxMTlTakU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-12T11:24:12+00:00"
     },
     {
-      "t": "국제유가 급등에도 기름값 17주째 하락…대구 전국 최저 1832원",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZWY4aXhndHhLakRYYnVhLWROSndTbjhjcnp0YzlwZVNLVFZvXy1lNUFVLXNzUUFkU3ZabDF6a1Q2aWRsSEJUUmU0aG52ZVVvbld1b3g5STNEY0N1aHJ2QWhvUUliRU1FTHc?oc=5",
-      "s": "hidomin.com",
-      "d": "2026-09-12T02:07:32+00:00"
+      "t": "예금 넣을 때 왔다?…은행들 “이자 더 드릴게요”",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WV051Tklsc216al9UMkx5NGIzNkhnSVg1cUZwV2dXN283dHMydGU2akFLYnpJNTF2bkFKVVNBaTJSX3BFbjdVaWdIS1lUemJrcXNHWG9WLWJISURPdmMzbjB3?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-12T11:21:00+00:00"
     },
     {
-      "t": "반도체·AI 커질수록 '물'이 중요해진다…물산업 무게중심 이동",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJeXBCdjR3clhKWERyaXNOalRPOGpYb0I4dThoV3l5YnRvdFdhSEFybm53UWU5MVpxREhJU3J6SmxySDRhalI1UUplcjIxVVkxcVJTQlhJQ0liMU1IUjc0V1VScTFSNmFm?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-09-12T02:06:30+00:00"
+      "t": "\"간판보다 실리\"...'지방 거점대·반도체'에 수시 몰렸다",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55aEFuT0ZkcUcxWG5aSWFEY2ZXb0VGczdUREw2QmFKNDQ4UzhxM1otN0twS3czMkd5ZkpRakM4YndJSGRxeEd4LWJhNVQ5ZHBubWpwdURtVktfTEVGbFE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-12T11:17:00+00:00"
     },
     {
-      "t": "[뉴욕 증시] 美 국채금리 안정화...뉴욕 3대 지수 반등",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbW9manozV1JicEo5N2JTVmUxUVNlV1I3MWdkQTFwMmRpTm1YR2hZaWJfclRnN09teklOT0dILWg3eWIyUW52c3cxSGd2OTBSZUQ1Z0ZVOENvOWo4aFU2dmdPd0ExUDFXMmNTaUZ5TlhGUQ?oc=5",
-      "s": "한양경제",
-      "d": "2026-09-12T02:02:10+00:00"
+      "t": "트럼프 \"이란 전쟁, 중간선거 직후 끝날 것…유가도 급락\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGaTg3Y1ZzS191Z3VneTlVUVZtOUM5d2xhSkxXWUdhb0tlWnBkYm9nRlktYWRFSzh5d2tpdVpCOUo4Q2FuTnZfSlRaQVpSaHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-12T11:15:00+00:00"
+    },
+    {
+      "t": "이 대통령, 국제유가 급등에 \"중동 의존도 50%대로 낮춰\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZWRkMXphbWZzeGZiMEN4V1ExVy12WnlCM05ERF9tNEgzTDR5QzhGelR0X3lNMVFhOHpDeVZLV19vbTVCWEJuR0dJUUpRaGM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-12T11:13:13+00:00"
+    },
+    {
+      "t": "박스권 증시에 갈 곳 잃은 돈⋯파킹형 ETF에 1.5조 몰려",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83RWdYQ1pHTHZucXAzT0xQdXVMZHktZjFwTE9PY0kzcnFLZ195NGRiUUFUa1BpcXZJemxMU09VUjhCUUdHM1ItRTNTc21nTTQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-12T11:12:00+00:00"
     }
   ],
   "asof": {},
