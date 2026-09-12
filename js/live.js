@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-12T12:15:33+00:00",
-  "quotesAt": "2026-09-12T12:15:33+00:00",
-  "newsAt": "2026-09-12T12:15:33+00:00",
+  "fetchedAt": "2026-09-12T12:30:38+00:00",
+  "quotesAt": "2026-09-12T12:30:38+00:00",
+  "newsAt": "2026-09-12T12:30:38+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"반도체 팹 인재 육성 '속도'\"...기업 참여 여부 '관건'",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tYk9ZMUpSZTlPdl9oZU1YZWd1dGRUZkJBTFcwVHE5S2JyelBBenJaT2lOWWFDOUFnNnRHWnFsLUFwYkRLcGhNNFQwdE5GVTZVTWg1OFFtejk2Vk1IMVNQWlR3UjNyalU?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-09-12T12:18:20+00:00"
+    },
+    {
       "t": "트럼프 “이란 전쟁 11월 중간선거 직후 끝날 것…유가도 급락”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb05zQjlCTWZEdjVvelNwSnJxMVEwMXJhMExHcF9QRmRsMlh3UWdTRWxCLVNOemdVVUltODlrODBuWTJJOExOaWVEcV92V2c?oc=5",
       "s": "v.daum.net",
@@ -33,7 +39,7 @@ window.LIVE_DATA = {
     {
       "t": "미국, 한국산 유정용 강관 반덤핑 관세 유지 확정…5개국 대상 2차 일몰재심 완료",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnNHWWtUdUZIRXkxWDB6UjBHS3NkRW9ISHJ0VWlkYjVBYzhEVF9qYndENlFHbzBneUF0a2JXWHFaMzZGX3BfUTljV0ttb0FOS3dIWXpmNXdMaDFTZkdCU25TZkk1UTdVNEVZdFFsZXhLTWRIbUFMMVpXcWRFdkt2XzBTUlpTMDRQ?oc=5",
-      "s": "글로벌이코노믹",
+      "s": "g-enews.com",
       "d": "2026-09-12T12:00:31+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZWRkMXphbWZzeGZiMEN4V1ExVy12WnlCM05ERF9tNEgzTDR5QzhGelR0X3lNMVFhOHpDeVZLV19vbTVCWEJuR0dJUUpRaGM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-12T11:13:13+00:00"
-    },
-    {
-      "t": "박스권 증시에 갈 곳 잃은 돈⋯파킹형 ETF에 1.5조 몰려",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83RWdYQ1pHTHZucXAzT0xQdXVMZHktZjFwTE9PY0kzcnFLZ195NGRiUUFUa1BpcXZJemxMU09VUjhCUUdHM1ItRTNTc21nTTQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-12T11:12:00+00:00"
     }
   ],
   "asof": {},
