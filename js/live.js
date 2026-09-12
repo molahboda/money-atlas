@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-12T12:30:38+00:00",
-  "quotesAt": "2026-09-12T12:30:38+00:00",
-  "newsAt": "2026-09-12T12:30:38+00:00",
+  "fetchedAt": "2026-09-12T12:45:34+00:00",
+  "quotesAt": "2026-09-12T12:45:34+00:00",
+  "newsAt": "2026-09-12T12:45:34+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -31,6 +31,12 @@ window.LIVE_DATA = {
       "d": "2026-09-12T12:18:20+00:00"
     },
     {
+      "t": "물가 예상치 상회·경윳값 또 최고…금리인상 압력 커지나",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwYlR1OFVmdHVKekl4bW85cVE4NmpDbWxfSW94SmhsaWVQUzhvaE40X05Eb1F3Ykh0X0RXWmVGWlpnbk54LWhuT2Fub1ZsLS1VbzZfaDQtdjAzdjFYSENUMmpqcE9pdw?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-12T12:11:00+00:00"
+    },
+    {
       "t": "트럼프 “이란 전쟁 11월 중간선거 직후 끝날 것…유가도 급락”",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb05zQjlCTWZEdjVvelNwSnJxMVEwMXJhMExHcF9QRmRsMlh3UWdTRWxCLVNOemdVVUltODlrODBuWTJJOExOaWVEcV92V2c?oc=5",
       "s": "v.daum.net",
@@ -39,7 +45,7 @@ window.LIVE_DATA = {
     {
       "t": "미국, 한국산 유정용 강관 반덤핑 관세 유지 확정…5개국 대상 2차 일몰재심 완료",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnNHWWtUdUZIRXkxWDB6UjBHS3NkRW9ISHJ0VWlkYjVBYzhEVF9qYndENlFHbzBneUF0a2JXWHFaMzZGX3BfUTljV0ttb0FOS3dIWXpmNXdMaDFTZkdCU25TZkk1UTdVNEVZdFFsZXhLTWRIbUFMMVpXcWRFdkt2XzBTUlpTMDRQ?oc=5",
-      "s": "g-enews.com",
+      "s": "글로벌이코노믹",
       "d": "2026-09-12T12:00:31+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGaTg3Y1ZzS191Z3VneTlVUVZtOUM5d2xhSkxXWUdhb0tlWnBkYm9nRlktYWRFSzh5d2tpdVpCOUo4Q2FuTnZfSlRaQVpSaHM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-12T11:15:00+00:00"
-    },
-    {
-      "t": "이 대통령, 국제유가 급등에 \"중동 의존도 50%대로 낮춰\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZWRkMXphbWZzeGZiMEN4V1ExVy12WnlCM05ERF9tNEgzTDR5QzhGelR0X3lNMVFhOHpDeVZLV19vbTVCWEJuR0dJUUpRaGM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-12T11:13:13+00:00"
     }
   ],
   "asof": {},
