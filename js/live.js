@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T08:30:33+00:00",
-  "quotesAt": "2026-09-13T08:30:33+00:00",
-  "newsAt": "2026-09-13T08:30:33+00:00",
+  "fetchedAt": "2026-09-13T08:45:35+00:00",
+  "quotesAt": "2026-09-13T08:45:35+00:00",
+  "newsAt": "2026-09-13T08:45:35+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,10 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KVlQ5NGk1OFIzS2lQU29yQnF1TTFISkREWDNFRzN3UUdBaGtLZ2pwMXR4eFZVYkEtelJYVUtNSm1wX0hVY0NTNVdzRkJNQUctZnc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-13T08:38:14+00:00"
+    },
+    {
+      "t": "금오공대, 2029년까지 반도체·AI 제조로봇 인재 3000명 양성",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kYVJiOUxkd0pELVllRU5JVlZPdTk0dHZnaC1pSFRzSDBhcFBua1hGTkx4dVlkN2lPelBKWUJfSU5ra3g2RTcwc1ZEVnMtZGpXcEZIcEVZRVRLZUxmQzZTQ3JXeDUybXNCZm50ZXluQQ?oc=5",
+      "s": "kyongbuk.co.kr",
+      "d": "2026-09-13T08:32:57+00:00"
+    },
+    {
+      "t": "다시 불붙은 중동전쟁에 유가 급등…하반기 물가 관리 ‘분수령’으로",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PSWUzc0tmSE9iVDAtRko0UnNXUW9Qb1N0SGRUcGtqaFhTZEVZT3JGNEpqczVRbGw3VGgtaGdyVzFHS2p6eFpELWNLWW9Bd0R5bGw1UE9ESW81WTFMZHpnMXlJT2NTZnZDS3NKX3h3?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-09-13T08:29:12+00:00"
+    },
+    {
       "t": "시장금리 꺾이면 하이닉스·엔비디아…고금리 버틸 전력기기도 주목",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlT1MtLVNOaGRmSUtGb0xDQUI3cGpDcVVLUnZzQ09DbGZmTzJHcGlrWnVNeUI0NkdfMVhkcUZKcmtKZTJ2WXl3eFZqNlc5RlIzVkh5ZmN2UkdOUQ?oc=5",
       "s": "한국경제",
       "d": "2026-09-13T08:23:11+00:00"
+    },
+    {
+      "t": "용인시·UNIST, 반도체·AI 최고위 과정 6기 14주 교육 돌입",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VMmMxRWwxUUhRMzVab2xYWUM5eEVBSVUyMHpmazdseXpRWHRxdHc2Wm9lMFVkSzhiWlVQQUltalJFZm5WZnJBclFRZkpVdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-09-13T08:16:14+00:00"
     },
     {
       "t": "후지쓰, AI 반도체 내년 첫 수출…TSMC가 생산 - 조선비즈",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HenFBZHJMWTBscmZaOS1LVVRPdnhwU2Q2ZkpBcHU2WFRFMmhxam5DZXhmNjIzdS1qdDNHVks0T0k5OHN5Z21CbmJ1RWQ4U21mYm15UzlTRmF3emtzcFFfUzhKUjdMYlE1YkE?oc=5",
       "s": "서울파이낸스",
       "d": "2026-09-13T08:00:00+00:00"
-    },
-    {
-      "t": "“일단은 좀 두고 봅시다”…원화 강세 속 외국인 수급에 방향 달린 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iNEw3aHpYT0tpa3l0dy01OWdFMWRUaGx3Vkl1SlVLaHBpNEdMWmhuVlhBLW1MeldfMDA3U2lZS2VtNnZTLTBIOW0wYXRtbUJITWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-13T07:53:43+00:00"
-    },
-    {
-      "t": "中 경유 줄고 아세안 늘었다…한국 반도체 공급망 ‘규제 변수’",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRGROMVNsY2JwM2dBci1pODkzTFVTSy1TQk80ZWkyckt1WHNWMll5NU5QOVFCelZoXzZuSGNIZ3daLUJwc3E4VVpBVDNrd1NVN0hySWs4MzhOSHhKT19KSA?oc=5",
-      "s": "경기신문",
-      "d": "2026-09-13T07:36:30+00:00"
-    },
-    {
-      "t": "코스피 6900인데…1년 전보다 싼 대형주들",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NeEM2VlJxSHZQM1J1V1JObnlTNUdhdGVlMDNCMUFTWVBuQ3p6cmV3R3NlRXhVV2RjTDNtWjVkYkllQnVUbEd5ZnQ1Vkhla1RrVWZBR05NUVdJZ9IBWEFVX3lxTE5kRHBMLW1YUWlCUTU2WVptcVlyaXpmVThZdmViRzlYdTVtUVZweE1rclRtdUJjSkZaRHFIZTR3VXNnclkwUkVsZnctS3VoX21kaWExMTFJcVU?oc=5",
-      "s": "아주경제",
-      "d": "2026-09-13T07:28:28+00:00"
-    },
-    {
-      "t": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-13T07:27:13+00:00"
     }
   ],
   "asof": {},
