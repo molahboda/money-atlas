@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T08:45:35+00:00",
-  "quotesAt": "2026-09-13T08:45:35+00:00",
-  "newsAt": "2026-09-13T08:45:35+00:00",
+  "fetchedAt": "2026-09-13T09:00:37+00:00",
+  "quotesAt": "2026-09-13T09:00:37+00:00",
+  "newsAt": "2026-09-13T09:00:37+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,6 +25,36 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "국내 반도체 13조 털어낸 개미…환율 타고 美 증시행",
+      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5c0tIbUptSy1SX3FJVmNob1JJb3lxSHdZUHJGM0RPVWNuclItMFprcVlkZDY4dndzeHJnNUxRNTlRa0VWb2hpYV82Yw?oc=5",
+      "s": "아이뉴스24",
+      "d": "2026-09-13T08:54:14+00:00"
+    },
+    {
+      "t": "이형일 \"레버리지 국정조사 필요 여부는 국회 판단 존중\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSVlERjZ6NURyQUNVOU5uRUxJZzF0SGxTc2ktMk9ZSVBhY2FhNWRmNElLS1NwSHV2RUoxQm5JZ1BCZzNCdTZXMTMtQ0h2U0pXWlE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-13T08:51:53+00:00"
+    },
+    {
+      "t": "[한주간 주요 경제·암호화폐 일정] 美 FOMC 금리결정 外",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NUnVHNUplOFhPNlVtNTZKcEQ0dmVWeU1Uek1CQU5Hek8yczc5WV8wdnZMWi0teVNQS2cwTWZuR3ZNTi1DTTlIRHEzbXJ3QUsy?oc=5",
+      "s": "bloomingbit.io",
+      "d": "2026-09-13T08:51:25+00:00"
+    },
+    {
+      "t": "유가·물가·금리 ‘3고 충격’에 글로벌 긴축 본격화…어두워진 한국 경제 시계",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05ZHh1NXVQaWtTNmtDZzJBSnNvcGo5WVdaVkM3SmYtejAxOUpwNDlhWG9YSlFYN29rUnVfdkZHOHFXTGpVSkxTTzNvT1BfWXJseUFqMjdR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-13T08:51:12+00:00"
+    },
+    {
+      "t": "“연말 금값 얼마까지?” ‘이 경우’엔 5000달러 뚫는다 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jYXNHdlV6bmtsY0Q2Y3BhY3NKaDV4UThMZVNLZGJFMGRpaTlPTHlJLWdlNFI5RmthdVNjNEFaZ0MxV3A4OHN1TjYwZkU3ZWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-13T08:42:09+00:00"
+    },
+    {
       "t": "[표] 외국환율고시표",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KVlQ5NGk1OFIzS2lQU29yQnF1TTFISkREWDNFRzN3UUdBaGtLZ2pwMXR4eFZVYkEtelJYVUtNSm1wX0hVY0NTNVdzRkJNQUctZnc?oc=5",
       "s": "매일경제 마켓",
@@ -45,7 +75,7 @@ window.LIVE_DATA = {
     {
       "t": "시장금리 꺾이면 하이닉스·엔비디아…고금리 버틸 전력기기도 주목",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlT1MtLVNOaGRmSUtGb0xDQUI3cGpDcVVLUnZzQ09DbGZmTzJHcGlrWnVNeUI0NkdfMVhkcUZKcmtKZTJ2WXl3eFZqNlc5RlIzVkh5ZmN2UkdOUQ?oc=5",
-      "s": "한국경제",
+      "s": "hankyung.com",
       "d": "2026-09-13T08:23:11+00:00"
     },
     {
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VMmMxRWwxUUhRMzVab2xYWUM5eEVBSVUyMHpmazdseXpRWHRxdHc2Wm9lMFVkSzhiWlVQQUltalJFZm5WZnJBclFRZkpVdw?oc=5",
       "s": "전자신문",
       "d": "2026-09-13T08:16:14+00:00"
-    },
-    {
-      "t": "후지쓰, AI 반도체 내년 첫 수출…TSMC가 생산 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUlReDlaMWdKMlFweEtMWnNzNUh4TmZvNERkTjE2UjRSS1dfVzg4UFYyOW1yd0VwLWVhajAxbUNpZFZURG1BSTcwWDY2WUxBR1ZOQ0xvaEs5bmJSQTRMQ3lsSU9TVGFRdWhYUDVIeERMRVBQLVhtLU9Va1JxTEl1WXln0gGWAUFVX3lxTE9lQkdRS3JNak5Zd1pxWmlVbjY4ZWJuaG9UMmFxQXdRbHZyWDFCOEVLeWNPaGdER19JcFhfOGNpZno4NHZNYTJZTm8zc0JxVFhKNjlib2preUczNEs0VWNCYlFCTmZGLTVGRjlFRnFwM2JYTTBhWnhYeTc0T29rMEpQYm5qN3dOYm45OGs0QjBKSGNxdWx5dw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-13T08:16:00+00:00"
-    },
-    {
-      "t": "[뉴욕환시-주간] 함께 금리 올리는 美·日…어느 쪽이 더 매파적일까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMWFXb2hLMTZQWGxsZXpEb0pIN2ZWWVdySUk4UGw4TUxhWVVlZEduMlNVcDZ2eWtBOUNubHM0T2wtc3U5aVk4Y3YtQkZfUE1jNWtXSmllcVNMbGVOOXJOOTdVcVFmbG9KZWR6RFowa3o?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-13T08:09:12+00:00"
-    },
-    {
-      "t": "[뉴욕채권-주간] 단발일까 추가 인상 있을까…장기금리 반응 촉각",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xdkJKd2lIRWhoandLdl93T3J6MFlRbWV3VTU0a1dsZWZzQWhrTmFCLVVudUVNT2x5ZXBDbFpUU3EwcDlXMVVsRVFvNEVQaGgtOFRfakl4UU9wdmtTNmZQQUxKZXhQVXBPX3lUT1NXMGw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-13T08:05:10+00:00"
-    },
-    {
-      "t": "미·이란 충돌에 유가 100달러 돌파…韓금융권 중동 위험노출 1조↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMnBhNmx1RHdwSHhJSzVnd0g0ekNQSEpuTkNwb2JTQjEzWkwwdjdpcjFlaVVHVE00aHNoc0w5dTBqbGNOc0Y2cmhtZlJLX3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-13T08:04:07+00:00"
-    },
-    {
-      "t": "[주간환율전망] 유가 급등에 하락세 '제동'···FOMC·BOJ에 쏠린 눈",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HenFBZHJMWTBscmZaOS1LVVRPdnhwU2Q2ZkpBcHU2WFRFMmhxam5DZXhmNjIzdS1qdDNHVks0T0k5OHN5Z21CbmJ1RWQ4U21mYm15UzlTRmF3emtzcFFfUzhKUjdMYlE1YkE?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-09-13T08:00:00+00:00"
     }
   ],
   "asof": {},
