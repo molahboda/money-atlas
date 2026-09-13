@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T07:15:33+00:00",
-  "quotesAt": "2026-09-13T07:15:33+00:00",
-  "newsAt": "2026-09-13T07:15:33+00:00",
+  "fetchedAt": "2026-09-13T07:30:35+00:00",
+  "quotesAt": "2026-09-13T07:30:35+00:00",
+  "newsAt": "2026-09-13T07:30:35+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -11.21
   },
   "news": [
+    {
+      "t": "원화 강세에 복잡해진 반도체 셈법…삼성·SK, 손익 방어 나선다",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hMjBGTDNjVFRDQy1hd3dOVEF0bzFFS3FkQmtXSVhyX09BSzVOOTN6M19DRkVLZ3BBZnJueFlDMFRZSWVpTmc5T1hiWHlUSDl3U0hYOFl3QWJwU1NzbVRtNHpBazjSAWhBVV95cUxQVjQyRWVEa3lXLU5Samt3dFZsX1VoMHpWd0ZaYzQxRnRac3kwMWxMck5GQ0gzbmlZT3hOUHl5YWdJaGpGUnpmT2Eydl92c0xQLTktS3dPajRWTVZQUEk4RnphYm5OVWlKTQ?oc=5",
+      "s": "매일일보",
+      "d": "2026-09-13T07:16:44+00:00"
+    },
+    {
+      "t": "\"AI로 반도체 설계 4주→1주 단축\" 中 EDA 선두기업 승부수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52ajFJeUlJdTVXbDNvTVcyVjRPUHNqVmw2YUFRSkpsZWFGVzhMekxIcWE4RTBJcVI5ZTdrNzZwS1ZUQjVvU0l2eEdpMWw2bWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-13T07:09:00+00:00"
+    },
     {
       "t": "\"연장했더니 4%→7%\"…마통 차주 덮친 금리 상승",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdU1TSmRTRUp2Ul9nSTNMUFFTdDZYM0FBc01QNVNQSGo5eVlYVnItZXl6NW95ZHVMQnJhV0JzUUZ2cXhQbTBBaS1CSTUtTXM?oc=5",
@@ -51,13 +63,13 @@ window.LIVE_DATA = {
     {
       "t": "美 중간선거까지 유가 고공행진?…\"업스트림 전략 짜라\" [노정동의 어쩌다 투자자]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMNUFDaHNqRUNTd3dHV2hnOGZpMXo4ODdtcnZ3QmI5Zl9CYXdyaWltci1hU251SnozSW9rRTRJZ2t0RVdYWHdfTTlnM0xSMFI5VnNhQ1JkalFZUQ?oc=5",
-      "s": "한국경제",
+      "s": "hankyung.com",
       "d": "2026-09-13T06:29:00+00:00"
     },
     {
       "t": "美·日 인상·英 동결?…이번주 글로벌 금리 ‘슈퍼위크’",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMGpicGNQRnFkUklPajFKQU1xYXJDTHFzZ19OVktWMjRzZHVhWmR1VTZTSmxOSkVBTXA1WFV5MGVIX3V3TUpLYkZZaUlGZmdjdFJJR2VCaUxkb3ctZHVJTzUyVHBOYkI4c0JRQ0UwZlJOOEhI?oc=5",
-      "s": "대한경제",
+      "s": "dnews.co.kr",
       "d": "2026-09-13T06:28:32+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUC14VXV5VFpEOEY0M1ZKb2RRWWxFVmRvTklNSEgyOV9YSDM2cDEybTdvWnlCb3hkQTJNb0t0NXdtdlZER3VSWUxNVFhzbHhyd242cmFsRWxwUdIBX0FVX3lxTFBLTVFLQ2NCbGtwZGlkVndzWkpKLVB0RnRrelM1eUhPTkU1Tklua3k5YmU1XzRONGdRYUc2bFU5ZmJRZFJHZ1hHSWVhY01iM3psQzNETEZoQ1VUWGJLVXU4?oc=5",
       "s": "경향신문",
       "d": "2026-09-13T06:27:00+00:00"
-    },
-    {
-      "t": "[뉴욕환시-주간] 함께 금리 올리는 美·日…어느 쪽이 더 매파적일까",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZFNJQ2VVMHFyVjFXWVZwUks3dmtzS0loVU4zZUdrTzVqYl9QczNVS2k4LXRMbEdjVlFfeEp2TGxaYUpKMENUY3RLWHlMM05iRVRTbFZQTzF2OURqOWQ5S25jRG5LSUlFcWMzenZFdWhBUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-13T06:09:11+00:00"
-    },
-    {
-      "t": "미국 국채 ‘5% 공포’에 연준 진퇴양난⋯시험대 오른 워시 [국채금리 고공행진]",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaGFfTGhTZWFHY0xZMndxTjZlR0FsUjUtTGV0TTg1eDQwdTNsb2xncEtWZlU2X3JjbWxLeDdzZVh0enhQUTlTOVVRc0RRSk94cDBMQw?oc=5",
-      "s": "etoday.co.kr",
-      "d": "2026-09-13T06:08:00+00:00"
     }
   ],
   "asof": {},
