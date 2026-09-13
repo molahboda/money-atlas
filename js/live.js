@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T06:45:33+00:00",
-  "quotesAt": "2026-09-13T06:45:33+00:00",
-  "newsAt": "2026-09-13T06:45:33+00:00",
+  "fetchedAt": "2026-09-13T07:00:40+00:00",
+  "quotesAt": "2026-09-13T07:00:40+00:00",
+  "newsAt": "2026-09-13T07:00:40+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -43,10 +43,22 @@ window.LIVE_DATA = {
       "d": "2026-09-13T06:27:47+00:00"
     },
     {
+      "t": "베트남 거쳐 미·중으로… 미·중 갈등에 제3국 거친 한국 반도체 수출 비중 늘었다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUC14VXV5VFpEOEY0M1ZKb2RRWWxFVmRvTklNSEgyOV9YSDM2cDEybTdvWnlCb3hkQTJNb0t0NXdtdlZER3VSWUxNVFhzbHhyd242cmFsRWxwUdIBX0FVX3lxTFBLTVFLQ2NCbGtwZGlkVndzWkpKLVB0RnRrelM1eUhPTkU1Tklua3k5YmU1XzRONGdRYUc2bFU5ZmJRZFJHZ1hHSWVhY01iM3psQzNETEZoQ1VUWGJLVXU4?oc=5",
+      "s": "khan.co.kr",
+      "d": "2026-09-13T06:27:00+00:00"
+    },
+    {
       "t": "[뉴욕환시-주간] 함께 금리 올리는 美·日…어느 쪽이 더 매파적일까",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZFNJQ2VVMHFyVjFXWVZwUks3dmtzS0loVU4zZUdrTzVqYl9QczNVS2k4LXRMbEdjVlFfeEp2TGxaYUpKMENUY3RLWHlMM05iRVRTbFZQTzF2OURqOWQ5S25jRG5LSUlFcWMzenZFdWhBUQ?oc=5",
       "s": "KB Think",
       "d": "2026-09-13T06:09:11+00:00"
+    },
+    {
+      "t": "미국 국채 ‘5% 공포’에 연준 진퇴양난⋯시험대 오른 워시 [국채금리 고공행진]",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBaGFfTGhTZWFHY0xZMndxTjZlR0FsUjUtTGV0TTg1eDQwdTNsb2xncEtWZlU2X3JjbWxLeDdzZVh0enhQUTlTOVVRc0RRSk94cDBMQw?oc=5",
+      "s": "etoday.co.kr",
+      "d": "2026-09-13T06:08:00+00:00"
     },
     {
       "t": "美 연준 인상 전망에 금융당국 17일 F4 회의 개최",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5",
       "s": "전자신문",
       "d": "2026-09-13T06:00:00+00:00"
-    },
-    {
-      "t": "[주간 증시 전망] '아스트라 효과'에 7000피 회복…FOMC·국채금리는 변수",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSVdqZFJyYkd6N1VqdHlNMDZFMUNmdWRDeV84UWNJSVNhYlRqZUxvSFBrRU5FTWdndzRGVTEyU1VwdXJ3Q3QySkV6RGNnSFhWbFAySnp1Z202Qjk0WnVTYXFPVDhhekVsdjhuVlNrb9IBc0FVX3lxTFB5Ul9EVlREenI3TlFCUGN1dzRmMjI4UUFTNXNSWEhqVTdzY2NCb3JSSVlJMnVfd1lySUZ5TGtpa0Y3cExjRjVSRVlteW9JUHl4WE9lYkpIZFpYbF9GVWpZTUpvWjBDQ3F0enlRQlBISU4zOE0?oc=5",
-      "s": "뉴스웍스",
-      "d": "2026-09-13T06:00:00+00:00"
-    },
-    {
-      "t": "예금금리 올리는 은행들…가계대출은 이달 1조원 감소",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15VjlnSVZ4TWJnRXUzSWVSNTJpc2huSFotRFY1a3pzYXMzNHY4NWFkTlVTZUVXTkFHdUE4QVUxTmtsb1ctOERMa2p5V2Y4M0ZLNmtxUDN2WUUtQQ?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-09-13T05:58:00+00:00"
     }
   ],
   "asof": {},
