@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T05:45:40+00:00",
-  "quotesAt": "2026-09-13T05:45:40+00:00",
-  "newsAt": "2026-09-13T05:45:40+00:00",
+  "fetchedAt": "2026-09-13T06:00:39+00:00",
+  "quotesAt": "2026-09-13T06:00:39+00:00",
+  "newsAt": "2026-09-13T06:00:39+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "\"반도체 팹 인재 육성 '속도'\"...기업 참여 여부 '관건'",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tYk9ZMUpSZTlPdl9oZU1YZWd1dGRUZkJBTFcwVHE5S2JyelBBenJaT2lOWWFDOUFnNnRHWnFsLUFwYkRLcGhNNFQwdE5GVTZVTWg1OFFtejk2Vk1IMVNQWlR3UjNyalU?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-09-12T12:18:20+00:00"
-    },
-    {
-      "t": "물가 예상치 상회·경윳값 또 최고…금리인상 압력 커지나",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwYlR1OFVmdHVKekl4bW85cVE4NmpDbWxfSW94SmhsaWVQUzhvaE40X05Eb1F3Ykh0X0RXWmVGWlpnbk54LWhuT2Fub1ZsLS1VbzZfaDQtdjAzdjFYSENUMmpqcE9pdw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-09-12T12:11:00+00:00"
-    },
-    {
-      "t": "트럼프 “이란 전쟁 11월 중간선거 직후 끝날 것…유가도 급락”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xb05zQjlCTWZEdjVvelNwSnJxMVEwMXJhMExHcF9QRmRsMlh3UWdTRWxCLVNOemdVVUltODlrODBuWTJJOExOaWVEcV92V2c?oc=5",
+      "t": "AI가 띄운 코스피, 중동 악재에 찬물…이번주 FOMC '고비",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdkNsS0lNTWtuX0g3QUtvVmk0X0ZfUHNiNjNDRGFHWlczTFZzWUt6RjUxM2dtZk5LZEN6cW0zWjdMQWFuSFVLTzh0cTJ4NHM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-12T12:03:09+00:00"
+      "d": "2026-09-13T05:51:00+00:00"
     },
     {
-      "t": "미국, 한국산 유정용 강관 반덤핑 관세 유지 확정…5개국 대상 2차 일몰재심 완료",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnNHWWtUdUZIRXkxWDB6UjBHS3NkRW9ISHJ0VWlkYjVBYzhEVF9qYndENlFHbzBneUF0a2JXWHFaMzZGX3BfUTljV0ttb0FOS3dIWXpmNXdMaDFTZkdCU25TZkk1UTdVNEVZdFFsZXhLTWRIbUFMMVpXcWRFdkt2XzBTUlpTMDRQ?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-12T12:00:31+00:00"
-    },
-    {
-      "t": "트럼프 \"이란전, 11월 선거 뒤 끝날 것…종전 땐 유가 급락\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FN3FNX0p4UEU2T2FkcDhIc3FKN1dyMnlkWmxFVXlsQ3pBelhiUmMwRFhaU0x2WG5wbERDMDJhWk9tOUFGemxubVU5S2pDY0M1QnNfdEVrd3ZqdUdFT2dyS2hENDkySzdMendza9IBckFVX3lxTFA1Q21wZXdncWR4bnEtd0h0SFBHRWxVcm1USE1tSXVTbGJuRnNSMnBycjFfZGtZc3lyWm5reno2UFQ4U1VpYVBiTTJQSVdhTjhFaXV0dTZCbXF3SlozSkNfbl9XYTJRVThwYzFMc25TNHYxUQ?oc=5",
+      "t": "AI 모멘텀에 7000피 돌파했다 다시 미끌…'금리 인상' 주목 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uVVlLZWFMVDhjRFR2UUlPYnNvMnZSSWl6UFFVNWVCWWdvN2Flb1c1UElHWDgyZm91LWFEa1BNOFpJWVlQZjBONnRPSGNRVHBSbW9aZXZiV3N6c3pxSEsxM3ZTUEstV2R6LW91MTFPRTFRSTFEd3fSAXtBVV95cUxOYkdXODFhQTZYUU90X216MW9hZEtkeHNkdUFxWEJla3VYVFBjWkU3V21sVGUtbkRkUzE0V2FfUERWdlhFd2k3ZzlRN3BjWjl3bm1mTEwwdEZzMkN3WHQzZUlFTnhoRTQ2YVBWT3B6Q1JaRWFydkNhTUhnSHM?oc=5",
       "s": "머니투데이",
-      "d": "2026-09-12T11:49:52+00:00"
+      "d": "2026-09-13T05:50:12+00:00"
     },
     {
-      "t": "李 대통령 \"유가 급등 걱정 안해도 돼…중동의존도 70%에서 50%대로 낮춰\"",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxZXgwY1EtNnlJMjQyc0M4U2lFMFdweVU3Q05SNV9saWl0VHpFZ1U0RzZUcXIxZXkwZW1WQlRva05SWWRQWWNvQ2RhZ1poSnhmNlRFZmd3OVJfT3dnamdJQ29lTFM?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-09-12T11:39:23+00:00"
+      "t": "유럽 증시는 천연가스 가격 급등에 얼마나 취약한가?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwd0xRUVcxZ1BzUm5ibzVxVmh6NFBiNjJsYU91NF9VWVNmOXVOREI5N0VrLU9YREV1YWNObjNtdkJoOEJ0U0dpLTRMVTBYR25ZOVFnQk8xWWtGZGp6U0w3Q0ZsMHJDUVhrV3c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-13T05:45:00+00:00"
     },
     {
-      "t": "트럼프, '이란전 종료 시점'에 \"11월 중간선거 직후…유가도 급락할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTVRaTnlKYVNGOENVQ2tBS3VyRkRoTnVMRlVqWnk2dGhDeTlqODlvSEVEdmE2eEs5cVRBVVFOWERIX1NqWVhEVTNxMTlTakU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-12T11:24:12+00:00"
+      "t": "한국, 반도체 기술 보호 위해 간첩법 확대 시행",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oU3pad1k0ek9mSFktTUVwRnU5WkNabVI5MlZoTU8yNnpSRHJtVGFSelJTaEQ3a3dFMmNpbllxWHZmcDJoamVnOG0tclJ0Qlp5QWV1OWxpQXZOVVlSQ29uZUViWWNfN1M1Zmc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-13T05:32:00+00:00"
     },
     {
-      "t": "예금 넣을 때 왔다?…은행들 “이자 더 드릴게요”",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WV051Tklsc216al9UMkx5NGIzNkhnSVg1cUZwV2dXN283dHMydGU2akFLYnpJNTF2bkFKVVNBaTJSX3BFbjdVaWdIS1lUemJrcXNHWG9WLWJISURPdmMzbjB3?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-12T11:21:00+00:00"
+      "t": "김성환 한투證 대표 \"美 금리 변화할 듯…채권 전략 고민 많아\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ySm4xRGd4RGdsSV9Xc3lXMjFPV0tlTm1UVHpnbGNuOU9qMFI1RUVPYk42ZmZTV0loODVQVlFXbGdUMzNsZUU4Q0R0NENhbEdEcHp6OHY2elMxM0hXLWJWWHNydWZiMllfSExzR2hZSlA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-13T05:00:03+00:00"
     },
     {
-      "t": "\"간판보다 실리\"...'지방 거점대·반도체'에 수시 몰렸다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55aEFuT0ZkcUcxWG5aSWFEY2ZXb0VGczdUREw2QmFKNDQ4UzhxM1otN0twS3czMkd5ZkpRakM4YndJSGRxeEd4LWJhNVQ5ZHBubWpwdURtVktfTEVGbFE?oc=5",
-      "s": "YTN",
-      "d": "2026-09-12T11:17:00+00:00"
+      "t": "美연준, 고물가에 3년 만의 금리 인상 전망…시장 확률 87%",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yUjVsZ2t6Mk90NHpjOHNhX0QzV1RfcW9qUXVIY29Nd3NQQnhLY0NZRlNTdzJDc0tRb2duaHVqZTIzRFFfYWhBLUtieFJ1WTU5WS1pdG5nRVLSAV5BVV95cUxPTjhQYTJPZ2Nzd2RTQW1LYkw4OWVXUDVOa2d5WEk1dHVKaWpkd0NIdHdrQWItSnRJcjVkQkFPcXlLaGtqQXhPNDlKbG9MN2FfXzkyOG1DWHowcmIzSGRn?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-13T04:45:44+00:00"
     },
     {
-      "t": "트럼프 \"이란 전쟁, 중간선거 직후 끝날 것…유가도 급락\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGaTg3Y1ZzS191Z3VneTlVUVZtOUM5d2xhSkxXWUdhb0tlWnBkYm9nRlktYWRFSzh5d2tpdVpCOUo4Q2FuTnZfSlRaQVpSaHM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-12T11:15:00+00:00"
+      "t": "\"원달러 환율 두 달 만에 200원 떨어져\"…3분기 절상률 1위",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QRmRyYzB3M05sYzJMeHlqUUx0S0tjRlUtRHRKZ3BiNC1EUjhGaGEyNmlvYWd2SWhsSGpoYXZQUGdFZG0xUi1Rc20yUGZ2bDNPSllVdjNPdHpoVFdTWXhQV09NS3VjUnhlNU0tQWpR?oc=5",
+      "s": "전국매일신문",
+      "d": "2026-09-13T04:36:19+00:00"
+    },
+    {
+      "t": "소외주 랠리 끝나자…고유가·고금리에 다시 반도체로 압축",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BUWd0bXh6OHdjSE1iVHlnVzg0cFhEVXJZS0VrXzFqLTUyM0dMZlB4QTR2bzMwWXFZTzZIcUQ4T3plaDJDTElmclVVZkhhQkFZNEpMakRfMTZJV0YwdmhWVnRBV0g3NUt4S2o5NXloUWsxTWJk?oc=5",
+      "s": "대한경제",
+      "d": "2026-09-13T04:33:37+00:00"
+    },
+    {
+      "t": "李대통령, 국제유가 급등에 “걱정 말라⋯ 휘발유·경유 등 정제유 가격은 계속 안정”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVmNpSjB0TnJheFJ1TDZoTHI5YWg0ZXlxU2hKS2pqdmJjRFMySTdtbWpDMVdfb00ycmEzVHNwazhlcWNmUGJzOVkyMEVwTWU4MFoyR3lzSU5aY1E?oc=5",
+      "s": "강원일보",
+      "d": "2026-09-13T04:31:13+00:00"
+    },
+    {
+      "t": "충북반도체고 박승윤 학생, ‘기특한 명장’ 됐다",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtOTgxMjRIX05fN2dodTNySWZXSlFLMDNZMERVSk9HdEhuOTd0MW9UREJCY3BSOW1jUVAtdUNfVGlZeUhxQ2dsUWhZeTNUUDFyTU13MncxUHVNY1M2dzRmNTg3RUkybkR5S3FvYTZtNGJVUQ?oc=5",
+      "s": "굿모닝충청",
+      "d": "2026-09-13T04:27:03+00:00"
     }
   ],
   "asof": {},
