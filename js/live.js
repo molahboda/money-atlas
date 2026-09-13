@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T06:00:39+00:00",
-  "quotesAt": "2026-09-13T06:00:39+00:00",
-  "newsAt": "2026-09-13T06:00:39+00:00",
+  "fetchedAt": "2026-09-13T06:15:31+00:00",
+  "quotesAt": "2026-09-13T06:15:31+00:00",
+  "newsAt": "2026-09-13T06:15:31+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": -11.21
   },
   "news": [
+    {
+      "t": "美 연준 인상 전망에 금융당국 17일 F4 회의 개최",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UUjlpMzFNNzdRSlpyZ29LY3ZBaGtuS1RSb3V1U251dkVnWGtNakN6VUJaQmFlSks4eG5qcVlpYWhRZWRHNE1Wajl3UDI5eXZjRmZrU1ZWSHo2RGk1Q1NwWTNTVU9mSGEzdnc?oc=5",
+      "s": "천지일보",
+      "d": "2026-09-13T06:05:26+00:00"
+    },
+    {
+      "t": "원화값 15% 뛰자 삼전닉스 이익 전망 21조 줄어...‘반도체 달러’의 역설",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GclNQOGJuVG43Z09SUFdwTkV5ckdKck9kMi16THlzdlU5TXlweHVSZ0hlYzFlU1hhdTE5NEFmaUNWNHhJMHVTLUUzc1VFRjA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-13T06:02:00+00:00"
+    },
+    {
+      "t": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5",
+      "s": "전자신문",
+      "d": "2026-09-13T06:00:00+00:00"
+    },
+    {
+      "t": "예금금리 올리는 은행들…가계대출은 이달 1조원 감소",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15VjlnSVZ4TWJnRXUzSWVSNTJpc2huSFotRFY1a3pzYXMzNHY4NWFkTlVTZUVXTkFHdUE4QVUxTmtsb1ctOERMa2p5V2Y4M0ZLNmtxUDN2WUUtQQ?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-09-13T05:58:00+00:00"
+    },
+    {
+      "t": "유가농협 로컬푸드직매장 문 열어…“생산자·소비자 잇는 장터로”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRU0lfYklHaVdRYVhYcEZ3SG80RXZ5NUJjS1F1SERnREc1eUNmVXRYakpKZGNhTXJWSzlYa1Vnc05wQXBSd1ZYWWdVMDMtWmJTdzNLRzhudThqMFhvMkdpRFYxMEp5SWY0cnBlVURRYw?oc=5",
+      "s": "kyongbuk.co.kr",
+      "d": "2026-09-13T05:52:46+00:00"
+    },
     {
       "t": "AI가 띄운 코스피, 중동 악재에 찬물…이번주 FOMC '고비",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdkNsS0lNTWtuX0g3QUtvVmk0X0ZfUHNiNjNDRGFHWlczTFZzWUt6RjUxM2dtZk5LZEN6cW0zWjdMQWFuSFVLTzh0cTJ4NHM?oc=5",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-13T05:32:00+00:00"
     },
     {
-      "t": "김성환 한투證 대표 \"美 금리 변화할 듯…채권 전략 고민 많아\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ySm4xRGd4RGdsSV9Xc3lXMjFPV0tlTm1UVHpnbGNuOU9qMFI1RUVPYk42ZmZTV0loODVQVlFXbGdUMzNsZUU4Q0R0NENhbEdEcHp6OHY2elMxM0hXLWJWWHNydWZiMllfSExzR2hZSlA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-13T05:00:03+00:00"
-    },
-    {
-      "t": "美연준, 고물가에 3년 만의 금리 인상 전망…시장 확률 87%",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yUjVsZ2t6Mk90NHpjOHNhX0QzV1RfcW9qUXVIY29Nd3NQQnhLY0NZRlNTdzJDc0tRb2duaHVqZTIzRFFfYWhBLUtieFJ1WTU5WS1pdG5nRVLSAV5BVV95cUxPTjhQYTJPZ2Nzd2RTQW1LYkw4OWVXUDVOa2d5WEk1dHVKaWpkd0NIdHdrQWItSnRJcjVkQkFPcXlLaGtqQXhPNDlKbG9MN2FfXzkyOG1DWHowcmIzSGRn?oc=5",
-      "s": "뉴스1",
-      "d": "2026-09-13T04:45:44+00:00"
-    },
-    {
-      "t": "\"원달러 환율 두 달 만에 200원 떨어져\"…3분기 절상률 1위",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QRmRyYzB3M05sYzJMeHlqUUx0S0tjRlUtRHRKZ3BiNC1EUjhGaGEyNmlvYWd2SWhsSGpoYXZQUGdFZG0xUi1Rc20yUGZ2bDNPSllVdjNPdHpoVFdTWXhQV09NS3VjUnhlNU0tQWpR?oc=5",
-      "s": "전국매일신문",
-      "d": "2026-09-13T04:36:19+00:00"
-    },
-    {
-      "t": "소외주 랠리 끝나자…고유가·고금리에 다시 반도체로 압축",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BUWd0bXh6OHdjSE1iVHlnVzg0cFhEVXJZS0VrXzFqLTUyM0dMZlB4QTR2bzMwWXFZTzZIcUQ4T3plaDJDTElmclVVZkhhQkFZNEpMakRfMTZJV0YwdmhWVnRBV0g3NUt4S2o5NXloUWsxTWJk?oc=5",
-      "s": "대한경제",
-      "d": "2026-09-13T04:33:37+00:00"
-    },
-    {
-      "t": "李대통령, 국제유가 급등에 “걱정 말라⋯ 휘발유·경유 등 정제유 가격은 계속 안정”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVmNpSjB0TnJheFJ1TDZoTHI5YWg0ZXlxU2hKS2pqdmJjRFMySTdtbWpDMVdfb00ycmEzVHNwazhlcWNmUGJzOVkyMEVwTWU4MFoyR3lzSU5aY1E?oc=5",
-      "s": "강원일보",
-      "d": "2026-09-13T04:31:13+00:00"
-    },
-    {
-      "t": "충북반도체고 박승윤 학생, ‘기특한 명장’ 됐다",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtOTgxMjRIX05fN2dodTNySWZXSlFLMDNZMERVSk9HdEhuOTd0MW9UREJCY3BSOW1jUVAtdUNfVGlZeUhxQ2dsUWhZeTNUUDFyTU13MncxUHVNY1M2dzRmNTg3RUkybkR5S3FvYTZtNGJVUQ?oc=5",
-      "s": "굿모닝충청",
-      "d": "2026-09-13T04:27:03+00:00"
+      "t": "50% 뛰던 수출 2%대로 ‘뚝’⋯ ‘반도체 외끌이’ 韓경제, 내년 성장 비상",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNGswVjBoN2pENzVaR0NRM09jMTJobHZMdTZPaTNQYXJwd1Jsd3FJQllldVA3VE5KbTZ2TnlWNTl2bUhIWnhVWmFKRzhSdUs1LXNFdXZxdXladw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-09-13T05:25:00+00:00"
     }
   ],
   "asof": {},
