@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T07:30:35+00:00",
-  "quotesAt": "2026-09-13T07:30:35+00:00",
-  "newsAt": "2026-09-13T07:30:35+00:00",
+  "fetchedAt": "2026-09-13T07:45:33+00:00",
+  "quotesAt": "2026-09-13T07:45:33+00:00",
+  "newsAt": "2026-09-13T07:45:33+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "中 경유 줄고 아세안 늘었다…한국 반도체 공급망 ‘규제 변수’",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRGROMVNsY2JwM2dBci1pODkzTFVTSy1TQk80ZWkyckt1WHNWMll5NU5QOVFCelZoXzZuSGNIZ3daLUJwc3E4VVpBVDNrd1NVN0hySWs4MzhOSHhKT19KSA?oc=5",
+      "s": "경기신문",
+      "d": "2026-09-13T07:36:30+00:00"
+    },
+    {
+      "t": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-13T07:27:13+00:00"
+    },
+    {
       "t": "원화 강세에 복잡해진 반도체 셈법…삼성·SK, 손익 방어 나선다",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hMjBGTDNjVFRDQy1hd3dOVEF0bzFFS3FkQmtXSVhyX09BSzVOOTN6M19DRkVLZ3BBZnJueFlDMFRZSWVpTmc5T1hiWHlUSDl3U0hYOFl3QWJwU1NzbVRtNHpBazjSAWhBVV95cUxQVjQyRWVEa3lXLU5Samt3dFZsX1VoMHpWd0ZaYzQxRnRac3kwMWxMck5GQ0gzbmlZT3hOUHl5YWdJaGpGUnpmT2Eydl92c0xQLTktS3dPajRWTVZQUEk4RnphYm5OVWlKTQ?oc=5",
       "s": "매일일보",
       "d": "2026-09-13T07:16:44+00:00"
+    },
+    {
+      "t": "국민연금, AI로 환율 변동 분석한다…기금운용에 인공지능 본격 적용",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ISDNUSWJOMzlESUVmdi0xQjNfdklYYUd6TFJIdmdiT1ZYX3c2bDhReUhhNUlvQldWLTdoakROb3VRcFJ5dHE3bkotMWV6WXA4RXc?oc=5",
+      "s": "전라매일",
+      "d": "2026-09-13T07:10:00+00:00"
     },
     {
       "t": "\"AI로 반도체 설계 4주→1주 단축\" 中 EDA 선두기업 승부수",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-13T06:57:00+00:00"
     },
     {
+      "t": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVkZDME5iaUdIU3cxSTc3UVlRYXpMSjhGa1p1ajkxYmZXTGNZR0tlVTlmRTFzYzhLWUFUeVNEa192TXR0eHp0Vnl3dlZGdXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-13T06:47:03+00:00"
+    },
+    {
       "t": "Fed 워시 물가·트럼프 압박에 금리 결정 갈림길",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42dDl5NDZrdC1aeTRBcTRqb2dURHZDc2I2d0tqSG1DUlpDYk5hcFZPODhrS25qbGZYM2xrbWZOVld2N1E5emlQNHg0bmdpRThidG5DVXNmZmVkUEhhNXU4bjMtYUdEOS1QMEVBQTJFdEc1Nm44ekx3?oc=5",
       "s": "thecommoditiesnews.com",
       "d": "2026-09-13T06:31:32+00:00"
-    },
-    {
-      "t": "美 중간선거까지 유가 고공행진?…\"업스트림 전략 짜라\" [노정동의 어쩌다 투자자]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMNUFDaHNqRUNTd3dHV2hnOGZpMXo4ODdtcnZ3QmI5Zl9CYXdyaWltci1hU251SnozSW9rRTRJZ2t0RVdYWHdfTTlnM0xSMFI5VnNhQ1JkalFZUQ?oc=5",
-      "s": "hankyung.com",
-      "d": "2026-09-13T06:29:00+00:00"
-    },
-    {
-      "t": "美·日 인상·英 동결?…이번주 글로벌 금리 ‘슈퍼위크’",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMGpicGNQRnFkUklPajFKQU1xYXJDTHFzZ19OVktWMjRzZHVhWmR1VTZTSmxOSkVBTXA1WFV5MGVIX3V3TUpLYkZZaUlGZmdjdFJJR2VCaUxkb3ctZHVJTzUyVHBOYkI4c0JRQ0UwZlJOOEhI?oc=5",
-      "s": "dnews.co.kr",
-      "d": "2026-09-13T06:28:32+00:00"
-    },
-    {
-      "t": "정부 “회복세 뚜렷” 한은 “물가 집값 우려” … 엇갈린 진단 [주말 Q&A]",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZW1pNm1WcEZFVmVaby10ek0wMHI5YkRoeTdpV0RYSVQtYkxqdVdieGtRLWVuZlRZODZnQjJiNHQxUUFtRUNYRmF0WUdxZkpfOXI1VXZUSk5qMnlNeEFWS3ZrWHlGWF9YdmdybkFR?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-09-13T06:27:47+00:00"
-    },
-    {
-      "t": "베트남 거쳐 미·중으로… 미·중 갈등에 제3국 거친 한국 반도체 수출 비중 늘었다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CUC14VXV5VFpEOEY0M1ZKb2RRWWxFVmRvTklNSEgyOV9YSDM2cDEybTdvWnlCb3hkQTJNb0t0NXdtdlZER3VSWUxNVFhzbHhyd242cmFsRWxwUdIBX0FVX3lxTFBLTVFLQ2NCbGtwZGlkVndzWkpKLVB0RnRrelM1eUhPTkU1Tklua3k5YmU1XzRONGdRYUc2bFU5ZmJRZFJHZ1hHSWVhY01iM3psQzNETEZoQ1VUWGJLVXU4?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-13T06:27:00+00:00"
     }
   ],
   "asof": {},
