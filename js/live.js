@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T06:15:31+00:00",
-  "quotesAt": "2026-09-13T06:15:31+00:00",
-  "newsAt": "2026-09-13T06:15:31+00:00",
+  "fetchedAt": "2026-09-13T06:30:36+00:00",
+  "quotesAt": "2026-09-13T06:30:36+00:00",
+  "newsAt": "2026-09-13T06:30:36+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "정부 “회복세 뚜렷” 한은 “물가 집값 우려” … 엇갈린 진단 [주말 Q&A]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZW1pNm1WcEZFVmVaby10ek0wMHI5YkRoeTdpV0RYSVQtYkxqdVdieGtRLWVuZlRZODZnQjJiNHQxUUFtRUNYRmF0WUdxZkpfOXI1VXZUSk5qMnlNeEFWS3ZrWHlGWF9YdmdybkFR?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-09-13T06:27:47+00:00"
+    },
+    {
+      "t": "고유가 압박 지속에…9월 미 FOMC, 기준금리 인상 나서나",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RkcyNXVfcXJwd3dUNDlsVnhvalBzV3pJVHQ5Qi1CZnlBNnlib1ROaHoyZFlDMEg4WmtUYzdaQVZFU0MySFZmTm0wcXVtZl9UWEFGamJHenBnTXhoamx3SDhxTlhSUmFNa0dLN240R0l1dw?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-13T06:21:00+00:00"
+    },
+    {
       "t": "美 연준 인상 전망에 금융당국 17일 F4 회의 개최",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UUjlpMzFNNzdRSlpyZ29LY3ZBaGtuS1RSb3V1U251dkVnWGtNakN6VUJaQmFlSks4eG5qcVlpYWhRZWRHNE1Wajl3UDI5eXZjRmZrU1ZWSHo2RGk1Q1NwWTNTVU9mSGEzdnc?oc=5",
       "s": "천지일보",
@@ -40,6 +52,12 @@ window.LIVE_DATA = {
       "t": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5",
       "s": "전자신문",
+      "d": "2026-09-13T06:00:00+00:00"
+    },
+    {
+      "t": "[주간 증시 전망] '아스트라 효과'에 7000피 회복…FOMC·국채금리는 변수",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSVdqZFJyYkd6N1VqdHlNMDZFMUNmdWRDeV84UWNJSVNhYlRqZUxvSFBrRU5FTWdndzRGVTEyU1VwdXJ3Q3QySkV6RGNnSFhWbFAySnp1Z202Qjk0WnVTYXFPVDhhekVsdjhuVlNrb9IBc0FVX3lxTFB5Ul9EVlREenI3TlFCUGN1dzRmMjI4UUFTNXNSWEhqVTdzY2NCb3JSSVlJMnVfd1lySUZ5TGtpa0Y3cExjRjVSRVlteW9JUHl4WE9lYkpIZFpYbF9GVWpZTUpvWjBDQ3F0enlRQlBISU4zOE0?oc=5",
+      "s": "뉴스웍스",
       "d": "2026-09-13T06:00:00+00:00"
     },
     {
@@ -63,26 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "AI 모멘텀에 7000피 돌파했다 다시 미끌…'금리 인상' 주목 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uVVlLZWFMVDhjRFR2UUlPYnNvMnZSSWl6UFFVNWVCWWdvN2Flb1c1UElHWDgyZm91LWFEa1BNOFpJWVlQZjBONnRPSGNRVHBSbW9aZXZiV3N6c3pxSEsxM3ZTUEstV2R6LW91MTFPRTFRSTFEd3fSAXtBVV95cUxOYkdXODFhQTZYUU90X216MW9hZEtkeHNkdUFxWEJla3VYVFBjWkU3V21sVGUtbkRkUzE0V2FfUERWdlhFd2k3ZzlRN3BjWjl3bm1mTEwwdEZzMkN3WHQzZUlFTnhoRTQ2YVBWT3B6Q1JaRWFydkNhTUhnSHM?oc=5",
-      "s": "머니투데이",
+      "s": "mt.co.kr",
       "d": "2026-09-13T05:50:12+00:00"
-    },
-    {
-      "t": "유럽 증시는 천연가스 가격 급등에 얼마나 취약한가?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwd0xRUVcxZ1BzUm5ibzVxVmh6NFBiNjJsYU91NF9VWVNmOXVOREI5N0VrLU9YREV1YWNObjNtdkJoOEJ0U0dpLTRMVTBYR25ZOVFnQk8xWWtGZGp6U0w3Q0ZsMHJDUVhrV3c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-13T05:45:00+00:00"
-    },
-    {
-      "t": "한국, 반도체 기술 보호 위해 간첩법 확대 시행",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oU3pad1k0ek9mSFktTUVwRnU5WkNabVI5MlZoTU8yNnpSRHJtVGFSelJTaEQ3a3dFMmNpbllxWHZmcDJoamVnOG0tclJ0Qlp5QWV1OWxpQXZOVVlSQ29uZUViWWNfN1M1Zmc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-13T05:32:00+00:00"
-    },
-    {
-      "t": "50% 뛰던 수출 2%대로 ‘뚝’⋯ ‘반도체 외끌이’ 韓경제, 내년 성장 비상",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNGswVjBoN2pENzVaR0NRM09jMTJobHZMdTZPaTNQYXJwd1Jsd3FJQllldVA3VE5KbTZ2TnlWNTl2bUhIWnhVWmFKRzhSdUs1LXNFdXZxdXladw?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-09-13T05:25:00+00:00"
     }
   ],
   "asof": {},
