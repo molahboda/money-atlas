@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T07:45:33+00:00",
-  "quotesAt": "2026-09-13T07:45:33+00:00",
-  "newsAt": "2026-09-13T07:45:33+00:00",
+  "fetchedAt": "2026-09-13T08:00:39+00:00",
+  "quotesAt": "2026-09-13T08:00:39+00:00",
+  "newsAt": "2026-09-13T08:00:39+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -31,6 +31,12 @@ window.LIVE_DATA = {
       "d": "2026-09-13T07:36:30+00:00"
     },
     {
+      "t": "코스피 6900인데…1년 전보다 싼 대형주들",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NeEM2VlJxSHZQM1J1V1JObnlTNUdhdGVlMDNCMUFTWVBuQ3p6cmV3R3NlRXhVV2RjTDNtWjVkYkllQnVUbEd5ZnQ1Vkhla1RrVWZBR05NUVdJZ9IBWEFVX3lxTE5kRHBMLW1YUWlCUTU2WVptcVlyaXpmVThZdmViRzlYdTVtUVZweE1rclRtdUJjSkZaRHFIZTR3VXNnclkwUkVsZnctS3VoX21kaWExMTFJcVU?oc=5",
+      "s": "아주경제",
+      "d": "2026-09-13T07:28:28+00:00"
+    },
+    {
       "t": "국제 유가 연말에 더 올라, 사우디 공급 불안에 中 수요 주목",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
       "s": "v.daum.net",
@@ -41,12 +47,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hMjBGTDNjVFRDQy1hd3dOVEF0bzFFS3FkQmtXSVhyX09BSzVOOTN6M19DRkVLZ3BBZnJueFlDMFRZSWVpTmc5T1hiWHlUSDl3U0hYOFl3QWJwU1NzbVRtNHpBazjSAWhBVV95cUxQVjQyRWVEa3lXLU5Samt3dFZsX1VoMHpWd0ZaYzQxRnRac3kwMWxMck5GQ0gzbmlZT3hOUHl5YWdJaGpGUnpmT2Eydl92c0xQLTktS3dPajRWTVZQUEk4RnphYm5OVWlKTQ?oc=5",
       "s": "매일일보",
       "d": "2026-09-13T07:16:44+00:00"
-    },
-    {
-      "t": "국민연금, AI로 환율 변동 분석한다…기금운용에 인공지능 본격 적용",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ISDNUSWJOMzlESUVmdi0xQjNfdklYYUd6TFJIdmdiT1ZYX3c2bDhReUhhNUlvQldWLTdoakROb3VRcFJ5dHE3bkotMWV6WXA4RXc?oc=5",
-      "s": "전라매일",
-      "d": "2026-09-13T07:10:00+00:00"
     },
     {
       "t": "\"AI로 반도체 설계 4주→1주 단축\" 中 EDA 선두기업 승부수",
