@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T08:00:39+00:00",
-  "quotesAt": "2026-09-13T08:00:39+00:00",
-  "newsAt": "2026-09-13T08:00:39+00:00",
+  "fetchedAt": "2026-09-13T08:15:36+00:00",
+  "quotesAt": "2026-09-13T08:15:36+00:00",
+  "newsAt": "2026-09-13T08:15:36+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -25,8 +25,32 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[뉴욕채권-주간] 단발일까 추가 인상 있을까…장기금리 반응 촉각",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xdkJKd2lIRWhoandLdl93T3J6MFlRbWV3VTU0a1dsZWZzQWhrTmFCLVVudUVNT2x5ZXBDbFpUU3EwcDlXMVVsRVFvNEVQaGgtOFRfakl4UU9wdmtTNmZQQUxKZXhQVXBPX3lUT1NXMGw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-13T08:05:10+00:00"
+    },
+    {
+      "t": "미·이란 충돌에 유가 100달러 돌파…韓금융권 중동 위험노출 1조↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMnBhNmx1RHdwSHhJSzVnd0g0ekNQSEpuTkNwb2JTQjEzWkwwdjdpcjFlaVVHVE00aHNoc0w5dTBqbGNOc0Y2cmhtZlJLX3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-13T08:04:07+00:00"
+    },
+    {
+      "t": "[주간환율전망] 유가 급등에 하락세 '제동'···FOMC·BOJ에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HenFBZHJMWTBscmZaOS1LVVRPdnhwU2Q2ZkpBcHU2WFRFMmhxam5DZXhmNjIzdS1qdDNHVks0T0k5OHN5Z21CbmJ1RWQ4U21mYm15UzlTRmF3emtzcFFfUzhKUjdMYlE1YkE?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-09-13T08:00:00+00:00"
+    },
+    {
+      "t": "“일단은 좀 두고 봅시다”…원화 강세 속 외국인 수급에 방향 달린 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iNEw3aHpYT0tpa3l0dy01OWdFMWRUaGx3Vkl1SlVLaHBpNEdMWmhuVlhBLW1MeldfMDA3U2lZS2VtNnZTLTBIOW0wYXRtbUJITWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-13T07:53:43+00:00"
+    },
+    {
       "t": "中 경유 줄고 아세안 늘었다…한국 반도체 공급망 ‘규제 변수’",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRGROMVNsY2JwM2dBci1pODkzTFVTSy1TQk80ZWkyckt1WHNWMll5NU5QOVFCelZoXzZuSGNIZ3daLUJwc3E4VVpBVDNrd1NVN0hySWs4MzhOSHhKT19KSA?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QWkJTTU1NZ0lQQWV4a1BzNENjS0dQMXpxX2pZbjhWZXdZRWNsaU9NVmVQaVl6RFhrSzNtN09QYnh6bkRaRFNtWmxDNlhHOE9WLUxsUkc4cXZpdS16am9rdVpmVE8?oc=5",
       "s": "경기신문",
       "d": "2026-09-13T07:36:30+00:00"
     },
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdU1TSmRTRUp2Ul9nSTNMUFFTdDZYM0FBc01QNVNQSGo5eVlYVnItZXl6NW95ZHVMQnJhV0JzUUZ2cXhQbTBBaS1CSTUtTXM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-13T07:04:00+00:00"
-    },
-    {
-      "t": "유가 눌러온 중국, 다시 원유 사나…100달러 이후 향방 가를 새 변수",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlazNLTXhzNEpQTE1FbGk3emRxTnJCOHlYTEZSdWttdERFR2FUTnNoY01VZ1NVQXB3V2xaY0VtYk5rUWg0bmlhdVlsOXZNaHBTS0luQktaQW9ZUdIBX0FVX3lxTE92VlNhdlpoam5mM3pTYUJaX0UzMTd4X2R3dHdNcWptNVE2TWgyQ0JwUS1PWTJtemVoTFpsTVd5Q0w4aWdPNlV4MFlqcmcwLVZEMWZVWXRtamJxdGVtTHNN?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-13T07:02:00+00:00"
-    },
-    {
-      "t": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nLVoxNE5HS0UxR3pocWM1SXNlcnk2UG5samJIUzF1LWhuQURaRWwwSzBoYkVhbkdJTElHSGllMTAzMUdGaHd4b3dQNjJPakN6M0hIM3VUVl9SUdIBX0FVX3lxTE9fY2l2MXczNmVZREVCOGJTMFBVa2ZfVkJrc0dvamktbEJndERyTlh3T083RzFOcm9ENXJfZ0I2dGVkTTM1cnNsc202X3RkYVdQWE80ZTZtWjJnNnpMTjk0?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-13T06:57:00+00:00"
-    },
-    {
-      "t": "은행권 정기예금 금리 줄인상⋯증시·대출자금 향방 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VVkZDME5iaUdIU3cxSTc3UVlRYXpMSjhGa1p1ajkxYmZXTGNZR0tlVTlmRTFzYzhLWUFUeVNEa192TXR0eHp0Vnl3dlZGdXc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-13T06:47:03+00:00"
-    },
-    {
-      "t": "Fed 워시 물가·트럼프 압박에 금리 결정 갈림길",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42dDl5NDZrdC1aeTRBcTRqb2dURHZDc2I2d0tqSG1DUlpDYk5hcFZPODhrS25qbGZYM2xrbWZOVld2N1E5emlQNHg0bmdpRThidG5DVXNmZmVkUEhhNXU4bjMtYUdEOS1QMEVBQTJFdEc1Nm44ekx3?oc=5",
-      "s": "thecommoditiesnews.com",
-      "d": "2026-09-13T06:31:32+00:00"
     }
   ],
   "asof": {},
