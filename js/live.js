@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-13T08:15:36+00:00",
-  "quotesAt": "2026-09-13T08:15:36+00:00",
-  "newsAt": "2026-09-13T08:15:36+00:00",
+  "fetchedAt": "2026-09-13T08:30:33+00:00",
+  "quotesAt": "2026-09-13T08:30:33+00:00",
+  "newsAt": "2026-09-13T08:30:33+00:00",
   "quotes": {
     "kospi": 6909.91,
     "spx": 7656.98,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -11.21
   },
   "news": [
+    {
+      "t": "시장금리 꺾이면 하이닉스·엔비디아…고금리 버틸 전력기기도 주목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlT1MtLVNOaGRmSUtGb0xDQUI3cGpDcVVLUnZzQ09DbGZmTzJHcGlrWnVNeUI0NkdfMVhkcUZKcmtKZTJ2WXl3eFZqNlc5RlIzVkh5ZmN2UkdOUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-13T08:23:11+00:00"
+    },
+    {
+      "t": "후지쓰, AI 반도체 내년 첫 수출…TSMC가 생산 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUlReDlaMWdKMlFweEtMWnNzNUh4TmZvNERkTjE2UjRSS1dfVzg4UFYyOW1yd0VwLWVhajAxbUNpZFZURG1BSTcwWDY2WUxBR1ZOQ0xvaEs5bmJSQTRMQ3lsSU9TVGFRdWhYUDVIeERMRVBQLVhtLU9Va1JxTEl1WXln0gGWAUFVX3lxTE9lQkdRS3JNak5Zd1pxWmlVbjY4ZWJuaG9UMmFxQXdRbHZyWDFCOEVLeWNPaGdER19JcFhfOGNpZno4NHZNYTJZTm8zc0JxVFhKNjlib2preUczNEs0VWNCYlFCTmZGLTVGRjlFRnFwM2JYTTBhWnhYeTc0T29rMEpQYm5qN3dOYm45OGs0QjBKSGNxdWx5dw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-13T08:16:00+00:00"
+    },
+    {
+      "t": "[뉴욕환시-주간] 함께 금리 올리는 美·日…어느 쪽이 더 매파적일까",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMWFXb2hLMTZQWGxsZXpEb0pIN2ZWWVdySUk4UGw4TUxhWVVlZEduMlNVcDZ2eWtBOUNubHM0T2wtc3U5aVk4Y3YtQkZfUE1jNWtXSmllcVNMbGVOOXJOOTdVcVFmbG9KZWR6RFowa3o?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-13T08:09:12+00:00"
+    },
     {
       "t": "[뉴욕채권-주간] 단발일까 추가 인상 있을까…장기금리 반응 촉각",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xdkJKd2lIRWhoandLdl93T3J6MFlRbWV3VTU0a1dsZWZzQWhrTmFCLVVudUVNT2x5ZXBDbFpUU3EwcDlXMVVsRVFvNEVQaGgtOFRfakl4UU9wdmtTNmZQQUxKZXhQVXBPX3lUT1NXMGw?oc=5",
@@ -50,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "中 경유 줄고 아세안 늘었다…한국 반도체 공급망 ‘규제 변수’",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QWkJTTU1NZ0lQQWV4a1BzNENjS0dQMXpxX2pZbjhWZXdZRWNsaU9NVmVQaVl6RFhrSzNtN09QYnh6bkRaRFNtWmxDNlhHOE9WLUxsUkc4cXZpdS16am9rdVpmVE8?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRGROMVNsY2JwM2dBci1pODkzTFVTSy1TQk80ZWkyckt1WHNWMll5NU5QOVFCelZoXzZuSGNIZ3daLUJwc3E4VVpBVDNrd1NVN0hySWs4MzhOSHhKT19KSA?oc=5",
       "s": "경기신문",
       "d": "2026-09-13T07:36:30+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pd0NWanFoMFBuS3RoUG01YXlYcjM4R1laMlRKX0dseTBFQkQyYjR6Mm4wUmRDYktQdlluT3Z0alRJVnVRZGEzQkZBUnRqc0E?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-13T07:27:13+00:00"
-    },
-    {
-      "t": "원화 강세에 복잡해진 반도체 셈법…삼성·SK, 손익 방어 나선다",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hMjBGTDNjVFRDQy1hd3dOVEF0bzFFS3FkQmtXSVhyX09BSzVOOTN6M19DRkVLZ3BBZnJueFlDMFRZSWVpTmc5T1hiWHlUSDl3U0hYOFl3QWJwU1NzbVRtNHpBazjSAWhBVV95cUxQVjQyRWVEa3lXLU5Samt3dFZsX1VoMHpWd0ZaYzQxRnRac3kwMWxMck5GQ0gzbmlZT3hOUHl5YWdJaGpGUnpmT2Eydl92c0xQLTktS3dPajRWTVZQUEk4RnphYm5OVWlKTQ?oc=5",
-      "s": "매일일보",
-      "d": "2026-09-13T07:16:44+00:00"
-    },
-    {
-      "t": "\"AI로 반도체 설계 4주→1주 단축\" 中 EDA 선두기업 승부수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52ajFJeUlJdTVXbDNvTVcyVjRPUHNqVmw2YUFRSkpsZWFGVzhMekxIcWE4RTBJcVI5ZTdrNzZwS1ZUQjVvU0l2eEdpMWw2bWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-13T07:09:00+00:00"
-    },
-    {
-      "t": "\"연장했더니 4%→7%\"…마통 차주 덮친 금리 상승",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrdU1TSmRTRUp2Ul9nSTNMUFFTdDZYM0FBc01QNVNQSGo5eVlYVnItZXl6NW95ZHVMQnJhV0JzUUZ2cXhQbTBBaS1CSTUtTXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-13T07:04:00+00:00"
     }
   ],
   "asof": {},
