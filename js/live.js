@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-14T10:00:49+00:00",
-  "quotesAt": "2026-09-14T10:00:49+00:00",
-  "newsAt": "2026-09-14T10:00:49+00:00",
+  "fetchedAt": "2026-09-14T10:15:33+00:00",
+  "quotesAt": "2026-09-14T10:15:33+00:00",
+  "newsAt": "2026-09-14T10:15:33+00:00",
   "quotes": {
     "kospi": 6684.37,
     "spx": 7656.98,
     "nikkei": 63492.99,
-    "vix": 18.13,
-    "krw": 1344.47,
-    "gold": 4322.2,
-    "wti": 102.77,
-    "dxy": 99.55
+    "vix": 18.06,
+    "krw": 1344.67,
+    "gold": 4323.9,
+    "wti": 102.63,
+    "dxy": 99.57
   },
   "daily": {
     "spx": 0.27,
     "kospi": -4.97,
     "nikkei": -0.81,
-    "krw": -0.27,
-    "dxy": 0.43,
-    "gold": -1.97,
-    "wti": 2.72,
-    "vix": 14.46
+    "krw": -0.26,
+    "dxy": 0.45,
+    "gold": -1.93,
+    "wti": 2.58,
+    "vix": 14.02
   },
   "news": [
     {
-      "t": "국내 반도체 13조 털어낸 개미…환율 타고 美 증시행",
-      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5c0tIbUptSy1SX3FJVmNob1JJb3lxSHdZUHJGM0RPVWNuclItMFprcVlkZDY4dndzeHJnNUxRNTlRa0VWb2hpYV82Yw?oc=5",
-      "s": "아이뉴스24",
-      "d": "2026-09-13T08:54:14+00:00"
-    },
-    {
-      "t": "이형일 \"레버리지 국정조사 필요 여부는 국회 판단 존중\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSVlERjZ6NURyQUNVOU5uRUxJZzF0SGxTc2ktMk9ZSVBhY2FhNWRmNElLS1NwSHV2RUoxQm5JZ1BCZzNCdTZXMTMtQ0h2U0pXWlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-13T08:51:53+00:00"
-    },
-    {
-      "t": "[한주간 주요 경제·암호화폐 일정] 美 FOMC 금리결정 外",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NUnVHNUplOFhPNlVtNTZKcEQ0dmVWeU1Uek1CQU5Hek8yczc5WV8wdnZMWi0teVNQS2cwTWZuR3ZNTi1DTTlIRHEzbXJ3QUsy?oc=5",
-      "s": "bloomingbit.io",
-      "d": "2026-09-13T08:51:25+00:00"
-    },
-    {
-      "t": "유가·물가·금리 ‘3고 충격’에 글로벌 긴축 본격화…어두워진 한국 경제 시계",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05ZHh1NXVQaWtTNmtDZzJBSnNvcGo5WVdaVkM3SmYtejAxOUpwNDlhWG9YSlFYN29rUnVfdkZHOHFXTGpVSkxTTzNvT1BfWXJseUFqMjdR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-13T08:51:12+00:00"
-    },
-    {
-      "t": "“연말 금값 얼마까지?” ‘이 경우’엔 5000달러 뚫는다 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jYXNHdlV6bmtsY0Q2Y3BhY3NKaDV4UThMZVNLZGJFMGRpaTlPTHlJLWdlNFI5RmthdVNjNEFaZ0MxV3A4OHN1TjYwZkU3ZWc?oc=5",
+      "t": "‘AI 속도조절론’ 악재 속 코스피 ‘3%대 급락’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SZEs5RmhoUVotMDc3VGQ1Mjc1Und6U2paaWZkdmxsNEc1cVBZWFhkNURadHJFNGdnNWdjVFFPSUUwcmVqdnlfYXcxRkh6U3M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-13T08:42:09+00:00"
+      "d": "2026-09-14T10:12:09+00:00"
     },
     {
-      "t": "[표] 외국환율고시표",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KVlQ5NGk1OFIzS2lQU29yQnF1TTFISkREWDNFRzN3UUdBaGtLZ2pwMXR4eFZVYkEtelJYVUtNSm1wX0hVY0NTNVdzRkJNQUctZnc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-13T08:38:14+00:00"
+      "t": "獨 10년물 국채금리, 3.54%대 등락…17년 만에 최고 종가 넘봐",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0cW85V0paYVJzajNKXzJWazExVkxtS2pfUXpMWUxTMHZGbVVkYTIwNFZHd1U5Vm9GLV9CV0dNZTRHSXZ1Y2dXTFBsWFV2R1ptRE5MbGpSd3otazd5cDBPY0lrTF92ZVVoUllmTWk4Wmo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-14T09:58:53+00:00"
     },
     {
-      "t": "금오공대, 2029년까지 반도체·AI 제조로봇 인재 3000명 양성",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kYVJiOUxkd0pELVllRU5JVlZPdTk0dHZnaC1pSFRzSDBhcFBua1hGTkx4dVlkN2lPelBKWUJfSU5ra3g2RTcwc1ZEVnMtZGpXcEZIcEVZRVRLZUxmQzZTQ3JXeDUybXNCZm50ZXluQQ?oc=5",
-      "s": "kyongbuk.co.kr",
-      "d": "2026-09-13T08:32:57+00:00"
+      "t": "뱅크오브아메리카, 연준 인상 전망에도 연말까지 달러 횡보 예상",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1VU5yd1V4UTlrVENvZUJmclAxTDBlTWd3WDktM3hVSDBMX1BTQ2NybWJKdVZiSDhkTUlnTHdSSEo3VmJUaS1FY0QwRGJOdHpDb3R4SHNBMk9nV3QyMS03bjljVzN0SndHTEc0dnlR?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-14T09:56:00+00:00"
     },
     {
-      "t": "다시 불붙은 중동전쟁에 유가 급등…하반기 물가 관리 ‘분수령’으로",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PSWUzc0tmSE9iVDAtRko0UnNXUW9Qb1N0SGRUcGtqaFhTZEVZT3JGNEpqczVRbGw3VGgtaGdyVzFHS2p6eFpELWNLWW9Bd0R5bGw1UE9ESW81WTFMZHpnMXlJT2NTZnZDS3NKX3h3?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-09-13T08:29:12+00:00"
+      "t": "[중국증시-마감] AI 경계·유가 급등 속 저가 매수로 보합",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MWlI3em10WXhDTEc5SlhYXzFKeEJDQjdiVlRXVjRhc0l1SzJsalBFaDk2MWNoYVBya3VpVWFoYmxPUjJUY2p6dnZtejdqZ2JYNFd5ZTJFNkZ5QzZGV25iMkFFcDJseHFIS2dZQWU1aWY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-14T09:55:17+00:00"
     },
     {
-      "t": "시장금리 꺾이면 하이닉스·엔비디아…고금리 버틸 전력기기도 주목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlT1MtLVNOaGRmSUtGb0xDQUI3cGpDcVVLUnZzQ09DbGZmTzJHcGlrWnVNeUI0NkdfMVhkcUZKcmtKZTJ2WXl3eFZqNlc5RlIzVkh5ZmN2UkdOUQ?oc=5",
-      "s": "hankyung.com",
-      "d": "2026-09-13T08:23:11+00:00"
+      "t": "IRS 금리, 대체로 하락…장기 구간 오퍼·본드포워드 추정 물량 관측",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sakhiR1NKR0lyc1FzV0tmYnNFUjByOEZUMkxLS09YenpHX2FjenBrUlZSVFB2SjlPcktiNUxRdmN4V3FpMUstb3RrQmNWa05VMnNMOVVwUC1NNjR2STgyNHNhQ2hoU3d5eGswZFdPbk_SAXRBVV95cUxOQTFCR0F6c3BXeG80YWs1SzJabllQNjdmaEtQSFl1WDRZR2U3Z1lmbi1fWklVMktVYVNXSC10RzJiUnBUZVpaLTBnTlpPVUx5eGZ1blF2dEluSjVySnk5WUtpSWUzb0lid1RpNjU4WnVFRXVjQw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-14T09:47:32+00:00"
     },
     {
-      "t": "용인시·UNIST, 반도체·AI 최고위 과정 6기 14주 교육 돌입",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VMmMxRWwxUUhRMzVab2xYWUM5eEVBSVUyMHpmazdseXpRWHRxdHc2Wm9lMFVkSzhiWlVQQUltalJFZm5WZnJBclFRZkpVdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-09-13T08:16:14+00:00"
+      "t": "트럼프, 아이리시오픈 우승컵 전달…\"위스키 관세 폐지\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BRkFLOGxaaHFDZ2dmZ0xmY042Vi1vbVZkVEVWeFRMVllCTGlnMXU5NEhmZ0ZuS2J4Ulo4VWRvOWpDbTZORDc4VGRBajBKaXBtdXM5YV81bnFLQWVac0JhWGJMUU5JZU0?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-14T09:43:00+00:00"
+    },
+    {
+      "t": "[채권-마감] 중단기 금리 약보합…外人 매수·코스피 급락에 선방",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6TzEySFRSLTBRQ0N1S1BoOFB5bXRSOW9TMGQ4ZExsMjBmck9NM3JzRHlGamZ4N3RYRmI3aUg0NERxakw1UjJpQUptamNmWWxVRllQRGM4NWtxa1ltWHlPU3JFTnlCeTVCWVlBTi0yMmE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-14T09:41:36+00:00"
+    },
+    {
+      "t": "[이슈콘서트] 삼성전자·SK하이닉스 주가 다시 불붙나…반도체 수요 새 국면?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LN3FQdXphdUlZa19CdTFJSkdsQjZnaTlUZnpqSHhVenJsbzZqY2dkY2NEVWZBcVJtaVBfVmQ4OFBaeUJDdW9LSmI5SHFmRGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-14T09:38:55+00:00"
+    },
+    {
+      "t": "도이체방크, 연준 회의가 주식 변동성 키울 수 있다 경고",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zTFVJa2NpcXM4YVVHQzYwVnlUc0NQTTJ1TG54YklRUWtwZTZoVldLWFd2bDN2RTdGQ3RUZEZWUnkzcE53cEhGZzNqUVNURmRuNkZFcHJCcGtxVXFPaXpib1pPVnlsYTFtUV9TN3d4XzBMSjJxSUFN?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-14T09:32:00+00:00"
+    },
+    {
+      "t": "코스피, 3%대 급락…미 FOMC 경계감",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wTlBnRGtPUkdQN3YzNEFLNVhnZzdkX200UC0zRW9JMm5kbEl3ZVdPMWpackRFQXRXNXB6TnJMdW5kQkF0c0ZVTUpmR2xUQnhaZ29DOFBGMTI1cUJIUkxNYlZNWDJyTkk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-14T09:27:00+00:00"
     }
   ],
   "asof": {},
