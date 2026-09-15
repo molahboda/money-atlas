@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-15T05:30:35+00:00",
-  "quotesAt": "2026-09-15T05:30:35+00:00",
-  "newsAt": "2026-09-15T05:30:35+00:00",
+  "fetchedAt": "2026-09-15T05:45:33+00:00",
+  "quotesAt": "2026-09-15T05:45:33+00:00",
+  "newsAt": "2026-09-15T05:45:33+00:00",
   "quotes": {
-    "kospi": 6606.22,
+    "kospi": 6590.71,
     "spx": 7619.98,
-    "nikkei": 63242.3,
+    "nikkei": 63498.01,
     "vix": 17.1,
-    "krw": 1355.81,
-    "gold": 4341.1,
-    "wti": 103.25,
-    "dxy": 99.63
+    "krw": 1355.27,
+    "gold": 4333,
+    "wti": 103.34,
+    "dxy": 99.64
   },
   "daily": {
     "spx": 0.37,
-    "kospi": -4.39,
-    "nikkei": -0.39,
-    "krw": 0.83,
-    "dxy": 0.17,
-    "gold": -0.25,
-    "wti": 1.83,
+    "kospi": -4.62,
+    "nikkei": 0.01,
+    "krw": 0.79,
+    "dxy": 0.18,
+    "gold": -0.43,
+    "wti": 1.92,
     "vix": 7.95
   },
   "news": [
+    {
+      "t": "200원 내린 달러·원 환율... 수출 달러 소진에 반등하나",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xd0ZMZ2ZUVDJBMVZtem1NVzNKR1ZNWUtJTGJwV1FydXdYeDdaRmVhVGFhVW1TZUlaUmp6N0JVUmF2Y2ZWMTlMSE43OTZLMmotMXBGTE9kc1hhOW1Zd0EzZVIzeVLSAWhBVV95cUxNRzhVeGY2eFJEaFJjdm5ZVjNtc1J4T0wxUFhjakpCXzBNbnlvN1d3SmZzNnprZ2RqMEdMWmZod3MteGxMN3hrejh2dmhud2NHUG9wOHR2ZHpPaVJRa0dKWFFuUzhkNDg1eQ?oc=5",
+      "s": "매일일보",
+      "d": "2026-09-15T05:37:04+00:00"
+    },
+    {
+      "t": "미국 10년물 국채 금리가 오늘 급등하는 이유는?",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tdlU5TUFXSEpobUVXN0pRMTl1azVmMzlwbEFhVGF5RjdaeU5SX2E3Vk5WalVWa0VIY0Z2TXVzckJoSHFET0xvVXNFN2hucVhQOWVwcVE4UTFXSTl4SGE2aXRjUEl6ajk1MEozZ2tVZmVpTHVTeWU0?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-15T05:36:00+00:00"
+    },
+    {
+      "t": "자금 유입 둔화에 돈줄 마른 코스피… 석달만에 시총 2000조 증발",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14YjM3cFZfN0paT3dhTV9DZGtMeFZPU2VYQ3BESG41NFRSMWZFX1lTc0pBQTFEZUtsTjhJUjI4S0ptbkU0REJXYnFlcjVPenVIR3VXbGk1T3NNR2ZpWFJZQTdZWXdFcHRtdmE3bGxEZzY?oc=5",
+      "s": "산경일보",
+      "d": "2026-09-15T05:31:34+00:00"
+    },
     {
       "t": "유가·美국채금리, 7년래 가장 높은 상관관계…증시에는 악재",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JZzJqTmhzOFJTdEJ5NzJLN2NnRzRlS2hXcWkxYVBJTVMzYXJJcUdmN1JPNjcwZThHZjNqaXI2NWFzSG1NQVZJZkY1bTNIUmlBRU1Rb1NsOTJRWW1Qb2RrXzVHUkcyWEdNYTRETlNsclhyQQ?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUVGVjlpOVRVRG4ycEJaSjN2ckJrY1ZUUFBTZ3N2SVdXLUI1bXhKS1diVFNjeDVWV0E3dnRISmJMZkhlVTVLTWdmdVR2N2NUNlBPX01nRHBhUk5VNmtOektkVlJ4MFNnSkxPYWRibkdwVUoxT1FrTjM0LWlZWVM4QWxmSQ?oc=5",
       "s": "인베스트조선",
       "d": "2026-09-15T05:00:00+00:00"
-    },
-    {
-      "t": "[출렁이는 글로벌증시] ②마지노선 넘긴 美 국채금리...\"금리 동결시 더 큰 문제\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ObjZ0NXBuczhxN3Vua2F1VGtnOHJ1c3BCU2d0c2FIV0RyRFlnc1FoNG0xVnU2Vk1jbGFMRTZUajhNSWd0RE1xZTliZ0ZONlgyclRzX1BCZFdHc3g2WGRRdXlsZUd6Mm1iMmtWT2Y0YVc?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-15T04:54:04+00:00"
-    },
-    {
-      "t": "반도체 폐수, ‘법적 기준’ 넘어 안전한 물순환에 투자해야",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FeThnUzdhTXd6cTZSdng4TTNzYUlrY2FzSFgtRjhLY3dMTTlfUUJpdkk0UE9RbnJDU3FZTm1jZ1VEeGRUZklabTFXQUNxSHBUdVVnLXllYXNyODA?oc=5",
-      "s": "강찬수의 에코파일",
-      "d": "2026-09-15T04:41:38+00:00"
-    },
-    {
-      "t": "후티 전방위 공세…사우디 최악 위기 속 유가↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwSmlCY3Jaa25tWnAwYnJCREFMUkhiNFc1Z0pxeUoyS3NJUjhhUnJVcWN0cWd0bjdUWjhlV1BhLU5BOGhUVFFGTWgwMEdCbFNTUXNvaE9fa2cwaXRBSGNpU0FHNDA3Ymc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-15T04:38:00+00:00"
     }
   ],
   "asof": {},
