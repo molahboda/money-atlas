@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-16T07:15:33+00:00",
-  "quotesAt": "2026-09-16T07:15:33+00:00",
-  "newsAt": "2026-09-16T07:15:33+00:00",
+  "fetchedAt": "2026-09-16T07:30:36+00:00",
+  "quotesAt": "2026-09-16T07:30:36+00:00",
+  "newsAt": "2026-09-16T07:30:36+00:00",
   "quotes": {
     "kospi": 6717.97,
     "spx": 7585.73,
     "nikkei": 63923,
-    "vix": 17.2,
-    "krw": 1365.38,
+    "vix": 16.9,
+    "krw": 1365.18,
     "gold": 4373.4,
-    "wti": 103.77,
-    "dxy": 99.6
+    "wti": 104.25,
+    "dxy": 99.59
   },
   "daily": {
     "spx": -0.93,
     "kospi": 0.5,
     "nikkei": 0.69,
-    "krw": 1.47,
-    "dxy": -0.05,
+    "krw": 1.45,
+    "dxy": -0.06,
     "gold": 0.94,
-    "wti": -1.95,
-    "vix": 0
+    "wti": -1.49,
+    "vix": -1.74
   },
   "news": [
+    {
+      "t": "[도쿄환시] 급등한 국제유가에 달러-엔 상승…FOMC 대기",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNm96VXozUURTaTdHbHB4OXRnc1E0Sms2dXp3alBaVklCMENyYVJSWFo5cHIwNmw0cFNzOVhUc280RHZFTUZsSEJna09TcDVoOTBVdU8zV2pWaWRPOFBna0JMbldmWDRRdXpXTUh1Q1I?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-16T07:22:18+00:00"
+    },
+    {
+      "t": "연준, 3년 2개월 만의 인상 초읽기…워시-트럼프 충돌 위기",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xQXFvTGZkaXFXQ3pwS2stU3JmWWlmS2hxTWxjVFdRUlMxcS0wLTJYRDgzZ1BYV1JmSTd2SFM0ektMVzdQZ0VXeGJfWHcwUVE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-16T07:19:55+00:00"
+    },
+    {
+      "t": "[중국증시 마감] 美 금리 인상 전망에도 기술주 질주…'커촹50' 4.14% 급등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hMGRWTF94bHF5ZUQ1aTVKUFVIT1p6SHBCekVOUnVtSHN6NWlXakFWNDQ2TDVWUlc2RnRxZzZWY2IzUmsyckxEWHBvMDNENUdRT0Noc3huaGFLNXpE?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-16T07:15:00+00:00"
+    },
+    {
+      "t": "유럽 증시, 3개월 최저치에서 반등…연준 금리 결정 앞두고 관망세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOWZjREdqUDFkaDFXcVZSYzRzRFVBTVpnZHdqc2ZicWVoemtmMUtuSXpvckFwcXlmUTFIX3ptcFVZZXhQMk5NNVFITmZoQ21mQ0pvVnpsdkVheWtsTi1RSTNtamxhYUd6Q3VXVTJtS3E?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-09-16T07:13:00+00:00"
+    },
+    {
+      "t": "코스피 6,700선 회복···'삼전닉스' 견인",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQVF0alVGQm51VmhYeWMzWHlZSlZENWlpMGRUcElOcC1aanJWSUZ4QUxDNGxUeFBoV3FPeWQxd1BnQm9BYjBWbDcyY0Q4eDA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-16T07:12:52+00:00"
+    },
     {
       "t": "50조 웃돌던 코스피 일평균 거래대금, 20조로 뚝…올해 최저(종합)",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUXZCNTk4bmJCYmoyVk8yY1JkcFRBVzFqdjczOUdKUzZnaDZJN3lVSWxMT201cW9XbDZMYXhUVllrUWFPbG4zbU5LTml0SDA?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-16T07:11:54+00:00"
+    },
+    {
+      "t": "비트코인, 클래리티 법안 부결로 $76,000 아래로 하락…연준 금리 결정 주목",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EOUE1TGRDSTM1RDFSTzR2a1J6NjUyLVBLZjJ6akZkNWVtbDFiOXNwRGFGakRzck9SNXRlZWx3a1Q5M0xUd1FqTVJtbG5MNlhWQU5UdXlESXQ1dnA4M1JrTWxGZXVXTldYVUVKaXltUzFuS28?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-09-16T07:11:00+00:00"
     },
     {
       "t": "코스피, FOMC 경계감 속 1%대 상승…닷새만에 반등(종합)",
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-16T07:10:48+00:00"
     },
     {
+      "t": "코스피, 반도체주 오름세에 5거래일 만에 상승 마감‥6,700선 회복",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02amUzTzNyVTFCV3RyZnQxMVlGRzczbnJtdEhCX2VhbWp0TkU3UVBqYWw5b2pXNm9SaV84UjZzWG4ycEpLRW5QY0preEZZa2k0XzhyT01oRTd3aWhVLVNuSlAwNGZwcTNhX3dsWFhXQ0RCeDFV0gF0QVVfeXFMT19qOHZSa0ZoeTBWTFhLdndoWFRjTVpRMDdTV0V3QnZnOWtJZEZsRmtiaUxwYkN3dWV4aTF2X0hna09wZ3RqWThOQ2FtSmNzUGEtQ2dkcWU0ZkdubFNvdC1pZ3ltdXVLSHBmZlFFYldmcWdVMGE?oc=5",
+      "s": "imnews.imbc.com",
+      "d": "2026-09-16T07:08:56+00:00"
+    },
+    {
       "t": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZGt1eUIzYmxqQ2t6VUpXSlk1TTAxMzJPdkxJdFVsRG44ZmN5bWlHUFBETzhPemNBdU42WDN1V25wS0xJcGprNDdKeUdvdHc?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-16T07:05:52+00:00"
-    },
-    {
-      "t": "美 국채수익률 피크 찍고 내려올까…향후 금리 인상은 몇 번?[오미주] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RGpnb3dHRTUyUV9ieTNSRzdZRWtZWUFjNXJDcFM3QzliNzJocU5wSk5abXl2NDhDYTd0bHlHNVFCNGNfNmFKNnAtMXVMS2VYS0s0bmRnQV9DWXJaNW56c2FOakM2bzlL0gFuQVVfeXFMTzA2RnJxalhkZ3Y3U3dZVFA0WER0UzlIcXU3UVNCYzg3UEdYZUE5TkpXZXVkaTBQZ1hYU1NkZWF0QnduVDI0dGpaYUV4LVc1VHIxUG9NcFN6cU9MLTBzMDBTaVpvQ1F0OTZjV3VQX1E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-16T07:05:00+00:00"
-    },
-    {
-      "t": "반도체株 저가매수에 코스피 상승 마감…6700선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mYjdKdWlYME1uSUpLMHFUUl8tV1VoZElYTUdOQlk3Yy1qTHBkb3RWSVZsQUVUaWxpa1JHekZJcXZYNWM4UHNTX3IyWGZBeWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T07:03:15+00:00"
-    },
-    {
-      "t": "美, 멕시코에 AI '원산지 규정' 압박…시진핑 방미 앞 中 관세 우회 차단 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tclpGdy1sRGQ2aHh3SlFXM0xVQUlTRFZhNkNwLXRRMThKVVRJek0xeGhQbmdfMjVLQWN4VEVzUnNZZmk3OHlvWkVpdlZ3cUlsNHB2bjR2QXV4YjNIdlc1b3RLTDhZTU100gFuQVVfeXFMUHF4TGg5QW9PWjl6cnUyZzN1RDVFdFRpUk9wOFZmNUM5M3p2SXZqc0lLajUxOVJiS2VxUElvczNnS003MU9JQUp4dHBfZVh1dWkyNFl3Nlh6aC1JR2NFOGp5RC1xV1d5Z2pDTUgxR1E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-16T07:02:45+00:00"
-    },
-    {
-      "t": "반도체 장비 부품 납기 2배로…최대 40개월도 걸려",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EWm9xM3E4ajQ5dUZqZUxvVnlaWDUyMUJ6ekxRZ1ozQTg3LVN6NUk5b0V1SVhNUjJIVHRHSnQ1UTNJYk9ncXJIczZ6STQ5QQ?oc=5",
-      "s": "etnews.com",
-      "d": "2026-09-16T07:01:00+00:00"
-    },
-    {
-      "t": "코스피, 6700선 마감…닷새 만에 반등",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FR2VBRVRHaGhRTmhzM01SSzlZYkxJdlFCV0VISFZVTENQLWxaZXI5VS1ZX2FMM2FpTFRNNTZLcVRoY2p6VUdQQ0phY2ludw?oc=5",
-      "s": "etnews.com",
-      "d": "2026-09-16T06:59:43+00:00"
-    },
-    {
-      "t": "고유가·FOMC 경계 고조에 달러·원 환율 9.2원 올라 1368원(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91ZjlucGNFZXd3NWlvdVBwQThqLUdxYnAyUHhEVnFJV2VnSk1ickh2aXUyX1pzRGk3NUJfR3p5aHN2QWNPZEZZMzVYVVdsdmc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T06:54:39+00:00"
-    },
-    {
-      "t": "[마감시황] FOMC 앞두고 되살아난 코스피⋯ 반도체 강세에 6700선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQmFBMC1WcHNnQWJvYzEyYVFBSHhOc0l5ZHF6eE1JOV9SOXJmMUhPbURzVjYxa1ljNHNfaEVpaWR1anRvOGdFbTBNeWZjNWpkd1paT3ZJMEpRdw?oc=5",
-      "s": "viva100.com",
-      "d": "2026-09-16T06:53:00+00:00"
     }
   ],
   "asof": {},
