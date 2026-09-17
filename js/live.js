@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-17T08:30:43+00:00",
-  "quotesAt": "2026-09-17T08:30:43+00:00",
-  "newsAt": "2026-09-17T08:30:43+00:00",
+  "fetchedAt": "2026-09-17T08:45:35+00:00",
+  "quotesAt": "2026-09-17T08:45:35+00:00",
+  "newsAt": "2026-09-17T08:45:35+00:00",
   "quotes": {
     "kospi": 6715.41,
     "spx": 7551.81,
     "nikkei": 64136.25,
-    "vix": 16.23,
-    "krw": 1386.52,
-    "gold": 4355.3,
-    "wti": 101.72,
-    "dxy": 100.23
+    "vix": 16.17,
+    "krw": 1385.75,
+    "gold": 4356.5,
+    "wti": 101.38,
+    "dxy": 100.22
   },
   "daily": {
     "spx": -0.89,
     "kospi": 1.33,
     "nikkei": 0.33,
-    "krw": 1.68,
-    "dxy": -0.08,
-    "gold": -0.73,
-    "wti": -0.69,
-    "vix": -8.36
+    "krw": 1.63,
+    "dxy": -0.09,
+    "gold": -0.71,
+    "wti": -1.03,
+    "vix": -8.7
   },
   "news": [
     {
-      "t": "[도쿄환시] 급등한 국제유가에 달러-엔 상승…FOMC 대기",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNm96VXozUURTaTdHbHB4OXRnc1E0Sms2dXp3alBaVklCMENyYVJSWFo5cHIwNmw0cFNzOVhUc280RHZFTUZsSEJna09TcDVoOTBVdU8zV2pWaWRPOFBna0JMbldmWDRRdXpXTUh1Q1I?oc=5",
+      "t": "한미 금리차 1%P로 벌어지며 … 韓銀, 11월 금리인상 무게",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0T3lCSjJ6cE9UaHdDc1c3WjBzQmJKejBMNWlVUklwOFRsbnBTR3RvSmtsNEo2c0x2Ry1yM3NOSzJFXzRTSjZOc01rbTAzejR5Rmc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-17T08:37:49+00:00"
+    },
+    {
+      "t": "\"리벨리온 온다\"… 코스닥 패권 반도체로",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FQU1QTTJ6Q2hiaFRtZF9sMTdJT29Oa0xHNExaalBKV3E0LXpDenFvZnlnMXBGWW5OY0NMY2dELUV5eWx0aEs1UFAwSnFuQWlaRWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-17T08:33:45+00:00"
+    },
+    {
+      "t": "무역위, 중국산 H형강 최대 32.72% 반덤핑관세 2차 연장",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EamRJVENIbjlWQjloeUlBVi1weEdfdXFfbnlpcEtmNE4xdmZZS2ZwLTA1dVYyMks2SWRyTEdLVGN0NkVZWGRpUWtMT0QtcUNVTFhNeDNuSTc0N1HSAWBBVV95cUxNU0ljaHNIa2t5MVRvdUZvM21peXRsMGVENTNxOXZFelRLclN4VTljS0JkRzYzRnQ5QXVuUTF6cGdkRDloNF9fWE9lM3dBUDQtQjFTUVpCSGVTcnhWaWJTa1Y?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-09-17T08:30:00+00:00"
+    },
+    {
+      "t": "트럼프 \"캐나다 준회원국 지정하면 EU에 관세·무역 보복\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qSUN5Vjd2TWo1Y2dURGhPQzIxNlNZSjFjWm03ZnZhTS1uZ2E3M3BldDVJZG9SeFNWdmZSbGJLQlozSVNlZGhFNU1YeFJJeUFRNFpMWTRoQzFOV29VQUpGY2VZbEJUVU9UTG5LejZjWHo?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-16T07:22:18+00:00"
+      "d": "2026-09-17T08:28:38+00:00"
     },
     {
-      "t": "연준, 3년 2개월 만의 인상 초읽기…워시-트럼프 충돌 위기",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xQXFvTGZkaXFXQ3pwS2stU3JmWWlmS2hxTWxjVFdRUlMxcS0wLTJYRDgzZ1BYV1JmSTd2SFM0ektMVzdQZ0VXeGJfWHcwUVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T07:19:55+00:00"
+      "t": "코스피, 연준 금리 인상에도 6700선 사수",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LZkxnbVpjeUFfRGVUd0lKWFFDSHRFTEFkOTYtTlk4YUI1YTVMWkE3X3VlSG5mUnlNa29OZVVlNF84bURocGp4S1ZEa3dtemJkcXA1bWdQdmEwOEJYak9aRQ?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-09-17T08:27:10+00:00"
     },
     {
-      "t": "[중국증시 마감] 美 금리 인상 전망에도 기술주 질주…'커촹50' 4.14% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hMGRWTF94bHF5ZUQ1aTVKUFVIT1p6SHBCekVOUnVtSHN6NWlXakFWNDQ2TDVWUlc2RnRxZzZWY2IzUmsyckxEWHBvMDNENUdRT0Noc3huaGFLNXpE?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-16T07:15:00+00:00"
+      "t": "골드만 \"연준 10월 추가 인상 관측\"…매파 신호에 기존 전망 수정",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ENUtxZkVGTHctWk9lelhzZ1JzWTRJT2NlX20zSldlemgyeDNxSUlPWm1ralhWemkybVRfdDhfTDVZbDA2OGtRQ1Ryckk1YnhGdTJNNVZic0ZYSVpLUm9xaVhhbUdsdWVEV2tYSDBKVEo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-17T08:25:17+00:00"
     },
     {
-      "t": "유럽 증시, 3개월 최저치에서 반등…연준 금리 결정 앞두고 관망세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOWZjREdqUDFkaDFXcVZSYzRzRFVBTVpnZHdqc2ZicWVoemtmMUtuSXpvckFwcXlmUTFIX3ptcFVZZXhQMk5NNVFITmZoQ21mQ0pvVnpsdkVheWtsTi1RSTNtamxhYUd6Q3VXVTJtS3E?oc=5",
-      "s": "kr.investing.com",
-      "d": "2026-09-16T07:13:00+00:00"
+      "t": "금감원 \"금리, 시장 최대 리스크…이자부담 완화책 검토\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jN2NsYVh4eTg5SUF4Rm1HVDNjS2tfRmQzSWlMemlHaW1ITEY1YzJTMTVSSGVKenoyOFg4QXByYTlreU9jUUFaZHpybGFDclJNdnJ0ejlDUDZyem1QNjZRektzckhmYlE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-17T08:21:00+00:00"
     },
     {
-      "t": "코스피 6,700선 회복···'삼전닉스' 견인",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQQVF0alVGQm51VmhYeWMzWHlZSlZENWlpMGRUcElOcC1aanJWSUZ4QUxDNGxUeFBoV3FPeWQxd1BnQm9BYjBWbDcyY0Q4eDA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T07:12:52+00:00"
+      "t": "고금리 길어지면 ‘이자 폭탄’…금리 파격적으로 낮춘 장기 고정금리 주담대 확대",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYk1FUFBNRUE2RE8wR3hSUzFaX2ZqWXB2U05EejcxRnBZZFRmQ1hLajA1M0N4Rk5aMVJSczQ2dGFoRXdDX0hfUnU4U2UtTkZpNWhhUFlR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-17T08:20:54+00:00"
     },
     {
-      "t": "50조 웃돌던 코스피 일평균 거래대금, 20조로 뚝…올해 최저(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUXZCNTk4bmJCYmoyVk8yY1JkcFRBVzFqdjczOUdKUzZnaDZJN3lVSWxMT201cW9XbDZMYXhUVllrUWFPbG4zbU5LTml0SDA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T07:11:54+00:00"
+      "t": "코픽스 제자리 걸음에도 이자부담 우려 지속···美 국채금리 급등에 은행채 상승세 By 투데이코리아",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9leG1xenhkamt5QWRodm1fUGxGN2k5aFBpQjYyZHY0Q2t3eUFrVHRlbkF5Z0hEVWlQMGJZWGpvZkxDVzExRjIzRkxtXzYzcUJTTnJQc2hSNHdFcTA4NHptVFRFbm44b0VlNkg4UE50ZVU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-17T08:20:00+00:00"
     },
     {
-      "t": "비트코인, 클래리티 법안 부결로 $76,000 아래로 하락…연준 금리 결정 주목",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EOUE1TGRDSTM1RDFSTzR2a1J6NjUyLVBLZjJ6akZkNWVtbDFiOXNwRGFGakRzck9SNXRlZWx3a1Q5M0xUd1FqTVJtbG5MNlhWQU5UdXlESXQ1dnA4M1JrTWxGZXVXTldYVUVKaXltUzFuS28?oc=5",
-      "s": "kr.investing.com",
-      "d": "2026-09-16T07:11:00+00:00"
-    },
-    {
-      "t": "코스피, FOMC 경계감 속 1%대 상승…닷새만에 반등(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdXpUbHVCM2dBZ0s0R3ZwSmdjUEhfYlZBM1BVekpZMHhlY2Z6MHdJeC1ScjhYMGt0UjZqTVVQWEYwdzlpTndkVDNhWWlaZEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T07:10:48+00:00"
-    },
-    {
-      "t": "코스피, 반도체주 오름세에 5거래일 만에 상승 마감‥6,700선 회복",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02amUzTzNyVTFCV3RyZnQxMVlGRzczbnJtdEhCX2VhbWp0TkU3UVBqYWw5b2pXNm9SaV84UjZzWG4ycEpLRW5QY0preEZZa2k0XzhyT01oRTd3aWhVLVNuSlAwNGZwcTNhX3dsWFhXQ0RCeDFV0gF0QVVfeXFMT19qOHZSa0ZoeTBWTFhLdndoWFRjTVpRMDdTV0V3QnZnOWtJZEZsRmtiaUxwYkN3dWV4aTF2X0hna09wZ3RqWThOQ2FtSmNzUGEtQ2dkcWU0ZkdubFNvdC1pZ3ltdXVLSHBmZlFFYldmcWdVMGE?oc=5",
-      "s": "imnews.imbc.com",
-      "d": "2026-09-16T07:08:56+00:00"
-    },
-    {
-      "t": "고유가·미 국채금리 급등에…환율 1,370원대 터치(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZZGt1eUIzYmxqQ2t6VUpXSlk1TTAxMzJPdkxJdFVsRG44ZmN5bWlHUFBETzhPemNBdU42WDN1V25wS0xJcGprNDdKeUdvdHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-16T07:05:52+00:00"
+      "t": "[마감] 코스피, 美 금리인상 충격 덜고 6715선 약보합 마감 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wSDlJZXpQcHo4QXI3ZlU4UTdIaldTU0xyOGxEbmplQnh1NTNpYWtVUXFrYUlRT3QyeHhyS24yb2JsUjdyMFd0Q2ktaTc0UlRubHdVTncxSGhXZWNVblNYa1cwRjB4RUxZRURCSFNrVlg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-17T08:20:00+00:00"
     }
   ],
   "asof": {},
