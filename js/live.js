@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-17T08:45:35+00:00",
-  "quotesAt": "2026-09-17T08:45:35+00:00",
-  "newsAt": "2026-09-17T08:45:35+00:00",
+  "fetchedAt": "2026-09-17T09:00:39+00:00",
+  "quotesAt": "2026-09-17T09:00:39+00:00",
+  "newsAt": "2026-09-17T09:00:39+00:00",
   "quotes": {
     "kospi": 6715.41,
     "spx": 7551.81,
     "nikkei": 64136.25,
     "vix": 16.17,
-    "krw": 1385.75,
-    "gold": 4356.5,
-    "wti": 101.38,
-    "dxy": 100.22
+    "krw": 1385.11,
+    "gold": 4351,
+    "wti": 101.17,
+    "dxy": 100.21
   },
   "daily": {
     "spx": -0.89,
     "kospi": 1.33,
     "nikkei": 0.33,
-    "krw": 1.63,
-    "dxy": -0.09,
-    "gold": -0.71,
-    "wti": -1.03,
+    "krw": 1.58,
+    "dxy": -0.1,
+    "gold": -0.83,
+    "wti": -1.23,
     "vix": -8.7
   },
   "news": [
+    {
+      "t": "Market Comment : 실제 행동을 보여준 연준, 추가 인상 시점은 12월 | KB의 생각",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xd2RfWWk4clJsNlZ4UXVpdUR1ZHRtUUNDb3M4dXlWVlB6bU43RENVUFU0N3FyNlpSX0phNFNJSUhMQXpYa0tfVjM2SE5UckphdF9MQjZCbmFGamhLTXE0QkFRVQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-17T08:52:04+00:00"
+    },
+    {
+      "t": "미 금리인상에 환율·국고채 금리 상승…가계·기업 대출 부담 커지나",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRMC1ISEoxZGFvRGVIcWE5YnVlUFBRY0lGMHBIdkZnaWk2RmNsT0RvZEZLdmZycU4zX1VrVG1ZcFFqR0RZN3RPWTZFdmNBMUhkdHZmTTFuRmJfd9IBX0FVX3lxTFBSTmFzQWlvQUlKb1hyQVJvQkhuTXI5UjRWTGx5NXczNm9yU1pqeGVmc0FFVkFUNGlmcXZrakpkZ1g0WDk0WVVjRG5PdUREcjN1YjQtOTFxWlFLYU5FeUU4?oc=5",
+      "s": "경향신문",
+      "d": "2026-09-17T08:46:00+00:00"
+    },
     {
       "t": "한미 금리차 1%P로 벌어지며 … 韓銀, 11월 금리인상 무게",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0T3lCSjJ6cE9UaHdDc1c3WjBzQmJKejBMNWlVUklwOFRsbnBTR3RvSmtsNEo2c0x2Ry1yM3NOSzJFXzRTSjZOc01rbTAzejR5Rmc?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-17T08:25:17+00:00"
     },
     {
+      "t": "코스피 6,715.41 코스닥 822.18",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hQ3VkbjlLSkl0QXBKUExmVWVRMjFWQm5HcmY4RkZOa08wVmxUMTYzWVJsRmxuZUlzTFk1UW9TWnRCVmpWdGNmeHQyb3huRjloVW5GVkV5ZXBCaDA?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-17T08:25:00+00:00"
+    },
+    {
       "t": "금감원 \"금리, 시장 최대 리스크…이자부담 완화책 검토\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jN2NsYVh4eTg5SUF4Rm1HVDNjS2tfRmQzSWlMemlHaW1ITEY1YzJTMTVSSGVKenoyOFg4QXByYTlreU9jUUFaZHpybGFDclJNdnJ0ejlDUDZyem1QNjZRektzckhmYlE?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-17T08:21:00+00:00"
-    },
-    {
-      "t": "고금리 길어지면 ‘이자 폭탄’…금리 파격적으로 낮춘 장기 고정금리 주담대 확대",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zYk1FUFBNRUE2RE8wR3hSUzFaX2ZqWXB2U05EejcxRnBZZFRmQ1hLajA1M0N4Rk5aMVJSczQ2dGFoRXdDX0hfUnU4U2UtTkZpNWhhUFlR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-17T08:20:54+00:00"
-    },
-    {
-      "t": "코픽스 제자리 걸음에도 이자부담 우려 지속···美 국채금리 급등에 은행채 상승세 By 투데이코리아",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9leG1xenhkamt5QWRodm1fUGxGN2k5aFBpQjYyZHY0Q2t3eUFrVHRlbkF5Z0hEVWlQMGJZWGpvZkxDVzExRjIzRkxtXzYzcUJTTnJQc2hSNHdFcTA4NHptVFRFbm44b0VlNkg4UE50ZVU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-17T08:20:00+00:00"
-    },
-    {
-      "t": "[마감] 코스피, 美 금리인상 충격 덜고 6715선 약보합 마감 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wSDlJZXpQcHo4QXI3ZlU4UTdIaldTU0xyOGxEbmplQnh1NTNpYWtVUXFrYUlRT3QyeHhyS24yb2JsUjdyMFd0Q2ktaTc0UlRubHdVTncxSGhXZWNVblNYa1cwRjB4RUxZRURCSFNrVlg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-17T08:20:00+00:00"
     }
   ],
   "asof": {},
