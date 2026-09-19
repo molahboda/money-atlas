@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-19T15:15:39+00:00",
-  "quotesAt": "2026-09-19T15:15:39+00:00",
-  "newsAt": "2026-09-19T15:15:39+00:00",
+  "fetchedAt": "2026-09-19T15:30:34+00:00",
+  "quotesAt": "2026-09-19T15:30:34+00:00",
+  "newsAt": "2026-09-19T15:30:34+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "IRS 금리 소폭 하락…장 후반 비드 늘기도",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nUlN1eVZsTi01MU5MSS1tXy16X3I2Um04cDJTU0JvUGpYOERrZVBZRzlYQmZJaFdpelc2LVdvQkF6aVljXzdQckZLeUtiVXJTRlU3Qmc1cWplU0tCbjRNNEJ0cXl3aUllYXpSUVRuRkTSAXRBVV95cUxPc3h6Yk1La1YwVlVoRTdQZldoc29fSktqNUxXSlJEai1fZUwtM01ZWl9mb29Cem82ZmdKWldqeFBNM2lRVWRWVzBNbnF0UC1YQXpTaDlOT2dCNDV6YTRkaTl0MllraXlZd2tDSGg1WE9vUTZ3Rw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-18T09:55:51+00:00"
+      "t": "\"차라리 매 빨리 맞는 게 낫다\" 연준 금리 추가 인상 시 주식시장 시나리오는",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cUtId0hicGNzaVB3OUVBRWUzbEZZQTZvN29qZjdydktyMEtvb1VwM1QtYVJ3Ynh6UzNYR2FsMzVYT2RLaEx3SUlwTmNXQXFfZE9BM0tqTVFYMmNOdm85btIBeEFVX3lxTE85TDYxcThBTkhIX2QtYVowRHE2STdEb3Z2Y1ZQVWZKUlZGM2lBMTY0NFJhMHM5Z3lSMEZMeU8tZVhVZlM0XzhtQjZiSlJTeVhncnBoQmM2eGZKcy13Q3FqMHRQVjh3cWxtWGlRLTJFV2F6QnBoWS04VQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-19T15:03:00+00:00"
     },
     {
-      "t": "알파칩스, '빛 반도체' 4종 내년 출하",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQbDBxU2s4QmNHSFIwZUhQa0ZvX2ZMZnVCb2xxOTlyTkJXRW9sLXdVUnpUS1hraGFLTWpSLWZENmF2UXc1ZVRmVGVBcG5RQjYtZ1NfUFVfRW9ndmdlVWZQcVB1RnV0QQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-09-18T09:54:35+00:00"
+      "t": "[김대호 진단] 반도체 열전 (54) 메모리 3사 가격 담합... 집단소송 3배 배상",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnAtN0k2ZjE2WWRpd01sZ1NHOS1yaXpYSmdBWE1kUzUtbjdoTGE3d3dGRnFjcmp1ZFdFR196RkVRZXJjZjdwMU9HVWJXX0R3R0RWdDREQnZUVEhEYzZVZENBNkRJb3M1N0xNX0wzY000TE1tY29hNnV3RXU2dUxiOE1YQjM?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-19T15:00:00+00:00"
     },
     {
-      "t": "31년 만의 최고 금리에도 엔화 약세…美 긴축에 힘 빠진 BOJ 인상",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DQkVHTW9mYnE5Y0prV3k1ZDN4a2NQTTFMZkI5dTFUMkR6ZDU3UG15OW95ZDFLdW9MaWlDTjg1NldhZ2RZWEV6V09XTTUzV3l2eHJ0RXFB?oc=5",
-      "s": "joongang.co.kr",
-      "d": "2026-09-18T09:52:20+00:00"
+      "t": "[영상]윤준병 “전북, 국가 반도체 공급망 진입…특화단지는 시작일 뿐”",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rQzNsT0stVDlLNF9RVW1rM1ZwOU14cmlQbmpnUU5obFVsZlhwQkEtWU1aWjBTcDNwWjVBckp6c3pEaHp4QzFoMldMZ2lIQk5lMlZuU3JSRi1XT05wS19SV3cxT01WOTF5?oc=5",
+      "s": "todayan.com",
+      "d": "2026-09-19T14:50:05+00:00"
     },
     {
-      "t": "[채권-마감] 강세 플래트닝…BOJ 금리인상·外人 폭풍매수",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14UzRKSVNWYVZxR2dOUzl2cVZGb0tmSGNLMEpaYlR4VDMtRWduaFpVWS0yV1Zfc1BkQi1sbFVRSkpWTmhNTjFBOUJuSjByZWVSby1Qa0Ezd3VKUFd3N2JlYmhUWUV5RlM1bUJFMjdFcFI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-18T09:42:07+00:00"
+      "t": "사우디 동서 송유관 복구 추진등에 9월18 국제유가 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFakl5aWw2TVlwM0ZJaGpON2I2S0xXS05saGh6dlVYQmdjNnpjZlRBWDNtV01DZXg3a2JMSVlwcnd3d3hpcjVtazFNN05NU3BpdzdUWm1YODNOOEJJSmpVUHRNVjN6WFlGTVJrb0tiMTk4UQ?oc=5",
+      "s": "에너지신문",
+      "d": "2026-09-19T14:39:52+00:00"
     },
     {
-      "t": "BOJ 총재 \"통화정책, 환율 안정 목표 아냐\"…달러-엔, 장중 고점 부근 이동",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WRjNMaFF6MVJFWTdRWExtbUFaSkg5eEJHcU1YUVlMdC1SUEpuNl9DMlM2dS1rUGMwajNVbzA4aHN2WUFJVXRTN2ZkTUpROUcyQ0FGNzNDVE9FVlMwT3UycXZwdzNReVVUS3pEYnRfX3PSAXRBVV95cUxONWs2MF93emRBbVZxWDdTOTdPN0ZZVlgtcV80VFNPWnVBa2QtaW9BS242YmtOVkdYcXozVVp4d1czZVE5Q185OVdMb0JoSVJ5WTNSVXRfUVN3bEpQRzJtNll3Ml95RmpreGgxM1lvcXdGcXJPSQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-18T09:29:47+00:00"
+      "t": "美국채 금리 5%, ‘안전자산’의 얼굴이 달라졌다…월가 자금 대이동",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYekxKZ0dtTHFCWFc2eHFKV19qUGdHU2VET3NEVHlzWWFVY1Q5RVUxRUZQMVNLSnRWNWpnOXJHY1d5cDhXX1dBZUlTUHpLb0NJMFZwblpDVXJTMEFFREV2SF9VblVoTWNLRkpOSE13?oc=5",
+      "s": "seoulilbo.co.kr",
+      "d": "2026-09-19T14:22:38+00:00"
     },
     {
-      "t": "+200%: 연준 금리 인상에도 AI 선정 전략 주도, 기술·에너지 종목 상승세 지속",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoSl9uLUlnTV84SW1WT2tRWk9wdXRIUWtfSnFFMTFXWXdBMlpaM2lkeE91VktkS3BqVnA2aFhEdlZYem1KWjhEN09LQmRjLURaZ0ZHM1JwTXV6bHJPcUk4SjlkU1F5T1NBOG5zTy1RT1c?oc=5",
+      "t": "합천군, 2026년 추석 명절 대비 물가대책위원회 개최",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mWnVDdmpON19uWHE5amMyUEt6TF81UnJ0aG1CekRSWi01S2dTU3NiWE9lRmpZWkl6RkVpQ0lDNGV1dWl1aVBjbGJJT0xXTzhHQ19EMnl4UDdqc2U2amM3c3kzRG5lc1VX?oc=5",
+      "s": "시사코리아저널",
+      "d": "2026-09-19T14:18:41+00:00"
+    },
+    {
+      "t": "울산과학대 반도체공학과 학생 연구팀 센서학회서 수상",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9peU12WTNoTEJROVAxNFVmV2ZSWmE5REFZQjZKQkZIM0p0SklsSXBueTdOWGtRR1ZIMXF5RTJRR0lGZzZvWS10VnpFZy00TVBxREpHQVE2aFJBdmU2aGJQWVpXOHhpWlcxNEhCcQ?oc=5",
+      "s": "경상일보",
+      "d": "2026-09-19T14:10:00+00:00"
+    },
+    {
+      "t": "연준 3년 만의 금리 인상…다음 주 국채 253조원 입찰",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbm9OVVNLOS1NaWRadzl3LVdLTmlOS3Rmc0pGS0VlNWdBYXF5WEh0U3prOEM3UG54SF9aWW9PMnVVTnBJS2RTam4zM3lVU1Ntamc4ZHZhQQ?oc=5",
+      "s": "토큰포스트",
+      "d": "2026-09-19T13:55:17+00:00"
+    },
+    {
+      "t": "ECB, 인플레이션 경계 유지하되 성급한 금리 조정은 피해야",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZamZheE14S2licWU1bGJFbUtDUDlIQ2dIOXNTMU9rMjdxbDF2MjkxN2VhX2VoSHVvc2dKamFvTFNabzBjb2NHcXNxOUlLbE9tbUY4MHlxVUJNdDh2dmdVQXYzRXdzWmZMbUE?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-09-18T09:17:00+00:00"
+      "d": "2026-09-19T13:54:00+00:00"
     },
     {
-      "t": "UBS, 영란은행 금리 4.25%까지 인상 전망으로 입장 선회",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUTJIT0s3WHJlS29UNHprMk9HT1VCOUZwSzZsbXlpaWE0UElWdjNGbzNYWHhERHhNLXlQZ3d4NDJRVUZWSE9IeFVoLWtpalNwbmZwMENCRFRWa0JyZU11Y0JObFB2WHhqbmc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-18T09:17:00+00:00"
-    },
-    {
-      "t": "국제유가 120달러 넘었는데…‘환율 하락’ 내세워 석유 최고가격 또 동결",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVhNUDBtYTVka2ZJbFJralBucWpuSXV5NG5FZEJJSDhYVThteGhZZWFrMkZEUlk0RHZyVGhUUjFQVkx5bUJWU1hpOUZWR3BWTXJPSWZkeHIyLXZwa1RwMkY5aDNKSHBjbF9Uc2JNVk5ITTE0bE0ydEgtellVS05QUzdkaVpseVpYS0lkNUw2NA?oc=5",
-      "s": "조선일보",
-      "d": "2026-09-18T09:10:24+00:00"
-    },
-    {
-      "t": "[0918마감체크] 코스피, 반도체 강세에 2%대 반등... 6900선 턱밑 마감 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96dnNBN0dEUVdqVXFVVWM3MGJkQmNqWV9XMjNCMk9VUnJEYVZPTnZ1WlpvTC14bXM0dFBzZEptb0s3NXpDNkRBaHFUdEduZmdHWFVtR3h3RXJXcVY3N3c0NFNWdkZleGxDeGJOaTJYR1o?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-18T09:05:00+00:00"
-    },
-    {
-      "t": "[마감] 코스피, 외국인 복귀·반도체 강세에 2.66% 상승…6894선 회복 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4td0c1dWU4QzFlTU9ySW1McExVdUpWbDNtcFdFNENmT0dZQUlnZGhWZ3YydlhGTHZTZFNZbHlOMk4yX2xDOHppNnlQMDdhOXRBeUs3clAzUjZ5LUYwbTczdE45djdOUUdkekpka1Rtekg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-18T09:04:00+00:00"
+      "t": "“코스피 6900인데 내년엔 5200 아래로”…전문가가 경고한 세 가지 변수",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSlFyZndDWlBQRU1uODcwR2RBal9OcUIyOUJ6QTctVEJvaGNhZDhPMU1Gak1Qa3p2akxsLWRKN3RTUEI3bVBzYUNHUnc4d1V2UmFMOEd6dXJrLVUwXzB1SjR2b0V2YU9hX0ZQeg?oc=5",
+      "s": "데일리25",
+      "d": "2026-09-19T13:41:08+00:00"
     }
   ],
   "asof": {},
