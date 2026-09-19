@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-19T15:30:34+00:00",
-  "quotesAt": "2026-09-19T15:30:34+00:00",
-  "newsAt": "2026-09-19T15:30:34+00:00",
+  "fetchedAt": "2026-09-19T15:45:31+00:00",
+  "quotesAt": "2026-09-19T15:45:31+00:00",
+  "newsAt": "2026-09-19T15:45:31+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "물가 부담 속 주류도 ‘실속’… 키햐, 대용량·박스 상품 강화",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY0tYSWxaa2o5Q1BMWVYwVUx1anJUYTRnd0czcGlYU0VLR01mbUhUemhfbjBEVFdxMHJ5bVpGbFVHWWU2NUlBOFJ4YTJZb08zYWdsdFRiUG5NSkhPYkRHc0h5WWdJNlpSVmQyOGVn?oc=5",
+      "s": "koreasprint.com",
+      "d": "2026-09-19T15:28:00+00:00"
+    },
+    {
       "t": "\"차라리 매 빨리 맞는 게 낫다\" 연준 금리 추가 인상 시 주식시장 시나리오는",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cUtId0hicGNzaVB3OUVBRWUzbEZZQTZvN29qZjdydktyMEtvb1VwM1QtYVJ3Ynh6UzNYR2FsMzVYT2RLaEx3SUlwTmNXQXFfZE9BM0tqTVFYMmNOdm85btIBeEFVX3lxTE85TDYxcThBTkhIX2QtYVowRHE2STdEb3Z2Y1ZQVWZKUlZGM2lBMTY0NFJhMHM5Z3lSMEZMeU8tZVhVZlM0XzhtQjZiSlJTeVhncnBoQmM2eGZKcy13Q3FqMHRQVjh3cWxtWGlRLTJFV2F6QnBoWS04VQ?oc=5",
       "s": "뉴시스",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnAtN0k2ZjE2WWRpd01sZ1NHOS1yaXpYSmdBWE1kUzUtbjdoTGE3d3dGRnFjcmp1ZFdFR196RkVRZXJjZjdwMU9HVWJXX0R3R0RWdDREQnZUVEhEYzZVZENBNkRJb3M1N0xNX0wzY000TE1tY29hNnV3RXU2dUxiOE1YQjM?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-19T15:00:00+00:00"
+    },
+    {
+      "t": "30년 모기지 금리 7% 턱밑…시애틀 중간 가격대 주택 월 상환액 5천 달러",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81N3ozejNDbFBnLThvMlBKRTVkemlVS25tM2ZzbzhhMkhnTlJjaEpFRWZuLU5GNjlqUWM3UGFBbTNfZGtaZGxpS0N3STZCc2t5WDhBa3FmVE10U0pwbTFVd0hmbzNrVUpId3B2T3VZNEvSAXNBVV95cUxPd08yX05PTVlZVXRMY0hCbFowZVFSRXFuaVFaWG9VaFZUaTVoN0FLa3RmS1N3WnRjSHNwajVpS19ZUUcxVG15eERabWM2OU1GbFgxdTRnUThIb0dGTUt1dm01RmFPYTc0NmRJdm5JbHN2NVdz?oc=5",
+      "s": "시애틀코리안데일리",
+      "d": "2026-09-19T14:51:02+00:00"
     },
     {
       "t": "[영상]윤준병 “전북, 국가 반도체 공급망 진입…특화단지는 시작일 뿐”",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbm9OVVNLOS1NaWRadzl3LVdLTmlOS3Rmc0pGS0VlNWdBYXF5WEh0U3prOEM3UG54SF9aWW9PMnVVTnBJS2RTam4zM3lVU1Ntamc4ZHZhQQ?oc=5",
       "s": "토큰포스트",
       "d": "2026-09-19T13:55:17+00:00"
-    },
-    {
-      "t": "ECB, 인플레이션 경계 유지하되 성급한 금리 조정은 피해야",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZamZheE14S2licWU1bGJFbUtDUDlIQ2dIOXNTMU9rMjdxbDF2MjkxN2VhX2VoSHVvc2dKamFvTFNabzBjb2NHcXNxOUlLbE9tbUY4MHlxVUJNdDh2dmdVQXYzRXdzWmZMbUE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-19T13:54:00+00:00"
-    },
-    {
-      "t": "“코스피 6900인데 내년엔 5200 아래로”…전문가가 경고한 세 가지 변수",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSlFyZndDWlBQRU1uODcwR2RBal9OcUIyOUJ6QTctVEJvaGNhZDhPMU1Gak1Qa3p2akxsLWRKN3RTUEI3bVBzYUNHUnc4d1V2UmFMOEd6dXJrLVUwXzB1SjR2b0V2YU9hX0ZQeg?oc=5",
-      "s": "데일리25",
-      "d": "2026-09-19T13:41:08+00:00"
     }
   ],
   "asof": {},
