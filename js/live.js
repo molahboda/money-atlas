@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-19T15:45:31+00:00",
-  "quotesAt": "2026-09-19T15:45:31+00:00",
-  "newsAt": "2026-09-19T15:45:31+00:00",
+  "fetchedAt": "2026-09-19T16:00:39+00:00",
+  "quotesAt": "2026-09-19T16:00:39+00:00",
+  "newsAt": "2026-09-19T16:00:39+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "외국인 ‘금융·에너지’ 담고 기관 ‘한미반도체’ 픽…개인은 삼전·하닉 2.8조 샀다",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNXzRhLW1nYTYwVDdDcDAxam1mN2k1YURrdzkzMlNpZmlPQ1NmR00zSHBFdTlDZ0cwWWlRUXQtSGh6VGZJOHppTEVZNzAyYWU4dG52alhnUmNOSDF4T0E?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-09-19T15:54:00+00:00"
+    },
+    {
+      "t": "연준은 왜 공급 충격 속에서 금리를 인상했나?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVeEozczdoRjNlUW05endVNEpnOHZZOGUwTkV6d0taNWt1VmZUS1dlVmtwcll2d1pYUDNRaUtCTEYyTUwyNnFiNmoxSWRIWEptU2Eya1N5MlJlOFR4Y203Y21oeWI1TUpsMFE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-19T15:50:00+00:00"
+    },
     {
       "t": "물가 부담 속 주류도 ‘실속’… 키햐, 대용량·박스 상품 강화",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY0tYSWxaa2o5Q1BMWVYwVUx1anJUYTRnd0czcGlYU0VLR01mbUhUemhfbjBEVFdxMHJ5bVpGbFVHWWU2NUlBOFJ4YTJZb08zYWdsdFRiUG5NSkhPYkRHc0h5WWdJNlpSVmQyOGVn?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mWnVDdmpON19uWHE5amMyUEt6TF81UnJ0aG1CekRSWi01S2dTU3NiWE9lRmpZWkl6RkVpQ0lDNGV1dWl1aVBjbGJJT0xXTzhHQ19EMnl4UDdqc2U2amM3c3kzRG5lc1VX?oc=5",
       "s": "시사코리아저널",
       "d": "2026-09-19T14:18:41+00:00"
-    },
-    {
-      "t": "울산과학대 반도체공학과 학생 연구팀 센서학회서 수상",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9peU12WTNoTEJROVAxNFVmV2ZSWmE5REFZQjZKQkZIM0p0SklsSXBueTdOWGtRR1ZIMXF5RTJRR0lGZzZvWS10VnpFZy00TVBxREpHQVE2aFJBdmU2aGJQWVpXOHhpWlcxNEhCcQ?oc=5",
-      "s": "경상일보",
-      "d": "2026-09-19T14:10:00+00:00"
-    },
-    {
-      "t": "연준 3년 만의 금리 인상…다음 주 국채 253조원 입찰",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbm9OVVNLOS1NaWRadzl3LVdLTmlOS3Rmc0pGS0VlNWdBYXF5WEh0U3prOEM3UG54SF9aWW9PMnVVTnBJS2RTam4zM3lVU1Ntamc4ZHZhQQ?oc=5",
-      "s": "토큰포스트",
-      "d": "2026-09-19T13:55:17+00:00"
     }
   ],
   "asof": {},
