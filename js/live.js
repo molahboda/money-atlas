@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T17:00:40+00:00",
-  "quotesAt": "2026-09-20T17:00:40+00:00",
-  "newsAt": "2026-09-20T17:00:40+00:00",
+  "fetchedAt": "2026-09-20T17:15:34+00:00",
+  "quotesAt": "2026-09-20T17:15:34+00:00",
+  "newsAt": "2026-09-20T17:15:34+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "외국인 ‘금융·에너지’ 담고 기관 ‘한미반도체’ 픽…개인은 삼전·하닉 2.8조 샀다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNXzRhLW1nYTYwVDdDcDAxam1mN2k1YURrdzkzMlNpZmlPQ1NmR00zSHBFdTlDZ0cwWWlRUXQtSGh6VGZJOHppTEVZNzAyYWU4dG52alhnUmNOSDF4T0E?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-09-19T15:54:00+00:00"
+      "t": "‘매파’ 카시카리 “美 인플레, 유가만의 문제 아냐… 경제 전반서 너무 높아” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWhxbldUUTBRM0w2Ni1XQXVDSkNSSEFlakdxUmpReHJ4ZkxJZFF5eEgxXzlaOEJkR0pKQ0VrQmJIYUxDOWhHNG80dEJEakYybkdldzVuNlU0Slc4czRtalFIVjBhY3dMalR1NS1xWGdicnF2ODJtNEZJdkJWclpLendubEpLWlFHZGcxb3pQU2d3OXRTMEREcmRfc05HUdIBsgFBVV95cUxQRjQ5SVBwT0dUMVhmVmVUVmpYdHZabkJxYlp4QjBRMGRTR2VNcjdSMFNzLUdpaHRtcFpHNGlqS2tfdHZHd3dUeDZFUkRwRFNfVHI3Vlg0Z3c4emJvbVhCczdEZHBzTjZPZ2hLRm93amFTdjdQWVZlMWpSUzNRT1hlSklnYXdxRjdzSFJIbzFTeEIxSVF3TmotUU9rdXh4Unc4TXJlT05HRWZDdjgzY2l4SlhB?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-20T16:42:00+00:00"
     },
     {
-      "t": "연준은 왜 공급 충격 속에서 금리를 인상했나?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVeEozczdoRjNlUW05endVNEpnOHZZOGUwTkV6d0taNWt1VmZUS1dlVmtwcll2d1pYUDNRaUtCTEYyTUwyNnFiNmoxSWRIWEptU2Eya1N5MlJlOFR4Y203Y21oeWI1TUpsMFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-19T15:50:00+00:00"
+      "t": "100살 된 전자 ‘스핀’… 반도체 넘어 우주 비밀 푼다",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZ1dhZV9QcURQalBEVEFqWDllS1M3ZWZCZ2l6WWlkWURGRFNoUVVJS2otUUlCTXU0cHBXWk9Hdm5QUUREVmVZb2xrcU5VMXVEQTREb1dHYUMyOWFLcWNfN3BMaUV5eFlWcUtOTnAwWdIBZkFVX3lxTE5DOWNaMFlzdUFaM3VFR2lmX0FZbUpxUTgtVGV0NjhTM0JiV3FodWxpMWtnOVBCeVhxSzBMWlJHSUZkSmVXbTN2aDEtMzNENFluNjQ2RlFzMmJmTGZmYjhyY2Rwc0pjdw?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-20T16:37:12+00:00"
     },
     {
-      "t": "물가 부담 속 주류도 ‘실속’… 키햐, 대용량·박스 상품 강화",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nY0tYSWxaa2o5Q1BMWVYwVUx1anJUYTRnd0czcGlYU0VLR01mbUhUemhfbjBEVFdxMHJ5bVpGbFVHWWU2NUlBOFJ4YTJZb08zYWdsdFRiUG5NSkhPYkRHc0h5WWdJNlpSVmQyOGVn?oc=5",
-      "s": "koreasprint.com",
-      "d": "2026-09-19T15:28:00+00:00"
+      "t": "경기경제청, TOK첨단재료 평택 포승공장 준공…반도체 핵심소재 거점 확보",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtZzV2SmtUT2haZG9wdmd0YXdmVHlkVzQ1bmFGX19JQ21naHlXa0VuSVkyYWpOQ0VSazRWMkN4SFhBRktBZjBYS3h4QXJLbkNFcmdsWnpTdFQ4WFFsSmhTdTFSaTRYbHM?oc=5",
+      "s": "경인신문",
+      "d": "2026-09-20T16:33:30+00:00"
     },
     {
-      "t": "\"차라리 매 빨리 맞는 게 낫다\" 연준 금리 추가 인상 시 주식시장 시나리오는",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40cUtId0hicGNzaVB3OUVBRWUzbEZZQTZvN29qZjdydktyMEtvb1VwM1QtYVJ3Ynh6UzNYR2FsMzVYT2RLaEx3SUlwTmNXQXFfZE9BM0tqTVFYMmNOdm85btIBeEFVX3lxTE85TDYxcThBTkhIX2QtYVowRHE2STdEb3Z2Y1ZQVWZKUlZGM2lBMTY0NFJhMHM5Z3lSMEZMeU8tZVhVZlM0XzhtQjZiSlJTeVhncnBoQmM2eGZKcy13Q3FqMHRQVjh3cWxtWGlRLTJFV2F6QnBoWS04VQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-19T15:03:00+00:00"
+      "t": "美연준 매파 카시카리",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96T0MwTWttX2JfeGFTRnlxR29HQjFKU0N4MmtQZHV0WkhaWXVqS0g4QzctaHBNVUQ2S3BiY3BEQVdXbElFZ1Vqc1A5VmJkdkJqR3c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-20T16:25:17+00:00"
     },
     {
-      "t": "[김대호 진단] 반도체 열전 (54) 메모리 3사 가격 담합... 집단소송 3배 배상",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnAtN0k2ZjE2WWRpd01sZ1NHOS1yaXpYSmdBWE1kUzUtbjdoTGE3d3dGRnFjcmp1ZFdFR196RkVRZXJjZjdwMU9HVWJXX0R3R0RWdDREQnZUVEhEYzZVZENBNkRJb3M1N0xNX0wzY000TE1tY29hNnV3RXU2dUxiOE1YQjM?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-19T15:00:00+00:00"
+      "t": "첨단지구~장성 나노산단 반도체 산업벨트 구축 빨라진다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlNFpKamZkODM2SVdSQUVhbzdoWUFDZkFaZjFEV0JtdDZad1VMUDVHVVpiektBZ0UtOEZDb2hFUGV5VnRJeER5MERBU2Y2SUk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-20T16:18:36+00:00"
     },
     {
-      "t": "30년 모기지 금리 7% 턱밑…시애틀 중간 가격대 주택 월 상환액 5천 달러",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81N3ozejNDbFBnLThvMlBKRTVkemlVS25tM2ZzbzhhMkhnTlJjaEpFRWZuLU5GNjlqUWM3UGFBbTNfZGtaZGxpS0N3STZCc2t5WDhBa3FmVE10U0pwbTFVd0hmbzNrVUpId3B2T3VZNEvSAXNBVV95cUxPd08yX05PTVlZVXRMY0hCbFowZVFSRXFuaVFaWG9VaFZUaTVoN0FLa3RmS1N3WnRjSHNwajVpS19ZUUcxVG15eERabWM2OU1GbFgxdTRnUThIb0dGTUt1dm01RmFPYTc0NmRJdm5JbHN2NVdz?oc=5",
-      "s": "시애틀코리안데일리",
-      "d": "2026-09-19T14:51:02+00:00"
+      "t": "韓, 파병 딜레마… 美는 대미투자·반도체·쿠팡 ‘다중 압박’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Y1FDU1IzSWZwQWUwQnZUaGQ1SHdHRWFjLTUyS1hHQWxoRjkxS3lHV015WUxyQzZjOHhzNkZLR0wxRGVOQXVDMko5UFBMOFE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-20T15:45:09+00:00"
     },
     {
-      "t": "[영상]윤준병 “전북, 국가 반도체 공급망 진입…특화단지는 시작일 뿐”",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rQzNsT0stVDlLNF9RVW1rM1ZwOU14cmlQbmpnUU5obFVsZlhwQkEtWU1aWjBTcDNwWjVBckp6c3pEaHp4QzFoMldMZ2lIQk5lMlZuU3JSRi1XT05wS19SV3cxT01WOTF5?oc=5",
-      "s": "todayan.com",
-      "d": "2026-09-19T14:50:05+00:00"
+      "t": "연준 3년 만에 금리 0.25%p 인상…공급 충격엔 한계 분석",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nWHhtam9DSjExejREbDBCOGU4eGd0cTlkejZINU16UlhxMy1Ca3BteVAzZHBsbDhWc0kybWZsQ0l4MjV3MlczVWhubUpKUkVub1hHQWdOVQ?oc=5",
+      "s": "토큰포스트",
+      "d": "2026-09-20T15:40:00+00:00"
     },
     {
-      "t": "사우디 동서 송유관 복구 추진등에 9월18 국제유가 하락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFakl5aWw2TVlwM0ZJaGpON2I2S0xXS05saGh6dlVYQmdjNnpjZlRBWDNtV01DZXg3a2JMSVlwcnd3d3hpcjVtazFNN05NU3BpdzdUWm1YODNOOEJJSmpVUHRNVjN6WFlGTVJrb0tiMTk4UQ?oc=5",
-      "s": "에너지신문",
-      "d": "2026-09-19T14:39:52+00:00"
+      "t": "두산에너빌리티(034020)",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0VnWmdxUDlMa2JLVUZnWlJGSXBzd2FVNXJjdlFKTVAwMVo4b3FvdndsLUtsQ0dhX1puQjJKQWIzMUExX1dkYktZVnV6Q2w0ZTJBMzJHTzVLWm5lQURmWmhXSENMZ3Bna0tLWXBKZk1GSmVrZ0dkQkV0ZlY4TzcxN0pJOThsOFV3azU2ckJWTmpOVGk4Wm40?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-20T15:36:48+00:00"
     },
     {
-      "t": "美국채 금리 5%, ‘안전자산’의 얼굴이 달라졌다…월가 자금 대이동",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYekxKZ0dtTHFCWFc2eHFKV19qUGdHU2VET3NEVHlzWWFVY1Q5RVUxRUZQMVNLSnRWNWpnOXJHY1d5cDhXX1dBZUlTUHpLb0NJMFZwblpDVXJTMEFFREV2SF9VblVoTWNLRkpOSE13?oc=5",
-      "s": "seoulilbo.co.kr",
-      "d": "2026-09-19T14:22:38+00:00"
+      "t": "“전 부치는 비용도 부담” 추석 밥상물가 뛰자 간편식 인기",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWTy1iUkdPZXF2cC1fUmNUUmNaVVN0QmQyTElwS3NheFFpWTdvaldjalBSZUtFa09FRWkwaEo5WjlVWUJRVFU3dGNveGZ1a1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-20T15:32:19+00:00"
     },
     {
-      "t": "합천군, 2026년 추석 명절 대비 물가대책위원회 개최",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mWnVDdmpON19uWHE5amMyUEt6TF81UnJ0aG1CekRSWi01S2dTU3NiWE9lRmpZWkl6RkVpQ0lDNGV1dWl1aVBjbGJJT0xXTzhHQ19EMnl4UDdqc2U2amM3c3kzRG5lc1VX?oc=5",
-      "s": "시사코리아저널",
-      "d": "2026-09-19T14:18:41+00:00"
+      "t": "“주식 대신 예적금” 은행 총수신 올 최고 찍었다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5seUc2UmJVaE9vSUpUMWpvRzU3cmo0N09EbWJsOWc5cUc1ZXI0U2MzR3lLc2xBazdDSzJvSGJvZ2lqeXJJdlhkeVZub0tEeGs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-20T15:31:57+00:00"
     }
   ],
   "asof": {},
