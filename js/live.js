@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T20:00:32+00:00",
-  "quotesAt": "2026-09-20T20:00:32+00:00",
-  "newsAt": "2026-09-20T20:00:32+00:00",
+  "fetchedAt": "2026-09-20T20:15:33+00:00",
+  "quotesAt": "2026-09-20T20:15:33+00:00",
+  "newsAt": "2026-09-20T20:15:33+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -25,9 +25,51 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "트럼프 배신하고 금리 올린 워시…12월 ‘한 방’ 더 남았다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QOXA3empVWi03cWtILTdNWU1EeDc4UjItbFNMelpTR2toMzNFVFY5d1hhYzJaOHByNEkwWkptem9yV1BNY3E0Vk12azV3WE1SczZTckR3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-20T20:12:59+00:00"
+    },
+    {
+      "t": "2026.09.21.(월) Signal Digest \"반도체,로봇,보안\"",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczRmNTRKcnp2cDdKTVpLMWtFaElyMXlwMXE2T0ZWeUhiRTU3QjZhV3AyWU9BZXAyV3l2ZWpoejYwYXM0QUxWdVpCdHY1dUE4VkRXVGtOU0xHZGp0ZGtPUVI3Z0lsN09qV21YSDJxMXRuRmFtaEFZMUZrMmZrTXUyMS1n?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-09-20T20:09:13+00:00"
+    },
+    {
+      "t": "[9.21(월) 월요일 장 전망] 연준 인상 후폭풍·유가 급락·트…",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPWFRRRFVwYW4zNHlLX0JsQVlpYkJid2xtX2FFT0JSa0ExYldPUVRnaWdEMEU3c3J6R0pJUTF5M2hvUHhwQ1hnMno3WTUtSTg3aVlnREhuaU1rdXY5WUFzRWktb29TX0ZwQkdyWVNjMmEwYXZnV0E?oc=5",
+      "s": "주달",
+      "d": "2026-09-20T20:01:42+00:00"
+    },
+    {
+      "t": "서울 부동산에 관심 많은 '한국은행'",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nbklySUR3RlRaMGpFNDVzTC02WENMam9ncDZ5S1hXTXpDeTd5OWtxNXBvWGhMSlJOVFRzTEgzVWNXY3pLQVpMYlhaNVZBRTFnTE80T1M5bmdmR0F6U0xCbWNYZXpqYlluaTk2bGU4S3VkQXc?oc=5",
+      "s": "마켓인",
+      "d": "2026-09-20T20:00:04+00:00"
+    },
+    {
+      "t": "[사설] 日 잇단 금리 인상, 엔 캐리 청산 가능성 대비해야",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU1U1Tmoyc2Y0ZHNQZTZEUmhmTkU4X3hGUDMwX2RFQ0NUbWVaeDV1dXF5VkVmdjhPVTBzU2VYa2JkSURkclRCRDZQbzl3RjBhNDFkRUJoaW9xQnlqS3hVQTE5bmlZTHRPMlVSXzE5Skl4NS1aVTJTb1ZjdlMyNHJjcA?oc=5",
+      "s": "edaily.co.kr",
+      "d": "2026-09-20T20:00:04+00:00"
+    },
+    {
+      "t": "“52시간 예외, 반도체특별법에도 적용” [K-반도체 마지막 퍼즐]",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ncWZEYkhwMndralIxYWhlYmF6NkV6X1FvMXBNSUJkbHh0ZzF1cTNWV1JiWWRKRzFEUG9IdFZqMnJZdGlPOHhIWVpQMVd2MTRvbEdIcQ?oc=5",
+      "s": "이투데이",
+      "d": "2026-09-20T20:00:00+00:00"
+    },
+    {
+      "t": "지방 쏠림 반도체법⋯“수도권 차별 없애야” [K-반도체 마지막 퍼즐]",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YZmY0NHYzYzBHVURMR1pXbE9mbzJuT1pqNWlVZm5YeU90NDBrR1Y4bkFGTG4ydHNQNlZqUmhlOFBDRS0wTi04X2xqUTlmbTJ3ck1QRg?oc=5",
+      "s": "이투데이",
+      "d": "2026-09-20T20:00:00+00:00"
+    },
+    {
       "t": "FOMC 매파 위원 \"美인플레, 유가상승 빼고 봐도 여전히 심각\"",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRE9LREc1UjZfb3hGY1M2QUtyUEVya21waF9XZ2JVSXBsYkRCYnZwVnF4VW56OEJ2NlpGY3Z1cXpCMm44MGJ6MnNHYnlQdEdBYTdsam14WXhvclJRVjJWWtIBeEFVX3lxTE9zVkVzNVoyNkV3R0Z1TEV4RGtTZFVGcG1aRmdYUjR2MXN1bU8wdG1EQktyMG1iY2kydW5xTWhqOE8ydXRUM2JHM2IwaVc0N1RjYTJQd0RYeS1BZTlZdWpJMzVmTXlRcXdCNjk4YVFmdDljbmx5S1FEeQ?oc=5",
-      "s": "뉴시스",
+      "s": "newsis.com",
       "d": "2026-09-20T19:52:38+00:00"
     },
     {
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8waEgtU2liM0U2UHRGeWdJYlN5MmV3WDM2NGw4ZkRMbXBINGxhQlZBN3RjdTEwa1JCc0dJS1pXZUlnc3NiMExja00zS1RvX2lURHM1cUxrb2dOWUV3b2JjUUIzODFVRjM4c1dDallJRVptRUHSAWZBVV95cUxQSlZrajc0cWwwMkc1bTZyc3BDRmVXVlV0RldLWmVhbXZ6LS00YWQ0bmdGdm5rdmZQTUhKSHNUc2FxNDRULWg2aXpDSEJFNmFaSmlCTExINlZMQ0lrdTdNdlROQTkyX2c?oc=5",
       "s": "동아일보",
       "d": "2026-09-20T19:30:00+00:00"
-    },
-    {
-      "t": "삼성 빼고 다 줄였다…회사채 대신 은행 찾는 기업들 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KRzViNlFZLXJPMnhmQ1pwbzUyRTNEbjJ5bEx2d2FWVmdSQ1JmTzM2Q1RnNUNSckdqN0FmdmlvME5hTFRNTllRWWE0SXc3S003ejN3d2N3THluMDB5Sm96US1veFJicTJON1dF0gFwQVVfeXFMUGljb2NPbHYyVC1uZWpYdHhKS3hDOFRIUWMzV1RVZDUzSml0UW9tY1ZYaE1BeE5lLUtlUThiQjd6V3ZoRzBEdi0xam9HT1EyTGhDTXpDTllMdU53WGlLTXpDV2djVVA4UnBDZ2ZtSUh2eA?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-20T19:30:00+00:00"
-    },
-    {
-      "t": "美 연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높아\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNOGs0UzRHT01OY01KRUd4YURWWlhudVJ5WVYyQ3J2Q1ExY25PSnJoekR0akJyZWctZ1M5UGM4UE8wemphb3Y2Q1Y1cG5ZOHM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-20T19:15:03+00:00"
-    },
-    {
-      "t": "미중회담 빅이벤트 낀 추석 앞, '사흘 승부' 코스피 긴장감 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FNEhITHR5Y1ZIdTcyQnFXeldNTzhqQmJudWFBM1JKa0xhN1F6TnAxMFpSYkRSTVBOcTNCd2FHR29CWmNHbGJYdWR4bTA0aWktNERlUUxpTzJJU2t2SzA1a1hjUDB3SFdsc2NiTVl1YXpiOE9OWmfSAXtBVV95cUxPSXluQk83ZEpfUjh5TEE1b2xocERCTmpnLXkzS1k2TFpEclZqbUQ3SUpKRkNRVzdsYmZ3ZENjNkJfcERUVkVDakUwM0N6dy10TE1FOHM2RVI3bVNjMjVWZF9EM0FMOVNJMk5QMHZLWGVGMThSTGxlX0p0MEE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-20T19:10:00+00:00"
-    },
-    {
-      "t": "코스피 7,000 재도전…추석 앞두고 美금리·미중 회담 '촉각'",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwVkZrU3F1anE2NEhfbnhiTDhMV3dLN1l6VTJvbjZkX3AtRFFyTVNvdXZlVXZnU3NoaG5Fa0wycXViOTMyd3oyMFRZUW8wbVFMczhsbERWd3o3RzlaSkE?oc=5",
-      "s": "news2day.co.kr",
-      "d": "2026-09-20T19:03:37+00:00"
-    },
-    {
-      "t": "금리 인상 악재에도 굳건한 증시…\"10월 반등 기회 온다\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpb0ZCSFJpWmNDUmRVVlJfT0RwZUJsdEwtcTBtck5zZ0d2bnhObEgwOTdNTkZjTTlQemdBWUwtYldoRXZPOWJ3dWJ2NjBxc3hVbTI1U0F4dkNOckFvTGRfS9IBeEFVX3lxTFAxS2xfcGNRMnNwLTJiS0tnOXJtYlhrM2V4dVRMYTZKY1RvS19iZktWODlwZEIwRGx6SnFHakw0anI4SXVRRkVaOFJBOXpzaTZRdzgxQ3pjenp2ckdqVHkzVFk5UXJCU2tJNGlLVEp4S2dQdEtQanZ4WQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-20T19:00:00+00:00"
-    },
-    {
-      "t": "“중국 반도체 증설이 삼전닉스 마진 압박 … 전력기기·로봇·조방원 주목”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tU3BIODlNbm1qQTNYXzJ2MUtnRzJCREo0Q005WnBBTWduRm5Yd2xaV3g4RnlnSkJKaUI3bWQ1bDhNNUd3VGR1VmJZWngzbmhNR3c?oc=5",
-      "s": "매일경제",
-      "d": "2026-09-20T19:00:00+00:00"
-    },
-    {
-      "t": "금리 올라도 기업 이익은 버틴다…러셀, 추가 인상 뒤 동결에 무게",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNGems3eFBPTjhsN0RhN2ZWNVpvWVVhNlgtckM3V2lRRm5XV3FQVUhFRzZqbnVTTTQ1OGRGMVRDTnRkN2MxTzFCdGJ0enR4cTZTS0dtS1dWakJFWTJHVkppdEkzRlMtazBPSGxRQm1NZkVEX3RWZzFrZlVqYWRUSGRXNFVrNTVt?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-20T18:55:00+00:00"
     }
   ],
   "asof": {},
