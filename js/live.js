@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T20:15:33+00:00",
-  "quotesAt": "2026-09-20T20:15:33+00:00",
-  "newsAt": "2026-09-20T20:15:33+00:00",
+  "fetchedAt": "2026-09-20T20:30:35+00:00",
+  "quotesAt": "2026-09-20T20:30:35+00:00",
+  "newsAt": "2026-09-20T20:30:35+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "AI 속도조절 일축한 트럼프 父子, 반도체·데이터센터 거액투자",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQTNlMVluaWxNNlpWYnFPSG5kLVdmNVpmVDd3MURZT0UyQTItWFl3Y1dlT2tDYlVTMkZtSHVUNkFvNWl2aTljM1lLRVU5eXc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-20T20:17:59+00:00"
+    },
     {
       "t": "트럼프 배신하고 금리 올린 워시…12월 ‘한 방’ 더 남았다",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QOXA3empVWi03cWtILTdNWU1EeDc4UjItbFNMelpTR2toMzNFVFY5d1hhYzJaOHByNEkwWkptem9yV1BNY3E0Vk12azV3WE1SczZTckR3?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVVdzYXVFUHZ4N05tLWk1aDlYX2pWZEszNVFZdUZJbHlwbU5ncVVGdVl3dFpXam9hWHlNQW1DY1R5Q1pMVkh6WTB2b2VFaGhTTU5ZS1hfbEhCVTNneW5QTDVwbTM3VTZUaHBZ0gFwQVVfeXFMTkhUM1UyWnZCdF8zbmJ6bm1tZ21hTkpiX0JxbE9odmtlY2FYTnlnM0l5SllvZS1USGczMzM3b3hCaU15RnVOQnphREVFWk1GLS1RY19zUFhfTjhxZ1NyWWVSa2oyeXhHSENwYkU5QWtWdw?oc=5",
       "s": "머니투데이",
       "d": "2026-09-20T19:45:00+00:00"
-    },
-    {
-      "t": "美中 경제수장, 관세-희토류-AI 등 조율 돌입… 정상회담 전초전",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8waEgtU2liM0U2UHRGeWdJYlN5MmV3WDM2NGw4ZkRMbXBINGxhQlZBN3RjdTEwa1JCc0dJS1pXZUlnc3NiMExja00zS1RvX2lURHM1cUxrb2dOWUV3b2JjUUIzODFVRjM4c1dDallJRVptRUHSAWZBVV95cUxQSlZrajc0cWwwMkc1bTZyc3BDRmVXVlV0RldLWmVhbXZ6LS00YWQ0bmdGdm5rdmZQTUhKSHNUc2FxNDRULWg2aXpDSEJFNmFaSmlCTExINlZMQ0lrdTdNdlROQTkyX2c?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-20T19:30:00+00:00"
     }
   ],
   "asof": {},
