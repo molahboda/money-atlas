@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T17:15:34+00:00",
-  "quotesAt": "2026-09-20T17:15:34+00:00",
-  "newsAt": "2026-09-20T17:15:34+00:00",
+  "fetchedAt": "2026-09-20T17:30:33+00:00",
+  "quotesAt": "2026-09-20T17:30:33+00:00",
+  "newsAt": "2026-09-20T17:30:33+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -43,9 +43,9 @@ window.LIVE_DATA = {
       "d": "2026-09-20T16:33:30+00:00"
     },
     {
-      "t": "美연준 매파 카시카리",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96T0MwTWttX2JfeGFTRnlxR29HQjFKU0N4MmtQZHV0WkhaWXVqS0g4QzctaHBNVUQ2S3BiY3BEQVdXbElFZ1Vqc1A5VmJkdkJqR3c?oc=5",
-      "s": "매일경제 마켓",
+      "t": "美연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높다\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52M25vSEhZYm9mRVlBNTN6bmM4VVpjT0dzSThYdFpzR3FrNko1bjN0ZURoaE5XdDhhWGRET0lJekRXbE1tS25QREdjenJZTXNENVhlTU1wbDdpRlXSAWBBVV95cUxOYlkydEFfM0t3QzUxbzZNUks4VHNTNjlQYTBqQ05hTFFvbWE1U0FJY0xjdi1jODhyQjE3TDl4czZkb2ZoY1NKVklqOHplQldseC10VTlyMDB2VzYtcDYwdlE?oc=5",
+      "s": "연합뉴스",
       "d": "2026-09-20T16:25:17+00:00"
     },
     {
