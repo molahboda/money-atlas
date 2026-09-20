@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T18:00:32+00:00",
-  "quotesAt": "2026-09-20T18:00:32+00:00",
-  "newsAt": "2026-09-20T18:00:32+00:00",
+  "fetchedAt": "2026-09-20T18:15:30+00:00",
+  "quotesAt": "2026-09-20T18:15:30+00:00",
+  "newsAt": "2026-09-20T18:15:30+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "골드만, 美 금리 인상에도 금 장기강세 유지…내년 5400달러",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzNqeFI2VjdnOC10ekItVGxUS1E2Wm9FT3ZETk13YmxpS2dKTmNnNmtScm9QSzBaOFNyWEZNWEphcTdLNng4UmJrNGk1ZUdjd0lWb0p6emk5aUp5RFVmVlgxMmZlWFY1R1FkUE52TWV3QlVwOThHTW1WMEZGc25QQjFvMmxNN3JN?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-20T18:00:00+00:00"
+    },
+    {
       "t": "370조엔 쏜 다카이치의 굴복… 日銀 1.25% 인상 묵인",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUNlV3ZsWk9feE94T1RIQUI4UHdrcnlFYjFSeEFwLXJmbWR1N1B6dHQyZV83OU5jTVRtcXozTGpacWJRODVMcXJ0UWtfNWI3UGNkTlRMbzdEaXB6Y3cyTnQ0dTF6UkJaVWFZQjVvX192dXhMWm12SHFMVGlqdThZaENhWDlvTVhC?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-20T17:51:11+00:00"
+    },
+    {
+      "t": "연준 ‘매파’ 카시카리 “인플레, 경제 전반서 너무 높아”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabjJ4S1FSSnFLZ0JtTVpFVGxUbGx0UVQ4ZnR5OHN0SU5zZ3haM2RVZXZ2dVpidFlaQmU4WnE1blBfM3VueGtfWTJaSG5uQVhDWExWRXQ2QVNHeFU?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-20T17:16:00+00:00"
     },
     {
       "t": "‘매파’ 카시카리 “美 인플레, 유가만의 문제 아냐… 경제 전반서 너무 높아” - 조선비즈",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nWHhtam9DSjExejREbDBCOGU4eGd0cTlkejZINU16UlhxMy1Ca3BteVAzZHBsbDhWc0kybWZsQ0l4MjV3MlczVWhubUpKUkVub1hHQWdOVQ?oc=5",
       "s": "토큰포스트",
       "d": "2026-09-20T15:40:00+00:00"
-    },
-    {
-      "t": "두산에너빌리티(034020)",
-      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0VnWmdxUDlMa2JLVUZnWlJGSXBzd2FVNXJjdlFKTVAwMVo4b3FvdndsLUtsQ0dhX1puQjJKQWIzMUExX1dkYktZVnV6Q2w0ZTJBMzJHTzVLWm5lQURmWmhXSENMZ3Bna0tLWXBKZk1GSmVrZ0dkQkV0ZlY4TzcxN0pJOThsOFV3azU2ckJWTmpOVGk4Wm40?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-20T15:36:48+00:00"
-    },
-    {
-      "t": "“전 부치는 비용도 부담” 추석 밥상물가 뛰자 간편식 인기",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWTy1iUkdPZXF2cC1fUmNUUmNaVVN0QmQyTElwS3NheFFpWTdvaldjalBSZUtFa09FRWkwaEo5WjlVWUJRVFU3dGNveGZ1a1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-20T15:32:19+00:00"
     }
   ],
   "asof": {},
