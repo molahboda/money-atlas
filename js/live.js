@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T18:45:32+00:00",
-  "quotesAt": "2026-09-20T18:45:32+00:00",
-  "newsAt": "2026-09-20T18:45:32+00:00",
+  "fetchedAt": "2026-09-20T19:00:30+00:00",
+  "quotesAt": "2026-09-20T19:00:30+00:00",
+  "newsAt": "2026-09-20T19:00:30+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "금리 올라도 기업 이익은 버틴다…러셀, 추가 인상 뒤 동결에 무게",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNGems3eFBPTjhsN0RhN2ZWNVpvWVVhNlgtckM3V2lRRm5XV3FQVUhFRzZqbnVTTTQ1OGRGMVRDTnRkN2MxTzFCdGJ0enR4cTZTS0dtS1dWakJFWTJHVkppdEkzRlMtazBPSGxRQm1NZkVEX3RWZzFrZlVqYWRUSGRXNFVrNTVt?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-20T18:55:00+00:00"
+    },
+    {
+      "t": "구자근 “호남 반도체, 용수 공급 안정성 검증해야”",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lSlc5bjF0M2k5MEJzSVV5QjBXTnlHbkFvWlhzSFV3TFF6dTEzT0JXNWNua3RkTmFaZW9DSU0yRHcxMGw1bW9od0VkeTZsdjNPbE96WEtDUjFWeXEtV1loX1gzQTMzNnVWVnA4VjhjbUk4dUlwbkp2c2tfYnYxZw?oc=5",
+      "s": "경북문화신문",
+      "d": "2026-09-20T18:48:33+00:00"
+    },
+    {
+      "t": "AI 슈퍼사이클이 연 1조 5100억 달러의 반도체 영토, 그 이면에 숨겨진 공급망 뇌관",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWtKLVpXd0otSDEyaENqeGJDbkRqLWYyNWdFakwzcS1IV0RTbC1tdkk1U1Z0M2syRVprc1A0ZXBWQ0FMRnpWTEZ4OWR2eVpsSzRGcDdEbGJrWHhKcXRXWlVQM09iYXBtdWFEZHN1OGJDdExQYWFfZjVvUHk5OHN4RWFOUFNvQ3BT?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-20T18:45:00+00:00"
+    },
     {
       "t": "골드만, 美 금리 인상에도 금 장기강세 유지…내년 5400달러",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzNqeFI2VjdnOC10ekItVGxUS1E2Wm9FT3ZETk13YmxpS2dKTmNnNmtScm9QSzBaOFNyWEZNWEphcTdLNng4UmJrNGk1ZUdjd0lWb0p6emk5aUp5RFVmVlgxMmZlWFY1R1FkUE52TWV3QlVwOThHTW1WMEZGc25QQjFvMmxNN3JN?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52M25vSEhZYm9mRVlBNTN6bmM4VVpjT0dzSThYdFpzR3FrNko1bjN0ZURoaE5XdDhhWGRET0lJekRXbE1tS25QREdjenJZTXNENVhlTU1wbDdpRlXSAWBBVV95cUxOYlkydEFfM0t3QzUxbzZNUks4VHNTNjlQYTBqQ05hTFFvbWE1U0FJY0xjdi1jODhyQjE3TDl4czZkb2ZoY1NKVklqOHplQldseC10VTlyMDB2VzYtcDYwdlE?oc=5",
       "s": "연합뉴스",
       "d": "2026-09-20T16:25:17+00:00"
-    },
-    {
-      "t": "첨단지구~장성 나노산단 반도체 산업벨트 구축 빨라진다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlNFpKamZkODM2SVdSQUVhbzdoWUFDZkFaZjFEV0JtdDZad1VMUDVHVVpiektBZ0UtOEZDb2hFUGV5VnRJeER5MERBU2Y2SUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-20T16:18:36+00:00"
-    },
-    {
-      "t": "韓, 파병 딜레마… 美는 대미투자·반도체·쿠팡 ‘다중 압박’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Y1FDU1IzSWZwQWUwQnZUaGQ1SHdHRWFjLTUyS1hHQWxoRjkxS3lHV015WUxyQzZjOHhzNkZLR0wxRGVOQXVDMko5UFBMOFE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-20T15:45:09+00:00"
-    },
-    {
-      "t": "연준 3년 만에 금리 0.25%p 인상…공급 충격엔 한계 분석",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nWHhtam9DSjExejREbDBCOGU4eGd0cTlkejZINU16UlhxMy1Ca3BteVAzZHBsbDhWc0kybWZsQ0l4MjV3MlczVWhubUpKUkVub1hHQWdOVQ?oc=5",
-      "s": "토큰포스트",
-      "d": "2026-09-20T15:40:00+00:00"
     }
   ],
   "asof": {},
