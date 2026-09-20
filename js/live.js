@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T19:45:32+00:00",
-  "quotesAt": "2026-09-20T19:45:32+00:00",
-  "newsAt": "2026-09-20T19:45:32+00:00",
+  "fetchedAt": "2026-09-20T20:00:32+00:00",
+  "quotesAt": "2026-09-20T20:00:32+00:00",
+  "newsAt": "2026-09-20T20:00:32+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "FOMC 매파 위원 \"美인플레, 유가상승 빼고 봐도 여전히 심각\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRE9LREc1UjZfb3hGY1M2QUtyUEVya21waF9XZ2JVSXBsYkRCYnZwVnF4VW56OEJ2NlpGY3Z1cXpCMm44MGJ6MnNHYnlQdEdBYTdsam14WXhvclJRVjJWWtIBeEFVX3lxTE9zVkVzNVoyNkV3R0Z1TEV4RGtTZFVGcG1aRmdYUjR2MXN1bU8wdG1EQktyMG1iY2kydW5xTWhqOE8ydXRUM2JHM2IwaVc0N1RjYTJQd0RYeS1BZTlZdWpJMzVmTXlRcXdCNjk4YVFmdDljbmx5S1FEeQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-20T19:52:38+00:00"
+    },
+    {
+      "t": "\"근저당 날짜까지 봐요\"…초우량 중기 잡으려 은행들 금리전쟁 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVVdzYXVFUHZ4N05tLWk1aDlYX2pWZEszNVFZdUZJbHlwbU5ncVVGdVl3dFpXam9hWHlNQW1DY1R5Q1pMVkh6WTB2b2VFaGhTTU5ZS1hfbEhCVTNneW5QTDVwbTM3VTZUaHBZ0gFwQVVfeXFMTkhUM1UyWnZCdF8zbmJ6bm1tZ21hTkpiX0JxbE9odmtlY2FYTnlnM0l5SllvZS1USGczMzM3b3hCaU15RnVOQnphREVFWk1GLS1RY19zUFhfTjhxZ1NyWWVSa2oyeXhHSENwYkU5QWtWdw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-20T19:45:00+00:00"
+    },
+    {
       "t": "美中 경제수장, 관세-희토류-AI 등 조율 돌입… 정상회담 전초전",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8waEgtU2liM0U2UHRGeWdJYlN5MmV3WDM2NGw4ZkRMbXBINGxhQlZBN3RjdTEwa1JCc0dJS1pXZUlnc3NiMExja00zS1RvX2lURHM1cUxrb2dOWUV3b2JjUUIzODFVRjM4c1dDallJRVptRUHSAWZBVV95cUxQSlZrajc0cWwwMkc1bTZyc3BDRmVXVlV0RldLWmVhbXZ6LS00YWQ0bmdGdm5rdmZQTUhKSHNUc2FxNDRULWg2aXpDSEJFNmFaSmlCTExINlZMQ0lrdTdNdlROQTkyX2c?oc=5",
       "s": "동아일보",
@@ -37,10 +49,10 @@ window.LIVE_DATA = {
       "d": "2026-09-20T19:30:00+00:00"
     },
     {
-      "t": "美 연준 매파 카시카리 인플레, 경제 전반서 여전히 너무 높아",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1ZUpqT0lzNjBBUERrM21WVld5NFJTUXY1eWEwa3ZRY0ROZXNzNkExakRLZEhjY2NwaXdzdGxBM19qdWNEd3lSbnkzWUY4UUszMG530gFYQVVfeXFMUGlDUkxWeHRVb1JzYi1sbzA5dDI4Q1M0UkJIWmpVU2g0QVBvUHFxdFBtNFJFaTZGWE9oN0NEWXZwcGR6blYtNWdTWFQ5aE1XdWFVQ1NzZ1dKWg?oc=5",
-      "s": "biz.sbs.co.kr",
-      "d": "2026-09-20T19:12:00+00:00"
+      "t": "美 연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높아\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNOGs0UzRHT01OY01KRUd4YURWWlhudVJ5WVYyQ3J2Q1ExY25PSnJoekR0akJyZWctZ1M5UGM4UE8wemphb3Y2Q1Y1cG5ZOHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-20T19:15:03+00:00"
     },
     {
       "t": "미중회담 빅이벤트 낀 추석 앞, '사흘 승부' 코스피 긴장감 - 머니투데이",
@@ -51,7 +63,7 @@ window.LIVE_DATA = {
     {
       "t": "코스피 7,000 재도전…추석 앞두고 美금리·미중 회담 '촉각'",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwVkZrU3F1anE2NEhfbnhiTDhMV3dLN1l6VTJvbjZkX3AtRFFyTVNvdXZlVXZnU3NoaG5Fa0wycXViOTMyd3oyMFRZUW8wbVFMczhsbERWd3o3RzlaSkE?oc=5",
-      "s": "뉴스투데이",
+      "s": "news2day.co.kr",
       "d": "2026-09-20T19:03:37+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNGems3eFBPTjhsN0RhN2ZWNVpvWVVhNlgtckM3V2lRRm5XV3FQVUhFRzZqbnVTTTQ1OGRGMVRDTnRkN2MxTzFCdGJ0enR4cTZTS0dtS1dWakJFWTJHVkppdEkzRlMtazBPSGxRQm1NZkVEX3RWZzFrZlVqYWRUSGRXNFVrNTVt?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-20T18:55:00+00:00"
-    },
-    {
-      "t": "구자근 “호남 반도체, 용수 공급 안정성 검증해야”",
-      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lSlc5bjF0M2k5MEJzSVV5QjBXTnlHbkFvWlhzSFV3TFF6dTEzT0JXNWNua3RkTmFaZW9DSU0yRHcxMGw1bW9od0VkeTZsdjNPbE96WEtDUjFWeXEtV1loX1gzQTMzNnVWVnA4VjhjbUk4dUlwbkp2c2tfYnYxZw?oc=5",
-      "s": "경북문화신문",
-      "d": "2026-09-20T18:48:33+00:00"
-    },
-    {
-      "t": "AI 슈퍼사이클이 연 1조 5100억 달러의 반도체 영토, 그 이면에 숨겨진 공급망 뇌관",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWtKLVpXd0otSDEyaENqeGJDbkRqLWYyNWdFakwzcS1IV0RTbC1tdkk1U1Z0M2syRVprc1A0ZXBWQ0FMRnpWTEZ4OWR2eVpsSzRGcDdEbGJrWHhKcXRXWlVQM09iYXBtdWFEZHN1OGJDdExQYWFfZjVvUHk5OHN4RWFOUFNvQ3BT?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-20T18:45:00+00:00"
     }
   ],
   "asof": {},
