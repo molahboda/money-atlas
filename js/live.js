@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T17:45:31+00:00",
-  "quotesAt": "2026-09-20T17:45:31+00:00",
-  "newsAt": "2026-09-20T17:45:31+00:00",
+  "fetchedAt": "2026-09-20T18:00:32+00:00",
+  "quotesAt": "2026-09-20T18:00:32+00:00",
+  "newsAt": "2026-09-20T18:00:32+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "370조엔 쏜 다카이치의 굴복… 日銀 1.25% 인상 묵인",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUNlV3ZsWk9feE94T1RIQUI4UHdrcnlFYjFSeEFwLXJmbWR1N1B6dHQyZV83OU5jTVRtcXozTGpacWJRODVMcXJ0UWtfNWI3UGNkTlRMbzdEaXB6Y3cyTnQ0dTF6UkJaVWFZQjVvX192dXhMWm12SHFMVGlqdThZaENhWDlvTVhC?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-20T17:51:11+00:00"
+    },
     {
       "t": "‘매파’ 카시카리 “美 인플레, 유가만의 문제 아냐… 경제 전반서 너무 높아” - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWhxbldUUTBRM0w2Ni1XQXVDSkNSSEFlakdxUmpReHJ4ZkxJZFF5eEgxXzlaOEJkR0pKQ0VrQmJIYUxDOWhHNG80dEJEakYybkdldzVuNlU0Slc4czRtalFIVjBhY3dMalR1NS1xWGdicnF2ODJtNEZJdkJWclpLendubEpLWlFHZGcxb3pQU2d3OXRTMEREcmRfc05HUdIBsgFBVV95cUxQRjQ5SVBwT0dUMVhmVmVUVmpYdHZabkJxYlp4QjBRMGRTR2VNcjdSMFNzLUdpaHRtcFpHNGlqS2tfdHZHd3dUeDZFUkRwRFNfVHI3Vlg0Z3c4emJvbVhCczdEZHBzTjZPZ2hLRm93amFTdjdQWVZlMWpSUzNRT1hlSklnYXdxRjdzSFJIbzFTeEIxSVF3TmotUU9rdXh4Unc4TXJlT05HRWZDdjgzY2l4SlhB?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWTy1iUkdPZXF2cC1fUmNUUmNaVVN0QmQyTElwS3NheFFpWTdvaldjalBSZUtFa09FRWkwaEo5WjlVWUJRVFU3dGNveGZ1a1U?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-20T15:32:19+00:00"
-    },
-    {
-      "t": "“주식 대신 예적금” 은행 총수신 올 최고 찍었다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5seUc2UmJVaE9vSUpUMWpvRzU3cmo0N09EbWJsOWc5cUc1ZXI0U2MzR3lLc2xBazdDSzJvSGJvZ2lqeXJJdlhkeVZub0tEeGs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-20T15:31:57+00:00"
     }
   ],
   "asof": {},
