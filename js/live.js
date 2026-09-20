@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T19:00:30+00:00",
-  "quotesAt": "2026-09-20T19:00:30+00:00",
-  "newsAt": "2026-09-20T19:00:30+00:00",
+  "fetchedAt": "2026-09-20T19:15:32+00:00",
+  "quotesAt": "2026-09-20T19:15:32+00:00",
+  "newsAt": "2026-09-20T19:15:32+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "코스피 7,000 재도전…추석 앞두고 美금리·미중 회담 '촉각'",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwVkZrU3F1anE2NEhfbnhiTDhMV3dLN1l6VTJvbjZkX3AtRFFyTVNvdXZlVXZnU3NoaG5Fa0wycXViOTMyd3oyMFRZUW8wbVFMczhsbERWd3o3RzlaSkE?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-09-20T19:03:37+00:00"
+    },
+    {
+      "t": "금리 인상 악재에도 굳건한 증시…\"10월 반등 기회 온다\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpb0ZCSFJpWmNDUmRVVlJfT0RwZUJsdEwtcTBtck5zZ0d2bnhObEgwOTdNTkZjTTlQemdBWUwtYldoRXZPOWJ3dWJ2NjBxc3hVbTI1U0F4dkNOckFvTGRfS9IBeEFVX3lxTFAxS2xfcGNRMnNwLTJiS0tnOXJtYlhrM2V4dVRMYTZKY1RvS19iZktWODlwZEIwRGx6SnFHakw0anI4SXVRRkVaOFJBOXpzaTZRdzgxQ3pjenp2ckdqVHkzVFk5UXJCU2tJNGlLVEp4S2dQdEtQanZ4WQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-20T19:00:00+00:00"
+    },
+    {
+      "t": "“중국 반도체 증설이 삼전닉스 마진 압박 … 전력기기·로봇·조방원 주목”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tU3BIODlNbm1qQTNYXzJ2MUtnRzJCREo0Q005WnBBTWduRm5Yd2xaV3g4RnlnSkJKaUI3bWQ1bDhNNUd3VGR1VmJZWngzbmhNR3c?oc=5",
+      "s": "매일경제",
+      "d": "2026-09-20T19:00:00+00:00"
+    },
     {
       "t": "금리 올라도 기업 이익은 버틴다…러셀, 추가 인상 뒤 동결에 무게",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnNGems3eFBPTjhsN0RhN2ZWNVpvWVVhNlgtckM3V2lRRm5XV3FQVUhFRzZqbnVTTTQ1OGRGMVRDTnRkN2MxTzFCdGJ0enR4cTZTS0dtS1dWakJFWTJHVkppdEkzRlMtazBPSGxRQm1NZkVEX3RWZzFrZlVqYWRUSGRXNFVrNTVt?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWhxbldUUTBRM0w2Ni1XQXVDSkNSSEFlakdxUmpReHJ4ZkxJZFF5eEgxXzlaOEJkR0pKQ0VrQmJIYUxDOWhHNG80dEJEakYybkdldzVuNlU0Slc4czRtalFIVjBhY3dMalR1NS1xWGdicnF2ODJtNEZJdkJWclpLendubEpLWlFHZGcxb3pQU2d3OXRTMEREcmRfc05HUdIBsgFBVV95cUxQRjQ5SVBwT0dUMVhmVmVUVmpYdHZabkJxYlp4QjBRMGRTR2VNcjdSMFNzLUdpaHRtcFpHNGlqS2tfdHZHd3dUeDZFUkRwRFNfVHI3Vlg0Z3c4emJvbVhCczdEZHBzTjZPZ2hLRm93amFTdjdQWVZlMWpSUzNRT1hlSklnYXdxRjdzSFJIbzFTeEIxSVF3TmotUU9rdXh4Unc4TXJlT05HRWZDdjgzY2l4SlhB?oc=5",
       "s": "Chosunbiz",
       "d": "2026-09-20T16:42:00+00:00"
-    },
-    {
-      "t": "100살 된 전자 ‘스핀’… 반도체 넘어 우주 비밀 푼다",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZ1dhZV9QcURQalBEVEFqWDllS1M3ZWZCZ2l6WWlkWURGRFNoUVVJS2otUUlCTXU0cHBXWk9Hdm5QUUREVmVZb2xrcU5VMXVEQTREb1dHYUMyOWFLcWNfN3BMaUV5eFlWcUtOTnAwWdIBZkFVX3lxTE5DOWNaMFlzdUFaM3VFR2lmX0FZbUpxUTgtVGV0NjhTM0JiV3FodWxpMWtnOVBCeVhxSzBMWlJHSUZkSmVXbTN2aDEtMzNENFluNjQ2RlFzMmJmTGZmYjhyY2Rwc0pjdw?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-20T16:37:12+00:00"
-    },
-    {
-      "t": "경기경제청, TOK첨단재료 평택 포승공장 준공…반도체 핵심소재 거점 확보",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtZzV2SmtUT2haZG9wdmd0YXdmVHlkVzQ1bmFGX19JQ21naHlXa0VuSVkyYWpOQ0VSazRWMkN4SFhBRktBZjBYS3h4QXJLbkNFcmdsWnpTdFQ4WFFsSmhTdTFSaTRYbHM?oc=5",
-      "s": "경인신문",
-      "d": "2026-09-20T16:33:30+00:00"
-    },
-    {
-      "t": "美연준 매파 카시카리 \"인플레, 경제 전반서 여전히 너무 높다\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52M25vSEhZYm9mRVlBNTN6bmM4VVpjT0dzSThYdFpzR3FrNko1bjN0ZURoaE5XdDhhWGRET0lJekRXbE1tS25QREdjenJZTXNENVhlTU1wbDdpRlXSAWBBVV95cUxOYlkydEFfM0t3QzUxbzZNUks4VHNTNjlQYTBqQ05hTFFvbWE1U0FJY0xjdi1jODhyQjE3TDl4czZkb2ZoY1NKVklqOHplQldseC10VTlyMDB2VzYtcDYwdlE?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-20T16:25:17+00:00"
     }
   ],
   "asof": {},
