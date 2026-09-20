@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T20:45:32+00:00",
-  "quotesAt": "2026-09-20T20:45:32+00:00",
-  "newsAt": "2026-09-20T20:45:32+00:00",
+  "fetchedAt": "2026-09-20T21:00:35+00:00",
+  "quotesAt": "2026-09-20T21:00:35+00:00",
+  "newsAt": "2026-09-20T21:00:35+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
     "nikkei": 65018.95,
     "vix": 14.81,
-    "krw": 1385.95,
+    "krw": 1385.72,
     "gold": 4424.9,
     "wti": 96.08,
     "dxy": 100.22
@@ -17,13 +17,31 @@ window.LIVE_DATA = {
     "spx": 1.31,
     "kospi": 2.62,
     "nikkei": 1.38,
-    "krw": 0.68,
+    "krw": 0.66,
     "dxy": 0,
     "gold": 0,
     "wti": -4.21,
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "호황 속 다음 스텝 고민…증권사 기업금융 격돌",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KdmwwLVNOZzk3Y2s2RTYwN2ZzOENkaXNtM1hRSzhLZWF5WjJkRWgtSWF1SHVSQ1NLWG84aFpIZW5zN3JhRUpab1hjd3R0T1Rmb0k2RDRJT214azNjb18zUEp6NElpU3BDLXdzeWx0MA?oc=5",
+      "s": "뉴스톱",
+      "d": "2026-09-20T20:55:23+00:00"
+    },
+    {
+      "t": "美연준 매파 \"인플레이션 여전히 너무 높아…낮출 수단 있어\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IVTM0LW56ZUthOHVBbWJHTkFRUEdndExkT2lweURUZF9BTFp2ZHJSOXJCbFNHV0ppa2IxMjZicV8xX2JmT0lrcGM0UEpLWnRLcVVVS19DWG52MnhORWNhRnpoNmZhcDg?oc=5",
+      "s": "yonhapnewstv.co.kr",
+      "d": "2026-09-20T20:46:00+00:00"
+    },
+    {
+      "t": "미니애폴리스 연은 총재 \"美 인플레, 유가뿐 아니라 경제 전반서 너무 높아\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11aHc4bXlSZEJUMkQ3dmxlRC04RGFza2g4T3k5VHkxWDNrcFItS2hfVGZSZXo3ZExFenE5ZEF6MlpIeXVtUFBESUliN0xLRjBRdEd5aVRfT1pVUHQ3MGw2N3dsUzRFVjjSAWxBVV95cUxQMmY4Tk96UWJ3Zkt2dTllckcwZGo3czRYMzJyNzFqTnRrNXRnc2VRTWg4eXhwWENBZUpPaDBZVjVrQm9uNHZ1Tll3Mm9HR3hweDl3dFRsQzY0d3ZGWUdPY0IxX3RFQVlYdTVxeGc?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-20T20:41:49+00:00"
+    },
     {
       "t": "금리 인상에도 반도체주 강세…미중 정상회담·메타 행사 주목[이번주 美 증시는] - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vbDNPUU1oYXBUT1FScWtIR2VzakwtTzZIZVRWamoyQ2Y3TThlWWYzTk83emowS0VRZ2Z2V2pCemhlZnRXTmk2Ump6eVdwN3NVNGY3ZGhJSlJkVm9rQV9vYkFIaVAwZEVjRkJnUnBwTzdpMFBzTkHSAXtBVV95cUxQREM4N3UzS0o5SVRPcFR0MFUwY0NDdldPQlk1eWdvLXk0SzZEU3ZuMU0xT213bVhibjlLbXVXQUE4b003dk5CQXl4WHhvTzM2bTBQMVNPSzVCOVVWRTFfY2N6aFNla3BuNVI1Y2V5ektuWU1ucGZPWG9faW8?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczRmNTRKcnp2cDdKTVpLMWtFaElyMXlwMXE2T0ZWeUhiRTU3QjZhV3AyWU9BZXAyV3l2ZWpoejYwYXM0QUxWdVpCdHY1dUE4VkRXVGtOU0xHZGp0ZGtPUVI3Z0lsN09qV21YSDJxMXRuRmFtaEFZMUZrMmZrTXUyMS1n?oc=5",
       "s": "네이버 프리미엄콘텐츠",
       "d": "2026-09-20T20:09:13+00:00"
-    },
-    {
-      "t": "호미로 될까…금리 인상, 3연속이냐 3번째냐",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUNzNoUXp0VVh4d2Vtekh0OGg2QUhfcUdOSkRueEZNWlhqcC16Q1hGS2s4M2NqaFJtZUpXRldYc2VXUHJWT0g4R1hlS3hxdUE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-20T20:03:20+00:00"
-    },
-    {
-      "t": "[9.21(월) 월요일 장 전망] 연준 인상 후폭풍·유가 급락·트…",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPWFRRRFVwYW4zNHlLX0JsQVlpYkJid2xtX2FFT0JSa0ExYldPUVRnaWdEMEU3c3J6R0pJUTF5M2hvUHhwQ1hnMno3WTUtSTg3aVlnREhuaU1rdXY5WUFzRWktb29TX0ZwQkdyWVNjMmEwYXZnV0E?oc=5",
-      "s": "주달",
-      "d": "2026-09-20T20:01:42+00:00"
-    },
-    {
-      "t": "서울 부동산에 관심 많은 '한국은행'",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nbklySUR3RlRaMGpFNDVzTC02WENMam9ncDZ5S1hXTXpDeTd5OWtxNXBvWGhMSlJOVFRzTEgzVWNXY3pLQVpMYlhaNVZBRTFnTE80T1M5bmdmR0F6U0xCbWNYZXpqYlluaTk2bGU4S3VkQXc?oc=5",
-      "s": "마켓인",
-      "d": "2026-09-20T20:00:04+00:00"
     }
   ],
   "asof": {},
