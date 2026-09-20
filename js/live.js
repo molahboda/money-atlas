@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T19:15:32+00:00",
-  "quotesAt": "2026-09-20T19:15:32+00:00",
-  "newsAt": "2026-09-20T19:15:32+00:00",
+  "fetchedAt": "2026-09-20T19:30:34+00:00",
+  "quotesAt": "2026-09-20T19:30:34+00:00",
+  "newsAt": "2026-09-20T19:30:34+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "美 연준 매파 카시카리 인플레, 경제 전반서 여전히 너무 높아",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1ZUpqT0lzNjBBUERrM21WVld5NFJTUXY1eWEwa3ZRY0ROZXNzNkExakRLZEhjY2NwaXdzdGxBM19qdWNEd3lSbnkzWUY4UUszMG530gFYQVVfeXFMUGlDUkxWeHRVb1JzYi1sbzA5dDI4Q1M0UkJIWmpVU2g0QVBvUHFxdFBtNFJFaTZGWE9oN0NEWXZwcGR6blYtNWdTWFQ5aE1XdWFVQ1NzZ1dKWg?oc=5",
+      "s": "biz.sbs.co.kr",
+      "d": "2026-09-20T19:12:00+00:00"
+    },
+    {
+      "t": "미중회담 빅이벤트 낀 추석 앞, '사흘 승부' 코스피 긴장감 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FNEhITHR5Y1ZIdTcyQnFXeldNTzhqQmJudWFBM1JKa0xhN1F6TnAxMFpSYkRSTVBOcTNCd2FHR29CWmNHbGJYdWR4bTA0aWktNERlUUxpTzJJU2t2SzA1a1hjUDB3SFdsc2NiTVl1YXpiOE9OWmfSAXtBVV95cUxPSXluQk83ZEpfUjh5TEE1b2xocERCTmpnLXkzS1k2TFpEclZqbUQ3SUpKRkNRVzdsYmZ3ZENjNkJfcERUVkVDakUwM0N6dy10TE1FOHM2RVI3bVNjMjVWZF9EM0FMOVNJMk5QMHZLWGVGMThSTGxlX0p0MEE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-20T19:10:00+00:00"
+    },
     {
       "t": "코스피 7,000 재도전…추석 앞두고 美금리·미중 회담 '촉각'",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwVkZrU3F1anE2NEhfbnhiTDhMV3dLN1l6VTJvbjZkX3AtRFFyTVNvdXZlVXZnU3NoaG5Fa0wycXViOTMyd3oyMFRZUW8wbVFMczhsbERWd3o3RzlaSkE?oc=5",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-20T18:00:00+00:00"
     },
     {
-      "t": "370조엔 쏜 다카이치의 굴복… 日銀 1.25% 인상 묵인",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUNlV3ZsWk9feE94T1RIQUI4UHdrcnlFYjFSeEFwLXJmbWR1N1B6dHQyZV83OU5jTVRtcXozTGpacWJRODVMcXJ0UWtfNWI3UGNkTlRMbzdEaXB6Y3cyTnQ0dTF6UkJaVWFZQjVvX192dXhMWm12SHFMVGlqdThZaENhWDlvTVhC?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-20T17:51:11+00:00"
-    },
-    {
       "t": "연준 ‘매파’ 카시카리 “인플레, 경제 전반서 너무 높아”",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabjJ4S1FSSnFLZ0JtTVpFVGxUbGx0UVQ4ZnR5OHN0SU5zZ3haM2RVZXZ2dVpidFlaQmU4WnE1blBfM3VueGtfWTJaSG5uQVhDWExWRXQ2QVNHeFU?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-09-20T17:16:00+00:00"
-    },
-    {
-      "t": "‘매파’ 카시카리 “美 인플레, 유가만의 문제 아냐… 경제 전반서 너무 높아” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUWhxbldUUTBRM0w2Ni1XQXVDSkNSSEFlakdxUmpReHJ4ZkxJZFF5eEgxXzlaOEJkR0pKQ0VrQmJIYUxDOWhHNG80dEJEakYybkdldzVuNlU0Slc4czRtalFIVjBhY3dMalR1NS1xWGdicnF2ODJtNEZJdkJWclpLendubEpLWlFHZGcxb3pQU2d3OXRTMEREcmRfc05HUdIBsgFBVV95cUxQRjQ5SVBwT0dUMVhmVmVUVmpYdHZabkJxYlp4QjBRMGRTR2VNcjdSMFNzLUdpaHRtcFpHNGlqS2tfdHZHd3dUeDZFUkRwRFNfVHI3Vlg0Z3c4emJvbVhCczdEZHBzTjZPZ2hLRm93amFTdjdQWVZlMWpSUzNRT1hlSklnYXdxRjdzSFJIbzFTeEIxSVF3TmotUU9rdXh4Unc4TXJlT05HRWZDdjgzY2l4SlhB?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-20T16:42:00+00:00"
     }
   ],
   "asof": {},
