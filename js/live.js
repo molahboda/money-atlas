@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-20T19:30:34+00:00",
-  "quotesAt": "2026-09-20T19:30:34+00:00",
-  "newsAt": "2026-09-20T19:30:34+00:00",
+  "fetchedAt": "2026-09-20T19:45:32+00:00",
+  "quotesAt": "2026-09-20T19:45:32+00:00",
+  "newsAt": "2026-09-20T19:45:32+00:00",
   "quotes": {
     "kospi": 6894.23,
     "spx": 7650.5,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -4.08
   },
   "news": [
+    {
+      "t": "美中 경제수장, 관세-희토류-AI 등 조율 돌입… 정상회담 전초전",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8waEgtU2liM0U2UHRGeWdJYlN5MmV3WDM2NGw4ZkRMbXBINGxhQlZBN3RjdTEwa1JCc0dJS1pXZUlnc3NiMExja00zS1RvX2lURHM1cUxrb2dOWUV3b2JjUUIzODFVRjM4c1dDallJRVptRUHSAWZBVV95cUxQSlZrajc0cWwwMkc1bTZyc3BDRmVXVlV0RldLWmVhbXZ6LS00YWQ0bmdGdm5rdmZQTUhKSHNUc2FxNDRULWg2aXpDSEJFNmFaSmlCTExINlZMQ0lrdTdNdlROQTkyX2c?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-20T19:30:00+00:00"
+    },
+    {
+      "t": "삼성 빼고 다 줄였다…회사채 대신 은행 찾는 기업들 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KRzViNlFZLXJPMnhmQ1pwbzUyRTNEbjJ5bEx2d2FWVmdSQ1JmTzM2Q1RnNUNSckdqN0FmdmlvME5hTFRNTllRWWE0SXc3S003ejN3d2N3THluMDB5Sm96US1veFJicTJON1dF0gFwQVVfeXFMUGljb2NPbHYyVC1uZWpYdHhKS3hDOFRIUWMzV1RVZDUzSml0UW9tY1ZYaE1BeE5lLUtlUThiQjd6V3ZoRzBEdi0xam9HT1EyTGhDTXpDTllMdU53WGlLTXpDV2djVVA4UnBDZ2ZtSUh2eA?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-20T19:30:00+00:00"
+    },
     {
       "t": "美 연준 매파 카시카리 인플레, 경제 전반서 여전히 너무 높아",
       "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1ZUpqT0lzNjBBUERrM21WVld5NFJTUXY1eWEwa3ZRY0ROZXNzNkExakRLZEhjY2NwaXdzdGxBM19qdWNEd3lSbnkzWUY4UUszMG530gFYQVVfeXFMUGlDUkxWeHRVb1JzYi1sbzA5dDI4Q1M0UkJIWmpVU2g0QVBvUHFxdFBtNFJFaTZGWE9oN0NEWXZwcGR6blYtNWdTWFQ5aE1XdWFVQ1NzZ1dKWg?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWtKLVpXd0otSDEyaENqeGJDbkRqLWYyNWdFakwzcS1IV0RTbC1tdkk1U1Z0M2syRVprc1A0ZXBWQ0FMRnpWTEZ4OWR2eVpsSzRGcDdEbGJrWHhKcXRXWlVQM09iYXBtdWFEZHN1OGJDdExQYWFfZjVvUHk5OHN4RWFOUFNvQ3BT?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-20T18:45:00+00:00"
-    },
-    {
-      "t": "골드만, 美 금리 인상에도 금 장기강세 유지…내년 5400달러",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzNqeFI2VjdnOC10ekItVGxUS1E2Wm9FT3ZETk13YmxpS2dKTmNnNmtScm9QSzBaOFNyWEZNWEphcTdLNng4UmJrNGk1ZUdjd0lWb0p6emk5aUp5RFVmVlgxMmZlWFY1R1FkUE52TWV3QlVwOThHTW1WMEZGc25QQjFvMmxNN3JN?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-20T18:00:00+00:00"
-    },
-    {
-      "t": "연준 ‘매파’ 카시카리 “인플레, 경제 전반서 너무 높아”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabjJ4S1FSSnFLZ0JtTVpFVGxUbGx0UVQ4ZnR5OHN0SU5zZ3haM2RVZXZ2dVpidFlaQmU4WnE1blBfM3VueGtfWTJaSG5uQVhDWExWRXQ2QVNHeFU?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-09-20T17:16:00+00:00"
     }
   ],
   "asof": {},
