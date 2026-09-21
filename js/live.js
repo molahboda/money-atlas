@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-21T01:45:41+00:00",
-  "quotesAt": "2026-09-21T01:45:41+00:00",
-  "newsAt": "2026-09-21T01:45:41+00:00",
+  "fetchedAt": "2026-09-21T02:00:31+00:00",
+  "quotesAt": "2026-09-21T02:00:31+00:00",
+  "newsAt": "2026-09-21T02:00:31+00:00",
   "quotes": {
-    "kospi": 6999.94,
+    "kospi": 6998.87,
     "spx": 7650.5,
     "nikkei": 65018.95,
     "vix": 14.81,
-    "krw": 1386.2,
-    "gold": 4415.7,
-    "wti": 93.82,
-    "dxy": 100.22
+    "krw": 1385.74,
+    "gold": 4416.9,
+    "wti": 93.97,
+    "dxy": 100.21
   },
   "daily": {
     "spx": 1.31,
-    "kospi": 4.24,
+    "kospi": 4.22,
     "nikkei": 1.38,
-    "krw": 0.48,
-    "dxy": 0,
-    "gold": -0.21,
-    "wti": -6.46,
+    "krw": 0.45,
+    "dxy": -0.01,
+    "gold": -0.18,
+    "wti": -6.31,
     "vix": -4.08
   },
   "news": [
     {
-      "t": "호황 속 다음 스텝 고민…증권사 기업금융 격돌",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KdmwwLVNOZzk3Y2s2RTYwN2ZzOENkaXNtM1hRSzhLZWF5WjJkRWgtSWF1SHVSQ1NLWG84aFpIZW5zN3JhRUpab1hjd3R0T1Rmb0k2RDRJT214azNjb18zUEp6NElpU3BDLXdzeWx0MA?oc=5",
-      "s": "뉴스톱",
-      "d": "2026-09-20T20:55:23+00:00"
-    },
-    {
-      "t": "美연준 매파 \"인플레이션 여전히 너무 높아…낮출 수단 있어\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IVTM0LW56ZUthOHVBbWJHTkFRUEdndExkT2lweURUZF9BTFp2ZHJSOXJCbFNHV0ppa2IxMjZicV8xX2JmT0lrcGM0UEpLWnRLcVVVS19DWG52MnhORWNhRnpoNmZhcDg?oc=5",
-      "s": "yonhapnewstv.co.kr",
-      "d": "2026-09-20T20:46:00+00:00"
-    },
-    {
-      "t": "미니애폴리스 연은 총재 \"美 인플레, 유가뿐 아니라 경제 전반서 너무 높아\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11aHc4bXlSZEJUMkQ3dmxlRC04RGFza2g4T3k5VHkxWDNrcFItS2hfVGZSZXo3ZExFenE5ZEF6MlpIeXVtUFBESUliN0xLRjBRdEd5aVRfT1pVUHQ3MGw2N3dsUzRFVjjSAWxBVV95cUxQMmY4Tk96UWJ3Zkt2dTllckcwZGo3czRYMzJyNzFqTnRrNXRnc2VRTWg4eXhwWENBZUpPaDBZVjVrQm9uNHZ1Tll3Mm9HR3hweDl3dFRsQzY0d3ZGWUdPY0IxX3RFQVlYdTVxeGc?oc=5",
-      "s": "뉴스1",
-      "d": "2026-09-20T20:41:49+00:00"
-    },
-    {
-      "t": "금리 인상에도 반도체주 강세…미중 정상회담·메타 행사 주목[이번주 美 증시는] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vbDNPUU1oYXBUT1FScWtIR2VzakwtTzZIZVRWamoyQ2Y3TThlWWYzTk83emowS0VRZ2Z2V2pCemhlZnRXTmk2Ump6eVdwN3NVNGY3ZGhJSlJkVm9rQV9vYkFIaVAwZEVjRkJnUnBwTzdpMFBzTkHSAXtBVV95cUxQREM4N3UzS0o5SVRPcFR0MFUwY0NDdldPQlk1eWdvLXk0SzZEU3ZuMU0xT213bVhibjlLbXVXQUE4b003dk5CQXl4WHhvTzM2bTBQMVNPSzVCOVVWRTFfY2N6aFNla3BuNVI1Y2V5ektuWU1ucGZPWG9faW8?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-20T20:35:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시 주간전망] 금리 인상 후폭풍에 美·中 담판까지…사상 최고치 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckFiSnBqb3RuV1ZxR2tXMTB1YjhsWmhRQkk1bWZ1SWhKV1ZwMDJpQUpETzVMc0hoSXpqb0RzS3NOZlJjLThfb1lsWVZUQTFJbW0yOVZDSzkxWXFSYnNVaHVrQkJWc0FSV2duNUFWUkJsOER5TDZDZFNubmJsMDVPLV9Tb0VObkFR?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-20T20:33:29+00:00"
-    },
-    {
-      "t": "7000선 문턱 코스피…미중 정상회담·美 금리 ‘변수’ [주간 증시 전망]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yV2kxSkU4LUw1UEZveGZ1cGt4V3UwVmNScjBBNEpzN3MwbHNuR2h4XzhsZ2JVUUxNN0x1WVNfT3RON19uUkFwQXBTczV3cTFaT3fSAVNBVV95cUxOWVNGUC1zcXVWc2tSaFNfal9mMW1wSDNFVjgtM01PQzJtSUx4N0ZxOXhFMXBTYkZvcWw1V2Y3ZFB3MW5nZzIyTVhWalF4TU1JMnNZTQ?oc=5",
-      "s": "sedaily.com",
-      "d": "2026-09-20T20:30:00+00:00"
-    },
-    {
-      "t": "미 연준 카시카리 \"물가상승률, 경제 전반서 여전히 너무 높다\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyLTRGTDZ6b3FqU1hjWWw1d3BteG9pcGkxMWhjVHpmTUNWUjNibklDekhyUDQyVnpqOEtTaWxKcFlITnYyNVNYVnJmdkdQOXZ4czNEandIUWEwWFFBb3h2UDNuZXhDeGMzbGNjWTNfcVMybUpj0gF0QVVfeXFMTVpac3o1ZE9GSXFya2JnWkpHWkZvMmFucnY0b0FyVnBPZ1JWVC1nRWpYWFNOOUFiWWdfTVFJOXMzVElUY3ZoVU5EV25sZVphZ0doMXFBM2Q1S3Y4VWZuWjFZbWJ0UEw2Yi1rdTVpRVhRSEM2QnY?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-09-20T20:26:24+00:00"
-    },
-    {
-      "t": "AI 속도조절 일축한 트럼프 父子, 반도체·데이터센터 거액투자",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfQTNlMVluaWxNNlpWYnFPSG5kLVdmNVpmVDd3MURZT0UyQTItWFl3Y1dlT2tDYlVTMkZtSHVUNkFvNWl2aTljM1lLRVU5eXc?oc=5",
+      "t": "“시장 예상보다 더 오른다”…美 금리 5%대 경고한 BofA",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84YTJOMm5BZGw4SHNfZTI1eHdQVHhsaVdMb0w1dHl0VUtnbkdwWmJaVW5qcE5fZGlIV3MzdkVxaTRtUlZqYXJNRGhaSXdIQjQ?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-20T20:17:59+00:00"
+      "d": "2026-09-21T01:51:09+00:00"
     },
     {
-      "t": "트럼프 배신하고 금리 올린 워시…12월 ‘한 방’ 더 남았다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QOXA3empVWi03cWtILTdNWU1EeDc4UjItbFNMelpTR2toMzNFVFY5d1hhYzJaOHByNEkwWkptem9yV1BNY3E0Vk12azV3WE1SczZTckR3?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-20T20:12:59+00:00"
+      "t": "BofA \"연준 기준금리 5% 이상 올릴 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HYUVhMmYzM1hiS19XZ2VNeS1oOGF2WDBGQUNicGR4Q2NIel9ORFI3dldfLXMxcVBuZXJRTmVTNllsZWNCTE5LQUVzTjFHeTJ3aW5IYmpVdUplUGNId0l0cW4tS013Qy14VHBTYnRLblE?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-09-21T01:48:27+00:00"
     },
     {
-      "t": "2026.09.21.(월) Signal Digest \"반도체,로봇,보안\"",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQczRmNTRKcnp2cDdKTVpLMWtFaElyMXlwMXE2T0ZWeUhiRTU3QjZhV3AyWU9BZXAyV3l2ZWpoejYwYXM0QUxWdVpCdHY1dUE4VkRXVGtOU0xHZGp0ZGtPUVI3Z0lsN09qV21YSDJxMXRuRmFtaEFZMUZrMmZrTXUyMS1n?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-09-20T20:09:13+00:00"
+      "t": "월가 전문가 \"美 경제 이중고…금리 인상에 소비지출 둔화 조짐도\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16dDB6UVJUeHdKdWEyRk1kZWZWVk1RcXVsa1hlS3FJemg5R2xOUjZVeUNLMXhvdm5lYWRBd0cxV1ViclRzdHZ3U3o4Y1g5bVJxcmZYemw4d2NOSkJTOGd5RHRmTklMNXlPTUpVNGdlaVg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-21T01:47:57+00:00"
+    },
+    {
+      "t": "BofA \"연준, 연내 두 차례 추가 인상…워시에게 정치적 기회\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hbmp6ZVYyNkZqOWVPdm1LQVRTZ04xXzRQM3l5VC15LUtYNlp4eXI2ZmNVaE1SUGdOeDV6N192SDVLcXVhRW5WVlJ1S3RrOHFBRzhUMVlrVmFQcl91N3k2QjFPY2hvOW5YeGg4c00wZWs?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-21T01:46:25+00:00"
+    },
+    {
+      "t": "고동진 \"호남 반도체는 선거용…완공 때면 시장 달라질 수도\"[AI룰메이커]⑨",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fbk5rZHk1MEc2V0w3VjcwN1hFWEotTUFaNGJzWTlMcW84S3RCVXhFc1JjX05ITGRPMW5ielhBaTJTM3puZkZJZFdEQ2dKblk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-21T01:44:52+00:00"
+    },
+    {
+      "t": "반도체가 끌고 간 수출…9월 1~20일 714억달러 ‘역대 최대’",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUkxxTGpSOEdPR0t0UTRZRHphU0xoZ1pXVWZEWWdwMzRMa2F2eERIb0NPXzdOdXpEN2RDanVBNDZqNGFUZ2VCcF8zZkFiV3JEWkFFSE9JUGc3ZXkybzVsNExaSk8?oc=5",
+      "s": "경기신문",
+      "d": "2026-09-21T01:42:57+00:00"
+    },
+    {
+      "t": "\"美 금리 5% 넘을 수도\"…월가서 나온 경고",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcnhzUDdFNUFxcEZWaEtGY2dwN3VmUzZHcXE4SE85X1ZaYXIxSktNaDF5MVlJZEVHRVhXdkluT1lPOWlVWktiSUlSa0p1NXVNenM0QTk2VlJJUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-21T01:42:52+00:00"
+    },
+    {
+      "t": "BofA \"연준, 기준금리 5% 이상으로 올릴 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLaW1pa3o5YWdxOXk3RmRLSVphUUU5ZFlKRlk5ZDVOY0czbE9QUjE1Tk1GbU5mVUJsNUdVeExrMTlTT0xaVnhNV2NVTFdnU0J1MDBIUkZXYjRqUmxNajBrWnhkaVMzc0E?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-21T01:39:00+00:00"
+    },
+    {
+      "t": "\"연준 기준금리 5% 이상으로 올릴수 있어\"…BofA 경고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DZncxUUsyOWVKTUlYV3M0NmZlNjlJUl84RnhaSmRGdlZMeV9GeXJ6bjUxMkJRbHlLX25GUW85d2N0VFlKSkRNSVR3VUoyOFE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-21T01:36:03+00:00"
+    },
+    {
+      "t": "[특징주] 삼성전자·SK하이닉스 동반 강세…코스피 7000선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oRUFwVXNiVUZpNVNzNm1HaUFzb3Q5ZjJ6UkRfQ3JoUGpsWWxQdkVJeXZ3SFlRS3lOYTl0MmFQOUluVGtva2JmUDJGVlJNcXV5LWpwQ3RkeUZ1ODZKT0hTTi1PYw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-21T01:35:07+00:00"
     }
   ],
   "asof": {},
