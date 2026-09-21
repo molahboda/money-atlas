@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-21T13:15:32+00:00",
-  "quotesAt": "2026-09-21T13:15:32+00:00",
-  "newsAt": "2026-09-21T13:15:32+00:00",
+  "fetchedAt": "2026-09-21T13:30:31+00:00",
+  "quotesAt": "2026-09-21T13:30:31+00:00",
+  "newsAt": "2026-09-21T13:30:31+00:00",
   "quotes": {
     "kospi": 7007.72,
-    "spx": 7650.5,
+    "spx": 7698.53,
     "nikkei": 65018.95,
-    "vix": 14.88,
-    "krw": 1372.46,
-    "gold": 4396.3,
-    "wti": 93.05,
+    "vix": 14.87,
+    "krw": 1371.78,
+    "gold": 4399.5,
+    "wti": 92.78,
     "dxy": 100.28
   },
   "daily": {
-    "spx": 1.31,
+    "spx": 0.8,
     "kospi": 4.35,
     "nikkei": 1.38,
-    "krw": -0.51,
+    "krw": -0.56,
     "dxy": 0.05,
-    "gold": -0.65,
-    "wti": -3.15,
-    "vix": 0.47
+    "gold": -0.57,
+    "wti": -3.43,
+    "vix": 0.41
   },
   "news": [
+    {
+      "t": "미국 주요 항공 및 크루즈주, 유가 하락에 상승",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZXNlX1dqajRKcEczckZ6NnBNbmM0QkN6S1ZPQXNNRnlHVV9XRnF4YU5QNXVHdWJUQ2hPZUo1QklaUXA0aTdKRTNJa2J0NmNVQlgtVFloaHBQd0tld1FUOWwxM25iUmlmZlZIMjQ2X1J5MkNyN1pZ?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-09-21T13:11:00+00:00"
+    },
     {
       "t": "굴스비 연준 총재 \"인플레이션, 더 빠른 금리 인상 필요할 수도\"",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTFU3NjhvU1FEbWNEVzF5R3V5VVhadHBGVjVZOEhOVnYzMlVOYkRGcXdhLTJ4UHpTY1ZGNmFyUk42aFRjT1k0TURKcERnYVAtZ2swQ2lJeTVDc25RQUpOTjdVOVN6N3Y4Tnc?oc=5",
@@ -37,9 +43,9 @@ window.LIVE_DATA = {
       "d": "2026-09-21T13:02:45+00:00"
     },
     {
-      "t": "\"3년 만에 오른 미 금리, 5% 상회 대비해야\"…'금리 쇼크' 오나 [분석+]",
+      "t": "\"4년 전 악몽 재현되나\"…한숨 돌리던 개미들 다시 '긴장' [분석+]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzb0ZNUkNUei1RdVI2WXNjRkNHbVZNalpfaTBkVXBsaUFQY01qLWhGZHhXdGxuZWRVTEdlS1RhMmZvLWZWSlViRmJacFhCa1VlZ0tocDRvM0VDQQ?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-09-21T13:00:04+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tMFBKWkZSSENIZFAwU2dURnI1WG5mUk9MaG5YNmJOdlZMSkFJUnNSUVQ4OW1NTHo5NlJrdlJ4cWgyUUtPeWNVTjBnRERrbHJVdnJtNXc4WXlSZEQyN1RQcGFYT0otX0djLWtzNVZB?oc=5",
       "s": "kr.investing.com",
       "d": "2026-09-21T12:31:00+00:00"
-    },
-    {
-      "t": "김천에 AI반도체 유리기판 생산라인 들어선다…제이앤티씨 3470억 투자",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VZXBKc1I2VTZGVUtSQ1hFWnkzeVNfRjhsMlF6QUM4VkdwWGt5WFFZdFpIVmdOTUhhcTlnRXZKMWNydFlDYzc0OWpUblZ4ZWM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-21T12:23:53+00:00"
     }
   ],
   "asof": {},
