@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-22T02:15:38+00:00",
-  "quotesAt": "2026-09-22T02:15:38+00:00",
-  "newsAt": "2026-09-22T02:15:38+00:00",
+  "fetchedAt": "2026-09-22T02:30:31+00:00",
+  "quotesAt": "2026-09-22T02:30:31+00:00",
+  "newsAt": "2026-09-22T02:30:31+00:00",
   "quotes": {
-    "kospi": 7121.14,
+    "kospi": 7126.23,
     "spx": 7764.7,
     "nikkei": 65018.95,
     "vix": 14.87,
-    "krw": 1360.68,
-    "gold": 4387.9,
-    "wti": 92.84,
-    "dxy": 100.44
+    "krw": 1360.63,
+    "gold": 4381.3,
+    "wti": 92.8,
+    "dxy": 100.42
   },
   "daily": {
     "spx": 1.66,
-    "kospi": 3.29,
+    "kospi": 3.37,
     "nikkei": 1.38,
     "krw": -1.75,
-    "dxy": 0.01,
-    "gold": 0.09,
-    "wti": 0.51,
+    "dxy": -0.01,
+    "gold": -0.06,
+    "wti": 0.47,
     "vix": 0.41
   },
   "news": [
     {
-      "t": "“시장 예상보다 더 오른다”…美 금리 5%대 경고한 BofA",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84YTJOMm5BZGw4SHNfZTI1eHdQVHhsaVdMb0w1dHl0VUtnbkdwWmJaVW5qcE5fZGlIV3MzdkVxaTRtUlZqYXJNRGhaSXdIQjQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-21T01:51:09+00:00"
+      "t": "반도체 중심으로 살아난 투자심리…추가매수 기회는 선별적으로",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MkxwN2docWdvcG9Qb0JhLXhKTFBSOEhLbC1taGQ4UUUtQk9iOERlTVVZQW0xVFFxUFFPQVVTdXk5R3NXelpsczk3bW9LMHVNRnNFdTVPV3hsRlNoX2MxeQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-22T02:23:00+00:00"
     },
     {
-      "t": "BofA \"연준 기준금리 5% 이상 올릴 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HYUVhMmYzM1hiS19XZ2VNeS1oOGF2WDBGQUNicGR4Q2NIel9ORFI3dldfLXMxcVBuZXJRTmVTNllsZWNCTE5LQUVzTjFHeTJ3aW5IYmpVdUplUGNId0l0cW4tS013Qy14VHBTYnRLblE?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-21T01:48:27+00:00"
-    },
-    {
-      "t": "월가 전문가 \"美 경제 이중고…금리 인상에 소비지출 둔화 조짐도\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16dDB6UVJUeHdKdWEyRk1kZWZWVk1RcXVsa1hlS3FJemg5R2xOUjZVeUNLMXhvdm5lYWRBd0cxV1ViclRzdHZ3U3o4Y1g5bVJxcmZYemw4d2NOSkJTOGd5RHRmTklMNXlPTUpVNGdlaVg?oc=5",
+      "t": "SK하이닉스 ADR, 美 반도체지수 조기편입…개미 '최애' SOXL에도 담겼다",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tanVmMWxzWkg0dnluTW9hVkhrQWpNcjl0M1VmbS1EME5pYVhOcE5ib2dMb1gtajB5dy1JZjJ6VE00ZVVrZ3JRQTFqbmRDeVJmNXpwWlpvTGNmQjgyc0s1eXdCQnQ1YnNUamlUSXBYZEE?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-21T01:47:57+00:00"
+      "d": "2026-09-22T02:20:21+00:00"
     },
     {
-      "t": "BofA \"연준, 연내 두 차례 추가 인상…워시에게 정치적 기회\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hbmp6ZVYyNkZqOWVPdm1LQVRTZ04xXzRQM3l5VC15LUtYNlp4eXI2ZmNVaE1SUGdOeDV6N192SDVLcXVhRW5WVlJ1S3RrOHFBRzhUMVlrVmFQcl91N3k2QjFPY2hvOW5YeGg4c00wZWs?oc=5",
+      "t": "NH농협은행, 전남광주 ‘반도체클러스터’ 성공 조성 전방위 지원",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbG91dlFydFluUnlIQzdSZTF4cmNWWXNrZW91dUVhZXBVaWdIYkhqOUoyVER6Y2xnNHE2VmJzYVJaeWxxVWlCUWs1QUlWOTM2LS13OWNwSlVJdw?oc=5",
+      "s": "농민신문",
+      "d": "2026-09-22T02:16:00+00:00"
+    },
+    {
+      "t": "AMD, 시총 1조 달러 돌파…美 반도체 기업 사상 4번째",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OcjNCcmZvdTA2TFVSUlR6TTBFaFpXb3FUQ2JiSThvY0tMTUJYQmkwa1VzaHZoZHpFSE1yTWtac0RubFFHa1JCQ0hPVVNNWG5ZOEE?oc=5",
+      "s": "더나은미래",
+      "d": "2026-09-22T02:15:00+00:00"
+    },
+    {
+      "t": "반도체 호황에도…금리 상승에 대출 ‘약한 고리’ 위험 커졌다",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNWMtaGZBM2N6OUllbkx1LTBudXRuN0hzTmp5c054c2F4dVgzUXBUUTkxd3R1S012S2NpcEsxS04telk2ZWNleGcxYnN4OXdRRVl6N0xsV1FWbk1sQzlNcWZKRmV2TExzdXFIeFRaa0F3Z1ljSDlTZHRkSmFPeTRMTlBYQlhMSzBRQ0FUTTVR?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-22T02:14:00+00:00"
+    },
+    {
+      "t": "AI 데이터센터 붐 계속…\"한국 반도체 수혜 내년에도 지속\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YcXNua3FTckFhb1JaVnR5MHhZOVdUQjlWNEEyTDRYeDZYUWZlUmxYX1NicWgyNG9GalFyNXVQMnBuZi02ZHl4S1oyUnE2TDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-22T02:13:00+00:00"
+    },
+    {
+      "t": "국채선물 강세 출발…간밤 국제유가 하락·한은 금융안정 보고서 대기",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5anJpbm5sQ0tOdk5DWHpGbk4tcFE2bGY0RFJGdzVkMUdVZkN5cnFoZkRMNjFGbll1Wi1HOXNaWFJFZU41ak1vZXd5VnVmX3ZnblRIaUFDRlpRWkhFaS11UVlwbGFmN0MzVWYtVHdBWHU?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-21T01:46:25+00:00"
+      "d": "2026-09-22T02:08:52+00:00"
     },
     {
-      "t": "고동진 \"호남 반도체는 선거용…완공 때면 시장 달라질 수도\"[AI룰메이커]⑨",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fbk5rZHk1MEc2V0w3VjcwN1hFWEotTUFaNGJzWTlMcW84S3RCVXhFc1JjX05ITGRPMW5ielhBaTJTM3puZkZJZFdEQ2dKblk?oc=5",
+      "t": "아시아 에너지 주식, 유가 하락세 지속에 약세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WdEE2Smh5YUtKaGhELU05WEdMTUVZS0QtSHFoVGVmdjh4NUd6WXR5dEhqc0ZKOGxaVENOY1pZX1RrUFoyUEtOZl9qQ2tBSk5PRG5MVlVRbmV5eHBlend1TkFwNnc0azQ0UnU4bUpzLVI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-22T02:07:00+00:00"
+    },
+    {
+      "t": "코스피, 장중 1%대 강세…상승 탄력은 다소 둔화",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DNUFiM2RNMHMyVmNqRzZMWUt3Z0wyQmVYOWVCYlVhaDRNMDM4V01Od3VoODhITTNRWlRKRU0xcWJ1V3A3SmxDVGI1Ym9kcUk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-21T01:44:52+00:00"
+      "d": "2026-09-22T02:05:00+00:00"
     },
     {
-      "t": "반도체가 끌고 간 수출…9월 1~20일 714억달러 ‘역대 최대’",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yUkxxTGpSOEdPR0t0UTRZRHphU0xoZ1pXVWZEWWdwMzRMa2F2eERIb0NPXzdOdXpEN2RDanVBNDZqNGFUZ2VCcF8zZkFiV3JEWkFFSE9JUGc3ZXkybzVsNExaSk8?oc=5",
-      "s": "경기신문",
-      "d": "2026-09-21T01:42:57+00:00"
-    },
-    {
-      "t": "\"美 금리 5% 넘을 수도\"…월가서 나온 경고",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcnhzUDdFNUFxcEZWaEtGY2dwN3VmUzZHcXE4SE85X1ZaYXIxSktNaDF5MVlJZEVHRVhXdkluT1lPOWlVWktiSUlSa0p1NXVNenM0QTk2VlJJUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-21T01:42:52+00:00"
-    },
-    {
-      "t": "BofA \"연준, 기준금리 5% 이상으로 올릴 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLaW1pa3o5YWdxOXk3RmRLSVphUUU5ZFlKRlk5ZDVOY0czbE9QUjE1Tk1GbU5mVUJsNUdVeExrMTlTT0xaVnhNV2NVTFdnU0J1MDBIUkZXYjRqUmxNajBrWnhkaVMzc0E?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-21T01:39:00+00:00"
-    },
-    {
-      "t": "\"연준 기준금리 5% 이상으로 올릴수 있어\"…BofA 경고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DZncxUUsyOWVKTUlYV3M0NmZlNjlJUl84RnhaSmRGdlZMeV9GeXJ6bjUxMkJRbHlLX25GUW85d2N0VFlKSkRNSVR3VUoyOFE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-21T01:36:03+00:00"
-    },
-    {
-      "t": "[특징주] 삼성전자·SK하이닉스 동반 강세…코스피 7000선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oRUFwVXNiVUZpNVNzNm1HaUFzb3Q5ZjJ6UkRfQ3JoUGpsWWxQdkVJeXZ3SFlRS3lOYTl0MmFQOUluVGtva2JmUDJGVlJNcXV5LWpwQ3RkeUZ1ODZKT0hTTi1PYw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-21T01:35:07+00:00"
+      "t": "한은 “기준금리 인상, 9개월 뒤 취약계층 대출 연체율 상승으로 이어진다” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTlWQ3hoN05GZUNBNkplTHJJazZKWXZEXzBNWURHNjFvVnBIS0Zfa1hTUlQ3VFpXeVVuVGg1ZjdNc2JxVTcxZmV5Y2MzY0tyenlZRXh2eXBRUURERHQ5SnNCVERkel9ZYS1IYUttVTZfU3QyczZTUGZFWGRRNFVrZW43ZnVRd9IBmgFBVV95cUxOMjk3bFNpUnJaNUViRlJMc1ZrdnB3M2xIWWZyTkdUWU9tVEphOVFWVWVtamlBTlVZMW1mTmhfcUdNVzZGVm1qMlJPTWNSRHNRV1JpcGR5cGdVN0hIQ2Qzek56MU0xc2JXWDFqaTRmQlJpd2VNQjJDVFpKcmNqOVV0eGdzeG5xS2VKSWgxbXVfNkxiV3N2VUhkRUVR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-22T02:03:06+00:00"
     }
   ],
   "asof": {},
