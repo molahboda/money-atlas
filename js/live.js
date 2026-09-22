@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-22T06:45:39+00:00",
-  "quotesAt": "2026-09-22T06:45:39+00:00",
-  "newsAt": "2026-09-22T06:45:39+00:00",
+  "fetchedAt": "2026-09-22T07:00:32+00:00",
+  "quotesAt": "2026-09-22T07:00:32+00:00",
+  "newsAt": "2026-09-22T07:00:32+00:00",
   "quotes": {
-    "kospi": 7025.71,
+    "kospi": 7017.91,
     "spx": 7764.7,
     "nikkei": 65018.95,
     "vix": 14.87,
-    "krw": 1360.18,
-    "gold": 4355,
-    "wti": 93.69,
+    "krw": 1358.74,
+    "gold": 4357.2,
+    "wti": 93.46,
     "dxy": 100.45
   },
   "daily": {
     "spx": 1.66,
-    "kospi": 1.91,
+    "kospi": 1.79,
     "nikkei": 1.38,
-    "krw": -1.78,
-    "dxy": 0.01,
-    "gold": -0.66,
-    "wti": -2.18,
-    "vix": 0.41
+    "krw": -1.89,
+    "dxy": 0.02,
+    "gold": -0.61,
+    "wti": -2.42,
+    "vix": 0
   },
   "news": [
     {
-      "t": "해외 카드 결제 취소 때 환율 떨어져도 손해 없게…자동 보상 확대 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1BnU1d4ekNMeXRYVDJieFdFaFQzXzdhbVJFcjNiTGYxMXBBNzZzd3JZVnZFYS0tcXBPQld0VnBldUZCY2E1ZzZjajR3clpKTktTOHZ5V3FWRjg3andVNVkyWXJsMFhWVkN0eTJ6TURBNVFUbGl1T3VsdUNabXNXRkVRZmk0OTlI0gGcAUFVX3lxTE0tRERSTV9DS1JQbUdsb1I1QVJWdElPdVlpYmdGZFhjS0U1anFLN2RBczZVUWNqdnFieW9RaEhRQWM0X1hJTEhzSUNCcjdBY3V5cXN0a1Z6UXRLUk96aFhyZTRzLTBnQ0pZYWZkUEhTYnh1S090WW1DNjlNb0xNRE54SDk3LWRZYTFoT0ctT05lbHIwRmFYS01XS2g0Wg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-22T03:01:00+00:00"
+      "t": "해외카드 결제취소 환율 손해, 소비자가 직접 챙겼는데…내년부턴 카드사가 알아서 보상",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tRnhZdkZabm90LWphZU9zTG5PdTlPa2otUG5iS0VlRWZGMUtWbzJDQVNIYThvYkMzRmttelNQWUh2Z3Z6bFpBQ2oxRlh1YlctRFdXR0xhRkl5enhSQlJWb2RENV9COURo?oc=5",
+      "s": "greened.kr",
+      "d": "2026-09-22T06:49:45+00:00"
     },
     {
-      "t": "\"국내 증시 개인자금 이탈 빨라져…수급의 키는 외국인\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQUJTYy1ScVFicTBRWHhqcmRFZ0R2emIwS2V0b2lnMHREbktDcEphc1JRcnF5Wl9hNlZlY2tYclhrcGVORURLUUZlUFJHbzBTTzBKNHo3MEJxblnSAWBBVV95cUxNUXZEcDA5Q0d0eXJ1S2RhSmRqVEtuY29ROGdSU2Z6NGJQUzBZd0M5ektmeEplcUVZaUpLaFFlTEV1UjJ6cWdYMHExaGtFTGhRd0U0blJJbllXeWF4eWZRaWQ?oc=5",
-      "s": "yna.co.kr",
-      "d": "2026-09-22T02:58:34+00:00"
+      "t": "AI 훈풍에 코스피 7000선 지켰다... 장중 7170선서 상승폭 반납 [마감시황]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3LVRaNXo4N0dNWGlibTZzWEh0SFF2bjVLVlg1NDYtZXROSjdzNWZja2pWNzUwZ2s0V19NY1dFT193MUdrSTRpUkxMbmZKZzZ4TUQ5SDRVWWkzOFRtRXM0X2V6YjXSAWhBVV95cUxPVXpLejZrTnNBN055MkwtSVFwLVJDOTAxRjg3S2NRT3hyYXRaTFFOOXptUlljU0hncnJub0kta3RuWDl1Q0FCSHR0d2RhLTcwQXJqVlZaaTZrN3VKSEIwSmt0ZkVGeFZWTA?oc=5",
+      "s": "매일일보",
+      "d": "2026-09-22T06:44:16+00:00"
     },
     {
-      "t": "“기준금리 인상 약발, 집값부터”...차주 이자부담은 이제 시작",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OTHhOYTg0YnBhV0dtalhuNHdCdzd0cDRpS0FkWUstRVRRcFU5M3EwaV9OUEh0MEt3SEstcnZ5d00zdFpFWHpCYk8td1hwVWRFMDJkY0ljUDNlTkQyLUZXUHVFcw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-22T02:58:21+00:00"
+      "t": "코스피, 7171 찍고 7000선 후퇴…힘 빠진 ‘삼전닉스’ 상승분 반납",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YRlRfd3NqMDlXZVRaNm1GS2twSnA0TF9Mdl9GZ2FEZGRsa1BEQ0FGT1hoLVdXWDdfUlZ0TG5hQ082dV9DXzZzeFpkTklNLUlyeWg4aVBseW1MNHN5WjZzSWFMRmo?oc=5",
+      "s": "ddaily.co.kr",
+      "d": "2026-09-22T06:42:51+00:00"
     },
     {
-      "t": "취임식 생략한 이형일 경제부총리…물가·세제·정책조정 본격 시동",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MbUd4RUc4cF9QbVdOXzAwQTlna1RPa0NONmpNS0xtOGdmTktpSW41VlFuV1NUcTBZQzZ1R0hTRnBmV1JuY0hKUGNGcGRvWTBFYUhMUTVtMWNnNzhzNE1SX1RSZldmeGJodWc?oc=5",
-      "s": "intn.co.kr",
-      "d": "2026-09-22T02:58:01+00:00"
+      "t": "속보 코스피 0.2% 상승 7,000선 마감...코스닥 0.2% 하락",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05WktYcXQ0SDNEclZ1bkRuWklYejE3dk9Kay1WQ1NELTdId2ZfU1pIRzV5S2FlWTRKdXhrd2p1YlNJNG9WZmQwem9CV2dWcVpydkF6MHZsM2g2YnlRdFE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-22T06:42:00+00:00"
     },
     {
-      "t": "개인 1조원 매도세에도…1.77% 상승 중인 코스피 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjJWdDYzOGhjN0RlUmVGdHFGZWxmTjk3NFNLYkMzb3NLRF9VVWs4ZDRPcGpveTJyS0d4SHQ2U0RVQXVfekVoSXh3U0pHNVBIV0xIZkFmM3ZCQkFSaDlEZjRVNkkxSmc0SXhoNDRwXzF4aC16WWRxaFdxMWJTVWNVVDB3ZWNXUmJh0gGcAUFVX3lxTE5fb2s4dDlSR3o1bklVMjh0YXB1TzhGckUxM1RGX1hyVmRBSXE1QUtXWldHcHJmMlVSbV9tRzEyajRKWDZUcThMbWpjWDQtZEFMeVF2c1VaaE5UdUlYSUtOZVE2a3I3YUVuRkJ3UjFpMVJDY2xwZVZrRGw5aDlzaTVXU1VFZWJ2VlBoQjFqbkhVbVlHd2JsUTlFam93Zg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-22T02:57:00+00:00"
+      "t": "코스피, 2%대 상승분 반납…7000선 가까스로 지켜",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abHlLeFh1THBlY0hYbjZNUUYwX0t0T0ZDWWd1MDJpWjA1QkMwZVZVdThKYm5TSm0tUUZBd3J3elJ4WUp1VkJTUUFaVEs5VHN5dFJiU2lPX2NVZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-22T06:40:27+00:00"
     },
     {
-      "t": "한국은행의 경고… 금리인상 한파, 내년 봄 취약가계·중소기업 덮친다",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wVlFtNnQtWUlJbVE3emRhNGdnWVpOelFSdUo2b1J6eU9RZWxhaGIwUlg3d3pveWVaNHBmRGw4WTFhN0xRSXp3eHI4YnZ0aXE0?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-22T02:53:19+00:00"
+      "t": "'1조 달러' 클럽 입성한 AMD…AI발 반도체 랠리 지속된다",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96WFFKVGFZaGtZN1VQQ0YzTEN2R1p2QUR5eDdIYnJvVE42elJOcXYtYTJsV24tUUdVZTdfdXNid3RuWFllV3VPamo1eWtJU1dCWUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-22T06:39:05+00:00"
     },
     {
-      "t": "가계부채비율 하락했지만… 한은 “반도체 호황의 착시”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Da3pIMllIQlVyaEdmRU0zZGxyVXNBWXVYOXVWZmdPODVYQUxuOFVVSkd5N3hLaWpHUzVEOGo3a3FvcVR5Yzk1ZWJyaVQyZVhK?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-22T02:53:04+00:00"
+      "t": "코스피 상승 마감, 7,017.91P (0.15%↑) 코스피 건설, 코스피 운송·창고 등 상승 주도",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTjF0TWhyd2x1aHdpeURKYzhYN3RfM0ZVLS1DQ3FncS0yTFF3RWpXcmxhcHdKQ1hvY1ZtZTB6QjAydndXVTRPY1VhRmJlcU1nN2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-22T06:38:59+00:00"
     },
     {
-      "t": "마크 잔디 \"연준, 신뢰 확보 위한 금리인상…10월도 인상 가능성\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tN0tUZGVKTlFKdWhtT3lIR0hiZTJnWTNPOEdfc283TUszMGNORHJCOFk0U1MwNnJ5cmZIdVJRd3FSaWRTVlNVN1dwZEYyUDB2TkhINktxRVcxUnJSWDF3c1FSMzVhNmpWSzM2a1FmS3c?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-22T02:51:23+00:00"
+      "t": "코스피, 0.15% 오른 7,017.91 마감…코스닥은 소폭 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wOEhwb21iZF80OElvSEtFd0d2S0ZDNDJjbEw1WjdBT0hmSzEwRVJfbGVsc1d2cUFIZEJRRUh0OVg1aWk3UzNkTG9jbVV6MWZxZy1xb24zaXdFMmkwT0pQTEFIeTR5QWM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-22T06:38:00+00:00"
     },
     {
-      "t": "아시아 증시 미국 기술주 랠리에 상승…트럼프-시진핑 회담 주목",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ja3BtRnd0c2VBb21jWTR0SThIODJVckVEeTF4LWFmWVN4QUZaSDRGdnFxODhZekc3aXVuWElIRWNKd3RBa1BIalNjVzRNU1RzS3Z5WHZBOS14X3hvNUtuWFRxc2RHVUxvSmVvNWtuNm8?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-22T02:51:00+00:00"
+      "t": "[속보] 장중 2% 넘게 올랐지만···7,000 사수에 그친 코스피, 7,017.91로 마감",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mYkx0MUZSajVVVDI5dXVoQ0hvNGZGWl9LTnV1U0pGdjlnZVRqTm1BWmJ6azRRd19FMUpqMkw2X2NsaDltSU02dWx0UG4?oc=5",
+      "s": "대구MBC",
+      "d": "2026-09-22T06:37:01+00:00"
     },
     {
-      "t": "월가 AI 랠리에 아시아 반도체株 급등…LG, Nvidia 냉각 승인에 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zdVBELVdBVkpjcERZR3I5UjE3emFiMkxTNWNRVW5lblJjazlIY0dMMGYyaFFsUkYxZFd2N0dFbk55ZDkzS0E0X3BHRkloWURDVklFdzRfazN2WDNXdnhBSHlGd3RUbE5ja2FEeW04My0?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-22T02:51:00+00:00"
+      "t": "김학균 “연준만 봐선 금리 못 읽어…외인이 증시 방향 결정\"",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1YzUVlHNEVEclJncTlPdVk4Zm1PY3UyV1E1OVByT09GaE5QZHEzWjZlYUpMdElCbjgwYlN1TWNHdXB4aE93V2N2cUEtcTd3VUF4Mmx0YmxSUXA1Vk43VmxHWW9NcGxuaVVFdXZibWpnZWVEbFVZa3d6QkJDRVBHZlMxZUYwdUFS?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-22T06:36:09+00:00"
     }
   ],
   "asof": {},
