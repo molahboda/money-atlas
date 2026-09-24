@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-24T00:15:32+00:00",
-  "quotesAt": "2026-09-24T00:15:32+00:00",
-  "newsAt": "2026-09-24T00:15:32+00:00",
+  "fetchedAt": "2026-09-24T00:30:30+00:00",
+  "quotesAt": "2026-09-24T00:30:30+00:00",
+  "newsAt": "2026-09-24T00:30:30+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7706.03,
-    "nikkei": 65442.6,
+    "nikkei": 65792.04,
     "vix": 15.18,
-    "krw": 1366.51,
-    "gold": 4325.5,
-    "wti": 92.01,
-    "dxy": 101.12
+    "krw": 1367.5,
+    "gold": 4323.1,
+    "wti": 91.78,
+    "dxy": 101.16
   },
   "daily": {
     "spx": -0.76,
     "kospi": 1.04,
-    "nikkei": 0.65,
-    "krw": 1.2,
-    "dxy": 0.02,
-    "gold": -1.16,
-    "wti": -2.73,
+    "nikkei": 1.19,
+    "krw": 1.27,
+    "dxy": 0.06,
+    "gold": -1.22,
+    "wti": -2.97,
     "vix": 6.83
   },
   "news": [
+    {
+      "t": "[브라질증시] 美 국채금리·유가 상승에 위험회피 확산되며 하락...헤알 약세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FeVE3YXZmNmdBTmhZTnRUdUNVMW9PRWpmUnZUT1pzbTdRZ05Dajg2NFoxVXYyYlBWaW83WGgzOUZCOEVYUXZBR1lpUTlDM01YQ2ktX2Vxb2p4NzVs?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-24T00:19:00+00:00"
+    },
     {
       "t": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNMGM4aG5jVlZfbk02N1otWlRtc0JlYjd2TV82ODRaa3owemc0bDUwYVlyckZHYXpQdFRHTURiSW15cjY3ak9uQ3BQY2EtR2c?oc=5",
@@ -39,7 +45,7 @@ window.LIVE_DATA = {
     {
       "t": "국제유가, 美·이란 긴장 재고조에 상승…WTI 93달러 근접",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2QXI4MnBPcDc3M2NFQ3VSdHFxV3BIVlIxTmE4MDg5Q2NMTGpSX1VLTkJMeFlSRjcyal9RbDhITUZJWTdfTTE2VUVNTms3SGhB?oc=5",
-      "s": "블루밍비트",
+      "s": "bloomingbit.io",
       "d": "2026-09-23T23:38:49+00:00"
     },
     {
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-23T23:14:43+00:00"
     },
     {
-      "t": "[뉴욕증시] 금리 발작·유가 껑충 '곤두박질', 강달러·금값 '뚝'···아이온큐 랠리",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16ZV9uMHVtNzRJeDkwNjJvVGNXV3pkZ0JnSzQ5TW1KYWd2dHo3NGl6NTd6UGZ2UGFCYzZ6d3NoR1llLWY5b2UxYnBvRVM5aUhmajkybUEtb3M5NERVMDFrcUFDNzY1UFhUTnc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-09-23T23:11:01+00:00"
-    },
-    {
-      "t": "미 10년물 국채금리 재차 5% 돌파...5년물도 5%선 상회",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTElGNnROeGVQXzd1eUVQekJRM1dmTkdraTNlRXczNUcyM19ZaVFEYldhWWprTkx6UjkzdTRmU240V0g2MDFDM2I1aUdnYU1aY19lRGR1MklCeHpEVU4wZWFzbVJvX3psWlJ5WDVhbGg?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-23T23:10:00+00:00"
+      "t": "과거 추석 후 첫날 거래대금 17% 증가… 미중 회담·유가 변수",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LazV2aWNjM2dUUTIwSVV0UENNSUozblFPZXpmLWZIanZsMzhVRDdRVkl1aEM4ZC1reGp0N3NxY0FKaEpXdzV6SEVxdjUwQ1VpWklrSllVZkNjdC1iN3c3NmxpQUdaYW9oNk9jazJaaTJ1UGkx0gF0QVVfeXFMTktrNXZpY2MzZ1RRMjBJVXRQQ01JSjNuUU9lemYtZkhqdmwzOFVEN1FWSXVoQzhkLWt4anQ3c3FjQUpoSld3NXpIRXF2NTBDVWlaSWtKWVVmQ2N0LWI3dzc2bGlBR1phb2g2T2NrMlppMnVQaTE?oc=5",
+      "s": "IT조선",
+      "d": "2026-09-23T23:11:55+00:00"
     }
   ],
   "asof": {},
