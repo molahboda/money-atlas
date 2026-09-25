@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-25T01:45:30+00:00",
-  "quotesAt": "2026-09-25T01:45:30+00:00",
-  "newsAt": "2026-09-25T01:45:30+00:00",
+  "fetchedAt": "2026-09-25T02:00:32+00:00",
+  "quotesAt": "2026-09-25T02:00:32+00:00",
+  "newsAt": "2026-09-25T02:00:32+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7704.13,
-    "nikkei": 66251.49,
+    "nikkei": 66305.54,
     "vix": 15.67,
     "krw": 1364.25,
-    "gold": 4327.1,
-    "wti": 93.27,
-    "dxy": 101.26
+    "gold": 4323.1,
+    "wti": 93.14,
+    "dxy": 101.27
   },
   "daily": {
     "spx": -0.02,
     "kospi": 1.04,
-    "nikkei": 1.13,
+    "nikkei": 1.21,
     "krw": 0.13,
-    "dxy": 0.16,
-    "gold": 0.2,
-    "wti": 1.2,
+    "dxy": 0.17,
+    "gold": 0.11,
+    "wti": 1.06,
     "vix": 3.23
   },
   "news": [
@@ -29,12 +29,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdHFQb3pKNm16OWhtaTdCYkFoMEtRUkJJMXkxeWNzcXBRcTRKRTdlTUFuT2pfMm5ISUZtMUZSRGZtS09ZOW1tZmwyMzBnOUotRmhtNmpuMFhxSWJBYVE?oc=5",
       "s": "YTN",
       "d": "2026-09-25T01:39:00+00:00"
-    },
-    {
-      "t": "설에는 주식, 추석엔 안전자산?...은행보다 이자 더 준다는 '이것'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvTkpMM3c5ejdIUXNpMUItRHE4cW0xMDZ6SUtYTDhHWlhHWDdaVFdCUExxa0FnLWpHdEZjUk1uZHdQR2ticmVQX0RzUXJwUVV5UFlieUd2Rl9wLTVfSWp2WWdoenM0VEFFd0E?oc=5",
-      "s": "비즈워치",
-      "d": "2026-09-25T01:30:03+00:00"
     },
     {
       "t": "잘나가던 불닭·K뷰티 환율에 울상…그래도 사라는 증권가 - 머니투데이",
@@ -49,10 +43,10 @@ window.LIVE_DATA = {
       "d": "2026-09-25T01:30:00+00:00"
     },
     {
-      "t": "반도체가 이끈 소득 도약…한국, ‘4만달러 시대’ 진입 초읽기",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TUFXeHVjRTBVYURmMjEtaEpuOFUyb2RCVHBxeV9qQm43OHljYTlZN0dqc0FFb0ptc1dwb2NlZkdycXBGX0NYRGJLMUJROXRaYW1DZmp6ZmJmWU5ZR3pPRFN1eDFBeWYzcmc?oc=5",
-      "s": "sisaworld.kr",
-      "d": "2026-09-25T01:28:43+00:00"
+      "t": "美 국채금리 수십년 만에 최고…추가 긴축 전망에 글로벌 채권 약세",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05akxCdGJmWVRycG90Umxaa1J4clNVM3JMU3FRUC1WcnpqcW5VbWRhVF9TVmVLSlBWNFpTZWxfUEdPa3plTmV2eFkweHI1a0thci1ObWgyRzU5dlo4QUcteWRTQWk?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-25T01:25:24+00:00"
     },
     {
       "t": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
@@ -74,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "[해외시황] 뉴욕증시, 유가·국채금리 급등에 '혼조'…다우 0.31%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdG1ackVvQ29JMXBaQ3prX2t6MWxNakFIeTNjNUxEdWpRc01nam1oVDI0LTh3aDVLaXJSQWxuYVhnV2ljV2FZaDVpNUo3WXdrVGF6dUlfeEFmY2pnOHdQdg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00VEtQd0FlUkh6UlVyZ0pYdWg2RTczSVFSWFM1TUFIXzdJQlJ4U3hqbWJmSGhJNEhEeHJ5UHluekJUVmtJblkyeTJZZm04a1h3ZU1ha2xQNmdEQ2NDUUo3NUxTeGQyZUVsUTNMSw?oc=5",
       "s": "프라임경제",
       "d": "2026-09-25T01:12:51+00:00"
     },
@@ -82,6 +76,12 @@ window.LIVE_DATA = {
       "t": "日 증시, 일부 AI·반도체 매수세에 상승 출발",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkWTM5VUZRNXVuaDh6ZjI4NUxGR3FOUS1PT2xTT3BORWlPb0tXWV9KdG0zMllDYlNZQjB2MjVkOWs1ZjAxc29LNDdZRnZ3bU1SYncxb21RNHF1MEFsU1Q1d1VuUEpuWVpCUFdzNU8xTm45QQ?oc=5",
       "s": "kbthink.com",
+      "d": "2026-09-25T01:11:59+00:00"
+    },
+    {
+      "t": "중동 불길에 국제유가 다시 들썩…브렌트유 106달러",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wZ0hYWVRzUXYzbklrbWFlc0hocUp3bXBBeHJsckJSOEFRb0J6aWZWZkpic0l5eC1vU3dlS0YtaHgyTXZMazlOeTJVQ1lONno2Umdrb19vSDFGLWYzZDBVVWlwUjF3aTZXU1h30gFvQVVfeXFMTU1FbkU1WjBjTlJYRmpFRXNDUkFSa1lBbjhXS0czZTA5M0JKRDBHb0xHalRFMmxtSDh4bWJPWFJBTy1jWDdkdVFxLWN5Z29oRllFQ3ZIbENQUTZRblh2T1l4RnpJMHNnSnpuVm9yQWRn?oc=5",
+      "s": "투데이신문",
       "d": "2026-09-25T01:11:59+00:00"
     }
   ],
