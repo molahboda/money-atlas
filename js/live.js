@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-25T02:00:32+00:00",
-  "quotesAt": "2026-09-25T02:00:32+00:00",
-  "newsAt": "2026-09-25T02:00:32+00:00",
+  "fetchedAt": "2026-09-25T02:15:30+00:00",
+  "quotesAt": "2026-09-25T02:15:30+00:00",
+  "newsAt": "2026-09-25T02:15:30+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7704.13,
-    "nikkei": 66305.54,
+    "nikkei": 66340.22,
     "vix": 15.67,
     "krw": 1364.25,
-    "gold": 4323.1,
-    "wti": 93.14,
-    "dxy": 101.27
+    "gold": 4327.8,
+    "wti": 93.2,
+    "dxy": 101.25
   },
   "daily": {
     "spx": -0.02,
     "kospi": 1.04,
-    "nikkei": 1.21,
+    "nikkei": 1.26,
     "krw": 0.13,
-    "dxy": 0.17,
-    "gold": 0.11,
-    "wti": 1.06,
+    "dxy": 0.15,
+    "gold": 0.22,
+    "wti": 1.13,
     "vix": 3.23
   },
   "news": [
+    {
+      "t": "'초단기채에 돈 넣고, 반도체 3배도 산다'…서학개미의 두 갈래 투자",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhMHRHQktSWWFBTENmTkhoSmE0NGtsNGhiUGtKWWdENzFNMk54YmxWXzN2aEFvWXd3MXRUYkoydmpPSEpWc3ZBTU92Ylh0MGdhNl9EeHBYX01uRGN2UDRUWTBsalh0S29GOXpzbEI3V3o?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-25T02:05:06+00:00"
+    },
+    {
+      "t": "3분기 실적 시즌 임박…반도체는 ‘맑음’, 비반도체는 환율에 ‘희비’[마켓시그널]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VVUVwY2VEaTFGS1U2MU9SQ0FKU1JVZV8tcFpVZWNuamRBelNtbnoxWFFrbzdFQm1OSWN4aVJ2bGVHVjJLa1NBeHV6bE1uVVJzTUHSAVNBVV95cUxQRU4zRHZKM1gtd2xFR2h3T000Nlk3TURsdDFZTjFtVHBxTDRNbUxMeTUyb1lCclNPVE1PS3NlbklNYVp3MzFleENVbDhYLW9QQzdiSQ?oc=5",
+      "s": "sedaily.com",
+      "d": "2026-09-25T02:00:00+00:00"
+    },
     {
       "t": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JdHFQb3pKNm16OWhtaTdCYkFoMEtRUkJJMXkxeWNzcXBRcTRKRTdlTUFuT2pfMm5ISUZtMUZSRGZtS09ZOW1tZmwyMzBnOUotRmhtNmpuMFhxSWJBYVE?oc=5",
@@ -41,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uTjhYd3lCNVRhU0NsRUo0VThSMk1wdFFTZmdYcGx5WE9vTGFEMzlLdnhBYlFaMHZRWkRvTk1pQm1NUTRFR0RmTFRYdENwZnR2WGhicjdVWWYwMnhpVm5DMHJCcTZ0ekhnSkNZTNIBckFVX3lxTE05dHRqclJtOXFieUpSdFdydnJNdU1mVzk3b3hGYm1PVURSQUJUYUNRajhGNklWTkRPYWt6RzVSR2ZERDhWSXdNZWlhT3YwQW15cXpoZW1BTThpZnNuVVF2ejc4M3NpU193WnpDdmQwNUlndw?oc=5",
       "s": "머니투데이",
       "d": "2026-09-25T01:30:00+00:00"
+    },
+    {
+      "t": "반도체가 이끈 소득 도약…한국, ‘4만달러 시대’ 진입 초읽기",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TUFXeHVjRTBVYURmMjEtaEpuOFUyb2RCVHBxeV9qQm43OHljYTlZN0dqc0FFb0ptc1dwb2NlZkdycXBGX0NYRGJLMUJROXRaYW1DZmp6ZmJmWU5ZR3pPRFN1eDFBeWYzcmc?oc=5",
+      "s": "sisaworld.kr",
+      "d": "2026-09-25T01:28:43+00:00"
     },
     {
       "t": "美 국채금리 수십년 만에 최고…추가 긴축 전망에 글로벌 채권 약세",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdjJ2SjdXbmN3R0N0eEs3WEhCbU12WDRpc3pNcG9TOG1Mb01vSHRva3hxWE9CLXFrY0pRdFVzX013eEtGemg5b3U5blI2eFpwWEVrTjdyOUxIVzdsN2hRZktBajFqYUZKTnFTMk94WUE?oc=5",
       "s": "인천일보",
       "d": "2026-09-25T01:18:00+00:00"
-    },
-    {
-      "t": "[해외시황] 뉴욕증시, 유가·국채금리 급등에 '혼조'…다우 0.31%↓",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00VEtQd0FlUkh6UlVyZ0pYdWg2RTczSVFSWFM1TUFIXzdJQlJ4U3hqbWJmSGhJNEhEeHJ5UHluekJUVmtJblkyeTJZZm04a1h3ZU1ha2xQNmdEQ2NDUUo3NUxTeGQyZUVsUTNMSw?oc=5",
-      "s": "프라임경제",
-      "d": "2026-09-25T01:12:51+00:00"
-    },
-    {
-      "t": "日 증시, 일부 AI·반도체 매수세에 상승 출발",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkWTM5VUZRNXVuaDh6ZjI4NUxGR3FOUS1PT2xTT3BORWlPb0tXWV9KdG0zMllDYlNZQjB2MjVkOWs1ZjAxc29LNDdZRnZ3bU1SYncxb21RNHF1MEFsU1Q1d1VuUEpuWVpCUFdzNU8xTm45QQ?oc=5",
-      "s": "kbthink.com",
-      "d": "2026-09-25T01:11:59+00:00"
-    },
-    {
-      "t": "중동 불길에 국제유가 다시 들썩…브렌트유 106달러",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wZ0hYWVRzUXYzbklrbWFlc0hocUp3bXBBeHJsckJSOEFRb0J6aWZWZkpic0l5eC1vU3dlS0YtaHgyTXZMazlOeTJVQ1lONno2Umdrb19vSDFGLWYzZDBVVWlwUjF3aTZXU1h30gFvQVVfeXFMTU1FbkU1WjBjTlJYRmpFRXNDUkFSa1lBbjhXS0czZTA5M0JKRDBHb0xHalRFMmxtSDh4bWJPWFJBTy1jWDdkdVFxLWN5Z29oRllFQ3ZIbENQUTZRblh2T1l4RnpJMHNnSnpuVm9yQWRn?oc=5",
-      "s": "투데이신문",
-      "d": "2026-09-25T01:11:59+00:00"
     }
   ],
   "asof": {},
