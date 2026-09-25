@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-25T02:15:30+00:00",
-  "quotesAt": "2026-09-25T02:15:30+00:00",
-  "newsAt": "2026-09-25T02:15:30+00:00",
+  "fetchedAt": "2026-09-25T02:30:31+00:00",
+  "quotesAt": "2026-09-25T02:30:31+00:00",
+  "newsAt": "2026-09-25T02:30:31+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7704.13,
-    "nikkei": 66340.22,
+    "nikkei": 66244.13,
     "vix": 15.67,
-    "krw": 1364.25,
-    "gold": 4327.8,
-    "wti": 93.2,
-    "dxy": 101.25
+    "krw": 1359.22,
+    "gold": 4326.3,
+    "wti": 92.97,
+    "dxy": 101.24
   },
   "daily": {
     "spx": -0.02,
     "kospi": 1.04,
-    "nikkei": 1.26,
-    "krw": 0.13,
-    "dxy": 0.15,
-    "gold": 0.22,
-    "wti": 1.13,
+    "nikkei": 1.11,
+    "krw": -0.24,
+    "dxy": 0.14,
+    "gold": 0.18,
+    "wti": 0.88,
     "vix": 3.23
   },
   "news": [
+    {
+      "t": "코스닥 8개사·코스피 1개사 퇴출…‘시총미달·동전주’ 관리종목 대폭 증가",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zYU9CTUZkVmo2bVVoRTRCS3BDNDBzRlVPRXFQZHFVSF9NR0c2aE9CTThHNl9iMUtoMWNYZmZFUVFDV2VLSDlxY3BESFZWVjNCS2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-25T02:27:08+00:00"
+    },
+    {
+      "t": "대한민국 역사상 이런 적은 없었다…올해만 사이드카 절반가량 쏠려",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pUk5hazZrMHhaRlZ2c1pJR2p1UjZiTWRmc2ZGVWU3Z2RlTE5xbXZWZmxsSWFsYXJkVmhsTXY5azBWcy00cS1qWmNrbk52TVpCNVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-25T02:12:54+00:00"
+    },
     {
       "t": "'초단기채에 돈 넣고, 반도체 3배도 산다'…서학개미의 두 갈래 투자",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhMHRHQktSWWFBTENmTkhoSmE0NGtsNGhiUGtKWWdENzFNMk54YmxWXzN2aEFvWXd3MXRUYkoydmpPSEpWc3ZBTU92Ylh0MGdhNl9EeHBYX01uRGN2UDRUWTBsalh0S29GOXpzbEI3V3o?oc=5",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VVUVwY2VEaTFGS1U2MU9SQ0FKU1JVZV8tcFpVZWNuamRBelNtbnoxWFFrbzdFQm1OSWN4aVJ2bGVHVjJLa1NBeHV6bE1uVVJzTUHSAVNBVV95cUxQRU4zRHZKM1gtd2xFR2h3T000Nlk3TURsdDFZTjFtVHBxTDRNbUxMeTUyb1lCclNPVE1PS3NlbklNYVp3MzFleENVbDhYLW9QQzdiSQ?oc=5",
       "s": "sedaily.com",
       "d": "2026-09-25T02:00:00+00:00"
+    },
+    {
+      "t": "해양쓰레기·우주의약품·반도체 실증까지…누리호에 실리는 15개 임무",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYeWdxX0VjM2NhS2xWTlIzNGw3OFJvS0MycUhmb29KMm5MdG9iTWJWMmdPRHlfbWFqa0dDOGZvMWtWdlEzVXRlRXZsamEzRVVidGl5V2xoZlRuREtZ?oc=5",
+      "s": "티제이비",
+      "d": "2026-09-25T01:52:00+00:00"
     },
     {
       "t": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산",
@@ -55,12 +73,6 @@ window.LIVE_DATA = {
       "d": "2026-09-25T01:30:00+00:00"
     },
     {
-      "t": "반도체가 이끈 소득 도약…한국, ‘4만달러 시대’ 진입 초읽기",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TUFXeHVjRTBVYURmMjEtaEpuOFUyb2RCVHBxeV9qQm43OHljYTlZN0dqc0FFb0ptc1dwb2NlZkdycXBGX0NYRGJLMUJROXRaYW1DZmp6ZmJmWU5ZR3pPRFN1eDFBeWYzcmc?oc=5",
-      "s": "sisaworld.kr",
-      "d": "2026-09-25T01:28:43+00:00"
-    },
-    {
       "t": "美 국채금리 수십년 만에 최고…추가 긴축 전망에 글로벌 채권 약세",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05akxCdGJmWVRycG90Umxaa1J4clNVM3JMU3FRUC1WcnpqcW5VbWRhVF9TVmVLSlBWNFpTZWxfUEdPa3plTmV2eFkweHI1a0thci1ObWgyRzU5dlo4QUcteWRTQWk?oc=5",
       "s": "서울경제TV",
@@ -68,21 +80,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "미 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTVVQdjJ4QlpRQ0pNZVpVQ2Vsa3JsTUFTRlItbkgyUnRLak5MeHVWMDRiQlhIQjBpSmNBTmhzY0tsNHNVRndtRXRKcWkzRXF6SzdtNi05dEdHeWNuV3M0bU9aWDlxVzFWSV95bHZzTWdlaDlLT3JmUWxUSEdKTjE5ck1Gdl9TMVU?oc=5",
-      "s": "news.sbs.co.kr",
-      "d": "2026-09-25T01:23:18+00:00"
-    },
-    {
-      "t": "추석에도 불 꺼지지 않는 반도체 라인…삼성·SK하이닉스 24시간 가동",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sbG1TTF9RNkNDbkNablNuQ2ZxTDhBNjhYSVEzRm5TWjhkWXJvUV9HYjBGTHM0LVlHY1lDWW1uaU5ncVp4NXEwcWFja09BLXBDYkxjRVAxenl3cUZvOVNESWNrQmlLN3l5RFR5ZW5VWQ?oc=5",
-      "s": "피플투데이",
-      "d": "2026-09-25T01:22:28+00:00"
-    },
-    {
-      "t": "전 직장 반도체 장비 제어 프로그램 빼돌린 전 팀장 실형",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdjJ2SjdXbmN3R0N0eEs3WEhCbU12WDRpc3pNcG9TOG1Mb01vSHRva3hxWE9CLXFrY0pRdFVzX013eEtGemg5b3U5blI2eFpwWEVrTjdyOUxIVzdsN2hRZktBajFqYUZKTnFTMk94WUE?oc=5",
-      "s": "인천일보",
-      "d": "2026-09-25T01:18:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsMk9vZnJKY3ZZSDZMb2F1VGVLcEVKdGR3aTV1b1RycDhTR1VEaUwzelhUMlFKRFlXYUt2N1VmSHA2M1NLTnlHejlTZnIzdU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-25T01:24:01+00:00"
     }
   ],
   "asof": {},
