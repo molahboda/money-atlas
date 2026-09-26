@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T10:45:24+00:00",
-  "quotesAt": "2026-09-26T10:45:24+00:00",
-  "newsAt": "2026-09-26T10:45:24+00:00",
+  "fetchedAt": "2026-09-26T11:00:27+00:00",
+  "quotesAt": "2026-09-26T11:00:27+00:00",
+  "newsAt": "2026-09-26T11:00:27+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -69,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "목표가 이미 도달했는데…더 오른다는 美반도체 검사장비 업체 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVVg0UU90cE1EQzVzeDdCWHdVTEoyNDg4cUtRMzJZc2c3aGRndVl0YlZNOHAybk42eEhfWUJtYmlES09zSGNNSW1XNk93NUJmNEE1Y0w5VUp3WndkaWhCUHlLLWRJNldjaTdGWWpjellFZGMtNXfSAXtBVV95cUxNTXVCRklmS0t2SFAzc3ZJWm90enpOUHFncnNBQVUyVngxa2RsM0ZqYTVtamxNUjJsV2RmWjhyb1JNY0tldEFhZ0x5ZG9hOWZtS1JqR2NKbHlab2hkbG9MOHJjQnliYU15Slh4VVROSlVBdGI1eEJjWk1zb28?oc=5",
-      "s": "머니투데이",
+      "s": "mt.co.kr",
       "d": "2026-09-26T09:28:15+00:00"
     },
     {
