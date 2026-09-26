@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T10:00:29+00:00",
-  "quotesAt": "2026-09-26T10:00:29+00:00",
-  "newsAt": "2026-09-26T10:00:29+00:00",
+  "fetchedAt": "2026-09-26T10:15:22+00:00",
+  "quotesAt": "2026-09-26T10:15:22+00:00",
+  "newsAt": "2026-09-26T10:15:22+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T09:42:00+00:00"
+    },
     {
       "t": "중국·미국, 300억 달러 관세 인하 합의 및 AI 대화 출범",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kclBPempMX3ZtdWFKbjNaV0QtM3E4bV9EdW1sYWJVbmJhZEZULXJyMXhYa28tT3JtQWVWYVpoZHpGTTJtUEE5UExaMGhtMDVRdHI1S2RWS1BrdFcxaFdDV093VDNjYzl1cWc?oc=5",
@@ -63,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "19년 만의 금리 쇼크…오를수록 웃는 주식 따로 있다",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNZYVdNV3VhZ2tyVHpUb2hPbjZUWENZdUM3MUw4SU9laG9QbzdTT1AzSjNVd3pHQ1B6Sjd2RVBuOFA3MzF5c2JsZU9oazdqMEh1aFJNVm1xQQ?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-09-26T09:00:03+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbzVoV1htcllmUnZBNzcxOENGdjdqY0x5eExXRkpoV1lHNGxiY2pKOUxNU0JOeDFJUENUbmdKYzNKWk5CRjhoNXljLU8yOFdBU2FiVkY5UU0?oc=5",
       "s": "더트래커",
       "d": "2026-09-26T08:59:33+00:00"
-    },
-    {
-      "t": "中 “미중 정상, 관세인하·AI·안보 등 8개 항목 합의”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pb3drZ3p2ZXZjbW8waGFnRmY2aUhJM0pTX24yZS1kMnZtWlRrWXlJSkFHZlZ2aUUtNXJfSTNZMk1ic1JlZzFVSUowZTFrUlBHLWR5cUt2NGl1dGhQaXhzREQ3YUc1NDA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-26T08:45:00+00:00"
     }
   ],
   "asof": {},
