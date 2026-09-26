@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T08:45:28+00:00",
-  "quotesAt": "2026-09-26T08:45:28+00:00",
-  "newsAt": "2026-09-26T08:45:28+00:00",
+  "fetchedAt": "2026-09-26T09:00:30+00:00",
+  "quotesAt": "2026-09-26T09:00:30+00:00",
+  "newsAt": "2026-09-26T09:00:30+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "반도체 핵심 영업비밀 들고 이직한 50대…법원, 실형 선고 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbFNqODZOXzBGRHR5UDhNNm5SZ3FoQTZNTzR0MG5aM0cxa2NPUHdUSzljNE1TNzdrRGlsUUpCNG1TcDZhSl9SM2pnS2lWcFFONXUzZWduXzdNYnhZRHN4Z3YxZGdZR0JFX1U00gFwQVVfeXFMUG5wQmxJcFpJb0duSzZ5MlQ3bDhLWG1Rd0hvclpRQWt5V2E5MzVNVUhSVkx0LVpzRTNLS2JnS3RGLVNsVHFSU25kX2Z2SF9iWkZGeUdaR2pNMGtrMS1mX0d6NkxUVHphNFo4MG94OGszVQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-26T08:54:52+00:00"
+    },
+    {
+      "t": "中 “미중 정상, 관세인하·AI·안보 등 8개 항목 합의”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pb3drZ3p2ZXZjbW8waGFnRmY2aUhJM0pTX24yZS1kMnZtWlRrWXlJSkFHZlZ2aUUtNXJfSTNZMk1ic1JlZzFVSUowZTFrUlBHLWR5cUt2NGl1dGhQaXhzREQ3YUc1NDA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-26T08:45:00+00:00"
+    },
+    {
+      "t": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBValdDRzJaZXNRNUpJZmE0NVE1YWtBU3gxb2JwMTNodEpKRXZiY1ctWVQ0a1BiWW1VNDA3NmVPdkdWbFJlTDB2QlpWN1V6ZC00a0E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-26T08:44:21+00:00"
+    },
     {
       "t": "\"이건희 리더십 필요한 때\"…반도체 호황에 소환된 '키몬다 파산' [분석+]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HWkkwVVBhRi1mT3dETngyN0Y0MWQtTmVJbHl1Z1BRaFBvWFFkelhLZXMxaTl4VWc1aTY3b2ZIWk1VT0dzb3J0RzMtWVgwaUItWjNibnh3Uzh1Z25zd1JsS0poY0JKdTl6d0ctRTFR?oc=5",
       "s": "아시아투데이",
       "d": "2026-09-26T07:22:51+00:00"
-    },
-    {
-      "t": "코스피, 7000선 웃돌지만 상한가·52주 신고가 종목은 '반토막'",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UjhsT0d0bG4yLTEzNlhNVTRpNWJ1RmdxVV9BdjhtSG5nOW85bXpPYlJPV19RUDBTdjhYOE42R0xlQ3lYWkpfcU83RmstMWZKRWZKNy1XMERSS2FCUEhpZXJOTURyRFA2Mi1qaTJJdG9OLUZCTU1MV0tPX2c?oc=5",
-      "s": "비욘드포스트",
-      "d": "2026-09-26T07:14:37+00:00"
-    },
-    {
-      "t": "미 연준, 스테이블코인 규제안 공개…준비자산·자본 기준 구체화",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lX3BCaVZZM2xtSlVTZnlSNllRczQ5ZHJhS05lZkRDakZha2x5MmQ5ZG5CSF9QdXBJLVFtYThoOVdLQTk5RXl1bkZYZVFWSDdZYnl4SjhwajU4UFFkYnJHMA?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-09-26T06:57:08+00:00"
-    },
-    {
-      "t": "美 주담대 7% 넘었다…한국엔 ‘먼저 온 미래’",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10VXptTTF1aHFvUHltdjRBQ1dEay1vT2IzRXVVRHNVUHRaeHN6akZ3bWMzS1BPNkx6TkRGOU1RU0drSWhzekdTT2tNZnpQdWJHajI5RHJhb3lrUGt3QVNaelk3OWx0a1o5SkJ5cklR?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-09-26T06:54:14+00:00"
     }
   ],
   "asof": {},
