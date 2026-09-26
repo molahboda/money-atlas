@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T08:00:38+00:00",
-  "quotesAt": "2026-09-26T08:00:38+00:00",
-  "newsAt": "2026-09-26T08:00:38+00:00",
+  "fetchedAt": "2026-09-26T08:15:27+00:00",
+  "quotesAt": "2026-09-26T08:15:27+00:00",
+  "newsAt": "2026-09-26T08:15:27+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "李대통령, 멕시코 K-엑스포서 '관세'부터 물었다…K소비재 중남미 공략 점검",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRW1uR2lSdE5NX3dDX1pyODd5RjZHZm9MeWRUYm5UdERqU1VXVHdTSFJVckNOUm9Ya0FFN1Rub2RDdEhkUW50V2xpTzJjVHhfWEliMllWV3dSOHlfaHlhc2pIdDJTU1FqSkRJS0FiWkE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-26T07:55:44+00:00"
+    },
     {
       "t": "최교진 장관 \"'호남 반도체' 전남대, 실리콘밸리 '스탠퍼드'처럼...李 정부, 서울대 10개 만들기 '진심'\"[KBC 특별대담]",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbGl0UmdzYjBQSVJSYmFhU1hnbGN0UkdYVUdpZjZ6RXNRUlFiQ0NYVzdTSi1MUWFtUlB3blY2cDZWNEE0Y3FnZ0hLZ2RPWlZsbXJ6VW5ZT0tMOF9mV0NHUQ?oc=5",
@@ -49,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-09-26T07:22:51+00:00"
     },
     {
+      "t": "코스피, 7000선 웃돌지만 상한가·52주 신고가 종목은 '반토막'",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42UjhsT0d0bG4yLTEzNlhNVTRpNWJ1RmdxVV9BdjhtSG5nOW85bXpPYlJPV19RUDBTdjhYOE42R0xlQ3lYWkpfcU83RmstMWZKRWZKNy1XMERSS2FCUEhpZXJOTURyRFA2Mi1qaTJJdG9OLUZCTU1MV0tPX2c?oc=5",
+      "s": "비욘드포스트",
+      "d": "2026-09-26T07:14:37+00:00"
+    },
+    {
       "t": "미 연준, 스테이블코인 규제안 공개…준비자산·자본 기준 구체화",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lX3BCaVZZM2xtSlVTZnlSNllRczQ5ZHJhS05lZkRDakZha2x5MmQ5ZG5CSF9QdXBJLVFtYThoOVdLQTk5RXl1bkZYZVFWSDdZYnl4SjhwajU4UFFkYnJHMA?oc=5",
       "s": "뉴스토마토",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TMEpPRnZQYTBVVktLWlRJem5FRFNZV0VXQnZSYmEyZ0Nob0Q2d2w4VlhpYzRUX1QtcWw1QTdyMFk0TDRudHh4QnJuODRRUTl2cUdnR1NYYzBzOUJnZkQtQkxyeVhweTBC?oc=5",
       "s": "ebn.co.kr",
       "d": "2026-09-26T06:51:49+00:00"
-    },
-    {
-      "t": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aenQyVUJSdVYyTXprY3pTZUx2N19XTnhrVlFITUE2R1lkRXJwaXgwa0NOYWc5SkNjRFlLWWg4NmJRa3NmTmJRZFBiVFpsQWs?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T06:39:00+00:00"
-    },
-    {
-      "t": "[미중 정상회담] 백악관 “미중, 300억 달러 규모 상품 관세우대 합의… ‘초지능’ 대화채널 구축”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PMktaT29tYkNTb2dfaUhIUG9OZl9pMWdidDYzYjY3a2E2SlJJak4xc016WTRfWW1NT2pBbmRHekY2WTdhZmdBU2ZNNkhFOThoQ3hPWVhVRmxvUlpURlgzc2V2MEZjVHI1d3c?oc=5",
-      "s": "천지일보",
-      "d": "2026-09-26T06:31:03+00:00"
     }
   ],
   "asof": {},
