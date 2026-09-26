@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T19:45:30+00:00",
-  "quotesAt": "2026-09-26T19:45:30+00:00",
-  "newsAt": "2026-09-26T19:45:30+00:00",
+  "fetchedAt": "2026-09-26T20:00:39+00:00",
+  "quotesAt": "2026-09-26T20:00:39+00:00",
+  "newsAt": "2026-09-26T20:00:39+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "연준, 스테이블코인 뱅크런 방지…“24시간 내 복구안 제출”(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZejUtUGdsNzVfd29CaU1ubGhOZ3Bib1lEa01qMG1sdktFTGdUSWt6bXZGR3dZTHE0MWR6aGxNTWVpc09nZi1jcDFOUkZ3MkhUcGszUHNFR3k?oc=5",
+      "s": "블록미디어",
+      "d": "2026-09-26T19:52:15+00:00"
+    },
     {
       "t": "연준 긴축이 신흥시장 자산의 판도를 바꿀까? UBS 분석",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43RFljUEl3Z3ZzZUJCQ0hUNVIzRE1ZUk42LU54TjNjdzFVNFdlbHBjbkM1Tk1WQ2pJbjRiNWs4RmR2X3RfVVBRdS1uSmJXdm5hQlJfUmYtREE1S3RwSEVZTmNOdFZha1Vfb3c?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZMDZNUFNwb2NhTk5hcEpfUUZqVUxQeE5hcjJZdE9ocmdSOHp3Rk90Ym9hQkI2Vmp5dnRjRFlURHlsVlRLbmZiMjZwWDNNY0lodG1FVXZZd0xzczkzNU9HdHROWWx3MlNkTXF5NVIwZF_SAXRBVV95cUxNamJTaFpwZzRVNlpiWGNsRjliaEJYN1ZaNkJfZ0NMN2l3c0FxSWJFMm1qb1VGdllQYkZhRm1nTFlJYXItNWk0WTF6S3dLOGpPU183eFNGdjVpNDNEWVBtbkFQeVBUcER4UmRQblhOb213VVEtZg?oc=5",
       "s": "thefairnews.co.kr",
       "d": "2026-09-26T15:31:36+00:00"
-    },
-    {
-      "t": "中, 반도체 설계자산 보호 규정 강화...韓기업, 주의 필요",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xMU1MOHBFSDg4UDV0SXpJX0VMUEZRZEcwd2pjcll4MGZCQVIzVVpBSktHSm5hX2tPa3ZsRDhWWndUdU5wOUhtX00tMmxqbEJVbkExNHZ5UzQwQXhUSDZPUzhGOA?oc=5",
-      "s": "더구루",
-      "d": "2026-09-26T15:00:39+00:00"
     }
   ],
   "asof": {},
