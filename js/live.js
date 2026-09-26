@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T04:00:35+00:00",
-  "quotesAt": "2026-09-26T04:00:35+00:00",
-  "newsAt": "2026-09-26T04:00:35+00:00",
+  "fetchedAt": "2026-09-26T04:15:26+00:00",
+  "quotesAt": "2026-09-26T04:15:26+00:00",
+  "newsAt": "2026-09-26T04:15:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "발행어음 ‘9파전’…특판 5%대 금리 경쟁 본격화",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QVZPUHBSTkZnQTFneWxZNFNxWlpKZUhfR2UtblNHUFBoMlFDdV9BSEtNUTJBbWlpSlZPNWVQZWtwWGZVNkprR2VReTdmSTBtX0JQZkNqWEtVSm8?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-26T04:00:00+00:00"
+    },
     {
       "t": "\"물 없으면 반도체도 없다\"…삼전닉스, 하루 46만톤 물 재활용 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iQkhxTnBiMllIZHZfbWVqV252bVNPQm5zV3dCN3EtYVpZMkRhSXVpYVJCdEJxM0NnTEM1Q1Vnb3dPNDBYODZIWmtxOVJuYnk2WjA5WVlrWWE5dXoyNWwyejNRNzdLUTNqOW5FOdIBckFVX3lxTFB6bE90Q0ZVQlVTSmkyLW1KLUV6b3ExSFZkSnp6QnJ3d0hidXZZa1BqR0ZIN1U2cURSdzJTdDEyY0FzUFluWnA0cjBjeVpOaVNoT25pWTZCUTNxd2FXcG04eHFfYXBNX0RWNndCRE5FZ2ZIZw?oc=5",
@@ -57,8 +63,14 @@ window.LIVE_DATA = {
     {
       "t": "\"이자 부담에 적정가치 하향\"…금리 상승기 유리한 종목은? [한경우의 케이스스터디]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xR3YxQWdtWVFULTZfTU1rVmpkQ3dNWF9BR1hsTDBaU0JNdl82TktBZnBvWFhYZkRiRnlhS2NNdnJRZ0lVVEhOdWFOcHUyVDVfY1lRMVhiNktpQQ?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-09-26T02:55:53+00:00"
+    },
+    {
+      "t": "[속보] 멕시코 ‘K엑스포’ 둘러본 이 대통령…“관세 얼마나 올랐나”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51anFZX2ZIOUY5ZEtzOFQwR1dXbmRhWWZnZHFWMGc4dTFNY0tkcnRwVF82SFl0OGJTQWJTalk5RUVPUnZyejFkNlc5a0k5Q2FrRHdybk9oZHEwVXZhTnNYenV6Q1FEdGc?oc=5",
+      "s": "kado.net",
+      "d": "2026-09-26T02:44:05+00:00"
     },
     {
       "t": "靑 \"한·멕 무역협정, CEPA 의미\"…관세도 논의 테이블에",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-26T02:44:00+00:00"
     },
     {
-      "t": "\"유가 100달러 넘으면 침체 온다?\" 유가 대신 이걸 봐야[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YUmdpT3RZTFBRWlluZnU2NExYZl9YSUdRU0U5SjRmLW9MVlJLejI5eHBlZ1duV0I5NWpFX0tydXBOak5PbDcyUWxsRWpwYTg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T02:21:27+00:00"
-    },
-    {
-      "t": "대구, 시스템반도체 키운다…설계·검증부터 인재양성까지 투자 확대",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHSmlpcWZnd3k0S2F2LU1UU1JvVXk0TmNvSzA1bXVmSHNGcW5HU2c4TnJ1Q19ncFVtTFFSaXo2OGVFRTdmWTlYd0MxV2RGMDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T02:17:35+00:00"
-    },
-    {
-      "t": "미국, 한국산 세포·유전자치료제 등 관세 0% 적용",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mOUZyQ2w5MVRDeDlKMzRNZWdfeE42TWlZV1IyRmJOLUl4YnZuZUdjUkhJVlk0Z2Z3cDhKVXpOcjNkaTZwaVRRdEhKc2ctenZPY293RjBVYjQxYjJZLXFhby1hZlRQWHJBMnln?oc=5",
-      "s": "히트뉴스",
-      "d": "2026-09-26T02:14:40+00:00"
+      "t": "유가 하향 안정화 지속… 추석 연휴 인하 효과에 19주 연속 '뚝'",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91OU5vU25RODd1S0VYSjIxVkVlX3VKMkFId3JZS3BUY2FGR2RpQnp2V29hVjkySG8tdVFBWjdZaWZ3MkFjLUE1c2ZJMW9ZTkZvb0lIS18weV9UVXRrX0UwakNn?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-09-26T02:23:00+00:00"
     }
   ],
   "asof": {},
