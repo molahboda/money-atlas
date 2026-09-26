@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T21:15:34+00:00",
-  "quotesAt": "2026-09-26T21:15:34+00:00",
-  "newsAt": "2026-09-26T21:15:34+00:00",
+  "fetchedAt": "2026-09-26T21:30:29+00:00",
+  "quotesAt": "2026-09-26T21:30:29+00:00",
+  "newsAt": "2026-09-26T21:30:29+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jTVc1RktuOWJzeGpzb1A1Tlc5YVg3SUlpQzFUdmtDWjREakk2OFdCYlJBSEVuM3NRSnFhelFiQjRDZlFDUmVKM1Flb3MzY0FqV2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-26T20:51:00+00:00"
+      "t": "'반도체' 신바람에 '증시 랠리' 훈풍...초과세수 50조 이상",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqYlB3YzFKQk5peDU4dFNBSHNFbWpob0NPU3MtdDY2blVHZVFMZGktc1pya1ZGYmhUWUNHdDJFSmtmUkJOS3VJdm5iRDZ2RW8yaXRmaXloV3RQZ1hSTHF2TGllWm02OTJqY1htSW1hYTF4SkdV?oc=5",
+      "s": "파이낸셜포스트",
+      "d": "2026-09-26T21:26:12+00:00"
     },
     {
-      "t": "대출 갈아타라더니 금리가 더 높다?…은행권 '금리 역전' 현상",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zUWQyNllCWndOZXROSWU2YkpZWkRSODRsVkZMd3dST1l6dFpmRlVmWTBocjJ5LXhfOW45aDZqamttVk5Jb2hWSnI2d3F3WXhFWVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-26T20:49:01+00:00"
+      "t": "반도체발 세수 호조…내년 미래대응기금 재원 200조 원↑ 전망",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRdWNSaHBSbHVwTkdyUFpnc3dwbTdNU0d3SENlY3dXT0YyUDNxNmtwMExMNEFscFhwbXZoQTFiOVFMME1DOUw1QmFIcXRMaGJKTFRPSlU4cldOa2NBTS1GTlJaMVQzS0U?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-26T21:16:00+00:00"
     },
     {
-      "t": "원료도 웨이퍼도 칩도 다 오른다…반도체 공급망 '가격 인상 도미노' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16ZlNUMUhMNDdhOUZRdjJwSU5qT2VrcGhlU3VmYkhlSDE0QVF5WGFVc0hGSmNhUFhQTVBsMmpQRlRBTl91SkJ0NklWQzd3RmpXUkN6STluY3piZ0VHc1l3bGtZTkF2czA4WHNna9IBckFVX3lxTFAyT1BjV2tvbkdESmkzNjBrOTRZaXgtd0tPZ2xHdFRxNzdINkxwMkxIMjZFY1dKZ1k4Y21DSG5DVC0yYTJadFRlR1dYUkxrUTVuZF9McUNtWWRfVjQ1Q1hzWVp4SnhnR245ZkU3a3V3Snc0dw?oc=5",
-      "s": "mt.co.kr",
-      "d": "2026-09-26T20:34:00+00:00"
+      "t": "3高 다시 꿈틀…연말 경제 흔드는 금리·환율·유가 변수",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuVmhKclpRbHZ6NFdWaElhNXNaVHhxTW5ZQjhMQ0VyalJyZ3dmTUVKSDZZZWloem1ITXdUNlY4alYxRVoxYWRDb3dsY3ZiSVgxN3ZsbNIBWkFVX3lxTE84WUlyenQtcXBSRzdVNHd3RFNvMVlmbGg5aHJ6cmllV0ZXenlzal9Id3V5YThLXzEzUlV3akVvQzVwbGx5SWtaTS0zNEdCa09zWHg3WTlFb2l0QQ?oc=5",
+      "s": "news1.kr",
+      "d": "2026-09-26T21:15:00+00:00"
     },
     {
-      "t": "콜금리는 금융기관끼리 하루 자금을 빌릴 때의 금리",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZcjhoRldFMGRnNERmLW5sQnVoV2NTS1N0QmY4aklWc2hZNzdUZzhYTUkwVHBPVUI2ZlVGcEJrWko1aW8wbjVRcnJsb0FQSnA1MUgtanlMYm5SWmVoVUF3MktxaUxqUQ?oc=5",
-      "s": "vegannews.co.kr",
-      "d": "2026-09-26T20:17:27+00:00"
+      "t": "'수출 대박' 반도체만 호황…'고용없는 성장'에 청년 일자리 한파 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ORmktSmZiRWdnQkRYVlhyTmlsMEZ2aGpKM055UU5QV2lvWWlCa05NaTFNXzl5N2N2bC1kM00wT2VnWnJDQ2FxVHhuOHpfd3E4RXU5OEFmdXJPOUU2bk9tQ0xTTVQzSjRqWnVR0gFwQVVfeXFMTWNIMG80N1ZGOUhXU1J6ZGxZWUVJanJxMjVUa2d6b1NBUS1EcVY2V2g3dmhzejc1Mmk0bVFrOHlJZS12WFpYS0NoVlVDbXFfazVSWEw3eWFPNmY1T29vLTVoTVFucUYwRzl1elRTbWhucg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-26T21:15:00+00:00"
     },
     {
-      "t": "[주간 월가 레이더] 10년물 5% 뚫은 뉴욕증시⋯'고용·물가'가 10월 금리 가른다",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSEF2V25aME9xYXFRaFFVdXFmVFRZaEY4ejJOMWhMOUhmNjVXZ1c3RTkwN3pSWlVpV2tCSFJJcHk5MVgzclp2cDhZTlJyS2FRU0ZkRlMwV3VuSVBjNkE?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-09-26T20:04:03+00:00"
+      "t": "“AI 반도체 성지 만든다”…제3판교 오피스, 후년 준공 '탄력'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pbjVCR1RSUHNURmN2UDRoVXltZnpVZlJ5VTRvSTdUekFXX21JdlROaDIzWW9Tc0FHa0t6Q2pzVUxjNGxZdGRLSURjTHhpWXFSN3JXRktTaXAxdzJ2d2dfUGpFU2FEMDFDSTJ3V0Q2aVNwdw?oc=5",
+      "s": "마켓인",
+      "d": "2026-09-26T21:05:03+00:00"
     },
     {
-      "t": "원금 3275만원 갚았는데 월 42만원 더 낸다…5년 고정 끝난 영끌족 비명",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncmhsQUZYclhfS2UyRTJwTjE3Yl9YQmxPRUNBSVd4SUJta1B0bENRa19fNFVKOWlCVkwxYmJmMUVpVGotMy1CYlRwQ0o0ZWs?oc=5",
+      "t": "[주간증시전망] 美 물가·마이크론 실적 발표에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWNqVEFGa3pQajR4ZTlXaFBGMjFoRkRwaHV2UWVYSExkbVl1NFFldFViOEVhZ0pMdzVNZlZhRVZQbEViRWQxbzJJVzNkMXJzNS1HVjZTTE05RVJQaWpvaXlRQ1Z2X0JHY2lXVktRRU1yYTQyWGlBb2swb3hHOWtUQWdoZ1k4VnNE?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-26T21:03:01+00:00"
+    },
+    {
+      "t": "추석 용돈, 주식 대신 예금 넣을까…다시 고개 든 ‘역머니무브’",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSG55RXUtNFR1NnFCdWc3a3F4N1d6R21CVS1CQ0E1YXZCMTB3TnhaMDg5WEtsZWpZcVFIai1Dd0diMDRGZVM4QkRrWW9RLXM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-26T20:03:34+00:00"
+      "d": "2026-09-26T21:03:00+00:00"
     },
     {
-      "t": "연준, 스테이블코인 뱅크런 방지…“24시간 내 복구안 제출”(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZejUtUGdsNzVfd29CaU1ubGhOZ3Bib1lEa01qMG1sdktFTGdUSWt6bXZGR3dZTHE0MWR6aGxNTWVpc09nZi1jcDFOUkZ3MkhUcGszUHNFR3k?oc=5",
-      "s": "블록미디어",
-      "d": "2026-09-26T19:52:15+00:00"
-    },
-    {
-      "t": "연준 긴축이 신흥시장 자산의 판도를 바꿀까? UBS 분석",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43RFljUEl3Z3ZzZUJCQ0hUNVIzRE1ZUk42LU54TjNjdzFVNFdlbHBjbkM1Tk1WQ2pJbjRiNWs4RmR2X3RfVVBRdS1uSmJXdm5hQlJfUmYtREE1S3RwSEVZTmNOdFZha1Vfb3c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-26T19:25:00+00:00"
-    },
-    {
-      "t": "'영끌족 어쩌나'…금리 0.25%p 오르면 이자만 3조3천억 폭탄",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5Y3VxT3cwSmZFNHZPWWtNSy14b0U4WFR6c0d3ZlZVQjVlZTNOTEZhQUdDSW5GVHlGdktUeVRRX0tULWQxdFpWV215RzFvRWc?oc=5",
+      "t": "7000선 사수한 코스피…'美 물가지수·마이크론 실적' 분수령",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zTG5aNVl6UnBLel82WWlJdVQ3TnVMbUJ3R0k0cnB6ZmIta1RSREQtMkt5M3h2UEJKS3pLdmVNTXdkX2RHcEdUa252VERjQ2M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-26T19:03:00+00:00"
+      "d": "2026-09-26T21:02:21+00:00"
     },
     {
-      "t": "두 달 번 미중 무역 휴전, 광물 틀어쥔 채 반도체 옥죈다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2hjMDB0Zy11aEprcVVPT284dG5LckNiaHRwNHEyZ05pME5JakNBakN0dWFMbXY5eFlBYlVOcDNlWEwxblVmZ0FGSnNROV9ybW1FMDV4UXFqWm1pUTNlN0Y0QUFTMGpiUnpNRFRMcnd1dXdGbE1sNE9rSU1xdVZ4b3VQMzhiSDNz?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-26T18:15:00+00:00"
+      "t": "연휴 뒤 3분기 실적 시즌…삼전닉스 영업이익 190조 전망",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15Vk5uclh2UXZXbGxrRjAzajMtUUF2Ti1EUTRQUGh1eWFTQnFpXzJpMlctNGNtNlBTalE0WFRsOTN6bWJMWEZpSjNvMjhYTEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T21:02:13+00:00"
+    },
+    {
+      "t": "코스피 횡보할 때 40% 뛴 두산…'전자'가 끌어올린 몸값[종목현미경]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85dHp6bzczN3FjT01rd3NsUy1aSzdFNEtpUUZ4TFl5ZHFXeDVuTEVlTy1Bb2VDSkZLdG05OEJJRmlyd29nMFhrS0lUNEJtVUE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T21:01:58+00:00"
     }
   ],
   "asof": {},
