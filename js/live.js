@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T10:15:22+00:00",
-  "quotesAt": "2026-09-26T10:15:22+00:00",
-  "newsAt": "2026-09-26T10:15:22+00:00",
+  "fetchedAt": "2026-09-26T10:30:28+00:00",
+  "quotesAt": "2026-09-26T10:30:28+00:00",
+  "newsAt": "2026-09-26T10:30:28+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "대구시, 설계·검증부터 인재양성까지 반도체산업 경쟁력 높인다",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sRTRyckVkLVpjbGROanhoc1djQ3pGRmM4R04xcG9Zclo2WGsybW55RGpsRENkMUwzYmNqMUZ3d2tBYlRmSWRreXpqcFVrTi1NcHBpVDBmLWQzWGgwUGtJ?oc=5",
+      "s": "세계환경신문",
+      "d": "2026-09-26T10:26:28+00:00"
+    },
+    {
       "t": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
       "s": "한국경제",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZREpFNzQwcThGYjR3Q3UtWXgtVC1QWEx5S2Q2bE5va2NKYmwwTk9kUm9oSWMwRHMyY1c3cmhId1NsZ083RHNjaXRBWWZuWE1DSVpGVzFBUW1KQjZNNTMxRHlqRmNjVEh30gFuQVVfeXFMUENSSE10M1lOb3dnVkRUR2wxZnAxTGF0cWVZZDlKTFdubms2T0xORjkzRzU4VHFYMFZncGZteEpoTjhydkhrdC1LRU0tMlNOX0tid19BVDROM2NBQWVScFgtMWt1R2JqbEpKVDBWUlE?oc=5",
       "s": "머니투데이",
       "d": "2026-09-26T09:28:15+00:00"
+    },
+    {
+      "t": "\"호남 반도체·의대 집중 지원…지역 성장축 만든다\"…박홍근 예산처 장관 특별대담",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Qa2FxNjA1REpsME1KUDF2RVhfR3BDUTNGS1Y5U0RHYmxzUy1WTFQyOUtPMWFRemVxWDlPaGRXQzdZdkhvUmpGU1VIb2xta181TmdEaGpFMjlrRVpFNi13VkhB?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-09-26T09:17:38+00:00"
     },
     {
       "t": "[기획]\"반도체 팹 인재, 제때 확보\"...인재 공급망 구축 본격화",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNZYVdNV3VhZ2tyVHpUb2hPbjZUWENZdUM3MUw4SU9laG9QbzdTT1AzSjNVd3pHQ1B6Sjd2RVBuOFA3MzF5c2JsZU9oazdqMEh1aFJNVm1xQQ?oc=5",
       "s": "한국경제",
       "d": "2026-09-26T09:00:03+00:00"
-    },
-    {
-      "t": "[미국증시] 애크먼 금리 올릴수록 물가 오른다…연준 겨냥한 반론",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cVdKMy1TMnY2S3J4TkpadDRqb0gySWhCSHJpVjBwZzBiMlZsLU5aeWJ5MlczNWZJSnhkOG5Zc0RQNlpIRUhCQXlOdlhrNkNDZWJoSHZjdFRhei1NTmdwaU51aWNSTGs?oc=5",
-      "s": "자본시장뉴스",
-      "d": "2026-09-26T09:00:00+00:00"
-    },
-    {
-      "t": "다음 주 물가·금리 지표 줄줄이 발표…산업·물가·금리 통계 등 '한눈에'",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbzVoV1htcllmUnZBNzcxOENGdjdqY0x5eExXRkpoV1lHNGxiY2pKOUxNU0JOeDFJUENUbmdKYzNKWk5CRjhoNXljLU8yOFdBU2FiVkY5UU0?oc=5",
-      "s": "더트래커",
-      "d": "2026-09-26T08:59:33+00:00"
     }
   ],
   "asof": {},
