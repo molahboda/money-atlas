@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T21:45:26+00:00",
-  "quotesAt": "2026-09-26T21:45:26+00:00",
-  "newsAt": "2026-09-26T21:45:26+00:00",
+  "fetchedAt": "2026-09-26T22:00:40+00:00",
+  "quotesAt": "2026-09-26T22:00:40+00:00",
+  "newsAt": "2026-09-26T22:00:40+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,30 +24,6 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
-    {
-      "t": "연휴 끝나면 금리 움직인다…채권시장 복귀전 체크포인트 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Z0IyNG82OGk5LWZEaGVMdWFSaUNQWkRraXhmaG10Z0JrT2lRajJITzRpenB4bGUxOWI2WDRTTjd2OS02VkxuUUU5OHNMbmo4TzJLeHZySDR3VDhDNGFOMGc4VXJsYk1BOTJOYVQ0YnI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-26T21:42:00+00:00"
-    },
-    {
-      "t": "적발된 산업기술 유출만 5년간 107건 …10건 중 4건 반도체",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WWmxsRV9SaEJoaHpJaUNXR3YzRklvaXZLbVZmQjlyTEl0TVFDUkJOLWlUeDFZWk52S0ZXT3ptdHVxUGJFcXA5elE2ckdrSWk0cVo2Rkt1dEhvS1AzMFRnTlZHZW9ra0x0czg5b3dUOUVYcUZD?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-09-26T21:31:00+00:00"
-    },
-    {
-      "t": "돈 풀어 추석 물가 눌렀는데…불안한 '유가·환율'에 먹구름 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2X2NaWEhVektaRHNKS0pzSkNzd2U4c2dIM0REZW4zRl9fNXRVajZTbWozVzltQ3dJaTZSZ2VWY0NVblJKaXVyS1ZCSDNzSC1WT185SnJtbTh2UF8zSE9NTDRfcE9rZXA2RkZv0gFwQVVfeXFMT005X2NEUnlzeEhfMDVfV19kVnUyMlBGdTI3NEg2Qm9PbVRDRHZPejlmLWFPSWtpd1Q5VkZVczZxSE1vem11QWpsMXRfY0hRTDFENHYxSW9RMlFuU0hvd25TTFFTSVc3VXFocHBpbUpBRw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-26T21:30:00+00:00"
-    },
-    {
-      "t": "K 반도체, 3분기도 사상 최대 실적 전망",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nTEdJTnFobDVFbHY0ekNEQzZzMHN0ZXZNM3pmTUlfSEg3QWZHblhYMVUyN1hzc2ZWMEo1VzdFWXBxRTZXaDduU1BwaEJIR2pKZ0hFNU9fWE55dzVLY3c?oc=5",
-      "s": "동행미디어 시대",
-      "d": "2026-09-26T21:30:00+00:00"
-    },
     {
       "t": "'반도체' 신바람에 '증시 랠리' 훈풍...초과세수 50조 이상",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqYlB3YzFKQk5peDU4dFNBSHNFbWpob0NPU3MtdDY2blVHZVFMZGktc1pya1ZGYmhUWUNHdDJFSmtmUkJOS3VJdm5iRDZ2RW8yaXRmaXloV3RQZ1hSTHF2TGllWm02OTJqY1htSW1hYTF4SkdV?oc=5",
@@ -79,10 +55,34 @@ window.LIVE_DATA = {
       "d": "2026-09-26T21:05:03+00:00"
     },
     {
+      "t": "[주간증시전망] 美 물가·마이크론 실적 발표에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWNqVEFGa3pQajR4ZTlXaFBGMjFoRkRwaHV2UWVYSExkbVl1NFFldFViOEVhZ0pMdzVNZlZhRVZQbEViRWQxbzJJVzNkMXJzNS1HVjZTTE05RVJQaWpvaXlRQ1Z2X0JHY2lXVktRRU1yYTQyWGlBb2swb3hHOWtUQWdoZ1k4VnNE?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-26T21:03:01+00:00"
+    },
+    {
       "t": "추석 용돈, 주식 대신 예금 넣을까…다시 고개 든 ‘역머니무브’",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSG55RXUtNFR1NnFCdWc3a3F4N1d6R21CVS1CQ0E1YXZCMTB3TnhaMDg5WEtsZWpZcVFIai1Dd0diMDRGZVM4QkRrWW9RLXM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-26T21:03:00+00:00"
+    },
+    {
+      "t": "7000선 사수한 코스피…'美 물가지수·마이크론 실적' 분수령",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zTG5aNVl6UnBLel82WWlJdVQ3TnVMbUJ3R0k0cnB6ZmIta1RSREQtMkt5M3h2UEJKS3pLdmVNTXdkX2RHcEdUa252VERjQ2M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T21:02:21+00:00"
+    },
+    {
+      "t": "연휴 뒤 3분기 실적 시즌…삼전닉스 영업이익 190조 전망",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15Vk5uclh2UXZXbGxrRjAzajMtUUF2Ti1EUTRQUGh1eWFTQnFpXzJpMlctNGNtNlBTalE0WFRsOTN6bWJMWEZpSjNvMjhYTEk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T21:02:13+00:00"
+    },
+    {
+      "t": "코스피 횡보할 때 40% 뛴 두산…'전자'가 끌어올린 몸값[종목현미경]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85dHp6bzczN3FjT01rd3NsUy1aSzdFNEtpUUZ4TFl5ZHFXeDVuTEVlTy1Bb2VDSkZLdG05OEJJRmlyd29nMFhrS0lUNEJtVUE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T21:01:58+00:00"
     }
   ],
   "asof": {},
