@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T01:15:36+00:00",
-  "quotesAt": "2026-09-26T01:15:36+00:00",
-  "newsAt": "2026-09-26T01:15:36+00:00",
+  "fetchedAt": "2026-09-26T01:30:32+00:00",
+  "quotesAt": "2026-09-26T01:30:32+00:00",
+  "newsAt": "2026-09-26T01:30:32+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美 국채금리 수십 년 만에 최고…10월 추가 금리 인상 전망 확산",
-      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iU3BHVmhINTlwR0lFZnc4MUFvVlVQblcyTmlNZ1lsNDRZdklaeHRaa21GMHlCNWltSXZPZ2JhQ0huZkZWTGx1OEZXVQ?oc=5",
-      "s": "아이뉴스24",
-      "d": "2026-09-25T08:57:08+00:00"
+      "t": "28만전자, 180만닉스, 7천피인데…거래대금은 6월의 ‘반토막’ [주간 증시해설서]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vUHBiQUF2U0JBTzM5WFM5aEtFX0lYTHYyblVxM2xqQVlKRk95TTdDa25KMjBONkJpSlZELTluSWhqUkgxcS0wVkhISjNzemc3cEU5b2hwYVJhYVVKWFd0dXZUeWVMb3lYd20xbzdn?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-09-26T01:25:40+00:00"
     },
     {
-      "t": "UBS: 스위스중앙은행 회의 후 금리 격차, 달러-프랑 강세 지지",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtOV9mWGFzLURtaWo0UlI5TnJwR2pPQVU1TW5NSmRGT3BnN0xkME9UMndXSVliY0F6aDZTQUdvSFdzVF81VnR5aXM1dFJxemlyYW13WDI2WUNnd1BCTmoyTGhfYThVT3FlNnFCclZn?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-25T08:52:00+00:00"
-    },
-    {
-      "t": "[도쿄증시-마감] '배당권 확보' 위한 매수세 속 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iZFVCU0U4UlE1SXBvZWV5aFY4NTFENHB2VXRoZEhhWHRXMXpNNU85NWxMTXFzS3BqU1NOZGxCVjEwNVNGMFdkVnNNNHg3SU84YkRFd3A1bVJ6MkJqMmZPeUxUVlpNT1ZXTko5c3VpSHU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-25T08:50:13+00:00"
-    },
-    {
-      "t": "EU, 英에 \"中 자동차 관세 인상해야\"…대중 압박 동참 촉구",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QMEw3MEZPS2Y4UFdmazlmSHBfWEZ4Y0h1YjIzZ1ZKVG42dlRNVldJNHh5VmkwclZ6X2M3akNOdlJwME5RQWtPckpuMC1nS290N2ljWWZQeXJNUlRETWRKONIBeEFVX3lxTE1PVU9DZDNha3lXWEdKOXFjanJUT2VMZU05ck50emU2RDJQSFI1STdKOTdObTh4VldMZ3UwWUQwRzBsSlJTZFBtOTNlc1JXTFNXZ0VYVzI1cTlUNlhfN044VGlERUM3TDE4V0tuLWxjZTRMTlhhWU5WVw?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-25T08:45:00+00:00"
-    },
-    {
-      "t": "반도체 공장 돌리려면 원전 몇 기가 필요할까",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRQmRlU0tSNkZUQ2NTdVJTa2tVeUxac2pVczE5NHVrcnZsbVp0aWpYSll0NWJmcGIzcWhXSllzTEdjOU1NYWkzYTF0MnJjdlVpb19kWjFzRWFfQ3ZVckdtTQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-25T08:08:56+00:00"
-    },
-    {
-      "t": "연휴 이후 집값, 금리 부담에도 공급절벽 변수…\"지역별 차별화\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZN3lEU1owVVlUTG15SW94cnVJTzRTV0s3OW5CT0xaaTNYVmtUZ2ZFcnlMODdLYjF0a2kzUDNJMXVRbml6OEpQd0RMWlNLOFU?oc=5",
-      "s": "dealsite.co.kr",
-      "d": "2026-09-25T08:05:00+00:00"
-    },
-    {
-      "t": "“연준, 금리 5% 이상으로 올릴 수도”...BofA의 경고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNk1IM3hRQ3ZXbmhWOER5S0Y3ck1QM1B1UndwbGJfWlVEVmd1djh2UHFyTG4tVzFld3BTbW9QZzF0aW80X1dUZjVodG15OWc?oc=5",
+      "t": "환율 하락에 항공주 수혜…식음료는 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3cUxScWY2WnlsZUFuelJZay1VU3BLVVFWQk9EZHdndzNoRjdGWVlWZFY3LURGQldMX21ZbTRLRW96Tnk5TWlVVV9OVDlkLW8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-25T08:03:07+00:00"
+      "d": "2026-09-26T01:18:03+00:00"
     },
     {
-      "t": "美 국채금리 5% 쇼크, 한국 덮치나… 환율·증시·대출금리 ‘경고등’",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dnFTN1JyY2IxQVNtakpkQmdlM3BzV05PcVRKTm5JdWZjbUdhMGxMbGJ3cmxhT1JsMnRXcDFUVFA0c3JVNVJfcm80cUUyOE04U25ZVWI4TVp1dzE3RjN3WTJ4Y3RNRWhfS1E?oc=5",
-      "s": "천지일보",
-      "d": "2026-09-25T08:00:00+00:00"
+      "t": "원·달러 환율 1350원대로…항공주 강세, 해운·식품주는 셈법 복잡",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQlFUaExid3psVlMtQUZrRDBpa3JmM25uNXZHMjRiRERaZmNUcG5ERmJLb2hpLVY4UE1sMXZkNm93c25ZY0xJdmxpR09Tc0Zjd1FFTGU1dE1kZw?oc=5",
+      "s": "경북매일",
+      "d": "2026-09-26T01:13:00+00:00"
     },
     {
-      "t": "증시 호황타고 미성년자 주식 거래 급증…7조원 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lMGFuUkdHUmUzQlVscnhrSENrbzFCdXp5Zlo3VGhxazNnempicUl1SHJMdE5DWmJFNkstYk9WWmt1X19UMkdfbDl3Vld3ZVpJSm5rTEVnMm0zaHRaRnJNcw?oc=5",
-      "s": "newstomato.com",
-      "d": "2026-09-25T08:00:00+00:00"
+      "t": "멕시코 'K엑스포' 찾은 李대통령…\"관세 얼마나 올랐나\"(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ibjNmck5iQ2FXYnlqcklzNmNwTTVQcHE2RDdBSFRlNmNxbjdzSGFxTHJHSXpZd3A5YUM3NVpMYW8xVjZaeFNGSERrUkI5RE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T01:11:39+00:00"
     },
     {
-      "t": "모틀리풀이 꼽은 AI 반도체 5선 뒤에 놓인 한국 HBM의 무게",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUpibnhqMTZoNDlOaUNCTDYxYkdEYndWb1I3M1BJbHA5Tkc4VmkyazF4dDFYLVE3c18wVVJFek9BY2JEcUMwSlpERE5OczBuenYyQTl2Qkd3Z1FxaWxXQzBBcTlsMWQwQVd1SG82WnV3UElKT3RfXzJlYXNjM19WZFBqYUJiQ0JC?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-25T07:58:37+00:00"
+      "t": "[오늘의 글로벌마켓] 뉴욕증시, 미-이란 협상 기대감 속 하락...다우 0.9%↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LSm1lU3hublZGMEpMLTNESEpLU29lT0RuZllIRFhNb2pjY2tXVFRXY1Bia21US043UVRUMUExTks0WUdPOVo1WkNBbTRwZUFfdUdsd3NjQm5IMmx3NWs2STc5WmhEZThkWUlHZXZ3aHQ?oc=5",
+      "s": "opinionnews.co.kr",
+      "d": "2026-09-26T01:04:05+00:00"
+    },
+    {
+      "t": "권기대 대표 \"반도체 호황 2028년까지...메모리 위상 달라져\" [경제일타강사]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2WWQ1U24ydEN4YWE5aGg5UlV6djhFVU1ySldJVHQwdkgxcXozbFUyT29nX0Nrd1ZpS3NjVVpDM3JHZWNNOWdLUVlKR0RsUDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T01:03:01+00:00"
+    },
+    {
+      "t": "환율 하락에 항공주는 웃고 해운주 울고…식음료는 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uenNYa2hQdVZFd3dPWnVCZHRBak1ZZU9NUkhmcHpYcGl1SnBYS1dSWHQ0VW92cXA1Q0s4RldFZDAxVExITVJBb2Y4dlk3MFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T01:01:43+00:00"
+    },
+    {
+      "t": "'고공행진' 건설공사비, 환율·유가 엇갈려도 오름세 유지될까",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUFRXQ0xDRmhuVFZnTW9lVVU4Q1loNXFYRmVWdnFRWVFiQU9xcl9FdERWSmhfTFROd1VYMVh4YXNMZ0V2UHBRVERaUXVKdklzSWg2WEZUcmRoeV9GR3RUb2dRTGw4a2VPYXoyOS1lbWs?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-26T01:00:15+00:00"
+    },
+    {
+      "t": "韓 증시 휴장에도 美 증시는 간다…개미 순매수 상위는?",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81dFllSGdMOFRleWxDbWluYjlJU2pMWVFVWDVTekFERjNBRGtiQno3MGZCdjdqdFVRc2d6dlNKZXhINzhjYW1NTmJzU181VDlVOWE4MFFtZlNqRmZnaXJIeFYyQUxfYVJMOW1CZ3hUZndXbWsxREl6VkNvN0VrQQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-09-26T01:00:00+00:00"
+    },
+    {
+      "t": "미·이란 협상 기대에 유가 2%↓... S&P500 0.51%↑ [뉴욕증시]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ocnF0YXdwaU8zbDNEQ3BuaVFJajNpVFhsejNERnRTYmwwRjZ5X0JaRlVzNTVrbjUzQXcxZW4yd2NYa3VIRjVYck55NmxGU2xKVGpqM3h6N0NIRTEyU3VBdkgxMVnSAWhBVV95cUxQYWt0c0ZBemJsczBjNWlhbDBnMWY1d0phZEVsTjh6X2RLaWJtQy1XLXB1TVY5RUItNHpOdFdyeGlySGtUSEtIUG9aOUhTbWsxaHpYaVpQYlU1OVktdWNFTldERVFZVDlvWA?oc=5",
+      "s": "매일일보",
+      "d": "2026-09-26T00:59:48+00:00"
     }
   ],
   "asof": {},
