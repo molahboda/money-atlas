@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T05:00:35+00:00",
-  "quotesAt": "2026-09-26T05:00:35+00:00",
-  "newsAt": "2026-09-26T05:00:35+00:00",
+  "fetchedAt": "2026-09-26T05:15:26+00:00",
+  "quotesAt": "2026-09-26T05:15:26+00:00",
+  "newsAt": "2026-09-26T05:15:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,9 +25,39 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "연준만 쳐다봐선 안 된다…아폴로가 찾은 고금리의 원인｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2M2psTTFYM0hNX3ZENEFxQjhidG1UTDhxR1BoT3o1dmh0d2MwYnVvR1JPS2Q3QjF2b1Z0NlhUNGVjWVpNcjRNeGtVZU9TRjNQbElkSTZyd2daY2c?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-26T05:00:00+00:00"
+    },
+    {
+      "t": "호남 반도체 클러스터, 2027년 상반기 첫 삽 뜬다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KcjU5SjM0cUhiaXdSSWZjZnZsSDZBdkR5d0xXZnc5TmNTaG16Z1JzMnNQNU8zaUdvMkVwaVlBVTZlTmZlVll6RU5vTjVhSFk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T04:46:00+00:00"
+    },
+    {
+      "t": "이 대통령, 멕시코 K-엑스포 찾아 “관세 얼마나 올랐나”",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nck5aWWtBdUJ1ZnM3MjlGUVp3S1RlM0lIcHp0OW5hVURlUWoxNWRMTXpOb0ZYaWZuaFBHNHc4c3VoNnRyWHpSSlRRdV9PRnZfQW55ZWtQZVByQTJtUGfSAWNBVV95cUxQWnR6ZWFFMlR6aFRfZXpGbGpGOUhrSzNBQTdIcHFRN0ZlcEpJRmgtbUlUSW5wcHdqbHFzb0RuQ1dMa2c5U3ZqelJnci15bmhFSF8zdHByLW81aDhSTnZTZlU0RXM?oc=5",
+      "s": "채널A 뉴스",
+      "d": "2026-09-26T04:46:00+00:00"
+    },
+    {
+      "t": "기업가치만 1500억달러?…‘미운 오리 새끼’였던 솔리다임의 반전 [반도체 투자 리포트]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNFZrcDJONnUtR1ZfVzZmU2o0Mzk3QWZBV1JfbjZuTXdYR2xOQkMzRmlacEc1WWYwakQ4cEVpbnlmdW9aYzV3TXJtOEtXa2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T04:44:40+00:00"
+    },
+    {
+      "t": "李대통령, 멕시코 'K-엑스포' 찾아 韓기업 격려…\"관세 얼마나 올랐나\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53QkVHMzItX0JlMWJFZERFbU0yQkFKTXRYSV9abnpicmFNR1V3V3FnVGVFbTQ4UmNLYnI2bldPaFFZYXlfSGZjQXNMZ1UybGpNWEM2STNVOXBvVUl4QUsyWG5kM2JBY1lULVI4ekIxbk0?oc=5",
+      "s": "신아일보",
+      "d": "2026-09-26T04:41:49+00:00"
+    },
+    {
       "t": "호르무즈 재개방 기대감에 뉴욕 증시↑...미 국채 금리는 5% 연일 돌파 [데일리국제금융]",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0FWNHhTQ0xnX00zNF9XVk5tdWJ4VFo3TkcwNjBIUEtSUENwR2N3QzNYQVVWVHgxOXNZMDRHVTFESHR6Z2lJVVVGMlEyTjFCTmfSAVNBVV95cUxONnV4SjFRb2VIMlVKVFR1bDg3bnFxWDExaHJEWDBRSU1xRkRrR0w2Rm1ESk9BRDJZOW5qTG1NelRQajNSbkJvX2p6YTNSbXNROHpnbw?oc=5",
-      "s": "서울경제",
+      "s": "sedaily.com",
       "d": "2026-09-26T04:33:10+00:00"
     },
     {
@@ -44,45 +74,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "“증시 방향 잡히면 바로 빼서 들어가요”…일주일 새 1.8조 몰린 ‘대기실 ETF’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMlMzUTF0clZONmVPNlMtS05qOHFmSTV2UmNXX2ZnTzV2T1o3Sm8xREpTeTRjcE14LTlqSWUzbDhLNzh0M3ZCamptZGJGS0ZqNnc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-26T04:15:59+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySUMzNTRJaFpxYlNrZHVNUkpZUmVGVHVTd2luWVdoaHA3ZHhRWV9sellrRWF3WHJkSTIzM1hFOHZZd3d4U2FsRDhCaEZNM0U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T04:18:01+00:00"
     },
     {
       "t": "발행어음 ‘9파전’…특판 5%대 금리 경쟁 본격화",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QVZPUHBSTkZnQTFneWxZNFNxWlpKZUhfR2UtblNHUFBoMlFDdV9BSEtNUTJBbWlpSlZPNWVQZWtwWGZVNkprR2VReTdmSTBtX0JQZkNqWEtVSm8?oc=5",
       "s": "에너지경제신문",
       "d": "2026-09-26T04:00:00+00:00"
-    },
-    {
-      "t": "기름값 19주째 내렸다… 국제유가 급락에 더 떨어지나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53TVFsa21BOXdhTHAtdF9teUFZUVpsNFJYMDdmSUs2RFhIN3dJSEo0b3ZkN2JMNjI1TUYxc2JHUkhtYnNpZDVFWHdvd2U5M00?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T03:55:02+00:00"
-    },
-    {
-      "t": "\"물 없으면 반도체도 없다\"…삼전닉스, 하루 46만톤 물 재활용 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bE90Q0ZVQlVTSmkyLW1KLUV6b3ExSFZkSnp6QnJ3d0hidXZZa1BqR0ZIN1U2cURSdzJTdDEyY0FzUFluWnA0cjBjeVpOaVNoT25pWTZCUTNxd2FXcG04eHFfYXBNX0RWNndCRE5FZ2ZIZ9IBckFVX3lxTFB6bE90Q0ZVQlVTSmkyLW1KLUV6b3ExSFZkSnp6QnJ3d0hidXZZa1BqR0ZIN1U2cURSdzJTdDEyY0FzUFluWnA0cjBjeVpOaVNoT25pWTZCUTNxd2FXcG04eHFfYXBNX0RWNndCRE5FZ2ZIZw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-26T03:30:00+00:00"
-    },
-    {
-      "t": "기준금리 인상 여파로 시중은행 예금 금리 인상 가속화",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BcFd0UllYNjJUSFluMVBqbW1iN1lKN21Vd1lyclFnTnV6d0U2blBONnVrUzA5eDBhY0pVNk50TW9OOXVWdUxRMFNTRmFjbkFLYS1JUUNHZm1tR1IyTm94WWhsS2EwX0RV?oc=5",
-      "s": "2news.co.kr",
-      "d": "2026-09-26T03:29:00+00:00"
-    },
-    {
-      "t": "美 주담대 7% 넘었다…한국에겐 ‘먼저 온 미래’",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10VXptTTF1aHFvUHltdjRBQ1dEay1vT2IzRXVVRHNVUHRaeHN6akZ3bWMzS1BPNkx6TkRGOU1RU0drSWhzekdTT2tNZnpQdWJHajI5RHJhb3lrUGt3QVNaelk3OWx0a1o5SkJ5cklR?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-09-26T03:22:03+00:00"
-    },
-    {
-      "t": "코스피 7000선에도…상한가·52주 신고가 종목은 줄었다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDekVNZDFFNmcyaGdHSzQ3UHcwaC00TXJKeEhkVXJBcldrcmVmcWZWbU1nX1dwanVvTG9sUU9rM0NmM0hva2N2YklwelBHZzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T03:01:05+00:00"
     }
   ],
   "asof": {},
