@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T14:45:30+00:00",
-  "quotesAt": "2026-09-26T14:45:30+00:00",
-  "newsAt": "2026-09-26T14:45:30+00:00",
+  "fetchedAt": "2026-09-26T15:00:33+00:00",
+  "quotesAt": "2026-09-26T15:00:33+00:00",
+  "newsAt": "2026-09-26T15:00:33+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uajRJQzJzRFFnME1Md0F4bW5CelJEbjlpdV9CUXd3Q0NCa3h1SVNDQTlhSy0wOEJkbEs5ZXRZSU1wRnVoS2s2RjRZNFc0V2c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T14:52:00+00:00"
+    },
+    {
+      "t": "트럼프 “이란 ‘7일 계획’ 거절했다”…유가 상승 압박↑",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTVlYeTZrOTViVl9FLWxkLTBLQUlYUm5BTklSZzhuNXpNUG51QkVRWkxhVHcwUHd1N0xsUzJCY2tmSzhkQnQ3RU5mMFExYlNj?oc=5",
+      "s": "문화일보",
+      "d": "2026-09-26T14:43:18+00:00"
+    },
+    {
       "t": "미국, 중국산 일부 품목 ‘301조 추가관세’ 환급 길 열려",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45d2R5NjJDZk9RalVZU3lwYWZGdEFuN05vRUh1c0sxOXV0SGpUZHpkNEpSdmc0ZWJldmdlYmREWG8wdF8xazRnaVotNG9jaldyVlhpV1VQdWFDSU1aMF9vNG5XTDRFZUp0ODNHMg?oc=5",
       "s": "푸드아이콘",
@@ -33,7 +45,7 @@ window.LIVE_DATA = {
     {
       "t": "\"中에 빼앗기기 전에…\" 삼전닉스 동시에 눈독 들인 '이곳'",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRmVHYmhGcjRrRTkxejZLNGc1OTg1aTdVUGl3b0dya1E0R0RHLW5XaVo3X1lOb2JhY25MVDlRVjlzT21fS1VoWllaemJmeVhiakk3SUtwYmVMUQ?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-09-26T13:30:01+00:00"
     },
     {
@@ -45,14 +57,8 @@ window.LIVE_DATA = {
     {
       "t": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRDJLNlFuenB0OEtKYXczeEU2am81V1RtZUhvVTBwRHd5UDhkV2lXTUJxV081Z1BtOS1Ed3YwZ0hUMEUyQWM4RUkxampMZ2ZtalY3dl9Bcw?oc=5",
-      "s": "헤럴드경제",
+      "s": "mbiz.heraldcorp.com",
       "d": "2026-09-26T12:40:00+00:00"
-    },
-    {
-      "t": "안전자산 쏠림 가속화, 5대 은행 정기예금 1000조 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZc3BNTXZlcnNJWEFBYWhnMEF3X1pQMFBVMGtMSl9BTURnZi1VV3ozRnY5Y01YdEl4d3doSWxxS3JYM2xLVExPQUZmOEpPVVZvdEo1TXNtSWFqUQ?oc=5",
-      "s": "데일리연합",
-      "d": "2026-09-26T12:30:03+00:00"
     },
     {
       "t": "지니어스법 대비하는 美…연준, 스테이블코인 규제안 공개하고 의견수렴",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45NFowbWV6REFTQnMtUHNxZlZVSFpNT215TlZRQXZ5M2tGSTdtaTNEdWc2aXVUUFFCOHRWZ19vZlpndVItTWhEUFI1OXo1SHgyOTRCNm1ERmplcTVyRlJuTFdZVQ?oc=5",
       "s": "조세금융신문",
       "d": "2026-09-26T11:33:21+00:00"
-    },
-    {
-      "t": "반도체 생산·물가·대출금리 잇따라 발표…다음 주 경제지표 주목",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IUGoxblNBU1VESnp0ZUlkSVp5cjd5Wk1UT3JSSDNkSGhfWXhsazlLMUwtOUxFSlNiVHZ3bWJpRXl1MUVOcnNwLWxzWkpoTXkzend6QVRTSjMyYXpJc1BrbTdFQ0E?oc=5",
-      "s": "베타뉴스",
-      "d": "2026-09-26T11:32:56+00:00"
     }
   ],
   "asof": {},
