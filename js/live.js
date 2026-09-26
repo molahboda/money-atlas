@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T11:30:28+00:00",
-  "quotesAt": "2026-09-26T11:30:28+00:00",
-  "newsAt": "2026-09-26T11:30:28+00:00",
+  "fetchedAt": "2026-09-26T11:45:25+00:00",
+  "quotesAt": "2026-09-26T11:45:25+00:00",
+  "newsAt": "2026-09-26T11:45:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "[N위크] 국내 최대 자본시장 'IR' 열린다...가상자산계 집결 'KBW'도",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45NFowbWV6REFTQnMtUHNxZlZVSFpNT215TlZRQXZ5M2tGSTdtaTNEdWc2aXVUUFFCOHRWZ19vZlpndVItTWhEUFI1OXo1SHgyOTRCNm1ERmplcTVyRlJuTFdZVQ?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-09-26T11:33:21+00:00"
+    },
+    {
+      "t": "반도체 생산·물가·대출금리 잇따라 발표…다음 주 경제지표 주목",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IUGoxblNBU1VESnp0ZUlkSVp5cjd5Wk1UT3JSSDNkSGhfWXhsazlLMUwtOUxFSlNiVHZ3bWJpRXl1MUVOcnNwLWxzWkpoTXkzend6QVRTSjMyYXpJc1BrbTdFQ0E?oc=5",
+      "s": "베타뉴스",
+      "d": "2026-09-26T11:32:56+00:00"
+    },
+    {
+      "t": "미·중 정상, AI 사고 소통 채널 합의… 반도체는 합의문 밖",
+      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zZldVeW42OWJaZzU0VEVkR1VIcWplMmNOYnZ5NVUyb29qRjhrLXgyNm1QTHI5SmFsdVJKczFTSE44WU5LcUZDdw?oc=5",
+      "s": "플래텀(Platum)",
+      "d": "2026-09-26T11:32:33+00:00"
+    },
     {
       "t": "나라 빚을 국민에게 전가하나…일본의 인플레이션 ‘흐린눈’ [김범수의 세상만상]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNEpUMWJ3T3pUVnN4bmwtU2hMYnhqd1ljTUxYWU1vdGJtd1YtWFRoWWJIWFV2V3JZakhQN0taUUhPSGhXYUdUR1RXMF82WXM?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sRTRyckVkLVpjbGROanhoc1djQ3pGRmM4R04xcG9Zclo2WGsybW55RGpsRENkMUwzYmNqMUZ3d2tBYlRmSWRreXpqcFVrTi1NcHBpVDBmLWQzWGgwUGtJ?oc=5",
       "s": "세계환경신문",
       "d": "2026-09-26T10:26:28+00:00"
-    },
-    {
-      "t": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpM0NDb2FnUmxmcEVxMm1hU2ZLWVJvS2Q1bk4zZWJUSHY4TjhYUEF2U2Z6M1Q2UXVEVGlOYkNJNkhXUzNYb2FlWHdRWTkwNjA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T10:24:01+00:00"
-    },
-    {
-      "t": "글로벌 금리 인상 도미노 ...\"미 국채 금리 연내 6% 돌파\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNjhjTTRFN2JTczdwT0NUc0N6Q0dIem5XQ25sNWJHNEpaSVpqdVM5X3RZU19vNmQ2V0VpSFJhSl9iZHlfb0kzUDdzenZteFQ2R1dEekdyX09XbHg2WVE?oc=5",
-      "s": "YTN",
-      "d": "2026-09-26T09:59:00+00:00"
-    },
-    {
-      "t": "\"돈잔치 할 때 아냐\"…삼전닉스 호황에 소환된 '이건희 승부수' [분석+]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-26T09:42:00+00:00"
     }
   ],
   "asof": {},
