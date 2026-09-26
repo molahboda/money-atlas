@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T11:00:27+00:00",
-  "quotesAt": "2026-09-26T11:00:27+00:00",
-  "newsAt": "2026-09-26T11:00:27+00:00",
+  "fetchedAt": "2026-09-26T11:15:25+00:00",
+  "quotesAt": "2026-09-26T11:15:25+00:00",
+  "newsAt": "2026-09-26T11:15:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "나라 빚을 국민에게 전가하나…일본의 인플레이션 ‘흐린눈’ [김범수의 세상만상]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNEpUMWJ3T3pUVnN4bmwtU2hMYnhqd1ljTUxYWU1vdGJtd1YtWFRoWWJIWFV2V3JZakhQN0taUUhPSGhXYUdUR1RXMF82WXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T11:03:16+00:00"
+    },
+    {
+      "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
+      "s": "Naver Blog",
+      "d": "2026-09-26T11:00:02+00:00"
+    },
+    {
+      "t": "美 관세에 각국 무역장벽까지…한국 수출기업 '이중고'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzT3E3QzZiWE9heTdzLXBUV3ZLZHF0Y1AxY09fdXRRZDhBcjluaFpNbDhDSzNtZE1Td2JaSVNOQ1Noak1OX004VloyNnJVcFU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T10:53:11+00:00"
+    },
+    {
+      "t": "미중, ‘8개항 합의’ 도출…관세·AI·군사 위기관리까지",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96VlhueXlpakpzcldLMHBveTBUNE8xZ19tMXdRY0wtcGRlTEYyVWhjVXdSWXJGTFpfYVhuNnhyQ3FHRnY1ZlNqeWRkaUI0bWdJZ2Q1Vko1ODA4STQ?oc=5",
+      "s": "인터내셔널포커스",
+      "d": "2026-09-26T10:47:55+00:00"
+    },
     {
       "t": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0RUc1VjRDb0dvbkZOS05OSWdOUlFUczhvYU5VY1hRcjhqNGd3b0tLckNUc3dLelYySDZSbm9uY2hNQmZKVUE5SE1JNFBHaG52NDVrX0piUWF2d9IBX0FVX3lxTE1mTTI4RC05ZUNPZzk3UlFZSGdEMkNZWThXSUxYMjdUT1BpV1ZqSXVobjQxazZXQ1lJZ1U5SElYN3VjSmJxZ2kzd2JjU0ZVYmpoc1FWckFtUl8wRUhsSERr?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
       "s": "한국경제",
       "d": "2026-09-26T09:42:00+00:00"
-    },
-    {
-      "t": "중국·미국, 300억 달러 관세 인하 합의 및 AI 대화 출범",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kclBPempMX3ZtdWFKbjNaV0QtM3E4bV9EdW1sYWJVbmJhZEZULXJyMXhYa28tT3JtQWVWYVpoZHpGTTJtUEE5UExaMGhtMDVRdHI1S2RWS1BrdFcxaFdDV093VDNjYzl1cWc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-26T09:37:00+00:00"
-    },
-    {
-      "t": "목표가 이미 도달했는데…더 오른다는 美반도체 검사장비 업체 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVVg0UU90cE1EQzVzeDdCWHdVTEoyNDg4cUtRMzJZc2c3aGRndVl0YlZNOHAybk42eEhfWUJtYmlES09zSGNNSW1XNk93NUJmNEE1Y0w5VUp3WndkaWhCUHlLLWRJNldjaTdGWWpjellFZGMtNXfSAXtBVV95cUxNTXVCRklmS0t2SFAzc3ZJWm90enpOUHFncnNBQVUyVngxa2RsM0ZqYTVtamxNUjJsV2RmWjhyb1JNY0tldEFhZ0x5ZG9hOWZtS1JqR2NKbHlab2hkbG9MOHJjQnliYU15Slh4VVROSlVBdGI1eEJjWk1zb28?oc=5",
-      "s": "mt.co.kr",
-      "d": "2026-09-26T09:28:15+00:00"
-    },
-    {
-      "t": "\"호남 반도체·의대 집중 지원…지역 성장축 만든다\"…박홍근 예산처 장관 특별대담",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gb1g4R2hueW1JYW9PNjBxTDZuNW9oTk50R05sLXk3bUttMXFpTkw4TmR5d1dWSmo5b2VhN1pOSVd5Ymo2UHB6QVdQbEI1dnNqUm5ZRGp3eTNVcUxIWnU1cF9adkU0bE0?oc=5",
-      "s": "ikbc.co.kr",
-      "d": "2026-09-26T09:17:38+00:00"
-    },
-    {
-      "t": "[기획]\"반도체 팹 인재, 제때 확보\"...인재 공급망 구축 본격화",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PQW9HWkpreVRFdG92Sldjc2xBbVNMSC04cUoyOHpMZXppd25HaTRWb3JrbXh4WmZ1cDFfNzcwX0V3R2t3alNjeVFLaUtWYmszVmVPd3MwRnBzUW1qcjN1LVBmRl85eW8?oc=5",
-      "s": "ikbc.co.kr",
-      "d": "2026-09-26T09:17:08+00:00"
     }
   ],
   "asof": {},
