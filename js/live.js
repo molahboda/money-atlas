@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T19:15:25+00:00",
-  "quotesAt": "2026-09-26T19:15:25+00:00",
-  "newsAt": "2026-09-26T19:15:25+00:00",
+  "fetchedAt": "2026-09-26T19:30:32+00:00",
+  "quotesAt": "2026-09-26T19:30:32+00:00",
+  "newsAt": "2026-09-26T19:30:32+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "'영끌족 어쩌나'…금리 0.25%p 오르면 이자만 3조3천억 폭탄",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5Y3VxT3cwSmZFNHZPWWtNSy14b0U4WFR6c0d3ZlZVQjVlZTNOTEZhQUdDSW5GVHlGdktUeVRRX0tULWQxdFpWV215RzFvRWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T19:03:00+00:00"
+    },
     {
       "t": "두 달 번 미중 무역 휴전, 광물 틀어쥔 채 반도체 옥죈다",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2hjMDB0Zy11aEprcVVPT284dG5LckNiaHRwNHEyZ05pME5JakNBakN0dWFMbXY5eFlBYlVOcDNlWEwxblVmZ0FGSnNROV9ybW1FMDV4UXFqWm1pUTNlN0Y0QUFTMGpiUnpNRFRMcnd1dXdGbE1sNE9rSU1xdVZ4b3VQMzhiSDNz?oc=5",
@@ -76,12 +82,6 @@ window.LIVE_DATA = {
       "t": "오정연 \"통제욕 있는 사람 싫어…투바투 연준 좋아\"",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCemtNbVNjSkNQaHFTbFVPSS1PVmlybGNrWFY1ZGJQQ244aDFjeG1wN1BCU0l2eDZNeWR4R1c1Y0toSURJd3dtWFZ0WDU0cl9rU044OHlQRlRwUTNEU2EwatIBeEFVX3lxTFBUQ3llYk9ZWmdDblZrR2M4VGNHQU1iZE1rZWtfTUVYN1FFQjBNeldJZGdUdmhKYzN2dXNYdElzTDg4aDh6MlFnYkVUN0puOFhpaXN6c2VSVk5sMEMtbUJWR3RQei0zODZJV2xfQVJZUExiOGIyb1dHMQ?oc=5",
       "s": "뉴시스",
-      "d": "2026-09-26T15:00:00+00:00"
-    },
-    {
-      "t": "[심층분석] 연휴 직후 국내 증시, 글로벌 실적·경제 지표가 방향성 결정",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRGxicFZ4MHhQT0p1UHJiREpjTG5XTEhUQ0RUd09ucUJkem1MRzRKd2FQY1FQZ0FmcmNqMkh3YXdsTE9CZnQzUlVkZXdBbXZubzhOSlF6UWpIUWlPQVU5RjBSczdDMjFrV0ZBdVNpRmPSAXRBVV95cUxPTVhZa1NpS25qSF8zS21OSHk0NUgyc2xtTGIyYmgxaUVCaTViS2xOWVRLWm12bVFOanFvN0hCallXYWY1T0IxSUFGdkk1WmQ0OTllUkVYR1ZKMTdBczVicWNoZUdGY2hYZDRNVlNhcVpkd3VfaQ?oc=5",
-      "s": "thefairnews.co.kr",
       "d": "2026-09-26T15:00:00+00:00"
     }
   ],
