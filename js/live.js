@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T09:00:30+00:00",
-  "quotesAt": "2026-09-26T09:00:30+00:00",
-  "newsAt": "2026-09-26T09:00:30+00:00",
+  "fetchedAt": "2026-09-26T09:15:25+00:00",
+  "quotesAt": "2026-09-26T09:15:25+00:00",
+  "newsAt": "2026-09-26T09:15:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,16 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "반도체 핵심 영업비밀 들고 이직한 50대…법원, 실형 선고 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbFNqODZOXzBGRHR5UDhNNm5SZ3FoQTZNTzR0MG5aM0cxa2NPUHdUSzljNE1TNzdrRGlsUUpCNG1TcDZhSl9SM2pnS2lWcFFONXUzZWduXzdNYnhZRHN4Z3YxZGdZR0JFX1U00gFwQVVfeXFMUG5wQmxJcFpJb0duSzZ5MlQ3bDhLWG1Rd0hvclpRQWt5V2E5MzVNVUhSVkx0LVpzRTNLS2JnS3RGLVNsVHFSU25kX2Z2SF9iWkZGeUdaR2pNMGtrMS1mX0d6NkxUVHphNFo4MG94OGszVQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-26T08:54:52+00:00"
+      "t": "'204조 몸값' 솔리다임 美 IPO 추진…SK하이닉스, AI 반도체 독주 체제 굳힌다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15WVRaUXJhcFE4NUlZWU5fYjY1Qy1jTFRiUG1xbWVnRV9NV09HUkRKZE45dFZ4YlBoWTFTckdfUUpWTlZoenN6cjBISkZTeDA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T09:01:21+00:00"
     },
     {
-      "t": "中 “미중 정상, 관세인하·AI·안보 등 8개 항목 합의”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pb3drZ3p2ZXZjbW8waGFnRmY2aUhJM0pTX24yZS1kMnZtWlRrWXlJSkFHZlZ2aUUtNXJfSTNZMk1ic1JlZzFVSUowZTFrUlBHLWR5cUt2NGl1dGhQaXhzREQ3YUc1NDA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-26T08:45:00+00:00"
+      "t": "19년 만의 금리 쇼크…오를수록 웃는 주식 따로 있다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNZYVdNV3VhZ2tyVHpUb2hPbjZUWENZdUM3MUw4SU9laG9QbzdTT1AzSjNVd3pHQ1B6Sjd2RVBuOFA3MzF5c2JsZU9oazdqMEh1aFJNVm1xQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T09:00:03+00:00"
+    },
+    {
+      "t": "[미국증시] 애크먼 금리 올릴수록 물가 오른다…연준 겨냥한 반론",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cVdKMy1TMnY2S3J4TkpadDRqb0gySWhCSHJpVjBwZzBiMlZsLU5aeWJ5MlczNWZJSnhkOG5Zc0RQNlpIRUhCQXlOdlhrNkNDZWJoSHZjdFRhei1NTmdwaU51aWNSTGs?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-09-26T09:00:00+00:00"
+    },
+    {
+      "t": "다음 주 물가·금리 지표 줄줄이 발표…산업·물가·금리 통계 등 '한눈에'",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbzVoV1htcllmUnZBNzcxOENGdjdqY0x5eExXRkpoV1lHNGxiY2pKOUxNU0JOeDFJUENUbmdKYzNKWk5CRjhoNXljLU8yOFdBU2FiVkY5UU0?oc=5",
+      "s": "더트래커",
+      "d": "2026-09-26T08:59:33+00:00"
     },
     {
       "t": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MYVhycTZiVzI3MDlvcG5pWDJVT1N0Z1ZmaWtteG9sRVlpcHI2WDdkNi1Id0liQktONUNxVm1BZU9oNTg4aWg5WnNtVVI4X3Z3WTcwZXhn?oc=5",
       "s": "헤럴드경제",
       "d": "2026-09-26T07:40:00+00:00"
-    },
-    {
-      "t": "코스피 7000선 웃돌아도…52주 신저가 종목, 신고가의 3.6배",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eFZYc0s1R2NzR19hLXdPbTFvWGxnTGM4dDZQUUczV2ZVN1NEUlpqM3pmN2Rpc09GQ2YwNDV5dmhEaWNGNHBEZExMbk1HSmwxR1NlNWx1aXBLZw?oc=5",
-      "s": "경북매일",
-      "d": "2026-09-26T07:33:00+00:00"
-    },
-    {
-      "t": "코스피 7000선인데…상한가 종목 ‘반토막’·신저가는 속출",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HWkkwVVBhRi1mT3dETngyN0Y0MWQtTmVJbHl1Z1BRaFBvWFFkelhLZXMxaTl4VWc1aTY3b2ZIWk1VT0dzb3J0RzMtWVgwaUItWjNibnh3Uzh1Z25zd1JsS0poY0JKdTl6d0ctRTFR?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-09-26T07:22:51+00:00"
     }
   ],
   "asof": {},
