@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T19:00:47+00:00",
-  "quotesAt": "2026-09-26T19:00:47+00:00",
-  "newsAt": "2026-09-26T19:00:47+00:00",
+  "fetchedAt": "2026-09-26T19:15:25+00:00",
+  "quotesAt": "2026-09-26T19:15:25+00:00",
+  "newsAt": "2026-09-26T19:15:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "두 달 번 미중 무역 휴전, 광물 틀어쥔 채 반도체 옥죈다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2hjMDB0Zy11aEprcVVPT284dG5LckNiaHRwNHEyZ05pME5JakNBakN0dWFMbXY5eFlBYlVOcDNlWEwxblVmZ0FGSnNROV9ybW1FMDV4UXFqWm1pUTNlN0Y0QUFTMGpiUnpNRFRMcnd1dXdGbE1sNE9rSU1xdVZ4b3VQMzhiSDNz?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-26T18:15:00+00:00"
+    },
     {
       "t": "\"반도체만 보다가 '겨울' 온다\"…오건영이 짚은 의외의 투자법",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scTY4TUxSME5Nc3pmWUJCcExwNTFXemIxLTJkZkJVOWVqOEJxTE5hOXl6N2pwNElKSklxcnJLN3FMVnVVcHp1eFAzWjVlOTJ3TElDa3ItT19lcWxEb1VoetIBeEFVX3lxTE9Td2JudWtrWWZWYktfdFBPRnFVdVgyMFFxdTBWN2pqZEN3VFVsNG5QZWIzSi1FVmQyUDExVmNuV1hlNzdvLWE5UE13eUg2amJfT09mT2VWMDR5RjhRdTFYaWV3dDVrYmFCMEkzcXBMcl9KcE5adU40ZA?oc=5",
@@ -75,12 +81,6 @@ window.LIVE_DATA = {
     {
       "t": "[심층분석] 연휴 직후 국내 증시, 글로벌 실적·경제 지표가 방향성 결정",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRGxicFZ4MHhQT0p1UHJiREpjTG5XTEhUQ0RUd09ucUJkem1MRzRKd2FQY1FQZ0FmcmNqMkh3YXdsTE9CZnQzUlVkZXdBbXZubzhOSlF6UWpIUWlPQVU5RjBSczdDMjFrV0ZBdVNpRmPSAXRBVV95cUxPTVhZa1NpS25qSF8zS21OSHk0NUgyc2xtTGIyYmgxaUVCaTViS2xOWVRLWm12bVFOanFvN0hCallXYWY1T0IxSUFGdkk1WmQ0OTllUkVYR1ZKMTdBczVicWNoZUdGY2hYZDRNVlNhcVpkd3VfaQ?oc=5",
-      "s": "thefairnews.co.kr",
-      "d": "2026-09-26T15:00:00+00:00"
-    },
-    {
-      "t": "[더페어 돋보기] 10월 초 미국 고용·FOMC 변곡점…코스피 지지선·저항선 시나리오",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zamVpa2JGTFVPM1BQdzRQTE5XVHczUFZmbDM1VWVXa3o1RDZlMjVsMk5FQlM0aEl1Rl9oaDZ6bF83Q05SYzBmR3d5WHNQR2o2ODdaNTRxbWhHWmI1eTFFeFkwYjJMXzM5ZzVpSzhrakvSAXRBVV95cUxQdWhEVEhHcC1GRjlZOXEzcV9OOG44T2dIX2wwRXlxUXhmdHQtQk0zaXJiak40ZVlWbjdUQ3JTN2xoU01UYXdPazNiQ0lRdmJQaUF1eTNpc3l2SElkd3FXYTgxbnpoYkRDenUxX3Z0ZS0tb2xTbQ?oc=5",
       "s": "thefairnews.co.kr",
       "d": "2026-09-26T15:00:00+00:00"
     }
