@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T09:30:27+00:00",
-  "quotesAt": "2026-09-26T09:30:27+00:00",
-  "newsAt": "2026-09-26T09:30:27+00:00",
+  "fetchedAt": "2026-09-26T09:45:24+00:00",
+  "quotesAt": "2026-09-26T09:45:24+00:00",
+  "newsAt": "2026-09-26T09:45:24+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "중국·미국, 300억 달러 관세 인하 합의 및 AI 대화 출범",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kclBPempMX3ZtdWFKbjNaV0QtM3E4bV9EdW1sYWJVbmJhZEZULXJyMXhYa28tT3JtQWVWYVpoZHpGTTJtUEE5UExaMGhtMDVRdHI1S2RWS1BrdFcxaFdDV093VDNjYzl1cWc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-26T09:37:00+00:00"
+    },
+    {
+      "t": "목표가 이미 도달했는데…더 오른다는 美반도체 검사장비 업체 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZREpFNzQwcThGYjR3Q3UtWXgtVC1QWEx5S2Q2bE5va2NKYmwwTk9kUm9oSWMwRHMyY1c3cmhId1NsZ083RHNjaXRBWWZuWE1DSVpGVzFBUW1KQjZNNTMxRHlqRmNjVEh30gFuQVVfeXFMUENSSE10M1lOb3dnVkRUR2wxZnAxTGF0cWVZZDlKTFdubms2T0xORjkzRzU4VHFYMFZncGZteEpoTjhydkhrdC1LRU0tMlNOX0tid19BVDROM2NBQWVScFgtMWt1R2JqbEpKVDBWUlE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-26T09:28:15+00:00"
+    },
     {
       "t": "\"호남 반도체·의대 집중 지원…지역 성장축 만든다\"…박홍근 예산처 장관 특별대담",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gb1g4R2hueW1JYW9PNjBxTDZuNW9oTk50R05sLXk3bUttMXFpTkw4TmR5d1dWSmo5b2VhN1pOSVd5Ymo2UHB6QVdQbEI1dnNqUm5ZRGp3eTNVcUxIWnU1cF9adkU0bE0?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbzVoV1htcllmUnZBNzcxOENGdjdqY0x5eExXRkpoV1lHNGxiY2pKOUxNU0JOeDFJUENUbmdKYzNKWk5CRjhoNXljLU8yOFdBU2FiVkY5UU0?oc=5",
       "s": "더트래커",
       "d": "2026-09-26T08:59:33+00:00"
-    },
-    {
-      "t": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBValdDRzJaZXNRNUpJZmE0NVE1YWtBU3gxb2JwMTNodEpKRXZiY1ctWVQ0a1BiWW1VNDA3NmVPdkdWbFJlTDB2QlpWN1V6ZC00a0E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-26T08:44:21+00:00"
-    },
-    {
-      "t": "\"이건희 리더십 필요한 때\"…반도체 호황에 소환된 '키몬다 파산' [분석+]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-26T08:29:08+00:00"
     }
   ],
   "asof": {},
