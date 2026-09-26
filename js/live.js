@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T04:30:34+00:00",
-  "quotesAt": "2026-09-26T04:30:34+00:00",
-  "newsAt": "2026-09-26T04:30:34+00:00",
+  "fetchedAt": "2026-09-26T04:45:26+00:00",
+  "quotesAt": "2026-09-26T04:45:26+00:00",
+  "newsAt": "2026-09-26T04:45:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
     "nikkei": 66364.2,
     "vix": 14.87,
     "krw": 1354.4,
-    "gold": 4320.5,
-    "wti": 92.44,
+    "gold": 4321.2,
+    "wti": 92.41,
     "dxy": 101.04
   },
   "daily": {
@@ -19,11 +19,35 @@ window.LIVE_DATA = {
     "nikkei": 1.3,
     "krw": -0.59,
     "dxy": -0.25,
-    "gold": 0.52,
-    "wti": -2.29,
+    "gold": 0.54,
+    "wti": -2.33,
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "호르무즈 재개방 기대감에 뉴욕 증시↑...미 국채 금리는 5% 연일 돌파 [데일리국제금융]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0FWNHhTQ0xnX00zNF9XVk5tdWJ4VFo3TkcwNjBIUEtSUENwR2N3QzNYQVVWVHgxOXNZMDRHVTFESHR6Z2lJVVVGMlEyTjFCTmfSAVNBVV95cUxONnV4SjFRb2VIMlVKVFR1bDg3bnFxWDExaHJEWDBRSU1xRkRrR0w2Rm1ESk9BRDJZOW5qTG1NelRQajNSbkJvX2p6YTNSbXNROHpnbw?oc=5",
+      "s": "서울경제",
+      "d": "2026-09-26T04:33:10+00:00"
+    },
+    {
+      "t": "실리콘 반도체로 적외선까지 본다…저비용·대량생산형 실리콘 적외선 센서 개발",
+      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4tVmk4VDZZak5FR3RsR0ZXamJfWm5TTXVJdEd0dXE2cXdmcXhkZ2RXSU9HVEl5anV1aW82SkoyR1ltLUJV?oc=5",
+      "s": "산업일보",
+      "d": "2026-09-26T04:29:42+00:00"
+    },
+    {
+      "t": "[주末머니]10월 주목해야 할 글로벌 증시 이벤트는",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TTlZGQ3IxVEROWVN3cXN5VGszUlZmUmdyUXJUNllaMW1XYnlzbkR1SFh3T2J1aFhaYWR3T1hQcFZfSW5fNVUzeExFc09zRjA?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T04:19:28+00:00"
+    },
+    {
+      "t": "“증시 방향 잡히면 바로 빼서 들어가요”…일주일 새 1.8조 몰린 ‘대기실 ETF’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMlMzUTF0clZONmVPNlMtS05qOHFmSTV2UmNXX2ZnTzV2T1o3Sm8xREpTeTRjcE14LTlqSWUzbDhLNzh0M3ZCamptZGJGS0ZqNnc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-26T04:15:59+00:00"
+    },
     {
       "t": "발행어음 ‘9파전’…특판 5%대 금리 경쟁 본격화",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QVZPUHBSTkZnQTFneWxZNFNxWlpKZUhfR2UtblNHUFBoMlFDdV9BSEtNUTJBbWlpSlZPNWVQZWtwWGZVNkprR2VReTdmSTBtX0JQZkNqWEtVSm8?oc=5",
@@ -31,8 +55,14 @@ window.LIVE_DATA = {
       "d": "2026-09-26T04:00:00+00:00"
     },
     {
+      "t": "기름값 19주째 내렸다… 국제유가 급락에 더 떨어지나",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53TVFsa21BOXdhTHAtdF9teUFZUVpsNFJYMDdmSUs2RFhIN3dJSEo0b3ZkN2JMNjI1TUYxc2JHUkhtYnNpZDVFWHdvd2U5M00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T03:55:02+00:00"
+    },
+    {
       "t": "\"물 없으면 반도체도 없다\"…삼전닉스, 하루 46만톤 물 재활용 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iQkhxTnBiMllIZHZfbWVqV252bVNPQm5zV3dCN3EtYVpZMkRhSXVpYVJCdEJxM0NnTEM1Q1Vnb3dPNDBYODZIWmtxOVJuYnk2WjA5WVlrWWE5dXoyNWwyejNRNzdLUTNqOW5FOdIBckFVX3lxTFB6bE90Q0ZVQlVTSmkyLW1KLUV6b3ExSFZkSnp6QnJ3d0hidXZZa1BqR0ZIN1U2cURSdzJTdDEyY0FzUFluWnA0cjBjeVpOaVNoT25pWTZCUTNxd2FXcG04eHFfYXBNX0RWNndCRE5FZ2ZIZw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6bE90Q0ZVQlVTSmkyLW1KLUV6b3ExSFZkSnp6QnJ3d0hidXZZa1BqR0ZIN1U2cURSdzJTdDEyY0FzUFluWnA0cjBjeVpOaVNoT25pWTZCUTNxd2FXcG04eHFfYXBNX0RWNndCRE5FZ2ZIZ9IBckFVX3lxTFB6bE90Q0ZVQlVTSmkyLW1KLUV6b3ExSFZkSnp6QnJ3d0hidXZZa1BqR0ZIN1U2cURSdzJTdDEyY0FzUFluWnA0cjBjeVpOaVNoT25pWTZCUTNxd2FXcG04eHFfYXBNX0RWNndCRE5FZ2ZIZw?oc=5",
       "s": "머니투데이",
       "d": "2026-09-26T03:30:00+00:00"
     },
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDekVNZDFFNmcyaGdHSzQ3UHcwaC00TXJKeEhkVXJBcldrcmVmcWZWbU1nX1dwanVvTG9sUU9rM0NmM0hva2N2YklwelBHZzg?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-26T03:01:05+00:00"
-    },
-    {
-      "t": "ETF 열풍 이어질까…반도체서 금·원전·커버드콜로 자금 이동",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2tmX1dFT05NMDhDb252djlsUG9YTkF6T2VrRV8xeUc4NWdxbHNsNnZiUFc4eGFOLTRGaHUya2xWOUt6ZVBabDJGR294Y0lUMXB6dFdKM1JoOUhLdGZCTGtfaVZPeWdLNWpabXdqRFh4UGVfMTV4WXpRb0R1UHVIczZkRjdQd3Bx?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-26T03:00:00+00:00"
-    },
-    {
-      "t": "\"이자 부담에 적정가치 하향\"…금리 상승기 유리한 종목은? [한경우의 케이스스터디]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xR3YxQWdtWVFULTZfTU1rVmpkQ3dNWF9BR1hsTDBaU0JNdl82TktBZnBvWFhYZkRiRnlhS2NNdnJRZ0lVVEhOdWFOcHUyVDVfY1lRMVhiNktpQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-26T02:55:53+00:00"
-    },
-    {
-      "t": "[속보] 멕시코 ‘K엑스포’ 둘러본 이 대통령…“관세 얼마나 올랐나”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51anFZX2ZIOUY5ZEtzOFQwR1dXbmRhWWZnZHFWMGc4dTFNY0tkcnRwVF82SFl0OGJTQWJTalk5RUVPUnZyejFkNlc5a0k5Q2FrRHdybk9oZHEwVXZhTnNYenV6Q1FEdGc?oc=5",
-      "s": "kado.net",
-      "d": "2026-09-26T02:44:05+00:00"
-    },
-    {
-      "t": "靑 \"한·멕 무역협정, CEPA 의미\"…관세도 논의 테이블에",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NOFdjWmFtWWNKU2VOeFhRMTBuZ3VhZzB1XzJNX1ZVMFVFRy1PYktmcy1uM1dEUmk0cndfNktTY1B0Y3JSa2hvVGtrRVJRLTBFellxMFJjZzMtbk5ORHB6eThsRUpEU0U?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-26T02:44:00+00:00"
-    },
-    {
-      "t": "유가 하향 안정화 지속… 추석 연휴 인하 효과에 19주 연속 '뚝'",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91OU5vU25RODd1S0VYSjIxVkVlX3VKMkFId3JZS3BUY2FGR2RpQnp2V29hVjkySG8tdVFBWjdZaWZ3MkFjLUE1c2ZJMW9ZTkZvb0lIS18weV9UVXRrX0UwakNn?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-09-26T02:23:00+00:00"
     }
   ],
   "asof": {},
