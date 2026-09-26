@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T20:45:24+00:00",
-  "quotesAt": "2026-09-26T20:45:24+00:00",
-  "newsAt": "2026-09-26T20:45:24+00:00",
+  "fetchedAt": "2026-09-26T21:00:38+00:00",
+  "quotesAt": "2026-09-26T21:00:38+00:00",
+  "newsAt": "2026-09-26T21:00:38+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,15 +25,27 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jTVc1RktuOWJzeGpzb1A1Tlc5YVg3SUlpQzFUdmtDWjREakk2OFdCYlJBSEVuM3NRSnFhelFiQjRDZlFDUmVKM1Flb3MzY0FqV2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-26T20:51:00+00:00"
+    },
+    {
+      "t": "대출 갈아타라더니 금리가 더 높다?…은행권 '금리 역전' 현상",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zUWQyNllCWndOZXROSWU2YkpZWkRSODRsVkZMd3dST1l6dFpmRlVmWTBocjJ5LXhfOW45aDZqamttVk5Jb2hWSnI2d3F3WXhFWVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-26T20:49:01+00:00"
+    },
+    {
       "t": "원료도 웨이퍼도 칩도 다 오른다…반도체 공급망 '가격 인상 도미노' - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16ZlNUMUhMNDdhOUZRdjJwSU5qT2VrcGhlU3VmYkhlSDE0QVF5WGFVc0hGSmNhUFhQTVBsMmpQRlRBTl91SkJ0NklWQzd3RmpXUkN6STluY3piZ0VHc1l3bGtZTkF2czA4WHNna9IBckFVX3lxTFAyT1BjV2tvbkdESmkzNjBrOTRZaXgtd0tPZ2xHdFRxNzdINkxwMkxIMjZFY1dKZ1k4Y21DSG5DVC0yYTJadFRlR1dYUkxrUTVuZF9McUNtWWRfVjQ1Q1hzWVp4SnhnR245ZkU3a3V3Snc0dw?oc=5",
-      "s": "머니투데이",
+      "s": "mt.co.kr",
       "d": "2026-09-26T20:34:00+00:00"
     },
     {
       "t": "콜금리는 금융기관끼리 하루 자금을 빌릴 때의 금리",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZcjhoRldFMGRnNERmLW5sQnVoV2NTS1N0QmY4aklWc2hZNzdUZzhYTUkwVHBPVUI2ZlVGcEJrWko1aW8wbjVRcnJsb0FQSnA1MUgtanlMYm5SWmVoVUF3MktxaUxqUQ?oc=5",
-      "s": "비건뉴스",
+      "s": "vegannews.co.kr",
       "d": "2026-09-26T20:17:27+00:00"
     },
     {
@@ -69,20 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "두 달 번 미중 무역 휴전, 광물 틀어쥔 채 반도체 옥죈다",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2hjMDB0Zy11aEprcVVPT284dG5LckNiaHRwNHEyZ05pME5JakNBakN0dWFMbXY5eFlBYlVOcDNlWEwxblVmZ0FGSnNROV9ybW1FMDV4UXFqWm1pUTNlN0Y0QUFTMGpiUnpNRFRMcnd1dXdGbE1sNE9rSU1xdVZ4b3VQMzhiSDNz?oc=5",
-      "s": "글로벌이코노믹",
+      "s": "g-enews.com",
       "d": "2026-09-26T18:15:00+00:00"
-    },
-    {
-      "t": "\"美 국채 수익률 상승, 끝나려면 멀었다\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWUpldzNPLTNNN2tYRVl4bGk1NW9RaU1yYWtRRWtqYnFqMWZRM1JtU0d3WmVPNWpscFRkUDVINkoxWXFjN0hiLXNDeDRIcE0xV1lNWnZvaGhWZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-09-26T18:00:00+00:00"
-    },
-    {
-      "t": "\"반도체만 보다가 '겨울' 온다\"…오건영이 짚은 의외의 투자법",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scTY4TUxSME5Nc3pmWUJCcExwNTFXemIxLTJkZkJVOWVqOEJxTE5hOXl6N2pwNElKSklxcnJLN3FMVnVVcHp1eFAzWjVlOTJ3TElDa3ItT19lcWxEb1VoetIBeEFVX3lxTE9Td2JudWtrWWZWYktfdFBPRnFVdVgyMFFxdTBWN2pqZEN3VFVsNG5QZWIzSi1FVmQyUDExVmNuV1hlNzdvLWE5UE13eUg2amJfT09mT2VWMDR5RjhRdTFYaWV3dDVrYmFCMEkzcXBMcl9KcE5adU40ZA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-26T17:55:00+00:00"
     }
   ],
   "asof": {},
