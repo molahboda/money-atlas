@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T18:00:47+00:00",
-  "quotesAt": "2026-09-26T18:00:47+00:00",
-  "newsAt": "2026-09-26T18:00:47+00:00",
+  "fetchedAt": "2026-09-26T18:15:26+00:00",
+  "quotesAt": "2026-09-26T18:15:26+00:00",
+  "newsAt": "2026-09-26T18:15:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,16 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "李, 멕시코서 CEPA 물꼬 트고 귀국길…관세는 ‘숙제’로 남았다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xNHltTGNxQ0ZCVDVuendRTlBadUpKZ3A0VzBwbHJGRndvWndJMHd2eTU2cFR3bEY2M0MxdHRtcVJISVVrTlk1UjJmeEVSems?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T17:02:00+00:00"
+      "t": "\"반도체만 보다가 '겨울' 온다\"…오건영이 짚은 의외의 투자법",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scTY4TUxSME5Nc3pmWUJCcExwNTFXemIxLTJkZkJVOWVqOEJxTE5hOXl6N2pwNElKSklxcnJLN3FMVnVVcHp1eFAzWjVlOTJ3TElDa3ItT19lcWxEb1VoetIBeEFVX3lxTE9Td2JudWtrWWZWYktfdFBPRnFVdVgyMFFxdTBWN2pqZEN3VFVsNG5QZWIzSi1FVmQyUDExVmNuV1hlNzdvLWE5UE13eUg2amJfT09mT2VWMDR5RjhRdTFYaWV3dDVrYmFCMEkzcXBMcl9KcE5adU40ZA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-26T17:55:00+00:00"
     },
     {
       "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
-      "s": "blog.naver.com",
+      "s": "Naver Blog",
       "d": "2026-09-26T17:00:02+00:00"
+    },
+    {
+      "t": "李, 멕시코서 CEPA 물꼬 트고 귀국길…관세는 ‘숙제’로 남았다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLYzZfZ0hWcEIxZ1FBRG54bmEwYjRGV2FFVDhoRmR3RTZIWmhFb2ZCU3ItRkpXTE5PZkNZREVkWElRZlA2RHBveGQ2V2ZMQkpsZi1CQU13?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-26T17:00:00+00:00"
     },
     {
       "t": "美 물류비, 안 오른 분야 없다…소비자물가 압박 커져",
@@ -43,10 +49,10 @@ window.LIVE_DATA = {
       "d": "2026-09-26T17:00:00+00:00"
     },
     {
-      "t": "\"나스닥 신고가인데 신저가 종목 속출…확실한 주도주로 좁혀야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sZGxQREc1OW9fSUY0UFh5bDAybHFOUm5lOVQwektKNlNZbzY3Q2FtcjdEM2o2RkItRWJQdU0zVS04WXYwU1BVdDRMMGNkTjZKdktET0RfSlFWS3NSSVZwM9IBeEFVX3lxTE1HOXdiYU1TbXNXOUNwU0JaTDFwTmxQeV9DdjlsQ1g1alBvVVhJRV9MWHNYRjRnQlpGVHlGZm1Ed05fd1FLTURoZE1tM3FrdE1Fb2JwN0hHWm1GUDBfV0E4NVQ4QWlzQXkxTUpjR3hycURkdk9BdnpibQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-26T15:05:00+00:00"
+      "t": "[뉴욕증시 전망] PCE·고용보고서 발표 주목…추가 금리인상 변수",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZMDZNUFNwb2NhTk5hcEpfUUZqVUxQeE5hcjJZdE9ocmdSOHp3Rk90Ym9hQkI2Vmp5dnRjRFlURHlsVlRLbmZiMjZwWDNNY0lodG1FVXZZd0xzczkzNU9HdHROWWx3MlNkTXF5NVIwZF_SAXRBVV95cUxNamJTaFpwZzRVNlpiWGNsRjliaEJYN1ZaNkJfZ0NMN2l3c0FxSWJFMm1qb1VGdllQYkZhRm1nTFlJYXItNWk0WTF6S3dLOGpPU183eFNGdjVpNDNEWVBtbkFQeVBUcER4UmRQblhOb213VVEtZg?oc=5",
+      "s": "thefairnews.co.kr",
+      "d": "2026-09-26T15:31:36+00:00"
     },
     {
       "t": "中, 반도체 설계자산 보호 규정 강화...韓기업, 주의 필요",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-26T15:00:00+00:00"
     },
     {
-      "t": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWHBUZVpzZHd0SVlrNVZ4X0JmTGhyOG5FVE12azJPbDV6UDBKT3FzZ3dUd1lCeWtXdjFzaUc3NGppU3l0cHoxNFY4VkRjcVZxd3Y0NExqT2nSAVRBVV95cUxOLXF1REZIUS1BaDhjSWNkbVhTVFFhWnQtVkhDRVlTZzctQmU3U1FtTXptNEZ5clMxWWVLS0pzTGlfUm55bVpyZmY4d1hfRzU5NkVBdW0?oc=5",
-      "s": "세계일보",
-      "d": "2026-09-26T14:50:34+00:00"
+      "t": "[심층분석] 연휴 직후 국내 증시, 글로벌 실적·경제 지표가 방향성 결정",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRGxicFZ4MHhQT0p1UHJiREpjTG5XTEhUQ0RUd09ucUJkem1MRzRKd2FQY1FQZ0FmcmNqMkh3YXdsTE9CZnQzUlVkZXdBbXZubzhOSlF6UWpIUWlPQVU5RjBSczdDMjFrV0ZBdVNpRmPSAXRBVV95cUxPTVhZa1NpS25qSF8zS21OSHk0NUgyc2xtTGIyYmgxaUVCaTViS2xOWVRLWm12bVFOanFvN0hCallXYWY1T0IxSUFGdkk1WmQ0OTllUkVYR1ZKMTdBczVicWNoZUdGY2hYZDRNVlNhcVpkd3VfaQ?oc=5",
+      "s": "thefairnews.co.kr",
+      "d": "2026-09-26T15:00:00+00:00"
     },
     {
-      "t": "트럼프 “이란 ‘7일 계획’ 거절했다”…유가 상승 압박↑",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTVlYeTZrOTViVl9FLWxkLTBLQUlYUm5BTklSZzhuNXpNUG51QkVRWkxhVHcwUHd1N0xsUzJCY2tmSzhkQnQ3RU5mMFExYlNj?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-26T14:43:18+00:00"
-    },
-    {
-      "t": "미국, 중국산 일부 품목 ‘301조 추가관세’ 환급 길 열려",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45d2R5NjJDZk9RalVZU3lwYWZGdEFuN05vRUh1c0sxOXV0SGpUZHpkNEpSdmc0ZWJldmdlYmREWG8wdF8xazRnaVotNG9jaldyVlhpV1VQdWFDSU1aMF9vNG5XTDRFZUp0ODNHMg?oc=5",
-      "s": "푸드아이콘",
-      "d": "2026-09-26T13:48:34+00:00"
+      "t": "[더페어 돋보기] 10월 초 미국 고용·FOMC 변곡점…코스피 지지선·저항선 시나리오",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zamVpa2JGTFVPM1BQdzRQTE5XVHczUFZmbDM1VWVXa3o1RDZlMjVsMk5FQlM0aEl1Rl9oaDZ6bF83Q05SYzBmR3d5WHNQR2o2ODdaNTRxbWhHWmI1eTFFeFkwYjJMXzM5ZzVpSzhrakvSAXRBVV95cUxQdWhEVEhHcC1GRjlZOXEzcV9OOG44T2dIX2wwRXlxUXhmdHQtQk0zaXJiak40ZVlWbjdUQ3JTN2xoU01UYXdPazNiQ0lRdmJQaUF1eTNpc3l2SElkd3FXYTgxbnpoYkRDenUxX3Z0ZS0tb2xTbQ?oc=5",
+      "s": "thefairnews.co.kr",
+      "d": "2026-09-26T15:00:00+00:00"
     }
   ],
   "asof": {},
