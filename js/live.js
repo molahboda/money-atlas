@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T23:00:46+00:00",
-  "quotesAt": "2026-09-26T23:00:46+00:00",
-  "newsAt": "2026-09-26T23:00:46+00:00",
+  "fetchedAt": "2026-09-26T23:15:26+00:00",
+  "quotesAt": "2026-09-26T23:15:26+00:00",
+  "newsAt": "2026-09-26T23:15:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "미·중, 상호 300억 달러 관세 인하 합의…‘비감시 품목’ 중심 실용 타협",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fd0ZZR2NBSzc0b1FJVEh2Nnl6dVotT1BBMlBMYm5BSXhjMDBHMzd1Uk9GZWZSMTBXQ19WTzZQb0ZZUXZUaFFDb2JadGMtbDZrRDdjSDE2dEdQTDhIRFNsTVlPaGd2cnhsMmNQUC13Yw?oc=5",
-      "s": "프리진뉴스",
-      "d": "2026-09-26T22:36:55+00:00"
+      "t": "中, 반도체 설계자산 보호 규정 강화...韓기업, 주의 필요",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrLVVCaVA4S3dGNmNIOURjcm5pcFVwcF93cmxtaWI1RHFvdk14Mll3NG82anBZMHZ5YjRQdmJGNF84Ymk0N1FFakpVaFQwbkNLb255aUxCcVY1Nkp0cmc?oc=5",
+      "s": "더구루",
+      "d": "2026-09-26T23:04:45+00:00"
     },
     {
-      "t": "1천조 시장 열리는 AI반도체…\"정부, 공급망 진출 지원해야\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHdEJ5TXA3YXU4Q2tYNEFXSEtnakZFRHR5YzZmaFpSck5RSWVlZWtxUXFsQ0xuR3gxLUVkRHlUcmhtVkR2X2RqNC1tTE5oRjQ?oc=5",
+      "t": "印 \"반도체에 18조 투자\" 약속....반도체 강국 비전 제시",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OSVA3REFtU2pYRlZxbWRiUUdhdlBCWVYwZHZBZkJJaWc1LVByR2s4ZWpyd2tDTmRIelBZSmhiRGNHY095Smc2OGRzZ1NPUTRpU1FmUFN2VTVhXzNBQW9mMEo1aw?oc=5",
+      "s": "더구루",
+      "d": "2026-09-26T23:03:45+00:00"
+    },
+    {
+      "t": "목대균 KCGI자산운용 대표 “최근 조정은 반도체 재평가 과정…韓 제조업 AI 생태계 핵심”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YTDlLS0ZUdHE5bFBIdm5KY1pLVVhYdmtzQzRhUmFSbVJmZjhfcDBtVVZzLWNIWlV4eHZRNHlLSEI3ajFKekxWbFYwWGRXUzQ?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-26T22:32:52+00:00"
+      "d": "2026-09-26T23:03:03+00:00"
     },
     {
-      "t": "금리인상 사이클 속 예대마진 제각각…복잡해지는 여수신 셈법 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VWGtvdXFiU0piV2FuVWd5bEV0cEFpWGFGdHJwbjJ6eTJPZzZOVmRMT2NQVU9uVG1zUG96Nm1ZNEw5ejU3S1p6em9naGFvT1RwVUtpYjFNOENPbDhHWGVwSm9PSmRaWHpPUnUw0gFwQVVfeXFMUGFKZm04eVlKWFd2TVFIU2hCLVpHcVRUYm54Ni1fR2R3cEp1WWhLQTBFa0owZjB5MFV2TktrME1XZ1pTRHBVSW45OFd6NDVYZ3Rkc2hCcGVEc2hGbGZSd1hBczUwQU9MLXRnaFU5OEktNA?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-26T22:30:00+00:00"
-    },
-    {
-      "t": "거래 마르고 금리 오르고…증권사 최대 실적 발목 잡히나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdnlEWWRTLWhMbGRSR2dhcXNjUnRQZ0wzb1hMTWtXVFBTMW9seXVXeHVMLS1JeGxPYk10ZlhLakVYYkF1WUpob3VxODBuclU?oc=5",
+      "t": "[칩톡]AI 반도체, 이제는 '빛의 속도' 경쟁…삼성·SK도 뛰어든 CPO",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YVFNuZFRWYzVabUxZMVJYeWExMGk1RjRaaHFXVHpjS2VLMEhNQVlXTzNzSTlkOENxYzVSWnFybmpHbVJ3N3lOVnJHS21HbDA?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-26T22:25:00+00:00"
+      "d": "2026-09-26T23:01:52+00:00"
     },
     {
-      "t": "뉴욕증시, 국채금리 급등 우려에도 상승 마감…다우 0.9% 올라",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kdWgtU25ZV040Z01xeFlfVFo3UmdDNlZzODlBdnNBSk53STBLNzc3b3BnYTRGUzAzRl9WMGZtNTVlVkkyTkZCX0dQbFgwWTljcnRaM3VwNXJYeFZJWE9WOXg0WQ?oc=5",
-      "s": "시사뉴스",
-      "d": "2026-09-26T22:24:32+00:00"
-    },
-    {
-      "t": "코스피 7000의 착시…오를 때마다 내린 종목이 더 많았다 [증시는 왜]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FYUpndmdXWFJQVHByNUtlVlN4N2hqbmlmaFVId2thbTMwUDJVUHphSXg1WDJodGNZSWhTajJPWXQyZExOYUc5N1BQSENUT0JMcW9wdnBZUW1wQQ?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-09-26T22:20:00+00:00"
-    },
-    {
-      "t": "[영상·심층③] 임연호 교수, '전북 반도체, 소재·케미칼 넘어 센서로'",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtQk5ybi1hVFUweXlnUTkwdmxrNGhPd0xTdzhhQVFwbUNyRExScHVteFFKb1BTOS1FUUIzRk50RzAxMl8wdXNQdWg3NVFEUkhqNU5FODU3bDkycEktRlgwbXZoRFQwM1Ns?oc=5",
-      "s": "투데이안",
-      "d": "2026-09-26T22:10:00+00:00"
-    },
-    {
-      "t": "전남광주특별시 '30분 반도체 생활권'…정주여건 확 바꾼다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpV1hKZEkyZWFDcS1CUTdsVEJWSkprSkJkaDRSRXFxMEFfOTh4RXhDM2NUYkZTVHJqbk5wV09VbFlER2JCWElCckFaWUtBNjA?oc=5",
+      "t": "[대만칩통신]\"혼자선 못 따라가\"…TSMC, 토종 협력사 끌어모은 이유",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HRUYzbzMyUTh3UzJYRnBPRkN4UnRCMV9ESzUxZnJvVUtUY29aTXVHckM2ODdqcGREcl9YNi1wVVp5ZlgzVEZTVWU3YU1HVkU?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-26T22:09:00+00:00"
+      "d": "2026-09-26T23:01:00+00:00"
     },
     {
-      "t": "코스피 30% 반등했지만…ETF 투자자, 지수형 30% 반도체 80% 물렸다",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYjBPWUhDOTBrMEp0c1o3aE1QbUdWd0w5bkhwdk5selRKVlVrQ3hod3g5czZuZEhzcG1yQUtqdTBIRTRQSGMyN2MxMXp3TDJJYWc?oc=5",
+      "t": "7000선 회복한 코스피…PCE 물가지수·마이크론 실적 주목 [주간전망]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sZVRaNVhCMG9tb3FESVVqUEg4TGFYUTdfc1dtRWF0eHpxSF9ITFQ1U3lDNTZodnNOcWxHa1ZwaERWeGRqU1hLZjdESmRsZWVWakdmcFhTVGxRUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T23:00:12+00:00"
+    },
+    {
+      "t": "외국인은 '레버리지'·개인은 '곱버스' 베팅…승자는",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LekI3c3dwa2x0UFdIMUFTUTdsU0NUV1AwWDhfZUNDV3dlLWxLT1JaSU1Qcjhoc0wwcXNLcWdFRkYzdDJvaXZyN0pZVHphaGlZMUE?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-09-26T22:08:49+00:00"
+      "d": "2026-09-26T23:00:05+00:00"
     },
     {
-      "t": "추석 전엔 '마이너스' 이후엔 '플러스'…올해 코스피도 웃을까",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UUlZ3T0c2NEoyRnFxb3ZCQTdQcC1lVW5Fa20zd3cxbDdBTHRiSjR1aGhnTjVuVlcyUFU4cWJRTU9XaUl6Tk9mM2Y2dUZsVDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T22:06:00+00:00"
+      "t": "1380원대 찍더니 다시 아래로…추석 뒤 환율 가를 '달러·엔·네고' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LRldUU0ZESjdBVExXeHhpa2doOENxUEp0b1RYNUpqNFd6bFJMNWFXRnAyS0VzWjBmc3lfWVJ5UTQwcWQzVXAwUEFkQWNwTHBJTWN6SjAybS1XRl8wdVlxcHRTSHJoQTRGWWJr0gFwQVVfeXFMTTVhWlhfZ01JMHNxSTFwTXlYMTg5b2dtNDBocTA5UFFMMFZFbDlyS0lXQXpMeTdad2RoM2NLUkJYSlZjNWxTQ21OM2xvTHJtek9XQTRUV295ZmlQRFZMQ25ROEZJMWU3LUNVRUtZdjhVbw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-26T23:00:00+00:00"
+    },
+    {
+      "t": "빚으로 버틴 10년, 이제 이자내야할 시간…선진국 덮친 ‘국채의 역습’",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlptcnlGZXNtVE13ejUtN2lyZmVOWHZuNmJfQTltbEJIVk5wSzNLM2Y5eHZKbUxScjRpeGtnWmZ1akJFbVVTQTZENENuUkRVZzQ5cnNBMmdrZFZyS2ZPOUtlSmozelk2U1oxcUlGR2c4M2xPOWU5T1B4cFo5ODRueFBVUHREUQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-26T23:00:00+00:00"
+    },
+    {
+      "t": "1200조 AI반도체 시장, 엔비디아 천하에 도전장 낸 K-AI칩",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZWJxMW1kazUyRkEzTFB2UHA2UlRCRUpsSkYwTThjRVgxSUc1VmdDZ0dDcnlRVlIxaVhlVnJIdklMVkJmc2RYdXNpLUcwQkFaQl9wZnM0ZHpIUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T22:56:40+00:00"
     }
   ],
   "asof": {},
