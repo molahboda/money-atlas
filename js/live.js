@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T17:00:30+00:00",
-  "quotesAt": "2026-09-26T17:00:30+00:00",
-  "newsAt": "2026-09-26T17:00:30+00:00",
+  "fetchedAt": "2026-09-26T17:15:28+00:00",
+  "quotesAt": "2026-09-26T17:15:28+00:00",
+  "newsAt": "2026-09-26T17:15:28+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
+      "s": "blog.naver.com",
+      "d": "2026-09-26T17:00:02+00:00"
+    },
+    {
+      "t": "美 물류비, 안 오른 분야 없다…소비자물가 압박 커져",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTFBazBTdjdzZ3dFQzJ6bHgtc2tWczlTeDZxWXFlOVI0a0pFdDFsb3lCdHhES3B2RmxuSVdqbmRJR3d5amQ3VlI3V3psdkVPcTUzZUs3cTJ3UFFrSDJmR2lTUGtWb3VjVXJKNG9BUjVZMUhGMVRzbU9mU3pvZXdhLUdybWZLYVA3?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-26T17:00:00+00:00"
+    },
     {
       "t": "\"나스닥 신고가인데 신저가 종목 속출…확실한 주도주로 좁혀야\"",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sZGxQREc1OW9fSUY0UFh5bDAybHFOUm5lOVQwektKNlNZbzY3Q2FtcjdEM2o2RkItRWJQdU0zVS04WXYwU1BVdDRMMGNkTjZKdktET0RfSlFWS3NSSVZwM9IBeEFVX3lxTE1HOXdiYU1TbXNXOUNwU0JaTDFwTmxQeV9DdjlsQ1g1alBvVVhJRV9MWHNYRjRnQlpGVHlGZm1Ed05fd1FLTURoZE1tM3FrdE1Fb2JwN0hHWm1GUDBfV0E4NVQ4QWlzQXkxTUpjR3hycURkdk9BdnpibQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRmVHYmhGcjRrRTkxejZLNGc1OTg1aTdVUGl3b0dya1E0R0RHLW5XaVo3X1lOb2JhY25MVDlRVjlzT21fS1VoWllaemJmeVhiakk3SUtwYmVMUQ?oc=5",
       "s": "한국경제",
       "d": "2026-09-26T13:30:01+00:00"
-    },
-    {
-      "t": "양산시, 전통시장 현장 소통 및 물가안정 캠페인",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01ZG1wbnR1ZW12V2FoSUk4YjhSRVd1QWpTbjZlZWk0QTdySGdKb1poOTdPaXIwLWhQRUZVVWtPcFRnanhUdHFoWjEyRV9DQVlFc0pZVHR5enZPMnJ5RFEzT0ppTi1qWklveG1J?oc=5",
-      "s": "경남일보",
-      "d": "2026-09-26T13:27:26+00:00"
-    },
-    {
-      "t": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRDJLNlFuenB0OEtKYXczeEU2am81V1RtZUhvVTBwRHd5UDhkV2lXTUJxV081Z1BtOS1Ed3YwZ0hUMEUyQWM4RUkxampMZ2ZtalY3dl9Bcw?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-09-26T12:40:00+00:00"
     }
   ],
   "asof": {},
