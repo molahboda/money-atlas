@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T09:45:24+00:00",
-  "quotesAt": "2026-09-26T09:45:24+00:00",
-  "newsAt": "2026-09-26T09:45:24+00:00",
+  "fetchedAt": "2026-09-26T10:00:29+00:00",
+  "quotesAt": "2026-09-26T10:00:29+00:00",
+  "newsAt": "2026-09-26T10:00:29+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -37,12 +37,6 @@ window.LIVE_DATA = {
       "d": "2026-09-26T09:28:15+00:00"
     },
     {
-      "t": "\"호남 반도체·의대 집중 지원…지역 성장축 만든다\"…박홍근 예산처 장관 특별대담",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gb1g4R2hueW1JYW9PNjBxTDZuNW9oTk50R05sLXk3bUttMXFpTkw4TmR5d1dWSmo5b2VhN1pOSVd5Ymo2UHB6QVdQbEI1dnNqUm5ZRGp3eTNVcUxIWnU1cF9adkU0bE0?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-09-26T09:17:38+00:00"
-    },
-    {
       "t": "[기획]\"반도체 팹 인재, 제때 확보\"...인재 공급망 구축 본격화",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5OHNEZG81NFNXMXNFcUJvX2FxYlZzMXhKNmhsMUtOYTFFZWl1bUpTaVd1Qi1rdkc4MVZkTXBVZGRCQlFMbXlfdlJtU1hzYi0xazNrbTFhNDRoSWZoT2VqSFdn?oc=5",
       "s": "KBC광주방송",
@@ -69,7 +63,7 @@ window.LIVE_DATA = {
     {
       "t": "19년 만의 금리 쇼크…오를수록 웃는 주식 따로 있다",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVkNZYVdNV3VhZ2tyVHpUb2hPbjZUWENZdUM3MUw4SU9laG9QbzdTT1AzSjNVd3pHQ1B6Sjd2RVBuOFA3MzF5c2JsZU9oazdqMEh1aFJNVm1xQQ?oc=5",
-      "s": "한국경제",
+      "s": "hankyung.com",
       "d": "2026-09-26T09:00:03+00:00"
     },
     {
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbzVoV1htcllmUnZBNzcxOENGdjdqY0x5eExXRkpoV1lHNGxiY2pKOUxNU0JOeDFJUENUbmdKYzNKWk5CRjhoNXljLU8yOFdBU2FiVkY5UU0?oc=5",
       "s": "더트래커",
       "d": "2026-09-26T08:59:33+00:00"
+    },
+    {
+      "t": "中 “미중 정상, 관세인하·AI·안보 등 8개 항목 합의”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pb3drZ3p2ZXZjbW8waGFnRmY2aUhJM0pTX24yZS1kMnZtWlRrWXlJSkFHZlZ2aUUtNXJfSTNZMk1ic1JlZzFVSUowZTFrUlBHLWR5cUt2NGl1dGhQaXhzREQ3YUc1NDA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-26T08:45:00+00:00"
     }
   ],
   "asof": {},
