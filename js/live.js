@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T16:45:25+00:00",
-  "quotesAt": "2026-09-26T16:45:25+00:00",
-  "newsAt": "2026-09-26T16:45:25+00:00",
+  "fetchedAt": "2026-09-26T17:00:30+00:00",
+  "quotesAt": "2026-09-26T17:00:30+00:00",
+  "newsAt": "2026-09-26T17:00:30+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-09-26T15:00:05+00:00"
     },
     {
+      "t": "오정연 \"통제욕 있는 사람 싫어…투바투 연준 좋아\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCemtNbVNjSkNQaHFTbFVPSS1PVmlybGNrWFY1ZGJQQ244aDFjeG1wN1BCU0l2eDZNeWR4R1c1Y0toSURJd3dtWFZ0WDU0cl9rU044OHlQRlRwUTNEU2EwatIBeEFVX3lxTFBUQ3llYk9ZWmdDblZrR2M4VGNHQU1iZE1rZWtfTUVYN1FFQjBNeldJZGdUdmhKYzN2dXNYdElzTDg4aDh6MlFnYkVUN0puOFhpaXN6c2VSVk5sMEMtbUJWR3RQei0zODZJV2xfQVJZUExiOGIyb1dHMQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-26T15:00:00+00:00"
+    },
+    {
       "t": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWHBUZVpzZHd0SVlrNVZ4X0JmTGhyOG5FVE12azJPbDV6UDBKT3FzZ3dUd1lCeWtXdjFzaUc3NGppU3l0cHoxNFY4VkRjcVZxd3Y0NExqT2nSAVRBVV95cUxOLXF1REZIUS1BaDhjSWNkbVhTVFFhWnQtVkhDRVlTZzctQmU3U1FtTXptNEZ5clMxWWVLS0pzTGlfUm55bVpyZmY4d1hfRzU5NkVBdW0?oc=5",
       "s": "세계일보",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRDJLNlFuenB0OEtKYXczeEU2am81V1RtZUhvVTBwRHd5UDhkV2lXTUJxV081Z1BtOS1Ed3YwZ0hUMEUyQWM4RUkxampMZ2ZtalY3dl9Bcw?oc=5",
       "s": "헤럴드경제",
       "d": "2026-09-26T12:40:00+00:00"
-    },
-    {
-      "t": "[그래픽] 금리인상에도 집값 상승 기대 여전…전망CSI 125",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14cjEyQjQ0UkNWS2ZKQzF2N2dFSWRkQjZoT1NxSTBjclo4MVhtVjcwc1lYcUtZQXA1T0hzTEtIZGljWVFBVUZGUkdpbmtfb2xsMDNGWFlEeHFsTXE3bEh0cg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-26T12:32:38+00:00"
     }
   ],
   "asof": {},
