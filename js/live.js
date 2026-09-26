@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T14:00:34+00:00",
-  "quotesAt": "2026-09-26T14:00:34+00:00",
-  "newsAt": "2026-09-26T14:00:34+00:00",
+  "fetchedAt": "2026-09-26T14:15:25+00:00",
+  "quotesAt": "2026-09-26T14:15:25+00:00",
+  "newsAt": "2026-09-26T14:15:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "미국, 중국산 일부 품목 ‘301조 추가관세’ 환급 길 열려",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45d2R5NjJDZk9RalVZU3lwYWZGdEFuN05vRUh1c0sxOXV0SGpUZHpkNEpSdmc0ZWJldmdlYmREWG8wdF8xazRnaVotNG9jaldyVlhpV1VQdWFDSU1aMF9vNG5XTDRFZUp0ODNHMg?oc=5",
+      "s": "푸드아이콘",
+      "d": "2026-09-26T13:48:34+00:00"
+    },
+    {
+      "t": "\"中에 빼앗기기 전에…\" 삼전닉스 동시에 눈독 들인 '이곳'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRmVHYmhGcjRrRTkxejZLNGc1OTg1aTdVUGl3b0dya1E0R0RHLW5XaVo3X1lOb2JhY25MVDlRVjlzT21fS1VoWllaemJmeVhiakk3SUtwYmVMUQ?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-09-26T13:30:01+00:00"
+    },
+    {
+      "t": "양산시, 전통시장 현장 소통 및 물가안정 캠페인",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01ZG1wbnR1ZW12V2FoSUk4YjhSRVd1QWpTbjZlZWk0QTdySGdKb1poOTdPaXIwLWhQRUZVVWtPcFRnanhUdHFoWjEyRV9DQVlFc0pZVHR5enZPMnJ5RFEzT0ppTi1qWklveG1J?oc=5",
+      "s": "경남일보",
+      "d": "2026-09-26T13:27:26+00:00"
+    },
     {
       "t": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
       "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRDJLNlFuenB0OEtKYXczeEU2am81V1RtZUhvVTBwRHd5UDhkV2lXTUJxV081Z1BtOS1Ed3YwZ0hUMEUyQWM4RUkxampMZ2ZtalY3dl9Bcw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IUGoxblNBU1VESnp0ZUlkSVp5cjd5Wk1UT3JSSDNkSGhfWXhsazlLMUwtOUxFSlNiVHZ3bWJpRXl1MUVOcnNwLWxzWkpoTXkzend6QVRTSjMyYXpJc1BrbTdFQ0E?oc=5",
       "s": "베타뉴스",
       "d": "2026-09-26T11:32:56+00:00"
-    },
-    {
-      "t": "미·중 정상, AI 사고 소통 채널 합의… 반도체는 합의문 밖",
-      "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zZldVeW42OWJaZzU0VEVkR1VIcWplMmNOYnZ5NVUyb29qRjhrLXgyNm1QTHI5SmFsdVJKczFTSE44WU5LcUZDdw?oc=5",
-      "s": "플래텀(Platum)",
-      "d": "2026-09-26T11:32:33+00:00"
-    },
-    {
-      "t": "나라 빚을 국민에게 전가하나…일본의 인플레이션 ‘흐린눈’ [김범수의 세상만상]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNEpUMWJ3T3pUVnN4bmwtU2hMYnhqd1ljTUxYWU1vdGJtd1YtWFRoWWJIWFV2V3JZakhQN0taUUhPSGhXYUdUR1RXMF82WXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T11:03:16+00:00"
-    },
-    {
-      "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
-      "s": "Naver Blog",
-      "d": "2026-09-26T11:00:02+00:00"
     }
   ],
   "asof": {},
