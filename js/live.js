@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T16:30:39+00:00",
-  "quotesAt": "2026-09-26T16:30:39+00:00",
-  "newsAt": "2026-09-26T16:30:39+00:00",
+  "fetchedAt": "2026-09-26T16:45:25+00:00",
+  "quotesAt": "2026-09-26T16:45:25+00:00",
+  "newsAt": "2026-09-26T16:45:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -31,10 +31,22 @@ window.LIVE_DATA = {
       "d": "2026-09-26T15:05:00+00:00"
     },
     {
+      "t": "中, 반도체 설계자산 보호 규정 강화...韓기업, 주의 필요",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xMU1MOHBFSDg4UDV0SXpJX0VMUEZRZEcwd2pjcll4MGZCQVIzVVpBSktHSm5hX2tPa3ZsRDhWWndUdU5wOUhtX00tMmxqbEJVbkExNHZ5UzQwQXhUSDZPUzhGOA?oc=5",
+      "s": "더구루",
+      "d": "2026-09-26T15:00:39+00:00"
+    },
+    {
+      "t": "印 \"반도체에 18조 투자\" 약속....반도체 강국 비전 제시",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OSVA3REFtU2pYRlZxbWRiUUdhdlBCWVYwZHZBZkJJaWc1LVByR2s4ZWpyd2tDTmRIelBZSmhiRGNHY095Smc2OGRzZ1NPUTRpU1FmUFN2VTVhXzNBQW9mMEo1aw?oc=5",
+      "s": "더구루",
+      "d": "2026-09-26T15:00:05+00:00"
+    },
+    {
       "t": "“코스피를 도박판으로”…韓 증시 할퀸 레버리지 ETF",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uajRJQzJzRFFnME1Md0F4bW5CelJEbjlpdV9CUXd3Q0NCa3h1SVNDQTlhSy0wOEJkbEs5ZXRZSU1wRnVoS2s2RjRZNFc0V2c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T14:52:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWHBUZVpzZHd0SVlrNVZ4X0JmTGhyOG5FVE12azJPbDV6UDBKT3FzZ3dUd1lCeWtXdjFzaUc3NGppU3l0cHoxNFY4VkRjcVZxd3Y0NExqT2nSAVRBVV95cUxOLXF1REZIUS1BaDhjSWNkbVhTVFFhWnQtVkhDRVlTZzctQmU3U1FtTXptNEZ5clMxWWVLS0pzTGlfUm55bVpyZmY4d1hfRzU5NkVBdW0?oc=5",
+      "s": "세계일보",
+      "d": "2026-09-26T14:50:34+00:00"
     },
     {
       "t": "트럼프 “이란 ‘7일 계획’ 거절했다”…유가 상승 압박↑",
@@ -43,16 +55,16 @@ window.LIVE_DATA = {
       "d": "2026-09-26T14:43:18+00:00"
     },
     {
-      "t": "\"이러다 中에 빼앗긴다\"…삼전닉스 동시에 달려간 '이 나라'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRmVHYmhGcjRrRTkxejZLNGc1OTg1aTdVUGl3b0dya1E0R0RHLW5XaVo3X1lOb2JhY25MVDlRVjlzT21fS1VoWllaemJmeVhiakk3SUtwYmVMUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-26T14:37:00+00:00"
-    },
-    {
       "t": "미국, 중국산 일부 품목 ‘301조 추가관세’ 환급 길 열려",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45d2R5NjJDZk9RalVZU3lwYWZGdEFuN05vRUh1c0sxOXV0SGpUZHpkNEpSdmc0ZWJldmdlYmREWG8wdF8xazRnaVotNG9jaldyVlhpV1VQdWFDSU1aMF9vNG5XTDRFZUp0ODNHMg?oc=5",
       "s": "푸드아이콘",
       "d": "2026-09-26T13:48:34+00:00"
+    },
+    {
+      "t": "\"이러다 中에 빼앗긴다\"…삼전닉스 동시에 달려간 '이 나라'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRmVHYmhGcjRrRTkxejZLNGc1OTg1aTdVUGl3b0dya1E0R0RHLW5XaVo3X1lOb2JhY25MVDlRVjlzT21fS1VoWllaemJmeVhiakk3SUtwYmVMUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T13:30:01+00:00"
     },
     {
       "t": "양산시, 전통시장 현장 소통 및 물가안정 캠페인",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-26T12:40:00+00:00"
     },
     {
-      "t": "지니어스법 대비하는 美…연준, 스테이블코인 규제안 공개하고 의견수렴",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xcDJ0cWdXZzJwWFpqcVNwZi1wcDVPX3hZYVBkSUs2MXp6eWdPLVZEcjF1dW9qaEhpTzRNNXE0ZG9rVmRTRzd0NEtoaUVYRTVI?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-09-26T12:30:00+00:00"
-    },
-    {
-      "t": "“NYSE·나스닥 러브콜 받아도 한국 먼저”…딥엑스, 내년 IPO 준비 검토",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwRlZKbVFaTmxlaWdmaXVNUEg1bkVVczFPa0VtSUtGTldSczJ2VnJiYk5LOVU3Q2VtcEZpOUZ2QTNUUEx3MHlVdzBZR3BrY0JVTFE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-26T12:27:35+00:00"
-    },
-    {
-      "t": "[N위크] 국내 최대 자본시장 'IR' 열린다...가상자산계 집결 'KBW'도",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45NFowbWV6REFTQnMtUHNxZlZVSFpNT215TlZRQXZ5M2tGSTdtaTNEdWc2aXVUUFFCOHRWZ19vZlpndVItTWhEUFI1OXo1SHgyOTRCNm1ERmplcTVyRlJuTFdZVQ?oc=5",
-      "s": "조세금융신문",
-      "d": "2026-09-26T11:33:21+00:00"
+      "t": "[그래픽] 금리인상에도 집값 상승 기대 여전…전망CSI 125",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14cjEyQjQ0UkNWS2ZKQzF2N2dFSWRkQjZoT1NxSTBjclo4MVhtVjcwc1lYcUtZQXA1T0hzTEtIZGljWVFBVUZGUkdpbmtfb2xsMDNGWFlEeHFsTXE3bEh0cg?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-26T12:32:38+00:00"
     }
   ],
   "asof": {},
