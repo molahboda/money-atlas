@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T13:15:30+00:00",
-  "quotesAt": "2026-09-26T13:15:30+00:00",
-  "newsAt": "2026-09-26T13:15:30+00:00",
+  "fetchedAt": "2026-09-26T13:30:27+00:00",
+  "quotesAt": "2026-09-26T13:30:27+00:00",
+  "newsAt": "2026-09-26T13:30:27+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -37,12 +37,6 @@ window.LIVE_DATA = {
       "d": "2026-09-26T12:30:03+00:00"
     },
     {
-      "t": "\"한 달 만에 성적표 갈렸다\"…나 홀로 26% 솟구친 '반전 정체' [이수의 ETF줌인]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUVlIc3NubWxFOXpCTlBPcmFsSzd6Y0JKSUpHSUh1ZTFtdkF5c0t5RWh2RUNTSXFXM1JhNmc5NGlWOW9raU82NFpnM2g5ZGpYQW1PMS14akpHQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-26T12:30:02+00:00"
-    },
-    {
       "t": "지니어스법 대비하는 美…연준, 스테이블코인 규제안 공개하고 의견수렴",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xcDJ0cWdXZzJwWFpqcVNwZi1wcDVPX3hZYVBkSUs2MXp6eWdPLVZEcjF1dW9qaEhpTzRNNXE0ZG9rVmRTRzd0NEtoaUVYRTVI?oc=5",
       "s": "블루밍비트",
@@ -58,7 +52,7 @@ window.LIVE_DATA = {
       "t": "‘이젠 진짜 주식 접나?’ 9월에만 18조 팔더니…미국 ETF까지 매수 반토막 [투자360]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xOVp3X3BTSjkzc202NXZyU3pWOHY2Ukt4UmdSbkxHblluTkp4V21Bd1ZCU0dQdml2R3d3cm9UNlAwamFDanJZUGlPSFQyMGc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-26T11:41:39+00:00"
+      "d": "2026-09-26T11:41:00+00:00"
     },
     {
       "t": "[N위크] 국내 최대 자본시장 'IR' 열린다...가상자산계 집결 'KBW'도",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNEpUMWJ3T3pUVnN4bmwtU2hMYnhqd1ljTUxYWU1vdGJtd1YtWFRoWWJIWFV2V3JZakhQN0taUUhPSGhXYUdUR1RXMF82WXM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-26T11:03:16+00:00"
+    },
+    {
+      "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
+      "s": "Naver Blog",
+      "d": "2026-09-26T11:00:02+00:00"
     }
   ],
   "asof": {},
