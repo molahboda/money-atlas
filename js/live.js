@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T08:30:36+00:00",
-  "quotesAt": "2026-09-26T08:30:36+00:00",
-  "newsAt": "2026-09-26T08:30:36+00:00",
+  "fetchedAt": "2026-09-26T08:45:28+00:00",
+  "quotesAt": "2026-09-26T08:45:28+00:00",
+  "newsAt": "2026-09-26T08:45:28+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "\"이건희 리더십 필요한 때\"…반도체 호황에 소환된 '키몬다 파산' [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QczB5dC1pUl9SNjRmMk1lZ002R1ZpYjRVTWlrenJlNjZsMWtpek1fclpvUDg2N3BEWGdnbTk4Q01HMkZtM25lb0F0blU5UG1qeVJaOEZiWFNkZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T08:29:08+00:00"
+    },
+    {
+      "t": "중구, 추석 명절 물가안정 홍보 활동(캠페인) 실시",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hQXZhSmVyVEU0Uk5TV1ItRnVhUEVuMDM5d056b0JWQ0ZJY2k5TTJrU0xWUGNyNTJxcXpDSjhMdkxvTFpRdGpnNnZ3ZnV1Zw?oc=5",
+      "s": "뉴스21일간",
+      "d": "2026-09-26T08:13:41+00:00"
+    },
     {
       "t": "李대통령, 멕시코 K-엑스포서 '관세'부터 물었다…K소비재 중남미 공략 점검",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRW1uR2lSdE5NX3dDX1pyODd5RjZHZm9MeWRUYm5UdERqU1VXVHdTSFJVckNOUm9Ya0FFN1Rub2RDdEhkUW50V2xpTzJjVHhfWEliMllWV3dSOHlfaHlhc2pIdDJTU1FqSkRJS0FiWkE?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10VXptTTF1aHFvUHltdjRBQ1dEay1vT2IzRXVVRHNVUHRaeHN6akZ3bWMzS1BPNkx6TkRGOU1RU0drSWhzekdTT2tNZnpQdWJHajI5RHJhb3lrUGt3QVNaelk3OWx0a1o5SkJ5cklR?oc=5",
       "s": "더스쿠프",
       "d": "2026-09-26T06:54:14+00:00"
-    },
-    {
-      "t": "美·中, AI 대화채널 첫 가동…300억 달러 관세 낮춘다",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tVjFjZnhwWl92Zm1tNm9vTGxpZkxMZkZ1WnJLY1VwNjV5dV9zcGp0cVc1Z3pLX0tyLWlnaDg3U2pNdjZTcUxMLVVzRnp3YmF3SkFMVEo5R05iZXJNS2RKeHR4VnI?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-09-26T06:53:50+00:00"
-    },
-    {
-      "t": "반도체·AI 키우는 전남광주…석유화학 줄이고 철강은 저탄소로",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TMEpPRnZQYTBVVktLWlRJem5FRFNZV0VXQnZSYmEyZ0Nob0Q2d2w4VlhpYzRUX1QtcWw1QTdyMFk0TDRudHh4QnJuODRRUTl2cUdnR1NYYzBzOUJnZkQtQkxyeVhweTBC?oc=5",
-      "s": "ebn.co.kr",
-      "d": "2026-09-26T06:51:49+00:00"
     }
   ],
   "asof": {},
