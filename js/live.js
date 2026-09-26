@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T17:15:28+00:00",
-  "quotesAt": "2026-09-26T17:15:28+00:00",
-  "newsAt": "2026-09-26T17:15:28+00:00",
+  "fetchedAt": "2026-09-26T17:30:27+00:00",
+  "quotesAt": "2026-09-26T17:30:27+00:00",
+  "newsAt": "2026-09-26T17:30:27+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "李, 멕시코서 CEPA 물꼬 트고 귀국길…관세는 ‘숙제’로 남았다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xNHltTGNxQ0ZCVDVuendRTlBadUpKZ3A0VzBwbHJGRndvWndJMHd2eTU2cFR3bEY2M0MxdHRtcVJISVVrTlk1UjJmeEVSems?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T17:02:00+00:00"
+    },
     {
       "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45d2R5NjJDZk9RalVZU3lwYWZGdEFuN05vRUh1c0sxOXV0SGpUZHpkNEpSdmc0ZWJldmdlYmREWG8wdF8xazRnaVotNG9jaldyVlhpV1VQdWFDSU1aMF9vNG5XTDRFZUp0ODNHMg?oc=5",
       "s": "푸드아이콘",
       "d": "2026-09-26T13:48:34+00:00"
-    },
-    {
-      "t": "\"이러다 中에 빼앗긴다\"…삼전닉스 동시에 달려간 '이 나라'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRmVHYmhGcjRrRTkxejZLNGc1OTg1aTdVUGl3b0dya1E0R0RHLW5XaVo3X1lOb2JhY25MVDlRVjlzT21fS1VoWllaemJmeVhiakk3SUtwYmVMUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-26T13:30:01+00:00"
     }
   ],
   "asof": {},
