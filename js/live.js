@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T06:30:37+00:00",
-  "quotesAt": "2026-09-26T06:30:37+00:00",
-  "newsAt": "2026-09-26T06:30:37+00:00",
+  "fetchedAt": "2026-09-26T06:45:26+00:00",
+  "quotesAt": "2026-09-26T06:45:26+00:00",
+  "newsAt": "2026-09-26T06:45:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,13 +25,25 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aenQyVUJSdVYyTXprY3pTZUx2N19XTnhrVlFITUE2R1lkRXJwaXgwa0NOYWc5SkNjRFlLWWg4NmJRa3NmTmJRZFBiVFpsQWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T06:39:00+00:00"
+    },
+    {
+      "t": "[미중 정상회담] 백악관 “미중, 300억 달러 규모 상품 관세우대 합의… ‘초지능’ 대화채널 구축”",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PMktaT29tYkNTb2dfaUhIUG9OZl9pMWdidDYzYjY3a2E2SlJJak4xc016WTRfWW1NT2pBbmRHekY2WTdhZmdBU2ZNNkhFOThoQ3hPWVhVRmxvUlpURlgzc2V2MEZjVHI1d3c?oc=5",
+      "s": "천지일보",
+      "d": "2026-09-26T06:31:03+00:00"
+    },
+    {
       "t": "HBM 넘어 시스템반도체로…한미반도체, AI 장비 영토 확장",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbDlRNlg0dktEQmxYMHpfajBYU1hUZFRYS2hFalFFTENXS1p1QzF6RlFWdW5LWnZGbGJmTzNZSmpHVmVLRTh5a1FtcTk5M1paUGdzV1dVRUJoTlM0QUdSUlNSRjJCWWFuYkFzTQ?oc=5",
       "s": "비즈워치",
       "d": "2026-09-26T05:30:03+00:00"
     },
     {
-      "t": "미중, 300억 달러 관세 낮춘다…AI 사고 때 ‘핫라인’도 구축",
+      "t": "미중, 300억달러 관세 낮춘다…AI 사고 때 ‘핫라인’도 구축",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xaUVUTmZEb0NoZmhzWi10NkZPSFJGaEZRdVNLTkNBQXBaanhuZmhWVHpQRFFzWDIwVmhNS2ROVmhMT2syMlpwOUNTQVdtUFc3dUNvQ2d6UC1GSWQ2SGc?oc=5",
       "s": "뉴스투데이",
       "d": "2026-09-26T05:27:00+00:00"
@@ -41,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2M2psTTFYM0hNX3ZENEFxQjhidG1UTDhxR1BoT3o1dmh0d2MwYnVvR1JPS2Q3QjF2b1Z0NlhUNGVjWVpNcjRNeGtVZU9TRjNQbElkSTZyd2daY2c?oc=5",
       "s": "중앙일보",
       "d": "2026-09-26T05:00:00+00:00"
+    },
+    {
+      "t": "환율 하락에 항공주는 웃고 해운주 울고…식음료는 딜레마",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lUWhYVmJLdjBjeGtBV0t4UXJUWk1TRHRfZnJJd3JSU0tVakpYWUZlWTZGM2pqb2NsWHFiV1pOanlJZ1FXRzl5Mk1VaEtPZjBRRjYtYQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T04:54:00+00:00"
     },
     {
       "t": "이 대통령, 멕시코 K-엑스포 찾아 “관세 얼마나 올랐나”",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-26T04:41:49+00:00"
     },
     {
-      "t": "호르무즈 재개방 기대감에 뉴욕 증시↑...미 국채 금리는 5% 연일 돌파 [데일리국제금융]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hX0FWNHhTQ0xnX00zNF9XVk5tdWJ4VFo3TkcwNjBIUEtSUENwR2N3QzNYQVVWVHgxOXNZMDRHVTFESHR6Z2lJVVVGMlEyTjFCTmfSAVNBVV95cUxONnV4SjFRb2VIMlVKVFR1bDg3bnFxWDExaHJEWDBRSU1xRkRrR0w2Rm1ESk9BRDJZOW5qTG1NelRQajNSbkJvX2p6YTNSbXNROHpnbw?oc=5",
-      "s": "서울경제",
-      "d": "2026-09-26T04:33:10+00:00"
-    },
-    {
-      "t": "실리콘 반도체로 적외선까지 본다…저비용·대량생산형 실리콘 적외선 센서 개발",
-      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4tVmk4VDZZak5FR3RsR0ZXamJfWm5TTXVJdEd0dXE2cXdmcXhkZ2RXSU9HVEl5anV1aW82SkoyR1ltLUJV?oc=5",
-      "s": "산업일보",
-      "d": "2026-09-26T04:29:42+00:00"
-    },
-    {
-      "t": "[주末머니]10월 주목해야 할 글로벌 증시 이벤트는",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TTlZGQ3IxVEROWVN3cXN5VGszUlZmUmdyUXJUNllaMW1XYnlzbkR1SFh3T2J1aFhaYWR3T1hQcFZfSW5fNVUzeExFc09zRjA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T04:19:28+00:00"
-    },
-    {
-      "t": "“증시 방향 잡히면 바로 빼서 들어가요”…일주일 새 1.8조 몰린 ‘대기실 ETF’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDdWduWGZnVmFpUUJfSmxDQ1RFYVlxQWptVGUyMFRTOWFwczVsTGlWWVBVczhNOGRnVU5jQk5mNDVETDNKOFpJa3ZjVVNNTkxub0E?oc=5",
-      "s": "매일경제",
-      "d": "2026-09-26T04:15:59+00:00"
+      "t": "대구시, 시스템반도체 인프라·전문인력 양성 투자 확대",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42TGg0bEFtQVhLT2FYeDVnV0dzSm5fRTNoODZzN2RzZkRqTGNtSldGVzBMNXdpZC02aldYaFBEcWx1cEdLOUxxaURCdmRkUVFQbFZvMVZOZWlkdm1Tb2UxZGZURTNLWi1wOXd5Z2ZtcWdkcnphY3JUTtIBeEFVX3lxTE42TGg0bEFtQVhLT2FYeDVnV0dzSm5fRTNoODZzN2RzZkRqTGNtSldGVzBMNXdpZC02aldYaFBEcWx1cEdLOUxxaURCdmRkUVFQbFZvMVZOZWlkdm1Tb2UxZGZURTNLWi1wOXd5Z2ZtcWdkcnphY3JUTg?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-26T04:35:58+00:00"
     }
   ],
   "asof": {},
