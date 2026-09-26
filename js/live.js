@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T19:30:32+00:00",
-  "quotesAt": "2026-09-26T19:30:32+00:00",
-  "newsAt": "2026-09-26T19:30:32+00:00",
+  "fetchedAt": "2026-09-26T19:45:30+00:00",
+  "quotesAt": "2026-09-26T19:45:30+00:00",
+  "newsAt": "2026-09-26T19:45:30+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "연준 긴축이 신흥시장 자산의 판도를 바꿀까? UBS 분석",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43RFljUEl3Z3ZzZUJCQ0hUNVIzRE1ZUk42LU54TjNjdzFVNFdlbHBjbkM1Tk1WQ2pJbjRiNWs4RmR2X3RfVVBRdS1uSmJXdm5hQlJfUmYtREE1S3RwSEVZTmNOdFZha1Vfb3c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-26T19:25:00+00:00"
+    },
+    {
       "t": "'영끌족 어쩌나'…금리 0.25%p 오르면 이자만 3조3천억 폭탄",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5Y3VxT3cwSmZFNHZPWWtNSy14b0U4WFR6c0d3ZlZVQjVlZTNOTEZhQUdDSW5GVHlGdktUeVRRX0tULWQxdFpWV215RzFvRWc?oc=5",
       "s": "v.daum.net",
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2hjMDB0Zy11aEprcVVPT284dG5LckNiaHRwNHEyZ05pME5JakNBakN0dWFMbXY5eFlBYlVOcDNlWEwxblVmZ0FGSnNROV9ybW1FMDV4UXFqWm1pUTNlN0Y0QUFTMGpiUnpNRFRMcnd1dXdGbE1sNE9rSU1xdVZ4b3VQMzhiSDNz?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-26T18:15:00+00:00"
+    },
+    {
+      "t": "\"美 국채 수익률 상승, 끝나려면 멀었다\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWUpldzNPLTNNN2tYRVl4bGk1NW9RaU1yYWtRRWtqYnFqMWZRM1JtU0d3WmVPNWpscFRkUDVINkoxWXFjN0hiLXNDeDRIcE0xV1lNWnZvaGhWZw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-09-26T18:00:00+00:00"
     },
     {
       "t": "\"반도체만 보다가 '겨울' 온다\"…오건영이 짚은 의외의 투자법",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xMU1MOHBFSDg4UDV0SXpJX0VMUEZRZEcwd2pjcll4MGZCQVIzVVpBSktHSm5hX2tPa3ZsRDhWWndUdU5wOUhtX00tMmxqbEJVbkExNHZ5UzQwQXhUSDZPUzhGOA?oc=5",
       "s": "더구루",
       "d": "2026-09-26T15:00:39+00:00"
-    },
-    {
-      "t": "印 \"반도체에 18조 투자\" 약속....반도체 강국 비전 제시",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OSVA3REFtU2pYRlZxbWRiUUdhdlBCWVYwZHZBZkJJaWc1LVByR2s4ZWpyd2tDTmRIelBZSmhiRGNHY095Smc2OGRzZ1NPUTRpU1FmUFN2VTVhXzNBQW9mMEo1aw?oc=5",
-      "s": "더구루",
-      "d": "2026-09-26T15:00:05+00:00"
-    },
-    {
-      "t": "오정연 \"통제욕 있는 사람 싫어…투바투 연준 좋아\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCemtNbVNjSkNQaHFTbFVPSS1PVmlybGNrWFY1ZGJQQ244aDFjeG1wN1BCU0l2eDZNeWR4R1c1Y0toSURJd3dtWFZ0WDU0cl9rU044OHlQRlRwUTNEU2EwatIBeEFVX3lxTFBUQ3llYk9ZWmdDblZrR2M4VGNHQU1iZE1rZWtfTUVYN1FFQjBNeldJZGdUdmhKYzN2dXNYdElzTDg4aDh6MlFnYkVUN0puOFhpaXN6c2VSVk5sMEMtbUJWR3RQei0zODZJV2xfQVJZUExiOGIyb1dHMQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-09-26T15:00:00+00:00"
     }
   ],
   "asof": {},
