@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T20:30:36+00:00",
-  "quotesAt": "2026-09-26T20:30:36+00:00",
-  "newsAt": "2026-09-26T20:30:36+00:00",
+  "fetchedAt": "2026-09-26T20:45:24+00:00",
+  "quotesAt": "2026-09-26T20:45:24+00:00",
+  "newsAt": "2026-09-26T20:45:24+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "원료도 웨이퍼도 칩도 다 오른다…반도체 공급망 '가격 인상 도미노' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16ZlNUMUhMNDdhOUZRdjJwSU5qT2VrcGhlU3VmYkhlSDE0QVF5WGFVc0hGSmNhUFhQTVBsMmpQRlRBTl91SkJ0NklWQzd3RmpXUkN6STluY3piZ0VHc1l3bGtZTkF2czA4WHNna9IBckFVX3lxTFAyT1BjV2tvbkdESmkzNjBrOTRZaXgtd0tPZ2xHdFRxNzdINkxwMkxIMjZFY1dKZ1k4Y21DSG5DVC0yYTJadFRlR1dYUkxrUTVuZF9McUNtWWRfVjQ1Q1hzWVp4SnhnR245ZkU3a3V3Snc0dw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-26T20:34:00+00:00"
+    },
+    {
+      "t": "콜금리는 금융기관끼리 하루 자금을 빌릴 때의 금리",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZcjhoRldFMGRnNERmLW5sQnVoV2NTS1N0QmY4aklWc2hZNzdUZzhYTUkwVHBPVUI2ZlVGcEJrWko1aW8wbjVRcnJsb0FQSnA1MUgtanlMYm5SWmVoVUF3MktxaUxqUQ?oc=5",
+      "s": "비건뉴스",
+      "d": "2026-09-26T20:17:27+00:00"
+    },
+    {
+      "t": "[주간 월가 레이더] 10년물 5% 뚫은 뉴욕증시⋯'고용·물가'가 10월 금리 가른다",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSEF2V25aME9xYXFRaFFVdXFmVFRZaEY4ejJOMWhMOUhmNjVXZ1c3RTkwN3pSWlVpV2tCSFJJcHk5MVgzclp2cDhZTlJyS2FRU0ZkRlMwV3VuSVBjNkE?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-09-26T20:04:03+00:00"
+    },
+    {
+      "t": "원금 3275만원 갚았는데 월 42만원 더 낸다…5년 고정 끝난 영끌족 비명",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ncmhsQUZYclhfS2UyRTJwTjE3Yl9YQmxPRUNBSVd4SUJta1B0bENRa19fNFVKOWlCVkwxYmJmMUVpVGotMy1CYlRwQ0o0ZWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T20:03:34+00:00"
+    },
     {
       "t": "연준, 스테이블코인 뱅크런 방지…“24시간 내 복구안 제출”(종합)",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZejUtUGdsNzVfd29CaU1ubGhOZ3Bib1lEa01qMG1sdktFTGdUSWt6bXZGR3dZTHE0MWR6aGxNTWVpc09nZi1jcDFOUkZ3MkhUcGszUHNFR3k?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scTY4TUxSME5Nc3pmWUJCcExwNTFXemIxLTJkZkJVOWVqOEJxTE5hOXl6N2pwNElKSklxcnJLN3FMVnVVcHp1eFAzWjVlOTJ3TElDa3ItT19lcWxEb1VoetIBeEFVX3lxTE9Td2JudWtrWWZWYktfdFBPRnFVdVgyMFFxdTBWN2pqZEN3VFVsNG5QZWIzSi1FVmQyUDExVmNuV1hlNzdvLWE5UE13eUg2amJfT09mT2VWMDR5RjhRdTFYaWV3dDVrYmFCMEkzcXBMcl9KcE5adU40ZA?oc=5",
       "s": "뉴시스",
       "d": "2026-09-26T17:55:00+00:00"
-    },
-    {
-      "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
-      "s": "Naver Blog",
-      "d": "2026-09-26T17:00:02+00:00"
-    },
-    {
-      "t": "李, 멕시코서 CEPA 물꼬 트고 귀국길…관세는 ‘숙제’로 남았다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLYzZfZ0hWcEIxZ1FBRG54bmEwYjRGV2FFVDhoRmR3RTZIWmhFb2ZCU3ItRkpXTE5PZkNZREVkWElRZlA2RHBveGQ2V2ZMQkpsZi1CQU13?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "t": "美 물류비, 안 오른 분야 없다…소비자물가 압박 커져",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTFBazBTdjdzZ3dFQzJ6bHgtc2tWczlTeDZxWXFlOVI0a0pFdDFsb3lCdHhES3B2RmxuSVdqbmRJR3d5amQ3VlI3V3psdkVPcTUzZUs3cTJ3UFFrSDJmR2lTUGtWb3VjVXJKNG9BUjVZMUhGMVRzbU9mU3pvZXdhLUdybWZLYVA3?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-26T17:00:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시 전망] PCE·고용보고서 발표 주목…추가 금리인상 변수",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZMDZNUFNwb2NhTk5hcEpfUUZqVUxQeE5hcjJZdE9ocmdSOHp3Rk90Ym9hQkI2Vmp5dnRjRFlURHlsVlRLbmZiMjZwWDNNY0lodG1FVXZZd0xzczkzNU9HdHROWWx3MlNkTXF5NVIwZF_SAXRBVV95cUxNamJTaFpwZzRVNlpiWGNsRjliaEJYN1ZaNkJfZ0NMN2l3c0FxSWJFMm1qb1VGdllQYkZhRm1nTFlJYXItNWk0WTF6S3dLOGpPU183eFNGdjVpNDNEWVBtbkFQeVBUcER4UmRQblhOb213VVEtZg?oc=5",
-      "s": "thefairnews.co.kr",
-      "d": "2026-09-26T15:31:36+00:00"
     }
   ],
   "asof": {},
