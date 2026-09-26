@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-26T12:30:32+00:00",
-  "quotesAt": "2026-09-26T12:30:32+00:00",
-  "newsAt": "2026-09-26T12:30:32+00:00",
+  "fetchedAt": "2026-09-26T12:45:25+00:00",
+  "quotesAt": "2026-09-26T12:45:25+00:00",
+  "newsAt": "2026-09-26T12:45:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,42 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "기관이 끌어올린 ‘칠천피’…삼성전자에 5.7조 쏠렸다[투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lRDJLNlFuenB0OEtKYXczeEU2am81V1RtZUhvVTBwRHd5UDhkV2lXTUJxV081Z1BtOS1Ed3YwZ0hUMEUyQWM4RUkxampMZ2ZtalY3dl9Bcw?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-09-26T12:40:00+00:00"
+    },
+    {
+      "t": "안전자산 쏠림 가속화, 5대 은행 정기예금 1000조 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZc3BNTXZlcnNJWEFBYWhnMEF3X1pQMFBVMGtMSl9BTURnZi1VV3ozRnY5Y01YdEl4d3doSWxxS3JYM2xLVExPQUZmOEpPVVZvdEo1TXNtSWFqUQ?oc=5",
+      "s": "데일리연합",
+      "d": "2026-09-26T12:30:03+00:00"
+    },
+    {
+      "t": "\"한 달 만에 성적표 갈렸다\"…나 홀로 26% 솟구친 '반전 정체' [이수의 ETF줌인]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIUVlIc3NubWxFOXpCTlBPcmFsSzd6Y0JKSUpHSUh1ZTFtdkF5c0t5RWh2RUNTSXFXM1JhNmc5NGlWOW9raU82NFpnM2g5ZGpYQW1PMS14akpHQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-26T12:30:02+00:00"
+    },
+    {
+      "t": "지니어스법 대비하는 美…연준, 스테이블코인 규제안 공개하고 의견수렴",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xcDJ0cWdXZzJwWFpqcVNwZi1wcDVPX3hZYVBkSUs2MXp6eWdPLVZEcjF1dW9qaEhpTzRNNXE0ZG9rVmRTRzd0NEtoaUVYRTVI?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-09-26T12:30:00+00:00"
+    },
+    {
+      "t": "“NYSE·나스닥 러브콜 받아도 한국 먼저”…딥엑스, 내년 IPO 준비 검토",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwRlZKbVFaTmxlaWdmaXVNUEg1bkVVczFPa0VtSUtGTldSczJ2VnJiYk5LOVU3Q2VtcEZpOUZ2QTNUUEx3MHlVdzBZR3BrY0JVTFE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-26T12:27:35+00:00"
+    },
+    {
+      "t": "‘이젠 진짜 주식 접나?’ 9월에만 18조 팔더니…미국 ETF까지 매수 반토막 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xOVp3X3BTSjkzc202NXZyU3pWOHY2Ukt4UmdSbkxHblluTkp4V21Bd1ZCU0dQdml2R3d3cm9UNlAwamFDanJZUGlPSFQyMGc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-26T11:41:39+00:00"
+    },
     {
       "t": "[N위크] 국내 최대 자본시장 'IR' 열린다...가상자산계 집결 'KBW'도",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45NFowbWV6REFTQnMtUHNxZlZVSFpNT215TlZRQXZ5M2tGSTdtaTNEdWc2aXVUUFFCOHRWZ19vZlpndVItTWhEUFI1OXo1SHgyOTRCNm1ERmplcTVyRlJuTFdZVQ?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNEpUMWJ3T3pUVnN4bmwtU2hMYnhqd1ljTUxYWU1vdGJtd1YtWFRoWWJIWFV2V3JZakhQN0taUUhPSGhXYUdUR1RXMF82WXM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-26T11:03:16+00:00"
-    },
-    {
-      "t": "롯데에너지머티, AI·반도체 붐에 믹스 개선…턴어라운드 '목전' : 네이버 블로그",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDJjZTlCRWZNNjhCRlNXLWRYOGRGcEZPZFVhRGs1WWJzczRCVXJENzBYLXJZRTVfMG5SVGg0QjZPX0czeFRVRnJnbU5NV1dQdktCZ0VZRjh6R3FDc0Q5QmZpb2cxR2FobjZVU1BOZXVzdms0NWFaRmxHS1dDTW9ySGVMYTVDZ0ttODFRaENWaw?oc=5",
-      "s": "Naver Blog",
-      "d": "2026-09-26T11:00:02+00:00"
-    },
-    {
-      "t": "美 관세에 각국 무역장벽까지…한국 수출기업 '이중고'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzT3E3QzZiWE9heTdzLXBUV3ZLZHF0Y1AxY09fdXRRZDhBcjluaFpNbDhDSzNtZE1Td2JaSVNOQ1Noak1OX004VloyNnJVcFU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-26T10:53:11+00:00"
-    },
-    {
-      "t": "미중, ‘8개항 합의’ 도출…관세·AI·군사 위기관리까지",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96VlhueXlpakpzcldLMHBveTBUNE8xZ19tMXdRY0wtcGRlTEYyVWhjVXdSWXJGTFpfYVhuNnhyQ3FHRnY1ZlNqeWRkaUI0bWdJZ2Q1Vko1ODA4STQ?oc=5",
-      "s": "인터내셔널포커스",
-      "d": "2026-09-26T10:47:55+00:00"
-    },
-    {
-      "t": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0RUc1VjRDb0dvbkZOS05OSWdOUlFUczhvYU5VY1hRcjhqNGd3b0tLckNUc3dLelYySDZSbm9uY2hNQmZKVUE5SE1JNFBHaG52NDVrX0piUWF2d9IBX0FVX3lxTE1mTTI4RC05ZUNPZzk3UlFZSGdEMkNZWThXSUxYMjdUT1BpV1ZqSXVobjQxazZXQ1lJZ1U5SElYN3VjSmJxZ2kzd2JjU0ZVYmpoc1FWckFtUl8wRUhsSERr?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-26T10:37:00+00:00"
-    },
-    {
-      "t": "전남광주교육청, 직업계고 산업 맞춤형으로 재편…반도체 인재 키운다",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RbHZuUkhWV3ZIcks5R3NjSHpsdUtuNzQzdDdWZTU0TlNmSmh0NW9DVVBTSUZDQi10Z3hqT0NfaHJSdWhJb0Jvd1UxQjl2bTdMSXNVS3cyVUhKcTRZYlpxTGRlMnc?oc=5",
-      "s": "베타뉴스",
-      "d": "2026-09-26T10:27:47+00:00"
-    },
-    {
-      "t": "대구시, 설계·검증부터 인재양성까지 반도체산업 경쟁력 높인다",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sRTRyckVkLVpjbGROanhoc1djQ3pGRmM4R04xcG9Zclo2WGsybW55RGpsRENkMUwzYmNqMUZ3d2tBYlRmSWRreXpqcFVrTi1NcHBpVDBmLWQzWGgwUGtJ?oc=5",
-      "s": "세계환경신문",
-      "d": "2026-09-26T10:26:28+00:00"
     }
   ],
   "asof": {},
