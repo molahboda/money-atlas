@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T10:30:31+00:00",
-  "quotesAt": "2026-09-27T10:30:31+00:00",
-  "newsAt": "2026-09-27T10:30:31+00:00",
+  "fetchedAt": "2026-09-27T10:45:23+00:00",
+  "quotesAt": "2026-09-27T10:45:23+00:00",
+  "newsAt": "2026-09-27T10:45:23+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,6 +25,42 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "AI 투자에 쏟아지는 회사채…美 국채 장기금리 새 변수로[주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pUmIxamQ4X3ZfX0lSc3FIa1B1MmJWcTVKYmg5cWFQYjZ4bzdKX044bGU2ZE1HXzJQWE9lcDl3aU5LQXlXdFhXVE5feHJtVEJidmhtQS1GNXFMVjNrUUVrSEp3?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-27T10:32:00+00:00"
+    },
+    {
+      "t": "반도체 호황에도 기업들 여전히 어렵다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpOXFoU3gwUHoyNm15ZTMwbU9PbFpHXzlYUVg2M09uV01QNENHQnpfWEk3RzlGZzA1aC1LYkdJSHFLbFhLcHpYTEJUUEk3UU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T10:15:02+00:00"
+    },
+    {
+      "t": "눈높이 낮춘 증권가…추석 이후 코스피 향방은",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qazl4Skd0WmhpMTNIRS1uOEVtYi1hWlBYVGw0YlR0c0VDTnRJcXVfQV84a1FMOG56Vi1xbTlNUmRlSUFzaHU0enBTZVprZ0FvZ0hqa3dqS1hUb3BOeWNROE9PV25BM3M?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-27T10:15:00+00:00"
+    },
+    {
+      "t": "내일 국내 증시 개장...미 국채금리 '최고 수준'",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oRDhXckgxYVoyLTdVOHJ6V3c5ejJmY3RLM3dJLWppQzltYTRaRzRTU0c5bi1MSXdDa19KOEZrVTMyS1FtV1ZQVXh0Y3FHbUY0NFNQM20xN3FYZXJXUkE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-27T10:10:00+00:00"
+    },
+    {
+      "t": "미 국채 10년물, ‘5% 벽’ 뚫고 치솟아…세계 금융시장 ‘뇌관’ 될까",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nREtreWg1MGh1bFgtanFvbTY0d0NYUzhYa20zUlpQR2lHNkFmMEpmeEVabDRiM3BnaEdxLVcxVGJUVHdmUU9UQldBMThjWlJTZ3ZxS0puVGNhVEFCc2daZ0Q5dVVjd2c?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-27T10:08:00+00:00"
+    },
+    {
+      "t": "트럼프까지 칼 뽑았다...일본 향해 공개 요구 [Y녹취록]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqRlByNDZTNzJrMy1uYXA5UGhONDZUWUVMTE9sc3Eyd05nbkpkYUJwVkV5dGZHamZHSFppWGtiLXFSd182anFNY0h0YmtGUkZBc3gxbWJPcHhKMGJ0VEE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-27T09:59:00+00:00"
+    },
+    {
       "t": "7천선 안착 코스피...미 국채 금리·마이크론 실적 주목",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ac2hDUHlrT09rbC1tUnNta3Rjc1dDa3dtbnJjbG8yeDNCZ0Y5SXI4WVZndG1rMXhwYWwtLXFDZHpSdW5IZ3gtdGNhUl9reVlyQ3MwdnJKN1JsRmpvQ0E?oc=5",
       "s": "YTN",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-27T09:42:00+00:00"
     },
     {
-      "t": "반도체 호황에도 기업들 여전히 어렵다",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80U2pVU29vLVNSQWxPZ0dkV2sxQndOdzY0ZXVBNUZyRXRzYlU0eWhTS3Z4VEpHR24zdFpkc1lNRjJZdzZUZUJmWlRKNC1rc3NfcHVqY0hGLTZPU1pBVDczWk5TZFcydGxq?oc=5",
-      "s": "충청타임즈",
-      "d": "2026-09-27T09:39:00+00:00"
-    },
-    {
       "t": "中, 관세전쟁 휴전 연장 등 8개 합의 공개… 영부인 외교엔 찬사 … 판다 한쌍 美 선물",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BZVpwVHB6WGk2SWZ5eFpWQi03SlVTM1RoRTA3OUJ3RC00cU5wZTRBMVFwV255Nmp2S1MxTktFSzNPUTRVUGlodk5PeVpFRVU?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-27T09:31:09+00:00"
-    },
-    {
-      "t": "中 HBM의 추격… \"韓과 기술격차 2년뿐\"[반도체 호황의 그림자]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XekZHNEtISkdfVjVPVGNiTkp2STdMUTZ0bVBiUGw3ZkpKcW9KVlEybWRtNXFKYzhteG1SOE5uSi1Wc3VfbHUzVkVGZ3MxS1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T09:14:47+00:00"
-    },
-    {
-      "t": "금리 인상기 취약차주 부담 낮춘다…고정금리 정책금융 확대",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qWndWQ1NGazhZalhXY0dIYjN1TU55U1dJZkZmNHA1UTI4RzY5WDkySTBZUUJyRGZic05mRDJHNU95WU1DQnlQa0pHaGp3bnBMdHp4eE96blFCN1ItbWJxbDV2LU1rQXhh0gFsQVVfeXFMTVg1bUJTdGRkN2d4anNscGRSdEtneWZuQWFQNmUtQWNGdDB6X2N6S1ZFdG42dnJuWThrMGQtdElWcXFwMDZsQ2tfVHZVYnZzVGdpaDBHMF8wTjlSR3JEcElCZHh6OWlqZXNrMHI4?oc=5",
-      "s": "시사경제신문",
-      "d": "2026-09-27T08:57:10+00:00"
-    },
-    {
-      "t": "커지는 AI 반도체 시장…광주, ‘NPU·첨단패키징’ 승부수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vampFUDJLQ1NlcnlkRE1zeEVVQWgzNy0wYUo5dTRxZ041VHduVmo2cGJ1V2FVdHp0ZEdYQ0FMUVhjdmdHWHlMSEplbVZfSmM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T08:55:02+00:00"
-    },
-    {
-      "t": "환율보다 비싸게 산 엔화 스테이블코인… 2만명 손실봤다 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXdxckN4bl80bXozSkU0MlUtS0wxVTZsTHl4X0tfQk1QYXZvVHRHYkk4UkNPMzV2V0NfSFBScFhZV1JnbjFvb1V3MVk2N2pTTVR1ekN2WGxqNFlnd0xFdlR5TU8wcmQ4XzNKUnd1YmNHMXpHb0hSMVF3Q25seXhKRNIBlAFBVV95cUxOc19PWGZFbVRuYmhpY0lsSVZfV1FrLU4taFQyTmxBRWhjLS1Ld3NIVE4wT1pCV3NRS2gxc2pTSUFtakMyaWo3SXNibGEzd2tHN3pLZFQ0cG5VaG5hdTV0QVFsTkVJbmM2bWxKWFFKZlo5d1dCVlAxMFV1QnIwVlpsQWJWY2xCeW9ObDBCdWtLRkFMYzU5?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-27T08:55:00+00:00"
-    },
-    {
-      "t": "반도체 설비투자 확대 훈풍… 장비주 담은 ETF 강세[ETF 스퀘어]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDMlJXZVNzS1Q2RWxqY3FRNW5WcklrNUxNTVZET1BCbGhDdVdCb3NpWm9IZTZTMlJMeU1obHhUQ25IOGx4eDl0RUhxQjlLdlk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T08:54:12+00:00"
     }
   ],
   "asof": {},
