@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T14:15:34+00:00",
-  "quotesAt": "2026-09-27T14:15:34+00:00",
-  "newsAt": "2026-09-27T14:15:34+00:00",
+  "fetchedAt": "2026-09-27T14:30:35+00:00",
+  "quotesAt": "2026-09-27T14:30:35+00:00",
+  "newsAt": "2026-09-27T14:30:35+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "추석 민심, '민생 우려' 속 '반도체·통합' 기대",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44UVA3ZTlkYnlVeFdZcDk3UUNRa0tyeF9Nb2NtUTItYl9nWEJBNVRKczlVZXMycFQ3MXNSODVibWVBY2Q3c1haWjIxb0RtYnYtd2pIejRRa2Vyai01ZVhqMm9B?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-09-27T14:19:33+00:00"
+    },
+    {
+      "t": "'반도체 용수원' 동복댐, 15m 증고 대신 증축 변경",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14YWlQUWRLWENrXy1GNnU2TjN3ZmFEbmFqdGFYRHZkSXpmZ1RHRTJHdVN2dzE2OGNfek9vd0dJX3BpVk1GNGdzbEY1YzRLN3Z5OGY4YmVybmt4UDM1WVAxcw?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-09-27T14:19:06+00:00"
+    },
+    {
+      "t": "[기획⑤]도심 한복판 반도체팹 '최적의 입지'",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYT0U3YnF6RThoSmVjZ0xXWmI2bEhFdU9MYXBGMG9DVkxuWnJlVXJtLUcyZldZVGF1a2dWQmhwcnUzaEJNQ1V3MnFNWnBpWHc1WkhTM3YwS3h0UUFURzhIc1NYTVNaN00?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-09-27T14:13:44+00:00"
+    },
     {
       "t": "금융당국, 정책대출·고정금리 확대…금리상승기 부담 완화",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZXFOcjFxdjBSMWVVek5VYk0xTk11WF82SWVHN0VXSTZvUGJ3NkV3ZzVBZ0FoVVVTWjI4NmJOM0tZSktuTVBKUkVpQTZZV2ZxMThhOG9SMFJWQnlPd3lmYmlPT25BWjhNeE9LeVNR?oc=5",
@@ -55,12 +73,6 @@ window.LIVE_DATA = {
       "d": "2026-09-27T12:17:49+00:00"
     },
     {
-      "t": "이천시, 반도체 소부장 클러스터 조성 위해 경기주택도시공사와 손잡아 > 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKa0djN214NXNRNmFwQjA3MUIzOGhIU3EteS1vWW40WnZtUjBnb01vSjFVTmJ4TjMzcUdUVXE4QWJSVktoREViQ3hBRm9wNUhndElXVDJPbnVzNDdPLXhRYmp3Q2lPZkhmNjh2NTktYlQ?oc=5",
-      "s": "더코리아",
-      "d": "2026-09-27T12:16:00+00:00"
-    },
-    {
       "t": "“반도체 다음은 양자”…경북, 양자컴퓨터 제조 생태계 선점 나선다",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tbUlIQVBlZ2JyRGhUWnBaWERwc2Q1NG85Y1NkSWNyZVpUT1ZlOVVRYnpkekVaZXJlWFNfRjR0M0NPa3hDS2gxc3psa2xwb2M?oc=5",
       "s": "v.daum.net",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qTGJhS05PT3B0UlBxTFA2dExTcDhNT0FoSEpkVHlrMl9tdlhyZFN5Q0lvLWpEYVFjckhWSzVjSFVDV3B3V2dqeXlRZGtLa2xjMWlaZ2Nnb28xQdIBX0FVX3lxTE1weHRXOG15cnpqZ3g1UE01UEEyd2JReUkxbnJfUndrSXBseFJwdU5OSzNrRzhfRl9pYnlhOGFuN2xQRGFnSTQ1dDFsQTFxWmE2YzZGREZUN3ZVb3hmWjVn?oc=5",
       "s": "경향신문",
       "d": "2026-09-27T12:01:00+00:00"
-    },
-    {
-      "t": "美 국채금리·마이크론 실적 대기…연휴 뒤 코스피 향방 가를 변수는",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFJ3X3ppVjJMbFpISWtvLUpyRS1YZVhjYTktYlp6RWtUTkJtS2NIOEtZMG1tS1lCMW42aU9uVHZGNnJHYkUzTkN6NUlVZzZ5a0wxazZ5Zno1QVFCV3VKUGh6VDBrcEtfSnJIenNjWi1JaU1JVENLejI4SVNiOXh2SA?oc=5",
-      "s": "edaily.co.kr",
-      "d": "2026-09-27T12:00:03+00:00"
-    },
-    {
-      "t": "올해 재테크 수익률 1위는? 코스피200 ETF",
-      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CN1laa0lLSm93d2huYTRkMVJORGlmc0hVb1FlWkc0TGwxWktULUFpWWRSOG5CejlJMF9UTEV4OTdWMl9nLTZOOFdtTQ?oc=5",
-      "s": "아이뉴스24",
-      "d": "2026-09-27T11:25:47+00:00"
     }
   ],
   "asof": {},
