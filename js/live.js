@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T13:15:27+00:00",
-  "quotesAt": "2026-09-27T13:15:27+00:00",
-  "newsAt": "2026-09-27T13:15:27+00:00",
+  "fetchedAt": "2026-09-27T13:30:23+00:00",
+  "quotesAt": "2026-09-27T13:30:23+00:00",
+  "newsAt": "2026-09-27T13:30:23+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "제조업 경기전망 두 분기 연속 개선… 반도체가 끌었지만 수익성 부담은 여전",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91cGwwX0h1Qjl1cFdZWlc0VExlRGxXT0pRVm50RVNseEFjVlhTZVBnZFJjdGIyc2d0N2xfSnRnMXAwZVZIUm9FV0p6ajhlWGwwT3BxTFJXQTAtOW1ZbGpMQWNLQkJwdnpES3c?oc=5",
+      "s": "sisaworld.kr",
+      "d": "2026-09-27T13:18:42+00:00"
+    },
     {
       "t": "GH·이천시, 18만㎡ 반도체 소부장 클러스터 조성…2029년 착공 목표",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUt2M0x1VnlPRFpYZXAyOVBHcy13d2lxb3JEZDR3aTMwYmFjNzBoNVE3bVR1MUthUWxsY2hvNlNHMVpfbEE3TFpyalZrak5xY2kyelNaalowRzNJUjFHV2tkak9rVDNsRHhiN1VObjhBRHN0TWplcUhoX0RWYmhNYm5OMGwzVjdIbTZ3?oc=5",
@@ -75,14 +81,8 @@ window.LIVE_DATA = {
     {
       "t": "[중국증시 주간 포인트] ②오픈AI 데브데이, 트럼프 AI회의, 구글 TPU 위성, 테슬라 로드스터, 화웨이 어센드 950, 일본∙대만 반도체업계 가격인상, 실적발표 등",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVUw4LVNoMVRkVnFvd3p1WlppeG9jbTh1Q0tqR25XdkpJMHFfMFdzQl9lSXBhRkVmNzdoQ1gyb0VJdkEwUVVJZ0ZIR01EcXl5bXpHTk5WQkJ3eksz?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-09-27T11:24:00+00:00"
-    },
-    {
-      "t": "[중국증시 주간 포인트] ①美 물가∙고용 및 中 제조업 지표, 호르무즈 정세변화, 美 연준 RMP 확대, 인민은행 역레포 유동성, G20 무역장관회의, 설탕가격 상승 등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqT0VMZW9xeHF3MkdzeE8wcGlGOU01bnRMT0RoNGpXSl8zSW5XaDdJNUloaHhaWm1aSnhVU3N2MkFqS2k4N25UdzZXR1Qtc1FLdVFNd0lSb1h6U0xK?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-27T11:23:00+00:00"
     }
   ],
   "asof": {},
