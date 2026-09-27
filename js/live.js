@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T18:45:31+00:00",
-  "quotesAt": "2026-09-27T18:45:31+00:00",
-  "newsAt": "2026-09-27T18:45:31+00:00",
+  "fetchedAt": "2026-09-27T19:00:35+00:00",
+  "quotesAt": "2026-09-27T19:00:35+00:00",
+  "newsAt": "2026-09-27T19:00:35+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
     "nikkei": 66364.2,
     "vix": 14.87,
-    "krw": 1355.28,
+    "krw": 1353.42,
     "gold": 4321.2,
     "wti": 92.41,
     "dxy": 101.04
@@ -17,13 +17,19 @@ window.LIVE_DATA = {
     "spx": 0.49,
     "kospi": 1.04,
     "nikkei": 1.3,
-    "krw": -0.53,
+    "krw": -0.67,
     "dxy": 0.06,
     "gold": 0,
     "wti": 0,
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "AI 랠리에 가려진 신호…장기 사이클의 추는 다시 금과 광물로 기운다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1VaUmRZRHYtdUFxVXJEQ0JiMHMxTTdTZ2ZjUzBPMXphUTN6WWI4QU9XSFdTYXJBTUJoWnh3VWFiaTh0VmNFaHN1Y2FibU16RVg1TGl3a2E3N1ZMUDE1MkFMNkFKb3Q0NTAyWUtaX3VDSkk2ZFlnNFVIQl8wbG9JLUVZcTMxOThQ?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-27T18:55:00+00:00"
+    },
     {
       "t": "155년 통계가 보낸 경고…미국 증시 과열에 시험대 오른 한국 수출주",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3NWdDRBdUQyMzFzaXc2R2IwZTBCblp3bHJ0Q25GRXVEeHJEQVdYX1hCd3BIWjRNMzd2OFlhWWRJZXhQTkQwREFkN0tFVGlxR3FPSGV0Q1BYQXFvQno5QzZjeFh6WUJXWk1TRUlJTXJzTHF1M3MzM3psLWVYU1dLOHJndEVOSjJF?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GbWZwbkVEZ0Frc25JZjlCSERDT3JSdGxsYUdUZmc1WUExOVlkbG8yQ0o0bi1nYld3MTZwcUd3cFg4Z2ZDd094cWxqRXJLeEU2eUVWSTU2d0V4WXFmMFZUQkdXelhka283aVNNb2JtTQ?oc=5",
       "s": "seoul.co.kr",
       "d": "2026-09-27T15:27:04+00:00"
-    },
-    {
-      "t": "폭락장 겪었어도… 올 최고 수익 자산은‘코스피200 ETF’",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFUFRjbm5TbzNjQ29CMXNsRldSZ3VvRkU4X3p6dWJiZENuODVrQjdvQ25obDFiemh3Ym5Nd3RYa0ZxX05HRHpnRWFLNXRZd3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T15:26:08+00:00"
     }
   ],
   "asof": {},
