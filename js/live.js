@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T06:30:37+00:00",
-  "quotesAt": "2026-09-27T06:30:37+00:00",
-  "newsAt": "2026-09-27T06:30:37+00:00",
+  "fetchedAt": "2026-09-27T06:45:23+00:00",
+  "quotesAt": "2026-09-27T06:45:23+00:00",
+  "newsAt": "2026-09-27T06:45:23+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "미중, 관세 인하 합의…희토류·AI는 발표 내용에 차이",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxdEtCeEYzeDVGMmpwclVRSlpxcGhHYml6SFlScm9TTkxCRTJ2UVVwZ2VQNkRwa3RFdWxBWUEwZjdab0lrdXNWZjR6ZUJPS1k?oc=5",
+      "t": "[美·中 불안한 휴전] 관세에서 기술로 넓어진 전장…韓산업 새 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0S0lEV0gxRlJDMlNWVXlmNVUtaGZwQ1IzbTVkazVOekE4eW1sMmFYc2thWE8xbnloT1VrZnI0cy1oZURmb2VKVmZ4RV9GTWs?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T05:35:06+00:00"
+      "d": "2026-09-27T06:34:45+00:00"
     },
     {
-      "t": "메타 ‘뮤즈’·수출 호조에 반도체 ETF 질주...소부장까지 불붙었다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZWRjbzBzV2VIQWp6MkFNMXBwWlVCZXY0N2dXMVZJMDZWV21PMTlMemF6MkplelRoV1VnWm1CenVSWGgzYjhUQTRHRy1FLWdZVlp0YzBVZDlYZw?oc=5",
+      "t": "대학·출연연 반도체 연구실 안전관리 대폭 강화… 특별 현장점검 및 맞춤형 지원 착수",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtalV6TndwZzBSQW1FNDE2cTZHaTZaWVhuek42WkMzdmhKNU1CWnVkVjFWWTZjQmdRaWZvVXljN3RpTS1nTE5scFEwbkc5T3pJZ2J0bEdCYWMtRkVlX21Pd3Z4N0EtalE?oc=5",
+      "s": "기계신문",
+      "d": "2026-09-27T06:32:32+00:00"
+    },
+    {
+      "t": "올해 초과세수 50조원 넘긴다…반도체 호황이 끌어올린 역대 최대 세수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFQ0tQdVpVRmlKN1Nzc0tPcHRIU0haWTJKTmk4ajRaRExuVHVrWDN0N1JiMHl3d2htSTVkZHZLeGNPT2d6VVl4MHJraGg5SU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T06:31:57+00:00"
+    },
+    {
+      "t": "[단독] 호남 반도체 댐으로 민가 수몰되는데…주민 협의 없었다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pQ0JnMWx1SkZtSlJBQkJITGRsQ0ZocW8tNV9IaUIzZlVsMVNzODFjcDVLYlBIUUwwZ3hrak9nZGN5Z185NHpoa1Rpcm13RTdad19oRkl2OUYzUQ?oc=5",
       "s": "한국경제",
-      "d": "2026-09-27T05:31:34+00:00"
+      "d": "2026-09-27T06:21:00+00:00"
     },
     {
-      "t": "올해 주요자산 수익률 1위는 ‘KODEX 200’…금-비트코인은 마이너스",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BazZJY3lYWVdSZjVOQ3dDUFo4dldPSktxbkUtU1lKRlVid1l2bjdRanlRQ3VQZlBYQXU2aU5FNXloemR4OXJfdTdjaVB2a2c?oc=5",
+      "t": "반도체 수출 호조에 제조업 전망 ‘기지개’…고비용 탓 수익성은 ‘먹구름’",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zelFhZTNWaWhWZ2pQNFdjemkzN1VJUUhJbWpmZHZBLWJScHphTmxNWjloUHNub1lJR3o4N29rZHVPZ2pJQXhaVldOYjQyZEtoSUJyZG5fMnYzQkE?oc=5",
+      "s": "경기일보",
+      "d": "2026-09-27T06:20:48+00:00"
+    },
+    {
+      "t": "제조업 경기전망 두 분기 연속 개선...반도체 역대 최고",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42QzEwM0YxZEt6OHpTMWFwcG1iTm9OSXFJZkhkU3o3cGQ1RWlrZXBaTW8zVmRaN3VkLW1IV2FVMzdnUTRuN0dmck9PaXhISXQyN3lkUWRmM25TdmxURFE?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-09-27T06:20:00+00:00"
+    },
+    {
+      "t": "19주째 내린 기름값…국제유가와 ‘괴리’ 10월 향방은",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2R1FBWGtNMTgzTi1PZ0VkcThZVGpnZndjZEVQYThJTHh2OEFTUnhxS3pKQVBBU2NMbTZBcHQ5TGVidVlKQklqLVNZNzNTMkx3UXZWY0lvUGVldw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-09-27T06:18:00+00:00"
+    },
+    {
+      "t": "\"이제 출근 하세요\"…日기업 사무실 복귀 확산에 소니 반도체도 합류",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qZ1hfN1pkMEFKYmI3Tld2M1JYazAydENMT3ZwaVk1N0R2QjBHTXY4M2dNUEpWRzc0cEsta1Q3SDcxSUNzVGJYOWFKR3l1T1U?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T05:30:47+00:00"
+      "d": "2026-09-27T06:04:51+00:00"
     },
     {
-      "t": "반도체 호황에 올해 초과세수 '50조+α'…미래대응기금 200조 넘는다",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSEd3UjZRSFhreEtFWEhDLVBZaVRMSG5QVlJwdTlZVWRXamU0Zm5KY01ldEkxUzluMUNmbjVYNlI0b21UbFJNRWl0MjRQYzlpV0poRnFoUGRYc0NLUGxBeg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-27T05:28:18+00:00"
-    },
-    {
-      "t": "日, 31년만에 금리 올렸지만…엔저 지속 전망하는 이유[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfX25uekx4X1V3bDB5blk5QnNwR0Z1b3lpTUxTQ3FIWHJPT3kyNk5hNjBXNTA3UlJac25WOHd4SEVveWZTOGw2aFZ6SGZPZ1U?oc=5",
+      "t": "미국 연준, 10월 금리인상 확률 60% 넘어⋯글로벌 국채금리 일제히 급등",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUlMydlR4VkNjbGFLMGNicFIzWUpOd3RqMkFCWnlfR29xenRyR3BEUUJrNUFEVEFicm92TGkzTG5BM2RCVUI0S1doak9iRW8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T05:26:00+00:00"
+      "d": "2026-09-27T06:00:07+00:00"
     },
     {
-      "t": "은행 대출, 신규보다 갈아타기 평균금리 높아…최대 2.33%p 차이",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wMklIQ2JDanl6NkNPT00wcy0zczdkTjVBcG4ybTgtR2xlQ0ZrYXVaZ0hUQWF5TnRQcWtBM2tIRmszMHp1X0hZMkc4Uk5mS1NYZ1JBQlNYTW9mcVMwUlNNNGpJRVZqREk?oc=5",
-      "s": "hani.co.kr",
-      "d": "2026-09-27T05:24:00+00:00"
-    },
-    {
-      "t": "코스닥, 추석 이후 코스피 넘어설까…\"3대 조건이 가른다\"[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GQkQ2UklQdHBMMF9ZSW9Pb0xFVldLd3Zub1JrYTZPc3g1Yi1lVkttNEtjR1RXVjlkUmRJckxmaWJITFFQSnk4a1RHaTVsQ0E?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T05:23:49+00:00"
-    },
-    {
-      "t": "대학 반도체 연구실 사고 2년 새 78%↑…정부, 특별 현장점검 추진",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DZ1pobExTc3dTSzV0dWh3N3VvLTdDRkJ4eGo2ZEN2MEZpb0FvUlMwdWNPVVNUd19lUmwzWS1lbVFycUFMUW5kRVFpRTBYR0k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T05:17:00+00:00"
-    },
-    {
-      "t": "[마켓 ING]7000선 안착 코스피, 美 경제지표·마이크론 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HUExFMkxyU0FBNVNxbEl2WHlvLUlOQXdJVnlIa2hwdlRmOTI5blJlSVN0M3NVWnlwdVlCSklhUGctOGhNclNrVERnTktZdUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T05:03:27+00:00"
-    },
-    {
-      "t": "美는 물가, 中은 경기…글로벌 증시 변수 쏟아진다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ta0hYLUhiam1QbnhDaHBmZDNSc3JaOXkzbE1vMGZJNmFJbGpheUlURnFFaHJ3ZWs4TTM4RHA4aFFUYW5CNUM3RGVNZ3pKMnRucFpHX1g0VkkzQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-27T05:01:39+00:00"
+      "t": "반도체 연구실 사고 2년 새 18→32건… 과기정통부, 내년 22곳 안전점검 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEd4M0U2TEE5TkxzM2Fibi1mT3lQUEhmTi1ITHVFNXVCc1lpaVNhdGFHbTNJZFVvbzc5TXFESWlwNXFKU2IycVlzTTY5UnNoeVlGWGhySXRzY3paVWd5dkFPLTZBUUFwb1dJUjBEUElrMGtpWGxFX3YzdFBGdWNiVXEzcXY5eHJ0cE5BdGx2NUrSAaQBQVVfeXFMTmxtUXg4Ri1pclVpa0wwX3NLeHdrZEVJOVJSaTBBckJBNjVoYXRyLWNmU0FNNjluVUhLb2FVdlp3THRUZGttTEVsTmpIbTAwQ1ZtUmxSdHFaMGZiOUFiekVzdlYxZERScVotTmd5eDBBU2UzS2h6cldrVWNyeWgzUGYycEpMOFU3bzZfempLNTV5aFBVdkRuTl9vYmloTm1VZURMczk?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-27T05:57:00+00:00"
     }
   ],
   "asof": {},
