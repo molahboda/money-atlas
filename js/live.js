@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T19:15:37+00:00",
-  "quotesAt": "2026-09-27T19:15:37+00:00",
-  "newsAt": "2026-09-27T19:15:37+00:00",
+  "fetchedAt": "2026-09-27T19:30:26+00:00",
+  "quotesAt": "2026-09-27T19:30:26+00:00",
+  "newsAt": "2026-09-27T19:30:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"내 주식 오를까\" 개미들 '두근두근'...7000피 안착 변수는 '이것' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BREpiYlBfSHdJcF9NUFUwcG5VSTJNbWhxekhPbjJhcDJad0s1WjRKOEg0dC1SSGR6U3RGdGtIOWNfSmprQ3BRTjdyelMtZFo2NGJkQ0hndEJxQV9sNy0zN2pxRmJ2T3hK0gFuQVVfeXFMT05tb2pYakNyWXNpbnlsdURuYXF0Uk1tUjMzY1FxUjVHUEIxNDFFaGRwQjlQQzNoU2pwVGM4X1ZncTE0emJydW5aaGQtQ0pqdkZSQ3h0djROQ3drNHBZOURWN05HUm15aVFTNDNnSmc?oc=5",
+      "s": "mt.co.kr",
+      "d": "2026-09-27T19:05:00+00:00"
+    },
+    {
+      "t": "원료도 소재도… 반도체 공급망 가격 들썩 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IWG1ZSkZjVS14QmM3cUY3WFFuQXVLa25wbHpWVTlVM0pjc1lCR0Ntc1M4VUEyb3JfaWtkcEtDOHhRM1hvSmFoQU5RTVRtZDE5Uy1lN2xQZjNSdS16NWdFbGgxZTJLei0yaWVWRF9XSWh0NndGTVJlZE130gF_QVVfeXFMUGszS1NpdGEyVzdjSGdHMzZTamtaTFdZQUhvb2dLNHpWd284N2pVZDBwZWc2UnhMbDh4RVZZdGpIYTNpLTd0c2s3aGdoUVV3VW5kNHpQd1lUSlFkWlRNd3JFZHpxc1NYVW9nWEF0VnlwUTZvYmZSbENXREtQRWhlaw?oc=5",
+      "s": "mt.co.kr",
+      "d": "2026-09-27T19:01:00+00:00"
+    },
+    {
       "t": "AI 랠리에 가려진 신호…장기 사이클의 추는 다시 금과 광물로 기운다",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1VaUmRZRHYtdUFxVXJEQ0JiMHMxTTdTZ2ZjUzBPMXphUTN6WWI4QU9XSFdTYXJBTUJoWnh3VWFiaTh0VmNFaHN1Y2FibU16RVg1TGl3a2E3N1ZMUDE1MkFMNkFKb3Q0NTAyWUtaX3VDSkk2ZFlnNFVIQl8wbG9JLUVZcTMxOThQ?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-27T18:55:00+00:00"
+    },
+    {
+      "t": "美재무, 연준 인플레 우려에 \"열린 마음 가져야 해\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpbHRaVXhvdERoWkdVbGdOOUh0WGw1cjBkdi0ybkVoUzhkUmZCR0tDODN1ODd2UmRqcXJGZVFvZlJMMTlldngwUVJDWkpMMVhnMkFjSU1tMHo2QjQtaGhDZF8wUnRDOF95d0RQZEY0M2c?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-27T18:50:34+00:00"
     },
     {
       "t": "155년 통계가 보낸 경고…미국 증시 과열에 시험대 오른 한국 수출주",
@@ -49,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-09-27T17:00:00+00:00"
     },
     {
-      "t": "美재무, 연준 인플레 우려에 \"열린 마음 가져야 해\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE82RS1ybnh4UWhqcThXM0JsdldsVG9NRjBTOXU5LUdZZXFsdzlqNndvWEhuZzZ1V1pveDhhcjBzbmViRm5RMkZhUzlsZlNMZTVXYUhYUjNEX0VVcWcyTDY5S2hraXhicWZyVTkxdURMclNmZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-27T16:50:33+00:00"
-    },
-    {
       "t": "0~1% 국채 속속 만기… 5%대 국채로 틀어막는 선진국",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBubVkwdl9WNEc0Q0Jzc0gxcmlyZHUxYVZoYmhCZS15bjFKQ0g3OG9lVVgwbWtKVExGcXRqN1ZsZDRLdFRWLXF2LTdsa2J0YUk?oc=5",
       "s": "v.daum.net",
@@ -63,26 +75,14 @@ window.LIVE_DATA = {
     {
       "t": "美국채금리 30년물 年5.5%까지 올라… 韓경제 악재될지 촉각",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk03am9UWVhIeE1GRk9kMTluV2kyYW9XaHpycjlZLVVORmVLMEhudHBvTGtHUWdIdnVvaDRJTnVkcmFfMi1nT1F0TjNFMFZhRkRGVVVjaWROZWJZemNUckR2Ti1wQdIBZkFVX3lxTE5kQk03am9UWVhIeE1GRk9kMTluV2kyYW9XaHpycjlZLVVORmVLMEhudHBvTGtHUWdIdnVvaDRJTnVkcmFfMi1nT1F0TjNFMFZhRkRGVVVjaWROZWJZemNUckR2Ti1wQQ?oc=5",
-      "s": "donga.com",
+      "s": "동아일보",
       "d": "2026-09-27T15:30:00+00:00"
     },
     {
       "t": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00STVaTlhyVXY4UmVuM0VOc2d5aXAtTWNtbDJ0Q1l5alZMTHNpdHZHdlo2OUViNFVSRm1fSlpiVUFjNUJseGNMMnNHZ0I3THRLRS1yQ1dmUDN0eWpvSm9JOF9MLW9Kd9IBZkFVX3lxTE00STVaTlhyVXY4UmVuM0VOc2d5aXAtTWNtbDJ0Q1l5alZMTHNpdHZHdlo2OUViNFVSRm1fSlpiVUFjNUJseGNMMnNHZ0I3THRLRS1yQ1dmUDN0eWpvSm9JOF9MLW9Kdw?oc=5",
-      "s": "donga.com",
+      "s": "동아일보",
       "d": "2026-09-27T15:30:00+00:00"
-    },
-    {
-      "t": "제조업 경기전망 2분기 연속 상승, 반도체 역대 최대",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HLXpRVVlpWi1ZbnBXQ3F4anRnTER3VWlVTTB2Q1hZN3ItNldoVXB0MGtRVkZhenhVNzMxY3IxTF92dHU4dlhhbDhEU2w1YlN1ZURMY2Q1akVnMWtXZDRCcjNBY3hWQdIBZkFVX3lxTE5HLXpRVVlpWi1ZbnBXQ3F4anRnTER3VWlVTTB2Q1hZN3ItNldoVXB0MGtRVkZhenhVNzMxY3IxTF92dHU4dlhhbDhEU2w1YlN1ZURMY2Q1akVnMWtXZDRCcjNBY3hWQQ?oc=5",
-      "s": "donga.com",
-      "d": "2026-09-27T15:30:00+00:00"
-    },
-    {
-      "t": "반도체 호황에 올해 세수 465조… 미래대응기금 200조 넘을 듯",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GbWZwbkVEZ0Frc25JZjlCSERDT3JSdGxsYUdUZmc1WUExOVlkbG8yQ0o0bi1nYld3MTZwcUd3cFg4Z2ZDd094cWxqRXJLeEU2eUVWSTU2d0V4WXFmMFZUQkdXelhka283aVNNb2JtTQ?oc=5",
-      "s": "seoul.co.kr",
-      "d": "2026-09-27T15:27:04+00:00"
     }
   ],
   "asof": {},
