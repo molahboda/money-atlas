@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T20:00:30+00:00",
-  "quotesAt": "2026-09-27T20:00:30+00:00",
-  "newsAt": "2026-09-27T20:00:30+00:00",
+  "fetchedAt": "2026-09-27T20:15:26+00:00",
+  "quotesAt": "2026-09-27T20:15:26+00:00",
+  "newsAt": "2026-09-27T20:15:26+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "“물가 2%대 후반으로 내려오겠지만…이른 추석·고유가가 복병”",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb293YmZKU2FvT3c3LTNOaTJFa0MyNGI4M19wT2pYb0RqRmdDcG1kMVZENk5HeTEzUWNyQkJvMjM3LXQ5NXE4V1ppQ3VRT3Z4S3FDWmh4Rkk0ZUFrRlkwOU15UWFsX3hSOHJZOFNmWThscmtUb0xobDNvNkZER0E1NA?oc=5",
-      "s": "edaily.co.kr",
-      "d": "2026-09-27T19:55:03+00:00"
+      "t": "추석 끝나면 코스피 대체로 올랐다…삼전닉스 상승세 이어갈까",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hbjV3c1FhdjhWSlFiV1NzS3BxRGlTdUdYck1MWE9PcDdNeXVIOGh6SElZM1hfSFA0WVVTSUhTb2FlM0V5SXgzajIxSXB2RWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T20:03:17+00:00"
+    },
+    {
+      "t": "은행 갈아타기 대출 금리 신규보다 높아 효과 의문 [경제 레이더]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3MElTSTNXVTFpOGZiazRJc1V0Y1ItaEQ3ZEM1TnI3d0lQaGo3NDRnZVBxUE8yM2tfXzR5dFBBaUFfMTZrSDlqUTFTR1F5T3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T20:02:00+00:00"
+    },
+    {
+      "t": "삼성전자가 이끈 '역대급' 호황...韓반도체·부품·에너지 기업 낙수효과",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51WE10THFPRnZld3R1a09KdElwRUhCcjNlRXVsaElSbFdvai1GYWR0eWZ3N1MyaWRDdEhJOVlpSTFXbWlkRG1ZbGppU1VVQUU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T20:00:00+00:00"
     },
     {
       "t": "베선트 \"연준, 금리에 열린 마음 가져야…AI 생산성이 물가 억제\"",
@@ -43,12 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-09-27T19:36:06+00:00"
     },
     {
-      "t": "수도권 반도체 공장에 전북이 핵심 소재 공급",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WWWRiUHEzOGFnb3A4M0VMVjIxbE13eDJLeF9MXzBoNldBazQ1M0w0elJ5cmxsZXZtYnROeFo0NWdzeFRiWXVibnJxSnBpX1k?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T19:33:58+00:00"
-    },
-    {
       "t": "트럼프-시진핑, 관세 낮추고 ‘AI 핫라인’… 대만-이란 충돌은 피해",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVkxiblBFUnVwbkhfRHJ4T0hSUDFhY0U4b3BWZl85YUFvZERwQnhRYlJZZkdGWGhFd1duNk1xSFF0eGo2em9LZktZSm5XWm1VQnBKY0FDX21NY2ExRmpwQjB6ZGhyakZMS2w0ZnhXMlFhQUXSAWZBVV95cUxNQ041ZlN6STFHLTkycC1hU1BsRFc4NThLU1NmbXRTN1pfLTA2LWFlaXp5REllRGNtQldaZnB5ZTc2aUplWDE0bDVZcDlINjNhYzlwZDJTRUxlS2FXWnkyNGNneG1oa1E?oc=5",
       "s": "동아일보",
@@ -58,6 +64,12 @@ window.LIVE_DATA = {
       "t": "K증시에 지친 투자자들 … 대피처로 꼽히는 이곳은?",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQdGt3QWgxMU5EVGNMMERaMHZ2QWRCWkl2OVpMM2dhU2IzYVdUakxxUEpHMFNhdWdXVWI5X1JVdjIxYXJvd3BRekw0dDk5eWQ5X3c?oc=5",
       "s": "매일경제",
+      "d": "2026-09-27T19:30:00+00:00"
+    },
+    {
+      "t": "수도권 반도체 공장에 전북이 핵심 소재 공급",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4ybGt6VzRkZE5FelVEVFV5enRwUWJUQVlCcHg1Tzd2UnNsU1NzM2ZySWRuaTVkUnN4RFVBcjI0SEppWFF5dGVibExLdld2XzhVMjJpMEI2U19wbGJwRlY5bkcxcURkYmdNSlVWeXhkdUdSWk8tUnfSAWZBVV95cUxOcDJ4RnhYbzY0UUs5allDV3F1OW00UUtTUjc4YzNQeWZySTVqTml0TTRtc0MzTkZsVFpyX0pDdlFrazFKWnZJeVVzc3c4eVJFN0VuZHBzdXQwdTgxUm1GVml0cWVZclE?oc=5",
+      "s": "동아일보",
       "d": "2026-09-27T19:30:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tdjlWV1ZBZDEtNWhhM2xwQllJbGYtazN4STc1NjFDM3VRQXBJOFZxY2tjSGZWYldwOEp3eFJYTDZOZ2hrUUFTNVRKeEpLaHM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-27T19:21:29+00:00"
-    },
-    {
-      "t": "\"내 주식 오를까\" 개미들 '두근두근'...7000피 안착 변수는 '이것' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BREpiYlBfSHdJcF9NUFUwcG5VSTJNbWhxekhPbjJhcDJad0s1WjRKOEg0dC1SSGR6U3RGdGtIOWNfSmprQ3BRTjdyelMtZFo2NGJkQ0hndEJxQV9sNy0zN2pxRmJ2T3hK0gFuQVVfeXFMT05tb2pYakNyWXNpbnlsdURuYXF0Uk1tUjMzY1FxUjVHUEIxNDFFaGRwQjlQQzNoU2pwVGM4X1ZncTE0emJydW5aaGQtQ0pqdkZSQ3h0djROQ3drNHBZOURWN05HUm15aVFTNDNnSmc?oc=5",
-      "s": "mt.co.kr",
-      "d": "2026-09-27T19:05:00+00:00"
-    },
-    {
-      "t": "원료도 소재도… 반도체 공급망 가격 들썩 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IWG1ZSkZjVS14QmM3cUY3WFFuQXVLa25wbHpWVTlVM0pjc1lCR0Ntc1M4VUEyb3JfaWtkcEtDOHhRM1hvSmFoQU5RTVRtZDE5Uy1lN2xQZjNSdS16NWdFbGgxZTJLei0yaWVWRF9XSWh0NndGTVJlZE130gF_QVVfeXFMUGszS1NpdGEyVzdjSGdHMzZTamtaTFdZQUhvb2dLNHpWd284N2pVZDBwZWc2UnhMbDh4RVZZdGpIYTNpLTd0c2s3aGdoUVV3VW5kNHpQd1lUSlFkWlRNd3JFZHpxc1NYVW9nWEF0VnlwUTZvYmZSbENXREtQRWhlaw?oc=5",
-      "s": "mt.co.kr",
-      "d": "2026-09-27T19:01:00+00:00"
     }
   ],
   "asof": {},
