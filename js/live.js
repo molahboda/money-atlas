@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T19:45:32+00:00",
-  "quotesAt": "2026-09-27T19:45:32+00:00",
-  "newsAt": "2026-09-27T19:45:32+00:00",
+  "fetchedAt": "2026-09-27T20:00:30+00:00",
+  "quotesAt": "2026-09-27T20:00:30+00:00",
+  "newsAt": "2026-09-27T20:00:30+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,6 +25,54 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“물가 2%대 후반으로 내려오겠지만…이른 추석·고유가가 복병”",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb293YmZKU2FvT3c3LTNOaTJFa0MyNGI4M19wT2pYb0RqRmdDcG1kMVZENk5HeTEzUWNyQkJvMjM3LXQ5NXE4V1ppQ3VRT3Z4S3FDWmh4Rkk0ZUFrRlkwOU15UWFsX3hSOHJZOFNmWThscmtUb0xobDNvNkZER0E1NA?oc=5",
+      "s": "edaily.co.kr",
+      "d": "2026-09-27T19:55:03+00:00"
+    },
+    {
+      "t": "베선트 \"연준, 금리에 열린 마음 가져야…AI 생산성이 물가 억제\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWc282UlFmWFhvTHlvVFpYNGNRU3l4RFp1aFpwNHM4RTBTRjNCejBWMTI0T21IX1Q3TjVLdno1ZThuTWMxM3VqQl85OWFFcVBzNEllTGwzWGFZR284UTNqcFpWOGp4NknSAWxBVV95cUxOLWtXczVjZ1ZPSTViR2pkNkRENzlZMlBCM09fbFJWQmJReTZtdEE5RUxRS2tBbHNPS3ppVEhtYzJlZjlTU0UtOW1acEVnTVdvbjd4RE1XOUd5QU1jaTI5WE5SSENfb2ZRTmQxY1U?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-27T19:53:32+00:00"
+    },
+    {
+      "t": "[글로벌 비즈 브리핑] 美 국채금리 5% '뉴노멀'...\"30년물 연내 6% 넘는다\" 外",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FM2hHVmtNRDVwbXpXRkdaNjBrS3podC1OaDI5bndrMnZ5b1kxd29CaHNmRlBMazM0NmZEM3ZFdmY1VlVNME9WTEIwMTdDeE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T19:36:06+00:00"
+    },
+    {
+      "t": "수도권 반도체 공장에 전북이 핵심 소재 공급",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WWWRiUHEzOGFnb3A4M0VMVjIxbE13eDJLeF9MXzBoNldBazQ1M0w0elJ5cmxsZXZtYnROeFo0NWdzeFRiWXVibnJxSnBpX1k?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T19:33:58+00:00"
+    },
+    {
+      "t": "트럼프-시진핑, 관세 낮추고 ‘AI 핫라인’… 대만-이란 충돌은 피해",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVkxiblBFUnVwbkhfRHJ4T0hSUDFhY0U4b3BWZl85YUFvZERwQnhRYlJZZkdGWGhFd1duNk1xSFF0eGo2em9LZktZSm5XWm1VQnBKY0FDX21NY2ExRmpwQjB6ZGhyakZMS2w0ZnhXMlFhQUXSAWZBVV95cUxNQ041ZlN6STFHLTkycC1hU1BsRFc4NThLU1NmbXRTN1pfLTA2LWFlaXp5REllRGNtQldaZnB5ZTc2aUplWDE0bDVZcDlINjNhYzlwZDJTRUxlS2FXWnkyNGNneG1oa1E?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-27T19:30:00+00:00"
+    },
+    {
+      "t": "K증시에 지친 투자자들 … 대피처로 꼽히는 이곳은?",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQdGt3QWgxMU5EVGNMMERaMHZ2QWRCWkl2OVpMM2dhU2IzYVdUakxxUEpHMFNhdWdXVWI5X1JVdjIxYXJvd3BRekw0dDk5eWQ5X3c?oc=5",
+      "s": "매일경제",
+      "d": "2026-09-27T19:30:00+00:00"
+    },
+    {
+      "t": "美 국채금리 5% '뉴노멀'...\"30년물 연내 6% 넘는다\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xRXZzNm9Ta2t3TTN6ZXJRT3FWVWF5NTc3X1lwdzRXRmZhWkxlMjNPQjdDSFRQSzZfcXFtM1ZCZVdzaVRzRDJxYkc3V1lqM1E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T19:24:03+00:00"
+    },
+    {
+      "t": "\"금도 비트코인도 아니었다\"…올해 재테크 수익률 1위는 코스피200",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tdjlWV1ZBZDEtNWhhM2xwQllJbGYtazN4STc1NjFDM3VRQXBJOFZxY2tjSGZWYldwOEp3eFJYTDZOZ2hrUUFTNVRKeEpLaHM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T19:21:29+00:00"
+    },
+    {
       "t": "\"내 주식 오를까\" 개미들 '두근두근'...7000피 안착 변수는 '이것' - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BREpiYlBfSHdJcF9NUFUwcG5VSTJNbWhxekhPbjJhcDJad0s1WjRKOEg0dC1SSGR6U3RGdGtIOWNfSmprQ3BRTjdyelMtZFo2NGJkQ0hndEJxQV9sNy0zN2pxRmJ2T3hK0gFuQVVfeXFMT05tb2pYakNyWXNpbnlsdURuYXF0Uk1tUjMzY1FxUjVHUEIxNDFFaGRwQjlQQzNoU2pwVGM4X1ZncTE0emJydW5aaGQtQ0pqdkZSQ3h0djROQ3drNHBZOURWN05HUm15aVFTNDNnSmc?oc=5",
       "s": "mt.co.kr",
@@ -35,54 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IWG1ZSkZjVS14QmM3cUY3WFFuQXVLa25wbHpWVTlVM0pjc1lCR0Ntc1M4VUEyb3JfaWtkcEtDOHhRM1hvSmFoQU5RTVRtZDE5Uy1lN2xQZjNSdS16NWdFbGgxZTJLei0yaWVWRF9XSWh0NndGTVJlZE130gF_QVVfeXFMUGszS1NpdGEyVzdjSGdHMzZTamtaTFdZQUhvb2dLNHpWd284N2pVZDBwZWc2UnhMbDh4RVZZdGpIYTNpLTd0c2s3aGdoUVV3VW5kNHpQd1lUSlFkWlRNd3JFZHpxc1NYVW9nWEF0VnlwUTZvYmZSbENXREtQRWhlaw?oc=5",
       "s": "mt.co.kr",
       "d": "2026-09-27T19:01:00+00:00"
-    },
-    {
-      "t": "AI 랠리에 가려진 신호…장기 사이클의 추는 다시 금과 광물로 기운다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1VaUmRZRHYtdUFxVXJEQ0JiMHMxTTdTZ2ZjUzBPMXphUTN6WWI4QU9XSFdTYXJBTUJoWnh3VWFiaTh0VmNFaHN1Y2FibU16RVg1TGl3a2E3N1ZMUDE1MkFMNkFKb3Q0NTAyWUtaX3VDSkk2ZFlnNFVIQl8wbG9JLUVZcTMxOThQ?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-27T18:55:00+00:00"
-    },
-    {
-      "t": "美재무, 연준 인플레 우려에 \"열린 마음 가져야 해\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpbHRaVXhvdERoWkdVbGdOOUh0WGw1cjBkdi0ybkVoUzhkUmZCR0tDODN1ODd2UmRqcXJGZVFvZlJMMTlldngwUVJDWkpMMVhnMkFjSU1tMHo2QjQtaGhDZF8wUnRDOF95d0RQZEY0M2c?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-27T18:50:34+00:00"
-    },
-    {
-      "t": "155년 통계가 보낸 경고…미국 증시 과열에 시험대 오른 한국 수출주",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3NWdDRBdUQyMzFzaXc2R2IwZTBCblp3bHJ0Q25GRXVEeHJEQVdYX1hCd3BIWjRNMzd2OFlhWWRJZXhQTkQwREFkN0tFVGlxR3FPSGV0Q1BYQXFvQno5QzZjeFh6WUJXWk1TRUlJTXJzTHF1M3MzM3psLWVYU1dLOHJndEVOSjJF?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-27T18:05:00+00:00"
-    },
-    {
-      "t": "채권 금리 상승이 유럽 주식에 미치는 영향은? UBS 분석",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81MlNBZWVqUlhiQ1BCdTZyMWVWdWk4eEpvVVMxc3pGdldXWGlLMmpkX2lSWVJvbkhyNENFM081Uktpb2s4c2F0bGFZYjlWemhJQ2o4dW5PcmtBZWY3OXFRMkpfQS1hUmo0SEtnT2VGVUs?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-27T17:04:00+00:00"
-    },
-    {
-      "t": "美 농민들 관세·고유가에 불만…공화당 지지 흔들",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGxicFV1ODhfaDlWMkFuUkJKbXRrSVBuS2RMQmlZalMtcFJRb052TFZOdmE2QzBzVWJYRWE0aWVvYlZMZU0tRjBKTUtjaEpQbkhIZC05andaRTFGbjlQUG1xa1QxNnRVVHM5ZktpcmgxNmRBR1B6d29TT1E2MWZtWEhRc0Rld2JS?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-27T17:00:00+00:00"
-    },
-    {
-      "t": "0~1% 국채 속속 만기… 5%대 국채로 틀어막는 선진국",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBubVkwdl9WNEc0Q0Jzc0gxcmlyZHUxYVZoYmhCZS15bjFKQ0g3OG9lVVgwbWtKVExGcXRqN1ZsZDRLdFRWLXF2LTdsa2J0YUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T15:33:12+00:00"
-    },
-    {
-      "t": "美국채금리 30년물 年5.5%까지 올라… 韓경제 악재될지 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQk03am9UWVhIeE1GRk9kMTluV2kyYW9XaHpycjlZLVVORmVLMEhudHBvTGtHUWdIdnVvaDRJTnVkcmFfMi1nT1F0TjNFMFZhRkRGVVVjaWROZWJZemNUckR2Ti1wQdIBZkFVX3lxTE5kQk03am9UWVhIeE1GRk9kMTluV2kyYW9XaHpycjlZLVVORmVLMEhudHBvTGtHUWdIdnVvaDRJTnVkcmFfMi1nT1F0TjNFMFZhRkRGVVVjaWROZWJZemNUckR2Ti1wQQ?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-27T15:30:00+00:00"
-    },
-    {
-      "t": "올 수익률 1위 ‘코스피200 ETF’, 정기예금의 40.6배",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00STVaTlhyVXY4UmVuM0VOc2d5aXAtTWNtbDJ0Q1l5alZMTHNpdHZHdlo2OUViNFVSRm1fSlpiVUFjNUJseGNMMnNHZ0I3THRLRS1yQ1dmUDN0eWpvSm9JOF9MLW9Kd9IBZkFVX3lxTE00STVaTlhyVXY4UmVuM0VOc2d5aXAtTWNtbDJ0Q1l5alZMTHNpdHZHdlo2OUViNFVSRm1fSlpiVUFjNUJseGNMMnNHZ0I3THRLRS1yQ1dmUDN0eWpvSm9JOF9MLW9Kdw?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-27T15:30:00+00:00"
     }
   ],
   "asof": {},
