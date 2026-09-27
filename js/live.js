@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T14:30:35+00:00",
-  "quotesAt": "2026-09-27T14:30:35+00:00",
-  "newsAt": "2026-09-27T14:30:35+00:00",
+  "fetchedAt": "2026-09-27T14:45:25+00:00",
+  "quotesAt": "2026-09-27T14:45:25+00:00",
+  "newsAt": "2026-09-27T14:45:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -26,7 +26,7 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "추석 민심, '민생 우려' 속 '반도체·통합' 기대",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44UVA3ZTlkYnlVeFdZcDk3UUNRa0tyeF9Nb2NtUTItYl9nWEJBNVRKczlVZXMycFQ3MXNSODVibWVBY2Q3c1haWjIxb0RtYnYtd2pIejRRa2Vyai01ZVhqMm9B?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJS1NmRmZEYnJsSmk2S2tKZ1FTRl9JTHM5R2wyVXFtN25tSWxyNnkwTzl4dW14TnBjd01vRGRERFZ2V3hxMXVSUUJjQ3EwbWxnZ1l2eXVZNEg2d3lxZFpaSA?oc=5",
       "s": "KBC광주방송",
       "d": "2026-09-27T14:19:33+00:00"
     },
