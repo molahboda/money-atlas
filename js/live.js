@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T13:00:34+00:00",
-  "quotesAt": "2026-09-27T13:00:34+00:00",
-  "newsAt": "2026-09-27T13:00:34+00:00",
+  "fetchedAt": "2026-09-27T13:15:27+00:00",
+  "quotesAt": "2026-09-27T13:15:27+00:00",
+  "newsAt": "2026-09-27T13:15:27+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "GH·이천시, 18만㎡ 반도체 소부장 클러스터 조성…2029년 착공 목표",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUt2M0x1VnlPRFpYZXAyOVBHcy13d2lxb3JEZDR3aTMwYmFjNzBoNVE3bVR1MUthUWxsY2hvNlNHMVpfbEE3TFpyalZrak5xY2kyelNaalowRzNJUjFHV2tkak9rVDNsRHhiN1VObjhBRHN0TWplcUhoX0RWYmhNYm5OMGwzVjdIbTZ3?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-27T12:46:08+00:00"
+    },
     {
       "t": "연휴 이후 집값, 금리 부담에도 공급절벽 변수…\"지역별 차별화\" : 네이버 블로그",
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjdWQmN4YVNxNC1ZTVhHcmUxdGd1Q0tITWFLdWtCR3ZkSVQ4a2JOVzE5cGJIX1FXUE1qRGZ6NU9HcGEtZlNqUE92UFlQSU5UNzlsN2hMQXM4cmxNRDQtQ3hGbG40aEllMmFHQlBZT0dRb0dVY0JjTkpsVnJXOE9CY0Z2a1hac3lFa0NaOXo3UQ?oc=5",
@@ -69,20 +75,14 @@ window.LIVE_DATA = {
     {
       "t": "[중국증시 주간 포인트] ②오픈AI 데브데이, 트럼프 AI회의, 구글 TPU 위성, 테슬라 로드스터, 화웨이 어센드 950, 일본∙대만 반도체업계 가격인상, 실적발표 등",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVUw4LVNoMVRkVnFvd3p1WlppeG9jbTh1Q0tqR25XdkpJMHFfMFdzQl9lSXBhRkVmNzdoQ1gyb0VJdkEwUVVJZ0ZIR01EcXl5bXpHTk5WQkJ3eksz?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-09-27T11:24:00+00:00"
     },
     {
-      "t": "올해 초과세수 60조원 넘긴다…반도체 호황이 끌어올린 역대 최대 세수",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE05OXZXSE8xdVRCbndELTZhdlFadDQzUG1yMnN4RE5mUEpkb3RvRno2M1psWUlXY295LWlDNXpDcTRkblJEcDdFOXlYaFJGdmx4bGQxRHE3Yjltbkx5Q2g4SlFkVGg2Z0d3OGhON3FKQXhDdw?oc=5",
-      "s": "hani.co.kr",
-      "d": "2026-09-27T11:22:00+00:00"
-    },
-    {
-      "t": "2026년 재테크 수단별 성적표 보니… ‘코스피200 ETF’가 은행 정기예금 40.6배로 1위",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tb2JvWkhjWERGMnRKTUZzMlZMamNuSnVoNkJ5aEs2M0lMNWRPbEswTERZTW1mVzZCRnZaenJpaDhON2IxLVpDcVowd3VHZzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T11:03:36+00:00"
+      "t": "[중국증시 주간 포인트] ①美 물가∙고용 및 中 제조업 지표, 호르무즈 정세변화, 美 연준 RMP 확대, 인민은행 역레포 유동성, G20 무역장관회의, 설탕가격 상승 등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqT0VMZW9xeHF3MkdzeE8wcGlGOU01bnRMT0RoNGpXSl8zSW5XaDdJNUloaHhaWm1aSnhVU3N2MkFqS2k4N25UdzZXR1Qtc1FLdVFNd0lSb1h6U0xK?oc=5",
+      "s": "newspim.com",
+      "d": "2026-09-27T11:23:00+00:00"
     }
   ],
   "asof": {},
