@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T12:30:26+00:00",
-  "quotesAt": "2026-09-27T12:30:26+00:00",
-  "newsAt": "2026-09-27T12:30:26+00:00",
+  "fetchedAt": "2026-09-27T12:45:25+00:00",
+  "quotesAt": "2026-09-27T12:45:25+00:00",
+  "newsAt": "2026-09-27T12:45:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -51,7 +51,7 @@ window.LIVE_DATA = {
     {
       "t": "금리 치솟아도, 주가 안 떨어졌다…‘돈의 공식’ 바뀌나",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qTGJhS05PT3B0UlBxTFA2dExTcDhNT0FoSEpkVHlrMl9tdlhyZFN5Q0lvLWpEYVFjckhWSzVjSFVDV3B3V2dqeXlRZGtLa2xjMWlaZ2Nnb28xQdIBX0FVX3lxTE1weHRXOG15cnpqZ3g1UE01UEEyd2JReUkxbnJfUndrSXBseFJwdU5OSzNrRzhfRl9pYnlhOGFuN2xQRGFnSTQ1dDFsQTFxWmE2YzZGREZUN3ZVb3hmWjVn?oc=5",
-      "s": "khan.co.kr",
+      "s": "경향신문",
       "d": "2026-09-27T12:01:00+00:00"
     },
     {
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-09-27T11:24:00+00:00"
     },
     {
+      "t": "올해 초과세수 60조원 넘긴다…반도체 호황이 끌어올린 역대 최대 세수",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE05OXZXSE8xdVRCbndELTZhdlFadDQzUG1yMnN4RE5mUEpkb3RvRno2M1psWUlXY295LWlDNXpDcTRkblJEcDdFOXlYaFJGdmx4bGQxRHE3Yjltbkx5Q2g4SlFkVGg2Z0d3OGhON3FKQXhDdw?oc=5",
+      "s": "hani.co.kr",
+      "d": "2026-09-27T11:22:00+00:00"
+    },
+    {
       "t": "2026년 재테크 수단별 성적표 보니… ‘코스피200 ETF’가 은행 정기예금 40.6배로 1위",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tb2JvWkhjWERGMnRKTUZzMlZMamNuSnVoNkJ5aEs2M0lMNWRPbEswTERZTW1mVzZCRnZaenJpaDhON2IxLVpDcVowd3VHZzg?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-27T11:03:36+00:00"
-    },
-    {
-      "t": "대경권 성장엔진 살린다… 대구시 시스템반도체 육성 박차",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PQ0R5LU1MdlRUTVp1b0RsNnVYcnczdXRhNVVrVHhhd1E4TFVCS2hZM3pZRVdGMnlfUWROeVZEdVc2YUswWWJ3VkhwcXJLd3FaUDdpTmMxZVl0UllFODhuV2xvdnhjZzVpeVE?oc=5",
-      "s": "hidomin.com",
-      "d": "2026-09-27T10:53:46+00:00"
     }
   ],
   "asof": {},
