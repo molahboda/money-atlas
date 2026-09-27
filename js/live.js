@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T13:30:23+00:00",
-  "quotesAt": "2026-09-27T13:30:23+00:00",
-  "newsAt": "2026-09-27T13:30:23+00:00",
+  "fetchedAt": "2026-09-27T13:45:24+00:00",
+  "quotesAt": "2026-09-27T13:45:24+00:00",
+  "newsAt": "2026-09-27T13:45:24+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "금융당국, 정책대출·고정금리 확대…금리상승기 부담 완화",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZXFOcjFxdjBSMWVVek5VYk0xTk11WF82SWVHN0VXSTZvUGJ3NkV3ZzVBZ0FoVVVTWjI4NmJOM0tZSktuTVBKUkVpQTZZV2ZxMThhOG9SMFJWQnlPd3lmYmlPT25BWjhNeE9LeVNR?oc=5",
+      "s": "알파경제",
+      "d": "2026-09-27T13:37:17+00:00"
+    },
     {
       "t": "제조업 경기전망 두 분기 연속 개선… 반도체가 끌었지만 수익성 부담은 여전",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91cGwwX0h1Qjl1cFdZWlc0VExlRGxXT0pRVm50RVNseEFjVlhTZVBnZFJjdGIyc2d0N2xfSnRnMXAwZVZIUm9FV0p6ajhlWGwwT3BxTFJXQTAtOW1ZbGpMQWNLQkJwdnpES3c?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CN1laa0lLSm93d2huYTRkMVJORGlmc0hVb1FlWkc0TGwxWktULUFpWWRSOG5CejlJMF9UTEV4OTdWMl9nLTZOOFdtTQ?oc=5",
       "s": "아이뉴스24",
       "d": "2026-09-27T11:25:47+00:00"
-    },
-    {
-      "t": "[중국증시 주간 포인트] ②오픈AI 데브데이, 트럼프 AI회의, 구글 TPU 위성, 테슬라 로드스터, 화웨이 어센드 950, 일본∙대만 반도체업계 가격인상, 실적발표 등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVUw4LVNoMVRkVnFvd3p1WlppeG9jbTh1Q0tqR25XdkpJMHFfMFdzQl9lSXBhRkVmNzdoQ1gyb0VJdkEwUVVJZ0ZIR01EcXl5bXpHTk5WQkJ3eksz?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-27T11:24:00+00:00"
     }
   ],
   "asof": {},
