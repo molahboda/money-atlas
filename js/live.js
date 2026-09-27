@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T14:45:25+00:00",
-  "quotesAt": "2026-09-27T14:45:25+00:00",
-  "newsAt": "2026-09-27T14:45:25+00:00",
+  "fetchedAt": "2026-09-27T15:00:29+00:00",
+  "quotesAt": "2026-09-27T15:00:29+00:00",
+  "newsAt": "2026-09-27T15:00:29+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -55,16 +55,16 @@ window.LIVE_DATA = {
       "d": "2026-09-27T13:18:42+00:00"
     },
     {
+      "t": "\"10월 증시 한번 기대\"…전문가가 꼽은 핵심 변수는, 금리·AI",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FTWVKUTg0emVDTzhTOFRVd19uYTZNRUFCbk9MazN6Tm5zVzF3dVRUcDNkTjFEV0dTR3FyMzVqOUIwZVRsN3ZIcUhIdC1adGFsclh1dnBobDRkUmktQjZoVkM3UWtDVDl1bWZPZVRnSUpTdjB3TDd1YdIBeEFVX3lxTE5FTWVKUTg0emVDTzhTOFRVd19uYTZNRUFCbk9MazN6Tm5zVzF3dVRUcDNkTjFEV0dTR3FyMzVqOUIwZVRsN3ZIcUhIdC1adGFsclh1dnBobDRkUmktQjZoVkM3UWtDVDl1bWZPZVRnSUpTdjB3TDd1YQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-09-27T13:12:24+00:00"
+    },
+    {
       "t": "GH·이천시, 18만㎡ 반도체 소부장 클러스터 조성…2029년 착공 목표",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUt2M0x1VnlPRFpYZXAyOVBHcy13d2lxb3JEZDR3aTMwYmFjNzBoNVE3bVR1MUthUWxsY2hvNlNHMVpfbEE3TFpyalZrak5xY2kyelNaalowRzNJUjFHV2tkak9rVDNsRHhiN1VObjhBRHN0TWplcUhoX0RWYmhNYm5OMGwzVjdIbTZ3?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-27T12:46:08+00:00"
-    },
-    {
-      "t": "연휴 이후 집값, 금리 부담에도 공급절벽 변수…\"지역별 차별화\" : 네이버 블로그",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjdWQmN4YVNxNC1ZTVhHcmUxdGd1Q0tITWFLdWtCR3ZkSVQ4a2JOVzE5cGJIX1FXUE1qRGZ6NU9HcGEtZlNqUE92UFlQSU5UNzlsN2hMQXM4cmxNRDQtQ3hGbG40aEllMmFHQlBZT0dRb0dVY0JjTkpsVnJXOE9CY0Z2a1hac3lFa0NaOXo3UQ?oc=5",
-      "s": "Naver Blog",
-      "d": "2026-09-27T12:23:26+00:00"
     },
     {
       "t": "호남 반도체 3개월…군공항 63만평부터 먼저 개발한다",
