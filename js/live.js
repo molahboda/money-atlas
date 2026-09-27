@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T09:15:29+00:00",
-  "quotesAt": "2026-09-27T09:15:29+00:00",
-  "newsAt": "2026-09-27T09:15:29+00:00",
+  "fetchedAt": "2026-09-27T09:30:24+00:00",
+  "quotesAt": "2026-09-27T09:30:24+00:00",
+  "newsAt": "2026-09-27T09:30:24+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "中 HBM의 추격… \"韓과 기술격차 2년뿐\"[반도체 호황의 그림자]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XekZHNEtISkdfVjVPVGNiTkp2STdMUTZ0bVBiUGw3ZkpKcW9KVlEybWRtNXFKYzhteG1SOE5uSi1Wc3VfbHUzVkVGZ3MxS1U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T09:14:47+00:00"
+    },
+    {
       "t": "커지는 AI 반도체 시장…광주, ‘NPU·첨단패키징’ 승부수",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vampFUDJLQ1NlcnlkRE1zeEVVQWgzNy0wYUo5dTRxZ041VHduVmo2cGJ1V2FVdHp0ZEdYQ0FMUVhjdmdHWHlMSEplbVZfSmM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-27T08:55:02+00:00"
+    },
+    {
+      "t": "환율보다 비싸게 산 엔화 스테이블코인… 2만명 손실봤다 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXdxckN4bl80bXozSkU0MlUtS0wxVTZsTHl4X0tfQk1QYXZvVHRHYkk4UkNPMzV2V0NfSFBScFhZV1JnbjFvb1V3MVk2N2pTTVR1ekN2WGxqNFlnd0xFdlR5TU8wcmQ4XzNKUnd1YmNHMXpHb0hSMVF3Q25seXhKRNIBlAFBVV95cUxOc19PWGZFbVRuYmhpY0lsSVZfV1FrLU4taFQyTmxBRWhjLS1Ld3NIVE4wT1pCV3NRS2gxc2pTSUFtakMyaWo3SXNibGEzd2tHN3pLZFQ0cG5VaG5hdTV0QVFsTkVJbmM2bWxKWFFKZlo5d1dCVlAxMFV1QnIwVlpsQWJWY2xCeW9ObDBCdWtLRkFMYzU5?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-27T08:55:00+00:00"
     },
     {
       "t": "반도체 설비투자 확대 훈풍… 장비주 담은 ETF 강세[ETF 스퀘어]",
@@ -38,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "대출 갈아타라더니…은행 16곳 중 11곳 주담대 ‘금리 역전’",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXzhUT3RFY2tuX0hTd2JyWkQ4TFZKamoxZ0htYV9jSXZFNGdGZUxiYUw2a2RGNlVaWlU4SWNvaHl0UEc2TmtvV3dMYVprNGJxNThFajRraUNuc2kyOUFTNk9vM1NDRnFRRXZKUWU4M3Q1Vk5UenU4QkFrbVRLcTBPby1Jbm5NVVBoWXNsd0ZqNlFSQWM?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjFXZmZrSkpFYU1lU1hIY2F3dllUU0FRN1hjel9abGY1SmtQWG43SFUtRU1rR0tlSkxpdVkySldSRmRZbHg3SFpZMF9WN3k1dnVkZDFaTTZtMTAtQUxjUGZMNEtoTzl6dVZzTjJrQkhCT190eHE1TkdId0U1bGJLYUdac1Z6SHh6MGln?oc=5",
       "s": "국제신문",
       "d": "2026-09-27T08:54:00+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tcFVCa295QWFLX3hqOWxVbVp0dHFPVGxKbnJ6UzY4NGdMV3BiQkhBVXZFVW5ZcHM5MV9CUkt3bGNIYUMwRDN6ZG5hY3NKaWFKXzEwYXJCMFF4dw?oc=5",
       "s": "한국경제",
       "d": "2026-09-27T08:36:29+00:00"
-    },
-    {
-      "t": "평택시 반도체 소부장 육성 > 뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX3lYVEJucUNEbFVuRFJ4YXFJdG9DVWNwd3lOV2p0MlB6TW5WbDROM2kxUHVTNTZCa2tPa3o5VHl0NURTMUlsVGl4Vk5hemdSSTdwd2RlZ3BITmlfdXQ1dXpGY2JFUDJodF9aZjMtVC0?oc=5",
-      "s": "더코리아",
-      "d": "2026-09-27T08:36:00+00:00"
-    },
-    {
-      "t": "반도체 ETF '고공행진'…소부장도 상위권 점령",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSkd1amJ6YmZEX0xjQnk0bWxUNkxIN2JvMkNnY1FpWWNXUU5TdFFnZFZLUWV4VFBEbHpPLXhZUkhGWS1iNUVKYWxZenFaaVpEcEhzUGU3bndlQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-27T08:32:31+00:00"
     }
   ],
   "asof": {},
