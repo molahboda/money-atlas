@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T06:45:23+00:00",
-  "quotesAt": "2026-09-27T06:45:23+00:00",
-  "newsAt": "2026-09-27T06:45:23+00:00",
+  "fetchedAt": "2026-09-27T07:00:34+00:00",
+  "quotesAt": "2026-09-27T07:00:34+00:00",
+  "newsAt": "2026-09-27T07:00:34+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -5.11
   },
   "news": [
+    {
+      "t": "[박근종 칼럼] 반도체 호황에도 고용은 ‘얼음장’, 양질의 일자리 창출로 국정 동력 회복해야",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvZ0NuUjBKSUExa2JqaVdHMHlHRUFjMzY5d2NVVFZUVkdhbGlETWtPbkRucXdqOFJkRklXYnpSMWNfRHhPN01MZ1RrYko?oc=5",
+      "s": "시사일보",
+      "d": "2026-09-27T06:47:00+00:00"
+    },
+    {
+      "t": "美 국채금리 10년물 5%대 '뉴 노멀' …국내 금리·환율도 상승 압력",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNkY0TGdxdlY2VXBUSTdZUXpJMXB6NUpKRnVzcVlxd2xvNGtFNTBrSVBhMjhvY1F2Y3lDcEdZMmdaVkJfY0xZamZzUVpnSlk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T06:42:25+00:00"
+    },
     {
       "t": "[美·中 불안한 휴전] 관세에서 기술로 넓어진 전장…韓산업 새 시험대",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0S0lEV0gxRlJDMlNWVXlmNVUtaGZwQ1IzbTVkazVOekE4eW1sMmFYc2thWE8xbnloT1VrZnI0cy1oZURmb2VKVmZ4RV9GTWs?oc=5",
@@ -63,7 +75,7 @@ window.LIVE_DATA = {
     {
       "t": "19주째 내린 기름값…국제유가와 ‘괴리’ 10월 향방은",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2R1FBWGtNMTgzTi1PZ0VkcThZVGpnZndjZEVQYThJTHh2OEFTUnhxS3pKQVBBU2NMbTZBcHQ5TGVidVlKQklqLVNZNzNTMkx3UXZWY0lvUGVldw?oc=5",
-      "s": "브릿지경제",
+      "s": "viva100.com",
       "d": "2026-09-27T06:18:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qZ1hfN1pkMEFKYmI3Tld2M1JYazAydENMT3ZwaVk1N0R2QjBHTXY4M2dNUEpWRzc0cEsta1Q3SDcxSUNzVGJYOWFKR3l1T1U?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-27T06:04:51+00:00"
-    },
-    {
-      "t": "미국 연준, 10월 금리인상 확률 60% 넘어⋯글로벌 국채금리 일제히 급등",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUlMydlR4VkNjbGFLMGNicFIzWUpOd3RqMkFCWnlfR29xenRyR3BEUUJrNUFEVEFicm92TGkzTG5BM2RCVUI0S1doak9iRW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T06:00:07+00:00"
-    },
-    {
-      "t": "반도체 연구실 사고 2년 새 18→32건… 과기정통부, 내년 22곳 안전점검 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEd4M0U2TEE5TkxzM2Fibi1mT3lQUEhmTi1ITHVFNXVCc1lpaVNhdGFHbTNJZFVvbzc5TXFESWlwNXFKU2IycVlzTTY5UnNoeVlGWGhySXRzY3paVWd5dkFPLTZBUUFwb1dJUjBEUElrMGtpWGxFX3YzdFBGdWNiVXEzcXY5eHJ0cE5BdGx2NUrSAaQBQVVfeXFMTmxtUXg4Ri1pclVpa0wwX3NLeHdrZEVJOVJSaTBBckJBNjVoYXRyLWNmU0FNNjluVUhLb2FVdlp3THRUZGttTEVsTmpIbTAwQ1ZtUmxSdHFaMGZiOUFiekVzdlYxZERScVotTmd5eDBBU2UzS2h6cldrVWNyeWgzUGYycEpMOFU3bzZfempLNTV5aFBVdkRuTl9vYmloTm1VZURMczk?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-27T05:57:00+00:00"
     }
   ],
   "asof": {},
