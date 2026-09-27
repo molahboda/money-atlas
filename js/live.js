@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T08:00:35+00:00",
-  "quotesAt": "2026-09-27T08:00:35+00:00",
-  "newsAt": "2026-09-27T08:00:35+00:00",
+  "fetchedAt": "2026-09-27T08:15:22+00:00",
+  "quotesAt": "2026-09-27T08:15:22+00:00",
+  "newsAt": "2026-09-27T08:15:22+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[박근종 칼럼] 반도체 호황에도 고용은 ‘얼음장’, 양질의 일자리 창출로 국정 동력 회복해야",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvZ0NuUjBKSUExa2JqaVdHMHlHRUFjMzY5d2NVVFZUVkdhbGlETWtPbkRucXdqOFJkRklXYnpSMWNfRHhPN01MZ1RrYko?oc=5",
-      "s": "시사일보",
-      "d": "2026-09-27T06:47:00+00:00"
+      "t": "결국 ‘5% 벽’ 뚫은 미 국채 10년물…전세계 금융시장 ‘뇌관’ 될까",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nREtreWg1MGh1bFgtanFvbTY0d0NYUzhYa20zUlpQR2lHNkFmMEpmeEVabDRiM3BnaEdxLVcxVGJUVHdmUU9UQldBMThjWlJTZ3ZxS0puVGNhVEFCc2daZ0Q5dVVjd2c?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-27T08:13:00+00:00"
     },
     {
-      "t": "美 국채금리 10년물 5%대 '뉴 노멀' …국내 금리·환율도 상승 압력",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wNkY0TGdxdlY2VXBUSTdZUXpJMXB6NUpKRnVzcVlxd2xvNGtFNTBrSVBhMjhvY1F2Y3lDcEdZMmdaVkJfY0xZamZzUVpnSlk?oc=5",
+      "t": "[매경포럼] K반도체 초호황 1년의 숙제",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrS1ZneFh4bzhpTU5haV8tVnRFV2YwWEh6V001SndvczFJdXdBSVlZVVVieXpwOVZGcDdIZzFpTHl6d2tMUU05c2tFNERwcmc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T06:42:25+00:00"
+      "d": "2026-09-27T08:03:05+00:00"
     },
     {
-      "t": "[美·中 불안한 휴전] 관세에서 기술로 넓어진 전장…韓산업 새 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0S0lEV0gxRlJDMlNWVXlmNVUtaGZwQ1IzbTVkazVOekE4eW1sMmFYc2thWE8xbnloT1VrZnI0cy1oZURmb2VKVmZ4RV9GTWs?oc=5",
+      "t": "“금리 한 번 오를 때마다 집값 1.2%씩 떨어진다” 부동산 ‘하락 경보’ 내린 국토연구원 [부동산360]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wR1dqdWdMYnlWN1FaM0l2MUhoQV9uZ2tEYnZRNTIySXA5eGw5TE5jc3liUURtY1dWcl81TUF4NndoOWgtLVA0WUdLeVhxYm8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T06:34:45+00:00"
+      "d": "2026-09-27T08:01:42+00:00"
     },
     {
-      "t": "대학·출연연 반도체 연구실 안전관리 대폭 강화… 특별 현장점검 및 맞춤형 지원 착수",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtalV6TndwZzBSQW1FNDE2cTZHaTZaWVhuek42WkMzdmhKNU1CWnVkVjFWWTZjQmdRaWZvVXljN3RpTS1nTE5scFEwbkc5T3pJZ2J0bEdCYWMtRkVlX21Pd3Z4N0EtalE?oc=5",
-      "s": "기계신문",
-      "d": "2026-09-27T06:32:32+00:00"
-    },
-    {
-      "t": "올해 초과세수 50조원 넘긴다…반도체 호황이 끌어올린 역대 최대 세수",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFQ0tQdVpVRmlKN1Nzc0tPcHRIU0haWTJKTmk4ajRaRExuVHVrWDN0N1JiMHl3d2htSTVkZHZLeGNPT2d6VVl4MHJraGg5SU0?oc=5",
+      "t": "미 국채금리 5%인데 주가는 왜 버티나…“금리가 주연에서 조연으로”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNVXZ1T1I5R0FCck5DSW81NXQ5ZnF2LXpianVfYV8wd0E5RmJ1VGhXZTlZbmZIQnpvSWM0dTZIdEdxNnhZM1V1SXIyZlJFdzA?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T06:31:57+00:00"
+      "d": "2026-09-27T08:01:09+00:00"
     },
     {
-      "t": "[단독] 호남 반도체 댐으로 민가 수몰되는데…주민 협의 없었다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pQ0JnMWx1SkZtSlJBQkJITGRsQ0ZocW8tNV9IaUIzZlVsMVNzODFjcDVLYlBIUUwwZ3hrak9nZGN5Z185NHpoa1Rpcm13RTdad19oRkl2OUYzUQ?oc=5",
+      "t": "금리 민감도 약해진 반도체株…외국인 수급·3분기 실적 관건",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NZVRicVQ1S2J0aUlldW9rV2pSdk9tb1prck1vRjZrZnZvbFZFblFleG9JMWVhZzh0dXNMNlNfR2FIc2xlNUVUWnUteE1KNTg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T08:00:12+00:00"
+    },
+    {
+      "t": "\"AI 시대, 금리는 조연일 뿐\"… 투자 늘고 증시 오른다는 월가",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0aW9JYXJDWlItdkdWZWtZX3doTDdxZDZBb3IzWXVZZjNWdThjY3VweE9lM3VaT043RGFMYTd5RTZMVDk3TnZxUDBxWlF1TDQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T08:00:10+00:00"
+    },
+    {
+      "t": "\"금리 0.25%p 오르면 6개월 뒤 집값 1.2%↓\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fS0VPZVNZWlpwUWZtbEprOUlVQ1U3YUs2emNrUnBRMUxTdnlGV1ZZTkJXSmZBQ29zMXpuT3YxVWFyZFFhVUVTTDFjb05aQXFwMnoyc3FaVThkWlFMVWRLRHRMRld6RG9yR1ctS3NhSnM?oc=5",
+      "s": "비즈워치",
+      "d": "2026-09-27T08:00:02+00:00"
+    },
+    {
+      "t": "[주간환율전망] 중동 긴장·네고 물량 등 재료 혼재···1350원대 박스권",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WUEhXdHZMNnhLRXBJYlkzcU9EV0x5b3VER2hYdkkzNE5Qa1Q3eHBDTEt2SEZZSXdNWVhqZUNDdEFXNmIzWGNiU3ZKNmk5ZTJKU1hCSmc0MVNacGRZTFFoMWxQWGpOSEZuU2c?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-09-27T08:00:00+00:00"
+    },
+    {
+      "t": "[주간증시전망] 턱걸이 '7천피', 이후 향방은?···美PCE·마이크론 실적 '변수'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HQ2F4TG10OHZJV25qOHlaMjBmNDFWYXFxdjdMTTE1aTd6Z0dhcGsweVFUczB1cVNHejNfVWdXdWpwZk91ekxxMi1NVnc3Y3hkLUYyUl9VUy0wcDEzQnJuUEJuUzdXbzNRNmc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-09-27T08:00:00+00:00"
+    },
+    {
+      "t": "겉으론 \"성공적 회담\"…AI·반도체·대만 문제엔 '딴 생각'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tOFNzcHJaemV0TFkxM0R2UkxZV1doa2pkX0dnTWYtZTBmVkVEYXlkYlU5X2lDOGNuV1RRUnhBSHpLcDlEVXVaTjMxUjc0YWF4dHV0d0t6MUhSZw?oc=5",
       "s": "한국경제",
-      "d": "2026-09-27T06:21:00+00:00"
-    },
-    {
-      "t": "반도체 수출 호조에 제조업 전망 ‘기지개’…고비용 탓 수익성은 ‘먹구름’",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zelFhZTNWaWhWZ2pQNFdjemkzN1VJUUhJbWpmZHZBLWJScHphTmxNWjloUHNub1lJR3o4N29rZHVPZ2pJQXhaVldOYjQyZEtoSUJyZG5fMnYzQkE?oc=5",
-      "s": "경기일보",
-      "d": "2026-09-27T06:20:48+00:00"
-    },
-    {
-      "t": "제조업 경기전망 두 분기 연속 개선...반도체 역대 최고",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42QzEwM0YxZEt6OHpTMWFwcG1iTm9OSXFJZkhkU3o3cGQ1RWlrZXBaTW8zVmRaN3VkLW1IV2FVMzdnUTRuN0dmck9PaXhISXQyN3lkUWRmM25TdmxURFE?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-09-27T06:20:00+00:00"
-    },
-    {
-      "t": "19주째 내린 기름값…국제유가와 ‘괴리’ 10월 향방은",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2R1FBWGtNMTgzTi1PZ0VkcThZVGpnZndjZEVQYThJTHh2OEFTUnhxS3pKQVBBU2NMbTZBcHQ5TGVidVlKQklqLVNZNzNTMkx3UXZWY0lvUGVldw?oc=5",
-      "s": "viva100.com",
-      "d": "2026-09-27T06:18:00+00:00"
-    },
-    {
-      "t": "\"이제 출근 하세요\"…日기업 사무실 복귀 확산에 소니 반도체도 합류",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qZ1hfN1pkMEFKYmI3Tld2M1JYazAydENMT3ZwaVk1N0R2QjBHTXY4M2dNUEpWRzc0cEsta1Q3SDcxSUNzVGJYOWFKR3l1T1U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T06:04:51+00:00"
+      "d": "2026-09-27T07:59:45+00:00"
     }
   ],
   "asof": {},
