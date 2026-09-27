@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T03:30:30+00:00",
-  "quotesAt": "2026-09-27T03:30:30+00:00",
-  "newsAt": "2026-09-27T03:30:30+00:00",
+  "fetchedAt": "2026-09-27T03:45:31+00:00",
+  "quotesAt": "2026-09-27T03:45:31+00:00",
+  "newsAt": "2026-09-27T03:45:31+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -39,7 +39,7 @@ window.LIVE_DATA = {
     {
       "t": "제조업 경기 전망 두 분기째 개선…반도체 BSI 139 역대 최고",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMM3ltN0xFUWRSbTIxRUNhV0NKWUhsV1N5dkc2VjZXb3UteHQtdzczSVhnRGlzd3M5Q2QtRUlNU1ktOUQwTnRYNmRJZ0V4TjBjNmlNeTNmRnRyQ1N1eUdkNF9wbUpqWmNwRVVRMEpCenk?oc=5",
-      "s": "news.einfomax.co.kr",
+      "s": "연합인포맥스",
       "d": "2026-09-27T03:00:18+00:00"
     },
     {
@@ -69,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "4Q 제조업 경기 '개선', 2개 분기 연속 상승…'반도체·화장품' 호조",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVG9WOHREdnpBX3BZZHVqM1A2MF9SZGVYeC1Kcm5VaVVTNXdUX1owdEZWdG5Cb1dDOWFydWFRWTBTVGFVeGp1M0lBdDJEanRNWnJUaENocEllZFZhT1YzdmFLU1FJQVhWenAwbURZREQ?oc=5",
-      "s": "shinailbo.co.kr",
+      "s": "신아일보",
       "d": "2026-09-27T03:00:00+00:00"
     },
     {
