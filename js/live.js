@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T02:30:37+00:00",
-  "quotesAt": "2026-09-27T02:30:37+00:00",
-  "newsAt": "2026-09-27T02:30:37+00:00",
+  "fetchedAt": "2026-09-27T02:45:25+00:00",
+  "quotesAt": "2026-09-27T02:45:25+00:00",
+  "newsAt": "2026-09-27T02:45:25+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "금융당국, 고정금리 확대 주력…금리인상기 충격 흡수",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HVGhlR2RUSWE2S2xRXzFIN0J4Q2xYNG1wVE10UEFRYmR2Smh4ak5lY0pabEVKcG1uNTBJcUdnZzdaX01sRlA1UHowY2JkbzhONnVXN2toZlUtTGtDdTN6U1p6YV9kb00?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-27T01:09:00+00:00"
+      "t": "7000선 회복한 증시…美 물가·마이크론 실적 변수 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90QmRJa19mU28xTnVJS29vbnJ5SUd1Ny1ZMW9JdjdtdkRsWVdZUnI2RXY3RXkxR1pnc2lmVUVGSDAxZmVnc19RMDZnTUQyYzlMblFkM2I1UWQ1TTlOZUl5R2FxdzlkYU030gFuQVVfeXFMUHlBdTl6MVZxdmdJYm5lcXpkRTlFMmIwcU5xbUVWelNZVWFyM3dIMXd1RDZ3NXJpQnNWZThDdmFkdFJ4YkVWdDA5dEJNZ3JRWlN5ZnRKSWhjcEVaMG1CSmttSWQ0MGdMVDJRek5wamc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-27T02:34:11+00:00"
     },
     {
-      "t": "“팔 비틀기라고? 천만에”…박홍근 “호남 반도체 팹 증설, 현실적 로드맵 있다”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10a0dNRWpwUFczUDR4NDBTVkpWX3lySTN0TlFHVG9GWlZRT1p5dVdfY2w3WUVOUXRoUU1VWHUtSGVhY3VtQmJIN2dJWG1xRzQ?oc=5",
+      "t": "16개 은행중 11곳, 신규대출보다 대환대출 금리 더 높아",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oSENDcDV4YUZ3cVpGMVFXa25zSWlOZnppZTE5VGNHakhMSFZJazNOYVJ6bTUtOHh5NFFmZ29IUmpPVWJtQWs4aHFBSDNJNHk2NTNGZlV2Y1hXelVuaVdGekwwWXM?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-09-27T02:32:36+00:00"
+    },
+    {
+      "t": "‘코스피 횡보’에 국내 기초자산 ETF 인기 시들…해외·커버드콜 담는 개미들",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdHFvQi1EOV9CQUd0ZFVOSi1BSmpkbWZhZ1ZncTREcmN6TXl0WHl0Mzc3WUlfT0xwS1dSUnNpNm43TFIxZ3lyV3dMZk9ZVlppSC16N1hWa1lhVF95TU1GV0dCdHJqMTR1eGM3RkNidFQwQVNYMlHSAWZBVV95cUxOWC00YTk4VHFEMGJyektNdy0tMTBid1JZeUZTTnlDcmtIMEdnTWFwUUpISmFOUk01RTY1VVEybTQzM2VaUWoyaVU1NGxjcmktcjIwQTdPRm9WRUFKaE9nY2RzdWFadnc?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-27T02:32:01+00:00"
+    },
+    {
+      "t": "추석 끝나자 '국감 전운'…여야, 인사·사법·반도체 놓고 격돌 예고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wZVdhWEdHbWJLU2NlQjZBWTVFZFdBZzJiRFJ6Y3lOMDBCY3JJaHJEZVBHdHQtT0VWYmdnUloxREZYd3EwYkZ3WFJjSlU2SGs?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T01:08:44+00:00"
+      "d": "2026-09-27T02:31:13+00:00"
     },
     {
-      "t": "[속보] 박홍근 “호남 반도체, 기업 팔 비틀기 아냐”",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGVpZzR6M0ZvZlpWY0JUenhSekJRTGpmNF9xYUxEaml4OHNLYVJ3VU05bDFBY1BXTktHNktaMVBfZDZDV3J1VUh4VUR3Z2RWYWVWaHRQY2lOQjVrZ051d1pmYjJVX1dwVGdYRkVzdVd1NGNRSnVNWlh3VWVRNUppS1BRdVhrYmwxS0cw?oc=5",
-      "s": "국제신문",
-      "d": "2026-09-27T01:07:00+00:00"
+      "t": "베트남전에서 배운 이란 '유가 고공행진' 유도…그래도 돈 버는 주식은 [주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SMDdaZUNYZmxKVkFXa1lWVFpZLXNNWGxOUnFickpoWHlRTnIwQzVJTEpuVzZwYk05NmtCeHQxeVQzUG9ubFdmRVBhZUVsWmhuTlFwQUh6WUxzRDNxMVZuQ2lR?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-27T02:29:00+00:00"
     },
     {
-      "t": "광주 아파트 매매가격 상승세 전환…'통합·반도체 효과'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhYXNsVDdCVTdXRDZCRGRWcm4tamNGMmpNQThCVWxiUDc3aVlTcEJmSWx2eWl1WnhIWkJFQy1RcGZxbC1pS2pYM1lUc1U5OWc?oc=5",
+      "t": "갈아타기로 이자 줄이기? 11개 은행, 대환 주담대 금리 더 높아",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pdGwyTGJHOHMxNzRaeEJhOUxtemtZc2NpZURYOExqNnZveHFGTTNmQ3JJb09sWDF2dW5Hb0xSemJwcGNTZktraDBVZjdFYU44WEdGX1dESGpvZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-27T02:23:43+00:00"
+    },
+    {
+      "t": "7,000선 사수 코스피, 연휴 이후 변수는?",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rNmN4MmNmNDRtV1lPNzBMS2V6VmM2UXNhYUNJd0dfLVJpUE5EWGdjMnB1YVppM3pYdmhaSXNuQUNVRGZoQ3NmUy00SjkwZGN2V1FzMGRqam5JcWM3REE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-27T02:21:00+00:00"
+    },
+    {
+      "t": "K-의약품, 美 관세 '0%' 수혜…韓제약바이오 안도 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kcDl0YlRQbm02b21lRXQ1Zm0za3ZNTHpoMGpGSHh2d2g4NzJ0Q0UwUnNpaDZzS2JMMW9TcHRaWjRxdkR4RWFGNTN2Z1o1TkgxTjhHdFN6Q3ZsMHhqeU9rT3F5RzFZckcwZVHSAW9BVV95cUxOSFlVQkE1Vi01Zl9qWC1QUklsdFBwcnk0NzM4RnhsZWd6UENrajk2RlNudTdzS1p4VDBpbFFJd3JGdHZENkM5T05BTExRTl9OeTBpNmhyQnNaSVRZVndhRTllUDBtOFJpZjZhQ214UHc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-27T02:20:00+00:00"
+    },
+    {
+      "t": "中 \"미중 정상회담 8대 성과…AI 대화·300억달러 관세 인하\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hNkRnZW0xMG53R1MwbXlrdEtXQ0pibVRVUXExR3dOUXlac2ZYMnlmdXhJRXk1UnZyb3dtQTJBY2hfamxvc2dxM3hBVllwWHc1S0NlVDM4NEswRUExanlPV2VVcjNobFJs0gFuQVVfeXFMTmhRejFDN2ZWeFppTU9peGFlYXFLVDdBNi1BRDhWRW9WZ28yQUhXTVQxeFFUUmNKc080ZWtDaDZrS2dFMHQtclVxRFFsWXF2anItQVM4cWVqUHF6ODdlQjdkWmMwaW9rMldHb3ItaEE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-27T02:18:33+00:00"
+    },
+    {
+      "t": "8.7만달러 찍은 비트코인, 다시 ‘금리의 벽’…PCE·고용 분수령 [가상자산 나침반]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43T1B3SjVaTWVKbFlUWjhJcV9xcUxhWXRITmxiaUs4UE1UMVRpeVdNb0hxeWxZckpIYm83WTlTY01UUF9BTmlTYjlZOTNaVjA?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-27T01:02:00+00:00"
-    },
-    {
-      "t": "[초점]수입업체 배만 불리는 할당관세…제도 전반 재설계 필요",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TN2VrQkVsUUx4VWp0cWR0cTRrMUZOSXUySGg3Mml5U0dSTDc5OUMtSEM5OGpnNkRfTkptX3FFR093eGpHWVJobVE3YXFPc0xfLXRWbWstMWtNUEROOXZKS1VzM0k?oc=5",
-      "s": "한국세정신문",
-      "d": "2026-09-27T01:00:00+00:00"
-    },
-    {
-      "t": "“갈아타면 싸진다더니”...대환대출 금리, 신규대출보다 높았다",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SGFTUFBwODZVejdkWWo5VmVXX2RoODZ6c084NE92OVF0OHJXd1dRSjd4aFFibERDMDhrYWJkbmp5QU4xakhobjc1bUFRYzhRQjJSSHJsazFsTDA?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-27T00:50:26+00:00"
-    },
-    {
-      "t": "“갈아타면 오히려 손해”… 은행 11곳 대환 대출 ‘금리 역전’ - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDkwNlNNbENrRENZb0ZLU3Z4c0N1OUItR0RyS1ZDM3BHOGdISzNDVk50LWxiSEpWQUtOR3AxN0FUNkY1M0EtQjZYTnc5bzVwWTcxSHJhSTFwQ2tDNjUyMG51WGg1TVlDb2ZfZUYxTWM4d3ZEMVc4WHFLeThnZVVYatIBlAFBVV95cUxPaUxKUU40MENuMk9Oc29reHpWWlhIalJBbVJUZHYzQ3Z6UFhQaUpfR0UtT1dyZzdjUWxVMHRtaDAtc0NmNGRIVmpRckZPNjhESFUyczd3aWJydWwxQXBQV3pReTE0b19oaXZ3Wk43b0JxN09xVktuMW1SOHM0MWtJUzJrOGE0NXBjOTZOTm5YQzMxVmlt?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-27T00:49:00+00:00"
-    },
-    {
-      "t": "\"예금보다 40배↑\"…코스피200 ETF, 올해 재테크 수익률 1위",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTjRmVmNOU21LQnBSOUlaUU1jTkFRRmF3N1FOeDVRQVFsWHdCQ3REV3dVVGVxdzBXaWxhWldLWWNGSThiSjg5eDJaQlZZTnpYYmxfRncwZ01KR19QWE4w?oc=5",
-      "s": "조세일보",
-      "d": "2026-09-27T00:48:46+00:00"
-    },
-    {
-      "t": "추석 지나면 코스피 더 오를까…반도체·방산·화장품 주목 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydGdpbjhtcGFHVDZZeHZCQkpMVmF2bkNHQzZ4c25vTDRmbjYzMzFYLTVHUG14TTF4WllXQjhfS2tvLU1UTVItS1E3THIwREU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T00:42:53+00:00"
-    },
-    {
-      "t": "미국 10년물 국채금리 5.16%..주식투자 매력 소멸 직전",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VdVBXRW9aSXRYZnVyWHJXdjA3dGtMQlpxV1hYQjVhTzZyaWMwMkZYeXppR2ZWVDZMbjg0cFRXd1lNaXJGcVVEYWY3T0FudmtRMGNNLTNscWt4elZIVnMxN0RKeXpSVWZHbEUyaTB4dGFMSzNxOHg0?oc=5",
-      "s": "thecommoditiesnews.com",
-      "d": "2026-09-27T00:42:06+00:00"
+      "d": "2026-09-27T02:16:40+00:00"
     }
   ],
   "asof": {},
