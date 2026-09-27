@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-27T01:00:31+00:00",
-  "quotesAt": "2026-09-27T01:00:31+00:00",
-  "newsAt": "2026-09-27T01:00:31+00:00",
+  "fetchedAt": "2026-09-27T01:15:28+00:00",
+  "quotesAt": "2026-09-27T01:15:28+00:00",
+  "newsAt": "2026-09-27T01:15:28+00:00",
   "quotes": {
     "kospi": 7080.92,
     "spx": 7743.41,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "금융당국, 고정금리 확대 주력…금리인상기 충격 흡수",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HVGhlR2RUSWE2S2xRXzFIN0J4Q2xYNG1wVE10UEFRYmR2Smh4ak5lY0pabEVKcG1uNTBJcUdnZzdaX01sRlA1UHowY2JkbzhONnVXN2toZlUtTGtDdTN6U1p6YV9kb00?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-27T01:09:00+00:00"
+    },
+    {
+      "t": "“팔 비틀기라고? 천만에”…박홍근 “호남 반도체 팹 증설, 현실적 로드맵 있다”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10a0dNRWpwUFczUDR4NDBTVkpWX3lySTN0TlFHVG9GWlZRT1p5dVdfY2w3WUVOUXRoUU1VWHUtSGVhY3VtQmJIN2dJWG1xRzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T01:08:44+00:00"
+    },
+    {
+      "t": "[속보] 박홍근 “호남 반도체, 기업 팔 비틀기 아냐”",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGVpZzR6M0ZvZlpWY0JUenhSekJRTGpmNF9xYUxEaml4OHNLYVJ3VU05bDFBY1BXTktHNktaMVBfZDZDV3J1VUh4VUR3Z2RWYWVWaHRQY2lOQjVrZ051d1pmYjJVX1dwVGdYRkVzdVd1NGNRSnVNWlh3VWVRNUppS1BRdVhrYmwxS0cw?oc=5",
+      "s": "국제신문",
+      "d": "2026-09-27T01:07:00+00:00"
+    },
+    {
+      "t": "광주 아파트 매매가격 상승세 전환…'통합·반도체 효과'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhYXNsVDdCVTdXRDZCRGRWcm4tamNGMmpNQThCVWxiUDc3aVlTcEJmSWx2eWl1WnhIWkJFQy1RcGZxbC1pS2pYM1lUc1U5OWc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T01:02:00+00:00"
+    },
+    {
+      "t": "[초점]수입업체 배만 불리는 할당관세…제도 전반 재설계 필요",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TN2VrQkVsUUx4VWp0cWR0cTRrMUZOSXUySGg3Mml5U0dSTDc5OUMtSEM5OGpnNkRfTkptX3FFR093eGpHWVJobVE3YXFPc0xfLXRWbWstMWtNUEROOXZKS1VzM0k?oc=5",
+      "s": "한국세정신문",
+      "d": "2026-09-27T01:00:00+00:00"
+    },
+    {
+      "t": "“갈아타면 싸진다더니”...대환대출 금리, 신규대출보다 높았다",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2SGFTUFBwODZVejdkWWo5VmVXX2RoODZ6c084NE92OVF0OHJXd1dRSjd4aFFibERDMDhrYWJkbmp5QU4xakhobjc1bUFRYzhRQjJSSHJsazFsTDA?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-27T00:50:26+00:00"
+    },
+    {
+      "t": "“갈아타면 오히려 손해”… 은행 11곳 대환 대출 ‘금리 역전’ - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDkwNlNNbENrRENZb0ZLU3Z4c0N1OUItR0RyS1ZDM3BHOGdISzNDVk50LWxiSEpWQUtOR3AxN0FUNkY1M0EtQjZYTnc5bzVwWTcxSHJhSTFwQ2tDNjUyMG51WGg1TVlDb2ZfZUYxTWM4d3ZEMVc4WHFLeThnZVVYatIBlAFBVV95cUxPaUxKUU40MENuMk9Oc29reHpWWlhIalJBbVJUZHYzQ3Z6UFhQaUpfR0UtT1dyZzdjUWxVMHRtaDAtc0NmNGRIVmpRckZPNjhESFUyczd3aWJydWwxQXBQV3pReTE0b19oaXZ3Wk43b0JxN09xVktuMW1SOHM0MWtJUzJrOGE0NXBjOTZOTm5YQzMxVmlt?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-27T00:49:00+00:00"
+    },
+    {
+      "t": "\"예금보다 40배↑\"…코스피200 ETF, 올해 재테크 수익률 1위",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTjRmVmNOU21LQnBSOUlaUU1jTkFRRmF3N1FOeDVRQVFsWHdCQ3REV3dVVGVxdzBXaWxhWldLWWNGSThiSjg5eDJaQlZZTnpYYmxfRncwZ01KR19QWE4w?oc=5",
+      "s": "조세일보",
+      "d": "2026-09-27T00:48:46+00:00"
+    },
+    {
+      "t": "추석 지나면 코스피 더 오를까…반도체·방산·화장품 주목 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ydGdpbjhtcGFHVDZZeHZCQkpMVmF2bkNHQzZ4c25vTDRmbjYzMzFYLTVHUG14TTF4WllXQjhfS2tvLU1UTVItS1E3THIwREU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-27T00:42:53+00:00"
+    },
+    {
       "t": "미국 10년물 국채금리 5.16%..주식투자 매력 소멸 직전",
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VdVBXRW9aSXRYZnVyWHJXdjA3dGtMQlpxV1hYQjVhTzZyaWMwMkZYeXppR2ZWVDZMbjg0cFRXd1lNaXJGcVVEYWY3T0FudmtRMGNNLTNscWt4elZIVnMxN0RKeXpSVWZHbEUyaTB4dGFMSzNxOHg0?oc=5",
       "s": "thecommoditiesnews.com",
       "d": "2026-09-27T00:42:06+00:00"
-    },
-    {
-      "t": "추석 지나면 코스피 더 오를까…반도체·방산·화장품 주목 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KV0ktWVVtSmt6U0ltd2VzNHhFWEk2RzJyYXFvdXZJRmxIcncyWmczMUxZOUNwbERQRzJHdzV2WG8xbktPbWhCMldETTVhRUcyNHlJZm13?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-09-27T00:41:00+00:00"
-    },
-    {
-      "t": "금·비트코인 다 제쳤다…올해 재테크 1위 ‘코스피200 ETF’ 수익률 80%",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02ZzdZS0MtakFzRzJfcmFpcXZ6SGZhM2huTmp4d1dJUlZ5OEtYQjR4a2NDZVdmQ2Q1cHd5anZwVDFmaXpyZU1ZYTlSc1pkWFE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T00:32:37+00:00"
-    },
-    {
-      "t": "[이번주 증시] 美 물가 및 고용지표 주목...마이크론 실적도 관건",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlMnlKQjg4dl9WOGI0bmJjaVRMenRKTXJUVjNfa3FvSVhONmI2R0trWm51SU1PWGJveWRyRU1OVWkwU2FrbkswVGNRVWdLbzE5WlBWT2xjVk9mYXNmUy1ZRXRXUjJGb2FYeXhoRHJOaVk?oc=5",
-      "s": "opinionnews.co.kr",
-      "d": "2026-09-27T00:30:00+00:00"
-    },
-    {
-      "t": "올해 재테크 수익률 1위는",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tdEZ2OVA4cHpZZzZ2UWpfekRwUXdSUXM2eXFhazM0OEtVeHdabDY1RVkzZEcxdU52UjRKNEp1UWRzV01qb01nOHBldWdFclY2cjcwbU5zM0swYTFHa2dESV9R?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-27T00:28:00+00:00"
-    },
-    {
-      "t": "지난 추석에 100만원 넣었다면…예금은 102만원, 삼전닉스는?",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80ZGJ2MEJjVUNYUEVIWGt2WWVYSUlCbFlrVTdwWHBkSjVoZ2lvM0F2RUdMRHZ3aUZUSzNsaWplZUVIVmE4V0xCekI4VGluS3VzcEE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-27T00:21:37+00:00"
-    },
-    {
-      "t": "시진핑 만찬 다녀온 젠슨 황, 중국 지우고도 1400조 AI 질주 올라탔다",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BaDJPVXJYRUdDS1otU0dGc1d1WmtQSTlCU0NuYlZOb3AwdTRrNHlDcWFlQm5IeHdYczh2d3lJVEdxWDFyRlNKcXp3M0RyOGtIME03Y090RWZFaFVtazZEU1BuN0F6dXc?oc=5",
-      "s": "초이스스탁US",
-      "d": "2026-09-27T00:18:00+00:00"
-    },
-    {
-      "t": "6만원→11만원으로 올랐다…올해 재테크 수익률 1위는 ‘코스피200 ETF’ [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vNmdLTzZJaWI2cHFORkg3WFFMM3BfU0tQZDUzSHVWYTQwUl9qTUlaWk1mTDhIUWJWYzAzR29HOVlGbXVhQlZJd1ltOTlNRmc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T00:15:10+00:00"
-    },
-    {
-      "t": "AI반도체 1200조 시장 열린다…“향후 3~5년이 韓기업 생존 분수령”",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHbjgyel9iWTFPWld6OU9uWHBzNXZhMmE0X25MQjNTelZDMEh5U1FvSUhNek84TTdaSVotVkRITnlEY21rVmlZZUlGc3FsbVpHWGxvTlVDaGlhWXRpS3BuYg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-27T00:14:35+00:00"
-    },
-    {
-      "t": "호남 반도체 용수원 동복댐 용수확보 '증축'으로 변경",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93MHI1aFRxWFg1R3pzOU5ONEV1YW41RXNOVEJvYjg3M2IwV1FDY2sxdVZYQWpRcldKb21Rd3MxMHdlQndvV0ZoR1dEbDZmblk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-27T00:11:49+00:00"
     }
   ],
   "asof": {},
