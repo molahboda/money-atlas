@@ -1,33 +1,33 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T16:45:24+00:00",
-  "quotesAt": "2026-09-28T16:45:24+00:00",
-  "newsAt": "2026-09-28T16:45:24+00:00",
+  "fetchedAt": "2026-09-28T17:00:31+00:00",
+  "quotesAt": "2026-09-28T17:00:31+00:00",
+  "newsAt": "2026-09-28T17:00:31+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7700.29,
+    "spx": 7698.17,
     "nikkei": 65877.62,
-    "vix": 15.77,
-    "krw": 1358.77,
-    "gold": 4168.6,
-    "wti": 92.76,
-    "dxy": 101.12
+    "vix": 15.98,
+    "krw": 1358.72,
+    "gold": 4163.5,
+    "wti": 93.15,
+    "dxy": 101.15
   },
   "daily": {
-    "spx": -0.05,
+    "spx": -0.08,
     "kospi": -1.83,
     "nikkei": -0.73,
     "krw": -0.63,
-    "dxy": 0.15,
-    "gold": -3.53,
-    "wti": 0.38,
-    "vix": 6.05
+    "dxy": 0.18,
+    "gold": -3.65,
+    "wti": 0.8,
+    "vix": 7.46
   },
   "news": [
     {
       "t": "코스피 2.7% 급락 뒤 美반도체도 2.7%↓…엔비디아만 1.9%↑",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlT3NrOGtpdnlXTlRyQl8xbU9jZS1adFJ6Q3RrdGRfaEtUYWtxWVlob05jMGk1QU45d3prM29uel9KbUZGS21NaVQ2N2xWWHRNWU1RMk1mQTFFNWJrU09ncUs2ckpzdUU1?oc=5",
-      "s": "greened.kr",
+      "s": "녹색경제신문",
       "d": "2026-09-28T16:32:08+00:00"
     },
     {
@@ -67,9 +67,15 @@ window.LIVE_DATA = {
       "d": "2026-09-28T15:30:00+00:00"
     },
     {
+      "t": "삼성전기, 세종에 4.3조 투자… AI 수요대응 반도체 기판 증설",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13UWdIR1hXMlFvaFZFamdfSnpGREtqSWxJYmNfNWJmUFFvMVhsYWw1am1uU2V3aEh1RkF0VkRKal8yRFQtVEZmNnNzQU52ZmwtZVdKQ25QOW1zY19GS3lKVFZsWC1Hd9IBZkFVX3lxTE13UWdIR1hXMlFvaFZFamdfSnpGREtqSWxJYmNfNWJmUFFvMVhsYWw1am1uU2V3aEh1RkF0VkRKal8yRFQtVEZmNnNzQU52ZmwtZVdKQ25QOW1zY19GS3lKVFZsWC1Hdw?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-28T15:30:00+00:00"
+    },
+    {
       "t": "미중, 81조 원 규모 상호 관세 인하...트럼프가 공들인 미국 대두는 빠져",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjQwWkp2TE1IVnprOXRLcGV6ZXFZU3g0bDdmQTdnQjE3MHpiMEhxT0pZNklGYmhNX0tMZVBKTzhhOFpjb2FMMXl6c3pjOUsySnlKYTNkWlV0ZTBlNEE?oc=5",
-      "s": "YTN",
+      "s": "ytn.co.kr",
       "d": "2026-09-28T15:25:00+00:00"
     },
     {
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVzRqMGZQVjRfTEl2YWtvbEdTaldfTTV3MXlaeUVCTzBLeFRWWjNyTEJZbGhvcDR6WFBwN2dVRU05M1RYUjJsYnJDXzMwb2pNUU5xdWpieUo2Z2VKd2V0QnZLWWtKM25GNnItdG9YTWV0QQ?oc=5",
       "s": "KB Think",
       "d": "2026-09-28T15:22:22+00:00"
-    },
-    {
-      "t": "미국·중국, 600억달러 규모 상품 관세 인하 합의",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xMEVERGxrVk1NclgtQ3JGT0VmWWxmS1BvTHhEZGxDMXA3bTdzdUgxeGNuX2hfX2lfVHk5Qk5Pelg5dEN3Tk1rQlphdUZWT3V0?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-09-28T15:12:09+00:00"
     }
   ],
   "asof": {},
