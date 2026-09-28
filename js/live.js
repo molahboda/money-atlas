@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T20:00:46+00:00",
-  "quotesAt": "2026-09-28T20:00:46+00:00",
-  "newsAt": "2026-09-28T20:00:46+00:00",
+  "fetchedAt": "2026-09-28T20:15:27+00:00",
+  "quotesAt": "2026-09-28T20:15:27+00:00",
+  "newsAt": "2026-09-28T20:15:27+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7683.93,
+    "spx": 7683.69,
     "nikkei": 65877.62,
-    "vix": 16.11,
-    "krw": 1360.59,
-    "gold": 4159.8,
-    "wti": 92.79,
-    "dxy": 101.21
+    "vix": 16.08,
+    "krw": 1360.4,
+    "gold": 4154.9,
+    "wti": 92.96,
+    "dxy": 101.2
   },
   "daily": {
-    "spx": -0.26,
+    "spx": -0.27,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.5,
-    "dxy": 0.23,
-    "gold": -3.74,
-    "wti": 0.41,
-    "vix": 8.34
+    "krw": -0.51,
+    "dxy": 0.22,
+    "gold": -3.85,
+    "wti": 0.6,
+    "vix": 8.14
   },
   "news": [
     {
-      "t": "미·중, 상호관세 인하…트럼프 공들인 대두는 빠져",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wdGVWUlpxeTJWcTZKdnJxU0tQd0FkRFpPTjNQaGJTU0w2Yy1hY05PSmFyRDUzdTVfWm5FNUVMdGd5YkFuTk0zT1liWHQ2Nzg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T18:06:57+00:00"
+      "t": "[속보]뉴욕증시, 휴전 합의 불발에 하락 마감",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VSXpubFdLNWt3emtpeFJ1ZWhKUHVGVjlOUDBZUldwYTRrbUo2VThfTDA0WTVBc1FIOXNTUFZReDVDMXpNRmxiMEtFeUVVb2ZrYXV6OWI1VHd1TGlMS0phOA?oc=5",
+      "s": "asiae.co.kr",
+      "d": "2026-09-28T20:09:19+00:00"
     },
     {
-      "t": "유럽증시, 트럼프의 이란 '해협 개방안' 퇴짜 소식에 보합권 혼조 마감… 유가 오름세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMDNqeGx6dm9xWW5SbW9LeXlrWGNtdXpibi1LQWVzYVU4Qy04Z2t4dS1UYzFCTUV2cktaUl9Yb2V3dHJoWkxQUnducXFMTmRPaGI3V3ZUR3dKMmNl?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-28T18:04:00+00:00"
-    },
-    {
-      "t": "신고가 쓴 나스닥, 이번 주도 갈까?…'물가·고용'이 가른다[이번주 美 증시는]",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcGxHcGVKYjhrTFlNbnhLY25OQnZraTk1eWpScklnRGJXV0VwMWxqWjc3aUJxMlM4WVp2QzFXZUtfS3lGWEtQWUVNdW5RSTBJWXlN?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-28T18:00:43+00:00"
-    },
-    {
-      "t": "美 채권금리 상승에 금 3%·은 5% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFFrZVdGQTh1MVZ6M3MxM2gtWnJlT21INDdxbG15N2tNUjB2XzJKSm4zR2cxLVFfaWo0Q21jaW43MXBkVGRVTVNYXzljUy1LQUZGSTFXMVV2N2NPQkh5cGFrUFBmRmhGbExXaW9ESHpkMXJiOGQ5R2FocFI0NzRzdWVkaUlyMzVi?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-28T18:00:00+00:00"
-    },
-    {
-      "t": "피터 시프 \"미국 10년물 국채금리 11월 6% 전망…주담대 8% 넘을 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MekZFUlZCMHZGT1AzbkRadkE4enFVa1ZEazVtcU93WUhEaGJwY3VkR1BfUFUwWkNob3V6YllCTkJJNW9ZcGh4Z045azFVbWFf?oc=5",
+      "t": "뉴욕증시, 하락세로 마감…나스닥 0.92%↓",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xd3Z5TWpCYWw4Y0pNT2lXZ0MtbmtoazRaeVFWb2t6eDlJUjQtdm9CY3R3eG9Ga3owZ3VfWmtUU3FhYkJkOEtCd3Z2TmFHTXFM?oc=5",
       "s": "블루밍비트",
-      "d": "2026-09-28T17:27:09+00:00"
+      "d": "2026-09-28T20:07:09+00:00"
     },
     {
-      "t": "라가르드 \"국채금리 상승, 경기 식히고 인플레 전이 제한할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vVnBIU1FTUFBoWW5RdFMwNFhUZkFXQllCOC1TWHlaNmJaMlpyNHItZWtRVE5QR0NBS0RuQTJIRmNQbHFORDJpcFlQckpEWmNVTndoVDZwa21jdmllYU96NEFwZldVTVV0V3J6Zkg1T2Y?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-28T17:22:23+00:00"
+      "t": "순방 마친 李대통령, 반도체 챙긴다…삼성·SK와 메가프로젝트 점검",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIc2tzS3ppWTVib3JLaGRRMjdWWnRIUTVHckVxcVNTUUxPdF9BSUJrNFZpc2lGZzA3dlhPdXZHUFlnc3dkNFNpMWtRMVlBZlFNbTQ0dXY5RDROSW_SAWBBVV95cUxOWFlCVG5kM2QzTVFEVkg0b0Z5OV9hWnZOYlZkdEFJOGFDVXVYTXl3QUt2RUFGUWM2MnBTeHpfYlY4TlBwWExZeXN6RVE2UVZWR1YzVnJ3dlZUQnZwbW1jNEM?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-28T20:05:00+00:00"
     },
     {
-      "t": "유가 뛰자 美국채 금리도 급등…30년물 5.5% 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lSV9MV1pkRFpocUtXTUZOZVdfcy1ORk5vOHd4MHNLUGk2WGZWXzhBWmp4TjV1RERfWjlUcXB6TG5IeFpuT19DOGtvdHg1TjIzenNkTTA4ekIxZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-09-28T17:01:31+00:00"
+      "t": "[속보] 나스닥 0.9% 하락 마감…국채금리-유가 상승 압박 재개",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESkJRRHRtMUZCNlc1SndYRkhJR1pFdjFoUjgwZlBVUUlTUDNLRU5hMGM5MklCbFZxQWxMcWV3ODBIbVFWTG43MHFKMGNQSmwzbm96QXB6d3dpTm5oc0hsclNfSFpybWfSAWxBVV95cUxPQlVMejVaLWVfQnpZQnl0Wkp3TC1nOEZPV1hDTzN2S0U3djBQNE05TENMRzlGNkl4aTA0b29lUmxObGNvOEpWTGdOU3p0eVZOVFpMejVhYVhsYzdCc0hKVDBTN3lZcF83TVpCTWc?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-28T20:03:13+00:00"
     },
     {
-      "t": "美·이란 교착에 달러 두달 최고권…연준 인상 베팅 확대",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTFUdW5UMUd5VV9GTkwzbS1fVDVIdkJwekdxNk5yV1hLOGlBTGRzZ1R1UE01UDA5UnV4bG92SlFuWDNhd1BPYk5qZnh1d3NsU3BBUzR6TmNvQzlBNU43eElHd0ZvbzBlMnZZT19teTNFSTU2d3M4dE4teXJldE03S2EtRnVKbE1N?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-28T17:00:00+00:00"
+      "t": "[단독] 반도체 산단 물 대야 하는데…4년간 하수 재이용 4% 찔끔↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PZ1puVkoyeVJ5Sm1JRm9wR2VucDN3MzBkOTlab1Z6ZHpUY1ZYZHRIbDJFa0YxZnVwQVcxY2w2V2g4TXlfNDBiRHdvQVl2bkU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T20:02:43+00:00"
     },
     {
-      "t": "국제유가 상승폭 4%로 확대…브렌트 108달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwMmJ6OTZkYTVQQlA5Wm1zV2FwaUlQcWk4ZmlsWTRsNnRSVE9EdlUzQTFoX3hBXzNvXzNRZmNpMDl0d1JWaklCYzFqWUxEcE9GTTd0WndoRmdhcHhQZG5yRFViblJmT2J0cENMd2JXRUZyV0JF?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-28T17:00:00+00:00"
+      "t": "美 국채·중동발 충격 한국 덮쳤다…코스피 2.7% 급락·환율 1,365원",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wbXY1ekducjBRWHc0eEJwLW1VQ1QtVGJXQkRha3RXYmpmWWxrdnk0amdSS0lqTVpMbXVQV0g3aFFLOHhRbnFIQzNoaFBzRHlKY0dsMGF6ZGJRYVktSlJHVUtoc1Q?oc=5",
+      "s": "지이코노미",
+      "d": "2026-09-28T20:00:38+00:00"
     },
     {
-      "t": "美 국채 매도 재점화…10년물 2007년 이후 최고",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1U4ZjcxWEUwOE1pR1Z5aGJvRVVNOVFrNkFQYlEwUENXMzlwckRfSURjQjlpRTMzZEotNGdrd1RwZjJELVZIN1BaMk9JZWlvR2FucjhNYUZGS0p1MFBpa3FuTFQ4NEkta0lvc3h2MVdtV25MSTV0UWpOV0JlRFJQeEQ3cVNkNVFo?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-28T17:00:00+00:00"
+      "t": "미 금리 상승 이후 시장 차별화 주목을",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iVDA3WVRnanM1QnhlT0laYld3eU15RjduNG14em9TUTN3T2xWTXFFSEVuRWg2OVc2ZjNHVEY2MldJUGtPLUpMYk5PVEp3WFIxc2JDaFJWODBCQ0E5VkFkX0JSRENTYkE?oc=5",
+      "s": "hani.co.kr",
+      "d": "2026-09-28T20:00:00+00:00"
+    },
+    {
+      "t": "“미국이 예전 같지 않다” … 美 국채금리 5% 돌파가 보내는 섬뜩한 신호",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4ZjBCMXlidTNXQWZYMjgzS3NvcEstQlVyY09jbTZLQ3Q0YU82Yk5XNEhPZEhnVHFobDlMUHJfcDY1TGJjb0dJUGh2ZklUeEQ0bHlzQQ?oc=5",
+      "s": "매일경제",
+      "d": "2026-09-28T20:00:00+00:00"
+    },
+    {
+      "t": "[야고부-김수용] 금리 역전(逆轉)의 경고",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ra0lxdkVqLXpLSW5JWWZGeEN0djhrQzYySnBFVzQtaFg4amlnWl85UDloUllBTW5TaG1PWUdVMHBEZGJhc2JyUUtfM1cyVkp3MUZsRHFTNXdyM0hjSVA4eVdn?oc=5",
+      "s": "매일신문",
+      "d": "2026-09-28T20:00:00+00:00"
+    },
+    {
+      "t": "日 2년물 금리 31년만 최고치… 10월 조기 인상설 가열",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXMyMVBqN1p5ZjIxb2U0TEpmQjFlZVdCNzNxd1dWUzlxNVJFX19DSzFMd2tvdHdKRmNFaUY2amQ1N0FfbEw4YTRpdVZSbkVFdU02NG95NVctTFltOXF5aTlTeThfdUpBY3JZOWM1NlpJaXBONGgwOW5Dbzk4blhNUTYzdllYbWoz?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-28T20:00:00+00:00"
     }
   ],
   "asof": {},
