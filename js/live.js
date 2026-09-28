@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T08:45:23+00:00",
-  "quotesAt": "2026-09-28T08:45:23+00:00",
-  "newsAt": "2026-09-28T08:45:23+00:00",
+  "fetchedAt": "2026-09-28T09:00:36+00:00",
+  "quotesAt": "2026-09-28T09:00:36+00:00",
+  "newsAt": "2026-09-28T09:00:36+00:00",
   "quotes": {
     "kospi": 6889.74,
     "spx": 7743.41,
     "nikkei": 65877.62,
-    "vix": 16.15,
-    "krw": 1359.92,
-    "gold": 4181.5,
-    "wti": 95.04,
-    "dxy": 101.06
+    "vix": 16.24,
+    "krw": 1360.01,
+    "gold": 4181.6,
+    "wti": 95.11,
+    "dxy": 101.08
   },
   "daily": {
     "spx": 0.49,
     "kospi": -1.83,
     "nikkei": -0.73,
     "krw": -0.54,
-    "dxy": 0.09,
+    "dxy": 0.11,
     "gold": -3.23,
-    "wti": 2.85,
-    "vix": 8.61
+    "wti": 2.92,
+    "vix": 9.21
   },
   "news": [
     {
-      "t": "[0928마감체크] 美 국채금리 급등에 따른 위험자산 선호심리 후퇴… 코스피 2.70% 하락 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bElkdGhHVzFwb1hvN0hfYlJCYVN2Wmh6ZVlJWTVMVG5CVXZoNjhPVmxfclA3TzFhOVZPLUEwUVdYM0J5WU80R1NTZVRWSTNtOXBoTWpkNS0xSWl3WlZsQ1JmYVd5Nm1mTm44WVhxRHQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T08:42:00+00:00"
+      "t": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TDg0QUU3NEd4bTlMTm51Yll3Q3g2Q0RtOTZMUTE3dlp1OE1nbVkxZ3RfTXpVLVNJeHMwQzNhVnU0bnM5dVdaMDdhOWhCTWJlaDh5bm92X0JuUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-28T08:56:56+00:00"
     },
     {
-      "t": "[마감] 코스피, 美 국채금리 급등 부담에 2.70%↓…7000선 아래로 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aRjJ3Yk1NcGlZRk5tWjNUVmJGQlF0UUt4YnRlcngwS1FJUzMtLTBES0E0RDdNaURXZm5vc3dYNU1NbmVKcjl5Rmhob2NWNkxoaWdrWDhCRm5xRVJFSnRtQktNTUFDdVJNeDNDYlRpZTU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T08:42:00+00:00"
+      "t": "모빌린트 “LG·두산·대동 로봇 맞춤형 온디바이스 AI 반도체 개발할 것”",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xY1M0V0lEMC1fTVVvVTk4aE9wUDg0TkFDNGF5WGlseGw4TnRoc2psQ0hmaE5DaGtEZ3NiVVhRUHJwLXoyeGJrOGNLTm1MOUdhaG5yYzA3SGxGeDVRMTd5LXY4WmlnMGtRSlE?oc=5",
+      "s": "AI타임스",
+      "d": "2026-09-28T08:54:58+00:00"
     },
     {
-      "t": "반도체 수출이 이끈 생산성…제조업·서비스업 격차 뚜렷",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qa2FRaDJLb0xJM0tMcDU5ZFAxaTljVnRqX3VqRG5zSklpM25xdFBoYVpUWjZKQzRVQWxlb0xqc1NTeVJnVThGdTZzZ0o4dkU?oc=5",
+      "t": "코스피 '1만2천' 간다던 골드만삭스, 전망 여전한가 봤더니",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTOHUyU1JsN1ZoYldXaWVvcEsxc3R5eVAxN2hueVBLVmM1TkdNUzUyb1NhUnhWR0FEelZLbFNUTWhFakt4R0pINDJCdEhNOG8?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-28T08:33:43+00:00"
+      "d": "2026-09-28T08:53:59+00:00"
     },
     {
-      "t": "[표] 외국환율고시표",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQlZ4dV9KZnNDUkY0V091Rkp1VXdPQXdWRkJyXzlSVlVtMHNiZC01X3JxRU9oMHlaMlk3NTBjZ1FjN1RDcURFSnBhOVV4c3NSLWc?oc=5",
+      "t": "금융권, AI·반도체 지역 거점에 ‘생산적 금융’ 확대",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2YWF1V2FTSjd6cXFjbmdHSVRYSGlCM3U4NUMweXBZWjNwbjFWMXpad1dxUmFpMDFHLWJpUGM1WUNWb2p2dnlPeXI1LTRJamN0SHIwV0lPWnh4TXpvWmphMzNfYXU?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-28T08:52:48+00:00"
+    },
+    {
+      "t": "'없어서 못팔아' 삼성전기, 반도체 기판 증설에 6.8조 투자 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tTkdlUWRuLW9pVmZJeHJhYW9VSFd4Z2NZOThRcDU1azBvVkttMkF6TFAyQlU5V3RkajVreEpLQk40QzNFejZqWVVRV293YUpXN0RGRktxaTZhN3VxZ1I4NG9nSWFub3JaT1NvadIBckFVX3lxTE05d0t2RkVWVmZHbWlkRjdBNmU4dDR4RDZNTDZhQTJiSzc4WEc2N2JWMVlvOFA2Y3dpb0ZqZzBkVUZwTlJQZ1NLUHhKcEpkazZXNnJrb2xDcDQtSTltNjM0cWxCYUhPR1lIakREMk5iSUpmQQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-28T08:49:43+00:00"
+    },
+    {
+      "t": "'엔비디아 들어온다' 소식에 中 반도체 하락…日도 약세[Asia마감] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdFo1NGlXOG1SSVQ0R1hRcl82T0U2eWFtR2JQVkxXc1k3VlFEYjZuRDNwaTA4TWJpRlFUZi1fUlFOeXN3bXRCZ0NQN3lhVEstZk1JOTBjck5jN3RaQkRxelBralVuaW550gFuQVVfeXFMTXd1NF9taVJOc3Zac0JXODNLcTBtdjBGaFhiMmJPdWlXM1QyMEg2ZmpHUUtUbjVDYlE3QWNqQ3ZaclQ3X2ZnLTBsQ2dQTTd3UF9uNVNvYUhQbEhhMzdCbzZCVmpHdnBOMHZqcUlPbGc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-28T08:48:58+00:00"
+    },
+    {
+      "t": "코스닥 빚투 반도체株 쏠림 …레버리지 투자 '주의보'",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xbEtBVFVyQTRyY0J3T1hiS0ZldXVtVHY2eGRkV1Zsamg3Tnc3Ni04dXBzNWN3bFBfZHdlTVRoa2ZGZVZYeWVUSDdTaFp2ZTRTN1E?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-09-28T08:24:13+00:00"
+      "d": "2026-09-28T08:48:08+00:00"
     },
     {
-      "t": "기술유출 표적 반도체인데…중소업체 도면 \"기껏해야 비밀번호\"",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10b0JtTEMzTWhtVjZIcFVpNUdELU1uNm11UDhzZzFnaXFaeWtzMHRucUxsTW01ZnRqdFVSZEVUZUYtakVnUEYySVRQMmlSWGVYWEVCV0UtNVExRWJzRUJRUmZZTy1TZw?oc=5",
-      "s": "디일렉",
-      "d": "2026-09-28T08:23:29+00:00"
+      "t": "美국채 금리 급등에 불똥 튈라… 정부 \"내년 국채발행 축소 검토\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxRmxwNG5fVDAzdVdkeW9qVF9hakZzQnE2ZUxud2poLW9qd19FdFNJLTFySEdlTEdNUGhvUi1WdlpNTE50S0hoTmU4ajdOY2Y4UVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-28T08:46:52+00:00"
     },
     {
-      "t": "호주 RBA 금리 인상 뇌관 된 건설 붐…60년래 최대 과열",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4cE1QTlVsUFlMWlpRSW1kNUV1MHhFa2ZLYkRNdGRPajhqSDVyTEFObHlsVjR4bFhZNUdNU1JuYlF2MUg5OHNET2pmbkRzc1lWRzZ6am1qN2Z5ZklaSWtWeHlLM3pQZjdQcVpCUWFwOHc?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-28T08:21:26+00:00"
+      "t": "증시 박스권 상단을 막고 있는 시장 금리 : 잡히지 않는 금리 상승세",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84ZE9uYm5zYmViUDg5dzBmdXFvTGVCZWxYZGZESmV3cTlMSThvWEVyUEJ5VkV3NFM5VlhuUzUxSWQtWjZkc1RHX3Nrc2Fib1Y3NXh4ZWJYbVpYaXJkNExHTg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-28T08:43:00+00:00"
     },
     {
-      "t": "금리 공포에 코스피 2%대 '털썩'…PCE·마이크론에 쏠린 눈 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VVU9hMzlpY1N5X1V0YjI0bmpBUEFGQThPNWIwdU9GbWZSWUdtMzV2Z2wzQXVhVlk4ek5DblU4dGlpVHJla2Z2YjU0c0x4NldPQzNJc3hZMV95Vl9NNmJsMGlOMWNKTGZT0gFuQVVfeXFMUE9HNEhTb1Bvd1pnVHFWaWtkZW1naVZ2MWttRmR2RTdtaTlKMkhQU0JrWHN4RUdPSjJrMDFYeF84cGpEVmx6dERpb0I3TmJ6TEpRSk1fajM2d21EQ29xTFNnQW1QTFZrLUlTZmFaU0E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-28T08:08:40+00:00"
-    },
-    {
-      "t": "'하락 예감?' 코스피·반도체 추종 ETF서 한 주간 뭉칫돈 이탈",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jZ2dIMVc1aWV2dUpYa2lEZURxbHpTOGFxZmlfdEdVem5fS3hQWnkwMnpYLU93bDV0OXlseEJUeURwR2cxSUd3TUVQR1I2SHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T08:06:00+00:00"
-    },
-    {
-      "t": "美 금리 급등에 국고 3년 4.1% 돌파…2022년래 최고(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sQkNBX3JQLTdSNlVWc2NaSHFVcFFUOEU3TkhMUmFKRjBGM3FFYjdaTlNIVmp2cGhiaFZkbkFwcnRvajE0LWNwZDZmU3dkVVk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T08:05:05+00:00"
-    },
-    {
-      "t": "美 치솟는 국채금리, 장단기 역전도 '눈앞'…침체 경고등 켜나 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zb3FSVzlTTWJSajBDcUVnUVRTMmg4SDlobkN3SUk1S0VkVjZMbkx4RGVwcmhGVE9sQ3lrWFo4UTFLUnp6ckZkOS1JZlBMYi1nRS14WUhPT2N4M1JWMDdlS0hWNm1vVlFN0gFuQVVfeXFMT0lHSzduTFc2cnd2REI0a01tN1h2VGsxMWtUQ3l0TUhudVN5bm5RU1dHVFQ1Z0wwM3I2LXhWeFlQQ0wtWWF4dUxybHhrWjZfSjF1OXlMcEdvOENYdHZJZFBnWjdfb0FaVXRRSTBrY0E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-28T08:04:25+00:00"
+      "t": "삼전닉스 5%대 급락…코스피, 6889.74 마감",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wSnFkS2ZCNUQ2YUpGT1IyRFp0cHFiYnN1NlR2MGpCUVEyenBEYkVCczVTUlpmQ1YtTUdXX3lrU1BHUkhjdUc1dFJmbTFqd2c0YzZQNmREV0lKYTVrd0J1Q2I4dHI?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-09-28T08:42:05+00:00"
     }
   ],
   "asof": {},
