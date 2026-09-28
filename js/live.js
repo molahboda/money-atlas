@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T17:15:24+00:00",
-  "quotesAt": "2026-09-28T17:15:24+00:00",
-  "newsAt": "2026-09-28T17:15:24+00:00",
+  "fetchedAt": "2026-09-28T17:30:34+00:00",
+  "quotesAt": "2026-09-28T17:30:34+00:00",
+  "newsAt": "2026-09-28T17:30:34+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7713.41,
+    "spx": 7701.79,
     "nikkei": 65877.62,
-    "vix": 15.94,
-    "krw": 1357.18,
-    "gold": 4161.8,
-    "wti": 93.08,
-    "dxy": 101.18
+    "vix": 15.82,
+    "krw": 1359.19,
+    "gold": 4167.4,
+    "wti": 92.39,
+    "dxy": 101.14
   },
   "daily": {
-    "spx": 0.12,
+    "spx": -0.03,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.74,
-    "dxy": 0.21,
-    "gold": -3.69,
-    "wti": 0.73,
-    "vix": 7.2
+    "krw": -0.6,
+    "dxy": 0.17,
+    "gold": -3.56,
+    "wti": -0.02,
+    "vix": 6.39
   },
   "news": [
+    {
+      "t": "피터 시프 \"미국 10년물 국채금리 11월 6% 전망…주담대 8% 넘을 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MekZFUlZCMHZGT1AzbkRadkE4enFVa1ZEazVtcU93WUhEaGJwY3VkR1BfUFUwWkNob3V6YllCTkJJNW9ZcGh4Z045azFVbWFf?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-09-28T17:27:09+00:00"
+    },
+    {
+      "t": "라가르드 \"국채금리 상승, 경기 식히고 인플레 전이 제한할 것\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vVnBIU1FTUFBoWW5RdFMwNFhUZkFXQllCOC1TWHlaNmJaMlpyNHItZWtRVE5QR0NBS0RuQTJIRmNQbHFORDJpcFlQckpEWmNVTndoVDZwa21jdmllYU96NEFwZldVTVV0V3J6Zkg1T2Y?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T17:22:23+00:00"
+    },
     {
       "t": "유가 뛰자 美국채 금리도 급등…30년물 5.5% 돌파",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYk9Ialc2YUFrQklkVDUydXRYZTFSbjQzR2hqVVc2ay0xaDEya2hERWxCZlRqVXRKcmF4bDItQkRlUTdQeFp4MlM2ZFFrTVk?oc=5",
@@ -38,7 +50,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "국제유가 상승폭 4%로 확대…브렌트 108달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHZCc255U3QwaDF5S0E5VFNOYmQ1OTNacGpBeUdSUHJtbEFZcUxMdFRralA3VXMwY2F2RWNjX0xNd0d2ajEzV3EtcUlRRW9kNlRkajFpdC1xbGlyOGtsVHZtUTBORm9LdTgtRHBHbWhSSVZSLXBvZHE3VVRiYXpRWnBuaEFJS241?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwMmJ6OTZkYTVQQlA5Wm1zV2FwaUlQcWk4ZmlsWTRsNnRSVE9EdlUzQTFoX3hBXzNvXzNRZmNpMDl0d1JWaklCYzFqWUxEcE9GTTd0WndoRmdhcHhQZG5yRFViblJmT2J0cENMd2JXRUZyV0JF?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-28T17:00:00+00:00"
     },
@@ -55,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-09-28T16:32:08+00:00"
     },
     {
+      "t": "신고가 쓴 나스닥, 이번 주도 갈까?…'물가·고용'이 가른다[이번주 美 증시는]",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcGxHcGVKYjhrTFlNbnhLY25OQnZraTk1eWpScklnRGJXV0VwMWxqWjc3aUJxMlM4WVp2QzFXZUtfS3lGWEtQWUVNdW5RSTBJWXlN?oc=5",
+      "s": "mt.co.kr",
+      "d": "2026-09-28T16:30:43+00:00"
+    },
+    {
       "t": "[뉴욕 금가격] 유가 고공행진에 3% 급락…한달만에 최저",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OOFExZFBGWjRZTGVveGs4aWdod2hJUVJaRVJvRXl1Z0ROM0o0dmozSWF6VnF0TTd3ajM2MXpPWUtvSWxoTHktTlpIeWhiTVBfNzlENDFUY2RsMmtIYm90amJScy1ZZnhRblNwY3gtcEk?oc=5",
       "s": "연합인포맥스",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TDg0QUU3NEd4bTlMTm51Yll3Q3g2Q0RtOTZMUTE3dlp1OE1nbVkxZ3RfTXpVLVNJeHMwQzNhVnU0bnM5dVdaMDdhOWhCTWJlaDh5bm92X0JuUQ?oc=5",
       "s": "한국경제",
       "d": "2026-09-28T16:00:00+00:00"
-    },
-    {
-      "t": "美中, 81조원어치 상호관세 인하‥트럼프 공들인 美 대두는 빠져",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNTYxRnlEMF9PeGM0ZG84NUtqRkNBcmxiTlFFLS14YUUwbnY1bExQT0RvX0hjRkZidG5jYXk2bzRIaGxRSjFIc2gwMlhxN3c?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T15:46:05+00:00"
-    },
-    {
-      "t": "[단독] 삼성전기, AI 기판에 6.8조 '사상 최대 투자'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GaUFSbUx5WW9wX2ZEUG5ab0lOeVNRU2w3MFY1RnV2TV9kQzZXcjMzeENLM3ZJVnN0TS0zRVVXdjZyOEpBYUxuYU92OE95Zlh2cG1maVRmdGNLQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-28T15:37:00+00:00"
-    },
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 28일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzhUU0V0ck40alFVVThQYWlIaGh0WU9yWXU5RW9ZS3RxeElQNldWMDBvSlVyX2g4ZE40elNVZlREMXBVZUpoTFpZNjRPRmZuWEl5NUgxclVNbk5OT0dXbmp2QTF2UnpWVUd6Y1ZzeUkwT3duMklUSVNxZDYzU3Vfdl9XekNsZEhn0gGcAUFVX3lxTE1mSnFiTmFHb1BodmtpR1VtSkpJeGoxVUdqMEt3VVlWWEpKZ2NGcHJzLWFORFNLLVRjdnJlN25kS0REYmpONmhBd1VaQ2FzRTNQbEpZdVo2dVhlNVdmemVxU2VBNDBvS2t1RThyN05Lb0lGYkF5ajd3NGlQNXNuWERSQnQ4aE90dXBBVXQ3WVRQV0xtRnBodDRDX2ttMA?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-28T15:36:00+00:00"
     }
   ],
   "asof": {},
