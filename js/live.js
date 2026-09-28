@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T14:00:35+00:00",
-  "quotesAt": "2026-09-28T14:00:35+00:00",
-  "newsAt": "2026-09-28T14:00:35+00:00",
+  "fetchedAt": "2026-09-28T14:15:27+00:00",
+  "quotesAt": "2026-09-28T14:15:27+00:00",
+  "newsAt": "2026-09-28T14:15:27+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7710.5,
+    "spx": 7700.69,
     "nikkei": 65877.62,
-    "vix": 16.08,
-    "krw": 1358.74,
-    "gold": 4190.7,
-    "wti": 94.15,
-    "dxy": 101.15
+    "vix": 15.83,
+    "krw": 1358.98,
+    "gold": 4177.5,
+    "wti": 94.13,
+    "dxy": 101.2
   },
   "daily": {
-    "spx": 0.08,
+    "spx": -0.04,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.63,
-    "dxy": 0.17,
-    "gold": -3.02,
-    "wti": 1.88,
-    "vix": 8.14
+    "krw": -0.61,
+    "dxy": 0.23,
+    "gold": -3.33,
+    "wti": 1.86,
+    "vix": 6.46
   },
   "news": [
+    {
+      "t": "취임 6일만에 한은 찾은 이형일…정책공조 ’시동’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lenRtVnBKY3hObUtjb0V3Z2d5Y2JzeUMtUHdWTTQtUkp5bnFnQkZCYXM4ZlVDNW56OW5fTjVpN1RlYU1HTldhb2hqdEh3U0lFMFAtdC1VV3djUGoydV9QQ0hUdUdKNEE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-28T14:04:00+00:00"
+    },
+    {
+      "t": "캐나다 달러, 미·캐나다 금리 격차 확대와 유가 약세에 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5clhON1BWaHZ2OFlmd0Q2WFFjVGIzcnlhSWNTS2Y3bmY3amJBVF9HRE40ekNUM2pDMUJVWjlqX3dsXzhpVUNjNTh4SXM4THB5bTdEdk0yY1ZxR25IbTN2MlpwR3JCYVU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-28T13:58:00+00:00"
+    },
+    {
+      "t": "글로벌 금리 압박에 캐나다 국채 수익률 상승",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04MDFyd3JBNWNuMUVEZy1DVXJxUlFaTGwtT214RExZUWczMUlCMmJ5dEIxbEVZMDQ4S0x4U3hpa05mQnlPUnQ0bGJwenRPczRIVnJxQzRsNGp5cnhRU20zd0VPZmNXd3lPMlE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-28T13:58:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 美의 이란 '7일 계획' 거부에 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6SWphejcxXzhrQTFxVmZ4cmExaTFPLV84MkNrR0FQLVNmcE9mR19obzhqR0M4Q2FWYkpYSGdpUFJKWXIxVW1BMW5qZ2dLWF9XTUpuUWdBODNoVFHSAWBBVV95cUxOVlM1VDY0c1FpdmQ5UTRLN05NalF1MGhxREhsVFZhSjQyWnQ5OE1STDU1NzFrSnBmS21ZdzdScGtwYlRCWWRUeHNsbEh5cFVRWm9WckgtQVJtS2ZRbGlrZzQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-09-28T13:55:23+00:00"
+    },
+    {
+      "t": "‘9월 30일이 진짜 중요’ 추석 끝나니 급락 코스피, 반등 여부 달렸다 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iZGs2UlotM2xFdC1BaUktYUNXaFZmaEswQ25nenhpa1Z6dzNJeklZb3FFcWhXMnhiLURNN25SUy1DSWRIWkNQVURVMjRmOWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T13:41:00+00:00"
+    },
     {
       "t": "美 국채가, 호르무즈 재개방 로드맵 무산에 하락 지속",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OZU1ialBLZFNxM2NCZW1Wa2RfenZESHA4MUJPRU9jbkhqWE41alFLZmR0N01EVGNmWEJWMXFHOGNYUkJvajBZM1l2Q21jQ0RtZjcwdURnelhTTHF6ckxldnV6V1ZVaWhBM0ZtU2J6VHg2QQ?oc=5",
@@ -33,7 +63,7 @@ window.LIVE_DATA = {
     {
       "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...유가·금리 급등에 반도체주 약세·엔비디아는 홀로 상승",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51VHpkc2ZlQnRJR29yQTNCWWc0dmU3ME9iX3JXemptWFF6ekY0RC1mTVJzNEFKNndIRWhSdmlWMXFJbFpPTk9kT2FLZlp6Q2ZMT3lIS2ZmbVRjVVNy?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-09-28T13:38:00+00:00"
     },
     {
@@ -45,7 +75,7 @@ window.LIVE_DATA = {
     {
       "t": "뉴욕증시 개장 전 특징주...엔비디아·엑손모빌↑ VS 메타·뉴몬트·마벨테크놀로지↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nUWhRQmVqckdhUnZlRzlxQ2VEYUtkYXljN0MxR0xKY011U0lQc3pvSDdxMXVMVTV6MEtwdGVGbGVUMG0zQk9NMW5TZ3Zla0UxdFhZcU1rTEFtbHU4?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-09-28T13:26:00+00:00"
     },
     {
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3cnVWUWZiYTczTmN3QnM0aVVmZ2R0M1ZibEx3Z2FZY3hFTW1zbkpLSTREM25YbHk0UjV2SlVLYjJjdk5JdElnbTBqNkh3SXc?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-28T13:13:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 중동 긴장에 유가·금리 급등…美 주가지수 선물 '일제 하락'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43M25qN2lGRDBrN1RnT2VhU19oNDBwWi1pSnYzTHNidF9YSTlQTzZZSkZxdUtFYVhnZGQySExuYktJOG5oeGg1RTUwangxQ29ySlZZTUZSUUd4Tzk3?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-28T13:06:00+00:00"
-    },
-    {
-      "t": "이형일 부총리 “물가·성장·금융 안정…협력 강화” 취임 엿새 만에 한은 방문",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1feEMxRkdUeUhrZklVS0R4bzJoeVFKMnpoQmVtMHBaZFNEMENnNGlsVHoyZzBabTM1Qlg5TE9vdnBBNzZaSGhQVXJMWlE5RGd4eExMeVlIZXJSUTNiRkZV0gFfQVVfeXFMTV94QzFGR1R5SGtmSVVLRHhvMmh5UUoyemhCZW0wcFpkU0QwQ2c0aWxUejJnMFptMzVCWDlMT292cEE3NlpIaFBVckxaUTlEZ3h4TEx5WUhlclJRM2JGRlU?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-28T12:31:00+00:00"
-    },
-    {
-      "t": "美 국채금리 급등에 코스피 7,000선 다시 반납",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fdWdLbmJlcG03QzJRcFJjVElySXo0WTM2TGVqbmJESEdlcTU2MlctaUV2MUhZSEVTSFQ5azBSUGFaQ0g0NndseDlRampFaG9zMnltT2syMUxUenRvZGVHdzJTWk9FUWM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-28T12:13:00+00:00"
-    },
-    {
-      "t": "中, 민간 AI기업과 반도체 전문가들 해외여행 제한",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0REdmN1NsS3FsbVVwWWRUdTVEa1h0YVI4NXhLUVUxZUtWcENpekt5TDZsTmVMT0laelF2NmU4dHU1VFVDMmdxYU05M3paSXFsamVSVlQ1SURfdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-28T11:55:46+00:00"
-    },
-    {
-      "t": "골드만삭스·블랙록 \"글로벌 금리 인상에도 韓 펀더멘털 견고\" By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pYUY5Zmx2YnpjdXYtZDNPVTFpbmhUdWY1SW1sbzFnUlZVdTVYTExyRHBFZnBaTmpjVnlLTVhmYllEa2xWWUtyVjBCcUdadjN6UERCU0UxUmhRYVFsLThuWUFaNjNFOWJhaVZIZ0Qyd2E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T11:43:14+00:00"
     }
   ],
   "asof": {},
