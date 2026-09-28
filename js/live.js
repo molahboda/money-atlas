@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T08:30:26+00:00",
-  "quotesAt": "2026-09-28T08:30:26+00:00",
-  "newsAt": "2026-09-28T08:30:26+00:00",
+  "fetchedAt": "2026-09-28T08:45:23+00:00",
+  "quotesAt": "2026-09-28T08:45:23+00:00",
+  "newsAt": "2026-09-28T08:45:23+00:00",
   "quotes": {
     "kospi": 6889.74,
     "spx": 7743.41,
     "nikkei": 65877.62,
-    "vix": 16.1,
-    "krw": 1358.48,
-    "gold": 4183.9,
-    "wti": 94.58,
+    "vix": 16.15,
+    "krw": 1359.92,
+    "gold": 4181.5,
+    "wti": 95.04,
     "dxy": 101.06
   },
   "daily": {
     "spx": 0.49,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.65,
-    "dxy": 0.08,
-    "gold": -3.18,
-    "wti": 2.35,
-    "vix": 8.27
+    "krw": -0.54,
+    "dxy": 0.09,
+    "gold": -3.23,
+    "wti": 2.85,
+    "vix": 8.61
   },
   "news": [
+    {
+      "t": "[0928마감체크] 美 국채금리 급등에 따른 위험자산 선호심리 후퇴… 코스피 2.70% 하락 By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bElkdGhHVzFwb1hvN0hfYlJCYVN2Wmh6ZVlJWTVMVG5CVXZoNjhPVmxfclA3TzFhOVZPLUEwUVdYM0J5WU80R1NTZVRWSTNtOXBoTWpkNS0xSWl3WlZsQ1JmYVd5Nm1mTm44WVhxRHQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-28T08:42:00+00:00"
+    },
+    {
+      "t": "[마감] 코스피, 美 국채금리 급등 부담에 2.70%↓…7000선 아래로 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aRjJ3Yk1NcGlZRk5tWjNUVmJGQlF0UUt4YnRlcngwS1FJUzMtLTBES0E0RDdNaURXZm5vc3dYNU1NbmVKcjl5Rmhob2NWNkxoaWdrWDhCRm5xRVJFSnRtQktNTUFDdVJNeDNDYlRpZTU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-28T08:42:00+00:00"
+    },
+    {
+      "t": "반도체 수출이 이끈 생산성…제조업·서비스업 격차 뚜렷",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qa2FRaDJLb0xJM0tMcDU5ZFAxaTljVnRqX3VqRG5zSklpM25xdFBoYVpUWjZKQzRVQWxlb0xqc1NTeVJnVThGdTZzZ0o4dkU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T08:33:43+00:00"
+    },
     {
       "t": "[표] 외국환율고시표",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQlZ4dV9KZnNDUkY0V091Rkp1VXdPQXdWRkJyXzlSVlVtMHNiZC01X3JxRU9oMHlaMlk3NTBjZ1FjN1RDcURFSnBhOVV4c3NSLWc?oc=5",
@@ -33,7 +51,7 @@ window.LIVE_DATA = {
     {
       "t": "기술유출 표적 반도체인데…중소업체 도면 \"기껏해야 비밀번호\"",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10b0JtTEMzTWhtVjZIcFVpNUdELU1uNm11UDhzZzFnaXFaeWtzMHRucUxsTW01ZnRqdFVSZEVUZUYtakVnUEYySVRQMmlSWGVYWEVCV0UtNVExRWJzRUJRUmZZTy1TZw?oc=5",
-      "s": "thelec.kr",
+      "s": "디일렉",
       "d": "2026-09-28T08:23:29+00:00"
     },
     {
@@ -47,12 +65,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VVU9hMzlpY1N5X1V0YjI0bmpBUEFGQThPNWIwdU9GbWZSWUdtMzV2Z2wzQXVhVlk4ek5DblU4dGlpVHJla2Z2YjU0c0x4NldPQzNJc3hZMV95Vl9NNmJsMGlOMWNKTGZT0gFuQVVfeXFMUE9HNEhTb1Bvd1pnVHFWaWtkZW1naVZ2MWttRmR2RTdtaTlKMkhQU0JrWHN4RUdPSjJrMDFYeF84cGpEVmx6dERpb0I3TmJ6TEpRSk1fajM2d21EQ29xTFNnQW1QTFZrLUlTZmFaU0E?oc=5",
       "s": "머니투데이",
       "d": "2026-09-28T08:08:40+00:00"
-    },
-    {
-      "t": "[0928마감체크] 美 국채금리 급등에 따른 위험자산 선호심리 후퇴… 코스피 2.70% 하락",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45MHM5aFk5UWRZT0pjTW5KaFZUSnlVRkZsbzlYVUFZUlotNG5mZ19VcFRsS3pxSHJzOEV5R1JIVVFXQ2gzcGZaSHQweTg2dmVNVEJxQXhmR2xZbHZUUVZQak5rOFNTSXJUUGE4cHVSdlZPS2U2MFE?oc=5",
-      "s": "인포스탁데일리",
-      "d": "2026-09-28T08:06:15+00:00"
     },
     {
       "t": "'하락 예감?' 코스피·반도체 추종 ETF서 한 주간 뭉칫돈 이탈",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zb3FSVzlTTWJSajBDcUVnUVRTMmg4SDlobkN3SUk1S0VkVjZMbkx4RGVwcmhGVE9sQ3lrWFo4UTFLUnp6ckZkOS1JZlBMYi1nRS14WUhPT2N4M1JWMDdlS0hWNm1vVlFN0gFuQVVfeXFMT0lHSzduTFc2cnd2REI0a01tN1h2VGsxMWtUQ3l0TUhudVN5bm5RU1dHVFQ1Z0wwM3I2LXhWeFlQQ0wtWWF4dUxybHhrWjZfSjF1OXlMcEdvOENYdHZJZFBnWjdfb0FaVXRRSTBrY0E?oc=5",
       "s": "머니투데이",
       "d": "2026-09-28T08:04:25+00:00"
-    },
-    {
-      "t": "코스피, 美 금리 급등에 반도체주 휘청…6900선마저 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1VDVEeHRNUG1JVzFQQ240STgxR0kwR2tEb251NzFxU3ctenlEVzNvQ3RRcHV3Y21mSEVuM2M3Z0hUd3Q0ME9UZWZBWmFuMWRRWWc?oc=5",
-      "s": "더나은미래",
-      "d": "2026-09-28T08:00:00+00:00"
-    },
-    {
-      "t": "한달여 앞 美중간선거, 박스권 韓증시 촉매될까…증권가 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96WmVwdHNuTjhTcGNIY1l4U3ROU0J5aS1velJWSjBqRk45M2ExeTFfUFVWSWhjcWVNSEUzMV82LVB2N2h2Nm9TRTJ3QzhnLXJ0TU4tQ29pY2pWVkHSAWBBVV95cUxPdGIzLUwxY3lzUWdHXzlvRXgzWTVMRTVnaXJQWFBsUWhVd0pYTzExdE1iMnhEaUtZYnFUeG9wMG8wVW9XV2k1S3FJLXZtMUNfMUJ6LWcza29ReEtCLTJqdzI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-28T07:59:22+00:00"
     }
   ],
   "asof": {},
