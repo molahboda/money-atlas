@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T17:30:34+00:00",
-  "quotesAt": "2026-09-28T17:30:34+00:00",
-  "newsAt": "2026-09-28T17:30:34+00:00",
+  "fetchedAt": "2026-09-28T17:45:26+00:00",
+  "quotesAt": "2026-09-28T17:45:26+00:00",
+  "newsAt": "2026-09-28T17:45:26+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7701.79,
+    "spx": 7702.46,
     "nikkei": 65877.62,
-    "vix": 15.82,
-    "krw": 1359.19,
-    "gold": 4167.4,
-    "wti": 92.39,
-    "dxy": 101.14
+    "vix": 15.94,
+    "krw": 1359.45,
+    "gold": 4169.8,
+    "wti": 92.55,
+    "dxy": 101.13
   },
   "daily": {
-    "spx": -0.03,
+    "spx": -0.02,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.6,
-    "dxy": 0.17,
-    "gold": -3.56,
-    "wti": -0.02,
-    "vix": 6.39
+    "krw": -0.58,
+    "dxy": 0.16,
+    "gold": -3.5,
+    "wti": 0.15,
+    "vix": 7.2
   },
   "news": [
     {
@@ -38,9 +38,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "유가 뛰자 美국채 금리도 급등…30년물 5.5% 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYk9Ialc2YUFrQklkVDUydXRYZTFSbjQzR2hqVVc2ay0xaDEya2hERWxCZlRqVXRKcmF4bDItQkRlUTdQeFp4MlM2ZFFrTVk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T17:03:42+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lSV9MV1pkRFpocUtXTUZOZVdfcy1ORk5vOHd4MHNLUGk2WGZWXzhBWmp4TjV1RERfWjlUcXB6TG5IeFpuT19DOGtvdHg1TjIzenNkTTA4ekIxZw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-09-28T17:01:31+00:00"
     },
     {
       "t": "美·이란 교착에 달러 두달 최고권…연준 인상 베팅 확대",
