@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T16:30:30+00:00",
-  "quotesAt": "2026-09-28T16:30:30+00:00",
-  "newsAt": "2026-09-28T16:30:30+00:00",
+  "fetchedAt": "2026-09-28T16:45:24+00:00",
+  "quotesAt": "2026-09-28T16:45:24+00:00",
+  "newsAt": "2026-09-28T16:45:24+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7714.14,
+    "spx": 7700.29,
     "nikkei": 65877.62,
-    "vix": 16.2,
-    "krw": 1356.08,
-    "gold": 4161.9,
-    "wti": 93.65,
-    "dxy": 101.17
+    "vix": 15.77,
+    "krw": 1358.77,
+    "gold": 4168.6,
+    "wti": 92.76,
+    "dxy": 101.12
   },
   "daily": {
-    "spx": 0.13,
+    "spx": -0.05,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.82,
-    "dxy": 0.2,
-    "gold": -3.69,
-    "wti": 1.34,
-    "vix": 8.94
+    "krw": -0.63,
+    "dxy": 0.15,
+    "gold": -3.53,
+    "wti": 0.38,
+    "vix": 6.05
   },
   "news": [
+    {
+      "t": "코스피 2.7% 급락 뒤 美반도체도 2.7%↓…엔비디아만 1.9%↑",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlT3NrOGtpdnlXTlRyQl8xbU9jZS1adFJ6Q3RrdGRfaEtUYWtxWVlob05jMGk1QU45d3prM29uel9KbUZGS21NaVQ2N2xWWHRNWU1RMk1mQTFFNWJrU09ncUs2ckpzdUU1?oc=5",
+      "s": "greened.kr",
+      "d": "2026-09-28T16:32:08+00:00"
+    },
+    {
+      "t": "[뉴욕 금가격] 유가 고공행진에 3% 급락…한달만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OOFExZFBGWjRZTGVveGs4aWdod2hJUVJaRVJvRXl1Z0ROM0o0dmozSWF6VnF0TTd3ajM2MXpPWUtvSWxoTHktTlpIeWhiTVBfNzlENDFUY2RsMmtIYm90amJScy1ZZnhRblNwY3gtcEk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T16:26:01+00:00"
+    },
     {
       "t": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TDg0QUU3NEd4bTlMTm51Yll3Q3g2Q0RtOTZMUTE3dlp1OE1nbVkxZ3RfTXpVLVNJeHMwQzNhVnU0bnM5dVdaMDdhOWhCTWJlaDh5bm92X0JuUQ?oc=5",
@@ -57,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "미중, 81조 원 규모 상호 관세 인하...트럼프가 공들인 미국 대두는 빠져",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjQwWkp2TE1IVnprOXRLcGV6ZXFZU3g0bDdmQTdnQjE3MHpiMEhxT0pZNklGYmhNX0tMZVBKTzhhOFpjb2FMMXl6c3pjOUsySnlKYTNkWlV0ZTBlNEE?oc=5",
-      "s": "ytn.co.kr",
+      "s": "YTN",
       "d": "2026-09-28T15:25:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xMEVERGxrVk1NclgtQ3JGT0VmWWxmS1BvTHhEZGxDMXA3bTdzdUgxeGNuX2hfX2lfVHk5Qk5Pelg5dEN3Tk1rQlphdUZWT3V0?oc=5",
       "s": "블루밍비트",
       "d": "2026-09-28T15:12:09+00:00"
-    },
-    {
-      "t": "[사설] 브레이크 안 보이는 미 국채 금리, 후폭풍 대비를",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZ0pUTm9RQzk4S3Q1LWZDbVQ3NnJYQjhVOEx5WmxualhKbnFHdmFUbWQ4QlBWLXJfYUkySC1qOUt5QXZ5Z044NEFpVjVYejhvYlFqSFlRbEcyM1BTeGtqc3F5NHIwdkZ2aVQ1QUFB0gFzQVVfeXFMTTF5VktRZ19wVEhNbDE2YVNKMm5SZDJCUnMyMTE2enJiR1JDaEw4eldYOXRxTVVUcm5fc2gtRzQzaENLcU95aVRtdXhGYmxrejJMXzhhNm9pUGYwMWFWczMyQXllSkJ1UEVVbk84Unp1Q05JNA?oc=5",
-      "s": "한국일보",
-      "d": "2026-09-28T15:10:00+00:00"
-    },
-    {
-      "t": "미중, 600억 달러 규모 상호관세 인하 품목 공개…미국산 대두 제외",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdWZtekZidV9yX2tyY0I0X2xfcGhEOTlwbHhVQUFEbzRHVl9DU3FsMlhBanZxZXRGOTBCOWpMTVZRbkNGclBqa2lJU0lvdlU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T15:00:00+00:00"
     }
   ],
   "asof": {},
