@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T17:00:31+00:00",
-  "quotesAt": "2026-09-28T17:00:31+00:00",
-  "newsAt": "2026-09-28T17:00:31+00:00",
+  "fetchedAt": "2026-09-28T17:15:24+00:00",
+  "quotesAt": "2026-09-28T17:15:24+00:00",
+  "newsAt": "2026-09-28T17:15:24+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7698.17,
+    "spx": 7713.41,
     "nikkei": 65877.62,
-    "vix": 15.98,
-    "krw": 1358.72,
-    "gold": 4163.5,
-    "wti": 93.15,
-    "dxy": 101.15
+    "vix": 15.94,
+    "krw": 1357.18,
+    "gold": 4161.8,
+    "wti": 93.08,
+    "dxy": 101.18
   },
   "daily": {
-    "spx": -0.08,
+    "spx": 0.12,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.63,
-    "dxy": 0.18,
-    "gold": -3.65,
-    "wti": 0.8,
-    "vix": 7.46
+    "krw": -0.74,
+    "dxy": 0.21,
+    "gold": -3.69,
+    "wti": 0.73,
+    "vix": 7.2
   },
   "news": [
+    {
+      "t": "유가 뛰자 美국채 금리도 급등…30년물 5.5% 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xYk9Ialc2YUFrQklkVDUydXRYZTFSbjQzR2hqVVc2ay0xaDEya2hERWxCZlRqVXRKcmF4bDItQkRlUTdQeFp4MlM2ZFFrTVk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T17:03:42+00:00"
+    },
+    {
+      "t": "美·이란 교착에 달러 두달 최고권…연준 인상 베팅 확대",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTFUdW5UMUd5VV9GTkwzbS1fVDVIdkJwekdxNk5yV1hLOGlBTGRzZ1R1UE01UDA5UnV4bG92SlFuWDNhd1BPYk5qZnh1d3NsU3BBUzR6TmNvQzlBNU43eElHd0ZvbzBlMnZZT19teTNFSTU2d3M4dE4teXJldE03S2EtRnVKbE1N?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-28T17:00:00+00:00"
+    },
+    {
+      "t": "국제유가 상승폭 4%로 확대…브렌트 108달러 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHZCc255U3QwaDF5S0E5VFNOYmQ1OTNacGpBeUdSUHJtbEFZcUxMdFRralA3VXMwY2F2RWNjX0xNd0d2ajEzV3EtcUlRRW9kNlRkajFpdC1xbGlyOGtsVHZtUTBORm9LdTgtRHBHbWhSSVZSLXBvZHE3VVRiYXpRWnBuaEFJS241?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-28T17:00:00+00:00"
+    },
+    {
+      "t": "美 국채 매도 재점화…10년물 2007년 이후 최고",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1U4ZjcxWEUwOE1pR1Z5aGJvRVVNOVFrNkFQYlEwUENXMzlwckRfSURjQjlpRTMzZEotNGdrd1RwZjJELVZIN1BaMk9JZWlvR2FucjhNYUZGS0p1MFBpa3FuTFQ4NEkta0lvc3h2MVdtV25MSTV0UWpOV0JlRFJQeEQ3cVNkNVFo?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-28T17:00:00+00:00"
+    },
     {
       "t": "코스피 2.7% 급락 뒤 美반도체도 2.7%↓…엔비디아만 1.9%↑",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlT3NrOGtpdnlXTlRyQl8xbU9jZS1adFJ6Q3RrdGRfaEtUYWtxWVlob05jMGk1QU45d3prM29uel9KbUZGS21NaVQ2N2xWWHRNWU1RMk1mQTFFNWJrU09ncUs2ckpzdUU1?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzhUU0V0ck40alFVVThQYWlIaGh0WU9yWXU5RW9ZS3RxeElQNldWMDBvSlVyX2g4ZE40elNVZlREMXBVZUpoTFpZNjRPRmZuWEl5NUgxclVNbk5OT0dXbmp2QTF2UnpWVUd6Y1ZzeUkwT3duMklUSVNxZDYzU3Vfdl9XekNsZEhn0gGcAUFVX3lxTE1mSnFiTmFHb1BodmtpR1VtSkpJeGoxVUdqMEt3VVlWWEpKZ2NGcHJzLWFORFNLLVRjdnJlN25kS0REYmpONmhBd1VaQ2FzRTNQbEpZdVo2dVhlNVdmemVxU2VBNDBvS2t1RThyN05Lb0lGYkF5ajd3NGlQNXNuWERSQnQ4aE90dXBBVXQ3WVRQV0xtRnBodDRDX2ttMA?oc=5",
       "s": "Chosunbiz",
       "d": "2026-09-28T15:36:00+00:00"
-    },
-    {
-      "t": "국내 증시 장기 투자땐 稅혜택… ‘납부한도 2억 ISA’ 내년 신설",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fak1vc1RaTmpDY1FMeUU4bkZmS1BXdW05ZGxCMS1hZ2FJbDh1bjEzb21DYk5yRWprMU12aVhYYTdGUkhpTmtHTjllR1JaQm5JejZQY05LemZUN3ZKYTJWLVpSVjRBazlXNGxiencxTlFCTkxBY1HSAWZBVV95cUxQX0Vzb2pmYS1EQkFpb215dFJVdUZvb2ZHNDJKaXdQX0pDQUN2ZVdwNFpNV2dXSkp4M1RFVXBNYm1iMTEtRHlaa1AycXVnVmVLTmtNbXV0djlEWURBdmMycUFBdlk2WkE?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-28T15:30:00+00:00"
-    },
-    {
-      "t": "삼성전기, 세종에 4.3조 투자… AI 수요대응 반도체 기판 증설",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13UWdIR1hXMlFvaFZFamdfSnpGREtqSWxJYmNfNWJmUFFvMVhsYWw1am1uU2V3aEh1RkF0VkRKal8yRFQtVEZmNnNzQU52ZmwtZVdKQ25QOW1zY19GS3lKVFZsWC1Hd9IBZkFVX3lxTE13UWdIR1hXMlFvaFZFamdfSnpGREtqSWxJYmNfNWJmUFFvMVhsYWw1am1uU2V3aEh1RkF0VkRKal8yRFQtVEZmNnNzQU52ZmwtZVdKQ25QOW1zY19GS3lKVFZsWC1Hdw?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-28T15:30:00+00:00"
-    },
-    {
-      "t": "미중, 81조 원 규모 상호 관세 인하...트럼프가 공들인 미국 대두는 빠져",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjQwWkp2TE1IVnprOXRLcGV6ZXFZU3g0bDdmQTdnQjE3MHpiMEhxT0pZNklGYmhNX0tMZVBKTzhhOFpjb2FMMXl6c3pjOUsySnlKYTNkWlV0ZTBlNEE?oc=5",
-      "s": "ytn.co.kr",
-      "d": "2026-09-28T15:25:00+00:00"
-    },
-    {
-      "t": "라가르드 \"국채금리 상승, 경기 식히고 인플레 전이 제한할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVzRqMGZQVjRfTEl2YWtvbEdTaldfTTV3MXlaeUVCTzBLeFRWWjNyTEJZbGhvcDR6WFBwN2dVRU05M1RYUjJsYnJDXzMwb2pNUU5xdWpieUo2Z2VKd2V0QnZLWWtKM25GNnItdG9YTWV0QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-28T15:22:22+00:00"
     }
   ],
   "asof": {},
