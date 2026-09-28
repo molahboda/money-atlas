@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T08:15:26+00:00",
-  "quotesAt": "2026-09-28T08:15:26+00:00",
-  "newsAt": "2026-09-28T08:15:26+00:00",
+  "fetchedAt": "2026-09-28T08:30:26+00:00",
+  "quotesAt": "2026-09-28T08:30:26+00:00",
+  "newsAt": "2026-09-28T08:30:26+00:00",
   "quotes": {
     "kospi": 6889.74,
     "spx": 7743.41,
     "nikkei": 65877.62,
-    "vix": 16.17,
-    "krw": 1359.88,
-    "gold": 4190.5,
-    "wti": 94.52,
-    "dxy": 101
+    "vix": 16.1,
+    "krw": 1358.48,
+    "gold": 4183.9,
+    "wti": 94.58,
+    "dxy": 101.06
   },
   "daily": {
     "spx": 0.49,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.55,
-    "dxy": 0.03,
-    "gold": -3.02,
-    "wti": 2.28,
-    "vix": 8.74
+    "krw": -0.65,
+    "dxy": 0.08,
+    "gold": -3.18,
+    "wti": 2.35,
+    "vix": 8.27
   },
   "news": [
+    {
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hQlZ4dV9KZnNDUkY0V091Rkp1VXdPQXdWRkJyXzlSVlVtMHNiZC01X3JxRU9oMHlaMlk3NTBjZ1FjN1RDcURFSnBhOVV4c3NSLWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-28T08:24:13+00:00"
+    },
+    {
+      "t": "기술유출 표적 반도체인데…중소업체 도면 \"기껏해야 비밀번호\"",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10b0JtTEMzTWhtVjZIcFVpNUdELU1uNm11UDhzZzFnaXFaeWtzMHRucUxsTW01ZnRqdFVSZEVUZUYtakVnUEYySVRQMmlSWGVYWEVCV0UtNVExRWJzRUJRUmZZTy1TZw?oc=5",
+      "s": "thelec.kr",
+      "d": "2026-09-28T08:23:29+00:00"
+    },
+    {
+      "t": "호주 RBA 금리 인상 뇌관 된 건설 붐…60년래 최대 과열",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4cE1QTlVsUFlMWlpRSW1kNUV1MHhFa2ZLYkRNdGRPajhqSDVyTEFObHlsVjR4bFhZNUdNU1JuYlF2MUg5OHNET2pmbkRzc1lWRzZ6am1qN2Z5ZklaSWtWeHlLM3pQZjdQcVpCUWFwOHc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T08:21:26+00:00"
+    },
     {
       "t": "금리 공포에 코스피 2%대 '털썩'…PCE·마이크론에 쏠린 눈 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VVU9hMzlpY1N5X1V0YjI0bmpBUEFGQThPNWIwdU9GbWZSWUdtMzV2Z2wzQXVhVlk4ek5DblU4dGlpVHJla2Z2YjU0c0x4NldPQzNJc3hZMV95Vl9NNmJsMGlOMWNKTGZT0gFuQVVfeXFMUE9HNEhTb1Bvd1pnVHFWaWtkZW1naVZ2MWttRmR2RTdtaTlKMkhQU0JrWHN4RUdPSjJrMDFYeF84cGpEVmx6dERpb0I3TmJ6TEpRSk1fajM2d21EQ29xTFNnQW1QTFZrLUlTZmFaU0E?oc=5",
@@ -35,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45MHM5aFk5UWRZT0pjTW5KaFZUSnlVRkZsbzlYVUFZUlotNG5mZ19VcFRsS3pxSHJzOEV5R1JIVVFXQ2gzcGZaSHQweTg2dmVNVEJxQXhmR2xZbHZUUVZQak5rOFNTSXJUUGE4cHVSdlZPS2U2MFE?oc=5",
       "s": "인포스탁데일리",
       "d": "2026-09-28T08:06:15+00:00"
+    },
+    {
+      "t": "'하락 예감?' 코스피·반도체 추종 ETF서 한 주간 뭉칫돈 이탈",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jZ2dIMVc1aWV2dUpYa2lEZURxbHpTOGFxZmlfdEdVem5fS3hQWnkwMnpYLU93bDV0OXlseEJUeURwR2cxSUd3TUVQR1I2SHc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T08:06:00+00:00"
     },
     {
       "t": "美 금리 급등에 국고 3년 4.1% 돌파…2022년래 최고(종합)",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96WmVwdHNuTjhTcGNIY1l4U3ROU0J5aS1velJWSjBqRk45M2ExeTFfUFVWSWhjcWVNSEUzMV82LVB2N2h2Nm9TRTJ3QzhnLXJ0TU4tQ29pY2pWVkHSAWBBVV95cUxPdGIzLUwxY3lzUWdHXzlvRXgzWTVMRTVnaXJQWFBsUWhVd0pYTzExdE1iMnhEaUtZYnFUeG9wMG8wVW9XV2k1S3FJLXZtMUNfMUJ6LWcza29ReEtCLTJqdzI?oc=5",
       "s": "연합뉴스",
       "d": "2026-09-28T07:59:22+00:00"
-    },
-    {
-      "t": "[속보]연휴 끝 다시 7,000피 아래로…코스피 2.7%↓ 6,889p 마감",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wSzVoRmthczhxOWE4bVBHS2JDZ3dtMmg2amxiWWxpdGhLb0llTnAzeUJGMy1mZFNGWTd0dUtIMjB1QzltNkpfdU84VDZ4MjdDQV9UTmZzUWZQUF9ia0xKYw?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-09-28T07:58:39+00:00"
-    },
-    {
-      "t": "미 30년물 국채금리 5.5% 돌파…한국도 금리 상승 압력",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVjRqcXRTMXdxS3VTVDZRZUtqNWZYaFBBb0tUQWtJNm9DQXBqbE5kOGt4WW0wTG1MazZTX1F1NWhKc01jSDdYQnphX1ViUzZleWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-28T07:58:10+00:00"
-    },
-    {
-      "t": "순환매 상징된 조방원·차화정 '시들'…다시 반도체 '주목' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVam5xWnl3cl82cFI2VGI0T3JYeXJGWDQ0VVAzZ1ZxM1ljQzAyY2d3QXg5a3I2bEpqcnIySUVSNzNKSV95dDRlWHFLU1k4V3RpVkNsaFk2aXZ1aGd6R0UzX240U01CbXRG0gFuQVVfeXFMT213TG1yUjlyYW5kdURnLUhDRXl0TFlSbnVHeDdIUkpvR09HWFdWdW9WYjhCcll2OUpNNlpxelh2NHduSThXTnBvNEdTOXZEWDk4WWFod3RRTlEzRUxzelhNTjFLb295dWRzaWdVVlE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-28T07:51:03+00:00"
-    },
-    {
-      "t": "\"수요가 곱으로 늘어난다\"…AI 에이전트發 CPU 호황, '반도체 기판' 수혜로",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1waE1DbFdhNWdfbERHdkxwVUxINkVyWUNkRWRYNTM4cUx1YmlhWG8xYld4VlE5OVZsT3pZaWY4SFBrV21Xc2xULXloQTBuM0Y1WTUtZGpvNkZHUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-28T07:46:30+00:00"
     }
   ],
   "asof": {},
