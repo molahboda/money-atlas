@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T01:15:35+00:00",
-  "quotesAt": "2026-09-28T01:15:35+00:00",
-  "newsAt": "2026-09-28T01:15:35+00:00",
+  "fetchedAt": "2026-09-28T01:30:26+00:00",
+  "quotesAt": "2026-09-28T01:30:26+00:00",
+  "newsAt": "2026-09-28T01:30:26+00:00",
   "quotes": {
-    "kospi": 6988.65,
+    "kospi": 6978.78,
     "spx": 7743.41,
-    "nikkei": 66650.28,
+    "nikkei": 66411,
     "vix": 14.87,
-    "krw": 1358.08,
-    "gold": 4255.9,
-    "wti": 92.86,
+    "krw": 1359.78,
+    "gold": 4252.3,
+    "wti": 93.41,
     "dxy": 101.04
   },
   "daily": {
     "spx": 0.49,
-    "kospi": -0.42,
-    "nikkei": 0.43,
-    "krw": -0.68,
+    "kospi": -0.56,
+    "nikkei": 0.07,
+    "krw": -0.55,
     "dxy": 0.06,
-    "gold": -1.51,
-    "wti": 0.49,
+    "gold": -1.59,
+    "wti": 1.08,
     "vix": -5.11
   },
   "news": [
     {
-      "t": "한은, 추석 연휴 시장 점검…\"글로벌 국채금리 상승에 불확실성 확대\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPQkNlc2VsWjBuaThYbmdYUzd2MnFhWjFiczY1WFRHZEYtU0tBUDQ5NGdsbWFkdXZuYlZfcUFrQVp0cmRNM3UtLUgxbXNqXzVMWm5ndUpzOFdqckU2?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-28T00:27:00+00:00"
+      "t": "억만장자 투자자 빌 애크먼, AI 시대에 금리 인상은 실수",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQREZvTU5acTZ4aWdrS21iTjlVXzU1ME4wZGU2ckpUZGU4S2xzeERTdm5qczRKSkp5aWlRYi1ZWHVldjlEd3p5cWo1dEJxNk0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T01:23:28+00:00"
     },
     {
-      "t": "반도체 강세에 외국인 매수 지속…국내 증시 강세 흐름에 관심",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QcHoxR3Mzcl81cHdqbTJoWjI4NjBqN3R2X1ZpSll6b3k3Q2hDeXRtSXM4d2k1TzFFY1UtRzdHOWJBTndCNjRqd0p4S0wyZGltbEtmNktqdW5DNUpKZ0dfcQ?oc=5",
+      "t": "미 국채금리 급등에 '高부채 기업' 비상…\"포드·라이브네이션 위험\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yQlFlOXJiWDRUd0Jod21XNmgwbmFaT1djRnpndFBUb2pHOWs2YWZTbmxOcFVGdUtBVVZRQ0cwdWdvc2IzQ21hak5mY09PRUdRTWYzaXZQb21RTnZwNDhSS1E1MHR4U3NBLXJTRHozbmLSAXRBVV95cUxPSGJCMVZXcm94RU94M05UeHg0bG1RcWdON196dWZyN1BEU2RxMUI4REVsTWIyY0RNbzRYaE5WMHBhM2JiaXZOeGQtdUM1c1J6bndncmIxbjJWczhqYlAwWUVXeDNCYnFGdXRVX05Ib002eXlWTA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T01:21:28+00:00"
+    },
+    {
+      "t": "인공지능 수익화 기대에 반도체 강세…다음 매수 위한 자금 전략은",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yNUJsdHFMS3BGOGc3dmp0bF9Xc0N6aVY1ellKZ0EzeGxEUzItVDhYcGotV2NNRjBSM0VtMW9LOXhwOWtHdmhDM3dMWURiV0hLV0J2N2Z4N2g2SnZycktnSQ?oc=5",
       "s": "아시아경제",
-      "d": "2026-09-28T00:27:00+00:00"
+      "d": "2026-09-28T01:19:00+00:00"
     },
     {
-      "t": "코스피, 美금리 부담에 장초반 약보합…태양광주 강세",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VQjdYZTFjcVpmLXpvVElobVMwclFZX0s0RzMtXzhob201eGxYbzV0ZVA3VDJILWJrajFmNmNGbDRpb0tSU3B1NTh6VFgwcllxTFR2YzJBdlNGNm43aWh1LVRDeUo?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-09-28T00:26:09+00:00"
+      "t": "삼성전기, 환율 하락 '압박'에도 3Q 고실적 전망…AI 부품 '견인차'",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2aTBjTHBkZlg2dGRLQVRtU0Y3QmR2YVBHZWp5UENqVWxqRTBONHBXZHI3NWhsaUN3OGJkcXZwNnBack9NaEhqbmEwc1c0Q1E?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T01:17:51+00:00"
     },
     {
-      "t": "[포토] 하락 출발한 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjLUxDWDdCejhWYzQ0YktsR0tsOEVYaE5ja3RZMm1fRm5jeHFhN3RWNV9NQy1QR29Sb2xLYzVMNmM5Y3NFNWpEWFdJSnhrWTFOWGJzZ2Y5RlY2UFppNFlZNQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-28T00:25:06+00:00"
+      "t": "연휴 뒤 코스피 7,000선 반납…삼전닉스 약세",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xUEhrWU1OQUNQc3JyaDN5aHFWWWxkUmdfZHN2MEh0YllYSXBYSUlieGZkeEJPbWhVVnBSTjdMbDBVUlloMjlsbEdsRGxyWmZtU3d6NFpIWnpFd3A2b1EwTEdFN0J0OFU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-28T01:17:00+00:00"
     },
     {
-      "t": "[개장시황] 추석 후 첫 증시…코스피, 외인·기관 순매도에 0.60%↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PWUtwYnRTbmF5SjJtMzhfYWs2T0x3bW1MRkhwM0lPTTBGV21KdDJ6ZDNDRldmSHZEVVVtRUJaSHZhQ1JmUG5kcDR2Y3c4QTU0bG5GRE5BeGlZS2NJ?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-28T00:25:00+00:00"
+      "t": "李대통령, 메가프로젝트 '정주여건'까지 챙긴다…반도체·AI 추진상황 점검",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04N1FQLTFNVzZjOFhtYzQyUUdpb29jMlRIUU00bTJOWHdheFdKSFVPMXd2dUI1TFdMbmVoWGRWTFBsdHNiWExwRVh4eXZtYUdmLV8zUWY1SldZT0hyRVVoUWlBdm1SZmhTaXdrUTRhZ3o?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T01:14:06+00:00"
     },
     {
-      "t": "한은 “글로벌 국채금리 상승, 불확실성 높아져” 경계감",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WREpHNjRhVlVaZVhwUXNDQ0EtNHZ6T19Bb1ktVmJQNDVkLTV1cTJJMklRcHJ6bmZPVUJOaWhIUHlmakViZU5CdEdtSE9fWXYyVkZ2ZGdEeGZnMGhkcUFmd2V4UlRBXzUzQU9RQTVfeU1SUQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-28T00:25:00+00:00"
+      "t": "코스피, 반도체株 약세에 약보합 출발",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2UDljTmpMQ2IwSEM2T01zbV80SHdsRHVTY3J1UktaRXhfZGJsUkgtaG9NRXBKMG56OXZWWXd1dkZwSUFNOWR0YmE1RDFQNTJQUlBHbEtzcXBaQm9MMjd4VmxEYmg?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-28T01:12:33+00:00"
     },
     {
-      "t": "원·달러 환율, 0.6원 오른 1359원 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0s0SV96WVNRWXllblNPYnZGY1lKazB4ZU5YbmVNOE1qcFhKNXJBRUhadWYxaHZmVUkyRk5RWmx5OTA4TVZzN2RmcW1CVm5KOHdQeDBIOHpHaWV0eGo5N2dfYlo5cHk3Y00zLU1lV2pwbUtwMzd4OUZOV1RJNWp6cl9hREdTd9IBmgFBVV95cUxPTC1FZHBrVkhmVmVVQUQ3Ty0xY28zUlZQMkY0RWxNTERpNXpKRE1YXy1nZ2NFSHVRRGc1VWJ6Q3pkYjdyVERzQWdNQXJTOExOWHhQalk2bWU0LVBrMVhPb2stenJRdV9ESUdlTFFpakRLU3M3NC0wYmd5eE9UMV9VYU9FQ1JSLW83X2hjNjZ1QUNfRmNwSkpDamJ3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-28T00:25:00+00:00"
+      "t": "맥쿼리 \"美 국채금리 상승, 물가보다 채권 공급 영향 커\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BSGhKUnNjTmw0UUtScFNKQjJEc05udV9KY3l2bkV5RURYeDhSV2UyMEtDTDRZT3c0QWhTaXFwdW5PLWJsRnJpRTNNMGZ1WkViYmt1ZUt3WmlJQnhqbTlwZ0N0MVVXTG4wek8xeU9BZVU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T01:11:04+00:00"
     },
     {
-      "t": "[포토] 코스피, 추석 연휴 첫 거래 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTWljWERLcGtiNEZ2c1RPU19QSGJuOHlyRHFMWnRxaGlJY2JROGxyWVRicnhURXBDdFdmdVhoemtLNk5YT0Q2eFJDVm1HOGlKQzZqY1Q2NDBOdnYwVGVrLQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-28T00:24:50+00:00"
+      "t": "\"물가 걱정 말고 성장에 베팅하라\"...미 재무, 연준에 훈수",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KUzlfNUdXOVUtQ05sa0VPYjNyNjhqWm5qUndDSDFuYkw3QlNlZWhfZTdDM1NaaFdBbUwtY3pDT0UzTy1BUllMNmNKQnJzcy1Qb3BZNklaenp5bkV0dmc?oc=5",
+      "s": "YTN",
+      "d": "2026-09-28T01:10:00+00:00"
     },
     {
-      "t": "코스피, 연휴 끝 '숨고르기'…0.33% 내린 7050선 출발",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXpJOHpQT01laUJsd2RwQnZKWTdmanoxTmxfWGpmT0tSbjAxenp4UEtYTXBHcUNhVGFxZUlOalh1UWJxVDhxNFdyLV90NmVwbXp3bHhKOFFxM01WTmdNdG5YRHE0NGs1enVsVmVOOC1xbndpa2FGb2xWM0J1M1NSdzVld0pNVXl3?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-28T00:22:50+00:00"
-    },
-    {
-      "t": "연휴 끝낸 코스피, 소폭 약세 출발해 보합권",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QOFZNVkZYZmc2em14RUtZZEllMDQ4S2hVOUlwN096LVZZMXRZZ0N3RGpkU0gwdnZybW1McEM2RnY5X1JkT2Zfb1ZPX2tRNm4zazR2RVlCRlkyWGNl?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-28T00:20:00+00:00"
+      "t": "BNP \"장기 금리 계속 급등할 세 가지 이유\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nQjVyOW1HdDlWOWhDdmMyU0JUdTBqeUZfWDVubml6Wk5QRk9rYmV5Tjg4bkRVODUtcFQ4LUNWU1lnUjVGbWl2bi1uMy1pc01WVEJTbVY0MmpIaTdRdzV5VDB3MzJYOFREbmhTYlltTjbSAXRBVV95cUxOUE1EcG5NM0tEWEwzVW9qNDJoVmNjczJtV29ybjUzbFdjWGFyc094cENISjM3Nml2OWlwZy0tTWNhYTRBaC1pQmhiTWFxa0ZPMmV5X01sLU1JdnJPaC1ER3QwU0M5b2FSVXg5eXVTVzhDV3ZPTw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T01:08:33+00:00"
     }
   ],
   "asof": {},
