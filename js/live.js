@@ -1,33 +1,45 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T12:15:38+00:00",
-  "quotesAt": "2026-09-28T12:15:38+00:00",
-  "newsAt": "2026-09-28T12:15:38+00:00",
+  "fetchedAt": "2026-09-28T12:30:27+00:00",
+  "quotesAt": "2026-09-28T12:30:27+00:00",
+  "newsAt": "2026-09-28T12:30:27+00:00",
   "quotes": {
     "kospi": 6889.74,
     "spx": 7743.41,
     "nikkei": 65877.62,
-    "vix": 16.29,
-    "krw": 1357.94,
-    "gold": 4193,
-    "wti": 95.32,
-    "dxy": 101.1
+    "vix": 16.15,
+    "krw": 1359.38,
+    "gold": 4202,
+    "wti": 94.96,
+    "dxy": 101.09
   },
   "daily": {
     "spx": 0.49,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.69,
+    "krw": -0.58,
     "dxy": 0.12,
-    "gold": -2.97,
-    "wti": 3.15,
-    "vix": 9.55
+    "gold": -2.76,
+    "wti": 2.76,
+    "vix": 8.61
   },
   "news": [
     {
+      "t": "美 국채금리 급등에 코스피 7,000선 다시 반납",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fdWdLbmJlcG03QzJRcFJjVElySXo0WTM2TGVqbmJESEdlcTU2MlctaUV2MUhZSEVTSFQ5azBSUGFaQ0g0NndseDlRampFaG9zMnltT2syMUxUenRvZGVHdzJTWk9FUWM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-28T12:13:00+00:00"
+    },
+    {
+      "t": "신고가 쓴 나스닥, 이번 주도 갈까?…'물가·고용'이 가른다[이번주 美 증시는]",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcGxHcGVKYjhrTFlNbnhLY25OQnZraTk1eWpScklnRGJXV0VwMWxqWjc3aUJxMlM4WVp2QzFXZUtfS3lGWEtQWUVNdW5RSTBJWXlN?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-28T12:02:40+00:00"
+    },
+    {
       "t": "中.민간 AI기업과 반도체 전문가들 해외여행 제한",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0REdmN1NsS3FsbVVwWWRUdTVEa1h0YVI4NXhLUVUxZUtWcENpekt5TDZsTmVMT0laelF2NmU4dHU1VFVDMmdxYU05M3paSXFsamVSVlQ1SURfdw?oc=5",
-      "s": "hankyung.com",
+      "s": "한국경제",
       "d": "2026-09-28T11:55:46+00:00"
     },
     {
@@ -45,7 +57,7 @@ window.LIVE_DATA = {
     {
       "t": "다시 불붙은 중동 긴장… 국제유가 4% 급등, 브렌트 108달러 돌파",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sNXU3UUpoMnUxX3hMX1pGc1BjbW8wek5VcUlkVEhhUVlUNkFGMzQtVHJ6Y0xNOU0zcWE2N0tLU05paEFlRmI2TW50VXJ6d0Rja1JoNXhTNnBURWdT?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-09-28T11:18:00+00:00"
     },
     {
@@ -57,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "[인도증시] 유가 급등에 6개월래 최저치로 하락...은행·금융 지수 낙폭 커",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44OHJSTHNlVVU5ZTFlWUNkSUFSRktWZlFIc0xDQk1mNGFsZEJETlAzMTk1Z3RaNGlqSFJOTVZPYWM2NFBvYXVrQ0NoUkVlZ2Nvc1pYbmxiX2FTVDFZ?oc=5",
-      "s": "뉴스핌",
+      "s": "newspim.com",
       "d": "2026-09-28T11:17:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBteUFQQkhDNHhKYVJFd1FUWUhvLXZLX0xEcnBjS1g4eFpnS2c3dDR2Uy1WSFZrYWx5OHlnRTB2b1NwQmx6NVBWQ2QzVUV4eHc?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-28T11:01:45+00:00"
-    },
-    {
-      "t": "삼성전기, 세종·베트남에 6조7800억원…AI 반도체 기판 늘린다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wX0twSkhkaHhtNEVrSEZQbkxOSDVqTHFLQ1lfNUxMdm1mbnluVFZsbXdvVm96bWRKcFo4OHFNQW54WnpQalBaVkNwYmVZRWJBVGN5c1FB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-28T10:51:33+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 금리 상승 속 日·中 하락…臺 휴장",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Wm1IejlDX0dZT2xqcVFmNmZUMUEtZllxeW5pa3ZwQy1Cb2hWZS1YYVJqQUlvTHY1X2tZNzdfOVhuaUx3NEktcUk1bkl2Xy1LQU8tenVRc1J2MFVJdHA0cjFqZGJUblNuVkVlZFNNRDE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-28T10:24:37+00:00"
     }
   ],
   "asof": {},
