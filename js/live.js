@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T16:00:36+00:00",
-  "quotesAt": "2026-09-28T16:00:36+00:00",
-  "newsAt": "2026-09-28T16:00:36+00:00",
+  "fetchedAt": "2026-09-28T16:15:24+00:00",
+  "quotesAt": "2026-09-28T16:15:24+00:00",
+  "newsAt": "2026-09-28T16:15:24+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7682.94,
+    "spx": 7684.23,
     "nikkei": 65877.62,
-    "vix": 16.34,
-    "krw": 1359.68,
-    "gold": 4153.9,
-    "wti": 95.42,
+    "vix": 16.23,
+    "krw": 1359.92,
+    "gold": 4155.2,
+    "wti": 94.78,
     "dxy": 101.21
   },
   "daily": {
-    "spx": -0.28,
+    "spx": -0.26,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.56,
+    "krw": -0.54,
     "dxy": 0.24,
-    "gold": -3.87,
-    "wti": 3.26,
-    "vix": 9.89
+    "gold": -3.84,
+    "wti": 2.56,
+    "vix": 9.15
   },
   "news": [
     {
-      "t": "AI 증시, 체력 시험 주간…뮤즈AI가 뱅크런 촉발?[박신영의 개장전 요것만]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UYXZsZ05INkhZZ0ZuVG01elJkUFZsNmJMblZmZGh4eE84Tm9nd2hmb0J0bGhnclJ0T1JMbklyN0dkbUo1dFgyZU11SFc4Y0VtcFRLdkNsUEgwdw?oc=5",
+      "t": "[단독] 삼성전기, AI 기판에 6.8조 '사상 최대 투자'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GaUFSbUx5WW9wX2ZEUG5ab0lOeVNRU2w3MFY1RnV2TV9kQzZXcjMzeENLM3ZJVnN0TS0zRVVXdjZyOEpBYUxuYU92OE95Zlh2cG1maVRmdGNLQQ?oc=5",
       "s": "한국경제",
-      "d": "2026-09-28T14:51:02+00:00"
+      "d": "2026-09-28T15:37:00+00:00"
     },
     {
-      "t": "[뉴욕증시]트럼프, 조건부 휴전 제안 거부…일제히 하락",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQTN6d0pfNm54YnJ2WlBycC1WMExmQ3pxQ1M5cFJHU3FvQkVEZS0yak1DTHVGZWpXZm1zQnRJRmZfRVdzcUl2TkZPeThhb1l6TFVCSVFJMzByYl92VVQzTA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-28T14:43:19+00:00"
-    },
-    {
-      "t": "뉴욕 증시, 미국의 이란 '7일 계획' 거부에 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16QjAwSmVDakhGTXlYRVZnTGNhbnY0WkxLYmtRSUNTdHY5Q0lXbWM4QnNOM0VMbng4ZWRPYlF6TkdIbHBRVTlaQmZGSWlpZkxKQU5rYVc0d2FWV0Q4SkE?oc=5",
-      "s": "YTN",
-      "d": "2026-09-28T14:41:00+00:00"
-    },
-    {
-      "t": "美中, 81조원어치 상호관세 인하…트럼프 공들인 美대두는 빠져(종합2보)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LeHF6LWFGcW1MMWhOOXdKeDlSVmNzTEYwZUUyU3JZTHoxelBIbjc3Z3J1dXJxMGpLc1lpUFN0bWNYRVdLcGNFZ00zMG1keXM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T14:35:59+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 유가 고공행진에 3% 급락…한달만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BR3B2RUZVbFNBaUVOdUtpbDVtbUFPWEttWkFoMEU3SGgwYnRtN2E3Y0tPT3RxQWkzWTJqNmZEUE5aeHJqNmRPYk1tNEhOSzZVZXRVUEJualF3WVIwYnhXUEdPRjdEWENGbFRzSzB2bUpCUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-28T14:25:51+00:00"
-    },
-    {
-      "t": "뉴욕증시, 美 이란 ‘7일 계획’ 거부 소식에 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmdiUHV4Q1RjOC1tSElVaUxUY0pkMDBVMkJfUkwyakdWcU1oYUJad1lTZ3NzOUw4NEhPSVZxdFEtWW9JNTZGcmFIYXI2OWxHNXdGTzVRMk9UYTlDd180cnJGa3JOOVA4MGQyOVRHMjFBZjY1c01Pd0lZbXdNa1ZyRnN5azNTVjZMYWduYlJBUE1IX3dmNlFILU1WWU1Tdw?oc=5",
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 28일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzhUU0V0ck40alFVVThQYWlIaGh0WU9yWXU5RW9ZS3RxeElQNldWMDBvSlVyX2g4ZE40elNVZlREMXBVZUpoTFpZNjRPRmZuWEl5NUgxclVNbk5OT0dXbmp2QTF2UnpWVUd6Y1ZzeUkwT3duMklUSVNxZDYzU3Vfdl9XekNsZEhn0gGcAUFVX3lxTE1mSnFiTmFHb1BodmtpR1VtSkpJeGoxVUdqMEt3VVlWWEpKZ2NGcHJzLWFORFNLLVRjdnJlN25kS0REYmpONmhBd1VaQ2FzRTNQbEpZdVo2dVhlNVdmemVxU2VBNDBvS2t1RThyN05Lb0lGYkF5ajd3NGlQNXNuWERSQnQ4aE90dXBBVXQ3WVRQV0xtRnBodDRDX2ttMA?oc=5",
       "s": "Chosunbiz",
-      "d": "2026-09-28T14:12:00+00:00"
+      "d": "2026-09-28T15:36:00+00:00"
     },
     {
-      "t": "취임 6일만에 한은 찾은 이형일…정책공조 ’시동’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lenRtVnBKY3hObUtjb0V3Z2d5Y2JzeUMtUHdWTTQtUkp5bnFnQkZCYXM4ZlVDNW56OW5fTjVpN1RlYU1HTldhb2hqdEh3U0lFMFAtdC1VV3djUGoydV9QQ0hUdUdKNEE?oc=5",
-      "s": "yonhapnewstv.co.kr",
-      "d": "2026-09-28T14:04:00+00:00"
+      "t": "국내 증시 장기 투자땐 稅혜택… ‘납부한도 2억 ISA’ 내년 신설",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fak1vc1RaTmpDY1FMeUU4bkZmS1BXdW05ZGxCMS1hZ2FJbDh1bjEzb21DYk5yRWprMU12aVhYYTdGUkhpTmtHTjllR1JaQm5JejZQY05LemZUN3ZKYTJWLVpSVjRBazlXNGxiencxTlFCTkxBY1HSAWZBVV95cUxQX0Vzb2pmYS1EQkFpb215dFJVdUZvb2ZHNDJKaXdQX0pDQUN2ZVdwNFpNV2dXSkp4M1RFVXBNYm1iMTEtRHlaa1AycXVnVmVLTmtNbXV0djlEWURBdmMycUFBdlk2WkE?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-28T15:30:00+00:00"
     },
     {
-      "t": "캐나다 달러, 미·캐나다 금리 격차 확대와 유가 약세에 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5clhON1BWaHZ2OFlmd0Q2WFFjVGIzcnlhSWNTS2Y3bmY3amJBVF9HRE40ekNUM2pDMUJVWjlqX3dsXzhpVUNjNTh4SXM4THB5bTdEdk0yY1ZxR25IbTN2MlpwR3JCYVU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T13:58:00+00:00"
+      "t": "미중, 81조 원 규모 상호 관세 인하...트럼프가 공들인 미국 대두는 빠져",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjQwWkp2TE1IVnprOXRLcGV6ZXFZU3g0bDdmQTdnQjE3MHpiMEhxT0pZNklGYmhNX0tMZVBKTzhhOFpjb2FMMXl6c3pjOUsySnlKYTNkWlV0ZTBlNEE?oc=5",
+      "s": "YTN",
+      "d": "2026-09-28T15:25:00+00:00"
     },
     {
-      "t": "글로벌 금리 압박에 캐나다 국채 수익률 상승",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04MDFyd3JBNWNuMUVEZy1DVXJxUlFaTGwtT214RExZUWczMUlCMmJ5dEIxbEVZMDQ4S0x4U3hpa05mQnlPUnQ0bGJwenRPczRIVnJxQzRsNGp5cnhRU20zd0VPZmNXd3lPMlE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T13:58:00+00:00"
+      "t": "라가르드 \"국채금리 상승, 경기 식히고 인플레 전이 제한할 것\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LVzRqMGZQVjRfTEl2YWtvbEdTaldfTTV3MXlaeUVCTzBLeFRWWjNyTEJZbGhvcDR6WFBwN2dVRU05M1RYUjJsYnJDXzMwb2pNUU5xdWpieUo2Z2VKd2V0QnZLWWtKM25GNnItdG9YTWV0QQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-28T15:22:22+00:00"
     },
     {
-      "t": "뉴욕증시, 美의 이란 '7일 계획' 거부에 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzdDI1S2FCODhYanpORHlmZ1FhWEhXSzVsVkc1WlVXOHBwdFZhaFllQTdVS2pnTkZ6UEhuaHdBa1VybXlQSWtEM0xxUnRkeWlRUEZMZGNzUDNleF9hRU9GdU91YTY3OVNEa1Z3dEZPY1E?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-28T13:55:38+00:00"
+      "t": "미국·중국, 600억달러 규모 상품 관세 인하 합의",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xMEVERGxrVk1NclgtQ3JGT0VmWWxmS1BvTHhEZGxDMXA3bTdzdUgxeGNuX2hfX2lfVHk5Qk5Pelg5dEN3Tk1rQlphdUZWT3V0?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-09-28T15:12:09+00:00"
+    },
+    {
+      "t": "[사설] 브레이크 안 보이는 미 국채 금리, 후폭풍 대비를",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZ0pUTm9RQzk4S3Q1LWZDbVQ3NnJYQjhVOEx5WmxualhKbnFHdmFUbWQ4QlBWLXJfYUkySC1qOUt5QXZ5Z044NEFpVjVYejhvYlFqSFlRbEcyM1BTeGtqc3F5NHIwdkZ2aVQ1QUFB0gFzQVVfeXFMTTF5VktRZ19wVEhNbDE2YVNKMm5SZDJCUnMyMTE2enJiR1JDaEw4eldYOXRxTVVUcm5fc2gtRzQzaENLcU95aVRtdXhGYmxrejJMXzhhNm9pUGYwMWFWczMyQXllSkJ1UEVVbk84Unp1Q05JNA?oc=5",
+      "s": "한국일보",
+      "d": "2026-09-28T15:10:00+00:00"
+    },
+    {
+      "t": "신고가 쓴 나스닥, 이번 주도 갈까?…'물가·고용'이 가른다[이번주 美 증시는]",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcGxHcGVKYjhrTFlNbnhLY25OQnZraTk1eWpScklnRGJXV0VwMWxqWjc3aUJxMlM4WVp2QzFXZUtfS3lGWEtQWUVNdW5RSTBJWXlN?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-28T15:00:43+00:00"
+    },
+    {
+      "t": "미중, 600억 달러 규모 상호관세 인하 품목 공개…미국산 대두 제외",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdWZtekZidV9yX2tyY0I0X2xfcGhEOTlwbHhVQUFEbzRHVl9DU3FsMlhBanZxZXRGOTBCOWpMTVZRbkNGclBqa2lJU0lvdlU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T15:00:00+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (57) 알리바바 ... 타도 미국 \"AI모델=퉁이첸원\"",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmpVSm5EMkNFMHhZMzgxX1V0VXhHQlBXNlhxeWNjYXZrMTYwV3h5MU9LaXBBeHl2VDlHdnJPeFlGVFBmd2RUZkRabW8yQjcwQk51VmlNb2RGREhWUWdsamEyVS16c3UxMk5oWjAtbFZCMm1yT1pzbUN0c1ZiNmh1UWFHMW8?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-28T15:00:00+00:00"
     }
   ],
   "asof": {},
