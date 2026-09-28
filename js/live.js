@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T22:45:37+00:00",
-  "quotesAt": "2026-09-28T22:45:37+00:00",
-  "newsAt": "2026-09-28T22:45:37+00:00",
+  "fetchedAt": "2026-09-28T23:00:34+00:00",
+  "quotesAt": "2026-09-28T23:00:34+00:00",
+  "newsAt": "2026-09-28T23:00:34+00:00",
   "quotes": {
     "kospi": 6889.74,
     "spx": 7683.69,
     "nikkei": 65877.62,
     "vix": 16.07,
-    "krw": 1359.92,
-    "gold": 4155.2,
-    "wti": 93.33,
+    "krw": 1360.02,
+    "gold": 4156.5,
+    "wti": 93.34,
     "dxy": 101.18
   },
   "daily": {
     "spx": -0.27,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.54,
-    "dxy": 0.2,
-    "gold": -0.32,
-    "wti": 0.79,
+    "krw": 0.41,
+    "dxy": -0.02,
+    "gold": -0.29,
+    "wti": 0.8,
     "vix": 8.07
   },
   "news": [
     {
-      "t": "[속보]뉴욕증시 하락 마감…하닉ADR 5%↓",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oM3lKSGM5NUpJSVg1RGZZb1piNm1pNjgxaDdVS042Qnk3SHN0bzRDNERJcThILUgxVlZONTdUZjROempiSVZTMWw2VE54cXow?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-28T21:09:49+00:00"
+      "t": "[0929개장체크] 美 증시, 트럼프 이란 휴전안 거부 및 금리 급등에 하락",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nSUNaNU5sVzZLN05JMnRTNVlkZGgxMkZuVVlJOXgydlI4N0FXelFrX1pMUnd5YXFIRVl2S3Y3V3ptNlJmeHNmdzdfbTh6YUFMNVlSWTU4WkNheVBhZGZkUTJGSEIySVpENDBObTR3ZTZ3NDBZeWc?oc=5",
+      "s": "infostockdaily.co.kr",
+      "d": "2026-09-28T22:57:58+00:00"
     },
     {
-      "t": "트럼프, 20조원 규모 제철소 투자 발표…\"관세 덕분\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHOUl3RTc4bmhBVm5OYVNBbkpxRy1Rd05rb0VqVnJrRFI4aTFua2Uwckg2SXl1TENXdng5SjZrM0ZYR2Z4akhGX01VZC1QVXM?oc=5",
+      "t": "삼성전기, 환율 하락에도 역대 최대 실적 전망…AI 부품 효과 본격화",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsYkRvWTZORUpxV1dVdDFKZm1aSFhES3lIOGRCLVc3QUxUOWV4SWlmUm9JNG5adG56Y3p5SmVCUHFQbDNkRnVDdzN5aExGWjg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-28T21:06:35+00:00"
+      "d": "2026-09-28T22:49:44+00:00"
     },
     {
-      "t": "뉴욕증시 기술주 약세 속 엔비디아는 상승…자사주 1500억달러 매입",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sU3RwRHJRNFlGVXJ3SThtdDJ1Qktaazk3M085UnpSNlhqRlZkYndfYjBwcmM2ZzE0ZHd2UlVqekdmU3YtVmt6c3dGN0UwZTUzLURXSnhHNzBNNWwzbEV6TzdmRGU?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-09-28T21:01:47+00:00"
+      "t": "美증시, 국채금리 상승 어디까지 버틸까…BofA \"10년물 7% 넘어야 증시 타격\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fSU9IeE1BRndnUUVjVDU1TDRZYUh1d0VUSHB4LTVJYmQwVk1hX2JiQ1h3R1d3SGlHNi1kcXd0dGxfSk5GR3BPYWNKS2V6YU5yeGpZcFktS2VSNUk3UF9kNUJiN09hVWl1WEtua19VcDJEQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-28T22:49:19+00:00"
     },
     {
-      "t": "미·이란 대치 속 美국채금리 또 상승…뉴욕증시 하락(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qVUZPbmNKNU1sN3U2WTNhYmZ3ZjNMMGg3cGp6UE5yV09wTXVpaTVoMVNjcXVESGg0Ni14dzJMSE9Sdk5QVjJlRlQtaHhyTGFvM21RWWJ1T0FXM03SAWBBVV95cUxOQ1lCX3A1aEl5S2tCcnhMYjRQS1UwSDRUOGxYUTZqeFkzRHA3c0VVSDhWQlhidGNoR3c2NjRsN2lTVThlSE1tcnJDREhBaklzYmZGdXh0X3NuS3pqaWpSN1g?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-28T20:55:11+00:00"
+      "t": "원·달러 환율, 1359.9원…달러, 중동 리스크 재확대에 강세 전망",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WOU9oRDdXbjFhUTFFQl9tWHphdXF4RHB3Y21hcWZDR0VDYm5LVnp4Z1RuakQ5N3gtbS1Xb1pIX1J3dXZUQ0dOS3Q1ZzdjeEJkT0x5NE9VTk8zNU5sNVdmTWVDaWd0ZFhGNzhzMjFCSQ?oc=5",
+      "s": "조세일보",
+      "d": "2026-09-28T22:47:04+00:00"
     },
     {
-      "t": "[금/유가] 트럼프 이란 평화안 거부에 급등한 유가, 중재회동에 상승폭 축소",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6ZVhydGlHTlhiOWduUm9JS0I2RE95S3hnMWl3WFUzNWJhX0t6NUFNR0ItNkROUVFILUczOUpjcnpNQ1Y1NUZyYUQyRkhHRlhvTERhNzdPSGxqdUlu?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-28T20:55:00+00:00"
+      "t": "AI도 금리도 한꺼번에 맞은 날 [9/29 G모닝]｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoZFlXSkgyQUFDZWYtUjJYbzktaURVUnRncldBXzJzZy1FS1hBS0pNbms4MXZxM3JNdUFXQTBuTWRUckdIWVNfNlV5bV82QVNtWF9xM3RQT3lzU28?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-28T22:44:52+00:00"
     },
     {
-      "t": "美, 이란 ’7일 계획’ 거부에도 대화 기대…국제유가 강보합",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM1BST0c0NDNvUGgxTEJaVl9KYmxodHhyTm5VZnljMTVFaVYyZzlTZmRrOGpSbTR4RkdKdVFmSk16bHhCWU9rQ094LUl0MDl3NU01RFZYX21xb0lOcDFiMnh6SklQU2s?oc=5",
+      "t": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PS3YxUHhjQjhIaEZWSFRWU1g2NllrLXN2RmtnQmdvU0xqcFVueG1YTkZkdUxSeWdWeFpNdXEtaGdDV1B1c3JWYUFRZk83ckxfWTJ3MA?oc=5",
       "s": "연합뉴스TV",
-      "d": "2026-09-28T20:52:00+00:00"
+      "d": "2026-09-28T22:41:00+00:00"
     },
     {
-      "t": "나스닥 0.92% ↓…유가·금리상승에 3대지수 일제히 하락[뉴욕마감] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pVHgtdnd3M1RkN3Q5Z1ZmdUxKb0oxM3RXcERaaU1ITkdLcmltS0F4dmRZLU95ZUJob3kxSVhTSGlQZ1RTRk1ZdUlFb3MwUkR5bzNLX1M0NTdzbFRneUVOR0VPMXlpSmdW0gFuQVVfeXFMTng2YXk1MElIaEJCVFdvNXNWcDMxZGxoajNQTU43eFkzWXRjQmhRa244cm85RS1IdVVfRmF5UlQ0ZDhNcEJsNGM4MWZuYmVLUHNSb3YzaU9sT0YzOExsUVJVZnhNSURfMTM0aldLU0E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-28T20:49:07+00:00"
-    },
-    {
-      "t": "엘-에리언 \"美 국채금리, 중동 분쟁 끝나도 4%로 안 돌아갈 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85Wm8yN2R5bFZnb25CMW1RZHJ2eEl4OE81M0JnZ1l4dEtxLVpkTjJzYktzOTdpN2xEancxZmJzLXF3MDlBR3BEMk1Oc0ZBS0ZtcHFVanVLamQwVjd3RG55YWtkSi1aWEd5aGJkdkprd3I?oc=5",
+      "t": "[뉴욕마켓워치] '타코' 무산에 더 높아진 국채금리…주식·채권↓달러↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNXVqMlJTY0g2cjhocEl0YUdVRVpoSW8yVmFRc3d6SlVodWxhWnpkeTdCdjdHeDdOcTRoQUJOZU02cWlfaDB5R2c4RVJ5NHM2dzBfZXk5U3hOcllJVmpHbUU0WUJzYjZlSzdTVm45Yk0?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-28T20:46:55+00:00"
+      "d": "2026-09-28T22:40:19+00:00"
     },
     {
-      "t": "[뉴욕마감]고유가·국채금리 급등에 하락…나스닥 0.92%↓",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5La3pPSUw2bU5zcW5rNHZJcjlhUlBTYy14ZGtnX3RWMTRWTmgyUlYySlJ1bDB4VUlfdE5yVnZFaXN5RHV6U0Rkb2hudkRRakdDVkxMaGsyWkhtUlZoWkNEdGZfUWtwM03SAWxBVV95cUxPZWdtOVRNbWdQVFRHc1d0V3NuWWV1alY2ZVQ4TVJqVjJTYWpaTkVUWUd5cXNQbVNjeEg5aXVfM0ZKcC1Ua3JkY1pwZEp1OVA1MzNrcC15YUtwb29EY1BBSHN4SzNxeEwyOFhRQ2w?oc=5",
-      "s": "뉴스1",
-      "d": "2026-09-28T20:46:31+00:00"
+      "t": "美 국채금리 상승에 뉴욕증시 일제히 하락...나스닥 0.92%↓",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40eGctYzFVNzFsMzZzYzBMTTBqUjRENHh6NEEyYXI0aVlVQW0xVUNaY2hOQmt1WEFtU01hRFBIT3FUc0VqOTNjSi1Ia3dpY28za1MzM3ZFU2R2cFBmSjRSVF9XaGxXczFwLWlLRzBMUQ?oc=5",
+      "s": "조세일보",
+      "d": "2026-09-28T22:40:00+00:00"
     },
     {
-      "t": "또 국채금리 쇼크...힘못쓴 기술주, 美 증시 급락 [월가월부]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90emo2OUFLN2Z6YkhWd3Y3c1A4X3d3YzcwNFh5bHd0SEFQcUFDNUJGWktsb2s5OXNOVHZ4bnhfbWVKSkhYa2VCSVluQ3hTdVk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T20:39:00+00:00"
+      "t": "[투자노트] ‘블루 웨이브’ 예상되는 美 중간선거… 증시 영향은 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHFwbkFVdGVTQUJjdXdNaHYwakZoTkFDc1N5eTVEZ2lYY1dXX2M1VTRxQ2lXQ0JQNTR2dHVjTUxpd1BFNkJmZnlBaE9uUnVueG11dVVkLXBadHAzVUJsUEdkbXh1THZ5aEMtNEhOdkpEZ1B1TmxxaHNMS1FUbHg3djF0bFlaTklj0gGcAUFVX3lxTE1DUEJpalNGX0tDcUlIamI3MjloVl9wZWhVY0M5SXUyc2xiR2I3MDJFa1JWOTlGcC1Tc3duOENRX3NYOEJKUjBxR1ctS3YwM19hNkQ1cmFlaUYxN2JSR1BDcndNV1pXMXZnMTRUU3FtajdPeDh0MlBxdUtPLTN1Y3RyTTdPNjRWTlhJV3p4ZXFFTzR2VlF5Mmt4Slozcg?oc=5",
+      "s": "biz.chosun.com",
+      "d": "2026-09-28T22:37:00+00:00"
+    },
+    {
+      "t": "용인시, 민선 9기 첫 조직개편…AI·반도체 전담팀 신설·정원 131명 증원",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnZG5oMUJMS1VkZnVQdlpCZXVRNFptQ2NiMmNIVGt3QmxNM09zMlVIRVNuMzBIMl9yZnJWdXRSR0RVUW01ZXVUZTM3d3M3LTZuYndRbVVaNU1vVzBWWFdScA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-28T22:34:39+00:00"
     }
   ],
   "asof": {},
