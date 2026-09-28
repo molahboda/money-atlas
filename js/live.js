@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T05:45:29+00:00",
-  "quotesAt": "2026-09-28T05:45:29+00:00",
-  "newsAt": "2026-09-28T05:45:29+00:00",
+  "fetchedAt": "2026-09-28T06:00:35+00:00",
+  "quotesAt": "2026-09-28T06:00:35+00:00",
+  "newsAt": "2026-09-28T06:00:35+00:00",
   "quotes": {
-    "kospi": 6918.64,
+    "kospi": 6912.34,
     "spx": 7743.41,
-    "nikkei": 66230.66,
+    "nikkei": 66197.3,
     "vix": 14.87,
-    "krw": 1361.69,
-    "gold": 4218.8,
-    "wti": 94.35,
-    "dxy": 101.1
+    "krw": 1362.18,
+    "gold": 4214.2,
+    "wti": 94.31,
+    "dxy": 101.15
   },
   "daily": {
     "spx": 0.49,
-    "kospi": -1.41,
-    "nikkei": -0.2,
-    "krw": -0.41,
-    "dxy": 0.13,
-    "gold": -2.37,
-    "wti": 2.1,
+    "kospi": -1.5,
+    "nikkei": -0.25,
+    "krw": -0.38,
+    "dxy": 0.17,
+    "gold": -2.48,
+    "wti": 2.06,
     "vix": -5.11
   },
   "news": [
     {
-      "t": "중국, 미국 농산물 관세 인하 발표…대두는 제외",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DMzJyZ1VnVnRSc3JpQkx3ZDFIM3hfM0tzQXVrT2ppcnFveXkxVDJOX19TUE8zR0gwUG8xWW5GaUZ2WXo4c0xPa2RkV1VDcF94Mmd0VHFmS0RsWUl1WGc0U0NJcWhmUEctYWc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T05:31:00+00:00"
+      "t": "캐나다, 중국산 태양광 모듈 반덤핑·상계관세 종료",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcEEzZ0hXNUJ0RUk5bFJSTmxab2JhOHBkb0tYRUM2d3BxbTRheFpMRVh6OHMzc01wSllNVDBOLVQ0MnFiVlEyZ2kyb2t5REJwLThHdDExM09BQTQxa2pOTEZRc0kwaVRlWmc?oc=5",
+      "s": "AI타임스",
+      "d": "2026-09-28T05:56:33+00:00"
     },
     {
-      "t": "모빌린트, LG전자·두산로보틱스·대동과 온디바이스 AI 반도체 개발 나선다",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84Vlp0eEZhTXk4YkxQY0tvX3RvVU9Gb3JVWm9OVXJvQlQ5T3J1aUkxNzRHamlGU0FHRDZGZ1ZMYko0dTY1Zk1OVWRLUlgwVzZFdXBJYzNQcy1QY2FCQmpZ?oc=5",
-      "s": "헬로티",
-      "d": "2026-09-28T05:20:49+00:00"
-    },
-    {
-      "t": "스콧 베선트 또 연준 압박 “금리에 열린 마음을”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95eUI5MlBDZ2VDaW5XNUZqMF9vclZ2YkNlNzVNT1VBZVdvNEFaM2VSNWRhRFdySEdMbHRvazhyZ3Vtc181a3duYmJEVTBLc1E?oc=5",
+      "t": "[오후장 체크포인트] 7천선 내준 코스피 마이크론 실적이 반전 카드 될까?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kQy1xVTBoSXZSSjROQUQ2OFY2cDEtTHNuUHpyRnJvZHZ5aVZlWU90VTVvWTdzNm9ZM3FlOFE3LTJES3VEbUNxRkNFbzhrX2M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-28T05:18:01+00:00"
+      "d": "2026-09-28T05:52:00+00:00"
     },
     {
-      "t": "\"인도 RBI 1.25%p 금리 인상 전망은 과도, 최대 0.5%p 그칠 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kaW1yeEVya0ZpOGI3eWR3dTJSdDJzQXIwaXphQTJMcmV1d1Z0VmJPZEZPajFRck1zT054WEdJNDNfWXh4eThqd2NHT3BHRVp2ejFVWXkwdXkzYW80?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-28T05:17:00+00:00"
+      "t": "한국 10년물 국채 금리 미국 2.3배 속도로 올라…한미 격차 좁혀졌다 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1MzA4NTVPcGJkX3ZYR3YwaXRuNnpQRHVNWkxVRXNsZmp3Z0E4WDZ3WWRxUUZNeXdvb0R3OTdUVHJoTXM4ZXdtSmFHRThKbGxaLWxtQzNPNzlILWpiOEY0a1Qzd2dyZkd60gFuQVVfeXFMTzJuU04tbWIwT2lQV2xaT012cDBwZTZFUWRXSGJVS1B5NkVVenRuM2N5clk0d2pXQURaWGgyZjBEQXFDNHFtRjhDTGJaUklqOTUxYlVvVk1zLUlRaUNudm9faUFBTW5LWkdXY0FhOHc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-28T05:48:54+00:00"
     },
     {
-      "t": "美 국채 금리, 수십년래 최고치인데, 증시는 왜 견조할까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42eUZwaUh2ZGYtakhBWHVlTS10RE8wUnY0bnpRSlhOYzlLNk5zb0I5NE1OVXpRdU5OWUpFazVHbXdITWE1b1hNWFMzZlZWSXVUbmZ1NGtTcHRaRGZDUG16aDhrREt5Q25EaUFudzRCMUs?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-28T05:14:15+00:00"
+      "t": "中, 관세 인하 대상에 미국산 석탄 포함… 수입 확대 추진 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2laRkNyNzNGQjBsZDNTN2FWc0tmaUJpU0g5Z0ZzenBZNE1YOWJBdmh2U3VUUWhyOEwySXJ2VEk2TlUyQnE3d1pYdUVuTEFJZ2tOZ09RRlBHX2VKMXQ0OFo3ZzEzNHBMeFppZUhoZmZydHFGM2dPRU5KNnNqajNPNElDT2NBNUh0NHdPVUVoemQ5ZGhJUWFxX2xIeDFjZ9IBsgFBVV95cUxPaHBuNjIyai1DRVVNb3dkd2NqOHdxaHdWNDBwV3lVS2I1djAtanBXZmR0bHoyN1drR2FodDd0Z01yMGUzenNaY25QbXlzbHpaZzFwUUwwSkRfcmdOMGR0VXpCa01HOUkxX1pUVjY0VjliSFQ1c2gzMXlyVWpKNWVIdWlfX1NsamN2SllRdllBUWpUQ004SC14Z2pLbm9nRlg3c3g5cW5OeHBpTUp5ckFURnN3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-28T05:48:00+00:00"
     },
     {
-      "t": "삼성전자·SK하이닉스 4% 하락…코스피는 7000선 붕괴 [마켓시그널]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RTkh6cmFZMnpGN2REUUs4OHpocm9JZmlhbGlxbFVRRWZ1dGxtMVFONkotaU9zLVhvSUhyUDRvbjM0Q2hpZmF5NmEzeVdYRTM2NkHSAVNBVV95cUxNckVRVDhyVGFsMGJlZV9FY3FJNjFITDY0UjIzLUJpTmMxY2RuV0hRc3dabW5CRFY2M204SDFoUHdBNUpyYlVjVFZnNUlzNk1rSUJrRQ?oc=5",
-      "s": "서울경제",
-      "d": "2026-09-28T05:13:06+00:00"
+      "t": "[게시판] 관세청, '대일관세' 두모진 해관 기념식",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JeUVtRlpXeXI4aDY4N1BNQlI4ZlNxTy1tZWxDdXN5VHU2b2RCQVI0cTdiUW95aEtYTlAtYmZmR2FGckg1RF9KeEdXYVQyeWRmTmlUN2RKbzJKWHloazZrOHI3QTdjT1pjNjVwbEttNzNmdmlC?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-09-28T05:46:26+00:00"
     },
     {
-      "t": "역대 최대 경상수지 흑자행진에 원화 강세...추석 후 환율 1300원대 전망",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGZlTkU2dUZFeEt4cUZmbUJ1LXdWNGFjeEJ3emw5N2g2Y08xY2xqUDVGQWNRcjNxSXQ5WUV0WFBuTThOb2d1dXhKdGZ6aVNRc3hWSVZFRVR2X0dOTTdyWFV2TUNwSWNoWm1jZkVHWmFFY0d0ZVNJcVk0Q2NfWlRGRTFSdno?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-28T05:12:16+00:00"
-    },
-    {
-      "t": "세계 8위로 올라선 韓 증시…이억원 “이제는 코리아 프리미엄”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tcUx3Ym0wbWZ4cFJZbTUwOE5CWnVZWUxNdE5SQzFFdGJFMFlVbTQ3ekFMbTVGWmxjRmVhb3VDTEFQcE5jTGxfeDRZX3ktcE9TaHN0MXg4NEJnWHZsTXNqd0lIendpQ1l6MFBYT3MxQQ?oc=5",
-      "s": "조세일보",
-      "d": "2026-09-28T05:11:44+00:00"
-    },
-    {
-      "t": "[특파원]소니(6758 JP) 반도체 자회사 8000명 원칙 출근…대면 협업으로 신사업 발굴 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YVmtwYjAzNE9QTmJ5NmEzUmVuNVNOd3BLdXE0RTNiMm9LRktXZmVldmI5cXRoMEpVRlRBTG5BVU9NNkF6RFFCVlh5WFkyaUJ2OFR4TVBqRklQXzUwTXR6YlZsS1dBWXl5eDZRM09XSjE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-28T05:10:00+00:00"
-    },
-    {
-      "t": "이상일 시장, 반도체·철도·복지 아우른 ‘2027년 정책 청사진’ 제시",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTFg3NFZWTF9JeXVBdFlrX0pJVlctLUZOemdweVpoVWlHTUdjTmZjTlRTcUpGUWtSU2dDOGp1Z0I2VnJ4R1JGbmpQdmVSUWNOQ0J2QnV6YURFaEk4Y3Y2Xw?oc=5",
+      "t": "반도체 수출 호조로 제조업 노동생산성 6.2% 증가",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VjJKc3ZQY1BqbHhJM1pkNG1meTZ2OXVFYkctemhkaWJPX2EwVldxQWJ1YS01M1FCMVYwZ3BJZ2UwZUVuT0JDalQzenVvWmNwRTRicTF6NW5HRWxlVzE4TQ?oc=5",
       "s": "아시아경제",
-      "d": "2026-09-28T05:07:07+00:00"
+      "d": "2026-09-28T05:45:55+00:00"
+    },
+    {
+      "t": "JP모건 \"연준, 12월 금리 올리겠지만 장기 인상 사이클은 없다\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlWnBVaS1SWTYtUHQtd1J6UV9Xa1Z3c2Z0SGtldDFSd2YybW1mT0NGeTNvVlRWai0xcEZVMVpydmFKY3JDbDhOQzRQRllzdEI1Z29ubGJpZWotV2laTERpek5CVWVCa2pMcE9UaHJvWUw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T05:44:34+00:00"
+    },
+    {
+      "t": "美·中, 300억달러씩 관세 양보…농산물·생활용품 위주",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SWXlVZ2tlZXFYeUdPLW5wQXp6MFNGZ3FFdXZNbmJGN3ZIRURrcmJtWFFDbFV3Ykc3Z1J2Y0czTm44V0p4NVVTV01vYmxpRE0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T05:44:31+00:00"
+    },
+    {
+      "t": "[환율 전망] 느낌 좋은 교역조건, 감 다 살아난 원화",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LbEN4OFBPYkIwaFB2OWw1ZDRYNVM1ZHVDWlZBR3djVzhYUjc2TjM3dW1nVjE3Z0lzT1Zic3g4UmlkYTA2YXUxMjFkejNheXBPR2VNLVZOUEJiVFpZRVdqXw?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-28T05:37:53+00:00"
+    },
+    {
+      "t": "미·중, 각각 300억 달러 규모 상호 관세 인하 품목 발표",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uc2ctVDh0dmpaUm81Y0lMUlZZYjlMR1BhYVhQOVIxVWNpLUZEbXVnTE1rWVhicEZuOHU5TEF1SExURUtZWDBJTEtaVmV5QVVrS0JOV0tpZ1pBM1Vu?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-28T05:35:00+00:00"
     }
   ],
   "asof": {},
