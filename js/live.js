@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T17:45:26+00:00",
-  "quotesAt": "2026-09-28T17:45:26+00:00",
-  "newsAt": "2026-09-28T17:45:26+00:00",
+  "fetchedAt": "2026-09-28T18:00:32+00:00",
+  "quotesAt": "2026-09-28T18:00:32+00:00",
+  "newsAt": "2026-09-28T18:00:32+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7702.46,
+    "spx": 7702.15,
     "nikkei": 65877.62,
-    "vix": 15.94,
-    "krw": 1359.45,
-    "gold": 4169.8,
-    "wti": 92.55,
-    "dxy": 101.13
+    "vix": 15.95,
+    "krw": 1359.42,
+    "gold": 4172.6,
+    "wti": 92.5,
+    "dxy": 101.11
   },
   "daily": {
-    "spx": -0.02,
+    "spx": -0.03,
     "kospi": -1.83,
     "nikkei": -0.73,
     "krw": -0.58,
-    "dxy": 0.16,
-    "gold": -3.5,
-    "wti": 0.15,
-    "vix": 7.2
+    "dxy": 0.14,
+    "gold": -3.44,
+    "wti": 0.1,
+    "vix": 7.26
   },
   "news": [
     {
@@ -45,19 +45,19 @@ window.LIVE_DATA = {
     {
       "t": "美·이란 교착에 달러 두달 최고권…연준 인상 베팅 확대",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTFUdW5UMUd5VV9GTkwzbS1fVDVIdkJwekdxNk5yV1hLOGlBTGRzZ1R1UE01UDA5UnV4bG92SlFuWDNhd1BPYk5qZnh1d3NsU3BBUzR6TmNvQzlBNU43eElHd0ZvbzBlMnZZT19teTNFSTU2d3M4dE4teXJldE03S2EtRnVKbE1N?oc=5",
-      "s": "글로벌이코노믹",
+      "s": "g-enews.com",
       "d": "2026-09-28T17:00:00+00:00"
     },
     {
       "t": "국제유가 상승폭 4%로 확대…브렌트 108달러 돌파",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwMmJ6OTZkYTVQQlA5Wm1zV2FwaUlQcWk4ZmlsWTRsNnRSVE9EdlUzQTFoX3hBXzNvXzNRZmNpMDl0d1JWaklCYzFqWUxEcE9GTTd0WndoRmdhcHhQZG5yRFViblJmT2J0cENMd2JXRUZyV0JF?oc=5",
-      "s": "글로벌이코노믹",
+      "s": "g-enews.com",
       "d": "2026-09-28T17:00:00+00:00"
     },
     {
       "t": "美 국채 매도 재점화…10년물 2007년 이후 최고",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1U4ZjcxWEUwOE1pR1Z5aGJvRVVNOVFrNkFQYlEwUENXMzlwckRfSURjQjlpRTMzZEotNGdrd1RwZjJELVZIN1BaMk9JZWlvR2FucjhNYUZGS0p1MFBpa3FuTFQ4NEkta0lvc3h2MVdtV25MSTV0UWpOV0JlRFJQeEQ3cVNkNVFo?oc=5",
-      "s": "글로벌이코노믹",
+      "s": "g-enews.com",
       "d": "2026-09-28T17:00:00+00:00"
     },
     {
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-28T16:26:01+00:00"
     },
     {
-      "t": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TDg0QUU3NEd4bTlMTm51Yll3Q3g2Q0RtOTZMUTE3dlp1OE1nbVkxZ3RfTXpVLVNJeHMwQzNhVnU0bnM5dVdaMDdhOWhCTWJlaDh5bm92X0JuUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-28T16:00:00+00:00"
+      "t": "美中, 81조원어치 상호관세 인하‥트럼프 공들인 美 대두는 빠져",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNTYxRnlEMF9PeGM0ZG84NUtqRkNBcmxiTlFFLS14YUUwbnY1bExQT0RvX0hjRkZidG5jYXk2bzRIaGxRSjFIc2gwMlhxN3c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T15:46:05+00:00"
     }
   ],
   "asof": {},
