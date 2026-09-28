@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T00:15:28+00:00",
-  "quotesAt": "2026-09-28T00:15:28+00:00",
-  "newsAt": "2026-09-28T00:15:28+00:00",
+  "fetchedAt": "2026-09-28T00:30:32+00:00",
+  "quotesAt": "2026-09-28T00:30:32+00:00",
+  "newsAt": "2026-09-28T00:30:32+00:00",
   "quotes": {
-    "kospi": 7080.92,
+    "kospi": 7046.29,
     "spx": 7743.41,
-    "nikkei": 66553.98,
+    "nikkei": 66941.21,
     "vix": 14.87,
-    "krw": 1357.08,
-    "gold": 4291.4,
-    "wti": 93.45,
+    "krw": 1358.68,
+    "gold": 4289.5,
+    "wti": 93.35,
     "dxy": 101.04
   },
   "daily": {
     "spx": 0.49,
-    "kospi": 0.9,
-    "nikkei": 0.29,
-    "krw": -0.75,
+    "kospi": 0.4,
+    "nikkei": 0.87,
+    "krw": -0.63,
     "dxy": 0.06,
-    "gold": -0.69,
-    "wti": 1.13,
+    "gold": -0.73,
+    "wti": 1.02,
     "vix": -5.11
   },
   "news": [
     {
-      "t": "추석 끝나자 ‘금리 경고등’…한은 “금융시장 변동성 각별히 경계”",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BbGtLZTlEUnB2SHRMaUJtTXBTbk1qVWdra2dtWVhIeDV0ZHVuOFgxUHBsTG5JT3lMZGlCcmFmdUlId3hGMDl1S3UwVEdvTUJZRXZic2paa2lkU3RESFY5TUlpWDNrQjdqTkJ4Yy1URWhsRm9S?oc=5",
-      "s": "조세일보",
-      "d": "2026-09-28T00:10:13+00:00"
-    },
-    {
-      "t": "코스피, 0.33% 내린 7050선 출발",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sZHRyY1N5Zlh4WU13RlBhbFVPUGZvTnVkbGtBVXdMQjJZb2w4dmN5Ykpyck55X2FpZTd1cVlXdEhFVU9IRHp5aWN1Qm1XamtWYnZ2a0wydGhKcnEtY3AwTlJUNnc?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-09-28T00:08:49+00:00"
-    },
-    {
-      "t": "코스피, 소폭 약세 출발해 보합권",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZSTh4aWVGSkNRSjZ4VldJWkdkbkh6d3N5ZWljR2JUc243MGFkcDFFcDl0Zm5KMWRjV1poZU9TNTkwOExRVVNxcTJxNTZHUTNubWpVZWxiS210Y1HSAWBBVV95cUxOd3BXYXRKQzQ5czVDelVhTkxWaUtDaXZzOVVqeDlkaS1ISmNyR3B5a2M5LXAxNERaN0hQSkJpdU9iaFVxd2tvbzE0VHRJUjlDYjZZenlnXzJzd3Q2MFlvNUw?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-28T00:06:27+00:00"
-    },
-    {
-      "t": "[AI MY 뉴스] 28일 중국증시 '미·중 정상회담 후 AI·반도체주 흐름 촉각...유가도 변수'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMTlkc3RsQmkwcHhYdWhDVkllWXpub1FIRUxwdnkwTmFfMFpEZUtYZ0dMTUphR2cxdzNSUEdDQ0R6dnlCb2V6NVRiS0hkVVJuWkJFakZfSmxyOTI1?oc=5",
+      "t": "한은, 추석 연휴 시장 점검…\"글로벌 국채금리 상승에 불확실성 확대\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPQkNlc2VsWjBuaThYbmdYUzd2MnFhWjFiczY1WFRHZEYtU0tBUDQ5NGdsbWFkdXZuYlZfcUFrQVp0cmRNM3UtLUgxbXNqXzVMWm5ndUpzOFdqckU2?oc=5",
       "s": "뉴스핌",
-      "d": "2026-09-28T00:06:00+00:00"
+      "d": "2026-09-28T00:27:00+00:00"
     },
     {
-      "t": "코스피, 0.33% 내린 7057.86 출발…코스닥 0.12% 오른 845.48",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zSlRBU0ozcGlpa1g1dGNGZVFGMm55dlVKVUFxVXA4eFZQTEctbTU2MnU1NDl4Y3FfVGJUellmNW5JU2UySExnT19kWGt5eHFRejBfWFY3RHRMUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-28T00:04:51+00:00"
+      "t": "반도체 강세에 외국인 매수 지속…국내 증시 강세 흐름에 관심",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QcHoxR3Mzcl81cHdqbTJoWjI4NjBqN3R2X1ZpSll6b3k3Q2hDeXRtSXM4d2k1TzFFY1UtRzdHOWJBTndCNjRqd0p4S0wyZGltbEtmNktqdW5DNUpKZ0dfcQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-28T00:27:00+00:00"
     },
     {
-      "t": "[표] LME 비철금속 및 환율 동향(9월 25일)",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10SDlrQTEzS0c1dzBlQ2Z6VTRSRW5NVGRDckFRMUFWRjBXM2xMVVBhRVUtZEV3dkpGeV9sbmFiTmdjYy1KLXNmQzQ2MmhUcGlzcjYtSERGNFFrc3VkZ2pWczlnMjJzMkJpTGc?oc=5",
-      "s": "철강금속신문",
-      "d": "2026-09-28T00:03:45+00:00"
+      "t": "코스피, 美금리 부담에 장초반 약보합…태양광주 강세",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VQjdYZTFjcVpmLXpvVElobVMwclFZX0s0RzMtXzhob201eGxYbzV0ZVA3VDJILWJrajFmNmNGbDRpb0tSU3B1NTh6VFgwcllxTFR2YzJBdlNGNm43aWh1LVRDeUo?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-09-28T00:26:09+00:00"
     },
     {
-      "t": "국채 금리 ‘5% 시대’...美 정부 재정적자와 AI 회사채 급증으로 장기화 가능성",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4VjRMQmZpR3FRS1VOOUVXZlFIMjl2UE9IbTNQaE41VDdIazJlR1hOZmYwdW1kb2RNUkFLLUowang5UFFhNm1LSlZ5UEpEcjA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-28T00:03:11+00:00"
+      "t": "[포토] 하락 출발한 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjLUxDWDdCejhWYzQ0YktsR0tsOEVYaE5ja3RZMm1fRm5jeHFhN3RWNV9NQy1QR29Sb2xLYzVMNmM5Y3NFNWpEWFdJSnhrWTFOWGJzZ2Y5RlY2UFppNFlZNQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-28T00:25:06+00:00"
     },
     {
-      "t": "기관투자자, 美 증시 주도권 회복…개인투자자 거래 줄어",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSkY4U3pWX0lEdU1RS0hfaVY2amF0ME1XSVNVT1dkbEZhdWJJRFhYRWt0RW5zNDZIUGl6LWNsVUFnYmxvMmM3eUJETm4yakxBR2tSamY4d3p6QkhyekI4SVU2eTk2UFlScnZTN3VoM3dadw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-28T00:02:49+00:00"
+      "t": "[개장시황] 추석 후 첫 증시…코스피, 외인·기관 순매도에 0.60%↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PWUtwYnRTbmF5SjJtMzhfYWs2T0x3bW1MRkhwM0lPTTBGV21KdDJ6ZDNDRldmSHZEVVVtRUJaSHZhQ1JmUG5kcDR2Y3c4QTU0bG5GRE5BeGlZS2NJ?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-28T00:25:00+00:00"
     },
     {
-      "t": "코스피, 0.33% 하락한 7,057.86 출발",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03UE1McEFXeDhOcGZCbnhYRTVhcjZTQTdKMHA4b1M0VGFNNmxIaEd2TXhsOHhFSEFZd3I2MXJMeXdPX2xvOGhlNkl6R0JGc25pZWxQQUhQTGZickkwenZTcmViTFRvZ2RtNXBjVTZCQVrSAXRBVV95cUxQaF9KaTRJQ0F1dnBrMnlXRzV0bTczZ0VEUjB1VF92bzVjdXVseXR0bXdPYVZ4YlRPRTJCNFJMR295YXBxaldOTExRTUhYeThHS1A0NHlJa1VjczVENVFieTlBemt5RENXYmpCbGRmNDJhRjljcA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-28T00:02:36+00:00"
+      "t": "한은 “글로벌 국채금리 상승, 불확실성 높아져” 경계감",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WREpHNjRhVlVaZVhwUXNDQ0EtNHZ6T19Bb1ktVmJQNDVkLTV1cTJJMklRcHJ6bmZPVUJOaWhIUHlmakViZU5CdEdtSE9fWXYyVkZ2ZGdEeGZnMGhkcUFmd2V4UlRBXzUzQU9RQTVfeU1SUQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-28T00:25:00+00:00"
     },
     {
-      "t": "올해 8월까지 도쿄증시 IPO, 2023년 개편 후 최저인 22개사 그쳐",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKQmRSWkwwYWFvZ0g3QkFpWm12aGhWOHFlbFdRMkJxcXZReWlwbHF2bVhsdWducEcyV3U3c1lrQ2lJVmlUcVRGeEpBeXJOU3FGdUlDZlVtbEF6dDE4ZVJJYlFMVUZ2UGtHWVV4QnRTN2tqZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-28T00:01:28+00:00"
+      "t": "원·달러 환율, 0.6원 오른 1359원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0s0SV96WVNRWXllblNPYnZGY1lKazB4ZU5YbmVNOE1qcFhKNXJBRUhadWYxaHZmVUkyRk5RWmx5OTA4TVZzN2RmcW1CVm5KOHdQeDBIOHpHaWV0eGo5N2dfYlo5cHk3Y00zLU1lV2pwbUtwMzd4OUZOV1RJNWp6cl9hREdTd9IBmgFBVV95cUxPTC1FZHBrVkhmVmVVQUQ3Ty0xY28zUlZQMkY0RWxNTERpNXpKRE1YXy1nZ2NFSHVRRGc1VWJ6Q3pkYjdyVERzQWdNQXJTOExOWHhQalk2bWU0LVBrMVhPb2stenJRdV9ESUdlTFFpakRLU3M3NC0wYmd5eE9UMV9VYU9FQ1JSLW83X2hjNjZ1QUNfRmNwSkpDamJ3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-28T00:25:00+00:00"
+    },
+    {
+      "t": "[포토] 코스피, 추석 연휴 첫 거래 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTWljWERLcGtiNEZ2c1RPU19QSGJuOHlyRHFMWnRxaGlJY2JROGxyWVRicnhURXBDdFdmdVhoemtLNk5YT0Q2eFJDVm1HOGlKQzZqY1Q2NDBOdnYwVGVrLQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-28T00:24:50+00:00"
+    },
+    {
+      "t": "코스피, 연휴 끝 '숨고르기'…0.33% 내린 7050선 출발",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXpJOHpQT01laUJsd2RwQnZKWTdmanoxTmxfWGpmT0tSbjAxenp4UEtYTXBHcUNhVGFxZUlOalh1UWJxVDhxNFdyLV90NmVwbXp3bHhKOFFxM01WTmdNdG5YRHE0NGs1enVsVmVOOC1xbndpa2FGb2xWM0J1M1NSdzVld0pNVXl3?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-28T00:22:50+00:00"
+    },
+    {
+      "t": "연휴 끝낸 코스피, 소폭 약세 출발해 보합권",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QOFZNVkZYZmc2em14RUtZZEllMDQ4S2hVOUlwN096LVZZMXRZZ0N3RGpkU0gwdnZybW1McEM2RnY5X1JkT2Zfb1ZPX2tRNm4zazR2RVlCRlkyWGNl?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-28T00:20:00+00:00"
     }
   ],
   "asof": {},
