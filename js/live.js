@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T16:15:24+00:00",
-  "quotesAt": "2026-09-28T16:15:24+00:00",
-  "newsAt": "2026-09-28T16:15:24+00:00",
+  "fetchedAt": "2026-09-28T16:30:30+00:00",
+  "quotesAt": "2026-09-28T16:30:30+00:00",
+  "newsAt": "2026-09-28T16:30:30+00:00",
   "quotes": {
     "kospi": 6889.74,
-    "spx": 7684.23,
+    "spx": 7714.14,
     "nikkei": 65877.62,
-    "vix": 16.23,
-    "krw": 1359.92,
-    "gold": 4155.2,
-    "wti": 94.78,
-    "dxy": 101.21
+    "vix": 16.2,
+    "krw": 1356.08,
+    "gold": 4161.9,
+    "wti": 93.65,
+    "dxy": 101.17
   },
   "daily": {
-    "spx": -0.26,
+    "spx": 0.13,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.54,
-    "dxy": 0.24,
-    "gold": -3.84,
-    "wti": 2.56,
-    "vix": 9.15
+    "krw": -0.82,
+    "dxy": 0.2,
+    "gold": -3.69,
+    "wti": 1.34,
+    "vix": 8.94
   },
   "news": [
+    {
+      "t": "美국채 금리 5.2% 뚫리자…덩달아 치솟는 韓국고채",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92TDg0QUU3NEd4bTlMTm51Yll3Q3g2Q0RtOTZMUTE3dlp1OE1nbVkxZ3RfTXpVLVNJeHMwQzNhVnU0bnM5dVdaMDdhOWhCTWJlaDh5bm92X0JuUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "t": "美中, 81조원어치 상호관세 인하‥트럼프 공들인 美 대두는 빠져",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzNTYxRnlEMF9PeGM0ZG84NUtqRkNBcmxiTlFFLS14YUUwbnY1bExQT0RvX0hjRkZidG5jYXk2bzRIaGxRSjFIc2gwMlhxN3c?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-28T15:46:05+00:00"
+    },
     {
       "t": "[단독] 삼성전기, AI 기판에 6.8조 '사상 최대 투자'",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GaUFSbUx5WW9wX2ZEUG5ab0lOeVNRU2w3MFY1RnV2TV9kQzZXcjMzeENLM3ZJVnN0TS0zRVVXdjZyOEpBYUxuYU92OE95Zlh2cG1maVRmdGNLQQ?oc=5",
@@ -45,7 +57,7 @@ window.LIVE_DATA = {
     {
       "t": "미중, 81조 원 규모 상호 관세 인하...트럼프가 공들인 미국 대두는 빠져",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IbjQwWkp2TE1IVnprOXRLcGV6ZXFZU3g0bDdmQTdnQjE3MHpiMEhxT0pZNklGYmhNX0tMZVBKTzhhOFpjb2FMMXl6c3pjOUsySnlKYTNkWlV0ZTBlNEE?oc=5",
-      "s": "YTN",
+      "s": "ytn.co.kr",
       "d": "2026-09-28T15:25:00+00:00"
     },
     {
@@ -67,21 +79,9 @@ window.LIVE_DATA = {
       "d": "2026-09-28T15:10:00+00:00"
     },
     {
-      "t": "신고가 쓴 나스닥, 이번 주도 갈까?…'물가·고용'이 가른다[이번주 美 증시는]",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcGxHcGVKYjhrTFlNbnhLY25OQnZraTk1eWpScklnRGJXV0VwMWxqWjc3aUJxMlM4WVp2QzFXZUtfS3lGWEtQWUVNdW5RSTBJWXlN?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-28T15:00:43+00:00"
-    },
-    {
       "t": "미중, 600억 달러 규모 상호관세 인하 품목 공개…미국산 대두 제외",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jdWZtekZidV9yX2tyY0I0X2xfcGhEOTlwbHhVQUFEbzRHVl9DU3FsMlhBanZxZXRGOTBCOWpMTVZRbkNGclBqa2lJU0lvdlU?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-28T15:00:00+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (57) 알리바바 ... 타도 미국 \"AI모델=퉁이첸원\"",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmpVSm5EMkNFMHhZMzgxX1V0VXhHQlBXNlhxeWNjYXZrMTYwV3h5MU9LaXBBeHl2VDlHdnJPeFlGVFBmd2RUZkRabW8yQjcwQk51VmlNb2RGREhWUWdsamEyVS16c3UxMk5oWjAtbFZCMm1yT1pzbUN0c1ZiNmh1UWFHMW8?oc=5",
-      "s": "글로벌이코노믹",
       "d": "2026-09-28T15:00:00+00:00"
     }
   ],
