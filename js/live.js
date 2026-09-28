@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-28T10:45:36+00:00",
-  "quotesAt": "2026-09-28T10:45:36+00:00",
-  "newsAt": "2026-09-28T10:45:36+00:00",
+  "fetchedAt": "2026-09-28T11:00:33+00:00",
+  "quotesAt": "2026-09-28T11:00:33+00:00",
+  "newsAt": "2026-09-28T11:00:33+00:00",
   "quotes": {
     "kospi": 6889.74,
     "spx": 7743.41,
     "nikkei": 65877.62,
     "vix": 16.4,
-    "krw": 1360.8,
-    "gold": 4190.1,
-    "wti": 96.29,
-    "dxy": 101.15
+    "krw": 1359.78,
+    "gold": 4189.1,
+    "wti": 96.3,
+    "dxy": 101.14
   },
   "daily": {
     "spx": 0.49,
     "kospi": -1.83,
     "nikkei": -0.73,
-    "krw": -0.48,
-    "dxy": 0.18,
-    "gold": -3.03,
-    "wti": 4.2,
+    "krw": -0.55,
+    "dxy": 0.17,
+    "gold": -3.06,
+    "wti": 4.21,
     "vix": 10.29
   },
   "news": [
+    {
+      "t": "삼성전기, 세종·베트남에 6조7800억원…AI 반도체 기판 늘린다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wX0twSkhkaHhtNEVrSEZQbkxOSDVqTHFLQ1lfNUxMdm1mbnluVFZsbXdvVm96bWRKcFo4OHFNQW54WnpQalBaVkNwYmVZRWJBVGN5c1FB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-09-28T10:51:33+00:00"
+    },
+    {
+      "t": "[亞증시-종합] 금리 상승 속 日·中 하락…臺 휴장",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Wm1IejlDX0dZT2xqcVFmNmZUMUEtZllxeW5pa3ZwQy1Cb2hWZS1YYVJqQUlvTHY1X2tZNzdfOVhuaUx3NEktcUk1bkl2Xy1LQU8tenVRc1J2MFVJdHA0cjFqZGJUblNuVkVlZFNNRDE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-28T10:24:37+00:00"
+    },
+    {
+      "t": "3년물 국고채 4.1% 돌파…美 금리 급등 여파",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWcyTHAwZTUyUFpmaEY5dUNGNlJ0QlhkYzJrbWJ4VG9OSHdmYzI1bG1SeXZFT2g3U0Q3VzlIYXFlNmpkbzktbHJvbjN6d1BXaUptY3V3SjRMaEMxcnQ0UlJFb2tKc3RQclNhaWxpRGpOeWZVM25ZOU0xSWdmQ3NPVm9IQ2U0VlNpNmc4?oc=5",
+      "s": "국제신문",
+      "d": "2026-09-28T10:16:00+00:00"
+    },
+    {
+      "t": "코스피, 2.7% 하락 마감…‘7천피’ 밑으로",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0QnBpMUQxLUdRTDZTb0hiNFBfbF9NMUptbTJPamRWakVidjFwMlhmVFhTRXdOM1JENEp1blc4eE90ZnV1a2twcFU3UV9JNkJkb0M5UHB0OGF5Tjg?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-28T10:12:00+00:00"
+    },
     {
       "t": "K증시에 지친 투자자들…대피처로 꼽히는 이곳은? [주린이 ABC]",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DaW05QmtJcnRPcUs0SkdiSVdaY1Jjenp6SG1xVU56bklKOGNnRFpybGVzR3JYTXlqWVU2SER5WjFENUFwSmt5dUdFclVYZVVmVnc?oc=5",
@@ -45,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "IRS 금리 장기 중심 급등…\"오퍼 거의 보이지 않는 수준\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDanJ4MWRiSzdhd2NMbURiaFRlOExqemhPUFFvVHBaN1h6WldhSzY1Z1RZZjlvQ1BPNVBGR2NNbUswcEt4Nkt6Yi04NndpeUlkR1BTakVJYk0zcXdhVWtLdllRWWVRYVplcHJPQ1BDWW3SAXRBVV95cUxOWE15emV4SHlGOVVSOVJYbjBNSmhsN19jMEdWaVM5WFU0cmxKNURlQ3M2SFpRZ3lCWkktQmMzN1JfcjNXREhoYllMaXRWTnd2eWdDUkxUNy1wckhfbFBiQlZmakozdWU1dGV4YkJ0eUhZaF9UVg?oc=5",
-      "s": "news.einfomax.co.kr",
+      "s": "연합인포맥스",
       "d": "2026-09-28T09:43:45+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zWTV1NE5yY18ySTZ3Z0NCZUNnRjE5NFhLQkFNdFpFMEZOci1LeUlWMENoRzE4YnM2blJHdHdHeDc4TS1VWnpMTkFieko0TlU?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-28T09:19:20+00:00"
-    },
-    {
-      "t": "미래산업, 530억원 반도체 장비 공급계약…올해 누적 수주 1352억원",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwdWlia0NEclRwbzlMRVlUSGFrRjY3amhkZG0wT3dLN3NGNHl0ZFRfdVJHVlFSSEp0Wm5yYVFIb1dFeVZ5a2ZLUUpvS205RUN0c2tXMDY5V0s1eWxIQ1hLY0Z1ZTk1N2pz?oc=5",
-      "s": "팍스경제TV",
-      "d": "2026-09-28T09:18:08+00:00"
-    },
-    {
-      "t": "연휴 사이 급등한 미 국채금리...부총리·한은 총재 회동",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Pak5TcXFWVEcyOTBRanVYSXpJcXM4b2hVdFFucmkyT1JKZldZY1BtZ0ZSTUQ2M2xoaVFkeDZaMHlnMXcxMU1QUXY1MHh6VmNwYlE2N0tyU0dQdlNuNWc?oc=5",
-      "s": "YTN",
-      "d": "2026-09-28T09:10:00+00:00"
-    },
-    {
-      "t": "[중국증시-마감] AI·반도체주 급락에 상하이 1%대↓·선전 3%대↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcHJHRHA1UmM4MTVuVC1aZUhYV1FoaklQMkI3N01MbGRGRjR2amhPeWxmdUVRWWVhb1VsRGc0Q3NaY2t3NzhISjRWZjgzRVEzVHZCcFhKa0dSNXhkZVBGMzRXbERKcUVpV3Y5djB6YnU?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-28T09:08:10+00:00"
-    },
-    {
-      "t": "삼성전기, 세종에 4.2조 투자… AI 서버용 반도체 기판 증설",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ndzZVUTY5ZGR3VXF1M2RvdWFraTdVR2FNWlpsMWFxTGZLTnk1UG5SQjZkcmlJMmY0MjBkUGg3U3N6Q0lmVWNzbnRnSG5kdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-09-28T09:08:07+00:00"
     }
   ],
   "asof": {},
