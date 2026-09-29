@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T01:45:26+00:00",
-  "quotesAt": "2026-09-29T01:45:26+00:00",
-  "newsAt": "2026-09-29T01:45:26+00:00",
+  "fetchedAt": "2026-09-29T02:00:27+00:00",
+  "quotesAt": "2026-09-29T02:00:27+00:00",
+  "newsAt": "2026-09-29T02:00:27+00:00",
   "quotes": {
-    "kospi": 6850.51,
+    "kospi": 6879.23,
     "spx": 7683.69,
-    "nikkei": 65173.4,
+    "nikkei": 65292.59,
     "vix": 16.07,
-    "krw": 1360.28,
-    "gold": 4161.4,
-    "wti": 93.65,
-    "dxy": 101.21
+    "krw": 1358.97,
+    "gold": 4166.6,
+    "wti": 93.74,
+    "dxy": 101.23
   },
   "daily": {
     "spx": -0.27,
-    "kospi": -3.25,
-    "nikkei": -1.07,
-    "krw": 0.43,
-    "dxy": 0.01,
-    "gold": -0.17,
-    "wti": 1.13,
+    "kospi": -2.85,
+    "nikkei": -0.89,
+    "krw": 0.33,
+    "dxy": 0.03,
+    "gold": -0.04,
+    "wti": 1.23,
     "vix": 8.07
   },
   "news": [
+    {
+      "t": "ING \"美 시장, 연준 고금리 장기화 과도 반영…듀레이션 확대 유효\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NUFDUmFkZTlTN2kxSFRiQjRzdDB6Y2lYeE5LQzF3dElTYU1HdEpjcnhFRzhIRnJuZkNSVUlZN05jYnFxcENiQ2J5M3l6MXlnRDBRdVFlU0lRTzV0azJ1QUtOd3dpaXdpRk9aNlJfaU4?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-29T01:46:10+00:00"
+    },
+    {
+      "t": "움직임의 흐름 읽는 AI 반도체 개발",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iODJHNHBDcmZ1ZV9KbmtMcEtKcXpuZHdiV2hMMl94NHVOSXl0QXBQSlVBZ2R0SktxQWk4X3lGcHlzVndjLUppQTFEUGhyZ00?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T01:43:04+00:00"
+    },
     {
       "t": "[서학개미 안테나] 금리 오르는데 AI는 달린다…이번주 주목할 글로벌 ETF By EBN",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Z0hoRm4xN2dPeVI5NFRaWXpjUU9aMWJXV3FaakxtT3FtZE9wWTZFMHRqUFFUWnZHcmozU0JFb0xvZ1lIbDhHdHp5NjFHamdQbVdRZkZCelhYMmZkWS1BODJTeDg3T3lHbEIxUElETXM?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-09-29T01:42:00+00:00"
+    },
+    {
+      "t": "미국 장기금리 부담 지속…기업 이익과 자금 조달 여건에 관심",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTTzlLTzd3Z3dHdUtpNTMwVl80dmdWcHZualBSUk01eWdadmRrQ3l6eWw0WDVLdFBPbFVDdy15NlhaajRtdk4xR0djV0ktNkNDc0xqZjIyLW1xNWxJdG16Vg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-29T01:42:00+00:00"
+    },
+    {
+      "t": "OCI, 전북 반도체 소재 특화단지 앵커기업 참여",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paHpfcXpfOEFIZVptNUJFN0U1N0lzUzhNVnZRWDNRcG9PVkxVbG5XRC1lT0lrQ0NGM3BhUUs0X1dpeDJCN1AyNjlSVDBNYUlwX1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-29T01:37:23+00:00"
     },
     {
       "t": "[특징주] 한미반도체, UTAC서 79억 반도체 장비 수주…4%대 강세",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JaGRuZE43ZXFrNFB0eUY3Y3pLU25KcGtNdEJHVmJQMzdlYldmbkRkbFpDcWczZjN5UU9zVUVmdXJFVlBJaWJscmtsd3VVcnM?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-29T01:31:51+00:00"
-    },
-    {
-      "t": "美 연내 두 번 더 올리나…韓 장기금리 동조화 우려 커진다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uem84VklYREgtZ1I4OFRWZjNXeHRIcmpvNGNHbDc0QlJlam4xNFhGWlRPYjNMb3ZVOHRuanhNc0ZrajMzaFpGeS1vdWpGOGNwS0s2X1RtTXotVF9nOW5TR3NBMVMtcHBGYTVwWFBvbjE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-29T01:28:24+00:00"
-    },
-    {
-      "t": "코스피, 美국채금리·국제유가 상승에 하락세 지속",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OY0l3UGtQZ21zNURIUUxqbWRrTzAyYl93eHpJcklnbzZkTFRvT213UjNjVmN0eXc0aVBueExwRlZ2b3g1VWo5Q2hYdjZtcTljX0UzaGY2N0dmYUZsUlQ0b0RoV2pYZUE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-29T01:28:00+00:00"
-    },
-    {
-      "t": "[특징주] 한미반도체, 반도체 장비 약 80억원 수주.. 4%대 '강세'",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3BFNWRENVQxR1kwazBlUFlya1labjNQZVlwcjQtVW1vX2dqT2Vsa3VOMEtrYUpvRDBlTmVuQXVTVFZGWlN0WlRpaXVqT00yNWpFeWVZQUZ4TDAxbXVIeDU5SFF1T2RFamQzYWl4TnV5aUNlbjhMRGFUaVZxWGcwOXpGdVY5T3Rj?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-29T01:27:16+00:00"
-    },
-    {
-      "t": "미 국채 금리 20년만에 최고치…\"저항선 뚫리면 6% 육박할 것\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82LXd5NUt4UVZ2dDYxWndqOElJMUQ5UHVndzhhWUstbjZUMVZmN0l3a1ZkUkNCZmlRVEx4a2pjcEQ5VnRYYndKa1dCN2JHNWRuWWZoZk5CN2xSenBIQWZQb0t2Qlh3RzEx0gFuQVVfeXFMTmVmc1QyUFNEYVNnSmJCd0QtNkw5bkU1Q21ldFFfaU1BNlRoT2gwUy1LRHEwVUl0RnlON2NmRk5DU201b1k4ZHhNZDB2WVJVd1FwWUl6bVZIMmF0WXhtRkxMWGxVT2F5SXZJd1phdFE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-29T01:24:08+00:00"
     }
   ],
   "asof": {},
