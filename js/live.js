@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T16:30:22+00:00",
-  "quotesAt": "2026-09-29T16:30:22+00:00",
-  "newsAt": "2026-09-29T16:30:22+00:00",
+  "fetchedAt": "2026-09-29T16:45:16+00:00",
+  "quotesAt": "2026-09-29T16:45:16+00:00",
+  "newsAt": "2026-09-29T16:45:16+00:00",
   "quotes": {
     "kospi": 6870.81,
-    "spx": 7663.21,
+    "spx": 7657.46,
     "nikkei": 65481.27,
-    "vix": 16.3,
-    "krw": 1354.16,
-    "gold": 4183.7,
-    "wti": 90.34,
-    "dxy": 101.5
+    "vix": 16.19,
+    "krw": 1355.36,
+    "gold": 4186.6,
+    "wti": 90.35,
+    "dxy": 101.49
   },
   "daily": {
-    "spx": -1.04,
+    "spx": -1.11,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": -0.03,
-    "dxy": 0.3,
-    "gold": 0.37,
-    "wti": -2.44,
-    "vix": 1.43
+    "krw": 0.06,
+    "dxy": 0.29,
+    "gold": 0.44,
+    "wti": -2.43,
+    "vix": 0.75
   },
   "news": [
+    {
+      "t": "[다산칼럼] 반도체 날지만 경제 체력은 '골골'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQS3BpV0lvRlI1QUs3MzhSZllCenROaC1XM0ZkR2FMamZlMmY0OE05VlJ0bFBlekxRTVdQX2hhWGVpdC1qOEotb3p5dURrSnh3OG1DUnlxbDByQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-29T16:23:00+00:00"
+    },
+    {
+      "t": "트럼프 “이란전 ‘소풍’ 곧 끝나고 유가는 급락할 것” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX25KYWM0UGVWZjVIM3ZSUmZBYmxyMlBDSmFINEhlbmVoUGF6end2UXBQUkJidi1NZTFGa2x3RElmYm1BdnVndk5ocy1td29PWnE3UWI1LWxNX25NUktZSFdqZmVRV1RUaHJkUW9Fdzc5ZVFDdDFhWjRNVUdRa3J6cWVjeGhzZUZIdXpiRlRTQ2VFWm1WQzlwQ3U0NzRPQdIBsgFBVV95cUxPdmd0NUkwS3FZbVJ5UHpzSVpzVXVGSTJzNGZCZmFhV1hqc3RoUmNrdk9SU1JldmVIdlI0TXVZYk42Q0lUampNZXljNWFlc3VoR1BQUldMYnRkbGYydXZlb1V3aGctc2lyR3lhTkxMTXd0eXBwM1dzcE15dDlNQ2lmNVI3eklrM1VWa0pOM2RQZEZHX08wTW9uYmVuaXR4NzhKTWhrbVdSWVJMWGpRZTVISXpB?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-29T16:14:00+00:00"
+    },
     {
       "t": "바클레이스 \"AI 투자 붐 지속 시 미국 30년물 국채금리 6% 가능\"",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05c1BHaUxxSGEtb1NBNDNkNjBEYmwxalN5OGlLelh0aE9WbFpLM3BGX19xNzVOYXk1WGVVWmJXN1owaVlVZ3pfcnJpaUJBX2pU?oc=5",
       "s": "블루밍비트",
       "d": "2026-09-29T15:57:44+00:00"
+    },
+    {
+      "t": "트럼프 “중동 전쟁 곧 끝난다… 유가, 짧은 소풍 전처럼 급락할 것”",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3LWhlZDRqOWxscWhpZFgzN2ZIT3NIZlVSUmJBRlh1YVZLemgxVGlKc2F1UmlUbE94N2xjZzF0cTZtSHQzQ0tYeU1TM1lIdDRJb2diSVVyLWd2enJ1WWgyWFpzaGpTSC1YWFE?oc=5",
+      "s": "천지일보",
+      "d": "2026-09-29T15:55:39+00:00"
     },
     {
       "t": "트럼프, 7개월 이란전에 또 \"짧은 소풍\"…\"곧 끝나고 유가급락\"",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83b2JjUlhCdXRJMkJEbzVVazA1UEstWGZhZXI4eUUxc29Hc3pkUWdwbjRQUkNucXdJZnZjZ0puQzYzRzJNcUZKakV5SUNBbUZfQl9KbjhzM0IwSkVPNVE?oc=5",
       "s": "YTN",
       "d": "2026-09-29T15:22:00+00:00"
-    },
-    {
-      "t": "[단독] \"이자 또 오르나요\"…260조 만기 폭탄에 영끌족 '비상'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcThQQU8ycmJSY3ExblVCZjdYS0g2UTdRN0VWdFMtdVZoZXVyX3ZGUVZfTHFUcENBMGZ4RGtwdzlka0tjVEZmOXUyaEhMN0U0STNfRktZZkhuUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-29T15:19:00+00:00"
-    },
-    {
-      "t": "美 국채가, 유가 하락에 소폭 강세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSOVo0ek5SUlcxXzlHb2dmMU9yb1hSU0p6U2FuaFduaTNIelZLUzE3NXEweHhaaTRuRUFXcDNSNjJfMkkyLXBfaFN5V3NZQWZtVC1KV1JMTlZMQ2RkM2J3UlBDUmc3U0l5LTdGSXZaZWg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-29T15:17:31+00:00"
-    },
-    {
-      "t": "반코 데 멕시코 총재 \"Fed와 독립적으로 금리 경로 설정 가능\"",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsYjZuelJ2N0J3bklmNWVWbU5zWm5Yc0sxQm9wVk10aTdtdTVkanNQWjhnaXpHc3B1TUY2WjF6XzRrLW01NzJSaEpBUFN6YVBqeDBRWVVXSkJWNlNfLVZILXZla0xNTHpRbGc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-29T15:15:00+00:00"
     }
   ],
   "asof": {},
