@@ -1,34 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T22:00:27+00:00",
-  "quotesAt": "2026-09-29T22:00:27+00:00",
-  "newsAt": "2026-09-29T22:00:27+00:00",
+  "fetchedAt": "2026-09-29T22:15:14+00:00",
+  "quotesAt": "2026-09-29T22:15:14+00:00",
+  "newsAt": "2026-09-29T22:15:14+00:00",
   "quotes": {
     "kospi": 6870.81,
     "spx": 7670.84,
     "nikkei": 65481.27,
     "vix": 16.04,
-    "krw": 1351.99,
-    "gold": 4215,
-    "wti": 88.94,
+    "krw": 1352.28,
+    "gold": 4214.8,
+    "wti": 88.7,
     "dxy": 101.38
   },
   "daily": {
     "spx": -0.94,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": -0.19,
+    "krw": -0.16,
     "dxy": 0.17,
     "gold": 0.84,
-    "wti": -3.95,
+    "wti": -4.21,
     "vix": -0.19
   },
   "news": [
     {
-      "t": "연준 추가 인상론에도 속도조절…10월 인상 확률 70%→50% '뚝' (종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTWxudGJUN3hsVUd5NTNzek15anhOcFNiejVQZE5Nb04xSmpTMHlLSzdwSXhhSkY1b05PaWlIclpOLVVVVkxzUzJraDBFdWc?oc=5",
+      "t": "美국채 금리 부담에 약보합 마감…다우 0.26% ↓ [뉴욕증시 브리핑]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jWk8tUy1jYTQwVzhzNTMxb0xDVUFpczJ1MjBCeEt2V01CMHZPQ1dUdzJRSExfbDJWeVdkN1FjdkNBejVqeTMyU3J0emNaM01XTUFQcUpCUmt4QQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-29T22:08:04+00:00"
+    },
+    {
+      "t": "[외화채 조달전략] [미래에셋증권] 창구 다변화 '굿'…금리는 '과제'",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWLS1wbGlHTS1OWkpqWmFEWkh3NGk4S3VuenZjSU1kUnhwSHZwWGJyYXhEcmpOaEwzT3NfYjZoSWM4ZVcyMlZkYVNaTzZxdzllVXRUQWRn?oc=5",
+      "s": "DealSite경제TV",
+      "d": "2026-09-29T22:00:24+00:00"
+    },
+    {
+      "t": "[증시전략] 마이크론 실적 발표 D-1…AI 투자 사이클 확인할까?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvdWNrY1FQYlN6dlB0Xzc3Skk3RjFMYUtNSlZzM00yRHFZaENRcXdrQXhTTFhTWk1KOWx3TDJmb3BFbkp4S1lHVy1YUGp0U1E?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-29T21:35:00+00:00"
+      "d": "2026-09-29T21:58:26+00:00"
+    },
+    {
+      "t": "[뉴욕증시] 유가 급락에도 국채 금리 고공행진 '약보합'···반도체 '강'·금융 '약'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rTG9icmN1ZUlRSnhuZndTVUlQTWZxUjFvdlFTWkQ1R1ZUb2UtZC1fazBsWUl2aVpBbUxMaDdHXzBRQ2tkYnhVY19vOUNQa1FvVzBkdVRyX3JHdlA3UVlteThzWURVSzh2RHc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-09-29T21:57:58+00:00"
+    },
+    {
+      "t": "[글로벌증시] 美국채 금리 고공행진에 뉴욕증시 일제 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iU19iaDg1NlUyR2JmU3Y2ZEpPTVNOemswQ0VfVXZCVm5KOWEtZmlPRVE4Q01nU2tsOS1sd18wTXU4V0RQaVo1RUdZQmtZcXc0dGc2X0N3d0lBbXZJUjB1ZUpGbF80V0E?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-29T21:48:00+00:00"
+    },
+    {
+      "t": "[외환] 달러화 강세에도 1,350원대 중반 거래",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1POE5PM3pLUnFpLXI4WnFLZF93RGMydDlZVWVqZ3Q5ZmxYb3dBZ09xa2VxRGhvN1hLQlpfNWoyVE1xZmRzU2tFNkFUX29zZWZndWIyMHZGeGhjSEM4QmhMVTIyZ1pTdUZVODNIc204ci1wdw?oc=5",
+      "s": "kbthink.com",
+      "d": "2026-09-29T21:42:55+00:00"
+    },
+    {
+      "t": "유가 내렸지만 장기금리 올라⋯뉴욕증시 3대 지수 하락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VHQza0djUXlQUGtDR2dwMFI3N1J3Rk5KUXRVZGxCMjdwNld3QmxlVGxjWnUzdkdOd0VOVWZMTVpDTU1NSi1HOWVrdFZtbWM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T21:41:00+00:00"
+    },
+    {
+      "t": "연준 추가 인상론에도 속도조절…10월 인상 확률 70%→50% '뚝' (종합)",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BZ1dUbWx2SzVoRFh3aFpKaFhQeDRfUVRudlpMZ2FYZko3RWZIdXl1eV9nM3FSQ3NJREhRaVpvRWdHcHFwSDBaN3g3U01yNzNmLUJkRkJ5MDZuWlhxYlYtTmktam9Oak0?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-29T21:34:17+00:00"
     },
     {
       "t": "美국채 30년물 금리 24년만 최고…물가 눈치 보는 증시[뉴욕마감] - 머니투데이",
@@ -37,52 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-29T21:32:17+00:00"
     },
     {
-      "t": "글로벌·가격·환율까지 호재…3분기 식품업계 깜짝 실적 기대",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BYmtSTFhVMUkwU0Q2bnNMcmt6Z2ItVzYtNFRHd0Ffa215b1hqQkJKRUYxV28xRl9DZ3Z4Uk41aTdHNUZVc1pSTTlWU3ZWUzQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T21:31:00+00:00"
-    },
-    {
-      "t": "미 국채금리 20여년래 최고…3대 지수 이틀째 하락[뉴욕마감]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JSnBmdUVwU2VpaUF3dGJvdXQtOXdIcXhFWi1RazlxOXRtbFVidFNyS0tRc013bXF6OG9MdkpOemRrZU45TzFUX0lwVldjNkE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T21:28:00+00:00"
-    },
-    {
-      "t": "美 30년물 국채금리 5.6% 돌파⋯24년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IQWItNnhNaFpQclNNdVdWT3A3T3plSElfd1N2MG5zdUhjamh5M1RwdHhsQ19MMGF2ZWhGMkxyY054YVBrZmlmNGU1S3RudjQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T21:25:13+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 사우디 홍해 원유 수출 재개에 WTI 3.5% 급락…1개월來 최저",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RRkJEN1NMZ2F0ZzN4amdFUG1LRW9xTFVVLXJPMTB1cnJtQXA4elNxYmhGMlNpamdXeTdTWkxGcGw5NkpPem5pakRBZ0Q1SndpeWpQRmVOOWRjZllrRkp3cXNTZGtzSHdnUXRuU1l1a18?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-29T21:20:32+00:00"
-    },
-    {
-      "t": "美 국채금리 5.29%까지 치솟았다…다우 131달러 하락",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rSHZtNThOYjZyUnJQRHZPeFdXeGNCTVJtX2Z2aVNodTJfOHhib0VnSnJGVTNwT0lzQWZEVmR3UExDdWVFS0kzWXJMVmx6aVV3VkRtSnM0U0k2Zw?oc=5",
-      "s": "경북매일",
-      "d": "2026-09-29T21:12:00+00:00"
-    },
-    {
-      "t": "美에너지부, 유가 급등에 전략비축유 4천만배럴 방출",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16UEV6eXJ0cnhuQVc5X2NDc1Y0REc4Vnd5X0REdmw2WXJzOUV0OWstX1hDc1lGb25DeGNTb0NRSDRMeVBXNldVNGhKdjB0ZWc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T21:06:00+00:00"
-    },
-    {
-      "t": "[금/유가] 사우디 원유 공급 회복에 유가 2% 넘게 하락…금값은 반등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42OFZTVnFBYTFYYWo2Tkt6a3IzTzY0QWthdWRIUmp2OFVZM2ZuLXFCQnlGTmlyWnBlaVloTE1tSUoxRWhnWjd1ZFJ1OFJGaVdjcXV3VTZtTnZ1ZS1M?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-29T21:04:00+00:00"
-    },
-    {
-      "t": "[속보]美증시, 약세마감…반도체는 강세 하닉ADR 2.62%↑",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UUWJxSFcyVGRKakIxajJiTm1Ucm10Qm9GV2pNRml1WHhBS0NTc2txRjl3dFhITzY3WGUzbVhWa0R6N1JVWjRpaFR0dXBid0cy?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-29T21:02:11+00:00"
+      "t": "\"10월 증시 향배 달렸다\"…'메모리 풍향계' 마이크론 실적 D-1 [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KRnJ0cWtrbVJYR1Y3WlczZ2NMdFVteWR6VDRuTXIzSDJlbUdxX0xSX2FRNGxSS2podWRETWRZdGhGbUxWUlhFMXQ1dnVFZk5vSHhPWERwY0VEZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-29T21:30:06+00:00"
     }
   ],
   "asof": {},
