@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T15:45:14+00:00",
-  "quotesAt": "2026-09-29T15:45:14+00:00",
-  "newsAt": "2026-09-29T15:45:14+00:00",
+  "fetchedAt": "2026-09-29T16:00:17+00:00",
+  "quotesAt": "2026-09-29T16:00:17+00:00",
+  "newsAt": "2026-09-29T16:00:17+00:00",
   "quotes": {
     "kospi": 6870.81,
-    "spx": 7667.37,
+    "spx": 7662.22,
     "nikkei": 65481.27,
-    "vix": 16.37,
-    "krw": 1355.68,
-    "gold": 4189.9,
-    "wti": 91.46,
+    "vix": 16.15,
+    "krw": 1354.58,
+    "gold": 4190.8,
+    "wti": 90.34,
     "dxy": 101.48
   },
   "daily": {
-    "spx": -0.98,
+    "spx": -1.05,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": 0.09,
-    "dxy": 0.27,
-    "gold": 0.52,
-    "wti": -1.23,
-    "vix": 1.87
+    "krw": 0.01,
+    "dxy": 0.28,
+    "gold": 0.54,
+    "wti": -2.44,
+    "vix": 0.5
   },
   "news": [
+    {
+      "t": "바클레이스 \"AI 투자 붐 지속 시 미국 30년물 국채금리 6% 가능\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05c1BHaUxxSGEtb1NBNDNkNjBEYmwxalN5OGlLelh0aE9WbFpLM3BGX19xNzVOYXk1WGVVWmJXN1owaVlVZ3pfcnJpaUJBX2pU?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-09-29T15:57:44+00:00"
+    },
+    {
+      "t": "트럼프, 7개월 이란전에 또 \"짧은 소풍\"…\"곧 끝나고 유가급락\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mQ0pKVUt1M0NQX0xRdnJjVEtQM2ZCSWYyWm04ZXZYV25jUWwzZEtneW9vTGFOd3FsNU9ELXlMeS1GU202UkNOVEdaNzNlSVU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T15:44:00+00:00"
+    },
     {
       "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 29일자 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS01BM3FKYXY5eWw1VjhGN3I3d1NZOUxzbzhLenJzeWJjTFdvdEpUMXpsRGg4RmhYUGhoQmdPQXE4aHkza2xYRGY0UXo3NGRTUk1qWnQycXItbGFvR19LMXV4ZFNOLVhaTGUwZHB0RDJlMnF4LWhNdEFxazZubWFCVVZGczN2SlJE0gGcAUFVX3lxTE1sRFQ2T1ZOWDFBb2pCeVFTR0RzbURVUnRsaHVsU2cxODk3ZTR2QXFZaWZVamxRSTJvcDl0RzR0Sl80MC1LVmhFdlR1NWVXekZvVkNFREVzWkdNUUs1S3J6YmctdUhaM0pvbUJiU0lNOHFfQXp6Q3g0TXNtQ2dDbXFYZHdzZFdzVlk3ZE1neHY1WGdVYUNrYlFvTTAtNg?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsYjZuelJ2N0J3bklmNWVWbU5zWm5Yc0sxQm9wVk10aTdtdTVkanNQWjhnaXpHc3B1TUY2WjF6XzRrLW01NzJSaEpBUFN6YVBqeDBRWVVXSkJWNlNfLVZILXZla0xNTHpRbGc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-09-29T15:15:00+00:00"
-    },
-    {
-      "t": "미국 30년물 국채금리 5.58%…2002년 이후 최고치 근접",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpWE9US19sdXhUY3J4cGFKdmZqZUViNzh1NmxfWTc4TEE1S01URi1KS3NkU01pamxTY3V6TjhwYkUtbThMSDBPcTR5QU9FTkNw?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-09-29T15:08:40+00:00"
-    },
-    {
-      "t": "웰스파고, 금리 인상 전망 속 달러·엔·유로 환율 전망 수정",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlWE9ib05TZFJXeXpHUnRRVmctY2s5TjJfTml4VlhObTV3MUFNUHFYY2ZjOUUzbDRtdU1Ga2h4aTRObDJHY2xxX0FBUGZsc3dZRW9tVWxJT1V0VVdwRGZMbl9lY3pZckk?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-29T14:44:00+00:00"
     }
   ],
   "asof": {},
