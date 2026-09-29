@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T09:00:24+00:00",
-  "quotesAt": "2026-09-29T09:00:24+00:00",
-  "newsAt": "2026-09-29T09:00:24+00:00",
+  "fetchedAt": "2026-09-29T09:15:14+00:00",
+  "quotesAt": "2026-09-29T09:15:14+00:00",
+  "newsAt": "2026-09-29T09:15:14+00:00",
   "quotes": {
     "kospi": 6870.81,
     "spx": 7683.69,
     "nikkei": 65481.27,
-    "vix": 16.01,
-    "krw": 1356.48,
-    "gold": 4172.9,
-    "wti": 92.74,
+    "vix": 16.06,
+    "krw": 1357.04,
+    "gold": 4176.5,
+    "wti": 92.54,
     "dxy": 101.37
   },
   "daily": {
     "spx": -0.27,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": 0.15,
+    "krw": 0.19,
     "dxy": 0.17,
-    "gold": 0.11,
-    "wti": 0.15,
-    "vix": -0.37
+    "gold": 0.19,
+    "wti": -0.06,
+    "vix": -0.06
   },
   "news": [
     {
+      "t": "[인기검색TOP5] HLB제약, 테라뷰, 뷰노, MDS테크, 한미반도체",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PZVBDRDV4S0dGVjJpTWFvMlFic3N1clI3MFh5bVZHTXpxNVhUUmd0OUZnb0VLN2I4S1oyNmJJZkl3cU84UEdfeHpZWjRHa1Yxbnc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-29T09:09:16+00:00"
+    },
+    {
+      "t": "TSMC, 美 텍사스에 두 번째 반도체 기지 추진… 댈러스에 웨이퍼 공장 6곳 검토 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ1NfQ2liMElqd012ZXJ5dk93bUF3LTFDRW9XYlBkbnl0WGYyTFZVd080dnVfRERITDVEb0JibFhnNXYzU1Z6aWNLVU5ncFE2c3BRbmVsMUd6V1RERzExZjdhV0xWZFMxMVlQY2JVdG5rUWctUElwaEpmM25HelNqQ3NB0gGWAUFVX3lxTE51WGx5bnhTYmEyUHhTVlFWcDBpcDIxOHp6T3I3RVhJNFZTcThhanlhX0Nmbm52U0ZrRTdpNDd3TGxjajAxUElXLW5MTHROVUQteVd6VERsU3piN3pSTlhKREd5Q0xDU1lDM3FjaWtfSWt0NUx5dHpiS2kzaHRsU3Jta0JxbkVkZWZKLWFZd29jdmRWYmQwQQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-29T09:05:00+00:00"
+    },
+    {
+      "t": "아스플로, 세계 3대 반도체 장비 美L사 품질감사 통과…10월부터 부품 출하",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TWVU0eG8zQ3laQTBJM19qMmI4cERsT0NaeE0zMTJNN242T0g0TDhxV0NUc0xvMzZuSjRrRWdMVm1uU0FjYzNwVkNmZlhJbzNyNkVsemRpVjBpLVhfRDN1NzYtVURjZw?oc=5",
+      "s": "디일렉",
+      "d": "2026-09-29T09:03:45+00:00"
+    },
+    {
+      "t": "[단독] 내년 상반기까지 260조 '차환 도미노'…영끌족 대출금리 더 뛴다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KcThQQU8ycmJSY3ExblVCZjdYS0g2UTdRN0VWdFMtdVZoZXVyX3ZGUVZfTHFUcENBMGZ4RGtwdzlka0tjVEZmOXUyaEhMN0U0STNfRktZZkhuUQ?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-09-29T08:51:34+00:00"
+    },
+    {
+      "t": "단기물 CP마저 금리 급등 … 채권 돌려막기도 만만찮네",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GWGtucG0ydWhzcU1yTHo3bWpXWTM0VUdpRFc3TTVHWk5hX2Frb0Q4WE5zSGJJMWFNN3FzU1pFOE40b2FSWEJzdmswM2ZyZW9BTkE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-29T08:47:12+00:00"
+    },
+    {
+      "t": "[도쿄증시-마감] AI·반도체주 약세에 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TZVpOT1VtN3djZm85V1otQXVpbjg3bnNIT0JaQlZNQWExaUg4T0RBU0htLUh2NkFqY3V1bXN4WXFmaE5MZFdzb2JGdWtJdUxBXzhBMWJ2aURVbUZQLURpN04yWDlDejNReDNLZzhFelk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-29T08:43:05+00:00"
+    },
+    {
+      "t": "치솟는 유가·국채 금리…美 증시 휘청이자 아시아도 '미끌'[Asia마감] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DakFERE52RlBsMndBMHhGaFNpdzA2SHd4RkQwYVUteVd5dHBWVmxLWW1wMHBKTmpmVV9aNEpOTVhwaDNtdF9WUG5SQWh6a0ZKbzlfZUo1QTM5d0xQdmRTMWdvLWVUN29y0gFuQVVfeXFMUElRakxiOWNycnlPTnNOV0JaVUFjeml3WHM0d0F3cGs3SUVyNGd0OU9hRnJPS0pOMFhzY3ctNDZ1S0Rnak1kam8yWGF3THVJUWs5MFIyVUY1cEZTS1E1UV9jNEktaHFNRkljX0dIbUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-29T08:42:49+00:00"
+    },
+    {
       "t": "美 국채금리 쇼크…’AI 투자→반도체’ 성장고리 흔들리나 By EBN",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yUnI1WmdHMjhzbGpNV3FVMlUyRDNFNWMxamxkZG5rY1RDZFRmZ1pSaWtlcHJUQ0M2OTJXZ2QwU2ZJOE5Hb09GYjFoRm1halZDWUJpbUF6OE1LY3NFUVBBc0VoSlNlcEFXVHZaNnFxY0k?oc=5",
-      "s": "kr.investing.com",
+      "s": "Investing.com 한국어",
       "d": "2026-09-29T08:42:00+00:00"
     },
     {
-      "t": "증시 횡보장서 뜬 커버드콜ETF … 순자산 30조 눈앞",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iVFdwWXI3YjJ1V2kySlBzbldVcHRSNXNXdWk5TnNFa3RrVWlTZWVQdGg2OUJwSDU4V1dlUmp6bGRvd0VraU5CdUY0Y1YwTlVDelE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-29T08:36:20+00:00"
+      "t": "SK, 반도체 초호황에 재무체력 회복…차입 부담 ’뚝’ By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uZV9mVV9PeUc4VzM5aVdpQzFURTJXYk9HNWNlY2tJWVVvbW81WHhQWXY5bWJJRzhVM0ZNUEhnanZrYUNITmhVc1JYd29PZ2JVMHFxaUFwQS1oMmpmMkdYSXhkai0yZ0lKaUFqNVNnRWU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-29T08:42:00+00:00"
     },
     {
-      "t": "[지자체장이 간다] \"반도체는 속도가 생명…전력 공급 최우선\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Xclp2MHR0bUt4YmhNVEZlV0VlS2h1eGR1dy12MXhrR3RpaXBXWUp3NFZrdXk5UG80X2ViUFZDZEVPVTdNUjV0Y0FUZHY5UTA?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T08:30:00+00:00"
-    },
-    {
-      "t": "“배당락 맞은 삼성전자 급반전”...外人 3조 던진 코스피는 하락",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92d1E4ZTdCN1JNaUY5WTBCYzQwa0psZjFmVjlzNGVLUE4zODFsQVZXX0Q0ZFUwYzJYY3l6NER0aFJKTEZQQk5mbDFVeE5BYW85aEhyZ2lXUkJGdmc?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-29T08:28:49+00:00"
-    },
-    {
-      "t": "금리가 너무해 [9/29 G프터눈]｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HWnowbTYzMEVieWs2VG5abldlMEM4RERhM0JXUC13MTN3dGdkVHhJY0thRFVKdmNGWW5mV1BPVWxIWWlpY2hFaU9OZVd6ZldFWjFlTmtGcGwxd0k?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-29T08:24:28+00:00"
-    },
-    {
-      "t": "[0929마감체크] 코스피, 美 국채금리 상승 부담에 하락... 외국인 3조 매물 폭탄",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmRWpoTU1nY2dvcmp0NnhqRDlPNmUxc2M5MmdyUXkxaHFhTFNXTk1FcWFxaUlkSXlTWFFWa3gxSHhTdWJ4Q1dHdjRJM2xBSnBVU0ZlRTR2ckxUclFfcVdWcDlTazFYSHMzWVFwYzdrellFdXBjWGc?oc=5",
-      "s": "인포스탁데일리",
-      "d": "2026-09-29T08:21:27+00:00"
-    },
-    {
-      "t": "외국인, 또 3조 매도 폭탄…코스피 '美 국채금리·유가' 부담 0.27%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SLTB6dGZiaVcwMXA4VFR3bnRhWDFUT2daU2lxTVY4UThkQWYwQWt6R203a2d3eXNqbGRzWFVqZE5aOHdfeHZIYTk5dEdwSXEycEJ5UEo5QVYyU2w5Tkl1LTFB?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-09-29T08:21:10+00:00"
-    },
-    {
-      "t": "삼성 AI 인프라 그룹으로 진화…반도체·냉각·건설 역량 한데 모은다 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SSTR4OEt4dEtRSDNqYU1rNVNJR0VGckZvc0g4V3NmdUZLR2dGQWZaNDVtWW5aaDIxR092TF9pckk5SVM1QWp4RzVZT1VtUEcxTG5xZEpFWUJXNVFHNTd5Q3R6bHBrcG1zb1VUatIBckFVX3lxTE5yYmNRYXJPeU9DdjRnUjhzTUdJQlRrYi1FUGpFTkNjMEx3RU1XbnphMG95WUlsZzhDaFZEWXlzWUlHeTJlZHdjeTFxSGxnUXlHWU5zM2VuSUxrUWtURWJuMEpSZWZqb0pSNGMySks0OWZvZw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-29T08:20:00+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 日·홍콩·臺, 기술주 매도에 하락…中 홀로 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BcEV6TUlXdHdRMnVUVTlKQmw0R0VIenJZZW5zNnZnY2YxZlRCNjFUTzVhOWdZZndJMi1zenp3TEdTeWJnVnh0NFlGR3NOU2FjRHQ1LURuN1VLOC1FMmJuRHpSMmR1dF9FbkNlUWxCTGtodw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-29T08:18:19+00:00"
-    },
-    {
-      "t": "연이틀 '금리찬물'…6800 갇힌 코스피, 시선은 美 물가지표로 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11Z0tJWmpka3pnUk5oOUQwN1c3ZWt5RkxLOWVmYWJKY1RNd0l0Q2g2ZGljMlNoU243aWkydHMyUUpmQlU3Wk1SYmREWWwwZHhuc18zZG14LTlUbXByWnF3dVp5TGlrUHZz0gFuQVVfeXFMUFktV2p5Vlh4bzhmUFdmaV9uRURvTG9OTVQyMkNGNWNVTWhOWTlhaVdDREEwS2tHTDBFMnUtdDRnZW1oYkd2VkxSbnU3QWVhNEtsTEh2azI5c0NNMW43ZDVfU2p0bWwzT2plYkdFb3c?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-29T08:11:18+00:00"
+      "t": "은행채 24조·국고채 32조 순증…채권금리 못 내리는 ’공급 부담’ By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VSVpEUGxUV2FxU0FBQ25OaWxnaHFSLTJFUDc2clRqNjNDU2lab2k1ZnIweXlKZmZ3dGl6bHJMaVJRdXJjM082Y2FHUFNPbjF1TkZ5VFVQN19CVDdLN0xacldWN2NfcDZ0cjI2dlNlOXQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-29T08:41:00+00:00"
     }
   ],
   "asof": {},
