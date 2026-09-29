@@ -1,33 +1,57 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T18:00:23+00:00",
-  "quotesAt": "2026-09-29T18:00:23+00:00",
-  "newsAt": "2026-09-29T18:00:23+00:00",
+  "fetchedAt": "2026-09-29T18:15:14+00:00",
+  "quotesAt": "2026-09-29T18:15:14+00:00",
+  "newsAt": "2026-09-29T18:15:14+00:00",
   "quotes": {
     "kospi": 6870.81,
-    "spx": 7661.89,
+    "spx": 7666.57,
     "nikkei": 65481.27,
-    "vix": 16.25,
-    "krw": 1354.84,
-    "gold": 4177.3,
-    "wti": 90.09,
-    "dxy": 101.59
+    "vix": 16.38,
+    "krw": 1353.82,
+    "gold": 4194.6,
+    "wti": 89.86,
+    "dxy": 101.46
   },
   "daily": {
-    "spx": -1.05,
+    "spx": -0.99,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": 0.02,
-    "dxy": 0.38,
-    "gold": 0.21,
-    "wti": -2.71,
-    "vix": 1.12
+    "krw": -0.05,
+    "dxy": 0.26,
+    "gold": 0.63,
+    "wti": -2.96,
+    "vix": 1.93
   },
   "news": [
     {
+      "t": "연준 윌리엄스 총재 \"올해 한 차례 더 금리 인상 가능, 서두르지 않을 것\"",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVXlHRkY0Ukd1aWtNaFNXSkVQUU1GUjhReUpuajRWRkVqTEU3NTFMWmhMNzRwcHVkT2poYXh2cXhkZWZfOTdNaVJYQ1N4aUJmLUN5N21SenJSZDB4MFdWQ0FMZkdpRldmVGc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-29T18:04:00+00:00"
+    },
+    {
+      "t": "미·유럽 장기금리 19년 만에 최고… 글로벌 채권 ‘털썩’에 비상",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmlMWWM4c3FZekNEODVrYTdock52cmpMamllWWZQekJjakFSSUFaRklGa2xhZHBkZXIxYVlfNzBHeUxQT180LUN3c0JQMVk5bDJveGk3aC1aQnJKc0FMZ3JoMnFXV2NhS2YzYTV5UTlsSWpXdngyTUt3QTBKRmwzN0hvM1VGX2Na?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-29T18:03:31+00:00"
+    },
+    {
+      "t": "금값, 4% 급락 뒤 반등…美 국채금리 진정",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVQ3YW9zc1ZyQU50d0ZPX0djRUJqQ0N3LURUejNkcVNpTEpaVVpTSkpwaHFjYlFUVjc4NHAyZi1tSnRENWI5V1NiY1pSWVFRN3VMWjh1dXFKWXNVNVBacnpXYmQ1U0VYNEdfbEI2SF9scTJ1MURJNlVJNU1TaFFwbVlqR2Fpal9q?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-29T18:00:00+00:00"
+    },
+    {
+      "t": "美 30년물 금리, 5.6%도 돌파…2002년 6월 이후 최고치",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CaDRIbU54TVNzZUtZTlNfTnZuUDl0TE5UUDhra2tjWTV0dzFPTktFY1BXRzFER2FtWk0zd2Z5Zm1BZmZHWmxQSkhNZlpwQkRyVVVRY212SmJBUXNSc1c5S1pIODNyMkoxcFJQbGhla3LSAXRBVV95cUxQZFJfWWFMbDhMYmRqT2d0alRiMUk4MXdsenBPSnhRSWJFVGFVVDd0TGdDQkdXaE5nRlZheUZnME1EVFhpOWNOWHFRNGkxYThzbFNfcy1zN3hvN1I5dVRhdjAyckd6NWJjTTJQMml6MEFjQTVOYw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-29T17:51:07+00:00"
+    },
+    {
       "t": "연준 바 \"정책 조정 없으면 적시에 물가 목표 2% 달성 어려워\"",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRbG5yZGpiM2hrY3pqMFp6dFdsLVdGMW83RVhsVlViRVNvMjdmUVQtY1JwYjFEZmNVOHVSRkoxUDNDWjRTa0JleW92dldCa1Zy?oc=5",
-      "s": "bloomingbit.io",
+      "s": "블루밍비트",
       "d": "2026-09-29T17:39:27+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RS3JmSXNGcGdCU2lCaWlBMVVxQUY5VmdyRHhtdC1ncTZPNHd4LWNSQW1qZHVSVHYyQkcyS19KcEc5TS0yMi14Y2hLSzBqTkV3UUdWM013?oc=5",
       "s": "중앙일보",
       "d": "2026-09-29T16:51:40+00:00"
-    },
-    {
-      "t": "영란은행 테일러 위원, 금리 인상 신중론 촉구",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvWklMNVdHSDRpTEtfWEdzWHNRRlc1bXZFbkttRUNyYnN4NlUtY2xNcVNLZ2xkcDBNeHFrSmVXTm9Td2xOMHZUXzdsUHJKQ1dZQzJ5OVlRMjl3ZEd1S1BfUDhPWEY4XzRYWFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-29T16:49:00+00:00"
-    },
-    {
-      "t": "트럼프 \"이란 전쟁은 '짧은 소풍'…유가는 급락할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5paHZnbEZXWTZNZHlxdW1oQ1pzOUdJOXMtLV9mQ3IxM3pyV1B6UVozT3pXWlRId2FoM1JVZjBzNEt1cVc2THgxb3B3WHVLUkstWlMzVGhLUVk4WXBNNm5xTnItU2xERjVqMlNyNkhaSmRCdw?oc=5",
-      "s": "kbthink.com",
-      "d": "2026-09-29T16:47:57+00:00"
-    },
-    {
-      "t": "트럼프 “‘짧은 소풍’ 이란전 곧 끝나고 유가 급락”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rTmFub1ZKUE9kZVFLUGhVb1htYUk5N2VWWXZzRF9VRzAydEpwOU5OU3JwYmZUbEJ5MWpudkhNT0xuVGQ0b1ByUGp4YVhWQVg1M3FmaHZpeERzVU80dFo5VzBnbm5VM00?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-29T16:43:00+00:00"
-    },
-    {
-      "t": "[다산칼럼] 반도체 날지만 경제 체력은 '골골'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQS3BpV0lvRlI1QUs3MzhSZllCenROaC1XM0ZkR2FMamZlMmY0OE05VlJ0bFBlekxRTVdQX2hhWGVpdC1qOEotb3p5dURrSnh3OG1DUnlxbDByQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-29T16:23:00+00:00"
     }
   ],
   "asof": {},
