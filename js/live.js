@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T07:45:19+00:00",
-  "quotesAt": "2026-09-29T07:45:19+00:00",
-  "newsAt": "2026-09-29T07:45:19+00:00",
+  "fetchedAt": "2026-09-29T08:00:15+00:00",
+  "quotesAt": "2026-09-29T08:00:15+00:00",
+  "newsAt": "2026-09-29T08:00:15+00:00",
   "quotes": {
     "kospi": 6870.81,
     "spx": 7683.69,
     "nikkei": 65481.27,
-    "vix": 16.11,
-    "krw": 1356.79,
-    "gold": 4174.8,
-    "wti": 93.43,
-    "dxy": 101.39
+    "vix": 16.06,
+    "krw": 1357.18,
+    "gold": 4173.1,
+    "wti": 93.36,
+    "dxy": 101.36
   },
   "daily": {
     "spx": -0.27,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": 0.17,
-    "dxy": 0.18,
-    "gold": 0.15,
-    "wti": 0.9,
-    "vix": 0.25
+    "krw": 0.2,
+    "dxy": 0.16,
+    "gold": 0.11,
+    "wti": 0.82,
+    "vix": -0.06
   },
   "news": [
     {
-      "t": "코스피 소폭 하락… 외인 2.9조 '팔자' [MTN 마감시황]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yaWhpdzRudm5MRGNicElMdUFDYmppa3FWT1dUZWd1cTNwbl94RFBZM1ZTcWlEZjdTNUdhV2hER0tXbGxNZ2VRamZobldJaUU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T06:56:00+00:00"
-    },
-    {
-      "t": "코스피 18.93p 내린 6870.81…미 국채금리 급등 부담에 이틀째↓",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veUJNTFRiUUlkRXhCSmkyYktDSjB0emtiTWRHN0N4XzR6RnpWOUVwVUVIUkMtSEhMd3Z0ZzhzajFUSVlnZjBZOWpEclNfWDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T06:54:00+00:00"
-    },
-    {
-      "t": "[증시 레이더] 코스피, 美 국채금리 급등에 이틀째 하락⋯6,870선 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIOTFCLVFNMWRZNEZYNEI4TW9XQ2M5XzhBWHQ2b21MUGoxZnVIc0ppYXdsSEpENFlfTjMzblpjY3BGZlpCOEpOU0V4SnJZVUxKZ19RWVN5aVJYT0p5Q1E?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-09-29T06:52:27+00:00"
-    },
-    {
-      "t": "OCI, 전북 반도체 소재 특화단지 앵커기업 참여",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5adjZhR3o1TG9WTWFWdjhxc3M2blFZRHBLVURtdVlONUZlcjZrb0F0RUNkczV3WXJtR1FUQVRhbHgyYlZvdlR5dnA5SHRUUGg5YXk2ZGcwWGFaZFAyamdQM2JUN2hqZw?oc=5",
-      "s": "디일렉",
-      "d": "2026-09-29T06:52:22+00:00"
-    },
-    {
-      "t": "2년3개월 만에 '4% 예금' 귀환…은행권 금리 줄줄이 인상 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SbmsyMXVPeFNDNEYtdnJZQ3FlTWhMclJWaDBzcnQzUWE5ZnZpV05Belo1SVptMkxxWkMwMDVCaTRldXVFdm1QQjRTbjhHOFBiRTdQLUJ1czdXalBpSUxxWkFCNTFmT1JWS3g00gFwQVVfeXFMUDF6Rk5HbDZRVlRyZmYydk05VDBWMkdzU1EzOXpYRERyN0xRM05ka2JYMkhyUUozZWJTMTRxZElCSUx0bnRuNVVZQ0NUc1RMSG1vejNUMGZvYkh3dmphMW9zSzVtbkJnX3Iwc3R2bTRoeA?oc=5",
+      "t": "\"한국 주식 좀 알려달라\"…뉴욕 월가 달군 K증시 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DUkF1QU1vYXJ0SHlVRUk3UlVkZnZ5aFdENmE1UjFfeU44RW9qb1lFeUhEWEhjR2RUT1pGV1dxMUptZXotQkNlZk45d21QM1FORlpWa0UyREl1azhLYXItc1NDUjV1RG5U0gFuQVVfeXFMTW9rMnpUTmhtelJsMk5wWlRqaERRWnRpYlQzckRBNGRja0otLVdzSUF4elZKXzR5MkZjLXFhN21HLXhQQlJEUVhCWUVXempUQk0tZFhnZ2dnd0RSaU5rODA3X2pkeG1rY1AzMzY0cXc?oc=5",
       "s": "머니투데이",
-      "d": "2026-09-29T06:51:49+00:00"
+      "d": "2026-09-29T07:55:00+00:00"
     },
     {
-      "t": "비트코인, 금리 급등·이란 긴장 속 8만3,400달러서 보합",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OdXVfU3NmQWIzem9VbmRPUEt3WHZNelZoczlpNWE2REVxZHZrUXZwd243elV4c2pXb1FRM0NucHV5WkVIb2RUMHFSSk1GVTFoR0RhV2VwQUtiR1lFa014Q0pfMkF6d1oyMllkWWNmY0FyNFU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-29T06:49:00+00:00"
+      "t": "골드만삭스 \"美증시, 경유 가격·미국채 수익률 안정시 안도 랠리\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzZDdmRC04bHFzcHdwYWM2QzJZT0Z6ZXJxRzRXRVdqQl96R0dONWNTVXl4WjdfeDNkb1NqcWtldWk3Z25sdWUxRmRTZUF6VG5DQjhsbENrVVVLU2JsVlBnU1RTOXFYbTVLMEVRSWxZcEU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-29T07:54:44+00:00"
     },
     {
-      "t": "코스피, 금리·유가 압박에 0.27% 내린 6870 마감...외인 3조 순매도",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lbmRPb1M2WnF0djRCdm9HOGZmTnFPQi1iLURYa0dLWmhnLW53cjliWFJZbDMzZW9SOEJON1h0UGFVSGJ0eWxRVHZ5WkxjSkhfejlPZzhrTmdzZGIyS2l6dUIxRVlpVkJMdnROY0NMNXQ?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-09-29T06:48:22+00:00"
+      "t": "美금리 상승에 코스피 이틀째 하락…삼성전자 반등에 약보합 선방",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TX01OV29LWTFlNnJicDRqcGgzTXlqSm5CNnFzMkNqQ2dua2N2cGhZNkxPazU0V3RQT1dRbkRRREI1YnRWTVJOQmN4Yi1jay1UNHRJZ1A1SXlldlZkLXZWUHN1UFo?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-29T07:53:48+00:00"
     },
     {
-      "t": "[속보] 소폭 하락 코스피, 소폭 상승 코스닥···미국 국채 금리 악재 영향",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93MzVha1R5eE1JV0hiX05aYXVqd1U0Z2FYTWVmZHBHNFQ2dVRuUndGY2cxNzVET0dlbEJDYmtiQkpobW5JeHIzdWtBaFA?oc=5",
-      "s": "대구MBC",
-      "d": "2026-09-29T06:47:17+00:00"
+      "t": "코스피, 美국채·유가 부담에 약세…코스닥은 상승",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2aVZaTjJHX08tdVdsU2VGd0xQazFkZ29kRkNrT3Yzc1ZZbGs3d1RaUnJEb2x5N0M0SmJHSU81bk9wZUlWZVVES2dISXg5UXloNVZGUkZiZ2I3YVkwcFRjTXRIRzV6dFk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-29T07:48:00+00:00"
     },
     {
-      "t": "[마감시황] 코스피, 외국인 2.9조 '팔자'에 이틀째 하락…6870선 마감",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ndXNYV0FnUzBrTE5RYlJmekFMWGVKbmVTbGQwVG1fZEUzLVZXSHpTNmtmQi0xQVRncXZKZjM5Rm1iaHFJbC0tQ1lUeHlWRmc?oc=5",
+      "t": "‘반도체 호황’ 수도권·충청권·대경권 경제 성장···주식거래 늘면서 서울 성장 증가폭 역대 최고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oSjhxQlRUV3hoemNzUlRpN3pRVG1qWU50Sk1YOG9WRE9rdGNnbjllNjRWYldNYzlYQ3E5aUkzSWQzdEhxVkVVT0tKMkRIS3c?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-29T06:47:00+00:00"
+      "d": "2026-09-29T07:48:00+00:00"
     },
     {
-      "t": "(설명) 증고와 증축은 동일한 댐 확장 방식으로 반도체 산단 용수공급에 차질이 없도록 할 계획임",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnlfSnNPeVUzLWpRcWpEbGpQeWMyUW01ZjJIcXlXY0czMm5Rek9oWWs5S3d5cUpoTTRqUW83UEFkX2FjZEI1TF9KakNNTERQa1lRUFhqWEdDR1FNZ3lSWFFQMndWMHl3S3JaZUZnRU1YbGQ5TjhKX1FiWTNhd2ZKaUFNQWVXRDhCbE52NUFkTQ?oc=5",
-      "s": "정책브리핑",
-      "d": "2026-09-29T06:46:29+00:00"
+      "t": "코스피 이틀 연속 하락...6,870대로 장 마감",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xLXZXYl9sdzhtd2gzcXA1WXozRHVLZllaM3ZkTzJsR25fTko3c1FCYjgweVJ4U2xrU1Fqd2dSdDVNa3VmUG9Dc19URDkybVlfazhTdjdncDBJelhhZ3FRTzNNU1B3RUQtTDJz?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-09-29T07:38:00+00:00"
+    },
+    {
+      "t": "OCI, 전북 반도체 화학소재 특화단지 앵커기업 참여",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZE1xTUJtZVY3UnBaQjdmTmJKaE11cVUxTXRxR0I3Tlk0bzZBY3BDOFhPYnJFYWJtY1ZCYWlhdmtqcGE1RlJzS2lZeXR4SDZJYzd0VXctQ0lPVURnSWdUajh0d1c?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-29T07:37:34+00:00"
+    },
+    {
+      "t": "반도체 장비 엔지니어링에 AI 바람…MATLAB·Gen AI·에이전트까지 한자리에",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kMUwzS2phQzNhcm42dGtHdjJGSms3SXBOdmh0VndaLXQwb185bUZWS0dSVV81eWRFVDlLZEQ5STdxMkNfRUtKU3djaU95bDFtSWRsLUJNQjFMR3pqcG9V?oc=5",
+      "s": "헬로티",
+      "d": "2026-09-29T07:33:00+00:00"
+    },
+    {
+      "t": "’통제 벗어난 AI’ 리스크…미증시 하락 속 보안주만 웃었다 By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qUndNQWhVeDVkRklVdjFIUUtmdEE2YkdTdXE0b2ZRcW1QcEkzd2RjdDY5ajRZRm9HU1BZUzZhcmVqVjA5bkVhUGZxT2lESFFjdmMtckVsQXNkWDlocV91a2xDdEM1Rk9fOTYwV3JpOFo?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-29T07:32:00+00:00"
+    },
+    {
+      "t": "[장마감] 코스피 0.27%↓(6870.81), 코스닥 0.38%↑(849.80)",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EOV84U0p0ZjI3LWlSMV9yellmNERlYnZ6aTZiZVdsci1RYll6dFRlcUdGeVNNeHNFd2M3ekd2aW9OTzNJTE1sbk9LTTZaaDZsbDBoelZkd20xLS15aVZuMXZR?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-09-29T07:31:46+00:00"
     }
   ],
   "asof": {},
