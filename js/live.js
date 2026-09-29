@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T19:00:18+00:00",
-  "quotesAt": "2026-09-29T19:00:18+00:00",
-  "newsAt": "2026-09-29T19:00:18+00:00",
+  "fetchedAt": "2026-09-29T19:15:12+00:00",
+  "quotesAt": "2026-09-29T19:15:12+00:00",
+  "newsAt": "2026-09-29T19:15:12+00:00",
   "quotes": {
     "kospi": 6870.81,
-    "spx": 7678.84,
+    "spx": 7673.07,
     "nikkei": 65481.27,
-    "vix": 16,
-    "krw": 1353.05,
-    "gold": 4198.8,
-    "wti": 89.46,
-    "dxy": 101.39
+    "vix": 15.98,
+    "krw": 1353.35,
+    "gold": 4204.6,
+    "wti": 89.27,
+    "dxy": 101.37
   },
   "daily": {
-    "spx": -0.83,
+    "spx": -0.91,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": -0.11,
-    "dxy": 0.19,
-    "gold": 0.73,
-    "wti": -3.39,
-    "vix": -0.44
+    "krw": -0.09,
+    "dxy": 0.16,
+    "gold": 0.87,
+    "wti": -3.6,
+    "vix": -0.56
   },
   "news": [
+    {
+      "t": "연준 이사 \"인플레 지속\"… 美 3연속 금리인상론 부상 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wOEdBbzRpdFZLVnoweGVSNkVVUGt2Qkxaa3hJSWZGMmZTcVhjVlotR3ZVU0p3dG5IaWpRRFhJSHd0bnV5dDZjTVdoTUVLTlpmcVJwSDJBV2lpVExWT29aR3VYOUJWSDlz0gFuQVVfeXFMUDF5S2xlR0RWdWg2X3NxMUZTOXFlOTA2T1V1VmJ2RUh4dEhjbEZYeUtjSlVsSmVnMnhPdUVMbExsNUgtVUZMamkwWFAta216OW5iM3JCWXpEQ2VDMmYtaHJNNU1ZUlhlc2hva2NpRUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-29T19:10:00+00:00"
+    },
+    {
+      "t": "UBS, 2026년 3분기 실적 시즌 앞두고 주목할 유럽 반도체 주식 선정",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qdldJQ2hOYVJKRmVaNGw2R2JWVmU2UlZqTG5HNnM5NDVHbWZ6WkVCbUhvZUI0Z0QtVEMzYWhnbUpwZUFINHJpeE04RjFSYWNOUHByeFlGd0NHYktxaFEzWkZyc2tnSmtBUFVZaFVWbFc?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-09-29T19:05:36+00:00"
+    },
+    {
+      "t": "트럼프, “이란전쟁은 짧은 소풍…곧 끝나고 유가급락”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04dlZob0ZKWEhNOVN1cTNBWEhzSWtLRzNQaURSVm1uZnZTeVlzX1JveFBMalgzZ1JsUmkxTEVEa2pncWYyYXZmb2lkZXRlVEE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T19:03:14+00:00"
+    },
+    {
+      "t": "인프라만큼 인재 중요… 반도체 산단 '안정 정착' 돕는다 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQkg4SmtjNktYdElsd25ac1h2cVo4Z2RvVTlTdVdVMXVOU2Y0Nkc5NzlLenVjOWRFNk1XTjVnZDBQSnlxNXRDTV9EWnc4aUhnTGljTDFOVDFMaldPSjJmRFNSOFEtSldXa3lIT9IBckFVX3lxTE1Xc2Z3VFZHWWRKYzZJWE1ENlptcW1aVVlLYW1FRmhuZ1lsNm1yUkFQZ2Z4RGk1ODV3VjVNUXhvSndZQ09QT21xc05VR1pTc3JQYmpVUVlYRFlHaXYtUUdwU3ZpMXdna3p5ZGtvMHJ2YktlZw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-29T19:00:00+00:00"
+    },
+    {
+      "t": "[뉴욕 금가격] 국제유가 하락 속 연준 당국자 '비둘기' 발언에 0.6%↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UNXBnYzRuQWNuT2pjS2NMRy1Ud2RobTVvY1ZJVjhQbjRxUFNHaEY4eVBlN1RnUXN5NHhYRVJiUEMtSFV3aTRXZjlUVWdwSkxjWVJmaV92S0l6cWp0cjRMSE1hUnZZa1JkMFJfR29PbXVFQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-29T18:55:22+00:00"
+    },
     {
       "t": "트럼프 \"이란 전쟁은 '짧은 소풍'…유가는 급락할 것\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FNm55TWJtVml1Z1RycUtITTl3LV9zajdFT3FRSDRaS1FRUHRCUUk1bVZkcTZsaTVhMGdCWFBZU0wxWkhFUmQzS0FyVjUzdDBBT0RFdzRVMU5PRTdzeTE1WTIyb2ExNUxSaXppMVgwVWc?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OQXhHTHlFRExBdGZMNWltY0prYjJ4TS1PQ2xIMGZ2dm5paGFCMWtBUzc4Y3pFczBGOWFYR0pkd1NWUGZmeHE4b3hQSE14RXFoMEJNRmhyeXMxR3Q2T2taQVJ3czJXN2ZOUldj0gFwQVVfeXFMT2pNUXAxN0xJZS1sN0NwRFM0UURzUGprWWQ0T1AwM1ZxZ2oxa08xdlB3U1FUMWNEeHc0WUtpUXhrWjBIU01pa0VkMkxOWVdYaFJIMzVoRW9RWTdkbTk0eVdxM1k4ekJkN090cWFGUklmNA?oc=5",
       "s": "머니투데이",
       "d": "2026-09-29T18:15:00+00:00"
-    },
-    {
-      "t": "19년 만에 솟구친 美 금리… 亞 신흥국 흔들자 한국 배터리 차입금 '비상'",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlF1RVJHOUc1dmN3WkY3WmkxT2QwR094WUZBckdaaDV3MVdsbW1lMi0yQmxtenpNd1BwdDNhRGVsWkp1REhCRDd3MS05VU9wYWRGNDJyRGplUDlkb1dWUVVmczEwYlJYZjR0clRGYmpHeTZXOVhaZFRpejZaVnJUQnYyVDNBRzZB?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-29T18:15:00+00:00"
-    },
-    {
-      "t": "굴스비 연준 총재 \"장기간 인플레이션 목표 초과는 위험한 불장난\"",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGV0dEM3R5b3VoZ1hCZlJ4MTBkcnRnb25Zc3lVVmlfeWN4VGd1aXMzeVVVSW5GczlZQVdvVERYM0lEY1ItdnA0UWZwb2h4bWVKVjRCbHp1Z0xCbG5mUU44dkwtSUpYcUROZEE?oc=5",
-      "s": "kr.investing.com",
-      "d": "2026-09-29T18:11:00+00:00"
-    },
-    {
-      "t": "연준 윌리엄스 \"올해 한 차례 더 금리 인상 가능성... 서두를 필요 없어\"",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVXlHRkY0Ukd1aWtNaFNXSkVQUU1GUjhReUpuajRWRkVqTEU3NTFMWmhMNzRwcHVkT2poYXh2cXhkZWZfOTdNaVJYQ1N4aUJmLUN5N21SenJSZDB4MFdWQ0FMZkdpRldmVGc?oc=5",
-      "s": "kr.investing.com",
-      "d": "2026-09-29T18:04:00+00:00"
-    },
-    {
-      "t": "미·유럽 장기금리 19년 만에 최고… 글로벌 채권 ‘털썩’에 비상",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmlMWWM4c3FZekNEODVrYTdock52cmpMamllWWZQekJjakFSSUFaRklGa2xhZHBkZXIxYVlfNzBHeUxQT180LUN3c0JQMVk5bDJveGk3aC1aQnJKc0FMZ3JoMnFXV2NhS2YzYTV5UTlsSWpXdngyTUt3QTBKRmwzN0hvM1VGX2Na?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-29T18:03:31+00:00"
-    },
-    {
-      "t": "금값, 4% 급락 뒤 반등…美 국채금리 진정",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVQ3YW9zc1ZyQU50d0ZPX0djRUJqQ0N3LURUejNkcVNpTEpaVVpTSkpwaHFjYlFUVjc4NHAyZi1tSnRENWI5V1NiY1pSWVFRN3VMWjh1dXFKWXNVNVBacnpXYmQ1U0VYNEdfbEI2SF9scTJ1MURJNlVJNU1TaFFwbVlqR2Fpal9q?oc=5",
-      "s": "g-enews.com",
-      "d": "2026-09-29T18:00:00+00:00"
     }
   ],
   "asof": {},
