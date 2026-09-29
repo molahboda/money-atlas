@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T14:30:19+00:00",
-  "quotesAt": "2026-09-29T14:30:19+00:00",
-  "newsAt": "2026-09-29T14:30:19+00:00",
+  "fetchedAt": "2026-09-29T14:45:16+00:00",
+  "quotesAt": "2026-09-29T14:45:16+00:00",
+  "newsAt": "2026-09-29T14:45:16+00:00",
   "quotes": {
     "kospi": 6870.81,
-    "spx": 7684.35,
+    "spx": 7681.44,
     "nikkei": 65481.27,
-    "vix": 15.86,
-    "krw": 1353.7,
-    "gold": 4203.3,
-    "wti": 91.31,
-    "dxy": 101.41
+    "vix": 15.87,
+    "krw": 1355.08,
+    "gold": 4200.7,
+    "wti": 91.26,
+    "dxy": 101.37
   },
   "daily": {
-    "spx": -0.76,
+    "spx": -0.8,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": -0.06,
-    "dxy": 0.2,
-    "gold": 0.84,
-    "wti": -1.39,
-    "vix": -1.31
+    "krw": 0.04,
+    "dxy": 0.16,
+    "gold": 0.77,
+    "wti": -1.45,
+    "vix": -1.24
   },
   "news": [
     {
-      "t": "주식 시장은 금리 상승에 얼마나 더 버틸 수 있을까?",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hb3VUNzZxRlFKbC1RMVNtanlSWUtLNVNBUmowb01fNWw3Y3M0dkIzMjh5N1cyc1JvWExYbVhJRS1nZnFOTm1VaGJTVTZuX2ZHa2dna01PZzZyd2FCLUtyZk9HWUJGX1ktcEtZZEJwNEc?oc=5",
+      "t": "뉴욕증시, 美 국채금리 향방 주시하며 혼조세로 출발 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXNRd21SZXpBYmdGdk0xc2twZEFtRjVuUHk5aGZ2Q0xzUmlFVGtvUzVROW5KUG9UQVBQR0ExTWNZNE9CRVlVQUFHVGhCX2lnUFI4M3l3MGp6bjRhQXB5ZmxOV2xzQmgxOUR1NkhyQjRLT19pVF95NkU0akR2WjFfT3BRaHQyMEVkT3N4SVEtNGdlVlBwRlVwc1k4c0g1Z9IBsgFBVV95cUxNcGphZlRaX2VWNEZIVjZKQTQ4SDFiTEU5dlhCd0FLVHJNclRyQjgzVWp5MTRWMVM0ZTYtZzlNZTdCV2ZEOE5XWm1HMjFPRGQxbUVpenJHTWgxMndXY0xpYXZEbUpKS25qM2xlbHFaZnNvUlFHR2phU2ZUZk9ncG9ycW8wZ3UwN082ZGpLTENrTVlJOWNlcjl5Zk5TZC1YVmZRSlRHVzRwME1xNTFtTGpTaTFn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-29T14:40:00+00:00"
+    },
+    {
+      "t": "웰스파고, 공급 리스크 지속 이유로 유가 목표치 상향",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUXJiclJfSlNQcno0M0pwLVVKWjN5dEVoV0sxclVsMnZJOVZ6V3h2Rm5FUzNNc0Qyd3h5a0otSURkNGdFdFNfZkxkSTBEUEdodi1veTk0NHdFSjlnMURJNnEwSVNjcF94bEE?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-09-29T13:19:00+00:00"
+      "d": "2026-09-29T14:37:00+00:00"
     },
     {
-      "t": "\"삼성 5억씩 푼다\" 직원들 들썩이더니…집값 치솟은 동네",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GVXIzaW9zZXZOOVVxSmRmc1NaMkh0dXI0endkWWV1dVZiRzN1Nk9OajdObXFCangxUWJld185VlhxODdPS1lsWWt0WktKQmMzaXdsLXRtcVhHUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-29T13:11:00+00:00"
+      "t": "[마켓인사이드] 글로벌 금리 어디까지 올라가나…5% 국채 시대, 6%가 새로운 분기점",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2Z2RNZ3hWbl84MHBqTWZaeTNfcW5CNFAxVEJqVUljdk84QjI5ZE13VkRVYzBFVXdOVjRBakRkNXVfQ2NwTkpxRURyYkNUVjlDUW5sQXVwUWNERDVVcWc?oc=5",
+      "s": "news2day.co.kr",
+      "d": "2026-09-29T14:37:00+00:00"
     },
     {
-      "t": "뉴욕증시 프리뷰, 기술주 반등에 美 선물 소폭 상승… 유가·금리는 여전히 부담",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLNFIxdXZZc2ExSHZ2d1RmRUpoU2lHa004aXBIZUVFMFg2RWk4NkllYzNwY2d1emNOUmpzWFBnVlJ1QS11VmdRcW9lMk5iYm9fOUotRTFQVTdlNjV6?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-29T13:01:00+00:00"
+      "t": "뉴욕증시, 국채금리 동향 주시하며 보합권 혼조 출발",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dERuanBWdzBCdVR0RXBPNWd4WDVkeVlHSk5ueW1jSDkxaldVUWU1aFR4Q2tmZkdiS2FnSFhCMUpTemhuaHpfbHoxbFYzc1IySUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-29T14:29:20+00:00"
     },
     {
-      "t": "‘대만 반도체 생태계’ 30여년 취재한 언론인 만나보니…“ 중국 맹추격에 한국·대만 공동 대응을”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82VXhWWmZVbURxWHFUX1lMQmpXNmJsNlp5NWk2ZWhCUU5MNDI2dEdmTW96Y0YxQ3lnTnNiWE1TZ1VKV1BhNF93Qy10SmpWZW8?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T12:48:16+00:00"
+      "t": "[마감] 코스피, 美 국채 금리 악재에 0.27% 하락…외국인 2.9조 순매도 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaE5Md0wtdWhtU09jbDYzZ2dxZy03R0FyQjlNcm5LTlZGalhTNXU3WmRXdmVKUUhjN1VyWEhQWG1VMEtBTGFGTHNLZHlsZUlSN0x5QWg5dUxJN1ZwYmZDNTNScjQ2U1FWZE93elVlbzI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-29T14:29:00+00:00"
     },
     {
-      "t": "반도체 산단 옆 “농수 부족”…발전소 증설 공사로 “집에 금 가”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIZWduODBjWnNwQndkbjNEWHlndlI0RUU5eTVsUXkwLUtHMG93RUZuTVB4UDVvU05LcGZkUzlSOVd2cU05cm9rSUstcncwSlE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T12:48:00+00:00"
+      "t": "웰스파고, 금리 우려로 금 가격 목표치 하향 조정",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfZ2lNTFpfSTY5alhjdnduNmlWOEhraXpnNThNQjNvTjVIMGlxTjM0THRuRmFId1BSdHJmZ2RFNG9JNUlXTlV1bWxLUzk1RU1Da0tuY0lQcDFDMnRwU25vMGEwZlBRazFQVGxrOXRvQQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-29T14:28:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시]미국채 금리 고공행진…일제히 하락세",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsaGxSQVZMeTBVOGV5SzdkdTJlT3JDSlFhT1JvRjNPYUNNSXFQZnlsWmY3WFR4RV9Va3NxUDB1RWl3SXNwMzk3SjdiUVlsVVQtbFo2aWJvS1p1UVRVMHpnSA?oc=5",
+      "s": "asiae.co.kr",
+      "d": "2026-09-29T14:16:25+00:00"
     },
     {
       "t": "미 달러화 강보합…주요국과 금리 차에 강세 압력",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HNGRQQmhRM200YnQ3MFYyNTFxaFFTRHNnanAtTU9LTV9fZ29reHdSNnAwck5YZ2F3X1d0dFgwSUsyQ0FHLVB3SjloT0RTS28teHZ4SU9hMXN0bkpUZTYyUC1hbEN4M0F2UnYtVVBKQXg2Zw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-29T12:13:44+00:00"
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14RDQwend2N0tMRkh1NTFXbGlCSUgxLVU5RWhSX2N0WS1OVkNpbVJJLU1WNlAtN2JWS3NXTUhwQXRiLVJCTmpjWS0zOFNBc2kyMkhMUzV2YWRZOThlcy1WOUxJbnNDVkFDUEhmTGpvOEg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-29T14:13:45+00:00"
     },
     {
-      "t": "[급등수사본부] 전력 반도체 사업 확장 모멘텀 'LB세미콘' vs 반도체용 고부가 소재 국산화 확대 수혜 '엘티씨' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VazlRUTAwVlVPem82TWtkWnBmRm4xM19fbkZFQzQtQnQ0LW93dndPZU92WElXMHo1MHVINXNwMTZPVHpNQzBsM3Zidlh1VTY5WmtWUXFkbE1jbElvRlpwV2R4WmdNUnl30gFuQVVfeXFMTXhLb3cxb053Y0ZobkxFeXRWRG9wSTA0bEZFQmpIRVBQSWtzSFlyRGRCOEZqOWhtNEVlSjhMejdIT3BYd1NscVgydm5Ndk1zT1F4WWx3eDZyMExMTkVLQVJWOWFrZkJzUFdsNWEyZVE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-29T12:08:08+00:00"
+      "t": "미중 81조 원 관세 인하...트럼프 “중국에 무기구매 제안 안 해”",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHV3hJcUJZMHpLMEswQ3daMURrcEYwU0VKaGRndE8zZlAzZWxXT3V1OTRLZnRXb0xtSmxZMnRmaTBlYmxURDl1ZVc2bzdPaU5ERHhiNnBackE2X1VhNGc?oc=5",
+      "s": "YTN",
+      "d": "2026-09-29T14:08:00+00:00"
     },
     {
-      "t": "‘반도체 효과’ 충북 성장률 12%…역대 두 번째",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIYmJlSTdCN0dOdXZDQUxYLXJ4OXRhM0FhUGdHdzl0U0ZXN3BjejlQQUdYd00zaGFwWjRIclhuRzZXazVaTFRMeHQ2ckVyZEY1RjZLTGNuLURwd9IBX0FVX3lxTE96LTJDZnhkN3lPLWl0c0VFdHUyMS1aSGJhNHZRYkpoMVNBcVMyYXhEeFNiemFQTVdfTzVVRkhESkU4VUFNdG5iU2tVZW9SSG9oZmF0YUMyWVBFbzRza3o0?oc=5",
-      "s": "경향신문",
-      "d": "2026-09-29T12:01:00+00:00"
-    },
-    {
-      "t": "코스피, 美국채금리 급등에 약세…마이크론 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyU2g1c1MwMVpENFdTSWlfZjhyTmJuTUN4a1dfcnU1WVRIN1l4WXMxSlBSODZrTU9KTmRsT3NVdjQxakJobmd5QU01cWctLWhGQldHdHdvR3l4NnVDRFRHd2x3UG5MQ0U?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-29T11:57:00+00:00"
-    },
-    {
-      "t": "금리도 AI도 찜찜한 밤 [9/29 G브닝]｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMWx4TmZEMTlGUkhJNEZWaTlGaXNMdnV4S1RJZkxGMFg1UkFiRVh2R1E3Z3BqZzlkdVFSSnNJc2VobkxCa2RBNUh6Z0xqVGUzR003QkhocDB6dkE?oc=5",
-      "s": "중앙일보",
-      "d": "2026-09-29T11:51:27+00:00"
+      "t": "[뉴욕개장] 유가 하락·AI 기대에 혼조…나스닥 0.31%↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSmsyMUVKVVhVY1FNMUFfMk9VOVR1T294bEg5WF92dU9DTHFReFdsem5mR21wMmNOY0xkTDNldkMwNDRvMWQtZGVvVldfM2s?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T13:44:00+00:00"
     }
   ],
   "asof": {},
