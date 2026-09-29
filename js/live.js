@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T04:15:17+00:00",
-  "quotesAt": "2026-09-29T04:15:17+00:00",
-  "newsAt": "2026-09-29T04:15:17+00:00",
+  "fetchedAt": "2026-09-29T04:30:16+00:00",
+  "quotesAt": "2026-09-29T04:30:16+00:00",
+  "newsAt": "2026-09-29T04:30:16+00:00",
   "quotes": {
-    "kospi": 6834.03,
+    "kospi": 6812.9,
     "spx": 7683.69,
-    "nikkei": 65109.32,
+    "nikkei": 64994.84,
     "vix": 16.07,
-    "krw": 1357.69,
-    "gold": 4163.3,
-    "wti": 94.16,
+    "krw": 1357.58,
+    "gold": 4161.9,
+    "wti": 94.2,
     "dxy": 101.27
   },
   "daily": {
     "spx": -0.27,
-    "kospi": -3.49,
-    "nikkei": -1.17,
+    "kospi": -3.79,
+    "nikkei": -1.34,
     "krw": 0.23,
     "dxy": 0.07,
-    "gold": -0.12,
-    "wti": 1.68,
+    "gold": -0.16,
+    "wti": 1.73,
     "vix": 8.07
   },
   "news": [
     {
-      "t": "ING \"美 시장, 연준 고금리 장기화 과도 반영…듀레이션 확대 유효\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6NUFDUmFkZTlTN2kxSFRiQjRzdDB6Y2lYeE5LQzF3dElTYU1HdEpjcnhFRzhIRnJuZkNSVUlZN05jYnFxcENiQ2J5M3l6MXlnRDBRdVFlU0lRTzV0azJ1QUtOd3dpaXdpRk9aNlJfaU4?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-29T01:46:10+00:00"
-    },
-    {
-      "t": "움직임의 흐름 읽는 AI 반도체 개발",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iODJHNHBDcmZ1ZV9KbmtMcEtKcXpuZHdiV2hMMl94NHVOSXl0QXBQSlVBZ2R0SktxQWk4X3lGcHlzVndjLUppQTFEUGhyZ00?oc=5",
+      "t": "[무등의 아침] 조인철 “일자리만 있다고 사람 머무르지 않아…반도체 산단 정주 여건의 핵심은 주거”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSYmtUUUJSUWFyN25sMVZJQVoxOHZBb0RjQUx1Q09iMUJWWHliRUlZNmQzNkJ3dmRldmdGUkpBZlFrdkRQMlBHYVhfTVBaanM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-29T01:43:04+00:00"
+      "d": "2026-09-29T04:24:00+00:00"
     },
     {
-      "t": "[서학개미 안테나] 금리 오르는데 AI는 달린다…이번주 주목할 글로벌 ETF By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Z0hoRm4xN2dPeVI5NFRaWXpjUU9aMWJXV3FaakxtT3FtZE9wWTZFMHRqUFFUWnZHcmozU0JFb0xvZ1lIbDhHdHp5NjFHamdQbVdRZkZCelhYMmZkWS1BODJTeDg3T3lHbEIxUElETXM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-29T01:42:00+00:00"
+      "t": "코스피, 금리·유가 부담에 외인 1.5조 '팔자'...6800선 위협",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXhEVVVhSkFVZ3oxZGdmSTdEdmxUdlZCbDdBSmRGZXphYUZHUEYyM3FCUDF1UlpqbTJGZDZjUXpaQmEyNXY1WHZidXNacm9FQzVsRUJya0RXXzNTdUFMMHdUV0RGaHA5ZENBS3doODlRYm1KekE0VW53MnNZajF5V3RNWHdPQ2Ut?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-29T04:23:19+00:00"
     },
     {
-      "t": "미국 장기금리 부담 지속…기업 이익과 자금 조달 여건에 관심",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTTzlLTzd3Z3dHdUtpNTMwVl80dmdWcHZualBSUk01eWdadmRrQ3l6eWw0WDVLdFBPbFVDdy15NlhaajRtdk4xR0djV0ktNkNDc0xqZjIyLW1xNWxJdG16Vg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-29T01:42:00+00:00"
+      "t": "“AI시대 맞춤형 반도체 인재 양성”… 5개 전문대, ‘2026 KSCG 포럼’ 공동 개최",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QWQ4SUtCYUUtem0xRW83a3Azd3FNSGtsSlpGTTZvY2J5UVVsMWlKNUJTa2c2aVE5bEU2S0ZyVERFYzFkYzlySHRaLXVPbHprVjVOQmRqbWpiQ1Q4TGRyZUxyN0ZxQQ?oc=5",
+      "s": "한국대학신문",
+      "d": "2026-09-29T04:16:14+00:00"
     },
     {
-      "t": "OCI, 전북 반도체 소재 특화단지 앵커기업 참여",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paHpfcXpfOEFIZVptNUJFN0U1N0lzUzhNVnZRWDNRcG9PVkxVbG5XRC1lT0lrQ0NGM3BhUUs0X1dpeDJCN1AyNjlSVDBNYUlwX1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-29T01:37:23+00:00"
+      "t": "[ET특징주]한미반도체, 반도체 장비 수주 소식에 상승세",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FZ3JBaDlyQlVBd05XU0haZlh6VzdWQXlHWG12NDRpdFRXNzZ0Z2pTSVlHQU9rUmpfNkY4ZE0xVVBtNlFUN1dBRDNOZFI3QQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-09-29T04:12:57+00:00"
     },
     {
-      "t": "[특징주] 한미반도체, UTAC서 79억 반도체 장비 수주…4%대 강세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WX3ZVd3ljMzVYM0dqZ21EZGIxWTJKQy13Nlgydm1NcUZyOThsUGxaeHNrU09NVC1Dd3E0N1pzYWJGMWxEcXQ3LVN2RFNaaUhzOHhUenFObWIxTVpZ?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-29T01:37:00+00:00"
+      "t": "ING \"美 재무부, 장기금리 극단 조치 가능성 있지만 작아\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSWmY3aUtzbXZ1cl8yTVBVOEtZa1d1MzRBaXUyOUhnMklLMWhTUjRCMENjN01fWU04eEpOZFpYUGsyX3p6MlBVS0tuUlpjb3pPbXMxT0dQaXZyV3pUTEl4Z2R5c0ppNXBmcEdrWVhxdEM?oc=5",
+      "s": "news.einfomax.co.kr",
+      "d": "2026-09-29T04:10:32+00:00"
     },
     {
-      "t": "서울대에 ‘AI반도체 혁신연구소’ 개소…6년간 석·박사 110명 양성",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PdnZDTl9MeWg5R1QyeGpKaUdTM0dVdkUxbEdkSlNXVHFjTlhUM25rdnAtSEVpZlV4UHJSUkowbElFRkVaalhHN0tKSllNb2wyS3kyR1ZOMVlLRU0?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-09-29T01:33:45+00:00"
+      "t": "[경제읽기] 코스피, 연휴 후 약세 지속…美국채금리 상승 여파",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzT3YwcmxPRDlNdkpBWlNEaGctWlVhTHZ1OUJCRFJrRVRrbUo3WE4xR2hPbVpZaTNWaGVCd0d5eUV2WU9IeDY0WmRuOUdIa0N2akkySFBITWp6cmItLTdscjhaeTdpYzQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-29T04:05:00+00:00"
     },
     {
-      "t": "강달러에도 버티는 원화, 반도체와 국제유가 주시",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ZjVzZzYwY05aVnUyMWl5QXpNdXltTGk4Rzg0YklPSmxia0pzMGpZMjVqdmNHZDhBNnRWa2RoX2VUOFduSUhZOERLVGh5MXRhaE8yQ2t2LVBUSVZBb09uak5B?oc=5",
+      "t": "日 40년물 입찰 경쟁률 6년래 최고…최고 낙찰금리 4.125%",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NalFFbjVJQlJHWVRoZ0duZV9ZTmpQNjVobVhDbzhvMW5EYUhBSXg0R3pqZDFidjBCSWFZQnZhVGoyMDlFTkNfWHhLeDFXZW56aDhlYTgyVUlqSFh0N0hVY3psOExBZmV5S2JCMElMYjFZQQ?oc=5",
       "s": "kbthink.com",
-      "d": "2026-09-29T01:33:05+00:00"
+      "d": "2026-09-29T04:01:31+00:00"
     },
     {
-      "t": "\"채권 혹한기 대비하라\" 美 국채금리 급등에 국고채도 출렁",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2TGFDUmNZVUxrbnNLOUk1RVRCV3JhajlhYjFObHV1N3M3OVFTeTN3TS11QzFFUnpteEVGX1d2TmEzT0RkblJ2anZ0NEhUaV9qai1CdWVpN2c5VUpyNUVZLQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-09-29T01:33:00+00:00"
-    },
-    {
-      "t": "서울대 AI반도체 혁신연구소 출범…석·박사 110명 키운다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JaGRuZE43ZXFrNFB0eUY3Y3pLU25KcGtNdEJHVmJQMzdlYldmbkRkbFpDcWczZjN5UU9zVUVmdXJFVlBJaWJscmtsd3VVcnM?oc=5",
+      "t": "[食전食후] 코스피, 외국인 1.4조 '팔자'에 6840선…반도체 장비주는 강세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OWHA1WVJuWjVweUpOS1VsQlRHaU5Zd0VZMklhZjRYbl9BNlNDTC1lUFY4Mnc5Tjc2RVFoSHNMVEgtNFZkTEhMbm5pZFVha2M?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-29T01:31:51+00:00"
+      "d": "2026-09-29T03:54:55+00:00"
+    },
+    {
+      "t": "8월 수출 68.7% 늘어 동월 최대…반도체 타고 대기업 독주",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uNDJuRWZnWDRxOUpGTzlwbzN3bEpHUDJITmFvRE9xcXczNWlCeVhPb2haUU5Ea2FjYjEzRG9lOVR6VWRLdkZ0SjhzR1FJUV9Ma2lscGZnR2lDUQ?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-09-29T03:54:25+00:00"
+    },
+    {
+      "t": "\"AI 투자 늘어난다\"…韓증시 도약하려면 \"녹슨 배관 정비해야\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0ybWdWQk93UV9uejBoNUl5Vi1GVzM4c1l2RHp2WFBNcDgtSHB4RkVVcmg5TDhfY1lMZ1A1d3lvRmZMeUNvR1JWU2N3UzNxZXM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T03:47:20+00:00"
     }
   ],
   "asof": {},
