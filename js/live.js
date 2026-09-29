@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T01:30:32+00:00",
-  "quotesAt": "2026-09-29T01:30:32+00:00",
-  "newsAt": "2026-09-29T01:30:32+00:00",
+  "fetchedAt": "2026-09-29T01:45:26+00:00",
+  "quotesAt": "2026-09-29T01:45:26+00:00",
+  "newsAt": "2026-09-29T01:45:26+00:00",
   "quotes": {
-    "kospi": 6842.4,
+    "kospi": 6850.51,
     "spx": 7683.69,
-    "nikkei": 65144.95,
+    "nikkei": 65173.4,
     "vix": 16.07,
-    "krw": 1359.18,
-    "gold": 4156.4,
-    "wti": 93.48,
+    "krw": 1360.28,
+    "gold": 4161.4,
+    "wti": 93.65,
     "dxy": 101.21
   },
   "daily": {
     "spx": -0.27,
-    "kospi": -3.37,
-    "nikkei": -1.11,
-    "krw": 0.34,
+    "kospi": -3.25,
+    "nikkei": -1.07,
+    "krw": 0.43,
     "dxy": 0.01,
-    "gold": -0.29,
-    "wti": 0.95,
+    "gold": -0.17,
+    "wti": 1.13,
     "vix": 8.07
   },
   "news": [
     {
-      "t": "미 국채금리 5% 시대…‘40년 만의 기회’인가, 부채의 경고음인가",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrTXhfZFhpQkNXODlQeHJUOXZoVGFLUzcwTnVrLVlocGR6X3ZhZlFCZGlmZmNvbnY2MWY4VkdmSW5rYzQ3X21JTFhiSlN3dEk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T01:08:11+00:00"
-    },
-    {
-      "t": "삼전·닉스 ‘저가 매수’ 유입에 선방… 코스피는 美 국채금리 쇼크에 약세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ISkszWXF5b1ByZzlzcy11LTl3Wk1UWGJqaGxXUDlKWm13Uk1ZT3FrZ25EUGtDdGxscUNIV0Y2cTFEWXgtSExrdUVLRDU2RDQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-29T01:06:12+00:00"
-    },
-    {
-      "t": "[특징주] 한미반도체, 반도체 장비 수주 소식에 강세",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94ZjJyUGM3QnBUX1FKVG43U3Z0SHJSaUtDZTdtQ2JTUGFWUG04SzNMbkNHYnNKQ2doNVh4c3d5ck5wWGNXWm9RNkI4TUZOZkN2dFcxZGFJbklEbkXSAWBBVV95cUxNUmJhbmswajFaQzlPZjItZ3F6NXRtRTBVOEZxcDM4bDl1Mk1nSGljMG80UGVWclpmY01LMjFFbEZtZTFSNnVBdjJ0MTlGVXRCM1hRNTBmRFpmWlJJUUdxN08?oc=5",
-      "s": "yna.co.kr",
-      "d": "2026-09-29T01:01:46+00:00"
-    },
-    {
-      "t": "반도체 아니었다…개미들 올해 4.9조 쓸어담은 ETF는? - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tckNYZWdxTTllTVM4enJfWVc1SlJTWDV5eFlod1hFaG80SXFMT0R6Q2dkNmIxVmJwQjBta0xveG5XWFY4a0gzQ2xwUWdERW13TW1yOXpiM21WSWh6U0FtaHdteVBONU1q0gFuQVVfeXFMUHVrNldqTk5hQUxkVkptX2JPcExwTWdVWTF5YU11ZWlrQWtQWGVEUEpVeHVlWDZSNmxBbE81R3hmWVlJWF9sakdUX0llZ0ZoREI5TXFDVU1vVUNITXBmN3N4TUE2aTVuX1V3V092eGc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-29T01:01:26+00:00"
-    },
-    {
-      "t": "급등하는 국채금리와 AI 불안에 미국 증시 선물 보합세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdEE4ZjUwN2l1NzF5Y3dpOEg2UFBkVVlmUkRRYUtWOFZGeFFySFNyS3BOQWdNVVRwNnBiMFN3TmFyUVhXRzAyZ2ZQa3ZaYnNIZS0ydWh2OGRBOTBHem1yWEVzd1BXQndiU1QzMlFEY0g?oc=5",
+      "t": "[서학개미 안테나] 금리 오르는데 AI는 달린다…이번주 주목할 글로벌 ETF By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Z0hoRm4xN2dPeVI5NFRaWXpjUU9aMWJXV3FaakxtT3FtZE9wWTZFMHRqUFFUWnZHcmozU0JFb0xvZ1lIbDhHdHp5NjFHamdQbVdRZkZCelhYMmZkWS1BODJTeDg3T3lHbEIxUElETXM?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-09-29T00:58:00+00:00"
+      "d": "2026-09-29T01:42:00+00:00"
     },
     {
-      "t": "분기말 네고에 환율 1350원대로…강달러·중동 불안은 하단 지지",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NSmZmX1hYTDVJVXFvZnBKTWtaWVVIX0JtLVhGODlrTTAxS3dNNzByTndLMDBwa1FocFlvZ3BmWUd3WGh1SENna000ekdJQjVGcmMyY2RESWhZZ2fSAWBBVV95cUxPckdpOW0wVHQ1Z1lsTkxQR1NMcVJpUno4c1JiLTcwTlRYNWoxNElOc3J6Z1lHQU52aGJQdHNCUV8tNW1hUHlRRmdQOVo0S3N4dlpVai1BbVlVTlphd2RQbnU?oc=5",
-      "s": "뉴스1",
-      "d": "2026-09-29T00:55:17+00:00"
+      "t": "[특징주] 한미반도체, UTAC서 79억 반도체 장비 수주…4%대 강세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WX3ZVd3ljMzVYM0dqZ21EZGIxWTJKQy13Nlgydm1NcUZyOThsUGxaeHNrU09NVC1Dd3E0N1pzYWJGMWxEcXQ3LVN2RFNaaUhzOHhUenFObWIxTVpZ?oc=5",
+      "s": "newspim.com",
+      "d": "2026-09-29T01:37:00+00:00"
     },
     {
-      "t": "관세평가분류원, 제27회 품목분류 경진대회 결과 발표",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iWUFYUFNSb3htdW9kNWpsd0ZidDdfcHkyQzdJbm1yVU1jV3VZRkxjRnBxZi1Sb3FPT2VMWkpBN3VFT2Y3M0docnYyZnJRZTdkeHMtSzhzelRodjRQTVh2YzhnczJHc1kxMUFN?oc=5",
-      "s": "물류신문",
-      "d": "2026-09-29T00:50:32+00:00"
+      "t": "서울대에 ‘AI반도체 혁신연구소’ 개소…6년간 석·박사 110명 양성",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PdnZDTl9MeWg5R1QyeGpKaUdTM0dVdkUxbEdkSlNXVHFjTlhUM25rdnAtSEVpZlV4UHJSUkowbElFRkVaalhHN0tKSllNb2wyS3kyR1ZOMVlLRU0?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-29T01:33:45+00:00"
     },
     {
-      "t": "美 금리 뛰고 중동 긴장⋯코스피·코스닥 나란히 약보합",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44dkNFQ2hpTGoxbTd2enM4bTVLMnpuSkdSdnQ1Tkc2TmdBLWlralV3X0N2dFpYTnJ1bVRZOWV4U1dEaHhITHZiM3U0RHc4aGM?oc=5",
+      "t": "강달러에도 버티는 원화, 반도체와 국제유가 주시",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ZjVzZzYwY05aVnUyMWl5QXpNdXltTGk4Rzg0YklPSmxia0pzMGpZMjVqdmNHZDhBNnRWa2RoX2VUOFduSUhZOERLVGh5MXRhaE8yQ2t2LVBUSVZBb09uak5B?oc=5",
+      "s": "kbthink.com",
+      "d": "2026-09-29T01:33:05+00:00"
+    },
+    {
+      "t": "\"채권 혹한기 대비하라\" 美 국채금리 급등에 국고채도 출렁",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2TGFDUmNZVUxrbnNLOUk1RVRCV3JhajlhYjFObHV1N3M3OVFTeTN3TS11QzFFUnpteEVGX1d2TmEzT0RkblJ2anZ0NEhUaV9qai1CdWVpN2c5VUpyNUVZLQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-29T01:33:00+00:00"
+    },
+    {
+      "t": "서울대 AI반도체 혁신연구소 출범…석·박사 110명 키운다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JaGRuZE43ZXFrNFB0eUY3Y3pLU25KcGtNdEJHVmJQMzdlYldmbkRkbFpDcWczZjN5UU9zVUVmdXJFVlBJaWJscmtsd3VVcnM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-29T00:50:11+00:00"
+      "d": "2026-09-29T01:31:51+00:00"
     },
     {
-      "t": "\"유가 100달러 계속 웃돌면 내년에도 연준 추가 긴축 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR2FiVUNyY1AxcUJUNjBVeHBhRk53TnExWWVxTWNta3UtOW9jZzFTaHc2eFRIbU5MQld0TXV3cUdwLXF5bDVWZnVuMDZGb2N4UXZoa2diTjg0QzgtelhPTXp0emVva3NOaGVmdEdDamU?oc=5",
+      "t": "美 연내 두 번 더 올리나…韓 장기금리 동조화 우려 커진다",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uem84VklYREgtZ1I4OFRWZjNXeHRIcmpvNGNHbDc0QlJlam4xNFhGWlRPYjNMb3ZVOHRuanhNc0ZrajMzaFpGeS1vdWpGOGNwS0s2X1RtTXotVF9nOW5TR3NBMVMtcHBGYTVwWFBvbjE?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-29T00:49:57+00:00"
+      "d": "2026-09-29T01:28:24+00:00"
     },
     {
-      "t": "美증시, 국채금리 상승 어디까지 버틸까…BofA \"10년물 7% 넘어야 증시 타격\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lSVpna3JZOTFlRW5SWlM4SzhubTdfdmZ4Z0d6dWtuUGlIRWF0R1RoWC1wSy1zaWVvdi1nXzg2SndBbzllZy1UZGVFRmFwWWZkUDV3OGV4Z2lDLXZBd1h4ei1yOFBGNkY5Z21jc3VWV20?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-29T00:49:19+00:00"
+      "t": "코스피, 美국채금리·국제유가 상승에 하락세 지속",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OY0l3UGtQZ21zNURIUUxqbWRrTzAyYl93eHpJcklnbzZkTFRvT213UjNjVmN0eXc0aVBueExwRlZ2b3g1VWo5Q2hYdjZtcTljX0UzaGY2N0dmYUZsUlQ0b0RoV2pYZUE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-29T01:28:00+00:00"
+    },
+    {
+      "t": "[특징주] 한미반도체, 반도체 장비 약 80억원 수주.. 4%대 '강세'",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3BFNWRENVQxR1kwazBlUFlya1labjNQZVlwcjQtVW1vX2dqT2Vsa3VOMEtrYUpvRDBlTmVuQXVTVFZGWlN0WlRpaXVqT00yNWpFeWVZQUZ4TDAxbXVIeDU5SFF1T2RFamQzYWl4TnV5aUNlbjhMRGFUaVZxWGcwOXpGdVY5T3Rj?oc=5",
+      "s": "g-enews.com",
+      "d": "2026-09-29T01:27:16+00:00"
+    },
+    {
+      "t": "미 국채 금리 20년만에 최고치…\"저항선 뚫리면 6% 육박할 것\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82LXd5NUt4UVZ2dDYxWndqOElJMUQ5UHVndzhhWUstbjZUMVZmN0l3a1ZkUkNCZmlRVEx4a2pjcEQ5VnRYYndKa1dCN2JHNWRuWWZoZk5CN2xSenBIQWZQb0t2Qlh3RzEx0gFuQVVfeXFMTmVmc1QyUFNEYVNnSmJCd0QtNkw5bkU1Q21ldFFfaU1BNlRoT2gwUy1LRHEwVUl0RnlON2NmRk5DU201b1k4ZHhNZDB2WVJVd1FwWUl6bVZIMmF0WXhtRkxMWGxVT2F5SXZJd1phdFE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-29T01:24:08+00:00"
     }
   ],
   "asof": {},
