@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-29T19:30:13+00:00",
-  "quotesAt": "2026-09-29T19:30:13+00:00",
-  "newsAt": "2026-09-29T19:30:13+00:00",
+  "fetchedAt": "2026-09-29T19:45:09+00:00",
+  "quotesAt": "2026-09-29T19:45:09+00:00",
+  "newsAt": "2026-09-29T19:45:09+00:00",
   "quotes": {
     "kospi": 6870.81,
-    "spx": 7674.97,
+    "spx": 7669.78,
     "nikkei": 65481.27,
-    "vix": 16.04,
-    "krw": 1353.3,
-    "gold": 4202.8,
-    "wti": 89.26,
-    "dxy": 101.37
+    "vix": 16.01,
+    "krw": 1354.29,
+    "gold": 4203.1,
+    "wti": 89.25,
+    "dxy": 101.39
   },
   "daily": {
-    "spx": -0.88,
+    "spx": -0.95,
     "kospi": -2.97,
     "nikkei": -0.6,
-    "krw": -0.09,
-    "dxy": 0.17,
+    "krw": -0.02,
+    "dxy": 0.19,
     "gold": 0.83,
-    "wti": -3.61,
-    "vix": -0.19
+    "wti": -3.62,
+    "vix": -0.37
   },
   "news": [
+    {
+      "t": "美 30년물 국채 금리 장중 5.6% 돌파…2002년 이후 최고",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fRFk1SU1rUy01LWVtVk9BNmZHV1Q1T203ckt0SjFWai16YjVld3kwSnozTGpHaG9rUFJxY3RVeS1SYmtZczJwZnVHN29sWWs?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T19:38:00+00:00"
+    },
+    {
+      "t": "美 소비자신뢰 12년여 만에 최저…물가·고용 불안에 위축",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11eUVrTW14ZzFQcjIyYkJTN2FveUNjWlkxbWhKOWlPempSdngyMnVMeDNYc010dzdjSVh4c3gyMkF6X2o2elUwbGFPbjE5X2RiRHlJMjRVTDlIRWFzVmRpSQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-09-29T19:33:50+00:00"
+    },
+    {
+      "t": "트럼프의 ‘관세 책사’ “中압박 위해 동맹과의 교역 구조 뜯어고쳐야”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVFp6d3pVUVU2TDlzbnBvcUJsQ19feVlTT24tUmdyNjN4VFJNYlk4QUtlYzU5MGtMX21QMWhpczNjam5PVHExQzA5bjVLRHc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-29T19:31:43+00:00"
+    },
+    {
+      "t": "美국채금리 5%대 고착화… 연준 추가 금리인상 무게",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmR3FCUVdHZlM4M2Fvak44VnhUQlpJT1FVYVRjbDNEUEppdDYyYWlVcXVQaFl1b1ZtVGg0WW93QmItNWZNMTNHQVRwdjJfalNSdFVZR2xGMDU1U3hjbVpWeUFwbHh0RGdHaDU5OVYwSmp0Y3dmdGfSAWZBVV95cUxOb0VPbVgzdVBBaDh4YVhPSW81NmJOSjZZcXlRWHBocmtJY2JuR1Z2U0d2X0dEeEhsUEtsd21KSmhPbkE2M2xsbm4xMXZGbGVkV00xUVduSUVEcDliNnVFZGxSQnNtVFE?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-29T19:30:00+00:00"
+    },
     {
       "t": "트럼프 \"이란 전쟁은 '짧은 소풍'…곧 끝나고 유가 급락할 것\"",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYSGhKcGc1WWhfMVJ5TnZOMm9jZGRtaEZHa3VJTWlMWk55aWE2a2xTLVNqU2tYc3p4NngtQW43VURjenpOa3JacUJ6T19BVkk?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQkg4SmtjNktYdElsd25ac1h2cVo4Z2RvVTlTdVdVMXVOU2Y0Nkc5NzlLenVjOWRFNk1XTjVnZDBQSnlxNXRDTV9EWnc4aUhnTGljTDFOVDFMaldPSjJmRFNSOFEtSldXa3lIT9IBckFVX3lxTE1Xc2Z3VFZHWWRKYzZJWE1ENlptcW1aVVlLYW1FRmhuZ1lsNm1yUkFQZ2Z4RGk1ODV3VjVNUXhvSndZQ09QT21xc05VR1pTc3JQYmpVUVlYRFlHaXYtUUdwU3ZpMXdna3p5ZGtvMHJ2YktlZw?oc=5",
       "s": "머니투데이",
       "d": "2026-09-29T19:00:00+00:00"
-    },
-    {
-      "t": "'전북 반도체 특화단지 지정' OCI \"공급망 강화\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MWjNyUS1tUXNCaUhwMHdJLWN2VmZCZnhETnlOVlpSOG4xYTdScmZWT2Jsb0dLRWFaVVRmSzY2LUlPVG9jSWpyVUJpeU5OaVFlQUZFMFFWLWgtMkdCc0d5eXpoOVA3QW5IcXZKUdIBckFVX3lxTE9BdzhuQjRsaU1lZjlCMm5uUnpnMzhncjdnNDlQeV84VVVtV2F5WkxwSi1fYnJmSlVkMzdmYkdBdmdNMUp6bWpMYnBTYUZrS19wRXlfN1pBb3VyRUh0TTF5aEZ0UnpVTUhzWXMxTXpURXVydw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-29T18:58:00+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 국제유가 하락 속 연준 당국자 '비둘기' 발언에 0.6%↑",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UNXBnYzRuQWNuT2pjS2NMRy1Ud2RobTVvY1ZJVjhQbjRxUFNHaEY4eVBlN1RnUXN5NHhYRVJiUEMtSFV3aTRXZjlUVWdwSkxjWVJmaV92S0l6cWp0cjRMSE1hUnZZa1JkMFJfR29PbXVFQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-29T18:55:22+00:00"
-    },
-    {
-      "t": "트럼프 \"이란 전쟁은 '짧은 소풍'…유가는 급락할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FNm55TWJtVml1Z1RycUtITTl3LV9zajdFT3FRSDRaS1FRUHRCUUk1bVZkcTZsaTVhMGdCWFBZU0wxWkhFUmQzS0FyVjUzdDBBT0RFdzRVMU5PRTdzeTE1WTIyb2ExNUxSaXppMVgwVWc?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-29T18:47:58+00:00"
-    },
-    {
-      "t": "뉴욕 연은 총재 \"서두를 필요 없다\"…연속 금리 인상에 선그어(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZVU53bXRLbzI2MUdPLVN6bnNoUHQxNWlaTDdPNU1mY016a1JsY1BwdFNDVG51MERvWUhTR1VQQnV6THR5T1Q4SHFMdjQxUjZHbDNlTGVVU3VWakxSR1QwV2NFMVotQzdFSE5uQXlwaEFEdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-29T18:39:47+00:00"
     }
   ],
   "asof": {},
