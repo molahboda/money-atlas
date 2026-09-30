@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T17:00:25+00:00",
-  "quotesAt": "2026-09-30T17:00:25+00:00",
-  "newsAt": "2026-09-30T17:00:25+00:00",
+  "fetchedAt": "2026-09-30T17:15:13+00:00",
+  "quotesAt": "2026-09-30T17:15:13+00:00",
+  "newsAt": "2026-09-30T17:15:13+00:00",
   "quotes": {
     "kospi": 6838.04,
-    "spx": 7711.72,
+    "spx": 7705.19,
     "nikkei": 66753.72,
-    "vix": 15.86,
-    "krw": 1355.55,
-    "gold": 4189.5,
-    "wti": 91.24,
-    "dxy": 101.41
+    "vix": 15.84,
+    "krw": 1354.64,
+    "gold": 4187.4,
+    "wti": 91.02,
+    "dxy": 101.4
   },
   "daily": {
-    "spx": 0.36,
+    "spx": 0.28,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.29,
-    "dxy": 0.04,
-    "gold": 0.23,
-    "wti": 2.08,
-    "vix": -1.12
+    "krw": -0.36,
+    "dxy": 0.03,
+    "gold": 0.18,
+    "wti": 1.83,
+    "vix": -1.25
   },
   "news": [
+    {
+      "t": "연준 감찰관, 파월 전 의장의 청사 보수 공사 관련 비위 없음 결론",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WUE5QdkdKaHlMMFhMX0lRZlA0TExCZUhYQnVSaXhEWmwydWVlN1l1NHBMWUZERS1EVzFsWkotLVhFdWFOam5IMzUtazFBTDdETWd1YzZfTndNT3BVdDljbmVqTWd1a01md0E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T17:08:00+00:00"
+    },
+    {
+      "t": "예상 밑돈 물가에도 美 장기금리 오름세…\"개선 평가 근거 없어\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuTGVpZUlua3U4MllaeDRCZ3JNX1RIc0xWN1FSMG1WWFE3R0s4YkdVcWhnWFpLQ2tMS21TWEdyczkzZ3Z2RkotZWdkU3NQUWRGTkFsMGF5UmYyRjd3?oc=5",
+      "s": "newspim.com",
+      "d": "2026-09-30T16:56:00+00:00"
+    },
+    {
+      "t": "외국인 '팔자' 행렬에 코스피 3거래일째 하락",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LSnQ4bDBGZ1UyVF9faXp4NTVhSW0yZDdEdWRDOEFEVHNTUjB0QVlXNHFNWG1GOUhJNlNmMzdkYkIxaDlZMS1jX1BoQmhHWUxmXzdsLVYzVlZHQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T16:07:00+00:00"
+    },
+    {
+      "t": "美 8월 PCE 물가 예상 하회…10월 금리인상 전망 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQUlKQWh2WElNZkppQjdwU2JYNzFWbTJVM01XRGdYT3htNy1EdXJvYklsbGtqSk1iQlFhN2JmV3VtMmpwNHBqVHdoWFZkMVd5d3BWd2NlNHJlUnNyUWVKZXZnMGd1OXpi0gFsQVVfeXFMTmpiSFUtdF9wZ09rT2dlaWNEbmNGQ1VmNmtmZTd0MEVqcWFvcEMwZGZpdHdSME9NRU4yMU9qNjc5UHdvelJnMzRiUU9vOGVoSUdFS3VMU253TmhYYktQX1k5VEtCTVd4WlRRM2o4?oc=5",
+      "s": "bloter.net",
+      "d": "2026-09-30T16:06:55+00:00"
+    },
+    {
+      "t": "고금리·고유가에도 '증시 강세론'으로 돌아선 월가",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjMHdqVUwzaDRnc1FQbXRZSkEwRmRua3ZnQkV4VGRtdjA1WWlIenNhY2JMSDVSTFdRTlozMzd2dFYtSzhQNGdXa3lzOUI4ajk0bE84eDRaX1ZSUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T16:05:00+00:00"
+    },
     {
       "t": "국제유가 다시 상승…美·이란 협상 교착에 WTI 90달러",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEVBZmpIWEIxS0xQVHZ1SXpjNmtDb0ZCWjdfSFZ1UEVyaGJPQnBRa3ZRRnI1eTc4Y0lJQjNmWW5pazJENFRkWVZqQVl2X2NGLWxzZVJBSENNbHhHWTZBRS1yemJYZTFIM18wTVRzVnh6a180TEZWc3I1R2ZFRGUxV1poV1FIc1Nj?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "t": "민형배 전남광주특별시장 \"호남 반도체 인력 70%, 지역에서 공급\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dEl4UFhoVlFsWGJwMnhOVFRpUjdLRG91dkE5M2R2Q01iZFdObDU5ekxQRUYyY3A4MV8yeURMdE9nM3dDLU1rSjRLZHRnQTJzY1pseXVWOS1Gdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T15:51:00+00:00"
     },
     {
       "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 30일자 - 조선비즈",
@@ -44,45 +80,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "유가 폭탄 덮으려는 '안보 쇼'?...호르무즈 걷어차고 '핵' 베팅",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTnUwSUxjZWFtbXVmUUJrOXU2NG5CeExzd21EOFlpOWdBM0tKOC04cWhDSmNVYmFwWmg1aWgtQXZZWVFPT0hRWTd0Q2VWYkRmUnVpSFE3UFdNZEMxZFA3bVo3dw?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tX1pHWFcxTlVGRC1lUDc0Um9BN3BrMGVsWFl4YTRsLWhCTl9rZTZBcFNucHB2R08wcGZneTU1ak84ZEVsdl9PbkZtdVV6bHJWT3drUE9WV3ZrNGdaT2c?oc=5",
       "s": "YTN",
       "d": "2026-09-30T15:25:00+00:00"
-    },
-    {
-      "t": "모잠비크, 인플레이션·성장 위험 속 기준금리 9.25% 동결",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zYzJmbUtQMm05Y2hwb2VSZFlFUUZpYWtRQXI2ZkdldHk1TWd6UnBiRHg4Q3NKQ0VkVzVBNUJQS0JXcWlla3dRanNKOFg2R3pJZ2MxMnZmcnByN1ZSUXpiSUxham1UZnM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T15:23:00+00:00"
-    },
-    {
-      "t": "트럼프 60개국에 대한 '강제노동' 관세도 법정행",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mTmdyc0tocm9WTFBZVzZMT3FDRjFERGxPN2xLV2NnN3g5d2dRZEhhdERfVFA3WjlZV0FhYXdSbi1LTHRSUFE3eG5tLWhKMGpjczBvMXVnTjhjZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T15:14:40+00:00"
-    },
-    {
-      "t": "김종민 의원, AI·반도체 호황 속 ‘생산성-임금’ 격차 심화",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1US0hZc0o4WnRneXBILUFzYXNyLVJsbDk0MzBLTEJLaWVJMUdXSkl4Ml91OWlsY2tiWkRibW5zWEFmSnhMdjljZDk3WlhXelcza21kS25XVEdEcm5xR1huYkoyREdiWEtDbjZZ?oc=5",
-      "s": "충청뉴스",
-      "d": "2026-09-30T15:13:43+00:00"
-    },
-    {
-      "t": "[취재일기] 반도체판 ‘캄보디아의 덫’ 해결해야",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFTWcxaUZNM2w5VDJzZ0tBWjZTTTZmNTIyUzdGclhRaXJWeG02WFAteENjUFNYQXAwUjRiV1p2Q3ZMZE84WEF4RkZXYTRXQTg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T15:11:00+00:00"
-    },
-    {
-      "t": "기준금리·대출금리 상승에도 가계대출 증가세 여전",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXc2NwSGR3TXpDRWh3SVZnajFzQmxOMDdtc3VjRVBQT0pJeVZnYVlTVVAxaWRKRHZCQXdmNXUwdmdiNnlIRm9nenUxaWctTDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T15:01:38+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGxRTUxjcE00WEYyOE95M2k1a09mMVdHNzhoR2RBWDYyNDkzc3dVNjNYN2VST0JIN3NyZVhMMWtaNnJWRFlzSlByZDRzZHd3R0VpSzlvb3pIZDNwZEkyZDBrSWd6cjNTM3V1VFZfM0x3c2QxbE91SGpGYjR4RjBWbF9vNGk?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-30T15:00:00+00:00"
     }
   ],
   "asof": {},
