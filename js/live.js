@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T11:30:25+00:00",
-  "quotesAt": "2026-09-30T11:30:25+00:00",
-  "newsAt": "2026-09-30T11:30:25+00:00",
+  "fetchedAt": "2026-09-30T11:45:15+00:00",
+  "quotesAt": "2026-09-30T11:45:15+00:00",
+  "newsAt": "2026-09-30T11:45:15+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 16.26,
-    "krw": 1353.98,
-    "gold": 4209.4,
-    "wti": 90.7,
-    "dxy": 101.25
+    "vix": 16.16,
+    "krw": 1354.98,
+    "gold": 4217.8,
+    "wti": 90.74,
+    "dxy": 101.23
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.41,
-    "dxy": -0.12,
-    "gold": 0.71,
-    "wti": 1.48,
-    "vix": 1.37
+    "krw": -0.34,
+    "dxy": -0.14,
+    "gold": 0.91,
+    "wti": 1.52,
+    "vix": 0.75
   },
   "news": [
     {
-      "t": "“진실의 순간 왔다”…삼전닉스 버팀목 사라지자 ‘코스피 4000’ 경고 [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWenUzVG5HeGRhY08wLS1rM1pPOU9qY3BpYzdqdXNzY2pUVC1uVjRicUZCQlRocTBNVWxBZnNLb3hIQ2Y4WUcyRS1sRERDNnFBQVc5Q0FxQS13UkFNT2c?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-30T11:03:06+00:00"
+      "t": "[인도증시] 월간 마지막 거래일도 하락, 6개월래 최대 월간 낙폭...세부 지수 모두 ↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVlNvcU1Wel9tbmtRWHQ5dWY3THhKTF9LTlpCZU10SUlhMGxIQklOMVJqNFUwSzhPZ0phZ2RkeVc0THFJSlJ6dFBDNV9CNktyMHNIQW0zSC1qS3dh?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-30T11:37:00+00:00"
+    },
+    {
+      "t": "단기금리는 '뚝' 떨어졌는데…장기금리는 24년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMlF6RTRMa0dGR29zakVVeHctT0g5QXBaUHRoOUxLM0tPaUVvRDdqY3FYWWFGNHB1Q2swUGZfM1FtX2JscmVTWlZ2OEdkcjN6ZFhwOUpTZ2VKZw?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-09-30T11:27:39+00:00"
+    },
+    {
+      "t": "전기차 주고 적금 금리 9%...우리 금융 ‘우다페’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wc3BIeXk0Tkp0NXI5TzM0YjNKRzZzSTBxUUtNcUZMOGZuVzgycGp4b2FkYzBvSzRLUFJiX0JBalg4XzZoYjNFZnhxSWtHVzRqbEJEdVVkLWZMcC1mMmh4T3VqZFFTRXNoZzZnMEtIQQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-09-30T11:26:34+00:00"
+    },
+    {
+      "t": "D램 값 또 최고치…코스피 잠잠한데 삼전·닉스 또 갈까?",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCaDJfZnNpVHRTdkQ3a1hmQWEyWlVtTURiT2syQmZVMXJKbnVMeFh5aEtwT0paSXNlQXNjaXFyUTBubm1uSDRtOXhGc0lhQTV4?oc=5",
+      "s": "문화일보",
+      "d": "2026-09-30T11:19:48+00:00"
     },
     {
       "t": "주담대 금리 4.66% 넉달째 상승… 45개월 만에 최고",
@@ -43,6 +61,18 @@ window.LIVE_DATA = {
       "d": "2026-09-30T11:02:00+00:00"
     },
     {
+      "t": "8월 주담대 금리 4.66%...3년9개월 만에 ‘최고’",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ZVFqeEJNNG16b1VJQUZxTDRLTDI1blpHdFkzSUZhVGNqWHVmeEEyTVR3UldlTnBEX0FqWnJEUGVwdGVmTURkQVJ5b1JaLWxRVjN5VEs0MkpwZGtERlUzYmhVeG9Sdnd0OEszc2J0T0MzZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-30T11:01:00+00:00"
+    },
+    {
+      "t": "용인 반도체클러스터 처리수 갈등 격화 양상",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUHVBeU5uR0xHOHdVMDB5RkNXTWdtd3pQdEcwQWRSM1k1MFg1RVN1XzY4ZUhRS25OV093b3MzRFZob19QcHVZcU9aeW9xRFFlWU1HRUVEMnVHeFJYZnBBbXRWeGprdUNrVlE?oc=5",
+      "s": "인천일보",
+      "d": "2026-09-30T10:52:00+00:00"
+    },
+    {
       "t": "주담대 금리 4.66%로 넉 달째 상승…월간 상승폭 9개월 만에 최대 By 알파경제 alphabiz",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pbXJTT2g5RER0REtrQ3VxWU54bWVCcEZQWlZRbWgwb3VnemJXbGtKV1ZBcFB1ZEhXZHVsMjRGQnFaYmV1cC1JdHI3dDgxVUF0NXV5aVZNYVhZTVFFcm1IbHhyU0hMQ1E1NFNiZ1kxZXQ?oc=5",
       "s": "Investing.com 한국어",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUGFjSkZYQmRtYWN2TjYzXzM2NzdUX1NxLUxaZWxkeWgtbG16RF9GaThuODhjUGdXaXg4ZkZ2cllFWHpUMGxHT0M2V1ZGMXp3SnIxYzZ0ZHNjOUhxejc4dkxMNE5tRnhhcWdlRm5yNA?oc=5",
       "s": "서울신문",
       "d": "2026-09-30T10:43:26+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 기술주 강세 속 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ORXhISVRvWERVREJ5dUl5bnJ1VlExcEVxcWJ0SVFTRTg1VDRyTjh1TlNMZzJiNGRyTmRkOUVfbXNYTlRhYl9GbXhlSjhRZHctd25mQnBkTk55LUc1YzRyQjZ6Wlg2MDRaeGRqVWJVMkY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T10:27:31+00:00"
-    },
-    {
-      "t": "반도체 호황에…올 국세수입 478조 역대 최대 예측(종합)",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjFscTFKMUlIRV9TM245SGo3U0hqSGxnajhXb2paNUZTcTNwVmVpeUJrSjdVblpjLU5Vbl9SUWNRTlQ4Z24zM0pRbFBOZ2FWUTBtVlcyNTAzYmpxT3g4QUh1ZzVhV2tfQkcwZl9nWGxESlJPUmMxSGo4UWxrbzQ4cjM1cHZEbHpyNVd2Y2hSM1Fram8?oc=5",
-      "s": "국제신문",
-      "d": "2026-09-30T10:23:00+00:00"
-    },
-    {
-      "t": "포르투갈 9월 소비자 물가, 유류비 상승에 3.6%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CM19ib2dzSEpTejVLVDJhc2dHZDhXZUlwT1Y2QUhEZEpKUGlhZGZuVUNZTldTSVVtNmx4U0VVQjNGT0hBMG41S0g1Qi1RVFhvbGhEUmVXeUJMNUZrNXpudkJwb05qa0lhUTBsZWFsNmU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T10:17:00+00:00"
-    },
-    {
-      "t": "BCA, 실질금리 격차 확대와 견조한 성장세에 달러 목표치 상향",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Fa3E2YTN4SGlHanZtdUNJekpOM1hNRGxZMjZ5N2w1R2NXZUV0NlU3b0JTZExKalV5Rm12cHhJY09KUXhlZmM0cVE3NWZObFh5ZVhvVTJoVEYybExqZVlSUGxTWHpvelU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T10:12:00+00:00"
-    },
-    {
-      "t": "주담대 금리 연 4.66%로 ’껑충’…3년 9개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaTZuY0Zmbk1nR1JzMldCdVhLX3FMUzQ1ZTJjd1VGRnZxb1pQcnNnUUVJLUZVSjJwSmVISDhKQWpFWHNMRnJuQWdaUndPVWpvNnIyRUlSazRWUEhQV1ZRYk5vaHpzSnM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-30T09:50:00+00:00"
     }
   ],
   "asof": {},
