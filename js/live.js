@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T03:15:18+00:00",
-  "quotesAt": "2026-09-30T03:15:18+00:00",
-  "newsAt": "2026-09-30T03:15:18+00:00",
+  "fetchedAt": "2026-09-30T03:30:15+00:00",
+  "quotesAt": "2026-09-30T03:30:15+00:00",
+  "newsAt": "2026-09-30T03:30:15+00:00",
   "quotes": {
-    "kospi": 6866.77,
+    "kospi": 6870.44,
     "spx": 7670.84,
     "nikkei": 66318.81,
     "vix": 16.04,
-    "krw": 1355.33,
-    "gold": 4213.7,
-    "wti": 89.66,
-    "dxy": 101.35
+    "krw": 1354.88,
+    "gold": 4211.6,
+    "wti": 89.73,
+    "dxy": 101.34
   },
   "daily": {
     "spx": -0.94,
-    "kospi": -0.33,
+    "kospi": -0.28,
     "nikkei": 1.28,
-    "krw": -0.31,
+    "krw": -0.34,
     "dxy": 0.14,
-    "gold": 1.09,
-    "wti": -3.17,
+    "gold": 1.04,
+    "wti": -3.1,
     "vix": -0.19
   },
   "news": [
     {
-      "t": "미국 국채 30년물 금리, 마지노선 ‘5.6%’ 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95YUpMcjRKdDRiZEhSZHRqTVd3SjhXOGFta1lNT3Z0WndjUjhIUGNVSTBBaDU1c1Y3bFJDMW1sQUozTFZ6RlJuMnlZTGxEQmwt?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-30T02:58:32+00:00"
+      "t": "코스피, 장중 하락 전환…6,800선 움직임",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wWTJ1RVNFakdhaWhnLXRJU1VLTmJiSy1URjBySk54RjJrOUlPVXdteGxDeFJSbzhXVlRkV1lIYklnbnJOQUlZb01taldVRzhQc1d6NXdTQnZmTjNXRjhZV0tVTWhRb1k?oc=5",
+      "s": "yonhapnewstv.co.kr",
+      "d": "2026-09-30T03:10:00+00:00"
     },
     {
-      "t": "사우디 홍해 원유수출 재개… 트럼프 “곧 유가급락 할 것”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BajBGQnB1WDlzYVVwLXB5OWRPSmVlanNjRkdJWTdLekJnUThfLWJuN1hxekg5OFUtLVpkaFNDWmhXRDZNVnpMOU9vSW1QaXpZ?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-30T02:54:13+00:00"
+      "t": "8월 신용대출 금리 연6% 돌파…2년7개월 만에 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83NUpyTzZoMWdwN3g4ajcydFhKblR4QkZjVzRzOU1sMy0wVWlrRC1PcEdEOFRYWUYySzAyUlg5NnRiWHM4cThwVV95UTBqZTQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T03:09:00+00:00"
     },
     {
-      "t": "현대모비스, 차량용 반도체 국산화·SDV 전환 지원",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NTHJlVGVicXJfZFY3TWRJc1g3bkVuUzhUMVlZWkFtdXBteV80V1N0eFBTamUtWDdCNjVzcjZqclRkSTRjalgwQW5zN3BXVVc3SlI4WXBtYm90WExiQlRlS1Q1RldCdw?oc=5",
-      "s": "디일렉",
-      "d": "2026-09-30T02:51:18+00:00"
+      "t": "주담대 금리 45개월 만에 최고… 신용대출은 20개월 만에 6% 돌파 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUQ1WURsTXFpU1ZhU0gwQjFMaVR2cDh5bUg1ZGhMZzRTU2FrV1ZTNnItZUN4eEZrbUR6eURSODR5dmo2eDExZEtKQXFTTDhYTVVJcnBoWXJLRTdfRTNwTnZscGFEWS13cG9qdDlqUEY5bGd5N0NRRkQwdjZ0TnFvbV92dDN1UdIBmgFBVV95cUxPYk4zaHMyYVVnLUdRam54QlVKMmx5MFBiT3JjLXZOUXZzZnZnWkNGeEdTSnhKSV8zeUItUE1ZWUdFTHVMN19kVk1kcERfRDNVa2VkRHVGRWI4a1M0MHZZWEZsaHJRNDlmUWdNeHdPd1dUWkxzQy01VktLR1Z5MEZaa1o4VUQ5dF9aS3B5bWdHTU5SV3VLSjhwbTVB?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-30T03:08:42+00:00"
     },
     {
-      "t": "미국 무역수장 “과잉생산 조사시 무역협정 관세상한 고려”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05N2dMdGJGdXVHTnN4X004U3lQcFVZX25jYVdOZWs5MnFtNnNvUnpiUU5PR2ZEX2RaU2VCOFZlOFRuQmlPaFJ3SnRnX1Q2YXdzQXVhSVY0cmVPM0U?oc=5",
-      "s": "news.kbs.co.kr",
-      "d": "2026-09-30T02:50:00+00:00"
+      "t": "바클레이즈 \"미국 30년물 국채금리, 생산성 호황 땐 6%까지 오를 수 있어\" By The Guru",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YQkNMN0JfSV95aTNyQllxOEpjbUtGY3NNdEtFemx0NG5WRFJhZExTdVdZdjdMaEkyalJZRko0TmhFLUZxZUxRNktPX0U3YTJjWG5WajF4by1lNjNMVGpRc1Q3MHF5M0hTalZoY2Jic3E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T03:08:00+00:00"
     },
     {
-      "t": "반도체 호황과 경제정책 대전환 과제[포럼]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLLUJWSi1rcHJlOGF3em9rR2ZINVpWbkszSEJkZmxJbDEyVzYyRjZoOXY3TVJrVVU4WHNIa3JDenVhQWVUM2F4UlJ0Y194UVFM?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-30T02:49:04+00:00"
+      "t": "주택대출 금리 3년 9개월 만에 최고…신용대출은 6% 돌파",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFDTzIzaFJzTlhQa2M1aFlUOThDOWIyY1gycXZ0d2FEN3pBNWw3MUhzSEVrVmpxSVNkZXROYTdoSGNyVU1MaHh3V0VVb1JjRFQ5bzJ1ZUN1WUhJNGJ1dlFWNDBEQlQ5NDVaSlFkM2pKTUh1amN1SkUyRGpMblZLa3dZVzlHVVhwZVpOdDBB?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-30T03:07:25+00:00"
     },
     {
-      "t": "가상자산 시장서 美국채 10년물 금리 6% 전망 제기…비트코인 영향은",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZ1E4blJxMV92UHdRQTI4UWRiYlpSU0ljQXJoaDktY3U4b1d0MHREV3pLTzhTMVlTM0dTRU1sU1U5MjgydEpvc3BGbElUSndlZE9CNWhaUy1BcF9haUg3MV9FR1N2djdLZ2pReFI1Ym8?oc=5",
+      "t": "[속보] 주담대 금리 넉 달째 상승...일반신용대출 금리 6%대",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsZTFWZHlnT2JES0lrMVhTWkhWdFpOMDEtYzBlYlV4alNSamNfZ3VULUVuODNSaDd3SU5hcEJwTXlGbkltU1FET0tldmttRC1wQV9kZFl2cnBMaHdWZ2JqQmF0YUFQWGtuUVFPbmQ3dw?oc=5",
+      "s": "ytn.co.kr",
+      "d": "2026-09-30T03:01:00+00:00"
+    },
+    {
+      "t": "8월 주담대 금리 3년9개월來 최고…\"9월 더 오를 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14alJGaVRoOUVETEFpS3NvVGxtS3ZadFpqdkJJWG1IVG9abGpPcVZsdXR3WTJvSU5SWGFhMXpUcWZsZXVSM29OckYzUFZKV0k0MWE4TjBEWno1Y0J1OTZta1BoN2RzNFBMd0tCNEJfRE8?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-09-30T02:47:52+00:00"
+      "d": "2026-09-30T03:00:35+00:00"
     },
     {
-      "t": "美무역수장 \"과잉생산 조사시 기존 무역합의 관세상한 고려\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xc2lfMG5DT2lQZ3p3ZkFRMGR6bmxIUllkSllZUTREWmlhRDUwY2k2Z1RReEFJRHY0S0xqbXV6Nk9FR2M2Ml95X2hQanZiOVJaZk41NUgzWDZfa2fSAWBBVV95cUxQdHFyYWJDTVRkekNKUzdTZVN5RWNCbUd6NWk4WmlpSEFLTnZoMlJFX2dDN08xYUd3c25VakFOYWEtakh6VHVzWDEwSEFhYmNDRGhyaDh2RkRlYUlIeVdhVmM?oc=5",
-      "s": "yna.co.kr",
-      "d": "2026-09-30T02:40:39+00:00"
+      "t": "8월 주담대 금리 4.66%...3년10개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ZVFqeEJNNG16b1VJQUZxTDRLTDI1blpHdFkzSUZhVGNqWHVmeEEyTVR3UldlTnBEX0FqWnJEUGVwdGVmTURkQVJ5b1JaLWxRVjN5VEs0MkpwZGtERlUzYmhVeG9Sdnd0OEszc2J0T0MzZw?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-30T03:00:00+00:00"
     },
     {
-      "t": "치솟는 금리·유가에도…반도체 강세로 칠천피 담금질 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dk50ZXZobWxIaXRMd3Y2eWtOUXhXZ1h2SjFKVTRQeWlyclJTSUdYUDhiVkhEWW5qVk9Pbll2SkhQclhJY1lnaVRaN0d4MWF0VEEwZ1M0clo1VXVFLXJMZ1B1M2htSlhl0gFuQVVfeXFMTkdzWThWb2tNS3U3X19XMENZMmRjMTJLUFNnOHE5Yl9QN3VBaS15ZDYwa2hDSnRSSGk4MU1OVnZsX0JBSlp2ZU83ZTRDdzdpZjhMOVFQTlFLUnh5Tkc0VW5KRzFjVFM2Skk1Ri1yTVE?oc=5",
+      "t": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ETklCSXNzSnd6X3U4WnJ5S0U0dHlNalRxTVhQNGhJRjVEWjBnX0JubC1aWjZhX0g5ZmY4c2VvU0pXV0ktSE9oZEw2bFZpeUNid0lUTjBpa1hBZjNRNmlkM1B5bk83N3duYXZ6c2ZYLV9zNXhj?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-09-30T03:00:00+00:00"
+    },
+    {
+      "t": "주담대 고정금리 비중 10개월 만에 반등…대출금리 4.4%로 상승 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBucmZIUnBMZDBWSUowU1ZnNGtjTkhWZGtwWlZidDVTZ216Z0xFczdRVGxSR2tORmluYVlCNUszOGZDRVdSSnA1U2R3eDdiWkdKREVVTGhfTml2VGprUUhVS1hxWEFtYVhOY1pJ0gFwQVVfeXFMT3dZNHM2ZmVoZjlDelBKaGN3aHFCUHM0WHB6eTE1TEJyYXJkbU44Wm1od1ZXSktXZzR6Uy1hMFUxSWs0ejZzUUFUblowNXdpMXZ6R016cXdFcWtuRWU0eUx5LWQ1NDRPcGNINkFKZkRXUw?oc=5",
       "s": "머니투데이",
-      "d": "2026-09-30T02:29:08+00:00"
-    },
-    {
-      "t": "日 증시, 美 반도체주 강세 힘입어 1% 안팎 상승",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSWm14by1pY0NtMDh2Rnh6LXZRbjBSbVptMFlIcmtnbFpCdVNYWm10RGxzQ2xYZDRLOGxQeGNseVNrWFVKajhQR2VvdXZjZFlnYVpNSXN3VHJtcnVxRzRXQXBrZ0lPVmRzaUx4ZEM2RVg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T02:27:04+00:00"
-    },
-    {
-      "t": "크레이머 \"AI 여론 돌아섰다…증시도 타격받을 수 있어\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUVR1czVVbW5Ka29MVFVBaE5SWTYzeEVnREVucW9XakZUX09WRzdRVGR1WEx6Z2lrcmlxcVZDd3NtaEo3ZzZ1UEllOUh6UF9fMjNSbGtiU0FIUkRLcHZyRnRGLUxVb2l2OGI0bk10RGM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T02:26:04+00:00"
+      "d": "2026-09-30T03:00:00+00:00"
     }
   ],
   "asof": {},
