@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T10:00:16+00:00",
-  "quotesAt": "2026-09-30T10:00:16+00:00",
-  "newsAt": "2026-09-30T10:00:16+00:00",
+  "fetchedAt": "2026-09-30T10:15:11+00:00",
+  "quotesAt": "2026-09-30T10:15:11+00:00",
+  "newsAt": "2026-09-30T10:15:11+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 16.04,
-    "krw": 1354.58,
-    "gold": 4219.1,
-    "wti": 90.18,
-    "dxy": 101.23
+    "vix": 15.98,
+    "krw": 1354.18,
+    "gold": 4221.7,
+    "wti": 90.21,
+    "dxy": 101.18
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.37,
-    "dxy": -0.14,
-    "gold": 0.94,
-    "wti": 0.9,
-    "vix": 0
+    "krw": -0.4,
+    "dxy": -0.19,
+    "gold": 1,
+    "wti": 0.93,
+    "vix": -0.37
   },
   "news": [
     {
@@ -55,12 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-09-30T09:46:00+00:00"
     },
     {
-      "t": "민형배 전남광주특별시장 \"호남 반도체 인력 70%, 지역에서 공급\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dEl4UFhoVlFsWGJwMnhOVFRpUjdLRG91dkE5M2R2Q01iZFdObDU5ekxQRUYyY3A4MV8yeURMdE9nM3dDLU1rSjRLZHRnQTJzY1pseXVWOS1Gdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T09:43:27+00:00"
-    },
-    {
       "t": "코오롱생명과학, 반도체 소재 PPO 생산능력 확대",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DdDR2OVF6anIwWUg0b0ZRVFZTOFFmV3JEdGZyNTZzYm1UMm54NlBQX2F5TW1PYzNKUjJqSzlyX1NQcnl4RFVnbEZzS1k4M2YtclRLSDB1Qk10Rm9maERxbGlacFI3UQ?oc=5",
       "s": "디일렉",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85SjdlcXZqNkVhelllbmdjb0hZbU5NYTlJVTQ5OGlZX0pxRzVvS25OdXpfa2ZZM1E4MVBQTkxNMF82U2tpQ0Joc0E0dVNaaFk?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-30T09:12:00+00:00"
+    },
+    {
+      "t": "'코로나 긴축' 닮아가는 글로벌 금리…韓도 年3.5% 갈까",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T09:11:13+00:00"
     }
   ],
   "asof": {},
