@@ -1,33 +1,39 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T10:30:13+00:00",
-  "quotesAt": "2026-09-30T10:30:13+00:00",
-  "newsAt": "2026-09-30T10:30:13+00:00",
+  "fetchedAt": "2026-09-30T10:45:14+00:00",
+  "quotesAt": "2026-09-30T10:45:14+00:00",
+  "newsAt": "2026-09-30T10:45:14+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 16.07,
-    "krw": 1354.26,
-    "gold": 4217.4,
-    "wti": 90.4,
-    "dxy": 101.2
+    "vix": 16.06,
+    "krw": 1354.48,
+    "gold": 4219.1,
+    "wti": 90.28,
+    "dxy": 101.21
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.39,
-    "dxy": -0.17,
-    "gold": 0.9,
-    "wti": 1.14,
-    "vix": 0.19
+    "krw": -0.37,
+    "dxy": -0.16,
+    "gold": 0.94,
+    "wti": 1.01,
+    "vix": 0.12
   },
   "news": [
     {
+      "t": "[亞증시-종합] 기술주 강세 속 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ORXhISVRvWERVREJ5dUl5bnJ1VlExcEVxcWJ0SVFTRTg1VDRyTjh1TlNMZzJiNGRyTmRkOUVfbXNYTlRhYl9GbXhlSjhRZHctd25mQnBkTk55LUc1YzRyQjZ6Wlg2MDRaeGRqVWJVMkY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-30T10:27:31+00:00"
+    },
+    {
       "t": "반도체 호황에…올 국세수입 478조 역대 최대 예측(종합)",
       "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjFscTFKMUlIRV9TM245SGo3U0hqSGxnajhXb2paNUZTcTNwVmVpeUJrSjdVblpjLU5Vbl9SUWNRTlQ4Z24zM0pRbFBOZ2FWUTBtVlcyNTAzYmpxT3g4QUh1ZzVhV2tfQkcwZl9nWGxESlJPUmMxSGo4UWxrbzQ4cjM1cHZEbHpyNVd2Y2hSM1Fram8?oc=5",
-      "s": "국제신문",
+      "s": "kookje.co.kr",
       "d": "2026-09-30T10:23:00+00:00"
     },
     {
@@ -35,6 +41,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CM19ib2dzSEpTejVLVDJhc2dHZDhXZUlwT1Y2QUhEZEpKUGlhZGZuVUNZTldTSVVtNmx4U0VVQjNGT0hBMG41S0g1Qi1RVFhvbGhEUmVXeUJMNUZrNXpudkJwb05qa0lhUTBsZWFsNmU?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-09-30T10:17:00+00:00"
+    },
+    {
+      "t": "BCA, 실질금리 격차 확대와 견조한 성장세에 달러 목표치 상향",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Fa3E2YTN4SGlHanZtdUNJekpOM1hNRGxZMjZ5N2w1R2NXZUV0NlU3b0JTZExKalV5Rm12cHhJY09KUXhlZmM0cVE3NWZObFh5ZVhvVTJoVEYybExqZVlSUGxTWHpvelU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T10:12:00+00:00"
     },
     {
       "t": "주담대 금리 연 4.66%로 ’껑충’…3년 9개월 만에 최고",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-30T09:46:00+00:00"
     },
     {
-      "t": "코오롱생명과학, 반도체 소재 PPO 생산능력 확대",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DdDR2OVF6anIwWUg0b0ZRVFZTOFFmV3JEdGZyNTZzYm1UMm54NlBQX2F5TW1PYzNKUjJqSzlyX1NQcnl4RFVnbEZzS1k4M2YtclRLSDB1Qk10Rm9maERxbGlacFI3UQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-09-30T09:27:50+00:00"
-    },
-    {
-      "t": "구미, 반도체 이어 ‘휴머노이드 로봇 특화단지’ 품었다",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HT3RPNU1hTHloUFMzOUFCRWF1LTZNNExia1BVVjF3NWJWX0Y3eGlfRmdsZXAtY2JmNEZnMkVNZmJlcTBSMm9GY2VNcGlURi12d0EwRnVkR1hLX1M0cFhkSUhMRG4tUDlkdTJ6R2tnRQ?oc=5",
-      "s": "kyongbuk.co.kr",
-      "d": "2026-09-30T09:22:13+00:00"
-    },
-    {
-      "t": "[중국증시-마감] 부양책 실망 속 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeE92WEcwZ3dSMl9JWEs5RFpycC1hVlpRcGczZnlmV28waUc4MFl2anlfaVQybXVfWFJHNXZMTW5TSm9iSjZfeDlaYm5VNG81ckFMTUNKYmdVd2FsUHpuSDdodUJBTDBGckw1ck90cFo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T09:16:02+00:00"
+      "t": "민형배 전남광주특별시장 \"호남 반도체 인력 70%, 지역에서 공급\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dEl4UFhoVlFsWGJwMnhOVFRpUjdLRG91dkE5M2R2Q01iZFdObDU5ekxQRUYyY3A4MV8yeURMdE9nM3dDLU1rSjRLZHRnQTJzY1pseXVWOS1Gdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T09:43:27+00:00"
     }
   ],
   "asof": {},
