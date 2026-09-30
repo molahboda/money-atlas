@@ -1,46 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T09:45:12+00:00",
-  "quotesAt": "2026-09-30T09:45:12+00:00",
-  "newsAt": "2026-09-30T09:45:12+00:00",
+  "fetchedAt": "2026-09-30T10:00:16+00:00",
+  "quotesAt": "2026-09-30T10:00:16+00:00",
+  "newsAt": "2026-09-30T10:00:16+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 16.02,
-    "krw": 1353.18,
-    "gold": 4220.7,
-    "wti": 90.02,
-    "dxy": 101.24
+    "vix": 16.04,
+    "krw": 1354.58,
+    "gold": 4219.1,
+    "wti": 90.18,
+    "dxy": 101.23
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.47,
-    "dxy": -0.13,
-    "gold": 0.98,
-    "wti": 0.72,
-    "vix": -0.12
+    "krw": -0.37,
+    "dxy": -0.14,
+    "gold": 0.94,
+    "wti": 0.9,
+    "vix": 0
   },
   "news": [
+    {
+      "t": "주담대 금리 연 4.66%로 ’껑충’…3년 9개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaTZuY0Zmbk1nR1JzMldCdVhLX3FMUzQ1ZTJjd1VGRnZxb1pQcnNnUUVJLUZVSjJwSmVISDhKQWpFWHNMRnJuQWdaUndPVWpvNnIyRUlSazRWUEhQV1ZRYk5vaHpzSnM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T09:50:00+00:00"
+    },
+    {
+      "t": "IRS 금리 전 구간 하락…현물 연동·5년 구간 주목",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VVGt4b2FXWE84b3B0S1hBNVNvVUNuejg4ZWtfS2R6NDZHRDM4LTlQNkVtR0loUkZxcWEwMWJGdExSSGdtTW41WTZXRXlUOGVCWnhkdVJvNFJxSVZrNFhNeEdCNHBTb0FYRldHVVhuOGzSAXRBVV95cUxNTU9yWURIaklsSDZxV0NpdWNjM1ROZ1ZiSGVZN3RfRHhyQTBfRU9yaldNZ2FjejU1NzBPUjcyZ0VFQjd1QjJ0STZMVmZETFQwVk5hcjdqUFoteTBCbE5EOUNXaG5qSjk1T1kzbjVjWU9zVGFDbw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-30T09:49:29+00:00"
+    },
+    {
+      "t": "반도체 호황에 초과세수 63조…미래대응기금 200조 넘길듯",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSUZKV1d2SENTSFp3UmsyVld1WmdQZWhmeDdZRFpJMXhhdUJRYVR4bjVCcmsycVlmamRrQW5qVGszS1QzdTZTYnJob3kwdnBWX0hpcTk5bXJGU1lmbGR6RTdxMllFNDg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T09:47:00+00:00"
+    },
+    {
+      "t": "코스피, 사흘 연속 하락…미 국채금리 급등 부담",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCWHh3VU43N1dRYk1xUlN4cVBsd3duTmNyUDhzSUg4amtsZ1o1RW03WmlGYXBuMlluLW9lS3pmQUMycC1qS1hGdTFLNWZHRFJ1b0JIUjVKQTJJa2ZFUXI1Mk9ta28xVTA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T09:46:00+00:00"
+    },
+    {
+      "t": "코스피, 사흘 연속 하락…코스닥은 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QVlJiV0JmdGc1YVc1a1NhOExHMFpBbjBMc1hsOTZ0dmZWRVJtRGZEZlVHcXYtOUVRV3VNS2FRa09USUZRaVVCNHg5WHpPeFByVHBGRGdLTFBLaGs?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-30T09:46:00+00:00"
+    },
+    {
+      "t": "민형배 전남광주특별시장 \"호남 반도체 인력 70%, 지역에서 공급\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dEl4UFhoVlFsWGJwMnhOVFRpUjdLRG91dkE5M2R2Q01iZFdObDU5ekxQRUYyY3A4MV8yeURMdE9nM3dDLU1rSjRLZHRnQTJzY1pseXVWOS1Gdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T09:43:27+00:00"
+    },
+    {
+      "t": "코오롱생명과학, 반도체 소재 PPO 생산능력 확대",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DdDR2OVF6anIwWUg0b0ZRVFZTOFFmV3JEdGZyNTZzYm1UMm54NlBQX2F5TW1PYzNKUjJqSzlyX1NQcnl4RFVnbEZzS1k4M2YtclRLSDB1Qk10Rm9maERxbGlacFI3UQ?oc=5",
+      "s": "디일렉",
+      "d": "2026-09-30T09:27:50+00:00"
+    },
     {
       "t": "구미, 반도체 이어 ‘휴머노이드 로봇 특화단지’ 품었다",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HT3RPNU1hTHloUFMzOUFCRWF1LTZNNExia1BVVjF3NWJWX0Y3eGlfRmdsZXAtY2JmNEZnMkVNZmJlcTBSMm9GY2VNcGlURi12d0EwRnVkR1hLX1M0cFhkSUhMRG4tUDlkdTJ6R2tnRQ?oc=5",
       "s": "kyongbuk.co.kr",
       "d": "2026-09-30T09:22:13+00:00"
-    },
-    {
-      "t": "유럽 국채금리, 일제히 하락 출발…英 10년물 8.05bp↓·獨 5.19bp↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xSVdUd1lheURyX2FRV3ExZ1hNUW1lSnQwRjRXWnBTcGc0cmw4dm40S3lyUUtMbjVaUk91Wm9meEpnWFpQb0xVa0EtX0x0OEoweWw2aUJiUlNOTUlpQkpkX0JBS0Vxa0FRVU54UHQtRnXSAXRBVV95cUxNczc1ek5Zalk0X1VFTDdmVnJaUGVTcEs0S2ZEUUZFblhYYzE4R2I2QndaYnJSTnFHelh6WWhDcVVRUkY4OWs2QV85ajYtNTZXRlhtY3lXbmZfRThvbjd5R2NyODVhRWxqTW1EblZpVl9VdFpvNQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T09:20:26+00:00"
-    },
-    {
-      "t": "삼성, AX 로드맵 공개…반도체 불량 잡고 갤럭시 효율 높인다(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRdE5HTkhYdkhrSnBCZjVOR1I4eWpBYXBsYVBvaFhaaFBXdHVqMzZsLXdiU0F5cDFGMTQ3N2k4Z25UbExYeHdDa05PdkRsYnc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T09:20:00+00:00"
     },
     {
       "t": "[중국증시-마감] 부양책 실망 속 혼조",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85SjdlcXZqNkVhelllbmdjb0hZbU5NYTlJVTQ5OGlZX0pxRzVvS25OdXpfa2ZZM1E4MVBQTkxNMF82U2tpQ0Joc0E0dVNaaFk?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-30T09:12:00+00:00"
-    },
-    {
-      "t": "'코로나 긴축' 닮아가는 글로벌 금리…韓도 年3.5% 갈까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T09:11:13+00:00"
-    },
-    {
-      "t": "가계대출금리 5% 육박…고정금리로 ‘비상 탈출’",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nUTFqal9Ka2JWRW1kQnN0Q1BHeHJjdlE5TnRwQXFjbHU3TENqNjJOb1JZTEhVdVI5V1lKaHRSUlpibVdjYVZINnplWEpkcXphWGZHQXNlUzlqZnM5VVYySmY2MFJGS05PaG1OTHI1bDhPclkxMW54eXFn?oc=5",
-      "s": "서울신문",
-      "d": "2026-09-30T09:05:10+00:00"
-    },
-    {
-      "t": "주담대 금리 넉 달째 올라...3년 9개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FdW9xY19Td1V6Unh4bkU4U1RuamNEd0ROd3dBUUZTRUxlMXVpRU96UEtJUVhSTl9JMXFQOTRyblFDZ3pvTnRnLXQzT25GbUtpTDhzcG5JTHZoU3lFMnNTa015UTlCdXFIU0l2Rml3OA?oc=5",
-      "s": "YTN",
-      "d": "2026-09-30T09:05:00+00:00"
-    },
-    {
-      "t": "외환당국, 17년만 최고 환율에 2분기 96억弗 순매도 개입",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iYnlDSWZrWUc0cUl0bEpGMjl1TWxvRkFUNmxzWWtkcUVPNkJDVHpqa0dscmgyblkwQXhpNXpZY2VZQWNHeThnOGEwZkxKQ01qeW41NjZib3NFWnpzd09wWkk4Z2JPR0JUVVdnY2cwWmo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T09:03:31+00:00"
-    },
-    {
-      "t": "고금리·고유가에도 '증시 강세론'으로 돌아선 월가",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjMHdqVUwzaDRnc1FQbXRZSkEwRmRua3ZnQkV4VGRtdjA1WWlIenNhY2JMSDVSTFdRTlozMzd2dFYtSzhQNGdXa3lzOUI4ajk0bE84eDRaX1ZSUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T09:02:00+00:00"
     }
   ],
   "asof": {},
