@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T13:00:28+00:00",
-  "quotesAt": "2026-09-30T13:00:28+00:00",
-  "newsAt": "2026-09-30T13:00:28+00:00",
+  "fetchedAt": "2026-09-30T13:15:14+00:00",
+  "quotesAt": "2026-09-30T13:15:14+00:00",
+  "newsAt": "2026-09-30T13:15:14+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 15.77,
-    "krw": 1352.36,
-    "gold": 4242.9,
-    "wti": 90.7,
-    "dxy": 101.12
+    "vix": 15.86,
+    "krw": 1352.8,
+    "gold": 4241.6,
+    "wti": 90.23,
+    "dxy": 101.17
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.53,
-    "dxy": -0.25,
-    "gold": 1.51,
-    "wti": 1.48,
-    "vix": -1.68
+    "krw": -0.5,
+    "dxy": -0.2,
+    "gold": 1.48,
+    "wti": 0.95,
+    "vix": -1.12
   },
   "news": [
     {
-      "t": "[인도증시] 월간 마지막 거래일도 하락, 6개월래 최대 월간 낙폭...세부 지수 모두 ↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVlNvcU1Wel9tbmtRWHQ5dWY3THhKTF9LTlpCZU10SUlhMGxIQklOMVJqNFUwSzhPZ0phZ2RkeVc0THFJSlJ6dFBDNV9CNktyMHNIQW0zSC1qS3dh?oc=5",
+      "t": "美 8월 물가 예상보다 덜 올랐다…연준 금리인상 부담 완화(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0weWhBd1llUXhINmVGVnViNVlyNWlxa2swOFAySmM4Q0VYN0J0dmJZUEtWYmE1dGhjRkxrLVpYaVdLLVhiMUNVX3RralcwSDNkcmxLdlhXdmXSAV5BVV95cUxOV09OQTZvUTBzUXZEajRBYlY5RjhCalVuWVljU1lSeGhYa29wWmZzZ0ZfQlp2RDZpc0dGOUc5NnZQbGtjZXFzSmxncl8xZDBHa1dhYzAzUGpxRVNGMWpR?oc=5",
+      "s": "뉴스1",
+      "d": "2026-09-30T13:07:55+00:00"
+    },
+    {
+      "t": "美 8월 PCE 예상치 밑돌며 국채금리 진정…뉴욕증시 선물 일제히 급등",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajd6QWhLRENpbmV4R2NQdWNjUE5mU3YzRFRmeGluXzJtV3pWaGNja2Z2Zzg1YXFBc2dOd3pHUHJzUWJhamVUMzIxQU9tQkJQWE1BSE9PREphMUc3dEJrS080V2ExSFgweXhFclR0bXozTXdWbUpWazJfdW9hZkVWelRFbnN6cWV5?oc=5",
+      "s": "g-enews.com",
+      "d": "2026-09-30T13:07:35+00:00"
+    },
+    {
+      "t": "[종합] 美 8월 PCE 3.4%로 둔화…'예상 밑돈' 물가에 추가 금리 인상 기대 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oeFc2Wms2dndTNWZJWlFXUWlzLTlDZ1JPbUEzcFBzTXd2RHVRampoaWxEVU9udTUtdExqSFUxaERqZ1E4VUo0QlhkVUhtWnktaE9jNl85MzlJWHVT?oc=5",
       "s": "뉴스핌",
-      "d": "2026-09-30T11:37:00+00:00"
+      "d": "2026-09-30T13:02:00+00:00"
     },
     {
-      "t": "단기금리는 '뚝' 떨어졌는데…장기금리는 24년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMlF6RTRMa0dGR29zakVVeHctT0g5QXBaUHRoOUxLM0tPaUVvRDdqY3FYWWFGNHB1Q2swUGZfM1FtX2JscmVTWlZ2OEdkcjN6ZFhwOUpTZ2VKZw?oc=5",
-      "s": "hankyung.com",
-      "d": "2026-09-30T11:27:39+00:00"
+      "t": "美 8월 PCE 물가 3.4% 상승…시장 전망 밑돌아",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdllCV204VDgydEpCVlRDUWJHR2JYbkdFWTd0YzV0OVJzcmV5WEc4UUFnRXQ1UzRpbDJNaWR2dWxneF9EYXVhNHBKdGQzTG0wQTJjS2pIT2RiYXJHWUQtZ3J5dkN4YXh1TlhKU0p6UnR3TVdZMkcwT3EtdnFqMDhCcm1QRGJ5ZjRf?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-30T12:59:00+00:00"
     },
     {
-      "t": "전기차 주고 적금 금리 9%...우리 금융 ‘우다페’",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wc3BIeXk0Tkp0NXI5TzM0YjNKRzZzSTBxUUtNcUZMOGZuVzgycGp4b2FkYzBvSzRLUFJiX0JBalg4XzZoYjNFZnhxSWtHVzRqbEJEdVVkLWZMcC1mMmh4T3VqZFFTRXNoZzZnMEtIQQ?oc=5",
-      "s": "서울신문",
-      "d": "2026-09-30T11:26:34+00:00"
+      "t": "미국 8월 PCE 물가 전년 대비 3.4%↑…전망치 소폭 하회",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhVUFLUXR1d3BXS2QzQ0JZWF9JaWlCY3F1VTB5SUZnRGFxTFlCRHFBc28zbWNDU0EzM3g4ZGlaQ2VjSWp0amVxc3M1V0xoMWdTMnl1eUY0NHBQR1c1WkI2TGhmS3pnWTA?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T12:52:00+00:00"
     },
     {
-      "t": "D램 값 또 최고치…코스피 잠잠한데 삼전·닉스 또 갈까?",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCaDJfZnNpVHRTdkQ3a1hmQWEyWlVtTURiT2syQmZVMXJKbnVMeFh5aEtwT0paSXNlQXNjaXFyUTBubm1uSDRtOXhGc0lhQTV4?oc=5",
-      "s": "문화일보",
-      "d": "2026-09-30T11:19:48+00:00"
-    },
-    {
-      "t": "주담대 금리 4.66% 넉달째 상승… 45개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQ1BBT2I1MHNTUkoxZFltS01XWkY1cFRiN0liVUZNbERlSFBFeExDZ3l6RTU1Y29RUzBuNHpOR2lwUzVsVmVBeHVzT25meVU?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T11:03:00+00:00"
-    },
-    {
-      "t": "UBS, 일본 증시 거시적 베타 변화 관찰",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xTnc2V0xRRXl3cy1vZ3FBU0I3azdVSG9RQ3FKb1BhbW5qdWZWZmNiajdGWTRTR1JBeC1NXzVaSVVUY25vVTAxRmtDeU1CT2xyVkRveFlON3Zyek8za2NfUjNiR2lVZUlEbXk5cFE2eVlKNy1QalBz?oc=5",
+      "t": "중동 원유 수출이 회복됐는데도 유가가 높은 이유는?",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqUy13YkdnaDY2Y19wc1ZETlZJeGoybUltUDE0OU1qZ25YNEtDYmJjSGU0V3lfb01vQTBQUG9iMXI0aDRCNXRTdHBWZUZaT1o4NC1VRmxfd0FyUnVYc1J6anhaUFRXYmRJQ2tfUDl0dw?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-09-30T11:02:00+00:00"
+      "d": "2026-09-30T12:20:00+00:00"
     },
     {
-      "t": "8월 주담대 금리 4.66%...3년9개월 만에 ‘최고’",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ZVFqeEJNNG16b1VJQUZxTDRLTDI1blpHdFkzSUZhVGNqWHVmeEEyTVR3UldlTnBEX0FqWnJEUGVwdGVmTURkQVJ5b1JaLWxRVjN5VEs0MkpwZGtERlUzYmhVeG9Sdnd0OEszc2J0T0MzZw?oc=5",
+      "t": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybWFSX01mVnpTWmp0SGl5S003eXFPRzVnT0N5M2lIZU1RZXNpSS0ydElOWTRWUjA3cjVsMjVxbnA2SjFUQTdWSFdhVnNRdVNfcFFGRkJqWjhZOGhi?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-30T12:15:00+00:00"
+    },
+    {
+      "t": "코스피, 美금리 부담에 사흘째 하락…\"10월 반도체 실적 주목\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWTVuTldVQWp2V3ZLVm9WTHEtdzhIcGFmSENrWVNzcUxra1c1VnRXQjh0ZmszQmdPWVFCajlWNmlsTV9QY3ZJazRRdmJHZ1RwRTNVclJzTl92SzZFVjlYNVA3UzVXcm8?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T12:09:00+00:00"
+    },
+    {
+      "t": "미국 모기지 금리, 3년 만에 최고치인 7.3% 기록",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XaUVTQ3ZzNVhEYU9jOUFJaWx5VU13NU96Z0hSWFBZVmNWSlE0V0R2cGJvQVduTTZpa2dQRmRVRGpjQXE4ejQ0N1B1V19EMVZzWGlkUFRKb1NtOXE0Yl9WNHZveUdqdHpOckE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T12:07:00+00:00"
+    },
+    {
+      "t": "증시 하락에 국민연금 수익률 한 달 새 12%p 급락…수익금도 182조 감소",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qWVMtZTExTUJVMGhnbXFoUDExMXVqalg1MkRpaFV3X2xNZHRmZWtKeGtqa3ZWclZCdXNGMEIzcGVHcXV2bTFFMG50RTFSQ24tdDh0N2t4WDk3MFFkc3FFek5KRmFaZEE?oc=5",
       "s": "한겨레",
-      "d": "2026-09-30T11:01:00+00:00"
-    },
-    {
-      "t": "용인 반도체클러스터 처리수 갈등 격화 양상",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUHVBeU5uR0xHOHdVMDB5RkNXTWdtd3pQdEcwQWRSM1k1MFg1RVN1XzY4ZUhRS25OV093b3MzRFZob19QcHVZcU9aeW9xRFFlWU1HRUVEMnVHeFJYZnBBbXRWeGprdUNrVlE?oc=5",
-      "s": "인천일보",
-      "d": "2026-09-30T10:52:00+00:00"
-    },
-    {
-      "t": "주담대 금리 4.66%로 넉 달째 상승…월간 상승폭 9개월 만에 최대 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pbXJTT2g5RER0REtrQ3VxWU54bWVCcEZQWlZRbWgwb3VnemJXbGtKV1ZBcFB1ZEhXZHVsMjRGQnFaYmV1cC1JdHI3dDgxVUF0NXV5aVZNYVhZTVFFcm1IbHhyU0hMQ1E1NFNiZ1kxZXQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T10:44:00+00:00"
-    },
-    {
-      "t": "‘반도체 공룡’ 마이크론 오늘 실적 발표…주식 분할에 쏠린 눈 [재테크+]",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUGFjSkZYQmRtYWN2TjYzXzM2NzdUX1NxLUxaZWxkeWgtbG16RF9GaThuODhjUGdXaXg4ZkZ2cllFWHpUMGxHT0M2V1ZGMXp3SnIxYzZ0ZHNjOUhxejc4dkxMNE5tRnhhcWdlRm5yNA?oc=5",
-      "s": "서울신문",
-      "d": "2026-09-30T10:43:26+00:00"
+      "d": "2026-09-30T11:56:00+00:00"
     }
   ],
   "asof": {},
