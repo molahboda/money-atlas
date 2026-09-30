@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T00:45:24+00:00",
-  "quotesAt": "2026-09-30T00:45:24+00:00",
-  "newsAt": "2026-09-30T00:45:24+00:00",
+  "fetchedAt": "2026-09-30T01:00:19+00:00",
+  "quotesAt": "2026-09-30T01:00:19+00:00",
+  "newsAt": "2026-09-30T01:00:19+00:00",
   "quotes": {
-    "kospi": 6925.13,
+    "kospi": 6935.38,
     "spx": 7670.84,
-    "nikkei": 66516.71,
+    "nikkei": 66206.67,
     "vix": 16.04,
-    "krw": 1356.38,
-    "gold": 4215,
-    "wti": 89.21,
-    "dxy": 101.41
+    "krw": 1358.08,
+    "gold": 4208.7,
+    "wti": 89.35,
+    "dxy": 101.42
   },
   "daily": {
     "spx": -0.94,
-    "kospi": 0.51,
-    "nikkei": 1.58,
-    "krw": -0.23,
-    "dxy": 0.2,
-    "gold": 0.84,
-    "wti": -3.66,
+    "kospi": 0.66,
+    "nikkei": 1.11,
+    "krw": -0.11,
+    "dxy": 0.22,
+    "gold": 0.69,
+    "wti": -3.51,
     "vix": -0.19
   },
   "news": [
     {
-      "t": "美 금리 하락·반도체 반등…코스피, 1% 오른 6940선 시작",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEZHLU10MW5RdDk2Y3l6RWVlT3hRTy1xNm1rSy1QYU5idHNOeVREWU5FMnJTMEE4MDFxSExubU9qaS1uVWpBLUF2ZEdHeUo2c2Y5MF9sd2lmYWVCaVAyM0hqaTE1dXg3cFhxaXlyVU9fWlBiLUhMeUFieVZEWWhkY25yT0dxaFBX?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-30T00:26:41+00:00"
-    },
-    {
-      "t": "[김대호 진단] CPI 보다 PCE ?... 연준 FOMC 물가지수의 비밀",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUtkS0ZwT1ZrM3lxMUNZaFY5S1pvTGw4Yl9aU0diQ0pXa3FSRmR1VUFYaFU1WTJNSVZ1eDIxLXZkWTlZYldDWTluZGozcWRTOWVEMEVZMGZ4a0htODVlRXNkcExjeEJ1U0Q0UnhYb3NVeFRUZWVzdklqQWRVTTdmVjREZWo?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-30T00:24:28+00:00"
-    },
-    {
-      "t": "[모닝 리포트] \"회사채 금리 아직 5% 아래…기업 발행 여건은 버틸 만\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSnNHZHdGWl9HSVBTR1VzVXVRaTNZTzhLZjhnOE5CRDVGNzNuNEd0NTQ2UUFoNS1UQUtwU3RJQVV5Qml4d3R2cVc2QnVWeFZqak04YUpDSzBwOXJn?oc=5",
+      "t": "[개장시황] 코스피, 외인 순매수에 6926선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HdV9udHdFQjBwNUgxcGR6U2IwT0I2RTMzWGItSTBoU0pmMXNtd0ZVMEV4amYyUGNTTDB4VmdNMkE2UVVLWE9kdGgxdGZEOTVuNFY4NUR6RktrbHBq?oc=5",
       "s": "뉴스핌",
-      "d": "2026-09-30T00:23:00+00:00"
+      "d": "2026-09-30T00:58:00+00:00"
     },
     {
-      "t": "코스피, 1.06% 오른 6,943.47 출발…코스닥도 소폭 상승",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUjZQRmNyNGlsbFJiUlF1RXFuM3RjLVB5OUljS1VhQlRDUlR5eHBFdDR5RDN6RUpCZUZxUWFDRmJETlRPcEtKLWJvaUluUWF6MG5sbTNnbElneDF6a1l5UFZHaHRvczg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-30T00:20:00+00:00"
+      "t": "코스피, 美 국채금리 급등에도 1%대 반등…6950선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzbUJxOXlmUUtfc0puTG9OQWRYZnZwQmljMG93YkM4dDZkSFJNdlhjYkg4VDQ4NktaZzhfQUY3Qm5FQkZGQi1JbVdaUTVYcjAyNktJSlBMVGcwZzhYRzJJdjNrRmg?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-30T00:50:39+00:00"
     },
     {
-      "t": "美 30년물 금리 5.62%…바이백에도 24년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGxUZWQ1TXEwSmxsbVdTVkk0RmlZcGh6QUtxUUNBVExsVk54WWhLaklRRkE3a0xKdVpuUm1oSG05NXlGVTdjZVBUbFMyNnJWUkRQbS1sWkI3cVJmQnNXNU9KMzhrZFpCbnJTb3JDaC1FblBQTTB3OGJYSmE5Xy1CTjhrbHEySDNr?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-30T00:19:00+00:00"
+      "t": "뉴욕증시, 美 장기물 국채 금리 상승에 3대 지수 약보합 마감",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3LURGLS04bUt6RGExMzAzbndWandncmQ5bkdveWpmR3FTUzBXdmJPYWJuZ0p3YnpiZHJLRDhwejRXdUo0NVJqWlFUc0VDalpHbVE0MC00Z2tyWWlFMjJSbHROa1U?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-09-30T00:48:00+00:00"
     },
     {
-      "t": "[MK시그널] 유진테크, AI 반도체 투자 확대 및 무차입 증설 기대감 등에 주가 상승세... MK시그널 추천 후 상승률 23.37% 기록",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85WUpFOHVpd2QtR0xDMlF1UVVuUUltaFlOWUxUdnp5ZjVIRWVTNTJfdHhKT2ktWk91ZkVmUzJidXlaS1kwR1NuSkpDNnJkUmN2YUE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-30T00:18:19+00:00"
+      "t": "코스피, 사흘 만에 반등하며 ‘7000피’ 탈환 시도",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnFncHB5TDBIWUNwMkNCd01GZ1FtWEpBemxvem9xRjF6OFJURlA0X19UTS1nQkdlcVFLUDkwTkZsYnJrM2R0MVhpQ0ZlM2dtZEh0SDBtckFaNjRUVmpIcG5ZZVF1T3I2VzdYOXRjRUlNZmQyOXpBUUtBbThfY2hJRk9xMDJRWExZV3BXWnpB?oc=5",
+      "s": "국제신문",
+      "d": "2026-09-30T00:47:00+00:00"
     },
     {
-      "t": "원·달러 환율, 5.3원 내린 1351.4원 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaTM2MHd0MFFIQ2dtT0o2MFdlcHdMRTVSSXA2TEQxWXNfOFJEa1c4UVBWM3FhQkEyTmpkNkNDZ2FIZ0t5UlNrTFpPNWJiQUpTNkg0cjd3WEFBc2E4VHRoYkJEQVAxeU91NmlDTjdjRkZJdzkxbGRxS1U4U0ZVbVJxdi13TXZQZ9IBmgFBVV95cUxNSjRLRmtoblktLTZETU5RZW5SbDRWc0YwcVdzMVUwZXRfQ0F3aGVrQXphYmRpUTR3UG5RU001UDhKRDh5b19wM0Fjd1VreUhhM19aX18tS1YzT3U1YzgyRXBxVFpidk40TC1UYk9hR3FKb2gyZ2h1QWxfOVo5UzBuaDFxeENZVlBPbHhzZThnVnB5ZHNSRjN0endR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-30T00:18:00+00:00"
+      "t": "이형일 \"금리 상승 과도하면 긴급바이백·초과세수 활용 국채발행 축소\"(종합)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySWtSQnhtU0hYUjZmYkEzR3ZxVXhpMV8zeVZPa19hTjJPVTU4eUJuQlZUbTV5bDJ3cXo0ZlVtZ29NWGM2eXR2eHd1NDNud3JyQTVWUTN0djdWLVBlczhqb1VQTHlpZUFVNWk5OTAzY1o?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-30T00:46:42+00:00"
     },
     {
-      "t": "미 장기금리 고공행진...3대 지수 약세 [뉴욕증시]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5eVJQVG5EdWZxclZUeXYtZ252Y0xFbDZkZW5vZFJ5N3Z5RUxFNkFDTEkySHZkalgwTVM1R2w5Z1dfY2RraHVGb1ZNbTNndEE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T00:18:00+00:00"
-    },
-    {
-      "t": "반도체주 반등에 코스피 상승 출발...외국인 수급은 변수",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zb2ZiOVdIOGl5Z0VSblpxVmxPRnR5RlZjYUE0REtTcHNnSU1XTE9LYzZBU2RTWS1WMGw2U0xvMWgzdnBoVnlGZFBmcFoyTU95SlRMT1puaVVtWEtRMVFXZE5NQWgxVUxsRkE?oc=5",
-      "s": "news.bizwatch.co.kr",
-      "d": "2026-09-30T00:16:02+00:00"
-    },
-    {
-      "t": "[원자재 시황] 유가 하락에 금값 반등…뉴욕증시 하락 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kMnZSV2VWelRYOW5yTjliVDF1UG9rM1FyNEo1aDBLa0Y1blZpNUMzeC1LZl9GSE16LU9rYnU2LVBndWZCQVhNZlo3RWNPdW1yUEJkSnZxUHFMVnNLeEEwUWMxZ1lOQm5WdmRuRWt0UGw?oc=5",
+      "t": "미국 증시 선물 소폭 상승…국채 금리 숨 고르기, 유가 급락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcEQ5QnBTMDk2VG1ZQklMSGNFZmJWN2pDdV9nOV9hMkVBQk0wT2RBUnUzbVVSNG5sZXN2N1RvaDdXZlJtanZHVWdNN3JVUm5mVmRIOWVjZUE2UkpTT0lQeVFYZldNeWdGbDhYMUZ0LWo?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-09-30T00:13:00+00:00"
+      "d": "2026-09-30T00:44:00+00:00"
+    },
+    {
+      "t": "분기말 수출업체 환전에 환율 4.5원↓…강달러에도 1350원대 초반",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVFNWUnA4dlhaMTBsTDNqTnhFeldjb1BlaUd3RTVHNlRfcVJGS2tBb0k3THllU1ZQM1NadFFVd25VOTdBN0JVWXVacVZaSHc?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T00:43:04+00:00"
+    },
+    {
+      "t": "코스피·코스닥, 장 초반 나란히 1%대 상승…SK하닉, 3%↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CN2pta3RKdVFvcVpieHZPMy11OTFHdjNQZ2l3Vm5QVmgyMzhlMmdSeGozTXZfdFBsUVBfOXBiR1lESmxjUVJXUDBSREprSDg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T00:43:00+00:00"
+    },
+    {
+      "t": "코스피, 美 금리 부담에도 1%대 상승...6940선",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHVVV1bGZaTl9rNnNOQ2Y2RVZqc1AyalpEY1VhT0h2SVFoUUFnRFo3YS03MlJHY0ZnYkJGMkpKVnZqbFMwOUJGeWNDQmQ2eU9SUTdMOVVFYnNaS1pRdG54cmJEUi1sa1Fn?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-09-30T00:38:09+00:00"
+    },
+    {
+      "t": "반도체 기업 영업익 폭등에 세수 63조 더 걷혀… 절반 이상이 법인세",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pTDE1X0s2a2RwOHdPb01aUW42OUtGeHpZRm03aTFMZVllcUhyWnQzNS16aGVpeTdsME80ODdXcmszMFFNZGM2NzdqMTcxVzQ?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T00:35:45+00:00"
     }
   ],
   "asof": {},
