@@ -1,40 +1,76 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T06:30:17+00:00",
-  "quotesAt": "2026-09-30T06:30:17+00:00",
-  "newsAt": "2026-09-30T06:30:17+00:00",
+  "fetchedAt": "2026-09-30T06:45:16+00:00",
+  "quotesAt": "2026-09-30T06:45:16+00:00",
+  "newsAt": "2026-09-30T06:45:16+00:00",
   "quotes": {
-    "kospi": 6851.75,
+    "kospi": 6854.19,
     "spx": 7670.84,
-    "nikkei": 66859.12,
+    "nikkei": 66753.72,
     "vix": 16.04,
-    "krw": 1352.88,
-    "gold": 4212.5,
-    "wti": 89.28,
-    "dxy": 101.26
+    "krw": 1353.88,
+    "gold": 4213,
+    "wti": 89.8,
+    "dxy": 101.3
   },
   "daily": {
     "spx": -0.94,
-    "kospi": -0.55,
-    "nikkei": 2.1,
-    "krw": -0.49,
-    "dxy": -0.11,
-    "gold": 0.78,
-    "wti": -0.11,
+    "kospi": -0.52,
+    "nikkei": 1.94,
+    "krw": -0.42,
+    "dxy": -0.07,
+    "gold": 0.8,
+    "wti": 0.47,
     "vix": -0.19
   },
   "news": [
     {
-      "t": "“같은 금융주인데 왜 우리만 이러죠”…은행·보험 뛸 때 증권 울상인 이유",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11SFBwcXloTXdrLXdDM0x2a2ZkRURaaGJRVnFhbGF3MmhWV085VnoyMUlncDNSX2tEb09oazd4U21WWnBjRU00ZVI2eWUtTFJHcVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-09-30T06:25:34+00:00"
+      "t": "코스피, 0.48% 내린 6,838.04 마감…코스닥은 소폭 상승",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01VGNBeloxaWVqcExSNzExYVRfZmF2RTRuSktaOGpWUmN5OG9WcVlSYzhWazBkRWxObDk0cEhnS1JqVWdWWXk3YV9VemxMQTB4RVlvZEVXMDl4dnFGbktSU1MwdjZQM2c?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T06:36:00+00:00"
     },
     {
-      "t": "용인반도체산단 광주 상생발전 범시민연대, ‘실질적 상생대책’ 촉구 공동성명 채택",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GOUh0OW9vUmlBUUduS2JZb0QyWFl5MHV1dVR4QXV6bWlWWmZNdHZnWDlCQ1JKOVFpd043U3l0WFFzZjcwQXB6SXZfVm9icVFzWF9FNUdHNjdfNTQ?oc=5",
-      "s": "경기일보",
-      "d": "2026-09-30T06:11:46+00:00"
+      "t": "유가 3.5% 폭락에도 정유주 '빵끗'…\"제품가 여전히 높다\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94NWZIamFheTN5T0hsUVRXX0ZUQ2h1b1cwVTBYNEQ2eWJiUkpEMm9EQ09Zd001aTZPTS10VkEwTW9ZWmxHUkVqVExXemxDRFZPeW1hdGdOdlhjZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T06:34:18+00:00"
+    },
+    {
+      "t": "[속보] 원·달러 환율, 3.9원 내린 1352.8원 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2FxZmIySGR0UUR1RTZ1dWxEM241NVZaM1cwVmZEaTY2UkVXaGE5ZWZ5ODB4d1FYTEk5RGl5WkppVHZOdHNqdE5makJDZnVySndkWVNXTF9IeG1ILVdkYkZWTExFX1A3bWhXYlRJY1hWQlVzS2JVRjBRV0xOclZVNmU4WVJFd9IBmgFBVV95cUxQX2duNVBRYnBWX1A4UUYzRXlYamV6OVB5dklTTzFjWjFmb3lxUGdoLUdMMXNyRGx5VVlkLWgzdVFmTkRaU0VsNXg0U2lPSktBLTQ5WmRJUm9LYUlDSnNwS2VUQ21yalZmcGJkNWpMSUx2ZlRHWWNIWF9JSjlNRktEdXI5WHRUYVVRdk0xWHktRHBDemljQ1lyOXF3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-30T06:34:00+00:00"
+    },
+    {
+      "t": "반도체붐에 세수 ‘역대 최대’…미래대응기금에 56조 투입 가능성",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04WVZqVWE1OVV5N3Rmcklfb29yVnhveXhTdnRwN1ppZnVmbHBXbFA3NnQ4NmJQUEpQTm11eWN0WjlqaFNUdlYxYkltc1lNcUh0VkxRa3gxcGtJQ3JJTk1nV2Vxbw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-09-30T06:31:20+00:00"
+    },
+    {
+      "t": "미 국채 금리 뛰자, 서학개미도 채권으로 뛴다…금리 정점에 베팅?",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LS3dZbjJsSEVBWkJvdE9MTXkwcWJUWWNYOXBIN2Nia1JsZGNQRnQxLVhkVGV5Q0lrcng2c05JcTk5T2xQLU1UMFE5Tm5aZFgzbjVKMDctd2ZMUdIBX0FVX3lxTFB4V2xBcUhIYW55ZHhQN2ZWLU45RUtBXzNwUkZKOGFxRTZrUUJlOUx4SU9XVExmQ0Y0aDRHWHBEb3RqRnJUVFlaUF9YMjdBYnNESEphTk1kb3dDSVZDOFRz?oc=5",
+      "s": "경향신문",
+      "d": "2026-09-30T06:27:00+00:00"
+    },
+    {
+      "t": "채권 금리 상승에 증시 약세…의료기기주 한 종목은 19% 급등",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bmlscllpZjcyLWlfdnFSTGtVbmtZbFkzS1YxWFNZTk1uTUt5a2VFejZNS2hNTC1lamVneGtqRUlVdzA1eVRFVlBxUDFoNi1LZ3M5TVBEbzdkQlAyUUluVGZjS2RQaGNiNkpEZ2k3QkU?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-09-30T06:27:00+00:00"
+    },
+    {
+      "t": "구미 LB세미콘 \"전력 반도체 후공정 라인 증설\"…협약 체결",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkNVMWVMTmNFeG9JcGZIUWlvVzhTeUNENEhXQ0dYWG1LWXpDYjlpZVJndUN3VVdqY2poREVkanJrUU5CT2FYbTVUYUJqYXhWbnhubXZ2SzVaVkR6STU2d1V5X2lRN3VoNlo4a1RveklmeFd1YTBqdzJMZmFZZFZJSlA0MmJEZw?oc=5",
+      "s": "Tbc.co.kr",
+      "d": "2026-09-30T06:25:43+00:00"
+    },
+    {
+      "t": "\"돌아온 금리의 시간…부동산 자산가치 지킬 기회로 삼아야\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54LWFMSzh6cW8zMS1fWTY3d0c1aGExaW1DVUdseG1aZk1CUi12MjRrc0pvbEpXMmd2OEg5YkdsWTVsR1JoLWZwUWxWOWJsaEZLaDBpTmxmUXZSUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T06:08:43+00:00"
     },
     {
       "t": "토판(7911 JP)·브로드컴, 싱가포르 반도체 기판 공장 12월 본격 가동 By 알파경제 alphabiz",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRFJ0Y1NlZlN6YWdaclRHYmtpWDFSSGwtaFBrbkQ4RTJWeXMyb01KYnpUR1duTUZWaVA0Q1I1Z3BTZGNfRm1aNWpseVkwYVdDcW12dEVIUS0tQUgzbVBxcUZWSk5CNmJ4WmZWTTVUUm0?oc=5",
       "s": "kr.investing.com",
       "d": "2026-09-30T06:04:00+00:00"
-    },
-    {
-      "t": "印 증시, 주요 증시 중 최악 실적...\"이 부문\"은 선방했다",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMV2lfZ0RhdkZYckpJNllQd2FMZ015SC1fcE5uMWk3QmRYdkxIS1ZuWmd6M1VCWU8wQS1JNnFQZFdyS0d4dTZYS0F3aDNkcG54V0Q5alg4V0xPSDVD?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-30T05:48:00+00:00"
-    },
-    {
-      "t": "8월 주담대 금리 4.66%...3년9개월 만에 ‘최고’",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE80ZVFqeEJNNG16b1VJQUZxTDRLTDI1blpHdFkzSUZhVGNqWHVmeEEyTVR3UldlTnBEX0FqWnJEUGVwdGVmTURkQVJ5b1JaLWxRVjN5VEs0MkpwZGtERlUzYmhVeG9Sdnd0OEszc2J0T0MzZw?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-30T05:44:00+00:00"
-    },
-    {
-      "t": "디스플레이 1세대 기업 신도기연, 반도체 패키징 영토 확장",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzX3BncFFqZTlpODJwMkR4Y2dvZEtYc01CMGhScUxBTmI0N2NIbFZqUmNrUzBYUS1XSmhqNGYtNzU3akNRUFVIbS1Bb0pWaFNXMi1NbWxmSmtDU1Q0RTJhTUZTYUI5QQ?oc=5",
-      "s": "thelec.kr",
-      "d": "2026-09-30T05:43:29+00:00"
-    },
-    {
-      "t": "美 PCE 다시 뜨거워지나…한풀 꺾인 10월 금리인상 베팅 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45TlluTm4xYVFZVmV2SWd3aExya2ZlWUZpZWJkWmhaN3YwcXpYemVYejlrMzJLZ2hUZktlTnVBX3BHaHVfOHlZYnNhMTBGQzNEUDlmWGVpOXl2eHhJUG4wVkVFUGRRYkXSAWxBVV95cUxNSTVxOFJxSF9IUTZRcVRvb0FIU2ZEVE1hRXJxWWxsS3BCUkxkdVBqeHF3WXBxN1BiQm1YY01zNDRrQ25KOVNSdTh1YThZb3NmRVZQSHNUMUNiaG9QNXdOSVpVdXVWYmR1ZlprdGs?oc=5",
-      "s": "뉴스1",
-      "d": "2026-09-30T05:40:35+00:00"
-    },
-    {
-      "t": "美 나라빚·주담대 폭탄 도화선… 30년물 금리 5.6% 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CNGVPQWlnemtsWGt6QVdyenp1UldSMUF2UEM1V09rNnduUVhIdU1GdTgxb0d5X29OQXF6RmZxQWoyT251d2FXZFRhRWE0bU0?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T05:38:00+00:00"
-    },
-    {
-      "t": "\"증시 향방, 美국채 금리보다 성장률이 좌우…내년 키워드는 '인플레'\"",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxR3NNNG15UXJNUG16c19xNVdTY3k4d25jUFJuSG82eF8wOWREZzBMdTVfcjlrTkhOc2k5MF9JNkZSMnJlYmZHMWxmYmdLZUk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T05:34:00+00:00"
     }
   ],
   "asof": {},
