@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T07:45:19+00:00",
-  "quotesAt": "2026-09-30T07:45:19+00:00",
-  "newsAt": "2026-09-30T07:45:19+00:00",
+  "fetchedAt": "2026-09-30T08:00:11+00:00",
+  "quotesAt": "2026-09-30T08:00:11+00:00",
+  "newsAt": "2026-09-30T08:00:11+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 15.92,
-    "krw": 1351.28,
-    "gold": 4227.1,
-    "wti": 89.06,
-    "dxy": 101.26
+    "vix": 15.88,
+    "krw": 1351.34,
+    "gold": 4227.7,
+    "wti": 89.22,
+    "dxy": 101.31
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.61,
-    "dxy": -0.11,
-    "gold": 1.13,
-    "wti": -0.36,
-    "vix": -0.75
+    "krw": -0.6,
+    "dxy": -0.06,
+    "gold": 1.15,
+    "wti": -0.18,
+    "vix": -1
   },
   "news": [
     {
-      "t": "구미국가산단, 대한민국 반도체 소재부품장비 산업의 중심지로 자리매김 기틀 마련",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GZS1ndlF3ejlnemZJTFJRX0lkNFp5ZXdOYkxjSE8zbXpHbjV2NGlZQnpOQnVsQ0pIcGRqa0w1U25Pb3RpUGxGMjlCZ1RKMENHR0FSSld3UUpSdkxZZGdXVVJNTF8wdw?oc=5",
-      "s": "데일리대구경북뉴스",
-      "d": "2026-09-30T07:09:52+00:00"
+      "t": "[현장] 달러 안전자산 지위 여전…금리만 보지 말고 성장 함께 봐야할 시기",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWlJ1QXhBdDJsSU90SURSVWltS3Y2X2JuUTBzenIybDlaQ2tLXzRNYlNXUUhvVnhPbk9IUWpEajBvYktiNmJ0Y0dVX3dUTUZYbDNCbVBXVTY1SU53UlhfOE1TWS12ZUVBY0tPakhFRUhhM21IWmc?oc=5",
+      "s": "infostockdaily.co.kr",
+      "d": "2026-09-30T07:56:19+00:00"
     },
     {
-      "t": "[마감시황] 코스피, 美 금리 악재 여파에 3거래일째 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1acklucWNrWTBsVGsxbzkzeXBuWHBBeTNQblktaHh5RWNHSzh6MFVXQVBzU0NxTzNlNGZZNk0ybWFia3haemZqZFdPQzgtdEZmeXlmSi1IaExyVVdQM2J6dGdKWFlRS3prbG5zbnhVV3k?oc=5",
-      "s": "신아일보",
-      "d": "2026-09-30T07:06:35+00:00"
+      "t": "'유가·금리 쇼크' 등지고 연말 랠리 베팅...월가 \"골디락스 기대\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44QnhqaGpKQ3hxby1nY1d1M2pleURwWHh4VVE5RGNxM0dHa0o2Yzl5Um5nVUFrcEN6TG05SEFYYmlPWTkxb1phQWdKSF9kOGJEVlFlZE03cnNWUQ?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-09-30T07:52:10+00:00"
     },
     {
-      "t": "[마감시황] 코스피, 외인 2.3조 순매도에 0.48%↓…코스닥은 0.72%↑",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43OFh4OTZSYTB3TVQ2SUVvRS1WeEhTSENpMlgzTWpNUnVoenEzOFotbEJwS2FfV0hoVW9BNWtJOEo1S2NETklHU1BNUHRwRnppMTVJb2FkQ3M5TmhZ?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-30T07:06:00+00:00"
+      "t": "[환율 전망] 금리는 중력인데, 원화는 공중부양 중",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcDJiN2tCZS1ySjROZ0NXUzNDVmVsOVdVeldHMTlMM1BYcHBmLU9VTkR1Zkc4NG5tVDAzSmJpeG8zX3hPRHV0VHBwRmxXM2xZejA2TlZiaWVLQnlnY3J0cg?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-30T07:51:23+00:00"
     },
     {
-      "t": "중금채 금리 상승에 기업은행 조달비용 부담 커진다",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsWGJzazJ5TmtvRERQZGtHN01TeXdISGZqb19YVlYwc1MzOXJPUmt2bHduY0QtdXo4MnNpMFREdVRQcXI2bG5fbldPZlQ5ck0?oc=5",
+      "t": "[증시-마감] 코스피, 분기말 외인·기관'팔자'에 하락…6,830선 턱걸이",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01YWUzT08tV0lVaW5ZX0JoUTY5YmRBTll3VU1OMmZBVTV4N2UzV0MtT2J0WE10Q1o5S0RxQ3I5anRqcUp5Z01lM1hPYmZfQkJGbkIzTmhQQ1Y2OWlXdjNoNk44VFBTQUh5STROdFVhdUc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-09-30T07:45:36+00:00"
+    },
+    {
+      "t": "美 소비지표·마이크론 실적 앞두고 관망⋯코스피 '약보합' 마감",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jeXhPU1BTUGFYUlBHdmZTcGk0V1ZkaVpmXzd4QTEtXzBNM3V1V2pNek1PVERoTkRxRjNvdi15ZlZPX0EyV2RhWV9OVWtTa0U?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T07:37:00+00:00"
+    },
+    {
+      "t": "\"이 정도 국채 금리면 증시 폭락 수준\"…버티는 AI주, PCE·마이크론 실적이 변수[오미주] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NjJ2b3NSRXlRSmtQVmFlUTJaMmRabDloYTBuOW54R0lxTG1CS2h1cXMxMzBSUTlrb3hYaFY5UTZqZWw0bnVhQmR5VzFGMlkyaC1yQUtaOW1JdXB6ZHNhdUlDMC1XdmRu0gFuQVVfeXFMTVpsMG84OXh6eWY3S3ctOUhSTHlGN2hubmhvbUJOVXM1Sy1MNmY1cVc0SlNPdXpGOTBnRlRxck9ValZtODdsc1ZFNGRhalJHNGZsX3l4eFBoQkdWTzdIVERWY0xEN29YTm5ZUEZ6dlE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-30T07:33:13+00:00"
+    },
+    {
+      "t": "한울반도체, 주주배정 유상증자 철회···\"본업 성장에 집중\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TdnE1bmlFMnBnMTdCTzRzcFFIOVoxbWdZeUdsRU1PVTVxOUtzVXBwdy1RQS11R2RGNTZhTHBwNWlXMFhhdEdrZkYzVkhaWHl2?oc=5",
       "s": "톱데일리",
-      "d": "2026-09-30T07:05:00+00:00"
+      "d": "2026-09-30T07:27:00+00:00"
     },
     {
-      "t": "코스피, ‘전강후약’ 6830선 마감…사흘째 하락",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0owLWpJY0I5ZmVja2lfZ3NWaEJaNUhiZUgxOVRxOU1ZcUQ3X0ctcVdoc1UxYjZFQkhRZjRvZjNKNG1vaXdkNWRBOFpGa3J3LUpyaFQ0UWQxUmRHdmhPb1E4cjYta2dycFlGQ2NzZVVXQmNPc01sUUtuQ08wWlVESDYxUTdwY1ow?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-30T07:04:40+00:00"
+      "t": "코스피 약세 마감…美 국채금리 상승 여파 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JN3J6dGNJMmttNmNjV2U2UDNfYWozNjlNbHhoS2Nra2FWTnI2RFF5ZUZLV2RMUHROTDJOV3dyUjVSSi1RYW9hMk1pQk9YLWh3LXNaano0V2xvbEU1cjdKZnRYU2pyVnl6dGxDVkRyUVBWT3lhcUHSAXtBVV95cUxOTUpLMU9zRTVPaFVVQXItMmg5SHBFN3RQNUlaYWJlT3FEcGVOMmNpd3B0OUtYdm10YXI4WmxTeHdhemZhWFZwMlRwcFhsalhGMVVabmt4Z3h1TFczQldnMnJHYUxUYWR5MW04dG9zOHVwampFSnNCeWd5VkU?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-30T07:23:41+00:00"
     },
     {
-      "t": "美금리 상승도 누른 수출업체 달러 매도…환율 1,350원대 초반",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81b2VGenlJVlRONzJoYTlpVFl0ZkFjbUZtaWpyNUxLUkpDUVNBVGh1Y3VDb215NTNCYXlqMk5DN2lWZVBxVFFPcUpDNnhON2F0MUNBLVUxNEpSNWPSAWBBVV95cUxPWkpPaTI5dFVRSTAzcjU5dy1jWktHdVlfeTkzWlZNSlc0dkxTZl92c0ZCRTlQc0JYbk5XVnFQQ3hVS1pGak8tbDFCOTRGMWY1WFdUX2lNM0IzMTRTVmJvMzc?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-09-30T07:01:03+00:00"
-    },
-    {
-      "t": "고금리에도 환율 1352.8원으로 하락…유가 하락·PCE 관망(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pa2hTaVFXWmV1b24wRE5JT3lpMFk3VWRLUjRfSmk2N0VpYk11clhPaUxhMzFFbURWN2pVTGxCMVZJTWc5aWxETVFJd1VMRC13NTRJdndDbGNtVDTSAWBBVV95cUxNWnB6VjdtQzZkcndmZGk4Q0NQdjQyU3BoTFduQ2dydWlXT2JWazZVQVRPamJ5eWJnVHpGel9kdFR5ekNzdDBRSndkNzJuZHFac3FZcHY4cjZzMlY5QTZIdXA?oc=5",
+      "t": "외인·기관 빠지자 코스피 6838 후퇴…금리 부담 '마이크론' 관망[시황종합]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuMXA4R2RlTkZ1emtPS2tYMGtadXdYT0V6SjRzVzdwRHZHNllPMWlsTEdPYko4UFlweWhoT3VFUWMyWlFMTWNmazZGdV9fYmhsTU02TTVMOUtEZzDSAWBBVV95cUxNTnZQTUVXaTlsc2ZZZkZZeGV4Z21TVUZmRVRFUXRwYVdPdmNEM0dYbFdiOXB3NEpLME85RWlwY00ya1dyZFYyR25UMVB2NzRSMjdLRmpvSTJUUTBFUEZsYmM?oc=5",
       "s": "뉴스1",
-      "d": "2026-09-30T07:00:04+00:00"
+      "d": "2026-09-30T07:21:25+00:00"
     },
     {
-      "t": "5대銀 예대금리차 1.456%…대출금리 뛰자 다시 확대",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcXR1RFpmNWtkREM1ZzhhcmZSMGt6Z09xalphWmNZYXplQnhlMnNxb1d1MjVwRUFlZkFsME90YXpfejhfNk05SVRlaEJib0NhNEV3T01pS0p6ckhlRktKa1ZrVFFvZ0ZyOTNrQlZmQzk?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-30T06:57:54+00:00"
-    },
-    {
-      "t": "6838.04 마감한 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mcTNubGRrTmoxRTVWRkdnTEp4RDJRVk1YbTlrN2M3WnJ6RGw3bURxdUNWX2F1SmIwSUZEVXY2S29LQlkwamJBTE9FdnZrdWpaTXVJNkJmUVBQb2hS?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-30T06:57:00+00:00"
-    },
-    {
-      "t": "[증시 레이더] 코스피, 장중 7천선 문턱서 밀려 6,838선 마감⋯사흘째 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEX0xuUmdBSDZRR0t4Yk5QT0VqTWZfZjVVWUVFMWFaWU9HMTVaSERVWW5ZNUJ3Tm1RSDhydDhMRk50NUJhRUhjYVAzYjFyaFgtMWZtMG0xcDNJcDh6alE?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-09-30T06:51:09+00:00"
+      "t": "'수출업체 달러 매도세'에 환율, 1350원대 초반으로 하락",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3ZnlMSEdJLTN6ZVdBbUM1Rm1PNFR6czA0R1MwN1ZqYWRsWkxod3M0eGpyRVlWWndzZ0RMSW1DczNYdk9iZkEwa0NxcW4zZFk?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T07:21:10+00:00"
     }
   ],
   "asof": {},
