@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T17:15:13+00:00",
-  "quotesAt": "2026-09-30T17:15:13+00:00",
-  "newsAt": "2026-09-30T17:15:13+00:00",
+  "fetchedAt": "2026-09-30T17:30:15+00:00",
+  "quotesAt": "2026-09-30T17:30:15+00:00",
+  "newsAt": "2026-09-30T17:30:15+00:00",
   "quotes": {
     "kospi": 6838.04,
-    "spx": 7705.19,
+    "spx": 7698.87,
     "nikkei": 66753.72,
-    "vix": 15.84,
-    "krw": 1354.64,
-    "gold": 4187.4,
-    "wti": 91.02,
-    "dxy": 101.4
+    "vix": 15.9,
+    "krw": 1355.33,
+    "gold": 4182.2,
+    "wti": 90.91,
+    "dxy": 101.39
   },
   "daily": {
-    "spx": 0.28,
+    "spx": 0.2,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.36,
-    "dxy": 0.03,
-    "gold": 0.18,
-    "wti": 1.83,
-    "vix": -1.25
+    "krw": -0.31,
+    "dxy": 0.02,
+    "gold": 0.06,
+    "wti": 1.71,
+    "vix": -0.87
   },
   "news": [
     {
@@ -33,7 +33,7 @@ window.LIVE_DATA = {
     {
       "t": "예상 밑돈 물가에도 美 장기금리 오름세…\"개선 평가 근거 없어\"",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuTGVpZUlua3U4MllaeDRCZ3JNX1RIc0xWN1FSMG1WWFE3R0s4YkdVcWhnWFpLQ2tMS21TWEdyczkzZ3Z2RkotZWdkU3NQUWRGTkFsMGF5UmYyRjd3?oc=5",
-      "s": "newspim.com",
+      "s": "뉴스핌",
       "d": "2026-09-30T16:56:00+00:00"
     },
     {
@@ -61,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-09-30T16:00:00+00:00"
     },
     {
-      "t": "민형배 전남광주특별시장 \"호남 반도체 인력 70%, 지역에서 공급\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50dEl4UFhoVlFsWGJwMnhOVFRpUjdLRG91dkE5M2R2Q01iZFdObDU5ekxQRUYyY3A4MV8yeURMdE9nM3dDLU1rSjRLZHRnQTJzY1pseXVWOS1Gdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T15:51:00+00:00"
-    },
-    {
       "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 30일자 - 조선비즈",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREtRZHJXTTBxRTlJRlNGcEJtcmNweWFpa28xeGZvMmM5QkJHaDIzSkplUndteFQ1M0RVS3FVUGN3QThHM0VPbDY0UTIxemt4Sk95OE82bjlfcVZYOXozcjM4aktQMWtFYkRZOHVMLTM0bHlxUF9PMjRpdGdoUUt2RmZwNW9seXot0gGcAUFVX3lxTE5uaE8xYXlTSk1Id0ktakpvYjRnenVQS2QwODExeUhLLTV3MS1ZYWE1WnpLRVo2TlVqM2FGVlhJVGZWajFlMV9QUW1OeGQyOUFaajI4YTZUclZLZ1BzU1VTS2hub3JaVld0Z19CQUpPWXpoYmUwMklRaER0UHJKVjhwbVl4WUlNNVNUQjRmZDBSZE1mOWw4U2syUnZQcA?oc=5",
       "s": "Chosunbiz",
@@ -77,6 +71,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3Q3N3ZGd4OTl2VTNFUTVQZjhWc1dhMXdKV1NmejdVOG90VUY4YXpTVnl1eXBpV3lUSEdMZTU2UUNJT1AzRnk5aUV6bGJGaDg?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-30T15:34:00+00:00"
+    },
+    {
+      "t": "주담대 금리 3년 9개월만에 최고치… “7~8%대까지 오를 수도”",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdVlvdi15Tm82ZUNrRWQ4anJpdlZra2x3cGlPZ2c2aEFJMUtyYkNiVi11eXI4c1RjS091Rkt4LUtwOHhjT0hoOEtGMEQyWl9tZVl3M3MxZy1nVTlnaldsSUptZ0tkbmdWWUpyWDlBazlXdWMxaFHSAWZBVV95cUxOcFFnRy15UU5uQVFETjVwc2hlWUs1OU9uQnJZYWF5ZEZVeW9tblpMdkZZTTBTSHVJb1dEWUdZa1RoTURRTFAyYnVjYXk4MlBSQ0YtbWNwOHU5MXBTOGNLSmZZWVBJZ3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-09-30T15:30:00+00:00"
     },
     {
       "t": "유가 폭탄 덮으려는 '안보 쇼'?...호르무즈 걷어차고 '핵' 베팅",
