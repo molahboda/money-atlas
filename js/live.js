@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T08:15:22+00:00",
-  "quotesAt": "2026-09-30T08:15:22+00:00",
-  "newsAt": "2026-09-30T08:15:22+00:00",
+  "fetchedAt": "2026-09-30T08:30:13+00:00",
+  "quotesAt": "2026-09-30T08:30:13+00:00",
+  "newsAt": "2026-09-30T08:30:13+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 15.81,
-    "krw": 1353.48,
-    "gold": 4226,
-    "wti": 89.36,
-    "dxy": 101.27
+    "vix": 15.94,
+    "krw": 1352.42,
+    "gold": 4230.5,
+    "wti": 89.6,
+    "dxy": 101.28
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.45,
-    "dxy": -0.1,
-    "gold": 1.11,
-    "wti": -0.02,
-    "vix": -1.43
+    "krw": -0.53,
+    "dxy": -0.08,
+    "gold": 1.22,
+    "wti": 0.25,
+    "vix": -0.62
   },
   "news": [
     {
-      "t": "[현장] 달러 안전자산 지위 여전…금리만 보지 말고 성장 함께 봐야할 시기",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWlJ1QXhBdDJsSU90SURSVWltS3Y2X2JuUTBzenIybDlaQ2tLXzRNYlNXUUhvVnhPbk9IUWpEajBvYktiNmJ0Y0dVX3dUTUZYbDNCbVBXVTY1SU53UlhfOE1TWS12ZUVBY0tPakhFRUhhM21IWmc?oc=5",
-      "s": "infostockdaily.co.kr",
-      "d": "2026-09-30T07:56:19+00:00"
+      "t": "외환당국, 환율 낮추려고 2분기 96억달러 투입 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWcwLTV5cEZmci1MX2VYNmczMGI5eTNLNElOUVdxcVh1SDRXREIybXJfekNZS1d0OW1vQ1BObURjckc2SWo2aEJfM21FOF8wMGVoS1JFU184d2VZcWdZajhFM0xoVHlqUG5UeURQZVRrMk53M2VybXRqZXlfR1VfME8xeWtvUdIBmgFBVV95cUxNd1ZTWXlvQnlPaHR5bXN5UWFrbGN6aHZVRm95TzVYUzFtRzh4dWlHNDFwYmo5NDRjbEVjWlRBcjdJaW04Q1l4aFQzcC1ial9zUmp5aG5FbURGX1pUWHE5d3dVRGZfQ1JmWktnRHhBaGJ1ZHFaTWpaTmlLRk9Wc3NDRlBkUVdrSHVYZXJxVnFxWENFMEJxOWlqLTJn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-30T08:21:00+00:00"
     },
     {
-      "t": "'유가·금리 쇼크' 등지고 연말 랠리 베팅...월가 \"골디락스 기대\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44QnhqaGpKQ3hxby1nY1d1M2pleURwWHh4VVE5RGNxM0dHa0o2Yzl5Um5nVUFrcEN6TG05SEFYYmlPWTkxb1phQWdKSF9kOGJEVlFlZE03cnNWUQ?oc=5",
-      "s": "hankyung.com",
-      "d": "2026-09-30T07:52:10+00:00"
+      "t": "지난달 은행 주담대 금리 4.66%…3년 9개월 만 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SVk94R0g5MFlRN1VucVgzM1NwVDhlLUFCNy16SXU0ajQxWFlDem5Qd2ZDWWFxWGk0RThrSU81dW5QSDRoYVh2dGFhOTQ4Uzk1M2tQUEE2UnA3Y3c?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-30T08:20:00+00:00"
     },
     {
-      "t": "[환율 전망] 금리는 중력인데, 원화는 공중부양 중",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcDJiN2tCZS1ySjROZ0NXUzNDVmVsOVdVeldHMTlMM1BYcHBmLU9VTkR1Zkc4NG5tVDAzSmJpeG8zX3hPRHV0VHBwRmxXM2xZejA2TlZiaWVLQnlnY3J0cg?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-30T07:51:23+00:00"
+      "t": "외환당국, 2분기에도 환율 방어에 100억 달러 순매도",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUFlkQkdWN3B5eThDNGEtV2paQUM5ZEM4ZGdWckRqQmNkYTlvNmpMbEwxNTNlU0ktR0gzZlRyOExyZUJnVGMtYUE2MnZKdFhnQmJmUWFWQnYtOTg?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-09-30T08:20:00+00:00"
     },
     {
-      "t": "[증시-마감] 코스피, 분기말 외인·기관'팔자'에 하락…6,830선 턱걸이",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01YWUzT08tV0lVaW5ZX0JoUTY5YmRBTll3VU1OMmZBVTV4N2UzV0MtT2J0WE10Q1o5S0RxQ3I5anRqcUp5Z01lM1hPYmZfQkJGbkIzTmhQQ1Y2OWlXdjNoNk44VFBTQUh5STROdFVhdUc?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T07:45:36+00:00"
-    },
-    {
-      "t": "美 소비지표·마이크론 실적 앞두고 관망⋯코스피 '약보합' 마감",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jeXhPU1BTUGFYUlBHdmZTcGk0V1ZkaVpmXzd4QTEtXzBNM3V1V2pNek1PVERoTkRxRjNvdi15ZlZPX0EyV2RhWV9OVWtTa0U?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T07:37:00+00:00"
-    },
-    {
-      "t": "\"이 정도 국채 금리면 증시 폭락 수준\"…버티는 AI주, PCE·마이크론 실적이 변수[오미주] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NjJ2b3NSRXlRSmtQVmFlUTJaMmRabDloYTBuOW54R0lxTG1CS2h1cXMxMzBSUTlrb3hYaFY5UTZqZWw0bnVhQmR5VzFGMlkyaC1yQUtaOW1JdXB6ZHNhdUlDMC1XdmRu0gFuQVVfeXFMTVpsMG84OXh6eWY3S3ctOUhSTHlGN2hubmhvbUJOVXM1Sy1MNmY1cVc0SlNPdXpGOTBnRlRxck9ValZtODdsc1ZFNGRhalJHNGZsX3l4eFBoQkdWTzdIVERWY0xEN29YTm5ZUEZ6dlE?oc=5",
+      "t": "양대증시 지지부진…증권가 \"반도체 변동성 주목\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBacjVCRmJvcERnTXNzQ1dtN0ZDcmRla2o5Nnp1azF5a2lWclJsN21DWlF1V25oV3psZjh3SDlqaWUtM3RZNUlOSnNZb0tVQjEzenRiTk9tSzdES19qSHVuSk5zN0lyQ2I2UndfOFNITzNlMG93NFHSAXtBVV95cUxQcnIyZFkzMFdPdUczRS1zbDhlMWlXV2VNYTJaUEdNdFJQR3MzMHFhY3lLX0lFUDZ4RWxnZHhnM1FHd2k5VDdfSG5jMjNwTHZXS2lLeDRDMU9sRFc1cTdUMHF0Y0M0a1lWNmJRV0twdlQ4ZWZtck5oVmRyb0E?oc=5",
       "s": "머니투데이",
-      "d": "2026-09-30T07:33:13+00:00"
+      "d": "2026-09-30T08:18:28+00:00"
     },
     {
-      "t": "한울반도체, 주주배정 유상증자 철회···\"본업 성장에 집중\"",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TdnE1bmlFMnBnMTdCTzRzcFFIOVoxbWdZeUdsRU1PVTVxOUtzVXBwdy1RQS11R2RGNTZhTHBwNWlXMFhhdEdrZkYzVkhaWHl2?oc=5",
-      "s": "톱데일리",
-      "d": "2026-09-30T07:27:00+00:00"
+      "t": "외환당국, 2분기 환율 방어에 96억달러 순매도",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0SE52bndhZ3E2VUhidlpwZGFnV1JIVWNLN3BGSlh0OUhvcVA5YjdQRTFZdEkwYnlyUWs5b1Bld1ZFNWxxeHVqNXRLVTMzbVNOWThyZ1ZvcGRGWWPSAWBBVV95cUxPNU5kY1draVRPR0NXWFQ2Mkk0MEgwbXVkTU50YU9oZE40cEFwVDRyQnBMUGhsTE9qUlk4V2E1YUpLZ0RPbzVidEJYVWNUeVEzdGpnREtEN1plNElmaS1rSU0?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-09-30T08:17:27+00:00"
     },
     {
-      "t": "코스피 약세 마감…美 국채금리 상승 여파 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JN3J6dGNJMmttNmNjV2U2UDNfYWozNjlNbHhoS2Nra2FWTnI2RFF5ZUZLV2RMUHROTDJOV3dyUjVSSi1RYW9hMk1pQk9YLWh3LXNaano0V2xvbEU1cjdKZnRYU2pyVnl6dGxDVkRyUVBWT3lhcUHSAXtBVV95cUxOTUpLMU9zRTVPaFVVQXItMmg5SHBFN3RQNUlaYWJlT3FEcGVOMmNpd3B0OUtYdm10YXI4WmxTeHdhemZhWFZwMlRwcFhsalhGMVVabmt4Z3h1TFczQldnMnJHYUxUYWR5MW04dG9zOHVwampFSnNCeWd5VkU?oc=5",
+      "t": "[0930마감체크] 코스피, 美 금리 상승 부담 지속에 약보합... 3거래일 연속 하락",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pLUM2TmdaNmt4T29vekpScHJwemxyVG9GMUdfRlp4eHlKR2FwVTRtS2k3N1NpY2Q5R0JoX3pmUmtVOFo2WldxMXJFRTlCRVMzVy1wV3h5ZWxQMEZpTnE5MTRjZ1BITEVULWFyX3hGcVN3RlZwZ3c?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-09-30T08:13:34+00:00"
+    },
+    {
+      "t": "코스피, 외인·기관 나란히 ‘팔자’…6800선 약보합 마감",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kUHM3b21JN3Z5Rzg0Q1Z5ZG01b19CeUNGczhmdFRBZHpoSUNVVnl6RUlVQ1FSUGdUcTk0N2pBbmhwSlp4aHBOTTFCZWRuaXBSYXc?oc=5",
+      "s": "futurechosun.com",
+      "d": "2026-09-30T08:11:00+00:00"
+    },
+    {
+      "t": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
+      "s": "한겨레",
+      "d": "2026-09-30T08:04:00+00:00"
+    },
+    {
+      "t": "'삼전닉스 더 담아야하는데...' 철옹성 유럽도 K증시에 '러브콜' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CTDY5LV90VHUyeDBrY2t1UnNKQ2FfY2Vndi1MaTd3dXljUkc0cGY4RFhGZnFIRW5SbmV2bWxOeFUzR3ZjUmFNTjI2WTBYTHZSejhBWl9WcTdoSXY0R0tONTZfYjE1OTBI0gFuQVVfeXFMT0M3RGlEcTdiUjlMUVFrU3JDWVJVTzYtNGV6ay1JQWx4TEoxcUtzcGtRSnpidVNlYll5SlBDNHFNdHZRQkRCXzE4V3kxRUo5aU9hbm40NTFtWmpONlpFdHJaSUtjWFVtZzZ5S21BYmc?oc=5",
       "s": "머니투데이",
-      "d": "2026-09-30T07:23:41+00:00"
+      "d": "2026-09-30T08:00:29+00:00"
     },
     {
-      "t": "외인·기관 빠지자 코스피 6838 후퇴…금리 부담 '마이크론' 관망[시황종합]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuMXA4R2RlTkZ1emtPS2tYMGtadXdYT0V6SjRzVzdwRHZHNllPMWlsTEdPYko4UFlweWhoT3VFUWMyWlFMTWNmazZGdV9fYmhsTU02TTVMOUtEZzDSAWBBVV95cUxNTnZQTUVXaTlsc2ZZZkZZeGV4Z21TVUZmRVRFUXRwYVdPdmNEM0dYbFdiOXB3NEpLME85RWlwY00ya1dyZFYyR25UMVB2NzRSMjdLRmpvSTJUUTBFUEZsYmM?oc=5",
-      "s": "뉴스1",
-      "d": "2026-09-30T07:21:25+00:00"
-    },
-    {
-      "t": "'수출업체 달러 매도세'에 환율, 1350원대 초반으로 하락",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3ZnlMSEdJLTN6ZVdBbUM1Rm1PNFR6czA0R1MwN1ZqYWRsWkxod3M0eGpyRVlWWndzZ0RMSW1DczNYdk9iZkEwa0NxcW4zZFk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T07:21:10+00:00"
+      "t": "[심층분석] 美국채 금리發 글로벌 금융 불안 확산, 한국 경제는 안전한가",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oRlBvNWtzdzhNUGpPckk2VFVIYkhoMExHemdBLVVkWERMYU0wamVYVGxKN3l5MGxHdjRPMV9mNk5qWk81cl9OWG45LVdlTmM1bjZwZ2czWTdZeFk?oc=5",
+      "s": "데일리연합",
+      "d": "2026-09-30T08:00:03+00:00"
     }
   ],
   "asof": {},
