@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T06:15:12+00:00",
-  "quotesAt": "2026-09-30T06:15:12+00:00",
-  "newsAt": "2026-09-30T06:15:12+00:00",
+  "fetchedAt": "2026-09-30T06:30:17+00:00",
+  "quotesAt": "2026-09-30T06:30:17+00:00",
+  "newsAt": "2026-09-30T06:30:17+00:00",
   "quotes": {
-    "kospi": 6862.16,
+    "kospi": 6851.75,
     "spx": 7670.84,
-    "nikkei": 66819.53,
+    "nikkei": 66859.12,
     "vix": 16.04,
-    "krw": 1354.48,
-    "gold": 4213,
-    "wti": 89.39,
-    "dxy": 101.27
+    "krw": 1352.88,
+    "gold": 4212.5,
+    "wti": 89.28,
+    "dxy": 101.26
   },
   "daily": {
     "spx": -0.94,
-    "kospi": -0.4,
-    "nikkei": 2.04,
-    "krw": -0.37,
-    "dxy": -0.1,
-    "gold": 0.8,
-    "wti": 0.01,
+    "kospi": -0.55,
+    "nikkei": 2.1,
+    "krw": -0.49,
+    "dxy": -0.11,
+    "gold": 0.78,
+    "wti": -0.11,
     "vix": -0.19
   },
   "news": [
+    {
+      "t": "“같은 금융주인데 왜 우리만 이러죠”…은행·보험 뛸 때 증권 울상인 이유",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11SFBwcXloTXdrLXdDM0x2a2ZkRURaaGJRVnFhbGF3MmhWV085VnoyMUlncDNSX2tEb09oazd4U21WWnBjRU00ZVI2eWUtTFJHcVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-30T06:25:34+00:00"
+    },
     {
       "t": "용인반도체산단 광주 상생발전 범시민연대, ‘실질적 상생대책’ 촉구 공동성명 채택",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GOUh0OW9vUmlBUUduS2JZb0QyWFl5MHV1dVR4QXV6bWlWWmZNdHZnWDlCQ1JKOVFpd043U3l0WFFzZjcwQXB6SXZfVm9icVFzWF9FNUdHNjdfNTQ?oc=5",
@@ -33,6 +39,12 @@ window.LIVE_DATA = {
     {
       "t": "토판(7911 JP)·브로드컴, 싱가포르 반도체 기판 공장 12월 본격 가동 By 알파경제 alphabiz",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtM3cyNGZTcFVRQmN6Q1NfWXJ0SFg0SlR3cFlOcy1vWllkclBKcWNHZ2pXTGh1NmVtME5DZ000LXRwSFVNci01S05RLUVtTk5DWVltbU4zY2pScTJ5ZGJyVXloUUIyZlYxbnlaa0FzZHQ?oc=5",
+      "s": "kr.investing.com",
+      "d": "2026-09-30T06:04:00+00:00"
+    },
+    {
+      "t": "이형일 “국고채 금리 상승 과도하면 긴급바이백…초과세수 활용해 발행 축소” By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRFJ0Y1NlZlN6YWdaclRHYmtpWDFSSGwtaFBrbkQ4RTJWeXMyb01KYnpUR1duTUZWaVA0Q1I1Z3BTZGNfRm1aNWpseVkwYVdDcW12dEVIUS0tQUgzbVBxcUZWSk5CNmJ4WmZWTTVUUm0?oc=5",
       "s": "kr.investing.com",
       "d": "2026-09-30T06:04:00+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxR3NNNG15UXJNUG16c19xNVdTY3k4d25jUFJuSG82eF8wOWREZzBMdTVfcjlrTkhOc2k5MF9JNkZSMnJlYmZHMWxmYmdLZUk?oc=5",
       "s": "v.daum.net",
       "d": "2026-09-30T05:34:00+00:00"
-    },
-    {
-      "t": "“대출 받은 뒤가 더 걱정”...주담대 금리 4.66% ‘3년9개월 최고’",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uSkw0MWpYVVNjMlJtbFRWeEtyRXZOcXF6SUc3bG00Q09rTVRhUW5nYmc2bUNrWTdjY2ZReUZMMG1meV9sejBMMG1fVWxReFc5YmJuY2Znd0JxQ0ZWRU9GVkNLMA?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-09-30T05:24:26+00:00"
-    },
-    {
-      "t": "외신 “코스피, 3분기 20% 떨어지며 세계 최악 성적 기록”",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04dHJvZGcyVmJhU2kyTXV4YlhBTXF3RF8tajR1dFBudzhEbzBiMEdnZHVhT3lkVndqbDhreHA4ZUZwdVhRMTY3Z1ZrLXRiUWN2NzRRc2ZBaTQ0MUY4U2FhVkxGQUh2VVl6QzAtV1pjZElzTTDSAWZBVV95cUxOdWFnVVpEdk80Z2V5akNXdzNVMWVXTnY4M3ZwN09wMFIyQU42dzBaalNmR1E5WFdGU042WFZudFBPbktPVk45eVM0dTd3cXhJWWhXOUM2Qk1wZ2hxdWx2ekQtam05RlE?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-30T05:22:39+00:00"
     }
   ],
   "asof": {},
