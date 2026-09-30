@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T19:15:21+00:00",
-  "quotesAt": "2026-09-30T19:15:21+00:00",
-  "newsAt": "2026-09-30T19:15:21+00:00",
+  "fetchedAt": "2026-09-30T19:30:12+00:00",
+  "quotesAt": "2026-09-30T19:30:12+00:00",
+  "newsAt": "2026-09-30T19:30:12+00:00",
   "quotes": {
     "kospi": 6838.04,
-    "spx": 7695.97,
+    "spx": 7693.04,
     "nikkei": 66753.72,
-    "vix": 16.02,
-    "krw": 1355.35,
-    "gold": 4184.5,
-    "wti": 90.59,
-    "dxy": 101.46
+    "vix": 15.9,
+    "krw": 1355.2,
+    "gold": 4183.6,
+    "wti": 90.57,
+    "dxy": 101.47
   },
   "daily": {
-    "spx": 0.16,
+    "spx": 0.12,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.31,
-    "dxy": 0.09,
-    "gold": 0.11,
-    "wti": 1.35,
-    "vix": -0.12
+    "krw": -0.32,
+    "dxy": 0.1,
+    "gold": 0.09,
+    "wti": 1.33,
+    "vix": -0.87
   },
   "news": [
     {
-      "t": "연준 감찰관, 파월 전 의장의 청사 보수 공사 관련 비위 없음 결론",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WUE5QdkdKaHlMMFhMX0lRZlA0TExCZUhYQnVSaXhEWmwydWVlN1l1NHBMWUZERS1EVzFsWkotLVhFdWFOam5IMzUtazFBTDdETWd1YzZfTndNT3BVdDljbmVqTWd1a01md0E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T17:08:00+00:00"
+      "t": "[뉴욕유가] 중동 긴장 속 美 석유제품 재고 급감에 1% 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OSl9xbHNtMXROdlR0aUk1WTZST0FtaW83WHFYZ1MtYVBoaXBNSTBLaXdoRThiTGhXTHhueGQwRFBLTTV0bl9XeXdWemRZZ2RvZTBnandqSG9lVFpqVHYtSG93ekd1VkMtdHRLVDl0dGFlUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-30T19:12:56+00:00"
     },
     {
-      "t": "예상 밑돈 물가에도 美 장기금리 오름세…\"개선 평가 근거 없어\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuTGVpZUlua3U4MllaeDRCZ3JNX1RIc0xWN1FSMG1WWFE3R0s4YkdVcWhnWFpLQ2tMS21TWEdyczkzZ3Z2RkotZWdkU3NQUWRGTkFsMGF5UmYyRjd3?oc=5",
-      "s": "newspim.com",
-      "d": "2026-09-30T16:56:00+00:00"
-    },
-    {
-      "t": "외국인 '팔자' 행렬에 코스피 3거래일째 하락",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LSnQ4bDBGZ1UyVF9faXp4NTVhSW0yZDdEdWRDOEFEVHNTUjB0QVlXNHFNWG1GOUhJNlNmMzdkYkIxaDlZMS1jX1BoQmhHWUxmXzdsLVYzVlZHQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T16:07:00+00:00"
-    },
-    {
-      "t": "美 8월 PCE 물가 예상 하회…10월 금리인상 전망 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQUlKQWh2WElNZkppQjdwU2JYNzFWbTJVM01XRGdYT3htNy1EdXJvYklsbGtqSk1iQlFhN2JmV3VtMmpwNHBqVHdoWFZkMVd5d3BWd2NlNHJlUnNyUWVKZXZnMGd1OXpi0gFsQVVfeXFMTmpiSFUtdF9wZ09rT2dlaWNEbmNGQ1VmNmtmZTd0MEVqcWFvcEMwZGZpdHdSME9NRU4yMU9qNjc5UHdvelJnMzRiUU9vOGVoSUdFS3VMU253TmhYYktQX1k5VEtCTVd4WlRRM2o4?oc=5",
-      "s": "bloter.net",
-      "d": "2026-09-30T16:06:55+00:00"
-    },
-    {
-      "t": "고금리·고유가에도 '증시 강세론'으로 돌아선 월가",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjMHdqVUwzaDRnc1FQbXRZSkEwRmRua3ZnQkV4VGRtdjA1WWlIenNhY2JMSDVSTFdRTlozMzd2dFYtSzhQNGdXa3lzOUI4ajk0bE84eDRaX1ZSUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T16:05:00+00:00"
-    },
-    {
-      "t": "국제유가 다시 상승…美·이란 협상 교착에 WTI 90달러",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEVBZmpIWEIxS0xQVHZ1SXpjNmtDb0ZCWjdfSFZ1UEVyaGJPQnBRa3ZRRnI1eTc4Y0lJQjNmWW5pazJENFRkWVZqQVl2X2NGLWxzZVJBSENNbHhHWTZBRS1yemJYZTFIM18wTVRzVnh6a180TEZWc3I1R2ZFRGUxV1poV1FIc1Nj?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-09-30T16:00:00+00:00"
-    },
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 30일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREtRZHJXTTBxRTlJRlNGcEJtcmNweWFpa28xeGZvMmM5QkJHaDIzSkplUndteFQ1M0RVS3FVUGN3QThHM0VPbDY0UTIxemt4Sk95OE82bjlfcVZYOXozcjM4aktQMWtFYkRZOHVMLTM0bHlxUF9PMjRpdGdoUUt2RmZwNW9seXot0gGcAUFVX3lxTE5uaE8xYXlTSk1Id0ktakpvYjRnenVQS2QwODExeUhLLTV3MS1ZYWE1WnpLRVo2TlVqM2FGVlhJVGZWajFlMV9QUW1OeGQyOUFaajI4YTZUclZLZ1BzU1VTS2hub3JaVld0Z19CQUpPWXpoYmUwMklRaER0UHJKVjhwbVl4WUlNNVNUQjRmZDBSZE1mOWw4U2syUnZQcA?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-30T15:35:00+00:00"
-    },
-    {
-      "t": "반도체·증시 호황에… 올해 초과 세수 88조",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3Q3N3ZGd4OTl2VTNFUTVQZjhWc1dhMXdKV1NmejdVOG90VUY4YXpTVnl1eXBpV3lUSEdMZTU2UUNJT1AzRnk5aUV6bGJGaDg?oc=5",
+      "t": "美 8월 PCE 물가 3.4%↑…예상치 밑돌아",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlMDRZcl9wanU1WDU5czZ3dXlzWHFuQi1EalV3dWxiRzVwNTdacVFpSi1qbUszeVhVXzdtT29hZnVJVGY1OFJmOUFKaHdPaXc?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-30T15:34:00+00:00"
+      "d": "2026-09-30T19:12:00+00:00"
     },
     {
-      "t": "주담대 금리 3년 9개월만에 최고치… “7~8%대까지 오를 수도”",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IdVlvdi15Tm82ZUNrRWQ4anJpdlZra2x3cGlPZ2c2aEFJMUtyYkNiVi11eXI4c1RjS091Rkt4LUtwOHhjT0hoOEtGMEQyWl9tZVl3M3MxZy1nVTlnaldsSUptZ0tkbmdWWUpyWDlBazlXdWMxaFHSAWZBVV95cUxOcFFnRy15UU5uQVFETjVwc2hlWUs1OU9uQnJZYWF5ZEZVeW9tblpMdkZZTTBTSHVJb1dEWUdZa1RoTURRTFAyYnVjYXk4MlBSQ0YtbWNwOHU5MXBTOGNLSmZZWVBJZ3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-09-30T15:30:00+00:00"
+      "t": "트럼프 '강제노동 관세' 법정 공방…\"대법원이 막은 권한 되살리기\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qd015QWpiekZYTTlRekVKOFo5TmxRX29FVFZxWjJqa1NfOVpBMlRTaDZ0MEdQcjVDSWNiVVFyUnVGSjZTX2NiQ0JJZzdoYk1KQXJHaERzU3FJdWZ1?oc=5",
+      "s": "newspim.com",
+      "d": "2026-09-30T19:11:00+00:00"
     },
     {
-      "t": "유가 폭탄 덮으려는 '안보 쇼'?...호르무즈 걷어차고 '핵' 베팅",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tX1pHWFcxTlVGRC1lUDc0Um9BN3BrMGVsWFl4YTRsLWhCTl9rZTZBcFNucHB2R08wcGZneTU1ak84ZEVsdl9PbkZtdVV6bHJWT3drUE9WV3ZrNGdaT2c?oc=5",
-      "s": "YTN",
-      "d": "2026-09-30T15:25:00+00:00"
+      "t": "\"땡큐 반도체\"…국세수입도 '슈퍼사이클', 내년 106조 더 걷힌다 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lczhVc3dGWFhJTXB4X2h0Um5OMXlLQ2QxX3IwdVNNQzhFQndialVxOGJMTi1aallUVGh0S2N1bkJaOUh5RDJXQ1UwWFFtRWdZYWlXQ1RrQ1djWlN6ZjRyNXBiMVVEdXg0UzJF0gFwQVVfeXFMTVVLSVppWTdkdlZoLU5FSVZ4WkUybDhkTTFWcm84c3NoU1EtcWJ3dWZxX3ZJVDZKcUEwbHF6dTc1RTBLMVJvbGFfQUZ6dTlnN1JpdXAxbFljZS1XVTBNYm1UcUNYczBTTEo2NEo4ZVdYVA?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-30T19:10:00+00:00"
+    },
+    {
+      "t": "“미·중 반도체 전쟁 잠시 숨 고르기” … 지금 ‘삼전닉스’ 봐야 하는 이유",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82eDdWQUl5ei1LTXNwMjNFOXhhSFBvVlBIS2VzenhYRnBES2FFTjBCQTFaVW1CalRBR3RKem5nWlRTWGtQUFJuajNRNXJ4VUh4RWc?oc=5",
+      "s": "매일경제",
+      "d": "2026-09-30T19:10:00+00:00"
+    },
+    {
+      "t": "골드만삭스, 예상보다 낮은 인플레이션에 Fed 금리 인상 전망 12월로 연기",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uWjU2ckx6Ty1ZcE45dk02R1ByQlVPUEU1anJKQjZ6OEc1MTlmX043TURIck4zXy00VjM3dkt1NVNnN3BDODVpSEZsTXJ0emxmWTNtMkFHVlhDYzFKTGE2dUNvWDQwWW9sbHc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T19:03:00+00:00"
+    },
+    {
+      "t": "XRP, 연말 3달러선 재도전… 비트코인·금리 완화 관건",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZC1haTNNR2Q5LXpCcjBSMVAtZk9zWHdVNjBzbDJYdUNMX0pobmxMcklnM0RSSlNyLUFfYkRNdnQyU053RUdlWVlfU0U4QjZyZlEtWGdIamZKS3UtR1RCaHhDbmhzck1xcFA3cTBHeFkyVXFpVkpoNG5DRlZsaGg3ZDhzRE85MmZk?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-30T19:00:00+00:00"
+    },
+    {
+      "t": "美자문사 \"의회 권력 바뀌면 한미투자도 감독 대상…관세는 유지\"",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45SGZMekRIVVN5WGVkZlkwTmpJNUxCSTdNNC1kSHhvWWg2Z1NYQjNXeEtFT3lQaHZXX3NjbkExSGNVeDBNd1VpbE81dDF6YU0?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T18:32:57+00:00"
+    },
+    {
+      "t": "\"진짜 돈 되네\" 기대가 현실 됐다...제2의 반도체? '이 업종' 주목해야[부꾸미] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZjdfQ2c0bTI2VEtLNU0tY2pfLVFiclpud204Q05RVVV4SWtSXzFJYWVtSGhNeVdzeUp5R1Rfc0NjZVZrb21uamthb0xLWmhBYlAzOHBZcG93VXJqMFdTRnFwZUNLM0l50gFuQVVfeXFMTzF0MjdlY2R6MnZ3U3VSY2QyZFdzSWg2b1h1TmdabEpGVTZxaHBaUlNWTG9VLUdSblU5UnZGR0drS1hmVTBJdUJXRWJ3cjRhMUxjQ0FvcU13OS10QmY3RFVUUEc2RFQ2bm1qT2NPZUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-09-30T18:30:00+00:00"
+    },
+    {
+      "t": "골드만삭스, 금리 인상 예상 12월로 늦춰",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02aWIwVmx1Rlp1NHplaFBTLUFDcTFkcjNZMmhqWWo1SUpEdTVXZlJFVXgwTlZ3ZFBSMjlGMlBDbzBheDZYRENTWXRSQk9FTk1xSm85ZlBZLUk4eTE1YmVjcUFJTEgtVUdPT1ZDaXRIdVRNN0pqU1hj?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T18:05:00+00:00"
     }
   ],
   "asof": {},
