@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T02:00:25+00:00",
-  "quotesAt": "2026-09-30T02:00:25+00:00",
-  "newsAt": "2026-09-30T02:00:25+00:00",
+  "fetchedAt": "2026-09-30T02:15:12+00:00",
+  "quotesAt": "2026-09-30T02:15:12+00:00",
+  "newsAt": "2026-09-30T02:15:12+00:00",
   "quotes": {
-    "kospi": 6907.05,
+    "kospi": 6908.51,
     "spx": 7670.84,
-    "nikkei": 66234.79,
+    "nikkei": 66265.92,
     "vix": 16.04,
-    "krw": 1357.88,
-    "gold": 4203,
-    "wti": 89.51,
-    "dxy": 101.39
+    "krw": 1356.18,
+    "gold": 4206.2,
+    "wti": 89.5,
+    "dxy": 101.38
   },
   "daily": {
     "spx": -0.94,
-    "kospi": 0.25,
-    "nikkei": 1.15,
-    "krw": -0.12,
-    "dxy": 0.18,
-    "gold": 0.56,
-    "wti": -3.34,
+    "kospi": 0.27,
+    "nikkei": 1.2,
+    "krw": -0.25,
+    "dxy": 0.17,
+    "gold": 0.91,
+    "wti": -3.35,
     "vix": -0.19
   },
   "news": [
     {
-      "t": "[개장시황] 코스피, 외인 순매수에 6926선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HdV9udHdFQjBwNUgxcGR6U2IwT0I2RTMzWGItSTBoU0pmMXNtd0ZVMEV4amYyUGNTTDB4VmdNMkE2UVVLWE9kdGgxdGZEOTVuNFY4NUR6RktrbHBq?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-30T00:58:00+00:00"
+      "t": "[외환] 外人 환전 수요·호주달러 급락에 상승 반전…1,360원 육박",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SRlhMR0xYTkt1Y0lkZmdYZ1BKR2RPNFg2T181TnhHMWdhU09URURNajlGVG1aUjlWN0NYZEgzWWdlM1dGQXRsX1VUVHIxNVBESmZHRmhWNHc2TWFZamtJX2V2dzIwdWZuY2hXVXA5QXpZZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-30T02:04:18+00:00"
     },
     {
-      "t": "코스피, 美 국채금리 급등에도 1%대 반등…6950선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzbUJxOXlmUUtfc0puTG9OQWRYZnZwQmljMG93YkM4dDZkSFJNdlhjYkg4VDQ4NktaZzhfQUY3Qm5FQkZGQi1JbVdaUTVYcjAyNktJSlBMVGcwZzhYRzJJdjNrRmg?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-09-30T00:50:39+00:00"
+      "t": "추석 연휴 돈 몰렸다…서학개미, 美 빅테크·반도체 쓸어담아",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoSlB2VkdIeWJXaTd6Z0NnUmU4THM4bTVKY1N6WWlZNFo2R2pUalUtWXVOajU4NnkzUUYxeTlBcWpFN3VlWk53YWxuRFJDQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-09-30T02:01:40+00:00"
     },
     {
-      "t": "뉴욕증시, 美 장기물 국채 금리 상승에 3대 지수 약보합 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3LURGLS04bUt6RGExMzAzbndWandncmQ5bkdveWpmR3FTUzBXdmJPYWJuZ0p3YnpiZHJLRDhwejRXdUo0NVJqWlFUc0VDalpHbVE0MC00Z2tyWWlFMjJSbHROa1U?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-09-30T00:48:00+00:00"
+      "t": "코스피, 美기술주 강세에 상승…삼전닉스 반등",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NkIyZWRvby12dXF3S3dmTEpvYkthekF3WWV0YThCcmJvWEp6LWNQck55eWkwQ19pNHE0YVBZa25MVm9WVU1mbkpYSWx3VlZEbjZwQ1NpS0xiTVM1Z005NzdTSFZBWGc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-09-30T02:01:00+00:00"
     },
     {
-      "t": "코스피, 사흘 만에 반등하며 ‘7000피’ 탈환 시도",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnFncHB5TDBIWUNwMkNCd01GZ1FtWEpBemxvem9xRjF6OFJURlA0X19UTS1nQkdlcVFLUDkwTkZsYnJrM2R0MVhpQ0ZlM2dtZEh0SDBtckFaNjRUVmpIcG5ZZVF1T3I2VzdYOXRjRUlNZmQyOXpBUUtBbThfY2hJRk9xMDJRWExZV3BXWnpB?oc=5",
-      "s": "국제신문",
-      "d": "2026-09-30T00:47:00+00:00"
+      "t": "고금리에도 강한 美 증시…10가지 이유와 5가지 변수[박신영의 월가 아나토미]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nRmZ0QVF6QTRHNTBPVkhXSXRRU2p5MVZCc1VWRWJWVm1zOW1nQ1ZsemN3TGE1OTlGdzhSY09UM2dvQkl3OExNZTF3ekxDZVZnZXpleHNVY1lNdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T01:54:03+00:00"
     },
     {
-      "t": "이형일 \"금리 상승 과도하면 긴급바이백·초과세수 활용 국채발행 축소\"(종합)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ySWtSQnhtU0hYUjZmYkEzR3ZxVXhpMV8zeVZPa19hTjJPVTU4eUJuQlZUbTV5bDJ3cXo0ZlVtZ29NWGM2eXR2eHd1NDNud3JyQTVWUTN0djdWLVBlczhqb1VQTHlpZUFVNWk5OTAzY1o?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T00:46:42+00:00"
+      "t": "“형만 왜 이렇게 잘나가?”…소외됐던 이 종목, 반도체 장비주 따라갈까",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpNktSRlNia2p3dVV6ZFlXNGt3dWRvczFlSlFmNHlvNHFjU1hJRnRnNXl2VHpsVW1DZ0VNMlQ3YlM1alZUcXlXczBET1ZBX09PTWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-30T01:52:45+00:00"
     },
     {
-      "t": "미국 증시 선물 소폭 상승…국채 금리 숨 고르기, 유가 급락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcEQ5QnBTMDk2VG1ZQklMSGNFZmJWN2pDdV9nOV9hMkVBQk0wT2RBUnUzbVVSNG5sZXN2N1RvaDdXZlJtanZHVWdNN3JVUm5mVmRIOWVjZUE2UkpTT0lQeVFYZldNeWdGbDhYMUZ0LWo?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T00:44:00+00:00"
+      "t": "치솟는 美국채 금리와 반대방향…씨티 \"중국 30년물 국채 사라\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE01NXg5WDZaVVlOdDlaM2pWNDdBTE5vRDR3MF9uWkppLUp2TVhsQUl2OFhBRHpRS0xERkk2M2lvTFUyelR3NFF6QkdxcXJMclJfVTRPdlNTOVlkU3ZXMFZVYmdTMTVTQllZb1lJWHJSWUlEQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-09-30T01:47:27+00:00"
     },
     {
-      "t": "분기말 수출업체 환전에 환율 4.5원↓…강달러에도 1350원대 초반",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVFNWUnA4dlhaMTBsTDNqTnhFeldjb1BlaUd3RTVHNlRfcVJGS2tBb0k3THllU1ZQM1NadFFVd25VOTdBN0JVWXVacVZaSHc?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T00:43:04+00:00"
+      "t": "한미반도체, MSVP 올해 판매 200대 이상 전망…1~8월 매출 작년 연간 넘어",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmZ4T2ZlMUlDVU1VVVl5T2lxU3prYzNsUDdVR3F5QXRvaGlHRHFXei11OWhzbTdzUlFKOGU5TFNwcjB3My1Ibk5qR0JhNlZfTzBzdmFjZE0yZGM5UkhTV1ZHWTdPZXYxekd2bThFS1Y4M1MyMmVMVm92OUhkM1VIelY5TQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-30T01:40:00+00:00"
     },
     {
-      "t": "코스피·코스닥, 장 초반 나란히 1%대 상승…SK하닉, 3%↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CN2pta3RKdVFvcVpieHZPMy11OTFHdjNQZ2l3Vm5QVmgyMzhlMmdSeGozTXZfdFBsUVBfOXBiR1lESmxjUVJXUDBSREprSDg?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T00:43:00+00:00"
+      "t": "반도체 장비주, 장 초반 오름세…미국 증시서 관련주 훈풍에 영향",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZmRtcXUtbHNWSXdiN2xWZXRHSzRzYVhFTXVOM0RXMk1GOGpqSzl3cl8tck4tNEFILVFsUFBhUW1pcjBwc1hmbWUwaTJyNWpudWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-09-30T01:39:52+00:00"
     },
     {
-      "t": "코스피, 美 금리 부담에도 1%대 상승...6940선",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHVVV1bGZaTl9rNnNOQ2Y2RVZqc1AyalpEY1VhT0h2SVFoUUFnRFo3YS03MlJHY0ZnYkJGMkpKVnZqbFMwOUJGeWNDQmQ2eU9SUTdMOVVFYnNaS1pRdG54cmJEUi1sa1Fn?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-09-30T00:38:09+00:00"
+      "t": "호주, 기준금리 4.6%로 인상...15년 만에 최고 수준-Xinhua",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PcTVUVThGOXlBb1BKc09VaXBMTkVTODhLcng3blVVc0p3c0xUYWY4ZUg3QzVrVi1mZmJIaTMxZG16OGZiRTNJT3lNYm9qQnFNSnpmTWF6UzBKQW9RYzlXTC1BY1MzLUg5UUl6VDFjbWg4ZlVs?oc=5",
+      "s": "신화망",
+      "d": "2026-09-30T01:36:23+00:00"
     },
     {
-      "t": "반도체 기업 영업익 폭등에 세수 63조 더 걷혀… 절반 이상이 법인세",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pTDE1X0s2a2RwOHdPb01aUW42OUtGeHpZRm03aTFMZVllcUhyWnQzNS16aGVpeTdsME80ODdXcmszMFFNZGM2NzdqMTcxVzQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T00:35:45+00:00"
+      "t": "바클레이즈 \"미국 30년물 국채금리, 생산성 호황 땐 6%까지 오를 수 있어\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16MkRVZ0UxbEVqeUpkekZzS2NTRXRlYkg5NERodVdLUTlOV21UUzZKcTd3X1JwMWVFazZuWXdBT1FoT3pOUG5oS1dHczE0RFdqT2dVTGdvc3E2aEo5U2c?oc=5",
+      "s": "더구루",
+      "d": "2026-09-30T01:30:51+00:00"
     }
   ],
   "asof": {},
