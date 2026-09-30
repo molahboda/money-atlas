@@ -1,33 +1,63 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T13:45:26+00:00",
-  "quotesAt": "2026-09-30T13:45:26+00:00",
-  "newsAt": "2026-09-30T13:45:26+00:00",
+  "fetchedAt": "2026-09-30T14:00:16+00:00",
+  "quotesAt": "2026-09-30T14:00:16+00:00",
+  "newsAt": "2026-09-30T14:00:16+00:00",
   "quotes": {
     "kospi": 6838.04,
-    "spx": 7697.99,
+    "spx": 7711.47,
     "nikkei": 66753.72,
-    "vix": 15.91,
-    "krw": 1353.58,
-    "gold": 4221.6,
-    "wti": 91.31,
-    "dxy": 101.17
+    "vix": 15.77,
+    "krw": 1353.64,
+    "gold": 4211.9,
+    "wti": 91.06,
+    "dxy": 101.19
   },
   "daily": {
-    "spx": 0.19,
+    "spx": 0.36,
     "kospi": -0.75,
     "nikkei": 1.94,
     "krw": -0.44,
-    "dxy": -0.2,
-    "gold": 1,
-    "wti": 2.16,
-    "vix": -0.81
+    "dxy": -0.18,
+    "gold": 0.77,
+    "wti": 1.88,
+    "vix": -1.68
   },
   "news": [
     {
+      "t": "독일 9월 소비자물가 3.3％↑…ECB 금리인상 압박",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DeWJIZjA4ZHE0YkpXVWw4dTQ1cVNObS1EOXZscXNmYlEwWUxlbkhQQ01KUkdlRGE4SEtGRmZNS0tSOXpaU1EwTHJkZHIxRFE5ZEVvYVpyalBTX0HSAWBBVV95cUxOSVd2M3NwMW5HUHBPMXk5Q0hDd3pwSXByQXZzb2NMNXJlR0Z5c0pZSUpTYmdNS0dQekpoSV9YcFpQY3dzWmxRak1pdDZwWjhpTWxibGtWU2lIc0tKNnNhY1A?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-09-30T13:43:10+00:00"
+    },
+    {
+      "t": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSjFVazkxNUNJdFFPQ2U2aXV5Z2pYM2VqdVZERE9CTk5XRG5TZEZybEp6NU05dzJ0Uk43aHQwUVpDaUcxY0RuSkRpdDhmMVBnT1lIdUZsVVNzQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T13:37:07+00:00"
+    },
+    {
+      "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 물가 둔화에 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpVFNSWFFXVk5xMFpLajBmVmVvR0QxLUF3MFFPc29tc3NoS1BIWWtzcElneG1fWEJpLTdsNmhhZkhoUkx0VGRrRHpVejkwZXNHckdFMWxIOVJ3SnU0?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-09-30T13:30:00+00:00"
+    },
+    {
+      "t": "연준, 스트레스 테스트 변경 확정…투명성 강화 목표",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VZjFpeklnbk53TXp5bm9mMHB0bC1tOC1BbnlpckZxclNVTDlGanA5QUZYMS1BOG96V2NFaS16THhIeDJTQlhDR1QwYzEtLWNHSXhxQXZkYXNzY0VyZkxLdWdLZk05LXltMjhtSm5ZV1dyMDk0Qmxv?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T13:29:00+00:00"
+    },
+    {
+      "t": "美 8월 PCE 물가 3.4% 상승…예상치 밑돌았다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBTnZnMkhtVHhHVGNUYnYxU2xhWm9FWjBlb2RKQXFUUU1lSmJFSGtJWG1hVnV0VE5XOTdQM0ptbUlkRDhQQmhtbDl4Yk1uWHhXcHJpUkJCLURQZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-09-30T13:12:30+00:00"
+    },
+    {
       "t": "美 8월 물가 예상보다 덜 올랐다…연준 금리인상 부담 완화(종합)",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0weWhBd1llUXhINmVGVnViNVlyNWlxa2swOFAySmM4Q0VYN0J0dmJZUEtWYmE1dGhjRkxrLVpYaVdLLVhiMUNVX3RralcwSDNkcmxLdlhXdmXSAV5BVV95cUxOV09OQTZvUTBzUXZEajRBYlY5RjhCalVuWVljU1lSeGhYa29wWmZzZ0ZfQlp2RDZpc0dGOUc5NnZQbGtjZXFzSmxncl8xZDBHa1dhYzAzUGpxRVNGMWpR?oc=5",
-      "s": "뉴스1",
+      "s": "news1.kr",
       "d": "2026-09-30T13:07:55+00:00"
     },
     {
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhVUFLUXR1d3BXS2QzQ0JZWF9JaWlCY3F1VTB5SUZnRGFxTFlCRHFBc28zbWNDU0EzM3g4ZGlaQ2VjSWp0amVxc3M1V0xoMWdTMnl1eUY0NHBQR1c1WkI2TGhmS3pnWTA?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-30T12:52:00+00:00"
-    },
-    {
-      "t": "중동 원유 수출이 회복됐는데도 유가가 높은 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqUy13YkdnaDY2Y19wc1ZETlZJeGoybUltUDE0OU1qZ25YNEtDYmJjSGU0V3lfb01vQTBQUG9iMXI0aDRCNXRTdHBWZUZaT1o4NC1VRmxfd0FyUnVYc1J6anhaUFRXYmRJQ2tfUDl0dw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T12:20:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybWFSX01mVnpTWmp0SGl5S003eXFPRzVnT0N5M2lIZU1RZXNpSS0ydElOWTRWUjA3cjVsMjVxbnA2SjFUQTdWSFdhVnNRdVNfcFFGRkJqWjhZOGhi?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-09-30T12:15:00+00:00"
-    },
-    {
-      "t": "코스피, 美금리 부담에 사흘째 하락…\"10월 반도체 실적 주목\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YWTVuTldVQWp2V3ZLVm9WTHEtdzhIcGFmSENrWVNzcUxra1c1VnRXQjh0ZmszQmdPWVFCajlWNmlsTV9QY3ZJazRRdmJHZ1RwRTNVclJzTl92SzZFVjlYNVA3UzVXcm8?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-30T12:09:00+00:00"
-    },
-    {
-      "t": "미국 모기지 금리, 3년 만에 최고치인 7.3% 기록",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XaUVTQ3ZzNVhEYU9jOUFJaWx5VU13NU96Z0hSWFBZVmNWSlE0V0R2cGJvQVduTTZpa2dQRmRVRGpjQXE4ejQ0N1B1V19EMVZzWGlkUFRKb1NtOXE0Yl9WNHZveUdqdHpOckE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-09-30T12:07:00+00:00"
-    },
-    {
-      "t": "증시 하락에 국민연금 수익률 한 달 새 12%p 급락…수익금도 182조 감소",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qWVMtZTExTUJVMGhnbXFoUDExMXVqalg1MkRpaFV3X2xNZHRmZWtKeGtqa3ZWclZCdXNGMEIzcGVHcXV2bTFFMG50RTFSQ24tdDh0N2t4WDk3MFFkc3FFek5KRmFaZEE?oc=5",
-      "s": "한겨레",
-      "d": "2026-09-30T11:56:00+00:00"
     }
   ],
   "asof": {},
