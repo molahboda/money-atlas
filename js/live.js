@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T16:00:25+00:00",
-  "quotesAt": "2026-09-30T16:00:25+00:00",
-  "newsAt": "2026-09-30T16:00:25+00:00",
+  "fetchedAt": "2026-09-30T16:15:17+00:00",
+  "quotesAt": "2026-09-30T16:15:17+00:00",
+  "newsAt": "2026-09-30T16:15:17+00:00",
   "quotes": {
     "kospi": 6838.04,
-    "spx": 7714.16,
+    "spx": 7718.15,
     "nikkei": 66753.72,
-    "vix": 15.89,
-    "krw": 1355.69,
-    "gold": 4192,
-    "wti": 91.53,
-    "dxy": 101.3
+    "vix": 15.86,
+    "krw": 1355.89,
+    "gold": 4191.5,
+    "wti": 91.41,
+    "dxy": 101.41
   },
   "daily": {
-    "spx": 0.4,
+    "spx": 0.45,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.28,
-    "dxy": -0.07,
-    "gold": 0.29,
-    "wti": 2.41,
-    "vix": -0.94
+    "krw": -0.27,
+    "dxy": 0.04,
+    "gold": 0.28,
+    "wti": 2.27,
+    "vix": -1.12
   },
   "news": [
     {
+      "t": "국제유가 다시 상승…美·이란 협상 교착에 WTI 90달러",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEVBZmpIWEIxS0xQVHZ1SXpjNmtDb0ZCWjdfSFZ1UEVyaGJPQnBRa3ZRRnI1eTc4Y0lJQjNmWW5pazJENFRkWVZqQVl2X2NGLWxzZVJBSENNbHhHWTZBRS1yemJYZTFIM18wTVRzVnh6a180TEZWc3I1R2ZFRGUxV1poV1FIc1Nj?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 9월 30일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREtRZHJXTTBxRTlJRlNGcEJtcmNweWFpa28xeGZvMmM5QkJHaDIzSkplUndteFQ1M0RVS3FVUGN3QThHM0VPbDY0UTIxemt4Sk95OE82bjlfcVZYOXozcjM4aktQMWtFYkRZOHVMLTM0bHlxUF9PMjRpdGdoUUt2RmZwNW9seXot0gGcAUFVX3lxTE5uaE8xYXlTSk1Id0ktakpvYjRnenVQS2QwODExeUhLLTV3MS1ZYWE1WnpLRVo2TlVqM2FGVlhJVGZWajFlMV9QUW1OeGQyOUFaajI4YTZUclZLZ1BzU1VTS2hub3JaVld0Z19CQUpPWXpoYmUwMklRaER0UHJKVjhwbVl4WUlNNVNUQjRmZDBSZE1mOWw4U2syUnZQcA?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-09-30T15:35:00+00:00"
+    },
+    {
       "t": "반도체·증시 호황에… 올해 초과 세수 88조",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXNrTkk3Tk1vSkxUbmtBNUtHSXpsdmowU1M5dl9iWERiNUg4N3RjQzFKUlZZcVhjUEYwa3k5N0VMSU5ZaUhjNjFYQXZMM0dmZGFIbVJ0NHdBZkloVHZVUVl4RGJhNlJRZE5YcWo3MTExSmdhRmhVcHktb0hnOXlnSUYyMTdHdkh6Y2dUZ0RR?oc=5",
-      "s": "조선일보",
-      "d": "2026-09-30T15:32:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3Q3N3ZGd4OTl2VTNFUTVQZjhWc1dhMXdKV1NmejdVOG90VUY4YXpTVnl1eXBpV3lUSEdMZTU2UUNJT1AzRnk5aUV6bGJGaDg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T15:34:00+00:00"
+    },
+    {
+      "t": "유가 폭탄 덮으려는 '안보 쇼'?...호르무즈 걷어차고 '핵' 베팅",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTnUwSUxjZWFtbXVmUUJrOXU2NG5CeExzd21EOFlpOWdBM0tKOC04cWhDSmNVYmFwWmg1aWgtQXZZWVFPT0hRWTd0Q2VWYkRmUnVpSFE3UFdNZEMxZFA3bVo3dw?oc=5",
+      "s": "YTN",
+      "d": "2026-09-30T15:25:00+00:00"
     },
     {
       "t": "모잠비크, 인플레이션·성장 위험 속 기준금리 9.25% 동결",
@@ -61,28 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-09-30T15:01:38+00:00"
     },
     {
-      "t": "美 10월 금리동결 확률 '49%→65%' 껑충…예상 밑돈 8월 물가 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vc3hidGhGbGNXX19meHFYUVNZMmlmU3BneGR2d2dIazRMakl1RjBwRnNwQjJoamdaQ1JOMXlSdVZGVzkxQnhJYlVqR3hXVjZhaFlYeVY0dmJzd0JzbUxOMXJfMVhLNTRk0gFuQVVfeXFMTjR2eWw4Zkt5RkpnanVGOHlKRk5CU1RSVVAzZmJEaU1MUHgzWFVQVktpWFdCdGVsVk9Lc2k1eDV5YURNV2hLR19LYmNoRFpMMXgtNWtBcm1rS2R0U2ZKUFd6MDVxLUxrQ0JrSXdzTXc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-09-30T14:49:48+00:00"
-    },
-    {
-      "t": "국채금리도 레버리지 세력?…고공행진 이유 있었다 [박신영의 개장전 요것만]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EdHpMV0Rub3Z4QXJNSzh6XzBiVHEzVDZUaFVsalQ4clU3V3YwVGZkcWZTTUphc3prUTBPQWtxeklva3NIdFJ3NWhtZklJRGpBN0ZtNDdORkVkZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T14:49:01+00:00"
-    },
-    {
-      "t": "“이란전쟁 소풍 끝나면 유가 정상화”…금리발작 못본체하는 트럼프",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4weFBfMnFLa25yMFo3OGVLdVJ0U0RCSDBpYjVQTGpTTVdlRUlkYlF5NWJQaG5tZVBZTUVMd25UWDFWYnpwOFRweFJ0Qm5SSVE?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T14:39:01+00:00"
-    },
-    {
-      "t": "미 국채 10년물 금리, 美 인플레 예상보다 낮자 3bp 떨어져…5.201%서 거래",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFcVQ0NVlWRi1vUmJQX0R4d0dja0xhNUNyWXBqb3psempzQ0tPalJsblM4SV9zR2tMT3I3U3JUaC1RVFh6bEVVcG9pZER6aHhTLW5jMmJDTVRuZE1kalJQN1lJb1drVU9GTXVEUHd4enrSAXRBVV95cUxQUG9wTnB2S1hiVC16ek5QbVpDVlNWMVR5VTJzMEJFM1NjdHJoNmhJVlp3dW5IMjlkSFd6ZWw2UEZ6WDR4Tnp4aFJWWVV3bXN2VExSZloxTlpyQ1lrNUkzeTRfY2VHOHpNZTh1UFJ5QnQyRlprbA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-09-30T14:33:58+00:00"
+      "t": "[김대호 진단] 반도체열전 (59) HBM... SK하닉 vs 삼성전자",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGxRTUxjcE00WEYyOE95M2k1a09mMVdHNzhoR2RBWDYyNDkzc3dVNjNYN2VST0JIN3NyZVhMMWtaNnJWRFlzSlByZDRzZHd3R0VpSzlvb3pIZDNwZEkyZDBrSWd6cjNTM3V1VFZfM0x3c2QxbE91SGpGYjR4RjBWbF9vNGk?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-09-30T15:00:00+00:00"
     }
   ],
   "asof": {},
