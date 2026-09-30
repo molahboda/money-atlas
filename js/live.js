@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T04:00:18+00:00",
-  "quotesAt": "2026-09-30T04:00:18+00:00",
-  "newsAt": "2026-09-30T04:00:18+00:00",
+  "fetchedAt": "2026-09-30T04:15:13+00:00",
+  "quotesAt": "2026-09-30T04:15:13+00:00",
+  "newsAt": "2026-09-30T04:15:13+00:00",
   "quotes": {
-    "kospi": 6857.82,
+    "kospi": 6859.01,
     "spx": 7670.84,
-    "nikkei": 66530.37,
+    "nikkei": 66595.07,
     "vix": 16.04,
-    "krw": 1355.01,
-    "gold": 4204.8,
+    "krw": 1356.67,
+    "gold": 4207.9,
     "wti": 89.76,
-    "dxy": 101.41
+    "dxy": 101.4
   },
   "daily": {
     "spx": -0.94,
-    "kospi": -0.46,
-    "nikkei": 1.6,
-    "krw": -0.33,
-    "dxy": 0.04,
-    "gold": 0.6,
+    "kospi": -0.45,
+    "nikkei": 1.7,
+    "krw": -0.21,
+    "dxy": 0.03,
+    "gold": 0.67,
     "wti": 0.43,
     "vix": -0.19
   },
   "news": [
+    {
+      "t": "美 국채금리 상승 1차 원인은 고유가? 경기 호황?",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkRWZndPWkdhRlZ2dTdLZDJieHU4b1IwR2pfSEROS0NrcFcxc2xuMUx0bkxhcWVQQ1VkZGlCaXBUaGsyS1FUUE9LOVM4YlVjbDl5Z2hNUXNLRjVUVHVxX1ZRdjE2VFVZTGYyQlZaTjVEbXBXMTF5NUhsZ3ZWaVFvZU5ZVHJaSkhpZGZGdnF3?oc=5",
+      "s": "조선일보",
+      "d": "2026-09-30T04:09:16+00:00"
+    },
+    {
+      "t": "삼전닉스 급락에 된서리 맞은 후… 어느 반도체 장비업체의 ‘뒷심’ [시크한 분석]",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQllWNGYtUmlxWlFzLXV4RjZubTlsbFZlVUpQbDE3Rnpfc21mNUFrbzJqVkl1UWZyZ1JIQllHWFh5aVhqYkRYNXIzdHhQRk12NjVHT3NmeXFOSHZHQmlKWTZWSjhDNm5HVHJXam5B?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-09-30T04:04:28+00:00"
+    },
     {
       "t": "美 국채금리 5% 돌파에 달러 강세",
       "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NWUoyUjhVV1VfRTdsbWJnMnA5dDdkakNOeEpvdkM2X2YtaEI1Yi02Z3VnemsxeG1xSE9LR0tsbHZhNmlMZ1hhQVduZw?oc=5",
@@ -57,7 +69,7 @@ window.LIVE_DATA = {
     {
       "t": "지난달 주담대 금리 상승...3년 9개월 만에 최고치",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yRWszbG9MYkZnTUYxLXlFaHQtOU1abE5sS0xxNnZLdjdFQkNocmlEMEJfcG4xVFduOEFVNlF2S2lSWXMyS1lDa20wZEFwZm1lcXdodDM0aEprc1ZXTHc?oc=5",
-      "s": "ytn.co.kr",
+      "s": "YTN",
       "d": "2026-09-30T03:23:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wWTJ1RVNFakdhaWhnLXRJU1VLTmJiSy1URjBySk54RjJrOUlPVXdteGxDeFJSbzhXVlRkV1lIYklnbnJOQUlZb01taldVRzhQc1d6NXdTQnZmTjNXRjhZV0tVTWhRb1k?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-09-30T03:10:00+00:00"
-    },
-    {
-      "t": "주담대 금리 45개월 만에 최고… 신용대출은 20개월 만에 6% 돌파 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUQ1WURsTXFpU1ZhU0gwQjFMaVR2cDh5bUg1ZGhMZzRTU2FrV1ZTNnItZUN4eEZrbUR6eURSODR5dmo2eDExZEtKQXFTTDhYTVVJcnBoWXJLRTdfRTNwTnZscGFEWS13cG9qdDlqUEY5bGd5N0NRRkQwdjZ0TnFvbV92dDN1UdIBmgFBVV95cUxPYk4zaHMyYVVnLUdRam54QlVKMmx5MFBiT3JjLXZOUXZzZnZnWkNGeEdTSnhKSV8zeUItUE1ZWUdFTHVMN19kVk1kcERfRDNVa2VkRHVGRWI4a1M0MHZZWEZsaHJRNDlmUWdNeHdPd1dUWkxzQy01VktLR1Z5MEZaa1o4VUQ5dF9aS3B5bWdHTU5SV3VLSjhwbTVB?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-09-30T03:09:07+00:00"
-    },
-    {
-      "t": "8월 신용대출 금리 연6% 돌파…2년7개월 만에 최고치",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83NUpyTzZoMWdwN3g4ajcydFhKblR4QkZjVzRzOU1sMy0wVWlrRC1PcEdEOFRYWUYySzAyUlg5NnRiWHM4cThwVV95UTBqZTQ?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T03:09:00+00:00"
     }
   ],
   "asof": {},
