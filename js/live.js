@@ -1,33 +1,45 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-09-30T10:15:11+00:00",
-  "quotesAt": "2026-09-30T10:15:11+00:00",
-  "newsAt": "2026-09-30T10:15:11+00:00",
+  "fetchedAt": "2026-09-30T10:30:13+00:00",
+  "quotesAt": "2026-09-30T10:30:13+00:00",
+  "newsAt": "2026-09-30T10:30:13+00:00",
   "quotes": {
     "kospi": 6838.04,
     "spx": 7670.84,
     "nikkei": 66753.72,
-    "vix": 15.98,
-    "krw": 1354.18,
-    "gold": 4221.7,
-    "wti": 90.21,
-    "dxy": 101.18
+    "vix": 16.07,
+    "krw": 1354.26,
+    "gold": 4217.4,
+    "wti": 90.4,
+    "dxy": 101.2
   },
   "daily": {
     "spx": -0.94,
     "kospi": -0.75,
     "nikkei": 1.94,
-    "krw": -0.4,
-    "dxy": -0.19,
-    "gold": 1,
-    "wti": 0.93,
-    "vix": -0.37
+    "krw": -0.39,
+    "dxy": -0.17,
+    "gold": 0.9,
+    "wti": 1.14,
+    "vix": 0.19
   },
   "news": [
     {
+      "t": "반도체 호황에…올 국세수입 478조 역대 최대 예측(종합)",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjFscTFKMUlIRV9TM245SGo3U0hqSGxnajhXb2paNUZTcTNwVmVpeUJrSjdVblpjLU5Vbl9SUWNRTlQ4Z24zM0pRbFBOZ2FWUTBtVlcyNTAzYmpxT3g4QUh1ZzVhV2tfQkcwZl9nWGxESlJPUmMxSGo4UWxrbzQ4cjM1cHZEbHpyNVd2Y2hSM1Fram8?oc=5",
+      "s": "국제신문",
+      "d": "2026-09-30T10:23:00+00:00"
+    },
+    {
+      "t": "포르투갈 9월 소비자 물가, 유류비 상승에 3.6%↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CM19ib2dzSEpTejVLVDJhc2dHZDhXZUlwT1Y2QUhEZEpKUGlhZGZuVUNZTldTSVVtNmx4U0VVQjNGT0hBMG41S0g1Qi1RVFhvbGhEUmVXeUJMNUZrNXpudkJwb05qa0lhUTBsZWFsNmU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-09-30T10:17:00+00:00"
+    },
+    {
       "t": "주담대 금리 연 4.66%로 ’껑충’…3년 9개월 만에 최고",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYaTZuY0Zmbk1nR1JzMldCdVhLX3FMUzQ1ZTJjd1VGRnZxb1pQcnNnUUVJLUZVSjJwSmVISDhKQWpFWHNMRnJuQWdaUndPVWpvNnIyRUlSazRWUEhQV1ZRYk5vaHpzSnM?oc=5",
-      "s": "연합뉴스TV",
+      "s": "yonhapnewstv.co.kr",
       "d": "2026-09-30T09:50:00+00:00"
     },
     {
@@ -37,21 +49,21 @@ window.LIVE_DATA = {
       "d": "2026-09-30T09:49:29+00:00"
     },
     {
+      "t": "코스피, 사흘 연속 하락…코스닥은 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OWDd2dTJDYm9xT0VRVVpxYUZkMF95QllBbmh6NnBCN2pOWWwzeGVwbjE1eEpEZXBQa040c2ptd2puYmVMZ1U0M0hEa1prWjg?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-09-30T09:48:11+00:00"
+    },
+    {
       "t": "반도체 호황에 초과세수 63조…미래대응기금 200조 넘길듯",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSUZKV1d2SENTSFp3UmsyVld1WmdQZWhmeDdZRFpJMXhhdUJRYVR4bjVCcmsycVlmamRrQW5qVGszS1QzdTZTYnJob3kwdnBWX0hpcTk5bXJGU1lmbGR6RTdxMllFNDg?oc=5",
-      "s": "연합뉴스TV",
+      "s": "yonhapnewstv.co.kr",
       "d": "2026-09-30T09:47:00+00:00"
     },
     {
       "t": "코스피, 사흘 연속 하락…미 국채금리 급등 부담",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCWHh3VU43N1dRYk1xUlN4cVBsd3duTmNyUDhzSUg4amtsZ1o1RW03WmlGYXBuMlluLW9lS3pmQUMycC1qS1hGdTFLNWZHRFJ1b0JIUjVKQTJJa2ZFUXI1Mk9ta28xVTA?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-09-30T09:46:00+00:00"
-    },
-    {
-      "t": "코스피, 사흘 연속 하락…코스닥은 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QVlJiV0JmdGc1YVc1a1NhOExHMFpBbjBMc1hsOTZ0dmZWRVJtRGZEZlVHcXYtOUVRV3VNS2FRa09USUZRaVVCNHg5WHpPeFByVHBGRGdLTFBLaGs?oc=5",
-      "s": "KBS 뉴스",
+      "s": "yonhapnewstv.co.kr",
       "d": "2026-09-30T09:46:00+00:00"
     },
     {
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeE92WEcwZ3dSMl9JWEs5RFpycC1hVlpRcGczZnlmV28waUc4MFl2anlfaVQybXVfWFJHNXZMTW5TSm9iSjZfeDlaYm5VNG81ckFMTUNKYmdVd2FsUHpuSDdodUJBTDBGckw1ck90cFo?oc=5",
       "s": "연합인포맥스",
       "d": "2026-09-30T09:16:02+00:00"
-    },
-    {
-      "t": "美 국채금리 5% 넘는데…10월엔 어떤 종목 사야할까",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85SjdlcXZqNkVhelllbmdjb0hZbU5NYTlJVTQ5OGlZX0pxRzVvS25OdXpfa2ZZM1E4MVBQTkxNMF82U2tpQ0Joc0E0dVNaaFk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-09-30T09:12:00+00:00"
-    },
-    {
-      "t": "'코로나 긴축' 닮아가는 글로벌 금리…韓도 年3.5% 갈까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tcmp0RDhESlJPQVFlaE9QTDUyREZ5TXNDMmhCV1hFc0NfOUg4RWJ6NFpQM25LYzRLcExFZ0NPSW9feW5tZ3VmSG1vMVFmcUt1SmRidVoxUmxZdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-09-30T09:11:13+00:00"
     }
   ],
   "asof": {},
