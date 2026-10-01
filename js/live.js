@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-01T16:30:16+00:00",
-  "quotesAt": "2026-10-01T16:30:16+00:00",
-  "newsAt": "2026-10-01T16:30:16+00:00",
+  "fetchedAt": "2026-10-01T16:45:12+00:00",
+  "quotesAt": "2026-10-01T16:45:12+00:00",
+  "newsAt": "2026-10-01T16:45:12+00:00",
   "quotes": {
     "kospi": 6971.35,
-    "spx": 7642.24,
+    "spx": 7648.49,
     "nikkei": 68956.72,
-    "vix": 17.09,
-    "krw": 1363.68,
-    "gold": 4197.8,
-    "wti": 91.82,
-    "dxy": 102.03
+    "vix": 16.98,
+    "krw": 1362.68,
+    "gold": 4199.8,
+    "wti": 91.8,
+    "dxy": 102.08
   },
   "daily": {
-    "spx": -0.37,
+    "spx": -0.29,
     "kospi": 1.46,
     "nikkei": 3.3,
-    "krw": 0.98,
-    "dxy": 0.58,
-    "gold": 0.27,
-    "wti": 1.55,
-    "vix": 4.59
+    "krw": 0.9,
+    "dxy": 0.62,
+    "gold": 0.31,
+    "wti": 1.53,
+    "vix": 3.92
   },
   "news": [
     {
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-10-01T15:38:57+00:00"
     },
     {
+      "t": "뉴욕증시, 국채금리 급등에 하락 출발…브렌트유 3% 상승세",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jVlg2SXJpNlJZdl9kUTFTenF1SzJfeDM3THYxOGVHZ0RwV1NuamFZTFptemtGVmFXMGFlc2I3RVprVGI2TFp2am11UnpXZnRvOEZoSmlVOXVLS0dacTFsd9IBeEFVX3lxTFBFSHJWNEV0eHluN1Z3UGd5ak1BVTZxa0Q1X183dU9kMnJFT1Z5VU9mcUhVZlg5QjU1QXAxQldjY2dEYXNoOHE0NmgxYmRYYVgzSHY3VzgxaGJONWoxemRUMmNMY0ZiUHZEdnhYN01vUnN4YkE5Uk5BUg?oc=5",
+      "s": "뉴시스",
+      "d": "2026-10-01T15:37:48+00:00"
+    },
+    {
       "t": "5%대 국채에도 美 증시가 버티고 있는 까닭은?",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00YnlwdGxJdU4tUUExM0NhbDNoNG15RGttdnVxMXJBeWZCWDRsX2RMQ1FaY3NCQXNpSDNDdkQwZmNUUmI5VXNyUGVFODh0UEU?oc=5",
       "s": "v.daum.net",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFVDSzFybHhJRVN4WjNFUGhHT0gwZk5BREM1MWtnbDEtYmRET1owYUd2OFhfR1Y5LWZjMDhLTi14NHROMmtDN1BlRHM5N01XWV9URjFpVFBuaU85LTlxRG40a29LVVhveWtPTms5dVdTeUx0eFFUVlRnUFV4ek1qRkpDQUtRWlk40gGcAUFVX3lxTE5zem8yMUlwQkVTcHctOG45RUx5bDZIVEFUNGJZWUhUWmlNN3YyQ3NWNkh3elpidUxUQm41VVVEeWFmUjhVSmd5WXNBV0F4Q1hHOEw4dTJyb1RVNS1Cb3d0NkRuTGtnX0tlUkVJdWFIOFFQWGRSQnc2aDdyMmJEWmphVE9oNVZVZUtQejdGaXJNWHdYVUYxUTlGX3AtSQ?oc=5",
       "s": "Chosunbiz",
       "d": "2026-10-01T15:36:00+00:00"
-    },
-    {
-      "t": "“판교신도시 규모 논밭, 3년뒤엔 반도체 팹으로”",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWFRDb1NVSU4wLW9qQXNYNUFkbk9IWjBLMUZ6TkJFUHBJWDZHcmEyM21ZTjc5blNVSTd4WkxnY25TbDJqaDNHUzVUN3ZaSmM?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-10-01T15:33:15+00:00"
     }
   ],
   "asof": {},
