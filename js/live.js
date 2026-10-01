@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-01T16:00:29+00:00",
-  "quotesAt": "2026-10-01T16:00:29+00:00",
-  "newsAt": "2026-10-01T16:00:29+00:00",
+  "fetchedAt": "2026-10-01T16:15:14+00:00",
+  "quotesAt": "2026-10-01T16:15:14+00:00",
+  "newsAt": "2026-10-01T16:15:14+00:00",
   "quotes": {
     "kospi": 6971.35,
-    "spx": 7632.4,
+    "spx": 7635.45,
     "nikkei": 68956.72,
-    "vix": 17.37,
-    "krw": 1364.98,
-    "gold": 4194.1,
-    "wti": 92.95,
-    "dxy": 102.08
+    "vix": 17.1,
+    "krw": 1363.38,
+    "gold": 4201.4,
+    "wti": 92.34,
+    "dxy": 102.06
   },
   "daily": {
-    "spx": -0.5,
+    "spx": -0.46,
     "kospi": 1.46,
     "nikkei": 3.3,
-    "krw": 1.07,
-    "dxy": 0.62,
-    "gold": 0.18,
-    "wti": 2.8,
-    "vix": 6.3
+    "krw": 0.95,
+    "dxy": 0.6,
+    "gold": 0.35,
+    "wti": 2.12,
+    "vix": 4.65
   },
   "news": [
     {
-      "t": "[뉴욕증시] 물가 둔화 속 장기금리 부담에 혼조세…다우 0.86%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xVTZxQm9JSE9XQmUwMS1vNVJ5Vjl6WkFFU0loUjNiaEJUV1hhbjBxalp1elBZbXEwb3hmdVYtZTF6a0I0ekhPanRKYkprLXFoNE44bklxUUlpbGM2ODlKWVpyaDhoc2FoSHM5LVJySS0?oc=5",
-      "s": "신아일보",
-      "d": "2026-09-30T23:21:16+00:00"
+      "t": "미니애폴리스 연은 총재 \"금리 얼마나 올려야 할지는 몰라\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FNGtQM29fM3d5ME9kcnh2MDRoa2dxQjRkV1lValhzVGRlQmhzRlo3TGR5QjhfVkFvX2RnSnQ4LV9BVHNCZ2pGMG1sTElTZFZaQnpRYTY4cVBUUnJ5NE01Yg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-01T16:08:11+00:00"
     },
     {
-      "t": "[뉴욕마켓워치] 10월 금리인상 베팅은 약해졌지만…달러↑주식·채권 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PVnNoaWxjM0I3WUNHZHJSRkhVQkgtZk14Z2tSRk9QY2tRR2ZZY0JxWUF6WlZ2b3d6a2laSkVJbWpoQURDOE9Zbi1PdUZRMVhzbU9WY0NTWG02RTlSUkxjRFVPOVJxakFMVTN0Si14Q0E?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-30T23:18:35+00:00"
+      "t": "미국 모기지 금리 7.28%로 급등, 2023년 10월 이후 최고치",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Tm9jYlY0LUpHQnBZZXZ3bU5GajZkNnN0YWxBZVZTWndwWmxmNUdfOGxNWHFmMlNYVmdhYWpuNXA0ZzlabVpuRHQ1WGhGaXBBYndnaEZQaGE5MmdkZGNZUjBIMEdiU0lndEk3QldTNlQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-01T16:04:00+00:00"
     },
     {
-      "t": "미 국채금리 5.3% 돌파…마이크론 호실적, 코스피 반등 이끌까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vV190R0NvdmtBeC1jNmtqVTNWMFBMMnh3RkRIUUtqS3QyVHd5WlR1SEVMWS1pN2NtUU16SjlZSHdSOUVlb2JoRkJfdHJGel8xZkJNTFcyUmFNQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-09-30T23:18:00+00:00"
-    },
-    {
-      "t": "구미 LB세미콘 \"전력 반도체 후공정 라인 증설\"...협약 체결",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3pmNTNLMWdJR084LW1KTGxqZWhzM2ZJTGRab1ptbHpkT21MX25YWWlBUDhjMl9vRG9jcUN4dW1GQU1saUpkTENqY2I1SENwRmt0SC1teGdPY1ZOa0NDaEtFMHVIck9hU2VETW82VUlzTkFkb1pjTUhMd2xoakY0WGRhU1ZJUQ?oc=5",
-      "s": "Tbc.co.kr",
-      "d": "2026-09-30T23:13:02+00:00"
-    },
-    {
-      "t": "마이크론도 어김없이 어닝 서프라이즈…증시 이끌 월가 선호주는",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bDVETG5zRnRoTFlWVlNwcXZjVUF6QURJdHc4MEJ3ZmFMUTV5OGJpU2J4bzRCcTQ0cHhybElwRFpIRnIzQWZxaEVmQ01PWUEzb3pVZVRNSU5CMGQ5UERoN0dGbnpQMEZ0MVczWk9GNWE?oc=5",
-      "s": "news.einfomax.co.kr",
-      "d": "2026-09-30T23:11:05+00:00"
-    },
-    {
-      "t": "[굿모닝 증시]美 혼조세에도 韓 마이크론·수출 기대감에 반등 예상",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BaWFoNU9TZ1ZRckZRVjdvdFdvYzBzYlNFYlBpSE1uNEdjeW1sRTVTOGdydFlrWUJrY0RFNm5uWW5CS0JnQUJkcU9qNzJ2dFU?oc=5",
+      "t": "반도체 덕에 월수출 사상 첫 1200억달러 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wTVhpN1FOOHh3SHZ4am5lRkdhb184SUtKZnphbGM4S3Q1Rm9DeHFMc2xwUVRLak91MDJtcVJhV1JuVkVDYWtVUk14LUVPTDQ?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-30T23:08:57+00:00"
+      "d": "2026-10-01T15:46:05+00:00"
     },
     {
-      "t": "미니애폴리스 연은 총재 \"올해 추가 한 차례 더 금리 인상\"(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vbHpUMjZadVhQZy1kTXJNc1RrX2dIN1ZkSXNZRUowQTRaR2xJTlBHeDZxdGU3aktZd1N6RkdFRzlmSE00UTE1MDBJZ3Z2a0o3WG5OSk5iYkx0Ni1sal9mb3dESkUzN3huWUlIb0pFMTVQdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-09-30T23:07:30+00:00"
+      "t": "영국 30년물 국채 금리 장중 6％ 돌파…G7서 14년만에 처음",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWkZoZ0s0aTJjOWh4bEJTUUxwdFRBZ1RfYk5IeU9XaGxrLUY5YXRXM1d6QXM4SFZsa0RvUWhUT2U5cHc4YlN4RG9NZTFkSjVPb202QTBLbnZaaGvSAWBBVV95cUxOeFdFSGJJSEQzekt1S0tCT0dUSktWWEU4cGJLZ2NIQktqYndWeENDWFF2Y3J2Z2h2NDF4LTdGckdWYmQzajVQRHo3NWtaQ3RTX0J4WXdOcEozeF9oMnJGU1A?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-01T15:40:17+00:00"
     },
     {
-      "t": "반도체 호황에 세수 '역대 최대'...미래기금 200조 넘을 수도 [이슈톺]",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YTlNobWZZNjZxVlhiY01OazVHTHJBekRVTmlnMEM3QWdPYVZndnlabEgyVUd4RmtQYnJLbWtEYnRCeHNreXhqeFRkMlJVcC1tdTRITmZmNFBqNmxhNmc?oc=5",
-      "s": "YTN",
-      "d": "2026-09-30T23:05:00+00:00"
+      "t": "'매파' BOE 정책위원 \"금리 인상해 신뢰성 유지해야\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCQzNwaHRPSFFhbEU0SnpPOXpRclZrZDdkaklCeWlZVEVHa3V6eFNEUUNCYzNELVItUnVuci03ZXhEZ1RBRzgyNzY5M0pXMENzR1JpRVhUVnZWUGZDRnBLN2Vlb090bHYwdERlcHBZcUY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-01T15:39:27+00:00"
     },
     {
-      "t": "[마켓뷰] 美금리 악재·마이크론 호실적…코스피 반등하나",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhYXo4WlNleVBkdWhPSVJmZHJhdTFiaHpETTAydjQyU2t4bWxOS1FKVnBFVUM0Z2pzczA2bm1VN2hSWUNpRlBFRjZCWVQ4ZkE?oc=5",
+      "t": "美 국채, 연준 인사 연설 대기하며 '스티프닝'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51dFZBWHFFU182SnlrUjRtVHV5SHVlY0NkXzJjUjhoZzY3UTl6d2M1WFRRdDc5Ty0xdzN6a2VXdk1YdUhldjBDWmRiQ2MyT0Q1ZXkwbkJGYlhIWUNLRkJpV05rYndQWEJuNHQwdy16N2Q?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-01T15:38:57+00:00"
+    },
+    {
+      "t": "5%대 국채에도 美 증시가 버티고 있는 까닭은?",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00YnlwdGxJdU4tUUExM0NhbDNoNG15RGttdnVxMXJBeWZCWDRsX2RMQ1FaY3NCQXNpSDNDdkQwZmNUUmI5VXNyUGVFODh0UEU?oc=5",
       "s": "v.daum.net",
-      "d": "2026-09-30T23:03:47+00:00"
+      "d": "2026-10-01T15:37:15+00:00"
     },
     {
-      "t": "원·달러 환율, 1355.7원…달러, 고용지표 호조에 강세 전망",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82RHVmcjBWRWd4dGxlcE1QNTJJcWJWMmc4VjRRU3h6OEhLRDdRNWFZbWRtWW8wYjZoX3E1UHhGNG03TXU5Z3FHMExDazlHd0V5Y0JLRlhNZ3NfTjc2WVFRcnltTjY4U28xS0dSU1dOUQ?oc=5",
-      "s": "joseilbo.com",
-      "d": "2026-09-30T23:03:13+00:00"
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 10월 1일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFVDSzFybHhJRVN4WjNFUGhHT0gwZk5BREM1MWtnbDEtYmRET1owYUd2OFhfR1Y5LWZjMDhLTi14NHROMmtDN1BlRHM5N01XWV9URjFpVFBuaU85LTlxRG40a29LVVhveWtPTms5dVdTeUx0eFFUVlRnUFV4ek1qRkpDQUtRWlk40gGcAUFVX3lxTE5zem8yMUlwQkVTcHctOG45RUx5bDZIVEFUNGJZWUhUWmlNN3YyQ3NWNkh3elpidUxUQm41VVVEeWFmUjhVSmd5WXNBV0F4Q1hHOEw4dTJyb1RVNS1Cb3d0NkRuTGtnX0tlUkVJdWFIOFFQWGRSQnc2aDdyMmJEWmphVE9oNVZVZUtQejdGaXJNWHdYVUYxUTlGX3AtSQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-01T15:36:00+00:00"
+    },
+    {
+      "t": "“판교신도시 규모 논밭, 3년뒤엔 반도체 팹으로”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWFRDb1NVSU4wLW9qQXNYNUFkbk9IWjBLMUZ6TkJFUHBJWDZHcmEyM21ZTjc5blNVSTd4WkxnY25TbDJqaDNHUzVUN3ZaSmM?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-10-01T15:33:15+00:00"
+    },
+    {
+      "t": "‘반도체 풍향계’ 마이크론, 영업익 1097% 증가한 59조원",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55NjJqeFVKZ2dwMlhoaFBzVkY3YnFqZE1VRFBVTXFGUVN3TDJJc2pqdnJjV2NLQzNmNnhUbWFuTDkwYk1JcE1RSHI0ZVc0N3M?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-10-01T15:33:01+00:00"
     }
   ],
   "asof": {},
