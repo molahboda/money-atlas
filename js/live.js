@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-01T16:15:14+00:00",
-  "quotesAt": "2026-10-01T16:15:14+00:00",
-  "newsAt": "2026-10-01T16:15:14+00:00",
+  "fetchedAt": "2026-10-01T16:30:16+00:00",
+  "quotesAt": "2026-10-01T16:30:16+00:00",
+  "newsAt": "2026-10-01T16:30:16+00:00",
   "quotes": {
     "kospi": 6971.35,
-    "spx": 7635.45,
+    "spx": 7642.24,
     "nikkei": 68956.72,
-    "vix": 17.1,
-    "krw": 1363.38,
-    "gold": 4201.4,
-    "wti": 92.34,
-    "dxy": 102.06
+    "vix": 17.09,
+    "krw": 1363.68,
+    "gold": 4197.8,
+    "wti": 91.82,
+    "dxy": 102.03
   },
   "daily": {
-    "spx": -0.46,
+    "spx": -0.37,
     "kospi": 1.46,
     "nikkei": 3.3,
-    "krw": 0.95,
-    "dxy": 0.6,
-    "gold": 0.35,
-    "wti": 2.12,
-    "vix": 4.65
+    "krw": 0.98,
+    "dxy": 0.58,
+    "gold": 0.27,
+    "wti": 1.55,
+    "vix": 4.59
   },
   "news": [
     {
@@ -47,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWkZoZ0s0aTJjOWh4bEJTUUxwdFRBZ1RfYk5IeU9XaGxrLUY5YXRXM1d6QXM4SFZsa0RvUWhUT2U5cHc4YlN4RG9NZTFkSjVPb202QTBLbnZaaGvSAWBBVV95cUxOeFdFSGJJSEQzekt1S0tCT0dUSktWWEU4cGJLZ2NIQktqYndWeENDWFF2Y3J2Z2h2NDF4LTdGckdWYmQzajVQRHo3NWtaQ3RTX0J4WXdOcEozeF9oMnJGU1A?oc=5",
       "s": "연합뉴스",
       "d": "2026-10-01T15:40:17+00:00"
+    },
+    {
+      "t": "美 10년물 금리 24년 만에 최고…글로벌 국채 매도세 가속",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkQkYxNHpUS1k3LThKZXVpQTJ1d05nT1RXRVVuUkRtVFg3VjBEcXA4WjZMY05WRlY3alRqeGFFTnNuTV8wekJBdElObFJwNjZCaGpUbEhWRElsTWxCQjdxRTR0dFpzLWNs0gFsQVVfeXFMUGNXcXFlMW5nZmYzbEhObnEwRTJEUGxhWTFjVFFIOWwtT0VyNDdkTlhMUzA0cS1TdzhwSzdUaDdZZHMzenF0SDdPU250Z0JXVkJ1b1pxOUNxd0tYTDN0dVNYR2ozZnctWkMza1Bw?oc=5",
+      "s": "bloter.net",
+      "d": "2026-10-01T15:40:00+00:00"
     },
     {
       "t": "'매파' BOE 정책위원 \"금리 인상해 신뢰성 유지해야\"",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VWFRDb1NVSU4wLW9qQXNYNUFkbk9IWjBLMUZ6TkJFUHBJWDZHcmEyM21ZTjc5blNVSTd4WkxnY25TbDJqaDNHUzVUN3ZaSmM?oc=5",
       "s": "v.daum.net",
       "d": "2026-10-01T15:33:15+00:00"
-    },
-    {
-      "t": "‘반도체 풍향계’ 마이크론, 영업익 1097% 증가한 59조원",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55NjJqeFVKZ2dwMlhoaFBzVkY3YnFqZE1VRFBVTXFGUVN3TDJJc2pqdnJjV2NLQzNmNnhUbWFuTDkwYk1JcE1RSHI0ZVc0N3M?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-10-01T15:33:01+00:00"
     }
   ],
   "asof": {},
