@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-02T18:45:13+00:00",
-  "quotesAt": "2026-10-02T18:45:13+00:00",
-  "newsAt": "2026-10-02T18:45:13+00:00",
+  "fetchedAt": "2026-10-02T19:00:15+00:00",
+  "quotesAt": "2026-10-02T19:00:15+00:00",
+  "newsAt": "2026-10-02T19:00:15+00:00",
   "quotes": {
     "kospi": 7003.74,
-    "spx": 7721.04,
+    "spx": 7721.22,
     "nikkei": 68309.46,
-    "vix": 15.59,
-    "krw": 1345.24,
-    "gold": 4168.2,
-    "wti": 91.15,
-    "dxy": 101.94
+    "vix": 15.56,
+    "krw": 1344.81,
+    "gold": 4172.1,
+    "wti": 91.17,
+    "dxy": 101.93
   },
   "daily": {
     "spx": 0.91,
     "kospi": 2.42,
     "nikkei": -0.94,
-    "krw": -0.85,
-    "dxy": -0.15,
-    "gold": -0.81,
-    "wti": -1.85,
-    "vix": -4.88
+    "krw": -0.89,
+    "dxy": -0.17,
+    "gold": -0.72,
+    "wti": -1.83,
+    "vix": -5.06
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRDZsNzByc1dMMV9wT2pxbDltZWtNWk9BODI1TER0QndySnJoVmItZlBUODNxdjNrTTFTSnZ1UllHOEtJOEttTW5Ld2ZWSXRZ?oc=5",
       "s": "블루밍비트",
       "d": "2026-10-02T18:38:41+00:00"
+    },
+    {
+      "t": "10월 금리 인상 확률 70%→25%…연준 핵심 인사들 잇단 ‘신중론’｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZDUyd2hjZ1JobmtMRWlDVk03Z3dFNkRuaHJMVVJMVjJnblNZcDZyaDZncXV2RmVjTVZubDRrQ0lUQWcxQm5iMll3RGttbl9RelluenlSYlBCUWc?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-02T18:31:31+00:00"
     },
     {
       "t": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHBSOWEtOVNLR3JRa0lOS2JxVTNwRHY1b3d6a0V2cnhUN3FnNjJOVHFqa3hMWkFNRWE5WEtJT01pRG93WHUxZTNQb01pRmgySkc0aWd4NnZGMlVXd0g3cHdHUXNvNWlrazB6NGtvRWhYdkFnR2cwa3Q2RGh2UEtES0pWdzRRS0hQ0gGcAUFVX3lxTE5Da0NneUtUZktES1FrZWtCTDFqSWZPRTF0SlNOeWtGZnAtbXNieWlDZmNxWkstQWl3Wm02by1fTGc0d1BUOGVhb3ZLcm1BcDNpSUxlZGVKQktSRS11Z0RkTFBtMXVlb3lSXzk4NURaOGxNeUt3ZnRUX2w0bDIxS1ZqeERqbE9fN01TazdjZkphOW5oLWRzZG9TcnBzMg?oc=5",
       "s": "Chosunbiz",
       "d": "2026-10-02T15:39:00+00:00"
-    },
-    {
-      "t": "[ET포토] 투모로우바이투게더 연준, '가을 발걸음'",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EMEpkX09EeEdsdG5mUWFMQ1BScWVrb082WDltWldxRGt1MjVFWGhkWmJKdE13cHE0S0pBd0ZNQWtIeTNyVnlmTHVEZFpTZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-10-02T15:22:05+00:00"
     }
   ],
   "asof": {},
