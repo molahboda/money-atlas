@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-02T18:15:14+00:00",
-  "quotesAt": "2026-10-02T18:15:14+00:00",
-  "newsAt": "2026-10-02T18:15:14+00:00",
+  "fetchedAt": "2026-10-02T18:30:14+00:00",
+  "quotesAt": "2026-10-02T18:30:14+00:00",
+  "newsAt": "2026-10-02T18:30:14+00:00",
   "quotes": {
     "kospi": 7003.74,
-    "spx": 7719.91,
+    "spx": 7717.85,
     "nikkei": 68309.46,
-    "vix": 15.68,
-    "krw": 1345.34,
-    "gold": 4166.9,
-    "wti": 91.62,
-    "dxy": 101.91
+    "vix": 15.59,
+    "krw": 1345.22,
+    "gold": 4166.6,
+    "wti": 91.92,
+    "dxy": 101.94
   },
   "daily": {
-    "spx": 0.89,
+    "spx": 0.87,
     "kospi": 2.42,
     "nikkei": -0.94,
-    "krw": -0.85,
-    "dxy": -0.19,
-    "gold": -0.84,
-    "wti": -1.35,
-    "vix": -4.33
+    "krw": -0.86,
+    "dxy": -0.16,
+    "gold": -0.85,
+    "wti": -1.02,
+    "vix": -4.88
   },
   "news": [
     {
@@ -68,9 +68,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "치솟는 기름값·장바구니 물가… 살림살이가 선거 핵심 변수로",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0NlE0LW9yakpNMm1FSTU5VVEtVUJMRzNxVFcyNEd2SHFEcVNidEtxNnZycEJ6TmtTVnQyczFuamRXeFplek5IejBxM1hUOFk?oc=5",
-      "s": "v.daum.net",
-      "d": "2026-10-02T15:51:15+00:00"
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzZWTnZNbkRSczVtSERvMV9kYlZVYW1zUW10SlBIYzNBT0pJb3F2V29JYXNrQjhDRHpJNTgxRzcyeW5nbkxRcVk1bG1RTTd5ZHB3QmJtZS1PNnJfUllZVXhNR1R6eFVKTFhwZVl3WnBodHQ0U0dncjlSajNQa0k1ai01cnZLUDFZYllkczJEdm5XUXpNZTJZTm9WbFJyQQ?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-02T15:49:00+00:00"
     },
     {
       "t": "[주식 매매 상위 종목 및 환율] 2026년 10월 2일자 - 조선비즈",
