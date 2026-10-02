@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-02T18:30:14+00:00",
-  "quotesAt": "2026-10-02T18:30:14+00:00",
-  "newsAt": "2026-10-02T18:30:14+00:00",
+  "fetchedAt": "2026-10-02T18:45:13+00:00",
+  "quotesAt": "2026-10-02T18:45:13+00:00",
+  "newsAt": "2026-10-02T18:45:13+00:00",
   "quotes": {
     "kospi": 7003.74,
-    "spx": 7717.85,
+    "spx": 7721.04,
     "nikkei": 68309.46,
     "vix": 15.59,
-    "krw": 1345.22,
-    "gold": 4166.6,
-    "wti": 91.92,
+    "krw": 1345.24,
+    "gold": 4168.2,
+    "wti": 91.15,
     "dxy": 101.94
   },
   "daily": {
-    "spx": 0.87,
+    "spx": 0.91,
     "kospi": 2.42,
     "nikkei": -0.94,
-    "krw": -0.86,
-    "dxy": -0.16,
-    "gold": -0.85,
-    "wti": -1.02,
+    "krw": -0.85,
+    "dxy": -0.15,
+    "gold": -0.81,
+    "wti": -1.85,
     "vix": -4.88
   },
   "news": [
     {
-      "t": "\"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41R0lqaHVQUUhyVVVYbnBXMDI4WkZmMWx2eDZkWElOeGViTDM3eXBVVGNuUHljUFR4NE8xTjJpVEhZV3dpYUNSM1ozZmJYNnVXM1dkZVZWcU5XQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-02T17:25:00+00:00"
+      "t": "뉴욕증시, 상승세로 전환…나스닥 1.10%↑",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRDZsNzByc1dMMV9wT2pxbDltZWtNWk9BODI1TER0QndySnJoVmItZlBUODNxdjNrTTFTSnZ1UllHOEtJOEttTW5Ld2ZWSXRZ?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-10-02T18:38:41+00:00"
     },
     {
       "t": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승",
