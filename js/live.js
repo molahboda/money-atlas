@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-02T17:45:17+00:00",
-  "quotesAt": "2026-10-02T17:45:17+00:00",
-  "newsAt": "2026-10-02T17:45:17+00:00",
+  "fetchedAt": "2026-10-02T18:00:15+00:00",
+  "quotesAt": "2026-10-02T18:00:15+00:00",
+  "newsAt": "2026-10-02T18:00:15+00:00",
   "quotes": {
     "kospi": 7003.74,
-    "spx": 7718.65,
+    "spx": 7720.62,
     "nikkei": 68309.46,
-    "vix": 15.85,
-    "krw": 1345.88,
-    "gold": 4167.9,
-    "wti": 91.34,
-    "dxy": 101.91
+    "vix": 15.77,
+    "krw": 1344.99,
+    "gold": 4167.7,
+    "wti": 91.26,
+    "dxy": 101.92
   },
   "daily": {
-    "spx": 0.88,
+    "spx": 0.9,
     "kospi": 2.42,
     "nikkei": -0.94,
-    "krw": -0.81,
-    "dxy": -0.19,
+    "krw": -0.87,
+    "dxy": -0.18,
     "gold": -0.82,
-    "wti": -1.65,
-    "vix": -3.29
+    "wti": -1.73,
+    "vix": -3.78
   },
   "news": [
     {
-      "t": "미니애폴리스 연은 총재 \"금리 얼마나 올려야 할지는 몰라\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FNGtQM29fM3d5ME9kcnh2MDRoa2dxQjRkV1lValhzVGRlQmhzRlo3TGR5QjhfVkFvX2RnSnQ4LV9BVHNCZ2pGMG1sTElTZFZaQnpRYTY4cVBUUnJ5NE01Yg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-01T16:08:11+00:00"
+      "t": "\"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41R0lqaHVQUUhyVVVYbnBXMDI4WkZmMWx2eDZkWElOeGViTDM3eXBVVGNuUHljUFR4NE8xTjJpVEhZV3dpYUNSM1ozZmJYNnVXM1dkZVZWcU5XQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-02T17:25:00+00:00"
     },
     {
-      "t": "미국 모기지 금리 7.28%로 급등, 2023년 10월 이후 최고치",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Tm9jYlY0LUpHQnBZZXZ3bU5GajZkNnN0YWxBZVZTWndwWmxmNUdfOGxNWHFmMlNYVmdhYWpuNXA0ZzlabVpuRHQ1WGhGaXBBYndnaEZQaGE5MmdkZGNZUjBIMEdiU0lndEk3QldTNlQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-01T16:04:00+00:00"
+      "t": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-02T17:16:00+00:00"
     },
     {
-      "t": "반도체 덕에 월수출 사상 첫 1200억달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wTVhpN1FOOHh3SHZ4am5lRkdhb184SUtKZnphbGM4S3Q1Rm9DeHFMc2xwUVRLak91MDJtcVJhV1JuVkVDYWtVUk14LUVPTDQ?oc=5",
+      "t": "[뉴욕 금가격] 美 고용 부진에도 1% 하락…국채금리 반등에 발목",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE91dVJxWFNDNkRvLUJ4MDFISTR4R3FjUXRnU0ZBRTBrQjlxbjVYMmdfYTBlS3RpcXhTSUNWZGlnVndRcGZwWUdUVFNvNVBQNEkzLVdhTTZxMWh5NmJNc0JpTm03U3NvNkNyR1NjS21zTTh2dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-02T17:14:18+00:00"
+    },
+    {
+      "t": "미국 모기지 금리 7.28% 터치…4년 만에 최대 주간 상승폭",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhQXRPa1hEeFlMRzY2Rm9ZdGV1OER3dmwtYk9pWHh1RkU4NE1JTzR0ekR0SkNhT3FzYkZsOGxJR3U0R25maWM1eU50czVLdC1kalhzUVdWNGd6ODhWcUVySjIxQXdtbFBLV045N25RblF2UkQyaTRF?oc=5",
+      "s": "한겨레",
+      "d": "2026-10-02T17:13:21+00:00"
+    },
+    {
+      "t": "국채 투매 악순환…주요국 장기채 쇼크",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TVkF6eUx6WW9VdVZEWHhydUQ4WmpBUkIyOVc4OXNRWUxUeFdyN3oxOG9qcFdFVGltUlRuVkFidmJ0bFdTSUdDak9oaUxIMGtnQnBZLU1B?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-02T16:53:34+00:00"
+    },
+    {
+      "t": "국채 금리, 더 빨리 더 높이 뛴다…한국 10년물 상승폭 1위, 미국은 ‘5% 벽’ 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80T1R6OXYwVmdWbVZMWGl6Z05sejd2U2JTdmtWNkJoVWQ2bkRrR1RJWHU1R0NnYWVjMW1ScDNwaWRKeFJJZzlrck5xc2VCelFIT1dqaGhR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-02T16:26:57+00:00"
+    },
+    {
+      "t": "“관세 폭탄 부메랑 우리가 맞았다”… 트럼프 텃밭 중서부 표심 요동",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUZjE3VEQybGNDSG5TalpqZTlnN3VDY2hWSlN2VmZyM1p1Q08tMjFJa2FRb2xmSEFjX3cwQXRmREFvenBVdGJuU3BfeEthdGs?oc=5",
       "s": "v.daum.net",
-      "d": "2026-10-01T15:46:05+00:00"
+      "d": "2026-10-02T15:51:44+00:00"
     },
     {
-      "t": "영국 30년물 국채 금리 장중 6％ 돌파…G7서 14년만에 처음",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mWkZoZ0s0aTJjOWh4bEJTUUxwdFRBZ1RfYk5IeU9XaGxrLUY5YXRXM1d6QXM4SFZsa0RvUWhUT2U5cHc4YlN4RG9NZTFkSjVPb202QTBLbnZaaGvSAWBBVV95cUxOeFdFSGJJSEQzekt1S0tCT0dUSktWWEU4cGJLZ2NIQktqYndWeENDWFF2Y3J2Z2h2NDF4LTdGckdWYmQzajVQRHo3NWtaQ3RTX0J4WXdOcEozeF9oMnJGU1A?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-01T15:40:17+00:00"
-    },
-    {
-      "t": "美 10년물 금리 24년 만에 최고…글로벌 국채 매도세 가속",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkQkYxNHpUS1k3LThKZXVpQTJ1d05nT1RXRVVuUkRtVFg3VjBEcXA4WjZMY05WRlY3alRqeGFFTnNuTV8wekJBdElObFJwNjZCaGpUbEhWRElsTWxCQjdxRTR0dFpzLWNs0gFsQVVfeXFMUGNXcXFlMW5nZmYzbEhObnEwRTJEUGxhWTFjVFFIOWwtT0VyNDdkTlhMUzA0cS1TdzhwSzdUaDdZZHMzenF0SDdPU250Z0JXVkJ1b1pxOUNxd0tYTDN0dVNYR2ozZnctWkMza1Bw?oc=5",
-      "s": "bloter.net",
-      "d": "2026-10-01T15:40:00+00:00"
-    },
-    {
-      "t": "'매파' BOE 정책위원 \"금리 인상해 신뢰성 유지해야\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCQzNwaHRPSFFhbEU0SnpPOXpRclZrZDdkaklCeWlZVEVHa3V6eFNEUUNCYzNELVItUnVuci03ZXhEZ1RBRzgyNzY5M0pXMENzR1JpRVhUVnZWUGZDRnBLN2Vlb090bHYwdERlcHBZcUY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-01T15:39:27+00:00"
-    },
-    {
-      "t": "美 국채, 연준 인사 연설 대기하며 '스티프닝'",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51dFZBWHFFU182SnlrUjRtVHV5SHVlY0NkXzJjUjhoZzY3UTl6d2M1WFRRdDc5Ty0xdzN6a2VXdk1YdUhldjBDWmRiQ2MyT0Q1ZXkwbkJGYlhIWUNLRkJpV05rYndQWEJuNHQwdy16N2Q?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-01T15:38:57+00:00"
-    },
-    {
-      "t": "뉴욕증시, 국채금리 급등에 하락 출발…브렌트유 3% 상승세",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jVlg2SXJpNlJZdl9kUTFTenF1SzJfeDM3THYxOGVHZ0RwV1NuamFZTFptemtGVmFXMGFlc2I3RVprVGI2TFp2am11UnpXZnRvOEZoSmlVOXVLS0dacTFsd9IBeEFVX3lxTFBFSHJWNEV0eHluN1Z3UGd5ak1BVTZxa0Q1X183dU9kMnJFT1Z5VU9mcUhVZlg5QjU1QXAxQldjY2dEYXNoOHE0NmgxYmRYYVgzSHY3VzgxaGJONWoxemRUMmNMY0ZiUHZEdnhYN01vUnN4YkE5Uk5BUg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-01T15:37:48+00:00"
-    },
-    {
-      "t": "5%대 국채에도 美 증시가 버티고 있는 까닭은?",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00YnlwdGxJdU4tUUExM0NhbDNoNG15RGttdnVxMXJBeWZCWDRsX2RMQ1FaY3NCQXNpSDNDdkQwZmNUUmI5VXNyUGVFODh0UEU?oc=5",
+      "t": "치솟는 기름값·장바구니 물가… 살림살이가 선거 핵심 변수로",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0NlE0LW9yakpNMm1FSTU5VVEtVUJMRzNxVFcyNEd2SHFEcVNidEtxNnZycEJ6TmtTVnQyczFuamRXeFplek5IejBxM1hUOFk?oc=5",
       "s": "v.daum.net",
-      "d": "2026-10-01T15:37:15+00:00"
+      "d": "2026-10-02T15:51:15+00:00"
     },
     {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 10월 1일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFVDSzFybHhJRVN4WjNFUGhHT0gwZk5BREM1MWtnbDEtYmRET1owYUd2OFhfR1Y5LWZjMDhLTi14NHROMmtDN1BlRHM5N01XWV9URjFpVFBuaU85LTlxRG40a29LVVhveWtPTms5dVdTeUx0eFFUVlRnUFV4ek1qRkpDQUtRWlk40gGcAUFVX3lxTE5zem8yMUlwQkVTcHctOG45RUx5bDZIVEFUNGJZWUhUWmlNN3YyQ3NWNkh3elpidUxUQm41VVVEeWFmUjhVSmd5WXNBV0F4Q1hHOEw4dTJyb1RVNS1Cb3d0NkRuTGtnX0tlUkVJdWFIOFFQWGRSQnc2aDdyMmJEWmphVE9oNVZVZUtQejdGaXJNWHdYVUYxUTlGX3AtSQ?oc=5",
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 10월 2일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHBSOWEtOVNLR3JRa0lOS2JxVTNwRHY1b3d6a0V2cnhUN3FnNjJOVHFqa3hMWkFNRWE5WEtJT01pRG93WHUxZTNQb01pRmgySkc0aWd4NnZGMlVXd0g3cHdHUXNvNWlrazB6NGtvRWhYdkFnR2cwa3Q2RGh2UEtES0pWdzRRS0hQ0gGcAUFVX3lxTE5Da0NneUtUZktES1FrZWtCTDFqSWZPRTF0SlNOeWtGZnAtbXNieWlDZmNxWkstQWl3Wm02by1fTGc0d1BUOGVhb3ZLcm1BcDNpSUxlZGVKQktSRS11Z0RkTFBtMXVlb3lSXzk4NURaOGxNeUt3ZnRUX2w0bDIxS1ZqeERqbE9fN01TazdjZkphOW5oLWRzZG9TcnBzMg?oc=5",
       "s": "Chosunbiz",
-      "d": "2026-10-01T15:36:00+00:00"
+      "d": "2026-10-02T15:39:00+00:00"
+    },
+    {
+      "t": "[ET포토] 투모로우바이투게더 연준, '가을 발걸음'",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EMEpkX09EeEdsdG5mUWFMQ1BScWVrb082WDltWldxRGt1MjVFWGhkWmJKdE13cHE0S0pBd0ZNQWtIeTNyVnlmTHVEZFpTZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-10-02T15:22:05+00:00"
     }
   ],
   "asof": {},
