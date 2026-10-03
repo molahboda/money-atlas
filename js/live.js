@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-03T02:30:10+00:00",
-  "quotesAt": "2026-10-03T02:30:10+00:00",
-  "newsAt": "2026-10-03T02:30:10+00:00",
+  "fetchedAt": "2026-10-03T02:45:13+00:00",
+  "quotesAt": "2026-10-03T02:45:13+00:00",
+  "newsAt": "2026-10-03T02:45:13+00:00",
   "quotes": {
     "kospi": 7003.74,
     "spx": 7722.72,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": -6.59
   },
   "news": [
-    {
-      "t": "이상일 용인특례시장, 함평군 대표단과 SK하이닉스 용인 반도체클러스터 현장 찾아 반도체 산단 조성 선진 사례 공유",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbUFyejNvV0t3ekRwZTZnOERQR0RtMWxEZzRacFhibXBKYnIyc04xT1lsNmlHeHRnR2pTYllMNWpDLWo2R2N6R0d6OVRuSWJITlZ4Q3ZOS09pWEJDcU0tMw?oc=5",
-      "s": "경기경제신문",
-      "d": "2026-10-03T02:23:46+00:00"
-    },
     {
       "t": "[NPL 금리추적] 8월 신규대출금리 4.40%…연체 전이 시계 다시 점검",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS0RrejF6RU4tMEVuYktUeWVWTTFaakxJRVZHMGdSZnpSTDRoSE9TZ0hHcjRLQl9nRjRzRDlLanVjUlE1Z2Y0V01NMGxfT05uNjh4OVVrakVMUTJlQm1GVXZTdTR6aDdhZVNzaHBKZlg?oc=5",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcGNQaTVzLURJeDB6NmZROGJqRUpGN24wVmhhSXg5dTdhV3pvWVRPWXdZbGV4d3NVcm9KMjlrN0t0XzAyZktZTEtydUlmWlhkcDlRME9id3VjVC0wOU5GSzl1N0ZFeno1MU13?oc=5",
       "s": "BBS불교방송",
       "d": "2026-10-03T01:21:40+00:00"
+    },
+    {
+      "t": "[해외시황] 뉴욕증시, 부진한 고용·금리인상 우려 완화에 '상승'…나스닥 1.19%↑",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VS1FET29kS1VHSU1jYXk3OWZGckR5dE0tUXYzek5JZUlKQU9ROThxOWFTTy1vRU52UlZNR1FzZFVQOXZhMkZUWld0a0dmSFl4WFNEVFY2MDFzRXhkdXBkOA?oc=5",
+      "s": "프라임경제",
+      "d": "2026-10-03T01:19:11+00:00"
     }
   ],
   "asof": {},
