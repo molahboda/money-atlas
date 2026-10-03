@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-03T02:45:13+00:00",
-  "quotesAt": "2026-10-03T02:45:13+00:00",
-  "newsAt": "2026-10-03T02:45:13+00:00",
+  "fetchedAt": "2026-10-03T03:00:15+00:00",
+  "quotesAt": "2026-10-03T03:00:15+00:00",
+  "newsAt": "2026-10-03T03:00:15+00:00",
   "quotes": {
     "kospi": 7003.74,
     "spx": 7722.72,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -6.59
   },
   "news": [
+    {
+      "t": "\"금리 오를 만큼 올랐나\"…한 달만에 2900억 몰린 美 채권형 펀드 [투자톡]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTS2duWDJ1RlRSMG5ZMk80TmYxMzY3YXM5TWx1Q0xEVTBkOXBIV2h5bzdHdktCVU5uWTMxdEt2YkJWMWwwYmlGVkdLY0JDaGxnSW5wN20tS2xNUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-03T02:51:28+00:00"
+    },
     {
       "t": "[NPL 금리추적] 8월 신규대출금리 4.40%…연체 전이 시계 다시 점검",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS0RrejF6RU4tMEVuYktUeWVWTTFaakxJRVZHMGdSZnpSTDRoSE9TZ0hHcjRLQl9nRjRzRDlLanVjUlE1Z2Y0V01NMGxfT05uNjh4OVVrakVMUTJlQm1GVXZTdTR6aDdhZVNzaHBKZlg?oc=5",
@@ -61,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-10-03T01:50:32+00:00"
     },
     {
+      "t": "삼전닉스 다음은 소부장?…AI 투자 온기 확산 전망[주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSHg1REJFRFh5OVFqTmJtTVBNMEt6R19uU1ZaZnc5dUlRbjU2TzRPb3JwelgyRkVZaG5aaG5XVjdSZks5ckdNS3p3UGxCeUE?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-10-03T01:50:31+00:00"
+    },
+    {
       "t": "美 고용 예상 밖 부진… 10월 연준 금리 동결 전망 78%",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qam1FVDNjWGZhZ0UySFA4Y3RJWGFqUEptRklnejBWSWhMUmRDcnhManIzQ0tWbU5RV3Z1WkNkVURzQXViMTNCbnVTdDd1ZU0?oc=5",
       "s": "v.daum.net",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85QnMzX1FBTUUwcW91cWJSQWVNRXgyaWdPb004LW5BenowSU56RVZFeFpQSUJOZ2d2MXltU0dnenN6TlRBQXNBSkNVR0psZ1U?oc=5",
       "s": "v.daum.net",
       "d": "2026-10-03T01:42:01+00:00"
-    },
-    {
-      "t": "뉴욕증시 나스닥 1.2% 상승...미 고용 부진에 금리인상 우려 완화",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GcGNQaTVzLURJeDB6NmZROGJqRUpGN24wVmhhSXg5dTdhV3pvWVRPWXdZbGV4d3NVcm9KMjlrN0t0XzAyZktZTEtydUlmWlhkcDlRME9id3VjVC0wOU5GSzl1N0ZFeno1MU13?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-10-03T01:21:40+00:00"
-    },
-    {
-      "t": "[해외시황] 뉴욕증시, 부진한 고용·금리인상 우려 완화에 '상승'…나스닥 1.19%↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VS1FET29kS1VHSU1jYXk3OWZGckR5dE0tUXYzek5JZUlKQU9ROThxOWFTTy1vRU52UlZNR1FzZFVQOXZhMkZUWld0a0dmSFl4WFNEVFY2MDFzRXhkdXBkOA?oc=5",
-      "s": "프라임경제",
-      "d": "2026-10-03T01:19:11+00:00"
     }
   ],
   "asof": {},
