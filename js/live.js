@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-05T05:15:47+00:00",
-  "quotesAt": "2026-10-05T05:15:47+00:00",
-  "newsAt": "2026-10-05T05:15:47+00:00",
+  "fetchedAt": "2026-10-05T05:30:44+00:00",
+  "quotesAt": "2026-10-05T05:30:44+00:00",
+  "newsAt": "2026-10-05T05:30:44+00:00",
   "quotes": {
     "kospi": 7003.74,
     "spx": 7722.72,
-    "nikkei": 69709.96,
+    "nikkei": 69747.32,
     "vix": 15.31,
-    "krw": 1345.34,
-    "gold": 4160.3,
-    "wti": 90.15,
-    "dxy": 102.39
+    "krw": 1346.55,
+    "gold": 4165.9,
+    "wti": 89.97,
+    "dxy": 102.37
   },
   "daily": {
     "spx": 0.93,
     "kospi": 2.42,
-    "nikkei": 2.05,
-    "krw": -1.12,
-    "dxy": 0.44,
-    "gold": -0.05,
-    "wti": -1.05,
+    "nikkei": 2.1,
+    "krw": -1.03,
+    "dxy": 0.43,
+    "gold": 0.09,
+    "wti": -1.25,
     "vix": -6.59
   },
   "news": [
     {
-      "t": "삼성전자, 용인 반도체 산단 ‘속도전’…2029년 10월 가동 목표",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydm1OUEJObmZ5ZUFSNS1CeU9GdlNlWHRIcW85bHU2MDFxOFRWY3pSLWRDdDhsYkJBOUtEWTBEZnR3MVpUU2hMM1hBOEtaemZwVGlrWENMOGxkaEdYUno0?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-10-04T04:06:14+00:00"
+      "t": "AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대' 몰려",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaaEVhLXdlamRPNk9faXMzSmJDMTR6MUNqMDhHS1gwRkVYLTdKYjRId0Z5QUpZY3NiY09HMktYUV9QTjAyalVrRC1NNVUzVjRvbzJDdm1kLUM?oc=5",
+      "s": "경북신문",
+      "d": "2026-10-05T05:26:45+00:00"
     },
     {
-      "t": "외국인 지난달 코스피서 20조 매도에…삼전닉스 외인 비중 연중 최저로",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vZlRRRVlLWGJOMkowZFRIU1BIbjBLNC0zREU4eTNLelVQUTFJd005aktYZ1lTdnROLW9JdDRUMkdLUXBWNnNfeFpuWEJBX2c?oc=5",
+      "t": "트럼프 관세의 청구서…공화 텃밭까지 초접전[격전지로 본 美 중간선거 (4)]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbnJ3RTExZlNMdjFhb1luQTB5QWRkRlJaRUxWT2pqbS0wbWVlWGdfM1phdFJ5d2l5V21BRmM3NUZZSmllY0g4UjRIdmMzZmM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-10-04T04:03:02+00:00"
+      "d": "2026-10-05T05:24:13+00:00"
     },
     {
-      "t": "[외환-주간] 美 고용 둔화에 열린 달러-원 하방…국채금리가 제동 걸까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeWVIMDhiY3F3TmxSbHpRQ1ZTM2hqUWMxbnVFSWZVT0xLeWZpLTZMU21rMm96TDZORnBwSjNETWNudV9PT21hZDNwU3NpT0xZWUFXUFMwQVFPVjEyenNxUzhiNFVPMTZBa0kyRV9QeXo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-04T04:00:01+00:00"
-    },
-    {
-      "t": "마이크론 ‘깜짝 실적’ 다음은 삼전·하닉…반도체 랠리 이어질까[코주부]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XUkFVdjRaTVlwZTQ5Qm83QlpSNU9zU29Mb01MVmtqT3I2allGN1h3bnhzd1VscUhKRVViMDFleGtnZmU0NHliRDhWOGpDVEwyOHfSAVNBVV95cUxPMnFwakFrU3oxMUdDelc1VVByUmNkUHRJUG41VGZXQi1mN2w3NWV1M2otZS1OLXNuRTA3dXhoOU9KNWl3S3BYclhFOVlRSC1fT1Radw?oc=5",
-      "s": "서울경제",
-      "d": "2026-10-04T04:00:00+00:00"
-    },
-    {
-      "t": "건어물 팔던 나라서 반도체 수출국으로…韓수출 1조弗 눈앞 [세쓸통]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOOVZ1YzBlTEVWR2VWeUdheDc1czR4LUJZeEc2X1hwaE5uTDBxdWI0YW1GLUpKZl9SV0VNVmZBU2o2aTk2aFNaYTZ3WmdiRmxGcl9JdUlHNkM4QnlBSUQ3atIBeEFVX3lxTE1fRDNXbWV4Y2pnU2NiYjk0T3hGLXd2aVdQdUFoSW9MQzc5ME0zdF9GQWdKUjlkYzZ1SXdQWUM3VkZNdFFUOXA1VkpLRDc2MHBUM3lqaGFXTkRZcHc0QWdfWWdodkdocVRwR3d5S1BOMlNzdUVycFRLYQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-04T04:00:00+00:00"
-    },
-    {
-      "t": "[속보] 트럼프 \"외국기업, 美에 투자 안하면 관세 300% 부과\"",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uYVBaNWQwMmJmMHgxTmtpRW83eUNzWDc3UzBaV0ROOWlaOUxwbjhZWHJkaVRYbk9RMTRTMzJYblZsUzNNWGRLU0NSS3pWWEplNjlzbnlPdmhuMjVMWXdNVDFqSEJBcXFhbWhfaHQzUUU1bTh6NHc?oc=5",
-      "s": "프레시안",
-      "d": "2026-10-04T03:40:49+00:00"
-    },
-    {
-      "t": "“언제까지 AI로 버티나”…美 국채금리 5%대에 증시 ‘시한폭탄’ [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PYVcySEw5MURZdHV1WE4tcTk0SFptc1ExbHRPa2lPTy11U0ZtTlJBMzBBTzE0YWFOU2o1NHNBa25iMkdnSDJSMjlqYVBOMXFGcFZOV0xPbTluaTZsOFJOeWNRbw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-10-04T03:37:32+00:00"
-    },
-    {
-      "t": "트럼프 \"미국에 공장 안 지으면 관세 300%까지 부과\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjWFp4M2NPS3g2OWZ2WmRobjdtT2lwNFI4Q29UWEFXZmdJcnJPX3E1TFJHM3pXVjNfNU5mODVHLUFOdUlWOEJiZnlBS2xaNE9hN1l0YXlvQk5STWtfR0E?oc=5",
-      "s": "YTN",
-      "d": "2026-10-04T03:29:00+00:00"
-    },
-    {
-      "t": "엔저가 밥상물가까지 덮쳤다…日식량자급률 37% ‘최저’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfUUdqNFJ6eXU0YU5FekY4d0RSVkl3ZzFFZ1VpSUhfUTZEdWhDVm85R1RKNFJ6TS0tNVNNTHRoU3U5OU9hWmFyTW5LMGhUbXV1a2VBdHZDUFh2Zw?oc=5",
+      "t": "초고수의 선택은 삼성전자...\"매크로 불확실성의 도피처는 반도체\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41YUZPVTVTcE5xRzFlc2k1R0paR1hnaDFRLXBqaUFwV29XZG1CbFEySXdKbzl6U0JxbWJUM1AyRldBcENXc2lXbkpHM1ZGYzVDVmRhUVpnV1Rpdw?oc=5",
       "s": "한국경제",
-      "d": "2026-10-04T03:26:53+00:00"
+      "d": "2026-10-05T05:23:13+00:00"
     },
     {
-      "t": "미 국채금리 발 국고채 4%대…가계·기업 '비상'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xcFBWWkh0NlVxYmdxVkJrdHJkeUZXV0lCRE1Ec0xfNjJ5RTlHaW9kNklySXJlUmoxNkxMN1Y0LUFvaDBia3dIRHRJc3FJajA?oc=5",
+      "t": "4대 과기원 수시지원자, 3만명 돌파 '역대 최대'…반도체·AI 선호 영향",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IRXBJVXV5eGV3Y09FVXU0M1F1a0tQS1FUSndjNGJYZHpLaVFiVHNWWHhHZFlIaXhPdUNiZmRJc3NCSE5IbjVxVjFSMk9rMFhlWlhIa0dqZ2VhQkhYMXFQYkV6aldRRUx6ZEx4OGY5c3o?oc=5",
+      "s": "신아일보",
+      "d": "2026-10-05T05:19:55+00:00"
+    },
+    {
+      "t": "“271조원 미국 간다는데”…증권가가 수혜 업종으로 찍은 종목은?",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1U01kdU9aelE4cWZEMHRyQ2F2WklLOS05bXVGNG5WRzFIcXIyYWdkbVVQbkhncXA2eTlmaTl6ajRYTzc0LXBSMm81cklmanFDZnc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-05T05:19:52+00:00"
+    },
+    {
+      "t": "삼성 용인산단 ‘10월 첫 삽’⋯ 반도체 클러스터 ‘급물살’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BTnI4VHdvWXNUTGtCVUhDT1h1eW9EcFNmb2s5aDNnTXdsU1BiU0hOWFlhVms2TnpXcHUzbzg0S093Y2RYRG1fcDhQTDJEU1c1OURubjVyMDRmdw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-10-05T05:17:00+00:00"
+    },
+    {
+      "t": "日닛케이지수, 3개월만에 장중 70,000선 회복…AI·반도체 강세",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzTHVOUjI4NXdqZEhzYmRDZUZJMF9VM2ZDc2xnZ0tiV1NqMjBBV2JfLUVBM3VvMFdjY212dnFnRmg2M1BlWHlKRUNTSlpqSXpGZkJnODhJa0ZRUXfSAWBBVV95cUxOcTVELTBnWmhlci1mWnZ4MElfN19QZlg2b0xqYzNoVkZDeGVtQ09fcE5ZUHkyai1SQmxxcmtTU2luZDVfaVhjMFZYUnBKVjZoN3R6MFd5eTJhWXJ1MlFpOGY?oc=5",
+      "s": "yna.co.kr",
+      "d": "2026-10-05T05:13:16+00:00"
+    },
+    {
+      "t": "“절반이 반도체”... 수출 편중 구조 심화",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhUThQMmgzRy1wQ2s2bEF1NlRhVThVTnczNlF4YzQzdTZzTVJjcnNMaTFwVlpqNlNtSmhMMUpYVVZ3Ymp6RHgzenB6b2h6SURzM01fcV84OXVSZw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-10-05T05:08:00+00:00"
+    },
+    {
+      "t": "중소형 캐피탈, 3%대 빚 6%대로…'차환금리 쇼크' 오나 [fn마켓워치]",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaFIzd2xWNUdFN0tPOTNKMHpPa2VyMnJjRzhxTGRheWNReEx6Vmg4RXg0T2JxdTFtelc2Rkw5LXNPdzRzalNHLVJ6ZTg0TUU?oc=5",
       "s": "v.daum.net",
-      "d": "2026-10-04T03:02:21+00:00"
+      "d": "2026-10-05T04:59:13+00:00"
+    },
+    {
+      "t": "\"알래스카에 540억불 내라\" 트럼프 청구서⋯韓 '15% 관세' 방어막 흔들",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WVzItV3RTdS1JblBGbjdQRmtPYXd1Uk1oNWR3VEZ4UHI5OWNENHMycEw4aWc4ekFzNVNxNHIxZktIc2tTMHRaak9GRkJWWkU?oc=5",
+      "s": "v.daum.net",
+      "d": "2026-10-05T04:55:03+00:00"
     }
   ],
   "asof": {},
