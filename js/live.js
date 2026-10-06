@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-06T00:00:55+00:00",
-  "quotesAt": "2026-10-06T00:00:55+00:00",
-  "newsAt": "2026-10-06T00:00:55+00:00",
+  "fetchedAt": "2026-10-06T00:15:41+00:00",
+  "quotesAt": "2026-10-06T00:15:41+00:00",
+  "newsAt": "2026-10-06T00:15:41+00:00",
   "quotes": {
     "kospi": 7003.74,
     "spx": 7773.95,
-    "nikkei": 69946.86,
+    "nikkei": 69879.18,
     "vix": 15.52,
-    "krw": 1344.48,
-    "gold": 4160.9,
-    "wti": 89.23,
-    "dxy": 102.14
+    "krw": 1342.68,
+    "gold": 4162.1,
+    "wti": 89.32,
+    "dxy": 102.17
   },
   "daily": {
     "spx": 1.4,
     "kospi": 0.46,
-    "nikkei": 2.4,
-    "krw": 0.14,
-    "dxy": -0.03,
-    "gold": 0.1,
-    "wti": -0.22,
+    "nikkei": -0.1,
+    "krw": 0.01,
+    "dxy": 0.01,
+    "gold": 0.13,
+    "wti": -0.12,
     "vix": 1.37
   },
   "news": [
     {
-      "t": "AMRO도 한국 성장률 3.3%…반도체가 올린 3%대",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYWkZQb1V2RGdEbnRLRTNYRllwM3BpMjJ3NEFmX1FPR2FBOUlwRGV2NTkxYlFfTFlzeDVRWEY4d01YX3NZNjRITzA0RDViN09VVXc3SWtES2hGekt2R3ZBMUtTcTFOVnM?oc=5",
-      "s": "자본시장뉴스",
-      "d": "2026-10-05T05:30:00+00:00"
+      "t": "코스피 7000선 지킬까…美 기술주 훈풍에 국채금리 급등 부담",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LT21rakZldGhOWEJ1dnVlTUNBd2hudnFjQVc1UTR3cGhQOFoxUmREaEVaS3Nfa18zdTBYZEdncF9qYXJBMVBxVC1CNVhRZU9sLXFBNS1aaFN1UQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-10-05T23:38:00+00:00"
     },
     {
-      "t": "AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대' 몰려",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaaEVhLXdlamRPNk9faXMzSmJDMTR6MUNqMDhHS1gwRkVYLTdKYjRId0Z5QUpZY3NiY09HMktYUV9QTjAyalVrRC1NNVUzVjRvbzJDdm1kLUM?oc=5",
-      "s": "경북신문",
-      "d": "2026-10-05T05:28:20+00:00"
+      "t": "[개장 전 주요 공시] 한미반도체·CJ제일제당·한국금융지주·기업은행 등",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkpBUWY2RnFhZWxaVk5sdzV0d1FYeDlFX2hOcUp5NnZmeWZDOFVOazRBeDk5OWRoWVVjUzlwQmNEdm44UFNlSWhZb1RuSUl0ZTFITzItZHY5Mkc0Y0tsa2UwODNQbUg4LUxsOXpMUlNkOGNVeDF3RHZMaFN0dktxbHdmaklnYWVr?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-05T23:36:20+00:00"
     },
     {
-      "t": "美증시 훈풍 타고 '껑충'…日 닛케이지수 70,000선 '터치'",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vWnZxQVBHRG0ycDJJNE5HSmZGSXZnSXNzb3BkVEM4QVlqVW9Va0Qxd2Jqa2F6T2Y0TEZJU3dFU2RXOTZxZl90V2Y1XzNRcnM?oc=5",
+      "t": "한미반도체, 삼성전기서 245억 장비 수주…곽동신 “삼성그룹 환영”",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vLUdDYXhXTUxOd1NtR1ZUMk1aWFhFRkJCSEtpLUFsWGhFcFp5a3F0ZzEzb1p2R2VaOHk3dWhXeElYdW1NRmVRQ2xVMXpZUWM?oc=5",
       "s": "v.daum.net",
-      "d": "2026-10-05T05:24:58+00:00"
+      "d": "2026-10-05T23:34:12+00:00"
     },
     {
-      "t": "트럼프 관세의 청구서…공화 텃밭까지 초접전[격전지로 본 美 중간선거 (4)]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KbnJ3RTExZlNMdjFhb1luQTB5QWRkRlJaRUxWT2pqbS0wbWVlWGdfM1phdFJ5d2l5V21BRmM3NUZZSmllY0g4UjRIdmMzZmM?oc=5",
+      "t": "[증시 포인트] 美 나스닥 신고가 경신 속 상승 출발 전망",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWNzY2S0xiX1E4SjFVV19xcHpjVmtIMHRPWEpxa2RSeWFmWmpaZXBLam9sdVgxLXlqTy16ZjFwcTRES0RFcWxwMlRWTFFzaHRwMkJwLUtyQmY0aXlURURjYWE5RVRBZkNIYnlSM2xrMWo?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-10-05T23:31:39+00:00"
+    },
+    {
+      "t": "여전채 금리 상승에 조달 부담↑…'체력' 격차 커진다",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuSFB5UWVXZ20tY1F5azJMNnJXSHp1U0JRN0pXeVU4U1Jhakh1a0paM0c5Y3NDZDFwT0JCb2VCblVqaW5NMHhlTzYxbV9Sdjg?oc=5",
       "s": "v.daum.net",
-      "d": "2026-10-05T05:24:13+00:00"
+      "d": "2026-10-05T23:31:14+00:00"
     },
     {
-      "t": "초고수의 선택은 삼성전자...\"매크로 불확실성의 도피처는 반도체\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41YUZPVTVTcE5xRzFlc2k1R0paR1hnaDFRLXBqaUFwV29XZG1CbFEySXdKbzl6U0JxbWJUM1AyRldBcENXc2lXbkpHM1ZGYzVDVmRhUVpnV1Rpdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-05T05:23:13+00:00"
+      "t": "美 금리 동결 가능성에 올랐던 가상자산 숨고르기… 비트코인 0.62% 하락 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTM4azhtSnJyT0NUZzZLeHBNMFNjY2Z3Zl9WOTJnTW9zbWFkUnl4eEh0RkFyVjhORC16VXhuWUlucUYweVh4aFZVR2hTX0ZodWRiZHcyTXVIWnpFWHpua2JpYV9GN2pqNnVqNGhzZHR6RUpsU3VrbEd0N1ZrR2VwUtIBlAFBVV95cUxQbmRkUTBxYXBsVHUxdU1Nbi1YUUtadWNZVVlDbGZRWUFVSWVoTjZvQ3ZTYnI4VnJxNVNuckVqSzZDQ0R2QnFCNjUtZnhpdmtrRXhKZVh5WWhhd19GODh4U3dJbzBDTlFBYjlyUWw2cUxyZlZIdU1LX1dKM0txUXJyYlRtWF8zUS1GdGZmZk0wMmdjbUhJ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-05T23:31:00+00:00"
     },
     {
-      "t": "4대 과기원 수시지원자, 3만명 돌파 '역대 최대'…반도체·AI 선호 영향",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IRXBJVXV5eGV3Y09FVXU0M1F1a0tQS1FUSndjNGJYZHpLaVFiVHNWWHhHZFlIaXhPdUNiZmRJc3NCSE5IbjVxVjFSMk9rMFhlWlhIa0dqZ2VhQkhYMXFQYkV6aldRRUx6ZEx4OGY5c3o?oc=5",
+      "t": "[08:20 가상자산] 비트코인, 차익 매물 출회·美 국채금리 부담에 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocy01N2E2VHY4dmx1RjVRXzZxNnF6Tk5DX3ZXN3BibUJqX05mT3I3Q0wxNGg2XzVuSm43emdsR1J6X0wyNTNZLUdxbzNkX2k2MVlUdWFCZ1hUSVhwM1c3QTdsMmpQQlFUbkR3ZWZKUDE?oc=5",
       "s": "신아일보",
-      "d": "2026-10-05T05:19:55+00:00"
+      "d": "2026-10-05T23:30:11+00:00"
     },
     {
-      "t": "“271조원 미국 간다는데”…증권가가 수혜 업종으로 찍은 종목은?",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1U01kdU9aelE4cWZEMHRyQ2F2WklLOS05bXVGNG5WRzFIcXIyYWdkbVVQbkhncXA2eTlmaTl6ajRYTzc0LXBSMm81cklmanFDZnc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-05T05:19:52+00:00"
+      "t": "환율 12% 빠지자…순이익 쇼크 주의보 떴다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMjZIa3J1YW9oeGVuX01fSzVfS1lQa3otY0FnOEhzcVVKb3FHOExoSU5aWTY2NlUydk5VaVRhTER4bWdHcGxaaC14SXBDa1psdW9hOHo0RDlhUQ?oc=5",
+      "s": "hankyung.com",
+      "d": "2026-10-05T23:30:05+00:00"
     },
     {
-      "t": "삼성 용인산단 ‘10월 첫 삽’⋯ 반도체 클러스터 ‘급물살’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BTnI4VHdvWXNUTGtCVUhDT1h1eW9EcFNmb2s5aDNnTXdsU1BiU0hOWFlhVms2TnpXcHUzbzg0S093Y2RYRG1fcDhQTDJEU1c1OURubjVyMDRmdw?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-10-05T05:17:00+00:00"
+      "t": "고금리 뚫고 AI 랠리... 나스닥 1.05%↑ 사상 최고 [뉴욕증시]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51VGJ3aHBGbkxsWTBybXV2SmVNbjVySnVYTGtnVWF6SHhuNEx5X0FaTjBET0htVmhHZVpxTVI0ekxaeTN4Zi1LU2llYnMteEM0Zi13YnhlT1djUnFvYTdFZlN3SW8?oc=5",
+      "s": "매일일보",
+      "d": "2026-10-05T23:25:38+00:00"
     },
     {
-      "t": "日닛케이지수, 3개월만에 장중 70,000선 회복…AI·반도체 강세",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzTHVOUjI4NXdqZEhzYmRDZUZJMF9VM2ZDc2xnZ0tiV1NqMjBBV2JfLUVBM3VvMFdjY212dnFnRmg2M1BlWHlKRUNTSlpqSXpGZkJnODhJa0ZRUXfSAWBBVV95cUxOcTVELTBnWmhlci1mWnZ4MElfN19QZlg2b0xqYzNoVkZDeGVtQ09fcE5ZUHkyai1SQmxxcmtTU2luZDVfaVhjMFZYUnBKVjZoN3R6MFd5eTJhWXJ1MlFpOGY?oc=5",
+      "t": "\"10월 코스피 6,400∼7,600 예상…유동성 위축·금리 반락 기대\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2X1lHdVNqM0pGUUpvYXpwdG9CVXc5VjRocUJjSThMUVkzeldDWXJWRHVQQ19hMW1ETHd6UXExTlVydGIxZHRyYXRYOE9hVWJPd25DVzk5dWdKNHfSAWBBVV95cUxNT2h5cVc3NXA1OUFjcUthWW11NHczQnpnOHU5TnY4TG9OenM4d1o4STVLWDBCMXJCdldSZHV5akY0QWFQVlFQWHY1aDZlRUhNRjR3YV9sSURhbHlMZXlCZmE?oc=5",
       "s": "연합뉴스",
-      "d": "2026-10-05T05:13:16+00:00"
-    },
-    {
-      "t": "“절반이 반도체”... 수출 편중 구조 심화",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhUThQMmgzRy1wQ2s2bEF1NlRhVThVTnczNlF4YzQzdTZzTVJjcnNMaTFwVlpqNlNtSmhMMUpYVVZ3Ymp6RHgzenB6b2h6SURzM01fcV84OXVSZw?oc=5",
-      "s": "브릿지경제",
-      "d": "2026-10-05T05:08:00+00:00"
+      "d": "2026-10-05T23:23:28+00:00"
     }
   ],
   "asof": {},
