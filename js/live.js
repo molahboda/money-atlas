@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-07T05:45:40+00:00",
-  "quotesAt": "2026-10-07T05:45:40+00:00",
-  "newsAt": "2026-10-07T05:45:40+00:00",
+  "fetchedAt": "2026-10-07T06:00:47+00:00",
+  "quotesAt": "2026-10-07T06:00:47+00:00",
+  "newsAt": "2026-10-07T06:00:47+00:00",
   "quotes": {
-    "kospi": 6841.86,
+    "kospi": 6835.62,
     "spx": 7818.93,
-    "nikkei": 70316.81,
+    "nikkei": 70323.59,
     "vix": 15.01,
-    "krw": 1338.11,
-    "gold": 4160.7,
-    "wti": 90.07,
-    "dxy": 102.09
+    "krw": 1339.04,
+    "gold": 4162.6,
+    "wti": 89.99,
+    "dxy": 102.08
   },
   "daily": {
     "spx": 1.25,
-    "kospi": -2.31,
-    "nikkei": -0.52,
-    "krw": -0.42,
-    "dxy": 0.25,
-    "gold": -0.63,
-    "wti": 0.7,
+    "kospi": -2.4,
+    "nikkei": -0.51,
+    "krw": -0.35,
+    "dxy": 0.24,
+    "gold": -0.59,
+    "wti": 0.61,
     "vix": -3.29
   },
   "news": [
+    {
+      "t": "재경부, ‘환율 안정’ 명분 앞세워 7대 수출기업 11년치 외환자료 ‘먼지털이’ 논란",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zak1HQ2tkNXpfbnBvaTk4NWJZU0xUamM4Vy1nRmg3TGQ0OWlKcmU0dXZmSDZCRkVaalBmcUxyRm5uckQyUTBPNmNNYUhkQTF5VkpWSGxVSWRkZVhrOXBISTJxYjFfTzlX?oc=5",
+      "s": "www.intn.co.kr",
+      "d": "2026-10-07T05:53:22+00:00"
+    },
+    {
+      "t": "인도, 4년 만에 금리 인상…추가 인상 가능성 열어둬",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44QWJUQXpNckhSaDlyTnp2LTBQTXQ0akFwV0Y2VW5fYzNCb3kxOU5acmZRWnhEQUNtQllqVXpLTTQtT0twNHdQVHdZNzFPNXc?oc=5",
+      "s": "Daum",
+      "d": "2026-10-07T05:51:58+00:00"
+    },
+    {
+      "t": "김원이 의원, 서남권 반도체 에너지 산업벨트 조성 제안",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RWmRma2tIOFZXd3VmeTBMdFFqTjZxZmtsVGs5NlluZHE2SXUtdktGMlVQMncwY0ZXOXUxeHlOTjJzWUZ0NkMwMm5IU3hadDQ?oc=5",
+      "s": "Daum",
+      "d": "2026-10-07T05:49:04+00:00"
+    },
+    {
+      "t": "[포토] AI반도체 기업 라운드테이블",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56UEdZTjY4VVRoR25XN3QtejZBaWRsOWZiRzFTdWY1b05wZlQ5ZVM0R2hHQS1Pa18yTnVuRmR3TmRkZWRoUUlsTkROWHZTZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-10-07T05:46:50+00:00"
+    },
+    {
+      "t": "인도 증시, RBI 약 4년 만의 금리 인상 후 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTjcybndWM0oybzN0cEViUFpic0ZiMjBLZ3ZMSkx6a1IwOC1ENm11cGFSdlpVYUVwUW1zaVNSOHBJbk9pa3NyOXRBUFgyRzhMVGpzY3J5SXpwc283bnRCY3I3bHU3WC1xekRoSHN1UFg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-07T05:45:00+00:00"
+    },
+    {
+      "t": "[현장] 리사 수 \"韓 AI 생태계 기여\"…국내 AI 반도체업계와 이기종 AI 인프라 구축 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRFlpVkRGeHJyUzVtSGZ4czdweWtUR25LTjM0eDM3RkNPVVdOX1ZXM2JkT3NXYXZLOS1VcTkxT3BHMGhocGc4RXVIQ25UMElBdjZtREE1ZVNKOEtXazRtbGVTZk5wTEEybG94OXUxa1c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-07T05:41:00+00:00"
+    },
+    {
+      "t": "대구 물가 상승세 둔화에도 장바구니 부담…채소값 한 달 새 12.5%↑",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nRTJGRV9mU3p4QjVIemtyN0c5eW43d3JPR2FXOEhoQTFLYlNwQ3I1YlNkckk1ajFIQ1hJVWVtUF9IMFl6WU9kN0NpM09LQm8?oc=5",
+      "s": "Daum",
+      "d": "2026-10-07T05:40:04+00:00"
+    },
     {
       "t": "삼전 실적 '경계' 외국인 2조 순매도…코스피 1.5%↓ 6830선[장중시황]",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iVTlSRFNWczRydlNGTXJ3N3JQV2JUNnREUUMzMGVCLUozb05sQS1tdEM4RGtocEVhV1VmV3g1aTJKYmhfMDh2bmhMallOSnc?oc=5",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVC1xdm9zVTQ4aC1SMTFLdkcxYkZVa0FEYWhaQnVzZm1kV0tXa0QwQjZoV2JhZTNpdWx2WlpTRnJlZVBUZi1sSGVNZ1dzQXJCdVJnLUlSRjZySlFpLTlQR2l4NVl6Ul9GN3p0dNIBckFVX3lxTE1OMUVXSmNvV2w4bXNmMEdSeGpCcmlxRndRM3RxM2xXTXNPNTVNcUxybTNuUEw1SVJHMzhWaDNUS2U1RU1UdmtvZ3hUTE9tMHdPTGtOLW5NS2RaUTE2cHlWMjZFaGhoWnpoYmh6Q3NvVUlEQQ?oc=5",
       "s": "머니투데이",
       "d": "2026-10-07T05:30:00+00:00"
-    },
-    {
-      "t": "[단독]\"연내 반도체 유리세정장비 납품…5년 내 매출 5000억 달성\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCTnl5dXVvek1FY2V2dEx1SHpfOHFicFU3Vnc0aUozQk9NVjlyUjBMNTh6QnAwb3dFb0xEZ0kxU1Q5S2M3N3k1QjNVX1cyUGtzektMMW5Xa1ByQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-07T05:26:08+00:00"
-    },
-    {
-      "t": "반도체 호조에 2분기 기업 여윳돈 67.1조…또 사상 최대",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZjcxdEJLQ3dBVWh1ZmlHWmN1UktEQUFWSmVONXBiVDdRcWNsYXV3S2VJX29td0ZaX2E5SW1oZHpCWGlkMWpSTlNadWhZdkdVMzh2Wi0zWXptYUJiVXFxSmxfbkU2dVE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-07T05:20:00+00:00"
-    },
-    {
-      "t": "[원자재 시황] 금값·뉴욕증시 강세…유가·코인은 보합 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSXFlR0M0NXdiVlZtaTdtMHFmNGxaQnA5cHBadmRjMFhPYnJyQUZickVzNEZqcUk4WGhEMGdjNHZHSEZHaUxJX2hmVGxZczJOSWhLcThTbFFlZWFoclQ0eGtya1hnWW44cDV1Z05TeXU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-07T05:13:00+00:00"
-    },
-    {
-      "t": "한미반도체, 삼성과 ’해빙 모드’…삼성전자 거래 재개 신호탄 되나 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yaHYtRERyRDA1VklfenJVbDdNZDhiOURrT2xHVk5QcDNzeEVlc1gyT3NYaG5wSTZ6TnlPcHlwazNFY3BHYUMyLUFXQjdGd1FaNThKZ0pUb3A4V0JsMUhGVURReGFyS3l4M0lKN0ZpOEg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-07T05:12:00+00:00"
-    },
-    {
-      "t": "과기부·AMD, AI반도체 협력 확대…\"국산 NPU 글로벌 진출 모색\" By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qRVNmUl9CUjhHS2c4OGF4bGgtQzZxRzZ6WE9ObElZTFdza2hTMmduVDZ4a1VxS3VEV0g2NVNzRGpZYTBocl9HNkZTeHRDMlhMV19EdHNGOEVGQU9iRjlmTXk2Tnczd0pXSkpzeExoUnU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-07T05:12:00+00:00"
-    },
-    {
-      "t": "[AI 클로즈업] ‘공장서 돈 버는 AI’ 증시로… 제조AI IPO 2막 열린다",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUHJNLXFycEZXX0xsZ3NzeGJjYy15c2xac2Mzc2xsX2dlUmJxMmdOTkVsNmRhRmxlZ1I1ZW5qTGpLenJzazhJWmU0dVlsa3U1MkhpVlRONGlxSG5XSTBVMHZoZGg?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-10-07T05:10:06+00:00"
-    },
-    {
-      "t": "레버리지 ETF ’지선용 증시 띄우기’ 의혹…이형일·권대영 \"정치적 고려 없었다\" By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2SzlCMDFsWUh5cU5mUmsyZ05MR2NLWkVvaUtqbTQzQ0RNR0IwRFlWZkpvYlRVc2w3cjdtM3QyUEtqQUlWNUczUlQ0eU04alI1Wm8wODFjdm5IQzNlZHhKX0s1X1FSYkhLeHZKdzRfU2Q?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-07T05:10:00+00:00"
     }
   ],
   "asof": {},
