@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-08T02:45:41+00:00",
-  "quotesAt": "2026-10-08T02:45:41+00:00",
-  "newsAt": "2026-10-08T02:45:41+00:00",
+  "fetchedAt": "2026-10-08T03:00:55+00:00",
+  "quotesAt": "2026-10-08T03:00:55+00:00",
+  "newsAt": "2026-10-08T03:00:55+00:00",
   "quotes": {
-    "kospi": 6759.86,
+    "kospi": 6748.76,
     "spx": 7801.77,
     "nikkei": 69373.4,
     "vix": 15.08,
-    "krw": 1336.65,
-    "gold": 4165,
-    "wti": 89.63,
-    "dxy": 102.19
+    "krw": 1338.88,
+    "gold": 4160.2,
+    "wti": 89.86,
+    "dxy": 102.23
   },
   "daily": {
     "spx": 0.36,
-    "kospi": -2.62,
+    "kospi": -2.78,
     "nikkei": -0.95,
-    "krw": -0.23,
-    "dxy": 0.36,
-    "gold": -0.53,
-    "wti": 0.21,
+    "krw": -0.06,
+    "dxy": 0.39,
+    "gold": -0.64,
+    "wti": 0.47,
     "vix": 0.47
   },
   "news": [
+    {
+      "t": "반도체 호황에도 일자리 시장은 ‘냉기류’… 9월 마이너스 고용 전망에 정부 TF 가동",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmbm1QWUZvSUt6SS1INTlBTXZsYXM0UTE3Y3ctZ3FBTlVoOGVEYVBjYmhnNnVJaUQxWlV5NldxTGd4bm9WWWcwOURiVEVVTUQ1?oc=5",
+      "s": "문화일보",
+      "d": "2026-10-08T02:57:42+00:00"
+    },
+    {
+      "t": "“반도체 - 자연보호 문제 선제대응”… SK하닉, AI환경硏 추진",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZlNJaU9tMDZqUnl6NHRqbHp6Q2tJZlhqTldFdC1wOUxITUhkTld4LTdieldaV3ZSeDhWVGFCTGpxcGxybHpQMFNyV2Qzd2p6?oc=5",
+      "s": "문화일보",
+      "d": "2026-10-08T02:51:01+00:00"
+    },
+    {
+      "t": "램리서치, 한국 반도체 스타트업 전용 벤처투자 펀드 출범",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Oem1oMlpmd29VOFJNYlc1OFFnanlTV09SbmR1aVBhOWRHZjFSN0p2RGdzaXRrNk85MXRTcERrZ1B1SVZmbEFpOThRekJ3N2huZUtjX18tREs4MzDSAWBBVV95cUxOWFUyUV93bXRhSHoyaTRlS2RBTVdCcFpqeE5zcGhvZXJVLUNXVGwtY08wd0hITGFlWHF2VlZ5aTA2aFRoNExTTVFubzRPYlJVMDg5WGktbml2TUpoUnNEYmU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-08T02:46:28+00:00"
+    },
+    {
+      "t": "삼전 역대급 실적에도 증시 혼조세...미 국채금리 탓",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByMzFiblpUakltNTJGZnR1a3N4TXo5aVdRY281NGZWTWdhakExVGw4N3UwTUZjaE9WWXF1OVV0ZlpaRnQ3N1BxWUk0VzRYdWdvU2VDeXhYa29JUm5ic1E?oc=5",
+      "s": "YTN",
+      "d": "2026-10-08T02:35:00+00:00"
+    },
     {
       "t": "2D 반도체 결정, 원하는 자리에서 하나만 성장 제어…적층형 AI반도체 기반",
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KN1NadXlQNVF0eGhDS0xqdm4zbmFYaFM2WTBOYVlXZ2hRdHhOMzZfaTg1ZzBQcXlNcmtoWHdIN0ZrM0FUTVV6M3BrZ2F6NlFiMTgxNA?oc=5",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-10-08T02:24:15+00:00"
     },
     {
-      "t": "30년물 나홀로 강세 지속…국고채 혼조세 보이며 커브 플랫",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbmE4VTZxbHJfR09qTmpTWXFMMGFqNzdaTkxxVDBFUE4yMkk3QklzRVFLNzdHeFFMTGp0a2pYVTN2WmhSM1pKb0ItMVgyeWNyU1pWY1huLWw4U3pBNkZqS3BaZVpGMUI3NmdORlRhTWtZdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-08T02:24:13+00:00"
-    },
-    {
       "t": "日 증시, 美 따라 하락 개장…7만선 깨져",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XZm9RaF9FTEF1S2d0VUZqaUc2cW44amU0elJGR25tWnlpaWN0YUNEWHNBUUFHMkNRQkFXcTdLWWtsWXprcmpqNDhJd2hsYTFCbFlWNlhxdUxTbXBqZUpLZ2ZjVWVOOXBWRXVEdnI3clk?oc=5",
       "s": "연합인포맥스",
       "d": "2026-10-08T02:22:10+00:00"
-    },
-    {
-      "t": "금리 인상기에 올해 4분기 ‘금리 변동 주담대’ 165조원…장기·고정금리 정책 시급",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKeENoeWtyVmF1NDRZRjA2X0tYckZiSDlkQkpqNTZtM2lGUG1wVlVxZU1qSncyWTh3SG4tUEtRajhuMXBESHBoVTNPOXdYdC1UUUpzeXh4WGs2eGxqUnBESmVGV1pvM0dHY2c?oc=5",
-      "s": "Daily NTN",
-      "d": "2026-10-08T02:15:11+00:00"
-    },
-    {
-      "t": "9월 신흥국서 채권·주식투자금 동반 순유출…6월 이후 처음",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GeVd0S05EbXJSNzY3bUw5QWNaOUhBelFhQ25ickN3eFJ6TmxNQ2J0RVZBZUFoaXd0SWVDMUtfWUc3a1dZMEZaYktUd085Z0FLUlRncTVHWkJnNC03ZEdrQUZvYzVLRjRpUEdHc2R5QmpxUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-08T02:09:51+00:00"
-    },
-    {
-      "t": "[르포] “하루 40만원 번다”··· 전국서 몰려든 평택 ‘반도체 골드러시’",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81cDRzb1ZQT0pjaXVpb1Y4bEROM3FUTWZBQXJaMk92cjFrNUs4ZmlDOTRIQ09jMV9QWDRLMlZlU0dEcTRZWnZyOXpjTUFqdDhlaW5F?oc=5",
-      "s": "무등일보",
-      "d": "2026-10-08T02:09:00+00:00"
     }
   ],
   "asof": {},
