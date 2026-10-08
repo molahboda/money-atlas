@@ -1,40 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-08T02:00:46+00:00",
-  "quotesAt": "2026-10-08T02:00:46+00:00",
-  "newsAt": "2026-10-08T02:00:46+00:00",
+  "fetchedAt": "2026-10-08T02:15:40+00:00",
+  "quotesAt": "2026-10-08T02:15:40+00:00",
+  "newsAt": "2026-10-08T02:15:40+00:00",
   "quotes": {
-    "kospi": 6775.99,
+    "kospi": 6785.98,
     "spx": 7801.77,
-    "nikkei": 69520.63,
+    "nikkei": 69418.52,
     "vix": 15.08,
-    "krw": 1337.44,
-    "gold": 4158.7,
-    "wti": 89.55,
-    "dxy": 102.18
+    "krw": 1336.98,
+    "gold": 4161.6,
+    "wti": 89.54,
+    "dxy": 102.16
   },
   "daily": {
     "spx": 0.36,
-    "kospi": -2.38,
-    "nikkei": -0.74,
-    "krw": -0.17,
-    "dxy": 0.35,
-    "gold": -0.68,
-    "wti": 0.12,
+    "kospi": -2.24,
+    "nikkei": -0.88,
+    "krw": -0.21,
+    "dxy": 0.32,
+    "gold": -0.61,
+    "wti": 0.11,
     "vix": 0.47
   },
   "news": [
     {
-      "t": "특징주, 저스템-반도체 장비 테마 상승세에 12.23% ↑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jdkdpRXB5SjlIcVVDQzdFUHpjV1UxOWpDMERNeWNBSllxRW9FeDRPUGlKUzFGa2tvM0QyOTY0UkY1ZDV5aXJOb3MxTWFJWGdJN0E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-08T01:52:34+00:00"
+      "t": "환율 영향에도 강한 삼성전기…증권가, 3Q 수익성 개선 예상",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eXdidXNPX1czMVpqb0dQbE5xYmFUeG5nWjItU1NGX1NaSmsyaHczUHJENmdlbjdTOU9CSFFFOTEtajRRU1lveFdNalhmOUJaeGc2SG8xU2UyWjN6OS1iNXlvcC0xb3d3bjNXaW1jRVY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-08T01:59:13+00:00"
     },
     {
-      "t": "특징주, 더코디-반도체 장비 테마 상승세에 18.28% ↑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UeS1MUWZkdGRodDBvUGNXZThLcUhKZEh4NDZPaDFCME5XRkltUVVaeW43bmJnUDRISkZzelJrVk1lbnZSMXVkdmtwV19nUDNkR2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-08T01:52:11+00:00"
+      "t": "[창간특집] 800조 반도체 투자 안착···2030년 양산 향한 실행 로드맵 가동",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2OFp6dkxmbVJVVEdyV2hNRE16VkFfT0o5dnoxS1hseWdWaUtqajB5SGhXRGlpVkRCaVI2Q3JCSDFrbGJ6WWt6RXVTdFI?oc=5",
+      "s": "무등일보",
+      "d": "2026-10-08T01:59:00+00:00"
+    },
+    {
+      "t": "'매파 본성' 드러낸 美 연준…9월 금리인상 만장일치에 연내 추가 인상에도 무게",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4NEd5ejF2dng4a0VfcVVHQ1k2ZjA1WERGVmo4QnpKUlVkUUVpdWJEQlM5RlFCSWFqMjZDS1dKMVNENWpBWnlmLWExT3BhbnNyNVdJNlc4MGViSENaMnc?oc=5",
+      "s": "더구루",
+      "d": "2026-10-08T01:57:12+00:00"
+    },
+    {
+      "t": "5.3% 찍은 미 10년물 국채금리…월가도 전망 크게 엇갈려",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTC1GYmhCVU5vQlN1US1UZ3N1cklJQ2liS3lIMWFhN0RQNmt4QTJkZ193T1JzOGNOMFJ2VlJoeWhOVXhQekY2Z0VHTlVYVE5Ta1phMi16N3dkUk3SAWBBVV95cUxQbHc4alVDd0xRc2pQWkp2b2FtS2ZmSndZcXN6X3NEU1E5clB3dzlSMWZMQXBOYXJnVzkzbDRsVnh3ZDJNbVJ3VU1pMFRtclJnaXF1YTc3MFl6THJmck52YjU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-08T01:56:00+00:00"
     },
     {
       "t": "특징주, 아스플로-반도체 장비 테마 상승세에 5.67% ↑",
@@ -55,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-10-08T01:42:00+00:00"
     },
     {
+      "t": "국제유가, IEA 비축유 방출 가속에 하락…WTI 1.3％↓",
+      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkpraXVMM3ZVdl9zSTJnTGJZTkFJMHE3S2c5MUNsdTFOSWFTMWMzZm9jX3pHdXNRa2VpSkRJdHBMNEhhck11T3ZwYzV2WXRPTC16YU5GaDFTR3RyNmhCN2pva2RVdW9GblA3cWU0d29VaUFaM1BXdTRvb2hvaDJMdmJfdnhUdE5UQ2VzYQ?oc=5",
+      "s": "TBS 서울",
+      "d": "2026-10-08T01:42:00+00:00"
+    },
+    {
       "t": "꺾이지 않는 美금리 고공행진…\"韓증시, 실적중심 선별 장세 전망\"",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1obnJ3MXN0UTdhUnV5cE1MZ2pQWW1sR05RdkF5MmRHdk83dzZyWmp6clhTWDJCNHB6ZWwza0hxWjZiOEdObU5FckRlX2pLOEhSU3c?oc=5",
       "s": "매일경제 마켓",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWGdfdlBSczM1eUUzTmJjTElJSlAwb2VuRGducEowbzctdzFVZEJvLUFFLWxvMklHcnlaV0dIbUJlb3lGYmI3LTVCSDNPR2NhXzFySzZaMFhhcnlzeWhrbQ?oc=5",
       "s": "뉴스토마토",
       "d": "2026-10-08T01:36:49+00:00"
-    },
-    {
-      "t": "[글로벌차트] '5%대 목전'…글로벌 채권 기준 美 국채 10년물 이표금리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUVNEcVNnVkg4V0VoMXFnY0hQcWJmZU1BS3RSNEdENkpDeTY5bGhZU2xTaEZ0MUJnM2pjZkR1eElxSmJNNUpPMWFiT1NQc19sbmZ0dFUybEt3WWlTaHVIQVpkYjhfYVJqSl9Eemdocms?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-08T01:27:03+00:00"
-    },
-    {
-      "t": "OE \"연준, 다음 주 CPI 보고 이달 인상 결심할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zcGVCLXhqUW9fX2VPOWtUWWVaTnFWOHo1SHB0NkppTnk2YXFHUVk2TXhaUjFKcm9JWWpoVTVzNVMyVjd0TWw5dHhBSHdHTmFQb09YRkFFVkFJNkNEeUFlWXdFUGlncFlxX193WjExMG0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-08T01:24:25+00:00"
-    },
-    {
-      "t": "[종합] 반도체 호조에 8월 경상흑자 '역대 2위'…한은 \"연간 4500억달러 가능\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jOUFsQjVtR09NUGItQkNiNllIeHVnWlpuRE5xNE95VXlXSmJhYVl3eEIwQzA3M1Q2VjIxcDZ5MkItblZnbE4yU3J0QjFJOFVUZzFERTBXNkxNLU41?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-08T01:20:00+00:00"
     }
   ],
   "asof": {},
