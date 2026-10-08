@@ -1,39 +1,75 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-08T02:30:51+00:00",
-  "quotesAt": "2026-10-08T02:30:51+00:00",
-  "newsAt": "2026-10-08T02:30:51+00:00",
+  "fetchedAt": "2026-10-08T02:45:41+00:00",
+  "quotesAt": "2026-10-08T02:45:41+00:00",
+  "newsAt": "2026-10-08T02:45:41+00:00",
   "quotes": {
-    "kospi": 6760.23,
+    "kospi": 6759.86,
     "spx": 7801.77,
-    "nikkei": 69349.21,
+    "nikkei": 69373.4,
     "vix": 15.08,
-    "krw": 1336.88,
-    "gold": 4162.8,
-    "wti": 89.57,
-    "dxy": 102.14
+    "krw": 1336.65,
+    "gold": 4165,
+    "wti": 89.63,
+    "dxy": 102.19
   },
   "daily": {
     "spx": 0.36,
-    "kospi": -2.61,
-    "nikkei": -0.98,
-    "krw": -0.21,
-    "dxy": 0.31,
-    "gold": -0.58,
-    "wti": 0.15,
+    "kospi": -2.62,
+    "nikkei": -0.95,
+    "krw": -0.23,
+    "dxy": 0.36,
+    "gold": -0.53,
+    "wti": 0.21,
     "vix": 0.47
   },
   "news": [
     {
-      "t": "“취업 잘되는 게 최고”...충북반도체고 입학설명회 참석자 5배 늘어",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZ0pCWmxjV0FKbkJwYTNOdl9tSDRPSGhRaWxoV3lvdDQyOFgwY3VmOV8wQWx2T0U0QmQ1dnNZcDZaX1JIbWFWMC1tS1lPYTZlNXlkOTFR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-10-08T02:25:05+00:00"
+      "t": "2D 반도체 결정, 원하는 자리에서 하나만 성장 제어…적층형 AI반도체 기반",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KN1NadXlQNVF0eGhDS0xqdm4zbmFYaFM2WTBOYVlXZ2hRdHhOMzZfaTg1ZzBQcXlNcmtoWHdIN0ZrM0FUTVV6M3BrZ2F6NlFiMTgxNA?oc=5",
+      "s": "DongA Science",
+      "d": "2026-10-08T02:32:00+00:00"
+    },
+    {
+      "t": "바클레이즈 \"美증시 실적상향 75%가 반도체·하드웨어…쏠림 심화\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbkt3cmR1aUl1c1JKeEhPVlp2ZkowejZkbDZGWjdpYVpsd3lna183Y3RfU1Jta1ZudjJOZ2I3a3g1MUh2WlhETFJhekR0dFhwbmhva1NPOEhMbnp4Z3owZlQ5am4xN2x2WE1GR29CRlQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-08T02:31:16+00:00"
+    },
+    {
+      "t": "'유가 담합 혐의' SK에너지, 가격 투명성 등 4대 방안 발표",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yMzZrMm5LbUxwRjREVXFPOWlMSEJOYU5qOEhPSUV4M2hLSzA1X0JfRHVBWl82R2d6dGFCazhEYlZERWJ2TVBKcDVvUTFGMnp4RUJjMnJjbGN0TDk4eVA4a3N6Y21iSFhvemRMRlZoY1Q?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-08T02:27:33+00:00"
+    },
+    {
+      "t": "삼성전자, 107조 벌어도 주가는 제자리…환율·순환매에 묻혔다",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnktMi13UkFiQnF6LV8wZmpCb2VlVnFrdnFJUkhsLWNLeGh2QjRSZk1UVF81WmppNE9BZjV5SnVKeG5BRlJPSUhuVmZxWmVVdFdEbC1LRmxMZmJnT3o4WUFFaGdhQnAxZ1d2R0N6bWhuQnFxci1jbnBrVzlPNUdtU0Jfdw?oc=5",
+      "s": "인베스트조선",
+      "d": "2026-10-08T02:27:00+00:00"
+    },
+    {
+      "t": "5.3% 찍은 미 10년물 국채금리‥월가 전망 엇갈려",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QQUNLRV9ueFRMajZXNm9fcTg4Zzg4a1JrTm1PTjJTV2hkcHhlQmNsQzFuM3JXSnByYWpxQzhVVUI4NmVPak9hd0FGX3Q3LXJzOFdtUC0zU2tEVlVldzZhazRvRVZrTW9vM2p0ZDlRTnZFQUZm0gF0QVVfeXFMTjVIZmd1SmhyYlRQQnl2cTN0d3Y0WU45ZW5oUlg3ak9pUXctVDctaklRQjFya1pLdkpZNk40ZDVKMXJDXzk5RGtHcjMzY0RLU0ZyZmVfcUFvSXFVaFhaekc1dG9oZXZnOENCQVpRSl9mNmNLcjg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-10-08T02:24:15+00:00"
+    },
+    {
+      "t": "30년물 나홀로 강세 지속…국고채 혼조세 보이며 커브 플랫",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbmE4VTZxbHJfR09qTmpTWXFMMGFqNzdaTkxxVDBFUE4yMkk3QklzRVFLNzdHeFFMTGp0a2pYVTN2WmhSM1pKb0ItMVgyeWNyU1pWY1huLWw4U3pBNkZqS3BaZVpGMUI3NmdORlRhTWtZdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-08T02:24:13+00:00"
+    },
+    {
+      "t": "日 증시, 美 따라 하락 개장…7만선 깨져",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XZm9RaF9FTEF1S2d0VUZqaUc2cW44amU0elJGR25tWnlpaWN0YUNEWHNBUUFHMkNRQkFXcTdLWWtsWXprcmpqNDhJd2hsYTFCbFlWNlhxdUxTbXBqZUpLZ2ZjVWVOOXBWRXVEdnI3clk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-08T02:22:10+00:00"
     },
     {
       "t": "금리 인상기에 올해 4분기 ‘금리 변동 주담대’ 165조원…장기·고정금리 정책 시급",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKeENoeWtyVmF1NDRZRjA2X0tYckZiSDlkQkpqNTZtM2lGUG1wVlVxZU1qSncyWTh3SG4tUEtRajhuMXBESHBoVTNPOXdYdC1UUUpzeXh4WGs2eGxqUnBESmVGV1pvM0dHY2c?oc=5",
-      "s": "www.intn.co.kr",
+      "s": "Daily NTN",
       "d": "2026-10-08T02:15:11+00:00"
     },
     {
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81cDRzb1ZQT0pjaXVpb1Y4bEROM3FUTWZBQXJaMk92cjFrNUs4ZmlDOTRIQ09jMV9QWDRLMlZlU0dEcTRZWnZyOXpjTUFqdDhlaW5F?oc=5",
       "s": "무등일보",
       "d": "2026-10-08T02:09:00+00:00"
-    },
-    {
-      "t": "[외환] 달러선물 매도·亞 통화 강세에 연저점 부근 하락…3.10원↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjRUNjMzRxU090cnJ3WXRnMkhtbXRnSlZfdDQ2bDdGQmdYbUd5V0FPQW1OMjhGZ0NwVzFRdmdKUUFVMFExSjctVUZXLVh0NVpOVjZqeWRzZnF6SmRkZTdIcTJyeUo1blAtZXZyRzNtZk5rUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-08T02:05:49+00:00"
-    },
-    {
-      "t": "환율 영향에도 강한 삼성전기…증권가, 3Q 수익성 개선 예상",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eXdidXNPX1czMVpqb0dQbE5xYmFUeG5nWjItU1NGX1NaSmsyaHczUHJENmdlbjdTOU9CSFFFOTEtajRRU1lveFdNalhmOUJaeGc2SG8xU2UyWjN6OS1iNXlvcC0xb3d3bjNXaW1jRVY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-08T01:59:13+00:00"
-    },
-    {
-      "t": "[창간특집] 800조 반도체 투자 안착···2030년 양산 향한 실행 로드맵 가동",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2OFp6dkxmbVJVVEdyV2hNRE16VkFfT0o5dnoxS1hseWdWaUtqajB5SGhXRGlpVkRCaVI2Q3JCSDFrbGJ6WWt6RXVTdFI?oc=5",
-      "s": "무등일보",
-      "d": "2026-10-08T01:59:00+00:00"
-    },
-    {
-      "t": "'매파 본성' 드러낸 美 연준…9월 금리인상 만장일치에 연내 추가 인상에도 무게",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4NEd5ejF2dng4a0VfcVVHQ1k2ZjA1WERGVmo4QnpKUlVkUUVpdWJEQlM5RlFCSWFqMjZDS1dKMVNENWpBWnlmLWExT3BhbnNyNVdJNlc4MGViSENaMnc?oc=5",
-      "s": "더구루",
-      "d": "2026-10-08T01:57:12+00:00"
-    },
-    {
-      "t": "5.3% 찍은 미 10년물 국채금리…월가도 전망 크게 엇갈려",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qTC1GYmhCVU5vQlN1US1UZ3N1cklJQ2liS3lIMWFhN0RQNmt4QTJkZ193T1JzOGNOMFJ2VlJoeWhOVXhQekY2Z0VHTlVYVE5Ta1phMi16N3dkUk3SAWBBVV95cUxQbHc4alVDd0xRc2pQWkp2b2FtS2ZmSndZcXN6X3NEU1E5clB3dzlSMWZMQXBOYXJnVzkzbDRsVnh3ZDJNbVJ3VU1pMFRtclJnaXF1YTc3MFl6THJmck52YjU?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-08T01:56:00+00:00"
-    },
-    {
-      "t": "호르무즈 해협 긴장 고조로 연준 금리 인상 기대 강화, 금값 9주 최저치 근방",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hR2Vha3VmVzVoNlkyeU54R00wVEZBRGFQb0UyN184aVJveEFkeHdqM1NnN1prWmx1Tk5kbkVpVTFhTTQwWTI5eWkybDcwLVhtLUNrV0Jxd3RBcVVqcUJJY0FTQkMyeUZxYXYwMmI0MVY?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-08T01:47:00+00:00"
     }
   ],
   "asof": {},
