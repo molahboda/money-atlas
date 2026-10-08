@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-08T01:30:59+00:00",
-  "quotesAt": "2026-10-08T01:30:59+00:00",
-  "newsAt": "2026-10-08T01:30:59+00:00",
+  "fetchedAt": "2026-10-08T01:45:43+00:00",
+  "quotesAt": "2026-10-08T01:45:43+00:00",
+  "newsAt": "2026-10-08T01:45:43+00:00",
   "quotes": {
-    "kospi": 6745.89,
+    "kospi": 6763.07,
     "spx": 7801.77,
-    "nikkei": 69324,
+    "nikkei": 69355.74,
     "vix": 15.08,
-    "krw": 1337.18,
-    "gold": 4145.5,
-    "wti": 89.4,
-    "dxy": 102.22
+    "krw": 1337.48,
+    "gold": 4156.7,
+    "wti": 89.18,
+    "dxy": 102.23
   },
   "daily": {
     "spx": 0.36,
-    "kospi": -2.82,
-    "nikkei": -1.02,
-    "krw": -0.19,
+    "kospi": -2.57,
+    "nikkei": -0.97,
+    "krw": -0.17,
     "dxy": 0.39,
-    "gold": -0.99,
-    "wti": -0.04,
+    "gold": -0.73,
+    "wti": -0.29,
     "vix": 0.47
   },
   "news": [
     {
-      "t": "재경부, ‘환율 안정’ 명분 앞세워 7대 수출기업 11년치 외환자료 ‘먼지털이’ 논란",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zak1HQ2tkNXpfbnBvaTk4NWJZU0xUamM4Vy1nRmg3TGQ0OWlKcmU0dXZmSDZCRkVaalBmcUxyRm5uckQyUTBPNmNNYUhkQTF5VkpWSGxVSWRkZVhrOXBISTJxYjFfTzlX?oc=5",
-      "s": "www.intn.co.kr",
-      "d": "2026-10-07T05:53:22+00:00"
+      "t": "미, 주담대 3년 만에 최고치…트럼프 \"연준, 금리 내려야\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWGdfdlBSczM1eUUzTmJjTElJSlAwb2VuRGducEowbzctdzFVZEJvLUFFLWxvMklHcnlaV0dIbUJlb3lGYmI3LTVCSDNPR2NhXzFySzZaMFhhcnlzeWhrbQ?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-08T01:36:49+00:00"
     },
     {
-      "t": "인도, 4년 만에 금리 인상…추가 인상 가능성 열어둬",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44QWJUQXpNckhSaDlyTnp2LTBQTXQ0akFwV0Y2VW5fYzNCb3kxOU5acmZRWnhEQUNtQllqVXpLTTQtT0twNHdQVHdZNzFPNXc?oc=5",
-      "s": "Daum",
-      "d": "2026-10-07T05:51:58+00:00"
+      "t": "[글로벌차트] '5%대 목전'…글로벌 채권 기준 美 국채 10년물 이표금리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUVNEcVNnVkg4V0VoMXFnY0hQcWJmZU1BS3RSNEdENkpDeTY5bGhZU2xTaEZ0MUJnM2pjZkR1eElxSmJNNUpPMWFiT1NQc19sbmZ0dFUybEt3WWlTaHVIQVpkYjhfYVJqSl9Eemdocms?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-08T01:27:03+00:00"
     },
     {
-      "t": "김원이 의원, 서남권 반도체 에너지 산업벨트 조성 제안",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RWmRma2tIOFZXd3VmeTBMdFFqTjZxZmtsVGs5NlluZHE2SXUtdktGMlVQMncwY0ZXOXUxeHlOTjJzWUZ0NkMwMm5IU3hadDQ?oc=5",
-      "s": "Daum",
-      "d": "2026-10-07T05:49:04+00:00"
+      "t": "OE \"연준, 다음 주 CPI 보고 이달 인상 결심할 것\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zcGVCLXhqUW9fX2VPOWtUWWVaTnFWOHo1SHB0NkppTnk2YXFHUVk2TXhaUjFKcm9JWWpoVTVzNVMyVjd0TWw5dHhBSHdHTmFQb09YRkFFVkFJNkNEeUFlWXdFUGlncFlxX193WjExMG0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-08T01:24:25+00:00"
     },
     {
-      "t": "[포토] AI반도체 기업 라운드테이블",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56UEdZTjY4VVRoR25XN3QtejZBaWRsOWZiRzFTdWY1b05wZlQ5ZVM0R2hHQS1Pa18yTnVuRmR3TmRkZWRoUUlsTkROWHZTZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-10-07T05:46:50+00:00"
+      "t": "107조원 벌었지만 삼성전자 주가는 주춤…'반도체 고점' 경계감 여전",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlWS1aSENqVlJhWWM1dGxHZTFZMW5BQWl5ZDU3dlB4dkRQY1IxX2lZUVJ6TnR2bmZFZG80ZVI3TFlCUnRBT3BaQnVtWENLMFlwZ1U0YlBiODB1SFBXUmdXMVpn?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-08T01:23:00+00:00"
     },
     {
-      "t": "인도 증시, RBI 약 4년 만의 금리 인상 후 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxTjcybndWM0oybzN0cEViUFpic0ZiMjBLZ3ZMSkx6a1IwOC1ENm11cGFSdlpVYUVwUW1zaVNSOHBJbk9pa3NyOXRBUFgyRzhMVGpzY3J5SXpwc283bnRCY3I3bHU3WC1xekRoSHN1UFg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-07T05:45:00+00:00"
+      "t": "[종합] 반도체 호조에 8월 경상흑자 '역대 2위'…한은 \"연간 4500억달러 가능\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jOUFsQjVtR09NUGItQkNiNllIeHVnWlpuRE5xNE95VXlXSmJhYVl3eEIwQzA3M1Q2VjIxcDZ5MkItblZnbE4yU3J0QjFJOFVUZzFERTBXNkxNLU41?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-08T01:20:00+00:00"
     },
     {
-      "t": "[현장] 리사 수 \"韓 AI 생태계 기여\"…국내 AI 반도체업계와 이기종 AI 인프라 구축 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRFlpVkRGeHJyUzVtSGZ4czdweWtUR25LTjM0eDM3RkNPVVdOX1ZXM2JkT3NXYXZLOS1VcTkxT3BHMGhocGc4RXVIQ25UMElBdjZtREE1ZVNKOEtXazRtbGVTZk5wTEEybG94OXUxa1c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-07T05:41:00+00:00"
+      "t": "이억원 \"금리인상기, 정책서민금융 금리 낮추고 공급 확대\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12NVlxamp0UmhpandaUDdXWkhQYlh6NFF3UXdKQkM4RXNGMDNWRS1NZUhKQWxoWFZkUUVXMG5PbDZiU09EQXZIaE5XUjBKQXZnOEUyeklIR2ZhTVnSAWBBVV95cUxNd2N1MFg3M05ZMjVBM0ktamhBWHFxa1JnOTdmcHNkcnY5RVVaM3MyUmxGS1FydGNZZXc0VGlHdmRkMzdIRkQtM3ZiYmlXMTVCTWdLU0NETXIta3RYMjlCdm0?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-08T01:18:40+00:00"
     },
     {
-      "t": "대구 물가 상승세 둔화에도 장바구니 부담…채소값 한 달 새 12.5%↑",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nRTJGRV9mU3p4QjVIemtyN0c5eW43d3JPR2FXOEhoQTFLYlNwQ3I1YlNkckk1ajFIQ1hJVWVtUF9IMFl6WU9kN0NpM09LQm8?oc=5",
-      "s": "Daum",
-      "d": "2026-10-07T05:40:04+00:00"
+      "t": "[게시판] OCI, 전북대와 반도체 소재 R&D 산학협력",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BMlBoY3ltNXJOUURFelp2cEIxQjBXR2tPRjRzRTQ3WmdiT0hDQzBxZnpTb25sUmZSX3ZGTEtQcnhMaVhDQmhIRDBDc2R1TjBkT05lTl9zTkFFY1dwQjJiMVhVby1ZZnBnaFl1QWx5R1dDbkhn?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-10-08T01:18:12+00:00"
     },
     {
-      "t": "삼전 실적 '경계' 외국인 2조 순매도…코스피 1.5%↓ 6830선[장중시황]",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iVTlSRFNWczRydlNGTXJ3N3JQV2JUNnREUUMzMGVCLUozb05sQS1tdEM4RGtocEVhV1VmV3g1aTJKYmhfMDh2bmhMallOSnc?oc=5",
-      "s": "Daum",
-      "d": "2026-10-07T05:36:00+00:00"
+      "t": "美국채금리 상승에 주담대 금리 7.49%…3년 만에 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xX0ZxdUthNUxnbWQtRVJ3ZldOcWNsWlktZHlDWkdrajVvWGgxY3JwclRlMzVNOVc4RkppRHcwOEItaTJvVGx5SFJJOGNyc3I0VHB1b1I5a284b1hO?oc=5",
+      "s": "티제이비",
+      "d": "2026-10-08T01:17:25+00:00"
     },
     {
-      "t": "日 반도체 소부장, 자국 내 생산 강화…경제안보·엔저 영향",
-      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91R3diSEZNMXdNcVFBbnN2M19XaHN5SGdKdmFOeFZDc3oxTzdRbTFtUHFjUHJhbzl0cnZUNzBkMnZMOUpWQ2ZkZHYyeGYxbkk?oc=5",
-      "s": "Daum",
-      "d": "2026-10-07T05:30:05+00:00"
-    },
-    {
-      "t": "삼성전자 '영업익 100조' 시대 연다…메모리 반도체만 110조 전망 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVC1xdm9zVTQ4aC1SMTFLdkcxYkZVa0FEYWhaQnVzZm1kV0tXa0QwQjZoV2JhZTNpdWx2WlpTRnJlZVBUZi1sSGVNZ1dzQXJCdVJnLUlSRjZySlFpLTlQR2l4NVl6Ul9GN3p0dNIBckFVX3lxTE1OMUVXSmNvV2w4bXNmMEdSeGpCcmlxRndRM3RxM2xXTXNPNTVNcUxybTNuUEw1SVJHMzhWaDNUS2U1RU1UdmtvZ3hUTE9tMHdPTGtOLW5NS2RaUTE2cHlWMjZFaGhoWnpoYmh6Q3NvVUlEQQ?oc=5",
+      "t": "OCI, 전북대와 반도체 소재 R&D 산학협력..지역 생태계 조성 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pZVg4OTM1TXE4ZzZTVjQ1cXFFRXZ5eG9SNzdpbUJzZk9leFlGcFY0dWUwTl9UU0FTa0NFb3lROTZwV3RaUENtQndOTXFXSUdWMm1waHNXWFFvTk5ZVXk5QmxQdmZHWWZtaVRNVdIBckFVX3lxTE5YSWRobzBIOVExZUhxc0N2bEU4ZUticmJZcFRnYnJyT2p2c1hOd0phWUhDcGJFNllHMUFXVG1pQXd2S2NNUHVxM3F0dDNnamdKcFFIaUJQNUF3NnZ0VW96SVdzaTZoeDNOdEd0VTlyd01mZw?oc=5",
       "s": "머니투데이",
-      "d": "2026-10-07T05:30:00+00:00"
+      "d": "2026-10-08T01:15:33+00:00"
+    },
+    {
+      "t": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-10-08T01:14:13+00:00"
     }
   ],
   "asof": {},
