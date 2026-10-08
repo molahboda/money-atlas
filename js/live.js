@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-08T02:15:40+00:00",
-  "quotesAt": "2026-10-08T02:15:40+00:00",
-  "newsAt": "2026-10-08T02:15:40+00:00",
+  "fetchedAt": "2026-10-08T02:30:51+00:00",
+  "quotesAt": "2026-10-08T02:30:51+00:00",
+  "newsAt": "2026-10-08T02:30:51+00:00",
   "quotes": {
-    "kospi": 6785.98,
+    "kospi": 6760.23,
     "spx": 7801.77,
-    "nikkei": 69418.52,
+    "nikkei": 69349.21,
     "vix": 15.08,
-    "krw": 1336.98,
-    "gold": 4161.6,
-    "wti": 89.54,
-    "dxy": 102.16
+    "krw": 1336.88,
+    "gold": 4162.8,
+    "wti": 89.57,
+    "dxy": 102.14
   },
   "daily": {
     "spx": 0.36,
-    "kospi": -2.24,
-    "nikkei": -0.88,
+    "kospi": -2.61,
+    "nikkei": -0.98,
     "krw": -0.21,
-    "dxy": 0.32,
-    "gold": -0.61,
-    "wti": 0.11,
+    "dxy": 0.31,
+    "gold": -0.58,
+    "wti": 0.15,
     "vix": 0.47
   },
   "news": [
+    {
+      "t": "“취업 잘되는 게 최고”...충북반도체고 입학설명회 참석자 5배 늘어",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiZ0pCWmxjV0FKbkJwYTNOdl9tSDRPSGhRaWxoV3lvdDQyOFgwY3VmOV8wQWx2T0U0QmQ1dnNZcDZaX1JIbWFWMC1tS1lPYTZlNXlkOTFR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-08T02:25:05+00:00"
+    },
+    {
+      "t": "금리 인상기에 올해 4분기 ‘금리 변동 주담대’ 165조원…장기·고정금리 정책 시급",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKeENoeWtyVmF1NDRZRjA2X0tYckZiSDlkQkpqNTZtM2lGUG1wVlVxZU1qSncyWTh3SG4tUEtRajhuMXBESHBoVTNPOXdYdC1UUUpzeXh4WGs2eGxqUnBESmVGV1pvM0dHY2c?oc=5",
+      "s": "www.intn.co.kr",
+      "d": "2026-10-08T02:15:11+00:00"
+    },
+    {
+      "t": "9월 신흥국서 채권·주식투자금 동반 순유출…6월 이후 처음",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GeVd0S05EbXJSNzY3bUw5QWNaOUhBelFhQ25ickN3eFJ6TmxNQ2J0RVZBZUFoaXd0SWVDMUtfWUc3a1dZMEZaYktUd085Z0FLUlRncTVHWkJnNC03ZEdrQUZvYzVLRjRpUEdHc2R5QmpxUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-08T02:09:51+00:00"
+    },
+    {
+      "t": "[르포] “하루 40만원 번다”··· 전국서 몰려든 평택 ‘반도체 골드러시’",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81cDRzb1ZQT0pjaXVpb1Y4bEROM3FUTWZBQXJaMk92cjFrNUs4ZmlDOTRIQ09jMV9QWDRLMlZlU0dEcTRZWnZyOXpjTUFqdDhlaW5F?oc=5",
+      "s": "무등일보",
+      "d": "2026-10-08T02:09:00+00:00"
+    },
+    {
+      "t": "[외환] 달러선물 매도·亞 통화 강세에 연저점 부근 하락…3.10원↓",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjRUNjMzRxU090cnJ3WXRnMkhtbXRnSlZfdDQ2bDdGQmdYbUd5V0FPQW1OMjhGZ0NwVzFRdmdKUUFVMFExSjctVUZXLVh0NVpOVjZqeWRzZnF6SmRkZTdIcTJyeUo1blAtZXZyRzNtZk5rUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-08T02:05:49+00:00"
+    },
     {
       "t": "환율 영향에도 강한 삼성전기…증권가, 3Q 수익성 개선 예상",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01eXdidXNPX1czMVpqb0dQbE5xYmFUeG5nWjItU1NGX1NaSmsyaHczUHJENmdlbjdTOU9CSFFFOTEtajRRU1lveFdNalhmOUJaeGc2SG8xU2UyWjN6OS1iNXlvcC0xb3d3bjNXaW1jRVY?oc=5",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-10-08T01:56:00+00:00"
     },
     {
-      "t": "특징주, 아스플로-반도체 장비 테마 상승세에 5.67% ↑",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcXY4X2poTnpfc0hjTnFmSDBoSG0wNUg2bGlTbG1sN1RIZlJMWmRZNGZMbWUycDZPSWNEclZZWWxkS0lRTWtFUTZERGU0elFDeGc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-08T01:51:58+00:00"
-    },
-    {
       "t": "호르무즈 해협 긴장 고조로 연준 금리 인상 기대 강화, 금값 9주 최저치 근방",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hR2Vha3VmVzVoNlkyeU54R00wVEZBRGFQb0UyN184aVJveEFkeHdqM1NnN1prWmx1Tk5kbkVpVTFhTTQwWTI5eWkybDcwLVhtLUNrV0Jxd3RBcVVqcUJJY0FTQkMyeUZxYXYwMmI0MVY?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-10-08T01:47:00+00:00"
-    },
-    {
-      "t": "삼성전자 역대급 실적에도…코스피 6,700선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aR0g5S0hBM3NfY1BhNHRURDByZmh4T2pZdDdwN1k3YUNZYlJ1dzlBMmVRa1d6R3BJVFRFbWFxbmZBOXg0X0hUcmRlcTVZZ1BKTDFFMm5oVjFMT2ZWdE5Kc3o4NE9zcFU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-08T01:42:00+00:00"
-    },
-    {
-      "t": "국제유가, IEA 비축유 방출 가속에 하락…WTI 1.3％↓",
-      "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkpraXVMM3ZVdl9zSTJnTGJZTkFJMHE3S2c5MUNsdTFOSWFTMWMzZm9jX3pHdXNRa2VpSkRJdHBMNEhhck11T3ZwYzV2WXRPTC16YU5GaDFTR3RyNmhCN2pva2RVdW9GblA3cWU0d29VaUFaM1BXdTRvb2hvaDJMdmJfdnhUdE5UQ2VzYQ?oc=5",
-      "s": "TBS 서울",
-      "d": "2026-10-08T01:42:00+00:00"
-    },
-    {
-      "t": "꺾이지 않는 美금리 고공행진…\"韓증시, 실적중심 선별 장세 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1obnJ3MXN0UTdhUnV5cE1MZ2pQWW1sR05RdkF5MmRHdk83dzZyWmp6clhTWDJCNHB6ZWwza0hxWjZiOEdObU5FckRlX2pLOEhSU3c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-08T01:37:49+00:00"
-    },
-    {
-      "t": "미, 주담대 3년 만에 최고치…트럼프 \"연준, 금리 내려야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWGdfdlBSczM1eUUzTmJjTElJSlAwb2VuRGducEowbzctdzFVZEJvLUFFLWxvMklHcnlaV0dIbUJlb3lGYmI3LTVCSDNPR2NhXzFySzZaMFhhcnlzeWhrbQ?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-10-08T01:36:49+00:00"
     }
   ],
   "asof": {},
