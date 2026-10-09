@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-09T04:15:40+00:00",
-  "quotesAt": "2026-10-09T04:15:40+00:00",
-  "newsAt": "2026-10-09T04:15:40+00:00",
+  "fetchedAt": "2026-10-09T04:30:38+00:00",
+  "quotesAt": "2026-10-09T04:30:38+00:00",
+  "newsAt": "2026-10-09T04:30:38+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7765.36,
-    "nikkei": 68762.65,
+    "nikkei": 68828.78,
     "vix": 15.41,
     "krw": 1344.1,
-    "gold": 4202,
-    "wti": 90.41,
+    "gold": 4204.7,
+    "wti": 90.33,
     "dxy": 102.03
   },
   "daily": {
     "spx": -0.69,
     "kospi": -4.54,
-    "nikkei": -0.4,
+    "nikkei": -0.31,
     "krw": 0.37,
     "dxy": -0.11,
-    "gold": 1.08,
-    "wti": -1.18,
+    "gold": 1.15,
+    "wti": -1.27,
     "vix": 2.19
   },
   "news": [
+    {
+      "t": "840원대 초반까지 내린 엔-원 재정환율…日 잇단 발언에 반등할까",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FLVpwVkFKTFNOdkZyYUxubDRpc1NtSTF2c3dCWngtb0c2a2VjQzBYWUQxT3UwdHhQQ3ByR0pBalo3cmhkSU5VQ1AyUFpWV1hDTDlGdnJPaGdTVWkySzRaS00zc0hmTE5xcldMOFNianY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-09T04:20:01+00:00"
+    },
     {
       "t": "아시아 증시 혼조세…OpenAI 매출 우려에 반도체주 급락",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yejhKd3pLSDVDUlNDZC0yajYtaFE4emhaVWRrYlRfUmRLQkhKUS10a2plUXU2ZUFzTFVacGZMeGVJY3NES1hEUVYzdlJsdmFwLU5ocXVib3lCSEZLVGdXeHRNOXRENVY1UXd3Zmp4dDQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUmZ1WW55MVBpbVFLUUxWUWo5Q1lIM2s4c1BsQ3EzS3BWNERlbFUzdDhuektoTTl6eVBGUnNzNlZONXBlNld2QWlxTllfYU45T3BWa1cweUZXaWU4STRuQXJOdWlsUU9oX1JsUFctUnFnUQ?oc=5",
       "s": "KB Think",
       "d": "2026-10-09T03:24:10+00:00"
-    },
-    {
-      "t": "우에다, 내달 IMF에서 강연 전망…추가 금리 인상 시그널 주목",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZME50WEZlWE1wOW5TYUd2Mi1Dc1YzNlJlc0JJblhtSmp4VzBQUkNuSVZmcURwYW9PYU44WnpLVFlKR0V6aGNoWkFTLVBKWDFrV293cHhrcDI4dmtpUlZGSVpHMEQ3RDRlWFRXcUJqb1E3dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-09T03:04:31+00:00"
     }
   ],
   "asof": {},
