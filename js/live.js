@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-09T04:45:39+00:00",
-  "quotesAt": "2026-10-09T04:45:39+00:00",
-  "newsAt": "2026-10-09T04:45:39+00:00",
+  "fetchedAt": "2026-10-09T05:00:52+00:00",
+  "quotesAt": "2026-10-09T05:00:52+00:00",
+  "newsAt": "2026-10-09T05:00:52+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7765.36,
-    "nikkei": 68822.64,
+    "nikkei": 68918.08,
     "vix": 15.41,
     "krw": 1344.1,
-    "gold": 4209.6,
-    "wti": 90.3,
-    "dxy": 102.02
+    "gold": 4201.4,
+    "wti": 90.37,
+    "dxy": 102.03
   },
   "daily": {
     "spx": -0.69,
     "kospi": -4.54,
-    "nikkei": -0.32,
+    "nikkei": -0.18,
     "krw": 0.37,
-    "dxy": -0.12,
-    "gold": 1.27,
-    "wti": -1.3,
+    "dxy": -0.11,
+    "gold": 1.07,
+    "wti": -1.22,
     "vix": 2.19
   },
   "news": [
+    {
+      "t": "‘예상보다 29%↓’…오픈AI 매출 우려에 뉴욕 증시까지 ‘찬물’",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05VmJsaGUyYV9jR2dkYTBLTFItNUZfLVF3bFU2Skktb1gzanhlNzY0anZLWllHa1dlYkRQdXVCNmp2aUZRaFd6MGlvQnlVdVFKMkVrQkthT3ZQZXA4akJabmV4Q0hhclZxQXc1cGluNHlIeWM?oc=5",
+      "s": "서울신문",
+      "d": "2026-10-09T04:46:09+00:00"
+    },
     {
       "t": "더욱 까다로워지는 미국 수출, 이제는 관세뿐만 아니라 통관도 거대한 허들",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sZVdJV0pQZmNIa283Ml9fd015ZDYyamlYY3pPSXpJVW9jTnZ3cDlOa1BBY3hxMnZqZkxuUXJEd05rb0MxU3Z1MTVPU3V4UGl0YkI1NHNVbFpZVW10NDg5WlhTZUoxZDB2TzF5dXJ6dzFlR2c?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWF9tQk5FT0JiR0tnRV9SUkd5dkJxRGNrQlVub3BMUkNvUU9mY183SGE1SjRzQnpvMGg5NGVWaHhLQWRTb1ZVQVg0LWNMZUREVHJIT2NMM18yZ2szbWR2Sy0wUi1RRzhRLVJzaDA0YXdCQndYWmt2TdIBeEFVX3lxTE5SeWVDbGJYdDdWaF9pZzRvRGFEdW5yNjJzV0lXc2RYTE1ZTFRvbkxYUmladWVGM2s2eVIwSG5TRFNGeUEzRUg5SDNhSVBkSXEyUUE1c3U1VXdKUGxRUG54dmtUNVFIdEw2NDhuWlVUR3JNQXFCTkNMVQ?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-10-09T03:45:28+00:00"
-    },
-    {
-      "t": "반도체 초호황인데, 완제품은 적자…희비 엇갈린 ‘한 지붕 두 삼전’",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVk5jWDhxNGR1dElMTDZxN0EtSnFBSFNqdWdMc2lqVmtDeU0tNlJ0SzM1RjR5Y0ljY3gxaWRIQXpNZ2FnaGhwaGM1Y2JYQ0JRaHVoT01IeW9hNTYwRTBabVNia1JYam41WkE?oc=5",
-      "s": "한겨레",
-      "d": "2026-10-09T03:44:58+00:00"
     }
   ],
   "asof": {},
