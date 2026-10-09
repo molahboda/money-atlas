@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-09T04:30:38+00:00",
-  "quotesAt": "2026-10-09T04:30:38+00:00",
-  "newsAt": "2026-10-09T04:30:38+00:00",
+  "fetchedAt": "2026-10-09T04:45:39+00:00",
+  "quotesAt": "2026-10-09T04:45:39+00:00",
+  "newsAt": "2026-10-09T04:45:39+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7765.36,
-    "nikkei": 68828.78,
+    "nikkei": 68822.64,
     "vix": 15.41,
     "krw": 1344.1,
-    "gold": 4204.7,
-    "wti": 90.33,
-    "dxy": 102.03
+    "gold": 4209.6,
+    "wti": 90.3,
+    "dxy": 102.02
   },
   "daily": {
     "spx": -0.69,
     "kospi": -4.54,
-    "nikkei": -0.31,
+    "nikkei": -0.32,
     "krw": 0.37,
-    "dxy": -0.11,
-    "gold": 1.15,
-    "wti": -1.27,
+    "dxy": -0.12,
+    "gold": 1.27,
+    "wti": -1.3,
     "vix": 2.19
   },
   "news": [
+    {
+      "t": "더욱 까다로워지는 미국 수출, 이제는 관세뿐만 아니라 통관도 거대한 허들",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sZVdJV0pQZmNIa283Ml9fd015ZDYyamlYY3pPSXpJVW9jTnZ3cDlOa1BBY3hxMnZqZkxuUXJEd05rb0MxU3Z1MTVPU3V4UGl0YkI1NHNVbFpZVW10NDg5WlhTZUoxZDB2TzF5dXJ6dzFlR2c?oc=5",
+      "s": "쉬핑뉴스넷",
+      "d": "2026-10-09T04:26:31+00:00"
+    },
+    {
+      "t": "[도쿄환시] 美 달러 실수요 매수에 158엔대 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bU90OU5XRWdXQmcxMkg0alNDZE5zeFE5aXVtWjRqN3d2eVd5emVfZ3lFWGh2TG5WUVFnLWRZVmU4REFMNHVEcGl2clp2UDJaU0FhVG51QjFYZ3dRM29TMzNrOGxYb1p0WWNacUFSYzB1dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-09T04:21:39+00:00"
+    },
     {
       "t": "840원대 초반까지 내린 엔-원 재정환율…日 잇단 발언에 반등할까",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FLVpwVkFKTFNOdkZyYUxubDRpc1NtSTF2c3dCWngtb0c2a2VjQzBYWUQxT3UwdHhQQ3ByR0pBalo3cmhkSU5VQ1AyUFpWV1hDTDlGdnJPaGdTVWkySzRaS00zc0hmTE5xcldMOFNianY?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-10-09T03:57:00+00:00"
     },
     {
-      "t": "유조선 공격에 호르무즈 통항 급감···국제유가 급등",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Lc1d3V0xNcXdmTzliaXlQZU5ydUNnUDdsY3hBcVB2X3R5QmxaX2VrdWxZV0ZjSzVQNUZCcjRtOVdXblNVUm5DMldSZUVPaUV5RzVEWGJsSjQyQ2VuNElfUVdoTUhOVDktM2hF?oc=5",
-      "s": "시사주간",
-      "d": "2026-10-09T03:55:24+00:00"
+      "t": "중동발 공급 불안에‥국제유가 급등",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWF9tQk5FT0JiR0tnRV9SUkd5dkJxRGNrQlVub3BMUkNvUU9mY183SGE1SjRzQnpvMGg5NGVWaHhLQWRTb1ZVQVg0LWNMZUREVHJIT2NMM18yZ2szbWR2Sy0wUi1RRzhRLVJzaDA0YXdCQndYWmt2TdIBeEFVX3lxTE5SeWVDbGJYdDdWaF9pZzRvRGFEdW5yNjJzV0lXc2RYTE1ZTFRvbkxYUmladWVGM2s2eVIwSG5TRFNGeUEzRUg5SDNhSVBkSXEyUUE1c3U1VXdKUGxRUG54dmtUNVFIdEw2NDhuWlVUR3JNQXFCTkNMVQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-10-09T03:45:28+00:00"
     },
     {
       "t": "반도체 초호황인데, 완제품은 적자…희비 엇갈린 ‘한 지붕 두 삼전’",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVk5jWDhxNGR1dElMTDZxN0EtSnFBSFNqdWdMc2lqVmtDeU0tNlJ0SzM1RjR5Y0ljY3gxaWRIQXpNZ2FnaGhwaGM1Y2JYQ0JRaHVoT01IeW9hNTYwRTBabVNia1JYam41WkE?oc=5",
       "s": "한겨레",
       "d": "2026-10-09T03:44:58+00:00"
-    },
-    {
-      "t": "금리 오르는데 약세 보이는 은행주, 4분기 반등 가시화",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LdHlScmkyZ2VSaEM5OUFIb2p0ckI2dVJVMDBpaE9vbUVqYXUtSUsyNGdGYzBYdmowTE1wR0JCTHc2WnVjMGRpMk80bThJNzdROFpvSXZTSDBCOUQ1ZFV4Njd1MVhXTXh1?oc=5",
-      "s": "www.2news.co.kr",
-      "d": "2026-10-09T03:42:00+00:00"
-    },
-    {
-      "t": "日 국채금리 전 구간 하락…장기물 낙폭 커",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUmZ1WW55MVBpbVFLUUxWUWo5Q1lIM2s4c1BsQ3EzS3BWNERlbFUzdDhuektoTTl6eVBGUnNzNlZONXBlNld2QWlxTllfYU45T3BWa1cweUZXaWU4STRuQXJOdWlsUU9oX1JsUFctUnFnUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-09T03:24:10+00:00"
     }
   ],
   "asof": {},
