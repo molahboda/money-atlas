@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-09T04:00:55+00:00",
-  "quotesAt": "2026-10-09T04:00:55+00:00",
-  "newsAt": "2026-10-09T04:00:55+00:00",
+  "fetchedAt": "2026-10-09T04:15:40+00:00",
+  "quotesAt": "2026-10-09T04:15:40+00:00",
+  "newsAt": "2026-10-09T04:15:40+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7765.36,
-    "nikkei": 68706.2,
+    "nikkei": 68762.65,
     "vix": 15.41,
     "krw": 1344.1,
-    "gold": 4200.6,
-    "wti": 90.42,
+    "gold": 4202,
+    "wti": 90.41,
     "dxy": 102.03
   },
   "daily": {
     "spx": -0.69,
     "kospi": -4.54,
-    "nikkei": -0.49,
+    "nikkei": -0.4,
     "krw": 0.37,
     "dxy": -0.11,
-    "gold": 1.05,
-    "wti": -1.17,
+    "gold": 1.08,
+    "wti": -1.18,
     "vix": 2.19
   },
   "news": [
     {
-      "t": "반도체 호황에도 일자리 시장은 ‘냉기류’… 9월 마이너스 고용 전망에 정부 TF 가동",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmbm1QWUZvSUt6SS1INTlBTXZsYXM0UTE3Y3ctZ3FBTlVoOGVEYVBjYmhnNnVJaUQxWlV5NldxTGd4bm9WWWcwOURiVEVVTUQ1?oc=5",
-      "s": "문화일보",
-      "d": "2026-10-08T02:57:42+00:00"
+      "t": "아시아 증시 혼조세…OpenAI 매출 우려에 반도체주 급락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yejhKd3pLSDVDUlNDZC0yajYtaFE4emhaVWRrYlRfUmRLQkhKUS10a2plUXU2ZUFzTFVacGZMeGVJY3NES1hEUVYzdlJsdmFwLU5ocXVib3lCSEZLVGdXeHRNOXRENVY1UXd3Zmp4dDQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-09T04:08:00+00:00"
     },
     {
-      "t": "“반도체 - 자연보호 문제 선제대응”… SK하닉, AI환경硏 추진",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxZlNJaU9tMDZqUnl6NHRqbHp6Q2tJZlhqTldFdC1wOUxITUhkTld4LTdieldaV3ZSeDhWVGFCTGpxcGxybHpQMFNyV2Qzd2p6?oc=5",
-      "s": "문화일보",
-      "d": "2026-10-08T02:51:01+00:00"
+      "t": "미 재무부 자문관 \"국채금리 역사적으로 높아…하락 여지 충분\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rc0VDdmotS042aFRaTkJFcHhDSHZGWkd4YmhvRUw4WV9pMjh0MldveWU1QnJybGVZSGNwYzI0TENoWXZvMGQ5bTQ3Yjc3ejJkRV9vUkVOWTZNSXN6VU9ZZE1WWTJYY2JWWmN6WXV6Umw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-09T04:07:39+00:00"
     },
     {
-      "t": "램리서치, 한국 반도체 스타트업 전용 벤처투자 펀드 출범",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Oem1oMlpmd29VOFJNYlc1OFFnanlTV09SbmR1aVBhOWRHZjFSN0p2RGdzaXRrNk85MXRTcERrZ1B1SVZmbEFpOThRekJ3N2huZUtjX18tREs4MzDSAWBBVV95cUxOWFUyUV93bXRhSHoyaTRlS2RBTVdCcFpqeE5zcGhvZXJVLUNXVGwtY08wd0hITGFlWHF2VlZ5aTA2aFRoNExTTVFubzRPYlJVMDg5WGktbml2TUpoUnNEYmU?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-08T02:46:28+00:00"
+      "t": "노후자금 환율 방어 동원 논란에도…국민연금 “외환 관련 공개 불가” [시그널]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMWJxcVI3UEgyZHdncnJFX0RwVFlsbC0xS0xhdjdZYk5lR09tekJsdTZJanRaWHdST1V1WVpjRUlqckNOTF9wZVF4SzU4MzFwYnfSAVNBVV95cUxNdUYxMjB3bFdyQjMtTTlXb2JMT0dGNG9oUkpTbFFXMHdNcnMxeVZPczY3NThZWEVzVGFBSFJMVTlRaDk0UDZlNFd3Y2xfSUtTWHh1WQ?oc=5",
+      "s": "서울경제",
+      "d": "2026-10-09T04:01:00+00:00"
     },
     {
-      "t": "삼전 역대급 실적에도 증시 혼조세...미 국채금리 탓",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByMzFiblpUakltNTJGZnR1a3N4TXo5aVdRY281NGZWTWdhakExVGw4N3UwTUZjaE9WWXF1OVV0ZlpaRnQ3N1BxWUk0VzRYdWdvU2VDeXhYa29JUm5ic1E?oc=5",
+      "t": "SK 최태원 회장, ’반도체 부지’ 광주 군공항 방문",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Z1RHX1V2NW8zbk1oem9ha1NxRGpZUEVTb0l4SUtPaC1CVkdlaS1pc0pqSUcyN3BDRVVfUV9Gb2oyMEpkQ09yS0pQUnpLamxBVDZEVjBBbVowT3BRSjkyc2NVNy1sTHc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-09T04:00:00+00:00"
+    },
+    {
+      "t": "최태원 SK회장, 광주 반도체 클러스터 예정지 방문",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhYWpkOUdDQWNJMURBVHdEM1ZvY094V0duRHhmZ0FpQnhsYzkwQThVcnI0SXRkaU1XZnFjTjF4SlktNzVEeElLN1hFcEFTRlhKRHhOV0dsOWtqbE9FZFE?oc=5",
       "s": "YTN",
-      "d": "2026-10-08T02:35:00+00:00"
+      "d": "2026-10-09T03:57:00+00:00"
     },
     {
-      "t": "2D 반도체 결정, 원하는 자리에서 하나만 성장 제어…적층형 AI반도체 기반",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KN1NadXlQNVF0eGhDS0xqdm4zbmFYaFM2WTBOYVlXZ2hRdHhOMzZfaTg1ZzBQcXlNcmtoWHdIN0ZrM0FUTVV6M3BrZ2F6NlFiMTgxNA?oc=5",
-      "s": "DongA Science",
-      "d": "2026-10-08T02:32:00+00:00"
+      "t": "유조선 공격에 호르무즈 통항 급감···국제유가 급등",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Lc1d3V0xNcXdmTzliaXlQZU5ydUNnUDdsY3hBcVB2X3R5QmxaX2VrdWxZV0ZjSzVQNUZCcjRtOVdXblNVUm5DMldSZUVPaUV5RzVEWGJsSjQyQ2VuNElfUVdoTUhOVDktM2hF?oc=5",
+      "s": "시사주간",
+      "d": "2026-10-09T03:55:24+00:00"
     },
     {
-      "t": "바클레이즈 \"美증시 실적상향 75%가 반도체·하드웨어…쏠림 심화\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vbkt3cmR1aUl1c1JKeEhPVlp2ZkowejZkbDZGWjdpYVpsd3lna183Y3RfU1Jta1ZudjJOZ2I3a3g1MUh2WlhETFJhekR0dFhwbmhva1NPOEhMbnp4Z3owZlQ5am4xN2x2WE1GR29CRlQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-08T02:31:16+00:00"
+      "t": "반도체 초호황인데, 완제품은 적자…희비 엇갈린 ‘한 지붕 두 삼전’",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVk5jWDhxNGR1dElMTDZxN0EtSnFBSFNqdWdMc2lqVmtDeU0tNlJ0SzM1RjR5Y0ljY3gxaWRIQXpNZ2FnaGhwaGM1Y2JYQ0JRaHVoT01IeW9hNTYwRTBabVNia1JYam41WkE?oc=5",
+      "s": "한겨레",
+      "d": "2026-10-09T03:44:58+00:00"
     },
     {
-      "t": "'유가 담합 혐의' SK에너지, 가격 투명성 등 4대 방안 발표",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yMzZrMm5LbUxwRjREVXFPOWlMSEJOYU5qOEhPSUV4M2hLSzA1X0JfRHVBWl82R2d6dGFCazhEYlZERWJ2TVBKcDVvUTFGMnp4RUJjMnJjbGN0TDk4eVA4a3N6Y21iSFhvemRMRlZoY1Q?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-08T02:27:33+00:00"
+      "t": "금리 오르는데 약세 보이는 은행주, 4분기 반등 가시화",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LdHlScmkyZ2VSaEM5OUFIb2p0ckI2dVJVMDBpaE9vbUVqYXUtSUsyNGdGYzBYdmowTE1wR0JCTHc2WnVjMGRpMk80bThJNzdROFpvSXZTSDBCOUQ1ZFV4Njd1MVhXTXh1?oc=5",
+      "s": "www.2news.co.kr",
+      "d": "2026-10-09T03:42:00+00:00"
     },
     {
-      "t": "삼성전자, 107조 벌어도 주가는 제자리…환율·순환매에 묻혔다",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnktMi13UkFiQnF6LV8wZmpCb2VlVnFrdnFJUkhsLWNLeGh2QjRSZk1UVF81WmppNE9BZjV5SnVKeG5BRlJPSUhuVmZxWmVVdFdEbC1LRmxMZmJnT3o4WUFFaGdhQnAxZ1d2R0N6bWhuQnFxci1jbnBrVzlPNUdtU0Jfdw?oc=5",
-      "s": "인베스트조선",
-      "d": "2026-10-08T02:27:00+00:00"
+      "t": "日 국채금리 전 구간 하락…장기물 낙폭 커",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IUmZ1WW55MVBpbVFLUUxWUWo5Q1lIM2s4c1BsQ3EzS3BWNERlbFUzdDhuektoTTl6eVBGUnNzNlZONXBlNld2QWlxTllfYU45T3BWa1cweUZXaWU4STRuQXJOdWlsUU9oX1JsUFctUnFnUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-09T03:24:10+00:00"
     },
     {
-      "t": "5.3% 찍은 미 10년물 국채금리‥월가 전망 엇갈려",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QQUNLRV9ueFRMajZXNm9fcTg4Zzg4a1JrTm1PTjJTV2hkcHhlQmNsQzFuM3JXSnByYWpxQzhVVUI4NmVPak9hd0FGX3Q3LXJzOFdtUC0zU2tEVlVldzZhazRvRVZrTW9vM2p0ZDlRTnZFQUZm0gF0QVVfeXFMTjVIZmd1SmhyYlRQQnl2cTN0d3Y0WU45ZW5oUlg3ak9pUXctVDctaklRQjFya1pLdkpZNk40ZDVKMXJDXzk5RGtHcjMzY0RLU0ZyZmVfcUFvSXFVaFhaekc1dG9oZXZnOENCQVpRSl9mNmNLcjg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-10-08T02:24:15+00:00"
-    },
-    {
-      "t": "日 증시, 美 따라 하락 개장…7만선 깨져",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XZm9RaF9FTEF1S2d0VUZqaUc2cW44amU0elJGR25tWnlpaWN0YUNEWHNBUUFHMkNRQkFXcTdLWWtsWXprcmpqNDhJd2hsYTFCbFlWNlhxdUxTbXBqZUpLZ2ZjVWVOOXBWRXVEdnI3clk?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-08T02:22:10+00:00"
+      "t": "우에다, 내달 IMF에서 강연 전망…추가 금리 인상 시그널 주목",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZME50WEZlWE1wOW5TYUd2Mi1Dc1YzNlJlc0JJblhtSmp4VzBQUkNuSVZmcURwYW9PYU44WnpLVFlKR0V6aGNoWkFTLVBKWDFrV293cHhrcDI4dmtpUlZGSVpHMEQ3RDRlWFRXcUJqb1E3dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-09T03:04:31+00:00"
     }
   ],
   "asof": {},
