@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T17:45:38+00:00",
-  "quotesAt": "2026-10-11T17:45:38+00:00",
-  "newsAt": "2026-10-11T17:45:38+00:00",
+  "fetchedAt": "2026-10-11T18:00:46+00:00",
+  "quotesAt": "2026-10-11T18:00:46+00:00",
+  "newsAt": "2026-10-11T18:00:46+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
@@ -49,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-10-11T15:30:00+00:00"
     },
     {
+      "t": "은행 가계대출 57.3%가 변동금리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJcmZDVVBuOU5CcVkwU1RYTkExY21ibFI4cnJqNDUtUHdQY2cyS0lYc0ZSME00RDFhTlhaa3EzWXJIRW1RNThXVUE1eml0M3d6UnpienJkSEVka3daR2ZkOE1YU2pOaldhVVVRZzNTMXnSAXBBVV95cUxQSXJmQ1VQbjlOQnFZMFNUWE5BMWNtYmxSOHJyajQ1LVB3UGNnMktJWHNGUjBNNEQxYU5YWmtxM1lySEVtUTU4V1VBNXppdDN3elJ6YnpyZEhFZGt3WkdmZDhNWFNqTmpXYVVVUWczUzF5?oc=5",
+      "s": "데일리굿뉴스",
+      "d": "2026-10-11T15:29:29+00:00"
+    },
+    {
       "t": "EAEU, 중국산 무계목 유정용 강관 반덤핑관세 5년 연장",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yaXZXWUlYSElNZ2haMk0xRnZBNlExLVltdTJ5RjkzbzBlT2FpdjJFVWE2SDEwdFZmQmdYb3A0TFVoeVRBM1I3M2gzaHZoNkQyUlVscjc1UXg1T0s5OVpVQjcyU1hwUFNxeFNHbXhUWk5EOTFC0gF0QVVfeXFMTXJpdldZSVhISU1naFoyTTFGdkE2UTEtWW11MnlGOTNvMGVPYWl2MkVVYTZIMTB0VmZCZ1hvcDRMVWh5VEEzUjczaDNodmg2RDJSVWxyNzVReDVPSzk5WlVCNzJTWHBQU3F4U0dteFRaTkQ5MUI?oc=5",
       "s": "스틸데일리",
@@ -76,12 +82,6 @@ window.LIVE_DATA = {
       "t": "믿었던 삼전닉스 주춤하자…대만에 수익 1위 내준 코스피",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrVU80dU1tUHBBeEtZYUR2YmxRcUdnYUg3X2lSajNtMzR1X0RlZm1KbkZBMUw1aEdacGM1ejUwakpxLVdiWkVLeGZSUlNsTjZ4d2JsS3lR?oc=5",
       "s": "중앙일보",
-      "d": "2026-10-11T15:02:00+00:00"
-    },
-    {
-      "t": "[중국 특징주] '광저우 제1호 반도체' 캔세미, 13일 창업판 상장",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wYlJJZVJ2NFRDSllReFY1TUpWRjhwZDRheGRXdVpPZzQySG9OdWkwM1RvNWU1em92THE5YjBtNHpONWlWNzM3emJsSXpFMGIwVFJISWEyMGRtcUlK?oc=5",
-      "s": "뉴스핌",
       "d": "2026-10-11T15:02:00+00:00"
     }
   ],
