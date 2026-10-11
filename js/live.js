@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T17:30:46+00:00",
-  "quotesAt": "2026-10-11T17:30:46+00:00",
-  "newsAt": "2026-10-11T17:30:46+00:00",
+  "fetchedAt": "2026-10-11T17:45:38+00:00",
+  "quotesAt": "2026-10-11T17:45:38+00:00",
+  "newsAt": "2026-10-11T17:45:38+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
@@ -43,12 +43,6 @@ window.LIVE_DATA = {
       "d": "2026-10-11T16:03:49+00:00"
     },
     {
-      "t": "\"하이닉스와 반도체과 추진…인재육성 올인\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SM3F5VjVMcTh1QTRyOGtfX1VyYzhtaEpWZGtqeUFqRm9TX09lTXF4SUNteEJDMnlVVTVxS0MtclF0SjVYQkVvWFpmRUhNSzVPbXlEeTBfWWcwUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-11T15:47:00+00:00"
-    },
-    {
       "t": "원-엔 환율, 18년 9개월 만에 최저",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaTRjZEhRMWtNS2R3c2pKN1d6dFdScEdtSzdMMW03bTFpWFp0cmtmYy1hdFdZOWExYkExVXRfSU9HTUVlYXppVUtoRGM3Q2Fpam10V1I4QnZUSTBvSVhoc1pibWlvd9IBZkFVX3lxTE1yaTRjZEhRMWtNS2R3c2pKN1d6dFdScEdtSzdMMW03bTFpWFp0cmtmYy1hdFdZOWExYkExVXRfSU9HTUVlYXppVUtoRGM3Q2Fpam10V1I4QnZUSTBvSVhoc1pibWlvdw?oc=5",
       "s": "동아일보",
@@ -82,6 +76,12 @@ window.LIVE_DATA = {
       "t": "믿었던 삼전닉스 주춤하자…대만에 수익 1위 내준 코스피",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrVU80dU1tUHBBeEtZYUR2YmxRcUdnYUg3X2lSajNtMzR1X0RlZm1KbkZBMUw1aEdacGM1ejUwakpxLVdiWkVLeGZSUlNsTjZ4d2JsS3lR?oc=5",
       "s": "중앙일보",
+      "d": "2026-10-11T15:02:00+00:00"
+    },
+    {
+      "t": "[중국 특징주] '광저우 제1호 반도체' 캔세미, 13일 창업판 상장",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wYlJJZVJ2NFRDSllReFY1TUpWRjhwZDRheGRXdVpPZzQySG9OdWkwM1RvNWU1em92THE5YjBtNHpONWlWNzM3emJsSXpFMGIwVFJISWEyMGRtcUlK?oc=5",
+      "s": "뉴스핌",
       "d": "2026-10-11T15:02:00+00:00"
     }
   ],
