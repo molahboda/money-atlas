@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T23:15:48+00:00",
-  "quotesAt": "2026-10-11T23:15:48+00:00",
-  "newsAt": "2026-10-11T23:15:48+00:00",
+  "fetchedAt": "2026-10-11T23:30:41+00:00",
+  "quotesAt": "2026-10-11T23:30:41+00:00",
+  "newsAt": "2026-10-11T23:30:41+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
     "nikkei": 69030.92,
     "vix": 14.84,
-    "krw": 1341.31,
-    "gold": 4210.6,
-    "wti": 92.46,
-    "dxy": 102.27
+    "krw": 1341.45,
+    "gold": 4218.4,
+    "wti": 91.86,
+    "dxy": 102.24
   },
   "daily": {
     "spx": 0.13,
     "kospi": -4.54,
     "nikkei": -0.02,
-    "krw": -0.13,
-    "dxy": 0.06,
-    "gold": -0.14,
-    "wti": 0.66,
+    "krw": -0.11,
+    "dxy": 0.03,
+    "gold": 0.05,
+    "wti": 0.01,
     "vix": -3.7
   },
   "news": [
     {
-      "t": "美 9월 소비자물가 0.6% 상승 전망…휘발유값이 물가 자극",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRll1dnF0S1hGcUNZc3dwaVJjbWhWUzZxY0Zrc1FHZjBWaVFQcEMxMjlwNzItSzN6STlOQ1k3ZzMzRnZId0NuelRwSE4wWDhucDJJOGNVMXZ4ZE9rRVpqTGhjcC1JWW5SX05mQzRhVTVJYWJHSWhNd2dsS1p1QzQ0a0Jva3BlYVAy?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-11T17:00:00+00:00"
+      "t": "코스피 급락에 인버스 ETF 날았다... 2차전지도 상위권 [주간 ETF]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ocFpJRXVkNHJSTWpQcGRFN3NVRGpfdkllVHhzYkg3a094T3Q1cnVCUVBGaEM2MHFWYm1XanNJeERKNWZ0czFRcnp0OWJrUjg2X1prNjZraExCOXRjZ3JRdjEzTDk?oc=5",
+      "s": "매일일보",
+      "d": "2026-10-11T23:24:32+00:00"
     },
     {
-      "t": "코스피 6625.93 마감…美 CPI·반도체 실적 주목",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LNXZZZ2NkNHE4MW9CYTVGWk9tZFdncGtXeElzYWdBbVcwMkRHaXZyYy1ic2pRQUhudEZsOUhKaG1oa2JCUmc0SW1YYjYxVDZtdzEwRWozV0NhaVI0Z29YVg?oc=5",
-      "s": "제주교통복지신문",
-      "d": "2026-10-11T16:21:48+00:00"
+      "t": "뉴욕증시 날 때 갇힌 코스피…미국엔 빅테크·설계, 한국엔 메모리뿐",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YdjJLUVI3OFkzRFpramdJQ1FwSko2eTd0WFNnejhNY0ZiNXZlRndYYmsyakJoMjdvNEhUUkNJbEVVSzEzX1NqV202Tk9pTE5XZmRqS29pNEtrWmdOWVZleVJn?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-11T23:23:00+00:00"
     },
     {
-      "t": "“호남권 클러스터 속도감 있게 추진”..최태원 SK그룹 회장, 전남광주 반도체 단지 방문",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRmNXRzNESGhlXzFLb2U3NjFWMTJxN2dJT0swZkVBS1ZPY1IxOVBSUnBJbU9YZmFWOTl4UVF6MjlKWkVWN294ZDgtRE5VUTAyN1BES0I5d296d0ZRSVp1S3ZQLS1WekFoWUh5LXloNi1YX1hFdFE?oc=5",
-      "s": "데일리카",
-      "d": "2026-10-11T16:03:49+00:00"
+      "t": "[박정식의 국내 주식시황] 코스피는 박스권 유지, 코스닥은 박스권 탈출로 반도체 소부장 및 2차전지 섹터 긍정적",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6RDVhOHRXVHBJMzVMUnYwZUVUM2FzcTZjc0hOQWdtUVBGdWM3OUE3SEdRakRMOGRIM3ExZXRrQTRZMVpIaGFMc1dSamQ1MTVYdDlvcEJBMExxb05lNGVGMDg1RWVDV2J5RkZnN0RYTQ?oc=5",
+      "s": "뉴스퀘스트",
+      "d": "2026-10-11T23:22:11+00:00"
     },
     {
-      "t": "원-엔 환율, 18년 9개월 만에 최저",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaTRjZEhRMWtNS2R3c2pKN1d6dFdScEdtSzdMMW03bTFpWFp0cmtmYy1hdFdZOWExYkExVXRfSU9HTUVlYXppVUtoRGM3Q2Fpam10V1I4QnZUSTBvSVhoc1pibWlvd9IBZkFVX3lxTE1yaTRjZEhRMWtNS2R3c2pKN1d6dFdScEdtSzdMMW03bTFpWFp0cmtmYy1hdFdZOWExYkExVXRfSU9HTUVlYXppVUtoRGM3Q2Fpam10V1I4QnZUSTBvSVhoc1pibWlvdw?oc=5",
-      "s": "동아일보",
-      "d": "2026-10-11T15:30:00+00:00"
+      "t": "사흘 내리 밀린 코스피, 연휴 뒤 반등할까…중동 불안은 변수",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85c2cxTU5IYkRuYVZKZHlBOWRmR2Z1TkljcGNoNU1LRUY1ZGNtQVZNME5vRUhUSGdpZEE5OGxaUnBnSEdRNmUtdndkVUl4LU53UUFRdDlpVGY0dw?oc=5",
+      "s": "경북매일",
+      "d": "2026-10-11T23:22:00+00:00"
     },
     {
-      "t": "은행 가계대출 57.3%가 변동금리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJcmZDVVBuOU5CcVkwU1RYTkExY21ibFI4cnJqNDUtUHdQY2cyS0lYc0ZSME00RDFhTlhaa3EzWXJIRW1RNThXVUE1eml0M3d6UnpienJkSEVka3daR2ZkOE1YU2pOaldhVVVRZzNTMXnSAXBBVV95cUxQSXJmQ1VQbjlOQnFZMFNUWE5BMWNtYmxSOHJyajQ1LVB3UGNnMktJWHNGUjBNNEQxYU5YWmtxM1lySEVtUTU4V1VBNXppdDN3elJ6YnpyZEhFZGt3WkdmZDhNWFNqTmpXYVVVUWczUzF5?oc=5",
-      "s": "데일리굿뉴스",
-      "d": "2026-10-11T15:29:29+00:00"
+      "t": "[모닝 리포트] 기업은행, NIM 상승·환율 효과에 실적 개선…주주환원은 제한적",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LaVRVY3AwOVdnVW5XT0k2eHllTGY4b2gzSzBYWkY4ZEFPUXpGYjFjbUMzTDJiUjlGLVQzZHlyMTJZRDJnZXcxTGZJeWt6RE1yVVRwc2ljcE5CWUU5?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-11T23:17:00+00:00"
     },
     {
-      "t": "EAEU, 중국산 무계목 유정용 강관 반덤핑관세 5년 연장",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yaXZXWUlYSElNZ2haMk0xRnZBNlExLVltdTJ5RjkzbzBlT2FpdjJFVWE2SDEwdFZmQmdYb3A0TFVoeVRBM1I3M2gzaHZoNkQyUlVscjc1UXg1T0s5OVpVQjcyU1hwUFNxeFNHbXhUWk5EOTFC0gF0QVVfeXFMTXJpdldZSVhISU1naFoyTTFGdkE2UTEtWW11MnlGOTNvMGVPYWl2MkVVYTZIMTB0VmZCZ1hvcDRMVWh5VEEzUjczaDNodmg2RDJSVWxyNzVReDVPSzk5WlVCNzJTWHBQU3F4U0dteFRaTkQ5MUI?oc=5",
-      "s": "스틸데일리",
-      "d": "2026-10-11T15:24:02+00:00"
+      "t": "[미국 특징주] 금리 급등 무시하는 AI 차입...구축효과 심화",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45VHVZN2ppbTZQdHk3YW9ld2xrc21zRnFTVWt1dkktVGo1Y0pNbWU5UmRXemZoN3R5VXZ5SWlXUWNkQTJiZXZHS295bmlkRVdJRHA4bFo1S1JpekRn?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-11T23:16:00+00:00"
     },
     {
-      "t": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
-      "s": "국민일보",
-      "d": "2026-10-11T15:21:00+00:00"
+      "t": "한투증권 \"방향성 부재 코스피…3분기 이익 전망치 하향 조정\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GeHVveVh0aVdzOFpsUTVpem9wMDZyQWJPUjlubXR1S214QlB3TE1HQ0tsM2U2a0VRd2FXSjFGd09qTTRPZGpWT0RsbDFoMGJNN0otX2trV1ZMdVnSAWBBVV95cUxQQzJDZ1VDeW8yU3JyVGRRZUk4djNNYkJFUlcwTVh4REY0YTdFZWxQcFFoMkRzMVZHSUtMSFNyUjdwVk5jNWxwUzZSdThGY2ZPZ1pBM3owUWZScHBaVnRuVnM?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-11T23:15:17+00:00"
     },
     {
-      "t": "6600선 밀려난 코스피, 미국 CPI·실적 발표 앞두고 반등 모색",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvUXRPOG4wZW83dEFrQ0hkS3pEVVRtVktGeWVrMml0aWhLZjhveXpPTjJDZzFrTUhyRVVUbEdiWjNvWjlZOW5MNGc5MTRUMlVIQXVDSkQzQTZnM1F6enRwRTViQ1JyS0ZuLXhWbEhB?oc=5",
-      "s": "국제뉴스",
-      "d": "2026-10-11T15:18:00+00:00"
+      "t": "한울반도체, 日 글로벌 MLCC 제조사에 검사설비 성능 개선수주",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWSkgxcXZmMGF5azl5NlNGWU9MQS05MGs3Vkd4bmhKRWJmbll5S1E3RkxGb1RtaUJBX1g4QWwyQjNhWkVKeXoxVjlLbGhKa3ZLbTI5aldtdzNrekJqOExlZA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-11T23:14:54+00:00"
     },
     {
-      "t": "이탈리아는 Spherical Insights의 유럽 반도체 공급 체인 전문가보기를 강화하기 위해 $ 3.7 억 실리콘 상자 칩 공장 승인",
-      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUhFbXpYX0doWGNmdkxfYkF1bHc2UWNiZ3BEM2d1MGlwUFAtLTJFMF8wTFo2b05mVDJSNldKYXdGQ0pBZl9DSDc3b2FSa0JWNWpTM0Vmb0tPZGM4TVNhVHI4Y0pMelh6dktUM3lYLWZxSGF1MzZIWkE5R2pTSHpDRmtzbUVhNnppMkxpMG9LMExPRWJHd1dDRERocmZpbU1iU25lVkJaNkZNMS1hZFdSN3B2R2xtR2ZkZzZKNDRGVkFIalpoNkxMbVJHN1gzMWJDUXB1UFdFRDlkdw?oc=5",
-      "s": "Spherical Insights",
-      "d": "2026-10-11T15:07:17+00:00"
+      "t": "강원형 공중화장실·반도체산업 연속성 주문",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zMHZiZkNqdTZMWWp3S3F1RzZyRnlIMWg3WlBNQ19jaXhGcHE5VElyeDVETFVxUy1KZUs5dE5LdjhQY3hDMFgwdEZDY2VYUWZMLTNSU2cwLXdEeTJWbHBDV1VkXzh3SjBXNG9ZNFJRTUg?oc=5",
+      "s": "원주투데이",
+      "d": "2026-10-11T23:13:37+00:00"
     },
     {
-      "t": "믿었던 삼전닉스 주춤하자…대만에 수익 1위 내준 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrVU80dU1tUHBBeEtZYUR2YmxRcUdnYUg3X2lSajNtMzR1X0RlZm1KbkZBMUw1aEdacGM1ejUwakpxLVdiWkVLeGZSUlNsTjZ4d2JsS3lR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-10-11T15:02:00+00:00"
+      "t": "실적은 폭증하는데 증시는 왜 주춤할까…韓증시 '감속의 시대'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucXpTd1BFX2J4ckMyUGhMc3FHTmhuMlpHQkpvRmRkMXZlM1p6TkJLVzRwSzBaUnRRV3dIMkY2bzVTZXZDQ19HS3pRM2JMSnZpSFF3OU5Gb3JiZ3FkbndxdkxRMng2YXQ0Tzdic0xSVXo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-11T23:12:57+00:00"
     }
   ],
   "asof": {},
