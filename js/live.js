@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T03:30:45+00:00",
-  "quotesAt": "2026-10-11T03:30:45+00:00",
-  "newsAt": "2026-10-11T03:30:45+00:00",
+  "fetchedAt": "2026-10-11T03:45:44+00:00",
+  "quotesAt": "2026-10-11T03:45:44+00:00",
+  "newsAt": "2026-10-11T03:45:44+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": -3.7
   },
   "news": [
+    {
+      "t": "머스크, 테라팹 반도체 공장이 경쟁사 능가할 것이라 자신",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1N0lTdUI0N0RiT0QzYzRrNzVuVm1Pbjk2elMyYnZrSzJTd1phcFg4UTRydl9aQTF0U3c5ajlYc0dLUktiaGxBN3RKbVRXaDctMndUMDZ5b2pfb0I5YllrSi11VkVlaDF6ZFE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-11T03:37:00+00:00"
+    },
+    {
+      "t": "[재계핫이슈] 최태원 회장의 ‘호남반도체 행보’ 배경은?",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JQWowQ0VFNnBfOVYwRVJiMmIyZnNIMVJMYWpIbzBhN2JiQlZKdkZsN19BdEF6c1VVeHh1cHlqUVlDeHVKN055TDFQbU1MbFhqY0I1RXYxSHpHU1B1ZW8xcDJzMDF0SDJ3UVdV0gFvQVVfeXFMTUFja2N6TkhPNGVpRjI3bGZQUk05anIyZ2VOZ1FNVXI0VHdzMExkN2dUdGJmOV84alpxbS1hZzJxNTBSXzBqbG90Ym9CRXl3TTVxeVRSZmlwcV9DWUhrLW5vRUVmNFFlNnJfVkYzSnFj?oc=5",
+      "s": "펜앤마이크",
+      "d": "2026-10-11T03:23:04+00:00"
+    },
     {
       "t": "(주간증시전망)7000선 무너진 코스피…미국 물가·실적에 반등 갈림길",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqblE5QXBmSjFITW9iSkpBa1ZncGRwbWVReC0zb1cwMnRobHhNQjRGV294dHlxZGc2ZkNYTTBMZW9GR09YSGNhUmNQMGhmNXh4SFhCX1VjMVlHZklHRkx4QQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcGh4U3lOTmNNdEkySHFDWEh3WDRnNk1ocXJuYVliMUpHMU5uQUtCSUhKTFphbjBuZks3aVlMRzVPakNubnhBc1Q5VzlsdnVrV1dsYTRuQ1FYZw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-10-11T02:53:35+00:00"
-    },
-    {
-      "t": "“국장 재미없네”…개인투자자, 3분기 국장 팔고 ‘미장’ 10조 샀다 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgyUE5oZU1ncVQySnJkVWRYdHF0RWc0aTVsMzg4TXdFZXFibTNWOE9LM2lLTXFwMjV2bVJKSzhzX2VoOE84X3JmeDc5NVNUZzJTOXRTeV83ajZtYW12MXZYb050b04zYkdWT01Ud25NczhvM1VyS0FoQVJqS2szbXpfb045amEt0gGcAUFVX3lxTFBpTHBXaDBuWEJzVW4wajhJR0tVNWxuMGc3ei1FaDJIemFpRlNfMXNtTVVseG5uZzBsZTR4RE4tT2JjM3kwWkZ1RE9jWDFLTXphdmdhd3ZvaFllbkFNZDRzOGRnVFQtX0dmd3hIMkE0NUlhQlkyQjdrUFJYYWF0VzJ3eUk1Q2JBc29LNTA0ZklLZEg1Sk14dmxJMFBseQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-11T02:44:00+00:00"
-    },
-    {
-      "t": "삼전 46%·하닉 49%…外人, 반도체 지분 금융위기 수준으로",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1enFEb3lVckFNaEd2b213RjJKVTgwdE5TblVESFVGVlFQNEJTbTN3MlFTWk1HYU1PVWthRi05SmNYUVJZdElDbjVVdEV1VlNGNzI2cGVR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-10-11T02:40:13+00:00"
     }
   ],
   "asof": {},
