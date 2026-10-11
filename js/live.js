@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T17:15:47+00:00",
-  "quotesAt": "2026-10-11T17:15:47+00:00",
-  "newsAt": "2026-10-11T17:15:47+00:00",
+  "fetchedAt": "2026-10-11T17:30:46+00:00",
+  "quotesAt": "2026-10-11T17:30:46+00:00",
+  "newsAt": "2026-10-11T17:30:46+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
@@ -11,78 +11,78 @@ window.LIVE_DATA = {
     "krw": 1340.02,
     "gold": 4216.3,
     "wti": 91.85,
-    "dxy": 102.21
+    "dxy": 102.23
   },
   "daily": {
     "spx": 0.13,
     "kospi": -4.54,
     "nikkei": -0.02,
     "krw": 0.07,
-    "dxy": 0,
+    "dxy": 0.02,
     "gold": 0,
     "wti": 0,
     "vix": -3.7
   },
   "news": [
     {
-      "t": "머스크, 테라팹 반도체 공장이 경쟁사 능가할 것이라 자신",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1N0lTdUI0N0RiT0QzYzRrNzVuVm1Pbjk2elMyYnZrSzJTd1phcFg4UTRydl9aQTF0U3c5ajlYc0dLUktiaGxBN3RKbVRXaDctMndUMDZ5b2pfb0I5YllrSi11VkVlaDF6ZFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-11T03:37:00+00:00"
-    },
-    {
-      "t": "[재계핫이슈] 최태원 회장의 ‘호남반도체 행보’ 배경은?",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JQWowQ0VFNnBfOVYwRVJiMmIyZnNIMVJMYWpIbzBhN2JiQlZKdkZsN19BdEF6c1VVeHh1cHlqUVlDeHVKN055TDFQbU1MbFhqY0I1RXYxSHpHU1B1ZW8xcDJzMDF0SDJ3UVdV0gFvQVVfeXFMTUFja2N6TkhPNGVpRjI3bGZQUk05anIyZ2VOZ1FNVXI0VHdzMExkN2dUdGJmOV84alpxbS1hZzJxNTBSXzBqbG90Ym9CRXl3TTVxeVRSZmlwcV9DWUhrLW5vRUVmNFFlNnJfVkYzSnFj?oc=5",
-      "s": "펜앤마이크",
-      "d": "2026-10-11T03:23:04+00:00"
-    },
-    {
-      "t": "(주간증시전망)7000선 무너진 코스피…미국 물가·실적에 반등 갈림길",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqblE5QXBmSjFITW9iSkpBa1ZncGRwbWVReC0zb1cwMnRobHhNQjRGV294dHlxZGc2ZkNYTTBMZW9GR09YSGNhUmNQMGhmNXh4SFhCX1VjMVlHZklHRkx4QQ?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-10-11T03:11:13+00:00"
-    },
-    {
-      "t": "금리 더 올릴까…신현송 첫 국감·미국 물가에 쏠린 눈",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50WS03NXpHSTZxTDNuYmNEMEhjWnlQbU1Nckk4bGxOaWgtRWZWMk96cDR3RzBSSThweEtwX2ZUSTR2TFVfNHZZNVJkLTdjTjJ6Uk82OWxQeFVHbVFKb1pEQVZNdk9fUWlzZTc4?oc=5",
-      "s": "비즈워치",
-      "d": "2026-10-11T03:00:03+00:00"
-    },
-    {
-      "t": "[주간증시전망] 코스피, '마의 7000선' 재도전…개별 실적이 관건",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW9rQjU2VFV0Vk5memc1TmFZcWlnYVFaX2VtT0ozbndPNjB1MElucmNETnE1dEctTGtfUUViRlh3S1M0eGlRTTZHMmgwdmFSVkJhVTRnRnlqU3h3bzN3WmwxT2t2WFlxZkVnYnlxTG5sbThXZ19KeloyZmtTS2ZRM3hoQWlqVEpU?oc=5",
+      "t": "美 9월 소비자물가 0.6% 상승 전망…휘발유값이 물가 자극",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRll1dnF0S1hGcUNZc3dwaVJjbWhWUzZxY0Zrc1FHZjBWaVFQcEMxMjlwNzItSzN6STlOQ1k3ZzMzRnZId0NuelRwSE4wWDhucDJJOGNVMXZ4ZE9rRVpqTGhjcC1JWW5SX05mQzRhVTVJYWJHSWhNd2dsS1p1QzQ0a0Jva3BlYVAy?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-10-11T03:00:00+00:00"
+      "d": "2026-10-11T17:00:00+00:00"
     },
     {
-      "t": "월가는 은행, AI는 반도체…JP모간·ASML·TSMC 실적 주간[10/12~10/16 투자캘린더]｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZU51QnJsekxkZ2R1a3NHYWgyUUM2UVFpVmRSVEdhOVNMZDRBb3ZGMnYtN1pOYVV0TVlTNWdTYlNxMGo5ZlVVWlQ0NGNDZG9sNlMwVHR0WDVsNkE?oc=5",
+      "t": "코스피 6625.93 마감…美 CPI·반도체 실적 주목",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LNXZZZ2NkNHE4MW9CYTVGWk9tZFdncGtXeElzYWdBbVcwMkRHaXZyYy1ic2pRQUhudEZsOUhKaG1oa2JCUmc0SW1YYjYxVDZtdzEwRWozV0NhaVI0Z29YVg?oc=5",
+      "s": "제주교통복지신문",
+      "d": "2026-10-11T16:21:48+00:00"
+    },
+    {
+      "t": "“호남권 클러스터 속도감 있게 추진”..최태원 SK그룹 회장, 전남광주 반도체 단지 방문",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tRmNXRzNESGhlXzFLb2U3NjFWMTJxN2dJT0swZkVBS1ZPY1IxOVBSUnBJbU9YZmFWOTl4UVF6MjlKWkVWN294ZDgtRE5VUTAyN1BES0I5d296d0ZRSVp1S3ZQLS1WekFoWUh5LXloNi1YX1hFdFE?oc=5",
+      "s": "데일리카",
+      "d": "2026-10-11T16:03:49+00:00"
+    },
+    {
+      "t": "\"하이닉스와 반도체과 추진…인재육성 올인\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SM3F5VjVMcTh1QTRyOGtfX1VyYzhtaEpWZGtqeUFqRm9TX09lTXF4SUNteEJDMnlVVTVxS0MtclF0SjVYQkVvWFpmRUhNSzVPbXlEeTBfWWcwUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-11T15:47:00+00:00"
+    },
+    {
+      "t": "원-엔 환율, 18년 9개월 만에 최저",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaTRjZEhRMWtNS2R3c2pKN1d6dFdScEdtSzdMMW03bTFpWFp0cmtmYy1hdFdZOWExYkExVXRfSU9HTUVlYXppVUtoRGM3Q2Fpam10V1I4QnZUSTBvSVhoc1pibWlvd9IBZkFVX3lxTE1yaTRjZEhRMWtNS2R3c2pKN1d6dFdScEdtSzdMMW03bTFpWFp0cmtmYy1hdFdZOWExYkExVXRfSU9HTUVlYXppVUtoRGM3Q2Fpam10V1I4QnZUSTBvSVhoc1pibWlvdw?oc=5",
+      "s": "동아일보",
+      "d": "2026-10-11T15:30:00+00:00"
+    },
+    {
+      "t": "EAEU, 중국산 무계목 유정용 강관 반덤핑관세 5년 연장",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yaXZXWUlYSElNZ2haMk0xRnZBNlExLVltdTJ5RjkzbzBlT2FpdjJFVWE2SDEwdFZmQmdYb3A0TFVoeVRBM1I3M2gzaHZoNkQyUlVscjc1UXg1T0s5OVpVQjcyU1hwUFNxeFNHbXhUWk5EOTFC0gF0QVVfeXFMTXJpdldZSVhISU1naFoyTTFGdkE2UTEtWW11MnlGOTNvMGVPYWl2MkVVYTZIMTB0VmZCZ1hvcDRMVWh5VEEzUjczaDNodmg2RDJSVWxyNzVReDVPSzk5WlVCNzJTWHBQU3F4U0dteFRaTkQ5MUI?oc=5",
+      "s": "스틸데일리",
+      "d": "2026-10-11T15:24:02+00:00"
+    },
+    {
+      "t": "한은 10월 기준금리 ‘매파적 동결’ 전망… 美 추가 긴축 변수",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80d00tSUZfUHlxcG1vWWs2alcxOWtoV2RlTFpMbWNxZWlHaGtCcGlEeDBOazNtamFPcnBaWllBR1pIaHh2V1VzZkl5NlRyZ1pfbjhmVHVzejBHM3pNVVJiZmlkVVFCb03SAWxBVV95cUxPcGZVRGhmbjFlWnF1U0NJenYxZVJSSTVlMEpwM0RxaUFId1pLQUtDZWNQRC1iMFFMQVZBXzA4MUJYTkk1Q3VHc1BuRTdnZ2czZEw5OXFheC1ld3VsajZYOWxHT21lREtlTS1nOUM?oc=5",
+      "s": "국민일보",
+      "d": "2026-10-11T15:21:00+00:00"
+    },
+    {
+      "t": "6600선 밀려난 코스피, 미국 CPI·실적 발표 앞두고 반등 모색",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvUXRPOG4wZW83dEFrQ0hkS3pEVVRtVktGeWVrMml0aWhLZjhveXpPTjJDZzFrTUhyRVVUbEdiWjNvWjlZOW5MNGc5MTRUMlVIQXVDSkQzQTZnM1F6enRwRTViQ1JyS0ZuLXhWbEhB?oc=5",
+      "s": "국제뉴스",
+      "d": "2026-10-11T15:18:00+00:00"
+    },
+    {
+      "t": "이탈리아는 Spherical Insights의 유럽 반도체 공급 체인 전문가보기를 강화하기 위해 $ 3.7 억 실리콘 상자 칩 공장 승인",
+      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcUhFbXpYX0doWGNmdkxfYkF1bHc2UWNiZ3BEM2d1MGlwUFAtLTJFMF8wTFo2b05mVDJSNldKYXdGQ0pBZl9DSDc3b2FSa0JWNWpTM0Vmb0tPZGM4TVNhVHI4Y0pMelh6dktUM3lYLWZxSGF1MzZIWkE5R2pTSHpDRmtzbUVhNnppMkxpMG9LMExPRWJHd1dDRERocmZpbU1iU25lVkJaNkZNMS1hZFdSN3B2R2xtR2ZkZzZKNDRGVkFIalpoNkxMbVJHN1gzMWJDUXB1UFdFRDlkdw?oc=5",
+      "s": "Spherical Insights",
+      "d": "2026-10-11T15:07:17+00:00"
+    },
+    {
+      "t": "믿었던 삼전닉스 주춤하자…대만에 수익 1위 내준 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrVU80dU1tUHBBeEtZYUR2YmxRcUdnYUg3X2lSajNtMzR1X0RlZm1KbkZBMUw1aEdacGM1ejUwakpxLVdiWkVLeGZSUlNsTjZ4d2JsS3lR?oc=5",
       "s": "중앙일보",
-      "d": "2026-10-11T03:00:00+00:00"
-    },
-    {
-      "t": "“한국 증시 끝났다”…외국인·개인 코스피 떠나는 이유 [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zMlJtbHdkUWtIYlZiQzZ1QWx6bGRqeUdkX2NGd1NzM0hZc3luQW1YQWVNbkxDR0NWbFlMdUtqUXZYb2pKamhfb3lGYnQ1U0hnUTl1TmlFdlF5MG8?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-10-11T02:58:06+00:00"
-    },
-    {
-      "t": "변동금리 대출 비중 더 커졌다…금리 상승에 이자 부담 우려",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TN3ZObXJENkRxMUxDOEZnaW9Famg2eS16UVhaY1JZWGlCN3FnSEFFU2huWEtRR0tMVU1abDNsTnhuVDVySzc0czNDb1FpTGtfVFdwemhiYURsSDF4ZXhBOFc2RG4?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-11T02:55:13+00:00"
-    },
-    {
-      "t": "[시그널 클래스] 채권 금리가 오르면 내 채권은 왜 내려갈까요? 쿠폰·가격·듀레이션 읽기",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnJHOFEtZGUya0NuRHhuakxhZ3VkRE9NNVFOd1pmYXBBQXlKdW03ZmlvZzl0dnJ5VmJBNzNCc1VDUG5qUkJkMk1COXlPTFdCZkRnXzI1MjA0cFVHR1lEb0N4cnNQdGVjeU8xeDNPVjE1RWVtVzItaHNqWEd5VDR2ZC1ORDY3NVE?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-10-11T02:55:00+00:00"
-    },
-    {
-      "t": "국감 2주차 돌입…한은 금리·공수처·서울 부동산 '검증대'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcGh4U3lOTmNNdEkySHFDWEh3WDRnNk1ocXJuYVliMUpHMU5uQUtCSUhKTFphbjBuZks3aVlMRzVPakNubnhBc1Q5VzlsdnVrV1dsYTRuQ1FYZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-10-11T02:53:35+00:00"
+      "d": "2026-10-11T15:02:00+00:00"
     }
   ],
   "asof": {},
