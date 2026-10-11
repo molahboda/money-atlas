@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T03:01:01+00:00",
-  "quotesAt": "2026-10-11T03:01:01+00:00",
-  "newsAt": "2026-10-11T03:01:01+00:00",
+  "fetchedAt": "2026-10-11T03:15:40+00:00",
+  "quotesAt": "2026-10-11T03:15:40+00:00",
+  "newsAt": "2026-10-11T03:15:40+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "‘예상보다 29%↓’…오픈AI 매출 우려에 뉴욕 증시까지 ‘찬물’",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05VmJsaGUyYV9jR2dkYTBLTFItNUZfLVF3bFU2Skktb1gzanhlNzY0anZLWllHa1dlYkRQdXVCNmp2aUZRaFd6MGlvQnlVdVFKMkVrQkthT3ZQZXA4akJabmV4Q0hhclZxQXc1cGluNHlIeWM?oc=5",
-      "s": "서울신문",
-      "d": "2026-10-09T04:46:09+00:00"
+      "t": "(주간증시전망)7000선 무너진 코스피…미국 물가·실적에 반등 갈림길",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqblE5QXBmSjFITW9iSkpBa1ZncGRwbWVReC0zb1cwMnRobHhNQjRGV294dHlxZGc2ZkNYTTBMZW9GR09YSGNhUmNQMGhmNXh4SFhCX1VjMVlHZklHRkx4QQ?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-11T03:11:13+00:00"
     },
     {
-      "t": "더욱 까다로워지는 미국 수출, 이제는 관세뿐만 아니라 통관도 거대한 허들",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sZVdJV0pQZmNIa283Ml9fd015ZDYyamlYY3pPSXpJVW9jTnZ3cDlOa1BBY3hxMnZqZkxuUXJEd05rb0MxU3Z1MTVPU3V4UGl0YkI1NHNVbFpZVW10NDg5WlhTZUoxZDB2TzF5dXJ6dzFlR2c?oc=5",
-      "s": "쉬핑뉴스넷",
-      "d": "2026-10-09T04:26:31+00:00"
+      "t": "금리 더 올릴까…신현송 첫 국감·미국 물가에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50WS03NXpHSTZxTDNuYmNEMEhjWnlQbU1Nckk4bGxOaWgtRWZWMk96cDR3RzBSSThweEtwX2ZUSTR2TFVfNHZZNVJkLTdjTjJ6Uk82OWxQeFVHbVFKb1pEQVZNdk9fUWlzZTc4?oc=5",
+      "s": "비즈워치",
+      "d": "2026-10-11T03:00:03+00:00"
     },
     {
-      "t": "[도쿄환시] 美 달러 실수요 매수에 158엔대 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bU90OU5XRWdXQmcxMkg0alNDZE5zeFE5aXVtWjRqN3d2eVd5emVfZ3lFWGh2TG5WUVFnLWRZVmU4REFMNHVEcGl2clp2UDJaU0FhVG51QjFYZ3dRM29TMzNrOGxYb1p0WWNacUFSYzB1dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-09T04:21:39+00:00"
+      "t": "월가는 은행, AI는 반도체…JP모간·ASML·TSMC 실적 주간[10/12~10/16 투자캘린더]｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZU51QnJsekxkZ2R1a3NHYWgyUUM2UVFpVmRSVEdhOVNMZDRBb3ZGMnYtN1pOYVV0TVlTNWdTYlNxMGo5ZlVVWlQ0NGNDZG9sNlMwVHR0WDVsNkE?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-11T03:00:00+00:00"
     },
     {
-      "t": "840원대 초반까지 내린 엔-원 재정환율…日 잇단 발언에 반등할까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FLVpwVkFKTFNOdkZyYUxubDRpc1NtSTF2c3dCWngtb0c2a2VjQzBYWUQxT3UwdHhQQ3ByR0pBalo3cmhkSU5VQ1AyUFpWV1hDTDlGdnJPaGdTVWkySzRaS00zc0hmTE5xcldMOFNianY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-09T04:20:01+00:00"
+      "t": "[주간증시전망] 코스피, '마의 7000선' 재도전…개별 실적이 관건",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW9rQjU2VFV0Vk5memc1TmFZcWlnYVFaX2VtT0ozbndPNjB1MElucmNETnE1dEctTGtfUUViRlh3S1M0eGlRTTZHMmgwdmFSVkJhVTRnRnlqU3h3bzN3WmwxT2t2WFlxZkVnYnlxTG5sbThXZ19KeloyZmtTS2ZRM3hoQWlqVEpU?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-11T03:00:00+00:00"
     },
     {
-      "t": "아시아 증시 혼조세…OpenAI 매출 우려에 반도체주 급락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yejhKd3pLSDVDUlNDZC0yajYtaFE4emhaVWRrYlRfUmRLQkhKUS10a2plUXU2ZUFzTFVacGZMeGVJY3NES1hEUVYzdlJsdmFwLU5ocXVib3lCSEZLVGdXeHRNOXRENVY1UXd3Zmp4dDQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-09T04:08:00+00:00"
+      "t": "“한국 증시 끝났다”…외국인·개인 코스피 떠나는 이유 [머니+]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zMlJtbHdkUWtIYlZiQzZ1QWx6bGRqeUdkX2NGd1NzM0hZc3luQW1YQWVNbkxDR0NWbFlMdUtqUXZYb2pKamhfb3lGYnQ1U0hnUTl1TmlFdlF5MG8?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-10-11T02:58:06+00:00"
     },
     {
-      "t": "미 재무부 자문관 \"국채금리 역사적으로 높아…하락 여지 충분\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rc0VDdmotS042aFRaTkJFcHhDSHZGWkd4YmhvRUw4WV9pMjh0MldveWU1QnJybGVZSGNwYzI0TENoWXZvMGQ5bTQ3Yjc3ejJkRV9vUkVOWTZNSXN6VU9ZZE1WWTJYY2JWWmN6WXV6Umw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-09T04:07:39+00:00"
+      "t": "변동금리 대출 비중 더 커졌다…금리 상승에 이자 부담 우려",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TN3ZObXJENkRxMUxDOEZnaW9Famg2eS16UVhaY1JZWGlCN3FnSEFFU2huWEtRR0tMVU1abDNsTnhuVDVySzc0czNDb1FpTGtfVFdwemhiYURsSDF4ZXhBOFc2RG4?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-10-11T02:55:13+00:00"
     },
     {
-      "t": "노후자금 환율 방어 동원 논란에도…국민연금 “외환 관련 공개 불가” [시그널]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMWJxcVI3UEgyZHdncnJFX0RwVFlsbC0xS0xhdjdZYk5lR09tekJsdTZJanRaWHdST1V1WVpjRUlqckNOTF9wZVF4SzU4MzFwYnfSAVNBVV95cUxNdUYxMjB3bFdyQjMtTTlXb2JMT0dGNG9oUkpTbFFXMHdNcnMxeVZPczY3NThZWEVzVGFBSFJMVTlRaDk0UDZlNFd3Y2xfSUtTWHh1WQ?oc=5",
-      "s": "서울경제",
-      "d": "2026-10-09T04:01:00+00:00"
+      "t": "[시그널 클래스] 채권 금리가 오르면 내 채권은 왜 내려갈까요? 쿠폰·가격·듀레이션 읽기",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnJHOFEtZGUya0NuRHhuakxhZ3VkRE9NNVFOd1pmYXBBQXlKdW03ZmlvZzl0dnJ5VmJBNzNCc1VDUG5qUkJkMk1COXlPTFdCZkRnXzI1MjA0cFVHR1lEb0N4cnNQdGVjeU8xeDNPVjE1RWVtVzItaHNqWEd5VDR2ZC1ORDY3NVE?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-10-11T02:55:00+00:00"
     },
     {
-      "t": "SK 최태원 회장, ’반도체 부지’ 광주 군공항 방문",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56Z1RHX1V2NW8zbk1oem9ha1NxRGpZUEVTb0l4SUtPaC1CVkdlaS1pc0pqSUcyN3BDRVVfUV9Gb2oyMEpkQ09yS0pQUnpLamxBVDZEVjBBbVowT3BRSjkyc2NVNy1sTHc?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-09T04:00:00+00:00"
+      "t": "국감 2주차 돌입…한은 금리·공수처·서울 부동산 '검증대'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcGh4U3lOTmNNdEkySHFDWEh3WDRnNk1ocXJuYVliMUpHMU5uQUtCSUhKTFphbjBuZks3aVlMRzVPakNubnhBc1Q5VzlsdnVrV1dsYTRuQ1FYZw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-10-11T02:53:35+00:00"
     },
     {
-      "t": "최태원 SK회장, 광주 반도체 클러스터 예정지 방문",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhYWpkOUdDQWNJMURBVHdEM1ZvY094V0duRHhmZ0FpQnhsYzkwQThVcnI0SXRkaU1XZnFjTjF4SlktNzVEeElLN1hFcEFTRlhKRHhOV0dsOWtqbE9FZFE?oc=5",
-      "s": "YTN",
-      "d": "2026-10-09T03:57:00+00:00"
+      "t": "“국장 재미없네”…개인투자자, 3분기 국장 팔고 ‘미장’ 10조 샀다 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgyUE5oZU1ncVQySnJkVWRYdHF0RWc0aTVsMzg4TXdFZXFibTNWOE9LM2lLTXFwMjV2bVJKSzhzX2VoOE84X3JmeDc5NVNUZzJTOXRTeV83ajZtYW12MXZYb050b04zYkdWT01Ud25NczhvM1VyS0FoQVJqS2szbXpfb045amEt0gGcAUFVX3lxTFBpTHBXaDBuWEJzVW4wajhJR0tVNWxuMGc3ei1FaDJIemFpRlNfMXNtTVVseG5uZzBsZTR4RE4tT2JjM3kwWkZ1RE9jWDFLTXphdmdhd3ZvaFllbkFNZDRzOGRnVFQtX0dmd3hIMkE0NUlhQlkyQjdrUFJYYWF0VzJ3eUk1Q2JBc29LNTA0ZklLZEg1Sk14dmxJMFBseQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-11T02:44:00+00:00"
     },
     {
-      "t": "중동발 공급 불안에‥국제유가 급등",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xWF9tQk5FT0JiR0tnRV9SUkd5dkJxRGNrQlVub3BMUkNvUU9mY183SGE1SjRzQnpvMGg5NGVWaHhLQWRTb1ZVQVg0LWNMZUREVHJIT2NMM18yZ2szbWR2Sy0wUi1RRzhRLVJzaDA0YXdCQndYWmt2TdIBeEFVX3lxTE5SeWVDbGJYdDdWaF9pZzRvRGFEdW5yNjJzV0lXc2RYTE1ZTFRvbkxYUmladWVGM2s2eVIwSG5TRFNGeUEzRUg5SDNhSVBkSXEyUUE1c3U1VXdKUGxRUG54dmtUNVFIdEw2NDhuWlVUR3JNQXFCTkNMVQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-10-09T03:45:28+00:00"
+      "t": "삼전 46%·하닉 49%…外人, 반도체 지분 금융위기 수준으로",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1enFEb3lVckFNaEd2b213RjJKVTgwdE5TblVESFVGVlFQNEJTbTN3MlFTWk1HYU1PVWthRi05SmNYUVJZdElDbjVVdEV1VlNGNzI2cGVR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-11T02:40:13+00:00"
     }
   ],
   "asof": {},
