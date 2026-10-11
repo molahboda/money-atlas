@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T03:15:40+00:00",
-  "quotesAt": "2026-10-11T03:15:40+00:00",
-  "newsAt": "2026-10-11T03:15:40+00:00",
+  "fetchedAt": "2026-10-11T03:30:45+00:00",
+  "quotesAt": "2026-10-11T03:30:45+00:00",
+  "newsAt": "2026-10-11T03:30:45+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
@@ -37,15 +37,15 @@ window.LIVE_DATA = {
       "d": "2026-10-11T03:00:03+00:00"
     },
     {
-      "t": "월가는 은행, AI는 반도체…JP모간·ASML·TSMC 실적 주간[10/12~10/16 투자캘린더]｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZU51QnJsekxkZ2R1a3NHYWgyUUM2UVFpVmRSVEdhOVNMZDRBb3ZGMnYtN1pOYVV0TVlTNWdTYlNxMGo5ZlVVWlQ0NGNDZG9sNlMwVHR0WDVsNkE?oc=5",
-      "s": "중앙일보",
-      "d": "2026-10-11T03:00:00+00:00"
-    },
-    {
       "t": "[주간증시전망] 코스피, '마의 7000선' 재도전…개별 실적이 관건",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW9rQjU2VFV0Vk5memc1TmFZcWlnYVFaX2VtT0ozbndPNjB1MElucmNETnE1dEctTGtfUUViRlh3S1M0eGlRTTZHMmgwdmFSVkJhVTRnRnlqU3h3bzN3WmwxT2t2WFlxZkVnYnlxTG5sbThXZ19KeloyZmtTS2ZRM3hoQWlqVEpU?oc=5",
       "s": "글로벌이코노믹",
+      "d": "2026-10-11T03:00:00+00:00"
+    },
+    {
+      "t": "월가는 은행, AI는 반도체…JP모간·ASML·TSMC 실적 주간[10/12~10/16 투자캘린더]｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZU51QnJsekxkZ2R1a3NHYWgyUUM2UVFpVmRSVEdhOVNMZDRBb3ZGMnYtN1pOYVV0TVlTNWdTYlNxMGo5ZlVVWlQ0NGNDZG9sNlMwVHR0WDVsNkE?oc=5",
+      "s": "중앙일보",
       "d": "2026-10-11T03:00:00+00:00"
     },
     {
