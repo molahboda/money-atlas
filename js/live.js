@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-12T12:30:39+00:00",
-  "quotesAt": "2026-10-12T12:30:39+00:00",
-  "newsAt": "2026-10-12T12:30:39+00:00",
+  "fetchedAt": "2026-10-12T12:45:42+00:00",
+  "quotesAt": "2026-10-12T12:45:42+00:00",
+  "newsAt": "2026-10-12T12:45:42+00:00",
   "quotes": {
     "kospi": 6384.24,
     "spx": 7811.54,
     "nikkei": 69030.92,
-    "vix": 15.4,
-    "krw": 1332.58,
-    "gold": 4192.8,
-    "wti": 93.02,
-    "dxy": 102.39
+    "vix": 15.48,
+    "krw": 1332.78,
+    "gold": 4181.2,
+    "wti": 93.53,
+    "dxy": 102.43
   },
   "daily": {
     "spx": 0.13,
     "kospi": -6.17,
     "nikkei": -0.02,
-    "krw": -0.78,
-    "dxy": 0.17,
-    "gold": -0.56,
-    "wti": 1.27,
-    "vix": 3.77
+    "krw": -0.76,
+    "dxy": 0.21,
+    "gold": -0.83,
+    "wti": 1.83,
+    "vix": 4.31
   },
   "news": [
     {
@@ -74,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "“성장 위해 재정 풀어도 될까”...신현송이 주목한 물가 변수",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ONFdFVUxtMkc2ekZQQjYzQUhoSFA4TmNob29SOXdtdVdrUVlDUVVacUxFWEJrTUgzVFlaSXl1WEVRTlMxMFJYN0s1RUw5c1VscnlqMmdIVVNUSTZyTFpVaHF3?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Wek0ydG9jQl9CdnZISGJFOXlHQ2FwU2k1aFF0X1NnMDVIeDJIcDRYSEo3MTdWUFpreUlvV2paSEtQQktFcG5ReHNBdkgtUnQtSmhXODJlYWl6YWc?oc=5",
       "s": "에너지경제신문",
       "d": "2026-10-12T11:16:00+00:00"
     },
