@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-11T23:45:44+00:00",
-  "quotesAt": "2026-10-11T23:45:44+00:00",
-  "newsAt": "2026-10-11T23:45:44+00:00",
+  "fetchedAt": "2026-10-12T00:00:53+00:00",
+  "quotesAt": "2026-10-12T00:00:53+00:00",
+  "newsAt": "2026-10-12T00:00:53+00:00",
   "quotes": {
     "kospi": 6625.93,
     "spx": 7811.54,
     "nikkei": 69030.92,
     "vix": 14.84,
-    "krw": 1341.66,
-    "gold": 4223.4,
+    "krw": 1340.38,
+    "gold": 4216.7,
     "wti": 90.98,
-    "dxy": 102.21
+    "dxy": 102.2
   },
   "daily": {
     "spx": 0.13,
-    "kospi": -4.54,
+    "kospi": -2.62,
     "nikkei": -0.02,
-    "krw": -0.1,
-    "dxy": 0,
-    "gold": 0.17,
+    "krw": -0.19,
+    "dxy": -0.01,
+    "gold": 0.01,
     "wti": -0.95,
     "vix": -3.7
   },
   "news": [
     {
-      "t": "디에스자산운용, 2호 ETF 'DS AI반도체액티브' 13일 신규 상장",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFcW1jUXFfTXBPbG9fZ00zdWdESlp1cjk0SGJhQmZ5UmtPcW40ZkV6YnI3d3Qzejh3V3JYUVFaM2VkdlB2Zkl6UkpUQ3JVS0ctbUxvekQwTVNWSmpxZmN2OQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-11T23:43:12+00:00"
+      "t": "세계 중앙은행 금리 인상 확산…한은도 3.5% 전망",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1E3MHktMGFzMkctOW5vOThSeXFKa0M4M01aT1ZWeFdWOGthTm85TnFSel91eE9BY19DMVRtVWJYYkxCVVF4YmMzR2lsRzRhSzZnOWdybnp3cGVMaWVTT29iODJhdU5ZUUZCZV9GNExTYk1sakpMX1FkZE02WG5aNGloMEZCa3ND?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-11T23:55:11+00:00"
     },
     {
-      "t": "[개장] 뉴욕증시, 국채 금리 상승에도 실적 기대에 상승..아마존 3%↑ By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DbHF0YkR5dTdvdjFtZUgzYjFnV25VdFZOWEJqTnBlQllHTFhLSUgtbGNOQmxTaGJsMDZRdEd2b3JYRWtqZ3BhNHNfUUY2TENRM0JKSGFyeHZMVGdEekZpbWs3RVlUWTd6YTJjUm5LRnA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-11T23:39:00+00:00"
+      "t": "外人 자금 197조 코스피 떠났다…삼전·닉스도 '휘청'",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmxjT3BKUjFXVzRyRTVmSFh3YmZ5MWVSbXBvM21fNC15eHhNQkFxa1dUZmpYTG1KUEw1UnczV3hka0tBLXZqMmczVUR0SjUwWTg1QTJwN0RtdnkxektlUlcyQUhYSllRTEZfMmV4Q1hOT3JqbWk5ZC1kWFVVLVdtemtPXzhpOFh6?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-11T23:54:43+00:00"
     },
     {
-      "t": "[1012개장체크] 美 증시, 오픈AI 연환산 매출 낙관론 및 대형 기술주 반등 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYWVRTM1B0b0JzOWZpeldvdzZxU1dVRDdJMHM0LVMwUGJKampzeUNvdnFadU1nNlh0OHZoSy1ZSDR3UmlGLWVYVWpzWDhWQXY1OFN6REZVRGp5R3h2UF9nc3RaUnBaVFFtYS1Ic2MzTWs?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-11T23:39:00+00:00"
+      "t": "금리 벽에 꺽였던 금값…반등서막이 지속될 것인가",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRXJLbXZLVXZPNC0yLUlVRXpId1JwdUgyOW9oWkxNZklwbEFsaDNIbGd6ZHpweFhyWE5McTlWSzBjNEkyeHlDc0k2MDY1V0dLTUlQamJn?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-10-11T23:53:33+00:00"
     },
     {
-      "t": "코스피 6,600p이탈 시 추가 하락 대비해야 합니다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kY1UxV3czenZ3T09aNlZncnhsR3E5Z3B3bTFudTBJdnNsbEtJZnh2R2VqRTZia1RfY0wxd2JDWlo5ZEYwT1d0TEhvd18tRWxXcHRadFRaM2ppWHFObU1iLXQ0NXU5R3Y0dy1iaFpmSWzSAXRBVV95cUxNMHQxSERvRVBkSkZMTzV6OE1LTmdlMjhaZGtOVnRPN29XRVZHVWZUTUNJY1JYbjBQZEFFMWppTGoxT0pwWmhLaFc4MHJvckYwbUV0dVV5aTd5aUs1U0NyT0piZGdHdzBhdjhNRy16c25mZzdpXw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-11T23:38:38+00:00"
+      "t": "\"현대차, 환율급락 리스크…목표가 41만\"-유안타 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WRlhLZ0NPRVVaWHpsSTJaVG1mc1U1Yjk2NFV6aC1CeWU1Tm5WMTF0djRKT3JkOWVvanNYd2UyR1BrODA1emd6R0wyVjlocVQtOUJiUkpkWlhWdUZoX0YtUElxeVdFbzUxb2M5U3lRdmFpNWg1T1HSAXtBVV95cUxNZy1qdUg5QXF0bm9VUXUyeDI1WGh4OFJwMk9IQXhhM2dvUlRNaG5FcjNqOXhna21UODI5YmJzOXU2TjVHZzlqNTlDZmJJZ3VSUHdGc3FERk5KT1h1dkVjdGxBSzZXTUUxdjJ4RFFteV9XQk9FVDdxeU9MV2s?oc=5",
+      "s": "머니투데이",
+      "d": "2026-10-11T23:53:32+00:00"
     },
     {
-      "t": "최태원 회장 “호남 반도체 속도감 있게 추진”",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YUWdYeDd0aHVXZXFXOXFWT1MwaXdiWW5mS01tcWhWQnBRWWtCVkVrN1dxWEU5QmdOU3I5Y00taUxSb0N0ODU5dXhkOU5sXzJ5OXZyVlVGeVZJYXI2U19VOU5wZWR2dUhfZ3dKSEdGN2o?oc=5",
-      "s": "코리아리포트",
-      "d": "2026-10-11T23:37:13+00:00"
+      "t": "하나證 “내년 증시 주도주는 반도체 아닐 수도…이익 증가율에 주목해야” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzFnLXRBN1BNVHFYSU1OTDkwLXFsaG5iZG9VRzZBUFVXMldGTnZwQkxaajBMSlNwVDdvX0JMYnN4QXhMLTQ4Q1V2dEZSWDNpcjZJWDZXS2Zmd1FuS1Y5MktzaGJZd2ZSTlI5VWkzWVNMY0hiUUFjZlZCSUFzMmpjSmg5dk45c1930gGcAUFVX3lxTE9nRmFieDlzdm9hQTNoNzd3cEVQeE5McEJwR1dJWjlWaF9MajdFMWk0UjNJNkM5elpzTjM2Q2lZNm9zNVhaZE9pdnQ4X2VUMGtrR0twRDN5N3RobXp5dDl2enZxT21QaG8taXp3NDU4VHFBOEFMWS15WGpPeXdoMW1zYm4xamtFY1BzS09nZjh3ZUNiVXlpWjN0cWYtag?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-11T23:48:00+00:00"
     },
     {
-      "t": "한울반도체, 日 글로벌 MLCC 대기업 제조사 검사설비 성능 개선 사업 '본격 수주'",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HSUdwZldOSDhHY1hDRGVWSUs0X2lRNlJTWkJoRUo4eFBkeDd2cktmbFZkbFFNX1NoX3pWTWZVWGZKSk11WVNIWk5tbFg3M3IxbEpvS2VvTVFySFM2T1E4VFBTZkc3UEtHNFFkYw?oc=5",
-      "s": "프라임경제",
-      "d": "2026-10-11T23:36:09+00:00"
-    },
-    {
-      "t": "美 9월 물가 발표 임박…연준 연말 금리 경로 주목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52U2FrTHNkWjVubzdsaUNXSjBCTjVSTlVvdzNnNmNySjFfX0lCZDRKYnVRSGJNQ3RfLW9US2JWeXp2RlFUZlRJeEo4TUlIQTNPQ2NQemdOT3BqZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-11T23:35:49+00:00"
-    },
-    {
-      "t": "[리포트 브리핑]기아, '견조한 판매흐름, 환율과 재료비 부담' 목표가 195,000원 - 상상인증권",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5M3MybHRJQmVLZnhGU2FmSXh3aXAwWVZQMERHb2MxQkwxWkVPeHQ4UGcxVGs5YmUteWE3Mmc2dXlPdlpIMVFIbE03eEM1ZWl3T3hVWXFjMThWRnhl?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-11T23:34:00+00:00"
-    },
-    {
-      "t": "7000선 밀려난 코스피 재탈환 가능할까...美 물가·AI 투자에 반등 달렸다",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYnN3R01BZ0tNTW9SVXdsdGhWUTRiWGpEUFhMOGxUbGw0NmhULXZJQnBfZVdPYmMzdUJocWR6UU94SndmeHUyS05LNm1hdnp4Uzh2TGhFWmhEWEwtY0lWV3pZVXE1TFJ6ek9NbW9pUUZCZEVO?oc=5",
-      "s": "조세일보",
-      "d": "2026-10-11T23:30:00+00:00"
-    },
-    {
-      "t": "월가, 'AI 반도체' 중심의 새로운 금융 시스템 준비",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jakVsaXdyd2pqdTNBUlNTME5QTEZWSnpvYUd2bGV3MFp3c3VjSnNCQ1UxMTZhbnZDTkhGS1c3NFdwUDdGSXRjZW9RTlJ4WWZodFBpTnJPZHoxdDN2ZlRjSVZYd1h4Q3BITzNBdVV3aS05Zw?oc=5",
+      "t": "DB증권 \"내년 환율, 수출만 보라…1,250원까지 하락 가능\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zbWU4M2tNOWpVSU5jckZneEtMSXY3ZU5DMFpic1Q5eTdrUmlMeGtaLUJ4SUxtSnZEUFN4M05OYklCUUtqOVZGU0UtT2NTVWd0NVd3QXY2bEk4TERhNEFab3dqZXJmT1RfTnJ4bnRVVjd4Zw?oc=5",
       "s": "KB Think",
-      "d": "2026-10-11T23:29:49+00:00"
+      "d": "2026-10-11T23:44:49+00:00"
+    },
+    {
+      "t": "디에스자산운용, 2호 ETF 'DS AI반도체액티브' 13일 신규 상장",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdzhacDZ5aTJoVk9WSzJtZ1hRdkVLVkJySHYtVTNoVy1LOGtpY1gwQ18yM2w1VXlPSDVRUG1xWmxNNDdiZXh6YkRNeW9vUy1GVHhnOFVpNjE5dlJVU2xpV3p3?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-11T23:43:00+00:00"
+    },
+    {
+      "t": "美 연준 해맥 \"금리 더 올려야\"…기업 가격 결정력에 주목",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFEzRms4SFdpdVExdjZUMUp0Smhuai1xVERxS1RkMlBBUmZTbnRwekF5UERhVUtHQmlwYnQzYzZuZTRTN0xJNDdlY2Z4QXVxZmp3RU41NjV1Mzg4cmFHc29Qeng2ZjVLeTE3ZUtmRGU4T0phQzNMNEx1QVJtRjVtZlhXckpYWlpV?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-11T23:42:46+00:00"
+    },
+    {
+      "t": "iM증권 \"이번주 환율 1320~1370원 전망, 9월 미국 소비자물가 발표 주목\"",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05dkFVS2RMWmNZejJ2ZmtMcmtWYUpOcUpIdW9LY0N3VjlPWXpTQU16ZVhfMTVLdGZxUFlscUFGek1VeEwzc2dQNTNLTlB1M2ZDbFBtOEF1Y00wVnUtbkxTRXp1bm5XVWRiODNILU05S2RYM3c?oc=5",
+      "s": "비즈니스포스트",
+      "d": "2026-10-11T23:42:16+00:00"
+    },
+    {
+      "t": "연휴 마친 코스피, 6600대서 반등 시도…美 물가·중동 정세 변수 [투자360]",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WDBCaUk5c1UwVHBzQThSYXZYdEVkMlZldjhOTmpGMks5ZEwyOWRJUE1hbXJUblJYRXUwVE02MjVxeVh3S3JyMkRXLUttdWR0XzJmVjd3?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-10-11T23:41:15+00:00"
     }
   ],
   "asof": {},
