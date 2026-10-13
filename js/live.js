@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-13T05:45:48+00:00",
-  "quotesAt": "2026-10-13T05:45:48+00:00",
-  "newsAt": "2026-10-13T05:45:48+00:00",
+  "fetchedAt": "2026-10-13T06:00:50+00:00",
+  "quotesAt": "2026-10-13T06:00:50+00:00",
+  "newsAt": "2026-10-13T06:00:50+00:00",
   "quotes": {
-    "kospi": 6063.08,
+    "kospi": 6006.46,
     "spx": 7807.24,
-    "nikkei": 67681.18,
+    "nikkei": 67647.98,
     "vix": 15.21,
-    "krw": 1343.15,
-    "gold": 4218,
-    "wti": 92.45,
-    "dxy": 102.43
+    "krw": 1343.38,
+    "gold": 4216.6,
+    "wti": 92.8,
+    "dxy": 102.4
   },
   "daily": {
     "spx": 0.54,
-    "kospi": -8.49,
-    "nikkei": -1.96,
-    "krw": 0.67,
-    "dxy": -0.15,
-    "gold": 0.65,
-    "wti": -1.38,
+    "kospi": -9.35,
+    "nikkei": -2,
+    "krw": 0.69,
+    "dxy": -0.18,
+    "gold": 0.62,
+    "wti": -1,
     "vix": 2.49
   },
   "news": [
     {
-      "t": "반도체株 던진 외국인… 코스피 6400 밑으로 끌어내렸다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2UW8yTVdZd2R5cHlDNFV5cG9ETm1Oc1NsbTN4STZqNkJhUXlwZExsNS03WDlVT3RwZVhjQjhjdWNyWmtEcExPLV9Fa3M1Q0ZzaTJvSkF1OWNwZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-10-12T12:13:42+00:00"
+      "t": "\"반등 활로 찾기 어렵다\"…증권가, 코스피 급락 긴급진단",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NdW1Lc3RoaGd0cWJySGk4LXlPTS1nVmtNX1FpV0VQOW5TVlU5YTZucFNxY0pWc0FJbG91VUJvWTVaTm5NWmJKcjRWcHpldkVXUkJ6M3FRS0Zxdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-13T05:56:39+00:00"
     },
     {
-      "t": "코스피, 연휴 후 3% 급락…두달만 6,300선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdldjWkFhVi1rcXhsNkxWVm9taWV4cmVVdjdlTTFiY3NTNGtaNlBWTTdiNXB6NmZqbUtNWU1ObHpBdDBCMlBJWnAzMHViVVNmWGhmR0lSTV9URDJybFBUTlJDbERwRmM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-12T12:00:00+00:00"
+      "t": "李 대통령 \"韓금리 오를 수밖에\"…연체채권 원금 5%에 정부 매입 제안 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSHlYVk15Y2pjN3l0SlRmX3JGVGlxeUNpV2J4T3lZeFVRQldDd3VOck5MbzYtRk5QN0pnaUg0UFVPYnkwVUh5M1A3bXBTX2x3OVM4N281SFA3WkR2QzZ0amo5WjR0UHdDLWNkaTRza1Y?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-13T05:50:00+00:00"
     },
     {
-      "t": "미 달러화 강세…사우디·후티 충돌에 유가 다시 들썩",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE52XzlDdlQzX0dLVkQ5cW4wY1hOdGtwSUNmUHp1Nnh5elJqaldJQXA3ZDd0TGJob2JsQ0dLLXdtWEtuVHpOTGJuUk5qT0hvQXo2QktHS2J5SGtocWluQlVqOVpzTDBPVk5WYVNRN1BSRmFmQQ?oc=5",
+      "t": "IMF도 3.3%로 상향…'반도체 호황'에 한국 성장률 '쑥↑'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjdk5WQmJ4YzFDLTJlUy03WUdLc3B6anVQaUNkU196Q1ljeTBPWUg2UFFLYnBLVVl1WllsUHRhNVhBNmpIbGdvcEJfWHpYeGZISVkxLTByNVRvcGszYy00VA?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-13T05:48:19+00:00"
+    },
+    {
+      "t": "[정선영의 마켓산책] 1,500원 환율에 산 그 주식",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBc05xbVp0ZUpyeUVrWWNvVHB1UmkyQmFJd0NuSDhIYS1NbHFEUERwYXlNTFJSYmNrQXpFWmQ4cllRajdqTzdRUWRPMjJ6c2hkMG51UDR1WWFmVXpEc0I1R254WXJYWEgzYmxrNmxRTkk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-13T05:46:28+00:00"
+    },
+    {
+      "t": "증시 급락에 채권으로 눈 돌릴까…금리 오르자 개인 매수 확대",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZ0ZITUhrYzh1WEFGZ0FPUGdVU0VPYWVhLW1GMGRGdjRyOGhkZDdZbVJ2b3pqcXluaFBjM3B4UXN0VklKWjhkNTBMNjQxU0JYcEtZNDNxLVZ2eGvSAWBBVV95cUxNdzN5Q3B2eHVxLU5jR1dSWXd1UkYyaE9DR3RMaWRWNWF1MkNpM1BQbTFYWGxQSFIzQmhxbjJkU1VlSGI0SzkzaENpaUEyak9HZG9nVWRjY1JacjFxM3p6Y3I?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-13T05:44:08+00:00"
+    },
+    {
+      "t": "반도체 결정, 원하는 위치에서 자라게 한다…김우희 교수 연구 『Nature』 게재",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3VzMyUjliSmtqa1RydUxQNDB1NUpkYUpXbmlxMkFyTVI1Rm90Y2pTS1h6dXhjRnBkUWFTd1R0TFVTd0o5MktjXzFLNU00cDhxdTVvQUJuaHNwal9CSnZmVWs2T0ppM3Z3NW9B?oc=5",
+      "s": "뉴스H",
+      "d": "2026-10-13T05:42:51+00:00"
+    },
+    {
+      "t": "10월 외국인 12조원 순매도…\"코스피 W자 반등, 두 번째 바닥 탐색\" By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQTlFiZ19CM2dRS0Ryd2FNTGkyRFNjSS1sWDRLWFZJT0UtMGs1VG5SVVhSUy1HV2NIYlpFNG0zMmZ2and0bml1aEprdlVrTkt0NUtKNHJjMF9FTUM1UWxiZHpwWWI2SDUxUW01YXUtUEQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-13T05:41:00+00:00"
+    },
+    {
+      "t": "월가 전문가 \"워시 연준, 그린스펀의 유연성 배워야…S&P500 1만 가능\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xcjJrLW53cV9vYjVGYWRIZ2NqTEw4M2IwaHRBV1NidVl4LU1TS3htQWwtTlRXNUNKTzU1VmRHN3U4bFhmMGhrS1RoalVhcERGdG5LQ2d5RU14eWpyVFhvcTNWOHp6UU5jTm5fMkpZZ0Rxdw?oc=5",
       "s": "KB Think",
-      "d": "2026-10-12T11:55:50+00:00"
+      "d": "2026-10-13T05:40:37+00:00"
     },
     {
-      "t": "김정관 “호남 반도체, 기업 의지 충분한 수준 넘어 절박” - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdm1BanNXT1NEMkMxbUE4cFF0N0w1WXFYcGFTdW5sYUZ2c0c0d2xpUXVhcXBmdjFvRXdsTnh2RDdmUW91R2kyN05PTkZ3MVN1MDJtb2xJNzhENFVJZTRVTUZPWlNWaGhuZU5RU0QxZmpEdXdNZGh2R01DVFpxdllfVkRCSGp1UdIBmgFBVV95cUxQMGdTSEJod3U1aWFQWlU2TVlPVUZlYllseEs1SmtHN016ekpEcmphLWZjbmo0eDVfNUl2TVQwU0RMTk51QmZseUcyWklKeW5aamgtamdHX0c3VGZ0eEV2YjgxZmF6dHJPUkN4Y1JjVDFSaVZmOXc1aEh0NjBldUZKTmhSY1c2MnJ0SFdhRnRRU09KbUd4RUx3OWpR?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-12T11:37:00+00:00"
-    },
-    {
-      "t": "한은, ‘금리 인상 기조’ 유지 시사",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aODhETlUzUXdRMFNSUlhBN3hsWU1CTzRJVF9pa0xvYlF3NVBKM2tRTTQ4WjZDZDNFVElmUWdmQmJqNHdYN3dySndnaFdUVUxQYUlIV2ZHSDhRUdIBX0FVX3lxTFA1bkNXYjRwd19fTXJEeS1TS29RcklmbERlNGhBNF9TZWdYQzVlb3pJaHlyR0h4XzFHSDhFeTFZVFZROFdUcjVZbm55WDVVVEhzZDdyZnJxWXdkMFBBVlFv?oc=5",
-      "s": "경향신문",
-      "d": "2026-10-12T11:32:00+00:00"
-    },
-    {
-      "t": "\"금리만 내려선 경기 못 살려\"…노벨경제학상 수상자가 강조한 해법은 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xYXZ2dFNlYV9zTWUzT0ItUVJ0S2N2RGdFcVgtZEtaaU9XbVNxOGR5NmVUb05OSTRGZm5tYW0yenhWRlQ3TWRNUXRLWHZDS3cwSDYtYkx2dGEwSEJjYnQtTjlsNDBzVXozZzR30gFwQVVfeXFMTV9jM3l1RC1UWlNtMVZOSG1YSUpJSHJQemFqYU1YcnZQd1ZSSjZhRWtpeFFPcjhQWGlReHB5TkQzMllvWHR1WlVoOFczM0xDd1F6U3o0ZVdOYmxhN18wY3BRaDFIVE9fS3N2bG1XU2xCNw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-10-12T11:25:39+00:00"
-    },
-    {
-      "t": "산업장관 \"호남 반도체, 기업 절박해 의구심 갖지 않아도 돼\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zVTF3ejJlNVpGT3QyMkxaajdpOGEtcGVkdVNEX1dRX0p0RXFkTFlDa3dpaUlwNW9DbjBIUnZnYnZmckltQ1V0WTh4OGpDUUFhUEE?oc=5",
+      "t": "산업부, 반도체 메가프로젝트 전담국 신설",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwd3Z5T1lRX0ZiUUhMdlprUmxkZ1BFSjdYR2ZjX1kzWGRKWTB4RFlwUDFmcDlpYXpwTjJfQlQtODVncGNsOTFPWmN5bWUxdHVSUUE?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-10-12T11:20:17+00:00"
+      "d": "2026-10-13T05:25:47+00:00"
     },
     {
-      "t": "[인도증시] 유가·인플레 우려가 RBI 환율 방어·실적 호조 가리며 하락...3대 병원株 ↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdHFTQUpIV2tkV3JOQ0p2cy1PTExseDhxNW1rTnRBTnRvaFU3aTJXbVlZRmdiYm5jSlRfc0dBWDdnUFVEbExiOE4wSHE3bUItcjZXVXgxQVVfcE1H?oc=5",
+      "t": "[단독] 삼성·SK 美공장 건설비 부담 커질라…美 반도체업계 \"관세 낮춰라\" 요구",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NZkxLLUV5amhyMjd6b1kzWGZRbFkwaWpwdEJRVEZYek1HU3dvT2pqWlJTb01Td1pMekE2QkNRODkwcFVLaE14c3ZhcVR5cG1XdlNUS1ZHdkZJSXJx?oc=5",
       "s": "뉴스핌",
-      "d": "2026-10-12T11:18:00+00:00"
-    },
-    {
-      "t": "“성장 위해 재정 풀어도 될까”...신현송이 주목한 물가 변수",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Wek0ydG9jQl9CdnZISGJFOXlHQ2FwU2k1aFF0X1NnMDVIeDJIcDRYSEo3MTdWUFpreUlvV2paSEtQQktFcG5ReHNBdkgtUnQtSmhXODJlYWl6YWc?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-10-12T11:16:00+00:00"
-    },
-    {
-      "t": "국제유가, 러·우크라 '에너지 휴전'에도 상승 전환…브렌트유 105달러 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yenlZSDZCYVBneTNUMWdKWEhJbHdyN3ZzMm1oR1JUYXFlRU5jM05ZWDNWYlp2dE1iU2J3MWxYNEdIOGpXaEItN2oxVF9PblFCVG1PNkpmUXV5WUQw?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-12T11:12:00+00:00"
+      "d": "2026-10-13T05:25:00+00:00"
     }
   ],
   "asof": {},
