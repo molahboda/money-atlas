@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-14T16:00:32+00:00",
-  "quotesAt": "2026-10-14T16:00:32+00:00",
-  "newsAt": "2026-10-14T16:00:32+00:00",
+  "fetchedAt": "2026-10-14T16:15:23+00:00",
+  "quotesAt": "2026-10-14T16:15:23+00:00",
+  "newsAt": "2026-10-14T16:15:23+00:00",
   "quotes": {
     "kospi": 6008.81,
-    "spx": 7735.24,
+    "spx": 7719.22,
     "nikkei": 67744.29,
-    "vix": 16.17,
-    "krw": 1343.14,
-    "gold": 4103.9,
-    "wti": 95.08,
-    "dxy": 102.84
+    "vix": 16.2,
+    "krw": 1342.47,
+    "gold": 4095.7,
+    "wti": 95.41,
+    "dxy": 102.86
   },
   "daily": {
-    "spx": -0.92,
+    "spx": -1.13,
     "kospi": -5.88,
     "nikkei": -0.05,
-    "krw": 0.68,
-    "dxy": 0.65,
-    "gold": -1.76,
-    "wti": 1,
-    "vix": 5.89
+    "krw": 0.63,
+    "dxy": 0.66,
+    "gold": -1.95,
+    "wti": 1.35,
+    "vix": 6.09
   },
   "news": [
     {
-      "t": "다른 나라도 반도체 영향 받는데…왜 코스피만 더 크게 흔들리나",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sR0NfQlpDX1JIVzJnT3RVUlRoUUdmTWNUNTVfWThoS0tURWFvNDYwWkhHUlhjbzFaNW9TaWlVR2xId2VBUmFLUl94TkFneVNQUHl0UU84cW9YTVpUVFdHdQ?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-13T23:54:09+00:00"
+      "t": "미국 물가 인상률, 5개월 만에 최고...금리 인상 압박",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2QlZCZ2FXS1NPbm5EQ3VrLWwxWTZMam5zQ282dEJiYXRqZnlqWHBrWVZaOERZSUl4MnRjbTJXNk1yV0ZFZVhEci1tNkVQQk00SENCNi1pb01SNUZkRmc?oc=5",
+      "s": "YTN",
+      "d": "2026-10-14T15:55:00+00:00"
     },
     {
-      "t": "비트코인, 8만3000달러선 횡보… 전쟁, 금리 등 변수 여전",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2otLVRab2RaU25DZm1aN1Vwem15czJfSERkY3lSU3JkQ3VuQ3VqY2kxbURoOUJwT0FrUVhmMXhwSTVfbkpkLUI3T1c0STdhS2ltTHM5TUFVamd5ZlA2QVN0cTQxa1BsUVFSbDU4a0ZJUmYxcG5qQURpTElwUFNzZQ?oc=5",
+      "t": "“코스피, 이르면 6개월 내 9000 회복 가능성 커” - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhxUk8xU1hjbGM5WUR0NVJzdlZHWF8tdFdMbHBhUURDZUdtemZKclN3R3BWeExBX0VBSnJsemFiSWE3VVNYd2pCNXVFekpEY0w0X0xPWVFjbnc0NVJKM2g4alU0Q2xKMUY1Tk8yM0ZEN3dFYTNMcXp5ZTkwT1liOVlKVWlXUWZQ0gGcAUFVX3lxTE5FYWtOQWpNcWVYMzBwRWxLT05wMDJ0aWJlUGtwOGw1ZTV6WnNxRGVsMGJFREZ2N0JuSDFjOTJaendpTWVwQ0lJdElMd05OQU80ZmJvbWsyTWhTa3NCZTgyNllrd0toSzF6NkhXVTNtSFdqQWpsUVhIMWZjNG1TZVdJcFJjaEpBZXdRTzM0cWgxaFR4eXRGN0IwQ0hzVQ?oc=5",
       "s": "Chosunbiz",
-      "d": "2026-10-13T23:50:00+00:00"
+      "d": "2026-10-14T15:35:00+00:00"
     },
     {
-      "t": "뉴욕증시, 기대 밑돈 美 은행 실적·반도체 약세에 일제히 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95Ym9ZSkdaaVczandvVE5rUHM5VTdTNkNqOC1qZFR1QllxNHVCUTJsX2x6dTdFREpFaDU1N3RjWGZhejdwal81NndNYnpmWE1mM1JBeGhGM3BBOS1JbVB3V2NjWjQ?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-13T23:46:22+00:00"
+      "t": "中 CXMT 반도체 신기술, 왜 삼전닉스 주가 흔들었나",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjYxSEpUU1RQMVJzOWtfdnlPQzBoTnp1NWFkby1uOW1IcmljbFpNeUdaU3VmUV81NHFuRkdOanZHeXg3WE9IWXpuODJZOWNnTVRLUlZLRE1PV1djT2lqRkJLUTAtVHdkUzkwWDZvM25WOW9OandfbnlQTTBfbzVXTmVaZw?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-14T15:31:00+00:00"
     },
     {
-      "t": "AI 투자 부담 우려에…필리 반도체지수 5거래일 연속 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrT2R5Z05qeE5WblBrYlotUHlDUXFQSUdTZnJua18xbmRqTXFNRUxqSkE0T3RIemlUSTBMQkNKVzlDbjV1RmlxcU5CME5EQ3hZb3NmVk44R012cU1kek10R29YblY?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-13T23:45:50+00:00"
+      "t": "코스피 박스권 장세에도… 반도체 소부장-건설 중소형주 탄력",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QM0s5T1VreU55WVRYN094QkVRZHNmeWFKTGhPdWFzbF93dXFEcUNUUG5HcHFGUzFyeGkzdzRfUjB4MHVvWHJrQ2F2Zlg2eHhnc0pkRXZHc3RwUXk3aUJ3bHViMFdlcVFPMVplU1E0eXNDdTl6cFHSAWZBVV95cUxQT2tCb3lKa1VTNHNibEdDRHBsWTdCZW13SUZTRVNzSXVteHhzQUxpcGpfakZuTDJkeDZGWmlnMjJWYlVwNUZ1aFVTZlBlV01admRNblFLQXplM0s0Z3NIcnV1Nk5ra1E?oc=5",
+      "s": "동아일보",
+      "d": "2026-10-14T15:30:00+00:00"
     },
     {
-      "t": "\"코스피 닷새간 13.8% 급락 이례적…추격 매도보다 중기 회복에 무게\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QbjF0Nzd6eGkwYlhxWDJYR1VqNk5KX2hERGpJbXFVcTFiYXA3dTl4aGV6bWZhSWFsMkkxLUx6N3dZbXRmSjJjMGJPdDhxM09wNDhYVmgtMWgtWi0zTUtQOC1ib2ZmZEhGVEtyR001VjQ?oc=5",
+      "t": "여전한 美 인플레 압력…10월 금리 인상베팅 50% 수준으로 '쑥'",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FZm52MnBJWWVWczZibWJ3RHRvM0NvZ19telBIMDdCQzhkNEtVSlJrQzhfSVFjY0ZBUVBzNml6dUJmWFRDT2NEcXFhRDY1WFliazY4UGJwOXNYUTc0cDYzYm81ZXBLenJWNWpmTER3blA?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-10-13T23:40:35+00:00"
+      "d": "2026-10-14T15:25:25+00:00"
     },
     {
-      "t": "옥수수 공급망 불안, 축산물·가공식품 물가까지 영향…상시 대응체계 시급",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95WEtlei1mZExIb3lrOExiVkZpN0ZFNmJhXzk0VG5odkVoZ2lBYnF4eVpXb1cxT1RrREpreXMwU0Rvd2FqWE1tdjJuOGFZMmNDNGVBa0FWcTl4U1ZjZnVvcnNxRENUdGx1?oc=5",
-      "s": "축산신문",
-      "d": "2026-10-13T23:38:52+00:00"
+      "t": "강원 바이오·반도체·청정산업에 5천억 투자⋯김정관 장관 지원 약속",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIelZHY2Vld3JmeFF4QmJ6cEU1X1NxMFBEaWh0R1NpNjlhZDdGMUZRVmZfM0NDWXMxdmx3X0NXZ3dBYnBTaTFWZDZraUNBaUdoTkJzS0V6a1k5NDA?oc=5",
+      "s": "강원일보",
+      "d": "2026-10-14T15:00:00+00:00"
     },
     {
-      "t": "이형일 \"반도체 다음은 서비스산업…입법 협조 요청드린다\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAweEJmMm44UXkwV3hJOFplQVNSaG92b1l0a3ZTNlpmNXdUMGRFRXNBdUJwaERWLUg3MkhORVhSZ0pmM3JpeXlvVFJtNU93ek5PVlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-13T23:38:42+00:00"
-    },
-    {
-      "t": "최고에서 최하위로 추락한 코스피, 메모리 편중의 덫에 걸리다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0piU092MjJ2ZXRtZUNzdC1lZXdTWWVhRXR1THpOYXlJVmNqaHphWHNZTVJhOGFmUTNrYTg2Wkk0dF9wdHMtek9LM1hvN3dHcmtSTi1pajI5cWVsYWN1RVVWd3gxUWhpMXVjcG4yUmtkTGJWM0E2dGctUUc5NmVDTF9xcVNmLWE5?oc=5",
+      "t": "[김대호 지수] CPI 물가지수 \"노골적 마사지\"",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2dvLUdFYW9ITkJhV3JmN2FiYXZPNHVNYjRpNTQ5MUNrQ2t5YTRsSGQ0N0FncmRJbk1DcVVOT0JDQjlySGdpVXBvWDhMaVA5RXhpQjJCa3BzUGVrYno4LWhEY1VUMGwyaEJUWkFlQnlTZDJBbXN5b21ra0twRkpqeU5wTHA?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-10-13T23:37:56+00:00"
+      "d": "2026-10-14T15:00:00+00:00"
     },
     {
-      "t": "美은행 실적 혼조·반도체 약세…뉴욕증시 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00WDB1eUZJZjRjaEk3MzdkVWRTUXotYzlRbFBTczNTMVpMV25RY0MxaHJqM0VVckNDOWFlSTBFWkVZYVJ0XzF6T1drdTZGV3hWMzY4cHVzLVFNMURFSG1UTVZuYWVEUVU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-13T23:37:00+00:00"
+      "t": "미국 물가 충격·유가 급등에 뉴욕 증시 혼조세",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqdzdZYkFEbDFtN0ZGYndEVTRUR0d6ZUtra0tIQ1R4ZXJOYUJxZkE2T1BxQlZPUjZDWXV5bVZtckFXVkZpSTdSSGZWVF9mYnVTa1FHQzUzX1lPSFpvYVE?oc=5",
+      "s": "YTN",
+      "d": "2026-10-14T14:55:00+00:00"
     },
     {
-      "t": "[외환] 연준 당국자 비둘기 발언 속 1,340원대 초반",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zX3Y4SmdaQVNVY3Y3bFFFdmJmaDFMZThCWk9XRGZHMk41ZzA5QzVYR1VHNVd3M3JUVmZqNmE1MnprMTBtLXk5THl1Vm10VElEcXNjaWM0c0RuOHRvSTJZdXJaMm9VeUNVeU0tcU9lMWk?oc=5",
+      "t": "美 근원 9월 소비자물가지수 전달비 0.3% 상승…시장 전망치 상회(상보)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IZEQxLVZBdlplR3ozVndmVlVDSEFVZXpEMnpQdkMzbmdCOWQxVHJqOXdqV05VY1JZeVRZS3lXejNSNktzMVoydThYdlNaa0FJSVRXb1dVREVtVkYwTHU4WWI3dE1qakZZd0drLV96VVk?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-10-13T23:35:39+00:00"
+      "d": "2026-10-14T14:40:19+00:00"
+    },
+    {
+      "t": "美 9월 물가 3.7% 상승 ‘예상 웃돌아’… 달러 강세·금리인상 전망 급등",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdTlQaUNGWlNhQk1nZ28wSHYybXhTU3hGMUlITGVBZ2VhaElCeE9GRDUyTElzcFF1UnBGV1JWWTBLcGQxcXlkT1pHZ1Y1c0FxM25nWGFuWUQ0M1Y0LTgtb3JYdUlSd2M2cmc?oc=5",
+      "s": "천지일보",
+      "d": "2026-10-14T14:38:07+00:00"
     }
   ],
   "asof": {},
