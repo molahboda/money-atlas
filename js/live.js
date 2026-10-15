@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-15T17:45:26+00:00",
-  "quotesAt": "2026-10-15T17:45:26+00:00",
-  "newsAt": "2026-10-15T17:45:26+00:00",
+  "fetchedAt": "2026-10-15T18:00:32+00:00",
+  "quotesAt": "2026-10-15T18:00:32+00:00",
+  "newsAt": "2026-10-15T18:00:32+00:00",
   "quotes": {
     "kospi": 5554.22,
-    "spx": 7741.67,
+    "spx": 7738.31,
     "nikkei": 64425.95,
-    "vix": 16.77,
-    "krw": 1341.98,
-    "gold": 4171.1,
-    "wti": 96.54,
-    "dxy": 102.05
+    "vix": 16.58,
+    "krw": 1342.18,
+    "gold": 4174.2,
+    "wti": 96.52,
+    "dxy": 102.04
   },
   "daily": {
-    "spx": -0.82,
+    "spx": -0.86,
     "kospi": -7.97,
     "nikkei": -4.9,
-    "krw": 0.12,
-    "dxy": -0.49,
-    "gold": 1.54,
-    "wti": 1.52,
-    "vix": -0.59
+    "krw": 0.14,
+    "dxy": -0.5,
+    "gold": 1.61,
+    "wti": 1.5,
+    "vix": -1.72
   },
   "news": [
     {
@@ -29,6 +29,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TVFRjOTVqWmVCSFFXbFlUZUEwWEppd1lERGg4bm9nUS1BRWwwU29Hc0ttNDdOV0pfQVZTbkVUaWx3bVZ0RjUyc1Axc01QUGpqU2hSZl9OaGZuYnhw?oc=5",
       "s": "뉴스핌",
       "d": "2026-10-15T17:40:00+00:00"
+    },
+    {
+      "t": "[미국 특징주] 상반기 호황 끝났나… 금리·AI 변동성에 흔들린 월가 투자은행 부문",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTGxNSUl6UkZDVkFmT0loYllqUFNRQlVjVllmSjFDZ1dsejl3R08zYXNLbGQyRkpwTl9jZDZLYk0wMWNSMXNTTXhVZ3FETzZDLWRvRFN3T0JQZDZK?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-15T17:34:00+00:00"
+    },
+    {
+      "t": "\"20년간 딱 두 번 있었다\"…코스피 급락에 나온 섬뜩한 진단",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EZmRyNVVVM2dRdFFKTHozbU9kNDRmaVktMEtrbVJoSEFaVkthemE0UWhZWEZoNUpYSThmU05hZUFieUc2X1UwaHM1Uzlxd1JUelk2Tnk5cGl6Zw?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-15T17:26:00+00:00"
     },
     {
       "t": "美 9월 생산자물가 1.3% 급등…무게 실리는 Fed 금리 인상",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2UtN19nQlh2dW9wNGZKOEhhRnNFczI5WV80bkVGbFFOQ2ZNSHZ2WUdqSnpKRTZqWlhkeWZybVY4aFRtZ004dnE1MmdxXzBVYUVqMFRTWUxSU0xmNFV0OVlzZ2xGYUMwNmFzXzBMRmNXNmxEMmJMYkxNdzZHT3BINQ?oc=5",
       "s": "조선일보",
       "d": "2026-10-15T15:35:00+00:00"
-    },
-    {
-      "t": "환율의 습격… 車·조선 등 제조업 ‘어닝 쇼크’ 공포",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFVyYW1xM2R3bXJZcC1UY2h4OXZSbnVSYmI0cWdiWVBQdHZFMlNnbGlYLXZtcHRGSlF0eW5RZS02a3lqdGNqLVMyY1VUMUpkVW45YnFvMWpFUzZ5a3dNLU9pUTA3ZGZnRnYyN1JxN1NIaFNXQi16amxVX2tjRjJWYU1PcG9BRGdpVWxkdUF0Zw?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-15T15:31:00+00:00"
-    },
-    {
-      "t": "[아파트 미리보기]‘반도체 벨트’ 동탄에 1808채 단지 분양",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MU2h0NXBMRFJFUnU1WTR2TUJwQXh4Vkd4c1RsTTBMRlctTG9vekxoWTlfb0ZPeWU3N1poU3RQM2l1Yi1DQk0zNW5vc2s2X19VaDZaQnJVQ1luNEJPb0NPX04zUzJ0dFdoWGlGa0gxNTFjTW9yVnfSAWZBVV95cUxOaVBFc2Q4bmd3bG5aeldVbkZFVl80NVp3aXRtMDFXV2JyV1RWalhUY0ZsQWoxV1ZFbTVWU3Zrb2l0OGM1TGRhX2FMNlhiUFZrdTNxZ2Zyel9lbW5sQXJtcEdpR0tpYmc?oc=5",
-      "s": "동아일보",
-      "d": "2026-10-15T15:30:00+00:00"
     }
   ],
   "asof": {},
