@@ -1,34 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-15T17:30:23+00:00",
-  "quotesAt": "2026-10-15T17:30:23+00:00",
-  "newsAt": "2026-10-15T17:30:23+00:00",
+  "fetchedAt": "2026-10-15T17:45:26+00:00",
+  "quotesAt": "2026-10-15T17:45:26+00:00",
+  "newsAt": "2026-10-15T17:45:26+00:00",
   "quotes": {
     "kospi": 5554.22,
-    "spx": 7729.83,
+    "spx": 7741.67,
     "nikkei": 64425.95,
-    "vix": 16.79,
-    "krw": 1342.15,
-    "gold": 4172.6,
-    "wti": 96.4,
-    "dxy": 102.07
+    "vix": 16.77,
+    "krw": 1341.98,
+    "gold": 4171.1,
+    "wti": 96.54,
+    "dxy": 102.05
   },
   "daily": {
-    "spx": -0.97,
+    "spx": -0.82,
     "kospi": -7.97,
     "nikkei": -4.9,
-    "krw": 0.14,
-    "dxy": -0.47,
-    "gold": 1.58,
-    "wti": 1.38,
-    "vix": -0.47
+    "krw": 0.12,
+    "dxy": -0.49,
+    "gold": 1.54,
+    "wti": 1.52,
+    "vix": -0.59
   },
   "news": [
     {
-      "t": "\"20년간 딱 두 번 있었다\"…코스피 급락에 나온 섬뜩한 진단",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EZmRyNVVVM2dRdFFKTHozbU9kNDRmaVktMEtrbVJoSEFaVkthemE0UWhZWEZoNUpYSThmU05hZUFieUc2X1UwaHM1Uzlxd1JUelk2Tnk5cGl6Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-15T17:26:00+00:00"
+      "t": "유럽증시, 헬스케어 강세가 테크주 하락 만회하며 대체로 상승… 에릭슨 6.8% 급등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TVFRjOTVqWmVCSFFXbFlUZUEwWEppd1lERGg4bm9nUS1BRWwwU29Hc0ttNDdOV0pfQVZTbkVUaWx3bVZ0RjUyc1Axc01QUGpqU2hSZl9OaGZuYnhw?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-15T17:40:00+00:00"
     },
     {
       "t": "美 9월 생산자물가 1.3% 급등…무게 실리는 Fed 금리 인상",
