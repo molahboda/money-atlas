@@ -1,7 +1,7 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T13:30:58+00:00",
-  "quotesAt": "2026-10-17T13:30:58+00:00",
+  "fetchedAt": "2026-10-17T13:45:58+00:00",
+  "quotesAt": "2026-10-17T13:45:58+00:00",
   "newsAt": "2026-10-17T13:00:59+00:00",
   "quotes": {
     "kospi": 5668.05,
