@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T23:30:53+00:00",
-  "quotesAt": "2026-10-17T23:30:53+00:00",
-  "newsAt": "2026-10-17T23:30:53+00:00",
+  "fetchedAt": "2026-10-17T23:45:53+00:00",
+  "quotesAt": "2026-10-17T23:45:53+00:00",
+  "newsAt": "2026-10-17T23:45:53+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "10월 막바지 회사채 발행 분주…NH證·롯데렌탈 수요예측",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlRlZzc0RYem9uWm55TWVkOFFhZnY3ckpkNWFZa2tWbUg5WlIyWERueVZmdFZxZGF4LXFNaGZYN09RSE5ROGVnQnVqdHdVYnYtcnlfWFdFZFRZNkJCdWdkdUpBTnloLUVPdUhnSi1BMkM2a00?oc=5",
+      "s": "마켓인",
+      "d": "2026-10-17T23:30:06+00:00"
+    },
+    {
+      "t": "[박근종 칼럼] 과열에 편승하고 공포에 무기력한 증시, 원칙 훼손이 부른 참사이자 혹독한 대가",
+      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GVzVpWE1FRTdCZVBlUlZYSTRqcVA4eUVfVkdkLVo4RjEzYmxDNGtDSV8zU2I4bWxVd1FaUDZwLTdvVHpfV0FmQm5lMFo?oc=5",
+      "s": "시사일보",
+      "d": "2026-10-17T23:21:00+00:00"
+    },
+    {
       "t": "증시 패닉 속 비트코인은 버텼다…\"반도체株 집중 매도에 영향 제한\"",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMWY2anhLQjBtaGRKdERPdGhJZjFCWVVsMldLNnZObEZXanlBWU9zWWhYSy1VMldfUU1EY0cycFh6UERrMzdKMnNLLXA0ekh5dTdNazJIY2xIZTVHeGhVUkxFeGlkQQ?oc=5",
       "s": "뉴스1",
@@ -41,6 +53,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVlFERF9jQkkxenBLUmdzanFYdEl3RWxfcVhLRTdBUU5SdTRsYVdzVlRhT2lMNS1rWEMwVFFQLTFEXy1JMXd2UFp5MXlVYm9fTkNLU0QwNVVJUnc5aGlDVFRIT2Npek5ONmg4bQ?oc=5",
       "s": "알티케이뉴스",
       "d": "2026-10-17T23:14:35+00:00"
+    },
+    {
+      "t": "[증시전망] 폭락 딛고 반등 나설까...美 빅테크 실적 주목",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YdklhREVFQU5hYlpMd04yTWdZMTNKdVVJOHFBVDdVM1ZLZjR3R2NXRmMzeS1GMWZsaUFQRWY4Y0pTS1ZxUk5nVDFjU05qM2dUZVFicENqMDAxOURMWHdEWFBpNWdqMzRabzl6SS1xVG1zTjA?oc=5",
+      "s": "디지털투데이",
+      "d": "2026-10-17T23:14:00+00:00"
     },
     {
       "t": "'반도체 쏠림' 부메랑⋯국민연금, 3분기 보유주식 182조 증발",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzcWptbVQwUlZBaHdyV25UMjZ5dXY0WXhkN3JjZEdNS2tpdFotVDRJaEZsNl9ydUR2R2NYUXJWOVpETUhMeTMzOXR4MkREMVZ2MnFYWEl4aWp3ZHdMX2RPRlpXVzk?oc=5",
       "s": "서울경제TV",
       "d": "2026-10-17T23:00:05+00:00"
-    },
-    {
-      "t": "1540원대서 1330원대로…환율, ‘원화 강세’ 흐름 굳히나",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14akRvNFhqTHVrbksxNEQtWDRFQUR5dWxPNGNtZFFFVm81TWFweUlBZ3h0eXlwU19zZjliQzJQenJqcFBJYnNhd0JUQmMtMDZCek5tSDYxMVFWd1hadmVoQmJHZUk?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-17T23:00:04+00:00"
-    },
-    {
-      "t": "\"파업에 환율까지 발목\"...현대차에 '엄정(?)'해진 현대차증권",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaEhkVFJkNndpMUg3aDEyZkE4OGp3RXp1Wm4wSENEQUIwQTd3VVdWWUFxTXpzTGJ5NFNLNWhkbVl6RGJUeGVLSDcyQ21SMzh1Vkl3OW56MWtaQzZlamVYU3hwbC1ZYjQ?oc=5",
-      "s": "청년일보",
-      "d": "2026-10-17T23:00:01+00:00"
-    },
-    {
-      "t": "증시 불안에 새내기株 '허니문 효과'도 실종…8곳 중 7곳 내렸다",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSLVd5VEhwQkRHWjE1MTlWREtITHZ4akRXY1VTeVJzY3NGLWJUeHROSmJfZ1g5U1FiTW9HSmQ0QmZVQTNYc0kzbUhybk9zelpzY0tEX1FGbzRMRTliSnliSNIBeEFVX3lxTE5CYTI4UFpYLWQ3Z0h4RnhnLTBEQmc4Nl8wTWRsbWdxaFFmalM3dkFGbFAwM0N3b2NTUjl6Qks3SkxRclJzQWduMFVkTHZFYmJ0dlkyVDNmbTRIQnkyVE1uRmN1VHdEN2RwNXJUeTMtbVdfSXNXTzhtag?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-17T23:00:00+00:00"
     }
   ],
   "asof": {},
