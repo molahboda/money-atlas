@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T22:45:53+00:00",
-  "quotesAt": "2026-10-17T22:45:53+00:00",
-  "newsAt": "2026-10-17T22:45:53+00:00",
+  "fetchedAt": "2026-10-17T23:00:54+00:00",
+  "quotesAt": "2026-10-17T23:00:54+00:00",
+  "newsAt": "2026-10-17T23:00:54+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 21.45
   },
   "news": [
+    {
+      "t": "연 4%대 예금금리 확산 코픽스 상승 압력… 주담대 이자 부담 커졌다",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUNRVDFTZm0tNFc5dHN3SU1OTDgxd1ljTUpxM2ROYVRpN3puTE9sOElBa3Exa1RvOWxtdm9naUVSNnltMC1LRk40NFJyd1BQd3VXdnBaRklnOFhaUFpLQzY0LVpoZWFWWGZTVHBDV3dJLUw4VU9FZGNBbk1mVmYzaURQSEo?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-17T22:35:45+00:00"
+    },
     {
       "t": "유승민 “증시 붕괴는 이재명 정부 책임…특검해야”",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByOXdGSDBoVm5Rc0I5OW1EbmlRa2JRYTU5MGw3SVB1aWduS0FUUkl5SmFMYm1GX1Zfa0c0eEZOMDdLb0Z5MGZ1WE1PdVplZXB3?oc=5",
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-10-17T22:15:00+00:00"
     },
     {
+      "t": "트럼프, ‘유가 공포’에 러시아 제재도 면제…‘피에 굶주린 깡패 편’ 비난 확산",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsRlA0S3FKdDBoQTR6cTQ4R3RGR2JKR1hRWXhNMy1ZcEJRd1ZIUmJHMy1ZZXByckt1bEk5MTM2cFhSVUlwR3hKb3dNZmVPX0R1eGE2ZmdZUkNuWU14U1BmRF8tUWR0QWJmSlE1UNIBbEFVX3lxTFBsRlA0S3FKdDBoQTR6cTQ4R3RGR2JKR1hRWXhNMy1ZcEJRd1ZIUmJHMy1ZZXByckt1bEk5MTM2cFhSVUlwR3hKb3dNZmVPX0R1eGE2ZmdZUkNuWU14U1BmRF8tUWR0QWJmSlE1UA?oc=5",
+      "s": "국민일보",
+      "d": "2026-10-17T22:14:00+00:00"
+    },
+    {
       "t": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-10월 3주]",
       "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93bG9vT1RpUk9GbjEzdFdsc0NISU9VWlFjR0NmejVhcnkxM0pHRkE4Q2Q0U19mRXI3VmFMTElwLTNEcGh4aEJiNjZWT3J6SlFSZ1RMWWExci1WejZaRDJ3S0tMdDg4TTdWQW9XbXI1b1gzYzk0X19hbXRBRnU?oc=5",
       "s": "한국금융신문",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-10-17T22:09:44+00:00"
     },
     {
-      "t": "[만나보니] 딥엑스 김녹원 \"인텔과 기술협력 본격화…AMD와도 논의\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MSjZNR2h0MWFDWXlEcUNXSUZnVkhEeVpUdzI2SGRZR05WNDhONWoxT1BRYkJJbGdGb0NJOUk0aFQ2YXFuMGo1VU9DSjY3TmNLN2c?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-17T22:00:09+00:00"
-    },
-    {
-      "t": "[인터뷰] 최진영 미래운용 본부장 \"우량채로 이자수익 확보할 때\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcHp4Wm9Ec0t3cWk0aElZamJSOEZlMXVQYS1LeUpWaVZKU21KcnVDdDNOTGlOdjVmdGN0OG9GeUNCOEVxY3c3czVWYW9XSXVVcGc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-17T22:00:07+00:00"
-    },
-    {
-      "t": "[뉴욕증시-주간전망] 흔들리는 AI 투심, 어디로 가야하오",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10bXNXMDV1Rzd6eTRSUkV0bWVhaTc4S0hxTWlkMVpfUTNWRGMtT3lTSFZzanFINFp2SFVKT3NHTGZuRFVmVmszQ2NiUkZTTEhwSkYtRV85VTM5YWPSAWBBVV95cUxQUW5oel9ya29TUTB2SUZPYllRSkVDejNfQlgzbWFER2prUU5PdmJhNVIteVE2bllZRjM2MzNidVNkdFNjRmZDNUxrR0k0VnBleG5BazR3ZW92ZldDMFpqUHo?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-17T22:00:01+00:00"
+      "t": "24개월 최고 연 3.97%…제주은행 'J정기예금(만기지급식)' [이주의 은행 예금금리-10월 3주]",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZkZ5LUNIS0RnQm9IYndpVE02dnBSdzgwMEg1UXhXYUhwNWtDa0ZiUWxQLVVkd0dKb2d0OVRzTjJHc3NYU0EtLS1OWVZ6QVBKYkhvczlxeWVrRExmMm9vbVFnOWh5dnlXTlBZTnpFX21vaTRsVGFvck95eWM?oc=5",
+      "s": "한국금융신문",
+      "d": "2026-10-17T22:05:00+00:00"
     }
   ],
   "asof": {},
