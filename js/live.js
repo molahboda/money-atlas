@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T06:15:52+00:00",
-  "quotesAt": "2026-10-17T06:15:52+00:00",
-  "newsAt": "2026-10-17T06:15:52+00:00",
+  "fetchedAt": "2026-10-17T06:30:52+00:00",
+  "quotesAt": "2026-10-17T06:30:52+00:00",
+  "newsAt": "2026-10-17T06:30:52+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": 21.45
   },
   "news": [
+    {
+      "t": "트럼프 관세 부메랑…미 올해 재정적자 2조 달러 육박",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKZXhBRjgybVRlM2RjZm9YaEVVbFdic0t2TTdkYWtMd2ZZSE9tQjJNOEVGRXdLcVdNM0t2eHJ0R0hUTDYwMWxqOTA3MktQTzNNRF9Kb0gxM1laaWF0bThhSmdyUndaQjBSUm50dw?oc=5",
+      "s": "세상을 바꾸는 시민언론 민들레",
+      "d": "2026-10-17T06:20:00+00:00"
+    },
+    {
+      "t": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YNVF2aTRRRF9zTS15cndOckJyc0Zsc0RQVEtOd2QxQ2pqQ1E1S3lFSWdFcHM3ZmNtb2NFMWwxSWhIeEVGRGoyaHNlWmpfeFZoY2sxNXRBNlY5aVVROFNSRWszTi1RU2JteGc?oc=5",
+      "s": "AI타임스",
+      "d": "2026-10-17T06:17:31+00:00"
+    },
+    {
+      "t": "“주식계좌 보고 흐뭇하면 1번”…‘상전벽해 경제’에 與 ‘노심초사’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CVlBHNUFxTlZvZTBLYjR5UmhnUEFFLTZOUVRpc1pMVW9zcXl3MTNTaEV3TkhMOWNOU0ppYkpGellmNEJBeEUySmtJWS1MT1lpc05JRVdwb2UtWGxQMV9GY0o0ZzlQdjdOQmlpdXhhONIBc0FVX3lxTE9ycGxtM1J2a2tGVElvUGdXNGJ0OHN6MVV0NlNMb1p3a09BemQ2SVJ0TFBnM1dOVE9yM21nZVVHeWctdi1LM3dwS09HUWdlUjZOWkVNdzVpN19yOWRBaDdEVXh1TjFQSENGaXVlckwwY29pQzQ?oc=5",
+      "s": "시사저널",
+      "d": "2026-10-17T06:12:03+00:00"
+    },
     {
       "t": "올해 3%대 성장하지만 4년 뒤 역성장? ‘반도체 호황’에 취할 때 아니다",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dWl4bFR2RUs3czJOaFBveW5XRDhpOTlIVUdrdGtJTE1KbGRXOVlrcFlzNC1Td1NaYS1LU1cxNjN6WTZ0MGxPcGJkQkdycExUclg1TjZHLUl3NG5YOUVETEh0bGhKX3YwdWRqSDVB?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlCVkZnQlZiZlBnMkljVEllWGJTbEN6RU01cS1saVNrMTAyejhPdEw0eU5CZy1ZaGVlLVhVby00T09SR05adFZmMmRKMmFUb3FmOU1OUkxMZXV0OXBTN0kyVS01OGZSM21MSml1NWZwd1RQakZTcmZ6ZEV2WTZ5c2FqUGVTVDlY?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-10-17T04:45:47+00:00"
-    },
-    {
-      "t": "트럼프, ’그레이엄법’ 대러제재·고율관세 면제 발표",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JUkd3LUxqWFFaclN1NnREVEdSSXVVLWcxUURIVnlFZDduV1JiV0pEeDRTd3p4UkhqMGFWMGZNWHFzbGJTWTV5Qm84T0JvSHpzWTFrY29DcGZETk9YWHdnNnVRWl9vdms?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-17T04:19:00+00:00"
-    },
-    {
-      "t": "트럼프, 러시아산 에너지 구매국 고율 관세 면제… 중간선거 앞두고 유가 안정 총력 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2FvVUZxSEw3UjdlTG1td1VJMFdZQld3M1VjZXV4b21pdkdjWkxROUpjelluUmpKQ3lHa2ZBaTdUODlzSWpVV3FodnlKc1hvdEdDVHhNcmtLYmFCMndJU2Q4aEpVS1g1ekg2aUZPb2NjenRCOFFrb1g2X0Q3MkpzaFMxMkxua0xKdlA0M2phTklzbXBxVW5FZHJpWXpBZ9IBsgFBVV95cUxPNnRnWEVQaEIwbEtFcGRNMjRVa3JhTHBkdkpndFpMMFZHRUI4bFVlSHI5VXJvQVRXV3pTYXZSWW1SWnRBeUdvclpBWUJBS2d0U3pKNF95ek9uWVVkUUc1RmlNT2poUXJpcHdYYl9NVnJjRml1WEZ2Rzl6SkRWaTdUMjZlclp3VnVHQnBLMnV6dTBLaUxwNWw0clBtdndCSFpiR1RVOU1QVk1wTXBITDZWV3p3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-17T04:17:00+00:00"
-    },
-    {
-      "t": "트럼프표 관세 비껴간 미국 물가 급등… 인공지능 건설 붐이 철강값 띄웠다",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxrTVBrMWg3cTFRZW9lTzdnQ3ZCSUliajFEOUsyU2pmR1NvMk1aSTVGMzdFa1FBWFlwNmRvd2FYWk1qVU1pbFViNWxSSGpWc1lrTDY2aFBBTklXNFlvU1RBeHlWNkVpcmpNVFVvbG00M1V3MWNaRW94RU5qUlZQSFotLU9Db1Jw?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-17T04:14:18+00:00"
     }
   ],
   "asof": {},
