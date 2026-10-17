@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T22:15:53+00:00",
-  "quotesAt": "2026-10-17T22:15:53+00:00",
-  "newsAt": "2026-10-17T22:15:53+00:00",
+  "fetchedAt": "2026-10-17T22:30:53+00:00",
+  "quotesAt": "2026-10-17T22:30:53+00:00",
+  "newsAt": "2026-10-17T22:30:53+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -25,15 +25,39 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "24개월 최고 연 3.97%…제주은행 'J정기예금(만기지급식)' [이주의 은행 예금금리-10월 3주]",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZkZ5LUNIS0RnQm9IYndpVE02dnBSdzgwMEg1UXhXYUhwNWtDa0ZiUWxQLVVkd0dKb2d0OVRzTjJHc3NYU0EtLS1OWVZ6QVBKYkhvczlxeWVrRExmMm9vbVFnOWh5dnlXTlBZTnpFX21vaTRsVGFvck95eWM?oc=5",
+      "t": "반도체 호황에도 흔들리는 원화…AI發 자금유출이 변수",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSjQ1a0tCNjE0TW9OamtCeXd4MEtJc0o0YXhvV2VJdGZtcmpNWmlnbXNJdnNrZV9fY3RnLUZjaUVBQjdUTUdsRjdNaTViZlBTa0wtMGwxNzRmb3Q3VnBOZ2JURzZxYk5DSDVEejEySWw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-17T22:20:01+00:00"
+    },
+    {
+      "t": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-10월 3주]",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pWUZhcndKdGpiU3htZlVpWGw4M2RiYVRYcUwyN2d2Rlh4bkk1VGVnVUhnRVB3NHZ6TU5fUVFFOEJFeFJZQlV4V1NyN2pLOEJDZkNkS1N3TkV5VzBFcWFscnNUYkc0eG1wcVBiZlJCRGo0Q3BVd2VybTlRVEQ?oc=5",
       "s": "한국금융신문",
-      "d": "2026-10-17T22:05:00+00:00"
+      "d": "2026-10-17T22:15:00+00:00"
+    },
+    {
+      "t": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-10월 3주]",
+      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93bG9vT1RpUk9GbjEzdFdsc0NISU9VWlFjR0NmejVhcnkxM0pHRkE4Q2Q0U19mRXI3VmFMTElwLTNEcGh4aEJiNjZWT3J6SlFSZ1RMWWExci1WejZaRDJ3S0tMdDg4TTdWQW9XbXI1b1gzYzk0X19hbXRBRnU?oc=5",
+      "s": "한국금융신문",
+      "d": "2026-10-17T22:10:00+00:00"
+    },
+    {
+      "t": "“이 와중에 ‘레버리지’ 야수처럼 올라탔다”…돌아온 건 ‘눈물의 -33%’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKR2JsaVp4bmhaSVVhQVpneVR1YTF3OWkxUGVJa3c4NVFHSFhJaG5ZaXZleDYxTjRNLXp2SjVROXg5VTA5RWY3MWpUbzBDR3VYTlE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-17T22:09:44+00:00"
+    },
+    {
+      "t": "[만나보니] 딥엑스 김녹원 \"인텔과 기술협력 본격화…AMD와도 논의\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MSjZNR2h0MWFDWXlEcUNXSUZnVkhEeVpUdzI2SGRZR05WNDhONWoxT1BRYkJJbGdGb0NJOUk0aFQ2YXFuMGo1VU9DSjY3TmNLN2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-17T22:00:09+00:00"
     },
     {
       "t": "[인터뷰] 최진영 미래운용 본부장 \"우량채로 이자수익 확보할 때\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54LVFhNHV3S0Z3dU93VVduTXNoQjhsMkJtZFJxVkFZREdKc3ZuU1BVV29hZGJpbzNBbGIxQUgxeC1UZFloMmJvOUZETE1VNzB0SzdQNWZxQUZlbVXSAWBBVV95cUxPdXJvcnFBSXhrNWg0ZFh3dlVGRS1qMmxsNks0NmRWMTB2ZE41N2ZOenVfeGVZLUpObEtUQTVOaV9ybEpGWjhFLWtyZTVPNFpDbkI0RlBMWnBfVENIYTBPSjc?oc=5",
-      "s": "연합뉴스",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVcHp4Wm9Ec0t3cWk0aElZamJSOEZlMXVQYS1LeUpWaVZKU21KcnVDdDNOTGlOdjVmdGN0OG9GeUNCOEVxY3c3czVWYW9XSXVVcGc?oc=5",
+      "s": "매일경제 마켓",
       "d": "2026-10-17T22:00:07+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mY1N2cThrS3VjWUhfZU0zTVhvX2xnMy1qLXNIUE5DbmFaampmLWlrMS1BN0ViZm02cVJEQ3IxQmtrVVY5ZWp6bXhDcU10aXlsMTN0WThSdGpxLTRMblBMTNIBeEFVX3lxTFBGc2phZHJtNm9tbU82Rjd1YzZlTmZtX1BacVkyZlJ3amM4NXVldC16RWtpVFRqRFE2aXdpOWxnOTQ2S0o1V0IzMnlkTzFpcm1JMU1JMXFGY2F3YWZtM3J4RnlONU02WUo3MDQ5dEpGaHduMk5jU1FIbQ?oc=5",
       "s": "뉴시스",
       "d": "2026-10-17T22:00:00+00:00"
-    },
-    {
-      "t": "12개월 최고 연 4.10%…경남은행 'The든든예금(시즌2)' [이주의 은행 예금금리-10월 3주]",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5RmVCaWVpbFFpSWlfVDBnLWdTTzRQeThzcWFfSlo3ME9fdlZYQzFtT01GdGZsN3p1UEVYSFRhcExuaGNnMFNnYVFKSm5zWl9LRzh6MTY0RndWUWxoODlIQU5TMG0tYm5qblk4TzR5R1VfNUZ5LUFuVUI3a0I?oc=5",
-      "s": "한국금융신문",
-      "d": "2026-10-17T22:00:00+00:00"
-    },
-    {
-      "t": "한은, 금리 인상 열어둘까…국고채 반등 경계 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43YThQTURhZFlzMnl3Q2pRMlhOTGlYcmFLc3BWX2F2SGlOcmFBYnR3T3U3TXF6VjlORDJUN3MzWEtaelFROVRKZzFVbGR6UlBLUHlmMWdjNjV2a2c4aXkwQThQWVo4Z0NtMDVYSnlmd3U?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-17T21:41:00+00:00"
-    },
-    {
-      "t": "'지난주 14.5% 폭락' 코스피, 회복까지 얼마나…과거 사례는",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hMUJja1ZkcFphcEhVZXgzQUJLWlRESG40Z2tLMHpQaVlIWGdabjM4TENvejh3SHhDQ3JaZ1V4YVRmaWVjOEVXaF8wellleHBTOGc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-17T21:30:01+00:00"
-    },
-    {
-      "t": "\"급락장 소나기 일단 피하자\"…'방어형' ETF, 이달 순설정액 '쑥'",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdVl1bkRKSjV5UmZxZmJTTGxKUkhFNEZKREsxNU1zTnZKaWE0SHlMOFhEOWVWRzRLTThGUHJIUmFrT193OUw5TjZiU3BTREN2c2o2ZTRQUlI4VzTSAWBBVV95cUxPWWVRT2t0cUJ2RS1sb28yaVZhWkRSUG9JbmNWRFVqMzFXbDNzczB1MkVUR2w1ZnhxaGR6eUJjY2VoVHh3M0VwaEtKQ2VleU9BY3JwZmo2b2lOajA2a2pzclY?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-17T21:15:02+00:00"
     }
   ],
   "asof": {},
