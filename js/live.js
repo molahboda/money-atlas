@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T03:31:01+00:00",
-  "quotesAt": "2026-10-17T03:31:01+00:00",
+  "fetchedAt": "2026-10-17T03:46:00+00:00",
+  "quotesAt": "2026-10-17T03:46:00+00:00",
   "newsAt": "2026-10-16T05:45:33+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
     "nikkei": 65324.29,
     "vix": 19.99,
-    "krw": 1334.2,
+    "krw": 1329.6,
     "gold": 4186.7,
     "wti": 99.04,
     "dxy": 101.78
@@ -17,7 +17,7 @@ window.LIVE_DATA = {
     "spx": -0.77,
     "kospi": -5.67,
     "nikkei": 1.39,
-    "krw": -0.38,
+    "krw": -0.73,
     "dxy": -0.22,
     "gold": 0.4,
     "wti": 1.09,
