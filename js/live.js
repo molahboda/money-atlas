@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T06:00:57+00:00",
-  "quotesAt": "2026-10-17T06:00:57+00:00",
-  "newsAt": "2026-10-16T05:45:33+00:00",
+  "fetchedAt": "2026-10-17T06:15:52+00:00",
+  "quotesAt": "2026-10-17T06:15:52+00:00",
+  "newsAt": "2026-10-17T06:15:52+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "유럽증시, 헬스케어 강세가 테크주 하락 만회하며 대체로 상승… 에릭슨 6.8% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TVFRjOTVqWmVCSFFXbFlUZUEwWEppd1lERGg4bm9nUS1BRWwwU29Hc0ttNDdOV0pfQVZTbkVUaWx3bVZ0RjUyc1Axc01QUGpqU2hSZl9OaGZuYnhw?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-15T17:40:00+00:00"
+      "t": "올해 3%대 성장하지만 4년 뒤 역성장? ‘반도체 호황’에 취할 때 아니다",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dWl4bFR2RUs3czJOaFBveW5XRDhpOTlIVUdrdGtJTE1KbGRXOVlrcFlzNC1Td1NaYS1LU1cxNjN6WTZ0MGxPcGJkQkdycExUclg1TjZHLUl3NG5YOUVETEh0bGhKX3YwdWRqSDVB?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-10-17T06:04:07+00:00"
     },
     {
-      "t": "[미국 특징주] 상반기 호황 끝났나… 금리·AI 변동성에 흔들린 월가 투자은행 부문",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTGxNSUl6UkZDVkFmT0loYllqUFNRQlVjVllmSjFDZ1dsejl3R08zYXNLbGQyRkpwTl9jZDZLYk0wMWNSMXNTTXhVZ3FETzZDLWRvRFN3T0JQZDZK?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-15T17:34:00+00:00"
+      "t": "ETRI, 반도체·자동화 등 딥테크 사업화 나선다… 20일 ‘제2회 밋업 데이’ 개최",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZR3pnckduYnRROE81ZkV5THZQN25Pc1RYZ25zU2htX3Y0al9vZExGNXdWSVJMQlZDVnJ0cWlTUllZbUlyTkpBem53WWl0bDM5NHNBMzZHdE1aQnlTbE5JSWlTYlBZZw?oc=5",
+      "s": "기계신문",
+      "d": "2026-10-17T05:49:12+00:00"
     },
     {
-      "t": "\"20년간 딱 두 번 있었다\"…코스피 급락에 나온 섬뜩한 진단",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EZmRyNVVVM2dRdFFKTHozbU9kNDRmaVktMEtrbVJoSEFaVkthemE0UWhZWEZoNUpYSThmU05hZUFieUc2X1UwaHM1Uzlxd1JUelk2Tnk5cGl6Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-15T17:26:00+00:00"
+      "t": "트럼프, 대러 고율관세 시행 앞두고 면제…러시아산 경유 공급에 무게",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0YXJNQ1VMQ25QWjdJaDZqeVFqbm1VYkMtQzgzbk0waXhtd2RoUDRaaktWODhoOEdqa1JmbXNPVVlpVFVGZGlMOWIwR0swRzgycU9JTTdIbUdUZw?oc=5",
+      "s": "경북매일",
+      "d": "2026-10-17T05:21:00+00:00"
     },
     {
-      "t": "美 9월 생산자물가 1.3% 급등…무게 실리는 Fed 금리 인상",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00ZUF4cWRhaGhVYkc1VU1yQjVpV2FMVHRqOEVod0ZjaUQ0cktPMkNfU0gwdG9rUjcwYWFRZUJpN25RaHZ2TzZlYUw0dmhyZ1lqTGpKeFdUazczUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-15T16:32:00+00:00"
-    },
-    {
-      "t": "[사설] 추락하는 증시, 반도체 호황 이후 준비돼 있나",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHhtYXpLTGNXeTB0MWZESlFwTEFqcGlWLXhFd01vMUJ1OTZZZ3VEQW8zRV8tbVVvLWF2NTRGMERsYVpyRkdjb09XSVk3RDE0bTlHMFZqektlR3RJdTJQaXBlWW9qMExkeklWTi15UmdNSTk0TWdOMEprUmxIRTY4N1dBV19fbjR6alE3NVAxWjJKWUcyS1E?oc=5",
-      "s": "국민일보",
-      "d": "2026-10-15T16:12:00+00:00"
-    },
-    {
-      "t": "코스피·코스닥, 살 떨린 폭락장",
-      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xalA5UXVEd2tZbFFlbjM1NzMxRjhnYUNFbURfRkp3QUFhVTgyTmlMLWtUUUV5dFBBVEhoUzI4QkZBZkZ6eGFpSG9HMGtROUVUYnJpb0Zld25QaFpOeGcwOUhueWpXSmFoUTlYbGJGZVA3TmF1RHVtZF9vbDhDZw?oc=5",
-      "s": "서울신문",
-      "d": "2026-10-15T16:00:06+00:00"
-    },
-    {
-      "t": "美 물가 급등에도 금값 1%대 반등…AI 주식 급락에 안전자산 선호",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMU5qMlQ4MjkwR2N1Nll4dWRtLU9fZnpuMHRabDJKLWx0U2J0SDNObmladmJyRTFuRjJfSGNTT3BrS0RzYjlXdFFhdG5GenU2clVDMElWSUc2Z1ZrdkJOVDN2djBLaFVFcFc1bzcxRXFicDRoWE5iUDlqSXNXbUN5RVBqOE1SbVBo?oc=5",
+      "t": "중국의 15W 극자외선 장비 시제품 공개, 한국 반도체의 기술 우위는 흔들리지 않는다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEJqZHJFNXdGeHY4aVFCcUxBcUlra2ZaVWlvZklteXpMSDZJN0M4ZXQ5eWpFTlZWLUo2V0g1SWdCQWdGRkxkWEFVYTY2QmhVSnc5WURINU9wTHM5Ym85czFlb0pqRUdlNkh1X2hLVHg0cThuV194LS15YXVHYUtWc1dxd1FIUVE1?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-10-15T16:00:00+00:00"
+      "d": "2026-10-17T05:14:41+00:00"
     },
     {
-      "t": "코스피 7.5% 폭락… 불안한 ‘반도체 코리아’",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEpRLWxlRW5hVV9YNURmRUEwTzg3dVhNRW9LWkY5MHhtdVZNb1VhT2p2RjIxU0hDMnktYXdBRWUxSnFIdmlmam1TWE5DdzRWZHRTZFZfSUQzSlZHb3huN2lWa0FjTXlPODg5SzVxUHpZWk1haXlxUy1vbXFHRHlHZXUxWWRPbXFPb3FEMWt3?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-15T15:43:00+00:00"
+      "t": "반도체 용수 관로 27㎞ 통과…광주시, 상생 협력 촉구",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41dW8xRzBHVXhwdnpCZ2dPZlhTczRHZTVsMDZzbE4zdlhkdHYxNnIzNEpPd3ZvS1NEZlBrX1lyWkNQa1NYS3BZaHZUeEJVd3MtQ1ltYk44bmktZEpYTXF4aTh6cnJpZHM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-17T05:05:00+00:00"
     },
     {
-      "t": "“빅테크, AI 투자금 반도 못 건져”… ‘투자 절벽’ 오면 반도체 치명상",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0JFa180QVUySi1CMHJwczA4Qk9WU1RTVWRMZ0ZPcnRQWGdVUnNsVzRIc1VTVkZGNTIxb1Bramh4Mmh0T0d2eW1rYlNvUDBFXzBmVjNYeXpGZ19qbUNBdnIwM1pBMlpzNlN3UmJXZjd3YWpGNnZXUm1QTHRWMHVfMVZ6dU9neWdOTExB?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-15T15:42:00+00:00"
+      "t": "美 물가 3.7% 급등…고유가·AI 투자에 금리 인상 효과 제한",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbDdjN2JCaUVWVHI2TW5ZWFQ1a3pmTXlUc0ZZYjJ1M0Y3bTBTLTZiWUEyTlpqLW00OEJnYkM1OTExUGNmU1JtMDBSX092RzVQVkZ3Vm5GMTl1UEFOUGJ2R2ZLUHJOdS1NRFdrcg?oc=5",
+      "s": "스페셜경제",
+      "d": "2026-10-17T04:51:04+00:00"
     },
     {
-      "t": "삼전닉스에 ‘발목’… 주요 반도체 ETF 수익률 줄줄이 하위권",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2UtN19nQlh2dW9wNGZKOEhhRnNFczI5WV80bkVGbFFOQ2ZNSHZ2WUdqSnpKRTZqWlhkeWZybVY4aFRtZ004dnE1MmdxXzBVYUVqMFRTWUxSU0xmNFV0OVlzZ2xGYUMwNmFzXzBMRmNXNmxEMmJMYkxNdzZHT3BINQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-15T15:35:00+00:00"
+      "t": "中 환구시보, 창신메모리 띄우며 韓 반도체 때리기… 머스크 발언 얹어 여론전 나섰다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlCVkZnQlZiZlBnMkljVEllWGJTbEN6RU01cS1saVNrMTAyejhPdEw0eU5CZy1ZaGVlLVhVby00T09SR05adFZmMmRKMmFUb3FmOU1OUkxMZXV0OXBTN0kyVS01OGZSM21MSml1NWZwd1RQakZTcmZ6ZEV2WTZ5c2FqUGVTVDlY?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-17T04:45:47+00:00"
+    },
+    {
+      "t": "트럼프, ’그레이엄법’ 대러제재·고율관세 면제 발표",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JUkd3LUxqWFFaclN1NnREVEdSSXVVLWcxUURIVnlFZDduV1JiV0pEeDRTd3p4UkhqMGFWMGZNWHFzbGJTWTV5Qm84T0JvSHpzWTFrY29DcGZETk9YWHdnNnVRWl9vdms?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-17T04:19:00+00:00"
+    },
+    {
+      "t": "트럼프, 러시아산 에너지 구매국 고율 관세 면제… 중간선거 앞두고 유가 안정 총력 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2FvVUZxSEw3UjdlTG1td1VJMFdZQld3M1VjZXV4b21pdkdjWkxROUpjelluUmpKQ3lHa2ZBaTdUODlzSWpVV3FodnlKc1hvdEdDVHhNcmtLYmFCMndJU2Q4aEpVS1g1ekg2aUZPb2NjenRCOFFrb1g2X0Q3MkpzaFMxMkxua0xKdlA0M2phTklzbXBxVW5FZHJpWXpBZ9IBsgFBVV95cUxPNnRnWEVQaEIwbEtFcGRNMjRVa3JhTHBkdkpndFpMMFZHRUI4bFVlSHI5VXJvQVRXV3pTYXZSWW1SWnRBeUdvclpBWUJBS2d0U3pKNF95ek9uWVVkUUc1RmlNT2poUXJpcHdYYl9NVnJjRml1WEZ2Rzl6SkRWaTdUMjZlclp3VnVHQnBLMnV6dTBLaUxwNWw0clBtdndCSFpiR1RVOU1QVk1wTXBITDZWV3p3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-17T04:17:00+00:00"
+    },
+    {
+      "t": "트럼프표 관세 비껴간 미국 물가 급등… 인공지능 건설 붐이 철강값 띄웠다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxrTVBrMWg3cTFRZW9lTzdnQ3ZCSUliajFEOUsyU2pmR1NvMk1aSTVGMzdFa1FBWFlwNmRvd2FYWk1qVU1pbFViNWxSSGpWc1lrTDY2aFBBTklXNFlvU1RBeHlWNkVpcmpNVFVvbG00M1V3MWNaRW94RU5qUlZQSFotLU9Db1Jw?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-17T04:14:18+00:00"
     }
   ],
   "asof": {},
