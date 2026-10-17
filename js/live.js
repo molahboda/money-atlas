@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T22:30:53+00:00",
-  "quotesAt": "2026-10-17T22:30:53+00:00",
-  "newsAt": "2026-10-17T22:30:53+00:00",
+  "fetchedAt": "2026-10-17T22:45:53+00:00",
+  "quotesAt": "2026-10-17T22:45:53+00:00",
+  "newsAt": "2026-10-17T22:45:53+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": 21.45
   },
   "news": [
+    {
+      "t": "유승민 “증시 붕괴는 이재명 정부 책임…특검해야”",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByOXdGSDBoVm5Rc0I5OW1EbmlRa2JRYTU5MGw3SVB1aWduS0FUUkl5SmFMYm1GX1Zfa0c0eEZOMDdLb0Z5MGZ1WE1PdVplZXB3?oc=5",
+      "s": "문화일보",
+      "d": "2026-10-17T22:31:45+00:00"
+    },
+    {
+      "t": "10월 막바지 회사채 발행 분주…NH證·롯데렌탈 수요예측",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uZTdISkFza2hCeEg0cVdfWXR0MVIxMGJHLTVpYVA3U0hHTmk1Si1POEhEN0Y5UTJhRVEtQldzZkp6SUpPZ2Q5YS0zRkNGX3h5STJzcVllbWtGVFRxNWJDNFRJd3UxTTZCYTBabXZVb1FTUQ?oc=5",
+      "s": "마켓인",
+      "d": "2026-10-17T22:30:03+00:00"
+    },
+    {
+      "t": "주가 떨어지는데 웃는 직원들?…반도체 자사주 성과급의 역설",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRalVSMWtsSkR0Z0ZJaTh0N3ExNEUtaDVFQUlMY2Y4NzFEZDFjQms2clZuSFpnMDJoU0puaHdsMGw2eEFLeExlcFIxb3lUOFd1TEd3NVU3dml0ZU5mRVRoUDNaSmo?oc=5",
+      "s": "뉴스1",
+      "d": "2026-10-17T22:30:00+00:00"
+    },
     {
       "t": "반도체 호황에도 흔들리는 원화…AI發 자금유출이 변수",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSjQ1a0tCNjE0TW9OamtCeXd4MEtJc0o0YXhvV2VJdGZtcmpNWmlnbXNJdnNrZV9fY3RnLUZjaUVBQjdUTUdsRjdNaTViZlBTa0wtMGwxNzRmb3Q3VnBOZ2JURzZxYk5DSDVEejEySWw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10bXNXMDV1Rzd6eTRSUkV0bWVhaTc4S0hxTWlkMVpfUTNWRGMtT3lTSFZzanFINFp2SFVKT3NHTGZuRFVmVmszQ2NiUkZTTEhwSkYtRV85VTM5YWPSAWBBVV95cUxQUW5oel9ya29TUTB2SUZPYllRSkVDejNfQlgzbWFER2prUU5PdmJhNVIteVE2bllZRjM2MzNidVNkdFNjRmZDNUxrR0k0VnBleG5BazR3ZW92ZldDMFpqUHo?oc=5",
       "s": "연합뉴스",
       "d": "2026-10-17T22:00:01+00:00"
-    },
-    {
-      "t": "신현송 ‘호미’ 정책 통했나? 선진국 장기금리 뛸 때 한국은 하락",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rUEI5WV9zeUI4d1Q4U2x2QXpIYWxOM043cjN6eUZIR2VBLVQ5U3VFcTJQT1VaUlRkdU9jdWxSY1djRzhDYmg2bjR5RURjUGJhLUNFYTdR?oc=5",
-      "s": "중앙일보",
-      "d": "2026-10-17T22:00:00+00:00"
-    },
-    {
-      "t": "“엔화 떨어질 때 샀는데 또 떨어져”… 당분간 약세 전망 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGpwTzlraURhaHFweUNJdVpTaEdodFpCRDczNWZSSXAzUGdpcjdfM2pTYjFwczR3ZncyY1R4RUZMWi1MazBjN19vQUtuSm5KSV81Q013djhwcnNUTDlVeVMwYTRxU3BieTdOYXlEY2N5S29tekdVQUxsMldaTjhXedIBlAFBVV95cUxOMFpkYTBHNlc0TF9UUE5LZ0pNdE90YlhUTV95bHpHSnRucUtrZkRXLXAzTTZBRDZiYXF0a1JuOTFfVXE1VzBwcGNvejNYYS0yMTNuZUdfRkgwUW9vOGlneng2anQtWVBHTmN5X0RIUDBlOHZKNGVBZjV3MUJxOUlENll1dDZ5cUNkZVg0SFdjZElESlYw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-17T22:00:00+00:00"
-    },
-    {
-      "t": "[주간증시전망]급락 딛고 반등한 코스피, 금주 방향성은…外人 수급·실적이 관건",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mY1N2cThrS3VjWUhfZU0zTVhvX2xnMy1qLXNIUE5DbmFaampmLWlrMS1BN0ViZm02cVJEQ3IxQmtrVVY5ZWp6bXhDcU10aXlsMTN0WThSdGpxLTRMblBMTNIBeEFVX3lxTFBGc2phZHJtNm9tbU82Rjd1YzZlTmZtX1BacVkyZlJ3amM4NXVldC16RWtpVFRqRFE2aXdpOWxnOTQ2S0o1V0IzMnlkTzFpcm1JMU1JMXFGY2F3YWZtM3J4RnlONU02WUo3MDQ5dEpGaHduMk5jU1FIbQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-17T22:00:00+00:00"
     }
   ],
   "asof": {},
