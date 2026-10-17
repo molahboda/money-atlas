@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T23:15:53+00:00",
-  "quotesAt": "2026-10-17T23:15:53+00:00",
-  "newsAt": "2026-10-17T23:15:53+00:00",
+  "fetchedAt": "2026-10-17T23:30:53+00:00",
+  "quotesAt": "2026-10-17T23:30:53+00:00",
+  "newsAt": "2026-10-17T23:30:53+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -24,6 +24,30 @@ window.LIVE_DATA = {
     "vix": 21.45
   },
   "news": [
+    {
+      "t": "증시 패닉 속 비트코인은 버텼다…\"반도체株 집중 매도에 영향 제한\"",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMWY2anhLQjBtaGRKdERPdGhJZjFCWVVsMldLNnZObEZXanlBWU9zWWhYSy1VMldfUU1EY0cycFh6UERrMzdKMnNLLXA0ekh5dTdNazJIY2xIZTVHeGhVUkxFeGlkQQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-10-17T23:19:28+00:00"
+    },
+    {
+      "t": "반도체를 둘러싼 최악의 상황 속에서 주가 회복 키 2가지만 보시면 됩니다.",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMam0tTWhaVk80T0FCQzJITzFCcy05UnZmSmQ4OVJFcUR2V1NKQ1lKMFkzU0cydUpOQTBCTVFkc3JVbllGR09LeUZ3bWV3UmVMLUgxMzUyb3pPZzlOdjQwcXJJRC1OTUJIc2gtZU0xRXbSAXRBVV95cUxOSkVHV0pKdTYxTFdnd01ZQnVZNlVyalJHUUFUbXZEbVljXzNjSzBmY2NYMGJIakVkalFsYVc3WGRpdm1zUU5neHRVZjhHaVgtblFlam9DNkhJTDgyZ0FQdkItQmZuWHEzYTMzZ2ZrUHphSGp3dg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-17T23:18:33+00:00"
+    },
+    {
+      "t": "[2026 국감] 반도체 공장 피폭사고 2년…수사 결론 '제자리'",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVlFERF9jQkkxenBLUmdzanFYdEl3RWxfcVhLRTdBUU5SdTRsYVdzVlRhT2lMNS1rWEMwVFFQLTFEXy1JMXd2UFp5MXlVYm9fTkNLU0QwNVVJUnc5aGlDVFRIT2Npek5ONmg4bQ?oc=5",
+      "s": "알티케이뉴스",
+      "d": "2026-10-17T23:14:35+00:00"
+    },
+    {
+      "t": "'반도체 쏠림' 부메랑⋯국민연금, 3분기 보유주식 182조 증발",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ObnIxN2tlVHl5c2NJQVlpdFNOYWNxNXh3SXIxNEoyYmtIY1VNNUE0MlBENVVXZjhQcDJVTnM3ZTMwd3FxS0dUNmZDTjlzWjJrUnVITA?oc=5",
+      "s": "이투데이",
+      "d": "2026-10-17T23:12:00+00:00"
+    },
     {
       "t": "원·달러 환율 1331.4원…2년여 만에 최저, 원화 강세 이어질까",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Z1hCdFNUc1A4QTFKNTI0MmQzTnBkYWMxckp0VUJOM1ZtMG1jR3VIbGQ2OFJCdmpXOTVrVmJRTnJ5M012VFpPZjBiajQ4UjJ0bTh3WDFmS1dfc1NzaGtmTGhwUHM2TzhWcmZJbGcwM21Pak51?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSLVd5VEhwQkRHWjE1MTlWREtITHZ4akRXY1VTeVJzY3NGLWJUeHROSmJfZ1g5U1FiTW9HSmQ0QmZVQTNYc0kzbUhybk9zelpzY0tEX1FGbzRMRTliSnliSNIBeEFVX3lxTE5CYTI4UFpYLWQ3Z0h4RnhnLTBEQmc4Nl8wTWRsbWdxaFFmalM3dkFGbFAwM0N3b2NTUjl6Qks3SkxRclJzQWduMFVkTHZFYmJ0dlkyVDNmbTRIQnkyVE1uRmN1VHdEN2RwNXJUeTMtbVdfSXNXTzhtag?oc=5",
       "s": "뉴시스",
       "d": "2026-10-17T23:00:00+00:00"
-    },
-    {
-      "t": "금리 동결, 한국 경제에 숨통 트일까? 전문가들의 11월 전망은",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zM3hyOGw5T1ItQ19VSUpSTFBiMVdXeEYtd0VnRVNYNDlvQ0Nvck44cWgwemM3alppZGROTE1fNTJxWXVmSmNqNEo0bHkwYkhSd2RqM2NfQ08zNDdub0c0dXpZaFAxdno3?oc=5",
-      "s": "공감신문",
-      "d": "2026-10-17T22:59:31+00:00"
-    },
-    {
-      "t": "화성시, SEDEX서 반도체 경쟁력 알려…기업 판로·투자유치 지원",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42NHYtUUVtc1ZDMXJERnVxWVdyWTAtQllsNk9Ub21ZMUFuaVZ1QnlGUXVhYXpqTlJLNkFUdW1jMW1yLURDRm1iMXRyZHhvb1l6TjdGZy1IZFdJXzVQV0Y1Yk1DWjNsMk8wRWFpR0tNSENHS2lVRWUzN2xDeHc?oc=5",
-      "s": "비욘드포스트",
-      "d": "2026-10-17T22:58:55+00:00"
-    },
-    {
-      "t": "트럼프, 유가 급등에 ‘대러 추가 제재’ 취소…정치권 “또 푸틴에 굴복”",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTU1azVtdU9EekVFdG9uN1BSMGJ3QmFzR3JXUERJOFFySUVaRHh1Z0Y4NkNFd3h1MlRPMU9IQU4xN041QmY2S2VzcWNMemFhY0M1NGp0b21vUVN6YlBzb0pmS3FDcDRIeHQxQ3dOVW8yaDN6Yk9heEViMjJJT25LWU1n?oc=5",
-      "s": "한겨레",
-      "d": "2026-10-17T22:53:00+00:00"
-    },
-    {
-      "t": "연 4%대 예금금리 확산 코픽스 상승 압력… 주담대 이자 부담 커졌다",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUNRVDFTZm0tNFc5dHN3SU1OTDgxd1ljTUpxM2ROYVRpN3puTE9sOElBa3Exa1RvOWxtdm9naUVSNnltMC1LRk40NFJyd1BQd3VXdnBaRklnOFhaUFpLQzY0LVpoZWFWWGZTVHBDV3dJLUw4VU9FZGNBbk1mVmYzaURQSEo?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-17T22:35:45+00:00"
     }
   ],
   "asof": {},
