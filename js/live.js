@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-17T23:45:53+00:00",
-  "quotesAt": "2026-10-17T23:45:53+00:00",
-  "newsAt": "2026-10-17T23:45:53+00:00",
+  "fetchedAt": "2026-10-18T00:00:54+00:00",
+  "quotesAt": "2026-10-18T00:00:54+00:00",
+  "newsAt": "2026-10-18T00:00:54+00:00",
   "quotes": {
     "kospi": 5668.05,
     "spx": 7659.44,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 21.45
   },
   "news": [
+    {
+      "t": "호남반도체 '민·관·정' 속도전…야권 견제·지역 난제 변수",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tQkc0OEZycnlMU1hhbmx5NVZxNmpaLTdHNEhBSDBhd0J6V2dLWWw2bkFHdTg3X0Rva0tjU3l1WkRUQkEtVlg5VXZQYmdka3k4S2hkQnc5bUtWLW_SAWBBVV95cUxNU2JrZENKUFZjQ2pKWnpzRmZQZUdVZ0hjZEs0d0xySFNxWEVwN0FtLUo0TEc5UURodHZQakU3TkFpS0dRNmNvM0FGcFF6OVNIT2x3ZWVtel9SVDYzZWptTm8?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-17T23:40:00+00:00"
+    },
+    {
+      "t": "트럼프, 유가 급등에 대러 제재 유예…공화당서도 \"푸틴에 굴복\" 십자포화",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hNGxIMDZTbzRRRV9Oby1xWndBZm9DcC1rN0FpaFAwYThQSXhuNXRLeEpic0J2aGpxTG9ueWFlWVl0ZnJSN05QQnhVWkc5MzVyei1DZkl6M1Zsd1BCbzRWQ3l2QzlJbUZ3?oc=5",
+      "s": "www.ebn.co.kr",
+      "d": "2026-10-17T23:34:43+00:00"
+    },
     {
       "t": "10월 막바지 회사채 발행 분주…NH證·롯데렌탈 수요예측",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlRlZzc0RYem9uWm55TWVkOFFhZnY3ckpkNWFZa2tWbUg5WlIyWERueVZmdFZxZGF4LXFNaGZYN09RSE5ROGVnQnVqdHdVYnYtcnlfWFdFZFRZNkJCdWdkdUpBTnloLUVPdUhnSi1BMkM2a00?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Z1hCdFNUc1A4QTFKNTI0MmQzTnBkYWMxckp0VUJOM1ZtMG1jR3VIbGQ2OFJCdmpXOTVrVmJRTnJ5M012VFpPZjBiajQ4UjJ0bTh3WDFmS1dfc1NzaGtmTGhwUHM2TzhWcmZJbGcwM21Pak51?oc=5",
       "s": "파이낸셜포스트",
       "d": "2026-10-17T23:10:00+00:00"
-    },
-    {
-      "t": "코스피, 급락 후 반등 이어갈까…美 빅테크 실적에 쏠리는 눈 [주간전망]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05ajFpRkJYSzRyTWRXTHlwX1A0VU1wWW1ybjJjdmtpY3BDUjFWeWZ2cUY2Y29PcWFpMy1VRm1pUUQ4bllQdGJSX01yc2xBaTZ6aVMyNU9hSENnUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-17T23:00:07+00:00"
-    },
-    {
-      "t": "‘셀코리아’에 출렁이는 韓 증시…예탁금은 100조 밑돌아",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzcWptbVQwUlZBaHdyV25UMjZ5dXY0WXhkN3JjZEdNS2tpdFotVDRJaEZsNl9ydUR2R2NYUXJWOVpETUhMeTMzOXR4MkREMVZ2MnFYWEl4aWp3ZHdMX2RPRlpXVzk?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-17T23:00:05+00:00"
     }
   ],
   "asof": {},
