@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-19T18:30:36+00:00",
-  "quotesAt": "2026-10-19T18:30:36+00:00",
-  "newsAt": "2026-10-19T06:46:05+00:00",
+  "fetchedAt": "2026-10-19T18:45:29+00:00",
+  "quotesAt": "2026-10-19T18:45:29+00:00",
+  "newsAt": "2026-10-19T18:45:29+00:00",
   "quotes": {
     "kospi": 5768.01,
-    "spx": 7698.42,
+    "spx": 7704.5,
     "nikkei": 64916.7,
-    "vix": 18.24,
-    "krw": 1331.76,
-    "gold": 4167,
-    "wti": 98.83,
-    "dxy": 101.96
+    "vix": 18.39,
+    "krw": 1331.56,
+    "gold": 4163.3,
+    "wti": 98.41,
+    "dxy": 101.99
   },
   "daily": {
-    "spx": -0.59,
+    "spx": -0.51,
     "kospi": 3.85,
     "nikkei": -0.62,
-    "krw": -0.69,
-    "dxy": 0.12,
-    "gold": -0.34,
-    "wti": -0.19,
-    "vix": -8.75
+    "krw": -0.7,
+    "dxy": 0.15,
+    "gold": -0.43,
+    "wti": -0.62,
+    "vix": -8
   },
   "news": [
     {
-      "t": "기후부 지원금 다른 잣대…변전소 되고 발전소 안 되고",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOXY0VmVTTkVOOWNJeFRiQjdqcGkxdmgtQW1ZWkR5bnVFekFEd1BZbGtWeEFMdGZFRDZwZUJVbkFYd0pQV2J1NDVJVUhaeWR1MWJSMXhreV9kZHU1REVvMHBhQzFQS29ZRk1NYWRfOFlzX3VBNXBiNGRwUVNaQ2ZsQ1E4dXZCbEV3dGtieDRR?oc=5",
-      "s": "국제신문",
-      "d": "2026-10-18T10:30:00+00:00"
+      "t": "Metlen 회장, EU가 미국 관세 격차로 전략적 알루미늄 잃고 있다 경고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZk5obE9Nc0JrN1JSYWlyVWlqUVVkdkZiaW1KQ1BkVHFHOTJaZ3djOWczM3c2UjRLd1M3am5sNTdsdFFaUzdIeUwwaEpYZTh2cG0zLWJuSUlOdmVMTVlaMjU2bmpUQUpBSDhpd0xEWi0?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-19T17:40:00+00:00"
     },
     {
-      "t": "공장 대신 연구개발…수원경제자유구역, 반도체 R&D 허브로 승부",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaaTlnQlFmZ3ZndXZpQ0FQRHlQelluaDNCb2FUNDk2V2MtcklCQk9TSmtCRGljTWlvNUMzdnVsSkRVLXVSWFE5M1NsQlFSd1FuekJOdy1QeWQtS0U?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-10-18T10:24:56+00:00"
+      "t": "[GAM] 순환매 장세 본격화 ① AI 반도체서 빠진 돈 '구경제'로 향했다",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11N2pFaGF6T1Bub3ZHYU9XbU9UWmc0bndHVXlmWGctb3hvNEJPU2NLOF9CTkN2OXBYWDJ3eGFfUWhjQ0pGYzl5MURyVWVzX1NYa2Y1RFNRM25qVlNQ?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-19T17:20:00+00:00"
     },
     {
-      "t": "[주간 증시전망] 국제유가 상승·미국 통화정책···국내 증시 부담",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ZGpmQ0ZRNHFISGtkOEw2amdwdk1aVXRhWDJtcUhmV3RaVlFHRndyYnpwUUdxQXdXajZTOGFlVjN5QWFrREljcnJESUpqRWJGTWYtLdIBWEFVX3lxTE1uTW9Dc282YUJxR2NVdVVMZ1liaEwtbGxCVW5lMEZ6eEJQUTZvb3pYcElGdG1fVW1hRC1EbGhsX0F3VTVWVmVlYnNmMlYzaWJoWllyaWZZOW0?oc=5",
-      "s": "전북일보 인터넷신문",
-      "d": "2026-10-18T10:18:40+00:00"
+      "t": "유럽증시, 佛 소요 사태에 불안감 확산하며 일제히 하락… 은행 2.2%↓ 방산 1.5%↓",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHdDhKR0VxZDhEQ204Q3hzcVJOTDE1aGE1NVpFbk03eFNPcjllWEFlQy1nZTZtSGlWb3BWaXliZ2pKWE5TY0N0SUFzaFVKMmNUbWE4ajhLaTJLcmVS?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-19T17:18:00+00:00"
     },
     {
-      "t": "\"관세 때리자 공장 26개 박았다\"…유럽 숨통죄는 中의 공습",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nV0NoaHN0d1VCSllVNFNtMU9PN2xNbUNJcTdCUWI2MlpJREtSSEdJU3FiVjVkWHVrUC1MUDB5bzFWZDJQblVGYzhmSVJQWUZXWDluSGlnNWs3dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-18T10:04:00+00:00"
+      "t": "국제유가 2% 가까이 하락…러시아 제재 완화에도 중동 공급 불안 여전",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1BQVnV1YXFLblFKYWxsSHB0MnZKYWE5bnRMU1gzdTMxRl9UdTU2R0E0TDZTZkw4dWY2SHphYVBPdWNsMXd0MUdqLVI0THpFOGh4Skp3cWpMZllSWmItRzBGS1FRZzh6OHRKSFlZWl9vWG5KcDV2dFlXR0FraHMwdFlBOGFJUXB1?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-19T17:00:00+00:00"
     },
     {
-      "t": "[단독] AI 금리인하 자동 신청…감면액은 직접 할 때 절반도 안 돼",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNkxrbXBLMUtPSWMxMnYyZU0zSXJpX1pSRXFyYmJFOWxUbzdLZ2tjZDh2S3BqNm5CMXVnVDMzU1F3bEhOOU1XZnBKS2tBUnlPalZtODh3RVRZTkFQOFBIRHVhMzNkazg?oc=5",
-      "s": "한겨레",
-      "d": "2026-10-18T10:03:00+00:00"
+      "t": "유로-달러, 프랑스 소요 사태에 하락세 |",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VMEo3YnVxM3MwQmdlVmVMQWhKSE8tb3hXTy10blB1Nk5VQ2xVV3ZFRWRGbEZuQ0l4dHRJWEd1c3JiRVNWVC1YZXZZZkZjOUVQLTMxS3VETUMyY3A3VlZQUFRSQW5pQ3pGRVQ2c29QS2RkR2JJ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-19T16:14:44+00:00"
     },
     {
-      "t": "[주간증시전망] 반등 모색할 듯···22일 메타 실적·금통위 '분수령'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84X3cyUGdtd2lmZDY3UVBlLXNEX2JsaHpnRWJaeUVkelQ5OUYwS3pZdWxtdVJ3ZVRUT0dUbVVxYURfSnc0MWM1LXVfa3VKZ29MVmxPRFgzTWFPVDVEc0o1VV9kVmRzUWExYlE?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-10-18T10:00:00+00:00"
+      "t": "TSX 하락, 인플레이션 재가속에 금리 우려 고조…유가도 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByc3IwRlkwY19tYWNpTUZnRVFpOHQwTlhsa1RvakJGdVZXSW1CX0lvdFFJeVFMbXNBak1ZRWNaaDBiaVk3WU5sMXViRWhtdU1PbVRleFpFZ2ttZ3YtczZGMnhrMGx5OFMxaHc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-19T16:04:00+00:00"
     },
     {
-      "t": "원·달러 환율 2년 만에 최저...반도체 훈풍 영향",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBycEdqWWYtVWVrRWE4dnBrdE0taFhTSEMwTTJHWEt6QmtZSlNkNzBHQ0pqLVB3RW5ZRkl2UFFlY0tNWUxjdVhfeXVHa1B4SmxCOXo2NDlzM0dldnlaalE?oc=5",
-      "s": "YTN",
-      "d": "2026-10-18T09:55:00+00:00"
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 10월 19일자 - 조선비즈",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUlkN0l5TG9FaXVSNlVVcVlWSDNPcXlkRjJYajQzbWtyQVdtNlFBekhDcWpRUGhvS0NYbGtJd1ZTZlZJcjY1VV9UOUxtLS1ISkFBOGIzenJuTmxMVGR3UExCcm1DMlVfY05idVYtUHJIc1hGMGxGdjczZW1jd1Z0MjQ5WDJIWmhX0gGcAUFVX3lxTFBqd19fT0dITjNkTXpJd2x1Qzg2OEd1dXBtY3lNY3ppajhNMG10M1ItVGYwOGY2Mko2cXdYb2ZITlRLcU80aFcyWXh2RjR0RTNFMzQycWxBOHRmLUU1RDhmNXh0aS0zX0FKeFhHS3VlNlNoSGM4eXh2VjlFSWJjWGc2OTI2aUlRNE1xUFBmTlIxLVZCRTRfSFJqVFlLNg?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-19T15:36:00+00:00"
     },
     {
-      "t": "AI 반도체 흔들리자 '최대실적' 뷰티株 부상…하이드로겔 마스크 공급 부족",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMkVNel84VzdzYzQxbUJZTFAxT2lITUlySW1VZWQydmFHV2g3WGRJOXRqZV9idXRFV1JVWFZnRVpmUllLaXdUc1V1OHlUNzJoVWlwNWJxU05xZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-10-18T09:49:45+00:00"
+      "t": "“반도체 협력사 2조원 보증”… 정부-SK하이닉스 금융지원",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oSlh3dFdnd1k5ZlRaTlNlWmRCQWVLR3pHSWE4a2hrYS1hWjcta0pLMUlkLWxzNzI3cEl5WEFQUWFsOHNkaUdHUnhPbGlDdnh4MnhiMFNLbGhtUXA0MDFwRFpxUWZDSW9lU05UTGlnOHVNaE1zY2fSAWZBVV95cUxPai1BQkVwd1pRdGlVYUhOSWdZU2FzM0MwZXVvMkJoRE82VTJ2T1R1MWd1WmxJQ0NNaHFSMExsajRBbVZEWFZjWDFKd1RIekJkQm9CdVV1LVFva3ZJYmNXaV9mMll0LUE?oc=5",
+      "s": "동아일보",
+      "d": "2026-10-19T15:30:00+00:00"
     },
     {
-      "t": "호남반도체 '민·관·정' 속도전…야권 견제·지역 난제 변수",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ERmZOSWRqZU81Slg5Vm5MNkdJS043ZmlQZE84cHVnYXZiVjFkWGNiQjdGUWczQWg0OTRybHBJZzY1UWxmNEV5YjRuZzQyNU1Xc0VYZkxubWJBUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-18T09:48:44+00:00"
+      "t": "美반도체 2.5% 반등에도 SK하이닉스 외국인 매도 지속…40조 자사주가 주가 방어",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQ3pkaFRWZElaQU1wTTExVGJRZ1ZPbF83aFBLYlVPeW5XNkMtX05hLXhjYTlXZGplU2VrLXhFSDBFNnJQTXVzUktsVFVLb1B5RG1qWnRGVU03enktRWJUWGRRWWQyenVJ?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-10-19T15:28:41+00:00"
     },
     {
-      "t": "광주 반도체 클러스터 ‘전격전’···22일 첫 국감서 통합시 실행력 시험대",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5Rk0wb0YyUVh2b0x0WGlBcTRfa2xBclBiZDFKazVGUFUxV19BMGltNUhjX1VvUkZENzFMdnNJdDhiS0UtVm04SlQ0ODE?oc=5",
-      "s": "무등일보",
-      "d": "2026-10-18T09:43:00+00:00"
+      "t": "노조 보면 어질, 환율 보면 아찔…이중고 겪는 K조선",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RnFsREFybXBrRXhqT2x1UGRwMjRfRjhDdDc1SHZkYTk5WGY0NlBMc3VVLXczODExVFJoaUc2c1VPTlNKNDFKN1hqS29nR1UzZlNxSzRB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-19T15:02:00+00:00"
     }
   ],
   "asof": {},
