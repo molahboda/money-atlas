@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-20T06:00:12+00:00",
-  "quotesAt": "2026-10-20T06:00:12+00:00",
-  "newsAt": "2026-10-20T06:00:12+00:00",
+  "fetchedAt": "2026-10-20T06:15:12+00:00",
+  "quotesAt": "2026-10-20T06:15:12+00:00",
+  "newsAt": "2026-10-20T06:15:12+00:00",
   "quotes": {
-    "kospi": 5532.13,
+    "kospi": 5534.72,
     "spx": 7690.73,
-    "nikkei": 64027.71,
+    "nikkei": 63881.66,
     "vix": 18.44,
-    "krw": 1328.07,
-    "gold": 4144.6,
-    "wti": 98.98,
-    "dxy": 101.79
+    "krw": 1327.78,
+    "gold": 4139.4,
+    "wti": 99.55,
+    "dxy": 101.81
   },
   "daily": {
     "spx": -0.69,
-    "kospi": -2.4,
-    "nikkei": -1.37,
-    "krw": -0.4,
-    "dxy": -0.19,
-    "gold": -0.37,
-    "wti": -4.51,
+    "kospi": -2.35,
+    "nikkei": -1.59,
+    "krw": -0.42,
+    "dxy": -0.16,
+    "gold": -0.5,
+    "wti": -3.96,
     "vix": -7.75
   },
   "news": [
+    {
+      "t": "채권 전문가 93% \"10월 금리 동결\"…증시 급락에 금리 하락 기대 두 배로 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OYXl5b3Bxd1VOSGF3RkkzMHF6bVBoX2lwMm10WkVvb0dvZTNma19CZU15aDJiZ0ZtUVB4OUpBdERoWDRVT1V3STlHM0RWb0FQY1I2NEQ4ZmFVR014aU9lLTl3M3JBdW5IbmdUR3NMbm8?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-20T06:11:00+00:00"
+    },
+    {
+      "t": "일본, 반도체 부활 외치더니…'미국 배 불리기'에 29조 원 털릴 판",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlRmUkhtS2JybXdUdUZnc0hnbEhWamtSenZBelFHZl9LcTFWMFhwMHFLbTBhcm9NaGFzMEN0N3NqSVBkU1ZZYTFaNkZ0RHlibzVZUXpvUHBxOGh3c0k5T3dsVjlhbXhhdXptY1N0Mnh1MlVLQU0xTG50V0dzMlV1aUdETmRJZ0E?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-20T05:59:50+00:00"
+    },
+    {
+      "t": "[포커스] 코스피 5500선도 위태…무너진 투심, 빅테크 실적이 변수",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iR2ZoNl81ckJEMGhJR0pCakJ5RFkyWVBGRzFsaFRNTzQ0ZlRWSFIyZXJCNWJJUThHall2YVNadVNrRndtWkx6Uk1QY0Q4QWNKZ2FINnBjR1VoWk5jMmlRUE1wT21qV2QyV0VUUXlROGVsdUE?oc=5",
+      "s": "오늘경제",
+      "d": "2026-10-20T05:57:51+00:00"
+    },
+    {
+      "t": "씨마른 전세→월세 50% 돌파→월셋값↑→대출 금리↑ … 벼랑에 선 서민들",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YQXRNbEpHUy1walNfSklRQlNkdVZjZUIzOEJyajk0azRCTWZTVHdYakF3SGhZeTI4VkxZZTBHQ0NVSEFJc2ZyVlNsWlRaV1laMzJmY0V6cmJDay1jRnFNOHdrQThacWRHSldsNjJHSTYzcE5LcThNNFdwRdIBgAFBVV95cUxOWUFYT2tya1pSRExGVjlBQW5JeHZfSkYtSTNYRW1HcXFhNWFmS3RFZkUxd3JDT1BOVmljYXMzQXJZZlBwLVdlUXI2VTluTHFTdW9pYVF4RlhLU2tBRGZ1ZE1JZ25HUTFXM2RCY1VwcHZNdFUwYmVQaTVPRzFsd2M2LQ?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-10-20T05:40:12+00:00"
+    },
     {
       "t": "\"낮은 금리로 바꿔준다\" 유인한 보이스피싱…은행원 눈썰미로 덜미",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nZEJjTHhzaUREVVlJYlZZdzBSQmZtNkRrZHhvNXJFM25HcVNhRzB6Y3dyUXRmc2tJQTBuSkR2dUE1eW5tbXVkQXljY3NIVGwwaFF3R3haakZ0WWxIYTFpZkZybzUtcDg?oc=5",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-10-20T05:29:00+00:00"
     },
     {
+      "t": "22% 빠진 코스피, 바닥 찍었나…반등 조건 따져보니",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aVjllbXdrc0RYdkttcTJKLTRURzJVbWdwLTBrQ3AxaDVJNkEwOUNfLVFjeHI3bWo4SVJNbngxQ2Rxc2JmczMwMVY5aTRBMEE?oc=5",
+      "s": "딜사이트",
+      "d": "2026-10-20T05:24:56+00:00"
+    },
+    {
       "t": "美 엑셀리스, 평택에 575억 투자…반도체 핵심장비 아시아 생산거점 구축",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XUWlYVDNvZmN5c212QTVCQzV1LUtpWmRCVTRydnRlZmtNdnhrVXZNWU1IWXlsbzNlQ3ROWGM2RGI5SHRKbWd1SEQ4Q0dncWNBSFByQmdUWnhSdEk?oc=5",
       "s": "에너지경제신문",
       "d": "2026-10-20T05:24:04+00:00"
-    },
-    {
-      "t": "코스피 급락에 ETF 순자산 ‘뚝’···4개월 만에 100조원 넘게 감소 By 투데이코리아",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KN3dTTk9kTkVtM1Y0OWtBUnBiNWo1a2VUelpnNkFXeFVIZTZBSkZvVHBSakp0QUZKbzQxYTAxWFF0LTRpMHpvSkE5WWIzM05zUnpxRjJaNEFjM0FiLWZJTlEyRU5ld3FHb3NUOG9xUGY?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-20T05:24:00+00:00"
-    },
-    {
-      "t": "코스피 장중 4% 급락‥한때 5,500선도 내줘",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JVTJOcjRfUlpOMHkxX01ybmhDSVVzakJkSFZUUjZWOFd0WFF3VHAxcHRaRzRSeXlpU09ieGc4T0tuQmZlWnV3RFI5YzhKWk40QkRMd2JMVHRYUlhNMVpyRjJlTEh2b2tXY1AtUjZQUFg4Nzcz0gF0QVVfeXFMUFVBcWVoLVdiNEt0UlZYOF93a0FVdEduX2FwdDc4N1BfZG11MHo4dTMtMmZBNVZNNGR3QTltTVg0X1MtajdnUXNuaWl4dlFTQ0oyNUp5UXhzcnlrTUxpUThhTVJwc2wyQnR1cU1GNXV6UlBkQ24?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-10-20T05:21:47+00:00"
-    },
-    {
-      "t": "조정장에도 남은 'K자형 격차'…코스피 앞섰던 ETF, 수익률 우위 지켰다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fNEN2eWxHaXQwNGc0S0lMOHlWTnFWd0JxTGJRWm5VXzdJWHRUbkttMWMwREdfNTNjSGZyVVltUGNaTWVkUXlKcE1yZE52dw?oc=5",
-      "s": "전자신문",
-      "d": "2026-10-20T05:21:32+00:00"
-    },
-    {
-      "t": "산업용 AI·반도체에 독일 국가 미래 건다...글로벌 투자자 200명 베를린 집결",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOVjM1dGZrRE8wTV9abEdmcTBobHhjY1RMTkFCZXluOTB4T2hlYkM3V3dlMkxkazdKSGh2ZUxMajF4N1dDRzlURVNVVE1DRll5MmhYYjdBWk9xYmdCc0tqbXIyZTlEN3c?oc=5",
-      "s": "인공지능신문",
-      "d": "2026-10-20T05:19:05+00:00"
-    },
-    {
-      "t": "코스피 4%대↓…반도체·이차전지 투심 악화에 코스닥도 800선 하회",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90d18xVnQ1TUFENHJPWHRpUVpwR21sNFlnNHNPVlAxQTRIV0twYlkyWUpObGt4WnVyU1Q2YU1DaVl1a29wZFZDVFdRRk1SQzBWX01hLTlvMER4akZLdkEzdzNpb1M1UTVwNWU5NF9ETGZTRFU?oc=5",
-      "s": "마켓인",
-      "d": "2026-10-20T05:18:56+00:00"
     }
   ],
   "asof": {},
