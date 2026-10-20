@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-20T05:45:18+00:00",
-  "quotesAt": "2026-10-20T05:45:18+00:00",
-  "newsAt": "2026-10-20T05:30:32+00:00",
+  "fetchedAt": "2026-10-20T06:00:12+00:00",
+  "quotesAt": "2026-10-20T06:00:12+00:00",
+  "newsAt": "2026-10-20T06:00:12+00:00",
   "quotes": {
-    "kospi": 5517.28,
+    "kospi": 5532.13,
     "spx": 7690.73,
-    "nikkei": 64026.51,
+    "nikkei": 64027.71,
     "vix": 18.44,
-    "krw": 1327.58,
-    "gold": 4151.2,
-    "wti": 98.75,
-    "dxy": 101.77
+    "krw": 1328.07,
+    "gold": 4144.6,
+    "wti": 98.98,
+    "dxy": 101.79
   },
   "daily": {
     "spx": -0.69,
-    "kospi": -2.66,
+    "kospi": -2.4,
     "nikkei": -1.37,
-    "krw": -0.44,
-    "dxy": -0.21,
-    "gold": -0.21,
-    "wti": -4.74,
+    "krw": -0.4,
+    "dxy": -0.19,
+    "gold": -0.37,
+    "wti": -4.51,
     "vix": -7.75
   },
   "news": [
     {
-      "t": "Metlen 회장, EU가 미국 관세 격차로 전략적 알루미늄 잃고 있다 경고",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZk5obE9Nc0JrN1JSYWlyVWlqUVVkdkZiaW1KQ1BkVHFHOTJaZ3djOWczM3c2UjRLd1M3am5sNTdsdFFaUzdIeUwwaEpYZTh2cG0zLWJuSUlOdmVMTVlaMjU2bmpUQUpBSDhpd0xEWi0?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-19T17:40:00+00:00"
+      "t": "\"낮은 금리로 바꿔준다\" 유인한 보이스피싱…은행원 눈썰미로 덜미",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nZEJjTHhzaUREVVlJYlZZdzBSQmZtNkRrZHhvNXJFM25HcVNhRzB6Y3dyUXRmc2tJQTBuSkR2dUE1eW5tbXVkQXljY3NIVGwwaFF3R3haakZ0WWxIYTFpZkZybzUtcDg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-20T05:37:00+00:00"
     },
     {
-      "t": "[GAM] 순환매 장세 본격화 ① AI 반도체서 빠진 돈 '구경제'로 향했다",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11N2pFaGF6T1Bub3ZHYU9XbU9UWmc0bndHVXlmWGctb3hvNEJPU2NLOF9CTkN2OXBYWDJ3eGFfUWhjQ0pGYzl5MURyVWVzX1NYa2Y1RFNRM25qVlNQ?oc=5",
+      "t": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-10-20T05:34:46+00:00"
+    },
+    {
+      "t": "음성군 \"유망중소기업 3곳 선정…금리 우대 등 혜택\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zRUhKY3FidGVPZ3RaNjd1SXBYanF1UWtzUFQ3TFcyaVd1LWxEbWUycnhncFotSERSdHFIYlpleVk2UmNTaW9zYXE1MkV0ZzdiZmlLVGFqaEU5TGs1Qkh5Ymd6bnZndmc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-20T05:29:00+00:00"
+    },
+    {
+      "t": "예금금리 다시 4%대…고금리 예금 줄이던 5대 은행 '수익성 비상'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fekluTHgxekJHWUJrU1RoQjZha2UtQkttRUlsaGU2YVEweGlEN0M3V0hnQnlWdzkzVWd4VVhSbXpVSEdRdHRsSlBMeFdnYW1IbHEtdTcybWp6RVda?oc=5",
       "s": "뉴스핌",
-      "d": "2026-10-19T17:20:00+00:00"
+      "d": "2026-10-20T05:29:00+00:00"
     },
     {
-      "t": "유럽증시, 佛 소요 사태에 불안감 확산하며 일제히 하락… 은행 2.2%↓ 방산 1.5%↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHdDhKR0VxZDhEQ204Q3hzcVJOTDE1aGE1NVpFbk03eFNPcjllWEFlQy1nZTZtSGlWb3BWaXliZ2pKWE5TY0N0SUFzaFVKMmNUbWE4ajhLaTJLcmVS?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-19T17:18:00+00:00"
+      "t": "美 엑셀리스, 평택에 575억 투자…반도체 핵심장비 아시아 생산거점 구축",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XUWlYVDNvZmN5c212QTVCQzV1LUtpWmRCVTRydnRlZmtNdnhrVXZNWU1IWXlsbzNlQ3ROWGM2RGI5SHRKbWd1SEQ4Q0dncWNBSFByQmdUWnhSdEk?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-10-20T05:24:04+00:00"
     },
     {
-      "t": "국제유가 2% 가까이 하락…러시아 제재 완화에도 중동 공급 불안 여전",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1BQVnV1YXFLblFKYWxsSHB0MnZKYWE5bnRMU1gzdTMxRl9UdTU2R0E0TDZTZkw4dWY2SHphYVBPdWNsMXd0MUdqLVI0THpFOGh4Skp3cWpMZllSWmItRzBGS1FRZzh6OHRKSFlZWl9vWG5KcDV2dFlXR0FraHMwdFlBOGFJUXB1?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-19T17:00:00+00:00"
-    },
-    {
-      "t": "유로-달러, 프랑스 소요 사태에 하락세 |",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VMEo3YnVxM3MwQmdlVmVMQWhKSE8tb3hXTy10blB1Nk5VQ2xVV3ZFRWRGbEZuQ0l4dHRJWEd1c3JiRVNWVC1YZXZZZkZjOUVQLTMxS3VETUMyY3A3VlZQUFRSQW5pQ3pGRVQ2c29QS2RkR2JJ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-19T16:14:44+00:00"
-    },
-    {
-      "t": "TSX 하락, 인플레이션 재가속에 금리 우려 고조…유가도 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByc3IwRlkwY19tYWNpTUZnRVFpOHQwTlhsa1RvakJGdVZXSW1CX0lvdFFJeVFMbXNBak1ZRWNaaDBiaVk3WU5sMXViRWhtdU1PbVRleFpFZ2ttZ3YtczZGMnhrMGx5OFMxaHc?oc=5",
+      "t": "코스피 급락에 ETF 순자산 ‘뚝’···4개월 만에 100조원 넘게 감소 By 투데이코리아",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KN3dTTk9kTkVtM1Y0OWtBUnBiNWo1a2VUelpnNkFXeFVIZTZBSkZvVHBSakp0QUZKbzQxYTAxWFF0LTRpMHpvSkE5WWIzM05zUnpxRjJaNEFjM0FiLWZJTlEyRU5ld3FHb3NUOG9xUGY?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-10-19T16:04:00+00:00"
+      "d": "2026-10-20T05:24:00+00:00"
     },
     {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 10월 19일자 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUlkN0l5TG9FaXVSNlVVcVlWSDNPcXlkRjJYajQzbWtyQVdtNlFBekhDcWpRUGhvS0NYbGtJd1ZTZlZJcjY1VV9UOUxtLS1ISkFBOGIzenJuTmxMVGR3UExCcm1DMlVfY05idVYtUHJIc1hGMGxGdjczZW1jd1Z0MjQ5WDJIWmhX0gGcAUFVX3lxTFBqd19fT0dITjNkTXpJd2x1Qzg2OEd1dXBtY3lNY3ppajhNMG10M1ItVGYwOGY2Mko2cXdYb2ZITlRLcU80aFcyWXh2RjR0RTNFMzQycWxBOHRmLUU1RDhmNXh0aS0zX0FKeFhHS3VlNlNoSGM4eXh2VjlFSWJjWGc2OTI2aUlRNE1xUFBmTlIxLVZCRTRfSFJqVFlLNg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-19T15:36:00+00:00"
+      "t": "코스피 장중 4% 급락‥한때 5,500선도 내줘",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JVTJOcjRfUlpOMHkxX01ybmhDSVVzakJkSFZUUjZWOFd0WFF3VHAxcHRaRzRSeXlpU09ieGc4T0tuQmZlWnV3RFI5YzhKWk40QkRMd2JMVHRYUlhNMVpyRjJlTEh2b2tXY1AtUjZQUFg4Nzcz0gF0QVVfeXFMUFVBcWVoLVdiNEt0UlZYOF93a0FVdEduX2FwdDc4N1BfZG11MHo4dTMtMmZBNVZNNGR3QTltTVg0X1MtajdnUXNuaWl4dlFTQ0oyNUp5UXhzcnlrTUxpUThhTVJwc2wyQnR1cU1GNXV6UlBkQ24?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-10-20T05:21:47+00:00"
     },
     {
-      "t": "“반도체 협력사 2조원 보증”… 정부-SK하이닉스 금융지원",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oSlh3dFdnd1k5ZlRaTlNlWmRCQWVLR3pHSWE4a2hrYS1hWjcta0pLMUlkLWxzNzI3cEl5WEFQUWFsOHNkaUdHUnhPbGlDdnh4MnhiMFNLbGhtUXA0MDFwRFpxUWZDSW9lU05UTGlnOHVNaE1zY2fSAWZBVV95cUxPai1BQkVwd1pRdGlVYUhOSWdZU2FzM0MwZXVvMkJoRE82VTJ2T1R1MWd1WmxJQ0NNaHFSMExsajRBbVZEWFZjWDFKd1RIekJkQm9CdVV1LVFva3ZJYmNXaV9mMll0LUE?oc=5",
-      "s": "동아일보",
-      "d": "2026-10-19T15:30:00+00:00"
+      "t": "조정장에도 남은 'K자형 격차'…코스피 앞섰던 ETF, 수익률 우위 지켰다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fNEN2eWxHaXQwNGc0S0lMOHlWTnFWd0JxTGJRWm5VXzdJWHRUbkttMWMwREdfNTNjSGZyVVltUGNaTWVkUXlKcE1yZE52dw?oc=5",
+      "s": "전자신문",
+      "d": "2026-10-20T05:21:32+00:00"
     },
     {
-      "t": "美반도체 2.5% 반등에도 SK하이닉스 외국인 매도 지속…40조 자사주가 주가 방어",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQ3pkaFRWZElaQU1wTTExVGJRZ1ZPbF83aFBLYlVPeW5XNkMtX05hLXhjYTlXZGplU2VrLXhFSDBFNnJQTXVzUktsVFVLb1B5RG1qWnRGVU03enktRWJUWGRRWWQyenVJ?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-10-19T15:28:41+00:00"
+      "t": "산업용 AI·반도체에 독일 국가 미래 건다...글로벌 투자자 200명 베를린 집결",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOVjM1dGZrRE8wTV9abEdmcTBobHhjY1RMTkFCZXluOTB4T2hlYkM3V3dlMkxkazdKSGh2ZUxMajF4N1dDRzlURVNVVE1DRll5MmhYYjdBWk9xYmdCc0tqbXIyZTlEN3c?oc=5",
+      "s": "인공지능신문",
+      "d": "2026-10-20T05:19:05+00:00"
     },
     {
-      "t": "노조 보면 어질, 환율 보면 아찔…이중고 겪는 K조선",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15RnFsREFybXBrRXhqT2x1UGRwMjRfRjhDdDc1SHZkYTk5WGY0NlBMc3VVLXczODExVFJoaUc2c1VPTlNKNDFKN1hqS29nR1UzZlNxSzRB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-10-19T15:02:00+00:00"
+      "t": "코스피 4%대↓…반도체·이차전지 투심 악화에 코스닥도 800선 하회",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90d18xVnQ1TUFENHJPWHRpUVpwR21sNFlnNHNPVlAxQTRIV0twYlkyWUpObGt4WnVyU1Q2YU1DaVl1a29wZFZDVFdRRk1SQzBWX01hLTlvMER4akZLdkEzdzNpb1M1UTVwNWU5NF9ETGZTRFU?oc=5",
+      "s": "마켓인",
+      "d": "2026-10-20T05:18:56+00:00"
     }
   ],
   "asof": {},
