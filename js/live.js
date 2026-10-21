@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-21T07:30:17+00:00",
-  "quotesAt": "2026-10-21T07:30:17+00:00",
-  "newsAt": "2026-10-21T07:30:17+00:00",
+  "fetchedAt": "2026-10-21T07:45:11+00:00",
+  "quotesAt": "2026-10-21T07:45:11+00:00",
+  "newsAt": "2026-10-21T07:45:11+00:00",
   "quotes": {
     "kospi": 5735.66,
     "spx": 7712.57,
     "nikkei": 64621.24,
-    "vix": 17.25,
-    "krw": 1324.41,
-    "gold": 4135.6,
-    "wti": 98.72,
-    "dxy": 101.78
+    "vix": 17.14,
+    "krw": 1323.47,
+    "gold": 4139.6,
+    "wti": 98.58,
+    "dxy": 101.77
   },
   "daily": {
     "spx": 0.69,
     "kospi": -0.56,
     "nikkei": 0.85,
-    "krw": -0.42,
-    "dxy": 0.05,
-    "gold": -0.17,
-    "wti": -3.02,
-    "vix": -0.35
+    "krw": -0.49,
+    "dxy": 0.04,
+    "gold": -0.07,
+    "wti": -3.15,
+    "vix": -0.98
   },
   "news": [
     {
-      "t": "전남광주반도체포럼 출범…초대 이사장에 양진석 광주경총 회장",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91bHFSQ09xOVh0Q2UyRVFPN2F3SnBwdlRuTUQ0c1I5S2s5TTRCS1dnRU5hSWFpUW5KZ0loNnMxdXZhc1JHQXdrLXc0MVBkT3QyS19Ddk8tMHJ5bVBwQk80UHBmZ1ZLbGM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-20T06:26:00+00:00"
+      "t": "달러/원 환율 1325.2원 마감…종가 기준 연저점 경신",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yaFk5Y1Zaa0YyZEFVZUo3eVhNSkFuZFN5c05xb2RUV3NVTUJJTjJ6Qk1hQVVDYVEyU1lRVmJnVnJqMFVzcFhKVHQwdDdnRDBkOTVTY2lmODg4aTBD?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-21T07:42:00+00:00"
     },
     {
-      "t": "채권 전문가 93% \"10월 기준금리 동결\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0U3l1dnBQQ3ZYa0toSFg3YnNWZEh6LXBKWUg5bEJUczJTbDZNMTEyejlfTlc1ZDZZN1hnRDE3Q1pVdE80b2ZxdGVPT09BUFdSbnZqWFB3N0ItNGtBZkthdU53cWV4UDQ?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-10-20T06:25:00+00:00"
+      "t": "[외환-마감] 수출 호조 속 네고물량에 저점 또 경신…2.90원↓",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zanJIZGJtVWQ3T1d3UkNWangyRVdZenF3Y1VUb2NqSU4tRDYxLUk1azVjdUo5Qkp5dkJhZ0JkLXVwVHk4aHhUNFhPZVhsZGRHams5SXMtV1UtNWhxbGJ3TDFhT0RXMmF6c0xaWUkwUmtsZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-21T07:36:00+00:00"
     },
     {
-      "t": "닷새간 3000억 강제청산...증시조정에 거세진 빚투 '후폭풍'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQUs0bzBpV05jbEpOVlBlUENWTVp5c3JYblh5Q21mMkUxNGhGdmhPc3NKTUpmNURMN0F2YXBIUXA0LTVaZDBtRzBsd1ItTWxFTUo1amZvRlM3UGxaNVFuM2NvVVVDTDZpUmc?oc=5",
+      "t": "아디다스, '트럼프 관세' 3천억원 돌려받고 역대 최고 실적",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HZE5Qa3lCYnVkbTBMNmZfaGZUb2lFNTFEdjNEYkhqQXRISVRTd2lvbW9GendFeTE4Zk1FR2dYcmFoOFVOaDg2VzlEOG12bDdZZk1uTkszRGxfelnSAWBBVV95cUxNOTVFVVdUekZyQTVWS2cxNXhidS05ODh3Mm8zUGJucW5LWlU4M0FOWElhTDRSY2dUS0JkOThOaE9TRWlwNVZYRUtoQVpEX2sxQXdDY1Vkbkx3OHNpZm0tM3g?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-21T07:35:10+00:00"
+    },
+    {
+      "t": "환율, 연저점 경신에…유진證 \"내년 1250원까지 하락 가능\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yei1xNkswaXNTbW8xWG5aRXpGblNRY24tVzhNb0ZRRmVibWpQWUlVQlFwN0dVeHBLOHMwek1vdG5zaW5ON1FDTVBORDFlYzlIdlh3bjQ4UmZEalR1cWlKZl9Ka0FRc2hLYVZPaVRKV2ZVZWI5?oc=5",
+      "s": "조세일보",
+      "d": "2026-10-21T07:31:52+00:00"
+    },
+    {
+      "t": "루피아화 가치 급락에도…인도네시아, 기준금리 '동결'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByX2tla1M2VmZGV0V5dTlFTE5mSE9heml6V2tZM0dSWGpkUmpoM3cwemZNY19mMFh1R240dDAtSnF1eGJNWk5YcC1YTTZEeTZuSTFtLVpSQk5SNzJiSkg1Ng?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-21T07:29:32+00:00"
+    },
+    {
+      "t": "현대모비스, 차량용 반도체 국산화 ‘속도’…13종 개발 착수",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYm9zT3B5bmppQTFjejFPY3prOUZiV3diTy1zTmtUR3RKbTUxTXVSbVJtaDhJelA2NUM1T3lhOHVkQ1pKWTJsRzQ4SWxHaTV5UkN2TU43cFBnSVN1bTU3Nw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-21T07:26:28+00:00"
+    },
+    {
+      "t": "삼성전자 반도체 신제품 개발팀 정비…성과급 체제 강화",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aQnFXQ2JZVW1OdjRuQjRkOWZyZEJmaURMdFg0aDFtejQ4aEhHZWpOc194bjJKalFoMUF4aFplVlR5US1aTWxzdUp0cjRlSFM4b21jNWtBUVVVOENwQVh4VzlBOVJiMkk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-21T07:25:00+00:00"
+    },
+    {
+      "t": "어제는 3% 급락, 오늘은 3% 급등...코스피 5700선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSWhTRHJDQnkwNVkxWjB4ZUttY082dGpQVVhkcmg3djkzSFdieGNudnhBNGxJQndkTDJreVVpdG11R1lFeG1TNjFIQk5Bd2NnbXl1RWw1MkZGRHRFU2FjckNHSXQyYm01WHc?oc=5",
       "s": "비즈워치",
-      "d": "2026-10-20T06:24:03+00:00"
+      "d": "2026-10-21T07:24:02+00:00"
     },
     {
-      "t": "[경제 포커스] 韓 금리 인상에 취약한 이유는… 변동금리 많은 선진국 중 ‘빚 상환 부담’ 3위",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWlFLTBTMW15ZTRBTGtxNDZRTFJ5bmlIQjVUMGNMM2ZuOHhaZHlqSnZ4dDlJRW9pM0U2VnZkcFlIVmJyRXpjUGV0MmxYQ3dfYzZlWkpTdUN6RkRjemd2NnRGUEtoV29mZ3gxUVpyUHc4bmRuMWVVRzF6V2cwa2pTekF1dkczUQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-20T06:20:00+00:00"
+      "t": "코스피, AI 투자심리 회복에 3.3% 급등 마감…삼전닉스 5%↑(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lLU9UQVpnWFNiWWhEaFVxNVFtMnJLWWdnaTVfSGl5SzI0MlBuR3BUNTRwM0I2NWdSZ21HWE5RT05iLUdWZFgzS2VuaEJZaFJXZUE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-21T07:20:49+00:00"
     },
     {
-      "t": "국힘 “증시 37% 폭락했는데 대통령은 지금 웃을 때인가”",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vY2RjQzJUVTRDemozUEl2S2VoZzZUOF9aTlFnRk5JOVVRWGwyQ05GYmZaVUNLbGZqenFyaU1CMG54VUxYYXEwMkdCdVJOTkNEeGRYMmRsUHRURXdOY3h2UTFhclpzRi1NNUx4d0VzdFZPQ2ppMkk00gFmQVVfeXFMTjNqamVjNHJoYTlDNHJzcWxlUzI0MHdqM1NDd09uUzZPU2hjTld5TDhjOFgwZndrU2lFNHhQNjhEU19DbGxQOURlSVh0VUNFSWtFNnJBUlpFTDU0cXZCWTNWeHMtVFh3?oc=5",
-      "s": "동아일보",
-      "d": "2026-10-20T06:10:00+00:00"
-    },
-    {
-      "t": "신한은행, SK하이닉스·한국무역보험공사와 반도체 수출공급망 금융지원 협약",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NE1aX1JuelJvbGFfZWNlMm9KalkxY2pLUVRSaHlpcnV4QVhPYTRuS2RjblVDUkJObGRaWWMtUldhMEZVLUxrYmxoWjZZUndtR3JfY3hOMmFRT1RxZHExbk5tZTAzSWZFSlE?oc=5",
-      "s": "Daily NTN",
-      "d": "2026-10-20T06:04:00+00:00"
-    },
-    {
-      "t": "일본, 반도체 부활 외치더니…'미국 배 불리기'에 29조 원 털릴 판",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlRmUkhtS2JybXdUdUZnc0hnbEhWamtSenZBelFHZl9LcTFWMFhwMHFLbTBhcm9NaGFzMEN0N3NqSVBkU1ZZYTFaNkZ0RHlibzVZUXpvUHBxOGh3c0k5T3dsVjlhbXhhdXptY1N0Mnh1MlVLQU0xTG50V0dzMlV1aUdETmRJZ0E?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-20T05:59:50+00:00"
-    },
-    {
-      "t": "[포커스] 코스피 5500선도 위태…무너진 투심, 빅테크 실적이 변수",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iR2ZoNl81ckJEMGhJR0pCakJ5RFkyWVBGRzFsaFRNTzQ0ZlRWSFIyZXJCNWJJUThHall2YVNadVNrRndtWkx6Uk1QY0Q4QWNKZ2FINnBjR1VoWk5jMmlRUE1wT21qV2QyV0VUUXlROGVsdUE?oc=5",
-      "s": "오늘경제",
-      "d": "2026-10-20T05:57:51+00:00"
-    },
-    {
-      "t": "코스피 4%대 하락...SK하이닉스 장중 한때 7% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbVZRNEplZ3ZZTXZxZW1sQVNWQW1GRmlHZEtlWWFKLXd1TloweUhOQXlVY3lNTzlEckJWUGd0MUJsZG10T0xNR3pvTVZVWElNa1NMSmVZTDdGV2FTcHc?oc=5",
-      "s": "YTN",
-      "d": "2026-10-20T05:54:00+00:00"
-    },
-    {
-      "t": "씨마른 전세→월세 50% 돌파→월셋값↑→대출 금리↑ … 벼랑에 선 서민들",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YQXRNbEpHUy1walNfSklRQlNkdVZjZUIzOEJyajk0azRCTWZTVHdYakF3SGhZeTI4VkxZZTBHQ0NVSEFJc2ZyVlNsWlRaV1laMzJmY0V6cmJDay1jRnFNOHdrQThacWRHSldsNjJHSTYzcE5LcThNNFdwRdIBgAFBVV95cUxOWUFYT2tya1pSRExGVjlBQW5JeHZfSkYtSTNYRW1HcXFhNWFmS3RFZkUxd3JDT1BOVmljYXMzQXJZZlBwLVdlUXI2VTluTHFTdW9pYVF4RlhLU2tBRGZ1ZE1JZ25HUTFXM2RCY1VwcHZNdFUwYmVQaTVPRzFsd2M2LQ?oc=5",
-      "s": "뉴데일리",
-      "d": "2026-10-20T05:40:12+00:00"
+      "t": "[중국증시-마감] CATL 급락·소비주 약세에 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrYmVCTVNPMnltODZwQnc4SERYc2N1eXd2MW05YjEySkYyT01JODlKNHBZWExRU0U0V0ltWkpvOVZkUmJlYkE5VTBWUE56OW1EbmF3dHhlaENVNjV5RFJWUGkydHE4elMxM01NX2R6OVp1UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-21T07:20:39+00:00"
     }
   ],
   "asof": {},
