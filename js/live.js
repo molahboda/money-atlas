@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-22T23:30:11+00:00",
-  "quotesAt": "2026-10-22T23:30:11+00:00",
-  "newsAt": "2026-10-22T23:30:11+00:00",
+  "fetchedAt": "2026-10-22T23:45:11+00:00",
+  "quotesAt": "2026-10-22T23:45:11+00:00",
+  "newsAt": "2026-10-22T23:45:11+00:00",
   "quotes": {
     "kospi": 5533.77,
     "spx": 7663.43,
     "nikkei": 62907.84,
     "vix": 19.03,
-    "krw": 1325.19,
-    "gold": 4043.3,
-    "wti": 99.16,
-    "dxy": 101.62
+    "krw": 1325.4,
+    "gold": 4038.6,
+    "wti": 99.64,
+    "dxy": 101.57
   },
   "daily": {
     "spx": -0.64,
     "kospi": -0.34,
     "nikkei": -2.65,
-    "krw": -0.03,
-    "dxy": -0.16,
-    "gold": -2.57,
-    "wti": -0.31,
+    "krw": -0.01,
+    "dxy": -0.21,
+    "gold": -2.68,
+    "wti": 0.17,
     "vix": 14.09
   },
   "news": [
+    {
+      "t": "오산시, AI·반도체 소부장 기업 유치와 지역인재 채용 연계 추진",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43aWQwRGI3SkxQbjNycTdnc3VwaFhHeTc3R09RaGRvRUFkcGRCdHo1U280LWxabEFjYkJqZmQtY0pxRjVPc0t2NGVUd3dzUTN2N2RjOVd0RXd6eG02TVBSMmxuREg?oc=5",
+      "s": "매일일보",
+      "d": "2026-10-22T23:34:28+00:00"
+    },
+    {
+      "t": "[증시 포인트] 하락 출발 전망...당분간 관망 대응 필요",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91YWc4NXlJY21qWGlOWFNMbE5MRUc0ajBQMDRVNFFERk5RTUMyLVJpc0FZamdrQ0ljTXRTb2lqbHNCT0Z0Z2RyQ2ZDQ0RxTXRlQnplczZzZGlsRTRyUHNrTXlXUkxCdWZkb0R0dk9hY2w?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-10-22T23:30:32+00:00"
+    },
+    {
+      "t": "美 기술주 폭락, 코스피 톱 110 모두 '파란불'...삼성전자 4% ↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RUJKaHhha0daX1AzQmJYU3Z0blhWYnpqblJJV1o4U25LU3pEYnZIOXlrTG5zd0hqZkc0RlBycDU3eFI2c1RGSExHR1NXRks0ek5uUTVabEhyWUlkUFlMaWlVMlJ4VEpMeFphenNfU3Y?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-10-22T23:30:08+00:00"
+    },
+    {
+      "t": "AI 투자 우려·중동 긴장에 美국채 강세…10년물 금리 5% 아래로 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HZ05mSmJTSG9lSlVpdGQ5Wm5acExvbHkyWXpPTHhGOVUzM2pMQ2hGOEdydmVfQWZmc01BdkROXzhGM0RPYTRUOUFNU1B2NVVYWjUtSXZXWU8tdWlsXzcxWVdsNDNZOEJsM1Nwb0lDMDI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-22T23:29:00+00:00"
+    },
+    {
+      "t": "[마켓뷰] 美증시 하락·유가 상승…코스피 또 내리나",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cGNDZFNwcDlNeEs0dVNLbW02ZlFWbzBBc1A4QmJqc29JOUF2SllfNG41RGwzbm5FMU8wNGFVTkpqTDNkWms4UzlhQlMxVkJfWHBhNENCanUwN3fSAWBBVV95cUxQZVRFYldqcUtDRkcteExxVnM2a05YYjZyWXFlVmt0NVZlNElIVERMNEdhZ2g2NDgyTVU2d2w0ZVJ6WlNzbGJNdGtaSTBhMTlwRzNkTDJFRXMzdGpldXhoSkI?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-22T23:25:56+00:00"
+    },
     {
       "t": "[굿모닝 증시]'AI 불안감 지속' 美 혼조 마감…韓 하락 출발 후 낙폭 줄일 듯",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MQnZZNk0weFo5Sk9ZekREcGJTVkhvLW93ZkkwTV9HQkUtQ2x0d3d3WVZIYzN1Rk8wY3ZIYkEyTW5NSnlaTEJJZ3JrQ1FNUjdDWWZBVFpwSVJCYXUzMFNscXlB?oc=5",
@@ -32,7 +62,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "SK하이닉스, 솔리다임 美 상장 결국 중단…AI 반도체 투자 자금조달 '재검토'",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UUHd4ejFOeXV2WDVQMEJfSmpwX212NEFEMG1kSFhidm1XV3hlRHNFVFlGcHJ6V21yelBvelNaRTVrbFg2Um8wWkxDcHlWaDBpT3NPOUkxelNUM0JJSXlncXFVb1h2X1dZbVQ1OTZINHhrcmhF?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15a2VkWjNldmpuVHgyX0NuSmw3c0RPRW1ZbXM1N0t1dGJ1aTZBWFpKNFJ5U0VYUy1nWnd0aXgtOHNUWnNQYmluNkMxcWZOMjJ5VlM1RUxQMFN0cVh6RVlPTlFvSEVUSFJiUXhjcUFDSQ?oc=5",
       "s": "조세일보",
       "d": "2026-10-22T23:20:22+00:00"
     },
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53M3BwSEgya2tyYXlCLXpJQzZPd3dEbXNwR2dFaTA1LXJ4R01vMUhIMFdqdklGVjAxbGgxUGVNem8yeUpmSVBhMnN5bHVFb1htLXlTTVl0V2RJWFNR?oc=5",
       "s": "뉴스핌",
       "d": "2026-10-22T23:11:00+00:00"
-    },
-    {
-      "t": "AI 투자 재원 우려에 나스닥 2.60% 급락... 메타 7%↓ [뉴욕증시]",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rN1phdkd2NlpIcFVUb2FlRmlpV2xvOFJFR3R6bGUtbWZUX19FS0N3S05KbG9IVEIwMkpGNHZvSXVSN043M29wRTZqZzAzNC05a2RLU2NNRFdLRG1TVzRFa1lNa08?oc=5",
-      "s": "매일일보",
-      "d": "2026-10-22T23:10:30+00:00"
-    },
-    {
-      "t": "\"솔리다임 IPO 중단, 반도체 투심에 긍정적…낙폭 만회 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HWGFsVHJBMXd6djNaNVVRRlFETHpNaVk3aWVWYmlUOGRNSkVMNXpUSVJwZy1yZVJrYXpzTVBwb1dXTDV4LWYxUnUzR3RCWUxod1NiNE0wMTFnbUxmVk5VamNGN0MwS2lxaEUyOGc1WHQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-22T23:08:35+00:00"
-    },
-    {
-      "t": "美 국채금리 5% 붕괴…AI 자금조달 불안에 안전자산 귀환",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWJLcWI2SGRDLTByTjVMRVdXZEJibXZoSU1ENllZR1R6WDlPcTBER3ctV2xSUnc5bUJYMjQ5YlVBU3RWaDB6RmVlbHBieDFRWXZad0w5NnU0Mm9KVk11TVB3VzZHSGVpR0dDUE9zS1JnbWF1MEtKYUZnYWxFZDl3cnFrWTBzbHBH?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-22T23:06:28+00:00"
-    },
-    {
-      "t": "오산시, AI·반도체 생태계 조성 본격화…“소부장 중심 자족도시로”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mMTM2dUNTQ0JGSHJoeTY0dFp6NWVnV3JsSWw2cENXaGJmWXk0SFVhVU94a0lLcGR6Z1otWnZkRWgwdnB0MWJyTWtKZ1dYcDRw?oc=5",
-      "s": "문화일보",
-      "d": "2026-10-22T23:01:41+00:00"
-    },
-    {
-      "t": "안전자산 찾아서…美 10년물 국채 금리, 한달만에 5% 밑으로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rSVd3R1p3bV9xNV90T2ZGV0Exa0VmRHFJejNzTS1COXpoaHdMSDFPdEtzb3NqSElLRi1oZUM2YjM1U1dvcUxoUGxxUDhXYTZ4LVJxMzdkQmc5cmfSAWBBVV95cUxNSWlxOEdZcjc4UnFKUFNyQWVSSnZVZk5OX3UyUHk5SXNPUVBmamNFQkZHUlg3ZkZQZWliTUV1UlYzU29CcXF2VE5aUV83ckxZVkFsbENpRGoyVm1oZUVqang?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-22T23:00:04+00:00"
     }
   ],
   "asof": {},
