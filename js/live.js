@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-22T07:45:11+00:00",
-  "quotesAt": "2026-10-22T07:45:11+00:00",
-  "newsAt": "2026-10-22T07:45:11+00:00",
+  "fetchedAt": "2026-10-22T08:00:12+00:00",
+  "quotesAt": "2026-10-22T08:00:12+00:00",
+  "newsAt": "2026-10-22T08:00:12+00:00",
   "quotes": {
     "kospi": 5533.77,
     "spx": 7757.17,
     "nikkei": 62907.84,
-    "vix": 18.23,
-    "krw": 1321.6,
-    "gold": 4106.3,
-    "wti": 99.61,
-    "dxy": 101.51
+    "vix": 18.24,
+    "krw": 1321.38,
+    "gold": 4103,
+    "wti": 99.88,
+    "dxy": 101.55
   },
   "daily": {
     "spx": 0.86,
     "kospi": -0.34,
     "nikkei": -2.65,
-    "krw": -0.18,
-    "dxy": -0.26,
-    "gold": -1.05,
-    "wti": 2.53,
-    "vix": 9.29
+    "krw": -0.19,
+    "dxy": -0.22,
+    "gold": -1.13,
+    "wti": 2.81,
+    "vix": 9.35
   },
   "news": [
+    {
+      "t": "파리 예산 위기와 전국 시위 속 프랑스 국채 금리 5% 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5MjJHTkhQUThENkFhdU1zTFdYUERaamZ0MTkwdlY3NlRiMC1WdEF0c1h3THBobGM3RmdQeHlMTzl3QU9IX25oSUR4dU1DV0o0UE0zQ0I0aUFxemEweGg2d3phX0o4VjA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-22T07:52:00+00:00"
+    },
+    {
+      "t": "원/달러 환율 1324.2원…5거래일 연속 연저점 경신 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FVWZNVEI0ODgxNTlXdkxndUgtV05mVEpVWm9uRWtOSWVNVlFLa1FDd1lnVGNPTS1fNE8yM3VSR25FZU5xclVydlluQ3BFVEtDMTJDTU5BOEpXTnZHVlZHMEFfdjg2VjY3ZHFv0gFwQVVfeXFMTnVaWWRzQjdwd09JZjN1clZDbFlMMVV6WVA3QTl6dXNienhKWVg5dEdHeVlDRkNCc1MyX05BT1A2bVAzNGo2SXhYSWlLOVE2eEtBaWJJVUNZeFdMWktCUlRScV9JMGtFc1dQX1hOQlBxRg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-10-22T07:51:46+00:00"
+    },
+    {
+      "t": "[이슈] 신현송 한은 총재 \"주가 조정, 소비에 일부 영향…반도체 수출 호조는 긍정적\"",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84ek81NXRJWEpzZG4xZ1lteV9zbV9VR0RyYmE2QXBKSzd5cFU4T0xRSG9HVndsMkNscUppMG5QSy10VjJHTWt1VTZvenFEVVY4NVFnYUJnLWlRcGlzUjBPZE9rZXJLcTV5?oc=5",
+      "s": "팍스경제TV",
+      "d": "2026-10-22T07:50:08+00:00"
+    },
+    {
+      "t": "한은, 기준금리 연 3.00% 동결…연속 인상 후 '숨 고르기'",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43dXo2QTR3djRCT2ZXcGdtYTdIcmdiZnVMeHJMbDlveHUtMmNYWi01d1pfaGZpQkdMMkVEajEwZWZCUEppX0tnbnprVXdHdDhFVGJsak9LOFI3aXk2RThOS2EzNlRQUHBfMWlzOG0zbVpMWDhzSEE?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-10-22T07:48:26+00:00"
+    },
+    {
+      "t": "국고채 금리, 금통위 소화하며 혼조세…국고 3년 3.84%(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sVWdZZlY4bTlBVTVhNkdxMDVvdHU3X19mdVRoaTdqMUphWGJGRU5ZdjRlSk5mMVBfTjU3akxTVDFXdGNFUlB0NDc1UWNBRy12X0tXTjhvanA0Yms?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-22T07:47:36+00:00"
+    },
+    {
+      "t": "이찬진 \"은행 금리 결정 과정 공시 검토\"…가산금리 인상 논란 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tNVNPRzFBYVJzRlQ5MkQ4cnh5UFE2OHpWYmxqWjdLZjRZb3RuTWt6d3hLTC1qbEN2eVotOGdpYzg4TjBHWHFxS3pEeDJlSVVQZDEzWG9Ic0JLdlRhUVZOcklfR1lEUTdvNWtXV2hfeHc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-22T07:43:00+00:00"
+    },
+    {
+      "t": "영국 FTSE 100 하락: 중동 전쟁으로 유가 상승, 광산주 약세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EU1dMWVIwOGE1bl9DVmFTXy1Ja3lGT2FwNElIOWNrcENXVlo4OWdCNmlyUTVMcU5zSWU1LWRyT1JTaFpHN2w3a2Q4Q3Q2bUtVQ1FJMWFiV2YwRDFWYmV0YUViY0dtcm44dFN5WHlHSmY?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-22T07:38:00+00:00"
+    },
     {
       "t": "신현송, 2년 연속 3%대 고성장 시사…11월 금리 인상에 무게(종합2보)",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dHhRanpxTXdxZ2pfOXJSNllCNjhIdFJaMk5OcEp6NXFUcDZmNmlFVzZDRFV4eVlIcGNVdVFsNEZsX25FNXdBRnNnRUlxRi1Ga2FxaFBTY2FZYzBVZ3N0Tw?oc=5",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZVNkMktHWi1sYThsZ2plQk40TmNGSG51bE1mMHZkeWZHWDNwS0xSZlhEMUNmemplWG1NVHJNS25ZanBzSkFCaXJkUDJzVGpXcEU5OVFJN1VURUxUZkdLdTUtMjRDZGw5NGc5ZQ?oc=5",
       "s": "인사이드비나",
       "d": "2026-10-22T07:28:08+00:00"
-    },
-    {
-      "t": "한은, 11월 기준금리 다시 인상 관측 지배적···“10월 금리 유지는 호미질 결실”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55aUFUUjZiWFlBakFDLVl1amR2WGhUQ1c5dmVWRE02SGZLbU1pVmt6WndUMUxYSnYxS2w0T2RiRmtmMTYtWXhRV1BJQXRnM0p2UV9BbGs2Sm1lQdIBX0FVX3lxTE5Vc0lsemVfLXdVaXAwUmVxQ0MzOTlzZFRieHlscTAxNkNkQ3ZhNmdHNEpUeTJ0cEZ3WWtRXzlyTTFzSU85NGw1MXA3VTRuWDM4aEh1d196Q2EwcnczZXVZ?oc=5",
-      "s": "경향신문",
-      "d": "2026-10-22T07:28:00+00:00"
-    },
-    {
-      "t": "코스피, 하락세 지속에 3.5% 하락…4월 이후 최저 수준",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tTzR5SGhXV0hSM2VhYmtPeGhkcnRIcFktblM5TnNXMUt6RzZvNmxXclZaTmhjd1RWbGlsekJ1NlMtampabVp6V3lsSW9KZWF4VTRvaFJ5aC1DMHNQT1ozUDRWNzA?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-22T07:27:36+00:00"
-    },
-    {
-      "t": "“코스피200 주식 선착순 증정”…IBK투자증권, 기업은행 연계 계좌개설 이벤트",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EU1hVNGZwNmJJUnY2SFhJZ0FfeV9YekZkQS11ZUJhcV9qeklvUW9LNEZKOHBoVmJId3ZhNko0aWRpUmFSeVpMNWNobXJPOTcwQ0E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-22T07:24:33+00:00"
-    },
-    {
-      "t": "NH농협은행, 신용·주담대 0.1% 추가 인하…\"전세대출 금리도 내릴 것\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UeXZLX21iWms1endmT0FIVUpNOTAxUE5naFdOeUZzM2hBSUQ0SndOaEpZRDlJVU1TTGNIR3c5R3c3cllUVWZOY25Ra0wzWUdKWFI3TG1XV0pHRnJUeVVrQ2ViNzBvNDI3MVJ6VkE2ZFA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-22T07:23:11+00:00"
-    },
-    {
-      "t": "[마켓뷰] 메타·테슬라 실적도 못 가라앉힌 AI 우려…코스피 3% 하락 마감 - 조선비즈",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOWxsRFZZbzFFWC1XZ1BXNnQ0T0ZrdUpXRUZTMjdpM1NyWGl1aGMtRTNmWnBNejE3MUtUNzliWGhiU0czMnBaS0Vfd01BaF9TTW41MEI0bmlBSnhDRTJXczNIQ2Z2bHJuUWt0UzkzZS1iS1g4MFdqdGVjLVljSFVNUENDVjE2UUFN0gGcAUFVX3lxTE54Y0dnT3VKSUszWjhxQWZuSTJkb3Vwb19GR3NNYW1NeXU2eUhYV0xMQWh5UDRtZU5HYW1oa0U1T2FHclVtZVBMUFhnZXdRbmZTSGx6OVNnQnpBLU1uelBVeS1KWUF0ejVUdVNOQ3dWbkMzSmdGYUY4djBhS0NmT1hSR1p6U0pUOS1nNWJMRTVNTGEzY01jQkROZzZRbQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-10-22T07:17:00+00:00"
-    },
-    {
-      "t": "두 차례 긴축 뒤 '속도조절'에도…'11월 금리 인상' 수순",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VX3BLV3p3MGhPLXRXbWJHWUI3b3ZzamtBTFVmdnBQRXVWVzItM05TdHpRZUlDV3BUa1dCeEZkWWVrNndjS2c0Q2ljMjY4SVZkTEVmcnU4QnBpOURxcWNhMA?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-10-22T07:11:51+00:00"
-    },
-    {
-      "t": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxOWk2MGtwQU5hS3p0QmJacG9vdmRwNG12WV83TXZNRjlJUi10b3V6UVZJYlJsZDhQTWJDeUdpTzlXd1dHMkJ0WUVpdUEwUWxDUEQ0UEduYjRRM1nSAWBBVV95cUxQajVwWTJGT3p1cG51LWc0NjRyeUhLU1cwcTdPQ2o5UlRlT201MmJ1WjYta1FaLXFYcnBlM2RFQWFSSWx5MVhTOEFVSGJNc3I1WlRyT2w3ZnVQd3NxYmZScjA?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-22T07:10:00+00:00"
     }
   ],
   "asof": {},
