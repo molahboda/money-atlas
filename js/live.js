@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-22T23:45:11+00:00",
-  "quotesAt": "2026-10-22T23:45:11+00:00",
-  "newsAt": "2026-10-22T23:45:11+00:00",
+  "fetchedAt": "2026-10-23T00:00:11+00:00",
+  "quotesAt": "2026-10-23T00:00:11+00:00",
+  "newsAt": "2026-10-23T00:00:11+00:00",
   "quotes": {
     "kospi": 5533.77,
     "spx": 7663.43,
     "nikkei": 62907.84,
     "vix": 19.03,
-    "krw": 1325.4,
-    "gold": 4038.6,
-    "wti": 99.64,
-    "dxy": 101.57
+    "krw": 1325.78,
+    "gold": 4036.9,
+    "wti": 99.43,
+    "dxy": 101.58
   },
   "daily": {
     "spx": -0.64,
-    "kospi": -0.34,
+    "kospi": -3.52,
     "nikkei": -2.65,
-    "krw": -0.01,
-    "dxy": -0.21,
-    "gold": -2.68,
-    "wti": 0.17,
+    "krw": 0.01,
+    "dxy": -0.2,
+    "gold": -2.73,
+    "wti": -0.04,
     "vix": 14.09
   },
   "news": [
     {
-      "t": "오산시, AI·반도체 소부장 기업 유치와 지역인재 채용 연계 추진",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43aWQwRGI3SkxQbjNycTdnc3VwaFhHeTc3R09RaGRvRUFkcGRCdHo1U280LWxabEFjYkJqZmQtY0pxRjVPc0t2NGVUd3dzUTN2N2RjOVd0RXd6eG02TVBSMmxuREg?oc=5",
-      "s": "매일일보",
-      "d": "2026-10-22T23:34:28+00:00"
-    },
-    {
-      "t": "[증시 포인트] 하락 출발 전망...당분간 관망 대응 필요",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91YWc4NXlJY21qWGlOWFNMbE5MRUc0ajBQMDRVNFFERk5RTUMyLVJpc0FZamdrQ0ljTXRTb2lqbHNCT0Z0Z2RyQ2ZDQ0RxTXRlQnplczZzZGlsRTRyUHNrTXlXUkxCdWZkb0R0dk9hY2w?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-10-22T23:30:32+00:00"
-    },
-    {
-      "t": "美 기술주 폭락, 코스피 톱 110 모두 '파란불'...삼성전자 4% ↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RUJKaHhha0daX1AzQmJYU3Z0blhWYnpqblJJV1o4U25LU3pEYnZIOXlrTG5zd0hqZkc0RlBycDU3eFI2c1RGSExHR1NXRks0ek5uUTVabEhyWUlkUFlMaWlVMlJ4VEpMeFphenNfU3Y?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-10-22T23:30:08+00:00"
-    },
-    {
-      "t": "AI 투자 우려·중동 긴장에 美국채 강세…10년물 금리 5% 아래로 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HZ05mSmJTSG9lSlVpdGQ5Wm5acExvbHkyWXpPTHhGOVUzM2pMQ2hGOEdydmVfQWZmc01BdkROXzhGM0RPYTRUOUFNU1B2NVVYWjUtSXZXWU8tdWlsXzcxWVdsNDNZOEJsM1Nwb0lDMDI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-22T23:29:00+00:00"
-    },
-    {
-      "t": "[마켓뷰] 美증시 하락·유가 상승…코스피 또 내리나",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cGNDZFNwcDlNeEs0dVNLbW02ZlFWbzBBc1A4QmJqc29JOUF2SllfNG41RGwzbm5FMU8wNGFVTkpqTDNkWms4UzlhQlMxVkJfWHBhNENCanUwN3fSAWBBVV95cUxQZVRFYldqcUtDRkcteExxVnM2a05YYjZyWXFlVmt0NVZlNElIVERMNEdhZ2g2NDgyTVU2d2w0ZVJ6WlNzbGJNdGtaSTBhMTlwRzNkTDJFRXMzdGpldXhoSkI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-22T23:25:56+00:00"
-    },
-    {
-      "t": "[굿모닝 증시]'AI 불안감 지속' 美 혼조 마감…韓 하락 출발 후 낙폭 줄일 듯",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MQnZZNk0weFo5Sk9ZekREcGJTVkhvLW93ZkkwTV9HQkUtQ2x0d3d3WVZIYzN1Rk8wY3ZIYkEyTW5NSnlaTEJJZ3JrQ1FNUjdDWWZBVFpwSVJCYXUzMFNscXlB?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-22T23:21:00+00:00"
-    },
-    {
-      "t": "SK하이닉스, 솔리다임 美 상장 결국 중단…AI 반도체 투자 자금조달 '재검토'",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15a2VkWjNldmpuVHgyX0NuSmw3c0RPRW1ZbXM1N0t1dGJ1aTZBWFpKNFJ5U0VYUy1nWnd0aXgtOHNUWnNQYmluNkMxcWZOMjJ5VlM1RUxQMFN0cVh6RVlPTlFvSEVUSFJiUXhjcUFDSQ?oc=5",
-      "s": "조세일보",
-      "d": "2026-10-22T23:20:22+00:00"
-    },
-    {
-      "t": "기업은행, 소상공인에 1.5조 금융지원…금리 최대 1.5%p 감면",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MT0lDWHRxaGN5b1UycVJUQ2NOMDVlY1ZIdnpTTjZaTWxOaV9zZEwzbm5fOWpnb1VsUmZHX1JJd2hSeVJhRm83eUVHSWhnMU9EeHFjalFDNEdYUUVNakQ1YzRibzM?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-22T23:19:30+00:00"
-    },
-    {
-      "t": "[시황] 미국증시, AI 투자수익성 우려에 기술주 급락·다우 강보합",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HZm1TRU9zd0dTbFlNaTRkSjBNbEVWT05SWXlEUXcwSE9NY0dLSG14OFhHWUFqc19sRjRsWXk1dlVzYkhvZ3JZRThzekF3OE1ZblRtZVhlWUFRdURBUDlwZlJB?oc=5",
-      "s": "버핏연구소",
-      "d": "2026-10-22T23:11:56+00:00"
-    },
-    {
-      "t": "아메리칸항공 \"유가 내려도 항공권 가격 이란戰 이전으로 안 돌아가\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53M3BwSEgya2tyYXlCLXpJQzZPd3dEbXNwR2dFaTA1LXJ4R01vMUhIMFdqdklGVjAxbGgxUGVNem8yeUpmSVBhMnN5bHVFb1htLXlTTVl0V2RJWFNR?oc=5",
+      "t": "[AI MY 증시전망] 나스닥 2.6%↓·반도체지수 6.7%↓…국내 증시 변동성 확대",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMUlMRW13Wm02TlY0NUFhSnBNa3dta1hVLXZpdnJjUEJseFh4My1Fc2V3SFZQZGJoOVg1eElRYVkwQXhWUTl2cnpSTGpwbUZ0SWtRTGV3bjhNQjJK?oc=5",
       "s": "뉴스핌",
-      "d": "2026-10-22T23:11:00+00:00"
+      "d": "2026-10-22T23:55:00+00:00"
+    },
+    {
+      "t": "신현송의 경고\"환율 더 떨어진다\"",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93azBGdE9LVFhrYXJYZG9PR255dnE3RktBdHpCOTNrRGZWb0FZNk9TMXhNNVdrSHdXMjlKZ01FUkpkMmNvNEZ5U0JjbHZQb05vZUU0c2pWLWlLOXp6VEdTaEwwaHd2RXBFYk9YdFppUzZVa1BZVy1r?oc=5",
+      "s": "www.thecommoditiesnews.com",
+      "d": "2026-10-22T23:53:12+00:00"
+    },
+    {
+      "t": "[모닝 리포트] \"메타발 악재 이미 선반영...하락 출발 후 낙폭 만회 기대\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90R0xQZ3lmME12WXBDWDEzQVc2bVVMSkw3MU9GdXAtTkRHOXFHWEllb3R2cnRFSGxsTmhITWVkaU9OSURVdk9FUjVrOG82YWJDUlNOczZMZ1R5NExk?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-22T23:53:00+00:00"
+    },
+    {
+      "t": "SM국일, ESS·반도체 장비업체 대진기계 인수 추진",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkZHB4ME5xYXlZWGtrYXpBZDMzNWFxNVRqOExBWG1kc0hkbWN0MHU4VGVpLWwyM2gyZzlXZDM2aUZKM2JGck1sZTJKSHcxaFRna2c1RlBRbXhzWTJRNkhfYQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-22T23:52:49+00:00"
+    },
+    {
+      "t": "[기고] 반도체로 여는 전남광주 100년, 이제 시민이 나설 때다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFSFJITmptck14TGppYTBnM3prQlJROHV6cnpQeGEyX3hnbmE4MGUwYzlNNWNtdVE2NlhRVkdrQ2RGcHdDM2t1T3JHUFNDZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-10-22T23:50:53+00:00"
+    },
+    {
+      "t": "日銀, 금리 1.25% 동결 전망…시장선 12월 인상 가능성 80% By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UUJUMzZxRk5oeWNGOE9ocmY0S0w4WEZQLXpvTGJrWTFZa3F0aTdFc0NRQ3IzX09hRUhaZ1lhazF5X0ZJSUxuRzZYUWZyYlZ4aWtTdHVQVGFSRjhxbExWU1NvNHhZai1zMEZ0LU8xZEU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-22T23:50:00+00:00"
+    },
+    {
+      "t": "[1023개장체크] 美 증시, 메타 대규모 AI 설비투자 및 FCF 적자 전환 속 기술주·반도체주 폭락 By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSFVrX0pORjNCZk1vMFZ3Sk5OUTBqNDFEb3RQelFwWEJRRTFzWVRJcFdWU2d4NTRaZHNFSnRscy1zR280ZFRJeWtzbWJtVGxhMktQUU1VcGxNdlZjTFlfMHpVNVNVcU14LVFaM0RHdks?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-22T23:50:00+00:00"
+    },
+    {
+      "t": "[AI MY 뉴스] 23일 중국증시 '美 기술주 급락에 부담…AI 투자 회의론·정책 효과 주목'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzbjFvRXFpVlg5dkc4ZEZvVXdRMW1XRXFndkNsUU9EZGtTZzl0bmhCSWRQN3NnUkpmX2lxemFodWhXblZxX2R0TnNySzlQcVpRNlBqQ3diM2tGQmNJ?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-22T23:50:00+00:00"
+    },
+    {
+      "t": "[버핏 리포트] LG디스플레이, 환율 판가 반등 트리거 찾기 힘든 상황...신기술 발표는 긍정적 - 신한",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xXzdXN2FWX0xYVEpaWjZZNjVXbDhQaDFyYkdsbURtWUw0U3VMeTMwc2pCbDhxNGs5Rm9vdXJpcGpwcTZDeDFpWVJCSm1ySVFlU2hEWGR2MnhTUmF0ck9QSlNB?oc=5",
+      "s": "버핏연구소",
+      "d": "2026-10-22T23:49:46+00:00"
+    },
+    {
+      "t": "美 주택담보대출 금리 7.32%…두 달 만에 첫 하락",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzVSQjhkaGktSnVTNnRNcU9rb1pWVHI1aTlhaTJuLWxYbjdEMzE1N052Vnp0bzc4TmVrUDIzQmFJVmxGaE9yYXNuQnBJTkFSdjlrQWJVU2xtYmxEMnFwQjFJYWtBVTdjUWVWZXViM3NxeVhSa2ZJN0ltZUFvbWJzU0ZobFpLd1dm?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-22T23:49:44+00:00"
     }
   ],
   "asof": {},
