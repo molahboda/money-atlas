@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-24T13:45:44+00:00",
-  "quotesAt": "2026-10-24T13:45:44+00:00",
-  "newsAt": "2026-10-24T13:45:44+00:00",
+  "fetchedAt": "2026-10-24T14:00:36+00:00",
+  "quotesAt": "2026-10-24T14:00:36+00:00",
+  "newsAt": "2026-10-24T14:00:36+00:00",
   "quotes": {
     "kospi": 5550.3,
     "spx": 7623.68,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[AI MY 증시전망] 나스닥 2.6%↓·반도체지수 6.7%↓…국내 증시 변동성 확대",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IMUlMRW13Wm02TlY0NUFhSnBNa3dta1hVLXZpdnJjUEJseFh4My1Fc2V3SFZQZGJoOVg1eElRYVkwQXhWUTl2cnpSTGpwbUZ0SWtRTGV3bjhNQjJK?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-22T23:55:00+00:00"
+      "t": "싱가포르 GIC·테마섹, ‘인니 증시 강등 압박’ 의혹 전면 부인",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82b2JZNGxEQUhLNmxlVG5tV1QtQ2R6S0kzYjhDZ1JBQWs2U2M2clpVSmNCTVcwNllVdUlFRWwxazhZQXpVdm93S1dLOUxUUQ?oc=5",
+      "s": "한인포스트",
+      "d": "2026-10-24T13:19:17+00:00"
     },
     {
-      "t": "신현송의 경고\"환율 더 떨어진다\"",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93azBGdE9LVFhrYXJYZG9PR255dnE3RktBdHpCOTNrRGZWb0FZNk9TMXhNNVdrSHdXMjlKZ01FUkpkMmNvNEZ5U0JjbHZQb05vZUU0c2pWLWlLOXp6VEdTaEwwaHd2RXBFYk9YdFppUzZVa1BZVy1r?oc=5",
-      "s": "www.thecommoditiesnews.com",
-      "d": "2026-10-22T23:53:12+00:00"
+      "t": "반도체 훈풍에 3분기 성장률 주목…27일 GDP·30일 산업활동동향 발표",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DSkMzbENkdHNweC1HbklhWkMyUDlybmhKNGtjaVJFR0gxQ3J6QndkZ1pqbmtmSGRFSVNCUF9RMlp2VUhYR1lNVWVzYm0xelkxUUw0QlkwWGVtNU1Sb3pVenJXYUk?oc=5",
+      "s": "베타뉴스",
+      "d": "2026-10-24T13:03:24+00:00"
     },
     {
-      "t": "[모닝 리포트] \"메타발 악재 이미 선반영...하락 출발 후 낙폭 만회 기대\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90R0xQZ3lmME12WXBDWDEzQVc2bVVMSkw3MU9GdXAtTkRHOXFHWEllb3R2cnRFSGxsTmhITWVkaU9OSURVdk9FUjVrOG82YWJDUlNOczZMZ1R5NExk?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-22T23:53:00+00:00"
+      "t": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VzdNX3A4a2lDak9Ub3A0elgxSjdLN3I5SUxCM28tZkd5T2VaSGhUZUxrR2N1SUZBR1lzTjRTNklxa2RRdE16VHY3NUd4dS1DNUxoMVI1WnU5QQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-24T13:03:22+00:00"
     },
     {
-      "t": "SM국일, ESS·반도체 장비업체 대진기계 인수 추진",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkZHB4ME5xYXlZWGtrYXpBZDMzNWFxNVRqOExBWG1kc0hkbWN0MHU4VGVpLWwyM2gyZzlXZDM2aUZKM2JGck1sZTJKSHcxaFRna2c1RlBRbXhzWTJRNkhfYQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-22T23:52:49+00:00"
+      "t": "선거 다급한 트럼프, 캐나다 50% 관세 일부 철회",
+      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BTlN6QTJfQjRaNnVLQko2ZjdKMGFEMzg4MXRXMnZaclo4bHZQOXpUdVNSMDlXQl95bTVvdk9ISHd2bi1BTWctUDVSaw?oc=5",
+      "s": "아이뉴스24",
+      "d": "2026-10-24T12:58:14+00:00"
     },
     {
-      "t": "[기고] 반도체로 여는 전남광주 100년, 이제 시민이 나설 때다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFSFJITmptck14TGppYTBnM3prQlJROHV6cnpQeGEyX3hnbmE4MGUwYzlNNWNtdVE2NlhRVkdrQ2RGcHdDM2t1T3JHUFNDZw?oc=5",
+      "t": "“수출·재정 확대가 수요 측 물가 압력 키워…건전성 관리 유의해야”",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKV0hXYUdCT0pOeV9VQnNiWWVfdE4xMXJveHBnRlVPQXZYb1ZpNG55T3luTk1ieWFMX01VcmFSUWRJdHNIUk12R0JkUEVDUQ?oc=5",
       "s": "전자신문",
-      "d": "2026-10-22T23:50:53+00:00"
+      "d": "2026-10-24T12:39:17+00:00"
     },
     {
-      "t": "日銀, 금리 1.25% 동결 전망…시장선 12월 인상 가능성 80% By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UUJUMzZxRk5oeWNGOE9ocmY0S0w4WEZQLXpvTGJrWTFZa3F0aTdFc0NRQ3IzX09hRUhaZ1lhazF5X0ZJSUxuRzZYUWZyYlZ4aWtTdHVQVGFSRjhxbExWU1NvNHhZai1zMEZ0LU8xZEU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-22T23:50:00+00:00"
+      "t": "중동 해상수송 불안 확대 등에 10월23일 국제유가 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NDFUZm13M1A4bVV1aHJXT205Q2RodkRPR1hPenlKTzFiS29KX2doeTBxZ18xbTBhSkFaOUJ4WVVKTDRVVVZNTjhDTHZucHRmeXFiMHVoQjQxNXdkaDJSWjhIdmJ0ZjRBUVp4OFg4c2ttdw?oc=5",
+      "s": "에너지신문",
+      "d": "2026-10-24T12:20:49+00:00"
     },
     {
-      "t": "[1023개장체크] 美 증시, 메타 대규모 AI 설비투자 및 FCF 적자 전환 속 기술주·반도체주 폭락 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pSFVrX0pORjNCZk1vMFZ3Sk5OUTBqNDFEb3RQelFwWEJRRTFzWVRJcFdWU2d4NTRaZHNFSnRscy1zR280ZFRJeWtzbWJtVGxhMktQUU1VcGxNdlZjTFlfMHpVNVNVcU14LVFaM0RHdks?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-22T23:50:00+00:00"
+      "t": "공식 깨는 인터넷은행…금융상품에 ‘선택권’ 입힌다",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9POTk3dVZBSngtOGluc1NlMkRLRV9SN2VqMnNnZ3JzTGhlY05NTE5keV82M0FXWWJUOEhFdzBmUU9WMDRWM1NHdE8waldJZmNQbF9WOEdhZWJoMUlYVV85OU9nMA?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-10-24T11:21:00+00:00"
     },
     {
-      "t": "[AI MY 뉴스] 23일 중국증시 '美 기술주 급락에 부담…AI 투자 회의론·정책 효과 주목'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzbjFvRXFpVlg5dkc4ZEZvVXdRMW1XRXFndkNsUU9EZGtTZzl0bmhCSWRQN3NnUkpmX2lxemFodWhXblZxX2R0TnNySzlQcVpRNlBqQ3diM2tGQmNJ?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-22T23:50:00+00:00"
+      "t": "머스크에 울고 웃는 삼전닉스...반도체 주가 향방은 [김기혁의 테슬라월드]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQcHp2Umh3QVZMWXJnS2hXUE5qRGdpQ2RBMXJFNjkyakd0WndjR3VPNmJ4M3plSXNNMVl0NW10SU44RnhNcDJVUTJQVXRDU3VyTVHSAVNBVV95cUxNa1VNWTZlOFpWdkY5NldZX2UxekM2TzRqTU1MbzFBY2hiR2lwbjNzcDRzWnBKbmh6TktMcGlmcjNYYThieV96dmp3cnVpWmVQV0ItVQ?oc=5",
+      "s": "서울경제",
+      "d": "2026-10-24T11:01:00+00:00"
     },
     {
-      "t": "[버핏 리포트] LG디스플레이, 환율 판가 반등 트리거 찾기 힘든 상황...신기술 발표는 긍정적 - 신한",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xXzdXN2FWX0xYVEpaWjZZNjVXbDhQaDFyYkdsbURtWUw0U3VMeTMwc2pCbDhxNGs5Rm9vdXJpcGpwcTZDeDFpWVJCSm1ySVFlU2hEWGR2MnhTUmF0ck9QSlNB?oc=5",
-      "s": "버핏연구소",
-      "d": "2026-10-22T23:49:46+00:00"
+      "t": "미 중간선거 앞두고 국제유가 급등…국내 기름값은 변동없어",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IYjFyeUxXNHFOdHQtcnhhX2NUMlRRWGxwTjZSTnJmemlFalN1bGNwNmM0YVBQS09PLUN1cGZPWVZ5R3dsa1lEQV9scjItT1Q2Nkt3VVp0SjRzcDhoNUpXYll1RzlUaENrQkNUVGYwcHJNc25I?oc=5",
+      "s": "부산일보",
+      "d": "2026-10-24T10:37:49+00:00"
     },
     {
-      "t": "美 주택담보대출 금리 7.32%…두 달 만에 첫 하락",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzVSQjhkaGktSnVTNnRNcU9rb1pWVHI1aTlhaTJuLWxYbjdEMzE1N052Vnp0bzc4TmVrUDIzQmFJVmxGaE9yYXNuQnBJTkFSdjlrQWJVU2xtYmxEMnFwQjFJYWtBVTdjUWVWZXViM3NxeVhSa2ZJN0ltZUFvbWJzU0ZobFpLd1dm?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-22T23:49:44+00:00"
+      "t": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQVRRSmZVQWNpbVlqQXUwVDVJQWluOTVNNk1fTFJEUjgxd0VjZkhUb1R0QjlwMVN0bTZZbktiUDQ3QmQydlRfOGhZY0xSZUJNUWFfTkpDQVZLdw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-10-24T10:00:00+00:00"
     }
   ],
   "asof": {},
