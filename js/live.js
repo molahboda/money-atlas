@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-25T15:45:37+00:00",
-  "quotesAt": "2026-10-25T15:45:37+00:00",
-  "newsAt": "2026-10-25T15:45:37+00:00",
+  "fetchedAt": "2026-10-25T16:00:35+00:00",
+  "quotesAt": "2026-10-25T16:00:35+00:00",
+  "newsAt": "2026-10-25T16:00:35+00:00",
   "quotes": {
     "kospi": 5550.3,
     "spx": 7623.68,
@@ -25,22 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "반도체 산단 조성에 맞춰 JTX 조기 추진에 총력",
-      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbC1nTDdmRVB2TkZVUWJJdUtKR2NhSDhzMzMwVWhRdFgxVHpBbE14dERmS1BDNlRiT0NDRFM1OXRMMklXaDNsRVJaaHZ5QzJYdEs3ODd0eDk4ckk4TVlaVld6QlR1SFBZa0tocXpWNnJtS1RGWE9YdzJfNGJsMzNLc2dQcm01N3lOWGpQY3FLcmM?oc=5",
+      "t": "삼성 반도체 평택캠퍼스 ‘배후 주거지’로 주목",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVVEaUxOOFdUMVczYVlfM1ZfZ3N4ZE9IMWNmWUtRTEJTSXVkQm5jcFRObVhnZ0hjY0pLTjJqMk5qVWxudEtJNm8xRjMzWDZRY0wzZlUySVp3Wm5XM1BHa0NQVElUNlpiV1kzOC1IbTg2UVhUT28tVWFsQUJ5c1YwLTNlMl9EMm94?oc=5",
       "s": "조선일보",
-      "d": "2026-10-25T15:37:09+00:00"
+      "d": "2026-10-25T15:37:00+00:00"
     },
     {
       "t": "\"반도체 용수 지원… 체계적 지역 발전 필요\"",
       "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWY2aHItMHNReFJRbWRXMGxJbWlHaFB0aEpDdGtzOXdSNlgtdFFad2lnbDY5N3h1SURiVHcxX1NMRmVxWVpFWXZSUElKVHh0VFNiOWlYSUZHbHNnX0hYZHhxMGxETUZSSlFKZ2dxd0lPTld1YlZBSTdJMnNzU1ktdlpTMXdEMEh4WlI5OW1LUGU?oc=5",
       "s": "조선일보",
-      "d": "2026-10-25T15:37:05+00:00"
+      "d": "2026-10-25T15:30:00+00:00"
     },
     {
-      "t": "삼성 반도체 평택캠퍼스 ‘배후 주거지’로 주목",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVVEaUxOOFdUMVczYVlfM1ZfZ3N4ZE9IMWNmWUtRTEJTSXVkQm5jcFRObVhnZ0hjY0pLTjJqMk5qVWxudEtJNm8xRjMzWDZRY0wzZlUySVp3Wm5XM1BHa0NQVElUNlpiV1kzOC1IbTg2UVhUT28tVWFsQUJ5c1YwLTNlMl9EMm94?oc=5",
+      "t": "반도체 산단 조성에 맞춰 JTX 조기 추진에 총력",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbC1nTDdmRVB2TkZVUWJJdUtKR2NhSDhzMzMwVWhRdFgxVHpBbE14dERmS1BDNlRiT0NDRFM1OXRMMklXaDNsRVJaaHZ5QzJYdEs3ODd0eDk4ckk4TVlaVld6QlR1SFBZa0tocXpWNnJtS1RGWE9YdzJfNGJsMzNLc2dQcm01N3lOWGpQY3FLcmM?oc=5",
       "s": "조선일보",
-      "d": "2026-10-25T15:37:00+00:00"
+      "d": "2026-10-25T15:30:00+00:00"
     },
     {
       "t": "피에스케이 용인 반도체클러스터에 1800억원 투자",
