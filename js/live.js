@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-25T15:30:39+00:00",
-  "quotesAt": "2026-10-25T15:30:39+00:00",
-  "newsAt": "2026-10-25T15:30:39+00:00",
+  "fetchedAt": "2026-10-25T15:45:37+00:00",
+  "quotesAt": "2026-10-25T15:45:37+00:00",
+  "newsAt": "2026-10-25T15:45:37+00:00",
   "quotes": {
     "kospi": 5550.3,
     "spx": 7623.68,
@@ -25,8 +25,26 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "반도체 산단 조성에 맞춰 JTX 조기 추진에 총력",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbC1nTDdmRVB2TkZVUWJJdUtKR2NhSDhzMzMwVWhRdFgxVHpBbE14dERmS1BDNlRiT0NDRFM1OXRMMklXaDNsRVJaaHZ5QzJYdEs3ODd0eDk4ckk4TVlaVld6QlR1SFBZa0tocXpWNnJtS1RGWE9YdzJfNGJsMzNLc2dQcm01N3lOWGpQY3FLcmM?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-25T15:37:09+00:00"
+    },
+    {
+      "t": "\"반도체 용수 지원… 체계적 지역 발전 필요\"",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWY2aHItMHNReFJRbWRXMGxJbWlHaFB0aEpDdGtzOXdSNlgtdFFad2lnbDY5N3h1SURiVHcxX1NMRmVxWVpFWXZSUElKVHh0VFNiOWlYSUZHbHNnX0hYZHhxMGxETUZSSlFKZ2dxd0lPTld1YlZBSTdJMnNzU1ktdlpTMXdEMEh4WlI5OW1LUGU?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-25T15:37:05+00:00"
+    },
+    {
+      "t": "삼성 반도체 평택캠퍼스 ‘배후 주거지’로 주목",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVVEaUxOOFdUMVczYVlfM1ZfZ3N4ZE9IMWNmWUtRTEJTSXVkQm5jcFRObVhnZ0hjY0pLTjJqMk5qVWxudEtJNm8xRjMzWDZRY0wzZlUySVp3Wm5XM1BHa0NQVElUNlpiV1kzOC1IbTg2UVhUT28tVWFsQUJ5c1YwLTNlMl9EMm94?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-25T15:37:00+00:00"
+    },
+    {
       "t": "피에스케이 용인 반도체클러스터에 1800억원 투자",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCQ2dyVjJyTUdROHpUY3hRbWdFUzItRHRxQWg4dVlscHJMV1ZyakNqNkgyYzZhcHNWd3YwTUtqd0w5TmQxUEtUTTNGSkpNenEwWXFMRWo4RXowRl9JQ0RF?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFOUV3Y2oyd253YlV2XzhzQWNYcmRZWXF1aDVfNkFBMUFtMUE1TEc0UFIydGRCX2RwRGNreG5nLUg3dXVPckdYTUJXRHpqYklGM2JBV3NRWHh1RkxrZkdPcQ?oc=5",
       "s": "제주교통복지신문",
       "d": "2026-10-25T15:17:35+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jV2xCcTBmSmRkZkc1WU5DS250cFY3TVctUDFVYmZHSmF5Ulo4UGpUSlBDNXJfeEhINlVDLVhYNjBWMjVMNGlyR2ZYV1FVaFEtQ3hfVXljUkR2cnBC?oc=5",
       "s": "뉴스핌",
       "d": "2026-10-25T15:02:00+00:00"
-    },
-    {
-      "t": "보험 해지 급증, 증시 이어 금리도 변수… 자산시장 파장 경계",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZLTN5TVgway1wbEY5cTN2WWZ1dnc5ZndxaC1nMDJ6SlJzVUJZQkhJQVk4aXRUWXVSYjktYlMtXzMwWUctTnpYVWNkakJoMHlMRVFrZ1B6MzdNYS1ETG5IaTcxQlJhTDlaR1V30gFvQVVfeXFMT0xaUU02UFcydGMtNFhDSmJYQVFfaWJleldhWWVUNjZlUWpmcW9CNGk3LXlWSVVjQ1ZkWU1EUmZWMlRCQ2lTcWF1cmpmNEt1SXYyZTlLa2FQNFE3MUN1bzZKTzVIbmZzZFlKX1pQem5Z?oc=5",
-      "s": "한국보험신문",
-      "d": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "t": "추미애 경기도지사 “재정·반도체 혁신 단호… 소통, 도정의 기본될것”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hQmgtSjQyRXEta19pTnRPTHpJNmdybEtpb0NVMkN2VmdnVjg2ei1DaVB5MmxDOXJwMXA1Q3VSbHgyUEpnR0IwYUpNZ3FBa2hkalE?oc=5",
-      "s": "경인일보",
-      "d": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "t": "[김대호 진단] 대통령의 이상한 포트폴리오 \"반도체 메모리 저주\"",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVhETVQ2LTJIRldFeV9EQVIyMV9vTnBaQkp0Vlo0U2tuTE9QMEtzZjNrQ1ZiNVRidjBEcWpFQUtubXRkVVBoREhSeUI4T2UxNElTTDdTN1JSb0sxMjlRU2ltWU1JSENrUVUxVGtSRU03Rk1JY29abkR2S2JXaXJvZjFVaEI?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-25T15:00:00+00:00"
     }
   ],
   "asof": {},
