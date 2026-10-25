@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-25T15:15:34+00:00",
-  "quotesAt": "2026-10-25T15:15:34+00:00",
-  "newsAt": "2026-10-25T15:15:34+00:00",
+  "fetchedAt": "2026-10-25T15:30:39+00:00",
+  "quotesAt": "2026-10-25T15:30:39+00:00",
+  "newsAt": "2026-10-25T15:30:39+00:00",
   "quotes": {
     "kospi": 5550.3,
     "spx": 7623.68,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": 2.21
   },
   "news": [
+    {
+      "t": "피에스케이 용인 반도체클러스터에 1800억원 투자",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCQ2dyVjJyTUdROHpUY3hRbWdFUzItRHRxQWg4dVlscHJMV1ZyakNqNkgyYzZhcHNWd3YwTUtqd0w5TmQxUEtUTTNGSkpNenEwWXFMRWo4RXowRl9JQ0RF?oc=5",
+      "s": "제주교통복지신문",
+      "d": "2026-10-25T15:17:35+00:00"
+    },
+    {
+      "t": "대덕전자, 반도체 설비에 6150억원 투자…2030년까지",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tTk1Mazd1RFU0bXh5OVVEWjBPcUUxTG1hRlNzV2NXZ2pKa2NMQ0t4UnB4cDN5RDFOZzdrZ2pBcHFnTTdXTVp5ZF93clFvRkZXb2w4ZWFRY2pyMUJYeVkxLQ?oc=5",
+      "s": "제주교통복지신문",
+      "d": "2026-10-25T15:15:29+00:00"
+    },
+    {
+      "t": "[사설] ‘주 52시간 특례’ 없는 특구법, 반도체 전격전 공허할 뿐",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnBYU1VqU3A4Y0F5cXJPRXQyOXk0c19zQ1hwVldKNjFfOWhnVmZaN1R0dUx4RHNwM2lCcXBrMVVTckhuTUhWeXNzSi1pRUNDWGFxenlwdVBLT3JEYW5LWmdUMHJrNHozOVNYUzUwcWxNeWZKem9ySDZkcHlEVlpSWTFB?oc=5",
+      "s": "서울신문",
+      "d": "2026-10-25T15:14:44+00:00"
+    },
     {
       "t": "반도체가 만든 경이적 경상흑자…독·일 합계보다 많다",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rNFRRTGpQR3hUMU5ncEdNWDF4N2ZKWm1rX0xaY3JmUGM2Qm1POGJ5dXQ4QXB3NThRbzIwb3VURm9wZ2FXTl9zR1FNQ1BfXzI4ZXVHQlZ3?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVhETVQ2LTJIRldFeV9EQVIyMV9vTnBaQkp0Vlo0U2tuTE9QMEtzZjNrQ1ZiNVRidjBEcWpFQUtubXRkVVBoREhSeUI4T2UxNElTTDdTN1JSb0sxMjlRU2ltWU1JSENrUVUxVGtSRU03Rk1JY29abkR2S2JXaXJvZjFVaEI?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "t": "윤종규·윤종원·박종복 ‘3인 3색’ 리더십…금리·보안 난제 산적 [은행연합회장 레이스]",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fUWNXb09RU2o3SHlEODA1NnNKWEZreUs5STJiQ3dLVjJaMmpJNkRWc2FwcWM5bGRWaE9HME5WX3VBckxVZTVyVGZhV3EzTlZqVHhOeUVTR2xYXzR3bVNhNU9PU3FVVUViWlNuMkVBNUpRTnRwS2d6SDRsY0E?oc=5",
-      "s": "한국금융신문",
-      "d": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "t": "중국 생명보험시장, 사망보장서 노후소득·자산관리로 전환",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JYVQyMmdCTXRucFBNQ0ItU09lOGpaREl4TmVfY29jR19Zd05UamgxT3NrazhyVTBXZTJxTUF4bVBnNDV1Y0ZVQzJDcmxqYlZ4b19iSEViUUE0OGlWSWl5ZVpGdk92U01MeG1v0gFvQVVfeXFMTkplaVVaVWp3cEZ5dGRUOE5JUzNYSnUzYllodzAtM0dOWF9nZ0lBUk5MaEpPMjZlU1c0cl8yY3Y0RDBSTDBNekRCakxFclZwMGdLc2N5MjZKNm5TTGlOa1JxbWU5TEJaWEV1NXRfSzVn?oc=5",
-      "s": "한국보험신문",
-      "d": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "t": "골드만삭스, AI 주식 매도세 속 코스피 목표치 25% 하향",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QYjJmSmtzZFlDZmNPZklJTVJqY1JjV3NiZjBXX1paRlZCNHZNVWM1SUJqZWRic2JMQWRnOHJNa1dqa0RXQllyQWZoWmRqeXRlVU05eTYtYVZsVW5MdWFfdjRtaWNSVWxBdWc3Yzg1a1k?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-25T14:54:14+00:00"
     }
   ],
   "asof": {},
