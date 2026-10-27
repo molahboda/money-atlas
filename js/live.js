@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-27T08:30:34+00:00",
-  "quotesAt": "2026-10-27T08:30:34+00:00",
-  "newsAt": "2026-10-27T08:30:34+00:00",
+  "fetchedAt": "2026-10-27T08:45:34+00:00",
+  "quotesAt": "2026-10-27T08:45:34+00:00",
+  "newsAt": "2026-10-27T08:45:34+00:00",
   "quotes": {
     "kospi": 5638.34,
     "spx": 7676.77,
     "nikkei": 63268.37,
-    "vix": 18.38,
-    "krw": 1326.11,
-    "gold": 4009.9,
-    "wti": 102.3,
+    "vix": 18.43,
+    "krw": 1325.93,
+    "gold": 4007.2,
+    "wti": 102.44,
     "dxy": 102.16
   },
   "daily": {
     "spx": 0.17,
     "kospi": 1.59,
     "nikkei": 1.73,
-    "krw": 0.33,
+    "krw": 0.32,
     "dxy": 0.2,
-    "gold": -0.71,
-    "wti": 0.53,
-    "vix": -0.05
+    "gold": -0.77,
+    "wti": 0.67,
+    "vix": 0.22
   },
   "news": [
     {
-      "t": "'앤트로픽 훈풍' 코스피 5600 탈환…내일 SK하이닉스 실적 고비 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1N1dxdW9XOFEwaHI0T1h1dDhEQk50blNxRVYydnN1WlJpRVg3TUtUZVRwMGZLRFJpcXZjX3NaT2poZVBkR09JM0F6ckhXdFJWdGU2bWl0dlFCT0lvcGxpNFJfYWR0Y3NDeXRPNDliTVJSUTZ3MkHSAXtBVV95cUxQcFNLZ0x4YnlGUlM0OFlycXpUaTBnWF91eHplNVF4X2hfVEtKXzVINU9rS0RyRndCQVJSaVgweU1DZUIxNTJGN3hsRXdOZVFKYzNSWEZreEpGV2cwX1BOYXJxQmdRTzI4NjliQ2RVMGlKSjdpMm1BclhDamc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-10-27T08:20:25+00:00"
+      "t": "3분기 '깜짝 성장' 절반은 반도체 몫…11월 금리 인상 가능성↑",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nMTdYRXBXM0piN3FiNEVwbW82X2F0ai1uZmhUd0doUEJvWHgtNUlPdHdlZWdkanlRODBHa1d6N0hMblNUVlBRZ3o3R2EwdUhTVUFwcjkyMlhjM1RUUy13?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-10-27T08:38:14+00:00"
+    },
+    {
+      "t": "대구·경북, 지역 대학·기업 등 반도체·AI로봇 인재 3천명 양성 추진",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Uc085T3o0YTRkamp2MFVackVkMkx3dUlXX2hpa3VlOFp4NklxaHM4ckNDZ2dhRzJFTlFoMkdWTTBpSzRUTDVENkVDSUJ3bzVpWU9aYU5HSkVTVDhTUVd6N0lHQjhic2M?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-10-27T08:27:00+00:00"
+    },
+    {
+      "t": "지갑 닫은 서민들…집값·물가·금리 '삼중고'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EM2RDWUlwZXdtSkRqTXJaUGI2NmlDSTVBQUhYcVR1ay1zMXltSlJaSGdubnZkdXI5a0NqVWg0LWNnZmhMVXd4N1poYW13X0xwUU44VUFqU0RmWFc2OVRSbw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-27T08:25:58+00:00"
     },
     {
       "t": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
@@ -55,18 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-10-27T08:16:00+00:00"
     },
     {
-      "t": "수출·혈세로 버틴 '성장'…반도체 호황 '착시'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCU0pjQ3M1UFAtSmhoUHBmQVJOUmdxNGNKSjFyUG5VZko2dVNXNU1MV0tMMWltZXJaaG5jMXcxQ3ZXNHl1N1lmMEtRTWpmNnFQeVpWd2VFcDRsaXhtVGM3Uw?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-10-27T08:15:48+00:00"
-    },
-    {
-      "t": "원주서 AI·반도체 미래전략 짠다…강원 주력산업 융합 모색",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQWlhTGFkSEdRMl9RZ0RXbEh6WjZmVERWVGVFLURrQk9KZFVZb2NDYXF1Q21LXzBrSGRuaW04WnRCMUd5UEttQnlMVFRNb1hrcm1QNG5IUEdzRjc4VE94djVsVGQ?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-27T08:15:10+00:00"
-    },
-    {
       "t": "[亞증시-종합] 기술주 강세에 日·臺 상승…中·홍콩은 하락",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3TDh4MmZoMzUtUTZ5Z1hnLTNYOHlJMUp6UWd2bkQ0ZWlsb2JPUGpLYXZFQWZyaEZrZWhnWlZ3Y19GQ29UVjU5aElnYkdQWW1RV1lPeHVfSGtOd3BQeWtFVUplSVJfNk44UGxjNVdmT2JhQQ?oc=5",
       "s": "KB Think",
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-10-27T08:14:00+00:00"
     },
     {
-      "t": "메리츠증권, 첫 발행어음 출시…\"최고 연 5% 금리\"",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sdVYtZi1fVGhSb3dlODZQeXBiZEJ1SzA0bjhUZmZqbUN4c05ZMmhkZE85Q3UzSzZkcmFzSE10eFhOTGw2emJIUm9tWDdXbHZ5WjhuamdQMnE1dV9HaE1ydnNR?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-10-27T08:14:00+00:00"
+      "t": "HSBC 급락·에너지 우려에 유럽 증시 하락…AI 훈풍 무색",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBVDQ1b3BXcnpDcUFjTmNCNHFLbTc2a2xJRmREQlVmNHlXN0U5S19kRURhb004ODVRM21nRzdSMnhqd1owOHIyWXVsaG5tOVlkRUlodG5lZ1BtTk16RVFJMnFzRjRFQ3Z2WDAyam1HQzg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-27T08:13:00+00:00"
     }
   ],
   "asof": {},
