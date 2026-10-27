@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-27T08:15:35+00:00",
-  "quotesAt": "2026-10-27T08:15:35+00:00",
-  "newsAt": "2026-10-27T08:15:35+00:00",
+  "fetchedAt": "2026-10-27T08:30:34+00:00",
+  "quotesAt": "2026-10-27T08:30:34+00:00",
+  "newsAt": "2026-10-27T08:30:34+00:00",
   "quotes": {
     "kospi": 5638.34,
     "spx": 7676.77,
     "nikkei": 63268.37,
-    "vix": 18.55,
-    "krw": 1326.74,
-    "gold": 4014,
-    "wti": 102.2,
-    "dxy": 102.17
+    "vix": 18.38,
+    "krw": 1326.11,
+    "gold": 4009.9,
+    "wti": 102.3,
+    "dxy": 102.16
   },
   "daily": {
     "spx": 0.17,
     "kospi": 1.59,
     "nikkei": 1.73,
-    "krw": 0.38,
-    "dxy": 0.21,
-    "gold": -0.6,
-    "wti": 0.43,
-    "vix": 0.87
+    "krw": 0.33,
+    "dxy": 0.2,
+    "gold": -0.71,
+    "wti": 0.53,
+    "vix": -0.05
   },
   "news": [
     {
-      "t": "'첨단 원주, AI·반도체 포럼' 28일 개막...미래 성장 방향 논의",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SVzRPX1B3RFFlbXRwekxYVDQ5dXdObUdOdGY5VHVUQU1YelY3WlRTd3g1Y1hHV082YTU2MU4wU2ZzZDl4ZDdoQVFjRWZtS0p0NGZuZG12bEJIenc3?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-27T08:11:00+00:00"
+      "t": "'앤트로픽 훈풍' 코스피 5600 탈환…내일 SK하이닉스 실적 고비 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1N1dxdW9XOFEwaHI0T1h1dDhEQk50blNxRVYydnN1WlJpRVg3TUtUZVRwMGZLRFJpcXZjX3NaT2poZVBkR09JM0F6ckhXdFJWdGU2bWl0dlFCT0lvcGxpNFJfYWR0Y3NDeXRPNDliTVJSUTZ3MkHSAXtBVV95cUxQcFNLZ0x4YnlGUlM0OFlycXpUaTBnWF91eHplNVF4X2hfVEtKXzVINU9rS0RyRndCQVJSaVgweU1DZUIxNTJGN3hsRXdOZVFKYzNSWEZreEpGV2cwX1BOYXJxQmdRTzI4NjliQ2RVMGlKSjdpMm1BclhDamc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-10-27T08:20:25+00:00"
     },
     {
-      "t": "[10월 5주차] 환율(FX) 전망",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KT00xSV93R01nNGdiT3JpcFdUOTFCN1pER1FyamRUdG9UMk53RWEyak1FZXU2VmFTM2E1Q0pvYXlNcTN1WVJJUThncUNwSzE0c2h5bjR0Ynl6RlBCZy1mLTFwRWswVURrcjdWMA?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-27T08:06:20+00:00"
+      "t": "박현주 \"삼전닉스 없으면 엔비디아도 스톱\"…'반도체 고점론' 직격",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pdVlVTkJJaHZ3ZXZ6Y0s4dV9uR0FuaUhuNkVpNUtQMHpxRXFoOFFVSXNtT0s0ZmYxTGJnV1BrMlQ3cjd4LXNyX1JmZlBGcGVwdmV2QlVWNDVqUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-27T08:20:12+00:00"
     },
     {
-      "t": "[10월 5주차] 금리(IR) 전망",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tQXU1ekYtS3oyT2ROMng2X2tiWFRUUVlRUU1ldHdiMXNQdW1HVnNxVUJOSmFjR2FlaHRSN1pxcy1kS2hRNUN0NlZmSlk2QUVYVlY1ZzY4Y3Z4TTBsTkdyRjhKSDN6THBaTHpRUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-27T08:06:04+00:00"
+      "t": "아이폰 특수마저 삼킨 환율…LG이노텍, 4Q 기판서 답 찾는다 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbDNYWkJKSTNaSUdLNDh6ZDNRR1ZwT0NQVDNxaGZHUURPS1NZbHA3TDdielAwZDlTR2M1VG9SRHFsdDhsVnhKc0JkRWw4R2VLUWFad1pBQjZEQkc4bWNHM1Z0cWVxX3FJZk5QTDNmQXY?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-27T08:20:00+00:00"
     },
     {
-      "t": "앤트로픽, 초대형 상장 추진에 코스피 3% 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ockxTdGtNbUdjZEdBNVl3eXNqeWppRGpEbjNqVGNSS3BIc3FyWG9LUXY4MzdNajU1ZjhjdG1QOV9MNkY5emtvUEJKTlNZTmFjUW82Y01WaVpGUdIBX0FVX3lxTE56WVZkZHJmeGR4enJQUmxpaFhSVnM3QTNKLWZJdmxheDFEUzBFYlJmODFLTm1sUzAzZXBVUTRBSFR2TnF1Z3dLZUV6RnFKZTI2V04wQzZDbTROa3otcmZR?oc=5",
-      "s": "경향신문",
-      "d": "2026-10-27T08:03:00+00:00"
-    },
-    {
-      "t": "공공 MPW 포럼 개최...“국방 반도체 성장 밑거름 '공공 MPW', 이용자와 더 밀착해야”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTellXVGRFa3ZlNW02dUlaWk9hU0lBRHZFTU5YZjFjRkREOHRBcW5MSkRWR2ZTYmVieU96cHBhX1d5cENkRjhwREZQX0NuUQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-10-27T08:00:00+00:00"
-    },
-    {
-      "t": "삼성·하이닉스 강세에 코스피 반등 마감… 장중 ‘매수 사이드카’ 발동",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Z0tOUkZYZG5yZlgtR2ZNNlpwdGJXbXFrNDZTZUw4NndROVVndTdvdnhRNkxpbnc0bFp3djRBdzRrelhYS2VjUnBqYWZQMzJZUmw3MmpsYjEzdTRsNkxMV09Qb0NDeDFxT0E?oc=5",
-      "s": "천지일보",
-      "d": "2026-10-27T08:00:00+00:00"
-    },
-    {
-      "t": "코스피 반등에도 국고채 금리 일제히↓…3년물 2개월래 최저(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQUpfc1IzR1hrMVNfVXhpOXBqMTBoNXJMVXkteGtQb3pQYU9BVXpiMTlsZ2xnMWRmRTNGV1Npb0d5dTZuRG16VU5zVlpMbDg2VjFpWmpPMU5WcWc?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-27T07:57:41+00:00"
-    },
-    {
-      "t": "LG이노텍, 3분기 매출 6.3조 ‘역대 최대’…환율 급락에 영업익은 53.4%↓",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEVXNKVnF2MnljY2JCRzdOSE4xUmgyc3cxaDdXWGVvLXBqakRxQkc3ZmYzaXVZV2xXUWltX2d0WmJDQjFJWmw2czZWTk5lcTdMUEhndGtWOWU5aG56ZFl2NXY1LTl4MDd2bGlPRjhHcjV0Zm_SAXdBVV95cUxNNmZuSVRtWER2d0lBLTZNQktfbThUYmpRMElVM1ljeFlfLVdWd19FN1VkZ3FydUpSc3kzeV9VaElGejdxRkFuYWNfaTlWaGxwLU90Szh4TWFmaUoxWUpPdGlmZlUwZWhYbTlxTk1QN3lPdm8tSTJUMA?oc=5",
-      "s": "스트레이트뉴스",
-      "d": "2026-10-27T07:55:04+00:00"
-    },
-    {
-      "t": "반등한 코스피",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wS2daOHFWak9CdDNCT2hoZnJGcXM4VnItMGFnQS1oS256ai15dnpBUmZOQ280Q3pxMEFXd25Da3I0dTBNVDBPZGprNXdpZUduZ3g1c1p3QXhSZVJEV2JZRzRLSEZ1QXROb21iM245OA?oc=5",
-      "s": "서울신문",
-      "d": "2026-10-27T07:52:25+00:00"
-    },
-    {
-      "t": "박현주 미래에셋회장 \"내일 M&A 발표…반도체 고점론 틀릴 가능성\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FZzFlS1gyNVdraFBWVjM4cnBvSVJocnRyeG5VV2lEU3ZMSC1ybmFFVXdiV1EyOWRLQmJBUE02eXJEV2w0ZjNQcHNOejRnSlFyZnc?oc=5",
+      "t": "[표] 외국환율고시표",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsM1BIVEx2NlVMZFRBOE9qa1RGOENEeFktRXRwdVVKUU1vX0lONG1PdGZIdEdGNmExREIyQ2E1U3BLNllDVzhxMi1sNnY1YkQzbnc?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-10-27T07:47:56+00:00"
+      "d": "2026-10-27T08:18:40+00:00"
+    },
+    {
+      "t": "박현주 “AI 혁명, 이제 10~20%… 반도체 고점론, 세상 변화 모르는 것”",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0VDd0tuYzlfZUZIT2E3SnVxNG9leUR2cWFua04xb29uZFJVeWpUaUhxX2ZVMzhmQnR5SUVtU2hSVl9mRGN3Q0ZuT0FoLUs0RndOYlJUcm9rOGpiVUtzVTAtNHdzXzRIRFQxbHY1bFM2ZEtZUHpBdjhEM1YxaU9KWnRVdkhXTHhm0gGcAUFVX3lxTFBHUnhuTExCNGdXT0dEMzBwOEVLWHI4QVJUTHI2a1NLMWJ4aFgwSWJJbV85Z3VSdGFldDk0cXh4c0gyYnJ6ZW5rRVZBUzMwOEFQOElNNFVodFlnd0JycXJWeDNVVHlBdlQ1bHRMNE5ydjFRNzM2VEpPRHdxTi0zd0h1TURqY1NhWFFxaVhSa2Y4Q3VTc0wzczRvZnRRUw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-10-27T08:16:00+00:00"
+    },
+    {
+      "t": "수출·혈세로 버틴 '성장'…반도체 호황 '착시'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCU0pjQ3M1UFAtSmhoUHBmQVJOUmdxNGNKSjFyUG5VZko2dVNXNU1MV0tMMWltZXJaaG5jMXcxQ3ZXNHl1N1lmMEtRTWpmNnFQeVpWd2VFcDRsaXhtVGM3Uw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-27T08:15:48+00:00"
+    },
+    {
+      "t": "원주서 AI·반도체 미래전략 짠다…강원 주력산업 융합 모색",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQWlhTGFkSEdRMl9RZ0RXbEh6WjZmVERWVGVFLURrQk9KZFVZb2NDYXF1Q21LXzBrSGRuaW04WnRCMUd5UEttQnlMVFRNb1hrcm1QNG5IUEdzRjc4VE94djVsVGQ?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-10-27T08:15:10+00:00"
+    },
+    {
+      "t": "[亞증시-종합] 기술주 강세에 日·臺 상승…中·홍콩은 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3TDh4MmZoMzUtUTZ5Z1hnLTNYOHlJMUp6UWd2bkQ0ZWlsb2JPUGpLYXZFQWZyaEZrZWhnWlZ3Y19GQ29UVjU5aElnYkdQWW1RV1lPeHVfSGtOd3BQeWtFVUplSVJfNk44UGxjNVdmT2JhQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-10-27T08:14:48+00:00"
+    },
+    {
+      "t": "뱅크오브아메리카 “중국 핵심 반도체 매출, 6~8월 24% 증가”",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsSlIxaWhmT0xULUs0VVZVcmhWTWwtaU9qd2dPMEh2RVVOd3VuNm9LMDRBT2RzNHpmT0NoWXVxYXhCQVJLX016UWNWSERCYXEwaTJ4RkZpb1VvM3g2MTh1bjBQSDJNeDZoSndLT0tXUEFoLW1pMHY4?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-27T08:14:00+00:00"
+    },
+    {
+      "t": "메리츠증권, 첫 발행어음 출시…\"최고 연 5% 금리\"",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sdVYtZi1fVGhSb3dlODZQeXBiZEJ1SzA0bjhUZmZqbUN4c05ZMmhkZE85Q3UzSzZkcmFzSE10eFhOTGw2emJIUm9tWDdXbHZ5WjhuamdQMnE1dV9HaE1ydnNR?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-10-27T08:14:00+00:00"
     }
   ],
   "asof": {},
