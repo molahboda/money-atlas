@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-28T10:15:34+00:00",
-  "quotesAt": "2026-10-28T10:15:34+00:00",
-  "newsAt": "2026-10-28T10:15:34+00:00",
+  "fetchedAt": "2026-10-28T10:30:34+00:00",
+  "quotesAt": "2026-10-28T10:30:34+00:00",
+  "newsAt": "2026-10-28T10:30:34+00:00",
   "quotes": {
     "kospi": 6012.44,
     "spx": 7722.6,
     "nikkei": 63954.19,
-    "vix": 17.48,
-    "krw": 1339.17,
-    "gold": 4066.8,
-    "wti": 101.18,
+    "vix": 17.58,
+    "krw": 1338.38,
+    "gold": 4062.7,
+    "wti": 101.67,
     "dxy": 102.4
   },
   "daily": {
     "spx": 1.3,
     "kospi": 9.93,
     "nikkei": 1.08,
-    "krw": 1.09,
-    "dxy": 0.08,
-    "gold": -0.19,
-    "wti": 1.28,
-    "vix": -0.23
+    "krw": 1.03,
+    "dxy": 0.07,
+    "gold": -0.29,
+    "wti": 1.77,
+    "vix": 0.34
   },
   "news": [
+    {
+      "t": "태국 중앙은행, 성장 둔화 속 기준금리 1.00% 동결",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WekVjeEM0Yjl1R0NwV2R2di16R0ZFS0I4aVNZMV8wQ21XWEo3azRITjVXRjJldUdMZ1ROSnVlc2pXLU9ybl9sSDd3RXY0b3hYMzlxVE9zeDFhRjhqSVhSYl9JN2hNMGV1Z0NXVVRCdk4?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-28T10:27:00+00:00"
+    },
+    {
+      "t": "[코인 시황] 비트코인 8만1000달러 회복…연준 금리 결정 앞두고 암호화폐 반등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNcDctaEZnRThqSnloWEUycWJIU3VXQ2Z6eml3dTRIX0Zlay1BOE15Q2l3b0ZYRldpX3o1anoxejIxbEc3ZGI2YXJMNG1KV0llSDg0UzdfRy1BNVF4?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-28T10:21:00+00:00"
+    },
+    {
+      "t": "[亞증시-종합] AI훈풍에 대부분 상승…日만 혼조",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11QzA5VU9JNi1USGhGTmEyN20yRkpwV2ttQXRicE92Y1lNMUNyWkZDNnRnWHYyemVYYkxVMTdtSzdvbnlsMnM5cWVRSmtiYUhRcm1GeHNkUTdHekhSQXkxczZPNXYwS1dEQzJFcGs0UF8?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-28T10:12:32+00:00"
+    },
     {
       "t": "큐알티, 연구산업 유공 장관표창...\"반도체 평가장비 해외 의존 낮춰\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ncktYU2tmTzlZYUJFLTJjVDM3LUU4NU9tQVhWRWx3dUFUN1FvRXZfU2Q0R2dzMDlhOWJWUWp2enNaS09wTHU2R0FqV2MzdFo4VzdBUXlEaldaOWNSZVRadjN2MzFsQUU?oc=5",
@@ -35,6 +53,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMmY1NERtZnRUdmVvZjVrZFJsT0lSZlVUX2hhZUVPUmRzbFpLclhNU1ljNjlIR2RYYnNYb0xydzBzVXN6dHdZWXRsb0JITWZRbTlJbER2UUZlN3RJMUpaTFJJaHFjYmNEVlpV?oc=5",
       "s": "BBS불교방송",
       "d": "2026-10-28T10:00:00+00:00"
+    },
+    {
+      "t": "‘삼성 반도체 거점’ 화성시, 美 오스틴시와 산업 협력 모색",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rYWZ0S05iR2NSYVFmY3dWSXpfNEV4b1QwNEw5VUdHT1diQUx0ZERRQ3JKRkRKYzkzLVhMbUxnS2REY2Nuejd6OHBlanFpckxld0UtbnZya2JDbV9leWF2dg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-28T09:58:41+00:00"
+    },
+    {
+      "t": "반도체 세계 1위의 대한민국, 잃어버린 인간성은 누가 회복할 것인가",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrOWd6SHBlRmN6Ny1hdV9YcWxpYTlDNTFiYm1PLTY4V3lodUk4bElrT05NSnBmMFhTT3h0SjhMOU5obUxwQ3V3YlZJR19ZMFJVenhhV3V3?oc=5",
+      "s": "웅상뉴스",
+      "d": "2026-10-28T09:56:00+00:00"
     },
     {
       "t": "가성비의 대명사 ‘유니클로’… 섬유 가격·엔화 환율 상승 못 버티고 가격 올린대요",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-10-28T09:47:35+00:00"
     },
     {
-      "t": "中 증시도 반도체가 좌우, 창신과기 상하이지수 편입, 가중치 1위",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uUFI1cXc3b3lwak5WaHhJSUxuRDlDMFEwVVJuUDh6OTBnOS1nR2l5SF8wQVROYk5IWlJyeE1jSGI5ODAxaGF3cGtIdlM4SnRpSXFCMHZ1M19FSXE2?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-28T09:38:00+00:00"
-    },
-    {
-      "t": "삼전닉스 PER이 겨우 3배? … 코스피 적정가는 8700, 지지선은 4200 [머니닥터 시장진단]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ma2x6UER6TlhNLXlXb3ljWWV1ci0tRnNXM3FXVFpyaUpjR1IxUV9oSEp3MDRQa0dRa3JTdV9wMFdZSEZNdDB2RzdNRncyVGR0cnc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-28T09:29:17+00:00"
-    },
-    {
-      "t": "[강원 AI·반도체 포럼]“산업 생태계 조성 위한 산·학·연 협력 중요”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zVVc3a0tobnNLcnlTZDlaVWh6dlNiNmlYb1o5QnRDei1PenBZdFl4VlhNS1E2MlJ4VlFiXzJPWkNJemxZWUVRRDFmc2w4SlRTTjN2cnhLM3ZCMDQ?oc=5",
-      "s": "강원일보",
-      "d": "2026-10-28T09:26:44+00:00"
-    },
-    {
-      "t": "Telsey 주택지수, 높은 주택담보대출 금리에 20으로 하락",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HZ2NnX1ZVZlNDOXFIa25na1dWMDJNcGp2S2JuQ3RvZFpDNFVPVDA2aHNwbFZUZEJBV29WTzUxc1hWUG4ySTdCYTRib1NydUc3Q0VmTGdTYzBhSTA0UmhiV1Z3VEZpSHJtZmlEZzlBZXpZY1ZMZ1BV?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-28T09:12:00+00:00"
-    },
-    {
-      "t": "(2026 전기국가 포럼)김양팽 박사 “반도체·AIDC에 똑같은 전력 처방 안 통해”",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xeHRBcTNNTVhaN3p6RGYwdXBTdktKczNSMUZZdkstWU1FZlN5TnhEMFpqTUg4RVkzZm5zNTlsRGJKOS10Uzd1QU90RXFYRTExTU1xT2dCSU5ONUt6UDhDOFJTOGkyZlpOLUhKWFo2Wm3SAXBBVV95cUxOMXh0QXEzTU1YWjd6ekRmMHVwU3ZLSnMzUjFGWXZLLVlNRWZTeU54RDBaak1IOEVZM2ZuczU5bERiSjktdFM3dUFPdEVxWEUxMU1NcU9nQklOTjVLelA4QzhSUzhpMmZaTi1ISlhaNlpt?oc=5",
-      "s": "전기신문",
-      "d": "2026-10-28T09:11:48+00:00"
-    },
-    {
-      "t": "원·달러 환율 2년 만에 최저…수출 비중 큰 車업계 '비상'",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EOEFWYmVJQzF5SmgxNDdwRnhxTWFzSHNEdE45Wm1oaC1yQVlpNUppUUxDbjlMbU43QXVINnVIWERFalRsb1VpaEZEbGlMTG13dTRDVkVjUzd5c2FyU3ZDYkN2alNTcGhQUmc?oc=5",
-      "s": "광주타임즈",
-      "d": "2026-10-28T09:05:57+00:00"
+      "t": "외국인 1.1조 폭풍 매수에…코스피 뜀박질",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuWnpRd0RTSlBuOWF2U0JsSWRaSW9NSld4UDRLdE9SY19xZDVsZUxaaW8tS3JvQ3Q4TjBRejk5N2s1ZXZEazdBOVl3ZFFpLUY3?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-10-28T09:46:03+00:00"
     }
   ],
   "asof": {},
