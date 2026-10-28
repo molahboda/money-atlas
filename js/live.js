@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-28T10:30:34+00:00",
-  "quotesAt": "2026-10-28T10:30:34+00:00",
-  "newsAt": "2026-10-28T10:30:34+00:00",
+  "fetchedAt": "2026-10-28T10:45:37+00:00",
+  "quotesAt": "2026-10-28T10:45:37+00:00",
+  "newsAt": "2026-10-28T10:45:37+00:00",
   "quotes": {
     "kospi": 6012.44,
     "spx": 7722.6,
     "nikkei": 63954.19,
-    "vix": 17.58,
-    "krw": 1338.38,
-    "gold": 4062.7,
-    "wti": 101.67,
-    "dxy": 102.4
+    "vix": 17.5,
+    "krw": 1338.27,
+    "gold": 4059.3,
+    "wti": 101.24,
+    "dxy": 102.37
   },
   "daily": {
     "spx": 1.3,
     "kospi": 9.93,
     "nikkei": 1.08,
-    "krw": 1.03,
-    "dxy": 0.07,
-    "gold": -0.29,
-    "wti": 1.77,
-    "vix": 0.34
+    "krw": 1.02,
+    "dxy": 0.05,
+    "gold": -0.38,
+    "wti": 1.34,
+    "vix": -0.11
   },
   "news": [
+    {
+      "t": "외국인 1.1조 폭풍 매수에…코스피 뜀박질",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyVzJmMi1IS0J6MTVib2RSeUsxZkFESENTMzF2Z3hiZmxLOFpDNlFxM2RRYm1tWGNNbDBUWVZTOVB1aDZnWGY4aFQ5NXZCaG5FaWZMVVhlU1VmUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-28T10:39:00+00:00"
+    },
+    {
+      "t": "Vertiv 주가, 미국 증시 개장 전 15.1% 급등한 이유는?",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwX1hRM2dZQzVaQVZQNDZ3YkxkMnNHaFpFZDVVVUpqSTdwRmk2eFN3d2FTel8zNzNIekxSbWtLcjNMY21wVEstSDJxUmRkUWFKTTN4eXlOYlEtWVNaTGsxWVZ4aWJPQVdTWFhYdXNQeTQ5dVJwUGZR?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-28T10:29:00+00:00"
+    },
     {
       "t": "태국 중앙은행, 성장 둔화 속 기준금리 1.00% 동결",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WekVjeEM0Yjl1R0NwV2R2di16R0ZFS0I4aVNZMV8wQ21XWEo3azRITjVXRjJldUdMZ1ROSnVlc2pXLU9ybl9sSDd3RXY0b3hYMzlxVE9zeDFhRjhqSVhSYl9JN2hNMGV1Z0NXVVRCdk4?oc=5",
@@ -43,46 +55,34 @@ window.LIVE_DATA = {
       "d": "2026-10-28T10:12:32+00:00"
     },
     {
+      "t": "[강원 AI·반도체 포럼] “국산 반도체 AIDC 활용…AI 중심 대학 지원 확대\"⋯정부 첨단산업 지속 투자",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVRkpXN3U0R1B0YVFsNHg5djBWN3lIT1BfZUlkWWNKaHp2ZHprWGhuVjY5UVNnSTdmYkNEM0ZIUldkbWg5dG1Ca3JRTXEtRmVFaXVFUmJvaEpJRkk?oc=5",
+      "s": "강원일보",
+      "d": "2026-10-28T10:03:00+00:00"
+    },
+    {
       "t": "큐알티, 연구산업 유공 장관표창...\"반도체 평가장비 해외 의존 낮춰\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ncktYU2tmTzlZYUJFLTJjVDM3LUU4NU9tQVhWRWx3dUFUN1FvRXZfU2Q0R2dzMDlhOWJWUWp2enNaS09wTHU2R0FqV2MzdFo4VzdBUXlEaldaOWNSZVRadjN2MzFsQUU?oc=5",
       "s": "팍스경제TV",
       "d": "2026-10-28T10:02:46+00:00"
     },
     {
+      "t": "[강원 AI·반도체 포럼] “강원 기업·대학과 소통”…\"현장 역량 뒷받침\"⋯정부·의회 첨단 도약 지원군 약속",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SkVDdlJObFRSbGtlR1FkRXFwNFNTUGQxN0RzczJuVFoycy16VGhKeE1FaUpRLVJLMWFOTC1NWmI5bTFMcjc1NmxDbHU4MTktcDJOUngwdG5Ec2c?oc=5",
+      "s": "강원일보",
+      "d": "2026-10-28T10:01:00+00:00"
+    },
+    {
+      "t": "[강원 AI·반도체 포럼] “경쟁 상대 이미 달려가…기업·기관 AX 가속 필요\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5QUJpbUlIT2tjRE9rTElaUV81REkxMlIyVDhGbHhQdGc3dlNHTlQzZXJlZFpOSHdDVVNsZ29MSzlOOExuWXdWMjF1SWYtTGhaUDBIVXN3M01QUjA?oc=5",
+      "s": "강원일보",
+      "d": "2026-10-28T10:01:00+00:00"
+    },
+    {
       "t": "[경제 오딧세이]한국은행, 기준금리 동결...11월의 선택은?",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMmY1NERtZnRUdmVvZjVrZFJsT0lSZlVUX2hhZUVPUmRzbFpLclhNU1ljNjlIR2RYYnNYb0xydzBzVXN6dHdZWXRsb0JITWZRbTlJbER2UUZlN3RJMUpaTFJJaHFjYmNEVlpV?oc=5",
       "s": "BBS불교방송",
       "d": "2026-10-28T10:00:00+00:00"
-    },
-    {
-      "t": "‘삼성 반도체 거점’ 화성시, 美 오스틴시와 산업 협력 모색",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rYWZ0S05iR2NSYVFmY3dWSXpfNEV4b1QwNEw5VUdHT1diQUx0ZERRQ3JKRkRKYzkzLVhMbUxnS2REY2Nuejd6OHBlanFpckxld0UtbnZya2JDbV9leWF2dg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-28T09:58:41+00:00"
-    },
-    {
-      "t": "반도체 세계 1위의 대한민국, 잃어버린 인간성은 누가 회복할 것인가",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrOWd6SHBlRmN6Ny1hdV9YcWxpYTlDNTFiYm1PLTY4V3lodUk4bElrT05NSnBmMFhTT3h0SjhMOU5obUxwQ3V3YlZJR19ZMFJVenhhV3V3?oc=5",
-      "s": "웅상뉴스",
-      "d": "2026-10-28T09:56:00+00:00"
-    },
-    {
-      "t": "가성비의 대명사 ‘유니클로’… 섬유 가격·엔화 환율 상승 못 버티고 가격 올린대요",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYnZ0ckVleU00TkJISEpoTDdoNVFzN3Bybk0ybWMtNFFFVXpDaWYyS09XMER6THk2QUd3aDJXbkJrbTZZd1VvaVBodWFtZjZtTUtUb2dqVjNzc0NfMC1XOGY1LV95MGpobGtRTXRRLTVSSG9aQ0tzVHByRHZRNFFTWi1paw?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-28T09:50:00+00:00"
-    },
-    {
-      "t": "대전상의, 수출기업에 FTA·관세·금융 맞춤 상담",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2anFSeGhzMENqYzFOTUlNSTA1em1JVm5TaGN3TjFCTlhDLVpwZ0h4V0pVQ2ZnTTJYdU9IUlE2QVpZVWp3eWFwSlBValEyTkNkbm9BNA?oc=5",
-      "s": "타임뉴스",
-      "d": "2026-10-28T09:47:35+00:00"
-    },
-    {
-      "t": "외국인 1.1조 폭풍 매수에…코스피 뜀박질",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuWnpRd0RTSlBuOWF2U0JsSWRaSW9NSld4UDRLdE9SY19xZDVsZUxaaW8tS3JvQ3Q4TjBRejk5N2s1ZXZEazdBOVl3ZFFpLUY3?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-10-28T09:46:03+00:00"
     }
   ],
   "asof": {},
