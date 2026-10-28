@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-28T05:15:35+00:00",
-  "quotesAt": "2026-10-28T05:15:35+00:00",
-  "newsAt": "2026-10-28T05:15:35+00:00",
+  "fetchedAt": "2026-10-28T05:30:36+00:00",
+  "quotesAt": "2026-10-28T05:30:36+00:00",
+  "newsAt": "2026-10-28T05:30:36+00:00",
   "quotes": {
-    "kospi": 5992.22,
+    "kospi": 6002.11,
     "spx": 7722.6,
-    "nikkei": 63933.43,
+    "nikkei": 64056.83,
     "vix": 17.52,
-    "krw": 1340.3,
-    "gold": 4049.8,
-    "wti": 101.39,
+    "krw": 1338.98,
+    "gold": 4050,
+    "wti": 101.35,
     "dxy": 102.41
   },
   "daily": {
     "spx": 1.3,
-    "kospi": 9.56,
-    "nikkei": 1.05,
-    "krw": 1.17,
+    "kospi": 9.74,
+    "nikkei": 1.25,
+    "krw": 1.07,
     "dxy": 0.09,
-    "gold": -0.61,
-    "wti": 1.49,
+    "gold": -0.6,
+    "wti": 1.45,
     "vix": -4.73
   },
   "news": [
+    {
+      "t": "'PLUS 글로벌HBM반도체', 해외 반도체 ETF 중 개인 순매수 1위 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjVTVYVFJyLVNyOTIzUXhncGw2enktV1JTMk5fQ2R6YndqQlJibUtzV2gwcU5HN2JLSmtPdng0cVF0cUdYZjdrRmtRY0x5b0MxeUdsSDZFamlrZW9XTEVkbnNvNHpQWkNn0gFuQVVfeXFMTlFpMGlWeHFQUURxeXYybm1icThKREJhd05Jak5INEFLMTNFSklidmdHQjFycHBEZjlJaWw4a1U2cmY0WGxfQmpLTTh5MzI1NWtPbXlScjFJbnhFOWN6d2dWVUNidW5xWGZEckxNQ1E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-10-28T05:26:45+00:00"
+    },
+    {
+      "t": "\"금리 올라도 이자마진 줄었다\"…신한은행, 연말까지 조달비용 부담",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNVnJyOTUtQXBXWE8xa2xxdVRoOEhGc3RpNW0wZFhWM044ZmZ1Sms4N1NiMDY2UHV6Z0x0UmJyZWFkSEVsalB4bElyaGtEN2pCaWxzSHJvMkV6M2x3NU84?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-10-28T05:23:46+00:00"
+    },
+    {
+      "t": "인하대, 반도체 테스트기술 워크숍 개최…차량용·AI 반도체 기술 동향 공유",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NMk1ZSnlLREppZFotMDNlNFRvRlR5Snkxbl9xYzVxWk14MDE0dVBoa19SNzRPb1I5cWZ2eUNsUDRGMkstOS1MMzF2OWxFNXg5c0g3UXBuOWhOLTF0aWZlVW1jb0RIZ0dfbGY1RC1Obks?oc=5",
+      "s": "신아일보",
+      "d": "2026-10-28T05:16:53+00:00"
+    },
+    {
+      "t": "한미반도체 김병석 상무, ‘2026년 소재부품장비-뿌리기술 대전’ 은탑산업훈장 수상",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40VXVLSWFNSW1UUS1UQjB0cUloMmo4bWF4X2VsTkRZNzJYN29JQTFyM2IzMU1NUWlCOGczZ0JOa1MwVFpxajg3N0RyRVAxakVKb1pRQjB4U2xwWlNValotTnpUVWxHeWIzZVE?oc=5",
+      "s": "철강금속신문",
+      "d": "2026-10-28T05:16:44+00:00"
+    },
     {
       "t": "박재홍 보스반도체 대표 - 시스템반도체 베테랑의 새로운 도전",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OYWwxbTM3V3JodXdFTW5SeVlvYzE0N3NDRzdfeHpBZ2ZoRksxcFhGenpXMnRJS0RZRFpWRk1XVk1ONjg1TFM0SWtiZ3NTUXFJX2xDV0VVQzBia0tfdl85VnBCem5hd052WTI3bXVLcEJuUQ?oc=5",
@@ -35,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80aks3aGVXMmFtQ0JQVDhxOEM2TGtFS1NOSE50cjBBUXpLaURZUlBkbFNXQjREM3JyYWc0cHNEdUxneFNMb0ZuMUphSFBYdUxPVF94ZDB2bWcxYk9Ha2t0UENvQnk?oc=5",
       "s": "매일일보",
       "d": "2026-10-28T05:07:50+00:00"
-    },
-    {
-      "t": "알파칩스, 기능안전 기술 앞세워 차량용 반도체 공략",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HZjFLNzBVT0FoWkgzcW0wamVLU1pXdzFTbmVaSFFYNUNac1ZCTmtyMnBKRnpiZ1lWbENCMlVKVmtwa2xDdXhtN25wMXhTVmQxR1NVRUszbUYwTm9Q?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-28T05:07:00+00:00"
     },
     {
       "t": "환율 악재 속 호실적…HD한국조선해양, 3Q 영업익 37%↑(종합)",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-10-28T05:01:43+00:00"
     },
     {
-      "t": "금과 은 가격 상승, 시장은 연준의 결정을 기다린다",
-      "u": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNc28xaU1rUG5rU0hMSU1wVlJ3LVRRcDh5Y0tuTXFGLWVXMFlIM0xEcnBPazQ2Mm1RNTdzV1NTeXRXY3BpRW9feUc3YTlYOUVFTFh2SXBFUTNYTnJsTWNlcE9WVjE5TUpBYWdfV3hJYnE5MkNLUHRwS0FmdWgwQ1BJczZkem0yck8zR2wwZG0wWEZDV2wwM1JVcWwxWXUxcGExRW5vOWV3TkpObWhjbzR6UmpmLXpwSDIwWkJfdE5ZRm5RRm0xd2tXLUx1WVM1dmx2c25uczRxRDdzdjBCREhaOUQtWnZoVHAtTklXVjRac19kX24wNGJIMTN4Z21ON3RjWlBKNTkxUG5BUFljMG9sMTVGVUNwSmdZVUF3NWFhbE1NWVFrOW9kWG5MM3d6OUJiVG52WGdpMFZJVDhuZlJkTmhjZ1JPV21iZnhHSGJZMzE?oc=5",
-      "s": "IDNFinancials",
-      "d": "2026-10-28T05:00:00+00:00"
+      "t": "AMD, “AI가 물리 세계로 진입한다”…로봇·산업용 AI 위한 맞춤형 반도체 전략 강화",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsV3R2Z0ZTNWtGWFpDblZzZHhvOGJwazMxTlUyZEVlVUVWM0VSTHY4bjVnWXhwcGdDTlZucU8xUUZZZ0MxTUFlSW1reHFCM3ozZTJXdVNqcGVHVDFEWjdPbWhfcDR3dnM?oc=5",
+      "s": "인공지능신문",
+      "d": "2026-10-28T05:01:31+00:00"
     },
     {
-      "t": "[미리보는 FOMC] 금리보다 12월 인상 신호가 더 중요",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RN0Vhd0c1LUZMZy1rMTk4ZmhJNEpJc0NQQ2loNFpCc3F5SkZnTThSVFVaRUVsUkVsdEwxekdXLVVlMGEyNll5VXVBZ0NtYjNLYnZtcjd2UmV6LXdCZzhOUTNjME1VMW16UFgwUGtKTTA?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-10-28T04:59:05+00:00"
-    },
-    {
-      "t": "연세소식",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVjgyYTlQT19lSDdqSDRiNTRFZjR4a056MjBaSVJSV3YxWWIyVjJXaVYydV9EZ0tDd3BzS1lCNEMxU3Z5OThNUlJGeGxrOGgtMnJReTJDX0F4Slo1andiWXZ3NEZ2OEk?oc=5",
-      "s": "연세소식",
-      "d": "2026-10-28T04:51:24+00:00"
-    },
-    {
-      "t": "[ET톡] 충북 반도체 클러스터, 구호보다 중요한 것은 기업",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBSzRxbEk4bFptNDhscml2Ylhsc1FaTFVUNlRoLTBjd0MzLTVPWS1vU09FV1ROY3VEcnZyU1B5bFZvT2VUdEFSTWdXMl9YZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-10-28T04:44:34+00:00"
-    },
-    {
-      "t": "한미반도체, 필립 콜버트와 세 번째 협업…브랜드 마케팅 강화",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbVR4Y2pvVENqeEdzMTVkTzVuTnlCWWxFcGZSZTlEUHRaWHpGXy1xU0hHY054ekh4SlJUTTlYbnlFU3FRdG12UHQwb0RWVmxJS2xQVG5DWVhBN1hS?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-28T04:42:00+00:00"
+      "t": "\"AI 피크아웃 우려, 실적이 깼다\"…증권가가 본 증시 '추가 반등' 조건은",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94VUdveTBKTVlROTVtbVItN0NGWFMzbUc2WEN1N3U5STU0MTFoR2l6MkRXTk0tZ2VWMEVkbzRBMHliaVFqT1RVSWd2UUZ2ZFpBNEtkVlBjRWYydw?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-28T05:00:57+00:00"
     }
   ],
   "asof": {},
