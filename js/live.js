@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-28T10:45:37+00:00",
-  "quotesAt": "2026-10-28T10:45:37+00:00",
-  "newsAt": "2026-10-28T10:45:37+00:00",
+  "fetchedAt": "2026-10-28T11:00:35+00:00",
+  "quotesAt": "2026-10-28T11:00:35+00:00",
+  "newsAt": "2026-10-28T11:00:35+00:00",
   "quotes": {
     "kospi": 6012.44,
     "spx": 7722.6,
     "nikkei": 63954.19,
-    "vix": 17.5,
-    "krw": 1338.27,
-    "gold": 4059.3,
-    "wti": 101.24,
-    "dxy": 102.37
+    "vix": 17.45,
+    "krw": 1338.79,
+    "gold": 4059.1,
+    "wti": 101.39,
+    "dxy": 102.41
   },
   "daily": {
     "spx": 1.3,
     "kospi": 9.93,
     "nikkei": 1.08,
-    "krw": 1.02,
-    "dxy": 0.05,
+    "krw": 1.06,
+    "dxy": 0.09,
     "gold": -0.38,
-    "wti": 1.34,
-    "vix": -0.11
+    "wti": 1.49,
+    "vix": -0.4
   },
   "news": [
+    {
+      "t": "OCI, 3분기 누적 영업익 역대 최대…반도체 소재 '효자'",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1haXNhZm5HNXh6M2pNZEZ4bUY3dm0xaXZoVkR6RlpINDJrNUZxWGpOQ1UxM1UyalhmbGZHeVBKbnV6cVpPYlhlUHBpUmpZM1d6dFlUQk5jSnVQOUVzVDVhdzJXdjJkWVE?oc=5",
+      "s": "팍스경제TV",
+      "d": "2026-10-28T10:55:28+00:00"
+    },
+    {
+      "t": "OCI, 3분기 누적 영업익 1013억원…반도체 소재 성장세",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBV3lVT3dtNU9RMkJWT0JHdVdsMGd3WGFVdmR5WThCLVdaSmlqeW9WS2ZQeklsV2JyMVlmVEdGNnVTZHB5WFl0a190YmxadHhVSXpkRjJMMkt4V0N0VFhPWFRFYl9DeHRWYTFGSDBYNmlXR2_SAXdBVV95cUxNZDY4WExaQlBrSkdUU3lDVE50WTFaSGpESmRKbHVuN1pYaGswX3p1UjlJMHYxU2YwVTZaR3VMVzJQT29kOUNkcXl4TlVkSmJMMEhfcGlGdm8tNTMwd0xaSk1EUDVndXRwMWN3SVV2Tm90bDV1UFJ3QQ?oc=5",
+      "s": "스트레이트뉴스",
+      "d": "2026-10-28T10:52:26+00:00"
+    },
     {
       "t": "외국인 1.1조 폭풍 매수에…코스피 뜀박질",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyVzJmMi1IS0J6MTVib2RSeUsxZkFESENTMzF2Z3hiZmxLOFpDNlFxM2RRYm1tWGNNbDBUWVZTOVB1aDZnWGY4aFQ5NXZCaG5FaWZMVVhlU1VmUQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SkVDdlJObFRSbGtlR1FkRXFwNFNTUGQxN0RzczJuVFoycy16VGhKeE1FaUpRLVJLMWFOTC1NWmI5bTFMcjc1NmxDbHU4MTktcDJOUngwdG5Ec2c?oc=5",
       "s": "강원일보",
       "d": "2026-10-28T10:01:00+00:00"
-    },
-    {
-      "t": "[강원 AI·반도체 포럼] “경쟁 상대 이미 달려가…기업·기관 AX 가속 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5QUJpbUlIT2tjRE9rTElaUV81REkxMlIyVDhGbHhQdGc3dlNHTlQzZXJlZFpOSHdDVVNsZ29MSzlOOExuWXdWMjF1SWYtTGhaUDBIVXN3M01QUjA?oc=5",
-      "s": "강원일보",
-      "d": "2026-10-28T10:01:00+00:00"
-    },
-    {
-      "t": "[경제 오딧세이]한국은행, 기준금리 동결...11월의 선택은?",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMmY1NERtZnRUdmVvZjVrZFJsT0lSZlVUX2hhZUVPUmRzbFpLclhNU1ljNjlIR2RYYnNYb0xydzBzVXN6dHdZWXRsb0JITWZRbTlJbER2UUZlN3RJMUpaTFJJaHFjYmNEVlpV?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-10-28T10:00:00+00:00"
     }
   ],
   "asof": {},
