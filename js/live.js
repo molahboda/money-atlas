@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-28T05:45:36+00:00",
-  "quotesAt": "2026-10-28T05:45:36+00:00",
-  "newsAt": "2026-10-28T05:45:36+00:00",
+  "fetchedAt": "2026-10-28T06:00:40+00:00",
+  "quotesAt": "2026-10-28T06:00:40+00:00",
+  "newsAt": "2026-10-28T06:00:40+00:00",
   "quotes": {
-    "kospi": 6024.5,
+    "kospi": 6010.01,
     "spx": 7722.6,
-    "nikkei": 64160.17,
+    "nikkei": 64084.52,
     "vix": 17.52,
-    "krw": 1337.83,
-    "gold": 4047.8,
-    "wti": 101.44,
-    "dxy": 102.43
+    "krw": 1337.86,
+    "gold": 4047.7,
+    "wti": 101.57,
+    "dxy": 102.42
   },
   "daily": {
     "spx": 1.3,
-    "kospi": 10.15,
-    "nikkei": 1.41,
+    "kospi": 9.88,
+    "nikkei": 1.29,
     "krw": 0.99,
-    "dxy": 0.11,
+    "dxy": 0.1,
     "gold": -0.66,
-    "wti": 1.54,
+    "wti": 1.67,
     "vix": -4.73
   },
   "news": [
     {
-      "t": "“반도체 평가장비 국산화”…큐알티, 과기정통부 장관 표창",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EMVFfU2Y0N1ZNZnJWcmd2aWs1emVwLWF3T1lGMzhyS0ZYN1RqWUpRQXBPZmRxX1BmWVlpRExvSHZxTmMzZzRLX3kxSzBLTVdm?oc=5",
-      "s": "문화일보",
-      "d": "2026-10-28T05:37:16+00:00"
+      "t": "[마감] 코스피, 앤트로픽 IPO 기대감에 3.09% 반등…4거래일 만에 매수 사이드카 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SZmFhZTZrUmlscGd4UW5Tc1Byc3lyMXFubE03ekhkTDJlMDZRWWxlZWVqQnBtaU41ajdrNWxzZUs2RGdCYXlrVlRzY25MVTBId0hjM1o4VTJJQVhYZlF6eklUMmc4ak1OUDdUYzlUYVg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-27T08:51:00+00:00"
     },
     {
-      "t": "2026 국제광융합엑스포 개막… AI·광반도체로 미래 산업 도약 모색",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83dDF0ZG9wRW50Q0RuRHY0aWZKVVlWMmpRUi00RDlWT1RIVzNSeUdnVHFlWUdjdWhFd01DQ1BIbHM1dkJkdnpHWjNuWGtqOXVZWHNYRzVPa2c3VWdNbi10dXFDTzh0eWI0WkE?oc=5",
-      "s": "의학신문",
-      "d": "2026-10-28T05:30:15+00:00"
+      "t": "[도쿄증시-마감] AI·반도체주 반등에 1%대 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yYVdTUWw3UnlwT01VUE1adjdZdlo5cHAtTUJNUS1kdVd1aUp4UGQ0QzVzOElBVVdWRjloazVBOEh5U19HZm9LbVUxSGNLSmF0SGNkdF8zZVJOZW1QTlk3Vlo3VXp3ekhFYmJJRlQxZWY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-27T08:49:13+00:00"
     },
     {
-      "t": "탄소중립에 성장률 연 0.07%p 하락...생산자물가도 뛴다",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQSjRpWk96RzdyZ193S2d2ampRX291emNGa0dnaUVNMmxsMEZCc3pPSnFvZWM0MS1pNDVCNDU1ZU92Q3BHXzZWSENQRjlwU0laTFF4c0NuU3IwbWhWX0Q3VTRn?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-10-28T05:29:54+00:00"
+      "t": "앤트로픽 훈풍에 코스피 3% 반등",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVUdodmJYa3pKVkVjNTFpV3ktR1NsY09TNWZjOGlnWmNLRGxXaU10T3JHUmFyYzJERDlmVmkzVmRKNTFWd25IOWE3S1REaDZCcXc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-27T08:43:46+00:00"
     },
     {
-      "t": "삼성전자, GPU·메모리 '한 몸'으로…차세대 AI 반도체 공략",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FcDhPNVZhTWFtZ1htbFRnVjQ2dW1OYjdrUkJ4amNIeXhjck5ncmVSNUkxeS1UNWItc2QwV1ZUVGxGemF4TTh1RWpLSUZ2NU96TVFRNGg3ZzRtYlZU?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-28T05:28:00+00:00"
+      "t": "반도체 호황에도 움츠러든 소비 심리…집값·월급·경기 전망 모두 악화",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoLXh3THBPOG5TUWFwV25PZ2lrbS0xbEQzSU44TWlKOGNhRTVZeXFNalNtcUdjV2RVMDExQ2lTZFBaNDJNOXY5YlBad3hfbXhFZ0xneXh3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-10-27T08:41:22+00:00"
     },
     {
-      "t": "AI가 이끈 MLCC·반도체 기판 수요 …삼성전기, 분기 기준 최대 실적",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cE5GRFBHXzhXMHZna3JkUFZxd2pZVTFEREdXQlV2ZVJGRHU1RWJsOVI2bkNfZkpubGRsS2tJQmlHZHBkYzd1TXBhVmNNUGNVZW5PTnBzNTBqV3ZiZzdfc251elVtUnNXNF81ZjY0ZWZ3NUQ5aUHSAWZBVV95cUxOU2UwYkQ0N1FUMXBHVk1fcXNodHRrdFBlUVlKM3g4aWsxbXZWX3BRd3VWVUlSQml2WnVuSUIwanRCSG1VdVRJLWlrR0lMQWdEcmR2SzJLcmF1cU1iZWJkTkMwQ1VMX3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-10-28T05:27:13+00:00"
+      "t": "박현주 “내일 미래에셋 M&A 발표”…반도체 고점론엔 “틀릴 가능성 커”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05V0FpemVwYkVINzhyeExMMW9YZjZuX0pTNXgyanBpUm1aaXJGc3lnWjhQdV9IRzZqeV9BZVUyZENVQVRlOXk3OGFORE5nMzBJbmc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-27T08:39:01+00:00"
     },
     {
-      "t": "'PLUS 글로벌HBM반도체', 해외 반도체 ETF 중 개인 순매수 1위 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjVTVYVFJyLVNyOTIzUXhncGw2enktV1JTMk5fQ2R6YndqQlJibUtzV2gwcU5HN2JLSmtPdng0cVF0cUdYZjdrRmtRY0x5b0MxeUdsSDZFamlrZW9XTEVkbnNvNHpQWkNn0gFuQVVfeXFMTlFpMGlWeHFQUURxeXYybm1icThKREJhd05Jak5INEFLMTNFSklidmdHQjFycHBEZjlJaWw4a1U2cmY0WGxfQmpLTTh5MzI1NWtPbXlScjFJbnhFOWN6d2dWVUNidW5xWGZEckxNQ1E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-10-28T05:26:45+00:00"
+      "t": "3분기 '깜짝 성장' 절반은 반도체 몫…11월 금리 인상 가능성↑",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nMTdYRXBXM0piN3FiNEVwbW82X2F0ai1uZmhUd0doUEJvWHgtNUlPdHdlZWdkanlRODBHa1d6N0hMblNUVlBRZ3o3R2EwdUhTVUFwcjkyMlhjM1RUUy13?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-10-27T08:38:14+00:00"
     },
     {
-      "t": "캐피털이코노믹스, 호주 11월 금리 전망 수정…동결→25bp 인상",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GblR4UkJKWHFfZHhyZzN5VzhURTRhRUR5V2RHd1VKYTNHRXBOczlrdlFJU0QtanAwZVpTS2M4dFMzTmdOME9XZm4yUWFoZGdNdnp4ZV96TmM1LXBaeW1zdlRoY2VGZ1NTa1B2R2VMOVFydw?oc=5",
-      "s": "KB Think",
-      "d": "2026-10-28T05:25:07+00:00"
+      "t": "코스피, 3% 급반등해 5,638 마감",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3WUNiSE9KbE4yS3lOYkNjWnVMVDZEZlBuUjdXOUJKSWtaV0tHWFFPb2tRU1hZc0tOcDZ6Y2o5NUdOd3pVOXh0ODVLNWN0YTNKWVBLZ2hlZVRYdU8yWmVkSVBHbTdub1ZySzlV?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-10-27T08:33:53+00:00"
     },
     {
-      "t": "’삼전닉스’ 급등…코스피 다시 6,000선",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ScFU0d0h0ZlczSndJN3d1c1ZEWlhzOFprWUNMSFZkS1hQY0tfNzNCM0xVUl9rV293cnZscTBxc0hXck83LVJMRldJN1p0d1dHOHR1WmhMYTdaUU8xNTc4V2F2a18yWDQ?oc=5",
+      "t": "[C-TOUCH & DISPLAY 2026] 선전서 개막…디스플레이·반도체 공정 기술 연결",
+      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xQVo4S2l1X0JqaEdLSkY4dndzenBsdkF3c1JET3g1VnFTek1XSzRNNlZVZWYzUFYteTdkRGd6SzFvSjFE?oc=5",
+      "s": "산업일보",
+      "d": "2026-10-27T08:33:15+00:00"
+    },
+    {
+      "t": "대구·경북, 지역 대학·기업 등 반도체·AI로봇 인재 3천명 양성 추진",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Uc085T3o0YTRkamp2MFVackVkMkx3dUlXX2hpa3VlOFp4NklxaHM4ckNDZ2dhRzJFTlFoMkdWTTBpSzRUTDVENkVDSUJ3bzVpWU9aYU5HSkVTVDhTUVd6N0lHQjhic2M?oc=5",
       "s": "연합뉴스TV",
-      "d": "2026-10-28T05:25:00+00:00"
+      "d": "2026-10-27T08:27:00+00:00"
     },
     {
-      "t": "美연준, 이달엔 동결 숨고르기…관심은 워시가 설명할 그 이유",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fRzRzcG5IWGl6UEJRZkJ2YXlfY21QNDhlOHpFNzdOUDhuems4YWw5ejI5Q0RpZVFEUndYcWNFS2tUc0tVQWlFaUhhX0JSTHlEeERrLUJvSGdZSnNNTGhzMFQtNF9MbWM?oc=5",
-      "s": "뉴스1",
-      "d": "2026-10-28T05:24:19+00:00"
-    },
-    {
-      "t": "추미애 경기도지사, 삼성·SK에 반도체 방류수 수질관리 강화 요구",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BdGY5TEgyTGluSkZUenIyNzc0cGpPSGVxSFFNZm9CQ3RSUnpNTkh3SWliXzhMQVAyYjZNaXV2bWZ0dTNVWDA5Z0tScFJya2dEOUlXV1V1M2F3QjBGNmZfR0dFLWVZXzQ?oc=5",
-      "s": "팍스경제TV",
-      "d": "2026-10-28T05:22:51+00:00"
+      "t": "지갑 닫은 서민들…집값·물가·금리 '삼중고'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EM2RDWUlwZXdtSkRqTXJaUGI2NmlDSTVBQUhYcVR1ay1zMXltSlJaSGdubnZkdXI5a0NqVWg0LWNnZmhMVXd4N1poYW13X0xwUU44VUFqU0RmWFc2OVRSbw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-27T08:25:58+00:00"
     }
   ],
   "asof": {},
