@@ -1,40 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-28T04:45:34+00:00",
-  "quotesAt": "2026-10-28T04:45:34+00:00",
-  "newsAt": "2026-10-28T04:45:34+00:00",
+  "fetchedAt": "2026-10-28T05:00:37+00:00",
+  "quotesAt": "2026-10-28T05:00:37+00:00",
+  "newsAt": "2026-10-28T05:00:37+00:00",
   "quotes": {
-    "kospi": 6005.56,
+    "kospi": 5981.86,
     "spx": 7722.6,
-    "nikkei": 64013.57,
+    "nikkei": 63941.79,
     "vix": 17.52,
-    "krw": 1341.58,
-    "gold": 4054.9,
-    "wti": 101.33,
+    "krw": 1341.88,
+    "gold": 4052.1,
+    "wti": 101.45,
     "dxy": 102.42
   },
   "daily": {
     "spx": 1.3,
-    "kospi": 9.8,
-    "nikkei": 1.18,
-    "krw": 1.27,
+    "kospi": 9.37,
+    "nikkei": 1.06,
+    "krw": 1.29,
     "dxy": 0.1,
-    "gold": -0.48,
-    "wti": 1.43,
+    "gold": -0.55,
+    "wti": 1.55,
     "vix": -4.73
   },
   "news": [
     {
-      "t": "[테마시황] 호재 만발한 오전장…반도체·로봇·통신주 동반 ’강세’ By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zVUZJbG91Z2JxVTlibXNaTzJVTkxxaU91cm5IdW9RNm9aNlpFU19Gb0UxMHNUQmlaa1YyU1kycnJlZnd0UkNzeDI0UEZnRVFNRUVfbVJ6d01naHlVS0RFTWlQdGUxZkxfSFhhdnNaRUc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-28T04:32:00+00:00"
+      "t": "연세소식",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVjgyYTlQT19lSDdqSDRiNTRFZjR4a056MjBaSVJSV3YxWWIyVjJXaVYydV9EZ0tDd3BzS1lCNEMxU3Z5OThNUlJGeGxrOGgtMnJReTJDX0F4Slo1andiWXZ3NEZ2OEk?oc=5",
+      "s": "연세소식",
+      "d": "2026-10-28T04:51:24+00:00"
     },
     {
-      "t": "강원특별자치도 ‘강원 AI·반도체 포럼’ 개최",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nU2lDTm92SkZCNDllVlZvWVdGQVhFck5TSGkySTJCejhIQlI5U0NlOGNmZ2lpZjVnN3JSaG9iMTBjRnNoUHpKR0tpQV9xYWd1M3BVVWR1S3FMNEMzWEpodmtMbUhEdFM0d1hMWDlkQjU?oc=5",
-      "s": "산경일보",
-      "d": "2026-10-28T04:12:22+00:00"
+      "t": "[ET톡] 충북 반도체 클러스터, 구호보다 중요한 것은 기업",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBSzRxbEk4bFptNDhscml2Ylhsc1FaTFVUNlRoLTBjd0MzLTVPWS1vU09FV1ROY3VEcnZyU1B5bFZvT2VUdEFSTWdXMl9YZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-10-28T04:44:34+00:00"
+    },
+    {
+      "t": "코스피, 반도체주 강세 속 한때 6천선 회복키도…6%대 급등",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94MDEtLW1UblF2MHhJS3M2Vl9tVk9OQUVxVEVDUFhBc2dJb2hqT2x3MGwzNkNtZFVIZEt1UTVWbTF6TzVvdXNONDk4QnJiUUlja3ZBLV9XemhKTlhYNWVsb0ljUzBPYklHZHp1Vk53UFo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-28T04:38:13+00:00"
     },
     {
       "t": "코스피, 6000선 단숨에 회복…외인·기관 1.7조 동반 매수",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-10-28T04:02:00+00:00"
     },
     {
-      "t": "\"오늘 되는 날이네\" 코스피 5%대 급등…앤스로픽 기대감에 하이닉스 주주환원까지",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBINTZmeE42NGgtdDlaODFFOWtqTHRaMUx2TmRrTDgwTnVHbExCbkVGWFhUalRXam53OEFXcFBEOG9mc2s5RXJ4Y1Jhcm13aERpbmNzYUtzV3g2TmpQMWF1Vg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-28T04:01:44+00:00"
-    },
-    {
-      "t": "아시아 증시, AI에 힘입어 상승세… 투자자들, 연준 결정 주시",
-      "u": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQSFV6SG1YT2l4dDdlazRJSG9yeFlmeHVyWW01TnJaWnp4YUVfTnJkLUlMVkN3LXI0VTlhNEpfdFh2LVhrc0NBZUdKZGM5NmJycmd6RzFWNkZFOGpIRWlZZERSeW10LVpyTHV1MzFBV05fZlMwdGxJd0JjOTAyM1RmOEtxM0FuWHhXQ1J5anZUa2J5M2ZYRW9EY3hnT1d0SF9OTDZzTUZCNl9RUkFHNXRJbi1EU3FRTXpWSExLWUdqemxMQkFBTXp6NmY4UlJZS2lGR0d3MEx4d0ZJSW5pOFFvOS1TblpENUxHamp1VzBvZUpUMjdIM3hjSTYwUUpLNUY2cVNCTjg4Si0yN2lRMVE5Z05HUm1UVkN1N2NvLXdxV2locEVHdVk4Yktjc0RXZ2hyRVFvejZFdnh0V2FHZEgtZkJMNWJNaTFLWFBLdWtBWGIyNlQ3Vi03cGRITm1PRFQyVnVTY29fV1o2WGs3?oc=5",
-      "s": "IDNFinancials",
-      "d": "2026-10-28T04:00:00+00:00"
+      "t": "코스피 장중 6000선 '터치'…삼전닉스 나란히 8%대 ↑",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15UE9jak0wdG1NeW5CZmVCSmdHWENoOWhXU1NaWTNtcU41YnV1ak5kV1AxbFBpelo3SHZ6ckJwYjNmektjNnhfSnN2WnN3RXdla2IwQ1NxOVZzSGRX?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-28T03:59:00+00:00"
     }
   ],
   "asof": {},
