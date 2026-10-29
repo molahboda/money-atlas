@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-29T14:45:26+00:00",
-  "quotesAt": "2026-10-29T14:45:26+00:00",
-  "newsAt": "2026-10-29T14:45:26+00:00",
+  "fetchedAt": "2026-10-29T15:00:26+00:00",
+  "quotesAt": "2026-10-29T15:00:26+00:00",
+  "newsAt": "2026-10-29T15:00:26+00:00",
   "quotes": {
     "kospi": 5937.66,
-    "spx": 7717.8,
+    "spx": 7712.18,
     "nikkei": 64659.47,
-    "vix": 16.63,
-    "krw": 1337.78,
-    "gold": 4040.1,
-    "wti": 100.62,
-    "dxy": 102.18
+    "vix": 16.53,
+    "krw": 1337.84,
+    "gold": 4044.1,
+    "wti": 100.34,
+    "dxy": 102.05
   },
   "daily": {
-    "spx": -0.06,
+    "spx": -0.13,
     "kospi": 5.31,
     "nikkei": 1.1,
     "krw": 0.83,
-    "dxy": -0.01,
-    "gold": -0.28,
-    "wti": -2.1,
-    "vix": -1.66
+    "dxy": -0.14,
+    "gold": -0.19,
+    "wti": -2.37,
+    "vix": -2.25
   },
   "news": [
+    {
+      "t": "美 3분기 GDP 3.4% 서프라이즈…9월 PCE 물가 3.6%로 상승",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91RVB5b0FFTWxGc3ljTFVhRGIzTkE1RmlmM1NKRXlfUnZPT0xYYzY2WnRWSXNrbjhpRVl6WHRCS2NHaWpHV1BleTY3T0lVSHB5ak0zNVYwTmg5YmtsbldGRkw0bWthS1BmNFZoX0l6dVpLeWpEMHhv?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-29T14:52:53+00:00"
+    },
+    {
+      "t": "미국 3분기 GDP 3.4% 성장…예상 웃돌았지만 물가 압력 여전",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaDh0Uzg1OUNFNlhSZExqQ1JSeFJody03bkVQeTdzWGFhbjFGdTBFMlBySi1TT00zSWV2aG1uaUdPaTdGR3BhNm5BOFFDcVVNX2dEdXVDaFBBTE5lWFdR?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-10-29T14:48:41+00:00"
+    },
     {
       "t": "[뉴욕증시]알파벳 12% 급락…기술주 투매에 나스닥 1.2% ↓",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MmNqWWF4SnZ0Q3ZIcTlfTExWUzhXVk10eDh6clBzdjh1ZmM5d0dJVnhrdWlFWGFnSlpVMzNZTGJBN3gtdTNWS0pDSnNKa0h1eks0X0R3ajlkMWJ3dXlRNA?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neEF6aXVVQkJJRzlZd2J3SW5WMk9Tbmx4SUtndnV2blg4eVI4WTNkUTBIX3BnMzZBNmdLWldXbTlpNFFrLU9CcXZEWkU3VHllemlDbHlqUUVGQWY4ckVCSVRFSUxWbmg1SjRkZm1qakloMUVxdndpcFRR0gGAAUFVX3lxTE8zT0YtdWxKeHdMbnBWNGNCcDc0WnFqbGNsaXl5b1MwZVFVdUhWTlpaNGJvTHpCSGpBeElXNGRlRUhZVm4yZllvU24yX194c1lBSHV5VkRJWFRLbjJRS1B5N2pTYkNMenlQUDNHT1h3U1o4UC1hZzg2eHpBZ0xDOFpw?oc=5",
       "s": "뉴데일리",
       "d": "2026-10-29T13:53:00+00:00"
-    },
-    {
-      "t": "ECB, 기준금리 2.5% 동결…\"금융 여건 긴축, 성장·물가 부담\"",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4UEhSNkc3Z1VudDlIUTFTc1RoaTRNcTZFa3FGbGFYTExGXzBoWnphRmFfRGRxVlpmRk83ZmRsUGhKaHltcmRQdm5tUTg1YTNDVVBR?oc=5",
-      "s": "뉴스1",
-      "d": "2026-10-29T13:51:52+00:00"
-    },
-    {
-      "t": "유럽중앙은행, 금리 동결···예금금리 연 2.50％",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWtPLXc1WTc0SWlHN2hvc3VNUU5teDJFRmRGcUtQX0tyZHA5aGtJWkRVQVh5T1pXSGVvRlp6Ykl1UEJId1BoeEViVlpyMG50Rkw5VHVxOWNiM21LVjNMX052QkdpbUtQZ2pqWnBRUHg3cDRwaGxPRFVVdjdGeUhTcWE5NUtHUDBDLXlKRlkwVVNVQ2h4WUM2UVRKVkVpUDd3eFBHUUtoVXRvd9IBX0FVX3lxTE5GWk9LOHV6ZEZ1VWZEQVpieXYtbXNWMW5jZGNfV3J6aXhPX1ZEOWtnWEtGSVAxLWRzNnZ4NTdZM2xLM0RVQWNjSDdyamw1bnhmRGVvbFYtQTlOQ05aNkZB?oc=5",
-      "s": "경향신문",
-      "d": "2026-10-29T13:49:00+00:00"
     }
   ],
   "asof": {},
