@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-29T14:15:34+00:00",
-  "quotesAt": "2026-10-29T14:15:34+00:00",
-  "newsAt": "2026-10-29T07:30:19+00:00",
+  "fetchedAt": "2026-10-29T14:30:26+00:00",
+  "quotesAt": "2026-10-29T14:30:26+00:00",
+  "newsAt": "2026-10-29T14:30:26+00:00",
   "quotes": {
     "kospi": 5937.66,
-    "spx": 7710.7,
+    "spx": 7719.27,
     "nikkei": 64659.47,
-    "vix": 16.94,
-    "krw": 1338.41,
-    "gold": 4041.3,
-    "wti": 100.95,
-    "dxy": 102.26
+    "vix": 16.83,
+    "krw": 1338.58,
+    "gold": 4037.2,
+    "wti": 100.85,
+    "dxy": 102.16
   },
   "daily": {
-    "spx": -0.15,
+    "spx": -0.04,
     "kospi": 5.31,
     "nikkei": 1.1,
-    "krw": 0.87,
-    "dxy": 0.07,
-    "gold": -0.25,
-    "wti": -1.78,
-    "vix": 0.18
+    "krw": 0.89,
+    "dxy": -0.03,
+    "gold": -0.36,
+    "wti": -1.88,
+    "vix": -0.47
   },
   "news": [
     {
-      "t": "美 금리 동결에 금융시장 ‘살얼음’…정부, 변동성 대응 강화",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbEdiZzFRQ1BSdDAxTG1tY2U0WWcyMmsyX09aN3lGZnQtRGRFSV9YSzY3Q3RHTFdCTUtLRGNaWGxkQ3hZcEZqODQxVXJQNl8zMXlTcW5IX3ZpTFpnaTctSlNHdHRYcGNLenk4?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-10-29T00:55:07+00:00"
+      "t": "[뉴욕증시]알파벳 12% 급락…기술주 투매에 나스닥 1.2% ↓",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MmNqWWF4SnZ0Q3ZIcTlfTExWUzhXVk10eDh6clBzdjh1ZmM5d0dJVnhrdWlFWGFnSlpVMzNZTGJBN3gtdTNWS0pDSnNKa0h1eks0X0R3ajlkMWJ3dXlRNA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-10-29T14:13:43+00:00"
     },
     {
-      "t": "[속보] 삼성전자 3분기 반도체 부문 영업익 106.5조",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcWd6ZURtU2tmMkVuNXVTanNqZnpyTVpQbFpUc3hrVWZVcGJ0NkNXXzMzUGtrVTJIZDFIRU9KcG03djQ0R0RlUFhSV01scklsM3NMbEk4d2JVdmfSAWBBVV95cUxORk9NMzV0TkhPZXBKYjJnUFR2aHRXS214SWw4akdhRFhtZ2FjV21lVGRmR2czZDVzZ2NuejZaUnpoNm1yYlJKRDlQX2ExM1Njd3FkTVpjZ2NmelZSTkR3V2k?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-10-29T00:53:53+00:00"
+      "t": "반도체 의존도 너무 높은 한국…“지금부터 호황 이후 준비해야”",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUY2bEZlUGw5dnB0NEZSV3ltQUZtY3VGR2JVSk4tNVFBUmNlbHRzRU5SNXB4TzN3b2U3MVB3dlJkb2dJZGRhUlQzSlJPM1pnZmgyOXRVdkl3QzVySDZGaER3Z0dyZUlJSWZyVjRZeU1YdFUydmhlRldLbw?oc=5",
+      "s": "서울신문",
+      "d": "2026-10-29T14:09:52+00:00"
     },
     {
-      "t": "코스피, 반도체 강세에 1.4% 강세…장초반 6100선 넘봐",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03Y0kxbXdJTl9HdE5LSXM4b01kLUlyeTIyVERxRjRyMEgzVUFvaHdmQkRXRWlwTlpBZnowbF9vcjBCWkRLN1lOS3prVXFaQXFLaW8tQ0czSkprbVBpODNFVFRQZkM?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-10-29T00:51:40+00:00"
+      "t": "뉴욕증시, 알파벳 실적 소화하며 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14c2hPTU5Da0wxZ3NMVGl5d3RUVTRRMTRSb1lxMnczVXMwaXhrd245SWFiWXFNVlZJV3Rqa0JwM0lpby1FakJESWdHMjMxejZ5STNDTElFb3hqallTbzd3VmlMbDFwNDJuMEtKdERhaVE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-29T14:05:13+00:00"
     },
     {
-      "t": "한국은행 \"美 금리 동결에도 대외 리스크 상존…경계감 유지\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jeEVoWTZaeTBUZlMzSTE2eWpHMFZwRGxxNFJWX0FqX1VNQ0pKaXQ0ZTFFMTctbU5CMmlyOVZRejlheWxjUHJDTUQ2c2ZXOHlJdUNLamwxeUR1dnVRRXdXT0JadEJkNE85YVRQQjA4WWREZw?oc=5",
-      "s": "프라임경제",
-      "d": "2026-10-29T00:51:04+00:00"
+      "t": "유럽중앙은행 금리 동결…예금 금리 연 2.50％",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTRWTGdyMTF0Ul85NXZXXzdPSXFKZ1Z6MXRKNjJvVjhvZzVRczNEZUh1aHRwbWQ5ZTQwaDlCelRraEdHUnUydkNUTVBxRGJ1TzlWWS1HRjZaUGItZXJTOVRkYVRHc25NYk5WS1ZfVlE5aEpDblJlVmtmWm1ieExGLTBEMU10LURJQjlpaU1IUQ?oc=5",
+      "s": "news.sbs.co.kr",
+      "d": "2026-10-29T14:03:50+00:00"
     },
     {
-      "t": "증권가, 美 연준 금리 동결에 \"매파적 숨 고르기…12월 인상 무게\"",
-      "u": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQU1oyeThoNmJfZ3d5czFNbTJ5YzV2UENvdEFKajEtNVJ1ckhfRXpHaVd5QTltVVpWUmllTVFUWlFSM2tpYVNra0ZSMEllc2VrVlExVXFxeXZHcVJXRWxVV3VVT1hVNE9BRm1ETVRXUHAya0l3QnZIQ29TYVFuUlI2eVZIRWRHeDlSZTVHMklVNFQ3TDJfS1RLdUZTUjJ3QVQxUXduNEZuQ3hJVE1GdzBEei1XMVFNeFhLZEJkYmJ2ZzFqTHR2c3dmdExWTmlfTEJFYUgySVNiQllVWHlkQm1wbGlPQjNQdkotMjdrejVYRnU2TTVRYmNjRGtuT2pYTWM0M3phSVo1ekdBZVR4X1BaV2ZVeTdPdDk0dUUzNEM3dGVVSDRNcWx3V01VLXp2dzN2VXAwOUdldEwxR2dSeFRVeUF2WWFtcWRhMVVHNUItbHNQT2Zfd25DOS1qcy1NM3NfSV9F?oc=5",
-      "s": "중앙신문",
-      "d": "2026-10-29T00:50:41+00:00"
-    },
-    {
-      "t": "상승 출발하는 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZEo2MjZkU05YT2dZYjY5VjR5SXljb05JUXJmTWZHaUZfWU1GMWlZcHpLSHZObHZFdzVJcnF0MnE2RldrdXh4NnNHN0thMmJYTWk5dzVSZ1R1R2R6?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-29T00:49:00+00:00"
-    },
-    {
-      "t": "“미 연준, 예상보다 덜 매파적”…연내 1회 인상 전망",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MODluY1JHd1F1ejRLc3NNZmN6Q2x5SndPbDBCeUpNVUNXNnRlbnJvVlhMdk5YUTVRMU5fLVN5c1V1SEVnLXliVVJCNWhVRnZaWjhkZUZKM3lxZXFwcFBBRWFSZTNiR2ZsdWFZZ2lRbUNKUQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-10-29T00:47:00+00:00"
-    },
-    {
-      "t": "'韓 이어 미국도' 美기준금리 동결…워시 의장 \"한국 경제 주시\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRExlc0FCdFZvN3AxM1c0SC1fMjRrU3U5LVgxRnNvbDhNb0RxbTVsYW51VUtPTzhfbVRnNDV1aG9UUEYxZzZhc3FfcXUwSHlfMXloaXFDSHhwLUdqSkE5dg?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-10-29T00:46:49+00:00"
-    },
-    {
-      "t": "[개장] 코스피, 1% 상승… 반도체株 기대감 지속",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZjFYRmRLbTZZYXRITWVSQVV3UW94eFBPRllOMm82UnpXek1vR3RRdkdzZi12UkxlWE9DY3BOd2tNRlZ5WV9nSThpVGVnOU5YN0RSUHNkWWltc3A0VV9UaGljMUhyd1FKYlZtTUZnZ2TSAXRBVV95cUxQVFlTVnV2ZTJSN3NiQ1l5UTZPQWNjRjBvekFQZkdaVjkzT0l5aUlvdGtxU3MwQ1VDZWZSU3prZXhlaWoyZ0VPQkZpR2NyTXF1SnNuVmI0NDRnc25neWhKLXlESC1tUUNlN1ZnLXZ6RjZmM21Teg?oc=5",
-      "s": "IT조선",
-      "d": "2026-10-29T00:46:25+00:00"
-    },
-    {
-      "t": "화성시, 美오스틴시와 교류 추진…삼성반도체 생산시설 공통점",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WX3NDVWhsUE9oWWp6U1pHSUNjVWprbnJybDJvemd5YVctekNEUXJHeWkzeTlWdXlka3FTUEZoSWJCYzItQlVtdFVyWlZzc1ljM0E?oc=5",
+      "t": "미 9월 PCE 물가 전년대비 3.6%↑…예상치 소폭 하회(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92cXNmYk1QVV9BWjBSLUUxZkJmRk1HNDB4NktUdVJ2RlJUNmdsZC0yQjdpMjN6a25pOExPbGVDTF9aVEljZzI5S01lUENjOEU0MUE?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-10-29T00:43:15+00:00"
+      "d": "2026-10-29T13:57:55+00:00"
+    },
+    {
+      "t": "ECB, 예상대로 예금금리 2.5%로 동결 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS2dYTC1hemotLUhMN18yVjNITDFWMS1EZndFZ1lqZER0Nnhrd1pPRDE2a29QVUpiN3A2a3ZSaFM5QkNsMElpQ2t2UXpTT1FmYUpHUEhwV0JYSFlFQ3RrZUxNOEhiMWJf0gFuQVVfeXFMTnRJSE90ZzRBYVJBaFczbDhlZVI1Yk1QbXhUQ3dCRVF3NVcxeVV1UlMwT1Y1S3Q1MmI2aGZfWVh4VWM2VHZqRk1NOWtBYTZGZ21ibmFfM0xQYl9RYWR6MkVvZE92VVl2ZjNuU2tHVUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-10-29T13:55:20+00:00"
+    },
+    {
+      "t": "미 연준, 기준금리 3.75~4.00% 동결…워시 “선거와 무관”",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kOGpNWmlUX0pYOHpCZXk0NDVLdTJUNm9zeWZ5MDJlc0FhNDlFUEViU0N4NG1YZFI0M0hpbUJuazFLN0ZhYnVIWXVmdUdTWW5LYTd1OGtoMTBJMzFBd0p0TXJKbENBRXhZN3E3bmQzMA?oc=5",
+      "s": "한겨레",
+      "d": "2026-10-29T13:55:00+00:00"
+    },
+    {
+      "t": "ECB, 기준금리 2.5% 동결…\"금융 여건 긴축, 성장·물가 부담\"",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4UEhSNkc3Z1VudDlIUTFTc1RoaTRNcTZFa3FGbGFYTExGXzBoWnphRmFfRGRxVlpmRk83ZmRsUGhKaHltcmRQdm5tUTg1YTNDVVBR?oc=5",
+      "s": "뉴스1",
+      "d": "2026-10-29T13:51:52+00:00"
+    },
+    {
+      "t": "유럽중앙은행, 금리 동결···예금금리 연 2.50％",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWtPLXc1WTc0SWlHN2hvc3VNUU5teDJFRmRGcUtQX0tyZHA5aGtJWkRVQVh5T1pXSGVvRlp6Ykl1UEJId1BoeEViVlpyMG50Rkw5VHVxOWNiM21LVjNMX052QkdpbUtQZ2pqWnBRUHg3cDRwaGxPRFVVdjdGeUhTcWE5NUtHUDBDLXlKRlkwVVNVQ2h4WUM2UVRKVkVpUDd3eFBHUUtoVXRvd9IBX0FVX3lxTE5GWk9LOHV6ZEZ1VWZEQVpieXYtbXNWMW5jZGNfV3J6aXhPX1ZEOWtnWEtGSVAxLWRzNnZ4NTdZM2xLM0RVQWNjSDdyamw1bnhmRGVvbFYtQTlOQ05aNkZB?oc=5",
+      "s": "경향신문",
+      "d": "2026-10-29T13:49:00+00:00"
+    },
+    {
+      "t": "ECB, 기준금리 2.5%로 동결…고유가에 인플레 위험 경고",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1neklsMUdvTHd1WmhRTTdON0REdlkzNml6M3VrbmtoWi0tTlRsaEJUUUpSVzZTZl9HYXkwZ29NejZ2Tm5sWmhWSVAtbnFsZEhYdjh0TEpWRU03NzNU?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-10-29T13:46:00+00:00"
     }
   ],
   "asof": {},
