@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-29T14:30:26+00:00",
-  "quotesAt": "2026-10-29T14:30:26+00:00",
-  "newsAt": "2026-10-29T14:30:26+00:00",
+  "fetchedAt": "2026-10-29T14:45:26+00:00",
+  "quotesAt": "2026-10-29T14:45:26+00:00",
+  "newsAt": "2026-10-29T14:45:26+00:00",
   "quotes": {
     "kospi": 5937.66,
-    "spx": 7719.27,
+    "spx": 7717.8,
     "nikkei": 64659.47,
-    "vix": 16.83,
-    "krw": 1338.58,
-    "gold": 4037.2,
-    "wti": 100.85,
-    "dxy": 102.16
+    "vix": 16.63,
+    "krw": 1337.78,
+    "gold": 4040.1,
+    "wti": 100.62,
+    "dxy": 102.18
   },
   "daily": {
-    "spx": -0.04,
+    "spx": -0.06,
     "kospi": 5.31,
     "nikkei": 1.1,
-    "krw": 0.89,
-    "dxy": -0.03,
-    "gold": -0.36,
-    "wti": -1.88,
-    "vix": -0.47
+    "krw": 0.83,
+    "dxy": -0.01,
+    "gold": -0.28,
+    "wti": -2.1,
+    "vix": -1.66
   },
   "news": [
     {
@@ -67,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-10-29T13:55:00+00:00"
     },
     {
+      "t": "美 9월 PCE 물가 3.6% 상승 … 예상 하회에도 12월 금리 인상론",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neEF6aXVVQkJJRzlZd2J3SW5WMk9Tbmx4SUtndnV2blg4eVI4WTNkUTBIX3BnMzZBNmdLWldXbTlpNFFrLU9CcXZEWkU3VHllemlDbHlqUUVGQWY4ckVCSVRFSUxWbmg1SjRkZm1qakloMUVxdndpcFRR0gGAAUFVX3lxTE8zT0YtdWxKeHdMbnBWNGNCcDc0WnFqbGNsaXl5b1MwZVFVdUhWTlpaNGJvTHpCSGpBeElXNGRlRUhZVm4yZllvU24yX194c1lBSHV5VkRJWFRLbjJRS1B5N2pTYkNMenlQUDNHT1h3U1o4UC1hZzg2eHpBZ0xDOFpw?oc=5",
+      "s": "뉴데일리",
+      "d": "2026-10-29T13:53:00+00:00"
+    },
+    {
       "t": "ECB, 기준금리 2.5% 동결…\"금융 여건 긴축, 성장·물가 부담\"",
       "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4UEhSNkc3Z1VudDlIUTFTc1RoaTRNcTZFa3FGbGFYTExGXzBoWnphRmFfRGRxVlpmRk83ZmRsUGhKaHltcmRQdm5tUTg1YTNDVVBR?oc=5",
       "s": "뉴스1",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWtPLXc1WTc0SWlHN2hvc3VNUU5teDJFRmRGcUtQX0tyZHA5aGtJWkRVQVh5T1pXSGVvRlp6Ykl1UEJId1BoeEViVlpyMG50Rkw5VHVxOWNiM21LVjNMX052QkdpbUtQZ2pqWnBRUHg3cDRwaGxPRFVVdjdGeUhTcWE5NUtHUDBDLXlKRlkwVVNVQ2h4WUM2UVRKVkVpUDd3eFBHUUtoVXRvd9IBX0FVX3lxTE5GWk9LOHV6ZEZ1VWZEQVpieXYtbXNWMW5jZGNfV3J6aXhPX1ZEOWtnWEtGSVAxLWRzNnZ4NTdZM2xLM0RVQWNjSDdyamw1bnhmRGVvbFYtQTlOQ05aNkZB?oc=5",
       "s": "경향신문",
       "d": "2026-10-29T13:49:00+00:00"
-    },
-    {
-      "t": "ECB, 기준금리 2.5%로 동결…고유가에 인플레 위험 경고",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1neklsMUdvTHd1WmhRTTdON0REdlkzNml6M3VrbmtoWi0tTlRsaEJUUUpSVzZTZl9HYXkwZ29NejZ2Tm5sWmhWSVAtbnFsZEhYdjh0TEpWRU03NzNU?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-10-29T13:46:00+00:00"
     }
   ],
   "asof": {},
