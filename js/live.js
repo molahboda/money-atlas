@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-29T00:45:41+00:00",
-  "quotesAt": "2026-10-29T00:45:41+00:00",
-  "newsAt": "2026-10-29T00:45:41+00:00",
+  "fetchedAt": "2026-10-29T01:00:35+00:00",
+  "quotesAt": "2026-10-29T01:00:35+00:00",
+  "newsAt": "2026-10-29T01:00:35+00:00",
   "quotes": {
-    "kospi": 6084.94,
+    "kospi": 6045.99,
     "spx": 7743.98,
-    "nikkei": 64518.67,
+    "nikkei": 64580.76,
     "vix": 16.91,
-    "krw": 1336.68,
-    "gold": 4050.9,
-    "wti": 102.04,
-    "dxy": 102.27
+    "krw": 1335.38,
+    "gold": 4050.8,
+    "wti": 101.97,
+    "dxy": 102.23
   },
   "daily": {
     "spx": 0.88,
-    "kospi": 7.92,
-    "nikkei": 0.88,
-    "krw": 0.74,
-    "dxy": -0.05,
+    "kospi": 7.23,
+    "nikkei": 0.98,
+    "krw": 0.65,
+    "dxy": -0.09,
     "gold": -0.58,
-    "wti": 2.14,
+    "wti": 2.07,
     "vix": -3.48
   },
   "news": [
     {
-      "t": "OCI, 3분기 누적 영업익 역대 최대…반도체 소재 '효자'",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1haXNhZm5HNXh6M2pNZEZ4bUY3dm0xaXZoVkR6RlpINDJrNUZxWGpOQ1UxM1UyalhmbGZHeVBKbnV6cVpPYlhlUHBpUmpZM1d6dFlUQk5jSnVQOUVzVDVhdzJXdjJkWVE?oc=5",
-      "s": "팍스경제TV",
-      "d": "2026-10-28T10:55:28+00:00"
+      "t": "美 금리 동결에 금융시장 ‘살얼음’…정부, 변동성 대응 강화",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mbEdiZzFRQ1BSdDAxTG1tY2U0WWcyMmsyX09aN3lGZnQtRGRFSV9YSzY3Q3RHTFdCTUtLRGNaWGxkQ3hZcEZqODQxVXJQNl8zMXlTcW5IX3ZpTFpnaTctSlNHdHRYcGNLenk4?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-10-29T00:55:07+00:00"
     },
     {
-      "t": "OCI, 3분기 누적 영업익 1013억원…반도체 소재 성장세",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBV3lVT3dtNU9RMkJWT0JHdVdsMGd3WGFVdmR5WThCLVdaSmlqeW9WS2ZQeklsV2JyMVlmVEdGNnVTZHB5WFl0a190YmxadHhVSXpkRjJMMkt4V0N0VFhPWFRFYl9DeHRWYTFGSDBYNmlXR2_SAXdBVV95cUxNZDY4WExaQlBrSkdUU3lDVE50WTFaSGpESmRKbHVuN1pYaGswX3p1UjlJMHYxU2YwVTZaR3VMVzJQT29kOUNkcXl4TlVkSmJMMEhfcGlGdm8tNTMwd0xaSk1EUDVndXRwMWN3SVV2Tm90bDV1UFJ3QQ?oc=5",
-      "s": "스트레이트뉴스",
-      "d": "2026-10-28T10:52:26+00:00"
+      "t": "[속보] 삼성전자 3분기 반도체 부문 영업익 106.5조",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcWd6ZURtU2tmMkVuNXVTanNqZnpyTVpQbFpUc3hrVWZVcGJ0NkNXXzMzUGtrVTJIZDFIRU9KcG03djQ0R0RlUFhSV01scklsM3NMbEk4d2JVdmfSAWBBVV95cUxORk9NMzV0TkhPZXBKYjJnUFR2aHRXS214SWw4akdhRFhtZ2FjV21lVGRmR2czZDVzZ2NuejZaUnpoNm1yYlJKRDlQX2ExM1Njd3FkTVpjZ2NmelZSTkR3V2k?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-10-29T00:53:53+00:00"
     },
     {
-      "t": "외국인 1.1조 폭풍 매수에…코스피 뜀박질",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyVzJmMi1IS0J6MTVib2RSeUsxZkFESENTMzF2Z3hiZmxLOFpDNlFxM2RRYm1tWGNNbDBUWVZTOVB1aDZnWGY4aFQ5NXZCaG5FaWZMVVhlU1VmUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-28T10:39:00+00:00"
+      "t": "코스피, 반도체 강세에 1.4% 강세…장초반 6100선 넘봐",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03Y0kxbXdJTl9HdE5LSXM4b01kLUlyeTIyVERxRjRyMEgzVUFvaHdmQkRXRWlwTlpBZnowbF9vcjBCWkRLN1lOS3prVXFaQXFLaW8tQ0czSkprbVBpODNFVFRQZkM?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-10-29T00:51:40+00:00"
     },
     {
-      "t": "Vertiv 주가, 미국 증시 개장 전 15.1% 급등한 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwX1hRM2dZQzVaQVZQNDZ3YkxkMnNHaFpFZDVVVUpqSTdwRmk2eFN3d2FTel8zNzNIekxSbWtLcjNMY21wVEstSDJxUmRkUWFKTTN4eXlOYlEtWVNaTGsxWVZ4aWJPQVdTWFhYdXNQeTQ5dVJwUGZR?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-28T10:29:00+00:00"
+      "t": "한국은행 \"美 금리 동결에도 대외 리스크 상존…경계감 유지\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jeEVoWTZaeTBUZlMzSTE2eWpHMFZwRGxxNFJWX0FqX1VNQ0pKaXQ0ZTFFMTctbU5CMmlyOVZRejlheWxjUHJDTUQ2c2ZXOHlJdUNLamwxeUR1dnVRRXdXT0JadEJkNE85YVRQQjA4WWREZw?oc=5",
+      "s": "프라임경제",
+      "d": "2026-10-29T00:51:04+00:00"
     },
     {
-      "t": "태국 중앙은행, 성장 둔화 속 기준금리 1.00% 동결",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WekVjeEM0Yjl1R0NwV2R2di16R0ZFS0I4aVNZMV8wQ21XWEo3azRITjVXRjJldUdMZ1ROSnVlc2pXLU9ybl9sSDd3RXY0b3hYMzlxVE9zeDFhRjhqSVhSYl9JN2hNMGV1Z0NXVVRCdk4?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-28T10:27:00+00:00"
+      "t": "증권가, 美 연준 금리 동결에 \"매파적 숨 고르기…12월 인상 무게\"",
+      "u": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQU1oyeThoNmJfZ3d5czFNbTJ5YzV2UENvdEFKajEtNVJ1ckhfRXpHaVd5QTltVVpWUmllTVFUWlFSM2tpYVNra0ZSMEllc2VrVlExVXFxeXZHcVJXRWxVV3VVT1hVNE9BRm1ETVRXUHAya0l3QnZIQ29TYVFuUlI2eVZIRWRHeDlSZTVHMklVNFQ3TDJfS1RLdUZTUjJ3QVQxUXduNEZuQ3hJVE1GdzBEei1XMVFNeFhLZEJkYmJ2ZzFqTHR2c3dmdExWTmlfTEJFYUgySVNiQllVWHlkQm1wbGlPQjNQdkotMjdrejVYRnU2TTVRYmNjRGtuT2pYTWM0M3phSVo1ekdBZVR4X1BaV2ZVeTdPdDk0dUUzNEM3dGVVSDRNcWx3V01VLXp2dzN2VXAwOUdldEwxR2dSeFRVeUF2WWFtcWRhMVVHNUItbHNQT2Zfd25DOS1qcy1NM3NfSV9F?oc=5",
+      "s": "중앙신문",
+      "d": "2026-10-29T00:50:41+00:00"
     },
     {
-      "t": "[코인 시황] 비트코인 8만1000달러 회복…연준 금리 결정 앞두고 암호화폐 반등",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNcDctaEZnRThqSnloWEUycWJIU3VXQ2Z6eml3dTRIX0Zlay1BOE15Q2l3b0ZYRldpX3o1anoxejIxbEc3ZGI2YXJMNG1KV0llSDg0UzdfRy1BNVF4?oc=5",
+      "t": "상승 출발하는 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZEo2MjZkU05YT2dZYjY5VjR5SXljb05JUXJmTWZHaUZfWU1GMWlZcHpLSHZObHZFdzVJcnF0MnE2RldrdXh4NnNHN0thMmJYTWk5dzVSZ1R1R2R6?oc=5",
       "s": "뉴스핌",
-      "d": "2026-10-28T10:21:00+00:00"
+      "d": "2026-10-29T00:49:00+00:00"
     },
     {
-      "t": "[亞증시-종합] AI훈풍에 대부분 상승…日만 혼조",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11QzA5VU9JNi1USGhGTmEyN20yRkpwV2ttQXRicE92Y1lNMUNyWkZDNnRnWHYyemVYYkxVMTdtSzdvbnlsMnM5cWVRSmtiYUhRcm1GeHNkUTdHekhSQXkxczZPNXYwS1dEQzJFcGs0UF8?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-28T10:12:32+00:00"
+      "t": "“미 연준, 예상보다 덜 매파적”…연내 1회 인상 전망",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MODluY1JHd1F1ejRLc3NNZmN6Q2x5SndPbDBCeUpNVUNXNnRlbnJvVlhMdk5YUTVRMU5fLVN5c1V1SEVnLXliVVJCNWhVRnZaWjhkZUZKM3lxZXFwcFBBRWFSZTNiR2ZsdWFZZ2lRbUNKUQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-10-29T00:47:00+00:00"
     },
     {
-      "t": "[강원 AI·반도체 포럼] “국산 반도체 AIDC 활용…AI 중심 대학 지원 확대\"⋯정부 첨단산업 지속 투자",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVRkpXN3U0R1B0YVFsNHg5djBWN3lIT1BfZUlkWWNKaHp2ZHprWGhuVjY5UVNnSTdmYkNEM0ZIUldkbWg5dG1Ca3JRTXEtRmVFaXVFUmJvaEpJRkk?oc=5",
-      "s": "강원일보",
-      "d": "2026-10-28T10:03:00+00:00"
+      "t": "'韓 이어 미국도' 美기준금리 동결…워시 의장 \"한국 경제 주시\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRExlc0FCdFZvN3AxM1c0SC1fMjRrU3U5LVgxRnNvbDhNb0RxbTVsYW51VUtPTzhfbVRnNDV1aG9UUEYxZzZhc3FfcXUwSHlfMXloaXFDSHhwLUdqSkE5dg?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-10-29T00:46:49+00:00"
     },
     {
-      "t": "큐알티, 연구산업 유공 장관표창...\"반도체 평가장비 해외 의존 낮춰\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ncktYU2tmTzlZYUJFLTJjVDM3LUU4NU9tQVhWRWx3dUFUN1FvRXZfU2Q0R2dzMDlhOWJWUWp2enNaS09wTHU2R0FqV2MzdFo4VzdBUXlEaldaOWNSZVRadjN2MzFsQUU?oc=5",
-      "s": "팍스경제TV",
-      "d": "2026-10-28T10:02:46+00:00"
+      "t": "[개장] 코스피, 1% 상승… 반도체株 기대감 지속",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZjFYRmRLbTZZYXRITWVSQVV3UW94eFBPRllOMm82UnpXek1vR3RRdkdzZi12UkxlWE9DY3BOd2tNRlZ5WV9nSThpVGVnOU5YN0RSUHNkWWltc3A0VV9UaGljMUhyd1FKYlZtTUZnZ2TSAXRBVV95cUxQVFlTVnV2ZTJSN3NiQ1l5UTZPQWNjRjBvekFQZkdaVjkzT0l5aUlvdGtxU3MwQ1VDZWZSU3prZXhlaWoyZ0VPQkZpR2NyTXF1SnNuVmI0NDRnc25neWhKLXlESC1tUUNlN1ZnLXZ6RjZmM21Teg?oc=5",
+      "s": "IT조선",
+      "d": "2026-10-29T00:46:25+00:00"
     },
     {
-      "t": "[강원 AI·반도체 포럼] “강원 기업·대학과 소통”…\"현장 역량 뒷받침\"⋯정부·의회 첨단 도약 지원군 약속",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SkVDdlJObFRSbGtlR1FkRXFwNFNTUGQxN0RzczJuVFoycy16VGhKeE1FaUpRLVJLMWFOTC1NWmI5bTFMcjc1NmxDbHU4MTktcDJOUngwdG5Ec2c?oc=5",
-      "s": "강원일보",
-      "d": "2026-10-28T10:01:00+00:00"
+      "t": "화성시, 美오스틴시와 교류 추진…삼성반도체 생산시설 공통점",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WX3NDVWhsUE9oWWp6U1pHSUNjVWprbnJybDJvemd5YVctekNEUXJHeWkzeTlWdXlka3FTUEZoSWJCYzItQlVtdFVyWlZzc1ljM0E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-10-29T00:43:15+00:00"
     }
   ],
   "asof": {},
