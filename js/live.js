@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-30T05:15:30+00:00",
-  "quotesAt": "2026-10-30T05:15:30+00:00",
-  "newsAt": "2026-10-30T05:15:30+00:00",
+  "fetchedAt": "2026-10-30T05:30:26+00:00",
+  "quotesAt": "2026-10-30T05:30:26+00:00",
+  "newsAt": "2026-10-30T05:30:26+00:00",
   "quotes": {
-    "kospi": 5748.52,
+    "kospi": 5723.98,
     "spx": 7720.39,
-    "nikkei": 63291.74,
+    "nikkei": 63275.01,
     "vix": 17.2,
     "krw": 1336.8,
-    "gold": 4006.5,
-    "wti": 103.05,
-    "dxy": 101.81
+    "gold": 4008.4,
+    "wti": 102.94,
+    "dxy": 101.83
   },
   "daily": {
     "spx": -0.03,
-    "kospi": -4.39,
-    "nikkei": -2.12,
+    "kospi": -4.8,
+    "nikkei": -2.14,
     "krw": -0.26,
-    "dxy": -0.23,
-    "gold": -0.62,
-    "wti": 1.03,
+    "dxy": -0.21,
+    "gold": -0.57,
+    "wti": 0.92,
     "vix": 1.71
   },
   "news": [
     {
-      "t": "美 3분기 GDP 3.4% 서프라이즈…9월 PCE 물가 3.6%로 상승",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91RVB5b0FFTWxGc3ljTFVhRGIzTkE1RmlmM1NKRXlfUnZPT0xYYzY2WnRWSXNrbjhpRVl6WHRCS2NHaWpHV1BleTY3T0lVSHB5ak0zNVYwTmg5YmtsbldGRkw0bWthS1BmNFZoX0l6dVpLeWpEMHhv?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-29T14:52:53+00:00"
+      "t": "일본은행, 기준금리 1.25% 동결⋯\"기조 물가 2% 목표와 정합\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVkhvTkVCWEFRR0dYWUtWSTVWRVkyQjVvaXBtSDRmYWczR3BXTHJPVFlDMmdjSVRpTVQ1TjNjZkw2ZGpmWXZDcFlSRUt5UXFDbGVSZUt3UXl5QWxYd1E?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-10-30T05:11:17+00:00"
     },
     {
-      "t": "미국 3분기 GDP 3.4% 성장…예상 웃돌았지만 물가 압력 여전",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaDh0Uzg1OUNFNlhSZExqQ1JSeFJody03bkVQeTdzWGFhbjFGdTBFMlBySi1TT00zSWV2aG1uaUdPaTdGR3BhNm5BOFFDcVVNX2dEdXVDaFBBTE5lWFdR?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-10-29T14:48:41+00:00"
-    },
-    {
-      "t": "[뉴욕증시]알파벳 12% 급락…기술주 투매에 나스닥 1.2% ↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MmNqWWF4SnZ0Q3ZIcTlfTExWUzhXVk10eDh6clBzdjh1ZmM5d0dJVnhrdWlFWGFnSlpVMzNZTGJBN3gtdTNWS0pDSnNKa0h1eks0X0R3ajlkMWJ3dXlRNA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-10-29T14:13:43+00:00"
-    },
-    {
-      "t": "반도체 의존도 너무 높은 한국…“지금부터 호황 이후 준비해야”",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUY2bEZlUGw5dnB0NEZSV3ltQUZtY3VGR2JVSk4tNVFBUmNlbHRzRU5SNXB4TzN3b2U3MVB3dlJkb2dJZGRhUlQzSlJPM1pnZmgyOXRVdkl3QzVySDZGaER3Z0dyZUlJSWZyVjRZeU1YdFUydmhlRldLbw?oc=5",
-      "s": "서울신문",
-      "d": "2026-10-29T14:09:52+00:00"
-    },
-    {
-      "t": "뉴욕증시, 알파벳 실적 소화하며 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14c2hPTU5Da0wxZ3NMVGl5d3RUVTRRMTRSb1lxMnczVXMwaXhrd245SWFiWXFNVlZJV3Rqa0JwM0lpby1FakJESWdHMjMxejZ5STNDTElFb3hqallTbzd3VmlMbDFwNDJuMEtKdERhaVE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-29T14:05:13+00:00"
-    },
-    {
-      "t": "유럽중앙은행 금리 동결…예금 금리 연 2.50％",
-      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTRWTGdyMTF0Ul85NXZXXzdPSXFKZ1Z6MXRKNjJvVjhvZzVRczNEZUh1aHRwbWQ5ZTQwaDlCelRraEdHUnUydkNUTVBxRGJ1TzlWWS1HRjZaUGItZXJTOVRkYVRHc25NYk5WS1ZfVlE5aEpDblJlVmtmWm1ieExGLTBEMU10LURJQjlpaU1IUQ?oc=5",
-      "s": "news.sbs.co.kr",
-      "d": "2026-10-29T14:03:50+00:00"
-    },
-    {
-      "t": "미 9월 PCE 물가 전년대비 3.6%↑…예상치 소폭 하회(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92cXNmYk1QVV9BWjBSLUUxZkJmRk1HNDB4NktUdVJ2RlJUNmdsZC0yQjdpMjN6a25pOExPbGVDTF9aVEljZzI5S01lUENjOEU0MUE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-10-29T13:57:55+00:00"
-    },
-    {
-      "t": "ECB, 예상대로 예금금리 2.5%로 동결 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pS2dYTC1hemotLUhMN18yVjNITDFWMS1EZndFZ1lqZER0Nnhrd1pPRDE2a29QVUpiN3A2a3ZSaFM5QkNsMElpQ2t2UXpTT1FmYUpHUEhwV0JYSFlFQ3RrZUxNOEhiMWJf0gFuQVVfeXFMTnRJSE90ZzRBYVJBaFczbDhlZVI1Yk1QbXhUQ3dCRVF3NVcxeVV1UlMwT1Y1S3Q1MmI2aGZfWVh4VWM2VHZqRk1NOWtBYTZGZ21ibmFfM0xQYl9RYWR6MkVvZE92VVl2ZjNuU2tHVUE?oc=5",
+      "t": "일본은행, 기준금리 1.25% 유지…\"물가 안정 목표치 도달\" 공식화 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lOVB3cmFwQWJrOHhIMGZPdGlIQ0NuX3g2ZG42QUFlUDh2VkxzWXphRFQ4U0xoa2x0UzBpVlU1azdYdGpnWE9MVEpRb3N1UDNMYXFmMndCdEEtWkVZaU5MREY0ZjFWcEFl0gFuQVVfeXFMUHgxOVRYcWd5dXViZ3Nqc1ZLQmpDY0x0aDBhVjB3SnVzeUZCTjFKbDkzZGdReG1EMHdBb0hpWEJYVGgyblhWaXRyYXZZX0F0dmNyN0RiTDZXcFhJeVdvVVZvX1M0MlYwWktLZ2hMcVE?oc=5",
       "s": "머니투데이",
-      "d": "2026-10-29T13:55:20+00:00"
+      "d": "2026-10-30T04:55:12+00:00"
     },
     {
-      "t": "미 연준, 기준금리 3.75~4.00% 동결…워시 “선거와 무관”",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kOGpNWmlUX0pYOHpCZXk0NDVLdTJUNm9zeWZ5MDJlc0FhNDlFUEViU0N4NG1YZFI0M0hpbUJuazFLN0ZhYnVIWXVmdUdTWW5LYTd1OGtoMTBJMzFBd0p0TXJKbENBRXhZN3E3bmQzMA?oc=5",
-      "s": "한겨레",
-      "d": "2026-10-29T13:55:00+00:00"
+      "t": "日 기준금리 1.25%로 유지…\"물가 목표 2% 달성\" 추가 인상에 힘 실려",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTc0UnRsdmV4a3o0bnJqVHczS2UxVWpadm12Zzg0YTBkZElzT3lxNEI5UEVfS2FPeGtWNV94RXF5bUlPUEwxQTBtZmw3MnI3UUhTRUp1REpYS3ZPc3BvY01idWtFQkZjUkdQUUlaN2QtRFNSRUtESUJKZXRXQ1BVS2Rwbkh3SDJZZ2diTmRR?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-30T04:50:00+00:00"
     },
     {
-      "t": "美 9월 PCE 물가 3.6% 상승 … 예상 하회에도 12월 금리 인상론",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neEF6aXVVQkJJRzlZd2J3SW5WMk9Tbmx4SUtndnV2blg4eVI4WTNkUTBIX3BnMzZBNmdLWldXbTlpNFFrLU9CcXZEWkU3VHllemlDbHlqUUVGQWY4ckVCSVRFSUxWbmg1SjRkZm1qakloMUVxdndpcFRR0gGAAUFVX3lxTE8zT0YtdWxKeHdMbnBWNGNCcDc0WnFqbGNsaXl5b1MwZVFVdUhWTlpaNGJvTHpCSGpBeElXNGRlRUhZVm4yZllvU24yX194c1lBSHV5VkRJWFRLbjJRS1B5N2pTYkNMenlQUDNHT1h3U1o4UC1hZzg2eHpBZ0xDOFpw?oc=5",
-      "s": "뉴데일리",
-      "d": "2026-10-29T13:53:00+00:00"
+      "t": "동국제강, 3Q 영업익·매출액 모두 20%대 성장…반도체·AI 수혜(종합)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sU3BxVVNOXzhGS2NCdS1sVW9aQW9DMU5WOWlKNmkwaGRHRmh6WW1JdnM5ZHA3NkRlSF9zWWZvQU9nZUdUNmVDN1ZJeXFld1BUeWlLUnQ0LWp3VEtrd3p6dEw5Vnpoa0Zhc3ViT3pITlg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-10-30T04:48:06+00:00"
+    },
+    {
+      "t": "일본은행, 기준금리 1.25% 동결…\"물가 목표 2% 달성\"",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNDhQT1BIV1k2eFJHb0RRYkl3UUJfVG9iUmpmNTJLUk4wc0YtamxjQ0tWdnAzYkVqWnRwbkVCODYtNy1SUmgxOF9ZaUNWQ2xOaTUzWW80OTJMNnYyNmtB?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-10-30T04:39:31+00:00"
+    },
+    {
+      "t": "‘동네지기’ 이만기 경주 출격...‘금리단길’ 46년 전통! 세 자매가 지킨 아버지의 매운 돼지갈비찜 맛은?",
+      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlhldnRfREpucHlrR1VYejRvckZwajFYazVqNVd2Qk9tMVRrRVk2OTQ5YmxVcWdQX3ZCZFdWRWoxM3REbGowbndhRmx3dVBsZ0xIRlQ3VVhDaDd4M1dDTFBkM3dudzNFeVZhSW05YXhBSktQbGI3U2Qzd05OWUc5dTEyU0ZGWEdIam5RUmNaY3J6Q2FKS0xib3RoMlExSmx5bnZPWUlJeFdnNGFCR1BCRGtIaw?oc=5",
+      "s": "MyloveKBS",
+      "d": "2026-10-30T04:25:44+00:00"
+    },
+    {
+      "t": "글로벌 향하는 반도체, 쇄신 택한 에너지…SK그룹 사장단 인사",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MWHE5STFKNmt0VElkVlpGSy0zdGpNTDBoTmxkYmx2c25YOUlZdmlXUzFXNUEtcTJiTDA5Ykpnc2Q4VGF6OFhTbmdqQkIxQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-10-30T04:21:43+00:00"
+    },
+    {
+      "t": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ejRON3JwNmczbXR1cjkzeG9ab28zdFNzQ0NIa3JkV1JEcXF4b2RtMW1VMjloOC10MGFYbHRiODF2a3FpNUpycVhJc3hUYlR6MXM2eVJwbWJDd9IBX0FVX3lxTFA3ZXd4aXphbkdoNW00ZHNNNFBGQ2FLQnkyV1I0VGtXTnpfTUYwMFo2aWpqUHEzczAzZkxYam80VXZ0QnJ3OEg2VGVOOVhXdk1Xd09hd09hWlJhVm9FM3NN?oc=5",
+      "s": "경향신문",
+      "d": "2026-10-30T04:21:00+00:00"
+    },
+    {
+      "t": "코스피·코스닥, 4%대 동반 급락…AI 밸류체인 '와르르'",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmN5azctNmNWUWVXSE1FdF9lV1k5bllBMTFnSE1GdkY3aFpKWkpVNkJrSjhEYmt5dkNnSmtXTDVINHVsR0NoY25BbHcwMGRCZDdxMFdNYmhNYnhZcnBMdC0xekpxb19kbXZKMURMQWc4NHUwNEJ3bkJsLUh3aFVfLTNZX0trM3p4?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-30T04:18:33+00:00"
+    },
+    {
+      "t": "코스피 4%대 급락…매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iclU3UTlwUTdRY0xiaExuemtOX093ZzlQMjliLWNzcWJZV0tNQ2xBckowN2dxOEpGX1FvQ2c2NW81VmhXcGYyRnpoVHBlOGZzaFRxVThyQkN1UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-10-30T04:13:00+00:00"
     }
   ],
   "asof": {},
