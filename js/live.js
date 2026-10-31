@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T15:15:41+00:00",
-  "quotesAt": "2026-10-31T15:15:41+00:00",
-  "newsAt": "2026-10-31T15:15:41+00:00",
+  "fetchedAt": "2026-10-31T15:30:41+00:00",
+  "quotesAt": "2026-10-31T15:30:41+00:00",
+  "newsAt": "2026-10-31T15:30:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -31,10 +31,10 @@ window.LIVE_DATA = {
       "d": "2026-10-31T15:00:00+00:00"
     },
     {
-      "t": "미국 중간선거 D-3, 민주당 8.9%p 우세…트럼프 이란 전쟁·물가가 최대 변수",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE40bVFyNnlPdFJZZlB4Ukkzb0VWeDFMaG9FbW8td1gtM3pROS1HakNvWk9SakVmMjRXVi1FQTU1S2s2dDYxcE02ZjgyMkJGMjBXQnBCTkppRmt5YnU2aWlZV3Yzd01Pek9DMDhLNzNjQWMydw?oc=5",
-      "s": "톱스타뉴스",
-      "d": "2026-10-31T14:22:00+00:00"
+      "t": "김의찬의 금리시장 동향",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTdzaXV3U3pUZVVpZ28xeUd5d1U4c0huTDdnV1p1S2Ftb3FENHBzYXVJVFNncmhUd1NJRHBTNExZTUptLWs0QXpuQnNaTnNuemt6Q1k3b3k2RmctcDJrdG9DNEIwWWZKeHhzVEQydDBJdVN1aVFLejc1LXk1RFUyVFRkYmg2V2J1OUx4dFRWT2k1UXhYOFZV?oc=5",
+      "s": "CME Group",
+      "d": "2026-10-31T14:18:59+00:00"
     },
     {
       "t": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
@@ -61,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-10-31T14:03:11+00:00"
     },
     {
-      "t": "한국공학대, '반도체특성화대학 성과교류회' 개최…현장 실무 연계 논의",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZ0xFcDdRN0kyS0dYY3ZaVnlHNUtHZEJZTHNfLUpyTnNLVEx1QUVtb2I4aDloNHBCclVqa3o3ZUZ6RUo0bXhNSmFjb1kyc0E5Q3N5bU1qWEFWX2VIRGRxMVNPQVk0alpwZlE?oc=5",
-      "s": "컨슈머타임스",
-      "d": "2026-10-31T13:52:14+00:00"
-    },
-    {
       "t": "금값 3900弗 붕괴 1년만 최저…美 긴축·유가 118弗 직격탄",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9MNGV1S08zMkd3TjhyT1V0Z3ctdnJhNXlTTUphOFpaM0VTUEtWRms3aThFTFMxSHNjeS1iRjVCZkt5c3FKWGp4WVR2V0pyb3IyUEVIZ3piZmZDYWhndklwYWVRZFJZVkhCcVFCY0tYck5heVlBdDJQUjF0Y1R4QnZ6QmY4bTBQ?oc=5",
       "s": "글로벌이코노믹",
@@ -80,9 +74,15 @@ window.LIVE_DATA = {
     },
     {
       "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRdIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
       "s": "뉴시스",
       "d": "2026-10-31T13:03:33+00:00"
+    },
+    {
+      "t": "중동지역 긴장고조 등에 10월30일 국제유가 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUG9uWnp6NkUzLVhmZGRXVHJGVDQ4Y05xOE1jeTRzQmVBSTJKN283TUExamtqQmlUUzlEbzhpaVE5dFUxenZZNjZaUXpobW1iNlBwSkpTNlpheUtacnlmNWx0VDA2WFdId3pMSC1DN2x6Zw?oc=5",
+      "s": "에너지신문",
+      "d": "2026-10-31T12:49:31+00:00"
     }
   ],
   "asof": {},
