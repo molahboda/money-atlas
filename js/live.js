@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T12:15:32+00:00",
-  "quotesAt": "2026-10-31T12:15:32+00:00",
-  "newsAt": "2026-10-31T12:15:32+00:00",
+  "fetchedAt": "2026-10-31T12:30:41+00:00",
+  "quotesAt": "2026-10-31T12:30:41+00:00",
+  "newsAt": "2026-10-31T12:30:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "호르무즈 공격으로 이란 평화 협상 난항…유가 6개월 최고치",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fWmlYVW91R0k0by03blhKUFRfVTBra1hHbGlMclFGM3dtY0JtSkVHWmFRcXNqT0Y0aENvY2VzdTU4a0NYWHJ2Sm9PTGFwZm1wcE5JT2tDNnJteFV3TkZfV3BNYXNWWkRWNVE?oc=5",
+      "t": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-10-31T12:04:00+00:00"
+    },
+    {
+      "t": "한미반도체, InvestingPro 고평가 경고 이후 53% 급락 By Investing.com",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1paEtHMmJCajdhZTItZWFjM1plWnFVLW80MWs4RFdJWkVtWGxiLU9IeDc3Y2d5dDJjOC1rWmdIT3V2NGJoNUtlRmhJWERQcUc0Y21kTmdLRnJGbjIyZVBJdUVpRmFlT3NBdXFueklJUzM1ZVRzOHc?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-10-31T06:07:00+00:00"
+      "d": "2026-10-31T11:40:00+00:00"
     },
     {
-      "t": "반도체가 흔들릴 때 봐야할 비반도체 21종목",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGNaUHdrNEcwU195MkR5UHp3SnE2OThFbElhZS1XUTNqQzJTdmpLemQtMDZsYzc0ekZ0eXhhU1hDWGw5bmtIN3R5ZWpEX0EzQXNXVno3Y2wyeVFpTkpRRFNVVUJOYTlsU18zN20tQ3NUM3VFTUU2dTJrT1c4VEtPZW45dw?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-10-31T06:04:00+00:00"
+      "t": "인텔 29% 폭락‥美 반도체주 시총 860조 원 증발",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqYW9CMGplZlhvbUR5emE0elQyMmdCRHR3VFpjNHNXdDhTdHh0QlV3Z3BmWTVuQmZkNmJxdFZod25jNkVsQVExU05QdXFTZGNOdmNrdnNPZEtQeXNrMzlPX2p0ekd2MEZ4eXU4eGNpWV9YaXdjQzJuZA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-10-31T11:06:26+00:00"
     },
     {
-      "t": "\"주가 떨어져도 돈은 따박따박\"…개미들 2.8조 몰린 상품 [이수의 ETF줌인]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-10-31T06:00:03+00:00"
+      "t": "외국인이 한국 증시를 보는 두 개의 시선…19조 순매도에도 ETF는 샀다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CTEUtb0JjWFFuSF9lbElRLWU5RXNJbDZackhiRjBVUGltRm9XTFMtT2dUTWR2enVSblhUUmFBMGlxVWJxZERDRHdhbHozdTUydUJjX0lmQlFoQQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-10-31T10:51:00+00:00"
     },
     {
-      "t": "오픈AI, 자금조달 목표 100억달러 낮춰…AI 투자 불안 확산",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WYk9yS0dvYm54WHFQeEt2OE5id1RkQlY0dTdkbWVtR1FicXRNb3VaT0wwUDJKWGxhMkxWWFN0UW9VVmdGZ3M4aVpsZ2ktWnA5TjNkSDZTMWFwRjBtYWZnX0VXZ0cwLXdV?oc=5",
-      "s": "www.ebn.co.kr",
-      "d": "2026-10-31T05:57:13+00:00"
+      "t": "'GPU 24장→4장으로'…AI 반도체 판 바꾸는 K스타트업",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6RDdQbS1qNFlvQnRWaXNEMEFEX2lUZGViU1pjbE0yMmhnc3dtTFYyT1A1bFczeEVNbl8ya0x2T3Vpc3haME90VnQ0akdmYllIYXZINEw4QzFQdzlsWl9veFNB?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-10-31T10:41:28+00:00"
     },
     {
-      "t": "용인시, 첨단시스템반도체 국가산단 부지 조성 착공 따른 종합대책 마련 나서",
-      "u": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxORm9HQUcwanVoTk9zc1NHcHZPZDBPMjVMWU83MGY5S25WWWhPVzZuSnotOFF1cWpBMmQ4Y2JlTkFRcGJyMkVzbmVGQUExYngtN3NodzdSQnkxcFk1LUwzcDktR19MUTBzdWc2UkdIUko5VVlyNS1fY1JYOUVZSTFCd2ljR0JxS01IZTh6MUE3VVl4aTlZWloyUnI1cDZ0ZzhKdllndmU3SWMzOUlqMDZBTFBsRDhsbC1ZaXNUYUFsTnVSM2cxTWJCNzdLeVpUc0JNd2N1RFFPQjU0THBkM0l1ZDZpSnBuYjJWb2YwTU5FQWZpelR4WFNXZVFvMklVTVBFbGFTWktsMUIyVkNjNWV0M0p2UzJTWXlrQVUyaXlwNjhzSk9KQnpLNGtJRHZQNFl0OFRNU3hEYTdaQkpzUWZrWGJaVlZrTEFrX3V5VkRxNXNNZ3g4UWZWcTdKQjhESlVpSTBhMzlneEpBcmNENDVPTmlGbXVwcDNqMkJQWmxZaWROUDZFWUY5MFJaWUdJclFtYXJ6cUNSeWcya2dWY2szb0tDTG8xcHR5Tl9YakFIZjZXc1JQRXNjXy1GNDhMUTJHSmNVbUY1cVFMdzVfcWpIRWoxc1YzaWJu?oc=5",
-      "s": "중앙신문",
-      "d": "2026-10-31T05:56:31+00:00"
+      "t": "최태원·올트먼 회동…AI 반도체 협력 논의 주목",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zMFhUYk5Zb1FsVk5DMnNxU0VCaVJfNk5UcTZhQmlwTkdaSlNudUxvNkJPVVZqOHlKSHNVUm00YUdSdjBnNkR4X2xNemRmSkNYZmtreVVCbVlscWNxUC1yVQ?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-10-31T10:19:47+00:00"
     },
     {
-      "t": "3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PWE92bkZ0cGVFTHhxa2kyLUc3MkNxT2ZUSENnblVTOEUwOF9HZFFaU2hRUk5FZmQ3RF9LalZYVkRWX3BQNnA1NlJLLTI3OTZLVXlhVTNlX0hXemVTZDJKQXV1TkxBUnZ0Z1RYcWNn?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-10-31T05:48:04+00:00"
+      "t": "[증시 동향] 코스피, 반짝 반등에 그치나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tWFdJdWtQeEFpRXVvcTZ2M2RFTF9TYm1ac2lTeGl6WDVyM1hzQlRVYmdhNHNjZGgtZmVrZFplQ1BWMWhxVkFTS3ZhRWhacEliYUo0V2ZER08zVHNVNC16RHVHa25na0syS3pPY2tzd2jSAXRBVV95cUxNRXhsTnBGdHByYk92VDFHWEZiSzhETldmdE9HUzRkYXVEV1RFN29ZbHN3c1BQQjFHN2hxNGRCbVlheHotSXZTOUNpcmFqbUZQdjhYSVpSVFlvNE4wWXdVT1o0WXRJZ0dWS05TZWxUYkkteTc5OA?oc=5",
+      "s": "이뉴스투데이",
+      "d": "2026-10-31T10:16:40+00:00"
     },
     {
-      "t": "10월 증시를 마감하며 : 역대급 하락을 만든 한 달",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN29pRUlrMWhuQzFoMTAzMHg5S1JhRF9tV0NEcG5OR2I5WGJ6OFFXdEtuZ1hGX05xaC1iNzJaMjEtLVJPRm0wZnB1TE9Sek9CVDI3TWV3QkhTdHVyc1BlVw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-31T05:47:22+00:00"
+      "t": "반도체 석·박사 대신 취업… 서울대 공대 대학원까지 미달",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1N1andkZ0VJdTFwQlFfUVVmVk5MR0E1LWRVbjR5bkZFRlJKTlV2WGpRb19fRUpRVGN2VFoycXkySXhwZHRwMjdVSzBrWEEtNWM1X1MyX1dudzhlYmRJNFFOdzQxWjBzYVVWazFqMGVnX09JUm9vaHBtSE5oS2JRWF9EdmQwZ0pjcEtJQ3FXUTU?oc=5",
+      "s": "조선일보",
+      "d": "2026-10-31T10:13:00+00:00"
     },
     {
-      "t": "용인반도체클러스터 거점 주차장 16만㎡→66만㎡ 확대",
-      "u": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPZVRFUnVsdkdvYjZNay0zSWFkQWZUUUpoMXowQ2wxZmpDNEM0NUdueS1xYUJYTlJBX1ZNaHk5STJPMnFjSEJBZDVMMFBuNUJKTmI5b3pGaE5Ial93NkN4SGI2MHFXb1NFcnV1SVByak1HdzlIMnZ6bDNiaXo2UVY2LVNwUWs1ZEdWclBFVzRPVGRSZ2dKSHF3amI1TUF3VEtxUXlGRVJBZV9yWkhNazBsZHktYUllMVRnT0NVTmYtdldJZHNIb3p2M2FZZVlUNHAtQ3UwNnY5YnVBV29UWjRqVFBKanAyNktaLTNMN25Ba0xRTzc1MEpITU8wTy1vclRwcXRfZWgwVGx3bFhRYzFKSlZQTHdzdUtTOHRmUG5lekduWXhD?oc=5",
-      "s": "중앙신문",
-      "d": "2026-10-31T05:40:54+00:00"
+      "t": "‘동네한바퀴’ 서울 금리단길 맛집, 산송이불고기 발효밥상 & 매운돼지갈비찜 식당 위치는? “다시 금빛으로”",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4weHlOQXJ5NlJTX3J0VG41c3dvaUFUYlJYdVFLLVI4SmQzOHA1UXpNX0d2ZmdsWi04dHhkRk1PNzZmdThuaHRxaXgwYko2SE5zX2h5bUxmakhwQ1pLNXVFb0lYMnQ2c1R2LThsR1VLZkRsQQ?oc=5",
+      "s": "톱스타뉴스",
+      "d": "2026-10-31T10:11:00+00:00"
     },
     {
-      "t": "삼성 사장단 50명, 올트먼과 AI 미래 논의…반도체 동맹 넘어 AX 전면전",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcXB2MWJCM1ctQ2M3TlBjdGQ2c1BZOTN3WC1GS2p0bC01REdNd0NXZkNhTTF4YUZNekRneEk4d1RlTC1ISkR1SWxqSHVFS3Q3ZG5CSnpoMnBHQWhUVVk3cV9nME1vM25KZVlxUA?oc=5",
-      "s": "뉴시안",
-      "d": "2026-10-31T05:40:16+00:00"
-    },
-    {
-      "t": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5",
-      "s": "www.ebn.co.kr",
-      "d": "2026-10-31T05:35:32+00:00"
+      "t": "'동네한바퀴' 경주 금리단길 발효 불고기·한방 족발 편",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zdm54YnJhME1XZFpnSS16Umx3YkI4NXoxX2dJQmpsd2FfZVpINGRUdE1FaUpPQTZDYmJSV0FZbVMzcFRJN2JxSGdrd25pYkc5TjBIODZtTUpoMTltNTVSRDQtOVQ?oc=5",
+      "s": "BNT뉴스",
+      "d": "2026-10-31T10:01:48+00:00"
     }
   ],
   "asof": {},
