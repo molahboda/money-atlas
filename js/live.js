@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T17:45:40+00:00",
-  "quotesAt": "2026-10-31T17:45:40+00:00",
-  "newsAt": "2026-10-31T17:45:40+00:00",
+  "fetchedAt": "2026-10-31T18:00:40+00:00",
+  "quotesAt": "2026-10-31T18:00:40+00:00",
+  "newsAt": "2026-10-31T18:00:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "[21세기 국제정치학의 대전환 ⑤] AI·드론·반도체가 바꾸는 국가권력…21세기 패권은 누가 차지하는가",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VDVMdUxqRHNTQ29fZ3hkLXgwbjdrcGJDVEszM3VPSjdUNFdmTjJFbUtKem92SkNLai0zblJIMW9Zd2JQNHJtMGhCbDZSOFhuaXdheHdFWnFJVGhqTzlZcC1RM0ltTkl0eG1PTw?oc=5",
+      "s": "www.climatepol.com",
+      "d": "2026-10-31T17:49:58+00:00"
+    },
     {
       "t": "\"AI 성장도 중요하지만 결국 현금\"…美 반도체 급락, 전문가가 짚은 변화",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ldTZ6ZWdydEFpbk1TOERFaWVVYlhBdEFhNjdndnFQV0JhUmtnSmtGdmt0TzZjREtocHFzYmZqR0R6NFhSbm1icmp2SUxJaTlBLWVJaVJabFlPaG9rTVp1T9IBeEFVX3lxTE1uLTFqSE1KelRoSUQ0Q3VXc05sR0x2QTdWcldZbk45eEE1WnhaV0N4SkdBUUhFb1ZqMHVLQklsVlJlOVNIalFBeDVfRzU1YjdzcU05Nnl6Z1NQbjdRbzdvOVVDNGp2cVVubjlReXZOTVBxU05wYzhoZA?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
       "s": "뉴시스",
       "d": "2026-10-31T13:03:33+00:00"
-    },
-    {
-      "t": "중동지역 긴장고조 등에 10월30일 국제유가 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUG9uWnp6NkUzLVhmZGRXVHJGVDQ4Y05xOE1jeTRzQmVBSTJKN283TUExamtqQmlUUzlEbzhpaVE5dFUxenZZNjZaUXpobW1iNlBwSkpTNlpheUtacnlmNWx0VDA2WFdId3pMSC1DN2x6Zw?oc=5",
-      "s": "에너지신문",
-      "d": "2026-10-31T12:49:31+00:00"
     }
   ],
   "asof": {},
