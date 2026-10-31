@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T16:45:41+00:00",
-  "quotesAt": "2026-10-31T16:45:41+00:00",
-  "newsAt": "2026-10-31T16:45:41+00:00",
+  "fetchedAt": "2026-10-31T17:00:41+00:00",
+  "quotesAt": "2026-10-31T17:00:41+00:00",
+  "newsAt": "2026-10-31T17:00:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -29,12 +29,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OUVVU1VMWjBnZm94SXl1bWs5LUtaVWZ1V24zVnltZ09WM3JGOTAxSGVmVzZEbGZ3dGdDTkNQWUlzNk5xd01Tay1oeHZsR0JlQmtZZVJhS0E1ZExrUndPaEVja20?oc=5",
       "s": "메디포뉴스",
       "d": "2026-10-31T16:17:58+00:00"
-    },
-    {
-      "t": "[증시전망대] 반등했지만 못 걷어낸 AI 불안…美 중간선거에 쏠린 눈",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4V292c1lzdlhWVGVid25FVDJhREc5MlExNFo5dmVIdWJ4TG9CYjdieW1qbEZoZnVwMHI5bW1FSGIzdzNKU1M1RzEwLXBCXzF1MFQ5WnFwUzlVbHc?oc=5",
-      "s": "www.dt.co.kr",
-      "d": "2026-10-31T15:13:28+00:00"
     },
     {
       "t": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUG9uWnp6NkUzLVhmZGRXVHJGVDQ4Y05xOE1jeTRzQmVBSTJKN283TUExamtqQmlUUzlEbzhpaVE5dFUxenZZNjZaUXpobW1iNlBwSkpTNlpheUtacnlmNWx0VDA2WFdId3pMSC1DN2x6Zw?oc=5",
       "s": "에너지신문",
       "d": "2026-10-31T12:49:31+00:00"
+    },
+    {
+      "t": "골드만삭스, 금리 상승과 AI 혼란을 장기 주식 수요 위협 요인으로 경고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-31T12:27:00+00:00"
     }
   ],
   "asof": {},
