@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T14:00:41+00:00",
-  "quotesAt": "2026-10-31T14:00:41+00:00",
-  "newsAt": "2026-10-31T14:00:41+00:00",
+  "fetchedAt": "2026-10-31T14:15:41+00:00",
+  "quotesAt": "2026-10-31T14:15:41+00:00",
+  "newsAt": "2026-10-31T14:15:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9USnA5NWE3dmUwTGFBczFYU3FLYzFVUVNWODl4SFphYUo2bC1MSFplMjNLb3YxZ0JsdEJZZWQ0Q1IxZDFIWDVxSHlKY0VRR1pvWGZWNnByNmRnLVhiYXJQddIBeEFVX3lxTE9IUlduUUJHWXJPT2w4V0xGYWt0Q2wwZE1pUFlaOE5tQW5veU5sT1VROGJvMnJEWWJ3bTlQM1JGbW0yTXVHS2ZhZGd3OFlwVzhoVlRjZ3JDTExpa3p0cjVxZmtDVnZaekdjOVNDdHhDSFhnNXh6RGItSw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-10-31T14:10:00+00:00"
+    },
+    {
+      "t": "중소기업 3분기 수출 334억 달러…화장품·반도체가 성장 견인",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMGwteUJiM2NsV19XcE5yLWxmaWt1cWlrcXJRbjJTYWxGeHA0M3k4RWlWcFNFTUs2U1JRcFBxY3lxcEJ2M1dLWmExY2dpMzhQNTZzaWhDWFlBTGRxc3FkcEkzSkpRNG9GeXFF?oc=5",
+      "s": "산학뉴스",
+      "d": "2026-10-31T14:03:11+00:00"
+    },
     {
       "t": "금값 3900弗 붕괴 1년만 최저…美 긴축·유가 118弗 직격탄",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9MNGV1S08zMkd3TjhyT1V0Z3ctdnJhNXlTTUphOFpaM0VTUEtWRms3aThFTFMxSHNjeS1iRjVCZkt5c3FKWGp4WVR2V0pyb3IyUEVIZ3piZmZDYWhndklwYWVRZFJZVkhCcVFCY0tYck5heVlBdDJQUjF0Y1R4QnZ6QmY4bTBQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqYW9CMGplZlhvbUR5emE0elQyMmdCRHR3VFpjNHNXdDhTdHh0QlV3Z3BmWTVuQmZkNmJxdFZod25jNkVsQVExU05QdXFTZGNOdmNrdnNPZEtQeXNrMzlPX2p0ekd2MEZ4eXU4eGNpWV9YaXdjQzJuZNIBeEFVX3lxTE90NEVlbHhHNDFod3c4RDd1NmlSUkVkdkxnVl9QYjI2b1RsejR2a2tacjVjdl91U3JOSk8tQi1XbGt5SnBZNlozVHF6ZmljdkhwLTV0TVhwUE1QeFJlSjZPaGUtUzV3RDhzQTBVcnRVcWlEeTJ5SmZ4Zg?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-10-31T11:06:26+00:00"
-    },
-    {
-      "t": "외국인이 한국 증시를 보는 두 개의 시선…19조 순매도에도 ETF는 샀다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CTEUtb0JjWFFuSF9lbElRLWU5RXNJbDZackhiRjBVUGltRm9XTFMtT2dUTWR2enVSblhUUmFBMGlxVWJxZERDRHdhbHozdTUydUJjX0lmQlFoQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-10-31T10:51:00+00:00"
-    },
-    {
-      "t": "'GPU 24장→4장으로'…AI 반도체 판 바꾸는 K스타트업",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6RDdQbS1qNFlvQnRWaXNEMEFEX2lUZGViU1pjbE0yMmhnc3dtTFYyT1A1bFczeEVNbl8ya0x2T3Vpc3haME90VnQ0akdmYllIYXZINEw4QzFQdzlsWl9veFNB?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-10-31T10:41:28+00:00"
     }
   ],
   "asof": {},
