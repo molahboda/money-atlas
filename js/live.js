@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T14:45:40+00:00",
-  "quotesAt": "2026-10-31T14:45:40+00:00",
-  "newsAt": "2026-10-31T14:45:40+00:00",
+  "fetchedAt": "2026-10-31T15:00:41+00:00",
+  "quotesAt": "2026-10-31T15:00:41+00:00",
+  "newsAt": "2026-10-31T15:00:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -49,12 +49,6 @@ window.LIVE_DATA = {
       "d": "2026-10-31T14:03:11+00:00"
     },
     {
-      "t": "한국공학대, '반도체특성화대학 성과교류회' 개최…현장 실무 연계 논의",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZ0xFcDdRN0kyS0dYY3ZaVnlHNUtHZEJZTHNfLUpyTnNLVEx1QUVtb2I4aDloNHBCclVqa3o3ZUZ6RUo0bXhNSmFjb1kyc0E5Q3N5bU1qWEFWX2VIRGRxMVNPQVk0alpwZlE?oc=5",
-      "s": "컨슈머타임스",
-      "d": "2026-10-31T13:52:14+00:00"
-    },
-    {
       "t": "금값 3900弗 붕괴 1년만 최저…美 긴축·유가 118弗 직격탄",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9MNGV1S08zMkd3TjhyT1V0Z3ctdnJhNXlTTUphOFpaM0VTUEtWRms3aThFTFMxSHNjeS1iRjVCZkt5c3FKWGp4WVR2V0pyb3IyUEVIZ3piZmZDYWhndklwYWVRZFJZVkhCcVFCY0tYck5heVlBdDJQUjF0Y1R4QnZ6QmY4bTBQ?oc=5",
       "s": "글로벌이코노믹",
@@ -68,7 +62,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRdIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
       "s": "뉴시스",
       "d": "2026-10-31T13:03:33+00:00"
     },
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-10-31T12:27:00+00:00"
+    },
+    {
+      "t": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-10-31T12:04:00+00:00"
     }
   ],
   "asof": {},
