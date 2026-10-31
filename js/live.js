@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T16:15:41+00:00",
-  "quotesAt": "2026-10-31T16:15:41+00:00",
-  "newsAt": "2026-10-31T16:15:41+00:00",
+  "fetchedAt": "2026-10-31T16:30:41+00:00",
+  "quotesAt": "2026-10-31T16:30:41+00:00",
+  "newsAt": "2026-10-31T16:30:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "사노피, 3분기 매출 두 자릿수 증가…연간 성장 전망 상향",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OUVVU1VMWjBnZm94SXl1bWs5LUtaVWZ1V24zVnltZ09WM3JGOTAxSGVmVzZEbGZ3dGdDTkNQWUlzNk5xd01Tay1oeHZsR0JlQmtZZVJhS0E1ZExrUndPaEVja20?oc=5",
+      "s": "메디포뉴스",
+      "d": "2026-10-31T16:17:58+00:00"
+    },
+    {
       "t": "[증시전망대] 반등했지만 못 걷어낸 AI 불안…美 중간선거에 쏠린 눈",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4V292c1lzdlhWVGVid25FVDJhREc5MlExNFo5dmVIdWJ4TG9CYjdieW1qbEZoZnVwMHI5bW1FSGIzdzNKU1M1RzEwLXBCXzF1MFQ5WnFwUzlVbHc?oc=5",
       "s": "www.dt.co.kr",
       "d": "2026-10-31T15:13:28+00:00"
+    },
+    {
+      "t": "증시 꺾이자 증권 계열사 ‘급제동’…금융지주 순익 증가세 ‘주춤’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yZEhQSl9zRENudGZsWHFCUEYxN0E1MXl5R0ZTUXlXWDZGTDNWMDRGbjVIRUV0d3o2ZFBDNTZtNEpiRGs4ZTF3OFBXbDI1emNFNG5SN1ZqeHhDY21ETXVrMDlsWTN3UlozRHBBbi1tNNIBb0FVX3lxTE4yZEhQSl9zRENudGZsWHFCUEYxN0E1MXl5R0ZTUXlXWDZGTDNWMDRGbjVIRUV0d3o2ZFBDNTZtNEpiRGs4ZTF3OFBXbDI1emNFNG5SN1ZqeHhDY21ETXVrMDlsWTN3UlozRHBBbi1tNA?oc=5",
+      "s": "투데이신문",
+      "d": "2026-10-31T15:00:09+00:00"
     },
     {
       "t": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9MNGV1S08zMkd3TjhyT1V0Z3ctdnJhNXlTTUphOFpaM0VTUEtWRms3aThFTFMxSHNjeS1iRjVCZkt5c3FKWGp4WVR2V0pyb3IyUEVIZ3piZmZDYWhndklwYWVRZFJZVkhCcVFCY0tYck5heVlBdDJQUjF0Y1R4QnZ6QmY4bTBQ?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-10-31T13:23:15+00:00"
-    },
-    {
-      "t": "월요일 증시가 두렵다…인텔 52년 만의 폭락에 삼전닉스 투자자 ‘긴장’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uaGE2S3JsQU93cEQ0blBNNXpKVFhtbndzckl2OFFnQ1JvSWltNmlZS1hWbGZpS1BTYVhMOUltbUxCV25xRjRtSWNCVG5DR0h3c0VucmhacmJZQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-10-31T13:15:00+00:00"
-    },
-    {
-      "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRdIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-31T13:03:33+00:00"
     }
   ],
   "asof": {},
