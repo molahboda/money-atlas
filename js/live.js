@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T15:45:42+00:00",
-  "quotesAt": "2026-10-31T15:45:42+00:00",
-  "newsAt": "2026-10-31T15:45:42+00:00",
+  "fetchedAt": "2026-10-31T16:00:41+00:00",
+  "quotesAt": "2026-10-31T16:00:41+00:00",
+  "newsAt": "2026-10-31T16:00:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,16 +25,16 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[증시전망대] 반등했지만 못 걷어낸 AI 불안…美 중간선거에 쏠린 눈",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4V292c1lzdlhWVGVid25FVDJhREc5MlExNFo5dmVIdWJ4TG9CYjdieW1qbEZoZnVwMHI5bW1FSGIzdzNKU1M1RzEwLXBCXzF1MFQ5WnFwUzlVbHc?oc=5",
+      "s": "www.dt.co.kr",
+      "d": "2026-10-31T15:13:28+00:00"
+    },
+    {
       "t": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0ZnWTZIU2hvMkpXSk9OaU9PVTU1WTRkUmxsTjQ5MXFDelFHNklDdC1sQ0ttR3dzMXhCQm9YbXFOV0tZbDJlMUMwaDZfZ2pPVDRfdW40OTBUczB2TDRCNWltUUtMWGN4MXFtQU1NMkNlaHpIM1h2VEtzM1JJTHF4b1hSRQ?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-10-31T15:00:00+00:00"
-    },
-    {
-      "t": "미국 중간선거 D-3, 민주당 8.9%p 우세…트럼프 이란 전쟁·물가가 최대 변수",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE40bVFyNnlPdFJZZlB4Ukkzb0VWeDFMaG9FbW8td1gtM3pROS1HakNvWk9SakVmMjRXVi1FQTU1S2s2dDYxcE02ZjgyMkJGMjBXQnBCTkppRmt5YnU2aWlZV3Yzd01Pek9DMDhLNzNjQWMydw?oc=5",
-      "s": "톱스타뉴스",
-      "d": "2026-10-31T14:22:00+00:00"
     },
     {
       "t": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
@@ -74,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRdIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
       "s": "뉴시스",
       "d": "2026-10-31T13:03:33+00:00"
     },
