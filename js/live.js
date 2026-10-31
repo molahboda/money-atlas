@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T13:00:41+00:00",
-  "quotesAt": "2026-10-31T13:00:41+00:00",
-  "newsAt": "2026-10-31T13:00:41+00:00",
+  "fetchedAt": "2026-10-31T13:15:41+00:00",
+  "quotesAt": "2026-10-31T13:15:41+00:00",
+  "newsAt": "2026-10-31T13:15:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-10-31T13:03:33+00:00"
+    },
+    {
+      "t": "중동지역 긴장고조 등에 10월30일 국제유가 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUG9uWnp6NkUzLVhmZGRXVHJGVDQ4Y05xOE1jeTRzQmVBSTJKN283TUExamtqQmlUUzlEbzhpaVE5dFUxenZZNjZaUXpobW1iNlBwSkpTNlpheUtacnlmNWx0VDA2WFdId3pMSC1DN2x6Zw?oc=5",
+      "s": "에너지신문",
+      "d": "2026-10-31T12:49:31+00:00"
+    },
+    {
       "t": "골드만삭스, 금리 상승과 AI 혼란을 장기 주식 수요 위협 요인으로 경고",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
       "s": "Investing.com 한국어",
@@ -44,7 +56,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "인텔 29% 폭락‥美 반도체주 시총 860조 원 증발",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqYW9CMGplZlhvbUR5emE0elQyMmdCRHR3VFpjNHNXdDhTdHh0QlV3Z3BmWTVuQmZkNmJxdFZod25jNkVsQVExU05QdXFTZGNOdmNrdnNPZEtQeXNrMzlPX2p0ekd2MEZ4eXU4eGNpWV9YaXdjQzJuZA?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqYW9CMGplZlhvbUR5emE0elQyMmdCRHR3VFpjNHNXdDhTdHh0QlV3Z3BmWTVuQmZkNmJxdFZod25jNkVsQVExU05QdXFTZGNOdmNrdnNPZEtQeXNrMzlPX2p0ekd2MEZ4eXU4eGNpWV9YaXdjQzJuZNIBeEFVX3lxTE90NEVlbHhHNDFod3c4RDd1NmlSUkVkdkxnVl9QYjI2b1RsejR2a2tacjVjdl91U3JOSk8tQi1XbGt5SnBZNlozVHF6ZmljdkhwLTV0TVhwUE1QeFJlSjZPaGUtUzV3RDhzQTBVcnRVcWlEeTJ5SmZ4Zg?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-10-31T11:06:26+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tWFdJdWtQeEFpRXVvcTZ2M2RFTF9TYm1ac2lTeGl6WDVyM1hzQlRVYmdhNHNjZGgtZmVrZFplQ1BWMWhxVkFTS3ZhRWhacEliYUo0V2ZER08zVHNVNC16RHVHa25na0syS3pPY2tzd2jSAXRBVV95cUxNRXhsTnBGdHByYk92VDFHWEZiSzhETldmdE9HUzRkYXVEV1RFN29ZbHN3c1BQQjFHN2hxNGRCbVlheHotSXZTOUNpcmFqbUZQdjhYSVpSVFlvNE4wWXdVT1o0WXRJZ0dWS05TZWxUYkkteTc5OA?oc=5",
       "s": "이뉴스투데이",
       "d": "2026-10-31T10:16:40+00:00"
-    },
-    {
-      "t": "반도체 석·박사 대신 취업… 서울대 공대 대학원까지 미달",
-      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1N1andkZ0VJdTFwQlFfUVVmVk5MR0E1LWRVbjR5bkZFRlJKTlV2WGpRb19fRUpRVGN2VFoycXkySXhwZHRwMjdVSzBrWEEtNWM1X1MyX1dudzhlYmRJNFFOdzQxWjBzYVVWazFqMGVnX09JUm9vaHBtSE5oS2JRWF9EdmQwZ0pjcEtJQ3FXUTU?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-31T10:13:00+00:00"
-    },
-    {
-      "t": "‘동네한바퀴’ 서울 금리단길 맛집, 산송이불고기 발효밥상 & 매운돼지갈비찜 식당 위치는? “다시 금빛으로”",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4weHlOQXJ5NlJTX3J0VG41c3dvaUFUYlJYdVFLLVI4SmQzOHA1UXpNX0d2ZmdsWi04dHhkRk1PNzZmdThuaHRxaXgwYko2SE5zX2h5bUxmakhwQ1pLNXVFb0lYMnQ2c1R2LThsR1VLZkRsQQ?oc=5",
-      "s": "톱스타뉴스",
-      "d": "2026-10-31T10:11:00+00:00"
     }
   ],
   "asof": {},
