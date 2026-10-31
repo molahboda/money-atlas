@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T14:30:41+00:00",
-  "quotesAt": "2026-10-31T14:30:41+00:00",
-  "newsAt": "2026-10-31T14:30:41+00:00",
+  "fetchedAt": "2026-10-31T14:45:40+00:00",
+  "quotesAt": "2026-10-31T14:45:40+00:00",
+  "newsAt": "2026-10-31T14:45:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -35,6 +35,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWUUwbFNvYkVZX1ZOcXA4N1dSTVZjTjc3VGZ0c3FVd28zc0Q0T0pkbTJVc2MtZkFDOEJKQVBHcjBLMWwweFA0UFJXTTVielhLR3BKZ0JaR1pMZw?oc=5",
       "s": "파이낸셜뉴스",
       "d": "2026-10-31T14:07:52+00:00"
+    },
+    {
+      "t": "DGIST 김영식 교수팀, 48시간 반도체 보안 분석 ‘세계 2위’",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEbkZ0QWFWeFdka05ybXo3NGtQZmFFSDZYTXNPRnZFb0RhTk41YzhQd180dVZDM1NFSDc2ZlRnZFlnSENXTG80Vi1QSmhuNk4xbFVHcjN0X2p0WExUYW5tU1FUOHNtM29KUHZENmpFWmN3VGhJX1pSWG530gF_QVVfeXFMUDdaVnBpcVMtUGh5WWRyXzZ6SnFzbER2Z0k3MjZnUk1KTVgzbXZpSkF1bWg1NHJVUWVUS2NLbzdaQ0NiaHNSRVl2TkNJWEpSTUllNWxqRkVBX1RYVEJYV1dxenVyaGlJdGt5a0ZiQWp4NWZsdHNJMGFCZVUxcm90cw?oc=5",
+      "s": "뉴데일리 대구경북",
+      "d": "2026-10-31T14:05:00+00:00"
     },
     {
       "t": "중소기업 3분기 수출 334억 달러…화장품·반도체가 성장 견인",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-10-31T12:27:00+00:00"
-    },
-    {
-      "t": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-10-31T12:04:00+00:00"
     }
   ],
   "asof": {},
