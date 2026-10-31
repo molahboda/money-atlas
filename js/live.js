@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T13:15:41+00:00",
-  "quotesAt": "2026-10-31T13:15:41+00:00",
-  "newsAt": "2026-10-31T13:15:41+00:00",
+  "fetchedAt": "2026-10-31T13:30:41+00:00",
+  "quotesAt": "2026-10-31T13:30:41+00:00",
+  "newsAt": "2026-10-31T13:30:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "금값 3900弗 붕괴 1년만 최저…美 긴축·유가 118弗 직격탄",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9MNGV1S08zMkd3TjhyT1V0Z3ctdnJhNXlTTUphOFpaM0VTUEtWRms3aThFTFMxSHNjeS1iRjVCZkt5c3FKWGp4WVR2V0pyb3IyUEVIZ3piZmZDYWhndklwYWVRZFJZVkhCcVFCY0tYck5heVlBdDJQUjF0Y1R4QnZ6QmY4bTBQ?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-10-31T13:23:15+00:00"
+    },
+    {
+      "t": "월요일 증시가 두렵다…인텔 52년 만의 폭락에 삼전닉스 투자자 ‘긴장’",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uaGE2S3JsQU93cEQ0blBNNXpKVFhtbndzckl2OFFnQ1JvSWltNmlZS1hWbGZpS1BTYVhMOUltbUxCV25xRjRtSWNCVG5DR0h3c0VucmhacmJZQQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-10-31T13:15:00+00:00"
+    },
     {
       "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6RDdQbS1qNFlvQnRWaXNEMEFEX2lUZGViU1pjbE0yMmhnc3dtTFYyT1A1bFczeEVNbl8ya0x2T3Vpc3haME90VnQ0akdmYllIYXZINEw4QzFQdzlsWl9veFNB?oc=5",
       "s": "이코노미스트",
       "d": "2026-10-31T10:41:28+00:00"
-    },
-    {
-      "t": "최태원·올트먼 회동…AI 반도체 협력 논의 주목",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zMFhUYk5Zb1FsVk5DMnNxU0VCaVJfNk5UcTZhQmlwTkdaSlNudUxvNkJPVVZqOHlKSHNVUm00YUdSdjBnNkR4X2xNemRmSkNYZmtreVVCbVlscWNxUC1yVQ?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-10-31T10:19:47+00:00"
-    },
-    {
-      "t": "[증시 동향] 코스피, 반짝 반등에 그치나",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tWFdJdWtQeEFpRXVvcTZ2M2RFTF9TYm1ac2lTeGl6WDVyM1hzQlRVYmdhNHNjZGgtZmVrZFplQ1BWMWhxVkFTS3ZhRWhacEliYUo0V2ZER08zVHNVNC16RHVHa25na0syS3pPY2tzd2jSAXRBVV95cUxNRXhsTnBGdHByYk92VDFHWEZiSzhETldmdE9HUzRkYXVEV1RFN29ZbHN3c1BQQjFHN2hxNGRCbVlheHotSXZTOUNpcmFqbUZQdjhYSVpSVFlvNE4wWXdVT1o0WXRJZ0dWS05TZWxUYkkteTc5OA?oc=5",
-      "s": "이뉴스투데이",
-      "d": "2026-10-31T10:16:40+00:00"
     }
   ],
   "asof": {},
