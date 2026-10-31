@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T17:00:41+00:00",
-  "quotesAt": "2026-10-31T17:00:41+00:00",
-  "newsAt": "2026-10-31T17:00:41+00:00",
+  "fetchedAt": "2026-10-31T17:15:41+00:00",
+  "quotesAt": "2026-10-31T17:15:41+00:00",
+  "newsAt": "2026-10-31T17:15:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,16 +25,34 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"AI 성장도 중요하지만 결국 현금\"…美 반도체 급락, 전문가가 짚은 변화",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ldTZ6ZWdydEFpbk1TOERFaWVVYlhBdEFhNjdndnFQV0JhUmtnSmtGdmt0TzZjREtocHFzYmZqR0R6NFhSbm1icmp2SUxJaTlBLWVJaVJabFlPaG9rTVp1T9IBeEFVX3lxTE1uLTFqSE1KelRoSUQ0Q3VXc05sR0x2QTdWcldZbk45eEE1WnhaV0N4SkdBUUhFb1ZqMHVLQklsVlJlOVNIalFBeDVfRzU1YjdzcU05Nnl6Z1NQbjdRbzdvOVVDNGp2cVVubjlReXZOTVBxU05wYzhoZA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-10-31T17:00:00+00:00"
+    },
+    {
       "t": "사노피, 3분기 매출 두 자릿수 증가…연간 성장 전망 상향",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OUVVU1VMWjBnZm94SXl1bWs5LUtaVWZ1V24zVnltZ09WM3JGOTAxSGVmVzZEbGZ3dGdDTkNQWUlzNk5xd01Tay1oeHZsR0JlQmtZZVJhS0E1ZExrUndPaEVja20?oc=5",
       "s": "메디포뉴스",
       "d": "2026-10-31T16:17:58+00:00"
     },
     {
+      "t": "증시 꺾이자 증권 계열사 ‘급제동’…금융지주 순익 증가세 ‘주춤’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yZEhQSl9zRENudGZsWHFCUEYxN0E1MXl5R0ZTUXlXWDZGTDNWMDRGbjVIRUV0d3o2ZFBDNTZtNEpiRGs4ZTF3OFBXbDI1emNFNG5SN1ZqeHhDY21ETXVrMDlsWTN3UlozRHBBbi1tNNIBb0FVX3lxTE4yZEhQSl9zRENudGZsWHFCUEYxN0E1MXl5R0ZTUXlXWDZGTDNWMDRGbjVIRUV0d3o2ZFBDNTZtNEpiRGs4ZTF3OFBXbDI1emNFNG5SN1ZqeHhDY21ETXVrMDlsWTN3UlozRHBBbi1tNA?oc=5",
+      "s": "투데이신문",
+      "d": "2026-10-31T15:00:09+00:00"
+    },
+    {
       "t": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
       "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0ZnWTZIU2hvMkpXSk9OaU9PVTU1WTRkUmxsTjQ5MXFDelFHNklDdC1sQ0ttR3dzMXhCQm9YbXFOV0tZbDJlMUMwaDZfZ2pPVDRfdW40OTBUczB2TDRCNWltUUtMWGN4MXFtQU1NMkNlaHpIM1h2VEtzM1JJTHF4b1hSRQ?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-10-31T15:00:00+00:00"
+    },
+    {
+      "t": "김의찬의 금리시장 동향",
+      "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTdzaXV3U3pUZVVpZ28xeUd5d1U4c0huTDdnV1p1S2Ftb3FENHBzYXVJVFNncmhUd1NJRHBTNExZTUptLWs0QXpuQnNaTnNuemt6Q1k3b3k2RmctcDJrdG9DNEIwWWZKeHhzVEQydDBJdVN1aVFLejc1LXk1RFUyVFRkYmg2V2J1OUx4dFRWT2k1UXhYOFZV?oc=5",
+      "s": "CME Group",
+      "d": "2026-10-31T14:18:59+00:00"
     },
     {
       "t": "캐나다·EU, 트럼프 관세 위협 맞서 '미래동맹' 출범…전방위 밀착",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uaGE2S3JsQU93cEQ0blBNNXpKVFhtbndzckl2OFFnQ1JvSWltNmlZS1hWbGZpS1BTYVhMOUltbUxCV25xRjRtSWNCVG5DR0h3c0VucmhacmJZQQ?oc=5",
       "s": "경북매일",
       "d": "2026-10-31T13:15:00+00:00"
-    },
-    {
-      "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-31T13:03:33+00:00"
-    },
-    {
-      "t": "중동지역 긴장고조 등에 10월30일 국제유가 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUG9uWnp6NkUzLVhmZGRXVHJGVDQ4Y05xOE1jeTRzQmVBSTJKN283TUExamtqQmlUUzlEbzhpaVE5dFUxenZZNjZaUXpobW1iNlBwSkpTNlpheUtacnlmNWx0VDA2WFdId3pMSC1DN2x6Zw?oc=5",
-      "s": "에너지신문",
-      "d": "2026-10-31T12:49:31+00:00"
-    },
-    {
-      "t": "골드만삭스, 금리 상승과 AI 혼란을 장기 주식 수요 위협 요인으로 경고",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-10-31T12:27:00+00:00"
     }
   ],
   "asof": {},
