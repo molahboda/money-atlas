@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T12:30:41+00:00",
-  "quotesAt": "2026-10-31T12:30:41+00:00",
-  "newsAt": "2026-10-31T12:30:41+00:00",
+  "fetchedAt": "2026-10-31T12:45:41+00:00",
+  "quotesAt": "2026-10-31T12:45:41+00:00",
+  "newsAt": "2026-10-31T12:45:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "골드만삭스, 금리 상승과 AI 혼란을 장기 주식 수요 위협 요인으로 경고",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbDNsMVA0NWRkdjJIRGlhVllDQmVBR2lIeFFsZzcteHA3aElzX1FWenIweTgwUWxYaHdDNVRDSTFib1R6cERfMWdPMC1OZk9sdlBfYW1FMUU1VkRzZjJUYVdlbVowOWJXM0RmcUd2RVA?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-31T12:27:00+00:00"
+    },
     {
       "t": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4weHlOQXJ5NlJTX3J0VG41c3dvaUFUYlJYdVFLLVI4SmQzOHA1UXpNX0d2ZmdsWi04dHhkRk1PNzZmdThuaHRxaXgwYko2SE5zX2h5bUxmakhwQ1pLNXVFb0lYMnQ2c1R2LThsR1VLZkRsQQ?oc=5",
       "s": "톱스타뉴스",
       "d": "2026-10-31T10:11:00+00:00"
-    },
-    {
-      "t": "'동네한바퀴' 경주 금리단길 발효 불고기·한방 족발 편",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zdm54YnJhME1XZFpnSS16Umx3YkI4NXoxX2dJQmpsd2FfZVpINGRUdE1FaUpPQTZDYmJSV0FZbVMzcFRJN2JxSGdrd25pYkc5TjBIODZtTUpoMTltNTVSRDQtOVQ?oc=5",
-      "s": "BNT뉴스",
-      "d": "2026-10-31T10:01:48+00:00"
     }
   ],
   "asof": {},
