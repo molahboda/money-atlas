@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-10-31T06:30:31+00:00",
-  "quotesAt": "2026-10-31T06:30:31+00:00",
-  "newsAt": "2026-10-31T06:30:31+00:00",
+  "fetchedAt": "2026-10-31T06:45:26+00:00",
+  "quotesAt": "2026-10-31T06:45:26+00:00",
+  "newsAt": "2026-10-31T06:45:26+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "일본은행, 기준금리 1.25% 동결⋯\"기조 물가 2% 목표와 정합\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EVkhvTkVCWEFRR0dYWUtWSTVWRVkyQjVvaXBtSDRmYWczR3BXTHJPVFlDMmdjSVRpTVQ1TjNjZkw2ZGpmWXZDcFlSRUt5UXFDbGVSZUt3UXl5QWxYd1E?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-10-30T05:11:17+00:00"
+      "t": "호르무즈 공격으로 이란 평화 협상 난항…유가 6개월 최고치",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fWmlYVW91R0k0by03blhKUFRfVTBra1hHbGlMclFGM3dtY0JtSkVHWmFRcXNqT0Y0aENvY2VzdTU4a0NYWHJ2Sm9PTGFwZm1wcE5JT2tDNnJteFV3TkZfV3BNYXNWWkRWNVE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-31T06:07:00+00:00"
     },
     {
-      "t": "일본은행, 기준금리 1.25% 유지…\"물가 안정 목표치 도달\" 공식화 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lOVB3cmFwQWJrOHhIMGZPdGlIQ0NuX3g2ZG42QUFlUDh2VkxzWXphRFQ4U0xoa2x0UzBpVlU1azdYdGpnWE9MVEpRb3N1UDNMYXFmMndCdEEtWkVZaU5MREY0ZjFWcEFl0gFuQVVfeXFMUHgxOVRYcWd5dXViZ3Nqc1ZLQmpDY0x0aDBhVjB3SnVzeUZCTjFKbDkzZGdReG1EMHdBb0hpWEJYVGgyblhWaXRyYXZZX0F0dmNyN0RiTDZXcFhJeVdvVVZvX1M0MlYwWktLZ2hMcVE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-10-30T04:55:12+00:00"
+      "t": "반도체가 흔들릴 때 봐야할 비반도체 21종목",
+      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGNaUHdrNEcwU195MkR5UHp3SnE2OThFbElhZS1XUTNqQzJTdmpLemQtMDZsYzc0ekZ0eXhhU1hDWGw5bmtIN3R5ZWpEX0EzQXNXVno3Y2wyeVFpTkpRRFNVVUJOYTlsU18zN20tQ3NUM3VFTUU2dTJrT1c4VEtPZW45dw?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-10-31T06:04:00+00:00"
     },
     {
-      "t": "日 기준금리 1.25%로 유지…\"물가 목표 2% 달성\" 추가 인상에 힘 실려",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTc0UnRsdmV4a3o0bnJqVHczS2UxVWpadm12Zzg0YTBkZElzT3lxNEI5UEVfS2FPeGtWNV94RXF5bUlPUEwxQTBtZmw3MnI3UUhTRUp1REpYS3ZPc3BvY01idWtFQkZjUkdQUUlaN2QtRFNSRUtESUJKZXRXQ1BVS2Rwbkh3SDJZZ2diTmRR?oc=5",
-      "s": "조선일보",
-      "d": "2026-10-30T04:50:00+00:00"
-    },
-    {
-      "t": "동국제강, 3Q 영업익·매출액 모두 20%대 성장…반도체·AI 수혜(종합)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sU3BxVVNOXzhGS2NCdS1sVW9aQW9DMU5WOWlKNmkwaGRHRmh6WW1JdnM5ZHA3NkRlSF9zWWZvQU9nZUdUNmVDN1ZJeXFld1BUeWlLUnQ0LWp3VEtrd3p6dEw5Vnpoa0Zhc3ViT3pITlg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-10-30T04:48:06+00:00"
-    },
-    {
-      "t": "일본은행, 기준금리 1.25% 동결…\"물가 목표 2% 달성\"",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DNDhQT1BIV1k2eFJHb0RRYkl3UUJfVG9iUmpmNTJLUk4wc0YtamxjQ0tWdnAzYkVqWnRwbkVCODYtNy1SUmgxOF9ZaUNWQ2xOaTUzWW80OTJMNnYyNmtB?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-10-30T04:39:31+00:00"
-    },
-    {
-      "t": "‘동네지기’ 이만기 경주 출격...‘금리단길’ 46년 전통! 세 자매가 지킨 아버지의 매운 돼지갈비찜 맛은?",
-      "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlhldnRfREpucHlrR1VYejRvckZwajFYazVqNVd2Qk9tMVRrRVk2OTQ5YmxVcWdQX3ZCZFdWRWoxM3REbGowbndhRmx3dVBsZ0xIRlQ3VVhDaDd4M1dDTFBkM3dudzNFeVZhSW05YXhBSktQbGI3U2Qzd05OWUc5dTEyU0ZGWEdIam5RUmNaY3J6Q2FKS0xib3RoMlExSmx5bnZPWUlJeFdnNGFCR1BCRGtIaw?oc=5",
-      "s": "MyloveKBS",
-      "d": "2026-10-30T04:25:44+00:00"
-    },
-    {
-      "t": "글로벌 향하는 반도체, 쇄신 택한 에너지…SK그룹 사장단 인사",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MWHE5STFKNmt0VElkVlpGSy0zdGpNTDBoTmxkYmx2c25YOUlZdmlXUzFXNUEtcTJiTDA5Ykpnc2Q4VGF6OFhTbmdqQkIxQQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-10-30T04:21:43+00:00"
-    },
-    {
-      "t": "일본, 기준금리 1.25% 동결···‘물가 목표 달성’에 추가 인상 가능성 주목",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0ejRON3JwNmczbXR1cjkzeG9ab28zdFNzQ0NIa3JkV1JEcXF4b2RtMW1VMjloOC10MGFYbHRiODF2a3FpNUpycVhJc3hUYlR6MXM2eVJwbWJDd9IBX0FVX3lxTFA3ZXd4aXphbkdoNW00ZHNNNFBGQ2FLQnkyV1I0VGtXTnpfTUYwMFo2aWpqUHEzczAzZkxYam80VXZ0QnJ3OEg2VGVOOVhXdk1Xd09hd09hWlJhVm9FM3NN?oc=5",
-      "s": "경향신문",
-      "d": "2026-10-30T04:21:00+00:00"
-    },
-    {
-      "t": "코스피·코스닥, 4%대 동반 급락…AI 밸류체인 '와르르'",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmN5azctNmNWUWVXSE1FdF9lV1k5bllBMTFnSE1GdkY3aFpKWkpVNkJrSjhEYmt5dkNnSmtXTDVINHVsR0NoY25BbHcwMGRCZDdxMFdNYmhNYnhZcnBMdC0xekpxb19kbXZKMURMQWc4NHUwNEJ3bkJsLUh3aFVfLTNZX0trM3p4?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-10-30T04:18:33+00:00"
-    },
-    {
-      "t": "코스피 4%대 급락…매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iclU3UTlwUTdRY0xiaExuemtOX093ZzlQMjliLWNzcWJZV0tNQ2xBckowN2dxOEpGX1FvQ2c2NW81VmhXcGYyRnpoVHBlOGZzaFRxVThyQkN1UQ?oc=5",
+      "t": "\"주가 떨어져도 돈은 따박따박\"…개미들 2.8조 몰린 상품 [이수의 ETF줌인]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5",
       "s": "한국경제",
-      "d": "2026-10-30T04:13:00+00:00"
+      "d": "2026-10-31T06:00:03+00:00"
+    },
+    {
+      "t": "오픈AI, 자금조달 목표 100억달러 낮춰…AI 투자 불안 확산",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WYk9yS0dvYm54WHFQeEt2OE5id1RkQlY0dTdkbWVtR1FicXRNb3VaT0wwUDJKWGxhMkxWWFN0UW9VVmdGZ3M4aVpsZ2ktWnA5TjNkSDZTMWFwRjBtYWZnX0VXZ0cwLXdV?oc=5",
+      "s": "www.ebn.co.kr",
+      "d": "2026-10-31T05:57:13+00:00"
+    },
+    {
+      "t": "용인시, 첨단시스템반도체 국가산단 부지 조성 착공 따른 종합대책 마련 나서",
+      "u": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxORm9HQUcwanVoTk9zc1NHcHZPZDBPMjVMWU83MGY5S25WWWhPVzZuSnotOFF1cWpBMmQ4Y2JlTkFRcGJyMkVzbmVGQUExYngtN3NodzdSQnkxcFk1LUwzcDktR19MUTBzdWc2UkdIUko5VVlyNS1fY1JYOUVZSTFCd2ljR0JxS01IZTh6MUE3VVl4aTlZWloyUnI1cDZ0ZzhKdllndmU3SWMzOUlqMDZBTFBsRDhsbC1ZaXNUYUFsTnVSM2cxTWJCNzdLeVpUc0JNd2N1RFFPQjU0THBkM0l1ZDZpSnBuYjJWb2YwTU5FQWZpelR4WFNXZVFvMklVTVBFbGFTWktsMUIyVkNjNWV0M0p2UzJTWXlrQVUyaXlwNjhzSk9KQnpLNGtJRHZQNFl0OFRNU3hEYTdaQkpzUWZrWGJaVlZrTEFrX3V5VkRxNXNNZ3g4UWZWcTdKQjhESlVpSTBhMzlneEpBcmNENDVPTmlGbXVwcDNqMkJQWmxZaWROUDZFWUY5MFJaWUdJclFtYXJ6cUNSeWcya2dWY2szb0tDTG8xcHR5Tl9YakFIZjZXc1JQRXNjXy1GNDhMUTJHSmNVbUY1cVFMdzVfcWpIRWoxc1YzaWJu?oc=5",
+      "s": "중앙신문",
+      "d": "2026-10-31T05:56:31+00:00"
+    },
+    {
+      "t": "3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PWE92bkZ0cGVFTHhxa2kyLUc3MkNxT2ZUSENnblVTOEUwOF9HZFFaU2hRUk5FZmQ3RF9LalZYVkRWX3BQNnA1NlJLLTI3OTZLVXlhVTNlX0hXemVTZDJKQXV1TkxBUnZ0Z1RYcWNn?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-10-31T05:48:04+00:00"
+    },
+    {
+      "t": "10월 증시를 마감하며 : 역대급 하락을 만든 한 달",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN29pRUlrMWhuQzFoMTAzMHg5S1JhRF9tV0NEcG5OR2I5WGJ6OFFXdEtuZ1hGX05xaC1iNzJaMjEtLVJPRm0wZnB1TE9Sek9CVDI3TWV3QkhTdHVyc1BlVw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-10-31T05:47:22+00:00"
+    },
+    {
+      "t": "용인반도체클러스터 거점 주차장 16만㎡→66만㎡ 확대",
+      "u": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPZVRFUnVsdkdvYjZNay0zSWFkQWZUUUpoMXowQ2wxZmpDNEM0NUdueS1xYUJYTlJBX1ZNaHk5STJPMnFjSEJBZDVMMFBuNUJKTmI5b3pGaE5Ial93NkN4SGI2MHFXb1NFcnV1SVByak1HdzlIMnZ6bDNiaXo2UVY2LVNwUWs1ZEdWclBFVzRPVGRSZ2dKSHF3amI1TUF3VEtxUXlGRVJBZV9yWkhNazBsZHktYUllMVRnT0NVTmYtdldJZHNIb3p2M2FZZVlUNHAtQ3UwNnY5YnVBV29UWjRqVFBKanAyNktaLTNMN25Ba0xRTzc1MEpITU8wTy1vclRwcXRfZWgwVGx3bFhRYzFKSlZQTHdzdUtTOHRmUG5lekduWXhD?oc=5",
+      "s": "중앙신문",
+      "d": "2026-10-31T05:40:54+00:00"
+    },
+    {
+      "t": "삼성 사장단 50명, 올트먼과 AI 미래 논의…반도체 동맹 넘어 AX 전면전",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcXB2MWJCM1ctQ2M3TlBjdGQ2c1BZOTN3WC1GS2p0bC01REdNd0NXZkNhTTF4YUZNekRneEk4d1RlTC1ISkR1SWxqSHVFS3Q3ZG5CSnpoMnBHQWhUVVk3cV9nME1vM25KZVlxUA?oc=5",
+      "s": "뉴시안",
+      "d": "2026-10-31T05:40:16+00:00"
+    },
+    {
+      "t": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5",
+      "s": "www.ebn.co.kr",
+      "d": "2026-10-31T05:35:32+00:00"
     }
   ],
   "asof": {},
