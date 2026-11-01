@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T19:00:49+00:00",
-  "quotesAt": "2026-11-01T19:00:49+00:00",
-  "newsAt": "2026-11-01T19:00:49+00:00",
+  "fetchedAt": "2026-11-01T19:15:40+00:00",
+  "quotesAt": "2026-11-01T19:15:40+00:00",
+  "newsAt": "2026-11-01T19:15:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[21세기 국제정치학의 대전환 ⑤] AI·드론·반도체가 바꾸는 국가권력…21세기 패권은 누가 차지하는가",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VDVMdUxqRHNTQ29fZ3hkLXgwbjdrcGJDVEszM3VPSjdUNFdmTjJFbUtKem92SkNLai0zblJIMW9Zd2JQNHJtMGhCbDZSOFhuaXdheHdFWnFJVGhqTzlZcC1RM0ltTkl0eG1PTw?oc=5",
-      "s": "www.climatepol.com",
-      "d": "2026-10-31T17:49:58+00:00"
+      "t": "만년 저평가 151개사 '경고장' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fR2JTYjlSa1JRLVVDSjNHLVQ2bnlFazRsTWhnSFhYQ2ppS0h6QUtCeUxBM1JlZ0prbDFPdmpjMlRURDNrN3kwMDA1MEU1Q1JYbWtVa3NCSjRUa2ZQX1hPV09jLXpIay1yMnRqTVI2SkNxSEktQmfSAXtBVV95cUxQSHp4RzZENUVJTkJESEdnY2RObzZHcnp2MVVQNlVCOVpxOXBmeGRnM3FIVTRGaE5ZTE5HX29IcGJGRHRMSndjSTlTekx2cWV3MUItelZqR2hCa0VGeU5JdF9GWGJLX1VtOVlIQTdSazNtM2JiX0FTdVpDRjg?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-01T19:04:00+00:00"
     },
     {
-      "t": "\"AI 성장도 중요하지만 결국 현금\"…美 반도체 급락, 전문가가 짚은 변화",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ldTZ6ZWdydEFpbk1TOERFaWVVYlhBdEFhNjdndnFQV0JhUmtnSmtGdmt0TzZjREtocHFzYmZqR0R6NFhSbm1icmp2SUxJaTlBLWVJaVJabFlPaG9rTVp1T9IBeEFVX3lxTE1uLTFqSE1KelRoSUQ0Q3VXc05sR0x2QTdWcldZbk45eEE1WnhaV0N4SkdBUUhFb1ZqMHVLQklsVlJlOVNIalFBeDVfRzU1YjdzcU05Nnl6Z1NQbjdRbzdvOVVDNGp2cVVubjlReXZOTVBxU05wYzhoZA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-31T17:00:00+00:00"
-    },
-    {
-      "t": "사노피, 3분기 매출 두 자릿수 증가…연간 성장 전망 상향",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84OUVVU1VMWjBnZm94SXl1bWs5LUtaVWZ1V24zVnltZ09WM3JGOTAxSGVmVzZEbGZ3dGdDTkNQWUlzNk5xd01Tay1oeHZsR0JlQmtZZVJhS0E1ZExrUndPaEVja20?oc=5",
-      "s": "메디포뉴스",
-      "d": "2026-10-31T16:17:58+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (67) ASML... 영원한 슈퍼 을(乙)",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0ZnWTZIU2hvMkpXSk9OaU9PVTU1WTRkUmxsTjQ5MXFDelFHNklDdC1sQ0ttR3dzMXhCQm9YbXFOV0tZbDJlMUMwaDZfZ2pPVDRfdW40OTBUczB2TDRCNWltUUtMWGN4MXFtQU1NMkNlaHpIM1h2VEtzM1JJTHF4b1hSRQ?oc=5",
+      "t": "美 중간선거에 삼성·SK하이닉스 촉각…아시아 증시 업종별 희비 전망",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWF6VTNrR1VvZFlwTUdkeThOVC1oYlphNUtkbU44N2FOMTVuR1NvSGlLdnlTRE44U3ZkMDZUdVFVME5TU2t2ZHlaRWhPRzNKLU5GMXM5OVhURmpjb2VGVTVmdEdOcDNURmQ2ZThPLXNPU21wSGp4Vk1fem1GYno0M2dLYW93SWJV?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-10-31T15:00:00+00:00"
+      "d": "2026-11-01T19:00:00+00:00"
     },
     {
-      "t": "캐나다·EU, 트럼프 관세 위협 맞서 '미래동맹' 출범…전방위 밀착",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWUUwbFNvYkVZX1ZOcXA4N1dSTVZjTjc3VGZ0c3FVd28zc0Q0T0pkbTJVc2MtZkFDOEJKQVBHcjBLMWwweFA0UFJXTTVielhLR3BKZ0JaR1pMZw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-10-31T14:07:52+00:00"
+      "t": "AI반도체 챙기는 이재용, 日 첨단패키징 거점 점검 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMDNfZEpBSmtLeVpmdVdGcnlLd0VoZFZDNXJOaDN3Z28tQUFxRXhuZ2laQzNHQldSanNISkZvcDh1UktFQmlmc2dzTkItVDFxMXR6c25aTlJSeTlqZGRzV25nbmREdVZoV1NuMNIBckFVX3lxTE1zMkhEVmIyRjZZaDNscGhCSWVIR0thQ2ctRDQ4LW16dGpickZpTG5raWVTT09HYkJtNFVjbHdlUXFYSXFPQTh0enpnTjdGNXpVLTlaWGthN1lfRUlLZlJRSUZLUG5GQ3A5WExSeHJVcHp2Zw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-01T18:50:00+00:00"
     },
     {
-      "t": "DGIST 김영식 교수팀, 48시간 반도체 보안 분석 ‘세계 2위’",
-      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEbkZ0QWFWeFdka05ybXo3NGtQZmFFSDZYTXNPRnZFb0RhTk41YzhQd180dVZDM1NFSDc2ZlRnZFlnSENXTG80Vi1QSmhuNk4xbFVHcjN0X2p0WExUYW5tU1FUOHNtM29KUHZENmpFWmN3VGhJX1pSWG530gF_QVVfeXFMUDdaVnBpcVMtUGh5WWRyXzZ6SnFzbER2Z0k3MjZnUk1KTVgzbXZpSkF1bWg1NHJVUWVUS2NLbzdaQ0NiaHNSRVl2TkNJWEpSTUllNWxqRkVBX1RYVEJYV1dxenVyaGlJdGt5a0ZiQWp4NWZsdHNJMGFCZVUxcm90cw?oc=5",
-      "s": "뉴데일리 대구경북",
-      "d": "2026-10-31T14:05:00+00:00"
-    },
-    {
-      "t": "중소기업 3분기 수출 334억 달러…화장품·반도체가 성장 견인",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JMGwteUJiM2NsV19XcE5yLWxmaWt1cWlrcXJRbjJTYWxGeHA0M3k4RWlWcFNFTUs2U1JRcFBxY3lxcEJ2M1dLWmExY2dpMzhQNTZzaWhDWFlBTGRxc3FkcEkzSkpRNG9GeXFF?oc=5",
-      "s": "산학뉴스",
-      "d": "2026-10-31T14:03:11+00:00"
-    },
-    {
-      "t": "금값 3900弗 붕괴 1년만 최저…美 긴축·유가 118弗 직격탄",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9MNGV1S08zMkd3TjhyT1V0Z3ctdnJhNXlTTUphOFpaM0VTUEtWRms3aThFTFMxSHNjeS1iRjVCZkt5c3FKWGp4WVR2V0pyb3IyUEVIZ3piZmZDYWhndklwYWVRZFJZVkhCcVFCY0tYck5heVlBdDJQUjF0Y1R4QnZ6QmY4bTBQ?oc=5",
+      "t": "美 중간선거서 의회 권력 바뀌어도 물가 못 잡는 이유",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzlNUmYyTEc4Vmp0VEJXZE92aGlJeDJKVUpNVUw4Uk9zYi1SZ0FlcTRDdzJtRGlPQWlDWTFXVnJXVjlFWnVVTlNfeGVYMHBLWHNQMWNuRkQ0VGZEV0hFV0hZZHExR1A2dlNSbHZUY196ZkdrTXBneXE3RFJFa3hGMjMxaFhqSmxj?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-10-31T13:23:15+00:00"
+      "d": "2026-11-01T18:00:00+00:00"
     },
     {
-      "t": "월요일 증시가 두렵다…인텔 52년 만의 폭락에 삼전닉스 투자자 ‘긴장’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uaGE2S3JsQU93cEQ0blBNNXpKVFhtbndzckl2OFFnQ1JvSWltNmlZS1hWbGZpS1BTYVhMOUltbUxCV25xRjRtSWNCVG5DR0h3c0VucmhacmJZQQ?oc=5",
-      "s": "경북매일",
-      "d": "2026-10-31T13:15:00+00:00"
+      "t": "AI주 시총 5조달러 증발에도 美 증시 반등 기대 나오는 이유",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-01T18:00:00+00:00"
     },
     {
-      "t": "금리 동결 찬성한 美댈러스 연은 총재 \"최소 두 차례 더 올려야\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14T0V1TzFtZ3RZWmVZRTB2TzVheThndm5VQkJJYTM0S0ZUaTZMWmdkbGRaY0pNdUp2YmVmUXVSQ25lemh5aUJXYUlEcEIxRFBrSGFRRmRNZ09XRkpycENMStIBeEFVX3lxTE13aWVxbnBPVDhZRXFWR1VWdjFzQ0EyMUlYNmhFYmtaVnJ6aXJSdWZIU1RHRWpqYU1PU2dvVmY1MjFvcUJRcW9SMzV5X09IWnpzWm94NjdiUmU5eW1FTFhWU3YyM3J6YTZTVVJyQm5YVnAwTVR1azloRQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-10-31T13:03:33+00:00"
+      "t": "이재용, 일본 첨단 반도체 패키징 연구거점 방문…소부장 협력 강화",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pdE40bnR4Z2x0Q3c1VkxWWWI5dWowZGFtU1FKeXpfVE5ydlVVN1lmSWJzbnQ0NS1ITlhYSDVwZGdodVNfUkZCUDBIWnRhalVUTHpaTkRwSG1TLTlzTnZNQ2xMOGE?oc=5",
+      "s": "www.entv.kr",
+      "d": "2026-11-01T17:40:10+00:00"
+    },
+    {
+      "t": "미 연준, 금리 동결했지만… 12월엔 다시 올릴까?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiQy1LU0oyeFJhUGUyN2R1QnZIa0JjSmljNFZ0WEgyYkkwRmg0VkVmVzdVTHRja1ZLSmdIRXI3bHZ1ckZ2UUhHQWc0TzJLbUZ3a0JGNnYtM2VlcHpEQVB5ZkpsYXl3TW44REE?oc=5",
+      "s": "금강일보",
+      "d": "2026-11-01T17:10:00+00:00"
+    },
+    {
+      "t": "용인시, 유럽 주요 도시와 반도체·문화·도시인프라 외교 보폭 넓힌다",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RZm9fRms4dldqUnoxODUxYVB0eFVHbkVuVE9ENVE1X1dtc0FYTldTYklqU2R3WWcwdndibTRGTl93RmFvNVJ4Q1ZHcUpTMWRwSklBSW5BU2VwSXB6dUJMRUphSQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-11-01T17:07:32+00:00"
+    },
+    {
+      "t": "韓 수출, 사상 첫 1조 달러 눈앞…반도체 비중 49%",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVEpMYlloVW5Wa1VyZkh5RkxmVlZwc1Z3cGRDZnlBQjVhT2dLUlpRTmRTaEl5bF9vUHduaEtsQzhGX3FYUEliaFZIWHV2WDhkZlI4SEhTVkM?oc=5",
+      "s": "우리경제신문",
+      "d": "2026-11-01T16:47:35+00:00"
+    },
+    {
+      "t": "\"AI 투자 끝났다고?… 내년 증시 승자는 AI 잘 쓰는 기업\"",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjZabkFmMkxZUnRHMjFNclpSUEVhYlVtRmhVaXJrOFVnUXp5QWhGTEhnYml5NURCMW5fb3piTHdSZDJlUFNBdERYZzB6dFZCb3c2cFpmOWZaSFVOaFBmaVNFdE5DaGF5bU1yTVpTbG1rUDM2RHBZYnQtZVNUSXdKRVdCcEVUS0wwMEhkTzVn?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-01T15:36:00+00:00"
     }
   ],
   "asof": {},
