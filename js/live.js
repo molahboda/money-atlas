@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T20:45:40+00:00",
-  "quotesAt": "2026-11-01T20:45:40+00:00",
-  "newsAt": "2026-11-01T20:45:40+00:00",
+  "fetchedAt": "2026-11-01T21:00:41+00:00",
+  "quotesAt": "2026-11-01T21:00:41+00:00",
+  "newsAt": "2026-11-01T21:00:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "팍팍한 살림…소득·자산 하위 20%, 생계용 신용대출 비중 최대",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBib2sxYTk0N3lhWTZWUWpaNk1kVFdNMVdKeWxMNE95TDVMMGJueFBJWlVmaWdGX1MyMWdFUzJqZ3J4VjZUV2hoaHJSNG4tWlV6QVE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-01T20:51:00+00:00"
+    },
+    {
+      "t": "한국 수출 첫 9천억달러 돌파…반도체 수출 급증",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ub0d3eGg0OVNSa3IwTkFnZW8yN0w4TXN2VTlsaVI2T2JTeUpiWm5UX1V1VjA5dEMzMmVxZkNLaTNNdkNkU2NrOVpBUTNWTzZmNG1fb05JcDZSbnpVODFsMTk4YXlGRGM?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-01T20:49:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시 주간전망] 美 중간선거·애플·팔란티어 실적 발표...'슈퍼 위크' 돌입",
+      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3Q0bm1jS2ZLY192U3NCNkJmei0xT0xhMTktN1NPQm54MGJCS1VUNk9wSUY1YTZsUTlmSXJsMXFFMjdXWTMyNVRVMk9TU2JmenNhLVZQNTUzWVN6Ykp4ZFJlVDFBaTljZUNwajRlc19iU0lmQkdldG9qN0RVNmZZdEdpdjZubUU?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-01T20:44:57+00:00"
+    },
     {
       "t": "\"K-제조업 AI 시대 기회…피지컬AI 마지막 방어선은 반도체\" - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzd3VnSll5a1U3MGtiN1d2SFRtdXdEYUIwTUxpS00zOGFxZ2d0eURfdWg1SmNLbkEyYUdGNmkzR0F6WS1tSGZGTjVKakxuSERzelRHT2NhSzQzNk9RTk5JQ0JkeV9SdFpOMkg0ddIBckFVX3lxTFBPSnlUb0tyT0tPQThnZGJib093Q0p4MXJHajNuMG9yYmlxZWdScE1HVUlkdXdicjR1Mm9ibHBQMTdzUC1xNXV3Mlh1NUxTdmdSY3FRTlplX0RQbXBNczhpRHlia2hBSHVIRTNwLWZBd2ZwZw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mM3V6X3JUMXBXRktyTWhjTFpiWUtrS0Y5TlNKUG0xUFJlU25RRjVKX3hkdnA5eDNMRnVLN21VM3Rya3VGNHlUT3NRNUxnZw?oc=5",
       "s": "매일경제",
       "d": "2026-11-01T20:14:00+00:00"
-    },
-    {
-      "t": "中 증시 10년 만에 최악 폭락…\"인민은행, 긴급 부양책 논의\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvR2RPc211TGVXZ291SWg3TWxXcE0xbHZEaFJPYjljcG5xNkgwNmJNOUN5ZldtcmlfNXpZcm00cUFMdzVJV1dHNVlFS0VzTjlZX05xRE8yUDNVS3pWYVE?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-01T20:05:16+00:00"
-    },
-    {
-      "t": "현대차 환차익이 ‘영업익 증가 9배’…4분기엔 환율 역풍ㆍ리스크 확대",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XOWtmdktYZFYzX1lDdE9mcUV3SlZ3YTlJcF9BcERTSXczYXpVUGhITmhXcGhRREhzQzJrdG1EdjdkWUlGYkx2clE4WVg5TEc5aS1ZNzJNWEtTdFkxMG9qeU82UllRdzRWSDR2SE9qUFcxbzZn?oc=5",
-      "s": "대한경제",
-      "d": "2026-11-01T20:00:11+00:00"
-    },
-    {
-      "t": "“물가 2.8%로 주춤…고유가·칩플레이션이 변수”[물가폴]",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFI5RkhGbUFERWtwNk5IMi1OWXI2cE5jZC12UWhxa3N5VWNnY0lHbHpjZFFQRGFxb0lIWTdiNko1MUhDa2RmZ1VoUWlMbmg5M1VZUV9ERU0tZGs1TXcxU3l4ZFlzZGZpbjJ6S0hxNC1BQkpJajh6X3c0TWxkZlpjMg?oc=5",
-      "s": "이데일리",
-      "d": "2026-11-01T19:50:03+00:00"
     }
   ],
   "asof": {},
