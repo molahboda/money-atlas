@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T20:15:41+00:00",
-  "quotesAt": "2026-11-01T20:15:41+00:00",
-  "newsAt": "2026-11-01T20:15:41+00:00",
+  "fetchedAt": "2026-11-01T20:30:40+00:00",
+  "quotesAt": "2026-11-01T20:30:40+00:00",
+  "newsAt": "2026-11-01T20:30:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "한국 수출 첫 1조달러 시대 눈앞…반도체가 이끈 성장, 산업 전반으로 확산될까",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dllweFhTbVZlb293TGQzTlBqeUxUN0ZtbTZDMk5qaGQtajZHWkhkWldvZi1NSGwzOFJlenFLZks0OVhVRWIyelB6MV9UZkpEMDlDVUZLelFFcFVBX1A1VTJQbm5nTGs?oc=5",
+      "s": "지이코노미",
+      "d": "2026-11-01T20:28:01+00:00"
+    },
+    {
       "t": "반도체만 보는 이들이 놓치는 것들 … “AI 투자, 지도부터 그려라”",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mM3V6X3JUMXBXRktyTWhjTFpiWUtrS0Y5TlNKUG0xUFJlU25RRjVKX3hkdnA5eDNMRnVLN21VM3Rya3VGNHlUT3NRNUxnZw?oc=5",
       "s": "매일경제",
@@ -37,10 +43,10 @@ window.LIVE_DATA = {
       "d": "2026-11-01T20:05:16+00:00"
     },
     {
-      "t": "핀 접점 시장 2035년 전망: 반도체 테스트와 전기차 수요가 성장 견인 - 뉴스 및 통계",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaURkWE84bUdlRXVJNExITU1MU19lc2l3WFVmQlFoU2JsR3hvcE9aUXhObEYtTlRIcUpuRFBlN2dnSklVUEJObHRQNzQ5Wm9aLUZyMjhmNE5DLVVBOHNzam82WjlnQjY0aUI5SzZDOTMxX0Y0MV9pd1IybUxPcHFzS1lhMGRQNnczZmY5bWotQzhhNVpRdlAwVzNOSnl2M3NMd2xCMmxtTFY4dXNwUkVwU2xUdmpOQ3A3MzM4?oc=5",
-      "s": "IndexBox",
-      "d": "2026-11-01T19:56:03+00:00"
+      "t": "현대차 환차익이 ‘영업익 증가 9배’…4분기엔 환율 역풍ㆍ리스크 확대",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9US3prSU1QdGRnbUdpQzk4TTNGbEUwaEExbmdDcnA3bE9ua2hJbjJEeFNYNDhZRHFuZk9fLVZVb3AwbWFGSDRZUlBpQS10OGJ5LXgxOTZXWVdnZEZzM0l6ZzJiYlkzbHRkbjhLRk9ZdDUyM1U?oc=5",
+      "s": "대한경제",
+      "d": "2026-11-01T20:00:11+00:00"
     },
     {
       "t": "“물가 2.8%로 주춤…고유가·칩플레이션이 변수”[물가폴]",
@@ -75,12 +81,6 @@ window.LIVE_DATA = {
     {
       "t": "美 중간선거서 의회 권력 바뀌어도 물가 못 잡는 이유",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzlNUmYyTEc4Vmp0VEJXZE92aGlJeDJKVUpNVUw4Uk9zYi1SZ0FlcTRDdzJtRGlPQWlDWTFXVnJXVjlFWnVVTlNfeGVYMHBLWHNQMWNuRkQ0VGZEV0hFV0hZZHExR1A2dlNSbHZUY196ZkdrTXBneXE3RFJFa3hGMjMxaFhqSmxj?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-01T18:00:00+00:00"
-    },
-    {
-      "t": "AI주 시총 5조달러 증발에도 美 증시 반등 기대 나오는 이유",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-11-01T18:00:00+00:00"
     }
