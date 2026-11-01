@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T21:15:41+00:00",
-  "quotesAt": "2026-11-01T21:15:41+00:00",
-  "newsAt": "2026-11-01T21:15:41+00:00",
+  "fetchedAt": "2026-11-01T21:30:40+00:00",
+  "quotesAt": "2026-11-01T21:30:40+00:00",
+  "newsAt": "2026-11-01T21:30:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,10 +25,28 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "수출 1조시대, 알고보니 49%가 반도체…삐끗하면 나라 흔들린다",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lS3NLU1FPVkxaeWFreXZfdXFFVXl5NlBaUjFiN3pUQ1JIT1hHU2RFNmdlT1ZsTlEwR1lPZHhsTUFnUkkyMFNsVHkwTDNVSTlla2s5eg?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-01T21:10:56+00:00"
+      "t": "[김대호 진단] 반도체 열전 (68) 코어위브... AI 거품붕괴 진원지",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVBQTHdSc1hPM0ZKenpfQlVwclcwNlIzdmN4ZzBDRnJxQjhyb1hsN2lyOGdxR1MzNmJIMXhpblMxQ1BTZlFvY25MVmh2N21qN1ZjdlBXRjhhc2tBVWFDOGRUM0U5MTRCOWJBZFE1WXQzU0xTeEFMT0tRYjM5OTRESWJoZjM?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-01T21:17:50+00:00"
+    },
+    {
+      "t": "또 불거진 'AI 수익성' 의심…오늘 코스피는?",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05b054emEzdlFIc1UzUEFMWTl4a2luZDJ3OWdlam1XbW5obU1oQ01yMUtvSmVnZnprWjllSFM0dktfZS1KTkNRa0oyLWdYYnZPSlAycENONXZTQWd0dGhEU1lTd0JXTEM3a2c?oc=5",
+      "s": "SBS 뉴스",
+      "d": "2026-11-01T21:10:22+00:00"
+    },
+    {
+      "t": "국회 예정처 \"2027 정부예산안, 물가·금리에 부담 가능성\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sYmI3RjRYUkhUTlRpR1JXN1hPa2dxTVVfSGV0YUVWVVpOLXZFYWZuQ2dmY2g4T1VDdjA2aGZmREptampPU1RPQ21rTkJuWGNGSUdCVm45NEVtWml2NjNWQnFnX2VodXo0WWxicHdLbUJxT01E?oc=5",
+      "s": "조세일보",
+      "d": "2026-11-01T21:10:00+00:00"
+    },
+    {
+      "t": "'-29% 인텔 쇼크'에 긴장한 코스피…'육천피' 회복 기로",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTExpMDZZS1phUDFFQmhoUG9ERTVJUGRObVFVNEtUN0prc1hjMVRPQXgzbWY3cjFPaTVNV3JlTF8taDlIS2dwTFNJcDZOUHBKb2ozemNsTzNzV3M?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-01T21:10:00+00:00"
     },
     {
       "t": "[코스피·코스닥 전 거래일(30일) 주요공시]",
@@ -55,34 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-01T21:00:00+00:00"
     },
     {
+      "t": "[특집] 성수석 이천시장, ‘반도체 R&D·역세권 르네상스·경마공원’ 100년 먹거리 다진다",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XS0o2a0NZcW1WMWRZNzdvQkNpckkwVmRFd25vU01Uck43aDlSdEJOZ1N4SmdPRmktbG1pc2hYTnBfYXZ5XzcwN2wtX0JyMGFfZEJNeG5IdTYyYUFmV0ZqLWpn?oc=5",
+      "s": "경기신문",
+      "d": "2026-11-01T21:00:00+00:00"
+    },
+    {
       "t": "[ETF 언박싱] 출렁거리는 롤러코스피에 특효…커버드콜 액티브 봇물",
       "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93SVVfV1lOOFZ4a3V3WkRVSTI3eVdRWWRqR1A1eHl0YWMxbGVaLUJQankwdUZJUDFSTDlhQVZTWXB3Y0R4bUt0dGdEWkxSY2M?oc=5",
       "s": "딜사이트",
       "d": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "t": "반도체가 만든 수출 신기록…'다음 엔진'은 어디에",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oTU9Yc2IyeEN5X192OWlsTUs3OWFNZ25iSnhKZzJEY0RuUFBIQzUxTkhVcW1uN1UyQlJ2UU50X2FxMXRMMnN2RUZoY0NtYmszSGxmSS1taXZqYzNSM0cxb9IBeEFVX3lxTE94SE56NENITzF6R25aV2F5bklpd2RzMDVSRDM5UHUtY19TOXUzRkFKZ3pCNF9UUGtVS2xhcW5XMFJCVEw4aUdIYkloYTBCYnVkS1RCcmJDblJvcFFzeDRXM1REdHRJbmlLV2ZfajJvZ3VTbUxZWHplSA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-01T21:00:00+00:00"
-    },
-    {
-      "t": "팍팍한 살림…소득·자산 하위 20%, 생계용 신용대출 비중 최대",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBib2sxYTk0N3lhWTZWUWpaNk1kVFdNMVdKeWxMNE95TDVMMGJueFBJWlVmaWdGX1MyMWdFUzJqZ3J4VjZUV2hoaHJSNG4tWlV6QVE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-01T20:51:00+00:00"
-    },
-    {
-      "t": "한국 수출 첫 9천억달러 돌파…반도체 수출 급증",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ub0d3eGg0OVNSa3IwTkFnZW8yN0w4TXN2VTlsaVI2T2JTeUpiWm5UX1V1VjA5dEMzMmVxZkNLaTNNdkNkU2NrOVpBUTNWTzZmNG1fb05JcDZSbnpVODFsMTk4YXlGRGM?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-01T20:49:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시 주간전망] 美 중간선거·애플·팔란티어 실적 발표...'슈퍼 위크' 돌입",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3Q0bm1jS2ZLY192U3NCNkJmei0xT0xhMTktN1NPQm54MGJCS1VUNk9wSUY1YTZsUTlmSXJsMXFFMjdXWTMyNVRVMk9TU2JmenNhLVZQNTUzWVN6Ykp4ZFJlVDFBaTljZUNwajRlc19iU0lmQkdldG9qN0RVNmZZdEdpdjZubUU?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-01T20:44:57+00:00"
     }
   ],
   "asof": {},
