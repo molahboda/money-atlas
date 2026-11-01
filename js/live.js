@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T20:30:40+00:00",
-  "quotesAt": "2026-11-01T20:30:40+00:00",
-  "newsAt": "2026-11-01T20:30:40+00:00",
+  "fetchedAt": "2026-11-01T20:45:40+00:00",
+  "quotesAt": "2026-11-01T20:45:40+00:00",
+  "newsAt": "2026-11-01T20:45:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,6 +25,36 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"K-제조업 AI 시대 기회…피지컬AI 마지막 방어선은 반도체\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzd3VnSll5a1U3MGtiN1d2SFRtdXdEYUIwTUxpS00zOGFxZ2d0eURfdWg1SmNLbkEyYUdGNmkzR0F6WS1tSGZGTjVKakxuSERzelRHT2NhSzQzNk9RTk5JQ0JkeV9SdFpOMkg0ddIBckFVX3lxTFBPSnlUb0tyT0tPQThnZGJib093Q0p4MXJHajNuMG9yYmlxZWdScE1HVUlkdXdicjR1Mm9ibHBQMTdzUC1xNXV3Mlh1NUxTdmdSY3FRTlplX0RQbXBNczhpRHlia2hBSHVIRTNwLWZBd2ZwZw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-01T20:35:00+00:00"
+    },
+    {
+      "t": "중간선거·애플 실적·고용지표…AI주 방향타는 팔란티어·AMD[이번주 美 증시는] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNmVPcmRJaVZIYThZazlhQk5qWkdtN1doZERqbENIejV5SGdUeHBLbVZDbTFCR0VDQkQxbG1remU5bHJnLVZOaG9HcXB6eExwMDJiQ1FfSFJDaUczWlFyNUx3UDhhQW5s0gFuQVVfeXFMT2hVUnA1YTJ6NFFuQnZsRk5ZLVJBcXVuVnkxYy1jdVphcUhIWkhoMzVwT2JRN2FDSVdZeEJydUxRaXY2V1YzdDRXVlpnUU1WRkZTMExqeGM1X3pkX3pRYVZ4QzdyU1VrWmozc21OcEE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-01T20:35:00+00:00"
+    },
+    {
+      "t": "OPEC+ 12월 증산 중단…중동발 고유가에 세계경제 다시 '인플레 경고등'",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEUl9zWjlDbG43bFpCaU1wRXM3Y2twQ0JSckhJOHdkRXVsY0FwRHFkbkRHY3ZsQ0pxTERVNmdGRF9CZVJwbkJLRW4zZGk5eUlLNTRRWEhMLUhsdTNSenlNeF9hUWJNZTg?oc=5",
+      "s": "지이코노미",
+      "d": "2026-11-01T20:30:58+00:00"
+    },
+    {
+      "t": "삼성 이재용 회장, '초격차' 위한 현장 경영 행보…로봇 이어 반도체까지",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByOVRkYTkyeWxzU3U3S0NUeWhuRFVKTmY4SjBKcVltNnJQMnluNk9WclM1UHpIZl81eHlFSzJDSXR5NUFYaTFLblJUQUUtU2ZteTRqMzVMYWNWbjRiMDhPb9IBeEFVX3lxTE5JNURCd1ROLUNucHdRYTQ0V2RCM29DQWNyUlpqYUhDNW5KeC00ajRib0FwcHNiWGRFZ25FS0FyOGNmajlJX3czT2tkQmRtMEI4OFBmMmxkd21BV3FhZFAwVU1TYjFNeG9Eb1llNURtSGtuVnY3c1JrcQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-01T20:30:00+00:00"
+    },
+    {
+      "t": "\"절망하지 말고 버텨라, 외국인 11월에 돌아온다\"",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSGR4MExqSzZ4TTRPZ0g3NG1JVFJ2a0ZwbUFvT1dyVWlZSTNGVkkwUVMxaFdiYmJ1MEdYYWlYOHdOdllaV2c5U0UwODlmNU9SaEo3c045YXhxMlA4ODFBY0hqWFVVRVFmMU1rY19jeGw5cHVVOVJPeVpwTHdiUFdJaA?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-01T20:29:00+00:00"
+    },
+    {
       "t": "한국 수출 첫 1조달러 시대 눈앞…반도체가 이끈 성장, 산업 전반으로 확산될까",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dllweFhTbVZlb293TGQzTlBqeUxUN0ZtbTZDMk5qaGQtajZHWkhkWldvZi1NSGwzOFJlenFLZks0OVhVRWIyelB6MV9UZkpEMDlDVUZLelFFcFVBX1A1VTJQbm5nTGs?oc=5",
       "s": "지이코노미",
@@ -44,7 +74,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "현대차 환차익이 ‘영업익 증가 9배’…4분기엔 환율 역풍ㆍ리스크 확대",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9US3prSU1QdGRnbUdpQzk4TTNGbEUwaEExbmdDcnA3bE9ua2hJbjJEeFNYNDhZRHFuZk9fLVZVb3AwbWFGSDRZUlBpQS10OGJ5LXgxOTZXWVdnZEZzM0l6ZzJiYlkzbHRkbjhLRk9ZdDUyM1U?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XOWtmdktYZFYzX1lDdE9mcUV3SlZ3YTlJcF9BcERTSXczYXpVUGhITmhXcGhRREhzQzJrdG1EdjdkWUlGYkx2clE4WVg5TEc5aS1ZNzJNWEtTdFkxMG9qeU82UllRdzRWSDR2SE9qUFcxbzZn?oc=5",
       "s": "대한경제",
       "d": "2026-11-01T20:00:11+00:00"
     },
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFI5RkhGbUFERWtwNk5IMi1OWXI2cE5jZC12UWhxa3N5VWNnY0lHbHpjZFFQRGFxb0lIWTdiNko1MUhDa2RmZ1VoUWlMbmg5M1VZUV9ERU0tZGs1TXcxU3l4ZFlzZGZpbjJ6S0hxNC1BQkpJajh6X3c0TWxkZlpjMg?oc=5",
       "s": "이데일리",
       "d": "2026-11-01T19:50:03+00:00"
-    },
-    {
-      "t": "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVotOXNxbWNneDNlU0RuV29LaE0xWWpEd1lwQ1N6aEtpc2hLTXNiOTdKMlFqZktuN0M1cEc3Qm1Kc0hDa3EzYU1jWThFdl9mRUp5SWhncGhFdw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-11-01T19:30:00+00:00"
-    },
-    {
-      "t": "만년 저평가 151개사 '경고장' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aUG9GWWxyZmdkUU5KcEFDZTV2U3IzeWVXSElrSjVzN0NDbmJjNVktTk9VYzJhSFl3NkdZVVJLT0ZRZEhJOEJvNXVFSWJMeFdMZzVWSWZJVDlPNVotdEVWQjNIZVJ2TFBL0gFuQVVfeXFMT01FWU1tUU1MTjc4LUY0RUMwOE5DaFYza3J5QzNyZTMzc1JmdGZKRkl5cnFzN3VBT3ozYkJaQ0pOdWdwSmZZbnpIV05xUUV1Z25ZczJRVW85SlJWVmhXRkRMcjNkSEtCczJ3T0duUkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-01T19:04:00+00:00"
-    },
-    {
-      "t": "美 중간선거에 삼성·SK하이닉스 촉각…아시아 증시 업종별 희비 전망",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWF6VTNrR1VvZFlwTUdkeThOVC1oYlphNUtkbU44N2FOMTVuR1NvSGlLdnlTRE44U3ZkMDZUdVFVME5TU2t2ZHlaRWhPRzNKLU5GMXM5OVhURmpjb2VGVTVmdEdOcDNURmQ2ZThPLXNPU21wSGp4Vk1fem1GYno0M2dLYW93SWJV?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-01T19:00:00+00:00"
-    },
-    {
-      "t": "AI반도체 챙기는 이재용, 日 첨단패키징 거점 점검 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMDNfZEpBSmtLeVpmdVdGcnlLd0VoZFZDNXJOaDN3Z28tQUFxRXhuZ2laQzNHQldSanNISkZvcDh1UktFQmlmc2dzTkItVDFxMXR6c25aTlJSeTlqZGRzV25nbmREdVZoV1NuMNIBckFVX3lxTE1zMkhEVmIyRjZZaDNscGhCSWVIR0thQ2ctRDQ4LW16dGpickZpTG5raWVTT09HYkJtNFVjbHdlUXFYSXFPQTh0enpnTjdGNXpVLTlaWGthN1lfRUlLZlJRSUZLUG5GQ3A5WExSeHJVcHp2Zw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-01T18:50:00+00:00"
-    },
-    {
-      "t": "美 중간선거서 의회 권력 바뀌어도 물가 못 잡는 이유",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzlNUmYyTEc4Vmp0VEJXZE92aGlJeDJKVUpNVUw4Uk9zYi1SZ0FlcTRDdzJtRGlPQWlDWTFXVnJXVjlFWnVVTlNfeGVYMHBLWHNQMWNuRkQ0VGZEV0hFV0hZZHExR1A2dlNSbHZUY196ZkdrTXBneXE3RFJFa3hGMjMxaFhqSmxj?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-01T18:00:00+00:00"
     }
   ],
   "asof": {},
