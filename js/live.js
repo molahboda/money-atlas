@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T20:00:40+00:00",
-  "quotesAt": "2026-11-01T20:00:40+00:00",
-  "newsAt": "2026-11-01T20:00:40+00:00",
+  "fetchedAt": "2026-11-01T20:15:41+00:00",
+  "quotesAt": "2026-11-01T20:15:41+00:00",
+  "newsAt": "2026-11-01T20:15:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "반도체만 보는 이들이 놓치는 것들 … “AI 투자, 지도부터 그려라”",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mM3V6X3JUMXBXRktyTWhjTFpiWUtrS0Y5TlNKUG0xUFJlU25RRjVKX3hkdnA5eDNMRnVLN21VM3Rya3VGNHlUT3NRNUxnZw?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-01T20:14:00+00:00"
+    },
+    {
+      "t": "中 증시 10년 만에 최악 폭락…\"인민은행, 긴급 부양책 논의\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvR2RPc211TGVXZ291SWg3TWxXcE0xbHZEaFJPYjljcG5xNkgwNmJNOUN5ZldtcmlfNXpZcm00cUFMdzVJV1dHNVlFS0VzTjlZX05xRE8yUDNVS3pWYVE?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-01T20:05:16+00:00"
+    },
+    {
+      "t": "핀 접점 시장 2035년 전망: 반도체 테스트와 전기차 수요가 성장 견인 - 뉴스 및 통계",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaURkWE84bUdlRXVJNExITU1MU19lc2l3WFVmQlFoU2JsR3hvcE9aUXhObEYtTlRIcUpuRFBlN2dnSklVUEJObHRQNzQ5Wm9aLUZyMjhmNE5DLVVBOHNzam82WjlnQjY0aUI5SzZDOTMxX0Y0MV9pd1IybUxPcHFzS1lhMGRQNnczZmY5bWotQzhhNVpRdlAwVzNOSnl2M3NMd2xCMmxtTFY4dXNwUkVwU2xUdmpOQ3A3MzM4?oc=5",
+      "s": "IndexBox",
+      "d": "2026-11-01T19:56:03+00:00"
+    },
     {
       "t": "“물가 2.8%로 주춤…고유가·칩플레이션이 변수”[물가폴]",
       "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFI5RkhGbUFERWtwNk5IMi1OWXI2cE5jZC12UWhxa3N5VWNnY0lHbHpjZFFQRGFxb0lIWTdiNko1MUhDa2RmZ1VoUWlMbmg5M1VZUV9ERU0tZGs1TXcxU3l4ZFlzZGZpbjJ6S0hxNC1BQkpJajh6X3c0TWxkZlpjMg?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-11-01T18:00:00+00:00"
-    },
-    {
-      "t": "이재용, 일본 첨단 반도체 패키징 연구거점 방문…소부장 협력 강화",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pdE40bnR4Z2x0Q3c1VkxWWWI5dWowZGFtU1FKeXpfVE5ydlVVN1lmSWJzbnQ0NS1ITlhYSDVwZGdodVNfUkZCUDBIWnRhalVUTHpaTkRwSG1TLTlzTnZNQ2xMOGE?oc=5",
-      "s": "www.entv.kr",
-      "d": "2026-11-01T17:40:10+00:00"
-    },
-    {
-      "t": "일본이 삼성전자 반도체 연구소 유치에 나선 이유… 보조금과 AI 패키징 기술의 이해관계",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAta0V3Qkc3RW1CZVA2eFM5RzFBQmtUWEF1bGRMbmpRemFkZFc3YnY4MlQ1YjJDTE11d1RHbU1RT1o5TmVfYXplcnBCSEFRTTMtNENFVFFhZk1uYnJKRElWSm1WM2lrNllaT2FZVzZn?oc=5",
-      "s": "테크데일리",
-      "d": "2026-11-01T17:30:38+00:00"
-    },
-    {
-      "t": "반도체 이상없다 : 심층 분석 보고서 ①",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzl0VG9uTkEyYk9IbzAzZVJCcmVLR1ZQcC1BZnRyY3pHV1dMdmh1SndnazJwdVBRdkhscnVfVHZxVGNQbGtHZVlyTVlyMkEzTE45Rk15T0pCMVFFNmt4enNfb2xWbEtIc19kaDFLLVZ6RVkzLWM2NTMwRDZrMUFxVWtmRnVlUQ?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-11-01T17:24:00+00:00"
     }
   ],
   "asof": {},
