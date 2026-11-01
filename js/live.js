@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T21:00:41+00:00",
-  "quotesAt": "2026-11-01T21:00:41+00:00",
-  "newsAt": "2026-11-01T21:00:41+00:00",
+  "fetchedAt": "2026-11-01T21:15:41+00:00",
+  "quotesAt": "2026-11-01T21:15:41+00:00",
+  "newsAt": "2026-11-01T21:15:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -25,6 +25,48 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "수출 1조시대, 알고보니 49%가 반도체…삐끗하면 나라 흔들린다",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lS3NLU1FPVkxaeWFreXZfdXFFVXl5NlBaUjFiN3pUQ1JIT1hHU2RFNmdlT1ZsTlEwR1lPZHhsTUFnUkkyMFNsVHkwTDNVSTlla2s5eg?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-01T21:10:56+00:00"
+    },
+    {
+      "t": "[코스피·코스닥 전 거래일(30일) 주요공시]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9McHFmQ3V3c0Rta2VoM1NxY2U0ZWpBWlY2TXJpVUEwNlExMmg0Z0Z1SXo5SEZfR05FbkFDVmRoZGx1NmhsOWQ4QUxsWHkxSkgxUW8wRk50MnFBNjTSAWBBVV95cUxOY0NjdnUyd0pJU21ZSUhRVzF1MVFCaURFanFjLVk5TlJaczg2X3Joa21YYjh2UTFVTjlmUVFYNXRmZlZFa3V4Ym82cFhnanZXbWFOODRpcHQ3ZWNFU1EzN1U?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-01T21:05:00+00:00"
+    },
+    {
+      "t": "1조클럽도 못피했다…한화생명·현대제철 등 151곳에 ‘저PBR 꼬리표’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aa1ppb1lwLW1NUTFSZkU0YUJYRk9nYmpJS292VWlqbThxR0hDOW9TRVhaOVk2NzNLZG5NcFRUalp0bVhVa1I3RUVpTW1pSFhrS0E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-01T21:03:31+00:00"
+    },
+    {
+      "t": "반도체 랠리에 레버리지 ETF '대박'…한 주 만에 50%↑",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PaldfN2x6Sy1WWm9pSXF4N1dWYmZXamVHYmp2dnBfT2o3YW9QREFabmZtOUtJc1pLM3ZybWZZMnplOUhObm9ibVpzU2pDZlNPbGpsWU4waGYwZDJSdkNj?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-11-01T21:00:30+00:00"
+    },
+    {
+      "t": "[미리보는 증시재료] 美 중간선거·고용지표에 실적까지…코스피 반등 이어질까",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DX3N6ZVJQS2hJZmhLRk5USnAzY0thODRYZGNLMWx3dVJsOU0zOExtZmtNeDZXVTI2bUVWY0trVHVDTGtlVGNjMEw5RWZJTF9nSTB4RmhDMlAzSUxh?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-01T21:00:00+00:00"
+    },
+    {
+      "t": "[ETF 언박싱] 출렁거리는 롤러코스피에 특효…커버드콜 액티브 봇물",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93SVVfV1lOOFZ4a3V3WkRVSTI3eVdRWWRqR1A1eHl0YWMxbGVaLUJQankwdUZJUDFSTDlhQVZTWXB3Y0R4bUt0dGdEWkxSY2M?oc=5",
+      "s": "딜사이트",
+      "d": "2026-11-01T21:00:00+00:00"
+    },
+    {
+      "t": "반도체가 만든 수출 신기록…'다음 엔진'은 어디에",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oTU9Yc2IyeEN5X192OWlsTUs3OWFNZ25iSnhKZzJEY0RuUFBIQzUxTkhVcW1uN1UyQlJ2UU50X2FxMXRMMnN2RUZoY0NtYmszSGxmSS1taXZqYzNSM0cxb9IBeEFVX3lxTE94SE56NENITzF6R25aV2F5bklpd2RzMDVSRDM5UHUtY19TOXUzRkFKZ3pCNF9UUGtVS2xhcW5XMFJCVEw4aUdIYkloYTBCYnVkS1RCcmJDblJvcFFzeDRXM1REdHRJbmlLV2ZfajJvZ3VTbUxZWHplSA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-01T21:00:00+00:00"
+    },
+    {
       "t": "팍팍한 살림…소득·자산 하위 20%, 생계용 신용대출 비중 최대",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBib2sxYTk0N3lhWTZWUWpaNk1kVFdNMVdKeWxMNE95TDVMMGJueFBJWlVmaWdGX1MyMWdFUzJqZ3J4VjZUV2hoaHJSNG4tWlV6QVE?oc=5",
       "s": "매일경제 마켓",
@@ -41,48 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3Q0bm1jS2ZLY192U3NCNkJmei0xT0xhMTktN1NPQm54MGJCS1VUNk9wSUY1YTZsUTlmSXJsMXFFMjdXWTMyNVRVMk9TU2JmenNhLVZQNTUzWVN6Ykp4ZFJlVDFBaTljZUNwajRlc19iU0lmQkdldG9qN0RVNmZZdEdpdjZubUU?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-11-01T20:44:57+00:00"
-    },
-    {
-      "t": "\"K-제조업 AI 시대 기회…피지컬AI 마지막 방어선은 반도체\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzd3VnSll5a1U3MGtiN1d2SFRtdXdEYUIwTUxpS00zOGFxZ2d0eURfdWg1SmNLbkEyYUdGNmkzR0F6WS1tSGZGTjVKakxuSERzelRHT2NhSzQzNk9RTk5JQ0JkeV9SdFpOMkg0ddIBckFVX3lxTFBPSnlUb0tyT0tPQThnZGJib093Q0p4MXJHajNuMG9yYmlxZWdScE1HVUlkdXdicjR1Mm9ibHBQMTdzUC1xNXV3Mlh1NUxTdmdSY3FRTlplX0RQbXBNczhpRHlia2hBSHVIRTNwLWZBd2ZwZw?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-01T20:35:00+00:00"
-    },
-    {
-      "t": "중간선거·애플 실적·고용지표…AI주 방향타는 팔란티어·AMD[이번주 美 증시는] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNmVPcmRJaVZIYThZazlhQk5qWkdtN1doZERqbENIejV5SGdUeHBLbVZDbTFCR0VDQkQxbG1remU5bHJnLVZOaG9HcXB6eExwMDJiQ1FfSFJDaUczWlFyNUx3UDhhQW5s0gFuQVVfeXFMT2hVUnA1YTJ6NFFuQnZsRk5ZLVJBcXVuVnkxYy1jdVphcUhIWkhoMzVwT2JRN2FDSVdZeEJydUxRaXY2V1YzdDRXVlpnUU1WRkZTMExqeGM1X3pkX3pRYVZ4QzdyU1VrWmozc21OcEE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-01T20:35:00+00:00"
-    },
-    {
-      "t": "OPEC+ 12월 증산 중단…중동발 고유가에 세계경제 다시 '인플레 경고등'",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEUl9zWjlDbG43bFpCaU1wRXM3Y2twQ0JSckhJOHdkRXVsY0FwRHFkbkRHY3ZsQ0pxTERVNmdGRF9CZVJwbkJLRW4zZGk5eUlLNTRRWEhMLUhsdTNSenlNeF9hUWJNZTg?oc=5",
-      "s": "지이코노미",
-      "d": "2026-11-01T20:30:58+00:00"
-    },
-    {
-      "t": "삼성 이재용 회장, '초격차' 위한 현장 경영 행보…로봇 이어 반도체까지",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByOVRkYTkyeWxzU3U3S0NUeWhuRFVKTmY4SjBKcVltNnJQMnluNk9WclM1UHpIZl81eHlFSzJDSXR5NUFYaTFLblJUQUUtU2ZteTRqMzVMYWNWbjRiMDhPb9IBeEFVX3lxTE5JNURCd1ROLUNucHdRYTQ0V2RCM29DQWNyUlpqYUhDNW5KeC00ajRib0FwcHNiWGRFZ25FS0FyOGNmajlJX3czT2tkQmRtMEI4OFBmMmxkd21BV3FhZFAwVU1TYjFNeG9Eb1llNURtSGtuVnY3c1JrcQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-01T20:30:00+00:00"
-    },
-    {
-      "t": "\"절망하지 말고 버텨라, 외국인 11월에 돌아온다\"",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSGR4MExqSzZ4TTRPZ0g3NG1JVFJ2a0ZwbUFvT1dyVWlZSTNGVkkwUVMxaFdiYmJ1MEdYYWlYOHdOdllaV2c5U0UwODlmNU9SaEo3c045YXhxMlA4ODFBY0hqWFVVRVFmMU1rY19jeGw5cHVVOVJPeVpwTHdiUFdJaA?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-01T20:29:00+00:00"
-    },
-    {
-      "t": "한국 수출 첫 1조달러 시대 눈앞…반도체가 이끈 성장, 산업 전반으로 확산될까",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dllweFhTbVZlb293TGQzTlBqeUxUN0ZtbTZDMk5qaGQtajZHWkhkWldvZi1NSGwzOFJlenFLZks0OVhVRWIyelB6MV9UZkpEMDlDVUZLelFFcFVBX1A1VTJQbm5nTGs?oc=5",
-      "s": "지이코노미",
-      "d": "2026-11-01T20:28:01+00:00"
-    },
-    {
-      "t": "반도체만 보는 이들이 놓치는 것들 … “AI 투자, 지도부터 그려라”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mM3V6X3JUMXBXRktyTWhjTFpiWUtrS0Y5TlNKUG0xUFJlU25RRjVKX3hkdnA5eDNMRnVLN21VM3Rya3VGNHlUT3NRNUxnZw?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-01T20:14:00+00:00"
     }
   ],
   "asof": {},
