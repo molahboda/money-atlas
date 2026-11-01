@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T19:45:41+00:00",
-  "quotesAt": "2026-11-01T19:45:41+00:00",
-  "newsAt": "2026-11-01T19:45:41+00:00",
+  "fetchedAt": "2026-11-01T20:00:40+00:00",
+  "quotesAt": "2026-11-01T20:00:40+00:00",
+  "newsAt": "2026-11-01T20:00:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "“물가 2.8%로 주춤…고유가·칩플레이션이 변수”[물가폴]",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFI5RkhGbUFERWtwNk5IMi1OWXI2cE5jZC12UWhxa3N5VWNnY0lHbHpjZFFQRGFxb0lIWTdiNko1MUhDa2RmZ1VoUWlMbmg5M1VZUV9ERU0tZGs1TXcxU3l4ZFlzZGZpbjJ6S0hxNC1BQkpJajh6X3c0TWxkZlpjMg?oc=5",
+      "s": "이데일리",
+      "d": "2026-11-01T19:50:03+00:00"
+    },
     {
       "t": "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식'",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSVotOXNxbWNneDNlU0RuV29LaE0xWWpEd1lwQ1N6aEtpc2hLTXNiOTdKMlFqZktuN0M1cEc3Qm1Kc0hDa3EzYU1jWThFdl9mRUp5SWhncGhFdw?oc=5",
@@ -67,22 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-01T17:40:10+00:00"
     },
     {
-      "t": "미 연준, 금리 동결했지만… 12월엔 다시 올릴까?",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiQy1LU0oyeFJhUGUyN2R1QnZIa0JjSmljNFZ0WEgyYkkwRmg0VkVmVzdVTHRja1ZLSmdIRXI3bHZ1ckZ2UUhHQWc0TzJLbUZ3a0JGNnYtM2VlcHpEQVB5ZkpsYXl3TW44REE?oc=5",
-      "s": "금강일보",
-      "d": "2026-11-01T17:10:00+00:00"
+      "t": "일본이 삼성전자 반도체 연구소 유치에 나선 이유… 보조금과 AI 패키징 기술의 이해관계",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAta0V3Qkc3RW1CZVA2eFM5RzFBQmtUWEF1bGRMbmpRemFkZFc3YnY4MlQ1YjJDTE11d1RHbU1RT1o5TmVfYXplcnBCSEFRTTMtNENFVFFhZk1uYnJKRElWSm1WM2lrNllaT2FZVzZn?oc=5",
+      "s": "테크데일리",
+      "d": "2026-11-01T17:30:38+00:00"
     },
     {
-      "t": "용인시, 유럽 주요 도시와 반도체·문화·도시인프라 외교 보폭 넓힌다",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RZm9fRms4dldqUnoxODUxYVB0eFVHbkVuVE9ENVE1X1dtc0FYTldTYklqU2R3WWcwdndibTRGTl93RmFvNVJ4Q1ZHcUpTMWRwSklBSW5BU2VwSXB6dUJMRUphSQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-11-01T17:07:32+00:00"
-    },
-    {
-      "t": "韓 수출, 사상 첫 1조 달러 눈앞…반도체 비중 49%",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyVEpMYlloVW5Wa1VyZkh5RkxmVlZwc1Z3cGRDZnlBQjVhT2dLUlpRTmRTaEl5bF9vUHduaEtsQzhGX3FYUEliaFZIWHV2WDhkZlI4SEhTVkM?oc=5",
-      "s": "우리경제신문",
-      "d": "2026-11-01T16:47:35+00:00"
+      "t": "반도체 이상없다 : 심층 분석 보고서 ①",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzl0VG9uTkEyYk9IbzAzZVJCcmVLR1ZQcC1BZnRyY3pHV1dMdmh1SndnazJwdVBRdkhscnVfVHZxVGNQbGtHZVlyTVlyMkEzTE45Rk15T0pCMVFFNmt4enNfb2xWbEtIc19kaDFLLVZ6RVkzLWM2NTMwRDZrMUFxVWtmRnVlUQ?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-11-01T17:24:00+00:00"
     }
   ],
   "asof": {},
