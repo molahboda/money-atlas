@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T19:15:40+00:00",
-  "quotesAt": "2026-11-01T19:15:40+00:00",
-  "newsAt": "2026-11-01T19:15:40+00:00",
+  "fetchedAt": "2026-11-01T19:30:41+00:00",
+  "quotesAt": "2026-11-01T19:30:41+00:00",
+  "newsAt": "2026-11-01T19:30:41+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
@@ -24,12 +24,6 @@ window.LIVE_DATA = {
     "vix": 12.91
   },
   "news": [
-    {
-      "t": "만년 저평가 151개사 '경고장' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fR2JTYjlSa1JRLVVDSjNHLVQ2bnlFazRsTWhnSFhYQ2ppS0h6QUtCeUxBM1JlZ0prbDFPdmpjMlRURDNrN3kwMDA1MEU1Q1JYbWtVa3NCSjRUa2ZQX1hPV09jLXpIay1yMnRqTVI2SkNxSEktQmfSAXtBVV95cUxQSHp4RzZENUVJTkJESEdnY2RObzZHcnp2MVVQNlVCOVpxOXBmeGRnM3FIVTRGaE5ZTE5HX29IcGJGRHRMSndjSTlTekx2cWV3MUItelZqR2hCa0VGeU5JdF9GWGJLX1VtOVlIQTdSazNtM2JiX0FTdVpDRjg?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-01T19:04:00+00:00"
-    },
     {
       "t": "美 중간선거에 삼성·SK하이닉스 촉각…아시아 증시 업종별 희비 전망",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWF6VTNrR1VvZFlwTUdkeThOVC1oYlphNUtkbU44N2FOMTVuR1NvSGlLdnlTRE44U3ZkMDZUdVFVME5TU2t2ZHlaRWhPRzNKLU5GMXM5OVhURmpjb2VGVTVmdEdOcDNURmQ2ZThPLXNPU21wSGp4Vk1fem1GYno0M2dLYW93SWJV?oc=5",
@@ -61,6 +55,12 @@ window.LIVE_DATA = {
       "d": "2026-11-01T17:40:10+00:00"
     },
     {
+      "t": "반도체 이상없다 : 심층 분석 보고서 ①",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbzl0VG9uTkEyYk9IbzAzZVJCcmVLR1ZQcC1BZnRyY3pHV1dMdmh1SndnazJwdVBRdkhscnVfVHZxVGNQbGtHZVlyTVlyMkEzTE45Rk15T0pCMVFFNmt4enNfb2xWbEtIc19kaDFLLVZ6RVkzLWM2NTMwRDZrMUFxVWtmRnVlUQ?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-11-01T17:24:00+00:00"
+    },
+    {
       "t": "미 연준, 금리 동결했지만… 12월엔 다시 올릴까?",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiQy1LU0oyeFJhUGUyN2R1QnZIa0JjSmljNFZ0WEgyYkkwRmg0VkVmVzdVTHRja1ZLSmdIRXI3bHZ1ckZ2UUhHQWc0TzJLbUZ3a0JGNnYtM2VlcHpEQVB5ZkpsYXl3TW44REE?oc=5",
       "s": "금강일보",
@@ -68,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "용인시, 유럽 주요 도시와 반도체·문화·도시인프라 외교 보폭 넓힌다",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RZm9fRms4dldqUnoxODUxYVB0eFVHbkVuVE9ENVE1X1dtc0FYTldTYklqU2R3WWcwdndibTRGTl93RmFvNVJ4Q1ZHcUpTMWRwSklBSW5BU2VwSXB6dUJMRUphSQ?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQ01ybUh2MHA5TXVHSHphTkFaSVlYb1NPbnlMRkx2LUhKV2Z2VzBKSWxtcHVKUk5yR180cS1DelBWRU9wRlJpTldSSUdqd1FiYnlMaUFUeUVtVDg?oc=5",
       "s": "에너지경제신문",
       "d": "2026-11-01T17:07:32+00:00"
     },
