@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-01T21:45:41+00:00",
-  "quotesAt": "2026-11-01T21:45:41+00:00",
-  "newsAt": "2026-11-01T21:45:41+00:00",
+  "fetchedAt": "2026-11-01T22:00:40+00:00",
+  "quotesAt": "2026-11-01T22:00:40+00:00",
+  "newsAt": "2026-11-01T22:00:40+00:00",
   "quotes": {
     "kospi": 5730.74,
     "spx": 7580.07,
     "nikkei": 63290.11,
     "vix": 19.42,
-    "krw": 1333.44,
+    "krw": 1333.28,
     "gold": 3898.9,
     "wti": 104.12,
     "dxy": 101.96
@@ -17,13 +17,37 @@ window.LIVE_DATA = {
     "spx": -2.12,
     "kospi": -4.69,
     "nikkei": -2.12,
-    "krw": -0.51,
+    "krw": -0.53,
     "dxy": 0.08,
     "gold": 0,
     "wti": 0,
     "vix": 12.91
   },
   "news": [
+    {
+      "t": "\"우대금리 낮춰 서민 우롱\" 비판에…은행권 \"대출규제가 문제\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VUdMOG9DQXVGWXgzNDZ1bFlJN0ViU0RoXzZMWV90YTZtT3hnLThIS1k4UW16dHpZdC00azVISUppaExMa3JSZXF6UDJjajJVR0RFVzF3RHRIZ2RjdlE?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-11-01T21:54:20+00:00"
+    },
+    {
+      "t": "\"엔화 진짜 바닥 찍었나\"…헤지펀드도 '엔저 베팅' 접었다 [도쿄나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUenRNeDhFa3hOWm0tTWduUUhGNGZ0b2lJdjFNSDJLd1hoTDJobnBlSDJiQnhoWlJnb0hORVVzc0ZJc1Y2SjVCT0poVE9fdnZHc3RkSklRMFNWQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-01T21:50:23+00:00"
+    },
+    {
+      "t": "3500억 투자한 日 반도체 연구소…이재용이 직접 챙긴 이유",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UVkY0N0JMN1RkQmtBbHk1ZDA5UEVOZlhfU2phajFqMW5rU0xlUEUxWjM3aGhmbWlSMnhWVXFrTnRhUWxiaGl5WjlVMkNhaEVoc0JKWGtNaXpPaV9WdXFrMThmU2x2Yk9HdzVfMg?oc=5",
+      "s": "비즈워치",
+      "d": "2026-11-01T21:45:02+00:00"
+    },
+    {
+      "t": "반도체가 벌어온 세금 어디에 쓰이나…이 대통령 ‘821조’ 예산 시정연설",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ySll2WE5PWXBheXdhRnhjNTNhR3N5am9rT1JLMkhpbVEyeDh5VFRLdEFJMGg4REhfQThwMlZwU1NDYndDdE9Nc2tjSm94Z3hwOFVNODR3?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-01T21:36:54+00:00"
+    },
     {
       "t": "[삼성생명, 고금리 자본확충의 명암③] 삼성생명, K-ICS 208% 최고인데 조달금리도 최고…연 6.875% 득실 짚어보니",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4td3ZVWE1YLTNicjVLMTZoTTFpNTVrcERQYzJvcmJ6X3MycFZhN04yUDUtWml5dlREZFNTYnh2VmVIUTdKOElsZVRuSEkzN00zVzBWS2ZiZzJMSlk5SnliT1llSWXSAWhBVV95cUxOREN5bFBTak1GVjAyQTRGa29MY2hYUnFoUUFHMng4cWVqYnlIZnZPcnRZN0VfZGhvbUJuRXZvcTlHN2RFSEdpWHdRa3F0Z0M1b2xTVlJ3dGt4SlYyM25jQVZYM1dpR28zag?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05b054emEzdlFIc1UzUEFMWTl4a2luZDJ3OWdlam1XbW5obU1oQ01yMUtvSmVnZnprWjllSFM0dktfZS1KTkNRa0oyLWdYYnZPSlAycENONXZTQWd0dGhEU1lTd0JXTEM3a2c?oc=5",
       "s": "SBS 뉴스",
       "d": "2026-11-01T21:10:22+00:00"
-    },
-    {
-      "t": "국회 예정처 \"2027 정부예산안, 물가·금리에 부담 가능성\"",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWGR6U2cwUUdCMFhieWRuTFVOOVNxRGtBd2pjeHRhYlY0dFlZbjFQTUpWVGNZZUNHTm4wbEpOcXhjcE1JUXlYRENYTnpicEJPMkh3ODFaWlREN2lERm1v?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-01T21:10:00+00:00"
-    },
-    {
-      "t": "'-29% 인텔 쇼크'에 긴장한 코스피…'육천피' 회복 기로",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTExpMDZZS1phUDFFQmhoUG9ERTVJUGRObVFVNEtUN0prc1hjMVRPQXgzbWY3cjFPaTVNV3JlTF8taDlIS2dwTFNJcDZOUHBKb2ozemNsTzNzV3M?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-01T21:10:00+00:00"
-    },
-    {
-      "t": "[코스피·코스닥 전 거래일(30일) 주요공시]",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9McHFmQ3V3c0Rta2VoM1NxY2U0ZWpBWlY2TXJpVUEwNlExMmg0Z0Z1SXo5SEZfR05FbkFDVmRoZGx1NmhsOWQ4QUxsWHkxSkgxUW8wRk50MnFBNjTSAWBBVV95cUxOY0NjdnUyd0pJU21ZSUhRVzF1MVFCaURFanFjLVk5TlJaczg2X3Joa21YYjh2UTFVTjlmUVFYNXRmZlZFa3V4Ym82cFhnanZXbWFOODRpcHQ3ZWNFU1EzN1U?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-01T21:05:00+00:00"
-    },
-    {
-      "t": "1조클럽도 못피했다…한화생명·현대제철 등 151곳에 ‘저PBR 꼬리표’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aa1ppb1lwLW1NUTFSZkU0YUJYRk9nYmpJS292VWlqbThxR0hDOW9TRVhaOVk2NzNLZG5NcFRUalp0bVhVa1I3RUVpTW1pSFhrS0E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-01T21:03:31+00:00"
     }
   ],
   "asof": {},
