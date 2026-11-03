@@ -1,40 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T04:00:41+00:00",
-  "quotesAt": "2026-11-03T04:00:41+00:00",
-  "newsAt": "2026-11-03T04:00:41+00:00",
+  "fetchedAt": "2026-11-03T04:15:41+00:00",
+  "quotesAt": "2026-11-03T04:15:41+00:00",
+  "newsAt": "2026-11-03T04:15:41+00:00",
   "quotes": {
-    "kospi": 5659.39,
+    "kospi": 5672.7,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1338.98,
-    "gold": 3934.6,
-    "wti": 96.66,
-    "dxy": 101.8
+    "krw": 1339.12,
+    "gold": 3934.1,
+    "wti": 96.75,
+    "dxy": 101.75
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -1.25,
+    "kospi": -1.01,
     "nikkei": -0.33,
-    "krw": 1.02,
-    "dxy": 0.05,
-    "gold": -0.88,
-    "wti": 0.21,
+    "krw": 1.03,
+    "dxy": 0.01,
+    "gold": -0.89,
+    "wti": 0.3,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "RBA, 기준금리 4.85%로 25bp 인상…3명 반대표(상보)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FVlhfb1hLNjJCRXJIUUpoRmd1eXZlVGVTNzBwVldTTWI3T2hUSjBfSndXMXVZeTlUMEhrMDF0a0dMSUQ0dVFCejBXd0xzZk5wX2swZFRUYmtXMTlYdXZUeF9nbXdFd05DQXdncEwyWFNsdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-03T04:06:58+00:00"
+    },
     {
       "t": "호주 중앙은행, 금리를 2008년 수준으로 인상…추가 인상 시사",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdDYtcDVNaHo3c0lfa0RiR2pRQXhhc3NqaDd0NGZTaHRjYUltc284THBmMVlqSVFXdXo0T0VMa2I5cXEwX0h3SENrVUdfVURlRWswY1FlM0t3SDBMVGZlWTMybUxEbDFNRWc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-03T03:48:00+00:00"
-    },
-    {
-      "t": "10월 물가 2.8%로 둔화했지만…국고채 금리 짓누르는 ’서비스 물가’ By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUTROVnhBT01XZ0NvNjJvcW0wQlFXVDNGRWdhd2NVaXNRMTRLOVV1SXBiZEJlWUN4aEpPcjltbFk5cnpHR19nQnppN1hlSnVKTEdiNFUwWlNCdkFJN0ItekNuVWZFTWZwS1RiY2pRWlY?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-03T03:47:00+00:00"
     },
     {
       "t": "호주, 기준금리 4.85%로 인상…18년 만에 최고",
