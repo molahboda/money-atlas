@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T03:00:41+00:00",
-  "quotesAt": "2026-11-03T03:00:41+00:00",
-  "newsAt": "2026-11-03T03:00:41+00:00",
+  "fetchedAt": "2026-11-03T03:15:41+00:00",
+  "quotesAt": "2026-11-03T03:15:41+00:00",
+  "newsAt": "2026-11-03T03:15:41+00:00",
   "quotes": {
-    "kospi": 5700.77,
+    "kospi": 5662.22,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1337.82,
-    "gold": 3958.7,
-    "wti": 96.65,
-    "dxy": 101.83
+    "krw": 1338.94,
+    "gold": 3953.4,
+    "wti": 96.44,
+    "dxy": 101.82
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -0.52,
+    "kospi": -1.2,
     "nikkei": -0.33,
-    "krw": 0.93,
-    "dxy": 0.08,
-    "gold": -0.27,
-    "wti": 0.2,
+    "krw": 1.01,
+    "dxy": 0.07,
+    "gold": -0.41,
+    "wti": -0.02,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "[테마시황] 보안주 ’활짝’, 반도체·정유주 ’울상’ By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5T2ltaFpwMUpNNVU3OVBYcnhodW41V1Q5Zml1NnpDZFhXM0NOM250MXdjQXZJWEVMbFptQ3NuWGd0VHhkS2xvYkNVaW9tRmtDZk1rRC0tLTVmdkQtZW43ZjF1UUZwSWVURTBzX0R2czc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T03:08:00+00:00"
+    },
+    {
+      "t": "美 단기 국채 발행 확대의 역설…연준 대차대조표 키우나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HVDlRX0R3MG1xMXVYTkc2YVd2Z0s1YUwzVWVVZktXVGVEaUk3dGhMTWluNGxYbTZqTmJZZkJWZFdDemoyR2Q4LUlsZGZHdVZKVUZ1RkZNQTZFUzFoa215c3B4OFp2YV9nNUpWV3FodU0?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T03:04:38+00:00"
+    },
+    {
+      "t": "10월물가 2.8% 고공행진… 기름 더 붓는 ‘역대급 예산’",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySlZMeU9GRWlWb00wR2ZQUEFFMFl5NWJrSEhGN0dESlp3SlVOWHQ3SVVXcF9LMVVBbWJYbzdacTlYQnAwMXY0SjlPbG9GeWpF?oc=5",
+      "s": "문화일보",
+      "d": "2026-11-03T03:02:20+00:00"
+    },
+    {
+      "t": "\"문제는 인플레야\"…美유권자 70%, 트럼프 물가에 불만",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wTzVJZEk1NVp3bjRGYlUzSjBwRHBDc3pDNXlOMVhQX1ZmM3JUMWUwcXZOaUVMY1c1WEdGTjBhMXhfenotc01NOTkzRm04OUZQWjBDLXJVTUhhRknSAWBBVV95cUxPeng0Z0lTQllxZXlKR2RNZVNNV0NIZUY5dTVMWnhXWDEzWXY2aWZjOHZwQzZJR2RaNHpvV2ZVR2w0ZWxGaDBjXzgxODZET0JOdFduUnBBa1hkUkJEMldCdVc?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-03T02:58:12+00:00"
+    },
+    {
+      "t": "코스피·코스닥 장 초반 약세...장중 2%대 낙폭",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teG5MZDZpc0RRbzFGQTAxakhsbXB0RUFtZy1NYWdIZ3VFSS1PX1JnSXN0ZGlzMTUzbU4tMVpSSzlUNkExWUVhSDNZNHVvNlB1eGwxVkNLcDJhdnZaeVNsc0V3TzdaaFhyVlFoZ0hlTQ?oc=5",
+      "s": "YTN",
+      "d": "2026-11-03T02:57:00+00:00"
+    },
     {
       "t": "상추 44%·오이 40% ‘뚝’…농산물값 하락에도 소비자물가 상승, 왜?",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbVQyX3dOMWJ2OEV4dEhwVTd2aWFad1dLbHJOekUzUnh2SHN5NUhlWExlTTlXd0ZOaVB3REJGTWJ3ZUUxV3ByYTRLSk1YdzQyTlBxNlBLR3F3dw?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zZC1sY0xaZml6SmFUeDRScEZ3YU9XTnpJZHpiM2VWdVd6c2RMd0h1RXBSaEd0ZGJuRjJCYWtMVnA3Nk45clFYUmJ4S0EtYkZsTDJyTWg3cXh6WmtDcWc3SUQyWE5EMms?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-03T02:45:00+00:00"
-    },
-    {
-      "t": "최고가격제 물가 착시 심각, 쿠폰制로 신속히 전환해야[사설]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50MVNuSVcyMnduNnIxckdvd19tWVREMkxMYTZ1MjdCLTNkbkhicFBOcHphYTY2WktCY1BHa3NPV1NYc0hXZlNoWTB1anRUMjVl?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-03T02:40:50+00:00"
-    },
-    {
-      "t": "코트라 통상정보가 수출기업 살렸다…美 관세 22만 달러 환급 성과",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SeTMweG12Y25Jc19kVXphemxiVUpYcFFRVnJpNWppNEtlVnlsblVTTzhuMWxwdTQxUUVLeGdEc0thVl9samJQaV9DYmZMbGl6WkFlZGxkaDJBT3h0bnQ2akNxR2QxMHRwSjdScA?oc=5",
-      "s": "재외동포신문",
-      "d": "2026-11-03T02:40:39+00:00"
-    },
-    {
-      "t": "꺼지지 않는 AI 수익성 우려… 코스피, 5700선 '공방' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Y3VtbnlVcU9kZXhYSGExYUs5ZW1WM3FlYUxJdXpQWE5oa01LdzBCbHJJYkZiMDdseFJ4R1l0VUw3bDdFNGlzZmtkRGZEbTF2N0pVWnNnaU9COXI0YWJVUHZUWUlpRXd60gFuQVVfeXFMTVdHTnZlYWZLTmhMVlUyMDdsNC1Tb1VFaXpFWkI0a181OENOelQzZU9SaHYzbG5qdVE5X3hRaFRmZjNucHRUcjFseWhZTkpVQTJaMUJkT2dGRWxSTnVzTWJQY0RJNjNINFdpajdyRkE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-03T02:38:33+00:00"
-    },
-    {
-      "t": "한은 \"11월 물가도 2%대 후반 전망…비용·수요 압력 경계\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40YTg1MHlzOFJuZVpIcDVWMGprVXg3R3JTRTh3ODFGNVdUeGhMaW5WMG9rVlBFN2wwN2lhS05DNVZrend6UVl5VVd6aTAtZUI2aWV0Y2VhTkptRExKUzltaEJkeUFwLU16aGtlZmN4QS0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T02:31:44+00:00"
-    },
-    {
-      "t": "농산물값 하락에 10월 물가 2.8%…석유류·외식비 상승세",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE91WklqWFFBNC05MVlXcmFBaWlTUTMxd0dyME1CQVFlc1ZyYTg2RWxHNllac09GUHRCNmZzTm1OQl95YXAxTG5Bdjc1dndDZTB1SjRkcVRKdFNtbDRPZmdUeldBS29IdXU3TDdBeVF1RFRqZw?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-11-03T02:31:07+00:00"
     }
   ],
   "asof": {},
