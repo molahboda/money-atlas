@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T11:30:41+00:00",
-  "quotesAt": "2026-11-03T11:30:41+00:00",
-  "newsAt": "2026-11-03T11:30:41+00:00",
+  "fetchedAt": "2026-11-03T11:45:41+00:00",
+  "quotesAt": "2026-11-03T11:45:41+00:00",
+  "newsAt": "2026-11-03T11:45:41+00:00",
   "quotes": {
     "kospi": 5648.79,
     "spx": 7541.4,
     "nikkei": 63081.86,
-    "vix": 21.29,
-    "krw": 1345.08,
-    "gold": 3914.8,
-    "wti": 98.44,
-    "dxy": 101.87
+    "vix": 21.41,
+    "krw": 1345.2,
+    "gold": 3913.4,
+    "wti": 98.45,
+    "dxy": 101.86
   },
   "daily": {
     "spx": -2.32,
     "kospi": -1.43,
     "nikkei": -0.33,
     "krw": 1.48,
-    "dxy": 0.12,
-    "gold": -1.38,
-    "wti": 2.05,
-    "vix": 0.66
+    "dxy": 0.11,
+    "gold": -1.42,
+    "wti": 2.06,
+    "vix": 1.23
   },
   "news": [
+    {
+      "t": "호주중앙은행, 기준금리 4.85%로 인상",
+      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPazJack85TGctVERSWHBHNHM2VklOaGNqa3hTM2RJNExyVkJuZkdhb2NHbk5UMGdwOWhXZ2Z5X1pORXdKS3l6WXZ5Z0twZjNMQUdOMWswWXlOdS1URGFwbTBWcUVFb28xTlBlNHRlV2NPdnktNG5VazcxUThnY3N0WUNpTXA4eGpobllRZkpFWjVJN1c0cW5abkYzd1B5WnhvczJ2aFozYUFEcFpOdVdVQ3pOdURvZHZPVjFFTEdPMHlmY3UtNXkxdTR3NGlGUENZWXZlanVuZFkxZ3hmejNDZ1ZZNnJFM0xlQVNEOUx5YVk5Zw?oc=5",
+      "s": "위클리코리아",
+      "d": "2026-11-03T11:31:36+00:00"
+    },
     {
       "t": "10월 물가 상승률 2.8%…가공식품 오름폭 ’껑충’",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wVnhWRFNIMVF6VUpUM0ppSkhoT1RoZnlzVWJKSVpiUG1Pb3hLbmRWaU9aUXAtRDVSU0tVWkc4cnRLbTFSVXB3T3hMX19WdHpsNGQ3N2p0cTBpU25LeHctTXhvVUZ0YW8?oc=5",
@@ -47,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6YlJoTXBhQWRjRmpGUlFmZl9nVnNnY2c3dlpkTW1WVE44TVF3ekd2ODJDYUl4YjJSYTRUUU8zNklGUGVqZk1iV2szVGwtZw?oc=5",
       "s": "전자신문",
       "d": "2026-11-03T10:29:50+00:00"
-    },
-    {
-      "t": "석유류·공업제품값 ‘고공 행진’ 지속…부산 10월 물가상승 4개월만에 최고(종합)",
-      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnBXUFRxR1BEUHNLcHRDWVBkV2xsNjltd0k4NThyUFEzV196SGczQzZvbzYweDlpQVQ5UV92R2hWUnM2eW4tSGFoVXFxclRNZWtQTkxZbzd0ckcxOUtERFF2RGExYUItMjRaSXktaEVydC1UOWlsOUd1S1RuTTlJMjZBa3JwRVJ0LUxoYkhMNGFGVmx5?oc=5",
-      "s": "국제신문",
-      "d": "2026-11-03T10:28:00+00:00"
     },
     {
       "t": "[亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑",
