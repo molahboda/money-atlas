@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T00:15:49+00:00",
-  "quotesAt": "2026-11-03T00:15:49+00:00",
-  "newsAt": "2026-11-03T00:15:49+00:00",
+  "fetchedAt": "2026-11-03T00:30:41+00:00",
+  "quotesAt": "2026-11-03T00:30:41+00:00",
+  "newsAt": "2026-11-03T00:30:41+00:00",
   "quotes": {
-    "kospi": 5859.08,
+    "kospi": 5652.22,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1342.18,
-    "gold": 3960.9,
-    "wti": 96.44,
-    "dxy": 101.8
+    "krw": 1342.48,
+    "gold": 3965.3,
+    "wti": 96.26,
+    "dxy": 101.75
   },
   "daily": {
     "spx": -2.32,
-    "kospi": 2.24,
+    "kospi": -1.37,
     "nikkei": -0.33,
-    "krw": 1.26,
-    "dxy": 0.05,
-    "gold": -0.22,
-    "wti": -0.02,
+    "krw": 1.28,
+    "dxy": 0,
+    "gold": -0.11,
+    "wti": -0.21,
     "vix": 8.91
   },
   "news": [
     {
-      "t": "\"반도체 자사주 매입, 하단 지지 효과 있지만…반등은 外人 관건\"-키움",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzWkhlX29OeWZxMU5VZ240ZTN0UlRUc09Mdmx4QWhBMXJWeFJUVk1vaHl6VWpmTi1IYUhPR3ZobURoZ2JCZ3ZrVzA0ODR3NU55RTRISHRnTzBDdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-01T23:08:47+00:00"
+      "t": "[개장시황] 코스피·코스닥, 외국인·기관 '팔자'에 동반 하락",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPcDZBVTRiUXNlaDRRVlZMM3haYWRqYTVkdG9Ycm5KSy0tRXpjaVFlWkxuemF4cHRuck1ISGh5TXNvYjg0SFZUNlNhNXUyQnJkeGNSdDZUQnFKVUI1?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-03T00:26:00+00:00"
     },
     {
-      "t": "이재용 회장, 日 반도체 패키징 연구거점 방문…소부장 협력 강화 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XeE84RF9tYzB4bjI2VWF4RzBkeEI1aVFBaWRIcXpVVzBFV1VZZjFDSDNiM1BCdlBnNHU3WDhOVW4yX3RLVHdTUUludkMzTVlUbTZ2LXJ0ejdLTWxEcDhXM1JIckpxVnludTNmWDNHTks?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-01T23:07:00+00:00"
+      "t": "유가 내려도 웃지 못한 국내 증시…美 반도체주 약세에 코스피 2%대 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NOGJSYUJhQzE5bF9kVF9sYVdpQ0pGZlFUM1NCM2FKWDhhSUFCSVpwS3hxRFhDV1hpWGxBOGZoM2ZHazRFcWFXb0QtMGxyN3AwSk1wUjZHYWV4MFhTNF9ZUmlyVGc4SnFVRTRaTEFrRkc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T00:22:07+00:00"
     },
     {
-      "t": "‘수출 1조 달러’ 시대 열린다는데… 내 살림도 좋아질까 [11월 경제 캘린더]",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FXzZoWFpMcW16VkJiVktJTEZvQlBPSlJPMHl1Szl6VUVzRk5wNTlxVXlYalZ5VWo3d2s2eGgwOWw3Q2h5b01ycndlRlhqb1lkaXAzTU40NXdjRXpsa1NWajVOUW9NS3BqcW4ySkJ3?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-11-01T23:06:59+00:00"
+      "t": "유가 하락에도… AI 투자 과열론에 코스피 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2ZMQXhlMDVmSmNfd2lpanM0WC1fS0NDM2pndDRqQ3BuVGVQOWxxZFFPNmdQRlVPdGtNeENhZDhRTTBlREtlWGtpT2pfdTVrektVbDI0QWk0T21zOUh0RF9wc0FIeDhJeWVIWi1UWjJ1U2QtdTZfZVBnWExDd2owNnhGbXd5MjQx0gGcAUFVX3lxTE8yUlJYNTI2anItRUxvck5iMzZBWnU1N3U2VFVWZGZzejZDbnFFOGo0TFk4amgxcTk3RXlQM1VNWUU2UlZqUldCWmc1czNGWDdSR3ZHeUlpWnBqMU9XQlpjRmFRMDRwdkJhRURRMGxNQkw0X01YaFdwY0VKTXpTYzE4d0huZmdZei03OGRpbU1Id1ZrUWc3VGtTeHE5dg?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-03T00:21:00+00:00"
     },
     {
-      "t": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTDNNVGZtMVZNV1hIMThJdFJTQVBDekdBSzJMRFJSNVdZT1Q1SVRKZ0hTanNKMlB0czJJR2ZNcHE2eEZCT3JSbXRKR1lDYnhQNXVGemlmaEZCdFHSAWBBVV95cUxONDJaaF83Vzltd2FiV2ZJOW94amtDcWwzRGFBUTByZ1JESlhna0V2V1Vsc01lekVrdUtoMVM1MmhtRXg3bkJtcVFxYWF5dnQza29jYmpOQ0xGdkUxblFENUI?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-01T23:05:20+00:00"
-    },
-    {
-      "t": "한국 수출 1조달러 눈앞…반도체 비중 49%, 성장 편중은 과제",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44Mlo5OUt6ckFLTDJENGU3czY5S2RKdHNqZ2hkYTVqNFJNRFEzUmJwUUJ4Mnl6MGVTd05JVlAta053c3k2TGNIZE1DZlZBeHVQTzJYQmtOY1dPLTZnaXVSSTJDYlhQOXFkWXpGdXFXUmU?oc=5",
-      "s": "비즈중앙",
-      "d": "2026-11-01T23:01:42+00:00"
-    },
-    {
-      "t": "블랙록 \"국제유가-국채금리 상관관계 10월에 멈춰\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHWUJ3STY2QWwtNEVaSDZhNHJzaFpPcjhRY1oxbnVhQl9yeWdCNVVVQzk1Q1pBNE1jSmpENVlsWjlmSVFwY0hIOFNvR0hfRzhOT0c2RUxwREtoQnV3WUQ2V2s3TVZXckw1YnZzY1BSWEd1QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-01T23:01:10+00:00"
-    },
-    {
-      "t": "[굿모닝 증시]韓, 美 AI주 급락 여진 등으로 변동성 이어질 것",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93SG1BS1Mwb256bHNwaE01eUFvQVVIcFIwaWRVTHFjNGtyVU00UnppcE5oUkRTX2hKeng0ZHNPZldpMWNPY1ZtbEJDdU9IbHhFMGdlYUl5aEM4VkEyQU93S2lR?oc=5",
+      "t": "[포토] AI 수익성 우려에 코스피 5700선 급락",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSUjJKbENiQWJBLXY5YThzYTBVdXU0ekZWejRfeHhyZ3JqYWJndlI1U09rVkdoanhFeEF5NE1vOWR6LUJybFVuM3oxeko1SzVYa0Y5N0ZlVG9veTNaZFZjUA?oc=5",
       "s": "아시아경제",
-      "d": "2026-11-01T23:01:00+00:00"
+      "d": "2026-11-03T00:20:48+00:00"
     },
     {
-      "t": "급락한 코스피 밸류에이션 매력 커졌지만…지수 상단 줄하향 '신중론'[11월 증시전망]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NUVZvLVdsOE1zSWFuUTNFQXVDaHh2b1RXMlQwRU40NUw2ZFdqUWRHRXlTUXlMTmpCbUUtZTV0Sk54MWJ6bW9jcE50WmtxWTU3V1poX0Z5YUstZw?oc=5",
+      "t": "10월 소비자 물가 2.8% 상승…한은 11월 금리 인상에 힘 실린다｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MekhrVHhRS3UyWVlObTNNZ2R3d0JpSi1LYnBha2ZsMUdPN1QxZ1Frck1mcmVWME1WUkVwdWZxUnA1TTBWcF9vbGM3UlJOSWk5WHZ4WllGM1phNWM?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-03T00:15:36+00:00"
+    },
+    {
+      "t": "[외환] 유가 급락·弱달러에도 1,340원 중반대",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CRHpqMzEzOGNqWWxRTEE2ak9GZWtEZ1FZRy0wX0c5UVlRREtUZVYxWWptNmRfdTN0bmtSQ25XeVl3c3c2UmRqNGwtLThmbVZJSjI1dHNkUTh1TXVFX2pwbGRZb21tYzh3c3lMVEdNeVQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T00:11:59+00:00"
+    },
+    {
+      "t": "반도체 투톱 동반 하락…코스피·코스닥 파란불 [개장시황]",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5STkFPTUtrdUF6U2x1SmRiNWNJSmRnelRtNWlyVkFpa1I3OGpfV3ljOFA5Mnc3VXFiOFRLZm1SZlY4Sm9BRjFrUjV4MkJwVnBEQ2ViMDdfaXRuajQ?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-11-03T00:11:13+00:00"
+    },
+    {
+      "t": "코스피, 3%대 하락해 5600선으로 밀려…삼전닉스↓",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50bFZKa2k4OFJ5X0xKNXVfVmVNLVpJaDBfTHFBUkRyeUUtSDZoSWpmdlFFd0pXaUJpOUVab3NHdXZjVHVUOXdBT3Q1NklISXotQVZONVZzQ2VqZw?oc=5",
       "s": "한국경제",
-      "d": "2026-11-01T23:00:16+00:00"
+      "d": "2026-11-03T00:10:46+00:00"
     },
     {
-      "t": "3분기 서울 상업용 부동산 거래액 20%↑…대형 오피스가 견인",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vdUFwME02a3NzNnU4NE5fX3NzbzFHNEtaVE4yZ0dXb2NoTU5RMVRZNGFJTkgwbEQ3bXE3c2JiMlBlSV9ER1c1c0xhUUdjX3QwMXc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-01T23:00:05+00:00"
+      "t": "유가 급락·AI 투심 위축 지속...오늘 증시 향방은?",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWG1DUzdPWHdGS1ZvNlQyX1RDUUlqdWdlV2tLeVhnMzBBY2ZvMUR2ZERKWG1Cc0ZKT1JsNEx2M3NvREdpcTJvVWhTQ0xKbDVTbE5wN2sxalQ0eHZOTUE?oc=5",
+      "s": "YTN",
+      "d": "2026-11-03T00:09:00+00:00"
     },
     {
-      "t": "증시 부진에…증권사들도 키움증권 눈높이 '줄하향'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbzY3Z3poZzFQWjF6eVp4bUFpVXZEYmg1YkpVQjBEVTIzMmNVUlN4TUFyUWlKUU5MZm9IZ1dnSllJQ1R3NS1QeFZDMVMwZnFiUjdBaWc2N3pRUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-01T23:00:04+00:00"
+      "t": "국채선물, 상승 출발…유가 급락·코스피 약세",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ORFhoODBPQlo4QXYybEhtc1VyUGtHZzdBQjR2OGZQamIwdVdIdDIyV0lTQjJkYnRjcTN3R2JNYTVxcWVWLWlVUk10V21kWUNJeEFNaEYyemc5M3pRQXdKb09iVjBsMURKVVZtN1MxOHJMQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-03T00:04:22+00:00"
     }
   ],
   "asof": {},
