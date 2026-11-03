@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T01:45:41+00:00",
-  "quotesAt": "2026-11-03T01:45:41+00:00",
-  "newsAt": "2026-11-03T01:45:41+00:00",
+  "fetchedAt": "2026-11-03T02:00:41+00:00",
+  "quotesAt": "2026-11-03T02:00:41+00:00",
+  "newsAt": "2026-11-03T02:00:41+00:00",
   "quotes": {
-    "kospi": 5713.73,
+    "kospi": 5719.24,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1342.88,
-    "gold": 3960.4,
-    "wti": 96.57,
-    "dxy": 101.8
+    "krw": 1341.78,
+    "gold": 3962.7,
+    "wti": 96.52,
+    "dxy": 101.79
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -0.3,
+    "kospi": -0.2,
     "nikkei": -0.33,
-    "krw": 1.31,
-    "dxy": 0.06,
-    "gold": -0.23,
-    "wti": 0.11,
+    "krw": 1.23,
+    "dxy": 0.04,
+    "gold": -0.17,
+    "wti": 0.06,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "한은 \"11월도 2%대 후반 물가…높은 오름세 지속\" By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeHpldXl1VGlEbVBTek55YVBwVjhpRldZVWhuYXdkaUNMXzNwN3RMS1dzN19lN0tSNTRiOG5STHE5aDh1MEJuaXJ2d0hiaXlnM0Z1dUtUcWpoZldYeElZY1FTVnpRZ2NvQTROc0Z1b04?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T01:46:00+00:00"
+    },
+    {
+      "t": "국제유가 급락에 美 국채금리 하락세 지속…10년물 9월 이후 최저 By The Guru",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWXpBa0VNMTJzLVZZY3gzSzdQSHhWUDN2dkJzcUVSZE9jWjJ6R1pTWHA1SnpTR3RJeUhHampoVWZVTjJsd0RYeGJvZkM4MDdNOFUwY2tsZ0xZUm52WFA2WkkwbEVYejkyN3JKT093Zmw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T01:45:00+00:00"
+    },
     {
       "t": "정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04bU1XemdhOUxkRmR5c0NKQ2h6WXBYRTNodUtvMS1uMjZ3bzFyMHh4ZE9feGxDaU1ETnM5TEQ0Ym14cnJTRktKN0xVVDdFZThYRTUzVVV3?oc=5",
@@ -31,10 +43,10 @@ window.LIVE_DATA = {
       "d": "2026-11-03T01:38:08+00:00"
     },
     {
-      "t": "코스피, AI 수익성 우려에 내림세…5700선 '위태'",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lOC1rN0tkZEFZOWpERzl1YTBzVThKRzkzeVdWQ01abnlEd21Zam93Z3kzbFpCN2MxZlRxNXktYS1GckVQWTlEN2M0RElZR1BGcEt5Y1ZvYzRrV2J1YkNaT285dEg?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-11-03T01:37:40+00:00"
+      "t": "미국의 이란 케슘섬 공습 보도에 유가 상승",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YS0tzRTg2enY4Y1hkVVNNX1pCTXdRclU0RTN2Y08zcmk3dFFKVTRZcHR5c2Nna1lhS2hhanlYaHI4U1BWSmJla29kYkZKcEtDdjIxR0xueTc4dUNoZ1o3cUtOMGpYVVJIV1NKcEV3Zw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T01:33:00+00:00"
     },
     {
       "t": "美 중간선거 이후 증시 향방은…\"과거엔 S&P500 평균 13.7% 상승\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42ZjZPNzIwbUlRSjZBTEdUNXZFZzlITWZSamJjaWkzMjBFczROckM0bGVtVEdRQzVYMGJoZFZDdGl4RE16VVdieU03SzBtN3dXbi1hRzlDSElJR0c1aWNMcw?oc=5",
       "s": "아시아경제",
       "d": "2026-11-03T01:23:02+00:00"
-    },
-    {
-      "t": "튀는 새벽호가에 재정환율 차트도 왜곡…\"시장가 반영 못하면 의미 있나\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sSXZBRjVySFJEOGpTZ1VpUTRFSVNkb2V1T0xNTDljTkV5WXJuUm0xOHlBMnlkS3JGd2FlS2hQWmh0WThzbEx2OURrVjFaY1Z0TDhicXFKQTF2VlpsQkgtU000Y1I3cnN1NFhFSmJMQmU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T01:23:01+00:00"
-    },
-    {
-      "t": "가공식품·외식비 상승에 10월 물가 2.8%↑…반년째 3% 안팎(종합2보)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWXRWRkxJWmttR283TVQ3ekNzMnZjZHljSlJpMTNXVzV3SmVtVnFweDZZTHlIQlNRM1FlTmlOdWRVLWxLRXZudXlIU0RHWmJ6eENELTlCbFc3WHfSAWBBVV95cUxNZloxMGx2cFdEekt1T0NTdHNmRGZaanZBQlhscUJBWldOYzA5QXF6WG1YMVFFR0JEVGl3b0cwWW8xWURTOThiekMxMThUbTBZZnBpam1MaHRKemdrdG4zOGY?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-03T01:22:45+00:00"
     }
   ],
   "asof": {},
