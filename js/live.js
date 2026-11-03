@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T11:45:41+00:00",
-  "quotesAt": "2026-11-03T11:45:41+00:00",
-  "newsAt": "2026-11-03T11:45:41+00:00",
+  "fetchedAt": "2026-11-03T12:00:41+00:00",
+  "quotesAt": "2026-11-03T12:00:41+00:00",
+  "newsAt": "2026-11-03T12:00:41+00:00",
   "quotes": {
     "kospi": 5648.79,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.41,
-    "krw": 1345.2,
-    "gold": 3913.4,
-    "wti": 98.45,
+    "krw": 1345.11,
+    "gold": 3916.3,
+    "wti": 98.5,
     "dxy": 101.86
   },
   "daily": {
@@ -19,11 +19,29 @@ window.LIVE_DATA = {
     "nikkei": -0.33,
     "krw": 1.48,
     "dxy": 0.11,
-    "gold": -1.42,
-    "wti": 2.06,
+    "gold": -1.34,
+    "wti": 2.11,
     "vix": 1.23
   },
   "news": [
+    {
+      "t": "소비자물가 상승률, 두 달 연속 주춤",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iVXQ2V1ExQ1ZKTU1sSXgtcHNLTjQtVVFEZno3RFRPWmpwaXB3a19hejZieHB3SUNxQmFodlhxQ19qQ2o2V3A2M1JPbnFWMjd2cW5xNm5sdmlVd9IBX0FVX3lxTE9wSUZjclEtZE9JS1RVeHUzNENYWms2UF91dTZIRmhrdW02SGI1VEtBMkxrS0pob2xtSVBoQVpUdkFXYVJ3VFVfTHBjYTJaUS1lUnREUC1kaWZzcmlHTkFN?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-03T11:52:00+00:00"
+    },
+    {
+      "t": "관세평가분류원, 2026년 ‘관세평가·품목분류 연구논문 및 판례평석 공모전’ 우수작 선정·발표",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zemZ0UkRzRGtVMzJBalFySUtaUFp0cFY1WTVKaURTVmFpYVZLUXpWYzVUVFQxOFFrR1NnWGxVM25Xdno2cHNUQVV4UXphdjkxeU9ZWE8xVGNWcWJwT29Z?oc=5",
+      "s": "뉴스다",
+      "d": "2026-11-03T11:50:27+00:00"
+    },
+    {
+      "t": "3년보다 높은 3개월 만기 금리…예금 상식 깨졌다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95eGxjUC1lT0FCRm92dWZGdGR5MmZJTXZORTYtWkwzZ2V0S3JyR3R6TXNNOWhMVGljdFU2QTZJZ092UDFPZmMzY1kxbmFVczRrTGI0TzY2X2FRUdIBX0FVX3lxTE92YjNPR3NOMkJURURRb0NySDdiNXBOdVI1Ukg3LXdKczNsWnlMWWV2M0dXUmVyVjV3UnpnaEVmeDRSZGpnS3ZHVy1ZcFhOLVBaSnJaRDJ0QjkzcHRPM0xv?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-03T11:48:00+00:00"
+    },
     {
       "t": "호주중앙은행, 기준금리 4.85%로 인상",
       "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPazJack85TGctVERSWHBHNHM2VklOaGNqa3hTM2RJNExyVkJuZkdhb2NHbk5UMGdwOWhXZ2Z5X1pORXdKS3l6WXZ5Z0twZjNMQUdOMWswWXlOdS1URGFwbTBWcUVFb28xTlBlNHRlV2NPdnktNG5VazcxUThnY3N0WUNpTXA4eGpobllRZkpFWjVJN1c0cW5abkYzd1B5WnhvczJ2aFozYUFEcFpOdVdVQ3pOdURvZHZPVjFFTEdPMHlmY3UtNXkxdTR3NGlGUENZWXZlanVuZFkxZ3hmejNDZ1ZZNnJFM0xlQVNEOUx5YVk5Zw?oc=5",
@@ -49,40 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-11-03T10:50:06+00:00"
     },
     {
+      "t": "“주식? 물려도 될 만한 종목에 물려야죠”…고금리시대, 과감한 손절 기준은",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Zcy1xUjNSWlAyNWNZN3ZWMG9HbnlSMkdCcENLVDVJeV9ZYjhTVEtGRk1POXFwOFdOYWpRVk1ZYUlRRG5Hc256Qi1HTko4QjhCY1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-03T10:48:39+00:00"
+    },
+    {
       "t": "반도체 장비, 3년뒤 계약까지 줄섰다",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6YlJoTXBhQWRjRmpGUlFmZl9nVnNnY2c3dlpkTW1WVE44TVF3ekd2ODJDYUl4YjJSYTRUUU8zNklGUGVqZk1iV2szVGwtZw?oc=5",
       "s": "전자신문",
       "d": "2026-11-03T10:29:50+00:00"
     },
     {
-      "t": "[亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82QlFsdE1WemswOC05UGtlNHp1MldQXzFOZUZFblpUWmtKMWhaVkJvU1ZpbXFmdFVTSFprc1ozN1JIQkhuRS1ld3EwejhqMFJnOWVZSFhLdV9TaG9KTTd0N0N3NGZ5cFZNcWhVVm4wenQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T10:15:59+00:00"
-    },
-    {
-      "t": "\"트럼프, 물가 못 잡아\"…'블루 쓰나미' 덮치나",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbTNGUGpDSlpmV2g5S3BNYXBNcEFwcl82QjZFRFBXTU5jU294SWtaYXh5SjhEby1PSlNIckxnOHlFa0o4MVJpQ0dESG5ZQ0x1b08yM1FaTjAtdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-03T10:15:00+00:00"
-    },
-    {
-      "t": "파운드화 소폭 상승, 달러 약세 속 영란은행 금리 인상 주목",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zT1pjbFhqNWNQNXRoSDFQeDQ3UWVGdmZxRzlza3duYjVaQ3oxVHdYQ2hTYWdlRTNVYWRfMEVEajVjWEVNNmZ6Wjk2R3VrU29Va0VPd1NhSnpkdk8xY1NjRUhXUG5sVmM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-03T10:12:00+00:00"
-    },
-    {
-      "t": "미국 그린트위드社와 반도체 발전·투자 논의",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oWmhHRnp3eXVKWGU4dU5YTnJ3SXI2Vy1CZnh6ZzBTR0NJcGE3ZzZWTnFpWkFpOE1nUm11amtOVWx4ZmdPeklzdVJuZEJtWGg2ZU5LZHlkb1hOM1o5em1naW5RSl9xU2dQ?oc=5",
-      "s": "충청타임즈",
-      "d": "2026-11-03T10:12:00+00:00"
-    },
-    {
-      "t": "영남이공대, 졸업생 초청 반도체 실무 특강 개최",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LUk1Td0ZXZng1ZkJJcy16cGRaaDdyMWloOXdJTzg3OVE3NGlRQVFEenFldWJtV2lpM0JqR2RpM3ByTmwtR1ZlN1RGdjkydlNQaWtERXNVRXM?oc=5",
-      "s": "경북신문",
-      "d": "2026-11-03T10:07:33+00:00"
+      "t": "쪽파는 갈아엎고 배추는 풍작…김장물가 전망은?",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qcVFVRWhfUF9veUxwNFNvX05RLVNmdWdVMEZ6LTB2VjNmeFVKQUY2SnBfN09WRHp2bU4xaTN5U2dJd2M0UGtxREZURzlSTVJmUmVsdXZCSjZ6cUphUExVNUtWOTl1Zw?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-03T10:22:00+00:00"
     }
   ],
   "asof": {},
