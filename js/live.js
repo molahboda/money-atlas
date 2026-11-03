@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T04:15:41+00:00",
-  "quotesAt": "2026-11-03T04:15:41+00:00",
-  "newsAt": "2026-11-03T04:15:41+00:00",
+  "fetchedAt": "2026-11-03T04:30:41+00:00",
+  "quotesAt": "2026-11-03T04:30:41+00:00",
+  "newsAt": "2026-11-03T04:30:41+00:00",
   "quotes": {
-    "kospi": 5672.7,
+    "kospi": 5643.2,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1339.12,
-    "gold": 3934.1,
-    "wti": 96.75,
-    "dxy": 101.75
+    "krw": 1339.48,
+    "gold": 3934.3,
+    "wti": 96.76,
+    "dxy": 101.77
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -1.01,
+    "kospi": -1.53,
     "nikkei": -0.33,
-    "krw": 1.03,
-    "dxy": 0.01,
+    "krw": 1.05,
+    "dxy": 0.02,
     "gold": -0.89,
-    "wti": 0.3,
+    "wti": 0.31,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "\"문제는 인플레야\"...미국 유권자 70%, 물가에 불만",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bEplU2MwRjl3dVlMbXAxbVRHcGpjZUExalNpSV9rRl93NGdFV1NnWW5Db004TW4xVXFySERYUHJUTnF1T0NyWEVCWmRSVkowd0tObzMyVHNDN3paN3c?oc=5",
+      "s": "YTN",
+      "d": "2026-11-03T04:15:00+00:00"
+    },
+    {
+      "t": "환율 누르는 '엔비디아' 환전 물량…10억弗 네이버 투자금 유입",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83Q0hCUU1NeWk0YjhfZlNCRlluSERqOVJWemNFWjI4N0RTQW91VGxoeHRmUEE5TmFGTTVpdFhYSDJjMURHaWxuTDFzQjlSclB3VHNlOHNTN3gtUWM4R1A3WmMzTzg1dVhKWXJBNUNZd0E?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T04:10:55+00:00"
+    },
+    {
+      "t": "애플 실적 전망 부담에 아시아 증시 혼조…RBA 18년 만에 최고 금리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWVFRVmlzWFJkY3VjNXgyeVZSeV9ZbEE3YjRvZUh4OGF3ejZxOThnTTN5Y3Y0ODlBSEV3RUlQLVpWcDF5emg2YmY2ZS01d1NYSVBpb0hpS3lRZkZCOUpJb1NEb3VTdnExUUI3c05BZHo?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T04:10:00+00:00"
+    },
     {
       "t": "RBA, 기준금리 4.85%로 25bp 인상…3명 반대표(상보)",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FVlhfb1hLNjJCRXJIUUpoRmd1eXZlVGVTNzBwVldTTWI3T2hUSjBfSndXMXVZeTlUMEhrMDF0a0dMSUQ0dVFCejBXd0xzZk5wX2swZFRUYmtXMTlYdXZUeF9nbXdFd05DQXdncEwyWFNsdw?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LSk4yb3ZGYXduNk9Hb2RaejhnVElHV1NLVFJYaXJGNmRXT0lIYjRJWXVYelF0TTk1aEFaZnNreXIyYWtualhQajU0d0EyMk91V3NIOEp6cnJwZHRJLXc2VEtYdzFSZGhvcDY4LXpEdzRWRzl0clp0U9IBeEFVX3lxTE1aRDdSVUIwMFJKZVZBYU41YXFhVkFJYU9EaGQtTHR4VUNpcXdUazJQM2hBNjRKSnQ3VXVPVG9BMll5dy03cllkdE5LSXZPdWl1aFJJbW1UdER2WUM0Nm5oWUR1M2pXdElNYktIbGFEN3BkRGpNQkc4cw?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-11-03T03:14:26+00:00"
-    },
-    {
-      "t": "[테마시황] 보안주 ’활짝’, 반도체·정유주 ’울상’ By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5T2ltaFpwMUpNNVU3OVBYcnhodW41V1Q5Zml1NnpDZFhXM0NOM250MXdjQXZJWEVMbFptQ3NuWGd0VHhkS2xvYkNVaW9tRmtDZk1rRC0tLTVmdkQtZW43ZjF1UUZwSWVURTBzX0R2czc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-03T03:08:00+00:00"
-    },
-    {
-      "t": "美 단기 국채 발행 확대의 역설…연준 대차대조표 키우나",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HVDlRX0R3MG1xMXVYTkc2YVd2Z0s1YUwzVWVVZktXVGVEaUk3dGhMTWluNGxYbTZqTmJZZkJWZFdDemoyR2Q4LUlsZGZHdVZKVUZ1RkZNQTZFUzFoa215c3B4OFp2YV9nNUpWV3FodU0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T03:04:38+00:00"
-    },
-    {
-      "t": "10월물가 2.8% 고공행진… 기름 더 붓는 ‘역대급 예산’",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySlZMeU9GRWlWb00wR2ZQUEFFMFl5NWJrSEhGN0dESlp3SlVOWHQ3SVVXcF9LMVVBbWJYbzdacTlYQnAwMXY0SjlPbG9GeWpF?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-03T03:02:20+00:00"
     }
   ],
   "asof": {},
