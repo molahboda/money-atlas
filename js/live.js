@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T11:00:50+00:00",
-  "quotesAt": "2026-11-03T11:00:50+00:00",
-  "newsAt": "2026-11-03T11:00:50+00:00",
+  "fetchedAt": "2026-11-03T11:15:41+00:00",
+  "quotesAt": "2026-11-03T11:15:41+00:00",
+  "newsAt": "2026-11-03T11:15:41+00:00",
   "quotes": {
     "kospi": 5648.79,
     "spx": 7541.4,
     "nikkei": 63081.86,
-    "vix": 21.29,
-    "krw": 1344.26,
-    "gold": 3914.7,
-    "wti": 97.73,
-    "dxy": 101.82
+    "vix": 21.25,
+    "krw": 1344.78,
+    "gold": 3914.5,
+    "wti": 97.84,
+    "dxy": 101.84
   },
   "daily": {
     "spx": -2.32,
     "kospi": -1.43,
     "nikkei": -0.33,
-    "krw": 1.41,
-    "dxy": 0.06,
-    "gold": -1.38,
-    "wti": 1.32,
-    "vix": 0.66
+    "krw": 1.45,
+    "dxy": 0.08,
+    "gold": -1.39,
+    "wti": 1.43,
+    "vix": 0.47
   },
   "news": [
     {
-      "t": "내년 1만피 전망 또 나왔다…\"금리 우려 떨치면 외인 돌아온다\" [분석+]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MTHpnUnFfVmtHbEptMFM2MmJZS1phOXVsZjNyVjlwdUVvOWxNNVF2a3kteTJFbVJLdkhJM3Y3NmN2V1kxdWJ3ODl0bWdlWUIyRjFoanowRWc1Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-03T04:36:53+00:00"
+      "t": "안산 반도체 부품 공장서 질산 500리터 누출…6명 경상",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZkg0SkFXa0ZKenR0Z2w0alBvaFlJSEZtY1l0WDFaUUtscWZMb1FfeGExMTRRcEItM2t0d21pR3lYOUFmbnJFMVY1QTFsQm5QZG1TQU14Q3VDTzhaMTFaWlY5cG9yS1k?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-03T10:53:00+00:00"
     },
     {
-      "t": "코스피, 외인·기관 동반 '팔자'에 낙폭 확대…5600선으로 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk1WemxQS3NqZ0s1bjFYcmVPTTFnVy01SlIyZDZJdjg1cWE1eGVtRGpQbXJjZWNsWXlUMFJEcGVFTVdVOHNpRTFDbHhIQWRzOUNPSjBhY2hTLUdBS0hacTJMd1E4dnhnRGxIMklITTI5N0lBb05rSGVsR2puZU4zdlVCd3I1dEFM?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-03T04:30:30+00:00"
+      "t": "안산 반도체 공장서 ‘질산 누출’… 6명 병원 이송… 市, 재난 문자",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRnNTYnNWTkQtSjFnTXVHVVVMZFp4T1FETnZFTXByb3YyaGtvZjd2TUZMakZaY2ZrYnFWdkFRemMta0FMd2xpZDJjRTVyTWxTbWc?oc=5",
+      "s": "경인일보",
+      "d": "2026-11-03T10:50:06+00:00"
     },
     {
-      "t": "트럼프 관세, '제조업 보호' 내걸어 '美 선거 앞두고 역풍'",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpWUNuaGJvY2h5YnpCTzBrRkk1TkJ4X0pGVUlSMVJwVDBUU2ZlT1BEZ3ZteGhxU1JIYkJtaXJ1UUxQTktxaFBZV1UyNDVQMHF2UHRiR25MSkszT2s4dThGRlA3SQ?oc=5",
-      "s": "시사뉴스",
-      "d": "2026-11-03T04:30:15+00:00"
+      "t": "반도체 장비, 3년뒤 계약까지 줄섰다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6YlJoTXBhQWRjRmpGUlFmZl9nVnNnY2c3dlpkTW1WVE44TVF3ekd2ODJDYUl4YjJSYTRUUU8zNklGUGVqZk1iV2szVGwtZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-03T10:29:50+00:00"
     },
     {
-      "t": "10월 충북 소비자물가 지수 121.9... 전년比 3.2% 올라",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fRzdsMXZ1aW5UUlEzMWtHUzYzcFNxOHo5Q09nMlppd2h2UkdMOHJOTERjX0IycGN1Z2NiZEptVHFZZS1BMzVxckRVS1Jmd2FHNWhMRHFCVzBndWI2N0R4Y2lvdmxremQ3SVE0?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-11-03T04:26:38+00:00"
-    },
-    {
-      "t": "\"문제는 인플레야\"...미국 유권자 70%, 물가에 불만",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bEplU2MwRjl3dVlMbXAxbVRHcGpjZUExalNpSV9rRl93NGdFV1NnWW5Db004TW4xVXFySERYUHJUTnF1T0NyWEVCWmRSVkowd0tObzMyVHNDN3paN3c?oc=5",
-      "s": "YTN",
-      "d": "2026-11-03T04:15:00+00:00"
-    },
-    {
-      "t": "[단독] 반도체 클러스터 시동...광주 군공항 축구장 폐쇄",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3R0RVRTdibkJjWDZzMHJ3UzNreDVDZTNjNVVQSE1yQjdNeTFIa2xqS25uWE5xYnYyQTU2dXY4ZFZtVUhNRjl3Ykt1T090RW9uTG5uam1QTTZ1bnEtQk1XOXhudC13YW56Yk9wWlo0ZTBjUTdCMHk4?oc=5",
-      "s": "OhmyNews",
-      "d": "2026-11-03T04:11:00+00:00"
-    },
-    {
-      "t": "환율 누르는 '엔비디아' 환전 물량…10억弗 네이버 투자금 유입",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83Q0hCUU1NeWk0YjhfZlNCRlluSERqOVJWemNFWjI4N0RTQW91VGxoeHRmUEE5TmFGTTVpdFhYSDJjMURHaWxuTDFzQjlSclB3VHNlOHNTN3gtUWM4R1A3WmMzTzg1dVhKWXJBNUNZd0E?oc=5",
+      "t": "[亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82QlFsdE1WemswOC05UGtlNHp1MldQXzFOZUZFblpUWmtKMWhaVkJvU1ZpbXFmdFVTSFprc1ozN1JIQkhuRS1ld3EwejhqMFJnOWVZSFhLdV9TaG9KTTd0N0N3NGZ5cFZNcWhVVm4wenQ?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-11-03T04:10:55+00:00"
+      "d": "2026-11-03T10:15:59+00:00"
     },
     {
-      "t": "애플 실적 전망 부담에 아시아 증시 혼조…RBA 18년 만에 최고 금리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWVFRVmlzWFJkY3VjNXgyeVZSeV9ZbEE3YjRvZUh4OGF3ejZxOThnTTN5Y3Y0ODlBSEV3RUlQLVpWcDF5emg2YmY2ZS01d1NYSVBpb0hpS3lRZkZCOUpJb1NEb3VTdnExUUI3c05BZHo?oc=5",
+      "t": "\"트럼프, 물가 못 잡아\"…'블루 쓰나미' 덮치나",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbTNGUGpDSlpmV2g5S3BNYXBNcEFwcl82QjZFRFBXTU5jU294SWtaYXh5SjhEby1PSlNIckxnOHlFa0o4MVJpQ0dESG5ZQ0x1b08yM1FaTjAtdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-03T10:15:00+00:00"
+    },
+    {
+      "t": "파운드화 소폭 상승, 달러 약세 속 영란은행 금리 인상 주목",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zT1pjbFhqNWNQNXRoSDFQeDQ3UWVGdmZxRzlza3duYjVaQ3oxVHdYQ2hTYWdlRTNVYWRfMEVEajVjWEVNNmZ6Wjk2R3VrU29Va0VPd1NhSnpkdk8xY1NjRUhXUG5sVmM?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-11-03T04:10:00+00:00"
+      "d": "2026-11-03T10:12:00+00:00"
     },
     {
-      "t": "RBA, 기준금리 4.85%로 25bp 인상…3명 반대표(상보)",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FVlhfb1hLNjJCRXJIUUpoRmd1eXZlVGVTNzBwVldTTWI3T2hUSjBfSndXMXVZeTlUMEhrMDF0a0dMSUQ0dVFCejBXd0xzZk5wX2swZFRUYmtXMTlYdXZUeF9nbXdFd05DQXdncEwyWFNsdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-03T04:06:58+00:00"
+      "t": "미국 그린트위드社와 반도체 발전·투자 논의",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oWmhHRnp3eXVKWGU4dU5YTnJ3SXI2Vy1CZnh6ZzBTR0NJcGE3ZzZWTnFpWkFpOE1nUm11amtOVWx4ZmdPeklzdVJuZEJtWGg2ZU5LZHlkb1hOM1o5em1naW5RSl9xU2dQ?oc=5",
+      "s": "충청타임즈",
+      "d": "2026-11-03T10:12:00+00:00"
     },
     {
-      "t": "호주 중앙은행, 금리를 2008년 수준으로 인상…추가 인상 시사",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdDYtcDVNaHo3c0lfa0RiR2pRQXhhc3NqaDd0NGZTaHRjYUltc284THBmMVlqSVFXdXo0T0VMa2I5cXEwX0h3SENrVUdfVURlRWswY1FlM0t3SDBMVGZlWTMybUxEbDFNRWc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-03T03:48:00+00:00"
+      "t": "영남이공대, 졸업생 초청 반도체 실무 특강 개최",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LUk1Td0ZXZng1ZkJJcy16cGRaaDdyMWloOXdJTzg3OVE3NGlRQVFEenFldWJtV2lpM0JqR2RpM3ByTmwtR1ZlN1RGdjkydlNQaWtERXNVRXM?oc=5",
+      "s": "경북신문",
+      "d": "2026-11-03T10:07:33+00:00"
+    },
+    {
+      "t": "[증시와이드] 불확실성 커진 증시…우량주 중심 냉정한 대응을",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFFRWU02UExSWFNYTWNneDNnTXc0bmFTV0VoWEFfUmhQcGF3ZW82azdGQk1jZWpWbFdOcWhqaHRPc0ZwUkxQeEl2QnpJX19Fb2lITG4yQzZBQkl2d3hOYlNDYS1JTXc2WjBrbExHRUFTNDFBaHNCUWhfdWJrMjdOb3V3RkFWcGNDdnJF?oc=5",
+      "s": "국제신문",
+      "d": "2026-11-03T10:02:00+00:00"
+    },
+    {
+      "t": "미 반도체 약세·중간선거 경계에...코스피 3.6%↓",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RbHlpYUJmQ3JHb3h6NGEtaDE2c0U1aVM3N0pwTUY1TExUWkI3QjdpdXpQLTFJdnc0REhDS0xCUG5xYlY2TmlROHNaRnMyd1phWXRqTGp0dHZEUXk0ZWQxY254eG9uanBtTFg1c2N3VQ?oc=5",
+      "s": "YTN",
+      "d": "2026-11-03T09:52:00+00:00"
     }
   ],
   "asof": {},
