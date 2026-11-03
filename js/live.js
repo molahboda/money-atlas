@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T01:30:41+00:00",
-  "quotesAt": "2026-11-03T01:30:41+00:00",
-  "newsAt": "2026-11-03T01:30:41+00:00",
+  "fetchedAt": "2026-11-03T01:45:41+00:00",
+  "quotesAt": "2026-11-03T01:45:41+00:00",
+  "newsAt": "2026-11-03T01:45:41+00:00",
   "quotes": {
-    "kospi": 5712.11,
+    "kospi": 5713.73,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1343.08,
-    "gold": 3965.4,
-    "wti": 96.7,
+    "krw": 1342.88,
+    "gold": 3960.4,
+    "wti": 96.57,
     "dxy": 101.8
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -0.33,
+    "kospi": -0.3,
     "nikkei": -0.33,
-    "krw": 1.32,
+    "krw": 1.31,
     "dxy": 0.06,
-    "gold": -0.11,
-    "wti": 0.25,
+    "gold": -0.23,
+    "wti": 0.11,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "정부 “체감 물가 여전히 높아…640억원 역대급 김장 대책 마련”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04bU1XemdhOUxkRmR5c0NKQ2h6WXBYRTNodUtvMS1uMjZ3bzFyMHh4ZE9feGxDaU1ETnM5TEQ0Ym14cnJTRktKN0xVVDdFZThYRTUzVVV3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-03T01:38:08+00:00"
+    },
+    {
+      "t": "코스피, AI 수익성 우려에 내림세…5700선 '위태'",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lOC1rN0tkZEFZOWpERzl1YTBzVThKRzkzeVdWQ01abnlEd21Zam93Z3kzbFpCN2MxZlRxNXktYS1GckVQWTlEN2M0RElZR1BGcEt5Y1ZvYzRrV2J1YkNaT285dEg?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-03T01:37:40+00:00"
+    },
+    {
+      "t": "美 중간선거 이후 증시 향방은…\"과거엔 S&P500 평균 13.7% 상승\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yS1JVYWY1OUltcWpMZ0hVOTF3X3hvVjNrXzZoUFhaTGFfOVBpdEZpYmU2SWxQYTA3ZXZGN3BJY2FOek44ODJ2WDduOWFfbW15bmZVcnRkeW5LajExOFVaNTRqUXJtQWVRRkdWVXJBeEXSAXRBVV95cUxPUE5qendBNm5lcHBMempBdXp5YnFVZjNSdVJyZnYtdGs1Ri1SYkFjd19aR0NtdFpVM1hDeVFDVUk2THV3LXg1SG5RS21BQXpZUDV1SDYtM09qZnFxZjBUSDkyV0YtcEhZYktGNDdCNWRLN2lHaA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T01:32:50+00:00"
+    },
+    {
+      "t": "10월 물가 2.8% 상승…가공식품·석유류 오름세",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EMXlZeFBIOTV0dWd2QnRyRWprdGk5NW9nWHdzZUNOdkVXNGdseG5pUVcyYk5pWWNoZVhLSmQweU0wOVlTSGkzT09FSlFqUjN5UldTS3NjRWNtQWZHTUhxclNQYzc2S2c?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-03T01:30:00+00:00"
+    },
+    {
+      "t": "\"美 증시 급락에도 공포지수 잠잠…헤지 대신 주식 직접 매도\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUXl0ZmJuOXJHQ1ltXy1SS0VnRmZkSnQ1M0ZmdU95ZW5pLURDZUFjM1FHTmJYaE5uUm9iRHhHYmZUWnE4Um9Ycy1oZFlwR0JNY1o5eHpWVkZCSU9EQUFCdF9Vd0FqQWdPMzBINVc0T3A?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T01:25:48+00:00"
+    },
+    {
+      "t": "스테이블코인 2조달러 발행하면…美국채 금리 25bp↓·예금금리 4bp↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iWjk0YUlLd2g4TUNJaUQ4cVYtbFRKaEFIckJMdVhtel9UMnJOREhsSl9lSTNGejdvd00zQnBQZ1QwUGhsZ2pmTEVMRmU1UEwyMFA3NGVGUHBMMUxUWVQwOTF5aTBBa3M2WTlxLS13UDDSAXRBVV95cUxOblZhTDZnZE9uWURPU3ZpUEFuZ3B5RGUweG1laDFkeGYtalYwZzBDQjdIQ2JSaHhfbkY2NlZFMnJua2IyVS1zeEJmNTROUEFpSkRha0w0YW14SXpuRjVIbGw2YkVfWkIwc0JYUC1ueXFZTVROSA?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-03T01:25:30+00:00"
+    },
     {
       "t": "가공식품·외식비 다시 들썩…10월 물가 2.8%, 반년째 3% 안팎",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VZHM1SzEyUzRDTEpiMW0yemZwZFZBOUkxcVQ0cWhkYWtQY0lPRzdfQzQ4eXI2VEd3ejFYdHpaZnlyR050QmNiUFBfVVVfcHFENmVYYlF3?oc=5",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-03T01:23:01+00:00"
     },
     {
-      "t": "한국폴리텍대학 반도체융합캠퍼스, 반도체 인력양성·취업연계 위한 기업체 간담회 개최",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUXpuTEhVOHI3NU1URm9ZVkRYT0JXZHBtRmJNNUp0dkFIX0MxZlRGbzV6LU1XYjMxRk03ODhHRkRXa1V6VWFEbzVOVGZ1UXdXcFRud1pTdFllcGIzcGYwT1praENFUQ?oc=5",
-      "s": "한국대학신문",
-      "d": "2026-11-03T01:21:43+00:00"
-    },
-    {
-      "t": "가공식품·외식비 상승에 10월 물가 2.8％↑…반년째 3％ 안팎",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlRPTFBwcERaSjRIZUsyMWI4RUxwU2tCZ2hSRTNGcG9BTkcwa1E4VnlFTzl2SFhqRzJuVTl2cDd0SlZpY2I1ZzRlUDZZUmJvNVJKMXZSclVpM09fX1llZmJwV0dWUFE4TlZIMDN6Y0dCMjlJcUNEYmpnMlJENHg3T2YtU19FNzBE?oc=5",
-      "s": "TBS 서울",
-      "d": "2026-11-03T01:19:00+00:00"
-    },
-    {
-      "t": "BOE가 이제 금리 인상을 시작하려는 이유",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BTklfZU1ZOGsxQTRTSHBnT3d3NkplUWdfTHZaT2R4U2s2dkJXMFluMVpxdWpPa3ZBamNjb0t5TnFOLWM3VEdOTVZHTGJqRzVjWDZnQk5MSEkzTEpnOGtwQ09odzVKRXF1MTFNSC05eU4?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T01:17:51+00:00"
-    },
-    {
-      "t": "[개장] 뉴욕증시 혼조, 미·이란 협상에 유가 급락..기술주 하락 지속 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LeFl1TzFsSXlsLWppX2x0Snc5ZXhqWHRpU0tNX3RxZUo3M29rMVhXem5zY1FOOGRnaUU1dkZ3Z2MxeFYxUzVFVmQ4UWJPejZuWGlWdUtiYVo0WXBHdHhBc2hnNWZsVFVLdFRkdkt2TmY?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-03T01:13:00+00:00"
-    },
-    {
-      "t": "석유류·공업제품 고공행진에 부산 10월 물가 4개월來 최고",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeE91SmllTFl6VXlrVjlRZXNEOHNQYkZISlE1U3JJNlJ2Y2RxTXJDdktKdmc3d1VnVnAteDUwVEt3OFNZZWVWTDNSNm9PejhqR1dnZ1dveFM3WmswMnZWY095Nm5tQVdzWnIzVjd6aFlOTFVQa2EydnRfZmZnWGxGek9UX1U4SkY1dXRfS1Vn?oc=5",
-      "s": "국제신문",
-      "d": "2026-11-03T01:13:00+00:00"
-    },
-    {
-      "t": "10월 소비자물가 2.8%로 소폭 둔화…한은 \"11월도 2%대 후반 예상\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZFdMUkw4eUNSNGMyc0tnWU9KZmZsU2JyNllyS05KeG1jaVVRcG1odHMweFl0d0xaWEk1NFJSZFZNazNqMUJPYzZvLWliOXgzTEprX21FYWR0cG85?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-03T01:09:00+00:00"
-    },
-    {
-      "t": "반도체 ‘뚝’…삼전 21만원대, 하닉도 140만원선 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBaDJrN1MxUGtwV0w2MG5qSWtmLVJKOXdma0UwVU1YZE43VWE2bGdaWkRHb0NrUERsWWRELUZROFl4OUhMbldwNzU2WXAtVkho?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-03T01:08:15+00:00"
+      "t": "가공식품·외식비 상승에 10월 물가 2.8%↑…반년째 3% 안팎(종합2보)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWXRWRkxJWmttR283TVQ3ekNzMnZjZHljSlJpMTNXVzV3SmVtVnFweDZZTHlIQlNRM1FlTmlOdWRVLWxLRXZudXlIU0RHWmJ6eENELTlCbFc3WHfSAWBBVV95cUxNZloxMGx2cFdEekt1T0NTdHNmRGZaanZBQlhscUJBWldOYzA5QXF6WG1YMVFFR0JEVGl3b0cwWW8xWURTOThiekMxMThUbTBZZnBpam1MaHRKemdrdG4zOGY?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-03T01:22:45+00:00"
     }
   ],
   "asof": {},
