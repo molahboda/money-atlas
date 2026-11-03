@@ -1,29 +1,77 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T01:00:41+00:00",
-  "quotesAt": "2026-11-03T01:00:41+00:00",
-  "newsAt": "2026-11-03T01:00:41+00:00",
+  "fetchedAt": "2026-11-03T01:15:41+00:00",
+  "quotesAt": "2026-11-03T01:15:41+00:00",
+  "newsAt": "2026-11-03T01:15:41+00:00",
   "quotes": {
-    "kospi": 5671.49,
+    "kospi": 5646.24,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1342.58,
-    "gold": 3963.4,
-    "wti": 96.5,
+    "krw": 1341.98,
+    "gold": 3960.7,
+    "wti": 96.91,
     "dxy": 101.79
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -1.03,
+    "kospi": -1.47,
     "nikkei": -0.33,
-    "krw": 1.29,
+    "krw": 1.24,
     "dxy": 0.05,
-    "gold": -0.16,
-    "wti": 0.04,
+    "gold": -0.22,
+    "wti": 0.47,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "석유류·공업제품 고공행진에 부산 10월 물가 4개월來 최고",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTFXZDhlT2JYblYxX0hHczRkME9FbEYtOTJVdFZZYmtYMWVVczZRblFOZzdPeU9WYk5TNHp2N2Y2YTN1RGQ1VXJ4dE9Ld0JWQU8ySnVreXBPbEZ3LXQtV2tjUG9OLUZQNk1mb3ZVUDlsNE9EZm9sZHJPTV85dE9DelVYU3FIQ3hFbXlRTWplZ1RLVEU?oc=5",
+      "s": "국제신문",
+      "d": "2026-11-03T01:13:00+00:00"
+    },
+    {
+      "t": "10월 소비자물가 2.8% 상승…석유류 14.9% 급등, 가공식품도 오름세",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnbHdiNUlsaUFra2RzZjY5MlNDa285bDM5VHRHQTdkMG9vUmVmYTNObEx2QjB5dG13RlF4SWRxUmxUZnV3cl94QUROemZTQzhkR3dkRTQ4R18wd2xFa3ExRWQ1bw?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-11-03T01:11:06+00:00"
+    },
+    {
+      "t": "10월 소비자물가 2.8%로 소폭 둔화…한은 \"11월도 2%대 후반 예상\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZFdMUkw4eUNSNGMyc0tnWU9KZmZsU2JyNllyS05KeG1jaVVRcG1odHMweFl0d0xaWEk1NFJSZFZNazNqMUJPYzZvLWliOXgzTEprX21FYWR0cG85?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-03T01:09:00+00:00"
+    },
+    {
+      "t": "반도체 ‘뚝’…삼전 21만원대, 하닉도 140만원선 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBaDJrN1MxUGtwV0w2MG5qSWtmLVJKOXdma0UwVU1YZE43VWE2bGdaWkRHb0NrUERsWWRELUZROFl4OUhMbldwNzU2WXAtVkho?oc=5",
+      "s": "문화일보",
+      "d": "2026-11-03T01:08:15+00:00"
+    },
+    {
+      "t": "美 단기 국채 발행 확대의 역설…연준 대차대조표 키우나",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwU2lXRUlsOHk2N28xbzQ1eHMyM0hleVdoak1JTjA2S3dVTW5ZSVR6TlBVN3o1S0p2dkphQWFwV0U3bFJncUY2bExfR1JYRFpxRG13eUtVZ1MxVmpIX2hRWk9LTEVLcHZLVXRMc0ZKTk43dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-03T01:04:37+00:00"
+    },
+    {
+      "t": "코스피, 美 기술주 약세에 3% 급락…SK하이닉스 5%↓",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OeG9NbFh5emNrMUp0QnhkTF8zWDd6VHpPdkI5R2VWZHJVN1lzVWFGUVZFOFNWeUI2QlZudjdqWEZERzRPVjJUckM4YTZOQ0VoWHdpanRRVGpzXzhZVGc?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-11-03T01:02:00+00:00"
+    },
+    {
+      "t": "10월 물가 2.8%로 소폭 둔화…한은 “11월도 2%대 후반 전망”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EeWRZak5wenRpWU9sR0NsMVQwWEdsdGJNbVpELUdLaDNCTXhuMUNQbjJTVEtSLUFRUUk2M0NBak9ZWEpPcXNWRWl5d3FfNWpuWWJudi1MZVpOdw?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-11-03T01:02:00+00:00"
+    },
+    {
+      "t": "AI 수익성 우려에 또 흔들리는 코스피…3%대 급락",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UnJDVXh5NFZXeEM4SlEzWUxwQjUxczBOWk5YSnhOSVV5aUlIOFFSa2MtdTNlcjlfaEpZTmJGRHpmOEg3TXhVbzgxTDhrbks2SUE0MURUdjJDc3hfaUxWN0pSaVBQWEJrS1E?oc=5",
+      "s": "비즈워치",
+      "d": "2026-11-03T00:57:02+00:00"
+    },
     {
       "t": "농산물의 힘으로 '2%대' 지켜낸 물가 상승률…상방 압력은 '여전' - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nRndTRXJpR05EeGFkYldyWUNjWkpWZElRVjVVX2RwZmZqdUFscUhVMmRpU0VDNVJydTFBZEdhUUdfcVdVd3JEdVhXUUJWbmFtWFRsM3cwWEl3Qk1YY3dZZUVBWEVaa3N6N09F0gFwQVVfeXFMT1VJM1o0ME83bFJWVEg2MWpIMFB0b09DcjNlTU5WN29NYUl0eEpmejZJaGlObmtXV1ViaTlSMm1kZFlYamJVZ2hEYlUta3QxUmJmSElPdHZlSDgtZklFcHFSSUdKZXRJQ0o4SkNxNTk1dg?oc=5",
@@ -31,58 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-03T00:52:21+00:00"
     },
     {
-      "t": "한국은행 \"11월 물가상승률 2%대 후반 이어갈 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51cDNZeWNROS1VZVMyTWp0NDUydnlVTFB0N21XZ0xJaTU5eDJCUVNlVl9UNVpCbUNtdmhHdnVUOG1MeHpuVHU3VURlOUk0dUhfUjNTdzVQNXZUa2duRkVvUw?oc=5",
-      "s": "프라임경제",
-      "d": "2026-11-03T00:50:49+00:00"
-    },
-    {
-      "t": "JP모건 \"美 중간선거, 민주당 압승 시 장기 금리 하락\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rUjdSTFIwWkNIdDFJZlJmeDhVdkZienRGc0Rfa3piTzdBbE9RUkVGQ2tUNUc1WlM3a3B0VDJGQkJaek9wbTFaaU5UR3lOVkpOeFVQTDZiZGRrTThVSVhXUFp6ZTJkRnlMeW8wVGI1dlM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T00:49:14+00:00"
-    },
-    {
-      "t": "코스피 3% 넘게 빠져…5600선 기록",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zSm5pd0hSRmcwbDdNd3BwOHJxZk4wUzFfaEZfTXJCSzN0bnhkMHYtdEFjZlRVYktfSHhiRFczQy1fVFd4cE4tVzcxVFBhd1ZSV3A3QmUxYVFhckNVWk5NOWhLNm1OWUJjTVRqc00waThOTzjSAXdBVV95cUxPUWtlS0xWWEl6YzM0UjVZdHc2Q21OZzk3VGtRY1FFQ1FQZjBxV3pPc25TQ0tNRVlrb0RxdVVyaThkWkhmWEwxeTMxTFVOZ0dOTTluNVFuaVBaNk1xRUFKWHBLM2taYTZWVVQ3RVVsQVdVZGRNNVVldw?oc=5",
-      "s": "스트레이트뉴스",
-      "d": "2026-11-03T00:48:14+00:00"
-    },
-    {
-      "t": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JU0VTc2QtdVNBZ3RtMlJSSGJ5NmtxTkV2VGl5THFMYnFqRzNkU3VOSVNNQ0cwUVZfZElPSmdNOGJ0SG92S0FlMkVpX3dtYzNOSWlLR1FqMnVnU2vSAWBBVV95cUxQbGp4dDhySlU3T0NXdGR1ZWJLaDhST3ZkTTNfamhFZXJXcURGX0lNNXBqVlhHdmF3VTBsTmd6WVJJWVRqVjZ4S3ZmMlBTN1ZpQ0RpME5HS1lwMDJwUWg4LXU?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-03T00:47:39+00:00"
-    },
-    {
-      "t": "[노현우의 채권분석] 밀물이 들어오면 금리도 뜬다",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NUEVvVy10MDRMY2tYNXdiVnNKZlRCY3BRTzdYYXVaOWNvTXE0S3E4LTh4VzhvSjZ4ZDV3dXN3SzdES3R1NlRhV2NRYVlEckJ2WFJJUm1FcVFXRHlOaUV0SUhId2I5S21MUHZDVy1fOS0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-03T00:45:43+00:00"
-    },
-    {
-      "t": "2%대 급락 출발한 코스피, 10분만에 전날 상승분 반납…AI 수익성 우려 지속",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yMzlaTVBlTkNONUVsMkp0NjJXNW9paEtya1JTUzNWU3NhNGNXOWliM1hyTUNqdm92QUZvNlZ2ZU1iZUJxZU94c08yQ3J3aXgzSkd3d1hVS2dOSmFDVnRwaVh5ZVFab2tyQWtTMW5yUTZVZXJF?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-03T00:45:30+00:00"
-    },
-    {
-      "t": "[현장너머]또 '금리 개입' 유혹…달라진 은행, 변치 않은 정치권",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kV0hGQUJqQThYR3JRQl9rUUhyWmVnMmJtRHhnVlp2MklyM1M4QVpKR2tyVnE1UlJrMHlpRmgtd2dyRUN4V1J0emJHbWhxRC1qNG1IckZocG4xdjFNRTNsNg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-03T00:45:29+00:00"
-    },
-    {
-      "t": "한은 \"11월 물가상승률 2%대 후반 수준 이어갈 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5COEhVTHFfcTJ3OVlUX1ZQeWstN1RvZXVaRnJrNGxuVTBfMUlVSDk2ZVZ1c1VVaW9QVHZBQ05aVzgtZ1VxYWYyUWxoNXluWUdzX0MzWUduZGFxUFnSAWBBVV95cUxQR3h1QVJlVjN6QmVSaHZ5TVpnSWYybG1zUmZPamhqem44RWpLV0lxMlpNSS04MFRYX3FDUVZjZkFSRWRJY2w0cWVzNnhsWUoweGViX1MyMUZwVTZ5TDhmeFg?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-03T00:45:03+00:00"
-    },
-    {
-      "t": "코스피, 美 AI주 조정에 3%대 하락 출발…반도체株 동반 약세 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNkxnVkJzQVkzck9KNDZUdEJfTjM0aG9hSUF2QTliMUdEN3FLS0xzWTNVU09ndk50a0lBeE1oMl9uREFJYXhrdzZHYmppd3JCNXZNWGN5V0t2UkxQMUtiNVBJdWRpbVZQdzI4d25kb2U?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-03T00:45:00+00:00"
+      "t": "여수시, 석유화학산단 반도체 소재 공급망 구축…산단 체질 개선",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdFpHNGllS2pqci1GalNUWlJkdk9YeDB3VkJOcDNnQW93TDNXMDZfRkVOZUNPbGhQQ0wzNEZrU0p6Z0NIRHNwRVZQNUkyeXlmQnNKSjRIdEtzT2R1WE9OdG83Mnk?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-03T00:51:52+00:00"
     }
   ],
   "asof": {},
