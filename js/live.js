@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T11:15:41+00:00",
-  "quotesAt": "2026-11-03T11:15:41+00:00",
-  "newsAt": "2026-11-03T11:15:41+00:00",
+  "fetchedAt": "2026-11-03T11:30:41+00:00",
+  "quotesAt": "2026-11-03T11:30:41+00:00",
+  "newsAt": "2026-11-03T11:30:41+00:00",
   "quotes": {
     "kospi": 5648.79,
     "spx": 7541.4,
     "nikkei": 63081.86,
-    "vix": 21.25,
-    "krw": 1344.78,
-    "gold": 3914.5,
-    "wti": 97.84,
-    "dxy": 101.84
+    "vix": 21.29,
+    "krw": 1345.08,
+    "gold": 3914.8,
+    "wti": 98.44,
+    "dxy": 101.87
   },
   "daily": {
     "spx": -2.32,
     "kospi": -1.43,
     "nikkei": -0.33,
-    "krw": 1.45,
-    "dxy": 0.08,
-    "gold": -1.39,
-    "wti": 1.43,
-    "vix": 0.47
+    "krw": 1.48,
+    "dxy": 0.12,
+    "gold": -1.38,
+    "wti": 2.05,
+    "vix": 0.66
   },
   "news": [
+    {
+      "t": "10월 물가 상승률 2.8%…가공식품 오름폭 ’껑충’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wVnhWRFNIMVF6VUpUM0ppSkhoT1RoZnlzVWJKSVpiUG1Pb3hLbmRWaU9aUXAtRDVSU0tVWkc4cnRLbTFSVXB3T3hMX19WdHpsNGQ3N2p0cTBpU25LeHctTXhvVUZ0YW8?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-03T11:10:00+00:00"
+    },
     {
       "t": "안산 반도체 부품 공장서 질산 500리터 누출…6명 경상",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZkg0SkFXa0ZKenR0Z2w0alBvaFlJSEZtY1l0WDFaUUtscWZMb1FfeGExMTRRcEItM2t0d21pR3lYOUFmbnJFMVY1QTFsQm5QZG1TQU14Q3VDTzhaMTFaWlY5cG9yS1k?oc=5",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6YlJoTXBhQWRjRmpGUlFmZl9nVnNnY2c3dlpkTW1WVE44TVF3ekd2ODJDYUl4YjJSYTRUUU8zNklGUGVqZk1iV2szVGwtZw?oc=5",
       "s": "전자신문",
       "d": "2026-11-03T10:29:50+00:00"
+    },
+    {
+      "t": "석유류·공업제품값 ‘고공 행진’ 지속…부산 10월 물가상승 4개월만에 최고(종합)",
+      "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnBXUFRxR1BEUHNLcHRDWVBkV2xsNjltd0k4NThyUFEzV196SGczQzZvbzYweDlpQVQ5UV92R2hWUnM2eW4tSGFoVXFxclRNZWtQTkxZbzd0ckcxOUtERFF2RGExYUItMjRaSXktaEVydC1UOWlsOUd1S1RuTTlJMjZBa3JwRVJ0LUxoYkhMNGFGVmx5?oc=5",
+      "s": "국제신문",
+      "d": "2026-11-03T10:28:00+00:00"
     },
     {
       "t": "[亞증시-종합] 기술주 매도에 中·대만↓…홍콩↑",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LUk1Td0ZXZng1ZkJJcy16cGRaaDdyMWloOXdJTzg3OVE3NGlRQVFEenFldWJtV2lpM0JqR2RpM3ByTmwtR1ZlN1RGdjkydlNQaWtERXNVRXM?oc=5",
       "s": "경북신문",
       "d": "2026-11-03T10:07:33+00:00"
-    },
-    {
-      "t": "[증시와이드] 불확실성 커진 증시…우량주 중심 냉정한 대응을",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFFRWU02UExSWFNYTWNneDNnTXc0bmFTV0VoWEFfUmhQcGF3ZW82azdGQk1jZWpWbFdOcWhqaHRPc0ZwUkxQeEl2QnpJX19Fb2lITG4yQzZBQkl2d3hOYlNDYS1JTXc2WjBrbExHRUFTNDFBaHNCUWhfdWJrMjdOb3V3RkFWcGNDdnJF?oc=5",
-      "s": "국제신문",
-      "d": "2026-11-03T10:02:00+00:00"
-    },
-    {
-      "t": "미 반도체 약세·중간선거 경계에...코스피 3.6%↓",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RbHlpYUJmQ3JHb3h6NGEtaDE2c0U1aVM3N0pwTUY1TExUWkI3QjdpdXpQLTFJdnc0REhDS0xCUG5xYlY2TmlROHNaRnMyd1phWXRqTGp0dHZEUXk0ZWQxY254eG9uanBtTFg1c2N3VQ?oc=5",
-      "s": "YTN",
-      "d": "2026-11-03T09:52:00+00:00"
     }
   ],
   "asof": {},
