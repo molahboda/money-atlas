@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T04:30:41+00:00",
-  "quotesAt": "2026-11-03T04:30:41+00:00",
-  "newsAt": "2026-11-03T04:30:41+00:00",
+  "fetchedAt": "2026-11-03T04:45:41+00:00",
+  "quotesAt": "2026-11-03T04:45:41+00:00",
+  "newsAt": "2026-11-03T04:45:41+00:00",
   "quotes": {
-    "kospi": 5643.2,
+    "kospi": 5626.59,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1339.48,
-    "gold": 3934.3,
-    "wti": 96.76,
-    "dxy": 101.77
+    "krw": 1339.08,
+    "gold": 3933.6,
+    "wti": 96.99,
+    "dxy": 101.81
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -1.53,
+    "kospi": -1.82,
     "nikkei": -0.33,
-    "krw": 1.05,
-    "dxy": 0.02,
-    "gold": -0.89,
-    "wti": 0.31,
+    "krw": 1.02,
+    "dxy": 0.06,
+    "gold": -0.91,
+    "wti": 0.55,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "내년 1만피 전망 또 나왔다…\"금리 우려 떨치면 외인 돌아온다\" [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MTHpnUnFfVmtHbEptMFM2MmJZS1phOXVsZjNyVjlwdUVvOWxNNVF2a3kteTJFbVJLdkhJM3Y3NmN2V1kxdWJ3ODl0bWdlWUIyRjFoanowRWc1Zw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-03T04:36:53+00:00"
+    },
+    {
+      "t": "코스피, 외인·기관 동반 '팔자'에 낙폭 확대…5600선으로 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQk1WemxQS3NqZ0s1bjFYcmVPTTFnVy01SlIyZDZJdjg1cWE1eGVtRGpQbXJjZWNsWXlUMFJEcGVFTVdVOHNpRTFDbHhIQWRzOUNPSjBhY2hTLUdBS0hacTJMd1E4dnhnRGxIMklITTI5N0lBb05rSGVsR2puZU4zdlVCd3I1dEFM?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-03T04:30:30+00:00"
+    },
+    {
+      "t": "트럼프 관세, '제조업 보호' 내걸어 '美 선거 앞두고 역풍'",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpWUNuaGJvY2h5YnpCTzBrRkk1TkJ4X0pGVUlSMVJwVDBUU2ZlT1BEZ3ZteGhxU1JIYkJtaXJ1UUxQTktxaFBZV1UyNDVQMHF2UHRiR25MSkszT2s4dThGRlA3SQ?oc=5",
+      "s": "시사뉴스",
+      "d": "2026-11-03T04:30:15+00:00"
+    },
+    {
+      "t": "10월 충북 소비자물가 지수 121.9... 전년比 3.2% 올라",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fRzdsMXZ1aW5UUlEzMWtHUzYzcFNxOHo5Q09nMlppd2h2UkdMOHJOTERjX0IycGN1Z2NiZEptVHFZZS1BMzVxckRVS1Jmd2FHNWhMRHFCVzBndWI2N0R4Y2lvdmxremQ3SVE0?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-11-03T04:26:38+00:00"
+    },
     {
       "t": "\"문제는 인플레야\"...미국 유권자 70%, 물가에 불만",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bEplU2MwRjl3dVlMbXAxbVRHcGpjZUExalNpSV9rRl93NGdFV1NnWW5Db004TW4xVXFySERYUHJUTnF1T0NyWEVCWmRSVkowd0tObzMyVHNDN3paN3c?oc=5",
       "s": "YTN",
       "d": "2026-11-03T04:15:00+00:00"
+    },
+    {
+      "t": "[단독] 반도체 클러스터 시동...광주 군공항 축구장 폐쇄",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3R0RVRTdibkJjWDZzMHJ3UzNreDVDZTNjNVVQSE1yQjdNeTFIa2xqS25uWE5xYnYyQTU2dXY4ZFZtVUhNRjl3Ykt1T090RW9uTG5uam1QTTZ1bnEtQk1XOXhudC13YW56Yk9wWlo0ZTBjUTdCMHk4?oc=5",
+      "s": "OhmyNews",
+      "d": "2026-11-03T04:11:00+00:00"
     },
     {
       "t": "환율 누르는 '엔비디아' 환전 물량…10억弗 네이버 투자금 유입",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdDYtcDVNaHo3c0lfa0RiR2pRQXhhc3NqaDd0NGZTaHRjYUltc284THBmMVlqSVFXdXo0T0VMa2I5cXEwX0h3SENrVUdfVURlRWswY1FlM0t3SDBMVGZlWTMybUxEbDFNRWc?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-03T03:48:00+00:00"
-    },
-    {
-      "t": "호주, 기준금리 4.85%로 인상…18년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PYXJMRWJzX0pxUjE1R216czBlV0xyVWIzSktLRy0tYkVfYUc1cWVxdF9NVU5UT3h4QjRWS05LRW81UXhVWHBiSmpWN1ZDODdJMF83b0MzZ2NOMjVB?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-03T03:42:00+00:00"
-    },
-    {
-      "t": "마이크론, 반도체 공장 증설에 지역사회 투자 확대…주택·교통에 297억원",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xQUhUMXJyYWViTUk5Y21hQ1JhZzdkWlZQeEd5YkRVdFotNVJWczRfZWxNaXc0WVpTOFBrdUdJQngtcmdycDlLM1FSZjFrNk5Jc25la2hNSTFhMjE3cmlhZGFfeENERlBsU1E?oc=5",
-      "s": "임팩트온",
-      "d": "2026-11-03T03:33:03+00:00"
-    },
-    {
-      "t": "\"연준, 기준금리 내년말 6.75%까지 인상해야 물가 목표 달성\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ycVlEX3h3bzJHbGptdlhCNlFQRjRPVVpoRlJ3MV9JblFVd01pNmVyS3JFTmw0NERVTlVNaXlOV2hkOG5SVWhXZndVVzhVUEFWNUhGWVpEa2U4Zm5GQnV5alRkOGtxbnUwQzN1NGw3TFFJZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-03T03:30:00+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FY3hiTGhjT1A1RHlRZzB0OUt0X0lxMVV1ckdnVHlDYzI5dFhlRjNzLTJ6VGUySklESlJGNlVfczhCM3ZWT2dycWFJcXRTa3cyMWIwVDdQLVZZZ3ljU2V3cVFXQkVWeTV6MXJHSE56Y2hPdU5wTDA2V9IBeEFVX3lxTE0tMGQ2VHNvcWtfdFNVdTZVT3FKZVhmeFpWRjNOQzlWZXVNMVAxck5YX0RVU1NvdE5FWnhZSDdmWHlIMi1Ya3lnSmx0VUVoc0NKdkNQX0swYnZPRjBXQmw5OGdqcTZSQVpTbVY1Z0ZGblJTQWh2ZVFwWQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-03T03:28:35+00:00"
-    },
-    {
-      "t": "물가 두 달째 2%대 상승‥석유류·외식비 ↑",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LSk4yb3ZGYXduNk9Hb2RaejhnVElHV1NLVFJYaXJGNmRXT0lIYjRJWXVYelF0TTk1aEFaZnNreXIyYWtualhQajU0d0EyMk91V3NIOEp6cnJwZHRJLXc2VEtYdzFSZGhvcDY4LXpEdzRWRzl0clp0U9IBeEFVX3lxTE1aRDdSVUIwMFJKZVZBYU41YXFhVkFJYU9EaGQtTHR4VUNpcXdUazJQM2hBNjRKSnQ3VXVPVG9BMll5dy03cllkdE5LSXZPdWl1aFJJbW1UdER2WUM0Nm5oWUR1M2pXdElNYktIbGFEN3BkRGpNQkc4cw?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-03T03:14:26+00:00"
     }
   ],
   "asof": {},
