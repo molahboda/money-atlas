@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-03T03:45:41+00:00",
-  "quotesAt": "2026-11-03T03:45:41+00:00",
-  "newsAt": "2026-11-03T03:45:41+00:00",
+  "fetchedAt": "2026-11-03T04:00:41+00:00",
+  "quotesAt": "2026-11-03T04:00:41+00:00",
+  "newsAt": "2026-11-03T04:00:41+00:00",
   "quotes": {
-    "kospi": 5671.86,
+    "kospi": 5659.39,
     "spx": 7541.4,
     "nikkei": 63081.86,
     "vix": 21.15,
-    "krw": 1339.48,
-    "gold": 3939,
-    "wti": 96.62,
-    "dxy": 101.81
+    "krw": 1338.98,
+    "gold": 3934.6,
+    "wti": 96.66,
+    "dxy": 101.8
   },
   "daily": {
     "spx": -2.32,
-    "kospi": -1.03,
+    "kospi": -1.25,
     "nikkei": -0.33,
-    "krw": 1.05,
-    "dxy": 0.06,
-    "gold": -0.77,
-    "wti": 0.17,
+    "krw": 1.02,
+    "dxy": 0.05,
+    "gold": -0.88,
+    "wti": 0.21,
     "vix": 8.91
   },
   "news": [
+    {
+      "t": "호주 중앙은행, 금리를 2008년 수준으로 인상…추가 인상 시사",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdDYtcDVNaHo3c0lfa0RiR2pRQXhhc3NqaDd0NGZTaHRjYUltc284THBmMVlqSVFXdXo0T0VMa2I5cXEwX0h3SENrVUdfVURlRWswY1FlM0t3SDBMVGZlWTMybUxEbDFNRWc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T03:48:00+00:00"
+    },
+    {
+      "t": "10월 물가 2.8%로 둔화했지만…국고채 금리 짓누르는 ’서비스 물가’ By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUTROVnhBT01XZ0NvNjJvcW0wQlFXVDNGRWdhd2NVaXNRMTRLOVV1SXBiZEJlWUN4aEpPcjltbFk5cnpHR19nQnppN1hlSnVKTEdiNFUwWlNCdkFJN0ItekNuVWZFTWZwS1RiY2pRWlY?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-03T03:47:00+00:00"
+    },
     {
       "t": "호주, 기준금리 4.85%로 인상…18년 만에 최고",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PYXJMRWJzX0pxUjE1R216czBlV0xyVWIzSktLRy0tYkVfYUc1cWVxdF9NVU5UT3h4QjRWS05LRW81UXhVWHBiSmpWN1ZDODdJMF83b0MzZ2NOMjVB?oc=5",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xQUhUMXJyYWViTUk5Y21hQ1JhZzdkWlZQeEd5YkRVdFotNVJWczRfZWxNaXc0WVpTOFBrdUdJQngtcmdycDlLM1FSZjFrNk5Jc25la2hNSTFhMjE3cmlhZGFfeENERlBsU1E?oc=5",
       "s": "임팩트온",
       "d": "2026-11-03T03:33:03+00:00"
+    },
+    {
+      "t": "\"연준, 기준금리 내년말 6.75%까지 인상해야 물가 목표 달성\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ycVlEX3h3bzJHbGptdlhCNlFQRjRPVVpoRlJ3MV9JblFVd01pNmVyS3JFTmw0NERVTlVNaXlOV2hkOG5SVWhXZndVVzhVUEFWNUhGWVpEa2U4Zm5GQnV5alRkOGtxbnUwQzN1NGw3TFFJZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-03T03:30:00+00:00"
     },
     {
       "t": "오늘의 증시",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySlZMeU9GRWlWb00wR2ZQUEFFMFl5NWJrSEhGN0dESlp3SlVOWHQ3SVVXcF9LMVVBbWJYbzdacTlYQnAwMXY0SjlPbG9GeWpF?oc=5",
       "s": "문화일보",
       "d": "2026-11-03T03:02:20+00:00"
-    },
-    {
-      "t": "\"문제는 인플레야\"…美유권자 70%, 트럼프 물가에 불만",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wTzVJZEk1NVp3bjRGYlUzSjBwRHBDc3pDNXlOMVhQX1ZmM3JUMWUwcXZOaUVMY1c1WEdGTjBhMXhfenotc01NOTkzRm04OUZQWjBDLXJVTUhhRknSAWBBVV95cUxPeng0Z0lTQllxZXlKR2RNZVNNV0NIZUY5dTVMWnhXWDEzWXY2aWZjOHZwQzZJR2RaNHpvV2ZVR2w0ZWxGaDBjXzgxODZET0JOdFduUnBBa1hkUkJEMldCdVc?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-03T02:58:12+00:00"
-    },
-    {
-      "t": "코스피·코스닥 장 초반 약세...장중 2%대 낙폭",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teG5MZDZpc0RRbzFGQTAxakhsbXB0RUFtZy1NYWdIZ3VFSS1PX1JnSXN0ZGlzMTUzbU4tMVpSSzlUNkExWUVhSDNZNHVvNlB1eGwxVkNLcDJhdnZaeVNsc0V3TzdaaFhyVlFoZ0hlTQ?oc=5",
-      "s": "YTN",
-      "d": "2026-11-03T02:57:00+00:00"
-    },
-    {
-      "t": "상추 44%·오이 40% ‘뚝’…농산물값 하락에도 소비자물가 상승, 왜?",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EbVQyX3dOMWJ2OEV4dEhwVTd2aWFad1dLbHJOekUzUnh2SHN5NUhlWExlTTlXd0ZOaVB3REJGTWJ3ZUUxV3ByYTRLSk1YdzQyTlBxNlBLR3F3dw?oc=5",
-      "s": "농민신문",
-      "d": "2026-11-03T02:52:00+00:00"
     }
   ],
   "asof": {},
