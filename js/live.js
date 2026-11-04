@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-04T05:45:47+00:00",
-  "quotesAt": "2026-11-04T05:45:47+00:00",
-  "newsAt": "2026-11-04T05:45:47+00:00",
+  "fetchedAt": "2026-11-04T06:00:41+00:00",
+  "quotesAt": "2026-11-04T06:00:41+00:00",
+  "newsAt": "2026-11-04T06:00:41+00:00",
   "quotes": {
-    "kospi": 5635.53,
+    "kospi": 5649.26,
     "spx": 7568.92,
-    "nikkei": 61503.84,
+    "nikkei": 61858.25,
     "vix": 20.83,
-    "krw": 1340.48,
-    "gold": 3986,
-    "wti": 96.17,
-    "dxy": 101.51
+    "krw": 1340.35,
+    "gold": 4009.7,
+    "wti": 95.92,
+    "dxy": 101.43
   },
   "daily": {
     "spx": -0.15,
-    "kospi": -3.82,
-    "nikkei": -2.5,
-    "krw": -0.32,
-    "dxy": -0.36,
-    "gold": 1.16,
-    "wti": 0.08,
+    "kospi": -3.58,
+    "nikkei": -1.94,
+    "krw": -0.33,
+    "dxy": -0.43,
+    "gold": 1.76,
+    "wti": -0.18,
     "vix": -1.51
   },
   "news": [
     {
-      "t": "소비자물가 상승률, 두 달 연속 주춤",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iVXQ2V1ExQ1ZKTU1sSXgtcHNLTjQtVVFEZno3RFRPWmpwaXB3a19hejZieHB3SUNxQmFodlhxQ19qQ2o2V3A2M1JPbnFWMjd2cW5xNm5sdmlVd9IBX0FVX3lxTE9wSUZjclEtZE9JS1RVeHUzNENYWms2UF91dTZIRmhrdW02SGI1VEtBMkxrS0pob2xtSVBoQVpUdkFXYVJ3VFVfTHBjYTJaUS1lUnREUC1kaWZzcmlHTkFN?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-03T11:52:00+00:00"
+      "t": "페덱스, 반도체·AI 인프라·전자상거래 공급망 겨냥 태평양 노선 확충",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54aFhkaEYyNzUyQS1hckFqOTREYkJBYU9kdGNqMVJNUlNFSlRYUjJCR2hxX1NkTWFzVHliX2tGalQ5NU9UM0NOQXdSZEJaY3BuY3dxM21hZTVCR1Bydjg4?oc=5",
+      "s": "헬로티",
+      "d": "2026-11-04T05:46:32+00:00"
     },
     {
-      "t": "관세평가분류원, 2026년 ‘관세평가·품목분류 연구논문 및 판례평석 공모전’ 우수작 선정·발표",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zemZ0UkRzRGtVMzJBalFySUtaUFp0cFY1WTVKaURTVmFpYVZLUXpWYzVUVFQxOFFrR1NnWGxVM25Xdno2cHNUQVV4UXphdjkxeU9ZWE8xVGNWcWJwT29Z?oc=5",
-      "s": "뉴스다",
-      "d": "2026-11-03T11:50:27+00:00"
+      "t": "장기금리 상승의 이면...채권시장이 주목해야 할 구조적 변화",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Wl9sTmQ2YjBDc0ZzMlRFbmhyN0h1YzdyUUYyYzNua0JRVFhxMDM3Z3F0ZzVobHVRdG1FaFpiUjBkaGdZVTVDaFFrM3BWblJXVUxDNU9zNUNQdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-04T05:44:26+00:00"
     },
     {
-      "t": "3년보다 높은 3개월 만기 금리…예금 상식 깨졌다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95eGxjUC1lT0FCRm92dWZGdGR5MmZJTXZORTYtWkwzZ2V0S3JyR3R6TXNNOWhMVGljdFU2QTZJZ092UDFPZmMzY1kxbmFVczRrTGI0TzY2X2FRUdIBX0FVX3lxTE92YjNPR3NOMkJURURRb0NySDdiNXBOdVI1Ukg3LXdKczNsWnlMWWV2M0dXUmVyVjV3UnpnaEVmeDRSZGpnS3ZHVy1ZcFhOLVBaSnJaRDJ0QjkzcHRPM0xv?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-03T11:48:00+00:00"
+      "t": "[중간선거] 민주당 싹쓸이, 증시 단기변동성…1년 뒤엔 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaV3ZHUHdUb1V2OVBNV2ExakRmYlRMZ1RmOVpndTRETDZnU1R5Y1RNWHp5NzNBWVdyRzNVUndFUE9qVVhNRzJzVTBLZzBhclJvaE1UeGJEQW1nSzUtVUVXNzZJZUhoSElMNkQ3cXVVOUM4UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-04T05:41:43+00:00"
     },
     {
-      "t": "호주중앙은행, 기준금리 4.85%로 인상",
-      "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPazJack85TGctVERSWHBHNHM2VklOaGNqa3hTM2RJNExyVkJuZkdhb2NHbk5UMGdwOWhXZ2Z5X1pORXdKS3l6WXZ5Z0twZjNMQUdOMWswWXlOdS1URGFwbTBWcUVFb28xTlBlNHRlV2NPdnktNG5VazcxUThnY3N0WUNpTXA4eGpobllRZkpFWjVJN1c0cW5abkYzd1B5WnhvczJ2aFozYUFEcFpOdVdVQ3pOdURvZHZPVjFFTEdPMHlmY3UtNXkxdTR3NGlGUENZWXZlanVuZFkxZ3hmejNDZ1ZZNnJFM0xlQVNEOUx5YVk5Zw?oc=5",
-      "s": "위클리코리아",
-      "d": "2026-11-03T11:31:36+00:00"
+      "t": "“텅스텐-질소 찰떡 궁합 풀었다”…포스텍, AI 메모리 반도체 공정 길 열어",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NWVhoNXBzNl9oemVob0ZwdHplTkhyeXdJZDB6VGdSQUdMME41cF8wVHpmTFNnMzlscWVmd3REdnI4R1hjek54cU12OUxITnl6cmtpalg2a0FwQQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-11-04T05:41:00+00:00"
     },
     {
-      "t": "10월 물가 상승률 2.8%…가공식품 오름폭 ’껑충’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wVnhWRFNIMVF6VUpUM0ppSkhoT1RoZnlzVWJKSVpiUG1Pb3hLbmRWaU9aUXAtRDVSU0tVWkc4cnRLbTFSVXB3T3hMX19WdHpsNGQ3N2p0cTBpU25LeHctTXhvVUZ0YW8?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-03T11:10:00+00:00"
+      "t": "미 중간선거, 민주당 양원 장악 예측···관세 결정권은 여전히 트럼프",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSC15QmNxUXBQdFYzZTU4WGZZTkZsYWtSWGRiR253eGU1NEJpM0pEWlJiaFhvQ2RsRmJYeGs3elZWZEplc09heC1Bb1VxaVdZWmRfS3RvOGJoeGFqblY4RkMyTzJISE1uN0hMUElSOWM?oc=5",
+      "s": "인천투데이",
+      "d": "2026-11-04T05:39:55+00:00"
     },
     {
-      "t": "안산 반도체 부품 공장서 질산 500리터 누출…6명 경상",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZkg0SkFXa0ZKenR0Z2w0alBvaFlJSEZtY1l0WDFaUUtscWZMb1FfeGExMTRRcEItM2t0d21pR3lYOUFmbnJFMVY1QTFsQm5QZG1TQU14Q3VDTzhaMTFaWlY5cG9yS1k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-03T10:53:00+00:00"
+      "t": "美 민주, 중간선거서 상·하원 탈환 전망…트럼프 관세·한국 공급망 새 국면",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS083WElvS2dUSTVSeTY5S19ZMC1FbDhTUmVENzdKWlhXT3NiQkk2V1hMeE83SzhmbzFNV1FVSGUzLV9jcHhVN3RvSXFVWnVDMXlKTXNzcXNQZDNtMmx5dmk5RS04MTZnanlEQU8td2kxYnZ6eWhURWdhZVFHb0hGS1J2UlNMYlBQ?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-04T05:37:08+00:00"
     },
     {
-      "t": "안산 반도체 공장서 ‘질산 누출’… 6명 병원 이송… 市, 재난 문자",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRnNTYnNWTkQtSjFnTXVHVVVMZFp4T1FETnZFTXByb3YyaGtvZjd2TUZMakZaY2ZrYnFWdkFRemMta0FMd2xpZDJjRTVyTWxTbWc?oc=5",
-      "s": "경인일보",
-      "d": "2026-11-03T10:50:06+00:00"
+      "t": "美 중간선거 후 코스피 반등할까…AI 투자·장기 금리 향방 관건",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FbHdvUFR2UkwzZnVvU0pEVlBjU3ViX2Z5YWs0RGtaeVlBOG5QTHUyVzljeUhzMFJ2NF9lUTExZjNtd2FiOW1mRjRaWjdhd3NEQjRNUXhQd01lMWV4?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-04T05:34:00+00:00"
     },
     {
-      "t": "“주식? 물려도 될 만한 종목에 물려야죠”…고금리시대, 과감한 손절 기준은",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Zcy1xUjNSWlAyNWNZN3ZWMG9HbnlSMkdCcENLVDVJeV9ZYjhTVEtGRk1POXFwOFdOYWpRVk1ZYUlRRG5Hc256Qi1HTko4QjhCY1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-03T10:48:39+00:00"
+      "t": "'블루웨이브'에 데이터센터 규제 우려↑…\"반도체 수요 당분간 견조\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VSEVPVFFpcUowd3R6YkRoUXVlZng5U1ZxdXVXTVRQb0xMWm1iUVZwX2ZhV3pmUkZOUnYtcURheTc0c1Y1Y2YzdWlZRlp6UzRxUko3V3Y5bUZTWTM0b3FZeA?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-11-04T05:32:51+00:00"
     },
     {
-      "t": "반도체 장비, 3년뒤 계약까지 줄섰다",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6YlJoTXBhQWRjRmpGUlFmZl9nVnNnY2c3dlpkTW1WVE44TVF3ekd2ODJDYUl4YjJSYTRUUU8zNklGUGVqZk1iV2szVGwtZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-03T10:29:50+00:00"
+      "t": "차세대 반도체, 이제 10장씩 한 번에 만든다…350℃ 저온 공정기술 개발",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYWENwUkhENlZ1am1iZnpGT0RWWll0aUhNYzNHY253TGlwWUpkT0pGR1F4Y0hRUHk3cUIxbXU2V0UyczhJX0RKQTdQZERMbWtSOG8wVGEtUXFxYmJhWkJn?oc=5",
+      "s": "헬로티",
+      "d": "2026-11-04T05:31:18+00:00"
     },
     {
-      "t": "쪽파는 갈아엎고 배추는 풍작…김장물가 전망은?",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qcVFVRWhfUF9veUxwNFNvX05RLVNmdWdVMEZ6LTB2VjNmeFVKQUY2SnBfN09WRHp2bU4xaTN5U2dJd2M0UGtxREZURzlSTVJmUmVsdXZCSjZ6cUphUExVNUtWOTl1Zw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-03T10:22:00+00:00"
+      "t": "코스피, 중간선거 경계감에 장중 1%대 하락 전환…5500선 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45V2V3ZTBrSEZOT0lmbzdZRVdBZC1JYjlNeVo4cmdTTHJPalphTkFCWklUbFppWUtueU51M25LekRtak53ZnVCSk9QZWR0VGRZRHBrN1ZrOUZkWWYza0J6R2Y5bTJmQnEyVk95X25OZm0?oc=5",
+      "s": "산경일보",
+      "d": "2026-11-04T05:26:12+00:00"
     }
   ],
   "asof": {},
