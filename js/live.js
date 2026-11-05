@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-05T11:45:16+00:00",
-  "quotesAt": "2026-11-05T11:45:16+00:00",
-  "newsAt": "2026-11-05T11:45:16+00:00",
+  "fetchedAt": "2026-11-05T12:00:17+00:00",
+  "quotesAt": "2026-11-05T12:00:17+00:00",
+  "newsAt": "2026-11-05T12:00:17+00:00",
   "quotes": {
     "kospi": 5383.8,
     "spx": 7688.62,
     "nikkei": 61077.9,
-    "vix": 16.85,
-    "krw": 1343.17,
-    "gold": 4145.5,
-    "wti": 88.72,
-    "dxy": 101.58
+    "vix": 16.8,
+    "krw": 1343.75,
+    "gold": 4143.7,
+    "wti": 89.08,
+    "dxy": 101.61
   },
   "daily": {
     "spx": 1.95,
     "kospi": -4.69,
     "nikkei": -1.79,
-    "krw": 0.02,
-    "dxy": 0.07,
-    "gold": 1.78,
-    "wti": 0.68,
-    "vix": 1.44
+    "krw": 0.06,
+    "dxy": 0.1,
+    "gold": 1.74,
+    "wti": 1.09,
+    "vix": 1.14
   },
   "news": [
+    {
+      "t": "美 민주당 의회 장악에 미·중 갈등 격화 우려…대만·반도체가 새 뇌관",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sOWtYcTI3YXdJcE9wVXFibllaRGd4LUhvNlRtNFJnb18tU3UwRlhRZTY2NEtFRjJ1SG03bk9rQ1FXOE0wR1l2NDgtR25FUHo5MHhrMU1GWGs1SVBH?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-05T11:46:00+00:00"
+    },
+    {
+      "t": "Citi “미 중간선거 이후 장기적으로 달러·엔 환율 하락”",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xYzVNLVBad3I5cmZpYVkwMlY1VnJUNkFsOHFoX2ZqbGRUWjRsMmkyZUtDQjIza3hPNzRuY3YwSElSNDlDbDNUUHBuRG1fY1pSTm82dUFIaG53NWZHSzRmWklpT0Q3MkFqQmc1NlJB?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-05T11:44:00+00:00"
+    },
     {
       "t": "유가 떨어지고 금값은 급등…美 민주당 압승에 금융시장 요동",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpN3VQSFBrb1BHYnAyemdQSmlWN1FSa1k4eTFqQzdaN2YxZHdsMWd5aFpNaVZkLUJMR3o2bDk1aWRWSFNidXhleHkxY2pOd1VG?oc=5",
@@ -37,16 +49,16 @@ window.LIVE_DATA = {
       "d": "2026-11-05T11:30:00+00:00"
     },
     {
+      "t": "팹 유치 실패 아픔 딛고…시스템반도체 싹틔우는 대구",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5udWM4cndxU1dBNC1VVE9QV0ZBd1pfRVc5S05pNl96RDE0QjhVSGpiVDJkQ2t6b0dnbTZlU1VuUTZwYTllRV85WXAzSHJSTldsb0stcFBVb0pmWXAwNlA5M2ZIcTV0Q3V3RW1F?oc=5",
+      "s": "영남일보",
+      "d": "2026-11-05T11:24:06+00:00"
+    },
+    {
       "t": "트럼프와 거리 두는 유럽 극우…물가 올린 이란전 탓",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abUlaNGg2TFVaOW1QTXdFWDF5QkRjSjJNWEp2dlFQSGRtNGloZklnbnJCdmN3Sk9NU3JfenpQamo0V3ZSaGVKdndIeEE1SzhpTjRsLXo1N0pOaFpaemxtbWtlNTRIY3M?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-05T11:16:00+00:00"
-    },
-    {
-      "t": "Evercore ISI, 관세 영향에 Medline 목표주가 44달러로 하향",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CMXRjZXRGblcwUTlqaDZ5YWlIeG85VTlHLUtmRXN6dWE5X2JxaW41OUYtaU5VSWM2Qmd6U1NzQzRLZklOcC1wS2RpSXNCUFZ2Uk8xVTZhQlMtT2xtdUlOMVlUZUk2b1E4Z1hKZUwwUFZXWjlI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-05T11:09:00+00:00"
     },
     {
       "t": "반도체 급락에 코스피 5%↓…자동차는 강세",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTFZtQXIyQlVmaWU5cm1HbFc2alliUV9qMlRxQUE0ajd1NkNJTGpyNWkyWC00OURYSVp2N211Q0dlR1M5cThVS3BhRzhSZlhTb2pJR1BGNlIwMlgtcVlyVnh0dUw2aWZSanFPTng2ZXBKdFhoVzhiX9IBeEFVX3lxTE5mbTdZTzE0Z0hUcUl0M2tNNk5jblAxLWxUV01rcTdLeFdiVWxYUnVqTC1XbWpFWjEzbWN2U0dsOVJ5MHFxbHhod1RuRnhQU1FDSkN5b3AzRl83dmtxM1pSRG5VQ3paMHhaU19MeVViaFJaLXhtVXZRMQ?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-11-05T11:04:58+00:00"
-    },
-    {
-      "t": "잇달아 매도 사이드카…'블루쓰나미'에 증시 '급락'",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00Z1FaNzhyTGptYTc1S3gwaER6czdGVXM3OGhsM2JzZFZwU1p0bGtqT2lnOTE4Z1NGeGFLSm9zVVkyWjFNV2hTbVA4anR4ampKTEx0Snh3M1NZdVUwc3ZRaGViV2s5bTNNN08xLU1n?oc=5",
-      "s": "OBS경인TV",
-      "d": "2026-11-05T11:04:27+00:00"
-    },
-    {
-      "t": "[美중간선거] 유럽 극우, 트럼프와 거리두기…물가 올린 이란전 탓",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02Z2Vucy1uYjVCSlJkbnBsTVh0TDBuem5VZWtnc3JHcVgxNFVWdWhaZzdDSlBVdTdsenhyZzlZcE5rR2JsencxRDZCeDIwejJ6WHczVjFNUTVHNDjSAWBBVV95cUxQQUplWkUySmkyNUl6ZWRYd1h5VmdRcVFZbHRtVHgtZlFmMTNuMk1xbk5rY1V5Q2I4TzVWYU1pQl9sYmdkMU9BSTl5YXdNcFctTGFXbjF5MkZLVzdoRU0xd0Q?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-05T11:00:31+00:00"
     }
   ],
   "asof": {},
