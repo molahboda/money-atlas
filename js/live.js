@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-06T14:00:16+00:00",
-  "quotesAt": "2026-11-06T14:00:16+00:00",
-  "newsAt": "2026-11-06T14:00:16+00:00",
+  "fetchedAt": "2026-11-06T14:15:16+00:00",
+  "quotesAt": "2026-11-06T14:15:16+00:00",
+  "newsAt": "2026-11-06T14:15:16+00:00",
   "quotes": {
     "kospi": 5059.69,
     "spx": 7353.73,
     "nikkei": 57434.77,
-    "vix": 26.91,
-    "krw": 1358.9,
-    "gold": 4061.9,
-    "wti": 91.08,
-    "dxy": 102.2
+    "vix": 26.57,
+    "krw": 1363.19,
+    "gold": 4050.9,
+    "wti": 90.83,
+    "dxy": 102.27
   },
   "daily": {
     "spx": -2.84,
     "kospi": -10.98,
     "nikkei": -5.96,
-    "krw": 1.41,
-    "dxy": 0.64,
-    "gold": -1.25,
-    "wti": 0.62,
-    "vix": -4.51
+    "krw": 1.73,
+    "dxy": 0.71,
+    "gold": -1.52,
+    "wti": 0.34,
+    "vix": -5.71
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4MDVWaXQtVzFycXVncFM0NzJUMTZDRkI3cUxaMzc0SEtWNzFscnQwWkxTZVBuU0t5bHlwNmVkWFBHc2VEZ0dUSk03SnZoODlEanc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-11-06T13:27:45+00:00"
+    },
+    {
+      "t": "BOE 수석 이코노미스트 \"금리 경로 미정…성장 정체시 인하할 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QaWg5el9tZEI4RWdvcnNZTzNnM05HWUxEYU1xdlVxNmVfNXZGdlhlOHdXT1FPSDg1SjVrUm44NlA2M3pueUdRTXEwZ05GRlltTVZ2bmFhaFNxa3U0SUpPMTNfQXZaazFPLUpISUFjcDY3UQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-06T13:25:33+00:00"
     },
     {
       "t": "뉴욕증시 프리뷰, 나스닥 선물 반등…AI주 폭락 하루 만에 반도체주 저가 매수세",
@@ -47,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
       "s": "재외동포신문",
       "d": "2026-11-06T13:04:58+00:00"
-    },
-    {
-      "t": "민주당 승리에 반도체 호황은 끝?…“글로벌 투자경쟁 꺾이지 않을 것”",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVczZTOE9Vd2xBUU1Qdlp3enFFVTVPWEVzVmE3Uk94SGhkSFpaOGNvVXFLZUNvWkVaQkpOMTY4cVRTZG02alBTWGY2UndzVTRFdHZNRGxzT3Z2QnFpVEFlRG1WRXJYTHJEMnFxTEx5YloyQTR5?oc=5",
-      "s": "부산일보",
-      "d": "2026-11-06T13:02:53+00:00"
     },
     {
       "t": "'미 AI 쇼크'에 코스피, 5천 선 턱걸이...반도체주 급락",
