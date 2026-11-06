@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-06T13:00:24+00:00",
-  "quotesAt": "2026-11-06T13:00:24+00:00",
-  "newsAt": "2026-11-06T13:00:24+00:00",
+  "fetchedAt": "2026-11-06T13:15:16+00:00",
+  "quotesAt": "2026-11-06T13:15:16+00:00",
+  "newsAt": "2026-11-06T13:15:16+00:00",
   "quotes": {
     "kospi": 5059.69,
     "spx": 7353.73,
     "nikkei": 57434.77,
-    "vix": 27.11,
-    "krw": 1359.05,
-    "gold": 4072.4,
-    "wti": 90.14,
-    "dxy": 102.04
+    "vix": 27.48,
+    "krw": 1357.38,
+    "gold": 4070.3,
+    "wti": 90.71,
+    "dxy": 102.03
   },
   "daily": {
     "spx": -2.84,
     "kospi": -10.98,
     "nikkei": -5.96,
-    "krw": 1.42,
+    "krw": 1.29,
     "dxy": 0.48,
-    "gold": -1,
-    "wti": -0.42,
-    "vix": -3.8
+    "gold": -1.05,
+    "wti": 0.21,
+    "vix": -2.48
   },
   "news": [
     {
-      "t": "美 민주당 의회 장악에 미·중 갈등 격화 우려…대만·반도체가 새 뇌관",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sOWtYcTI3YXdJcE9wVXFibllaRGd4LUhvNlRtNFJnb18tU3UwRlhRZTY2NEtFRjJ1SG03bk9rQ1FXOE0wR1l2NDgtR25FUHo5MHhrMU1GWGs1SVBH?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-05T11:46:00+00:00"
+      "t": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jRVhnNmhnNWJsYXR5WXNsYUxFZGw4YTlBb1h2SW54YlBnZFBBNVNEdmNfc29DZUN4QjVKeXBGRFBkUlB3NHlzRzN6Yy1RaHJPdTZQX3ZVRWU0eXJTejFId1ZLVWlZd0QzSVg4bmRfV0tSaWc?oc=5",
+      "s": "마켓인",
+      "d": "2026-11-06T13:05:57+00:00"
     },
     {
-      "t": "Citi “미 중간선거 이후 장기적으로 달러·엔 환율 하락”",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xYzVNLVBad3I5cmZpYVkwMlY1VnJUNkFsOHFoX2ZqbGRUWjRsMmkyZUtDQjIza3hPNzRuY3YwSElSNDlDbDNUUHBuRG1fY1pSTm82dUFIaG53NWZHSzRmWklpT0Q3MkFqQmc1NlJB?oc=5",
+      "t": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
+      "s": "재외동포신문",
+      "d": "2026-11-06T13:04:58+00:00"
+    },
+    {
+      "t": "'미 AI 쇼크'에 코스피, 5천 선 턱걸이...반도체주 급락",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PVWVXTWxuc0dfUHpXbll2MnAyMDJtVTQzQi12d3pncElmVTlULUhyMld0aWYzVU9lb1VGM29scjhucVV1R2h2SmVUMlhNVHR6QmNNd1lYSE5SMTVSQWc?oc=5",
+      "s": "YTN",
+      "d": "2026-11-06T12:52:00+00:00"
+    },
+    {
+      "t": "트럼프, 중간선거 참패에도 '관세 폭탄·대이란 강경책' 고수",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DQTI5V1VDbEc5QWVnUmhmZGpaWk93cXV3WHlqVDhDYWJQY3RwM3ZaUkFNV09hWW9KT0YzQVJ3eWVhYmNVQm1TNkJ3LTBicldsRnpQdnVLRzlna1dSa1E?oc=5",
+      "s": "YTN",
+      "d": "2026-11-06T12:46:00+00:00"
+    },
+    {
+      "t": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00bXJZdktoSkwxdkp5U0ZTTFBhNmNrSUt2YWczTXJJMFZMS1dZTUp5VnVrNkZhd1Y5VnBXb21qSlcyajR0a2Rya0JmRWlsczNNOEE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-06T12:44:44+00:00"
+    },
+    {
+      "t": "ECB 수석 이코노미스트 \"12월까지 지표 확인 후 금리 결정\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE12WGVwMzIwV21vSE15N0hWVVJqMm5DMzc4Ujg4amgyZ3BXNHJ2bGJkaWt3MlpKUDhUUW9vX2t4Q0J1TEVONTYza1FSV0kxUGdUN1pwd01aSTBPbmNkdUJxaUhkaFo4b2dFZWNTRHFzSGw5QQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-06T12:32:09+00:00"
+    },
+    {
+      "t": "'검은 금요일' 코스피, 5000선 턱걸이 마감…외인 2.5兆 넘게 팔아",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qOGpEdGZ5WjdQRmdsX2k3NFZMNUNTSjlzNGI1YzQ2LUxHRWw1VFB5SmdqcHI3X0xqLXhNdVJLdGV4X3U5clFvOEo2c1E2NTVoLW9aWnJQMEc?oc=5",
+      "s": "경북신문",
+      "d": "2026-11-06T12:28:55+00:00"
+    },
+    {
+      "t": "바클레이스, 유가 하락으로 유럽 항공사 5곳 투자의견 상향",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSNWFVRW1aaS1RWE9wdDBBSi04R1V2OWlxYlFQaDctMUpFQWFVN2FhUGlocm5jZEJOZFFlZ1hXTlYyZlNYVnB6b1NBaXJCZGp6Rk1aTVJzVHl6Yy1oUm1BY083bHZnTWVnX21RQmZXbFE?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-11-05T11:44:00+00:00"
+      "d": "2026-11-06T12:22:00+00:00"
     },
     {
-      "t": "유가 떨어지고 금값은 급등…美 민주당 압승에 금융시장 요동",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpN3VQSFBrb1BHYnAyemdQSmlWN1FSa1k4eTFqQzdaN2YxZHdsMWd5aFpNaVZkLUJMR3o2bDk1aWRWSFNidXhleHkxY2pOd1VG?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-05T11:35:45+00:00"
+      "t": "'반도체 클러스터' 정주여건 혁신 전략 연말 윤곽",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fNWtRMzVuaWFqQTI2all0RlY5U19waDBiN0JRZGljRjJuQzF4al9wMHFCNkt5MGtERVBwNm9YVzVGS0JTalhZc3JMLTN3eHpGYjJVMWJIQTRTcHRBQzRhb0Nn?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-11-06T12:14:43+00:00"
     },
     {
-      "t": "‘블루웨이브 쇼크’에 코스피 급락…삼전 7%↓·하닉 9%↓",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2QmdsLUhfcGVqeWw5ejBIRFVGemxETG1ud0N1SjRtMTdIeDhvSnNINjh2ank0dGVXeHJxaHpoVFduVERybHdFWXZ4RjZwdjVTZTRRcVR0TEkzTFZ6MF9mRlJwOHNuTTA?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-05T11:30:00+00:00"
-    },
-    {
-      "t": "팹 유치 실패 아픔 딛고…시스템반도체 싹틔우는 대구",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5udWM4cndxU1dBNC1VVE9QV0ZBd1pfRVc5S05pNl96RDE0QjhVSGpiVDJkQ2t6b0dnbTZlU1VuUTZwYTllRV85WXAzSHJSTldsb0stcFBVb0pmWXAwNlA5M2ZIcTV0Q3V3RW1F?oc=5",
-      "s": "영남일보",
-      "d": "2026-11-05T11:24:06+00:00"
-    },
-    {
-      "t": "트럼프와 거리 두는 유럽 극우…물가 올린 이란전 탓",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5abUlaNGg2TFVaOW1QTXdFWDF5QkRjSjJNWEp2dlFQSGRtNGloZklnbnJCdmN3Sk9NU3JfenpQamo0V3ZSaGVKdndIeEE1SzhpTjRsLXo1N0pOaFpaemxtbWtlNTRIY3M?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-05T11:16:00+00:00"
-    },
-    {
-      "t": "반도체 급락에 코스피 5%↓…자동차는 강세",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xTzJfTzNBR1BkRjVGNTA2eWhtTWlUQVVFWDF1QlVPSVQwMU8ybFI1QVBpVzFUSS1NaDVaR0JFeXh2Zkh5RTJuSW8zTTN4Y2toQ1daYkMzU3FfdTIyWnZNS1Y4YVNkNFE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-05T11:07:00+00:00"
-    },
-    {
-      "t": "인천 반도체·바이오, 3분기도 웃었다",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaXdTTzJ4VVRncFY5NGQwN3hVaHFCUzhaUDEycmRwYlExVG1odHNqbHZqS2NxYzdFZllxMjdHcVZlRi0xWjNjWVlQaGtWYkZVdmc?oc=5",
-      "s": "경인일보",
-      "d": "2026-11-05T11:06:51+00:00"
-    },
-    {
-      "t": "급락장 속 자동차주 상승‥복잡해진 관세·대미투자 셈법",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyTjgyYUhBQ1B4eXZqeS1weE1zUzNFcnEyUkNNbnZZUS0tVUY2dGRWRnhvallTTmFkWHE4NEtwZ0hrVGdzOHpxS01leXVQTk1jTmtHY1Zacm5HX1B2bHdsSzBXc2ZOb1V5OXlkMmZuVTRzTFh3ZC0zUdIBeEFVX3lxTE5PbDlJelBqRFBRNVF2ZmpMRWdEalNjZEJhc2V5Ul9URHZEdFBhTEpLZmYtN19kMXNLWlpENlIybnY1T1ZQR2o2V2tVb0g4WlE5Y0FDU3cwajg0bjlYd0txSTYtQ3JqaDJIaXFNV3VISGpvSjZtVUpuMQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-05T11:06:27+00:00"
-    },
-    {
-      "t": "데이터센터 차질?‥'푸른 쓰나미'에 '반도체' 증시도 파랗게 질려",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oTFZtQXIyQlVmaWU5cm1HbFc2alliUV9qMlRxQUE0ajd1NkNJTGpyNWkyWC00OURYSVp2N211Q0dlR1M5cThVS3BhRzhSZlhTb2pJR1BGNlIwMlgtcVlyVnh0dUw2aWZSanFPTng2ZXBKdFhoVzhiX9IBeEFVX3lxTE5mbTdZTzE0Z0hUcUl0M2tNNk5jblAxLWxUV01rcTdLeFdiVWxYUnVqTC1XbWpFWjEzbWN2U0dsOVJ5MHFxbHhod1RuRnhQU1FDSkN5b3AzRl83dmtxM1pSRG5VQ3paMHhaU19MeVViaFJaLXhtVXZRMQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-05T11:04:58+00:00"
+      "t": "트럼프 ‘300% 관세’ 경고…통상 폭주 이어갈 듯",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UbDdLQVk2NDljeU14bzZQRUNnZ1dQZTZZeVJSczBrY0JEVnNaUE5kN205ZWozeEVUSmVaeUtrbG5fQjVBbVotTGtUTms1Wkg1S192a1NJRzRxQ0dMTnJTVm1JZk1sZw?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-06T12:08:00+00:00"
     }
   ],
   "asof": {},
