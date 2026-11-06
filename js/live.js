@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-06T13:30:16+00:00",
-  "quotesAt": "2026-11-06T13:30:16+00:00",
-  "newsAt": "2026-11-06T13:30:16+00:00",
+  "fetchedAt": "2026-11-06T13:45:16+00:00",
+  "quotesAt": "2026-11-06T13:45:16+00:00",
+  "newsAt": "2026-11-06T13:45:16+00:00",
   "quotes": {
     "kospi": 5059.69,
     "spx": 7353.73,
     "nikkei": 57434.77,
-    "vix": 27.53,
-    "krw": 1357.79,
-    "gold": 4072.6,
-    "wti": 90.79,
-    "dxy": 102.05
+    "vix": 26.2,
+    "krw": 1358.91,
+    "gold": 4058.2,
+    "wti": 91.06,
+    "dxy": 102.15
   },
   "daily": {
     "spx": -2.84,
     "kospi": -10.98,
     "nikkei": -5.96,
-    "krw": 1.32,
-    "dxy": 0.49,
-    "gold": -0.99,
-    "wti": 0.3,
-    "vix": -2.31
+    "krw": 1.41,
+    "dxy": 0.59,
+    "gold": -1.34,
+    "wti": 0.6,
+    "vix": -7.03
   },
   "news": [
+    {
+      "t": "증시 폭락에 트럼프 “멍청한 민주당 때문…이들에 투표한 스스로를 탓해야”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4MDVWaXQtVzFycXVncFM0NzJUMTZDRkI3cUxaMzc0SEtWNzFscnQwWkxTZVBuU0t5bHlwNmVkWFBHc2VEZ0dUSk03SnZoODlEanc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-06T13:27:45+00:00"
+    },
     {
       "t": "뉴욕증시 프리뷰, 나스닥 선물 반등…AI주 폭락 하루 만에 반도체주 저가 매수세",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1RoSC02Y3BIbHN3U1EtUnZqWldPZ1o1WWhsNDdKRDFZWUpHNzdVMFpUNHdQbHFILWlhMUJLVVdSS1RwdUdNSXNyUlBYVVFsQnVRTGtxblpmTXA0?oc=5",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
       "s": "재외동포신문",
       "d": "2026-11-06T13:04:58+00:00"
+    },
+    {
+      "t": "민주당 승리에 반도체 호황은 끝?…“글로벌 투자경쟁 꺾이지 않을 것”",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVczZTOE9Vd2xBUU1Qdlp3enFFVTVPWEVzVmE3Uk94SGhkSFpaOGNvVXFLZUNvWkVaQkpOMTY4cVRTZG02alBTWGY2UndzVTRFdHZNRGxzT3Z2QnFpVEFlRG1WRXJYTHJEMnFxTEx5YloyQTR5?oc=5",
+      "s": "부산일보",
+      "d": "2026-11-06T13:02:53+00:00"
     },
     {
       "t": "'미 AI 쇼크'에 코스피, 5천 선 턱걸이...반도체주 급락",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qOGpEdGZ5WjdQRmdsX2k3NFZMNUNTSjlzNGI1YzQ2LUxHRWw1VFB5SmdqcHI3X0xqLXhNdVJLdGV4X3U5clFvOEo2c1E2NTVoLW9aWnJQMEc?oc=5",
       "s": "경북신문",
       "d": "2026-11-06T12:28:55+00:00"
-    },
-    {
-      "t": "바클레이스, 유가 하락으로 유럽 항공사 5곳 투자의견 상향",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSNWFVRW1aaS1RWE9wdDBBSi04R1V2OWlxYlFQaDctMUpFQWFVN2FhUGlocm5jZEJOZFFlZ1hXTlYyZlNYVnB6b1NBaXJCZGp6Rk1aTVJzVHl6Yy1oUm1BY083bHZnTWVnX21RQmZXbFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-06T12:22:00+00:00"
-    },
-    {
-      "t": "'반도체 클러스터' 정주여건 혁신 전략 연말 윤곽",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fNWtRMzVuaWFqQTI2all0RlY5U19waDBiN0JRZGljRjJuQzF4al9wMHFCNkt5MGtERVBwNm9YVzVGS0JTalhZc3JMLTN3eHpGYjJVMWJIQTRTcHRBQzRhb0Nn?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-06T12:14:43+00:00"
     }
   ],
   "asof": {},
