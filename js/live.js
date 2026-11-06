@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-06T13:15:16+00:00",
-  "quotesAt": "2026-11-06T13:15:16+00:00",
-  "newsAt": "2026-11-06T13:15:16+00:00",
+  "fetchedAt": "2026-11-06T13:30:16+00:00",
+  "quotesAt": "2026-11-06T13:30:16+00:00",
+  "newsAt": "2026-11-06T13:30:16+00:00",
   "quotes": {
     "kospi": 5059.69,
     "spx": 7353.73,
     "nikkei": 57434.77,
-    "vix": 27.48,
-    "krw": 1357.38,
-    "gold": 4070.3,
-    "wti": 90.71,
-    "dxy": 102.03
+    "vix": 27.53,
+    "krw": 1357.79,
+    "gold": 4072.6,
+    "wti": 90.79,
+    "dxy": 102.05
   },
   "daily": {
     "spx": -2.84,
     "kospi": -10.98,
     "nikkei": -5.96,
-    "krw": 1.29,
-    "dxy": 0.48,
-    "gold": -1.05,
-    "wti": 0.21,
-    "vix": -2.48
+    "krw": 1.32,
+    "dxy": 0.49,
+    "gold": -0.99,
+    "wti": 0.3,
+    "vix": -2.31
   },
   "news": [
+    {
+      "t": "뉴욕증시 프리뷰, 나스닥 선물 반등…AI주 폭락 하루 만에 반도체주 저가 매수세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1RoSC02Y3BIbHN3U1EtUnZqWldPZ1o1WWhsNDdKRDFZWUpHNzdVMFpUNHdQbHFILWlhMUJLVVdSS1RwdUdNSXNyUlBYVVFsQnVRTGtxblpmTXA0?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-06T13:16:00+00:00"
+    },
     {
       "t": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jRVhnNmhnNWJsYXR5WXNsYUxFZGw4YTlBb1h2SW54YlBnZFBBNVNEdmNfc29DZUN4QjVKeXBGRFBkUlB3NHlzRzN6Yy1RaHJPdTZQX3ZVRWU0eXJTejFId1ZLVWlZd0QzSVg4bmRfV0tSaWc?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fNWtRMzVuaWFqQTI2all0RlY5U19waDBiN0JRZGljRjJuQzF4al9wMHFCNkt5MGtERVBwNm9YVzVGS0JTalhZc3JMLTN3eHpGYjJVMWJIQTRTcHRBQzRhb0Nn?oc=5",
       "s": "KBC광주방송",
       "d": "2026-11-06T12:14:43+00:00"
-    },
-    {
-      "t": "트럼프 ‘300% 관세’ 경고…통상 폭주 이어갈 듯",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UbDdLQVk2NDljeU14bzZQRUNnZ1dQZTZZeVJSczBrY0JEVnNaUE5kN205ZWozeEVUSmVaeUtrbG5fQjVBbVotTGtUTms1Wkg1S192a1NJRzRxQ0dMTnJTVm1JZk1sZw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-06T12:08:00+00:00"
     }
   ],
   "asof": {},
