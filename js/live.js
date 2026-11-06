@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-06T14:15:16+00:00",
-  "quotesAt": "2026-11-06T14:15:16+00:00",
-  "newsAt": "2026-11-06T14:15:16+00:00",
+  "fetchedAt": "2026-11-06T14:30:18+00:00",
+  "quotesAt": "2026-11-06T14:30:18+00:00",
+  "newsAt": "2026-11-06T14:30:18+00:00",
   "quotes": {
     "kospi": 5059.69,
-    "spx": 7353.73,
+    "spx": 7374.56,
     "nikkei": 57434.77,
-    "vix": 26.57,
-    "krw": 1363.19,
-    "gold": 4050.9,
-    "wti": 90.83,
-    "dxy": 102.27
+    "vix": 26.8,
+    "krw": 1364.08,
+    "gold": 4042.5,
+    "wti": 90.58,
+    "dxy": 102.32
   },
   "daily": {
-    "spx": -2.84,
+    "spx": -4.08,
     "kospi": -10.98,
     "nikkei": -5.96,
-    "krw": 1.73,
-    "dxy": 0.71,
-    "gold": -1.52,
-    "wti": 0.34,
-    "vix": -5.71
+    "krw": 1.79,
+    "dxy": 0.76,
+    "gold": -1.73,
+    "wti": 0.07,
+    "vix": -4.9
   },
   "news": [
+    {
+      "t": "증권사 신용융자 담보비율 의무 '3개월 면제'…증시 변동성 대응",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSmt3SXZ0dk0xTVdKbk1jNW5kcjU2cUtSaHBwWFNZZ0YtZ0lJT3drQmVwY1p0d2g2ekZUQnBlNzk4SXpTV050U0NCbUhfZ1RjdWp2Znc5V0FxZUlR?oc=5",
+      "s": "한국방송뉴스",
+      "d": "2026-11-06T14:07:17+00:00"
+    },
+    {
+      "t": "[마감시황] ‘검은 금요일’ 맞은 코스피 5000선 턱걸이 마감...서킷브레이커·매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnMzNfYTlCT3p0dGJtSGxYR0dSZVlfdVdiNTVUYXBzUGthVTFfbFRRdHZVNGtqYUxsSWVtUXJmS1lncGVXcldYRTVjMW5zdDgtZEhSak1YeVJrRmg1RTllX1Etd2U3aXdXeWpMSm9GZHRiZw?oc=5",
+      "s": "한양경제",
+      "d": "2026-11-06T13:55:44+00:00"
+    },
     {
       "t": "증시 폭락에 트럼프 “멍청한 민주당 때문…이들에 투표한 스스로를 탓해야”",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4MDVWaXQtVzFycXVncFM0NzJUMTZDRkI3cUxaMzc0SEtWNzFscnQwWkxTZVBuU0t5bHlwNmVkWFBHc2VEZ0dUSk03SnZoODlEanc?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00bXJZdktoSkwxdkp5U0ZTTFBhNmNrSUt2YWczTXJJMFZMS1dZTUp5VnVrNkZhd1Y5VnBXb21qSlcyajR0a2Rya0JmRWlsczNNOEE?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-11-06T12:44:44+00:00"
-    },
-    {
-      "t": "ECB 수석 이코노미스트 \"12월까지 지표 확인 후 금리 결정\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE12WGVwMzIwV21vSE15N0hWVVJqMm5DMzc4Ujg4amgyZ3BXNHJ2bGJkaWt3MlpKUDhUUW9vX2t4Q0J1TEVONTYza1FSV0kxUGdUN1pwd01aSTBPbmNkdUJxaUhkaFo4b2dFZWNTRHFzSGw5QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-06T12:32:09+00:00"
-    },
-    {
-      "t": "'검은 금요일' 코스피, 5000선 턱걸이 마감…외인 2.5兆 넘게 팔아",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qOGpEdGZ5WjdQRmdsX2k3NFZMNUNTSjlzNGI1YzQ2LUxHRWw1VFB5SmdqcHI3X0xqLXhNdVJLdGV4X3U5clFvOEo2c1E2NTVoLW9aWnJQMEc?oc=5",
-      "s": "경북신문",
-      "d": "2026-11-06T12:28:55+00:00"
     }
   ],
   "asof": {},
