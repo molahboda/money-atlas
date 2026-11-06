@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-06T14:45:16+00:00",
-  "quotesAt": "2026-11-06T14:45:16+00:00",
-  "newsAt": "2026-11-06T14:45:16+00:00",
+  "fetchedAt": "2026-11-06T15:00:17+00:00",
+  "quotesAt": "2026-11-06T15:00:17+00:00",
+  "newsAt": "2026-11-06T15:00:17+00:00",
   "quotes": {
     "kospi": 5059.69,
-    "spx": 7415.24,
+    "spx": 7430.72,
     "nikkei": 57434.77,
-    "vix": 26.84,
-    "krw": 1361.78,
-    "gold": 4046.2,
-    "wti": 90.52,
-    "dxy": 102.25
+    "vix": 24.75,
+    "krw": 1361.48,
+    "gold": 4056.1,
+    "wti": 90.75,
+    "dxy": 102.23
   },
   "daily": {
-    "spx": -3.56,
+    "spx": -3.35,
     "kospi": -10.98,
     "nikkei": -5.96,
-    "krw": 1.62,
-    "dxy": 0.69,
-    "gold": -1.64,
-    "wti": 0,
-    "vix": -4.76
+    "krw": 1.6,
+    "dxy": 0.67,
+    "gold": -1.4,
+    "wti": 0.25,
+    "vix": -12.17
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxYkdFQUpmdWhkaGtUVVVUMC10R1lSOU5jZWN4a3QyUXZKT1Y1dTZVYjZSZXRncmRwVlU4MFZjODVMTGlZNDVaeEhFc1pydU4yLTFJSW9Hb3Z2SFZKMk5wWjhaM28zdjJtZWZNdUVxbHM?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-06T14:32:10+00:00"
+    },
+    {
+      "t": "美 고용 서프라이즈...연준 12월 금리인상 가능성 ‘껑충’",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ndF9hZ3pJcGFpekJjeC1ORjEzN3FUTFIyVHFiV0Q4eUt4ZlRFcGhxM3E3ZDZkaldZcktPbzBpVWE1cU5Qc0dLcTg3NlpDM3VkOTJpdXJMc3FVcWJlNWZIbnZYOFNiNlpad1Vr0gFvQVVfeXFMTjdVOE9kMWhCZ2ZRR2dSMWEzbGx6c2dqbEZjazhWNXdCcUR3eUhhNEE3ZVdwVkRqbWpzeXpLYXRTYXJaNWZjRFQwRm9hU0xoX2hrcGVDSno3VkF4aTlpT3B2cEp3dTZrVFhrSjltU2xJ?oc=5",
+      "s": "투데이신문",
+      "d": "2026-11-06T14:29:56+00:00"
     },
     {
       "t": "\"이례적으로 강한 고용\"…미국 금리인상 확률 '매우 높음'",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pVHhhRTUyb3pOcDc0LW94YWtaMld6QXJndUZHeE1NeTBZUGNQVHdwamVmWl9FZm1PX25HdFlPVk5qbjM1WWtzY2hNbDZ2dG9TdFY5MWxoRlhVUUJfNURhWjNsUlF6czNxd0lPWWpFOV84UQ?oc=5",
       "s": "KB Think",
       "d": "2026-11-06T13:22:12+00:00"
-    },
-    {
-      "t": "뉴욕증시 프리뷰, 나스닥 선물 반등…AI주 폭락 하루 만에 반도체주 저가 매수세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MS1RoSC02Y3BIbHN3U1EtUnZqWldPZ1o1WWhsNDdKRDFZWUpHNzdVMFpUNHdQbHFILWlhMUJLVVdSS1RwdUdNSXNyUlBYVVFsQnVRTGtxblpmTXA0?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-06T13:16:00+00:00"
     }
   ],
   "asof": {},
