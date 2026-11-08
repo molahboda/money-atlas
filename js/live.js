@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-08T21:15:34+00:00",
-  "quotesAt": "2026-11-08T21:15:34+00:00",
-  "newsAt": "2026-11-08T21:15:34+00:00",
+  "fetchedAt": "2026-11-08T21:30:34+00:00",
+  "quotesAt": "2026-11-08T21:30:34+00:00",
+  "newsAt": "2026-11-08T21:30:34+00:00",
   "quotes": {
     "kospi": 5059.69,
     "spx": 7376.86,
@@ -25,9 +25,33 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[미국 중간선거와 한국 산업②] 관세는 그대로, 보조금은 불투명…한국 기업 美 투자 방정식 흔들",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Rm1mSDdHU2RHZmY5bE1tMlFlYThIbjZjdlZTSDZYQVRwenF3cHpIYU5memthdHpDSXlvLVZCOGhPVVVNSUJxY0l3NWZJa25HZy1scmRjYWZYYzZFbHVGaTM1NVVZSEtDWm55SQ?oc=5",
+      "s": "뉴시안",
+      "d": "2026-11-08T21:28:59+00:00"
+    },
+    {
+      "t": "반도체 호황과 고령화",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWWVOVmE3RkFGblNiaGVnTkttM2RDYjZiMllmWGpoUEdBbmpOXzBIcDZCTnFydDRJd3JWcVEtbkE3Tnh0R1FWSklPMWt3c2VLa0F2QW5PeG9KekxtbkdJelVqNVAycjVrblE?oc=5",
+      "s": "의학신문",
+      "d": "2026-11-08T21:26:17+00:00"
+    },
+    {
+      "t": "AI 패권 경쟁, 반도체 넘어 전력 확보전으로…앤트로픽, 34억달러 발전설비 계약",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVE5YM2QwQ2FvdEFkS05pNWVweHY0V1dqWWlJSDgyQ3lDMzZqVXRoeHJySnR6anp5QmlZNjVhY19ocHA4R3FaczhOWlpVWkVKNXBXWVViQ1hyajBFWGJFZDZXb18zRU0?oc=5",
+      "s": "지이코노미",
+      "d": "2026-11-08T21:18:08+00:00"
+    },
+    {
+      "t": "'롤러코스터' 코스피, 미 반등에 한숨 돌리나",
+      "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzJjYmxXaWFZQUJlTy1QLTVELXFUV2M1Z0tEZGdtNzBtNWxWck5MaU5lbWJuYkhCOGhSMy1nQ2RzWlh6Y1BhUm91ZXoxWS1KbW9PWG12RVZVSmlWTHk1X0lORGVtQzMyMzA0ckltNWg3cTV0ekYxa2dfbnlyZ1B6YTJtOHB0dUpzQm5fYk5vZ9IBZkFVX3lxTE1zbl9uSHRFRnZiMkhPalpEd2liNjViSFRaTmNXQTQxckFxS05wWElQUHNQSWo0Z09kY1hQWUhneUptOXIycXprOGU5Q0U0VmxoWVNYQnF0dUkxczlJaEtMWXVaRlUtdw?oc=5",
+      "s": "SBS 뉴스",
+      "d": "2026-11-08T21:10:14+00:00"
+    },
+    {
       "t": "맞춤형 HBM이 바꾼 SK·삼성 인사…기술통이 미주사업 이끈다",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81bWcxVTZoLUczTVZERFFHM1lEbWpNSGdpWGJjNTFCdlZqMzdXdnkwbzJwU2hTOHJzdG16T203VlBoT1hWRnhIYUd1bjNicnVuWURGYUVTM0FpbGpwRWJwVGI0RDFUYzZQSDZYSzNDT2RUQTND?oc=5",
-      "s": "연합뉴스 한민족센터",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4M1FTTVhEczlOd2VxSzBjZ0U0LWNCTzFtcmZQbmxFQmlxUmVxWm9ycTVrRnE3UnJ1X1NVeEE3LWVSUDBidEhNOUVGV180X1NBMlE?oc=5",
+      "s": "매일경제 마켓",
       "d": "2026-11-08T21:09:00+00:00"
     },
     {
@@ -37,16 +61,16 @@ window.LIVE_DATA = {
       "d": "2026-11-08T21:08:59+00:00"
     },
     {
+      "t": "트럼프 민주당 중간선거 승리로 美 역사적 후퇴…증시 3조달러 증발",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMmlRNThJcTFWUGhFOVd0UG1TM0hjLTFxQ0M3NU1TM2VtNHFVUFNUcE1WMExPbl9RVzFvLVlTeVozWjNsU2czRDBlQTkzVWJNU2w1V2dkcmdpd9IBWEFVX3lxTFBTcm9ERnc1WjFkblpFMUY3Wm8xZUt0VGotT1U5X1RwU1ZWQjdKS0hFVHgzMGIzSEZfMjc0dkV4RHBFaE00aDlldVBpN3l4aC10OGZfRWNDVzg?oc=5",
+      "s": "아주경제",
+      "d": "2026-11-08T21:08:31+00:00"
+    },
+    {
       "t": "[최정호 익산시장 숏폼인터뷰⑩] 반도체·피지컬AI 기업 유치 위해 부지·전력·용수·인재 선제 확보",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBVmhZa0hRMFZaM0gyMUVZdXRTWk5EeXBmcmdmTUJNY2Q4a1ZUTEQtWHpvR2ZCOEM1NjBQaWVVXzlLX25EUFp3QTNiS2hqUDZtc3BtOWladGNVY1p0X2lERFBoQnN4YkR3?oc=5",
       "s": "투데이안",
       "d": "2026-11-08T21:05:18+00:00"
-    },
-    {
-      "t": "[최정호 시장 숏폼인터뷰⑨] 반도체·피지컬AI 승부수…익산에 무슨 일이 벌어지나?",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaEdDVmtOWTVzZFdxX283c18tejBRV3BBX2pyVnhTUTJjemhLcHlCcy1tRFE0dGdqS0prbkFqNWtaam14SlgxSUthVUNMWWx0WGFuTWxYMHFYZXZPRE5TQTlnZTFXc3RP?oc=5",
-      "s": "투데이안",
-      "d": "2026-11-08T21:05:10+00:00"
     },
     {
       "t": "[코스피·코스닥 전 거래일(6일) 주요공시]",
@@ -55,34 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-08T21:05:01+00:00"
     },
     {
-      "t": "美 제재·AI 붐 탓에...글로벌 반도체 장비사 中 매출 뚝",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1R5dm1jNVpJc2hobTZuWTl3clQ0MlNndjVmN2ptdkJpRWRDa1BZeEFIRTljMjB3WkVCZWpJX251VW10a3lhUTFyZEpIdkNXdHRtN1llTzJJTWYyWnhrOG9ZczY0dll3N1RKeU13RGZmX29oYjRvX1lDd09CNWNHQzZwVQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-08T21:04:37+00:00"
-    },
-    {
       "t": "[최정호 익산시장 숏폼인터뷰②] “반도체 소부장 특화단지에 국비 400억·민간 8300억 투자 추진”",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuSmQ4MHVxeUNTdVJPZXFlUjlUT3N0ZHZKYVQ5LTdCNVdLVHFwb0YxaWVoR1VZa2Q5a3hYVTdYSFE2VE5ScjZsTjkwb2pOamtnZFhjUmt6YXNBT3NPd2xheXotbEVIVDVL?oc=5",
       "s": "투데이안",
       "d": "2026-11-08T21:04:35+00:00"
-    },
-    {
-      "t": "[오늘 뉴스 4컷] 美 데이터센터 규제 움직임…반도체로 버티는 한국 경제 ‘긴장’",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPZG1NeUdRdTVVMGxNUU5tVjJnVkFITE85STgxQ1NiQ19rQ1Nub1B5ODVJdzFQVnowRXd2cnJ5Rmh2YUhxQkFPbDJiQ3R3ZWg3U01IMnZfcjc?oc=5",
-      "s": "세계일보",
-      "d": "2026-11-08T21:01:00+00:00"
-    },
-    {
-      "t": "'블루 웨이브'에 외인 10조 매도…코스피 5000 사수 가능할까",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sYmlHdmhVY3ZTWk5EdVhGd3otNXVWWlpvb2wydlpnTjN2TkhRbEh2eEoyYUxPNF9RbkpFcHllV0xQX2VPaUR5VW9vYURnUmxkOGlZMGNvUGd5N05aME5n?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-11-08T21:00:30+00:00"
-    },
-    {
-      "t": "[사설] 팹리스 둥지 트는 대구, 시스템반도체 거점 도약 기회다",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zVTRfX3MtUTRyQVZ3Umt5MnRhdlgtWGpFU2RQb0g4Z2tVbDg2MXNDUFlDc2NOc1dGLWFBLWJSVnFyMDh5NnR0cE1tbEs0dnFTUC1JRklQZkREemdieWQxaWt0dw?oc=5",
-      "s": "영남일보",
-      "d": "2026-11-08T21:00:00+00:00"
     }
   ],
   "asof": {},
