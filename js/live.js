@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-08T20:30:40+00:00",
-  "quotesAt": "2026-11-08T20:30:40+00:00",
-  "newsAt": "2026-11-07T08:45:22+00:00",
+  "fetchedAt": "2026-11-08T20:45:34+00:00",
+  "quotesAt": "2026-11-08T20:45:34+00:00",
+  "newsAt": "2026-11-08T20:45:34+00:00",
   "quotes": {
     "kospi": 5059.69,
     "spx": 7376.86,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "ECB 수석 이코노미스트 \"12월까지 지표 확인 후 금리 결정\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxYkdFQUpmdWhkaGtUVVVUMC10R1lSOU5jZWN4a3QyUXZKT1Y1dTZVYjZSZXRncmRwVlU4MFZjODVMTGlZNDVaeEhFc1pydU4yLTFJSW9Hb3Z2SFZKMk5wWjhaM28zdjJtZWZNdUVxbHM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-06T14:32:10+00:00"
+      "t": "코어위브 실적, AI주 방향타…인플레이션 지표에도 촉각[이번주 美 증시는] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pOGtNQVpBY1hhTEdDUlkwdFlZTG81SHM3ZGlDVTJWZmFCSGZtdE4xNjV3RHhzd0VSdXNqUGZfU1pOT243R2ZLX2RSY0w0ZUJSdTlOZVE1T25TU0t6UjRUQmF0Tm82Tk9N0gFuQVVfeXFMT3V2Uy14V2FJZE91cHRHYzhfNUxQT3dhX3NMT05rbzU3X3VmMFdpXzk4QTlnXzFLemdVc3htNWNEZ0JoOVVhOUZDb0NSUGtjMjREbnhZV2Rpb1VVbEw3VWxpOG9JRWlnOW5iQVo2enc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-08T20:35:00+00:00"
     },
     {
-      "t": "美 고용 서프라이즈...연준 12월 금리인상 가능성 ‘껑충’",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ndF9hZ3pJcGFpekJjeC1ORjEzN3FUTFIyVHFiV0Q4eUt4ZlRFcGhxM3E3ZDZkaldZcktPbzBpVWE1cU5Qc0dLcTg3NlpDM3VkOTJpdXJMc3FVcWJlNWZIbnZYOFNiNlpad1Vr0gFvQVVfeXFMTjdVOE9kMWhCZ2ZRR2dSMWEzbGx6c2dqbEZjazhWNXdCcUR3eUhhNEE3ZVdwVkRqbWpzeXpLYXRTYXJaNWZjRFQwRm9hU0xoX2hrcGVDSno3VkF4aTlpT3B2cEp3dTZrVFhrSjltU2xJ?oc=5",
-      "s": "투데이신문",
-      "d": "2026-11-06T14:29:56+00:00"
+      "t": "반도체 호황은 ‘위장된 저주’였나, 5년 후 한국 경제 거대 위기 올 수도",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0wwNXAtLVVOaVVLRTFyNC1LU0N1R1diVlhjZjRlV2NSNWhieHVIVC1fbzc1NEFXZE9EZ3JNdGJSd1pRYTF4SXVDVzlkSXpNYVNvOHl0RmRuZXB4SzkxRE1wSHlRWmNjT1BlcjZvaUNuVTQ2U1hSVXlzRG5Ra2k2RlpnNkFpSWxJ0gGcAUFVX3lxTE51YS1YYndaU08yNzl6NHlWNlBOZDBuem42VWY3S1ZiOVd2T1JXaUZiRExhQWZLeEtIaENOX0h2NFNtNDdCd2FxX2NJeWcxcWxjeEE4WG5CUHNNUkp3TDd3MFNYSERZWEpsQ2FacjUyX3JpNHFlVWZ6SDRiekZLSEtoc2IxTU5SNHdOX1o2RDZlTW1jbUFsVnQ1TEhvXw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-08T20:33:17+00:00"
     },
     {
-      "t": "\"이례적으로 강한 고용\"…미국 금리인상 확률 '매우 높음'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Id3ByeDlINEpXcHB6M1JWZnFwdENFc29US19wMXhKN29KNm9TVEI3YXUtNFRNWG5iN21TRGRmZG1zU0E3aXFuNTVSQ1pfMXpGYnpWMGJaM0twdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-06T14:28:50+00:00"
-    },
-    {
-      "t": "美 고용 호조에 국채값 하락…12월 금리 인상 확률 70%｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUTByM0hlR21NV2tQSkpmR1JtNHIxbm13VldZZkYwQ29jT0o3T053bnRaTGV1UmlzTzI3ZEJWck4zOUNWWHN3eUpKa3VFaURRaF9PX1g1b2RHbUU?oc=5",
+      "t": "“워시, 트럼프와 거리두기 할 듯…12월 美금리 4.25% 유력”",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tNnlpMXo0M2d3X0RrNmVvQWhjdy1jaXBPUy1wczlPODF3ZmlxYkZxQXdsU211SVo2dDN2T1ZpQ2d3R2FEVVpha3JCd2poZDRfV2JSMlF3?oc=5",
       "s": "중앙일보",
-      "d": "2026-11-06T14:28:46+00:00"
+      "d": "2026-11-08T20:12:40+00:00"
     },
     {
-      "t": "[글로벌 특징주] 찬밥 신세였던 반도체 패키징, 칩 가치 절반 넘보는 '귀하신 몸'으로",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YOTNKNG5sQ2ZQYU1YTk5VVnF4Z0d4WDNVMnpaaU1Vblpxd2JnelhyRjdkcENtRGtCT25naVU2SFZoUXAtWV9fVGlWUm1IRUJEa21zQ0pqODlobTlX?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-06T14:25:00+00:00"
+      "t": "[사설]암초 만난 AI 붐, 반도체 전략도 유연하게 대응해야",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzh4QktSNlZBTGZZU0FBcGNJZWhTWjhQM01YS1YySHNuWnE3RDFtWDdsZFZ2RkxKajNMYWVGMTBCMWpubGJnMUhtdlBXWVZmQUxtSU14WE9RVWtINUtseTJTZjl5bDJGZ25lVW9XSHZheXQ4YjFraVNoVGlvSE1tTA?oc=5",
+      "s": "이데일리",
+      "d": "2026-11-08T20:00:04+00:00"
     },
     {
-      "t": "증권사 신용융자 담보비율 의무 '3개월 면제'…증시 변동성 대응",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSmt3SXZ0dk0xTVdKbk1jNW5kcjU2cUtSaHBwWFNZZ0YtZ0lJT3drQmVwY1p0d2g2ekZUQnBlNzk4SXpTV050U0NCbUhfZ1RjdWp2Znc5V0FxZUlR?oc=5",
-      "s": "한국방송뉴스",
-      "d": "2026-11-06T14:07:17+00:00"
+      "t": "9000 찍고 도로 5000…증시 널뛰기에 기업 자금조달 기능 ‘고장’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pUk0xTmF3a01kaFNLX2ozNERDR25palg3Q0dPVnlycXc2OWxsblFkQ3RZRmdFT3dPdzMxRWxoWV94ZTR2XzkyVUdBNWZHUjlqVFVOeHF3?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-08T20:00:01+00:00"
     },
     {
-      "t": "[마감시황] ‘검은 금요일’ 맞은 코스피 5000선 턱걸이 마감...서킷브레이커·매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnMzNfYTlCT3p0dGJtSGxYR0dSZVlfdVdiNTVUYXBzUGthVTFfbFRRdHZVNGtqYUxsSWVtUXJmS1lncGVXcldYRTVjMW5zdDgtZEhSak1YeVJrRmg1RTllX1Etd2U3aXdXeWpMSm9GZHRiZw?oc=5",
-      "s": "한양경제",
-      "d": "2026-11-06T13:55:44+00:00"
+      "t": "증시 폭락에도 멘탈 지키려면? … 장기 투자 방패 TDF에 주목",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SNjZxXzh1djlnRkJBSVpsbFJXZkd5LXpTa0RQU0plWHpCc0IzNFd4TUFZOWpBYnJUbVh4S1U2WTRGM3F4S2Y0LXNZYkFlcGVSYUE?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-08T20:00:00+00:00"
     },
     {
-      "t": "증시 폭락에 트럼프 “멍청한 민주당 때문…이들에 투표한 스스로를 탓해야”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4MDVWaXQtVzFycXVncFM0NzJUMTZDRkI3cUxaMzc0SEtWNzFscnQwWkxTZVBuU0t5bHlwNmVkWFBHc2VEZ0dUSk03SnZoODlEanc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-06T13:27:45+00:00"
+      "t": "美 블루쓰나미에 다시 고환율…반도체·조선 '수혜 기대', 철강·석화 '비용 부담' 희비",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41clVZWTNvbXBna2Rya0o4YzI3WV9vVU9DTWFuZzMyTzdNQnRLcEctSzV5bFVoV2M2RUtfYUEtelBCRVhGbUNwN25jaTBaWU1GaE03TXAzZUNRd2kwR19PQtIBeEFVX3lxTE5xZnNNeXBER0VaaTM5WUVxWnBHYkFpcUpZTjhsV2RhcXZMb2ZDalVJODdtdVNDaG44bG9Kdjd1SVpCdGhWb0c4TjFfXzdxX1VDMXFrUE5vYkItRGk4VEZfWEN4WW9kWUp3NHdCVnl0SVUzUzN4bkRlSA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-08T20:00:00+00:00"
     },
     {
-      "t": "BOE 수석 이코노미스트 \"금리 경로 미정…성장 정체시 인하할 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QaWg5el9tZEI4RWdvcnNZTzNnM05HWUxEYU1xdlVxNmVfNXZGdlhlOHdXT1FPSDg1SjVrUm44NlA2M3pueUdRTXEwZ05GRlltTVZ2bmFhaFNxa3U0SUpPMTNfQXZaazFPLUpISUFjcDY3UQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-06T13:25:33+00:00"
+      "t": "\"증시 하락에도 비관은 금물…지금은 '손절'보다 인내할 때\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TG9UdUt5SlpBR1hYVGpXRTVUOWNYZFZJWUdwSHRhQ0FkRzhJUHFqcFRLTXc1T3FONFpFRkRlYkpyQnRBWkZfRGpsaFR2d3VhUFZDbnFvVjFmdVZtZmJxVdIBeEFVX3lxTFBwS0kwM0xvMU9OOEczZTRIaW9tbDQwVGo4WkZsa3dXc2gxUXl0STg2bXFIVHJYRzJValBZZ2plS21BUFNrX1BxekVHSW5kajlEU0J6ejZhQ3Bwc19lMUV5NkUxMnVKQUhPV2dyRUoyeUVGWmJDcTR2aw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-08T20:00:00+00:00"
     },
     {
-      "t": "달러-원, 뉴욕장서 1,350원 후반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pVHhhRTUyb3pOcDc0LW94YWtaMld6QXJndUZHeE1NeTBZUGNQVHdwamVmWl9FZm1PX25HdFlPVk5qbjM1WWtzY2hNbDZ2dG9TdFY5MWxoRlhVUUJfNURhWjNsUlF6czNxd0lPWWpFOV84UQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-06T13:22:12+00:00"
+      "t": "외국인 8.7조 '셀코리아'에도…반도체 달러 덕에 버틴 원화",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZzFGMG9hQW9GSjZvdWFPQ1RCMWkzc19MakR3UEEyZUZoNjF6dG1hT2lsaTdmbGx2OS1aM19xdFptVDlnOFRYdmlTM05hMDROOHRwdm1XZGVKR0I5ZE1RNm1GQnUtVEk4dTZPM0xqUlFPUHZ3NWdpbDNxOUtVUkxvaA?oc=5",
+      "s": "이데일리",
+      "d": "2026-11-08T19:58:02+00:00"
+    },
+    {
+      "t": "[N2 포커스] 코스피 5,000선마저 붕괴…증시 바닥은 어디",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLSkM3YkpCVS1QTG1MNVV5RFVoZUVuMjFpdDlEUldzdkhhajVSX3dTYnZYdjFVS254MzVwbS1FSTlaRWJ5SmszS0cxb0d4SEZNV1NUbFozOXN2ZUNqZGc?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-11-08T19:21:22+00:00"
     }
   ],
   "asof": {},
