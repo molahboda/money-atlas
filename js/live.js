@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-09T05:45:34+00:00",
-  "quotesAt": "2026-11-09T05:45:34+00:00",
-  "newsAt": "2026-11-09T05:45:34+00:00",
+  "fetchedAt": "2026-11-09T06:00:34+00:00",
+  "quotesAt": "2026-11-09T06:00:34+00:00",
+  "newsAt": "2026-11-09T06:00:34+00:00",
   "quotes": {
-    "kospi": 5077.89,
+    "kospi": 5066.46,
     "spx": 7376.86,
-    "nikkei": 59031.74,
+    "nikkei": 58846.07,
     "vix": 25.64,
-    "krw": 1352.38,
-    "gold": 4135.5,
-    "wti": 90.47,
-    "dxy": 102.11
+    "krw": 1351.73,
+    "gold": 4131.8,
+    "wti": 90.35,
+    "dxy": 102.12
   },
   "daily": {
     "spx": -4.05,
-    "kospi": -5.68,
-    "nikkei": 2.78,
-    "krw": -0.29,
+    "kospi": -5.89,
+    "nikkei": 2.46,
+    "krw": -0.34,
     "dxy": -0.18,
-    "gold": 1.49,
-    "wti": -0.4,
+    "gold": 1.4,
+    "wti": -0.53,
     "vix": -9.01
   },
   "news": [
+    {
+      "t": "중국, 대미 24% 추가관세 유예 내년 1월까지 연장",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EelNjempDdnFlZEFlblBGMHNaSTVjV2tPYXlpaXR0azJsUWJvNVhabUthTlB3Ulc4SDBxSDByOXNPRG80RDZtTHdpekhxc21NdXNSZFBtQ3puM3VV?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-09T05:59:00+00:00"
+    },
+    {
+      "t": "금리 상승기… 생보사 기본자본비율·지급여력비율 '폭락' 위험",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAySy02VW9VMmg2S2xlekZHT1dNQ1RBOVFLbUg0c05NOGRjb1BndDV3UldmWWJWTGtmb1gycEJnU0VMZF9xUWRpNEJ1YUZSd0VyanZURjNTekg0TjFOYkdEVDV5Mzg?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-09T05:53:39+00:00"
+    },
+    {
+      "t": "中, 미국산 제품 24% 추가관세 유예 2개월 연장",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pMG1DZ2psVE1uRFVNMFBRTHVBZHR2QVFkWEtLekxicUtveFJtSXpjb0YwWHFKQ1drOEJFMGRoMHp6Sjk3NUI4Q0ZFQklmVS1ScmV2dWV2M0VPTFZjeU51Sw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-09T05:48:33+00:00"
+    },
+    {
+      "t": "얼굴은 19년 전 그대론데 물가는 '헉'…남규리, '만원의 행복' 찍다 당황한 이유?",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55U0hlWW5OcVpFUkdTVDNkWTlwb080T0t1UE5CUXo0OEp5RnZ4YWJ1OWl4ZktBMFZWdzdvN01tRm8wRGNjalBCYmRXMU1UNGdLVG5hZ3RhdE5POWdoc2xuYlVn?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-11-09T05:47:00+00:00"
+    },
+    {
+      "t": "[기획] 팹만 짓는 게 아니다…용인 반도체 산단 공공공사 2조원대 발주",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUVV3cTcyNEVKSHZYYk5hTDlCOVVxaWF6ZEZLcFZicDVIeHVMLWhNdE4tbzBHM2tTMnJWeXhSUGI0MmdodmV2bXdMYzBaazNZamMxWkdPdS1QalJMNmtUaWRGbTk?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-09T05:44:37+00:00"
+    },
     {
       "t": "램리서치코리아, 삼성 반도체 식각 공정 레시피 빼갔다",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rV1JSVWY5SDlxYUhpN09fNV9aX2NqQWVTV3VjZWxLWEg1V1N4cGtTODQwRmlwRl90aGVlOEt4OWFUcEhIaENaZ0d6b3VyUl9FZTlFM3kxLW1hdDU5THVXU3E1WEtDQQ?oc=5",
       "s": "디일렉",
       "d": "2026-11-09T05:43:20+00:00"
+    },
+    {
+      "t": "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRDNaTFhzMnhhc2txRGd2N2NPSkxZMEEwR195SGE4RkE1cmRYSUMwdFJSODRsNlZ3TjRMVmRCNE9FZEI3SUdZRXM4Nk9WRXdpN3AxSmZQOE40UdIBX0FVX3lxTFBodGN4ZnRqMWZ5WloyTjBrWTlpdkFFdm9RMVJOS0FBc21uN1NnRGd4b2NtdGlQTmQzNE5lY25vS2FwSW9SVjZjYm9LbWJrRTJGWjJEc1p3Tkxfc1RvTlNv?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-09T05:40:00+00:00"
     },
     {
       "t": "[동네톡톡] 삼성·하이닉스 품은 용인… 시민들도 반도체 공부 삼매경",
@@ -43,46 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-09T05:40:00+00:00"
     },
     {
-      "t": "금값 방향까지 바꾼 미국 중간 선거",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLWxjM19pR2d5V0dvS2xYc0VSSFZUYUVOeDZsYUczRWNNNjctLUdRUzhyWmVzWElSaHFJUExEeDVIRGJ5NjhxZ1V5ZHcxSTVpaDJpODJ3?oc=5",
-      "s": "지디넷코리아",
-      "d": "2026-11-09T05:37:52+00:00"
-    },
-    {
-      "t": "반도체 특수에 삼성물산·삼성E&A·SK에코 '쾌재'",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWG9NRDB0NVhiX0ZLREZuRVAwM0I0cUdfV3hTZVd4YkpCR3l0d01mUExQRkd6ZHhjTGdTVzlaRklXYUlXaW9BeU9KbVRrZjd1ejZZSFg4bWxrTDZYclU5MktvNUw?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-09T05:35:20+00:00"
-    },
-    {
-      "t": "美 반도체 세액공제 시한 임박…삼성 테일러 2공장 요건 충족 촉각",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWlEeFVvX0Y3Q3Z0VGhvSjdMQnpvQzJSblBEdW85cF9NVVZnaDBJb08tbXR6TXQwSWQ1TTVHNjl4T25qU0NzM2JBMUh6aDlVUzBRckRwcERtcThkZzBKcHNBR1ZFUHlKd1F0Vlhncm1kTnV5UVZrRThOTTg1SHdOV3ZucW5EUQ?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-09T05:33:54+00:00"
-    },
-    {
-      "t": "SKT·리벨리온·엔비디아, ‘AI 반도체 동맹’ 결성…“GPU·국산 NPU 결합 추진”",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VUk5KNUFoV2Jsd3FnLXlHT1o1WjJaU09BelpkUTg2WFh0S1d6U28tWjhpeEtoRUpITnEzdHVZUmphRWtWUmVFa1oybzVXMHdl?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-09T05:33:41+00:00"
-    },
-    {
-      "t": "“디저트 카페 사장이 반도체 예산 심의?”…6조 호남 반도체 ‘비전문가’ 논란",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nYWt6dkltS09FQ3FJWXdXOEM0T2hzTDVaN1dlVXFPUVBHS0NERDRVdGpERm55anRTa1hKdTZJSk5NeDR4V0R2NHVJQ0NYUkE1TFRQbnBCX1FEZWNTdXlVOUpLOHU0MERlWGlTUnUyRWo?oc=5",
-      "s": "서울신문",
-      "d": "2026-11-09T05:30:22+00:00"
-    },
-    {
-      "t": "AI 인프라 수요에 광물 가격도 고공행진…반도체 소재 원가 지속 상승",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR3pjY05lWHdrRk5yQzRUMElYVDJsOFBBclhMYWFDMnZpU0NsQ01ZS192WV9zV1FZVEEwekN5Mk5JbUJ3bzlFZjMzN0FyRE1YNmVHRkZLdHEzdDA2T1lYaHJGSmFiZHJfTmlmRHhNejdjWEZObTVteUN4c0RZSnJDWlZQU1BJUQ?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-09T05:30:17+00:00"
-    },
-    {
-      "t": "주담대 금리 상단 9% 찍은 인뱅…경쟁력 '의문'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9veHd4cnlaSFVCclh1XzdlVUh6b25lZFJNdlV4bFJmbkl5aFNQVzRtMHgtLWdDRkZOdHNaM0hLZW0tdnkwUW5kbFFIa0E2N3JFYllhdmUtZFQ4V2lGLUlQNA?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-11-09T05:28:02+00:00"
+      "t": "24% 관세 유예 두 달 더…중국, 미국산 제품 10% 관세는 유지",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2TlNzbDNJclZxWGhmUXBweDBoLUV3REExY1dOS1BCWS1hY2huVVgzcXRfSm15WHpNSmloSTUzZnZ6dlhIWlZGSG5iOVltbWsteXkxS0hOWFBweV9pQ2NTYXRVTUdJSWV4cjQxdGFSaw?oc=5",
+      "s": "진일보 | 전남일보",
+      "d": "2026-11-09T05:39:54+00:00"
     }
   ],
   "asof": {},
