@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-09T15:45:41+00:00",
-  "quotesAt": "2026-11-09T15:45:41+00:00",
-  "newsAt": "2026-11-09T15:45:41+00:00",
+  "fetchedAt": "2026-11-09T16:00:34+00:00",
+  "quotesAt": "2026-11-09T16:00:34+00:00",
+  "newsAt": "2026-11-09T16:00:34+00:00",
   "quotes": {
     "kospi": 5018.85,
-    "spx": 7519.87,
+    "spx": 7538.14,
     "nikkei": 58775.5,
-    "vix": 21.03,
-    "krw": 1345.75,
-    "gold": 4128,
-    "wti": 88.11,
-    "dxy": 101.92
+    "vix": 20.97,
+    "krw": 1345.24,
+    "gold": 4129.3,
+    "wti": 88.19,
+    "dxy": 101.91
   },
   "daily": {
-    "spx": 2.26,
+    "spx": 2.51,
     "kospi": -6.78,
     "nikkei": 2.33,
-    "krw": -0.78,
-    "dxy": -0.37,
-    "gold": 1.3,
-    "wti": -2.99,
-    "vix": -17.98
+    "krw": -0.82,
+    "dxy": -0.38,
+    "gold": 1.34,
+    "wti": -2.91,
+    "vix": -18.21
   },
   "news": [
     {
-      "t": "중국, 대미 24% 추가관세 유예 내년 1월까지 연장",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EelNjempDdnFlZEFlblBGMHNaSTVjV2tPYXlpaXR0azJsUWJvNVhabUthTlB3Ulc4SDBxSDByOXNPRG80RDZtTHdpekhxc21NdXNSZFBtQ3puM3VV?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-09T05:59:00+00:00"
+      "t": "굴스비 시카고 연은 총재 \"서비스 물가 다시 상승…인플레 대응 실패 인정해야\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UMUw0NTB6WkE4akJiaUZfdGQ0R2xYUUpvNk9Gako4NkxoTnJsLUdWcm5lSjdvSkZ4Q3AzZ1pWWjJfUTlYVzM3d09UWVFubE9w?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-09T15:41:12+00:00"
     },
     {
-      "t": "금리 상승기… 생보사 기본자본비율·지급여력비율 '폭락' 위험",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAySy02VW9VMmg2S2xlekZHT1dNQ1RBOVFLbUg0c05NOGRjb1BndDV3UldmWWJWTGtmb1gycEJnU0VMZF9xUWRpNEJ1YUZSd0VyanZURjNTekg0TjFOYkdEVDV5Mzg?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-09T05:53:39+00:00"
+      "t": "ChipMOS 실적 발표 앞둬…AI 반도체 호황에 추가 성장 가능할까?",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pVDNiSUZ0UlB4ajNHU0EwbEd5OFYxRkRVR2JVZDV3MjB1cE5ILS1PckgtZ0F4X1kwV0JDYUpFVzVCbGFLM0RWNks4Z25JUHNqeFRSX3lXaWNkN2NrVDhBVWs3SnVoQUNqcm9V?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-09T15:36:00+00:00"
     },
     {
-      "t": "中, 미국산 제품 24% 추가관세 유예 2개월 연장",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pMG1DZ2psVE1uRFVNMFBRTHVBZHR2QVFkWEtLekxicUtveFJtSXpjb0YwWHFKQ1drOEJFMGRoMHp6Sjk3NUI4Q0ZFQklmVS1ScmV2dWV2M0VPTFZjeU51Sw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-09T05:48:33+00:00"
-    },
-    {
-      "t": "얼굴은 19년 전 그대론데 물가는 '헉'…남규리, '만원의 행복' 찍다 당황한 이유?",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55U0hlWW5OcVpFUkdTVDNkWTlwb080T0t1UE5CUXo0OEp5RnZ4YWJ1OWl4ZktBMFZWdzdvN01tRm8wRGNjalBCYmRXMU1UNGdLVG5hZ3RhdE5POWdoc2xuYlVn?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-11-09T05:47:00+00:00"
-    },
-    {
-      "t": "[기획] 팹만 짓는 게 아니다…용인 반도체 산단 공공공사 2조원대 발주",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUVV3cTcyNEVKSHZYYk5hTDlCOVVxaWF6ZEZLcFZicDVIeHVMLWhNdE4tbzBHM2tTMnJWeXhSUGI0MmdodmV2bXdMYzBaazNZamMxWkdPdS1QalJMNmtUaWRGbTk?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-09T05:44:37+00:00"
-    },
-    {
-      "t": "램리서치코리아, 삼성 반도체 식각 공정 레시피 빼갔다",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rV1JSVWY5SDlxYUhpN09fNV9aX2NqQWVTV3VjZWxLWEg1V1N4cGtTODQwRmlwRl90aGVlOEt4OWFUcEhIaENaZ0d6b3VyUl9FZTlFM3kxLW1hdDU5THVXU3E1WEtDQQ?oc=5",
-      "s": "디일렉",
-      "d": "2026-11-09T05:43:20+00:00"
-    },
-    {
-      "t": "국산 AI 반도체, 엔비디아 생태계 올라탄다···SKT-리벨리온 3자 협력",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqRDNaTFhzMnhhc2txRGd2N2NPSkxZMEEwR195SGE4RkE1cmRYSUMwdFJSODRsNlZ3TjRMVmRCNE9FZEI3SUdZRXM4Nk9WRXdpN3AxSmZQOE40UdIBX0FVX3lxTFBodGN4ZnRqMWZ5WloyTjBrWTlpdkFFdm9RMVJOS0FBc21uN1NnRGd4b2NtdGlQTmQzNE5lY25vS2FwSW9SVjZjYm9LbWJrRTJGWjJEc1p3Tkxfc1RvTlNv?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-09T05:40:00+00:00"
-    },
-    {
-      "t": "[동네톡톡] 삼성·하이닉스 품은 용인… 시민들도 반도체 공부 삼매경",
-      "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlFYeWljWVVkdlczNmdYMEszVnVkbHRwSnR3ZDdoVDN6ZVo0dFFQRDVscm12a3lCNG1jTzk3bkhpRjVwTDRmczJZaXpTcXVScEo4LWM2cDhUMGVZVlNSRXhCMGRxcVFJWXhUOFV0Q1pBY25SMFNWVEZKXzJBUk5rSXhIQ1daeF8xUlHSAZ4BQVVfeXFMT2d2M2FEZXVYdjNlSFpuU3o2VE52S2kyNHRtTE5fcFBUSjUzampCVGh2RUZfcFhTbzJveGwzd1JxWHJPOS1lVW9VYTdEaGFBdDNmZmZlNUhDTHBTcmFGdmpuMlZnbUZPLXJocDRvSlY4VTVURWRGanJ5YzZ1cjJTNE1oa1l0VmhlY1hKSDhTYlRwUE95YWE2aHZXc2hlVGc?oc=5",
+      "t": "줄어든 증시 거래대금에 증권가는 ‘MTS 전쟁’",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzYzOFBOVG94VXlYT29wU2xrdVBLemphT0pTTkJ0RmtQSjRIYW5UZDFsUkV1Y25EYnVDbVFnVWFTbVVKdUdFeHVLZ0h5bUg5bzRyTG9UalZ1c0FYRmJkNnNiZEppSG1fd09sdnpVMTJXdlJfUGZuUVRmTm51NmRNVUlOazhjY2Qz0gGcAUFVX3lxTFBfbWI1Y3JwOEFQaDUtVTI2dzMtbko0bDc0ZVQ3WGFkT3pCaFkwdUl4SjZxNW5UZXNIVWNEYlFUbTNGVGpPN1FEeHkyWmxnQWlCY3pNME1QR05tWGxCQzR0U0JSeXkwcUZicVFXenVRVFR4U0h3cG5uUldFS0FQV3dDV3g0RzVxNm4tX2xrTWQwZ2JqMmtrOFEzRjNUdg?oc=5",
       "s": "Chosunbiz",
-      "d": "2026-11-09T05:40:00+00:00"
+      "d": "2026-11-09T15:36:00+00:00"
     },
     {
-      "t": "머스크 반도체 공장 '테라팹' 본격 시동...日 장비업체에 발주 타진",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PX3c2XzZnbl90UEZqb0NTX1NudGZqWTlaVUxwRWgtWkJiSTNodjIyMGUxbXE2ZzZqQnhYTHljeXdLNkY1Q0tCZnl4NzU1ZU9wSFdSMjRaNUhJNzFM?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-09T05:40:00+00:00"
+      "t": "[주식 매매 상위 종목 및 환율] 2026년 11월 9일자",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXd2Z2pDQm1ZUTJheTF6NGhNYk9ESno4T0lTT1FZWTZNX1NHMWlOZ3QwLUVUR25QNUhjZlFPYmQtSk84Z1owVjRucVktUWVGeVhlcWxZQUV1WTJhOHUyNGc2b2FnTnNkMFI4MXF1TU5oa0xFNWRKLWhZVlAyU2VsT1FNaVUxNXEt0gGcAUFVX3lxTFB0VmNLT2taODcyQ0dmM2d2c2lqTzhiTXFXMjFMWF9NSjJ0OTF2OUhxcTBGblJiN3BzOWdIRlFoRWJaTXdiandSS3I4ZDFOcThqX1hRUlZhX256VUxXakdPNzkybTJrX3E2Z1NMVUhCSm02SnJDeVpzZFlGbHF5LWFhU2IyMkJ4ZmJNUVJ0MDJsUV9rQ2stV2h6cUh6dg?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-09T15:36:00+00:00"
     },
     {
-      "t": "24% 관세 유예 두 달 더…중국, 미국산 제품 10% 관세는 유지",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2TlNzbDNJclZxWGhmUXBweDBoLUV3REExY1dOS1BCWS1hY2huVVgzcXRfSm15WHpNSmloSTUzZnZ6dlhIWlZGSG5iOVltbWsteXkxS0hOWFBweV9pQ2NTYXRVTUdJSWV4cjQxdGFSaw?oc=5",
-      "s": "진일보 | 전남일보",
-      "d": "2026-11-09T05:39:54+00:00"
+      "t": "[뉴욕증시]국제유가 하락에 일제히 상승세…엔비디아 4% 급락",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEdjV4VnRoc2ZKajJuenhHZ0pKbmhGV25mRTVMQk5YblhBN2tDNWkzRXpiZkNvMDZ4Nkg1RnQzdlBDRElpRktRSktQa2x0TWdPaFpNRUlrNVViS216X2t6aA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-09T15:35:37+00:00"
+    },
+    {
+      "t": "[속보]뉴욕증시 상승 출발…‘젠슨황 불륜’ 앤비디아 7%↓",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0UFBvZnRhS1ZFcndQbW1GU1FRYUM4R3llb3FRekU3RTFrLW5seGtSRjNMald4YWtuT1dIWlcxdXBzeFUzUzhqRGl1MTZiSGl3?oc=5",
+      "s": "문화일보",
+      "d": "2026-11-09T15:35:19+00:00"
+    },
+    {
+      "t": "코스피 출렁이자… 투자자들, 안전자산 피신 확산",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRzI2Rkc3MVdHN0pkV1pUOTdTMG5XRmZiMXZ0dmJFM2hZeUk2Z2lpYTJUS3BfUjBmLVdmbHFSazU0OXptTFc2bDk5cmNqdHZ2Z1ZJYzNjZFFZUEMxeXAtbGJaQ2djcW1ORFU3bjBzMXdlUVVFMFHSAWZBVV95cUxQV2VMaG9Idl9TY011X3VPM3hZRlVUNFk3Rl9OdkVCRF84OW9aSDdwbWpBMGg2ZUQ5bHQwQW9KUkpaajlid3FZQkh1YVctTHdEVjhGUEhlak9UMWJuN3NDa3dGQnBXZ3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-09T15:30:00+00:00"
+    },
+    {
+      "t": "美 국채가, 유가 급락에 강세…트럼프 유화적 발언 영향",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYlQ5N3RNNTRtcnpldEFOZnQzcWk0WXUwY2xfTk9BQ0ppM3dmUU1KS29RQzFWUFlnUXFHOVdDeFpYYk9jYjdpZUpNQUlreFZWMFFFbHh4U1NJMTQ0T0sxTWpJdV9SZFE5Z01Jb3RMbzBZUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-09T15:02:42+00:00"
+    },
+    {
+      "t": "[김대호 진단] 반도체 열전 (69) 마벨과 루멘텀의 통합... 데이터센터 속도 혁명",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVZOSkFxS0stT21Xb29JaUFLUnMxTUtjRHJxTHVUaGxraGNiY0V1OU9sbHI2dFpQSElYcDlrTjZTR1dIRlI4MFZVSUwwM2lGNFBPQUV4VnNoMjIzLTMxQjU1SnVGNWc5LUZsZ2xERkF5dS1Jb3hUZmR0Ty1FcXl4cURrRHA?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-09T15:00:00+00:00"
+    },
+    {
+      "t": "26일 금통위, 기준금리 0.25%↑…‘3.25% 예상’",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kamRLaFg4SHF2dFlyMW1KVDdYdWVSdUNMTEsxd0ZJYU9UNzdWaGl6LV9SbHYzbGUtM1Nzd1FqXzZTcFhzZkxnVjNvV09oS2ZGdk1FX2tMejFETFQ5Q0tXTFpyRnNpQUJ2?oc=5",
+      "s": "애플경제",
+      "d": "2026-11-09T14:53:24+00:00"
     }
   ],
   "asof": {},
