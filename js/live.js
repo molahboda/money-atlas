@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-09T16:00:34+00:00",
-  "quotesAt": "2026-11-09T16:00:34+00:00",
-  "newsAt": "2026-11-09T16:00:34+00:00",
+  "fetchedAt": "2026-11-09T16:15:34+00:00",
+  "quotesAt": "2026-11-09T16:15:34+00:00",
+  "newsAt": "2026-11-09T16:15:34+00:00",
   "quotes": {
     "kospi": 5018.85,
-    "spx": 7538.14,
+    "spx": 7523.15,
     "nikkei": 58775.5,
-    "vix": 20.97,
-    "krw": 1345.24,
-    "gold": 4129.3,
-    "wti": 88.19,
-    "dxy": 101.91
+    "vix": 20.51,
+    "krw": 1345.01,
+    "gold": 4134,
+    "wti": 88.17,
+    "dxy": 101.92
   },
   "daily": {
-    "spx": 2.51,
+    "spx": 2.3,
     "kospi": -6.78,
     "nikkei": 2.33,
-    "krw": -0.82,
-    "dxy": -0.38,
-    "gold": 1.34,
-    "wti": -2.91,
-    "vix": -18.21
+    "krw": -0.84,
+    "dxy": -0.37,
+    "gold": 1.45,
+    "wti": -2.93,
+    "vix": -20.01
   },
   "news": [
+    {
+      "t": "국제유가, 트럼프 이란 추가 공격 자제 신호에 하락…WTI 90달러 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODNvcnhfZ3JEXzVlWC15ZjhPTmo4N091QkdNaVFXUG1XWnNrTkZuUkpMTktySngxMlZSYnlBYXV6SWhqUkZvZTA0eU8zc2hhRU85b01iazR2b0pJd1NQUGZrQTRWeEk4cnhwSC0zU1A1VDkwdkVmeDFtcERnZjFCclEwMHBMQlRr?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-09T16:00:00+00:00"
+    },
+    {
+      "t": "용인교육지원청, 관내 중학생 3천명 대상 찾아가는 반도체 진로체험 버스 운영",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLaGdybWkwTjNDZ3JRc1RBV1dQaTlqVlEtVXphWi1yeldXaXB5QVFiczJLRE1GRDQzT0dsWjczUXh2Nk10eWNCS1FKTmVZS0xRM2lINWtCeXpLM0pGSEFEOVcxQkxCTG9ZZi1r?oc=5",
+      "s": "일간투데이",
+      "d": "2026-11-09T15:53:13+00:00"
+    },
     {
       "t": "굴스비 시카고 연은 총재 \"서비스 물가 다시 상승…인플레 대응 실패 인정해야\"",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UMUw0NTB6WkE4akJiaUZfdGQ0R2xYUUpvNk9Gako4NkxoTnJsLUdWcm5lSjdvSkZ4Q3AzZ1pWWjJfUTlYVzM3d09UWVFubE9w?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYlQ5N3RNNTRtcnpldEFOZnQzcWk0WXUwY2xfTk9BQ0ppM3dmUU1KS29RQzFWUFlnUXFHOVdDeFpYYk9jYjdpZUpNQUlreFZWMFFFbHh4U1NJMTQ0T0sxTWpJdV9SZFE5Z01Jb3RMbzBZUQ?oc=5",
       "s": "KB Think",
       "d": "2026-11-09T15:02:42+00:00"
-    },
-    {
-      "t": "[김대호 진단] 반도체 열전 (69) 마벨과 루멘텀의 통합... 데이터센터 속도 혁명",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVZOSkFxS0stT21Xb29JaUFLUnMxTUtjRHJxTHVUaGxraGNiY0V1OU9sbHI2dFpQSElYcDlrTjZTR1dIRlI4MFZVSUwwM2lGNFBPQUV4VnNoMjIzLTMxQjU1SnVGNWc5LUZsZ2xERkF5dS1Jb3hUZmR0Ty1FcXl4cURrRHA?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "t": "26일 금통위, 기준금리 0.25%↑…‘3.25% 예상’",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kamRLaFg4SHF2dFlyMW1KVDdYdWVSdUNMTEsxd0ZJYU9UNzdWaGl6LV9SbHYzbGUtM1Nzd1FqXzZTcFhzZkxnVjNvV09oS2ZGdk1FX2tMejFETFQ5Q0tXTFpyRnNpQUJ2?oc=5",
-      "s": "애플경제",
-      "d": "2026-11-09T14:53:24+00:00"
     }
   ],
   "asof": {},
