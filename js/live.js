@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T20:15:34+00:00",
-  "quotesAt": "2026-11-10T20:15:34+00:00",
-  "newsAt": "2026-11-10T20:15:34+00:00",
+  "fetchedAt": "2026-11-10T20:30:34+00:00",
+  "quotesAt": "2026-11-10T20:30:34+00:00",
+  "newsAt": "2026-11-10T20:30:34+00:00",
   "quotes": {
     "kospi": 5239.13,
-    "spx": 7510.04,
+    "spx": 7515.06,
     "nikkei": 60459.58,
-    "vix": 20.02,
-    "krw": 1342.75,
-    "gold": 4034.7,
-    "wti": 86.3,
-    "dxy": 102.26
+    "vix": 19.98,
+    "krw": 1342.6,
+    "gold": 4039.9,
+    "wti": 86.41,
+    "dxy": 102.25
   },
   "daily": {
-    "spx": 1.81,
+    "spx": 1.87,
     "kospi": 3.55,
     "nikkei": 2.87,
-    "krw": -1.46,
-    "dxy": 0.6,
-    "gold": -1.94,
-    "wti": -0.63,
-    "vix": 0.5
+    "krw": -1.48,
+    "dxy": 0.59,
+    "gold": -1.81,
+    "wti": -0.51,
+    "vix": 0.3
   },
   "news": [
+    {
+      "t": "美연준 고위 인사들, 금리인상 가속 시사…12월 '빅스텝' 가능성 부상",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zMzlUN0Q3MnRqNlBIcmhicV82cHdETjF0dDJWWDduNWkzdVdnNEgzYU9HSENnbUUyQmlQdU9VcFBkSDBDMWh3OGZUQ1FzNEl2dHowdVNTT1JfRlo0UUtfU2pTRDE1UFE?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-10T20:20:05+00:00"
+    },
+    {
+      "t": "[월가 레이더] 美 물가 0.4% 쇼크에 뉴욕증시 하루 만에 반락…엔비디아 또 7% 폭락",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kcmlQVXV4bHZSSzBCQVE4Z1R3N1dqY0JIWjdvdjFxMXQyUDZSUmlvWEFwWVBzenJxa1EyRGp1V2R0VnRUWVN5Y0ZLQVB0THhpdVZQTUFKeENRSDd0LVE?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-11-10T20:17:12+00:00"
+    },
+    {
+      "t": "[뉴욕유가] 중동 안도감 속 달러 강세에 WTI 0.9%↓…2개월여 최저",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwR1g0Z2RJekdJMXJEWi1zWG15V2tXcjdRVmdqSUY5aTZGelA1M3VuOUN3ZnJwSlRXYlVFYWxEU2k5MVVGa2hfSTFxaXltZWtITWtxbkRmUkl6OGhvSUFINmNnTnpnYkU0cUFGZWNINTBjQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-10T20:05:47+00:00"
+    },
     {
       "t": "美 국채 10년물 금리 장중 5% 돌파…물가 상승·연준 빅스텝 가능성",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CMHZiUG94eHhMUVhseXVvNVVxU3dRc2ZnS09US0t6Uko0Nm85d1dGQ25KaDlhWGdfeDhjMFBudjhQeHViVHB5aS1fTXlhTzBFeWF2bHo3R1d2X2l5a1JGbmRqWDBjcmc?oc=5",
@@ -33,6 +51,12 @@ window.LIVE_DATA = {
     {
       "t": "국제 유가 하루만에 5.8% 급락, 2개월새 최저",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBudXpyNWFKOUdmRVdtUHV5eDVVX2QyRHBSeGJybFZaQkNXOVo4Ui1FcXFhQ0k3QXVJOWVQdkppY2kwYWE3RlRvTl9hSlBKZ190V196dWdPWWY3QTZnRzdORTRRdWpBS0RoTmV0cXJyYmNVbWfSAWZBVV95cUxNTXJIUjBDQS1fT3d2UXlzQ2V0ejRvUEhDd1hNQjhrX19kOElSWTE3S01JRTVtd3JZbnd6SGhNa0VzYkxKeXNBYUVNSXA5eDNTMjJXaWZ4eHZFSW40UEd4dWRiRklOVFE?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-10T19:30:00+00:00"
+    },
+    {
+      "t": "김정관 “호남 반도체 팹 배치 이달내 마무리”",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZzhxeTJOLURrU2Y1VUNTcUhyYW14Ty1lb2RwMVlXVFRqM183MDJNZjV5Q2t2RzhqOXVFMFVQQWliTURzZXc1c1hKc0FlV0U0b3lxNDc4Um02SkhYbDRPMTZrTEdEVm9kQlJWdHIzWWJ6TUZHOVc40gFmQVVfeXFMT2VvMGRpNVNLQkY4TERBdklKVXE5YTFNUmNKZjZHbnQ1RDdGQm9LUFpkOEY1MHZsRnFUTUh1VWlNa0g5bDVzanlhS1RLQkZ5WWhsQzlOVGptb0RTWWQ5eDlWT2RaV0Vn?oc=5",
       "s": "동아일보",
       "d": "2026-11-10T19:30:00+00:00"
     },
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MQ1RHNHVTWFFPWks0MzlGSF9IT0c0X0lfSzk5a3g0bzFrZzE4UnBnNWJvT0ZLNGlqb0tVMEw2TDhGQjFfVmk5aWw4Z1JVS2R5NE9sQnlzcUR5azBDRVJyUlpMUU45YTZNZ2c?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-10T19:01:00+00:00"
-    },
-    {
-      "t": "이란 \"美와 협상 재개는 거짓…유가 낮추려는 거짓말\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xeE9xOXJlcU5Vc2ZnQXNrX2NmVlpZZ2w2Q09WSzczcDBtZUJLNFFFTC1zUmw4a1NySktCSi0zbFlHX1YtaElhaGdNMVNkTDA3aWg3ZDN3Y1p2QU5Fc1IwZXFnbFlvUUU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-10T18:50:00+00:00"
-    },
-    {
-      "t": "예상보다 높은 물가에 주택 건설주 동반 하락",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xQWxSWnI0eG80eHhSRUVmUlBDbjl2QU84TEpsS0hic0ZyUG9lVWxtcFp3bkFkWnlnYWZwQTM3bDhycjlNWWhGdVEtN2dFY1p1U2ItWGh2c3plVndXdmotWUc0ZS0yeDUzMk5NLWNfNUQyWFk?oc=5",
-      "s": "마켓인",
-      "d": "2026-11-10T18:46:09+00:00"
-    },
-    {
-      "t": "코스피 상장사 5곳중 1곳, ESG 공시 준비 안 됐다 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQQkhqS2xNbTVsVHdwdkNFc3AwWFBvdXRQZXE4b211Vl9UOHc0QzRwVlA1OGJYU3E1TE9iay10SjhoeEM2Ul9icmN2eEdwbnhyUWV4c1pkOFNweEJfYm1fdTVWWEpBd2Z6Q1J2VGo1WWNod09jMHfSAXtBVV95cUxOazZVaGpmYnI5akhPZENGT1YwSVg3WWozS2xoU3QtZzBZbUhha2hDTHNINWRYQTJkLW1ONWtjWHVuWXNybVZYc0ZEdkxORE96MV93UTg1QWV5Mk1pN1c0blA2OWhKZjRlX2Q1dmZUMXNLSUdZdjNhenB5ZWs?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-10T18:45:00+00:00"
-    },
-    {
-      "t": "도이체방크 \"연준, 12월·1월·3월 세 차례 연속 금리 인상 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Pc2pldHdRRmpIU3B5bzFjZkZFdDZfa3JCQTVadmdIc3ZqcnpKbE83LVJfVmpwSXh1S3QxNExETjRiVEcyUjB1OERnZ0x5aGEw?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-10T18:38:40+00:00"
     }
   ],
   "asof": {},
