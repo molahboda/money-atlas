@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T20:30:34+00:00",
-  "quotesAt": "2026-11-10T20:30:34+00:00",
-  "newsAt": "2026-11-10T20:30:34+00:00",
+  "fetchedAt": "2026-11-10T20:45:34+00:00",
+  "quotesAt": "2026-11-10T20:45:34+00:00",
+  "newsAt": "2026-11-10T20:45:34+00:00",
   "quotes": {
     "kospi": 5239.13,
-    "spx": 7515.06,
+    "spx": 7515.07,
     "nikkei": 60459.58,
-    "vix": 19.98,
-    "krw": 1342.6,
-    "gold": 4039.9,
-    "wti": 86.41,
+    "vix": 19.84,
+    "krw": 1342.54,
+    "gold": 4042.1,
+    "wti": 86.46,
     "dxy": 102.25
   },
   "daily": {
@@ -19,11 +19,23 @@ window.LIVE_DATA = {
     "nikkei": 2.87,
     "krw": -1.48,
     "dxy": 0.59,
-    "gold": -1.81,
-    "wti": -0.51,
-    "vix": 0.3
+    "gold": -1.76,
+    "wti": -0.45,
+    "vix": -0.4
   },
   "news": [
+    {
+      "t": "바우만 연준 부의장, 인플레이션 최우선 과제…내년 완화 전망",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tUm1iakMwZ0RJNDdmSlFIX2oxaUY2NV9SVTZkN0VoMWZEbnNCMzVFY01oNjIybkxfUTZqRzJyNE5sUGNiR1REWGd3akdnLWdscFhvWkwzZXd5R2ZNcmZqbWFKOTFzc3NFTUE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-10T20:33:00+00:00"
+    },
+    {
+      "t": "[금/유가] 美, 이란 공격 자제 시사에 유가 2개월래 최저…물가 쇼크에 금값 급락",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYVBpa29rUURSQk5FZ1M1eE9IWFEtbFhKRXdYN1BWLVJDRzNRT2pSdGhFMDBCelpCMnM0QXcwOHV0V1NxVGhsNzNrMHhUNTJQQUlRSnZrdTQ5WWNX?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-10T20:32:00+00:00"
+    },
     {
       "t": "美연준 고위 인사들, 금리인상 가속 시사…12월 '빅스텝' 가능성 부상",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zMzlUN0Q3MnRqNlBIcmhicV82cHdETjF0dDJWWDduNWkzdVdnNEgzYU9HSENnbUUyQmlQdU9VcFBkSDBDMWh3OGZUQ1FzNEl2dHowdVNTT1JfRlo0UUtfU2pTRDE1UFE?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zT0FQaEdBMXdYR0ZXRUFXbzFEaWZsWWtWS3pUYnB4OXp5WkRtV1Q2V2VqODRYRjJKNzhKLUMtV0xFd3NkZVdKaVY3bHBicU95T1FsYmU5T2pwbjQ?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-11-10T19:20:00+00:00"
-    },
-    {
-      "t": "연준 슈미드 총재, 인플레이션 억제 위해 긴축 정책 지지",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ZVcyRkpCOFgtNmdGS2IwSXh0Mm1NR2daSUlCS2xPeFI1djktd0RiWTc5VnRjckttTlBZdF93dVlXaDdzWGpEbVo5RFJEZ0NHMTRWUWpuajh3eERPZ2V1a2E2MTFBY1p0b2c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-10T19:04:00+00:00"
-    },
-    {
-      "t": "캐나다 중앙은행, 불확실성에도 추가 금리 인상 가능성 시사",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MQ1RHNHVTWFFPWks0MzlGSF9IT0c0X0lfSzk5a3g0bzFrZzE4UnBnNWJvT0ZLNGlqb0tVMEw2TDhGQjFfVmk5aWw4Z1JVS2R5NE9sQnlzcUR5azBDRVJyUlpMUU45YTZNZ2c?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-10T19:01:00+00:00"
     }
   ],
   "asof": {},
