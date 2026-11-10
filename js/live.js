@@ -1,26 +1,26 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T03:15:34+00:00",
-  "quotesAt": "2026-11-10T03:15:34+00:00",
-  "newsAt": "2026-11-10T03:15:34+00:00",
+  "fetchedAt": "2026-11-10T03:30:34+00:00",
+  "quotesAt": "2026-11-10T03:30:34+00:00",
+  "newsAt": "2026-11-10T03:30:34+00:00",
   "quotes": {
-    "kospi": 5238.4,
+    "kospi": 5237.29,
     "spx": 7549.94,
     "nikkei": 60475.78,
     "vix": 19.92,
-    "krw": 1346.04,
-    "gold": 4121.9,
-    "wti": 85.99,
-    "dxy": 101.71
+    "krw": 1344.71,
+    "gold": 4124,
+    "wti": 85.74,
+    "dxy": 101.69
   },
   "daily": {
     "spx": 2.67,
-    "kospi": 3.53,
+    "kospi": 3.51,
     "nikkei": 2.89,
-    "krw": -1.22,
-    "dxy": 0.05,
-    "gold": 0.18,
-    "wti": -0.99,
+    "krw": -1.32,
+    "dxy": 0.04,
+    "gold": 0.23,
+    "wti": -1.28,
     "vix": -22.31
   },
   "news": [
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DeTd5bmV5VWRsblg4ekt4Rks3ekxBU05aQzlIRzVwbjhHR2JEZHVQOW9CTFNNZGZVS3NXSWVmRmhtX180RU9VUUZJTUpodkhyWXRydVFBWmcxYW1zVXZSMQ?oc=5",
       "s": "아시아경제",
       "d": "2026-11-10T03:10:58+00:00"
+    },
+    {
+      "t": "코스피 4~5%대 급등…코스피·코스닥 잇따라 매수 사이드카",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fN0R5b09NT2kyTW82bzZnNF9YOHQwV0syeTVLUzFyczZNUks2Um00bHY2c245cGZzNWNfVnNNODl3MVhxTGhQaHE4U2o5Q1Nta0t1QWRUSUdaV1k?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-10T03:05:00+00:00"
     },
     {
       "t": "[테마시황] 반도체·항공·DC 테마 동반 급등… \"과도한 우려 씻고 밸류에이션 매력 부각\" By 인포스탁데일리",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-10T03:00:00+00:00"
     },
     {
-      "t": "내년에도 '반도체 독주'…2년 연속 3%대 성장 전망",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQlFURGluSmVMVUNlZGs1bWpWUFdPckdQbXBld0xXM09ieEZ5X1lOLXo3aGJ6R0VOY2Q3blU0OXE2MTAzYU95Snpka0tIeUFhUk12ZUk0MTBQQ3hrVlY0?oc=5",
-      "s": "MTN 머니투데이방송",
-      "d": "2026-11-10T02:59:16+00:00"
-    },
-    {
-      "t": "재경차관 \"물가안정법 개정 추진…신고포상금 늘려 감시 강화\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UmJ2OC1BZmJhSnNnX0VkLTBmWVRGRkZxSGttS1NZZkRXdmFDVUp1ckdEdVIySEdSWnNweGJ0bC1vR2ZLZDFqTjE1V2QzSGxkNkNVeVFQa0tEMWo0a3BWS21FSnVLNXh5RENpNWxsU2M?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-10T02:51:29+00:00"
+      "t": "'트럼프 참패' 통상 압박 계속…'관세·투자·입법' 3대 변수 정밀 대응해야",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SXVjQ3dzd2daS2hVMi1CakM1S1ZPXzUzdWo5VzltRU4yN3owWjlhUGJ5cmpPdXNCUFQ1LXYwYVFYTEpVbEVBZmlzRkZSVEx6S2Z5RnVhVTJKSW8tNjNfR3FVS3lPcmM5RlJQLU11azE?oc=5",
+      "s": "신아일보",
+      "d": "2026-11-10T03:00:00+00:00"
     }
   ],
   "asof": {},
