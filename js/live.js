@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T03:00:34+00:00",
-  "quotesAt": "2026-11-10T03:00:34+00:00",
-  "newsAt": "2026-11-10T03:00:34+00:00",
+  "fetchedAt": "2026-11-10T03:15:34+00:00",
+  "quotesAt": "2026-11-10T03:15:34+00:00",
+  "newsAt": "2026-11-10T03:15:34+00:00",
   "quotes": {
-    "kospi": 5229.04,
+    "kospi": 5238.4,
     "spx": 7549.94,
     "nikkei": 60475.78,
     "vix": 19.92,
-    "krw": 1347.08,
-    "gold": 4120.8,
-    "wti": 86.05,
-    "dxy": 101.72
+    "krw": 1346.04,
+    "gold": 4121.9,
+    "wti": 85.99,
+    "dxy": 101.71
   },
   "daily": {
     "spx": 2.67,
-    "kospi": 3.35,
+    "kospi": 3.53,
     "nikkei": 2.89,
-    "krw": -1.15,
-    "dxy": 0.07,
-    "gold": 0.15,
-    "wti": -0.92,
+    "krw": -1.22,
+    "dxy": 0.05,
+    "gold": 0.18,
+    "wti": -0.99,
     "vix": -22.31
   },
   "news": [
+    {
+      "t": "\"주식시장, 내년 하반기부터 반등…반도체사이클·외국인 수요 등 관건\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DeTd5bmV5VWRsblg4ekt4Rks3ekxBU05aQzlIRzVwbjhHR2JEZHVQOW9CTFNNZGZVS3NXSWVmRmhtX180RU9VUUZJTUpodkhyWXRydVFBWmcxYW1zVXZSMQ?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-10T03:10:58+00:00"
+    },
+    {
+      "t": "[테마시황] 반도체·항공·DC 테마 동반 급등… \"과도한 우려 씻고 밸류에이션 매력 부각\" By 인포스탁데일리",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOUU5kOV9iaFN5ZEhYNFFlY2xTb1oxSEcxQ2c4bTNwMmR0cEpLM2RRR1NTQ3REWjNyZDlQcVlwSVpCTjMtOE1qUWhBemZKNERrOE16WkoxaEk2SG9WN2tTbUItbFowSndFWHF2a3FSQWw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-10T03:04:00+00:00"
+    },
+    {
+      "t": "3분기 10대 기업 무역집중도 60% 돌파… 반도체 호황 영향",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOV95NDFWQ1lLYU8yVGdHSC1yZ2ZwSUowbFFjN01EaW1QR2U1TmtJOFRINE5CR0RCUENQMkJyVXk1Qm5sSnVzSkJUa2VtT05NdE5xSEl6R2tTVVctMVQxOEItYWllZ09WeGRKaW5GM3BmMm5vbjdWUW1uTWM4SWw1My1lM0IyUQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-10T03:02:53+00:00"
+    },
+    {
+      "t": "오늘은 장초반 급등… 코스피·코스닥 ‘매수 사이드카’",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTTBKaEkzQmFFT2tpbF9DWFc4ZVVOcTNEdDNOWlhPR0RUWUFPX0cxblBLemhJbndiRUZvRzJBZTNmNHNpczVPaHIwSVFfMFM2?oc=5",
+      "s": "문화일보",
+      "d": "2026-11-10T03:00:35+00:00"
+    },
+    {
+      "t": "美 의회 바뀌어도 통상 압박 계속…韓 기업 ‘관세·투자·입법’ 대응 과제",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01VEt0WkRWYnBTT0d0dzJ0Z2t5WFAwMlpfM2JuOVN0NzJGMXdYQUNpTlpTaUxuQVd6cm5RVk1VeWR1bUFRRldnUXNsaEx3QVJWZFZiUXhzNktpZ1poV1JWOU40U3JMOEhKZGJHOUJ3?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-11-10T03:00:20+00:00"
+    },
+    {
+      "t": "'반도체 날개' 대기업 수출 2배로…'톱10' 기업 비중 60% 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVmw1Y1dibkllbWxfdW9Fak9fUmZTa0sydk0wbnBfczZiYU5fTjVfN082U0RmVW1LOW0tZlczYWRhVGs4SGc3WkhDMXFDOEFLQ3U1V0xDMnQ0WW_SAWBBVV95cUxQbWsyd2p6bzgyRXBxNW92a3VVaDZiMEw2T1R4QW8wYVNRc1RZQzhnbHNBdXFreXFaZnJfeDFrNV8xYUZTcWlRXzAxNUE4Zk5YaTVNOTFFaHhDWmhSUEFxY2s?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-10T03:00:08+00:00"
+    },
+    {
+      "t": "‘반도체 쏠림’에 10대 대기업 수출액이 전체의 60% 넘어...역대 최대",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EM3dNUzRRaVdIXzRqNXFxYzBqT0xSWnktNUpGUDZVR3RnV3NSQmc0WW9GWVJrNlFyb0xpZFpJM3BfUUR6aVY1cHIzMlBrdklqb2lBZEVB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-10T03:00:00+00:00"
+    },
+    {
+      "t": "대한상의 “미 중간선거 뒤에도 통상 압박 계속…관세·투자·입법 대비해야”",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cXR4T3JNNkhtS3hxTVlYb1hmc0NaeGZqNTNlaGhLMkpfbmVPU2xBdUJDWFU1dndUNjRvWkpVMWhoVFBQVFZENjZCdS1LQ3hWdFBQMFhRc3hYZ9IBX0FVX3lxTFBkVUhwNlppWnRnT19QLWRYUEpVdUpoYUdXTEVSbEUxUEhIaV9Wc0RsemF6dTNFbk9RZXRRMm5ReHpFSGkzX3dZdl93cG1UNEpxQl9rWjRGdlJWVDdVd09j?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-10T03:00:00+00:00"
+    },
+    {
+      "t": "내년에도 '반도체 독주'…2년 연속 3%대 성장 전망",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQlFURGluSmVMVUNlZGs1bWpWUFdPckdQbXBld0xXM09ieEZ5X1lOLXo3aGJ6R0VOY2Q3blU0OXE2MTAzYU95Snpka0tIeUFhUk12ZUk0MTBQQ3hrVlY0?oc=5",
+      "s": "MTN 머니투데이방송",
+      "d": "2026-11-10T02:59:16+00:00"
+    },
     {
       "t": "재경차관 \"물가안정법 개정 추진…신고포상금 늘려 감시 강화\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91UmJ2OC1BZmJhSnNnX0VkLTBmWVRGRkZxSGttS1NZZkRXdmFDVUp1ckdEdVIySEdSWnNweGJ0bC1vR2ZLZDFqTjE1V2QzSGxkNkNVeVFQa0tEMWo0a3BWS21FSnVLNXh5RENpNWxsU2M?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-10T02:51:29+00:00"
-    },
-    {
-      "t": "\"반도체 성장, 민생경제로도 확산…물가 상방 위험 유의\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bTBLNHQwZnBWMlBpZ3ZjTVFfbExIeWtDalNrS3RNUVpZRnNBeGxHRmk3YXBud0VrdHkycWJGaFZJSlE2dWtUWUFwNUxfUDE2T3R6VmdYaE9uTGJlQm5rUmxHZVRxTzdyUEpOZUNFUGE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-10T02:50:31+00:00"
-    },
-    {
-      "t": "반도체 호황과 100년 경쟁력 만들기[포럼]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yb213VXJnU3AyR2lKWFV6WlFOd1dGZ0kwcVA3VkJManJkVGkwZjhtTVNSX1M4OE5OLWoxMmU5enFkczdOOEFFODVvRURPZG9i?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-10T02:45:15+00:00"
-    },
-    {
-      "t": "이종욱 의원 “호남 반도체 국비 100조 육박”…정부 “과장된 수치”",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVW9weDNQU24zSklwZ2VJeUVwdkUzTDZMUHRZd0ljLVM5ZHdGbDA1TmUxTG5MMTRGTXFLeEltTnZxYW53SUE1dFRPV0tBRkd1ZUdVeFJwZjJiR1RKWGJmeFU4MGJRa212N1E?oc=5",
-      "s": "경남도민일보",
-      "d": "2026-11-10T02:43:46+00:00"
-    },
-    {
-      "t": "코스피 급등과 엔비디아 이슈까지 이시각 주요뉴스",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oVHRUQmRRWFZXOGhlQ1RHVFNYWTFMWm5kV2NhRlhHT3dFcWoxbUtaRHBCWXF2V2RVOHRZSGtiU0pWa2dWWnZqaFA2dEJpNTE1cWRJNHd3OEUydGJBLXFKVDJCN3dNMGJiYXdqVEZySXDSAXRBVV95cUxPZkhnZ0xjRlduVVVUUjBSeTFIX0lSZlpFTTVsVWI5dXprUG9nbXdEM3VsT0FZeTNsbDl0NTN6QUdVOXduUFZEeTFNeFdaal8zQVlHRjZHRDR2aVByZXZpaXFqcUtpVXhIVlpvSWd3MndSa3o3Sg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-10T02:38:01+00:00"
-    },
-    {
-      "t": "美 민주, 트럼프 관세 철회 추진…K-산업 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtbTVQZzV2N21KaEVQcVBRYzlKTmVvckt4YW12VURGMTBxRDJZamYyNUlvTFkzaVlLNDlCNlJhRi1CQ0tKZDlUZV9xM29XT1dpbjlpRFNwYXppa0ljWTQ0LXJ2aDM?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-10T02:36:26+00:00"
-    },
-    {
-      "t": "최근 하락 딛고 반등...코스피 코스닥 매수 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3UFZvdFlFb1NaZUdQMlVtS09aSEU2RHpxRUJqTEdKTXlRc0lybGZBcFk5NTNRckdTbGRQVWlmODI4ZjBQV0NocW9qQWlWQ3NKeXBUWnFGRU9PUWZpdGVNcXZEZmkzSjU5bzI1N3ZtaXRBSW1RWEE?oc=5",
-      "s": "YTN",
-      "d": "2026-11-10T02:36:00+00:00"
-    },
-    {
-      "t": "일본은행, 조기 금리 인상 필요성 제기…12월 인상 가능성 70%",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wMjBPQThYLWFzNWViUTJkWGpLTWpQLXFoTTVQOTN1MnpySnQzR05uajl3TUk1WFdhTkFHdGFPQ1VuclVtLUJWUEhobE5jbXJs?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-10T02:35:21+00:00"
-    },
-    {
-      "t": "반도체 호황에 기업 여윳돈 사상 최대…고액예금 1000조 육박",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hRjk4dEhraVRISzBMTXJZdmVBUTNlWEdDS3lqQ0FnTkt2Z0hDWk9PNGw4V241eDNfbF9HTHBSaVZmVUxkSk9Fek1RcUF0d0tj?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-10T02:34:07+00:00"
-    },
-    {
-      "t": "호남반도체 산단에 국제학교 설립한다",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yNjR4MEFHUjRmOVpEWXVickNCcHBWSTNuN3Y3XzdZcFE3YWdHbUVCSzV2NlVnakdDRF9KR29GazZsazdBQ0VpQlNCaHQtam5P?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-10T02:33:30+00:00"
     }
   ],
   "asof": {},
