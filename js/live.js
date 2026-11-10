@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T01:15:42+00:00",
-  "quotesAt": "2026-11-10T01:15:42+00:00",
-  "newsAt": "2026-11-10T01:15:42+00:00",
+  "fetchedAt": "2026-11-10T01:30:34+00:00",
+  "quotesAt": "2026-11-10T01:30:34+00:00",
+  "newsAt": "2026-11-10T01:30:34+00:00",
   "quotes": {
-    "kospi": 5221.23,
+    "kospi": 5197.09,
     "spx": 7549.94,
-    "nikkei": 60300.53,
+    "nikkei": 60146.94,
     "vix": 19.92,
-    "krw": 1343.87,
-    "gold": 4140.5,
-    "wti": 86.48,
-    "dxy": 101.7
+    "krw": 1344.88,
+    "gold": 4138.4,
+    "wti": 86.26,
+    "dxy": 101.68
   },
   "daily": {
     "spx": 2.67,
-    "kospi": 3.19,
-    "nikkei": 2.59,
-    "krw": -1.38,
-    "dxy": 0.05,
-    "gold": 0.63,
-    "wti": -0.43,
+    "kospi": 2.72,
+    "nikkei": 2.33,
+    "krw": -1.31,
+    "dxy": 0.03,
+    "gold": 0.58,
+    "wti": -0.68,
     "vix": -22.31
   },
   "news": [
     {
-      "t": "국제유가, 트럼프 이란 추가 공격 자제 신호에 하락…WTI 90달러 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODNvcnhfZ3JEXzVlWC15ZjhPTmo4N091QkdNaVFXUG1XWnNrTkZuUkpMTktySngxMlZSYnlBYXV6SWhqUkZvZTA0eU8zc2hhRU85b01iazR2b0pJd1NQUGZrQTRWeEk4cnhwSC0zU1A1VDkwdkVmeDFtcERnZjFCclEwMHBMQlRr?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-09T16:00:00+00:00"
+      "t": "삼성 5%·하닉 6% 급반등…美 반도체 급등에 소부장까지 뛰었다 [칩칩폭폭]",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xdlhLS0J3eXV0cmprM3AtRzVlN1pRVkR0dnBFajFGOXoybDY4NnFoR3l1TWRPVlo3VzdONlFERk1GUndMdzdydXQ4d3FheGpKTVlrTFZ2dnR3a2g2dEN1b19MZXFPU29NekJEZGFrNnhrcy1P?oc=5",
+      "s": "조세일보",
+      "d": "2026-11-10T01:26:40+00:00"
     },
     {
-      "t": "용인교육지원청, 관내 중학생 3천명 대상 찾아가는 반도체 진로체험 버스 운영",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLaGdybWkwTjNDZ3JRc1RBV1dQaTlqVlEtVXphWi1yeldXaXB5QVFiczJLRE1GRDQzT0dsWjczUXh2Nk10eWNCS1FKTmVZS0xRM2lINWtCeXpLM0pGSEFEOVcxQkxCTG9ZZi1r?oc=5",
-      "s": "일간투데이",
-      "d": "2026-11-09T15:53:13+00:00"
+      "t": "신한자산운용, 코스피200 월배당 커버드콜 ETF 상장 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoTzU1Y05SVFVsbTBqdEhvSVliTERwWkU5TDFtRllmTTd4WkFkdVRKTWtKSXN2aU1RajVfWl9fVGoycThWVG9kckRrWmVFcTRLR2dUdzZLdkszMDBXT2o3U3QyeUVNa2Uy0gFuQVVfeXFMTl9hWV9MdVRlMnZzd3dLUWVUS2IydHdnckpKM1Jua3pEUkRWNFJTMU0xN1F6Q01EWS1QQVJtOVJvdkdwTElRZU9XbEswVm5IYTI1eXhKczFESGd4UWhaQnMyT013ajdZM2hCd3VlZFE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-10T01:24:11+00:00"
     },
     {
-      "t": "굴스비 시카고 연은 총재 \"서비스 물가 다시 상승…인플레 대응 실패 인정해야\"",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UMUw0NTB6WkE4akJiaUZfdGQ0R2xYUUpvNk9Gako4NkxoTnJsLUdWcm5lSjdvSkZ4Q3AzZ1pWWjJfUTlYVzM3d09UWVFubE9w?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-09T15:41:12+00:00"
-    },
-    {
-      "t": "ChipMOS 실적 발표 앞둬…AI 반도체 호황에 추가 성장 가능할까?",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pVDNiSUZ0UlB4ajNHU0EwbEd5OFYxRkRVR2JVZDV3MjB1cE5ILS1PckgtZ0F4X1kwV0JDYUpFVzVCbGFLM0RWNks4Z25JUHNqeFRSX3lXaWNkN2NrVDhBVWs3SnVoQUNqcm9V?oc=5",
+      "t": "코스피, 5200선 회복…양 시장 매수 사이드카 발동 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMVNGcVNFY3gwMUZzeXFPZUdWa28wSVJvMDViMzc5YVZVNl9NemZqS2xRdHBNbll2d1V1XzYyVDN6RnBXZ0ZRY0dqNWlFdlBFSVpteTBGclRlazBRWE1Edi14ajZXVTc4S3FrOXNfazM?oc=5",
       "s": "Investing.com 한국어",
-      "d": "2026-11-09T15:36:00+00:00"
+      "d": "2026-11-10T01:21:00+00:00"
     },
     {
-      "t": "줄어든 증시 거래대금에 증권가는 ‘MTS 전쟁’",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzYzOFBOVG94VXlYT29wU2xrdVBLemphT0pTTkJ0RmtQSjRIYW5UZDFsUkV1Y25EYnVDbVFnVWFTbVVKdUdFeHVLZ0h5bUg5bzRyTG9UalZ1c0FYRmJkNnNiZEppSG1fd09sdnpVMTJXdlJfUGZuUVRmTm51NmRNVUlOazhjY2Qz0gGcAUFVX3lxTFBfbWI1Y3JwOEFQaDUtVTI2dzMtbko0bDc0ZVQ3WGFkT3pCaFkwdUl4SjZxNW5UZXNIVWNEYlFUbTNGVGpPN1FEeHkyWmxnQWlCY3pNME1QR05tWGxCQzR0U0JSeXkwcUZicVFXenVRVFR4U0h3cG5uUldFS0FQV3dDV3g0RzVxNm4tX2xrTWQwZ2JqMmtrOFEzRjNUdg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-09T15:36:00+00:00"
+      "t": "코스피·코스닥 장 초반 급등…매수 사이드카 잇따라 발동",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51U3ZVUVBFR0lYU1BDOUIxUk9EamluUGdoSmt0TG5PUkxZSnhJcGlJbUZpc3lScURIOTEtM2U3cnluTFI2Q3pabnhidGhlWFducDlnRGd4elZ6ejFJZlpwMU9scDBYckk?oc=5",
+      "s": "팍스경제TV",
+      "d": "2026-11-10T01:16:45+00:00"
     },
     {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 11월 9일자",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXd2Z2pDQm1ZUTJheTF6NGhNYk9ESno4T0lTT1FZWTZNX1NHMWlOZ3QwLUVUR25QNUhjZlFPYmQtSk84Z1owVjRucVktUWVGeVhlcWxZQUV1WTJhOHUyNGc2b2FnTnNkMFI4MXF1TU5oa0xFNWRKLWhZVlAyU2VsT1FNaVUxNXEt0gGcAUFVX3lxTFB0VmNLT2taODcyQ0dmM2d2c2lqTzhiTXFXMjFMWF9NSjJ0OTF2OUhxcTBGblJiN3BzOWdIRlFoRWJaTXdiandSS3I4ZDFOcThqX1hRUlZhX256VUxXakdPNzkybTJrX3E2Z1NMVUhCSm02SnJDeVpzZFlGbHF5LWFhU2IyMkJ4ZmJNUVJ0MDJsUV9rQ2stV2h6cUh6dg?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-09T15:36:00+00:00"
+      "t": "내년 한국 경제 3.1% 성장 전망...반도체 수출·내수 회복 기대",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWE9SUjFpb0RzZHh1UlBDeTlVM05jUUwxYUZ4cVhzSXk5d0steTJzcERlbjdSY3Jlbml6TG9tYURsenFRSHJlMlg0enMzNlZWSWtXX2tlRlE1WlBsZndCMXRsQXFCRTA?oc=5",
+      "s": "M이코노미뉴스",
+      "d": "2026-11-10T01:16:04+00:00"
     },
     {
-      "t": "[뉴욕증시]국제유가 하락에 일제히 상승세…엔비디아 4% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEdjV4VnRoc2ZKajJuenhHZ0pKbmhGV25mRTVMQk5YblhBN2tDNWkzRXpiZkNvMDZ4Nkg1RnQzdlBDRElpRktRSktQa2x0TWdPaFpNRUlrNVViS216X2t6aA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-09T15:35:37+00:00"
+      "t": "반도체 일단 반등했지만 … 증시 D.N.A 공포는 여전",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fcGZ5RFAwTWlvVW51bmFPN1dBN1RHRGhpMERFZWJ0ckpjY3ZBMkc4bGg4anNHXy0wVWhjdEpXZTdtV2ZCQUl3SUhXRmp6Vk5vRGc?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-10T01:14:56+00:00"
     },
     {
-      "t": "[속보]뉴욕증시 상승 출발…‘젠슨황 불륜’ 앤비디아 7%↓",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0UFBvZnRhS1ZFcndQbW1GU1FRYUM4R3llb3FRekU3RTFrLW5seGtSRjNMald4YWtuT1dIWlcxdXBzeFUzUzhqRGl1MTZiSGl3?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-09T15:35:19+00:00"
+      "t": "안전자산 선호·외국인 선물 매수…10월 국고채 금리 일제히 하락",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yb0xra1ZxSW5VWFJtWUZaLVpWUURYV3FUNmlWcGNiX2Z1TUlBSGZ5d21oYmZiWHUzMlVaeWpYWXNSQmZEVm9BZ3ZVRGhCTTR6b3J4UW5BX1JEUjg2VWRETGlGeXJQa092b0k5Zl83c1Q1a3hz?oc=5",
+      "s": "조세일보",
+      "d": "2026-11-10T01:14:25+00:00"
     },
     {
-      "t": "코스피 출렁이자… 투자자들, 안전자산 피신 확산",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRzI2Rkc3MVdHN0pkV1pUOTdTMG5XRmZiMXZ0dmJFM2hZeUk2Z2lpYTJUS3BfUjBmLVdmbHFSazU0OXptTFc2bDk5cmNqdHZ2Z1ZJYzNjZFFZUEMxeXAtbGJaQ2djcW1ORFU3bjBzMXdlUVVFMFHSAWZBVV95cUxQV2VMaG9Idl9TY011X3VPM3hZRlVUNFk3Rl9OdkVCRF84OW9aSDdwbWpBMGg2ZUQ5bHQwQW9KUkpaajlid3FZQkh1YVctTHdEVjhGUEhlak9UMWJuN3NDa3dGQnBXZ3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-09T15:30:00+00:00"
+      "t": "젠슨 황의 불륜 의혹, 파장 어디까지…세계 AI·반도체 업계 초긴장",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93SktVNEd6M1NHSm1vckRNaGdBYjNjN25sejB0X3hRYWRwd3ZoUXdpQXdEWU1aeFdYS2czTEs5Q0JxMVJQek05bEtWUEJrTTBKa0ZTSUY3N0NyZ240ZEZFVjZkcjZQREZsT05kTA?oc=5",
+      "s": "재외동포신문",
+      "d": "2026-11-10T01:12:19+00:00"
     },
     {
-      "t": "美 국채가, 유가 급락에 강세…트럼프 유화적 발언 영향",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYlQ5N3RNNTRtcnpldEFOZnQzcWk0WXUwY2xfTk9BQ0ppM3dmUU1KS29RQzFWUFlnUXFHOVdDeFpYYk9jYjdpZUpNQUlreFZWMFFFbHh4U1NJMTQ0T0sxTWpJdV9SZFE5Z01Jb3RMbzBZUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-09T15:02:42+00:00"
+      "t": "국제 금값, 유가 하락·달러 약세에 강세…온스당 4130달러선",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Pd1R1LTJRTS04SjBENDhyTEhxeE81NENILWl4N0R6MlJmRVRkSk90eDdVaFZRQmUwQnYzM0tEaTNaYTgzeGV2MXdwUF9sYnBP?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-10T01:12:09+00:00"
+    },
+    {
+      "t": "美 10월 CPI, 유가 진정 덕분에 전달보다 냉각 전망",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGNkR3Mm54SXpyRGRKQ0dpV1V0TEUzNnFzakNZeU1GSXJYdUJHQVdpVHY5cnViVFRUejFTUzltUVpXRWx5UXdqSnpjM0wzaGxHZFh2bjRMS0lHMVBWNW50WTh1NXR3LVVvTmpnZlhVTDQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-10T01:10:59+00:00"
     }
   ],
   "asof": {},
