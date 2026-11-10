@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T01:45:34+00:00",
-  "quotesAt": "2026-11-10T01:45:34+00:00",
-  "newsAt": "2026-11-10T01:45:34+00:00",
+  "fetchedAt": "2026-11-10T02:00:34+00:00",
+  "quotesAt": "2026-11-10T02:00:34+00:00",
+  "newsAt": "2026-11-10T02:00:34+00:00",
   "quotes": {
-    "kospi": 5221.44,
+    "kospi": 5227.27,
     "spx": 7549.94,
-    "nikkei": 60379.21,
+    "nikkei": 60403.51,
     "vix": 19.92,
-    "krw": 1344.97,
-    "gold": 4138.9,
-    "wti": 86.15,
-    "dxy": 101.67
+    "krw": 1345.48,
+    "gold": 4133.5,
+    "wti": 85.95,
+    "dxy": 101.7
   },
   "daily": {
     "spx": 2.67,
-    "kospi": 3.2,
-    "nikkei": 2.73,
-    "krw": -1.3,
-    "dxy": 0.01,
-    "gold": 0.59,
-    "wti": -0.81,
+    "kospi": 3.31,
+    "nikkei": 2.77,
+    "krw": -1.26,
+    "dxy": 0.05,
+    "gold": 0.46,
+    "wti": -1.04,
     "vix": -22.31
   },
   "news": [
     {
-      "t": "미래차·인공지능 시대, 한·유럽 반도체 협력 기회로 코트라, 독일 뮌헨서 ‘유럽 반도체 서밋’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMmdsa1JKNjJFVWRkSWxrdFU1c3lHcUNpMXExWmUxV2EycW1uRm5QS2lEQjQtU01NQ2hUT19udnZfZzEwV3Awa2pmQjFxazl1V2RNYU9kV2laR3oxNVhSamNaXzR3Mjg?oc=5",
-      "s": "일간대한뉴스",
-      "d": "2026-11-10T01:37:22+00:00"
+      "t": "\"코스피 '이 때' 기다리다 사라\"…7100선 반등 가능성 제시한 증권사",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uMldSRDlFdjZVR0lRR1hvMDUyWTh2UXdvUTVJN1ZtZUY2NEtvY0M1WC1rZzRLMUVzM2wxM0paQ29kRU00RVVFdThrQk12bGYxVmZNenI4ZjBWX3MyQkJxYg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-10T01:53:10+00:00"
+    },
+    {
+      "t": "코스피, 블루쓰나미 충격 딛고 5%대 급반등…매수 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OclpDTUViclR6c2owY3lCSjZ2Zm91M1RQR2Y2dkJyOFR5UVE4WUZOTkNZMFQxbWdEVmswU2NqaTM4SnJVWlpNLVdzUjhkSGIxYndIaFpTSVFjNUdOLUpqcFFqU1c?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-10T01:43:21+00:00"
+    },
+    {
+      "t": "12월 금안보고서 앞두고 환율 급등락…은행 외화 RWA 부담은",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tU1lKWVprdnQ2SHFILXdoZXNDa2U5Y0wxZEZLcEJ6Z3J4LW1qTjdSSEVDZndWeGZJRFJXZHl6TDJlQXpBMGhpLURpanFsM2JDM29BMUM3clpMMlM4S2I4aUhSQW9FazVNM2tGTjQ4akU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-10T01:41:21+00:00"
     },
     {
       "t": "10월 국고채 금리 전 구간 하락…채권 발행 91조, 전월비 4.5조 증가",
@@ -55,22 +67,10 @@ window.LIVE_DATA = {
       "d": "2026-11-10T01:27:00+00:00"
     },
     {
-      "t": "삼성 5%·하닉 6% 급반등…美 반도체 급등에 소부장까지 뛰었다 [칩칩폭폭]",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xdlhLS0J3eXV0cmprM3AtRzVlN1pRVkR0dnBFajFGOXoybDY4NnFoR3l1TWRPVlo3VzdONlFERk1GUndMdzdydXQ4d3FheGpKTVlrTFZ2dnR3a2g2dEN1b19MZXFPU29NekJEZGFrNnhrcy1P?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-10T01:26:40+00:00"
-    },
-    {
       "t": "코스피·코스닥 동반 매수 사이드카…美 반도체 훈풍에 장초반 4%↑",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fMFJTN1ltaEQ3QXFOYUlEbG53RUVyNjMyY1M5bVhpZFRmQmNvbGFvbWw0U3FyY0g3TVZ6ckZTNTNHS21ZRElxTjR3VHN0Z3RZeVNWUERwUHM1UWRYaVhnVlh4dUFZbHNlMzJhZzMwTlo0azd0?oc=5",
       "s": "대한경제",
       "d": "2026-11-10T01:25:33+00:00"
-    },
-    {
-      "t": "신한자산운용, 코스피200 월배당 커버드콜 ETF 상장 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoTzU1Y05SVFVsbTBqdEhvSVliTERwWkU5TDFtRllmTTd4WkFkdVRKTWtKSXN2aU1RajVfWl9fVGoycThWVG9kckRrWmVFcTRLR2dUdzZLdkszMDBXT2o3U3QyeUVNa2Uy0gFuQVVfeXFMTl9hWV9MdVRlMnZzd3dLUWVUS2IydHdnckpKM1Jua3pEUkRWNFJTMU0xN1F6Q01EWS1QQVJtOVJvdkdwTElRZU9XbEswVm5IYTI1eXhKczFESGd4UWhaQnMyT013ajdZM2hCd3VlZFE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-10T01:24:11+00:00"
     },
     {
       "t": "골드만삭스 \"美 국채금리, 4.75~5.00% 범위 안착 전망\"",
