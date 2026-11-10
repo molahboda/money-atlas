@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T21:45:34+00:00",
-  "quotesAt": "2026-11-10T21:45:34+00:00",
-  "newsAt": "2026-11-10T21:45:34+00:00",
+  "fetchedAt": "2026-11-10T22:00:34+00:00",
+  "quotesAt": "2026-11-10T22:00:34+00:00",
+  "newsAt": "2026-11-10T22:00:34+00:00",
   "quotes": {
     "kospi": 5239.13,
     "spx": 7520.93,
     "nikkei": 60459.58,
     "vix": 19.46,
-    "krw": 1343.21,
-    "gold": 4034.6,
-    "wti": 86.47,
+    "krw": 1342.13,
+    "gold": 4039.1,
+    "wti": 86.48,
     "dxy": 102.25
   },
   "daily": {
     "spx": 1.95,
     "kospi": 3.55,
     "nikkei": 2.87,
-    "krw": -1.43,
+    "krw": -1.51,
     "dxy": 0.59,
-    "gold": -1.94,
-    "wti": -0.44,
+    "gold": -1.83,
+    "wti": -0.43,
     "vix": -2.31
   },
   "news": [
     {
-      "t": "금리인상 공포에 AI주 엇갈려…엔비디아 급락, 브로드컴 3.9% 올라",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ITjY5RFlfX1JRMUtTdHU5QVpkTnk1cDFjczI1S3JETWtYT1VDc1VtNnBfSDJLU3Yxd1BiZWpuRWVVUll2VjJvZkRrYXRDVU9lSzBDRjBsQmozLUFvM1B1TTZB?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-11-10T21:40:43+00:00"
+      "t": "뉴욕증시, '빅스텝' 우려에 3대 지수 하락...나스닥 0.74%↓",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRU1pUDEyQjV6VVJUUkJLU191ZjNWS09WZnFKTi01R2tpdUJOb2g4ckhtWkxKdFlySUdlWE5OY2hZWUROQmJiTklWWkFxbWNjcFl6RzR1U1FqaGJ6bEdGZQ?oc=5",
+      "s": "증권일보",
+      "d": "2026-11-10T21:58:00+00:00"
     },
     {
-      "t": "[뉴욕증시]'빅스텝' 가능성에 일제히 하락…엔비디아 5%대 ↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ncnRWdTd4S1hDS0s3SkhtYU5FTEl6UjZiMXBsQ3JJQ0pNUGttWjNxYWFDOW1Ja21TcVc4T1Y5UjNRRzhqRllRdmZIMEM4T3NjZkIyX0JWbnlaX0Nkd2FLMQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-10T21:39:18+00:00"
+      "t": "美 10월 물가도 예상치 상회…12월 FOMC ‘빅스텝’도 거론",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdkJFYjhRY0Nkb3VUS0dKN1JTaUlhWFBjSVdDWVhUOGZMc2JBWWxSSzJ5ZkFCSXVUb1J0eXVnamNLMWFKQkRSaHVxYnItUGlRdkQwYjJPMFI0NW9iTWl6Z3M0c3Zjd2ZaOUdIUjdySlR0LWfSAWZBVV95cUxQdjktV1Z3elRfYW93bUVmSHhuM0N3SHRJbGVya3h1WV9PMUJmRkFMWkkxeUxtSzJQZk9WcjVJcFhtM0F3N0FpM2I2SVNqeXpwWmxqeDJlaU9LUXV3R0U5N1FqcGJqQnc?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-10T21:51:00+00:00"
     },
     {
-      "t": "물가·금리·엔비디아 삼중 악재…뉴욕증시 3대 지수 일제히 하락",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54aFZReHpKd2dUdjRCVnJTaVpYZVZKa1VyWFlEdk9YWWxqdFRJTlMzTDVzX20tZXFUT2ZCX1lEaTdwbWo1TkhudTlta1ZWcFMxbzYtUHBTMDFRWFJpR1BJR2FUSDBGWndocFQ2bA?oc=5",
-      "s": "뉴시안",
-      "d": "2026-11-10T21:37:38+00:00"
+      "t": "[글로벌증시] 美증시 일제히 하락 마감…나스닥 0.7%↓",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaN29oTmhVWFo3d0x4bERuazRldGtmVWtPYWVvX1JSMUNoN0ZjaWRnOXhWSWc4T1V6X1V2UGVfZWkzWko0MmNvLUNjQUhoQnA5Z2NqZ0JHZ0JOMk5CTE05LU5mVUxyTlE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-10T21:49:00+00:00"
     },
     {
-      "t": "[뉴욕증시] CPI 쇼크에 연준 ‘빅스텝 공포’…나스닥 187P·엔비디아 5.5% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VndVhEdTdTNklfaFYtZ1dQNTJfOC1KYnpuLVlhSW9LSDlPdEk1MUY1dEY1X3NxbDN4elN4SmVfUThIOG4yRmxERDczRk9DRTRsNXRSNXpKNTk2YnNuT0c2RDU1QWZZVGc2cGpOOEZGY1hSV1ctOEp2QmZXekdIUGpqY1JVQXpK?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-10T21:33:56+00:00"
-    },
-    {
-      "t": "\"외국인 드디어 돌아왔는데\"…코스피 안심 못하는 이유 [분석+]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUzRsOTZRTVhMZkxYWGQ5X2o2ODNBRnF2c0cyQWNZNk5aLUxFRG9NbUxmYjZIY21Cald6UlIzemh6aEZRRDZOVTRBSXpfTFlJUDJZcE0xT3dJUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-10T21:30:04+00:00"
-    },
-    {
-      "t": "TSMC, 오픈AI에 최대 7,250억 원 투자 승인…AI 반도체 공급 넘어 전략적 동맹 구축",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9meWFqa3FfcEJydGFKV0JMQ0lGbWRfcm1fbm1IOFI3MkRrNS1KZHJWQzlBWEhsOV9TTktmazRwS0o1ZjluM2FteXdDQVpqUXVObFVDV2dWbEFLdFVvMjNWTGowMjBic1E?oc=5",
-      "s": "제민일보",
-      "d": "2026-11-10T21:30:03+00:00"
-    },
-    {
-      "t": "필라델피아 반도체 0.35% 하락…엔비디아·마이크론·SK하이닉스 ADR 약세",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VMm9JTm9ieUlSeElNcGtxMGVCeDJkXzdLaXN4NWZ2eUFvUXJyanFfVFNvTW5YQUNuX3kyR0tLalRSS0d0SWlPQzVQZTl1b2ZJb05XVk94SlA1YkxHcTZIZGNqVjI2cFU?oc=5",
+      "t": "[뉴욕마감]CPI 상승·연준 '빅스텝' 우려에 나스닥 0.74% 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51N3RSVy1TRjdNQ0piSW50ZTJJWUltSzNHODd1VUFfcFJZMTVlaTN0aC1ib2VJZ3FvVlFDMERNMWJJRTJiUVB2dEk3T2R2SXU4LWwtWXE3UGpITWgxXzJ5S0JFRk5JQzA?oc=5",
       "s": "뉴스1",
-      "d": "2026-11-10T21:28:35+00:00"
+      "d": "2026-11-10T21:47:11+00:00"
     },
     {
-      "t": "美 물가·고용 지표 호조...0.5%p 금리 인상 가능성 대두",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nRGJpeEhITTlWeVFubWd2eTVHVjg1cHh5Z0k3UUZhalRZOHctT29DT0RoZ3VWemNEZWtRWG1DYlNpOVhDSUUtUzlTbS16TDFXSnFBSnpvZW5zbmxMcGJGNFhLODNJbkE4?oc=5",
-      "s": "www.ebn.co.kr",
-      "d": "2026-11-10T21:28:01+00:00"
+      "t": "물가 충격에 금리상승 불가피…반도체 기술주 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wZjkzYy12ZE1FUC1PTFJRVnVMa0hzNWFuQWpxbHZNOUhIYzBOa0VleGFWU2lhRWJ4TWhpYzJQQnlYMFNwWHIya3JCWXZzdkNGRHBnSTJkV3JJLVBqNkI0OW9Pd3JvQm54TjVJSUZXT0k?oc=5",
+      "s": "코리아리포트",
+      "d": "2026-11-10T21:47:00+00:00"
     },
     {
-      "t": "뉴욕증시, 연준 '빅스텝' 우려·엔비디아 급락에 하락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXd3JGN1pKdWJHOEhPRFBSZ3JsZV9IU1hOdnJ1MGphYzZtMUdKY1p1UW9NVFRSSVdvWmMzd2VMd1FIMDJRbWFxR0tnMHZJNEpoU3EwR3NDdTZSdlBM?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-10T21:23:00+00:00"
+      "t": "나스닥, 예상 웃돈 美물가에 0.74% 하락… 기술주 약세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMRnhSMFhMWl9GdWFFMWQyR3JWWkNja1FUSWhxbTJ5MnpRZzBwNWhZeWRQOXpSRjc4MUE3YlZzZW5JdFBSMFE0T0EwWF9FMmhIelVyWXhJcGU2dWNWTHMybDJEdkFKZTJVTFBtZnFoNE_SAXRBVV95cUxOSGhWUlRWMzdBb1lkOV95WmxSX0VxcFRIdmVIZ0Z3ZnVHckRSY0RtUi1tWWtsbElqVm52MGlQMU5fbTdqVzdXM2w1OG8teWxWMjc3b0dUSDlObkxoQlJ0RnM0UHpDcXQwbjVUbG9ObUdtV1JubA?oc=5",
+      "s": "IT조선",
+      "d": "2026-11-10T21:46:09+00:00"
     },
     {
-      "t": "[N2 모닝 경제 브리핑-11월 11일] 美 증시, 물가 쇼크에 3대 지수 일제히 하락…엔비디아 한때 시총 3위",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnT2twSGF6Mnd2STRfRDlzWVllXzEyRjFpUTFBSlVsOS1XSVFpOU9FY0YzSjBUbjY3c2FXSzFKZ0lFWHlxT2xWY2stcVVJVjA5cm9ZX21ZTjNBUkVFd3c?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-11-10T21:21:48+00:00"
+      "t": "예상 웃돈 美 물가에 뉴욕 증시 일제히 하락…나스닥 0.74%↓",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVVTeV9mekpyMkRTQjBPbUUzRE56WEJEUmVjcmV4UzVQVUI1Z1NQRGsyS2hoX1IyYU90UC1qeVVMYzlkWkJOMG9XNGdwV1ozWXVJXzF2Y1NRNGIyM0M5TWg2ZGYyWDl2QUJ4Z3pDc2ZCNUNTR0pncWdYeGExbXY5ZFNFT01uMk4z?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-10T21:45:00+00:00"
+    },
+    {
+      "t": "[현장] \"내년 증시 하반기 안정화 기대…반도체·외국인 수급이 변수\"",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xdHZvaDJvYnFzUENtNGlNbXpXdi1UOVpQeVRiU05KWEtVbjJ1akw1akpsLVBUcWVTWWdXMWhScmlWbTFlN1B4Rk5JOFV0RERuajFTZEVQdVlCS2JfbmxTYlJZVDI1Wnl2RUo1Sg?oc=5",
+      "s": "뉴시안",
+      "d": "2026-11-10T21:42:55+00:00"
+    },
+    {
+      "t": "美 물가에 뉴욕증시 반락…엔비디아 5.5%↓",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWkNoX2w5N1BkYkNHdDlnTmxFNjVudS1YNXdmX292OWdBbUFSYV91VnhFSU5aVjJOcG9CTGhJa0gtUmJLNjdxQThFNTBNNVgzQ25jYVY3aDZXUQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-11-10T21:42:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, 美 물가 쇼크에 하락…국채금리 장중 5% 돌파·달러 강세 [종합]",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKMnYtd25falVrOFk4YjNaVjRORDNfbHV3V0xQSF9nRWxaY2djaW12WU80V1lCc3F4T015ZENmeUhmcDJkM0doanQ3d1RQSmxHY0g2Zw?oc=5",
+      "s": "이투데이",
+      "d": "2026-11-10T21:41:00+00:00"
     }
   ],
   "asof": {},
