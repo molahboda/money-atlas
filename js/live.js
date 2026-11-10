@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T14:45:40+00:00",
-  "quotesAt": "2026-11-10T14:45:40+00:00",
-  "newsAt": "2026-11-10T14:45:40+00:00",
+  "fetchedAt": "2026-11-10T15:00:34+00:00",
+  "quotesAt": "2026-11-10T15:00:34+00:00",
+  "newsAt": "2026-11-10T15:00:34+00:00",
   "quotes": {
     "kospi": 5239.13,
-    "spx": 7507.04,
+    "spx": 7534.06,
     "nikkei": 60459.58,
-    "vix": 21.11,
-    "krw": 1342.32,
-    "gold": 4054.6,
-    "wti": 84.63,
-    "dxy": 102.05
+    "vix": 20.78,
+    "krw": 1343.37,
+    "gold": 4045,
+    "wti": 85.31,
+    "dxy": 102.06
   },
   "daily": {
-    "spx": 1.76,
+    "spx": 2.13,
     "kospi": 3.55,
     "nikkei": 2.87,
-    "krw": -1.5,
+    "krw": -1.42,
     "dxy": 0.4,
-    "gold": -1.46,
-    "wti": -2.56,
-    "vix": 5.97
+    "gold": -1.69,
+    "wti": -1.77,
+    "vix": 4.32
   },
   "news": [
     {
-      "t": "\"주식시장, 내년 하반기부터 반등…반도체사이클·외국인 수요 등 관건\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DeTd5bmV5VWRsblg4ekt4Rks3ekxBU05aQzlIRzVwbjhHR2JEZHVQOW9CTFNNZGZVS3NXSWVmRmhtX180RU9VUUZJTUpodkhyWXRydVFBWmcxYW1zVXZSMQ?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-10T03:10:58+00:00"
-    },
-    {
-      "t": "코스피 4~5%대 급등…코스피·코스닥 잇따라 매수 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fN0R5b09NT2kyTW82bzZnNF9YOHQwV0syeTVLUzFyczZNUks2Um00bHY2c245cGZzNWNfVnNNODl3MVhxTGhQaHE4U2o5Q1Nta0t1QWRUSUdaV1k?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-10T03:05:00+00:00"
-    },
-    {
-      "t": "[테마시황] 반도체·항공·DC 테마 동반 급등… \"과도한 우려 씻고 밸류에이션 매력 부각\" By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOUU5kOV9iaFN5ZEhYNFFlY2xTb1oxSEcxQ2c4bTNwMmR0cEpLM2RRR1NTQ3REWjNyZDlQcVlwSVpCTjMtOE1qUWhBemZKNERrOE16WkoxaEk2SG9WN2tTbUItbFowSndFWHF2a3FSQWw?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-10T03:04:00+00:00"
-    },
-    {
-      "t": "3분기 10대 기업 무역집중도 60% 돌파… 반도체 호황 영향",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOV95NDFWQ1lLYU8yVGdHSC1yZ2ZwSUowbFFjN01EaW1QR2U1TmtJOFRINE5CR0RCUENQMkJyVXk1Qm5sSnVzSkJUa2VtT05NdE5xSEl6R2tTVVctMVQxOEItYWllZ09WeGRKaW5GM3BmMm5vbjdWUW1uTWM4SWw1My1lM0IyUQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-10T03:02:53+00:00"
-    },
-    {
-      "t": "오늘은 장초반 급등… 코스피·코스닥 ‘매수 사이드카’",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTTBKaEkzQmFFT2tpbF9DWFc4ZVVOcTNEdDNOWlhPR0RUWUFPX0cxblBLemhJbndiRUZvRzJBZTNmNHNpczVPaHIwSVFfMFM2?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-10T03:00:35+00:00"
-    },
-    {
-      "t": "美 의회 바뀌어도 통상 압박 계속…韓 기업 ‘관세·투자·입법’ 대응 과제",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01VEt0WkRWYnBTT0d0dzJ0Z2t5WFAwMlpfM2JuOVN0NzJGMXdYQUNpTlpTaUxuQVd6cm5RVk1VeWR1bUFRRldnUXNsaEx3QVJWZFZiUXhzNktpZ1poV1JWOU40U3JMOEhKZGJHOUJ3?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-11-10T03:00:20+00:00"
-    },
-    {
-      "t": "'반도체 날개' 대기업 수출 2배로…'톱10' 기업 비중 60% 돌파",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVmw1Y1dibkllbWxfdW9Fak9fUmZTa0sydk0wbnBfczZiYU5fTjVfN082U0RmVW1LOW0tZlczYWRhVGs4SGc3WkhDMXFDOEFLQ3U1V0xDMnQ0WW_SAWBBVV95cUxQbWsyd2p6bzgyRXBxNW92a3VVaDZiMEw2T1R4QW8wYVNRc1RZQzhnbHNBdXFreXFaZnJfeDFrNV8xYUZTcWlRXzAxNUE4Zk5YaTVNOTFFaHhDWmhSUEFxY2s?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-10T03:00:08+00:00"
-    },
-    {
-      "t": "‘반도체 쏠림’에 10대 대기업 수출액이 전체의 60% 넘어...역대 최대",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EM3dNUzRRaVdIXzRqNXFxYzBqT0xSWnktNUpGUDZVR3RnV3NSQmc0WW9GWVJrNlFyb0xpZFpJM3BfUUR6aVY1cHIzMlBrdklqb2lBZEVB?oc=5",
+      "t": "끈질긴 물가에 급락한 美 국채…‘12월 빅스텝’ 베팅 속 10년물 금리 5% 가시권｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52MW45VlRkeDhnTVEtLThUb1R1RXNyRWxhNXVLWV9lYV9hcGpRUXE2cUpGRnowUkFCVGp6cjdCWGRUc2F0V3dySEV2ZXFMYlZyVlkyZ0UwYXJ2VW8?oc=5",
       "s": "중앙일보",
-      "d": "2026-11-10T03:00:00+00:00"
+      "d": "2026-11-10T14:45:51+00:00"
     },
     {
-      "t": "대한상의 “미 중간선거 뒤에도 통상 압박 계속…관세·투자·입법 대비해야”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cXR4T3JNNkhtS3hxTVlYb1hmc0NaeGZqNTNlaGhLMkpfbmVPU2xBdUJDWFU1dndUNjRvWkpVMWhoVFBQVFZENjZCdS1LQ3hWdFBQMFhRc3hYZ9IBX0FVX3lxTFBkVUhwNlppWnRnT19QLWRYUEpVdUpoYUdXTEVSbEUxUEhIaV9Wc0RsemF6dTNFbk9RZXRRMm5ReHpFSGkzX3dZdl93cG1UNEpxQl9rWjRGdlJWVDdVd09j?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-10T03:00:00+00:00"
+      "t": "\"0.25%p 인상으로 안 끝날수도\"…예상넘은 물가에 시장 공포",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYlVCa0RteFF5OGtJMFltV3BNQkJ5NlJhLUdOUEFVN1lwNnVOQW9HU3JFWXVZNnJzQ3VHdnJUal95U3ZicmRzdDd3SlE0VTRxNndrU3hiamVXQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-10T14:37:14+00:00"
     },
     {
-      "t": "'트럼프 참패' 통상 압박 계속…'관세·투자·입법' 3대 변수 정밀 대응해야",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SXVjQ3dzd2daS2hVMi1CakM1S1ZPXzUzdWo5VzltRU4yN3owWjlhUGJ5cmpPdXNCUFQ1LXYwYVFYTEpVbEVBZmlzRkZSVEx6S2Z5RnVhVTJKSW8tNjNfR3FVS3lPcmM5RlJQLU11azE?oc=5",
-      "s": "신아일보",
-      "d": "2026-11-10T03:00:00+00:00"
+      "t": "美 국채가, 예상 웃돈 CPI·월러 급발진에 급락…2년물 14.4bp↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tMExhZVpUUFhYTXpVbkpnOVhmVXZXRFZVVjhjNkU1UUZaM2FQbmRBdklPT0JYSzV6VXBsd3NQSWJiMVVaNndCWHVQbjZ5RXdRWXFqdUMxTFJTckRQemVMWWw5aDdnZ3hIcld2elpCQlo2Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-10T14:35:22+00:00"
+    },
+    {
+      "t": "美 10월 CPI 0.4%↑…예상 웃돌며 연준 긴축 전망 강화(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TMURBZF9yTTJVczJ2dlZnY0ZCRElIVU1ZRC1FVm5wOVJrLU0wS1pSbE45SDJ1c1p6SXdqOV9QaDM0QVN2cUVpc2pudEtRTmNrd3c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-10T14:34:26+00:00"
+    },
+    {
+      "t": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...예상 웃돈 CPI에 엔비디아·AMD 일제 하락",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XRzJjN2p4cWFDYXhHVjhaRDg3ZFk0VEI1NlFuNEVScmlWU0x2ZmtKdzlBTTh0dGliaFYzTE82ZTRtb25BaDYwQTRUYmIxcjU5MGhJRzgwNk9uel9t?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-10T14:32:00+00:00"
+    },
+    {
+      "t": "“반도체 급락 과했다” 모처럼 상승… ‘삼전닉스’ 뛰어 코스피 5230선 회복",
+      "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcW05YmJad2pWSzhxLWVhVUJXYmVabkNFcHNPWDNFUFJLdHpHN2IxVjE1akRQdlpRNzBhYmFweUZoQ1U5SnZvNmt3YmtaQ3J4Z1JDSGF1ZDl6MHRhcDlLSUxBWHIzdk9KQ25fdXFPY1VCRlVQbDk2bGttc1ppQQ?oc=5",
+      "s": "서울신문",
+      "d": "2026-11-10T14:23:30+00:00"
+    },
+    {
+      "t": "美 10월 물가 0.4%↑ ‘예상 상회’…12월 금리 인상 확률 98%",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fM2d3MWx1cWptd29qUW5aaURzS0t6b2pRZ0duSjBWbHhnaUs5MUpzX2dsMkhnZ21BWmJxS1UzT0kyQy04dkRDMzZmaUR0eVp6aEp5SVdLWHROZDZIYy14TlBaZE1rZThNX3JWVw?oc=5",
+      "s": "뉴시안",
+      "d": "2026-11-10T14:22:19+00:00"
+    },
+    {
+      "t": "월러 연준 이사, CPI 결과 따라 \"12월 50bp 인상도 고려해야\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wclB6VHJZamxCMWk2WVFDdU1CVmlFcGstbWlBMVFxcFJHeFlOUzYyQm1VeklIWHN6OS1BU0lFN3FSeTlnRF8xcTRGZUQtSGdfeTEwOE1obnpvTC1uZTdXSExiMnJWbHRURnE0Y1ZKeWo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-10T14:17:53+00:00"
+    },
+    {
+      "t": "美 10월 소비자물가 0.4% 상승… 시장 전망 웃돌아",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DUC05aDBZZWxwem0zaTNtUWJnTlFleE00Zk9HckJKVkdNVlkyS1NKNWFnZVRrUHZoUThpNG5Lb2tzZ216UUdHMlFZNUgzNzJLb3EwbG9EMmVDbmNEczk1OWI0bFFDaWdCS2c?oc=5",
+      "s": "천지일보",
+      "d": "2026-11-10T14:15:00+00:00"
+    },
+    {
+      "t": "美 10월 소비자물가 전월比 0.4%↑…12월 금리 인상 무게(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ieDJoa2VUSjBkSGlMVkdBTVJEdjJwUjFxQ1N3dURra3lwaGtRQ0xVaTY5M3l1eC1ZR3dxSWx6ZC1NclpaRGYzcUpsZE90YUpEYTd3M2tRUVA?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-10T14:10:17+00:00"
     }
   ],
   "asof": {},
