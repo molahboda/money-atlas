@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T20:45:34+00:00",
-  "quotesAt": "2026-11-10T20:45:34+00:00",
-  "newsAt": "2026-11-10T20:45:34+00:00",
+  "fetchedAt": "2026-11-10T21:00:34+00:00",
+  "quotesAt": "2026-11-10T21:00:34+00:00",
+  "newsAt": "2026-11-10T21:00:34+00:00",
   "quotes": {
     "kospi": 5239.13,
-    "spx": 7515.07,
+    "spx": 7521.11,
     "nikkei": 60459.58,
-    "vix": 19.84,
-    "krw": 1342.54,
-    "gold": 4042.1,
-    "wti": 86.46,
-    "dxy": 102.25
+    "vix": 19.82,
+    "krw": 1341.99,
+    "gold": 4042.8,
+    "wti": 86.35,
+    "dxy": 102.24
   },
   "daily": {
-    "spx": 1.87,
+    "spx": 1.96,
     "kospi": 3.55,
     "nikkei": 2.87,
-    "krw": -1.48,
-    "dxy": 0.59,
-    "gold": -1.76,
-    "wti": -0.45,
-    "vix": -0.4
+    "krw": -1.52,
+    "dxy": 0.58,
+    "gold": -1.74,
+    "wti": -0.58,
+    "vix": -0.5
   },
   "news": [
+    {
+      "t": "美연준 감독 부의장 \"물가 안정 최우선\"…추가 금리인상 요구는 자제",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55YmFiOHFZMVFZekY4ZW56QW5aT2pPdHZLRWtoaDFScGN4MS1ocThDZXVCOXhZaUFmUXI5YTZIdmFzb3U2WnZ1X0dpTjgzN1dSdWlydE9UcjdXWkhoUEFORXhOVWpRUEU?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-10T20:44:46+00:00"
+    },
+    {
+      "t": "산업장관 \"호남 반도체 클러스터 팹 배치 이달 내 마무리\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Y2hIeUlKQjBJZjVQTnZUdTM1WlNHVWl5ZlU2M3hjTjhUV3ZCMUtVekJjUWxDWjltVjAxVXNXOElpR3ZjeHdNLVh6b0hHeXdSczRKaGpQRkpVazZCVi1tX29vUWZ1cnc?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-10T20:42:00+00:00"
+    },
+    {
+      "t": "11월 수도권 아파트 입주전망지수↓…금리인상 우려",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WZ0lrMGZBMlJZWkZYWDR4bXF6VjdfUVh6eHNGUGM3SjlpVnFzdV9lbTFRVlp4LUtENzJNVDgtSFFaS0lYQ0ppZ05WZTlDeXFQS0tHTmZ0NGxxdTl2Rnl2SjgzT3hsbVU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-10T20:41:00+00:00"
+    },
+    {
+      "t": "국제유가, 이란 종전 기대에 1% 하락…브렌트유 장중 90달러 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zREo1RGhQZjRjOGhVbW1ENDlwTEhIOURtVG9aVm44SVdqQXVzc1prendIZWUtRnViTl9IWnVSTzJ3UjcyaHhod2I2LWdYa0VybXNneXQ3NTg1ZnA2YUJwVEZqblRfRTQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-10T20:35:38+00:00"
+    },
     {
       "t": "바우만 연준 부의장, 인플레이션 최우선 과제…내년 완화 전망",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tUm1iakMwZ0RJNDdmSlFIX2oxaUY2NV9SVTZkN0VoMWZEbnNCMzVFY01oNjIybkxfUTZqRzJyNE5sUGNiR1REWGd3akdnLWdscFhvWkwzZXd5R2ZNcmZqbWFKOTFzc3NFTUE?oc=5",
@@ -35,6 +59,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYVBpa29rUURSQk5FZ1M1eE9IWFEtbFhKRXdYN1BWLVJDRzNRT2pSdGhFMDBCelpCMnM0QXcwOHV0V1NxVGhsNzNrMHhUNTJQQUlRSnZrdTQ5WWNX?oc=5",
       "s": "뉴스핌",
       "d": "2026-11-10T20:32:00+00:00"
+    },
+    {
+      "t": "\"환율 이어 국제유가까지 하락\"…항공업계 '수익성 개선' 기대",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFc1ZjbktCcUdIMzNmVGlDLXFxenpyUGRwUUhiVjRiaEtURVZJa0dXMVM5YkpnV0tfQS03Slljb01GTEdLR01XM1JXaHU5WG5CMmkxVE9vZUFQRTNORmlVZdIBeEFVX3lxTFB0akFDNlVzdDBzOTZTdXpQbzV5TzBOdUJHdzhlUGFZRXFFOV9GVy1Nc0tHNG5tb3JGVE5hU2ZBOFE0ZHlTTG5oVndMWkhhbl9yRHY4dVhQbUQ1OGNMRWo4czc3MlFDSmp3NHRBUjdjVWI3NnIxOG9MTw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-10T20:30:00+00:00"
     },
     {
       "t": "美연준 고위 인사들, 금리인상 가속 시사…12월 '빅스텝' 가능성 부상",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-10T20:17:12+00:00"
     },
     {
-      "t": "[뉴욕유가] 중동 안도감 속 달러 강세에 WTI 0.9%↓…2개월여 최저",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwR1g0Z2RJekdJMXJEWi1zWG15V2tXcjdRVmdqSUY5aTZGelA1M3VuOUN3ZnJwSlRXYlVFYWxEU2k5MVVGa2hfSTFxaXltZWtITWtxbkRmUkl6OGhvSUFINmNnTnpnYkU0cUFGZWNINTBjQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-10T20:05:47+00:00"
-    },
-    {
-      "t": "美 국채 10년물 금리 장중 5% 돌파…물가 상승·연준 빅스텝 가능성",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CMHZiUG94eHhMUVhseXVvNVVxU3dRc2ZnS09US0t6Uko0Nm85d1dGQ25KaDlhWGdfeDhjMFBudjhQeHViVHB5aS1fTXlhTzBFeWF2bHo3R1d2X2l5a1JGbmRqWDBjcmc?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-10T20:02:21+00:00"
-    },
-    {
-      "t": "국제 유가 하루만에 5.8% 급락, 2개월새 최저",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBudXpyNWFKOUdmRVdtUHV5eDVVX2QyRHBSeGJybFZaQkNXOVo4Ui1FcXFhQ0k3QXVJOWVQdkppY2kwYWE3RlRvTl9hSlBKZ190V196dWdPWWY3QTZnRzdORTRRdWpBS0RoTmV0cXJyYmNVbWfSAWZBVV95cUxNTXJIUjBDQS1fT3d2UXlzQ2V0ejRvUEhDd1hNQjhrX19kOElSWTE3S01JRTVtd3JZbnd6SGhNa0VzYkxKeXNBYUVNSXA5eDNTMjJXaWZ4eHZFSW40UEd4dWRiRklOVFE?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-10T19:30:00+00:00"
-    },
-    {
-      "t": "김정관 “호남 반도체 팹 배치 이달내 마무리”",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vZzhxeTJOLURrU2Y1VUNTcUhyYW14Ty1lb2RwMVlXVFRqM183MDJNZjV5Q2t2RzhqOXVFMFVQQWliTURzZXc1c1hKc0FlV0U0b3lxNDc4Um02SkhYbDRPMTZrTEdEVm9kQlJWdHIzWWJ6TUZHOVc40gFmQVVfeXFMT2VvMGRpNVNLQkY4TERBdklKVXE5YTFNUmNKZjZHbnQ1RDdGQm9LUFpkOEY1MHZsRnFUTUh1VWlNa0g5bDVzanlhS1RLQkZ5WWhsQzlOVGptb0RTWWQ5eDlWT2RaV0Vn?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-10T19:30:00+00:00"
-    },
-    {
-      "t": "‘블루쓰나미’ 직격탄 반도체, 본격 반등은 언제? … “이란 전쟁 끝나야”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ndEZXR3psS0paRElKaGNTemNDWG11bk5GcHo2SEMzMjRhclc1eTEzMU9MUXZZTmxSeXFfQ0g1RWhzUUNtdTVDU195YzUtbU82bXc?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-10T19:30:00+00:00"
-    },
-    {
-      "t": "이란 안보수장, 미국과 협상 재개설 전면 부인…“유가 낮추려는 기만”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zT0FQaEdBMXdYR0ZXRUFXbzFEaWZsWWtWS3pUYnB4OXp5WkRtV1Q2V2VqODRYRjJKNzhKLUMtV0xFd3NkZVdKaVY3bHBicU95T1FsYmU5T2pwbjQ?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-10T19:20:00+00:00"
+      "t": "美 근원물가 또 0.3%↑…월러, 12월 ‘빅스텝’ 거론",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MV21tRlNhMXlqVmdScDkxbWd1VkNaUVl0bmRudnQzUHA4UHIxOVFHdkJUTkY3RUVDYV92Z0FqY0QxVkdzZTF1T1RKcE0tNUNoTW9QSmtXSllrUQ?oc=5",
+      "s": "경북매일",
+      "d": "2026-11-10T20:15:00+00:00"
     }
   ],
   "asof": {},
