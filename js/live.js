@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-10T02:15:34+00:00",
-  "quotesAt": "2026-11-10T02:15:34+00:00",
-  "newsAt": "2026-11-10T02:15:34+00:00",
+  "fetchedAt": "2026-11-10T02:30:34+00:00",
+  "quotesAt": "2026-11-10T02:30:34+00:00",
+  "newsAt": "2026-11-10T02:30:34+00:00",
   "quotes": {
-    "kospi": 5223.6,
+    "kospi": 5245.44,
     "spx": 7549.94,
-    "nikkei": 60491.59,
+    "nikkei": 60522.01,
     "vix": 19.92,
-    "krw": 1345.66,
-    "gold": 4132.9,
-    "wti": 86.33,
-    "dxy": 101.68
+    "krw": 1346.28,
+    "gold": 4133.3,
+    "wti": 86.22,
+    "dxy": 101.69
   },
   "daily": {
     "spx": 2.67,
-    "kospi": 3.24,
-    "nikkei": 2.92,
-    "krw": -1.25,
-    "dxy": 0.03,
-    "gold": 0.45,
-    "wti": -0.6,
+    "kospi": 3.67,
+    "nikkei": 2.97,
+    "krw": -1.2,
+    "dxy": 0.04,
+    "gold": 0.46,
+    "wti": -0.73,
     "vix": -22.31
   },
   "news": [
+    {
+      "t": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KOUp1V2RvdWs1YjlncjZiYXhQSXRac3dRYzJTeFZNRnNqY3M4clE1Q0I2WFd6Z19wZ0xLNXZJT21WZ3AxY3VGd0pueWlsMHU2UUttc0xLalRHUjZuQnlzZ01wbGF4ZXNJYWc?oc=5",
+      "s": "AI타임스",
+      "d": "2026-11-10T02:24:59+00:00"
+    },
+    {
+      "t": "[테마시황] 반도체·항공·DC 테마 동반 급등… \"과도한 우려 씻고 밸류에이션 매력 부각\"",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LX1lTNEVsekRSU3hQVDF1eVJiTmxVLWJ3bXBvQmFTRVZoOFVZM1dicm1IeXR4c2RkY3h0WTY2VE9KSHY1LS1MOUt6cUVnY0tHS0pmM3k0R1VUdkxmTEpCUzBvakIzYWw3bHM5a0k0OHJxSEhtX1E?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-11-10T02:21:11+00:00"
+    },
+    {
+      "t": "재경차관 \"신고포상금 확대로 물가감시 강화…법개정안 곧 제출\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZmo5d0h3eEk4U2hlRjhSaUF1eFN2U0hHc3ZFcGREdk15N0pUTElTQmdzb1dnOVRaSjItOXd6emFEd2hObGN5VG5hdnU1TklDNG5YR0wyTm5aOEnSAWBBVV95cUxOSGRudk4ybVNTY0p3dTdFU1VPTl9RMnFNeTJjbllNSDVtYll5Q1I4c252WmlIdk51LUNaUmhaNTdYMUdxOUF1OVFhNkZQZFpoRGx1ZkY0c2U0eGxhb2tPcm0?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-10T02:14:59+00:00"
+    },
+    {
+      "t": "美 AI 반도체 훈풍에…삼전·하이닉스 동반 급등 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWM2dsbTB6d3Jpd2N5bW5IUlJBYXhTcjZzZjVudEI5UkNwcWtaZV9fUXYtN1JZTEJMSjU5SGN6bUlyeUdWazJJTHJnckc2eDVMSl9fTkxpS2JlNm5YSHN6czdTb0FSXzNoUVNTeTloaVpWSVJaeUHSAXtBVV95cUxPVG5TZ1pnajZjanBybEtFXzA5RVZPWmtQcFZLcGhNVXN6Q2J4V3BUa2YyRWRKYy0ydWszY19UWUxubmFzcXBwSHZPLVBZNjlhbG1NRmtOYm5wODI0eXZabm85Z2pKUFRrZWJ3allNMVhRZEVmNXppc2dwYWs?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-10T02:11:19+00:00"
+    },
+    {
+      "t": "[기획] 가산금리 축소 법안에도 우대금리 ‘더 깎아’ 대출금리 되레 상승",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rbVpqN3RINnpYR3pldVU0ZnhvanM4VkktYTJMOFNLU1R3WjFGVEhtNjd2U3I4QnBJd3dvVzlVNHhadTVQVjRHOUJOUjdvR0xBVzZ1eUZPeElRU0JvcUJRRXlteTY?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-10T02:09:53+00:00"
+    },
     {
       "t": "민주당 ‘정책 요람’ 수장, 韓 관세에 “대포쏘듯 마구 부과…대부분 철회해야”",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15bWs0NGdwRERXNkJubmNQNF9GMnZJeVhvNEl2QlBoSTJhSUc2elFLY1J4ekl5TlhubVoxdVJDaWJBSERMMy1YRTVGR1ppWDY0X0VPZzNn?oc=5",
@@ -43,46 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-10T02:08:38+00:00"
     },
     {
-      "t": "용인교육지원청, 중학생 3천 명 대상 찾아가는 반도체 진로체험 버스 운영",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zNVVEOGc3Zy1hU1ZsQ1ZxNHhVVmZlZUVoRklkXzlNTnc1OG1OMGd1RjV1X3R3ZEdCQk1RYU1scC1XTzVzcm5MRFpKMjBoaWxKckVINjVBZ1NCSE5UMGNXd1VvUEh5UU9JbFU0NjdiRQ?oc=5",
-      "s": "기호일보",
-      "d": "2026-11-10T02:04:27+00:00"
+      "t": "주가 급락에 FRA 예측 최종금리도 3.25%로…채권시장 시각은",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96YUNTNTZvY1FSMXdrazJndWVNeVVLRThVSEFqWFpJekFrcVp6UHpNNUlxVFp3RlNIT2QyQmY3dEVZeGlPVE1SNDFxMjVEc0p1WEJqdUxOaFE1MEJ0QWxOc0RVSkV1MVRQSkw3eGdyVmI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-10T02:07:37+00:00"
     },
     {
-      "t": "KDI \"AI투자 중심 양호한 성장…반도체 소득효과 가계엔 아직\"",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52YVJBamxOMUcyd2NpcEFRVXNTc1FMZkRtRGNwS3pSZXAzWmJZTHJKNFhTTTdDdWFIdGRtQmp5bk1BMGc1ZFAwbTY4REV0VW5nTzh3RXpoTVY2MGVJQ0VWUEE3U2J2dm03UkRpdw?oc=5",
-      "s": "세무사신문",
-      "d": "2026-11-10T02:01:11+00:00"
-    },
-    {
-      "t": "애널리스트들은 왜 지금 반도체를 팔지 말라고 할까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZkVSbG1yM0pMTmh5NGZZY043NjlxNVRPdTMyQ0ppMmpkQ2pUYndhbG5RbWRlUFNSRWVNOFhCR28yblE1VU9wSE5JdVpINFI1d1h0MnZkMHc0dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-10T02:00:08+00:00"
-    },
-    {
-      "t": "금리 인상 우려에 11월 수도권 아파트 입주전망지수 하락",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tWTRnT1dKdTAyenVLRExNUE9ZNEhYampjLWE5d2plOUFFZUhUM09nbWl4S0d0Y1pqOE5xUkpGSjhYRlZuQ25JX29GdGZSQXRYeWUySlc5NmpTV2vSAWBBVV95cUxPRmNiRUpKWUZCOWUtbGM2R0QtaWp6aWdLNXgxX2xwOFQzbTRZNlRjRzQ1TDg5WjdfNXo2SzYza2JTRE1xZnA3ZExSWTIzemdKSUdseDZmcTlPQmNIenVvMXE?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-10T02:00:05+00:00"
-    },
-    {
-      "t": "[논단]AI는 이번에도 금리를 이길까?",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94TUFLUDQtMVNCSmp3T00tTjcyYmV0djR0Z0dnSHJSVlZzcnJZeXk2ZXBVal9VZTlidlo1ZUlDS25tZElnb2h3NUwwelo4RHJVaDRITXJvRjczN0lBUHNTUA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-10T02:00:00+00:00"
-    },
-    {
-      "t": "‘블루 쓰나미’ 딛고 코스피·코스닥 급등… 동반 매수 사이드카도 발동(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wd2FJSy1xN0dGWTREeUtfQXZxaHY3SDNnNHU2TTBYbjlOUzFRSHBVRVIwR3k3MVdiT0xhdzZ4MWxXRzMzMldhMFBJczU2a3NiMUFxamd6YzkyTFNKakpZeVlDcFgyeS1QSEE?oc=5",
-      "s": "천지일보",
-      "d": "2026-11-10T02:00:00+00:00"
-    },
-    {
-      "t": "\"코스피 '이 때' 기다리다 사라\"…7100선 반등 가능성 제시한 증권사",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uMldSRDlFdjZVR0lRR1hvMDUyWTh2UXdvUTVJN1ZtZUY2NEtvY0M1WC1rZzRLMUVzM2wxM0paQ29kRU00RVVFdThrQk12bGYxVmZNenI4ZjBWX3MyQkJxYg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-10T01:53:10+00:00"
+      "t": "젠슨 황 스캔들에…美 반도체 전쟁 '새 국면'",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNk1ndHE3aGZWTkxvVkRWeHFldzlrMnMtZkowanFGb01kMll5blBSbUQwdHhZR2o0a2hha0djOXRzRFZ4aGhUZFE1Mmo3bWJUT01kcVdCdlRfclJ0NkUxT1lrVmU?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-10T02:06:33+00:00"
     }
   ],
   "asof": {},
