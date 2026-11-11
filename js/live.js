@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-11T21:45:06+00:00",
-  "quotesAt": "2026-11-11T21:45:06+00:00",
-  "newsAt": "2026-11-11T21:45:06+00:00",
+  "fetchedAt": "2026-11-11T22:00:05+00:00",
+  "quotesAt": "2026-11-11T22:00:05+00:00",
+  "newsAt": "2026-11-11T22:00:05+00:00",
   "quotes": {
     "kospi": 5375.36,
     "spx": 7619.38,
     "nikkei": 61248.59,
     "vix": 17.49,
-    "krw": 1338.65,
-    "gold": 3991,
-    "wti": 86.39,
+    "krw": 1338.77,
+    "gold": 3993.9,
+    "wti": 86.47,
     "dxy": 102.92
   },
   "daily": {
     "spx": 0.92,
     "kospi": 7.1,
     "nikkei": 1.31,
-    "krw": -0.39,
-    "dxy": 0.68,
-    "gold": -0.97,
-    "wti": 0.41,
+    "krw": -0.38,
+    "dxy": 0.67,
+    "gold": -0.9,
+    "wti": 0.5,
     "vix": -10.12
   },
   "news": [
+    {
+      "t": "[뉴욕증시]코어위브 호실적에 AI주 반등…나스닥 1.6% ↑",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zci1aX1kycDN1STY1andBeWRYb1lVYUx0SjluUUlOeFNrZllXNmotb05SZEoxS0w4WWNwMllfRzU1MUhiU3Z5OFY0U05Jd3JpaHZMSnkxVThEN0wtYXN4Nw?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-11T21:51:02+00:00"
+    },
+    {
+      "t": "코어위브 25% 급등에 AI주 반등…나스닥 1.6%↑",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RTi1MakxJWGMyVEwyQmdaNWV5MmFmRVI5RjM0bmRCNVhHT29kNGNxeEw2aFg5dXBydkNpVFBNZ2dPZzhEXzhjZHNGenR2NW5WbWN1X3NhY1cwZzBpRlJWNW9wOUh3c01Ocml3T3laM3laTFk?oc=5",
+      "s": "마켓인",
+      "d": "2026-11-11T21:48:13+00:00"
+    },
     {
       "t": "AI 투자심리 회복에 뉴욕증시 반등…나스닥 1.60%↑",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QlV3UlJkOThhcWJTcE9GUHk0TVdUSnFDdzFtTklsUGxJd1U1R1dGQlM1YlgxX3VuYmZXYTZYWG9MWjJOSmt0bHEtM0psV2lrdDJIR1U4MDg5OVNRSTJaTWFxV2NuYmltM0twRg?oc=5",
       "s": "뉴시안",
       "d": "2026-11-11T21:41:57+00:00"
+    },
+    {
+      "t": "주춤했던 대중국 반도체 수출 규제, 젠슨황 스캔들 타고 급물살 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcDRJU29qdlAzNlFySzhCZm5KVFBfRkdVeXV2Zktmc3NNTlRFR2w0TnVRR2FMRjN5Mjlua1NDTEMtSWk4cmlmWFFYSHIzWUcxb3BKdTVIcFNmam9GVVJVc00ycjNqUkc3TUFhbnFfaEtwT2xYQkHSAXtBVV95cUxNLTZxblNkancyWHRXT0p1Q05BVDk3MGtEenluNmVIcUVPeTNwSEZrUWFmVktBT3Q3dUpGZS1TbTU5ampDMDNBUm9IN1gtR19uTWcwV29YQU40bTN3eUR5U3cxMmlTTTkxdFJjTS1qZTlYS3hibFVSMkFPdVU?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-11T21:40:29+00:00"
     },
     {
       "t": "뉴욕증시, AI 투자심리 회복?… 나스닥 1.6%·반도체지수 5.7% 상승",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPRV9RY2lvOEE1NTlON2tiaFROMDM4bFVrd0t3TnByZUc1QnRLWHVXQU0xMkJVZkdyU3BXUnMwSnl6OUZmb2tNZ1ZOaURCQzRvWEE?oc=5",
       "s": "매일경제",
       "d": "2026-11-11T21:20:13+00:00"
-    },
-    {
-      "t": "[금/유가] 이란 종전 기대 후퇴에 유가 반등…美 물가 충격 속 금값 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrNkdhOFRWVTB5MlRpTHgyVlF3VDJCdGZGdm14Z05Fandoa2RVTnM2NS0wRlh6bHZ2TEY0anRzTWNIM1NRUFloRS1Ia29QNEt5Xzl6SzlvOElLZ3VE?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-11T21:20:00+00:00"
-    },
-    {
-      "t": "美 필라델피아 반도체 5.66% 급등…마이크론 12%·SK하닉 ADR 10%↑",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83QnNnNEFyZEUyeHNHdGM0aW50MkJua2ZtMkxMdHNCdkdyLUNKRUtGLUtoWGwwVGpSeXIzVHJXdnlfQVphZUVXNFFqSXBaMnZuSnhxTmE5bjF0VnN0WnFYUGpmWTR5dEE?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-11T21:14:46+00:00"
-    },
-    {
-      "t": "[뉴욕증시-1보] 코어위브·앤트로픽이 기술주 쌍끌이…나스닥 1.6%↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13amNncFoxeHEwdlc2MFRudWxnZVJsTl9LYWctWk4yUkY0VWlERFlTYlgyTGtUNjlKOWV0eDlaaVpDQVJhUzd5b0prelY4RTFjMzJsU0RaUUx6cEJoWkJyWFJNVTJ1S3BrTHZGSzQteELSAXRBVV95cUxQTTR5THh1Y0JSYnd3MTEzLUh2LXFSYWFyRGYyREdPOWZjdVhtT2ZXb1VGRXBPR1VlS2NDQ25NaGNNYnhzaEV2R25ZM09lNjIxTTYyejlQRmxBTDlFdUMwZXRRMzZ0TEwzbXc2TDA1Nl8zUldBQw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-11T21:14:21+00:00"
     }
   ],
   "asof": {},
