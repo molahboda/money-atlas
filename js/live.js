@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-13T02:30:12+00:00",
-  "quotesAt": "2026-11-13T02:30:12+00:00",
-  "newsAt": "2026-11-12T06:00:13+00:00",
+  "fetchedAt": "2026-11-13T02:45:02+00:00",
+  "quotesAt": "2026-11-13T02:45:02+00:00",
+  "newsAt": "2026-11-13T02:45:02+00:00",
   "quotes": {
-    "kospi": 5445.24,
+    "kospi": 5418.34,
     "spx": 7592.4,
-    "nikkei": 61774.89,
+    "nikkei": 61823.06,
     "vix": 18.7,
-    "krw": 1333,
-    "gold": 3912.7,
-    "wti": 88.35,
-    "dxy": 103.15
+    "krw": 1332.18,
+    "gold": 3916.5,
+    "wti": 88.63,
+    "dxy": 103.17
   },
   "daily": {
     "spx": 0.95,
-    "kospi": 1.3,
-    "nikkei": 1.57,
-    "krw": -0.24,
-    "dxy": 0.23,
-    "gold": -2.19,
-    "wti": 2.1,
+    "kospi": 0.8,
+    "nikkei": 1.65,
+    "krw": -0.31,
+    "dxy": 0.25,
+    "gold": -2.1,
+    "wti": 2.43,
     "vix": 6.92
   },
   "news": [
     {
-      "t": "[뉴욕증시]코어위브 호실적에 AI주 반등…나스닥 1.6% ↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zci1aX1kycDN1STY1andBeWRYb1lVYUx0SjluUUlOeFNrZllXNmotb05SZEoxS0w4WWNwMllfRzU1MUhiU3Z5OFY0U05Jd3JpaHZMSnkxVThEN0wtYXN4Nw?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-11T21:51:02+00:00"
+      "t": "코스닥, 젠슨 황 사임에도 4% 급등…코스피는 장중 5500 찍었다 By 알파경제 alphabiz",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92U3F1ejJxWlBZVW01NlBMNkdJY3hGRVBYZFFvM1BROXlfdFFNTll2TTltaUFvS2dfeDlmY21CREFzb0pVc01RU3BtUTJrNTRnMU1QaXBlV3pWVTQ5OEg5Z2dwX0hDS1M3bFZZektOUVQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-13T02:38:00+00:00"
     },
     {
-      "t": "코어위브 25% 급등에 AI주 반등…나스닥 1.6%↑",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RTi1MakxJWGMyVEwyQmdaNWV5MmFmRVI5RjM0bmRCNVhHT29kNGNxeEw2aFg5dXBydkNpVFBNZ2dPZzhEXzhjZHNGenR2NW5WbWN1X3NhY1cwZzBpRlJWNW9wOUh3c01Ocml3T3laM3laTFk?oc=5",
-      "s": "마켓인",
-      "d": "2026-11-11T21:48:13+00:00"
+      "t": "대통령 앞에 선 증시 전문가들 주가 누르기 막고 부실기업 퇴출…오래 투자해도 돈 버는 시장 만들어야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ3pzNS03R2JZbFg2azl0dXVuRlhreDByblhsZm0xT0pBcTNlZDJadnNqV2NnM2tMWUxCQnZnVkxGSDloNUZTOVFZQkk2VVd0YnkwRkFmZ1hpdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-13T02:35:04+00:00"
     },
     {
-      "t": "AI 투자심리 회복에 뉴욕증시 반등…나스닥 1.60%↑",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43QlV3UlJkOThhcWJTcE9GUHk0TVdUSnFDdzFtTklsUGxJd1U1R1dGQlM1YlgxX3VuYmZXYTZYWG9MWjJOSmt0bHEtM0psV2lrdDJIR1U4MDg5OVNRSTJaTWFxV2NuYmltM0twRg?oc=5",
-      "s": "뉴시안",
-      "d": "2026-11-11T21:41:57+00:00"
+      "t": "[테마시황] 정부 정책 입은 반도체와 턴어라운드 노리는 건설주",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyYk5GWWtrLWNHbkVGd1IzX1VpTmJlVnIyYmxGWmVJc25CUHM1bU9WaTR0TnpSa1doY09NaFdvZzRBdFRUSG1mVnlsa2dCZEt3Y2hUS1JLZ1pvTm5WMWFHQ1o2VTNPazZUY2ZCeFZXcmxlR3QybVE?oc=5",
+      "s": "인포스탁데일리",
+      "d": "2026-11-13T02:35:02+00:00"
     },
     {
-      "t": "주춤했던 대중국 반도체 수출 규제, 젠슨황 스캔들 타고 급물살 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcDRJU29qdlAzNlFySzhCZm5KVFBfRkdVeXV2Zktmc3NNTlRFR2w0TnVRR2FMRjN5Mjlua1NDTEMtSWk4cmlmWFFYSHIzWUcxb3BKdTVIcFNmam9GVVJVc00ycjNqUkc3TUFhbnFfaEtwT2xYQkHSAXtBVV95cUxNLTZxblNkancyWHRXT0p1Q05BVDk3MGtEenluNmVIcUVPeTNwSEZrUWFmVktBT3Q3dUpGZS1TbTU5ampDMDNBUm9IN1gtR19uTWcwV29YQU40bTN3eUR5U3cxMmlTTTkxdFJjTS1qZTlYS3hibFVSMkFPdVU?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-11T21:40:29+00:00"
+      "t": "젠슨 황 CEO 사임 등 악재에도 코스피 장중 3% 강세",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZTBEbGczUDhYeDBBNzRNSHNhcG40dXNtc0FMUTFNREpfVVh5d203MnUzcS0xRU9VSGZKbVpKZnl6Z1dPWHQwd193Sl8tejBkeUxydEtkNGhaVjU0OWhpOWNLcUJQTS1aWnotTHpQNWNBU0JTWmfSAWZBVV95cUxOX2Z2Z285Vm4zejk3cS11U1I4MUcwNEdtY0RjN2xQdms0X1dQbDZVUkNIT3BveGM5cXpJaTk3YjFxN3UtU2lFLUUyWGtOMVlDTlowRUt5LWE1OWhPcGRvX0FtQUJqa3c?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-13T02:30:00+00:00"
     },
     {
-      "t": "뉴욕증시, AI 투자심리 회복?… 나스닥 1.6%·반도체지수 5.7% 상승",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SNXdrMUE3LTV5OS1CeEVoR1B4RmtFRnNLanc3a2YwRkRKR3RRNFNIQjQ3Ynl2ajZZUHFvdlE2ZERvSWdfNkdLLXNSRVhUZktBa09iTl9QbWk2UU5qdXVaV3VEUVI?oc=5",
+      "t": "李 \"골 깊으면 산 높다\"…코스피·코스닥 나란히 상승세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZUZnNE85d0FRWGF3cW5DYXJEckhwQzM3MDFpWDBkT29vcEpjX3BuSXozeFc5T0g2azdIWllGbHdwQWZvRXNvNXhQZ20ySzI5WlZTeE1JUkphNTNHaHJpXzFjWmEzU3NzU0pkTHFLeFQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-13T02:29:52+00:00"
+    },
+    {
+      "t": "인도 타밀나두주, 독자 반도체 투자지원책 가동… 소부장 기업 진출 기회 확대",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00TExwWXRjd1pfcWkycnlZdmRGZnNYV1NvbGlJOXliZGRzWG1IRnFCWU9IdU5LS0VCeVBSSGVjYW5hay1kcHZ5WDNCLXN3bFRFZ3JrM2ppRFZIakJOaXhwOTA1d1g3UQ?oc=5",
+      "s": "기계신문",
+      "d": "2026-11-13T02:29:41+00:00"
+    },
+    {
+      "t": "반도체 업계 만난 노동부 장관…사회적 대화 논의에 참고",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xWEVzcHlmN2lsNnRTYVZoczNPV2xzWC1tWW5QM0w3Y1BVMDI3Zld0MDlnOWdrQ0FaR1dwV3hkbGsxZ3RpRVVSczR0NURLa3R0dE5sd3NvZ0tsRlFpNXdkV3RoUFFtcWZMLUhWcVNybkw0MVFM?oc=5",
+      "s": "대한경제",
+      "d": "2026-11-13T02:21:32+00:00"
+    },
+    {
+      "t": "“주가조작 엄단·부실기업 퇴출”…이 대통령, 증시 신뢰 회복에 고삐",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZ0p4UnlqUU1aY2lxd3ZHbmNyQWhBOS1oQ29sSlU2NmE5UFhMRE83TUtDbmg0VFQzSW5nZXpubE0wR3dNOFh3TDRhQTkxOHJKcmNGNG1Sdlk0dl8zaHdZU0FTTi0?oc=5",
       "s": "디지털데일리",
-      "d": "2026-11-11T21:31:51+00:00"
+      "d": "2026-11-13T02:21:24+00:00"
     },
     {
-      "t": "다카이치, 미 여당 참패에도 재정확대 고수…중동발 물가 경고",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVhlc2RTUXVYZG1nNWJKVFpXMDlzSTctM0hFQ0pQbjlSUHVKTmFhMjlXU2NGbWVJVzMzQ1ZDQklxNHpZZklremM4UjhicnZqUXZqMFNWak5LRkR5UGhqLWt4ZkZkVmFrTHdrNldIeHBkMVNwUTczb1hFei1INVNkMXZOSGdsR0pT?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-11T21:30:00+00:00"
+      "t": "한양대 유호천 교수팀, 빛의 입력 순서까지 기억하는 ‘2차원 반도체 광메모리’ 개발…AI 반도체 활용 기대",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRnBKRXZkZWhKUzIxajlzRFR3eThYdW1Zem41SEYzM3ZtcldIUjE1d2FCQWtKR1M3QzhMNFQ4c0IySjZDVE43QVpxQjAtYVpGTkxHdEo0UHZVNS0tR3pUdWdQcVI1ZVBLSjJR?oc=5",
+      "s": "뉴스H",
+      "d": "2026-11-13T02:17:08+00:00"
     },
     {
-      "t": "[뉴욕증시] 코어위브發 AI 훈풍에 나스닥 400P↑…엔비디아 2.8% 반등",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDlDb29MaEtSc2FUQ2UyOXZxM09sb05maFdINWM5Uk1lWGR5akhVenRkTlI1dXIyOW43bDNJZmtGd0gyNC1QNE5hUC01MnFIX1IxeXlnMF9rVUpOQW1rYUdVQmpPdjBPWmc1ZXBwTXRKbS16bnFjMHJyUENWMTExTExSMEJIRzN0?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-11T21:28:00+00:00"
-    },
-    {
-      "t": "[포스트 반도체는 피지컬 AI] ② “AI, 공장으로”…제조업 강점, ‘피지컬 AI 생태계’로 확장",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Sd3hWTmtBMHNZektySjNOZmpDTHQwQVRYTWU0VnVYb2JQc3NablpieUc3ODEtbE9OV2dRMzBBVjI1dE4xYjlyamlXd3pOUlp1UnRId3p0VzdWWGd2QTRLaU5NSEtpdmE5RW9NQjlDaEdoY2lZ?oc=5",
-      "s": "대한경제",
-      "d": "2026-11-11T21:20:40+00:00"
-    },
-    {
-      "t": "[포스트 반도체는 피지컬 AI] ① 피지컬 AI 기술 자립화 시동",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54enBOUkhOMEdmbzBtR002YWt0R19fQXdCUW1rR2pJVnlGYjhiNEtKVHM3WGtySWxVOFQzc3lwdEg4RWthXzBzMEhvNnVzUG9MaG9fTEkyNEZmUG1CN1kxRkpmazB6QmdVS2wya0VlSHFYbVpR?oc=5",
-      "s": "대한경제",
-      "d": "2026-11-11T21:20:37+00:00"
-    },
-    {
-      "t": "“물가 꺾였다는데 체감이 전혀 안 돼”…더 치솟는 美장바구니 물가",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPRV9RY2lvOEE1NTlON2tiaFROMDM4bFVrd0t3TnByZUc1QnRLWHVXQU0xMkJVZkdyU3BXUnMwSnl6OUZmb2tNZ1ZOaURCQzRvWEE?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-11T21:20:13+00:00"
+      "t": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50em9LMnhsYWh1czFoV0twZ3Rra1A4SmttRlhOUGlfSDZFUjE1all0eEE1Sy1LZzJWc21ybzQ2QU95c1FHUGZtcE9yb0FyTXNqTjFXYW1BMVk0TF9fd055N19kSkFNaGxfLWJPRGp3UGU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-13T02:16:44+00:00"
     }
   ],
   "asof": {},
