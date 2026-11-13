@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-13T03:00:02+00:00",
-  "quotesAt": "2026-11-13T03:00:02+00:00",
-  "newsAt": "2026-11-13T03:00:02+00:00",
+  "fetchedAt": "2026-11-13T03:15:02+00:00",
+  "quotesAt": "2026-11-13T03:15:02+00:00",
+  "newsAt": "2026-11-13T03:15:02+00:00",
   "quotes": {
-    "kospi": 5436.32,
+    "kospi": 5384.38,
     "spx": 7592.4,
     "nikkei": 61816.72,
     "vix": 18.7,
-    "krw": 1331.98,
-    "gold": 3914,
-    "wti": 88.36,
-    "dxy": 103.17
+    "krw": 1331.85,
+    "gold": 3921.4,
+    "wti": 88.17,
+    "dxy": 103.16
   },
   "daily": {
     "spx": 0.95,
-    "kospi": 1.13,
+    "kospi": 0.17,
     "nikkei": 1.64,
-    "krw": -0.32,
+    "krw": -0.33,
     "dxy": 0.25,
-    "gold": -2.16,
-    "wti": 2.11,
+    "gold": -1.98,
+    "wti": 1.9,
     "vix": 6.92
   },
   "news": [
+    {
+      "t": "반도체 수출 자금 유입 지속…9월 통화량 전년보다 5.5% 늘어",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXVSdnc5NGRMWUtUbDNMY0RBOG9vLV9fN2d5Qm9IcjB4VUVGOFozVzdXS1c3ME5ydURmNUU4eFNoX2RQSlg5aVdDUDhOaVdqdjQtbjViLUNDQXpXZmpQdXM0NTd3dHB1MVNNRzJDSVpDTXZoNHV3ck1XMEdHb0tJMWRvVXhrbnpsbWpXeVNB?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-13T03:04:14+00:00"
+    },
+    {
+      "t": "日 국채금리, 전 구간 상승…10년물 7bp 넘게 올라 2.86%(상보)",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWl9SdXRBN3BYc2dtOHh5aUZtenp3T0MyNGZTdVozc2FXMTdUOHdNZDRIanBKZTAyWGdPcFloTTZ6eUw0UkdjcUxvR2pmUno0elJ6Y0g0X253TllNVU5xQ1FheDhfeVNVdC1uZ0ZQZ3c?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-13T03:02:19+00:00"
+    },
+    {
+      "t": "[PD담합 그후②] 돈 안 되는 PD, 누가 하나…골대금리도 이견",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GT0NTeGRqRXlsNHgtZ2JmLW52S2pRcldGSmlLYi1sUzRyOG82QXFNZE9fVmpfSUpQUVllVjlCbG5DS0laY0psenl4U3Z4U0xyRV8yWlFKRHByTkJuUENMUm8tTDNjd2FwdlZpNTF0azM?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-13T03:02:07+00:00"
+    },
+    {
+      "t": "147조 개인 자금이 떠받치는 증시, 전문가 3인의 처방은",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Wm9lQ01KM0djOUtyUk05Z3kzQUZfdUplTFo0TGFBZzhZWEdYbnJhYmhnSVFib1NJV0p4VTUtME11RnpYMzkzMFNRb1diVjAwRFFhaUx1aEgxbEZ0OTNQQTdBM3lSakxfWWNDd3VZX3BrMHhpaVBB?oc=5",
+      "s": "OhmyNews",
+      "d": "2026-11-13T02:53:00+00:00"
+    },
+    {
+      "t": "中 국내 유가 3개월 만에 하락…4월 초 고점 대비 6.5%↓",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EeGRRenhqbXoxcHEzR1UzZ0tSUnoyaGUyTFJGVlRER2ZvN1NrQlRFOEhwT0ZiTFFmWmpNeF9hZkxMNjZkOGZpS2c0ZUlBclJYWHc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-13T02:51:48+00:00"
+    },
     {
       "t": "증시 변동성에 증안펀드 거론…이억원 \"굉장히 긴급할 때만\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qNFBtYmtSdFRlVVN2cDBVVnZnSmZTdWt3TGFZZW0zU0xpaDdHMTJZVG81Rk8tTnlzRnlfZnNBSHF6RzRMR2ozTkVURmdkMWsyUlllODM2ZTc4VDZ1S2ZyTnVTR1g0RG8?oc=5",
@@ -37,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-11-13T02:44:00+00:00"
     },
     {
+      "t": "국고채 금리 일제히 상승…3년물 장중 연 3.756%",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Nd2pNWGlqcE4zWmw0YTRNOGE5TXJQNGlILWE0NzYtWXZWSU9nVVV5ZXozQWlIMEJQRXBqSGpsdUFLYUJNLXMwWWFrVlpwV0lkYXc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-13T02:43:52+00:00"
+    },
+    {
       "t": "[테마시황] 정부 정책 입은 반도체와 턴어라운드 노리는 건설주 By 인포스탁데일리",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1idFpkUVN0bExJS2lhd0N1eVRMOFh3WnJXS0s1MGExUjhfZ2h6dTl6WXJQOEJvWEdWb09FelV2UnZJZ2dDYzl3SWtLWHdzODFHcHRqem5CaHhTR1YtS2xfV1hDSzA0Z0c4b0lvbkRxcHE?oc=5",
       "s": "Investing.com 한국어",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92U3F1ejJxWlBZVW01NlBMNkdJY3hGRVBYZFFvM1BROXlfdFFNTll2TTltaUFvS2dfeDlmY21CREFzb0pVc01RU3BtUTJrNTRnMU1QaXBlV3pWVTQ5OEg5Z2dwX0hDS1M3bFZZektOUVQ?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-13T02:38:00+00:00"
-    },
-    {
-      "t": "한일경제연대, AI·반도체 공동개발부터 경제공동체까지…2045년 목표 3단계 로드맵 제시",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlekItNE45ZDRaT0VsMU9RUUNobTh2bTRjQnU3Uk8wZWp3cDdrQVBBQk5xamtUbExoVDRzSlYxdGdwYy1BbktDOHU4NUI0VkhoX2Q0NHU5VWFOTVRBYzA1YW5QeEdRd3c?oc=5",
-      "s": "인공지능신문",
-      "d": "2026-11-13T02:36:30+00:00"
-    },
-    {
-      "t": "대통령 앞에 선 증시 전문가들 주가 누르기 막고 부실기업 퇴출…오래 투자해도 돈 버는 시장 만들어야",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ3pzNS03R2JZbFg2azl0dXVuRlhreDByblhsZm0xT0pBcTNlZDJadnNqV2NnM2tMWUxCQnZnVkxGSDloNUZTOVFZQkk2VVd0YnkwRkFmZ1hpdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-13T02:35:04+00:00"
-    },
-    {
-      "t": "젠슨 황 CEO 사임 등 악재에도 코스피 장중 3% 강세",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZTBEbGczUDhYeDBBNzRNSHNhcG40dXNtc0FMUTFNREpfVVh5d203MnUzcS0xRU9VSGZKbVpKZnl6Z1dPWHQwd193Sl8tejBkeUxydEtkNGhaVjU0OWhpOWNLcUJQTS1aWnotTHpQNWNBU0JTWmfSAWZBVV95cUxOX2Z2Z285Vm4zejk3cS11U1I4MUcwNEdtY0RjN2xQdms0X1dQbDZVUkNIT3BveGM5cXpJaTk3YjFxN3UtU2lFLUUyWGtOMVlDTlowRUt5LWE1OWhPcGRvX0FtQUJqa3c?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-13T02:30:00+00:00"
-    },
-    {
-      "t": "李 \"골 깊으면 산 높다\"…코스피·코스닥 나란히 상승세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZUZnNE85d0FRWGF3cW5DYXJEckhwQzM3MDFpWDBkT29vcEpjX3BuSXozeFc5T0g2azdIWllGbHdwQWZvRXNvNXhQZ20ySzI5WlZTeE1JUkphNTNHaHJpXzFjWmEzU3NzU0pkTHFLeFQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-13T02:29:52+00:00"
-    },
-    {
-      "t": "인도 타밀나두주, 독자 반도체 투자지원책 가동… 소부장 기업 진출 기회 확대",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00TExwWXRjd1pfcWkycnlZdmRGZnNYV1NvbGlJOXliZGRzWG1IRnFCWU9IdU5LS0VCeVBSSGVjYW5hay1kcHZ5WDNCLXN3bFRFZ3JrM2ppRFZIakJOaXhwOTA1d1g3UQ?oc=5",
-      "s": "기계신문",
-      "d": "2026-11-13T02:29:41+00:00"
-    },
-    {
-      "t": "노동장관, 반도체 기업 간담회‥초광역특구 사회적 대화에 참고",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zelJzejNqZWVLV0E3V1pxTHBPZHY1ZFJxcWdtX0Z5S3RsX0tNN1Qzb0plcnl0VFJoSzhLcGdVWTl6WmRLOTQxNkFtMkJsdV8xNmpZTDIxZW5TZlJrUDhZTXZCWjJ6VFdtVlltQURZTGdxc0tPUmhN0gF3QVVfeXFMUEhCX0dtVUIxMWtwaEtmaWpQZjViLU5xQmlOZTJlRG1MRWZnX0Vrc1djTWtSSE5scmhOUXgxc1Z0N29RUjAtUktSWVNDTWpPUVRrLXVkWmN4RHcxdDhYemtlOEswOVp1Q3FNNGoxT0hfODN6NEtCU2c?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-13T02:27:14+00:00"
     }
   ],
   "asof": {},
