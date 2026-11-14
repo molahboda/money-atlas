@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T09:45:46+00:00",
-  "quotesAt": "2026-11-14T09:45:46+00:00",
-  "newsAt": "2026-11-14T09:45:46+00:00",
+  "fetchedAt": "2026-11-14T10:00:46+00:00",
+  "quotesAt": "2026-11-14T10:00:46+00:00",
+  "newsAt": "2026-11-14T10:00:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "호남반도체 산단 조성 토사 확보 나서",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qRmRKeGJZb1NPd2hzTjU0azRLSkw5R01ZQ0VzNUZvVi1LTzdwczdfMlZ2Q1FEV3ltOG5hRWhmcC1wTUptakUxbFJPWjFpLVpkeDZQdzlB?oc=5",
+      "s": "헤럴드경제",
+      "d": "2026-11-14T09:41:47+00:00"
+    },
+    {
       "t": "한국, 中 수입시장 6개월 연속 1위 수성… 美 수입시장서도 9위→6위 ‘껑충’",
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sMUhkZHJnM3ZQM0NzbGkyZ1NvOUZmemJEaE5tOGExQjVWcFVqVlZTbmRCMm1MT1lKRjZNVF82dnRWTHFKWWUyVkxEaTNTWEY1VjlNUw?oc=5",
       "s": "타임뉴스",
       "d": "2026-11-14T09:37:06+00:00"
+    },
+    {
+      "t": "VKAISS 2026, 베트남과 한국의 AI 및 반도체 협력 강화",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWdUd0d2tCaWlES3lOUnp4Mk9IaHVlRmlYNlIxcXJQdGJJNWREZUpVcEUyZUJDWmNtaWd3dDBsS2ZxYVUtMXRlSEVUZlZ0OUdpMk00ZWQ4dzJxaTdBLTBYTQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-14T09:31:08+00:00"
     },
     {
       "t": "\"트럼프, 대중 반도체 규제 폐지 직전 엔비디아 주식 대거 매입\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oM3dPZE1Cb0xDVDJsODN4VHlRTEkwNDQ1ODcyTzAtNGZTajZETTRPODI3UVNmLVlqcTJ4VjY1bFdFaTNXeXRCSDFwVXhyQW1iYk9GTkd1NUxwd3RzTm5PMVlLWQ?oc=5",
       "s": "매일산업뉴스",
       "d": "2026-11-14T08:34:53+00:00"
-    },
-    {
-      "t": "영란은행, 2027년까지 추가 금리 인상 가능성 시사",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McVlQclA0RFVtZ1I3ZEpQME03SEpCTWJ3Tkd5ekhJanlGZXBTUFlvMzNQeUo3VmZiNDI5TmI4Ry1LVkhST3ZXM1c4cEprZEx1X2FZYXBqTWdDZ2RmeVpPLXA5RzAxQ3RWLTIwOHNLZGU?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-14T08:24:00+00:00"
-    },
-    {
-      "t": "반도체 클러스터 조성에 대비…도시재생·주택 공급 해법 모색",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUkZ6QV9ub0loZTE1VjZvT0hZWXNweU9QOXFwZkVEZ3Y1N2Q3ajdWR3BhVFpId3NoUDktQWNXT2lrbnBfcURyU2JDRUk1bmlab0VvQUFldllYRzE2QXU2Sw?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-14T08:23:01+00:00"
     }
   ],
   "asof": {},
