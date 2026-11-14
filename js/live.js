@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T12:00:46+00:00",
-  "quotesAt": "2026-11-14T12:00:46+00:00",
-  "newsAt": "2026-11-14T12:00:46+00:00",
+  "fetchedAt": "2026-11-14T12:15:45+00:00",
+  "quotesAt": "2026-11-14T12:15:45+00:00",
+  "newsAt": "2026-11-14T12:15:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "반도체 주식, 매수 신호는 딱 하나입니다",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2FqakFjdXZ5M1duUXkzQXlBakp2UDByY0MtUkpkSjA3OWIwN3JYWFYyYVpTUHNQY3JlQm8zZWxmc1d2YkJwallCVDZnZ2c3ZzRlVHhTU0pPZ1Q3SkhtRTlVdWM2M1ZkclpkS1oyaC1Db1E2RkhVTUJRdWhXTDIwRVExRHBBMmp1OFkw?oc=5",
+      "s": "네이버 프리미엄콘텐츠",
+      "d": "2026-11-14T11:59:00+00:00"
+    },
     {
       "t": "“트럼프, AI 반도체 수출통제 풀기 전 엔비디아 주식 대량 매입”",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWd2QWhpdzFHdHlhdW4tU2NYbGhBbkplZW9BQ2pqRjlYMjZVdzZUaFZGb0k0RWZERzkzSDRIaDZKT2h5YVMwTmVxai1rNkZEWGlzZVZEbDbSAVRBVV95cUxORUdGcy13SlhYOFVCMjVOVTBIeHJzVzlNeFVYdDZMalljWVdOYjlzQlRDRFNtQjdlWGFDYjl2Y3oxMVN1RUVvMXVYV2kyeEJMQjhvd3A?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVHlYeHRfa2U4ZEhXSXJHYjYxT2pXcFRqRTVaZDU1ZThDQVpXS2ttTzJOSktjMEl5Y2FQczhLMHJGYmV4RVBIckdMX1JBaGc4UXM5cnFXd3NuUdIBWEFVX3lxTE4zOE1GTDR6cGdSUEdlN1RFYTlZaU5OOWtjYW5LbDd6OV9aeFZJMHVSbDVYXzM4TzEwUy1xd3A0R0JuWnJpVXlwWFV0bVF4Tms5VkRQZHdLckQ?oc=5",
       "s": "아주경제",
       "d": "2026-11-14T10:23:05+00:00"
-    },
-    {
-      "t": "대만 매체 “앨리스 황은 중국 정보기관 반도체팀 소속”",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFMcXd1eTJZTldfQkd1ZnZjd3NCa0V0WWpteXVNQ3JybV9JdG1UZVNWX2tyWEc4Nnd6SDg5VEthUVV6aFAtWThENDlVaGcwbkJod1FjUjdoWlRVS2xxR0xPa3ZUQkQ1YkUxSEZrS1ZadzZ2MXhYSVUyVm5zWjg1a3Z3?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-14T10:21:00+00:00"
     }
   ],
   "asof": {},
