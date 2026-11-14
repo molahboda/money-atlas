@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T08:30:46+00:00",
-  "quotesAt": "2026-11-14T08:30:46+00:00",
-  "newsAt": "2026-11-14T08:30:46+00:00",
+  "fetchedAt": "2026-11-14T08:45:45+00:00",
+  "quotesAt": "2026-11-14T08:45:45+00:00",
+  "newsAt": "2026-11-14T08:45:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "[만평]연말 금리인상땐... 부동산 지옥문 열리나?!",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oM3dPZE1Cb0xDVDJsODN4VHlRTEkwNDQ1ODcyTzAtNGZTajZETTRPODI3UVNmLVlqcTJ4VjY1bFdFaTNXeXRCSDFwVXhyQW1iYk9GTkd1NUxwd3RzTm5PMVlLWQ?oc=5",
+      "s": "매일산업뉴스",
+      "d": "2026-11-14T08:34:53+00:00"
+    },
     {
       "t": "영란은행, 2027년까지 추가 금리 인상 가능성 시사",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McVlQclA0RFVtZ1I3ZEpQME03SEpCTWJ3Tkd5ekhJanlGZXBTUFlvMzNQeUo3VmZiNDI5TmI4Ry1LVkhST3ZXM1c4cEprZEx1X2FZYXBqTWdDZ2RmeVpPLXA5RzAxQ3RWLTIwOHNLZGU?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNEJrazdUUmZvMVg1UzNGQXc4dDhMS0dDeFNYUDRxNWZzQVJCX1JLd1RQMzJndERIRnNsTFNjUDI5UUtpRmFLMy1sSmNiNkRuOWlGQXZCVW04VHRya1JGdVFQTWtSRWx1cWfSAW5BVV95cUxPMmZxRG5ULVcxSmFWeXlNTmQ0czhZUllHUlZReEdEYnd4cTdKd0FoQlZyLWR3b2swVGEtd1FHcU54LU1GY2lCcnlkVmNIQm5jaU1IbDMtb2JGVDdaM1NOdFhGTlFBTEVZSWlGel8zUQ?oc=5",
       "s": "파이낸셜투데이",
       "d": "2026-11-14T07:31:07+00:00"
-    },
-    {
-      "t": "대만 매체 “앨리스 황은 중국 정보기관 반도체팀 소속”",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFMcXd1eTJZTldfQkd1ZnZjd3NCa0V0WWpteXVNQ3JybV9JdG1UZVNWX2tyWEc4Nnd6SDg5VEthUVV6aFAtWThENDlVaGcwbkJod1FjUjdoWlRVS2xxR0xPa3ZUQkQ1YkUxSEZrS1ZadzZ2MXhYSVUyVm5zWjg1a3Z3?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-14T07:27:00+00:00"
     }
   ],
   "asof": {},
