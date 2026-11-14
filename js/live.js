@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T12:45:46+00:00",
-  "quotesAt": "2026-11-14T12:45:46+00:00",
-  "newsAt": "2026-11-14T12:45:46+00:00",
+  "fetchedAt": "2026-11-14T13:00:46+00:00",
+  "quotesAt": "2026-11-14T13:00:46+00:00",
+  "newsAt": "2026-11-14T13:00:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -43,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-11-14T11:59:00+00:00"
     },
     {
+      "t": "美中, 정상회담 앞두고 첫 무역위원회 회의…관세 인하·농산물 교역 논의",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSWklDQ19jV3M1cTR1WVlIdlhQeDM2VnRaSk0xVlE0RkgyYjZHUVZXakViWWFNRTJodHN0S2NhYzN5U0pIbjRxLUxDTzgtSzNSVmJ2X05Xank?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-14T11:37:15+00:00"
+    },
+    {
       "t": "“트럼프, AI 반도체 수출통제 풀기 전 엔비디아 주식 대량 매입”",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWd2QWhpdzFHdHlhdW4tU2NYbGhBbkplZW9BQ2pqRjlYMjZVdzZUaFZGb0k0RWZERzkzSDRIaDZKT2h5YVMwTmVxai1rNkZEWGlzZVZEbDbSAVRBVV95cUxORUdGcy13SlhYOFVCMjVOVTBIeHJzVzlNeFVYdDZMalljWVdOYjlzQlRDRFNtQjdlWGFDYjl2Y3oxMVN1RUVvMXVYV2kyeEJMQjhvd3A?oc=5",
       "s": "세계일보",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZG9Yc3JleWY0Rk9JNldJbEpveEd1WnZRVEtXc2pLTkhfb0NqZ3BfSmZyXzVNM0J4bENoY2t5d09xd0JFMWRHSzQ1ZDg2WE9fdHJrbHFfVk1LM3piblRnZW41aXJVdGVSNllPMnpaS18?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-14T10:52:00+00:00"
-    },
-    {
-      "t": "‘투자의 판’ 흔드는 대형 사건 잇달아…삼전닉스 리포트 검색 나란히 1·2위 [빅데이터로 본 재테크]",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpTzIzRGlNdVNBTlpsRWtUaUFMM0xfYi1td19XeTR6MXJKci1fTzE5Z0VmSVJEMGd3U09rLUlDQUNna19vWnlZTTZGNmdEdWR2Vmc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-14T10:51:43+00:00"
     }
   ],
   "asof": {},
