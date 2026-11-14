@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T09:30:46+00:00",
-  "quotesAt": "2026-11-14T09:30:46+00:00",
-  "newsAt": "2026-11-14T09:30:46+00:00",
+  "fetchedAt": "2026-11-14T09:45:46+00:00",
+  "quotesAt": "2026-11-14T09:45:46+00:00",
+  "newsAt": "2026-11-14T09:45:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "한국, 中 수입시장 6개월 연속 1위 수성… 美 수입시장서도 9위→6위 ‘껑충’",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sMUhkZHJnM3ZQM0NzbGkyZ1NvOUZmemJEaE5tOGExQjVWcFVqVlZTbmRCMm1MT1lKRjZNVF82dnRWTHFKWWUyVkxEaTNTWEY1VjlNUw?oc=5",
+      "s": "타임뉴스",
+      "d": "2026-11-14T09:37:06+00:00"
+    },
+    {
+      "t": "\"트럼프, 대중 반도체 규제 폐지 직전 엔비디아 주식 대거 매입\"",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrcDBBbDNZRGp0c2F5VUx2WXpGdURpRHp1WTNGRTI4bzVqckN2VHRMdkNOeGdFOEhJS2xIdE1nd2RRQUlZa0ZVLTAwdGExQVBQU29JVA?oc=5",
+      "s": "JTBC",
+      "d": "2026-11-14T09:18:00+00:00"
+    },
     {
       "t": "[속보] “트럼프, AI 반도체 규제 완화 전 엔비디아 주식 매입”",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWNwanFHb01KZVJ1TnkxaUdOemJRRkdsT3JibjVwalhNYmdKc3ZkUjQzSmJKdjc4NkJlTkp3NjlyNTgxTDVWWkpPek1DaTQ0RHZJbHJIYnc4MF9PeW93TU44cEFubkFFOEdEYzFIQXRkODJ4YzVVMl9QYXZLekJBRWtVd3VZVW05TWVJ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUkZ6QV9ub0loZTE1VjZvT0hZWXNweU9QOXFwZkVEZ3Y1N2Q3ajdWR3BhVFpId3NoUDktQWNXT2lrbnBfcURyU2JDRUk1bmlab0VvQUFldllYRzE2QXU2Sw?oc=5",
       "s": "KBC광주방송",
       "d": "2026-11-14T08:23:01+00:00"
-    },
-    {
-      "t": "젠슨 황 스캔들의 역설…트럼프의 中 반도체 통제에 뚫린 구멍",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQ0ZaV19YclZhc2xJakdQcHU1V2lBSkxkQWZoTXZwRERhVW1ScUdVRVdBSm5jOWhCeTJMWk9IV0psTWNIeGNQZG5FTVpYN3lpeUlSNWU4THNFczFIZHNmRVhnVTluNTVGa0E?oc=5",
-      "s": "OBC 뉴스",
-      "d": "2026-11-14T08:01:39+00:00"
-    },
-    {
-      "t": "국제유가 32% 급락에도 경유 대란 경고등, 왜?",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMnJ5bEFkc2xpNzVleEk4dDdzSzNPSlVudXB2aUNXQmVoSVQ1Vl84ZFVoRkVMVmwyS2hoY3FhN3dIb0ZDemV5MUpzcVlLMW5WVS1laHdRd2t5WnJ2MWJMTDdNQUI?oc=5",
-      "s": "에너지안전신문",
-      "d": "2026-11-14T08:01:26+00:00"
     }
   ],
   "asof": {},
