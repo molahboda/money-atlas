@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T12:15:45+00:00",
-  "quotesAt": "2026-11-14T12:15:45+00:00",
-  "newsAt": "2026-11-14T12:15:45+00:00",
+  "fetchedAt": "2026-11-14T12:30:46+00:00",
+  "quotesAt": "2026-11-14T12:30:46+00:00",
+  "newsAt": "2026-11-14T12:30:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "\"반도체 오면 도시 변화해야\"...광주대 전문가 세미나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNWlUNm9waERSVXpKaDFnWFJDR0xuQzExdWZnRkRLaHFweGlwVVFLU2NlMVdUcUE5TTYzOGp3cHF4TXNNNnpoR0FOVU5XYkFDeXFFZnpmNk5DVXM0UFJ6ZWVZV2tGNkE?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-11-14T12:27:44+00:00"
+    },
+    {
+      "t": "트럼프, AI 반도체 수출통제 풀기 직전에 엔비디아 주식 매수?…이해충돌 논란",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44cTYwMmthV252WVEyWGpJaUVoUzgtY3FuaDQweW53M3ZyalRvLUtoY19UcHljWHA1RGJ1dE50T0Vid0w2Ym9hVzRfSkVXeHNQZEU3SzR4Xy00ZFZpZ1E5dFc2QTY?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-11-14T12:26:02+00:00"
+    },
     {
       "t": "반도체 주식, 매수 신호는 딱 하나입니다",
       "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2FqakFjdXZ5M1duUXkzQXlBakp2UDByY0MtUkpkSjA3OWIwN3JYWFYyYVpTUHNQY3JlQm8zZWxmc1d2YkJwallCVDZnZ2c3ZzRlVHhTU0pPZ1Q3SkhtRTlVdWM2M1ZkclpkS1oyaC1Db1E2RkhVTUJRdWhXTDIwRVExRHBBMmp1OFkw?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpTzIzRGlNdVNBTlpsRWtUaUFMM0xfYi1td19XeTR6MXJKci1fTzE5Z0VmSVJEMGd3U09rLUlDQUNna19vWnlZTTZGNmdEdWR2Vmc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-11-14T10:51:43+00:00"
-    },
-    {
-      "t": "“트럼프, 반도체 수출규제 풀기 직전 엔비디아 주식 매입”",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IaVNPV3V0cU9iRUF4MGVldTZfdFBqektrZ2xXZEVOTmhScWx6T1NjU2paLWVmbjQ3bmZ6c0VaV25ZNGhqc3ZUdjBSYmJibHExWWdDY3l2YnZOYzdWMk1CTlZhZENQTXprbGFMZzdR?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-11-14T10:47:44+00:00"
-    },
-    {
-      "t": "반도체 수출규제 완화 전 엔비디아 주식 산 트럼프…이해충돌 논란 확산",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVHlYeHRfa2U4ZEhXSXJHYjYxT2pXcFRqRTVaZDU1ZThDQVpXS2ttTzJOSktjMEl5Y2FQczhLMHJGYmV4RVBIckdMX1JBaGc4UXM5cnFXd3NuUdIBWEFVX3lxTE4zOE1GTDR6cGdSUEdlN1RFYTlZaU5OOWtjYW5LbDd6OV9aeFZJMHVSbDVYXzM4TzEwUy1xd3A0R0JuWnJpVXlwWFV0bVF4Tms5VkRQZHdLckQ?oc=5",
-      "s": "아주경제",
-      "d": "2026-11-14T10:23:05+00:00"
     }
   ],
   "asof": {},
