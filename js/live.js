@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T12:30:46+00:00",
-  "quotesAt": "2026-11-14T12:30:46+00:00",
-  "newsAt": "2026-11-14T12:30:46+00:00",
+  "fetchedAt": "2026-11-14T12:45:46+00:00",
+  "quotesAt": "2026-11-14T12:45:46+00:00",
+  "newsAt": "2026-11-14T12:45:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -26,7 +26,7 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "\"반도체 오면 도시 변화해야\"...광주대 전문가 세미나",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMNWlUNm9waERSVXpKaDFnWFJDR0xuQzExdWZnRkRLaHFweGlwVVFLU2NlMVdUcUE5TTYzOGp3cHF4TXNNNnpoR0FOVU5XYkFDeXFFZnpmNk5DVXM0UFJ6ZWVZV2tGNkE?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXpleEFtWGp3bDdhUGRqX3RQVTFrNjY3Xy12SlIwTUh6SlZKSVVJY0Y5U1hoRHFMRVFlZERtZE9KUEZZRVIyVklERG9aRUhfNmQ1dDdmUXRxUFQ5ejJodXh4SnBDNUl3Sm1fcmIxQ1ZCTS1YS2lsYW9rRjYxMDhaVWFxckpsMjJneDdFWXN4Unh1S0syZWRXRW9ZNXNSeUZvWmlsM0lmLTlZRXh2cVE?oc=5",
       "s": "KBC광주방송",
       "d": "2026-11-14T12:27:44+00:00"
     },
