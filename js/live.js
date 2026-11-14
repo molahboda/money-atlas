@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T11:15:45+00:00",
-  "quotesAt": "2026-11-14T11:15:45+00:00",
-  "newsAt": "2026-11-14T11:15:45+00:00",
+  "fetchedAt": "2026-11-14T11:30:46+00:00",
+  "quotesAt": "2026-11-14T11:30:46+00:00",
+  "newsAt": "2026-11-14T11:30:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "[뉴욕증시] 황제 퇴진 '혼돈의 AI 테마···엔비디아 2%↓·AMD 반락·세레브라스 급등",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40cnNLbk9fbFlNbW56WmNOczBYYXl5YjBtQ05fSzdRUDFZOTBtcXJsMjcxal9KNkFtUTVPWE5lcllQeGdsWjdfa21FOHBCYmR3d05KWE9DTkE3MnQxczlScmYzZ0xoYWJiQ2c?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-11-14T11:26:26+00:00"
+    },
+    {
+      "t": "나주시, 반도체 클러스터 배후거점 육성…에너지산업 역량 결집",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KOGgwNk8zSHZNNng2Vm5LQ1RzSW91dk8tQVE0WVpZWFc0Z0xVdUgzeF96YWpVdGdqR09uckp1MEVJbW5BLVY2MWIwempkT1N3Y1BaVFNkREdPYW8?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-11-14T11:17:15+00:00"
+    },
     {
       "t": "멈춰 선 ‘금리’, 쪼그라든 ‘공급’...'26 부동산, 변곡점을 지나고 있어",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sX2MxbFZ0NEtVcU9tcXYybWhxR2F4SE5lYkYxb2RhN2EwdEVFdC10dmEtYjhtMnA3SUctZ29xeldGUDlMSTBERUh1V05KMmpBNzhuMnNYbW9jQ0EwYkJUSzdWN3dyX2RC?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc09MM2VVRVZUdXB5OGRlMXozYlFGdjlwczVtYXhYUUVBVDdtcDR3aXlmaVI2cU52aUo5YkRUOFFfQk1hMEhCZ2ZfdzZGZ05OMEVKdkQ5ZThZczN1Ynp2OUItMEdLdTJYSGNRUk5SUWtMZU9sYjJnUzdCTDNuUUZ0Um9fZVJLVGNmcWNyZjZvZGRQMzl5b29CVjA4dVAyZGxkd2I5dl9lQkNWM2JDbEE1YWF6RmZnaVBtSTdUdExURGpId205VFRVbzU2UHdGVUR3cTN0OTVTXzlwakdLNEhEWTVNWQ?oc=5",
       "s": "IndexBox",
       "d": "2026-11-14T10:16:04+00:00"
-    },
-    {
-      "t": "SFA, 3분기 별도 영업이익률 13.8%… 반도체 수주 비중 확대",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZG95YmtHVDRlY2FzMDdsWXh5dGsxaFdmb1dnTWJ0NEkzR3ZscTU5Y0h1Z1N6N3VmWlNNcl8wbHhXWnBBSnlmTVQzU2RGQWVxbkdsUUVueDhURVZfa0Y3Vk9NV015UEJwZVNn?oc=5",
-      "s": "FA저널",
-      "d": "2026-11-14T10:05:47+00:00"
-    },
-    {
-      "t": "미중, APEC 정상회담 앞두고 첫 무역위원회…관세 인하 논의",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIb19KVXQ2dFdBcFB6a0Z3UnVfbjNOdWVFbnpfcE1JZWlLQXBJNi1GQUJpRzRSdnR5ZElvOWd0dUM0dnItZnA1NjhjRXhZZHFjQk9VRQ?oc=5",
-      "s": "이투데이",
-      "d": "2026-11-14T10:04:00+00:00"
     }
   ],
   "asof": {},
