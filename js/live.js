@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T10:00:46+00:00",
-  "quotesAt": "2026-11-14T10:00:46+00:00",
-  "newsAt": "2026-11-14T10:00:46+00:00",
+  "fetchedAt": "2026-11-14T10:15:45+00:00",
+  "quotesAt": "2026-11-14T10:15:45+00:00",
+  "newsAt": "2026-11-14T10:15:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "SFA, 3분기 별도 영업이익률 13.8%… 반도체 수주 비중 확대",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZG95YmtHVDRlY2FzMDdsWXh5dGsxaFdmb1dnTWJ0NEkzR3ZscTU5Y0h1Z1N6N3VmWlNNcl8wbHhXWnBBSnlmTVQzU2RGQWVxbkdsUUVueDhURVZfa0Y3Vk9NV015UEJwZVNn?oc=5",
+      "s": "FA저널",
+      "d": "2026-11-14T10:05:47+00:00"
+    },
     {
       "t": "호남반도체 산단 조성 토사 확보 나서",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qRmRKeGJZb1NPd2hzTjU0azRLSkw5R01ZQ0VzNUZvVi1LTzdwczdfMlZ2Q1FEV3ltOG5hRWhmcC1wTUptakUxbFJPWjFpLVpkeDZQdzlB?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VUXFFdFVFV3ZyS3AwT2JsVkJ2OFlpMkRKMDRDc2hmVUxES3JHeTJxNklYQmwtOXkteGt6NlhvcjBMRmQ0QjRpVG9Fd25NNFVMWlVSTlRVclFrbjcwRkFLZNIBeEFVX3lxTE9ZcG5TTWh2Tmg4M2ZnS204cXh4Ym9nSVhBSW9CVHVZOThSeEtJWHc5T0JMbVNzN0JYRENQZUVQaFFacFlRNGxMcEV3aHhvMjZYM2RCSG9tX1dVaG0tcE9LSzVTMld3VF9FOGZzemVXd0N6WWZuU2YwYg?oc=5",
       "s": "뉴시스",
       "d": "2026-11-14T08:38:00+00:00"
-    },
-    {
-      "t": "[만평]연말 금리인상땐... 부동산 지옥문 열리나?!",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oM3dPZE1Cb0xDVDJsODN4VHlRTEkwNDQ1ODcyTzAtNGZTajZETTRPODI3UVNmLVlqcTJ4VjY1bFdFaTNXeXRCSDFwVXhyQW1iYk9GTkd1NUxwd3RzTm5PMVlLWQ?oc=5",
-      "s": "매일산업뉴스",
-      "d": "2026-11-14T08:34:53+00:00"
     }
   ],
   "asof": {},
