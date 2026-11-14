@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T10:45:46+00:00",
-  "quotesAt": "2026-11-14T10:45:46+00:00",
-  "newsAt": "2026-11-14T10:45:46+00:00",
+  "fetchedAt": "2026-11-14T11:00:46+00:00",
+  "quotesAt": "2026-11-14T11:00:46+00:00",
+  "newsAt": "2026-11-14T11:00:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "골드만삭스, 2027년 유럽 증시 전망은?",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZG9Yc3JleWY0Rk9JNldJbEpveEd1WnZRVEtXc2pLTkhfb0NqZ3BfSmZyXzVNM0J4bENoY2t5d09xd0JFMWRHSzQ1ZDg2WE9fdHJrbHFfVk1LM3piblRnZW41aXJVdGVSNllPMnpaS18?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-14T10:52:00+00:00"
+    },
+    {
+      "t": "‘투자의 판’ 흔드는 대형 사건 잇달아…삼전닉스 리포트 검색 나란히 1·2위 [빅데이터로 본 재테크]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpTzIzRGlNdVNBTlpsRWtUaUFMM0xfYi1td19XeTR6MXJKci1fTzE5Z0VmSVJEMGd3U09rLUlDQUNna19vWnlZTTZGNmdEdWR2Vmc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-14T10:51:43+00:00"
+    },
     {
       "t": "반도체 수출규제 완화 전 엔비디아 주식 산 트럼프…이해충돌 논란 확산",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVHlYeHRfa2U4ZEhXSXJHYjYxT2pXcFRqRTVaZDU1ZThDQVpXS2ttTzJOSktjMEl5Y2FQczhLMHJGYmV4RVBIckdMX1JBaGc4UXM5cnFXd3NuUdIBWEFVX3lxTE4zOE1GTDR6cGdSUEdlN1RFYTlZaU5OOWtjYW5LbDd6OV9aeFZJMHVSbDVYXzM4TzEwUy1xd3A0R0JuWnJpVXlwWFV0bVF4Tms5VkRQZHdLckQ?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-11-14T10:05:47+00:00"
     },
     {
+      "t": "미중, APEC 정상회담 앞두고 첫 무역위원회…관세 인하 논의",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIb19KVXQ2dFdBcFB6a0Z3UnVfbjNOdWVFbnpfcE1JZWlLQXBJNi1GQUJpRzRSdnR5ZElvOWd0dUM0dnItZnA1NjhjRXhZZHFjQk9VRQ?oc=5",
+      "s": "이투데이",
+      "d": "2026-11-14T10:04:00+00:00"
+    },
+    {
       "t": "미중 무역위원회, 관세와 농산물 무역 논의 - 뉴스 및 통계",
       "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHZfdzhOOXMwOHM4OG9EN2NtaTZETWM2ZDhpb0NpbTVvVVlYMS1RZzk0WGU2Y3VMcVZrb0g2b21uQlh0MTB0eWFnZ0MxNTJRb2wxX1FydmlVeFZ2VG9iRUNaQjlVTXdvTThWMEU1ZlFGcGtTcDhycU9iSGJ0enZwUDBIR0hLSGgtUWZJUmx6c0NRbS00VVUweXRyZVE0VGt3WU5FR1FmSQ?oc=5",
       "s": "IndexBox",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sMUhkZHJnM3ZQM0NzbGkyZ1NvOUZmemJEaE5tOGExQjVWcFVqVlZTbmRCMm1MT1lKRjZNVF82dnRWTHFKWWUyVkxEaTNTWEY1VjlNUw?oc=5",
       "s": "타임뉴스",
       "d": "2026-11-14T09:37:06+00:00"
-    },
-    {
-      "t": "VKAISS 2026, 베트남과 한국의 AI 및 반도체 협력 강화",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWdUd0d2tCaWlES3lOUnp4Mk9IaHVlRmlYNlIxcXJQdGJJNWREZUpVcEUyZUJDWmNtaWd3dDBsS2ZxYVUtMXRlSEVUZlZ0OUdpMk00ZWQ4dzJxaTdBLTBYTQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-14T09:31:08+00:00"
-    },
-    {
-      "t": "\"트럼프, 대중 반도체 규제 폐지 직전 엔비디아 주식 대거 매입\"",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrcDBBbDNZRGp0c2F5VUx2WXpGdURpRHp1WTNGRTI4bzVqckN2VHRMdkNOeGdFOEhJS2xIdE1nd2RRQUlZa0ZVLTAwdGExQVBQU29JVA?oc=5",
-      "s": "JTBC",
-      "d": "2026-11-14T09:18:00+00:00"
-    },
-    {
-      "t": "\"트럼프, 美 반도체 수출통제 완화 전 엔비디아 주식 매수\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OUmlwOFlIdHFaSXZpQnlCT1kzSlVLaDBGUDZWalMtelgtT3ZVUW1pZnJjc1daZVRPZVRSRVFPdktVU0ZJS2VXQXZLa0hjN1JPVFotTlc0dG5Vcm8zX05rTA?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-14T08:54:39+00:00"
     }
   ],
   "asof": {},
