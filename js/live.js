@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T11:00:46+00:00",
-  "quotesAt": "2026-11-14T11:00:46+00:00",
-  "newsAt": "2026-11-14T11:00:46+00:00",
+  "fetchedAt": "2026-11-14T11:15:45+00:00",
+  "quotesAt": "2026-11-14T11:15:45+00:00",
+  "newsAt": "2026-11-14T11:15:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "멈춰 선 ‘금리’, 쪼그라든 ‘공급’...'26 부동산, 변곡점을 지나고 있어",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sX2MxbFZ0NEtVcU9tcXYybWhxR2F4SE5lYkYxb2RhN2EwdEVFdC10dmEtYjhtMnA3SUctZ29xeldGUDlMSTBERUh1V05KMmpBNzhuMnNYbW9jQ0EwYkJUSzdWN3dyX2RC?oc=5",
+      "s": "부동산신문",
+      "d": "2026-11-14T11:02:11+00:00"
+    },
+    {
+      "t": "트럼프·시진핑 만나기 닷새 전…미중, 관세 300억달러 협상 첫 테이블",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbVJBTUlqNVFkZVRsZVFxQy1yTUwtM1M0dDBmUXpENGVINDJrUnVUdTZlMjVNam1nUXNROVg0QmpIcm5sblRVQldKcG9tV2x2SEF1QzJ0dDJLOW4wejloVzRB?oc=5",
+      "s": "매일신문",
+      "d": "2026-11-14T10:59:23+00:00"
+    },
+    {
       "t": "골드만삭스, 2027년 유럽 증시 전망은?",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZG9Yc3JleWY0Rk9JNldJbEpveEd1WnZRVEtXc2pLTkhfb0NqZ3BfSmZyXzVNM0J4bENoY2t5d09xd0JFMWRHSzQ1ZDg2WE9fdHJrbHFfVk1LM3piblRnZW41aXJVdGVSNllPMnpaS18?oc=5",
       "s": "Investing.com 한국어",
@@ -35,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpTzIzRGlNdVNBTlpsRWtUaUFMM0xfYi1td19XeTR6MXJKci1fTzE5Z0VmSVJEMGd3U09rLUlDQUNna19vWnlZTTZGNmdEdWR2Vmc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-11-14T10:51:43+00:00"
+    },
+    {
+      "t": "“트럼프, 반도체 수출규제 풀기 직전 엔비디아 주식 매입”",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IaVNPV3V0cU9iRUF4MGVldTZfdFBqektrZ2xXZEVOTmhScWx6T1NjU2paLWVmbjQ3bmZ6c0VaV25ZNGhqc3ZUdjBSYmJibHExWWdDY3l2YnZOYzdWMk1CTlZhZENQTXprbGFMZzdR?oc=5",
+      "s": "아시아투데이",
+      "d": "2026-11-14T10:47:44+00:00"
     },
     {
       "t": "반도체 수출규제 완화 전 엔비디아 주식 산 트럼프…이해충돌 논란 확산",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIb19KVXQ2dFdBcFB6a0Z3UnVfbjNOdWVFbnpfcE1JZWlLQXBJNi1GQUJpRzRSdnR5ZElvOWd0dUM0dnItZnA1NjhjRXhZZHFjQk9VRQ?oc=5",
       "s": "이투데이",
       "d": "2026-11-14T10:04:00+00:00"
-    },
-    {
-      "t": "미중 무역위원회, 관세와 농산물 무역 논의 - 뉴스 및 통계",
-      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHZfdzhOOXMwOHM4OG9EN2NtaTZETWM2ZDhpb0NpbTVvVVlYMS1RZzk0WGU2Y3VMcVZrb0g2b21uQlh0MTB0eWFnZ0MxNTJRb2wxX1FydmlVeFZ2VG9iRUNaQjlVTXdvTThWMEU1ZlFGcGtTcDhycU9iSGJ0enZwUDBIR0hLSGgtUWZJUmx6c0NRbS00VVUweXRyZVE0VGt3WU5FR1FmSQ?oc=5",
-      "s": "IndexBox",
-      "d": "2026-11-14T10:03:34+00:00"
-    },
-    {
-      "t": "호남반도체 산단 조성 토사 확보 나서",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qRmRKeGJZb1NPd2hzTjU0azRLSkw5R01ZQ0VzNUZvVi1LTzdwczdfMlZ2Q1FEV3ltOG5hRWhmcC1wTUptakUxbFJPWjFpLVpkeDZQdzlB?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-11-14T09:41:47+00:00"
-    },
-    {
-      "t": "한국, 中 수입시장 6개월 연속 1위 수성… 美 수입시장서도 9위→6위 ‘껑충’",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sMUhkZHJnM3ZQM0NzbGkyZ1NvOUZmemJEaE5tOGExQjVWcFVqVlZTbmRCMm1MT1lKRjZNVF82dnRWTHFKWWUyVkxEaTNTWEY1VjlNUw?oc=5",
-      "s": "타임뉴스",
-      "d": "2026-11-14T09:37:06+00:00"
     }
   ],
   "asof": {},
