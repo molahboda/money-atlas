@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T11:30:46+00:00",
-  "quotesAt": "2026-11-14T11:30:46+00:00",
-  "newsAt": "2026-11-14T11:30:46+00:00",
+  "fetchedAt": "2026-11-14T11:45:46+00:00",
+  "quotesAt": "2026-11-14T11:45:46+00:00",
+  "newsAt": "2026-11-14T11:45:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "“트럼프, AI 반도체 수출통제 풀기 전 엔비디아 주식 대량 매입”",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWd2QWhpdzFHdHlhdW4tU2NYbGhBbkplZW9BQ2pqRjlYMjZVdzZUaFZGb0k0RWZERzkzSDRIaDZKT2h5YVMwTmVxai1rNkZEWGlzZVZEbDbSAVRBVV95cUxORUdGcy13SlhYOFVCMjVOVTBIeHJzVzlNeFVYdDZMalljWVdOYjlzQlRDRFNtQjdlWGFDYjl2Y3oxMVN1RUVvMXVYV2kyeEJMQjhvd3A?oc=5",
+      "s": "세계일보",
+      "d": "2026-11-14T11:26:46+00:00"
+    },
     {
       "t": "[뉴욕증시] 황제 퇴진 '혼돈의 AI 테마···엔비디아 2%↓·AMD 반락·세레브라스 급등",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40cnNLbk9fbFlNbW56WmNOczBYYXl5YjBtQ05fSzdRUDFZOTBtcXJsMjcxal9KNkFtUTVPWE5lcllQeGdsWjdfa21FOHBCYmR3d05KWE9DTkE3MnQxczlScmYzZ0xoYWJiQ2c?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFMcXd1eTJZTldfQkd1ZnZjd3NCa0V0WWpteXVNQ3JybV9JdG1UZVNWX2tyWEc4Nnd6SDg5VEthUVV6aFAtWThENDlVaGcwbkJod1FjUjdoWlRVS2xxR0xPa3ZUQkQ1YkUxSEZrS1ZadzZ2MXhYSVUyVm5zWjg1a3Z3?oc=5",
       "s": "한겨레",
       "d": "2026-11-14T10:21:00+00:00"
-    },
-    {
-      "t": "화학기상증착(CVD) 시장 2035년 전망: 반도체 미세화와 태양광 수요가 성장 견인",
-      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc09MM2VVRVZUdXB5OGRlMXozYlFGdjlwczVtYXhYUUVBVDdtcDR3aXlmaVI2cU52aUo5YkRUOFFfQk1hMEhCZ2ZfdzZGZ05OMEVKdkQ5ZThZczN1Ynp2OUItMEdLdTJYSGNRUk5SUWtMZU9sYjJnUzdCTDNuUUZ0Um9fZVJLVGNmcWNyZjZvZGRQMzl5b29CVjA4dVAyZGxkd2I5dl9lQkNWM2JDbEE1YWF6RmZnaVBtSTdUdExURGpId205VFRVbzU2UHdGVUR3cTN0OTVTXzlwakdLNEhEWTVNWQ?oc=5",
-      "s": "IndexBox",
-      "d": "2026-11-14T10:16:04+00:00"
     }
   ],
   "asof": {},
