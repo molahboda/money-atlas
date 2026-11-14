@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T09:00:46+00:00",
-  "quotesAt": "2026-11-14T09:00:46+00:00",
-  "newsAt": "2026-11-14T09:00:46+00:00",
+  "fetchedAt": "2026-11-14T09:15:45+00:00",
+  "quotesAt": "2026-11-14T09:15:45+00:00",
+  "newsAt": "2026-11-14T09:15:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -26,7 +26,7 @@ window.LIVE_DATA = {
   "news": [
     {
       "t": "[속보] “트럼프, AI 반도체 규제 완화 전 엔비디아 주식 매입”",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0RHV3c5YXUxZGZGNjFsc1V3aG9TWnE1U2xhY2xVYklScUNtaTctVkZGbTB0M3ZOdnFhS0phTllSWXhlaXhGdTFITHZCX3RZb1VnMk9VVHNTN21mU1pnSVVVeC1uOEM3c1B0Y3R3Q0JPeDU3VnQtSVRQQkl0Zkp6VjNOaVNSUFNYSHFrZnJaYmtjVXM?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWNwanFHb01KZVJ1TnkxaUdOemJRRkdsT3JibjVwalhNYmdKc3ZkUjQzSmJKdjc4NkJlTkp3NjlyNTgxTDVWWkpPek1DaTQ0RHZJbHJIYnc4MF9PeW93TU44cEFubkFFOEdEYzFIQXRkODJ4YzVVMl9QYXZLekJBRWtVd3VZVW05TWVJ?oc=5",
       "s": "국제신문",
       "d": "2026-11-14T08:56:00+00:00"
     },
@@ -73,16 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-14T08:23:01+00:00"
     },
     {
-      "t": "반도체 물 대려다 내 집이 잠긴다…280가구 ‘눈물의 이주’",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hclZadk5tREdRYkp0LURlSTBMam9hd3c4WkpDV2s2S0pqczQ4T21zWTUyR3VxS1hnVmxRbjdxa3JhNk15anVaNnVvMWNSVE5CeDVWLWpB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-11-14T08:09:23+00:00"
-    },
-    {
       "t": "젠슨 황 스캔들의 역설…트럼프의 中 반도체 통제에 뚫린 구멍",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQ0ZaV19YclZhc2xJakdQcHU1V2lBSkxkQWZoTXZwRERhVW1ScUdVRVdBSm5jOWhCeTJMWk9IV0psTWNIeGNQZG5FTVpYN3lpeUlSNWU4THNFczFIZHNmRVhnVTluNTVGa0E?oc=5",
       "s": "OBC 뉴스",
       "d": "2026-11-14T08:01:39+00:00"
+    },
+    {
+      "t": "국제유가 32% 급락에도 경유 대란 경고등, 왜?",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMnJ5bEFkc2xpNzVleEk4dDdzSzNPSlVudXB2aUNXQmVoSVQ1Vl84ZFVoRkVMVmwyS2hoY3FhN3dIb0ZDemV5MUpzcVlLMW5WVS1laHdRd2t5WnJ2MWJMTDdNQUI?oc=5",
+      "s": "에너지안전신문",
+      "d": "2026-11-14T08:01:26+00:00"
     }
   ],
   "asof": {},
