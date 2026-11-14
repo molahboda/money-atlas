@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T08:00:57+00:00",
-  "quotesAt": "2026-11-14T08:00:57+00:00",
-  "newsAt": "2026-11-13T13:30:11+00:00",
+  "fetchedAt": "2026-11-14T08:15:46+00:00",
+  "quotesAt": "2026-11-14T08:15:46+00:00",
+  "newsAt": "2026-11-14T08:15:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "반도체 수출 자금 유입 지속…9월 통화량 전년보다 5.5% 늘어",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXVSdnc5NGRMWUtUbDNMY0RBOG9vLV9fN2d5Qm9IcjB4VUVGOFozVzdXS1c3ME5ydURmNUU4eFNoX2RQSlg5aVdDUDhOaVdqdjQtbjViLUNDQXpXZmpQdXM0NTd3dHB1MVNNRzJDSVpDTXZoNHV3ck1XMEdHb0tJMWRvVXhrbnpsbWpXeVNB?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-13T03:04:14+00:00"
+      "t": "[증시 동향] 반등은 했지만···‘젠슨 황’ 리스크 변수",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yd2hmS2IzVDRoR0NlQks1VWlCWDFDNUM2VVNlM2Z1aVYzdmJ5M0Nwekh5UjB3OG9jZThDQ0l3TVRWaHVWUGFJcHgtcXdBbUxPZHhfY0FRa1FCLWlCOC1scXRMUVJ6djVtTzJMMmVjOE_SAXRBVV95cUxNdGl3amhsLWlGVTdQZXY0WGdVMzN4TWYzLTRhdGoxYVdvVzNrcEFuXzlxNWRhQWRxMkZDZjZERzNfRW9RRVJEaGc5WWlZQXhtZXBUSkJHMjd3NUl2TXhYWllUNUZMdi13emFOYzQ0VHNYVjluNA?oc=5",
+      "s": "이뉴스투데이",
+      "d": "2026-11-14T08:05:45+00:00"
     },
     {
-      "t": "日 국채금리, 전 구간 상승…10년물 7bp 넘게 올라 2.86%(상보)",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWl9SdXRBN3BYc2dtOHh5aUZtenp3T0MyNGZTdVozc2FXMTdUOHdNZDRIanBKZTAyWGdPcFloTTZ6eUw0UkdjcUxvR2pmUno0elJ6Y0g0X253TllNVU5xQ1FheDhfeVNVdC1uZ0ZQZ3c?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-13T03:02:19+00:00"
+      "t": "젠슨 황 스캔들의 역설…트럼프의 中 반도체 통제에 뚫린 구멍",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQ0ZaV19YclZhc2xJakdQcHU1V2lBSkxkQWZoTXZwRERhVW1ScUdVRVdBSm5jOWhCeTJMWk9IV0psTWNIeGNQZG5FTVpYN3lpeUlSNWU4THNFczFIZHNmRVhnVTluNTVGa0E?oc=5",
+      "s": "OBC 뉴스",
+      "d": "2026-11-14T08:01:39+00:00"
     },
     {
-      "t": "[PD담합 그후②] 돈 안 되는 PD, 누가 하나…골대금리도 이견",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GT0NTeGRqRXlsNHgtZ2JmLW52S2pRcldGSmlLYi1sUzRyOG82QXFNZE9fVmpfSUpQUVllVjlCbG5DS0laY0psenl4U3Z4U0xyRV8yWlFKRHByTkJuUENMUm8tTDNjd2FwdlZpNTF0azM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-13T03:02:07+00:00"
+      "t": "국제유가 32% 급락에도 경유 대란 경고등, 왜?",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMnJ5bEFkc2xpNzVleEk4dDdzSzNPSlVudXB2aUNXQmVoSVQ1Vl84ZFVoRkVMVmwyS2hoY3FhN3dIb0ZDemV5MUpzcVlLMW5WVS1laHdRd2t5WnJ2MWJMTDdNQUI?oc=5",
+      "s": "에너지안전신문",
+      "d": "2026-11-14T08:01:26+00:00"
     },
     {
-      "t": "147조 개인 자금이 떠받치는 증시, 전문가 3인의 처방은",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Wm9lQ01KM0djOUtyUk05Z3kzQUZfdUplTFo0TGFBZzhZWEdYbnJhYmhnSVFib1NJV0p4VTUtME11RnpYMzkzMFNRb1diVjAwRFFhaUx1aEgxbEZ0OTNQQTdBM3lSakxfWWNDd3VZX3BrMHhpaVBB?oc=5",
-      "s": "OhmyNews",
-      "d": "2026-11-13T02:53:00+00:00"
+      "t": "어질어질 한국 증시…올해 사이드카·서킷 브레이커 얼마나 발동됐나 [증시레이더]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sOWdGM0RmUGRoMmZ0NE13TVh3a3liNEx2OFNkaERDeDU5U3g4NFNVakZNeU84c3AxN2xoSVYyekhsVF94eldIc1NhcjBzNWpVOS04RUZ4cjU4VzhPNTE5X3haMi0?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-11-14T08:00:00+00:00"
     },
     {
-      "t": "中 국내 유가 3개월 만에 하락…4월 초 고점 대비 6.5%↓",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EeGRRenhqbXoxcHEzR1UzZ0tSUnoyaGUyTFJGVlRER2ZvN1NrQlRFOEhwT0ZiTFFmWmpNeF9hZkxMNjZkOGZpS2c0ZUlBclJYWHc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-13T02:51:48+00:00"
+      "t": "337호 정책뉴스) 민생이 답이다…부동산·물가·일자리 정책의 현주소",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83OUFkY3h1VFl5bFlJRkQzZUQ3S1ZDQ3N6NHB2Q1FqVm0yYk1CWFRpWlh4UjlnLWtkRTNsUXZ5UXdYSnJZdUZmUE0yNkZaLUhPMFA3VHhuZGZhcGxnanNJaEtR?oc=5",
+      "s": "시사매거진",
+      "d": "2026-11-14T07:38:28+00:00"
     },
     {
-      "t": "증시 변동성에 증안펀드 거론…이억원 \"굉장히 긴급할 때만\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qNFBtYmtSdFRlVVN2cDBVVnZnSmZTdWt3TGFZZW0zU0xpaDdHMTJZVG81Rk8tTnlzRnlfZnNBSHF6RzRMR2ozTkVURmdkMWsyUlllODM2ZTc4VDZ1S2ZyTnVTR1g0RG8?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-13T02:51:00+00:00"
+      "t": "중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNEJrazdUUmZvMVg1UzNGQXc4dDhMS0dDeFNYUDRxNWZzQVJCX1JLd1RQMzJndERIRnNsTFNjUDI5UUtpRmFLMy1sSmNiNkRuOWlGQXZCVW04VHRya1JGdVFQTWtSRWx1cWfSAW5BVV95cUxPMmZxRG5ULVcxSmFWeXlNTmQ0czhZUllHUlZReEdEYnd4cTdKd0FoQlZyLWR3b2swVGEtd1FHcU54LU1GY2lCcnlkVmNIQm5jaU1IbDMtb2JGVDdaM1NOdFhGTlFBTEVZSWlGel8zUQ?oc=5",
+      "s": "파이낸셜투데이",
+      "d": "2026-11-14T07:31:07+00:00"
     },
     {
-      "t": "’젠슨황 사퇴’에도 코스피 상승…코스닥 3% 강세",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ndi1IbnowMk1KQ25uTDhLT2JORkhnSjdGRkxXQ0pDYnlXSVF5SmV6Qmhsel9teEhueWVERGNHU0I5MVE0dzU5U1BRQzVlVmU5cjdBcGszc2FwU3lJck9sS1VqLUU0SFk?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-13T02:44:00+00:00"
+      "t": "대만 매체 “앨리스 황은 중국 정보기관 반도체팀 소속”",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFMcXd1eTJZTldfQkd1ZnZjd3NCa0V0WWpteXVNQ3JybV9JdG1UZVNWX2tyWEc4Nnd6SDg5VEthUVV6aFAtWThENDlVaGcwbkJod1FjUjdoWlRVS2xxR0xPa3ZUQkQ1YkUxSEZrS1ZadzZ2MXhYSVUyVm5zWjg1a3Z3?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-14T07:27:00+00:00"
     },
     {
-      "t": "국고채 금리 일제히 상승…3년물 장중 연 3.756%",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Nd2pNWGlqcE4zWmw0YTRNOGE5TXJQNGlILWE0NzYtWXZWSU9nVVV5ZXozQWlIMEJQRXBqSGpsdUFLYUJNLXMwWWFrVlpwV0lkYXc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-13T02:43:52+00:00"
+      "t": "中전문가 \"美반도체 수출규제 강화시 희토류 통제로 반격할 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdkU4d3FlWHNqZ0tmZHVacl9VVW5aWE85cDFkVjQ3Ukc5YnY3dURCNEhtV0Y1QjhBTDJVT3RvWmNycm45a01SWUl5bFBPWlRQd0Ztdl9mT2RRX3NnM0RfWNIBeEFVX3lxTFBYcUJGUTNkYnJLNnRrZ19KLVpybm01dlRYNnhJTUQ5OE9LMmU4SnVCVFplMHFZLUdxeVJnN2hwZDY4NXpUXzRHMlptNi0wUXROLVlzX3pLZHJaMWdpZ0xzOEdycHF4eDJsYXJOTXJleWtkb0J5bFpDZw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-14T07:24:32+00:00"
     },
     {
-      "t": "[테마시황] 정부 정책 입은 반도체와 턴어라운드 노리는 건설주 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1idFpkUVN0bExJS2lhd0N1eVRMOFh3WnJXS0s1MGExUjhfZ2h6dTl6WXJQOEJvWEdWb09FelV2UnZJZ2dDYzl3SWtLWHdzODFHcHRqem5CaHhTR1YtS2xfV1hDSzA0Z0c4b0lvbkRxcHE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-13T02:38:00+00:00"
+      "t": "트럼프, 시진핑과 회담서 엔비디아 스파이 의혹 안 다룰 듯…반도체 통제는 별개",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYVV6dHdtWnBuZVk2OU05WGxxNy03Q1BuMWtnVzNSMWlJNjFmemNsalhfY2dIY0dVNko1cGVzbDJrb2dWZXppd1ZRRU5TU2dvRHFZR0xDaVVETHZXR0c3Vy1jU0t6WFRmLW5VcFluUQ?oc=5",
+      "s": "진일보 | 전남일보",
+      "d": "2026-11-14T07:20:00+00:00"
     },
     {
-      "t": "코스닥, 젠슨 황 사임에도 4% 급등…코스피는 장중 5500 찍었다 By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92U3F1ejJxWlBZVW01NlBMNkdJY3hGRVBYZFFvM1BROXlfdFFNTll2TTltaUFvS2dfeDlmY21CREFzb0pVc01RU3BtUTJrNTRnMU1QaXBlV3pWVTQ5OEg5Z2dwX0hDS1M3bFZZektOUVQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-13T02:38:00+00:00"
+      "t": "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YVmlvaFVvOFRQRTNuSjJSLTlqZXBRYzNPN2Rnb0xldm50Mm9VcmVfRmtyR2hCMGxrTnhkZXFPU1UzRUhQMjhZTS14bTlfdFRqVlNfVWxaVFNPcG9RajJSaHYzV1BON1lfU2fSAW9BVV95cUxNSDZhRnlhcWpiYzFzbnRyUzRweTM0WkcwWXAxNzVhcVZIQ3p5TEtkc1BQQTljRl9YWlI4NnR2UzlmSmVIWFpILTZRZUFnU1lzY1JDWDVCNkVxdEYxYUc1eXphWWRNX09hTVhobjFTdDQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-14T07:08:47+00:00"
     }
   ],
   "asof": {},
