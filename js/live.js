@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T08:15:46+00:00",
-  "quotesAt": "2026-11-14T08:15:46+00:00",
-  "newsAt": "2026-11-14T08:15:46+00:00",
+  "fetchedAt": "2026-11-14T08:30:46+00:00",
+  "quotesAt": "2026-11-14T08:30:46+00:00",
+  "newsAt": "2026-11-14T08:30:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,24 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "영란은행, 2027년까지 추가 금리 인상 가능성 시사",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McVlQclA0RFVtZ1I3ZEpQME03SEpCTWJ3Tkd5ekhJanlGZXBTUFlvMzNQeUo3VmZiNDI5TmI4Ry1LVkhST3ZXM1c4cEprZEx1X2FZYXBqTWdDZ2RmeVpPLXA5RzAxQ3RWLTIwOHNLZGU?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-14T08:24:00+00:00"
+    },
+    {
+      "t": "반도체 클러스터 조성에 대비…도시재생·주택 공급 해법 모색",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUkZ6QV9ub0loZTE1VjZvT0hZWXNweU9QOXFwZkVEZ3Y1N2Q3ajdWR3BhVFpId3NoUDktQWNXT2lrbnBfcURyU2JDRUk1bmlab0VvQUFldllYRzE2QXU2Sw?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-11-14T08:23:01+00:00"
+    },
+    {
+      "t": "반도체 물 대려다 내 집이 잠긴다…280가구 ‘눈물의 이주’",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hclZadk5tREdRYkp0LURlSTBMam9hd3c4WkpDV2s2S0pqczQ4T21zWTUyR3VxS1hnVmxRbjdxa3JhNk15anVaNnVvMWNSVE5CeDVWLWpB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-14T08:09:23+00:00"
+    },
     {
       "t": "[증시 동향] 반등은 했지만···‘젠슨 황’ 리스크 변수",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yd2hmS2IzVDRoR0NlQks1VWlCWDFDNUM2VVNlM2Z1aVYzdmJ5M0Nwekh5UjB3OG9jZThDQ0l3TVRWaHVWUGFJcHgtcXdBbUxPZHhfY0FRa1FCLWlCOC1scXRMUVJ6djVtTzJMMmVjOE_SAXRBVV95cUxNdGl3amhsLWlGVTdQZXY0WGdVMzN4TWYzLTRhdGoxYVdvVzNrcEFuXzlxNWRhQWRxMkZDZjZERzNfRW9RRVJEaGc5WWlZQXhtZXBUSkJHMjd3NUl2TXhYWllUNUZMdi13emFOYzQ0VHNYVjluNA?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFMcXd1eTJZTldfQkd1ZnZjd3NCa0V0WWpteXVNQ3JybV9JdG1UZVNWX2tyWEc4Nnd6SDg5VEthUVV6aFAtWThENDlVaGcwbkJod1FjUjdoWlRVS2xxR0xPa3ZUQkQ1YkUxSEZrS1ZadzZ2MXhYSVUyVm5zWjg1a3Z3?oc=5",
       "s": "한겨레",
       "d": "2026-11-14T07:27:00+00:00"
-    },
-    {
-      "t": "中전문가 \"美반도체 수출규제 강화시 희토류 통제로 반격할 수도\"",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdkU4d3FlWHNqZ0tmZHVacl9VVW5aWE85cDFkVjQ3Ukc5YnY3dURCNEhtV0Y1QjhBTDJVT3RvWmNycm45a01SWUl5bFBPWlRQd0Ztdl9mT2RRX3NnM0RfWNIBeEFVX3lxTFBYcUJGUTNkYnJLNnRrZ19KLVpybm01dlRYNnhJTUQ5OE9LMmU4SnVCVFplMHFZLUdxeVJnN2hwZDY4NXpUXzRHMlptNi0wUXROLVlzX3pLZHJaMWdpZ0xzOEdycHF4eDJsYXJOTXJleWtkb0J5bFpDZw?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-14T07:24:32+00:00"
-    },
-    {
-      "t": "트럼프, 시진핑과 회담서 엔비디아 스파이 의혹 안 다룰 듯…반도체 통제는 별개",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYVV6dHdtWnBuZVk2OU05WGxxNy03Q1BuMWtnVzNSMWlJNjFmemNsalhfY2dIY0dVNko1cGVzbDJrb2dWZXppd1ZRRU5TU2dvRHFZR0xDaVVETHZXR0c3Vy1jU0t6WFRmLW5VcFluUQ?oc=5",
-      "s": "진일보 | 전남일보",
-      "d": "2026-11-14T07:20:00+00:00"
-    },
-    {
-      "t": "물·전기 끌어와도 \"지을 사람이 없어\"...반도체 공장 건설 '비상' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YVmlvaFVvOFRQRTNuSjJSLTlqZXBRYzNPN2Rnb0xldm50Mm9VcmVfRmtyR2hCMGxrTnhkZXFPU1UzRUhQMjhZTS14bTlfdFRqVlNfVWxaVFNPcG9RajJSaHYzV1BON1lfU2fSAW9BVV95cUxNSDZhRnlhcWpiYzFzbnRyUzRweTM0WkcwWXAxNzVhcVZIQ3p5TEtkc1BQQTljRl9YWlI4NnR2UzlmSmVIWFpILTZRZUFnU1lzY1JDWDVCNkVxdEYxYUc1eXphWWRNX09hTVhobjFTdDQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-14T07:08:47+00:00"
     }
   ],
   "asof": {},
