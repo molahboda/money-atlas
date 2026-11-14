@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T10:15:45+00:00",
-  "quotesAt": "2026-11-14T10:15:45+00:00",
-  "newsAt": "2026-11-14T10:15:45+00:00",
+  "fetchedAt": "2026-11-14T10:30:46+00:00",
+  "quotesAt": "2026-11-14T10:30:46+00:00",
+  "newsAt": "2026-11-14T10:30:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "화학기상증착(CVD) 시장 2035년 전망: 반도체 미세화와 태양광 수요가 성장 견인",
+      "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc09MM2VVRVZUdXB5OGRlMXozYlFGdjlwczVtYXhYUUVBVDdtcDR3aXlmaVI2cU52aUo5YkRUOFFfQk1hMEhCZ2ZfdzZGZ05OMEVKdkQ5ZThZczN1Ynp2OUItMEdLdTJYSGNRUk5SUWtMZU9sYjJnUzdCTDNuUUZ0Um9fZVJLVGNmcWNyZjZvZGRQMzl5b29CVjA4dVAyZGxkd2I5dl9lQkNWM2JDbEE1YWF6RmZnaVBtSTdUdExURGpId205VFRVbzU2UHdGVUR3cTN0OTVTXzlwakdLNEhEWTVNWQ?oc=5",
+      "s": "IndexBox",
+      "d": "2026-11-14T10:16:04+00:00"
+    },
+    {
       "t": "SFA, 3분기 별도 영업이익률 13.8%… 반도체 수주 비중 확대",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZG95YmtHVDRlY2FzMDdsWXh5dGsxaFdmb1dnTWJ0NEkzR3ZscTU5Y0h1Z1N6N3VmWlNNcl8wbHhXWnBBSnlmTVQzU2RGQWVxbkdsUUVueDhURVZfa0Y3Vk9NV015UEJwZVNn?oc=5",
       "s": "FA저널",
       "d": "2026-11-14T10:05:47+00:00"
+    },
+    {
+      "t": "미중 무역위원회, 관세와 농산물 무역 논의 - 뉴스 및 통계",
+      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHZfdzhOOXMwOHM4OG9EN2NtaTZETWM2ZDhpb0NpbTVvVVlYMS1RZzk0WGU2Y3VMcVZrb0g2b21uQlh0MTB0eWFnZ0MxNTJRb2wxX1FydmlVeFZ2VG9iRUNaQjlVTXdvTThWMEU1ZlFGcGtTcDhycU9iSGJ0enZwUDBIR0hLSGgtUWZJUmx6c0NRbS00VVUweXRyZVE0VGt3WU5FR1FmSQ?oc=5",
+      "s": "IndexBox",
+      "d": "2026-11-14T10:03:34+00:00"
     },
     {
       "t": "호남반도체 산단 조성 토사 확보 나서",
@@ -55,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-11-14T09:18:00+00:00"
     },
     {
-      "t": "[속보] “트럼프, AI 반도체 규제 완화 전 엔비디아 주식 매입”",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWNwanFHb01KZVJ1TnkxaUdOemJRRkdsT3JibjVwalhNYmdKc3ZkUjQzSmJKdjc4NkJlTkp3NjlyNTgxTDVWWkpPek1DaTQ0RHZJbHJIYnc4MF9PeW93TU44cEFubkFFOEdEYzFIQXRkODJ4YzVVMl9QYXZLekJBRWtVd3VZVW05TWVJ?oc=5",
-      "s": "국제신문",
-      "d": "2026-11-14T08:56:00+00:00"
-    },
-    {
       "t": "\"트럼프, 美 반도체 수출통제 완화 전 엔비디아 주식 매수\"",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OUmlwOFlIdHFaSXZpQnlCT1kzSlVLaDBGUDZWalMtelgtT3ZVUW1pZnJjc1daZVRPZVRSRVFPdktVU0ZJS2VXQXZLa0hjN1JPVFotTlc0dG5Vcm8zX05rTA?oc=5",
       "s": "아시아경제",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaXFDZ1pKUktSSG9lYlFRUUoxUDJKckctVnR2UWg4bXF5UThONFdudkxPWU53UHNMY3puRk42NzZ6N21LZ0VhemhCYWpPeDlU?oc=5",
       "s": "문화일보",
       "d": "2026-11-14T08:46:08+00:00"
-    },
-    {
-      "t": "\"내년 봄 증시 다시 오른다\"…스테이블코인 유동성·유가 하락에 증시 반등 전망",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VUXFFdFVFV3ZyS3AwT2JsVkJ2OFlpMkRKMDRDc2hmVUxES3JHeTJxNklYQmwtOXkteGt6NlhvcjBMRmQ0QjRpVG9Fd25NNFVMWlVSTlRVclFrbjcwRkFLZNIBeEFVX3lxTE9ZcG5TTWh2Tmg4M2ZnS204cXh4Ym9nSVhBSW9CVHVZOThSeEtJWHc5T0JMbVNzN0JYRENQZUVQaFFacFlRNGxMcEV3aHhvMjZYM2RCSG9tX1dVaG0tcE9LSzVTMld3VF9FOGZzemVXd0N6WWZuU2YwYg?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-14T08:38:00+00:00"
     }
   ],
   "asof": {},
