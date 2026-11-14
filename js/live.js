@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T08:45:45+00:00",
-  "quotesAt": "2026-11-14T08:45:45+00:00",
-  "newsAt": "2026-11-14T08:45:45+00:00",
+  "fetchedAt": "2026-11-14T09:00:46+00:00",
+  "quotesAt": "2026-11-14T09:00:46+00:00",
+  "newsAt": "2026-11-14T09:00:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "[속보] “트럼프, AI 반도체 규제 완화 전 엔비디아 주식 매입”",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0RHV3c5YXUxZGZGNjFsc1V3aG9TWnE1U2xhY2xVYklScUNtaTctVkZGbTB0M3ZOdnFhS0phTllSWXhlaXhGdTFITHZCX3RZb1VnMk9VVHNTN21mU1pnSVVVeC1uOEM3c1B0Y3R3Q0JPeDU3VnQtSVRQQkl0Zkp6VjNOaVNSUFNYSHFrZnJaYmtjVXM?oc=5",
+      "s": "국제신문",
+      "d": "2026-11-14T08:56:00+00:00"
+    },
+    {
+      "t": "\"트럼프, 美 반도체 수출통제 완화 전 엔비디아 주식 매수\"",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OUmlwOFlIdHFaSXZpQnlCT1kzSlVLaDBGUDZWalMtelgtT3ZVUW1pZnJjc1daZVRPZVRSRVFPdktVU0ZJS2VXQXZLa0hjN1JPVFotTlc0dG5Vcm8zX05rTA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-14T08:54:39+00:00"
+    },
+    {
+      "t": "중국·미국, 트럼프-시진핑 회담 앞두고 관세 인하 논의",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qWDAzSHQwWDFueTcyOTFUTnFub0NvMnFPUHhkVDh0aFpBR1gya0FHVWViWTNuQWVUY1ZuaFZtdHQ5aUo3TFgzWTk0UE1YUU9UOEtrZzhWOFFhcDBQZW1wMnphdVlTaW5hVUE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-14T08:51:00+00:00"
+    },
+    {
+      "t": "[속보]트럼프, 반도체 규제 풀어주며 엔비디아 ‘풀매수’",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaXFDZ1pKUktSSG9lYlFRUUoxUDJKckctVnR2UWg4bXF5UThONFdudkxPWU53UHNMY3puRk42NzZ6N21LZ0VhemhCYWpPeDlU?oc=5",
+      "s": "문화일보",
+      "d": "2026-11-14T08:46:08+00:00"
+    },
+    {
+      "t": "\"내년 봄 증시 다시 오른다\"…스테이블코인 유동성·유가 하락에 증시 반등 전망",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VUXFFdFVFV3ZyS3AwT2JsVkJ2OFlpMkRKMDRDc2hmVUxES3JHeTJxNklYQmwtOXkteGt6NlhvcjBMRmQ0QjRpVG9Fd25NNFVMWlVSTlRVclFrbjcwRkFLZNIBeEFVX3lxTE9ZcG5TTWh2Tmg4M2ZnS204cXh4Ym9nSVhBSW9CVHVZOThSeEtJWHc5T0JMbVNzN0JYRENQZUVQaFFacFlRNGxMcEV3aHhvMjZYM2RCSG9tX1dVaG0tcE9LSzVTMld3VF9FOGZzemVXd0N6WWZuU2YwYg?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-14T08:38:00+00:00"
+    },
     {
       "t": "[만평]연말 금리인상땐... 부동산 지옥문 열리나?!",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oM3dPZE1Cb0xDVDJsODN4VHlRTEkwNDQ1ODcyTzAtNGZTajZETTRPODI3UVNmLVlqcTJ4VjY1bFdFaTNXeXRCSDFwVXhyQW1iYk9GTkd1NUxwd3RzTm5PMVlLWQ?oc=5",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-14T08:09:23+00:00"
     },
     {
-      "t": "[증시 동향] 반등은 했지만···‘젠슨 황’ 리스크 변수",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yd2hmS2IzVDRoR0NlQks1VWlCWDFDNUM2VVNlM2Z1aVYzdmJ5M0Nwekh5UjB3OG9jZThDQ0l3TVRWaHVWUGFJcHgtcXdBbUxPZHhfY0FRa1FCLWlCOC1scXRMUVJ6djVtTzJMMmVjOE_SAXRBVV95cUxNdGl3amhsLWlGVTdQZXY0WGdVMzN4TWYzLTRhdGoxYVdvVzNrcEFuXzlxNWRhQWRxMkZDZjZERzNfRW9RRVJEaGc5WWlZQXhtZXBUSkJHMjd3NUl2TXhYWllUNUZMdi13emFOYzQ0VHNYVjluNA?oc=5",
-      "s": "이뉴스투데이",
-      "d": "2026-11-14T08:05:45+00:00"
-    },
-    {
       "t": "젠슨 황 스캔들의 역설…트럼프의 中 반도체 통제에 뚫린 구멍",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQ0ZaV19YclZhc2xJakdQcHU1V2lBSkxkQWZoTXZwRERhVW1ScUdVRVdBSm5jOWhCeTJMWk9IV0psTWNIeGNQZG5FTVpYN3lpeUlSNWU4THNFczFIZHNmRVhnVTluNTVGa0E?oc=5",
       "s": "OBC 뉴스",
       "d": "2026-11-14T08:01:39+00:00"
-    },
-    {
-      "t": "국제유가 32% 급락에도 경유 대란 경고등, 왜?",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMnJ5bEFkc2xpNzVleEk4dDdzSzNPSlVudXB2aUNXQmVoSVQ1Vl84ZFVoRkVMVmwyS2hoY3FhN3dIb0ZDemV5MUpzcVlLMW5WVS1laHdRd2t5WnJ2MWJMTDdNQUI?oc=5",
-      "s": "에너지안전신문",
-      "d": "2026-11-14T08:01:26+00:00"
-    },
-    {
-      "t": "어질어질 한국 증시…올해 사이드카·서킷 브레이커 얼마나 발동됐나 [증시레이더]",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sOWdGM0RmUGRoMmZ0NE13TVh3a3liNEx2OFNkaERDeDU5U3g4NFNVakZNeU84c3AxN2xoSVYyekhsVF94eldIc1NhcjBzNWpVOS04RUZ4cjU4VzhPNTE5X3haMi0?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-11-14T08:00:00+00:00"
-    },
-    {
-      "t": "337호 정책뉴스) 민생이 답이다…부동산·물가·일자리 정책의 현주소",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83OUFkY3h1VFl5bFlJRkQzZUQ3S1ZDQ3N6NHB2Q1FqVm0yYk1CWFRpWlh4UjlnLWtkRTNsUXZ5UXdYSnJZdUZmUE0yNkZaLUhPMFA3VHhuZGZhcGxnanNJaEtR?oc=5",
-      "s": "시사매거진",
-      "d": "2026-11-14T07:38:28+00:00"
-    },
-    {
-      "t": "중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNEJrazdUUmZvMVg1UzNGQXc4dDhMS0dDeFNYUDRxNWZzQVJCX1JLd1RQMzJndERIRnNsTFNjUDI5UUtpRmFLMy1sSmNiNkRuOWlGQXZCVW04VHRya1JGdVFQTWtSRWx1cWfSAW5BVV95cUxPMmZxRG5ULVcxSmFWeXlNTmQ0czhZUllHUlZReEdEYnd4cTdKd0FoQlZyLWR3b2swVGEtd1FHcU54LU1GY2lCcnlkVmNIQm5jaU1IbDMtb2JGVDdaM1NOdFhGTlFBTEVZSWlGel8zUQ?oc=5",
-      "s": "파이낸셜투데이",
-      "d": "2026-11-14T07:31:07+00:00"
     }
   ],
   "asof": {},
