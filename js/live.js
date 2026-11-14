@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-14T10:30:46+00:00",
-  "quotesAt": "2026-11-14T10:30:46+00:00",
-  "newsAt": "2026-11-14T10:30:46+00:00",
+  "fetchedAt": "2026-11-14T10:45:46+00:00",
+  "quotesAt": "2026-11-14T10:45:46+00:00",
+  "newsAt": "2026-11-14T10:45:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,18 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "반도체 수출규제 완화 전 엔비디아 주식 산 트럼프…이해충돌 논란 확산",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVHlYeHRfa2U4ZEhXSXJHYjYxT2pXcFRqRTVaZDU1ZThDQVpXS2ttTzJOSktjMEl5Y2FQczhLMHJGYmV4RVBIckdMX1JBaGc4UXM5cnFXd3NuUdIBWEFVX3lxTE4zOE1GTDR6cGdSUEdlN1RFYTlZaU5OOWtjYW5LbDd6OV9aeFZJMHVSbDVYXzM4TzEwUy1xd3A0R0JuWnJpVXlwWFV0bVF4Tms5VkRQZHdLckQ?oc=5",
+      "s": "아주경제",
+      "d": "2026-11-14T10:23:05+00:00"
+    },
+    {
+      "t": "대만 매체 “앨리스 황은 중국 정보기관 반도체팀 소속”",
+      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFMcXd1eTJZTldfQkd1ZnZjd3NCa0V0WWpteXVNQ3JybV9JdG1UZVNWX2tyWEc4Nnd6SDg5VEthUVV6aFAtWThENDlVaGcwbkJod1FjUjdoWlRVS2xxR0xPa3ZUQkQ1YkUxSEZrS1ZadzZ2MXhYSVUyVm5zWjg1a3Z3?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-14T10:21:00+00:00"
+    },
     {
       "t": "화학기상증착(CVD) 시장 2035년 전망: 반도체 미세화와 태양광 수요가 성장 견인",
       "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc09MM2VVRVZUdXB5OGRlMXozYlFGdjlwczVtYXhYUUVBVDdtcDR3aXlmaVI2cU52aUo5YkRUOFFfQk1hMEhCZ2ZfdzZGZ05OMEVKdkQ5ZThZczN1Ynp2OUItMEdLdTJYSGNRUk5SUWtMZU9sYjJnUzdCTDNuUUZ0Um9fZVJLVGNmcWNyZjZvZGRQMzl5b29CVjA4dVAyZGxkd2I5dl9lQkNWM2JDbEE1YWF6RmZnaVBtSTdUdExURGpId205VFRVbzU2UHdGVUR3cTN0OTVTXzlwakdLNEhEWTVNWQ?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OUmlwOFlIdHFaSXZpQnlCT1kzSlVLaDBGUDZWalMtelgtT3ZVUW1pZnJjc1daZVRPZVRSRVFPdktVU0ZJS2VXQXZLa0hjN1JPVFotTlc0dG5Vcm8zX05rTA?oc=5",
       "s": "아시아경제",
       "d": "2026-11-14T08:54:39+00:00"
-    },
-    {
-      "t": "중국·미국, 트럼프-시진핑 회담 앞두고 관세 인하 논의",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qWDAzSHQwWDFueTcyOTFUTnFub0NvMnFPUHhkVDh0aFpBR1gya0FHVWViWTNuQWVUY1ZuaFZtdHQ5aUo3TFgzWTk0UE1YUU9UOEtrZzhWOFFhcDBQZW1wMnphdVlTaW5hVUE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-14T08:51:00+00:00"
-    },
-    {
-      "t": "[속보]트럼프, 반도체 규제 풀어주며 엔비디아 ‘풀매수’",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IaXFDZ1pKUktSSG9lYlFRUUoxUDJKckctVnR2UWg4bXF5UThONFdudkxPWU53UHNMY3puRk42NzZ6N21LZ0VhemhCYWpPeDlU?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-14T08:46:08+00:00"
     }
   ],
   "asof": {},
