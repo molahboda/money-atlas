@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T16:45:45+00:00",
-  "quotesAt": "2026-11-15T16:45:45+00:00",
-  "newsAt": "2026-11-15T16:45:45+00:00",
+  "fetchedAt": "2026-11-15T17:00:45+00:00",
+  "quotesAt": "2026-11-15T17:00:45+00:00",
+  "newsAt": "2026-11-15T17:00:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -38,7 +38,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "아르헨 경제학자 \"월 2% 물가·현재 낮은 환율 지속 불가능\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUFZqU0hoS1ltQy1NLU9oandfY2h2cEUzcEowZVhIS3dBZjJKTmVQaXUwQTZWNlUzdGNlRlVyTjI5TEdXdm52QlpJQjhZZFB3WkV5R1RNU2c3bGfSAWBBVV95cUxQa05zcUNQai0yWVZaMG8wYUF3OEJEWVZFVEJXdGVJa3VCR3BSSEpjQWNFR0ItRS1GT2JERTNlMUQ4ZUtrSC1kcmtVNUotcGNuLUtSU2xkZGR4ZWxfQk5yVng?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUFZqU0hoS1ltQy1NLU9oandfY2h2cEUzcEowZVhIS3dBZjJKTmVQaXUwQTZWNlUzdGNlRlVyTjI5TEdXdm52QlpJQjhZZFB3WkV5R1RNU2c3bGc?oc=5",
       "s": "연합뉴스",
       "d": "2026-11-15T16:06:58+00:00"
     },
