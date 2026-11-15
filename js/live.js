@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T14:15:46+00:00",
-  "quotesAt": "2026-11-15T14:15:46+00:00",
-  "newsAt": "2026-11-15T14:15:46+00:00",
+  "fetchedAt": "2026-11-15T14:30:47+00:00",
+  "quotesAt": "2026-11-15T14:30:47+00:00",
+  "newsAt": "2026-11-15T14:30:47+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "[기술인력 양성 선도 경기도기술학교] 반도체·미래차·AI 실무 교육",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rNzg2bmJfQ3pLSldVQjh4TFY0RkQ5SklyOVVQdUxoWF9UZlZ2eWpkaEszT0JTOUxhQmRhZE9SbUJfUmN4czU4M0dYYmp1MURFeW53XzgxOG1IMl9HRzdpaDZSRDUzd3FSY2VMblhfdw?oc=5",
+      "s": "기호일보",
+      "d": "2026-11-15T14:15:57+00:00"
+    },
+    {
       "t": "젠슨 황 스캔들 후폭풍…美 의회, 中 AI 반도체 수출 규제 속도",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyNWd0TDk3VkhYTUUtLTZwTDhsNDdJVzJQRl9oejg1dDVRcXlMZ21nYWk3ZVVYbFFodWFwemxab25hT0J0Vm93aWJtTl93RnRZYmVUTlV4Vk1TU0RqTUlSa9IBeEFVX3lxTE1FeDczb1Noamk3SDNFbDA0QUdvQzlwTXBvSWVZaUFxYkNJbnFIcm9UODVVWGlmVndJNTVsUXlZUlZ2aEZRZlEwLUNqcDVLdnJUMjA3b01HTkpTZG8ta28zOFhtY1dkdGExaW9iU0lmdm5TUTk2V0ZxRA?oc=5",
       "s": "뉴시스",
       "d": "2026-11-15T14:03:54+00:00"
+    },
+    {
+      "t": "2035년 폴리실리콘 시장 전망: 반도체 생산능력 확충이 성장 견인 - 뉴스 및 통계",
+      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHlaNU9RaTdMa2F5N3FtbXgxZGlZOGtRdUFhUUcwZU02Y2d6WlNPbG9TT2RQMHl2cElPMkE5NGw0dWtkZGZfZ0RkN2NKaTJuMEJxWm8wSVZTMTZrUEQ0MXEwZi1FSDB3TjNucDJGZnFGUVVFVXVSclpEbWF3T1U5SXB6c2txQUdNaHotZGR5RzIyWHhrajNJR2NTRlM3bHRtcGg4eVQxTFdOREk3cVZXeC1fMUZNRmhzM2JJ?oc=5",
+      "s": "IndexBox",
+      "d": "2026-11-15T13:56:05+00:00"
     },
     {
       "t": "저축은행 예금금리 다시 연 4% 눈앞…상호금융은 '신중'",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VNWVCeXRmQ19vNmZ2WXdCbUVXQzZEMTNBYlV4cW90SWdNVkZzUWpKU2N4MmpTRWlEVVFTSmdVcE1LZEliQ3g2YXdXSXNteC1tX0NQbnpLY016ck5saUFmeGVOaHVZRTZsMDRJ?oc=5",
       "s": "뉴스데일리",
       "d": "2026-11-15T12:14:37+00:00"
-    },
-    {
-      "t": "호남반도체 완충 저류·폐수 처리 시설 구축 착수",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oN0ROdE96M21vYlBiMG5sWHZqWjFoR0V5dzc3clN1eFJ5QnZXMjh5S21zMndsQ1NDRDd0RWNkWGowSEZjRVAxbkxnQ0Q5N2Q0M3Q1VEZMaVF5clE5SEx1SVluZU55cDQ?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-15T11:54:29+00:00"
-    },
-    {
-      "t": "“美中 정상회담서 ‘젠슨 황’ 사태 언급 안할 듯… 반도체 수출 규제 대상 아냐”",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ESm1JUkQwQlYwVVVfSWpkWGYyVmNIX2ptSlZTVFNkenZYNlRmZG1VSjU4c0szanJFUGVyYWRvRGlGc1RkZlRpS2tWSkJCblRlOEdndUZsLVZwdFZXbExRUTNRZkpmSzd0cmRVUE1scHRUNnfSAWZBVV95cUxOTTZMeDNFOF9qbkx0SlpZNE83aHgwMXQyTkZYZEluMlBrZVlaQ2RtalZpRTlhQ0ZzRWhZRXhoX3BnOHgwajRzZzNqTzZ1VFQxbUtYSXRNcDNoalI4QXZDdXEzT1NHR0E?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-15T11:40:52+00:00"
     }
   ],
   "asof": {},
