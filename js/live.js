@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T15:45:46+00:00",
-  "quotesAt": "2026-11-15T15:45:46+00:00",
-  "newsAt": "2026-11-15T15:45:46+00:00",
+  "fetchedAt": "2026-11-15T16:00:47+00:00",
+  "quotesAt": "2026-11-15T16:00:47+00:00",
+  "newsAt": "2026-11-15T16:00:47+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "베센트 \"엔비디아, 외부에서 새 CEO 찾아야\"…연준에는 추가 금리 인상 자제 요구",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzN3VkUnNOMms2QlJuVVVSb2FFVmFGdHV1UW90NUtlMUpMMUN0bHh4Y1ZranhMQXpzUHdkdVlld1NzQkNjTC04emlJdl9aeTgxWG9KdW5GSmR1bWtjcE1tX2lPRVhzTmlIbVgyN20tSQ?oc=5",
+      "s": "마켓잉크",
+      "d": "2026-11-15T15:50:04+00:00"
+    },
     {
       "t": "돌아온 ‘예테크’… 이자 年 3% 후반~4%대 정기예금 속속 나와",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmxwd1VhWHFXN3JrVnVaU0w4dlNfNkx1RUJuRkd5WVdwcHFGQkFMTGhtZnBELXJFNVItOFhXSFh0dHpLODVlS1piLXpIYk4zdlBIYkJ1eG1JNjVtR0M1eDZNNGg2bVh4RG5HTm9DcF9FT252NUppZWwyUDYxOFJ6bXR2SERmUlZQODFmRVVn?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vUHFWSnpZSG9NcFZLb2E3M1VjUkJhSFFYMjVEUjhaZDVwN0lLb08xbWlDaU1tdmxjUWRqQlU2LW1UMUp3QlFxWHlGU0VBejVrcW5icVB2WllvTUY5azcxd01jWU1XREdCX253NVZtajJnRVVQSFHSAWZBVV95cUxNdHdHU1NRcGlxS3FXQm9JQmh6dDJaYWk2bllsMVA0UjYzU0VBSGM2cE5VT0gwMjVORW1DY3NqUTROeTFBQzVtQW9QLVp2ZDQyNEtKMDJQUEJITTdEbk14WFhMRW04OGc?oc=5",
       "s": "동아일보",
       "d": "2026-11-15T15:30:00+00:00"
-    },
-    {
-      "t": "전월세 물가 3년10개월 만에 최대폭↑",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OY2NqT19Sa1dXRTU4QnZMQkJ3aFhiLW9uSllzaGVjazRIUTBUajJiYXNCZUpuQ3VqZUtsRmFfcHdNV0hKWFhvUThjNUpJTXQ1ejBrb2lEWms?oc=5",
-      "s": "국민일보",
-      "d": "2026-11-15T15:19:00+00:00"
     }
   ],
   "asof": {},
