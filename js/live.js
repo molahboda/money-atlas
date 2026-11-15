@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T15:15:47+00:00",
-  "quotesAt": "2026-11-15T15:15:47+00:00",
-  "newsAt": "2026-11-15T15:15:47+00:00",
+  "fetchedAt": "2026-11-15T15:30:46+00:00",
+  "quotesAt": "2026-11-15T15:30:46+00:00",
+  "newsAt": "2026-11-15T15:30:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -31,16 +31,40 @@ window.LIVE_DATA = {
       "d": "2026-11-15T15:10:00+00:00"
     },
     {
+      "t": "“삼성전자·SK하이닉스 다시 오를까”…코스피 5290선, 이번 주 운명 가를 3가지",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbDJNX1FNTk9xek5nSTlsbWV3S0tIWmVuZ0hwaWozZXJ4Y1JZRkFudjZ5MHlLeUJmQlRUNG5za2p5b3NmNTY1OFlrUkhXY1NfdG5lb201bHJMLU5jTTd5NUpiRkdQVXh2ekdBbg?oc=5",
+      "s": "데일리25",
+      "d": "2026-11-15T15:10:00+00:00"
+    },
+    {
       "t": "호남 반도체 속도전 속 철도망 ‘제자리,’ 브레이크 될라",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wU1lIdnd3VFllVHVkVm54dk5OZlJtMVJKdmRMNVNKaWJRT2ZBVzdvcWhrTkNSbFY2czRUMmUzc1lkMFdEUXV2aGl2NmN0bzNFcG5qbXZOREhma0FEdGZPTnNWbnZ4THJ0c1E?oc=5",
       "s": "www.gjdream.com",
       "d": "2026-11-15T15:10:00+00:00"
     },
     {
+      "t": "[중국증시 주간 포인트] APEC 미·중·러 정상회담, 엔비디아 실적·젠슨 황 의회 출석, 中 10월 실물경제 지표, 앤스로픽 IPO, 첨단 기술 이벤트, 中 4대 빅테크 실적",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YQUMyU2tWWmtvcVZwZU8wbTJrSFZBMURrbTBUTlhBbFVPTDRvZWxJMTVuUzJWRmlmT3lkTGUyMEFnT3A5dGxyTDQ4NmgzWlpnSXJJUGNPcWNEdXBj?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-15T15:08:00+00:00"
+    },
+    {
+      "t": "반도체 설계 자동화(EDA) 소프트웨어 등 입찰담합 제재",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdGE5Ukh5UEdiTDFycXRDWjZRYi0wRXdaS25QQzBDWV90MkJjYzhPSE9SZzVPV2tIbjNYTVhBbG9KTFJoVEFKUVA2dmh1czZWZGkySGEtcFZSeUg1SnR4ZTlPVkN2QmRueXc?oc=5",
+      "s": "경북구미신문",
+      "d": "2026-11-15T15:07:39+00:00"
+    },
+    {
       "t": "[나가이 시게토의 마켓 나우] 일본은행의 내년 정책금리 인상 전망",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fQ0NMMDUzSC1oSC1mYlgyQ2NTOGlhaEI5ci1pOENHRTRyRVprdlBpQ1hvNDU1VURLN1V0RTFLX3NEcVFIbkhnMDlleUMtX19FWkVCVk9B?oc=5",
       "s": "중앙일보",
       "d": "2026-11-15T15:04:00+00:00"
+    },
+    {
+      "t": "[사설] 연준마저 AI發 금융 위험 경고…우리는 대비하고 있나",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WMXI0ZW5fcG5nTTdyNkdRNXJVWE4xSnhIUFdqUTJaSFQ5a1Y5VTZqOURnbko4Y0FFdWY0T3Jmb0xaNWtycnJySnZSTURtSWRmVkHSAVNBVV95cUxPRUtubVZpOG5XQ2o0RW1CY3ZXWEhKQW43aU11cHctVzhMem1TNlVrcHVKOXJiTWdFQklZeUkxbll1T0traDNDNDlZckRabkNHT1l0QQ?oc=5",
+      "s": "서울경제",
+      "d": "2026-11-15T15:01:00+00:00"
     },
     {
       "t": "[김대호 진단] 미국 국채금리 \"위험 경보\" .",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEa3VLM1VFcU5mRlRSazdxQ2N2MHBObjZaSU9pOEpMU2FHeXQxOHYyR1JidVpjUVJKd05idGpaUkViSmw5aGZ0RjFIQkszMlBwRE0xeHBrQmxOUTc4Wldhc9IBeEFVX3lxTE8waXdlZWhKR2JDcnFVMHBhOWs5cVBxdDZhc1BTb1J3MHppdXhBblNGZ3UtMUpXMGxraGFyWWNvT0huTjQ3YVZvZ1pUZ29SczU4Zm93a0pzdnlpVklnLXhaVVBZSTlXV0s1bjBXY1FKMHR5cTFaVlRuZw?oc=5",
       "s": "뉴시스",
       "d": "2026-11-15T15:00:00+00:00"
-    },
-    {
-      "t": "[기술인력 양성 선도 경기도기술학교] 반도체·미래차·AI 실무 교육",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rNzg2bmJfQ3pLSldVQjh4TFY0RkQ5SklyOVVQdUxoWF9UZlZ2eWpkaEszT0JTOUxhQmRhZE9SbUJfUmN4czU4M0dYYmp1MURFeW53XzgxOG1IMl9HRzdpaDZSRDUzd3FSY2VMblhfdw?oc=5",
-      "s": "기호일보",
-      "d": "2026-11-15T14:15:57+00:00"
-    },
-    {
-      "t": "젠슨 황 스캔들 후폭풍…美 의회, 中 AI 반도체 수출 규제 속도",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyNWd0TDk3VkhYTUUtLTZwTDhsNDdJVzJQRl9oejg1dDVRcXlMZ21nYWk3ZVVYbFFodWFwemxab25hT0J0Vm93aWJtTl93RnRZYmVUTlV4Vk1TU0RqTUlSa9IBeEFVX3lxTE1FeDczb1Noamk3SDNFbDA0QUdvQzlwTXBvSWVZaUFxYkNJbnFIcm9UODVVWGlmVndJNTVsUXlZUlZ2aEZRZlEwLUNqcDVLdnJUMjA3b01HTkpTZG8ta28zOFhtY1dkdGExaW9iU0lmdm5TUTk2V0ZxRA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-15T14:03:54+00:00"
-    },
-    {
-      "t": "2035년 폴리실리콘 시장 전망: 반도체 생산능력 확충이 성장 견인 - 뉴스 및 통계",
-      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHlaNU9RaTdMa2F5N3FtbXgxZGlZOGtRdUFhUUcwZU02Y2d6WlNPbG9TT2RQMHl2cElPMkE5NGw0dWtkZGZfZ0RkN2NKaTJuMEJxWm8wSVZTMTZrUEQ0MXEwZi1FSDB3TjNucDJGZnFGUVVFVXVSclpEbWF3T1U5SXB6c2txQUdNaHotZGR5RzIyWHhrajNJR2NTRlM3bHRtcGg4eVQxTFdOREk3cVZXeC1fMUZNRmhzM2JJ?oc=5",
-      "s": "IndexBox",
-      "d": "2026-11-15T13:56:05+00:00"
-    },
-    {
-      "t": "저축은행 예금금리 다시 연 4% 눈앞…상호금융은 '신중'",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBieG1iNkZPcDhRVkFfRE9LRFBYc1h0MDRaM3lscmNtQ2tJaWhMRG1DQnpUSnBkSUhTZ0Fnb0pJYUxPdXY5eTlqSFZocDRXelF3S1pQa0tqRE1nU1hqRUtwVmxwNk1nRDBXM1VVWklZbw?oc=5",
-      "s": "진일보 | 전남일보",
-      "d": "2026-11-15T13:51:40+00:00"
     }
   ],
   "asof": {},
