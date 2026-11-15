@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T15:00:46+00:00",
-  "quotesAt": "2026-11-15T15:00:46+00:00",
-  "newsAt": "2026-11-15T15:00:46+00:00",
+  "fetchedAt": "2026-11-15T15:15:47+00:00",
+  "quotesAt": "2026-11-15T15:15:47+00:00",
+  "newsAt": "2026-11-15T15:15:47+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,42 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "[리셋 코리아] 증시 제도 고치면 주가 오른다는 착각 버려야",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKb3JybmotTUhGVDlSLVo2Mmx3WGhRRGY5M1JaSUoyeUZoVkJITkJyTGFkeHBfOGp1UzExUnhIVE9YajVQNXNVT2NMTHhXcFVtR3JzcUtn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-15T15:10:00+00:00"
+    },
+    {
+      "t": "호남 반도체 속도전 속 철도망 ‘제자리,’ 브레이크 될라",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wU1lIdnd3VFllVHVkVm54dk5OZlJtMVJKdmRMNVNKaWJRT2ZBVzdvcWhrTkNSbFY2czRUMmUzc1lkMFdEUXV2aGl2NmN0bzNFcG5qbXZOREhma0FEdGZPTnNWbnZ4THJ0c1E?oc=5",
+      "s": "www.gjdream.com",
+      "d": "2026-11-15T15:10:00+00:00"
+    },
+    {
+      "t": "[나가이 시게토의 마켓 나우] 일본은행의 내년 정책금리 인상 전망",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fQ0NMMDUzSC1oSC1mYlgyQ2NTOGlhaEI5ci1pOENHRTRyRVprdlBpQ1hvNDU1VURLN1V0RTFLX3NEcVFIbkhnMDlleUMtX19FWkVCVk9B?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-15T15:04:00+00:00"
+    },
+    {
+      "t": "[김대호 진단] 미국 국채금리 \"위험 경보\" .",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlFfaTlaWDNUWFA2d1FYbWR5b3Z3TWt3SzZ1cWtScjdzeDlBUFhRRW5SSVBfTnhLXzZFbGt5amN1bWlxVXg3M1hqUUtrSjlKSkNUT0tURWZNajBuSXdqRXF2ZGl1b2NQQmVZSVVqX2I3a2U5N0ZLRHppYjhrdk94Qjg4am8?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "t": "관세 재편 가능성…지역 수출 점검해야",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yY0RjdHJIUWowM3FhREhhdkVZWi1GRUlUVFp1QXhqcDByWnFRQktqdERwb0xTeVMtU3dBVFZGeUMtSDVFU3pMaXA3RzZEemlZWDhzZ3o2Ym5oR043UGtuWUxUcV9wdmlvY0E?oc=5",
+      "s": "광주드림",
+      "d": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "t": "\"지금 주가 흔들려도 지나고 보면 좋은 가격\"…반도체 장기 투자법",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEa3VLM1VFcU5mRlRSazdxQ2N2MHBObjZaSU9pOEpMU2FHeXQxOHYyR1JidVpjUVJKd05idGpaUkViSmw5aGZ0RjFIQkszMlBwRE0xeHBrQmxOUTc4Wldhc9IBeEFVX3lxTE8waXdlZWhKR2JDcnFVMHBhOWs5cVBxdDZhc1BTb1J3MHppdXhBblNGZ3UtMUpXMGxraGFyWWNvT0huTjQ3YVZvZ1pUZ29SczU4Zm93a0pzdnlpVklnLXhaVVBZSTlXV0s1bjBXY1FKMHR5cTFaVlRuZw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-15T15:00:00+00:00"
+    },
     {
       "t": "[기술인력 양성 선도 경기도기술학교] 반도체·미래차·AI 실무 교육",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rNzg2bmJfQ3pLSldVQjh4TFY0RkQ5SklyOVVQdUxoWF9UZlZ2eWpkaEszT0JTOUxhQmRhZE9SbUJfUmN4czU4M0dYYmp1MURFeW53XzgxOG1IMl9HRzdpaDZSRDUzd3FSY2VMblhfdw?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBieG1iNkZPcDhRVkFfRE9LRFBYc1h0MDRaM3lscmNtQ2tJaWhMRG1DQnpUSnBkSUhTZ0Fnb0pJYUxPdXY5eTlqSFZocDRXelF3S1pQa0tqRE1nU1hqRUtwVmxwNk1nRDBXM1VVWklZbw?oc=5",
       "s": "진일보 | 전남일보",
       "d": "2026-11-15T13:51:40+00:00"
-    },
-    {
-      "t": "“결국 시간은 삼전닉스 주주들의 편”…코스피 당분간 오를 이유 없다는데, 증권가 전망은",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nYVlKOEIxbmFBaUE5T2ltVFlSWjZ0a2Rxd2RVYXIxbG9YWXFESnhsYVpjTDA3TGlLSW9sY3kyeXBDRHp0NEpLMXU3THNybWQ4cWfSAVNBVV95cUxQYm9wZ05oN095aWFFcVJnNVIxS3QyU0tlV2FSakFCT0Y2LTFiUF9LTjFKZmNtdUNUMVN4ZEE2LWRlRlBpaFNFd3NwdG5xOWRSYXc2OA?oc=5",
-      "s": "서울경제",
-      "d": "2026-11-15T13:51:31+00:00"
-    },
-    {
-      "t": "투자 상담은 현장으로…이천시, 반도체 기업에 산업단지·교육시설 안내",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yOFFDWDUzYzhxRUg1enpxY3BtanhMUHQ0M252MEVYelZkSE82clJqU25Kb2g5bWFlOXlIR0x6YVowRGRyNVJYdThjNk9qZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-15T13:14:12+00:00"
-    },
-    {
-      "t": "ELS 악몽 또…9천피때 발행 상품 94개, 내달부터 만기",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZDZoYTFPLU1VUm9oWEo3MUpKUlhKVFBnRURmOHV2N2E1ZmFXQkRRSE11d096Ul90UVF0ZHJ0T2FNV1lKaHFfV0N4OHNsSVJRSWNmaEwzc1h0U0Fmc1pRNWl1MUpBUUk?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-15T13:14:00+00:00"
-    },
-    {
-      "t": "광양시, 서남권 반도체 투자에 지역기업 참여 길 찾는다…17일 정책토론회",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vZmhSZmh4d202NzlMUzJVOVNlMGgydFA1ZEZleGdPcTAyaW45aEZjb0NRYlhZbzRqLUx2Zk1rWFFkQ1Q3Vzdsc3NvVko1bnhXNmdib29CenBEZDBLQ0JsdXhIeHQ?oc=5",
-      "s": "지이코노미",
-      "d": "2026-11-15T13:06:36+00:00"
-    },
-    {
-      "t": "이천 고교생 40명, 고려대·서강대와 반도체 '자율연구' 성과 공개",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14S1Y4NWhJT3N5a3JaSHZBc3pJN0VXUUVDbk1hb2hHU21LbUhmS1ZHZDFjeHlFeGRIT1lxM2lFRXhKTkhIbnJZN1Y2cjZXdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-15T12:34:46+00:00"
-    },
-    {
-      "t": "반도체 설계 자동화(EDA) 소프트웨어 등 입찰담합 제재",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VNWVCeXRmQ19vNmZ2WXdCbUVXQzZEMTNBYlV4cW90SWdNVkZzUWpKU2N4MmpTRWlEVVFTSmdVcE1LZEliQ3g2YXdXSXNteC1tX0NQbnpLY016ck5saUFmeGVOaHVZRTZsMDRJ?oc=5",
-      "s": "뉴스데일리",
-      "d": "2026-11-15T12:14:37+00:00"
     }
   ],
   "asof": {},
