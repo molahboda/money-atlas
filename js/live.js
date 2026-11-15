@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T14:00:56+00:00",
-  "quotesAt": "2026-11-15T14:00:56+00:00",
-  "newsAt": "2026-11-15T14:00:56+00:00",
+  "fetchedAt": "2026-11-15T14:15:46+00:00",
+  "quotesAt": "2026-11-15T14:15:46+00:00",
+  "newsAt": "2026-11-15T14:15:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "\"반도체 오면 도시 변화해야\"...광주대 전문가 세미나",
-      "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXpleEFtWGp3bDdhUGRqX3RQVTFrNjY3Xy12SlIwTUh6SlZKSVVJY0Y5U1hoRHFMRVFlZERtZE9KUEZZRVIyVklERG9aRUhfNmQ1dDdmUXRxUFQ5ejJodXh4SnBDNUl3Sm1fcmIxQ1ZCTS1YS2lsYW9rRjYxMDhaVWFxckpsMjJneDdFWXN4Unh1S0syZWRXRW9ZNXNSeUZvWmlsM0lmLTlZRXh2cVE?oc=5",
+      "t": "젠슨 황 스캔들 후폭풍…美 의회, 中 AI 반도체 수출 규제 속도",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyNWd0TDk3VkhYTUUtLTZwTDhsNDdJVzJQRl9oejg1dDVRcXlMZ21nYWk3ZVVYbFFodWFwemxab25hT0J0Vm93aWJtTl93RnRZYmVUTlV4Vk1TU0RqTUlSa9IBeEFVX3lxTE1FeDczb1Noamk3SDNFbDA0QUdvQzlwTXBvSWVZaUFxYkNJbnFIcm9UODVVWGlmVndJNTVsUXlZUlZ2aEZRZlEwLUNqcDVLdnJUMjA3b01HTkpTZG8ta28zOFhtY1dkdGExaW9iU0lmdm5TUTk2V0ZxRA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-15T14:03:54+00:00"
+    },
+    {
+      "t": "저축은행 예금금리 다시 연 4% 눈앞…상호금융은 '신중'",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBieG1iNkZPcDhRVkFfRE9LRFBYc1h0MDRaM3lscmNtQ2tJaWhMRG1DQnpUSnBkSUhTZ0Fnb0pJYUxPdXY5eTlqSFZocDRXelF3S1pQa0tqRE1nU1hqRUtwVmxwNk1nRDBXM1VVWklZbw?oc=5",
+      "s": "진일보 | 전남일보",
+      "d": "2026-11-15T13:51:40+00:00"
+    },
+    {
+      "t": "“결국 시간은 삼전닉스 주주들의 편”…코스피 당분간 오를 이유 없다는데, 증권가 전망은",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nYVlKOEIxbmFBaUE5T2ltVFlSWjZ0a2Rxd2RVYXIxbG9YWXFESnhsYVpjTDA3TGlLSW9sY3kyeXBDRHp0NEpLMXU3THNybWQ4cWfSAVNBVV95cUxQYm9wZ05oN095aWFFcVJnNVIxS3QyU0tlV2FSakFCT0Y2LTFiUF9LTjFKZmNtdUNUMVN4ZEE2LWRlRlBpaFNFd3NwdG5xOWRSYXc2OA?oc=5",
+      "s": "서울경제",
+      "d": "2026-11-15T13:51:31+00:00"
+    },
+    {
+      "t": "투자 상담은 현장으로…이천시, 반도체 기업에 산업단지·교육시설 안내",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yOFFDWDUzYzhxRUg1enpxY3BtanhMUHQ0M252MEVYelZkSE82clJqU25Kb2g5bWFlOXlIR0x6YVowRGRyNVJYdThjNk9qZw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-15T13:14:12+00:00"
+    },
+    {
+      "t": "ELS 악몽 또…9천피때 발행 상품 94개, 내달부터 만기",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZDZoYTFPLU1VUm9oWEo3MUpKUlhKVFBnRURmOHV2N2E1ZmFXQkRRSE11d096Ul90UVF0ZHJ0T2FNV1lKaHFfV0N4OHNsSVJRSWNmaEwzc1h0U0Fmc1pRNWl1MUpBUUk?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-15T13:14:00+00:00"
+    },
+    {
+      "t": "광양시, 서남권 반도체 투자에 지역기업 참여 길 찾는다…17일 정책토론회",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vZmhSZmh4d202NzlMUzJVOVNlMGgydFA1ZEZleGdPcTAyaW45aEZjb0NRYlhZbzRqLUx2Zk1rWFFkQ1Q3Vzdsc3NvVko1bnhXNmdib29CenBEZDBLQ0JsdXhIeHQ?oc=5",
+      "s": "지이코노미",
+      "d": "2026-11-15T13:06:36+00:00"
+    },
+    {
+      "t": "이천 고교생 40명, 고려대·서강대와 반도체 '자율연구' 성과 공개",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14S1Y4NWhJT3N5a3JaSHZBc3pJN0VXUUVDbk1hb2hHU21LbUhmS1ZHZDFjeHlFeGRIT1lxM2lFRXhKTkhIbnJZN1Y2cjZXdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-15T12:34:46+00:00"
+    },
+    {
+      "t": "반도체 설계 자동화(EDA) 소프트웨어 등 입찰담합 제재",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VNWVCeXRmQ19vNmZ2WXdCbUVXQzZEMTNBYlV4cW90SWdNVkZzUWpKU2N4MmpTRWlEVVFTSmdVcE1LZEliQ3g2YXdXSXNteC1tX0NQbnpLY016ck5saUFmeGVOaHVZRTZsMDRJ?oc=5",
+      "s": "뉴스데일리",
+      "d": "2026-11-15T12:14:37+00:00"
+    },
+    {
+      "t": "호남반도체 완충 저류·폐수 처리 시설 구축 착수",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oN0ROdE96M21vYlBiMG5sWHZqWjFoR0V5dzc3clN1eFJ5QnZXMjh5S21zMndsQ1NDRDd0RWNkWGowSEZjRVAxbkxnQ0Q5N2Q0M3Q1VEZMaVF5clE5SEx1SVluZU55cDQ?oc=5",
       "s": "KBC광주방송",
-      "d": "2026-11-14T12:27:44+00:00"
+      "d": "2026-11-15T11:54:29+00:00"
     },
     {
-      "t": "트럼프, AI 반도체 수출통제 풀기 직전에 엔비디아 주식 매수?…이해충돌 논란",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44cTYwMmthV252WVEyWGpJaUVoUzgtY3FuaDQweW53M3ZyalRvLUtoY19UcHljWHA1RGJ1dE50T0Vid0w2Ym9hVzRfSkVXeHNQZEU3SzR4Xy00ZFZpZ1E5dFc2QTY?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-11-14T12:26:02+00:00"
-    },
-    {
-      "t": "반도체 주식, 매수 신호는 딱 하나입니다",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2FqakFjdXZ5M1duUXkzQXlBakp2UDByY0MtUkpkSjA3OWIwN3JYWFYyYVpTUHNQY3JlQm8zZWxmc1d2YkJwallCVDZnZ2c3ZzRlVHhTU0pPZ1Q3SkhtRTlVdWM2M1ZkclpkS1oyaC1Db1E2RkhVTUJRdWhXTDIwRVExRHBBMmp1OFkw?oc=5",
-      "s": "네이버 프리미엄콘텐츠",
-      "d": "2026-11-14T11:59:00+00:00"
-    },
-    {
-      "t": "美中, 정상회담 앞두고 첫 무역위원회 회의…관세 인하·농산물 교역 논의",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSWklDQ19jV3M1cTR1WVlIdlhQeDM2VnRaSk0xVlE0RkgyYjZHUVZXakViWWFNRTJodHN0S2NhYzN5U0pIbjRxLUxDTzgtSzNSVmJ2X05Xank?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-14T11:37:15+00:00"
-    },
-    {
-      "t": "“트럼프, AI 반도체 수출통제 풀기 전 엔비디아 주식 대량 매입”",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWd2QWhpdzFHdHlhdW4tU2NYbGhBbkplZW9BQ2pqRjlYMjZVdzZUaFZGb0k0RWZERzkzSDRIaDZKT2h5YVMwTmVxai1rNkZEWGlzZVZEbDbSAVRBVV95cUxORUdGcy13SlhYOFVCMjVOVTBIeHJzVzlNeFVYdDZMalljWVdOYjlzQlRDRFNtQjdlWGFDYjl2Y3oxMVN1RUVvMXVYV2kyeEJMQjhvd3A?oc=5",
-      "s": "세계일보",
-      "d": "2026-11-14T11:26:46+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 황제 퇴진 '혼돈의 AI 테마···엔비디아 2%↓·AMD 반락·세레브라스 급등",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40cnNLbk9fbFlNbW56WmNOczBYYXl5YjBtQ05fSzdRUDFZOTBtcXJsMjcxal9KNkFtUTVPWE5lcllQeGdsWjdfa21FOHBCYmR3d05KWE9DTkE3MnQxczlScmYzZ0xoYWJiQ2c?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-11-14T11:26:26+00:00"
-    },
-    {
-      "t": "나주시, 반도체 클러스터 배후거점 육성…에너지산업 역량 결집",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KOGgwNk8zSHZNNng2Vm5LQ1RzSW91dk8tQVE0WVpZWFc0Z0xVdUgzeF96YWpVdGdqR09uckp1MEVJbW5BLVY2MWIwempkT1N3Y1BaVFNkREdPYW8?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-11-14T11:17:15+00:00"
-    },
-    {
-      "t": "멈춰 선 ‘금리’, 쪼그라든 ‘공급’...'26 부동산, 변곡점을 지나고 있어",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sX2MxbFZ0NEtVcU9tcXYybWhxR2F4SE5lYkYxb2RhN2EwdEVFdC10dmEtYjhtMnA3SUctZ29xeldGUDlMSTBERUh1V05KMmpBNzhuMnNYbW9jQ0EwYkJUSzdWN3dyX2RC?oc=5",
-      "s": "부동산신문",
-      "d": "2026-11-14T11:02:11+00:00"
-    },
-    {
-      "t": "트럼프·시진핑 만나기 닷새 전…미중, 관세 300억달러 협상 첫 테이블",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbVJBTUlqNVFkZVRsZVFxQy1yTUwtM1M0dDBmUXpENGVINDJrUnVUdTZlMjVNam1nUXNROVg0QmpIcm5sblRVQldKcG9tV2x2SEF1QzJ0dDJLOW4wejloVzRB?oc=5",
-      "s": "매일신문",
-      "d": "2026-11-14T10:59:23+00:00"
-    },
-    {
-      "t": "골드만삭스, 2027년 유럽 증시 전망은?",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZG9Yc3JleWY0Rk9JNldJbEpveEd1WnZRVEtXc2pLTkhfb0NqZ3BfSmZyXzVNM0J4bENoY2t5d09xd0JFMWRHSzQ1ZDg2WE9fdHJrbHFfVk1LM3piblRnZW41aXJVdGVSNllPMnpaS18?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-14T10:52:00+00:00"
+      "t": "“美中 정상회담서 ‘젠슨 황’ 사태 언급 안할 듯… 반도체 수출 규제 대상 아냐”",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ESm1JUkQwQlYwVVVfSWpkWGYyVmNIX2ptSlZTVFNkenZYNlRmZG1VSjU4c0szanJFUGVyYWRvRGlGc1RkZlRpS2tWSkJCblRlOEdndUZsLVZwdFZXbExRUTNRZkpmSzd0cmRVUE1scHRUNnfSAWZBVV95cUxOTTZMeDNFOF9qbkx0SlpZNE83aHgwMXQyTkZYZEluMlBrZVlaQ2RtalZpRTlhQ0ZzRWhZRXhoX3BnOHgwajRzZzNqTzZ1VFQxbUtYSXRNcDNoalI4QXZDdXEzT1NHR0E?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-15T11:40:52+00:00"
     }
   ],
   "asof": {},
