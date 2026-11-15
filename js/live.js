@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T16:30:46+00:00",
-  "quotesAt": "2026-11-15T16:30:46+00:00",
-  "newsAt": "2026-11-15T16:30:46+00:00",
+  "fetchedAt": "2026-11-15T16:45:45+00:00",
+  "quotesAt": "2026-11-15T16:45:45+00:00",
+  "newsAt": "2026-11-15T16:45:45+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "美경제 흔들릴 수 있다…AI보다 더 중요하게 봐야 할 변수들",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jeTlxYllreV9wbE5KOWNtNmtKV0VJMFRZbThSSzdROURJZVZyMFA4X0JIUVhoSEc0UEN3cmV2V3FPRy10b243R2ZVbE00QWxLZGdabVFSWmVKQXZSVXpFWdIBeEFVX3lxTE51enl2WExwWDR3Ul8xOGxfYVI5NWpvVlF2NDhNc3I0N0VxNjRGeHRybHV3bzZISFZqbHdvaDdYMFFUZ2VTUkl5Y05hUlVkM0drNnQ2Y1ZUWDZhYUZySWFUUE1pTHVlalVzeEpSV19lYkJUSWthaVRDZA?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-15T16:30:00+00:00"
+    },
     {
       "t": "항공, 유가 하락이 누구에게 더 좋은가?...항공사 3분기 실적 리뷰: 아시아나항공만 적자인 이유",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBab3JtLUlKdm5IM1BhME9QUXllaHdtd0ZfaDRQVngxZlZ1TW5vUEVLamoxMlNoM211MXc0V0c0TnFSYzlnVTFDdU1FeldrbFd2SDJ5SW1kZFBBLXNXdnk4bTZLR01pQzlMd1RxSDh0NkoxRnM?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va3FqS2Qxd0hQNS1RNUdTeVAzSW11YVhtM1RVWTNZelhwSEZNWjNtemRiSFpMeHU5eTdmTFh1RWQyNGlfSGFGTDAzR243bnppSVgwbTctV3R5dw?oc=5",
       "s": "한국경제",
       "d": "2026-11-15T15:51:00+00:00"
-    },
-    {
-      "t": "베센트 \"엔비디아, 외부에서 새 CEO 찾아야\"…연준에는 추가 금리 인상 자제 요구",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzN3VkUnNOMms2QlJuVVVSb2FFVmFGdHV1UW90NUtlMUpMMUN0bHh4Y1ZranhMQXpzUHdkdVlld1NzQkNjTC04emlJdl9aeTgxWG9KdW5GSmR1bWtjcE1tX2lPRVhzTmlIbVgyN20tSQ?oc=5",
-      "s": "마켓잉크",
-      "d": "2026-11-15T15:50:04+00:00"
     }
   ],
   "asof": {},
