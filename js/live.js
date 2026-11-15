@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-15T16:00:47+00:00",
-  "quotesAt": "2026-11-15T16:00:47+00:00",
-  "newsAt": "2026-11-15T16:00:47+00:00",
+  "fetchedAt": "2026-11-15T16:15:46+00:00",
+  "quotesAt": "2026-11-15T16:15:46+00:00",
+  "newsAt": "2026-11-15T16:15:46+00:00",
   "quotes": {
     "kospi": 5290.53,
     "spx": 7561.67,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": 3.21
   },
   "news": [
+    {
+      "t": "아르헨 경제학자 \"월 2% 물가·현재 낮은 환율 지속 불가능\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1taDdPd2FrQUxZYXM0ZS11Q0g3UEU4RlBpS2J1MzBja3FlcG85YnZaOW04TjhFdTVVakpfb2ZnaUhOY1dZRXN0WVNjLWU5SjQxWTZiQmxRMWZzcW1sd3EtelI3NXRQMFdKTExDWXozVTgydzdy?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-15T16:06:58+00:00"
+    },
+    {
+      "t": "FT “삼성, 반도체 넘어 AI 인프라 도전”…통합 역량 관건",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3pfcDNDNWF0WTZldzFnNHJzcmh1a2lFOE9zSGtRSThrQV9qekVaRXV0a1ZjV3NxeGhaZElEdm1yZHlNQTQ3SmlCV1NjUEgwU0JWRlZIOThGWWFuS0RIVzkwRy1uTURVZkhhY29FTDhhSXExanJ1S0Z1ZHp0UVBJMW01dzRHaF9I?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-15T16:00:00+00:00"
+    },
+    {
+      "t": "\"모기 하나가 반도체 공장도 멈춰 세워\"…한국 덮친 복병",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSzFnLThlZ2FOdHFWdmI0QnRqX3RST0gyV3BHcUtJLUFQenJ6M3Z3V1UwNUsyb0MxV3JuX1JoODJHSHlnN1MzTE1peEkwRGs1VGxVbGdKaHJRZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-15T15:54:00+00:00"
+    },
+    {
+      "t": "증시 조정에도 다시 꿈틀대는 '빚투'…마통 잔액 44조 돌파",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zT2JsSGpvQThROFlHMFFvSW11TC10amphR01Vc3dsTUtReFJSVzdNQURtS3dVM296S2todWp3ZV9XSUNRMldRZUk2R3hqaDZKMXRkcmVINTBqQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-15T15:53:00+00:00"
+    },
+    {
+      "t": "美 생산자물가 6.5% 급등…美·英, 내년에도 긴축 신호",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va3FqS2Qxd0hQNS1RNUdTeVAzSW11YVhtM1RVWTNZelhwSEZNWjNtemRiSFpMeHU5eTdmTFh1RWQyNGlfSGFGTDAzR243bnppSVgwbTctV3R5dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-15T15:51:00+00:00"
+    },
     {
       "t": "베센트 \"엔비디아, 외부에서 새 CEO 찾아야\"…연준에는 추가 금리 인상 자제 요구",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzN3VkUnNOMms2QlJuVVVSb2FFVmFGdHV1UW90NUtlMUpMMUN0bHh4Y1ZranhMQXpzUHdkdVlld1NzQkNjTC04emlJdl9aeTgxWG9KdW5GSmR1bWtjcE1tX2lPRVhzTmlIbVgyN20tSQ?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalR4WFlTOU5qNWdXYmpGc0ViQ2ZEcVBwbTlENTJGNVYyM2VxaTNmYWR0UFBULTlWYTBDb0dwcE1QMDVHSVdfWnlqZXh5S2JRX1pSUzVNcWljdEx3d2xPelhxOGdkUmZsbW43b3M4RUlTR1lxZ1FaWklKRVpQSEpjM3FLUE9jRU14Sng5Y01LUQ?oc=5",
       "s": "조선일보",
       "d": "2026-11-15T15:32:00+00:00"
-    },
-    {
-      "t": "美 월가 전문가 87% \"AI 부채로 금융 큰 위험\"",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWtnZmtFRFo5WHNQc2xaV0RYSkdFS3cxZnBDczc5SkFHSHlEb0VlTmVyb3B1RUJVbTJkUzM3dzlQWjRYV2dGbV9TdVdmbV9sa19GX2JydEU0VG9EUlY1dXJjVGhnV1pQSlU5dGNFQjV4NW9LTmJzVHV0NVpITkF2WldWQXNvRTdM?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-15T15:32:00+00:00"
-    },
-    {
-      "t": "반도체 호황…용인 기흥·수원 영통구 집값 '껑충'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeENfWlhXR0w3cWdDTXdjWlU1ZkhuczNnbDNIN0tsWXh6R1ZqcnJUcUhBY1Q1RGt5Xy1xWEJEbER6SmQzeW5JdjVjMEFKSDQ3NnNncnFRR0h4dw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-15T15:31:00+00:00"
-    },
-    {
-      "t": "반도체 계속되는 질주… 10월 ICT 수출 ‘역대 최대’",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhemU1ZkhoZ2lyclhjakxyQmFoZTdGUUdSTU5mTmN1clBXMThaY3htNTdBMDdEUVIzVVBEb3dRTXpqZWlYR3VWcWFvZGUya0JpcnMyTUFvSmQwVzdoNDJZS053SmdfSUhZUDdxNzVoLWc2dkhobXfSAWZBVV95cUxOSEF1TE1YYWt6XzJ5eEt3TU5JMlJ6QTM2ZXlTakFZN1B1VjQyYkZOTGdNb2M0Tmx5akwwLVZKY0VXMk5zbkhFeTN6THhYRTFTT252U3E4cGMxY1E4RnZfTzJKeElJZ2c?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-15T15:30:00+00:00"
-    },
-    {
-      "t": "美반도체-나스닥 레버리지… 서학개미, 1조 넘게 순매수",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3M1BWakd0RXZzMmZmMFc1ZXpMbjRQVlNyaFVQR2g2LUxKQ3pmRU51aUxHM1dGYXVKT0lZb0JfQ0ExUW1FYVZMa0dsSFdTWjJtQW4tM05YLUtxbEdRRG9pU000Sm1TU0RxN2xtUXZYQjBVUFlNc0HSAWZBVV95cUxPVWlHRjhtN1FNdWU3VlNkamJlWGdfZk9faUNaVVpDOVNmNVVocmVsWWVyeXQzTDJ6LUFxcjZjcmkxa0R4RVBPS0NLLWtFbUlwR2VjamhFQzRzbjIybkVQNVdVcURHMVE?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-15T15:30:00+00:00"
-    },
-    {
-      "t": "최태원 “반도체 넘어 인프라-서비스… ‘AI 플라이휠’ 거듭나야”",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vUHFWSnpZSG9NcFZLb2E3M1VjUkJhSFFYMjVEUjhaZDVwN0lLb08xbWlDaU1tdmxjUWRqQlU2LW1UMUp3QlFxWHlGU0VBejVrcW5icVB2WllvTUY5azcxd01jWU1XREdCX253NVZtajJnRVVQSFHSAWZBVV95cUxNdHdHU1NRcGlxS3FXQm9JQmh6dDJaYWk2bllsMVA0UjYzU0VBSGM2cE5VT0gwMjVORW1DY3NqUTROeTFBQzVtQW9QLVp2ZDQyNEtKMDJQUEJITTdEbk14WFhMRW04OGc?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-15T15:30:00+00:00"
     }
   ],
   "asof": {},
