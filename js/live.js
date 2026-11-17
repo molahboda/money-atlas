@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-17T18:16:01+00:00",
-  "quotesAt": "2026-11-17T18:16:01+00:00",
-  "newsAt": "2026-11-17T10:45:33+00:00",
+  "fetchedAt": "2026-11-17T18:30:52+00:00",
+  "quotesAt": "2026-11-17T18:30:52+00:00",
+  "newsAt": "2026-11-17T18:30:52+00:00",
   "quotes": {
     "kospi": 4968.48,
-    "spx": 7329.32,
+    "spx": 7352.93,
     "nikkei": 58860.43,
-    "vix": 26.11,
-    "krw": 1334.24,
-    "gold": 3865.3,
-    "wti": 86.46,
-    "dxy": 103.37
+    "vix": 26.05,
+    "krw": 1334.96,
+    "gold": 3863.3,
+    "wti": 86.58,
+    "dxy": 103.39
   },
   "daily": {
-    "spx": -3.07,
+    "spx": -2.76,
     "kospi": -6.09,
     "nikkei": -1.34,
-    "krw": 0.07,
-    "dxy": -0.17,
-    "gold": 0.32,
-    "wti": 0.86,
-    "vix": 13.97
+    "krw": 0.13,
+    "dxy": -0.16,
+    "gold": 0.27,
+    "wti": 1,
+    "vix": 13.71
   },
   "news": [
     {
-      "t": "시진핑·카니 회담… 中, 캐나다산 돼지고기·수산물 관세 인하",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjVyMER5cXU0X0ZrOGttNlF1Z0ZmUDRiT1lCVXBkZWxxd3pvcWNqdnZRUzkzdEhiX1E4N2dmcW5wSkNtUTZBekNsbU1zU1JVeDUzSmtCUW0tMmZRNHFkVjhqaE4xeWR4aDJCQkhwV0NyQXVMLXN6V0VYUTk1OTR4MkdMc1FVTGFGeXdzcUdxN20tQzV1cHdud2txOUhYQdIBsgFBVV95cUxOTmhHUG5EZV9KUWZyanNPTUdCMWxOQnFQUGEzdUlIV1M2ODF0bmFnWHZXOGZMN1J4VTRteDZhcnBGamxQMllfQ2VZcGxBNWhramlCb1ZYSHdTSWtoaWwtX0xkeUJfRFl1eFBYcGVzSl9NaDFPUFAzeDFhWHZUQmNFM21lTHo0ZENqYUk5YlR2TnJ3c1ZnYTA0eWJGc1FKMlNScVFwSThKZXhiMktoOHI4bHd3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-17T07:56:00+00:00"
+      "t": "유럽증시, 기술주가 하락 주도하면서 1.75% 하락… 엔비디아 실적 발표에도 촉각",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVWRQVUNSTk9KaHozQTd2b3VuaW5CMWwtNWRtOGRGc25jbHZXRkxoYXlqeDlHNFdvOVRmZ0E1cW9OVVNoUUpCRktTdFd5dmRHalFMWDJOb2c4OU1z?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-17T18:12:00+00:00"
     },
     {
-      "t": "코스피 9개월 만에 5000선 깨져···엔비디아 파장에 피크아웃 우려까지",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxT2h1RTBUamNWb1M1MFNsU2xKQ0tqTDlpYzdHeHhadkVKTENxVmxpdkVSa0RVMTFFOTdPME5zbVhrWUh4R3Q3aUUtRmRqbEdranJOSXB1OEQwZ9IBX0FVX3lxTE92SkhETWFTS3RNQmdhUjR5MWVqcVZtR0ljTWFPZEh6SHZENXhaZlBXbmpnNjBJTjJPNk1wUjlIenQ5Y0U5QldNMVpqUEl0blIxbi04dzJERkVRcnRyMk9Z?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-17T07:43:00+00:00"
+      "t": "“외국인 3일 새 3조3000억 팔았다”…코스피 5000 붕괴, 삼성전자·하이닉스까지 직격탄",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KUjJwbXdMM0hQMFR3VENzWDJReVpRZzFLSnVqd3JkYmRoam5QNHlZVldIUF9nMGhCU2k0bW5XUHlTa2ZadzBBSG0ydWtFVE5ndWNHZmUtMEMxc0xhSmhpb0JBN3plTUV4cjJGOQ?oc=5",
+      "s": "데일리25",
+      "d": "2026-11-17T18:00:32+00:00"
     },
     {
-      "t": "반도체 장비부터 K-소비재까지…경기도 ‘대만 수출’ 96.4% 껑충",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hSXIyWEMtOUhyV293ZVA1V2JXNHJSbHNPUHZGdEYzaWxxdExqZjBBcEl4UFpUdHVTcExhaWdiMm1xY0VmTFhvbVpnenM3ZFo3ekVxRFduZzNTYlE?oc=5",
-      "s": "경기일보",
-      "d": "2026-11-17T07:40:30+00:00"
+      "t": "美 국채금리 혼조…12월 빅스텝 가능성 4%",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUxFQXFZQ0pheFE4ZjlCN1NQd0ItREJ2ZFpVSHRtVnFqTW9OdzA5UDJhNkREOV9Md3gyTklPTU9pTHBlbGZKYTk0dW5FdWhyZVZ0RWdrcTVpanNfU3FVZm1hOTdubWloUnJMRGdkSWxySE9oRDFhUUdkaERKcFN3NVNjdFhqcGg4?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-17T18:00:00+00:00"
     },
     {
-      "t": "코스피, 美 반도체 악재·外人 매도에 '5000선 붕괴'…코스닥 2.34%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjT2ZMRE13aHZvbWUzb25UTEF1TjlxYU9EbFk3TURQQjVlR0ozaTNhTmpsWjBPYm5wN2xNOFV5LWdmU1dDVDNzRWRJYnI4ZkliMGlOOEVjeFZKdFU1c1p0RQ?oc=5",
-      "s": "프라임경제",
-      "d": "2026-11-17T07:38:54+00:00"
+      "t": "해맥 美 연은 총재, 최종 금리 상향 가능성 시사",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXh3TjVFQ3RLX1FJUk05WEUyQ2lYQTFBaDFkbVhVQkpOT3VrSnF0SDhGRldxZmNUbjhRckFsaFJyX2xmY3Q1dy1UWDNXNDM4dDBoTUg3dHFWYnU2VHpzcjlFUlZXUVNTRFQzMGdvNXN2R01fWHlrUk1WS1U2S2x2X2J0RU1wVGhj?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-17T18:00:00+00:00"
     },
     {
-      "t": "코스피 '5000피' 붕괴…지난 2월 이후 9개월여 만에 최저 수준",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wSEI1NEJIZFhjbzA4UlRERTNxVzFST3gyQUc0TEpjakRrYi1DMG5aYkxFV0FBUlpRQ3BTanV1SzBEaUk3d2k3U2VySFBCWVBaaEwxTUJQbWFiWlpoUlZXQ3dWMkJFMmY1UFE?oc=5",
-      "s": "금융소비자뉴스",
-      "d": "2026-11-17T07:38:00+00:00"
+      "t": "워시 美 연준 의장, AI發 인플레이션 언급 피해",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFFQYi1WcFRuY2t0YVBQUnpIZXBZdXEyTnlMWm8yb0g4WlRaUENicmdYNFZFLUg5OExabFRjc2hramd1TXd1cko3eHEzYlFScVhKNUVYNzZLSE8zZjNZeXJWU2xNd1pxbktqSWwtcWpWWHloeTZNRVJBeVdZajVtV3lxYUtnd0hy?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-17T18:00:00+00:00"
     },
     {
-      "t": "추미애 \"세계 최고 반도체 혁신거점 경기도에\"… 8개 시 묶어 클러스터 도전",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BM1kwbzZMVGhiWWFHN2pnbXhDRGpQMENCd0c5TG9OQmZsUUtIUkdCSTNCNjY4MVZWOEhnREVieHkyVU9oZGtxdXQ4WXBwZDRucjZ2WjM2QzhUamJzd2x2TDZGUHZrei1oTGJYU2d3NVJ2WFhMRmxV?oc=5",
-      "s": "OhmyNews",
-      "d": "2026-11-17T07:38:00+00:00"
+      "t": "美 AI 칩 규제의 역설…中 화홍반도체 16% 급등",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUNhLWcwaVBrbkxHSVNnUHRCdEtraXFudEZwNTlfSldIb0JLUERpSk5ubWNnLWNBdWZGY2FaamVIUlFFdWlLNEFOT2lsV3BZYlZ0dFV4LVQzLVFjQnpnQXpOdVZwdnVRUXUzbmtIbnpSbHRQbTVRWU96b3J3UC1WeTBoamZQdE9h?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-17T18:00:00+00:00"
     },
     {
-      "t": "9000선 넘었던 코스피, 5개월 만에 4968로 추락…45% 넘게 빠졌다",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SSGpsLUFfNks0RXZnNEVrYmV3X2VLUFU4eUtMMVNwUlJVd1JEYUk4blVINlBqZm1KUGd5N25wNk1salE0ZlZvTXp6azhpZmc2a1JtcWk3NTVPdldvMXZRaWlHVVhQZmZvLWpqR2puWQ?oc=5",
-      "s": "진일보 | 전남일보",
-      "d": "2026-11-17T07:37:03+00:00"
+      "t": "미국 연준, 결제 시스템·토큰화 시장 연계 관련 고려사항 제시",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzbmlxaDBVMVZrZURnTVpKSTgtcUxTNElYNTU1S2FLalFzZ3d3d2xQaEUyNVlQUlhtdzg4c3V0ZGRsa1R1ZUdUX2pZUU5NSjVL?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-17T17:38:06+00:00"
     },
     {
-      "t": "조용호 오산시장 “경기남부 반도체 거점 잇는 첨단 자족도시 도약”",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ISmpLUXNMam5JUWRudE4zeXFDdE5FeXJpQ0tqS3pFSmw0NDFGN0NHSFVHMW1BbFVZM0oyT0tuZnJYREdCaE1RbzZCOHBLRTNiV3ZhV2NmdVN5QUJFdU42bUFB?oc=5",
-      "s": "경기신문",
-      "d": "2026-11-17T07:36:08+00:00"
+      "t": "엔비디아 급락에 뉴욕증시 동반 하락",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UNkFrZHhWMXFzMnpjQk1IMHh0a2tzcDhhU1MxUmZQNmRoLVJUS1RkU0dDX29hRWxhckxYaEQxTGtHdEtMV1ZBN09YVW05WHgxVXFkcEtNWnZ4Y3hqRUVYdDRCMnQ?oc=5",
+      "s": "라디오코리아",
+      "d": "2026-11-17T16:44:00+00:00"
     },
     {
-      "t": "젠슨황·앤트로픽·금리…'삼중고'에 5,000선 무너진 코스피(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80S0JhamIzTVpRTUI4eU9JWmhsb1FiSWRxQmRLeDN6Ry1HckJWYldvVDB2a2ptaDFsdkI5b1VfMWxUNmNZLXpMbTNjRzZiSThIT2JYR05LbWZfYkXSAWBBVV95cUxPSUFUWGszTDR2YVFNclZIbmw2MXF3eWVRSjd6WTJFWkh5dDRkUXI3MDE5SXJqTzZKdnhQQXJ5UGVyTWVQOEhMUUtzMXZmcEVDNldmckliZnhLMnRvdlJfd1E?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-17T07:33:51+00:00"
+      "t": "[뉴욕 금가격] 증시 하락에 긴축 우려 완화…0.5% 상승",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKb05JT2I1OURHNGFoSDB2eF93MUdZb3Ywb3ZGNVkySlZHT0xMYlc3VDlVR2t3RzRjRmxDMjlPQmZsNUNPXzN4SDdyYWFDR3FOd2Y4M0hZdmtqNDA5VEZJQmpUSkxOcE5lN3NIN2kzZWl2Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-17T16:37:23+00:00"
     },
     {
-      "t": "코스피 5000선 붕괴…외국인 1.4조원 매도에 4거래일 연속 하락",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVbWZRcWsycmdyazEtTU5aNW9BbzNpckNnSlVVUHI0V2RtdjRuQkVaTmx0ZzlNTUdvT193b1EtS0I4NkFJX05YTklKcEdkaXJzbmw3MkJoZWw3eXpwekU2eQ?oc=5",
-      "s": "https://www.theconnectmoney.com/",
-      "d": "2026-11-17T07:33:00+00:00"
+      "t": "ETRI, 인공위성 전력반도체 2종 개발",
+      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWtGNFFIbVZET3M3U0dfSjFFVDFyanR3VFJuaVRFZk1hLS1Pckh1THYzY2tKTzZXOVp4SEtvQlUyRXBLZkZHOXFJU2xXZGlscXFGcW5GU2ZzaE5JSndDQ1BMWW9RNHpoQVoyeklxckJzUzFnd1Yzem1ndzlKU25HVg?oc=5",
+      "s": "서울신문",
+      "d": "2026-11-17T16:10:53+00:00"
     }
   ],
   "asof": {},
