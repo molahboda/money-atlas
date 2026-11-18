@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T20:45:07+00:00",
-  "quotesAt": "2026-11-18T20:45:07+00:00",
-  "newsAt": "2026-11-18T20:45:07+00:00",
+  "fetchedAt": "2026-11-18T21:00:07+00:00",
+  "quotesAt": "2026-11-18T21:00:07+00:00",
+  "newsAt": "2026-11-18T21:00:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7303.98,
@@ -25,6 +25,12 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "美연준 월러, \"12월 0.5%p 인상\" 또 군불…빅스텝 이견 확대 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUWVGVWpxeVRxR1JJVExwbng3OFBHTXpZaWdnY3VOT2loTWt0LVYxMlF4dmlITFQwU3YwQ1V4RHJQRjdrUmlJSVQtNC15SzdSLV96Mkw0TUdzUHB6bzZvRHJHd2Z5SU9W0gFuQVVfeXFMTXh5ZnpnMTVZR2xkMkdvNUlsNlEwSDBxM04yamw5YjBTOEo0UFh6d29XYTJQZW1VZHRhQTRKSW5YQzBaYkZfOTZ2alhjb3Z5aGJGZmVRbm0yd2NNdF9jYkNsOVFlSWlFWndza25MRmc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-18T20:56:01+00:00"
+    },
+    {
       "t": "[금/유가] 매파 연준에 금값 3% 급락…美 재고 급증에 유가도 하락",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHNUttaVhRQ2dLSG1fTDJGNENtNzNEV2ctQXpwSkI5eUhDRzdxU0VDTktHYVlMbTJ5RkJXYnc2M2FxQjAxOGU1TGI5MFRRYXJMSlBrNHNHMm9jeDZm?oc=5",
       "s": "뉴스핌",
@@ -41,6 +47,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1POUc2azRhbXhqdUlQU3BGOHZ0cE9iYmFWQ1NLVk1hS3VhRFlUdXliRVdXc3VvcW5VYXlWcU1OQU9DV1BpeGJwaXFfa3BKbE9QTWdvbU1uc0U?oc=5",
       "s": "뉴스1",
       "d": "2026-11-18T20:28:43+00:00"
+    },
+    {
+      "t": "[뉴욕유가] 美 원유 재고 예상 상회에 WTI 3.2% 급락…3개월來 최저",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE04ek9yUTZmdTNvM0RodjNuV3NCQno5NDZ2TWNLZ2FWRXI5d1daYTF0YWZSVkhONzV5S2MwMG5aLTlpX05HN05rcV9aUzZkQ3lhOWN3RGhmOE15czU2S0F5Y0dCLTBFSzBOcE5pVDJiOXZSUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-18T20:21:24+00:00"
     },
     {
       "t": "[월가 레이더] 엔비디아 호실적에도 2.8% 하락…연준 긴축 경계에 다우 555포인트 급락",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wbzRiSjJZVm1GWTF0RVFBQTZEUDllN2RUWUdpMGZNY2VRRS1uWldzUl9VbmZLYjBUV0RLNVc3MV92ZjVENGVXcmZNelhYNzNWNWFfckh0ZDUwaWNZRnB4QTFXLWFCUnM?oc=5",
       "s": "지이코노미",
       "d": "2026-11-18T19:43:44+00:00"
-    },
-    {
-      "t": "연준 의사록 보니 거의 전원 ‘추가 금리 인상’…12월 인상 폭엔 이견｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zSmtqMkEwSFozVGxmNWFMS19NZFplX1llYmhrUHo1aW5yRFBKSDBsZTFGQzM2cFNna25WMldyaVVJc2tkaGdnLWhMTlBXb0xzY0Rub1JlYXpVSkE?oc=5",
-      "s": "중앙일보",
-      "d": "2026-11-18T19:40:45+00:00"
-    },
-    {
-      "t": "韓 성장률 3%대 후반 수렴…내수 1%대 부진에 물가 부담 '여전'",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1NYUHh0aG0ybXJXY0FGWlhVdmVJd0VVUUV1U2k4cEpTeVpkMUl2eHM0UEQ0bmZua3dlS0hfQ0prNDg4ZHVTa3JHb1BOa2Y5NTcwNEg3aXd0RHdzbjMxbDJ6SFgxbmNXZkQwQ3JLVUJ6emNPZGNKS05TWEQyanhNMw?oc=5",
-      "s": "이데일리",
-      "d": "2026-11-18T19:40:03+00:00"
     }
   ],
   "asof": {},
