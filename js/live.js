@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T22:30:07+00:00",
-  "quotesAt": "2026-11-18T22:30:07+00:00",
-  "newsAt": "2026-11-18T22:30:07+00:00",
+  "fetchedAt": "2026-11-18T22:45:07+00:00",
+  "quotesAt": "2026-11-18T22:45:07+00:00",
+  "newsAt": "2026-11-18T22:45:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7303.98,
@@ -25,10 +25,46 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "미중러 정상회담, 앤트로픽 상장…코스피 5000선 시험대 [오늘 아침 당신이 알아야 할 7가지]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTDRuRUFJMTJocDQ1UWdwcWJuaE1nT1NWaGZfcXhQS2t5X0UwZmJ4SjBFQkZOZXM1cFg5QzZPNkF6bjZYOVZTbjRDVHFsWWFoUGtHQmFqRTBjUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-18T22:41:31+00:00"
+    },
+    {
+      "t": "중국 보복 우려해 EU 관세 정렬 거부한 영국, 자동차 보조금 확보 난항",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekZtYkItV05Ia3VucWNDdDhPbUhjNl91X084M1VreHFZQXpMdUxKdTFXUGd0Z0IybktVbmswUDhWbDE3Z25ZaEtXVHZDbGRfWnhqM19mc3FwTVM3MGk1VDROa2Vkci1zTkc3bFlTcVotQXM3LUhZa2g2cnZlX1o1d28yN2tsRzZy?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-18T22:40:28+00:00"
+    },
+    {
+      "t": "[브라질증시] 재정 불확실성·美 금리 우려에 16만8000선 붕괴…헤알 약세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrbUdIakFGOE5IclFITU9iZ1JEYVBBQ2xyc1QweDZJSlpkXzV0cUo4c1pLQkdtT1dTOW5Ed05aNVBtbll2bFQ4cXBzVVBsUDROTW1zZ1E4NjVTTW8w?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-18T22:38:00+00:00"
+    },
+    {
+      "t": "[오늘의 글로벌마켓] 뉴욕증시, 3대지수 혼조세...나스닥은 0.4%↑",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUSGlSQkNISjRqRms5VF9wVFB1QXBYa3k5U3FoWnVnLS1RN0hReVFGbm5NemxrZTJDOUZObUhJd2pSMzVVMUJ0Unh1Sy1PM2p1bENoRzZMc3ZpR2dLQm1nSHBfSENuSEZzQjFKclRjRVlNQQ?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-11-18T22:31:30+00:00"
+    },
+    {
       "t": "[채권/외환] 연준 매파 발언에 미 2년물 금리 상승…달러 19개월래 최고",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rYk93TEFaSUpMbjhYUERwNVRKVlh6RWd1LTFrb3VVdnptNnNtak9MX3ludTBLYkVrTjVIamlSNG5hQXdWUGFrOUNlU2JIamxPZEl3eE1ZQ1VSVHBG?oc=5",
       "s": "뉴스핌",
       "d": "2026-11-18T22:26:00+00:00"
+    },
+    {
+      "t": "10월 FOMC서 추가 금리인상 공감대…일부는 '빅스텝' 거론",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yYUdrSVc5LS1makV0ckJEdFd2aHZ0dWdlZnQyNWY2Z0xKZ2kyUndaUVZnQVE3cU5DVWdxQTk4Y3c1eDZzUXh2N0VQTmpkakFKWnpmNGlDQ2hlOFnSAWBBVV95cUxPcVJaTFZwa0JLM3RYRGdMSWUzaDZ3TU5vWDBYOUwwSnY4Y3VrbExoa3RuTnpldFRHSGUyTS1YWVdIVHNkNzdsWm1iY3ZPM2pyck9ZekY3ZF9BVnQ2WjRLbDQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-18T22:22:04+00:00"
+    },
+    {
+      "t": "[뉴욕유가] 美 원유 재고 예상 상회에 WTI 3.2% 급락…3개월來 최저",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoZk1vdTZfUmtFZGpOVnZSUVh3TWZEU1ZtaWtHbERUSThOazBhc1BLa0QyeGdLRUJ4X2tJQTJQdzFQNmZKSDhrbE5JcDNOdmgxTHRVa3NORS1mR1VBbk5tVVBLX3NfdHdaWkE4M3FUQWg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-18T22:21:37+00:00"
     },
     {
       "t": "[AI MY 뉴스] 19일 중국증시 'APEC서 마주한 미중 정상…AI 반도체 패권 경쟁 분수령'",
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-18T22:21:00+00:00"
     },
     {
-      "t": "앤스로픽 공모가 상향…엔비디아 하락에 반도체 약세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQmNyRVg3Qk1PNlg4WTlwN01Ya1I0aVhvcmVERE8zTTRxTHN0QWFmc0ZoSEtYNTUybUZPV0JMNmNTR1ZRemR5SUs3SElYakpiWTlibGNRcDZCVjlvZTdZR01lMHBfajM1WFNHdXF1ZVQ?oc=5",
-      "s": "코리아리포트",
-      "d": "2026-11-18T22:17:57+00:00"
+      "t": "[오늘 증시 전망] 코스피 5,000선 되찾았지만 외국인 매도 지속…19일 수능일 증시 10시 개장",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lNVVnTGFnQVFzWERXVVltV3p3cFdSUS1pWGt3Q0pYaFZDX2NnUjJ0ejhTeExMOWp5SzAyVXRiVElYM3Vfd1NkV2E4RlBNc1lyM1g0WWVnam9yaWlSWnBiWDFnb1pRakZ5Tm1TY05R?oc=5",
+      "s": "업코리아",
+      "d": "2026-11-18T22:18:05+00:00"
     },
     {
       "t": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5",
       "s": "한국경제",
       "d": "2026-11-18T22:15:45+00:00"
-    },
-    {
-      "t": "국제유가, 글로벌 원유 공급과잉 우려 등 영향 하락반전",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qd1h6T3VXOHFERW9ReHZscmhsRWIwWGRiUmhOTERxZEFDbGxzemg3X0tBeDctTTdvMFQ1bWxaNzhYNmdCTllaWGF4RGtGLTdyaFF6WmRIS0daYTNTZXc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-11-18T22:08:55+00:00"
-    },
-    {
-      "t": "동결했던 10월 美연준, 추가 인상 필요 판단…2명은 '빅스텝' 시사",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZl9lanVWOTcyeWQyT1lvZ0VmNzM1RnRmWmhTQ0pYTTdLZWVYekluM2t2TTJoMEdJMUN1RnA5LU1aUVRZTTBKeXR3Y1BrbEdiRG5yUUdkR09oYWRKejNCZlJhaG92NzA?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-18T22:05:38+00:00"
-    },
-    {
-      "t": "뉴욕증시, 엔비디아 호실적에도 연준 빅스텝 우려...다우 1.1%↓",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kWU02Tk9Ha0p6QTZaTjNLdGpFZ3E5aUNub21CcVpReEtKNTRxWVR3QW41NXhEem00RDIxckxwVkJZMFlGeWtzMFlwQzhMMTVGYUdMNFZlQ3h2ZzB2Vm80ZQ?oc=5",
-      "s": "증권일보",
-      "d": "2026-11-18T22:00:08+00:00"
-    },
-    {
-      "t": "물가 올라 월급 가치 떨어지는데…노동법이 중요하다고? [율촌의 노동법 라운지]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NWdQM29JZ0RVYjktOTlMbGRGQTdMTkRSZ0pCSDBqYksweFdPcTR1bXpNWGozSXdfTEpyam1QWGNHcDc2RDFPbzJBd0hEbVJEaDllWU9ETTNHZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-18T22:00:04+00:00"
-    },
-    {
-      "t": "젠슨 황 떠나자 안도한 증시, 돌아온다니 다시 불안",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xT2dQeFJRbTVRMnRfalNJQl8zb0ZudnZya1htWU90QjJaZG1HTmNqdFJHTlkyREJCc1VEaDU1Z01NZFBHU0M1eU9PME1STW02Y1Voa3F2bDY1UWRsOFdpMl9ZcUM?oc=5",
-      "s": "주간동아",
-      "d": "2026-11-18T22:00:01+00:00"
-    },
-    {
-      "t": "[中 거인의 공급망] ②반도체 화학품 강자 '정서전자재료' 없으면 'YMTC'도 없다",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9INDZ2enpGTEZuMXdfX3F2MUV1UXY2dFVoWmY4TWdXbTlLTkZmU2hkYlJFTlAzdktUVDZoRDAycS1vLU1aVnRnR0FjcHJaZjQyaThlUGhZZDluU3dX?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-18T22:00:00+00:00"
     }
   ],
   "asof": {},
