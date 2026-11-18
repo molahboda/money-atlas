@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T19:31:00+00:00",
-  "quotesAt": "2026-11-18T19:31:00+00:00",
-  "newsAt": "2026-11-18T19:31:00+00:00",
+  "fetchedAt": "2026-11-18T19:45:53+00:00",
+  "quotesAt": "2026-11-18T19:45:53+00:00",
+  "newsAt": "2026-11-18T19:45:53+00:00",
   "quotes": {
     "kospi": 5067.44,
-    "spx": 7325.35,
+    "spx": 7318.06,
     "nikkei": 59024.28,
-    "vix": 24.25,
-    "krw": 1333.31,
-    "gold": 3732.4,
-    "wti": 82.19,
-    "dxy": 103.82
+    "vix": 24.29,
+    "krw": 1333.4,
+    "gold": 3723.1,
+    "wti": 82.34,
+    "dxy": 103.87
   },
   "daily": {
-    "spx": -1.23,
+    "spx": -1.33,
     "kospi": -0.65,
     "nikkei": 0.28,
-    "krw": -0.18,
-    "dxy": 0.32,
-    "gold": -3.41,
-    "wti": -4.44,
-    "vix": -4.75
+    "krw": -0.17,
+    "dxy": 0.37,
+    "gold": -3.65,
+    "wti": -4.27,
+    "vix": -4.6
   },
   "news": [
     {
-      "t": "유럽증시, 기술주가 하락 주도하면서 1.75% 하락… 엔비디아 실적 발표에도 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVWRQVUNSTk9KaHozQTd2b3VuaW5CMWwtNWRtOGRGc25jbHZXRkxoYXlqeDlHNFdvOVRmZ0E1cW9OVVNoUUpCRktTdFd5dmRHalFMWDJOb2c4OU1z?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-17T18:12:00+00:00"
+      "t": "코스피, 하루 만에 5000선 탈환…반도체주 반등에도 외국인 매도세 여전",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWC1Vck5wU3FNUFZReTh1NTVtbjlMaGNQNHg5ckt0SjBsZWs4Q3ZOb3c5T0hMb2ZjQWdkU2lVRlpIQXJOUjRReGx4X3J5RllpTzNvOWE1RXozTXM3X2Eza0wzUmp2b2M?oc=5",
+      "s": "지이코노미",
+      "d": "2026-11-18T19:34:47+00:00"
     },
     {
-      "t": "“외국인 3일 새 3조3000억 팔았다”…코스피 5000 붕괴, 삼성전자·하이닉스까지 직격탄",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KUjJwbXdMM0hQMFR3VENzWDJReVpRZzFLSnVqd3JkYmRoam5QNHlZVldIUF9nMGhCU2k0bW5XUHlTa2ZadzBBSG0ydWtFVE5ndWNHZmUtMEMxc0xhSmhpb0JBN3plTUV4cjJGOQ?oc=5",
-      "s": "데일리25",
-      "d": "2026-11-17T18:00:32+00:00"
+      "t": "발제/ [2027 증시 앵글 ④] 최현재 유안타증권 센터장 “코스피 1만선 재도전 가능…승부처는 내년 하반기”",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93UmY1S3dWTDhUcTNvcUFZR1FpOHZLdnFsVnJxNThwRzZzWkR4OGFMTHY4b3FCcGlxVkozczVyQzlVLU1ZZFRWd0pERXZrME9fazhnRHYxU3ZNa0UzblE?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-11-18T19:26:00+00:00"
     },
     {
-      "t": "美 국채금리 혼조…12월 빅스텝 가능성 4%",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUxFQXFZQ0pheFE4ZjlCN1NQd0ItREJ2ZFpVSHRtVnFqTW9OdzA5UDJhNkREOV9Md3gyTklPTU9pTHBlbGZKYTk0dW5FdWhyZVZ0RWdrcTVpanNfU3FVZm1hOTdubWloUnJMRGdkSWxySE9oRDFhUUdkaERKcFN3NVNjdFhqcGg4?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-17T18:00:00+00:00"
-    },
-    {
-      "t": "해맥 美 연은 총재, 최종 금리 상향 가능성 시사",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXh3TjVFQ3RLX1FJUk05WEUyQ2lYQTFBaDFkbVhVQkpOT3VrSnF0SDhGRldxZmNUbjhRckFsaFJyX2xmY3Q1dy1UWDNXNDM4dDBoTUg3dHFWYnU2VHpzcjlFUlZXUVNTRFQzMGdvNXN2R01fWHlrUk1WS1U2S2x2X2J0RU1wVGhj?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-17T18:00:00+00:00"
-    },
-    {
-      "t": "워시 美 연준 의장, AI發 인플레이션 언급 피해",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFFQYi1WcFRuY2t0YVBQUnpIZXBZdXEyTnlMWm8yb0g4WlRaUENicmdYNFZFLUg5OExabFRjc2hramd1TXd1cko3eHEzYlFScVhKNUVYNzZLSE8zZjNZeXJWU2xNd1pxbktqSWwtcWpWWHloeTZNRVJBeVdZajVtV3lxYUtnd0hy?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-17T18:00:00+00:00"
-    },
-    {
-      "t": "美 AI 칩 규제의 역설…中 화홍반도체 16% 급등",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUNhLWcwaVBrbkxHSVNnUHRCdEtraXFudEZwNTlfSldIb0JLUERpSk5ubWNnLWNBdWZGY2FaamVIUlFFdWlLNEFOT2lsV3BZYlZ0dFV4LVQzLVFjQnpnQXpOdVZwdnVRUXUzbmtIbnpSbHRQbTVRWU96b3J3UC1WeTBoamZQdE9h?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-17T18:00:00+00:00"
-    },
-    {
-      "t": "미국 연준, 결제 시스템·토큰화 시장 연계 관련 고려사항 제시",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzbmlxaDBVMVZrZURnTVpKSTgtcUxTNElYNTU1S2FLalFzZ3d3d2xQaEUyNVlQUlhtdzg4c3V0ZGRsa1R1ZUdUX2pZUU5NSjVL?oc=5",
+      "t": "마이클 바 연준 이사 \"인플레 여전히 높아…추가 금리 인상 지지\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YM1cxQlJ2ei05ZG1KUlo0V252SDRmVzhEbHNpSVhQdmJsZzNkZzNCV3R5TUViazFKZklXRTlLa1RRMzBwdU94d2ZtZzZ5M05U?oc=5",
       "s": "블루밍비트",
-      "d": "2026-11-17T17:38:06+00:00"
+      "d": "2026-11-18T19:24:52+00:00"
     },
     {
-      "t": "엔비디아 급락에 뉴욕증시 동반 하락",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UNkFrZHhWMXFzMnpjQk1IMHh0a2tzcDhhU1MxUmZQNmRoLVJUS1RkU0dDX29hRWxhckxYaEQxTGtHdEtMV1ZBN09YVW05WHgxVXFkcEtNWnZ4Y3hqRUVYdDRCMnQ?oc=5",
-      "s": "라디오코리아",
-      "d": "2026-11-17T16:44:00+00:00"
+      "t": "미 연준 위원들 \"추가 금리 인상 필요\"…일부는 빅스텝도 거론",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJSVpuZFBEdjUtUV9BVGE4dklJbWxPOUkxQWx5QmpORjhnQ3drVU5iY09zSHdTQkMxZ0xfOGdHYndGN255MTAtYWZtXzJwQTdvVU9MbWN5S3VtUjRB?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-18T19:16:00+00:00"
     },
     {
-      "t": "[뉴욕 금가격] 증시 하락에 긴축 우려 완화…0.5% 상승",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKb05JT2I1OURHNGFoSDB2eF93MUdZb3Ywb3ZGNVkySlZHT0xMYlc3VDlVR2t3RzRjRmxDMjlPQmZsNUNPXzN4SDdyYWFDR3FOd2Y4M0hZdmtqNDA5VEZJQmpUSkxOcE5lN3NIN2kzZWl2Zw?oc=5",
+      "t": "일부 Fed 위원들, 12월 25bp 초과 금리 인상 가능성 시사 – 회의록",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OYXIyV2ZDbU9UZ3ZKaVFWYVBLckZjTVJySFdCd1BhOHliNXZxdEFsM29nelAwcktwWFlfVlZzRDdTWHRfaWpjY0JxRTVJU3R5ZG94NzZ3VnN2ZHZodWlhdlhpazJFOUwxb3c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-18T19:08:00+00:00"
+    },
+    {
+      "t": "美연준 월러, 또 '빅스텝' 필요성 언급‥\"충격줘야 할 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zME5McUlwRnhoOUNab3Ffb1BDNG9sekZTeXJTb3dVMG9tU1hlNmVNX09IYzlKdGNCOTJTd1pvNUtwZkdvXzBaZVk2UFhzd013VnRRNEFLU2R2MldoX010QWNEbzVRSC1EdHRrZXE1ZVJBMzU00gF0QVVfeXFMTTNRR19XUWhCV0dqaXdiR3JiTGhPb3g3QXNycEtZQ3c2X3AxX09VYXRWU0ZtTkpfZ056c3hPQklWYU9BZ19rWmhWb2VfWFViLWRoMWZtd21Cb1JHaDZxY2RKcHNGdW9WUGhnekthSVhPZTB1VzQ?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-18T19:05:09+00:00"
+    },
+    {
+      "t": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVHdzb2RNZXpXRUx3ZDRlSmZDVk5fLTV2dVNhZmlkLU1Ud0RmZHhyYXNqWXhZc0pDeF9waG9ZNXdDSHBjX0dXcW5RS1pwZi1OaTNiRHN0SXdMSWR1NlB2QzBwRkJob3ZvekFXNFp3Q2lQQQ?oc=5",
       "s": "KB Think",
-      "d": "2026-11-17T16:37:23+00:00"
+      "d": "2026-11-18T18:59:59+00:00"
     },
     {
-      "t": "ETRI, 인공위성 전력반도체 2종 개발",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWtGNFFIbVZET3M3U0dfSjFFVDFyanR3VFJuaVRFZk1hLS1Pckh1THYzY2tKTzZXOVp4SEtvQlUyRXBLZkZHOXFJU2xXZGlscXFGcW5GU2ZzaE5JSndDQ1BMWW9RNHpoQVoyeklxckJzUzFnd1Yzem1ndzlKU25HVg?oc=5",
-      "s": "서울신문",
-      "d": "2026-11-17T16:10:53+00:00"
+      "t": "8월 예상보다 커진 '초호황 반도체' 가중치… 이례적 파격상향 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhaGItX2JZNUI1NTYxX2VKUjVwZmhqX2xudzJEQlJzNXp1SmRHRkVNRW1ET1Y4UlhDVkFCd1BsMF9DbzZxTGY0NGdydE5SaGgyVTZIUXM5NGJZaFh0c2Mwc2NpX2hUdUdVUEhzRmc2N0EwZUZPclVhSdIBfkFVX3lxTE5iR3g0SFlGZDQ5ZVJYZnNrbGdqUl9obkFBNnlsei0tZU1EcllSUldPdnZRUmp6LXVBUnZUei1LQjZUMy1OdnhNNW5BMW82Skk3SDhqYzZEN2p4WVo5Mkt4bkd1VWktSllNLXpqZlhIY3NycXNTb1duMEJTYWlOZw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-18T18:57:00+00:00"
+    },
+    {
+      "t": "美 연준 월러 이사, 빅스텝 거듭 강조…\"충격요법 필요할 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1takdVamptQks3OXpXSHMxekQ1emtjSTl5WkpGV0xuZG1VSHEtNFE3SDc2ckt2bVRGR19tQ1BFU2gzWTB2NTNCMkNCU3U2aGNaRXFGMHpCYU1XUQ?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-11-18T18:38:38+00:00"
+    },
+    {
+      "t": "배어 연준 이사, 경제 순항 시 추가 금리 인상 지지",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RU05vU1RUSnhUMDJMM1V5cjZJQjBER1B5Q1VGYklRZHFhc2pJZjlDNTdDTC1MeHRwVUkzVENVUnM4QlZHZWRUdi03NzdFckFsUDJuZ2thaHRBTjk1ZzQzRUJhbXpfSTRwR1E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-18T18:38:00+00:00"
     }
   ],
   "asof": {},
