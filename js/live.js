@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T22:15:07+00:00",
-  "quotesAt": "2026-11-18T22:15:07+00:00",
-  "newsAt": "2026-11-18T22:15:07+00:00",
+  "fetchedAt": "2026-11-18T22:30:07+00:00",
+  "quotesAt": "2026-11-18T22:30:07+00:00",
+  "newsAt": "2026-11-18T22:30:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7303.98,
@@ -24,6 +24,36 @@ window.LIVE_DATA = {
     "vix": -3.02
   },
   "news": [
+    {
+      "t": "[채권/외환] 연준 매파 발언에 미 2년물 금리 상승…달러 19개월래 최고",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rYk93TEFaSUpMbjhYUERwNVRKVlh6RWd1LTFrb3VVdnptNnNtak9MX3ludTBLYkVrTjVIamlSNG5hQXdWUGFrOUNlU2JIamxPZEl3eE1ZQ1VSVHBG?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-18T22:26:00+00:00"
+    },
+    {
+      "t": "[AI MY 뉴스] 19일 중국증시 'APEC서 마주한 미중 정상…AI 반도체 패권 경쟁 분수령'",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xQXM2SnJQaTlEaTdyR2tCcnR2QWFoYzNBWHhSNHhNNDhIME5MU1JIcVRIZmFiSnBlZnhvbGg0VlZuNHlnYjhkalllMnVDeVZleGpySDJ4d3N2RXR5?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-18T22:21:00+00:00"
+    },
+    {
+      "t": "앤스로픽 공모가 상향…엔비디아 하락에 반도체 약세",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQmNyRVg3Qk1PNlg4WTlwN01Ya1I0aVhvcmVERE8zTTRxTHN0QWFmc0ZoSEtYNTUybUZPV0JMNmNTR1ZRemR5SUs3SElYakpiWTlibGNRcDZCVjlvZTdZR01lMHBfajM1WFNHdXF1ZVQ?oc=5",
+      "s": "코리아리포트",
+      "d": "2026-11-18T22:17:57+00:00"
+    },
+    {
+      "t": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-18T22:15:45+00:00"
+    },
+    {
+      "t": "국제유가, 글로벌 원유 공급과잉 우려 등 영향 하락반전",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qd1h6T3VXOHFERW9ReHZscmhsRWIwWGRiUmhOTERxZEFDbGxzemg3X0tBeDctTTdvMFQ1bWxaNzhYNmdCTllaWGF4RGtGLTdyaFF6WmRIS0daYTNTZXc?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-11-18T22:08:55+00:00"
+    },
     {
       "t": "동결했던 10월 美연준, 추가 인상 필요 판단…2명은 '빅스텝' 시사",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZl9lanVWOTcyeWQyT1lvZ0VmNzM1RnRmWmhTQ0pYTTdLZWVYekluM2t2TTJoMEdJMUN1RnA5LU1aUVRZTTBKeXR3Y1BrbEdiRG5yUUdkR09oYWRKejNCZlJhaG92NzA?oc=5",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9INDZ2enpGTEZuMXdfX3F2MUV1UXY2dFVoWmY4TWdXbTlLTkZmU2hkYlJFTlAzdktUVDZoRDAycS1vLU1aVnRnR0FjcHJaZjQyaThlUGhZZDluU3dX?oc=5",
       "s": "뉴스핌",
       "d": "2026-11-18T22:00:00+00:00"
-    },
-    {
-      "t": "[中 거인의 공급망] ①반도체 화학품 강자 '정서전자재료' 없으면 'YMTC'도 없다",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rN1I2RVhreC1VVXMtMTZyRjVUV0hNS2wwNWh1T283bDQ3THplc1hUSzdZNGRWV190aU1FbjdGLVVfLXc1OVBsUXYwQTQzcENZZmZmLXBJOXJNWlZo?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-18T22:00:00+00:00"
-    },
-    {
-      "t": "[지명훈 칼럼] AI 반도체 전쟁의 행운·비전·정치",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zX2lsX0VmZDF3TkNWa0phcmFsdmVGWlVpbHV3WTRGOGRBcU9ONndHeVFwbUpSQS12T2w1LXJiSWpBeUdCbTdmWWVtUThiX2pGTXlnVTg0QU5Zb29EQlZvTFd2ZG1KLTlyR2lNV1dQZ9IBc0FVX3lxTE5FOEpWT3VQY1VkWlJnM3JobmRkZGdqYlRSRDVGR2F5bXF6WTJiaHhtWXFwVVRWbTNhcXpVajl2djlfTG5tUjdveE9pZ1dEcHV6a0JzTzdTcjg5anFVaU1fODQ5cTNKU2JraWphNFJiZHhaYzg?oc=5",
-      "s": "대전일보",
-      "d": "2026-11-18T22:00:00+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 엔비디아 호실적 '역부족', 나스닥만 반등 ···앤트로픽 공모가 83달러",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WYW1vem05b1ljNnREdS1Lc3ZHN1YwLTdEakVUVmZUeUw0V0Y5XzU0aXpHcFpTTDFCcU1YalJqUGpkQkpvLXE3c2EyLTlwVU9vRjBIbkc5NmFuWmJ1S09jWnNFcXUydjQ1M3c?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-11-18T21:59:29+00:00"
-    },
-    {
-      "t": "영국 정부, 한국산 열연강판 반덤핑 관세 확정…현대제철 7.04%·포스코 12.19%",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkh4SExobEpId1lvNFlGOWNYclZocnl3SWVrWGVEM2thcVJNSm5zN192WTMtM3dTb3l1OS1GMjNaX3M0MlJGWklCTzdWNzZZdE1fVDhmVXRPQkxkZ0dTR3plNThMcHZSX01GblFORi1BNGZKWXY0QUxnVWFqRTd0OGlhUWJiYkxr?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-18T21:58:06+00:00"
-    },
-    {
-      "t": "[뉴욕증시] 엔비디아 실적도 못 살렸다…혼조 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVXdCa2ZJM1NaNFVtUkdWWUFhak9TUDMySzBDeTJMVFdpT21NcjNJcXpubXAyTWwxdVRZZmhRZl9mcUR4WkxkTEpTWW9oajBvbzlGckZvN21ydmhpM0NuQ085M2R5SDZoTndpZkZ5cC0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-18T21:57:36+00:00"
     }
   ],
   "asof": {},
