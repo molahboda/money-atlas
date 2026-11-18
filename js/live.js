@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T23:00:07+00:00",
-  "quotesAt": "2026-11-18T23:00:07+00:00",
-  "newsAt": "2026-11-18T23:00:07+00:00",
+  "fetchedAt": "2026-11-18T23:15:07+00:00",
+  "quotesAt": "2026-11-18T23:15:07+00:00",
+  "newsAt": "2026-11-18T23:15:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7303.98,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[신윤우의 외환분석] 수능날 어떤 '선물' 받을까",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ILXA5MFhMRF9oSnU4dDA4VnV6WjJkTDMyYXc5V1I5TUs2ZFlaSXhWMzBLc29va21YV1RDVEdJRTdsQ0NoM1VBNkc5NGRJbXRURDVrNDJaRnlmY19hcElkYl9NOVZ1RmpPS2g4V0hONlYtUQ?oc=5",
+      "t": "달러-원 TWAP 산출방식 발표 임박…당국·외환시장 준비 '착착'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDSmVtQ1VSTUZvcmpWQXBKRlJKUElPVE82M1RnUUYyTEwzV0owNXdoYllrbi1JMUtSc0FqWGd4UXU1WVVCQTZwUFJ5TEhlWVNCWWowazJUOWVDcG56eGl5Q3phZ2tvaWJValA2azVOekZOQQ?oc=5",
       "s": "KB Think",
-      "d": "2026-11-18T22:51:41+00:00"
+      "d": "2026-11-18T23:08:45+00:00"
     },
     {
-      "t": "“실적 좋아도 소용없네”…엔비디아 급락에 연준 금리 인상론도 ‘고개’, 뉴욕증시 혼조 [투자360]",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Rd3ZYaXNDVlRFbjNKdVVUS1RuRnRnX3ItVWZNcGlvMWthQVoxUldLNTJGZnNvSW9HejJlYUxDU1Y0anlDWkxJcjk0UjJrdjN6aVpXNVdB?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-11-18T22:47:38+00:00"
-    },
-    {
-      "t": "뉴욕증시, 엔비디아 호실적에도 혼조…다우 561포인트 급락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZ01jbDRiUlotSzNhdDdpU3NtVll1SlNyakJCMDh6WExnaDhtdjZ6RWxNSU9Wa2pQWmNWNjZXczE3bnpIak5wNlF2RFVqWVhuR0ZsVkNIR0YzRUN0X3lPRjVHYTAwQUF1WWRNTEx2ZWrSAXRBVV95cUxOS0I3WGVkbDVPS3U2V2VCRE45WEFrWDc5azk2SENNNnNVRDQ4ZVdqQ1dtSGFsMkJzN1dlLWJjNjh6bER3c1pQQlduSU1LX0lyQVB1dUNLSjdiaUk3eVZXQjhxTHk2UkZxbGFCcGk4X05ZZFFicg?oc=5",
-      "s": "산경투데이",
-      "d": "2026-11-18T22:47:26+00:00"
-    },
-    {
-      "t": "美 관세 지속·EU 환경규제 본격화…코트라, 수출기업 실무 전략 지원",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92czM4SXlGMEg5RWduTnRBRzF3ZW1ZM0VJUjB1OXF1dWxWMnJYdXBZbGRMZGRtYmxIaVdpeGxwMDZXUUxIcVZsTkJ3c0txc1Jzd0hVUW1rVFNJd1lMTktHUkJB?oc=5",
+      "t": "[굿모닝 증시]엔비디아 약세…코스피 하락 출발 전망",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zT3pMQlAwQ2hYOEhsU0ZkT3NWTmh5X25HVTZFWGlwXzJOeGNoYndUTHlGbDNmVDdhWFF2aW9GY0hyUnhaSDhlNEdNbEN3ZUVDcE1IdEt1SlRLeHFBQW9EcDRR?oc=5",
       "s": "아시아경제",
-      "d": "2026-11-18T22:46:00+00:00"
+      "d": "2026-11-18T23:07:00+00:00"
     },
     {
-      "t": "美연준, 12월 금리인상 사실상 예고…‘빅스텝’ 가능성도 열어뒀다",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdmI2ZUFZWGJfejRQNWRKY2pITTl0VHdzTzNUMkFLT1FmVEthV090SHZITXJnMFNnRTFlUDMxQWlsR1NBZUtOeDJQTk9vLTBrRmZwd0dB?oc=5",
-      "s": "헤럴드경제",
-      "d": "2026-11-18T22:44:56+00:00"
+      "t": "“한번에 50bp 올리자” 월러 연준 이사 발언이 미친 역설적 효과",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYWxsaUlVQ3gzUDcwZlRTclBhOTM2QlRqZDVxOFBZTG5NaXplX2JQQ00wbFZ4M1FlSkZzYWpuazZOWE1UdXlqeWtlTFFfcC0yVnpYR05R?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-18T23:05:52+00:00"
     },
     {
-      "t": "美 연준 카시카리 \"통화정책으로 AI 투자 조절할 수 있어\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5VC1PTXkxSFV1cUtBLXVDdF90OUVkZmxfWnRWZFdxQTdGZk9LQ0U1akNIUlBTVEEydGswNHR4WF9nRFo1YmF3bTdlN3E3Z1E4VFV2MXlSVDgyZmJkZndvbDgyT0hVUVdHT1pfelpHZlZOdw?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-18T22:43:05+00:00"
+      "t": "엔비디아 5거래일째 하락…AI 투자 경계에 반도체주 희비",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDNHZTSFJ0ZFlDV25RUGxtTnk4MkdER05tOG9hSjl3Ull4Uy1zejNfN0ZKQ3o5UXVNTU5Qal9odlN0bGh1cGdvYkt1Yi1leWh0cUt3Vlh1Ulg3dm5lYzllRy1SX3NEb2ZSVUoxWlloZEQ2NEE?oc=5",
+      "s": "마켓인",
+      "d": "2026-11-18T23:04:22+00:00"
     },
     {
-      "t": "미 연준 의사록, 12월 큰 폭 인상론…월러는 '빅스텝'에 무게",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XakVBbUxVN2ZqOWF6ZElrZFNlR1I2NFpzQWZFd3hqSmNkU3UxUGFrbEhIQ3cxeVpreTBaUmdvaldjUUhDVTZMeWcyN3Y4Wm1GZzgyelo2SE9BcVdBVzhtWG1lVExaU3JCeU5SeXFYdFE?oc=5",
-      "s": "비즈중앙",
-      "d": "2026-11-18T22:42:44+00:00"
+      "t": "원·달러 환율, 1333.7원…달러, 10월 FOMC 매파적 의사록에 강세",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUC1DMDBWSmZDU1k0TjA5Ymt4bnZVUGpDc2FKQzhnZnF6UmJ0MV9nQ2t3MkRKaDhCSTVNNWZLVzJEMUZDcTlSTERVeDI4Ny1KeXNuNGJJS2ZmcjFjclNkY0wyT3BpN18teG5VcU95Nk1OYmps?oc=5",
+      "s": "조세일보",
+      "d": "2026-11-18T23:03:55+00:00"
     },
     {
-      "t": "제약·바이오 수급, 코스피부터 회복…코스닥은 성과 입증 필요",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sM1RreG42Z0VBdmhoMU9ONWVSdHhSX3ZSX0hlZW1aVmp6a19sVzF6d1ZfdWRQcjhjZER0dUMzeUxmWDh5R2RqUHEtMTB6eFZaSElYb0Q1MHNEQjBiYTB0RzBRUEVmcEVvVk1XLXZQZThBdw?oc=5",
-      "s": "메디코파마",
-      "d": "2026-11-18T22:41:59+00:00"
+      "t": "10월 FOMC서 일부 위원들 '빅스텝' 거론",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NRHRBUldqRTdJM2hLbEd2OUliWDlvWEF1MlNScFM2ajhLS3NkdFBFN2x3eE5STVJLbkNHaFY4M3VkTnNDLUtXY0J1S19pSWt3OXlvZGtWZ3g0TmlLckV1bG1lNHJFV2ZtcVJrWlVHaHNIZw?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-11-18T23:03:54+00:00"
     },
     {
-      "t": "Fed, 추가 금리 인상에 공감대…12월 '빅스텝' 가능성도 논의해",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMlNEbmRjY2VWLW1LWGJfcldEZUNwb2dIaGxlMm1vTHAyYkhOYWg2RXBLLV9ZZEhDZWhWd3o4SklYS1dHRS1uQldmNGYwVW1pR3kwNlpHM1pVb25tTXpMZg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-18T22:41:50+00:00"
-    },
-    {
-      "t": "미중러 정상회담, 앤트로픽 상장…코스피 5000선 시험대 [오늘 아침 당신이 알아야 할 7가지]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTDRuRUFJMTJocDQ1UWdwcWJuaE1nT1NWaGZfcXhQS2t5X0UwZmJ4SjBFQkZOZXM1cFg5QzZPNkF6bjZYOVZTbjRDVHFsWWFoUGtHQmFqRTBjUQ?oc=5",
+      "t": "오늘 9시엔 주식 못 산다…수능에 증시 10시 개장",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMWpKOTI3bV9CazJvRWdMT2M5MXRJVUw0NFBBQ0hoSkhTU1pVN05MdjNCckN0VG1IZ3JRaGh2aVlMbmw4QWdCYVdWTnpEVTEzZWhxR0ZxZ0d6QQ?oc=5",
       "s": "한국경제",
-      "d": "2026-11-18T22:41:31+00:00"
+      "d": "2026-11-18T23:03:21+00:00"
+    },
+    {
+      "t": "[AI MY 증시전망] 美 반도체 약세에 코스피 하락 출발…반발 매수 주목",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85cGVqd0w3MEp4amlpeC1Ib29vREVTek91OU5XUlp4TmM5U0lJcFpGUThybTFTRnE1V1ZNUjlXWU1heGg2NDBDblgxMDVnTHEyVE9lNzY2THZSdkNq?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-18T23:03:00+00:00"
+    },
+    {
+      "t": "[뉴욕증시] 엔비디아 호실적에도 금리 인상 우려 '찬물'…다우 1.11%↓·나스닥 0.42%↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcndiZEN2Vk8zSnJLXzIxSzI5c2VtdTJfZWg0Z2hqalF1NVEwZTk5UjFNeFZsUDNFTlBGM3I0aEprY1NMQTA2Y3dJdTU0Y29vUHJpRl9TYmtSNU0xekxQcTE1OWpDcTFTb3BhZ3JaVXk?oc=5",
+      "s": "신아일보",
+      "d": "2026-11-18T23:02:39+00:00"
+    },
+    {
+      "t": "폴 트리올로 DGA ASG 파트너 \"美 매치법, 반도체 업계 큰 파장 몰고 올 것\"",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ub1plQU9iX1BlTmlaTkQwZEZiUjEzb0xtcmRibXRFQ0lVZWQtRHdUNGZWVzBLS2prSDlTOTNrY01NeHpSTWNEaFZhTFpuaGExMzFiZENlQVFidw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-18T23:00:05+00:00"
     }
   ],
   "asof": {},
