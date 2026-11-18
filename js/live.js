@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T21:30:07+00:00",
-  "quotesAt": "2026-11-18T21:30:07+00:00",
-  "newsAt": "2026-11-18T21:30:07+00:00",
+  "fetchedAt": "2026-11-18T21:45:07+00:00",
+  "quotesAt": "2026-11-18T21:45:07+00:00",
+  "newsAt": "2026-11-18T21:45:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7303.98,
@@ -25,16 +25,40 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[뉴욕증시] 엔비디아 호실적 약발 안 먹혔다...다우 561P 급락",
-      "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzl3SG9lOEtaRW9hMEJnVjJ0SHhTNjRkSXE4MkdyUUYzVzFMcDFNbC1vUjk2b2NJc1Y5WlZFN2NVYlFYWTNzX2tYQnJ2MVFTTndHQlZKb1pfZE5teUlKcFlwT0c2M3dlakZNUWh2dlZoTGVKNGNMcnI5TzQ5cXRBQ1RPb1JaV1k?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-18T21:26:30+00:00"
+      "t": "뉴욕증시, 금리 인상 경계 속 혼조…다우 1.11%↓·엔비디아 3%↓",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMmFSblk5b202VUFMWkVkQ09fRWxRNkhaX3dpcnJnY1lzcmhsMFM2MFlnWVdwZTVhUUR2a0hreHJvSXd0T3gwcU90V2ZQUGZP?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-18T21:36:50+00:00"
+    },
+    {
+      "t": "[N2 모닝 경제 브리핑-11월 18일] 美 증시, 엔비디아 호실적에도 ‘찬바람’…나스닥만 반등",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MREFhYkFoeU1aSEJOYzNWZVpMbnhjekVqbFMyNUUtbGxWNThRc0tyRE5VMk5NOW5Wd1dpNVJjeHJGSjROWnBxeWlHQk9aUDgtc2tpNk9KbU44NEJfaFE?oc=5",
+      "s": "뉴스투데이",
+      "d": "2026-11-18T21:32:36+00:00"
+    },
+    {
+      "t": "해외서 돈 벌어도 순이익은 ‘뚝’…환율 급락에 소비재 기업 ‘울상’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbWFYT3lYQUlGbm1BQllXTzJOb2lRejBaZ0U4ejdvdDNxT2ktdGJUazdraUJiWFoyR2hRaXRPbUJHM2E2TFBWelFmS19JZFhuckHSAVNBVV95cUxOOVJWM0Z0dWdZTW1uMk9xQXpiQy15YUpjVnBBejlOQmExWXE5Ql9fa0JCQUQtVzhlY0EyVUpDNmZsZ1dMNldLMzZXU28yNlhtMS1DUQ?oc=5",
+      "s": "서울경제",
+      "d": "2026-11-18T21:30:00+00:00"
+    },
+    {
+      "t": "가계빚 2030조, 주담대 금리 14년래 최고…취약차주 내년 상반기 고비",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xYTJseEVvQmtPUEJaaEVaZ1pMcjNUb0NIdVJDSERFUzd6UlJ3WjlDRnhyODZ2aUJVcUwyeHljRDZfUXE0ZnFRX0RSTWcwSmJkX0JpdQ?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-18T21:20:00+00:00"
     },
     {
       "t": "뉴욕증시, 연준 매파 기조에 혼조 마감…다우 1.11%↓",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hVU9RSEg1TXVtOXdPcE1ESzBNMkpLWjNuYTYyNjhiVUdHZl9OY3Q5NTBWWEtESXV2WGp3dUZ1SHRMMERPc3RaRlpRUGFnWkJLWXU0VGhmVlZKV193?oc=5",
       "s": "뉴스핌",
       "d": "2026-11-18T21:19:00+00:00"
+    },
+    {
+      "t": "\"충격 줘야 할지도\"‥미 연준 또 '빅스텝' 언급",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11TTFCR0RHSzNJbmtpNUo1Z25Ed0hwSGZUeGFGUGVUbEZ2ZDM2azdkczRzZ0RIRktaQV9YVERJckV6VV9iY3BvQ1NjaUtXeDI3S1doRWZlOERNNUJuN2JnY09CUWtoTl9OaGpQaTR0S21vemhpZzczOVVn0gF6QVVfeXFMT0hOMzlwOWlkY24xMnk0WjAzQ3FpbWM0V3pER2QwY3BjVjNpSzNyREdqMUg0eTZFSjFFTG9HZjl4bGVkNWlhdzJFLThGOVZMZ09ST1JPc3pTS21yWkxpVjk4dVRWYllFZmlDaHVxVkt1bG5pRmlnUnE2Mmc?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-18T21:15:53+00:00"
     },
     {
       "t": "[뉴욕증시-1보] 엔비디아 실적도 못 살렸다…혼조 마감",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zZmczQjhTdW52VE03SjVaMFM4cjhMUHE2QkxYVlRuM09HYlJDUV84MkxJSElHTEdqVVJyU1QtS1JFT2RKTHBMQy16TThIVDJCaTZLaG9rMWNOemNPOVdzMw?oc=5",
       "s": "아시아경제",
       "d": "2026-11-18T21:10:00+00:00"
-    },
-    {
-      "t": "美 연준, 추가 금리 인상에 폭넓은 공감대…빅스텝도 거론",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPengtamU0TXducmRkLWNnRFV3amFRM0VETWllYlpXSGFOQ2lLVE1Cem1pYlFSVDFsMTAtQWUwbmdwbVJWUVlaYXF1S1hleHBqelVuc0wteTZHSS0xdllPQzcxbG96c3dIazUyU2tEZ2ZWYnlkaUFVckVmMkRlSjNmZTd1X0hleVZ3?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-18T21:08:50+00:00"
-    },
-    {
-      "t": "“인도가 부러운 날이 올줄이야”…ETF 한달 수익률 12% 넘겼다는데",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhcm9HcTRZVV9RNXR5R2hOUUFMaTNmMkQyTjMxUlJRclZkYXBhNmRfWWNJSjFCdmZPR1lPcktQcjVzOVFZV1Bsak5ROURITVhiM1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-18T21:07:26+00:00"
-    },
-    {
-      "t": "장사 잘했는데 남는 돈이 없다…환율에 당한 상장사, 절반이 3분기 순손실",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WWFjb3RSUklfSWdFbFE4MWpTQzVxT2JjaW1Hc2JjY1lna0xmRjJfejBrdGdmOGpMOXpla2lZckdGV2hHOGthN0J0U1lfR0xXQlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-18T21:07:04+00:00"
-    },
-    {
-      "t": "충북도, 네덜란드서 광반도체·반도체 장비 기업 투자유치 활동 전개",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMmVYYkdFczl4aTJGTnJHOWo2aGtUa01oeXBzcTdqTWFuX0hEeWo5OU1ESk1PSkR0dDlWTFE5LThNYkVXSDhOTWxUb0Q4Rko2NzlFNkFFX09Ba19zbjVWV1hGRGJiYjhKNWtEVg?oc=5",
-      "s": "메가충청뉴스",
-      "d": "2026-11-18T21:06:10+00:00"
     }
   ],
   "asof": {},
