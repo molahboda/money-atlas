@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T21:00:07+00:00",
-  "quotesAt": "2026-11-18T21:00:07+00:00",
-  "newsAt": "2026-11-18T21:00:07+00:00",
+  "fetchedAt": "2026-11-18T21:15:07+00:00",
+  "quotesAt": "2026-11-18T21:15:07+00:00",
+  "newsAt": "2026-11-18T21:15:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7303.98,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "美연준 월러, \"12월 0.5%p 인상\" 또 군불…빅스텝 이견 확대 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUWVGVWpxeVRxR1JJVExwbng3OFBHTXpZaWdnY3VOT2loTWt0LVYxMlF4dmlITFQwU3YwQ1V4RHJQRjdrUmlJSVQtNC15SzdSLV96Mkw0TUdzUHB6bzZvRHJHd2Z5SU9W0gFuQVVfeXFMTXh5ZnpnMTVZR2xkMkdvNUlsNlEwSDBxM04yamw5YjBTOEo0UFh6d29XYTJQZW1VZHRhQTRKSW5YQzBaYkZfOTZ2alhjb3Z5aGJGZmVRbm0yd2NNdF9jYkNsOVFlSWlFWndza25MRmc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-18T20:56:01+00:00"
-    },
-    {
-      "t": "[금/유가] 매파 연준에 금값 3% 급락…美 재고 급증에 유가도 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHNUttaVhRQ2dLSG1fTDJGNENtNzNEV2ctQXpwSkI5eUhDRzdxU0VDTktHYVlMbTJ5RkJXYnc2M2FxQjAxOGU1TGI5MFRRYXJMSlBrNHNHMm9jeDZm?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-18T20:31:00+00:00"
-    },
-    {
-      "t": "미 20년물 국채 입찰 금리 5.459%…수요 견조",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BaUtXakQ0X1d1ajN3S0kzZFpOTjhQaGVWdkVjelNzYmZ6dGNueFgyWjZRdE1oWUs2aVE2MGpVUEFXMjZKX2paaGRsd2xzcVQ4?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-18T20:30:38+00:00"
-    },
-    {
-      "t": "월러 연준 이사 \"인플레 잡으려면 충격 줘야…12월 0.5%P 인상 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1POUc2azRhbXhqdUlQU3BGOHZ0cE9iYmFWQ1NLVk1hS3VhRFlUdXliRVdXc3VvcW5VYXlWcU1OQU9DV1BpeGJwaXFfa3BKbE9QTWdvbU1uc0U?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-18T20:28:43+00:00"
-    },
-    {
-      "t": "[뉴욕유가] 美 원유 재고 예상 상회에 WTI 3.2% 급락…3개월來 최저",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE04ek9yUTZmdTNvM0RodjNuV3NCQno5NDZ2TWNLZ2FWRXI5d1daYTF0YWZSVkhONzV5S2MwMG5aLTlpX05HN05rcV9aUzZkQ3lhOWN3RGhmOE15czU2S0F5Y0dCLTBFSzBOcE5pVDJiOXZSUQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-18T20:21:24+00:00"
-    },
-    {
-      "t": "[월가 레이더] 엔비디아 호실적에도 2.8% 하락…연준 긴축 경계에 다우 555포인트 급락",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51RWpRRUd5d1o1ZjBYc2VZa0tEbVBiRThlUG9tVW9CUHRHWGdfMXNtRFNfMXZybGtBNHlTbzgzUXp6cTBibHlMUmZnc095dmhabkFnb05xSkk0TzlPeGc?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-11-18T20:17:39+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 연준 긴축 우려·강달러에 3% 급락…3,800달러 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOR3JsbC1jZU9LSEI5SXFWd1VYMnhyLXlEaFlXdUpGYmRGaE5oMDBGUmJSUEo5Ynh4OUpoWmRwT3BRR3F3Tm1PaXRhdzVNeFY5NmlDLVYtNklfUWJDTHYzcl9IeTVjWFZpUEd5THh4aHE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-18T20:01:10+00:00"
-    },
-    {
-      "t": "장기 고정금리 주담대 확대 나선 금융당국… 높은 금리에 수요는 '미지수'",
-      "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXRxRThCWVc0UHpmemxOa193VjNHcjU1VnhvU3p0OXhncmZUeURFTjNwa2ExN0lUNGg3S09YanpuclJKUWhjcE9FNmpOOUhIbTNsRTA0TGJ4YUhnR015WHB4TUNwdTlETFRud05ZNGlfdHktMm9IaEdpdlpJQ01IUEN1UQ?oc=5",
+      "t": "美 연준, 추가 금리 인상에 폭넓은 공감대…빅스텝도 거론",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPengtamU0TXducmRkLWNnRFV3amFRM0VETWllYlpXSGFOQ2lLVE1Cem1pYlFSVDFsMTAtQWUwbmdwbVJWUVlaYXF1S1hleHBqelVuc0wteTZHSS0xdllPQzcxbG96c3dIazUyU2tEZ2ZWYnlkaUFVckVmMkRlSjNmZTd1X0hleVZ3?oc=5",
       "s": "글로벌이코노믹",
-      "d": "2026-11-18T20:00:00+00:00"
+      "d": "2026-11-18T21:08:50+00:00"
     },
     {
-      "t": "美 연준, 추가 금리인상 예고…AI 투자 과열에도 경고",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubmduMTl0RWhodWdmNmNuSy1mYWJNQXphTkl4MFZyb1YwTXI4OWhya280UldmcXlRVE9IMm1PRTYzZ1ItZm9pREhwcnlud0I4N1dfUXNYTEtJdw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-11-18T19:45:16+00:00"
+      "t": "“인도가 부러운 날이 올줄이야”…ETF 한달 수익률 12% 넘겼다는데",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhcm9HcTRZVV9RNXR5R2hOUUFMaTNmMkQyTjMxUlJRclZkYXBhNmRfWWNJSjFCdmZPR1lPcktQcjVzOVFZV1Bsak5ROURITVhiM1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-18T21:07:26+00:00"
     },
     {
-      "t": "엔비디아 '깜짝 실적'에도 글로벌 AI 시장 긴장…미·중 반도체 갈등 변수",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wbzRiSjJZVm1GWTF0RVFBQTZEUDllN2RUWUdpMGZNY2VRRS1uWldzUl9VbmZLYjBUV0RLNVc3MV92ZjVENGVXcmZNelhYNzNWNWFfckh0ZDUwaWNZRnB4QTFXLWFCUnM?oc=5",
-      "s": "지이코노미",
-      "d": "2026-11-18T19:43:44+00:00"
+      "t": "장사 잘했는데 남는 돈이 없다…환율에 당한 상장사, 절반이 3분기 순손실",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WWFjb3RSUklfSWdFbFE4MWpTQzVxT2JjaW1Hc2JjY1lna0xmRjJfejBrdGdmOGpMOXpla2lZckdGV2hHOGthN0J0U1lfR0xXQlE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-18T21:07:04+00:00"
+    },
+    {
+      "t": "\"AI 규제의 진짜 변수는 연방법 아닌 주정부… 미국 투자 늦어지면 한국 메모리까지 여파\"",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXpYbmNMX1B4RWpiUFBhOUpjWHNNM0xWbTdfUkt6RnE4ODJ5UWxHQzRIYzFjb2xDWDRwV3FBN0ZLZXllNkRoX2NmOHZEd1RlTEprMGNLbFRNY20ydUZIZzJraWJ5U2FJd3hHX0JaRGE1ckNIUjBCQnVDTjdTYVhTZzUwQXktT2FqYm1J?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-18T21:04:22+00:00"
+    },
+    {
+      "t": "코스피 낙폭 역대 3위…바닥론 솔솔 \"12개월 뒤 평균 60% 상승\"",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIU0FiRmdILUx4VWhmRTUxSTZzYXVIbmQ2bF9RRzFBbmlqVy01Z2I5ekFDbVRkT2dqRC11ZXhNWlBnNHhjazlhMlV3RkVnX0tRVnExMU1Ka1BPblJhRkww?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-18T21:01:00+00:00"
+    },
+    {
+      "t": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk8xLWxVTWRhTzduUWJRSzdGbmphMXVpbVdxYWV0X1g5NGVNNGZlQlQ3dGgwLXV0ek9OcldRTnE0dWc5bXRxaVBWc20zZ1JVc1E1T29KUEhPd2FOQjMtdnljUVlkV1ptNFJqR0dDS3Q?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "t": "AI 증시 한파에 명품주 일제히 급락…미국 부유층 소비 심리 직격탄",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRXlseF9Temd0MkJnX1JCaUVMc2JRNjJpX1F4Z3VwNHNMdlFZdTE0UWVxLXN1RWFUa2ZZVnQxc3E5SWRTdmVPcE1JNFZGbHJ2d3h6LXBQWFJDZmZmLVVnbTBaMXVoNXBxRGNCY3Iwc0NpLTA2OXhUYU1Zd3BSbFlGMG0yZ0NNdUMt?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "t": "양극화도, 월급도, 증시도…경제현안마다 TF 꾸리는 정부",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHFzd3djZkE5ZWIxWlc1ZFpYeVZrQy1JcjAtWVFrbUIycjRZemM2eHFINnhSVWZaeVM0NE1DcGJMZ1BJRWFPZmxlSzY1MG5PS3lNRjUtbldGZm9pOHJiNVB0b3EwT3poOFVSWEpLTjB5ZnBLRVZGcUJZTjVzVC1xbGE5V3ZaRUcyQl8yejlCZkgwcGhxeXFVanFRVTJoN0hUcGM2cGdTVk04Z9IBX0FVX3lxTE9KcEFmYmMtZFRUcF9TWUNuZlNvSnFGYmR0X3NXLXNQQnhtTEd5aFZYeWNwZE9xek9BQkpHY2taQ29Ca1N0aEtBUkprV0RVSDFEVWRmU0VKcFdyc0lBbm5n?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "t": "[기획] 반도체는 역대급 호황인데…석유화학 적자·철강 저수익, 제조업 양극화의 실체",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSLXIzXy11b3dPa19kc1pvejEtWlM2VXFnWGZQOTQ4LXVLemJ5cFZKbkJObHpreE9Td0NIU3Jyam90dC1yMXZzRVFPZU8ycjEyYVlqQjg0NGg1OUFWQ1JoQTQ1NWTSAWhBVV95cUxQNW5wd0FtOE8xdGZxdWhqY2phdzNoMnBKQVNRV2VmT3I3N1JlWl8wU3FrS2Y4THhjVVhFTGF0R0JUNmZHcGtoYzM3WjgzMHNhYVFpX3lkSm02QkdHZFYwU25nTkQ5dndUMQ?oc=5",
+      "s": "경인방송 뉴스",
+      "d": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "t": "초유의 '미·중·러 정상회담'…코스피엔 약일까, 독일까",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00VDB3R2hpMDZ0Rlc0UVRGUTQxbl82TnRPckc2cHgtenR2RGpIeWc5b19Va3hnbVR2dnYtVm8wVWNIM3AxWTRya1c4R20tVnQ3ZVVzNUZoNy1Bay14WW1ERtIBeEFVX3lxTFA1WmUzbEs1Q3FkcjdzX2RZVUJ6RVlLd2ViMDZwTFBWR3V0b0tVM20zWHkwQy1EeFNaSXZUVWVfYUUtSXdoelVVTGliVEhmSm1mOWg1b3dDampiTDM1WkZlVEx3QmNXUnNTRlNYT1NvYXdXUHNidDM0Nw?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-18T21:00:00+00:00"
     }
   ],
   "asof": {},
