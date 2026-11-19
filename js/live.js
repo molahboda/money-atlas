@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T08:30:07+00:00",
-  "quotesAt": "2026-11-19T08:30:07+00:00",
-  "newsAt": "2026-11-19T08:30:07+00:00",
+  "fetchedAt": "2026-11-19T08:45:07+00:00",
+  "quotesAt": "2026-11-19T08:45:07+00:00",
+  "newsAt": "2026-11-19T08:45:07+00:00",
   "quotes": {
     "kospi": 5137.89,
     "spx": 7323.63,
     "nikkei": 59444.21,
-    "vix": 22.06,
-    "krw": 1330.25,
-    "gold": 3738.4,
-    "wti": 82.23,
-    "dxy": 103.77
+    "vix": 21.97,
+    "krw": 1330.27,
+    "gold": 3735.8,
+    "wti": 82.35,
+    "dxy": 103.75
   },
   "daily": {
     "spx": -1.25,
     "kospi": 3.41,
     "nikkei": 0.71,
     "krw": -0.21,
-    "dxy": -0.08,
-    "gold": -0.09,
-    "wti": -1.24,
-    "vix": -10.18
+    "dxy": -0.11,
+    "gold": -0.16,
+    "wti": -1.09,
+    "vix": -10.55
   },
   "news": [
+    {
+      "t": "\"반도체 혼자 잘나가선 안 된다\"…하닉이 꺼낸 '비장의 카드'",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX2FMR2J5Z0FydUFQSnlpVDFjTmZ1VmkzYXg2WVZwOUV0RXlWQXB4NUlLQmY1Smp4Y19WdlRTcTJ4eXJpZUFxYzhvYk5GMVNmN3QyNHhJeGdOZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-19T08:35:42+00:00"
+    },
+    {
+      "t": "코스피, 장중 급락 딛고 5100선 회복하며 상승 마감…코스닥 3%대 급등",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QNjNwb1lHLVJ1dUhET0EtU3pWRG5yV0ZmVG16ZHVOUjdYQjRLcXdFM1VVa3YwSWN3a2RvTGduR0YwX0haM05UNUlMVW16UUp3RTNYeUVMN2NndkxLMlVVOG5GdC1reVl1?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-11-19T08:35:18+00:00"
+    },
+    {
+      "t": "[마감시황] 코스피, 장중 5000선 붕괴 딛고 1.39% 반등…5100선 회복",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XbVlXMjlVN3JoRGxTRWhXakoxYkZGamtSY2VfZm9obHNpVmdlYXZHZUFRLXZxOGZwVkg4blVPbWFTWHk2cUpfaW8yS0Zoc2ZuRzJqMWwzUy00ZTNBUlF3emJ6OHhFcHhLWjlLYmstZzM2QQ?oc=5",
+      "s": "한양경제",
+      "d": "2026-11-19T08:30:56+00:00"
+    },
+    {
+      "t": "씨티 \"하반기 가계 주식손실 563조…금리 50~75bp 인상과 비슷한 부정적 여파\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QS3VNSUJUUzVNQkhLdmFCOWlZOWMxUkZ0U1hjeUxKZV9xYUhia2JxbV9hdzNab2ppcW9jWWswRlFqMTlXSm1NbjBWcE9OcVcxNUZLTUZna2k3N0NrcERhWjE3d3dRX1U1LU1tQ09rYzNJZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-19T08:29:57+00:00"
+    },
+    {
+      "t": "코스피, 수출 1조달러·한한령 완화 기대에 1.4% 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yal9uT015R0JGbmJYS3EzWVRvaGFuWlhxZUUzellRWEdDY3JFWmkzck9xcHpYejdWU1pHcTV3V0JFWTlwR0JCVFBPbHFxTXBVTGlDbkJOSU9fcl82OC02ak04TUs?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-19T08:28:51+00:00"
+    },
     {
       "t": "같은 퇴직연금인데 대기업에만 높은 금리…금감원 \"차별 영업 근절\"",
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSmVMVTQydHBCNXlTeXprNzRLVHJoRy1HSmVGclBVeld6QmhSd3NQR09hVkY2VDVzSHkxMWpVOHJGaXRTbmJ5eGhoaFZ5WTJyZXBmWk9uOFdFV0V4SG5Zek9sdjJvSDNFOFU4?oc=5",
       "s": "비즈워치",
       "d": "2026-11-19T08:25:02+00:00"
+    },
+    {
+      "t": "평택시, 독일 드레스덴시와 반도체 산업 협력방안 논의",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaVc3aHNDTDVrMTRzZTA1Vy1EUEJVYlVadzRUWGh6UDhURWhXczRyTU1ReGRIZmQ5MFFJN25SdG9lc2piZ2dxSW1FRFhWeGJmSlV0eWxFeWJtb2fSAWBBVV95cUxNTEkxRWxHR3NKb2w3S2NtWE9rRVpBR251M1ltckU1T1EwVjhZTXlIdlROaEE1UkdVcDE3UHdmY2NvMWtBaldpMVFYa01pVXFXSzBsdVlyRkZ5aTZvTXlxM3E?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T08:24:35+00:00"
     },
     {
       "t": "평택시, 독일 드레스덴시와 반도체 기업 교류·공급망 협력 논의",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jRzcyLVBwNkNaS2doc3BIUkwtSGk2WDRhUFdYd01VR1NhT2UyRHFFYnZaaGxraWtqVTluUWM5NFZIQUFfUHBoU3lmSnBUbE5NM2RvTVI3RjdZUDZlVTJVeklWUnp4MVJ2V2hEZA?oc=5",
       "s": "굿모닝경제",
       "d": "2026-11-19T08:19:02+00:00"
-    },
-    {
-      "t": "[오늘의증시] 中 빗장 열리나…'한한령 해제' 기대감에 국내 증시 '활짝'",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OeHhLRzRCX0NPazRYM1dfLWc1WXFxRGEwS0t6T2s0ZjJmT3BMbmxSMjZfVk16cS1ZV2N4dkN4Z1ZNMHhCa1E3SlhUcTJaMzRtQUhETlVjOHJkVzdVck1iUnRR?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-11-19T08:19:00+00:00"
-    },
-    {
-      "t": "앤트로픽 오늘밤 나스닥 입성…증시 짓누르던 수급불안 완화될까(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KSDVwUXk3dldLU0d0TUJIcmVYQmdUNWJCX2dsWFV3UGFvWjBtYUlnVTJlODUwVlJGOGJLVlJiN1lpUUZTUV92R25jYUZZd0JSZGdZamQtQnh1UEHSAWBBVV95cUxQOVBLakpzbnhzMHJ0eGlwTzF3WG9vRkVaS2RzdE5hYkF2a1NVTzF5d2dPdTR5a1pIcXU4VEhOdGg4SnNVYzEtN1pIMzdDSEx5WmQ3TmdKLVJOenlsUzFqUU4?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-19T08:12:31+00:00"
-    },
-    {
-      "t": "\"AI 희망 보인다\"에 기술주 선방, 코스피·코스닥 장 초반 부진 털고 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybWM4elRWZmsxMXFCTlZEZzcwTWRhZm43RjF5ZjRRcEl2ZHZvb2hXODhmN29WYzZRREliWDVRYldjcVhJSHpCbGViNk4zcUVwN0RBY2tQTjhLMElKc21kY3M3aEdpUDhvaF9PdmdCYi0?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-11-19T08:12:25+00:00"
-    },
-    {
-      "t": "코스피 등락 끝에 5100선 회복, 다음 변수는 앤트로픽 IPO",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tTk8tRXZmRXBTaWg4UlIxVW11blBjNGU3VjRwOFowU2daOUt5SnVmZnF0T2NUbzlvNHh4X3VZdVlTd1JteERWNEtKaHo1QnNZZzJGMHM5aE9WYWlUUDBRUkVoNlNXdkdpRVE?oc=5",
-      "s": "비즈워치",
-      "d": "2026-11-19T08:12:03+00:00"
-    },
-    {
-      "t": "코스피, 韓·中 경제협력 기대감에 '5100선 회복'…코스닥 3.32%↑",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xN1gyQWtoV2pGSk04WVdfZnRpeU05RUszcnVOdTRDc1RyckowbkozaW9uUmw4Ym5GT0RSYmVEaDM3Smg4a2FfVEpyb3hlTTdrZ1pjZHkxWFhRYTlwbnMyWA?oc=5",
-      "s": "프라임경제",
-      "d": "2026-11-19T08:12:02+00:00"
-    },
-    {
-      "t": "코스피, 앤트로픽 상장 앞두고 등락 끝에 1.4% 상승 마감(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KTmljZWNMN3cwdmw5eS1aYVIxdHdDamdGRmdpVS1LX1JuUjVCZEZUSGdkaFdxLW5YY3g1bExFMTV3ZjNUdXdiWGlOOHJDS3VUZXRHWEtPU2Z1WEXSAWBBVV95cUxPTTRqRloyTUN2Q0hBOWxWQnVZaEM5YWNlaHNBRmRXZHQ1R0MzbW44MG1GQUNJZlpqdnlwVC1LNHZUM00xWHZORHBpR0NrVWlvN3ZTaElYYW16ZWtva2d3MFM?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-19T08:10:01+00:00"
     }
   ],
   "asof": {},
