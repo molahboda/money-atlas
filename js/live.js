@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T02:45:07+00:00",
-  "quotesAt": "2026-11-19T02:45:07+00:00",
-  "newsAt": "2026-11-19T02:45:07+00:00",
+  "fetchedAt": "2026-11-19T03:00:07+00:00",
+  "quotesAt": "2026-11-19T03:00:07+00:00",
+  "newsAt": "2026-11-19T03:00:07+00:00",
   "quotes": {
-    "kospi": 5021.17,
+    "kospi": 4987.17,
     "spx": 7323.63,
     "nikkei": 59140.87,
     "vix": 24.56,
-    "krw": 1330.18,
-    "gold": 3742.5,
-    "wti": 82.35,
+    "krw": 1330.08,
+    "gold": 3727.9,
+    "wti": 82.15,
     "dxy": 103.87
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 1.06,
+    "kospi": 0.38,
     "nikkei": 0.2,
-    "krw": -0.21,
+    "krw": -0.22,
     "dxy": 0.37,
-    "gold": -3.15,
-    "wti": -4.26,
+    "gold": -3.53,
+    "wti": -4.49,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "이천시 '경기도 K-반도체 초격차 비전 선포식' 참석···반도체 산업 경쟁력 강화 박차",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seEUtWElzV0FXaUlvSWRyNGlXdTdld0Z5OGdrX2sycmxjenlTYmJKRG11dlFPcXFBdFlMaTk5dDJnTnBaNVpRWUY2OU1mSXpNb29KdFoxelVOSkp2Ny1Reno5eF9KaUtNVkM4X3lmYlA?oc=5",
+      "s": "산경일보",
+      "d": "2026-11-19T02:46:14+00:00"
+    },
     {
       "t": "엔비디아 호실적에도 '풀썩'…국내 반도체株 '비실' - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tXzJpZzdpQnhzOUl5d2o0VXI3a2ZNenBZN2s3N05ZQ0JoM1lucnZ0RXlxSHlPT3pPdEZDTDVpZ1U1Tmd6YXNRaHc1bDZFX2lWem5FU0J0VFBVUHQ0b092UHItQy1hNUc20gFuQVVfeXFMUEJERnlwVTFkLUxLdlVuQWNqTXZEOHlDaVBGU0R6RVp6cUE0WHVPQThBSzl1VVBYQkotS2R0OG9tel9NaVNyWFAwWXVSXzd2UXlxUEV4bjU5ZGNsVTdtejNVWEhwbDdVMXdpNHlaQlE?oc=5",
@@ -37,6 +43,12 @@ window.LIVE_DATA = {
       "d": "2026-11-19T02:38:59+00:00"
     },
     {
+      "t": "영남이공대, 반도체 기업 탐방으로 고교생 취업 역량 높인다",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZ0N6ZGRCeDlQSnE0clg2NU8wOFhwSjY3cFIyXy0waExKbXBuNGR2SllSTHNKR1JWSkkySWhaeERaTmlqY3NmbzVoTk1jeWZ6QkJWb2VzaXE?oc=5",
+      "s": "경북신문",
+      "d": "2026-11-19T02:34:15+00:00"
+    },
+    {
       "t": "5대 은행, 신용대출 6% 이상 금리 구간 절반 넘어…4%대는 '전멸'",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lUlJOZ01aaHlNMW5jUkJrakpBc3hkcGVkdGVQYTJTQzBrM2dIbmpVUWVlUnBUZ0FiSEJ2NnZrZzNDWGVqYnRvSkRNYnBvajJpU29PZl9pTGdqUVhLWXVDbVpRMkE0czFZZVdvTG94ZjdwZw?oc=5",
       "s": "인더스트리뉴스",
@@ -47,12 +59,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0YWE0blpPbXVxNmFqTnc0c0hMLXNBcEMyZzRMN0dJLXYtMUU4TlFnV010cHhsTWtnaEpET1FGWHJ4cW9PdGhEMkZvZEM1b1VsaWhqZzhSQWQwTHpDNFVpYnRiSGdSNGVjVGRzZ3lKNA?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-19T02:33:00+00:00"
-    },
-    {
-      "t": "영남이공대, 반도체 기업 탐방으로 고교생 취업 역량 높인다",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZ0N6ZGRCeDlQSnE0clg2NU8wOFhwSjY3cFIyXy0waExKbXBuNGR2SllSTHNKR1JWSkkySWhaeERaTmlqY3NmbzVoTk1jeWZ6QkJWb2VzaXE?oc=5",
-      "s": "경북신문",
-      "d": "2026-11-19T02:30:00+00:00"
     },
     {
       "t": "[기자의 눈] 7개로 늘어난 삼성전자 노조…호남 반도체 괜찮나",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZDVIRDJmNnU4eVVtLUhud2c3R0tuTHg4bkE2eWY2ZzV2Z0xQaDlKNll0UVM5Nm9iN0oxaERITUwycjg3b1N3VkRWdmxCSnJlMGEzeFI2bnFJQQ?oc=5",
       "s": "한국경제",
       "d": "2026-11-19T02:18:36+00:00"
-    },
-    {
-      "t": "가계빚 2030조, 주담대 금리 14년래 최고…취약차주 내년 상반기 고비",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wQ3RuU2w0clQwLXNORlh6MlFnVF9mMUpTOHQ1QUc0cG5FWnJaVDlXZnl5X1U2VjFna2NCaFRRR0JVa3hYNjhGaTdkODNvTGJQam1pS3VBd01MVmVsSlB3bmZMd25uVDE1Sy1N?oc=5",
-      "s": "한국부동산뉴스",
-      "d": "2026-11-19T02:13:36+00:00"
     }
   ],
   "asof": {},
