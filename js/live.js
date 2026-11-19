@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T00:45:07+00:00",
-  "quotesAt": "2026-11-19T00:45:07+00:00",
-  "newsAt": "2026-11-19T00:45:07+00:00",
+  "fetchedAt": "2026-11-19T01:00:07+00:00",
+  "quotesAt": "2026-11-19T01:00:07+00:00",
+  "newsAt": "2026-11-19T01:00:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7323.63,
-    "nikkei": 59266.79,
+    "nikkei": 59524.01,
     "vix": 24.56,
-    "krw": 1328.68,
-    "gold": 3746.7,
-    "wti": 81.89,
-    "dxy": 103.81
+    "krw": 1330.38,
+    "gold": 3755.6,
+    "wti": 81.87,
+    "dxy": 103.79
   },
   "daily": {
     "spx": -1.25,
     "kospi": 1.99,
-    "nikkei": 0.41,
-    "krw": -0.32,
-    "dxy": 0.31,
-    "gold": -3.04,
-    "wti": -4.79,
+    "nikkei": 0.85,
+    "krw": -0.2,
+    "dxy": 0.29,
+    "gold": -2.81,
+    "wti": -4.81,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "동일토건, '용인반도체클러스터 동일하이빌 파크밸리 2단지' 661가구 분양",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FTkRIQ2pxUHdwTGJpdU5rdjN0TUFfR19UWjVQbVFJQ0UzdnFES3paNUVWR3VvNFJuM29uMXV3TnZDQjRZaUlXdTktcFdJLVMwQ0ZsSllXeFJJQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-19T00:52:42+00:00"
+    },
+    {
+      "t": "美 연준 월러, 또 빅스텝 언급‥\"공격적 조치 필요\"",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4czYza1Q5b1M4V2lEcHRobTVhcU1aMjRxQ1UxYno2SkNKeHVQYjJqS0NIZGJiYmktc1ZLUUYyRlNIbV9BanNYUk5jX0haeXoxQ2phRDJrNWt6WVlULWNUTFRqVEhfUzRZZ05uUTRsSlN2M18yOUpV0gF3QVVfeXFMUEoyOTN5QTdWU3M1N1VOVndZRUhPdkV6QWFCM1B5bG95NF9tWUtwUXdsTFhJTWZmNVdFdlFUcWUwS0RQYlNjd1JXbm96YlFHcDYxQWUtQ0llQnR2bk5uVVRBYTFia19DdWtlTXFYRmg3Y1ROS0xld1E?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-19T00:43:37+00:00"
+    },
+    {
+      "t": "美 연준 카시카리 \"통화정책으로 AI 투자 조절할 수 있어\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fMXpybUtiVXdTNHRUMVJMU1o0OWl4Q0xVWC10MmxlNWc1Qjk4ZHlWeHc5aXBROG91anUyTHp4eFVQelAwNFlXU2V5VV8yeFA4Uy1qQ0xqSW9yRU5KZjF2QmlrSEZGYm1BV2NnUml0OWo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T00:43:05+00:00"
+    },
+    {
+      "t": "수능일 증시 오전 10시 개장…정규장 4시반까지",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTjlGUW9BQzZLUDZJV0Q2aUhEaTlvb0E3Q3F5U3E4bS1iNDJ1N0dvZ3Q1ajNpV1dweFc2ZFkxN3E0OExvS3dtal9qLVhaWnpsUWx3X090c041NlFYZ2ZPX0ZaQ3BDUkU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-19T00:42:00+00:00"
+    },
     {
       "t": "환율 1320원대…연준 긴축 가능성에도 달러-원화 '힘겨루기'",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41Tml3NnJ0ZV93WTEyc3E4YVpkMFhWeG9ma1FJaDdEZjFZRWd5aFBVMmxhV3ZfSU0zWHVIUGlianNtVGI1OGZvTGZueml4MXhqaXk0Wl9vNm5KaXhOVVE?oc=5",
@@ -31,10 +55,16 @@ window.LIVE_DATA = {
       "d": "2026-11-19T00:41:00+00:00"
     },
     {
-      "t": "달러 19개월 만에 최고·금값 14개월 만에 최저…연준 매파 합창",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTDR2VDZVQXRhRURaR0t3RTcxMmpzU2hOcEFsc3FKOXBUaXVrTXlOS25ZQmwzVmpzMmlDb0FrZkdyc3ZfTzQ3c2FzNldpYk10dXBFaUdFZ3NzZUw2anh5WVFiS0Q0bnExWEZMSUZDOVlwSFE?oc=5",
-      "s": "마켓인",
-      "d": "2026-11-19T00:40:45+00:00"
+      "t": "[2027 증시전망] 상상인證 \"코스피 상단 7,700P…반도체 역기저 부담\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSGdPeHlDd1FveTBRaEc3VVpqdl8xOWZVbHEwaUdva0FUQ3pibGxvclBFUDI5QmR2MnE2Nmw2YW9XdVZicy1EM25aREJyU2pUaDFscDE5ODJRNUxuZ21Udl9zU2owNTdqbmFwaVJOOWY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T00:40:34+00:00"
+    },
+    {
+      "t": "중고차 수출 원산지 증명 간소화…내년 4월부터 UAE 특혜관세 적용",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrMHVfU2ZGVHIwVnBmc2VkWHgzVEt4SUVaWWxPeGtWVUQxbENub25pd2hKQlBuV0pUS2F6MlFsNkxIT2FqNlV6aEZId1gtWHJBTmF4cXNuN0EtOWczQVNmR29uX2dhcDlaYjZj?oc=5",
+      "s": "해사신문",
+      "d": "2026-11-19T00:40:00+00:00"
     },
     {
       "t": "美 연준, 추가 금리인상에 무게…일부는 12월 '빅스텝' 거론",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWM0NXkzNlhycVVELWJXcEpYTHllUzRmWW0xWWZLQmpTanBxeWhteS1YOEpXQ1BDSzJmUXVTT25Cd2poUlhueXhzR2E0NlpSQmJ5VWIzMGF3eWtFaFJfWS1HRlE2eXVpQmd4YjE4MGVIaEhWSWVlSENvNUlWVm5SZzNsOXhIUdIBmgFBVV95cUxOWVJScEozSkdpQ0x1WTBKUEpnZ1hvZmw4MGRPcGVGV0hFNVc4a0FXdTNSSGp3ZnFLVURfUkpEUzczY04xTWs4dWIzQ20tQ1lqLTlxNUNhVGJvUXNkMmlrTlpzQzFaSlBvQXFIc0JoOS1SWlVUWU43dWIwaU5kbEE2bGlpZ09tZGU3VEdJWVYtc2htdndHTzRuckln?oc=5",
       "s": "Chosunbiz",
       "d": "2026-11-19T00:33:00+00:00"
-    },
-    {
-      "t": "美 중간선거 이후에도 관세 기조 유지…“세관 집행 강화 대비해야”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MGFPTXI0LUpZSmxfSDdxeE04enF0cFBpVWtfM1RGV2JBbGhERGxJNlBqSzlaUWZpdzlJRUVKZjdwZ2JoeXItTzNZNDhSdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-19T00:32:28+00:00"
-    },
-    {
-      "t": "수능일 국내 증시 오전 10시 개장…정규시장 '오전 10시~오후 4시 30분'",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RRVd5ODZWNDYzZDVmQ2tSaHFRdC1fbHhSRWk1VTNISHNQeFpiZ3l3NW5rSmdNYjk3WTJFQ3BYcXN2ZUhobklQQzUwWUxmWDRuWUJ1QUpoRkVhQlh6Nl9VNEI3RU1DYVNCUlIxZDgyLTBmQQ?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-11-19T00:30:46+00:00"
-    },
-    {
-      "t": "금융지주, 연말 증시에 ’제한적 기술적 반등’ 전망",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSzREeGREdzVzTjZKejhYYWg0WDFZTTJUdFBOa3hOX1hCbnhsTjlsdFhvYU5nbnJpb0xCV0RoY1ozMzRhdHl0YjNvUnlGLVBkOXc0dWVCTlNIVHNGMk01a081VDBSY3c?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-19T00:25:00+00:00"
-    },
-    {
-      "t": "[외환] 매파 FOMC에도 강한 원화…1,320원대 후반으로 하락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMGR2MGU3MzQ4VE5kV0FBUUhSbTBxVHgxTnJNYXZfbTlsc3RFZUlEOFFwd2VBYVZxbHZ1b0gyV3ptZ1FQVzdmdk16MkxyQ2RzNU1WT0hJUml6cXhJSFByQVRDb1ZneTNxQ19NRXpFNEZHZw?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-19T00:23:29+00:00"
-    },
-    {
-      "t": "뉴욕증시, 연준 추가 금리인상 우려에 혼조…다우 561P 하락",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xdnlSXzhDVlVzNU9vYzFXcEVUOUxDd0xnTFAzcHJMUG05dWJjVTlDYS1DaTlmSzRqazRUS19jOHlBRldHWlR3dVd2UXJTMTkzUFBKelhRNVY?oc=5",
-      "s": "우리경제신문",
-      "d": "2026-11-19T00:22:09+00:00"
     }
   ],
   "asof": {},
