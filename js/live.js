@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T08:45:07+00:00",
-  "quotesAt": "2026-11-19T08:45:07+00:00",
-  "newsAt": "2026-11-19T08:45:07+00:00",
+  "fetchedAt": "2026-11-19T09:00:07+00:00",
+  "quotesAt": "2026-11-19T09:00:07+00:00",
+  "newsAt": "2026-11-19T09:00:07+00:00",
   "quotes": {
     "kospi": 5137.89,
     "spx": 7323.63,
     "nikkei": 59444.21,
-    "vix": 21.97,
-    "krw": 1330.27,
-    "gold": 3735.8,
-    "wti": 82.35,
-    "dxy": 103.75
+    "vix": 21.95,
+    "krw": 1329.74,
+    "gold": 3733.7,
+    "wti": 82.59,
+    "dxy": 103.76
   },
   "daily": {
     "spx": -1.25,
     "kospi": 3.41,
     "nikkei": 0.71,
-    "krw": -0.21,
-    "dxy": -0.11,
-    "gold": -0.16,
-    "wti": -1.09,
-    "vix": -10.55
+    "krw": -0.25,
+    "dxy": -0.1,
+    "gold": -0.22,
+    "wti": -0.8,
+    "vix": -10.63
   },
   "news": [
+    {
+      "t": "코스피, 수능날 5000선 붕괴 딛고 반등…1.39% 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xMV9zZ05wN0VJX29GLTR4Y1Zvbi1Ed3ZYcXM5RExFanp3akRia0RHZ0swWEV6cUtpRFk3RkZIOWp1X0NRLTlZWFcxd0hiSkd0eHc?oc=5",
+      "s": "더나은미래",
+      "d": "2026-11-19T08:54:00+00:00"
+    },
+    {
+      "t": "아시아와 유럽 반도체 거점 도시의 만남, 평택시와 드레스덴시 협력 방안 논의",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMFdsOEw5SHRsTjllb3Y3NDc0OVFkRWNGS0wyUjYtcEVlRXREUm9wSjlLc1I1ZktGY2V0OFoyRjctSmE3REtXV2RVTV9UbTVBOHRwWEZLRGNTQnl4?oc=5",
+      "s": "누리일보",
+      "d": "2026-11-19T08:50:25+00:00"
+    },
+    {
+      "t": "국고채 금리, 일제히 하락…유가 급락·외국인 매수(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xcFVjRXRkWUxwVjd6N2RQdkd1aDEwaUxtbF9CS25OWUpvTzhtSTJaV0pTelBKUlBfSUpaclRIejRpYkp4ZkZrLUNLWGxXcE9kT01sV3Y0Qlp0aEU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T08:47:52+00:00"
+    },
+    {
+      "t": "[도쿄증시-마감] 닛케이, 앤트로픽 IPO 흥행 기대에 상승",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85UDlidjYtOGtjVzI0aDctcF9JVFBuSG5LT04zS0xYRzJZYmtiTDBkV2VQMnVtbXZVNDlqRWZ3NW5SNHhWUzNjNVZFWjYxRy1ZQnY4ZkFjVDZ3NVhiblFYakJiYmMtRUgyemNQTnhfTEo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T08:45:47+00:00"
+    },
+    {
+      "t": "\"K-반도체 핵심 거점 충북으로\"",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52OERwNGFReG96Z04wSHdqRDdUMFJsekxqTlFpcHB2djRfWDlIOFQ1Qk82dWZpYldvY2ZYQXZYemFiTWJoUlRuelo1RDJWOTlNVXJLa2lPM2lacUxnV2NNaDY2ZllBbjhpX0FGWHB3?oc=5",
+      "s": "충청투데이",
+      "d": "2026-11-19T08:44:44+00:00"
+    },
+    {
+      "t": "코스피, 외국인 매도에도 1.4% 올라 5138 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Mb0Rmb211UlpmSncwWlV6V0lneHhIRHZ5eVRqM2tyM1FMM2phTk1lbFRnUUc3Z1RERVV2YjVVOUJacTI4R0F4N242TFRNWS1pdEtNUTFwcm1WWmx5bl9VdnJRcmJrU3QySXplUENDWmw?oc=5",
+      "s": "코리아리포트",
+      "d": "2026-11-19T08:43:43+00:00"
+    },
     {
       "t": "\"반도체 혼자 잘나가선 안 된다\"…하닉이 꺼낸 '비장의 카드'",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zX2FMR2J5Z0FydUFQSnlpVDFjTmZ1VmkzYXg2WVZwOUV0RXlWQXB4NUlLQmY1Smp4Y19WdlRTcTJ4eXJpZUFxYzhvYk5GMVNmN3QyNHhJeGdOZw?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QS3VNSUJUUzVNQkhLdmFCOWlZOWMxUkZ0U1hjeUxKZV9xYUhia2JxbV9hdzNab2ppcW9jWWswRlFqMTlXSm1NbjBWcE9OcVcxNUZLTUZna2k3N0NrcERhWjE3d3dRX1U1LU1tQ09rYzNJZw?oc=5",
       "s": "KB Think",
       "d": "2026-11-19T08:29:57+00:00"
-    },
-    {
-      "t": "코스피, 수출 1조달러·한한령 완화 기대에 1.4% 상승 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yal9uT015R0JGbmJYS3EzWVRvaGFuWlhxZUUzellRWEdDY3JFWmkzck9xcHpYejdWU1pHcTV3V0JFWTlwR0JCVFBPbHFxTXBVTGlDbkJOSU9fcl82OC02ak04TUs?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-11-19T08:28:51+00:00"
-    },
-    {
-      "t": "같은 퇴직연금인데 대기업에만 높은 금리…금감원 \"차별 영업 근절\"",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSmVMVTQydHBCNXlTeXprNzRLVHJoRy1HSmVGclBVeld6QmhSd3NQR09hVkY2VDVzSHkxMWpVOHJGaXRTbmJ5eGhoaFZ5WTJyZXBmWk9uOFdFV0V4SG5Zek9sdjJvSDNFOFU4?oc=5",
-      "s": "비즈워치",
-      "d": "2026-11-19T08:25:02+00:00"
-    },
-    {
-      "t": "평택시, 독일 드레스덴시와 반도체 산업 협력방안 논의",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IaVc3aHNDTDVrMTRzZTA1Vy1EUEJVYlVadzRUWGh6UDhURWhXczRyTU1ReGRIZmQ5MFFJN25SdG9lc2piZ2dxSW1FRFhWeGJmSlV0eWxFeWJtb2fSAWBBVV95cUxNTEkxRWxHR3NKb2w3S2NtWE9rRVpBR251M1ltckU1T1EwVjhZTXlIdlROaEE1UkdVcDE3UHdmY2NvMWtBaldpMVFYa01pVXFXSzBsdVlyRkZ5aTZvTXlxM3E?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-19T08:24:35+00:00"
-    },
-    {
-      "t": "평택시, 독일 드레스덴시와 반도체 기업 교류·공급망 협력 논의",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WMEdCNEhpRkxBMHRZT2NSNTBUbjJxYnZfVHVCZXhsb09aSUQ0NDEzTGdFWThGbkJzN0M1ZnV1NnVCdXVkUUNkbkY2U0xLZFIteWdrSk1Xa2FrbHFib25wZ2xIQ2w?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-19T08:22:29+00:00"
-    },
-    {
-      "t": "“트럼프 관세 충격도 옛말”…킹달러의 화려한 부활 [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MSUFkTTZJMkFxRnBYaWN1eXdoc080cTFkbmdVY1BjZGtnX3FIVGJ6ZmVIQ0dqVTVBaWs2Y1l6aTFEaVRLRTFJVUFBenZvV2FVaVlZazhDYWZmLUJkQUpIWXpJUQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-11-19T08:19:13+00:00"
-    },
-    {
-      "t": "코스피, 장중 4960선 밀렸다 5137.89로 상승 마감…앤트로픽 IPO에 반도체주 반등",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jRzcyLVBwNkNaS2doc3BIUkwtSGk2WDRhUFdYd01VR1NhT2UyRHFFYnZaaGxraWtqVTluUWM5NFZIQUFfUHBoU3lmSnBUbE5NM2RvTVI3RjdZUDZlVTJVeklWUnp4MVJ2V2hEZA?oc=5",
-      "s": "굿모닝경제",
-      "d": "2026-11-19T08:19:02+00:00"
     }
   ],
   "asof": {},
