@@ -1,32 +1,50 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T03:45:07+00:00",
-  "quotesAt": "2026-11-19T03:45:07+00:00",
-  "newsAt": "2026-11-19T03:45:07+00:00",
+  "fetchedAt": "2026-11-19T04:00:07+00:00",
+  "quotesAt": "2026-11-19T04:00:07+00:00",
+  "newsAt": "2026-11-19T04:00:07+00:00",
   "quotes": {
-    "kospi": 4996.38,
+    "kospi": 5041.33,
     "spx": 7323.63,
-    "nikkei": 59140.87,
+    "nikkei": 59223.78,
     "vix": 24.56,
-    "krw": 1330.56,
-    "gold": 3714.6,
-    "wti": 81.83,
-    "dxy": 103.95
+    "krw": 1331.08,
+    "gold": 3717.4,
+    "wti": 81.97,
+    "dxy": 103.96
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 0.56,
-    "nikkei": 0.2,
-    "krw": -0.18,
-    "dxy": 0.44,
-    "gold": -3.87,
-    "wti": -4.86,
+    "kospi": 1.47,
+    "nikkei": 0.34,
+    "krw": -0.14,
+    "dxy": 0.45,
+    "gold": -3.8,
+    "wti": -4.7,
     "vix": -3.53
   },
   "news": [
     {
+      "t": "[국제금융 이슈] 연준 추가 인상 가능성…달러 강세 속 미 10년물 금리 하락",
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMEVpUVJRTHRicjB2Y2hNN2I3Q1pxdGlWZmx1d09kQ1RRdTlYSmk5amowdWR6VV9uSGhSMVpyeGtKa0lMMWl4UzMzT0ppV0lBN25n?oc=5",
+      "s": "산업종합저널",
+      "d": "2026-11-19T03:52:28+00:00"
+    },
+    {
+      "t": "日 자동차 7사 영업익 ⅓은 엔저 덕…환율 빼면 감익",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3MkhfdlcyTWJfc192alhZYXZVZmstU3NnMmJ2Nkt3VlJSYnh3MzZ4d0NTbkhONmRIWXlEOFlmWjNaUkJtRTRXdjRRM25KUUt0M0ctTzk4MzJhbkxtYmVhbjk1ajZiOTRBMkl1ajhWd1c?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T03:51:07+00:00"
+    },
+    {
+      "t": "[일본 특징주] 라쿠텐, 고객정보 유출 파문에 채권 가산금리 급등",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4S2xOOTJ0Wl9KU2V3dThsVW83U2g3RVRZVkxrR2lkb0lPWDZISS1mbXllb3AtZ2NfT3FDVTlSNk5YX2Z3UnRzLVdCU00zNHVIRzQzYkRPOU9DaGgx?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-19T03:33:00+00:00"
+    },
+    {
       "t": "국내 증시 하락에 순대외금융자산 급증…3분기 역대 최대 증가",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWHViNEFfZTRNcU5oNEs4Tk5mWlpxMWlDWFR0REZCQWhNLUNsSHNKMUl2RnlRYTkzWkxWNXZCYkpMRE5DbmdPY3g0bTMza3o0T0xhdER4d0VYSTZ6SEIzY2dvOEtnaHQ2dEpMbVJzekPSAXRBVV95cUxOb2VXRi0yZ2FISkFjd3Fta18wbDBqbjlDQnl5U2hSaFdXeXRJbGk4WWZ2dG1VVGRLN09ZNlVncVNLU0dJMDFmY1J4VWJCNmlRUnpVYVNtX2FjMmE4R1BKcUk4TXp0cUE2ZGltMXNPLTFDRjRzbg?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzWHViNEFfZTRNcU5oNEs4Tk5mWlpxMWlDWFR0REZCQWhNLUNsSHNKMUl2RnlRYTkzWkxWNXZCYkpMRE5DbmdPY3g0bTMza3o0T0xhdER4d0VYSTZ6SEIzY2dvOEtnaHQ2dEpMbVJzekM?oc=5",
       "s": "산경투데이",
       "d": "2026-11-19T03:23:56+00:00"
     },
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HN2V5MjROQnMtWnJtVjVtOXlhcEktNkljQ0NfbDJFaDNJelFaVFRxVEE4dkdkVXJZc3pIZjdkeHJjbFd6UC11N0hkTFl3UDl1cXdlX0cxSkFUdzFCN1JJRUg1WkpvdjFMcGFtbnBHYkQ?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-19T03:08:00+00:00"
-    },
-    {
-      "t": "[T나는 증시] 앤트로픽 오늘밤 나스닥 입성 기대↑…꽉막힌 수급 걷히나",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sbGxNYjNtRUZxemdHaUNVaU81cUd6ZW9QakxteE1Gem9TMEFENXRrSWtIZEZoSEllaW1Hb0dZM0M5NDQ0Q2xIbFNNTmlOeEJWTTlPVFpNbGdXTnNIZmZoOENB?oc=5",
-      "s": "티제이비",
-      "d": "2026-11-19T03:07:37+00:00"
-    },
-    {
-      "t": "한은 “환율 10% 하락하면 생활비 연 16.5만원 절감… 저소득층에 특히 유리”",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORF9aQVFqRkFPVmktRjNkV1A2WlRwZVlUMF9qNEVUOTgwQURZYWlINkZXYU53enotMVdYNE8wakdHZVltMG14VTIyWHpPcXZHZ2g3c1M5R1BRQWJhbTNwSXpPNDN0RFAxM3p2Y3JrbzNvQ2RHa1N6blEzeGk5bTI5QnYtNGU2d9IBmgFBVV95cUxOTGRCR1lXbmx2eExrdTBWTVZ5TWVaVGRaNmJwRnVJcV9JbmZUdGtKSWwwbTctVHJjZkRCajQybjdlRFJULUlya005TXZnQkEtc3hzakRCLVpEajVYb0FjN1liVGtmN1VTOVpoUDdRQ1RVa1Y2V2FOOENVUkJaMkc3LUh1MGxBckg0R2JLLUhuclUzRUZOWTFscXRn?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-19T03:03:34+00:00"
-    },
-    {
-      "t": "마이크론 메모리반도체 불황 대비해 '방어 전략' 집중, 삼성전자 SK하이닉스와 새 경쟁 국면",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUduNW55Q2M2SWFVU3JRNVc2Um8wNmhPQjZtblJqaERhUWlRZ0FKWktWbXg5M2NZbGVZUHdDekpQTm9wNTdMa1pHSXk1eWdkM29OeGdtM1RzYVFqR1NMVXRDQ0VYR0s4Z2pHS211TlhzdUE?oc=5",
-      "s": "비즈니스포스트",
-      "d": "2026-11-19T03:01:32+00:00"
     }
   ],
   "asof": {},
