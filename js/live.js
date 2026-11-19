@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T06:30:07+00:00",
-  "quotesAt": "2026-11-19T06:30:07+00:00",
-  "newsAt": "2026-11-19T06:30:07+00:00",
+  "fetchedAt": "2026-11-19T06:45:07+00:00",
+  "quotesAt": "2026-11-19T06:45:07+00:00",
+  "newsAt": "2026-11-19T06:45:07+00:00",
   "quotes": {
-    "kospi": 5093.66,
+    "kospi": 5090.87,
     "spx": 7323.63,
-    "nikkei": 59488.63,
+    "nikkei": 59444.21,
     "vix": 24.56,
     "krw": 1329.78,
-    "gold": 3739.4,
-    "wti": 82.26,
-    "dxy": 103.87
+    "gold": 3738.1,
+    "wti": 82.43,
+    "dxy": 103.86
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 2.52,
-    "nikkei": 0.79,
+    "kospi": 2.46,
+    "nikkei": 0.71,
     "krw": -0.24,
-    "dxy": 0.01,
-    "gold": -0.07,
-    "wti": -1.2,
+    "dxy": 0,
+    "gold": -0.1,
+    "wti": -1,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "대만, 증시 급락에 공매도 규제 강화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Kd0lMZjR0Q0xLdFVhTDVRRC1qVVVybTNnaWFwQnJqVmtMSE5mcWo4NzNsMUtGdm4yWjdTNWs3TVZRZmVLenQ3X1BzTXdmZzh6TmthenVyUGpncE5sVktGZVZSVE1BV1dSU1JzdGZFOVQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T06:40:34+00:00"
+    },
+    {
+      "t": "이상일 용인시장, 총리에 반도체 배후도시 추가 조성·교통망 확충 건의",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVy12T1JUNlpKQkdkZElYS1NsRTNPcHVWdWg1WFJkV0gwZmFjX21YN3hYdG9XNmlVVGJaWjhVZEZLZm9UWU45LUFwMlIzdmwwSy0xOGRKZG1YOW9y?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-19T06:38:00+00:00"
+    },
+    {
+      "t": "[속보] 원·달러 환율, 3원 내린 1330원",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ1ZwOGE2NkIxckhyWHd4blRoa0lidGlVb0x4ODVFaHNtNlBvMDZtMDZfbzRubkpVRGlqd1ZxV2FVeUExbEFfaktFZktERkUzVU40dk81ck0xbnNIc2I2eElHNGZwX3pmbjVBTFljWmpWZUJtZ1ZYZGozQ19wcUx0VU1OTVZ6Z9IBmgFBVV95cUxOUFpTZnZVME8wYTVHU3pFcm5ybGtOeHNHM2sxakd0UURscWZqS2M0Q3M4dXh1bURiM25lRVJJQmk3ckVIRnR3RFR5TUVpT0RuOXpXVjNmdkNwY3ZTbU5tcE5QSDNGb1Y4RXJfRHgxdGFsbmR3dEtELWRJR2VDdUhNWTlFZ2tVOE1CUGFlekpmcFZwSTA5WXRiQTZR?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-19T06:36:00+00:00"
+    },
+    {
+      "t": "화장품·반도체가 끌었다…中企 수출 1076억달러 ‘역대 최대’",
+      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQalJEY01tZVk1SFlOaUdMRWV2dDNrMDNIT1NtR3N1WGdKR0FINkhKMm9jcGxXUk52Q0N3bjdrYVZZMGRzellzUWVnSHY3aHpKdWxGaWp6emZVRW1kMHhyYWNXRG1wQlJSR3VwWmczSmdKNzByQ2JyU1I1QnlNWERQOWktMGhVR0NaZTFUZmtfSGvSAaQBQVVfeXFMTXB5bHZzcTZuYVl5T19yQ2V1Y2ZHLURhUnk2WFJ5OUpnYXZueElDMVZBdEFtRnRRWXItaUU2cVdONjVWUVcxRDZKVm1oU0RwT0ZaLVhnUTVlanFCUVFBcGJpRjRwVmMwckxxR180c28wMVFSOElqMFlLSGYtTHI5Y1drZlBqR2t3OVIxNEU1cnJxQ281QXVnYWdDZmVrcnlzUVM4SHQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-19T06:36:00+00:00"
+    },
+    {
+      "t": "원/달러 환율, 3.0원 내린 1330.0원 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QSTRqVEJZUXVCOGxQSERJRS1NTVE1S2hwUzR2UjNRZ2V1aVZKY0pBZG8xdk02OHZhdlMyaVlINXFqOVpUWTdzbWRFVkdneUVkN0c0OVkwZUJ5S3kyMmZONEFnS2NVdnh4cE9jUW1pMm5hUEgzLTFuS9IBfkFVX3lxTE1wYndSaG0yMk9NdEE5R3NQbDBsa21pcDR6VzFoWHN3S2U3YS1XOXpyWXBsNURZSUhINVY4aWdIUnNOQ01IdUZ1dFlmcHJ3WWR1bXhkUHZlVEZpc2o4SU5LTzlUemZPWWR3dmxmUjNJZ1RUVDZmU2UyRm9jeFQydw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-19T06:35:47+00:00"
+    },
+    {
+      "t": "코스피200·코스닥150 종목 교체…12월 11일 정기변경 적용",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Oejh4cWhmUUI1UmNDbzVUd05sTHBGSHVwTmlvNDhBNEpBRjgxVTFNUnhETXdOUDhTd09KbVJqNEtFUDU4dGdTaHd6Wmg5VnBPTjBKR1FDbEY2cXRpNkw0MUo3MDBWbTlTZy1QUXYtU0xyY0l5?oc=5",
+      "s": "조세일보",
+      "d": "2026-11-19T06:29:51+00:00"
+    },
+    {
+      "t": "[IPO챗] 솔리스 \"북미 넘어 유럽 배터리·미국 반도체 시장 공략\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4bHR3SUxab3hib0R4UVJwSW5heFZkNmw3UGVJMDdSNjN3OHNxREJZeFlkaWpCM2FlbU1TMlpqS0xxS3FwbTZoQ0l4cnBob1Bjcko2V3FCeldUNGvSAWBBVV95cUxNMV9sZ0VMWEMtMUkwWGxacW43TnJEM05mTU5jcGNBbkZ6RnVfbXlKNF95ZWF3cENiX0x1dEhmUHlEdlZPdk9CODVCZERmNFZ5MDhqZHhyRVdpN25hZ05pY1E?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T06:29:39+00:00"
+    },
     {
       "t": "이상일 용인시장, 한성숙 총리에 반도체 배후 신도시 추가 지정 건의",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wbjFIYWFFMEJkdlJaMU5sbmw2aFhfRGxGXzVCTlhlYkV3WnJCdHFHMU9UTmhic094VnRIUUlRU2hiQXA4a3Nfc21fdmI3bU5VY3NvN2ctZERkRkRXSFE?oc=5",
@@ -31,58 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-19T06:25:12+00:00"
     },
     {
-      "t": "에이직랜드, 中 반도체 전시회 ICCAD 첫 참가…글로벌 IP 확보 강화",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfdVBMZEdsV3RVYWp6S0pONXpiSUg4RmxxX0kxbTk5R0o3LW9Fd1d0eXBHcVpVbnZsUDJMY1V4THVCaDVyd3dpY0FRTk5uaUJBLXQ1Vy16TDM4UGlOWU1Yb0dmLXcxRGdh?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-11-19T06:21:23+00:00"
-    },
-    {
-      "t": "NVDA에 한 숨돌리고 ANT 기다리고…코스피, 나스닥만 쳐다보는 이유",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xU0NFWkFaYkhqc1FNWUxHemE2YXYxaWtCVHpjcVZDSGhoU3hYMEJuc2VmbmJJTGh2VWJucEdxbnAxbi1BQnJoX0M2WnNDeVA2TnhDUGFRNzNWLTA4aEVCQ3BEUQ?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-11-19T06:21:21+00:00"
-    },
-    {
-      "t": "[기획] 시중은행과 금리 경쟁에 자본조달 이자 부담… 2금융권 한파",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hSzBRU0taSGEyY0lWTDhhalpWNV9TbnhiblJJdjJvMnBwNnU2QXRJTDh3Sy1VZVRHWTl2Q0xscDV2cmZudl9SczdpSXptRGVDZmxJT2RTdDFsWGpwY1JqNGNaTFg?oc=5",
+      "t": "반도체 반토막 났는데 금융주는 하락장 방파제 역할 '톡톡'",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZSDZYeHAwaEZOdWpPLXIzLW8xdGRwLW9sZlhwRnBXWWR6bVFYUkxjbzRpQmNwX3p2RllsSWNQdXU1NVgweTRMRmUtcDVhUkVmRjVGeF9DRGNYQkdkbnFrTVZzZks?oc=5",
       "s": "매일일보",
-      "d": "2026-11-19T06:19:13+00:00"
+      "d": "2026-11-19T06:24:55+00:00"
     },
     {
-      "t": "양승조 수자원공사 사장, 용인 반도체 클러스터 방문",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vR2o0ZzBHV21KR3cwb18xZEZyQWtwdEZYcW9xdjd1Z0Zzd3FndjdZczByZE9NRjl6aUtWZHY4NWlVdmlXYU5aanVzd0NuZGJkenJZY3pFbEVsRXhPQ2xxR2FiV3Awanpm?oc=5",
-      "s": "환경일보",
-      "d": "2026-11-19T06:15:25+00:00"
-    },
-    {
-      "t": "일본은행 우에다 총재 \"3분기 소비 0.3% 줄었지만 금리 올린다\" 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejBsQ1BfYTZpQkc3LXVxTGlWUlNjNEhwSXcxd3hoaXRwMlp3YTc2VllsSWVuVFAzMHdjeFRRNTNtSWFfT24wTkpIZk9PN3BWTTRjaXBObGNkckJPd0FkWUlGNlVPODBzWGthb21mQl9qTzNiTHJLT1pKVzNsdjU3bUJHV2JNUU85?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-19T06:14:28+00:00"
-    },
-    {
-      "t": "“숨돌리기 이후엔 인상?”… 한은, 다음주 금통위서 금리 올리나",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWDV0SG5GbkNQanoxX0x5N1R2QUxhY0hCMGV0OWN0eWRfcWE3UWZZZEpORVc1X2g3SzhKSVpzSmJTcWRsNzQ1YkxzME5ETHlNT2R0aXVOV1Z5UUp5SWhrSThvZmVvblUxUmc?oc=5",
-      "s": "천지일보",
-      "d": "2026-11-19T06:08:48+00:00"
-    },
-    {
-      "t": "한국 수출, 사상 첫 ‘1조 달러’ 금자탑…AIㆍ반도체 뚫고 'K-소비재' 밀었다",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VUXo3VGRiNXhROUducjdYNTRSUlVRSGJFNjhnbVlTSnZHdTFYd1dQamlJVFpxRnJ0amQ5NFNJdXlvdjE4bE1NS2RBX0N6ZDJVWU9CNnd4SlpwQ000dXF4SHZ1TnFqOGZsRlRVeg?oc=5",
-      "s": "뉴시안",
-      "d": "2026-11-19T06:02:08+00:00"
-    },
-    {
-      "t": "[오후시황] 코스피 낙폭 만회하며 보합권...엔터·여행주 강세 지속",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5MG9SZ2FVOFpWQ1ZwMnJKQXNsZWJ3bnpoWm9WQUxWOHlxTVMxNGVtWnlKR0prZWVPaDd1aEczTUplZzRjNU9NQ1I5SHVidHFWVjQ3a3pqZS1XZw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-19T06:00:57+00:00"
-    },
-    {
-      "t": "디노티시아, SC26서 AI 데이터 검색 반도체 `VDPU` 첫 구동 시연",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Od0RtOThxcHNOZWRYdUZ4QldJTVRKUEZubGRCTjJUX0I3bkdXS0txcGJ4bTliMDVmUkRLdU1seV9DSDExUkl1bVZBVVBGX1BBdVdEdlE0TjBqSTJkLW9jYzZFMDY?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-11-19T05:59:50+00:00"
+      "t": "美 연준 ’금리 동결은 숨 고르기’…증권가 \"12월 0.25%p 인상 유력\" By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9INGVRMS15VGN1U2pmR0RXR01UdDVKbWV4Nnh0emx1MzY1Q1BQdVduV2tqMi1peVZ1NmFXNnEzODJaODQwOE1vRUVrejJqSFBXakZJaVlsT3lDMW5sM0pNVGZQaU5vX2d1SGxKc0hWd2c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-19T06:23:00+00:00"
     }
   ],
   "asof": {},
