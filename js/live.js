@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T05:45:07+00:00",
-  "quotesAt": "2026-11-19T05:45:07+00:00",
-  "newsAt": "2026-11-19T05:45:07+00:00",
+  "fetchedAt": "2026-11-19T06:00:07+00:00",
+  "quotesAt": "2026-11-19T06:00:07+00:00",
+  "newsAt": "2026-11-19T06:00:07+00:00",
   "quotes": {
-    "kospi": 5053.76,
+    "kospi": 5069.51,
     "spx": 7323.63,
-    "nikkei": 59272.6,
+    "nikkei": 59354.33,
     "vix": 24.56,
-    "krw": 1330.1,
-    "gold": 3737.9,
-    "wti": 82.15,
-    "dxy": 103.9
+    "krw": 1330.98,
+    "gold": 3736.3,
+    "wti": 82.26,
+    "dxy": 103.88
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 1.72,
-    "nikkei": 0.42,
-    "krw": -0.22,
-    "dxy": 0.04,
-    "gold": -0.11,
-    "wti": -1.33,
+    "kospi": 2.03,
+    "nikkei": 0.56,
+    "krw": -0.15,
+    "dxy": 0.01,
+    "gold": -0.15,
+    "wti": -1.2,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "반도체가 끌고 정유·조선이 받쳤다…한국 '수출 1조달러'시대",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1scjE1aGN4a0Q3blBxbl9QYmJEVXNlLUt6ZDhxVURFU1YtcnN4TXNNenlPbkI2SDktWVI0eHRHY001UFFDaU5hNV9MWXdfeFc2SFYzX1N1dDc?oc=5",
+      "s": "더트래커",
+      "d": "2026-11-19T05:53:18+00:00"
+    },
+    {
+      "t": "쉼없는 공장이 만든 수출대국, '하드캐리' 반도체의 명암도 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BelpwTXJrNlRnSFFkSFdBZ0I3MUtMVjItZ3BWY1FKb0NCUEx1eWF3NG11UEt4X0t5YlBIWlhQLWJpcFY1SlhmV0I4Y1dEZmZJd0p3X2p6ZzJ0WnBnTHRGRkdubU9SckdOQXMyUGo1QVV4WjFQWnUwR0F30gF_QVVfeXFMT2F0WkdTNndWZUQ4SzFpS29GWml5OHFUc1Bva3BBWWxjbmJtNklRem81eFUydnRtbWpXT2NiUXVrQzR2OTUwYUFpMkQ2NWNLcTF5ZlM4UnRMSUx5eGlXbTgtR29NWEc5WXJIMDk4ODAxMEY1WnVGNVFIYWM3bzFIWQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-19T05:49:34+00:00"
+    },
+    {
+      "t": "쥐가죽까지 팔던 한국, 반도체로 ‘수출 1조 달러’ 넘었다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOYTROTUE2TlpDQk96N1ZFc1pNMXRWVUhpb211YTJnY2ZONm9SWVVmaVU5RUtMek5faHRtUGpKMjFGS2RkU0otMTZzQ0VjQzdzLVE3VWJGSGNJQQ?oc=5",
+      "s": "브릿지경제",
+      "d": "2026-11-19T05:47:00+00:00"
+    },
+    {
+      "t": "[뉴스프레소] 뉴욕증시, 연준 매파 기조 속 혼조… 다시 매크로 불안 시작? - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xY1hJay00dWVObmdBdjVEMTFLZHZ5cFh2YnlsdzBsNmttWTloRk5ERFZkbFltdHV2Y3dIeE5qbmFQR3duWWhMUkNaSlRMaTVVUVdPWnJOeWVrWkQ5dTIxRGRFdXJrZlVk0gFuQVVfeXFMTXhSc2lNZ0tPWG1MRmQtRm9EdXpFN0h5bDR3Yk1wMnJVb1VrVVgzZzVuSHpuRk9rMG9UazJIVVphRl8zdjd2TkZJOHowcWdqbHQ2RGd5QUc1VENVVWloSE5ZOFN0cTdXalQ1cVhpOHc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-19T05:46:44+00:00"
+    },
+    {
+      "t": "[수출 1조달러 돌파]반도체가 견인한 수출…슈퍼사이클 넘어 장기 성장 가능할까",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YbjY3QnRzRUdDZnRuQlJVTERpOHdmXzFEWUhGbVRZWTFOY0N5TjZ3NEIwQnNWZUZXcEthdDY1eHNuOHZaZHotc3c3aFBINUQ0eFJreWNSS0doUFVoRElmRA?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-19T05:45:41+00:00"
+    },
+    {
+      "t": "환율 10% 하락의 경제학…가계 생활비 줄고 내수기업 수익성 개선",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WT29DZUd6V0lmMEh5ZTlBaUlVdnRnaUJrVkxFS1ZnZjJZOXZweXZFY2JlYTdmd2l1Mk1EOS04YTFYbkVob3E5dUZ3ZUdTN1NYMEs0enFacmlyY2dBTW9KX0ZHdw?oc=5",
+      "s": "조세금융신문",
+      "d": "2026-11-19T05:44:35+00:00"
+    },
+    {
+      "t": "한국물가정보 \"김장채소 가격↓…높은 해수온에 대구는 상승\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43MXdmR1I1S1l4M3pZUURpTmY4N25qQWFTNHFaN2lfWW10dWs2SVBOb0ZyVkEtX3pzcEwwV1FITkFiNkJtYkE1am0xNVFJaGxoYlVyNkdwd05IUjjSAWBBVV95cUxPWVBfekE5SW1HckxjNWFZU1czdlJpc3d1WGgza2FHUVU0NW44eUZHT1VZNnF4RE03QU9hTWtnQkNKdFFXVWYwMHF6LURiOTRqekozSTRLbkd0UDRyNFQxZG4?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T05:43:53+00:00"
+    },
     {
       "t": "솔리스, 美 반도체 시장 진출 본격화…\"코스닥 상장으로 성장 가속\"",
       "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JYjlLRUFobEQ0LXZSZFZkTFctSnAzYTlGVVM3QXNtdm83XzN2Y09Yd21FTHVqd0c4ZFpiMWpjdWQ0ejBxTGh5RVhtclVieWlTeW1wZHVwMDVoQ0NF?oc=5",
@@ -31,58 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-19T05:43:00+00:00"
     },
     {
-      "t": "10월 거래대금, ETF가 코스피 눌렀다…달라진 수급지도 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNUlHMU5FSTdVUF9UQ2JHRkxOZ0NHd3h2N0JSR3JmXzRnRS1WS0M0TTlIaGRSbk9LVzlFZnBoWWxkb2NUNXVyNWlLRXVab2JtS3pfNHVzc2tZckhBaXBLYVVzUUFCaDkw0gFuQVVfeXFMTkFUU0d1dTc5SkdWd1pIdkVvRExyMUNQUVZQX3FIcUhRZnFzcUF6OW9xdjlQdVBmcC1sVS1JSEIwTUlMUkRBeF8xRFgxWTRwZ0FJczk1NUdfaGNCelM1YkJxWXlnV1AyT0s4U1RqakE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-19T05:42:03+00:00"
+      "t": "‘수출 1조 달러’ 넘어 더 큰 도약으로… SK하이닉스와 소재 · 부품 · 장비 생태계가 함께 그리는 K-반도체의 미래",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81bjd3NUpmR3NpU3RPVTZiQUQ0ZzUyWW1icEdGb0YwSjJMTU5MeWFtY29XcV9kbF9QYTRoVUVXcWtRTUZEWEJ5ZGRkdzZZT0pxYzRmQUYwYW1UMUZyWUF2TzJjTGFYaVduX2c?oc=5",
+      "s": "SK hynix",
+      "d": "2026-11-19T05:41:59+00:00"
     },
     {
-      "t": "수출 60% 늘었다…반도체 3배·8개 품목 신기록 쓴 '1조달러' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOT1dZMGl4YUktVnN4LUxwcUlBVm91NGlPTE0zdHhXTk45U0Y0eVdtWTdoUGp4SUltLWZkYUhtaFhvalk2MmFUdE5DSmlUT2JIenBBYno0dVdmUTF0c1RZWHRobFdDejhreVlJ0gFwQVVfeXFMTkNYcDNVeGdNaXV5ZGJGdXRXMFBkQi1kc0xwWERaOG9EampobWlxRml4dmFBelBXY1lMbWlHQTVEb0NvdVFxczNoc1VxZ1lMelNkQmFpSUZjejFXX2FJWEtvS05ZaXRYbFBiQ0I5TnI2OQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-19T05:37:42+00:00"
-    },
-    {
-      "t": "'가발에서 AI 반도체까지'...'62년 만에 수출 1조 달러' 새 역사",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuV09oZjUtdWdkaWIzMzNnOUYwOUpTMlJldGFVeGNVdmI1WkhjeGpoZWE2NVJhb045aElJN2RoTDNDMWdWbWZXX1dMWEVFUmFPNWtwb2w4YkYwMU16WlFEcjBVTjhWRWlwTDFj?oc=5",
-      "s": "BBS불교방송",
-      "d": "2026-11-19T05:34:07+00:00"
-    },
-    {
-      "t": "반도체 쏠림 완화되나…하나證 “내년 대형주 순환매 주목”",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82ZmdTamxzaGhGUm5NZmhGSHpJWkVxRTNNeHNLUlpNM3VKSzFwNzlTXzNfQmliTXhpZVZuTUZjQ2NtN2ZGR2czTVZjcjhIcVJwbGc3TU1QNlBrVTVrNFRSeGJB?oc=5",
-      "s": "이코노미스트",
-      "d": "2026-11-19T05:33:14+00:00"
-    },
-    {
-      "t": "'내년 코스피 8000 가려면...' 삼전닉스 반등이 전제",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OUTF5NmtjdENuU0R1QVRidWJnbld3Tm1mR0ZaRlNoZHZkN0RheWJfcU5VTGM4M182c3pGOEZ5dWIzVjBWSnJqRGl1Y0p2eHlkLVFkSkhWMnRVaTlXNXRxRk5IaGs?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-19T05:31:43+00:00"
-    },
-    {
-      "t": "[K-수출 1조달러] 반도체發 퀀텀점프…쏠림 심화에 리스크도↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GXzlldWZFQ0xPX1ByS0UxU1UwTUR4TnhZelJ0SkJrRG1lV2tkQmktN1N0TGowOENRSm9TZzV1dmdhWU5DQy04YTFaMmdkRkVxTDhKX3VQaXZFNzg5aVczSkQwQVozQ3VONEFjV1hDTF8?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T05:31:12+00:00"
-    },
-    {
-      "t": "[K-수출 1조달러] 반도체에 밀렸지만…車, '친환경 승부수' 통할까",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fX1JOTGFnN2kwb1hOZEp5SWhyblNqREFGaHE0cEdfS1FBYnN3SENyWFNuWU5Vazc2ZlAxQ1E3V0U1bWx4YW93ZlNwd1htTktrY2Qwdl9JTEZZNzJYdV91R2NrdXNZRlJZaFFSQTJUaWo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T05:30:42+00:00"
-    },
-    {
-      "t": "[K-수출 1조달러] \"쾌거 속 반도체 착시…낙수효과 한계·통상 리스크 과제\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WS054VTBzYmNuUXNzY3lrZ2hmQkx3WDBDNWwxS2s4UDZaQUt1NVIyVFFvUHhpVXdiMi1lRXlkZnFaOE4teGtWeV9NTXJDTWJwOHdFYUZxcWFKbUJiVVhyOEZhRHNxMGpCb21wbkQ0VkU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T05:30:25+00:00"
-    },
-    {
-      "t": "[K-수출 1조달러] 철광석에서 반도체까지…65년 수출 역사 바꾼 AI",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUVWJnb293VF82TzN1dklNZ3RvN0dSd1UxQ0VGbHg1WnYzYkZGN3hYaGxfcE1relo5Yk0tb25rbUVGN1hkSG85aVcwNW81M2ZFeEpQVVJpT2dLTWlQQXh6d09fUXAtNy1UWXV3TDJKZ0k?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T05:30:23+00:00"
+      "t": "코스피 하락에 순대외금융자산 2807억달러 급증···'역대 최대'",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90cEhBVU93WU9hamRUVy16RURLenpxRnRYdjdqQUU4d0FxRzJfSW9vWS1HMTFteFBRckp4ZXJvXzIwVl8yOWlZMmhlcWd1N3p5bnJxZmFHNmUwMjdDaC1xNlpoMEN1dGw4Smc?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-11-19T05:40:43+00:00"
     }
   ],
   "asof": {},
