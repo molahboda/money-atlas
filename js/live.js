@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T01:00:07+00:00",
-  "quotesAt": "2026-11-19T01:00:07+00:00",
-  "newsAt": "2026-11-19T01:00:07+00:00",
+  "fetchedAt": "2026-11-19T01:15:07+00:00",
+  "quotesAt": "2026-11-19T01:15:07+00:00",
+  "newsAt": "2026-11-19T01:15:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7323.63,
-    "nikkei": 59524.01,
+    "nikkei": 59599.19,
     "vix": 24.56,
     "krw": 1330.38,
-    "gold": 3755.6,
-    "wti": 81.87,
-    "dxy": 103.79
+    "gold": 3749.1,
+    "wti": 82.14,
+    "dxy": 103.8
   },
   "daily": {
     "spx": -1.25,
     "kospi": 1.99,
-    "nikkei": 0.85,
+    "nikkei": 0.97,
     "krw": -0.2,
-    "dxy": 0.29,
-    "gold": -2.81,
-    "wti": -4.81,
+    "dxy": 0.3,
+    "gold": -2.98,
+    "wti": -4.5,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "코스피, 0.45% 상승 출발…코스닥, 0.83%↑",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VOUI4XzBXNHRxRVk5emFVNUFrbFNaUVZLdThtODc1cGhsT0ZtdTdBVExCMW4wZVJVZ2dsQTBuQm9hZnJTallOd0RKZkxfbFo0MVUxZTJ5cWdEbWtpQ2hJSFU0aDBWX1E?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-19T01:12:00+00:00"
+    },
+    {
+      "t": "디노티시아, AI 검색 반도체 'VDPU' ASIC 구동 첫 공개",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ya2VfS1AwNk8wTmg0MDJtS050V1Z0N2pIUEI2TGs5SUNYa3p5OUlfdENjc1ZiZFl2eUFJTE9XNXJ0RjhZU3ZoUGE0SEtsclhGQWlyQ2Jn?oc=5",
+      "s": "지디넷코리아",
+      "d": "2026-11-19T01:10:02+00:00"
+    },
+    {
+      "t": "코스피, 0.45% 오른 5090…코스닥, 0.83% 상승한 668 개장",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CMmpmSkRkWUVwWXpacW1oV2pLdV9OVzdtOFo0LXdROXA4dEVjUUVtVlhxUjl0TktMQnQwZkVCV3IzYXNNUUJFT1VCQnNMQURMT00teU1zT3BFdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-19T01:03:59+00:00"
+    },
+    {
+      "t": "코스피 0.45% 오른 5090선…코스닥 0.83% 상승",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uWXdPWGl0enBvdkQzOWQtTzNMYllpR1FybFRXZGhvUTVZT1B1TGpTbVBxd0RzVndPejc2X2ZHMXM0UHdNWE90aWVidEE3WnRjaXB1U2p1ZThOUUhBckNoNmduOEF5WjBxNERlUlM3OUFsRVE?oc=5",
+      "s": "마켓인",
+      "d": "2026-11-19T01:03:27+00:00"
+    },
+    {
+      "t": "[속보] 코스피, 0.45% 오른 5090.04 출발",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlJZc2xOWVVJalFUSXFKUkdOcHpVRTBlOXhTNWliZko4Z2xJYnZNUnNkS2ItTnEtZW5aNEFRbDlYVEY2NkltTGgtekQzYlkxUksxMmdrSm9RM3pBZlhzd2U1T21wNTBGaVJhTmdYTWxkTDlreExVOHB1R0JIS1k4TEh6RTJMZG9X0gGcAUFVX3lxTE45dzFoUDBYdkJ2ZmZPODd1dTY5VmtmNkZvSWJHN1RETEhGbzNERkxSdFEzLTIzOVgxTldfX0I0NXI3WVdHSU55aUUtZ3pVR25xaUltenhPNjN1RDlXVEI5cU9XelpwdWJyOG9QZ1hyMUk2Ri1SY2dXdmV1TUZXTnBnLTBocGw0MllIcGhmMlF5WXlha240SVh3THYyUA?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-19T01:02:00+00:00"
+    },
+    {
+      "t": "코스피, 0.45% 오른 5,090.04 출발…수능일 한 시간 늦게 개장",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JWHk1NFpEVWtvTDBpekZNcGVFLWV3M3JxMXZkZ0lsWWJXMG9acVU5SHpNekNEU1h3em9VazhvTGxySzNBQmRWRTg0dGdYa3U5TGFkVTdHMHVYSUJOVUdvWEFHMEswd2l4ZlhfcVE2UnXSAXRBVV95cUxNNm1hemN1N0Y3OEpncHM4SExmZ0ZlUG5yXzNCbUhlUkdfM1dra0hBN0lqWXZmVW1xblQzOE8xMXZvZzhWLTdnQkpXWjJWOG01Rl9YMEVhekRadEg3dlJLVEJJZHo5NUpQQWVpcjM4N3A4ZTdOcw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T01:01:42+00:00"
+    },
     {
       "t": "동일토건, '용인반도체클러스터 동일하이빌 파크밸리 2단지' 661가구 분양",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FTkRIQ2pxUHdwTGJpdU5rdjN0TUFfR19UWjVQbVFJQ0UzdnFES3paNUVWR3VvNFJuM29uMXV3TnZDQjRZaUlXdTktcFdJLVMwQ0ZsSllXeFJJQQ?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTjlGUW9BQzZLUDZJV0Q2aUhEaTlvb0E3Q3F5U3E4bS1iNDJ1N0dvZ3Q1ajNpV1dweFc2ZFkxN3E0OExvS3dtal9qLVhaWnpsUWx3X090c041NlFYZ2ZPX0ZaQ3BDUkU?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-19T00:42:00+00:00"
-    },
-    {
-      "t": "환율 1320원대…연준 긴축 가능성에도 달러-원화 '힘겨루기'",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41Tml3NnJ0ZV93WTEyc3E4YVpkMFhWeG9ma1FJaDdEZjFZRWd5aFBVMmxhV3ZfSU0zWHVIUGlianNtVGI1OGZvTGZueml4MXhqaXk0Wl9vNm5KaXhOVVE?oc=5",
-      "s": "뉴스투데이",
-      "d": "2026-11-19T00:41:00+00:00"
-    },
-    {
-      "t": "[2027 증시전망] 상상인證 \"코스피 상단 7,700P…반도체 역기저 부담\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSGdPeHlDd1FveTBRaEc3VVpqdl8xOWZVbHEwaUdva0FUQ3pibGxvclBFUDI5QmR2MnE2Nmw2YW9XdVZicy1EM25aREJyU2pUaDFscDE5ODJRNUxuZ21Udl9zU2owNTdqbmFwaVJOOWY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T00:40:34+00:00"
-    },
-    {
-      "t": "중고차 수출 원산지 증명 간소화…내년 4월부터 UAE 특혜관세 적용",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrMHVfU2ZGVHIwVnBmc2VkWHgzVEt4SUVaWWxPeGtWVUQxbENub25pd2hKQlBuV0pUS2F6MlFsNkxIT2FqNlV6aEZId1gtWHJBTmF4cXNuN0EtOWczQVNmR29uX2dhcDlaYjZj?oc=5",
-      "s": "해사신문",
-      "d": "2026-11-19T00:40:00+00:00"
-    },
-    {
-      "t": "美 연준, 추가 금리인상에 무게…일부는 12월 '빅스텝' 거론",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GSnc3SlJtckhYWHlXMEtrbG5fbXZLY2NFY3VaMmJiNWM1XzRhYm1MNUpKbWNhbXNuS1NFVnozXzg1aFJtaVhLZEZyYUF3TFRENy1LSkpXUng?oc=5",
-      "s": "우리경제신문",
-      "d": "2026-11-19T00:38:00+00:00"
-    },
-    {
-      "t": "충북도, 네덜란드서 광반도체·반도체 기업 투자유치 전개",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRFRpTUJqNHBqSXpaNlowczFVNFRndG96YXpsNXN4eldNY25PMXRTdnBzZnNzdzZLOGhvM3kzTVBsWmRQM1hsWTlMaERxRWtWTzUyUE5CS29uVWN3RlNIWFY4RGVVaFJVMDFwd2FUR1ZjUQ?oc=5",
-      "s": "굿모닝충청",
-      "d": "2026-11-19T00:33:16+00:00"
-    },
-    {
-      "t": "원·달러 환율, 0.9원 내린 1332.1원",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWM0NXkzNlhycVVELWJXcEpYTHllUzRmWW0xWWZLQmpTanBxeWhteS1YOEpXQ1BDSzJmUXVTT25Cd2poUlhueXhzR2E0NlpSQmJ5VWIzMGF3eWtFaFJfWS1HRlE2eXVpQmd4YjE4MGVIaEhWSWVlSENvNUlWVm5SZzNsOXhIUdIBmgFBVV95cUxOWVJScEozSkdpQ0x1WTBKUEpnZ1hvZmw4MGRPcGVGV0hFNVc4a0FXdTNSSGp3ZnFLVURfUkpEUzczY04xTWs4dWIzQ20tQ1lqLTlxNUNhVGJvUXNkMmlrTlpzQzFaSlBvQXFIc0JoOS1SWlVUWU43dWIwaU5kbEE2bGlpZ09tZGU3VEdJWVYtc2htdndHTzRuckln?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-19T00:33:00+00:00"
     }
   ],
   "asof": {},
