@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T03:00:07+00:00",
-  "quotesAt": "2026-11-19T03:00:07+00:00",
-  "newsAt": "2026-11-19T03:00:07+00:00",
+  "fetchedAt": "2026-11-19T03:15:07+00:00",
+  "quotesAt": "2026-11-19T03:15:07+00:00",
+  "newsAt": "2026-11-19T03:15:07+00:00",
   "quotes": {
-    "kospi": 4987.17,
+    "kospi": 5014.71,
     "spx": 7323.63,
     "nikkei": 59140.87,
     "vix": 24.56,
-    "krw": 1330.08,
-    "gold": 3727.9,
-    "wti": 82.15,
-    "dxy": 103.87
+    "krw": 1331.78,
+    "gold": 3708.6,
+    "wti": 82.03,
+    "dxy": 103.94
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 0.38,
+    "kospi": 0.93,
     "nikkei": 0.2,
-    "krw": -0.22,
-    "dxy": 0.37,
-    "gold": -3.53,
-    "wti": -4.49,
+    "krw": -0.09,
+    "dxy": 0.43,
+    "gold": -4.03,
+    "wti": -4.63,
     "vix": -3.53
   },
   "news": [
     {
-      "t": "이천시 '경기도 K-반도체 초격차 비전 선포식' 참석···반도체 산업 경쟁력 강화 박차",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1seEUtWElzV0FXaUlvSWRyNGlXdTdld0Z5OGdrX2sycmxjenlTYmJKRG11dlFPcXFBdFlMaTk5dDJnTnBaNVpRWUY2OU1mSXpNb29KdFoxelVOSkp2Ny1Reno5eF9KaUtNVkM4X3lmYlA?oc=5",
-      "s": "산경일보",
-      "d": "2026-11-19T02:46:14+00:00"
+      "t": "+27%, +20%, +17%: 연준이 시장을 흔들 때 수혜를 받는 기업들",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HN2V5MjROQnMtWnJtVjVtOXlhcEktNkljQ0NfbDJFaDNJelFaVFRxVEE4dkdkVXJZc3pIZjdkeHJjbFd6UC11N0hkTFl3UDl1cXdlX0cxSkFUdzFCN1JJRUg1WkpvdjFMcGFtbnBHYkQ?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-19T03:08:00+00:00"
+    },
+    {
+      "t": "엔비디아 위기에…MS·오픈AI, 반도체 공급망 다변화 '잰걸음'",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BZUNqRG9CQTd3Zk11WHVXYVNpa20tbWFQNTR0ME5wUC03TlFuZXRzWjVNck5oUlQ4c0pmbEdDRUlJcnJ6dlhLY1J4RVFWOEVheVFfbXFlc205WTjSAWBBVV95cUxPUHZmcVhoUXN4SkhMblBzLXNEdmQwdFlrRW03QTFEZzUxZ3ZId09uVW85eXhFdk54bDVDTkNIY1ptZFVHNENhcXUwU3l1QjdOTTRDLWd1WjZMc2lpSC1CQnQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T03:04:18+00:00"
+    },
+    {
+      "t": "한은 “환율 10% 하락하면 생활비 연 16.5만원 절감… 저소득층에 특히 유리”",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORF9aQVFqRkFPVmktRjNkV1A2WlRwZVlUMF9qNEVUOTgwQURZYWlINkZXYU53enotMVdYNE8wakdHZVltMG14VTIyWHpPcXZHZ2g3c1M5R1BRQWJhbTNwSXpPNDN0RFAxM3p2Y3JrbzNvQ2RHa1N6blEzeGk5bTI5QnYtNGU2d9IBmgFBVV95cUxOTGRCR1lXbmx2eExrdTBWTVZ5TWVaVGRaNmJwRnVJcV9JbmZUdGtKSWwwbTctVHJjZkRCajQybjdlRFJULUlya005TXZnQkEtc3hzakRCLVpEajVYb0FjN1liVGtmN1VTOVpoUDdRQ1RVa1Y2V2FOOENVUkJaMkc3LUh1MGxBckg0R2JLLUhuclUzRUZOWTFscXRn?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-19T03:03:34+00:00"
+    },
+    {
+      "t": "마이크론 메모리반도체 불황 대비해 '방어 전략' 집중, 삼성전자 SK하이닉스와 새 경쟁 국면",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BWUduNW55Q2M2SWFVU3JRNVc2Um8wNmhPQjZtblJqaERhUWlRZ0FKWktWbXg5M2NZbGVZUHdDekpQTm9wNTdMa1pHSXk1eWdkM29OeGdtM1RzYVFqR1NMVXRDQ0VYR0s4Z2pHS211TlhzdUE?oc=5",
+      "s": "비즈니스포스트",
+      "d": "2026-11-19T03:01:32+00:00"
+    },
+    {
+      "t": "원/달러 환율 10% 떨어지면 가구당 생활비 16만원 절감 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iODJhQWZhZkp4eGZRZ0JlX24xdUVEOFFkbzBOVVV5azhYNkFwczFyN3owWDZqTUNvZ3VkYzJOX0NUbHRIOW1PNnZOV0JhZk5YdVNhZ002RXRfZ0h4WndnYzVEOHVFbTlwenJFbklqd0RfMGVRcXotadIBfkFVX3lxTE9LY3RKVWVJaVRtVW1XbUR5cnRpQmhxZFVlMmdULWVvQzlScENFeTJNdHl2YmV6V2JNMC13b2FtUEkzUHZoOThzeHVSajhlTi1Fa1F1RTI1QU9vUkk3RUthTDRCSm1kU09aRUhPUWIzZTRuZkN5NmNkNzc2Q2ZoZw?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-19T03:00:00+00:00"
     },
     {
       "t": "엔비디아 호실적에도 '풀썩'…국내 반도체株 '비실' - 머니투데이",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0YWE0blpPbXVxNmFqTnc0c0hMLXNBcEMyZzRMN0dJLXYtMUU4TlFnV010cHhsTWtnaEpET1FGWHJ4cW9PdGhEMkZvZEM1b1VsaWhqZzhSQWQwTHpDNFVpYnRiSGdSNGVjVGRzZ3lKNA?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-19T02:33:00+00:00"
-    },
-    {
-      "t": "[기자의 눈] 7개로 늘어난 삼성전자 노조…호남 반도체 괜찮나",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1OE1KTGM0ckdRaXVjSTlQVElDWFVvNkhwVTM5NHR6b19BMmRKLW5pMUxNV1dZSG55eFhCRFZLelg4WC1COGwzXy0weEphX3VGbzBZZE5ka2h5ZVNZR3g0VDBDOA?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-11-19T02:22:28+00:00"
-    },
-    {
-      "t": "美 추가 인상 경고에도 10년물 금리는 하락…국고채 시장 엇갈린 신호 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHVzVsMTRvV0lRa19qdXgzbFFKT0VUX05UdmFYS0hUcXZNNHdXc3JuWWZXelJLSFprYUw3RUpvakhzamM0LUV5VG80OEY0NlczTkd4OWY2b3h0RFNYQjRxakVrS1FoLXBZMVdjTE5QWk4?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-19T02:19:00+00:00"
-    },
-    {
-      "t": "[호암 이병철 39주기] 이재용, ’사업보국’ 계승…AI 반도체로 삼성 새 역사 By EBN",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fN3BDWF9xTEpXTURINDNJWnVrS0JPTjBJcDB4dDVmZHNGN0pJbGpqejlYcWY2MnJPUWduMkJ1T1Radk00YWpoRTlVdkpBTHduT3BidW9MX2pRcl9pNW5rZEE2T3lzY0x4Y2VzSW5zN0I?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-19T02:19:00+00:00"
-    },
-    {
-      "t": "삼전 늘리고, 없던 하이닉스 담고…ETF마다 갈린 '반도체 셈법'",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZDVIRDJmNnU4eVVtLUhud2c3R0tuTHg4bkE2eWY2ZzV2Z0xQaDlKNll0UVM5Nm9iN0oxaERITUwycjg3b1N3VkRWdmxCSnJlMGEzeFI2bnFJQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-19T02:18:36+00:00"
     }
   ],
   "asof": {},
