@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T00:30:07+00:00",
-  "quotesAt": "2026-11-19T00:30:07+00:00",
-  "newsAt": "2026-11-19T00:30:07+00:00",
+  "fetchedAt": "2026-11-19T00:45:07+00:00",
+  "quotesAt": "2026-11-19T00:45:07+00:00",
+  "newsAt": "2026-11-19T00:45:07+00:00",
   "quotes": {
     "kospi": 5067.44,
     "spx": 7323.63,
-    "nikkei": 59148.38,
+    "nikkei": 59266.79,
     "vix": 24.56,
-    "krw": 1327.33,
-    "gold": 3742,
-    "wti": 81.93,
+    "krw": 1328.68,
+    "gold": 3746.7,
+    "wti": 81.89,
     "dxy": 103.81
   },
   "daily": {
     "spx": -1.25,
     "kospi": 1.99,
-    "nikkei": 0.21,
-    "krw": -0.43,
+    "nikkei": 0.41,
+    "krw": -0.32,
     "dxy": 0.31,
-    "gold": -3.16,
-    "wti": -4.74,
+    "gold": -3.04,
+    "wti": -4.79,
     "vix": -3.53
   },
   "news": [
     {
-      "t": "\"연준 12월 금리 0.25%p↑…이후 인상 여력은 약화\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fRzZ6ZGxiT2lhdjBrbFJ4X00tdzFmdzlqYldYcGRHdldtMThBX3RULXg0MUV0aDd1dVQtbmIxajVrYVcwTFVMbHpqVEt1SVFMZUU0V0JRcGIwdndCdUE?oc=5",
+      "t": "환율 1320원대…연준 긴축 가능성에도 달러-원화 '힘겨루기'",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41Tml3NnJ0ZV93WTEyc3E4YVpkMFhWeG9ma1FJaDdEZjFZRWd5aFBVMmxhV3ZfSU0zWHVIUGlianNtVGI1OGZvTGZueml4MXhqaXk0Wl9vNm5KaXhOVVE?oc=5",
       "s": "뉴스투데이",
-      "d": "2026-11-19T00:26:00+00:00"
+      "d": "2026-11-19T00:41:00+00:00"
+    },
+    {
+      "t": "달러 19개월 만에 최고·금값 14개월 만에 최저…연준 매파 합창",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTDR2VDZVQXRhRURaR0t3RTcxMmpzU2hOcEFsc3FKOXBUaXVrTXlOS25ZQmwzVmpzMmlDb0FrZkdyc3ZfTzQ3c2FzNldpYk10dXBFaUdFZ3NzZUw2anh5WVFiS0Q0bnExWEZMSUZDOVlwSFE?oc=5",
+      "s": "마켓인",
+      "d": "2026-11-19T00:40:45+00:00"
+    },
+    {
+      "t": "美 연준, 추가 금리인상에 무게…일부는 12월 '빅스텝' 거론",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GSnc3SlJtckhYWHlXMEtrbG5fbXZLY2NFY3VaMmJiNWM1XzRhYm1MNUpKbWNhbXNuS1NFVnozXzg1aFJtaVhLZEZyYUF3TFRENy1LSkpXUng?oc=5",
+      "s": "우리경제신문",
+      "d": "2026-11-19T00:38:00+00:00"
+    },
+    {
+      "t": "충북도, 네덜란드서 광반도체·반도체 기업 투자유치 전개",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRFRpTUJqNHBqSXpaNlowczFVNFRndG96YXpsNXN4eldNY25PMXRTdnBzZnNzdzZLOGhvM3kzTVBsWmRQM1hsWTlMaERxRWtWTzUyUE5CS29uVWN3RlNIWFY4RGVVaFJVMDFwd2FUR1ZjUQ?oc=5",
+      "s": "굿모닝충청",
+      "d": "2026-11-19T00:33:16+00:00"
+    },
+    {
+      "t": "원·달러 환율, 0.9원 내린 1332.1원",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWM0NXkzNlhycVVELWJXcEpYTHllUzRmWW0xWWZLQmpTanBxeWhteS1YOEpXQ1BDSzJmUXVTT25Cd2poUlhueXhzR2E0NlpSQmJ5VWIzMGF3eWtFaFJfWS1HRlE2eXVpQmd4YjE4MGVIaEhWSWVlSENvNUlWVm5SZzNsOXhIUdIBmgFBVV95cUxOWVJScEozSkdpQ0x1WTBKUEpnZ1hvZmw4MGRPcGVGV0hFNVc4a0FXdTNSSGp3ZnFLVURfUkpEUzczY04xTWs4dWIzQ20tQ1lqLTlxNUNhVGJvUXNkMmlrTlpzQzFaSlBvQXFIc0JoOS1SWlVUWU43dWIwaU5kbEE2bGlpZ09tZGU3VEdJWVYtc2htdndHTzRuckln?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-19T00:33:00+00:00"
+    },
+    {
+      "t": "美 중간선거 이후에도 관세 기조 유지…“세관 집행 강화 대비해야”",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MGFPTXI0LUpZSmxfSDdxeE04enF0cFBpVWtfM1RGV2JBbGhERGxJNlBqSzlaUWZpdzlJRUVKZjdwZ2JoeXItTzNZNDhSdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-19T00:32:28+00:00"
+    },
+    {
+      "t": "수능일 국내 증시 오전 10시 개장…정규시장 '오전 10시~오후 4시 30분'",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RRVd5ODZWNDYzZDVmQ2tSaHFRdC1fbHhSRWk1VTNISHNQeFpiZ3l3NW5rSmdNYjk3WTJFQ3BYcXN2ZUhobklQQzUwWUxmWDRuWUJ1QUpoRkVhQlh6Nl9VNEI3RU1DYVNCUlIxZDgyLTBmQQ?oc=5",
+      "s": "인더스트리뉴스",
+      "d": "2026-11-19T00:30:46+00:00"
     },
     {
       "t": "금융지주, 연말 증시에 ’제한적 기술적 반등’ 전망",
@@ -37,52 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-19T00:25:00+00:00"
     },
     {
+      "t": "[외환] 매파 FOMC에도 강한 원화…1,320원대 후반으로 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMGR2MGU3MzQ4VE5kV0FBUUhSbTBxVHgxTnJNYXZfbTlsc3RFZUlEOFFwd2VBYVZxbHZ1b0gyV3ptZ1FQVzdmdk16MkxyQ2RzNU1WT0hJUml6cXhJSFByQVRDb1ZneTNxQ19NRXpFNEZHZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-19T00:23:29+00:00"
+    },
+    {
       "t": "뉴욕증시, 연준 추가 금리인상 우려에 혼조…다우 561P 하락",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xdnlSXzhDVlVzNU9vYzFXcEVUOUxDd0xnTFAzcHJMUG05dWJjVTlDYS1DaTlmSzRqazRUS19jOHlBRldHWlR3dVd2UXJTMTkzUFBKelhRNVY?oc=5",
       "s": "우리경제신문",
       "d": "2026-11-19T00:22:09+00:00"
-    },
-    {
-      "t": "광주도시공사, 호남권반도체에 달라지는 생활 '홍보'",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14bFJsejZRM1F2MlNVa002czRZSEV0cnhXdG1Gc2I3RFRwcUt3NkRwZTF1RkpUMlF5LV9yUGhuallYMVh5MWlLdWU2VWQwVzk0cFZIdUVpOWNET0pXbkJ3LTR5Wk9zeXd2bUpqZQ?oc=5",
-      "s": "광주in",
-      "d": "2026-11-19T00:18:05+00:00"
-    },
-    {
-      "t": "코스피 40% 빠질 때 88% 뛴 코스맥스…”여름 비수기도 없었다\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CRzJ5ZG9Kd3RrbXlraHNCNW1hLWE5SDA2d29tcEcwLU1EN3d0Z0E1SmFQOE4yVm92dDNocE94eEY4eFVJbzdqTjNWdjF1d2kzRDQzZl91UkE3Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-19T00:17:29+00:00"
-    },
-    {
-      "t": "코스피, 삼전닉스 독주속 누적 매출 3천조…3분기 실적둔화",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TjB5TnE5VGhELWxjY1BRWjQyb2RYaGJHTDJuUWprR2QzeHRpQW9iZjFOcEh1WU9wNS15cE9Cc0hOcHhlTkRiMlhTWUg5ZlAwbkpQT2JsNF9oTlJXX2M4cnkxS001OU9oV1EydQ?oc=5",
-      "s": "세무사신문",
-      "d": "2026-11-19T00:16:23+00:00"
-    },
-    {
-      "t": "유진證 \"메모리 담합 소송 패소 가능성↓…반도체 투자 지속\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kUGVQdkY1enRMbWFONk53M2EtZkdSZGFfd0tIVTF2d0NUMEVjUHJPSXM3eEU3a2NYRGZPSzlERll0RU5FbFVxQmdEc0NjU3lwY2FVcThCeFZ6Y0JQRjRKRjZma291bEtpOTVHNy1jT1U?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T00:16:01+00:00"
-    },
-    {
-      "t": "수능일 국내 증시 오전 10시 개장…거래시간 1시간씩 늦춰",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rNGU1a3pIQjNHU2t0NlZFd3M1cUtNekdRR3V0TUtFQWU5dnFBcW9VbWtpTzZGem1XQXExUnR0VkhIeGRjQi1pTHFLUTN4eVhmUlBnOVNGSHRxamxXQmN1cjJfVVA?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-11-19T00:15:23+00:00"
-    },
-    {
-      "t": "오늘 증시·은행 모두 10시 시작…프리마켓은 쉬어요",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8weTlUMEFzWkNUT2RCRF83a0tjOGlRZnp3Vm1uU1lKbVliSUwxbVZmcGt3cElRbnFXZXRmbkk2eVJlN2dXTlczQTRRY25LTXdESjUwOFN0VlNjdGpUQWVwbC1QRzktejZYTVM0OTFuOWdiZkJn?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-19T00:10:00+00:00"
-    },
-    {
-      "t": "수능날엔 주가 떨어진다?…10년치 코스피 성적표 살펴보니",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrR2Z3T3doYkpoNHp5WlJTV3lMN3R3SGMwZ2p6T2dmWGtSQl9fSkxpa3J4MGdmanB6MjlBRkZ2VjFFdEh5STJUbnY0NjgzZU52a1FoRm5rTm1Xdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-19T00:08:44+00:00"
     }
   ],
   "asof": {},
