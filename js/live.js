@@ -1,34 +1,64 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-18T23:45:07+00:00",
-  "quotesAt": "2026-11-18T23:45:07+00:00",
-  "newsAt": "2026-11-18T23:45:07+00:00",
+  "fetchedAt": "2026-11-19T00:00:08+00:00",
+  "quotesAt": "2026-11-19T00:00:08+00:00",
+  "newsAt": "2026-11-19T00:00:08+00:00",
   "quotes": {
     "kospi": 5067.44,
-    "spx": 7303.98,
+    "spx": 7323.63,
     "nikkei": 59024.28,
     "vix": 24.56,
-    "krw": 1332.15,
-    "gold": 3742.5,
-    "wti": 82.12,
+    "krw": 1332.85,
+    "gold": 3742.9,
+    "wti": 82.02,
     "dxy": 103.81
   },
   "daily": {
-    "spx": -1.52,
-    "kospi": -0.65,
+    "spx": -1.25,
+    "kospi": 1.99,
     "nikkei": 0.28,
-    "krw": -0.26,
+    "krw": -0.14,
     "dxy": 0.31,
-    "gold": -3.15,
-    "wti": -4.52,
+    "gold": -3.14,
+    "wti": -4.64,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "수능일 국내 증시 오전 10시 개장…거래시간 1시간씩 순연",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CRVdsS3lZdW5BbjlpRnlBdnVnb04zaVhRbDRvODVyQ3lKaHp0eE93N2xrRXJFNmlIM05pLWo0aXF1NFdCZjRSWVl2T2VvMG5xYmEtVjN0TzF2bmk2Wmo4LVBYMkc?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-18T23:55:54+00:00"
+    },
+    {
+      "t": "[모닝 리포트] 달러/원 환율 1330원대 중반 등락 전망…수출 네고가 강달러 압력 완화",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JU2xVc1VOR1NDVVJSM2pnTER0anhKRjIwRHBjTlo0NW1lQm5LUmR1aDZpeGtkZkdGdUtFbUNVWEZDTkk2QkNGaWtDZEtydW1IOThxRVBvb0NVMERn?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-18T23:54:00+00:00"
+    },
+    {
+      "t": "이병철이 만든 삼성 경영의 틀…인재·반도체·비서실 39년의 유산",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWMUtWNWFyZW9udnc5T0NGQ0NXV3VQQjNzVk43RWwzVGlaRlNZMlBRQ0UzTktzbzZFX1BTOHB2VFBHMl85RHRGcWY1NUdvMWVyQkhkN2htUWM?oc=5",
+      "s": "더트래커",
+      "d": "2026-11-18T23:50:22+00:00"
+    },
+    {
+      "t": "연준, 추가 금리인상에 무게…일부 위원 '빅스텝' 가능성도 열어둬",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cTNYMVVnVDl0aXhlYkVLeFR4ZmtVc1lBSW5rLU0zay13NlFvOHZRdHNDLVZMaXlVeUNOaU1qX0d3NlRfNTNwdU5MOWo2WXdnY3NZc3NPdzlkT29SZk02azdDZXhqTjcy?oc=5",
+      "s": "www.ebn.co.kr",
+      "d": "2026-11-18T23:43:53+00:00"
+    },
     {
       "t": "[증시 포인트] 업종별 차별화 장세 전망...외국인 매도 완화 여부 주목",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSQlZwMWhFLVRPdHNLNThpYXR5NjM4cW56VmJsenZLeWNjQXhJOTN2R1RpVXRTV2t5LVlHMklrTlFBVm5tWHBTOHZSNEF5Ni1lWlAwb25hUXFpc3QwTU5jZXQ1cGZWc3JKNU9jb0lhQ0t0QQ?oc=5",
       "s": "오피니언뉴스",
       "d": "2026-11-18T23:39:40+00:00"
+    },
+    {
+      "t": "영남이공대 반도체 기업 현장 탐방으로 고교생 취업 경쟁력 강화",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMHZkNDlicE9pQjVmem1ValhiUTNHeUx6SmNRZFBPSnM5WW4tbHJ6akVGb1NoMTJMaklWSFhpRWtjOW1BNENHWmJoVVFpVDJaSjZIUzU3QmVVOVdLQVZ4U3FGY1pqTzVFM1ljRQ?oc=5",
+      "s": "베리타스알파",
+      "d": "2026-11-18T23:38:42+00:00"
     },
     {
       "t": "[해외시황] 뉴욕증시, 엔비디아 호실적에도 '혼조'…나스닥 0.42%↑",
@@ -49,40 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-18T23:34:00+00:00"
     },
     {
-      "t": "국채선물, 유가 하락 속 상승…10년물 10틱↑",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15M3E2cTN4NlZ1VEhhQ3ZjVGlzQU5URHpxY2hNYUdsd3V6VmNhR3lKeGs1RmJPWkxKN2dZZmxmOGRGR0RlZ1IzZ1VYeTZIN1RubHBOUllMcUE5a1JPXzBKYkIxM1V2aHExdnZfekxxQU0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-18T23:32:42+00:00"
-    },
-    {
-      "t": "두산퓨얼셀·대덕전자·효성 코스피200 편입…내달 11일 반영",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtdDNBMUFpMmtiemMwakJDck9EZ2k2MGQ0U0xaYjA3TlpFcDlKNzBjNG55Vnh3Z3ZJQW1XM0NkLVRYVXhaTHY5UkpJbnFSUG1nOEhKcFBpaXN2b1hzVG92eHk2U1E?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-18T23:31:05+00:00"
-    },
-    {
-      "t": "[오늘의 증권가 콜]中 노선 호재 항공 '맑음'…이차전지·반도체 소재 ‘흐림’",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Qllyd21oVkcySVhnc3NzdkJ6QkNXZUNZNHZWcHpLSHhSNU9MbVFOQWhYazlBRzllZko1UmoxSmJuMnQ3R3BYdWxaX1VqdXpDWVEzWXZUaG1Jdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-18T23:30:51+00:00"
-    },
-    {
-      "t": "[1119개장체크] 美 증시, 엔비디아 호실적에도 연준 추가 금리 인상 경계에 혼조",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tWDRMNkoza002NzRIX0wteGJUOTNCeHpQU1V6aTlPYUc3b0dDZ0ZYQkhjZ3hWaUhtX2xiUnhQQ3ZHV1p1Z2JTdjZQNVhkcmxrSWJteEpzbzVKRzZ3bjhTRnBiQmlzNWRtbW55azFZeFZ0TGZQd2c?oc=5",
-      "s": "인포스탁데일리",
-      "d": "2026-11-18T23:29:01+00:00"
-    },
-    {
-      "t": "[마켓라이브]11월 19일 증시",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtbnFqeWhOM0l2QjlWYTJweG9WdkV2VUJfUkFCX1Vidk5wMlg1QS02bFFxWkN2dEktS2Y3LXlteXhWOHpDaTdxTnR0bExtbC1xakNtZ0lzM0s5QQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-18T23:28:48+00:00"
-    },
-    {
-      "t": "수능일 오늘, 증시 1시간 늦게 개장...오전 10시~오후 4시30분",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBudDkzYjd2dTRicVRiVDdKY296R2NvMlQyaWRGcGlybGZEamg3Si1OSVZjSzNQZWtGZ3lpel9udEg4TFdmcXhuY0RwODNzcThUcjBmY1BjRWQyRjFr?oc=5",
-      "s": "티제이비",
-      "d": "2026-11-18T23:27:19+00:00"
+      "t": "DS증권 \"한솔케미칼 환율 하락 탓 실적 부진…목표가 하향\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45eF8wMWMyS1ZNUndyR3dUSENsVDRFX2lJaUNCRGRVNWJQd1VIMXkzVW9BZW8wbHlaOVNfOGJ4LTZuX21EOG44aFZGSGVzRTZ3ejR0NzVYcHJ6aVHSAWBBVV95cUxNLTBkc2VLMWZ6VGI2N3Y4V1ZDcEp4NWowSTIyMjNMNEpCMnhoTUdweTl0bmttMkFueE11bHJObVZQZ05SZEstN25YbXRrOTJveEU3QlA1ejBIYnl0N0lIc1Y?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-18T23:33:09+00:00"
     }
   ],
   "asof": {},
