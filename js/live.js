@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T01:45:08+00:00",
-  "quotesAt": "2026-11-19T01:45:08+00:00",
-  "newsAt": "2026-11-19T01:45:08+00:00",
+  "fetchedAt": "2026-11-19T02:00:07+00:00",
+  "quotesAt": "2026-11-19T02:00:07+00:00",
+  "newsAt": "2026-11-19T02:00:07+00:00",
   "quotes": {
-    "kospi": 5005.38,
+    "kospi": 4986.73,
     "spx": 7323.63,
-    "nikkei": 58987.11,
+    "nikkei": 59077.05,
     "vix": 24.56,
-    "krw": 1330.94,
-    "gold": 3740.5,
-    "wti": 82.44,
-    "dxy": 103.8
+    "krw": 1331.58,
+    "gold": 3754.7,
+    "wti": 82.7,
+    "dxy": 103.82
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 0.74,
-    "nikkei": -0.06,
-    "krw": -0.16,
-    "dxy": 0.3,
-    "gold": -3.2,
-    "wti": -4.15,
+    "kospi": 0.37,
+    "nikkei": 0.09,
+    "krw": -0.11,
+    "dxy": 0.32,
+    "gold": -2.83,
+    "wti": -3.85,
     "vix": -3.53
   },
   "news": [
     {
-      "t": "[특징주] 국제 유가 하락에… 정유株, 장 초반 일제히 약세",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjBfazhGQjVoQnBqNGxyaFRQMW52NlZPNF9sZ1lmeHRfWmNIYTJsRVVJQmlJLWJDZ3F1ejQyRnoyY1RTR2I1UmtxMXNqV2hIQmFhZHNkTTBROTIyU2tpSUFDUFJuTTlVRTNTbjhlc0ZPQUcwZ0NQMDBQcE9zdGx3Zi1fZzRFWldq0gGcAUFVX3lxTE1FRGFkSVJBMG94bklJQ01mOFdhdHVhX28td19iYzVhTUkzcFptQWdlaTcxMmVkZ0s4MFRhRU9ZOHVHcTZjSzM2NGxsMGhTUEhROEFzN05vbTlLc0NJQm9QSmh4RmVnNXFYRVJsSUlYMGRMZjhUdHRSdEhDUnk4NlBZcE5mczMxWk52cVFNLXQ0MUlMSjRXc0lmc0tmcw?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-19T01:40:00+00:00"
+      "t": "코스피, 상승 출발 후 1%대 하락…하루 만에 5천선 재붕괴",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwblRCeXFSY1ZYOWVOSGhRdEtCMzRiWGZJQ3lFM2FSRThzdFNFdjRScVdSM2hId0V3SktRalNLbWlEWWJpaC1xTWlubE40OGoyT2JIdmJJRjkzbFVnaDlCUmhLeWlGWnRJaXhwaXljNVTSAXRBVV95cUxPNHNnbTJZM29ZUUdOZ0xtSHZMSnFOczhzOHRIYTJaQnBRaU1vak9xdS02LUJneXZVdWk4bUNRbE9VNGVCaXNwU2dLaWphSnJEWEc1eGQwcGxEbnhiZ21zajZHdWs4TnQydUNjcGJ2VV9vczg2Uw?oc=5",
+      "s": "산경투데이",
+      "d": "2026-11-19T01:55:55+00:00"
     },
     {
-      "t": "韓, 中 봉강에 최대 27.96% 잠정 반덤핑관세 부과 추진",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52cUZYT3JzTGhBaU13cmlXYWFtdDJ3MXZtVzhIUUQxdExDVDVKNFd0TVFDQVI0dHFWYkl3UnJaMnZoMmJFb1RCU3Vmak9YaW5HQ25WOWczeU9Wb21DeXFwRVVMRHVqT3B2VzM5Yg?oc=5",
-      "s": "페로타임즈",
-      "d": "2026-11-19T01:37:35+00:00"
+      "t": "반도체 고장 원인 '전기이동', 탄소 소재 성장에 활용",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92aDBXQWZHeEtOTTNPVEJHSUhLdlhBSGl0eHFtR2tBYlN1RGxXaFQzR1pobnZORzBBSTRzN05FX010QVZWLXBKMmh2dXNyWVQwQm9KUw?oc=5",
+      "s": "DongA Science",
+      "d": "2026-11-19T01:53:00+00:00"
     },
     {
-      "t": "[금융이슈] 美 연준, 다시 금리 올리나…12월 빅스텝 공포에 세계 금융시장 긴장",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4taF9wRFVRQUwxUThTa3VFVzAtM0wyeTF6V3NNTVR1RjNNbkJvSFF5S1hiZHpWSVhzd01HRk92Zm52SGJYUkw5X1JfQ2k3Q2ZxalBVb01JUEdaWURPeDEw?oc=5",
-      "s": "CEONEWS",
-      "d": "2026-11-19T01:37:00+00:00"
+      "t": "코스피 장중 5000포인트 하회...반도체 불안감에 외국인 순매도",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fSjZSTmVHT0RHUTV6TnFsRFNkOHBhYkdiNlRmdlpYOHBzaUNQMS1YclhFZ2Z0NGJyZEFEdW9oOXY4cEdXR0FfZ2Rza25IaFZaV2pyQjB6VEtncHY4TWFBejJLUWxVVElvUVJya0dWSFlIUQ?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-11-19T01:51:08+00:00"
     },
     {
-      "t": "코스피, 낙폭 확대해 1%대 하락…수능일 한 시간 늦게 개장",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Nk9zQU54bUd4bXdoN2lDQTRnV0E2djVjamhkdmZMS3FIeHRYOUhyb2dLX0VBTS1rcmJ4UGw5T2FmdUp4YVVNVXJiVGVXSFVaX1ZhWkw5WGsyS1p3XzgzSFI3TENYeWdJeUFoMGZrOHQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T01:35:25+00:00"
+      "t": "日 자동차 7사 영업익 ⅓은 엔저 덕…환율 빼면 감익",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fWEFQdU9wUkh1XzIxMF9lZnhKWlN2dVFqVElUWmxQcjgzZThFUUplOXRROFhhcmN2SGRCUW40aThtM1BXczR2c2NfU0pkdjFUR3M3THB0UERqSm5UVURXVmJXWVhpdzg4TTRxenBIVmhFQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-19T01:51:05+00:00"
     },
     {
-      "t": "[포토] 다시 5000선 아래로 떨어진 코스피",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQ21XQ2FiVDZ3dTRtYVR4bkszTEdHQ3FlSXMxa1ZCOGlnZGd2dS1QRVZfR29GamZ4Rlp4WHFmNFdwVVBkWC1ZUzh6N1VDYkdleTRSX0VLWHdmQVFtNnhxdQ?oc=5",
+      "t": "[뉴욕 인사이트] 엔비디아 실적 호조에도 차익실현…연준 긴축 우려 속 뉴욕증시 혼조 마감 (영상)",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQk9aeGthajc4a01IMzNFVFBGck9lY2duVnQ3Y0l5Wmp0UnJnSlptYkFYdVFMYmFSU1BDQ01lM2xpNjZFQmIybWdDRUlpWFRsb05aaEVocFdfS3B5ZTJ6aw?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-19T01:51:00+00:00"
+    },
+    {
+      "t": "코스피, 외국인 매수에 5090선 회복…코스닥도 상승 By EBN",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54QVJPcmhHT1hCTXpYMG5tTDRrZUlMbGNxblA1TV9fQ25rOEZZWlM2b0JXLUFnQi03M1ZJRkhnRW5iRTQxakllTk03WkVsYzZmRDRhVXdvbVNhVDBEMzBRSVpfbUYtbk9DSnBrSTBoUDc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-19T01:49:00+00:00"
+    },
+    {
+      "t": "코스피, 상승 출발 후 1%대 하락 전환...외국인 5거래일 연속 순매도",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FeGdFb0FfNEppeUZDYmlTUEVydFBKUXN1RXZLU0hWbFdQUW9aNzlTalZGQ3FtUWtKdmZOSjhVWUFVX3pzZGN2NVpqX3N0MmVLSnRoWXl4NW14N0taQ2tLeUNzQ1BHQkk?oc=5",
+      "s": "M이코노미뉴스",
+      "d": "2026-11-19T01:45:52+00:00"
+    },
+    {
+      "t": "[정성희의 자주시론] 반도체 호황에 가려진 한국경제의 구조적 불균형",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQWFySWxpRENpRzdLdWI1ZW5DYWV0eHdlMGJyMElUSjBqRy0tWk5pcmJSRGNsbERxT0M0ZGI4aEJONV9qbW5zMmhFRkFDY054VEM3dGFfSXozMHBoMFRKOXlQQXVETGdYXzBjVW13?oc=5",
+      "s": "미디어피아",
+      "d": "2026-11-19T01:45:38+00:00"
+    },
+    {
+      "t": "코스피, 기관‧외국인 매도에 장중 5000선 내줘",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1YTJrUGFDTFB0OVdiOGc5OS16a0JNaENldkFOMTRYNWZoMXBwUDU1TTRxSmE5YVhXZDFKak43X3BtR2VHTjdFeldZMHNvSXptLTdRQXpLeHZWeW1acVNvT1BR?oc=5",
       "s": "아시아경제",
-      "d": "2026-11-19T01:33:09+00:00"
+      "d": "2026-11-19T01:44:00+00:00"
     },
     {
-      "t": "월러 연준 이사 “물가 잡으려면 시장에 충격 필요”…빅스텝 시사",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZYmR1eHJzNjB6alNmMTJwRnFldl9pSHFUbUZZYktuY2szS2JuUDFJalpvNGNaTDB4N0tETjZhaHlidTVWSDdXWjJWQjktSTR2N1pxM3duYVNRQ1NGbjR3bFRZbTBPYWR1VVhPc1o1WFk5SzTSAWZBVV95cUxOazJ2THI5aWV4MUxOVGxiTUVJc3JES3dpXzBrZlhraTVJeGVXT1RPOEs0OU9xRzZpOEZINGZ2RGw2THdaaU5aMmFRUDEwbnF0cVZhOTVRcHNvRlNBRVlEUVowazJnVGc?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-19T01:29:15+00:00"
-    },
-    {
-      "t": "美 증시 혼조세에…코스피 장초반 보합권에서 '오락가락' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNQXJwb0xXXzJvQzJaVnozTWN1QnRVa0gwTjlCU3FXektiUmc4Z3QzQTVlX3VFV0JPcDRPSkVaTzhFMWJ5Q0pVeWZqd2syLVo1ZHFWRHJ6eWRqanZsRnJUdkpzNWRfSkpI0gFuQVVfeXFMTjdSb04xOE1qRDNhclUxanV2M19kLUpTQUlQRXFBemt0bXluNFdhV051OG5kX2I4V01QSEtPVFBSeExTYzRHaHNWUHQ2OWw5OENhUGJNOHpVblpIcjFoeWU4ajFUS3JXZjloSE5McXc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-19T01:28:52+00:00"
-    },
-    {
-      "t": "코스피, 美 증시 혼조 속 장 초반 5060선 등락···삼전·닉스 엇갈려",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSmw0Wm1zV0FfUFJDbVBiOGtDcE5BM1dBSFVvZ2hvNFdwWGt6Z2VKY3E0RTlaOXd1QUxFcFJ2SWdhSkRIVkQtcjVTYXRyWHdDXzhZeHhpc25jM2s2dlJkQWxJX3NLd1Zxbmc?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-11-19T01:27:54+00:00"
-    },
-    {
-      "t": "'매파 금통위 예상되는데'…IRS에 녹아있는 금리 전망은 요지부동",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zc2lQN2pTeWlwOHRsZW5TRE5nR0tjX0VFRmNHX2owSzlyRlRSWkZrdEtTUTAwZHVSQUJibzhBOThoSmlvemxZeFJZQ2tqQ3R5elZEc20wMEtPOFlnVFplc0VfU2h3bGN4dTQwTHpJejY?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-19T01:26:43+00:00"
-    },
-    {
-      "t": "'코스피 5090선 출발'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWXNMcGZ0UmhrOThGdmNzMmRucllEYU1uYXk3X0RIaGRoVkQ3VHZueXpGVUJETVZLR1dEb2VaVFFaZ212WGpiNE9jOGdYRHJoWl9YNC1PaV9KWERw?oc=5",
+      "t": "코스피·코스닥 동반 상승",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FUlhzZTJzb1Vfell6YksxMWJMXzU4NF8xNE82R1dFQW4tMERWQ195VlpiNUVHTUJjbFQxUmZYVjZEVkdPOURvem5JaEpiUHFkSGZfTjlZQVJsOU50?oc=5",
       "s": "뉴스핌",
-      "d": "2026-11-19T01:24:00+00:00"
+      "d": "2026-11-19T01:43:00+00:00"
     }
   ],
   "asof": {},
