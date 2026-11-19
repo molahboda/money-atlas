@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T04:30:07+00:00",
-  "quotesAt": "2026-11-19T04:30:07+00:00",
-  "newsAt": "2026-11-19T04:30:07+00:00",
+  "fetchedAt": "2026-11-19T04:45:07+00:00",
+  "quotesAt": "2026-11-19T04:45:07+00:00",
+  "newsAt": "2026-11-19T04:45:07+00:00",
   "quotes": {
-    "kospi": 5097.63,
+    "kospi": 5086.61,
     "spx": 7323.63,
-    "nikkei": 59424.16,
+    "nikkei": 59442.31,
     "vix": 24.56,
-    "krw": 1331.67,
-    "gold": 3725.7,
-    "wti": 82.18,
-    "dxy": 103.93
+    "krw": 1331.48,
+    "gold": 3726.7,
+    "wti": 82.09,
+    "dxy": 103.92
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 2.6,
-    "nikkei": 0.68,
-    "krw": -0.1,
-    "dxy": 0.42,
-    "gold": -3.58,
-    "wti": -4.45,
+    "kospi": 2.38,
+    "nikkei": 0.71,
+    "krw": -0.11,
+    "dxy": 0.41,
+    "gold": -3.56,
+    "wti": -4.56,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "이천시, K-반도체 초격차 경쟁력 강화 나서",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tSlgzTlFUMm0zM0pJNGRsTE1URG9mWUhpR3Rqb2F0eWtkQmkwSDNYbGh2TFJHRHNiNFdpcUZnSXBZbXdfcEphaU1TRXlBMzdpdlNXN3VBbE9nNTFOSmczcldMTzA?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-19T04:31:36+00:00"
+    },
+    {
+      "t": "美 금리 인상 전망 힘 실려…'R의 공포' 또 무사히 넘길까 [분석+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84UXExV0N4WG5DdHRyWVJTQUhISDh2WmFxVTh0Yk1mQktTaTR5Wjl1VjhpazdGVlk4RkRFa2NmaFU0cVJYQlQ2THZnUHlxeUs1aEJ5bzZCbG1iUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-19T04:30:04+00:00"
+    },
+    {
+      "t": "3분기 순대외금융자산 2807억달러 급증…코스피 하락 영향",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abVJIOEtfS1J6cms3S0hWVDFjLTFPdDRBa0l4a3ltN3JNVEFiYVE3WEJmSjNwbXhvRVVrVFppdEU0UzRacnp2WURlVTJ5d282d2xOMDdqVFU5NVZHWnZ0TXJTaWJWeXJZTnlNMVVQZ9IBc0FVX3lxTFBOeTBCbmRjU1pWN1dZaTZQZGd1dGcwYzNEb1VKU2xkemtlWVllMzliQ200dFZxUjZsdk4zY2YyUkpNSkdEMUx4QWpjS0twZ0E0OGRGX0V6dUV5OHJyMzhmYjFpV0NGQjJRLW1nSlB2RkNyaDQ?oc=5",
+      "s": "뉴스웍스",
+      "d": "2026-11-19T04:25:45+00:00"
+    },
     {
       "t": "글로벌테크놀로지, '딥테크혁신' 중기부 장관표창",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwS0pZUVZhUHFCWmJhTFhqZEl3c3F2dTl6ZlQxVzc3OTVybG5DNVFhR1hwRkNsckVBdUxFRlczenhyZk9UN0lFSVZzX3BaNE1XbTJYcFBVaHhUWEQ5eUoycHB0QTVQZw?oc=5",
@@ -43,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-11-19T04:20:00+00:00"
     },
     {
+      "t": "삼성전자 AI 반도체 증설에 협력사 노동자 과로·안전 '위협'",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTElqYmp3bXd6UXBaWXZEUGJ5LW9pbDVWWjZIX3NCUGZNRU04VG5GNHotNzBhcDlSaXFvc0ZLRXJ5X0lvOTg4WjNtOVRoVmZYbjJfXzVqdW1BMWo4ZjBPQ2V6NHdQTHVYcW1Oci1NY9IBc0FVX3lxTE00bGxMQmhDQ3l6M21tenVodGVoSlRQWEpVY1psYmIzS0FLYm1LT1h4MFc2OWRLZVo0cHJTSHM1a2dKZ2IxWlVObjNMd1I4M0ZVMDM5MW1VRHdwZlZBUTc1WEJiRGJRWmxRcVBYX0dOLUNPOVk?oc=5",
+      "s": "세이프타임즈",
+      "d": "2026-11-19T04:19:19+00:00"
+    },
+    {
       "t": "[실적+] 미래컴퍼니, 디스플 다시 뜨고 반도체 더 날았다…'횡적확장 성공'",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0bkFULUJIbGlDcy1RdmtxQ2UxNTA3WDIzVTZiX2xfV0J3VXB0b3N0MHNwZ1JlLVpadVNoWDVlLWZxS3g4QzJScjFtN2hJU05ZVnFHS1kycGMxaEZNRnNNLThkai1wa1hm?oc=5",
       "s": "녹색경제신문",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNTXhkMHVIb01QWGVPOXNxd2VZc3M2c0x3dHZROTRkU0U5QXdXakZuQy1GeXRWdF91Ym9FRzVuVjVaMkpJZTZDN3FxVDNZQnJxVDVIcEpibGs4Rl9qTEFueEZqb1Z3ck1SQjVyZkJQQmY?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-19T04:14:07+00:00"
-    },
-    {
-      "t": "[환율 전망] KRW: Power Overwhelming",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WcU1TbndIWkFVV2lLZEp0a3RSQkFFb2U2dkNkZ2g0dWpjeC1rM0JGNW5wWW5Td2dCZF8tZUZzZzRjVFVrSEt3Y0VwWldRazA3Z2hoVVZkVzRXTmlNaFJKRQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-19T04:11:39+00:00"
-    },
-    {
-      "t": "[테마시황]한·중 FTA 타결에 중국 소비주 강세…유가 급락에 정유·LPG 약세",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6eGM4ZVp4ZG81ek10QUkxeF9oM2dqdGdFNmk1VEowSE92N1VhZ0FtUWk5OE1pb2JZNXAyNEwwcGZyVFlDbm5WbmxRcHY2dkRHcVZPUU1abmw3STN4QU9jU3lYbG9ZZDRLNWViM2xoNUd0N1FaLVE?oc=5",
-      "s": "인포스탁데일리",
-      "d": "2026-11-19T04:10:16+00:00"
-    },
-    {
-      "t": "환율 하락에 생활비·기업 원가 부담 완화…양극화도 누그러질까",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85WG5fUDBhR0FFTUFVc0FDTjdmUzJRajlqM2pPN2NkRFNicExWZGZtUDhlaGN6OE5nMmowLS1TRlgwbmxkNW5EQm9XZzRHdTluVkc3d2wwd1c4VEo1UXhBRnh3Y01BTUNlLVBSN2JtSQ?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-19T04:01:59+00:00"
-    },
-    {
-      "t": "연말 증시 반등 기대 낮춘 금융지주들 “완만한 바닥 다지기”",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vNlpKV2I0RzFDSTJudExsbWlvMHZra3JqVVZ3ZkUtRXNzeV9xMFRiSU95bnRCQ1hudkdjN1V0djlrOVBSLXF3X09WbWVwVlRzajJ5Z1d6TFhlQWZ0MF9iNUtvN0ZRajhpMXdKcjZIZjh3VlI3?oc=5",
-      "s": "부산일보",
-      "d": "2026-11-19T03:53:35+00:00"
     }
   ],
   "asof": {},
