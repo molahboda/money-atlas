@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T05:30:07+00:00",
-  "quotesAt": "2026-11-19T05:30:07+00:00",
-  "newsAt": "2026-11-19T05:30:07+00:00",
+  "fetchedAt": "2026-11-19T05:45:07+00:00",
+  "quotesAt": "2026-11-19T05:45:07+00:00",
+  "newsAt": "2026-11-19T05:45:07+00:00",
   "quotes": {
-    "kospi": 5053.33,
+    "kospi": 5053.76,
     "spx": 7323.63,
-    "nikkei": 59203.3,
+    "nikkei": 59272.6,
     "vix": 24.56,
-    "krw": 1330.28,
-    "gold": 3730.9,
-    "wti": 82.17,
+    "krw": 1330.1,
+    "gold": 3737.9,
+    "wti": 82.15,
     "dxy": 103.9
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 1.71,
-    "nikkei": 0.3,
-    "krw": -0.2,
+    "kospi": 1.72,
+    "nikkei": 0.42,
+    "krw": -0.22,
     "dxy": 0.04,
-    "gold": -0.29,
-    "wti": -1.31,
+    "gold": -0.11,
+    "wti": -1.33,
     "vix": -3.53
   },
   "news": [
     {
-      "t": "내년 국세수입 593.7조…반도체 호황에 법인세 222조 전망",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HR1JtMjduVHl4Y1VPS2N5bEZqZkdyT0I0NjFNOTMwNHAwOC1CT0lVMUNpLVo0a2g1RTJHR2VJSTZXLTNJUUJ2OWtaTzV3WGNkeW9ralFDZXdCWVZrNkdsazQ4eklVd1BDSEE?oc=5",
-      "s": "www.intn.co.kr",
-      "d": "2026-11-19T05:25:32+00:00"
+      "t": "솔리스, 美 반도체 시장 진출 본격화…\"코스닥 상장으로 성장 가속\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JYjlLRUFobEQ0LXZSZFZkTFctSnAzYTlGVVM3QXNtdm83XzN2Y09Yd21FTHVqd0c4ZFpiMWpjdWQ0ejBxTGh5RVhtclVieWlTeW1wZHVwMDVoQ0NF?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-19T05:43:00+00:00"
     },
     {
-      "t": "5천피 무너진 증시…'주식형 헤지펀드'도 3천400억원 자금 순유출",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WDVncGVtU1NhNHRRcHZPVnRwajZ6cHRzVnFra0IwenRURXZDbUJEYm42V2hfRi1fUkx0WUF1dk1GaFR2aEVLS201THVFMjFHQjVodGM5TVVVMHFaSmRKSldUN0VrNTVqbXEzeHNZTHk?oc=5",
+      "t": "10월 거래대금, ETF가 코스피 눌렀다…달라진 수급지도 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNUlHMU5FSTdVUF9UQ2JHRkxOZ0NHd3h2N0JSR3JmXzRnRS1WS0M0TTlIaGRSbk9LVzlFZnBoWWxkb2NUNXVyNWlLRXVab2JtS3pfNHVzc2tZckhBaXBLYVVzUUFCaDkw0gFuQVVfeXFMTkFUU0d1dTc5SkdWd1pIdkVvRExyMUNQUVZQX3FIcUhRZnFzcUF6OW9xdjlQdVBmcC1sVS1JSEIwTUlMUkRBeF8xRFgxWTRwZ0FJczk1NUdfaGNCelM1YkJxWXlnV1AyT0s4U1RqakE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-19T05:42:03+00:00"
+    },
+    {
+      "t": "수출 60% 늘었다…반도체 3배·8개 품목 신기록 쓴 '1조달러' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOT1dZMGl4YUktVnN4LUxwcUlBVm91NGlPTE0zdHhXTk45U0Y0eVdtWTdoUGp4SUltLWZkYUhtaFhvalk2MmFUdE5DSmlUT2JIenBBYno0dVdmUTF0c1RZWHRobFdDejhreVlJ0gFwQVVfeXFMTkNYcDNVeGdNaXV5ZGJGdXRXMFBkQi1kc0xwWERaOG9EampobWlxRml4dmFBelBXY1lMbWlHQTVEb0NvdVFxczNoc1VxZ1lMelNkQmFpSUZjejFXX2FJWEtvS05ZaXRYbFBiQ0I5TnI2OQ?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-19T05:37:42+00:00"
+    },
+    {
+      "t": "'가발에서 AI 반도체까지'...'62년 만에 수출 1조 달러' 새 역사",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuV09oZjUtdWdkaWIzMzNnOUYwOUpTMlJldGFVeGNVdmI1WkhjeGpoZWE2NVJhb045aElJN2RoTDNDMWdWbWZXX1dMWEVFUmFPNWtwb2w4YkYwMU16WlFEcjBVTjhWRWlwTDFj?oc=5",
+      "s": "BBS불교방송",
+      "d": "2026-11-19T05:34:07+00:00"
+    },
+    {
+      "t": "반도체 쏠림 완화되나…하나證 “내년 대형주 순환매 주목”",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82ZmdTamxzaGhGUm5NZmhGSHpJWkVxRTNNeHNLUlpNM3VKSzFwNzlTXzNfQmliTXhpZVZuTUZjQ2NtN2ZGR2czTVZjcjhIcVJwbGc3TU1QNlBrVTVrNFRSeGJB?oc=5",
+      "s": "이코노미스트",
+      "d": "2026-11-19T05:33:14+00:00"
+    },
+    {
+      "t": "'내년 코스피 8000 가려면...' 삼전닉스 반등이 전제",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OUTF5NmtjdENuU0R1QVRidWJnbld3Tm1mR0ZaRlNoZHZkN0RheWJfcU5VTGM4M182c3pGOEZ5dWIzVjBWSnJqRGl1Y0p2eHlkLVFkSkhWMnRVaTlXNXRxRk5IaGs?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-19T05:31:43+00:00"
+    },
+    {
+      "t": "[K-수출 1조달러] 반도체發 퀀텀점프…쏠림 심화에 리스크도↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GXzlldWZFQ0xPX1ByS0UxU1UwTUR4TnhZelJ0SkJrRG1lV2tkQmktN1N0TGowOENRSm9TZzV1dmdhWU5DQy04YTFaMmdkRkVxTDhKX3VQaXZFNzg5aVczSkQwQVozQ3VONEFjV1hDTF8?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-11-19T05:15:32+00:00"
+      "d": "2026-11-19T05:31:12+00:00"
     },
     {
-      "t": "AI 반도체發 메모리 가격 급등…전자기기 수요 위축에 코발트 시장 '먹구름'",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14NVU1WkVMSkNPUG53Nm11MExqbG9WdUM5YjhPQkJiUkRPRmlLSXg4Z29jWW5IREw5d0JMOFJYVWlXcWxuRUxrZklxbHU2NUloR1pFNHBxZWlHZEZpTVBaZmhwYVduQQ?oc=5",
-      "s": "더구루",
-      "d": "2026-11-19T05:12:59+00:00"
+      "t": "[K-수출 1조달러] 반도체에 밀렸지만…車, '친환경 승부수' 통할까",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fX1JOTGFnN2kwb1hOZEp5SWhyblNqREFGaHE0cEdfS1FBYnN3SENyWFNuWU5Vazc2ZlAxQ1E3V0U1bWx4YW93ZlNwd1htTktrY2Qwdl9JTEZZNzJYdV91R2NrdXNZRlJZaFFSQTJUaWo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T05:30:42+00:00"
     },
     {
-      "t": "알파칩스, 中법인 설립 완료…글로벌 주문형반도체(ASIC) 사업 본격화",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUVdjaV90bVgyTnI1OG85QTl5TW9TZ3NUbjFNeGFFUFFHR1lRUW5tUWNDOS1hWDJBVFItbWUzcjlFVjYzSEJ4U1RXcVluSklOTldLVWg4UjhyN0JjeUNiMGo0LVNSSld3MGc?oc=5",
-      "s": "파이낸스스코프",
-      "d": "2026-11-19T05:10:00+00:00"
+      "t": "[K-수출 1조달러] \"쾌거 속 반도체 착시…낙수효과 한계·통상 리스크 과제\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WS054VTBzYmNuUXNzY3lrZ2hmQkx3WDBDNWwxS2s4UDZaQUt1NVIyVFFvUHhpVXdiMi1lRXlkZnFaOE4teGtWeV9NTXJDTWJwOHdFYUZxcWFKbUJiVVhyOEZhRHNxMGpCb21wbkQ0VkU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T05:30:25+00:00"
     },
     {
-      "t": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XX2poVTVkY3BaR2FrTXUzb0ZjZkZ4SXIyZXVOOU9mSWJfSjJVTkVxbTJuQWtsZnJXejBoWDRvcU05MUlHQ1hqUWplNDRDUTgyb05CWmhZOTBKRVF0cWJtenhMV3M5blZYNUNmRU40WUI4Zw?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-19T05:02:30+00:00"
-    },
-    {
-      "t": "저축은행 6개월 예금금리 연 3.11%…1년11개월 만 최고",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WUlQyQlpXOG5RQVpvWGE0MmVTdjFSOEVBaWhSWWpJM1ZkY1VfOHVHM2dBWGI3NmxudXktNUxFY3h0dFk0OGtneXByVlk2LW45ajVHZjU1d2c5Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-19T05:00:20+00:00"
-    },
-    {
-      "t": "美연준, 위원 대다수 추가 금리 인상 지지…12월 빅스텝 가능성도 열어둬",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfYUF3WnUzclg3dG1FWWlXaGRDNVp3a2puT2N4SXNGRFFHWEgwVzRkRnJjWHA4WXpEczZHYUFWZFk5dXZHNk1TQW1BZ2xCLXRVSmd6TDAyaGNTOTU1Z1YwZTNoOA?oc=5",
-      "s": "더구루",
-      "d": "2026-11-19T04:57:30+00:00"
-    },
-    {
-      "t": "디노티시아, SC26서 AI 검색 반도체 VDPU ASIC 실시간 구동 세계 첫 공개",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yLVRBNzdJNW05WlUtUE1MeHNWMVZTR1JuYXhoWU9kSjJTMWZ0Sm5McEtKY0dJOE9LVURxMFJwR0FvNUw1eVQyU1l2ZW8tR1FVSXFZcThEOUJrYV9XRTlZ?oc=5",
-      "s": "헬로티",
-      "d": "2026-11-19T04:45:49+00:00"
-    },
-    {
-      "t": "충남 반도체·디스플레이 R&D ‘1년 새 3배’…연구조직 늘었지만 인력 확보는 숙제",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41WTh5QTh4OER6d2dFNW1JMTVIbVplenlTMFlrakttS1ZRVWgydXhRbG1xSGF0OUhLRm1saEgzS3E3TlJyY2hkWXVGQkhGZ196ZjdFOGFkZ05yRUdDOEpWT3g3S2VSdWpO?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-11-19T04:44:09+00:00"
-    },
-    {
-      "t": "젠슨 황 發 미국 수출 통제, 전력반도체 공급망도 영향권…“국산화·수요 연계 시급”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZHJSNHZXaXBxTlVnNkp0U0pUMWIzRnBfWkdUOUZsM3NUeFBWcHloVEhCbVRyeWY4WWYxNU5rMDVpQjcyU0R3eWlOZjBBUQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-19T04:42:53+00:00"
+      "t": "[K-수출 1조달러] 철광석에서 반도체까지…65년 수출 역사 바꾼 AI",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUVWJnb293VF82TzN1dklNZ3RvN0dSd1UxQ0VGbHg1WnYzYkZGN3hYaGxfcE1relo5Yk0tb25rbUVGN1hkSG85aVcwNW81M2ZFeEpQVVJpT2dLTWlQQXh6d09fUXAtNy1UWXV3TDJKZ0k?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T05:30:23+00:00"
     }
   ],
   "asof": {},
