@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T05:15:07+00:00",
-  "quotesAt": "2026-11-19T05:15:07+00:00",
-  "newsAt": "2026-11-19T05:15:07+00:00",
+  "fetchedAt": "2026-11-19T05:30:07+00:00",
+  "quotesAt": "2026-11-19T05:30:07+00:00",
+  "newsAt": "2026-11-19T05:30:07+00:00",
   "quotes": {
-    "kospi": 5062.18,
+    "kospi": 5053.33,
     "spx": 7323.63,
-    "nikkei": 59263.6,
+    "nikkei": 59203.3,
     "vix": 24.56,
-    "krw": 1331.28,
-    "gold": 3726.5,
-    "wti": 82.22,
+    "krw": 1330.28,
+    "gold": 3730.9,
+    "wti": 82.17,
     "dxy": 103.9
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 1.89,
-    "nikkei": 0.41,
-    "krw": -0.13,
+    "kospi": 1.71,
+    "nikkei": 0.3,
+    "krw": -0.2,
     "dxy": 0.04,
-    "gold": -0.41,
-    "wti": -1.25,
+    "gold": -0.29,
+    "wti": -1.31,
     "vix": -3.53
   },
   "news": [
+    {
+      "t": "내년 국세수입 593.7조…반도체 호황에 법인세 222조 전망",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HR1JtMjduVHl4Y1VPS2N5bEZqZkdyT0I0NjFNOTMwNHAwOC1CT0lVMUNpLVo0a2g1RTJHR2VJSTZXLTNJUUJ2OWtaTzV3WGNkeW9ralFDZXdCWVZrNkdsazQ4eklVd1BDSEE?oc=5",
+      "s": "www.intn.co.kr",
+      "d": "2026-11-19T05:25:32+00:00"
+    },
+    {
+      "t": "5천피 무너진 증시…'주식형 헤지펀드'도 3천400억원 자금 순유출",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05WDVncGVtU1NhNHRRcHZPVnRwajZ6cHRzVnFra0IwenRURXZDbUJEYm42V2hfRi1fUkx0WUF1dk1GaFR2aEVLS201THVFMjFHQjVodGM5TVVVMHFaSmRKSldUN0VrNTVqbXEzeHNZTHk?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T05:15:32+00:00"
+    },
+    {
+      "t": "AI 반도체發 메모리 가격 급등…전자기기 수요 위축에 코발트 시장 '먹구름'",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14NVU1WkVMSkNPUG53Nm11MExqbG9WdUM5YjhPQkJiUkRPRmlLSXg4Z29jWW5IREw5d0JMOFJYVWlXcWxuRUxrZklxbHU2NUloR1pFNHBxZWlHZEZpTVBaZmhwYVduQQ?oc=5",
+      "s": "더구루",
+      "d": "2026-11-19T05:12:59+00:00"
+    },
     {
       "t": "알파칩스, 中법인 설립 완료…글로벌 주문형반도체(ASIC) 사업 본격화",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUVdjaV90bVgyTnI1OG85QTl5TW9TZ3NUbjFNeGFFUFFHR1lRUW5tUWNDOS1hWDJBVFItbWUzcjlFVjYzSEJ4U1RXcVluSklOTldLVWg4UjhyN0JjeUNiMGo0LVNSSld3MGc?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZHJSNHZXaXBxTlVnNkp0U0pUMWIzRnBfWkdUOUZsM3NUeFBWcHloVEhCbVRyeWY4WWYxNU5rMDVpQjcyU0R3eWlOZjBBUQ?oc=5",
       "s": "전자신문",
       "d": "2026-11-19T04:42:53+00:00"
-    },
-    {
-      "t": "대만 4% 급락·AI 불안감에 아시아 증시 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vaEFOdmlsVjZfTFVNeHpZX0JzeUZybHpQVnJZUGZJeWNhMXZpb2xMSkp1MkdwNU1GQW9sdHFQMS0zUDNHVVl6V1otazEtbW94Y0tHcmk1d0tWcFBYLVh5YzRFc2dzZElwbmx6azY1M3I?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-19T04:35:00+00:00"
-    },
-    {
-      "t": "美 BIS, 첨단 AI 반도체 원격 이용 통제 잠정 최종규칙 발표",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02U3BfZmlJWFIxbjJUbU4yU21kOUo3T3gxd2I2VUh3azIwSlA5QlRyYTVWNS1tUjVTTXRKUDVsUHE2MnF0U3otWW9ta21FdHZYU2FlS0R2ak9iMHZQOUxrX3l1WlpEV1hNZWZJbjJn0gFyQVVfeXFMUC1wcEtDeWpSSHVxYnZfT3RVSFRjR183QXp2b1RYdEd1b0RybnZIVUt1TjJJdmN0VEI2eExya3cxelo3QjRMQjZFR2F3enRmdjRtZExhZm9FMnM5ZUw5el8xZG8zZEk5b1hsNHR0OU9zMUVn?oc=5",
-      "s": "법률신문",
-      "d": "2026-11-19T04:34:45+00:00"
-    },
-    {
-      "t": "이천시, K-반도체 초격차 경쟁력 강화 나서",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tSlgzTlFUMm0zM0pJNGRsTE1URG9mWUhpR3Rqb2F0eWtkQmkwSDNYbGh2TFJHRHNiNFdpcUZnSXBZbXdfcEphaU1TRXlBMzdpdlNXN3VBbE9nNTFOSmczcldMTzA?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-19T04:31:36+00:00"
     }
   ],
   "asof": {},
