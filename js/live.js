@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-19T07:30:07+00:00",
-  "quotesAt": "2026-11-19T07:30:07+00:00",
-  "newsAt": "2026-11-19T07:30:07+00:00",
+  "fetchedAt": "2026-11-19T07:45:07+00:00",
+  "quotesAt": "2026-11-19T07:45:07+00:00",
+  "newsAt": "2026-11-19T07:45:07+00:00",
   "quotes": {
-    "kospi": 5117.73,
+    "kospi": 5118.96,
     "spx": 7323.63,
     "nikkei": 59444.21,
     "vix": 24.56,
-    "krw": 1330.23,
-    "gold": 3740.1,
-    "wti": 82.54,
-    "dxy": 103.81
+    "krw": 1330.98,
+    "gold": 3737,
+    "wti": 82.32,
+    "dxy": 103.8
   },
   "daily": {
     "spx": -1.25,
-    "kospi": 3,
+    "kospi": 3.03,
     "nikkei": 0.71,
-    "krw": -0.21,
-    "dxy": -0.05,
-    "gold": -0.05,
-    "wti": -0.86,
+    "krw": -0.15,
+    "dxy": -0.06,
+    "gold": -0.13,
+    "wti": -1.13,
     "vix": -3.53
   },
   "news": [
     {
-      "t": "엔터주 팔고, 삼전닉스 다시 사들여...초고수들, 반도체 대형주 사랑 여전",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSWFxakJHOElqSzFNWWg2MTBHeGtuRm5rWVJQR0lCeF9LSmxUdWlvbXRmVlI3R1JaN0RTYzhVUV8wblNidzFaOFRsc3pnNlJlVVlJZWVxbzFOQQ?oc=5",
+      "t": "美연준 긴축 가능성 고조에 강달러..'반도체 수출 호조' 원화는 무풍지대",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXltZ2dXODNPTnRvREZwWS1XcENGMzRLMFZyM2FfNGMydEdlblVYUlEtYjY0V1d5U0ZiYlJyaG9QTWVYSXREM0h1c0ExUXh6X0hTbk9xTWhmSTZGdVd1YXdYcHdpX3BIVFNDbXk3dmFmTGJOOWRpekdiN01GaHRvRFFMNGE?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-19T07:39:00+00:00"
+    },
+    {
+      "t": "[속보] 코스피, 앤트로픽 IPO 앞두고 1.4% 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZY25RV2RqVkUyaDEtc0MtSGw5VFI1bWZDMVQ1M05Bb3VxTFhZakNST3dmSlhJSVhMSWptN3Zod0FYSDU0VFV5V0RHa1Vtd3RaSnA0V3AxT1NBdw?oc=5",
       "s": "한국경제",
-      "d": "2026-11-19T07:19:01+00:00"
+      "d": "2026-11-19T07:34:48+00:00"
     },
     {
-      "t": "수출 1조달러 달성했지만...\"반도체 호황에 안주해선 안돼\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkbXc4LVMwOFZZNUsyYUF5T2pVMEU3eGh4cFpkU2lxcjNVRURBRlZjZVdSWGpidlNja1k3a3NtQ3ZwcDJNeUlJNkpBUTY5UEstbmF5cmFJRUNXRjFYalk5SFNhYWtYSHVkRVJj0gFwQVVfeXFMTWJhcDJmRlpYSngwLTRPMGhDdUdkaG04VlJoOU1NU3oxM01aSjFUU2gyd3dlUEQ3d0xxZm9JTUZ2WU9tYXFya1ZsSDNEX1FYdEVkMV9INDFqYUxSb0ZFUklkTnRoREU2YzVvYW5hU2hNag?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-19T07:18:34+00:00"
+      "t": "코스피, 장 막판 상승 폭 확대…5,100선 회복 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wcmhEeUg2WHlVcExVNE15LXQtUVB6LV9zX0ZnRFk4WDU3d25IOGtQcDE3eWhUN1p4NkpqZlNzbGZJcTk2MHVkbHlueEhBQVlaSDI1cjEyX3doM0dFUWxDRE56YWN6RXFCZnc4TTJxdXXSAXRBVV95cUxOV2M5T2R0dVdfN1dfMmtlTEFvUGdEd050SlRscmJrNTY4S1NkYktWT2dSYlFhWXc5N2FScGNfZ01tYnBtTXN1YS1fckE5MTA2cXFDMjBxVFhoY2hiVDZhVU93ZmNReXZGRktNMGliZXBhNkRkQQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-19T07:33:53+00:00"
     },
     {
-      "t": "외국인 떠난 코스피, 앤트로픽 상장…AI 투심 불씨 될까 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTE1PTG9EVTBTOW01UEp5UnB2Z0dra1dCMG1HV04zOTVVU21BU2Y3c184eXduMlAtRDEyc0Rsd2xjSS1pRmRyWVFteUZtVW9NUy1Ua2ZTeFpWYXhOTUFsS1MwVzBzbnV00gFuQVVfeXFMTVc1SUwwVGZweVMtWXlTVDNYaWs4T3FwdldvQXhHMjVianJPRDYzUGtld1BOSW5KWDllbHBiNWVUb21ERTk3M3pVbG1QQ3duY2hZRHFZUDlMcFM0SS1DaFdqS2RBSElSV24wN1ZRNmc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-19T07:17:53+00:00"
+      "t": "[속보] 코스피, 앤트로픽 상장 앞두고 등락끝에 1.4% 상승 마감",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tdVM5RnZvZ1NvVzJEdG1ILUpsYnRUdWhSWWNPOEhiWEFCazczZHdubGp2SUdkUWw3U2JSQXU0ZmVuVk5WWDZtUTRxOXBFVm5RM1oyaEhoZEVhbDQ?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T07:33:39+00:00"
     },
     {
-      "t": "[중국증시-마감] 반도체주 급락에 약세",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SRmlvT2JVVXZvdHA1S0toNlp0OVJpbDVVeDFJS3FuY3Z3ZHlNTE5MbTJhNTdDdGhYeGFFTUJaVWo1djZtUDV1ZXRDN0NyVG1HSXNVQ0ZVR1BnQU9YY0xhRExtazM2WmhNcVFQSHlTXzRRQQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-19T07:16:50+00:00"
+      "t": "[코스피] 70.45p(1.39%) 오른 5,137.89(장종료)",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yeTBRVngxb1VUZ3RHazN4YTRhYlVjYUNEYVFaTnU3bjdXdXlUU0ZaX0ExZjFIYWpvWEhKanlhTTVkMXh2MTk3SjBuZDYxTGJCS2FRbnZnYTVlYWvSAWBBVV95cUxPRFR2YXJwODJLSUZ4Z1dxa0lXZEpDY0tQcmNNTmNBOFdMamJmaFdhTjhIMUpQQjF5cEk5WHJoX0diTTQyV3gzR0JkenlmWTBfM1p3R0xIdDlBX3hScjNZZ2w?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-19T07:33:11+00:00"
     },
     {
-      "t": "AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sZTZUcEJBR1B6TTdsVlZTNkVzbEtEeVRmaXVJVFItbWZFM2pRdG5yOWJLRTFuY19FTUQ1Yy1yY1pfU3JXaUQxdmZpd2dPZXBZa1c0NGU4VndQWHpMVExmMDZXZHNqTm9oZDc4ZtIBcEFVX3lxTE4zMnB0MWVzbW54LTdHZzMwbnpsRjFUNHIwZHg3SUZELVBEYVlTNkZsUkdVejB1a2REQjI4LUUzZEt6QS1IRkRGUkFMWkR0bkpldFFtS0g5cVVkLUhOaEdRRWdTbGpxcmZSdm9tV3IzNjg?oc=5",
-      "s": "전기신문",
-      "d": "2026-11-19T07:16:06+00:00"
+      "t": "원·달러 환율, 나흘째 하락…3원 내린 1330.0원",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kTzlHT3FncVlSeDRWRFgxQ1NLZ3k4UFZqX1QtX0wtNVplYlZidnd1QUpUb2RyOXVEc0taQWZ4b0JUR1Z1N3NuNmtJbHBZYTktcTN4eVVXWkFyOV9YVHBhaDdnZjV0Ukk?oc=5",
+      "s": "강원도민일보",
+      "d": "2026-11-19T07:31:33+00:00"
     },
     {
-      "t": "LG이노텍, 부사장 1명 등 임원 9명 승진…반도체 기판·피지컬 AI 강화",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11aGlFbmJNdDFIVFV1NlZ3UjFmeFdMWTVPUU1GOVhCWjlNb1NiUUVFb1oyZlRwUkdWZlY2dFI1T2c1bUhUcGQtNjRMd0htMFRCQkdWQnJSM1E1bERESVA5X1pISlg?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-19T07:14:51+00:00"
+      "t": "아시아와 유럽 반도체 거점 도시의 만남, 평택시와 드레스덴시 협력 방안 논의",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zTEN1ek9UellQbXFfRnZFaERNS2xVYnZWMlg0ZGtiNXN5YVlHRUxyTVFsTkVBeEpnaHYwYkd5UW51aDZPQjYxU2RtM0hCQkVfUWRtTmRPeGYtejJHakRNWEFlc2tCOV9U?oc=5",
+      "s": "경인경제",
+      "d": "2026-11-19T07:31:16+00:00"
     },
     {
-      "t": "[외환-마감] 1조弗 돌파한 수출…양방향 수급에 1,330원 안팎 횡보",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mTFhVMzZRTUZGeC1ndUJwWExwM0pWTTd3bVgtZzMyR1RLZXR2Y1Vqam5OcHZQVnlVNUJaUENTdFptcWNURVdzNTlfTnJwRUdZRDFnbkdZclhQcVU4a2VadnI1WVpnM0NaWEc3TXREdV92UQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-19T07:13:39+00:00"
+      "t": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kNVRZOTJGUkEydjFsZmJOWDNZVVRZc0tEemp4eUVwYVpkc190SDhYOW40T2tRMDFfeVFUN2o2YnVuZVdENDZBOVJkMjVqeTFDcGpNMjNqdnhockxLVW11SW1B?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-11-19T07:29:49+00:00"
     },
     {
-      "t": "“경기 이천, 생산거점 넘어 K-반도체 혁신생태계 중심되어야”",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qei1OSW5BenR6Rzhrb2phOTh3YlE2UGVxNWpjWlNYUmpWTFNsTGtoZUotNnhBYWZyUG5tZjZIX0ktV05WMTRUNFBXajVyQmpLV29KbEk5Q1FXMW5RaDdVOU9fZTFqMFVRR0ZZWTBR?oc=5",
-      "s": "아시아투데이",
-      "d": "2026-11-19T07:12:32+00:00"
+      "t": "\"반도체 무턱대고 팔았다간…\" 美 'AI 반도체 통제' 더 세졌다 [이슈+]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ak9BTWt0TkRmMnBkWUV2UGpWc2lGeHZfaEljWURDRC11NVpVT3JNNFNCVGdHN2FGQWRaLUhFMThMazR3VUVqb1FzREdoWHhLVkp3bFNYelg3dw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-19T07:28:18+00:00"
     },
     {
-      "t": "“통상 리스크 상시화…중견기업, AI로 관세·환율 대응해야”",
-      "u": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9fMXhnSTZUbGdvYnJ2TGJEbXc1SGhDX0xUbHBVZVdKcTVwYldwNzZINWRKT0prUGFweTZHUFFKU3dhVFR0?oc=5",
-      "s": "산업일보",
-      "d": "2026-11-19T07:11:55+00:00"
-    },
-    {
-      "t": "SK하이닉스 “수출 1조달러, 반도체 상생 협력 결실”",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01OEVMaTZVMEVBemdIZHdZSGJ2RHhrcUxWTGlVbmxMMFBWZUpJU05iNmk5ZmxjalE3OTJnYldjekQ1aGtVUi1wdHZwY0h4QQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-19T07:10:02+00:00"
+      "t": "수출 1조 달러 돌파… 반도체 제조장비 10위, 일반기계 中·印서 증가",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3bG9xWGwzWkVKREdDUXpkRUczOVVaU2pwdjhWQUNWQmxZNzlyblhIMzk3WmRScTVaRE1rcGI0Vm1CUlRvN2trRHhHRXJ5OTNnRThJWVlvcTlyS3dVMFJqX29YdEdsZw?oc=5",
+      "s": "기계신문",
+      "d": "2026-11-19T07:28:07+00:00"
     }
   ],
   "asof": {},
