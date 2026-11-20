@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-20T14:15:21+00:00",
-  "quotesAt": "2026-11-20T14:15:21+00:00",
-  "newsAt": "2026-11-20T14:15:21+00:00",
+  "fetchedAt": "2026-11-20T14:30:27+00:00",
+  "quotesAt": "2026-11-20T14:30:27+00:00",
+  "newsAt": "2026-11-20T14:30:27+00:00",
   "quotes": {
     "kospi": 4869.96,
-    "spx": 7175.83,
+    "spx": 7140.48,
     "nikkei": 56436.65,
-    "vix": 30.18,
-    "krw": 1338.62,
-    "gold": 3566.7,
-    "wti": 82.27,
-    "dxy": 103.71
+    "vix": 29.7,
+    "krw": 1337.18,
+    "gold": 3581.9,
+    "wti": 81.94,
+    "dxy": 103.7
   },
   "daily": {
-    "spx": -2.24,
+    "spx": -2.5,
     "kospi": -3.9,
     "nikkei": -5.06,
-    "krw": 0.62,
+    "krw": 0.51,
     "dxy": -0.19,
-    "gold": -3.22,
-    "wti": -1.13,
-    "vix": 6.12
+    "gold": -2.81,
+    "wti": -1.53,
+    "vix": 4.43
   },
   "news": [
     {
@@ -61,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-11-20T12:47:01+00:00"
     },
     {
-      "t": "유가 하락, 과도했나? UBS가 반등을 예상하는 이유",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yV0hiUDBUTDAzXzBMa0NxOEJMdWNtV1FhVVFrT2R2ZEV6ZmpKbTI4RmExd1ExeF9xanZXa2J1Z2JTRTFCVTFCdnZvSjJnX1drSHhUcmNrbTk5UUFteEM4UXJTNTdmY0lKV2pOd2UyNA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-20T12:29:00+00:00"
-    },
-    {
       "t": "면접 앞두고 '삼성·SK 추천?' 반도체실장 내정 논란",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzQndibnpzc2NxaVZxbm9DcHRlVVFLdUpSd25aWGZLVmxMM1I0OXdBcE5vaW9SOVR4RGFsdDd1V1BVZlNXNlVWVWFiZTZsVVl0UDVkWEF6Y1laYm5mS293NzZR?oc=5",
       "s": "KBC광주방송",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DM2lleDRNV3VEbmlFa1I3eDFHbzlZV21fMk9vUUFkaV80RTVHbWhNSldsa3FZVFJTc3M4M3pWcGU4azZZMHQzWno3RkNBdEMxZkhyTVR2TVIydUg3aXNiQUxPX0pVYjQ?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-20T12:16:00+00:00"
+    },
+    {
+      "t": "’검은 금요일’ 코스피 5% 급락…4,800선 후퇴",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41d0Nua3lkSTJzRnFsekRnQ2Jrcmc5UVNkTUptOFFOSlByMUF4ajdiMHBkTXJXY3V3YWhJOVFpQkpRdWswRm0wTXBzbl9wMDNyUXdLOTVqYk5GLTB5bVptUW9la0VaSUE?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-20T12:09:00+00:00"
     }
   ],
   "asof": {},
