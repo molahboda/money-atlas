@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-20T13:45:22+00:00",
-  "quotesAt": "2026-11-20T13:45:22+00:00",
-  "newsAt": "2026-11-20T13:45:22+00:00",
+  "fetchedAt": "2026-11-20T14:00:22+00:00",
+  "quotesAt": "2026-11-20T14:00:22+00:00",
+  "newsAt": "2026-11-20T14:00:22+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 7175.83,
     "nikkei": 56436.65,
-    "vix": 31.03,
-    "krw": 1339.48,
-    "gold": 3558.1,
-    "wti": 82.47,
-    "dxy": 103.62
+    "vix": 31.23,
+    "krw": 1338.31,
+    "gold": 3563.9,
+    "wti": 82.48,
+    "dxy": 103.67
   },
   "daily": {
     "spx": -2.24,
     "kospi": -3.9,
     "nikkei": -5.06,
-    "krw": 0.68,
-    "dxy": -0.27,
-    "gold": -3.46,
-    "wti": -0.89,
-    "vix": 9.11
+    "krw": 0.59,
+    "dxy": -0.22,
+    "gold": -3.3,
+    "wti": -0.88,
+    "vix": 9.81
   },
   "news": [
+    {
+      "t": "시장, 연준에 \"금리가 지속 불가능한 수준\" 신호 보내 - 씨티",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XdURWVWZWd2JpdlBVOTYtQzZXQmZaUE1JQ0JFZHpmTVhELVlfMmpvM1NaSjR4dFpHREMwWmFjS21ncWJxb1ZmcmtTUldFZUJfZlZWMEVJWDdhNDJmT19FdkFrOWJLZTRDc1ZPT1NTaW8?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-20T13:45:00+00:00"
+    },
     {
       "t": "‘4869.96’ 올해 1월 수준 돌아간 코스피…고점 대비 3400조 증발",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GR2d1M1dqY1JuV0I3OEpDcldiOVJKOEx2cUNnRzZzZjBHcDMyX2t3MnNpa2tTdk1WRUx1ZmQydS1Rd0lORVM5emtWT2tBSzM5Wk5GMHE2MGh4aXdqODdxWl9IQXoxVms?oc=5",
@@ -37,22 +43,16 @@ window.LIVE_DATA = {
       "d": "2026-11-20T13:23:00+00:00"
     },
     {
-      "t": "[오늘의 뉴스 종합] 美증시 급락에 코스피 5%대 하락…4900선 무너진 검은 금요일",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jamI5UFYzODJody10RFVDakZ2X1JjTFZfUlkyb2ZvVUt5T1VhM3pDaHR2YlE5bmdJdm1KTUFaZndmcHZIZUUyb2NlbDRkRU5mdUJMRkNCam1BZ9IBWEFVX3lxTE9TTGJjNWZyaXRLUnBMcDF3Q194c0VEYUJtbktNLTlvdHhSNmlzeFBOSDdrcmVoN3VueFBwLXV6NEVOS1ZMVlRxXzE5MlhKVjAwT256R3NDa2o?oc=5",
-      "s": "아주경제",
-      "d": "2026-11-20T12:50:36+00:00"
-    },
-    {
       "t": "[마감시황] 코스피 5%대 ‘폭락’…美 반도체 규제 악재에 4800선 추락",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TVczNTVMNS1TMllvcHItazdzMDRwX1k3Y3BRNzFFd2sxRDNkc1Rrak9WTzVyb2Fkei1PRGxNZVdxNk5kbDRpUG9SOUhOUDh2UVR4STZBREFsRmEtOEtrdDRDeWd2WFhxblVZYjl6c2hhUQ?oc=5",
       "s": "한양경제",
       "d": "2026-11-20T12:47:01+00:00"
     },
     {
-      "t": "유가 하락, 과도했나? UBS가 반등을 예상하는 이유",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yV0hiUDBUTDAzXzBMa0NxOEJMdWNtV1FhVVFrT2R2ZEV6ZmpKbTI4RmExd1ExeF9xanZXa2J1Z2JTRTFCVTFCdnZvSjJnX1drSHhUcmNrbTk5UUFteEM4UXJTNTdmY0lKV2pOd2UyNA?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-20T12:29:00+00:00"
+      "t": "\"물가 잡으려면 충격줘야\"...월러 연준 이사, 12월 '빅스텝' 주장 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUWVGVWpxeVRxR1JJVExwbng3OFBHTXpZaWdnY3VOT2loTWt0LVYxMlF4dmlITFQwU3YwQ1V4RHJQRjdrUmlJSVQtNC15SzdSLV96Mkw0TUdzUHB6bzZvRHJHd2Z5SU9W0gFuQVVfeXFMTXh5ZnpnMTVZR2xkMkdvNUlsNlEwSDBxM04yamw5YjBTOEo0UFh6d29XYTJQZW1VZHRhQTRKSW5YQzBaYkZfOTZ2alhjb3Z5aGJGZmVRbm0yd2NNdF9jYkNsOVFlSWlFWndza25MRmc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-20T12:38:36+00:00"
     },
     {
       "t": "면접 앞두고 '삼성·SK 추천?' 반도체실장 내정 논란",
@@ -79,10 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-20T12:09:00+00:00"
     },
     {
-      "t": "뉴욕증시 프리뷰, 주가 선물 일제 하락…앤스로픽 상장에도 AI주 매도세 진정 안 돼",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lQWF1ZHlVSVpVR3gzVXJ2OHpFQWNtVEtnMWVtblBpUEpqb1VXN2U3cF94cVotNGhaekhhenNGVHV2bm9iMUgzTWNBcGhMVnVNN2V6STM0SHNzdWRy?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-20T11:54:00+00:00"
+      "t": "장동혁 \"코스피 4900붕괴? 李 정권 증시 대응 속수무책…주가조작 특검해야\" |",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNFRWR0xOVGoybTlyNjMtczRRSWdtVTZScVMzbks3UVhkV3l0YUlCel8tUW5jZFA2TUh1Tmh3dkVJbzE1RURSLXZUd3lGNS0tbVFSN3VUOHQtOGF4MEY5akFuSDZiSm9aaDBnQ2FRVnk2Z0U?oc=5",
+      "s": "대전일보",
+      "d": "2026-11-20T12:01:27+00:00"
     }
   ],
   "asof": {},
