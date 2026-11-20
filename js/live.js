@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-20T14:45:22+00:00",
-  "quotesAt": "2026-11-20T14:45:22+00:00",
-  "newsAt": "2026-11-20T14:45:22+00:00",
+  "fetchedAt": "2026-11-20T15:00:23+00:00",
+  "quotesAt": "2026-11-20T15:00:23+00:00",
+  "newsAt": "2026-11-20T15:00:23+00:00",
   "quotes": {
     "kospi": 4869.96,
-    "spx": 7149.67,
+    "spx": 7195.47,
     "nikkei": 56436.65,
-    "vix": 29.46,
-    "krw": 1339.57,
-    "gold": 3572.1,
-    "wti": 81.85,
-    "dxy": 103.71
+    "vix": 28.74,
+    "krw": 1337.68,
+    "gold": 3573.2,
+    "wti": 81.33,
+    "dxy": 103.74
   },
   "daily": {
-    "spx": -2.38,
+    "spx": -1.75,
     "kospi": -3.9,
     "nikkei": -5.06,
-    "krw": 0.69,
-    "dxy": -0.18,
-    "gold": -3.08,
-    "wti": -1.63,
-    "vix": 3.59
+    "krw": 0.55,
+    "dxy": -0.16,
+    "gold": -3.05,
+    "wti": -2.26,
+    "vix": 1.05
   },
   "news": [
+    {
+      "t": "[김대호 인물] AMD 리사수...반도체기술 중국 밀반출?",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWFpeVJGU3h2YUNEam1PU19ua251VFJtR0IwZ1VmR2FBUFoyXzlwOW9QWk9uTmpael9FYnAwOUJCcWJjQmNqeGlkamplSEF2VFpKT0wtLUs5eWpIaGhFVk9CT1hHTDdhUGw0V01jYXRhOVgwSFE1WGRINm0wcXZKMXJCSmwzejY2?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-20T14:55:00+00:00"
+    },
     {
       "t": "시장, 연준에 \"금리가 지속 불가능한 수준\" 신호 보내 - 씨티",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XdURWVWZWd2JpdlBVOTYtQzZXQmZaUE1JQ0JFZHpmTVhELVlfMmpvM1NaSjR4dFpHREMwWmFjS21ncWJxb1ZmcmtTUldFZUJfZlZWMEVJWDdhNDJmT19FdkFrOWJLZTRDc1ZPT1NTaW8?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DM2lleDRNV3VEbmlFa1I3eDFHbzlZV21fMk9vUUFkaV80RTVHbWhNSldsa3FZVFJTc3M4M3pWcGU4azZZMHQzWno3RkNBdEMxZkhyTVR2TVIydUg3aXNiQUxPX0pVYjQ?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-20T12:16:00+00:00"
-    },
-    {
-      "t": "’검은 금요일’ 코스피 5% 급락…4,800선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41d0Nua3lkSTJzRnFsekRnQ2Jrcmc5UVNkTUptOFFOSlByMUF4ajdiMHBkTXJXY3V3YWhJOVFpQkpRdWswRm0wTXBzbl9wMDNyUXdLOTVqYk5GLTB5bVptUW9la0VaSUE?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-20T12:09:00+00:00"
     }
   ],
   "asof": {},
