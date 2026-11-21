@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-21T05:00:21+00:00",
-  "quotesAt": "2026-11-21T05:00:21+00:00",
-  "newsAt": "2026-11-21T05:00:21+00:00",
+  "fetchedAt": "2026-11-21T05:15:21+00:00",
+  "quotesAt": "2026-11-21T05:15:21+00:00",
+  "newsAt": "2026-11-21T05:15:21+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 6910.39,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 26.2
   },
   "news": [
+    {
+      "t": "내년 3.9% 성장에 코스피 1만까지?…반도체가 끌어올린 낙관론[주末머니]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZWpiUzJQeFl6LVFlTUZRV2EyLXZnV1YzdGZ3b3VCcnN5UXRNeUphUjkyTUxaS095Z2ZqMkliZ2pVaU0wSFhYNE04X3NkMzJSVUt0RExqNzZ1NWc4SXpoNkhR?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-21T05:08:00+00:00"
+    },
     {
       "t": "수출 1조 달러 달성했지만… ‘반도체 편중’ 넘어 성장 온기 퍼뜨려야",
       "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UTmxsZ3Y2WnhUSTNzMzRGLUxHSjBjdVB5OUJ0MHloa3BKYkVFS19GbWpPdWxJR2dMRTNxRFJIdmpqZVRBVGQ2S0ZiR01SWll3YkxiMkJ0YVNBTkhRUjdrUFRTdUkycWFDRzlWOWVR?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zcmtua0tmWWduTFUzQ1RSTUNaUEdnLXFDajBTRWtSX0duWm55V1o0TkdxUklkX2cxVVNHQUE1bU8yM1ExV0lzZnlGNGh4d1NfbGVLalJ2ZUxHZE1WVTFRS1plYmo0eXFBX0E?oc=5",
       "s": "OBC 뉴스",
       "d": "2026-11-21T04:01:44+00:00"
-    },
-    {
-      "t": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의 테크X]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUFdleVN3by1tamhUajFQczRqMHA2djFDNHJfMmhLMzNBNXNpQl9kYWgyYXdGVUtJRDFoM19MUFQ5TUNveF9OQnJoVFRVLXctNFVBbWpjcU1OUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-21T03:51:00+00:00"
     }
   ],
   "asof": {},
