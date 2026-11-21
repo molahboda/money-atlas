@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-21T05:30:21+00:00",
-  "quotesAt": "2026-11-21T05:30:21+00:00",
-  "newsAt": "2026-11-21T05:30:21+00:00",
+  "fetchedAt": "2026-11-21T05:45:21+00:00",
+  "quotesAt": "2026-11-21T05:45:21+00:00",
+  "newsAt": "2026-11-21T05:45:21+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 6910.39,
@@ -25,10 +25,22 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "\"삼전닉스 아직 안끝났다\"…무디스가 찍은 AI 반도체의 미래",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05VG4yX0ZMR0NJcDJleWVjMGJJY1kyYjk4REcyYThISjdhUmlqaHVQZ05jQWc2VUF3V3YzQWRPQnpEdEFYazE1Z3NlVXAwNFZBUUhwZC1xSjE5UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-21T05:30:47+00:00"
+    },
+    {
       "t": "내년 3.9% 성장에 코스피 1만까지?…반도체가 끌어올린 낙관론[주末머니]",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZWpiUzJQeFl6LVFlTUZRV2EyLXZnV1YzdGZ3b3VCcnN5UXRNeUphUjkyTUxaS095Z2ZqMkliZ2pVaU0wSFhYNE04X3NkMzJSVUt0RExqNzZ1NWc4SXpoNkhR?oc=5",
       "s": "아시아경제",
       "d": "2026-11-21T05:08:00+00:00"
+    },
+    {
+      "t": "증시 폭락에 비트코인도 8000만 원 붕괴…시장 덮친 ‘극단적 공포’",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01QUpGUHZ5WTVnTkdoSndwUXRnT1FTaTFtTTR2NGZDdXdQNm9ELVUtTXdGellzZngzY2tpUEQ5MFpSSlFpMVJlekE0UnMySkJqVWfSAVNBVV95cUxQeUY1cmJNWFFVa0tXQy02cjhEc21kdktLSXlkUlluUDNTOVQtX0lFOUxEOFZLTTgwX1hXQUU5MXdZN05ZcDkxZGFsdTZ3UXl0UVEzZw?oc=5",
+      "s": "서울경제",
+      "d": "2026-11-21T04:43:10+00:00"
     },
     {
       "t": "수출 1조 달러 달성했지만… ‘반도체 편중’ 넘어 성장 온기 퍼뜨려야",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xMHRKc195OW9YRkNoVmZzN3FVMklOR1F0YVVDNHNyVVlmQnNJb0V6eW9vQmpvdnpLOTdqQWhlZ0lLVkZtX3VZb1MwclZTVU5lelFmN0ktNTZjb25RM25MbjUtVWxEMGlhTTR4Yg?oc=5",
       "s": "브랜드뉴스",
       "d": "2026-11-21T04:02:40+00:00"
-    },
-    {
-      "t": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNkpsSThuS29SR3BvcGNRQUI3NHpLU0pXcG1ZQy1jaEI2MVFqeW9XSEJTSjZYVEllRUF4WnVtaWs2RVUzYjlSR2ZzdWhhZVM0RWY0YXA1Tm8xOEVCYUpDRzNubHBfQUhMeE5xZWs1OUQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-21T04:01:45+00:00"
-    },
-    {
-      "t": "JP모건 “미국 금리 3연속 인상”…트럼프 인하 압박과 정면충돌",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zcmtua0tmWWduTFUzQ1RSTUNaUEdnLXFDajBTRWtSX0duWm55V1o0TkdxUklkX2cxVVNHQUE1bU8yM1ExV0lzZnlGNGh4d1NfbGVLalJ2ZUxHZE1WVTFRS1plYmo0eXFBX0E?oc=5",
-      "s": "OBC 뉴스",
-      "d": "2026-11-21T04:01:44+00:00"
     }
   ],
   "asof": {},
