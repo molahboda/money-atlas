@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-21T17:00:30+00:00",
-  "quotesAt": "2026-11-21T17:00:30+00:00",
-  "newsAt": "2026-11-21T14:30:26+00:00",
+  "fetchedAt": "2026-11-21T17:15:24+00:00",
+  "quotesAt": "2026-11-21T17:15:24+00:00",
+  "newsAt": "2026-11-21T17:15:24+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 6910.39,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "\"삼전닉스 아직 안끝났다\"…무디스가 찍은 AI 반도체의 미래",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05VG4yX0ZMR0NJcDJleWVjMGJJY1kyYjk4REcyYThISjdhUmlqaHVQZ05jQWc2VUF3V3YzQWRPQnpEdEFYazE1Z3NlVXAwNFZBUUhwZC1xSjE5UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-21T05:30:47+00:00"
+      "t": "美 비축 구리 중국행 본격화…관세 베팅 역전",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjlLSTNheF9nX2hzRDcyRENPSTczckVzWXhkdjA3THU5N1h2U0t4Z0w3NjVCdjBwa09QOGNZYWNJSlR5VmZ3X3prRndMcnlJc3hjdnRCTHBCelFzajY2b0Zjb2VadUlfQ0syMFo4YVJ1QlB3RFpMUnpDTVVGMXZPTUE4bHd5MXlr?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-21T17:00:00+00:00"
     },
     {
-      "t": "내년 3.9% 성장에 코스피 1만까지?…반도체가 끌어올린 낙관론[주末머니]",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZWpiUzJQeFl6LVFlTUZRV2EyLXZnV1YzdGZ3b3VCcnN5UXRNeUphUjkyTUxaS095Z2ZqMkliZ2pVaU0wSFhYNE04X3NkMzJSVUt0RExqNzZ1NWc4SXpoNkhR?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-21T05:08:00+00:00"
+      "t": "EU·인니, 90% 넘는 교역품 관세 철폐… 7억3천만명 시장 열린다",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XR2duSWZkNWFuUDJ5Zkh2Y3ZuRVJ0NXJRY0ZHWWdHV3ZjeUxjVUNxb1JjX0JGYnVmUk5uMm4xNWhIRWkzcFNtVlBUeHpodkp0ajFibzJjZElvbFdaT2pKVnFrVVZyamNZblE?oc=5",
+      "s": "천지일보",
+      "d": "2026-11-21T16:00:00+00:00"
     },
     {
-      "t": "증시 폭락에 비트코인도 8000만 원 붕괴…시장 덮친 ‘극단적 공포’",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01QUpGUHZ5WTVnTkdoSndwUXRnT1FTaTFtTTR2NGZDdXdQNm9ELVUtTXdGellzZngzY2tpUEQ5MFpSSlFpMVJlekE0UnMySkJqVWfSAVNBVV95cUxQeUY1cmJNWFFVa0tXQy02cjhEc21kdktLSXlkUlluUDNTOVQtX0lFOUxEOFZLTTgwX1hXQUU5MXdZN05ZcDkxZGFsdTZ3UXl0UVEzZw?oc=5",
+      "t": "코스피 5% 폭락했는데 美 나스닥도 5.28% 추락…23일 ‘삼전닉스’ 또 시험대",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uOW90ZVR5amRKRmFTQnptMDJ2RDRUeVhhU0NBM3ljdVQyLV9RMVhrdHctM3FvbkFGQm1zNXNxYWdOcmFyZElaN2dUNUhOTWtuMDNzNFZnMnBVRHpKNHQzN1JxeUdkbVh6ZTNtdw?oc=5",
+      "s": "데일리25",
+      "d": "2026-11-21T15:10:00+00:00"
+    },
+    {
+      "t": "EU, 인도네시아와 무역협정 체결… 관세 90％ 이상 철폐",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjVfQVUtRmZta2J6Tjlyd1UwWHdOOWVrVmtQWnJCdHFoZDJxaVk3YmZYcUxQMGJzU3gzS3NxdUllRDN6cGFaZks3NldZYzNJTURnMGJpWHN4a2tZNHp0b3BGWURXWXdqQ0JIYmhWbmVOemRDUWlOWkFqQ3VtWDdDdXJIcU1FZER4REhNakJETFNEWFZ1dW9VZ0d1d0x4UdIBsgFBVV95cUxOUTh1MDM2VGFsd3ZHU25CUVhyRjNGaGNOUF8tTnF3NUVtdUpTeVVzZGtIQ04tY1k4UG9GVWRlQVJPYnh3dXdfakNrNU9ucVVzRzE1NjVleXpiaTQ2UFhaQTdITlFKOUdFRER4djVlckg0QzEteFdMcXFYVkMyVWFnT2JtaXdESDRSbmFfZnVJVnI5MUpxb0ZOd1FSQVlMYlo4VUc2LXl3NGJxTG1pMjdmTGh3?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-21T15:02:00+00:00"
+    },
+    {
+      "t": "대만 증시 급락에 당국 초강수…23일부터 전일 종가 밑 공매도 금지",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZTlh4NFhzN0RKQ001UTN4dDI5LTZYU2lycFlDaW9lOHpFRGlIcW1UVE5SN3RPWjlsWUtLTHo3U0lyNDJfQk9ndWNxUDVnMXB3LXFFYzV6NmpGUzNpT0F3?oc=5",
+      "s": "조세일보",
+      "d": "2026-11-21T15:01:00+00:00"
+    },
+    {
+      "t": "\"금리 올려도 집값 못 잡는다\"…반도체 수출 대박이 부른 '유동성 역설'",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZGg4dHpQUllHRGRGY2FQZTNlZTBuWW1BQXhWMzE0VFc5d09Wenc1TTY3bEU3Z1p0SWRpTDVIUzh4bE11VkZ1aGJ3RG5kVUQ5MlhjM21PWEZPMVVWUTBrNNIBeEFVX3lxTFAyN2p6amZ6cjFfRXJ0b3I4aGhROHJ4SG5vZ0N6OU50WnZQRTExYUY4Tm9jZHpJbG1leFo2aW9fRWZORkpxN01Zb09aV2pKV1JtSzBGdENxdnRiUWFvdm9JQV96Q0NxWWVlRUlDZlY2V0lYT2o4a2VfYQ?oc=5",
+      "s": "뉴시스",
+      "d": "2026-11-21T15:00:00+00:00"
+    },
+    {
+      "t": "[김대호 인물] 크리스토퍼 윌러 연준 2인자 \"빅스텝 금리인상\"",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblNRcEplVFVEOFNmS2FzNVBieHFxR2t0cmVtYlFxSzB4YnFjekJnV1dxMGJOTDNSVVYxSjNQUngtVXU1al8wNjBUV0pDODV5ZldlTXlIUEwyMWt2X2sxektZdFpnOXBwaHhOR1E5RVRFY3k1RnZsRU1zQWYzYXBaNHk5V0t6Ri01?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-21T14:55:00+00:00"
+    },
+    {
+      "t": "‘인구 7억3000만’ 자유무역권 탄생…EU·인니 “관세 90％ 이상 철폐”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CMS1BcGt5anQtWC10ekRjMHljUU9BOGUybC1OXzc5b25yVU53YUltQ1BwSnZpVVhlQlhJY0pLWmxGdXRHVzM5V2NWSDBFVlBEN0HSAVNBVV95cUxOaUZuVG95SEctVTlCLUN3a19CQzlGOUJtRUh5bjJHZXZqdW9rOGlRSGN0VGpYQmV6UVBFS3BPOGJBZHIySWhDYmlTQU5PRVRPcjJSZw?oc=5",
       "s": "서울경제",
-      "d": "2026-11-21T04:43:10+00:00"
+      "d": "2026-11-21T14:46:50+00:00"
     },
     {
-      "t": "수출 1조 달러 달성했지만… ‘반도체 편중’ 넘어 성장 온기 퍼뜨려야",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UTmxsZ3Y2WnhUSTNzMzRGLUxHSjBjdVB5OUJ0MHloa3BKYkVFS19GbWpPdWxJR2dMRTNxRFJIdmpqZVRBVGQ2S0ZiR01SWll3YkxiMkJ0YVNBTkhRUjdrUFRTdUkycWFDRzlWOWVR?oc=5",
-      "s": "더스쿠프",
-      "d": "2026-11-21T04:34:29+00:00"
+      "t": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMWE0eGVaN0ZQSXMxZWtaVTVNZlEwVEhjUnZ3LUphOGdVQVVxdTMtSUxEaU5mMllDZGlUNTJSQUFac2NHbnlkU0lhaEdrYklDTk5HZ2pDdFpVdnk5TkNMZ1JLLWJBR05aZ0HSAW5BVV95cUxOWlk5SFN0YWZVQ1pJZTNtN1pGbkVjN0VKMnFwVnZFTDQ3bDVqbzRJdUE0OTczM0lkckxHakN0WDJsb01rVEpMcXpIeGhNWkdLbWNBNk8xOW1Ec3Q3OXFxRjduSHpVcy1ueHdJdlhiQQ?oc=5",
+      "s": "주간조선",
+      "d": "2026-11-21T14:40:17+00:00"
     },
     {
-      "t": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
-      "s": "파이낸셜뉴스",
-      "d": "2026-11-21T04:15:09+00:00"
-    },
-    {
-      "t": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라\"",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSnBhSjdlaldSRk9TcmVOYjdUOU9saVlDRXhFRTlrOC1GMkcwVm1hSndIdjhtNmNudG9xbEc4N2RNSmhpTkxIMzhkOFQwLTkzU2hDSHB0Vm42WDU4c0s4V0xB?oc=5",
-      "s": "매일신문",
-      "d": "2026-11-21T04:12:57+00:00"
-    },
-    {
-      "t": "\"반도체 호황에도…취업유발은 10억원당 2.4명\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UGdOZEw5Mno1M1hvUXhfTGNrbVpfZTJHa3JpTmxIY3NJN3NNY08wUUVzaVRRZDJ1WDlBZDJra0xDaEI2VzFhQWQ1UFhocVF4RVFndmRxeVRVM0RYdjRjSlN5ZGo0NE0?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-21T04:10:00+00:00"
-    },
-    {
-      "t": "美 “’관세 대체’ 무역법 301조 조사, 연말까지 마무리“",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04R0xhcWNIdHNYOURkT1g1Umw3S25BdjhVcjdkNWF4N3Njc3Z0S05kTFBFMERCZ3RoaHFVRGY0S3VlSHFIZkdtSU1jVUo5LUtGc1ZHU25sQTJQU2NrX1huWmZfUlNSdDg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-21T04:08:00+00:00"
-    },
-    {
-      "t": "코스피 4,900선 붕괴...미국 물가·한은 금통위 '주목'",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01RVpnMTNOMmFVUUlCandGdldFajM3NFZ1eVl5V29JQ01IQ19iN2wyS1VIdHk4WVNYNkdhNlVEZ0VZQ2ZJbGFLeVUzcnlZc2w2d1llRkRiQ0x0SVItZXc?oc=5",
-      "s": "YTN",
-      "d": "2026-11-21T04:03:00+00:00"
-    },
-    {
-      "t": "AI 반도체주 급락 도미노…美 반도체지수 5.3% 하락, 코스피 5000선 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xMHRKc195OW9YRkNoVmZzN3FVMklOR1F0YVVDNHNyVVlmQnNJb0V6eW9vQmpvdnpLOTdqQWhlZ0lLVkZtX3VZb1MwclZTVU5lelFmN0ktNTZjb25RM25MbjUtVWxEMGlhTTR4Yg?oc=5",
-      "s": "브랜드뉴스",
-      "d": "2026-11-21T04:02:40+00:00"
+      "t": "[전규열의 경제포커스] 2027년 경제전망 ···반도체 호황, 성장 과실의 확산이 관건",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zYlVzb0U2dWhKS0RkSkJxQkI5ZlI4N2NKcDhFekpNWFliUHhIRTMtRUhNSkZfOGRHNmktdDdYdXBYTWRwTWVjNml2MC1QTkFxUC1QNkFXd2VfaHV3QTZMN2todW1BTTRrTVdqc0h3?oc=5",
+      "s": "폴리뉴스 Polinews",
+      "d": "2026-11-21T14:37:10+00:00"
     }
   ],
   "asof": {},
