@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-21T04:45:30+00:00",
-  "quotesAt": "2026-11-21T04:45:30+00:00",
-  "newsAt": "2026-11-21T04:45:30+00:00",
+  "fetchedAt": "2026-11-21T05:00:21+00:00",
+  "quotesAt": "2026-11-21T05:00:21+00:00",
+  "newsAt": "2026-11-21T05:00:21+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 6910.39,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "[김대호 인물] AMD 리사수...반도체기술 중국 밀반출?",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWFpeVJGU3h2YUNEam1PU19ua251VFJtR0IwZ1VmR2FBUFoyXzlwOW9QWk9uTmpael9FYnAwOUJCcWJjQmNqeGlkamplSEF2VFpKT0wtLUs5eWpIaGhFVk9CT1hHTDdhUGw0V01jYXRhOVgwSFE1WGRINm0wcXZKMXJCSmwzejY2?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-20T14:55:00+00:00"
+      "t": "수출 1조 달러 달성했지만… ‘반도체 편중’ 넘어 성장 온기 퍼뜨려야",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UTmxsZ3Y2WnhUSTNzMzRGLUxHSjBjdVB5OUJ0MHloa3BKYkVFS19GbWpPdWxJR2dMRTNxRFJIdmpqZVRBVGQ2S0ZiR01SWll3YkxiMkJ0YVNBTkhRUjdrUFRTdUkycWFDRzlWOWVR?oc=5",
+      "s": "더스쿠프",
+      "d": "2026-11-21T04:34:29+00:00"
     },
     {
-      "t": "시장, 연준에 \"금리가 지속 불가능한 수준\" 신호 보내 - 씨티",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XdURWVWZWd2JpdlBVOTYtQzZXQmZaUE1JQ0JFZHpmTVhELVlfMmpvM1NaSjR4dFpHREMwWmFjS21ncWJxb1ZmcmtTUldFZUJfZlZWMEVJWDdhNDJmT19FdkFrOWJLZTRDc1ZPT1NTaW8?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-20T13:45:00+00:00"
+      "t": "한은, 금리 인상으로 기울었나...코스피 5천선 회복 여부 등 내주 경제 핫이슈",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMDZ6RnhOUnFiNnhvdXdVZk9keWg1VmU2eDY2T0JXaV9KV3FVLUZ4cjJUUnNhLVhyY09wU29BczQtdVgtM25YY0l2ekhBOE16YkVTdDBtM0Y1Zw?oc=5",
+      "s": "파이낸셜뉴스",
+      "d": "2026-11-21T04:15:09+00:00"
     },
     {
-      "t": "‘4869.96’ 올해 1월 수준 돌아간 코스피…고점 대비 3400조 증발",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GR2d1M1dqY1JuV0I3OEpDcldiOVJKOEx2cUNnRzZzZjBHcDMyX2t3MnNpa2tTdk1WRUx1ZmQydS1Rd0lORVM5emtWT2tBSzM5Wk5GMHE2MGh4aXdqODdxWl9IQXoxVms?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-20T13:28:00+00:00"
+      "t": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라\"",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSnBhSjdlaldSRk9TcmVOYjdUOU9saVlDRXhFRTlrOC1GMkcwVm1hSndIdjhtNmNudG9xbEc4N2RNSmhpTkxIMzhkOFQwLTkzU2hDSHB0Vm42WDU4c0s4V0xB?oc=5",
+      "s": "매일신문",
+      "d": "2026-11-21T04:12:57+00:00"
     },
     {
-      "t": "Nvidia의 자금 조달 리스크, AI 반도체 주식에 압박 지속될 수 있어",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85aVBXT2N4RmhuV196dkNXMkpfX1F6bU95S18zLW1zREF3Nm1DLVFEY1FwaUt2b1JhS21YcHY5a2Viekw1ZF8ycWlkbkxQVzZDQ295ZjdJV2VEUzdNTks1Sm1KNmdrR3BqZnlLcUY2REQ?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-20T13:23:00+00:00"
-    },
-    {
-      "t": "뉴욕증시 개장 전 특징주...앤스로픽 상장 이틀째 급락·인튜이트 10%↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02ek9EWXlSVmRwRkpzX0RMaXlzcFVrcWNKNXlRQUg3VzBjZGpvRW51OG5ONGwwdkJWNG9sUWFSa1VZYkRJMUMybWF3emNfOE1NRGdnLWVfZ1FHSHRP?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-20T13:22:00+00:00"
-    },
-    {
-      "t": "[오늘의 뉴스 종합] 美증시 급락에 코스피 5%대 하락…4900선 무너진 검은 금요일",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jamI5UFYzODJody10RFVDakZ2X1JjTFZfUlkyb2ZvVUt5T1VhM3pDaHR2YlE5bmdJdm1KTUFaZndmcHZIZUUyb2NlbDRkRU5mdUJMRkNCam1BZ9IBWEFVX3lxTE9TTGJjNWZyaXRLUnBMcDF3Q194c0VEYUJtbktNLTlvdHhSNmlzeFBOSDdrcmVoN3VueFBwLXV6NEVOS1ZMVlRxXzE5MlhKVjAwT256R3NDa2o?oc=5",
-      "s": "아주경제",
-      "d": "2026-11-20T12:50:36+00:00"
-    },
-    {
-      "t": "[마감시황] 코스피 5%대 ‘폭락’…美 반도체 규제 악재에 4800선 추락",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TVczNTVMNS1TMllvcHItazdzMDRwX1k3Y3BRNzFFd2sxRDNkc1Rrak9WTzVyb2Fkei1PRGxNZVdxNk5kbDRpUG9SOUhOUDh2UVR4STZBREFsRmEtOEtrdDRDeWd2WFhxblVZYjl6c2hhUQ?oc=5",
-      "s": "한양경제",
-      "d": "2026-11-20T12:47:01+00:00"
-    },
-    {
-      "t": "면접 앞두고 '삼성·SK 추천?' 반도체실장 내정 논란",
-      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzQndibnpzc2NxaVZxbm9DcHRlVVFLdUpSd25aWGZLVmxMM1I0OXdBcE5vaW9SOVR4RGFsdDd1V1BVZlNXNlVWVWFiZTZsVVl0UDVkWEF6Y1laYm5mS293NzZR?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-20T12:25:13+00:00"
-    },
-    {
-      "t": "오징어에서 반도체까지…‘메이드 인 코리아’ 80년사",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jRWVjY1EyM19mNkhnc2ZULTVjLXNBMXB0U2U2Qlc3NW9yU1JMZkNQSlpUUEtkekpqMTdDZFRCXzI4anQ1UG1odjFxNEtwZmpzNF80YkVzQXpiVm9ibkpRd1B3VjJVZw?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-20T12:20:00+00:00"
-    },
-    {
-      "t": "앤트로픽 상장에도 외국인 ’팔자’…AI·금리 변수",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DM2lleDRNV3VEbmlFa1I3eDFHbzlZV21fMk9vUUFkaV80RTVHbWhNSldsa3FZVFJTc3M4M3pWcGU4azZZMHQzWno3RkNBdEMxZkhyTVR2TVIydUg3aXNiQUxPX0pVYjQ?oc=5",
+      "t": "\"반도체 호황에도…취업유발은 10억원당 2.4명\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1UGdOZEw5Mno1M1hvUXhfTGNrbVpfZTJHa3JpTmxIY3NJN3NNY08wUUVzaVRRZDJ1WDlBZDJra0xDaEI2VzFhQWQ1UFhocVF4RVFndmRxeVRVM0RYdjRjSlN5ZGo0NE0?oc=5",
       "s": "연합뉴스TV",
-      "d": "2026-11-20T12:16:00+00:00"
+      "d": "2026-11-21T04:10:00+00:00"
+    },
+    {
+      "t": "美 “’관세 대체’ 무역법 301조 조사, 연말까지 마무리“",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04R0xhcWNIdHNYOURkT1g1Umw3S25BdjhVcjdkNWF4N3Njc3Z0S05kTFBFMERCZ3RoaHFVRGY0S3VlSHFIZkdtSU1jVUo5LUtGc1ZHU25sQTJQU2NrX1huWmZfUlNSdDg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-21T04:08:00+00:00"
+    },
+    {
+      "t": "코스피 4,900선 붕괴...미국 물가·한은 금통위 '주목'",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01RVpnMTNOMmFVUUlCandGdldFajM3NFZ1eVl5V29JQ01IQ19iN2wyS1VIdHk4WVNYNkdhNlVEZ0VZQ2ZJbGFLeVUzcnlZc2w2d1llRkRiQ0x0SVItZXc?oc=5",
+      "s": "YTN",
+      "d": "2026-11-21T04:03:00+00:00"
+    },
+    {
+      "t": "AI 반도체주 급락 도미노…美 반도체지수 5.3% 하락, 코스피 5000선 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xMHRKc195OW9YRkNoVmZzN3FVMklOR1F0YVVDNHNyVVlmQnNJb0V6eW9vQmpvdnpLOTdqQWhlZ0lLVkZtX3VZb1MwclZTVU5lelFmN0ktNTZjb25RM25MbjUtVWxEMGlhTTR4Yg?oc=5",
+      "s": "브랜드뉴스",
+      "d": "2026-11-21T04:02:40+00:00"
+    },
+    {
+      "t": "코스피와 따로 가는 달러-원…하반기 들어 역상관 약화",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNkpsSThuS29SR3BvcGNRQUI3NHpLU0pXcG1ZQy1jaEI2MVFqeW9XSEJTSjZYVEllRUF4WnVtaWs2RVUzYjlSR2ZzdWhhZVM0RWY0YXA1Tm8xOEVCYUpDRzNubHBfQUhMeE5xZWs1OUQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-21T04:01:45+00:00"
+    },
+    {
+      "t": "JP모건 “미국 금리 3연속 인상”…트럼프 인하 압박과 정면충돌",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Zcmtua0tmWWduTFUzQ1RSTUNaUEdnLXFDajBTRWtSX0duWm55V1o0TkdxUklkX2cxVVNHQUE1bU8yM1ExV0lzZnlGNGh4d1NfbGVLalJ2ZUxHZE1WVTFRS1plYmo0eXFBX0E?oc=5",
+      "s": "OBC 뉴스",
+      "d": "2026-11-21T04:01:44+00:00"
+    },
+    {
+      "t": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의 테크X]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUFdleVN3by1tamhUajFQczRqMHA2djFDNHJfMmhLMzNBNXNpQl9kYWgyYXdGVUtJRDFoM19MUFQ5TUNveF9OQnJoVFRVLXctNFVBbWpjcU1OUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-21T03:51:00+00:00"
     }
   ],
   "asof": {},
