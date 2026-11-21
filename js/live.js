@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-21T17:15:24+00:00",
-  "quotesAt": "2026-11-21T17:15:24+00:00",
-  "newsAt": "2026-11-21T17:15:24+00:00",
+  "fetchedAt": "2026-11-21T17:30:23+00:00",
+  "quotesAt": "2026-11-21T17:30:23+00:00",
+  "newsAt": "2026-11-21T17:30:23+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 6910.39,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": 26.2
   },
   "news": [
+    {
+      "t": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감] - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSEFWQ0pNTzVzSE1POG1LMUcybWlGR2VRcnJoYWVzajFVRnR3Umg3ZWp3Y25pMGsyMWdhUFotV2d2VDNnRXZJUzR0TXZCN1hiZVVUUUdDdldUUS1XbldJSTcxbGUtR0NV0gFuQVVfeXFMTUZqQmZFcjFIQ3ZuN253SEZoSXNhLThieDRwelpWOW5scXQ2aDhPNEhVZWdraUZadWZYaVVmX1R5RWpYNmtIRWlydW1PSmkzUG5SUllKUDY0OTNPVWExbXlmQ3RXT2Z6RkRGWU83OWc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-21T17:09:16+00:00"
+    },
     {
       "t": "美 비축 구리 중국행 본격화…관세 베팅 역전",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjlLSTNheF9nX2hzRDcyRENPSTczckVzWXhkdjA3THU5N1h2U0t4Z0w3NjVCdjBwa09QOGNZYWNJSlR5VmZ3X3prRndMcnlJc3hjdnRCTHBCelFzajY2b0Zjb2VadUlfQ0syMFo4YVJ1QlB3RFpMUnpDTVVGMXZPTUE4bHd5MXlr?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMWE0eGVaN0ZQSXMxZWtaVTVNZlEwVEhjUnZ3LUphOGdVQVVxdTMtSUxEaU5mMllDZGlUNTJSQUFac2NHbnlkU0lhaEdrYklDTk5HZ2pDdFpVdnk5TkNMZ1JLLWJBR05aZ0HSAW5BVV95cUxOWlk5SFN0YWZVQ1pJZTNtN1pGbkVjN0VKMnFwVnZFTDQ3bDVqbzRJdUE0OTczM0lkckxHakN0WDJsb01rVEpMcXpIeGhNWkdLbWNBNk8xOW1Ec3Q3OXFxRjduSHpVcy1ueHdJdlhiQQ?oc=5",
       "s": "주간조선",
       "d": "2026-11-21T14:40:17+00:00"
-    },
-    {
-      "t": "[전규열의 경제포커스] 2027년 경제전망 ···반도체 호황, 성장 과실의 확산이 관건",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zYlVzb0U2dWhKS0RkSkJxQkI5ZlI4N2NKcDhFekpNWFliUHhIRTMtRUhNSkZfOGRHNmktdDdYdXBYTWRwTWVjNml2MC1QTkFxUC1QNkFXd2VfaHV3QTZMN2todW1BTTRrTVdqc0h3?oc=5",
-      "s": "폴리뉴스 Polinews",
-      "d": "2026-11-21T14:37:10+00:00"
     }
   ],
   "asof": {},
