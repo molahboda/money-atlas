@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-22T13:15:33+00:00",
-  "quotesAt": "2026-11-22T13:15:33+00:00",
-  "newsAt": "2026-11-22T13:15:33+00:00",
+  "fetchedAt": "2026-11-22T13:30:24+00:00",
+  "quotesAt": "2026-11-22T13:30:24+00:00",
+  "newsAt": "2026-11-22T13:30:24+00:00",
   "quotes": {
     "kospi": 4869.96,
     "spx": 6910.39,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "\"호재도 안 통한다\" 나스닥 5%대 폭락 쇼크...엔비디아 14%↓[뉴욕마감] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSEFWQ0pNTzVzSE1POG1LMUcybWlGR2VRcnJoYWVzajFVRnR3Umg3ZWp3Y25pMGsyMWdhUFotV2d2VDNnRXZJUzR0TXZCN1hiZVVUUUdDdldUUS1XbldJSTcxbGUtR0NV0gFuQVVfeXFMTUZqQmZFcjFIQ3ZuN253SEZoSXNhLThieDRwelpWOW5scXQ2aDhPNEhVZWdraUZadWZYaVVmX1R5RWpYNmtIRWlydW1PSmkzUG5SUllKUDY0OTNPVWExbXlmQ3RXT2Z6RkRGWU83OWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-21T17:09:16+00:00"
+      "t": "반도체 품은 경기도내 지자체들 ‘곳간 넉넉’",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhb0ttZXZ6UjdqbVdQazJ1cm9YR201anZqeXFrTk00RHllcWtCLXpwTWp2bGFIMks5X2FHRDVxZldsT19PcFhHS3R4NUxnd0UxbXg2ajVGZkN6NWkwOWMzTjNXQXR2TlZ2MUg3ZjhiVQ?oc=5",
+      "s": "기호일보",
+      "d": "2026-11-22T13:29:09+00:00"
     },
     {
-      "t": "美 비축 구리 중국행 본격화…관세 베팅 역전",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjlLSTNheF9nX2hzRDcyRENPSTczckVzWXhkdjA3THU5N1h2U0t4Z0w3NjVCdjBwa09QOGNZYWNJSlR5VmZ3X3prRndMcnlJc3hjdnRCTHBCelFzajY2b0Zjb2VadUlfQ0syMFo4YVJ1QlB3RFpMUnpDTVVGMXZPTUE4bHd5MXlr?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-21T17:00:00+00:00"
+      "t": "골드만삭스·JP모간 “내년 유가 78달러 간다…체크 신호는 4개”｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92NkVzcXBDQUI4R1hLMDVGbG1YUmVZcElkN2tpVDBXZ3V2dFUyOFBIYVNwRmlxOXRuTDNpTXFIZjI2Y0M1NjlMZ3ZoNjBJWmthekJZUjNqR2xQbDA?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-22T13:14:48+00:00"
     },
     {
-      "t": "EU·인니, 90% 넘는 교역품 관세 철폐… 7억3천만명 시장 열린다",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XR2duSWZkNWFuUDJ5Zkh2Y3ZuRVJ0NXJRY0ZHWWdHV3ZjeUxjVUNxb1JjX0JGYnVmUk5uMm4xNWhIRWkzcFNtVlBUeHpodkp0ajFibzJjZElvbFdaT2pKVnFrVVZyamNZblE?oc=5",
-      "s": "천지일보",
-      "d": "2026-11-21T16:00:00+00:00"
+      "t": "미 AI 투매에 '검은 월요일' 오나?...\"증안펀드 가동 준비\"",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3Nk1qRWhXb1paUkNtVXI5bWQtdEh5aDE1X2pJOVJYYzVpVVhVQjlyUzBYdkdwOF92TUJzZ2FSdFItZDZrOGx1RzVRSl85QzMzQWVVdFVuVHhxSmQ5U2c?oc=5",
+      "s": "YTN",
+      "d": "2026-11-22T13:02:00+00:00"
     },
     {
-      "t": "코스피 5% 폭락했는데 美 나스닥도 5.28% 추락…23일 ‘삼전닉스’ 또 시험대",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uOW90ZVR5amRKRmFTQnptMDJ2RDRUeVhhU0NBM3ljdVQyLV9RMVhrdHctM3FvbkFGQm1zNXNxYWdOcmFyZElaN2dUNUhOTWtuMDNzNFZnMnBVRHpKNHQzN1JxeUdkbVh6ZTNtdw?oc=5",
-      "s": "데일리25",
-      "d": "2026-11-21T15:10:00+00:00"
+      "t": "\"中기술주 지수 시총, 6월말 이후 2천300조 증발\"…증시안정조치(종합2보)",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yZ3hRUmYxNzBmZERTbjJoZzRnS3JvZ0RmNi1BUHUxTHdXWkJTeXFneHRnS1dhQTRUcHRENjdueFJ6aENBVlQxSXNGT0lwb1JtQWVkSkdyTVJnYkNjcExIY2RNYUhKUUF6OXhLMDNEOUFjbmdn?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-22T12:56:19+00:00"
     },
     {
-      "t": "EU, 인도네시아와 무역협정 체결… 관세 90％ 이상 철폐",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWjVfQVUtRmZta2J6Tjlyd1UwWHdOOWVrVmtQWnJCdHFoZDJxaVk3YmZYcUxQMGJzU3gzS3NxdUllRDN6cGFaZks3NldZYzNJTURnMGJpWHN4a2tZNHp0b3BGWURXWXdqQ0JIYmhWbmVOemRDUWlOWkFqQ3VtWDdDdXJIcU1FZER4REhNakJETFNEWFZ1dW9VZ0d1d0x4UdIBsgFBVV95cUxOUTh1MDM2VGFsd3ZHU25CUVhyRjNGaGNOUF8tTnF3NUVtdUpTeVVzZGtIQ04tY1k4UG9GVWRlQVJPYnh3dXdfakNrNU9ucVVzRzE1NjVleXpiaTQ2UFhaQTdITlFKOUdFRER4djVlckg0QzEteFdMcXFYVkMyVWFnT2JtaXdESDRSbmFfZnVJVnI5MUpxb0ZOd1FSQVlMYlo4VUc2LXl3NGJxTG1pMjdmTGh3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-21T15:02:00+00:00"
+      "t": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CdUhGWFJVT29lLVR0Tjh5T1JBSm83dHg2LUZicEt4WlRVMDNkWGVwbXFna2ZEYklJZGlJYXdqUEtpREVlcDZEMW82UlZqRlpFS2c?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-22T12:51:42+00:00"
     },
     {
-      "t": "대만 증시 급락에 당국 초강수…23일부터 전일 종가 밑 공매도 금지",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZTlh4NFhzN0RKQ001UTN4dDI5LTZYU2lycFlDaW9lOHpFRGlIcW1UVE5SN3RPWjlsWUtLTHo3U0lyNDJfQk9ndWNxUDVnMXB3LXFFYzV6NmpGUzNpT0F3?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-21T15:01:00+00:00"
+      "t": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kR1UzZXdGa1NDYkQwbENwajh3cjd4ckpTSG1yTmNTX2NQSDdkU3FqYUFFZXMwMnpabU1TR19LeVdvM3g0TV8xR2YyVzZZLXFYM2FYOXJzM2JwQQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-22T12:27:00+00:00"
     },
     {
-      "t": "\"금리 올려도 집값 못 잡는다\"…반도체 수출 대박이 부른 '유동성 역설'",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZGg4dHpQUllHRGRGY2FQZTNlZTBuWW1BQXhWMzE0VFc5d09Wenc1TTY3bEU3Z1p0SWRpTDVIUzh4bE11VkZ1aGJ3RG5kVUQ5MlhjM21PWEZPMVVWUTBrNNIBeEFVX3lxTFAyN2p6amZ6cjFfRXJ0b3I4aGhROHJ4SG5vZ0N6OU50WnZQRTExYUY4Tm9jZHpJbG1leFo2aW9fRWZORkpxN01Zb09aV2pKV1JtSzBGdENxdnRiUWFvdm9JQV96Q0NxWWVlRUlDZlY2V0lYT2o4a2VfYQ?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-21T15:00:00+00:00"
+      "t": "대구 차부품 ‘빅3’ 3분기 매출↑순익↓…환율·비용 여파",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fWHYyY1ZZSkVxaFlRc0wtWDFEVHZhU3h6MXZ5TXhDdlpTWE01MGp5dlFOYTNWbnZ0dGM5RFplN3hSbm01YzhlRy1MUEdwTGpsUzRVcHJ2ZXRyU3drZ1A3aWlCcjZNSWIwYlhR?oc=5",
+      "s": "영남일보",
+      "d": "2026-11-22T12:19:47+00:00"
     },
     {
-      "t": "[김대호 인물] 크리스토퍼 윌러 연준 2인자 \"빅스텝 금리인상\"",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblNRcEplVFVEOFNmS2FzNVBieHFxR2t0cmVtYlFxSzB4YnFjekJnV1dxMGJOTDNSVVYxSjNQUngtVXU1al8wNjBUV0pDODV5ZldlTXlIUEwyMWt2X2sxektZdFpnOXBwaHhOR1E5RVRFY3k1RnZsRU1zQWYzYXBaNHk5V0t6Ri01?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-21T14:55:00+00:00"
+      "t": "‘AI 투매’ 검은 월요일 공포…정부, 증안펀드 가동 준비 착수",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-22T12:17:00+00:00"
     },
     {
-      "t": "‘인구 7억3000만’ 자유무역권 탄생…EU·인니 “관세 90％ 이상 철폐”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CMS1BcGt5anQtWC10ekRjMHljUU9BOGUybC1OXzc5b25yVU53YUltQ1BwSnZpVVhlQlhJY0pLWmxGdXRHVzM5V2NWSDBFVlBEN0HSAVNBVV95cUxOaUZuVG95SEctVTlCLUN3a19CQzlGOUJtRUh5bjJHZXZqdW9rOGlRSGN0VGpYQmV6UVBFS3BPOGJBZHIySWhDYmlTQU5PRVRPcjJSZw?oc=5",
-      "s": "서울경제",
-      "d": "2026-11-21T14:46:50+00:00"
+      "t": "美 증시 급락에 '증안펀드' 가동 준비…불법 공매도 특별감시",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdlFTMTAyM0FKZ3RpSE9ld2g2Rk5yU2tuVmEzcERQdmVIMWhFcUE4dGliYUtPVkpFV3NQU0tHR1Y2di0xaENXUEw3dHlCN0NpMnNHY1BqVlpvWkRkUkh0dUcxeV9CV3NwR2Y1bmEzSdIBc0FVX3lxTE1EemRFZHlUbGRTcHJBZ3NfdkJBTloyb1RaV25KZTZ6dVlpRUZYS0pzQWlHWFF4aGptWUMxVUVWQWJXTDdmZHE5Qktha1E5VkRuUzY3dTZWZWRoUFlwbjQxRnV4eXhEaWFRWE8wclVLd0pLbEE?oc=5",
+      "s": "뉴스웍스",
+      "d": "2026-11-22T12:16:20+00:00"
     },
     {
-      "t": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMWE0eGVaN0ZQSXMxZWtaVTVNZlEwVEhjUnZ3LUphOGdVQVVxdTMtSUxEaU5mMllDZGlUNTJSQUFac2NHbnlkU0lhaEdrYklDTk5HZ2pDdFpVdnk5TkNMZ1JLLWJBR05aZ0HSAW5BVV95cUxOWlk5SFN0YWZVQ1pJZTNtN1pGbkVjN0VKMnFwVnZFTDQ3bDVqbzRJdUE0OTczM0lkckxHakN0WDJsb01rVEpMcXpIeGhNWkdLbWNBNk8xOW1Ec3Q3OXFxRjduSHpVcy1ueHdJdlhiQQ?oc=5",
-      "s": "주간조선",
-      "d": "2026-11-21T14:40:17+00:00"
+      "t": "정부, 증안펀드 가동 준비 착수…증시 변동성 확대 대응",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5V0pfYnJFWVZCQjQ0NkZLdS1kZTZEUU5RUjR1OVJTTkQ2aktlc3N1cVRYWE9LdDJNcXd0LUdzb21oZ2NVcGVWRjFnempXQQ?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-22T11:54:59+00:00"
     }
   ],
   "asof": {},
