@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T16:46:02+00:00",
-  "quotesAt": "2026-11-24T16:46:02+00:00",
-  "newsAt": "2026-11-24T16:46:02+00:00",
+  "fetchedAt": "2026-11-24T17:01:02+00:00",
+  "quotesAt": "2026-11-24T17:01:02+00:00",
+  "newsAt": "2026-11-24T17:01:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7161.78,
+    "spx": 7163.58,
     "nikkei": 58644.63,
-    "vix": 28.64,
-    "krw": 1344.48,
-    "gold": 3566.1,
-    "wti": 80.45,
-    "dxy": 103.85
+    "vix": 28.38,
+    "krw": 1344.28,
+    "gold": 3567.9,
+    "wti": 80.96,
+    "dxy": 103.88
   },
   "daily": {
-    "spx": 3.64,
+    "spx": 3.66,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": 0.01,
-    "dxy": -0.46,
-    "gold": -2.34,
-    "wti": 0.35,
-    "vix": 7.59
+    "krw": 0,
+    "dxy": -0.43,
+    "gold": -2.29,
+    "wti": 0.99,
+    "vix": 6.61
   },
   "news": [
+    {
+      "t": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WGp4U2VWNXpxNVZBZzNXZnZaM085a0JjRFVjaWNEYkhzTUFwQTlpVDJFdHN2NHZVYlB3bjY5VjFUUW9aTU5hbkJvaFNvRG1pWi1XS2RCNXlOMnpLMEUyamNuTm5oWEVoRnZzbHhOcTc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-24T16:48:20+00:00"
+    },
+    {
+      "t": "블룸버그 \"트럼프 과잉생산 관세, 무역협정 세율 안 넘는다\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRQWR0a2hjR3RTc2tqQzR4TEVjUkw3TDJzQWV5V1NyenhlWV9kb2Q1ZjN2dHRpWnNFV1U5Sm0weVZ6ZDYxUG1hTnZTZUNZT1hqOVJCS1lGc1doQUw5?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-24T16:46:00+00:00"
+    },
+    {
+      "t": "美 과잉생산 관세 이르면 이번 주 윤곽…韓 15% 유지 주목",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNGZzWGNqTkhGZFlTX2pTZ3VvWi1SRVJ2YVQwVm5NOWNHN0g0dDBnbFdSSFJ2Mld2VVViaFRQdDhUZWJmZGFVRW1aNWFsT196a2k4LUs3RC01dw?oc=5",
+      "s": "경북매일",
+      "d": "2026-11-24T16:43:00+00:00"
+    },
     {
       "t": "국제금값 3620달러선 약세…美 물가지표 대기",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTVNSWRlQzg2dTliWUloeHp6RTJEaEJhMERtYl80Q1kyU3E1Zkcta1FPTzVYaGVDQ25wQ0xva2o4SktRRTdfZWtjTXJUdEFjOUdwbGVGRnpwdUNXa1R0T3JTS1JLS3pTQk80OUNjRURoakotNUJEUnM1U1BNT3NiR05iOFYtcTBy?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zTHl0WU42UDJoSncycGg1Rm93OTdldkpHZXRIUGFHOFo5dmhhWVZHYmg3Rjd4bnltMXFJNm9JeFdjR0g4NmhfUmRVSzVGeFptVkJsX1FGSDBxM2hNcEpaWlFhQlllcGc?oc=5",
       "s": "한겨레",
       "d": "2026-11-24T15:39:00+00:00"
-    },
-    {
-      "t": "전북, 반도체 핵심 소재·부품·장비 공급망 중심에 선다",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0tiR3NKbEttMTFqV29tOFp3NUR6ZHVqVVk5aVJ2VjFaNzJXd1k3SndwMFRoa04weHZYQ0RXZDRMMGhaSUR6dmFSeUo2WTZlOGhXZlotRVU3TzVMS3NPQi1oeEoyTkY3WTZvT2V1cHRwdFR2azlSRVRoRHFjQTNiRURFamR2LUcyWTVTSlNB?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-24T15:38:00+00:00"
-    },
-    {
-      "t": "빗장 풀린 자사주 매입, 증시 ‘구원 투수’ 될까",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSW1HR0N4a0JPR3AyMVBBSjE2TWRLcjZhQkplNWhvX2FWdEFNYy1NMHdrcHJQM09TaU1tYjU1LUJIY3ZpUGl3ZDVCSVNLVm00Z2FqXzhUTndoSzh0djZ2R0N5cWdQQXZZR1hiWDM2YnJVQUUtUm5WTWl4Q0FUcEpyeHRvUnE2TEdH0gGcAUFVX3lxTE56cmh4UkVmNHJsZWNReVRTd3VTaEVEaHc4RWFGb05ZRU9XcF9LNkoybHBzckYxMzVaV1FOSUMwSzJzVUtMY0lBa0NMU0RVQzVIdUtXblJBVEFad1pDV0xwZGhYcTcxNzJCUnI2MnBpZ1dWUjRmeWdYaFg3ekVzR0lkU1VTaVRXYWFlR2pPbDRmVGxTMUwwX0xJNjRTdQ?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-24T15:35:00+00:00"
-    },
-    {
-      "t": "[주식 매매 상위 종목 및 환율] 2026년 11월 24일자",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHRHUVd4clVtRFdybC14MG9OOTdRWTdBUTdGZTFjX2Ztc3ItSWdOMlBteHJGRGVkWkZhYXVnUlhOZmlEZ0Q5THFwS2Yyd2F4SXhuWWQ5SnJoYlA3a1U5dU5BR3dtQWFfOFRIWHhoNEotb0RJNEh5eWlnVkhnd1dBUnFVb0ktOUxD0gGcAUFVX3lxTE1DRDlEQ2h1SmVyTDBkZVdSTDJmSm84YTN4VHFEU2RVbnZwUDhYdlk2LXZlR0tOV1FUVjBPWTBlbG44alFzNHBMOFo1cDNWMDVZMnVpMjFxeXpZaXJsZng1UW0zbXJacDVyWS1DcF9RMGtsbDBoOVNHRGFYOW9sYTR6d2dhQm9rOEpGaTdVOFc4Yms0YTkzMmdNdDBCWA?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-24T15:35:00+00:00"
     }
   ],
   "asof": {},
