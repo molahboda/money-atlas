@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T15:31:01+00:00",
-  "quotesAt": "2026-11-24T15:31:01+00:00",
-  "newsAt": "2026-11-24T15:31:01+00:00",
+  "fetchedAt": "2026-11-24T15:46:02+00:00",
+  "quotesAt": "2026-11-24T15:46:02+00:00",
+  "newsAt": "2026-11-24T15:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7165.85,
+    "spx": 7155.93,
     "nikkei": 58644.63,
-    "vix": 27.35,
-    "krw": 1342.32,
-    "gold": 3590,
-    "wti": 80.95,
-    "dxy": 103.85
+    "vix": 28.75,
+    "krw": 1343.18,
+    "gold": 3590.5,
+    "wti": 80.47,
+    "dxy": 103.83
   },
   "daily": {
-    "spx": 3.7,
+    "spx": 3.55,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.15,
-    "dxy": -0.45,
-    "gold": -1.68,
-    "wti": 0.97,
-    "vix": 2.74
+    "krw": -0.08,
+    "dxy": -0.47,
+    "gold": -1.67,
+    "wti": 0.37,
+    "vix": 8
   },
   "news": [
+    {
+      "t": "전북, 반도체 핵심 소재·부품·장비 공급망 중심에 선다",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0tiR3NKbEttMTFqV29tOFp3NUR6ZHVqVVk5aVJ2VjFaNzJXd1k3SndwMFRoa04weHZYQ0RXZDRMMGhaSUR6dmFSeUo2WTZlOGhXZlotRVU3TzVMS3NPQi1oeEoyTkY3WTZvT2V1cHRwdFR2azlSRVRoRHFjQTNiRURFamR2LUcyWTVTSlNB?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-24T15:38:00+00:00"
+    },
+    {
+      "t": "빗장 풀린 자사주 매입, 증시 ‘구원 투수’ 될까",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSW1HR0N4a0JPR3AyMVBBSjE2TWRLcjZhQkplNWhvX2FWdEFNYy1NMHdrcHJQM09TaU1tYjU1LUJIY3ZpUGl3ZDVCSVNLVm00Z2FqXzhUTndoSzh0djZ2R0N5cWdQQXZZR1hiWDM2YnJVQUUtUm5WTWl4Q0FUcEpyeHRvUnE2TEdH0gGcAUFVX3lxTE56cmh4UkVmNHJsZWNReVRTd3VTaEVEaHc4RWFGb05ZRU9XcF9LNkoybHBzckYxMzVaV1FOSUMwSzJzVUtMY0lBa0NMU0RVQzVIdUtXblJBVEFad1pDV0xwZGhYcTcxNzJCUnI2MnBpZ1dWUjRmeWdYaFg3ekVzR0lkU1VTaVRXYWFlR2pPbDRmVGxTMUwwX0xJNjRTdQ?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-24T15:35:00+00:00"
+    },
+    {
+      "t": "채권시장 종사자 54%, 한은 금리 인상 예상",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ2ZreFYyQTJlZ3pfN3MxcFNSYkxOdmVnS19BSHR0ZkNUZlRvMUZNMlN4M0JRNG9uYlpuTHAxX1Z4RHRMR0pFR0xMSUhMcHBPLXpsNGdod183Mk0wXzhTZDl0MWQtcmt2TkJzMDl0a2w?oc=5",
+      "s": "코리아리포트",
+      "d": "2026-11-24T15:32:31+00:00"
+    },
     {
       "t": "ECB, 12월 금리 인상 가능성 높아…이후 경로는 불투명",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncDZ5ckNfY3g0dFA0clZkU2VlS0ZSLVF0dlJZOUh6WXRJY0s4SjQwQlRiX1JvcHpYdU1BU3lHTm1YMVpJSXJILWtEdTgzQmVVQWZIdHdnekE5YlBWRU5kenk3SmdzeWZWU0E?oc=5",
@@ -55,18 +73,6 @@ window.LIVE_DATA = {
       "d": "2026-11-24T15:08:40+00:00"
     },
     {
-      "t": "美, 한국 등 16개 경제권에 추가 관세 추진…수출 부담 커지나",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wTnAxZDNrMnFpU01DSW16M3Y0bDdJZjhHaW83QzVSYmkxSUJkSGIxaFI4eldTWEkyWjk3R1R6em01bVhCU1F3U2dBLXZrdEl5M0lNNE40UTA?oc=5",
-      "s": "우리경제신문",
-      "d": "2026-11-24T15:08:04+00:00"
-    },
-    {
-      "t": "‘젠슨황 복귀’에 코스피 6%대 급등…‘5000피’ 탈환",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsMTFZd3NoaVFWT3JQRVZobDByWjU0NW5FdXpOVG9DM2t6VFc4R2lKNnZzNFZNTkoyMU1kMThiQ2d0aC0yeUFxREg4dVZ3cldzaXJycmN5MmZlcW1GdXhDZjd0YW8yWHhNZDhMRw?oc=5",
-      "s": "경상일보",
-      "d": "2026-11-24T15:00:02+00:00"
-    },
-    {
       "t": "셈텍, 반도체 업종 밸류에이션 부담...목표가 하향-모건스탠리",
       "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNSlV4YjVVSUZsSHVjZFpPYktFNFhPXzlaNFNHTHJmakVDTGlrTWkzTkJUdWw3OVdvRWZHXzlHUFp2bG9nWE91UW02SXc4QlZRNXZsRGxybWNPVHAzV1BlcXJyY0h1aURGMmU4TXc2NTBCbFk?oc=5",
       "s": "마켓인",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MEFkREc4clRMY3U3R0EtX0tUcWRWY2xTV0k3ZXNRMTVhaDAwc2NBQUdtcVN2amlmNlEydFg2ZXk2RW1YZE90eWNqTnF4aHFxdzJ1Z2FB?oc=5",
       "s": "중앙일보",
       "d": "2026-11-24T14:54:07+00:00"
-    },
-    {
-      "t": "美 ‘과잉생산 관세’ 이르면 이번주 윤곽…한국도 조사 대상",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrWGJDbTRCLTRscUZmM3VBQWE4NXRSS190UVdITmlocUtCUGdoZFk4Y1RFUzNwc0FjYUNsWUJETzFCWGQ3elc2OTJ1Znl0MWxSZzdDQ2hDcU1sdGtaRVpWM3FKWUZpNUJ1OXc?oc=5",
-      "s": "https://www.sisaworld.kr/",
-      "d": "2026-11-24T14:53:12+00:00"
     }
   ],
   "asof": {},
