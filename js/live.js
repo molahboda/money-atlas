@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T18:16:02+00:00",
-  "quotesAt": "2026-11-24T18:16:02+00:00",
-  "newsAt": "2026-11-24T18:16:02+00:00",
+  "fetchedAt": "2026-11-24T18:31:01+00:00",
+  "quotesAt": "2026-11-24T18:31:01+00:00",
+  "newsAt": "2026-11-24T18:31:01+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7196.9,
+    "spx": 7209.82,
     "nikkei": 58644.63,
-    "vix": 26.44,
-    "krw": 1342.98,
-    "gold": 3564.4,
-    "wti": 81.41,
-    "dxy": 103.77
+    "vix": 26.58,
+    "krw": 1342.74,
+    "gold": 3560.8,
+    "wti": 81.52,
+    "dxy": 103.81
   },
   "daily": {
-    "spx": 4.15,
+    "spx": 4.33,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.1,
-    "dxy": -0.53,
-    "gold": -2.38,
-    "wti": 1.55,
-    "vix": -0.68
+    "krw": -0.12,
+    "dxy": -0.49,
+    "gold": -2.48,
+    "wti": 1.68,
+    "vix": -0.15
   },
   "news": [
+    {
+      "t": "금값, 미 달러 약세에도 하락…연준 금리 인상 전망이 시장 주도",
+      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE4xS2l0TEtubWpVeVRVTXVSZWRnem04U25QVVhKY1pWY1RPS2VqSUlhTkM1amY5LVk3NEdyV1k3eXlMUVV4dWM1ZGtMdHdsVDVPa1ZHY01jUmEwYXpBNGJnQkZ5SHl6M3Q4RHpjM05oZVR1dFFQaVNjQjJGc2loWmN5OVZ0Z0dlbko4ZUduNV9tMlBiaDcwS1g0YTNZZGtxSzl6MmJlQmMzQlN5VFk5Mm1oNDFhYllpbWg1RFBqb2cxeFJmWUY4?oc=5",
+      "s": "www.tmgm.com",
+      "d": "2026-11-24T18:18:25+00:00"
+    },
     {
       "t": "'AI 황제' 단 한명에 흔들린 K반도체株 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMEprZS1nVlpIRl91ZjZOQUdHMDFFWm9LOUJpalRyUVIwaTdIMkdFZmJLV1p5Q2ExY2tkdW93bEw5WlFJQS1KWjB0d2xjRkh1eGIxSTRIRkNTRkNUeVE2OGFVYUNkaHJnZWFMREp6a0xIcFdDcXfSAXtBVV95cUxQWXEzOHZ3YV9FV1hpQVB5SGlucVlrQ2IzMkZRLUFmdmNhTXEzbVBCYkFpUkk3SFU5UzJXTm4tQld6LTFJM012aGtpUlN6YUJqYm5IQTdzbnFQLXo0cFpSc2NWZEdXZlBnQ1BzN1N3LXpxQXkzT2dETnNoRTQ?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYW1qdkppWEdmVzNYRlhDSGlCZEc1ZW1RdnBHRF9Ld2xFN2stSnVIeGtldnVTSXZFOU4yRTREYm14YzhPWWZ0cUFyQ21EQXZLRVZxQjdDdDhqY25qUXlEOGw3aHlpQU940gFuQVVfeXFMTTYycjVINnBwdXhwNTBzRjB1R3hRcU5XT21FUHpGXzVGMkp6TjBVZkZJM1dkX2Zxa0E0UWtrZUU3R1dZR29OdXBhNERfX1lJTTJLbU5zQkUzaDJpVnNtaDNEN3VuVXVDSllxanUwRnc?oc=5",
       "s": "머니투데이",
       "d": "2026-11-24T17:13:44+00:00"
-    },
-    {
-      "t": "美 연준 “AI 반도체 공급 부족에 가격 급등”…금리 인상 변수로",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGhMRkg5ZG5NR2dQLTg0VE9kMkhhM1FZZEZhc1BUSXd5MGx0azl6ZXhDampqYkZhQU1PZ2J0enBiZURRYjV6SEg5WGJ1UjhvR20zc2xFM3RiU0w1dEpxXzdGeERZZjFybjBsWnZUbEJJcUZjcmV0OUhkeUdmVnJIM2tRSnRtRGFk?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-24T17:00:00+00:00"
     }
   ],
   "asof": {},
