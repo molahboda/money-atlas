@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T12:01:02+00:00",
-  "quotesAt": "2026-11-24T12:01:02+00:00",
-  "newsAt": "2026-11-24T12:01:02+00:00",
+  "fetchedAt": "2026-11-24T12:16:02+00:00",
+  "quotesAt": "2026-11-24T12:16:02+00:00",
+  "newsAt": "2026-11-24T12:16:02+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 28.36,
-    "krw": 1342.93,
-    "gold": 3633.3,
-    "wti": 80.23,
-    "dxy": 104
+    "vix": 28.38,
+    "krw": 1343.15,
+    "gold": 3625.6,
+    "wti": 80.36,
+    "dxy": 103.99
   },
   "daily": {
     "spx": 0.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.1,
-    "dxy": -0.31,
-    "gold": -0.5,
-    "wti": 0.07,
-    "vix": 6.54
+    "krw": -0.09,
+    "dxy": -0.32,
+    "gold": -0.71,
+    "wti": 0.24,
+    "vix": 6.61
   },
   "news": [
+    {
+      "t": "국민엔 “착공” 법원엔 “준비”…용인 반도체산단 ‘말 바꾼 정부’",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlFpamloaXdiTWNqSzYwWld0ckNfWHpDNUc4NC1URHRtTU5RNHdTU0lGbk9zLUlnSXVtaDA4RVdkXzJnV0ZvbUhVZlAyWlpYNFN6X3V2QS1sTTJRMkRuTUg3cmpLaV8zcXQ1YUxrUExTczVGSGFnZjFQSDlTTlV5Z0liU1IxX3BLTllVbHdiNTh6dmpnVmlCX0NPMGs3QzlsT0JYeEpJemxzd9IBX0FVX3lxTE4taE1JaVZuZXRqakdaTHM3MmZvYy1vek55dE1aQmRjSGpWNnF2Q1p1OG8zcVdiaW51eDdwMVRvRUJncjRqUFJPZFV4dTVhdXhEMFF6OGJtNkllUWVkMnFr?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-24T12:01:00+00:00"
+    },
+    {
+      "t": "[월드 e 브리핑] 미 국채 2년물 금리 4.66%…12월 인상 확률 98%",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnTl9xU0s1T2xaRTBwSXp2cTEzbUF2N243MHZTSnlBeFN5eXI0aFh6TDRKY3g5TFpIRThxRFlYWnV0c19qN25iNHpOU2lEc1BGNUQ0cGt5N1Q0Z1RHdUl2Y3NITEdQN25sVmZNRF9n?oc=5",
+      "s": "OBS경인TV",
+      "d": "2026-11-24T11:44:20+00:00"
+    },
     {
       "t": "삼성전자, 반도체·AI·로봇 ‘신성장동력 인재’ 대거 임원 발탁",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FXzAyNkNrY3VLZE9nMml0Zy1KcjczcFhVc0VVLWJwalMyR1FDeElQUmNxMDlGdjhZX1lrWGdlcG9PcDFhYTc0TS1IaVlxOVpLLTdzN2sxWENld9IBX0FVX3lxTFBnbzc0VnlHQ1VoY3JxWnVjazNRWHlkQjJmWlNYUEtOdWw5blA0OUxfdWdfRWlrV1BNeFp3ZVBHejNTWDlZTDNsbUhFT1htWFdRb0dVWV9BeGN6emdQdFNR?oc=5",
@@ -55,6 +67,12 @@ window.LIVE_DATA = {
       "d": "2026-11-24T10:16:00+00:00"
     },
     {
+      "t": "[亞증시-종합] 젠슨 황 복귀에 日·臺↑…中 혼조·홍콩↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83QnJuejhCYUoxV2I0dnB5RDJkVmM2UHg0ejVqRk5WdWRjQ1ViU3ZOVzV0ZkI4RnZHVGxhUmljdWZ5SncwbGpqSGRrcERlTG5HYVdmVHQ0SEpYbElWNkhXd3dwTTh0V3J5QVhBS3BzWkI?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-24T10:15:36+00:00"
+    },
+    {
       "t": "용인 반도체클러스터 열병합발전소 적기 준공 '시동'",
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4dWNNanlIbDF3MUJHRFp3LTZNRUNFRGZmTmg3SEVEQWNZczROQUR4LWlRMktWd1NvbmJOVVhUOW5yZk1CX29ZSktHUHNSWklBNGwzbEs2WW9XTlVKeFJVd1dVSHE?oc=5",
       "s": "매일일보",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XQmpSV295emZMQUktelg3aTduNElqT2RGU082aTRLYXhLYzNCSDZEWWhmTWhnV2YzM2daQ0VTYVJtaUNQUlVLb2JnNGt1YURlQmUyazl1dFJFcGFzS2NDeVZCY3g0bm5tcUV3?oc=5",
       "s": "KDI 경제교육·정보센터",
       "d": "2026-11-24T10:08:55+00:00"
-    },
-    {
-      "t": "젠슨황 복귀에 코스피 급등…5천선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Q21fbFNPSkw4aHhOS2VyWmRWLUhHQTRIZloyM2FCdENfZ1N6X1ZDb0tGa0I0UjBQWV8xNWRnWm5vazdYT1pjRnA0aFNhSHEyLUk3WmxfelE5U2c?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-24T10:03:00+00:00"
-    },
-    {
-      "t": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다”",
-      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU52c0RGUGxhc3BKQk5YQ0ZrWWdhNGVROFJHaWQ5TFJsaTZTME5vcng1Q3dZc3NfSjh4RXpSQk52VTRpM1A5dzZFU3FycTEySjNZNzFDSEY5MzRKbmdQT3NpRVVpeDJtcS1RNWlwX2R1UlY2V2xYRGxtYXA5RHp4NnRQT2N3VFVuMFBj?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-24T09:57:42+00:00"
-    },
-    {
-      "t": "IRS 금리 약세 플래트닝…거래량 제한 속 장 막판 매도세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbXRIS1lNUU04S2NIbHpFVXIzalFRWmsxdFFISnd5VG8yd1RyWTJrME5wTTd5Wm9sOWZsdnNGQjFkdUUyWkdJbEVvQ01zWTFac29CejA2SXA2NnkzOGU4YTdBSGpqMzdRTmNPeG1UeEXSAXRBVV95cUxQZTc1N3R4WnUtR28tYVU4eFhIV2dCWHNpWVJ1Qk83THEtNWx5Y3JBS0NsTU0tbmMwdnpEZTlBTDg1YXo2aXZWbW1KU1pXREdscmZJZ1NNeVlhdjhGMkJZS29tOVVGM3IxMHAxbWpBZEp1c2xkTA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-24T09:48:54+00:00"
     }
   ],
   "asof": {},
