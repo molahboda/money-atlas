@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T16:01:02+00:00",
-  "quotesAt": "2026-11-24T16:01:02+00:00",
-  "newsAt": "2026-11-24T16:01:02+00:00",
+  "fetchedAt": "2026-11-24T16:16:01+00:00",
+  "quotesAt": "2026-11-24T16:16:01+00:00",
+  "newsAt": "2026-11-24T16:16:01+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7153.68,
+    "spx": 7142.69,
     "nikkei": 58644.63,
-    "vix": 28.66,
-    "krw": 1343.38,
-    "gold": 3582.1,
-    "wti": 79.79,
+    "vix": 28.67,
+    "krw": 1344.78,
+    "gold": 3566.4,
+    "wti": 80.09,
     "dxy": 103.84
   },
   "daily": {
-    "spx": 3.52,
+    "spx": 3.36,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.07,
+    "krw": 0.03,
     "dxy": -0.46,
-    "gold": -1.9,
-    "wti": -0.47,
-    "vix": 7.66
+    "gold": -2.33,
+    "wti": -0.1,
+    "vix": 7.7
   },
   "news": [
+    {
+      "t": "국제금값 3620달러선 약세…美 물가지표 대기",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTVNSWRlQzg2dTliWUloeHp6RTJEaEJhMERtYl80Q1kyU3E1Zkcta1FPTzVYaGVDQ25wQ0xva2o4SktRRTdfZWtjTXJUdEFjOUdwbGVGRnpwdUNXa1R0T3JTS1JLS3pTQk80OUNjRURoakotNUJEUnM1U1BNT3NiR05iOFYtcTBy?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-24T16:00:00+00:00"
+    },
+    {
+      "t": "호르무즈 봉쇄 장기화에도 국제유가 3개월 저점",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWx4VWRiVGZrRE5lQkpqUS1LZGxmRXhRVDBlamVmOEtPZU1LLS1IS3RKenRJa2lJX3ktZG0zMVNTY2c0dFpyX2RNdzFrVFhJcjZud2UxX184cG4zZ21EZjEwUkw4MWZjRkVjZUlLSnllNTROQUhYdW5FRlZMX2k4dV92cUlRejdY?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-24T16:00:00+00:00"
+    },
+    {
+      "t": "전남광주통합시, 호남권 반도체 클러스터 정보 플랫폼 '칩온' 운영",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tR05MWThvSjVYNnZLb2FXN2RNTndwWnB2WXo2dklLcXoxTkZ5anJyS08wamEwa2lTNTJfT1NiNW9mdml2VUxUbXVndDd3eUhOTWtlMmN5cm9ZM2pJMGZDTVU4ZWg4bWVaekpUUlROVUdCSnPSAXdBVV95cUxPUVY0UG5wang4eWk5SWQwRzB2WVZrSUI4eWhBbTctTExQN3ZUM2F3N1ZmTWdFZ2NGREQ1c2J2Yjk1bjI0aEhJaGYwSVJxd3BLVWdCMzNDUEg1THFvQW04ZU9fd0EwOGplT2hBVEJxVUp3UGtsMjZHWQ?oc=5",
+      "s": "스트레이트뉴스",
+      "d": "2026-11-24T15:56:52+00:00"
+    },
     {
       "t": "\"딴 나라는 폭등인데\"...'탈출' 노리는 개미들, 5000선 복귀에도 실망 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNM0l3TV9WMHRZVTFEVzNUMEJ5MENjM0w1VGppamwyT3VudGw2OW9pajZCQWNjR2F1QnRKTXVKaDRIbkdiYnctNFdyWjM4YmozRFFhLUZvZ29fdjd2QUZqc25rc0Q2Rl9n0gFuQVVfeXFMTS1NWWJPRUVMdnZWZEotYjlyU2taVHZpRTNzRVR6VjZLQmRNbUZtbjl0QllSWkJVV3E1LS0yaVVfbF9wNXVYem5naEV3WldwMl9fcmVvN0JxZWpPcC1BelJhUHAtbExsQ2RFckd5dWc?oc=5",
@@ -35,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlpvWWlfS2FDNzhNNmJTdXpBRkd5RlZycmVUTWNBN3pNUUhiOWw4YnNKbGxXT1Fha1A3Z0swTmhrV1o2eTAzMGNjZlkyNlNEZUd6QV9VUVI5RkRhT01ITW9UdnhoTnFxU2lpT2NCR3RRQm43MlZUR1hudlNXeExLOUQyNmZ6cnJTM1dFWS1sTG4tenJ0QzNkY2xKQ2hqZ9IBsgFBVV95cUxPMlRScEozRFl1Mm5ZUlVjckZkRF9SWjJUNlgzLUtZVC04U1dIMThKa1N5bmpFS1R6X0hYRnVaeWh3YWVfcGRtN0xYYTBhc0Z6dUNsazBoRGNBZ2h6emk4RHpOUGhodUNOU2hFcDZSaW1GQjVLUFRFWktVX1RyaS1BR25tRi1RQjNpVnJ1TDJvcFVTdk55YklodUpqaGpEeVBicVVoUFpWMy1wTXVraktIQlR3?oc=5",
       "s": "Chosunbiz",
       "d": "2026-11-24T15:50:00+00:00"
-    },
-    {
-      "t": "증안 펀드보다 강력했던 ‘젠슨 황 효과’",
-      "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVVPMkx0Y0N0bjQwOGRPY2ZLbTJZSnF2WDg5OGtfaHlhc1IwUmtXWjBBQXByTzlrcDZfUUhRX2Z0TmlYQXhQUjhSbFBfUUwzVC1UU0c1RnFkSFhibklmcHJfR2RmOE9XejNpNlhEWlBuRndIb3ROM0w2Y3hTcWtTdQ?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-24T15:43:00+00:00"
     },
     {
       "t": "전북, 반도체 핵심 소재·부품·장비 공급망 중심에 선다",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-24T15:35:00+00:00"
     },
     {
+      "t": "국제 유가, 80달러대까지 하락…내년 상반기 70달러대 전망도",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQ1NqaFpWcVhTZkZKYkRNVXF3VzZSVHFHUFpUd3lidHpqd0dSRDNyTEJac3J6REZHb0JsZXpCMks3anhXdEV4UHJka2FzVFlnX2x4UHBYSTR6Zw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-24T15:34:00+00:00"
+    },
+    {
       "t": "채권시장 종사자 54%, 한은 금리 인상 예상",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ2ZreFYyQTJlZ3pfN3MxcFNSYkxOdmVnS19BSHR0ZkNUZlRvMUZNMlN4M0JRNG9uYlpuTHAxX1Z4RHRMR0pFR0xMSUhMcHBPLXpsNGdod183Mk0wXzhTZDl0MWQtcmt2TkJzMDl0a2w?oc=5",
       "s": "코리아리포트",
       "d": "2026-11-24T15:32:31+00:00"
-    },
-    {
-      "t": "주식 시장 하락, 금리 상승에 소비 심리 두 달 연속 내려가",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzlNaG1uZGNNYVBlYklFellGNGFVWFV0eWp6SmkzMG9oYTdURTFFUTRTdHlrWElMb2w0cng1emN0bzUxV19qMzREVUxtOFNSazBLQTN3TUxPa0VtRXJOWThBNkd2RlVUVVYwNERrbmhjak1OTDIyOHJXdzBaVVBROFZWSUxsZ3JUYlZwcUNB?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-24T15:32:00+00:00"
-    },
-    {
-      "t": "ECB, 12월 금리 인상 가능성 높아…이후 경로는 불투명",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncDZ5ckNfY3g0dFA0clZkU2VlS0ZSLVF0dlJZOUh6WXRJY0s4SjQwQlRiX1JvcHpYdU1BU3lHTm1YMVpJSXJILWtEdTgzQmVVQWZIdHdnekE5YlBWRU5kenk3SmdzeWZWU0E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T15:24:00+00:00"
-    },
-    {
-      "t": "美 이르면 이번주 '과잉생산 관세' 발표…韓 15% 유지할 듯",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ITkdGSF8ydVI0aW5xaWVJUjltTmVWTFNzZV94VVRkVF8tNjNrQlI5OHF2ZHdJcmlCTmJXTk5aTFRBTEFkS2ZkVlh0MjNGeDYtUU94amx0YnRtYlBBWEY1Vg?oc=5",
-      "s": "아시아경제",
-      "d": "2026-11-24T15:23:29+00:00"
     }
   ],
   "asof": {},
