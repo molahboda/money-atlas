@@ -1,41 +1,29 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T11:16:01+00:00",
-  "quotesAt": "2026-11-24T11:16:01+00:00",
-  "newsAt": "2026-11-24T11:16:01+00:00",
+  "fetchedAt": "2026-11-24T11:31:01+00:00",
+  "quotesAt": "2026-11-24T11:31:01+00:00",
+  "newsAt": "2026-11-24T11:31:01+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 28.57,
-    "krw": 1342.77,
-    "gold": 3625.7,
-    "wti": 79.92,
-    "dxy": 104.05
+    "vix": 28.95,
+    "krw": 1342.75,
+    "gold": 3627,
+    "wti": 80.03,
+    "dxy": 104.03
   },
   "daily": {
     "spx": 0.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.11,
-    "dxy": -0.26,
-    "gold": -0.7,
-    "wti": -0.31,
-    "vix": 7.33
+    "krw": -0.12,
+    "dxy": -0.28,
+    "gold": -0.67,
+    "wti": -0.17,
+    "vix": 8.75
   },
   "news": [
-    {
-      "t": "젠슨 황 복귀에 반도체株 반색…반등 불씨 될까",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N1phN2pORWJVa3Blb0dkc29WNXpUVkRYX0NzMEVlZXpkTkVRMjFEY3p3WXNoV2VtOFRIQzVNNjM4SHN5TDlQOFN5aVM3blBZUTE1Um1WY0R4MnNxcEl5UEhRSWI?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-11-24T10:41:05+00:00"
-    },
-    {
-      "t": "엔비디아 젠슨 황 복귀…K반도체 ‘협력·다변화’ 속도",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORGUzMmE5ZUZBbzd1NkZINk9aSnh4WDlLLURnTjBIX1E0SW0xMDFaTHJOdUw1d3Y3bVpxVG9KTDVuNVhMX3ZQUERfdTZmX0RMYXBPZEdBOE1vZjR2NzdxeXpVY1M?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-11-24T10:20:14+00:00"
-    },
     {
       "t": "유럽 증시, 혼조 출발…유로스톡스 0.02%↓",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQ0pTRlZjLThoak5zdmVfTGJBRGFNdEpFc3VkeExQdnFyc1BueEN4VHRVcHVzZlhCaXQ0djIwdlhtZXBUemhKWWNQWXlTY1llSFpXeXl1NjZnMEE2anh2cmxkaGdkRkx4MTRTbkg3SDDSAXRBVV95cUxOOGJZbVlFZ2VST0ItZTFGVHpuV2RkZVN2N1BseUVZZFZrQm9Ub0p1bUI1UzR1dWxDeHA4aDR5VnQ4S0NzNVdGWHUwa3hhUWx6eVVvLXpXNWpHN2kzSEx2QnQ4UG5RRzlEOEJRa2hGNURwaTN3NQ?oc=5",
@@ -79,10 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-11-24T09:44:00+00:00"
     },
     {
-      "t": "'젠슨 황 복귀'에 AI 투심 회복…코스피, 6.32% 급등 마감",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIVkx2UnJ4dHAtUktJMEZGRjdiRmRBR3IzNXFuLXR4dnJBb0tsZDN6UHZNTnhhbW0xX1BrcDBMcXhPZFctd0VKZU1vb3d6UTJBdHNfY2laTzdDbXlIWkQtMVJrSEg3STli?oc=5",
-      "s": "팍스경제TV",
-      "d": "2026-11-24T09:42:24+00:00"
+      "t": "대만 반도체업계, 젠슨 황 복귀 '환영'…투자자들도 반색",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVkRFb2xsb29nclVMNFZrTlVETWZhRHJNekpqZGtQSy01X3FYWk82RTJTblBmZms5MllscVB3SUNyMlM1Z29TZmJQeEFwRkJZb1E?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-24T09:37:37+00:00"
+    },
+    {
+      "t": "[포토뉴스] 원주 반도체·AI 산업 융합 세미나",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SV3dzQVFjSk41U25LREFxbUZCMWNzN05QVkREc21YMXpXVUxvVjA4MS1SLXJaNW1XOG9pS0J6dVI3djV2dFY2WFcxdnVOTFgybmpNeUtTR1lpWUE?oc=5",
+      "s": "강원일보",
+      "d": "2026-11-24T09:32:12+00:00"
+    },
+    {
+      "t": "27일 외국인 배당금 15.8조, 하루 외환거래량 65%…환율 상승 우려",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zb0lOMXFSM1UxU1dxTkVFeWF2UEphQzNCV1dRRlBiWS1NMG9zY3pPU2FkVXJZREVKcFlsVzBWWGpHZDVWQnJXeW5wSWdVN0xmRlVNanZjalpVaVRmSXlOcHM3RXVRQTQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-24T09:24:00+00:00"
     }
   ],
   "asof": {},
