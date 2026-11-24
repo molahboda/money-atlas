@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T17:16:01+00:00",
-  "quotesAt": "2026-11-24T17:16:01+00:00",
-  "newsAt": "2026-11-24T17:16:01+00:00",
+  "fetchedAt": "2026-11-24T17:31:03+00:00",
+  "quotesAt": "2026-11-24T17:31:03+00:00",
+  "newsAt": "2026-11-24T17:31:03+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7194.84,
+    "spx": 7213.05,
     "nikkei": 58644.63,
-    "vix": 28.13,
-    "krw": 1343.78,
-    "gold": 3565.7,
-    "wti": 80.58,
-    "dxy": 103.82
+    "vix": 27.12,
+    "krw": 1343.77,
+    "gold": 3566,
+    "wti": 81.27,
+    "dxy": 103.85
   },
   "daily": {
-    "spx": 4.12,
+    "spx": 4.38,
     "kospi": 2.79,
     "nikkei": 3.91,
     "krw": -0.04,
-    "dxy": -0.48,
-    "gold": -2.35,
-    "wti": 0.51,
-    "vix": 5.67
+    "dxy": -0.45,
+    "gold": -2.34,
+    "wti": 1.37,
+    "vix": 1.88
   },
   "news": [
+    {
+      "t": "트럼프 신규 관세, 기존 무역협정 수준 넘지 않을 전망…선별적 적용",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KX1hwWXZyVUhxSEp3a21MU0RDbFdTUnc3aXFlWHJlNkR0THItVElHNzhDMENRUUppXzdVTDFjcGtqdjdpbV9pTmtFa25VYTlp?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-24T17:23:08+00:00"
+    },
+    {
+      "t": "코스피 야간선물 7% 점프…美 '젠슨황 복귀랠리' 동반급등 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYW1qdkppWEdmVzNYRlhDSGlCZEc1ZW1RdnBHRF9Ld2xFN2stSnVIeGtldnVTSXZFOU4yRTREYm14YzhPWWZ0cUFyQ21EQXZLRVZxQjdDdDhqY25qUXlEOGw3aHlpQU940gFuQVVfeXFMTTYycjVINnBwdXhwNTBzRjB1R3hRcU5XT21FUHpGXzVGMkp6TjBVZkZJM1dkX2Zxa0E0UWtrZUU3R1dZR29OdXBhNERfX1lJTTJLbU5zQkUzaDJpVnNtaDNEN3VuVXVDSllxanUwRnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-24T17:13:44+00:00"
+    },
     {
       "t": "美 연준 “AI 반도체 공급 부족에 가격 급등”…금리 인상 변수로",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGhMRkg5ZG5NR2dQLTg0VE9kMkhhM1FZZEZhc1BUSXd5MGx0azl6ZXhDampqYkZhQU1PZ2J0enBiZURRYjV6SEg5WGJ1UjhvR20zc2xFM3RiU0w1dEpxXzdGeERZZjFybjBsWnZUbEJJcUZjcmV0OUhkeUdmVnJIM2tRSnRtRGFk?oc=5",
@@ -49,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-11-24T16:43:00+00:00"
     },
     {
+      "t": "미 증시, 개장 직후 시총 1조달러 증발…관세 인상 추진 여파",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcG9Xa1Zic3BfMnBReTZ1SXZMMEpLZ3prLUx5MTNLbmdlYnd2XzE4N3lqTjR5bEVtUEl1dkZEWndNRUhCNEVPREYyQ0NJMWN1?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-24T16:42:14+00:00"
+    },
+    {
       "t": "국제금값 3620달러선 약세…美 물가지표 대기",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTVNSWRlQzg2dTliWUloeHp6RTJEaEJhMERtYl80Q1kyU3E1Zkcta1FPTzVYaGVDQ25wQ0xva2o4SktRRTdfZWtjTXJUdEFjOUdwbGVGRnpwdUNXa1R0T3JTS1JLS3pTQk80OUNjRURoakotNUJEUnM1U1BNT3NiR05iOFYtcTBy?oc=5",
       "s": "글로벌이코노믹",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWx4VWRiVGZrRE5lQkpqUS1LZGxmRXhRVDBlamVmOEtPZU1LLS1IS3RKenRJa2lJX3ktZG0zMVNTY2c0dFpyX2RNdzFrVFhJcjZud2UxX184cG4zZ21EZjEwUkw4MWZjRkVjZUlLSnllNTROQUhYdW5FRlZMX2k4dV92cUlRejdY?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-11-24T16:00:00+00:00"
-    },
-    {
-      "t": "전남광주통합시, 호남권 반도체 클러스터 정보 플랫폼 '칩온' 운영",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tR05MWThvSjVYNnZLb2FXN2RNTndwWnB2WXo2dklLcXoxTkZ5anJyS08wamEwa2lTNTJfT1NiNW9mdml2VUxUbXVndDd3eUhOTWtlMmN5cm9ZM2pJMGZDTVU4ZWg4bWVaekpUUlROVUdCSnPSAXdBVV95cUxPUVY0UG5wang4eWk5SWQwRzB2WVZrSUI4eWhBbTctTExQN3ZUM2F3N1ZmTWdFZ2NGREQ1c2J2Yjk1bjI0aEhJaGYwSVJxd3BLVWdCMzNDUEg1THFvQW04ZU9fd0EwOGplT2hBVEJxVUp3UGtsMjZHWQ?oc=5",
-      "s": "스트레이트뉴스",
-      "d": "2026-11-24T15:56:52+00:00"
-    },
-    {
-      "t": "\"딴 나라는 폭등인데\"...'탈출' 노리는 개미들, 5000선 복귀에도 실망 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNM0l3TV9WMHRZVTFEVzNUMEJ5MENjM0w1VGppamwyT3VudGw2OW9pajZCQWNjR2F1QnRKTXVKaDRIbkdiYnctNFdyWjM4YmozRFFhLUZvZ29fdjd2QUZqc25rc0Q2Rl9n0gFuQVVfeXFMTS1NWWJPRUVMdnZWZEotYjlyU2taVHZpRTNzRVR6VjZLQmRNbUZtbjl0QllSWkJVV3E1LS0yaVVfbF9wNXVYem5naEV3WldwMl9fcmVvN0JxZWpPcC1BelJhUHAtbExsQ2RFckd5dWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-24T15:54:09+00:00"
-    },
-    {
-      "t": "엔비디아 7%대 하락… 뉴욕 증시도 하락",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlpvWWlfS2FDNzhNNmJTdXpBRkd5RlZycmVUTWNBN3pNUUhiOWw4YnNKbGxXT1Fha1A3Z0swTmhrV1o2eTAzMGNjZlkyNlNEZUd6QV9VUVI5RkRhT01ITW9UdnhoTnFxU2lpT2NCR3RRQm43MlZUR1hudlNXeExLOUQyNmZ6cnJTM1dFWS1sTG4tenJ0QzNkY2xKQ2hqZ9IBsgFBVV95cUxPMlRScEozRFl1Mm5ZUlVjckZkRF9SWjJUNlgzLUtZVC04U1dIMThKa1N5bmpFS1R6X0hYRnVaeWh3YWVfcGRtN0xYYTBhc0Z6dUNsazBoRGNBZ2h6emk4RHpOUGhodUNOU2hFcDZSaW1GQjVLUFRFWktVX1RyaS1BR25tRi1RQjNpVnJ1TDJvcFVTdk55YklodUpqaGpEeVBicVVoUFpWMy1wTXVraktIQlR3?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-24T15:50:00+00:00"
     }
   ],
   "asof": {},
