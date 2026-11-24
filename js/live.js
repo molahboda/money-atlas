@@ -1,40 +1,34 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T14:16:02+00:00",
-  "quotesAt": "2026-11-24T14:16:02+00:00",
-  "newsAt": "2026-11-24T14:16:02+00:00",
+  "fetchedAt": "2026-11-24T14:31:02+00:00",
+  "quotesAt": "2026-11-24T14:31:02+00:00",
+  "newsAt": "2026-11-24T14:31:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7237.17,
+    "spx": 7163.68,
     "nikkei": 58644.63,
-    "vix": 29.79,
-    "krw": 1343.14,
-    "gold": 3617.4,
-    "wti": 80.99,
-    "dxy": 103.85
+    "vix": 29.17,
+    "krw": 1342.95,
+    "gold": 3615,
+    "wti": 81.14,
+    "dxy": 103.81
   },
   "daily": {
-    "spx": 0.85,
+    "spx": 3.67,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.09,
-    "dxy": -0.45,
-    "gold": -0.93,
-    "wti": 1.02,
-    "vix": 11.91
+    "krw": -0.1,
+    "dxy": -0.49,
+    "gold": -1,
+    "wti": 1.21,
+    "vix": 9.58
   },
   "news": [
     {
-      "t": "나이지리아 중앙은행, 대선 앞두고 금리 인하 중단",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tVWdnaHhIUWFIU01OdnEyQ2MtcjJITjZEem55RGxWbGstNk1ONmp6V1A4QUdubkxiSXVyVDNGeFVyWnRTTExWLThQRFQwQWFuVXhEazdULWFxd3ZSUG9Xa2FRQ0FySEk?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T14:10:00+00:00"
-    },
-    {
-      "t": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...AI·반도체주 동반 약세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UWFlBb1pKRXpPWWxUcUJycFhXWEk3MkF4LS1xLWxIWERiVDQ3MElQVW93dG94Z3lqNHJlZnR3Vzg0eDByeTExYUZZQlo4WTFBRmtnR3JYNjN3MlhK?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-24T14:09:00+00:00"
+      "t": "삼성 인사도 반도체 독주…로봇에도 힘 실었다",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tMi15ZllJRDdhVHlrczZheENwRTNrSERJZV8wWTQyUG9VcVV3Mk9FcXdhaGxzVkVzcnFuNnc1SXJ2Z215czFjR3FZUjZSdnU2Y0xfbENGcWJSRzA3WXFMTXNPZ2FXSzg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-24T14:20:00+00:00"
     },
     {
       "t": "영란은행 그린 위원 \"영국, 금리 인상 속도 높여야\"",
@@ -61,18 +55,6 @@ window.LIVE_DATA = {
       "d": "2026-11-24T13:35:33+00:00"
     },
     {
-      "t": "[속보] \"美무역대표부, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yc05lMG1Uc0Z3akQ5ZVk0RjRvX3EzRkl4S21FQWliSllsTFRINnVrNk1Vd3d5ZFFHb25fcjRXNTRGdU1pXzhIYXVGM2V2QTdfM3Jva1g1aTY?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-24T13:33:26+00:00"
-    },
-    {
-      "t": "백악관, 중국·EU·수십 개국 대상 대규모 신규 관세 준비",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hakF4bXRLTWNLSDRCellaTjE0SzFnNURZN29tU2VyTmZpdDZldU0tandSZkVIeTlabHRFNWRDalJGRzBCU2dOcTBRdC1aYTJrdGNleVlYRVhuLXJGNk9VelVyQjFnb3ZfU0JEeURQcUI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T13:29:50+00:00"
-    },
-    {
       "t": "호남 반도체 클러스터 모든 것 '한눈에'…반도체 정보 플랫폼 '칩온' 본격 운영",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40anRPNFcxWUZtWFJwRnVPMS1QMzAzbG9OQVlOR0NFaVl3QWtla3BUYTVoSV9BdnpRbVI0YTRSQXhFLTBaZkFHZXBFelBmdw?oc=5",
       "s": "전자신문",
@@ -83,6 +65,24 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Tlo1QWFWNlU1dVhIR0c5SGwxdFpFUXAwWlVJSGpNTnNvODd4d1dRTk5OWXM2My1IelRBQW9mVlNNQUt3ZVRPbUstX2ZkSkNVcWFiVFYxSnJqS0xJZHJZN2hxUm1TNFB6c2NjaUxCS2RnZw?oc=5",
       "s": "한양경제",
       "d": "2026-11-24T13:28:01+00:00"
+    },
+    {
+      "t": "[속보] “美USTR, 이르면 이번주 ‘과잉생산 관세’ 조사결과 발표”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTR05wRjZVcENDampmUGUtM3VZYXpobTE5Y3ZjcWRPZ0pLV0o1dW1lVG85S2d3aXduU0xFMzNVVm9IcDhwTzhyRFZ2N1pEdTBhMXc?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-24T13:25:05+00:00"
+    },
+    {
+      "t": "백악관, 중국·EU·수십 개국 대상 대규모 신규 관세 준비",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hakF4bXRLTWNLSDRCellaTjE0SzFnNURZN29tU2VyTmZpdDZldU0tandSZkVIeTlabHRFNWRDalJGRzBCU2dOcTBRdC1aYTJrdGNleVlYRVhuLXJGNk9VelVyQjFnb3ZfU0JEeURQcUI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T13:25:00+00:00"
+    },
+    {
+      "t": "[속보] \"美USTR, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uM3FXQ1NGSW5zTGtKR3NtNlFPMk04ZG9WWnpHZzl6a0x3Z2xhUW5iTE5sY3pybF8zd0pySnF0Sy1IcjB5Y1d0UVJkYlVrMjJZYlVtYmMwM1BmeVRuZFR4elpGS0hOcVhRUnR1b0M3YmZiUVFQ?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-24T13:20:02+00:00"
     }
   ],
   "asof": {},
