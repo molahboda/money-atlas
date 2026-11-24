@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T17:01:02+00:00",
-  "quotesAt": "2026-11-24T17:01:02+00:00",
-  "newsAt": "2026-11-24T17:01:02+00:00",
+  "fetchedAt": "2026-11-24T17:16:01+00:00",
+  "quotesAt": "2026-11-24T17:16:01+00:00",
+  "newsAt": "2026-11-24T17:16:01+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7163.58,
+    "spx": 7194.84,
     "nikkei": 58644.63,
-    "vix": 28.38,
-    "krw": 1344.28,
-    "gold": 3567.9,
-    "wti": 80.96,
-    "dxy": 103.88
+    "vix": 28.13,
+    "krw": 1343.78,
+    "gold": 3565.7,
+    "wti": 80.58,
+    "dxy": 103.82
   },
   "daily": {
-    "spx": 3.66,
+    "spx": 4.12,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": 0,
-    "dxy": -0.43,
-    "gold": -2.29,
-    "wti": 0.99,
-    "vix": 6.61
+    "krw": -0.04,
+    "dxy": -0.48,
+    "gold": -2.35,
+    "wti": 0.51,
+    "vix": 5.67
   },
   "news": [
+    {
+      "t": "美 연준 “AI 반도체 공급 부족에 가격 급등”…금리 인상 변수로",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGhMRkg5ZG5NR2dQLTg0VE9kMkhhM1FZZEZhc1BUSXd5MGx0azl6ZXhDampqYkZhQU1PZ2J0enBiZURRYjV6SEg5WGJ1UjhvR20zc2xFM3RiU0w1dEpxXzdGeERZZjFybjBsWnZUbEJJcUZjcmV0OUhkeUdmVnJIM2tRSnRtRGFk?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-24T17:00:00+00:00"
+    },
     {
       "t": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WGp4U2VWNXpxNVZBZzNXZnZaM085a0JjRFVjaWNEYkhzTUFwQTlpVDJFdHN2NHZVYlB3bjY5VjFUUW9aTU5hbkJvaFNvRG1pWi1XS2RCNXlOMnpLMEUyamNuTm5oWEVoRnZzbHhOcTc?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlpvWWlfS2FDNzhNNmJTdXpBRkd5RlZycmVUTWNBN3pNUUhiOWw4YnNKbGxXT1Fha1A3Z0swTmhrV1o2eTAzMGNjZlkyNlNEZUd6QV9VUVI5RkRhT01ITW9UdnhoTnFxU2lpT2NCR3RRQm43MlZUR1hudlNXeExLOUQyNmZ6cnJTM1dFWS1sTG4tenJ0QzNkY2xKQ2hqZ9IBsgFBVV95cUxPMlRScEozRFl1Mm5ZUlVjckZkRF9SWjJUNlgzLUtZVC04U1dIMThKa1N5bmpFS1R6X0hYRnVaeWh3YWVfcGRtN0xYYTBhc0Z6dUNsazBoRGNBZ2h6emk4RHpOUGhodUNOU2hFcDZSaW1GQjVLUFRFWktVX1RyaS1BR25tRi1RQjNpVnJ1TDJvcFVTdk55YklodUpqaGpEeVBicVVoUFpWMy1wTXVraktIQlR3?oc=5",
       "s": "Chosunbiz",
       "d": "2026-11-24T15:50:00+00:00"
-    },
-    {
-      "t": "6% 급등한 코스피 5000선 턱걸이…“젠슨 황 복귀는 단기 호재”",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zTHl0WU42UDJoSncycGg1Rm93OTdldkpHZXRIUGFHOFo5dmhhWVZHYmg3Rjd4bnltMXFJNm9JeFdjR0g4NmhfUmRVSzVGeFptVkJsX1FGSDBxM2hNcEpaWlFhQlllcGc?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-24T15:39:00+00:00"
     }
   ],
   "asof": {},
