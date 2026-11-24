@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T18:31:01+00:00",
-  "quotesAt": "2026-11-24T18:31:01+00:00",
-  "newsAt": "2026-11-24T18:31:01+00:00",
+  "fetchedAt": "2026-11-24T18:46:02+00:00",
+  "quotesAt": "2026-11-24T18:46:02+00:00",
+  "newsAt": "2026-11-24T18:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7209.82,
+    "spx": 7199.41,
     "nikkei": 58644.63,
-    "vix": 26.58,
-    "krw": 1342.74,
-    "gold": 3560.8,
-    "wti": 81.52,
-    "dxy": 103.81
+    "vix": 26.2,
+    "krw": 1342.68,
+    "gold": 3564.6,
+    "wti": 81.92,
+    "dxy": 103.78
   },
   "daily": {
-    "spx": 4.33,
+    "spx": 4.18,
     "kospi": 2.79,
     "nikkei": 3.91,
     "krw": -0.12,
-    "dxy": -0.49,
-    "gold": -2.48,
-    "wti": 1.68,
-    "vix": -0.15
+    "dxy": -0.51,
+    "gold": -2.38,
+    "wti": 2.18,
+    "vix": -1.58
   },
   "news": [
+    {
+      "t": "美 '과잉생산 관세' 이르면 오늘 발표…韓 '15% 상한' 지켜질까",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZjZhSkRyWUpOVzRQSnBXZ3ZuMUZVaFVLWmdzS0Z6RXkxRXE4WFQ3bU1tLUhaT2EySk9MZWg0eEM4NzhHSUN0NjVPV0o0SS1XbG9FdnFGZUc?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-24T18:31:20+00:00"
+    },
     {
       "t": "금값, 미 달러 약세에도 하락…연준 금리 인상 전망이 시장 주도",
       "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE4xS2l0TEtubWpVeVRVTXVSZWRnem04U25QVVhKY1pWY1RPS2VqSUlhTkM1amY5LVk3NEdyV1k3eXlMUVV4dWM1ZGtMdHdsVDVPa1ZHY01jUmEwYXpBNGJnQkZ5SHl6M3Q4RHpjM05oZVR1dFFQaVNjQjJGc2loWmN5OVZ0Z0dlbko4ZUduNV9tMlBiaDcwS1g0YTNZZGtxSzl6MmJlQmMzQlN5VFk5Mm1oNDFhYllpbWg1RFBqb2cxeFJmWUY4?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KX1hwWXZyVUhxSEp3a21MU0RDbFdTUnc3aXFlWHJlNkR0THItVElHNzhDMENRUUppXzdVTDFjcGtqdjdpbV9pTmtFa25VYTlp?oc=5",
       "s": "블루밍비트",
       "d": "2026-11-24T17:23:08+00:00"
-    },
-    {
-      "t": "코스피 야간선물 7% 점프…美 '젠슨황 복귀랠리' 동반급등 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYW1qdkppWEdmVzNYRlhDSGlCZEc1ZW1RdnBHRF9Ld2xFN2stSnVIeGtldnVTSXZFOU4yRTREYm14YzhPWWZ0cUFyQ21EQXZLRVZxQjdDdDhqY25qUXlEOGw3aHlpQU940gFuQVVfeXFMTTYycjVINnBwdXhwNTBzRjB1R3hRcU5XT21FUHpGXzVGMkp6TjBVZkZJM1dkX2Zxa0E0UWtrZUU3R1dZR29OdXBhNERfX1lJTTJLbU5zQkUzaDJpVnNtaDNEN3VuVXVDSllxanUwRnc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-24T17:13:44+00:00"
     }
   ],
   "asof": {},
