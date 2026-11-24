@@ -1,33 +1,39 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T16:16:01+00:00",
-  "quotesAt": "2026-11-24T16:16:01+00:00",
-  "newsAt": "2026-11-24T16:16:01+00:00",
+  "fetchedAt": "2026-11-24T16:31:02+00:00",
+  "quotesAt": "2026-11-24T16:31:02+00:00",
+  "newsAt": "2026-11-24T16:31:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7142.69,
+    "spx": 7156.24,
     "nikkei": 58644.63,
-    "vix": 28.67,
-    "krw": 1344.78,
-    "gold": 3566.4,
-    "wti": 80.09,
-    "dxy": 103.84
+    "vix": 29.06,
+    "krw": 1344.68,
+    "gold": 3563.5,
+    "wti": 80.4,
+    "dxy": 103.8
   },
   "daily": {
-    "spx": 3.36,
+    "spx": 3.56,
     "kospi": 2.79,
     "nikkei": 3.91,
     "krw": 0.03,
-    "dxy": -0.46,
-    "gold": -2.33,
-    "wti": -0.1,
-    "vix": 7.7
+    "dxy": -0.5,
+    "gold": -2.41,
+    "wti": 0.29,
+    "vix": 9.17
   },
   "news": [
     {
       "t": "국제금값 3620달러선 약세…美 물가지표 대기",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTVNSWRlQzg2dTliWUloeHp6RTJEaEJhMERtYl80Q1kyU3E1Zkcta1FPTzVYaGVDQ25wQ0xva2o4SktRRTdfZWtjTXJUdEFjOUdwbGVGRnpwdUNXa1R0T3JTS1JLS3pTQk80OUNjRURoakotNUJEUnM1U1BNT3NiR05iOFYtcTBy?oc=5",
       "s": "글로벌이코노믹",
+      "d": "2026-11-24T16:00:00+00:00"
+    },
+    {
+      "t": "美 USTR, 이르면 이번주 ‘과잉생산 관세’ 결과 발표할 듯(종합)",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoOXdaR0pON1BLd1c4Tkd2azNXakgtUEdpUm9VQ3FyTWNIRjBmTzNKUnFOVVEzRi1ZZXBwZ0N6dWlBaFpOUkJOSnJmNGhDc0JyWk9kYjhBaWtQR2FiVHlON09DVV80RktmREE?oc=5",
+      "s": "천지일보",
       "d": "2026-11-24T16:00:00+00:00"
     },
     {
@@ -55,6 +61,12 @@ window.LIVE_DATA = {
       "d": "2026-11-24T15:50:00+00:00"
     },
     {
+      "t": "6% 급등한 코스피 5000선 턱걸이…“젠슨 황 복귀는 단기 호재”",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zTHl0WU42UDJoSncycGg1Rm93OTdldkpHZXRIUGFHOFo5dmhhWVZHYmg3Rjd4bnltMXFJNm9JeFdjR0g4NmhfUmRVSzVGeFptVkJsX1FGSDBxM2hNcEpaWlFhQlllcGc?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-24T15:39:00+00:00"
+    },
+    {
       "t": "전북, 반도체 핵심 소재·부품·장비 공급망 중심에 선다",
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0tiR3NKbEttMTFqV29tOFp3NUR6ZHVqVVk5aVJ2VjFaNzJXd1k3SndwMFRoa04weHZYQ0RXZDRMMGhaSUR6dmFSeUo2WTZlOGhXZlotRVU3TzVMS3NPQi1oeEoyTkY3WTZvT2V1cHRwdFR2azlSRVRoRHFjQTNiRURFamR2LUcyWTVTSlNB?oc=5",
       "s": "조선일보",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHRHUVd4clVtRFdybC14MG9OOTdRWTdBUTdGZTFjX2Ztc3ItSWdOMlBteHJGRGVkWkZhYXVnUlhOZmlEZ0Q5THFwS2Yyd2F4SXhuWWQ5SnJoYlA3a1U5dU5BR3dtQWFfOFRIWHhoNEotb0RJNEh5eWlnVkhnd1dBUnFVb0ktOUxD0gGcAUFVX3lxTE1DRDlEQ2h1SmVyTDBkZVdSTDJmSm84YTN4VHFEU2RVbnZwUDhYdlk2LXZlR0tOV1FUVjBPWTBlbG44alFzNHBMOFo1cDNWMDVZMnVpMjFxeXpZaXJsZng1UW0zbXJacDVyWS1DcF9RMGtsbDBoOVNHRGFYOW9sYTR6d2dhQm9rOEpGaTdVOFc4Yms0YTkzMmdNdDBCWA?oc=5",
       "s": "Chosunbiz",
       "d": "2026-11-24T15:35:00+00:00"
-    },
-    {
-      "t": "국제 유가, 80달러대까지 하락…내년 상반기 70달러대 전망도",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQ1NqaFpWcVhTZkZKYkRNVXF3VzZSVHFHUFpUd3lidHpqd0dSRDNyTEJac3J6REZHb0JsZXpCMks3anhXdEV4UHJka2FzVFlnX2x4UHBYSTR6Zw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-24T15:34:00+00:00"
-    },
-    {
-      "t": "채권시장 종사자 54%, 한은 금리 인상 예상",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ2ZreFYyQTJlZ3pfN3MxcFNSYkxOdmVnS19BSHR0ZkNUZlRvMUZNMlN4M0JRNG9uYlpuTHAxX1Z4RHRMR0pFR0xMSUhMcHBPLXpsNGdod183Mk0wXzhTZDl0MWQtcmt2TkJzMDl0a2w?oc=5",
-      "s": "코리아리포트",
-      "d": "2026-11-24T15:32:31+00:00"
     }
   ],
   "asof": {},
