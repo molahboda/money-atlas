@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T19:01:02+00:00",
-  "quotesAt": "2026-11-24T19:01:02+00:00",
-  "newsAt": "2026-11-24T19:01:02+00:00",
+  "fetchedAt": "2026-11-24T19:16:02+00:00",
+  "quotesAt": "2026-11-24T19:16:02+00:00",
+  "newsAt": "2026-11-24T19:16:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7190.76,
+    "spx": 7202.43,
     "nikkei": 58644.63,
-    "vix": 26.46,
-    "krw": 1342.76,
-    "gold": 3557,
-    "wti": 81.89,
-    "dxy": 103.8
+    "vix": 26.9,
+    "krw": 1342.95,
+    "gold": 3557.5,
+    "wti": 81.74,
+    "dxy": 103.81
   },
   "daily": {
-    "spx": 4.06,
+    "spx": 4.23,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.12,
+    "krw": -0.1,
     "dxy": -0.49,
-    "gold": -2.59,
-    "wti": 2.15,
-    "vix": -0.6
+    "gold": -2.57,
+    "wti": 1.96,
+    "vix": 1.05
   },
   "news": [
     {
@@ -31,34 +31,10 @@ window.LIVE_DATA = {
       "d": "2026-11-24T18:46:41+00:00"
     },
     {
-      "t": "美 '과잉생산 관세' 이르면 오늘 발표…韓 '15% 상한' 지켜질까",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZjZhSkRyWUpOVzRQSnBXZ3ZuMUZVaFVLWmdzS0Z6RXkxRXE4WFQ3bU1tLUhaT2EySk9MZWg0eEM4NzhHSUN0NjVPV0o0SS1XbG9FdnFGZUc?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-24T18:31:20+00:00"
-    },
-    {
-      "t": "금값, 미 달러 약세에도 하락…연준 금리 인상 전망이 시장 주도",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE4xS2l0TEtubWpVeVRVTXVSZWRnem04U25QVVhKY1pWY1RPS2VqSUlhTkM1amY5LVk3NEdyV1k3eXlMUVV4dWM1ZGtMdHdsVDVPa1ZHY01jUmEwYXpBNGJnQkZ5SHl6M3Q4RHpjM05oZVR1dFFQaVNjQjJGc2loWmN5OVZ0Z0dlbko4ZUduNV9tMlBiaDcwS1g0YTNZZGtxSzl6MmJlQmMzQlN5VFk5Mm1oNDFhYllpbWg1RFBqb2cxeFJmWUY4?oc=5",
-      "s": "www.tmgm.com",
-      "d": "2026-11-24T18:18:25+00:00"
-    },
-    {
       "t": "'AI 황제' 단 한명에 흔들린 K반도체株 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMEprZS1nVlpIRl91ZjZOQUdHMDFFWm9LOUJpalRyUVIwaTdIMkdFZmJLV1p5Q2ExY2tkdW93bEw5WlFJQS1KWjB0d2xjRkh1eGIxSTRIRkNTRkNUeVE2OGFVYUNkaHJnZWFMREp6a0xIcFdDcXfSAXtBVV95cUxQWXEzOHZ3YV9FV1hpQVB5SGlucVlrQ2IzMkZRLUFmdmNhTXEzbVBCYkFpUkk3SFU5UzJXTm4tQld6LTFJM012aGtpUlN6YUJqYm5IQTdzbnFQLXo0cFpSc2NWZEdXZlBnQ1BzN1N3LXpxQXkzT2dETnNoRTQ?oc=5",
       "s": "머니투데이",
       "d": "2026-11-24T18:00:00+00:00"
-    },
-    {
-      "t": "유럽증시, 엔비디아·앤스로픽 약세 영향으로 일제히 하락… 기술주 2.81% 떨어져",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51aHplZTlQVlJCLWxPaERvdTY5ckN2eDNaWDdnSG1SRmEzRlN3dnRSNFlRUTFSejJBYlV4RHdoR1NBR2p2YnRoMl8yU1lsTFljSFdsYkZSNVlnY2Vo?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-24T17:59:00+00:00"
-    },
-    {
-      "t": "'해킹 위협 고도화' 반도체 첨단기술 기업 보안전담 인력 0명... 공급망 뚫리면 다 털린다",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PR0hBeEVVNEgzTWxqSTB3NTYxUGRub2RpYXpBU0ZpM0VTLXBMbnZrTUQwc0lPNlNILTBHWWE5Ym9DcTZpZEtqZmlQYkdiTHYyaFNqcnNfTzJDU0dNckRMdkR2aVBjdEs2?oc=5",
-      "s": "공정뉴스",
-      "d": "2026-11-24T17:48:11+00:00"
     },
     {
       "t": "맥클렘 캐나다 중앙은행 총재, 연말 물가 둔화 전망…2027년 파급 경고",
@@ -79,10 +55,34 @@ window.LIVE_DATA = {
       "d": "2026-11-24T17:26:49+00:00"
     },
     {
-      "t": "트럼프 신규 관세, 기존 무역협정 수준 넘지 않을 전망…선별적 적용",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KX1hwWXZyVUhxSEp3a21MU0RDbFdTUnc3aXFlWHJlNkR0THItVElHNzhDMENRUUppXzdVTDFjcGtqdjdpbV9pTmtFa25VYTlp?oc=5",
+      "t": "코스피 야간선물 7% 점프…美 '젠슨황 복귀랠리' 동반급등 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYW1qdkppWEdmVzNYRlhDSGlCZEc1ZW1RdnBHRF9Ld2xFN2stSnVIeGtldnVTSXZFOU4yRTREYm14YzhPWWZ0cUFyQ21EQXZLRVZxQjdDdDhqY25qUXlEOGw3aHlpQU940gFuQVVfeXFMTTYycjVINnBwdXhwNTBzRjB1R3hRcU5XT21FUHpGXzVGMkp6TjBVZkZJM1dkX2Zxa0E0UWtrZUU3R1dZR29OdXBhNERfX1lJTTJLbU5zQkUzaDJpVnNtaDNEN3VuVXVDSllxanUwRnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-24T17:13:44+00:00"
+    },
+    {
+      "t": "뉴욕증시, 혼조세로 전환…나스닥 1.91%↓",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XRWZqNVRHa2ZQZF9OMUJIcUUxQnhJU3pxM3lFMm16Z1BWWmlDTzQ5UGRkbGVxRy1BSFRRMTB0WFF2WE1Ra2JKNEZDcHNGbm5a?oc=5",
       "s": "블루밍비트",
-      "d": "2026-11-24T17:23:08+00:00"
+      "d": "2026-11-24T17:11:17+00:00"
+    },
+    {
+      "t": "美 연준 “AI 반도체 공급 부족에 가격 급등”…금리 인상 변수로",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGhMRkg5ZG5NR2dQLTg0VE9kMkhhM1FZZEZhc1BUSXd5MGx0azl6ZXhDampqYkZhQU1PZ2J0enBiZURRYjV6SEg5WGJ1UjhvR20zc2xFM3RiU0w1dEpxXzdGeERZZjFybjBsWnZUbEJJcUZjcmV0OUhkeUdmVnJIM2tRSnRtRGFk?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "t": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WGp4U2VWNXpxNVZBZzNXZnZaM085a0JjRFVjaWNEYkhzTUFwQTlpVDJFdHN2NHZVYlB3bjY5VjFUUW9aTU5hbkJvaFNvRG1pWi1XS2RCNXlOMnpLMEUyamNuTm5oWEVoRnZzbHhOcTc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-24T16:48:20+00:00"
+    },
+    {
+      "t": "블룸버그 \"트럼프 과잉생산 관세, 무역협정 세율 안 넘는다\"",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRQWR0a2hjR3RTc2tqQzR4TEVjUkw3TDJzQWV5V1NyenhlWV9kb2Q1ZjN2dHRpWnNFV1U5Sm0weVZ6ZDYxUG1hTnZTZUNZT1hqOVJCS1lGc1doQUw5?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-24T16:46:00+00:00"
     }
   ],
   "asof": {},
