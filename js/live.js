@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T13:31:01+00:00",
-  "quotesAt": "2026-11-24T13:31:01+00:00",
-  "newsAt": "2026-11-24T13:31:01+00:00",
+  "fetchedAt": "2026-11-24T13:46:02+00:00",
+  "quotesAt": "2026-11-24T13:46:02+00:00",
+  "newsAt": "2026-11-24T13:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 30.3,
-    "krw": 1343.75,
-    "gold": 3630.2,
-    "wti": 80.54,
-    "dxy": 103.9
+    "vix": 29.76,
+    "krw": 1343.85,
+    "gold": 3621.1,
+    "wti": 80.82,
+    "dxy": 103.94
   },
   "daily": {
     "spx": 0.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.04,
-    "dxy": -0.4,
-    "gold": -0.58,
-    "wti": 0.46,
-    "vix": 13.82
+    "krw": -0.03,
+    "dxy": -0.37,
+    "gold": -0.83,
+    "wti": 0.81,
+    "vix": 11.8
   },
   "news": [
+    {
+      "t": "호남 반도체 클러스터 모든 것 '한눈에'…반도체 정보 플랫폼 '칩온' 본격 운영",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40anRPNFcxWUZtWFJwRnVPMS1QMzAzbG9OQVlOR0NFaVl3QWtla3BUYTVoSV9BdnpRbVI0YTRSQXhFLTBaZkFHZXBFelBmdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-24T13:28:12+00:00"
+    },
+    {
+      "t": "자사주 매입한도 풀었지만...증시 체력 회복 ‘안전판' 가능성",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Tlo1QWFWNlU1dVhIR0c5SGwxdFpFUXAwWlVJSGpNTnNvODd4d1dRTk5OWXM2My1IelRBQW9mVlNNQUt3ZVRPbUstX2ZkSkNVcWFiVFYxSnJqS0xJZHJZN2hxUm1TNFB6c2NjaUxCS2RnZw?oc=5",
+      "s": "한양경제",
+      "d": "2026-11-24T13:28:01+00:00"
+    },
     {
       "t": "백악관, 중국·EU·수십 개국 대상 대규모 신규 관세 준비",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hakF4bXRLTWNLSDRCellaTjE0SzFnNURZN29tU2VyTmZpdDZldU0tandSZkVIeTlabHRFNWRDalJGRzBCU2dOcTBRdC1aYTJrdGNleVlYRVhuLXJGNk9VelVyQjFnb3ZfU0JEeURQcUI?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-24T13:25:00+00:00"
+    },
+    {
+      "t": "[속보] \"美USTR, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uM3FXQ1NGSW5zTGtKR3NtNlFPMk04ZG9WWnpHZzl6a0x3Z2xhUW5iTE5sY3pybF8zd0pySnF0Sy1IcjB5Y1d0UVJkYlVrMjJZYlVtYmMwM1BmeVRuZFR4elpGS0hOcVhRUnR1b0M3YmZiUVFQ?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-24T13:20:02+00:00"
+    },
+    {
+      "t": "조선대, '반도체 첨단 패키징 기술포럼' 개최",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RX1NqTmFhdkZHRmdTQ0FNUVZRd21QaUJQQXBRNnV6Vkh6dTJ6MWNCa3dNSWVfZG91QzNBOUZ5dFpfSDhLUUcwSUxpME1Udw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-24T13:18:29+00:00"
     },
     {
       "t": "사흘 만에 코스피 5000선 탈환…불안 요인 해소는 아직",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-24T12:34:24+00:00"
     },
     {
+      "t": "젠슨 황 복귀에 코스피 급등…5천선 회복",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rTTlUWXByRUhyOG0wWW1YMHZTd2VRdGw1XzhfM0g4R1RQTmV5M3k2WTItU09fWVJyUjVRdUFaQ3EyZEJBWmp6RFBHVEpOSWxuNUt3V3ZXeEZFSHRibnIzb3h3TThHQQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-24T12:03:00+00:00"
+    },
+    {
       "t": "국민엔 “착공” 법원엔 “준비”…용인 반도체산단 ‘말 바꾼 정부’",
       "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlFpamloaXdiTWNqSzYwWld0ckNfWHpDNUc4NC1URHRtTU5RNHdTU0lGbk9zLUlnSXVtaDA4RVdkXzJnV0ZvbUhVZlAyWlpYNFN6X3V2QS1sTTJRMkRuTUg3cmpLaV8zcXQ1YUxrUExTczVGSGFnZjFQSDlTTlV5Z0liU1IxX3BLTllVbHdiNTh6dmpnVmlCX0NPMGs3QzlsT0JYeEpJemxzd9IBX0FVX3lxTE4taE1JaVZuZXRqakdaTHM3MmZvYy1vek55dE1aQmRjSGpWNnF2Q1p1OG8zcVdiaW51eDdwMVRvRUJncjRqUFJPZFV4dTVhdXhEMFF6OGJtNkllUWVkMnFr?oc=5",
       "s": "경향신문",
       "d": "2026-11-24T12:01:00+00:00"
-    },
-    {
-      "t": "삼성전자, 반도체·AI·로봇 ‘신성장동력 인재’ 대거 임원 발탁",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FXzAyNkNrY3VLZE9nMml0Zy1KcjczcFhVc0VVLWJwalMyR1FDeElQUmNxMDlGdjhZX1lrWGdlcG9PcDFhYTc0TS1IaVlxOVpLLTdzN2sxWENld9IBX0FVX3lxTFBnbzc0VnlHQ1VoY3JxWnVjazNRWHlkQjJmWlNYUEtOdWw5blA0OUxfdWdfRWlrV1BNeFp3ZVBHejNTWDlZTDNsbUhFT1htWFdRb0dVWV9BeGN6emdQdFNR?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-24T11:38:00+00:00"
-    },
-    {
-      "t": "젠슨 황 복귀에 외국인 귀환‥코스피 '5천 선'",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WTmJUSzNMYktoTDhpR3RBNFJ4bmZKbjYyNThtaFNRZ214eTBOR3ZNZFJoeGJjbG1ORGlXYlpQLXVUd0FrVktoVFVUYnZ6Z0FLTzlZZW5UUlBMY1JZSndQWHREVFI2ek5RaTM3YkFyMkZHZXRnM2hMUtIBeEFVX3lxTE93cEo0eHpPYzRrc0ZiN2UzZ3ZGdEk3Vk5xdEQwb3A4Q0tSZjJVMVNrNjRNSFljWGZvS3FlZHBIM1Buby1KVHZxdFpsT3dsMHlTTnRoTW9KM3czUGNUSERDX2tUbzhlSm9OT3RKMjNXMGtWbl9UWWh1cw?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-24T11:06:39+00:00"
-    },
-    {
-      "t": "임지락 화순군수, 동복댐 이주민에 \"생계형 연금\"…반도체 소부장 기업 유치도 요구[와이드이슈]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZ0dJdDVSS1FNai1VRzBhY3FfU001ZmFtZW0xTW95RmFJUUlNQ0E1MjNyeF9ROWo4cy0zZUpRS0xDTEpxdW54R0RkRUZiQ3puZlZ3cFhVMmp4VkNaZEJBdg?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-24T11:00:03+00:00"
-    },
-    {
-      "t": "경북도, 2360억 투입해 AI·반도체·로봇 인재 4만2천명 키운다",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzUmNsb1ZPdExQQmpYckdSaU1wOWp2WnF3Vk54UmtlQ2V2bXVCM09GTXppM0wzYXQ3RXcyVEFpbGlVUmNseHZoaVhjRmJMaVpoMVd4VzZLT1U?oc=5",
-      "s": "경북신문",
-      "d": "2026-11-24T10:19:01+00:00"
-    },
-    {
-      "t": "유럽 증시, 혼조 출발…유로스톡스 0.02%↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQ0pTRlZjLThoak5zdmVfTGJBRGFNdEpFc3VkeExQdnFyc1BueEN4VHRVcHVzZlhCaXQ0djIwdlhtZXBUemhKWWNQWXlTY1llSFpXeXl1NjZnMEE2anh2cmxkaGdkRkx4MTRTbkg3SDDSAXRBVV95cUxOOGJZbVlFZ2VST0ItZTFGVHpuV2RkZVN2N1BseUVZZFZrQm9Ub0p1bUI1UzR1dWxDeHA4aDR5VnQ4S0NzNVdGWHUwa3hhUWx6eVVvLXpXNWpHN2kzSEx2QnQ4UG5RRzlEOEJRa2hGNURwaTN3NQ?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-24T10:18:07+00:00"
     }
   ],
   "asof": {},
