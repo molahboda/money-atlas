@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T20:16:02+00:00",
-  "quotesAt": "2026-11-24T20:16:02+00:00",
-  "newsAt": "2026-11-24T20:01:01+00:00",
+  "fetchedAt": "2026-11-24T20:31:02+00:00",
+  "quotesAt": "2026-11-24T20:31:02+00:00",
+  "newsAt": "2026-11-24T20:31:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7185.79,
+    "spx": 7183.66,
     "nikkei": 58644.63,
-    "vix": 27.18,
-    "krw": 1342.37,
-    "gold": 3555.8,
-    "wti": 81.5,
-    "dxy": 103.82
+    "vix": 27.01,
+    "krw": 1342.24,
+    "gold": 3554.6,
+    "wti": 81.59,
+    "dxy": 103.8
   },
   "daily": {
-    "spx": 3.99,
+    "spx": 3.95,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.14,
-    "dxy": -0.48,
-    "gold": -2.62,
-    "wti": 1.66,
-    "vix": 2.1
+    "krw": -0.15,
+    "dxy": -0.5,
+    "gold": -2.65,
+    "wti": 1.77,
+    "vix": 1.47
   },
   "news": [
+    {
+      "t": "[뉴욕유가] 이란 우려에 WTI 2.35%↑…3개월來 최저치서 반등",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JcjNsWkFIbWszTGlDTWpUVDd2TUZPcmJVWVk4T3FMMHhJek1OdWFzWWdYQ2dvNzBMSWhGVHlnM3c5SExNQVp6LXZTRHBHd01VQ2dveEgyLUo4MVlvaTBUZEZhbG0xS3RZS0p5QWdoR0pHUQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-24T20:12:10+00:00"
+    },
+    {
+      "t": "난제 푼 논문, 수천 편…‘반도체 톱’ 성균관·연세대·UNIST [2026 대학평가]",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPZUk2QmIySGhpeXFvdEUxcnoyNUJyY1FLV0JUcXE3ZnFQYXBKY1BLZHpOeFFGMzgxRld1TWI0Ym5mc2o2TEpWbXdvTTVKOWpzWVhpWHJn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-24T20:00:01+00:00"
+    },
+    {
+      "t": "'황의 귀환' 세계가 들썩…증시 뛰고 삼전닉스도 안도 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Fc29HYVBuQ1RHbU51bnFUZ1RqRGVXcEtoYzZSVWhBcjVKbWlkaDZRblllRE9oVEJpcW1oWk8xcU0xX0pHSjh4ekVydFBZbmpwTFBxVGItUENidnV3aHQ2Zl9LRG5BXzRGVDZKX19uQWQ5N3lMeXfSAXtBVV95cUxOYXNVRlN5bEkyeXY2THgza2EwR0Rpc0M3TkxyTlI5ZWVmX2kyVlNGd3dBQVZtMHJJd0lOdlVmWjBuTDRfMzJQQ3ZjWk5JVWJOajRIemo4T2RlM3hUUmIwSkZIRTZ3S3B0VzhkaURxZ3J4NnE2dnhiajkxWUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-24T20:00:00+00:00"
+    },
+    {
+      "t": "트럼프 \"물가 빠르게 하락…호르무즈 석유 운송 전쟁 이전보다 많아\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wUnI1UXJsM1BGekdzUTVacldxUnpvNFdBTmYtWmJaaW02cXByRER1NFJlQTJ0VGlVSzJQUktHWGJ5Vm0zWHVlWWM5UE1vVzlCSUZqN0RaXy1aQUlfTGpwdWE1cG5QUmlvQlA3ZFhHYlYxZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-24T19:53:18+00:00"
+    },
     {
       "t": "CIBC, 캐나다 중앙은행의 12월 금리 인상 가능성 경고",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2aGZvTUhIbTBEVmVDTjVWMUNCV3F4OWJUeWJ4Wm9mbjJvNVh3emJWdXA4MlY1R1pteUttaURQQlhYeWJweHJqZGpVdTI0bTF0OHlkVHpvVU9IakpkYmx2V1ZBRENweDU3SGc?oc=5",
@@ -31,10 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-11-24T19:52:00+00:00"
     },
     {
-      "t": "“코스피 바닥 찍었다?”…5000선 탈환에 전문가 낙관론, 엔비디아 재급락이 변수",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZVRNVWZGY3I0elFoenRqNm5kbWxyb3FheFlrcHVWUTMtUmhHSGJ6czRURE1xcnBvYWF2SGxnbjQxZm9Tbmo3bWw2ZVlUZ0JkZGVJYTAtU0xhc3RIUklHLVRkQWQ3aXJfQW45NQ?oc=5",
-      "s": "데일리25",
-      "d": "2026-11-24T19:46:15+00:00"
+      "t": "척 슈머 \"엔비디아 CEO, 중국에 첨단 반도체 수출…미국 수출통제법 위반\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ic3lLZHlBT1BlQUpZVXJNSmVJc0o0NEQzM3VjRHh6Nm9SMXFYU2Z1SzY3b0laa0ZicWJONUlsUl8yTDd5UUR4eDFpTHA4bWxN?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-24T19:40:26+00:00"
     },
     {
       "t": "뉴욕 연은 총재 \"물가 2% 복귀 필수…추가 조치 필요\"",
@@ -49,40 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-24T19:30:00+00:00"
     },
     {
-      "t": "종전·유가·AI 규제에 쏠린 ‘눈’ … 연말 증시 향방 가를 국제정치 변수들",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WN3lNS0ZIWG85MWtjZlpoWEthX09Id0M0MUlLRTk1NnZVU2pMS0dqMDJhWlpDU1plTTZwbjVTLXloOTQzZldNdWtiSjE2dkQybkE?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-24T19:30:00+00:00"
-    },
-    {
-      "t": "美의회 “반도체 中반입 의혹 아직 해소 안돼”",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLWwwYkNrVW5oNDl0bndwRDNiWC1oaTlBbTdNQXd1cWNBa2R2bUQ2eTJEUDkydFB5S3lZWXpEdnBvU2NObDROVGZ6eVVra3FfQWpHUlZfcWpvMDFRRzAxNEJNVmdOdTNpTl93ZGh0eGg3d2PSAWZBVV95cUxNV1BZTHdlRWV6cWppV3hQMDJYZXZEODZtaXhUVVNxM2txZmtpbDZVLWZXMmJOTEFnNWxmS2daNlpzRXhJN1E5cENjVVVyY1dESDA5Ml91aFRENmg3bWZUOUNJTUJqSlE?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-24T19:30:00+00:00"
-    },
-    {
       "t": "“고점에 못 팔았다” 실수 인정한 투자 고수 … 여전히 반도체에 베팅하는 이유",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KS2xxY29qNllZcExEWm5GRVpjSV9oejBKc1BwdFoxakZucExoaWNBRWNZOS14TElfZ3ZsT1FUY3ZCRTZMUXdHZFFQYjZYeVhUaHc?oc=5",
       "s": "매일경제",
       "d": "2026-11-24T19:30:00+00:00"
     },
     {
-      "t": "취약층 상대 年8만% 살인적 금리… “못 갚으면 딸 납치하겠다” 협박도",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50M0oyRjVuRm0zczFwal9nam95RUZBclctdklNMnU3WHRFczBlN1padmlTQ01MOWFiTVZTUE5feVVTejJyZ0V4UXRuTVF4dGJkVE0tZ1JGeDFoa3h4Mk9EMGVYRzczMXVDcDhBZVUtdkFYdUtjM1HSAWZBVV95cUxQbk9zUThTWW1wdHBJbWZ4czBZdm1wYUFKaHJtX3NOb0ZxMXJpYk9IVl83R2ppblVWSy1fYjBqaG9BU05obmhycjBwamJfZVNpck1Bb2JnOFdBTTN6OVVVdG5FcGFRLVE?oc=5",
-      "s": "동아일보",
+      "t": "종전·유가·AI 규제에 쏠린 ‘눈’ … 연말 증시 향방 가를 국제정치 변수들",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WN3lNS0ZIWG85MWtjZlpoWEthX09Id0M0MUlLRTk1NnZVU2pMS0dqMDJhWlpDU1plTTZwbjVTLXloOTQzZldNdWtiSjE2dkQybkE?oc=5",
+      "s": "매일경제",
       "d": "2026-11-24T19:30:00+00:00"
-    },
-    {
-      "t": "\"딴 나라는 폭등인데\"...'탈출' 노리는 개미들, 5000선 복귀에도 실망 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNM0l3TV9WMHRZVTFEVzNUMEJ5MENjM0w1VGppamwyT3VudGw2OW9pajZCQWNjR2F1QnRKTXVKaDRIbkdiYnctNFdyWjM4YmozRFFhLUZvZ29fdjd2QUZqc25rc0Q2Rl9n0gFuQVVfeXFMTS1NWWJPRUVMdnZWZEotYjlyU2taVHZpRTNzRVR6VjZLQmRNbUZtbjl0QllSWkJVV3E1LS0yaVVfbF9wNXVYem5naEV3WldwMl9fcmVvN0JxZWpPcC1BelJhUHAtbExsQ2RFckd5dWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-24T18:46:41+00:00"
-    },
-    {
-      "t": "美 '과잉생산 관세' 이르면 오늘 발표…韓 '15% 상한' 지켜질까",
-      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZjZhSkRyWUpOVzRQSnBXZ3ZuMUZVaFVLWmdzS0Z6RXkxRXE4WFQ3bU1tLUhaT2EySk9MZWg0eEM4NzhHSUN0NjVPV0o0SS1XbG9FdnFGZUc?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-24T18:31:20+00:00"
     }
   ],
   "asof": {},
