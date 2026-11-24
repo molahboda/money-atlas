@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T20:31:02+00:00",
-  "quotesAt": "2026-11-24T20:31:02+00:00",
-  "newsAt": "2026-11-24T20:31:02+00:00",
+  "fetchedAt": "2026-11-24T20:46:02+00:00",
+  "quotesAt": "2026-11-24T20:46:02+00:00",
+  "newsAt": "2026-11-24T20:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7183.66,
+    "spx": 7184.62,
     "nikkei": 58644.63,
-    "vix": 27.01,
-    "krw": 1342.24,
-    "gold": 3554.6,
-    "wti": 81.59,
+    "vix": 27.04,
+    "krw": 1342.2,
+    "gold": 3549.5,
+    "wti": 81.44,
     "dxy": 103.8
   },
   "daily": {
-    "spx": 3.95,
+    "spx": 3.97,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.15,
+    "krw": -0.16,
     "dxy": -0.5,
-    "gold": -2.65,
-    "wti": 1.77,
-    "vix": 1.47
+    "gold": -2.79,
+    "wti": 1.58,
+    "vix": 1.58
   },
   "news": [
+    {
+      "t": "미 USTR, 이번주 과잉생산 관세 조사결과 발표",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84aDM2V1Y1WTBSOTloM05BNDZEMkFoZk1HeW9fTk1EUmx4QVJhNVBwU1JtaU9sVVRHQ3d6eE5uY1pxd243UTFHN1dwaTJXMmg2RWRzWjRxYUQ2VF9SNzFiNkpGeTdHa0Q4U2w5Sm5XVTFIQjIz?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-24T20:12:55+00:00"
+    },
     {
       "t": "[뉴욕유가] 이란 우려에 WTI 2.35%↑…3개월來 최저치서 반등",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JcjNsWkFIbWszTGlDTWpUVDd2TUZPcmJVWVk4T3FMMHhJek1OdWFzWWdYQ2dvNzBMSWhGVHlnM3c5SExNQVp6LXZTRHBHd01VQ2dveEgyLUo4MVlvaTBUZEZhbG0xS3RZS0p5QWdoR0pHUQ?oc=5",
@@ -70,12 +76,6 @@ window.LIVE_DATA = {
       "t": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 軍간부 활용 검토”",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUEVuYWNoek5kVEJlMDFvMmNOX3AyWTM0bllVdjF6SjNrRDhzTUVDTE5ac0JJVzByS0pxbmxiMFhnb0VlS2Q1Um9Db1RGUXlzNVBnN2JuZzlqdWYwNmtCNGpvZGk4STdMMF93SDdMWV9NV1lwTXfSAWZBVV95cUxNNGJYVFE4MFFMNWQyMFlRYWR3d2FEY3U2dFZyMGtSTXBJSnJLQ043UEZiRTVIUmhOMzlNM1VzZ2NaNVRyc192TXhVSVFqbmhNYWVQMVI2OHItZHhyN3VjRmJpZFE4YlE?oc=5",
       "s": "동아일보",
-      "d": "2026-11-24T19:30:00+00:00"
-    },
-    {
-      "t": "“고점에 못 팔았다” 실수 인정한 투자 고수 … 여전히 반도체에 베팅하는 이유",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KS2xxY29qNllZcExEWm5GRVpjSV9oejBKc1BwdFoxakZucExoaWNBRWNZOS14TElfZ3ZsT1FUY3ZCRTZMUXdHZFFQYjZYeVhUaHc?oc=5",
-      "s": "매일경제",
       "d": "2026-11-24T19:30:00+00:00"
     },
     {
