@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T13:46:02+00:00",
-  "quotesAt": "2026-11-24T13:46:02+00:00",
-  "newsAt": "2026-11-24T13:46:02+00:00",
+  "fetchedAt": "2026-11-24T14:01:02+00:00",
+  "quotesAt": "2026-11-24T14:01:02+00:00",
+  "newsAt": "2026-11-24T14:01:02+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 29.76,
-    "krw": 1343.85,
-    "gold": 3621.1,
-    "wti": 80.82,
-    "dxy": 103.94
+    "vix": 29.58,
+    "krw": 1343.28,
+    "gold": 3618.2,
+    "wti": 80.72,
+    "dxy": 103.89
   },
   "daily": {
     "spx": 0.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.03,
-    "dxy": -0.37,
-    "gold": -0.83,
-    "wti": 0.81,
-    "vix": 11.8
+    "krw": -0.08,
+    "dxy": -0.41,
+    "gold": -0.91,
+    "wti": 0.69,
+    "vix": 11.12
   },
   "news": [
+    {
+      "t": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53aVEwUVlzcVRncVpKb09sdDRjZE14bW5CUWtrWkpNYlNzdUQ4ZTNsUXZ1eHZ2elBaaWlJUjdNZTdKbE95VTUtSXp0MFlHcGFsaS1CVXpHeHRvTDjSAWBBVV95cUxQSm9FNVZxNlVkd3lLazJwb0Y2cFVGY3pMMGJfd195Zkg2cjdBbDA1cDlGbUd6OWtycU8zRm5lWDRkNFVmNTZSYmVfLXJuNTNzWUVTZl9iNTk1XzRCVklCSWs?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-24T13:43:07+00:00"
+    },
+    {
+      "t": "젠슨 황의 복귀, AI 반도체 랠리 재점화 가능성",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53U0hDY2wyRXJVWjJEWEVyTkVxT19tbmVQaU9xcDFEaXN2clI4MTZmWXFVMkVvckk1b1NoaDNvR0Y2dEoyRl9fYVp5eUM4RmdOdjhGcG9mVUR6UzZiVHRNRHBWQ01qZy00UTJ2VG9SY3A?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T13:36:00+00:00"
+    },
     {
       "t": "호남 반도체 클러스터 모든 것 '한눈에'…반도체 정보 플랫폼 '칩온' 본격 운영",
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40anRPNFcxWUZtWFJwRnVPMS1QMzAzbG9OQVlOR0NFaVl3QWtla3BUYTVoSV9BdnpRbVI0YTRSQXhFLTBaZkFHZXBFelBmdw?oc=5",
@@ -56,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "사흘 만에 코스피 5000선 탈환…불안 요인 해소는 아직",
-      "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1l2VDhCNVZ1em9oaDVLTTZRYTlXZmpIcFJjckJNYXFpTnMtYThPaW9xLS05SzF3ZG9McXBnU1JsZy13N3RvTkZLRGdaTG55MXRIS0g2d3RLdERoT3EtTlNVNHRJZ1JaX1lYcTFFbGIyMTFFNlcwaWZVVThjNEJwZTNfcW9LRlZKdUc4em1XWUw1T3NVQWp6dU5wQlpkRkUtTm5LWlFQX0NOcTcz0gFfQVVfeXFMTmpGTFRCd19JTGdOQjhVd1ktbzBpdG4xVkxKNnhEUXh4VzJHZmFZNkhyT0NTaV83NlpwN0RYelpGanZtZlM1UU9nNjZFRWhPUkhxMEJ5UVF3SG51M2hjdFU?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qRkxUQndfSUxnTkI4VXdZLW8waXRuMVZMSjZ4RFF4eFcyR2ZhWTZIck9DU2lfNzZacDdEWHpaRmp2bWZTNVFPZzY2RUVoT1JIcTBCeVFRd0hudTNoY3RV0gFfQVVfeXFMTmpGTFRCd19JTGdOQjhVd1ktbzBpdG4xVkxKNnhEUXh4VzJHZmFZNkhyT0NTaV83NlpwN0RYelpGanZtZlM1UU9nNjZFRWhPUkhxMEJ5UVF3SG51M2hjdFU?oc=5",
       "s": "경향신문",
       "d": "2026-11-24T12:45:00+00:00"
     },
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YNnMxN1Jvb2ZjLWVRbmZabWtyR2pKUldUdmVPNVhOamQwYzhjazlqNWhxQllyVGU4TFU2Z09zaG9lVjFaUkVzSGpKTkpvQWU2bkFxMVVDVlRscUXSAWBBVV95cUxPd01tRWNSR3FtdlNQT05JMUJxaDFCR2pBUHQyY3h4el9TcjZ6ajFVaWtnWlFKZVNuc29fR3lFUUtyN3IyMFVGOU4waHlBa1UyNEVLY1NDZldqa2JGVXgwVk8?oc=5",
       "s": "연합뉴스",
       "d": "2026-11-24T12:34:24+00:00"
-    },
-    {
-      "t": "젠슨 황 복귀에 코스피 급등…5천선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rTTlUWXByRUhyOG0wWW1YMHZTd2VRdGw1XzhfM0g4R1RQTmV5M3k2WTItU09fWVJyUjVRdUFaQ3EyZEJBWmp6RFBHVEpOSWxuNUt3V3ZXeEZFSHRibnIzb3h3TThHQQ?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-24T12:03:00+00:00"
-    },
-    {
-      "t": "국민엔 “착공” 법원엔 “준비”…용인 반도체산단 ‘말 바꾼 정부’",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlFpamloaXdiTWNqSzYwWld0ckNfWHpDNUc4NC1URHRtTU5RNHdTU0lGbk9zLUlnSXVtaDA4RVdkXzJnV0ZvbUhVZlAyWlpYNFN6X3V2QS1sTTJRMkRuTUg3cmpLaV8zcXQ1YUxrUExTczVGSGFnZjFQSDlTTlV5Z0liU1IxX3BLTllVbHdiNTh6dmpnVmlCX0NPMGs3QzlsT0JYeEpJemxzd9IBX0FVX3lxTE4taE1JaVZuZXRqakdaTHM3MmZvYy1vek55dE1aQmRjSGpWNnF2Q1p1OG8zcVdiaW51eDdwMVRvRUJncjRqUFJPZFV4dTVhdXhEMFF6OGJtNkllUWVkMnFr?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-24T12:01:00+00:00"
     }
   ],
   "asof": {},
