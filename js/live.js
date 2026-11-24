@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T17:31:03+00:00",
-  "quotesAt": "2026-11-24T17:31:03+00:00",
-  "newsAt": "2026-11-24T17:31:03+00:00",
+  "fetchedAt": "2026-11-24T17:46:02+00:00",
+  "quotesAt": "2026-11-24T17:46:02+00:00",
+  "newsAt": "2026-11-24T17:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7213.05,
+    "spx": 7214.13,
     "nikkei": 58644.63,
-    "vix": 27.12,
-    "krw": 1343.77,
-    "gold": 3566,
-    "wti": 81.27,
-    "dxy": 103.85
+    "vix": 26.52,
+    "krw": 1343.44,
+    "gold": 3564.4,
+    "wti": 81.56,
+    "dxy": 103.8
   },
   "daily": {
-    "spx": 4.38,
+    "spx": 4.4,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.04,
-    "dxy": -0.45,
-    "gold": -2.34,
-    "wti": 1.37,
-    "vix": 1.88
+    "krw": -0.06,
+    "dxy": -0.5,
+    "gold": -2.38,
+    "wti": 1.73,
+    "vix": -0.38
   },
   "news": [
+    {
+      "t": "\"5000피가 바닥\"이라던 증권사, 전망치 낮췄다...\"최악 땐 4000피\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tYURGNkppMTBjdGlwVUZDbktnblpwNkpyYWtVd1Qzd29MUzg3UU5KaWV0TkhlZGJZVWEwZlROeHVKZFpUcTNoR3M5MV81UGZOREJMTXJXby1STFJzNlJlai1LaXA0TnpC0gFuQVVfeXFMTW1xa0xLaGJFRDJUWkR5RDJjM2pPNVJPQVZMOVRRN0dqMlUweUdoRDdMZzRodS0xNldLXzhVcUpiVHZTSTVOUVROSkpDdVZCN1Q4Z2l5N2QwQWpMMG90VjhycjFHQzZ3STh5c3ZuNGc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-24T17:37:19+00:00"
+    },
+    {
+      "t": "미국 2년물 인플레이션 스왑 금리 2%…2024년 9월 이후 최저",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HckR1ZlBPQmtQbzd6UjU4cTEwX29VcW1Pb3BPa2ZuSUpQM0hxRUpiX2FhLTU2cUVzd0k1bk1MN29hZzBxQUFoaUhiMmFTd0pP?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-24T17:26:49+00:00"
+    },
     {
       "t": "트럼프 신규 관세, 기존 무역협정 수준 넘지 않을 전망…선별적 적용",
       "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KX1hwWXZyVUhxSEp3a21MU0RDbFdTUnc3aXFlWHJlNkR0THItVElHNzhDMENRUUppXzdVTDFjcGtqdjdpbV9pTmtFa25VYTlp?oc=5",
@@ -69,18 +81,6 @@ window.LIVE_DATA = {
     {
       "t": "국제금값 3620달러선 약세…美 물가지표 대기",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTVNSWRlQzg2dTliWUloeHp6RTJEaEJhMERtYl80Q1kyU3E1Zkcta1FPTzVYaGVDQ25wQ0xva2o4SktRRTdfZWtjTXJUdEFjOUdwbGVGRnpwdUNXa1R0T3JTS1JLS3pTQk80OUNjRURoakotNUJEUnM1U1BNT3NiR05iOFYtcTBy?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-24T16:00:00+00:00"
-    },
-    {
-      "t": "美 USTR, 이르면 이번주 ‘과잉생산 관세’ 결과 발표할 듯(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoOXdaR0pON1BLd1c4Tkd2azNXakgtUEdpUm9VQ3FyTWNIRjBmTzNKUnFOVVEzRi1ZZXBwZ0N6dWlBaFpOUkJOSnJmNGhDc0JyWk9kYjhBaWtQR2FiVHlON09DVV80RktmREE?oc=5",
-      "s": "천지일보",
-      "d": "2026-11-24T16:00:00+00:00"
-    },
-    {
-      "t": "호르무즈 봉쇄 장기화에도 국제유가 3개월 저점",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWx4VWRiVGZrRE5lQkpqUS1LZGxmRXhRVDBlamVmOEtPZU1LLS1IS3RKenRJa2lJX3ktZG0zMVNTY2c0dFpyX2RNdzFrVFhJcjZud2UxX184cG4zZ21EZjEwUkw4MWZjRkVjZUlLSnllNTROQUhYdW5FRlZMX2k4dV92cUlRejdY?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-11-24T16:00:00+00:00"
     }
