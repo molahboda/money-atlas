@@ -1,16 +1,16 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T12:31:01+00:00",
-  "quotesAt": "2026-11-24T12:31:01+00:00",
-  "newsAt": "2026-11-24T12:31:01+00:00",
+  "fetchedAt": "2026-11-24T12:46:02+00:00",
+  "quotesAt": "2026-11-24T12:46:02+00:00",
+  "newsAt": "2026-11-24T12:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 28.89,
-    "krw": 1343.06,
-    "gold": 3624.4,
-    "wti": 79.97,
+    "vix": 29.34,
+    "krw": 1343.04,
+    "gold": 3630.7,
+    "wti": 80.18,
     "dxy": 103.95
   },
   "daily": {
@@ -19,22 +19,28 @@ window.LIVE_DATA = {
     "nikkei": 3.91,
     "krw": -0.09,
     "dxy": -0.36,
-    "gold": -0.74,
-    "wti": -0.25,
-    "vix": 8.53
+    "gold": -0.57,
+    "wti": 0.01,
+    "vix": 10.22
   },
   "news": [
+    {
+      "t": "달러-원, 뉴욕장서 1,340원 초반대 거래",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlbVU3VTBMR0ppOXllY3RYWUNCOVpVelNmaVI2bGtweGhMQUtjb2tnazVyWFRWMjZ6R1FPeVd0QVg5enFxNklOU2p5WDF2V24zRmJjS0xGTkJNTjBiek9rYlBMLVpTcVJBY3g5YXJ5M0FTdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-24T12:36:53+00:00"
+    },
+    {
+      "t": "美 추가 제재에 이란 리알화 또 급락…암시장 환율 5% 치솟아",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YNnMxN1Jvb2ZjLWVRbmZabWtyR2pKUldUdmVPNVhOamQwYzhjazlqNWhxQllyVGU4TFU2Z09zaG9lVjFaUkVzSGpKTkpvQWU2bkFxMVVDVlRscUXSAWBBVV95cUxPd01tRWNSR3FtdlNQT05JMUJxaDFCR2pBUHQyY3h4el9TcjZ6ajFVaWtnWlFKZVNuc29fR3lFUUtyN3IyMFVGOU4waHlBa1UyNEVLY1NDZldqa2JGVXgwVk8?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-24T12:34:24+00:00"
+    },
     {
       "t": "미 달러화 약세…AI 회의론 재점화에 위험자산 회피 확산",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tWTJrOFRWMTVmT2lDS2QyYXo5MG9URENmaTRjN0JFZTRiTDBYQmdEcHdMWjJjbUpNUFVZUXFfN24ycDJWRmM0Tm92MkxnZC1vb2JTaHFXcXVtazl1WHFGZnl3QzI0clFFaGNOR1RiM1hYZw?oc=5",
       "s": "KB Think",
       "d": "2026-11-24T12:25:00+00:00"
-    },
-    {
-      "t": "“호남에 반도체 온다는데”…찬성도 반대도 못하는 동복댐 수몰 주민들 [현장]",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odllqS09JTW5mcUpUZ2dFV1dCZDl0YzRsOHZudVdOa0lkUHJHdEZ1Z2YzbVlxYVhOYnZyYlMxc0tkNnotZU9jZ2hXemtNanZxRUNPM3JLdkNnUmNsWjFtSQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-24T12:19:00+00:00"
     },
     {
       "t": "국민엔 “착공” 법원엔 “준비”…용인 반도체산단 ‘말 바꾼 정부’",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N1phN2pORWJVa3Blb0dkc29WNXpUVkRYX0NzMEVlZXpkTkVRMjFEY3p3WXNoV2VtOFRIQzVNNjM4SHN5TDlQOFN5aVM3blBZUTE1Um1WY0R4MnNxcEl5UEhRSWI?oc=5",
       "s": "서울경제TV",
       "d": "2026-11-24T10:41:05+00:00"
-    },
-    {
-      "t": "엔비디아 젠슨 황 복귀…K반도체 ‘협력·다변화’ 속도",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORGUzMmE5ZUZBbzd1NkZINk9aSnh4WDlLLURnTjBIX1E0SW0xMDFaTHJOdUw1d3Y3bVpxVG9KTDVuNVhMX3ZQUERfdTZmX0RMYXBPZEdBOE1vZjR2NzdxeXpVY1M?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-11-24T10:20:14+00:00"
     }
   ],
   "asof": {},
