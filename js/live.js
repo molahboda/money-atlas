@@ -1,33 +1,57 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T15:16:02+00:00",
-  "quotesAt": "2026-11-24T15:16:02+00:00",
-  "newsAt": "2026-11-24T15:16:02+00:00",
+  "fetchedAt": "2026-11-24T15:31:01+00:00",
+  "quotesAt": "2026-11-24T15:31:01+00:00",
+  "newsAt": "2026-11-24T15:31:01+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7208.66,
+    "spx": 7165.85,
     "nikkei": 58644.63,
-    "vix": 27.21,
-    "krw": 1342.58,
-    "gold": 3609.6,
-    "wti": 81.21,
-    "dxy": 103.83
+    "vix": 27.35,
+    "krw": 1342.32,
+    "gold": 3590,
+    "wti": 80.95,
+    "dxy": 103.85
   },
   "daily": {
-    "spx": 4.32,
+    "spx": 3.7,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.13,
-    "dxy": -0.47,
-    "gold": -1.14,
-    "wti": 1.3,
-    "vix": 2.22
+    "krw": -0.15,
+    "dxy": -0.45,
+    "gold": -1.68,
+    "wti": 0.97,
+    "vix": 2.74
   },
   "news": [
     {
+      "t": "ECB, 12월 금리 인상 가능성 높아…이후 경로는 불투명",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncDZ5ckNfY3g0dFA0clZkU2VlS0ZSLVF0dlJZOUh6WXRJY0s4SjQwQlRiX1JvcHpYdU1BU3lHTm1YMVpJSXJILWtEdTgzQmVVQWZIdHdnekE5YlBWRU5kenk3SmdzeWZWU0E?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T15:24:00+00:00"
+    },
+    {
+      "t": "美 이르면 이번주 '과잉생산 관세' 발표…韓 15% 유지할 듯",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ITkdGSF8ydVI0aW5xaWVJUjltTmVWTFNzZV94VVRkVF8tNjNrQlI5OHF2ZHdJcmlCTmJXTk5aTFRBTEFkS2ZkVlh0MjNGeDYtUU94amx0YnRtYlBBWEY1Vg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-24T15:23:29+00:00"
+    },
+    {
+      "t": "[뉴욕증시]AI주 반등 하루 만에 약세…엔비디아 5% ↓",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KaXI0blI2eVNUUnE4Qmp1MGdNc1IxSzExdnNzQnFRV1lPV0hfMEUtMm9Ma2FNN0xLRGR1UnNsMWdTelNyOHZoM3NtajVuY3hBWUMzVlZsNllHdkJOWE83Mg?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-24T15:15:22+00:00"
+    },
+    {
+      "t": "삼성전자, '역대급 호황' 반도체서만 임원 70명 발탁",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5OEZJMG10X3BZUjZaZkNjdWFzbDV3UzUwUHZ6THp2QWZsejV2QU4yclZNM0dfSEpvSTlFNXJPcjF5M0lDZFdESmxjemJuRzhhVWFVN2d0WHhYZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-24T15:12:00+00:00"
+    },
+    {
       "t": "\"美USTR, 이르면 이번주 '과잉생산 관세' 조사 결과 발표\"(종합)",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13cjlvTkZRQ3FiZldjRXhraE8xcnQwMUNlTHA1SnZSTU9STEVXbVo5Y2dfYV9wYXJPWV9vZkljNnlhUllGNWE2NE43NnFuOVZqTDJ4MUFOY2NEZFpPMGZldzdacXo3eTlZaFlhMlZ1NV9Mb2lw?oc=5",
-      "s": "연합뉴스 한민족센터",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUeExaZ3B1blp3djNZdUhSa01CS1hPYUx3RlpYQjMzbEhGU0RIa0RfQ0xkaVQ2ZkRHQjZEc09ZWlFSbjlsLW16UnFsUWxZSnpnRjJpUnk3b0lPNU3SAWBBVV95cUxNN1hPQzZNMGwtT1pJTEMwUEpaaUk3OHgwWFpiRnNHb2dlRkxpU0FXSG5ScjUzcWNVTGlTSE1ENG5XSl9oYUMwMXBRdGgwZ1hqaHQ0czBNZUJBUU8tRGdTREE?oc=5",
+      "s": "연합뉴스",
       "d": "2026-11-24T15:08:40+00:00"
     },
     {
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrWGJDbTRCLTRscUZmM3VBQWE4NXRSS190UVdITmlocUtCUGdoZFk4Y1RFUzNwc0FjYUNsWUJETzFCWGQ3elc2OTJ1Znl0MWxSZzdDQ2hDcU1sdGtaRVpWM3FKWUZpNUJ1OXc?oc=5",
       "s": "https://www.sisaworld.kr/",
       "d": "2026-11-24T14:53:12+00:00"
-    },
-    {
-      "t": "뉴욕증시, 기술주 차익실현 속 하락 출발",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Kdl9WNEtKZVYzQXhEUkpXS0QtVXVhY0g2V0h1bTJzT3RacHc4d3ZNNmwxVm9SaWtFVnBweWtFUE5JNTItbEpRb0wtdkxsemg5RGc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-24T14:49:01+00:00"
-    },
-    {
-      "t": "트럼프 정부, '과잉생산' 관세 예고…한국은 괜찮을까",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rXy1URllFTkQ0Z2Z4OFlaRzk2UWNJc2MyQU9TcWZNM3Vmdm5reC1TamZTNmJTSUZuZWpSRnIydFRoOVNFQ0ZHRkZ6UF9kSUhqTUZMT1pCc2ZfUQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-24T14:46:46+00:00"
-    },
-    {
-      "t": "한국형 ‘디지털 통관’ 중앙아로…AI·빅데이터 관세행정 공유",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKS3c2YTZ6eHRwT3dZZV81Vk1nTkRsNW0wWmhWenRQOHMxc1JCSXk3ZDFpRElfLWctbzJxLUVYT21TQWk2Q2JQdnRzWEt3eHAzdzU0aEtHOFdzWkJXVmxkdTVkeGljWTgyWkE?oc=5",
-      "s": "www.sisaworld.kr",
-      "d": "2026-11-24T14:40:37+00:00"
-    },
-    {
-      "t": "美 과잉생산 관세, 이르면 이번주 발표할 듯",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJRnVUYVZCY1BvUXQ3bnc3OWRhUUR2T2E0c3ZkZ3V2NUhEMExEYmVBQms0bFptMVJvOHV4dEpsUEo3SWJBQl9kUHVET21YcUstNHZpUzRkcjFrTkRFSnRqQVE2cUlhY1VlTmc?oc=5",
-      "s": "천지일보",
-      "d": "2026-11-24T14:36:18+00:00"
     }
   ],
   "asof": {},
