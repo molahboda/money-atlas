@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T14:46:02+00:00",
-  "quotesAt": "2026-11-24T14:46:02+00:00",
-  "newsAt": "2026-11-24T14:46:02+00:00",
+  "fetchedAt": "2026-11-24T15:01:02+00:00",
+  "quotesAt": "2026-11-24T15:01:02+00:00",
+  "newsAt": "2026-11-24T15:01:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7200.35,
+    "spx": 7214.8,
     "nikkei": 58644.63,
-    "vix": 29.34,
-    "krw": 1341.18,
-    "gold": 3618.3,
-    "wti": 81.21,
+    "vix": 27.85,
+    "krw": 1341.88,
+    "gold": 3629.8,
+    "wti": 81.45,
     "dxy": 103.77
   },
   "daily": {
-    "spx": 4.2,
+    "spx": 4.41,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.23,
+    "krw": -0.18,
     "dxy": -0.53,
-    "gold": -0.91,
-    "wti": 1.3,
-    "vix": 10.22
+    "gold": -0.59,
+    "wti": 1.6,
+    "vix": 4.62
   },
   "news": [
+    {
+      "t": "美 ‘과잉생산 관세’ 결과 이르면 이번주 공개…한국도 포함됐다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MEFkREc4clRMY3U3R0EtX0tUcWRWY2xTV0k3ZXNRMTVhaDAwc2NBQUdtcVN2amlmNlEydFg2ZXk2RW1YZE90eWNqTnF4aHFxdzJ1Z2FB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-24T14:54:07+00:00"
+    },
+    {
+      "t": "뉴욕증시, 기술주 차익실현 속 하락 출발",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DY2k0QktKbXktZDRCVktYZTFTbHlzV0NZOGFCMVNPbm1icnVLSzZsSzR1OGVTSG1hYVFfcTRxRDhNTDlXR0o1RmdkcDQwNk1CaGFudExCX0JuVWfSAWBBVV95cUxQUml6Vl8xN3cxSTdEMS1mSFJTbTNDZVczNEtEMnB5c3hjRkR2RDg5WmFIcGtPckc5dmkyNF9oRDd0VmNnMm9vQ2NVU3pILThpNnRUVnJNRkZFLUNNWTdyZXA?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-24T14:49:01+00:00"
+    },
+    {
+      "t": "트럼프 정부, '과잉생산' 관세 예고…한국은 괜찮을까",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rXy1URllFTkQ0Z2Z4OFlaRzk2UWNJc2MyQU9TcWZNM3Vmdm5reC1TamZTNmJTSUZuZWpSRnIydFRoOVNFQ0ZHRkZ6UF9kSUhqTUZMT1pCc2ZfUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-24T14:46:46+00:00"
+    },
+    {
+      "t": "美 과잉생산 관세, 이르면 이번주 발표할 듯",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJRnVUYVZCY1BvUXQ3bnc3OWRhUUR2T2E0c3ZkZ3V2NUhEMExEYmVBQms0bFptMVJvOHV4dEpsUEo3SWJBQl9kUHVET21YcUstNHZpUzRkcjFrTkRFSnRqQVE2cUlhY1VlTmc?oc=5",
+      "s": "천지일보",
+      "d": "2026-11-24T14:36:18+00:00"
+    },
     {
       "t": "삼성 인사도 반도체 독주…로봇에도 힘 실었다",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tMi15ZllJRDdhVHlrczZheENwRTNrSERJZV8wWTQyUG9VcVV3Mk9FcXdhaGxzVkVzcnFuNnc1SXJ2Z215czFjR3FZUjZSdnU2Y0xfbENGcWJSRzA3WXFMTXNPZ2FXSzg?oc=5",
@@ -31,22 +55,10 @@ window.LIVE_DATA = {
       "d": "2026-11-24T14:20:00+00:00"
     },
     {
-      "t": "\"트럼프 행정부, 관세 공세 재개 준비…이르면 25일 발표\"",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QaUtPZm5LeFZjUUxRWGp0Tl8zMm5lMUVad0RkMU00Qm8xOEdBQUU4b1lTZDktcy03S19oVE1XOXhLVlhKbHB5Z25JcGVQNUNk?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-24T14:19:23+00:00"
-    },
-    {
-      "t": "멕시코 인플레이션, 반시코 깜짝 금리 인하 후 3.96%로 가속",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVejdHZGZpcGRUVTB2QnZWWHdJWXB6dkdnZHNLdE5yX2xpbDFkNWUxbGxuWHlBZ1dYSlZ5MjUyN1ZnazhCLUtLRDJ3OG4wZzVsdm9GakJKNmZMNjhadVYtSHo1UXlRQmM?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T14:15:00+00:00"
-    },
-    {
-      "t": "나이지리아 중앙은행, 대선 앞두고 금리 인하 중단",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tVWdnaHhIUWFIU01OdnEyQ2MtcjJITjZEem55RGxWbGstNk1ONmp6V1A4QUdubkxiSXVyVDNGeFVyWnRTTExWLThQRFQwQWFuVXhEazdULWFxd3ZSUG9Xa2FRQ0FySEk?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T14:10:00+00:00"
+      "t": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...AI·반도체주 동반 약세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UWFlBb1pKRXpPWWxUcUJycFhXWEk3MkF4LS1xLWxIWERiVDQ3MElQVW93dG94Z3lqNHJlZnR3Vzg0eDByeTExYUZZQlo4WTFBRmtnR3JYNjN3MlhK?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-24T14:09:00+00:00"
     },
     {
       "t": "영란은행 그린 위원 \"영국, 금리 인상 속도 높여야\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MeEFfcGFoSnlzR1kzc09DRmVJZTc2bFlldmEyUUhLTDZ5UFRDSVhrZjVoQnFQY2hvYUUtVWdibDg1eEd2RGtWUDFJRFY4YjhMU0J1aHQ2SE1sUQ?oc=5",
       "s": "한국경제",
       "d": "2026-11-24T13:35:33+00:00"
-    },
-    {
-      "t": "호남 반도체 클러스터 모든 것 '한눈에'…반도체 정보 플랫폼 '칩온' 본격 운영",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40anRPNFcxWUZtWFJwRnVPMS1QMzAzbG9OQVlOR0NFaVl3QWtla3BUYTVoSV9BdnpRbVI0YTRSQXhFLTBaZkFHZXBFelBmdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-24T13:28:12+00:00"
-    },
-    {
-      "t": "자사주 매입한도 풀었지만...증시 체력 회복 ‘안전판' 가능성",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Tlo1QWFWNlU1dVhIR0c5SGwxdFpFUXAwWlVJSGpNTnNvODd4d1dRTk5OWXM2My1IelRBQW9mVlNNQUt3ZVRPbUstX2ZkSkNVcWFiVFYxSnJqS0xJZHJZN2hxUm1TNFB6c2NjaUxCS2RnZw?oc=5",
-      "s": "한양경제",
-      "d": "2026-11-24T13:28:01+00:00"
     }
   ],
   "asof": {},
