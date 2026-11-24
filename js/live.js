@@ -1,40 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T19:46:02+00:00",
-  "quotesAt": "2026-11-24T19:46:02+00:00",
-  "newsAt": "2026-11-24T19:46:02+00:00",
+  "fetchedAt": "2026-11-24T20:01:01+00:00",
+  "quotesAt": "2026-11-24T20:01:01+00:00",
+  "newsAt": "2026-11-24T20:01:01+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7193.7,
+    "spx": 7176.55,
     "nikkei": 58644.63,
-    "vix": 26.56,
-    "krw": 1342.8,
-    "gold": 3559.4,
-    "wti": 81.89,
+    "vix": 26.8,
+    "krw": 1341.75,
+    "gold": 3558.4,
+    "wti": 81.77,
     "dxy": 103.81
   },
   "daily": {
-    "spx": 4.1,
+    "spx": 3.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.11,
+    "krw": -0.19,
     "dxy": -0.49,
-    "gold": -2.52,
-    "wti": 2.15,
-    "vix": -0.23
+    "gold": -2.55,
+    "wti": 2,
+    "vix": 0.68
   },
   "news": [
+    {
+      "t": "CIBC, 캐나다 중앙은행의 12월 금리 인상 가능성 경고",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2aGZvTUhIbTBEVmVDTjVWMUNCV3F4OWJUeWJ4Wm9mbjJvNVh3emJWdXA4MlY1R1pteUttaURQQlhYeWJweHJqZGpVdTI0bTF0OHlkVHpvVU9IakpkYmx2V1ZBRENweDU3SGc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T19:52:00+00:00"
+    },
+    {
+      "t": "“코스피 바닥 찍었다?”…5000선 탈환에 전문가 낙관론, 엔비디아 재급락이 변수",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95ZVRNVWZGY3I0elFoenRqNm5kbWxyb3FheFlrcHVWUTMtUmhHSGJ6czRURE1xcnBvYWF2SGxnbjQxZm9Tbmo3bWw2ZVlUZ0JkZGVJYTAtU0xhc3RIUklHLVRkQWQ3aXJfQW45NQ?oc=5",
+      "s": "데일리25",
+      "d": "2026-11-24T19:46:15+00:00"
+    },
     {
       "t": "뉴욕 연은 총재 \"물가 2% 복귀 필수…추가 조치 필요\"",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vR2djRlh4VzlNbkJCNmZ5cVdRTHpqZnE5VGs2eXByN2JJMV9hRTdlM29oYXFjTmk2SnNfY1phQ3F5OERnQko4Y2g4Z0FFWHBxTzRYWjFMd0J2bWVLeGZzRQ?oc=5",
       "s": "아시아경제",
       "d": "2026-11-24T19:32:23+00:00"
-    },
-    {
-      "t": "종전·유가·AI 규제에 쏠린 ‘눈’ … 연말 증시 향방 가를 국제정치 변수들",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WN3lNS0ZIWG85MWtjZlpoWEthX09Id0M0MUlLRTk1NnZVU2pMS0dqMDJhWlpDU1plTTZwbjVTLXloOTQzZldNdWtiSjE2dkQybkE?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-24T19:30:00+00:00"
     },
     {
       "t": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 軍간부 활용 검토”",
@@ -43,14 +49,14 @@ window.LIVE_DATA = {
       "d": "2026-11-24T19:30:00+00:00"
     },
     {
-      "t": "美의회 “반도체 中반입 의혹 아직 해소 안돼”",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLWwwYkNrVW5oNDl0bndwRDNiWC1oaTlBbTdNQXd1cWNBa2R2bUQ2eTJEUDkydFB5S3lZWXpEdnBvU2NObDROVGZ6eVVra3FfQWpHUlZfcWpvMDFRRzAxNEJNVmdOdTNpTl93ZGh0eGg3d2PSAWZBVV95cUxNV1BZTHdlRWV6cWppV3hQMDJYZXZEODZtaXhUVVNxM2txZmtpbDZVLWZXMmJOTEFnNWxmS2daNlpzRXhJN1E5cENjVVVyY1dESDA5Ml91aFRENmg3bWZUOUNJTUJqSlE?oc=5",
-      "s": "동아일보",
+      "t": "종전·유가·AI 규제에 쏠린 ‘눈’ … 연말 증시 향방 가를 국제정치 변수들",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WN3lNS0ZIWG85MWtjZlpoWEthX09Id0M0MUlLRTk1NnZVU2pMS0dqMDJhWlpDU1plTTZwbjVTLXloOTQzZldNdWtiSjE2dkQybkE?oc=5",
+      "s": "매일경제",
       "d": "2026-11-24T19:30:00+00:00"
     },
     {
-      "t": "취약층 상대 年8만% 살인적 금리… “못 갚으면 딸 납치하겠다” 협박도",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50M0oyRjVuRm0zczFwal9nam95RUZBclctdklNMnU3WHRFczBlN1padmlTQ01MOWFiTVZTUE5feVVTejJyZ0V4UXRuTVF4dGJkVE0tZ1JGeDFoa3h4Mk9EMGVYRzczMXVDcDhBZVUtdkFYdUtjM1HSAWZBVV95cUxQbk9zUThTWW1wdHBJbWZ4czBZdm1wYUFKaHJtX3NOb0ZxMXJpYk9IVl83R2ppblVWSy1fYjBqaG9BU05obmhycjBwamJfZVNpck1Bb2JnOFdBTTN6OVVVdG5FcGFRLVE?oc=5",
+      "t": "美의회 “반도체 中반입 의혹 아직 해소 안돼”",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLWwwYkNrVW5oNDl0bndwRDNiWC1oaTlBbTdNQXd1cWNBa2R2bUQ2eTJEUDkydFB5S3lZWXpEdnBvU2NObDROVGZ6eVVra3FfQWpHUlZfcWpvMDFRRzAxNEJNVmdOdTNpTl93ZGh0eGg3d2PSAWZBVV95cUxNV1BZTHdlRWV6cWppV3hQMDJYZXZEODZtaXhUVVNxM2txZmtpbDZVLWZXMmJOTEFnNWxmS2daNlpzRXhJN1E5cENjVVVyY1dESDA5Ml91aFRENmg3bWZUOUNJTUJqSlE?oc=5",
       "s": "동아일보",
       "d": "2026-11-24T19:30:00+00:00"
     },
@@ -61,28 +67,22 @@ window.LIVE_DATA = {
       "d": "2026-11-24T19:30:00+00:00"
     },
     {
+      "t": "취약층 상대 年8만% 살인적 금리… “못 갚으면 딸 납치하겠다” 협박도",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50M0oyRjVuRm0zczFwal9nam95RUZBclctdklNMnU3WHRFczBlN1padmlTQ01MOWFiTVZTUE5feVVTejJyZ0V4UXRuTVF4dGJkVE0tZ1JGeDFoa3h4Mk9EMGVYRzczMXVDcDhBZVUtdkFYdUtjM1HSAWZBVV95cUxQbk9zUThTWW1wdHBJbWZ4czBZdm1wYUFKaHJtX3NOb0ZxMXJpYk9IVl83R2ppblVWSy1fYjBqaG9BU05obmhycjBwamJfZVNpck1Bb2JnOFdBTTN6OVVVdG5FcGFRLVE?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-24T19:30:00+00:00"
+    },
+    {
       "t": "\"딴 나라는 폭등인데\"...'탈출' 노리는 개미들, 5000선 복귀에도 실망 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNM0l3TV9WMHRZVTFEVzNUMEJ5MENjM0w1VGppamwyT3VudGw2OW9pajZCQWNjR2F1QnRKTXVKaDRIbkdiYnctNFdyWjM4YmozRFFhLUZvZ29fdjd2QUZqc25rc0Q2Rl9n0gFuQVVfeXFMTS1NWWJPRUVMdnZWZEotYjlyU2taVHZpRTNzRVR6VjZLQmRNbUZtbjl0QllSWkJVV3E1LS0yaVVfbF9wNXVYem5naEV3WldwMl9fcmVvN0JxZWpPcC1BelJhUHAtbExsQ2RFckd5dWc?oc=5",
       "s": "머니투데이",
       "d": "2026-11-24T18:46:41+00:00"
     },
     {
-      "t": "금값, 미 달러 약세에도 하락…연준 금리 인상 전망이 시장 주도",
-      "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE4xS2l0TEtubWpVeVRVTXVSZWRnem04U25QVVhKY1pWY1RPS2VqSUlhTkM1amY5LVk3NEdyV1k3eXlMUVV4dWM1ZGtMdHdsVDVPa1ZHY01jUmEwYXpBNGJnQkZ5SHl6M3Q4RHpjM05oZVR1dFFQaVNjQjJGc2loWmN5OVZ0Z0dlbko4ZUduNV9tMlBiaDcwS1g0YTNZZGtxSzl6MmJlQmMzQlN5VFk5Mm1oNDFhYllpbWg1RFBqb2cxeFJmWUY4?oc=5",
-      "s": "www.tmgm.com",
-      "d": "2026-11-24T18:18:25+00:00"
-    },
-    {
-      "t": "'AI 황제' 단 한명에 흔들린 K반도체株 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMEprZS1nVlpIRl91ZjZOQUdHMDFFWm9LOUJpalRyUVIwaTdIMkdFZmJLV1p5Q2ExY2tkdW93bEw5WlFJQS1KWjB0d2xjRkh1eGIxSTRIRkNTRkNUeVE2OGFVYUNkaHJnZWFMREp6a0xIcFdDcXfSAXtBVV95cUxQWXEzOHZ3YV9FV1hpQVB5SGlucVlrQ2IzMkZRLUFmdmNhTXEzbVBCYkFpUkk3SFU5UzJXTm4tQld6LTFJM012aGtpUlN6YUJqYm5IQTdzbnFQLXo0cFpSc2NWZEdXZlBnQ1BzN1N3LXpxQXkzT2dETnNoRTQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-24T18:00:00+00:00"
-    },
-    {
-      "t": "맥클렘 캐나다 중앙은행 총재, 연말 물가 둔화 전망…2027년 파급 경고",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lR1NsdDVLckhZTWFSN2hUN0w2QnhCU3Y0UzRPazhfOVJhRUx1dFB4V0NyTmVLV2kyc29zVnk3S0Z1NnZDbjR6NE1YWnZTUm04SHBReFExeldya0xKRlAyRlQ1dWtrekZwWHc?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T17:44:00+00:00"
+      "t": "美 '과잉생산 관세' 이르면 오늘 발표…韓 '15% 상한' 지켜질까",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZjZhSkRyWUpOVzRQSnBXZ3ZuMUZVaFVLWmdzS0Z6RXkxRXE4WFQ3bU1tLUhaT2EySk9MZWg0eEM4NzhHSUN0NjVPV0o0SS1XbG9FdnFGZUc?oc=5",
+      "s": "뉴스1",
+      "d": "2026-11-24T18:31:20+00:00"
     }
   ],
   "asof": {},
