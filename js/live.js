@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T18:46:02+00:00",
-  "quotesAt": "2026-11-24T18:46:02+00:00",
-  "newsAt": "2026-11-24T18:46:02+00:00",
+  "fetchedAt": "2026-11-24T19:01:02+00:00",
+  "quotesAt": "2026-11-24T19:01:02+00:00",
+  "newsAt": "2026-11-24T19:01:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7199.41,
+    "spx": 7190.76,
     "nikkei": 58644.63,
-    "vix": 26.2,
-    "krw": 1342.68,
-    "gold": 3564.6,
-    "wti": 81.92,
-    "dxy": 103.78
+    "vix": 26.46,
+    "krw": 1342.76,
+    "gold": 3557,
+    "wti": 81.89,
+    "dxy": 103.8
   },
   "daily": {
-    "spx": 4.18,
+    "spx": 4.06,
     "kospi": 2.79,
     "nikkei": 3.91,
     "krw": -0.12,
-    "dxy": -0.51,
-    "gold": -2.38,
-    "wti": 2.18,
-    "vix": -1.58
+    "dxy": -0.49,
+    "gold": -2.59,
+    "wti": 2.15,
+    "vix": -0.6
   },
   "news": [
+    {
+      "t": "\"딴 나라는 폭등인데\"...'탈출' 노리는 개미들, 5000선 복귀에도 실망 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNM0l3TV9WMHRZVTFEVzNUMEJ5MENjM0w1VGppamwyT3VudGw2OW9pajZCQWNjR2F1QnRKTXVKaDRIbkdiYnctNFdyWjM4YmozRFFhLUZvZ29fdjd2QUZqc25rc0Q2Rl9n0gFuQVVfeXFMTS1NWWJPRUVMdnZWZEotYjlyU2taVHZpRTNzRVR6VjZLQmRNbUZtbjl0QllSWkJVV3E1LS0yaVVfbF9wNXVYem5naEV3WldwMl9fcmVvN0JxZWpPcC1BelJhUHAtbExsQ2RFckd5dWc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-24T18:46:41+00:00"
+    },
     {
       "t": "美 '과잉생산 관세' 이르면 오늘 발표…韓 '15% 상한' 지켜질까",
       "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZjZhSkRyWUpOVzRQSnBXZ3ZuMUZVaFVLWmdzS0Z6RXkxRXE4WFQ3bU1tLUhaT2EySk9MZWg0eEM4NzhHSUN0NjVPV0o0SS1XbG9FdnFGZUc?oc=5",
@@ -39,12 +45,6 @@ window.LIVE_DATA = {
     {
       "t": "'AI 황제' 단 한명에 흔들린 K반도체株 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYMEprZS1nVlpIRl91ZjZOQUdHMDFFWm9LOUJpalRyUVIwaTdIMkdFZmJLV1p5Q2ExY2tkdW93bEw5WlFJQS1KWjB0d2xjRkh1eGIxSTRIRkNTRkNUeVE2OGFVYUNkaHJnZWFMREp6a0xIcFdDcXfSAXtBVV95cUxQWXEzOHZ3YV9FV1hpQVB5SGlucVlrQ2IzMkZRLUFmdmNhTXEzbVBCYkFpUkk3SFU5UzJXTm4tQld6LTFJM012aGtpUlN6YUJqYm5IQTdzbnFQLXo0cFpSc2NWZEdXZlBnQ1BzN1N3LXpxQXkzT2dETnNoRTQ?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-24T18:00:00+00:00"
-    },
-    {
-      "t": "내릴 땐 와르르 오를 땐 찔끔, 개미 탓? - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XYzN4R0ZZeUJpTUg5SV9ZT1JLcmxpVDlEZ2pMVzk5M0NUUkVfY0E0T3ZyZ1FxX19jOWN1dXY5akV0RWJOSm5qS1dWSkJNNEtfbmgyNlVVWmFxQTI1RlA3QkFYZTVyY2Rj0gFuQVVfeXFMUHc1dW81QjFGSTZyYW5YSk56N3ZzZm9ISWIzM1RpZUFYNV96T2VUb1U4ZTl4TWtkMlhqeF9uQ2o5QWFrZC1hSDQ1Q3Y5LUlYaDEtNmNaQkVMUS1IT2hBOW9Ec0JhelgzVFYzT2hWLUE?oc=5",
       "s": "머니투데이",
       "d": "2026-11-24T18:00:00+00:00"
     },
