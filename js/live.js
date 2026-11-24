@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T14:31:02+00:00",
-  "quotesAt": "2026-11-24T14:31:02+00:00",
-  "newsAt": "2026-11-24T14:31:02+00:00",
+  "fetchedAt": "2026-11-24T14:46:02+00:00",
+  "quotesAt": "2026-11-24T14:46:02+00:00",
+  "newsAt": "2026-11-24T14:46:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7163.68,
+    "spx": 7200.35,
     "nikkei": 58644.63,
-    "vix": 29.17,
-    "krw": 1342.95,
-    "gold": 3615,
-    "wti": 81.14,
-    "dxy": 103.81
+    "vix": 29.34,
+    "krw": 1341.18,
+    "gold": 3618.3,
+    "wti": 81.21,
+    "dxy": 103.77
   },
   "daily": {
-    "spx": 3.67,
+    "spx": 4.2,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.1,
-    "dxy": -0.49,
-    "gold": -1,
-    "wti": 1.21,
-    "vix": 9.58
+    "krw": -0.23,
+    "dxy": -0.53,
+    "gold": -0.91,
+    "wti": 1.3,
+    "vix": 10.22
   },
   "news": [
     {
@@ -29,6 +29,24 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tMi15ZllJRDdhVHlrczZheENwRTNrSERJZV8wWTQyUG9VcVV3Mk9FcXdhaGxzVkVzcnFuNnc1SXJ2Z215czFjR3FZUjZSdnU2Y0xfbENGcWJSRzA3WXFMTXNPZ2FXSzg?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-24T14:20:00+00:00"
+    },
+    {
+      "t": "\"트럼프 행정부, 관세 공세 재개 준비…이르면 25일 발표\"",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QaUtPZm5LeFZjUUxRWGp0Tl8zMm5lMUVad0RkMU00Qm8xOEdBQUU4b1lTZDktcy03S19oVE1XOXhLVlhKbHB5Z25JcGVQNUNk?oc=5",
+      "s": "블루밍비트",
+      "d": "2026-11-24T14:19:23+00:00"
+    },
+    {
+      "t": "멕시코 인플레이션, 반시코 깜짝 금리 인하 후 3.96%로 가속",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVejdHZGZpcGRUVTB2QnZWWHdJWXB6dkdnZHNLdE5yX2xpbDFkNWUxbGxuWHlBZ1dYSlZ5MjUyN1ZnazhCLUtLRDJ3OG4wZzVsdm9GakJKNmZMNjhadVYtSHo1UXlRQmM?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T14:15:00+00:00"
+    },
+    {
+      "t": "나이지리아 중앙은행, 대선 앞두고 금리 인하 중단",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tVWdnaHhIUWFIU01OdnEyQ2MtcjJITjZEem55RGxWbGstNk1ONmp6V1A4QUdubkxiSXVyVDNGeFVyWnRTTExWLThQRFQwQWFuVXhEazdULWFxd3ZSUG9Xa2FRQ0FySEk?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T14:10:00+00:00"
     },
     {
       "t": "영란은행 그린 위원 \"영국, 금리 인상 속도 높여야\"",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE96Tlo1QWFWNlU1dVhIR0c5SGwxdFpFUXAwWlVJSGpNTnNvODd4d1dRTk5OWXM2My1IelRBQW9mVlNNQUt3ZVRPbUstX2ZkSkNVcWFiVFYxSnJqS0xJZHJZN2hxUm1TNFB6c2NjaUxCS2RnZw?oc=5",
       "s": "한양경제",
       "d": "2026-11-24T13:28:01+00:00"
-    },
-    {
-      "t": "[속보] “美USTR, 이르면 이번주 ‘과잉생산 관세’ 조사결과 발표”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTR05wRjZVcENDampmUGUtM3VZYXpobTE5Y3ZjcWRPZ0pLV0o1dW1lVG85S2d3aXduU0xFMzNVVm9IcDhwTzhyRFZ2N1pEdTBhMXc?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-24T13:25:05+00:00"
-    },
-    {
-      "t": "백악관, 중국·EU·수십 개국 대상 대규모 신규 관세 준비",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hakF4bXRLTWNLSDRCellaTjE0SzFnNURZN29tU2VyTmZpdDZldU0tandSZkVIeTlabHRFNWRDalJGRzBCU2dOcTBRdC1aYTJrdGNleVlYRVhuLXJGNk9VelVyQjFnb3ZfU0JEeURQcUI?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T13:25:00+00:00"
-    },
-    {
-      "t": "[속보] \"美USTR, 이르면 이번주 '과잉생산 관세' 조사결과 발표\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uM3FXQ1NGSW5zTGtKR3NtNlFPMk04ZG9WWnpHZzl6a0x3Z2xhUW5iTE5sY3pybF8zd0pySnF0Sy1IcjB5Y1d0UVJkYlVrMjJZYlVtYmMwM1BmeVRuZFR4elpGS0hOcVhRUnR1b0M3YmZiUVFQ?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-11-24T13:20:02+00:00"
     }
   ],
   "asof": {},
