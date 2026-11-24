@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T21:46:02+00:00",
-  "quotesAt": "2026-11-24T21:46:02+00:00",
-  "newsAt": "2026-11-24T21:46:02+00:00",
+  "fetchedAt": "2026-11-24T22:01:02+00:00",
+  "quotesAt": "2026-11-24T22:01:02+00:00",
+  "newsAt": "2026-11-24T22:01:02+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7201.09,
     "nikkei": 58644.63,
     "vix": 26.36,
-    "krw": 1340.52,
-    "gold": 3551.6,
-    "wti": 81.52,
-    "dxy": 103.83
+    "krw": 1340.38,
+    "gold": 3552.5,
+    "wti": 81.63,
+    "dxy": 103.82
   },
   "daily": {
     "spx": 4.21,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.28,
-    "dxy": -0.47,
-    "gold": -2.73,
-    "wti": 1.68,
+    "krw": -0.29,
+    "dxy": -0.48,
+    "gold": -2.71,
+    "wti": 1.82,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "[뉴욕증시] 엔비디아 급락-앤스로픽 공모가 붕괴에 나스닥 1.48%↓",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdEdSdUFGZGxVM1FZdmEwSVVzNjF3UUZySjFsZEpaVW9RdmE3QWR3UUgyTVdkdnNKNzlWZWU0MGV6ODdZSm9GSHZadDJidnZBOUVlS21lTDVabHhvYXQxX1JUOTBpYzQyNG9La24zeDlmQWhkZ2trQS1ybEFKUWE5OHBRQVZaLWNK?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-24T21:41:58+00:00"
+      "t": "트럼프 \"물가 빠르게 하락…호르무즈 석유 운송 전쟁 이전보다 많아\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTnA5S2JYc2ozSEVQSW10SElQYi1BaGRBeXFkYy1OWjhvdVg4MktQYzRkQ09EbEJyVXFXcllpdF9maXZpakluaWxSY1BaYU9JMTZtQW95VTBkeWc4bF9KdnZUeVo1LVFESjlqcGhuMGc?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-24T21:53:19+00:00"
+    },
+    {
+      "t": "[글로벌증시] 엔비디아 하루 만에 하락세…뉴욕증시 혼조마감",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ES1BkODJfcm9iZ2dVTUtXR0Vqck0zOEdJOWhTdUl4b2ZtMDVjVHpZVlFaSmU1RjFHZ1ZwTVZWenM0NUF0a2w4cTk5LTBFakcxMG1lSmVIQTFDbFlwaUUyQ2xqM2hEZlk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-24T21:52:00+00:00"
+    },
+    {
+      "t": "美증시, 엔비디아 차익 실현 등에 혼조세로 마감…나스닥 1.5%↓",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ubXFFMjFBeEkzTHNLbDA1bU5QYmJCSmJTMDJiaHpiSWQxWnVkWnBDNGNKMDM2Wnh2MlhCcmNzM2RnWjlybmxtS3pKbE16Z0NSdVlWR3hR?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-24T21:46:05+00:00"
+    },
+    {
+      "t": "엔비디아 31% 폭등 하루 만에 6% 급락…뉴욕증시, 혼조세로 마감",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZN2Q2NDU0RVpMNFNyX0MydlZ6WXZYYThXUHd1U09QYzdwMzNobVNsRDBVV3BLa1pEQWR3RlhfWGRTX0tDZ1NDN2d1azlpVDRlQVFZRHhual9nVTBWbkRQVzltLWViZF84a1BWNjEydkJqSkXSAWZBVV95cUxQNUc4NHJ1d2VIcldhSUVnODNYRXByNnRUb3U3OGozOFF3cXBzQ1NoQVV2RmFxUHItXzZrU0V3aHJnUkRzZ1V4dUpEeTI2cDc0eXZ5VzlVcFlOaXFBUWd2cjJlZHlnaUE?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-24T21:43:00+00:00"
     },
     {
       "t": "미국 USTR, 16개 무역 파트너 과잉생산 관세 발표 임박…한국 15% 상한 적용 전망",
@@ -50,15 +68,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "'젠슨황 효과' 의문에 반도체지수 8% 급반락",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53TFFpNUh6RU83S1pLRzVZMVpRMW5GTXFFc0Q0ay1RTXUybmpUcVFQOVJiRXI4bjJrTXVnZWVvUWFVWGUwUnVId1pLV09JaWxNSHhpWGFxNGZqOUXSAWBBVV95cUxQSS05X1FTamV1bkszM21mQlk2YlhCZDd0QjMxLU5XQkhEMkdndmQxdzg1QU4wc3ZaLV83cHMyY0V1OFNuandTZld5alBkWTBuTFBPcjJHUnJVUzM0d0xxUy0?oc=5",
-      "s": "연합뉴스",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GWmNzV1AtV05kU2ZuMHVRNDZHRHRRNlMwY2ZDQkw3M2wzZE9YRHdxV3JVNldQaU8yc3FoZDRhN0k3aElXekpHOTg1ZzdPNGpac2c?oc=5",
+      "s": "매일경제 마켓",
       "d": "2026-11-24T21:34:29+00:00"
-    },
-    {
-      "t": "국제유가, 호르무즈해협 선박 피격과 저기 매수세 유입 등 영향 반등",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oN3VJeFBWU0dDTEpyOGhYeXhGTExQRGlqaVZEN2w5Q2dJMGxrN1hCSTJibXczVDM3cE9UQ1lHTFA1SDdXVnNGeUc3ZkJsZWttcTNnT3BHMEJIbF8wZUdN?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-11-24T21:30:40+00:00"
     },
     {
       "t": "금리 인상기 전세시장…수치의 이면 봐야 [김효선의 부동산 이지!]",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uaGpEdVkzeUN3eHByUW4yTkpFZkUwNkp4aV9Nc0YxUEVtcGlSbG9TcGp2LW0tc19aa3FXdWFEbDFqRmtBdGV2Mzg4YmNFOUNwSjhmTENkWGZPYTA2YkdZRA?oc=5",
       "s": "아시아경제",
       "d": "2026-11-24T21:30:00+00:00"
-    },
-    {
-      "t": "美 '과잉생산 관세' 이르면 오늘 발표‥외신 \"韓 15% 유지 예상\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVYzFMZEdXRW9XcUdEbklSblNIY1hPZ0pXZzhDaFQ1S0I4eExmdnVoTjlMT1kwUl80aUNPb0RwRnhiT3lYVXVSX2s0VXAtWkVLemt1Z1B1X2htUjg3bjlpTThvU1ppTS1TNTVTTWJSU0JrZ25Q0gF0QVVfeXFMT1ZFaDNQVEJSbjdIZnZnaWl2c2hlSjVfOW82QWRoeDJSWF9uNVlYZGxZSldCR3BzckdiZHhXbUlOUlZsWm8zRWg2Z2VoNnp3WkFmWXdhenBaY251SnVpM0NadHhTMFhqVGVpU3lhR2hiZ1ZiNTM?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-24T21:27:35+00:00"
-    },
-    {
-      "t": "뉴욕증시, 젠슨 황 복귀 효과 되돌리며 혼조 마감…나스닥 1.5%↓·다우 0.9%↑",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11Z1pnbUUxUklEUlQ5NW4zOG9KQTNrbDdxMjRpRlpaUUNydTQzbW1MdnVzTHhFYVRrY180ZEhTRGFyRXVtZWh1ZkhiNjYwVWpfcjRyWVZWTjhJTDNa?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-24T21:27:00+00:00"
     }
   ],
   "asof": {},
