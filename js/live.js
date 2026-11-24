@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T13:16:02+00:00",
-  "quotesAt": "2026-11-24T13:16:02+00:00",
-  "newsAt": "2026-11-24T13:16:02+00:00",
+  "fetchedAt": "2026-11-24T13:31:01+00:00",
+  "quotesAt": "2026-11-24T13:31:01+00:00",
+  "newsAt": "2026-11-24T13:31:01+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 28.95,
-    "krw": 1344.71,
-    "gold": 3634.6,
-    "wti": 80.33,
-    "dxy": 103.87
+    "vix": 30.3,
+    "krw": 1343.75,
+    "gold": 3630.2,
+    "wti": 80.54,
+    "dxy": 103.9
   },
   "daily": {
     "spx": 0.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": 0.03,
-    "dxy": -0.43,
-    "gold": -0.46,
-    "wti": 0.2,
-    "vix": 8.75
+    "krw": -0.04,
+    "dxy": -0.4,
+    "gold": -0.58,
+    "wti": 0.46,
+    "vix": 13.82
   },
   "news": [
+    {
+      "t": "백악관, 중국·EU·수십 개국 대상 대규모 신규 관세 준비",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hakF4bXRLTWNLSDRCellaTjE0SzFnNURZN29tU2VyTmZpdDZldU0tandSZkVIeTlabHRFNWRDalJGRzBCU2dOcTBRdC1aYTJrdGNleVlYRVhuLXJGNk9VelVyQjFnb3ZfU0JEeURQcUI?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T13:25:00+00:00"
+    },
     {
       "t": "사흘 만에 코스피 5000선 탈환…불안 요인 해소는 아직",
       "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1l2VDhCNVZ1em9oaDVLTTZRYTlXZmpIcFJjckJNYXFpTnMtYThPaW9xLS05SzF3ZG9McXBnU1JsZy13N3RvTkZLRGdaTG55MXRIS0g2d3RLdERoT3EtTlNVNHRJZ1JaX1lYcTFFbGIyMTFFNlcwaWZVVThjNEJwZTNfcW9LRlZKdUc4em1XWUw1T3NVQWp6dU5wQlpkRkUtTm5LWlFQX0NOcTcz0gFfQVVfeXFMTmpGTFRCd19JTGdOQjhVd1ktbzBpdG4xVkxKNnhEUXh4VzJHZmFZNkhyT0NTaV83NlpwN0RYelpGanZtZlM1UU9nNjZFRWhPUkhxMEJ5UVF3SG51M2hjdFU?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQ0pTRlZjLThoak5zdmVfTGJBRGFNdEpFc3VkeExQdnFyc1BueEN4VHRVcHVzZlhCaXQ0djIwdlhtZXBUemhKWWNQWXlTY1llSFpXeXl1NjZnMEE2anh2cmxkaGdkRkx4MTRTbkg3SDDSAXRBVV95cUxOOGJZbVlFZ2VST0ItZTFGVHpuV2RkZVN2N1BseUVZZFZrQm9Ub0p1bUI1UzR1dWxDeHA4aDR5VnQ4S0NzNVdGWHUwa3hhUWx6eVVvLXpXNWpHN2kzSEx2QnQ4UG5RRzlEOEJRa2hGNURwaTN3NQ?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-24T10:18:07+00:00"
-    },
-    {
-      "t": "[亞증시-종합] 젠슨 황 복귀에 日·臺↑…中 혼조·홍콩↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83QnJuejhCYUoxV2I0dnB5RDJkVmM2UHg0ejVqRk5WdWRjQ1ViU3ZOVzV0ZkI4RnZHVGxhUmljdWZ5SncwbGpqSGRrcERlTG5HYVdmVHQ0SEpYbElWNkhXd3dwTTh0V3J5QVhBS3BzWkI?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-24T10:15:36+00:00"
     }
   ],
   "asof": {},
