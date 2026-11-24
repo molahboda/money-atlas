@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T17:46:02+00:00",
-  "quotesAt": "2026-11-24T17:46:02+00:00",
-  "newsAt": "2026-11-24T17:46:02+00:00",
+  "fetchedAt": "2026-11-24T18:01:02+00:00",
+  "quotesAt": "2026-11-24T18:01:02+00:00",
+  "newsAt": "2026-11-24T18:01:02+00:00",
   "quotes": {
     "kospi": 5006.03,
-    "spx": 7214.13,
+    "spx": 7210.65,
     "nikkei": 58644.63,
-    "vix": 26.52,
-    "krw": 1343.44,
-    "gold": 3564.4,
-    "wti": 81.56,
-    "dxy": 103.8
+    "vix": 26.22,
+    "krw": 1342.49,
+    "gold": 3564.2,
+    "wti": 81.41,
+    "dxy": 103.78
   },
   "daily": {
-    "spx": 4.4,
+    "spx": 4.35,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.06,
-    "dxy": -0.5,
-    "gold": -2.38,
-    "wti": 1.73,
-    "vix": -0.38
+    "krw": -0.14,
+    "dxy": -0.52,
+    "gold": -2.39,
+    "wti": 1.55,
+    "vix": -1.5
   },
   "news": [
+    {
+      "t": "'해킹 위협 고도화' 반도체 첨단기술 기업 보안전담 인력 0명... 공급망 뚫리면 다 털린다",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PR0hBeEVVNEgzTWxqSTB3NTYxUGRub2RpYXpBU0ZpM0VTLXBMbnZrTUQwc0lPNlNILTBHWWE5Ym9DcTZpZEtqZmlQYkdiTHYyaFNqcnNfTzJDU0dNckRMdkR2aVBjdEs2?oc=5",
+      "s": "공정뉴스",
+      "d": "2026-11-24T17:48:11+00:00"
+    },
+    {
+      "t": "맥클렘 캐나다 중앙은행 총재, 연말 물가 둔화 전망…2027년 파급 경고",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lR1NsdDVLckhZTWFSN2hUN0w2QnhCU3Y0UzRPazhfOVJhRUx1dFB4V0NyTmVLV2kyc29zVnk3S0Z1NnZDbjR6NE1YWnZTUm04SHBReFExeldya0xKRlAyRlQ1dWtrekZwWHc?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T17:44:00+00:00"
+    },
     {
       "t": "\"5000피가 바닥\"이라던 증권사, 전망치 낮췄다...\"최악 땐 4000피\" - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tYURGNkppMTBjdGlwVUZDbktnblpwNkpyYWtVd1Qzd29MUzg3UU5KaWV0TkhlZGJZVWEwZlROeHVKZFpUcTNoR3M5MV81UGZOREJMTXJXby1STFJzNlJlai1LaXA0TnpC0gFuQVVfeXFMTW1xa0xLaGJFRDJUWkR5RDJjM2pPNVJPQVZMOVRRN0dqMlUweUdoRDdMZzRodS0xNldLXzhVcUpiVHZTSTVOUVROSkpDdVZCN1Q4Z2l5N2QwQWpMMG90VjhycjFHQzZ3STh5c3ZuNGc?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNGZzWGNqTkhGZFlTX2pTZ3VvWi1SRVJ2YVQwVm5NOWNHN0g0dDBnbFdSSFJ2Mld2VVViaFRQdDhUZWJmZGFVRW1aNWFsT196a2k4LUs3RC01dw?oc=5",
       "s": "경북매일",
       "d": "2026-11-24T16:43:00+00:00"
-    },
-    {
-      "t": "미 증시, 개장 직후 시총 1조달러 증발…관세 인상 추진 여파",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wcG9Xa1Zic3BfMnBReTZ1SXZMMEpLZ3prLUx5MTNLbmdlYnd2XzE4N3lqTjR5bEVtUEl1dkZEWndNRUhCNEVPREYyQ0NJMWN1?oc=5",
-      "s": "블루밍비트",
-      "d": "2026-11-24T16:42:14+00:00"
-    },
-    {
-      "t": "국제금값 3620달러선 약세…美 물가지표 대기",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTVNSWRlQzg2dTliWUloeHp6RTJEaEJhMERtYl80Q1kyU3E1Zkcta1FPTzVYaGVDQ25wQ0xva2o4SktRRTdfZWtjTXJUdEFjOUdwbGVGRnpwdUNXa1R0T3JTS1JLS3pTQk80OUNjRURoakotNUJEUnM1U1BNT3NiR05iOFYtcTBy?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-24T16:00:00+00:00"
     }
   ],
   "asof": {},
