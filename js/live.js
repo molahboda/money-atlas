@@ -1,29 +1,65 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-24T11:31:01+00:00",
-  "quotesAt": "2026-11-24T11:31:01+00:00",
-  "newsAt": "2026-11-24T11:31:01+00:00",
+  "fetchedAt": "2026-11-24T11:46:01+00:00",
+  "quotesAt": "2026-11-24T11:46:01+00:00",
+  "newsAt": "2026-11-24T11:46:01+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7237.17,
     "nikkei": 58644.63,
-    "vix": 28.95,
-    "krw": 1342.75,
-    "gold": 3627,
-    "wti": 80.03,
+    "vix": 28.82,
+    "krw": 1342.93,
+    "gold": 3628.6,
+    "wti": 80.18,
     "dxy": 104.03
   },
   "daily": {
     "spx": 0.85,
     "kospi": 2.79,
     "nikkei": 3.91,
-    "krw": -0.12,
+    "krw": -0.1,
     "dxy": -0.28,
-    "gold": -0.67,
-    "wti": -0.17,
-    "vix": 8.75
+    "gold": -0.62,
+    "wti": 0.01,
+    "vix": 8.26
   },
   "news": [
+    {
+      "t": "삼성전자, 반도체·AI·로봇 ‘신성장동력 인재’ 대거 임원 발탁",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FXzAyNkNrY3VLZE9nMml0Zy1KcjczcFhVc0VVLWJwalMyR1FDeElQUmNxMDlGdjhZX1lrWGdlcG9PcDFhYTc0TS1IaVlxOVpLLTdzN2sxWENld9IBX0FVX3lxTFBnbzc0VnlHQ1VoY3JxWnVjazNRWHlkQjJmWlNYUEtOdWw5blA0OUxfdWdfRWlrV1BNeFp3ZVBHejNTWDlZTDNsbUhFT1htWFdRb0dVWV9BeGN6emdQdFNR?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-24T11:38:00+00:00"
+    },
+    {
+      "t": "젠슨 황의 복귀, 반도체 주식의 전환점이 될 수 있을까?",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQTJWazQtVEMwQ3FDSTlya21fRndQYktxWlpRVzFWWF9RQXRJVnhIMmtOQkhZQk43T0dFZG84WUE1U3F2OGZ3RE54cGVkaC1pLThzTjdLZkNZYlVmSnZhRjUtT0ljLWlYYVFLcUtadmE?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-24T11:29:00+00:00"
+    },
+    {
+      "t": "젠슨 황 복귀에 외국인 귀환‥코스피 '5천 선'",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WTmJUSzNMYktoTDhpR3RBNFJ4bmZKbjYyNThtaFNRZ214eTBOR3ZNZFJoeGJjbG1ORGlXYlpQLXVUd0FrVktoVFVUYnZ6Z0FLTzlZZW5UUlBMY1JZSndQWHREVFI2ek5RaTM3YkFyMkZHZXRnM2hMUtIBeEFVX3lxTE93cEo0eHpPYzRrc0ZiN2UzZ3ZGdEk3Vk5xdEQwb3A4Q0tSZjJVMVNrNjRNSFljWGZvS3FlZHBIM1Buby1KVHZxdFpsT3dsMHlTTnRoTW9KM3czUGNUSERDX2tUbzhlSm9OT3RKMjNXMGtWbl9UWWh1cw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-24T11:06:39+00:00"
+    },
+    {
+      "t": "임지락 화순군수, 동복댐 이주민에 \"생계형 연금\"…반도체 소부장 기업 유치도 요구[와이드이슈]",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZ0dJdDVSS1FNai1VRzBhY3FfU001ZmFtZW0xTW95RmFJUUlNQ0E1MjNyeF9ROWo4cy0zZUpRS0xDTEpxdW54R0RkRUZiQ3puZlZ3cFhVMmp4VkNaZEJBdg?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-11-24T11:00:03+00:00"
+    },
+    {
+      "t": "젠슨 황 복귀에 반도체株 반색…반등 불씨 될까",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N1phN2pORWJVa3Blb0dkc29WNXpUVkRYX0NzMEVlZXpkTkVRMjFEY3p3WXNoV2VtOFRIQzVNNjM4SHN5TDlQOFN5aVM3blBZUTE1Um1WY0R4MnNxcEl5UEhRSWI?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-24T10:41:05+00:00"
+    },
+    {
+      "t": "엔비디아 젠슨 황 복귀…K반도체 ‘협력·다변화’ 속도",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ORGUzMmE5ZUZBbzd1NkZINk9aSnh4WDlLLURnTjBIX1E0SW0xMDFaTHJOdUw1d3Y3bVpxVG9KTDVuNVhMX3ZQUERfdTZmX0RMYXBPZEdBOE1vZjR2NzdxeXpVY1M?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-24T10:20:14+00:00"
+    },
     {
       "t": "유럽 증시, 혼조 출발…유로스톡스 0.02%↓",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQ0pTRlZjLThoak5zdmVfTGJBRGFNdEpFc3VkeExQdnFyc1BueEN4VHRVcHVzZlhCaXQ0djIwdlhtZXBUemhKWWNQWXlTY1llSFpXeXl1NjZnMEE2anh2cmxkaGdkRkx4MTRTbkg3SDDSAXRBVV95cUxOOGJZbVlFZ2VST0ItZTFGVHpuV2RkZVN2N1BseUVZZFZrQm9Ub0p1bUI1UzR1dWxDeHA4aDR5VnQ4S0NzNVdGWHUwa3hhUWx6eVVvLXpXNWpHN2kzSEx2QnQ4UG5RRzlEOEJRa2hGNURwaTN3NQ?oc=5",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XQmpSV295emZMQUktelg3aTduNElqT2RGU082aTRLYXhLYzNCSDZEWWhmTWhnV2YzM2daQ0VTYVJtaUNQUlVLb2JnNGt1YURlQmUyazl1dFJFcGFzS2NDeVZCY3g0bm5tcUV3?oc=5",
       "s": "KDI 경제교육·정보센터",
       "d": "2026-11-24T10:08:55+00:00"
-    },
-    {
-      "t": "젠슨황 복귀에 코스피 급등…5천선 회복",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Q21fbFNPSkw4aHhOS2VyWmRWLUhHQTRIZloyM2FCdENfZ1N6X1ZDb0tGa0I0UjBQWV8xNWRnWm5vazdYT1pjRnA0aFNhSHEyLUk3WmxfelE5U2c?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-24T10:03:00+00:00"
-    },
-    {
-      "t": "IRS 금리 약세 플래트닝…거래량 제한 속 장 막판 매도세",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbXRIS1lNUU04S2NIbHpFVXIzalFRWmsxdFFISnd5VG8yd1RyWTJrME5wTTd5Wm9sOWZsdnNGQjFkdUUyWkdJbEVvQ01zWTFac29CejA2SXA2NnkzOGU4YTdBSGpqMzdRTmNPeG1UeEXSAXRBVV95cUxQZTc1N3R4WnUtR28tYVU4eFhIV2dCWHNpWVJ1Qk83THEtNWx5Y3JBS0NsTU0tbmMwdnpEZTlBTDg1YXo2aXZWbW1KU1pXREdscmZJZ1NNeVlhdjhGMkJZS29tOVVGM3IxMHAxbWpBZEp1c2xkTA?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-24T09:48:54+00:00"
-    },
-    {
-      "t": "증안펀드 미동 없던 코스피...'젠슨 황 복귀'로 단숨에 '5000피' 회복",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4eEI2TlJFTzJGQVdvVjlYeV9QODlUZ3hRUG1jN1RVUVNuQUlHYkNxdnJYR0NwbXZmMFhZbUk2czNFSy1RR2dLcWE3OFZHQQ?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-24T09:44:00+00:00"
-    },
-    {
-      "t": "대만 반도체업계, 젠슨 황 복귀 '환영'…투자자들도 반색",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVkRFb2xsb29nclVMNFZrTlVETWZhRHJNekpqZGtQSy01X3FYWk82RTJTblBmZms5MllscVB3SUNyMlM1Z29TZmJQeEFwRkJZb1E?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-24T09:37:37+00:00"
-    },
-    {
-      "t": "[포토뉴스] 원주 반도체·AI 산업 융합 세미나",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SV3dzQVFjSk41U25LREFxbUZCMWNzN05QVkREc21YMXpXVUxvVjA4MS1SLXJaNW1XOG9pS0J6dVI3djV2dFY2WFcxdnVOTFgybmpNeUtTR1lpWUE?oc=5",
-      "s": "강원일보",
-      "d": "2026-11-24T09:32:12+00:00"
-    },
-    {
-      "t": "27일 외국인 배당금 15.8조, 하루 외환거래량 65%…환율 상승 우려",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zb0lOMXFSM1UxU1dxTkVFeWF2UEphQzNCV1dRRlBiWS1NMG9zY3pPU2FkVXJZREVKcFlsVzBWWGpHZDVWQnJXeW5wSWdVN0xmRlVNanZjalpVaVRmSXlOcHM3RXVRQTQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-24T09:24:00+00:00"
     }
   ],
   "asof": {},
