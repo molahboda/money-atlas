@@ -1,58 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T04:01:01+00:00",
-  "quotesAt": "2026-11-25T04:01:01+00:00",
-  "newsAt": "2026-11-25T04:01:01+00:00",
+  "fetchedAt": "2026-11-25T04:16:02+00:00",
+  "quotesAt": "2026-11-25T04:16:02+00:00",
+  "newsAt": "2026-11-25T04:16:02+00:00",
   "quotes": {
-    "kospi": 4739.46,
+    "kospi": 4725.32,
     "spx": 7201.09,
-    "nikkei": 57024.61,
+    "nikkei": 56935.13,
     "vix": 26.36,
-    "krw": 1343.86,
-    "gold": 3549,
-    "wti": 80.74,
+    "krw": 1343.39,
+    "gold": 3543.5,
+    "wti": 80.7,
     "dxy": 103.97
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.66,
-    "nikkei": -2.76,
-    "krw": 0.21,
+    "kospi": 0.36,
+    "nikkei": -2.92,
+    "krw": 0.18,
     "dxy": -0.33,
-    "gold": -2.8,
-    "wti": 0.71,
+    "gold": -2.96,
+    "wti": 0.66,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "외인 추가 매도 코스피, 장중 6% 급락에 4700도 붕괴...반도체 9~10% ↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE52NjFJdmpFRjhWanlJSHp0Q1h4eDBLUm51QmVHaWMzaThGWGYtZkV3M2hGdE16d3JxSE15OWQwTmVzbDRJN0Q3SmxuWERHM1duQVBMLWdmUUo3bHNnM19BeEdCWURFVTgyZnJWeFJiUUUwdw?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-11-25T03:52:01+00:00"
+      "t": "피치 \"연준 12월 인상 뒤 내년 동결…채권 금리, 올해 고점보다 완화\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdUFVNjdmTmpDQlp2MnZIMzlkZlJXVW1PUk91dHEwam9yaVhxa1VucXRKWXJLU21fVHJsN1ZRRWtaQ2NoU1IxSmYwaHRiZjFqd0NfVi1QWVpEa2Q5NVVQbzZkVzdtejdzcWRDMmc4V2E?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T03:59:14+00:00"
     },
     {
-      "t": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTGRfd1FPZWNRdkZ4VWFqQXNjOHRFZDZtZnZXd0dQbl9vRzFqM2g5VHVNdWN2LW1EX3RoTTNjaHF3Rk4wZDI3LWJtckxCR1h0bWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T03:48:49+00:00"
+      "t": "대만증시, 기술주 약세에 6%대 급락…하루만에 4만선 깨져",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIUzRRanR4WExPZmFIOU1FTjR4dFkyU2o4UVkzUGZhSEdCRGxVNUFwc0hIVTRZc3M2M19QSE1iU0M2RkV5bm9xZUE5a3RINmlXMnAxZHhmYUJxSlNvLXlRbWJvYmItY084ODFiM2I1QVHSAXRBVV95cUxPaEtaM3piSGVIYUExaVlBMXRJT1dxajM0bUM1bEVPcjhJelVCNG5pc1JpUGV1bnowVmZFekFNS2NxcUVSU21maF9XREFaa0cweUtjRFZGNVU5NHA0Z1U2d3R0NjZFYkVReVVVRkppd0tNak15Uw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T03:56:16+00:00"
     },
     {
-      "t": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yakxzRVlra292MUxsdzJwbGg1LXNrM0lkWVdlM2p2d2Ryb0V0MWFZS2VQYmROSTdxd1oxdFk3endFc2tGMmtsa1N5REs0cnFPNTBKZXA5aHNWWC1qaUFyVmRTd3V0VTNFRVFOa3dKOTdtU1ZU?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-11-25T03:41:21+00:00"
+      "t": "10월 은행 가계대출 금리 5% 돌파⋯주담대 14년 7개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12VkJUYnJXYkVYN2YydDJQZ2MyN29aYXUyTkVCUlJOUndWel90ZG1yeXQ2RkJYQl95RmRLdGpCMldiZU1fcGVUV2RuczFVaUxVbURJQTkwcm1oc0YyRlFZ?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-11-25T03:54:09+00:00"
     },
     {
       "t": "AI 매도세 심화·미국 관세 위협에 아시아 증시 하락",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weVpEbnF0WXlqTnYzeGdrNmI2T0F6aWhmaXZ1OGZvUWZfYVhjdWxlTDRSSENmSGROSXdFRmU4UnJlakxNcWtCM1dWVllXQXVKNXVYZHBpV2NHOWtXTm95cGtaUURWUk43RmRBRFotQlg?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-25T03:35:00+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vbjJVaElURmNNSV96TlROZXpFaFlLY0E0dkltUjNheXVuM3dlb09ab3pVTFUxbV9ya2h6ak5fUTVsTXhMZi1ka0FxZksxeW0yRXdLY0dqRjRDTC1YampIUkQwckdFS1NHdFFkeWVjOVVhdktxZThOMNIBeEFVX3lxTE1takVXMzRMNjhHY1BfOUp2VmN3c1dCblNXVTBMd3ZBNVEwZGhZUURDLTNGV1N0TnpKUWFNdTlRUEpLYm15YlplWGlweWN2RlA2aHdlUlZ4cmdqM0RVM2RQQ3RjdzVRSDEwNGRWMklzSE1UeGgwNnI5Qg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T03:24:19+00:00"
     },
     {
       "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
@@ -79,10 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-25T03:07:16+00:00"
     },
     {
-      "t": "가계대출 금리 3년 만에 5% 넘어…주택대출 금리는 약 15년 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEtJY3JuanRZblY3d3ZsbmNYSm51S2diTVF2YjBacGROSE1VbkZFa0hlOUN5NkhBcEJRN3diVVR2dTdiSmlzTHZwbUtlRXBLT0dycVBoSS1rcFFBUXd5akNRUEdsZFU5eHVfbTVyaHFJaXhTS05ya0tuMm1VRU5QLTk4cFNpSDBNQVFTNHNB?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-25T03:05:46+00:00"
+      "t": "‘햇볕 가뭄’에 물가 비상… 상추 값 121%·깻잎 88% 뛰었다",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9meTBXSHlfTW9lcFg4cnN1SHliVldGUG8zRzllQzR3cTRxZ3ltVFNXTW05bkNCQ1lYT0lsU0d3bHNsdVZsU01hUlMxNG5vU1BX?oc=5",
+      "s": "문화일보",
+      "d": "2026-11-25T03:03:46+00:00"
+    },
+    {
+      "t": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1Q0azJtRnRpMGVfQ3Bnb2FubG1wbE1TNDlnTkxkSEdoeTVEUDNCRzhjeGYxT2xkMU81eTVRZWtnUzVhck9QVzF5RE8wNlRDajFYUWUydWYwNGRJaGdBaWpUaDlYLTQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T03:03:00+00:00"
     }
   ],
   "asof": {},
