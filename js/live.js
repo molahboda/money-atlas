@@ -1,29 +1,59 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T21:16:02+00:00",
-  "quotesAt": "2026-11-25T21:16:02+00:00",
-  "newsAt": "2026-11-25T21:16:02+00:00",
+  "fetchedAt": "2026-11-25T21:31:01+00:00",
+  "quotesAt": "2026-11-25T21:31:01+00:00",
+  "newsAt": "2026-11-25T21:31:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7182.78,
     "nikkei": 57011.62,
-    "vix": 28.31,
-    "krw": 1343.64,
-    "gold": 3598.3,
-    "wti": 84.14,
+    "vix": 28.29,
+    "krw": 1344.44,
+    "gold": 3597.4,
+    "wti": 84.19,
     "dxy": 103.7
   },
   "daily": {
     "spx": -0.75,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.2,
+    "krw": 0.26,
     "dxy": -0.1,
-    "gold": 1.02,
-    "wti": 2.55,
-    "vix": 7.4
+    "gold": 1,
+    "wti": 2.61,
+    "vix": 7.32
   },
   "news": [
+    {
+      "t": "[뉴욕증시] AI 불안에 또 출렁…저가 매수 속 보합권 혼조 마감",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RX1dSWmR2bzRXTHBNc3Fzby1oWmcxNnRRVXA5Q3RXNGtJSW43TVlvZlVZZFlPaFZuQS1rSUtYQzZTdEd6WEtQVk85T2FCQWJfRnE5SzNCZGgxbWV1OGFVOWI4OC1XV0ZtWWUwQmkyLV8?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T21:20:24+00:00"
+    },
+    {
+      "t": "美, 관세 근거로 ‘호남 반도체’ 들었다…“약속 어기면 25%” 압박",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUM1FiTHhWVTVRTUktNk5Ob2cxS0s2bk5RS2hPNGdCcTQ0Zkc4MklsT1gwWG5hc3JIWEVkNjdaRkdaUGVsdHBIQzdBQllHY25zalduM0xn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-25T21:17:42+00:00"
+    },
+    {
+      "t": "‘최악의 시나리오’ 피한 한국… 미국, ‘과잉 생산 관세’ 15% 부과",
+      "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQmFqclRQY3ZYbW1EX3liLU9SRnFidUlMX1A0NmQ4RHlYNGtwdEhva2pUcXZXYXJic2VqbFNhdXdZekVBY0hBY29ZejA3dW1IN3pKOGhzR01CSWlnZjNlYko4UmxqNHM5T2l4aUx3U1doZEQtX3c2MmxPQ3YwRUlyMWJLc3lRTHh4ZldN?oc=5",
+      "s": "국제신문",
+      "d": "2026-11-25T21:17:00+00:00"
+    },
+    {
+      "t": "뉴욕증시, AI 투자 불안에 연일 롤러코스터…나스닥 0.6%↓",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ON2RjM04zVk9ydXBGNGZHVnFFcHVtZWJjYm5xc0w4SUdPa0Nra011Tl9vVUdsZ01sODllejNzR01rdk42VFpjc3dKZEVpV2NZeGc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-25T21:12:43+00:00"
+    },
+    {
+      "t": "미, ‘과잉생산 관세’예고…“한국 15%, 약속 안 지키면 25%”",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4dFVuTF9rU09oZGF4b1dGanNOdzV2cW5iWWFNWVROQy1fREdCVzUwYy1OWUVDWHB0N2ptVWRSWEFTb24wcGhPSHhMQ29QN2ZnTGdSdEpBNEdEaEFSM0hXdFVIdUxnUQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T21:11:00+00:00"
+    },
     {
       "t": "[뉴욕증시-1보] AI 불안에 또 출렁…저가 매수 속 혼조 마감",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VRXlIN3Rhb3d5RG1EY3BWVFQ3NjJGZ1FOU3ZHekU5Ukowbl91NkMwN0JvcVZuWGYxbVJfWlE0UV8yVEpVTVFWQ1BDSnBIbGVwQzl5cE9pNVFta09LTXlQQ29jNmJxREFpdlNMQWwwSzA?oc=5",
@@ -31,58 +61,28 @@ window.LIVE_DATA = {
       "d": "2026-11-25T21:09:06+00:00"
     },
     {
-      "t": "미, 한국 관세 15% 유지…25% 인상 여지 남겨",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDdldVJiNWV4c203azFJN09wM3RRbXJVMTVONW9VYlZJdkxac1BJT1d5MklPQTlRc3ZXT1VxYXdIOE1fbTR4ZFVlQk1rQlNVS0MySDAzOWFSRy1EeDlBSzN0bG9SVDc4azVRTnotalk0WWtuZDNycldpcXIwQXhKN2IyclRqLW5CckszbGZ3d1FDa0t0N0E?oc=5",
-      "s": "news.sbs.co.kr",
-      "d": "2026-11-25T21:07:16+00:00"
+      "t": "미, 14개국에 '과잉생산' 관세‥한국 '15% 상한' 유지",
+      "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05U09Ld29mN3JiZ0FnakdmUGo4U015VTJINTFLM1NxSlNBOWZwblpZb1NLQ29tb2dGdGRDWm9jMkZramI1dkZYNDJfeXNXZHZUV2dLbkNzeEpWMS1xWHhoRTBYMnl4SFFsbUpQVnRaZVBlSjlXZ1lfZHVB0gF6QVVfeXFMUHRkVHZRV203OFZaY0FVVGlGNGhDV29ocHBhNUt6UEJpRXR6R3IzTVR4eGduX1A3a3V3aGNrazM0b0VXZ0hrZGFNVVJtenJvZzNTTTFuZ2pNUEJvb0pXdnFSRVBkODVXVTVpNGFPZWlrWjNFQ3ZNYWs5Tnc?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T21:05:47+00:00"
     },
     {
-      "t": "한은, 오늘 금통위…韓경제 '깜짝 성장'에 금리 연 3.25%로 인상 전망",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NTHFkREV1Vk9HMHRtU05CTDVkZi1zMlJYRFRkR0RKc1BxUTIwSFpNVUhxeE9mbGYxdjN4eG1mc3ZJM2YzSXJWREpJTUpBanN5WjF1LTA5a1FvMmF3d0Y4LdIBeEFVX3lxTE5hdDNUZmhobG9JeHBaTVF2SWZnVVFCcUQxaHdWMzBFeDE1V1phSWV5VWRXMVo4bUNEUGNFTmw0cmE3RlBDTU42Vklod1FkMnJ3Z3VaYzlKellxX21lVTVEQTlzdlRkNkhoZ1BseHdfYUtJejJXNlNsbA?oc=5",
-      "s": "뉴시스",
-      "d": "2026-11-25T21:02:24+00:00"
+      "t": "고물가에다 높은 성장률까지…“12월 금리인상 기정사실로”",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBORVQzdzBzODVpWnY4TXRtYXdYRnd6YURlQzRXQjlRaVFnMi10NElkdTZUVXdKb3BUNHlFVXo5blZsbFFuOU1RYkRGQlhkZS11TEttemRjMGowQm5CLXAwc0g1UWhqUQ?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T21:01:00+00:00"
     },
     {
-      "t": "올해 마지막 11월 한은 금통위…기준금리 인상 전망 무게",
-      "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORmdCZGRjZ2g2RVJOcU95SUlTN0hUMUxqMVRGUmNNbU80UGw2VmgxMk5Sbms2M2hxakRvbEI4aHFMelctNVpiNmstVXVVS05wT3J5eHJNbkdRYjYtVXZuVUh2cks3NjNUd3FOanJ2d0VVWjZVSTctWmFadWY?oc=5",
-      "s": "한국금융신문",
-      "d": "2026-11-25T21:00:00+00:00"
-    },
-    {
-      "t": "오늘 금통위, 기준금리 3%→3.25% 인상 무게…내년 추가 인상 신호 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xSnFpY244cXhQZ1NvYVljNnJXZFNHeVVYdDdfOG5MOEdBaUFDQlJ6bURDUEdGM3h2YXh1TlVzMzdMM3NVaFU4QU1GSUVPLXU2TjBlMw?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-25T20:55:00+00:00"
+      "t": "\"관광지인 줄 알았더니…\" 삼성도 '5조 베팅' 나선 곳 [테크로그]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zV2RqTnhQVGhqNEpaT2ZtNEV2WDdjMTlsTlEzNGt4V0hkRmhxYkRtX1ZpWWVSX1RXU3FtUkFaNjk2Tnk0SlJKc3Z1WkV0Z2FqSDRMS2YzWFA4Zw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T21:00:01+00:00"
     },
     {
       "t": "국제유가, 후티 사우디 정유시설 공격에 급등…브렌트 3.5%↑",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRdXdJTmVrRWhFRmdSZm12a0xCUnJldUZ2OGUyOWdBeDZCUHRZZzFWb2M4ZFBRMlAxenpWNmpaOXo4d2xtWV9Ca3l6dGdHdm90WlNtaUY0NGgyR2fSAWBBVV95cUxPajduZS1rLUlLSjJUbkdOMmZzbFRveEhVbGZjWTZMZEM5NW1hZk4tdGJ1SE1nZWFkTllEektqQVRLMER6ak9vNWVYWGFkc1o0RkJIM245cE84U3hqeHFtZDg?oc=5",
       "s": "연합뉴스",
       "d": "2026-11-25T20:51:23+00:00"
-    },
-    {
-      "t": "美 국채금리 일제히 하락…인플레 가속에도 안전자산 매수세",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XRzBDQzU2Wk52c3pPcUN0OGJPeVFTQzBEemdqS1NDY0cwejh1b1VmX21qbkFTZUNlT2tMVTQ3dVpETVZ6SE16Vk9RUUlEbjY0UzdzaHUxNF9KZ3hFNFV2SXBOUFBsOFk?oc=5",
-      "s": "뉴스1",
-      "d": "2026-11-25T20:51:16+00:00"
-    },
-    {
-      "t": "뉴욕 증시 기술주 중심 하락...엔비디아 4% 이상↓",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03QkJncHllaTFocktnNTNrUlIxblhsRzFiXzhYQTE1V2VkaTBka0hXaFp0Y0Z3YlJtaW93enlNZlJqLXVJNkJFUnVCTEF2S284TGkwZlpQNERFbHlyc1E?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T20:51:00+00:00"
-    },
-    {
-      "t": "“삼전닉스보다 네가 효자다”…환율·블프·한중FTA ‘겹호재’ 에이피알",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WREtGTEFQTGYyVjRLQkxvdFdfZW1TUXVNREtvYlBqYnJ5NUNrY3F0Ri1wNXp0MjB2WGRKQ3haN2stSnN4SHNmTWRCeUhRQkZyUWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T20:50:50+00:00"
-    },
-    {
-      "t": "국장 믿고 물타던 개미들, 슬슬 돈이 없다…증시 대기자금 88조 증발",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUjQ3T1lLMGxJZHV4YkQzTGQ3aXN4c1dfTlkxZkt3OGFON2pXY0VwYk5ORl9pT1hzSjU5N3h2OUxZbWFvQVltUGJrcVdYZnNWVUE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T20:50:38+00:00"
     }
   ],
   "asof": {},
