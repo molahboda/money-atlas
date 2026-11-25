@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T13:01:01+00:00",
-  "quotesAt": "2026-11-25T13:01:01+00:00",
-  "newsAt": "2026-11-25T13:01:01+00:00",
+  "fetchedAt": "2026-11-25T13:16:02+00:00",
+  "quotesAt": "2026-11-25T13:16:02+00:00",
+  "newsAt": "2026-11-25T13:16:02+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 30.85,
+    "vix": 30.73,
     "krw": 1343,
-    "gold": 3543.6,
-    "wti": 82.27,
-    "dxy": 103.95
+    "gold": 3540.7,
+    "wti": 82.47,
+    "dxy": 104
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.15,
-    "dxy": 0.13,
-    "gold": -0.51,
-    "wti": 0.27,
-    "vix": 17.03
+    "dxy": 0.18,
+    "gold": -0.6,
+    "wti": 0.51,
+    "vix": 16.58
   },
   "news": [
+    {
+      "t": "美 ‘과잉생산 관세’ 발표 임박…한국은 15% 상한 유지 전망",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdWczQnBRMGhJejA1ZjRVX2FJdDJWYWtLU05LUVdkdnNjZUhraHdrZWhoWW1RUlN2bEplcHFvTlFqdEl1dXRBUGhnSE00Y19MN0FPM0hKaXhXcHFNRks0MUctYnRmeE01OGc?oc=5",
+      "s": "https://www.sisaworld.kr/",
+      "d": "2026-11-25T12:54:08+00:00"
+    },
     {
       "t": "미 달러화 강세…AI 투매에 트럼프 관세 불안까지",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tVTBYVlhrU1FfNW9GaUVQaFdTWVFOUlR0aHNoQU1XOWZ1VXBiRk5yREVEQzByN1QxZTFiLTJ2UFZHZWxxWVlRcml5VVpyMHppeEs4d3ExdVVLTF92b21Dbng3aDF5Wkhzc25IdlVYamtzQQ?oc=5",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-25T12:14:00+00:00"
     },
     {
-      "t": "'반도체 용수' 정수량 증가·송수관로 신설 추진",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyamxaVk82TnlYT3FvTWdHNjY2MmE4M2ZWaTJEbzRWS1lqMXMwd1VObXVhTFliSEJVdFY2UndUMmVuQk5wUGRQQVJ2WUJiUmh6WDQxNHBGSEpzSE1IRDRKZ19KRGNZNEU?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-25T12:11:45+00:00"
-    },
-    {
-      "t": "반도체 팹 건설 인력 수요 폭증…주거단지 마련도 시급",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yQ3BlWTFWYkxXTWJBMWsxTGZZUm9IS0EwZnp1M3Bqak9wb0I1bjBkWTYwU0VyNVZhSUx1ZkNWSklLRUMyeERrYlA0SUMxQ0E4a2MtTFY2eVJwbElmRGZESkhqV1JLVVE?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-25T12:09:52+00:00"
+      "t": "코스피 하루 만에 ‘말짱 황’ [김종석의 리포트]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsNlZ1LXdsTkRMcllQRE9hQXpiaFVqdUJpRWhKVkRNT0EwOHQ4c2lCNWQtQ3ZKMy03ZUFwWGxES1JReHpwYnh4eElUMkdqcm9YYTR6OXZtS0ZJd0J4eEHSAWNBVV95cUxPUE9BMlVBeHNsb3ZJZjJOZHFRVnR0aXNnd05lcUM1bWdJMXhVN1dfaEJoaU9MZ0k1MlhjS1JDUmNYYkpRdEY1aVhzV2t5aF9lLVFQVzJiZnFqNjBJQ1VWdnlrMTA?oc=5",
+      "s": "채널A",
+      "d": "2026-11-25T12:14:00+00:00"
     }
   ],
   "asof": {},
