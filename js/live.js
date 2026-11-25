@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T00:01:02+00:00",
-  "quotesAt": "2026-11-25T00:01:02+00:00",
-  "newsAt": "2026-11-25T00:01:02+00:00",
+  "fetchedAt": "2026-11-25T00:16:02+00:00",
+  "quotesAt": "2026-11-25T00:16:02+00:00",
+  "newsAt": "2026-11-25T00:16:02+00:00",
   "quotes": {
     "kospi": 5006.03,
     "spx": 7201.09,
-    "nikkei": 58644.63,
+    "nikkei": 58374.28,
     "vix": 26.36,
-    "krw": 1343.78,
-    "gold": 3546.9,
+    "krw": 1343.98,
+    "gold": 3553.1,
     "wti": 81.63,
     "dxy": 103.85
   },
   "daily": {
     "spx": 4.21,
     "kospi": 6.32,
-    "nikkei": 3.91,
-    "krw": 0.2,
+    "nikkei": -0.46,
+    "krw": 0.22,
     "dxy": -0.45,
-    "gold": -2.86,
+    "gold": -2.69,
     "wti": 1.82,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "이코노미스트 23명 중 21명 “한국은행 기준금리 인상”｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOElwUzIyd1hpejMzUF9rcDRyY3l4RGpSTVhXYk9WYUhtQ0xQenhnajRiWE9lN0lGcC1qRGxLcjVkbHBFTlNhWktraHVCWkhudFZvZzQzcV8wcWM?oc=5",
+      "t": "[속보] 코스피 4%대로 낙폭 확대…매도 사이드카 발동",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16bWtRUHRZMllRMFJ1SG11V3B2SVA1RjNBN215UmthNkdwZGRpcVFqWkk0SlQyRnZ2dXhUZ2w4elA2WU5yRGd2RUJwOUd3VHNOOExHR01R?oc=5",
       "s": "중앙일보",
-      "d": "2026-11-24T23:48:08+00:00"
+      "d": "2026-11-25T00:10:11+00:00"
     },
     {
-      "t": "동원로엑스, 반도체 핵심부품 물류센터에 로봇·AI 도입",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XQ2Z0VHYtclBIRmtQR1BRY1BxM3hPZk9sbkMycEgzekZYZkdwQlBiVXp4WGtSMzE2R01CNmIxUUxEcW82WFJpMklldmhjNmhmVlVoc3VJbFBUenhsRl9JaDJCZUxJYTgzMjFaa1pEeG0?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-24T23:47:51+00:00"
-    },
-    {
-      "t": "美, 이르면 25일 中·EU 등 관세 인상 발표…韓 15% 유지 예상",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aNnNDYmVtYi11cEJhZzNJSVJFRjJQY2VCeHdyLXdac0Y1akdUWFdLeWVuUE9rVF9xa3ctWFVodGUweVoxUmNkdW8wRTFrenhLWGlUZnZIYmE0WnhueW1KX3FSRQ?oc=5",
-      "s": "더구루",
-      "d": "2026-11-24T23:45:59+00:00"
-    },
-    {
-      "t": "애크먼 “연준 금리 올리면 내년 침체올수도”",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uTjNHTDFmZW94QnRVNXFfRlpGeWdaUEdrYTNSLVppRDZIRm1pYzZRNmxmRUJPbllpSnBfZnZabWtHZGE5ZzY2Tm5uYTNOWllHMlFZMHdR?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-24T23:44:53+00:00"
-    },
-    {
-      "t": "뉴욕증시, AI 기술주 차익실현에 혼조 마감…나스닥 1.48%↓",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWnRSLUtvSUdMQ19SWFpiX2ZTa0RSLTN0ZWFnZkxZQjNOMVdNaENFeGExTlhtY2MtbXAtNTZSUFExR3VRWjJqWmN5OHFNR2g5MEg0LUhvZmhSWHNQdUFEbV9oVnM?oc=5",
+      "t": "코스피, 3.94% 내린 4800선 출발",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52Y0NTb1lYUjh0a1QzdUcyNXdTNTByNGhrVzRtWDdIZEpSU1hTYnIwOEl6ejVWZXpKUzNXS1FiX05PZ3BXZVVOdDlhREhwZXdLRXFRbURmNkQwanJtREhwMlhsbWc?oc=5",
       "s": "서울경제TV",
-      "d": "2026-11-24T23:44:12+00:00"
+      "d": "2026-11-25T00:09:03+00:00"
     },
     {
-      "t": "에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaWFlJZlBhR2xfMmJ1LTMyLWR1UHpwVE9XbHpmZEl2enlEWGNudnI0dXo3dlRnMjdBOTJDVF9oVi1YVko3WTZYR0V6T2VFSkNoMWExRVFXYVd2Z3Z5WUtCUk5Fd09CbU0?oc=5",
-      "s": "인공지능신문",
-      "d": "2026-11-24T23:40:09+00:00"
+      "t": "[속보] 코스피 매도 사이드카…지수 4800 하회 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ObU9EYUhLRGhtRzl1WXd3U0w4UEJfY2FTSDJaeGZDX1VvcGJBZFB5OGxiNkRTa0hZbE1UcXdiTnlBUVBrRXdmaVNOVG45SjBXYXF3TTNjSTl3TzVpQnRreEFMSmxZalhP0gFuQVVfeXFMTnNHcG1HXzkzZVRBRmxTczNzWEpUZHpjNmg3NDM5S3czWTRkVFlpMDlFazJzWFh1NVhwZkdSRFpxLW5Jam92V0RvTTJPWmV1SmhNUHRBSXFMSERZazBuc3F6Njk0b1EtMDR6Rk0ydnc?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-25T00:08:39+00:00"
     },
     {
-      "t": "美 ‘과잉생산 관세’ 발표 임박…한국 ‘15% 상한’ 유지 촉각",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNU0wUmRVTV93Ni1IUDI0bDVZY0lOYlBLTEdpaVBHbEVWZDA1TmVmSWdsbG9wV3VYakxJdmJMelBjdmtOVGpUOXRGYUJrRUpJQ0lDWkRYdHUwRFN4X1BObVkxYjdkTDU5ZTZFb2hIYw?oc=5",
-      "s": "조세일보",
-      "d": "2026-11-24T23:40:00+00:00"
+      "t": "코스피, 美 반도체주 급락에 3.9% 하락 출발…4,800선 위협",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZGNlbndzNmUxRnp3aXp2R3FMU2NqcEJ5Um5hd3MwaHNMYnltUkxQSFBISzJiNTlRcFZyd2oycHh4aC1pNUtZMVdVZUZQZDk5dEVJNTA0emFrYW9TT21LaEtXVXpYa2I4RHY5LUZtSUY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T00:08:06+00:00"
     },
     {
-      "t": "[1125개장체크] 美 증시, 젠슨 황 복귀 후 엔비디아 등 기술주 차익실현 By 인포스탁데일리",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00dkhaV3pNUk8xY3RPbzRScGlXTEltTTJSTFFKNExLN253ZHdZVjJYOG1aX3RWQlZ4NlBlSDc1MnlFN1U4RktaWUdVSnRWOUwydFhrRnBsTXFBajY0MzEydFBqUkJHVnJad2NETGZnS0E?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T23:38:00+00:00"
+      "t": "[속보]코스피 4% 급락한 4809.0 개장…젠슨 황 효과 ‘반짝’ 했나",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGFNbmp1LUFvMzNCNWdCU054U0VPbDdDZGxKb3RReVBnRU1JSGtUZDZxVm1sREJVLXdHUUNfcy1wQVZvZWdXb2E5SF9hUDZjNjJwWUN0bXBCUzl4MS1kbG1vVGp0R281Q1NnZUZHNmVJbk82VjItaF9BeXpmTXQzck0tUzFBQTVvMmZkdFVEdFV2dEVXVXViUDNsdy04dHBSUU1SVzhWaXBqQdIBX0FVX3lxTE5pQXhMTWJiQmk4NE9WcFVHalNZLUlpdHhIZm1YUExWelFEU0oyT3otbmZocVo1dVJBSmZKeS0xNFJvSHBOZDQ0Z2xtemVoZzZ3ZXRPVk5VT0pDNUx2cGpJ?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-25T00:07:00+00:00"
     },
     {
-      "t": "[개장] 뉴욕증시 혼조, 하루만에 기술주 차익 실현..엔비디아 5%↓ By 알파경제 alphabiz",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XazN5RXZ4eXVHWnZ5X1lEb2U0N0F0QnBrQmFjbVRiejZYbnhUUUJRdkliYVNBM245RUdFY0Q2TDlzcGU5YllrWU5sX2hUa1RGcFhVVURmQldlU0VRaGFRdUM0cy02S1lLTTd6YWVjVkE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-24T23:38:00+00:00"
+      "t": "[다시보기] 의료기기·반도체에 AI를 더하다…원주의 미래가 열린다",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWlprdXhQOUVRX3dpWVNDczBWblRQc1U5ZHM2RnZGRHpLekxDdHN1aE1FYWhnQXRZVVFMSmRVOXpaeF9SbW1QMmhKZldZT0ozU3YzSkVUdGIxdlU?oc=5",
+      "s": "강원일보",
+      "d": "2026-11-25T00:06:37+00:00"
     },
     {
-      "t": "한화증권 \"반도체 소부장, 수년간 지속될 성장 사이클에 진입\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EOHNVMnpwY25tUTRTVUFtS1NSN244MVJMNmx1d2tPNnBBUUdqcDVUd2c1TU5DVWY1WnhnMjVjWmkzMkN2bkc4aUg4RnYwQS0yaEE?oc=5",
+      "t": "USTR, 과잉생산 관세 결과 발표 임박…한국 15% 상한 '유지' 주목",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01N0tRWGpIWmJ4Y1MyMGx2R2hoaE5oVjdHVExtdjRRYkR2aDEzekR6eVdhX3VnbUJicVp2ZXhud0FyeDZfV3JsbTB5cFlDWTc1ZG9GanhCT2U4MGs0cmlnQ09zYTEwcGVyS2tV?oc=5",
+      "s": "BBS 불교방송",
+      "d": "2026-11-25T00:05:52+00:00"
+    },
+    {
+      "t": "코스피, 하루 만에 3%대 급락 출발…장중 '5천피' 반납",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xa2lkWlRvRjdESDhRZmowM2lSaXFQWFlZN1hxLW9IZEVWQ2hfbWUwZ0gxTDhiZXpUelVhems0OERiazd2MGdjVzlUSHJPZlYtckVpdUMxaVN4cUXSAWBBVV95cUxOY2k3VVc2djZWUEl0d0s0OUVEcW1STk1lUUFhaEVQbXZ4WGNIeTJVb1BWNWoySk9vN3BYcG14QUVNZnF5d2RpTTVka3VSZXBNU0JvSmxMNnE1c3N4aDdmUTc?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T00:05:16+00:00"
+    },
+    {
+      "t": "“코스피 급락에도 버틴 업종은?”...은행주, 견조한 수익성 배당주로 ‘주목’ [오늘 나온 보고서]",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tQzR2RkJjMFNGSGZ3R2txQ3hWMjVVeGc2Z3F2czd3OUswcEk3QUlDdVVyczZDX2l5dE4zNmtnWWEtWktQX0N5bUVVbV9ybkRvUXc?oc=5",
       "s": "매일경제 마켓",
-      "d": "2026-11-24T23:37:59+00:00"
+      "d": "2026-11-25T00:03:53+00:00"
+    },
+    {
+      "t": "한은 추가 긴축 갈림길…인상 시점·최종금리 전망 엇갈려",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2elhYdWliRE81UlUyaVI0b290OEJZR0pKWXRfT21INEZlWTBsSjJ6N0Q5UlNteG1oNnFDZF9IZkNENVVsRHgyYjBrUjJMSGkyWkFzMTVmV0loRC1XS3NxZWdZSzg?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-25T00:02:47+00:00"
     }
   ],
   "asof": {},
