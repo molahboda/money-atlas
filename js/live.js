@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T04:46:01+00:00",
-  "quotesAt": "2026-11-25T04:46:01+00:00",
-  "newsAt": "2026-11-25T04:46:01+00:00",
+  "fetchedAt": "2026-11-25T05:01:01+00:00",
+  "quotesAt": "2026-11-25T05:01:01+00:00",
+  "newsAt": "2026-11-25T05:01:01+00:00",
   "quotes": {
-    "kospi": 4735.83,
+    "kospi": 4715.18,
     "spx": 7201.09,
-    "nikkei": 57033.98,
+    "nikkei": 56992.61,
     "vix": 26.36,
     "krw": 1342.98,
-    "gold": 3548.4,
-    "wti": 80.78,
-    "dxy": 103.96
+    "gold": 3548,
+    "wti": 80.72,
+    "dxy": 103.99
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.58,
-    "nikkei": -2.75,
+    "kospi": 0.14,
+    "nikkei": -2.82,
     "krw": 0.15,
-    "dxy": -0.34,
-    "gold": -2.82,
-    "wti": 0.76,
+    "dxy": 0.17,
+    "gold": -0.39,
+    "wti": -1.62,
     "vix": -0.98
   },
   "news": [
+    {
+      "t": "“킹달러도 못 막는다”…삼전닉스가 이끄는 ‘환율 1200원 시대’ 오나 [머니+]",
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50VUlsWl9MUHB1NlNvQXBUV0xuOU1CTU1QNVhEWWJQTTNaREo1cHpLX3psQW5XbFY3WXJ2ZG5CeTZCWHhTVWI4a2VhSUkxMWZrbndTcVlqRlJWRmVmTEVtRUJ0cw?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-11-25T04:52:51+00:00"
+    },
+    {
+      "t": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wRmdMRWV5Rk1sbU5vSVRDV1FycG1mRGJ2cldPM1ZDTUxmQVo0c3RCYmplRXhWTXliYzFVMU1CSkIzcktGQlo0azhsNVR4LUNCQmc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-25T04:46:12+00:00"
+    },
+    {
+      "t": "“의사보다 ’삼전닉스’ 입사“…최상위권 반도체학과 지원율 두 배로",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tR25jRkVpR3ZLaFM5M3BQN2N1MThhOUF3QjN0VFpOVHN1RUhCQjRMT3pJb0lEdm10MlFfQW9YSjNyUHA5Q0E2VXlaRVBKUEZvYzhuaVdPWHhRYUYwcXFaT0hrR0FtZ0k?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T04:46:00+00:00"
+    },
+    {
+      "t": "\"겁먹고 주식 팔았는데 어쩌나\"…코스피 '바닥 신호' 나왔다 [한경우의 돈 되는 데이터]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xTE1mYUdjOXU4bi14c3dmNmlUMk5LNW1XRHBjWTJJYU8xY2ZWTUVsejB1eHJBQ19HX1dxQmp3Mi1CalB5dkNHNFdiZmhCSUd6ZklpREJoSEU2UQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T04:30:06+00:00"
+    },
     {
       "t": "기계연, 반도체 원자층 제어… 차세대 AI 소자 구현",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSFoxMEdTVF9IcldNZWNzS2p3X2VmU3JudXBiYzJyZ1hxeVNpUUZDM3FpVlJSSW9JZzkzTlE4Z1Nta3ZMNDVWS21mYVBaLU5YZU9uN0RYN3oyRmNEZ1FwRTFlaEJKd1NienlkNVVQc1hMUQ?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12VkJUYnJXYkVYN2YydDJQZ2MyN29aYXUyTkVCUlJOUndWel90ZG1yeXQ2RkJYQl95RmRLdGpCMldiZU1fcGVUV2RuczFVaUxVbURJQTkwcm1oc0YyRlFZ?oc=5",
       "s": "포커스온경제",
       "d": "2026-11-25T03:54:09+00:00"
-    },
-    {
-      "t": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTGRfd1FPZWNRdkZ4VWFqQXNjOHRFZDZtZnZXd0dQbl9vRzFqM2g5VHVNdWN2LW1EX3RoTTNjaHF3Rk4wZDI3LWJtckxCR1h0bWc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T03:48:49+00:00"
-    },
-    {
-      "t": "AI 매도세 심화·미국 관세 위협에 아시아 증시 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weVpEbnF0WXlqTnYzeGdrNmI2T0F6aWhmaXZ1OGZvUWZfYVhjdWxlTDRSSENmSGROSXdFRmU4UnJlakxNcWtCM1dWVllXQXVKNXVYZHBpV2NHOWtXTm95cGtaUURWUk43RmRBRFotQlg?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-25T03:35:00+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vbjJVaElURmNNSV96TlROZXpFaFlLY0E0dkltUjNheXVuM3dlb09ab3pVTFUxbV9ya2h6ak5fUTVsTXhMZi1ka0FxZksxeW0yRXdLY0dqRjRDTC1YampIUkQwckdFS1NHdFFkeWVjOVVhdktxZThOMNIBeEFVX3lxTE1takVXMzRMNjhHY1BfOUp2VmN3c1dCblNXVTBMd3ZBNVEwZGhZUURDLTNGV1N0TnpKUWFNdTlRUEpLYm15YlplWGlweWN2RlA2aHdlUlZ4cmdqM0RVM2RQQ3RjdzVRSDEwNGRWMklzSE1UeGgwNnI5Qg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T03:24:19+00:00"
-    },
-    {
-      "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVTBoTGUzanRMdWdnaUxLMjluSmpsQ3hUSXBDZXBfclJ0WnpULU5ILW1IajVjWXY0dUR3OUtxMkVDdHV0WG93SG45MDhFa1EyMXJpN0xrOE1jeDliQnVwR3J6akxTVXprMnZHUVNLeEU?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T03:17:38+00:00"
     }
   ],
   "asof": {},
