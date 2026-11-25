@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T20:31:02+00:00",
-  "quotesAt": "2026-11-25T20:31:02+00:00",
-  "newsAt": "2026-11-25T20:31:02+00:00",
+  "fetchedAt": "2026-11-25T20:46:02+00:00",
+  "quotesAt": "2026-11-25T20:46:02+00:00",
+  "newsAt": "2026-11-25T20:46:02+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7156.85,
+    "spx": 7173.76,
     "nikkei": 57011.62,
-    "vix": 28.07,
-    "krw": 1344,
-    "gold": 3600.9,
-    "wti": 84.05,
+    "vix": 28.44,
+    "krw": 1343.72,
+    "gold": 3597,
+    "wti": 83.96,
     "dxy": 103.68
   },
   "daily": {
-    "spx": -1.11,
+    "spx": -0.88,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.22,
+    "krw": 0.2,
     "dxy": -0.13,
-    "gold": 1.09,
-    "wti": 2.44,
-    "vix": 6.49
+    "gold": 0.99,
+    "wti": 2.33,
+    "vix": 7.89
   },
   "news": [
+    {
+      "t": "연준 베이지북, 12월 회의 앞두고 완만한 성장·지속적 인플레이션 확인",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZWsxa21jUG9fWGtOUzFKT0w4dl96cUt0cGFvcmd6b3VZQUpPSzJtRVVuc21BUXlUVDQtYXNocEt1Rl9USGF3TlI3ZEc3TVJ2UmNHa08wRDVIRnNXSTFUMGtwdmNTWmRLU2c?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-25T20:41:00+00:00"
+    },
+    {
+      "t": "[issue&] 주요 자문사 한자리에, 내년 증시 전망 공유",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50T3p6TGxvMHdNeC1kRGl5akZxZ0IwSXExQW51SV9GVWk2QUs3OV84VXBjZUJhZTJRQU44ZTF0blk1cDQ3dWlldTlZNXpwaWJBV0hvZVhn?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-25T20:31:00+00:00"
+    },
+    {
+      "t": "[국제경제 흐름 읽기] 미국 10월 PCE 물가 3.8% 상승-금리인상 굳어져",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04QzBwY0EteWhyRUx1SVVIMnZhaFA0RjJqMXBDT2I2X1dWYlJTeWs4QzRFVXZjWnRLeS10NGlMUEFQeGF2aVlWNGhUMzRKYTBGd1pnUGVCME53bHplb0pV?oc=5",
+      "s": "포커스온경제",
+      "d": "2026-11-25T20:24:49+00:00"
+    },
     {
       "t": "추가 관세 예고에 산업부 \"한미 관세합의 존중 의사 확인\"",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NQmViMExkN2JXaUFxcFl3LV8wSEZTOXUwUVdwaDBjaDJFd2hVMDVUM0l3SEFUNUlRY2lNS1M5U3FCNjJESnBUQmlPbVViVE83eXdYMUFfQkJGZ0FYLWhwVENWQ05VbzQ?oc=5",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0YWllcnNqUEgtU19pdHhRQ2p1U3FaVzRnV3hQZDJsa2tnM3hnekZCWXpJVHNPcndxUWU3Uk1YaVNWdi1hY0Y0M1h3SHltaHVDMXc?oc=5",
       "s": "노컷뉴스",
       "d": "2026-11-25T19:30:00+00:00"
-    },
-    {
-      "t": "[뉴욕 금가격] 증시 급락 속 2% 안팎 하락…3천500달러 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xcVdsTXF0WXNSNTRPYjV3dkJ3OGo5a2UxcjdQaHpYeUVzbklLMTdDeGh0NTlIU2ZKNTZFR0szTldrRnE5ZjZZV05ORmRsRmM5dENib2x5N0xUTktzTVI2akJkUnpMU0ZqRy1sNU5kLWo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T19:27:07+00:00"
-    },
-    {
-      "t": "미국, 제조업 부문 관행 대응해 14개국에 관세 부과 예고",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adEJwdWF2VUdXZG5SU1J4dU1vcU9iN3gyVDRKSzNYeVFwXzV2Nk45ZGdjdkdLUlp3bXFpQ2xOQ3Atb3ZqcHdXQXhJekhoQWZK0gFTQVVfeXFMTTRVTHgzTXpFZ08zb0pHTDVCeGh5aEk3WnFzQU1TN2xJaklISzB4cGdDTXJZWXlaQlBSeFBvT05JeWsySFg0R09kQTBRWHhWVkRucUU?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-11-25T19:14:02+00:00"
-    },
-    {
-      "t": "BOE 총재 \"에너지 가격 하락하지 않으면 추가 금리 인상 가능성 커\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mUVNxY0s4cmFlZklqdmVaUWZwbDRTLVd5a1gxeDRmQUxJZ3ZsMjM4V0lGNVlVeHlqUnhCT2xMY3RpQm0zSTJ3a2VLS09MQTMwRVBEYmFVNU9MNVh6UTFqUHVSZ3UyeWo1bmtRNHdBUjE?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T19:08:18+00:00"
     }
   ],
   "asof": {},
