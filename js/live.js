@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T01:46:02+00:00",
-  "quotesAt": "2026-11-25T01:46:02+00:00",
-  "newsAt": "2026-11-25T01:46:02+00:00",
+  "fetchedAt": "2026-11-25T02:01:01+00:00",
+  "quotesAt": "2026-11-25T02:01:01+00:00",
+  "newsAt": "2026-11-25T02:01:01+00:00",
   "quotes": {
-    "kospi": 4778.06,
+    "kospi": 4782.78,
     "spx": 7201.09,
-    "nikkei": 57241.63,
+    "nikkei": 56948.71,
     "vix": 26.36,
     "krw": 1344.78,
-    "gold": 3548.7,
-    "wti": 81.61,
-    "dxy": 103.89
+    "gold": 3548.2,
+    "wti": 81.39,
+    "dxy": 103.88
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 1.48,
-    "nikkei": -2.39,
+    "kospi": 1.58,
+    "nikkei": -2.89,
     "krw": 0.28,
-    "dxy": -0.41,
-    "gold": -2.81,
-    "wti": 1.8,
+    "dxy": -0.42,
+    "gold": -2.83,
+    "wti": 1.52,
     "vix": -0.98
   },
   "news": [
+    {
+      "t": "코스피, 美 반도체주 급락에 하루 만에 5000선 붕괴…삼전·닉스 6%대 하락",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pQmE2cHpzNFktYUNoS3lqci14ajBjU2xpVTk5bzhlMnBRQzlZSk5aWU1NZHQ2aEtyZjdpaTAwQXNjZkgzSEpFVUdISTlLM2pYNmFWeTV2aTh2VGl1ME94T2xiLUJ6TWtI?oc=5",
+      "s": "녹색경제신문",
+      "d": "2026-11-25T01:42:09+00:00"
+    },
+    {
+      "t": "“이번 수시서 반도체 계약학과 지원 늘고 의대 쏠림 완화”",
+      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODV1ZVlwTlhkUTZRODhDSlp5dUQ0OGQwTU15bXFqSE5YWEVTelZ6V1M3NVJwN085Q05fWEpmZjNhZkVMZ0JLc1g1MUZDWm4tUzkydWVyemluZ0FHY0Y0Si01Y0NkVnh5V3V0aE1HRkJmLTdmSEMyXzJJSExWanRwU1pOWDZ1NEpocXp0RktoSS0wMDg?oc=5",
+      "s": "국제신문",
+      "d": "2026-11-25T01:33:00+00:00"
+    },
     {
       "t": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dFl6bDJqRXJKMVpZd1ZMQmJzSDdELXlGQTJzZmQzTXkwT20wZTBYT1ljU2x3VWpYOEpzSWlvUkoxSjZ5OE93SXdPOS1Jd21nVHF6d3FYRzQ5XzhpbmZqMlhXSWpiaTFwb0JKN3FaQ1A?oc=5",
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-25T01:28:00+00:00"
     },
     {
+      "t": "트럼프, 또 추가 관세 추진…한국 2.5~5%p 인상 전망",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZXUtS2NvWm81SW5qWk5FcWdHOVUwT1EzYVlPVUhHSFZZd2Vnd3I2SW9aUUJ5Nkxxejh5RTVFWEJSdmdZMlZ6bkNNMVdLV1VKTVl6UlZCYXgzcnY2Q3E2bjhQY2c5VFEzYU9IYzlqSQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T01:23:00+00:00"
+    },
+    {
       "t": "UBS \"증시 변동성 속에 채권 비중 늘려야\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUWdRZkdLdGNUZUVTVEZWUURFMlBUWHdEaHFBd25MX1o2ck5HV3FSZGZfNzJzallUZmpaa0ZvMFREa2RscjM3S2FmdFpVVnF6QTNGUjZLU1Vwc3VfLS1yUGZ6SmNYSThnN0hrRklZMnfSAXRBVV95cUxPZld2SEhsNXJrR3RTelVBZThGb0c5NHYwRHhqa0x2UHVZMERRdkw4N2duVk11M1h6dHlzdzJHR29pcmNGQkhyNWNHMHNTMDRoWEpHX3BINmtLNXA1YmpHdFVGdDNLTlNYVmlSQlVIZVJOeXMtMg?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-25T01:22:40+00:00"
-    },
-    {
-      "t": "일장‘황’몽 코스피, 하루 만에 5000피 반납, 나흘 연속 사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aTJ3ZmFsamVweHJ5Qzc4RzFrX1dzTl9jN3laX09zOXQzYmgtNjA3azVEM0pZbUhfWWk4R0NOTEwzNlVXckpJZWhvaDQwLVVEWUZxMXBB?oc=5",
-      "s": "중앙일보",
-      "d": "2026-11-25T01:21:13+00:00"
-    },
-    {
-      "t": "금리·AI 수익성 우려에 관세까지 … 여의도 족집게 “반등 시그널 이때 나온다”",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWTE3clF0OS1VS0pCa1VHZ2JybmFWM250YngzWklGX1M3aUdDQ2NaTnYtMVVPYUF2X19kMnMzQUVmOXY2SnFiVDNZczFCbXJZalE?oc=5",
-      "s": "매일경제",
-      "d": "2026-11-25T01:20:55+00:00"
-    },
-    {
-      "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZSEJTc255QjNMellnZ0xWMFp4MlNUUkZRcnozSEFOSzUxckxxckY0YnBRYndPS2xhZzNSSVUzSGVnRWlVeUc2UGZPQTV5NzNEdFJpUWljeVljWU0yV0d5UXJ6cU43eTkzQzBydE5uckZ6dw?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-25T01:17:37+00:00"
     }
   ],
   "asof": {},
