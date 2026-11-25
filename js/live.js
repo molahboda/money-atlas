@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T11:16:01+00:00",
-  "quotesAt": "2026-11-25T11:16:01+00:00",
-  "newsAt": "2026-11-25T11:16:01+00:00",
+  "fetchedAt": "2026-11-25T11:31:01+00:00",
+  "quotesAt": "2026-11-25T11:31:01+00:00",
+  "newsAt": "2026-11-25T11:31:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 29.16,
+    "vix": 29.64,
     "krw": 1343,
-    "gold": 3554.7,
-    "wti": 81.33,
-    "dxy": 104.04
+    "gold": 3554.4,
+    "wti": 81.44,
+    "dxy": 104.01
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.15,
-    "dxy": 0.22,
-    "gold": -0.2,
-    "wti": -0.88,
-    "vix": 10.62
+    "dxy": 0.19,
+    "gold": -0.21,
+    "wti": -0.74,
+    "vix": 12.44
   },
   "news": [
+    {
+      "t": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T11:13:00+00:00"
+    },
     {
       "t": "가계대출 금리 5% 돌파…주담대 15년래 최고",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUHZTSG1FSWUwMURDb1FZYnZOOUF6M21VT183c1laXzlxSVNyQjlYdGhUZ2hHQV8tNi1rQWVUaU91dDBsUE82aF9vSy1KbU1LSXJYLW13aEFQMG5JdGZRSDlXRXJCR0E?oc=5",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrNXNwUGp1QmhMXzNPOVg0dEx6MVN3ZnRIbXlfSlQzVlF6SkRrZGd5YnFyS3Rhc0hGa2NXdXl3QVlqZTYtRzZCeDFja2RPako4WnJiTHVla0ZuZ2ZHUExpUHYzS0dkS1NkQ2c?oc=5",
       "s": "Investing.com 한국어",
       "d": "2026-11-25T10:04:00+00:00"
-    },
-    {
-      "t": "[베트남 증시] 사상 최대 외국인 순매도 '폭탄'에 하락...전 업종에 매도세 확산",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41aS1BbGktbURsakZTWjJZYWVnQVM5cHY0R2JUMDFKTjUyc2ptcnJYaFR2ZEt0aEM0M3oyc0NrNG9mRFFWc3VuZTZFdVB1LUlsOUd2TllnbmN2WFRG?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-25T10:03:00+00:00"
     }
   ],
   "asof": {},
