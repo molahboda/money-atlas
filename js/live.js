@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T03:16:01+00:00",
-  "quotesAt": "2026-11-25T03:16:01+00:00",
-  "newsAt": "2026-11-25T03:01:01+00:00",
+  "fetchedAt": "2026-11-25T03:31:02+00:00",
+  "quotesAt": "2026-11-25T03:31:02+00:00",
+  "newsAt": "2026-11-25T03:31:02+00:00",
   "quotes": {
-    "kospi": 4708.03,
+    "kospi": 4709.83,
     "spx": 7201.09,
     "nikkei": 56710.43,
     "vix": 26.36,
-    "krw": 1344.68,
-    "gold": 3547.9,
-    "wti": 80.68,
-    "dxy": 103.9
+    "krw": 1343.6,
+    "gold": 3555.9,
+    "wti": 80.84,
+    "dxy": 103.91
   },
   "daily": {
     "spx": 4.21,
-    "kospi": -0.01,
+    "kospi": 0.03,
     "nikkei": -3.3,
-    "krw": 0.27,
-    "dxy": -0.4,
-    "gold": -2.83,
-    "wti": 0.64,
+    "krw": 0.19,
+    "dxy": -0.39,
+    "gold": -2.62,
+    "wti": 0.84,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "안덕수 국세청장 후보자 \"직제에 따라 물가 관련 탈루혐의 상시 모니터링\"",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwbmxTb3ZQVVRDYzEtMFhrTy0zcXJ1OGU5LUJwenFNS3RsYjYzVUFZaUk2akotOFZtUEFZS2VrNnNnVi0wejAzTm1KbDhXZW9vWGdtWHpENDBMLXM2NlhfWG52TFQ?oc=5",
-      "s": "한국세정신문",
-      "d": "2026-11-25T02:57:42+00:00"
-    },
-    {
-      "t": "금리 인상과 AI 불안 이중고[뉴스와 시각]",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XZHBXckR6TElWakpEdURzeU5tNjY5ZGFORHFNWFlSWmdlN29LUlhjNGIydFhnaEU5LWF0dTFOR3NPWWcwS0xzczhXWEFCSV9i?oc=5",
-      "s": "문화일보",
-      "d": "2026-11-25T02:53:26+00:00"
-    },
-    {
-      "t": "전남대 반도체설계교육센터, '2026 스마트전자회로설계 챌린지' 성료",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxMVl1SEd3QkhhYlZCY0kzZDl0TXVnSVNGUkluTzhXYVJwSW1IRjlLMnpWTGFBVFZOMklGanZWUS02VDFfeE0xVDRTS3FKZw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-25T02:51:51+00:00"
-    },
-    {
-      "t": "다시꺾인 AI 투심·美 관세 경계심…日닛케이 3.3%↓[Asia오전] - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ucHlfcVhWXzkzTnQwVk85QkRBNnMtN3lVd1poanEwM1o2aTByeGZwd0VFMkduZHNaZHB1VVVZOThOMWEzSHN2MGltOUpZZzlCZlFjWDljbVF1QVBXcGJSVExTNDRJcnZJ0gFuQVVfeXFMTjlzQlpPRWFxWXNLeFBJRzBSQXFYVjNKVExYMi1qTjZfLVJDSEs2SUUwcFJob1Njc21RazU5aW5ueGMtbUJlWmZTVWlhaDdGbENhMXpKbkxyVXY1TDNxMHluX053dnViRFl2YzlOSWc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-25T02:47:45+00:00"
-    },
-    {
-      "t": "민형배 전남광주시장 \"반도체 팹 건설인력 1만호 공공임대 필요\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQZEJTRGpOaFJIZy1ReEJSVXFtVGstOFVGOG5qcmpFT2tEM1RmQjF1ckswQW5xaDIzTHp0dWhnREdxbHAtWGV1bzJ3MVVGM3Q3TlE?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T02:46:52+00:00"
-    },
-    {
-      "t": "호남 반도체 클러스터, 2028년 12월부터 하루 15만톤 용수 공급",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYlBhV1Zsa2R5em85dlBrWjVXdkVfNGdPdkFNX21NRlhSY0JjVktkaEJPX2JkbmUwREtIR044VE4teWlxamJFYjdaZElrMVpibXRIMnROUXdEZkdSWUlqb3pCLVhtbExsSGlUcUhvSQ?oc=5",
-      "s": "진일보 | 전남일보",
-      "d": "2026-11-25T02:41:06+00:00"
-    },
-    {
-      "t": "젠슨 황 복귀에도 亞 반도체 랠리 불투명한 이유",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uRzhfU2ZJT2VabFl2eFpRX1FFcmV6N0lxQmpmeWVoSlNkelM4TVhxZEFuaHdjMFF6VUFfRXY0YUw1N3RqTkQzaG4zZjY1dExrbDJyeHpQNXNHWUVqN3hDc1ZDaWh3ZzY1N0ZBbUpIWUY?oc=5",
+      "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVTBoTGUzanRMdWdnaUxLMjluSmpsQ3hUSXBDZXBfclJ0WnpULU5ILW1IajVjWXY0dUR3OUtxMkVDdHV0WG93SG45MDhFa1EyMXJpN0xrOE1jeDliQnVwR3J6akxTVXprMnZHUVNLeEU?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-11-25T02:40:03+00:00"
+      "d": "2026-11-25T03:17:38+00:00"
     },
     {
-      "t": "차세대 반도체 소재 '이황화텅스텐' 원자층 단위로 깎는다",
-      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ga0Q0dHB3TGNaRzZTNXVsQnhmYWFLWnE3dFdXR2pZOENrQmlxVS1FQWlWakdYUkZQZU5HNG9HSTdCeEktZHEzbTk3UEd0a1pDeHFtcw?oc=5",
-      "s": "DongA Science",
-      "d": "2026-11-25T02:38:00+00:00"
+      "t": "10월 은행권 주담대 금리 4.98%…“6개월 연속 상승”",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lX2dKX1lySDg2SFByeXVXVWo1djFFaUJnU2pxblRqSFNEM1I5VXNLV3dDb1NpcVZHU3FDLVFyWnpOLThKbTNtYkxXNHhEWE55YkwzaTEtejlRMm8?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T03:12:00+00:00"
     },
     {
-      "t": "코스피, 장중 5％대 급락 하루만에 `5천피` 반납…오전 매도사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelppQmE0RWV0UW9GQV9tdUpjci0yMWpIUXVEQTRJbXFSWU9kbnBLNGVsVlV2SUNETWFrRjBkU2hjdUdQcUdrYlhZd0hjM1ZGRWVHcm9BbDJSbzFUQm56OXRnaUk0SFFtRzJOc3BlSXVjOXNybkl2aFRqNGZibWk0cURCSmxFd0Ux?oc=5",
-      "s": "서울특별시 미디어재단 TBS",
-      "d": "2026-11-25T02:35:00+00:00"
+      "t": "반도체 막을 원자 한 겹씩 제어…차세대 AI 반도체 해법 제시",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XVWg5dk5MY1ZyN2JscFk1ODNZelo2YS1HcUtROWtCNzA4VUV5bENITmEzVFdjMEF5ZElsZzh3YmxPbGFReEwyRUdDQ3AyakZReXhEQi03RDc2SDVyTnpV?oc=5",
+      "s": "헬로티",
+      "d": "2026-11-25T03:07:16+00:00"
     },
     {
-      "t": "증시는 급락하는데 보안株는 ‘불기둥’…해킹 공포에 나홀로 급등",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IblRLWlllaGVXQ3NFY2ZTazVRbGVKVE8wRHJsRTFZYnF6Y19KUDVrdTBiNFZLWmk1a3VKUmUwYVN4eXI3ek92TzJWbnJneWhXWmc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T02:34:53+00:00"
+      "t": "코스피, 하루만에 5,000선 아래로…매도사이드카",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1Q0azJtRnRpMGVfQ3Bnb2FubG1wbE1TNDlnTkxkSEdoeTVEUDNCRzhjeGYxT2xkMU81eTVRZWtnUzVhck9QVzF5RE8wNlRDajFYUWUydWYwNGRJaGdBaWpUaDlYLTQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T03:03:00+00:00"
+    },
+    {
+      "t": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T03:01:00+00:00"
+    },
+    {
+      "t": "젠슨황 효과 하루만에 꺼졌나…반도체지수 ’뚝’",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNERRVThjcW5xd0ZYcTBUMDZhQ0VubTdaNGFzWDZFcmVLblhQV2JydmlWR0o1eDVXNmk2ZDdTX19HX0dBeGtTTmUwcjVmWmczRjVtNzl2Mk53bElPN1dfNkdpSV9raFU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T03:01:00+00:00"
+    },
+    {
+      "t": "10월 주택담보대출 금리 6개월째 상승해 5% 육박",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5NGhmcXhrOWctN2VHOFduWnYzVHJBRmdqSnFRMXNBYkJaQS0wMGwyY1liNkxtWGdtdTJGdHRzMXpTaldOQlNkOHhHRmxNaUxQSl9KNjM1ODM0Z3ZDb0szTW1ZWU0zMlV0NUhMZlVNQjM?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T03:00:33+00:00"
+    },
+    {
+      "t": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84ZVl6TDFLZlBtQVJMWG5GZXdiZzdSbEdWcUx3NU5RVURnYVA5eWtFd1oyYXQyV0pDM0I1NzRMUVU3WlNLNHd0Uy1UMTgwcWpYTlpSdG44dzFaQWfSAWBBVV95cUxOS0k4b19kbVFmbVQxVkItMGJWLXFncTdUOXFmeXptV0NPUnF4d2Vzc3RJbkJOZGlwYVdneTVqR1JOTEhWT2tJR1M4SkpiUFVLYnRzRjdET2RHb2NQLUJyZGU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T03:00:09+00:00"
+    },
+    {
+      "t": "은행 가계대출 금리 3년 만에 5% 돌파…고정형 주담대 역대 최장 상승",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2SEFubnFjOGg4V0s3ZkhWbXZXVm9Qby1HdWkxcG1kWHVMclhIZFRCdU50RkkwM0RYNW1SSlpIMk1iV09EeDJ0WFoxZUd6UGllU0hBZnJmWUtrQWl0aTBRemZFVkVvX2ZxLWlCbDNfMEY4bG8?oc=5",
+      "s": "마켓인",
+      "d": "2026-11-25T03:00:05+00:00"
+    },
+    {
+      "t": "S&P500 선물, 기술주 약세 흐름 속 하락…美 국채금리↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMQXo1YWdkMUkwanBhQmZ2UVJ6elJjSGY2bWdmRlpTN2k4blBFcXFJeDZqRFRWWnlhT0NoNG1yUlBEeHBjYUJDUzBYSU9rdW9tX3FlS2FGa1B0bWR1WWlHNkw1VGtrMjgzZkJSY0kxLWg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T02:59:19+00:00"
     }
   ],
   "asof": {},
