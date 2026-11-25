@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T17:46:02+00:00",
-  "quotesAt": "2026-11-25T17:46:02+00:00",
-  "newsAt": "2026-11-25T17:46:02+00:00",
+  "fetchedAt": "2026-11-25T18:01:01+00:00",
+  "quotesAt": "2026-11-25T18:01:01+00:00",
+  "newsAt": "2026-11-25T18:01:01+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7118.24,
+    "spx": 7121.21,
     "nikkei": 57011.62,
-    "vix": 31.09,
-    "krw": 1344.88,
-    "gold": 3530,
-    "wti": 83.55,
-    "dxy": 103.61
+    "vix": 29.85,
+    "krw": 1344.1,
+    "gold": 3537.8,
+    "wti": 83.58,
+    "dxy": 103.62
   },
   "daily": {
-    "spx": -1.64,
+    "spx": -1.6,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.29,
+    "krw": 0.23,
     "dxy": -0.19,
-    "gold": -0.9,
-    "wti": 1.83,
-    "vix": 17.94
+    "gold": -0.68,
+    "wti": 1.86,
+    "vix": 13.24
   },
   "news": [
     {
-      "t": "美무역대표, 젠슨황 복귀에",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ibnpMM0JNOEFIVnJOZmgyZGY1TWZmSXMxMVk3YjRTV250LXJDSDJIOG5rOHFCLTg1YUlYOERDYXFKSDM5WjlCQ3dKa2gxR054Snc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T17:13:03+00:00"
+      "t": "EU, 미국 ‘과잉생산 관세’ 반발…15% 상한 준수 촉구",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNVlGUlpDVEczNVlyWnFjRmQ5YzlQblg4M2plY3MtVzRwaF82UHdfU2VqMi12MDZKZWl0alN3THVuOWFST1pXcE41bmRmSUVZaE1WX0l2RDdWd0U?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T17:52:00+00:00"
+    },
+    {
+      "t": "트럼프 행정부, 한국 등 14개국 ‘과잉생산’ 불공정 판정…한국산 최대 15% 관세 제안",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zOUFKR2NDSEV6U05SVXRGaS0tdlVNcVFXeHNhUjNvcVQ0bmM4NWtFTW1nMlJ2ak02MFZXbWlwNVRvVWZvTHNzSlVXUlRqQ2NV0gFTQVVfeXFMT0VvaDNHcTIyTkp3QkR1WFRqQm9nX2ZJbTV3cF9LN3RFX3VfcEZ3eDhtWU81ZGtzRDMtdlB2WDhMY01yc1R2X1ZfdFM5YV85bnVDSkk?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-11-25T17:44:49+00:00"
+    },
+    {
+      "t": "[단독] 코스피 다시 급락하자…정부 '증안펀드' 확대 나섰다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVFVOYWE4djZ3QmpVckhXNnY4d3luWTh6QXJZV042VVhLSklCcDFkNnRNSjctc3gyeTgxRi1Famd5UDh2MkRaam9uRFB5ZGhwLXNZa2wzb19LZw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T17:23:00+00:00"
     },
     {
       "t": "美 10월 PCE 물가 3.8% 상승… 12월 금리 인상 전망에 힘 실려",
@@ -37,10 +49,16 @@ window.LIVE_DATA = {
       "d": "2026-11-25T17:11:00+00:00"
     },
     {
-      "t": "[딥 포인트] 반도체의 저주 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LbDhTUC1feXpmVFUxdFNvRXZLU01lMzk3LUhmRkxSQ09ORkZHT1ZJbjlHS3JkY1VramNwOExjTGM1MlNTcjNoLUVzWElmVzF2TFNtLWpURTM4NXhFMzBSWjkzV1BNRmc4M29B0gFwQVVfeXFMUExaU1lwemd5dS0xeE5KZDVkX2l4NEsxV0ZlX1ZhcnJCem9GOFpUbTdsaHVJdjZpS2JFUzdkZUotNHpvVWFqakstTExSWVVZcjBQdzNkejRfWHh3WERlcERXRWpvMHRCVWN5YzhSOFVNcg?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-25T17:00:00+00:00"
+      "t": "BOE 총재 \"에너지 가격 하락하지 않으면 추가 금리 인상 가능성 커\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FUWEwa3hFbG1Sc2JKN2toQnVDT1NuLXVvUVNxSXB0UHQtZWhqTFA0Vld0eGNFWDdacFBIbExCVkVta1B1a3lVM3p6cUhuc3FZRldBRFcwTGh1QmE4UnVYX2pLdGVVRjVfcHhOSXUwckt0QQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-25T17:08:17+00:00"
+    },
+    {
+      "t": "EU, 새 미 관세에 \"유럽, 과잉생산 원천 아냐‥15% 상한 준수돼야\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdUtVZVphREgxcWViSExydkdINmhKRkZ2VDNQeWlhNC1WY1FDeF9fdnl2WHJac1lWQ21xZmsyeXczRFB3QXdKNnFDRGNjaUNwY2tSREtnclFpQnR1UnJWWE02MkxfN0lLYXI5dHZFdm01NnRj0gF0QVVfeXFMUFBIUnlWVTU2S3QtV2luVjFFdjktWVhQd3FQQTRWQ05yMWtWdGp0QVFmS3B4N3psWEVfXzhnYnlJdTZmeW5yMHNIbXZIZ0FJcnN1d3gtX1RrMjk4MjN5M2pHZFpvRWFfbldQYlg0SWE1MWI4TDc?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T17:01:10+00:00"
     },
     {
       "t": "USTR \"한국과 협의 불만족스러울 경우 25%로 관세 인상\"",
@@ -65,24 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00b3VQWTdhZS05dVRWdWw4U1FOVVo3UkNOQ3d4QUFvcWh4aTIyY3lGODRQOW5HakROcy1YSlhqajNmOE5WOEd6VjVHNnVEdw?oc=5",
       "s": "전자신문",
       "d": "2026-11-25T16:40:39+00:00"
-    },
-    {
-      "t": "미국, 과잉 생산 관세 근거로 '한국 정부 지원·인프라 계획' 지목...'메가 프로젝트' 지목한 듯",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KS2RqampGLWY0MzY0SVlBbmtqd3Z6NnpCdTFjRjg1el81dmpyampYOU9ha0dhNDlKS3RVN3E2Q1p4TU1jZ2JsVTAwazN1QllKLUN3UGJCS0pETHZLWmc?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T16:28:00+00:00"
-    },
-    {
-      "t": "뉴욕 증시, AI 매도세·관세 우려에 급락세...엔비디아 8% 넘게 하락",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wSmMyelFSUkxvcUZRWXdBX0g2ZnJKZ1hOb2tNUl9DN1l3dDBCYjRSRGphTXpsQnhkUGEzTURxTWR0TnZpSEFLbFF5Yl94U1pBWXlZalA5SGp1Q1pUanc?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T16:27:00+00:00"
-    },
-    {
-      "t": "역대급 대미흑자 관세 부메랑 피했다…15% 사수에 일단 안도",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zN25BN0JGbGJpN2FuV1huSDFRUURNNjNGN2FRMGNwYkpnaUhZRTdDbXEtS2lWY3ZmVVQzZTJKaGRfRVlZdDQtSThycG9KV1VqTWpMc3JzOHBwRE3SAWBBVV95cUxQa3dBaU9idFhIZW10cW5xVVNWWllKRTZ3eVhIRzQ5d2U3b2RUbFhscjlhMnN6djRETXY3eE9hTjRvazkyUm45UnUwMmRJZWduZWRZSXNIR3lGX09nVHdTU1E?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-25T16:26:29+00:00"
     }
   ],
   "asof": {},
