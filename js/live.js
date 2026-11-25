@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T05:01:01+00:00",
-  "quotesAt": "2026-11-25T05:01:01+00:00",
-  "newsAt": "2026-11-25T05:01:01+00:00",
+  "fetchedAt": "2026-11-25T05:16:02+00:00",
+  "quotesAt": "2026-11-25T05:16:02+00:00",
+  "newsAt": "2026-11-25T05:16:02+00:00",
   "quotes": {
-    "kospi": 4715.18,
+    "kospi": 4720.25,
     "spx": 7201.09,
-    "nikkei": 56992.61,
+    "nikkei": 57081.93,
     "vix": 26.36,
-    "krw": 1342.98,
-    "gold": 3548,
-    "wti": 80.72,
-    "dxy": 103.99
+    "krw": 1341.8,
+    "gold": 3545.7,
+    "wti": 80.68,
+    "dxy": 104.01
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.14,
-    "nikkei": -2.82,
-    "krw": 0.15,
-    "dxy": 0.17,
-    "gold": -0.39,
-    "wti": -1.62,
+    "kospi": 0.25,
+    "nikkei": -2.66,
+    "krw": 0.06,
+    "dxy": 0.19,
+    "gold": -0.45,
+    "wti": -1.67,
     "vix": -0.98
   },
   "news": [
+    {
+      "t": "코스피, 5% 이상 낙폭 확대…4700선마저 붕괴 위협",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2xCNFlFSzJtNFFYR19fWFFNTG5YeVdrZlBxZnYxX2sxSy1BeGVCemJFX0N0Tm1DeGdmdG9CNHN4WmczMEJ5d05Qem1YQnhGaFpyVkJONk5NNE5zU0s1eXgtdGpFWllBNGliWDFMUlFmRW9MRFc5LXhYNU5lQ0VDVFZITlFxNHI0?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-25T05:09:55+00:00"
+    },
+    {
+      "t": "한국 경제성장 절반 수출이 견인…반도체 쏠림은 과제",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZbzRyVGpBSjI5YzNZcXljc01KazQ4ejVXNFd6SXprT3lvNTQzdzZQZm1xd0MyY1Qzd3VHMEhIcHB4RmxGdXNIRTMxaFIwbm9oSGlOQS02eWxLT1o1M3ptX2Q1S0o?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-25T05:08:26+00:00"
+    },
+    {
+      "t": "오늘 코스피지수 급락한 이유는?",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zYzluWXprN1JDUHBCeUZPemhrNHhfb3VXZWJUZTJPd2RtVzVPdE9nSVBuQ2tLanBadWRucnlUQ2tuXzNyR0c4SnhOekdoOTE4Y3hSbEpURHQwWVU5N0ZvSVdRMnhKNUJHbDVfMk1VQzlyaTByNlM0?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-25T05:06:00+00:00"
+    },
+    {
+      "t": "삼성 반도체 공장서 15년 일하다 혈액암 사망…유족·시민단체 산재 인정 촉구",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1NjJVSGptR1VnVzgyWEtmSW9lQnppUi1YMy0xQjBzODI0d3RLbE9DWUNHTTFIb0RLem1nYzI2STZscmFsMUtVVlJ2VmU4NTkxOGJVN2ducVBrY28?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T05:04:00+00:00"
+    },
+    {
+      "t": "삼성전자, 내년 초 CXL 3.2 샘플 공급...하반기 양산",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0cFdHZFZxVGZISzdzWnpRSDF1RWFLNnRKZkFld0lWSFFsM3ctV2JQR1Rya3BtVVdObUU4NHlQa0ZKeTNObWtILWNpQV9iQ0lJLTVPTWx1VWMyN2dac2lhb1RaWVFwUQ?oc=5",
+      "s": "디일렉",
+      "d": "2026-11-25T05:02:59+00:00"
+    },
+    {
+      "t": "\"배관·용접·덕트공이 모자라\" 반도체 공장 짓기도 전에 난리…아파트는 또 어쩌나",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LTFY5T19SYTlZMW92WUhiaXl0NDI2MWcxNHo4QTJkZ1dWTi1RREo1b2dCN3dvOGlyaEVCQ3BlV2pYM2dmSEdRU2w0aWNHYVhxTUdXZGVIVGNIU0hVcnJqQWZ5bldTYzhPeGgyTzk3a3U?oc=5",
+      "s": "아시아경제",
+      "d": "2026-11-25T05:00:53+00:00"
+    },
+    {
+      "t": "부산 소비자심리지수 두 달 내리 하락…증시 조정 등 영향",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdFVHVjdVUlV1WElCNGVkQTNlTlpDM09GUjkwdTNTaG1zSzE5Mk83d1dSNlctTDhLTW1qYUFyMjh4WFdTQnc1bDAzWE5ueEpjeUV1QVVUOEwyLWM?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T04:56:06+00:00"
+    },
+    {
+      "t": "부동산 대신 주식 권했던 중국…증시 하락에 정책 차질",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubHZpSm1SanFHdnhwLVBBMmpVOVlYRXFrSGxXTTFydjJVN0ZVNk5fYUdaNlpMWFA3T0RoeHN4SFAtNXQ5ZU0tUWY5UHFGS29XRFpyTzVFMWxRUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T04:53:27+00:00"
+    },
+    {
+      "t": "외국인 1년간 221조 던졌다…91%가 반도체",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBclJWNHMzUnZoOFV5ckl0V1NOWW14eEptc19ZNU03VV9feW9iZ0RDRURabFYxY21Yb2h5aEFtU203WFN0QXNzNjlTNHpfcDVxWFBkZzhBck1OLW8xSGhybw?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-11-25T04:52:56+00:00"
+    },
     {
       "t": "“킹달러도 못 막는다”…삼전닉스가 이끄는 ‘환율 1200원 시대’ 오나 [머니+]",
       "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50VUlsWl9MUHB1NlNvQXBUV0xuOU1CTU1QNVhEWWJQTTNaREo1cHpLX3psQW5XbFY3WXJ2ZG5CeTZCWHhTVWI4a2VhSUkxMWZrbndTcVlqRlJWRmVmTEVtRUJ0cw?oc=5",
       "s": "에너지경제신문",
       "d": "2026-11-25T04:52:51+00:00"
-    },
-    {
-      "t": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wRmdMRWV5Rk1sbU5vSVRDV1FycG1mRGJ2cldPM1ZDTUxmQVo0c3RCYmplRXhWTXliYzFVMU1CSkIzcktGQlo0azhsNVR4LUNCQmc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T04:46:12+00:00"
-    },
-    {
-      "t": "“의사보다 ’삼전닉스’ 입사“…최상위권 반도체학과 지원율 두 배로",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tR25jRkVpR3ZLaFM5M3BQN2N1MThhOUF3QjN0VFpOVHN1RUhCQjRMT3pJb0lEdm10MlFfQW9YSjNyUHA5Q0E2VXlaRVBKUEZvYzhuaVdPWHhRYUYwcXFaT0hrR0FtZ0k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T04:46:00+00:00"
-    },
-    {
-      "t": "\"겁먹고 주식 팔았는데 어쩌나\"…코스피 '바닥 신호' 나왔다 [한경우의 돈 되는 데이터]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xTE1mYUdjOXU4bi14c3dmNmlUMk5LNW1XRHBjWTJJYU8xY2ZWTUVsejB1eHJBQ19HX1dxQmp3Mi1CalB5dkNHNFdiZmhCSUd6ZklpREJoSEU2UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-25T04:30:06+00:00"
-    },
-    {
-      "t": "기계연, 반도체 원자층 제어… 차세대 AI 소자 구현",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSFoxMEdTVF9IcldNZWNzS2p3X2VmU3JudXBiYzJyZ1hxeVNpUUZDM3FpVlJSSW9JZzkzTlE4Z1Nta3ZMNDVWS21mYVBaLU5YZU9uN0RYN3oyRmNEZ1FwRTFlaEJKd1NienlkNVVQc1hMUQ?oc=5",
-      "s": "굿모닝충청",
-      "d": "2026-11-25T04:23:34+00:00"
-    },
-    {
-      "t": "日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54SHNhMlRld3VhUlpfd3Z4YlFjV3lrLVdLcUppdXh0NS1rUGhWYTloUURhbExsSVFUY3RQdHJDY2RDVy1DSGJJVl9FcFVTVHk2MTBUZXpJeEVJTXFnZ3YwMzJoelVRcTNZSnMtVkJKeWplLV9H0gF0QVVfeXFMTzcyYmNzYjdUQ1VLMVN1eE9KYlpSdklDUTR0WVFieW1pWlE4SjFjTUNFbXIyRnkzT3BmNEVtemQ3WEg3b0hzcU1LX0YzbWZNZ29kQ2F6VTJiUHYtWU9DV1dxNlc0X0dLOG1ZYW54N2llRGJ5Q3o?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T04:22:36+00:00"
-    },
-    {
-      "t": "금통위 경계 속 국고채 '불 플래트닝'…코스피 급락·外人 매수",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lc0o1UFJobkhxdUl0SXluZVlaSkJkZU9zZHVCV2hKZ2Z2Nk9YaThXcEJxNzR0d0dHeWtzZmUtTTVUSjNiTTZsY0RJX2pCR3VKUkYxRGZDYkVzMEVEeUhaQUdYX2Z6SVpnMTc1TDJDaXo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T04:10:57+00:00"
-    },
-    {
-      "t": "피치 \"연준 12월 인상 뒤 내년 동결…채권 금리, 올해 고점보다 완화\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EdUFVNjdmTmpDQlp2MnZIMzlkZlJXVW1PUk91dHEwam9yaVhxa1VucXRKWXJLU21fVHJsN1ZRRWtaQ2NoU1IxSmYwaHRiZjFqd0NfVi1QWVpEa2Q5NVVQbzZkVzdtejdzcWRDMmc4V2E?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T03:59:14+00:00"
-    },
-    {
-      "t": "대만증시, 기술주 약세에 6%대 급락…하루만에 4만선 깨져",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIUzRRanR4WExPZmFIOU1FTjR4dFkyU2o4UVkzUGZhSEdCRGxVNUFwc0hIVTRZc3M2M19QSE1iU0M2RkV5bm9xZUE5a3RINmlXMnAxZHhmYUJxSlNvLXlRbWJvYmItY084ODFiM2I1QVHSAXRBVV95cUxPaEtaM3piSGVIYUExaVlBMXRJT1dxajM0bUM1bEVPcjhJelVCNG5pc1JpUGV1bnowVmZFekFNS2NxcUVSU21maF9XREFaa0cweUtjRFZGNVU5NHA0Z1U2d3R0NjZFYkVReVVVRkppd0tNak15Uw?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T03:56:16+00:00"
-    },
-    {
-      "t": "10월 은행 가계대출 금리 5% 돌파⋯주담대 14년 7개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12VkJUYnJXYkVYN2YydDJQZ2MyN29aYXUyTkVCUlJOUndWel90ZG1yeXQ2RkJYQl95RmRLdGpCMldiZU1fcGVUV2RuczFVaUxVbURJQTkwcm1oc0YyRlFZ?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-11-25T03:54:09+00:00"
     }
   ],
   "asof": {},
