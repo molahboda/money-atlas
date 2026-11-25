@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T05:31:01+00:00",
-  "quotesAt": "2026-11-25T05:31:01+00:00",
-  "newsAt": "2026-11-25T05:31:01+00:00",
+  "fetchedAt": "2026-11-25T05:46:01+00:00",
+  "quotesAt": "2026-11-25T05:46:01+00:00",
+  "newsAt": "2026-11-25T05:46:01+00:00",
   "quotes": {
-    "kospi": 4723.27,
+    "kospi": 4702.37,
     "spx": 7201.09,
-    "nikkei": 56931.85,
+    "nikkei": 56922.16,
     "vix": 26.36,
-    "krw": 1341.8,
-    "gold": 3547.8,
-    "wti": 80.62,
+    "krw": 1342.5,
+    "gold": 3534.9,
+    "wti": 80.6,
     "dxy": 103.99
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.31,
-    "nikkei": -2.92,
-    "krw": 0.06,
+    "kospi": -0.13,
+    "nikkei": -2.94,
+    "krw": 0.11,
     "dxy": 0.18,
-    "gold": -0.4,
-    "wti": -1.74,
+    "gold": -0.76,
+    "wti": -1.77,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "가계대출 금리 5% 돌파…주담대 금리 14년7개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vS1pQVFZURi1rQlhpQUVTb24ycTlJWGJaa01UOEFhOEtCWXhqd29HY0lXNWFKZFNQMENSRThtNF9fUXJKX1VYMkpkbl9oZ3RtbHc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T05:17:13+00:00"
+      "t": "전남광주 남구, 호남권 반도체 클러스터 조성 홍보 집중",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZeWU4cWJOdTZMektyaHJmcUIwU3o3cFRFVGh4X2pqVzdhN3JaZzRUcDRzSU1CbWg0eFdPZkVnU29Jb3FiWnNHcTA0RnZZR1hURnRuR2ZiZHZhX04tbmdVUVBFN2NiREw2eEdJ?oc=5",
+      "s": "BBS 불교방송",
+      "d": "2026-11-25T05:40:31+00:00"
     },
     {
-      "t": "오늘 코스피지수 급락한 이유는?",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zYzluWXprN1JDUHBCeUZPemhrNHhfb3VXZWJUZTJPd2RtVzVPdE9nSVBuQ2tLanBadWRucnlUQ2tuXzNyR0c4SnhOekdoOTE4Y3hSbEpURHQwWVU5N0ZvSVdRMnhKNUJHbDVfMk1VQzlyaTByNlM0?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-25T05:06:00+00:00"
-    },
-    {
-      "t": "삼성 반도체 공장서 15년 일하다 혈액암 사망…유족·시민단체 산재 인정 촉구",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1NjJVSGptR1VnVzgyWEtmSW9lQnppUi1YMy0xQjBzODI0d3RLbE9DWUNHTTFIb0RLem1nYzI2STZscmFsMUtVVlJ2VmU4NTkxOGJVN2ducVBrY28?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-25T05:04:00+00:00"
-    },
-    {
-      "t": "부산 소비자심리지수 두 달 내리 하락…증시 조정 등 영향",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zdFVHVjdVUlV1WElCNGVkQTNlTlpDM09GUjkwdTNTaG1zSzE5Mk83d1dSNlctTDhLTW1qYUFyMjh4WFdTQnc1bDAzWE5ueEpjeUV1QVVUOEwyLWM?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-25T04:56:06+00:00"
-    },
-    {
-      "t": "\"집 대신 주식 사라\" 했는데…현금 꽉 틀어쥔 中 개미들",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ubHZpSm1SanFHdnhwLVBBMmpVOVlYRXFrSGxXTTFydjJVN0ZVNk5fYUdaNlpMWFA3T0RoeHN4SFAtNXQ5ZU0tUWY5UHFGS29XRFpyTzVFMWxRUQ?oc=5",
+      "t": "[오후시황] 코스피 6%대 하락…외국인 2.2조 던졌다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNlU2Nm0wWHZPYk1hRUFQSXB5aUVsUFdXa3BhUkdMVHVuRzF1ckFDMTR4VlJfOWMzUGM3ZG40ejJsd0RSMnI4SUtubjZxY1o1aUM4ek1TZVN4UQ?oc=5",
       "s": "한국경제",
-      "d": "2026-11-25T04:53:27+00:00"
+      "d": "2026-11-25T05:39:13+00:00"
     },
     {
-      "t": "“킹달러도 못 막는다”…삼전닉스가 이끄는 ‘환율 1200원 시대’ 오나 [머니+]",
-      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50VUlsWl9MUHB1NlNvQXBUV0xuOU1CTU1QNVhEWWJQTTNaREo1cHpLX3psQW5XbFY3WXJ2ZG5CeTZCWHhTVWI4a2VhSUkxMWZrbndTcVlqRlJWRmVmTEVtRUJ0cw?oc=5",
-      "s": "에너지경제신문",
-      "d": "2026-11-25T04:52:51+00:00"
+      "t": "AI 반도체 공급망 곳곳서 병목…기판 소재 납기 3배",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EVUJPdkJldmF3dzlTV0xpM01jRnh4TzlSUlJ1MVZwTFgtNE50Ulp2UDV0enNKbHdlemRyNTJ5XzhZeTYzU253Q0NnTTZ0OVZ6RGw4TndyRl8zVmZ1dnZR?oc=5",
+      "s": "뉴스토마토",
+      "d": "2026-11-25T05:38:24+00:00"
     },
     {
-      "t": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wRmdMRWV5Rk1sbU5vSVRDV1FycG1mRGJ2cldPM1ZDTUxmQVo0c3RCYmplRXhWTXliYzFVMU1CSkIzcktGQlo0azhsNVR4LUNCQmc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-25T04:46:12+00:00"
+      "t": "블랙록, 시장 연준 인상 과대평가…비트코인 반등할까?",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lR0pqYThMUVNybVFFQnhoQjVXQXZ2MjVGZEVWempfY1hBWmI5UWF2U3d3dHlNN2paSTdSbmFxdm95dlBDRDV1S1JjaWpSYVJJVlZyQUZ5ZFRUTEE4ODJsUmdmdlBFallMRFlNdWlB?oc=5",
+      "s": "BeInCrypto",
+      "d": "2026-11-25T05:37:55+00:00"
     },
     {
-      "t": "“의사보다 ’삼전닉스’ 입사“…최상위권 반도체학과 지원율 두 배로",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tR25jRkVpR3ZLaFM5M3BQN2N1MThhOUF3QjN0VFpOVHN1RUhCQjRMT3pJb0lEdm10MlFfQW9YSjNyUHA5Q0E2VXlaRVBKUEZvYzhuaVdPWHhRYUYwcXFaT0hrR0FtZ0k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T04:46:00+00:00"
+      "t": "삼성 반도체 하청노동자 혈액암 사망…반올림 “화성사업장에서만 혈액암 12명 발병”",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2c4YklDeGdfODRmRHBoQ3duUTFnMmEwRVVEUHVjSFYzUzZraWdZUm41WXdna1NjaXVqeWFqUUhmOVpwcGFrUllYaTE0MjkzcU9raEsxRTk3Q2hFb28yRGQxWVo5OUFzSDJiSUJvZ0R6TmRDUmtQMy1nS2Q4WWQtb19kNGNZNnhxQ2l1Ykw5cW1UbXhhdmFVZDJoMTV1V3NZYXU0SXM3amR3UdIBX0FVX3lxTE5BTDl1MG9kbHVYY2o1eXl0Qm83c3V2VV85ZWVzaUdwZjlkSU9XTjFtMnd4eFlOdDlIRkNHNTN6dGdSNS1Ea1I4NVBnTmJZZWk4RmpKMmtkcC1FcW9mWFhJ?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-25T05:34:00+00:00"
     },
     {
-      "t": "\"겁먹고 주식 팔았는데 어쩌나\"…코스피 '바닥 신호' 나왔다 [한경우의 돈 되는 데이터]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xTE1mYUdjOXU4bi14c3dmNmlUMk5LNW1XRHBjWTJJYU8xY2ZWTUVsejB1eHJBQ19HX1dxQmp3Mi1CalB5dkNHNFdiZmhCSUd6ZklpREJoSEU2UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-25T04:30:06+00:00"
+      "t": "반도체 투톱 10% 안팎 급락…코스피 6% 넘게 밀려",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12UGliVFpEQmFFTXNIaXE5ZHNJUDJDNlcwNDJSRVg1M1BGTGN3VTY3bXltQ2l6VkdRZWZaVFhCY0NSbFo0bUhxenJ0Zm1GVkprUVJ6YTVXZjROTjhYUWJHQUdvZWdrZFpDSF9sN3JRNjY?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T05:32:39+00:00"
     },
     {
-      "t": "기계연, 반도체 원자층 제어… 차세대 AI 소자 구현",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSFoxMEdTVF9IcldNZWNzS2p3X2VmU3JudXBiYzJyZ1hxeVNpUUZDM3FpVlJSSW9JZzkzTlE4Z1Nta3ZMNDVWS21mYVBaLU5YZU9uN0RYN3oyRmNEZ1FwRTFlaEJKd1NienlkNVVQc1hMUQ?oc=5",
-      "s": "굿모닝충청",
-      "d": "2026-11-25T04:23:34+00:00"
+      "t": "은행 가계대출 금리 3년 만에 5% 돌파…주담대 14년 7개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZGZVdTFncXc1ZXFMMzZ0dmJoa3dMTnFESXlOSEdvN2JPMWZaWVc1SGdJa0Z3MG5lczU1YlRhamczWVZ0OVdjWXZ6azNtenBnTzF3MDZDWFpXYmxmWnRFTlpzRkNKUlhwTGc?oc=5",
+      "s": "www.hidomin.com",
+      "d": "2026-11-25T05:27:24+00:00"
+    },
+    {
+      "t": "차세대 페로브스카이트 반도체, 성능·안정성 한계 넘었다… 한양대 박희준·김경학 교수팀",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sMllzLUFJakZYZlJIdlliZDNSMlNYTkIycWRMZFJBNE13a08wN2pWOUw3ck12aWJZcTQ4UEwyaHA5a3ZaT3lGbHZWWVhsWXJqM01hb0NVWnlqUmQzbE9Pd3IxejgyU0tVWDNV?oc=5",
+      "s": "뉴스H",
+      "d": "2026-11-25T05:26:47+00:00"
+    },
+    {
+      "t": "노동장관, 삼성물산 등과 반도체팹 건설 논의‥인력 확보 총력",
+      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3TlhTUE15QUM2UWJPc2ZwZkZPNGg5MWh4V2hWVTdnWW1lYW1lSmwtUHVfTEYzMVR5eDhMYXVjR1YycGZLWFNQVVlockc2aUt3VFJQMG1OeUNWc0prMXNnRkZQYmZJOHZSOGY5LW9QbWRONi1ETjJF0gF3QVVfeXFMT0ZtVGQyZEhwelBoLTlVUFhqUXlBWlk3c19zY3hlVFRIb3pCd2Rib2c0dC1xaHN2dUk5TGt1eE10N0pMbE8xdVRYTnFTYjl0YXJianliRW9JeTlTZnlxV25PMkNoT3JUNG1lMUctczR5blc4ek9qTTA?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T05:25:50+00:00"
+    },
+    {
+      "t": "트럼프, 또 추가 관세 추진…한국 2.5~5%p 인상 전망",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZXUtS2NvWm81SW5qWk5FcWdHOVUwT1EzYVlPVUhHSFZZd2Vnd3I2SW9aUUJ5Nkxxejh5RTVFWEJSdmdZMlZ6bkNNMVdLV1VKTVl6UlZCYXgzcnY2Q3E2bjhQY2c5VFEzYU9IYzlqSQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T05:24:00+00:00"
     }
   ],
   "asof": {},
