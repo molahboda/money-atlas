@@ -1,29 +1,71 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T19:31:01+00:00",
-  "quotesAt": "2026-11-25T19:31:01+00:00",
-  "newsAt": "2026-11-25T19:16:02+00:00",
+  "fetchedAt": "2026-11-25T19:46:02+00:00",
+  "quotesAt": "2026-11-25T19:46:02+00:00",
+  "newsAt": "2026-11-25T19:46:02+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7190.22,
+    "spx": 7175.18,
     "nikkei": 57011.62,
-    "vix": 27.79,
-    "krw": 1343.53,
-    "gold": 3575.8,
-    "wti": 83.67,
-    "dxy": 103.61
+    "vix": 27.8,
+    "krw": 1343.55,
+    "gold": 3573.9,
+    "wti": 83.65,
+    "dxy": 103.63
   },
   "daily": {
-    "spx": -0.65,
+    "spx": -0.86,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.19,
-    "dxy": -0.19,
-    "gold": 0.39,
-    "wti": 1.97,
-    "vix": 5.42
+    "dxy": -0.18,
+    "gold": 0.34,
+    "wti": 1.95,
+    "vix": 5.46
   },
   "news": [
+    {
+      "t": "美, 관세 부과하며 호남 반도체 언급… “SK 등에 국내 생산 확대 ‘압박’”",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGxiRVB0LUIxWkJUTWN3aklzMVNJRVY4bjNsWjhUeE9xNGNZU2FsUF9POTF3OENGamh6S3JGOS13VEZ1a2ZDdHBRSTlrOUltOUFwb1Q3eUtHTU5Eay00cGFtYkxEY0lCdm40TFd4NGN1eVViWk4ySzY3Y2dheFRMUU85LTg?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-25T19:33:00+00:00"
+    },
+    {
+      "t": "후티, 예멘 임시수도 60km 앞까지 접근… 국제유가 악영향 우려",
+      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qT21FS1Jya2pELUV0TDd4S3JaTXc0ci1jc0hGYy1HMlBHTUYzVlVJdUVNclZfYi1COVU4WWRmcF80QjE2T0d5Rk5nU2VSbm9YeVFjaU5qLTFpb0p0QTFHcUxmb3ZiZGt6M0NYdV9KczVEOFXSAWZBVV95cUxPb1lRdUU0Q2tETE1rZUJTRW43V0FhUDB2am5XbjdvSWNrM1plTm1aVmFtZ19yd3VpU294X1VBNnVBQ01qNElPQm5aUnBZRzFBVGxvelVtYndUdHk5RFUzeHBwcF9hUEE?oc=5",
+      "s": "동아일보",
+      "d": "2026-11-25T19:30:00+00:00"
+    },
+    {
+      "t": "[뉴욕 금가격] 증시 급락 속 2% 안팎 하락…3천500달러 붕괴",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xcVdsTXF0WXNSNTRPYjV3dkJ3OGo5a2UxcjdQaHpYeUVzbklLMTdDeGh0NTlIU2ZKNTZFR0szTldrRnE5ZjZZV05ORmRsRmM5dENib2x5N0xUTktzTVI2akJkUnpMU0ZqRy1sNU5kLWo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T19:27:07+00:00"
+    },
+    {
+      "t": "미국, 제조업 부문 관행 대응해 14개국에 관세 부과 예고",
+      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adEJwdWF2VUdXZG5SU1J4dU1vcU9iN3gyVDRKSzNYeVFwXzV2Nk45ZGdjdkdLUlp3bXFpQ2xOQ3Atb3ZqcHdXQXhJekhoQWZK0gFTQVVfeXFMTTRVTHgzTXpFZ08zb0pHTDVCeGh5aEk3WnFzQU1TN2xJaklISzB4cGdDTXJZWXlaQlBSeFBvT05JeWsySFg0R09kQTBRWHhWVkRucUU?oc=5",
+      "s": "VOA 한국어 홈페이지",
+      "d": "2026-11-25T19:14:02+00:00"
+    },
+    {
+      "t": "BOE 총재 \"에너지 가격 하락하지 않으면 추가 금리 인상 가능성 커\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mUVNxY0s4cmFlZklqdmVaUWZwbDRTLVd5a1gxeDRmQUxJZ3ZsMjM4V0lGNVlVeHlqUnhCT2xMY3RpQm0zSTJ3a2VLS09MQTMwRVBEYmFVNU9MNVh6UTFqUHVSZ3UyeWo1bmtRNHdBUjE?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T19:08:18+00:00"
+    },
+    {
+      "t": "대장주 반토막, ETF도 와르르… 반도체 몰빵 개미 '커지는 비명' - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdmRFR3drRjMzNldBdnhlUTRyVHRsbTB5WWlnczl6ZTJwQmtXRy1rWF9qbWY3TTBOTkJiblRCLVVBRDdpbDlsemVxS0JVMWF6U3Rza1psSU1qMW8yeHNqa19wU2FDRlZ60gFuQVVfeXFMTzZJWS1YV1VsVWh4VlFCRC12OVpPOHNnN3lFZ1lhVTJlU3FZTmx1c0psWm5TcVQ3RzRWVWJfdmdGVVZzbEhhSEV3RnU2X2VpVWhLUEh2VGdGdXQzRG5jeFNwd0Z4Z05iSUZHUmFMN1E?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-25T19:04:00+00:00"
+    },
+    {
+      "t": "유럽증시, 미 금리 인상·관세 재부각에 1% 하락… 은행·기술주 동반 약세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVUJzZk9pQ1l1aWZMRU9FWHpJUGNXMFJvVFRGdF9YSm1ReTcxZnB2TmdPUUxjd2NKUEJBUGpKYnBPZGlxV3dtNG9GeUVJUXJ6VjJ4MXNNSkhyYmlq?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-25T18:14:00+00:00"
+    },
     {
       "t": "다시 시작된 '트럼프 관세' 드라이브.. 美 민주당 막아설 가능성은[이상은의 워싱턴나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15NUh0X3NSRF9NUjRCYmZZbXlYUnBIYmpGSV9oRjBjSGtWMHdWNEZVVVMtODRCTS1fdWN6QWxoSWNqeUpWQ25Rd3BTWG84M2NBbU00dUxXMGtSdw?oc=5",
@@ -37,52 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-25T18:00:00+00:00"
     },
     {
-      "t": "EU, 미국 ‘과잉생산 관세’ 반발…15% 상한 준수 촉구",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNVlGUlpDVEczNVlyWnFjRmQ5YzlQblg4M2plY3MtVzRwaF82UHdfU2VqMi12MDZKZWl0alN3THVuOWFST1pXcE41bmRmSUVZaE1WX0l2RDdWd0U?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-25T17:52:00+00:00"
-    },
-    {
-      "t": "트럼프 행정부, 한국 등 14개국 ‘과잉생산’ 불공정 판정…한국산 최대 15% 관세 제안",
-      "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zOUFKR2NDSEV6U05SVXRGaS0tdlVNcVFXeHNhUjNvcVQ0bmM4NWtFTW1nMlJ2ak02MFZXbWlwNVRvVWZvTHNzSlVXUlRqQ2NV0gFTQVVfeXFMT0VvaDNHcTIyTkp3QkR1WFRqQm9nX2ZJbTV3cF9LN3RFX3VfcEZ3eDhtWU81ZGtzRDMtdlB2WDhMY01yc1R2X1ZfdFM5YV85bnVDSkk?oc=5",
-      "s": "VOA 한국어 홈페이지",
-      "d": "2026-11-25T17:44:49+00:00"
-    },
-    {
-      "t": "美 10월 PCE 물가 3.8% 상승… 12월 금리 인상 전망에 힘 실려",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUJrN0NjTVBMOFVNVHBCWXJ6U3B3YUxMVEpGNWtqLUZNLU12VHc1VWVBUFJ3UzVHN1FhS0xJaU4wNlNCRk5qTnZqbE5IVHZ4NkNMYTRmbWo2eVJZSUk2a00zZ0ZnX0tFU0QtRUdBckl2TmxCTnhlU25DbXN2Z3ljaC0ySUo4WXV6?oc=5",
+      "t": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5",
       "s": "조선일보",
-      "d": "2026-11-25T17:11:00+00:00"
-    },
-    {
-      "t": "미, 14개 경제주체에 과잉생산 관세…한국, 15% 상한 유지",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbndnRl81b2RCNV9UbHozRmNRTFAzZ0JXN3M1YmhuMUh0WFlOQTRIb1ZNVDJqbVNNYXVnV2hUcTBIU0JCYlE1YTQ5Sk84QWc1NnpEMGdZbjE4em9qMThod1NNOHJlOWxiYXQxZ3JxaWRUV1Zv0gF0QVVfeXFMUG5ra09EMEY4TW9qMlFxWXdfWlhPanFVV0VxdGRHMWxKVVgyODNocGc1a0t2QXdwYjRHam1TdlB5WnJwQ3pPUUhNcjRBMHpkLXlwb1lkdFpaOWt2SlFUMW5ka3RmaUtJN3pjaTRvTTZ0SmZ4STE?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T17:10:29+00:00"
-    },
-    {
-      "t": "BOE 총재 \"에너지 가격 하락하지 않으면 추가 금리 인상 가능성 커\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FUWEwa3hFbG1Sc2JKN2toQnVDT1NuLXVvUVNxSXB0UHQtZWhqTFA0Vld0eGNFWDdacFBIbExCVkVta1B1a3lVM3p6cUhuc3FZRldBRFcwTGh1QmE4UnVYX2pLdGVVRjVfcHhOSXUwckt0QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-25T17:08:17+00:00"
-    },
-    {
-      "t": "EU, 새 미 관세에 \"유럽, 과잉생산 원천 아냐‥15% 상한 준수돼야\"",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdUtVZVphREgxcWViSExydkdINmhKRkZ2VDNQeWlhNC1WY1FDeF9fdnl2WHJac1lWQ21xZmsyeXczRFB3QXdKNnFDRGNjaUNwY2tSREtnclFpQnR1UnJWWE02MkxfN0lLYXI5dHZFdm01NnRj0gF0QVVfeXFMUFBIUnlWVTU2S3QtV2luVjFFdjktWVhQd3FQQTRWQ05yMWtWdGp0QVFmS3B4N3psWEVfXzhnYnlJdTZmeW5yMHNIbXZIZ0FJcnN1d3gtX1RrMjk4MjN5M2pHZFpvRWFfbldQYlg0SWE1MWI4TDc?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T17:01:10+00:00"
-    },
-    {
-      "t": "USTR \"한국과 협의 불만족스러울 경우 25%로 관세 인상\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xQXZOelZ6MC1sVTBYT1NOVGVZWlo4ZWNhd1BhbXl2em9jcm1WbWtLLVNEYjZaQW44QjhrMUQ5RmVTb1pFbTBWN0VFZGFvUW82OHVrUWNFOFVza2xKQlE?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T16:59:00+00:00"
-    },
-    {
-      "t": "미 과잉생산 관세 15% 제안에, 김정관 “15% 유지하면 선방”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RT3B4WkktMTZveDg5dF9TMklLU0k0dkk0NGgtZWJRWTN6Zmk5Mm95RjVCZS1ITlNYR3V1cmJROU5ZcDRtVjExZjdHeHdVOXF6RUFTVXE1R1NWcVk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-25T16:45:00+00:00"
+      "d": "2026-11-25T18:00:00+00:00"
     }
   ],
   "asof": {},
