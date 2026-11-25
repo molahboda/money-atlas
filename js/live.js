@@ -1,34 +1,58 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T19:46:02+00:00",
-  "quotesAt": "2026-11-25T19:46:02+00:00",
-  "newsAt": "2026-11-25T19:46:02+00:00",
+  "fetchedAt": "2026-11-25T20:16:02+00:00",
+  "quotesAt": "2026-11-25T20:16:02+00:00",
+  "newsAt": "2026-11-25T20:16:02+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7175.18,
+    "spx": 7175.97,
     "nikkei": 57011.62,
-    "vix": 27.8,
-    "krw": 1343.55,
-    "gold": 3573.9,
-    "wti": 83.65,
-    "dxy": 103.63
+    "vix": 27.91,
+    "krw": 1343.59,
+    "gold": 3579.7,
+    "wti": 83.89,
+    "dxy": 103.68
   },
   "daily": {
-    "spx": -0.86,
+    "spx": -0.85,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.19,
-    "dxy": -0.18,
-    "gold": 0.34,
-    "wti": 1.95,
-    "vix": 5.46
+    "dxy": -0.12,
+    "gold": 0.5,
+    "wti": 2.24,
+    "vix": 5.88
   },
   "news": [
+    {
+      "t": "미, 한국 등 과잉생산 관세…’15% 상한’ 유지",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ycTJwRDdxS0xpQl9WQ3Fzd0ZSbVJhOXBYRVkxY1pGOEtSenFkOTZQVWtBdFRIMzA5Q29sbWlOUHBZQWZlNU1PMzdRZkN1d21laUtUcE1EYlU3RkN5V3hPUlotUF9tT0U?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T20:10:00+00:00"
+    },
+    {
+      "t": "美, '韓과잉생산' 반도체·車 조준…'관세 25% 인상여지' 으름장",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LaDBtd0VJSlVlemQ3VFprUXpkdkMxRkdrMy1CZU90ZUFJaWt6alVQU3BUY3kwWFJGa1JNLXFOb0dXTXMwSE5vQU5yN3JUa1p6VmZHenBPU045RE3SAWBBVV95cUxNRXJnendZbzNWMWZxSWpjTER2Rnlja2g3ZUowNUwwTWNHeElxdzNwYmdySVRvYjBmM2VReEM5RmxjdTBDanppQWlXanhCbndJU2w5UDhfSFpEVlJXZ0dGWHo?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T19:44:49+00:00"
+    },
+    {
+      "t": "연준 베이지북 \"다양한 부문서 비용 압박…수개월 상승 전망\"(상보)",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SQlRKem9qX29ZbW1wdlFFbFhlUVdaTU5pMzQ3ZVdiZExWQW5GcGJ2TDR4Yk9KSFZjTnpHZlVnSmVoUFp5X2ZxQUpBcVJKV2pkNF81NUFFbnNVT2RtdTQtQ0RoWlNIU29OY01lUjVKYVU0dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-25T19:39:01+00:00"
+    },
     {
       "t": "美, 관세 부과하며 호남 반도체 언급… “SK 등에 국내 생산 확대 ‘압박’”",
       "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGxiRVB0LUIxWkJUTWN3aklzMVNJRVY4bjNsWjhUeE9xNGNZU2FsUF9POTF3OENGamh6S3JGOS13VEZ1a2ZDdHBRSTlrOUltOUFwb1Q3eUtHTU5Eay00cGFtYkxEY0lCdm40TFd4NGN1eVViWk4ySzY3Y2dheFRMUU85LTg?oc=5",
       "s": "조선일보",
       "d": "2026-11-25T19:33:00+00:00"
+    },
+    {
+      "t": "26일 올해 마지막 금통위…세 번째 금리 인상 전망",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0YWllcnNqUEgtU19pdHhRQ2p1U3FaVzRnV3hQZDJsa2tnM3hnekZCWXpJVHNPcndxUWU3Uk1YaVNWdi1hY0Y0M1h3SHltaHVDMXc?oc=5",
+      "s": "노컷뉴스",
+      "d": "2026-11-25T19:30:00+00:00"
     },
     {
       "t": "후티, 예멘 임시수도 60km 앞까지 접근… 국제유가 악영향 우려",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdmRFR3drRjMzNldBdnhlUTRyVHRsbTB5WWlnczl6ZTJwQmtXRy1rWF9qbWY3TTBOTkJiblRCLVVBRDdpbDlsemVxS0JVMWF6U3Rza1psSU1qMW8yeHNqa19wU2FDRlZ60gFuQVVfeXFMTzZJWS1YV1VsVWh4VlFCRC12OVpPOHNnN3lFZ1lhVTJlU3FZTmx1c0psWm5TcVQ3RzRWVWJfdmdGVVZzbEhhSEV3RnU2X2VpVWhLUEh2VGdGdXQzRG5jeFNwd0Z4Z05iSUZHUmFMN1E?oc=5",
       "s": "머니투데이",
       "d": "2026-11-25T19:04:00+00:00"
-    },
-    {
-      "t": "유럽증시, 미 금리 인상·관세 재부각에 1% 하락… 은행·기술주 동반 약세",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVUJzZk9pQ1l1aWZMRU9FWHpJUGNXMFJvVFRGdF9YSm1ReTcxZnB2TmdPUUxjd2NKUEJBUGpKYnBPZGlxV3dtNG9GeUVJUXJ6VjJ4MXNNSkhyYmlq?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-25T18:14:00+00:00"
-    },
-    {
-      "t": "다시 시작된 '트럼프 관세' 드라이브.. 美 민주당 막아설 가능성은[이상은의 워싱턴나우]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15NUh0X3NSRF9NUjRCYmZZbXlYUnBIYmpGSV9oRjBjSGtWMHdWNEZVVVMtODRCTS1fdWN6QWxoSWNqeUpWQ25Rd3BTWG84M2NBbU00dUxXMGtSdw?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-25T18:05:17+00:00"
-    },
-    {
-      "t": "美 연준, 물가 원인 놓고 시각차…공급 충격 3분의 2 vs 수요 압력",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ01UOGJOTWJjWTlCcDEtUk5oYnYtQmJZZHNOYVcyUXVjcjg5SDVFWXlNckgtc05ma3VpT1l4di1wa3pPcThFZmIxRVVYY2RDQjRvd2wyY2duNFp0S2FRb1o2azYtTV9TaFcySmVpUGNUR3o2MGRuLXI2SDIzWWhyZXNWazhVRmc0?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-25T18:00:00+00:00"
-    },
-    {
-      "t": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5",
-      "s": "조선일보",
-      "d": "2026-11-25T18:00:00+00:00"
     }
   ],
   "asof": {},
