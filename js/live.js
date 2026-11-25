@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T12:16:01+00:00",
-  "quotesAt": "2026-11-25T12:16:01+00:00",
-  "newsAt": "2026-11-25T12:16:01+00:00",
+  "fetchedAt": "2026-11-25T12:31:01+00:00",
+  "quotesAt": "2026-11-25T12:31:01+00:00",
+  "newsAt": "2026-11-25T12:31:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 30.72,
+    "vix": 30.79,
     "krw": 1343,
-    "gold": 3525.7,
-    "wti": 81.73,
-    "dxy": 104.01
+    "gold": 3545.9,
+    "wti": 82.5,
+    "dxy": 103.91
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.15,
-    "dxy": 0.19,
-    "gold": -1.02,
-    "wti": -0.39,
-    "vix": 16.54
+    "dxy": 0.1,
+    "gold": -0.45,
+    "wti": 0.55,
+    "vix": 16.81
   },
   "news": [
+    {
+      "t": "패닉 빠진 증시에… 증안펀드 규모 늘린다",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJBX3VYM0pLUHFEVDJQSm9ULUJwOWo3QjM1RUpDUkFUamRqbXNOMkNIQURHbFlKdkh2b2xOUUExY1R3azdGT213UUdkWHVQWmZZMTBhTi1UbWdDV1pWT05jY2hfejhRWWdNekhjNzF0WUZub0lXbzY2clNDWmJVajliNDQ2RlFS?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-25T12:20:00+00:00"
+    },
+    {
+      "t": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T12:14:00+00:00"
+    },
     {
       "t": "'반도체 용수' 정수량 증가·송수관로 신설 추진",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyamxaVk82TnlYT3FvTWdHNjY2MmE4M2ZWaTJEbzRWS1lqMXMwd1VObXVhTFliSEJVdFY2UndUMmVuQk5wUGRQQVJ2WUJiUmh6WDQxNHBGSEpzSE1IRDRKZ19KRGNZNEU?oc=5",
@@ -32,9 +44,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "수출 1조 달러 시대…美 관세 변수에 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRHhBMTItYjItTTRoeFBvUWc4NTg3S0d1YUFaUnkzQXZ5b3lHaVBmQVR5cVhnUk11a1Ixd3o3aThSUFdCdWtNRnYwWW1wTUVRZ2tYYkpoaDREYlRCS2p2VlZ6SEVrbDg?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T12:07:00+00:00"
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcTFTdXRHRUZiWWVoMlpTSVN2cEhjWjlhY2htZkI5UHhJOTV2UU9GWm5SX1V2UzFOSTdjTndTcHg0ZXNTRkZCSGhKV2hEcE1mTXlmZXhOdFZFZGRiUW0tOXA5T3BzZU5Gem9lVEpiMXFLaHRz?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-25T12:08:01+00:00"
     },
     {
       "t": "또 사이드카…갈피 못 잡고 요동치는 2026 코스피",
@@ -49,12 +61,6 @@ window.LIVE_DATA = {
       "d": "2026-11-25T11:41:00+00:00"
     },
     {
-      "t": "\"젠슨 황 복귀\" 개장 직후 매수 사이드카…\"반도체·AI 인프라 반등 간다\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJd2RrMDVXQWJpZzFXcWxucUVZeldGaXh4RnZpWjl6MW13c2taMEE5R2JDTkJpZndJc3Mwb3BuMWhwWmhZcTZFYXdNdHhqUUp1MFh5ck81WHJtVFpqcHFKMUxXN3p2dGE50gFuQVVfeXFMT2htUmxfUzFTZWlQbTc2WjZ1SlJDU2Nac05mQVdWelVSSE43VDduTFhkaWZmYVJSb2thLWJKT3J5cnYzeFg4eEVHdjZDVDVramVrYm5JVGF4b1IzRXhMR0w0Ymc1dGV4NExUT01KT3c?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-25T11:27:28+00:00"
-    },
-    {
       "t": "트럼프, 또 추가 관세 추진…한국 2.5~5%p 인상 전망",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZXUtS2NvWm81SW5qWk5FcWdHOVUwT1EzYVlPVUhHSFZZd2Vnd3I2SW9aUUJ5Nkxxejh5RTVFWEJSdmdZMlZ6bkNNMVdLV1VKTVl6UlZCYXgzcnY2Q3E2bjhQY2c5VFEzYU9IYzlqSQ?oc=5",
       "s": "한겨레",
@@ -65,12 +71,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ld05YNElZUnFsbW9fT2w2dnFqcXg5blUxd2NRQjhwcmNBeG5KSWxpMXUtX1o4RnJnSjhfbjAyWGQxZ2xXTXRjWUF4TU5tQl91Si1PRUcyTVIwZnF0c1hORk1jSTFtUkU?oc=5",
       "s": "한겨레",
       "d": "2026-11-25T11:14:00+00:00"
-    },
-    {
-      "t": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-25T11:13:00+00:00"
     },
     {
       "t": "가계대출 금리 5% 돌파…주담대 15년래 최고",
