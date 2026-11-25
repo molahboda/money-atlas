@@ -1,40 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T02:01:01+00:00",
-  "quotesAt": "2026-11-25T02:01:01+00:00",
-  "newsAt": "2026-11-25T02:01:01+00:00",
+  "fetchedAt": "2026-11-25T02:16:02+00:00",
+  "quotesAt": "2026-11-25T02:16:02+00:00",
+  "newsAt": "2026-11-25T02:16:02+00:00",
   "quotes": {
-    "kospi": 4782.78,
+    "kospi": 4769.52,
     "spx": 7201.09,
-    "nikkei": 56948.71,
+    "nikkei": 56851.61,
     "vix": 26.36,
-    "krw": 1344.78,
-    "gold": 3548.2,
-    "wti": 81.39,
-    "dxy": 103.88
+    "krw": 1342.48,
+    "gold": 3549.7,
+    "wti": 81.18,
+    "dxy": 103.87
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 1.58,
-    "nikkei": -2.89,
-    "krw": 0.28,
-    "dxy": -0.42,
-    "gold": -2.83,
-    "wti": 1.52,
+    "kospi": 1.3,
+    "nikkei": -3.06,
+    "krw": 0.11,
+    "dxy": -0.43,
+    "gold": -2.79,
+    "wti": 1.26,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "코스피, 美 반도체주 급락에 하루 만에 5000선 붕괴…삼전·닉스 6%대 하락",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pQmE2cHpzNFktYUNoS3lqci14ajBjU2xpVTk5bzhlMnBRQzlZSk5aWU1NZHQ2aEtyZjdpaTAwQXNjZkgzSEpFVUdISTlLM2pYNmFWeTV2aTh2VGl1ME94T2xiLUJ6TWtI?oc=5",
-      "s": "녹색경제신문",
-      "d": "2026-11-25T01:42:09+00:00"
+      "t": "내일 금리인상 확신하는 단기금리…골드만삭스 등은 동결 전망",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83eFZTdWY0R3g5amQ3XzNBTDR6Y192X3JPaE9DOUpmM21zV1Q1Vm1UZFV0YkNiclQzaWxyTjQwNUtQLWFibTJSU1g5MWQtSWRwMWtrWWY2SWczdzRsWkZjN2xPWkxKSDFtMUJ3cTFha20?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T02:02:05+00:00"
     },
     {
-      "t": "“이번 수시서 반도체 계약학과 지원 늘고 의대 쏠림 완화”",
-      "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODV1ZVlwTlhkUTZRODhDSlp5dUQ0OGQwTU15bXFqSE5YWEVTelZ6V1M3NVJwN085Q05fWEpmZjNhZkVMZ0JLc1g1MUZDWm4tUzkydWVyemluZ0FHY0Y0Si01Y0NkVnh5V3V0aE1HRkJmLTdmSEMyXzJJSExWanRwU1pOWDZ1NEpocXp0RktoSS0wMDg?oc=5",
-      "s": "국제신문",
-      "d": "2026-11-25T01:33:00+00:00"
+      "t": "웰스파고 \"젠슨 다음은 케빈…연준, 침체 자극할 수도\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbmdQT0FCWWV4WFJzZUhYRUVpaDk5RTdiN2FBaHpYaTNUSkhRSmJHT09qeHY1QndJSGdSUjR2amwtV1hwMmJEX3Z1Wi0tUlZJMVdqb2hQVlcyTjFQVzdDRHUwQjJWUDZvVjJJamVMN3M?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T02:00:01+00:00"
+    },
+    {
+      "t": "피치 \"연준 12월 인상 뒤 내년 동결…채권 금리, 올해 고점보다 완화\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZFhFNHN0NTdKNTZIbWo5U2tCT2xYME9aRmY5dE40dDM5YnlGTjExZFdyZUlDeUNMcU5tbnVhSk1FYU93eEY2M2hKXzhqRWo5Tjh0M0pabmFfQy1SNGtvdVFveGdOTFF3N0YwbkN5eWZSQQ?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-25T01:59:13+00:00"
+    },
+    {
+      "t": "국금센터 \"연말까지 외국인 배당 23.4조…환율 일시적 상승압력\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FenVlOXNxamxvV0pJaW1SSHVtR2hMOGY4cjhFQ3JwdV9XZVl1TkFxbWZLdkZJUE9zZl9qcXI1VVQzbGl2TXpjSElKbDNjVXZYZ1JRQzJoY0xzRnVmYkJqWlV2SUt6M0NfVnJoUTFkM2I?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T01:58:06+00:00"
     },
     {
       "t": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrRlFFcHdRWXQydTN6M1NicHVFbUYwYVNIdFc4NzRKZWZVeUY5aTNCZ2N3cV9mcDBVR0dERlVBX1YzNkQzcXM4ak5meEdkejM5dUdabjEzaXo3dDZJdVN6TmtBRDRBQWMxWmtMV2IyUjlCZEJEajBDdGFTc9IBgAFBVV95cUxNaEpyUU1icEhuM2IwLXNjLU5VR3RhV3pWUjZ2TW1EeFVUQU15OHlTRWVGbHFBbVRfbmZsZGY4cDVMWW1YdW1oTUZJeFRORnVTN2NVZVJvRUV3dlJ4aXVWT3lTX05fZ1RWTnV0aUlQTE5yaXhyaGVxN09RV0NjY25UZQ?oc=5",
       "s": "뉴데일리 경제",
       "d": "2026-11-25T01:28:00+00:00"
-    },
-    {
-      "t": "트럼프, 또 추가 관세 추진…한국 2.5~5%p 인상 전망",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZXUtS2NvWm81SW5qWk5FcWdHOVUwT1EzYVlPVUhHSFZZd2Vnd3I2SW9aUUJ5Nkxxejh5RTVFWEJSdmdZMlZ6bkNNMVdLV1VKTVl6UlZCYXgzcnY2Q3E2bjhQY2c5VFEzYU9IYzlqSQ?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-25T01:23:00+00:00"
-    },
-    {
-      "t": "UBS \"증시 변동성 속에 채권 비중 늘려야\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUWdRZkdLdGNUZUVTVEZWUURFMlBUWHdEaHFBd25MX1o2ck5HV3FSZGZfNzJzallUZmpaa0ZvMFREa2RscjM3S2FmdFpVVnF6QTNGUjZLU1Vwc3VfLS1yUGZ6SmNYSThnN0hrRklZMnfSAXRBVV95cUxPZld2SEhsNXJrR3RTelVBZThGb0c5NHYwRHhqa0x2UHVZMERRdkw4N2duVk11M1h6dHlzdzJHR29pcmNGQkhyNWNHMHNTMDRoWEpHX3BINmtLNXA1YmpHdFVGdDNLTlNYVmlSQlVIZVJOeXMtMg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T01:22:40+00:00"
     }
   ],
   "asof": {},
