@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T18:01:01+00:00",
-  "quotesAt": "2026-11-25T18:01:01+00:00",
-  "newsAt": "2026-11-25T18:01:01+00:00",
+  "fetchedAt": "2026-11-25T18:16:01+00:00",
+  "quotesAt": "2026-11-25T18:16:01+00:00",
+  "newsAt": "2026-11-25T18:16:01+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7121.21,
+    "spx": 7141.82,
     "nikkei": 57011.62,
-    "vix": 29.85,
-    "krw": 1344.1,
-    "gold": 3537.8,
-    "wti": 83.58,
-    "dxy": 103.62
+    "vix": 29.86,
+    "krw": 1343.31,
+    "gold": 3561.2,
+    "wti": 83.7,
+    "dxy": 103.61
   },
   "daily": {
-    "spx": -1.6,
+    "spx": -1.32,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.23,
+    "krw": 0.17,
     "dxy": -0.19,
-    "gold": -0.68,
-    "wti": 1.86,
-    "vix": 13.24
+    "gold": -0.02,
+    "wti": 2.01,
+    "vix": 13.28
   },
   "news": [
+    {
+      "t": "다시 시작된 '트럼프 관세' 드라이브.. 美 민주당 막아설 가능성은[이상은의 워싱턴나우]",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15NUh0X3NSRF9NUjRCYmZZbXlYUnBIYmpGSV9oRjBjSGtWMHdWNEZVVVMtODRCTS1fdWN6QWxoSWNqeUpWQ25Rd3BTWG84M2NBbU00dUxXMGtSdw?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T18:05:17+00:00"
+    },
+    {
+      "t": "美 연준, 물가 원인 놓고 시각차…공급 충격 3분의 2 vs 수요 압력",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ01UOGJOTWJjWTlCcDEtUk5oYnYtQmJZZHNOYVcyUXVjcjg5SDVFWXlNckgtc05ma3VpT1l4di1wa3pPcThFZmIxRVVYY2RDQjRvd2wyY2duNFp0S2FRb1o2azYtTV9TaFcySmVpUGNUR3o2MGRuLXI2SDIzWWhyZXNWazhVRmc0?oc=5",
+      "s": "글로벌이코노믹",
+      "d": "2026-11-25T18:00:00+00:00"
+    },
     {
       "t": "EU, 미국 ‘과잉생산 관세’ 반발…15% 상한 준수 촉구",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNVlGUlpDVEczNVlyWnFjRmQ5YzlQblg4M2plY3MtVzRwaF82UHdfU2VqMi12MDZKZWl0alN3THVuOWFST1pXcE41bmRmSUVZaE1WX0l2RDdWd0U?oc=5",
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RT3B4WkktMTZveDg5dF9TMklLU0k0dkk0NGgtZWJRWTN6Zmk5Mm95RjVCZS1ITlNYR3V1cmJROU5ZcDRtVjExZjdHeHdVOXF6RUFTVXE1R1NWcVk?oc=5",
       "s": "KBS 뉴스",
       "d": "2026-11-25T16:45:00+00:00"
-    },
-    {
-      "t": "美 USTR 대표 “韓 정부 지원·인프라 계획, 과잉생산 관세 근거”",
-      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWkwVGpJaDE5NEFncE4yb00zN1MyQjZmUzVBbmZEUVktQmN0bkh2QktJSFpfNDZhZ2l4b1JqWWZWWFB6akVoNWpaWl9nWTJhNjc5NWhnakpHS2hjbHFqZjFNYWl2YVVET2poX0otNlMyT0Rac2o1SHN6a1JmUGcxQ2xlelUwUEJlNm9pOFFEdTN0X0lCdWsyZTRGanFoZ9IBsgFBVV95cUxPbkdfSFIxRGM0Z3NqSXpZdHI0ZTRyYU13XzBUNFpGNzdyQllUc1l3b2kteHdUSHgtdlUtaUlreXNBZ0dKMm55Q1BzNlVTMWNnWWtHdlpFWGpSLVJoZ3RrVk5Zd3lzOW9mTTBUQ3hRR1haOFlZYmNjY1k0VkRBOVlfOF9abG9jOWFJMVlwcFQ0UHpCNGUyTFduU1pvbEFuemlxSzJMYXBjNjIzMFRCaEFRc05R?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-25T16:41:00+00:00"
-    },
-    {
-      "t": "美 과잉생산 관세, 韓 '15%' 지켰지만…협의 불발 시 日·EU보다 높은 25%",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00b3VQWTdhZS05dVRWdWw4U1FOVVo3UkNOQ3d4QUFvcWh4aTIyY3lGODRQOW5HakROcy1YSlhqajNmOE5WOEd6VjVHNnVEdw?oc=5",
-      "s": "전자신문",
-      "d": "2026-11-25T16:40:39+00:00"
     }
   ],
   "asof": {},
