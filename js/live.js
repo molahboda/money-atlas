@@ -1,29 +1,47 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T12:01:02+00:00",
-  "quotesAt": "2026-11-25T12:01:02+00:00",
-  "newsAt": "2026-11-25T12:01:02+00:00",
+  "fetchedAt": "2026-11-25T12:16:01+00:00",
+  "quotesAt": "2026-11-25T12:16:01+00:00",
+  "newsAt": "2026-11-25T12:16:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 30.29,
+    "vix": 30.72,
     "krw": 1343,
-    "gold": 3543.4,
-    "wti": 81.61,
-    "dxy": 104.02
+    "gold": 3525.7,
+    "wti": 81.73,
+    "dxy": 104.01
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.15,
-    "dxy": 0.2,
-    "gold": -0.52,
-    "wti": -0.54,
-    "vix": 14.91
+    "dxy": 0.19,
+    "gold": -1.02,
+    "wti": -0.39,
+    "vix": 16.54
   },
   "news": [
+    {
+      "t": "'반도체 용수' 정수량 증가·송수관로 신설 추진",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyamxaVk82TnlYT3FvTWdHNjY2MmE4M2ZWaTJEbzRWS1lqMXMwd1VObXVhTFliSEJVdFY2UndUMmVuQk5wUGRQQVJ2WUJiUmh6WDQxNHBGSEpzSE1IRDRKZ19KRGNZNEU?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-11-25T12:11:45+00:00"
+    },
+    {
+      "t": "수출 1조 달러 시대…美 관세 변수에 촉각",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRHhBMTItYjItTTRoeFBvUWc4NTg3S0d1YUFaUnkzQXZ5b3lHaVBmQVR5cVhnUk11a1Ixd3o3aThSUFdCdWtNRnYwWW1wTUVRZ2tYYkpoaDREYlRCS2p2VlZ6SEVrbDg?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T12:07:00+00:00"
+    },
+    {
+      "t": "또 사이드카…갈피 못 잡고 요동치는 2026 코스피",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13TE5EMmVKOXpBczVZV0c4dDhrRXl4MzlTMWZJay1EaFZkdGtXdkVpR0hkVTVZeElBUHl3cDB1dkIySVY3Qm9qOU1ub29kdzJ3UGVjTlBQaDhTLWM?oc=5",
+      "s": "KBS 뉴스",
+      "d": "2026-11-25T12:03:00+00:00"
+    },
     {
       "t": "코스피, 6%대 급락…젠슨황 효과 하루만에 소멸",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50SHZPS2hudXQ1WDMwS3Q2LUVtX0xaM1ZTZW5YZUp0VWswLWZZVDJuYW05OUUyUld4WjhBR3dab1Y1eHNDcVcxU2NHcDZTNHNaV01RN2JzR2Y2QTJZZjBGMzh1cENEUW8?oc=5",
@@ -31,10 +49,22 @@ window.LIVE_DATA = {
       "d": "2026-11-25T11:41:00+00:00"
     },
     {
+      "t": "\"젠슨 황 복귀\" 개장 직후 매수 사이드카…\"반도체·AI 인프라 반등 간다\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJd2RrMDVXQWJpZzFXcWxucUVZeldGaXh4RnZpWjl6MW13c2taMEE5R2JDTkJpZndJc3Mwb3BuMWhwWmhZcTZFYXdNdHhqUUp1MFh5ck81WHJtVFpqcHFKMUxXN3p2dGE50gFuQVVfeXFMT2htUmxfUzFTZWlQbTc2WjZ1SlJDU2Nac05mQVdWelVSSE43VDduTFhkaWZmYVJSb2thLWJKT3J5cnYzeFg4eEVHdjZDVDVramVrYm5JVGF4b1IzRXhMR0w0Ymc1dGV4NExUT01KT3c?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-25T11:27:28+00:00"
+    },
+    {
       "t": "트럼프, 또 추가 관세 추진…한국 2.5~5%p 인상 전망",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZXUtS2NvWm81SW5qWk5FcWdHOVUwT1EzYVlPVUhHSFZZd2Vnd3I2SW9aUUJ5Nkxxejh5RTVFWEJSdmdZMlZ6bkNNMVdLV1VKTVl6UlZCYXgzcnY2Q3E2bjhQY2c5VFEzYU9IYzlqSQ?oc=5",
       "s": "한겨레",
       "d": "2026-11-25T11:15:00+00:00"
+    },
+    {
+      "t": "반도체 호황의 여파…삼전닉스 예치금, 주담대 금리까지 밀어올려",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ld05YNElZUnFsbW9fT2w2dnFqcXg5blUxd2NRQjhwcmNBeG5KSWxpMXUtX1o4RnJnSjhfbjAyWGQxZ2xXTXRjWUF4TU5tQl91Si1PRUcyTVIwZnF0c1hORk1jSTFtUkU?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T11:14:00+00:00"
     },
     {
       "t": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkUXlmMmtCQ2hIdW1PdTk1YnhvQl9hY1VxYnMzbnZFazJpVW16Sjg4U29IVm5QbVpPVzliMjc2R0NoOWM3NXZBRUJoRE1VR3ZCWmc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-11-25T11:09:49+00:00"
-    },
-    {
-      "t": "코스피, 6% 폭락하며 ‘5천피’ 반납…‘젠슨 황 효과’ 하루 만에 끝나",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmczMyTWlfZFdLY3RUX204R3BZNnJUVHBTVVdWSXVmZzYtUW9kTDg5S0ZJaVE2Wmo0cHh3ZEkwMGZPWmdjaWpwY3h5M1ZtdV8xNUtoOUlST3VFQVR0UHRUWExxWE1mUTY4MUlQSnJ2emU5Zw?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-25T11:03:00+00:00"
-    },
-    {
-      "t": "젠슨 황 효과는 어디로?‥하루 만에 돌변한 증시, 6% 급락",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vV1lkTVFacjRoR0QxdDMwRk1CMHh2SXVQUU40cTdyWE1HbEY5bHNWUUxiMDNPOUJkc0tITjBBQk9PbzZoR3UxbS15N3BzRjFUUkw3ZWJDYmhUam9XZUJqMHZ3Um0xUmI3SmxVcVBuT1dudzliMXNRUNIBeEFVX3lxTE5jOURpM2hwRkVBYUppQThhTWZMY3FySHNjdTE3dHFQM1NaRDh5cE9vOThWVUctVml0MVNqTVI5c3NsLWNRSFBWM0VRNm9CV3Y5N2xTSzJWTms3bU93NWNESEdEcUJMWTlvUXNiX3BGc3lnMURidmZEMg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T10:52:14+00:00"
-    },
-    {
-      "t": "코스피 4,700선도 깨졌다...삼전닉스 나란히 급락",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xbEpyNHJZcE1BSkRoMVE3bWxDSVQxa1lHek5nRkdXSnd0Y2JYd2UzdjhWc29oSzV3Sjk3aE1HNXpEQ0pWYk43c1R4OGJZeW9GSjY1RUl6YWNqSkcwcmc?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T10:50:00+00:00"
-    },
-    {
-      "t": "李대통령, 은평 전통시장 깜짝 방문…붕어빵 사며 장바구니 물가 점검",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BeUE4c25CNXlKV2s0c2pMUEdyc0VFRm10dzA4a0VlYTdwbnhrVzZRMUFybWZ0N1NTSU5RMWd1NWkwVUJYakNhaXBERVhkWENKZDJyeG1QeW05cW9mR0tkRlZSN21oSkEtTWF2T1dGSWs?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T10:33:12+00:00"
-    },
-    {
-      "t": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-25T10:32:44+00:00"
     }
   ],
   "asof": {},
