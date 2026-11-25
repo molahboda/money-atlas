@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T01:16:02+00:00",
-  "quotesAt": "2026-11-25T01:16:02+00:00",
-  "newsAt": "2026-11-25T01:16:02+00:00",
+  "fetchedAt": "2026-11-25T01:31:02+00:00",
+  "quotesAt": "2026-11-25T01:31:02+00:00",
+  "newsAt": "2026-11-25T01:31:02+00:00",
   "quotes": {
-    "kospi": 4777.32,
+    "kospi": 4757.08,
     "spx": 7201.09,
-    "nikkei": 57188.53,
+    "nikkei": 57297.92,
     "vix": 26.36,
     "krw": 1344.78,
-    "gold": 3544.2,
-    "wti": 81.71,
-    "dxy": 103.85
+    "gold": 3534.1,
+    "wti": 81.49,
+    "dxy": 103.89
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 1.46,
-    "nikkei": -2.48,
+    "kospi": 1.03,
+    "nikkei": -2.3,
     "krw": 0.28,
-    "dxy": -0.45,
-    "gold": -2.94,
-    "wti": 1.92,
+    "dxy": -0.42,
+    "gold": -3.21,
+    "wti": 1.65,
     "vix": -0.98
   },
   "news": [
+    {
+      "t": "UBS \"증시 변동성 속에 채권 비중 늘려야\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUWdRZkdLdGNUZUVTVEZWUURFMlBUWHdEaHFBd25MX1o2ck5HV3FSZGZfNzJzallUZmpaa0ZvMFREa2RscjM3S2FmdFpVVnF6QTNGUjZLU1Vwc3VfLS1yUGZ6SmNYSThnN0hrRklZMnfSAXRBVV95cUxPZld2SEhsNXJrR3RTelVBZThGb0c5NHYwRHhqa0x2UHVZMERRdkw4N2duVk11M1h6dHlzdzJHR29pcmNGQkhyNWNHMHNTMDRoWEpHX3BINmtLNXA1YmpHdFVGdDNLTlNYVmlSQlVIZVJOeXMtMg?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T01:22:40+00:00"
+    },
+    {
+      "t": "일장‘황’몽 코스피, 하루 만에 5000피 반납, 나흘 연속 사이드카",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aTJ3ZmFsamVweHJ5Qzc4RzFrX1dzTl9jN3laX09zOXQzYmgtNjA3azVEM0pZbUhfWWk4R0NOTEwzNlVXckpJZWhvaDQwLVVEWUZxMXBB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-25T01:21:13+00:00"
+    },
+    {
+      "t": "의대 증원에도 최상위권 ‘의대 올인’ 주춤... 반도체 계약학과 지원 2배",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Xa2hsaFlGQjJMeXZtVkdvQ0lOczNfR1AtWXY2cTZja0JnckEwSG5zTzdUTXhkQ3ViMFFfS3NJamE5dFFoLVVZbm1lWThFTlFnb2txdDRB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-25T01:21:02+00:00"
+    },
+    {
+      "t": "금리·AI 수익성 우려에 관세까지 … 여의도 족집게 “반등 시그널 이때 나온다”",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rWTE3clF0OS1VS0pCa1VHZ2JybmFWM250YngzWklGX1M3aUdDQ2NaTnYtMVVPYUF2X19kMnMzQUVmOXY2SnFiVDNZczFCbXJZalE?oc=5",
+      "s": "매일경제",
+      "d": "2026-11-25T01:20:55+00:00"
+    },
+    {
+      "t": "중국산 전기차 추가 관세 움직임에…中왕이, 英외교장관과 통화",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QYXVqRjZRZlo4bzhBajZ3XzZxVlVHSnVVNmxydDBRVF95N29ncUg3ejNRZHZpMHVGVURwZ20zMFJsZXA1Y2t1Q3JnNkxfbzlrRUJDZlVCWl9PRk3SAWBBVV95cUxPOE1reU9IWGl1YkFGZlUxSDdWcnc5TnRGRjluODlXVlE4YmJzNGJBa01yR042cGk2UmtITjVxd25vWV9vd05NQXpzSHVWa2FIMjdkNTRTVHFZUURhQ20telk?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T01:20:20+00:00"
+    },
+    {
+      "t": "부산세관, 제2회 관세행정협의회 개최",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RV1l4S1dOQ0o0aUZ3U3dpTm4wTHRzSEc3LUVZcTB0MHM3cTV6bkZVd2g2cEEwQkROMW9nUk0wQ3dIN1FHZjJlbVAxUGxkV3dCaklMUUkxc1VKdjlKcDZ2SzBMZy0?oc=5",
+      "s": "한국세정신문",
+      "d": "2026-11-25T01:19:30+00:00"
+    },
+    {
+      "t": "美 '과잉생산 관세' 이르면 오늘 발표…\"韓 15% 유지 예상\"",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sc1ZuYW94U3I5TXV4RGMzeHRvVDNzaUR4ejEzdGtsdzdubmJjV3JNZFVnTERrSWhmaW1MbDBJWHlYLTh5cXd5eFdUa21ZZ25KTVNkMVFNQlhRdkE1TmlXeGFTUEE?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-25T01:17:59+00:00"
+    },
+    {
+      "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZSEJTc255QjNMellnZ0xWMFp4MlNUUkZRcnozSEFOSzUxckxxckY0YnBRYndPS2xhZzNSSVUzSGVnRWlVeUc2UGZPQTV5NzNEdFJpUWljeVljWU0yV0d5UXJ6cU43eTkzQzBydE5uckZ6dw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-25T01:17:37+00:00"
+    },
+    {
+      "t": "[뉴스초점] 美 ‘과잉생산’ 관세 예고…’젠슨황 효과’ 제동",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UYnZockljYnMxeGlmM0w3U0VGQW5QQWN0YWRkc3VBUVdldFZOeElpUjVLT2xuUWFfTUVzLXhUbTZxOVFCUnlaMl9YaTc2eFJwS2ZiUU9qdU5EanZOM29kTDJXZldRN2c?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T01:13:00+00:00"
+    },
     {
       "t": "트럼프, 한국 등 16개 경제권에 추가 관세 추진…한국 2.5~5%p 인상 전망",
       "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZXUtS2NvWm81SW5qWk5FcWdHOVUwT1EzYVlPVUhHSFZZd2Vnd3I2SW9aUUJ5Nkxxejh5RTVFWEJSdmdZMlZ6bkNNMVdLV1VKTVl6UlZCYXgzcnY2Q3E2bjhQY2c5VFEzYU9IYzlqSQ?oc=5",
       "s": "한겨레",
       "d": "2026-11-25T01:13:00+00:00"
-    },
-    {
-      "t": "[E슈탐구] 첫 정산 앞둔 석유 최고가격제…물가 효과에도 ‘출구 전략’ 절실",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Za0Q5RjI0bEFmWUtCcFoyWDF5alNmTnhmX1I4b2FGRzROcTJpXzY3WGNVOUlOMzlsMnVuSS1xTTVGdUloUGlSZzdjX3hlQ0hlTHBwaWYtcF9VekcxTWc?oc=5",
-      "s": "기후에너지데이터뱅크",
-      "d": "2026-11-25T01:10:03+00:00"
-    },
-    {
-      "t": "코스피, 4~5%대 급락…개장 8분만에 코스피 ‘매도 사이드카’",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QZU1scFBKNzRiYTl6d3F4QndyWU1YYm5CMFZibHFBUG9IZ2JhbVYtakljdFpkcVBUcl9qWnVDbE9ReG1PTHlyQl9lMW8tME9ySjJaZ2w2TlFkNHM?oc=5",
-      "s": "강원일보",
-      "d": "2026-11-25T01:05:21+00:00"
-    },
-    {
-      "t": "하루 만에 뒤집힌 증시...코스피 5%대 급락, 매도 사이드카 발동",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcmxTdEJDbU0yOVE5NVNldTBDc3hRd214aVBTd1pXOHNkeWJzVG15TWk5SDlzQ2xWY3k1YmxxbmRabG5aZ3dtV0EwTjZuRFVDNUhhalAxQl9oTENWb2Fabw?oc=5",
-      "s": "KBC광주방송",
-      "d": "2026-11-25T01:05:01+00:00"
-    },
-    {
-      "t": "S&P500 선물, 기술주 약세 흐름 속 하락…美 국채금리↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVGI3OU1WMlNRRk1qVGFyREJRRFdQalNNQ0hJODNRLWRod2dBY1A2b1dPcGxuU1hmYUJ3UHBYZTZoczZKTXV2TmtYNHBiU0M2VDlhS1lUb2xzRzdVTEdDRWIyMkNLeWhkV1YwZ0lFV1U1QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-25T00:59:18+00:00"
-    },
-    {
-      "t": "[코스피] 5000 회복, 누가 살렸나 … 증안펀드보다 'AI 황제' 효과",
-      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6Zk1IbnV1RlY0LXRUbDdmaVY3SWpobWpXcEVza1AzbVF1SU9zWFdKZTBPdTY5M1hLSTBwYlBWbHkxdHpjZE1Zd1FuZXZ1ckl1VFRLeGJ4Uy1JSi13R2dMSjUzT2F6b0puSVk1Nw?oc=5",
-      "s": "이코노미톡뉴스",
-      "d": "2026-11-25T00:56:57+00:00"
-    },
-    {
-      "t": "[신윤우의 외환분석] 반도체 롤러코스터와 숨 고를 이유들",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wLWVwRmE1bGZEZDNwOGNGeEcxTnA0bnB3VktsU004SGc1YlVoUkRfc1BfYWxBUkR4akhKYkp4cUxpa1c2U1VRTDlkUjI1dUwzR0J0U2xGRDlBaFdOV2d1YzhWdUxldjR2cmk0cXNLMVo?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T00:50:26+00:00"
-    },
-    {
-      "t": "월가 \"AI 수퍼사이클 건재\"...내년 美증시 두자릿수 상승\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tVk5OQnB2TExycEppS19tZHM1Q1RPX0k4cHpwOUtGa1lNeF9GTHdscXhNZTF6U2Zoa09LOUxGMjBXUWNORXJXbDgwY3l4UDlPcWMtQzk3bzJ0dmtj?oc=5",
-      "s": "티제이비",
-      "d": "2026-11-25T00:49:48+00:00"
-    },
-    {
-      "t": "오늘의 증시",
-      "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TV3JZMG5qWFJOc0FJM3haUlhuRGxYSkMzTDNuVzdaNFNuZ3FaS3FJU2RldzV4RGtLWHozUVUtNGxYUnotek9xVmIwUDNkOXQ0YjJqSGF6ZnRiWC15TENPc0RBRXI4QjNueHhUVGRDeXNBS2xyVkNj0gF3QVVfeXFMTzBCLTI3N0NDQUNlNjU4Nzg0UmtxQUhaZWZZY0VlQ3JzSS1yeWlJV3lWQkhIRHk3bXFKQVdlUjF0LURJYUh4Rl9lcGhqbjU5NGR1WFZPREU2N3k2STVqbDR0WEtUazRGVUNMSnhsNkx5LWh1R0VfRzg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-25T00:41:58+00:00"
-    },
-    {
-      "t": "코스피-코스닥 '하락', 달러/원 환율 '상승' 출발",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80UFNLdUZuNDRUb0ZIN2g1cHA4Zk9pelNicTFQVnZOSEJOT1pLZjRuOWtSbXNKUkpmWVg0bjVOUm45MnBzREZodGtsWHlGa1AzYjBybzlqcWhsM0M1?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-25T00:41:00+00:00"
     }
   ],
   "asof": {},
