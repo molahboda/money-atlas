@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T16:46:01+00:00",
-  "quotesAt": "2026-11-25T16:46:01+00:00",
-  "newsAt": "2026-11-25T16:46:01+00:00",
+  "fetchedAt": "2026-11-25T17:01:02+00:00",
+  "quotesAt": "2026-11-25T17:01:02+00:00",
+  "newsAt": "2026-11-25T17:01:02+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7007.96,
+    "spx": 7030.87,
     "nikkei": 57011.62,
-    "vix": 33.09,
-    "krw": 1347.79,
-    "gold": 3479.1,
-    "wti": 83.06,
-    "dxy": 103.85
+    "vix": 33.66,
+    "krw": 1346.58,
+    "gold": 3479.7,
+    "wti": 83.17,
+    "dxy": 103.76
   },
   "daily": {
-    "spx": -3.17,
+    "spx": -2.85,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.5,
-    "dxy": 0.04,
-    "gold": -2.32,
-    "wti": 1.23,
-    "vix": 25.53
+    "krw": 0.41,
+    "dxy": -0.05,
+    "gold": -2.31,
+    "wti": 1.37,
+    "vix": 27.69
   },
   "news": [
+    {
+      "t": "美 USTR 대표 \"韓 정부 지원·인프라 계획, 과잉생산 관세 근거\"",
+      "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWkwVGpJaDE5NEFncE4yb00zN1MyQjZmUzVBbmZEUVktQmN0bkh2QktJSFpfNDZhZ2l4b1JqWWZWWFB6akVoNWpaWl9nWTJhNjc5NWhnakpHS2hjbHFqZjFNYWl2YVVET2poX0otNlMyT0Rac2o1SHN6a1JmUGcxQ2xlelUwUEJlNm9pOFFEdTN0X0lCdWsyZTRGanFoZw?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-25T16:41:00+00:00"
+    },
+    {
+      "t": "美 과잉생산 관세, 韓 '15%' 지켰지만…협의 불발 시 日·EU보다 높은 25%",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00b3VQWTdhZS05dVRWdWw4U1FOVVo3UkNOQ3d4QUFvcWh4aTIyY3lGODRQOW5HakROcy1YSlhqajNmOE5WOEd6VjVHNnVEdw?oc=5",
+      "s": "전자신문",
+      "d": "2026-11-25T16:40:39+00:00"
+    },
     {
       "t": "미국, 과잉 생산 관세 근거로 '한국 정부 지원·인프라 계획' 지목...'메가 프로젝트' 지목한 듯",
       "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KS2RqampGLWY0MzY0SVlBbmtqd3Z6NnpCdTFjRjg1el81dmpyampYOU9ha0dhNDlKS3RVN3E2Q1p4TU1jZ2JsVTAwazN1QllKLUN3UGJCS0pETHZLWmc?oc=5",
@@ -69,18 +81,6 @@ window.LIVE_DATA = {
     {
       "t": "국제금값 3531달러로 추가 하락…美 물가 발표 앞두고 경계",
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGVkbkdZZWlWUGJzVXVzazVlTEFzTXVZU2c2TGpIcnJrOXVzeU5hNFNMY3hfVTZrWUp3RU5aY1dVb2FiZG8xVXE4YTlibmFnYjIyOHVzdHNvb2ZBLXpvb3pFc1B4d2k4VTluVDY0QTdiQXl0M2htWGt5a0F0TzlFaFlzaGtuN2M?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-25T16:00:00+00:00"
-    },
-    {
-      "t": "美 10월 PCE 물가 3.8%↑… 12월 금리인상 굳어지나(종합)",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTGhocjdGUlNmdndiUkZHbldscHlDbmw3TE5CUThGQzF0ZXRxRDZVOEtEa016akxvdkY2WE9qczVrVk03VmpWT082ZGZKSlc2bkp2Z3gxU3BrWmZDOUlIYkM0YV90SHgxb0E?oc=5",
-      "s": "천지일보",
-      "d": "2026-11-25T16:00:00+00:00"
-    },
-    {
-      "t": "美 달러화 하루 만에 반등…물가지표·관세 변수에 다시 강세",
-      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckxpcjVuaExhMWxSS0lmWjZrMVN2TS1EWFp5MU5TQW5XU1VFOWZUbTZXXzJoeV9TSExKRGMzV25odDMxU3dJZVNqN0pid1ZCNW80VDRONXAyYXFWakNKNUpzYk1KSEkwTXBHNEJRYUNNN1FGVm5vZ0hpdGtCWTl4MUpYQ2ljQ3hj?oc=5",
       "s": "글로벌이코노믹",
       "d": "2026-11-25T16:00:00+00:00"
     }
