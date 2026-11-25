@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T03:46:02+00:00",
-  "quotesAt": "2026-11-25T03:46:02+00:00",
-  "newsAt": "2026-11-25T03:46:02+00:00",
+  "fetchedAt": "2026-11-25T04:01:01+00:00",
+  "quotesAt": "2026-11-25T04:01:01+00:00",
+  "newsAt": "2026-11-25T04:01:01+00:00",
   "quotes": {
-    "kospi": 4717.3,
+    "kospi": 4739.46,
     "spx": 7201.09,
-    "nikkei": 56790.12,
+    "nikkei": 57024.61,
     "vix": 26.36,
-    "krw": 1344.58,
-    "gold": 3552.2,
-    "wti": 80.88,
-    "dxy": 103.93
+    "krw": 1343.86,
+    "gold": 3549,
+    "wti": 80.74,
+    "dxy": 103.97
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.19,
-    "nikkei": -3.16,
-    "krw": 0.27,
-    "dxy": -0.37,
-    "gold": -2.72,
-    "wti": 0.89,
+    "kospi": 0.66,
+    "nikkei": -2.76,
+    "krw": 0.21,
+    "dxy": -0.33,
+    "gold": -2.8,
+    "wti": 0.71,
     "vix": -0.98
   },
   "news": [
+    {
+      "t": "외인 추가 매도 코스피, 장중 6% 급락에 4700도 붕괴...반도체 9~10% ↓",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE52NjFJdmpFRjhWanlJSHp0Q1h4eDBLUm51QmVHaWMzaThGWGYtZkV3M2hGdE16d3JxSE15OWQwTmVzbDRJN0Q3SmxuWERHM1duQVBMLWdmUUo3bHNnM19BeEdCWURFVTgyZnJWeFJiUUUwdw?oc=5",
+      "s": "오피니언뉴스",
+      "d": "2026-11-25T03:52:01+00:00"
+    },
+    {
+      "t": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTGRfd1FPZWNRdkZ4VWFqQXNjOHRFZDZtZnZXd0dQbl9vRzFqM2g5VHVNdWN2LW1EX3RoTTNjaHF3Rk4wZDI3LWJtckxCR1h0bWc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-25T03:48:49+00:00"
+    },
+    {
+      "t": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yakxzRVlra292MUxsdzJwbGg1LXNrM0lkWVdlM2p2d2Ryb0V0MWFZS2VQYmROSTdxd1oxdFk3endFc2tGMmtsa1N5REs0cnFPNTBKZXA5aHNWWC1qaUFyVmRTd3V0VTNFRVFOa3dKOTdtU1ZU?oc=5",
+      "s": "연합뉴스 한민족센터",
+      "d": "2026-11-25T03:41:21+00:00"
+    },
+    {
+      "t": "AI 매도세 심화·미국 관세 위협에 아시아 증시 하락",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weVpEbnF0WXlqTnYzeGdrNmI2T0F6aWhmaXZ1OGZvUWZfYVhjdWxlTDRSSENmSGROSXdFRmU4UnJlakxNcWtCM1dWVllXQXVKNXVYZHBpV2NHOWtXTm95cGtaUURWUk43RmRBRFotQlg?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-25T03:35:00+00:00"
+    },
     {
       "t": "오늘의 증시",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vbjJVaElURmNNSV96TlROZXpFaFlLY0E0dkltUjNheXVuM3dlb09ab3pVTFUxbV9ya2h6ak5fUTVsTXhMZi1ka0FxZksxeW0yRXdLY0dqRjRDTC1YampIUkQwckdFS1NHdFFkeWVjOVVhdktxZThOMNIBeEFVX3lxTE1takVXMzRMNjhHY1BfOUp2VmN3c1dCblNXVTBMd3ZBNVEwZGhZUURDLTNGV1N0TnpKUWFNdTlRUEpLYm15YlplWGlweWN2RlA2aHdlUlZ4cmdqM0RVM2RQQ3RjdzVRSDEwNGRWMklzSE1UeGgwNnI5Qg?oc=5",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEtJY3JuanRZblY3d3ZsbmNYSm51S2diTVF2YjBacGROSE1VbkZFa0hlOUN5NkhBcEJRN3diVVR2dTdiSmlzTHZwbUtlRXBLT0dycVBoSS1rcFFBUXd5akNRUEdsZFU5eHVfbTVyaHFJaXhTS05ya0tuMm1VRU5QLTk4cFNpSDBNQVFTNHNB?oc=5",
       "s": "조선일보",
       "d": "2026-11-25T03:05:46+00:00"
-    },
-    {
-      "t": "가계대출 금리 35개월 만에 5% 돌파… 주담대 14년 7개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmRKNEl3QUNWRG5qM2NUV0szZ282TXRpeUJhOEYyTV9fNGhZTGFVMG5rNW9ZX3VYS0pIQkpVSWN0akJMd1hEQVlRVjF6ZXBBRjBiMEtYek1iS2R0eWZCMzBFaVNJY2dEQTdIek1aVEVRR1dDTmNQUWtOSWdQTUN3S1pvQlR0Z9IBmgFBVV95cUxQaExIZndFOXJLdjVBNVF5NkU5dXVnejJ0VmRkYlpOWXM3a2d6Qk1mdVA3REc1clRTdVdCWHl3Tk40VDNPeHViNThmYWtGUmdkY2tJNEtoU2hnd3AwN1Y4LTczZHhOSHpKek9uelo3Y1drZU5qUmRtUUlXZUI4bExqanVaQUF1d3doTEhjbXZrWlQ3NUV1TXpSdm53?oc=5",
-      "s": "Chosunbiz",
-      "d": "2026-11-25T03:04:59+00:00"
-    },
-    {
-      "t": "코스피, 하루만에 5,000선 아래로…매도사이드카",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93T1Q0azJtRnRpMGVfQ3Bnb2FubG1wbE1TNDlnTkxkSEdoeTVEUDNCRzhjeGYxT2xkMU81eTVRZWtnUzVhck9QVzF5RE8wNlRDajFYUWUydWYwNGRJaGdBaWpUaDlYLTQ?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T03:03:00+00:00"
-    },
-    {
-      "t": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRWNRdk1DM242ZU14d3RsM2lBU0VMQXNaajJsZHhkR3VPV3dPenZ1UGd1VnI1WC1HZUFuOWdhdUpWS0lja2R0OHBqY3JOVTFYMENuc3o4UWNIRWM?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-25T03:01:00+00:00"
-    },
-    {
-      "t": "젠슨황 효과 하루만에 꺼졌나…반도체지수 ’뚝’",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNERRVThjcW5xd0ZYcTBUMDZhQ0VubTdaNGFzWDZFcmVLblhQV2JydmlWR0o1eDVXNmk2ZDdTX19HX0dBeGtTTmUwcjVmWmczRjVtNzl2Mk53bElPN1dfNkdpSV9raFU?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T03:01:00+00:00"
     }
   ],
   "asof": {},
