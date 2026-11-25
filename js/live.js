@@ -1,29 +1,53 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T07:46:01+00:00",
-  "quotesAt": "2026-11-25T07:46:01+00:00",
-  "newsAt": "2026-11-25T07:46:01+00:00",
+  "fetchedAt": "2026-11-25T08:01:01+00:00",
+  "quotesAt": "2026-11-25T08:01:01+00:00",
+  "newsAt": "2026-11-25T08:01:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
     "vix": 26.36,
     "krw": 1342.4,
-    "gold": 3522.2,
-    "wti": 80.63,
-    "dxy": 104.03
+    "gold": 3525.7,
+    "wti": 80.26,
+    "dxy": 104.01
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.1,
-    "dxy": 0.21,
-    "gold": -1.11,
-    "wti": -1.73,
-    "vix": -0.98
+    "dxy": 0.19,
+    "gold": -1.02,
+    "wti": -2.18,
+    "vix": 0
   },
   "news": [
+    {
+      "t": "5000선 반납 코스피 일장黃몽...엔비디아에 휘둘리는 韓증시",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4MkVqV3VmTExtcDdtT3gwaHc3MTIwS2VUWHAzWElCS0h5VUhfVno4bTlhdTEyUkYycFltTDVNTkIzTTZZYjNxTlFvWjdpVDhvUTlScnFB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-25T07:54:45+00:00"
+    },
+    {
+      "t": "엔비디아발 훈풍 하루 만에 소멸…코스피, 4700선 턱걸이",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVlMtbkpMTU5MVllrckNuNllsRzAwS3otSTFkREhPYW85eXhPeUdFelZMeVEtTTBWU1BQMEhlY0c0OV9qdW5RQ3BJQmZMLW9PV29CZUNrZ2Vwc0xMY1ZNLTVQS3dURXM?oc=5",
+      "s": "팍스경제TV",
+      "d": "2026-11-25T07:52:07+00:00"
+    },
+    {
+      "t": "이종배, 시장금리 하락 시 금리인하요구권 확대…'금리인하요구법' 발의",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ydnk2b0tPMkN3b3I4Rm1OWkV2ak1HYms5UjJNSDBoeU9vLUJGME5DR2Y3Q1NKbi1wd194UlhNTkFMN1h6eTktbmljdGpLSW5PeGhpUmFVM3NfbTVIX2VvNFNjM2Y?oc=5",
+      "s": "서울경제TV",
+      "d": "2026-11-25T07:49:27+00:00"
+    },
+    {
+      "t": "'젠슨 황 효과' 소멸에 주저앉은 삼전·닉스…흔들리는 반도체 대세론",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DamE4LWJoMkZ0a0d2dTVCSlRJYW50ZGEwblR0bE0xRGZvdHZhM2M2MzRlTTlBOE93a1ZublVCcVVfRktya21kVmhCYkJyYWdFeXE1QmdXRnNXX0E0RGFSQzQtUmJRbmZvNU95UGxR?oc=5",
+      "s": "한국일보",
+      "d": "2026-11-25T07:43:00+00:00"
+    },
     {
       "t": "10월 주담대 금리 5%대 진입…삼전닉스 ‘현금 130조원’이 금리 끌어올린다",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ld05YNElZUnFsbW9fT2w2dnFqcXg5blUxd2NRQjhwcmNBeG5KSWxpMXUtX1o4RnJnSjhfbjAyWGQxZ2xXTXRjWUF4TU5tQl91Si1PRUcyTVIwZnF0c1hORk1jSTFtUkU?oc=5",
@@ -31,58 +55,34 @@ window.LIVE_DATA = {
       "d": "2026-11-25T07:43:00+00:00"
     },
     {
+      "t": "반도체 다음은 피지컬 AI?…현대차·삼성·LG 로봇사업 투자 상품 눈길",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVGctdVFkNGNYeVh1NHVhWVZPejdhWk1zNDB0dzZLMXBrZG1MQ2hHenExSkRMVnFUVE0xMVM2WmlZd1N3MHdfWWtoOEw1TW1XaEE?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-25T07:42:15+00:00"
+    },
+    {
+      "t": "국고채 금리 일제히 하락…3년물 연 3.583%",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByc3VGRFB0NWdTaEQ5TDFJSTVpaDkyX04yemhFTmFXZEs1V3FJUHJkR0EtZVRLX1FkeGZ4UkQwRnZHcmNyMm1ERVNnQ0NQZmpaVl9kNzFmbElDNWs?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T07:40:49+00:00"
+    },
+    {
+      "t": "[외환-마감] 外人 주식 투매에도 '방탄' 네고로 보합",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ramdqUmxvSlFNY3JfQmR6NVYtckUtdDRndUxNY0lKdGxFUEJmRTE3WTFMYXR3NFlnNXAxZGJnV1hsUDdzaVNKb2JiNnpSa2pvQllIbTdoc1JGUnN4NF9odFZYWUswWkYzcUd6UWQ0Qjdsdw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-25T07:38:27+00:00"
+    },
+    {
+      "t": "`젠슨 황 랠리` 하루 천하… 코스피 다시 4,600대로",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ual9BZF9FbEFDVVQyZzRSci1IeFZkU0VXZDdyZGdfSE5iQWpwNENBaFFyNjFUOFdpTy1zcmV0RzlRaWZjd1ZFZzRpZlZKcVNxOGYtUTZ2aE44U2Jjd3YtYkVn?oc=5",
+      "s": "매일신문",
+      "d": "2026-11-25T07:38:19+00:00"
+    },
+    {
       "t": "반도체 지수 25%↓, 코스피의 1.4배…개인 손실 눈덩이 - 머니투데이",
       "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GU2NpbkMxSHd0MzJZZjZ1cWtsemt1U2xLSHpGcE9iMk9ZMWJtV2V3eGY3UkxXQW44Zzl0YnpPTW5hLVBzX3VWc1JJTlc5clpJVFlpaHNYWHFOdGt5NHZnRTRRRUllSl9BYXRqM3Y0VUFsTUNzcEHSAXtBVV95cUxQS3A5bG5QRnk4M0NjYWQwRl9lWFR3TUdwU0FlTU1ITllENXVqb0IxRE4zTjVOeGJPeWd5RUJPWGNUczFMdzZ0MlJGdzdqb2lwdlVKanNKQWMzNExMRkJ1MjhrRDYtRGhXdVBKVmVjZHAycmZ5QUpoLWpEelU?oc=5",
       "s": "머니투데이",
       "d": "2026-11-25T07:36:58+00:00"
-    },
-    {
-      "t": "코스피 6%대 급락…4,600선 후퇴, 전날 상승분 반납",
-      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YT005RnhKWUU5YmRGYzZtaHdXVDlueWdoREEwS1ltNHdWWXQtYkhVbEdUM3ZmT29CYUlkeFJ3aVZBS0ZFbFc4RllhVUNMdkRUdXRJTXlFTkE4c29NYW5lR2JOZ3VGUFJNQ3h4ajN3?oc=5",
-      "s": "전국매일신문",
-      "d": "2026-11-25T07:35:16+00:00"
-    },
-    {
-      "t": "코스피 6%대 하락 마감...하루 만에 '5천 선' 반납",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OaFU5ZWw4VU5vVVBLZmV5c1dfdHZhZkxCYlNkZGxfOFpBekVwc292dlFHS1pSS0hTT21uRUZ3RmhpZXRaS21xeldVOHRhWS1aTlFoSDB6bVJ4cVg1ZkE?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T07:29:00+00:00"
-    },
-    {
-      "t": "미 ‘과잉생산 관세’ 발표 임박…산업계, 해외 생산거점 촉각",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uV19HbVd0bEtPdDVUOWs4TWY0NVEtRXJRT1hkSUJaM0ljZllLd3FscVJqTHo2UWZwbnVsSkhXT09IZFg5ckJmdjRnc0xtdUpXczBCZVd1VGV2RXV1cVRlMg?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-11-25T07:28:00+00:00"
-    },
-    {
-      "t": "주담대 평균 금리 5% 육박…14년 7개월 만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4ta0NxeUlZcmVMRFdWVF9kMXN0cnctNnFrcGpCME1GQWNFN1NMN0NuVlByUzBDZkdtZF9SQ2M5NWhxUVJBaGNtb1ZISzdzV2IyZXl0Rzg5Rk1OaVhBSFRtYnBtd3k2SjhoNXlXaHRBRUh1cHhwSlHSAWZBVV95cUxPbDdkMEFnenVKRHVPSmFCUk1pTDJ2cndqZVNpRVNPR29icFF3eUxwQ2NFSjViN2pleTVVcmJtcWxuVjFsYWVFUnRnSnpCd1RUcWhMOHFCdGRxUm1ERk45YUQtcnN1SlE?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-25T07:28:00+00:00"
-    },
-    {
-      "t": "코스피 6%대 급락에 ‘5천피’ 다시 반납…‘젠슨 황 복귀’ 기대감 하루 만에 끝나",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmczMyTWlfZFdLY3RUX204R3BZNnJUVHBTVVdWSXVmZzYtUW9kTDg5S0ZJaVE2Wmo0cHh3ZEkwMGZPWmdjaWpwY3h5M1ZtdV8xNUtoOUlST3VFQVR0UHRUWExxWE1mUTY4MUlQSnJ2emU5Zw?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-25T07:28:00+00:00"
-    },
-    {
-      "t": "플루엑스, SEMI 정회원 가입…국제 표준 기반 반도체 공정 AI 해외 진출 본격화",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9neTBhSl9FOF9RbEF3dXY0eS1oOV9qNHdyUDh4UGNpaHE2S2lqTlg5Yi0ydGtjeHl6STNrX3A2WmFwdlZFNWNRdUJTNlhXZDJQQl85aEF4Ujl5TUhXbmJn?oc=5",
-      "s": "헬로티",
-      "d": "2026-11-25T07:27:08+00:00"
-    },
-    {
-      "t": "“외국인 투매에 속수무책”…코스피 6.2% 급락, 4690선 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wZi0tazEzR1pmVzB5VVNCSkc3TUtqMmw3alU3WFh3UWV4bUVRbnh0Q2tpSGNtQ2VwSkNrWkxrYmZwQXlJVUtud3d4MjgydXYzMExRdGY0UHJlbE52WmlsZDdDWW8?oc=5",
-      "s": "디지털데일리",
-      "d": "2026-11-25T07:25:50+00:00"
-    },
-    {
-      "t": "호남 반도체 용수 공급망 이중화…팹 가동 차질 최소화",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jVmlMdExldnZQVFlYQi1kYW1qanZkTFJQalVlWjBfd18zc0YtaWp3dm9wQXp4LW5oTTB3R1VmX3VqTC1penhfbzhYUnBVYklqVFlZamJHemsxSXE1eGppcTB4R3k?oc=5",
-      "s": "매일일보",
-      "d": "2026-11-25T07:24:21+00:00"
     }
   ],
   "asof": {},
