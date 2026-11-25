@@ -1,88 +1,88 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T07:16:01+00:00",
-  "quotesAt": "2026-11-25T07:16:01+00:00",
-  "newsAt": "2026-11-25T07:16:01+00:00",
+  "fetchedAt": "2026-11-25T07:31:01+00:00",
+  "quotesAt": "2026-11-25T07:31:01+00:00",
+  "newsAt": "2026-11-25T07:31:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
     "vix": 26.36,
-    "krw": 1342,
-    "gold": 3519,
-    "wti": 80.39,
-    "dxy": 104.04
+    "krw": 1342.4,
+    "gold": 3517.4,
+    "wti": 80.57,
+    "dxy": 104.02
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.07,
-    "dxy": 0.22,
-    "gold": -1.2,
-    "wti": -2.02,
+    "krw": 0.1,
+    "dxy": 0.2,
+    "gold": -1.25,
+    "wti": -1.8,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "롤러코스피 대응법…\"방향 맞히지 말고 반도체 분할 매수\" - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45NWNSVzhXTDVsVnhzMmgxcDA5aW1YYmU3ZTRMMTBWTjRWY2NqNjY3THVwZTBGU0JQaktzWXdzaVJENERLN3hQbUEtVVNqQmlIeXVsRUhfUkcyamw5NllYMFJIdFNab1NjLWJNb3ZRM29UWndKNGfSAXtBVV95cUxNNzJHMFBCeWJ0MW1mUElBMV9tUVFhV3dNVHdhRUhPVFFSR0lIRzMtNzV5eHN3Mm5jQkt5T3pZZ2IxT2FNdDZ1emZOaUl4b0hYRlV1ek4yV0ZfUThJMTVXUFRJc0tTaXdLRUhlLXg5S3BzbjkyYlhsX0VaR0k?oc=5",
+      "t": "코스피 6%대 급락에 ‘5천피’ 다시 반납…‘젠슨 황 복귀’ 기대감 하루 만에 끝나",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmczMyTWlfZFdLY3RUX204R3BZNnJUVHBTVVdWSXVmZzYtUW9kTDg5S0ZJaVE2Wmo0cHh3ZEkwMGZPWmdjaWpwY3h5M1ZtdV8xNUtoOUlST3VFQVR0UHRUWExxWE1mUTY4MUlQSnJ2emU5Zw?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T07:28:00+00:00"
+    },
+    {
+      "t": "플루엑스, SEMI 정회원 가입…국제 표준 기반 반도체 공정 AI 해외 진출 본격화",
+      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9neTBhSl9FOF9RbEF3dXY0eS1oOV9qNHdyUDh4UGNpaHE2S2lqTlg5Yi0ydGtjeHl6STNrX3A2WmFwdlZFNWNRdUJTNlhXZDJQQl85aEF4Ujl5TUhXbmJn?oc=5",
+      "s": "헬로티",
+      "d": "2026-11-25T07:27:08+00:00"
+    },
+    {
+      "t": "[일본 증시] 닛케이 2.78% 급락...AI 투자 지속성 우려에 반도체주 매도",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5MGFpZTZJUWRVdzkzMDRKejYwZDhCQWw0eEVSMXVxM201Wl9RSWRibjA2amJxcVhLZUZnelRnTFgtOXFRMUlvTk1ZZXlYRW0zMHc5TXZiSU4zbi1J?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-25T07:26:00+00:00"
+    },
+    {
+      "t": "호남 반도체 용수 공급망 이중화…팹 가동 차질 최소화",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jVmlMdExldnZQVFlYQi1kYW1qanZkTFJQalVlWjBfd18zc0YtaWp3dm9wQXp4LW5oTTB3R1VmX3VqTC1penhfbzhYUnBVYklqVFlZamJHemsxSXE1eGppcTB4R3k?oc=5",
+      "s": "매일일보",
+      "d": "2026-11-25T07:24:21+00:00"
+    },
+    {
+      "t": "하루 천국, 하루 지옥…'젠슨 황 효과' 걷히자 코스피 6% 수직 낙하",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vWHpjTHROUnlTdjZEOE1teFJLa2t1YjN5QTY3WVQtd1hEVF9wd2dfVDlBLWxiY3gtQzdRNWpIZkJzOXZTbU9OaWxoR3NldnltNWtLM0N2T2lTMXZYQkUxdHpjbW11UVN1MkM4R2ZvONIBc0FVX3lxTFBOb0JNQzdsa0hCWkxrREItR3VTR3NrMUFGVllobWJ5RFJLLTRyVmpyd082OGZDRGRmdzU3c2RYUmM1Z2dFX3NsOU4tbUhsX1ktcnNpWmJNRUcyLXRVX1JEck5Fc0xyeVNqSC1acUNnRXJnNGM?oc=5",
+      "s": "뉴스웍스",
+      "d": "2026-11-25T07:21:47+00:00"
+    },
+    {
+      "t": "코스피, 美 반도체 악재·外人 매도에 '4700선 붕괴'…코스닥 2.29%↓",
+      "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rUS14b3JXcHJ1VWlJRDFrQ3NKdTFCNWlSQWV4TlJGdkVLVFplN3lQa0FXRjJtdUJpRERScHVIeXBvOFJzLVpnTmIxT0tqbV9FR1QxQkxHaGEtVk1TLXJ3cUh4QXJaZw?oc=5",
+      "s": "프라임경제",
+      "d": "2026-11-25T07:21:45+00:00"
+    },
+    {
+      "t": "[2027 입시] 내신 1.0등급대, 의대 지원 집중도 낮아져…반도체 계약학과 지원자 비율 두 배로",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XeE9GOFVEUzRmTVZHaUtFekdia2tsRnk4Z3ZXLXFRRzR3WE1ib3I4YVNwQzBqcERpZ3A0NXFkREtyREwxSlE4U1M1VFNrWkw5YVVNMWRlQzhBZWhCN0dUeQ?oc=5",
+      "s": "유교신문",
+      "d": "2026-11-25T07:21:20+00:00"
+    },
+    {
+      "t": "미래산업, '품질경쟁력 우수기업' 선정…\"반도체 검사장비 신뢰 인정\" - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12QmNjT050WXBYaFFkOU1EV0dCNWc4aU5LQUtDMmkxV0ZnT2hxODEwZmtwVk5JVlRrMExJSVRrMkdEVGxYalYzWmNWRjZXNlhlQXpBWERYekVsN3AyTk1FWmN4UUk3QlEx0gFuQVVfeXFMUEdEMkN6SG4wRmxXNVlVUXNfOEZrOTJuSDZ3ejY5T1E4QjBiS0NISTdibnNOSlZVdFdSNVNCQm9qRmplZ3djNS1xVVVnMGlMRTJmd0FBcDhkSjFGckhZMW1icTdUNk9FOXZ5VXlJcHc?oc=5",
       "s": "머니투데이",
-      "d": "2026-11-25T07:10:20+00:00"
+      "d": "2026-11-25T07:20:03+00:00"
     },
     {
-      "t": "[증시-마감] 반도체 반등 하루 만에 꺾여…코스피 4,700선 붕괴",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XaGdlQWpsSXlpSDJGb0dWc0J2Q1JybV9PX0tQQ04tcERYS2FFWDk3bkhITm01UVhvZjhYN0g4d0lUSmpnVWxfWnVkQ2lrc2dqTHg0c0w0Z2g5OFVTRFUzMnR1Y0tIaC1MN1JCalNmejhTdw?oc=5",
+      "t": "[중국증시-마감] 관세 우려·기술주 약세에 하락",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOUWFVWTZHY1g0bzZ2VkNzUzlyYmFwZTU1Tm9HM2J1N0MxWC1Gc3Q5VVMtbDBRc2cwNUU4YzZKVUdGb2dQSWhndnNNOUptUnNIZFM4ZzFuUEZ5U0UwZXl1Y3hDNXNVaExNTFZxV0ptVlh6QQ?oc=5",
       "s": "KB Think",
-      "d": "2026-11-25T07:06:15+00:00"
+      "d": "2026-11-25T07:17:45+00:00"
     },
     {
-      "t": "하락 마감한 코스피·코스닥",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aUlpjS0l5QllqVXN1cTlrYzZsaS14ejZ3c0dqS19jQWRGWDlzWFZBckhDMVlNdmhOLVZwZlEydHd6TXpYZ2RIbkRpZmpTMklYclg3bVVWMkt3RWUz?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-25T07:06:00+00:00"
-    },
-    {
-      "t": "[마감시황] 젠슨황發 상승분 모두 반납...코스피 6.16% 내린 4697.51 마감",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44d2F3MFNrZlZ6RTU4WWE1ZEN6SEFnMTc2R09fY3ZPQi01bTIzS1I5a0x1VjFQNEt3eDlldW42WUkyaWFPTWpJOTdrb0ZsVzlxOGMzZVd0aDVRQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-25T07:05:37+00:00"
-    },
-    {
-      "t": "16만전자·90만닉스 될라…코스피 6%대 급락 4600선 후퇴",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YdE5HcGVFeDFSSHJnSEsxRGx1Sy1SRWRSMlA2SnZydU5TQVVuSlYtb3ZYR2JWU05vWE9VNndRSENWbnpPUnMyallqcGp5SUlJNDJqM0x1SWtpTTdVbmfSAWNBVV95cUxNNmpoSnRZSnkxVnZrcVFwWmhseS1DT3ZXbGFOTlBzbXFSUFowQlM5TEZQSlpxZnM5UTJiNE5jbmE3cU1LT0RKb0UxODlMb01xbU55V1hBd2V3dk9Nb0liYmczZFU?oc=5",
-      "s": "채널A",
-      "d": "2026-11-25T07:05:00+00:00"
-    },
-    {
-      "t": "코스피 6% 하락해 4,700선도 붕괴…어제 상승분 모두 반납",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DQngxbS1OcU00SG5xTGlRNEcyRHc3NTF3YkxJbFNkQjhKRWZiNlZxbkZCc0JsYTVtYlBDbnlmQlVJR2lNZzloTThiZTYtVVhwb1dsY25xa3NxNzg?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-25T07:04:00+00:00"
-    },
-    {
-      "t": "코스피, 6% 급락해 4700선 반납 마감…전날 상승분 모두 내줘",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zMkhsNFlNTXpmcjBkY1N5cERwVVgyY3R0M25wZ0JZVm9kelFkZFFKYnpKdGswVWFYRFBKSy1fa3lUdEpYN1JCRXhJMm5EZw?oc=5",
+      "t": "AI발 장비 수급난, 반도체 이어 기판 제조 현장까지 덮쳤다",
+      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xTS1oWDk5eV9NNnJwY3dCYl9ncldKR3VYdWdkYnREV3ctdXFhZm9NMjVYaVVNc1BzX3dwM0NxWDZ6bzBTLVRMUjZrR2tfZw?oc=5",
       "s": "전자신문",
-      "d": "2026-11-25T07:03:54+00:00"
-    },
-    {
-      "t": "원·달러 환율 1343.2원…美 기술주 약세에 소폭 상승",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqWXZiLW1oc1d6TEt5QmlwS3lVN2tQZHlweThCYlhzZGY1YW10MlYxbHk0R0FXbE9wZjVQRGo0NjhlWXRMbU9LU0NmYnM0c0NuMjg1UVdxTjRlalYyZGxWNFdub2N2VUtvLVk3YVlfTQ?oc=5",
-      "s": "진일보 | 전남일보",
-      "d": "2026-11-25T07:02:57+00:00"
-    },
-    {
-      "t": "[마감시황] 코스피, 6%대 급락에 4600선 마감…삼성전자 10%·SK하이닉스11%↓",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tTkJfOVlWalBzN2l2b2pSSm1RNERINm8wUVdDbng2QjQteC11U0U1UURaS1VXamVnNUMyeFlESURKbVotSkd0UTRYWUNaUXI5cGJ5d2NTUVYzU3pl?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-25T07:02:00+00:00"
-    },
-    {
-      "t": "[증시 레이더] 코스피 6.16% 폭락 4,600선 추락⋯삼성전자·SK하이닉스 급락",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hMmtLSHlrcDlXYzItN1F2U2VpM2cyTEdmNC1uc1FzRTc2WkFEcW5vaVRtczFGMlU2blZLQ3dHX2Z4OXJpVXVYR3RFX3pTdlVNRHNpeHN3WVZLWUhvUjZZ?oc=5",
-      "s": "포커스온경제",
-      "d": "2026-11-25T07:00:49+00:00"
+      "d": "2026-11-25T07:15:00+00:00"
     }
   ],
   "asof": {},
