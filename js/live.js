@@ -1,34 +1,70 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T02:16:02+00:00",
-  "quotesAt": "2026-11-25T02:16:02+00:00",
-  "newsAt": "2026-11-25T02:16:02+00:00",
+  "fetchedAt": "2026-11-25T02:31:02+00:00",
+  "quotesAt": "2026-11-25T02:31:02+00:00",
+  "newsAt": "2026-11-25T02:31:02+00:00",
   "quotes": {
-    "kospi": 4769.52,
+    "kospi": 4739.33,
     "spx": 7201.09,
-    "nikkei": 56851.61,
+    "nikkei": 56742.82,
     "vix": 26.36,
-    "krw": 1342.48,
-    "gold": 3549.7,
-    "wti": 81.18,
-    "dxy": 103.87
+    "krw": 1342.58,
+    "gold": 3564,
+    "wti": 80.93,
+    "dxy": 103.82
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 1.3,
-    "nikkei": -3.06,
-    "krw": 0.11,
-    "dxy": -0.43,
-    "gold": -2.79,
-    "wti": 1.26,
+    "kospi": 0.65,
+    "nikkei": -3.24,
+    "krw": 0.12,
+    "dxy": -0.48,
+    "gold": -2.39,
+    "wti": 0.95,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "내일 금리인상 확신하는 단기금리…골드만삭스 등은 동결 전망",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83eFZTdWY0R3g5amQ3XzNBTDR6Y192X3JPaE9DOUpmM21zV1Q1Vm1UZFV0YkNiclQzaWxyTjQwNUtQLWFibTJSU1g5MWQtSWRwMWtrWWY2SWczdzRsWkZjN2xPWkxKSDFtMUJ3cTFha20?oc=5",
+      "t": "내일 인상 유력 속 外人 왜 이렇게 살까…\"벌써 금리인하 보나\" 물어보니",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tUGh4LXY5bTBuY0NDdVcwVjAxM1ZSbnRadEdTMDJOd0xMM2pCd0N5bVFxSnQ1MHgwQUhKODEzMWp4MFFlSW55ZE01SU0xMWVyY1N5anYzUjdvMEpYbGIxNVRTVFoybjNabEpkS2stdU4?oc=5",
       "s": "연합인포맥스",
-      "d": "2026-11-25T02:02:05+00:00"
+      "d": "2026-11-25T02:24:19+00:00"
+    },
+    {
+      "t": "日 증시, 美 AI·반도체주 약세 여파에 하락…닛케이 2%대 ↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teG1tOWRxYmRxSWdRTUZlcDV0LTFZcGdLUTdveU95eVBIRE51bS1WbkdIYk9HZ0ktQ3pTUGtwS25KQm1UR0EweWNlVEIzeXc1OWo4N3FfcGI0aE5sOUpmRzdzN0RGVFNZQzFObE04bXo?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T02:22:05+00:00"
+    },
+    {
+      "t": "코스피 장중 5%대 급락세 지속…삼전·닉스 8%대 하락",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aTWVkQk5UcmkzRnRmTFctaVY3ZFotbThTRWhQMUVaMUtoM0QtWnlEbks0MzJGbEVhVnpMaGhPOTAweEtFSnlZZzhrNjM1LUhDdVlURVphazlTdFU?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T02:18:24+00:00"
+    },
+    {
+      "t": "금통위 경계 속 국고채 '불 플래트닝'…코스피 급락·外人 매수",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvVHZ1MTc1ZDJpZjhXTjlqNTZkZEpOdmFjcV9SQ3JDZjhCOXVLUEV0c1owaDRRUnNkTVBHc2tzd3BWMHVKVVV0V1JSN3JvUFBOV0tISTVKdFl6VTl4SmViSUxGUUd1SEdZcUd3R3RhZ2d1Zw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-25T02:10:56+00:00"
+    },
+    {
+      "t": "국채선물 상승 출발…다시 外人·코스피 주시",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mYnc0VTgzaWllWm5PVW1IZ0xWbF9wdWppTE5HeDROckYwMk9PZXNERHJIVTFfSWR0N1Q1eWxyaXljLVhFYTFSNGZ3RTVNQWlDZ1RaWTFQMTl0bXU2UG9KN2dOTjlreUR3UUdPeGtwS0g?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T02:10:00+00:00"
+    },
+    {
+      "t": "의대로 채우던 수시 6장 달라졌다…최상위권 반도체 계약학과 지원 두 배로",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PeEpKQmRnWGxYMUZ3VWJBZUR0ZEI4Z2ptblZvU2tpQk95NWxZa3RjNF9rTFlFWVZqVVhWVjZ5bG5KMTBCcEZ0SzAtU0VWR3pqMFVzQXpsNjZkQdIBX0FVX3lxTFBvUTB3X0tLRGZnYm1GVjdsajd1X0Rsc1JwbXUyQjNDTFV1elAwUUF6RUpkSDVGVWVoSVlKSGc2TE5pOXhyYnFCMGFrNTNQODNPR2J4bkd6M0lQbGRFU25r?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-25T02:02:00+00:00"
+    },
+    {
+      "t": "'젠슨 황 효과' 하루 만에 증발...한미 증시 '흔들' [뉴스퀘어10]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lV0tPOF8yeHBsQW8wdk15Y3ptZlhFSV9xdjRQWjlRS0dWRVIxR2xScGpxcHhFRnBWa3ZrOTdWbGpVZE9DUV9jclBiZ2VvWEJNbjR6MWdOMmxydVE5ZGc?oc=5",
+      "s": "YTN",
+      "d": "2026-11-25T02:01:00+00:00"
     },
     {
       "t": "웰스파고 \"젠슨 다음은 케빈…연준, 침체 자극할 수도\"",
@@ -47,42 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FenVlOXNxamxvV0pJaW1SSHVtR2hMOGY4cjhFQ3JwdV9XZVl1TkFxbWZLdkZJUE9zZl9qcXI1VVQzbGl2TXpjSElKbDNjVXZYZ1JRQzJoY0xzRnVmYkJqWlV2SUt6M0NfVnJoUTFkM2I?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-25T01:58:06+00:00"
-    },
-    {
-      "t": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dFl6bDJqRXJKMVpZd1ZMQmJzSDdELXlGQTJzZmQzTXkwT20wZTBYT1ljU2x3VWpYOEpzSWlvUkoxSjZ5OE93SXdPOS1Jd21nVHF6d3FYRzQ5XzhpbmZqMlhXSWpiaTFwb0JKN3FaQ1A?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T01:32:52+00:00"
-    },
-    {
-      "t": "BNP파리바 \"연준, 12월부터 세 차례 연속 금리 인상 전망\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84a3JlM2NXd2ludmg5dmlNYWJ5cnA2V2ZwTWE3QzNKakp4NTR3QnZRUXR1Wjg3SHVnVkxjdHlrOGptcVVzMUM5MUdaT1gzclFUM211U2dfX0hVRWV1S2RyVlZ1ZFR0dFFIQTNYdTA5Rl8?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T01:32:48+00:00"
-    },
-    {
-      "t": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taklnNHFLZXFTSnVsVU5KcGpDQTdxcmlfUU1DeE92UVRVUWV3aHZjbElFaV9KclhBR2FqcWpFRWcwUDR6WVBWUkFIcndIX0ExTWVrbnRlX3hUcnPSAWBBVV95cUxOMGxzVjVVa3JRc1BuWWJDQnBGQ2Jkb0FlS3oxcnM3b1gyTkhwOU1ZZ19qMXZITHYzeU12YzZCdEJVZ0hKRDN3VTFUMWJ6TXNHT2lrMHZOYWV1d1BiWVRhRUM?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-25T01:32:40+00:00"
-    },
-    {
-      "t": "코스피 4.9% 급락한 4700선…AI 우려에 관세 악재까지",
-      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YU0oxTTNJa3pYeVVsVHM1azBIRl9WcXNHN1FlNVNEU1VCckZkV3BZS3J5Y2JWZFdveENqQjl2TElLMUptbGQ2UDJORmtmRll5UEVCMmhybUJWU01OUVRRWkwxUnU?oc=5",
-      "s": "서울경제TV",
-      "d": "2026-11-25T01:29:12+00:00"
-    },
-    {
-      "t": "코스피, 하루만에 다시 급락…5,000선 아래로",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FbVV1eVIxVTljNkc2ME5nMl90VW5lNVQtb0xBTFlybVMtVF9WQnlZM2FtTTNXQkVmNFFLUm1XWEQzU3ZaV3UzS1FXYUlyM0VVbGI3SmFUZi1EQ2NKX3BlMWxyd3haX1k?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T01:28:00+00:00"
-    },
-    {
-      "t": "트럼프 과잉 생산 관세 임박 … K반도체, 美 현지 생산 압박 커지나",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrRlFFcHdRWXQydTN6M1NicHVFbUYwYVNIdFc4NzRKZWZVeUY5aTNCZ2N3cV9mcDBVR0dERlVBX1YzNkQzcXM4ak5meEdkejM5dUdabjEzaXo3dDZJdVN6TmtBRDRBQWMxWmtMV2IyUjlCZEJEajBDdGFTc9IBgAFBVV95cUxNaEpyUU1icEhuM2IwLXNjLU5VR3RhV3pWUjZ2TW1EeFVUQU15OHlTRWVGbHFBbVRfbmZsZGY4cDVMWW1YdW1oTUZJeFRORnVTN2NVZVJvRUV3dlJ4aXVWT3lTX05fZ1RWTnV0aUlQTE5yaXhyaGVxN09RV0NjY25UZQ?oc=5",
-      "s": "뉴데일리 경제",
-      "d": "2026-11-25T01:28:00+00:00"
     }
   ],
   "asof": {},
