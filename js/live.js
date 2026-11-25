@@ -1,29 +1,41 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T20:16:02+00:00",
-  "quotesAt": "2026-11-25T20:16:02+00:00",
-  "newsAt": "2026-11-25T20:16:02+00:00",
+  "fetchedAt": "2026-11-25T20:31:02+00:00",
+  "quotesAt": "2026-11-25T20:31:02+00:00",
+  "newsAt": "2026-11-25T20:31:02+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7175.97,
+    "spx": 7156.85,
     "nikkei": 57011.62,
-    "vix": 27.91,
-    "krw": 1343.59,
-    "gold": 3579.7,
-    "wti": 83.89,
+    "vix": 28.07,
+    "krw": 1344,
+    "gold": 3600.9,
+    "wti": 84.05,
     "dxy": 103.68
   },
   "daily": {
-    "spx": -0.85,
+    "spx": -1.11,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.19,
-    "dxy": -0.12,
-    "gold": 0.5,
-    "wti": 2.24,
-    "vix": 5.88
+    "krw": 0.22,
+    "dxy": -0.13,
+    "gold": 1.09,
+    "wti": 2.44,
+    "vix": 6.49
   },
   "news": [
+    {
+      "t": "추가 관세 예고에 산업부 \"한미 관세합의 존중 의사 확인\"",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NQmViMExkN2JXaUFxcFl3LV8wSEZTOXUwUVdwaDBjaDJFd2hVMDVUM0l3SEFUNUlRY2lNS1M5U3FCNjJESnBUQmlPbVViVE83eXdYMUFfQkJGZ0FYLWhwVENWQ05VbzQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T20:13:00+00:00"
+    },
+    {
+      "t": "美, 과잉생산 관세 추가…15% 상한은 유지",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5icGt4aTZ5QlZTRUhqWXplVWZoNkZDZDlQRWxVc3U1RHQyVWRlV0N6QmtkMVZHNHBFSXRVYjlkb00yZDIyZi1qckZfV2J2alBkSHhTNGlFYVlmNklMQzBqM3hJbGFfTVU?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T20:12:00+00:00"
+    },
     {
       "t": "미, 한국 등 과잉생산 관세…’15% 상한’ 유지",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ycTJwRDdxS0xpQl9WQ3Fzd0ZSbVJhOXBYRVkxY1pGOEtSenFkOTZQVWtBdFRIMzA5Q29sbWlOUHBZQWZlNU1PMzdRZkN1d21laUtUcE1EYlU3RkN5V3hPUlotUF9tT0U?oc=5",
@@ -55,12 +67,6 @@ window.LIVE_DATA = {
       "d": "2026-11-25T19:30:00+00:00"
     },
     {
-      "t": "후티, 예멘 임시수도 60km 앞까지 접근… 국제유가 악영향 우려",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qT21FS1Jya2pELUV0TDd4S3JaTXc0ci1jc0hGYy1HMlBHTUYzVlVJdUVNclZfYi1COVU4WWRmcF80QjE2T0d5Rk5nU2VSbm9YeVFjaU5qLTFpb0p0QTFHcUxmb3ZiZGt6M0NYdV9KczVEOFXSAWZBVV95cUxPb1lRdUU0Q2tETE1rZUJTRW43V0FhUDB2am5XbjdvSWNrM1plTm1aVmFtZ19yd3VpU294X1VBNnVBQ01qNElPQm5aUnBZRzFBVGxvelVtYndUdHk5RFUzeHBwcF9hUEE?oc=5",
-      "s": "동아일보",
-      "d": "2026-11-25T19:30:00+00:00"
-    },
-    {
       "t": "[뉴욕 금가격] 증시 급락 속 2% 안팎 하락…3천500달러 붕괴",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xcVdsTXF0WXNSNTRPYjV3dkJ3OGo5a2UxcjdQaHpYeUVzbklLMTdDeGh0NTlIU2ZKNTZFR0szTldrRnE5ZjZZV05ORmRsRmM5dENib2x5N0xUTktzTVI2akJkUnpMU0ZqRy1sNU5kLWo?oc=5",
       "s": "연합인포맥스",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mUVNxY0s4cmFlZklqdmVaUWZwbDRTLVd5a1gxeDRmQUxJZ3ZsMjM4V0lGNVlVeHlqUnhCT2xMY3RpQm0zSTJ3a2VLS09MQTMwRVBEYmFVNU9MNVh6UTFqUHVSZ3UyeWo1bmtRNHdBUjE?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-25T19:08:18+00:00"
-    },
-    {
-      "t": "대장주 반토막, ETF도 와르르… 반도체 몰빵 개미 '커지는 비명' - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdmRFR3drRjMzNldBdnhlUTRyVHRsbTB5WWlnczl6ZTJwQmtXRy1rWF9qbWY3TTBOTkJiblRCLVVBRDdpbDlsemVxS0JVMWF6U3Rza1psSU1qMW8yeHNqa19wU2FDRlZ60gFuQVVfeXFMTzZJWS1YV1VsVWh4VlFCRC12OVpPOHNnN3lFZ1lhVTJlU3FZTmx1c0psWm5TcVQ3RzRWVWJfdmdGVVZzbEhhSEV3RnU2X2VpVWhLUEh2VGdGdXQzRG5jeFNwd0Z4Z05iSUZHUmFMN1E?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-25T19:04:00+00:00"
     }
   ],
   "asof": {},
