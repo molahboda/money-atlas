@@ -1,27 +1,27 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T12:46:01+00:00",
-  "quotesAt": "2026-11-25T12:46:01+00:00",
-  "newsAt": "2026-11-25T12:46:01+00:00",
+  "fetchedAt": "2026-11-25T13:01:01+00:00",
+  "quotesAt": "2026-11-25T13:01:01+00:00",
+  "newsAt": "2026-11-25T13:01:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 30.8,
+    "vix": 30.85,
     "krw": 1343,
-    "gold": 3552.2,
-    "wti": 82.39,
-    "dxy": 103.96
+    "gold": 3543.6,
+    "wti": 82.27,
+    "dxy": 103.95
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.15,
-    "dxy": 0.15,
-    "gold": -0.27,
-    "wti": 0.41,
-    "vix": 16.84
+    "dxy": 0.13,
+    "gold": -0.51,
+    "wti": 0.27,
+    "vix": 17.03
   },
   "news": [
     {
@@ -29,6 +29,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tVTBYVlhrU1FfNW9GaUVQaFdTWVFOUlR0aHNoQU1XOWZ1VXBiRk5yREVEQzByN1QxZTFiLTJ2UFZHZWxxWVlRcml5VVpyMHppeEs4d3ExdVVLTF92b21Dbng3aDF5Wkhzc25IdlVYamtzQQ?oc=5",
       "s": "KB Think",
       "d": "2026-11-25T12:41:32+00:00"
+    },
+    {
+      "t": "“AI ETF 들어간 동료들, 말을 잃었습니다”…와중에 인기있는 상품은",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbmZyS2htdF80MVQ1S2xGZzR1Ql9XdlNJU0xBdVlENlllbUd4cjloalhXdlRONlpMMkc1T0JFeXJ2TDN0LTg3WGEzbmRwRm1tTHc?oc=5",
+      "s": "매일경제 마켓",
+      "d": "2026-11-25T12:32:16+00:00"
     },
     {
       "t": "은행권 가계대출 금리 연 5% 넘었다",
@@ -73,16 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-25T12:11:45+00:00"
     },
     {
-      "t": "달러-원, 뉴욕장서 1,340원 중반대 거래",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE11QU0yTHpkT3dDWGc1YmVKRjBkQUdGRmZpN0dCQ3J0bk1OTlBzQ2xhcU5YTGNnc2loSVU4QUd4aExYeEYwMTMzWXgwTHBjemF4MTRiWmtwWkZTV21sZ01DNkVBUUx1MXRWeWIwVUtwcUp6QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-25T12:08:59+00:00"
-    },
-    {
-      "t": "수출 1조 달러 시대…美 관세 변수에 촉각",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcTFTdXRHRUZiWWVoMlpTSVN2cEhjWjlhY2htZkI5UHhJOTV2UU9GWm5SX1V2UzFOSTdjTndTcHg0ZXNTRkZCSGhKV2hEcE1mTXlmZXhOdFZFZGRiUW0tOXA5T3BzZU5Gem9lVEpiMXFLaHRz?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-11-25T12:08:01+00:00"
+      "t": "반도체 팹 건설 인력 수요 폭증…주거단지 마련도 시급",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yQ3BlWTFWYkxXTWJBMWsxTGZZUm9IS0EwZnp1M3Bqak9wb0I1bjBkWTYwU0VyNVZhSUx1ZkNWSklLRUMyeERrYlA0SUMxQ0E4a2MtTFY2eVJwbElmRGZESkhqV1JLVVE?oc=5",
+      "s": "KBC광주방송",
+      "d": "2026-11-25T12:09:52+00:00"
     }
   ],
   "asof": {},
