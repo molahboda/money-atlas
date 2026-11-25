@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T09:31:01+00:00",
-  "quotesAt": "2026-11-25T09:31:01+00:00",
-  "newsAt": "2026-11-25T09:31:01+00:00",
+  "fetchedAt": "2026-11-25T09:46:01+00:00",
+  "quotesAt": "2026-11-25T09:46:01+00:00",
+  "newsAt": "2026-11-25T09:46:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 28.58,
+    "vix": 29.19,
     "krw": 1344.6,
-    "gold": 3557.2,
-    "wti": 81.26,
-    "dxy": 104.01
+    "gold": 3555.1,
+    "wti": 81.87,
+    "dxy": 104.06
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.27,
-    "dxy": 0.19,
-    "gold": -0.13,
-    "wti": -0.96,
-    "vix": 8.42
+    "dxy": 0.24,
+    "gold": -0.19,
+    "wti": -0.22,
+    "vix": 10.74
   },
   "news": [
+    {
+      "t": "[사설]가계대출 위험 키운 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
+      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3lzOTlaXy1Rbl85Q3VTVGlrc2lrYXR5TnpFUkR4YVdnWEloOWtOaHQ5ZmZvb0JnLW1kdEpCeGR0Y1FYbUsyR0Z5TlRnT0YtRWRiaWwtUTBLYmNNRkgtQllPYk5JQjRUV2Z4ZEhtMEdxd1pTcWhDZ0dlQi1Db2NITTJyVjhtTHAzaHNrLWpkdF9TempnTXp1TkRsRHBzc1FvZ3Q4MERxVmNHUdIBX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF?oc=5",
+      "s": "경향신문",
+      "d": "2026-11-25T09:36:00+00:00"
+    },
+    {
+      "t": "IRS 금리 장단기 온도차…단기 픽싱 이슈·장기 오퍼 우위",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSDcyRno0TDBxeTJzZjM0QWhtb0FLT2ItUlJXREVieEtUNkJXdFcxTGNhdU81NFBMV0NDYkxFNDhLUUU5MFZwQW9DSTl6RkJiT3pZa050cC1kcG83YjdfdUdXcC1uLXp6TjNzT2hwblTSAXRBVV95cUxNeXJ3Wko5bTQ4SVBORkF4Njl3c016VEdVbU96YjBqTm92dWFObFhlRngtVmtWeFdlWDA1bnZvNThPOFVHUVl6TkNVT19tVjdobzJGQ2tCbXFXN1RVejFpcHBjdzc5YXh5SnUtU3VjY0xoSk9IQw?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T09:35:45+00:00"
+    },
     {
       "t": "[중국증시-마감] 관세 우려·기술주 약세에 하락",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5dG9RYW5oTkVaY2oxcWY4bDRPYVBqS1NJUWloSGVxREtXLVRqd0xISDJxVlpubTJ5NmlaZVdMTDNnZWRvVXJYNWR5ZDZBek5HM2UxUnFCdnRUNWhSaTloc1cwYlFSdlN6Wmd3R005bFA?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-25T09:17:46+00:00"
+    },
+    {
+      "t": "[더나은미래 경제브리핑] 은행 가계대출 금리 3년 만에 5% 돌파, 주담대는 14년 7개월 만에 ‘최고’...유한양행, 김열홍·강대식 총괄 공동부대표 선임, ‘투톱 체제’ 유력",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZTFg4ZHFtZERfcll1MV9KWGgtTmU1N1ByYWtRMVZjX0tIckpSNFFWQURDQjlBMWNDNGFUWnRKdVRWZmNJeEIwVGxFVUNoYUltR2c?oc=5",
+      "s": "더나은미래",
+      "d": "2026-11-25T09:16:00+00:00"
     },
     {
       "t": "김정관 산업장관 \"R&D 52시간 예외 내일부터라도…반도체부터 적용해야\"",
@@ -37,52 +55,34 @@ window.LIVE_DATA = {
       "d": "2026-11-25T09:13:13+00:00"
     },
     {
+      "t": "전쟁 장기화 속 이란 물가 89% 급등…\"물가 억제 총력\"",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bmlFTS1HUnJBdEhaTDNVUE9jT1l1VHFITEY0aDdIRHVsOGpqSUREaXJMN3hWLXVuRmNLOWE4VVVWSVVJUWExRE9GWjF3bDlfWkhOWC04U3JGdUHSAWBBVV95cUxQU01ublpONWtHVnRPalZmaC1RSG9VRnNwSkNLMDJCNXdzZVlpRE1Va01LZ0ZUdGw0ekV2bWp4Z0FSZ1N2cFNuZUxHc0FmSU9uOExoeWVFaXcxS1M5MnhMck0?oc=5",
+      "s": "연합뉴스",
+      "d": "2026-11-25T09:10:47+00:00"
+    },
+    {
       "t": "반도체 호황의 여파…삼전닉스 예치금, 주담대 금리까지 밀어올려",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ld05YNElZUnFsbW9fT2w2dnFqcXg5blUxd2NRQjhwcmNBeG5KSWxpMXUtX1o4RnJnSjhfbjAyWGQxZ2xXTXRjWUF4TU5tQl91Si1PRUcyTVIwZnF0c1hORk1jSTFtUkU?oc=5",
       "s": "한겨레",
       "d": "2026-11-25T09:09:00+00:00"
     },
     {
-      "t": "코스피, 6% 급락한 4600선서 마감…젠슨황 랠리 하루만에 \"끝\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uN010TTllLUhFR0JucnM2MkZLRFZxUkRrYmVJeHNQMGN0MC1EN25oMmVSNEh3SEdfV0NhLTVHTW9HS1BUVm5wUWozMnVwMnQ1NUVxN2ZuOW44SzRUSUxYWXp6bG9vZmtNb1N3elNQaWwwQQ?oc=5",
-      "s": "인더스트리뉴스",
-      "d": "2026-11-25T08:54:36+00:00"
+      "t": "곤두박질 코스피에 “계좌 현실감 없어요”…개미 자금 80조 ‘매물벽’ 갇혀",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
+      "s": "한겨레",
+      "d": "2026-11-25T09:09:00+00:00"
     },
     {
-      "t": "코스피 5개월 만에 반토막…‘주식 사라’ 정부 책임론 확산",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tSG1hU0ZCUkJiSUczVlZYNHlhTUMyQ0tUVWNFWmo0RUN4UDJISWVoYUVrS3JnTzROOEQzZHYxUkJVMkk3Z2NoVVVJUUpMeGpCYVAtMnA4RGs1Ym92MUtOV3N6NUhMWUs3?oc=5",
-      "s": "대구일보",
-      "d": "2026-11-25T08:53:27+00:00"
-    },
-    {
-      "t": "코스피, 전날 급등분 모두 반납…6% 급락 마감",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PVnZOZXczX3FXY3RfMHZacUZYaWdWSFRaNnJYSXRseEhkRDV5dmpKZWh1SmRqVFlHSlk1MThIakhiQk5DbGRTemtQanpFQ3ZOZW1RUWw3ZmlMbjRWSDUtdmRtTXo3N3c?oc=5",
-      "s": "연합뉴스TV",
-      "d": "2026-11-25T08:50:00+00:00"
-    },
-    {
-      "t": "[도쿄증시-마감] 닛케이, AI·반도체주 급락에 2%대 하락",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xNmpmX3E3YV8xS045VUdGTUI0U0REbEduUGNySWo3RW02QnJabkRjcnhYdGV2Vm9iSmZhX3J3WnRmUmw1LXRIdjV6QU5oNkpPeVAzX09aRkIyR1NDd0ItM2Nmb01tdE5qOEVfQkEtQkg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T08:49:08+00:00"
-    },
-    {
-      "t": "코스피, 하루 만에 6% '뚝'…10개월래 최저치",
-      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWExxWkNRZDVnZDF6RkZYSVplWWZMajFWLXI1aWRLb1BkV0o0TmRvc0pIbWZTbER3WnhWVWhHclhPV3pCVFRKYVBJbW1uN2hwSl9zYV83ZTBBRXdoSlVueg?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-11-25T08:46:39+00:00"
-    },
-    {
-      "t": "[단독] 코스피 다시 급락하자…정부 '증안펀드' 확대 나섰다",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVFVOYWE4djZ3QmpVckhXNnY4d3luWTh6QXJZV042VVhLSklCcDFkNnRNSjctc3gyeTgxRi1Famd5UDh2MkRaam9uRFB5ZGhwLXNZa2wzb19LZw?oc=5",
+      "t": "반도체 열풍…최상위권 '의대 올인' 공식 깨졌다",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMzlNc25VaXpKTHNPU2V2NG4zLUlDVkFSU01WcEZfQ2lORVlHQnpPSWJvUjhVbzRvQ2VzQm01Yk5tOXRKSjYwWDJIcEEyNjR6clByRTlTZFhVQQ?oc=5",
       "s": "한국경제",
-      "d": "2026-11-25T08:45:30+00:00"
+      "d": "2026-11-25T09:06:32+00:00"
     },
     {
-      "t": "중국 외교부 “미국 과잉생산 명목 추가관세 부과는 정치적 조작”",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsZlc2OVdQbnZnVjRUWU1mSWJqMmJuMWRNc24xSGtydUw5dkNhUEdqLXR5bGlhMC1YbHkwbHkxQm9XYlJraGgxSmd3SkhHYUVtUnhhMnFROENrQdIBX0FVX3lxTFA4aDVQWjRVcHp5Uzl1U0g0Vnp0akNEc3BqbVV2UkdjRGlVaUVFREcyemJxNlcycFNRM0FUZmEyU1ltSWd2aXNrdjhyalExeFZCQTVPT08wN2d6VGJ3azY4?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-25T08:44:00+00:00"
+      "t": "반도체 사이클 공방 격화에 속절없이 무너진 삼전닉스",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uR2FIaExKLWJYNGZjbWlhR3lTZlliT2RwSGlzeG5sSFBTXzRsSm94dnVQa01mUWJzVzFBa1M2aVpoMGFmbXlZLU85cWNtNXRpdXJ5eEhJSi0wUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T09:06:10+00:00"
     }
   ],
   "asof": {},
