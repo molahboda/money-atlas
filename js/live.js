@@ -1,29 +1,35 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T18:16:01+00:00",
-  "quotesAt": "2026-11-25T18:16:01+00:00",
-  "newsAt": "2026-11-25T18:16:01+00:00",
+  "fetchedAt": "2026-11-25T18:31:01+00:00",
+  "quotesAt": "2026-11-25T18:31:01+00:00",
+  "newsAt": "2026-11-25T18:31:01+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7141.82,
+    "spx": 7157.09,
     "nikkei": 57011.62,
-    "vix": 29.86,
-    "krw": 1343.31,
-    "gold": 3561.2,
-    "wti": 83.7,
-    "dxy": 103.61
+    "vix": 29.19,
+    "krw": 1343.56,
+    "gold": 3566.1,
+    "wti": 83.6,
+    "dxy": 103.55
   },
   "daily": {
-    "spx": -1.32,
+    "spx": -1.11,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.17,
-    "dxy": -0.19,
-    "gold": -0.02,
-    "wti": 2.01,
-    "vix": 13.28
+    "krw": 0.19,
+    "dxy": -0.25,
+    "gold": 0.12,
+    "wti": 1.89,
+    "vix": 10.74
   },
   "news": [
+    {
+      "t": "유럽증시, 미 금리 인상·관세 재부각에 1% 하락… 은행·기술주 동반 약세",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vVUJzZk9pQ1l1aWZMRU9FWHpJUGNXMFJvVFRGdF9YSm1ReTcxZnB2TmdPUUxjd2NKUEJBUGpKYnBPZGlxV3dtNG9GeUVJUXJ6VjJ4MXNNSkhyYmlq?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-25T18:14:00+00:00"
+    },
     {
       "t": "다시 시작된 '트럼프 관세' 드라이브.. 美 민주당 막아설 가능성은[이상은의 워싱턴나우]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15NUh0X3NSRF9NUjRCYmZZbXlYUnBIYmpGSV9oRjBjSGtWMHdWNEZVVVMtODRCTS1fdWN6QWxoSWNqeUpWQ25Rd3BTWG84M2NBbU00dUxXMGtSdw?oc=5",
@@ -34,6 +40,12 @@ window.LIVE_DATA = {
       "t": "美 연준, 물가 원인 놓고 시각차…공급 충격 3분의 2 vs 수요 압력",
       "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ01UOGJOTWJjWTlCcDEtUk5oYnYtQmJZZHNOYVcyUXVjcjg5SDVFWXlNckgtc05ma3VpT1l4di1wa3pPcThFZmIxRVVYY2RDQjRvd2wyY2duNFp0S2FRb1o2azYtTV9TaFcySmVpUGNUR3o2MGRuLXI2SDIzWWhyZXNWazhVRmc0?oc=5",
       "s": "글로벌이코노믹",
+      "d": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "t": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
+      "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5",
+      "s": "조선일보",
       "d": "2026-11-25T18:00:00+00:00"
     },
     {
@@ -61,28 +73,16 @@ window.LIVE_DATA = {
       "d": "2026-11-25T17:11:00+00:00"
     },
     {
-      "t": "BOE 총재 \"에너지 가격 하락하지 않으면 추가 금리 인상 가능성 커\"",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FUWEwa3hFbG1Sc2JKN2toQnVDT1NuLXVvUVNxSXB0UHQtZWhqTFA0Vld0eGNFWDdacFBIbExCVkVta1B1a3lVM3p6cUhuc3FZRldBRFcwTGh1QmE4UnVYX2pLdGVVRjVfcHhOSXUwckt0QQ?oc=5",
-      "s": "KB Think",
-      "d": "2026-11-25T17:08:17+00:00"
+      "t": "미, 14개 경제주체에 과잉생산 관세…한국, 15% 상한 유지",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YbndnRl81b2RCNV9UbHozRmNRTFAzZ0JXN3M1YmhuMUh0WFlOQTRIb1ZNVDJqbVNNYXVnV2hUcTBIU0JCYlE1YTQ5Sk84QWc1NnpEMGdZbjE4em9qMThod1NNOHJlOWxiYXQxZ3JxaWRUV1Zv0gF0QVVfeXFMUG5ra09EMEY4TW9qMlFxWXdfWlhPanFVV0VxdGRHMWxKVVgyODNocGc1a0t2QXdwYjRHam1TdlB5WnJwQ3pPUUhNcjRBMHpkLXlwb1lkdFpaOWt2SlFUMW5ka3RmaUtJN3pjaTRvTTZ0SmZ4STE?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T17:10:29+00:00"
     },
     {
       "t": "EU, 새 미 관세에 \"유럽, 과잉생산 원천 아냐‥15% 상한 준수돼야\"",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdUtVZVphREgxcWViSExydkdINmhKRkZ2VDNQeWlhNC1WY1FDeF9fdnl2WHJac1lWQ21xZmsyeXczRFB3QXdKNnFDRGNjaUNwY2tSREtnclFpQnR1UnJWWE02MkxfN0lLYXI5dHZFdm01NnRj0gF0QVVfeXFMUFBIUnlWVTU2S3QtV2luVjFFdjktWVhQd3FQQTRWQ05yMWtWdGp0QVFmS3B4N3psWEVfXzhnYnlJdTZmeW5yMHNIbXZIZ0FJcnN1d3gtX1RrMjk4MjN5M2pHZFpvRWFfbldQYlg0SWE1MWI4TDc?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-11-25T17:01:10+00:00"
-    },
-    {
-      "t": "USTR \"한국과 협의 불만족스러울 경우 25%로 관세 인상\"",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xQXZOelZ6MC1sVTBYT1NOVGVZWlo4ZWNhd1BhbXl2em9jcm1WbWtLLVNEYjZaQW44QjhrMUQ5RmVTb1pFbTBWN0VFZGFvUW82OHVrUWNFOFVza2xKQlE?oc=5",
-      "s": "YTN",
-      "d": "2026-11-25T16:59:00+00:00"
-    },
-    {
-      "t": "미 과잉생산 관세 15% 제안에, 김정관 “15% 유지하면 선방”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RT3B4WkktMTZveDg5dF9TMklLU0k0dkk0NGgtZWJRWTN6Zmk5Mm95RjVCZS1ITlNYR3V1cmJROU5ZcDRtVjExZjdHeHdVOXF6RUFTVXE1R1NWcVk?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-25T16:45:00+00:00"
     }
   ],
   "asof": {},
