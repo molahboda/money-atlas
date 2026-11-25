@@ -1,34 +1,46 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T03:31:02+00:00",
-  "quotesAt": "2026-11-25T03:31:02+00:00",
-  "newsAt": "2026-11-25T03:31:02+00:00",
+  "fetchedAt": "2026-11-25T03:46:02+00:00",
+  "quotesAt": "2026-11-25T03:46:02+00:00",
+  "newsAt": "2026-11-25T03:46:02+00:00",
   "quotes": {
-    "kospi": 4709.83,
+    "kospi": 4717.3,
     "spx": 7201.09,
-    "nikkei": 56710.43,
+    "nikkei": 56790.12,
     "vix": 26.36,
-    "krw": 1343.6,
-    "gold": 3555.9,
-    "wti": 80.84,
-    "dxy": 103.91
+    "krw": 1344.58,
+    "gold": 3552.2,
+    "wti": 80.88,
+    "dxy": 103.93
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.03,
-    "nikkei": -3.3,
-    "krw": 0.19,
-    "dxy": -0.39,
-    "gold": -2.62,
-    "wti": 0.84,
+    "kospi": 0.19,
+    "nikkei": -3.16,
+    "krw": 0.27,
+    "dxy": -0.37,
+    "gold": -2.72,
+    "wti": 0.89,
     "vix": -0.98
   },
   "news": [
+    {
+      "t": "오늘의 증시",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vbjJVaElURmNNSV96TlROZXpFaFlLY0E0dkltUjNheXVuM3dlb09ab3pVTFUxbV9ya2h6ak5fUTVsTXhMZi1ka0FxZksxeW0yRXdLY0dqRjRDTC1YampIUkQwckdFS1NHdFFkeWVjOVVhdktxZThOMNIBeEFVX3lxTE1takVXMzRMNjhHY1BfOUp2VmN3c1dCblNXVTBMd3ZBNVEwZGhZUURDLTNGV1N0TnpKUWFNdTlRUEpLYm15YlplWGlweWN2RlA2aHdlUlZ4cmdqM0RVM2RQQ3RjdzVRSDEwNGRWMklzSE1UeGgwNnI5Qg?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T03:24:19+00:00"
+    },
     {
       "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVTBoTGUzanRMdWdnaUxLMjluSmpsQ3hUSXBDZXBfclJ0WnpULU5ILW1IajVjWXY0dUR3OUtxMkVDdHV0WG93SG45MDhFa1EyMXJpN0xrOE1jeDliQnVwR3J6akxTVXprMnZHUVNLeEU?oc=5",
       "s": "연합인포맥스",
       "d": "2026-11-25T03:17:38+00:00"
+    },
+    {
+      "t": "미 '과잉생산 관세' 오늘 나오나‥\"한국 15% 예상\"",
+      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45UzVRXzJJd2Ficnh3OWx3ZHRfUGRqZUt6N2taQWlMRkNzMGNuVHM5RHo1WGJCd1owSVNFS0xGRU1menVZVk8ycEF0VW9XRmg1aUlzWjRwZnhxREQ5YVgwUWJwRnhCamRGNF9Lb3FMbHdCZVBxLXBQSNIBeEFVX3lxTE9TNmRlMUV0MktwX3JvNmt4TmFIaGtBT3hiMDZlMy1Qd29YUlRMQzlCd3F6WVk2T05QZi1vSk1vNDBSVFFxZzYyV1JVU2MxQlZSOUhhTW9vT21NQUhKWHYyZFl0Q0N4M1BvNklFTHNsVWdKUzh5S2lBdw?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T03:16:30+00:00"
     },
     {
       "t": "10월 은행권 주담대 금리 4.98%…“6개월 연속 상승”",
@@ -41,6 +53,18 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XVWg5dk5MY1ZyN2JscFk1ODNZelo2YS1HcUtROWtCNzA4VUV5bENITmEzVFdjMEF5ZElsZzh3YmxPbGFReEwyRUdDQ3AyakZReXhEQi03RDc2SDVyTnpV?oc=5",
       "s": "헬로티",
       "d": "2026-11-25T03:07:16+00:00"
+    },
+    {
+      "t": "가계대출 금리 3년 만에 5% 넘어…주택대출 금리는 약 15년 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEtJY3JuanRZblY3d3ZsbmNYSm51S2diTVF2YjBacGROSE1VbkZFa0hlOUN5NkhBcEJRN3diVVR2dTdiSmlzTHZwbUtlRXBLT0dycVBoSS1rcFFBUXd5akNRUEdsZFU5eHVfbTVyaHFJaXhTS05ya0tuMm1VRU5QLTk4cFNpSDBNQVFTNHNB?oc=5",
+      "s": "조선일보",
+      "d": "2026-11-25T03:05:46+00:00"
+    },
+    {
+      "t": "가계대출 금리 35개월 만에 5% 돌파… 주담대 14년 7개월 만에 최고",
+      "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmRKNEl3QUNWRG5qM2NUV0szZ282TXRpeUJhOEYyTV9fNGhZTGFVMG5rNW9ZX3VYS0pIQkpVSWN0akJMd1hEQVlRVjF6ZXBBRjBiMEtYek1iS2R0eWZCMzBFaVNJY2dEQTdIek1aVEVRR1dDTmNQUWtOSWdQTUN3S1pvQlR0Z9IBmgFBVV95cUxQaExIZndFOXJLdjVBNVF5NkU5dXVnejJ0VmRkYlpOWXM3a2d6Qk1mdVA3REc1clRTdVdCWHl3Tk40VDNPeHViNThmYWtGUmdkY2tJNEtoU2hnd3AwN1Y4LTczZHhOSHpKek9uelo3Y1drZU5qUmRtUUlXZUI4bExqanVaQUF1d3doTEhjbXZrWlQ3NUV1TXpSdm53?oc=5",
+      "s": "Chosunbiz",
+      "d": "2026-11-25T03:04:59+00:00"
     },
     {
       "t": "코스피, 하루만에 5,000선 아래로…매도사이드카",
@@ -59,30 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNERRVThjcW5xd0ZYcTBUMDZhQ0VubTdaNGFzWDZFcmVLblhQV2JydmlWR0o1eDVXNmk2ZDdTX19HX0dBeGtTTmUwcjVmWmczRjVtNzl2Mk53bElPN1dfNkdpSV9raFU?oc=5",
       "s": "연합뉴스TV",
       "d": "2026-11-25T03:01:00+00:00"
-    },
-    {
-      "t": "10월 주택담보대출 금리 6개월째 상승해 5% 육박",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5NGhmcXhrOWctN2VHOFduWnYzVHJBRmdqSnFRMXNBYkJaQS0wMGwyY1liNkxtWGdtdTJGdHRzMXpTaldOQlNkOHhHRmxNaUxQSl9KNjM1ODM0Z3ZDb0szTW1ZWU0zMlV0NUhMZlVNQjM?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T03:00:33+00:00"
-    },
-    {
-      "t": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84ZVl6TDFLZlBtQVJMWG5GZXdiZzdSbEdWcUx3NU5RVURnYVA5eWtFd1oyYXQyV0pDM0I1NzRMUVU3WlNLNHd0Uy1UMTgwcWpYTlpSdG44dzFaQWfSAWBBVV95cUxOS0k4b19kbVFmbVQxVkItMGJWLXFncTdUOXFmeXptV0NPUnF4d2Vzc3RJbkJOZGlwYVdneTVqR1JOTEhWT2tJR1M4SkpiUFVLYnRzRjdET2RHb2NQLUJyZGU?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-25T03:00:09+00:00"
-    },
-    {
-      "t": "은행 가계대출 금리 3년 만에 5% 돌파…고정형 주담대 역대 최장 상승",
-      "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2SEFubnFjOGg4V0s3ZkhWbXZXVm9Qby1HdWkxcG1kWHVMclhIZFRCdU50RkkwM0RYNW1SSlpIMk1iV09EeDJ0WFoxZUd6UGllU0hBZnJmWUtrQWl0aTBRemZFVkVvX2ZxLWlCbDNfMEY4bG8?oc=5",
-      "s": "마켓인",
-      "d": "2026-11-25T03:00:05+00:00"
-    },
-    {
-      "t": "S&P500 선물, 기술주 약세 흐름 속 하락…美 국채금리↓",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMQXo1YWdkMUkwanBhQmZ2UVJ6elJjSGY2bWdmRlpTN2k4blBFcXFJeDZqRFRWWnlhT0NoNG1yUlBEeHBjYUJDUzBYSU9rdW9tX3FlS2FGa1B0bWR1WWlHNkw1VGtrMjgzZkJSY0kxLWg?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T02:59:19+00:00"
     }
   ],
   "asof": {},
