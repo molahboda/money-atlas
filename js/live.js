@@ -1,34 +1,40 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T04:31:01+00:00",
-  "quotesAt": "2026-11-25T04:31:01+00:00",
-  "newsAt": "2026-11-25T04:31:01+00:00",
+  "fetchedAt": "2026-11-25T04:46:01+00:00",
+  "quotesAt": "2026-11-25T04:46:01+00:00",
+  "newsAt": "2026-11-25T04:46:01+00:00",
   "quotes": {
-    "kospi": 4715.91,
+    "kospi": 4735.83,
     "spx": 7201.09,
-    "nikkei": 57121,
+    "nikkei": 57033.98,
     "vix": 26.36,
-    "krw": 1343.28,
-    "gold": 3555.4,
-    "wti": 80.77,
-    "dxy": 103.97
+    "krw": 1342.98,
+    "gold": 3548.4,
+    "wti": 80.78,
+    "dxy": 103.96
   },
   "daily": {
     "spx": 4.21,
-    "kospi": 0.16,
-    "nikkei": -2.6,
-    "krw": 0.17,
-    "dxy": -0.33,
-    "gold": -2.63,
-    "wti": 0.75,
+    "kospi": 0.58,
+    "nikkei": -2.75,
+    "krw": 0.15,
+    "dxy": -0.34,
+    "gold": -2.82,
+    "wti": 0.76,
     "vix": -0.98
   },
   "news": [
     {
-      "t": "10월 가계대출 금리, 2년 11개월 만에 5% 돌파…주담대도 최고",
-      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2RPX0c1NVFqOVE4cVRqbHdUOFZEQXRBT2NEQVZJUE5IcUxwdkxPMnpMdUEyQjFRRG9wUlF1VjIyYVNmMXFtTlhrRllfc0VxVmowWFJNYTQxZDRhUExEalJBMzJXbFhYTHFmeTFhWjIxM25lM1YtQWtJcTlMM0pwTnFISlE?oc=5",
-      "s": "글로벌이코노믹",
-      "d": "2026-11-25T04:15:30+00:00"
+      "t": "기계연, 반도체 원자층 제어… 차세대 AI 소자 구현",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSFoxMEdTVF9IcldNZWNzS2p3X2VmU3JudXBiYzJyZ1hxeVNpUUZDM3FpVlJSSW9JZzkzTlE4Z1Nta3ZMNDVWS21mYVBaLU5YZU9uN0RYN3oyRmNEZ1FwRTFlaEJKd1NienlkNVVQc1hMUQ?oc=5",
+      "s": "굿모닝충청",
+      "d": "2026-11-25T04:23:34+00:00"
+    },
+    {
+      "t": "日 증시도 '젠슨 황 랠리' 하루 만에 증발‥닛케이 3.3% 급락",
+      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54SHNhMlRld3VhUlpfd3Z4YlFjV3lrLVdLcUppdXh0NS1rUGhWYTloUURhbExsSVFUY3RQdHJDY2RDVy1DSGJJVl9FcFVTVHk2MTBUZXpJeEVJTXFnZ3YwMzJoelVRcTNZSnMtVkJKeWplLV9H0gF0QVVfeXFMTzcyYmNzYjdUQ1VLMVN1eE9KYlpSdklDUTR0WVFieW1pWlE4SjFjTUNFbXIyRnkzT3BmNEVtemQ3WEg3b0hzcU1LX0YzbWZNZ29kQ2F6VTJiUHYtWU9DV1dxNlc0X0dLOG1ZYW54N2llRGJ5Q3o?oc=5",
+      "s": "MBC 뉴스",
+      "d": "2026-11-25T04:22:36+00:00"
     },
     {
       "t": "금통위 경계 속 국고채 '불 플래트닝'…코스피 급락·外人 매수",
@@ -55,22 +61,10 @@ window.LIVE_DATA = {
       "d": "2026-11-25T03:54:09+00:00"
     },
     {
-      "t": "외인 추가 매도 코스피, 장중 6% 급락에 4700도 붕괴...반도체 9~10% ↓",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE52NjFJdmpFRjhWanlJSHp0Q1h4eDBLUm51QmVHaWMzaThGWGYtZkV3M2hGdE16d3JxSE15OWQwTmVzbDRJN0Q3SmxuWERHM1duQVBMLWdmUUo3bHNnM19BeEdCWURFVTgyZnJWeFJiUUUwdw?oc=5",
-      "s": "오피니언뉴스",
-      "d": "2026-11-25T03:52:01+00:00"
-    },
-    {
       "t": "日증시도 젠슨황 랠리 증발…닛케이지수 3.3% 급락",
       "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlTGRfd1FPZWNRdkZ4VWFqQXNjOHRFZDZtZnZXd0dQbl9vRzFqM2g5VHVNdWN2LW1EX3RoTTNjaHF3Rk4wZDI3LWJtckxCR1h0bWc?oc=5",
       "s": "매일경제 마켓",
       "d": "2026-11-25T03:48:49+00:00"
-    },
-    {
-      "t": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11TGFYYkt2OEZmZjkySW9zaWpNMXMyRVRIa2loRS1mUFBKSmhWLUtaY1FEZXVUNXdOYUpGUnNfaTJocU4xaFhYSUFaYW83SGl5MGw0YjF6Sm5ESjjSAWBBVV95cUxNRkVFTlNJSm1vZnlfYTlkVk1yMHpJdGgtNkVJOVU3WHFDbXJFTFJ4ZzlOUUdZOWVmLXZMQlVfSFg3V3FtLVVxdThKTUhXTXVvY1AzOWNYQmY1QUNpa201bU8?oc=5",
-      "s": "연합뉴스",
-      "d": "2026-11-25T03:41:21+00:00"
     },
     {
       "t": "AI 매도세 심화·미국 관세 위협에 아시아 증시 하락",
@@ -83,6 +77,12 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vbjJVaElURmNNSV96TlROZXpFaFlLY0E0dkltUjNheXVuM3dlb09ab3pVTFUxbV9ya2h6ak5fUTVsTXhMZi1ka0FxZksxeW0yRXdLY0dqRjRDTC1YampIUkQwckdFS1NHdFFkeWVjOVVhdktxZThOMNIBeEFVX3lxTE1takVXMzRMNjhHY1BfOUp2VmN3c1dCblNXVTBMd3ZBNVEwZGhZUURDLTNGV1N0TnpKUWFNdTlRUEpLYm15YlplWGlweWN2RlA2aHdlUlZ4cmdqM0RVM2RQQ3RjdzVRSDEwNGRWMklzSE1UeGgwNnI5Qg?oc=5",
       "s": "MBC 뉴스",
       "d": "2026-11-25T03:24:19+00:00"
+    },
+    {
+      "t": "\"연준만 美증시의 진정한 구원자…백악관 아니다\"",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwVTBoTGUzanRMdWdnaUxLMjluSmpsQ3hUSXBDZXBfclJ0WnpULU5ILW1IajVjWXY0dUR3OUtxMkVDdHV0WG93SG45MDhFa1EyMXJpN0xrOE1jeDliQnVwR3J6akxTVXprMnZHUVNLeEU?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T03:17:38+00:00"
     }
   ],
   "asof": {},
