@@ -1,34 +1,52 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T14:31:01+00:00",
-  "quotesAt": "2026-11-25T14:31:01+00:00",
-  "newsAt": "2026-11-25T14:31:01+00:00",
+  "fetchedAt": "2026-11-25T14:46:02+00:00",
+  "quotesAt": "2026-11-25T14:46:02+00:00",
+  "newsAt": "2026-11-25T14:46:02+00:00",
   "quotes": {
     "kospi": 4697.51,
-    "spx": 7039,
+    "spx": 6984.74,
     "nikkei": 57011.62,
-    "vix": 31.65,
-    "krw": 1345.58,
-    "gold": 3507.5,
+    "vix": 31.72,
+    "krw": 1347.7,
+    "gold": 3491.2,
     "wti": 82.76,
-    "dxy": 103.97
+    "dxy": 103.94
   },
   "daily": {
-    "spx": -2.74,
+    "spx": -3.49,
     "kospi": -0.23,
     "nikkei": -2.78,
-    "krw": 0.34,
-    "dxy": 0.16,
-    "gold": -1.53,
+    "krw": 0.5,
+    "dxy": 0.12,
+    "gold": -1.98,
     "wti": 0.87,
-    "vix": 20.07
+    "vix": 20.33
   },
   "news": [
     {
-      "t": "[AI MY 뉴스] 뉴욕증시 반도체주 프리뷰...코어위브 CDS 사상 최고에 AI주 '휘청'",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oa3BGN1JyRFlmY2o5NHVTeERuUi1IN1Z2R0ZnVzc1MXpyaDJlSkVEbi1TTGREaHdJZWVOM0dhUWpUVW10ZVcwWEE1SlZIZWxiNXpBX1lzQXZIN2Rv?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-25T14:26:00+00:00"
+      "t": "트럼프, 韓에 ‘과잉생산’ 관세 추가…‘디지털 관세’ 또 남았다",
+      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuM2JfdHFNb3NBQ2VWSWRfUXhjTzA5Sjh0VUxOMENiN19Ob0lyNFFJN3ZpSkFJbXNhamMwM1dScG5TZ1o5cTdiUDNvQmVyM1RPcFlacmhB?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-25T14:40:32+00:00"
+    },
+    {
+      "t": "미국, 무역 합의 시 인도산 제품 관세 17%로 제한 가능",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzcHFEVUJLN3dLMndseGFPa3l2bnFxd0QwbUVhTlNpZVJiSkVCWE9PdjFBa1lDYUUzVEZRb3J5dkd1elpPVXAtSXJTMEtxN2hhWlhXY1AzYlZFbEVKYUhILUs1aUFERmp3dU90dXh4eV8?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-25T14:39:00+00:00"
+    },
+    {
+      "t": "나도 받을 수 있을까? 152만명 정보 유출된 한전의 보상안",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qWC0taFJCdjZZcXBieU05NHdMTzN5N2dSbkdCd1BCVXctbndzTmlCLWZZTFdpZDc3cHVnVG5ZVVpZT0Nya0NsM1VVNFRiZzZrSlE?oc=5",
+      "s": "네이버페이 머니스토리",
+      "d": "2026-11-25T14:30:34+00:00"
+    },
+    {
+      "t": "美 10월 근원 PCE 물가 3.3%…내년 추가 긴축 압박",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUekFXUlRPUjZGaVphUHJCWVA0di01WUdobnVHWFBSbnd5ODZidXY0N0NWMUp5STZOSnRxVFEyWUU4ZktQbmxCZnI5Q2NTWTh4bFZmakQxX3hqUQ?oc=5",
+      "s": "한국경제",
+      "d": "2026-11-25T14:28:37+00:00"
     },
     {
       "t": "美 10월 개인소비물가 3.8%↑…'12월 금리 인상' 굳히기 - 머니투데이",
@@ -37,13 +55,7 @@ window.LIVE_DATA = {
       "d": "2026-11-25T14:25:05+00:00"
     },
     {
-      "t": "美USTR, 14개 경제주체에 과잉생산 관세…\"韓 15% 상한 유지\"",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14eUFwWklpWWVJM0M5UHNXR0hQMk5PaWIycVFBVE9ac0t1d0FDNEFWeUItVHBSQnc0NWZ3QUw4Y3ZpQU15elhXUU5KZUdYWFpKS1g5TGVmWnoxekw1a3AxSW5MX0lKTy1EeEE?oc=5",
-      "s": "금융소비자뉴스",
-      "d": "2026-11-25T14:21:50+00:00"
-    },
-    {
-      "t": "美 새 관세 발표…한국·일본 15% 유지, 중국은 최대 40%",
+      "t": "美 새 관세 발표…한국·일본 15% 유지,중국은 최대 40%",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VVlYxbUtZNXFMRENobVBzS05oeW5iNWN3RzVDOHVYaFJNSTlqYmZGTVcwbUJSRUZka1hfUDlRYkRKVXJUZl82S01VTlJHRmw3TS1ucWk3QnlRQQ?oc=5",
       "s": "한국경제",
       "d": "2026-11-25T14:20:55+00:00"
@@ -61,7 +73,7 @@ window.LIVE_DATA = {
       "d": "2026-11-25T14:18:53+00:00"
     },
     {
-      "t": "엔비디아 시간외 6% 급락…美 물가·관세 충격에 AI株 휘청[월가 업&다운]",
+      "t": "엔비디아 시간외 6% 급락…美 물가·관세 충격에 AI株 휘청 [월가 업&다운]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrYjlpdW1tektxdU9CMlNUV0xuUGxFSFdCTjJwMnZrWkhXTXlmVzEwcnJYOEVGMkFnZnJYYVJXUHllU0x3M09oSHRnMnVOcTdaWUNjMEtsTXFTdw?oc=5",
       "s": "한국경제",
       "d": "2026-11-25T14:17:13+00:00"
@@ -71,18 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlUzNvNDBnX1FfcnVZWVVvYmsyVzRzbkRDYVhXa3BNaEE2UTYxWUhZNVpnLWZJVEhLc2x4cTYtcncxTEpsdWVqc2FzaWxhUHdwa1U2ck1YdHZzblk?oc=5",
       "s": "에너지경제신문",
       "d": "2026-11-25T14:17:01+00:00"
-    },
-    {
-      "t": "美 '과잉생산 관세' 예고…\"한국 15% 상한 유지\"",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vaFA4WHMxLXFJczl0dmpFMlFnZkRfUFpTTjZnb1BkMjNDWFhVa3lVdTN3TE1CYjlQc3g4TnMxWXg5Y1hjNjZsWE1CNUN3aTRaMC1iallsaTE5UQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-25T14:14:26+00:00"
-    },
-    {
-      "t": "[속보] 미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
-      "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcV9RZkpTUTZrYkdsMlFod0dza0l3NHdxdlFxZjlwT2ZhWVFuNlplMDUtbm9jUGwwZkc1Q2ZOdDBvVG1JTFQwMDdJU3JXZ09YTFJaMjVXRnd2Um9XQzFodTNTcklpRUhvY2JwZ2JiR0tjcE9lLW5FekFhX1F0bzIzOGhn?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-25T14:07:00+00:00"
     }
   ],
   "asof": {},
