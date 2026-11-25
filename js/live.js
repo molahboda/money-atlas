@@ -1,39 +1,69 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-25T10:16:01+00:00",
-  "quotesAt": "2026-11-25T10:16:01+00:00",
-  "newsAt": "2026-11-25T10:01:01+00:00",
+  "fetchedAt": "2026-11-25T10:31:01+00:00",
+  "quotesAt": "2026-11-25T10:31:01+00:00",
+  "newsAt": "2026-11-25T10:31:01+00:00",
   "quotes": {
     "kospi": 4697.51,
     "spx": 7201.09,
     "nikkei": 57011.62,
-    "vix": 28.93,
+    "vix": 29.23,
     "krw": 1343,
-    "gold": 3562.2,
-    "wti": 81.69,
-    "dxy": 104.03
+    "gold": 3559.8,
+    "wti": 81.79,
+    "dxy": 104
   },
   "daily": {
     "spx": 4.21,
     "kospi": -0.23,
     "nikkei": -2.78,
     "krw": 0.15,
-    "dxy": 0.21,
-    "gold": 0.01,
-    "wti": -0.44,
-    "vix": 9.75
+    "dxy": 0.19,
+    "gold": -0.06,
+    "wti": -0.32,
+    "vix": 10.89
   },
   "news": [
     {
-      "t": "[사설]가계대출 위험 키운 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
-      "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3lzOTlaXy1Rbl85Q3VTVGlrc2lrYXR5TnpFUkR4YVdnWEloOWtOaHQ5ZmZvb0JnLW1kdEpCeGR0Y1FYbUsyR0Z5TlRnT0YtRWRiaWwtUTBLYmNNRkgtQllPYk5JQjRUV2Z4ZEhtMEdxd1pTcWhDZ0dlQi1Db2NITTJyVjhtTHAzaHNrLWpkdF9TempnTXp1TkRsRHBzc1FvZ3Q4MERxVmNHUdIBX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF?oc=5",
-      "s": "경향신문",
-      "d": "2026-11-25T09:36:00+00:00"
+      "t": "올해 마지막 금통위…한은, 금리 인상으로 물가 잡나",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93SnZ3bHlPSzRKLU9sQTRhN3c4Ym51eWdaN2RrYjlwQklJcnp3UEdZNUtUbUxuXzNsTVVvaGczd3JkVDI3OEljWkt4MnNtMVQ0TXlUaFlMejdJZEJmNTM2OHZacWRjaFk?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-25T10:03:00+00:00"
     },
     {
-      "t": "美 과잉생산 관세 발표 임박…韓 ‘15% 방어’ 관건",
-      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JUmNWSklOLXlGLWhTZG9Xb1cyMGRXdGZDT1NZbWl3cXlsODdQYVRsNkQ4bTBqMHlibVd3UWpvODhIUGFWSVd2M0taanZBOHdkOFVqcEtzZ1JKUllzaDl3VzZtclRmV3ZTLUJ5YXVCYUtybU1SYUHSAWZBVV95cUxOVjE1WENnU0dINVVvQVFhZUtMNG53cXpGdkt5NzM2em1DalZYSGlvM052bUozZVZpZFp5N2NTS2JFY2R2WWtfVHlXREM1M0h0NGtGemFLcUJXcEhUMWVDbzk5ZjU2Q3c?oc=5",
-      "s": "동아일보",
+      "t": "[베트남 증시] 사상 최대 외국인 순매도 '폭탄'에 하락...전 업종에 매도세 확산",
+      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41aS1BbGktbURsakZTWjJZYWVnQVM5cHY0R2JUMDFKTjUyc2ptcnJYaFR2ZEt0aEM0M3oyc0NrNG9mRFFWc3VuZTZFdVB1LUlsOUd2TllnbmN2WFRG?oc=5",
+      "s": "뉴스핌",
+      "d": "2026-11-25T10:03:00+00:00"
+    },
+    {
+      "t": "[사설] 반도체 특수에도 먹구름 낀 평택 부동산 시장",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wU1F5cl9xWlpMcDRnX2p6Q3loY3A3Rm9TamszQnlWUWF4Y2JYM0tLV3R6cjZaWUc3X0E3SWNKZmxYamhXeFVHTzY5UHhheVoyYmdMMFlIVHhtZGdEWndsT0FmaDJrbTRQdzN1ZVFn?oc=5",
+      "s": "중부일보",
+      "d": "2026-11-25T10:00:00+00:00"
+    },
+    {
+      "t": "호주달러, 고물가에도 급락…증시 불안에 이달 6.6%↓",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aVUctd3pVbHRNX2JhZllyMEpnNnV6SVJkTlZObTVfaHdsSzlTSTJvdUxYUDBBcjRsMzNvTElCb3ZpQk9mTXZYTThZRFI0ZWQyN3dKdXE1bk5YZ1BiSDYxV3c0cTZCOENJblVRdWdKZDQ?oc=5",
+      "s": "연합인포맥스",
+      "d": "2026-11-25T09:58:32+00:00"
+    },
+    {
+      "t": "코스피 5,000선 또 붕괴...미 경기 사이클로 짚어본 추가 하락 가능성 [몇층이세요]",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUUlEdDIyME5ERnpfR1VUNXZUR2dHa3ZyYWtGNEJxTDBUVG5xa1dndmQwUlU3X1piRUs5N0RTeXk1amlYWXB4MFpzdThTakdCbU9TQnNtTFB4d0x2T2c?oc=5",
+      "s": "YTN",
+      "d": "2026-11-25T09:56:00+00:00"
+    },
+    {
+      "t": "‘젠슨황 효과’ 딱 하루 갔다…코스피 상승분 모두 반납",
+      "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wTUNtYmZvQmlOVzJaQzNwNWwwLTc4SjlROWF2Rkk3WXR3VlBSRUlkOG5tQ2dwZVlxOGR4ZFlJTHpHbHlRczAxSkloWDd1UFdBNFIzWQ?oc=5",
+      "s": "JTBC",
+      "d": "2026-11-25T09:47:00+00:00"
+    },
+    {
+      "t": "[사설]가계대출 위험 키운 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Wmw1NzYyb2MxdkZSUWlTVlhBRGVwZ2tzcHFEN3pUd2VfY2hNMUhLQ0V4N1QtNklXRTMwQVo0QzBpMTZBTUNJLW94dVhDVUlwdDNOSUJtOEtyd9IBX0FVX3lxTE9zSzR2ZzFXOTJwVEpmMFNmOE51ekpSZDlYeFZLOGZFVmVaVm5fOURvNjNKSWZpaGkwRUJJUHpIYW4wTmhKaTM2Ym0tMHRRYjVFM2tkZzRJVnU0Tm9XUkdF?oc=5",
+      "s": "경향신문",
       "d": "2026-11-25T09:36:00+00:00"
     },
     {
@@ -53,36 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
       "s": "한겨레",
       "d": "2026-11-25T09:16:00+00:00"
-    },
-    {
-      "t": "[더나은미래 경제브리핑] 은행 가계대출 금리 3년 만에 5% 돌파, 주담대는 14년 7개월 만에 ‘최고’...유한양행, 김열홍·강대식 총괄 공동부대표 선임, ‘투톱 체제’ 유력",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZTFg4ZHFtZERfcll1MV9KWGgtTmU1N1ByYWtRMVZjX0tIckpSNFFWQURDQjlBMWNDNGFUWnRKdVRWZmNJeEIwVGxFVUNoYUltR2c?oc=5",
-      "s": "더나은미래",
-      "d": "2026-11-25T09:16:00+00:00"
-    },
-    {
-      "t": "김정관 산업장관 \"R&D 52시간 예외 내일부터라도…반도체부터 적용해야\"",
-      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fQ1BmYnRmTjhlaHNxSUU4elpOOEVXajlTWnF2NC1LRjQwMUtMNmFOVWE3c0NsSkRiT3NDUzBuSVBnUU95TFVmcVk3dWhvcnE3VHR0THM2NlFOLVRBMEtmOUx1SFJnY0xMNlJ3bDNEM00?oc=5",
-      "s": "연합인포맥스",
-      "d": "2026-11-25T09:13:13+00:00"
-    },
-    {
-      "t": "반도체 호황의 여파…삼전닉스 예치금, 주담대 금리까지 밀어올려",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ld05YNElZUnFsbW9fT2w2dnFqcXg5blUxd2NRQjhwcmNBeG5KSWxpMXUtX1o4RnJnSjhfbjAyWGQxZ2xXTXRjWUF4TU5tQl91Si1PRUcyTVIwZnF0c1hORk1jSTFtUkU?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-25T09:09:00+00:00"
-    },
-    {
-      "t": "AI 불안에 주가 ‘급등락’…PCE 물가 지표 앞두고 선물 하락",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdG1BNFl5dVBucndEaThaMG51R1dtZGQ0cEF2UlgxWWZHUmluYVFCXzRWSExzWmtSc1dZUkxCTWhoSXFQTzh2bW50MlNQcU5xamVMN2ozY25POWJSVXBjZWtFd21pN2gySFE?oc=5",
-      "s": "Investing.com 한국어",
-      "d": "2026-11-25T09:03:00+00:00"
-    },
-    {
-      "t": "불안한 '대미관세 15%'…뇌관은 '디지털 규제'",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BT1VNeXN4MGg5Uzg5d1VpX1Q5Unk5UmE4YW1qQTJMSEdjRFNyVmxhRzFqZHhBcWlWamwtS0RLRzBBbU9WMFh1Rm5LeFdKMVNrMUdBU3YtR3padmtVV0Y0?oc=5",
-      "s": "뉴스토마토",
-      "d": "2026-11-25T09:00:00+00:00"
     }
   ],
   "asof": {},
