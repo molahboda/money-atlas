@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-28T02:45:19+00:00",
-  "quotesAt": "2026-11-28T02:45:19+00:00",
-  "newsAt": "2026-11-28T02:45:19+00:00",
+  "fetchedAt": "2026-11-28T03:00:19+00:00",
+  "quotesAt": "2026-11-28T03:00:19+00:00",
+  "newsAt": "2026-11-28T03:00:19+00:00",
   "quotes": {
     "kospi": 4915.68,
     "spx": 7297.49,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -11.16
   },
   "news": [
+    {
+      "t": "국민銀 \"내년 평균 환율 1,320원…상고하저에 1,200원대도\"",
+      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aNlZTNDZIVnVPT1U1ZlpyOTE4OUlZam1HMGtublZrVnVxblM0SUNudXpwZlZBWlRFUkxXVi13N1Q0YThadG85cFB2UWlvSGhjTUwtdGxJZC1FNVRZeDczV0lpWmtfLWFSNGFHUk9rRklPZw?oc=5",
+      "s": "KB Think",
+      "d": "2026-11-28T02:56:47+00:00"
+    },
     {
       "t": "뉴욕증시 일제히 상승…AI 투자 우려 완화",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02LW1mWVZ4SzJDTzEzNEdLdWpfQ1VOQWhmVUdpTHJWRXJLZ3RaTGw3Q3ZQT29CejN4RnlMOEdyRUN6RE1WMi1ic3Zuc1BCQ3psN05LdkpDZTlGQjRKMnhvTmNDblpqNzQ?oc=5",
@@ -62,7 +68,7 @@ window.LIVE_DATA = {
     },
     {
       "t": "증시안정펀드, 다음 주 윤곽...규모·운영방식 주목",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kVWl1RGc3XzkyWXUxU19yMm1rQ2U2Q1UzZTlyZnhaV3prV2RDZ0RUSTZhUE9ZdW13N2hNWWp5ZXlCZ1RleUpQekMzX0lPTV9aaVh0ei11N1BJeC10ZFE?oc=5",
+      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5naUZqU3VKamUxa0gzLTNYSFNCeUZHZzVCMUM1QzJtWHpMY09sNlBzSm9wSWQxNldBY3JtTmc4NlJWOENjaWkzdVZVbkhDSmpiYWN4dkVaTXBqVVFHaS04R0gyc2hKY3o5b3V4Zi10cw?oc=5",
       "s": "YTN",
       "d": "2026-11-28T02:01:00+00:00"
     },
@@ -70,12 +76,6 @@ window.LIVE_DATA = {
       "t": "[홍승희 칼럼] 금리인상에 붙은 꼬리",
       "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaTlNYklrQVdUX251RjFKeHdfOVN4Yzl2eTV6OVo4ZEJOVzFKREV6UWRaVGhWT0RLUm1oWHc4VjdEUGdYUWg1NVpTSlBCd2hpRDBYMmlieEhXbDVDOWNOMGJNYWkyeUZQelE?oc=5",
       "s": "서울파이낸스",
-      "d": "2026-11-28T02:00:00+00:00"
-    },
-    {
-      "t": "17만원대 삼성전자 아직 바닥 아니다?…‘4만전자’ 가능성 있다",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84YmRGVUkwakExLVh4cmpFa1dPZlFmMVlTNFVoeWx1SkRrek9ldnVfS250eUZYTzg1bEdZcHpUd2s1UW11MzBtMmlkd21OUTJDVHRpWG42REVUd2NyMTh1NkpjVUtlSWk3ZFVr?oc=5",
-      "s": "주간조선",
       "d": "2026-11-28T02:00:00+00:00"
     },
     {
