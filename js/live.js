@@ -1,14 +1,14 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-28T03:30:19+00:00",
-  "quotesAt": "2026-11-28T03:30:19+00:00",
-  "newsAt": "2026-11-28T03:30:19+00:00",
+  "fetchedAt": "2026-11-28T03:45:19+00:00",
+  "quotesAt": "2026-11-28T03:45:19+00:00",
+  "newsAt": "2026-11-28T03:45:19+00:00",
   "quotes": {
     "kospi": 4915.68,
     "spx": 7297.49,
     "nikkei": 58711.11,
     "vix": 23.81,
-    "krw": 1333,
+    "krw": 1333.9,
     "gold": 3668.5,
     "wti": 83.08,
     "dxy": 104.01
@@ -17,7 +17,7 @@ window.LIVE_DATA = {
     "spx": 1.34,
     "kospi": 4.64,
     "nikkei": 2.11,
-    "krw": -0.74,
+    "krw": -0.68,
     "dxy": 0.33,
     "gold": 3.75,
     "wti": -0.72,
@@ -49,6 +49,12 @@ window.LIVE_DATA = {
       "d": "2026-11-28T03:00:03+00:00"
     },
     {
+      "t": "메모리주, 더 떨어질까 반등할까…2027년 업황에 답이 있습니다 [2027 메모리 반도체]｜Global Money Club",
+      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1TWxBc0FMTW43TXVHbGhFUnU5eUdXVzBzbVBzdDVqODJFMFVuUGw2OXVMV3lQTi1QUmtlWjJZVXBzOGFwOGRvTk9hVmtmcjI0U1R1UTc4Y3NBYms?oc=5",
+      "s": "중앙일보",
+      "d": "2026-11-28T03:00:00+00:00"
+    },
+    {
       "t": "국민銀 \"내년 평균 환율 1,320원…상고하저에 1,200원대도\"",
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aNlZTNDZIVnVPT1U1ZlpyOTE4OUlZam1HMGtublZrVnVxblM0SUNudXpwZlZBWlRFUkxXVi13N1Q0YThadG85cFB2UWlvSGhjTUwtdGxJZC1FNVRZeDczV0lpWmtfLWFSNGFHUk9rRklPZw?oc=5",
       "s": "KB Think",
@@ -77,12 +83,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13cmIzeFNBZUhncERwWkt6OHIzaFV1VGU1SDVqT2VtdFgyN2RhMDhHZVBRQjUwWWdIaVNYamFMaUk5b0ZXcVFvcG05dzZ6eFVQaDJaRERjQTZfeV92UEZiX1lOaDg?oc=5",
       "s": "디지털데일리",
       "d": "2026-11-28T02:11:15+00:00"
-    },
-    {
-      "t": "[미국증시] 추수감사절 주간 반등…골드만은 매도 경고",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSU2Yya2xYemI1MnVTbVItWkd2Q0hrMHlQQ1JSY3JRNW1rMzB0ZmRPcEkwUVN4a1BJal9mSHlITGpTRmh6VFlOakM5M3hRbGRwYW15THlNZDVKMkJSaTVyanloazI0YVU?oc=5",
-      "s": "자본시장뉴스",
-      "d": "2026-11-28T02:10:00+00:00"
     }
   ],
   "asof": {},
