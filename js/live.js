@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-28T03:45:19+00:00",
-  "quotesAt": "2026-11-28T03:45:19+00:00",
-  "newsAt": "2026-11-28T03:45:19+00:00",
+  "fetchedAt": "2026-11-28T04:00:19+00:00",
+  "quotesAt": "2026-11-28T04:00:19+00:00",
+  "newsAt": "2026-11-28T04:00:19+00:00",
   "quotes": {
     "kospi": 4915.68,
     "spx": 7297.49,
@@ -24,6 +24,12 @@ window.LIVE_DATA = {
     "vix": -11.16
   },
   "news": [
+    {
+      "t": "공화당서 번지는 ‘트럼프 관세’ 재검토론…캐나다 관세 첫 시험대",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbnc1T09Sa3VwVjhTcUJ4X0VIeFVtZTBuTTl2el9ZaHBtckdwVUJibzlDU0ZfMkZlYzR4c1ZiY0pfdlBJWmhXaWNmVXJ2LWwzRUVOa01oazd5dTlMUmJUMXVUSnA5eEwtUnc?oc=5",
+      "s": "www.sisaworld.kr",
+      "d": "2026-11-28T03:53:31+00:00"
+    },
     {
       "t": "“이래도 금리 올릴 거야?”…불안한 AI株, ‘연준 풋’ 나올까 [머니+]",
       "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VWhnVHkxSUhBQ0JMRnZ1S3VlVlk2QW9hWVVPelJ3MHJjZVdiSHVKV1JKdHp2ZFE0T3hkbE05RUlQZFhGNFlwUGdwSEJzSWoyTHdTX2taWDFqUUdyUFRfYU5n?oc=5",
@@ -47,12 +53,6 @@ window.LIVE_DATA = {
       "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxLXRsV1llelZTcWpCMHhsWlB1b0NTRFViVkNwYWVBNUFXMlBxeGNNNXFiWmRyVTBLVkQ5R0NLUkVfOHdIaDNFNFZzMUhFMWxlNXpFdXpxZGNsdTMwcGlhbnpndS1MUjhFNzdJ?oc=5",
       "s": "비즈워치",
       "d": "2026-11-28T03:00:03+00:00"
-    },
-    {
-      "t": "메모리주, 더 떨어질까 반등할까…2027년 업황에 답이 있습니다 [2027 메모리 반도체]｜Global Money Club",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1TWxBc0FMTW43TXVHbGhFUnU5eUdXVzBzbVBzdDVqODJFMFVuUGw2OXVMV3lQTi1QUmtlWjJZVXBzOGFwOGRvTk9hVmtmcjI0U1R1UTc4Y3NBYms?oc=5",
-      "s": "중앙일보",
-      "d": "2026-11-28T03:00:00+00:00"
     },
     {
       "t": "국민銀 \"내년 평균 환율 1,320원…상고하저에 1,200원대도\"",
