@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-28T03:15:19+00:00",
-  "quotesAt": "2026-11-28T03:15:19+00:00",
-  "newsAt": "2026-11-28T03:15:19+00:00",
+  "fetchedAt": "2026-11-28T03:30:19+00:00",
+  "quotesAt": "2026-11-28T03:30:19+00:00",
+  "newsAt": "2026-11-28T03:30:19+00:00",
   "quotes": {
     "kospi": 4915.68,
     "spx": 7297.49,
@@ -25,6 +25,18 @@ window.LIVE_DATA = {
   },
   "news": [
     {
+      "t": "“이래도 금리 올릴 거야?”…불안한 AI株, ‘연준 풋’ 나올까 [머니+]",
+      "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82VWhnVHkxSUhBQ0JMRnZ1S3VlVlk2QW9hWVVPelJ3MHJjZVdiSHVKV1JKdHp2ZFE0T3hkbE05RUlQZFhGNFlwUGdwSEJzSWoyTHdTX2taWDFqUUdyUFRfYU5n?oc=5",
+      "s": "에너지경제신문",
+      "d": "2026-11-28T03:22:53+00:00"
+    },
+    {
+      "t": "AI 거품론에 무너진 코스피 … 증안펀드 40조로 막을 수 있나",
+      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sQ1ZrZjBXMkQ4YnNFTzlZd0RacVRhcU9aTXkxaGUyUzNCcjdaWG03OTlySUdzYTlIQ01GdGQ3UUJvaE5uTUFOSG4ySkg1TEVDLXhIOXFJakVIdkY4TzlZTXBBcDNHY2RtZ0ZBS0ZBVEZJbF96M1JQWjRya9IBgAFBVV95cUxPd0dNRHU2SjhQT29pbjJHUlJ5dmpYWGdBU3dVeVI4RTlOOXVfVkFMc0dOSFBqNUc4aV9CTjE2dDBXa1JJalBYNHB1U0M1bzMwa01FalczdGFCU0s4ZkdrTXVzWXRBc0w0Z1JQSkJiR01YZklna05jSHIxREtpWkpaQw?oc=5",
+      "s": "뉴데일리 경제",
+      "d": "2026-11-28T03:04:00+00:00"
+    },
+    {
       "t": "코스피 5000선 뚫을까…증안펀드·젠슨 황에 쏠린 눈[다음주 주요변수 미리보기]",
       "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82a0RFYUxkVWIzbThES1hQMm9VZS1MTDhYOTlmYmJqUi1SdVpqakNxYU9CWVJyQ21FYzRVRW5YN3p3OVhva1g1MTR6aGtJT2xZaXJvSEZzcS1wZw?oc=5",
       "s": "한국경제",
@@ -44,9 +56,9 @@ window.LIVE_DATA = {
     },
     {
       "t": "뉴욕증시 일제히 상승…AI 투자 우려 완화",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yODhSZWxWWnNnYjJrQmtzUWNtdHkyUTRDN3ZxRDY0bVg1aFQ4WkJNSUxHc2xheHB4TmxqLWxmZl9IN0luRm8tdWpvVkRkekcwM01MNlh5Y251RFY1YVVfeDNEdmo1aXM5d2xQcEZKS0VUYnNP?oc=5",
-      "s": "연합뉴스 한민족센터",
-      "d": "2026-11-28T02:33:15+00:00"
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02LW1mWVZ4SzJDTzEzNEdLdWpfQ1VOQWhmVUdpTHJWRXJLZ3RaTGw3Q3ZQT29CejN4RnlMOEdyRUN6RE1WMi1ic3Zuc1BCQ3psN05LdkpDZTlGQjRKMnhvTmNDblpqNzQ?oc=5",
+      "s": "연합뉴스TV",
+      "d": "2026-11-28T02:32:00+00:00"
     },
     {
       "t": "[다음주 경제] 증시 안정 대책 논의…잠재성장률 상향·예산안 처리 관심",
@@ -67,22 +79,10 @@ window.LIVE_DATA = {
       "d": "2026-11-28T02:11:15+00:00"
     },
     {
-      "t": "\"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이",
-      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KYTEtcXBBUGpXdWVvVllISHQ3cmsxN3drdVZGbVNYNEpWVWdIckF5ZURCMUNFcEwwVGRLMjlQUHYtQkFiMDJUTFlxZE04ODF4S0NxSlFHU1h0c1VhN25mdHlfbUtTZmJJ0gFuQVVfeXFMT3pqTVZvX2FCMFIyUUpzbDBZdzJydGJaTDZ6QWg1RmhKcTNZbU12bV9VVHB0bWNkc1IxVDdMekRYaDYxck5Ua29GUThoR2MwY1ZNb3NoTXdJMzI3NXhleHVyZXVONnIyZW9idFZOWUE?oc=5",
-      "s": "머니투데이",
-      "d": "2026-11-28T02:07:38+00:00"
-    },
-    {
-      "t": "증시안정펀드, 다음 주 윤곽...규모·운영방식 주목",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5naUZqU3VKamUxa0gzLTNYSFNCeUZHZzVCMUM1QzJtWHpMY09sNlBzSm9wSWQxNldBY3JtTmc4NlJWOENjaWkzdVZVbkhDSmpiYWN4dkVaTXBqVVFHaS04R0gyc2hKY3o5b3V4Zi10cw?oc=5",
-      "s": "YTN",
-      "d": "2026-11-28T02:01:00+00:00"
-    },
-    {
-      "t": "[홍승희 칼럼] 금리인상에 붙은 꼬리",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaTlNYklrQVdUX251RjFKeHdfOVN4Yzl2eTV6OVo4ZEJOVzFKREV6UWRaVGhWT0RLUm1oWHc4VjdEUGdYUWg1NVpTSlBCd2hpRDBYMmlieEhXbDVDOWNOMGJNYWkyeUZQelE?oc=5",
-      "s": "서울파이낸스",
-      "d": "2026-11-28T02:00:00+00:00"
+      "t": "[미국증시] 추수감사절 주간 반등…골드만은 매도 경고",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSU2Yya2xYemI1MnVTbVItWkd2Q0hrMHlQQ1JSY3JRNW1rMzB0ZmRPcEkwUVN4a1BJal9mSHlITGpTRmh6VFlOakM5M3hRbGRwYW15THlNZDVKMkJSaTVyanloazI0YVU?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-11-28T02:10:00+00:00"
     }
   ],
   "asof": {},
