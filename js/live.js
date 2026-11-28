@@ -1,8 +1,8 @@
 /* 자동 생성 파일 — Cloudflare Workers updater 가 갱신합니다. 직접 수정하지 마세요. */
 window.LIVE_DATA = {
-  "fetchedAt": "2026-11-28T02:30:26+00:00",
-  "quotesAt": "2026-11-28T02:30:26+00:00",
-  "newsAt": "2026-11-27T09:31:10+00:00",
+  "fetchedAt": "2026-11-28T02:45:19+00:00",
+  "quotesAt": "2026-11-28T02:45:19+00:00",
+  "newsAt": "2026-11-28T02:45:19+00:00",
   "quotes": {
     "kospi": 4915.68,
     "spx": 7297.49,
@@ -25,64 +25,64 @@ window.LIVE_DATA = {
   },
   "news": [
     {
-      "t": "산업부 \"대미 관세 15% 유지될 것…확인받아\"",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85aHF2UnNkMEUzRlY1S29OZm9JcFFySlNJbW5IMUtmM3l1aEhnR3dFaTdWdF92Skx4NHZVSkNBRVd6dVJRUjFOTm05Y0U5SUwxbGJSOFNQVFpybFNzOHQyaGVOaHpCN0k?oc=5",
+      "t": "뉴욕증시 일제히 상승…AI 투자 우려 완화",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02LW1mWVZ4SzJDTzEzNEdLdWpfQ1VOQWhmVUdpTHJWRXJLZ3RaTGw3Q3ZQT29CejN4RnlMOEdyRUN6RE1WMi1ic3Zuc1BCQ3psN05LdkpDZTlGQjRKMnhvTmNDblpqNzQ?oc=5",
       "s": "연합뉴스TV",
-      "d": "2026-11-26T13:15:00+00:00"
+      "d": "2026-11-28T02:32:00+00:00"
     },
     {
-      "t": "젠슨 황만이 아니었다…엔비디아 임원, ‘대중국 반도체 밀수’ 혐의 기업 임원과 혼인",
-      "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTRkpWSkpaTmZDM01uckMxSDJSWlhGUjBWVFNQMlJpX1dabFR1RzB4blB6NkdOMlN6VmJMUWllenN5RF9zRXNUUkk1cDhyQk1IX1NwOEJNQ0RLT29PYkZCbXFydGtILWpyYnQ2RkQ4NA?oc=5",
-      "s": "한겨레",
-      "d": "2026-11-26T13:10:00+00:00"
+      "t": "[다음주 경제] 증시 안정 대책 논의…잠재성장률 상향·예산안 처리 관심",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQnY3TDBVOF8wc3V0U0o1eVB4SmRuMnkzWVJoLUVQdlF1SkFERHQzbmZxR3UwdXJGbXRDdnpWVUFEZndkV0lSRWExSERKUlprcUpheC1QNHNxMkRHWG1WdTdzZHdjVmxxVFkwVWVFZ0jSAXRBVV95cUxNd3JOX1lPZG1VRDk4MDJmNFhWUkZHd0VNeDdoSFRaVEtWaS1FQS1nNVVwaXBOM2pwMG9wOFpjLWpCeE1vWmVXNEtSRDhEbDNDcjRtMEljTTZvQ1ptNnRKTzFWcXVnUFktMDFCa2JQOXM2VGhISg?oc=5",
+      "s": "산경투데이",
+      "d": "2026-11-28T02:19:50+00:00"
     },
     {
-      "t": "금리 올렸는데 은행주 왜 파래요…한발 먼저 가는 주식 ‘선반영’ 해석",
-      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VZWtSc09sZnktLS1KYlFLb1hCbFhTeTdubHE4N1l6QlVTdEFNVWRTS0xQVUNDR2JQMUJ6cHJQY2k2OHI1QVVCMGFwaWFhRFFUSmc?oc=5",
-      "s": "매일경제 마켓",
-      "d": "2026-11-26T13:06:04+00:00"
+      "t": "[해외시황] 뉴욕증시, AI·기술주 반등에 3대 지수 상승…나스닥 2.31%↑",
+      "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5naVRNMFhHQUNaQTlldVloVG85djJJQ1g1bkhqZmxBbERSOE4xMXc0YVE3SC01UkdvbTVnM0VqMXE0U1JLbFhtQ2tQT0psWEtUUkFOakh2RjlDbFVyY0ptOA?oc=5",
+      "s": "프라임경제",
+      "d": "2026-11-28T02:14:10+00:00"
     },
     {
-      "t": "기준금리 연 3.25%로 인상...내년 초도 금리 오를까?",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSEJvTHIyMnpqblM0NnV3dTUyY0xkV0poOG80ZzlhOGZwNXZadXAxVE5XejhWczF2ZGY1WlJkZVdnLWFhbkFNNWgyOEtGeHM4bndLTWxBWnhIbC1IMlE?oc=5",
+      "t": "“4% 급등에도 고점 대비 반토막”…코스피 구할 증안펀드 언제 투입되나 [증시레이더]",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13cmIzeFNBZUhncERwWkt6OHIzaFV1VGU1SDVqT2VtdFgyN2RhMDhHZVBRQjUwWWdIaVNYamFMaUk5b0ZXcVFvcG05dzZ6eFVQaDJaRERjQTZfeV92UEZiX1lOaDg?oc=5",
+      "s": "디지털데일리",
+      "d": "2026-11-28T02:11:15+00:00"
+    },
+    {
+      "t": "[미국증시] 추수감사절 주간 반등…골드만은 매도 경고",
+      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSU2Yya2xYemI1MnVTbVItWkd2Q0hrMHlQQ1JSY3JRNW1rMzB0ZmRPcEkwUVN4a1BJal9mSHlITGpTRmh6VFlOakM5M3hRbGRwYW15THlNZDVKMkJSaTVyanloazI0YVU?oc=5",
+      "s": "자본시장뉴스",
+      "d": "2026-11-28T02:10:00+00:00"
+    },
+    {
+      "t": "\"코스닥 8%, 코스피 4% 쭉쭉\" 증안펀드 기대, 외인도 올라탔다 - 머니투데이",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KYTEtcXBBUGpXdWVvVllISHQ3cmsxN3drdVZGbVNYNEpWVWdIckF5ZURCMUNFcEwwVGRLMjlQUHYtQkFiMDJUTFlxZE04ODF4S0NxSlFHU1h0c1VhN25mdHlfbUtTZmJJ0gFuQVVfeXFMT3pqTVZvX2FCMFIyUUpzbDBZdzJydGJaTDZ6QWg1RmhKcTNZbU12bV9VVHB0bWNkc1IxVDdMekRYaDYxck5Ua29GUThoR2MwY1ZNb3NoTXdJMzI3NXhleHVyZXVONnIyZW9idFZOWUE?oc=5",
+      "s": "머니투데이",
+      "d": "2026-11-28T02:07:38+00:00"
+    },
+    {
+      "t": "증시안정펀드, 다음 주 윤곽...규모·운영방식 주목",
+      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kVWl1RGc3XzkyWXUxU19yMm1rQ2U2Q1UzZTlyZnhaV3prV2RDZ0RUSTZhUE9ZdW13N2hNWWp5ZXlCZ1RleUpQekMzX0lPTV9aaVh0ei11N1BJeC10ZFE?oc=5",
       "s": "YTN",
-      "d": "2026-11-26T13:06:00+00:00"
+      "d": "2026-11-28T02:01:00+00:00"
     },
     {
-      "t": "\"반도체 슈퍼사이클 끝나면 어떻게 할텐가\"…한국은행의 경고 [분석+]",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IemJGWkRqX1VIWmo2cmI2Y1pCTXh5bi1CV2tzYzM0VU83MVZSVUdzUHpzSFh1RHVsV0FzbkpfWHB4VWlPS2pvN2FwOFAyZklvNVZVM3d1WVQtQQ?oc=5",
-      "s": "한국경제",
-      "d": "2026-11-26T13:00:03+00:00"
+      "t": "[홍승희 칼럼] 금리인상에 붙은 꼬리",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaTlNYklrQVdUX251RjFKeHdfOVN4Yzl2eTV6OVo4ZEJOVzFKREV6UWRaVGhWT0RLUm1oWHc4VjdEUGdYUWg1NVpTSlBCd2hpRDBYMmlieEhXbDVDOWNOMGJNYWkyeUZQelE?oc=5",
+      "s": "서울파이낸스",
+      "d": "2026-11-28T02:00:00+00:00"
     },
     {
-      "t": "[기준금리 인상] 가계 이자 부담 가중·소비 위축 우려 속 가구 실질소득 10분기 만 마이너스 전환",
-      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0ZFlQOHZ6V3hxQVBHRV9UX3hiTU00OGhpamx4dmhBMFlQX2dsN1d1Ni00VFNhSFQtaGVfNkJVYklyLW1KMkJ5UWdXbkV2MzBhS1JGakZwRFA2bmdmM2hpQ21Ib3VEeWg2Vmc?oc=5",
-      "s": "영남일보",
-      "d": "2026-11-26T12:53:28+00:00"
+      "t": "17만원대 삼성전자 아직 바닥 아니다?…‘4만전자’ 가능성 있다",
+      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84YmRGVUkwakExLVh4cmpFa1dPZlFmMVlTNFVoeWx1SkRrek9ldnVfS250eUZYTzg1bEdZcHpUd2s1UW11MzBtMmlkd21OUTJDVHRpWG42REVUd2NyMTh1NkpjVUtlSWk3ZFVr?oc=5",
+      "s": "주간조선",
+      "d": "2026-11-28T02:00:00+00:00"
     },
     {
-      "t": "中 \"미국의 대중 301관세 부과 반대, 필요 조치 취할 것\"",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ld3pYNmxoQ3d0MmRsMm1hSW9nMTh6cloyd3NqX2JPQkhHV3VFSEtyU2p1X2QzbUhOdFRBU2tzMHFEZTN1Q2QyMGNHbW1QSTZqNXpxNDlUaF9ldkRY?oc=5",
-      "s": "뉴스핌",
-      "d": "2026-11-26T12:44:00+00:00"
-    },
-    {
-      "t": "'보합' 문턱 서울 아파트값‥금리 인상에 강북도 꺾일까",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wU0ZETm1LVGYzb2VZNi1FU1gtcTU2ajdqWlpCSWdPaVJIaDJ0ZDRuWUx0RHowY1B5TV9WMU5tbHJpZkhrbF9JeGVfWlllM0cxU3h0UFFoNDhBdDh0MzJZTndXYldwLVdyeVIteXEyVWo2bS1jNGVZMdIBeEFVX3lxTE5OY3RvT0VYN3dPSFZKX0o0UVBmRGF1cGZpVk5KdzhuanpPaTV0aHMweWpJM0ZNRURHZ1R5U0xrVy00cTNIMk8xdHhjejFiVEdnNW85cWdvRl93ZTE4OS1zT1RlV2pyYVhaS0g4X004c1lvcVVnZ2ZoLQ?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-26T12:40:23+00:00"
-    },
-    {
-      "t": "\"4.1% 전망치, 근거 자신 있어\"‥내년 금리 추가 인상도 시사",
-      "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxelNzR0xjcUo0TnQ2c3JSZkoxWGZMZ2toWG42ajUybHFDZ2syZjdtYm5HUFRyNEJYSVhYTmYzbEFocVhJOGlxZ25VUFhjU1lCOVFGOFQta2U1Z0xWYW15X292OTk4SURKQ2xWM2ZRXzZwQ21TdnFFctIBeEFVX3lxTE5renpMQmoydDg2QTRyZGZiQTlBUE9Bai1FVE40UVdRWEZCZGd4NTZZdTlsV0xfM3FYSTNEcVhRZFBjazM4blAtbEJudXNWNDYyVUJNUEV4S1NfSEgxeEpoUUdoOFZORW03TktjVERXSEhmY3B1T0RNQg?oc=5",
-      "s": "MBC 뉴스",
-      "d": "2026-11-26T12:35:10+00:00"
-    },
-    {
-      "t": "‘35% 관세 표적’ 베트남 “미국 우려 해소·무역협상 마무리 노력”",
-      "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSXFvTVRnU1RoaXJUbkxBTmFxeHU3U0lzaDBadEoyUzNvWDJwR2FaemdQY2FrcUl5NEd3YkU1M0d0cVpxaVJyWTV0R3BvbTFBb0kzcGhzdTJWYm8?oc=5",
-      "s": "KBS 뉴스",
-      "d": "2026-11-26T12:32:00+00:00"
+      "t": "ECB 인사들 “물가 여전히 높아 추가 금리 인상 필요할 수도” By Investing.com",
+      "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSEx0aUx6YzdHLXJUTlh4bGZid3FVRW5OZ2MtaE5jbTFCVXdweG5ULWFXM0JXSWoyTDc2WVE4SnhRY0JnUldYVzhoenh1UnZIeHFxQWlKbloxZTNqcWI5UXdfeGt5UzVOSWRqRGRGOVo?oc=5",
+      "s": "Investing.com 한국어",
+      "d": "2026-11-28T01:40:00+00:00"
     }
   ],
   "asof": {},
